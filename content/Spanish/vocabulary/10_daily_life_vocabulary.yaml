@@ -1,0 +1,933 @@
+lesson: 10_Daily_Life_Vocabulary
+lesson_number: 10
+cefr: A2
+categories:
+- id: 1_family
+  label:
+    en: 1. Family
+    ko: 1. 가족
+  type: vocabulary
+  words:
+  - spanish: la familia
+    translation:
+      en: family
+      ko: 가족
+    gender: null
+  - spanish: el/la primo/a
+    translation:
+      en: cousin
+      ko: 사촌
+    gender: null
+  - spanish: el padre / papá
+    translation:
+      en: father/dad
+      ko: 아버지/아빠
+    gender: null
+  - spanish: el/la tío/a
+    translation:
+      en: uncle/aunt
+      ko: 삼촌/이모(고모)
+    gender: null
+  - spanish: la madre / mamá
+    translation:
+      en: mother/mom
+      ko: 어머니/엄마
+    gender: null
+  - spanish: el/la sobrino/a
+    translation:
+      en: nephew/niece
+      ko: 조카(남/녀)
+    gender: null
+  - spanish: el/la hijo/a
+    translation:
+      en: son/daughter
+      ko: 아들/딸
+    gender: null
+  - spanish: el/la abuelo/a
+    translation:
+      en: grandfather/grandmother
+      ko: 할아버지/할머니
+    gender: null
+  - spanish: el/la hermano/a
+    translation:
+      en: brother/sister
+      ko: 형제/자매
+    gender: null
+  - spanish: el/la nieto/a
+    translation:
+      en: grandson/granddaughter
+      ko: 손자/손녀
+    gender: null
+  - spanish: el/la esposo/a
+    translation:
+      en: husband/wife
+      ko: 남편/아내
+    gender: null
+  - spanish: el/la suegro/a
+    translation:
+      en: father/mother-in-law
+      ko: 시아버지/시어머니(장인/장모)
+    gender: null
+  - spanish: el/la novio/a
+    translation:
+      en: boyfriend/girlfriend
+      ko: 남자친구/여자친구
+    gender: null
+  - spanish: el/la cuñado/a
+    translation:
+      en: brother/sister-in-law
+      ko: 시동생/처남(형부/제부)
+    gender: null
+  - spanish: el/la bebé
+    translation:
+      en: baby
+      ko: 아기
+    gender: null
+  - spanish: el/la yerno/nuera
+    translation:
+      en: son/daughter-in-law
+      ko: 사위/며느리
+    gender: null
+- id: fruits_las_frutas
+  label:
+    en: Fruits (las frutas)
+    ko: 과일 (las frutas)
+  type: vocabulary
+  words:
+  - spanish: la manzana
+    translation:
+      en: apple
+      ko: 사과
+    gender: null
+  - spanish: la naranja
+    translation:
+      en: orange
+      ko: 오렌지
+    gender: null
+  - spanish: el plátano / la banana
+    translation:
+      en: banana
+      ko: 바나나
+    gender: null
+  - spanish: la fresa
+    translation:
+      en: strawberry
+      ko: 딸기
+    gender: null
+  - spanish: la uva
+    translation:
+      en: grape
+      ko: 포도
+    gender: null
+  - spanish: el limón
+    translation:
+      en: lemon
+      ko: 레몬
+    gender: null
+  - spanish: la pera
+    translation:
+      en: pear
+      ko: 배
+    gender: null
+  - spanish: la sandía
+    translation:
+      en: watermelon
+      ko: 수박
+    gender: null
+  - spanish: el melocotón / durazno
+    translation:
+      en: peach
+      ko: 복숭아
+    gender: null
+  - spanish: la piña
+    translation:
+      en: pineapple
+      ko: 파인애플
+    gender: null
+- id: vegetables_las_verduras
+  label:
+    en: Vegetables (las verduras)
+    ko: 채소 (las verduras)
+  type: vocabulary
+  words:
+  - spanish: la patata / papa
+    translation:
+      en: potato
+      ko: 감자
+    gender: null
+  - spanish: la cebolla
+    translation:
+      en: onion
+      ko: 양파
+    gender: null
+  - spanish: el tomate
+    translation:
+      en: tomato
+      ko: 토마토
+    gender: null
+  - spanish: el ajo
+    translation:
+      en: garlic
+      ko: 마늘
+    gender: null
+  - spanish: la lechuga
+    translation:
+      en: lettuce
+      ko: 상추
+    gender: null
+  - spanish: la zanahoria
+    translation:
+      en: carrot
+      ko: 당근
+    gender: null
+  - spanish: el pimiento
+    translation:
+      en: pepper
+      ko: 고추/피망
+    gender: null
+  - spanish: el maíz
+    translation:
+      en: corn
+      ko: 옥수수
+    gender: null
+  - spanish: las judías / frijoles
+    translation:
+      en: beans
+      ko: 콩
+    gender: null
+  - spanish: el brócoli
+    translation:
+      en: broccoli
+      ko: 브로콜리
+    gender: null
+- id: meat_and_seafood
+  label:
+    en: Meat and Seafood
+    ko: 육류와 해산물
+  type: vocabulary
+  words:
+  - spanish: la carne
+    translation:
+      en: meat
+      ko: 고기
+    gender: null
+  - spanish: el pollo
+    translation:
+      en: chicken
+      ko: 닭고기
+    gender: null
+  - spanish: la carne de res
+    translation:
+      en: beef
+      ko: 쇠고기
+    gender: null
+  - spanish: el cerdo
+    translation:
+      en: pork
+      ko: 돼지고기
+    gender: null
+  - spanish: el pescado
+    translation:
+      en: fish
+      ko: 생선
+    gender: null
+  - spanish: los mariscos
+    translation:
+      en: seafood
+      ko: 해산물
+    gender: null
+  - spanish: el camarón / la gamba
+    translation:
+      en: shrimp
+      ko: 새우
+    gender: null
+  - spanish: el cordero
+    translation:
+      en: lamb
+      ko: 양고기
+    gender: null
+- id: beverages
+  label:
+    en: Beverages
+    ko: 음료
+  type: vocabulary
+  words:
+  - spanish: el agua
+    translation:
+      en: water
+      ko: 물
+    gender: null
+  - spanish: el jugo / zumo
+    translation:
+      en: juice
+      ko: 주스
+    gender: null
+  - spanish: el café
+    translation:
+      en: coffee
+      ko: 커피
+    gender: null
+  - spanish: la cerveza
+    translation:
+      en: beer
+      ko: 맥주
+    gender: null
+  - spanish: el té
+    translation:
+      en: tea
+      ko: 차
+    gender: null
+  - spanish: el vino
+    translation:
+      en: wine
+      ko: 와인
+    gender: null
+  - spanish: la leche
+    translation:
+      en: milk
+      ko: 우유
+    gender: null
+  - spanish: el refresco
+    translation:
+      en: soft drink
+      ko: 탄산음료
+    gender: null
+- id: 3_clothing
+  label:
+    en: 3. Clothing
+    ko: 3. 의류
+  type: vocabulary
+  words:
+  - spanish: la camisa
+    translation:
+      en: shirt
+      ko: 셔츠
+    gender: null
+  - spanish: los zapatos
+    translation:
+      en: shoes
+      ko: 신발
+    gender: null
+  - spanish: la camiseta
+    translation:
+      en: T-shirt
+      ko: 티셔츠
+    gender: null
+  - spanish: las botas
+    translation:
+      en: boots
+      ko: 부츠
+    gender: null
+  - spanish: el pantalón
+    translation:
+      en: pants
+      ko: 바지
+    gender: null
+  - spanish: las zapatillas
+    translation:
+      en: sneakers
+      ko: 운동화
+    gender: null
+  - spanish: los vaqueros / jeans
+    translation:
+      en: jeans
+      ko: 청바지
+    gender: null
+  - spanish: el sombrero
+    translation:
+      en: hat
+      ko: 모자(챙 있는)
+    gender: null
+  - spanish: la falda
+    translation:
+      en: skirt
+      ko: 치마
+    gender: null
+  - spanish: la gorra
+    translation:
+      en: cap
+      ko: 모자(캡)
+    gender: null
+  - spanish: el vestido
+    translation:
+      en: dress
+      ko: 원피스/드레스
+    gender: null
+  - spanish: los guantes
+    translation:
+      en: gloves
+      ko: 장갑
+    gender: null
+  - spanish: la chaqueta
+    translation:
+      en: jacket
+      ko: 재킷
+    gender: null
+  - spanish: la bufanda
+    translation:
+      en: scarf
+      ko: 목도리
+    gender: null
+  - spanish: el abrigo
+    translation:
+      en: coat
+      ko: 코트
+    gender: null
+  - spanish: el cinturón
+    translation:
+      en: belt
+      ko: 벨트
+    gender: null
+  - spanish: el traje
+    translation:
+      en: suit
+      ko: 정장
+    gender: null
+  - spanish: las gafas (de sol)
+    translation:
+      en: (sun)glasses
+      ko: (선)글라스
+    gender: null
+  - spanish: la corbata
+    translation:
+      en: tie
+      ko: 넥타이
+    gender: null
+  - spanish: el bolso
+    translation:
+      en: bag/purse
+      ko: 가방/핸드백
+    gender: null
+- id: rooms_las_habitaciones
+  label:
+    en: Rooms (las habitaciones)
+    ko: 방 (las habitaciones)
+  type: vocabulary
+  words:
+  - spanish: la cocina
+    translation:
+      en: kitchen
+      ko: 부엌
+    gender: null
+  - spanish: el dormitorio
+    translation:
+      en: bedroom
+      ko: 침실
+    gender: null
+  - spanish: el salón / la sala
+    translation:
+      en: living room
+      ko: 거실
+    gender: null
+  - spanish: el cuarto de baño
+    translation:
+      en: bathroom
+      ko: 욕실
+    gender: null
+  - spanish: el comedor
+    translation:
+      en: dining room
+      ko: 식당
+    gender: null
+  - spanish: el garaje
+    translation:
+      en: garage
+      ko: 차고
+    gender: null
+  - spanish: la entrada
+    translation:
+      en: entrance
+      ko: 현관
+    gender: null
+  - spanish: el balcón
+    translation:
+      en: balcony
+      ko: 발코니
+    gender: null
+  - spanish: el pasillo
+    translation:
+      en: hallway
+      ko: 복도
+    gender: null
+  - spanish: el jardín
+    translation:
+      en: garden
+      ko: 정원
+    gender: null
+- id: furniture_and_objects
+  label:
+    en: Furniture and Objects
+    ko: 가구와 물건
+  type: vocabulary
+  words:
+  - spanish: la mesa
+    translation:
+      en: table
+      ko: 테이블
+    gender: null
+  - spanish: la lámpara
+    translation:
+      en: lamp
+      ko: 램프
+    gender: null
+  - spanish: la silla
+    translation:
+      en: chair
+      ko: 의자
+    gender: null
+  - spanish: el espejo
+    translation:
+      en: mirror
+      ko: 거울
+    gender: null
+  - spanish: el sofá
+    translation:
+      en: sofa
+      ko: 소파
+    gender: null
+  - spanish: la alfombra
+    translation:
+      en: rug/carpet
+      ko: 러그/카펫
+    gender: null
+  - spanish: la cama
+    translation:
+      en: bed
+      ko: 침대
+    gender: null
+  - spanish: las cortinas
+    translation:
+      en: curtains
+      ko: 커튼
+    gender: null
+  - spanish: el armario
+    translation:
+      en: wardrobe/closet
+      ko: 옷장/벽장
+    gender: null
+  - spanish: la estantería
+    translation:
+      en: bookshelf
+      ko: 책장
+    gender: null
+  - spanish: el escritorio
+    translation:
+      en: desk
+      ko: 책상
+    gender: null
+  - spanish: la nevera / el refrigerador
+    translation:
+      en: fridge
+      ko: 냉장고
+    gender: null
+  - spanish: la televisión
+    translation:
+      en: TV
+      ko: 텔레비전
+    gender: null
+  - spanish: el horno
+    translation:
+      en: oven
+      ko: 오븐
+    gender: null
+  - spanish: el ordenador / la computadora
+    translation:
+      en: computer
+      ko: 컴퓨터
+    gender: null
+  - spanish: la lavadora
+    translation:
+      en: washing machine
+      ko: 세탁기
+    gender: null
+- id: 5_body_parts
+  label:
+    en: 5. Body Parts
+    ko: 5. 신체 부위
+  type: vocabulary
+  words:
+  - spanish: la cabeza
+    translation:
+      en: head
+      ko: 머리
+    gender: null
+  - spanish: la espalda
+    translation:
+      en: back
+      ko: 등
+    gender: null
+  - spanish: el pelo / cabello
+    translation:
+      en: hair
+      ko: 머리카락
+    gender: null
+  - spanish: el brazo
+    translation:
+      en: arm
+      ko: 팔
+    gender: null
+  - spanish: la cara
+    translation:
+      en: face
+      ko: 얼굴
+    gender: null
+  - spanish: la mano
+    translation:
+      en: hand
+      ko: 손
+    gender: null
+  - spanish: los ojos
+    translation:
+      en: eyes
+      ko: 눈
+    gender: null
+  - spanish: el dedo
+    translation:
+      en: finger
+      ko: 손가락
+    gender: null
+  - spanish: la nariz
+    translation:
+      en: nose
+      ko: 코
+    gender: null
+  - spanish: la pierna
+    translation:
+      en: leg
+      ko: 다리
+    gender: null
+  - spanish: la boca
+    translation:
+      en: mouth
+      ko: 입
+    gender: null
+  - spanish: la rodilla
+    translation:
+      en: knee
+      ko: 무릎
+    gender: null
+  - spanish: la oreja
+    translation:
+      en: ear (outer)
+      ko: 귀 (외이)
+    gender: null
+  - spanish: el pie
+    translation:
+      en: foot
+      ko: 발
+    gender: null
+  - spanish: el cuello
+    translation:
+      en: neck
+      ko: 목
+    gender: null
+  - spanish: el corazón
+    translation:
+      en: heart
+      ko: 심장
+    gender: null
+  - spanish: el hombro
+    translation:
+      en: shoulder
+      ko: 어깨
+    gender: null
+  - spanish: el estómago
+    translation:
+      en: stomach
+      ko: 위/배
+    gender: null
+- id: 6_transportation
+  label:
+    en: 6. Transportation
+    ko: 6. 교통수단
+  type: vocabulary
+  words:
+  - spanish: el coche / carro
+    translation:
+      en: car
+      ko: 자동차
+    gender: null
+  - spanish: el avión
+    translation:
+      en: airplane
+      ko: 비행기
+    gender: null
+  - spanish: el autobús / camión
+    translation:
+      en: bus
+      ko: 버스
+    gender: null
+  - spanish: el barco
+    translation:
+      en: ship/boat
+      ko: 배/선박
+    gender: null
+  - spanish: el tren
+    translation:
+      en: train
+      ko: 기차
+    gender: null
+  - spanish: la bicicleta
+    translation:
+      en: bicycle
+      ko: 자전거
+    gender: null
+  - spanish: el metro
+    translation:
+      en: subway
+      ko: 지하철
+    gender: null
+  - spanish: la moto(cicleta)
+    translation:
+      en: motorcycle
+      ko: 오토바이
+    gender: null
+  - spanish: el taxi
+    translation:
+      en: taxi
+      ko: 택시
+    gender: null
+  - spanish: a pie
+    translation:
+      en: on foot
+      ko: 도보
+    gender: null
+- id: travel_vocabulary
+  label:
+    en: Travel Vocabulary
+    ko: 여행 어휘
+  type: vocabulary
+  words:
+  - spanish: el aeropuerto
+    translation:
+      en: airport
+      ko: 공항
+    gender: null
+  - spanish: la estación de tren
+    translation:
+      en: train station
+      ko: 기차역
+    gender: null
+  - spanish: la parada de autobús
+    translation:
+      en: bus stop
+      ko: 버스 정류장
+    gender: null
+  - spanish: el billete / boleto
+    translation:
+      en: ticket
+      ko: 표/티켓
+    gender: null
+  - spanish: ida y vuelta
+    translation:
+      en: round trip
+      ko: 왕복
+    gender: null
+  - spanish: solo ida
+    translation:
+      en: one way
+      ko: 편도
+    gender: null
+  - spanish: el equipaje / la maleta
+    translation:
+      en: luggage / suitcase
+      ko: 짐/여행가방
+    gender: null
+  - spanish: el pasaporte
+    translation:
+      en: passport
+      ko: 여권
+    gender: null
+- id: weather_expressions
+  label:
+    en: Weather Expressions
+    ko: 날씨 표현
+  type: vocabulary
+  words:
+  - spanish: Hace sol.
+    translation:
+      en: It's sunny.
+      ko: 날이 맑다.
+    gender: null
+  - spanish: Hace calor.
+    translation:
+      en: It's hot.
+      ko: 덥다.
+    gender: null
+  - spanish: Hace frío.
+    translation:
+      en: It's cold.
+      ko: 춥다.
+    gender: null
+  - spanish: Hace viento.
+    translation:
+      en: It's windy.
+      ko: 바람이 분다.
+    gender: null
+  - spanish: Hace buen/mal tiempo.
+    translation:
+      en: It's good/bad weather.
+      ko: 날씨가 좋다/나쁘다.
+    gender: null
+  - spanish: Está nublado.
+    translation:
+      en: It's cloudy.
+      ko: 흐리다.
+    gender: null
+  - spanish: Está lloviendo.
+    translation:
+      en: It's raining.
+      ko: 비가 오고 있다.
+    gender: null
+  - spanish: Llueve.
+    translation:
+      en: It rains.
+      ko: 비가 온다.
+    gender: null
+  - spanish: Nieva.
+    translation:
+      en: It snows.
+      ko: 눈이 온다.
+    gender: null
+  - spanish: Hay niebla.
+    translation:
+      en: It's foggy.
+      ko: 안개가 끼었다.
+    gender: null
+  - spanish: Hay tormenta.
+    translation:
+      en: There's a storm.
+      ko: 폭풍이 있다.
+    gender: null
+- id: nature
+  label:
+    en: Nature
+    ko: 자연
+  type: vocabulary
+  words:
+  - spanish: el sol
+    translation:
+      en: sun
+      ko: 태양
+    gender: null
+  - spanish: el río
+    translation:
+      en: river
+      ko: 강
+    gender: null
+  - spanish: la luna
+    translation:
+      en: moon
+      ko: 달
+    gender: null
+  - spanish: el lago
+    translation:
+      en: lake
+      ko: 호수
+    gender: null
+  - spanish: la estrella
+    translation:
+      en: star
+      ko: 별
+    gender: null
+  - spanish: la montaña
+    translation:
+      en: mountain
+      ko: 산
+    gender: null
+  - spanish: el cielo
+    translation:
+      en: sky
+      ko: 하늘
+    gender: null
+  - spanish: el bosque
+    translation:
+      en: forest
+      ko: 숲
+    gender: null
+  - spanish: la nube
+    translation:
+      en: cloud
+      ko: 구름
+    gender: null
+  - spanish: la playa
+    translation:
+      en: beach
+      ko: 해변
+    gender: null
+  - spanish: el mar
+    translation:
+      en: sea
+      ko: 바다
+    gender: null
+  - spanish: la isla
+    translation:
+      en: island
+      ko: 섬
+    gender: null
+  - spanish: el árbol
+    translation:
+      en: tree
+      ko: 나무
+    gender: null
+  - spanish: la flor
+    translation:
+      en: flower
+      ko: 꽃
+    gender: null
+- id: 8_daily_routine_with_reflexive_verbs
+  label:
+    en: 8. Daily Routine with Reflexive Verbs
+    ko: 8. 재귀 동사를 활용한 일과
+  type: vocabulary
+  words:
+  - spanish: Me despierto y me levanto.
+    translation:
+      en: I wake up and get up.
+      ko: 일어나고 침대에서 나온다.
+    gender: null
+  - spanish: Me ducho y me lavo el pelo.
+    translation:
+      en: I shower and wash my hair.
+      ko: 샤워하고 머리를 감는다.
+    gender: null
+  - spanish: Me visto y me peino.
+    translation:
+      en: I get dressed and comb my hair.
+      ko: 옷을 입고 머리를 빗는다.
+    gender: null
+  - spanish: Desayuno café con tostadas.
+    translation:
+      en: I have coffee with toast for breakfast.
+      ko: 커피와 토스트로 아침을 먹는다.
+    gender: null
+  - spanish: Salgo de casa y voy al trabajo.
+    translation:
+      en: I leave home and go to work.
+      ko: 집을 나서서 직장에 간다.
+    gender: null
+  - spanish: Almuerzo con mis compañeros.
+    translation:
+      en: I have lunch with my colleagues.
+      ko: 동료들과 점심을 먹는다.
+    gender: null
+  - spanish: Vuelvo a casa y descanso.
+    translation:
+      en: I return home and rest.
+      ko: 집에 돌아와서 쉰다.
+    gender: null
+  - spanish: Hago ejercicio o paseo.
+    translation:
+      en: I exercise or take a walk.
+      ko: 운동을 하거나 산책한다.
+    gender: null
+  - spanish: Ceno y veo la televisión.
+    translation:
+      en: I have dinner and watch TV.
+      ko: 저녁을 먹고 텔레비전을 본다.
+    gender: null
+  - spanish: Me cepillo los dientes y me acuesto.
+    translation:
+      en: I brush my teeth and go to bed.
+      ko: 이를 닦고 잠자리에 든다.
+    gender: null

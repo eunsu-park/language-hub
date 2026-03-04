@@ -1,0 +1,66 @@
+lesson: 11_Past_Tenses_Preterite_vs_Imperfect
+lesson_number: 11
+cefr: B1
+categories:
+- id: dar_ver_short_irregulars
+  label:
+    en: DAR, VER (Short Irregulars)
+    ko: DAR, VER (단음절 불규칙 동사)
+  type: conjugation
+  verb: ir
+  tense: preterite
+  entries:
+  - subject: yo
+    form: di
+  - subject: tú
+    form: diste
+  - subject: él/ella
+    form: dio
+  - subject: nosotros
+    form: dimos
+  - subject: ellos
+    form: dieron
+- id: 3_preterite_spelling_changes
+  label:
+    en: '3. Preterite: Spelling Changes'
+    ko: '3. 점과거: 철자 변화'
+  type: vocabulary
+  words:
+  - spanish: c → qu (before -é)
+    translation:
+      en: buscar, tocar, sacar
+    gender: null
+    notes:
+      en: busqué
+  - spanish: g → gu (before -é)
+    translation:
+      en: llegar, pagar, jugar
+    gender: null
+    notes:
+      en: llegué
+  - spanish: z → c (before -é)
+    translation:
+      en: empezar, almorzar
+    gender: null
+    notes:
+      en: empecé
+- id: 5_imperfect_the_only_three_irregulars
+  label:
+    en: '5. Imperfect: The Only Three Irregulars'
+    ko: '5. 불완료 과거: 단 세 개의 불규칙 동사'
+  type: conjugation
+  verb: ir
+  tense: imperfect
+  entries:
+  - subject: yo
+    form: era
+  - subject: tú
+    form: eras
+  - subject: él/ella
+    form: era
+  - subject: nosotros
+    form: éramos
+  - subject: vosotros
+    form: erais
+  - subject: ellos
+    form: eran

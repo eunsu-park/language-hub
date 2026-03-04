@@ -1,0 +1,40 @@
+# Spanish Grammar — Index
+# Directory: language-hub/content/Spanish/grammar/
+
+course: Spanish
+section: grammar
+label:
+  en: "Spanish Grammar Reference"
+  ko: "스페인어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for regular, irregular, and stem-changing verbs across all tenses. Includes irregular commands, past participles, and gerunds."
+      ko: "모든 시제에 걸친 규칙, 불규칙, 어간 변화 동사의 완전한 동사 활용 패러다임. 불규칙 명령형, 과거분사, 현재분사 포함."
+    verbs_included: 20
+    categories:
+      - regular (hablar, comer, vivir)
+      - irregular (ser, estar, tener, haber, ir, hacer, decir, poder, querer, saber, poner, salir, venir, dar, ver, conocer)
+      - stem_change (pensar, pedir, dormir)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense formation rules, endings, usage guidelines, trigger words, and compound tense structures with HABER conjugations."
+      ko: "시제 형성 규칙, 어미, 사용법 지침, 트리거 단어, HABER 활용이 포함된 복합 시제 구조."
+    tenses_included:
+      simple: [present, preterite, imperfect, future, conditional, present_subjunctive, imperfect_subjunctive, imperative]
+      compound: [present_perfect, pluperfect, future_perfect, conditional_perfect, present_perfect_subjunctive, pluperfect_subjunctive]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns including ser/estar, preterite/imperfect, subjunctive triggers, conditionals, por/para, passive voice, and stem changes."
+      ko: "ser/estar, 과거/불완료, 접속법 트리거, 조건법, por/para, 수동태, 어간 변화를 포함한 문법 규칙, 대조, 패턴."
+    rules_included:
+      - ser_vs_estar
+      - preterite_vs_imperfect
+      - subjunctive_triggers
+      - si_clauses
+      - por_vs_para
+      - passive_voice
+      - stem_changes

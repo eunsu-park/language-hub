@@ -1,0 +1,312 @@
+lesson: 07_Pronouns_and_Prepositions
+lesson_number: 7
+cefr: A2
+categories:
+- id: 1_subject_pronouns
+  label:
+    en: 1. Subject Pronouns
+    ko: 1. 주격 대명사
+  type: pronoun
+  entries:
+  - person: 1st
+    singular: yo (I)
+    plural: nosotros/nosotras (we)
+  - person: 2nd informal
+    singular: tú (you)
+    plural: vosotros/vosotras (you all — Spain)
+  - person: 2nd formal
+    singular: usted (you)
+    plural: ustedes (you all)
+  - person: 3rd
+    singular: él/ella (he/she)
+    plural: ellos/ellas (they)
+- id: 2_direct_object_pronouns
+  label:
+    en: 2. Direct Object Pronouns
+    ko: 2. 직접 목적어 대명사
+  type: pronoun
+  entries:
+  - person: 1st
+    singular: me (me)
+    plural: nos (us)
+  - person: 2nd informal
+    singular: te (you)
+    plural: os (you all — Spain)
+  - person: 2nd formal
+    singular: lo/la (you)
+    plural: los/las (you all)
+  - person: 3rd masc.
+    singular: lo (him/it)
+    plural: los (them)
+  - person: 3rd fem.
+    singular: la (her/it)
+    plural: las (them)
+- id: 3_indirect_object_pronouns
+  label:
+    en: 3. Indirect Object Pronouns
+    ko: 3. 간접 목적어 대명사
+  type: pronoun
+  entries:
+  - person: 1st
+    singular: me (to me)
+    plural: nos (to us)
+  - person: 2nd informal
+    singular: te (to you)
+    plural: os (to you all)
+  - person: 3rd
+    singular: le (to him/her/you)
+    plural: les (to them/you all)
+- id: 6_reflexive_pronouns
+  label:
+    en: 6. Reflexive Pronouns
+    ko: 6. 재귀 대명사
+  type: conjugation
+  tense: present
+  entries:
+  - subject: yo
+    form: me
+    example:
+      es: Me levanto.
+      en: I get up.
+  - subject: tú
+    form: te
+    example:
+      es: Te duchas.
+      en: You shower.
+  - subject: él/ella/Ud.
+    form: se
+    example:
+      es: Se peina.
+      en: He/she combs his/her hair.
+  - subject: nosotros
+    form: nos
+    example:
+      es: Nos vestimos.
+      en: We get dressed.
+  - subject: vosotros
+    form: os
+    example:
+      es: Os sentáis.
+      en: You all sit down.
+  - subject: ellos/Uds.
+    form: se
+    example:
+      es: Se acuestan.
+      en: They go to bed.
+- id: common_reflexive_verbs
+  label:
+    en: Common Reflexive Verbs
+    ko: 주요 재귀 동사
+  type: vocabulary
+  words:
+  - spanish: levantarse
+    translation:
+      en: to get up
+      ko: 일어나다
+    gender: null
+  - spanish: peinarse
+    translation:
+      en: to comb one's hair
+      ko: 머리를 빗다
+    gender: null
+  - spanish: acostarse
+    translation:
+      en: to go to bed
+      ko: 잠자리에 들다
+    gender: null
+  - spanish: vestirse
+    translation:
+      en: to get dressed
+      ko: 옷을 입다
+    gender: null
+  - spanish: ducharse
+    translation:
+      en: to shower
+      ko: 샤워하다
+    gender: null
+  - spanish: sentarse
+    translation:
+      en: to sit down
+      ko: 앉다
+    gender: null
+  - spanish: lavarse
+    translation:
+      en: to wash oneself
+      ko: 씻다
+    gender: null
+  - spanish: irse
+    translation:
+      en: to leave
+      ko: 떠나다
+    gender: null
+  - spanish: cepillarse
+    translation:
+      en: to brush
+      ko: 양치하다/빗다
+    gender: null
+  - spanish: llamarse
+    translation:
+      en: to be called
+      ko: ~라고 불리다
+    gender: null
+  - spanish: despertarse
+    translation:
+      en: to wake up
+      ko: 잠에서 깨다
+    gender: null
+  - spanish: sentirse
+    translation:
+      en: to feel
+      ko: 느끼다
+    gender: null
+- id: possessive_adjectives_before_the_noun
+  label:
+    en: Possessive Adjectives (before the noun)
+    ko: 소유 형용사 (명사 앞에 위치)
+  type: pronoun
+  entries:
+  - person: yo
+    singular: mi
+    plural: mis
+  - person: tú
+    singular: tu
+    plural: tus
+  - person: él/ella/Ud.
+    singular: su
+    plural: sus
+  - person: nosotros
+    singular: nuestro/a
+    plural: nuestros/as
+  - person: vosotros
+    singular: vuestro/a
+    plural: vuestros/as
+  - person: ellos/Uds.
+    singular: su
+    plural: sus
+- id: possessive_pronouns_replace_noun
+  label:
+    en: Possessive Pronouns (replace noun)
+    ko: 소유 대명사 (명사를 대체)
+  type: conjugation
+  tense: present
+  entries:
+  - subject: yo
+    form: mío
+  - subject: tú
+    form: tuyo
+  - subject: él/ella
+    form: suyo
+  - subject: nosotros
+    form: nuestro
+- id: simple_prepositions
+  label:
+    en: Simple Prepositions
+    ko: 단순 전치사
+  type: preposition
+  entries:
+  - preposition: a
+    meaning:
+      en: to, at
+      ko: ~에, ~로
+    example: Voy a la escuela. (I go to school.)
+  - preposition: de
+    meaning:
+      en: of, from
+      ko: ~의, ~에서
+    example: Soy de México. (I'm from Mexico.)
+  - preposition: en
+    meaning:
+      en: in, on, at
+      ko: ~안에, ~위에, ~에서
+    example: Estoy en casa. (I'm at home.)
+  - preposition: con
+    meaning:
+      en: with
+      ko: ~와 함께
+    example: Voy con mi amigo. (I go with my friend.)
+  - preposition: sin
+    meaning:
+      en: without
+      ko: ~없이
+    example: Café sin azúcar. (Coffee without sugar.)
+  - preposition: por
+    meaning:
+      en: by, for, through
+      ko: ~에 의해, ~을 위해, ~을 통해
+    example: Paso por el parque. (I pass through the park.)
+  - preposition: para
+    meaning:
+      en: for, in order to
+      ko: ~을 위해, ~하기 위해
+    example: Es para ti. (It's for you.)
+  - preposition: entre
+    meaning:
+      en: between
+      ko: ~사이에
+    example: Entre tú y yo. (Between you and me.)
+  - preposition: sobre
+    meaning:
+      en: on, about
+      ko: ~위에, ~에 대해
+    example: El libro está sobre la mesa. (on the table)
+  - preposition: hasta
+    meaning:
+      en: until, up to
+      ko: ~까지
+    example: Trabajo hasta las 5. (I work until 5.)
+  - preposition: desde
+    meaning:
+      en: from, since
+      ko: ~부터, ~이래로
+    example: Vivo aquí desde 2020. (since 2020)
+  - preposition: hacia
+    meaning:
+      en: toward
+      ko: ~을 향해
+    example: Camino hacia la playa. (toward the beach)
+  - preposition: según
+    meaning:
+      en: according to
+      ko: ~에 따르면
+    example: Según él... (According to him...)
+- id: compound_prepositions
+  label:
+    en: Compound Prepositions
+    ko: 복합 전치사
+  type: preposition
+  entries:
+  - preposition: delante de
+    meaning:
+      en: in front of
+      ko: ~앞에
+    example: delante de la casa
+  - preposition: detrás de
+    meaning:
+      en: behind
+      ko: ~뒤에
+    example: detrás de ti
+  - preposition: encima de
+    meaning:
+      en: on top of
+      ko: ~위에
+    example: encima de la mesa
+  - preposition: debajo de
+    meaning:
+      en: under
+      ko: ~아래에
+    example: debajo de la cama
+  - preposition: al lado de
+    meaning:
+      en: next to
+      ko: ~옆에
+    example: al lado de la escuela
+  - preposition: cerca de
+    meaning:
+      en: near
+      ko: ~근처에
+    example: cerca de aquí
+  - preposition: lejos de
+    meaning:
+      en: far from
+      ko: ~에서 먼
+    example: lejos de la ciudad

@@ -1,0 +1,30 @@
+frameworks:
+  cefr:
+    full_name: "Common European Framework of Reference for Languages"
+    levels: [A1, A2, B1, B2, C1, C2]
+    applies_to: [Spanish, French, German, Italian, Portuguese]
+
+  jlpt:
+    full_name: "Japanese-Language Proficiency Test"
+    levels: [N5, N4, N3, N2, N1]
+    applies_to: [Japanese]
+    note: "N5 is easiest, N1 is hardest"
+
+  topik:
+    full_name: "Test of Proficiency in Korean"
+    levels: [TOPIK_I_1, TOPIK_I_2, TOPIK_II_3, TOPIK_II_4, TOPIK_II_5, TOPIK_II_6]
+    applies_to: [Korean]
+
+  hsk:
+    full_name: "Hanyu Shuiping Kaoshi"
+    levels: [HSK1, HSK2, HSK3, HSK4, HSK5, HSK6]
+    applies_to: [Chinese]
+
+# Approximate cross-framework mapping
+approximate_mapping:
+  A1: { jlpt: N5, topik: TOPIK_I_1, hsk: HSK1 }
+  A2: { jlpt: N4, topik: TOPIK_I_2, hsk: HSK2 }
+  B1: { jlpt: N3, topik: TOPIK_II_3, hsk: HSK3 }
+  B2: { jlpt: N2, topik: TOPIK_II_4, hsk: HSK4 }
+  C1: { jlpt: N1, topik: TOPIK_II_5, hsk: HSK5 }
+  C2: { jlpt: N1, topik: TOPIK_II_6, hsk: HSK6 }

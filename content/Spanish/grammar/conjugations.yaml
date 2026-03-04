@@ -1,0 +1,1394 @@
+# Spanish Verb Conjugation Paradigms
+# All tenses: present, preterite, imperfect, future, conditional,
+#             present_subjunctive, imperfect_subjunctive
+
+verbs:
+  # ============================================================
+  # REGULAR VERBS
+  # ============================================================
+  hablar:
+    infinitive: hablar
+    type: regular
+    group: "-AR"
+    stem_change: null
+    meaning:
+      en: to speak
+      ko: 말하다
+    tenses:
+      present:
+        yo: hablo
+        tú: hablas
+        él: habla
+        nosotros: hablamos
+        vosotros: habláis
+        ellos: hablan
+      preterite:
+        yo: hablé
+        tú: hablaste
+        él: habló
+        nosotros: hablamos
+        vosotros: hablasteis
+        ellos: hablaron
+      imperfect:
+        yo: hablaba
+        tú: hablabas
+        él: hablaba
+        nosotros: hablábamos
+        vosotros: hablabais
+        ellos: hablaban
+      future:
+        yo: hablaré
+        tú: hablarás
+        él: hablará
+        nosotros: hablaremos
+        vosotros: hablaréis
+        ellos: hablarán
+      conditional:
+        yo: hablaría
+        tú: hablarías
+        él: hablaría
+        nosotros: hablaríamos
+        vosotros: hablaríais
+        ellos: hablarían
+      present_subjunctive:
+        yo: hable
+        tú: hables
+        él: hable
+        nosotros: hablemos
+        vosotros: habléis
+        ellos: hablen
+      imperfect_subjunctive:
+        yo: hablara
+        tú: hablaras
+        él: hablara
+        nosotros: habláramos
+        vosotros: hablarais
+        ellos: hablaran
+
+  comer:
+    infinitive: comer
+    type: regular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to eat
+      ko: 먹다
+    tenses:
+      present:
+        yo: como
+        tú: comes
+        él: come
+        nosotros: comemos
+        vosotros: coméis
+        ellos: comen
+      preterite:
+        yo: comí
+        tú: comiste
+        él: comió
+        nosotros: comimos
+        vosotros: comisteis
+        ellos: comieron
+      imperfect:
+        yo: comía
+        tú: comías
+        él: comía
+        nosotros: comíamos
+        vosotros: comíais
+        ellos: comían
+      future:
+        yo: comeré
+        tú: comerás
+        él: comerá
+        nosotros: comeremos
+        vosotros: comeréis
+        ellos: comerán
+      conditional:
+        yo: comería
+        tú: comerías
+        él: comería
+        nosotros: comeríamos
+        vosotros: comeríais
+        ellos: comerían
+      present_subjunctive:
+        yo: coma
+        tú: comas
+        él: coma
+        nosotros: comamos
+        vosotros: comáis
+        ellos: coman
+      imperfect_subjunctive:
+        yo: comiera
+        tú: comieras
+        él: comiera
+        nosotros: comiéramos
+        vosotros: comierais
+        ellos: comieran
+
+  vivir:
+    infinitive: vivir
+    type: regular
+    group: "-IR"
+    stem_change: null
+    meaning:
+      en: to live
+      ko: 살다
+    tenses:
+      present:
+        yo: vivo
+        tú: vives
+        él: vive
+        nosotros: vivimos
+        vosotros: vivís
+        ellos: viven
+      preterite:
+        yo: viví
+        tú: viviste
+        él: vivió
+        nosotros: vivimos
+        vosotros: vivisteis
+        ellos: vivieron
+      imperfect:
+        yo: vivía
+        tú: vivías
+        él: vivía
+        nosotros: vivíamos
+        vosotros: vivíais
+        ellos: vivían
+      future:
+        yo: viviré
+        tú: vivirás
+        él: vivirá
+        nosotros: viviremos
+        vosotros: viviréis
+        ellos: vivirán
+      conditional:
+        yo: viviría
+        tú: vivirías
+        él: viviría
+        nosotros: viviríamos
+        vosotros: viviríais
+        ellos: vivirían
+      present_subjunctive:
+        yo: viva
+        tú: vivas
+        él: viva
+        nosotros: vivamos
+        vosotros: viváis
+        ellos: vivan
+      imperfect_subjunctive:
+        yo: viviera
+        tú: vivieras
+        él: viviera
+        nosotros: viviéramos
+        vosotros: vivierais
+        ellos: vivieran
+
+  # ============================================================
+  # KEY IRREGULAR VERBS
+  # ============================================================
+  ser:
+    infinitive: ser
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to be (essential/permanent)
+      ko: ~이다 (본질/영구적)
+    tenses:
+      present:
+        yo: soy
+        tú: eres
+        él: es
+        nosotros: somos
+        vosotros: sois
+        ellos: son
+      preterite:
+        yo: fui
+        tú: fuiste
+        él: fue
+        nosotros: fuimos
+        vosotros: fuisteis
+        ellos: fueron
+      imperfect:
+        yo: era
+        tú: eras
+        él: era
+        nosotros: éramos
+        vosotros: erais
+        ellos: eran
+      future:
+        yo: seré
+        tú: serás
+        él: será
+        nosotros: seremos
+        vosotros: seréis
+        ellos: serán
+      conditional:
+        yo: sería
+        tú: serías
+        él: sería
+        nosotros: seríamos
+        vosotros: seríais
+        ellos: serían
+      present_subjunctive:
+        yo: sea
+        tú: seas
+        él: sea
+        nosotros: seamos
+        vosotros: seáis
+        ellos: sean
+      imperfect_subjunctive:
+        yo: fuera
+        tú: fueras
+        él: fuera
+        nosotros: fuéramos
+        vosotros: fuerais
+        ellos: fueran
+
+  estar:
+    infinitive: estar
+    type: irregular
+    group: "-AR"
+    stem_change: null
+    meaning:
+      en: to be (state/location)
+      ko: ~이다 (상태/위치)
+    tenses:
+      present:
+        yo: estoy
+        tú: estás
+        él: está
+        nosotros: estamos
+        vosotros: estáis
+        ellos: están
+      preterite:
+        yo: estuve
+        tú: estuviste
+        él: estuvo
+        nosotros: estuvimos
+        vosotros: estuvisteis
+        ellos: estuvieron
+      imperfect:
+        yo: estaba
+        tú: estabas
+        él: estaba
+        nosotros: estábamos
+        vosotros: estabais
+        ellos: estaban
+      future:
+        yo: estaré
+        tú: estarás
+        él: estará
+        nosotros: estaremos
+        vosotros: estaréis
+        ellos: estarán
+      conditional:
+        yo: estaría
+        tú: estarías
+        él: estaría
+        nosotros: estaríamos
+        vosotros: estaríais
+        ellos: estarían
+      present_subjunctive:
+        yo: esté
+        tú: estés
+        él: esté
+        nosotros: estemos
+        vosotros: estéis
+        ellos: estén
+      imperfect_subjunctive:
+        yo: estuviera
+        tú: estuvieras
+        él: estuviera
+        nosotros: estuviéramos
+        vosotros: estuvierais
+        ellos: estuvieran
+
+  tener:
+    infinitive: tener
+    type: irregular
+    group: "-ER"
+    stem_change: "e→ie"
+    meaning:
+      en: to have
+      ko: 가지다
+    tenses:
+      present:
+        yo: tengo
+        tú: tienes
+        él: tiene
+        nosotros: tenemos
+        vosotros: tenéis
+        ellos: tienen
+      preterite:
+        yo: tuve
+        tú: tuviste
+        él: tuvo
+        nosotros: tuvimos
+        vosotros: tuvisteis
+        ellos: tuvieron
+      imperfect:
+        yo: tenía
+        tú: tenías
+        él: tenía
+        nosotros: teníamos
+        vosotros: teníais
+        ellos: tenían
+      future:
+        yo: tendré
+        tú: tendrás
+        él: tendrá
+        nosotros: tendremos
+        vosotros: tendréis
+        ellos: tendrán
+      conditional:
+        yo: tendría
+        tú: tendrías
+        él: tendría
+        nosotros: tendríamos
+        vosotros: tendríais
+        ellos: tendrían
+      present_subjunctive:
+        yo: tenga
+        tú: tengas
+        él: tenga
+        nosotros: tengamos
+        vosotros: tengáis
+        ellos: tengan
+      imperfect_subjunctive:
+        yo: tuviera
+        tú: tuvieras
+        él: tuviera
+        nosotros: tuviéramos
+        vosotros: tuvierais
+        ellos: tuvieran
+
+  haber:
+    infinitive: haber
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to have (auxiliary) / there is/are
+      ko: ~했다 (조동사) / ~이 있다
+    tenses:
+      present:
+        yo: he
+        tú: has
+        él: ha
+        nosotros: hemos
+        vosotros: habéis
+        ellos: han
+      preterite:
+        yo: hube
+        tú: hubiste
+        él: hubo
+        nosotros: hubimos
+        vosotros: hubisteis
+        ellos: hubieron
+      imperfect:
+        yo: había
+        tú: habías
+        él: había
+        nosotros: habíamos
+        vosotros: habíais
+        ellos: habían
+      future:
+        yo: habré
+        tú: habrás
+        él: habrá
+        nosotros: habremos
+        vosotros: habréis
+        ellos: habrán
+      conditional:
+        yo: habría
+        tú: habrías
+        él: habría
+        nosotros: habríamos
+        vosotros: habríais
+        ellos: habrían
+      present_subjunctive:
+        yo: haya
+        tú: hayas
+        él: haya
+        nosotros: hayamos
+        vosotros: hayáis
+        ellos: hayan
+      imperfect_subjunctive:
+        yo: hubiera
+        tú: hubieras
+        él: hubiera
+        nosotros: hubiéramos
+        vosotros: hubierais
+        ellos: hubieran
+    notes:
+      en: "As auxiliary verb, used to form compound tenses. Impersonal form 'hay' (there is/are) in present."
+      ko: "조동사로서 복합 시제를 형성. 현재형 비인칭 형태 'hay'(~이 있다)."
+
+  ir:
+    infinitive: ir
+    type: irregular
+    group: "-IR"
+    stem_change: null
+    meaning:
+      en: to go
+      ko: 가다
+    tenses:
+      present:
+        yo: voy
+        tú: vas
+        él: va
+        nosotros: vamos
+        vosotros: vais
+        ellos: van
+      preterite:
+        yo: fui
+        tú: fuiste
+        él: fue
+        nosotros: fuimos
+        vosotros: fuisteis
+        ellos: fueron
+      imperfect:
+        yo: iba
+        tú: ibas
+        él: iba
+        nosotros: íbamos
+        vosotros: ibais
+        ellos: iban
+      future:
+        yo: iré
+        tú: irás
+        él: irá
+        nosotros: iremos
+        vosotros: iréis
+        ellos: irán
+      conditional:
+        yo: iría
+        tú: irías
+        él: iría
+        nosotros: iríamos
+        vosotros: iríais
+        ellos: irían
+      present_subjunctive:
+        yo: vaya
+        tú: vayas
+        él: vaya
+        nosotros: vayamos
+        vosotros: vayáis
+        ellos: vayan
+      imperfect_subjunctive:
+        yo: fuera
+        tú: fueras
+        él: fuera
+        nosotros: fuéramos
+        vosotros: fuerais
+        ellos: fueran
+    notes:
+      en: "Preterite forms are identical to SER. Context determines meaning."
+      ko: "과거형은 SER과 동일. 문맥으로 의미를 구별."
+
+  hacer:
+    infinitive: hacer
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to do / to make
+      ko: 하다 / 만들다
+    tenses:
+      present:
+        yo: hago
+        tú: haces
+        él: hace
+        nosotros: hacemos
+        vosotros: hacéis
+        ellos: hacen
+      preterite:
+        yo: hice
+        tú: hiciste
+        él: hizo
+        nosotros: hicimos
+        vosotros: hicisteis
+        ellos: hicieron
+      imperfect:
+        yo: hacía
+        tú: hacías
+        él: hacía
+        nosotros: hacíamos
+        vosotros: hacíais
+        ellos: hacían
+      future:
+        yo: haré
+        tú: harás
+        él: hará
+        nosotros: haremos
+        vosotros: haréis
+        ellos: harán
+      conditional:
+        yo: haría
+        tú: harías
+        él: haría
+        nosotros: haríamos
+        vosotros: haríais
+        ellos: harían
+      present_subjunctive:
+        yo: haga
+        tú: hagas
+        él: haga
+        nosotros: hagamos
+        vosotros: hagáis
+        ellos: hagan
+      imperfect_subjunctive:
+        yo: hiciera
+        tú: hicieras
+        él: hiciera
+        nosotros: hiciéramos
+        vosotros: hicierais
+        ellos: hicieran
+
+  decir:
+    infinitive: decir
+    type: irregular
+    group: "-IR"
+    stem_change: "e→i"
+    meaning:
+      en: to say / to tell
+      ko: 말하다 / 이야기하다
+    tenses:
+      present:
+        yo: digo
+        tú: dices
+        él: dice
+        nosotros: decimos
+        vosotros: decís
+        ellos: dicen
+      preterite:
+        yo: dije
+        tú: dijiste
+        él: dijo
+        nosotros: dijimos
+        vosotros: dijisteis
+        ellos: dijeron
+      imperfect:
+        yo: decía
+        tú: decías
+        él: decía
+        nosotros: decíamos
+        vosotros: decíais
+        ellos: decían
+      future:
+        yo: diré
+        tú: dirás
+        él: dirá
+        nosotros: diremos
+        vosotros: diréis
+        ellos: dirán
+      conditional:
+        yo: diría
+        tú: dirías
+        él: diría
+        nosotros: diríamos
+        vosotros: diríais
+        ellos: dirían
+      present_subjunctive:
+        yo: diga
+        tú: digas
+        él: diga
+        nosotros: digamos
+        vosotros: digáis
+        ellos: digan
+      imperfect_subjunctive:
+        yo: dijera
+        tú: dijeras
+        él: dijera
+        nosotros: dijéramos
+        vosotros: dijerais
+        ellos: dijeran
+
+  poder:
+    infinitive: poder
+    type: irregular
+    group: "-ER"
+    stem_change: "o→ue"
+    meaning:
+      en: to be able to / can
+      ko: 할 수 있다
+    tenses:
+      present:
+        yo: puedo
+        tú: puedes
+        él: puede
+        nosotros: podemos
+        vosotros: podéis
+        ellos: pueden
+      preterite:
+        yo: pude
+        tú: pudiste
+        él: pudo
+        nosotros: pudimos
+        vosotros: pudisteis
+        ellos: pudieron
+      imperfect:
+        yo: podía
+        tú: podías
+        él: podía
+        nosotros: podíamos
+        vosotros: podíais
+        ellos: podían
+      future:
+        yo: podré
+        tú: podrás
+        él: podrá
+        nosotros: podremos
+        vosotros: podréis
+        ellos: podrán
+      conditional:
+        yo: podría
+        tú: podrías
+        él: podría
+        nosotros: podríamos
+        vosotros: podríais
+        ellos: podrían
+      present_subjunctive:
+        yo: pueda
+        tú: puedas
+        él: pueda
+        nosotros: podamos
+        vosotros: podáis
+        ellos: puedan
+      imperfect_subjunctive:
+        yo: pudiera
+        tú: pudieras
+        él: pudiera
+        nosotros: pudiéramos
+        vosotros: pudierais
+        ellos: pudieran
+
+  querer:
+    infinitive: querer
+    type: irregular
+    group: "-ER"
+    stem_change: "e→ie"
+    meaning:
+      en: to want / to love
+      ko: 원하다 / 사랑하다
+    tenses:
+      present:
+        yo: quiero
+        tú: quieres
+        él: quiere
+        nosotros: queremos
+        vosotros: queréis
+        ellos: quieren
+      preterite:
+        yo: quise
+        tú: quisiste
+        él: quiso
+        nosotros: quisimos
+        vosotros: quisisteis
+        ellos: quisieron
+      imperfect:
+        yo: quería
+        tú: querías
+        él: quería
+        nosotros: queríamos
+        vosotros: queríais
+        ellos: querían
+      future:
+        yo: querré
+        tú: querrás
+        él: querrá
+        nosotros: querremos
+        vosotros: querréis
+        ellos: querrán
+      conditional:
+        yo: querría
+        tú: querrías
+        él: querría
+        nosotros: querríamos
+        vosotros: querríais
+        ellos: querrían
+      present_subjunctive:
+        yo: quiera
+        tú: quieras
+        él: quiera
+        nosotros: queramos
+        vosotros: queráis
+        ellos: quieran
+      imperfect_subjunctive:
+        yo: quisiera
+        tú: quisieras
+        él: quisiera
+        nosotros: quisiéramos
+        vosotros: quisierais
+        ellos: quisieran
+
+  saber:
+    infinitive: saber
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to know (facts/information)
+      ko: 알다 (사실/정보)
+    tenses:
+      present:
+        yo: sé
+        tú: sabes
+        él: sabe
+        nosotros: sabemos
+        vosotros: sabéis
+        ellos: saben
+      preterite:
+        yo: supe
+        tú: supiste
+        él: supo
+        nosotros: supimos
+        vosotros: supisteis
+        ellos: supieron
+      imperfect:
+        yo: sabía
+        tú: sabías
+        él: sabía
+        nosotros: sabíamos
+        vosotros: sabíais
+        ellos: sabían
+      future:
+        yo: sabré
+        tú: sabrás
+        él: sabrá
+        nosotros: sabremos
+        vosotros: sabréis
+        ellos: sabrán
+      conditional:
+        yo: sabría
+        tú: sabrías
+        él: sabría
+        nosotros: sabríamos
+        vosotros: sabríais
+        ellos: sabrían
+      present_subjunctive:
+        yo: sepa
+        tú: sepas
+        él: sepa
+        nosotros: sepamos
+        vosotros: sepáis
+        ellos: sepan
+      imperfect_subjunctive:
+        yo: supiera
+        tú: supieras
+        él: supiera
+        nosotros: supiéramos
+        vosotros: supierais
+        ellos: supieran
+
+  poner:
+    infinitive: poner
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to put / to place
+      ko: 놓다 / 두다
+    tenses:
+      present:
+        yo: pongo
+        tú: pones
+        él: pone
+        nosotros: ponemos
+        vosotros: ponéis
+        ellos: ponen
+      preterite:
+        yo: puse
+        tú: pusiste
+        él: puso
+        nosotros: pusimos
+        vosotros: pusisteis
+        ellos: pusieron
+      imperfect:
+        yo: ponía
+        tú: ponías
+        él: ponía
+        nosotros: poníamos
+        vosotros: poníais
+        ellos: ponían
+      future:
+        yo: pondré
+        tú: pondrás
+        él: pondrá
+        nosotros: pondremos
+        vosotros: pondréis
+        ellos: pondrán
+      conditional:
+        yo: pondría
+        tú: pondrías
+        él: pondría
+        nosotros: pondríamos
+        vosotros: pondríais
+        ellos: pondrían
+      present_subjunctive:
+        yo: ponga
+        tú: pongas
+        él: ponga
+        nosotros: pongamos
+        vosotros: pongáis
+        ellos: pongan
+      imperfect_subjunctive:
+        yo: pusiera
+        tú: pusieras
+        él: pusiera
+        nosotros: pusiéramos
+        vosotros: pusierais
+        ellos: pusieran
+
+  salir:
+    infinitive: salir
+    type: irregular
+    group: "-IR"
+    stem_change: null
+    meaning:
+      en: to leave / to go out
+      ko: 나가다 / 떠나다
+    tenses:
+      present:
+        yo: salgo
+        tú: sales
+        él: sale
+        nosotros: salimos
+        vosotros: salís
+        ellos: salen
+      preterite:
+        yo: salí
+        tú: saliste
+        él: salió
+        nosotros: salimos
+        vosotros: salisteis
+        ellos: salieron
+      imperfect:
+        yo: salía
+        tú: salías
+        él: salía
+        nosotros: salíamos
+        vosotros: salíais
+        ellos: salían
+      future:
+        yo: saldré
+        tú: saldrás
+        él: saldrá
+        nosotros: saldremos
+        vosotros: saldréis
+        ellos: saldrán
+      conditional:
+        yo: saldría
+        tú: saldrías
+        él: saldría
+        nosotros: saldríamos
+        vosotros: saldríais
+        ellos: saldrían
+      present_subjunctive:
+        yo: salga
+        tú: salgas
+        él: salga
+        nosotros: salgamos
+        vosotros: salgáis
+        ellos: salgan
+      imperfect_subjunctive:
+        yo: saliera
+        tú: salieras
+        él: saliera
+        nosotros: saliéramos
+        vosotros: salierais
+        ellos: salieran
+
+  venir:
+    infinitive: venir
+    type: irregular
+    group: "-IR"
+    stem_change: "e→ie"
+    meaning:
+      en: to come
+      ko: 오다
+    tenses:
+      present:
+        yo: vengo
+        tú: vienes
+        él: viene
+        nosotros: venimos
+        vosotros: venís
+        ellos: vienen
+      preterite:
+        yo: vine
+        tú: viniste
+        él: vino
+        nosotros: vinimos
+        vosotros: vinisteis
+        ellos: vinieron
+      imperfect:
+        yo: venía
+        tú: venías
+        él: venía
+        nosotros: veníamos
+        vosotros: veníais
+        ellos: venían
+      future:
+        yo: vendré
+        tú: vendrás
+        él: vendrá
+        nosotros: vendremos
+        vosotros: vendréis
+        ellos: vendrán
+      conditional:
+        yo: vendría
+        tú: vendrías
+        él: vendría
+        nosotros: vendríamos
+        vosotros: vendríais
+        ellos: vendrían
+      present_subjunctive:
+        yo: venga
+        tú: vengas
+        él: venga
+        nosotros: vengamos
+        vosotros: vengáis
+        ellos: vengan
+      imperfect_subjunctive:
+        yo: viniera
+        tú: vinieras
+        él: viniera
+        nosotros: viniéramos
+        vosotros: vinierais
+        ellos: vinieran
+
+  dar:
+    infinitive: dar
+    type: irregular
+    group: "-AR"
+    stem_change: null
+    meaning:
+      en: to give
+      ko: 주다
+    tenses:
+      present:
+        yo: doy
+        tú: das
+        él: da
+        nosotros: damos
+        vosotros: dais
+        ellos: dan
+      preterite:
+        yo: di
+        tú: diste
+        él: dio
+        nosotros: dimos
+        vosotros: disteis
+        ellos: dieron
+      imperfect:
+        yo: daba
+        tú: dabas
+        él: daba
+        nosotros: dábamos
+        vosotros: dabais
+        ellos: daban
+      future:
+        yo: daré
+        tú: darás
+        él: dará
+        nosotros: daremos
+        vosotros: daréis
+        ellos: darán
+      conditional:
+        yo: daría
+        tú: darías
+        él: daría
+        nosotros: daríamos
+        vosotros: daríais
+        ellos: darían
+      present_subjunctive:
+        yo: dé
+        tú: des
+        él: dé
+        nosotros: demos
+        vosotros: deis
+        ellos: den
+      imperfect_subjunctive:
+        yo: diera
+        tú: dieras
+        él: diera
+        nosotros: diéramos
+        vosotros: dierais
+        ellos: dieran
+
+  ver:
+    infinitive: ver
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to see
+      ko: 보다
+    tenses:
+      present:
+        yo: veo
+        tú: ves
+        él: ve
+        nosotros: vemos
+        vosotros: veis
+        ellos: ven
+      preterite:
+        yo: vi
+        tú: viste
+        él: vio
+        nosotros: vimos
+        vosotros: visteis
+        ellos: vieron
+      imperfect:
+        yo: veía
+        tú: veías
+        él: veía
+        nosotros: veíamos
+        vosotros: veíais
+        ellos: veían
+      future:
+        yo: veré
+        tú: verás
+        él: verá
+        nosotros: veremos
+        vosotros: veréis
+        ellos: verán
+      conditional:
+        yo: vería
+        tú: verías
+        él: vería
+        nosotros: veríamos
+        vosotros: veríais
+        ellos: verían
+      present_subjunctive:
+        yo: vea
+        tú: veas
+        él: vea
+        nosotros: veamos
+        vosotros: veáis
+        ellos: vean
+      imperfect_subjunctive:
+        yo: viera
+        tú: vieras
+        él: viera
+        nosotros: viéramos
+        vosotros: vierais
+        ellos: vieran
+
+  conocer:
+    infinitive: conocer
+    type: irregular
+    group: "-ER"
+    stem_change: null
+    meaning:
+      en: to know (people/places) / to be familiar with
+      ko: 알다 (사람/장소) / 익숙하다
+    tenses:
+      present:
+        yo: conozco
+        tú: conoces
+        él: conoce
+        nosotros: conocemos
+        vosotros: conocéis
+        ellos: conocen
+      preterite:
+        yo: conocí
+        tú: conociste
+        él: conoció
+        nosotros: conocimos
+        vosotros: conocisteis
+        ellos: conocieron
+      imperfect:
+        yo: conocía
+        tú: conocías
+        él: conocía
+        nosotros: conocíamos
+        vosotros: conocíais
+        ellos: conocían
+      future:
+        yo: conoceré
+        tú: conocerás
+        él: conocerá
+        nosotros: conoceremos
+        vosotros: conoceréis
+        ellos: conocerán
+      conditional:
+        yo: conocería
+        tú: conocerías
+        él: conocería
+        nosotros: conoceríamos
+        vosotros: conoceríais
+        ellos: conocerían
+      present_subjunctive:
+        yo: conozca
+        tú: conozcas
+        él: conozca
+        nosotros: conozcamos
+        vosotros: conozcáis
+        ellos: conozcan
+      imperfect_subjunctive:
+        yo: conociera
+        tú: conocieras
+        él: conociera
+        nosotros: conociéramos
+        vosotros: conocierais
+        ellos: conocieran
+    notes:
+      en: "Irregular only in yo form of present (c→zc before -o). Same pattern: parecer, ofrecer, traducir."
+      ko: "현재형 yo 형태에서만 불규칙 (c→zc before -o). 같은 패턴: parecer, ofrecer, traducir."
+
+  # ============================================================
+  # STEM-CHANGING VERBS
+  # ============================================================
+  pensar:
+    infinitive: pensar
+    type: stem_change
+    group: "-AR"
+    stem_change: "e→ie"
+    meaning:
+      en: to think
+      ko: 생각하다
+    tenses:
+      present:
+        yo: pienso
+        tú: piensas
+        él: piensa
+        nosotros: pensamos
+        vosotros: pensáis
+        ellos: piensan
+      preterite:
+        yo: pensé
+        tú: pensaste
+        él: pensó
+        nosotros: pensamos
+        vosotros: pensasteis
+        ellos: pensaron
+      imperfect:
+        yo: pensaba
+        tú: pensabas
+        él: pensaba
+        nosotros: pensábamos
+        vosotros: pensabais
+        ellos: pensaban
+      future:
+        yo: pensaré
+        tú: pensarás
+        él: pensará
+        nosotros: pensaremos
+        vosotros: pensaréis
+        ellos: pensarán
+      conditional:
+        yo: pensaría
+        tú: pensarías
+        él: pensaría
+        nosotros: pensaríamos
+        vosotros: pensaríais
+        ellos: pensarían
+      present_subjunctive:
+        yo: piense
+        tú: pienses
+        él: piense
+        nosotros: pensemos
+        vosotros: penséis
+        ellos: piensen
+      imperfect_subjunctive:
+        yo: pensara
+        tú: pensaras
+        él: pensara
+        nosotros: pensáramos
+        vosotros: pensarais
+        ellos: pensaran
+    notes:
+      en: "Stem change e→ie in present tense boot pattern (all forms except nosotros/vosotros). No stem change in preterite."
+      ko: "현재 시제에서 e→ie 어간 변화 (nosotros/vosotros 제외). 과거형에서는 어간 변화 없음."
+
+  # Note: poder is listed above under irregulars (o→ue stem change + irregular preterite stem)
+
+  pedir:
+    infinitive: pedir
+    type: stem_change
+    group: "-IR"
+    stem_change: "e→i"
+    meaning:
+      en: to ask for / to request
+      ko: 요청하다 / 부탁하다
+    tenses:
+      present:
+        yo: pido
+        tú: pides
+        él: pide
+        nosotros: pedimos
+        vosotros: pedís
+        ellos: piden
+      preterite:
+        yo: pedí
+        tú: pediste
+        él: pidió
+        nosotros: pedimos
+        vosotros: pedisteis
+        ellos: pidieron
+      imperfect:
+        yo: pedía
+        tú: pedías
+        él: pedía
+        nosotros: pedíamos
+        vosotros: pedíais
+        ellos: pedían
+      future:
+        yo: pediré
+        tú: pedirás
+        él: pedirá
+        nosotros: pediremos
+        vosotros: pediréis
+        ellos: pedirán
+      conditional:
+        yo: pediría
+        tú: pedirías
+        él: pediría
+        nosotros: pediríamos
+        vosotros: pediríais
+        ellos: pedirían
+      present_subjunctive:
+        yo: pida
+        tú: pidas
+        él: pida
+        nosotros: pidamos
+        vosotros: pidáis
+        ellos: pidan
+      imperfect_subjunctive:
+        yo: pidiera
+        tú: pidieras
+        él: pidiera
+        nosotros: pidiéramos
+        vosotros: pidierais
+        ellos: pidieran
+    notes:
+      en: "e→i stem change in present boot pattern AND in preterite 3rd person (él pidió, ellos pidieron). Also changes in all subjunctive forms."
+      ko: "현재형 부트 패턴과 과거형 3인칭에서 e→i 어간 변화 (él pidió, ellos pidieron). 접속법에서도 변화."
+
+  dormir:
+    infinitive: dormir
+    type: stem_change
+    group: "-IR"
+    stem_change: "o→ue"
+    meaning:
+      en: to sleep
+      ko: 자다
+    tenses:
+      present:
+        yo: duermo
+        tú: duermes
+        él: duerme
+        nosotros: dormimos
+        vosotros: dormís
+        ellos: duermen
+      preterite:
+        yo: dormí
+        tú: dormiste
+        él: durmió
+        nosotros: dormimos
+        vosotros: dormisteis
+        ellos: durmieron
+      imperfect:
+        yo: dormía
+        tú: dormías
+        él: dormía
+        nosotros: dormíamos
+        vosotros: dormíais
+        ellos: dormían
+      future:
+        yo: dormiré
+        tú: dormirás
+        él: dormirá
+        nosotros: dormiremos
+        vosotros: dormiréis
+        ellos: dormirán
+      conditional:
+        yo: dormiría
+        tú: dormirías
+        él: dormiría
+        nosotros: dormiríamos
+        vosotros: dormiríais
+        ellos: dormirían
+      present_subjunctive:
+        yo: duerma
+        tú: duermas
+        él: duerma
+        nosotros: durmamos
+        vosotros: durmáis
+        ellos: duerman
+      imperfect_subjunctive:
+        yo: durmiera
+        tú: durmieras
+        él: durmiera
+        nosotros: durmiéramos
+        vosotros: durmierais
+        ellos: durmieran
+    notes:
+      en: "o→ue in present boot pattern; o→u in preterite 3rd person and all subjunctive nosotros/vosotros forms."
+      ko: "현재형 부트 패턴에서 o→ue; 과거형 3인칭과 접속법 nosotros/vosotros에서 o→u."
+
+# ============================================================
+# IRREGULAR IMPERATIVE (TÚ) COMMANDS
+# ============================================================
+irregular_tú_commands:
+  decir: di
+  hacer: haz
+  ir: ve
+  poner: pon
+  salir: sal
+  ser: sé
+  tener: ten
+  venir: ven
+  notes:
+    en: "These 8 verbs have irregular affirmative tú commands. Negative tú commands use the present subjunctive (e.g., no digas, no hagas)."
+    ko: "이 8개 동사는 불규칙 긍정 tú 명령형을 가짐. 부정 tú 명령형은 현재 접속법을 사용 (예: no digas, no hagas)."
+
+# ============================================================
+# IRREGULAR PAST PARTICIPLES
+# ============================================================
+irregular_past_participles:
+  abrir: abierto
+  cubrir: cubierto
+  decir: dicho
+  escribir: escrito
+  hacer: hecho
+  morir: muerto
+  poner: puesto
+  romper: roto
+  ver: visto
+  volver: vuelto
+  notes:
+    en: >
+      Past participles are used with HABER for compound tenses (invariable)
+      and with SER/ESTAR as adjectives (must agree in gender/number:
+      -o/-a/-os/-as). Example: Las puertas están abiertas. Los libros
+      fueron escritos por ella.
+    ko: >
+      과거분사는 HABER와 함께 복합 시제에서 사용되며 (변하지 않음),
+      SER/ESTAR와 함께 형용사로 사용될 때는 성/수 일치 필요
+      (-o/-a/-os/-as). 예: Las puertas están abiertas. Los libros
+      fueron escritos por ella.
+
+# ============================================================
+# IRREGULAR GERUNDS (PRESENT PARTICIPLES)
+# ============================================================
+irregular_gerunds:
+  decir: diciendo
+  dormir: durmiendo
+  ir: yendo
+  leer: leyendo
+  oír: oyendo
+  pedir: pidiendo
+  seguir: siguiendo
+  notes:
+    en: >
+      Regular gerund formation: -AR → -ando, -ER/-IR → -iendo.
+      Stem-changing -IR verbs change e→i or o→u in gerund.
+      Verbs with stems ending in a vowel use -yendo (leer → leyendo, oír → oyendo).
+    ko: >
+      규칙적 현재분사 형성: -AR → -ando, -ER/-IR → -iendo.
+      어간 변화 -IR 동사는 현재분사에서 e→i 또는 o→u 변화.
+      어간이 모음으로 끝나는 동사는 -yendo 사용 (leer → leyendo, oír → oyendo).
