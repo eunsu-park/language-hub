@@ -1,0 +1,409 @@
+lesson: 03_Nouns_Articles_and_Gender
+lesson_number: 3
+cefr: A1
+categories:
+- id: 31_masculine_nouns
+  label:
+    en: 3.1 Masculine Nouns (der)
+    ko: 3.1 남성 명사 (der)
+  type: vocabulary
+  words:
+  - german: der Mann
+    translation:
+      en: the man
+      ko: 남자
+    gender: m
+    plural: die Männer
+  - german: der Vater
+    translation:
+      en: the father
+      ko: 아버지
+    gender: m
+    plural: die Väter
+  - german: der Bruder
+    translation:
+      en: the brother
+      ko: 형제 / 남자 형제
+    gender: m
+    plural: die Brüder
+  - german: der Sohn
+    translation:
+      en: the son
+      ko: 아들
+    gender: m
+    plural: die Söhne
+  - german: der Freund
+    translation:
+      en: the friend (male)
+      ko: 친구 (남성)
+    gender: m
+    plural: die Freunde
+  - german: der Tag
+    translation:
+      en: the day
+      ko: 날 / 하루
+    gender: m
+    plural: die Tage
+    notes:
+      en: Days of the week are always masculine
+      ko: 요일은 항상 남성 명사
+  - german: der Morgen
+    translation:
+      en: the morning
+      ko: 아침
+    gender: m
+    plural: die Morgen
+  - german: der Abend
+    translation:
+      en: the evening
+      ko: 저녁
+    gender: m
+    plural: die Abende
+  - german: der Tisch
+    translation:
+      en: the table
+      ko: 탁자
+    gender: m
+    plural: die Tische
+  - german: der Stuhl
+    translation:
+      en: the chair
+      ko: 의자
+    gender: m
+    plural: die Stühle
+  - german: der Baum
+    translation:
+      en: the tree
+      ko: 나무
+    gender: m
+    plural: die Bäume
+  - german: der Hund
+    translation:
+      en: the dog
+      ko: 개
+    gender: m
+    plural: die Hunde
+  - german: der Arzt
+    translation:
+      en: the doctor (male)
+      ko: 의사 (남성)
+    gender: m
+    plural: die Ärzte
+  - german: der Lehrer
+    translation:
+      en: the teacher (male)
+      ko: 교사 (남성)
+    gender: m
+    plural: die Lehrer
+    notes:
+      en: -er agent nouns are typically masculine
+      ko: -er 행위자 명사는 보통 남성
+  - german: der Name
+    translation:
+      en: the name
+      ko: 이름
+    gender: m
+    plural: die Namen
+    notes:
+      en: Exception to -e ending being feminine
+      ko: -e 어미가 여성이라는 규칙의 예외
+
+- id: 32_feminine_nouns
+  label:
+    en: 3.2 Feminine Nouns (die)
+    ko: 3.2 여성 명사 (die)
+  type: vocabulary
+  words:
+  - german: die Frau
+    translation:
+      en: the woman / wife
+      ko: 여자 / 아내
+    gender: f
+    plural: die Frauen
+  - german: die Mutter
+    translation:
+      en: the mother
+      ko: 어머니
+    gender: f
+    plural: die Mütter
+  - german: die Schwester
+    translation:
+      en: the sister
+      ko: 자매 / 여자 형제
+    gender: f
+    plural: die Schwestern
+  - german: die Tochter
+    translation:
+      en: the daughter
+      ko: 딸
+    gender: f
+    plural: die Töchter
+  - german: die Freundin
+    translation:
+      en: the friend (female)
+      ko: 친구 (여성)
+    gender: f
+    plural: die Freundinnen
+    notes:
+      en: -in suffix always makes feminine
+      ko: -in 접미사는 항상 여성
+  - german: die Stadt
+    translation:
+      en: the city
+      ko: 도시
+    gender: f
+    plural: die Städte
+  - german: die Straße
+    translation:
+      en: the street
+      ko: 거리
+    gender: f
+    plural: die Straßen
+  - german: die Schule
+    translation:
+      en: the school
+      ko: 학교
+    gender: f
+    plural: die Schulen
+  - german: die Blume
+    translation:
+      en: the flower
+      ko: 꽃
+    gender: f
+    plural: die Blumen
+  - german: die Katze
+    translation:
+      en: the cat
+      ko: 고양이
+    gender: f
+    plural: die Katzen
+  - german: die Zeitung
+    translation:
+      en: the newspaper
+      ko: 신문
+    gender: f
+    plural: die Zeitungen
+    notes:
+      en: -ung ending is always feminine
+      ko: -ung 어미는 항상 여성
+  - german: die Wohnung
+    translation:
+      en: the apartment
+      ko: 아파트
+    gender: f
+    plural: die Wohnungen
+    notes:
+      en: -ung ending is always feminine
+      ko: -ung 어미는 항상 여성
+  - german: die Sprache
+    translation:
+      en: the language
+      ko: 언어
+    gender: f
+    plural: die Sprachen
+  - german: die Küche
+    translation:
+      en: the kitchen
+      ko: 부엌
+    gender: f
+    plural: die Küchen
+  - german: die Tasche
+    translation:
+      en: the bag
+      ko: 가방
+    gender: f
+    plural: die Taschen
+
+- id: 33_neuter_nouns
+  label:
+    en: 3.3 Neuter Nouns (das)
+    ko: 3.3 중성 명사 (das)
+  type: vocabulary
+  words:
+  - german: das Kind
+    translation:
+      en: the child
+      ko: 아이
+    gender: n
+    plural: die Kinder
+  - german: das Mädchen
+    translation:
+      en: the girl
+      ko: 소녀
+    gender: n
+    plural: die Mädchen
+    notes:
+      en: -chen diminutive makes it neuter despite natural gender
+      ko: -chen 축소접미사로 인해 자연 성별과 무관하게 중성
+  - german: das Buch
+    translation:
+      en: the book
+      ko: 책
+    gender: n
+    plural: die Bücher
+  - german: das Haus
+    translation:
+      en: the house
+      ko: 집
+    gender: n
+    plural: die Häuser
+  - german: das Auto
+    translation:
+      en: the car
+      ko: 자동차
+    gender: n
+    plural: die Autos
+  - german: das Zimmer
+    translation:
+      en: the room
+      ko: 방
+    gender: n
+    plural: die Zimmer
+  - german: das Fenster
+    translation:
+      en: the window
+      ko: 창문
+    gender: n
+    plural: die Fenster
+  - german: das Bett
+    translation:
+      en: the bed
+      ko: 침대
+    gender: n
+    plural: die Betten
+  - german: das Wasser
+    translation:
+      en: the water
+      ko: 물
+    gender: n
+    plural: die Wasser
+  - german: das Bier
+    translation:
+      en: the beer
+      ko: 맥주
+    gender: n
+    plural: die Biere
+    notes:
+      en: Exception — most alcoholic drinks are masculine, but das Bier is neuter
+      ko: 예외 — 대부분의 주류는 남성이지만 das Bier는 중성
+  - german: das Essen
+    translation:
+      en: the food / meal
+      ko: 음식 / 식사
+    gender: n
+    plural: die Essen
+    notes:
+      en: Nominalized infinitive — always neuter
+      ko: 명사화된 부정사 — 항상 중성
+  - german: das Land
+    translation:
+      en: the country / land
+      ko: 나라 / 땅
+    gender: n
+    plural: die Länder
+  - german: das Tier
+    translation:
+      en: the animal
+      ko: 동물
+    gender: n
+    plural: die Tiere
+  - german: das Bild
+    translation:
+      en: the picture
+      ko: 그림 / 사진
+    gender: n
+    plural: die Bilder
+  - german: das Spiel
+    translation:
+      en: the game
+      ko: 게임 / 놀이
+    gender: n
+    plural: die Spiele
+
+- id: 34_compound_nouns
+  label:
+    en: 3.4 Compound Nouns (Komposita)
+    ko: 3.4 복합 명사 (Komposita)
+  type: vocabulary
+  words:
+  - german: die Haustür
+    translation:
+      en: the front door
+      ko: 현관문
+    gender: f
+    plural: die Haustüren
+    notes:
+      en: das Haus + die Tür — last word determines gender
+      ko: das Haus + die Tür — 마지막 단어가 성별 결정
+  - german: der Handschuh
+    translation:
+      en: the glove
+      ko: 장갑
+    gender: m
+    plural: die Handschuhe
+    notes:
+      en: "die Hand + der Schuh; lit. \"hand shoe\""
+      ko: "die Hand + der Schuh; 직역 \"손 신발\""
+  - german: das Kinderzimmer
+    translation:
+      en: the children's room
+      ko: 아이 방
+    gender: n
+    plural: die Kinderzimmer
+    notes:
+      en: das Kind + das Zimmer — connecting element -er-
+      ko: das Kind + das Zimmer — 연결요소 -er-
+  - german: der Fußball
+    translation:
+      en: football / soccer
+      ko: 축구
+    gender: m
+    plural: die Fußbälle
+    notes:
+      en: der Fuß + der Ball
+      ko: der Fuß + der Ball
+  - german: der Geburtstag
+    translation:
+      en: the birthday
+      ko: 생일
+    gender: m
+    plural: die Geburtstage
+    notes:
+      en: die Geburt + der Tag — connecting element -s-
+      ko: die Geburt + der Tag — 연결요소 -s-
+  - german: das Krankenhaus
+    translation:
+      en: the hospital
+      ko: 병원
+    gender: n
+    plural: die Krankenhäuser
+    notes:
+      en: "krank (sick) + das Haus; lit. \"sick house\""
+      ko: "krank (아픈) + das Haus; 직역 \"아픈 사람의 집\""
+  - german: der Kühlschrank
+    translation:
+      en: the refrigerator
+      ko: 냉장고
+    gender: m
+    plural: die Kühlschränke
+    notes:
+      en: "kühl (cool) + der Schrank (cabinet); lit. \"cool cabinet\""
+      ko: "kühl (시원한) + der Schrank (장); 직역 \"시원한 장\""
+  - german: das Wörterbuch
+    translation:
+      en: the dictionary
+      ko: 사전
+    gender: n
+    plural: die Wörterbücher
+    notes:
+      en: "das Wort + das Buch; lit. \"word book\""
+      ko: "das Wort + das Buch; 직역 \"단어 책\""
+  - german: die Zahnbürste
+    translation:
+      en: the toothbrush
+      ko: 칫솔
+    gender: f
+    plural: die Zahnbürsten
+    notes:
+      en: der Zahn (tooth) + die Bürste (brush)
+      ko: der Zahn (치아) + die Bürste (솔)
