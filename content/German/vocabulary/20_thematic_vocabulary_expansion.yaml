@@ -1,0 +1,394 @@
+lesson: 20_Thematic_Vocabulary_Expansion
+lesson_number: 20
+cefr: B2
+categories:
+- id: 1_academic_vocabulary
+  label:
+    en: 1. Academic Vocabulary
+    ko: 1. 학술 어휘
+  type: vocabulary
+  words:
+  - german: die Forschung
+    translation:
+      en: research
+      ko: 연구
+    gender: f
+    plural: null
+  - german: die Studie, -n
+    translation:
+      en: study
+      ko: 연구 / 조사
+    gender: f
+    plural: die Studien
+  - german: der Beweis, -e
+    translation:
+      en: proof / evidence
+      ko: 증거
+    gender: m
+    plural: die Beweise
+  - german: die Wissenschaft, -en
+    translation:
+      en: science
+      ko: 과학
+    gender: f
+    plural: die Wissenschaften
+  - german: die Erkenntnis, -se
+    translation:
+      en: finding / insight
+      ko: 인식 / 발견
+    gender: f
+    plural: die Erkenntnisse
+  - german: das Ergebnis, -se
+    translation:
+      en: result
+      ko: 결과
+    gender: n
+    plural: die Ergebnisse
+  - german: die Quelle, -n
+    translation:
+      en: source
+      ko: 출처
+    gender: f
+    plural: die Quellen
+  - german: der Aufsatz, -̈e
+    translation:
+      en: essay / paper
+      ko: 논문 / 에세이
+    gender: m
+    plural: die Aufsätze
+  - german: untersuchen
+    translation:
+      en: to investigate / to examine
+      ko: 조사하다
+    gender: null
+    plural: null
+  - german: veröffentlichen
+    translation:
+      en: to publish
+      ko: 발표하다
+    gender: null
+    plural: null
+
+- id: 2_politics_and_society
+  label:
+    en: 2. Politics and Society
+    ko: 2. 정치와 사회
+  type: vocabulary
+  words:
+  - german: die Regierung, -en
+    translation:
+      en: government
+      ko: 정부
+    gender: f
+    plural: die Regierungen
+  - german: die Wahl, -en
+    translation:
+      en: election
+      ko: 선거
+    gender: f
+    plural: die Wahlen
+  - german: der Bundestag
+    translation:
+      en: German federal parliament (lower house)
+      ko: 독일 연방 의회 (하원)
+    gender: m
+    plural: null
+  - german: die Demokratie
+    translation:
+      en: democracy
+      ko: 민주주의
+    gender: f
+    plural: null
+  - german: das Gesetz, -e
+    translation:
+      en: law
+      ko: 법률
+    gender: n
+    plural: die Gesetze
+  - german: die Meinungsfreiheit
+    translation:
+      en: freedom of speech
+      ko: 표현의 자유
+    gender: f
+    plural: null
+  - german: die Gleichberechtigung
+    translation:
+      en: equal rights
+      ko: 평등권
+    gender: f
+    plural: null
+  - german: wählen
+    translation:
+      en: to vote / to elect
+      ko: 투표하다 / 선출하다
+    gender: null
+    plural: null
+
+- id: 3_environment_and_climate
+  label:
+    en: 3. Environment and Climate
+    ko: 3. 환경과 기후
+  type: vocabulary
+  words:
+  - german: die Umwelt
+    translation:
+      en: environment
+      ko: 환경
+    gender: f
+    plural: null
+  - german: der Klimawandel
+    translation:
+      en: climate change
+      ko: 기후 변화
+    gender: m
+    plural: null
+  - german: die Nachhaltigkeit
+    translation:
+      en: sustainability
+      ko: 지속 가능성
+    gender: f
+    plural: null
+  - german: die Emission, -en
+    translation:
+      en: emission
+      ko: 배출
+    gender: f
+    plural: die Emissionen
+  - german: die Mülltrennung
+    translation:
+      en: waste separation / recycling
+      ko: 쓰레기 분리수거
+    gender: f
+    plural: null
+  - german: die Energiewende
+    translation:
+      en: energy transition
+      ko: 에너지 전환
+    gender: f
+    plural: null
+  - german: der Naturschutz
+    translation:
+      en: nature conservation
+      ko: 자연 보호
+    gender: m
+    plural: null
+  - german: die Verschmutzung
+    translation:
+      en: pollution
+      ko: 오염
+    gender: f
+    plural: null
+
+- id: 4_technology
+  label:
+    en: 4. Technology
+    ko: 4. 기술
+  type: vocabulary
+  words:
+  - german: die Künstliche Intelligenz (KI)
+    translation:
+      en: artificial intelligence (AI)
+      ko: 인공지능 (AI)
+    gender: f
+    plural: null
+  - german: die Datenbank, -en
+    translation:
+      en: database
+      ko: 데이터베이스
+    gender: f
+    plural: die Datenbanken
+  - german: der Datenschutz
+    translation:
+      en: data protection / privacy
+      ko: 데이터 보호
+    gender: m
+    plural: null
+  - german: die Digitalisierung
+    translation:
+      en: digitalization
+      ko: 디지털화
+    gender: f
+    plural: null
+  - german: der Bildschirm, -e
+    translation:
+      en: screen / monitor
+      ko: 화면 / 모니터
+    gender: m
+    plural: die Bildschirme
+  - german: die Schnittstelle, -n
+    translation:
+      en: interface
+      ko: 인터페이스
+    gender: f
+    plural: die Schnittstellen
+  - german: herunterladen
+    translation:
+      en: to download
+      ko: 다운로드하다
+    gender: null
+    plural: null
+  - german: speichern
+    translation:
+      en: to save (data)
+      ko: 저장하다
+    gender: null
+    plural: null
+
+- id: 5_media_and_communication
+  label:
+    en: 5. Media and Communication
+    ko: 5. 미디어와 커뮤니케이션
+  type: vocabulary
+  words:
+  - german: die Nachricht, -en
+    translation:
+      en: news / message
+      ko: 뉴스 / 메시지
+    gender: f
+    plural: die Nachrichten
+  - german: die Zeitung, -en
+    translation:
+      en: newspaper
+      ko: 신문
+    gender: f
+    plural: die Zeitungen
+  - german: die Schlagzeile, -n
+    translation:
+      en: headline
+      ko: 헤드라인
+    gender: f
+    plural: die Schlagzeilen
+  - german: die Berichterstattung
+    translation:
+      en: reporting / coverage
+      ko: 보도
+    gender: f
+    plural: null
+  - german: die Werbung
+    translation:
+      en: advertising
+      ko: 광고
+    gender: f
+    plural: null
+  - german: berichten über (+ Akk.)
+    translation:
+      en: to report on
+      ko: ~에 대해 보도하다
+    gender: null
+    plural: null
+  - german: verbreiten
+    translation:
+      en: to spread / to distribute
+      ko: 퍼뜨리다 / 유포하다
+    gender: null
+    plural: null
+
+- id: 6_health_and_medicine
+  label:
+    en: 6. Health and Medicine
+    ko: 6. 건강과 의학
+  type: vocabulary
+  words:
+  - german: die Gesundheit
+    translation:
+      en: health
+      ko: 건강
+    gender: f
+    plural: null
+  - german: die Krankheit, -en
+    translation:
+      en: disease / illness
+      ko: 질병
+    gender: f
+    plural: die Krankheiten
+  - german: die Krankenversicherung
+    translation:
+      en: health insurance
+      ko: 건강 보험
+    gender: f
+    plural: null
+  - german: das Medikament, -e
+    translation:
+      en: medication
+      ko: 약물
+    gender: n
+    plural: die Medikamente
+  - german: die Impfung, -en
+    translation:
+      en: vaccination
+      ko: 예방 접종
+    gender: f
+    plural: die Impfungen
+  - german: die Behandlung, -en
+    translation:
+      en: treatment
+      ko: 치료
+    gender: f
+    plural: die Behandlungen
+  - german: der Notfall, -̈e
+    translation:
+      en: emergency
+      ko: 응급 상황
+    gender: m
+    plural: die Notfälle
+  - german: sich erholen von (+ Dat.)
+    translation:
+      en: to recover from
+      ko: ~에서 회복하다
+    gender: null
+    plural: null
+
+- id: 7_economy
+  label:
+    en: 7. Economy
+    ko: 7. 경제
+  type: vocabulary
+  words:
+  - german: die Wirtschaft
+    translation:
+      en: economy
+      ko: 경제
+    gender: f
+    plural: null
+  - german: das Unternehmen, -
+    translation:
+      en: company / enterprise
+      ko: 기업
+    gender: n
+    plural: die Unternehmen
+  - german: der Umsatz, -̈e
+    translation:
+      en: revenue / turnover
+      ko: 매출
+    gender: m
+    plural: die Umsätze
+  - german: der Gewinn, -e
+    translation:
+      en: profit
+      ko: 이익
+    gender: m
+    plural: die Gewinne
+  - german: die Aktie, -n
+    translation:
+      en: stock / share
+      ko: 주식
+    gender: f
+    plural: die Aktien
+  - german: die Arbeitslosigkeit
+    translation:
+      en: unemployment
+      ko: 실업
+    gender: f
+    plural: null
+  - german: investieren in (+ Akk.)
+    translation:
+      en: to invest in
+      ko: ~에 투자하다
+    gender: null
+    plural: null
+  - german: die Konjunktur
+    translation:
+      en: economic cycle
+      ko: 경기
+    gender: f
+    plural: null
