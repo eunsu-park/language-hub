@@ -1,0 +1,283 @@
+lesson: 05_Present_Tense_and_Basic_Sentences
+lesson_number: 5
+cefr: A1
+categories:
+- id: 51_regular_verbs
+  label:
+    en: 5.1 Regular Verbs (Present Tense)
+    ko: 5.1 규칙 동사 (현재 시제)
+  type: vocabulary
+  words:
+  - german: machen
+    translation:
+      en: to do / to make
+      ko: 하다 / 만들다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular: mache, machst, macht, machen, macht, machen"
+      ko: "규칙: mache, machst, macht, machen, macht, machen"
+  - german: spielen
+    translation:
+      en: to play
+      ko: 놀다 / (악기를) 연주하다
+    gender: null
+    plural: null
+  - german: lernen
+    translation:
+      en: to learn
+      ko: 배우다
+    gender: null
+    plural: null
+  - german: wohnen
+    translation:
+      en: to live (reside)
+      ko: 살다 / 거주하다
+    gender: null
+    plural: null
+  - german: kommen
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+  - german: gehen
+    translation:
+      en: to go (walk)
+      ko: 가다 / 걷다
+    gender: null
+    plural: null
+  - german: kaufen
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+    plural: null
+  - german: fragen
+    translation:
+      en: to ask
+      ko: 묻다
+    gender: null
+    plural: null
+  - german: hören
+    translation:
+      en: to hear / to listen
+      ko: 듣다
+    gender: null
+    plural: null
+  - german: trinken
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    plural: null
+  - german: arbeiten
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+    notes:
+      en: Stem ends in -t; extra -e- inserted in du/er forms (arbeitest, arbeitet)
+      ko: 어간이 -t로 끝남; du/er 형태에서 -e- 삽입 (arbeitest, arbeitet)
+  - german: brauchen
+    translation:
+      en: to need
+      ko: 필요하다
+    gender: null
+    plural: null
+
+- id: 52_stem_changing_a_to_ae
+  label:
+    en: "5.2 Stem-Changing Verbs: a \u2192 \u00e4"
+    ko: "5.2 어간 모음 변화 동사: a \u2192 \u00e4"
+  type: vocabulary
+  words:
+  - german: fahren
+    translation:
+      en: to drive / to go (by vehicle)
+      ko: 운전하다 / (탈것으로) 가다
+    gender: null
+    plural: null
+    notes:
+      en: "du fährst, er fährt — a changes to ä in du and er/sie/es"
+      ko: "du fährst, er fährt — du와 er/sie/es에서 a가 ä로 변화"
+  - german: schlafen
+    translation:
+      en: to sleep
+      ko: 자다
+    gender: null
+    plural: null
+    notes:
+      en: du schläfst, er schläft
+      ko: du schläfst, er schläft
+  - german: tragen
+    translation:
+      en: to carry / to wear
+      ko: 운반하다 / 입다
+    gender: null
+    plural: null
+    notes:
+      en: du trägst, er trägt
+      ko: du trägst, er trägt
+  - german: laufen
+    translation:
+      en: to run / to walk
+      ko: 달리다 / 걷다
+    gender: null
+    plural: null
+    notes:
+      en: "du läufst, er läuft — au changes to äu"
+      ko: "du läufst, er läuft — au가 äu로 변화"
+  - german: fallen
+    translation:
+      en: to fall
+      ko: 떨어지다
+    gender: null
+    plural: null
+    notes:
+      en: du fällst, er fällt
+      ko: du fällst, er fällt
+  - german: waschen
+    translation:
+      en: to wash
+      ko: 씻다
+    gender: null
+    plural: null
+    notes:
+      en: du wäschst, er wäscht
+      ko: du wäschst, er wäscht
+
+- id: 53_stem_changing_e_to_i_ie
+  label:
+    en: "5.3 Stem-Changing Verbs: e \u2192 i / ie"
+    ko: "5.3 어간 모음 변화 동사: e \u2192 i / ie"
+  type: vocabulary
+  words:
+  - german: sprechen
+    translation:
+      en: to speak
+      ko: 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du sprichst, er spricht"
+      ko: "e \u2192 i: du sprichst, er spricht"
+  - german: helfen
+    translation:
+      en: to help
+      ko: 돕다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du hilfst, er hilft"
+      ko: "e \u2192 i: du hilfst, er hilft"
+  - german: geben
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du gibst, er gibt"
+      ko: "e \u2192 i: du gibst, er gibt"
+  - german: nehmen
+    translation:
+      en: to take
+      ko: 가져가다 / 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "Extra irregular: du nimmst, er nimmt (e \u2192 i, h drops, m doubles)"
+      ko: "추가 불규칙: du nimmst, er nimmt (e \u2192 i, h 탈락, m 이중화)"
+  - german: essen
+    translation:
+      en: to eat
+      ko: 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du isst, er isst (du and er forms look the same)"
+      ko: "e \u2192 i: du isst, er isst (du와 er 형태 동일)"
+  - german: lesen
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 ie: du liest, er liest"
+      ko: "e \u2192 ie: du liest, er liest"
+  - german: sehen
+    translation:
+      en: to see
+      ko: 보다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 ie: du siehst, er sieht"
+      ko: "e \u2192 ie: du siehst, er sieht"
+
+- id: 54_question_words
+  label:
+    en: 5.4 Question Words (W-Fragen)
+    ko: 5.4 의문사 (W-질문)
+  type: vocabulary
+  words:
+  - german: wer
+    translation:
+      en: who
+      ko: 누구
+    gender: null
+    plural: null
+  - german: was
+    translation:
+      en: what
+      ko: 무엇
+    gender: null
+    plural: null
+  - german: wo
+    translation:
+      en: where (at)
+      ko: 어디 (위치)
+    gender: null
+    plural: null
+  - german: woher
+    translation:
+      en: where from
+      ko: 어디에서
+    gender: null
+    plural: null
+  - german: wohin
+    translation:
+      en: where to
+      ko: 어디로
+    gender: null
+    plural: null
+  - german: wann
+    translation:
+      en: when
+      ko: 언제
+    gender: null
+    plural: null
+  - german: warum
+    translation:
+      en: why
+      ko: 왜
+    gender: null
+    plural: null
+  - german: wie
+    translation:
+      en: how
+      ko: 어떻게
+    gender: null
+    plural: null
+  - german: wie viel(e)
+    translation:
+      en: how much / how many
+      ko: 얼마나 / 몇 개
+    gender: null
+    plural: null
+    notes:
+      en: "\"wie viel\" for uncountable, \"wie viele\" for countable"
+      ko: "불가산에는 \"wie viel\", 가산에는 \"wie viele\""
