@@ -1,0 +1,980 @@
+# German Verb Conjugation Paradigms
+# All tenses: present, preterite, present_perfect_participle,
+#             konjunktiv_ii, imperative, future
+
+verbs:
+  # ============================================================
+  # WEAK (REGULAR) VERBS
+  # ============================================================
+  machen:
+    infinitive: machen
+    type: weak
+    group: "-en"
+    stem_change: null
+    meaning:
+      en: "to make, to do"
+      ko: "만들다, 하다"
+    tenses:
+      present:
+        ich: mache
+        du: machst
+        er: macht
+        wir: machen
+        ihr: macht
+        sie: machen
+      preterite:
+        ich: machte
+        du: machtest
+        er: machte
+        wir: machten
+        ihr: machtet
+        sie: machten
+      present_perfect_participle: gemacht
+      konjunktiv_ii:
+        ich: würde machen
+        du: würdest machen
+        er: würde machen
+        wir: würden machen
+        ihr: würdet machen
+        sie: würden machen
+      imperative:
+        du: mach(e)!
+        ihr: macht!
+        Sie: machen Sie!
+      future:
+        ich: werde machen
+        du: wirst machen
+        er: wird machen
+        wir: werden machen
+        ihr: werdet machen
+        sie: werden machen
+
+  spielen:
+    infinitive: spielen
+    type: weak
+    group: "-en"
+    stem_change: null
+    meaning:
+      en: to play
+      ko: 놀다, 연주하다
+    tenses:
+      present:
+        ich: spiele
+        du: spielst
+        er: spielt
+        wir: spielen
+        ihr: spielt
+        sie: spielen
+      preterite:
+        ich: spielte
+        du: spieltest
+        er: spielte
+        wir: spielten
+        ihr: spieltet
+        sie: spielten
+      present_perfect_participle: gespielt
+      konjunktiv_ii:
+        ich: würde spielen
+        du: würdest spielen
+        er: würde spielen
+        wir: würden spielen
+        ihr: würdet spielen
+        sie: würden spielen
+      imperative:
+        du: spiel(e)!
+        ihr: spielt!
+        Sie: spielen Sie!
+      future:
+        ich: werde spielen
+        du: wirst spielen
+        er: wird spielen
+        wir: werden spielen
+        ihr: werdet spielen
+        sie: werden spielen
+
+  lernen:
+    infinitive: lernen
+    type: weak
+    group: "-en"
+    stem_change: null
+    meaning:
+      en: to learn
+      ko: 배우다
+    tenses:
+      present:
+        ich: lerne
+        du: lernst
+        er: lernt
+        wir: lernen
+        ihr: lernt
+        sie: lernen
+      preterite:
+        ich: lernte
+        du: lerntest
+        er: lernte
+        wir: lernten
+        ihr: lerntet
+        sie: lernten
+      present_perfect_participle: gelernt
+      konjunktiv_ii:
+        ich: würde lernen
+        du: würdest lernen
+        er: würde lernen
+        wir: würden lernen
+        ihr: würdet lernen
+        sie: würden lernen
+      imperative:
+        du: lern(e)!
+        ihr: lernt!
+        Sie: lernen Sie!
+      future:
+        ich: werde lernen
+        du: wirst lernen
+        er: wird lernen
+        wir: werden lernen
+        ihr: werdet lernen
+        sie: werden lernen
+
+  arbeiten:
+    infinitive: arbeiten
+    type: weak
+    group: "-en"
+    stem_change: null
+    meaning:
+      en: to work
+      ko: 일하다
+    tenses:
+      present:
+        ich: arbeite
+        du: arbeitest
+        er: arbeitet
+        wir: arbeiten
+        ihr: arbeitet
+        sie: arbeiten
+      preterite:
+        ich: arbeitete
+        du: arbeitetest
+        er: arbeitete
+        wir: arbeiteten
+        ihr: arbeitetet
+        sie: arbeiteten
+      present_perfect_participle: gearbeitet
+      konjunktiv_ii:
+        ich: würde arbeiten
+        du: würdest arbeiten
+        er: würde arbeiten
+        wir: würden arbeiten
+        ihr: würdet arbeiten
+        sie: würden arbeiten
+      imperative:
+        du: arbeite!
+        ihr: arbeitet!
+        Sie: arbeiten Sie!
+      future:
+        ich: werde arbeiten
+        du: wirst arbeiten
+        er: wird arbeiten
+        wir: werden arbeiten
+        ihr: werdet arbeiten
+        sie: werden arbeiten
+    notes:
+      en: "Stem ends in -t, so an extra -e- is inserted before endings starting with -st, -t, -te to aid pronunciation."
+      ko: "어간이 -t로 끝나므로 -st, -t, -te로 시작하는 어미 앞에 -e-가 삽입되어 발음을 돕는다."
+
+  wohnen:
+    infinitive: wohnen
+    type: weak
+    group: "-en"
+    stem_change: null
+    meaning:
+      en: to live (reside)
+      ko: 살다 (거주하다)
+    tenses:
+      present:
+        ich: wohne
+        du: wohnst
+        er: wohnt
+        wir: wohnen
+        ihr: wohnt
+        sie: wohnen
+      preterite:
+        ich: wohnte
+        du: wohntest
+        er: wohnte
+        wir: wohnten
+        ihr: wohntet
+        sie: wohnten
+      present_perfect_participle: gewohnt
+      konjunktiv_ii:
+        ich: würde wohnen
+        du: würdest wohnen
+        er: würde wohnen
+        wir: würden wohnen
+        ihr: würdet wohnen
+        sie: würden wohnen
+      imperative:
+        du: wohn(e)!
+        ihr: wohnt!
+        Sie: wohnen Sie!
+      future:
+        ich: werde wohnen
+        du: wirst wohnen
+        er: wird wohnen
+        wir: werden wohnen
+        ihr: werdet wohnen
+        sie: werden wohnen
+
+  # ============================================================
+  # STRONG (IRREGULAR) VERBS
+  # ============================================================
+  sein:
+    infinitive: sein
+    type: strong
+    group: irregular
+    stem_change: null
+    meaning:
+      en: to be
+      ko: "~이다, 있다"
+    tenses:
+      present:
+        ich: bin
+        du: bist
+        er: ist
+        wir: sind
+        ihr: seid
+        sie: sind
+      preterite:
+        ich: war
+        du: warst
+        er: war
+        wir: waren
+        ihr: wart
+        sie: waren
+      present_perfect_participle: gewesen
+      konjunktiv_ii:
+        ich: wäre
+        du: wärst
+        er: wäre
+        wir: wären
+        ihr: wärt
+        sie: wären
+      imperative:
+        du: sei!
+        ihr: seid!
+        Sie: seien Sie!
+      future:
+        ich: werde sein
+        du: wirst sein
+        er: wird sein
+        wir: werden sein
+        ihr: werdet sein
+        sie: werden sein
+    notes:
+      en: "Highly irregular in all tenses. Used as auxiliary for Perfekt with verbs of motion and change of state."
+      ko: "모든 시제에서 매우 불규칙. 이동 및 상태 변화 동사의 완료형 조동사로 사용."
+
+  haben:
+    infinitive: haben
+    type: strong
+    group: irregular
+    stem_change: null
+    meaning:
+      en: to have
+      ko: 가지다
+    tenses:
+      present:
+        ich: habe
+        du: hast
+        er: hat
+        wir: haben
+        ihr: habt
+        sie: haben
+      preterite:
+        ich: hatte
+        du: hattest
+        er: hatte
+        wir: hatten
+        ihr: hattet
+        sie: hatten
+      present_perfect_participle: gehabt
+      konjunktiv_ii:
+        ich: hätte
+        du: hättest
+        er: hätte
+        wir: hätten
+        ihr: hättet
+        sie: hätten
+      imperative:
+        du: hab(e)!
+        ihr: habt!
+        Sie: haben Sie!
+      future:
+        ich: werde haben
+        du: wirst haben
+        er: wird haben
+        wir: werden haben
+        ihr: werdet haben
+        sie: werden haben
+    notes:
+      en: "Primary auxiliary for Perfekt with most verbs. Konjunktiv II 'hätte' is used very frequently for unreal conditions."
+      ko: "대부분의 동사에 대한 완료형의 주요 조동사. 접속법 II 'hätte'는 비현실 조건에 매우 자주 사용."
+
+  werden:
+    infinitive: werden
+    type: strong
+    group: irregular
+    stem_change: "e→i (du/er present)"
+    meaning:
+      en: to become / will (auxiliary)
+      ko: "~이 되다 / ~할 것이다 (조동사)"
+    tenses:
+      present:
+        ich: werde
+        du: wirst
+        er: wird
+        wir: werden
+        ihr: werdet
+        sie: werden
+      preterite:
+        ich: wurde
+        du: wurdest
+        er: wurde
+        wir: wurden
+        ihr: wurdet
+        sie: wurden
+      present_perfect_participle: geworden
+      konjunktiv_ii:
+        ich: würde
+        du: würdest
+        er: würde
+        wir: würden
+        ihr: würdet
+        sie: würden
+      imperative:
+        du: werde!
+        ihr: werdet!
+        Sie: werden Sie!
+      future:
+        ich: werde werden
+        du: wirst werden
+        er: wird werden
+        wir: werden werden
+        ihr: werdet werden
+        sie: werden werden
+    notes:
+      en: "Triple function: main verb ('to become'), future auxiliary (werden + Infinitiv), passive auxiliary (werden + Partizip II). Past participle as auxiliary in passive: 'worden' (not 'geworden')."
+      ko: "세 가지 기능: 본동사 ('~이 되다'), 미래 조동사 (werden + 부정사), 수동태 조동사 (werden + 과거분사). 수동태에서 조동사로 쓸 때 과거분사: 'worden' ('geworden' 아님)."
+
+  gehen:
+    infinitive: gehen
+    type: strong
+    group: irregular
+    stem_change: "e→i (preterite: ging)"
+    meaning:
+      en: to go (on foot)
+      ko: 가다 (걸어서)
+    tenses:
+      present:
+        ich: gehe
+        du: gehst
+        er: geht
+        wir: gehen
+        ihr: geht
+        sie: gehen
+      preterite:
+        ich: ging
+        du: gingst
+        er: ging
+        wir: gingen
+        ihr: gingt
+        sie: gingen
+      present_perfect_participle: gegangen
+      konjunktiv_ii:
+        ich: ginge
+        du: gingest
+        er: ginge
+        wir: gingen
+        ihr: ginget
+        sie: gingen
+      imperative:
+        du: geh(e)!
+        ihr: geht!
+        Sie: gehen Sie!
+      future:
+        ich: werde gehen
+        du: wirst gehen
+        er: wird gehen
+        wir: werden gehen
+        ihr: werdet gehen
+        sie: werden gehen
+    notes:
+      en: "Uses 'sein' as auxiliary in Perfekt: Ich bin gegangen."
+      ko: "완료형에서 'sein'을 조동사로 사용: Ich bin gegangen."
+
+  kommen:
+    infinitive: kommen
+    type: strong
+    group: irregular
+    stem_change: "o→a (preterite: kam)"
+    meaning:
+      en: to come
+      ko: 오다
+    tenses:
+      present:
+        ich: komme
+        du: kommst
+        er: kommt
+        wir: kommen
+        ihr: kommt
+        sie: kommen
+      preterite:
+        ich: kam
+        du: kamst
+        er: kam
+        wir: kamen
+        ihr: kamt
+        sie: kamen
+      present_perfect_participle: gekommen
+      konjunktiv_ii:
+        ich: käme
+        du: kämest
+        er: käme
+        wir: kämen
+        ihr: kämet
+        sie: kämen
+      imperative:
+        du: komm(e)!
+        ihr: kommt!
+        Sie: kommen Sie!
+      future:
+        ich: werde kommen
+        du: wirst kommen
+        er: wird kommen
+        wir: werden kommen
+        ihr: werdet kommen
+        sie: werden kommen
+    notes:
+      en: "Uses 'sein' as auxiliary in Perfekt: Ich bin gekommen."
+      ko: "완료형에서 'sein'을 조동사로 사용: Ich bin gekommen."
+
+  fahren:
+    infinitive: fahren
+    type: strong
+    group: irregular
+    stem_change: "a→ä (du/er present), a→u (preterite: fuhr)"
+    meaning:
+      en: to drive, to travel (by vehicle)
+      ko: "운전하다, 타고 가다"
+    tenses:
+      present:
+        ich: fahre
+        du: fährst
+        er: fährt
+        wir: fahren
+        ihr: fahrt
+        sie: fahren
+      preterite:
+        ich: fuhr
+        du: fuhrst
+        er: fuhr
+        wir: fuhren
+        ihr: fuhrt
+        sie: fuhren
+      present_perfect_participle: gefahren
+      konjunktiv_ii:
+        ich: führe
+        du: führest
+        er: führe
+        wir: führen
+        ihr: führet
+        sie: führen
+      imperative:
+        du: fahr(e)!
+        ihr: fahrt!
+        Sie: fahren Sie!
+      future:
+        ich: werde fahren
+        du: wirst fahren
+        er: wird fahren
+        wir: werden fahren
+        ihr: werdet fahren
+        sie: werden fahren
+    notes:
+      en: "Uses 'sein' as auxiliary in Perfekt when intransitive (movement): Ich bin nach Berlin gefahren. Uses 'haben' when transitive: Ich habe das Auto gefahren."
+      ko: "자동사 (이동)일 때 완료형에서 'sein' 사용: Ich bin nach Berlin gefahren. 타동사일 때 'haben' 사용: Ich habe das Auto gefahren."
+
+  lesen:
+    infinitive: lesen
+    type: strong
+    group: irregular
+    stem_change: "e→ie (du/er present), e→a (preterite: las)"
+    meaning:
+      en: to read
+      ko: 읽다
+    tenses:
+      present:
+        ich: lese
+        du: liest
+        er: liest
+        wir: lesen
+        ihr: lest
+        sie: lesen
+      preterite:
+        ich: las
+        du: last
+        er: las
+        wir: lasen
+        ihr: last
+        sie: lasen
+      present_perfect_participle: gelesen
+      konjunktiv_ii:
+        ich: läse
+        du: läsest
+        er: läse
+        wir: läsen
+        ihr: läset
+        sie: läsen
+      imperative:
+        du: lies!
+        ihr: lest!
+        Sie: lesen Sie!
+      future:
+        ich: werde lesen
+        du: wirst lesen
+        er: wird lesen
+        wir: werden lesen
+        ihr: werdet lesen
+        sie: werden lesen
+
+  sprechen:
+    infinitive: sprechen
+    type: strong
+    group: irregular
+    stem_change: "e→i (du/er present), e→a (preterite: sprach)"
+    meaning:
+      en: to speak
+      ko: 말하다
+    tenses:
+      present:
+        ich: spreche
+        du: sprichst
+        er: spricht
+        wir: sprechen
+        ihr: sprecht
+        sie: sprechen
+      preterite:
+        ich: sprach
+        du: sprachst
+        er: sprach
+        wir: sprachen
+        ihr: spracht
+        sie: sprachen
+      present_perfect_participle: gesprochen
+      konjunktiv_ii:
+        ich: spräche
+        du: sprächest
+        er: spräche
+        wir: sprächen
+        ihr: sprächet
+        sie: sprächen
+      imperative:
+        du: sprich!
+        ihr: sprecht!
+        Sie: sprechen Sie!
+      future:
+        ich: werde sprechen
+        du: wirst sprechen
+        er: wird sprechen
+        wir: werden sprechen
+        ihr: werdet sprechen
+        sie: werden sprechen
+
+  nehmen:
+    infinitive: nehmen
+    type: strong
+    group: irregular
+    stem_change: "e→i (du/er present), e→a (preterite: nahm)"
+    meaning:
+      en: to take
+      ko: 가져가다, 취하다
+    tenses:
+      present:
+        ich: nehme
+        du: nimmst
+        er: nimmt
+        wir: nehmen
+        ihr: nehmt
+        sie: nehmen
+      preterite:
+        ich: nahm
+        du: nahmst
+        er: nahm
+        wir: nahmen
+        ihr: nahmt
+        sie: nahmen
+      present_perfect_participle: genommen
+      konjunktiv_ii:
+        ich: nähme
+        du: nähmest
+        er: nähme
+        wir: nähmen
+        ihr: nähmet
+        sie: nähmen
+      imperative:
+        du: nimm!
+        ihr: nehmt!
+        Sie: nehmen Sie!
+      future:
+        ich: werde nehmen
+        du: wirst nehmen
+        er: wird nehmen
+        wir: werden nehmen
+        ihr: werdet nehmen
+        sie: werden nehmen
+    notes:
+      en: "Double consonant change in du/er present: nehm→nimm (e→i plus mm)."
+      ko: "du/er 현재형에서 이중 자음 변화: nehm→nimm (e→i에 mm 추가)."
+
+  geben:
+    infinitive: geben
+    type: strong
+    group: irregular
+    stem_change: "e→i (du/er present), e→a (preterite: gab)"
+    meaning:
+      en: to give
+      ko: 주다
+    tenses:
+      present:
+        ich: gebe
+        du: gibst
+        er: gibt
+        wir: geben
+        ihr: gebt
+        sie: geben
+      preterite:
+        ich: gab
+        du: gabst
+        er: gab
+        wir: gaben
+        ihr: gabt
+        sie: gaben
+      present_perfect_participle: gegeben
+      konjunktiv_ii:
+        ich: gäbe
+        du: gäbest
+        er: gäbe
+        wir: gäben
+        ihr: gäbet
+        sie: gäben
+      imperative:
+        du: gib!
+        ihr: gebt!
+        Sie: geben Sie!
+      future:
+        ich: werde geben
+        du: wirst geben
+        er: wird geben
+        wir: werden geben
+        ihr: werdet geben
+        sie: werden geben
+    notes:
+      en: "Impersonal form: 'es gibt' (there is/are) + accusative. Es gibt einen Park hier."
+      ko: "비인칭 형태: 'es gibt' (~이 있다) + 4격. Es gibt einen Park hier."
+
+  # ============================================================
+  # MODAL VERBS
+  # ============================================================
+  können:
+    infinitive: können
+    type: modal
+    group: modal
+    stem_change: "ö→a (preterite: konnte)"
+    meaning:
+      en: can, to be able to
+      ko: "~할 수 있다"
+    tenses:
+      present:
+        ich: kann
+        du: kannst
+        er: kann
+        wir: können
+        ihr: könnt
+        sie: können
+      preterite:
+        ich: konnte
+        du: konntest
+        er: konnte
+        wir: konnten
+        ihr: konntet
+        sie: konnten
+      present_perfect_participle: gekonnt
+      konjunktiv_ii:
+        ich: könnte
+        du: könntest
+        er: könnte
+        wir: könnten
+        ihr: könntet
+        sie: könnten
+      imperative:
+        du: "-"
+        ihr: "-"
+        Sie: "-"
+      future:
+        ich: werde können
+        du: wirst können
+        er: wird können
+        wir: werden können
+        ihr: werdet können
+        sie: werden können
+    notes:
+      en: "Modal verbs have no imperative forms. In present tense, ich and er/sie/es share the same form (no -t ending). Konjunktiv II 'könnte' is very common for polite requests."
+      ko: "화법조동사는 명령형이 없음. 현재 시제에서 ich와 er/sie/es가 같은 형태 (-t 어미 없음). 접속법 II 'könnte'는 정중한 요청에 매우 자주 사용."
+
+  müssen:
+    infinitive: müssen
+    type: modal
+    group: modal
+    stem_change: "ü→u (preterite: musste)"
+    meaning:
+      en: must, to have to
+      ko: "~해야 하다"
+    tenses:
+      present:
+        ich: muss
+        du: musst
+        er: muss
+        wir: müssen
+        ihr: müsst
+        sie: müssen
+      preterite:
+        ich: musste
+        du: musstest
+        er: musste
+        wir: mussten
+        ihr: musstet
+        sie: mussten
+      present_perfect_participle: gemusst
+      konjunktiv_ii:
+        ich: müsste
+        du: müsstest
+        er: müsste
+        wir: müssten
+        ihr: müsstet
+        sie: müssten
+      imperative:
+        du: "-"
+        ihr: "-"
+        Sie: "-"
+      future:
+        ich: werde müssen
+        du: wirst müssen
+        er: wird müssen
+        wir: werden müssen
+        ihr: werdet müssen
+        sie: werden müssen
+    notes:
+      en: "Negated 'nicht müssen' means 'don't have to' (not 'must not'). 'Must not' is expressed by 'dürfen ... nicht'."
+      ko: "부정 'nicht müssen'은 '~할 필요 없다' (금지가 아님). 금지는 'dürfen ... nicht'로 표현."
+
+  dürfen:
+    infinitive: dürfen
+    type: modal
+    group: modal
+    stem_change: "ü→u (preterite: durfte)"
+    meaning:
+      en: may, to be allowed to
+      ko: "~해도 되다"
+    tenses:
+      present:
+        ich: darf
+        du: darfst
+        er: darf
+        wir: dürfen
+        ihr: dürft
+        sie: dürfen
+      preterite:
+        ich: durfte
+        du: durftest
+        er: durfte
+        wir: durften
+        ihr: durftet
+        sie: durften
+      present_perfect_participle: gedurft
+      konjunktiv_ii:
+        ich: dürfte
+        du: dürftest
+        er: dürfte
+        wir: dürften
+        ihr: dürftet
+        sie: dürften
+      imperative:
+        du: "-"
+        ihr: "-"
+        Sie: "-"
+      future:
+        ich: werde dürfen
+        du: wirst dürfen
+        er: wird dürfen
+        wir: werden dürfen
+        ihr: werdet dürfen
+        sie: werden dürfen
+    notes:
+      en: "Negated 'dürfen ... nicht' means 'must not' (prohibition). Konjunktiv II 'dürfte' is used for polite assumptions: Das dürfte stimmen (That should be correct)."
+      ko: "부정 'dürfen ... nicht'은 금지를 의미. 접속법 II 'dürfte'는 정중한 추측에 사용: Das dürfte stimmen (그것이 맞을 것입니다)."
+
+  sollen:
+    infinitive: sollen
+    type: modal
+    group: modal
+    stem_change: null
+    meaning:
+      en: should, to be supposed to
+      ko: "~해야 하다 (의무/권고)"
+    tenses:
+      present:
+        ich: soll
+        du: sollst
+        er: soll
+        wir: sollen
+        ihr: sollt
+        sie: sollen
+      preterite:
+        ich: sollte
+        du: solltest
+        er: sollte
+        wir: sollten
+        ihr: solltet
+        sie: sollten
+      present_perfect_participle: gesollt
+      konjunktiv_ii:
+        ich: sollte
+        du: solltest
+        er: sollte
+        wir: sollten
+        ihr: solltet
+        sie: sollten
+      imperative:
+        du: "-"
+        ihr: "-"
+        Sie: "-"
+      future:
+        ich: werde sollen
+        du: wirst sollen
+        er: wird sollen
+        wir: werden sollen
+        ihr: werdet sollen
+        sie: werden sollen
+    notes:
+      en: "Konjunktiv II forms are identical to Präteritum (no umlaut change). Präteritum 'sollte' = was supposed to; Konjunktiv II 'sollte' = should (advice)."
+      ko: "접속법 II 형태가 과거형과 동일 (움라우트 변화 없음). 과거형 'sollte' = ~하기로 했다; 접속법 II 'sollte' = ~해야 한다 (조언)."
+
+  wollen:
+    infinitive: wollen
+    type: modal
+    group: modal
+    stem_change: "o→i (present: ich will)"
+    meaning:
+      en: to want (to)
+      ko: "~하고 싶다, ~할 의향이다"
+    tenses:
+      present:
+        ich: will
+        du: willst
+        er: will
+        wir: wollen
+        ihr: wollt
+        sie: wollen
+      preterite:
+        ich: wollte
+        du: wolltest
+        er: wollte
+        wir: wollten
+        ihr: wolltet
+        sie: wollten
+      present_perfect_participle: gewollt
+      konjunktiv_ii:
+        ich: wollte
+        du: wolltest
+        er: wollte
+        wir: wollten
+        ihr: wolltet
+        sie: wollten
+      imperative:
+        du: "-"
+        ihr: "-"
+        Sie: "-"
+      future:
+        ich: werde wollen
+        du: wirst wollen
+        er: wird wollen
+        wir: werden wollen
+        ihr: werdet wollen
+        sie: werden wollen
+    notes:
+      en: "Like sollen, Konjunktiv II forms are identical to Präteritum (no umlaut). 'Wollen' expresses intention/desire, not 'will' (future) as in English."
+      ko: "sollen처럼 접속법 II 형태가 과거형과 동일 (움라우트 없음). 'Wollen'은 의도/욕구를 표현하며, 영어의 'will' (미래)과 다름."
+
+# ============================================================
+# AUXILIARY VERB SELECTION FOR PERFEKT
+# ============================================================
+perfekt_auxiliary_rules:
+  sein_verbs:
+    description:
+      en: "Verbs that use 'sein' as auxiliary in Perfekt (intransitive verbs of motion or change of state, plus sein and bleiben)"
+      ko: "완료형에서 'sein'을 조동사로 사용하는 동사 (이동 또는 상태 변화의 자동사, sein과 bleiben 포함)"
+    common_verbs:
+      - {verb: gehen, participle: gegangen, meaning: {en: to go, ko: 가다}}
+      - {verb: kommen, participle: gekommen, meaning: {en: to come, ko: 오다}}
+      - {verb: fahren, participle: gefahren, meaning: {en: to drive/travel, ko: 운전하다/가다}}
+      - {verb: fliegen, participle: geflogen, meaning: {en: to fly, ko: 날다}}
+      - {verb: laufen, participle: gelaufen, meaning: {en: to run, ko: 달리다}}
+      - {verb: schwimmen, participle: geschwommen, meaning: {en: to swim, ko: 수영하다}}
+      - {verb: fallen, participle: gefallen, meaning: {en: to fall, ko: 떨어지다}}
+      - {verb: sterben, participle: gestorben, meaning: {en: to die, ko: 죽다}}
+      - {verb: werden, participle: geworden, meaning: {en: to become, ko: 되다}}
+      - {verb: sein, participle: gewesen, meaning: {en: to be, ko: 이다}}
+      - {verb: bleiben, participle: geblieben, meaning: {en: to stay, ko: 머무르다}}
+      - {verb: aufwachen, participle: aufgewacht, meaning: {en: to wake up, ko: 깨다}}
+      - {verb: einschlafen, participle: eingeschlafen, meaning: {en: to fall asleep, ko: 잠들다}}
+      - {verb: passieren, participle: passiert, meaning: {en: to happen, ko: 일어나다}}
+  haben_verbs:
+    description:
+      en: "Most verbs use 'haben' as auxiliary in Perfekt: all transitive verbs, most intransitive verbs, and all reflexive verbs."
+      ko: "대부분의 동사는 완료형에서 'haben'을 조동사로 사용: 모든 타동사, 대부분의 자동사, 모든 재귀동사."
+
+# ============================================================
+# PAST PARTICIPLE (PARTIZIP II) FORMATION RULES
+# ============================================================
+partizip_ii_rules:
+  weak_verbs:
+    pattern: "ge- + stem + -t"
+    examples:
+      - {infinitive: machen, participle: gemacht}
+      - {infinitive: spielen, participle: gespielt}
+      - {infinitive: arbeiten, participle: gearbeitet}
+    notes:
+      en: "Stems ending in -t or -d add -et: arbeiten → gearbeitet."
+      ko: "-t 또는 -d로 끝나는 어간은 -et를 추가: arbeiten → gearbeitet."
+  strong_verbs:
+    pattern: "ge- + (changed) stem + -en"
+    examples:
+      - {infinitive: sprechen, participle: gesprochen}
+      - {infinitive: nehmen, participle: genommen}
+      - {infinitive: geben, participle: gegeben}
+  no_ge_prefix:
+    description:
+      en: "Verbs with inseparable prefixes (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-) and verbs ending in -ieren do NOT add ge-."
+      ko: "분리 불가 접두사 (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-)가 있는 동사와 -ieren으로 끝나는 동사는 ge-를 추가하지 않음."
+    examples:
+      - {infinitive: verstehen, participle: verstanden}
+      - {infinitive: beginnen, participle: begonnen}
+      - {infinitive: studieren, participle: studiert}
+      - {infinitive: telefonieren, participle: telefoniert}
+  separable_verbs:
+    description:
+      en: "Separable prefix verbs insert ge- between prefix and stem."
+      ko: "분리동사는 접두사와 어간 사이에 ge-를 삽입."
+    examples:
+      - {infinitive: aufmachen, participle: aufgemacht}
+      - {infinitive: anfangen, participle: angefangen}
+      - {infinitive: einladen, participle: eingeladen}
