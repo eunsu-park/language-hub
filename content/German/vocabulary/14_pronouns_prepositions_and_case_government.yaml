@@ -1,0 +1,286 @@
+lesson: 14_Pronouns_Prepositions_and_Case_Government
+lesson_number: 14
+cefr: B1
+categories:
+- id: reflexive_verbs
+  label:
+    en: Reflexive Verbs
+    ko: 재귀 동사
+  type: vocabulary
+  words:
+  - german: sich freuen
+    translation:
+      en: to be happy, to be pleased
+      ko: 기뻐하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Ich freue mich."
+  - german: sich setzen
+    translation:
+      en: to sit down
+      ko: 앉다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Setz dich!"
+  - german: sich beeilen
+    translation:
+      en: to hurry
+      ko: 서두르다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Wir muessen uns beeilen."
+  - german: sich entschuldigen
+    translation:
+      en: to apologize
+      ko: 사과하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Er entschuldigt sich."
+  - german: sich duschen
+    translation:
+      en: to shower
+      ko: 샤워하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Sie duscht sich jeden Morgen."
+  - german: sich umziehen
+    translation:
+      en: to change clothes
+      ko: 옷을 갈아입다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Separable: Er zieht sich um."
+  - german: sich erkaelten
+    translation:
+      en: to catch a cold
+      ko: 감기에 걸리다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Ich habe mich erkaeltet."
+  - german: sich etwas vorstellen
+    translation:
+      en: to imagine something
+      ko: 상상하다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive (etwas = ACC object). Stell dir das vor!"
+  - german: sich etwas wuenschen
+    translation:
+      en: to wish for something
+      ko: 소원하다, 바라다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive. Was wuenschst du dir?"
+  - german: sich die Haende waschen
+    translation:
+      en: to wash one's hands
+      ko: 손을 씻다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive (die Haende = ACC). Ich wasche mir die Haende."
+  - german: sich Sorgen machen
+    translation:
+      en: to worry
+      ko: 걱정하다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive. Sie macht sich Sorgen."
+- id: prepositional_verbs_accusative
+  label:
+    en: Prepositional Verbs (Accusative)
+    ko: 전치사 동사 (4격/대격)
+  type: vocabulary
+  words:
+  - german: warten auf + Akk.
+    translation:
+      en: to wait for
+      ko: ~을 기다리다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich warte auf den Bus. Wo-compound: Worauf wartest du?"
+  - german: sich freuen auf + Akk.
+    translation:
+      en: to look forward to
+      ko: ~을 고대하다
+    gender: null
+    plural: null
+    notes:
+      en: "Future event. Ich freue mich auf die Ferien."
+  - german: sich freuen ueber + Akk.
+    translation:
+      en: to be happy about
+      ko: ~에 대해 기뻐하다
+    gender: null
+    plural: null
+    notes:
+      en: "Present/past event. Ich freue mich ueber das Geschenk."
+  - german: denken an + Akk.
+    translation:
+      en: to think of
+      ko: ~을 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich denke an dich. Wo-compound: Woran denkst du?"
+  - german: sich erinnern an + Akk.
+    translation:
+      en: to remember
+      ko: ~을 기억하다
+    gender: null
+    plural: null
+    notes:
+      en: "Erinnerst du dich an den Film?"
+  - german: sich interessieren fuer + Akk.
+    translation:
+      en: to be interested in
+      ko: ~에 관심이 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Er interessiert sich fuer Musik."
+  - german: sich kuemmern um + Akk.
+    translation:
+      en: to take care of
+      ko: ~을 돌보다
+    gender: null
+    plural: null
+    notes:
+      en: "Wer kuemmert sich um die Kinder?"
+  - german: bitten um + Akk.
+    translation:
+      en: to ask for, to request
+      ko: ~을 요청하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich bitte um Hilfe."
+  - german: achten auf + Akk.
+    translation:
+      en: to pay attention to
+      ko: ~에 주의하다
+    gender: null
+    plural: null
+    notes:
+      en: "Achte auf den Verkehr!"
+  - german: sprechen ueber + Akk.
+    translation:
+      en: to talk about
+      ko: ~에 대해 이야기하다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir sprechen ueber den Film. Wo-compound: Worueber?"
+  - german: sich aergern ueber + Akk.
+    translation:
+      en: to be annoyed about
+      ko: ~에 짜증내다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich aergere mich ueber den Laerm."
+  - german: sich gewoehnen an + Akk.
+    translation:
+      en: to get used to
+      ko: ~에 익숙해지다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich gewoehne mich an das Klima."
+- id: prepositional_verbs_dative
+  label:
+    en: Prepositional Verbs (Dative)
+    ko: 전치사 동사 (3격/여격)
+  type: vocabulary
+  words:
+  - german: sprechen mit + Dat.
+    translation:
+      en: to talk with
+      ko: ~와 이야기하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich spreche mit meinem Chef."
+  - german: Angst haben vor + Dat.
+    translation:
+      en: to be afraid of
+      ko: ~을 무서워하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie hat Angst vor Hunden. Wo-compound: Wovor?"
+  - german: traeumen von + Dat.
+    translation:
+      en: to dream of
+      ko: ~을 꿈꾸다
+    gender: null
+    plural: null
+    notes:
+      en: "Er traeumt von einer Reise. Wo-compound: Wovon?"
+  - german: abhaengen von + Dat.
+    translation:
+      en: to depend on
+      ko: ~에 달려있다
+    gender: null
+    plural: null
+    notes:
+      en: "Es haengt vom Wetter ab. Separable verb."
+  - german: teilnehmen an + Dat.
+    translation:
+      en: to participate in
+      ko: ~에 참가하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich nehme am Kurs teil. Separable verb."
+  - german: sich beschaeftigen mit + Dat.
+    translation:
+      en: to occupy oneself with
+      ko: ~에 몰두하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie beschaeftigt sich mit dem Projekt."
+  - german: sich fuerchten vor + Dat.
+    translation:
+      en: to be afraid of
+      ko: ~을 두려워하다
+    gender: null
+    plural: null
+    notes:
+      en: "Das Kind fuerchtet sich vor dem Hund."
+  - german: fragen nach + Dat.
+    translation:
+      en: to ask about
+      ko: ~에 대해 묻다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich frage nach dem Weg."
+  - german: suchen nach + Dat.
+    translation:
+      en: to search for
+      ko: ~을 찾다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir suchen nach einer Loesung."
+  - german: gratulieren zu + Dat.
+    translation:
+      en: to congratulate on
+      ko: ~을 축하하다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir gratulieren dir zum Geburtstag!"
