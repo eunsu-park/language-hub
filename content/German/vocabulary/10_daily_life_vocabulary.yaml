@@ -1,0 +1,412 @@
+lesson: 10_Daily_Life_Vocabulary
+lesson_number: 10
+cefr: A2
+categories:
+- id: food_and_drink
+  label:
+    en: Food and Drink
+    ko: 음식과 음료
+  type: vocabulary
+  words:
+  - german: das Brot
+    translation:
+      en: bread
+      ko: 빵
+    gender: n
+    plural: die Brote
+  - german: das Brötchen
+    translation:
+      en: bread roll
+      ko: 작은 빵 (롤빵)
+    gender: n
+    plural: die Brötchen
+  - german: die Butter
+    translation:
+      en: butter
+      ko: 버터
+    gender: f
+    plural: null
+  - german: der Käse
+    translation:
+      en: cheese
+      ko: 치즈
+    gender: m
+    plural: die Käse
+  - german: die Wurst
+    translation:
+      en: sausage
+      ko: 소시지
+    gender: f
+    plural: die Würste
+  - german: das Fleisch
+    translation:
+      en: meat
+      ko: 고기
+    gender: n
+    plural: null
+  - german: der Fisch
+    translation:
+      en: fish
+      ko: 생선
+    gender: m
+    plural: die Fische
+  - german: das Ei
+    translation:
+      en: egg
+      ko: 달걀
+    gender: n
+    plural: die Eier
+  - german: der Reis
+    translation:
+      en: rice
+      ko: 쌀, 밥
+    gender: m
+    plural: null
+  - german: die Suppe
+    translation:
+      en: soup
+      ko: 수프
+    gender: f
+    plural: die Suppen
+  - german: der Apfel
+    translation:
+      en: apple
+      ko: 사과
+    gender: m
+    plural: die Äpfel
+  - german: die Kartoffel
+    translation:
+      en: potato
+      ko: 감자
+    gender: f
+    plural: die Kartoffeln
+  - german: das Wasser
+    translation:
+      en: water
+      ko: 물
+    gender: n
+    plural: null
+  - german: der Kaffee
+    translation:
+      en: coffee
+      ko: 커피
+    gender: m
+    plural: null
+  - german: der Tee
+    translation:
+      en: tea
+      ko: 차
+    gender: m
+    plural: die Tees
+  - german: der Saft
+    translation:
+      en: juice
+      ko: 주스
+    gender: m
+    plural: die Säfte
+  - german: das Bier
+    translation:
+      en: beer
+      ko: 맥주
+    gender: n
+    plural: die Biere
+  - german: der Wein
+    translation:
+      en: wine
+      ko: 와인
+    gender: m
+    plural: die Weine
+- id: shopping
+  label:
+    en: Shopping
+    ko: 쇼핑
+  type: vocabulary
+  words:
+  - german: der Supermarkt
+    translation:
+      en: supermarket
+      ko: 슈퍼마켓
+    gender: m
+    plural: die Supermärkte
+  - german: die Bäckerei
+    translation:
+      en: bakery
+      ko: 빵집
+    gender: f
+    plural: die Bäckereien
+  - german: die Apotheke
+    translation:
+      en: pharmacy
+      ko: 약국
+    gender: f
+    plural: die Apotheken
+  - german: das Geschäft
+    translation:
+      en: shop, store
+      ko: 가게
+    gender: n
+    plural: die Geschäfte
+  - german: die Kasse
+    translation:
+      en: checkout, cash register
+      ko: 계산대
+    gender: f
+    plural: die Kassen
+  - german: Was kostet das?
+    translation:
+      en: What does that cost?
+      ko: 이것은 얼마인가요?
+    gender: null
+    plural: null
+  - german: Ich hätte gern...
+    translation:
+      en: I would like...
+      ko: ~을/를 주세요 (정중한 표현)
+    gender: null
+    plural: null
+  - german: der Euro
+    translation:
+      en: euro
+      ko: 유로
+    gender: m
+    plural: die Euro
+- id: transportation
+  label:
+    en: Transportation
+    ko: 교통
+  type: vocabulary
+  words:
+  - german: der Bus
+    translation:
+      en: bus
+      ko: 버스
+    gender: m
+    plural: die Busse
+  - german: die U-Bahn
+    translation:
+      en: subway, underground
+      ko: 지하철
+    gender: f
+    plural: die U-Bahnen
+  - german: der Zug
+    translation:
+      en: train
+      ko: 기차
+    gender: m
+    plural: die Züge
+  - german: das Fahrrad
+    translation:
+      en: bicycle
+      ko: 자전거
+    gender: n
+    plural: die Fahrräder
+  - german: das Auto
+    translation:
+      en: car
+      ko: 자동차
+    gender: n
+    plural: die Autos
+  - german: das Flugzeug
+    translation:
+      en: airplane
+      ko: 비행기
+    gender: n
+    plural: die Flugzeuge
+  - german: der Bahnhof
+    translation:
+      en: train station
+      ko: 기차역
+    gender: m
+    plural: die Bahnhöfe
+  - german: die Fahrkarte
+    translation:
+      en: ticket (transportation)
+      ko: 승차권
+    gender: f
+    plural: die Fahrkarten
+  - german: die Haltestelle
+    translation:
+      en: stop (bus/tram)
+      ko: 정류장
+    gender: f
+    plural: die Haltestellen
+- id: housing
+  label:
+    en: Housing
+    ko: 주거
+  type: vocabulary
+  words:
+  - german: die Wohnung
+    translation:
+      en: apartment, flat
+      ko: 아파트
+    gender: f
+    plural: die Wohnungen
+  - german: das Haus
+    translation:
+      en: house
+      ko: 집
+    gender: n
+    plural: die Häuser
+  - german: die Küche
+    translation:
+      en: kitchen
+      ko: 부엌
+    gender: f
+    plural: die Küchen
+  - german: das Wohnzimmer
+    translation:
+      en: living room
+      ko: 거실
+    gender: n
+    plural: die Wohnzimmer
+  - german: das Schlafzimmer
+    translation:
+      en: bedroom
+      ko: 침실
+    gender: n
+    plural: die Schlafzimmer
+  - german: das Badezimmer
+    translation:
+      en: bathroom
+      ko: 욕실
+    gender: n
+    plural: die Badezimmer
+  - german: der Tisch
+    translation:
+      en: table
+      ko: 탁자
+    gender: m
+    plural: die Tische
+  - german: der Stuhl
+    translation:
+      en: chair
+      ko: 의자
+    gender: m
+    plural: die Stühle
+  - german: das Bett
+    translation:
+      en: bed
+      ko: 침대
+    gender: n
+    plural: die Betten
+  - german: die Miete
+    translation:
+      en: rent
+      ko: 집세
+    gender: f
+    plural: die Mieten
+- id: health
+  label:
+    en: Health
+    ko: 건강
+  type: vocabulary
+  words:
+  - german: der Arzt
+    translation:
+      en: doctor (male)
+      ko: 의사 (남)
+    gender: m
+    plural: die Ärzte
+  - german: die Ärztin
+    translation:
+      en: doctor (female)
+      ko: 의사 (여)
+    gender: f
+    plural: die Ärztinnen
+  - german: das Krankenhaus
+    translation:
+      en: hospital
+      ko: 병원
+    gender: n
+    plural: die Krankenhäuser
+  - german: das Medikament
+    translation:
+      en: medication
+      ko: 약
+    gender: n
+    plural: die Medikamente
+  - german: Ich bin krank.
+    translation:
+      en: I am sick.
+      ko: 아파요.
+    gender: null
+    plural: null
+  - german: Ich habe Kopfschmerzen.
+    translation:
+      en: I have a headache.
+      ko: 두통이 있어요.
+    gender: null
+    plural: null
+  - german: Ich habe Fieber.
+    translation:
+      en: I have a fever.
+      ko: 열이 있어요.
+    gender: null
+    plural: null
+- id: daily_routines
+  label:
+    en: Daily Routines
+    ko: 일과
+  type: vocabulary
+  words:
+  - german: aufstehen
+    translation:
+      en: to get up
+      ko: 일어나다
+    gender: null
+    plural: null
+  - german: sich duschen
+    translation:
+      en: to shower
+      ko: 샤워하다
+    gender: null
+    plural: null
+  - german: frühstücken
+    translation:
+      en: to have breakfast
+      ko: 아침 식사를 하다
+    gender: null
+    plural: null
+  - german: zur Arbeit gehen
+    translation:
+      en: to go to work
+      ko: 출근하다
+    gender: null
+    plural: null
+  - german: zu Mittag essen
+    translation:
+      en: to eat lunch
+      ko: 점심을 먹다
+    gender: null
+    plural: null
+  - german: einkaufen gehen
+    translation:
+      en: to go shopping
+      ko: 쇼핑하러 가다
+    gender: null
+    plural: null
+  - german: kochen
+    translation:
+      en: to cook
+      ko: 요리하다
+    gender: null
+    plural: null
+  - german: zu Abend essen
+    translation:
+      en: to eat dinner
+      ko: 저녁을 먹다
+    gender: null
+    plural: null
+  - german: ins Bett gehen
+    translation:
+      en: to go to bed
+      ko: 잠자리에 들다
+    gender: null
+    plural: null
+  - german: sich die Zähne putzen
+    translation:
+      en: to brush one's teeth
+      ko: 이를 닦다
+    gender: null
+    plural: null
