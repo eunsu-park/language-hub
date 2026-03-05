@@ -1,0 +1,222 @@
+lesson: 16_Future_Conditional_and_Konjunktiv_II
+lesson_number: 16
+cefr: B2
+categories:
+- id: konjunktiv_ii_forms
+  label:
+    en: Konjunktiv II Forms
+    ko: 접속법 II식 형태
+  type: vocabulary
+  words:
+  - german: "waere"
+    translation:
+      en: would be (Konj. II of sein)
+      ko: ~일 텐데 (sein의 접속법 II)
+    gender: null
+    plural: null
+    notes:
+      en: "Always synthetic. Ich waere gern in Deutschland."
+  - german: "haette"
+    translation:
+      en: would have (Konj. II of haben)
+      ko: ~을 가질 텐데 (haben의 접속법 II)
+    gender: null
+    plural: null
+    notes:
+      en: "Always synthetic. Haetten Sie einen Moment Zeit?"
+  - german: "wuerde"
+    translation:
+      en: would (Konj. II of werden)
+      ko: ~할 것이다 (werden의 접속법 II)
+    gender: null
+    plural: null
+    notes:
+      en: "Used for periphrastic form: wuerde + Infinitiv"
+  - german: "koennte"
+    translation:
+      en: could (Konj. II of koennen)
+      ko: ~할 수 있을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Always synthetic. Das koennte schwierig sein."
+  - german: "muesste"
+    translation:
+      en: would have to (Konj. II of muessen)
+      ko: ~해야 할 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Always synthetic. Ich muesste eigentlich arbeiten."
+  - german: "duerfte"
+    translation:
+      en: might, would be allowed to (Konj. II of duerfen)
+      ko: ~해도 될 텐데, ~일지도 모른다
+    gender: null
+    plural: null
+    notes:
+      en: "Always synthetic. Duerfte ich Sie etwas fragen?"
+  - german: sollte
+    translation:
+      en: should (Konj. II of sollen)
+      ko: ~해야 한다
+    gender: null
+    plural: null
+    notes:
+      en: "Identical to Praeteritum form. Du solltest das nicht sagen."
+  - german: "gaebe"
+    translation:
+      en: would give; there would be (Konj. II of geben)
+      ko: 줄 텐데; ~이 있을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Es gaebe eine andere Moeglichkeit."
+  - german: "kaeme"
+    translation:
+      en: would come (Konj. II of kommen)
+      ko: 올 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Wenn er nur kaeme!"
+  - german: "wuesste"
+    translation:
+      en: would know (Konj. II of wissen)
+      ko: 알 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Ich wuesste gern, ob..."
+- id: conditional_expressions
+  label:
+    en: Conditional Expressions
+    ko: 조건문 표현
+  type: vocabulary
+  words:
+  - german: wenn
+    translation:
+      en: if, when
+      ko: 만약 ~라면, ~할 때
+    gender: null
+    plural: null
+    notes:
+      en: "Introduces conditional clauses. Verb goes to end."
+  - german: als ob
+    translation:
+      en: as if, as though
+      ko: 마치 ~인 것처럼
+    gender: null
+    plural: null
+    notes:
+      en: "Followed by Konjunktiv II. Er tut so, als ob er krank waere."
+  - german: an deiner/Ihrer Stelle
+    translation:
+      en: in your place
+      ko: 네/당신의 입장이라면
+    gender: null
+    plural: null
+    notes:
+      en: "An deiner Stelle wuerde ich das nicht machen."
+  - german: sonst
+    translation:
+      en: otherwise
+      ko: 그렇지 않으면
+    gender: null
+    plural: null
+    notes:
+      en: "Beeil dich, sonst kommen wir zu spaet."
+  - german: falls
+    translation:
+      en: in case, if
+      ko: ~할 경우에
+    gender: null
+    plural: null
+    notes:
+      en: "More uncertain than wenn. Falls es regnet, ..."
+  - german: Ich wuenschte, ...
+    translation:
+      en: I wish ...
+      ko: ~이면 좋겠다
+    gender: null
+    plural: null
+    notes:
+      en: "Followed by Konjunktiv II. Ich wuenschte, ich haette mehr Geld."
+  - german: Wenn ... doch nur ...!
+    translation:
+      en: If only ...!
+      ko: ~이기만 하다면!
+    gender: null
+    plural: null
+    notes:
+      en: "Wish intensifier. Wenn ich doch nur fliegen koennte!"
+- id: polite_request_phrases
+  label:
+    en: Polite Request Phrases
+    ko: 공손한 요청 표현
+  type: vocabulary
+  words:
+  - german: "Koennten Sie mir bitte helfen?"
+    translation:
+      en: Could you please help me?
+      ko: 도와주시겠어요?
+    gender: null
+    plural: null
+    notes:
+      en: "koennen -> koennten (Konjunktiv II) for politeness"
+  - german: "Haetten Sie einen Moment Zeit?"
+    translation:
+      en: Would you have a moment?
+      ko: 잠시 시간이 되시겠습니까?
+    gender: null
+    plural: null
+    notes:
+      en: "haben -> haetten (Konjunktiv II) for politeness"
+  - german: "Wuerden Sie bitte das Fenster oeffnen?"
+    translation:
+      en: Would you please open the window?
+      ko: 창문을 열어주시겠습니까?
+    gender: null
+    plural: null
+    notes:
+      en: "wuerde + Infinitiv for polite requests"
+  - german: "Duerfte ich Sie etwas fragen?"
+    translation:
+      en: Might I ask you something?
+      ko: 질문 하나 해도 될까요?
+    gender: null
+    plural: null
+    notes:
+      en: "duerfen -> duerfte (Konjunktiv II) for politeness"
+  - german: "Ich haette gern eine Tasse Kaffee."
+    translation:
+      en: I would like a cup of coffee.
+      ko: 커피 한 잔 주시겠습니까.
+    gender: null
+    plural: null
+    notes:
+      en: "Standard polite ordering phrase. haette gern = would like"
+  - german: "Waere es moeglich, einen Termin zu machen?"
+    translation:
+      en: Would it be possible to make an appointment?
+      ko: 약속을 잡을 수 있을까요?
+    gender: null
+    plural: null
+    notes:
+      en: "waere + moeglich for polite possibility"
+  - german: "Es waere nett, wenn Sie mir helfen koennten."
+    translation:
+      en: It would be nice if you could help me.
+      ko: 도와주시면 감사하겠습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "waere + wenn-clause with koennten for polite request"
+  - german: "Ich brauchte Ihre Hilfe."
+    translation:
+      en: I would need your help.
+      ko: 도움이 필요할 것 같습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "brauchen -> braeuchte/brauchte (Konjunktiv II)"
