@@ -1,0 +1,292 @@
+lesson: 11_Cases_Dative_and_Genitive
+lesson_number: 11
+cefr: B1
+categories:
+- id: dative_prepositions
+  label:
+    en: Dative Prepositions
+    ko: 3격(여격) 전치사
+  type: vocabulary
+  words:
+  - german: aus
+    translation:
+      en: out of, from (origin)
+      ko: ~에서, ~출신
+    gender: null
+    plural: null
+    notes:
+      en: "Always dative: Er kommt aus der Schweiz."
+  - german: bei
+    translation:
+      en: at, near, at the home of
+      ko: ~에서, ~근처에, ~집에서
+    gender: null
+    plural: null
+    notes:
+      en: "Contraction: bei + dem = beim"
+  - german: mit
+    translation:
+      en: with, by (transport)
+      ko: ~와 함께, ~로(교통수단)
+    gender: null
+    plural: null
+    notes:
+      en: "Sie faehrt mit dem Bus."
+  - german: nach
+    translation:
+      en: after, to (cities/countries)
+      ko: ~후에, ~로(도시/나라)
+    gender: null
+    plural: null
+    notes:
+      en: "nach Berlin, nach dem Essen"
+  - german: seit
+    translation:
+      en: since, for (duration)
+      ko: ~이래로, ~동안
+    gender: null
+    plural: null
+    notes:
+      en: "Seit einem Jahr lerne ich Deutsch."
+  - german: von
+    translation:
+      en: from, of, by
+      ko: ~에서, ~의, ~에 의해
+    gender: null
+    plural: null
+    notes:
+      en: "Contraction: von + dem = vom"
+  - german: zu
+    translation:
+      en: to (a person/place)
+      ko: ~에게, ~으로
+    gender: null
+    plural: null
+    notes:
+      en: "Contractions: zu + dem = zum, zu + der = zur"
+  - german: "gegenueber"
+    translation:
+      en: opposite, across from
+      ko: ~맞은편에
+    gender: null
+    plural: null
+    notes:
+      en: "Die Bank ist gegenueber dem Bahnhof."
+- id: genitive_prepositions
+  label:
+    en: Genitive Prepositions
+    ko: 2격(소유격) 전치사
+  type: vocabulary
+  words:
+  - german: wegen
+    translation:
+      en: because of
+      ko: ~ 때문에
+    gender: null
+    plural: null
+    notes:
+      en: "Wegen des Regens bleiben wir zu Hause."
+  - german: trotz
+    translation:
+      en: despite, in spite of
+      ko: ~에도 불구하고
+    gender: null
+    plural: null
+    notes:
+      en: "Trotz der Kaelte geht er joggen."
+  - german: "waehrend"
+    translation:
+      en: during
+      ko: ~동안
+    gender: null
+    plural: null
+    notes:
+      en: "Waehrend des Unterrichts darf man nicht essen."
+  - german: statt / anstatt
+    translation:
+      en: instead of
+      ko: ~ 대신에
+    gender: null
+    plural: null
+    notes:
+      en: "Statt eines Kuchens brachte er Blumen."
+  - german: "ausserhalb"
+    translation:
+      en: outside of
+      ko: ~바깥에
+    gender: null
+    plural: null
+    notes:
+      en: "Ausserhalb der Stadt gibt es Waelder."
+  - german: innerhalb
+    translation:
+      en: within, inside of
+      ko: ~이내에, ~안에
+    gender: null
+    plural: null
+    notes:
+      en: "Innerhalb eines Jahres hat er Deutsch gelernt."
+- id: dative_verbs
+  label:
+    en: Verbs That Take the Dative
+    ko: 3격(여격)을 취하는 동사
+  type: vocabulary
+  words:
+  - german: helfen
+    translation:
+      en: to help
+      ko: 돕다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich helfe dir. (dative object)"
+  - german: danken
+    translation:
+      en: to thank
+      ko: 감사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich danke Ihnen."
+  - german: "gehoeren"
+    translation:
+      en: to belong to
+      ko: ~에 속하다
+    gender: null
+    plural: null
+    notes:
+      en: "Das Buch gehoert mir."
+  - german: gefallen
+    translation:
+      en: to please, to like
+      ko: 마음에 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Stadt gefaellt uns. (The city pleases us.)"
+  - german: schmecken
+    translation:
+      en: to taste (good to)
+      ko: 맛있다, 맛이 나다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Suppe schmeckt ihm gut."
+  - german: passen
+    translation:
+      en: to fit, to suit
+      ko: 맞다, 어울리다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Schuhe passen mir nicht."
+  - german: folgen
+    translation:
+      en: to follow
+      ko: 따르다
+    gender: null
+    plural: null
+    notes:
+      en: "Der Hund folgt seinem Besitzer."
+  - german: fehlen
+    translation:
+      en: to be missing, to miss (someone)
+      ko: 없다, 그립다
+    gender: null
+    plural: null
+    notes:
+      en: "Du fehlst mir. (I miss you.)"
+  - german: gratulieren
+    translation:
+      en: to congratulate
+      ko: 축하하다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir gratulieren dir zum Geburtstag!"
+  - german: vertrauen
+    translation:
+      en: to trust
+      ko: 신뢰하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich vertraue dir."
+- id: two_way_prepositions
+  label:
+    en: Two-Way Prepositions (Wechselpraepositionen)
+    ko: 교차 전치사 (3/4격 전치사)
+  type: vocabulary
+  words:
+  - german: in
+    translation:
+      en: in, into
+      ko: ~안에, ~안으로
+    gender: null
+    plural: null
+    notes:
+      en: "Dative (Wo?): im Haus / Accusative (Wohin?): ins Haus"
+  - german: an
+    translation:
+      en: at, on (vertical surface)
+      ko: ~에, ~위에(수직면)
+    gender: null
+    plural: null
+    notes:
+      en: "Dative: am Tisch / Accusative: ans Fenster"
+  - german: auf
+    translation:
+      en: on, onto (horizontal surface)
+      ko: ~위에(수평면), ~위로
+    gender: null
+    plural: null
+    notes:
+      en: "Dative: auf dem Tisch / Accusative: auf den Tisch"
+  - german: "ueber"
+    translation:
+      en: over, above, across
+      ko: ~위에, ~넘어, ~에 대해
+    gender: null
+    plural: null
+    notes:
+      en: "Die Lampe haengt ueber dem Tisch."
+  - german: unter
+    translation:
+      en: under, below, among
+      ko: ~아래에, ~중에
+    gender: null
+    plural: null
+    notes:
+      en: "Die Katze sitzt unter dem Stuhl."
+  - german: vor
+    translation:
+      en: in front of, before, ago
+      ko: ~앞에, ~전에
+    gender: null
+    plural: null
+    notes:
+      en: "Er steht vor dem Haus. / vor einer Woche"
+  - german: hinter
+    translation:
+      en: behind
+      ko: ~뒤에
+    gender: null
+    plural: null
+    notes:
+      en: "Er wartet hinter der Tuer."
+  - german: neben
+    translation:
+      en: next to, beside
+      ko: ~옆에
+    gender: null
+    plural: null
+    notes:
+      en: "Sie sitzt neben dem Fenster."
+  - german: zwischen
+    translation:
+      en: between
+      ko: ~사이에
+    gender: null
+    plural: null
+    notes:
+      en: "Das Kind steht zwischen den Eltern."
