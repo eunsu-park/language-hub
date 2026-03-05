@@ -11,6 +11,9 @@ language:
   has_tones: false
   has_character_writing: false
   has_gendered_nouns: true
+  word_key: spanish          # vocabulary YAML의 단어 필드명
+  tts_locale: es-ES          # Web Speech API locale
+  accent_chars: [á, é, í, ó, ú, ñ, ü]  # input helper characters
 
 stages:
   - id: foundations
