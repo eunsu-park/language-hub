@@ -1,0 +1,68 @@
+language:
+  code: de
+  name:
+    en: German
+    ko: 독일어
+    native: Deutsch
+  writing_system: latin
+  script_direction: ltr
+  proficiency_framework: cefr
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: false
+  has_gendered_nouns: true
+  has_case_system: true
+  word_key: german
+  tts_locale: de-DE
+  accent_chars: [ä, ö, ü, ß]
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    cefr: A1
+    label:
+      en: "Foundations"
+      ko: "기초"
+    description:
+      en: "Alphabet, pronunciation, greetings, nouns/gender, essential verbs, present tense"
+      ko: "알파벳, 발음, 인사, 명사/성별, 필수 동사, 현재 시제"
+
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    cefr: A2
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Cases (nominative/accusative), adjectives, numbers, modal verbs, daily vocabulary"
+      ko: "격 (1격/4격), 형용사, 숫자, 화법조동사, 일상 어휘"
+
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    cefr: B1
+    label:
+      en: "Intermediate Grammar"
+      ko: "중급 문법"
+    description:
+      en: "Dative/genitive cases, past tenses, separable verbs, complete verb system"
+      ko: "3격/2격, 과거 시제, 분리동사, 전체 동사 체계"
+
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    cefr: B2
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Konjunktiv II, adjective declension, passive voice, idioms, thematic vocabulary"
+      ko: "접속법 II, 형용사 어미변화, 수동태, 관용구, 주제별 어휘"
+
+  - id: practical
+    lessons: ["21", "22", "23", "24", "25"]
+    cefr: B2-C1
+    label:
+      en: "Practical Application"
+      ko: "실전 적용"
+    description:
+      en: "Reading, writing, DACH culture, business German, exam preparation"
+      ko: "독해, 작문, DACH 문화, 비즈니스 독일어, 시험 준비"
