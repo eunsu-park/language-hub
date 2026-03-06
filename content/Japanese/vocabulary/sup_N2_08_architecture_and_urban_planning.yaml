@@ -1,0 +1,1183 @@
+lesson: "sup_N2_Architecture_and_Urban_Planning"
+lesson_number: 168
+jlpt: N2
+type: supplementary
+topic: "Architecture and Urban Planning"
+categories:
+- id: building_types
+  label:
+    en: "Building Types"
+    ko: "건축물 유형"
+  type: vocabulary
+  words:
+  - japanese: "建築物"
+    reading: "けんちくぶつ"
+    translation:
+      en: "building, structure"
+      ko: "건축물"
+    gender: null
+    notes:
+      en: "construct + thing"
+      ko: "건축 + 물"
+  - japanese: "高層ビル"
+    reading: "こうそうビル"
+    translation:
+      en: "high-rise building"
+      ko: "고층 빌딩"
+    gender: null
+    notes:
+      en: "超高層 = skyscraper"
+      ko: "超高層 = 초고층"
+  - japanese: "集合住宅"
+    reading: "しゅうごうじゅうたく"
+    translation:
+      en: "apartment complex"
+      ko: "집합 주택"
+    gender: null
+    notes:
+      en: "collective + housing"
+      ko: "집합 + 주택"
+  - japanese: "一戸建て"
+    reading: "いっこだて"
+    translation:
+      en: "detached house"
+      ko: "단독주택"
+    gender: null
+    notes:
+      en: "one + house + standing"
+      ko: "한 + 채 + 서다"
+  - japanese: "寺院"
+    reading: "じいん"
+    translation:
+      en: "temple"
+      ko: "사원"
+    gender: null
+    notes:
+      en: "仏教寺院 = Buddhist temple"
+      ko: "仏教寺院 = 불교 사원"
+  - japanese: "神社"
+    reading: "じんじゃ"
+    translation:
+      en: "Shinto shrine"
+      ko: "신사"
+    gender: null
+    notes:
+      en: "god + shrine"
+      ko: "신 + 사"
+  - japanese: "城"
+    reading: "しろ"
+    translation:
+      en: "castle"
+      ko: "성"
+    gender: null
+    notes:
+      en: "城郭 (じょうかく) = castle (formal)"
+      ko: "城郭 (じょうかく) = 성곽 (격식)"
+  - japanese: "宮殿"
+    reading: "きゅうでん"
+    translation:
+      en: "palace"
+      ko: "궁전"
+    gender: null
+    notes:
+      en: "palace + hall"
+      ko: "궁 + 전"
+  - japanese: "聖堂"
+    reading: "せいどう"
+    translation:
+      en: "cathedral, sanctuary"
+      ko: "성당"
+    gender: null
+    notes:
+      en: "holy + hall"
+      ko: "성스러운 + 당"
+  - japanese: "塔"
+    reading: "とう"
+    translation:
+      en: "tower, pagoda"
+      ko: "탑"
+    gender: null
+    notes:
+      en: "五重塔 = five-story pagoda"
+      ko: "五重塔 = 오중탑"
+  - japanese: "橋"
+    reading: "はし"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: null
+    notes:
+      en: "吊り橋 = suspension bridge"
+      ko: "吊り橋 = 현수교"
+  - japanese: "倉庫"
+    reading: "そうこ"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: null
+    notes:
+      en: "store + storage"
+      ko: "저장 + 고"
+  - japanese: "劇場"
+    reading: "げきじょう"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: null
+    notes:
+      en: "drama + place"
+      ko: "극 + 장"
+  - japanese: "競技場"
+    reading: "きょうぎじょう"
+    translation:
+      en: "stadium, arena"
+      ko: "경기장"
+    gender: null
+    notes:
+      en: "competition + place"
+      ko: "경기 + 장"
+  - japanese: "博物館"
+    reading: "はくぶつかん"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: null
+    notes:
+      en: "extensive + objects + building"
+      ko: "넓다 + 물건 + 관"
+  - japanese: "庁舎"
+    reading: "ちょうしゃ"
+    translation:
+      en: "government building"
+      ko: "청사"
+    gender: null
+    notes:
+      en: "市庁舎 = city hall"
+      ko: "市庁舎 = 시청사"
+  - japanese: "工場"
+    reading: "こうじょう"
+    translation:
+      en: "factory"
+      ko: "공장"
+    gender: null
+    notes:
+      en: "work + place"
+      ko: "공 + 장"
+  - japanese: "商業施設"
+    reading: "しょうぎょうしせつ"
+    translation:
+      en: "commercial facility"
+      ko: "상업 시설"
+    gender: null
+    notes:
+      en: "commerce + facility"
+      ko: "상업 + 시설"
+  - japanese: "研究所"
+    reading: "けんきゅうじょ"
+    translation:
+      en: "research institute"
+      ko: "연구소"
+    gender: null
+    notes:
+      en: "research + place"
+      ko: "연구 + 소"
+  - japanese: "病院"
+    reading: "びょういん"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: null
+    notes:
+      en: "disease + institution"
+      ko: "병 + 원"
+  - japanese: "複合施設"
+    reading: "ふくごうしせつ"
+    translation:
+      en: "mixed-use facility"
+      ko: "복합 시설"
+    gender: null
+    notes:
+      en: "combined + facility"
+      ko: "복합 + 시설"
+  - japanese: "公共施設"
+    reading: "こうきょうしせつ"
+    translation:
+      en: "public facility"
+      ko: "공공 시설"
+    gender: null
+    notes:
+      en: "public + facility"
+      ko: "공공 + 시설"
+  - japanese: "学校"
+    reading: "がっこう"
+    translation:
+      en: "school (building)"
+      ko: "학교"
+    gender: null
+    notes:
+      en: "校舎 = school building"
+      ko: "校舎 = 교사"
+  - japanese: "発電所"
+    reading: "はつでんしょ"
+    translation:
+      en: "power plant"
+      ko: "발전소"
+    gender: null
+    notes:
+      en: "generate + electricity + place"
+      ko: "발 + 전 + 소"
+  - japanese: "浄水場"
+    reading: "じょうすいじょう"
+    translation:
+      en: "water treatment plant"
+      ko: "정수장"
+    gender: null
+    notes:
+      en: "purify + water + place"
+      ko: "정 + 수 + 장"
+  - japanese: "駐車場"
+    reading: "ちゅうしゃじょう"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: null
+    notes:
+      en: "park + vehicle + place"
+      ko: "주 + 차 + 장"
+  - japanese: "地下街"
+    reading: "ちかがい"
+    translation:
+      en: "underground mall"
+      ko: "지하상가"
+    gender: null
+    notes:
+      en: "underground + street"
+      ko: "지하 + 거리"
+  - japanese: "団地"
+    reading: "だんち"
+    translation:
+      en: "housing complex"
+      ko: "단지"
+    gender: null
+    notes:
+      en: "group + land"
+      ko: "단 + 지"
+
+- id: architectural_styles
+  label:
+    en: "Architectural Styles"
+    ko: "건축 양식"
+  type: vocabulary
+  words:
+  - japanese: "様式"
+    reading: "ようしき"
+    translation:
+      en: "style"
+      ko: "양식"
+    gender: null
+    notes:
+      en: "建築様式 = architectural style"
+      ko: "建築様式 = 건축 양식"
+  - japanese: "和風"
+    reading: "わふう"
+    translation:
+      en: "Japanese style"
+      ko: "일본식"
+    gender: null
+    notes:
+      en: "和風建築 = Japanese-style architecture"
+      ko: "和風建築 = 일본식 건축"
+  - japanese: "洋風"
+    reading: "ようふう"
+    translation:
+      en: "Western style"
+      ko: "서양식"
+    gender: null
+    notes:
+      en: "洋風建築 = Western-style architecture"
+      ko: "洋風建築 = 서양식 건축"
+  - japanese: "近代建築"
+    reading: "きんだいけんちく"
+    translation:
+      en: "modern architecture"
+      ko: "근대 건축"
+    gender: null
+    notes:
+      en: "modern + architecture"
+      ko: "근대 + 건축"
+  - japanese: "伝統建築"
+    reading: "でんとうけんちく"
+    translation:
+      en: "traditional architecture"
+      ko: "전통 건축"
+    gender: null
+    notes:
+      en: "traditional + architecture"
+      ko: "전통 + 건축"
+  - japanese: "数寄屋造り"
+    reading: "すきやづくり"
+    translation:
+      en: "sukiya-zukuri (tea house style)"
+      ko: "스키야즈쿠리"
+    gender: null
+    notes:
+      en: "Japanese tea ceremony architecture"
+      ko: "일본 다도 건축"
+  - japanese: "書院造り"
+    reading: "しょいんづくり"
+    translation:
+      en: "shoin-zukuri"
+      ko: "쇼인즈쿠리"
+    gender: null
+    notes:
+      en: "formal Japanese residential style"
+      ko: "일본 격식체 주거 양식"
+  - japanese: "町屋"
+    reading: "まちや"
+    translation:
+      en: "machiya (townhouse)"
+      ko: "마치야"
+    gender: null
+    notes:
+      en: "traditional Kyoto wooden townhouse"
+      ko: "교토 전통 목조 타운하우스"
+  - japanese: "ゴシック"
+    reading: null
+    translation:
+      en: "Gothic"
+      ko: "고딕"
+    gender: null
+    notes:
+      en: "ゴシック建築 = Gothic architecture"
+      ko: "ゴシック建築 = 고딕 건축"
+  - japanese: "バロック"
+    reading: null
+    translation:
+      en: "Baroque"
+      ko: "바로크"
+    gender: null
+    notes:
+      en: "バロック建築 = Baroque architecture"
+      ko: "バロック建築 = 바로크 건축"
+  - japanese: "ルネサンス"
+    reading: null
+    translation:
+      en: "Renaissance"
+      ko: "르네상스"
+    gender: null
+    notes:
+      en: "ルネサンス建築 = Renaissance architecture"
+      ko: "ルネサンス建築 = 르네상스 건축"
+  - japanese: "左右対称"
+    reading: "さゆうたいしょう"
+    translation:
+      en: "symmetry"
+      ko: "좌우대칭"
+    gender: null
+    notes:
+      en: "left-right + symmetry"
+      ko: "좌우 + 대칭"
+  - japanese: "非対称"
+    reading: "ひたいしょう"
+    translation:
+      en: "asymmetry"
+      ko: "비대칭"
+    gender: null
+    notes:
+      en: "non + symmetry"
+      ko: "비 + 대칭"
+  - japanese: "装飾"
+    reading: "そうしょく"
+    translation:
+      en: "decoration, ornament"
+      ko: "장식"
+    gender: null
+    notes:
+      en: "装飾的 = decorative"
+      ko: "装飾的 = 장식적"
+  - japanese: "簡素"
+    reading: "かんそ"
+    translation:
+      en: "simplicity, plainness"
+      ko: "간소"
+    gender: null
+    notes:
+      en: "簡素な = simple, plain"
+      ko: "簡素な = 간소한"
+  - japanese: "曲線"
+    reading: "きょくせん"
+    translation:
+      en: "curve"
+      ko: "곡선"
+    gender: null
+    notes:
+      en: "curved + line"
+      ko: "굽다 + 선"
+  - japanese: "直線"
+    reading: "ちょくせん"
+    translation:
+      en: "straight line"
+      ko: "직선"
+    gender: null
+    notes:
+      en: "straight + line"
+      ko: "곧다 + 선"
+  - japanese: "幾何学的"
+    reading: "きかがくてき"
+    translation:
+      en: "geometric"
+      ko: "기하학적"
+    gender: null
+    notes:
+      en: "geometry + adjectival"
+      ko: "기하학 + 적"
+  - japanese: "景観"
+    reading: "けいかん"
+    translation:
+      en: "landscape, scenery"
+      ko: "경관"
+    gender: null
+    notes:
+      en: "景観保護 = landscape preservation"
+      ko: "景観保護 = 경관 보호"
+
+- id: construction
+  label:
+    en: "Construction"
+    ko: "건설"
+  type: vocabulary
+  words:
+  - japanese: "施工"
+    reading: "せこう"
+    translation:
+      en: "construction, execution"
+      ko: "시공"
+    gender: null
+    notes:
+      en: "施工する = to construct"
+      ko: "施工する = 시공하다"
+  - japanese: "設計"
+    reading: "せっけい"
+    translation:
+      en: "design, planning"
+      ko: "설계"
+    gender: null
+    notes:
+      en: "設計図 = blueprint"
+      ko: "設計図 = 설계도"
+  - japanese: "基礎"
+    reading: "きそ"
+    translation:
+      en: "foundation"
+      ko: "기초"
+    gender: null
+    notes:
+      en: "基礎工事 = foundation work"
+      ko: "基礎工事 = 기초 공사"
+  - japanese: "柱"
+    reading: "はしら"
+    translation:
+      en: "pillar, column"
+      ko: "기둥"
+    gender: null
+    notes:
+      en: "鉄骨柱 = steel column"
+      ko: "鉄骨柱 = 철골 기둥"
+  - japanese: "梁"
+    reading: "はり"
+    translation:
+      en: "beam"
+      ko: "보"
+    gender: null
+    notes:
+      en: "structural beam"
+      ko: "구조용 보"
+  - japanese: "壁"
+    reading: "かべ"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: null
+    notes:
+      en: "外壁 = exterior wall; 内壁 = interior wall"
+      ko: "外壁 = 외벽; 内壁 = 내벽"
+  - japanese: "屋根"
+    reading: "やね"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: null
+    notes:
+      en: "瓦屋根 = tiled roof"
+      ko: "瓦屋根 = 기와 지붕"
+  - japanese: "床"
+    reading: "ゆか"
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: null
+    notes:
+      en: "床材 = flooring material"
+      ko: "床材 = 바닥재"
+  - japanese: "天井"
+    reading: "てんじょう"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: null
+    notes:
+      en: "heaven + well"
+      ko: "하늘 + 정"
+  - japanese: "階段"
+    reading: "かいだん"
+    translation:
+      en: "stairs"
+      ko: "계단"
+    gender: null
+    notes:
+      en: "螺旋階段 = spiral staircase"
+      ko: "螺旋階段 = 나선형 계단"
+  - japanese: "鉄筋"
+    reading: "てっきん"
+    translation:
+      en: "rebar, reinforcing steel"
+      ko: "철근"
+    gender: null
+    notes:
+      en: "鉄筋コンクリート = reinforced concrete"
+      ko: "鉄筋コンクリート = 철근 콘크리트"
+  - japanese: "鉄骨"
+    reading: "てっこつ"
+    translation:
+      en: "steel frame"
+      ko: "철골"
+    gender: null
+    notes:
+      en: "鉄骨造 = steel frame construction"
+      ko: "鉄骨造 = 철골조"
+  - japanese: "木造"
+    reading: "もくぞう"
+    translation:
+      en: "wooden construction"
+      ko: "목조"
+    gender: null
+    notes:
+      en: "木造建築 = wooden building"
+      ko: "木造建築 = 목조 건축"
+  - japanese: "耐震"
+    reading: "たいしん"
+    translation:
+      en: "earthquake-resistant"
+      ko: "내진"
+    gender: null
+    notes:
+      en: "耐震構造 = earthquake-resistant structure"
+      ko: "耐震構造 = 내진 구조"
+  - japanese: "免震"
+    reading: "めんしん"
+    translation:
+      en: "seismic isolation"
+      ko: "면진"
+    gender: null
+    notes:
+      en: "免震装置 = seismic isolator"
+      ko: "免震装置 = 면진 장치"
+  - japanese: "断熱"
+    reading: "だんねつ"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: null
+    notes:
+      en: "断熱材 = insulation material"
+      ko: "断熱材 = 단열재"
+  - japanese: "防水"
+    reading: "ぼうすい"
+    translation:
+      en: "waterproofing"
+      ko: "방수"
+    gender: null
+    notes:
+      en: "防水工事 = waterproofing work"
+      ko: "防水工事 = 방수 공사"
+  - japanese: "換気"
+    reading: "かんき"
+    translation:
+      en: "ventilation"
+      ko: "환기"
+    gender: null
+    notes:
+      en: "換気する = to ventilate"
+      ko: "換気する = 환기하다"
+  - japanese: "配管"
+    reading: "はいかん"
+    translation:
+      en: "piping, plumbing"
+      ko: "배관"
+    gender: null
+    notes:
+      en: "配管工事 = plumbing work"
+      ko: "配管工事 = 배관 공사"
+  - japanese: "配線"
+    reading: "はいせん"
+    translation:
+      en: "wiring"
+      ko: "배선"
+    gender: null
+    notes:
+      en: "電気配線 = electrical wiring"
+      ko: "電気配線 = 전기 배선"
+  - japanese: "改修"
+    reading: "かいしゅう"
+    translation:
+      en: "renovation"
+      ko: "개수, 보수"
+    gender: null
+    notes:
+      en: "改修する = to renovate"
+      ko: "改修する = 개수하다"
+  - japanese: "解体"
+    reading: "かいたい"
+    translation:
+      en: "demolition"
+      ko: "해체"
+    gender: null
+    notes:
+      en: "解体する = to demolish"
+      ko: "解体する = 해체하다"
+  - japanese: "足場"
+    reading: "あしば"
+    translation:
+      en: "scaffolding"
+      ko: "비계, 발판"
+    gender: null
+    notes:
+      en: "foot + place"
+      ko: "발 + 장소"
+  - japanese: "建材"
+    reading: "けんざい"
+    translation:
+      en: "building materials"
+      ko: "건자재"
+    gender: null
+    notes:
+      en: "construction + materials"
+      ko: "건축 + 재료"
+  - japanese: "図面"
+    reading: "ずめん"
+    translation:
+      en: "drawing, plan"
+      ko: "도면"
+    gender: null
+    notes:
+      en: "figure + surface"
+      ko: "그림 + 면"
+  - japanese: "模型"
+    reading: "もけい"
+    translation:
+      en: "model, mockup"
+      ko: "모형"
+    gender: null
+    notes:
+      en: "建築模型 = architectural model"
+      ko: "建築模型 = 건축 모형"
+  - japanese: "着工"
+    reading: "ちゃっこう"
+    translation:
+      en: "groundbreaking, start of construction"
+      ko: "착공"
+    gender: null
+    notes:
+      en: "着工する = to break ground"
+      ko: "着工する = 착공하다"
+  - japanese: "竣工"
+    reading: "しゅんこう"
+    translation:
+      en: "completion of construction"
+      ko: "준공"
+    gender: null
+    notes:
+      en: "竣工する = to complete construction"
+      ko: "竣工する = 준공하다"
+  - japanese: "建築家"
+    reading: "けんちくか"
+    translation:
+      en: "architect"
+      ko: "건축가"
+    gender: null
+    notes:
+      en: "architecture + professional"
+      ko: "건축 + 가"
+  - japanese: "現場"
+    reading: "げんば"
+    translation:
+      en: "construction site"
+      ko: "현장"
+    gender: null
+    notes:
+      en: "建設現場 = construction site"
+      ko: "建設現場 = 건설 현장"
+  - japanese: "工期"
+    reading: "こうき"
+    translation:
+      en: "construction period"
+      ko: "공기"
+    gender: null
+    notes:
+      en: "construction + period"
+      ko: "공사 + 기간"
+  - japanese: "建坪"
+    reading: "たてつぼ"
+    translation:
+      en: "building area (in tsubo)"
+      ko: "건평"
+    gender: null
+    notes:
+      en: "building + tsubo (unit)"
+      ko: "건 + 평"
+  - japanese: "延床面積"
+    reading: "のべゆかめんせき"
+    translation:
+      en: "total floor area"
+      ko: "연면적"
+    gender: null
+    notes:
+      en: "total + floor + area"
+      ko: "총 + 바닥 + 면적"
+
+- id: urban_planning
+  label:
+    en: "Urban Planning"
+    ko: "도시 계획"
+  type: vocabulary
+  words:
+  - japanese: "都市計画"
+    reading: "としけいかく"
+    translation:
+      en: "urban planning"
+      ko: "도시 계획"
+    gender: null
+    notes:
+      en: "city + plan"
+      ko: "도시 + 계획"
+  - japanese: "用途地域"
+    reading: "ようとちいき"
+    translation:
+      en: "zoning district"
+      ko: "용도 지역"
+    gender: null
+    notes:
+      en: "use + area"
+      ko: "용도 + 지역"
+  - japanese: "住宅地"
+    reading: "じゅうたくち"
+    translation:
+      en: "residential area"
+      ko: "주택지"
+    gender: null
+    notes:
+      en: "housing + land"
+      ko: "주택 + 지"
+  - japanese: "商業地"
+    reading: "しょうぎょうち"
+    translation:
+      en: "commercial district"
+      ko: "상업지"
+    gender: null
+    notes:
+      en: "commerce + land"
+      ko: "상업 + 지"
+  - japanese: "工業地"
+    reading: "こうぎょうち"
+    translation:
+      en: "industrial area"
+      ko: "공업지"
+    gender: null
+    notes:
+      en: "industry + land"
+      ko: "공업 + 지"
+  - japanese: "再開発"
+    reading: "さいかいはつ"
+    translation:
+      en: "redevelopment"
+      ko: "재개발"
+    gender: null
+    notes:
+      en: "都市再開発 = urban redevelopment"
+      ko: "都市再開発 = 도시 재개발"
+  - japanese: "区画整理"
+    reading: "くかくせいり"
+    translation:
+      en: "land readjustment"
+      ko: "구획 정리"
+    gender: null
+    notes:
+      en: "区画 + organize"
+      ko: "구획 + 정리"
+  - japanese: "密集"
+    reading: "みっしゅう"
+    translation:
+      en: "densely packed"
+      ko: "밀집"
+    gender: null
+    notes:
+      en: "人口密集 = densely populated"
+      ko: "人口密集 = 인구 밀집"
+  - japanese: "過疎"
+    reading: "かそ"
+    translation:
+      en: "depopulation"
+      ko: "과소"
+    gender: null
+    notes:
+      en: "過疎化 = depopulation"
+      ko: "過疎化 = 과소화"
+  - japanese: "過密"
+    reading: "かみつ"
+    translation:
+      en: "overcrowding"
+      ko: "과밀"
+    gender: null
+    notes:
+      en: "人口過密 = overpopulation"
+      ko: "人口過密 = 인구 과밀"
+  - japanese: "歩道"
+    reading: "ほどう"
+    translation:
+      en: "sidewalk"
+      ko: "보도"
+    gender: null
+    notes:
+      en: "walk + road"
+      ko: "걷다 + 길"
+  - japanese: "車道"
+    reading: "しゃどう"
+    translation:
+      en: "roadway, carriageway"
+      ko: "차도"
+    gender: null
+    notes:
+      en: "vehicle + road"
+      ko: "차 + 도"
+  - japanese: "交差点"
+    reading: "こうさてん"
+    translation:
+      en: "intersection"
+      ko: "교차점"
+    gender: null
+    notes:
+      en: "cross + point"
+      ko: "교차 + 점"
+  - japanese: "渋滞"
+    reading: "じゅうたい"
+    translation:
+      en: "traffic jam"
+      ko: "정체"
+    gender: null
+    notes:
+      en: "交通渋滞 = traffic congestion"
+      ko: "交通渋滞 = 교통 정체"
+  - japanese: "上下水道"
+    reading: "じょうげすいどう"
+    translation:
+      en: "water and sewage system"
+      ko: "상하수도"
+    gender: null
+    notes:
+      en: "upper + lower + waterway"
+      ko: "상 + 하 + 수도"
+  - japanese: "緑地"
+    reading: "りょくち"
+    translation:
+      en: "green space"
+      ko: "녹지"
+    gender: null
+    notes:
+      en: "緑地帯 = green belt"
+      ko: "緑地帯 = 녹지대"
+  - japanese: "公園"
+    reading: "こうえん"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: null
+    notes:
+      en: "都市公園 = urban park"
+      ko: "都市公園 = 도시 공원"
+  - japanese: "景観条例"
+    reading: "けいかんじょうれい"
+    translation:
+      en: "landscape ordinance"
+      ko: "경관 조례"
+    gender: null
+    notes:
+      en: "景観 + ordinance"
+      ko: "경관 + 조례"
+  - japanese: "建蔽率"
+    reading: "けんぺいりつ"
+    translation:
+      en: "building coverage ratio"
+      ko: "건폐율"
+    gender: null
+    notes:
+      en: "building + coverage + rate"
+      ko: "건 + 폐 + 율"
+  - japanese: "容積率"
+    reading: "ようせきりつ"
+    translation:
+      en: "floor area ratio"
+      ko: "용적률"
+    gender: null
+    notes:
+      en: "volume + rate"
+      ko: "용적 + 률"
+  - japanese: "都心"
+    reading: "としん"
+    translation:
+      en: "city center"
+      ko: "도심"
+    gender: null
+    notes:
+      en: "都心回帰 = return to the city center"
+      ko: "都心回帰 = 도심 회귀"
+  - japanese: "郊外"
+    reading: "こうがい"
+    translation:
+      en: "suburbs"
+      ko: "교외"
+    gender: null
+    notes:
+      en: "郊外化 = suburbanization"
+      ko: "郊外化 = 교외화"
+  - japanese: "インフラ"
+    reading: null
+    translation:
+      en: "infrastructure"
+      ko: "인프라"
+    gender: null
+    notes:
+      en: "short for インフラストラクチャー"
+      ko: "インフラストラクチャー의 줄임말"
+  - japanese: "バリアフリー"
+    reading: null
+    translation:
+      en: "barrier-free"
+      ko: "배리어프리"
+    gender: null
+    notes:
+      en: "バリアフリー設計 = barrier-free design"
+      ko: "バリアフリー設計 = 배리어프리 설계"
+  - japanese: "防災"
+    reading: "ぼうさい"
+    translation:
+      en: "disaster prevention"
+      ko: "방재"
+    gender: null
+    notes:
+      en: "防災計画 = disaster prevention plan"
+      ko: "防災計画 = 방재 계획"
+  - japanese: "避難所"
+    reading: "ひなんじょ"
+    translation:
+      en: "evacuation shelter"
+      ko: "피난소"
+    gender: null
+    notes:
+      en: "evacuation + place"
+      ko: "피난 + 소"
+
+- id: sustainability
+  label:
+    en: "Sustainability"
+    ko: "지속 가능성"
+  type: vocabulary
+  words:
+  - japanese: "省エネルギー"
+    reading: "しょうエネルギー"
+    translation:
+      en: "energy conservation"
+      ko: "에너지 절약"
+    gender: null
+    notes:
+      en: "省エネ for short"
+      ko: "줄여서 省エネ"
+  - japanese: "太陽光発電"
+    reading: "たいようこうはつでん"
+    translation:
+      en: "solar power generation"
+      ko: "태양광 발전"
+    gender: null
+    notes:
+      en: "sunlight + power generation"
+      ko: "태양광 + 발전"
+  - japanese: "再生可能エネルギー"
+    reading: "さいせいかのうエネルギー"
+    translation:
+      en: "renewable energy"
+      ko: "재생 가능 에너지"
+    gender: null
+    notes:
+      en: "renewable + energy"
+      ko: "재생 가능 + 에너지"
+  - japanese: "緑化"
+    reading: "りょくか"
+    translation:
+      en: "greening"
+      ko: "녹화"
+    gender: null
+    notes:
+      en: "屋上緑化 = rooftop greening"
+      ko: "屋上緑化 = 옥상 녹화"
+  - japanese: "廃材"
+    reading: "はいざい"
+    translation:
+      en: "waste materials"
+      ko: "폐자재"
+    gender: null
+    notes:
+      en: "waste + material"
+      ko: "폐 + 자재"
+  - japanese: "循環型"
+    reading: "じゅんかんがた"
+    translation:
+      en: "circular, recycling-type"
+      ko: "순환형"
+    gender: null
+    notes:
+      en: "循環型社会 = recycling-oriented society"
+      ko: "循環型社会 = 순환형 사회"
+  - japanese: "持続可能"
+    reading: "じぞくかのう"
+    translation:
+      en: "sustainable"
+      ko: "지속 가능"
+    gender: null
+    notes:
+      en: "持続可能な開発 = sustainable development"
+      ko: "持続可能な開発 = 지속 가능한 개발"
+  - japanese: "環境配慮"
+    reading: "かんきょうはいりょ"
+    translation:
+      en: "environmental consideration"
+      ko: "환경 배려"
+    gender: null
+    notes:
+      en: "environment + consideration"
+      ko: "환경 + 배려"
+  - japanese: "排出"
+    reading: "はいしゅつ"
+    translation:
+      en: "emission"
+      ko: "배출"
+    gender: null
+    notes:
+      en: "CO2排出 = CO2 emissions"
+      ko: "CO2排出 = CO2 배출"
+  - japanese: "雨水利用"
+    reading: "うすいりよう"
+    translation:
+      en: "rainwater harvesting"
+      ko: "빗물 이용"
+    gender: null
+    notes:
+      en: "rainwater + utilization"
+      ko: "빗물 + 이용"
+  - japanese: "自然採光"
+    reading: "しぜんさいこう"
+    translation:
+      en: "natural lighting"
+      ko: "자연 채광"
+    gender: null
+    notes:
+      en: "natural + lighting"
+      ko: "자연 + 채광"
+  - japanese: "通風"
+    reading: "つうふう"
+    translation:
+      en: "natural ventilation"
+      ko: "통풍"
+    gender: null
+    notes:
+      en: "pass + wind"
+      ko: "통하다 + 바람"
+  - japanese: "断熱性能"
+    reading: "だんねつせいのう"
+    translation:
+      en: "thermal insulation performance"
+      ko: "단열 성능"
+    gender: null
+    notes:
+      en: "insulation + performance"
+      ko: "단열 + 성능"
+  - japanese: "二酸化炭素"
+    reading: "にさんかたんそ"
+    translation:
+      en: "carbon dioxide"
+      ko: "이산화탄소"
+    gender: null
+    notes:
+      en: "two + oxidize + carbon"
+      ko: "이 + 산화 + 탄소"
+  - japanese: "温暖化"
+    reading: "おんだんか"
+    translation:
+      en: "global warming"
+      ko: "온난화"
+    gender: null
+    notes:
+      en: "地球温暖化 = global warming"
+      ko: "地球温暖化 = 지구 온난화"
+  - japanese: "廃棄物"
+    reading: "はいきぶつ"
+    translation:
+      en: "waste"
+      ko: "폐기물"
+    gender: null
+    notes:
+      en: "建設廃棄物 = construction waste"
+      ko: "建設廃棄物 = 건설 폐기물"
+  - japanese: "リサイクル"
+    reading: null
+    translation:
+      en: "recycling"
+      ko: "리사이클"
+    gender: null
+    notes:
+      en: "建材のリサイクル = recycling of building materials"
+      ko: "建材のリサイクル = 건자재 리사이클"
+  - japanese: "省資源"
+    reading: "しょうしげん"
+    translation:
+      en: "resource conservation"
+      ko: "자원 절약"
+    gender: null
+    notes:
+      en: "conserve + resources"
+      ko: "절약 + 자원"
+  - japanese: "エコ"
+    reading: null
+    translation:
+      en: "eco-friendly"
+      ko: "에코"
+    gender: null
+    notes:
+      en: "エコ住宅 = eco-friendly housing"
+      ko: "エコ住宅 = 에코 주택"
+  - japanese: "蓄熱"
+    reading: "ちくねつ"
+    translation:
+      en: "heat storage"
+      ko: "축열"
+    gender: null
+    notes:
+      en: "store + heat"
+      ko: "축적 + 열"
+  - japanese: "遮熱"
+    reading: "しゃねつ"
+    translation:
+      en: "heat shielding"
+      ko: "차열"
+    gender: null
+    notes:
+      en: "block + heat"
+      ko: "차단 + 열"

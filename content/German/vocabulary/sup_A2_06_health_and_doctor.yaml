@@ -1,0 +1,1543 @@
+lesson: "sup_A2_Health_and_Doctor"
+lesson_number: 126
+cefr: A2
+type: supplementary
+topic: "Health and Doctor"
+categories:
+- id: symptome_und_krankheiten
+  label:
+    en: "Symptoms and Illnesses (Symptome/Krankheiten)"
+    ko: "증상과 질병 (Symptome/Krankheiten)"
+  type: vocabulary
+  words:
+  - german: "die Krankheit, -en"
+    translation:
+      en: "illness / disease"
+      ko: "질병"
+    gender: f
+    notes:
+      en: "krank sein = to be sick"
+      ko: "krank sein = 아프다"
+  - german: "die Erkältung, -en"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: f
+    notes:
+      en: "sich erkälten = to catch a cold"
+      ko: "sich erkälten = 감기에 걸리다"
+  - german: "die Grippe, -n"
+    translation:
+      en: "flu / influenza"
+      ko: "독감"
+    gender: f
+    notes:
+      en: "die Grippeimpfung = flu shot"
+      ko: "die Grippeimpfung = 독감 예방접종"
+  - german: "das Fieber"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: n
+    notes:
+      en: "Fieber haben = to have a fever; Fieber messen = to take temperature"
+      ko: "Fieber haben = 열이 있다; Fieber messen = 체온을 재다"
+  - german: "der Husten"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: m
+    notes:
+      en: "husten = to cough"
+      ko: "husten = 기침하다"
+  - german: "der Schnupfen"
+    translation:
+      en: "runny nose / cold"
+      ko: "콧물 / 코감기"
+    gender: m
+    notes:
+      en: "Schnupfen haben = to have a runny nose"
+      ko: "Schnupfen haben = 콧물이 나다"
+  - german: "die Halsschmerzen (pl.)"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: null
+    notes:
+      en: "Ich habe Halsschmerzen = I have a sore throat"
+      ko: "Ich habe Halsschmerzen = 목이 아파요"
+  - german: "die Kopfschmerzen (pl.)"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: null
+    notes:
+      en: "die Migräne = migraine"
+      ko: "die Migräne = 편두통"
+  - german: "die Bauchschmerzen (pl.)"
+    translation:
+      en: "stomachache"
+      ko: "복통"
+    gender: null
+    notes:
+      en: "Magenschmerzen = stomach pain (more specific)"
+      ko: "Magenschmerzen = 위통 (더 구체적)"
+  - german: "die Rückenschmerzen (pl.)"
+    translation:
+      en: "back pain"
+      ko: "요통 / 허리 통증"
+    gender: null
+    notes:
+      en: "Very common complaint in Germany"
+      ko: "독일에서 매우 흔한 증상"
+  - german: "die Zahnschmerzen (pl.)"
+    translation:
+      en: "toothache"
+      ko: "치통"
+    gender: null
+    notes:
+      en: "zum Zahnarzt gehen = to go to the dentist"
+      ko: "zum Zahnarzt gehen = 치과에 가다"
+  - german: "der Schmerz, -en"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+    notes:
+      en: "Schmerzen haben = to be in pain"
+      ko: "Schmerzen haben = 통증이 있다"
+  - german: "der Durchfall"
+    translation:
+      en: "diarrhea"
+      ko: "설사"
+    gender: m
+    notes:
+      en: "Durchfall haben = to have diarrhea"
+      ko: "Durchfall haben = 설사를 하다"
+  - german: "die Übelkeit"
+    translation:
+      en: "nausea"
+      ko: "메스꺼움"
+    gender: f
+    notes:
+      en: "Mir ist übel = I feel nauseous"
+      ko: "Mir ist übel = 메스꺼워요"
+  - german: "sich erbrechen"
+    translation:
+      en: "to vomit"
+      ko: "구토하다"
+    gender: null
+    notes:
+      en: "Also colloquial: sich übergeben"
+      ko: "구어체: sich übergeben"
+  - german: "der Ausschlag, Ausschläge"
+    translation:
+      en: "rash"
+      ko: "발진"
+    gender: m
+    notes:
+      en: "einen Ausschlag bekommen = to get a rash"
+      ko: "einen Ausschlag bekommen = 발진이 생기다"
+  - german: "der Schwindel"
+    translation:
+      en: "dizziness"
+      ko: "어지러움"
+    gender: m
+    notes:
+      en: "Mir ist schwindelig = I feel dizzy"
+      ko: "Mir ist schwindelig = 어지러워요"
+  - german: "die Entzündung, -en"
+    translation:
+      en: "inflammation / infection"
+      ko: "염증"
+    gender: f
+    notes:
+      en: "die Halsentzündung = throat infection"
+      ko: "die Halsentzündung = 인후 염증"
+  - german: "die Allergie, -n"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+    notes:
+      en: "allergisch gegen = allergic to"
+      ko: "allergisch gegen = ~에 알레르기가 있는"
+  - german: "niesen"
+    translation:
+      en: "to sneeze"
+      ko: "재채기하다"
+    gender: null
+    notes:
+      en: "Gesundheit! = Bless you! (said after sneezing)"
+      ko: "Gesundheit! = (재채기 후에 하는 말)"
+  - german: "die Ohrenschmerzen (pl.)"
+    translation:
+      en: "earache"
+      ko: "귀 통증"
+    gender: null
+    notes:
+      en: "Ohrenschmerzen haben = to have an earache"
+      ko: "Ohrenschmerzen haben = 귀가 아프다"
+  - german: "die Verstopfung"
+    translation:
+      en: "constipation"
+      ko: "변비"
+    gender: f
+    notes:
+      en: "an Verstopfung leiden = to suffer from constipation"
+      ko: "an Verstopfung leiden = 변비를 앓다"
+  - german: "die Blutung, -en"
+    translation:
+      en: "bleeding"
+      ko: "출혈"
+    gender: f
+    notes:
+      en: "die Nasenblutung = nosebleed"
+      ko: "die Nasenblutung = 코피"
+  - german: "die Schwellung, -en"
+    translation:
+      en: "swelling"
+      ko: "부기"
+    gender: f
+    notes:
+      en: "anschwellen = to swell up"
+      ko: "anschwellen = 붓다"
+  - german: "der Sonnenbrand"
+    translation:
+      en: "sunburn"
+      ko: "햇볕에 탐"
+    gender: m
+    notes:
+      en: "einen Sonnenbrand haben = to have a sunburn"
+      ko: "einen Sonnenbrand haben = 햇볕에 탔다"
+  - german: "die Prellung, -en"
+    translation:
+      en: "bruise / contusion"
+      ko: "타박상"
+    gender: f
+    notes:
+      en: "eine Prellung am Knie = a bruised knee"
+      ko: "eine Prellung am Knie = 무릎 타박상"
+  - german: "die Verstauchung, -en"
+    translation:
+      en: "sprain"
+      ko: "염좌"
+    gender: f
+    notes:
+      en: "den Knöchel verstauchen = to sprain the ankle"
+      ko: "den Knöchel verstauchen = 발목을 삐다"
+  - german: "der Insektenstich, -e"
+    translation:
+      en: "insect bite / sting"
+      ko: "벌레 물림"
+    gender: m
+    notes:
+      en: "der Mückenstich = mosquito bite; der Bienenstich = bee sting"
+      ko: "der Mückenstich = 모기에 물림; der Bienenstich = 벌에 쏘임"
+  - german: "die Lebensmittelvergiftung, -en"
+    translation:
+      en: "food poisoning"
+      ko: "식중독"
+    gender: f
+    notes:
+      en: "sich eine Lebensmittelvergiftung zuziehen"
+      ko: "식중독에 걸리다"
+  - german: "der Bruch, Brüche"
+    translation:
+      en: "fracture / break"
+      ko: "골절"
+    gender: m
+    notes:
+      en: "der Knochenbruch = bone fracture"
+      ko: "der Knochenbruch = 골절"
+  - german: "die Müdigkeit"
+    translation:
+      en: "tiredness / fatigue"
+      ko: "피로 / 졸림"
+    gender: f
+    notes:
+      en: "ständige Müdigkeit = chronic fatigue"
+      ko: "ständige Müdigkeit = 만성 피로"
+
+- id: beim_arzt
+  label:
+    en: "At the Doctor (beim Arzt)"
+    ko: "병원에서 (beim Arzt)"
+  type: vocabulary
+  words:
+  - german: "der Arzt, Ärzte"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "die Ärztin = female doctor"
+      ko: "die Ärztin = 여의사"
+  - german: "der Hausarzt, Hausärzte"
+    translation:
+      en: "general practitioner (GP)"
+      ko: "가정의 / 주치의"
+    gender: m
+    notes:
+      en: "First point of contact for health issues"
+      ko: "건강 문제의 첫 번째 상담 대상"
+  - german: "der Facharzt, Fachärzte"
+    translation:
+      en: "specialist (doctor)"
+      ko: "전문의"
+    gender: m
+    notes:
+      en: "Usually needs a referral from Hausarzt"
+      ko: "보통 가정의의 의뢰서가 필요함"
+  - german: "die Praxis, Praxen"
+    translation:
+      en: "doctor's office / practice"
+      ko: "진료소 / 병원"
+    gender: f
+    notes:
+      en: "die Arztpraxis = doctor's office"
+      ko: "die Arztpraxis = 의원"
+  - german: "der Termin, -e"
+    translation:
+      en: "appointment"
+      ko: "예약 / 진료 예약"
+    gender: m
+    notes:
+      en: "einen Termin vereinbaren = to make an appointment"
+      ko: "einen Termin vereinbaren = 예약을 잡다"
+  - german: "das Wartezimmer, -"
+    translation:
+      en: "waiting room"
+      ko: "대기실"
+    gender: n
+    notes:
+      en: "im Wartezimmer warten = to wait in the waiting room"
+      ko: "im Wartezimmer warten = 대기실에서 기다리다"
+  - german: "die Untersuchung, -en"
+    translation:
+      en: "examination"
+      ko: "검사 / 진찰"
+    gender: f
+    notes:
+      en: "die Vorsorgeuntersuchung = preventive checkup"
+      ko: "die Vorsorgeuntersuchung = 예방 검진"
+  - german: "die Diagnose, -n"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: f
+    notes:
+      en: "eine Diagnose stellen = to make a diagnosis"
+      ko: "eine Diagnose stellen = 진단을 내리다"
+  - german: "die Krankenversicherung, -en"
+    translation:
+      en: "health insurance"
+      ko: "건강 보험"
+    gender: f
+    notes:
+      en: "Mandatory in Germany (gesetzlich or privat)"
+      ko: "독일에서 의무 (법정 또는 민간)"
+  - german: "die Versichertenkarte, -n"
+    translation:
+      en: "insurance card"
+      ko: "보험 카드"
+    gender: f
+    notes:
+      en: "Must be presented at every doctor visit"
+      ko: "매 진료 시 제시해야 함"
+  - german: "das Rezept, -e"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: n
+    notes:
+      en: "ein Rezept ausstellen = to write a prescription"
+      ko: "ein Rezept ausstellen = 처방전을 발급하다"
+  - german: "die Krankschreibung, -en"
+    translation:
+      en: "sick note"
+      ko: "진단서 / 병가 증명서"
+    gender: f
+    notes:
+      en: "Needed for employer after 3 days of illness"
+      ko: "3일 이상 질병 시 고용주에게 필요"
+  - german: "die Sprechstunde, -n"
+    translation:
+      en: "office hours / consultation hours"
+      ko: "진료 시간"
+    gender: f
+    notes:
+      en: "die Sprechstunde des Arztes = doctor's office hours"
+      ko: "die Sprechstunde des Arztes = 의사의 진료 시간"
+  - german: "untersuchen"
+    translation:
+      en: "to examine"
+      ko: "진찰하다 / 검사하다"
+    gender: null
+    notes:
+      en: "Der Arzt untersucht den Patienten"
+      ko: "의사가 환자를 진찰하다"
+  - german: "der Patient, -en"
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: m
+    notes:
+      en: "die Patientin = female patient"
+      ko: "die Patientin = 여성 환자"
+  - german: "der Blutdruck"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: m
+    notes:
+      en: "den Blutdruck messen = to measure blood pressure"
+      ko: "den Blutdruck messen = 혈압을 재다"
+  - german: "der Überweisungsschein, -e"
+    translation:
+      en: "referral form"
+      ko: "의뢰서"
+    gender: m
+    notes:
+      en: "eine Überweisung zum Facharzt = a referral to a specialist"
+      ko: "eine Überweisung zum Facharzt = 전문의에게 의뢰"
+  - german: "der Zahnarzt, Zahnärzte"
+    translation:
+      en: "dentist"
+      ko: "치과 의사"
+    gender: m
+    notes:
+      en: "die Zahnärztin = female dentist"
+      ko: "die Zahnärztin = 여성 치과 의사"
+  - german: "der Augenarzt, Augenärzte"
+    translation:
+      en: "eye doctor / ophthalmologist"
+      ko: "안과 의사"
+    gender: m
+    notes:
+      en: "die Brille = glasses; die Kontaktlinse = contact lens"
+      ko: "die Brille = 안경; die Kontaktlinse = 콘택트렌즈"
+  - german: "die Behandlung, -en"
+    translation:
+      en: "treatment"
+      ko: "치료"
+    gender: f
+    notes:
+      en: "eine Behandlung bekommen = to receive treatment"
+      ko: "eine Behandlung bekommen = 치료를 받다"
+  - german: "die Sprechstundenhilfe, -n"
+    translation:
+      en: "medical receptionist"
+      ko: "의원 접수원"
+    gender: f
+    notes:
+      en: "Also die medizinische Fachangestellte (MFA)"
+      ko: "die medizinische Fachangestellte (MFA)라고도 함"
+  - german: "das Stethoskop, -e"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: n
+    notes:
+      en: "das Herz abhören = to listen to the heart"
+      ko: "das Herz abhören = 심장 소리를 듣다"
+  - german: "die Blutprobe, -n"
+    translation:
+      en: "blood test / blood sample"
+      ko: "혈액 검사"
+    gender: f
+    notes:
+      en: "Blut abnehmen = to draw blood"
+      ko: "Blut abnehmen = 채혈하다"
+  - german: "die Röntgenaufnahme, -n"
+    translation:
+      en: "X-ray image"
+      ko: "엑스레이 사진"
+    gender: f
+    notes:
+      en: "eine Röntgenaufnahme machen = to take an X-ray"
+      ko: "eine Röntgenaufnahme machen = 엑스레이를 찍다"
+  - german: "der Kinderarzt, Kinderärzte"
+    translation:
+      en: "pediatrician"
+      ko: "소아과 의사"
+    gender: m
+    notes:
+      en: "die Kinderärztin = female pediatrician"
+      ko: "die Kinderärztin = 여성 소아과 의사"
+  - german: "der Orthopäde, -n"
+    translation:
+      en: "orthopedist"
+      ko: "정형외과 의사"
+    gender: m
+    notes:
+      en: "bei Knochen- und Gelenkproblemen = for bone and joint issues"
+      ko: "뼈와 관절 문제에 대해"
+  - german: "die Ultraschalluntersuchung, -en"
+    translation:
+      en: "ultrasound examination"
+      ko: "초음파 검사"
+    gender: f
+    notes:
+      en: "der Ultraschall = ultrasound"
+      ko: "der Ultraschall = 초음파"
+  - german: "der Befund, -e"
+    translation:
+      en: "findings / test results"
+      ko: "검사 결과"
+    gender: m
+    notes:
+      en: "der Laborbefund = lab results"
+      ko: "der Laborbefund = 검사 결과"
+  - german: "die Krankmeldung, -en"
+    translation:
+      en: "sick notification"
+      ko: "병가 신고"
+    gender: f
+    notes:
+      en: "sich krankmelden = to call in sick"
+      ko: "sich krankmelden = 병가를 내다"
+  - german: "die Physiotherapie"
+    translation:
+      en: "physiotherapy / physical therapy"
+      ko: "물리치료"
+    gender: f
+    notes:
+      en: "der Physiotherapeut = physiotherapist"
+      ko: "der Physiotherapeut = 물리치료사"
+
+- id: apotheke_und_medikamente
+  label:
+    en: "Pharmacy and Medication (Apotheke/Medikamente)"
+    ko: "약국과 약 (Apotheke/Medikamente)"
+  type: vocabulary
+  words:
+  - german: "die Apotheke, -n"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+    notes:
+      en: "der Apotheker / die Apothekerin = pharmacist"
+      ko: "der Apotheker / die Apothekerin = 약사"
+  - german: "das Medikament, -e"
+    translation:
+      en: "medication / medicine"
+      ko: "약 / 의약품"
+    gender: n
+    notes:
+      en: "Medikamente einnehmen = to take medication"
+      ko: "Medikamente einnehmen = 약을 복용하다"
+  - german: "die Tablette, -n"
+    translation:
+      en: "tablet / pill"
+      ko: "알약"
+    gender: f
+    notes:
+      en: "eine Tablette nehmen = to take a pill"
+      ko: "eine Tablette nehmen = 알약을 먹다"
+  - german: "die Salbe, -n"
+    translation:
+      en: "ointment / cream"
+      ko: "연고"
+    gender: f
+    notes:
+      en: "eine Salbe auftragen = to apply ointment"
+      ko: "eine Salbe auftragen = 연고를 바르다"
+  - german: "der Sirup, -e"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: m
+    notes:
+      en: "der Hustensaft / Hustensirup = cough syrup"
+      ko: "der Hustensaft / Hustensirup = 기침 시럽"
+  - german: "die Tropfen (pl.)"
+    translation:
+      en: "drops"
+      ko: "드롭 / 점안액"
+    gender: null
+    notes:
+      en: "die Augentropfen = eye drops; die Nasentropfen = nose drops"
+      ko: "die Augentropfen = 안약; die Nasentropfen = 코 점비약"
+  - german: "das Pflaster, -"
+    translation:
+      en: "bandage / band-aid"
+      ko: "반창고"
+    gender: n
+    notes:
+      en: "ein Pflaster aufkleben = to put on a band-aid"
+      ko: "ein Pflaster aufkleben = 반창고를 붙이다"
+  - german: "die Spritze, -n"
+    translation:
+      en: "injection / syringe"
+      ko: "주사"
+    gender: f
+    notes:
+      en: "eine Spritze bekommen = to get an injection"
+      ko: "eine Spritze bekommen = 주사를 맞다"
+  - german: "das Schmerzmittel, -"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: n
+    notes:
+      en: "Ibuprofen and Paracetamol are common in Germany"
+      ko: "이부프로펜과 파라세타몰이 독일에서 일반적"
+  - german: "das Antibiotikum, Antibiotika"
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: n
+    notes:
+      en: "Only available by prescription in Germany"
+      ko: "독일에서 처방전으로만 구입 가능"
+  - german: "die Nebenwirkung, -en"
+    translation:
+      en: "side effect"
+      ko: "부작용"
+    gender: f
+    notes:
+      en: "den Beipackzettel lesen = to read the package insert"
+      ko: "den Beipackzettel lesen = 약 설명서를 읽다"
+  - german: "rezeptfrei"
+    translation:
+      en: "over-the-counter (without prescription)"
+      ko: "비처방 / 일반의약품"
+    gender: null
+    notes:
+      en: "rezeptpflichtig = prescription-required"
+      ko: "rezeptpflichtig = 처방전 필요"
+  - german: "die Impfung, -en"
+    translation:
+      en: "vaccination"
+      ko: "예방접종"
+    gender: f
+    notes:
+      en: "sich impfen lassen = to get vaccinated"
+      ko: "sich impfen lassen = 예방접종을 받다"
+  - german: "das Fieberthermometer, -"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: n
+    notes:
+      en: "die Temperatur messen = to take temperature"
+      ko: "die Temperatur messen = 체온을 재다"
+  - german: "das Nasenspray, -s"
+    translation:
+      en: "nasal spray"
+      ko: "코 스프레이"
+    gender: n
+    notes:
+      en: "das Nasenspray benutzen = to use nasal spray"
+      ko: "das Nasenspray benutzen = 코 스프레이를 사용하다"
+  - german: "die Wärmflasche, -n"
+    translation:
+      en: "hot water bottle"
+      ko: "핫워터 보틀"
+    gender: f
+    notes:
+      en: "Popular home remedy in Germany"
+      ko: "독일에서 인기 있는 가정 요법"
+  - german: "der Verbandskasten, -kästen"
+    translation:
+      en: "first aid kit"
+      ko: "구급상자"
+    gender: m
+    notes:
+      en: "Required in every car in Germany"
+      ko: "독일에서 모든 차량에 필수"
+  - german: "die Lutschtablette, -n"
+    translation:
+      en: "lozenge / throat lozenge"
+      ko: "목캔디 / 트로키"
+    gender: f
+    notes:
+      en: "Halstabletten = throat lozenges"
+      ko: "Halstabletten = 목 사탕"
+  - german: "das Desinfektionsmittel, -"
+    translation:
+      en: "disinfectant / hand sanitizer"
+      ko: "소독제"
+    gender: n
+    notes:
+      en: "die Hände desinfizieren = to disinfect hands"
+      ko: "die Hände desinfizieren = 손을 소독하다"
+  - german: "der Verband, Verbände"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: m
+    notes:
+      en: "einen Verband anlegen = to apply a bandage"
+      ko: "einen Verband anlegen = 붕대를 감다"
+  - german: "die Pinzette, -n"
+    translation:
+      en: "tweezers"
+      ko: "핀셋"
+    gender: f
+    notes:
+      en: "einen Splitter mit der Pinzette entfernen"
+      ko: "핀셋으로 가시를 제거하다"
+  - german: "verschreiben"
+    translation:
+      en: "to prescribe"
+      ko: "처방하다"
+    gender: null
+    notes:
+      en: "Der Arzt verschreibt ein Medikament"
+      ko: "의사가 약을 처방하다"
+  - german: "einnehmen"
+    translation:
+      en: "to take (medicine)"
+      ko: "복용하다"
+    gender: null
+    notes:
+      en: "Separable: dreimal täglich einnehmen = take three times daily"
+      ko: "분리 동사: 하루 세 번 복용"
+  - german: "die Dosis, Dosen"
+    translation:
+      en: "dose / dosage"
+      ko: "용량"
+    gender: f
+    notes:
+      en: "die richtige Dosis = the correct dosage"
+      ko: "die richtige Dosis = 올바른 용량"
+  - german: "die Kapsel, -n"
+    translation:
+      en: "capsule"
+      ko: "캡슐"
+    gender: f
+    notes:
+      en: "eine Kapsel schlucken = to swallow a capsule"
+      ko: "eine Kapsel schlucken = 캡슐을 삼키다"
+  - german: "die Notapotheke, -n"
+    translation:
+      en: "emergency pharmacy"
+      ko: "응급 약국"
+    gender: f
+    notes:
+      en: "Open at night and on weekends/holidays"
+      ko: "야간 및 주말/공휴일에 영업"
+  - german: "das Hausmittel, -"
+    translation:
+      en: "home remedy"
+      ko: "민간요법"
+    gender: n
+    notes:
+      en: "der Kamillentee als Hausmittel = chamomile tea as a home remedy"
+      ko: "민간요법으로서의 카모마일 차"
+  - german: "das Zäpfchen, -"
+    translation:
+      en: "suppository"
+      ko: "좌약"
+    gender: n
+    notes:
+      en: "Fieberzäpfchen für Kinder = fever suppositories for children"
+      ko: "어린이용 해열 좌약"
+  - german: "der Beipackzettel, -"
+    translation:
+      en: "package insert / leaflet"
+      ko: "약 설명서"
+    gender: m
+    notes:
+      en: "den Beipackzettel lesen = to read the package insert"
+      ko: "den Beipackzettel lesen = 약 설명서를 읽다"
+  - german: "die Wundsalbe, -n"
+    translation:
+      en: "wound ointment"
+      ko: "상처 연고"
+    gender: f
+    notes:
+      en: "eine Wundsalbe auftragen = to apply wound ointment"
+      ko: "eine Wundsalbe auftragen = 상처 연고를 바르다"
+
+- id: krankenhaus
+  label:
+    en: "Hospital (Krankenhaus)"
+    ko: "병원 (Krankenhaus)"
+  type: vocabulary
+  words:
+  - german: "das Krankenhaus, Krankenhäuser"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: n
+    notes:
+      en: "ins Krankenhaus kommen = to go to the hospital"
+      ko: "ins Krankenhaus kommen = 병원에 가다"
+  - german: "die Notaufnahme, -n"
+    translation:
+      en: "emergency room"
+      ko: "응급실"
+    gender: f
+    notes:
+      en: "in die Notaufnahme gehen = to go to the ER"
+      ko: "in die Notaufnahme gehen = 응급실에 가다"
+  - german: "der Krankenwagen, -"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: m
+    notes:
+      en: "den Krankenwagen rufen = to call an ambulance (112)"
+      ko: "den Krankenwagen rufen = 구급차를 부르다 (112)"
+  - german: "die Operation, -en"
+    translation:
+      en: "operation / surgery"
+      ko: "수술"
+    gender: f
+    notes:
+      en: "operiert werden = to be operated on"
+      ko: "operiert werden = 수술을 받다"
+  - german: "die Krankenschwester, -n"
+    translation:
+      en: "nurse (female)"
+      ko: "간호사 (여)"
+    gender: f
+    notes:
+      en: "der Krankenpfleger = male nurse"
+      ko: "der Krankenpfleger = 남성 간호사"
+  - german: "das Bett, -en"
+    translation:
+      en: "bed (hospital)"
+      ko: "침대 (병실)"
+    gender: n
+    notes:
+      en: "das Krankenbett = hospital bed"
+      ko: "das Krankenbett = 병원 침대"
+  - german: "die Intensivstation, -en"
+    translation:
+      en: "intensive care unit (ICU)"
+      ko: "중환자실"
+    gender: f
+    notes:
+      en: "auf der Intensivstation liegen = to be in the ICU"
+      ko: "auf der Intensivstation liegen = 중환자실에 있다"
+  - german: "das Röntgen"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: n
+    notes:
+      en: "röntgen = to X-ray; named after Wilhelm Röntgen"
+      ko: "röntgen = 엑스레이를 찍다; 빌헬름 뢴트겐의 이름에서 유래"
+  - german: "der Gips, -e"
+    translation:
+      en: "cast / plaster"
+      ko: "깁스"
+    gender: m
+    notes:
+      en: "einen Gips tragen = to wear a cast"
+      ko: "einen Gips tragen = 깁스를 하고 있다"
+  - german: "die Wunde, -n"
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: f
+    notes:
+      en: "eine Wunde versorgen = to treat a wound"
+      ko: "eine Wunde versorgen = 상처를 치료하다"
+  - german: "die Narkose, -n"
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: f
+    notes:
+      en: "unter Narkose = under anesthesia"
+      ko: "unter Narkose = 마취 하에"
+  - german: "entlassen"
+    translation:
+      en: "to discharge (from hospital)"
+      ko: "퇴원시키다"
+    gender: null
+    notes:
+      en: "aus dem Krankenhaus entlassen werden = to be discharged"
+      ko: "aus dem Krankenhaus entlassen werden = 퇴원하다"
+  - german: "die Besuchszeit, -en"
+    translation:
+      en: "visiting hours"
+      ko: "면회 시간"
+    gender: f
+    notes:
+      en: "during visiting hours = während der Besuchszeit"
+      ko: "면회 시간 동안 = während der Besuchszeit"
+  - german: "der Chirurg, -en"
+    translation:
+      en: "surgeon"
+      ko: "외과 의사"
+    gender: m
+    notes:
+      en: "die Chirurgin = female surgeon"
+      ko: "die Chirurgin = 여성 외과 의사"
+  - german: "die Infusion, -en"
+    translation:
+      en: "IV drip / infusion"
+      ko: "수액 / 링거"
+    gender: f
+    notes:
+      en: "eine Infusion legen = to set up an IV"
+      ko: "eine Infusion legen = 수액을 놓다"
+  - german: "der Rollstuhl, -stühle"
+    translation:
+      en: "wheelchair"
+      ko: "휠체어"
+    gender: m
+    notes:
+      en: "im Rollstuhl sitzen = to be in a wheelchair"
+      ko: "im Rollstuhl sitzen = 휠체어에 앉다"
+  - german: "die Krücke, -n"
+    translation:
+      en: "crutch"
+      ko: "목발"
+    gender: f
+    notes:
+      en: "an Krücken gehen = to walk on crutches"
+      ko: "an Krücken gehen = 목발을 짚고 걷다"
+  - german: "die Visite, -n"
+    translation:
+      en: "ward round / doctor's round"
+      ko: "회진"
+    gender: f
+    notes:
+      en: "die Visite findet morgens statt = rounds take place in the morning"
+      ko: "die Visite findet morgens statt = 회진은 아침에 함"
+  - german: "die Station, -en"
+    translation:
+      en: "ward / department"
+      ko: "병동"
+    gender: f
+    notes:
+      en: "die chirurgische Station = surgical ward"
+      ko: "die chirurgische Station = 외과 병동"
+  - german: "die Entlassung, -en"
+    translation:
+      en: "discharge (from hospital)"
+      ko: "퇴원"
+    gender: f
+    notes:
+      en: "der Entlassungsbericht = discharge report"
+      ko: "der Entlassungsbericht = 퇴원 보고서"
+  - german: "die Bluttransfusion, -en"
+    translation:
+      en: "blood transfusion"
+      ko: "수혈"
+    gender: f
+    notes:
+      en: "eine Bluttransfusion bekommen = to receive a blood transfusion"
+      ko: "eine Bluttransfusion bekommen = 수혈을 받다"
+  - german: "die Betäubung, -en"
+    translation:
+      en: "local anesthesia / numbing"
+      ko: "국소 마취"
+    gender: f
+    notes:
+      en: "eine örtliche Betäubung = a local anesthetic"
+      ko: "eine örtliche Betäubung = 국소 마취"
+  - german: "der Tropf, Tröpfe"
+    translation:
+      en: "drip / IV"
+      ko: "점적 주사"
+    gender: m
+    notes:
+      en: "am Tropf hängen = to be on a drip"
+      ko: "am Tropf hängen = 수액을 맞고 있다"
+  - german: "die Notoperation, -en"
+    translation:
+      en: "emergency surgery"
+      ko: "긴급 수술"
+    gender: f
+    notes:
+      en: "eine Notoperation durchführen = to perform emergency surgery"
+      ko: "eine Notoperation durchführen = 긴급 수술을 시행하다"
+  - german: "die Aufnahme, -n"
+    translation:
+      en: "admission (hospital)"
+      ko: "입원"
+    gender: f
+    notes:
+      en: "die stationäre Aufnahme = inpatient admission"
+      ko: "die stationäre Aufnahme = 입원"
+  - german: "das Einzelzimmer, -"
+    translation:
+      en: "single room (hospital)"
+      ko: "1인실 (병원)"
+    gender: n
+    notes:
+      en: "das Mehrbettzimmer = multi-bed room"
+      ko: "das Mehrbettzimmer = 다인실"
+  - german: "der Verbandsraum, -räume"
+    translation:
+      en: "treatment room"
+      ko: "처치실"
+    gender: m
+    notes:
+      en: "im Verbandsraum behandelt werden = to be treated in the treatment room"
+      ko: "im Verbandsraum behandelt werden = 처치실에서 치료받다"
+  - german: "die Reha"
+    translation:
+      en: "rehabilitation / rehab"
+      ko: "재활"
+    gender: f
+    notes:
+      en: "Short for die Rehabilitation; die Reha-Klinik = rehab clinic"
+      ko: "die Rehabilitation의 줄임말; die Reha-Klinik = 재활 병원"
+  - german: "die Krankenakte, -n"
+    translation:
+      en: "medical record"
+      ko: "의무 기록"
+    gender: f
+    notes:
+      en: "die Patientenakte = patient file"
+      ko: "die Patientenakte = 환자 기록"
+  - german: "die Genesungswünsche (pl.)"
+    translation:
+      en: "get-well wishes"
+      ko: "쾌유 기원"
+    gender: null
+    notes:
+      en: "Gute Besserung! = Get well soon!"
+      ko: "Gute Besserung! = 빨리 나으세요!"
+  - german: "die Blutgruppe, -n"
+    translation:
+      en: "blood type"
+      ko: "혈액형"
+    gender: f
+    notes:
+      en: "Blutgruppe A, B, AB, O"
+      ko: "혈액형 A, B, AB, O"
+  - german: "die Klingel, -n"
+    translation:
+      en: "call button / bell"
+      ko: "호출 버튼 / 벨"
+    gender: f
+    notes:
+      en: "die Schwesternklingel = nurse call button"
+      ko: "die Schwesternklingel = 간호사 호출 버튼"
+
+- id: gesunde_gewohnheiten
+  label:
+    en: "Healthy Habits (gesunde Gewohnheiten)"
+    ko: "건강한 습관 (gesunde Gewohnheiten)"
+  type: vocabulary
+  words:
+  - german: "die Gesundheit"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+    notes:
+      en: "Gesundheit! = Bless you! / Cheers! (also when sneezing)"
+      ko: "Gesundheit! = 건강! (재채기 시에도 사용)"
+  - german: "gesund"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+    notes:
+      en: "gesund leben = to live healthily"
+      ko: "gesund leben = 건강하게 살다"
+  - german: "sich bewegen"
+    translation:
+      en: "to exercise / to move"
+      ko: "운동하다 / 움직이다"
+    gender: null
+    notes:
+      en: "regelmäßige Bewegung = regular exercise"
+      ko: "regelmäßige Bewegung = 규칙적인 운동"
+  - german: "sich ausruhen"
+    translation:
+      en: "to rest"
+      ko: "쉬다"
+    gender: null
+    notes:
+      en: "die Ruhe = rest/peace"
+      ko: "die Ruhe = 휴식/안정"
+  - german: "schlafen"
+    translation:
+      en: "to sleep"
+      ko: "자다"
+    gender: null
+    notes:
+      en: "genug schlafen = to sleep enough"
+      ko: "genug schlafen = 충분히 자다"
+  - german: "der Stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+    notes:
+      en: "Stress abbauen = to reduce stress"
+      ko: "Stress abbauen = 스트레스를 줄이다"
+  - german: "die Ernährung"
+    translation:
+      en: "nutrition / diet"
+      ko: "영양 / 식생활"
+    gender: f
+    notes:
+      en: "gesunde Ernährung = healthy nutrition"
+      ko: "gesunde Ernährung = 건강한 식생활"
+  - german: "die Vorsorge"
+    translation:
+      en: "prevention / preventive care"
+      ko: "예방"
+    gender: f
+    notes:
+      en: "die Vorsorgeuntersuchung = preventive checkup"
+      ko: "die Vorsorgeuntersuchung = 예방 검진"
+  - german: "das Vitamin, -e"
+    translation:
+      en: "vitamin"
+      ko: "비타민"
+    gender: n
+    notes:
+      en: "Vitamine einnehmen = to take vitamins"
+      ko: "Vitamine einnehmen = 비타민을 복용하다"
+  - german: "das Wohlbefinden"
+    translation:
+      en: "well-being"
+      ko: "안녕 / 건강한 상태"
+    gender: n
+    notes:
+      en: "das körperliche Wohlbefinden = physical well-being"
+      ko: "das körperliche Wohlbefinden = 신체적 안녕"
+  - german: "die Entspannung"
+    translation:
+      en: "relaxation"
+      ko: "이완 / 휴식"
+    gender: f
+    notes:
+      en: "Entspannungsübungen = relaxation exercises"
+      ko: "Entspannungsübungen = 이완 운동"
+  - german: "die Sonnencreme, -s"
+    translation:
+      en: "sunscreen"
+      ko: "선크림"
+    gender: f
+    notes:
+      en: "der Sonnenschutz = sun protection"
+      ko: "der Sonnenschutz = 자외선 차단"
+  - german: "Wasser trinken"
+    translation:
+      en: "to drink water"
+      ko: "물을 마시다"
+    gender: null
+    notes:
+      en: "Viel Wasser trinken ist wichtig = Drinking water is important"
+      ko: "물을 많이 마시는 것이 중요함"
+  - german: "die Hygiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: f
+    notes:
+      en: "Händewaschen = handwashing"
+      ko: "Händewaschen = 손씻기"
+  - german: "meditieren"
+    translation:
+      en: "to meditate"
+      ko: "명상하다"
+    gender: null
+    notes:
+      en: "die Meditation = meditation"
+      ko: "die Meditation = 명상"
+  - german: "der Schlaf"
+    translation:
+      en: "sleep"
+      ko: "수면"
+    gender: m
+    notes:
+      en: "die Schlafstörung = sleep disorder"
+      ko: "die Schlafstörung = 수면 장애"
+  - german: "das Immunsystem, -e"
+    translation:
+      en: "immune system"
+      ko: "면역 체계"
+    gender: n
+    notes:
+      en: "das Immunsystem stärken = to strengthen the immune system"
+      ko: "das Immunsystem stärken = 면역 체계를 강화하다"
+  - german: "die Dehydration"
+    translation:
+      en: "dehydration"
+      ko: "탈수"
+    gender: f
+    notes:
+      en: "viel trinken gegen Dehydration = drink a lot against dehydration"
+      ko: "탈수 방지를 위해 많이 마시기"
+  - german: "die Diät, -en"
+    translation:
+      en: "diet"
+      ko: "다이어트 / 식이요법"
+    gender: f
+    notes:
+      en: "eine Diät machen = to go on a diet"
+      ko: "eine Diät machen = 다이어트를 하다"
+  - german: "das Vollkornbrot, -e"
+    translation:
+      en: "whole grain bread"
+      ko: "통곡물 빵"
+    gender: n
+    notes:
+      en: "Healthier than Weißbrot (white bread)"
+      ko: "Weißbrot (흰빵)보다 건강에 좋음"
+  - german: "die Ballaststoffe (pl.)"
+    translation:
+      en: "dietary fiber"
+      ko: "식이섬유"
+    gender: null
+    notes:
+      en: "ballaststoffreiche Ernährung = high-fiber diet"
+      ko: "ballaststoffreiche Ernährung = 고식이섬유 식단"
+  - german: "der Arztbesuch, -e"
+    translation:
+      en: "doctor's visit"
+      ko: "병원 방문"
+    gender: m
+    notes:
+      en: "regelmäßige Arztbesuche = regular doctor visits"
+      ko: "regelmäßige Arztbesuche = 정기적인 병원 방문"
+  - german: "die Kalorie, -n"
+    translation:
+      en: "calorie"
+      ko: "칼로리"
+    gender: f
+    notes:
+      en: "Kalorien zählen = to count calories"
+      ko: "Kalorien zählen = 칼로리를 세다"
+  - german: "der Nichtraucher, -"
+    translation:
+      en: "non-smoker"
+      ko: "비흡연자"
+    gender: m
+    notes:
+      en: "der Nichtraucherbereich = non-smoking area"
+      ko: "der Nichtraucherbereich = 금연 구역"
+  - german: "der Alkohol"
+    translation:
+      en: "alcohol"
+      ko: "알코올"
+    gender: m
+    notes:
+      en: "auf Alkohol verzichten = to abstain from alcohol"
+      ko: "auf Alkohol verzichten = 금주하다"
+  - german: "die Bewegungsübung, -en"
+    translation:
+      en: "exercise / physical activity"
+      ko: "운동"
+    gender: f
+    notes:
+      en: "tägliche Bewegungsübungen = daily exercises"
+      ko: "tägliche Bewegungsübungen = 매일 하는 운동"
+  - german: "der Spaziergang, Spaziergänge"
+    translation:
+      en: "walk / stroll"
+      ko: "산책"
+    gender: m
+    notes:
+      en: "einen Spaziergang machen = to take a walk"
+      ko: "einen Spaziergang machen = 산책하다"
+  - german: "die frische Luft"
+    translation:
+      en: "fresh air"
+      ko: "신선한 공기"
+    gender: f
+    notes:
+      en: "an die frische Luft gehen = to get some fresh air"
+      ko: "an die frische Luft gehen = 바깥 공기를 쐬다"
+  - german: "sich erholen"
+    translation:
+      en: "to recover / to recuperate"
+      ko: "회복하다"
+    gender: null
+    notes:
+      en: "die Erholung = recovery/relaxation"
+      ko: "die Erholung = 회복/휴식"
+  - german: "die Zahnpflege"
+    translation:
+      en: "dental care"
+      ko: "치아 관리"
+    gender: f
+    notes:
+      en: "die Zahnbürste = toothbrush; die Zahnpasta = toothpaste"
+      ko: "die Zahnbürste = 칫솔; die Zahnpasta = 치약"
+  - german: "ausreichend"
+    translation:
+      en: "sufficient / enough"
+      ko: "충분한"
+    gender: null
+    notes:
+      en: "ausreichend schlafen = to sleep enough"
+      ko: "ausreichend schlafen = 충분히 자다"
+  - german: "regelmäßig"
+    translation:
+      en: "regular / regularly"
+      ko: "규칙적인 / 규칙적으로"
+    gender: null
+    notes:
+      en: "regelmäßig Sport treiben = to exercise regularly"
+      ko: "regelmäßig Sport treiben = 규칙적으로 운동하다"
+  - german: "vermeiden"
+    translation:
+      en: "to avoid"
+      ko: "피하다"
+    gender: null
+    notes:
+      en: "Stress vermeiden = to avoid stress"
+      ko: "Stress vermeiden = 스트레스를 피하다"
+  - german: "die Vorbeugung"
+    translation:
+      en: "prevention / precaution"
+      ko: "예방"
+    gender: f
+    notes:
+      en: "Vorbeugung ist besser als Heilung = prevention is better than cure"
+      ko: "예방이 치료보다 낫다"
+
+- id: koerperteile
+  label:
+    en: "Body Parts (Körperteile)"
+    ko: "신체 부위 (Körperteile)"
+  type: vocabulary
+  words:
+  - german: "der Kopf, Köpfe"
+    translation:
+      en: "head"
+      ko: "머리"
+    gender: m
+    notes:
+      en: "Kopf hoch! = Chin up!"
+      ko: "Kopf hoch! = 기운 내!"
+  - german: "der Hals, Hälse"
+    translation:
+      en: "neck / throat"
+      ko: "목"
+    gender: m
+    notes:
+      en: "Hals über Kopf = head over heels"
+      ko: "Hals über Kopf = 허둥지둥"
+  - german: "die Brust, Brüste"
+    translation:
+      en: "chest / breast"
+      ko: "가슴"
+    gender: f
+    notes:
+      en: "Brustschmerzen = chest pain"
+      ko: "Brustschmerzen = 가슴 통증"
+  - german: "der Rücken, -"
+    translation:
+      en: "back"
+      ko: "등"
+    gender: m
+    notes:
+      en: "Rückenprobleme = back problems"
+      ko: "Rückenprobleme = 등 문제"
+  - german: "der Bauch, Bäuche"
+    translation:
+      en: "stomach / belly"
+      ko: "배"
+    gender: m
+    notes:
+      en: "Bauchweh = tummy ache (colloquial)"
+      ko: "Bauchweh = 배 아픔 (구어)"
+  - german: "der Arm, -e"
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: m
+    notes:
+      en: "den Arm brechen = to break one's arm"
+      ko: "den Arm brechen = 팔이 부러지다"
+  - german: "das Bein, -e"
+    translation:
+      en: "leg"
+      ko: "다리"
+    gender: n
+    notes:
+      en: "das Schienbein = shin"
+      ko: "das Schienbein = 정강이"
+  - german: "die Hand, Hände"
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: f
+    notes:
+      en: "Hände waschen = to wash hands"
+      ko: "Hände waschen = 손을 씻다"
+  - german: "der Fuß, Füße"
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: m
+    notes:
+      en: "zu Fuß gehen = to go on foot"
+      ko: "zu Fuß gehen = 걸어가다"
+  - german: "das Knie, -"
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: n
+    notes:
+      en: "die Kniescheibe = kneecap"
+      ko: "die Kniescheibe = 슬개골"
+  - german: "die Schulter, -n"
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: f
+    notes:
+      en: "Schulterschmerzen = shoulder pain"
+      ko: "Schulterschmerzen = 어깨 통증"
+  - german: "der Finger, -"
+    translation:
+      en: "finger"
+      ko: "손가락"
+    gender: m
+    notes:
+      en: "der Daumen = thumb"
+      ko: "der Daumen = 엄지손가락"
+  - german: "das Auge, -n"
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: n
+    notes:
+      en: "der Augenarzt = eye doctor / ophthalmologist"
+      ko: "der Augenarzt = 안과 의사"
+  - german: "das Ohr, -en"
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: n
+    notes:
+      en: "der HNO-Arzt = ear, nose, and throat doctor"
+      ko: "der HNO-Arzt = 이비인후과 의사"
+  - german: "die Nase, -n"
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: f
+    notes:
+      en: "die Nase putzen = to blow one's nose"
+      ko: "die Nase putzen = 코를 풀다"
+  - german: "der Mund, Münder"
+    translation:
+      en: "mouth"
+      ko: "입"
+    gender: m
+    notes:
+      en: "den Mund aufmachen = to open one's mouth"
+      ko: "den Mund aufmachen = 입을 벌리다"
+  - german: "der Zahn, Zähne"
+    translation:
+      en: "tooth"
+      ko: "이 / 치아"
+    gender: m
+    notes:
+      en: "die Zähne putzen = to brush teeth"
+      ko: "die Zähne putzen = 이를 닦다"
+  - german: "die Haut"
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: f
+    notes:
+      en: "der Hautarzt = dermatologist"
+      ko: "der Hautarzt = 피부과 의사"
+  - german: "das Blut"
+    translation:
+      en: "blood"
+      ko: "피 / 혈액"
+    gender: n
+    notes:
+      en: "die Blutprobe = blood test"
+      ko: "die Blutprobe = 혈액 검사"
+  - german: "der Knochen, -"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: m
+    notes:
+      en: "einen Knochen brechen = to break a bone"
+      ko: "einen Knochen brechen = 뼈가 부러지다"
+  - german: "das Gelenk, -e"
+    translation:
+      en: "joint"
+      ko: "관절"
+    gender: n
+    notes:
+      en: "Gelenkschmerzen = joint pain"
+      ko: "Gelenkschmerzen = 관절통"
+  - german: "die Lunge, -n"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: f
+    notes:
+      en: "die Lungenentzündung = pneumonia"
+      ko: "die Lungenentzündung = 폐렴"
+  - german: "das Herz, -en"
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: n
+    notes:
+      en: "der Herzinfarkt = heart attack"
+      ko: "der Herzinfarkt = 심장마비"
+  - german: "der Magen, Mägen"
+    translation:
+      en: "stomach (organ)"
+      ko: "위"
+    gender: m
+    notes:
+      en: "die Magenschmerzen = stomach pain"
+      ko: "die Magenschmerzen = 위통"
+  - german: "die Stirn, -en"
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: f
+    notes:
+      en: "die Stirn fühlen = to feel the forehead (for fever)"
+      ko: "die Stirn fühlen = 이마를 만지다 (열 확인)"
+  - german: "der Ellbogen, -"
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: m
+    notes:
+      en: "die Ellbogenfreiheit = elbow room (figurative: freedom)"
+      ko: "die Ellbogenfreiheit = 여유 공간 (비유: 자유)"
+  - german: "der Knöchel, -"
+    translation:
+      en: "ankle"
+      ko: "발목"
+    gender: m
+    notes:
+      en: "den Knöchel verstauchen = to sprain the ankle"
+      ko: "den Knöchel verstauchen = 발목을 삐다"
+  - german: "die Zehe, -n"
+    translation:
+      en: "toe"
+      ko: "발가락"
+    gender: f
+    notes:
+      en: "der große Zeh = big toe"
+      ko: "der große Zeh = 엄지발가락"
+  - german: "die Lippe, -n"
+    translation:
+      en: "lip"
+      ko: "입술"
+    gender: f
+    notes:
+      en: "der Lippenstift = lipstick"
+      ko: "der Lippenstift = 립스틱"
+  - german: "die Wange, -n"
+    translation:
+      en: "cheek"
+      ko: "뺨"
+    gender: f
+    notes:
+      en: "rote Wangen = red cheeks"
+      ko: "rote Wangen = 빨간 뺨"

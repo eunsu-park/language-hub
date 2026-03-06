@@ -1,0 +1,1417 @@
+lesson: "sup_N4_Travel_and_Transportation"
+lesson_number: 121
+jlpt: N4
+type: supplementary
+topic: "Travel and Transportation"
+categories:
+- id: airport_and_travel
+  label:
+    en: "Airport and Travel"
+    ko: "공항과 여행"
+  type: vocabulary
+  words:
+  - japanese: "空港"
+    reading: "くうこう"
+    translation:
+      en: "airport"
+      ko: "공항"
+    gender: null
+    notes:
+      en: "sky + port"
+      ko: "하늘 + 항구"
+  - japanese: "飛行機"
+    reading: "ひこうき"
+    translation:
+      en: "airplane"
+      ko: "비행기"
+    gender: null
+    notes:
+      en: "fly + go + machine"
+      ko: "날다 + 가다 + 기계"
+  - japanese: "出発"
+    reading: "しゅっぱつ"
+    translation:
+      en: "departure"
+      ko: "출발"
+    gender: null
+    notes:
+      en: "出発する = to depart"
+      ko: "出発する = 출발하다"
+  - japanese: "到着"
+    reading: "とうちゃく"
+    translation:
+      en: "arrival"
+      ko: "도착"
+    gender: null
+    notes:
+      en: "到着する = to arrive"
+      ko: "到着する = 도착하다"
+  - japanese: パスポート
+    reading: null
+    translation:
+      en: "passport"
+      ko: "여권"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "荷物"
+    reading: "にもつ"
+    translation:
+      en: "luggage, baggage"
+      ko: "짐, 수하물"
+    gender: null
+    notes:
+      en: "load + thing"
+      ko: "짐 + 물건"
+  - japanese: "旅行"
+    reading: "りょこう"
+    translation:
+      en: "travel, trip"
+      ko: "여행"
+    gender: null
+    notes:
+      en: "旅行する = to travel"
+      ko: "旅行する = 여행하다"
+  - japanese: "旅館"
+    reading: "りょかん"
+    translation:
+      en: "Japanese-style inn"
+      ko: "료칸, 일본식 여관"
+    gender: null
+    notes:
+      en: "traditional Japanese accommodation"
+      ko: "일본 전통 숙소"
+  - japanese: "予約"
+    reading: "よやく"
+    translation:
+      en: "reservation, booking"
+      ko: "예약"
+    gender: null
+    notes:
+      en: "予約する = to reserve"
+      ko: "予約する = 예약하다"
+  - japanese: "搭乗券"
+    reading: "とうじょうけん"
+    translation:
+      en: "boarding pass"
+      ko: "탑승권"
+    gender: null
+    notes:
+      en: "board + ride + ticket"
+      ko: "탑승 + 표"
+  - japanese: チェックイン
+    reading: null
+    translation:
+      en: "check-in"
+      ko: "체크인"
+    gender: null
+    notes:
+      en: "used at hotels and airports"
+      ko: "호텔과 공항에서 사용"
+  - japanese: "手荷物"
+    reading: "てにもつ"
+    translation:
+      en: "hand luggage, carry-on"
+      ko: "휴대 수하물"
+    gender: null
+    notes:
+      en: "hand + luggage"
+      ko: "손 + 짐"
+  - japanese: "片道"
+    reading: "かたみち"
+    translation:
+      en: "one-way (ticket)"
+      ko: "편도"
+    gender: null
+    notes:
+      en: "one side + road"
+      ko: "한쪽 + 길"
+  - japanese: "往復"
+    reading: "おうふく"
+    translation:
+      en: "round trip"
+      ko: "왕복"
+    gender: null
+    notes:
+      en: "go + return"
+      ko: "가다 + 돌아오다"
+  - japanese: "観光"
+    reading: "かんこう"
+    translation:
+      en: "sightseeing, tourism"
+      ko: "관광"
+    gender: null
+    notes:
+      en: "観光客 = tourist"
+      ko: "観光客 = 관광객"
+  - japanese: スーツケース
+    reading: null
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "乗り換え"
+    reading: "のりかえ"
+    translation:
+      en: "transfer (transportation)"
+      ko: "환승, 갈아타기"
+    gender: null
+    notes:
+      en: "乗り換える = to transfer"
+      ko: "乗り換える = 환승하다"
+  - japanese: "税関"
+    reading: "ぜいかん"
+    translation:
+      en: "customs (at border)"
+      ko: "세관"
+    gender: null
+    notes:
+      en: "tax + barrier"
+      ko: "세금 + 관문"
+  - japanese: ビザ
+    reading: null
+    translation:
+      en: "visa"
+      ko: "비자"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "外国"
+    reading: "がいこく"
+    translation:
+      en: "foreign country"
+      ko: "외국"
+    gender: null
+    notes:
+      en: "outside + country"
+      ko: "바깥 + 나라"
+  - japanese: "国内"
+    reading: "こくない"
+    translation:
+      en: "domestic (within the country)"
+      ko: "국내"
+    gender: null
+    notes:
+      en: "country + inside"
+      ko: "나라 + 안"
+  - japanese: "海外"
+    reading: "かいがい"
+    translation:
+      en: "overseas, abroad"
+      ko: "해외"
+    gender: null
+    notes:
+      en: "sea + outside"
+      ko: "바다 + 바깥"
+  - japanese: ガイドブック
+    reading: null
+    translation:
+      en: "guidebook"
+      ko: "가이드북"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "地図"
+    reading: "ちず"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: null
+    notes:
+      en: "earth + diagram"
+      ko: "땅 + 그림"
+  - japanese: "日程"
+    reading: "にってい"
+    translation:
+      en: "schedule, itinerary"
+      ko: "일정"
+    gender: null
+    notes:
+      en: "day + plan"
+      ko: "날 + 계획"
+  - japanese: "土産"
+    reading: "みやげ"
+    translation:
+      en: "souvenir"
+      ko: "기념품, 선물"
+    gender: null
+    notes:
+      en: "お土産 is the polite form; very important in Japan"
+      ko: "お土産은 정중한 표현; 일본에서 매우 중요"
+  - japanese: "案内"
+    reading: "あんない"
+    translation:
+      en: "guidance, information"
+      ko: "안내"
+    gender: null
+    notes:
+      en: "案内する = to guide"
+      ko: "案内する = 안내하다"
+  - japanese: "旅"
+    reading: "たび"
+    translation:
+      en: "journey, travel"
+      ko: "여행, 여정"
+    gender: null
+    notes:
+      en: "more literary than 旅行"
+      ko: "旅行보다 문학적인 표현"
+  - japanese: "免税店"
+    reading: "めんぜいてん"
+    translation:
+      en: "duty-free shop"
+      ko: "면세점"
+    gender: null
+    notes:
+      en: "exempt + tax + shop"
+      ko: "면제 + 세금 + 가게"
+  - japanese: "入国"
+    reading: "にゅうこく"
+    translation:
+      en: "entry into a country"
+      ko: "입국"
+    gender: null
+    notes:
+      en: "enter + country"
+      ko: "들어가다 + 나라"
+  - japanese: "出国"
+    reading: "しゅっこく"
+    translation:
+      en: "departure from a country"
+      ko: "출국"
+    gender: null
+    notes:
+      en: "exit + country"
+      ko: "나가다 + 나라"
+  - japanese: トランク
+    reading: null
+    translation:
+      en: "trunk, large suitcase"
+      ko: "트렁크, 큰 가방"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "両替"
+    reading: "りょうがえ"
+    translation:
+      en: "currency exchange"
+      ko: "환전"
+    gender: null
+    notes:
+      en: "both + change; 両替する = to exchange"
+      ko: "양쪽 + 바꾸다; 両替する = 환전하다"
+  - japanese: "時差"
+    reading: "じさ"
+    translation:
+      en: "time difference"
+      ko: "시차"
+    gender: null
+    notes:
+      en: "時差ぼけ = jet lag"
+      ko: "時差ぼけ = 시차 적응 장애"
+  - japanese: ツアー
+    reading: null
+    translation:
+      en: "tour"
+      ko: "투어"
+    gender: null
+    notes:
+      en: "パッケージツアー = package tour"
+      ko: "パッケージツアー = 패키지 투어"
+  - japanese: "帰国"
+    reading: "きこく"
+    translation:
+      en: "return to one's country"
+      ko: "귀국"
+    gender: null
+    notes:
+      en: "return + country"
+      ko: "돌아가다 + 나라"
+
+- id: vehicles
+  label:
+    en: "Vehicles"
+    ko: "교통수단"
+  type: vocabulary
+  words:
+  - japanese: "電車"
+    reading: "でんしゃ"
+    translation:
+      en: "electric train"
+      ko: "전철"
+    gender: null
+    notes:
+      en: "most common urban transport in Japan"
+      ko: "일본에서 가장 흔한 도시 교통수단"
+  - japanese: "新幹線"
+    reading: "しんかんせん"
+    translation:
+      en: "bullet train, Shinkansen"
+      ko: "신칸센, 고속열차"
+    gender: null
+    notes:
+      en: "new + trunk + line; Japan's high-speed rail"
+      ko: "새로운 + 간선 + 노선; 일본의 고속철도"
+  - japanese: "地下鉄"
+    reading: "ちかてつ"
+    translation:
+      en: "subway, metro"
+      ko: "지하철"
+    gender: null
+    notes:
+      en: "underground + iron (rail)"
+      ko: "지하 + 철(도)"
+  - japanese: "自転車"
+    reading: "じてんしゃ"
+    translation:
+      en: "bicycle"
+      ko: "자전거"
+    gender: null
+    notes:
+      en: "self + turn + vehicle"
+      ko: "스스로 + 회전 + 차"
+  - japanese: "自動車"
+    reading: "じどうしゃ"
+    translation:
+      en: "automobile, car"
+      ko: "자동차"
+    gender: null
+    notes:
+      en: "self + move + vehicle; formal word for car"
+      ko: "자동 + 차; 차의 정식 표현"
+  - japanese: バス
+    reading: null
+    translation:
+      en: "bus"
+      ko: "버스"
+    gender: null
+    notes:
+      en: "バス停 = bus stop"
+      ko: "バス停 = 버스 정류장"
+  - japanese: タクシー
+    reading: null
+    translation:
+      en: "taxi"
+      ko: "택시"
+    gender: null
+    notes:
+      en: "doors open automatically in Japan"
+      ko: "일본에서는 문이 자동으로 열림"
+  - japanese: "船"
+    reading: "ふね"
+    translation:
+      en: "ship, boat"
+      ko: "배"
+    gender: null
+    notes:
+      en: "general word for watercraft"
+      ko: "수상 교통수단의 일반적인 표현"
+  - japanese: "飛行船"
+    reading: "ひこうせん"
+    translation:
+      en: "airship, blimp"
+      ko: "비행선"
+    gender: null
+    notes:
+      en: "fly + go + ship"
+      ko: "날다 + 가다 + 배"
+  - japanese: トラック
+    reading: null
+    translation:
+      en: "truck"
+      ko: "트럭"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: オートバイ
+    reading: null
+    translation:
+      en: "motorcycle"
+      ko: "오토바이"
+    gender: null
+    notes:
+      en: "auto + bike; also バイク"
+      ko: "오토 + 바이크; バイク라고도 함"
+  - japanese: "救急車"
+    reading: "きゅうきゅうしゃ"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: null
+    notes:
+      en: "emergency + vehicle"
+      ko: "응급 + 차"
+  - japanese: "消防車"
+    reading: "しょうぼうしゃ"
+    translation:
+      en: "fire truck"
+      ko: "소방차"
+    gender: null
+    notes:
+      en: "extinguish + fire + vehicle"
+      ko: "끄다 + 불 + 차"
+  - japanese: パトカー
+    reading: null
+    translation:
+      en: "police car, patrol car"
+      ko: "순찰차, 경찰차"
+    gender: null
+    notes:
+      en: "abbreviation of パトロールカー"
+      ko: "パトロールカー의 줄임말"
+  - japanese: "特急"
+    reading: "とっきゅう"
+    translation:
+      en: "limited express (train)"
+      ko: "특급 (열차)"
+    gender: null
+    notes:
+      en: "special + express; faster than 急行"
+      ko: "특별한 + 급행; 急行보다 빠름"
+  - japanese: "急行"
+    reading: "きゅうこう"
+    translation:
+      en: "express (train)"
+      ko: "급행 (열차)"
+    gender: null
+    notes:
+      en: "hurry + go; skips some stations"
+      ko: "급히 + 가다; 일부 역을 건너뜀"
+  - japanese: "各駅停車"
+    reading: "かくえきていしゃ"
+    translation:
+      en: "local train (stops at every station)"
+      ko: "완행 (각 역 정차)"
+    gender: null
+    notes:
+      en: "each + station + stop + vehicle"
+      ko: "각 + 역 + 정차 + 차"
+  - japanese: ヘリコプター
+    reading: null
+    translation:
+      en: "helicopter"
+      ko: "헬리콥터"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "路面電車"
+    reading: "ろめんでんしゃ"
+    translation:
+      en: "streetcar, tram"
+      ko: "노면전차, 트램"
+    gender: null
+    notes:
+      en: "road surface + electric train"
+      ko: "노면 + 전차"
+  - japanese: フェリー
+    reading: null
+    translation:
+      en: "ferry"
+      ko: "페리"
+    gender: null
+    notes:
+      en: "used between islands in Japan"
+      ko: "일본의 섬 사이를 운행"
+  - japanese: "車両"
+    reading: "しゃりょう"
+    translation:
+      en: "vehicle, train car"
+      ko: "차량"
+    gender: null
+    notes:
+      en: "vehicle + both; a unit of train"
+      ko: "차 + 양; 열차 한 량"
+  - japanese: "運転"
+    reading: "うんてん"
+    translation:
+      en: "driving, operation"
+      ko: "운전"
+    gender: null
+    notes:
+      en: "運転する = to drive"
+      ko: "運転する = 운전하다"
+  - japanese: レンタカー
+    reading: null
+    translation:
+      en: "rental car"
+      ko: "렌터카"
+    gender: null
+    notes:
+      en: "rent + car; common for countryside travel"
+      ko: "렌트 + 카; 시골 여행에서 흔히 이용"
+  - japanese: "駐車場"
+    reading: "ちゅうしゃじょう"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: null
+    notes:
+      en: "stop + vehicle + place"
+      ko: "주차 + 장소"
+  - japanese: "車"
+    reading: "くるま"
+    translation:
+      en: "car, vehicle"
+      ko: "차, 자동차"
+    gender: null
+    notes:
+      en: "everyday word for car"
+      ko: "차의 일상적인 표현"
+  - japanese: "終電"
+    reading: "しゅうでん"
+    translation:
+      en: "last train"
+      ko: "막차"
+    gender: null
+    notes:
+      en: "end + electric train; important in Japan's nightlife"
+      ko: "마지막 + 전차; 일본 야간 생활에 중요"
+  - japanese: "始発"
+    reading: "しはつ"
+    translation:
+      en: "first train"
+      ko: "첫차"
+    gender: null
+    notes:
+      en: "begin + departure"
+      ko: "시작 + 출발"
+  - japanese: "満員"
+    reading: "まんいん"
+    translation:
+      en: "full (of people), packed"
+      ko: "만원, 만석"
+    gender: null
+    notes:
+      en: "満員電車 = packed train"
+      ko: "満員電車 = 만원 전철"
+  - japanese: エスカレーター
+    reading: null
+    translation:
+      en: "escalator"
+      ko: "에스컬레이터"
+    gender: null
+    notes:
+      en: "stand on left in Tokyo, right in Osaka"
+      ko: "도쿄에서는 왼쪽, 오사카에서는 오른쪽에 서기"
+  - japanese: エレベーター
+    reading: null
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+
+- id: directions
+  label:
+    en: "Directions and Locations"
+    ko: "방향과 위치"
+  type: vocabulary
+  words:
+  - japanese: "交差点"
+    reading: "こうさてん"
+    translation:
+      en: "intersection, crossroads"
+      ko: "교차로"
+    gender: null
+    notes:
+      en: "cross + point"
+      ko: "교차 + 점"
+  - japanese: "信号"
+    reading: "しんごう"
+    translation:
+      en: "traffic light, signal"
+      ko: "신호등"
+    gender: null
+    notes:
+      en: "signal + sign"
+      ko: "신호"
+  - japanese: "角"
+    reading: "かど"
+    translation:
+      en: "corner"
+      ko: "모퉁이"
+    gender: null
+    notes:
+      en: "角を曲がる = to turn at a corner"
+      ko: "角を曲がる = 모퉁이를 돌다"
+  - japanese: "曲がる"
+    reading: "まがる"
+    translation:
+      en: "to turn, to bend"
+      ko: "돌다, 구부러지다"
+    gender: null
+    notes:
+      en: "右に曲がる = turn right"
+      ko: "右に曲がる = 오른쪽으로 돌다"
+  - japanese: "渡る"
+    reading: "わたる"
+    translation:
+      en: "to cross (a road, bridge)"
+      ko: "건너다"
+    gender: null
+    notes:
+      en: "橋を渡る = to cross a bridge"
+      ko: "橋を渡る = 다리를 건너다"
+  - japanese: "通り"
+    reading: "とおり"
+    translation:
+      en: "street, avenue"
+      ko: "거리, 길"
+    gender: null
+    notes:
+      en: "この通り = this street"
+      ko: "この通り = 이 거리"
+  - japanese: "横断歩道"
+    reading: "おうだんほどう"
+    translation:
+      en: "crosswalk, pedestrian crossing"
+      ko: "횡단보도"
+    gender: null
+    notes:
+      en: "cross + walk + road"
+      ko: "횡단 + 보행 + 도로"
+  - japanese: "反対側"
+    reading: "はんたいがわ"
+    translation:
+      en: "opposite side"
+      ko: "반대편"
+    gender: null
+    notes:
+      en: "opposite + side"
+      ko: "반대 + 쪽"
+  - japanese: "突き当たり"
+    reading: "つきあたり"
+    translation:
+      en: "dead end, end of the road"
+      ko: "막다른 곳, 길 끝"
+    gender: null
+    notes:
+      en: "突き当たりを右 = turn right at the end"
+      ko: "突き当たりを右 = 끝에서 오른쪽으로"
+  - japanese: "道"
+    reading: "みち"
+    translation:
+      en: "road, path, way"
+      ko: "길"
+    gender: null
+    notes:
+      en: "道に迷う = to get lost"
+      ko: "道に迷う = 길을 잃다"
+  - japanese: "近道"
+    reading: "ちかみち"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: null
+    notes:
+      en: "near + road"
+      ko: "가까운 + 길"
+  - japanese: "坂"
+    reading: "さか"
+    translation:
+      en: "slope, hill"
+      ko: "언덕, 경사"
+    gender: null
+    notes:
+      en: "坂道 = sloped road"
+      ko: "坂道 = 경사진 길"
+  - japanese: "歩道"
+    reading: "ほどう"
+    translation:
+      en: "sidewalk, pavement"
+      ko: "보도, 인도"
+    gender: null
+    notes:
+      en: "walk + road"
+      ko: "걸음 + 도로"
+  - japanese: "橋"
+    reading: "はし"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: null
+    notes:
+      en: "common landmark for directions"
+      ko: "방향 안내에서 흔한 랜드마크"
+  - japanese: "方向"
+    reading: "ほうこう"
+    translation:
+      en: "direction"
+      ko: "방향"
+    gender: null
+    notes:
+      en: "この方向 = this direction"
+      ko: "この方向 = 이 방향"
+  - japanese: "向かい"
+    reading: "むかい"
+    translation:
+      en: "opposite, facing"
+      ko: "맞은편"
+    gender: null
+    notes:
+      en: "駅の向かい = opposite the station"
+      ko: "駅の向かい = 역 맞은편"
+  - japanese: "隣"
+    reading: "となり"
+    translation:
+      en: "next to, neighboring"
+      ko: "옆, 이웃"
+    gender: null
+    notes:
+      en: "銀行の隣 = next to the bank"
+      ko: "銀行の隣 = 은행 옆"
+  - japanese: "手前"
+    reading: "てまえ"
+    translation:
+      en: "this side of, before"
+      ko: "앞쪽, 이쪽"
+    gender: null
+    notes:
+      en: "駅の手前 = before the station"
+      ko: "駅の手前 = 역 앞쪽"
+  - japanese: "先"
+    reading: "さき"
+    translation:
+      en: "ahead, beyond"
+      ko: "앞, 저쪽"
+    gender: null
+    notes:
+      en: "この先 = up ahead"
+      ko: "この先 = 이 앞에"
+  - japanese: "真っすぐ"
+    reading: "まっすぐ"
+    translation:
+      en: "straight ahead"
+      ko: "곧장, 쭉"
+    gender: null
+    notes:
+      en: "真っすぐ行く = go straight"
+      ko: "真っすぐ行く = 곧장 가다"
+  - japanese: "戻る"
+    reading: "もどる"
+    translation:
+      en: "to go back, to return"
+      ko: "돌아가다"
+    gender: null
+    notes:
+      en: "元に戻る = to go back to the original place"
+      ko: "元に戻る = 원래 곳으로 돌아가다"
+  - japanese: "迷う"
+    reading: "まよう"
+    translation:
+      en: "to get lost, to be unsure"
+      ko: "길을 잃다, 망설이다"
+    gender: null
+    notes:
+      en: "道に迷いました = I got lost"
+      ko: "道に迷いました = 길을 잃었습니다"
+  - japanese: "目印"
+    reading: "めじるし"
+    translation:
+      en: "landmark, sign"
+      ko: "표지, 표식"
+    gender: null
+    notes:
+      en: "eye + mark; reference point"
+      ko: "눈 + 표시; 기준점"
+  - japanese: "一方通行"
+    reading: "いっぽうつうこう"
+    translation:
+      en: "one-way traffic"
+      ko: "일방통행"
+    gender: null
+    notes:
+      en: "one + direction + pass + go"
+      ko: "한 + 방향 + 통행"
+  - japanese: "歩く"
+    reading: "あるく"
+    translation:
+      en: "to walk"
+      ko: "걷다"
+    gender: null
+    notes:
+      en: "歩いて十分 = ten minutes on foot"
+      ko: "歩いて十分 = 걸어서 10분"
+  - japanese: "走る"
+    reading: "はしる"
+    translation:
+      en: "to run"
+      ko: "달리다"
+    gender: null
+    notes:
+      en: "used for people and vehicles"
+      ko: "사람과 차량 모두에 사용"
+  - japanese: "止まる"
+    reading: "とまる"
+    translation:
+      en: "to stop"
+      ko: "멈추다"
+    gender: null
+    notes:
+      en: "バスが止まる = the bus stops"
+      ko: "バスが止まる = 버스가 멈추다"
+  - japanese: "進む"
+    reading: "すすむ"
+    translation:
+      en: "to proceed, to advance"
+      ko: "나아가다, 전진하다"
+    gender: null
+    notes:
+      en: "前に進む = to move forward"
+      ko: "前に進む = 앞으로 나아가다"
+  - japanese: "左折"
+    reading: "させつ"
+    translation:
+      en: "left turn"
+      ko: "좌회전"
+    gender: null
+    notes:
+      en: "left + turn; used in signs and directions"
+      ko: "왼쪽 + 회전; 표지판과 방향에서 사용"
+  - japanese: "右折"
+    reading: "うせつ"
+    translation:
+      en: "right turn"
+      ko: "우회전"
+    gender: null
+    notes:
+      en: "right + turn; used in signs and directions"
+      ko: "오른쪽 + 회전; 표지판과 방향에서 사용"
+
+- id: accommodation
+  label:
+    en: "Accommodation"
+    ko: "숙박"
+  type: vocabulary
+  words:
+  - japanese: ホテル
+    reading: null
+    translation:
+      en: "hotel"
+      ko: "호텔"
+    gender: null
+    notes:
+      en: "Western-style hotel"
+      ko: "서양식 호텔"
+  - japanese: "部屋"
+    reading: "へや"
+    translation:
+      en: "room"
+      ko: "방"
+    gender: null
+    notes:
+      en: "シングルルーム = single room"
+      ko: "シングルルーム = 싱글 룸"
+  - japanese: "宿泊"
+    reading: "しゅくはく"
+    translation:
+      en: "lodging, accommodation"
+      ko: "숙박"
+    gender: null
+    notes:
+      en: "宿泊する = to stay overnight"
+      ko: "宿泊する = 숙박하다"
+  - japanese: "一泊"
+    reading: "いっぱく"
+    translation:
+      en: "one night's stay"
+      ko: "1박"
+    gender: null
+    notes:
+      en: "一泊二日 = one night two days"
+      ko: "一泊二日 = 1박 2일"
+  - japanese: フロント
+    reading: null
+    translation:
+      en: "front desk, reception"
+      ko: "프런트, 접수처"
+    gender: null
+    notes:
+      en: "hotel reception desk"
+      ko: "호텔 접수대"
+  - japanese: チェックアウト
+    reading: null
+    translation:
+      en: "check-out"
+      ko: "체크아웃"
+    gender: null
+    notes:
+      en: "チェックアウトは何時ですか = what time is check-out?"
+      ko: "チェックアウトは何時ですか = 체크아웃은 몇 시입니까?"
+  - japanese: "鍵"
+    reading: "かぎ"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: null
+    notes:
+      en: "鍵をもらう = to receive a key"
+      ko: "鍵をもらう = 열쇠를 받다"
+  - japanese: "布団"
+    reading: "ふとん"
+    translation:
+      en: "futon (Japanese bedding)"
+      ko: "이불, 후톤"
+    gender: null
+    notes:
+      en: "traditional Japanese sleeping mat"
+      ko: "일본 전통 침구"
+  - japanese: "畳"
+    reading: "たたみ"
+    translation:
+      en: "tatami mat"
+      ko: "다다미"
+    gender: null
+    notes:
+      en: "traditional Japanese floor mat"
+      ko: "일본 전통 바닥재"
+  - japanese: ベッド
+    reading: null
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "温泉"
+    reading: "おんせん"
+    translation:
+      en: "hot spring"
+      ko: "온천"
+    gender: null
+    notes:
+      en: "onsen bathing is a major travel activity"
+      ko: "온천 목욕은 주요 여행 활동"
+  - japanese: "露天風呂"
+    reading: "ろてんぶろ"
+    translation:
+      en: "outdoor bath"
+      ko: "노천탕"
+    gender: null
+    notes:
+      en: "open air + bath; popular at ryokan"
+      ko: "야외 + 욕조; 료칸에서 인기"
+  - japanese: "朝食付き"
+    reading: "ちょうしょくつき"
+    translation:
+      en: "with breakfast included"
+      ko: "조식 포함"
+    gender: null
+    notes:
+      en: "breakfast + attached"
+      ko: "아침식사 + 포함"
+  - japanese: "素泊まり"
+    reading: "すどまり"
+    translation:
+      en: "room only (no meals)"
+      ko: "숙박만 (식사 없음)"
+    gender: null
+    notes:
+      en: "plain + stay; cheapest option"
+      ko: "단순 + 숙박; 가장 저렴한 옵션"
+  - japanese: "禁煙"
+    reading: "きんえん"
+    translation:
+      en: "non-smoking"
+      ko: "금연"
+    gender: null
+    notes:
+      en: "禁煙ルーム = non-smoking room"
+      ko: "禁煙ルーム = 금연 객실"
+  - japanese: "喫煙"
+    reading: "きつえん"
+    translation:
+      en: "smoking"
+      ko: "흡연"
+    gender: null
+    notes:
+      en: "喫煙所 = smoking area"
+      ko: "喫煙所 = 흡연 구역"
+  - japanese: "民宿"
+    reading: "みんしゅく"
+    translation:
+      en: "guest house, B&B"
+      ko: "민박"
+    gender: null
+    notes:
+      en: "people + lodge; family-run accommodation"
+      ko: "민간 + 숙소; 가족 운영 숙소"
+  - japanese: "泊まる"
+    reading: "とまる"
+    translation:
+      en: "to stay (overnight)"
+      ko: "묵다, 숙박하다"
+    gender: null
+    notes:
+      en: "ホテルに泊まる = to stay at a hotel"
+      ko: "ホテルに泊まる = 호텔에 묵다"
+  - japanese: ロビー
+    reading: null
+    translation:
+      en: "lobby"
+      ko: "로비"
+    gender: null
+    notes:
+      en: "hotel lobby area"
+      ko: "호텔 로비 구역"
+  - japanese: "非常口"
+    reading: "ひじょうぐち"
+    translation:
+      en: "emergency exit"
+      ko: "비상구"
+    gender: null
+    notes:
+      en: "emergency + mouth/exit"
+      ko: "비상 + 출구"
+  - japanese: "連泊"
+    reading: "れんぱく"
+    translation:
+      en: "consecutive nights' stay"
+      ko: "연박"
+    gender: null
+    notes:
+      en: "continuous + stay"
+      ko: "연속 + 숙박"
+  - japanese: ユースホステル
+    reading: null
+    translation:
+      en: "youth hostel"
+      ko: "유스호스텔"
+    gender: null
+    notes:
+      en: "budget accommodation for young travelers"
+      ko: "젊은 여행자를 위한 저렴한 숙소"
+  - japanese: カプセルホテル
+    reading: null
+    translation:
+      en: "capsule hotel"
+      ko: "캡슐 호텔"
+    gender: null
+    notes:
+      en: "uniquely Japanese small sleeping pods"
+      ko: "일본 특유의 작은 수면 캡슐"
+  - japanese: "景色"
+    reading: "けしき"
+    translation:
+      en: "scenery, view"
+      ko: "경치, 풍경"
+    gender: null
+    notes:
+      en: "部屋からの景色 = view from the room"
+      ko: "部屋からの景色 = 방에서 보이는 경치"
+  - japanese: "空室"
+    reading: "くうしつ"
+    translation:
+      en: "vacant room"
+      ko: "빈 방"
+    gender: null
+    notes:
+      en: "empty + room; opposite: 満室"
+      ko: "비어있는 + 방; 반대: 満室"
+  - japanese: "満室"
+    reading: "まんしつ"
+    translation:
+      en: "no vacancy, full"
+      ko: "만실"
+    gender: null
+    notes:
+      en: "full + room"
+      ko: "꽉 찬 + 방"
+  - japanese: アメニティ
+    reading: null
+    translation:
+      en: "amenities (toiletries)"
+      ko: "어메니티 (세면도구)"
+    gender: null
+    notes:
+      en: "provided in Japanese hotels"
+      ko: "일본 호텔에서 제공됨"
+
+- id: tourist_activities
+  label:
+    en: "Tourist Activities"
+    ko: "관광 활동"
+  type: vocabulary
+  words:
+  - japanese: "名所"
+    reading: "めいしょ"
+    translation:
+      en: "famous place, attraction"
+      ko: "명소"
+    gender: null
+    notes:
+      en: "famous + place"
+      ko: "유명한 + 장소"
+  - japanese: "神社"
+    reading: "じんじゃ"
+    translation:
+      en: "Shinto shrine"
+      ko: "신사"
+    gender: null
+    notes:
+      en: "Shinto place of worship"
+      ko: "신도 예배 장소"
+  - japanese: "寺"
+    reading: "てら"
+    translation:
+      en: "Buddhist temple"
+      ko: "절"
+    gender: null
+    notes:
+      en: "お寺 is the polite form"
+      ko: "お寺는 정중한 표현"
+  - japanese: "城"
+    reading: "しろ"
+    translation:
+      en: "castle"
+      ko: "성"
+    gender: null
+    notes:
+      en: "大阪城 = Osaka Castle"
+      ko: "大阪城 = 오사카 성"
+  - japanese: "美術館"
+    reading: "びじゅつかん"
+    translation:
+      en: "art museum"
+      ko: "미술관"
+    gender: null
+    notes:
+      en: "art + building"
+      ko: "미술 + 관"
+  - japanese: "博物館"
+    reading: "はくぶつかん"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: null
+    notes:
+      en: "broad learning + building"
+      ko: "넓은 학문 + 관"
+  - japanese: "入場料"
+    reading: "にゅうじょうりょう"
+    translation:
+      en: "admission fee"
+      ko: "입장료"
+    gender: null
+    notes:
+      en: "enter + place + fee"
+      ko: "입장 + 료"
+  - japanese: "記念写真"
+    reading: "きねんしゃしん"
+    translation:
+      en: "commemorative photo"
+      ko: "기념 사진"
+    gender: null
+    notes:
+      en: "記念写真を撮る = to take a commemorative photo"
+      ko: "記念写真を撮る = 기념 사진을 찍다"
+  - japanese: "撮影禁止"
+    reading: "さつえいきんし"
+    translation:
+      en: "photography prohibited"
+      ko: "촬영 금지"
+    gender: null
+    notes:
+      en: "photography + forbidden"
+      ko: "촬영 + 금지"
+  - japanese: "庭園"
+    reading: "ていえん"
+    translation:
+      en: "garden (formal)"
+      ko: "정원"
+    gender: null
+    notes:
+      en: "日本庭園 = Japanese garden"
+      ko: "日本庭園 = 일본 정원"
+  - japanese: "展望台"
+    reading: "てんぼうだい"
+    translation:
+      en: "observation deck"
+      ko: "전망대"
+    gender: null
+    notes:
+      en: "view + look + platform"
+      ko: "전망 + 대"
+  - japanese: "遊園地"
+    reading: "ゆうえんち"
+    translation:
+      en: "amusement park"
+      ko: "유원지, 놀이공원"
+    gender: null
+    notes:
+      en: "play + garden + land"
+      ko: "놀이 + 공원 + 땅"
+  - japanese: "水族館"
+    reading: "すいぞくかん"
+    translation:
+      en: "aquarium"
+      ko: "수족관"
+    gender: null
+    notes:
+      en: "water + family + building"
+      ko: "수중 + 생물 + 관"
+  - japanese: "世界遺産"
+    reading: "せかいいさん"
+    translation:
+      en: "World Heritage Site"
+      ko: "세계유산"
+    gender: null
+    notes:
+      en: "world + heritage"
+      ko: "세계 + 유산"
+  - japanese: "文化"
+    reading: "ぶんか"
+    translation:
+      en: "culture"
+      ko: "문화"
+    gender: null
+    notes:
+      en: "日本文化 = Japanese culture"
+      ko: "日本文化 = 일본 문화"
+  - japanese: "体験"
+    reading: "たいけん"
+    translation:
+      en: "experience (hands-on)"
+      ko: "체험"
+    gender: null
+    notes:
+      en: "体験する = to experience"
+      ko: "体験する = 체험하다"
+  - japanese: "散策"
+    reading: "さんさく"
+    translation:
+      en: "stroll, walk around"
+      ko: "산책, 거닐기"
+    gender: null
+    notes:
+      en: "more formal than 散歩"
+      ko: "散歩보다 격식체"
+  - japanese: "登山"
+    reading: "とざん"
+    translation:
+      en: "mountain climbing"
+      ko: "등산"
+    gender: null
+    notes:
+      en: "climb + mountain"
+      ko: "오르다 + 산"
+  - japanese: "温泉街"
+    reading: "おんせんがい"
+    translation:
+      en: "hot spring town"
+      ko: "온천 거리"
+    gender: null
+    notes:
+      en: "hot spring + street/district"
+      ko: "온천 + 거리"
+  - japanese: "食べ歩き"
+    reading: "たべあるき"
+    translation:
+      en: "eating while walking, food tour"
+      ko: "먹으며 걷기, 먹거리 투어"
+    gender: null
+    notes:
+      en: "eat + walk; popular tourist activity"
+      ko: "먹다 + 걷다; 인기 있는 관광 활동"
+  - japanese: "お参り"
+    reading: "おまいり"
+    translation:
+      en: "visit to a shrine/temple"
+      ko: "참배"
+    gender: null
+    notes:
+      en: "respectful visit to pray"
+      ko: "기도하기 위한 경건한 방문"
+  - japanese: "写真を撮る"
+    reading: "しゃしんをとる"
+    translation:
+      en: "to take a photo"
+      ko: "사진을 찍다"
+    gender: null
+    notes:
+      en: "写真 + を + 撮る"
+      ko: "사진 + 을 + 찍다"
+  - japanese: "花火"
+    reading: "はなび"
+    translation:
+      en: "fireworks"
+      ko: "불꽃놀이"
+    gender: null
+    notes:
+      en: "flower + fire; summer tradition in Japan"
+      ko: "꽃 + 불; 일본의 여름 전통"
+  - japanese: "祭り"
+    reading: "まつり"
+    translation:
+      en: "festival"
+      ko: "축제, 마쓰리"
+    gender: null
+    notes:
+      en: "お祭り is the polite form"
+      ko: "お祭り는 정중한 표현"
+  - japanese: "絵葉書"
+    reading: "えはがき"
+    translation:
+      en: "postcard"
+      ko: "그림 엽서"
+    gender: null
+    notes:
+      en: "picture + postcard"
+      ko: "그림 + 엽서"
+  - japanese: "乗り物"
+    reading: "のりもの"
+    translation:
+      en: "ride, vehicle (at park)"
+      ko: "탈것, 놀이기구"
+    gender: null
+    notes:
+      en: "ride + thing"
+      ko: "타다 + 것"
+  - japanese: "ご当地"
+    reading: "ごとうち"
+    translation:
+      en: "local, regional"
+      ko: "현지, 지역 특유의"
+    gender: null
+    notes:
+      en: "ご当地グルメ = local gourmet food"
+      ko: "ご当地グルメ = 현지 맛집 음식"
+  - japanese: "自由時間"
+    reading: "じゆうじかん"
+    translation:
+      en: "free time"
+      ko: "자유 시간"
+    gender: null
+    notes:
+      en: "free + time; during guided tours"
+      ko: "자유 + 시간; 가이드 투어 중"
+  - japanese: "集合"
+    reading: "しゅうごう"
+    translation:
+      en: "meeting, assembly"
+      ko: "집합"
+    gender: null
+    notes:
+      en: "集合場所 = meeting point"
+      ko: "集合場所 = 집합 장소"
+  - japanese: "解散"
+    reading: "かいさん"
+    translation:
+      en: "dismissal, disbanding"
+      ko: "해산"
+    gender: null
+    notes:
+      en: "end of a group tour"
+      ko: "단체 투어의 마무리"

@@ -1,0 +1,1472 @@
+lesson: "sup_B1_Housing_and_Real_Estate"
+lesson_number: 149
+cefr: B1
+type: supplementary
+topic: "Housing and Real Estate"
+categories:
+- id: immobilientypen
+  label:
+    en: "Property Types (Immobilientypen)"
+    ko: "부동산 유형 (Immobilientypen)"
+  type: vocabulary
+  words:
+  - german: "die Wohnung, -en"
+    translation:
+      en: "apartment / flat"
+      ko: "아파트 / 주거"
+    gender: f
+    notes:
+      en: "eine Wohnung suchen = to look for an apartment"
+      ko: "eine Wohnung suchen = 아파트를 찾다"
+  - german: "das Einfamilienhaus, -häuser"
+    translation:
+      en: "single-family house"
+      ko: "단독 주택"
+    gender: n
+    notes:
+      en: "ein freistehendes Einfamilienhaus = a detached house"
+      ko: "ein freistehendes Einfamilienhaus = 독립 단독 주택"
+  - german: "das Mehrfamilienhaus, -häuser"
+    translation:
+      en: "multi-family house / apartment building"
+      ko: "다세대 주택"
+    gender: n
+    notes:
+      en: "ein Haus mit mehreren Wohnungen"
+      ko: "여러 세대가 사는 주택"
+  - german: "das Reihenhaus, -häuser"
+    translation:
+      en: "row house / terraced house"
+      ko: "연립 주택"
+    gender: n
+    notes:
+      en: "Reihenhäuser sind günstiger als freistehende Häuser"
+      ko: "연립 주택은 독립 주택보다 저렴하다"
+  - german: "die Doppelhaushälfte, -n"
+    translation:
+      en: "semi-detached house"
+      ko: "반 독립 주택"
+    gender: f
+    notes:
+      en: "Two homes sharing a common wall"
+      ko: "공동 벽을 공유하는 두 채의 집"
+  - german: "das Penthouse, -s"
+    translation:
+      en: "penthouse"
+      ko: "펜트하우스"
+    gender: n
+    notes:
+      en: "eine Penthousewohnung = a penthouse apartment"
+      ko: "eine Penthousewohnung = 펜트하우스 아파트"
+  - german: "die Maisonette, -n"
+    translation:
+      en: "maisonette / duplex apartment"
+      ko: "복층 아파트"
+    gender: f
+    notes:
+      en: "eine Wohnung über zwei Etagen"
+      ko: "2개 층에 걸친 아파트"
+  - german: "das Loft, -s"
+    translation:
+      en: "loft"
+      ko: "로프트"
+    gender: n
+    notes:
+      en: "ein umgebautes Loft = a converted loft"
+      ko: "ein umgebautes Loft = 개조된 로프트"
+  - german: "die Einliegerwohnung, -en"
+    translation:
+      en: "in-law apartment / granny flat"
+      ko: "별채 / 부속 아파트"
+    gender: f
+    notes:
+      en: "eine kleine Wohnung im Haupthaus"
+      ko: "본 건물 안의 작은 아파트"
+  - german: "der Altbau, -ten"
+    translation:
+      en: "old building (pre-1945)"
+      ko: "구건물 (1945년 이전)"
+    gender: m
+    notes:
+      en: "der Altbaucharme = old building charm"
+      ko: "der Altbaucharme = 구건물의 매력"
+  - german: "der Neubau, -ten"
+    translation:
+      en: "new building"
+      ko: "신축 건물"
+    gender: m
+    notes:
+      en: "eine Neubauwohnung = a new-build apartment"
+      ko: "eine Neubauwohnung = 신축 아파트"
+  - german: "das Grundstück, -e"
+    translation:
+      en: "plot of land / property"
+      ko: "부지 / 토지"
+    gender: n
+    notes:
+      en: "ein Grundstück kaufen = to buy a plot of land"
+      ko: "ein Grundstück kaufen = 부지를 사다"
+  - german: "die Eigentumswohnung, -en"
+    translation:
+      en: "condominium / owner-occupied flat"
+      ko: "자가 아파트"
+    gender: f
+    notes:
+      en: "Often abbreviated as ETW"
+      ko: "종종 ETW로 약칭"
+  - german: "die Sozialwohnung, -en"
+    translation:
+      en: "social housing / public housing"
+      ko: "공공 임대 주택"
+    gender: f
+    notes:
+      en: "für einkommensschwache Haushalte"
+      ko: "저소득 가구를 위한 주택"
+  - german: "das Studentenwohnheim, -e"
+    translation:
+      en: "student dormitory"
+      ko: "학생 기숙사"
+    gender: n
+    notes:
+      en: "im Studentenwohnheim wohnen = to live in a dormitory"
+      ko: "im Studentenwohnheim wohnen = 학생 기숙사에 살다"
+  - german: "das Ferienhaus, -häuser"
+    translation:
+      en: "vacation house / holiday home"
+      ko: "별장 / 휴가용 주택"
+    gender: n
+    notes:
+      en: "ein Ferienhaus mieten = to rent a vacation home"
+      ko: "ein Ferienhaus mieten = 별장을 빌리다"
+  - german: "die Dachgeschosswohnung, -en"
+    translation:
+      en: "attic apartment / penthouse"
+      ko: "다락방 아파트"
+    gender: f
+    notes:
+      en: "eine Dachgeschosswohnung mit Balkon"
+      ko: "발코니가 있는 다락방 아파트"
+  - german: "das Hochhaus, -häuser"
+    translation:
+      en: "high-rise building"
+      ko: "고층 건물"
+    gender: n
+    notes:
+      en: "in einem Hochhaus wohnen = to live in a high-rise"
+      ko: "in einem Hochhaus wohnen = 고층 건물에 살다"
+  - german: "die Souterrainwohnung, -en"
+    translation:
+      en: "basement apartment"
+      ko: "지하 아파트"
+    gender: f
+    notes:
+      en: "eine Souterrainwohnung mit Gartenzugang"
+      ko: "정원 출입구가 있는 지하 아파트"
+  - german: "das Tiny House, -s"
+    translation:
+      en: "tiny house"
+      ko: "타이니 하우스"
+    gender: n
+    notes:
+      en: "minimalistisch wohnen = to live minimally"
+      ko: "minimalistisch wohnen = 미니멀하게 살다"
+  - german: "die Erdgeschosswohnung, -en"
+    translation:
+      en: "ground floor apartment"
+      ko: "1층 아파트"
+    gender: f
+    notes:
+      en: "eine Erdgeschosswohnung mit Garten"
+      ko: "정원이 있는 1층 아파트"
+  - german: "das Bauernhaus, -häuser"
+    translation:
+      en: "farmhouse"
+      ko: "농가"
+    gender: n
+    notes:
+      en: "ein renoviertes Bauernhaus = a renovated farmhouse"
+      ko: "ein renoviertes Bauernhaus = 리모델링된 농가"
+- id: hausmerkmale
+  label:
+    en: "House Features (Hausmerkmale)"
+    ko: "주택 특징 (Hausmerkmale)"
+  type: vocabulary
+  words:
+  - german: "die Quadratmeter (qm, m²)"
+    translation:
+      en: "square meters"
+      ko: "평방미터"
+    gender: m
+    notes:
+      en: "80 qm Wohnfläche = 80 square meters of living space"
+      ko: "80 qm Wohnfläche = 80평방미터 주거 면적"
+  - german: "das Stockwerk, -e"
+    translation:
+      en: "floor / story"
+      ko: "층"
+    gender: n
+    notes:
+      en: "im 3. Stockwerk = on the 3rd floor"
+      ko: "im 3. Stockwerk = 3층에"
+  - german: "das Erdgeschoss, -e"
+    translation:
+      en: "ground floor"
+      ko: "1층"
+    gender: n
+    notes:
+      en: "im Erdgeschoss = on the ground floor"
+      ko: "im Erdgeschoss = 1층에"
+  - german: "das Dachgeschoss, -e"
+    translation:
+      en: "attic / top floor"
+      ko: "다락방 / 최상층"
+    gender: n
+    notes:
+      en: "eine Dachgeschosswohnung = an attic apartment"
+      ko: "eine Dachgeschosswohnung = 다락방 아파트"
+  - german: "der Keller, -"
+    translation:
+      en: "basement / cellar"
+      ko: "지하실"
+    gender: m
+    notes:
+      en: "ein trockener Keller = a dry basement"
+      ko: "ein trockener Keller = 건조한 지하실"
+  - german: "der Balkon, -e"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+    notes:
+      en: "ein Südbalkon = a south-facing balcony"
+      ko: "ein Südbalkon = 남향 발코니"
+  - german: "die Terrasse, -n"
+    translation:
+      en: "terrace / patio"
+      ko: "테라스"
+    gender: f
+    notes:
+      en: "die Dachterrasse = rooftop terrace"
+      ko: "die Dachterrasse = 옥상 테라스"
+  - german: "der Garten, Gärten"
+    translation:
+      en: "garden / yard"
+      ko: "정원"
+    gender: m
+    notes:
+      en: "der Vorgarten = front garden"
+      ko: "der Vorgarten = 앞뜰"
+  - german: "die Garage, -n"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: f
+    notes:
+      en: "die Tiefgarage = underground garage"
+      ko: "die Tiefgarage = 지하 주차장"
+  - german: "die Einbauküche, -n"
+    translation:
+      en: "fitted kitchen"
+      ko: "빌트인 주방"
+    gender: f
+    notes:
+      en: "Often abbreviated as EBK in listings"
+      ko: "매물 광고에서 종종 EBK로 약칭"
+  - german: "das Badezimmer, -"
+    translation:
+      en: "bathroom"
+      ko: "욕실"
+    gender: n
+    notes:
+      en: "mit Badewanne oder Dusche = with bathtub or shower"
+      ko: "mit Badewanne oder Dusche = 욕조 또는 샤워 포함"
+  - german: "der Stellplatz, -plätze"
+    translation:
+      en: "parking space"
+      ko: "주차 공간"
+    gender: m
+    notes:
+      en: "ein eigener Stellplatz = an own parking space"
+      ko: "ein eigener Stellplatz = 자체 주차 공간"
+  - german: "die Fußbodenheizung, -en"
+    translation:
+      en: "underfloor heating"
+      ko: "바닥 난방"
+    gender: f
+    notes:
+      en: "eine Fußbodenheizung einbauen = to install underfloor heating"
+      ko: "eine Fußbodenheizung einbauen = 바닥 난방을 설치하다"
+  - german: "die Zentralheizung, -en"
+    translation:
+      en: "central heating"
+      ko: "중앙 난방"
+    gender: f
+    notes:
+      en: "Gas- oder Ölzentralheizung = gas or oil central heating"
+      ko: "Gas- oder Ölzentralheizung = 가스 또는 석유 중앙 난방"
+  - german: "der Aufzug, Aufzüge"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+    notes:
+      en: "ein Haus mit Aufzug = a building with an elevator"
+      ko: "ein Haus mit Aufzug = 엘리베이터가 있는 건물"
+  - german: "der Energieausweis, -e"
+    translation:
+      en: "energy performance certificate"
+      ko: "에너지 성능 인증서"
+    gender: m
+    notes:
+      en: "Required when selling or renting in Germany"
+      ko: "독일에서 매매 또는 임대 시 필수"
+  - german: "der Wintergarten, -gärten"
+    translation:
+      en: "conservatory / sunroom"
+      ko: "온실 / 선룸"
+    gender: m
+    notes:
+      en: "ein Wintergarten mit Blick auf den Garten"
+      ko: "정원이 보이는 온실"
+  - german: "die Dachrinne, -n"
+    translation:
+      en: "gutter / rain gutter"
+      ko: "홈통"
+    gender: f
+    notes:
+      en: "die Dachrinne reinigen = to clean the gutter"
+      ko: "die Dachrinne reinigen = 홈통을 청소하다"
+  - german: "der Kamin, -e"
+    translation:
+      en: "fireplace / chimney"
+      ko: "벽난로"
+    gender: m
+    notes:
+      en: "der offene Kamin = open fireplace"
+      ko: "der offene Kamin = 개방형 벽난로"
+  - german: "die Markise, -n"
+    translation:
+      en: "awning"
+      ko: "차양"
+    gender: f
+    notes:
+      en: "die Markise ausfahren = to extend the awning"
+      ko: "die Markise ausfahren = 차양을 펼치다"
+  - german: "die Wärmepumpe, -n"
+    translation:
+      en: "heat pump"
+      ko: "히트 펌프"
+    gender: f
+    notes:
+      en: "eine Wärmepumpe installieren = to install a heat pump"
+      ko: "eine Wärmepumpe installieren = 히트 펌프를 설치하다"
+- id: mieten
+  label:
+    en: "Renting (Mieten)"
+    ko: "임대 (Mieten)"
+  type: vocabulary
+  words:
+  - german: "die Miete, -n"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: f
+    notes:
+      en: "die Miete zahlen = to pay rent"
+      ko: "die Miete zahlen = 임대료를 내다"
+  - german: "die Kaltmiete, -n"
+    translation:
+      en: "base rent (without utilities)"
+      ko: "기본 임대료 (관리비 제외)"
+    gender: f
+    notes:
+      en: "die Miete ohne Nebenkosten"
+      ko: "관리비를 제외한 임대료"
+  - german: "die Warmmiete, -n"
+    translation:
+      en: "total rent (including utilities)"
+      ko: "총 임대료 (관리비 포함)"
+    gender: f
+    notes:
+      en: "Kaltmiete + Nebenkosten = Warmmiete"
+      ko: "기본 임대료 + 관리비 = 총 임대료"
+  - german: "die Nebenkosten (pl.)"
+    translation:
+      en: "utility costs / service charges"
+      ko: "관리비 / 부대 비용"
+    gender: f
+    notes:
+      en: "Include heating, water, garbage collection"
+      ko: "난방, 수도, 쓰레기 수거 포함"
+  - german: "die Kaution, -en"
+    translation:
+      en: "security deposit"
+      ko: "보증금"
+    gender: f
+    notes:
+      en: "Usually 2-3 months' rent in Germany"
+      ko: "독일에서 보통 월세의 2-3개월분"
+  - german: "der Mietvertrag, -verträge"
+    translation:
+      en: "rental contract / lease"
+      ko: "임대 계약서"
+    gender: m
+    notes:
+      en: "einen Mietvertrag unterschreiben = to sign a lease"
+      ko: "einen Mietvertrag unterschreiben = 임대 계약서에 서명하다"
+  - german: "der Vermieter, -"
+    translation:
+      en: "landlord"
+      ko: "집주인"
+    gender: m
+    notes:
+      en: "die Vermieterin = female landlord"
+      ko: "die Vermieterin = 여성 집주인"
+  - german: "der Mieter, -"
+    translation:
+      en: "tenant"
+      ko: "세입자"
+    gender: m
+    notes:
+      en: "die Mieterin = female tenant"
+      ko: "die Mieterin = 여성 세입자"
+  - german: "die Wohnungsanzeige, -n"
+    translation:
+      en: "apartment listing / advertisement"
+      ko: "주택 매물 광고"
+    gender: f
+    notes:
+      en: "Wohnungsanzeigen im Internet durchsuchen"
+      ko: "인터넷에서 주택 매물 광고를 검색하다"
+  - german: "die Mieterhöhung, -en"
+    translation:
+      en: "rent increase"
+      ko: "임대료 인상"
+    gender: f
+    notes:
+      en: "die Mietpreisbremse = rent control"
+      ko: "die Mietpreisbremse = 임대료 상한제"
+  - german: "die Nebenkostenabrechnung, -en"
+    translation:
+      en: "utility bill settlement"
+      ko: "관리비 정산서"
+    gender: f
+    notes:
+      en: "Annual settlement of utility costs"
+      ko: "관리비의 연간 정산"
+  - german: "der Mietspiegel, -"
+    translation:
+      en: "rent index / rent mirror"
+      ko: "임대료 지표"
+    gender: m
+    notes:
+      en: "Shows average rents in a city"
+      ko: "도시의 평균 임대료를 보여줌"
+  - german: "die Wohnungsbesichtigung, -en"
+    translation:
+      en: "apartment viewing"
+      ko: "집 방문 / 내방"
+    gender: f
+    notes:
+      en: "einen Termin zur Besichtigung machen = to schedule a viewing"
+      ko: "einen Termin zur Besichtigung machen = 방문 일정을 잡다"
+  - german: "die Schufa-Auskunft"
+    translation:
+      en: "credit report (German)"
+      ko: "슈파 신용 정보"
+    gender: f
+    notes:
+      en: "Required by most landlords in Germany"
+      ko: "독일에서 대부분의 집주인이 요구"
+  - german: "kündigen"
+    translation:
+      en: "to give notice / to terminate lease"
+      ko: "계약을 해지하다"
+    gender: null
+    notes:
+      en: "die Kündigungsfrist = notice period (usually 3 months)"
+      ko: "die Kündigungsfrist = 해지 통지 기간 (보통 3개월)"
+  - german: "die Ablöse, -n"
+    translation:
+      en: "key money / fixtures fee"
+      ko: "권리금 / 양도비"
+    gender: f
+    notes:
+      en: "eine Ablöse für die Einbauküche = fixtures fee for the fitted kitchen"
+      ko: "eine Ablöse für die Einbauküche = 빌트인 주방의 양도비"
+  - german: "die Mahnung, -en"
+    translation:
+      en: "reminder / warning (payment)"
+      ko: "독촉장"
+    gender: f
+    notes:
+      en: "eine Mahnung wegen Mietrückstand = a reminder for overdue rent"
+      ko: "eine Mahnung wegen Mietrückstand = 연체 임대료에 대한 독촉장"
+  - german: "der Untermieter, -"
+    translation:
+      en: "subtenant"
+      ko: "전차인"
+    gender: m
+    notes:
+      en: "einen Untermieter aufnehmen = to take in a subtenant"
+      ko: "einen Untermieter aufnehmen = 전차인을 들이다"
+  - german: "die Räumungsklage, -n"
+    translation:
+      en: "eviction lawsuit"
+      ko: "퇴거 소송"
+    gender: f
+    notes:
+      en: "eine Räumungsklage einreichen = to file an eviction lawsuit"
+      ko: "eine Räumungsklage einreichen = 퇴거 소송을 제기하다"
+  - german: "die Mietminderung, -en"
+    translation:
+      en: "rent reduction"
+      ko: "임대료 감면"
+    gender: f
+    notes:
+      en: "eine Mietminderung fordern = to demand a rent reduction"
+      ko: "eine Mietminderung fordern = 임대료 감면을 요구하다"
+  - german: "der Mietrückstand, -stände"
+    translation:
+      en: "rent arrears"
+      ko: "임대료 체납"
+    gender: m
+    notes:
+      en: "in Mietrückstand geraten = to fall behind on rent"
+      ko: "in Mietrückstand geraten = 임대료를 체납하다"
+  - german: "die Eigenbedarfskündigung, -en"
+    translation:
+      en: "eviction for personal use"
+      ko: "자기 사용 목적 퇴거 통지"
+    gender: f
+    notes:
+      en: "der Vermieter kündigt wegen Eigenbedarf"
+      ko: "집주인이 자기 사용 목적으로 퇴거를 통보한다"
+- id: kaufen
+  label:
+    en: "Buying Property (Kaufen)"
+    ko: "부동산 구매 (Kaufen)"
+  type: vocabulary
+  words:
+  - german: "der Kaufpreis, -e"
+    translation:
+      en: "purchase price"
+      ko: "매매 가격"
+    gender: m
+    notes:
+      en: "den Kaufpreis verhandeln = to negotiate the price"
+      ko: "den Kaufpreis verhandeln = 매매 가격을 협상하다"
+  - german: "der Makler, -"
+    translation:
+      en: "real estate agent / broker"
+      ko: "부동산 중개인"
+    gender: m
+    notes:
+      en: "die Maklerin = female agent; die Maklerprovision = agent fee"
+      ko: "die Maklerin = 여성 중개인; die Maklerprovision = 중개 수수료"
+  - german: "der Notar, -e"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: m
+    notes:
+      en: "Required for property transactions in Germany"
+      ko: "독일에서 부동산 거래에 필수"
+  - german: "die Grunderwerbsteuer, -n"
+    translation:
+      en: "property transfer tax"
+      ko: "부동산 취득세"
+    gender: f
+    notes:
+      en: "Varies by state: 3.5-6.5%"
+      ko: "주마다 다름: 3.5-6.5%"
+  - german: "das Grundbuch, -bücher"
+    translation:
+      en: "land registry"
+      ko: "토지 대장"
+    gender: n
+    notes:
+      en: "im Grundbuch eingetragen = registered in the land registry"
+      ko: "im Grundbuch eingetragen = 토지 대장에 등록된"
+  - german: "die Baufinanzierung, -en"
+    translation:
+      en: "construction/property financing"
+      ko: "건축 금융 / 부동산 대출"
+    gender: f
+    notes:
+      en: "eine Baufinanzierung abschließen = to secure property financing"
+      ko: "eine Baufinanzierung abschließen = 부동산 대출을 받다"
+  - german: "die Eigentümergemeinschaft, -en"
+    translation:
+      en: "homeowners' association"
+      ko: "입주자 대표 회의"
+    gender: f
+    notes:
+      en: "das Hausgeld = maintenance fee"
+      ko: "das Hausgeld = 관리비"
+  - german: "der Gutachter, -"
+    translation:
+      en: "surveyor / appraiser"
+      ko: "감정사"
+    gender: m
+    notes:
+      en: "ein Gutachten erstellen = to prepare an appraisal"
+      ko: "ein Gutachten erstellen = 감정서를 작성하다"
+  - german: "die Eigenkapitalquote"
+    translation:
+      en: "equity ratio"
+      ko: "자기 자본 비율"
+    gender: f
+    notes:
+      en: "mindestens 20% Eigenkapital empfohlen"
+      ko: "최소 20% 자기 자본 권장"
+  - german: "die Immobilienbewertung, -en"
+    translation:
+      en: "property valuation"
+      ko: "부동산 감정"
+    gender: f
+    notes:
+      en: "den Marktwert ermitteln = to determine market value"
+      ko: "den Marktwert ermitteln = 시장 가치를 산정하다"
+  - german: "die Hypothek, -en"
+    translation:
+      en: "mortgage"
+      ko: "모기지 / 주택 담보 대출"
+    gender: f
+    notes:
+      en: "eine Hypothek aufnehmen = to take out a mortgage"
+      ko: "eine Hypothek aufnehmen = 모기지를 받다"
+  - german: "der Zinssatz, -sätze"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: m
+    notes:
+      en: "ein niedriger Zinssatz = a low interest rate"
+      ko: "ein niedriger Zinssatz = 낮은 이자율"
+  - german: "die Anzahlung, -en"
+    translation:
+      en: "down payment"
+      ko: "계약금"
+    gender: f
+    notes:
+      en: "eine Anzahlung leisten = to make a down payment"
+      ko: "eine Anzahlung leisten = 계약금을 내다"
+  - german: "der Kaufvertrag, -verträge"
+    translation:
+      en: "purchase contract"
+      ko: "매매 계약서"
+    gender: m
+    notes:
+      en: "den Kaufvertrag beim Notar unterzeichnen"
+      ko: "공증인 앞에서 매매 계약서에 서명하다"
+  - german: "die Besichtigung, -en"
+    translation:
+      en: "viewing / inspection"
+      ko: "견학 / 현장 방문"
+    gender: f
+    notes:
+      en: "eine Besichtigung vereinbaren = to arrange a viewing"
+      ko: "eine Besichtigung vereinbaren = 현장 방문을 예약하다"
+  - german: "die Maklerprovision, -en"
+    translation:
+      en: "broker's commission"
+      ko: "중개 수수료"
+    gender: f
+    notes:
+      en: "die Maklerprovision beträgt 3-7%"
+      ko: "중개 수수료는 3-7%이다"
+  - german: "die Nebenerwerbskosten (pl.)"
+    translation:
+      en: "ancillary acquisition costs"
+      ko: "부대 취득 비용"
+    gender: f
+    notes:
+      en: "Notar, Grundbuch, Makler, Grunderwerbsteuer"
+      ko: "공증인, 토지대장, 중개인, 취득세"
+  - german: "das Wohngeld"
+    translation:
+      en: "housing benefit"
+      ko: "주거 수당"
+    gender: n
+    notes:
+      en: "Wohngeld beantragen = to apply for housing benefit"
+      ko: "Wohngeld beantragen = 주거 수당을 신청하다"
+  - german: "die Finanzierungszusage, -n"
+    translation:
+      en: "financing confirmation"
+      ko: "대출 확인서"
+    gender: f
+    notes:
+      en: "eine Finanzierungszusage der Bank"
+      ko: "은행의 대출 확인서"
+  - german: "das Objekt, -e"
+    translation:
+      en: "property (listing)"
+      ko: "매물"
+    gender: n
+    notes:
+      en: "ein interessantes Objekt = an interesting property"
+      ko: "ein interessantes Objekt = 흥미로운 매물"
+  - german: "die Immobilienblase, -n"
+    translation:
+      en: "property bubble"
+      ko: "부동산 거품"
+    gender: f
+    notes:
+      en: "eine Immobilienblase platzt = a property bubble bursts"
+      ko: "eine Immobilienblase platzt = 부동산 거품이 꺼진다"
+- id: heimwerken
+  label:
+    en: "DIY and Home Improvement (Heimwerken)"
+    ko: "DIY와 집수리 (Heimwerken)"
+  type: vocabulary
+  words:
+  - german: "renovieren"
+    translation:
+      en: "to renovate"
+      ko: "리모델링하다"
+    gender: null
+    notes:
+      en: "die Renovierung = renovation"
+      ko: "die Renovierung = 리모델링"
+  - german: "streichen"
+    translation:
+      en: "to paint (walls)"
+      ko: "페인트칠하다"
+    gender: null
+    notes:
+      en: "die Wände streichen = to paint the walls"
+      ko: "die Wände streichen = 벽을 칠하다"
+  - german: "tapezieren"
+    translation:
+      en: "to wallpaper"
+      ko: "벽지를 바르다"
+    gender: null
+    notes:
+      en: "die Tapete = wallpaper"
+      ko: "die Tapete = 벽지"
+  - german: "bohren"
+    translation:
+      en: "to drill"
+      ko: "드릴로 구멍을 뚫다"
+    gender: null
+    notes:
+      en: "die Bohrmaschine = drill"
+      ko: "die Bohrmaschine = 드릴"
+  - german: "der Baumarkt, -märkte"
+    translation:
+      en: "hardware store / DIY store"
+      ko: "철물점 / DIY 매장"
+    gender: m
+    notes:
+      en: "zum Baumarkt fahren = to go to the hardware store"
+      ko: "zum Baumarkt fahren = 철물점에 가다"
+  - german: "die Farbe, -n"
+    translation:
+      en: "paint / color"
+      ko: "페인트 / 색상"
+    gender: f
+    notes:
+      en: "die Wandfarbe = wall paint"
+      ko: "die Wandfarbe = 벽 페인트"
+  - german: "der Bodenbelag, -beläge"
+    translation:
+      en: "flooring"
+      ko: "바닥재"
+    gender: m
+    notes:
+      en: "das Parkett = parquet; das Laminat = laminate"
+      ko: "das Parkett = 마루; das Laminat = 라미네이트"
+  - german: "der Handwerker, -"
+    translation:
+      en: "craftsman / tradesman"
+      ko: "기술자 / 수리공"
+    gender: m
+    notes:
+      en: "einen Handwerker rufen = to call a tradesman"
+      ko: "einen Handwerker rufen = 수리공을 부르다"
+  - german: "die Reparatur, -en"
+    translation:
+      en: "repair"
+      ko: "수리"
+    gender: f
+    notes:
+      en: "eine Reparatur durchführen = to carry out a repair"
+      ko: "eine Reparatur durchführen = 수리를 하다"
+  - german: "der Wasserhahn, -hähne"
+    translation:
+      en: "faucet / tap"
+      ko: "수도꼭지"
+    gender: m
+    notes:
+      en: "der Wasserhahn tropft = the faucet is dripping"
+      ko: "der Wasserhahn tropft = 수도꼭지가 새고 있다"
+  - german: "einrichten"
+    translation:
+      en: "to furnish / to set up"
+      ko: "꾸미다 / 가구를 놓다"
+    gender: null
+    notes:
+      en: "die Wohnung einrichten = to furnish the apartment"
+      ko: "die Wohnung einrichten = 아파트를 꾸미다"
+  - german: "umziehen"
+    translation:
+      en: "to move (house)"
+      ko: "이사하다"
+    gender: null
+    notes:
+      en: "der Umzug = move; die Umzugsfirma = moving company"
+      ko: "der Umzug = 이사; die Umzugsfirma = 이사 업체"
+  - german: "die Steckdose, -n"
+    translation:
+      en: "electrical outlet / socket"
+      ko: "콘센트"
+    gender: f
+    notes:
+      en: "den Stecker in die Steckdose stecken = to plug in"
+      ko: "den Stecker in die Steckdose stecken = 플러그를 꽂다"
+  - german: "der Schraubenzieher, -"
+    translation:
+      en: "screwdriver"
+      ko: "드라이버"
+    gender: m
+    notes:
+      en: "Also called der Schraubendreher"
+      ko: "der Schraubendreher라고도 함"
+  - german: "der Hammer, Hämmer"
+    translation:
+      en: "hammer"
+      ko: "망치"
+    gender: m
+    notes:
+      en: "einen Nagel einschlagen = to hammer in a nail"
+      ko: "einen Nagel einschlagen = 못을 박다"
+  - german: "die Zange, -n"
+    translation:
+      en: "pliers"
+      ko: "펜치"
+    gender: f
+    notes:
+      en: "die Kombizange = combination pliers"
+      ko: "die Kombizange = 콤비 펜치"
+  - german: "die Schraube, -n"
+    translation:
+      en: "screw"
+      ko: "나사"
+    gender: f
+    notes:
+      en: "eine Schraube festziehen = to tighten a screw"
+      ko: "eine Schraube festziehen = 나사를 조이다"
+  - german: "der Dübel, -"
+    translation:
+      en: "wall plug / anchor"
+      ko: "벽 앵커"
+    gender: m
+    notes:
+      en: "einen Dübel setzen = to insert a wall plug"
+      ko: "einen Dübel setzen = 벽 앵커를 넣다"
+  - german: "abdichten"
+    translation:
+      en: "to seal / to waterproof"
+      ko: "밀봉하다 / 방수 처리하다"
+    gender: null
+    notes:
+      en: "Fenster abdichten = to seal windows"
+      ko: "Fenster abdichten = 창문을 밀봉하다"
+  - german: "der Schimmel"
+    translation:
+      en: "mold"
+      ko: "곰팡이"
+    gender: m
+    notes:
+      en: "Schimmel in der Wohnung = mold in the apartment"
+      ko: "Schimmel in der Wohnung = 아파트의 곰팡이"
+  - german: "der Fliesenleger, -"
+    translation:
+      en: "tiler"
+      ko: "타일 시공자"
+    gender: m
+    notes:
+      en: "den Fliesenleger beauftragen = to hire a tiler"
+      ko: "den Fliesenleger beauftragen = 타일 시공자를 고용하다"
+  - german: "die Fliese, -n"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: f
+    notes:
+      en: "Fliesen verlegen = to lay tiles"
+      ko: "Fliesen verlegen = 타일을 시공하다"
+  - german: "der Elektriker, -"
+    translation:
+      en: "electrician"
+      ko: "전기 기술자"
+    gender: m
+    notes:
+      en: "den Elektriker rufen = to call an electrician"
+      ko: "den Elektriker rufen = 전기 기술자를 부르다"
+  - german: "der Installateur, -e"
+    translation:
+      en: "plumber"
+      ko: "배관공"
+    gender: m
+    notes:
+      en: "den Installateur bestellen = to order a plumber"
+      ko: "den Installateur bestellen = 배관공을 부르다"
+  - german: "der Putz"
+    translation:
+      en: "plaster / render"
+      ko: "회반죽 / 미장"
+    gender: m
+    notes:
+      en: "den Putz erneuern = to renew the plaster"
+      ko: "den Putz erneuern = 회반죽을 새로 바르다"
+  - german: "die Dämmung, -en"
+    translation:
+      en: "insulation"
+      ko: "단열재"
+    gender: f
+    notes:
+      en: "die Wärmedämmung = thermal insulation"
+      ko: "die Wärmedämmung = 단열재"
+- id: wohnungssuche
+  label:
+    en: "Apartment Hunting (Wohnungssuche)"
+    ko: "집 찾기 (Wohnungssuche)"
+  type: vocabulary
+  words:
+  - german: "die Wohnungssuche"
+    translation:
+      en: "apartment search"
+      ko: "집 찾기"
+    gender: f
+    notes:
+      en: "auf Wohnungssuche sein = to be looking for an apartment"
+      ko: "auf Wohnungssuche sein = 집을 찾고 있다"
+  - german: "die Lage, -n"
+    translation:
+      en: "location"
+      ko: "위치 / 입지"
+    gender: f
+    notes:
+      en: "eine gute Lage = a good location"
+      ko: "eine gute Lage = 좋은 위치"
+  - german: "die Anbindung, -en"
+    translation:
+      en: "transport connection"
+      ko: "교통 연결"
+    gender: f
+    notes:
+      en: "gute Verkehrsanbindung = good transport links"
+      ko: "gute Verkehrsanbindung = 좋은 교통 연결"
+  - german: "der Immobilienmakler, -"
+    translation:
+      en: "real estate agent"
+      ko: "부동산 중개업자"
+    gender: m
+    notes:
+      en: "die Immobilienmaklerin = female real estate agent"
+      ko: "die Immobilienmaklerin = 여성 부동산 중개업자"
+  - german: "die Wohnfläche, -n"
+    translation:
+      en: "living space / floor area"
+      ko: "주거 면적"
+    gender: f
+    notes:
+      en: "80 qm Wohnfläche = 80 square meters of living space"
+      ko: "80 qm Wohnfläche = 80평방미터 주거 면적"
+  - german: "der Grundriss, -e"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: m
+    notes:
+      en: "den Grundriss anschauen = to look at the floor plan"
+      ko: "den Grundriss anschauen = 평면도를 보다"
+  - german: "die Zimmeranzahl"
+    translation:
+      en: "number of rooms"
+      ko: "방 수"
+    gender: f
+    notes:
+      en: "eine 3-Zimmer-Wohnung = a 3-room apartment"
+      ko: "eine 3-Zimmer-Wohnung = 3개 방 아파트"
+  - german: "bezugsfertig"
+    translation:
+      en: "ready to move in"
+      ko: "입주 가능한"
+    gender: null
+    notes:
+      en: "ab sofort bezugsfertig = available immediately"
+      ko: "ab sofort bezugsfertig = 즉시 입주 가능"
+  - german: "möbliert"
+    translation:
+      en: "furnished"
+      ko: "가구 비치된"
+    gender: null
+    notes:
+      en: "möbliert oder unmöbliert = furnished or unfurnished"
+      ko: "möbliert oder unmöbliert = 가구 포함 또는 미포함"
+  - german: "die Zwischenmiete, -n"
+    translation:
+      en: "sublet"
+      ko: "전대 / 단기 임대"
+    gender: f
+    notes:
+      en: "eine Wohnung zur Zwischenmiete = a sublet apartment"
+      ko: "eine Wohnung zur Zwischenmiete = 전대 아파트"
+  - german: "die WG (Wohngemeinschaft), -en"
+    translation:
+      en: "shared apartment"
+      ko: "공유 주거 / 셰어하우스"
+    gender: f
+    notes:
+      en: "in einer WG wohnen = to live in a shared apartment"
+      ko: "in einer WG wohnen = 공유 주거에 살다"
+  - german: "die Provision, -en"
+    translation:
+      en: "commission / brokerage fee"
+      ko: "중개 수수료"
+    gender: f
+    notes:
+      en: "provisionsfrei = commission-free"
+      ko: "provisionsfrei = 중개 수수료 없는"
+  - german: "die Selbstauskunft, -auskünfte"
+    translation:
+      en: "self-disclosure form"
+      ko: "자기 소개서 / 정보 양식"
+    gender: f
+    notes:
+      en: "Mieter füllen eine Selbstauskunft aus"
+      ko: "세입자가 자기 소개서를 작성한다"
+  - german: "die Genossenschaftswohnung, -en"
+    translation:
+      en: "cooperative housing"
+      ko: "협동 주택"
+    gender: f
+    notes:
+      en: "eine Wohnung von einer Wohnungsbaugenossenschaft"
+      ko: "주택 협동조합의 아파트"
+  - german: "die Einweihungsfeier, -n"
+    translation:
+      en: "housewarming party"
+      ko: "집들이"
+    gender: f
+    notes:
+      en: "eine Einweihungsfeier veranstalten = to throw a housewarming"
+      ko: "eine Einweihungsfeier veranstalten = 집들이를 하다"
+  - german: "barrierefrei"
+    translation:
+      en: "wheelchair accessible / barrier-free"
+      ko: "장애인 접근 가능한"
+    gender: null
+    notes:
+      en: "eine barrierefreie Wohnung = an accessible apartment"
+      ko: "eine barrierefreie Wohnung = 장애인 접근 가능한 아파트"
+  - german: "der Mieterschutz"
+    translation:
+      en: "tenant protection"
+      ko: "세입자 보호"
+    gender: m
+    notes:
+      en: "der Mieterschutzbund = tenant protection association"
+      ko: "der Mieterschutzbund = 세입자 보호 협회"
+  - german: "die Wohnungsnot"
+    translation:
+      en: "housing shortage"
+      ko: "주택난"
+    gender: f
+    notes:
+      en: "die Wohnungsnot in Großstädten = housing shortage in big cities"
+      ko: "die Wohnungsnot in Großstädten = 대도시의 주택난"
+  - german: "die Betriebskosten (pl.)"
+    translation:
+      en: "operating costs"
+      ko: "운영 비용"
+    gender: f
+    notes:
+      en: "die jährliche Betriebskostenabrechnung = annual operating cost statement"
+      ko: "die jährliche Betriebskostenabrechnung = 연간 운영비 정산서"
+  - german: "der Hausmeister, -"
+    translation:
+      en: "building caretaker / janitor"
+      ko: "건물 관리인"
+    gender: m
+    notes:
+      en: "der Hausmeisterservice = caretaker service"
+      ko: "der Hausmeisterservice = 건물 관리 서비스"
+  - german: "die Hausordnung, -en"
+    translation:
+      en: "house rules"
+      ko: "주택 규칙"
+    gender: f
+    notes:
+      en: "die Ruhezeiten einhalten = to observe quiet hours"
+      ko: "die Ruhezeiten einhalten = 정숙 시간을 지키다"
+  - german: "die Wohnungsübergabe, -n"
+    translation:
+      en: "apartment handover"
+      ko: "아파트 인수인계"
+    gender: f
+    notes:
+      en: "das Übergabeprotokoll = handover report"
+      ko: "das Übergabeprotokoll = 인수인계 보고서"
+  - german: "die Renovierungspflicht"
+    translation:
+      en: "obligation to renovate"
+      ko: "리모델링 의무"
+    gender: f
+    notes:
+      en: "Schönheitsreparaturen = cosmetic repairs (often required when moving out)"
+      ko: "Schönheitsreparaturen = 미관 보수 (퇴거 시 종종 필요)"
+  - german: "der Wohnungsmarkt, -märkte"
+    translation:
+      en: "housing market"
+      ko: "주택 시장"
+    gender: m
+    notes:
+      en: "ein angespannter Wohnungsmarkt = a tight housing market"
+      ko: "ein angespannter Wohnungsmarkt = 빡빡한 주택 시장"
+  - german: "die Gewerbeimmobilie, -n"
+    translation:
+      en: "commercial property"
+      ko: "상업용 부동산"
+    gender: f
+    notes:
+      en: "Büro- und Gewerbeimmobilien = office and commercial properties"
+      ko: "Büro- und Gewerbeimmobilien = 사무실 및 상업용 부동산"
+  - german: "der Mieterschutzbund, -bünde"
+    translation:
+      en: "tenants' association"
+      ko: "세입자 보호 연합"
+    gender: m
+    notes:
+      en: "dem Mieterschutzbund beitreten = to join the tenants' association"
+      ko: "dem Mieterschutzbund beitreten = 세입자 보호 연합에 가입하다"
+  - german: "die Nachbarschaft, -en"
+    translation:
+      en: "neighborhood"
+      ko: "이웃 / 동네"
+    gender: f
+    notes:
+      en: "eine ruhige Nachbarschaft = a quiet neighborhood"
+      ko: "eine ruhige Nachbarschaft = 조용한 동네"
+  - german: "der Wohnberechtigungsschein, -e"
+    translation:
+      en: "housing entitlement certificate (WBS)"
+      ko: "주거 자격 증명서 (WBS)"
+    gender: m
+    notes:
+      en: "Required for social housing in Germany"
+      ko: "독일에서 공공 임대 주택에 필요"
+  - german: "die Staffelmiete, -n"
+    translation:
+      en: "graduated rent"
+      ko: "단계적 임대료"
+    gender: f
+    notes:
+      en: "die Miete steigt jährlich um einen festen Betrag"
+      ko: "임대료가 매년 고정 금액만큼 인상"
+  - german: "die Indexmiete, -n"
+    translation:
+      en: "index-linked rent"
+      ko: "물가 연동 임대료"
+    gender: f
+    notes:
+      en: "die Miete ist an den Verbraucherpreisindex gekoppelt"
+      ko: "임대료가 소비자물가지수에 연동"
+  - german: "sanieren"
+    translation:
+      en: "to refurbish / to renovate (building)"
+      ko: "전면 보수하다"
+    gender: null
+    notes:
+      en: "die Sanierung = refurbishment; energetische Sanierung = energy-efficient renovation"
+      ko: "die Sanierung = 전면 보수; energetische Sanierung = 에너지 효율 보수"
+  - german: "der Mietpreisdeckel"
+    translation:
+      en: "rent cap"
+      ko: "임대료 상한제"
+    gender: m
+    notes:
+      en: "der Berliner Mietendeckel = Berlin's rent cap (controversial policy)"
+      ko: "der Berliner Mietendeckel = 베를린 임대료 상한제 (논란이 된 정책)"
+  - german: "die Hausverwaltung, -en"
+    translation:
+      en: "property management"
+      ko: "건물 관리"
+    gender: f
+    notes:
+      en: "die Hausverwaltung kontaktieren = to contact property management"
+      ko: "die Hausverwaltung kontaktieren = 건물 관리에 연락하다"
+  - german: "die Nebenkostenpauschale, -n"
+    translation:
+      en: "flat-rate utility charge"
+      ko: "관리비 정액제"
+    gender: f
+    notes:
+      en: "eine monatliche Pauschale für Nebenkosten"
+      ko: "월별 관리비 정액 요금"
+  - german: "der Quadratmeterpreis, -e"
+    translation:
+      en: "price per square meter"
+      ko: "평방미터당 가격"
+    gender: m
+    notes:
+      en: "der durchschnittliche Quadratmeterpreis = average price per sqm"
+      ko: "der durchschnittliche Quadratmeterpreis = 평방미터당 평균 가격"
+  - german: "die Baugenehmigung, -en"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: f
+    notes:
+      en: "eine Baugenehmigung beantragen = to apply for a building permit"
+      ko: "eine Baugenehmigung beantragen = 건축 허가를 신청하다"
+  - german: "die Zwangsversteigerung, -en"
+    translation:
+      en: "forced auction / foreclosure"
+      ko: "경매 / 강제 매각"
+    gender: f
+    notes:
+      en: "eine Immobilie wird zwangsversteigert"
+      ko: "부동산이 강제 경매에 부쳐진다"
+  - german: "die Tilgung, -en"
+    translation:
+      en: "loan repayment / amortization"
+      ko: "대출 상환"
+    gender: f
+    notes:
+      en: "die monatliche Tilgungsrate = monthly repayment installment"
+      ko: "die monatliche Tilgungsrate = 월별 상환 금액"
+  - german: "der Sachverständige, -n"
+    translation:
+      en: "expert / certified surveyor"
+      ko: "전문 감정인"
+    gender: m
+    notes:
+      en: "einen Sachverständigen beauftragen = to hire an expert"
+      ko: "einen Sachverständigen beauftragen = 전문 감정인을 고용하다"
+  - german: "die Wärmedämmung, -en"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: f
+    notes:
+      en: "die Wärmedämmung verbessern = to improve thermal insulation"
+      ko: "die Wärmedämmung verbessern = 단열을 개선하다"
+  - german: "die Nebenkostenvorauszahlung, -en"
+    translation:
+      en: "utility advance payment"
+      ko: "관리비 선납금"
+    gender: f
+    notes:
+      en: "die monatliche Vorauszahlung auf die Nebenkosten"
+      ko: "관리비에 대한 월별 선납금"
+- id: einrichtung_moebel
+  label:
+    en: "Furnishing and Furniture (Einrichtung und Möbel)"
+    ko: "가구와 인테리어 (Einrichtung und Möbel)"
+  type: vocabulary
+  words:
+  - german: "die Einrichtung, -en"
+    translation:
+      en: "furnishing / decor"
+      ko: "인테리어 / 가구 배치"
+    gender: f
+    notes:
+      en: "die Inneneinrichtung = interior design"
+      ko: "die Inneneinrichtung = 인테리어 디자인"
+  - german: "der Schrank, Schränke"
+    translation:
+      en: "wardrobe / cabinet"
+      ko: "옷장 / 캐비닛"
+    gender: m
+    notes:
+      en: "der Kleiderschrank = wardrobe; der Küchenschrank = kitchen cabinet"
+      ko: "der Kleiderschrank = 옷장; der Küchenschrank = 주방 캐비닛"
+  - german: "das Regal, -e"
+    translation:
+      en: "shelf / bookshelf"
+      ko: "선반 / 책장"
+    gender: n
+    notes:
+      en: "das Bücherregal = bookshelf"
+      ko: "das Bücherregal = 책장"
+  - german: "die Kommode, -n"
+    translation:
+      en: "dresser / chest of drawers"
+      ko: "서랍장"
+    gender: f
+    notes:
+      en: "eine Kommode mit Schubladen = a dresser with drawers"
+      ko: "eine Kommode mit Schubladen = 서랍이 달린 서랍장"
+  - german: "der Teppich, -e"
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 러그"
+    gender: m
+    notes:
+      en: "den Teppich saugen = to vacuum the carpet"
+      ko: "den Teppich saugen = 카펫을 청소기로 밀다"
+  - german: "die Gardine, -n"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: f
+    notes:
+      en: "die Vorhänge = curtains (heavier)"
+      ko: "die Vorhänge = 커튼 (더 두꺼운)"
+  - german: "der Rollladen, -läden"
+    translation:
+      en: "roller shutter / blind"
+      ko: "롤 셔터"
+    gender: m
+    notes:
+      en: "den Rollladen herunterlassen = to lower the shutter"
+      ko: "den Rollladen herunterlassen = 셔터를 내리다"
+  - german: "die Lampe, -n"
+    translation:
+      en: "lamp"
+      ko: "램프 / 조명"
+    gender: f
+    notes:
+      en: "die Stehlampe = floor lamp; die Deckenlampe = ceiling light"
+      ko: "die Stehlampe = 스탠드; die Deckenlampe = 천장 조명"
+  - german: "der Spiegel, -"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+    notes:
+      en: "der Wandspiegel = wall mirror"
+      ko: "der Wandspiegel = 벽 거울"
+  - german: "die Matratze, -n"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: f
+    notes:
+      en: "eine neue Matratze kaufen = to buy a new mattress"
+      ko: "eine neue Matratze kaufen = 새 매트리스를 사다"
+  - german: "das Bettgestell, -e"
+    translation:
+      en: "bed frame"
+      ko: "침대 프레임"
+    gender: n
+    notes:
+      en: "ein Bettgestell aus Holz = a wooden bed frame"
+      ko: "ein Bettgestell aus Holz = 나무 침대 프레임"
+  - german: "der Esstisch, -e"
+    translation:
+      en: "dining table"
+      ko: "식탁"
+    gender: m
+    notes:
+      en: "am Esstisch sitzen = to sit at the dining table"
+      ko: "am Esstisch sitzen = 식탁에 앉다"
+  - german: "das Sofa, -s"
+    translation:
+      en: "sofa / couch"
+      ko: "소파"
+    gender: n
+    notes:
+      en: "die Couch = couch (synonym)"
+      ko: "die Couch = 카우치 (동의어)"
+  - german: "der Couchtisch, -e"
+    translation:
+      en: "coffee table"
+      ko: "소파 테이블"
+    gender: m
+    notes:
+      en: "den Couchtisch dekorieren = to decorate the coffee table"
+      ko: "den Couchtisch dekorieren = 소파 테이블을 꾸미다"
+  - german: "die Spülmaschine, -n"
+    translation:
+      en: "dishwasher"
+      ko: "식기 세척기"
+    gender: f
+    notes:
+      en: "die Spülmaschine einräumen = to load the dishwasher"
+      ko: "die Spülmaschine einräumen = 식기 세척기에 넣다"
+  - german: "die Waschmaschine, -n"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+    notes:
+      en: "die Waschmaschine anstellen = to turn on the washing machine"
+      ko: "die Waschmaschine anstellen = 세탁기를 돌리다"
+  - german: "der Trockner, -"
+    translation:
+      en: "dryer"
+      ko: "건조기"
+    gender: m
+    notes:
+      en: "der Wäschetrockner = clothes dryer"
+      ko: "der Wäschetrockner = 의류 건조기"
+  - german: "der Staubsauger, -"
+    translation:
+      en: "vacuum cleaner"
+      ko: "진공 청소기"
+    gender: m
+    notes:
+      en: "staubsaugen = to vacuum"
+      ko: "staubsaugen = 청소기를 돌리다"
+  - german: "die Mikrowelle, -n"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: f
+    notes:
+      en: "in der Mikrowelle erwärmen = to heat in the microwave"
+      ko: "in der Mikrowelle erwärmen = 전자레인지에서 데우다"
+  - german: "der Herd, -e"
+    translation:
+      en: "stove / cooktop"
+      ko: "가스레인지 / 인덕션"
+    gender: m
+    notes:
+      en: "der Induktionsherd = induction cooktop"
+      ko: "der Induktionsherd = 인덕션 쿡탑"
+  - german: "der Kühlschrank, -schränke"
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: m
+    notes:
+      en: "den Kühlschrank abtauen = to defrost the fridge"
+      ko: "den Kühlschrank abtauen = 냉장고를 성에 제거하다"
+  - german: "die Tiefkühltruhe, -n"
+    translation:
+      en: "chest freezer"
+      ko: "냉동고"
+    gender: f
+    notes:
+      en: "Lebensmittel in der Tiefkühltruhe lagern"
+      ko: "냉동고에 식품을 보관하다"
+  - german: "die Jalousie, -n"
+    translation:
+      en: "venetian blind"
+      ko: "블라인드"
+    gender: f
+    notes:
+      en: "die Jalousie hochziehen = to raise the blind"
+      ko: "die Jalousie hochziehen = 블라인드를 올리다"
+  - german: "der Mülleimer, -"
+    translation:
+      en: "trash can / waste bin"
+      ko: "쓰레기통"
+    gender: m
+    notes:
+      en: "den Mülleimer leeren = to empty the trash can"
+      ko: "den Mülleimer leeren = 쓰레기통을 비우다"
+  - german: "die Arbeitsplatte, -n"
+    translation:
+      en: "countertop / worktop"
+      ko: "조리대"
+    gender: f
+    notes:
+      en: "die Küchenarbeitsplatte = kitchen countertop"
+      ko: "die Küchenarbeitsplatte = 주방 조리대"

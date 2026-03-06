@@ -1,0 +1,1007 @@
+lesson: "sup_B1_Cooking_and_Recipes"
+lesson_number: 148
+cefr: B1
+type: supplementary
+topic: "Cooking and Recipes"
+categories:
+- id: cooking_techniques
+  label:
+    en: "Cooking Techniques"
+    ko: "조리법"
+  type: vocabulary
+  words:
+  - spanish: "hervir"
+    translation:
+      en: "to boil"
+      ko: "끓이다"
+    gender: null
+  - spanish: "freír"
+    translation:
+      en: "to fry"
+      ko: "튀기다"
+    gender: null
+  - spanish: "asar"
+    translation:
+      en: "to roast / to grill"
+      ko: "굽다 (오븐/그릴)"
+    gender: null
+  - spanish: "hornear"
+    translation:
+      en: "to bake"
+      ko: "오븐에 굽다"
+    gender: null
+  - spanish: "saltear"
+    translation:
+      en: "to saut&eacute;"
+      ko: "볶다"
+    gender: null
+  - spanish: "guisar"
+    translation:
+      en: "to stew / to braise"
+      ko: "조리다 / 끓이다"
+    gender: null
+  - spanish: "cocer"
+    translation:
+      en: "to cook / to boil"
+      ko: "삶다 / 익히다"
+    gender: null
+  - spanish: "cocer al vapor"
+    translation:
+      en: "to steam"
+      ko: "찌다"
+    gender: null
+  - spanish: "gratinar"
+    translation:
+      en: "to gratin / to broil"
+      ko: "그라탱하다 / 윗면을 굽다"
+    gender: null
+  - spanish: "marinar"
+    translation:
+      en: "to marinate"
+      ko: "재우다 / 절이다"
+    gender: null
+  - spanish: "ahumar"
+    translation:
+      en: "to smoke (food)"
+      ko: "훈제하다"
+    gender: null
+  - spanish: "empanar"
+    translation:
+      en: "to bread / to coat in breadcrumbs"
+      ko: "빵가루를 묻히다"
+    gender: null
+  - spanish: "rebozar"
+    translation:
+      en: "to batter / to coat in flour"
+      ko: "반죽을 입히다"
+    gender: null
+  - spanish: "flamear"
+    translation:
+      en: "to flamb&eacute;"
+      ko: "플랑베하다"
+    gender: null
+  - spanish: "escalfar"
+    translation:
+      en: "to poach"
+      ko: "수란하다 / 데치다"
+    gender: null
+  - spanish: "macerar"
+    translation:
+      en: "to macerate / to soak"
+      ko: "절이다 / 담그다"
+    gender: null
+  - spanish: "a fuego lento"
+    translation:
+      en: "on low heat / to simmer"
+      ko: "약한 불로"
+    gender: null
+  - spanish: "a fuego fuerte"
+    translation:
+      en: "on high heat"
+      ko: "강한 불로"
+    gender: null
+  - spanish: "al horno"
+    translation:
+      en: "in the oven / baked"
+      ko: "오븐에서 / 구운"
+    gender: null
+  - spanish: "a la plancha"
+    translation:
+      en: "griddled / grilled flat"
+      ko: "철판에 구운"
+    gender: null
+  - spanish: "al vapor"
+    translation:
+      en: "steamed"
+      ko: "찐"
+    gender: null
+  - spanish: "frito"
+    translation:
+      en: "fried"
+      ko: "튀긴"
+    gender: null
+  - spanish: "crudo"
+    translation:
+      en: "raw"
+      ko: "날것의"
+    gender: null
+  - spanish: "cocido"
+    translation:
+      en: "cooked / boiled"
+      ko: "익힌 / 삶은"
+    gender: null
+- id: ingredients
+  label:
+    en: "Ingredients"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - spanish: "el ingrediente"
+    translation:
+      en: "ingredient"
+      ko: "재료"
+    gender: m
+  - spanish: "la harina"
+    translation:
+      en: "flour"
+      ko: "밀가루"
+    gender: f
+  - spanish: "el azúcar"
+    translation:
+      en: "sugar"
+      ko: "설탕"
+    gender: m
+    notes:
+      en: "Can be masculine or feminine; masculine more common"
+      ko: "남성형/여성형 모두 가능; 남성형이 더 일반적"
+  - spanish: "la sal"
+    translation:
+      en: "salt"
+      ko: "소금"
+    gender: f
+  - spanish: "la pimienta"
+    translation:
+      en: "pepper (spice)"
+      ko: "후추"
+    gender: f
+  - spanish: "el aceite de oliva"
+    translation:
+      en: "olive oil"
+      ko: "올리브유"
+    gender: m
+  - spanish: "la mantequilla"
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: f
+  - spanish: "el vinagre"
+    translation:
+      en: "vinegar"
+      ko: "식초"
+    gender: m
+  - spanish: "la levadura"
+    translation:
+      en: "yeast / baking powder"
+      ko: "효모 / 베이킹 파우더"
+    gender: f
+  - spanish: "la nata"
+    translation:
+      en: "cream"
+      ko: "크림"
+    gender: f
+    notes:
+      en: "In Latin America: la crema"
+      ko: "라틴아메리카: la crema"
+  - spanish: "el caldo"
+    translation:
+      en: "broth / stock"
+      ko: "육수"
+    gender: m
+  - spanish: "la salsa"
+    translation:
+      en: "sauce"
+      ko: "소스"
+    gender: f
+  - spanish: "la especia"
+    translation:
+      en: "spice"
+      ko: "향신료"
+    gender: f
+  - spanish: "el ajo"
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: m
+  - spanish: "la cebolla"
+    translation:
+      en: "onion"
+      ko: "양파"
+    gender: f
+  - spanish: "el pimiento"
+    translation:
+      en: "bell pepper"
+      ko: "피망"
+    gender: m
+  - spanish: "el tomate"
+    translation:
+      en: "tomato"
+      ko: "토마토"
+    gender: m
+  - spanish: "el perejil"
+    translation:
+      en: "parsley"
+      ko: "파슬리"
+    gender: m
+  - spanish: "la albahaca"
+    translation:
+      en: "basil"
+      ko: "바질"
+    gender: f
+  - spanish: "el comino"
+    translation:
+      en: "cumin"
+      ko: "커민"
+    gender: m
+  - spanish: "el orégano"
+    translation:
+      en: "oregano"
+      ko: "오레가노"
+    gender: m
+  - spanish: "la canela"
+    translation:
+      en: "cinnamon"
+      ko: "계피"
+    gender: f
+  - spanish: "el pimentón"
+    translation:
+      en: "paprika"
+      ko: "파프리카 가루"
+    gender: m
+    notes:
+      en: "Can be dulce (sweet) or picante (hot)"
+      ko: "dulce (달콤한) 또는 picante (매운)로 구분"
+  - spanish: "la masa"
+    translation:
+      en: "dough / batter"
+      ko: "반죽"
+    gender: f
+  - spanish: "el huevo"
+    translation:
+      en: "egg"
+      ko: "달걀"
+    gender: m
+  - spanish: "la leche"
+    translation:
+      en: "milk"
+      ko: "우유"
+    gender: f
+  - spanish: "el queso"
+    translation:
+      en: "cheese"
+      ko: "치즈"
+    gender: m
+  - spanish: "el pan rallado"
+    translation:
+      en: "breadcrumbs"
+      ko: "빵가루"
+    gender: m
+  - spanish: "la maicena"
+    translation:
+      en: "cornstarch"
+      ko: "옥수수 전분"
+    gender: f
+- id: kitchen_tools
+  label:
+    en: "Kitchen Tools"
+    ko: "주방 도구"
+  type: vocabulary
+  words:
+  - spanish: "la sartén"
+    translation:
+      en: "frying pan"
+      ko: "프라이팬"
+    gender: f
+  - spanish: "la olla"
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: f
+  - spanish: "la cacerola"
+    translation:
+      en: "saucepan"
+      ko: "소스팬"
+    gender: f
+  - spanish: "el horno"
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: m
+  - spanish: "el microondas"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: m
+    notes:
+      en: "Invariable: el/los microondas"
+      ko: "단수/복수 형태 동일: el/los microondas"
+  - spanish: "la batidora"
+    translation:
+      en: "blender / mixer"
+      ko: "믹서기 / 블렌더"
+    gender: f
+  - spanish: "el cuchillo"
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: m
+  - spanish: "la tabla de cortar"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: f
+  - spanish: "el colador"
+    translation:
+      en: "strainer / colander"
+      ko: "체 / 거름망"
+    gender: m
+  - spanish: "la espátula"
+    translation:
+      en: "spatula"
+      ko: "주걱"
+    gender: f
+  - spanish: "el cucharón"
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: m
+  - spanish: "el rodillo"
+    translation:
+      en: "rolling pin"
+      ko: "밀대"
+    gender: m
+  - spanish: "el pelador"
+    translation:
+      en: "peeler"
+      ko: "필러 / 껍질 벗기는 기구"
+    gender: m
+  - spanish: "el rallador"
+    translation:
+      en: "grater"
+      ko: "강판"
+    gender: m
+  - spanish: "el molde"
+    translation:
+      en: "mold / baking pan"
+      ko: "틀 / 베이킹 팬"
+    gender: m
+  - spanish: "la bandeja"
+    translation:
+      en: "tray / baking sheet"
+      ko: "쟁반 / 오븐 트레이"
+    gender: f
+  - spanish: "el delantal"
+    translation:
+      en: "apron"
+      ko: "앞치마"
+    gender: m
+  - spanish: "la olla a presión"
+    translation:
+      en: "pressure cooker"
+      ko: "압력솥"
+    gender: f
+  - spanish: "el abrelatas"
+    translation:
+      en: "can opener"
+      ko: "캔 오프너"
+    gender: m
+    notes:
+      en: "Invariable: el/los abrelatas"
+      ko: "단수/복수 형태 동일: el/los abrelatas"
+  - spanish: "el sacacorchos"
+    translation:
+      en: "corkscrew"
+      ko: "코르크 스크류"
+    gender: m
+    notes:
+      en: "Invariable: el/los sacacorchos"
+      ko: "단수/복수 형태 동일: el/los sacacorchos"
+  - spanish: "las pinzas"
+    translation:
+      en: "tongs"
+      ko: "집게"
+    gender: f
+  - spanish: "el wok"
+    translation:
+      en: "wok"
+      ko: "웍"
+    gender: m
+- id: recipe_verbs
+  label:
+    en: "Recipe Verbs"
+    ko: "조리 동사"
+  type: vocabulary
+  words:
+  - spanish: "cortar"
+    translation:
+      en: "to cut"
+      ko: "자르다"
+    gender: null
+  - spanish: "picar"
+    translation:
+      en: "to chop / to mince"
+      ko: "다지다 / 잘게 썰다"
+    gender: null
+  - spanish: "pelar"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+  - spanish: "rallar"
+    translation:
+      en: "to grate"
+      ko: "갈다 / 강판에 갈다"
+    gender: null
+  - spanish: "mezclar"
+    translation:
+      en: "to mix"
+      ko: "섞다"
+    gender: null
+  - spanish: "batir"
+    translation:
+      en: "to beat / to whisk"
+      ko: "젓다 / 거품을 내다"
+    gender: null
+  - spanish: "remover"
+    translation:
+      en: "to stir"
+      ko: "저어주다"
+    gender: null
+  - spanish: "añadir"
+    translation:
+      en: "to add"
+      ko: "첨가하다"
+    gender: null
+  - spanish: "echar"
+    translation:
+      en: "to pour in / to add"
+      ko: "넣다 / 붓다"
+    gender: null
+  - spanish: "calentar"
+    translation:
+      en: "to heat / to warm up"
+      ko: "데우다"
+    gender: null
+  - spanish: "enfriar"
+    translation:
+      en: "to cool down"
+      ko: "식히다"
+    gender: null
+  - spanish: "congelar"
+    translation:
+      en: "to freeze"
+      ko: "얼리다"
+    gender: null
+  - spanish: "descongelar"
+    translation:
+      en: "to defrost / to thaw"
+      ko: "해동하다"
+    gender: null
+  - spanish: "sazonar"
+    translation:
+      en: "to season"
+      ko: "간을 하다"
+    gender: null
+  - spanish: "condimentar"
+    translation:
+      en: "to season / to spice"
+      ko: "양념하다"
+    gender: null
+  - spanish: "servir"
+    translation:
+      en: "to serve"
+      ko: "접시에 담다"
+    gender: null
+  - spanish: "decorar"
+    translation:
+      en: "to garnish / to decorate"
+      ko: "장식하다"
+    gender: null
+  - spanish: "medir"
+    translation:
+      en: "to measure"
+      ko: "계량하다"
+    gender: null
+  - spanish: "pesar"
+    translation:
+      en: "to weigh"
+      ko: "무게를 재다"
+    gender: null
+  - spanish: "escurrir"
+    translation:
+      en: "to drain"
+      ko: "물기를 빼다"
+    gender: null
+  - spanish: "triturar"
+    translation:
+      en: "to blend / to crush"
+      ko: "갈다 / 으깨다"
+    gender: null
+  - spanish: "amasar"
+    translation:
+      en: "to knead"
+      ko: "반죽하다"
+    gender: null
+  - spanish: "precalentar"
+    translation:
+      en: "to preheat"
+      ko: "예열하다"
+    gender: null
+  - spanish: "untar"
+    translation:
+      en: "to spread / to grease"
+      ko: "바르다 / 기름칠하다"
+    gender: null
+- id: tastes_and_textures
+  label:
+    en: "Tastes and Textures"
+    ko: "맛과 질감"
+  type: vocabulary
+  words:
+  - spanish: "dulce"
+    translation:
+      en: "sweet"
+      ko: "달콤한"
+    gender: null
+  - spanish: "salado"
+    translation:
+      en: "salty"
+      ko: "짠"
+    gender: null
+  - spanish: "amargo"
+    translation:
+      en: "bitter"
+      ko: "쓴"
+    gender: null
+  - spanish: "ácido"
+    translation:
+      en: "sour / acidic"
+      ko: "신"
+    gender: null
+  - spanish: "picante"
+    translation:
+      en: "spicy / hot"
+      ko: "매운"
+    gender: null
+  - spanish: "soso"
+    translation:
+      en: "bland / tasteless"
+      ko: "싱거운"
+    gender: null
+  - spanish: "sabroso"
+    translation:
+      en: "tasty / flavorful"
+      ko: "맛있는"
+    gender: null
+  - spanish: "delicioso"
+    translation:
+      en: "delicious"
+      ko: "맛있는"
+    gender: null
+  - spanish: "crujiente"
+    translation:
+      en: "crunchy / crispy"
+      ko: "바삭한"
+    gender: null
+  - spanish: "blando"
+    translation:
+      en: "soft"
+      ko: "부드러운"
+    gender: null
+  - spanish: "tierno"
+    translation:
+      en: "tender"
+      ko: "연한"
+    gender: null
+  - spanish: "jugoso"
+    translation:
+      en: "juicy"
+      ko: "즙이 많은"
+    gender: null
+  - spanish: "seco"
+    translation:
+      en: "dry"
+      ko: "건조한"
+    gender: null
+  - spanish: "cremoso"
+    translation:
+      en: "creamy"
+      ko: "크리미한"
+    gender: null
+  - spanish: "espeso"
+    translation:
+      en: "thick (liquid)"
+      ko: "걸쭉한"
+    gender: null
+  - spanish: "ligero"
+    translation:
+      en: "light (food)"
+      ko: "가벼운"
+    gender: null
+  - spanish: "pesado"
+    translation:
+      en: "heavy (food)"
+      ko: "무거운 / 느끼한"
+    gender: null
+  - spanish: "quemado"
+    translation:
+      en: "burnt"
+      ko: "탄"
+    gender: null
+  - spanish: "agridulce"
+    translation:
+      en: "sweet and sour"
+      ko: "새콤달콤한"
+    gender: null
+  - spanish: "la porción"
+    translation:
+      en: "portion / serving"
+      ko: "1인분"
+    gender: f
+  - spanish: "la receta"
+    translation:
+      en: "recipe"
+      ko: "레시피"
+    gender: f
+  - spanish: "la ración"
+    translation:
+      en: "serving / portion"
+      ko: "1인분 / 분량"
+    gender: f
+    notes:
+      en: "In bars: a small plate of food"
+      ko: "바에서는 작은 접시 음식을 의미"
+  - spanish: "la cucharada"
+    translation:
+      en: "tablespoon (measurement)"
+      ko: "큰술"
+    gender: f
+  - spanish: "la cucharadita"
+    translation:
+      en: "teaspoon (measurement)"
+      ko: "작은술"
+    gender: f
+  - spanish: "la pizca"
+    translation:
+      en: "pinch (of salt)"
+      ko: "한 꼬집"
+    gender: f
+  - spanish: "un puñado"
+    translation:
+      en: "a handful"
+      ko: "한 줌"
+    gender: m
+  - spanish: "un chorro"
+    translation:
+      en: "a splash / a drizzle"
+      ko: "한 줄기 / 약간"
+    gender: m
+  - spanish: "al gusto"
+    translation:
+      en: "to taste"
+      ko: "기호에 따라"
+    gender: null
+  - spanish: "opcional"
+    translation:
+      en: "optional"
+      ko: "선택 사항"
+    gender: null
+  - spanish: "la guarnición"
+    translation:
+      en: "garnish / side dish"
+      ko: "곁들임 / 반찬"
+    gender: f
+  - spanish: "el entrante"
+    translation:
+      en: "appetizer / starter"
+      ko: "전채 / 에피타이저"
+    gender: m
+  - spanish: "el plato principal"
+    translation:
+      en: "main course"
+      ko: "메인 요리"
+    gender: m
+  - spanish: "el postre"
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: m
+  - spanish: "la tapa"
+    translation:
+      en: "tapa / small appetizer"
+      ko: "타파스 / 소량 안주"
+    gender: f
+    notes:
+      en: "Iconic small dishes from Spain"
+      ko: "스페인의 상징적인 소량 요리"
+  - spanish: "el pincho"
+    translation:
+      en: "skewer / small bite"
+      ko: "핀초 / 작은 꼬치"
+    gender: m
+    notes:
+      en: "Common in northern Spain (Basque Country)"
+      ko: "스페인 북부 (바스크 지방)에서 흔함"
+  - spanish: "la cazuela"
+    translation:
+      en: "casserole / clay pot"
+      ko: "캐서롤 / 뚝배기"
+    gender: f
+  - spanish: "el paellero"
+    translation:
+      en: "paella pan"
+      ko: "파에야 팬"
+    gender: m
+  - spanish: "el mortero"
+    translation:
+      en: "mortar (and pestle)"
+      ko: "절구"
+    gender: m
+  - spanish: "la manga pastelera"
+    translation:
+      en: "piping bag"
+      ko: "짤주머니"
+    gender: f
+  - spanish: "el termómetro de cocina"
+    translation:
+      en: "cooking thermometer"
+      ko: "조리용 온도계"
+    gender: m
+  - spanish: "la báscula de cocina"
+    translation:
+      en: "kitchen scale"
+      ko: "주방 저울"
+    gender: f
+  - spanish: "el temporizador"
+    translation:
+      en: "timer"
+      ko: "타이머"
+    gender: m
+  - spanish: "la receta tradicional"
+    translation:
+      en: "traditional recipe"
+      ko: "전통 레시피"
+    gender: f
+  - spanish: "el libro de cocina"
+    translation:
+      en: "cookbook"
+      ko: "요리책"
+    gender: m
+  - spanish: "el chef"
+    translation:
+      en: "chef"
+      ko: "셰프"
+    gender: m
+  - spanish: "el cocinero"
+    translation:
+      en: "cook"
+      ko: "요리사"
+    gender: m
+    notes:
+      en: "la cocinera for female"
+      ko: "여성형은 la cocinera"
+  - spanish: "la gastronomía"
+    translation:
+      en: "gastronomy"
+      ko: "미식 / 요리학"
+    gender: f
+  - spanish: "el producto de temporada"
+    translation:
+      en: "seasonal product"
+      ko: "제철 재료"
+    gender: m
+  - spanish: "el producto local"
+    translation:
+      en: "local product"
+      ko: "지역 산물"
+    gender: m
+  - spanish: "la dieta mediterránea"
+    translation:
+      en: "Mediterranean diet"
+      ko: "지중해식 식단"
+    gender: f
+  - spanish: "vegetariano"
+    translation:
+      en: "vegetarian"
+      ko: "채식주의의"
+    gender: null
+  - spanish: "vegano"
+    translation:
+      en: "vegan"
+      ko: "비건"
+    gender: null
+  - spanish: "sin gluten"
+    translation:
+      en: "gluten-free"
+      ko: "글루텐 프리"
+    gender: null
+  - spanish: "la intolerancia alimentaria"
+    translation:
+      en: "food intolerance"
+      ko: "식품 불내증"
+    gender: f
+  - spanish: "la alergia alimentaria"
+    translation:
+      en: "food allergy"
+      ko: "식품 알레르기"
+    gender: f
+  - spanish: "el aceite de girasol"
+    translation:
+      en: "sunflower oil"
+      ko: "해바라기유"
+    gender: m
+  - spanish: "el coco rallado"
+    translation:
+      en: "shredded coconut"
+      ko: "코코넛 가루"
+    gender: m
+  - spanish: "la nuez moscada"
+    translation:
+      en: "nutmeg"
+      ko: "육두구"
+    gender: f
+  - spanish: "el jengibre"
+    translation:
+      en: "ginger"
+      ko: "생강"
+    gender: m
+  - spanish: "el azafrán"
+    translation:
+      en: "saffron"
+      ko: "사프란"
+    gender: m
+    notes:
+      en: "Key ingredient in paella"
+      ko: "파에야의 핵심 재료"
+  - spanish: "el laurel"
+    translation:
+      en: "bay leaf"
+      ko: "월계수 잎"
+    gender: m
+  - spanish: "el romero"
+    translation:
+      en: "rosemary"
+      ko: "로즈마리"
+    gender: m
+  - spanish: "el tomillo"
+    translation:
+      en: "thyme"
+      ko: "타임"
+    gender: m
+  - spanish: "la guindilla"
+    translation:
+      en: "chili pepper"
+      ko: "고추"
+    gender: f
+  - spanish: "el cebollino"
+    translation:
+      en: "chives"
+      ko: "쪽파 / 차이브"
+    gender: m
+  - spanish: "el cilantro"
+    translation:
+      en: "cilantro / coriander"
+      ko: "고수"
+    gender: m
+  - spanish: "la menta"
+    translation:
+      en: "mint"
+      ko: "민트"
+    gender: f
+  - spanish: "la salsa de soja"
+    translation:
+      en: "soy sauce"
+      ko: "간장"
+    gender: f
+  - spanish: "la mayonesa"
+    translation:
+      en: "mayonnaise"
+      ko: "마요네즈"
+    gender: f
+  - spanish: "la mostaza"
+    translation:
+      en: "mustard"
+      ko: "겨자"
+    gender: f
+  - spanish: "el ketchup"
+    translation:
+      en: "ketchup"
+      ko: "케첩"
+    gender: m
+  - spanish: "la nata montada"
+    translation:
+      en: "whipped cream"
+      ko: "휘핑크림"
+    gender: f
+  - spanish: "la mermelada"
+    translation:
+      en: "jam / marmalade"
+      ko: "잼"
+    gender: f
+  - spanish: "la miel"
+    translation:
+      en: "honey"
+      ko: "꿀"
+    gender: f
+  - spanish: "la almendra"
+    translation:
+      en: "almond"
+      ko: "아몬드"
+    gender: f
+  - spanish: "la nuez"
+    translation:
+      en: "walnut"
+      ko: "호두"
+    gender: f
+  - spanish: "la avellana"
+    translation:
+      en: "hazelnut"
+      ko: "헤이즐넛"
+    gender: f
+  - spanish: "el fruto seco"
+    translation:
+      en: "nut / dried fruit"
+      ko: "견과류"
+    gender: m
+  - spanish: "las legumbres"
+    translation:
+      en: "legumes / pulses"
+      ko: "콩류"
+    gender: f
+  - spanish: "los garbanzos"
+    translation:
+      en: "chickpeas"
+      ko: "병아리콩"
+    gender: m
+  - spanish: "las lentejas"
+    translation:
+      en: "lentils"
+      ko: "렌즈콩"
+    gender: f
+  - spanish: "las alubias"
+    translation:
+      en: "beans"
+      ko: "강낭콩"
+    gender: f
+    notes:
+      en: "Also: las judías, los frijoles (Latin America)"
+      ko: "동의어: las judías, los frijoles (라틴아메리카)"
+  - spanish: "el arroz"
+    translation:
+      en: "rice"
+      ko: "쌀"
+    gender: m
+  - spanish: "la pasta"
+    translation:
+      en: "pasta"
+      ko: "파스타"
+    gender: f
+  - spanish: "la harina integral"
+    translation:
+      en: "whole wheat flour"
+      ko: "통밀가루"
+    gender: f
+  - spanish: "el pan de masa madre"
+    translation:
+      en: "sourdough bread"
+      ko: "사워도우 빵"
+    gender: m
+  - spanish: "fermentar"
+    translation:
+      en: "to ferment"
+      ko: "발효하다"
+    gender: null
+  - spanish: "reposar"
+    translation:
+      en: "to rest (dough) / to let stand"
+      ko: "숙성시키다 / 놓아두다"
+    gender: null

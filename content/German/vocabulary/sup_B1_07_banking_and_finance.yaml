@@ -1,0 +1,1456 @@
+lesson: "sup_B1_Banking_and_Finance"
+lesson_number: 147
+cefr: B1
+type: supplementary
+topic: "Banking and Finance"
+categories:
+- id: bankdienstleistungen
+  label:
+    en: "Banking Services (Bankdienstleistungen)"
+    ko: "은행 서비스 (Bankdienstleistungen)"
+  type: vocabulary
+  words:
+  - german: "die Bank, -en"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: f
+    notes:
+      en: "zur Bank gehen = to go to the bank"
+      ko: "zur Bank gehen = 은행에 가다"
+  - german: "das Konto, Konten"
+    translation:
+      en: "account"
+      ko: "계좌"
+    gender: n
+    notes:
+      en: "ein Konto eröffnen = to open an account"
+      ko: "ein Konto eröffnen = 계좌를 개설하다"
+  - german: "das Girokonto, -konten"
+    translation:
+      en: "checking account / current account"
+      ko: "당좌 예금 계좌"
+    gender: n
+    notes:
+      en: "Most common account for daily transactions"
+      ko: "일상 거래에 가장 흔한 계좌"
+  - german: "das Sparkonto, -konten"
+    translation:
+      en: "savings account"
+      ko: "저축 계좌"
+    gender: n
+    notes:
+      en: "Geld auf dem Sparkonto anlegen = to deposit in savings"
+      ko: "Geld auf dem Sparkonto anlegen = 저축 계좌에 예금하다"
+  - german: "die Überweisung, -en"
+    translation:
+      en: "bank transfer"
+      ko: "계좌 이체"
+    gender: f
+    notes:
+      en: "eine Überweisung tätigen = to make a transfer"
+      ko: "eine Überweisung tätigen = 이체하다"
+  - german: "der Dauerauftrag, -aufträge"
+    translation:
+      en: "standing order"
+      ko: "자동 이체"
+    gender: m
+    notes:
+      en: "einen Dauerauftrag einrichten = to set up a standing order"
+      ko: "einen Dauerauftrag einrichten = 자동 이체를 설정하다"
+  - german: "die Lastschrift, -en"
+    translation:
+      en: "direct debit"
+      ko: "자동 이체 (인출)"
+    gender: f
+    notes:
+      en: "das SEPA-Lastschriftmandat = SEPA direct debit mandate"
+      ko: "das SEPA-Lastschriftmandat = SEPA 자동 이체 위임장"
+  - german: "der Geldautomat, -en"
+    translation:
+      en: "ATM / cash machine"
+      ko: "현금 인출기 (ATM)"
+    gender: m
+    notes:
+      en: "Geld am Geldautomaten abheben = to withdraw money at an ATM"
+      ko: "Geld am Geldautomaten abheben = ATM에서 돈을 인출하다"
+  - german: "die EC-Karte, -n"
+    translation:
+      en: "debit card"
+      ko: "직불 카드"
+    gender: f
+    notes:
+      en: "Now called Girocard in Germany"
+      ko: "현재 독일에서 Girocard로 불림"
+  - german: "die Kreditkarte, -n"
+    translation:
+      en: "credit card"
+      ko: "신용 카드"
+    gender: f
+    notes:
+      en: "mit Kreditkarte zahlen = to pay by credit card"
+      ko: "mit Kreditkarte zahlen = 신용 카드로 결제하다"
+  - german: "die Kontonummer, -n"
+    translation:
+      en: "account number"
+      ko: "계좌 번호"
+    gender: f
+    notes:
+      en: "die IBAN = International Bank Account Number"
+      ko: "die IBAN = 국제 은행 계좌 번호"
+  - german: "die Bankleitzahl, -en (BLZ)"
+    translation:
+      en: "bank routing number"
+      ko: "은행 코드"
+    gender: f
+    notes:
+      en: "Now replaced by BIC/SWIFT code"
+      ko: "현재 BIC/SWIFT 코드로 대체됨"
+  - german: "der Kontoauszug, -auszüge"
+    translation:
+      en: "bank statement"
+      ko: "계좌 내역서"
+    gender: m
+    notes:
+      en: "den Kontoauszug prüfen = to check the bank statement"
+      ko: "den Kontoauszug prüfen = 계좌 내역을 확인하다"
+  - german: "das Online-Banking"
+    translation:
+      en: "online banking"
+      ko: "온라인 뱅킹"
+    gender: n
+    notes:
+      en: "sich ins Online-Banking einloggen = to log into online banking"
+      ko: "sich ins Online-Banking einloggen = 온라인 뱅킹에 로그인하다"
+  - german: "die TAN, -s"
+    translation:
+      en: "transaction authentication number"
+      ko: "거래 인증 번호"
+    gender: f
+    notes:
+      en: "die pushTAN-App = push TAN app"
+      ko: "die pushTAN-App = 푸시 TAN 앱"
+  - german: "die Bankgebühr, -en"
+    translation:
+      en: "bank fee / charge"
+      ko: "은행 수수료"
+    gender: f
+    notes:
+      en: "die Kontoführungsgebühr = account maintenance fee"
+      ko: "die Kontoführungsgebühr = 계좌 유지 수수료"
+  - german: "die Filiale, -n"
+    translation:
+      en: "branch (bank)"
+      ko: "지점"
+    gender: f
+    notes:
+      en: "die nächste Filiale = the nearest branch"
+      ko: "die nächste Filiale = 가장 가까운 지점"
+  - german: "der Bankberater, -"
+    translation:
+      en: "bank advisor"
+      ko: "은행 상담사"
+    gender: m
+    notes:
+      en: "die Bankberaterin = female bank advisor"
+      ko: "die Bankberaterin = 여성 은행 상담사"
+  - german: "die Vollmacht, -en"
+    translation:
+      en: "power of attorney"
+      ko: "위임장"
+    gender: f
+    notes:
+      en: "eine Kontovollmacht = account authorization"
+      ko: "eine Kontovollmacht = 계좌 사용 위임장"
+- id: geldverwaltung
+  label:
+    en: "Money Management (Geldverwaltung)"
+    ko: "자금 관리 (Geldverwaltung)"
+  type: vocabulary
+  words:
+  - german: "das Einkommen, -"
+    translation:
+      en: "income"
+      ko: "소득"
+    gender: n
+    notes:
+      en: "das monatliche Einkommen = monthly income"
+      ko: "das monatliche Einkommen = 월 소득"
+  - german: "die Ausgaben (pl.)"
+    translation:
+      en: "expenses / expenditures"
+      ko: "지출"
+    gender: f
+    notes:
+      en: "die monatlichen Ausgaben = monthly expenses"
+      ko: "die monatlichen Ausgaben = 월 지출"
+  - german: "die Einnahmen (pl.)"
+    translation:
+      en: "revenue / income"
+      ko: "수입 / 매출"
+    gender: f
+    notes:
+      en: "Einnahmen und Ausgaben = income and expenses"
+      ko: "Einnahmen und Ausgaben = 수입과 지출"
+  - german: "das Budget, -s"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: n
+    notes:
+      en: "ein Budget aufstellen = to set up a budget"
+      ko: "ein Budget aufstellen = 예산을 세우다"
+  - german: "die Schulden (pl.)"
+    translation:
+      en: "debts"
+      ko: "빚"
+    gender: f
+    notes:
+      en: "Schulden haben = to be in debt"
+      ko: "Schulden haben = 빚이 있다"
+  - german: "die Steuer, -n"
+    translation:
+      en: "tax"
+      ko: "세금"
+    gender: f
+    notes:
+      en: "die Einkommensteuer = income tax"
+      ko: "die Einkommensteuer = 소득세"
+  - german: "die Mehrwertsteuer (MwSt.)"
+    translation:
+      en: "VAT (value-added tax)"
+      ko: "부가가치세"
+    gender: f
+    notes:
+      en: "19% standard rate in Germany"
+      ko: "독일 표준 세율 19%"
+  - german: "die Steuererklärung, -en"
+    translation:
+      en: "tax return"
+      ko: "세금 신고서"
+    gender: f
+    notes:
+      en: "die Steuererklärung abgeben = to file a tax return"
+      ko: "die Steuererklärung abgeben = 세금 신고를 하다"
+  - german: "der Kredit, -e"
+    translation:
+      en: "loan / credit"
+      ko: "대출"
+    gender: m
+    notes:
+      en: "einen Kredit aufnehmen = to take out a loan"
+      ko: "einen Kredit aufnehmen = 대출을 받다"
+  - german: "die Zinsen (pl.)"
+    translation:
+      en: "interest"
+      ko: "이자"
+    gender: m
+    notes:
+      en: "der Zinssatz = interest rate"
+      ko: "der Zinssatz = 이자율"
+  - german: "die Rate, -n"
+    translation:
+      en: "installment"
+      ko: "할부금"
+    gender: f
+    notes:
+      en: "in Raten zahlen = to pay in installments"
+      ko: "in Raten zahlen = 할부로 납부하다"
+  - german: "die Hypothek, -en"
+    translation:
+      en: "mortgage"
+      ko: "담보 대출"
+    gender: f
+    notes:
+      en: "eine Hypothek aufnehmen = to take out a mortgage"
+      ko: "eine Hypothek aufnehmen = 담보 대출을 받다"
+  - german: "die Rechnung, -en"
+    translation:
+      en: "bill / invoice"
+      ko: "청구서 / 송장"
+    gender: f
+    notes:
+      en: "eine Rechnung bezahlen = to pay a bill"
+      ko: "eine Rechnung bezahlen = 청구서를 납부하다"
+  - german: "die Quittung, -en"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: f
+    notes:
+      en: "die Quittung aufbewahren = to keep the receipt"
+      ko: "die Quittung aufbewahren = 영수증을 보관하다"
+  - german: "die Währung, -en"
+    translation:
+      en: "currency"
+      ko: "통화"
+    gender: f
+    notes:
+      en: "der Euro = euro; der Wechselkurs = exchange rate"
+      ko: "der Euro = 유로; der Wechselkurs = 환율"
+  - german: "der Dispokredit, -e"
+    translation:
+      en: "overdraft facility"
+      ko: "당좌 대월 / 마이너스 통장"
+    gender: m
+    notes:
+      en: "im Dispo sein = to be overdrawn"
+      ko: "im Dispo sein = 마이너스 상태이다"
+  - german: "die Mahnung, -en"
+    translation:
+      en: "payment reminder / dunning letter"
+      ko: "독촉장"
+    gender: f
+    notes:
+      en: "eine Mahnung erhalten = to receive a reminder"
+      ko: "eine Mahnung erhalten = 독촉장을 받다"
+- id: versicherung
+  label:
+    en: "Insurance (Versicherung)"
+    ko: "보험 (Versicherung)"
+  type: vocabulary
+  words:
+  - german: "die Versicherung, -en"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: f
+    notes:
+      en: "eine Versicherung abschließen = to take out insurance"
+      ko: "eine Versicherung abschließen = 보험에 가입하다"
+  - german: "die Haftpflichtversicherung, -en"
+    translation:
+      en: "liability insurance"
+      ko: "배상 책임 보험"
+    gender: f
+    notes:
+      en: "Very important in Germany; covers personal liability"
+      ko: "독일에서 매우 중요; 개인 배상 책임을 보장"
+  - german: "die Lebensversicherung, -en"
+    translation:
+      en: "life insurance"
+      ko: "생명 보험"
+    gender: f
+    notes:
+      en: "eine Lebensversicherung abschließen = to take out life insurance"
+      ko: "eine Lebensversicherung abschließen = 생명 보험에 가입하다"
+  - german: "die Hausratversicherung, -en"
+    translation:
+      en: "contents insurance / household insurance"
+      ko: "가재 보험"
+    gender: f
+    notes:
+      en: "Covers belongings in case of fire, theft, etc."
+      ko: "화재, 도난 등의 경우 소지품 보장"
+  - german: "die Berufsunfähigkeitsversicherung, -en"
+    translation:
+      en: "disability insurance"
+      ko: "직업 능력 상실 보험"
+    gender: f
+    notes:
+      en: "Covers income loss due to disability"
+      ko: "장애로 인한 소득 손실 보장"
+  - german: "der Versicherungsbeitrag, -beiträge"
+    translation:
+      en: "insurance premium"
+      ko: "보험료"
+    gender: m
+    notes:
+      en: "monatlicher Beitrag = monthly premium"
+      ko: "monatlicher Beitrag = 월 보험료"
+  - german: "der Schadensfall, -fälle"
+    translation:
+      en: "insurance claim / damage event"
+      ko: "보험 사고"
+    gender: m
+    notes:
+      en: "einen Schadensfall melden = to report a claim"
+      ko: "einen Schadensfall melden = 보험 사고를 신고하다"
+  - german: "die Selbstbeteiligung, -en"
+    translation:
+      en: "deductible / excess"
+      ko: "본인 부담금"
+    gender: f
+    notes:
+      en: "die Selbstbeteiligung beträgt 500 Euro"
+      ko: "본인 부담금은 500유로이다"
+  - german: "die Police, -n"
+    translation:
+      en: "insurance policy"
+      ko: "보험 증권"
+    gender: f
+    notes:
+      en: "die Versicherungspolice = insurance policy"
+      ko: "die Versicherungspolice = 보험 증권"
+  - german: "der Versicherungsschutz"
+    translation:
+      en: "insurance coverage"
+      ko: "보험 보장"
+    gender: m
+    notes:
+      en: "der Versicherungsschutz gilt ab sofort"
+      ko: "보험 보장은 즉시 적용됩니다"
+  - german: "die Kfz-Versicherung, -en"
+    translation:
+      en: "car insurance"
+      ko: "자동차 보험"
+    gender: f
+    notes:
+      en: "Pflichtversicherung für alle Fahrzeuge"
+      ko: "모든 차량에 의무적인 보험"
+  - german: "kündigen"
+    translation:
+      en: "to cancel (insurance)"
+      ko: "해지하다"
+    gender: null
+    notes:
+      en: "die Versicherung kündigen = to cancel the insurance"
+      ko: "die Versicherung kündigen = 보험을 해지하다"
+  - german: "die Haftpflichtversicherung, -en"
+    translation:
+      en: "liability insurance"
+      ko: "배상 책임 보험"
+    gender: f
+    notes:
+      en: "die private Haftpflicht = personal liability insurance"
+      ko: "die private Haftpflicht = 개인 배상 책임 보험"
+  - german: "die Berufsunfähigkeitsversicherung"
+    translation:
+      en: "disability insurance"
+      ko: "직업 불능 보험"
+    gender: f
+    notes:
+      en: "die BU-Versicherung = disability insurance (abbr.)"
+      ko: "die BU-Versicherung = 직업 불능 보험 (약칭)"
+  - german: "die Hausratversicherung, -en"
+    translation:
+      en: "household contents insurance"
+      ko: "가재 보험"
+    gender: f
+    notes:
+      en: "Schutz vor Einbruch, Feuer, Wasser"
+      ko: "도난, 화재, 수해에 대한 보호"
+  - german: "die Reiseversicherung, -en"
+    translation:
+      en: "travel insurance"
+      ko: "여행 보험"
+    gender: f
+    notes:
+      en: "die Reiserücktrittsversicherung = trip cancellation insurance"
+      ko: "die Reiserücktrittsversicherung = 여행 취소 보험"
+  - german: "der Versicherungsbeitrag, -beiträge"
+    translation:
+      en: "insurance premium"
+      ko: "보험료"
+    gender: m
+    notes:
+      en: "den Beitrag monatlich zahlen = to pay the premium monthly"
+      ko: "den Beitrag monatlich zahlen = 보험료를 매달 내다"
+  - german: "die Selbstbeteiligung"
+    translation:
+      en: "deductible / excess"
+      ko: "자기 부담금"
+    gender: f
+    notes:
+      en: "eine Selbstbeteiligung von 300 Euro"
+      ko: "300유로의 자기 부담금"
+  - german: "der Versicherungsfall, -fälle"
+    translation:
+      en: "insurance claim event"
+      ko: "보험 사고"
+    gender: m
+    notes:
+      en: "im Versicherungsfall = in case of an insurance event"
+      ko: "im Versicherungsfall = 보험 사고 발생 시"
+  - german: "der Schadensfall, -fälle"
+    translation:
+      en: "case of damage"
+      ko: "손해 발생"
+    gender: m
+    notes:
+      en: "einen Schadensfall melden = to report a damage case"
+      ko: "einen Schadensfall melden = 손해를 신고하다"
+- id: investitionen
+  label:
+    en: "Investments (Investitionen)"
+    ko: "투자 (Investitionen)"
+  type: vocabulary
+  words:
+  - german: "die Investition, -en"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: f
+    notes:
+      en: "eine kluge Investition = a wise investment"
+      ko: "eine kluge Investition = 현명한 투자"
+  - german: "die Aktie, -n"
+    translation:
+      en: "stock / share"
+      ko: "주식"
+    gender: f
+    notes:
+      en: "Aktien kaufen/verkaufen = to buy/sell stocks"
+      ko: "Aktien kaufen/verkaufen = 주식을 사다/팔다"
+  - german: "die Börse, -n"
+    translation:
+      en: "stock exchange"
+      ko: "증권 거래소"
+    gender: f
+    notes:
+      en: "die Frankfurter Börse = Frankfurt Stock Exchange"
+      ko: "die Frankfurter Börse = 프랑크푸르트 증권 거래소"
+  - german: "der Fonds, -"
+    translation:
+      en: "fund"
+      ko: "펀드"
+    gender: m
+    notes:
+      en: "der ETF (Exchange Traded Fund)"
+      ko: "der ETF (상장지수펀드)"
+  - german: "die Rendite, -n"
+    translation:
+      en: "return / yield"
+      ko: "수익률"
+    gender: f
+    notes:
+      en: "eine hohe Rendite = a high return"
+      ko: "eine hohe Rendite = 높은 수익률"
+  - german: "das Risiko, Risiken"
+    translation:
+      en: "risk"
+      ko: "위험"
+    gender: n
+    notes:
+      en: "ein hohes Risiko eingehen = to take a high risk"
+      ko: "ein hohes Risiko eingehen = 높은 위험을 감수하다"
+  - german: "die Dividende, -n"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: f
+    notes:
+      en: "Dividenden ausschütten = to pay out dividends"
+      ko: "Dividenden ausschütten = 배당금을 지급하다"
+  - german: "die Altersvorsorge"
+    translation:
+      en: "retirement provision / pension planning"
+      ko: "노후 대비 / 연금 계획"
+    gender: f
+    notes:
+      en: "die private Altersvorsorge = private pension"
+      ko: "die private Altersvorsorge = 사적 연금"
+  - german: "das Festgeld"
+    translation:
+      en: "fixed deposit / term deposit"
+      ko: "정기 예금"
+    gender: n
+    notes:
+      en: "Geld als Festgeld anlegen = to invest in a fixed deposit"
+      ko: "Geld als Festgeld anlegen = 정기 예금에 넣다"
+  - german: "das Tagesgeld"
+    translation:
+      en: "call money / overnight deposit"
+      ko: "일일 예금"
+    gender: n
+    notes:
+      en: "das Tagesgeldkonto = call money account"
+      ko: "das Tagesgeldkonto = 수시 입출금 통장"
+  - german: "die Inflation"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: f
+    notes:
+      en: "die Kaufkraft sinkt bei hoher Inflation"
+      ko: "높은 인플레이션에서 구매력이 떨어진다"
+  - german: "die Immobilie, -n"
+    translation:
+      en: "real estate / property"
+      ko: "부동산"
+    gender: f
+    notes:
+      en: "in Immobilien investieren = to invest in real estate"
+      ko: "in Immobilien investieren = 부동산에 투자하다"
+  - german: "der Sparplan, -pläne"
+    translation:
+      en: "savings plan"
+      ko: "적금 / 저축 계획"
+    gender: m
+    notes:
+      en: "einen ETF-Sparplan einrichten = to set up an ETF savings plan"
+      ko: "einen ETF-Sparplan einrichten = ETF 적금을 설정하다"
+  - german: "die Rendite, -n"
+    translation:
+      en: "return (on investment)"
+      ko: "수익률"
+    gender: f
+    notes:
+      en: "eine hohe Rendite = a high return"
+      ko: "eine hohe Rendite = 높은 수익률"
+  - german: "das Portfolio, -s"
+    translation:
+      en: "portfolio"
+      ko: "포트폴리오"
+    gender: n
+    notes:
+      en: "das Anlageportfolio = investment portfolio"
+      ko: "das Anlageportfolio = 투자 포트폴리오"
+  - german: "die Anleihe, -n"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: f
+    notes:
+      en: "die Staatsanleihe = government bond"
+      ko: "die Staatsanleihe = 국채"
+  - german: "die Inflation"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: f
+    notes:
+      en: "die Inflationsrate = inflation rate"
+      ko: "die Inflationsrate = 물가 상승률"
+  - german: "die Deflation"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: f
+    notes:
+      en: "die Deflation bekämpfen = to combat deflation"
+      ko: "die Deflation bekämpfen = 디플레이션에 대응하다"
+  - german: "die Rezession, -en"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+    notes:
+      en: "in eine Rezession geraten = to enter a recession"
+      ko: "in eine Rezession geraten = 경기 침체에 빠지다"
+  - german: "das Bruttoinlandsprodukt (BIP)"
+    translation:
+      en: "gross domestic product (GDP)"
+      ko: "국내총생산 (GDP)"
+    gender: n
+    notes:
+      en: "das BIP wächst = the GDP is growing"
+      ko: "das BIP wächst = GDP가 성장하고 있다"
+  - german: "der Wechselkurs, -e"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+    notes:
+      en: "der aktuelle Wechselkurs = the current exchange rate"
+      ko: "der aktuelle Wechselkurs = 현재 환율"
+- id: finanzverben
+  label:
+    en: "Finance Verbs (Finanzverben)"
+    ko: "금융 동사 (Finanzverben)"
+  type: vocabulary
+  words:
+  - german: "überweisen"
+    translation:
+      en: "to transfer (money)"
+      ko: "이체하다"
+    gender: null
+    notes:
+      en: "Geld überweisen = to transfer money"
+      ko: "Geld überweisen = 돈을 이체하다"
+  - german: "abheben"
+    translation:
+      en: "to withdraw"
+      ko: "인출하다"
+    gender: null
+    notes:
+      en: "Geld abheben = to withdraw money"
+      ko: "Geld abheben = 돈을 인출하다"
+  - german: "einzahlen"
+    translation:
+      en: "to deposit"
+      ko: "입금하다"
+    gender: null
+    notes:
+      en: "Geld einzahlen = to deposit money"
+      ko: "Geld einzahlen = 돈을 입금하다"
+  - german: "sparen"
+    translation:
+      en: "to save (money)"
+      ko: "저축하다"
+    gender: null
+    notes:
+      en: "für den Urlaub sparen = to save for vacation"
+      ko: "für den Urlaub sparen = 휴가를 위해 저축하다"
+  - german: "anlegen"
+    translation:
+      en: "to invest"
+      ko: "투자하다"
+    gender: null
+    notes:
+      en: "Geld anlegen = to invest money"
+      ko: "Geld anlegen = 돈을 투자하다"
+  - german: "leihen"
+    translation:
+      en: "to lend / to borrow"
+      ko: "빌리다 / 빌려주다"
+    gender: null
+    notes:
+      en: "jemandem Geld leihen = to lend someone money"
+      ko: "jemandem Geld leihen = 누군가에게 돈을 빌려주다"
+  - german: "zurückzahlen"
+    translation:
+      en: "to repay / to pay back"
+      ko: "상환하다"
+    gender: null
+    notes:
+      en: "einen Kredit zurückzahlen = to repay a loan"
+      ko: "einen Kredit zurückzahlen = 대출을 상환하다"
+  - german: "verdienen"
+    translation:
+      en: "to earn"
+      ko: "벌다"
+    gender: null
+    notes:
+      en: "gut verdienen = to earn well"
+      ko: "gut verdienen = 잘 벌다"
+  - german: "ausgeben"
+    translation:
+      en: "to spend"
+      ko: "쓰다 / 지출하다"
+    gender: null
+    notes:
+      en: "Geld ausgeben = to spend money"
+      ko: "Geld ausgeben = 돈을 쓰다"
+  - german: "verschulden"
+    translation:
+      en: "to get into debt"
+      ko: "빚을 지다"
+    gender: null
+    notes:
+      en: "sich verschulden = to go into debt"
+      ko: "sich verschulden = 빚을 지다"
+  - german: "finanzieren"
+    translation:
+      en: "to finance"
+      ko: "자금을 조달하다"
+    gender: null
+    notes:
+      en: "ein Haus finanzieren = to finance a house"
+      ko: "ein Haus finanzieren = 집 구매 자금을 조달하다"
+  - german: "abbuchen"
+    translation:
+      en: "to debit / to deduct"
+      ko: "인출하다 / 차감하다"
+    gender: null
+    notes:
+      en: "vom Konto abbuchen = to debit from the account"
+      ko: "vom Konto abbuchen = 계좌에서 인출하다"
+  - german: "umtauschen"
+    translation:
+      en: "to exchange (currency)"
+      ko: "환전하다"
+    gender: null
+    notes:
+      en: "Geld umtauschen = to exchange money"
+      ko: "Geld umtauschen = 환전하다"
+  - german: "tilgen"
+    translation:
+      en: "to repay / to amortize"
+      ko: "상환하다"
+    gender: null
+    notes:
+      en: "die Tilgung = repayment/amortization"
+      ko: "die Tilgung = 상환"
+  - german: "buchen"
+    translation:
+      en: "to book / to post (accounting)"
+      ko: "기장하다 / 입금 처리하다"
+    gender: null
+    notes:
+      en: "die Buchung = booking/posting"
+      ko: "die Buchung = 기장 / 거래 내역"
+  - german: "pfänden"
+    translation:
+      en: "to seize / to garnish"
+      ko: "압류하다"
+    gender: null
+    notes:
+      en: "die Pfändung = garnishment/seizure"
+      ko: "die Pfändung = 압류"
+  - german: "versteuern"
+    translation:
+      en: "to pay tax on"
+      ko: "세금을 납부하다"
+    gender: null
+    notes:
+      en: "Kapitalerträge versteuern = to pay tax on capital gains"
+      ko: "Kapitalerträge versteuern = 자본 수익에 세금을 납부하다"
+  - german: "berechnen"
+    translation:
+      en: "to calculate / to charge"
+      ko: "계산하다 / 청구하다"
+    gender: null
+    notes:
+      en: "Zinsen berechnen = to calculate interest"
+      ko: "Zinsen berechnen = 이자를 계산하다"
+  - german: "gutschreiben"
+    translation:
+      en: "to credit (an account)"
+      ko: "입금하다"
+    gender: null
+    notes:
+      en: "die Gutschrift = credit note"
+      ko: "die Gutschrift = 입금 내역"
+  - german: "stornieren"
+    translation:
+      en: "to cancel / to reverse"
+      ko: "취소하다"
+    gender: null
+    notes:
+      en: "eine Überweisung stornieren = to cancel a transfer"
+      ko: "eine Überweisung stornieren = 이체를 취소하다"
+  - german: "sperren"
+    translation:
+      en: "to block / to freeze"
+      ko: "정지시키다 / 동결하다"
+    gender: null
+    notes:
+      en: "die Karte sperren lassen = to have the card blocked"
+      ko: "die Karte sperren lassen = 카드를 정지시키다"
+  - german: "beantragen"
+    translation:
+      en: "to apply for"
+      ko: "신청하다"
+    gender: null
+    notes:
+      en: "einen Kredit beantragen = to apply for a loan"
+      ko: "einen Kredit beantragen = 대출을 신청하다"
+- id: zahlungsverkehr
+  label:
+    en: "Payment Transactions (Zahlungsverkehr)"
+    ko: "결제 거래 (Zahlungsverkehr)"
+  type: vocabulary
+  words:
+  - german: "die Zahlung, -en"
+    translation:
+      en: "payment"
+      ko: "결제 / 지불"
+    gender: f
+    notes:
+      en: "eine Zahlung leisten = to make a payment"
+      ko: "eine Zahlung leisten = 결제하다"
+  - german: "die Barzahlung, -en"
+    translation:
+      en: "cash payment"
+      ko: "현금 결제"
+    gender: f
+    notes:
+      en: "nur Barzahlung = cash only"
+      ko: "nur Barzahlung = 현금만 가능"
+  - german: "die kontaktlose Zahlung, -en"
+    translation:
+      en: "contactless payment"
+      ko: "비접촉 결제"
+    gender: f
+    notes:
+      en: "mit dem Handy bezahlen = to pay with your phone"
+      ko: "mit dem Handy bezahlen = 핸드폰으로 결제하다"
+  - german: "die Ratenzahlung, -en"
+    translation:
+      en: "installment payment"
+      ko: "할부 결제"
+    gender: f
+    notes:
+      en: "auf Raten kaufen = to buy in installments"
+      ko: "auf Raten kaufen = 할부로 구매하다"
+  - german: "der Kontostand, -stände"
+    translation:
+      en: "account balance"
+      ko: "계좌 잔액"
+    gender: m
+    notes:
+      en: "den Kontostand überprüfen = to check the balance"
+      ko: "den Kontostand überprüfen = 잔액을 확인하다"
+  - german: "die Habenseite"
+    translation:
+      en: "credit side"
+      ko: "대변"
+    gender: f
+    notes:
+      en: "die Sollseite = debit side"
+      ko: "die Sollseite = 차변"
+  - german: "der Gläubiger, -"
+    translation:
+      en: "creditor"
+      ko: "채권자"
+    gender: m
+    notes:
+      en: "die Gläubigerin = female creditor"
+      ko: "die Gläubigerin = 여성 채권자"
+  - german: "der Schuldner, -"
+    translation:
+      en: "debtor"
+      ko: "채무자"
+    gender: m
+    notes:
+      en: "die Schuldnerin = female debtor"
+      ko: "die Schuldnerin = 여성 채무자"
+  - german: "die Insolvenz, -en"
+    translation:
+      en: "insolvency / bankruptcy"
+      ko: "파산"
+    gender: f
+    notes:
+      en: "Insolvenz anmelden = to file for bankruptcy"
+      ko: "Insolvenz anmelden = 파산 신청하다"
+  - german: "die Bonität"
+    translation:
+      en: "creditworthiness"
+      ko: "신용도"
+    gender: f
+    notes:
+      en: "die Bonitätsprüfung = credit check"
+      ko: "die Bonitätsprüfung = 신용 조회"
+  - german: "der Scheck, -s"
+    translation:
+      en: "check / cheque"
+      ko: "수표"
+    gender: m
+    notes:
+      en: "einen Scheck einlösen = to cash a check"
+      ko: "einen Scheck einlösen = 수표를 현금화하다"
+  - german: "die Laufzeit, -en"
+    translation:
+      en: "term / duration (of loan)"
+      ko: "기간 / 만기"
+    gender: f
+    notes:
+      en: "die Laufzeit des Kredits = the term of the loan"
+      ko: "die Laufzeit des Kredits = 대출 기간"
+  - german: "die Bürgschaft, -en"
+    translation:
+      en: "surety / guarantee"
+      ko: "보증"
+    gender: f
+    notes:
+      en: "eine Bürgschaft übernehmen = to act as guarantor"
+      ko: "eine Bürgschaft übernehmen = 보증을 서다"
+  - german: "die Kreditwürdigkeit"
+    translation:
+      en: "creditworthiness"
+      ko: "신용도"
+    gender: f
+    notes:
+      en: "die Kreditwürdigkeit prüfen = to check creditworthiness"
+      ko: "die Kreditwürdigkeit prüfen = 신용도를 확인하다"
+  - german: "der Dispositionskredit, -e"
+    translation:
+      en: "overdraft"
+      ko: "당좌 대월"
+    gender: m
+    notes:
+      en: "den Dispo überziehen = to exceed the overdraft limit"
+      ko: "den Dispo überziehen = 당좌 대월 한도를 초과하다"
+  - german: "die Abbuchung, -en"
+    translation:
+      en: "debit / deduction"
+      ko: "자동 이체 / 인출"
+    gender: f
+    notes:
+      en: "eine monatliche Abbuchung = a monthly debit"
+      ko: "eine monatliche Abbuchung = 월간 자동 이체"
+  - german: "der Betrag, Beträge"
+    translation:
+      en: "amount / sum"
+      ko: "금액"
+    gender: m
+    notes:
+      en: "der Gesamtbetrag = total amount"
+      ko: "der Gesamtbetrag = 총 금액"
+  - german: "der Wechselkurs, -e"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+    notes:
+      en: "der aktuelle Wechselkurs = the current exchange rate"
+      ko: "der aktuelle Wechselkurs = 현재 환율"
+  - german: "die Überschuldung"
+    translation:
+      en: "over-indebtedness"
+      ko: "과다 채무"
+    gender: f
+    notes:
+      en: "die Schuldnerberatung = debt counseling"
+      ko: "die Schuldnerberatung = 채무 상담"
+  - german: "der Sparvertrag, -verträge"
+    translation:
+      en: "savings plan / savings contract"
+      ko: "저축 계약"
+    gender: m
+    notes:
+      en: "der Bausparvertrag = building society savings contract"
+      ko: "der Bausparvertrag = 건축 저축 계약"
+  - german: "die Einlagensicherung"
+    translation:
+      en: "deposit insurance"
+      ko: "예금 보호"
+    gender: f
+    notes:
+      en: "bis 100.000 Euro pro Konto geschützt"
+      ko: "계좌당 최대 100,000유로 보호"
+  - german: "der Freistellungsauftrag, -aufträge"
+    translation:
+      en: "tax exemption order"
+      ko: "면세 신청서"
+    gender: m
+    notes:
+      en: "Spart Kapitalertragssteuer auf Zinsen"
+      ko: "이자에 대한 자본소득세를 절감"
+  - german: "die Kapitalertragssteuer"
+    translation:
+      en: "capital gains tax"
+      ko: "자본 이득세"
+    gender: f
+    notes:
+      en: "25% pauschal in Deutschland"
+      ko: "독일에서 일률 25%"
+  - german: "der Riester-Vertrag, -Verträge"
+    translation:
+      en: "Riester pension contract"
+      ko: "리스터 연금 계약"
+    gender: m
+    notes:
+      en: "State-subsidized private pension in Germany"
+      ko: "독일의 국가 보조 사적 연금"
+  - german: "die Kryptowährung, -en"
+    translation:
+      en: "cryptocurrency"
+      ko: "암호화폐"
+    gender: f
+    notes:
+      en: "der Bitcoin = Bitcoin; der Ethereum = Ethereum"
+      ko: "der Bitcoin = 비트코인; der Ethereum = 이더리움"
+  - german: "die Gebührenordnung, -en"
+    translation:
+      en: "fee schedule"
+      ko: "수수료 규정"
+    gender: f
+    notes:
+      en: "die Gebührenordnung der Bank einsehen"
+      ko: "은행의 수수료 규정을 확인하다"
+  - german: "der Finanzberater, -"
+    translation:
+      en: "financial advisor"
+      ko: "재정 상담사"
+    gender: m
+    notes:
+      en: "die Finanzberaterin = female financial advisor"
+      ko: "die Finanzberaterin = 여성 재정 상담사"
+  - german: "die Vermögensverwaltung"
+    translation:
+      en: "asset management"
+      ko: "자산 관리"
+    gender: f
+    notes:
+      en: "das Vermögen = assets/wealth"
+      ko: "das Vermögen = 자산 / 재산"
+  - german: "das Wertpapier, -e"
+    translation:
+      en: "security / financial instrument"
+      ko: "유가 증권"
+    gender: n
+    notes:
+      en: "das Wertpapierdepot = securities account"
+      ko: "das Wertpapierdepot = 증권 계좌"
+  - german: "die Anleihe, -n"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: f
+    notes:
+      en: "die Staatsanleihe = government bond"
+      ko: "die Staatsanleihe = 국채"
+  - german: "der Aktionär, -e"
+    translation:
+      en: "shareholder"
+      ko: "주주"
+    gender: m
+    notes:
+      en: "die Aktionärin = female shareholder"
+      ko: "die Aktionärin = 여성 주주"
+  - german: "der Kursgewinn, -e"
+    translation:
+      en: "capital gain / share price gain"
+      ko: "시세 차익"
+    gender: m
+    notes:
+      en: "der Kursverlust = capital loss"
+      ko: "der Kursverlust = 시세 손실"
+  - german: "die Lebenshaltungskosten (pl.)"
+    translation:
+      en: "cost of living"
+      ko: "생활비"
+    gender: f
+    notes:
+      en: "steigende Lebenshaltungskosten = rising cost of living"
+      ko: "steigende Lebenshaltungskosten = 오르는 생활비"
+  - german: "die Gehaltsabrechnung, -en"
+    translation:
+      en: "pay slip / salary statement"
+      ko: "급여 명세서"
+    gender: f
+    notes:
+      en: "die monatliche Gehaltsabrechnung = monthly pay slip"
+      ko: "die monatliche Gehaltsabrechnung = 월 급여 명세서"
+  - german: "der Soli (Solidaritätszuschlag)"
+    translation:
+      en: "solidarity surcharge"
+      ko: "연대 부가세"
+    gender: m
+    notes:
+      en: "Extra tax originally for German reunification"
+      ko: "원래 독일 통일을 위한 추가 세금"
+  - german: "die Erbschaft, -en"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: f
+    notes:
+      en: "die Erbschaftssteuer = inheritance tax"
+      ko: "die Erbschaftssteuer = 상속세"
+  - german: "die Prämie, -n"
+    translation:
+      en: "premium / bonus"
+      ko: "보험료 / 보너스"
+    gender: f
+    notes:
+      en: "eine Prämie erhalten = to receive a bonus"
+      ko: "eine Prämie erhalten = 보너스를 받다"
+  - german: "die Rückerstattung, -en"
+    translation:
+      en: "refund / reimbursement"
+      ko: "환불"
+    gender: f
+    notes:
+      en: "eine Rückerstattung beantragen = to request a refund"
+      ko: "eine Rückerstattung beantragen = 환불을 신청하다"
+  - german: "der Umsatz, Umsätze"
+    translation:
+      en: "turnover / revenue"
+      ko: "매출"
+    gender: m
+    notes:
+      en: "der Jahresumsatz = annual revenue"
+      ko: "der Jahresumsatz = 연 매출"
+  - german: "die Provision, -en"
+    translation:
+      en: "commission"
+      ko: "수수료 / 커미션"
+    gender: f
+    notes:
+      en: "eine Provision kassieren = to collect a commission"
+      ko: "eine Provision kassieren = 수수료를 받다"
+  - german: "der Effektivzins, -en"
+    translation:
+      en: "effective interest rate"
+      ko: "실질 금리"
+    gender: m
+    notes:
+      en: "der Effektivzins enthält alle Kosten"
+      ko: "실질 금리는 모든 비용을 포함한다"
+  - german: "die Sondertilgung, -en"
+    translation:
+      en: "special repayment"
+      ko: "특별 상환"
+    gender: f
+    notes:
+      en: "eine Sondertilgung leisten = to make an extra repayment"
+      ko: "eine Sondertilgung leisten = 특별 상환을 하다"
+  - german: "das Tagesgeldkonto, -konten"
+    translation:
+      en: "money market account"
+      ko: "수시 입출금 통장"
+    gender: n
+    notes:
+      en: "flexibel und sicher = flexible and safe"
+      ko: "flexibel und sicher = 유연하고 안전한"
+  - german: "die Girokarte, -n"
+    translation:
+      en: "Girocard (debit card)"
+      ko: "지로카드 (직불카드)"
+    gender: f
+    notes:
+      en: "Replaced the term EC-Karte officially"
+      ko: "공식적으로 EC-Karte라는 용어를 대체"
+  - german: "das Depot, -s"
+    translation:
+      en: "securities account / brokerage account"
+      ko: "증권 계좌"
+    gender: n
+    notes:
+      en: "ein Depot eröffnen = to open a securities account"
+      ko: "ein Depot eröffnen = 증권 계좌를 개설하다"
+  - german: "die Spekulationsblase, -n"
+    translation:
+      en: "speculative bubble"
+      ko: "투기 거품"
+    gender: f
+    notes:
+      en: "die Immobilienblase = real estate bubble"
+      ko: "die Immobilienblase = 부동산 거품"
+  - german: "die Finanzaufsicht"
+    translation:
+      en: "financial supervision / regulatory authority"
+      ko: "금융 감독"
+    gender: f
+    notes:
+      en: "die BaFin = German Federal Financial Supervisory Authority"
+      ko: "die BaFin = 독일 연방 금융 감독청"
+  - german: "der Kredit­rahmen, -"
+    translation:
+      en: "credit limit / credit line"
+      ko: "신용 한도"
+    gender: m
+    notes:
+      en: "den Kreditrahmen ausschöpfen = to exhaust the credit limit"
+      ko: "den Kreditrahmen ausschöpfen = 신용 한도를 다 쓰다"
+  - german: "die Zinsbindung, -en"
+    translation:
+      en: "fixed interest period"
+      ko: "금리 고정 기간"
+    gender: f
+    notes:
+      en: "eine Zinsbindung von 10 Jahren = a 10-year fixed rate"
+      ko: "eine Zinsbindung von 10 Jahren = 10년 금리 고정"
+- id: steuern_abgaben
+  label:
+    en: "Taxes and Duties (Steuern und Abgaben)"
+    ko: "세금과 공과금 (Steuern und Abgaben)"
+  type: vocabulary
+  words:
+  - german: "die Steuer, -n"
+    translation:
+      en: "tax"
+      ko: "세금"
+    gender: f
+    notes:
+      en: "Steuern zahlen = to pay taxes"
+      ko: "Steuern zahlen = 세금을 내다"
+  - german: "die Einkommensteuer"
+    translation:
+      en: "income tax"
+      ko: "소득세"
+    gender: f
+    notes:
+      en: "die Einkommensteuererklärung = income tax return"
+      ko: "die Einkommensteuererklärung = 소득세 신고서"
+  - german: "die Mehrwertsteuer (MwSt.)"
+    translation:
+      en: "value-added tax (VAT)"
+      ko: "부가가치세"
+    gender: f
+    notes:
+      en: "19% MwSt. in Deutschland = 19% VAT in Germany"
+      ko: "19% MwSt. in Deutschland = 독일의 19% 부가가치세"
+  - german: "die Lohnsteuer"
+    translation:
+      en: "wage tax / payroll tax"
+      ko: "근로 소득세"
+    gender: f
+    notes:
+      en: "die Lohnsteuer wird vom Arbeitgeber einbehalten"
+      ko: "근로 소득세는 고용주가 원천징수한다"
+  - german: "die Steuererklärung, -en"
+    translation:
+      en: "tax return / tax declaration"
+      ko: "세금 신고서"
+    gender: f
+    notes:
+      en: "die Steuererklärung abgeben = to submit a tax return"
+      ko: "die Steuererklärung abgeben = 세금 신고서를 제출하다"
+  - german: "das Finanzamt, -ämter"
+    translation:
+      en: "tax office"
+      ko: "세무서"
+    gender: n
+    notes:
+      en: "beim Finanzamt melden = to register with the tax office"
+      ko: "beim Finanzamt melden = 세무서에 신고하다"
+  - german: "der Steuerbescheid, -e"
+    translation:
+      en: "tax assessment notice"
+      ko: "세금 고지서"
+    gender: m
+    notes:
+      en: "den Steuerbescheid prüfen = to review the tax assessment"
+      ko: "den Steuerbescheid prüfen = 세금 고지서를 확인하다"
+  - german: "die Steuerklasse, -n"
+    translation:
+      en: "tax bracket / tax class"
+      ko: "세금 등급"
+    gender: f
+    notes:
+      en: "die Steuerklasse wechseln = to change tax class"
+      ko: "die Steuerklasse wechseln = 세금 등급을 변경하다"
+  - german: "der Freibetrag, -beträge"
+    translation:
+      en: "tax-free allowance"
+      ko: "비과세 공제액"
+    gender: m
+    notes:
+      en: "der Grundfreibetrag = basic tax-free allowance"
+      ko: "der Grundfreibetrag = 기본 비과세 공제액"
+  - german: "die Absetzbarkeit"
+    translation:
+      en: "tax deductibility"
+      ko: "세금 공제 가능성"
+    gender: f
+    notes:
+      en: "steuerlich absetzbar = tax-deductible"
+      ko: "steuerlich absetzbar = 세금 공제 가능한"
+  - german: "die Kirchensteuer"
+    translation:
+      en: "church tax"
+      ko: "교회세"
+    gender: f
+    notes:
+      en: "8-9% der Einkommensteuer"
+      ko: "소득세의 8-9%"
+  - german: "der Solidaritätszuschlag"
+    translation:
+      en: "solidarity surcharge"
+      ko: "통일 부담금"
+    gender: m
+    notes:
+      en: "seit 2021 für die meisten Bürger abgeschafft"
+      ko: "2021년부터 대부분의 시민에게 폐지"
+  - german: "die Abgabe, -n"
+    translation:
+      en: "levy / contribution"
+      ko: "공과금 / 부담금"
+    gender: f
+    notes:
+      en: "Steuern und Abgaben = taxes and levies"
+      ko: "Steuern und Abgaben = 세금과 공과금"
+  - german: "der Steuerberater, -"
+    translation:
+      en: "tax advisor"
+      ko: "세무사"
+    gender: m
+    notes:
+      en: "die Steuerberaterin = female tax advisor"
+      ko: "die Steuerberaterin = 여성 세무사"
+  - german: "die Kapitalertragssteuer"
+    translation:
+      en: "capital gains tax"
+      ko: "자본이득세"
+    gender: f
+    notes:
+      en: "25% Abgeltungsteuer = 25% flat rate withholding tax"
+      ko: "25% Abgeltungsteuer = 25% 정률 원천세"
+  - german: "die Erbschaftsteuer"
+    translation:
+      en: "inheritance tax"
+      ko: "상속세"
+    gender: f
+    notes:
+      en: "der Erbschaftsteuerfreibetrag = inheritance tax allowance"
+      ko: "der Erbschaftsteuerfreibetrag = 상속세 비과세 한도"
+  - german: "die Grundsteuer"
+    translation:
+      en: "property tax"
+      ko: "재산세"
+    gender: f
+    notes:
+      en: "die Grundsteuerreform = property tax reform"
+      ko: "die Grundsteuerreform = 재산세 개혁"
+  - german: "der Steuerausgleich"
+    translation:
+      en: "tax refund / tax adjustment"
+      ko: "세금 환급 / 조정"
+    gender: m
+    notes:
+      en: "eine Steuererstattung bekommen = to receive a tax refund"
+      ko: "eine Steuererstattung bekommen = 세금 환급을 받다"
+  - german: "die Umsatzsteuer"
+    translation:
+      en: "sales tax / turnover tax"
+      ko: "매출세"
+    gender: f
+    notes:
+      en: "die Umsatzsteuervoranmeldung = VAT advance return"
+      ko: "die Umsatzsteuervoranmeldung = 부가세 예정 신고"
+  - german: "die Gewerbesteuer"
+    translation:
+      en: "trade tax / business tax"
+      ko: "영업세"
+    gender: f
+    notes:
+      en: "von Gewerbetreibenden gezahlt = paid by businesses"
+      ko: "von Gewerbetreibenden gezahlt = 사업자가 납부"
+  - german: "die Schwarzarbeit"
+    translation:
+      en: "undeclared work / moonlighting"
+      ko: "불법 고용 / 무신고 노동"
+    gender: f
+    notes:
+      en: "Schwarzarbeit ist illegal = undeclared work is illegal"
+      ko: "Schwarzarbeit ist illegal = 무신고 노동은 불법이다"
+  - german: "die Beitragsbemessungsgrenze"
+    translation:
+      en: "contribution assessment ceiling"
+      ko: "보험료 산정 상한"
+    gender: f
+    notes:
+      en: "Obergrenze für Sozialversicherungsbeiträge"
+      ko: "사회보험료의 상한선"
+  - german: "versteuern"
+    translation:
+      en: "to pay tax on"
+      ko: "세금을 내다"
+    gender: null
+    notes:
+      en: "Einkünfte versteuern = to pay tax on income"
+      ko: "Einkünfte versteuern = 소득에 세금을 내다"
+  - german: "absetzen"
+    translation:
+      en: "to deduct (from taxes)"
+      ko: "공제하다"
+    gender: null
+    notes:
+      en: "Ausgaben von der Steuer absetzen = to deduct expenses from taxes"
+      ko: "Ausgaben von der Steuer absetzen = 비용을 세금에서 공제하다"
+  - german: "steuerfrei"
+    translation:
+      en: "tax-free"
+      ko: "비과세"
+    gender: null
+    notes:
+      en: "steuerfreie Einkünfte = tax-free income"
+      ko: "steuerfreie Einkünfte = 비과세 소득"
+  - german: "steuerpflichtig"
+    translation:
+      en: "taxable / liable to tax"
+      ko: "과세 대상인"
+    gender: null
+    notes:
+      en: "steuerpflichtiges Einkommen = taxable income"
+      ko: "steuerpflichtiges Einkommen = 과세 소득"
+  - german: "brutto"
+    translation:
+      en: "gross (before tax)"
+      ko: "세전"
+    gender: null
+    notes:
+      en: "das Bruttogehalt = gross salary"
+      ko: "das Bruttogehalt = 세전 급여"
+  - german: "netto"
+    translation:
+      en: "net (after tax)"
+      ko: "세후"
+    gender: null
+    notes:
+      en: "das Nettogehalt = net salary"
+      ko: "das Nettogehalt = 세후 급여"

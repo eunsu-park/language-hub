@@ -1,0 +1,927 @@
+lesson: "sup_A1_Body_Health_and_Clothing"
+lesson_number: 104
+cefr: A1
+type: supplementary
+topic: "Body, Health, and Clothing"
+categories:
+- id: body_parts
+  label:
+    en: "Body Parts"
+    ko: "신체 부위"
+  type: vocabulary
+  words:
+  - spanish: "el cuerpo"
+    translation:
+      en: "body"
+      ko: "몸"
+    gender: m
+  - spanish: "la frente"
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: f
+  - spanish: "la ceja"
+    translation:
+      en: "eyebrow"
+      ko: "눈썹"
+    gender: f
+  - spanish: "la pestaña"
+    translation:
+      en: "eyelash"
+      ko: "속눈썹"
+    gender: f
+  - spanish: "la mejilla"
+    translation:
+      en: "cheek"
+      ko: "볼"
+    gender: f
+  - spanish: "la barbilla"
+    translation:
+      en: "chin"
+      ko: "턱"
+    gender: f
+  - spanish: "el labio"
+    translation:
+      en: "lip"
+      ko: "입술"
+    gender: m
+  - spanish: "el diente"
+    translation:
+      en: "tooth"
+      ko: "이빨"
+    gender: m
+  - spanish: "la lengua"
+    translation:
+      en: "tongue"
+      ko: "혀"
+    gender: f
+    notes:
+      en: "Also means language"
+      ko: "언어라는 뜻도 있음"
+  - spanish: "la garganta"
+    translation:
+      en: "throat"
+      ko: "목구멍"
+    gender: f
+  - spanish: "el pecho"
+    translation:
+      en: "chest"
+      ko: "가슴"
+    gender: m
+  - spanish: "la muñeca"
+    translation:
+      en: "wrist"
+      ko: "손목"
+    gender: f
+    notes:
+      en: "Also means doll"
+      ko: "인형이라는 뜻도 있음"
+  - spanish: "el codo"
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: m
+  - spanish: "el tobillo"
+    translation:
+      en: "ankle"
+      ko: "발목"
+    gender: m
+  - spanish: "el dedo del pie"
+    translation:
+      en: "toe"
+      ko: "발가락"
+    gender: m
+  - spanish: "la uña"
+    translation:
+      en: "fingernail / toenail"
+      ko: "손톱 / 발톱"
+    gender: f
+  - spanish: "la cintura"
+    translation:
+      en: "waist"
+      ko: "허리"
+    gender: f
+  - spanish: "la cadera"
+    translation:
+      en: "hip"
+      ko: "엉덩이"
+    gender: f
+  - spanish: "el hueso"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: m
+  - spanish: "el músculo"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: m
+  - spanish: "la piel"
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: f
+  - spanish: "la sangre"
+    translation:
+      en: "blood"
+      ko: "피"
+    gender: f
+  - spanish: "el cerebro"
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: m
+  - spanish: "el pulmón"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: m
+  - spanish: "el hígado"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: m
+  - spanish: "el riñón"
+    translation:
+      en: "kidney"
+      ko: "신장"
+    gender: m
+  - spanish: "la columna"
+    translation:
+      en: "spine / column"
+      ko: "척추"
+    gender: f
+  - spanish: "la costilla"
+    translation:
+      en: "rib"
+      ko: "갈비뼈"
+    gender: f
+  - spanish: "el pelo"
+    translation:
+      en: "hair"
+      ko: "머리카락"
+    gender: m
+  - spanish: "la barba"
+    translation:
+      en: "beard"
+      ko: "수염"
+    gender: f
+  - spanish: "el bigote"
+    translation:
+      en: "mustache"
+      ko: "콧수염"
+    gender: m
+  - spanish: "la mandíbula"
+    translation:
+      en: "jaw"
+      ko: "턱뼈"
+    gender: f
+  - spanish: "la nuca"
+    translation:
+      en: "back of the neck / nape"
+      ko: "뒷목"
+    gender: f
+  - spanish: "el ombligo"
+    translation:
+      en: "navel / belly button"
+      ko: "배꼽"
+    gender: m
+  - spanish: "la pantorrilla"
+    translation:
+      en: "calf (leg)"
+      ko: "종아리"
+    gender: f
+  - spanish: "el talón"
+    translation:
+      en: "heel"
+      ko: "발뒤꿈치"
+    gender: m
+  - spanish: "la articulación"
+    translation:
+      en: "joint"
+      ko: "관절"
+    gender: f
+  - spanish: "la vena"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: f
+  - spanish: "el nervio"
+    translation:
+      en: "nerve"
+      ko: "신경"
+    gender: m
+- id: common_ailments_and_health
+  label:
+    en: "Common Ailments and Health"
+    ko: "흔한 질병 및 건강"
+  type: vocabulary
+  words:
+  - spanish: "la salud"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+  - spanish: "el dolor"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+    notes:
+      en: "dolor de cabeza = headache"
+      ko: "dolor de cabeza = 두통"
+  - spanish: "la fiebre"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+  - spanish: "el resfriado"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: m
+  - spanish: "la gripe"
+    translation:
+      en: "flu"
+      ko: "독감"
+    gender: f
+  - spanish: "la tos"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: f
+  - spanish: "el estornudo"
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: m
+  - spanish: "la alergia"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+  - spanish: "la herida"
+    translation:
+      en: "wound / injury"
+      ko: "상처"
+    gender: f
+  - spanish: "el médico"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: m
+  - spanish: "la medicina"
+    translation:
+      en: "medicine"
+      ko: "약"
+    gender: f
+  - spanish: "la pastilla"
+    translation:
+      en: "pill / tablet"
+      ko: "알약"
+    gender: f
+  - spanish: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+  - spanish: "el hospital"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - spanish: "la cita"
+    translation:
+      en: "appointment"
+      ko: "예약 / 진료 예약"
+    gender: f
+    notes:
+      en: "Also means date (romantic)"
+      ko: "데이트(연인 간)라는 뜻도 있음"
+  - spanish: "doler"
+    translation:
+      en: "to hurt / to ache"
+      ko: "아프다"
+    gender: null
+    notes:
+      en: "Me duele la cabeza. = My head hurts."
+      ko: "Me duele la cabeza. = 머리가 아프다."
+  - spanish: "toser"
+    translation:
+      en: "to cough"
+      ko: "기침하다"
+    gender: null
+  - spanish: "descansar"
+    translation:
+      en: "to rest"
+      ko: "쉬다"
+    gender: null
+  - spanish: "estornudar"
+    translation:
+      en: "to sneeze"
+      ko: "재채기하다"
+    gender: null
+  - spanish: "la receta médica"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: f
+  - spanish: "el termómetro"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: m
+  - spanish: "la venda"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: f
+  - spanish: "la tirita"
+    translation:
+      en: "band-aid"
+      ko: "반창고"
+    gender: f
+    notes:
+      en: "In LatAm, often la curita"
+      ko: "라틴아메리카에서는 주로 la curita"
+  - spanish: "el jarabe"
+    translation:
+      en: "syrup (medicine)"
+      ko: "시럽 (약)"
+    gender: m
+  - spanish: "la inyección"
+    translation:
+      en: "injection / shot"
+      ko: "주사"
+    gender: f
+  - spanish: "el dolor de garganta"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: m
+  - spanish: "el dolor de muelas"
+    translation:
+      en: "toothache"
+      ko: "치통"
+    gender: m
+  - spanish: "el mareo"
+    translation:
+      en: "dizziness / nausea"
+      ko: "어지러움 / 메스꺼움"
+    gender: m
+  - spanish: "la picadura"
+    translation:
+      en: "sting / bite (insect)"
+      ko: "벌레 물림"
+    gender: f
+  - spanish: "respirar"
+    translation:
+      en: "to breathe"
+      ko: "숨 쉬다"
+    gender: null
+  - spanish: "mejorar"
+    translation:
+      en: "to improve / to get better"
+      ko: "나아지다"
+    gender: null
+  - spanish: "empeorar"
+    translation:
+      en: "to get worse"
+      ko: "나빠지다"
+    gender: null
+  - spanish: "curar"
+    translation:
+      en: "to cure / to heal"
+      ko: "치료하다"
+    gender: null
+  - spanish: "la ambulancia"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: f
+  - spanish: "la urgencia"
+    translation:
+      en: "emergency"
+      ko: "응급"
+    gender: f
+  - spanish: "el enfermero"
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: m
+  - spanish: "el dentista"
+    translation:
+      en: "dentist"
+      ko: "치과의사"
+    gender: m
+  - spanish: "la radiografía"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: f
+  - spanish: "la operación"
+    translation:
+      en: "operation / surgery"
+      ko: "수술"
+    gender: f
+  - spanish: "la consulta"
+    translation:
+      en: "doctor's visit / consultation"
+      ko: "진료 / 상담"
+    gender: f
+  - spanish: "sano"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+  - spanish: "enfermo"
+    translation:
+      en: "sick / ill"
+      ko: "아픈"
+    gender: null
+  - spanish: "grave"
+    translation:
+      en: "serious / severe"
+      ko: "심각한"
+    gender: null
+  - spanish: "leve"
+    translation:
+      en: "mild / minor"
+      ko: "가벼운 / 경미한"
+    gender: null
+  - spanish: "la sala de espera"
+    translation:
+      en: "waiting room"
+      ko: "대기실"
+    gender: f
+  - spanish: "el seguro médico"
+    translation:
+      en: "health insurance"
+      ko: "건강보험"
+    gender: m
+  - spanish: "el análisis de sangre"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: m
+  - spanish: "la vacuna"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: f
+  - spanish: "la pomada"
+    translation:
+      en: "ointment / cream"
+      ko: "연고"
+    gender: f
+  - spanish: "las gotas"
+    translation:
+      en: "drops (medicine)"
+      ko: "점안액 / 물약"
+    gender: f
+    notes:
+      en: "gotas para los ojos = eye drops"
+      ko: "gotas para los ojos = 안약"
+  - spanish: "el yeso"
+    translation:
+      en: "plaster cast"
+      ko: "깁스"
+    gender: m
+  - spanish: "las muletas"
+    translation:
+      en: "crutches"
+      ko: "목발"
+    gender: f
+- id: clothing_items
+  label:
+    en: "Clothing Items"
+    ko: "의류"
+  type: vocabulary
+  words:
+  - spanish: "la ropa"
+    translation:
+      en: "clothing / clothes"
+      ko: "옷"
+    gender: f
+  - spanish: "la sudadera"
+    translation:
+      en: "sweatshirt / hoodie"
+      ko: "맨투맨 / 후드티"
+    gender: f
+  - spanish: "el jersey"
+    translation:
+      en: "sweater / pullover"
+      ko: "스웨터"
+    gender: m
+    notes:
+      en: "In LatAm, often called el suéter"
+      ko: "라틴아메리카에서는 주로 el suéter라고 부름"
+  - spanish: "el chaleco"
+    translation:
+      en: "vest / waistcoat"
+      ko: "조끼"
+    gender: m
+  - spanish: "los pantalones cortos"
+    translation:
+      en: "shorts"
+      ko: "반바지"
+    gender: m
+  - spanish: "el pijama"
+    translation:
+      en: "pajamas"
+      ko: "잠옷"
+    gender: m
+  - spanish: "el bañador"
+    translation:
+      en: "swimsuit"
+      ko: "수영복"
+    gender: m
+    notes:
+      en: "In LatAm, often called el traje de baño"
+      ko: "라틴아메리카에서는 주로 el traje de baño라고 부름"
+  - spanish: "el impermeable"
+    translation:
+      en: "raincoat"
+      ko: "우비"
+    gender: m
+  - spanish: "la blusa"
+    translation:
+      en: "blouse"
+      ko: "블라우스"
+    gender: f
+  - spanish: "los calcetines"
+    translation:
+      en: "socks"
+      ko: "양말"
+    gender: m
+  - spanish: "la ropa interior"
+    translation:
+      en: "underwear"
+      ko: "속옷"
+    gender: f
+  - spanish: "el bolsillo"
+    translation:
+      en: "pocket"
+      ko: "주머니"
+    gender: m
+  - spanish: "la manga"
+    translation:
+      en: "sleeve"
+      ko: "소매"
+    gender: f
+  - spanish: "el botón"
+    translation:
+      en: "button"
+      ko: "단추"
+    gender: m
+  - spanish: "la cremallera"
+    translation:
+      en: "zipper"
+      ko: "지퍼"
+    gender: f
+  - spanish: "el uniforme"
+    translation:
+      en: "uniform"
+      ko: "유니폼"
+    gender: m
+  - spanish: "el delantal"
+    translation:
+      en: "apron"
+      ko: "앞치마"
+    gender: m
+  - spanish: "el chubasquero"
+    translation:
+      en: "rain jacket"
+      ko: "비옷"
+    gender: m
+  - spanish: "la bata"
+    translation:
+      en: "robe / lab coat"
+      ko: "가운"
+    gender: f
+  - spanish: "ponerse"
+    translation:
+      en: "to put on (clothing)"
+      ko: "입다 / 착용하다"
+    gender: null
+    notes:
+      en: "Me pongo la chaqueta. = I put on my jacket."
+      ko: "Me pongo la chaqueta. = 재킷을 입다."
+  - spanish: "quitarse"
+    translation:
+      en: "to take off (clothing)"
+      ko: "벗다"
+    gender: null
+  - spanish: "probarse"
+    translation:
+      en: "to try on"
+      ko: "입어 보다"
+    gender: null
+    notes:
+      en: "Stem-changing (o to ue): me pruebo"
+      ko: "어간 변화 (o to ue): me pruebo"
+  - spanish: "quedar"
+    translation:
+      en: "to fit (clothing)"
+      ko: "맞다 (옷이)"
+    gender: null
+    notes:
+      en: "Me queda bien. = It fits me well."
+      ko: "Me queda bien. = 나한테 잘 맞는다."
+- id: accessories
+  label:
+    en: "Accessories"
+    ko: "액세서리"
+  type: vocabulary
+  words:
+  - spanish: "el reloj de pulsera"
+    translation:
+      en: "wristwatch"
+      ko: "손목시계"
+    gender: m
+  - spanish: "el anillo"
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: m
+  - spanish: "el collar"
+    translation:
+      en: "necklace"
+      ko: "목걸이"
+    gender: m
+  - spanish: "el pendiente"
+    translation:
+      en: "earring"
+      ko: "귀걸이"
+    gender: m
+  - spanish: "la pulsera"
+    translation:
+      en: "bracelet"
+      ko: "팔찌"
+    gender: f
+  - spanish: "el paraguas"
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: m
+    notes:
+      en: "Invariable: el/los paraguas"
+      ko: "단수/복수 형태 동일: el/los paraguas"
+  - spanish: "la cartera"
+    translation:
+      en: "wallet"
+      ko: "지갑"
+    gender: f
+  - spanish: "el pañuelo"
+    translation:
+      en: "handkerchief / scarf"
+      ko: "손수건 / 스카프"
+    gender: m
+  - spanish: "la mochila"
+    translation:
+      en: "backpack"
+      ko: "배낭"
+    gender: f
+  - spanish: "las sandalias"
+    translation:
+      en: "sandals"
+      ko: "샌들"
+    gender: f
+  - spanish: "la cadena"
+    translation:
+      en: "chain / necklace chain"
+      ko: "체인 / 목걸이 줄"
+    gender: f
+  - spanish: "el broche"
+    translation:
+      en: "brooch"
+      ko: "브로치"
+    gender: m
+  - spanish: "la diadema"
+    translation:
+      en: "headband"
+      ko: "머리띠"
+    gender: f
+  - spanish: "el abanico"
+    translation:
+      en: "fan (hand fan)"
+      ko: "부채"
+    gender: m
+    notes:
+      en: "Traditional accessory in Spain"
+      ko: "스페인의 전통 액세서리"
+  - spanish: "la joya"
+    translation:
+      en: "jewel / piece of jewelry"
+      ko: "보석 / 장신구"
+    gender: f
+  - spanish: "las gafas"
+    translation:
+      en: "eyeglasses"
+      ko: "안경"
+    gender: f
+  - spanish: "el llavero"
+    translation:
+      en: "keychain"
+      ko: "열쇠고리"
+    gender: m
+- id: personal_care
+  label:
+    en: "Personal Care"
+    ko: "개인 위생"
+  type: vocabulary
+  words:
+  - spanish: "el peine"
+    translation:
+      en: "comb"
+      ko: "빗"
+    gender: m
+  - spanish: "el cepillo"
+    translation:
+      en: "brush"
+      ko: "브러시"
+    gender: m
+  - spanish: "el secador"
+    translation:
+      en: "hair dryer"
+      ko: "헤어드라이어"
+    gender: m
+  - spanish: "el desodorante"
+    translation:
+      en: "deodorant"
+      ko: "데오도란트"
+    gender: m
+  - spanish: "la crema"
+    translation:
+      en: "cream / lotion"
+      ko: "크림 / 로션"
+    gender: f
+  - spanish: "el perfume"
+    translation:
+      en: "perfume"
+      ko: "향수"
+    gender: m
+  - spanish: "el maquillaje"
+    translation:
+      en: "makeup"
+      ko: "화장품"
+    gender: m
+  - spanish: "las tijeras"
+    translation:
+      en: "scissors"
+      ko: "가위"
+    gender: f
+    notes:
+      en: "Always used in plural"
+      ko: "항상 복수형으로 사용"
+  - spanish: "ducharse"
+    translation:
+      en: "to shower (oneself)"
+      ko: "샤워하다"
+    gender: null
+    notes:
+      en: "Reflexive verb: me ducho, te duchas..."
+      ko: "재귀 동사: me ducho, te duchas..."
+  - spanish: "peinarse"
+    translation:
+      en: "to comb one's hair"
+      ko: "빗질하다"
+    gender: null
+  - spanish: "vestirse"
+    translation:
+      en: "to get dressed"
+      ko: "옷을 입다"
+    gender: null
+    notes:
+      en: "Stem-changing (e to i): me visto"
+      ko: "어간 변화 (e to i): me visto"
+  - spanish: "afeitarse"
+    translation:
+      en: "to shave"
+      ko: "면도하다"
+    gender: null
+  - spanish: "maquillarse"
+    translation:
+      en: "to put on makeup"
+      ko: "화장하다"
+    gender: null
+  - spanish: "lavarse"
+    translation:
+      en: "to wash oneself"
+      ko: "씻다"
+    gender: null
+  - spanish: "secarse"
+    translation:
+      en: "to dry oneself"
+      ko: "몸을 말리다"
+    gender: null
+  - spanish: "el acondicionador"
+    translation:
+      en: "conditioner (hair)"
+      ko: "컨디셔너 (헤어)"
+    gender: m
+  - spanish: "la loción"
+    translation:
+      en: "lotion"
+      ko: "로션"
+    gender: f
+  - spanish: "el protector solar"
+    translation:
+      en: "sunscreen"
+      ko: "자외선 차단제"
+    gender: m
+  - spanish: "el cepillo de pelo"
+    translation:
+      en: "hairbrush"
+      ko: "헤어 브러시"
+    gender: m
+  - spanish: "la lima de uñas"
+    translation:
+      en: "nail file"
+      ko: "손톱줄"
+    gender: f
+  - spanish: "la toallita"
+    translation:
+      en: "wipe / small towel"
+      ko: "물티슈 / 작은 수건"
+    gender: f
+  - spanish: "el espejo"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+  - spanish: "el hilo dental"
+    translation:
+      en: "dental floss"
+      ko: "치실"
+    gender: m
+  - spanish: "el enjuague bucal"
+    translation:
+      en: "mouthwash"
+      ko: "구강 세정제"
+    gender: m
+  - spanish: "la navaja"
+    translation:
+      en: "razor"
+      ko: "면도기"
+    gender: f
+  - spanish: "la bola de algodón"
+    translation:
+      en: "cotton ball"
+      ko: "솜뭉치"
+    gender: f
+  - spanish: "el jabón líquido"
+    translation:
+      en: "liquid soap"
+      ko: "액체 비누"
+    gender: m
+  - spanish: "la colonia"
+    translation:
+      en: "cologne"
+      ko: "콜로뉴"
+    gender: f
+  - spanish: "el pintalabios"
+    translation:
+      en: "lipstick"
+      ko: "립스틱"
+    gender: m
+  - spanish: "el rímel"
+    translation:
+      en: "mascara"
+      ko: "마스카라"
+    gender: m
+  - spanish: "la sombra de ojos"
+    translation:
+      en: "eye shadow"
+      ko: "아이섀도"
+    gender: f
+  - spanish: "el esmalte de uñas"
+    translation:
+      en: "nail polish"
+      ko: "매니큐어"
+    gender: m
+  - spanish: "la base de maquillaje"
+    translation:
+      en: "foundation (makeup)"
+      ko: "파운데이션"
+    gender: f
+  - spanish: "el colorete"
+    translation:
+      en: "blush (makeup)"
+      ko: "블러셔"
+    gender: m
+  - spanish: "el lápiz de ojos"
+    translation:
+      en: "eyeliner"
+      ko: "아이라이너"
+    gender: m
+  - spanish: "el quitaesmalte"
+    translation:
+      en: "nail polish remover"
+      ko: "리무버"
+    gender: m
+  - spanish: "el bastoncillo"
+    translation:
+      en: "cotton swab / Q-tip"
+      ko: "면봉"
+    gender: m

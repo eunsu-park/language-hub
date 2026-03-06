@@ -1,0 +1,86 @@
+# Supplementary Vocabulary Pack Template
+#
+# Naming: sup_{LEVEL}_{NN}_{topic_snake_case}.yaml
+# Example: sup_A1_01_animals_and_nature.yaml
+#
+# lesson_number ranges:
+#   100-119  A1 / N5
+#   120-139  A2 / N4
+#   140-159  B1 / N3
+#   160-179  B2 / N2
+#   180-199  C1 / N1
+
+# --- Spanish (CEFR) example ---
+lesson: "sup_A1_Animals_and_Nature"
+lesson_number: 101
+cefr: A1
+type: supplementary
+topic: "Animals and Nature"
+categories:
+- id: domestic_animals
+  label:
+    en: "Domestic Animals"
+    ko: "가축"
+  type: vocabulary
+  words:
+  - spanish: "el gato"
+    translation:
+      en: "cat"
+      ko: "고양이"
+    gender: m
+    notes:
+      en: "Common pet"
+      ko: "흔한 반려동물"
+  - spanish: "el perro"
+    translation:
+      en: "dog"
+      ko: "개"
+    gender: m
+    notes:
+      en: "Common pet"
+      ko: "흔한 반려동물"
+
+# --- German (CEFR) example ---
+# lesson: "sup_A1_Animals_and_Nature"
+# lesson_number: 101
+# cefr: A1
+# type: supplementary
+# topic: "Animals and Nature"
+# categories:
+# - id: domestic_animals
+#   label:
+#     en: "Domestic Animals"
+#     ko: "가축"
+#   type: vocabulary
+#   words:
+#   - german: "die Katze"
+#     translation:
+#       en: "cat"
+#       ko: "고양이"
+#     gender: f
+#     notes:
+#       en: "Common pet"
+#       ko: "흔한 반려동물"
+
+# --- Japanese (JLPT) example ---
+# lesson: "sup_N5_Animals_and_Nature"
+# lesson_number: 101
+# jlpt: N5
+# type: supplementary
+# topic: "Animals and Nature"
+# categories:
+# - id: domestic_animals
+#   label:
+#     en: "Domestic Animals"
+#     ko: "가축"
+#   type: vocabulary
+#   words:
+#   - japanese: "猫"
+#     reading: "ねこ"
+#     translation:
+#       en: "cat"
+#       ko: "고양이"
+#     gender: null
+#     notes:
+#       en: "Common pet"
+#       ko: "흔한 반려동물"

@@ -1,0 +1,1498 @@
+lesson: "sup_N3_Technology_and_Internet"
+lesson_number: 143
+jlpt: N3
+type: supplementary
+topic: "Technology and Internet"
+categories:
+- id: devices
+  label:
+    en: "Devices"
+    ko: "기기"
+  type: vocabulary
+  words:
+  - japanese: "機器"
+    reading: "きき"
+    translation:
+      en: "device, equipment"
+      ko: "기기"
+    gender: null
+    notes:
+      en: "machine + tool"
+      ko: "기계 + 도구"
+  - japanese: "端末"
+    reading: "たんまつ"
+    translation:
+      en: "terminal, device"
+      ko: "단말기"
+    gender: null
+    notes:
+      en: "edge + end; 携帯端末 = mobile device"
+      ko: "끝 + 끝; 携帯端末 = 모바일 기기"
+  - japanese: スマートフォン
+    reading: null
+    translation:
+      en: "smartphone"
+      ko: "스마트폰"
+    gender: null
+    notes:
+      en: "often shortened to スマホ"
+      ko: "줄여서 スマホ라고도 함"
+  - japanese: タブレット
+    reading: null
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: ノートパソコン
+    reading: null
+    translation:
+      en: "laptop"
+      ko: "노트북"
+    gender: null
+    notes:
+      en: "note + personal computer"
+      ko: "노트 + 퍼스널 컴퓨터"
+  - japanese: "画面"
+    reading: "がめん"
+    translation:
+      en: "screen, display"
+      ko: "화면"
+    gender: null
+    notes:
+      en: "picture + surface"
+      ko: "그림 + 면"
+  - japanese: "充電器"
+    reading: "じゅうでんき"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: null
+    notes:
+      en: "fill + electricity + device"
+      ko: "충 + 전 + 기"
+  - japanese: "充電する"
+    reading: "じゅうでんする"
+    translation:
+      en: "to charge (a device)"
+      ko: "충전하다"
+    gender: null
+    notes:
+      en: "充電 = charging"
+      ko: "充電 = 충전"
+  - japanese: "電池"
+    reading: "でんち"
+    translation:
+      en: "battery"
+      ko: "전지, 배터리"
+    gender: null
+    notes:
+      en: "electricity + pond"
+      ko: "전기 + 못"
+  - japanese: バッテリー
+    reading: null
+    translation:
+      en: "battery"
+      ko: "배터리"
+    gender: null
+    notes:
+      en: "katakana loanword; commonly used for rechargeable batteries"
+      ko: "가타카나 외래어; 충전식 배터리에 주로 사용"
+  - japanese: イヤホン
+    reading: null
+    translation:
+      en: "earphones"
+      ko: "이어폰"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: ヘッドホン
+    reading: null
+    translation:
+      en: "headphones"
+      ko: "헤드폰"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "電子機器"
+    reading: "でんしきき"
+    translation:
+      en: "electronic device"
+      ko: "전자 기기"
+    gender: null
+    notes:
+      en: "electronic + device"
+      ko: "전자 + 기기"
+  - japanese: ウェブカメラ
+    reading: null
+    translation:
+      en: "webcam"
+      ko: "웹캠"
+    gender: null
+    notes:
+      en: "web + camera"
+      ko: "웹 + 카메라"
+  - japanese: マイク
+    reading: null
+    translation:
+      en: "microphone"
+      ko: "마이크"
+    gender: null
+    notes:
+      en: "short for マイクロフォン"
+      ko: "マイクロフォン의 줄임말"
+  - japanese: スピーカー
+    reading: null
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "外付け"
+    reading: "そとづけ"
+    translation:
+      en: "external (device)"
+      ko: "외장"
+    gender: null
+    notes:
+      en: "外付けハードディスク = external hard drive"
+      ko: "外付けハードディスク = 외장 하드 디스크"
+  - japanese: モニター
+    reading: null
+    translation:
+      en: "monitor"
+      ko: "모니터"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: キーボード
+    reading: null
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: マウス
+    reading: null
+    translation:
+      en: "mouse (computer)"
+      ko: "마우스"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "周辺機器"
+    reading: "しゅうへんきき"
+    translation:
+      en: "peripherals"
+      ko: "주변 기기"
+    gender: null
+    notes:
+      en: "surrounding + device"
+      ko: "주변 + 기기"
+  - japanese: ルーター
+    reading: null
+    translation:
+      en: "router"
+      ko: "라우터"
+    gender: null
+    notes:
+      en: "Wi-Fiルーター = Wi-Fi router"
+      ko: "Wi-Fiルーター = 와이파이 라우터"
+  - japanese: "接続する"
+    reading: "せつぞくする"
+    translation:
+      en: "to connect"
+      ko: "접속하다"
+    gender: null
+    notes:
+      en: "接続 = connection"
+      ko: "接続 = 접속"
+
+- id: internet_and_sns
+  label:
+    en: "Internet and SNS"
+    ko: "인터넷과 SNS"
+  type: vocabulary
+  words:
+  - japanese: インターネット
+    reading: null
+    translation:
+      en: "internet"
+      ko: "인터넷"
+    gender: null
+    notes:
+      en: "often shortened to ネット"
+      ko: "줄여서 ネット라고도 함"
+  - japanese: ウェブサイト
+    reading: null
+    translation:
+      en: "website"
+      ko: "웹사이트"
+    gender: null
+    notes:
+      en: "also ホームページ in Japanese usage"
+      ko: "일본에서는 ホームページ라고도 함"
+  - japanese: ホームページ
+    reading: null
+    translation:
+      en: "website, homepage"
+      ko: "홈페이지"
+    gender: null
+    notes:
+      en: "in Japan, refers to any website (not just the main page)"
+      ko: "일본에서는 메인 페이지뿐만 아니라 웹사이트 전체를 지칭"
+  - japanese: "検索する"
+    reading: "けんさくする"
+    translation:
+      en: "to search (online)"
+      ko: "검색하다"
+    gender: null
+    notes:
+      en: "検索エンジン = search engine"
+      ko: "検索エンジン = 검색 엔진"
+  - japanese: "閲覧する"
+    reading: "えつらんする"
+    translation:
+      en: "to browse, to view"
+      ko: "열람하다"
+    gender: null
+    notes:
+      en: "閲覧 = viewing/browsing"
+      ko: "閲覧 = 열람"
+  - japanese: ブラウザ
+    reading: null
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: null
+    notes:
+      en: "web browser"
+      ko: "웹 브라우저"
+  - japanese: ブックマーク
+    reading: null
+    translation:
+      en: "bookmark"
+      ko: "북마크"
+    gender: null
+    notes:
+      en: "also お気に入り in Japanese"
+      ko: "일본어로 お気に入り라고도 함"
+  - japanese: リンク
+    reading: null
+    translation:
+      en: "link"
+      ko: "링크"
+    gender: null
+    notes:
+      en: "リンクを貼る = to post a link"
+      ko: "リンクを貼る = 링크를 올리다"
+  - japanese: アカウント
+    reading: null
+    translation:
+      en: "account"
+      ko: "계정"
+    gender: null
+    notes:
+      en: "アカウントを作る = to create an account"
+      ko: "アカウントを作る = 계정을 만들다"
+  - japanese: パスワード
+    reading: null
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: null
+    notes:
+      en: "パスワードを変更する = to change password"
+      ko: "パスワードを変更する = 비밀번호를 변경하다"
+  - japanese: ログインする
+    reading: null
+    translation:
+      en: "to log in"
+      ko: "로그인하다"
+    gender: null
+    notes:
+      en: "opposite: ログアウトする"
+      ko: "반대: ログアウトする"
+  - japanese: "投稿する"
+    reading: "とうこうする"
+    translation:
+      en: "to post (online)"
+      ko: "게시하다, 포스팅하다"
+    gender: null
+    notes:
+      en: "投稿 = post, submission"
+      ko: "投稿 = 게시, 투고"
+  - japanese: フォローする
+    reading: null
+    translation:
+      en: "to follow (on SNS)"
+      ko: "팔로우하다"
+    gender: null
+    notes:
+      en: "フォロワー = follower"
+      ko: "フォロワー = 팔로워"
+  - japanese: シェアする
+    reading: null
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+    notes:
+      en: "SNS sharing"
+      ko: "SNS 공유"
+  - japanese: コメント
+    reading: null
+    translation:
+      en: "comment"
+      ko: "댓글"
+    gender: null
+    notes:
+      en: "コメントする = to comment"
+      ko: "コメントする = 댓글을 달다"
+  - japanese: "通知"
+    reading: "つうち"
+    translation:
+      en: "notification"
+      ko: "알림, 통지"
+    gender: null
+    notes:
+      en: "通知する = to notify"
+      ko: "通知する = 통지하다"
+  - japanese: "炎上"
+    reading: "えんじょう"
+    translation:
+      en: "going viral (negative), online backlash"
+      ko: "인터넷 논란, 악플 폭주"
+    gender: null
+    notes:
+      en: "flames + rise; online firestorm"
+      ko: "불꽃 + 오르다; 온라인 비난 폭주"
+  - japanese: "拡散する"
+    reading: "かくさんする"
+    translation:
+      en: "to spread, to go viral"
+      ko: "확산하다"
+    gender: null
+    notes:
+      en: "expand + scatter"
+      ko: "넓히다 + 흩어지다"
+  - japanese: ハッシュタグ
+    reading: null
+    translation:
+      en: "hashtag"
+      ko: "해시태그"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: タイムライン
+    reading: null
+    translation:
+      en: "timeline"
+      ko: "타임라인"
+    gender: null
+    notes:
+      en: "SNS timeline/feed"
+      ko: "SNS 타임라인/피드"
+  - japanese: "掲示板"
+    reading: "けいじばん"
+    translation:
+      en: "message board, forum"
+      ko: "게시판"
+    gender: null
+    notes:
+      en: "ネット掲示板 = internet forum"
+      ko: "ネット掲示板 = 인터넷 게시판"
+  - japanese: ブログ
+    reading: null
+    translation:
+      en: "blog"
+      ko: "블로그"
+    gender: null
+    notes:
+      en: "ブログを書く = to write a blog"
+      ko: "ブログを書く = 블로그를 쓰다"
+  - japanese: "配信する"
+    reading: "はいしんする"
+    translation:
+      en: "to stream, to distribute"
+      ko: "배신하다, 스트리밍하다"
+    gender: null
+    notes:
+      en: "生配信 = live streaming"
+      ko: "生配信 = 생방송 스트리밍"
+  - japanese: "動画"
+    reading: "どうが"
+    translation:
+      en: "video"
+      ko: "동영상"
+    gender: null
+    notes:
+      en: "moving + picture"
+      ko: "움직이다 + 그림"
+
+- id: software
+  label:
+    en: "Software"
+    ko: "소프트웨어"
+  type: vocabulary
+  words:
+  - japanese: ソフトウェア
+    reading: null
+    translation:
+      en: "software"
+      ko: "소프트웨어"
+    gender: null
+    notes:
+      en: "often shortened to ソフト"
+      ko: "줄여서 ソフト라고도 함"
+  - japanese: アプリ
+    reading: null
+    translation:
+      en: "app, application"
+      ko: "앱, 어플"
+    gender: null
+    notes:
+      en: "short for アプリケーション"
+      ko: "アプリケーション의 줄임말"
+  - japanese: "更新する"
+    reading: "こうしんする"
+    translation:
+      en: "to update"
+      ko: "업데이트하다, 갱신하다"
+    gender: null
+    notes:
+      en: "更新 = update"
+      ko: "更新 = 갱신"
+  - japanese: インストールする
+    reading: null
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+    notes:
+      en: "opposite: アンインストールする"
+      ko: "반대: アンインストールする"
+  - japanese: ダウンロードする
+    reading: null
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+    notes:
+      en: "opposite: アップロードする"
+      ko: "반대: アップロードする"
+  - japanese: アップロードする
+    reading: null
+    translation:
+      en: "to upload"
+      ko: "업로드하다"
+    gender: null
+    notes:
+      en: "opposite: ダウンロードする"
+      ko: "반대: ダウンロードする"
+  - japanese: "設定"
+    reading: "せってい"
+    translation:
+      en: "settings, configuration"
+      ko: "설정"
+    gender: null
+    notes:
+      en: "設定する = to set up, to configure"
+      ko: "設定する = 설정하다"
+  - japanese: "起動する"
+    reading: "きどうする"
+    translation:
+      en: "to start up, to boot"
+      ko: "기동하다, 실행하다"
+    gender: null
+    notes:
+      en: "起動 = startup, booting"
+      ko: "起動 = 기동, 부팅"
+  - japanese: "操作する"
+    reading: "そうさする"
+    translation:
+      en: "to operate, to use"
+      ko: "조작하다"
+    gender: null
+    notes:
+      en: "操作 = operation"
+      ko: "操作 = 조작"
+  - japanese: "保存する"
+    reading: "ほぞんする"
+    translation:
+      en: "to save (a file)"
+      ko: "저장하다"
+    gender: null
+    notes:
+      en: "保存 = saving"
+      ko: "保存 = 저장"
+  - japanese: "削除する"
+    reading: "さくじょする"
+    translation:
+      en: "to delete"
+      ko: "삭제하다"
+    gender: null
+    notes:
+      en: "削除 = deletion"
+      ko: "削除 = 삭제"
+  - japanese: "変換する"
+    reading: "へんかんする"
+    translation:
+      en: "to convert, to transform"
+      ko: "변환하다"
+    gender: null
+    notes:
+      en: "also used for kanji conversion when typing"
+      ko: "타이핑 시 한자 변환에도 사용"
+  - japanese: "入力する"
+    reading: "にゅうりょくする"
+    translation:
+      en: "to input, to type"
+      ko: "입력하다"
+    gender: null
+    notes:
+      en: "入力 = input; opposite: 出力"
+      ko: "入力 = 입력; 반대: 出力"
+  - japanese: "出力する"
+    reading: "しゅつりょくする"
+    translation:
+      en: "to output"
+      ko: "출력하다"
+    gender: null
+    notes:
+      en: "出力 = output"
+      ko: "出力 = 출력"
+  - japanese: バグ
+    reading: null
+    translation:
+      en: "bug (software)"
+      ko: "버그"
+    gender: null
+    notes:
+      en: "バグを修正する = to fix a bug"
+      ko: "バグを修正する = 버그를 수정하다"
+  - japanese: "不具合"
+    reading: "ふぐあい"
+    translation:
+      en: "malfunction, defect"
+      ko: "결함, 오류"
+    gender: null
+    notes:
+      en: "not + condition; software issue"
+      ko: "아닌 + 상태; 소프트웨어 문제"
+  - japanese: "復元する"
+    reading: "ふくげんする"
+    translation:
+      en: "to restore"
+      ko: "복원하다"
+    gender: null
+    notes:
+      en: "復元 = restoration"
+      ko: "復元 = 복원"
+  - japanese: バックアップ
+    reading: null
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: null
+    notes:
+      en: "バックアップを取る = to make a backup"
+      ko: "バックアップを取る = 백업을 하다"
+  - japanese: クラウド
+    reading: null
+    translation:
+      en: "cloud (computing)"
+      ko: "클라우드"
+    gender: null
+    notes:
+      en: "クラウドサービス = cloud service"
+      ko: "クラウドサービス = 클라우드 서비스"
+  - japanese: データベース
+    reading: null
+    translation:
+      en: "database"
+      ko: "데이터베이스"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+
+- id: tech_verbs
+  label:
+    en: "Tech Verbs"
+    ko: "기술 동사"
+  type: vocabulary
+  words:
+  - japanese: "開発する"
+    reading: "かいはつする"
+    translation:
+      en: "to develop"
+      ko: "개발하다"
+    gender: null
+    notes:
+      en: "開発 = development"
+      ko: "開発 = 개발"
+  - japanese: "設計する"
+    reading: "せっけいする"
+    translation:
+      en: "to design (technical)"
+      ko: "설계하다"
+    gender: null
+    notes:
+      en: "設計 = design, blueprint"
+      ko: "設計 = 설계"
+  - japanese: "実装する"
+    reading: "じっそうする"
+    translation:
+      en: "to implement"
+      ko: "구현하다, 실장하다"
+    gender: null
+    notes:
+      en: "実装 = implementation"
+      ko: "実装 = 구현"
+  - japanese: "暗号化する"
+    reading: "あんごうかする"
+    translation:
+      en: "to encrypt"
+      ko: "암호화하다"
+    gender: null
+    notes:
+      en: "暗号化 = encryption"
+      ko: "暗号化 = 암호화"
+  - japanese: "圧縮する"
+    reading: "あっしゅくする"
+    translation:
+      en: "to compress"
+      ko: "압축하다"
+    gender: null
+    notes:
+      en: "圧縮ファイル = compressed file"
+      ko: "圧縮ファイル = 압축 파일"
+  - japanese: "解凍する"
+    reading: "かいとうする"
+    translation:
+      en: "to decompress, to unzip"
+      ko: "압축을 풀다"
+    gender: null
+    notes:
+      en: "also 展開する (てんかいする)"
+      ko: "展開する(てんかいする)라고도 함"
+  - japanese: "同期する"
+    reading: "どうきする"
+    translation:
+      en: "to synchronize"
+      ko: "동기화하다"
+    gender: null
+    notes:
+      en: "同期 = synchronization"
+      ko: "同期 = 동기화"
+  - japanese: "再起動する"
+    reading: "さいきどうする"
+    translation:
+      en: "to restart, to reboot"
+      ko: "재시동하다, 재부팅하다"
+    gender: null
+    notes:
+      en: "re- + start up"
+      ko: "다시 + 시동"
+  - japanese: "添付する"
+    reading: "てんぷする"
+    translation:
+      en: "to attach (a file)"
+      ko: "첨부하다"
+    gender: null
+    notes:
+      en: "添付ファイル = attachment"
+      ko: "添付ファイル = 첨부 파일"
+  - japanese: "印刷する"
+    reading: "いんさつする"
+    translation:
+      en: "to print"
+      ko: "인쇄하다"
+    gender: null
+    notes:
+      en: "印刷 = printing"
+      ko: "印刷 = 인쇄"
+  - japanese: "読み込む"
+    reading: "よみこむ"
+    translation:
+      en: "to load, to read in"
+      ko: "읽어들이다, 로딩하다"
+    gender: null
+    notes:
+      en: "data loading"
+      ko: "데이터 로딩"
+  - japanese: "書き込む"
+    reading: "かきこむ"
+    translation:
+      en: "to write in, to post (forum)"
+      ko: "기록하다, 글을 올리다"
+    gender: null
+    notes:
+      en: "also 掲示板に書き込む = to post on a forum"
+      ko: "掲示板に書き込む = 게시판에 글을 올리다"
+  - japanese: "対応する"
+    reading: "たいおうする"
+    translation:
+      en: "to support, to be compatible"
+      ko: "대응하다, 지원하다"
+    gender: null
+    notes:
+      en: "対応 = compatibility/support"
+      ko: "対応 = 대응/지원"
+  - japanese: "故障する"
+    reading: "こしょうする"
+    translation:
+      en: "to break down, to malfunction"
+      ko: "고장나다"
+    gender: null
+    notes:
+      en: "故障 = breakdown"
+      ko: "故障 = 고장"
+  - japanese: "修理する"
+    reading: "しゅうりする"
+    translation:
+      en: "to repair"
+      ko: "수리하다"
+    gender: null
+    notes:
+      en: "修理 = repair"
+      ko: "修理 = 수리"
+  - japanese: "編集する"
+    reading: "へんしゅうする"
+    translation:
+      en: "to edit"
+      ko: "편집하다"
+    gender: null
+    notes:
+      en: "編集 = editing"
+      ko: "編集 = 편집"
+
+- id: digital_communication
+  label:
+    en: "Digital Communication"
+    ko: "디지털 커뮤니케이션"
+  type: vocabulary
+  words:
+  - japanese: メール
+    reading: null
+    translation:
+      en: "email"
+      ko: "이메일"
+    gender: null
+    notes:
+      en: "メールを送る = to send an email"
+      ko: "メールを送る = 이메일을 보내다"
+  - japanese: "件名"
+    reading: "けんめい"
+    translation:
+      en: "subject line"
+      ko: "제목"
+    gender: null
+    notes:
+      en: "matter + name"
+      ko: "건 + 이름"
+  - japanese: "宛先"
+    reading: "あてさき"
+    translation:
+      en: "recipient, addressee"
+      ko: "수신인"
+    gender: null
+    notes:
+      en: "address + destination"
+      ko: "보낼 곳"
+  - japanese: "差出人"
+    reading: "さしだしにん"
+    translation:
+      en: "sender"
+      ko: "발신인"
+    gender: null
+    notes:
+      en: "put out + person"
+      ko: "보내다 + 사람"
+  - japanese: "返信する"
+    reading: "へんしんする"
+    translation:
+      en: "to reply"
+      ko: "답신하다"
+    gender: null
+    notes:
+      en: "返信 = reply"
+      ko: "返信 = 답신"
+  - japanese: "転送する"
+    reading: "てんそうする"
+    translation:
+      en: "to forward"
+      ko: "전송하다"
+    gender: null
+    notes:
+      en: "転送 = forwarding"
+      ko: "転送 = 전송"
+  - japanese: "受信する"
+    reading: "じゅしんする"
+    translation:
+      en: "to receive (message)"
+      ko: "수신하다"
+    gender: null
+    notes:
+      en: "受信 = reception; opposite: 送信"
+      ko: "受信 = 수신; 반대: 送信"
+  - japanese: "送信する"
+    reading: "そうしんする"
+    translation:
+      en: "to send (message)"
+      ko: "송신하다"
+    gender: null
+    notes:
+      en: "送信 = sending"
+      ko: "送信 = 송신"
+  - japanese: "着信"
+    reading: "ちゃくしん"
+    translation:
+      en: "incoming call/message"
+      ko: "착신"
+    gender: null
+    notes:
+      en: "arrive + message"
+      ko: "도착 + 메시지"
+  - japanese: チャット
+    reading: null
+    translation:
+      en: "chat"
+      ko: "채팅"
+    gender: null
+    notes:
+      en: "チャットする = to chat"
+      ko: "チャットする = 채팅하다"
+  - japanese: "通話する"
+    reading: "つうわする"
+    translation:
+      en: "to make a phone/video call"
+      ko: "통화하다"
+    gender: null
+    notes:
+      en: "通話 = phone call"
+      ko: "通話 = 통화"
+  - japanese: オンライン
+    reading: null
+    translation:
+      en: "online"
+      ko: "온라인"
+    gender: null
+    notes:
+      en: "opposite: オフライン"
+      ko: "반대: オフライン"
+  - japanese: "個人情報"
+    reading: "こじんじょうほう"
+    translation:
+      en: "personal information"
+      ko: "개인 정보"
+    gender: null
+    notes:
+      en: "個人情報保護 = personal data protection"
+      ko: "個人情報保護 = 개인 정보 보호"
+  - japanese: セキュリティ
+    reading: null
+    translation:
+      en: "security"
+      ko: "보안"
+    gender: null
+    notes:
+      en: "セキュリティ対策 = security measures"
+      ko: "セキュリティ対策 = 보안 대책"
+  - japanese: ウイルス
+    reading: null
+    translation:
+      en: "virus (computer)"
+      ko: "바이러스"
+    gender: null
+    notes:
+      en: "コンピューターウイルス = computer virus"
+      ko: "コンピューターウイルス = 컴퓨터 바이러스"
+  - japanese: "迷惑メール"
+    reading: "めいわくメール"
+    translation:
+      en: "spam email"
+      ko: "스팸 메일"
+    gender: null
+    notes:
+      en: "nuisance + email"
+      ko: "민폐 + 메일"
+  - japanese: "不正アクセス"
+    reading: "ふせいアクセス"
+    translation:
+      en: "unauthorized access"
+      ko: "부정 접속"
+    gender: null
+    notes:
+      en: "illegal + access"
+      ko: "부정 + 접속"
+  - japanese: "情報漏洩"
+    reading: "じょうほうろうえい"
+    translation:
+      en: "information leak"
+      ko: "정보 유출"
+    gender: null
+    notes:
+      en: "information + leak"
+      ko: "정보 + 유출"
+  - japanese: "人工知能"
+    reading: "じんこうちのう"
+    translation:
+      en: "artificial intelligence, AI"
+      ko: "인공 지능"
+    gender: null
+    notes:
+      en: "artificial + intelligence; also AI (エーアイ)"
+      ko: "인공 + 지능; AI(エーアイ)라고도 함"
+  - japanese: "自動化"
+    reading: "じどうか"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: null
+    notes:
+      en: "automatic + -ization"
+      ko: "자동 + 화"
+  - japanese: "仮想現実"
+    reading: "かそうげんじつ"
+    translation:
+      en: "virtual reality, VR"
+      ko: "가상 현실"
+    gender: null
+    notes:
+      en: "virtual + reality; also VR (ブイアール)"
+      ko: "가상 + 현실; VR(ブイアール)이라고도 함"
+  - japanese: "拡張現実"
+    reading: "かくちょうげんじつ"
+    translation:
+      en: "augmented reality, AR"
+      ko: "증강 현실"
+    gender: null
+    notes:
+      en: "augmented + reality; also AR (エーアール)"
+      ko: "증강 + 현실; AR(エーアール)이라고도 함"
+  - japanese: ビッグデータ
+    reading: null
+    translation:
+      en: "big data"
+      ko: "빅 데이터"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "通信"
+    reading: "つうしん"
+    translation:
+      en: "communication, transmission"
+      ko: "통신"
+    gender: null
+    notes:
+      en: "無線通信 = wireless communication"
+      ko: "無線通信 = 무선 통신"
+  - japanese: "無線"
+    reading: "むせん"
+    translation:
+      en: "wireless"
+      ko: "무선"
+    gender: null
+    notes:
+      en: "no + wire; opposite: 有線"
+      ko: "없다 + 선; 반대: 有線"
+  - japanese: "有線"
+    reading: "ゆうせん"
+    translation:
+      en: "wired"
+      ko: "유선"
+    gender: null
+    notes:
+      en: "have + wire; opposite: 無線"
+      ko: "있다 + 선; 반대: 無線"
+  - japanese: "帯域"
+    reading: "たいいき"
+    translation:
+      en: "bandwidth"
+      ko: "대역"
+    gender: null
+    notes:
+      en: "帯域幅 = bandwidth"
+      ko: "帯域幅 = 대역폭"
+  - japanese: "容量"
+    reading: "ようりょう"
+    translation:
+      en: "capacity, storage"
+      ko: "용량"
+    gender: null
+    notes:
+      en: "メモリ容量 = memory capacity"
+      ko: "メモリ容量 = 메모리 용량"
+  - japanese: "解像度"
+    reading: "かいぞうど"
+    translation:
+      en: "resolution"
+      ko: "해상도"
+    gender: null
+    notes:
+      en: "高解像度 = high resolution"
+      ko: "高解像度 = 고해상도"
+  - japanese: "互換性"
+    reading: "ごかんせい"
+    translation:
+      en: "compatibility"
+      ko: "호환성"
+    gender: null
+    notes:
+      en: "互換性がある = to be compatible"
+      ko: "互換性がある = 호환성이 있다"
+  - japanese: プログラム
+    reading: null
+    translation:
+      en: "program"
+      ko: "프로그램"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: サーバー
+    reading: null
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: ネットワーク
+    reading: null
+    translation:
+      en: "network"
+      ko: "네트워크"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "画素"
+    reading: "がそ"
+    translation:
+      en: "pixel"
+      ko: "화소"
+    gender: null
+    notes:
+      en: "picture + element"
+      ko: "그림 + 요소"
+  - japanese: "処理速度"
+    reading: "しょりそくど"
+    translation:
+      en: "processing speed"
+      ko: "처리 속도"
+    gender: null
+    notes:
+      en: "processing + speed"
+      ko: "처리 + 속도"
+  - japanese: "記憶装置"
+    reading: "きおくそうち"
+    translation:
+      en: "storage device"
+      ko: "기억 장치"
+    gender: null
+    notes:
+      en: "memory + device"
+      ko: "기억 + 장치"
+  - japanese: ハードディスク
+    reading: null
+    translation:
+      en: "hard disk"
+      ko: "하드 디스크"
+    gender: null
+    notes:
+      en: "abbreviated as HDD"
+      ko: "HDD로 약칭"
+  - japanese: "電源"
+    reading: "でんげん"
+    translation:
+      en: "power source, power switch"
+      ko: "전원"
+    gender: null
+    notes:
+      en: "電源を入れる/切る = to turn on/off"
+      ko: "電源を入れる/切る = 전원을 켜다/끄다"
+  - japanese: "画像"
+    reading: "がぞう"
+    translation:
+      en: "image"
+      ko: "화상, 이미지"
+    gender: null
+    notes:
+      en: "画像処理 = image processing"
+      ko: "画像処理 = 화상 처리"
+  - japanese: "音声"
+    reading: "おんせい"
+    translation:
+      en: "voice, audio"
+      ko: "음성"
+    gender: null
+    notes:
+      en: "音声認識 = voice recognition"
+      ko: "音声認識 = 음성 인식"
+  - japanese: ストリーミング
+    reading: null
+    translation:
+      en: "streaming"
+      ko: "스트리밍"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "電子決済"
+    reading: "でんしけっさい"
+    translation:
+      en: "electronic payment"
+      ko: "전자 결제"
+    gender: null
+    notes:
+      en: "electronic + settlement"
+      ko: "전자 + 결제"
+  - japanese: "二段階認証"
+    reading: "にだんかいにんしょう"
+    translation:
+      en: "two-factor authentication"
+      ko: "2단계 인증"
+    gender: null
+    notes:
+      en: "two-step + authentication"
+      ko: "2단계 + 인증"
+  - japanese: "文字化け"
+    reading: "もじばけ"
+    translation:
+      en: "garbled text"
+      ko: "문자 깨짐"
+    gender: null
+    notes:
+      en: "character + ghost; encoding error"
+      ko: "문자 + 변형; 인코딩 오류"
+  - japanese: "既読"
+    reading: "きどく"
+    translation:
+      en: "read (status)"
+      ko: "읽음"
+    gender: null
+    notes:
+      en: "already + read; 既読スルー = read but not reply"
+      ko: "이미 + 읽음; 既読スルー = 읽고 답하지 않음"
+  - japanese: "未読"
+    reading: "みどく"
+    translation:
+      en: "unread"
+      ko: "안 읽음"
+    gender: null
+    notes:
+      en: "not yet + read"
+      ko: "아직 + 읽지 않음"
+  - japanese: "課金する"
+    reading: "かきんする"
+    translation:
+      en: "to charge, to pay for (app)"
+      ko: "과금하다"
+    gender: null
+    notes:
+      en: "課金 = in-app purchase"
+      ko: "課金 = 인앱 결제"
+  - japanese: "無料"
+    reading: "むりょう"
+    translation:
+      en: "free (of charge)"
+      ko: "무료"
+    gender: null
+    notes:
+      en: "no + fee; opposite: 有料"
+      ko: "없다 + 요금; 반대: 有料"
+  - japanese: "有料"
+    reading: "ゆうりょう"
+    translation:
+      en: "paid, chargeable"
+      ko: "유료"
+    gender: null
+    notes:
+      en: "have + fee"
+      ko: "있다 + 요금"
+  - japanese: "拡張機能"
+    reading: "かくちょうきのう"
+    translation:
+      en: "extension, plugin"
+      ko: "확장 기능"
+    gender: null
+    notes:
+      en: "expand + function"
+      ko: "확장 + 기능"
+  - japanese: "初期化する"
+    reading: "しょきかする"
+    translation:
+      en: "to initialize, to factory reset"
+      ko: "초기화하다"
+    gender: null
+    notes:
+      en: "初期化 = initialization"
+      ko: "初期化 = 초기화"
+  - japanese: "仕様"
+    reading: "しよう"
+    translation:
+      en: "specifications"
+      ko: "사양"
+    gender: null
+    notes:
+      en: "製品仕様 = product specifications"
+      ko: "製品仕様 = 제품 사양"
+  - japanese: アルゴリズム
+    reading: null
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "機械学習"
+    reading: "きかいがくしゅう"
+    translation:
+      en: "machine learning"
+      ko: "머신 러닝, 기계 학습"
+    gender: null
+    notes:
+      en: "machine + learning"
+      ko: "기계 + 학습"
+  - japanese: ロボット
+    reading: null
+    translation:
+      en: "robot"
+      ko: "로봇"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "半導体"
+    reading: "はんどうたい"
+    translation:
+      en: "semiconductor"
+      ko: "반도체"
+    gender: null
+    notes:
+      en: "half + conductor"
+      ko: "반 + 도체"
+  - japanese: "量子"
+    reading: "りょうし"
+    translation:
+      en: "quantum"
+      ko: "양자"
+    gender: null
+    notes:
+      en: "量子コンピューター = quantum computer"
+      ko: "量子コンピューター = 양자 컴퓨터"
+  - japanese: "電子書籍"
+    reading: "でんししょせき"
+    translation:
+      en: "e-book"
+      ko: "전자 서적"
+    gender: null
+    notes:
+      en: "electronic + book"
+      ko: "전자 + 서적"
+  - japanese: "情報技術"
+    reading: "じょうほうぎじゅつ"
+    translation:
+      en: "information technology, IT"
+      ko: "정보 기술"
+    gender: null
+    notes:
+      en: "information + technology"
+      ko: "정보 + 기술"
+  - japanese: "端末操作"
+    reading: "たんまつそうさ"
+    translation:
+      en: "device operation"
+      ko: "단말 조작"
+    gender: null
+    notes:
+      en: "device + operation"
+      ko: "단말 + 조작"
+  - japanese: "デジタル化"
+    reading: "デジタルか"
+    translation:
+      en: "digitalization"
+      ko: "디지털화"
+    gender: null
+    notes:
+      en: "デジタル + 化; digital transformation"
+      ko: "디지털 + 화; 디지털 전환"
+  - japanese: "遠隔操作"
+    reading: "えんかくそうさ"
+    translation:
+      en: "remote control/operation"
+      ko: "원격 조작"
+    gender: null
+    notes:
+      en: "remote + operation"
+      ko: "원격 + 조작"
+  - japanese: "通信速度"
+    reading: "つうしんそくど"
+    translation:
+      en: "connection speed"
+      ko: "통신 속도"
+    gender: null
+    notes:
+      en: "communication + speed"
+      ko: "통신 + 속도"
+  - japanese: "動作"
+    reading: "どうさ"
+    translation:
+      en: "operation, behavior (of a device)"
+      ko: "동작"
+    gender: null
+    notes:
+      en: "正常に動作する = to operate normally"
+      ko: "正常に動作する = 정상적으로 동작하다"
+  - japanese: "拡張子"
+    reading: "かくちょうし"
+    translation:
+      en: "file extension"
+      ko: "확장자"
+    gender: null
+    notes:
+      en: ".jpg, .pdf etc."
+      ko: ".jpg, .pdf 등"
+  - japanese: フォルダ
+    reading: null
+    translation:
+      en: "folder"
+      ko: "폴더"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "共有する"
+    reading: "きょうゆうする"
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+    notes:
+      en: "ファイルを共有する = to share a file"
+      ko: "ファイルを共有する = 파일을 공유하다"
+  - japanese: "複製する"
+    reading: "ふくせいする"
+    translation:
+      en: "to copy, to duplicate"
+      ko: "복제하다"
+    gender: null
+    notes:
+      en: "複製 = copy, duplicate"
+      ko: "複製 = 복제"
+  - japanese: "貼り付ける"
+    reading: "はりつける"
+    translation:
+      en: "to paste"
+      ko: "붙여넣다"
+    gender: null
+    notes:
+      en: "コピーして貼り付ける = copy and paste"
+      ko: "コピーして貼り付ける = 복사하여 붙여넣기"
+  - japanese: "取り消す"
+    reading: "とりけす"
+    translation:
+      en: "to undo"
+      ko: "취소하다"
+    gender: null
+    notes:
+      en: "取り消し = undo"
+      ko: "取り消し = 취소"
+  - japanese: "検出する"
+    reading: "けんしゅつする"
+    translation:
+      en: "to detect"
+      ko: "검출하다"
+    gender: null
+    notes:
+      en: "ウイルスを検出する = to detect a virus"
+      ko: "ウイルスを検出する = 바이러스를 검출하다"
+  - japanese: "遮断する"
+    reading: "しゃだんする"
+    translation:
+      en: "to block, to cut off"
+      ko: "차단하다"
+    gender: null
+    notes:
+      en: "通信を遮断する = to block communication"
+      ko: "通信を遮断する = 통신을 차단하다"
+  - japanese: "推奨する"
+    reading: "すいしょうする"
+    translation:
+      en: "to recommend"
+      ko: "추천하다"
+    gender: null
+    notes:
+      en: "推奨環境 = recommended environment"
+      ko: "推奨環境 = 권장 환경"
+  - japanese: "規約"
+    reading: "きやく"
+    translation:
+      en: "terms of service"
+      ko: "규약"
+    gender: null
+    notes:
+      en: "利用規約 = terms of use"
+      ko: "利用規約 = 이용 규약"
+  - japanese: "認証"
+    reading: "にんしょう"
+    translation:
+      en: "authentication"
+      ko: "인증"
+    gender: null
+    notes:
+      en: "生体認証 = biometric authentication"
+      ko: "生体認証 = 생체 인증"
+  - japanese: "暗号"
+    reading: "あんごう"
+    translation:
+      en: "encryption, cipher"
+      ko: "암호"
+    gender: null
+    notes:
+      en: "暗号通貨 = cryptocurrency"
+      ko: "暗号通貨 = 암호 화폐"
+  - japanese: "復旧する"
+    reading: "ふっきゅうする"
+    translation:
+      en: "to restore, to recover"
+      ko: "복구하다"
+    gender: null
+    notes:
+      en: "システムを復旧する = to restore a system"
+      ko: "システムを復旧する = 시스템을 복구하다"
+  - japanese: "障害"
+    reading: "しょうがい"
+    translation:
+      en: "failure, outage"
+      ko: "장애"
+    gender: null
+    notes:
+      en: "システム障害 = system failure"
+      ko: "システム障害 = 시스템 장애"
+  - japanese: "互換"
+    reading: "ごかん"
+    translation:
+      en: "compatibility"
+      ko: "호환"
+    gender: null
+    notes:
+      en: "下位互換 = backward compatibility"
+      ko: "下位互換 = 하위 호환"

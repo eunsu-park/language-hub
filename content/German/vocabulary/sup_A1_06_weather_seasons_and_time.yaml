@@ -1,0 +1,1104 @@
+lesson: "sup_A1_Weather_Seasons_and_Time"
+lesson_number: 106
+cefr: A1
+type: supplementary
+topic: "Weather, Seasons, and Time"
+categories:
+- id: wetter
+  label:
+    en: "Weather Conditions (Wetter)"
+    ko: "날씨 (Wetter)"
+  type: vocabulary
+  words:
+  - german: "das Wetter"
+    translation:
+      en: "weather"
+      ko: "날씨"
+    gender: n
+    notes:
+      en: "der Wetterbericht = weather report"
+      ko: "der Wetterbericht = 일기예보"
+  - german: "die Sonne, -n"
+    translation:
+      en: "sun"
+      ko: "태양 / 해"
+    gender: f
+    notes:
+      en: "sonnig = sunny"
+      ko: "sonnig = 맑은 / 화창한"
+  - german: "sonnig"
+    translation:
+      en: "sunny"
+      ko: "맑은 / 화창한"
+    gender: null
+    notes:
+      en: "Es ist sonnig = It is sunny"
+      ko: "Es ist sonnig = 날씨가 화창해요"
+  - german: "der Regen"
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: m
+    notes:
+      en: "Es regnet = It is raining"
+      ko: "Es regnet = 비가 와요"
+  - german: "regnen"
+    translation:
+      en: "to rain"
+      ko: "비가 오다"
+    gender: null
+    notes:
+      en: "Impersonal verb: Es regnet"
+      ko: "비인칭 동사: Es regnet"
+  - german: "der Schnee"
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: m
+    notes:
+      en: "Es schneit = It is snowing"
+      ko: "Es schneit = 눈이 와요"
+  - german: "schneien"
+    translation:
+      en: "to snow"
+      ko: "눈이 오다"
+    gender: null
+    notes:
+      en: "Impersonal verb: Es schneit"
+      ko: "비인칭 동사: Es schneit"
+  - german: "die Wolke, -n"
+    translation:
+      en: "cloud"
+      ko: "구름"
+    gender: f
+    notes:
+      en: "bewölkt = cloudy"
+      ko: "bewölkt = 흐린"
+  - german: "bewölkt"
+    translation:
+      en: "cloudy / overcast"
+      ko: "흐린 / 구름 낀"
+    gender: null
+    notes:
+      en: "Es ist bewölkt = It is cloudy"
+      ko: "Es ist bewölkt = 날씨가 흐려요"
+  - german: "der Wind, -e"
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: m
+    notes:
+      en: "windig = windy"
+      ko: "windig = 바람이 부는"
+  - german: "windig"
+    translation:
+      en: "windy"
+      ko: "바람이 부는"
+    gender: null
+    notes:
+      en: "Es ist windig = It is windy"
+      ko: "Es ist windig = 바람이 불어요"
+  - german: "der Sturm, Stürme"
+    translation:
+      en: "storm"
+      ko: "폭풍"
+    gender: m
+    notes:
+      en: "stürmisch = stormy"
+      ko: "stürmisch = 폭풍우의"
+  - german: "das Gewitter, -"
+    translation:
+      en: "thunderstorm"
+      ko: "뇌우 / 천둥번개"
+    gender: n
+    notes:
+      en: "der Blitz = lightning; der Donner = thunder"
+      ko: "der Blitz = 번개; der Donner = 천둥"
+  - german: "der Nebel, -"
+    translation:
+      en: "fog / mist"
+      ko: "안개"
+    gender: m
+    notes:
+      en: "neblig = foggy"
+      ko: "neblig = 안개 낀"
+  - german: "das Eis"
+    translation:
+      en: "ice / ice cream"
+      ko: "얼음 / 아이스크림"
+    gender: n
+    notes:
+      en: "Context determines meaning: weather or dessert"
+      ko: "문맥에 따라 의미 결정: 날씨 또는 디저트"
+  - german: "der Hagel"
+    translation:
+      en: "hail"
+      ko: "우박"
+    gender: m
+    notes:
+      en: "Es hagelt = It is hailing"
+      ko: "Es hagelt = 우박이 내린다"
+  - german: "warm"
+    translation:
+      en: "warm"
+      ko: "따뜻한"
+    gender: null
+    notes:
+      en: "Es ist warm = It is warm"
+      ko: "Es ist warm = 날씨가 따뜻해요"
+  - german: "kalt"
+    translation:
+      en: "cold"
+      ko: "추운 / 차가운"
+    gender: null
+    notes:
+      en: "Es ist kalt = It is cold"
+      ko: "Es ist kalt = 날씨가 추워요"
+  - german: "heiß"
+    translation:
+      en: "hot"
+      ko: "더운 / 뜨거운"
+    gender: null
+    notes:
+      en: "Es ist heiß = It is hot"
+      ko: "Es ist heiß = 날씨가 더워요"
+  - german: "kühl"
+    translation:
+      en: "cool"
+      ko: "서늘한"
+    gender: null
+    notes:
+      en: "Es ist kühl = It is cool"
+      ko: "Es ist kühl = 날씨가 서늘해요"
+  - german: "feucht"
+    translation:
+      en: "humid / damp"
+      ko: "습한 / 축축한"
+    gender: null
+    notes:
+      en: "die Feuchtigkeit = humidity / moisture"
+      ko: "die Feuchtigkeit = 습기"
+  - german: "der Regenbogen, Regenbögen"
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: m
+    notes:
+      en: "Compound: Regen (rain) + Bogen (arc)"
+      ko: "합성어: Regen (비) + Bogen (호/아치)"
+  - german: "die Temperatur, -en"
+    translation:
+      en: "temperature"
+      ko: "기온 / 온도"
+    gender: f
+    notes:
+      en: "Germany uses Celsius (°C)"
+      ko: "독일은 섭씨(°C)를 사용"
+  - german: "der Grad, -e"
+    translation:
+      en: "degree"
+      ko: "도"
+    gender: m
+    notes:
+      en: "20 Grad Celsius = 20 degrees Celsius"
+      ko: "20 Grad Celsius = 섭씨 20도"
+  - german: "der Blitz, -e"
+    translation:
+      en: "lightning"
+      ko: "번개"
+    gender: m
+    notes:
+      en: "wie der Blitz = fast as lightning"
+      ko: "wie der Blitz = 번개처럼 빠른"
+  - german: "der Donner"
+    translation:
+      en: "thunder"
+      ko: "천둥"
+    gender: m
+    notes:
+      en: "donnern = to thunder"
+      ko: "donnern = 천둥이 치다"
+  - german: "der Frost, Fröste"
+    translation:
+      en: "frost"
+      ko: "서리 / 영하"
+    gender: m
+    notes:
+      en: "frostig = frosty"
+      ko: "frostig = 서리가 내리는"
+  - german: "der Tau"
+    translation:
+      en: "dew"
+      ko: "이슬"
+    gender: m
+    notes:
+      en: "der Morgentau = morning dew"
+      ko: "der Morgentau = 아침 이슬"
+  - german: "der Schauer, -"
+    translation:
+      en: "rain shower"
+      ko: "소나기"
+    gender: m
+    notes:
+      en: "ein kurzer Schauer = a brief shower"
+      ko: "ein kurzer Schauer = 짧은 소나기"
+  - german: "die Überschwemmung, -en"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: f
+    notes:
+      en: "überschwemmen = to flood"
+      ko: "überschwemmen = 범람하다"
+  - german: "die Hitze"
+    translation:
+      en: "heat"
+      ko: "더위 / 열기"
+    gender: f
+    notes:
+      en: "die Hitzewelle = heat wave"
+      ko: "die Hitzewelle = 폭염"
+  - german: "die Kälte"
+    translation:
+      en: "cold (noun)"
+      ko: "추위"
+    gender: f
+    notes:
+      en: "bei dieser Kälte = in this cold"
+      ko: "bei dieser Kälte = 이 추위에"
+  - german: "der Sonnenschein"
+    translation:
+      en: "sunshine"
+      ko: "햇살"
+    gender: m
+    notes:
+      en: "bei Sonnenschein = in the sunshine"
+      ko: "bei Sonnenschein = 햇살 아래에서"
+  - german: "die Wettervorhersage, -n"
+    translation:
+      en: "weather forecast"
+      ko: "일기예보"
+    gender: f
+    notes:
+      en: "Compound: Wetter + Vorhersage (prediction)"
+      ko: "합성어: Wetter (날씨) + Vorhersage (예보)"
+  - german: "trocken"
+    translation:
+      en: "dry (weather)"
+      ko: "건조한 (날씨)"
+    gender: null
+    notes:
+      en: "Es bleibt trocken = It will stay dry"
+      ko: "Es bleibt trocken = 건조한 날씨가 계속될 거예요"
+
+- id: jahreszeiten_monate
+  label:
+    en: "Seasons and Months (Jahreszeiten und Monate)"
+    ko: "계절과 월 (Jahreszeiten und Monate)"
+  type: vocabulary
+  words:
+  - german: "die Jahreszeit, -en"
+    translation:
+      en: "season"
+      ko: "계절"
+    gender: f
+    notes:
+      en: "Compound: Jahr (year) + Zeit (time)"
+      ko: "합성어: Jahr (년) + Zeit (시간)"
+  - german: "der Frühling"
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: m
+    notes:
+      en: "Also called 'das Frühjahr'"
+      ko: "'das Frühjahr'라고도 함"
+  - german: "der Sommer"
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: m
+    notes:
+      en: "die Sommerferien = summer vacation"
+      ko: "die Sommerferien = 여름 방학"
+  - german: "der Herbst"
+    translation:
+      en: "autumn / fall"
+      ko: "가을"
+    gender: m
+    notes:
+      en: "Famous for Oktoberfest"
+      ko: "옥토버페스트로 유명한 계절"
+  - german: "der Winter"
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: m
+    notes:
+      en: "der Weihnachtsmarkt = Christmas market (winter tradition)"
+      ko: "der Weihnachtsmarkt = 크리스마스 마켓 (겨울 전통)"
+  - german: "der Januar"
+    translation:
+      en: "January"
+      ko: "1월"
+    gender: m
+    notes:
+      en: "Also called 'Jänner' in Austria"
+      ko: "오스트리아에서는 'Jänner'라고도 함"
+  - german: "der Februar"
+    translation:
+      en: "February"
+      ko: "2월"
+    gender: m
+    notes:
+      en: "Karneval / Fasching season"
+      ko: "카니발 / 파싱 시즌"
+  - german: "der März"
+    translation:
+      en: "March"
+      ko: "3월"
+    gender: m
+    notes:
+      en: "Start of spring in Germany"
+      ko: "독일에서 봄의 시작"
+  - german: "der April"
+    translation:
+      en: "April"
+      ko: "4월"
+    gender: m
+    notes:
+      en: "April, April! = April Fools!"
+      ko: "April, April! = 만우절!"
+  - german: "der Mai"
+    translation:
+      en: "May"
+      ko: "5월"
+    gender: m
+    notes:
+      en: "der Maifeiertag = May Day (public holiday)"
+      ko: "der Maifeiertag = 노동절 (공휴일)"
+  - german: "der Juni"
+    translation:
+      en: "June"
+      ko: "6월"
+    gender: m
+    notes:
+      en: "Start of summer"
+      ko: "여름의 시작"
+  - german: "der Juli"
+    translation:
+      en: "July"
+      ko: "7월"
+    gender: m
+    notes:
+      en: "Usually the warmest month"
+      ko: "보통 가장 더운 달"
+  - german: "der August"
+    translation:
+      en: "August"
+      ko: "8월"
+    gender: m
+    notes:
+      en: "Summer vacation time for most Germans"
+      ko: "대부분의 독일인에게 여름 휴가 시즌"
+  - german: "der September"
+    translation:
+      en: "September"
+      ko: "9월"
+    gender: m
+    notes:
+      en: "Oktoberfest begins in late September"
+      ko: "옥토버페스트는 9월 말에 시작됨"
+  - german: "der Oktober"
+    translation:
+      en: "October"
+      ko: "10월"
+    gender: m
+    notes:
+      en: "der Tag der Deutschen Einheit (Oct 3) = German Unity Day"
+      ko: "der Tag der Deutschen Einheit (10월 3일) = 독일 통일의 날"
+  - german: "der November"
+    translation:
+      en: "November"
+      ko: "11월"
+    gender: m
+    notes:
+      en: "Often dark and rainy in Germany"
+      ko: "독일에서 흔히 어둡고 비가 많은 달"
+  - german: "der Dezember"
+    translation:
+      en: "December"
+      ko: "12월"
+    gender: m
+    notes:
+      en: "die Adventszeit = Advent season; Weihnachten = Christmas"
+      ko: "die Adventszeit = 대림절; Weihnachten = 크리스마스"
+  - german: "im Frühling"
+    translation:
+      en: "in spring"
+      ko: "봄에"
+    gender: null
+    notes:
+      en: "im + season for temporal expressions"
+      ko: "시간 표현에 im + 계절 사용"
+  - german: "im Sommer"
+    translation:
+      en: "in summer"
+      ko: "여름에"
+    gender: null
+    notes:
+      en: "im + season for temporal expressions"
+      ko: "시간 표현에 im + 계절 사용"
+  - german: "im Herbst"
+    translation:
+      en: "in autumn"
+      ko: "가을에"
+    gender: null
+    notes:
+      en: "im + season for temporal expressions"
+      ko: "시간 표현에 im + 계절 사용"
+  - german: "im Winter"
+    translation:
+      en: "in winter"
+      ko: "겨울에"
+    gender: null
+    notes:
+      en: "im + season for temporal expressions"
+      ko: "시간 표현에 im + 계절 사용"
+  - german: "im Januar"
+    translation:
+      en: "in January"
+      ko: "1월에"
+    gender: null
+    notes:
+      en: "im + month name for temporal expressions"
+      ko: "시간 표현에 im + 월 이름 사용"
+
+- id: tageszeit
+  label:
+    en: "Time of Day"
+    ko: "하루의 시간대"
+  type: vocabulary
+  words:
+  - german: "der Morgen, -"
+    translation:
+      en: "morning"
+      ko: "아침"
+    gender: m
+    notes:
+      en: "am Morgen / morgens = in the morning"
+      ko: "am Morgen / morgens = 아침에"
+  - german: "der Vormittag, -e"
+    translation:
+      en: "late morning / forenoon"
+      ko: "오전"
+    gender: m
+    notes:
+      en: "am Vormittag / vormittags = in the late morning"
+      ko: "am Vormittag / vormittags = 오전에"
+  - german: "der Mittag, -e"
+    translation:
+      en: "noon / midday"
+      ko: "정오"
+    gender: m
+    notes:
+      en: "das Mittagessen = lunch"
+      ko: "das Mittagessen = 점심식사"
+  - german: "der Nachmittag, -e"
+    translation:
+      en: "afternoon"
+      ko: "오후"
+    gender: m
+    notes:
+      en: "am Nachmittag / nachmittags = in the afternoon"
+      ko: "am Nachmittag / nachmittags = 오후에"
+  - german: "der Abend, -e"
+    translation:
+      en: "evening"
+      ko: "저녁"
+    gender: m
+    notes:
+      en: "am Abend / abends = in the evening"
+      ko: "am Abend / abends = 저녁에"
+  - german: "die Nacht, Nächte"
+    translation:
+      en: "night"
+      ko: "밤"
+    gender: f
+    notes:
+      en: "in der Nacht / nachts = at night"
+      ko: "in der Nacht / nachts = 밤에"
+  - german: "die Mitternacht"
+    translation:
+      en: "midnight"
+      ko: "자정"
+    gender: f
+    notes:
+      en: "um Mitternacht = at midnight"
+      ko: "um Mitternacht = 자정에"
+  - german: "der Sonnenaufgang, Sonnenaufgänge"
+    translation:
+      en: "sunrise"
+      ko: "일출"
+    gender: m
+    notes:
+      en: "Compound: Sonne (sun) + Aufgang (rise)"
+      ko: "합성어: Sonne (태양) + Aufgang (오름)"
+  - german: "der Sonnenuntergang, Sonnenuntergänge"
+    translation:
+      en: "sunset"
+      ko: "일몰"
+    gender: m
+    notes:
+      en: "Compound: Sonne (sun) + Untergang (setting)"
+      ko: "합성어: Sonne (태양) + Untergang (지는 것)"
+  - german: "heute"
+    translation:
+      en: "today"
+      ko: "오늘"
+    gender: null
+    notes:
+      en: "heute Morgen = this morning; heute Abend = this evening"
+      ko: "heute Morgen = 오늘 아침; heute Abend = 오늘 저녁"
+  - german: "gestern"
+    translation:
+      en: "yesterday"
+      ko: "어제"
+    gender: null
+    notes:
+      en: "gestern Abend = yesterday evening"
+      ko: "gestern Abend = 어제 저녁"
+  - german: "morgen"
+    translation:
+      en: "tomorrow"
+      ko: "내일"
+    gender: null
+    notes:
+      en: "Lowercase = tomorrow; der Morgen (uppercase) = morning"
+      ko: "소문자 = 내일; der Morgen (대문자) = 아침"
+  - german: "vorgestern"
+    translation:
+      en: "the day before yesterday"
+      ko: "그저께"
+    gender: null
+    notes:
+      en: "Common in daily German conversation"
+      ko: "일상 독일어 대화에서 흔히 사용됨"
+  - german: "übermorgen"
+    translation:
+      en: "the day after tomorrow"
+      ko: "모레"
+    gender: null
+    notes:
+      en: "Common in daily German conversation"
+      ko: "일상 독일어 대화에서 흔히 사용됨"
+  - german: "früh"
+    translation:
+      en: "early"
+      ko: "이른 / 일찍"
+    gender: null
+    notes:
+      en: "Opposite of spät (late)"
+      ko: "spät (늦은)의 반대말"
+  - german: "spät"
+    translation:
+      en: "late"
+      ko: "늦은 / 늦게"
+    gender: null
+    notes:
+      en: "Wie spät ist es? = What time is it?"
+      ko: "Wie spät ist es? = 몇 시예요?"
+  - german: "gerade eben"
+    translation:
+      en: "just now"
+      ko: "방금 막"
+    gender: null
+    notes:
+      en: "Er ist gerade eben gegangen = He just left"
+      ko: "Er ist gerade eben gegangen = 그는 방금 떠났어요"
+  - german: "tagsüber"
+    translation:
+      en: "during the day"
+      ko: "낮 동안"
+    gender: null
+    notes:
+      en: "Tagsüber arbeite ich = I work during the day"
+      ko: "Tagsüber arbeite ich = 나는 낮 동안 일해요"
+  - german: "nachts"
+    translation:
+      en: "at night"
+      ko: "밤에"
+    gender: null
+    notes:
+      en: "nachts schlafen = to sleep at night"
+      ko: "nachts schlafen = 밤에 자다"
+  - german: "die Dämmerung"
+    translation:
+      en: "dusk / dawn / twilight"
+      ko: "여명 / 황혼"
+    gender: f
+    notes:
+      en: "die Morgendämmerung = dawn; die Abenddämmerung = dusk"
+      ko: "die Morgendämmerung = 새벽; die Abenddämmerung = 황혼"
+
+- id: haeufigkeit
+  label:
+    en: "Frequency Adverbs"
+    ko: "빈도 부사"
+  type: vocabulary
+  words:
+  - german: "immer"
+    translation:
+      en: "always"
+      ko: "항상"
+    gender: null
+    notes:
+      en: "für immer = forever"
+      ko: "für immer = 영원히"
+  - german: "oft"
+    translation:
+      en: "often"
+      ko: "자주"
+    gender: null
+    notes:
+      en: "Comparative: öfter; superlative: am häufigsten"
+      ko: "비교급: öfter; 최상급: am häufigsten"
+  - german: "manchmal"
+    translation:
+      en: "sometimes"
+      ko: "가끔"
+    gender: null
+    notes:
+      en: "Less frequent than oft, more than selten"
+      ko: "oft보다 적고 selten보다 많은 빈도"
+  - german: "selten"
+    translation:
+      en: "rarely / seldom"
+      ko: "드물게"
+    gender: null
+    notes:
+      en: "Opposite of oft (often)"
+      ko: "oft (자주)의 반대말"
+  - german: "nie / niemals"
+    translation:
+      en: "never"
+      ko: "절대 ~않다"
+    gender: null
+    notes:
+      en: "nie = never; niemals = never ever (emphatic)"
+      ko: "nie = 절대; niemals = 절대로 (강조)"
+  - german: "meistens"
+    translation:
+      en: "mostly / usually"
+      ko: "대부분 / 주로"
+    gender: null
+    notes:
+      en: "Similar to 'normalerweise' but slightly more frequent"
+      ko: "'normalerweise'와 비슷하지만 약간 더 높은 빈도"
+  - german: "normalerweise"
+    translation:
+      en: "normally / usually"
+      ko: "보통 / 일반적으로"
+    gender: null
+    notes:
+      en: "Formal equivalent of meistens"
+      ko: "meistens의 격식 있는 표현"
+  - german: "jeden Tag"
+    translation:
+      en: "every day"
+      ko: "매일"
+    gender: null
+    notes:
+      en: "Also: täglich = daily"
+      ko: "또한: täglich = 매일의"
+  - german: "jede Woche"
+    translation:
+      en: "every week"
+      ko: "매주"
+    gender: null
+    notes:
+      en: "Also: wöchentlich = weekly"
+      ko: "또한: wöchentlich = 매주의"
+  - german: "jedes Jahr"
+    translation:
+      en: "every year"
+      ko: "매년"
+    gender: null
+    notes:
+      en: "Also: jährlich = yearly / annually"
+      ko: "또한: jährlich = 매년의"
+  - german: "wieder"
+    translation:
+      en: "again"
+      ko: "다시"
+    gender: null
+    notes:
+      en: "immer wieder = again and again"
+      ko: "immer wieder = 반복해서"
+  - german: "schon"
+    translation:
+      en: "already"
+      ko: "이미 / 벌써"
+    gender: null
+    notes:
+      en: "Multiple meanings depending on context"
+      ko: "문맥에 따라 여러 의미를 가짐"
+  - german: "noch"
+    translation:
+      en: "still / yet"
+      ko: "아직 / 여전히"
+    gender: null
+    notes:
+      en: "noch nicht = not yet; noch einmal = once more"
+      ko: "noch nicht = 아직 아닌; noch einmal = 한 번 더"
+  - german: "gerade"
+    translation:
+      en: "right now / just"
+      ko: "지금 막 / 방금"
+    gender: null
+    notes:
+      en: "Ich esse gerade = I am eating right now"
+      ko: "Ich esse gerade = 나는 지금 먹고 있어"
+  - german: "bald"
+    translation:
+      en: "soon"
+      ko: "곧"
+    gender: null
+    notes:
+      en: "Bis bald! = See you soon!"
+      ko: "Bis bald! = 곧 만나!"
+  - german: "häufig"
+    translation:
+      en: "frequently"
+      ko: "빈번하게"
+    gender: null
+    notes:
+      en: "More formal synonym of oft"
+      ko: "oft의 좀 더 격식 있는 동의어"
+  - german: "ab und zu"
+    translation:
+      en: "now and then"
+      ko: "때때로"
+    gender: null
+    notes:
+      en: "Similar in frequency to manchmal"
+      ko: "manchmal과 비슷한 빈도"
+  - german: "täglich"
+    translation:
+      en: "daily"
+      ko: "매일의 / 매일"
+    gender: null
+    notes:
+      en: "die Tageszeitung = daily newspaper"
+      ko: "die Tageszeitung = 일간 신문"
+  - german: "monatlich"
+    translation:
+      en: "monthly"
+      ko: "매달의 / 매달"
+    gender: null
+    notes:
+      en: "die monatliche Miete = monthly rent"
+      ko: "die monatliche Miete = 월세"
+  - german: "jährlich"
+    translation:
+      en: "yearly / annually"
+      ko: "매년의 / 매년"
+    gender: null
+    notes:
+      en: "der Jahresbericht = annual report"
+      ko: "der Jahresbericht = 연간 보고서"
+  - german: "endlich"
+    translation:
+      en: "finally"
+      ko: "드디어 / 마침내"
+    gender: null
+    notes:
+      en: "Endlich! = Finally! / At last!"
+      ko: "Endlich! = 드디어! / 마침내!"
+  - german: "plötzlich"
+    translation:
+      en: "suddenly"
+      ko: "갑자기"
+    gender: null
+    notes:
+      en: "Plötzlich regnete es = Suddenly it rained"
+      ko: "Plötzlich regnete es = 갑자기 비가 왔다"
+  - german: "sofort"
+    translation:
+      en: "immediately"
+      ko: "즉시 / 바로"
+    gender: null
+    notes:
+      en: "Komm sofort! = Come immediately!"
+      ko: "Komm sofort! = 당장 와!"
+  - german: "zuerst"
+    translation:
+      en: "first / at first"
+      ko: "먼저 / 우선"
+    gender: null
+    notes:
+      en: "Zuerst essen wir = First we eat"
+      ko: "Zuerst essen wir = 먼저 먹자"
+  - german: "danach"
+    translation:
+      en: "after that / then"
+      ko: "그 후에"
+    gender: null
+    notes:
+      en: "Zuerst..., danach... = First..., then..."
+      ko: "Zuerst..., danach... = 먼저..., 그 후에..."
+  - german: "gleichzeitig"
+    translation:
+      en: "simultaneously / at the same time"
+      ko: "동시에"
+    gender: null
+    notes:
+      en: "zur gleichen Zeit = at the same time"
+      ko: "zur gleichen Zeit = 같은 시간에"
+  - german: "inzwischen"
+    translation:
+      en: "meanwhile / in the meantime"
+      ko: "그 사이에 / 그동안"
+    gender: null
+    notes:
+      en: "Was machst du inzwischen? = What do you do in the meantime?"
+      ko: "Was machst du inzwischen? = 그동안 뭐해?"
+
+- id: kalender
+  label:
+    en: "Calendar and Dates"
+    ko: "달력과 날짜"
+  type: vocabulary
+  words:
+  - german: "der Kalender, -"
+    translation:
+      en: "calendar"
+      ko: "달력"
+    gender: m
+    notes:
+      en: "der Adventskalender = Advent calendar"
+      ko: "der Adventskalender = 대림절 달력"
+  - german: "das Datum, Daten"
+    translation:
+      en: "date"
+      ko: "날짜"
+    gender: n
+    notes:
+      en: "Welches Datum ist heute? = What is today's date?"
+      ko: "Welches Datum ist heute? = 오늘 날짜가 어떻게 돼요?"
+  - german: "der Dienstag"
+    translation:
+      en: "Tuesday"
+      ko: "화요일"
+    gender: m
+    notes:
+      en: "am Dienstag = on Tuesday"
+      ko: "am Dienstag = 화요일에"
+  - german: "der Mittwoch"
+    translation:
+      en: "Wednesday"
+      ko: "수요일"
+    gender: m
+    notes:
+      en: "Literally 'mid-week'; die Mitte der Woche"
+      ko: "직역하면 '주의 중간'; die Mitte der Woche"
+  - german: "der Donnerstag"
+    translation:
+      en: "Thursday"
+      ko: "목요일"
+    gender: m
+    notes:
+      en: "Named after Donar (Thor), god of thunder"
+      ko: "천둥의 신 도나르(토르)에서 유래"
+  - german: "der Freitag"
+    translation:
+      en: "Friday"
+      ko: "금요일"
+    gender: m
+    notes:
+      en: "Named after Freia, goddess of love"
+      ko: "사랑의 여신 프라이아에서 유래"
+  - german: "der Samstag"
+    translation:
+      en: "Saturday"
+      ko: "토요일"
+    gender: m
+    notes:
+      en: "Called 'Sonnabend' in northern/eastern Germany"
+      ko: "북부/동부 독일에서는 'Sonnabend'라고 함"
+  - german: "der Sonntag"
+    translation:
+      en: "Sunday"
+      ko: "일요일"
+    gender: m
+    notes:
+      en: "Shops are closed on Sundays in Germany"
+      ko: "독일에서는 일요일에 가게가 문을 닫음"
+  - german: "das Wochenende, -n"
+    translation:
+      en: "weekend"
+      ko: "주말"
+    gender: n
+    notes:
+      en: "am Wochenende = on the weekend"
+      ko: "am Wochenende = 주말에"
+  - german: "der Feiertag, -e"
+    translation:
+      en: "holiday / public holiday"
+      ko: "공휴일"
+    gender: m
+    notes:
+      en: "Germany has many regional holidays"
+      ko: "독일에는 많은 지역 공휴일이 있음"
+  - german: "der Geburtstag, -e"
+    translation:
+      en: "birthday"
+      ko: "생일"
+    gender: m
+    notes:
+      en: "Alles Gute zum Geburtstag! = Happy Birthday!"
+      ko: "Alles Gute zum Geburtstag! = 생일 축하해요!"
+  - german: "der Termin, -e"
+    translation:
+      en: "appointment / date"
+      ko: "약속 / 일정"
+    gender: m
+    notes:
+      en: "einen Termin haben = to have an appointment"
+      ko: "einen Termin haben = 약속이 있다"
+  - german: "die Stunde, -n"
+    translation:
+      en: "hour"
+      ko: "시간 (한 시간)"
+    gender: f
+    notes:
+      en: "eine halbe Stunde = half an hour"
+      ko: "eine halbe Stunde = 30분"
+  - german: "die Minute, -n"
+    translation:
+      en: "minute"
+      ko: "분"
+    gender: f
+    notes:
+      en: "fünf Minuten = five minutes"
+      ko: "fünf Minuten = 5분"
+  - german: "die Sekunde, -n"
+    translation:
+      en: "second"
+      ko: "초"
+    gender: f
+    notes:
+      en: "einen Moment / eine Sekunde bitte = one moment please"
+      ko: "einen Moment / eine Sekunde bitte = 잠시만요"
+  - german: "die Viertelstunde, -n"
+    translation:
+      en: "quarter of an hour"
+      ko: "15분"
+    gender: f
+    notes:
+      en: "Viertel vor/nach = quarter to/past"
+      ko: "Viertel vor/nach = ~시 15분 전/후"
+  - german: "halb"
+    translation:
+      en: "half"
+      ko: "반"
+    gender: null
+    notes:
+      en: "halb drei = 2:30 (half TO three, not half past)"
+      ko: "halb drei = 2시 30분 (3시의 반, 2시 반이 아님에 주의)"
+  - german: "pünktlich"
+    translation:
+      en: "punctual / on time"
+      ko: "시간을 잘 지키는 / 정각에"
+    gender: null
+    notes:
+      en: "Punctuality is highly valued in German culture"
+      ko: "독일 문화에서 시간 엄수는 매우 중요시됨"
+  - german: "der Wochentag, -e"
+    translation:
+      en: "weekday"
+      ko: "평일"
+    gender: m
+    notes:
+      en: "Montag bis Freitag = Monday to Friday"
+      ko: "Montag bis Freitag = 월요일부터 금요일까지"
+  - german: "der Urlaub, -e"
+    translation:
+      en: "vacation / holiday"
+      ko: "휴가"
+    gender: m
+    notes:
+      en: "in Urlaub fahren = to go on vacation"
+      ko: "in Urlaub fahren = 휴가를 떠나다"
+  - german: "das Neujahr"
+    translation:
+      en: "New Year"
+      ko: "새해"
+    gender: n
+    notes:
+      en: "Frohes neues Jahr! = Happy New Year!"
+      ko: "Frohes neues Jahr! = 새해 복 많이 받으세요!"
+  - german: "Weihnachten"
+    translation:
+      en: "Christmas"
+      ko: "크리스마스"
+    gender: n
+    notes:
+      en: "Frohe Weihnachten! = Merry Christmas!"
+      ko: "Frohe Weihnachten! = 메리 크리스마스!"
+  - german: "Ostern"
+    translation:
+      en: "Easter"
+      ko: "부활절"
+    gender: n
+    notes:
+      en: "Frohe Ostern! = Happy Easter!"
+      ko: "Frohe Ostern! = 즐거운 부활절!"
+  - german: "Silvester"
+    translation:
+      en: "New Year's Eve"
+      ko: "새해 전야"
+    gender: n
+    notes:
+      en: "das Feuerwerk = fireworks (big tradition)"
+      ko: "das Feuerwerk = 불꽃놀이 (큰 전통)"
+  - german: "der Werktag, -e"
+    translation:
+      en: "working day"
+      ko: "근무일"
+    gender: m
+    notes:
+      en: "werktags = on working days"
+      ko: "werktags = 근무일에"
+  - german: "der Jahrestag, -e"
+    translation:
+      en: "anniversary"
+      ko: "기념일"
+    gender: m
+    notes:
+      en: "der Hochzeitstag = wedding anniversary"
+      ko: "der Hochzeitstag = 결혼 기념일"
+  - german: "der Zeitplan, Zeitpläne"
+    translation:
+      en: "schedule / timetable"
+      ko: "일정 / 시간표"
+    gender: m
+    notes:
+      en: "nach Zeitplan = according to schedule"
+      ko: "nach Zeitplan = 일정에 따라"
+  - german: "dauern"
+    translation:
+      en: "to last / to take (time)"
+      ko: "걸리다 / 지속되다"
+    gender: null
+    notes:
+      en: "Wie lange dauert es? = How long does it take?"
+      ko: "Wie lange dauert es? = 얼마나 걸려요?"
+  - german: "die Uhrzeit, -en"
+    translation:
+      en: "time (of day)"
+      ko: "시각"
+    gender: f
+    notes:
+      en: "Wie ist die Uhrzeit? = What is the time?"
+      ko: "Wie ist die Uhrzeit? = 몇 시예요?"

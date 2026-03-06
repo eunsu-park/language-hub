@@ -1,0 +1,986 @@
+lesson: "sup_A1_Weather_Seasons_and_Time"
+lesson_number: 106
+cefr: A1
+type: supplementary
+topic: "Weather, Seasons, and Time"
+categories:
+- id: weather_conditions
+  label:
+    en: "Weather Conditions"
+    ko: "날씨 상태"
+  type: vocabulary
+  words:
+  - spanish: "el tiempo"
+    translation:
+      en: "weather / time"
+      ko: "날씨 / 시간"
+    gender: m
+    notes:
+      en: "el tiempo = weather or time; el clima = climate"
+      ko: "el tiempo = 날씨 또는 시간; el clima = 기후"
+  - spanish: "el clima"
+    translation:
+      en: "climate"
+      ko: "기후"
+    gender: m
+  - spanish: "la lluvia"
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: f
+  - spanish: "la nieve"
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: f
+  - spanish: "el viento"
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: m
+  - spanish: "la tormenta"
+    translation:
+      en: "storm"
+      ko: "폭풍"
+    gender: f
+  - spanish: "el rayo"
+    translation:
+      en: "lightning bolt"
+      ko: "번개"
+    gender: m
+  - spanish: "el trueno"
+    translation:
+      en: "thunder"
+      ko: "천둥"
+    gender: m
+  - spanish: "la niebla"
+    translation:
+      en: "fog"
+      ko: "안개"
+    gender: f
+  - spanish: "el granizo"
+    translation:
+      en: "hail"
+      ko: "우박"
+    gender: m
+  - spanish: "el arco iris"
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: m
+  - spanish: "la helada"
+    translation:
+      en: "frost"
+      ko: "서리"
+    gender: f
+  - spanish: "la brisa"
+    translation:
+      en: "breeze"
+      ko: "산들바람"
+    gender: f
+  - spanish: "húmedo"
+    translation:
+      en: "humid / damp"
+      ko: "습한"
+    gender: null
+  - spanish: "seco"
+    translation:
+      en: "dry"
+      ko: "건조한"
+    gender: null
+  - spanish: "caluroso"
+    translation:
+      en: "hot (weather)"
+      ko: "더운 (날씨)"
+    gender: null
+  - spanish: "fresco"
+    translation:
+      en: "cool / fresh"
+      ko: "시원한 / 신선한"
+    gender: null
+  - spanish: "templado"
+    translation:
+      en: "mild / temperate"
+      ko: "온화한"
+    gender: null
+  - spanish: "soleado"
+    translation:
+      en: "sunny"
+      ko: "화창한"
+    gender: null
+  - spanish: "nublado"
+    translation:
+      en: "cloudy"
+      ko: "흐린"
+    gender: null
+  - spanish: "llover"
+    translation:
+      en: "to rain"
+      ko: "비가 오다"
+    gender: null
+    notes:
+      en: "Impersonal verb: llueve, llovió"
+      ko: "비인칭 동사: llueve, llovió"
+  - spanish: "nevar"
+    translation:
+      en: "to snow"
+      ko: "눈이 오다"
+    gender: null
+    notes:
+      en: "Impersonal verb: nieva, nevó"
+      ko: "비인칭 동사: nieva, nevó"
+  - spanish: "la temperatura"
+    translation:
+      en: "temperature"
+      ko: "온도"
+    gender: f
+  - spanish: "el grado"
+    translation:
+      en: "degree"
+      ko: "도"
+    gender: m
+    notes:
+      en: "30 grados = 30 degrees"
+      ko: "30 grados = 30도"
+  - spanish: "el aguacero"
+    translation:
+      en: "downpour / heavy rain"
+      ko: "폭우 / 소나기"
+    gender: m
+  - spanish: "la sequía"
+    translation:
+      en: "drought"
+      ko: "가뭄"
+    gender: f
+  - spanish: "la inundación"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: f
+  - spanish: "el huracán"
+    translation:
+      en: "hurricane"
+      ko: "허리케인"
+    gender: m
+  - spanish: "el tornado"
+    translation:
+      en: "tornado"
+      ko: "토네이도"
+    gender: m
+  - spanish: "la ventisca"
+    translation:
+      en: "blizzard"
+      ko: "눈보라"
+    gender: f
+  - spanish: "la ola de calor"
+    translation:
+      en: "heat wave"
+      ko: "폭염"
+    gender: f
+  - spanish: "el rocío"
+    translation:
+      en: "dew"
+      ko: "이슬"
+    gender: m
+  - spanish: "despejado"
+    translation:
+      en: "clear (sky)"
+      ko: "맑은 (하늘)"
+    gender: null
+  - spanish: "cubierto"
+    translation:
+      en: "overcast"
+      ko: "잔뜩 흐린"
+    gender: null
+  - spanish: "lluvioso"
+    translation:
+      en: "rainy"
+      ko: "비가 오는"
+    gender: null
+  - spanish: "tormentoso"
+    translation:
+      en: "stormy"
+      ko: "폭풍우의"
+    gender: null
+  - spanish: "el pronóstico"
+    translation:
+      en: "forecast"
+      ko: "예보"
+    gender: m
+    notes:
+      en: "el pronóstico del tiempo = weather forecast"
+      ko: "el pronóstico del tiempo = 일기 예보"
+  - spanish: "el chaparrón"
+    translation:
+      en: "shower (brief rain)"
+      ko: "소나기"
+    gender: m
+  - spanish: "las botas de lluvia"
+    translation:
+      en: "rain boots"
+      ko: "장화"
+    gender: f
+  - spanish: "el barómetro"
+    translation:
+      en: "barometer"
+      ko: "기압계"
+    gender: m
+  - spanish: "bajo cero"
+    translation:
+      en: "below zero"
+      ko: "영하"
+    gender: null
+- id: seasons_and_months
+  label:
+    en: "Seasons and Months"
+    ko: "계절과 달"
+  type: vocabulary
+  words:
+  - spanish: "la estación"
+    translation:
+      en: "season"
+      ko: "계절"
+    gender: f
+    notes:
+      en: "Also means station (train/bus)"
+      ko: "역(기차/버스)이라는 뜻도 있음"
+  - spanish: "la primavera"
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: f
+  - spanish: "el verano"
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: m
+  - spanish: "el otoño"
+    translation:
+      en: "autumn / fall"
+      ko: "가을"
+    gender: m
+  - spanish: "el invierno"
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: m
+  - spanish: "enero"
+    translation:
+      en: "January"
+      ko: "1월"
+    gender: null
+    notes:
+      en: "Months are not capitalized in Spanish"
+      ko: "스페인어에서 달 이름은 대문자로 시작하지 않음"
+  - spanish: "febrero"
+    translation:
+      en: "February"
+      ko: "2월"
+    gender: null
+  - spanish: "marzo"
+    translation:
+      en: "March"
+      ko: "3월"
+    gender: null
+  - spanish: "abril"
+    translation:
+      en: "April"
+      ko: "4월"
+    gender: null
+  - spanish: "mayo"
+    translation:
+      en: "May"
+      ko: "5월"
+    gender: null
+  - spanish: "junio"
+    translation:
+      en: "June"
+      ko: "6월"
+    gender: null
+  - spanish: "julio"
+    translation:
+      en: "July"
+      ko: "7월"
+    gender: null
+  - spanish: "agosto"
+    translation:
+      en: "August"
+      ko: "8월"
+    gender: null
+  - spanish: "septiembre"
+    translation:
+      en: "September"
+      ko: "9월"
+    gender: null
+  - spanish: "octubre"
+    translation:
+      en: "October"
+      ko: "10월"
+    gender: null
+  - spanish: "noviembre"
+    translation:
+      en: "November"
+      ko: "11월"
+    gender: null
+  - spanish: "diciembre"
+    translation:
+      en: "December"
+      ko: "12월"
+    gender: null
+  - spanish: "el trimestre"
+    translation:
+      en: "quarter (3 months)"
+      ko: "분기"
+    gender: m
+  - spanish: "el semestre"
+    translation:
+      en: "semester (6 months)"
+      ko: "반년 / 학기"
+    gender: m
+  - spanish: "anual"
+    translation:
+      en: "annual / yearly"
+      ko: "연간의"
+    gender: null
+  - spanish: "mensual"
+    translation:
+      en: "monthly"
+      ko: "월간의"
+    gender: null
+  - spanish: "semanal"
+    translation:
+      en: "weekly"
+      ko: "주간의"
+    gender: null
+  - spanish: "diario"
+    translation:
+      en: "daily"
+      ko: "매일의"
+    gender: null
+    notes:
+      en: "Also means diary / newspaper"
+      ko: "일기 / 신문이라는 뜻도 있음"
+- id: time_of_day
+  label:
+    en: "Time of Day"
+    ko: "하루 중 시간"
+  type: vocabulary
+  words:
+  - spanish: "la mañana"
+    translation:
+      en: "morning"
+      ko: "아침"
+    gender: f
+    notes:
+      en: "por la mañana = in the morning"
+      ko: "por la mañana = 아침에"
+  - spanish: "el mediodía"
+    translation:
+      en: "noon / midday"
+      ko: "정오"
+    gender: m
+  - spanish: "la tarde"
+    translation:
+      en: "afternoon / evening"
+      ko: "오후"
+    gender: f
+    notes:
+      en: "Covers roughly 1 PM to 8 PM"
+      ko: "대략 오후 1시부터 8시까지를 가리킴"
+  - spanish: "la noche"
+    translation:
+      en: "night"
+      ko: "밤"
+    gender: f
+  - spanish: "la medianoche"
+    translation:
+      en: "midnight"
+      ko: "자정"
+    gender: f
+  - spanish: "el amanecer"
+    translation:
+      en: "dawn / sunrise"
+      ko: "새벽 / 일출"
+    gender: m
+  - spanish: "el atardecer"
+    translation:
+      en: "dusk / sunset"
+      ko: "해질녘 / 일몰"
+    gender: m
+  - spanish: "la madrugada"
+    translation:
+      en: "early morning (before dawn)"
+      ko: "새벽 (동이 트기 전)"
+    gender: f
+    notes:
+      en: "Roughly midnight to 6 AM"
+      ko: "대략 자정부터 오전 6시까지"
+  - spanish: "temprano"
+    translation:
+      en: "early"
+      ko: "일찍"
+    gender: null
+  - spanish: "tarde"
+    translation:
+      en: "late"
+      ko: "늦게"
+    gender: null
+    notes:
+      en: "As adverb means late; as noun means afternoon"
+      ko: "부사로 쓰면 늦게; 명사로 쓰면 오후"
+  - spanish: "el minuto"
+    translation:
+      en: "minute"
+      ko: "분"
+    gender: m
+  - spanish: "el segundo"
+    translation:
+      en: "second"
+      ko: "초"
+    gender: m
+  - spanish: "el cuarto de hora"
+    translation:
+      en: "quarter of an hour"
+      ko: "15분"
+    gender: m
+  - spanish: "la media hora"
+    translation:
+      en: "half hour"
+      ko: "30분"
+    gender: f
+  - spanish: "en punto"
+    translation:
+      en: "on the dot / exactly"
+      ko: "정각"
+    gender: null
+    notes:
+      en: "Son las tres en punto. = It's three o'clock sharp."
+      ko: "Son las tres en punto. = 정확히 3시이다."
+  - spanish: "y media"
+    translation:
+      en: "half past"
+      ko: "반"
+    gender: null
+    notes:
+      en: "Son las dos y media. = It's half past two."
+      ko: "Son las dos y media. = 2시 반이다."
+  - spanish: "y cuarto"
+    translation:
+      en: "quarter past"
+      ko: "15분"
+    gender: null
+  - spanish: "menos cuarto"
+    translation:
+      en: "quarter to"
+      ko: "15분 전"
+    gender: null
+  - spanish: "la hora punta"
+    translation:
+      en: "rush hour"
+      ko: "러시아워"
+    gender: f
+  - spanish: "el horario"
+    translation:
+      en: "schedule / timetable"
+      ko: "시간표"
+    gender: m
+  - spanish: "el reloj"
+    translation:
+      en: "clock / watch"
+      ko: "시계"
+    gender: m
+  - spanish: "el despertador"
+    translation:
+      en: "alarm clock"
+      ko: "알람 시계"
+    gender: m
+  - spanish: "el alba"
+    translation:
+      en: "dawn / daybreak"
+      ko: "동틀녘"
+    gender: m
+  - spanish: "el anochecer"
+    translation:
+      en: "nightfall"
+      ko: "해질녘 / 밤이 되기 시작할 때"
+    gender: m
+  - spanish: "a tiempo"
+    translation:
+      en: "on time"
+      ko: "제시간에"
+    gender: null
+  - spanish: "con retraso"
+    translation:
+      en: "late / delayed"
+      ko: "지연된 / 늦게"
+    gender: null
+  - spanish: "de día"
+    translation:
+      en: "during the day"
+      ko: "낮에"
+    gender: null
+  - spanish: "de noche"
+    translation:
+      en: "at night"
+      ko: "밤에"
+    gender: null
+- id: frequency_adverbs
+  label:
+    en: "Frequency Adverbs"
+    ko: "빈도 부사"
+  type: vocabulary
+  words:
+  - spanish: "siempre"
+    translation:
+      en: "always"
+      ko: "항상"
+    gender: null
+  - spanish: "casi siempre"
+    translation:
+      en: "almost always"
+      ko: "거의 항상"
+    gender: null
+  - spanish: "a menudo"
+    translation:
+      en: "often"
+      ko: "자주"
+    gender: null
+  - spanish: "frecuentemente"
+    translation:
+      en: "frequently"
+      ko: "빈번하게"
+    gender: null
+  - spanish: "a veces"
+    translation:
+      en: "sometimes"
+      ko: "가끔"
+    gender: null
+  - spanish: "de vez en cuando"
+    translation:
+      en: "from time to time"
+      ko: "때때로"
+    gender: null
+  - spanish: "raramente"
+    translation:
+      en: "rarely"
+      ko: "드물게"
+    gender: null
+  - spanish: "casi nunca"
+    translation:
+      en: "almost never"
+      ko: "거의 ~않다"
+    gender: null
+  - spanish: "nunca"
+    translation:
+      en: "never"
+      ko: "절대 ~않다"
+    gender: null
+    notes:
+      en: "Double negative is standard: No voy nunca."
+      ko: "이중 부정이 표준: No voy nunca."
+  - spanish: "todos los días"
+    translation:
+      en: "every day"
+      ko: "매일"
+    gender: null
+  - spanish: "cada semana"
+    translation:
+      en: "every week"
+      ko: "매주"
+    gender: null
+  - spanish: "una vez"
+    translation:
+      en: "once"
+      ko: "한 번"
+    gender: null
+  - spanish: "dos veces"
+    translation:
+      en: "twice"
+      ko: "두 번"
+    gender: null
+  - spanish: "ya"
+    translation:
+      en: "already / now"
+      ko: "이미 / 지금"
+    gender: null
+  - spanish: "todavía"
+    translation:
+      en: "still / yet"
+      ko: "아직"
+    gender: null
+  - spanish: "pronto"
+    translation:
+      en: "soon"
+      ko: "곧"
+    gender: null
+  - spanish: "mientras"
+    translation:
+      en: "while / meanwhile"
+      ko: "~하는 동안"
+    gender: null
+  - spanish: "antes"
+    translation:
+      en: "before"
+      ko: "전에"
+    gender: null
+  - spanish: "después"
+    translation:
+      en: "after / later"
+      ko: "후에 / 나중에"
+    gender: null
+  - spanish: "durante"
+    translation:
+      en: "during"
+      ko: "~동안"
+    gender: null
+  - spanish: "enseguida"
+    translation:
+      en: "right away"
+      ko: "즉시"
+    gender: null
+  - spanish: "al mismo tiempo"
+    translation:
+      en: "at the same time"
+      ko: "동시에"
+    gender: null
+  - spanish: "primero"
+    translation:
+      en: "first"
+      ko: "먼저"
+    gender: null
+  - spanish: "luego"
+    translation:
+      en: "then / later"
+      ko: "그다음 / 나중에"
+    gender: null
+  - spanish: "por fin"
+    translation:
+      en: "finally / at last"
+      ko: "드디어"
+    gender: null
+  - spanish: "de repente"
+    translation:
+      en: "suddenly"
+      ko: "갑자기"
+    gender: null
+- id: calendar_and_dates
+  label:
+    en: "Calendar and Dates"
+    ko: "달력과 날짜"
+  type: vocabulary
+  words:
+  - spanish: "la fecha"
+    translation:
+      en: "date"
+      ko: "날짜"
+    gender: f
+  - spanish: "hoy"
+    translation:
+      en: "today"
+      ko: "오늘"
+    gender: null
+  - spanish: "ayer"
+    translation:
+      en: "yesterday"
+      ko: "어제"
+    gender: null
+  - spanish: "mañana"
+    translation:
+      en: "tomorrow"
+      ko: "내일"
+    gender: null
+    notes:
+      en: "As adverb = tomorrow; la mañana = morning"
+      ko: "부사로 쓰면 = 내일; la mañana = 아침"
+  - spanish: "anteayer"
+    translation:
+      en: "the day before yesterday"
+      ko: "그저께"
+    gender: null
+  - spanish: "pasado mañana"
+    translation:
+      en: "the day after tomorrow"
+      ko: "모레"
+    gender: null
+  - spanish: "miércoles"
+    translation:
+      en: "Wednesday"
+      ko: "수요일"
+    gender: null
+  - spanish: "jueves"
+    translation:
+      en: "Thursday"
+      ko: "목요일"
+    gender: null
+  - spanish: "viernes"
+    translation:
+      en: "Friday"
+      ko: "금요일"
+    gender: null
+  - spanish: "sábado"
+    translation:
+      en: "Saturday"
+      ko: "토요일"
+    gender: null
+  - spanish: "domingo"
+    translation:
+      en: "Sunday"
+      ko: "일요일"
+    gender: null
+    notes:
+      en: "Days of the week are not capitalized in Spanish"
+      ko: "스페인어에서 요일은 대문자로 시작하지 않음"
+  - spanish: "el fin de semana"
+    translation:
+      en: "weekend"
+      ko: "주말"
+    gender: m
+  - spanish: "el feriado"
+    translation:
+      en: "holiday"
+      ko: "공휴일"
+    gender: m
+    notes:
+      en: "In Spain, often el festivo"
+      ko: "스페인에서는 주로 el festivo"
+  - spanish: "el cumpleaños"
+    translation:
+      en: "birthday"
+      ko: "생일"
+    gender: m
+    notes:
+      en: "Invariable: el/los cumpleaños"
+      ko: "단수/복수 형태 동일: el/los cumpleaños"
+  - spanish: "la vacación"
+    translation:
+      en: "vacation"
+      ko: "휴가"
+    gender: f
+    notes:
+      en: "Usually plural: las vacaciones"
+      ko: "보통 복수로 사용: las vacaciones"
+  - spanish: "el calendario"
+    translation:
+      en: "calendar"
+      ko: "달력"
+    gender: m
+  - spanish: "la agenda"
+    translation:
+      en: "planner / agenda"
+      ko: "다이어리 / 일정"
+    gender: f
+  - spanish: "el siglo"
+    translation:
+      en: "century"
+      ko: "세기"
+    gender: m
+  - spanish: "la década"
+    translation:
+      en: "decade"
+      ko: "10년"
+    gender: f
+  - spanish: "la época"
+    translation:
+      en: "era / period"
+      ko: "시대 / 시기"
+    gender: f
+  - spanish: "el aniversario"
+    translation:
+      en: "anniversary"
+      ko: "기념일"
+    gender: m
+  - spanish: "la Navidad"
+    translation:
+      en: "Christmas"
+      ko: "크리스마스"
+    gender: f
+  - spanish: "la Semana Santa"
+    translation:
+      en: "Holy Week / Easter"
+      ko: "부활절 주간"
+    gender: f
+    notes:
+      en: "Major holiday in Spain and Latin America"
+      ko: "스페인과 라틴아메리카의 주요 명절"
+  - spanish: "el Año Nuevo"
+    translation:
+      en: "New Year"
+      ko: "새해"
+    gender: m
+  - spanish: "la Nochevieja"
+    translation:
+      en: "New Year's Eve"
+      ko: "새해 전야"
+    gender: f
+    notes:
+      en: "Tradition of eating 12 grapes at midnight"
+      ko: "자정에 포도 12알을 먹는 전통"
+  - spanish: "la Nochebuena"
+    translation:
+      en: "Christmas Eve"
+      ko: "크리스마스 이브"
+    gender: f
+  - spanish: "el puente"
+    translation:
+      en: "long weekend (bridge holiday)"
+      ko: "징검다리 연휴"
+    gender: m
+    notes:
+      en: "When a holiday falls on Tue/Thu, creating a long weekend"
+      ko: "공휴일이 화/목에 있어 연휴가 되는 것"
+  - spanish: "la temporada"
+    translation:
+      en: "season (of year/show)"
+      ko: "시즌 / 기간"
+    gender: f
+  - spanish: "el momento"
+    translation:
+      en: "moment"
+      ko: "순간"
+    gender: m
+  - spanish: "el instante"
+    translation:
+      en: "instant"
+      ko: "찰나"
+    gender: m
+  - spanish: "el plazo"
+    translation:
+      en: "deadline / term"
+      ko: "기한 / 기간"
+    gender: m
+  - spanish: "la próxima semana"
+    translation:
+      en: "next week"
+      ko: "다음 주"
+    gender: f
+  - spanish: "la semana pasada"
+    translation:
+      en: "last week"
+      ko: "지난 주"
+    gender: f
+  - spanish: "el mes que viene"
+    translation:
+      en: "next month"
+      ko: "다음 달"
+    gender: m
+  - spanish: "el año pasado"
+    translation:
+      en: "last year"
+      ko: "작년"
+    gender: m
+  - spanish: "dentro de"
+    translation:
+      en: "in (time from now)"
+      ko: "~후에"
+    gender: null
+    notes:
+      en: "dentro de dos horas = in two hours"
+      ko: "dentro de dos horas = 2시간 후에"
+  - spanish: "hace"
+    translation:
+      en: "ago"
+      ko: "~전에"
+    gender: null
+    notes:
+      en: "hace tres días = three days ago"
+      ko: "hace tres días = 3일 전에"
+  - spanish: "el día festivo"
+    translation:
+      en: "public holiday"
+      ko: "공휴일"
+    gender: m
+  - spanish: "el horario de verano"
+    translation:
+      en: "summer time / daylight saving"
+      ko: "여름 시간제"
+    gender: m
+  - spanish: "la víspera"
+    translation:
+      en: "eve (day before)"
+      ko: "전날"
+    gender: f
+  - spanish: "quincenal"
+    translation:
+      en: "biweekly / fortnightly"
+      ko: "격주의"
+    gender: null
+  - spanish: "bisiesto"
+    translation:
+      en: "leap (year)"
+      ko: "윤년의"
+    gender: null
+    notes:
+      en: "año bisiesto = leap year"
+      ko: "año bisiesto = 윤년"
+  - spanish: "a principios de"
+    translation:
+      en: "at the beginning of"
+      ko: "~초에"
+    gender: null
+    notes:
+      en: "a principios de enero = at the beginning of January"
+      ko: "a principios de enero = 1월 초에"
+  - spanish: "a mediados de"
+    translation:
+      en: "in the middle of"
+      ko: "~중순에"
+    gender: null
+  - spanish: "a finales de"
+    translation:
+      en: "at the end of"
+      ko: "~말에"
+    gender: null
+    notes:
+      en: "a finales de diciembre = at the end of December"
+      ko: "a finales de diciembre = 12월 말에"
+  - spanish: "cada año"
+    translation:
+      en: "every year"
+      ko: "매년"
+    gender: null
+  - spanish: "este mes"
+    translation:
+      en: "this month"
+      ko: "이번 달"
+    gender: null
+  - spanish: "esta semana"
+    translation:
+      en: "this week"
+      ko: "이번 주"
+    gender: null
+  - spanish: "el reloj de arena"
+    translation:
+      en: "hourglass"
+      ko: "모래시계"
+    gender: m
+  - spanish: "el huso horario"
+    translation:
+      en: "time zone"
+      ko: "시간대"
+    gender: m
+  - spanish: "puntual"
+    translation:
+      en: "punctual / on time"
+      ko: "시간을 잘 지키는"
+    gender: null
+  - spanish: "durar"
+    translation:
+      en: "to last / to take (time)"
+      ko: "지속하다"
+    gender: null
+    notes:
+      en: "La clase dura una hora. = The class lasts one hour."
+      ko: "La clase dura una hora. = 수업은 한 시간 동안 지속된다."
+  - spanish: "tardar"
+    translation:
+      en: "to take (time)"
+      ko: "~만큼 걸리다"
+    gender: null
+    notes:
+      en: "Tardo 20 minutos. = It takes me 20 minutes."
+      ko: "Tardo 20 minutos. = 나는 20분이 걸린다."
+  - spanish: "el madrugón"
+    translation:
+      en: "very early rising"
+      ko: "매우 이른 기상"
+    gender: m

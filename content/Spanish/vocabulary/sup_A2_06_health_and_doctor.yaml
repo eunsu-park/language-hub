@@ -1,0 +1,1008 @@
+lesson: "sup_A2_Health_and_Doctor"
+lesson_number: 126
+cefr: A2
+type: supplementary
+topic: "Health and Doctor"
+categories:
+- id: symptoms_and_illnesses
+  label:
+    en: "Symptoms and Illnesses"
+    ko: "증상과 질병"
+  type: vocabulary
+  words:
+  - spanish: "el dolor"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+  - spanish: "el dolor de cabeza"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: m
+  - spanish: "el dolor de estómago"
+    translation:
+      en: "stomachache"
+      ko: "복통"
+    gender: m
+  - spanish: "el dolor de garganta"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: m
+  - spanish: "el dolor de espalda"
+    translation:
+      en: "backache"
+      ko: "요통"
+    gender: m
+  - spanish: "el dolor de muelas"
+    translation:
+      en: "toothache"
+      ko: "치통"
+    gender: m
+  - spanish: "la fiebre"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+  - spanish: "la tos"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: f
+  - spanish: "toser"
+    translation:
+      en: "to cough"
+      ko: "기침하다"
+    gender: null
+  - spanish: "el resfriado"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: m
+  - spanish: "la gripe"
+    translation:
+      en: "flu"
+      ko: "독감"
+    gender: f
+  - spanish: "estornudar"
+    translation:
+      en: "to sneeze"
+      ko: "재채기하다"
+    gender: null
+  - spanish: "el estornudo"
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: m
+  - spanish: "la nariz tapada"
+    translation:
+      en: "stuffy nose"
+      ko: "코막힘"
+    gender: f
+  - spanish: "los mocos"
+    translation:
+      en: "runny nose / mucus"
+      ko: "콧물"
+    gender: m
+  - spanish: "el mareo"
+    translation:
+      en: "dizziness"
+      ko: "어지러움"
+    gender: m
+  - spanish: "marearse"
+    translation:
+      en: "to feel dizzy"
+      ko: "어지러워하다"
+    gender: null
+  - spanish: "las náuseas"
+    translation:
+      en: "nausea"
+      ko: "메스꺼움"
+    gender: f
+  - spanish: "vomitar"
+    translation:
+      en: "to vomit"
+      ko: "토하다"
+    gender: null
+  - spanish: "la diarrea"
+    translation:
+      en: "diarrhea"
+      ko: "설사"
+    gender: f
+  - spanish: "el estreñimiento"
+    translation:
+      en: "constipation"
+      ko: "변비"
+    gender: m
+  - spanish: "la infección"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: f
+  - spanish: "la inflamación"
+    translation:
+      en: "inflammation / swelling"
+      ko: "염증 / 부기"
+    gender: f
+  - spanish: "el sarpullido"
+    translation:
+      en: "rash"
+      ko: "발진"
+    gender: m
+  - spanish: "la picazón"
+    translation:
+      en: "itch / itching"
+      ko: "가려움"
+    gender: f
+  - spanish: "la herida"
+    translation:
+      en: "wound / injury"
+      ko: "상처"
+    gender: f
+  - spanish: "la quemadura"
+    translation:
+      en: "burn"
+      ko: "화상"
+    gender: f
+  - spanish: "el moretón"
+    translation:
+      en: "bruise"
+      ko: "멍"
+    gender: m
+  - spanish: "hinchado"
+    translation:
+      en: "swollen"
+      ko: "부은"
+    gender: null
+  - spanish: "doler"
+    translation:
+      en: "to hurt / to ache"
+      ko: "아프다"
+    gender: null
+    notes:
+      en: "Used like gustar: me duele la cabeza"
+      ko: "gustar처럼 사용: me duele la cabeza"
+  - spanish: "Me duele..."
+    translation:
+      en: "My ... hurts"
+      ko: "...가/이 아파요"
+    gender: null
+  - spanish: "Me siento mal."
+    translation:
+      en: "I feel sick."
+      ko: "몸이 안 좋아요."
+    gender: null
+  - spanish: "estar enfermo"
+    translation:
+      en: "to be sick"
+      ko: "아프다"
+    gender: null
+  - spanish: "encontrarse mal"
+    translation:
+      en: "to feel unwell"
+      ko: "컨디션이 안 좋다"
+    gender: null
+  - spanish: "el cansancio"
+    translation:
+      en: "tiredness / fatigue"
+      ko: "피로"
+    gender: m
+  - spanish: "el insomnio"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: m
+  - spanish: "el estrés"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+  - spanish: "la alergia"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+  - spanish: "el asma"
+    translation:
+      en: "asthma"
+      ko: "천식"
+    gender: f
+    notes:
+      en: "Feminine but uses el in singular: el asma"
+      ko: "여성 명사이지만 단수에서 el을 사용: el asma"
+- id: at_the_doctor
+  label:
+    en: "At the Doctor"
+    ko: "병원에서"
+  type: vocabulary
+  words:
+  - spanish: "el médico"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "la médica for female; also el/la doctor(a)"
+      ko: "여성형은 la médica; el/la doctor(a)도 사용"
+  - spanish: "el paciente"
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: m
+  - spanish: "la consulta"
+    translation:
+      en: "doctor's office / appointment"
+      ko: "진료실 / 진료"
+    gender: f
+  - spanish: "la cita médica"
+    translation:
+      en: "medical appointment"
+      ko: "병원 예약"
+    gender: f
+  - spanish: "pedir cita"
+    translation:
+      en: "to make an appointment"
+      ko: "예약하다"
+    gender: null
+  - spanish: "la sala de espera"
+    translation:
+      en: "waiting room"
+      ko: "대기실"
+    gender: f
+  - spanish: "el diagnóstico"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: m
+  - spanish: "el examen médico"
+    translation:
+      en: "medical exam"
+      ko: "건강검진"
+    gender: m
+  - spanish: "el análisis de sangre"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: m
+  - spanish: "la radiografía"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: f
+  - spanish: "la receta"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: f
+    notes:
+      en: "Also means recipe"
+      ko: "레시피라는 뜻도 있음"
+  - spanish: "recetar"
+    translation:
+      en: "to prescribe"
+      ko: "처방하다"
+    gender: null
+  - spanish: "el tratamiento"
+    translation:
+      en: "treatment"
+      ko: "치료"
+    gender: m
+  - spanish: "la operación"
+    translation:
+      en: "surgery / operation"
+      ko: "수술"
+    gender: f
+  - spanish: "operar"
+    translation:
+      en: "to operate (surgery)"
+      ko: "수술하다"
+    gender: null
+  - spanish: "el seguro médico"
+    translation:
+      en: "health insurance"
+      ko: "의료 보험"
+    gender: m
+  - spanish: "la tarjeta sanitaria"
+    translation:
+      en: "health card"
+      ko: "건강보험증"
+    gender: f
+  - spanish: "el especialista"
+    translation:
+      en: "specialist"
+      ko: "전문의"
+    gender: m
+  - spanish: "el dentista"
+    translation:
+      en: "dentist"
+      ko: "치과의사"
+    gender: m
+  - spanish: "el oculista"
+    translation:
+      en: "eye doctor"
+      ko: "안과의사"
+    gender: m
+  - spanish: "el dermatólogo"
+    translation:
+      en: "dermatologist"
+      ko: "피부과 전문의"
+    gender: m
+  - spanish: "el enfermero"
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: m
+    notes:
+      en: "la enfermera for female"
+      ko: "여성형은 la enfermera"
+  - spanish: "la inyección"
+    translation:
+      en: "injection / shot"
+      ko: "주사"
+    gender: f
+  - spanish: "la vacuna"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: f
+  - spanish: "vacunarse"
+    translation:
+      en: "to get vaccinated"
+      ko: "예방접종을 받다"
+    gender: null
+  - spanish: "la tensión arterial"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: f
+  - spanish: "tomar la temperatura"
+    translation:
+      en: "to take temperature"
+      ko: "체온을 재다"
+    gender: null
+  - spanish: "el termómetro"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: m
+  - spanish: "¿Qué le pasa?"
+    translation:
+      en: "What's wrong?"
+      ko: "어디가 불편하세요?"
+    gender: null
+  - spanish: "¿Desde cuándo le duele?"
+    translation:
+      en: "How long has it been hurting?"
+      ko: "언제부터 아프셨나요?"
+    gender: null
+  - spanish: "la baja médica"
+    translation:
+      en: "sick leave"
+      ko: "병가"
+    gender: f
+  - spanish: "el historial médico"
+    translation:
+      en: "medical history"
+      ko: "의료 기록"
+    gender: m
+  - spanish: "contagioso"
+    translation:
+      en: "contagious"
+      ko: "전염성의"
+    gender: null
+  - spanish: "crónico"
+    translation:
+      en: "chronic"
+      ko: "만성적인"
+    gender: null
+  - spanish: "agudo"
+    translation:
+      en: "acute"
+      ko: "급성의"
+    gender: null
+- id: pharmacy_and_medicine
+  label:
+    en: "Pharmacy and Medicine"
+    ko: "약국과 약"
+  type: vocabulary
+  words:
+  - spanish: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+  - spanish: "el farmacéutico"
+    translation:
+      en: "pharmacist"
+      ko: "약사"
+    gender: m
+    notes:
+      en: "la farmacéutica for female"
+      ko: "여성형은 la farmacéutica"
+  - spanish: "el medicamento"
+    translation:
+      en: "medication"
+      ko: "약"
+    gender: m
+  - spanish: "la medicina"
+    translation:
+      en: "medicine"
+      ko: "약 / 의학"
+    gender: f
+  - spanish: "la pastilla"
+    translation:
+      en: "pill / tablet"
+      ko: "알약"
+    gender: f
+  - spanish: "la cápsula"
+    translation:
+      en: "capsule"
+      ko: "캡슐"
+    gender: f
+  - spanish: "el jarabe"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: m
+  - spanish: "la pomada"
+    translation:
+      en: "ointment / cream"
+      ko: "연고"
+    gender: f
+  - spanish: "las gotas"
+    translation:
+      en: "drops (eye/ear)"
+      ko: "점안/점이액"
+    gender: f
+  - spanish: "el antibiótico"
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: m
+  - spanish: "el analgésico"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: m
+  - spanish: "el antiinflamatorio"
+    translation:
+      en: "anti-inflammatory"
+      ko: "소염제"
+    gender: m
+  - spanish: "el ibuprofeno"
+    translation:
+      en: "ibuprofen"
+      ko: "이부프로펜"
+    gender: m
+  - spanish: "el paracetamol"
+    translation:
+      en: "paracetamol / acetaminophen"
+      ko: "파라세타몰 / 아세트아미노펜"
+    gender: m
+  - spanish: "la aspirina"
+    translation:
+      en: "aspirin"
+      ko: "아스피린"
+    gender: f
+  - spanish: "el antiácido"
+    translation:
+      en: "antacid"
+      ko: "제산제"
+    gender: m
+  - spanish: "el antihistamínico"
+    translation:
+      en: "antihistamine"
+      ko: "항히스타민제"
+    gender: m
+  - spanish: "la venda"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: f
+  - spanish: "la tirita"
+    translation:
+      en: "band-aid / plaster"
+      ko: "반창고"
+    gender: f
+    notes:
+      en: "In Latin America: la curita"
+      ko: "라틴아메리카: la curita"
+  - spanish: "el algodón"
+    translation:
+      en: "cotton"
+      ko: "솜 / 면"
+    gender: m
+  - spanish: "el alcohol"
+    translation:
+      en: "rubbing alcohol"
+      ko: "소독용 알코올"
+    gender: m
+  - spanish: "el desinfectante"
+    translation:
+      en: "disinfectant"
+      ko: "소독제"
+    gender: m
+  - spanish: "tomar"
+    translation:
+      en: "to take (medicine)"
+      ko: "복용하다"
+    gender: null
+  - spanish: "la dosis"
+    translation:
+      en: "dose / dosage"
+      ko: "복용량"
+    gender: f
+    notes:
+      en: "Invariable: la/las dosis"
+      ko: "단수/복수 형태 동일: la/las dosis"
+  - spanish: "los efectos secundarios"
+    translation:
+      en: "side effects"
+      ko: "부작용"
+    gender: m
+  - spanish: "con receta"
+    translation:
+      en: "prescription (required)"
+      ko: "처방전 필요"
+    gender: null
+  - spanish: "sin receta"
+    translation:
+      en: "over the counter"
+      ko: "처방전 불필요"
+    gender: null
+  - spanish: "el botiquín"
+    translation:
+      en: "first aid kit"
+      ko: "구급상자"
+    gender: m
+  - spanish: "las muletas"
+    translation:
+      en: "crutches"
+      ko: "목발"
+    gender: f
+  - spanish: "la silla de ruedas"
+    translation:
+      en: "wheelchair"
+      ko: "휠체어"
+    gender: f
+  - spanish: "el yeso"
+    translation:
+      en: "cast (medical)"
+      ko: "깁스"
+    gender: m
+- id: hospital
+  label:
+    en: "Hospital"
+    ko: "병원"
+  type: vocabulary
+  words:
+  - spanish: "el hospital"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - spanish: "la clínica"
+    translation:
+      en: "clinic"
+      ko: "클리닉 / 의원"
+    gender: f
+  - spanish: "urgencias"
+    translation:
+      en: "emergency room"
+      ko: "응급실"
+    gender: f
+  - spanish: "la ambulancia"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: f
+  - spanish: "el cirujano"
+    translation:
+      en: "surgeon"
+      ko: "외과의사"
+    gender: m
+  - spanish: "la anestesia"
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: f
+  - spanish: "la sala de operaciones"
+    translation:
+      en: "operating room"
+      ko: "수술실"
+    gender: f
+  - spanish: "la camilla"
+    translation:
+      en: "stretcher / hospital bed"
+      ko: "들것 / 진료대"
+    gender: f
+  - spanish: "el suero"
+    translation:
+      en: "IV drip / saline"
+      ko: "링거 / 수액"
+    gender: m
+  - spanish: "la transfusión"
+    translation:
+      en: "blood transfusion"
+      ko: "수혈"
+    gender: f
+  - spanish: "la sangre"
+    translation:
+      en: "blood"
+      ko: "혈액 / 피"
+    gender: f
+  - spanish: "el grupo sanguíneo"
+    translation:
+      en: "blood type"
+      ko: "혈액형"
+    gender: m
+  - spanish: "ingresar"
+    translation:
+      en: "to be admitted (hospital)"
+      ko: "입원하다"
+    gender: null
+  - spanish: "el alta"
+    translation:
+      en: "discharge (hospital)"
+      ko: "퇴원"
+    gender: f
+    notes:
+      en: "Feminine but uses el in singular: el alta"
+      ko: "여성 명사이지만 단수에서 el을 사용: el alta"
+  - spanish: "dar de alta"
+    translation:
+      en: "to discharge (patient)"
+      ko: "퇴원시키다"
+    gender: null
+  - spanish: "la recuperación"
+    translation:
+      en: "recovery"
+      ko: "회복"
+    gender: f
+  - spanish: "recuperarse"
+    translation:
+      en: "to recover"
+      ko: "회복하다"
+    gender: null
+  - spanish: "la rehabilitación"
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: f
+  - spanish: "la visita"
+    translation:
+      en: "visit (hospital)"
+      ko: "면회 / 방문"
+    gender: f
+  - spanish: "el horario de visitas"
+    translation:
+      en: "visiting hours"
+      ko: "면회 시간"
+    gender: m
+  - spanish: "grave"
+    translation:
+      en: "serious / severe"
+      ko: "심각한 / 중한"
+    gender: null
+  - spanish: "leve"
+    translation:
+      en: "mild / minor"
+      ko: "가벼운 / 경미한"
+    gender: null
+  - spanish: "estable"
+    translation:
+      en: "stable"
+      ko: "안정적인"
+    gender: null
+  - spanish: "mejorar"
+    translation:
+      en: "to improve / to get better"
+      ko: "나아지다"
+    gender: null
+  - spanish: "empeorar"
+    translation:
+      en: "to worsen / to get worse"
+      ko: "악화되다"
+    gender: null
+  - spanish: "curar"
+    translation:
+      en: "to cure / to heal"
+      ko: "치료하다 / 낫게 하다"
+    gender: null
+  - spanish: "la cura"
+    translation:
+      en: "cure"
+      ko: "치료 / 치유"
+    gender: f
+- id: healthy_habits
+  label:
+    en: "Healthy Habits"
+    ko: "건강한 습관"
+  type: vocabulary
+  words:
+  - spanish: "la salud"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+  - spanish: "sano"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+  - spanish: "la dieta equilibrada"
+    translation:
+      en: "balanced diet"
+      ko: "균형 잡힌 식단"
+    gender: f
+  - spanish: "comer bien"
+    translation:
+      en: "to eat well"
+      ko: "잘 먹다"
+    gender: null
+  - spanish: "beber agua"
+    translation:
+      en: "to drink water"
+      ko: "물을 마시다"
+    gender: null
+  - spanish: "dormir bien"
+    translation:
+      en: "to sleep well"
+      ko: "잘 자다"
+    gender: null
+  - spanish: "descansar"
+    translation:
+      en: "to rest"
+      ko: "쉬다"
+    gender: null
+  - spanish: "hacer ejercicio"
+    translation:
+      en: "to exercise"
+      ko: "운동하다"
+    gender: null
+  - spanish: "mantenerse en forma"
+    translation:
+      en: "to stay in shape"
+      ko: "건강을 유지하다"
+    gender: null
+  - spanish: "relajarse"
+    translation:
+      en: "to relax"
+      ko: "긴장을 풀다"
+    gender: null
+  - spanish: "el bienestar"
+    translation:
+      en: "well-being"
+      ko: "웰빙 / 안녕"
+    gender: m
+  - spanish: "las vitaminas"
+    translation:
+      en: "vitamins"
+      ko: "비타민"
+    gender: f
+  - spanish: "la proteína"
+    translation:
+      en: "protein"
+      ko: "단백질"
+    gender: f
+  - spanish: "la fibra"
+    translation:
+      en: "fiber"
+      ko: "섬유질"
+    gender: f
+  - spanish: "los carbohidratos"
+    translation:
+      en: "carbohydrates"
+      ko: "탄수화물"
+    gender: m
+  - spanish: "las calorías"
+    translation:
+      en: "calories"
+      ko: "칼로리"
+    gender: f
+  - spanish: "adelgazar"
+    translation:
+      en: "to lose weight"
+      ko: "살을 빼다"
+    gender: null
+  - spanish: "engordar"
+    translation:
+      en: "to gain weight"
+      ko: "살이 찌다"
+    gender: null
+  - spanish: "el peso"
+    translation:
+      en: "weight"
+      ko: "체중"
+    gender: m
+  - spanish: "cuidarse"
+    translation:
+      en: "to take care of oneself"
+      ko: "자기 관리를 하다"
+    gender: null
+  - spanish: "evitar"
+    translation:
+      en: "to avoid"
+      ko: "피하다"
+    gender: null
+  - spanish: "dejar de fumar"
+    translation:
+      en: "to quit smoking"
+      ko: "금연하다"
+    gender: null
+  - spanish: "el hábito"
+    translation:
+      en: "habit"
+      ko: "습관"
+    gender: m
+  - spanish: "la higiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: f
+  - spanish: "lavarse las manos"
+    translation:
+      en: "to wash one's hands"
+      ko: "손을 씻다"
+    gender: null
+  - spanish: "la revisión médica"
+    translation:
+      en: "medical checkup"
+      ko: "건강 검진"
+    gender: f
+  - spanish: "prevenir"
+    translation:
+      en: "to prevent"
+      ko: "예방하다"
+    gender: null
+  - spanish: "la prevención"
+    translation:
+      en: "prevention"
+      ko: "예방"
+    gender: f
+  - spanish: "el chequeo"
+    translation:
+      en: "checkup"
+      ko: "건강 검진"
+    gender: m
+  - spanish: "la salud mental"
+    translation:
+      en: "mental health"
+      ko: "정신 건강"
+    gender: f
+  - spanish: "la ansiedad"
+    translation:
+      en: "anxiety"
+      ko: "불안"
+    gender: f
+  - spanish: "la depresión"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: f
+  - spanish: "el psicólogo"
+    translation:
+      en: "psychologist"
+      ko: "심리학자"
+    gender: m
+  - spanish: "la terapia"
+    translation:
+      en: "therapy"
+      ko: "치료 / 테라피"
+    gender: f
+  - spanish: "respirar"
+    translation:
+      en: "to breathe"
+      ko: "숨쉬다"
+    gender: null
+  - spanish: "la respiración"
+    translation:
+      en: "breathing"
+      ko: "호흡"
+    gender: f
+  - spanish: "el ejercicio físico"
+    translation:
+      en: "physical exercise"
+      ko: "신체 운동"
+    gender: m
+  - spanish: "caminar"
+    translation:
+      en: "to walk"
+      ko: "걷다"
+    gender: null
+  - spanish: "el sueño"
+    translation:
+      en: "sleep / dream"
+      ko: "수면 / 꿈"
+    gender: m
+  - spanish: "dormir"
+    translation:
+      en: "to sleep"
+      ko: "자다"
+    gender: null
+  - spanish: "el descanso"
+    translation:
+      en: "rest"
+      ko: "휴식"
+    gender: m
+  - spanish: "la postura"
+    translation:
+      en: "posture"
+      ko: "자세"
+    gender: f
+  - spanish: "el sobrepeso"
+    translation:
+      en: "overweight"
+      ko: "과체중"
+    gender: m
+  - spanish: "la obesidad"
+    translation:
+      en: "obesity"
+      ko: "비만"
+    gender: f
+  - spanish: "la diabetes"
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: f
+  - spanish: "la tensión alta"
+    translation:
+      en: "high blood pressure"
+      ko: "고혈압"
+    gender: f
+  - spanish: "el colesterol"
+    translation:
+      en: "cholesterol"
+      ko: "콜레스테롤"
+    gender: m
+  - spanish: "la fractura"
+    translation:
+      en: "fracture"
+      ko: "골절"
+    gender: f
+  - spanish: "el esguince"
+    translation:
+      en: "sprain"
+      ko: "염좌"
+    gender: m
+  - spanish: "la cicatriz"
+    translation:
+      en: "scar"
+      ko: "흉터"
+    gender: f
+  - spanish: "sangrar"
+    translation:
+      en: "to bleed"
+      ko: "피가 나다"
+    gender: null
+  - spanish: "desmayarse"
+    translation:
+      en: "to faint"
+      ko: "기절하다"
+    gender: null
+  - spanish: "el desmayo"
+    translation:
+      en: "fainting"
+      ko: "기절"
+    gender: m
+  - spanish: "la picadura"
+    translation:
+      en: "sting / bite (insect)"
+      ko: "벌레 물린 자국"
+    gender: f
+  - spanish: "la intoxicación"
+    translation:
+      en: "food poisoning"
+      ko: "식중독"
+    gender: f
+  - spanish: "el vendaje"
+    translation:
+      en: "bandaging"
+      ko: "붕대 감기"
+    gender: m
+  - spanish: "los primeros auxilios"
+    translation:
+      en: "first aid"
+      ko: "응급 처치"
+    gender: m

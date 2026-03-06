@@ -1,0 +1,978 @@
+lesson: "sup_B2_Psychology_and_Behavior"
+lesson_number: 169
+cefr: B2
+type: supplementary
+topic: "Psychology and Behavior"
+categories:
+- id: cognitive_psychology
+  label:
+    en: "Cognitive Psychology"
+    ko: "인지 심리학"
+  type: vocabulary
+  words:
+  - spanish: "la cognición"
+    translation:
+      en: "cognition"
+      ko: "인지"
+    gender: f
+  - spanish: "la percepción"
+    translation:
+      en: "perception"
+      ko: "지각"
+    gender: f
+  - spanish: "la atención"
+    translation:
+      en: "attention"
+      ko: "주의력"
+    gender: f
+  - spanish: "la memoria"
+    translation:
+      en: "memory"
+      ko: "기억"
+    gender: f
+  - spanish: "la memoria a corto plazo"
+    translation:
+      en: "short-term memory"
+      ko: "단기 기억"
+    gender: f
+  - spanish: "la memoria a largo plazo"
+    translation:
+      en: "long-term memory"
+      ko: "장기 기억"
+    gender: f
+  - spanish: "el aprendizaje"
+    translation:
+      en: "learning"
+      ko: "학습"
+    gender: m
+  - spanish: "el razonamiento"
+    translation:
+      en: "reasoning"
+      ko: "추리 / 추론"
+    gender: m
+  - spanish: "la inteligencia"
+    translation:
+      en: "intelligence"
+      ko: "지능"
+    gender: f
+  - spanish: "el coeficiente intelectual"
+    translation:
+      en: "IQ (intelligence quotient)"
+      ko: "지능 지수"
+    gender: m
+  - spanish: "la inteligencia emocional"
+    translation:
+      en: "emotional intelligence"
+      ko: "감성 지능"
+    gender: f
+  - spanish: "la creatividad"
+    translation:
+      en: "creativity"
+      ko: "창의성"
+    gender: f
+  - spanish: "el pensamiento"
+    translation:
+      en: "thinking / thought"
+      ko: "사고"
+    gender: m
+  - spanish: "el pensamiento abstracto"
+    translation:
+      en: "abstract thinking"
+      ko: "추상적 사고"
+    gender: m
+  - spanish: "el sesgo cognitivo"
+    translation:
+      en: "cognitive bias"
+      ko: "인지 편향"
+    gender: m
+  - spanish: "la disonancia cognitiva"
+    translation:
+      en: "cognitive dissonance"
+      ko: "인지 부조화"
+    gender: f
+  - spanish: "la heurística"
+    translation:
+      en: "heuristic"
+      ko: "발견법 / 휴리스틱"
+    gender: f
+  - spanish: "el procesamiento de la información"
+    translation:
+      en: "information processing"
+      ko: "정보 처리"
+    gender: m
+  - spanish: "la toma de decisiones"
+    translation:
+      en: "decision-making"
+      ko: "의사 결정"
+    gender: f
+  - spanish: "la resolución de problemas"
+    translation:
+      en: "problem solving"
+      ko: "문제 해결"
+    gender: f
+  - spanish: "el lenguaje"
+    translation:
+      en: "language (faculty)"
+      ko: "언어 능력"
+    gender: m
+  - spanish: "la metacognición"
+    translation:
+      en: "metacognition"
+      ko: "메타인지"
+    gender: f
+  - spanish: "la neuroplasticidad"
+    translation:
+      en: "neuroplasticity"
+      ko: "신경 가소성"
+    gender: f
+  - spanish: "la neurociencia"
+    translation:
+      en: "neuroscience"
+      ko: "신경과학"
+    gender: f
+  - spanish: "la neurona"
+    translation:
+      en: "neuron"
+      ko: "신경세포"
+    gender: f
+  - spanish: "la sinapsis"
+    translation:
+      en: "synapse"
+      ko: "시냅스"
+    gender: f
+  - spanish: "el neurotransmisor"
+    translation:
+      en: "neurotransmitter"
+      ko: "신경전달물질"
+    gender: m
+  - spanish: "la serotonina"
+    translation:
+      en: "serotonin"
+      ko: "세로토닌"
+    gender: f
+  - spanish: "la dopamina"
+    translation:
+      en: "dopamine"
+      ko: "도파민"
+    gender: f
+  - spanish: "el cortisol"
+    translation:
+      en: "cortisol"
+      ko: "코르티솔"
+    gender: m
+    notes:
+      en: "Stress hormone"
+      ko: "스트레스 호르몬"
+  - spanish: "la amígdala"
+    translation:
+      en: "amygdala"
+      ko: "편도체"
+    gender: f
+  - spanish: "el hipocampo"
+    translation:
+      en: "hippocampus"
+      ko: "해마"
+    gender: m
+  - spanish: "la corteza cerebral"
+    translation:
+      en: "cerebral cortex"
+      ko: "대뇌 피질"
+    gender: f
+  - spanish: "el esquema mental"
+    translation:
+      en: "mental schema"
+      ko: "심적 스키마"
+    gender: m
+  - spanish: "el efecto placebo"
+    translation:
+      en: "placebo effect"
+      ko: "플라시보 효과"
+    gender: m
+- id: developmental_psychology
+  label:
+    en: "Developmental Psychology"
+    ko: "발달 심리학"
+  type: vocabulary
+  words:
+  - spanish: "el desarrollo"
+    translation:
+      en: "development"
+      ko: "발달"
+    gender: m
+  - spanish: "la infancia"
+    translation:
+      en: "childhood"
+      ko: "유아기"
+    gender: f
+  - spanish: "la niñez"
+    translation:
+      en: "childhood (later)"
+      ko: "아동기"
+    gender: f
+  - spanish: "la adolescencia"
+    translation:
+      en: "adolescence"
+      ko: "청소년기"
+    gender: f
+  - spanish: "la pubertad"
+    translation:
+      en: "puberty"
+      ko: "사춘기"
+    gender: f
+  - spanish: "la madurez"
+    translation:
+      en: "maturity / adulthood"
+      ko: "성인기 / 성숙"
+    gender: f
+  - spanish: "la vejez"
+    translation:
+      en: "old age"
+      ko: "노년기"
+    gender: f
+  - spanish: "el apego"
+    translation:
+      en: "attachment"
+      ko: "애착"
+    gender: m
+  - spanish: "el vínculo afectivo"
+    translation:
+      en: "emotional bond"
+      ko: "정서적 유대"
+    gender: m
+  - spanish: "la socialización"
+    translation:
+      en: "socialization"
+      ko: "사회화"
+    gender: f
+  - spanish: "la etapa"
+    translation:
+      en: "stage (developmental)"
+      ko: "단계"
+    gender: f
+  - spanish: "el desarrollo cognitivo"
+    translation:
+      en: "cognitive development"
+      ko: "인지 발달"
+    gender: m
+  - spanish: "el desarrollo emocional"
+    translation:
+      en: "emotional development"
+      ko: "정서 발달"
+    gender: m
+  - spanish: "el desarrollo moral"
+    translation:
+      en: "moral development"
+      ko: "도덕적 발달"
+    gender: m
+  - spanish: "la identidad"
+    translation:
+      en: "identity"
+      ko: "정체성"
+    gender: f
+  - spanish: "la crisis de identidad"
+    translation:
+      en: "identity crisis"
+      ko: "정체성 위기"
+    gender: f
+  - spanish: "la autoestima"
+    translation:
+      en: "self-esteem"
+      ko: "자존감"
+    gender: f
+  - spanish: "el autoconcepto"
+    translation:
+      en: "self-concept"
+      ko: "자아개념"
+    gender: m
+  - spanish: "la autonomía"
+    translation:
+      en: "autonomy"
+      ko: "자율성"
+    gender: f
+  - spanish: "la resiliencia"
+    translation:
+      en: "resilience"
+      ko: "회복력"
+    gender: f
+  - spanish: "el trauma infantil"
+    translation:
+      en: "childhood trauma"
+      ko: "아동기 외상"
+    gender: m
+  - spanish: "la crianza"
+    translation:
+      en: "parenting / upbringing"
+      ko: "양육"
+    gender: f
+  - spanish: "el estilo de crianza"
+    translation:
+      en: "parenting style"
+      ko: "양육 방식"
+    gender: m
+  - spanish: "la estimulación temprana"
+    translation:
+      en: "early stimulation"
+      ko: "조기 자극"
+    gender: f
+  - spanish: "el hito del desarrollo"
+    translation:
+      en: "developmental milestone"
+      ko: "발달 이정표"
+    gender: m
+  - spanish: "el envejecimiento"
+    translation:
+      en: "aging"
+      ko: "노화"
+    gender: m
+  - spanish: "el deterioro cognitivo"
+    translation:
+      en: "cognitive decline"
+      ko: "인지 저하"
+    gender: m
+  - spanish: "la senectud"
+    translation:
+      en: "senescence"
+      ko: "노쇠"
+    gender: f
+- id: social_psychology
+  label:
+    en: "Social Psychology"
+    ko: "사회 심리학"
+  type: vocabulary
+  words:
+  - spanish: "la influencia social"
+    translation:
+      en: "social influence"
+      ko: "사회적 영향"
+    gender: f
+  - spanish: "la conformidad"
+    translation:
+      en: "conformity"
+      ko: "동조"
+    gender: f
+  - spanish: "la obediencia"
+    translation:
+      en: "obedience"
+      ko: "복종"
+    gender: f
+  - spanish: "el prejuicio"
+    translation:
+      en: "prejudice"
+      ko: "편견"
+    gender: m
+  - spanish: "el estereotipo"
+    translation:
+      en: "stereotype"
+      ko: "고정관념"
+    gender: m
+  - spanish: "la discriminación"
+    translation:
+      en: "discrimination"
+      ko: "차별"
+    gender: f
+  - spanish: "la presión social"
+    translation:
+      en: "social pressure / peer pressure"
+      ko: "사회적 압력"
+    gender: f
+  - spanish: "el liderazgo"
+    translation:
+      en: "leadership"
+      ko: "리더십"
+    gender: m
+  - spanish: "la dinámica de grupo"
+    translation:
+      en: "group dynamics"
+      ko: "집단 역학"
+    gender: f
+  - spanish: "el pensamiento grupal"
+    translation:
+      en: "groupthink"
+      ko: "집단사고"
+    gender: m
+  - spanish: "la disonancia cognitiva"
+    translation:
+      en: "cognitive dissonance"
+      ko: "인지 부조화"
+    gender: f
+  - spanish: "la actitud"
+    translation:
+      en: "attitude"
+      ko: "태도"
+    gender: f
+  - spanish: "la persuasión"
+    translation:
+      en: "persuasion"
+      ko: "설득"
+    gender: f
+  - spanish: "la atribución"
+    translation:
+      en: "attribution"
+      ko: "귀인"
+    gender: f
+  - spanish: "el efecto halo"
+    translation:
+      en: "halo effect"
+      ko: "후광 효과"
+    gender: m
+  - spanish: "el efecto espectador"
+    translation:
+      en: "bystander effect"
+      ko: "방관자 효과"
+    gender: m
+  - spanish: "la profecía autocumplida"
+    translation:
+      en: "self-fulfilling prophecy"
+      ko: "자기실현적 예언"
+    gender: f
+  - spanish: "la identidad social"
+    translation:
+      en: "social identity"
+      ko: "사회적 정체성"
+    gender: f
+  - spanish: "el rol social"
+    translation:
+      en: "social role"
+      ko: "사회적 역할"
+    gender: m
+  - spanish: "la norma social"
+    translation:
+      en: "social norm"
+      ko: "사회적 규범"
+    gender: f
+  - spanish: "la cohesión grupal"
+    translation:
+      en: "group cohesion"
+      ko: "집단 응집력"
+    gender: f
+  - spanish: "el altruismo"
+    translation:
+      en: "altruism"
+      ko: "이타주의"
+    gender: m
+  - spanish: "la agresión"
+    translation:
+      en: "aggression"
+      ko: "공격성"
+    gender: f
+  - spanish: "la empatía"
+    translation:
+      en: "empathy"
+      ko: "공감"
+    gender: f
+  - spanish: "el apego social"
+    translation:
+      en: "social attachment"
+      ko: "사회적 애착"
+    gender: m
+  - spanish: "la deshumanización"
+    translation:
+      en: "dehumanization"
+      ko: "비인간화"
+    gender: f
+  - spanish: "la polarización"
+    translation:
+      en: "polarization"
+      ko: "양극화"
+    gender: f
+  - spanish: "el chivo expiatorio"
+    translation:
+      en: "scapegoat"
+      ko: "희생양"
+    gender: m
+- id: therapy
+  label:
+    en: "Therapy"
+    ko: "치료"
+  type: vocabulary
+  words:
+  - spanish: "la psicoterapia"
+    translation:
+      en: "psychotherapy"
+      ko: "심리치료"
+    gender: f
+  - spanish: "la terapia cognitivo-conductual"
+    translation:
+      en: "cognitive behavioral therapy (CBT)"
+      ko: "인지 행동 치료"
+    gender: f
+  - spanish: "el psicoanálisis"
+    translation:
+      en: "psychoanalysis"
+      ko: "정신분석"
+    gender: m
+  - spanish: "la terapia de grupo"
+    translation:
+      en: "group therapy"
+      ko: "집단 치료"
+    gender: f
+  - spanish: "la terapia de pareja"
+    translation:
+      en: "couples therapy"
+      ko: "부부 치료"
+    gender: f
+  - spanish: "la terapia familiar"
+    translation:
+      en: "family therapy"
+      ko: "가족 치료"
+    gender: f
+  - spanish: "la terapia humanista"
+    translation:
+      en: "humanistic therapy"
+      ko: "인본주의 치료"
+    gender: f
+  - spanish: "la terapia gestalt"
+    translation:
+      en: "Gestalt therapy"
+      ko: "게슈탈트 치료"
+    gender: f
+  - spanish: "el mindfulness"
+    translation:
+      en: "mindfulness"
+      ko: "마음챙김"
+    gender: m
+  - spanish: "la meditación"
+    translation:
+      en: "meditation"
+      ko: "명상"
+    gender: f
+  - spanish: "el terapeuta"
+    translation:
+      en: "therapist"
+      ko: "치료사"
+    gender: m
+    notes:
+      en: "la terapeuta for female"
+      ko: "여성형은 la terapeuta"
+  - spanish: "el paciente"
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: m
+    notes:
+      en: "la paciente for female"
+      ko: "여성형은 la paciente"
+  - spanish: "la sesión"
+    translation:
+      en: "session"
+      ko: "세션"
+    gender: f
+  - spanish: "el diagnóstico"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: m
+  - spanish: "la intervención"
+    translation:
+      en: "intervention"
+      ko: "개입"
+    gender: f
+  - spanish: "el inconsciente"
+    translation:
+      en: "the unconscious"
+      ko: "무의식"
+    gender: m
+  - spanish: "el subconsciente"
+    translation:
+      en: "the subconscious"
+      ko: "잠재의식"
+    gender: m
+  - spanish: "la transferencia"
+    translation:
+      en: "transference"
+      ko: "전이"
+    gender: f
+  - spanish: "el mecanismo de defensa"
+    translation:
+      en: "defense mechanism"
+      ko: "방어기제"
+    gender: m
+  - spanish: "la represión"
+    translation:
+      en: "repression"
+      ko: "억압"
+    gender: f
+  - spanish: "la proyección"
+    translation:
+      en: "projection"
+      ko: "투사"
+    gender: f
+  - spanish: "la negación"
+    translation:
+      en: "denial"
+      ko: "부정"
+    gender: f
+  - spanish: "la sublimación"
+    translation:
+      en: "sublimation"
+      ko: "승화"
+    gender: f
+  - spanish: "el duelo"
+    translation:
+      en: "grief / mourning"
+      ko: "애도"
+    gender: m
+  - spanish: "la catarsis"
+    translation:
+      en: "catharsis"
+      ko: "카타르시스"
+    gender: f
+- id: behavioral_science
+  label:
+    en: "Behavioral Science"
+    ko: "행동 과학"
+  type: vocabulary
+  words:
+  - spanish: "la conducta"
+    translation:
+      en: "behavior / conduct"
+      ko: "행동"
+    gender: f
+  - spanish: "el comportamiento"
+    translation:
+      en: "behavior"
+      ko: "행동 양식"
+    gender: m
+  - spanish: "el estímulo"
+    translation:
+      en: "stimulus"
+      ko: "자극"
+    gender: m
+  - spanish: "la respuesta"
+    translation:
+      en: "response"
+      ko: "반응"
+    gender: f
+  - spanish: "el condicionamiento"
+    translation:
+      en: "conditioning"
+      ko: "조건화"
+    gender: m
+  - spanish: "el condicionamiento clásico"
+    translation:
+      en: "classical conditioning"
+      ko: "고전적 조건화"
+    gender: m
+    notes:
+      en: "Pavlov's experiments"
+      ko: "파블로프의 실험"
+  - spanish: "el condicionamiento operante"
+    translation:
+      en: "operant conditioning"
+      ko: "조작적 조건화"
+    gender: m
+    notes:
+      en: "Skinner's theory"
+      ko: "스키너의 이론"
+  - spanish: "el refuerzo"
+    translation:
+      en: "reinforcement"
+      ko: "강화"
+    gender: m
+  - spanish: "el refuerzo positivo"
+    translation:
+      en: "positive reinforcement"
+      ko: "긍정적 강화"
+    gender: m
+  - spanish: "el refuerzo negativo"
+    translation:
+      en: "negative reinforcement"
+      ko: "부정적 강화"
+    gender: m
+  - spanish: "el castigo"
+    translation:
+      en: "punishment"
+      ko: "처벌"
+    gender: m
+  - spanish: "la extinción"
+    translation:
+      en: "extinction (behavioral)"
+      ko: "소거"
+    gender: f
+  - spanish: "el hábito"
+    translation:
+      en: "habit"
+      ko: "습관"
+    gender: m
+  - spanish: "la motivación"
+    translation:
+      en: "motivation"
+      ko: "동기"
+    gender: f
+  - spanish: "la motivación intrínseca"
+    translation:
+      en: "intrinsic motivation"
+      ko: "내재적 동기"
+    gender: f
+  - spanish: "la motivación extrínseca"
+    translation:
+      en: "extrinsic motivation"
+      ko: "외재적 동기"
+    gender: f
+  - spanish: "el instinto"
+    translation:
+      en: "instinct"
+      ko: "본능"
+    gender: m
+  - spanish: "el impulso"
+    translation:
+      en: "impulse / drive"
+      ko: "충동"
+    gender: m
+  - spanish: "la adicción"
+    translation:
+      en: "addiction"
+      ko: "중독"
+    gender: f
+  - spanish: "la dependencia"
+    translation:
+      en: "dependence"
+      ko: "의존"
+    gender: f
+  - spanish: "el condicionamiento social"
+    translation:
+      en: "social conditioning"
+      ko: "사회적 조건화"
+    gender: m
+  - spanish: "el modelado"
+    translation:
+      en: "modeling (learning by observation)"
+      ko: "모델링 (관찰 학습)"
+    gender: m
+  - spanish: "la autoeficacia"
+    translation:
+      en: "self-efficacy"
+      ko: "자기 효능감"
+    gender: f
+  - spanish: "la autorregulación"
+    translation:
+      en: "self-regulation"
+      ko: "자기 조절"
+    gender: f
+  - spanish: "la procrastinación"
+    translation:
+      en: "procrastination"
+      ko: "미루기 / 지연행동"
+    gender: f
+  - spanish: "la gratificación inmediata"
+    translation:
+      en: "instant gratification"
+      ko: "즉각적 만족"
+    gender: f
+  - spanish: "la gratificación diferida"
+    translation:
+      en: "delayed gratification"
+      ko: "지연된 만족"
+    gender: f
+  - spanish: "la fuerza de voluntad"
+    translation:
+      en: "willpower"
+      ko: "의지력"
+    gender: f
+  - spanish: "la resiliencia psicológica"
+    translation:
+      en: "psychological resilience"
+      ko: "심리적 회복력"
+    gender: f
+  - spanish: "la inteligencia social"
+    translation:
+      en: "social intelligence"
+      ko: "사회적 지능"
+    gender: f
+  - spanish: "el aprendizaje social"
+    translation:
+      en: "social learning"
+      ko: "사회적 학습"
+    gender: m
+  - spanish: "la psicología positiva"
+    translation:
+      en: "positive psychology"
+      ko: "긍정 심리학"
+    gender: f
+  - spanish: "el flujo"
+    translation:
+      en: "flow (psychological state)"
+      ko: "몰입 / 플로우"
+    gender: m
+    notes:
+      en: "Concept by Csikszentmihalyi"
+      ko: "칙센트미하이의 개념"
+  - spanish: "la jerarquía de necesidades"
+    translation:
+      en: "hierarchy of needs"
+      ko: "욕구 단계설"
+    gender: f
+    notes:
+      en: "Maslow's hierarchy"
+      ko: "매슬로의 욕구 단계"
+  - spanish: "la autorrealización"
+    translation:
+      en: "self-actualization"
+      ko: "자아실현"
+    gender: f
+  - spanish: "el bienestar psicológico"
+    translation:
+      en: "psychological well-being"
+      ko: "심리적 안녕"
+    gender: m
+  - spanish: "la terapia ocupacional"
+    translation:
+      en: "occupational therapy"
+      ko: "작업 치료"
+    gender: f
+  - spanish: "la terapia asistida con animales"
+    translation:
+      en: "animal-assisted therapy"
+      ko: "동물 보조 치료"
+    gender: f
+  - spanish: "la arteterapia"
+    translation:
+      en: "art therapy"
+      ko: "미술 치료"
+    gender: f
+  - spanish: "la musicoterapia"
+    translation:
+      en: "music therapy"
+      ko: "음악 치료"
+    gender: f
+  - spanish: "el test psicológico"
+    translation:
+      en: "psychological test"
+      ko: "심리 검사"
+    gender: m
+  - spanish: "la evaluación psicológica"
+    translation:
+      en: "psychological assessment"
+      ko: "심리 평가"
+    gender: f
+  - spanish: "el perfil psicológico"
+    translation:
+      en: "psychological profile"
+      ko: "심리 프로파일"
+    gender: m
+  - spanish: "la personalidad"
+    translation:
+      en: "personality"
+      ko: "성격"
+    gender: f
+  - spanish: "el temperamento"
+    translation:
+      en: "temperament"
+      ko: "기질"
+    gender: m
+  - spanish: "el carácter"
+    translation:
+      en: "character"
+      ko: "성격 / 인격"
+    gender: m
+  - spanish: "la introversión"
+    translation:
+      en: "introversion"
+      ko: "내향성"
+    gender: f
+  - spanish: "la extroversión"
+    translation:
+      en: "extroversion"
+      ko: "외향성"
+    gender: f
+  - spanish: "el narcisismo"
+    translation:
+      en: "narcissism"
+      ko: "자기애"
+    gender: m
+  - spanish: "la psicopatía"
+    translation:
+      en: "psychopathy"
+      ko: "사이코패시"
+    gender: f
+  - spanish: "la sociopatía"
+    translation:
+      en: "sociopathy"
+      ko: "소시오패시"
+    gender: f
+  - spanish: "el trastorno de personalidad"
+    translation:
+      en: "personality disorder"
+      ko: "성격 장애"
+    gender: m
+  - spanish: "el aprendizaje vicario"
+    translation:
+      en: "vicarious learning"
+      ko: "대리 학습"
+    gender: m
+    notes:
+      en: "Bandura's theory"
+      ko: "반두라의 이론"
+  - spanish: "la desensibilización"
+    translation:
+      en: "desensitization"
+      ko: "둔감화"
+    gender: f
+  - spanish: "la exposición gradual"
+    translation:
+      en: "gradual exposure"
+      ko: "점진적 노출"
+    gender: f
+  - spanish: "el ancla emocional"
+    translation:
+      en: "emotional anchor"
+      ko: "정서적 앵커"
+    gender: f
+    notes:
+      en: "Feminine but uses el: el ancla"
+      ko: "여성 명사이지만 el 사용: el ancla"
+  - spanish: "la regulación emocional"
+    translation:
+      en: "emotional regulation"
+      ko: "정서 조절"
+    gender: f
+  - spanish: "el afrontamiento"
+    translation:
+      en: "coping"
+      ko: "대처"
+    gender: m
+  - spanish: "la estrategia de afrontamiento"
+    translation:
+      en: "coping strategy"
+      ko: "대처 전략"
+    gender: f
+  - spanish: "el síndrome de Estocolmo"
+    translation:
+      en: "Stockholm syndrome"
+      ko: "스톡홀름 증후군"
+    gender: m
+  - spanish: "el efecto Pigmalión"
+    translation:
+      en: "Pygmalion effect"
+      ko: "피그말리온 효과"
+    gender: m
+  - spanish: "la disonancia moral"
+    translation:
+      en: "moral dissonance"
+      ko: "도덕적 부조화"
+    gender: f
+  - spanish: "la neuropsicología"
+    translation:
+      en: "neuropsychology"
+      ko: "신경심리학"
+    gender: f
+  - spanish: "la psicología clínica"
+    translation:
+      en: "clinical psychology"
+      ko: "임상 심리학"
+    gender: f
+  - spanish: "la psicología forense"
+    translation:
+      en: "forensic psychology"
+      ko: "법심리학"
+    gender: f
+  - spanish: "la psicología educativa"
+    translation:
+      en: "educational psychology"
+      ko: "교육 심리학"
+    gender: f
+  - spanish: "la psicología organizacional"
+    translation:
+      en: "organizational psychology"
+      ko: "조직 심리학"
+    gender: f

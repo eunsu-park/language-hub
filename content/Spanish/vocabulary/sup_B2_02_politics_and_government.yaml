@@ -1,0 +1,997 @@
+lesson: "sup_B2_Politics_and_Government"
+lesson_number: 162
+cefr: B2
+type: supplementary
+topic: "Politics and Government"
+categories:
+- id: political_systems
+  label:
+    en: "Political Systems"
+    ko: "정치 체제"
+  type: vocabulary
+  words:
+  - spanish: "la democracia"
+    translation:
+      en: "democracy"
+      ko: "민주주의"
+    gender: f
+  - spanish: "la monarquía"
+    translation:
+      en: "monarchy"
+      ko: "군주제"
+    gender: f
+  - spanish: "la república"
+    translation:
+      en: "republic"
+      ko: "공화국"
+    gender: f
+  - spanish: "la dictadura"
+    translation:
+      en: "dictatorship"
+      ko: "독재"
+    gender: f
+  - spanish: "el régimen"
+    translation:
+      en: "regime"
+      ko: "체제 / 정권"
+    gender: m
+  - spanish: "la teocracia"
+    translation:
+      en: "theocracy"
+      ko: "신정정치"
+    gender: f
+  - spanish: "la oligarquía"
+    translation:
+      en: "oligarchy"
+      ko: "과두제"
+    gender: f
+  - spanish: "el totalitarismo"
+    translation:
+      en: "totalitarianism"
+      ko: "전체주의"
+    gender: m
+  - spanish: "el autoritarismo"
+    translation:
+      en: "authoritarianism"
+      ko: "권위주의"
+    gender: m
+  - spanish: "la anarquía"
+    translation:
+      en: "anarchy"
+      ko: "무정부 상태"
+    gender: f
+  - spanish: "el federalismo"
+    translation:
+      en: "federalism"
+      ko: "연방주의"
+    gender: m
+  - spanish: "la monarquía constitucional"
+    translation:
+      en: "constitutional monarchy"
+      ko: "입헌 군주제"
+    gender: f
+  - spanish: "la monarquía parlamentaria"
+    translation:
+      en: "parliamentary monarchy"
+      ko: "의원내각제 군주제"
+    gender: f
+    notes:
+      en: "Spain's current system"
+      ko: "스페인의 현행 체제"
+  - spanish: "el estado de derecho"
+    translation:
+      en: "rule of law"
+      ko: "법치주의"
+    gender: m
+  - spanish: "la soberanía"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: f
+  - spanish: "la constitución"
+    translation:
+      en: "constitution"
+      ko: "헌법"
+    gender: f
+  - spanish: "el golpe de estado"
+    translation:
+      en: "coup d'état"
+      ko: "쿠데타"
+    gender: m
+  - spanish: "la separación de poderes"
+    translation:
+      en: "separation of powers"
+      ko: "삼권분립"
+    gender: f
+  - spanish: "el poder ejecutivo"
+    translation:
+      en: "executive power"
+      ko: "행정권"
+    gender: m
+  - spanish: "el poder legislativo"
+    translation:
+      en: "legislative power"
+      ko: "입법권"
+    gender: m
+  - spanish: "el poder judicial"
+    translation:
+      en: "judicial power"
+      ko: "사법권"
+    gender: m
+  - spanish: "la autonomía"
+    translation:
+      en: "autonomy"
+      ko: "자치권"
+    gender: f
+    notes:
+      en: "Spain has 17 comunidades autónomas"
+      ko: "스페인에는 17개 자치주가 있음"
+  - spanish: "la descentralización"
+    translation:
+      en: "decentralization"
+      ko: "지방 분권"
+    gender: f
+  - spanish: "la transición democrática"
+    translation:
+      en: "democratic transition"
+      ko: "민주화 전환"
+    gender: f
+    notes:
+      en: "Key period in Spain: 1975-1982"
+      ko: "스페인 핵심 시기: 1975-1982"
+- id: elections
+  label:
+    en: "Elections"
+    ko: "선거"
+  type: vocabulary
+  words:
+  - spanish: "las elecciones"
+    translation:
+      en: "elections"
+      ko: "선거"
+    gender: f
+    notes:
+      en: "Always plural"
+      ko: "항상 복수형"
+  - spanish: "las elecciones generales"
+    translation:
+      en: "general elections"
+      ko: "총선"
+    gender: f
+  - spanish: "las elecciones municipales"
+    translation:
+      en: "municipal elections"
+      ko: "지방 선거"
+    gender: f
+  - spanish: "las elecciones autonómicas"
+    translation:
+      en: "regional elections"
+      ko: "자치주 선거"
+    gender: f
+  - spanish: "el referéndum"
+    translation:
+      en: "referendum"
+      ko: "국민투표"
+    gender: m
+  - spanish: "el voto"
+    translation:
+      en: "vote"
+      ko: "투표"
+    gender: m
+  - spanish: "votar"
+    translation:
+      en: "to vote"
+      ko: "투표하다"
+    gender: null
+  - spanish: "el sufragio universal"
+    translation:
+      en: "universal suffrage"
+      ko: "보통선거권"
+    gender: m
+  - spanish: "la papeleta"
+    translation:
+      en: "ballot"
+      ko: "투표 용지"
+    gender: f
+  - spanish: "la urna"
+    translation:
+      en: "ballot box"
+      ko: "투표함"
+    gender: f
+  - spanish: "el escaño"
+    translation:
+      en: "parliamentary seat"
+      ko: "의석"
+    gender: m
+  - spanish: "el candidato"
+    translation:
+      en: "candidate"
+      ko: "후보자"
+    gender: m
+    notes:
+      en: "la candidata for female"
+      ko: "여성형은 la candidata"
+  - spanish: "la candidatura"
+    translation:
+      en: "candidacy"
+      ko: "후보 출마"
+    gender: f
+  - spanish: "la campaña electoral"
+    translation:
+      en: "electoral campaign"
+      ko: "선거 운동"
+    gender: f
+  - spanish: "el programa electoral"
+    translation:
+      en: "electoral program / platform"
+      ko: "선거 공약"
+    gender: m
+  - spanish: "la encuesta"
+    translation:
+      en: "poll / survey"
+      ko: "여론 조사"
+    gender: f
+  - spanish: "la circunscripción"
+    translation:
+      en: "constituency / electoral district"
+      ko: "선거구"
+    gender: f
+  - spanish: "el censo electoral"
+    translation:
+      en: "electoral register"
+      ko: "선거인 명부"
+    gender: m
+  - spanish: "la abstención"
+    translation:
+      en: "abstention"
+      ko: "기권"
+    gender: f
+  - spanish: "la participación"
+    translation:
+      en: "turnout / participation"
+      ko: "투표율 / 참여"
+    gender: f
+  - spanish: "la mayoría absoluta"
+    translation:
+      en: "absolute majority"
+      ko: "절대 다수"
+    gender: f
+  - spanish: "la mayoría simple"
+    translation:
+      en: "simple majority"
+      ko: "단순 다수"
+    gender: f
+  - spanish: "la coalición"
+    translation:
+      en: "coalition"
+      ko: "연립 / 연합"
+    gender: f
+  - spanish: "el pacto"
+    translation:
+      en: "pact / agreement"
+      ko: "협약"
+    gender: m
+  - spanish: "la investidura"
+    translation:
+      en: "investiture (of a president)"
+      ko: "취임 / 인준"
+    gender: f
+    notes:
+      en: "Vote in parliament to approve a prime minister"
+      ko: "총리 인준을 위한 의회 투표"
+  - spanish: "el escrutinio"
+    translation:
+      en: "vote count / scrutiny"
+      ko: "개표"
+    gender: m
+  - spanish: "la jornada electoral"
+    translation:
+      en: "election day"
+      ko: "선거일"
+    gender: f
+  - spanish: "la representación proporcional"
+    translation:
+      en: "proportional representation"
+      ko: "비례대표제"
+    gender: f
+  - spanish: "el voto en blanco"
+    translation:
+      en: "blank vote"
+      ko: "백지 투표"
+    gender: m
+  - spanish: "el voto nulo"
+    translation:
+      en: "invalid vote"
+      ko: "무효표"
+    gender: m
+- id: government_bodies
+  label:
+    en: "Government Bodies"
+    ko: "정부 기관"
+  type: vocabulary
+  words:
+  - spanish: "el gobierno"
+    translation:
+      en: "government"
+      ko: "정부"
+    gender: m
+  - spanish: "el parlamento"
+    translation:
+      en: "parliament"
+      ko: "의회"
+    gender: m
+  - spanish: "el congreso"
+    translation:
+      en: "congress / lower house"
+      ko: "의회 / 하원"
+    gender: m
+  - spanish: "el senado"
+    translation:
+      en: "senate"
+      ko: "상원"
+    gender: m
+  - spanish: "el ministerio"
+    translation:
+      en: "ministry"
+      ko: "부처"
+    gender: m
+  - spanish: "el presidente"
+    translation:
+      en: "president / prime minister"
+      ko: "대통령 / 총리"
+    gender: m
+    notes:
+      en: "la presidenta for female"
+      ko: "여성형은 la presidenta"
+  - spanish: "el ministro"
+    translation:
+      en: "minister"
+      ko: "장관"
+    gender: m
+    notes:
+      en: "la ministra for female"
+      ko: "여성형은 la ministra"
+  - spanish: "el diputado"
+    translation:
+      en: "member of parliament / deputy"
+      ko: "국회의원"
+    gender: m
+    notes:
+      en: "la diputada for female"
+      ko: "여성형은 la diputada"
+  - spanish: "el senador"
+    translation:
+      en: "senator"
+      ko: "상원의원"
+    gender: m
+    notes:
+      en: "la senadora for female"
+      ko: "여성형은 la senadora"
+  - spanish: "el alcalde"
+    translation:
+      en: "mayor"
+      ko: "시장"
+    gender: m
+    notes:
+      en: "la alcaldesa for female"
+      ko: "여성형은 la alcaldesa"
+  - spanish: "el ayuntamiento"
+    translation:
+      en: "city hall / municipality"
+      ko: "시청 / 지방자치단체"
+    gender: m
+  - spanish: "la comunidad autónoma"
+    translation:
+      en: "autonomous community"
+      ko: "자치주"
+    gender: f
+    notes:
+      en: "Spain's 17 regional governments"
+      ko: "스페인의 17개 자치 정부"
+  - spanish: "el tribunal constitucional"
+    translation:
+      en: "constitutional court"
+      ko: "헌법 재판소"
+    gender: m
+  - spanish: "el consejo de ministros"
+    translation:
+      en: "council of ministers / cabinet"
+      ko: "각의 / 내각"
+    gender: m
+  - spanish: "la jefatura del estado"
+    translation:
+      en: "head of state"
+      ko: "국가 원수직"
+    gender: f
+  - spanish: "el funcionario"
+    translation:
+      en: "civil servant"
+      ko: "공무원"
+    gender: m
+    notes:
+      en: "la funcionaria for female"
+      ko: "여성형은 la funcionaria"
+  - spanish: "la administración pública"
+    translation:
+      en: "public administration"
+      ko: "공공 행정"
+    gender: f
+  - spanish: "la oposición"
+    translation:
+      en: "opposition"
+      ko: "야당 / 반대 세력"
+    gender: f
+  - spanish: "el portavoz"
+    translation:
+      en: "spokesperson"
+      ko: "대변인"
+    gender: m
+    notes:
+      en: "la portavoz for female"
+      ko: "여성형은 la portavoz"
+  - spanish: "el gabinete"
+    translation:
+      en: "cabinet"
+      ko: "내각"
+    gender: m
+  - spanish: "la legislatura"
+    translation:
+      en: "legislature / term of office"
+      ko: "입법부 / 임기"
+    gender: f
+  - spanish: "el decreto"
+    translation:
+      en: "decree"
+      ko: "법령"
+    gender: m
+  - spanish: "la ley"
+    translation:
+      en: "law"
+      ko: "법률"
+    gender: f
+  - spanish: "el proyecto de ley"
+    translation:
+      en: "bill (proposed law)"
+      ko: "법안"
+    gender: m
+  - spanish: "la proposición de ley"
+    translation:
+      en: "legislative proposal"
+      ko: "의원 입법안"
+    gender: f
+  - spanish: "la moción de censura"
+    translation:
+      en: "motion of no confidence"
+      ko: "불신임 투표"
+    gender: f
+  - spanish: "la cuestión de confianza"
+    translation:
+      en: "vote of confidence"
+      ko: "신임 투표"
+    gender: f
+  - spanish: "el pleno"
+    translation:
+      en: "plenary session"
+      ko: "본회의"
+    gender: m
+  - spanish: "la comisión parlamentaria"
+    translation:
+      en: "parliamentary committee"
+      ko: "의회 위원회"
+    gender: f
+  - spanish: "el presupuesto"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: m
+  - spanish: "los presupuestos generales del estado"
+    translation:
+      en: "national budget"
+      ko: "국가 예산"
+    gender: m
+    notes:
+      en: "Abbreviation: PGE"
+      ko: "약어: PGE"
+  - spanish: "la reforma"
+    translation:
+      en: "reform"
+      ko: "개혁"
+    gender: f
+  - spanish: "el boletín oficial del estado"
+    translation:
+      en: "official state gazette"
+      ko: "관보"
+    gender: m
+    notes:
+      en: "Abbreviation: BOE"
+      ko: "약어: BOE"
+- id: political_ideologies
+  label:
+    en: "Political Ideologies"
+    ko: "정치 이념"
+  type: vocabulary
+  words:
+  - spanish: "el liberalismo"
+    translation:
+      en: "liberalism"
+      ko: "자유주의"
+    gender: m
+  - spanish: "el conservadurismo"
+    translation:
+      en: "conservatism"
+      ko: "보수주의"
+    gender: m
+  - spanish: "el socialismo"
+    translation:
+      en: "socialism"
+      ko: "사회주의"
+    gender: m
+  - spanish: "el comunismo"
+    translation:
+      en: "communism"
+      ko: "공산주의"
+    gender: m
+  - spanish: "el capitalismo"
+    translation:
+      en: "capitalism"
+      ko: "자본주의"
+    gender: m
+  - spanish: "el nacionalismo"
+    translation:
+      en: "nationalism"
+      ko: "민족주의"
+    gender: m
+  - spanish: "el populismo"
+    translation:
+      en: "populism"
+      ko: "포퓰리즘"
+    gender: m
+  - spanish: "el feminismo"
+    translation:
+      en: "feminism"
+      ko: "페미니즘"
+    gender: m
+  - spanish: "el ecologismo"
+    translation:
+      en: "environmentalism"
+      ko: "환경주의"
+    gender: m
+  - spanish: "el anarquismo"
+    translation:
+      en: "anarchism"
+      ko: "무정부주의"
+    gender: m
+  - spanish: "el fascismo"
+    translation:
+      en: "fascism"
+      ko: "파시즘"
+    gender: m
+  - spanish: "la socialdemocracia"
+    translation:
+      en: "social democracy"
+      ko: "사회민주주의"
+    gender: f
+  - spanish: "la izquierda"
+    translation:
+      en: "the left (political)"
+      ko: "좌파"
+    gender: f
+  - spanish: "la derecha"
+    translation:
+      en: "the right (political)"
+      ko: "우파"
+    gender: f
+  - spanish: "el centro"
+    translation:
+      en: "the center (political)"
+      ko: "중도"
+    gender: m
+  - spanish: "la extrema derecha"
+    translation:
+      en: "far right"
+      ko: "극우"
+    gender: f
+  - spanish: "la extrema izquierda"
+    translation:
+      en: "far left"
+      ko: "극좌"
+    gender: f
+  - spanish: "el partido político"
+    translation:
+      en: "political party"
+      ko: "정당"
+    gender: m
+  - spanish: "el militante"
+    translation:
+      en: "party member / activist"
+      ko: "당원 / 활동가"
+    gender: m
+  - spanish: "el afiliado"
+    translation:
+      en: "member (of a party)"
+      ko: "당원"
+    gender: m
+  - spanish: "la ideología"
+    translation:
+      en: "ideology"
+      ko: "이념"
+    gender: f
+  - spanish: "el manifiesto"
+    translation:
+      en: "manifesto"
+      ko: "선언문"
+    gender: m
+  - spanish: "progresista"
+    translation:
+      en: "progressive"
+      ko: "진보적인"
+    gender: null
+  - spanish: "conservador"
+    translation:
+      en: "conservative"
+      ko: "보수적인"
+    gender: null
+  - spanish: "radical"
+    translation:
+      en: "radical"
+      ko: "급진적인"
+    gender: null
+  - spanish: "moderado"
+    translation:
+      en: "moderate"
+      ko: "온건한"
+    gender: null
+- id: international_relations
+  label:
+    en: "International Relations"
+    ko: "국제 관계"
+  type: vocabulary
+  words:
+  - spanish: "la diplomacia"
+    translation:
+      en: "diplomacy"
+      ko: "외교"
+    gender: f
+  - spanish: "el diplomático"
+    translation:
+      en: "diplomat"
+      ko: "외교관"
+    gender: m
+    notes:
+      en: "la diplomática for female"
+      ko: "여성형은 la diplomática"
+  - spanish: "la embajada"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: f
+  - spanish: "el embajador"
+    translation:
+      en: "ambassador"
+      ko: "대사"
+    gender: m
+    notes:
+      en: "la embajadora for female"
+      ko: "여성형은 la embajadora"
+  - spanish: "el consulado"
+    translation:
+      en: "consulate"
+      ko: "영사관"
+    gender: m
+  - spanish: "el tratado"
+    translation:
+      en: "treaty"
+      ko: "조약"
+    gender: m
+  - spanish: "el acuerdo internacional"
+    translation:
+      en: "international agreement"
+      ko: "국제 협정"
+    gender: m
+  - spanish: "la cumbre"
+    translation:
+      en: "summit"
+      ko: "정상 회담"
+    gender: f
+  - spanish: "la ONU"
+    translation:
+      en: "UN (United Nations)"
+      ko: "UN (유엔)"
+    gender: f
+    notes:
+      en: "Organización de las Naciones Unidas"
+      ko: "국제연합"
+  - spanish: "la Unión Europea"
+    translation:
+      en: "European Union"
+      ko: "유럽 연합"
+    gender: f
+  - spanish: "la OTAN"
+    translation:
+      en: "NATO"
+      ko: "나토"
+    gender: f
+    notes:
+      en: "Organización del Tratado del Atlántico Norte"
+      ko: "북대서양 조약 기구"
+  - spanish: "las sanciones"
+    translation:
+      en: "sanctions"
+      ko: "제재"
+    gender: f
+  - spanish: "el embargo"
+    translation:
+      en: "embargo"
+      ko: "통상 금지"
+    gender: m
+  - spanish: "el asilo político"
+    translation:
+      en: "political asylum"
+      ko: "정치적 망명"
+    gender: m
+  - spanish: "el refugiado"
+    translation:
+      en: "refugee"
+      ko: "난민"
+    gender: m
+    notes:
+      en: "la refugiada for female"
+      ko: "여성형은 la refugiada"
+  - spanish: "la migración"
+    translation:
+      en: "migration"
+      ko: "이주"
+    gender: f
+  - spanish: "la cooperación internacional"
+    translation:
+      en: "international cooperation"
+      ko: "국제 협력"
+    gender: f
+  - spanish: "la ayuda humanitaria"
+    translation:
+      en: "humanitarian aid"
+      ko: "인도주의적 원조"
+    gender: f
+  - spanish: "el conflicto armado"
+    translation:
+      en: "armed conflict"
+      ko: "무력 충돌"
+    gender: m
+  - spanish: "el alto el fuego"
+    translation:
+      en: "ceasefire"
+      ko: "휴전"
+    gender: m
+  - spanish: "la mediación"
+    translation:
+      en: "mediation"
+      ko: "중재"
+    gender: f
+  - spanish: "la negociación"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+  - spanish: "la globalización"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: f
+  - spanish: "el multilateralismo"
+    translation:
+      en: "multilateralism"
+      ko: "다자주의"
+    gender: m
+  - spanish: "la soberanía nacional"
+    translation:
+      en: "national sovereignty"
+      ko: "국가 주권"
+    gender: f
+  - spanish: "la política exterior"
+    translation:
+      en: "foreign policy"
+      ko: "외교 정책"
+    gender: f
+  - spanish: "el derecho internacional"
+    translation:
+      en: "international law"
+      ko: "국제법"
+    gender: m
+  - spanish: "la organización no gubernamental"
+    translation:
+      en: "non-governmental organization (NGO)"
+      ko: "비정부 기구 (NGO)"
+    gender: f
+    notes:
+      en: "Abbreviation: ONG"
+      ko: "약어: ONG"
+  - spanish: "el desarme"
+    translation:
+      en: "disarmament"
+      ko: "군비 축소"
+    gender: m
+  - spanish: "la geopolítica"
+    translation:
+      en: "geopolitics"
+      ko: "지정학"
+    gender: f
+  - spanish: "el espionaje"
+    translation:
+      en: "espionage"
+      ko: "첩보 활동"
+    gender: m
+  - spanish: "la ciberseguridad"
+    translation:
+      en: "cybersecurity"
+      ko: "사이버 보안"
+    gender: f
+  - spanish: "el bloqueo"
+    translation:
+      en: "blockade"
+      ko: "봉쇄"
+    gender: m
+  - spanish: "la zona de conflicto"
+    translation:
+      en: "conflict zone"
+      ko: "분쟁 지역"
+    gender: f
+  - spanish: "el mantenimiento de la paz"
+    translation:
+      en: "peacekeeping"
+      ko: "평화 유지"
+    gender: m
+  - spanish: "la resolución"
+    translation:
+      en: "resolution"
+      ko: "결의안"
+    gender: f
+  - spanish: "el veto"
+    translation:
+      en: "veto"
+      ko: "거부권"
+    gender: m
+  - spanish: "la hegemonía"
+    translation:
+      en: "hegemony"
+      ko: "패권"
+    gender: f
+  - spanish: "la superpotencia"
+    translation:
+      en: "superpower"
+      ko: "초강대국"
+    gender: f
+  - spanish: "el intervencionismo"
+    translation:
+      en: "interventionism"
+      ko: "개입주의"
+    gender: m
+  - spanish: "el aislacionismo"
+    translation:
+      en: "isolationism"
+      ko: "고립주의"
+    gender: m
+  - spanish: "el protectorado"
+    translation:
+      en: "protectorate"
+      ko: "보호령"
+    gender: m
+  - spanish: "la soberanía alimentaria"
+    translation:
+      en: "food sovereignty"
+      ko: "식량 주권"
+    gender: f
+  - spanish: "la manifestación"
+    translation:
+      en: "demonstration / protest"
+      ko: "시위"
+    gender: f
+  - spanish: "la huelga"
+    translation:
+      en: "strike"
+      ko: "파업"
+    gender: f
+  - spanish: "el movimiento social"
+    translation:
+      en: "social movement"
+      ko: "사회 운동"
+    gender: m
+  - spanish: "el activismo"
+    translation:
+      en: "activism"
+      ko: "활동주의"
+    gender: m
+  - spanish: "la desobediencia civil"
+    translation:
+      en: "civil disobedience"
+      ko: "시민 불복종"
+    gender: f
+  - spanish: "el estado de alarma"
+    translation:
+      en: "state of emergency"
+      ko: "비상사태"
+    gender: m
+  - spanish: "el estado de excepción"
+    translation:
+      en: "state of exception"
+      ko: "예외 상태"
+    gender: m
+  - spanish: "la censura"
+    translation:
+      en: "censorship"
+      ko: "검열"
+    gender: f
+  - spanish: "la transparencia"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f
+  - spanish: "la rendición de cuentas"
+    translation:
+      en: "accountability"
+      ko: "책임성"
+    gender: f
+  - spanish: "la corrupción política"
+    translation:
+      en: "political corruption"
+      ko: "정치 부패"
+    gender: f
+  - spanish: "el nepotismo"
+    translation:
+      en: "nepotism"
+      ko: "친인척 등용"
+    gender: m
+  - spanish: "el clientelismo"
+    translation:
+      en: "clientelism"
+      ko: "고객주의 / 연고주의"
+    gender: m
+  - spanish: "la demagogia"
+    translation:
+      en: "demagoguery"
+      ko: "선동 정치"
+    gender: f
+  - spanish: "la gobernanza"
+    translation:
+      en: "governance"
+      ko: "거버넌스 / 통치"
+    gender: f
+  - spanish: "la participación ciudadana"
+    translation:
+      en: "citizen participation"
+      ko: "시민 참여"
+    gender: f
+  - spanish: "el plebiscito"
+    translation:
+      en: "plebiscite"
+      ko: "국민투표"
+    gender: m
+  - spanish: "la iniciativa legislativa popular"
+    translation:
+      en: "citizens' legislative initiative"
+      ko: "국민 발의"
+    gender: f
+  - spanish: "el lobby"
+    translation:
+      en: "lobby / interest group"
+      ko: "로비 / 이익 단체"
+    gender: m
+  - spanish: "el grupo de presión"
+    translation:
+      en: "pressure group"
+      ko: "압력 단체"
+    gender: m
+  - spanish: "la sociedad civil"
+    translation:
+      en: "civil society"
+      ko: "시민 사회"
+    gender: f
+  - spanish: "el buen gobierno"
+    translation:
+      en: "good governance"
+      ko: "선정"
+    gender: m
+  - spanish: "la regeneración política"
+    translation:
+      en: "political regeneration"
+      ko: "정치 혁신"
+    gender: f

@@ -1,0 +1,1500 @@
+lesson: "sup_B2_Science_and_Research"
+lesson_number: 161
+cefr: B2
+type: supplementary
+topic: "Science and Research"
+categories:
+- id: wissenschaftliche_methode
+  label:
+    en: "Scientific Method (Wissenschaftliche Methode)"
+    ko: "과학적 방법 (Wissenschaftliche Methode)"
+  type: vocabulary
+  words:
+  - german: "die Hypothese, -n"
+    translation:
+      en: "hypothesis"
+      ko: "가설"
+    gender: f
+    notes:
+      en: "eine Hypothese aufstellen = to formulate a hypothesis"
+      ko: "eine Hypothese aufstellen = 가설을 세우다"
+  - german: "das Experiment, -e"
+    translation:
+      en: "experiment"
+      ko: "실험"
+    gender: n
+    notes:
+      en: "ein Experiment durchführen = to conduct an experiment"
+      ko: "ein Experiment durchführen = 실험을 수행하다"
+  - german: "die Theorie, -n"
+    translation:
+      en: "theory"
+      ko: "이론"
+    gender: f
+    notes:
+      en: "die Relativitätstheorie = theory of relativity"
+      ko: "die Relativitätstheorie = 상대성 이론"
+  - german: "die Variable, -n"
+    translation:
+      en: "variable"
+      ko: "변수"
+    gender: f
+    notes:
+      en: "die unabhängige Variable = independent variable"
+      ko: "die unabhängige Variable = 독립 변수"
+  - german: "die Kontrollgruppe, -n"
+    translation:
+      en: "control group"
+      ko: "대조군"
+    gender: f
+    notes:
+      en: "Used in experimental design for comparison"
+      ko: "비교를 위해 실험 설계에서 사용"
+  - german: "die Stichprobe, -n"
+    translation:
+      en: "sample (statistical)"
+      ko: "표본"
+    gender: f
+    notes:
+      en: "eine repräsentative Stichprobe = a representative sample"
+      ko: "eine repräsentative Stichprobe = 대표 표본"
+  - german: "die Datenerhebung, -en"
+    translation:
+      en: "data collection"
+      ko: "데이터 수집"
+    gender: f
+    notes:
+      en: "Daten erheben = to collect data"
+      ko: "Daten erheben = 데이터를 수집하다"
+  - german: "die Auswertung, -en"
+    translation:
+      en: "evaluation / analysis"
+      ko: "분석 / 평가"
+    gender: f
+    notes:
+      en: "die statistische Auswertung = statistical analysis"
+      ko: "die statistische Auswertung = 통계 분석"
+  - german: "der Beweis, -e"
+    translation:
+      en: "proof / evidence"
+      ko: "증거 / 증명"
+    gender: m
+    notes:
+      en: "etwas beweisen = to prove something"
+      ko: "etwas beweisen = 무언가를 증명하다"
+  - german: "die Schlussfolgerung, -en"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: f
+    notes:
+      en: "eine Schlussfolgerung ziehen = to draw a conclusion"
+      ko: "eine Schlussfolgerung ziehen = 결론을 내리다"
+  - german: "die Korrelation, -en"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: f
+    notes:
+      en: "Korrelation ist nicht gleich Kausalität = correlation does not equal causation"
+      ko: "Korrelation ist nicht gleich Kausalität = 상관관계는 인과관계가 아니다"
+  - german: "die Kausalität"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+    notes:
+      en: "der kausale Zusammenhang = causal connection"
+      ko: "der kausale Zusammenhang = 인과적 연관"
+  - german: "das Peer-Review, -s"
+    translation:
+      en: "peer review"
+      ko: "동료 평가"
+    gender: n
+    notes:
+      en: "die Begutachtung durch Fachkollegen"
+      ko: "전문가 동료에 의한 심사"
+  - german: "reproduzierbar"
+    translation:
+      en: "reproducible"
+      ko: "재현 가능한"
+    gender: null
+    notes:
+      en: "die Reproduzierbarkeit = reproducibility"
+      ko: "die Reproduzierbarkeit = 재현성"
+  - german: "empirisch"
+    translation:
+      en: "empirical"
+      ko: "경험적인"
+    gender: null
+    notes:
+      en: "empirische Forschung = empirical research"
+      ko: "empirische Forschung = 경험적 연구"
+  - german: "die Falsifizierung, -en"
+    translation:
+      en: "falsification"
+      ko: "반증"
+    gender: f
+    notes:
+      en: "Key concept in Karl Popper's philosophy of science"
+      ko: "칼 포퍼의 과학 철학에서 핵심 개념"
+  - german: "quantitativ"
+    translation:
+      en: "quantitative"
+      ko: "양적인"
+    gender: null
+    notes:
+      en: "quantitative Methoden = quantitative methods"
+      ko: "quantitative Methoden = 양적 방법론"
+  - german: "qualitativ"
+    translation:
+      en: "qualitative"
+      ko: "질적인"
+    gender: null
+    notes:
+      en: "qualitative Analyse = qualitative analysis"
+      ko: "qualitative Analyse = 질적 분석"
+  - german: "die Abweichung, -en"
+    translation:
+      en: "deviation / discrepancy"
+      ko: "편차 / 이탈"
+    gender: f
+    notes:
+      en: "die Standardabweichung = standard deviation"
+      ko: "die Standardabweichung = 표준 편차"
+  - german: "verifizieren"
+    translation:
+      en: "to verify"
+      ko: "검증하다"
+    gender: null
+    notes:
+      en: "die Verifizierung = verification"
+      ko: "die Verifizierung = 검증"
+  - german: "die Versuchsreihe, -n"
+    translation:
+      en: "series of experiments"
+      ko: "실험 시리즈"
+    gender: f
+    notes:
+      en: "eine Versuchsreihe durchführen = to carry out a series of experiments"
+      ko: "eine Versuchsreihe durchführen = 일련의 실험을 수행하다"
+  - german: "die Signifikanz"
+    translation:
+      en: "significance (statistical)"
+      ko: "유의성"
+    gender: f
+    notes:
+      en: "statistisch signifikant = statistically significant"
+      ko: "statistisch signifikant = 통계적으로 유의한"
+  - german: "der Fehlerbereich, -e"
+    translation:
+      en: "margin of error"
+      ko: "오차 범위"
+    gender: m
+    notes:
+      en: "die Fehlertoleranz = error tolerance"
+      ko: "die Fehlertoleranz = 오차 허용 범위"
+  - german: "die Grundlagenforschung"
+    translation:
+      en: "basic research"
+      ko: "기초 연구"
+    gender: f
+    notes:
+      en: "die angewandte Forschung = applied research"
+      ko: "die angewandte Forschung = 응용 연구"
+  - german: "die Doppelblindstudie, -n"
+    translation:
+      en: "double-blind study"
+      ko: "이중맹검 시험"
+    gender: f
+    notes:
+      en: "Neither researcher nor participant knows the group assignment"
+      ko: "연구자와 참가자 모두 집단 배정을 모름"
+  - german: "der Messbereich, -e"
+    translation:
+      en: "measurement range"
+      ko: "측정 범위"
+    gender: m
+    notes:
+      en: "messen = to measure"
+      ko: "messen = 측정하다"
+  - german: "die Parameteranalyse, -n"
+    translation:
+      en: "parameter analysis"
+      ko: "매개변수 분석"
+    gender: f
+    notes:
+      en: "der Parameter = parameter"
+      ko: "der Parameter = 매개변수"
+  - german: "die Placebokontrolle"
+    translation:
+      en: "placebo control"
+      ko: "위약 대조"
+    gender: f
+    notes:
+      en: "das Placebo = placebo"
+      ko: "das Placebo = 위약"
+  - german: "das Modell, -e"
+    translation:
+      en: "model"
+      ko: "모델"
+    gender: n
+    notes:
+      en: "ein theoretisches Modell = a theoretical model"
+      ko: "ein theoretisches Modell = 이론적 모델"
+  - german: "die Simulation, -en"
+    translation:
+      en: "simulation"
+      ko: "시뮬레이션"
+    gender: f
+    notes:
+      en: "simulieren = to simulate"
+      ko: "simulieren = 시뮬레이션하다"
+  - german: "systematisch"
+    translation:
+      en: "systematic"
+      ko: "체계적인"
+    gender: null
+    notes:
+      en: "eine systematische Untersuchung = a systematic investigation"
+      ko: "eine systematische Untersuchung = 체계적인 조사"
+  - german: "die Objektivität"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: f
+    notes:
+      en: "objektiv = objective"
+      ko: "objektiv = 객관적인"
+  - german: "die Reliabilität"
+    translation:
+      en: "reliability (scientific)"
+      ko: "신뢰도"
+    gender: f
+    notes:
+      en: "reliabel = reliable"
+      ko: "reliabel = 신뢰할 수 있는"
+  - german: "die Validität"
+    translation:
+      en: "validity"
+      ko: "타당도"
+    gender: f
+    notes:
+      en: "valide = valid"
+      ko: "valide = 타당한"
+  - german: "die Längsschnittstudie, -n"
+    translation:
+      en: "longitudinal study"
+      ko: "종단 연구"
+    gender: f
+    notes:
+      en: "die Querschnittsstudie = cross-sectional study"
+      ko: "die Querschnittsstudie = 횡단 연구"
+  - german: "die Metaanalyse, -n"
+    translation:
+      en: "meta-analysis"
+      ko: "메타 분석"
+    gender: f
+    notes:
+      en: "Systematic review of multiple studies"
+      ko: "여러 연구의 체계적 검토"
+  - german: "der Algorithmus, Algorithmen"
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: m
+    notes:
+      en: "algorithmisch = algorithmic"
+      ko: "algorithmisch = 알고리즘적인"
+- id: biologie
+  label:
+    en: "Biology (Biologie)"
+    ko: "생물학 (Biologie)"
+  type: vocabulary
+  words:
+  - german: "die Zelle, -n"
+    translation:
+      en: "cell"
+      ko: "세포"
+    gender: f
+    notes:
+      en: "die Zellteilung = cell division"
+      ko: "die Zellteilung = 세포 분열"
+  - german: "die DNS / DNA"
+    translation:
+      en: "DNA"
+      ko: "DNA"
+    gender: f
+    notes:
+      en: "die Desoxyribonukleinsäure = deoxyribonucleic acid"
+      ko: "die Desoxyribonukleinsäure = 디옥시리보핵산"
+  - german: "das Gen, -e"
+    translation:
+      en: "gene"
+      ko: "유전자"
+    gender: n
+    notes:
+      en: "die Genetik = genetics"
+      ko: "die Genetik = 유전학"
+  - german: "die Evolution"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: f
+    notes:
+      en: "die Evolutionstheorie = theory of evolution"
+      ko: "die Evolutionstheorie = 진화론"
+  - german: "der Organismus, Organismen"
+    translation:
+      en: "organism"
+      ko: "유기체"
+    gender: m
+    notes:
+      en: "ein lebender Organismus = a living organism"
+      ko: "ein lebender Organismus = 살아 있는 유기체"
+  - german: "das Ökosystem, -e"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: n
+    notes:
+      en: "das marine Ökosystem = marine ecosystem"
+      ko: "das marine Ökosystem = 해양 생태계"
+  - german: "die Photosynthese"
+    translation:
+      en: "photosynthesis"
+      ko: "광합성"
+    gender: f
+    notes:
+      en: "der Prozess, durch den Pflanzen Licht in Energie umwandeln"
+      ko: "식물이 빛을 에너지로 전환하는 과정"
+  - german: "die Mutation, -en"
+    translation:
+      en: "mutation"
+      ko: "돌연변이"
+    gender: f
+    notes:
+      en: "genetische Mutation = genetic mutation"
+      ko: "genetische Mutation = 유전적 돌연변이"
+  - german: "der Stoffwechsel"
+    translation:
+      en: "metabolism"
+      ko: "신진대사"
+    gender: m
+    notes:
+      en: "den Stoffwechsel anregen = to boost metabolism"
+      ko: "den Stoffwechsel anregen = 신진대사를 촉진하다"
+  - german: "die Artenvielfalt"
+    translation:
+      en: "biodiversity"
+      ko: "생물 다양성"
+    gender: f
+    notes:
+      en: "die Biodiversität = biodiversity (synonym)"
+      ko: "die Biodiversität = 생물 다양성 (동의어)"
+  - german: "das Protein, -e"
+    translation:
+      en: "protein"
+      ko: "단백질"
+    gender: n
+    notes:
+      en: "das Eiweiß = protein (everyday term)"
+      ko: "das Eiweiß = 단백질 (일상 용어)"
+  - german: "die Mikrobiologie"
+    translation:
+      en: "microbiology"
+      ko: "미생물학"
+    gender: f
+    notes:
+      en: "das Studium von Mikroorganismen"
+      ko: "미생물의 연구"
+  - german: "die Vererbung"
+    translation:
+      en: "heredity / inheritance"
+      ko: "유전"
+    gender: f
+    notes:
+      en: "die genetische Vererbung = genetic inheritance"
+      ko: "die genetische Vererbung = 유전적 유전"
+  - german: "die Stammzelle, -n"
+    translation:
+      en: "stem cell"
+      ko: "줄기세포"
+    gender: f
+    notes:
+      en: "die Stammzellenforschung = stem cell research"
+      ko: "die Stammzellenforschung = 줄기세포 연구"
+  - german: "die Symbiose, -n"
+    translation:
+      en: "symbiosis"
+      ko: "공생"
+    gender: f
+    notes:
+      en: "in Symbiose leben = to live in symbiosis"
+      ko: "in Symbiose leben = 공생하다"
+  - german: "der Parasit, -en"
+    translation:
+      en: "parasite"
+      ko: "기생충"
+    gender: m
+    notes:
+      en: "parasitär = parasitic"
+      ko: "parasitär = 기생적인"
+  - german: "die Fortpflanzung"
+    translation:
+      en: "reproduction"
+      ko: "번식 / 생식"
+    gender: f
+    notes:
+      en: "sich fortpflanzen = to reproduce"
+      ko: "sich fortpflanzen = 번식하다"
+  - german: "das Chromosom, -en"
+    translation:
+      en: "chromosome"
+      ko: "염색체"
+    gender: n
+    notes:
+      en: "der Mensch hat 46 Chromosomen = humans have 46 chromosomes"
+      ko: "der Mensch hat 46 Chromosomen = 인간은 46개의 염색체를 가진다"
+  - german: "die Gattung, -en"
+    translation:
+      en: "genus / species group"
+      ko: "속 (분류학)"
+    gender: f
+    notes:
+      en: "die Art = species; die Gattung = genus"
+      ko: "die Art = 종; die Gattung = 속"
+  - german: "das Enzym, -e"
+    translation:
+      en: "enzyme"
+      ko: "효소"
+    gender: n
+    notes:
+      en: "enzymatisch = enzymatic"
+      ko: "enzymatisch = 효소의"
+  - german: "die Botanik"
+    translation:
+      en: "botany"
+      ko: "식물학"
+    gender: f
+    notes:
+      en: "botanisch = botanical"
+      ko: "botanisch = 식물학의"
+  - german: "die Zoologie"
+    translation:
+      en: "zoology"
+      ko: "동물학"
+    gender: f
+    notes:
+      en: "zoologisch = zoological"
+      ko: "zoologisch = 동물학의"
+  - german: "die Nahrungskette, -n"
+    translation:
+      en: "food chain"
+      ko: "먹이 사슬"
+    gender: f
+    notes:
+      en: "das Nahrungsnetz = food web"
+      ko: "das Nahrungsnetz = 먹이 그물"
+  - german: "der Einzeller, -"
+    translation:
+      en: "single-celled organism"
+      ko: "단세포 생물"
+    gender: m
+    notes:
+      en: "der Mehrzeller = multicellular organism"
+      ko: "der Mehrzeller = 다세포 생물"
+  - german: "die Ökologie"
+    translation:
+      en: "ecology"
+      ko: "생태학"
+    gender: f
+    notes:
+      en: "ökologisch = ecological"
+      ko: "ökologisch = 생태학적인"
+  - german: "die Taxonomie"
+    translation:
+      en: "taxonomy"
+      ko: "분류학"
+    gender: f
+    notes:
+      en: "taxonomisch = taxonomic"
+      ko: "taxonomisch = 분류학의"
+  - german: "die Zellatmung"
+    translation:
+      en: "cellular respiration"
+      ko: "세포 호흡"
+    gender: f
+    notes:
+      en: "aerobe Zellatmung = aerobic respiration"
+      ko: "aerobe Zellatmung = 유산소 호흡"
+  - german: "die Neurobiologie"
+    translation:
+      en: "neurobiology"
+      ko: "신경생물학"
+    gender: f
+    notes:
+      en: "das Neuron = neuron"
+      ko: "das Neuron = 뉴런"
+  - german: "der Lebensraum, Lebensräume"
+    translation:
+      en: "habitat"
+      ko: "서식지"
+    gender: m
+    notes:
+      en: "der natürliche Lebensraum = natural habitat"
+      ko: "der natürliche Lebensraum = 자연 서식지"
+  - german: "die Mitose"
+    translation:
+      en: "mitosis"
+      ko: "유사분열"
+    gender: f
+    notes:
+      en: "die Meiose = meiosis"
+      ko: "die Meiose = 감수분열"
+  - german: "die Genexpression"
+    translation:
+      en: "gene expression"
+      ko: "유전자 발현"
+    gender: f
+    notes:
+      en: "die Genregulation = gene regulation"
+      ko: "die Genregulation = 유전자 조절"
+  - german: "die Biomasse"
+    translation:
+      en: "biomass"
+      ko: "생물 질량"
+    gender: f
+    notes:
+      en: "die gesamte Biomasse eines Ökosystems"
+      ko: "생태계의 총 생물 질량"
+  - german: "der Phänotyp, -en"
+    translation:
+      en: "phenotype"
+      ko: "표현형"
+    gender: m
+    notes:
+      en: "der Genotyp = genotype"
+      ko: "der Genotyp = 유전자형"
+  - german: "invasiv"
+    translation:
+      en: "invasive"
+      ko: "침입성의"
+    gender: null
+    notes:
+      en: "invasive Arten = invasive species"
+      ko: "invasive Arten = 침입 종"
+  - german: "die Anpassung, -en"
+    translation:
+      en: "adaptation"
+      ko: "적응"
+    gender: f
+    notes:
+      en: "sich anpassen = to adapt"
+      ko: "sich anpassen = 적응하다"
+  - german: "die Virusforschung"
+    translation:
+      en: "virology"
+      ko: "바이러스학"
+    gender: f
+    notes:
+      en: "die Virologie = virology (formal)"
+      ko: "die Virologie = 바이러스학 (격식)"
+  - german: "der Biomarker, -"
+    translation:
+      en: "biomarker"
+      ko: "바이오마커"
+    gender: m
+    notes:
+      en: "biologischer Indikator für Krankheiten"
+      ko: "질병의 생물학적 지표"
+- id: chemie
+  label:
+    en: "Chemistry (Chemie)"
+    ko: "화학 (Chemie)"
+  type: vocabulary
+  words:
+  - german: "das Molekül, -e"
+    translation:
+      en: "molecule"
+      ko: "분자"
+    gender: n
+    notes:
+      en: "molekular = molecular"
+      ko: "molekular = 분자의"
+  - german: "das Atom, -e"
+    translation:
+      en: "atom"
+      ko: "원자"
+    gender: n
+    notes:
+      en: "atomar = atomic"
+      ko: "atomar = 원자의"
+  - german: "die Verbindung, -en"
+    translation:
+      en: "compound / bond"
+      ko: "화합물 / 결합"
+    gender: f
+    notes:
+      en: "eine chemische Verbindung = a chemical compound"
+      ko: "eine chemische Verbindung = 화학 화합물"
+  - german: "die Säure, -n"
+    translation:
+      en: "acid"
+      ko: "산"
+    gender: f
+    notes:
+      en: "die Salzsäure = hydrochloric acid"
+      ko: "die Salzsäure = 염산"
+  - german: "die Base, -n"
+    translation:
+      en: "base (chemistry)"
+      ko: "염기"
+    gender: f
+    notes:
+      en: "basisch = alkaline / basic"
+      ko: "basisch = 염기성의"
+  - german: "der Katalysator, -en"
+    translation:
+      en: "catalyst"
+      ko: "촉매"
+    gender: m
+    notes:
+      en: "katalytisch = catalytic"
+      ko: "katalytisch = 촉매의"
+  - german: "die Reaktion, -en"
+    translation:
+      en: "reaction"
+      ko: "반응"
+    gender: f
+    notes:
+      en: "eine chemische Reaktion = a chemical reaction"
+      ko: "eine chemische Reaktion = 화학 반응"
+  - german: "das Element, -e"
+    translation:
+      en: "element"
+      ko: "원소"
+    gender: n
+    notes:
+      en: "das Periodensystem der Elemente = periodic table"
+      ko: "das Periodensystem der Elemente = 주기율표"
+  - german: "die Lösung, -en"
+    translation:
+      en: "solution (chemistry)"
+      ko: "용액"
+    gender: f
+    notes:
+      en: "das Lösungsmittel = solvent"
+      ko: "das Lösungsmittel = 용매"
+  - german: "die Oxidation, -en"
+    translation:
+      en: "oxidation"
+      ko: "산화"
+    gender: f
+    notes:
+      en: "die Reduktion = reduction (opposite)"
+      ko: "die Reduktion = 환원 (반대)"
+  - german: "das Ion, -en"
+    translation:
+      en: "ion"
+      ko: "이온"
+    gender: n
+    notes:
+      en: "das Kation = cation; das Anion = anion"
+      ko: "das Kation = 양이온; das Anion = 음이온"
+  - german: "die Synthese, -n"
+    translation:
+      en: "synthesis"
+      ko: "합성"
+    gender: f
+    notes:
+      en: "synthetisch = synthetic"
+      ko: "synthetisch = 합성의"
+  - german: "der Stoff, -e"
+    translation:
+      en: "substance / matter"
+      ko: "물질"
+    gender: m
+    notes:
+      en: "der Reinstoff = pure substance"
+      ko: "der Reinstoff = 순수 물질"
+  - german: "das Gemisch, -e"
+    translation:
+      en: "mixture"
+      ko: "혼합물"
+    gender: n
+    notes:
+      en: "homogenes Gemisch = homogeneous mixture"
+      ko: "homogenes Gemisch = 균질 혼합물"
+  - german: "die Konzentration, -en"
+    translation:
+      en: "concentration"
+      ko: "농도"
+    gender: f
+    notes:
+      en: "die Konzentration einer Lösung = concentration of a solution"
+      ko: "die Konzentration einer Lösung = 용액의 농도"
+  - german: "das Isotop, -e"
+    translation:
+      en: "isotope"
+      ko: "동위원소"
+    gender: n
+    notes:
+      en: "radioaktives Isotop = radioactive isotope"
+      ko: "radioaktives Isotop = 방사성 동위원소"
+  - german: "die Destillation, -en"
+    translation:
+      en: "distillation"
+      ko: "증류"
+    gender: f
+    notes:
+      en: "destillieren = to distill"
+      ko: "destillieren = 증류하다"
+  - german: "die Elektrochemie"
+    translation:
+      en: "electrochemistry"
+      ko: "전기화학"
+    gender: f
+    notes:
+      en: "die Elektrolyse = electrolysis"
+      ko: "die Elektrolyse = 전기 분해"
+  - german: "organisch"
+    translation:
+      en: "organic"
+      ko: "유기의"
+    gender: null
+    notes:
+      en: "die organische Chemie = organic chemistry"
+      ko: "die organische Chemie = 유기 화학"
+  - german: "der pH-Wert, -e"
+    translation:
+      en: "pH value"
+      ko: "pH 값"
+    gender: m
+    notes:
+      en: "pH 7 = neutral"
+      ko: "pH 7 = 중성"
+  - german: "die Valenz, -en"
+    translation:
+      en: "valence"
+      ko: "원자가"
+    gender: f
+    notes:
+      en: "die Valenzelektronen = valence electrons"
+      ko: "die Valenzelektronen = 원자가 전자"
+  - german: "exotherm"
+    translation:
+      en: "exothermic"
+      ko: "발열의"
+    gender: null
+    notes:
+      en: "endotherm = endothermic (opposite)"
+      ko: "endotherm = 흡열의 (반대)"
+  - german: "die Polymerisation"
+    translation:
+      en: "polymerization"
+      ko: "중합"
+    gender: f
+    notes:
+      en: "das Polymer = polymer"
+      ko: "das Polymer = 중합체"
+  - german: "die Chromatografie"
+    translation:
+      en: "chromatography"
+      ko: "크로마토그래피"
+    gender: f
+    notes:
+      en: "Analytical separation technique"
+      ko: "분석적 분리 기법"
+  - german: "das Reagenz, Reagenzien"
+    translation:
+      en: "reagent"
+      ko: "시약"
+    gender: n
+    notes:
+      en: "das Reagenzglas = test tube"
+      ko: "das Reagenzglas = 시험관"
+  - german: "die Titration, -en"
+    translation:
+      en: "titration"
+      ko: "적정"
+    gender: f
+    notes:
+      en: "titrieren = to titrate"
+      ko: "titrieren = 적정하다"
+  - german: "der Aggregatzustand, Aggregatzustände"
+    translation:
+      en: "state of matter"
+      ko: "물질의 상태"
+    gender: m
+    notes:
+      en: "fest, flüssig, gasförmig = solid, liquid, gaseous"
+      ko: "fest, flüssig, gasförmig = 고체, 액체, 기체"
+  - german: "die Elektrode, -n"
+    translation:
+      en: "electrode"
+      ko: "전극"
+    gender: f
+    notes:
+      en: "die Anode = anode; die Kathode = cathode"
+      ko: "die Anode = 양극; die Kathode = 음극"
+  - german: "die Bindung, -en"
+    translation:
+      en: "bond (chemical)"
+      ko: "결합"
+    gender: f
+    notes:
+      en: "die kovalente Bindung = covalent bond"
+      ko: "die kovalente Bindung = 공유 결합"
+  - german: "anorganisch"
+    translation:
+      en: "inorganic"
+      ko: "무기의"
+    gender: null
+    notes:
+      en: "die anorganische Chemie = inorganic chemistry"
+      ko: "die anorganische Chemie = 무기 화학"
+  - german: "die Legierung, -en"
+    translation:
+      en: "alloy"
+      ko: "합금"
+    gender: f
+    notes:
+      en: "der Stahl ist eine Legierung = steel is an alloy"
+      ko: "der Stahl ist eine Legierung = 강철은 합금이다"
+  - german: "die Spektroskopie"
+    translation:
+      en: "spectroscopy"
+      ko: "분광법"
+    gender: f
+    notes:
+      en: "Analytical method using light absorption"
+      ko: "빛 흡수를 이용한 분석 방법"
+  - german: "die Kinetik"
+    translation:
+      en: "kinetics"
+      ko: "동역학"
+    gender: f
+    notes:
+      en: "die Reaktionskinetik = reaction kinetics"
+      ko: "die Reaktionskinetik = 반응 동역학"
+  - german: "sublimieren"
+    translation:
+      en: "to sublimate"
+      ko: "승화하다"
+    gender: null
+    notes:
+      en: "die Sublimation = sublimation"
+      ko: "die Sublimation = 승화"
+  - german: "die Nanotechnologie"
+    translation:
+      en: "nanotechnology"
+      ko: "나노기술"
+    gender: f
+    notes:
+      en: "im Nanometerbereich = in the nanometer range"
+      ko: "im Nanometerbereich = 나노미터 범위에서"
+  - german: "die Biochemie"
+    translation:
+      en: "biochemistry"
+      ko: "생화학"
+    gender: f
+    notes:
+      en: "biochemisch = biochemical"
+      ko: "biochemisch = 생화학적인"
+- id: physik
+  label:
+    en: "Physics (Physik)"
+    ko: "물리학 (Physik)"
+  type: vocabulary
+  words:
+  - german: "die Schwerkraft"
+    translation:
+      en: "gravity"
+      ko: "중력"
+    gender: f
+    notes:
+      en: "die Gravitation = gravitation (formal)"
+      ko: "die Gravitation = 중력 (격식체)"
+  - german: "die Energie, -n"
+    translation:
+      en: "energy"
+      ko: "에너지"
+    gender: f
+    notes:
+      en: "kinetische Energie = kinetic energy"
+      ko: "kinetische Energie = 운동 에너지"
+  - german: "die Geschwindigkeit, -en"
+    translation:
+      en: "speed / velocity"
+      ko: "속도"
+    gender: f
+    notes:
+      en: "die Lichtgeschwindigkeit = speed of light"
+      ko: "die Lichtgeschwindigkeit = 광속"
+  - german: "die Kraft, Kräfte"
+    translation:
+      en: "force"
+      ko: "힘"
+    gender: f
+    notes:
+      en: "die Reibungskraft = friction force"
+      ko: "die Reibungskraft = 마찰력"
+  - german: "die Masse, -n"
+    translation:
+      en: "mass"
+      ko: "질량"
+    gender: f
+    notes:
+      en: "Masse und Gewicht sind verschiedene Größen"
+      ko: "질량과 무게는 다른 물리량이다"
+  - german: "die Wellenlänge, -n"
+    translation:
+      en: "wavelength"
+      ko: "파장"
+    gender: f
+    notes:
+      en: "die elektromagnetische Wellenlänge"
+      ko: "전자기파 파장"
+  - german: "die Frequenz, -en"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: f
+    notes:
+      en: "gemessen in Hertz (Hz)"
+      ko: "헤르츠(Hz)로 측정"
+  - german: "das Teilchen, -"
+    translation:
+      en: "particle"
+      ko: "입자"
+    gender: n
+    notes:
+      en: "die Teilchenphysik = particle physics"
+      ko: "die Teilchenphysik = 입자 물리학"
+  - german: "der Druck"
+    translation:
+      en: "pressure"
+      ko: "압력"
+    gender: m
+    notes:
+      en: "der Luftdruck = air pressure"
+      ko: "der Luftdruck = 기압"
+  - german: "die Reibung"
+    translation:
+      en: "friction"
+      ko: "마찰"
+    gender: f
+    notes:
+      en: "die Reibungswärme = frictional heat"
+      ko: "die Reibungswärme = 마찰열"
+  - german: "das Spektrum, Spektren"
+    translation:
+      en: "spectrum"
+      ko: "스펙트럼"
+    gender: n
+    notes:
+      en: "das elektromagnetische Spektrum"
+      ko: "전자기 스펙트럼"
+  - german: "die Strahlung, -en"
+    translation:
+      en: "radiation"
+      ko: "방사선 / 복사"
+    gender: f
+    notes:
+      en: "die UV-Strahlung = UV radiation"
+      ko: "die UV-Strahlung = 자외선"
+  - german: "die Thermodynamik"
+    translation:
+      en: "thermodynamics"
+      ko: "열역학"
+    gender: f
+    notes:
+      en: "der Hauptsatz der Thermodynamik = law of thermodynamics"
+      ko: "der Hauptsatz der Thermodynamik = 열역학 법칙"
+  - german: "der Impuls, -e"
+    translation:
+      en: "momentum"
+      ko: "운동량"
+    gender: m
+    notes:
+      en: "der Impulserhaltungssatz = conservation of momentum"
+      ko: "der Impulserhaltungssatz = 운동량 보존 법칙"
+  - german: "die Quantenmechanik"
+    translation:
+      en: "quantum mechanics"
+      ko: "양자역학"
+    gender: f
+    notes:
+      en: "die Quantenphysik = quantum physics"
+      ko: "die Quantenphysik = 양자 물리학"
+  - german: "der Widerstand, Widerstände"
+    translation:
+      en: "resistance"
+      ko: "저항"
+    gender: m
+    notes:
+      en: "der elektrische Widerstand = electrical resistance"
+      ko: "der elektrische Widerstand = 전기 저항"
+  - german: "die Beschleunigung, -en"
+    translation:
+      en: "acceleration"
+      ko: "가속도"
+    gender: f
+    notes:
+      en: "beschleunigen = to accelerate"
+      ko: "beschleunigen = 가속하다"
+  - german: "das Magnetfeld, -er"
+    translation:
+      en: "magnetic field"
+      ko: "자기장"
+    gender: n
+    notes:
+      en: "das Erdmagnetfeld = Earth's magnetic field"
+      ko: "das Erdmagnetfeld = 지구 자기장"
+  - german: "die Entropie"
+    translation:
+      en: "entropy"
+      ko: "엔트로피"
+    gender: f
+    notes:
+      en: "Key concept in thermodynamics"
+      ko: "열역학의 핵심 개념"
+  - german: "die Optik"
+    translation:
+      en: "optics"
+      ko: "광학"
+    gender: f
+    notes:
+      en: "optisch = optical"
+      ko: "optisch = 광학의"
+  - german: "die Akustik"
+    translation:
+      en: "acoustics"
+      ko: "음향학"
+    gender: f
+    notes:
+      en: "akustisch = acoustic"
+      ko: "akustisch = 음향의"
+  - german: "die Elektrizität"
+    translation:
+      en: "electricity"
+      ko: "전기"
+    gender: f
+    notes:
+      en: "elektrisch = electrical"
+      ko: "elektrisch = 전기의"
+  - german: "das Photon, -en"
+    translation:
+      en: "photon"
+      ko: "광자"
+    gender: n
+    notes:
+      en: "das Lichtteilchen = light particle"
+      ko: "das Lichtteilchen = 빛 입자"
+  - german: "das Elektron, -en"
+    translation:
+      en: "electron"
+      ko: "전자"
+    gender: n
+    notes:
+      en: "das Proton = proton; das Neutron = neutron"
+      ko: "das Proton = 양성자; das Neutron = 중성자"
+  - german: "die Schwingung, -en"
+    translation:
+      en: "oscillation / vibration"
+      ko: "진동"
+    gender: f
+    notes:
+      en: "schwingen = to oscillate"
+      ko: "schwingen = 진동하다"
+  - german: "die Relativitätstheorie"
+    translation:
+      en: "theory of relativity"
+      ko: "상대성 이론"
+    gender: f
+    notes:
+      en: "Einsteins spezielle/allgemeine Relativitätstheorie"
+      ko: "아인슈타인의 특수/일반 상대성 이론"
+  - german: "das Vakuum, Vakua"
+    translation:
+      en: "vacuum"
+      ko: "진공"
+    gender: n
+    notes:
+      en: "im Vakuum = in a vacuum"
+      ko: "im Vakuum = 진공에서"
+  - german: "die Kernphysik"
+    translation:
+      en: "nuclear physics"
+      ko: "핵물리학"
+    gender: f
+    notes:
+      en: "die Kernspaltung = nuclear fission"
+      ko: "die Kernspaltung = 핵분열"
+  - german: "die Supraleitfähigkeit"
+    translation:
+      en: "superconductivity"
+      ko: "초전도성"
+    gender: f
+    notes:
+      en: "der Supraleiter = superconductor"
+      ko: "der Supraleiter = 초전도체"
+  - german: "die Trägheit"
+    translation:
+      en: "inertia"
+      ko: "관성"
+    gender: f
+    notes:
+      en: "das Trägheitsgesetz = law of inertia"
+      ko: "das Trägheitsgesetz = 관성의 법칙"
+  - german: "die Brechung"
+    translation:
+      en: "refraction"
+      ko: "굴절"
+    gender: f
+    notes:
+      en: "die Lichtbrechung = refraction of light"
+      ko: "die Lichtbrechung = 빛의 굴절"
+  - german: "die Interferenz"
+    translation:
+      en: "interference"
+      ko: "간섭"
+    gender: f
+    notes:
+      en: "konstruktive/destruktive Interferenz"
+      ko: "보강/상쇄 간섭"
+  - german: "die Gravitation"
+    translation:
+      en: "gravitation"
+      ko: "만유인력"
+    gender: f
+    notes:
+      en: "das Gravitationsfeld = gravitational field"
+      ko: "das Gravitationsfeld = 중력장"
+  - german: "die Ladung, -en"
+    translation:
+      en: "charge (electrical)"
+      ko: "전하"
+    gender: f
+    notes:
+      en: "positive/negative Ladung"
+      ko: "양전하/음전하"
+  - german: "die Astrophysik"
+    translation:
+      en: "astrophysics"
+      ko: "천체물리학"
+    gender: f
+    notes:
+      en: "die Kosmologie = cosmology"
+      ko: "die Kosmologie = 우주론"
+  - german: "die Beugung"
+    translation:
+      en: "diffraction"
+      ko: "회절"
+    gender: f
+    notes:
+      en: "die Lichtbeugung = diffraction of light"
+      ko: "die Lichtbeugung = 빛의 회절"
+- id: forschungsvokabular
+  label:
+    en: "Research Vocabulary (Forschungsvokabular)"
+    ko: "연구 어휘 (Forschungsvokabular)"
+  type: vocabulary
+  words:
+  - german: "die Forschung, -en"
+    translation:
+      en: "research"
+      ko: "연구"
+    gender: f
+    notes:
+      en: "Grundlagenforschung = basic research"
+      ko: "Grundlagenforschung = 기초 연구"
+  - german: "die Dissertation, -en"
+    translation:
+      en: "dissertation / thesis"
+      ko: "박사 논문"
+    gender: f
+    notes:
+      en: "eine Dissertation schreiben = to write a dissertation"
+      ko: "eine Dissertation schreiben = 박사 논문을 쓰다"
+  - german: "die Veröffentlichung, -en"
+    translation:
+      en: "publication"
+      ko: "출판 / 발표"
+    gender: f
+    notes:
+      en: "veröffentlichen = to publish"
+      ko: "veröffentlichen = 출판하다"
+  - german: "das Labor, -e"
+    translation:
+      en: "laboratory"
+      ko: "실험실"
+    gender: n
+    notes:
+      en: "im Labor arbeiten = to work in the lab"
+      ko: "im Labor arbeiten = 실험실에서 일하다"
+  - german: "der Forscher, -"
+    translation:
+      en: "researcher (m)"
+      ko: "연구원 (남)"
+    gender: m
+    notes:
+      en: "die Forscherin, -nen = researcher (f)"
+      ko: "die Forscherin, -nen = 연구원 (여)"
+  - german: "die Fachzeitschrift, -en"
+    translation:
+      en: "academic journal"
+      ko: "학술지"
+    gender: f
+    notes:
+      en: "in einer Fachzeitschrift veröffentlichen"
+      ko: "학술지에 발표하다"
+  - german: "das Stipendium, Stipendien"
+    translation:
+      en: "scholarship / grant"
+      ko: "장학금 / 연구비"
+    gender: n
+    notes:
+      en: "ein Stipendium bekommen = to receive a scholarship"
+      ko: "ein Stipendium bekommen = 장학금을 받다"
+  - german: "die Studie, -n"
+    translation:
+      en: "study (research)"
+      ko: "연구 / 조사"
+    gender: f
+    notes:
+      en: "eine Studie durchführen = to conduct a study"
+      ko: "eine Studie durchführen = 연구를 수행하다"
+  - german: "der Durchbruch, Durchbrüche"
+    translation:
+      en: "breakthrough"
+      ko: "돌파구"
+    gender: m
+    notes:
+      en: "ein wissenschaftlicher Durchbruch = a scientific breakthrough"
+      ko: "ein wissenschaftlicher Durchbruch = 과학적 돌파구"
+  - german: "die Abhandlung, -en"
+    translation:
+      en: "treatise / paper"
+      ko: "논문 / 논고"
+    gender: f
+    notes:
+      en: "eine wissenschaftliche Abhandlung"
+      ko: "학술 논문"
+  - german: "der Lehrstuhl, Lehrstühle"
+    translation:
+      en: "university chair / professorship"
+      ko: "대학 석좌 / 교수직"
+    gender: m
+    notes:
+      en: "einen Lehrstuhl innehaben = to hold a chair"
+      ko: "einen Lehrstuhl innehaben = 석좌 교수직을 맡다"
+  - german: "die Förderung, -en"
+    translation:
+      en: "funding / support"
+      ko: "지원 / 장려"
+    gender: f
+    notes:
+      en: "die Forschungsförderung = research funding"
+      ko: "die Forschungsförderung = 연구 지원"
+  - german: "die Erkenntnis, -se"
+    translation:
+      en: "insight / finding"
+      ko: "인식 / 발견"
+    gender: f
+    notes:
+      en: "neue Erkenntnisse gewinnen = to gain new insights"
+      ko: "neue Erkenntnisse gewinnen = 새로운 인식을 얻다"
+  - german: "das Patent, -e"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: n
+    notes:
+      en: "ein Patent anmelden = to file a patent"
+      ko: "ein Patent anmelden = 특허를 출원하다"
+  - german: "die Zitierung, -en"
+    translation:
+      en: "citation"
+      ko: "인용"
+    gender: f
+    notes:
+      en: "zitieren = to cite"
+      ko: "zitieren = 인용하다"
+  - german: "der Doktorand, -en"
+    translation:
+      en: "doctoral candidate (m)"
+      ko: "박사 과정 학생 (남)"
+    gender: m
+    notes:
+      en: "die Doktorandin, -nen = doctoral candidate (f)"
+      ko: "die Doktorandin, -nen = 박사 과정 학생 (여)"
+  - german: "die Ethikkommission, -en"
+    translation:
+      en: "ethics committee"
+      ko: "윤리 위원회"
+    gender: f
+    notes:
+      en: "Required approval for research involving human subjects"
+      ko: "인간 대상 연구에 필요한 승인 기관"
+  - german: "interdisziplinär"
+    translation:
+      en: "interdisciplinary"
+      ko: "학제간의"
+    gender: null
+    notes:
+      en: "interdisziplinäre Forschung = interdisciplinary research"
+      ko: "interdisziplinäre Forschung = 학제간 연구"
+  - german: "bahnbrechend"
+    translation:
+      en: "groundbreaking"
+      ko: "획기적인"
+    gender: null
+    notes:
+      en: "eine bahnbrechende Entdeckung = a groundbreaking discovery"
+      ko: "eine bahnbrechende Entdeckung = 획기적인 발견"
+  - german: "die Methodik, -en"
+    translation:
+      en: "methodology"
+      ko: "방법론"
+    gender: f
+    notes:
+      en: "die Forschungsmethodik = research methodology"
+      ko: "die Forschungsmethodik = 연구 방법론"
+  - german: "die Habilitation, -en"
+    translation:
+      en: "habilitation (post-doctoral qualification)"
+      ko: "교수 자격 취득"
+    gender: f
+    notes:
+      en: "sich habilitieren = to complete habilitation"
+      ko: "sich habilitieren = 교수 자격을 취득하다"
+  - german: "die Forschungsgemeinschaft, -en"
+    translation:
+      en: "research community"
+      ko: "연구 학회"
+    gender: f
+    notes:
+      en: "die DFG = Deutsche Forschungsgemeinschaft"
+      ko: "die DFG = 독일 연구재단"
+  - german: "die Tagung, -en"
+    translation:
+      en: "conference"
+      ko: "학회 / 회의"
+    gender: f
+    notes:
+      en: "eine Tagung besuchen = to attend a conference"
+      ko: "eine Tagung besuchen = 학회에 참석하다"
+  - german: "der Vortrag, Vorträge"
+    translation:
+      en: "lecture / presentation"
+      ko: "강연 / 발표"
+    gender: m
+    notes:
+      en: "einen Vortrag halten = to give a presentation"
+      ko: "einen Vortrag halten = 발표를 하다"
+  - german: "die Bibliografie, -n"
+    translation:
+      en: "bibliography"
+      ko: "참고 문헌"
+    gender: f
+    notes:
+      en: "bibliografisch = bibliographic"
+      ko: "bibliografisch = 서지학적인"
+  - german: "das Forschungsprojekt, -e"
+    translation:
+      en: "research project"
+      ko: "연구 프로젝트"
+    gender: n
+    notes:
+      en: "ein Forschungsprojekt leiten = to lead a research project"
+      ko: "ein Forschungsprojekt leiten = 연구 프로젝트를 이끌다"
+  - german: "das Laborgerät, -e"
+    translation:
+      en: "laboratory equipment"
+      ko: "실험 기구"
+    gender: n
+    notes:
+      en: "das Mikroskop = microscope"
+      ko: "das Mikroskop = 현미경"
+  - german: "der Sachverständige, -n"
+    translation:
+      en: "expert"
+      ko: "전문가"
+    gender: m
+    notes:
+      en: "die Sachverständige = expert (f)"
+      ko: "die Sachverständige = 전문가 (여)"
+  - german: "die Postdoc-Stelle, -n"
+    translation:
+      en: "postdoc position"
+      ko: "박사후 연구원 자리"
+    gender: f
+    notes:
+      en: "der/die Postdoc = postdoctoral researcher"
+      ko: "der/die Postdoc = 박사후 연구원"
+  - german: "die Datenschutzrichtlinie, -n"
+    translation:
+      en: "data protection guideline"
+      ko: "데이터 보호 지침"
+    gender: f
+    notes:
+      en: "der Datenschutz = data protection"
+      ko: "der Datenschutz = 데이터 보호"
+  - german: "der Fachbereich, -e"
+    translation:
+      en: "department / field"
+      ko: "학과 / 분야"
+    gender: m
+    notes:
+      en: "der interdisziplinäre Fachbereich"
+      ko: "학제간 분야"
+  - german: "die Probandenstudie, -n"
+    translation:
+      en: "subject study"
+      ko: "피험자 연구"
+    gender: f
+    notes:
+      en: "der Proband = test subject"
+      ko: "der Proband = 피험자"
+  - german: "die Open-Access-Veröffentlichung, -en"
+    translation:
+      en: "open-access publication"
+      ko: "오픈 액세스 출판"
+    gender: f
+    notes:
+      en: "frei zugängliche Forschung"
+      ko: "자유롭게 접근 가능한 연구"
+  - german: "die Laborprobe, -n"
+    translation:
+      en: "laboratory sample"
+      ko: "실험 시료"
+    gender: f
+    notes:
+      en: "eine Probe nehmen = to take a sample"
+      ko: "eine Probe nehmen = 시료를 채취하다"
+  - german: "die Peer-Gruppe, -n"
+    translation:
+      en: "peer group"
+      ko: "동료 집단"
+    gender: f
+    notes:
+      en: "die Begutachtung durch Peers"
+      ko: "동료에 의한 평가"
+  - german: "anwendungsorientiert"
+    translation:
+      en: "application-oriented"
+      ko: "응용 지향적인"
+    gender: null
+    notes:
+      en: "anwendungsorientierte Forschung = application-oriented research"
+      ko: "anwendungsorientierte Forschung = 응용 지향적 연구"
+  - german: "die Drittmittel (pl.)"
+    translation:
+      en: "third-party funding"
+      ko: "외부 연구비"
+    gender: n
+    notes:
+      en: "Drittmittel einwerben = to secure external funding"
+      ko: "Drittmittel einwerben = 외부 연구비를 확보하다"

@@ -1,0 +1,1628 @@
+lesson: "sup_C1_Legal_Terminology"
+lesson_number: 183
+cefr: C1
+type: supplementary
+topic: "Legal Terminology"
+categories:
+- id: verfassungsrecht
+  label:
+    en: "Constitutional Law (Verfassungsrecht)"
+    ko: "헌법 (Verfassungsrecht)"
+  type: vocabulary
+  words:
+  - german: "das Grundgesetz"
+    translation:
+      en: "Basic Law (German constitution)"
+      ko: "기본법 (독일 헌법)"
+    gender: n
+    notes:
+      en: "das GG = abbreviation for Grundgesetz"
+      ko: "das GG = Grundgesetz의 약어"
+  - german: "die Verfassung, -en"
+    translation:
+      en: "constitution"
+      ko: "헌법"
+    gender: f
+    notes:
+      en: "verfassungsgemäß = constitutional"
+      ko: "verfassungsgemäß = 합헌적인"
+  - german: "das Grundrecht, -e"
+    translation:
+      en: "fundamental right"
+      ko: "기본권"
+    gender: n
+    notes:
+      en: "die Grundrechte sind im GG verankert"
+      ko: "기본권은 기본법에 명시되어 있다"
+  - german: "die Menschenwürde"
+    translation:
+      en: "human dignity"
+      ko: "인간 존엄성"
+    gender: f
+    notes:
+      en: "Art. 1 GG: Die Würde des Menschen ist unantastbar"
+      ko: "기본법 제1조: 인간의 존엄성은 불가침이다"
+  - german: "die Gewaltenteilung"
+    translation:
+      en: "separation of powers"
+      ko: "삼권분립"
+    gender: f
+    notes:
+      en: "Legislative, Exekutive, Judikative"
+      ko: "입법부, 행정부, 사법부"
+  - german: "die Rechtsstaatlichkeit"
+    translation:
+      en: "rule of law"
+      ko: "법치주의"
+    gender: f
+    notes:
+      en: "das Rechtsstaatsprinzip = principle of the rule of law"
+      ko: "das Rechtsstaatsprinzip = 법치주의 원칙"
+  - german: "das Bundesverfassungsgericht"
+    translation:
+      en: "Federal Constitutional Court"
+      ko: "연방헌법재판소"
+    gender: n
+    notes:
+      en: "das BVerfG = abbreviation"
+      ko: "das BVerfG = 약어"
+  - german: "die Verfassungsbeschwerde, -n"
+    translation:
+      en: "constitutional complaint"
+      ko: "헌법소원"
+    gender: f
+    notes:
+      en: "eine Verfassungsbeschwerde einlegen = to file a constitutional complaint"
+      ko: "eine Verfassungsbeschwerde einlegen = 헌법소원을 제기하다"
+  - german: "die Souveränität"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: f
+    notes:
+      en: "die Volkssouveränität = popular sovereignty"
+      ko: "die Volkssouveränität = 국민 주권"
+  - german: "die Föderalismus"
+    translation:
+      en: "federalism"
+      ko: "연방주의"
+    gender: m
+    notes:
+      en: "föderalistisch = federalist"
+      ko: "föderalistisch = 연방주의적인"
+  - german: "die Unverletzlichkeit"
+    translation:
+      en: "inviolability"
+      ko: "불가침성"
+    gender: f
+    notes:
+      en: "die Unverletzlichkeit der Wohnung = inviolability of the home"
+      ko: "die Unverletzlichkeit der Wohnung = 주거 불가침"
+  - german: "die Meinungsfreiheit"
+    translation:
+      en: "freedom of speech"
+      ko: "표현의 자유"
+    gender: f
+    notes:
+      en: "Art. 5 GG = Article 5 of the Basic Law"
+      ko: "기본법 제5조"
+  - german: "die Pressefreiheit"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+    notes:
+      en: "die Medienfreiheit = media freedom"
+      ko: "die Medienfreiheit = 미디어 자유"
+  - german: "die Gleichheit vor dem Gesetz"
+    translation:
+      en: "equality before the law"
+      ko: "법 앞의 평등"
+    gender: f
+    notes:
+      en: "Art. 3 GG = Article 3 of the Basic Law"
+      ko: "기본법 제3조"
+  - german: "die Religionsfreiheit"
+    translation:
+      en: "freedom of religion"
+      ko: "종교의 자유"
+    gender: f
+    notes:
+      en: "die Glaubensfreiheit = freedom of belief"
+      ko: "die Glaubensfreiheit = 신앙의 자유"
+  - german: "verfassungswidrig"
+    translation:
+      en: "unconstitutional"
+      ko: "위헌의"
+    gender: null
+    notes:
+      en: "die Verfassungswidrigkeit = unconstitutionality"
+      ko: "die Verfassungswidrigkeit = 위헌성"
+  - german: "die Normenkontrolle, -n"
+    translation:
+      en: "judicial review"
+      ko: "규범 통제"
+    gender: f
+    notes:
+      en: "die abstrakte Normenkontrolle = abstract judicial review"
+      ko: "die abstrakte Normenkontrolle = 추상적 규범 통제"
+  - german: "der Parlamentsvorbehalt"
+    translation:
+      en: "parliamentary reservation"
+      ko: "의회 유보"
+    gender: m
+    notes:
+      en: "wesentliche Entscheidungen bedürfen eines Gesetzes"
+      ko: "중요한 결정은 법률을 필요로 한다"
+  - german: "das Demokratieprinzip"
+    translation:
+      en: "principle of democracy"
+      ko: "민주주의 원칙"
+    gender: n
+    notes:
+      en: "alle Staatsgewalt geht vom Volke aus"
+      ko: "모든 국가 권력은 국민으로부터 나온다"
+  - german: "die Ewigkeitsklausel"
+    translation:
+      en: "eternity clause"
+      ko: "영구 조항"
+    gender: f
+    notes:
+      en: "Art. 79 Abs. 3 GG: unamendable core provisions"
+      ko: "기본법 제79조 제3항: 수정 불가능한 핵심 조항"
+  - german: "die Versammlungsfreiheit"
+    translation:
+      en: "freedom of assembly"
+      ko: "집회의 자유"
+    gender: f
+    notes:
+      en: "Art. 8 GG = Article 8 of the Basic Law"
+      ko: "기본법 제8조"
+  - german: "das Petitionsrecht"
+    translation:
+      en: "right of petition"
+      ko: "청원권"
+    gender: n
+    notes:
+      en: "Art. 17 GG = Article 17 of the Basic Law"
+      ko: "기본법 제17조"
+  - german: "die Verhältnismäßigkeit"
+    translation:
+      en: "proportionality"
+      ko: "비례의 원칙"
+    gender: f
+    notes:
+      en: "der Grundsatz der Verhältnismäßigkeit = principle of proportionality"
+      ko: "der Grundsatz der Verhältnismäßigkeit = 비례의 원칙"
+  - german: "die Gesetzmäßigkeit"
+    translation:
+      en: "legality / lawfulness"
+      ko: "합법성"
+    gender: f
+    notes:
+      en: "die Gesetzmäßigkeit der Verwaltung = legality of administration"
+      ko: "die Gesetzmäßigkeit der Verwaltung = 행정의 합법성"
+  - german: "der Gesetzgeber"
+    translation:
+      en: "legislator / legislature"
+      ko: "입법자"
+    gender: m
+    notes:
+      en: "der Bundesgesetzgeber = federal legislator"
+      ko: "der Bundesgesetzgeber = 연방 입법자"
+  - german: "die Abwägung, -en"
+    translation:
+      en: "weighing / balancing (of rights)"
+      ko: "형량 (권리의)"
+    gender: f
+    notes:
+      en: "die Grundrechtsabwägung = balancing of fundamental rights"
+      ko: "die Grundrechtsabwägung = 기본권 형량"
+  - german: "die Wesensgehaltsgarantie"
+    translation:
+      en: "guarantee of essential content"
+      ko: "본질적 내용 보장"
+    gender: f
+    notes:
+      en: "Art. 19 Abs. 2 GG: kein Grundrecht darf in seinem Wesensgehalt angetastet werden"
+      ko: "기본법 제19조 제2항: 어떤 기본권도 그 본질적 내용이 침해되어서는 안 된다"
+  - german: "die Staatsangehörigkeit"
+    translation:
+      en: "citizenship / nationality"
+      ko: "국적"
+    gender: f
+    notes:
+      en: "die deutsche Staatsangehörigkeit = German citizenship"
+      ko: "die deutsche Staatsangehörigkeit = 독일 국적"
+  - german: "die Grundrechtsbindung"
+    translation:
+      en: "binding force of fundamental rights"
+      ko: "기본권 구속력"
+    gender: f
+    notes:
+      en: "die unmittelbare Grundrechtsbindung der Staatsgewalt"
+      ko: "국가 권력에 대한 기본권의 직접적 구속력"
+  - german: "die Subsidiarität"
+    translation:
+      en: "subsidiarity"
+      ko: "보충성"
+    gender: f
+    notes:
+      en: "das Subsidiaritätsprinzip = principle of subsidiarity"
+      ko: "das Subsidiaritätsprinzip = 보충성 원칙"
+  - german: "die Kompetenzordnung"
+    translation:
+      en: "allocation of powers"
+      ko: "권한 배분"
+    gender: f
+    notes:
+      en: "die Kompetenzverteilung zwischen Bund und Ländern"
+      ko: "연방과 주 간의 권한 배분"
+  - german: "die Drittwirkung"
+    translation:
+      en: "horizontal effect (of fundamental rights)"
+      ko: "제3자 효력"
+    gender: f
+    notes:
+      en: "die mittelbare Drittwirkung = indirect horizontal effect"
+      ko: "die mittelbare Drittwirkung = 간접적 제3자 효력"
+  - german: "das Sozialstaatsprinzip"
+    translation:
+      en: "welfare state principle"
+      ko: "사회국가 원칙"
+    gender: n
+    notes:
+      en: "Art. 20 Abs. 1 GG"
+      ko: "기본법 제20조 제1항"
+  - german: "die Berufsfreiheit"
+    translation:
+      en: "freedom of occupation"
+      ko: "직업의 자유"
+    gender: f
+    notes:
+      en: "Art. 12 GG = Article 12 of the Basic Law"
+      ko: "기본법 제12조"
+  - german: "die Unschuldsvermutung"
+    translation:
+      en: "presumption of innocence"
+      ko: "무죄 추정"
+    gender: f
+    notes:
+      en: "in dubio pro reo = in doubt, for the accused"
+      ko: "in dubio pro reo = 의심스러우면 피고인에게 유리하게"
+  - german: "das Wahlrecht"
+    translation:
+      en: "right to vote / electoral law"
+      ko: "선거권 / 선거법"
+    gender: n
+    notes:
+      en: "das aktive/passive Wahlrecht = right to vote/stand for election"
+      ko: "das aktive/passive Wahlrecht = 투표권/피선거권"
+  - german: "der Grundrechtseingriff, -e"
+    translation:
+      en: "interference with fundamental rights"
+      ko: "기본권 침해"
+    gender: m
+    notes:
+      en: "einen Grundrechtseingriff rechtfertigen"
+      ko: "기본권 침해를 정당화하다"
+  - german: "die Verfassungskonformität"
+    translation:
+      en: "constitutional conformity"
+      ko: "합헌성"
+    gender: f
+    notes:
+      en: "verfassungskonform = constitutionally conforming"
+      ko: "verfassungskonform = 헌법에 부합하는"
+  - german: "die Koalitionsfreiheit"
+    translation:
+      en: "freedom of association"
+      ko: "결사의 자유"
+    gender: f
+    notes:
+      en: "Art. 9 GG = Article 9 of the Basic Law"
+      ko: "기본법 제9조"
+  - german: "die Gesetzgebungskompetenz, -en"
+    translation:
+      en: "legislative competence"
+      ko: "입법 권한"
+    gender: f
+    notes:
+      en: "die ausschließliche/konkurrierende Gesetzgebung"
+      ko: "전속적/경합적 입법"
+- id: vertragsrecht
+  label:
+    en: "Contract Law (Vertragsrecht)"
+    ko: "계약법 (Vertragsrecht)"
+  type: vocabulary
+  words:
+  - german: "der Vertrag, Verträge"
+    translation:
+      en: "contract"
+      ko: "계약"
+    gender: m
+    notes:
+      en: "einen Vertrag schließen = to conclude a contract"
+      ko: "einen Vertrag schließen = 계약을 체결하다"
+  - german: "die Willenserklärung, -en"
+    translation:
+      en: "declaration of intent"
+      ko: "의사 표시"
+    gender: f
+    notes:
+      en: "eine Willenserklärung abgeben = to make a declaration of intent"
+      ko: "eine Willenserklärung abgeben = 의사 표시를 하다"
+  - german: "die Leistung, -en"
+    translation:
+      en: "performance (contractual)"
+      ko: "급부 / 이행"
+    gender: f
+    notes:
+      en: "die Leistungspflicht = obligation to perform"
+      ko: "die Leistungspflicht = 급부 의무"
+  - german: "die Gegenleistung, -en"
+    translation:
+      en: "consideration / counter-performance"
+      ko: "반대급부"
+    gender: f
+    notes:
+      en: "Leistung und Gegenleistung = performance and counter-performance"
+      ko: "급부와 반대급부"
+  - german: "der Schadensersatz"
+    translation:
+      en: "damages / compensation"
+      ko: "손해배상"
+    gender: m
+    notes:
+      en: "Schadensersatz fordern = to claim damages"
+      ko: "Schadensersatz fordern = 손해배상을 청구하다"
+  - german: "die Haftung"
+    translation:
+      en: "liability"
+      ko: "책임 / 배상 의무"
+    gender: f
+    notes:
+      en: "die verschuldensunabhängige Haftung = strict liability"
+      ko: "die verschuldensunabhängige Haftung = 무과실 책임"
+  - german: "die Kündigung, -en"
+    translation:
+      en: "termination / cancellation"
+      ko: "해지 / 해약"
+    gender: f
+    notes:
+      en: "einen Vertrag kündigen = to terminate a contract"
+      ko: "einen Vertrag kündigen = 계약을 해지하다"
+  - german: "die Verjährung, -en"
+    translation:
+      en: "statute of limitations"
+      ko: "소멸 시효"
+    gender: f
+    notes:
+      en: "verjähren = to be time-barred"
+      ko: "verjähren = 시효가 만료되다"
+  - german: "die Nichtigkeit"
+    translation:
+      en: "nullity / voidness"
+      ko: "무효"
+    gender: f
+    notes:
+      en: "nichtig = void / null and void"
+      ko: "nichtig = 무효인"
+  - german: "die Anfechtung, -en"
+    translation:
+      en: "avoidance / contestation"
+      ko: "취소"
+    gender: f
+    notes:
+      en: "einen Vertrag anfechten = to contest a contract"
+      ko: "einen Vertrag anfechten = 계약을 취소하다"
+  - german: "die Vertragsfreiheit"
+    translation:
+      en: "freedom of contract"
+      ko: "계약 자유"
+    gender: f
+    notes:
+      en: "die Privatautonomie = private autonomy"
+      ko: "die Privatautonomie = 사적 자치"
+  - german: "die Gewährleistung, -en"
+    translation:
+      en: "warranty"
+      ko: "하자 담보"
+    gender: f
+    notes:
+      en: "die gesetzliche Gewährleistung = statutory warranty"
+      ko: "die gesetzliche Gewährleistung = 법정 하자 담보"
+  - german: "der Verzug"
+    translation:
+      en: "default / delay"
+      ko: "지체 / 채무 불이행"
+    gender: m
+    notes:
+      en: "in Verzug geraten = to fall into default"
+      ko: "in Verzug geraten = 지체에 빠지다"
+  - german: "die Vertragsstrafe, -n"
+    translation:
+      en: "contractual penalty"
+      ko: "위약금"
+    gender: f
+    notes:
+      en: "eine Vertragsstrafe vereinbaren = to agree on a penalty clause"
+      ko: "eine Vertragsstrafe vereinbaren = 위약금을 약정하다"
+  - german: "die Geschäftsfähigkeit"
+    translation:
+      en: "legal capacity"
+      ko: "행위 능력"
+    gender: f
+    notes:
+      en: "geschäftsfähig = legally competent"
+      ko: "geschäftsfähig = 행위 능력이 있는"
+  - german: "die Allgemeinen Geschäftsbedingungen (pl.)"
+    translation:
+      en: "general terms and conditions (GTC)"
+      ko: "약관"
+    gender: f
+    notes:
+      en: "Abbreviation: AGB"
+      ko: "약어: AGB"
+  - german: "die Rückabwicklung, -en"
+    translation:
+      en: "unwinding / reversal"
+      ko: "원상 회복"
+    gender: f
+    notes:
+      en: "die Rückabwicklung eines Vertrages"
+      ko: "계약의 원상 회복"
+  - german: "die Vertragserfüllung"
+    translation:
+      en: "performance of contract"
+      ko: "계약 이행"
+    gender: f
+    notes:
+      en: "den Vertrag erfüllen = to perform the contract"
+      ko: "den Vertrag erfüllen = 계약을 이행하다"
+  - german: "die Nebenpflicht, -en"
+    translation:
+      en: "ancillary obligation"
+      ko: "부수적 의무"
+    gender: f
+    notes:
+      en: "Schutz- und Nebenpflichten = protective and ancillary duties"
+      ko: "보호 및 부수적 의무"
+  - german: "der Vertragsbruch, Vertragsbrüche"
+    translation:
+      en: "breach of contract"
+      ko: "계약 위반"
+    gender: m
+    notes:
+      en: "einen Vertrag brechen = to breach a contract"
+      ko: "einen Vertrag brechen = 계약을 위반하다"
+  - german: "die Formvorschrift, -en"
+    translation:
+      en: "formal requirement"
+      ko: "방식 요건"
+    gender: f
+    notes:
+      en: "die Schriftform = written form"
+      ko: "die Schriftform = 서면 방식"
+  - german: "die Stellvertretung"
+    translation:
+      en: "representation / agency"
+      ko: "대리"
+    gender: f
+    notes:
+      en: "die Vollmacht = power of attorney"
+      ko: "die Vollmacht = 위임장"
+  - german: "die Unmöglichkeit"
+    translation:
+      en: "impossibility (of performance)"
+      ko: "불능 (이행의)"
+    gender: f
+    notes:
+      en: "anfängliche/nachträgliche Unmöglichkeit = initial/supervening impossibility"
+      ko: "원시적/후발적 불능"
+  - german: "der Rücktritt"
+    translation:
+      en: "withdrawal / rescission"
+      ko: "해제"
+    gender: m
+    notes:
+      en: "vom Vertrag zurücktreten = to withdraw from a contract"
+      ko: "vom Vertrag zurücktreten = 계약에서 해제하다"
+  - german: "die Sittenwidrigkeit"
+    translation:
+      en: "immorality / contra bonos mores"
+      ko: "반사회성 / 공서양속 위반"
+    gender: f
+    notes:
+      en: "ein sittenwidriger Vertrag = a contract contrary to public morals"
+      ko: "ein sittenwidriger Vertrag = 공서양속에 위반하는 계약"
+  - german: "die Rechtsmängelhaftung"
+    translation:
+      en: "liability for defects in title"
+      ko: "권리 하자 담보 책임"
+    gender: f
+    notes:
+      en: "die Sachmängelhaftung = liability for material defects"
+      ko: "die Sachmängelhaftung = 물적 하자 담보 책임"
+  - german: "die salvatorische Klausel, -n"
+    translation:
+      en: "severability clause"
+      ko: "유효 조항"
+    gender: f
+    notes:
+      en: "ensures remaining provisions stay valid if one is void"
+      ko: "하나의 조항이 무효인 경우 나머지 조항의 유효성을 보장"
+  - german: "die Schiedsklausel, -n"
+    translation:
+      en: "arbitration clause"
+      ko: "중재 조항"
+    gender: f
+    notes:
+      en: "das Schiedsgericht = arbitration court"
+      ko: "das Schiedsgericht = 중재 법원"
+- id: geistiges_eigentum
+  label:
+    en: "Intellectual Property (Geistiges Eigentum)"
+    ko: "지적 재산권 (Geistiges Eigentum)"
+  type: vocabulary
+  words:
+  - german: "das Urheberrecht"
+    translation:
+      en: "copyright"
+      ko: "저작권"
+    gender: n
+    notes:
+      en: "urheberrechtlich geschützt = protected by copyright"
+      ko: "urheberrechtlich geschützt = 저작권으로 보호되는"
+  - german: "das Patent, -e"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: n
+    notes:
+      en: "ein Patent anmelden = to file a patent"
+      ko: "ein Patent anmelden = 특허를 출원하다"
+  - german: "die Marke, -n"
+    translation:
+      en: "trademark"
+      ko: "상표"
+    gender: f
+    notes:
+      en: "eine Marke eintragen lassen = to register a trademark"
+      ko: "eine Marke eintragen lassen = 상표를 등록하다"
+  - german: "das Gebrauchsmuster, -"
+    translation:
+      en: "utility model"
+      ko: "실용신안"
+    gender: n
+    notes:
+      en: "das kleine Patent = utility model (colloquial)"
+      ko: "das kleine Patent = 실용신안 (구어)"
+  - german: "der Urheber, -"
+    translation:
+      en: "author / creator"
+      ko: "저작자"
+    gender: m
+    notes:
+      en: "die Urheberin = author (f)"
+      ko: "die Urheberin = 여성 저작자"
+  - german: "die Lizenz, -en"
+    translation:
+      en: "license"
+      ko: "라이선스"
+    gender: f
+    notes:
+      en: "eine Lizenz erteilen = to grant a license"
+      ko: "eine Lizenz erteilen = 라이선스를 부여하다"
+  - german: "die Lizenzvergabe, -n"
+    translation:
+      en: "licensing"
+      ko: "라이선스 부여"
+    gender: f
+    notes:
+      en: "die Lizenzgebühr = licensing fee / royalty"
+      ko: "die Lizenzgebühr = 라이선스 수수료 / 로열티"
+  - german: "der Patentschutz"
+    translation:
+      en: "patent protection"
+      ko: "특허 보호"
+    gender: m
+    notes:
+      en: "die Patentschutzdauer = duration of patent protection"
+      ko: "die Patentschutzdauer = 특허 보호 기간"
+  - german: "die Erfindung, -en"
+    translation:
+      en: "invention"
+      ko: "발명"
+    gender: f
+    notes:
+      en: "der Erfinder = inventor"
+      ko: "der Erfinder = 발명가"
+  - german: "die Patentverletzung, -en"
+    translation:
+      en: "patent infringement"
+      ko: "특허 침해"
+    gender: f
+    notes:
+      en: "ein Patent verletzen = to infringe a patent"
+      ko: "ein Patent verletzen = 특허를 침해하다"
+  - german: "das Geschmacksmuster, -"
+    translation:
+      en: "design patent / registered design"
+      ko: "디자인 특허"
+    gender: n
+    notes:
+      en: "das eingetragene Design = registered design"
+      ko: "das eingetragene Design = 등록 디자인"
+  - german: "die Urheberrechtsverletzung, -en"
+    translation:
+      en: "copyright infringement"
+      ko: "저작권 침해"
+    gender: f
+    notes:
+      en: "das Urheberrecht verletzen = to infringe copyright"
+      ko: "das Urheberrecht verletzen = 저작권을 침해하다"
+  - german: "die Nutzungsrechte (pl.)"
+    translation:
+      en: "usage rights"
+      ko: "이용권"
+    gender: n
+    notes:
+      en: "ausschließliche Nutzungsrechte = exclusive usage rights"
+      ko: "ausschließliche Nutzungsrechte = 독점적 이용권"
+  - german: "der Markenschutz"
+    translation:
+      en: "trademark protection"
+      ko: "상표 보호"
+    gender: m
+    notes:
+      en: "die eingetragene Marke = registered trademark"
+      ko: "die eingetragene Marke = 등록 상표"
+  - german: "die Abmahnung, -en"
+    translation:
+      en: "cease and desist / warning letter"
+      ko: "경고장"
+    gender: f
+    notes:
+      en: "eine Abmahnung schicken = to send a cease and desist letter"
+      ko: "eine Abmahnung schicken = 경고장을 보내다"
+  - german: "die Verwertungsrechte (pl.)"
+    translation:
+      en: "exploitation rights"
+      ko: "이용 권리"
+    gender: n
+    notes:
+      en: "die Verwertung = exploitation / commercialization"
+      ko: "die Verwertung = 이용 / 상업화"
+  - german: "der Patentanspruch, Patentansprüche"
+    translation:
+      en: "patent claim"
+      ko: "특허 청구항"
+    gender: m
+    notes:
+      en: "einen Patentanspruch formulieren = to formulate a patent claim"
+      ko: "einen Patentanspruch formulieren = 특허 청구항을 작성하다"
+  - german: "die Schöpfungshöhe"
+    translation:
+      en: "threshold of originality"
+      ko: "창작성"
+    gender: f
+    notes:
+      en: "die erforderliche Schöpfungshöhe = the required threshold of originality"
+      ko: "die erforderliche Schöpfungshöhe = 필요한 창작성"
+  - german: "das Geschäftsgeheimnis, -se"
+    translation:
+      en: "trade secret"
+      ko: "영업 비밀"
+    gender: n
+    notes:
+      en: "das Betriebsgeheimnis = business secret"
+      ko: "das Betriebsgeheimnis = 영업 비밀"
+  - german: "die Open-Source-Lizenz, -en"
+    translation:
+      en: "open-source license"
+      ko: "오픈소스 라이선스"
+    gender: f
+    notes:
+      en: "die GPL = GNU General Public License"
+      ko: "die GPL = GNU 일반 공중 사용 허가서"
+  - german: "die Patentanmeldung, -en"
+    translation:
+      en: "patent application"
+      ko: "특허 출원"
+    gender: f
+    notes:
+      en: "eine Patentanmeldung einreichen = to submit a patent application"
+      ko: "eine Patentanmeldung einreichen = 특허 출원서를 제출하다"
+  - german: "die Nachahmung, -en"
+    translation:
+      en: "imitation / counterfeit"
+      ko: "모방 / 위조"
+    gender: f
+    notes:
+      en: "die Produktpiraterie = product piracy"
+      ko: "die Produktpiraterie = 제품 위조"
+  - german: "die Verwertungsgesellschaft, -en"
+    translation:
+      en: "collecting society"
+      ko: "저작권 관리 단체"
+    gender: f
+    notes:
+      en: "die GEMA = German music rights society"
+      ko: "die GEMA = 독일 음악 저작권 협회"
+  - german: "die Zwangslizenz, -en"
+    translation:
+      en: "compulsory license"
+      ko: "강제 실시권"
+    gender: f
+    notes:
+      en: "eine Zwangslizenz erteilen = to grant a compulsory license"
+      ko: "eine Zwangslizenz erteilen = 강제 실시권을 부여하다"
+  - german: "das geistige Eigentum"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산"
+    gender: n
+    notes:
+      en: "der Schutz des geistigen Eigentums = IP protection"
+      ko: "der Schutz des geistigen Eigentums = 지적 재산 보호"
+- id: voelkerrecht
+  label:
+    en: "International Law (Völkerrecht)"
+    ko: "국제법 (Völkerrecht)"
+  type: vocabulary
+  words:
+  - german: "das Völkerrecht"
+    translation:
+      en: "international law"
+      ko: "국제법"
+    gender: n
+    notes:
+      en: "völkerrechtlich = under international law"
+      ko: "völkerrechtlich = 국제법상의"
+  - german: "der Völkerrechtsvertrag, Völkerrechtsverträge"
+    translation:
+      en: "international treaty"
+      ko: "국제 조약"
+    gender: m
+    notes:
+      en: "einen Vertrag ratifizieren = to ratify a treaty"
+      ko: "einen Vertrag ratifizieren = 조약을 비준하다"
+  - german: "die Genfer Konventionen (pl.)"
+    translation:
+      en: "Geneva Conventions"
+      ko: "제네바 협약"
+    gender: f
+    notes:
+      en: "die Grundlage des humanitären Völkerrechts"
+      ko: "인도적 국제법의 기초"
+  - german: "der Internationale Gerichtshof"
+    translation:
+      en: "International Court of Justice (ICJ)"
+      ko: "국제사법재판소"
+    gender: m
+    notes:
+      en: "der IGH = abbreviation"
+      ko: "der IGH = 약어"
+  - german: "das humanitäre Völkerrecht"
+    translation:
+      en: "international humanitarian law"
+      ko: "국제 인도법"
+    gender: n
+    notes:
+      en: "das Kriegsrecht = law of war"
+      ko: "das Kriegsrecht = 전쟁법"
+  - german: "die Menschenrechtskonvention, -en"
+    translation:
+      en: "human rights convention"
+      ko: "인권 협약"
+    gender: f
+    notes:
+      en: "die EMRK = European Convention on Human Rights"
+      ko: "die EMRK = 유럽인권협약"
+  - german: "die Sanktion, -en"
+    translation:
+      en: "sanction"
+      ko: "제재"
+    gender: f
+    notes:
+      en: "Sanktionen verhängen = to impose sanctions"
+      ko: "Sanktionen verhängen = 제재를 부과하다"
+  - german: "die Diplomatie"
+    translation:
+      en: "diplomacy"
+      ko: "외교"
+    gender: f
+    notes:
+      en: "diplomatisch = diplomatic"
+      ko: "diplomatisch = 외교적인"
+  - german: "die Immunität"
+    translation:
+      en: "immunity"
+      ko: "면제 / 면책"
+    gender: f
+    notes:
+      en: "die diplomatische Immunität = diplomatic immunity"
+      ko: "die diplomatische Immunität = 외교적 면책"
+  - german: "die Ratifizierung, -en"
+    translation:
+      en: "ratification"
+      ko: "비준"
+    gender: f
+    notes:
+      en: "ratifizieren = to ratify"
+      ko: "ratifizieren = 비준하다"
+  - german: "das Flüchtlingsrecht"
+    translation:
+      en: "refugee law"
+      ko: "난민법"
+    gender: n
+    notes:
+      en: "das Asylrecht = asylum law"
+      ko: "das Asylrecht = 망명법"
+  - german: "die Jurisdiktion, -en"
+    translation:
+      en: "jurisdiction"
+      ko: "관할권"
+    gender: f
+    notes:
+      en: "die internationale Jurisdiktion"
+      ko: "국제 관할권"
+  - german: "der Internationale Strafgerichtshof"
+    translation:
+      en: "International Criminal Court (ICC)"
+      ko: "국제형사재판소"
+    gender: m
+    notes:
+      en: "der IStGH = abbreviation"
+      ko: "der IStGH = 약어"
+  - german: "das Gewaltverbot"
+    translation:
+      en: "prohibition of the use of force"
+      ko: "무력 사용 금지"
+    gender: n
+    notes:
+      en: "Art. 2(4) der UN-Charta"
+      ko: "UN 헌장 제2조 제4항"
+  - german: "die Selbstverteidigung"
+    translation:
+      en: "self-defense"
+      ko: "자위권"
+    gender: f
+    notes:
+      en: "das Recht auf Selbstverteidigung = right of self-defense"
+      ko: "das Recht auf Selbstverteidigung = 자위권"
+  - german: "der Völkermord"
+    translation:
+      en: "genocide"
+      ko: "집단 학살"
+    gender: m
+    notes:
+      en: "die Völkermordkonvention = Genocide Convention"
+      ko: "die Völkermordkonvention = 집단학살협약"
+  - german: "die Kriegsverbrechen (pl.)"
+    translation:
+      en: "war crimes"
+      ko: "전쟁 범죄"
+    gender: n
+    notes:
+      en: "Kriegsverbrechen verfolgen = to prosecute war crimes"
+      ko: "Kriegsverbrechen verfolgen = 전쟁 범죄를 기소하다"
+  - german: "die Souveränität"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: f
+    notes:
+      en: "die staatliche Souveränität = state sovereignty"
+      ko: "die staatliche Souveränität = 국가 주권"
+  - german: "das Interventionsverbot"
+    translation:
+      en: "prohibition of intervention"
+      ko: "내정 불간섭"
+    gender: n
+    notes:
+      en: "das Nichteinmischungsprinzip = principle of non-interference"
+      ko: "das Nichteinmischungsprinzip = 불간섭 원칙"
+  - german: "die Staatenimmunität"
+    translation:
+      en: "state immunity"
+      ko: "국가 면제"
+    gender: f
+    notes:
+      en: "die funktionelle Immunität = functional immunity"
+      ko: "die funktionelle Immunität = 기능적 면제"
+  - german: "das Seerecht"
+    translation:
+      en: "law of the sea"
+      ko: "해양법"
+    gender: n
+    notes:
+      en: "die UN-Seerechtskonvention = UNCLOS"
+      ko: "die UN-Seerechtskonvention = 유엔해양법협약"
+  - german: "die Anerkennung"
+    translation:
+      en: "recognition (of states)"
+      ko: "승인 (국가의)"
+    gender: f
+    notes:
+      en: "die diplomatische Anerkennung = diplomatic recognition"
+      ko: "die diplomatische Anerkennung = 외교적 승인"
+  - german: "der Multilateralismus"
+    translation:
+      en: "multilateralism"
+      ko: "다자주의"
+    gender: m
+    notes:
+      en: "multilateral = multilateral"
+      ko: "multilateral = 다자적인"
+  - german: "die Verbrechen gegen die Menschlichkeit (pl.)"
+    translation:
+      en: "crimes against humanity"
+      ko: "인도에 반하는 죄"
+    gender: n
+    notes:
+      en: "im Römischen Statut definiert"
+      ko: "로마규정에 정의되어 있다"
+  - german: "das Gewohnheitsrecht"
+    translation:
+      en: "customary law"
+      ko: "관습법"
+    gender: n
+    notes:
+      en: "das Völkergewohnheitsrecht = customary international law"
+      ko: "das Völkergewohnheitsrecht = 국제관습법"
+  - german: "die Staatenverantwortlichkeit"
+    translation:
+      en: "state responsibility"
+      ko: "국가 책임"
+    gender: f
+    notes:
+      en: "die völkerrechtliche Verantwortlichkeit"
+      ko: "국제법상의 책임"
+- id: lateinische_rechtsbegriffe
+  label:
+    en: "Latin Legal Terms (Lateinische Rechtsbegriffe)"
+    ko: "라틴어 법률 용어 (Lateinische Rechtsbegriffe)"
+  type: vocabulary
+  words:
+  - german: "pacta sunt servanda"
+    translation:
+      en: "agreements must be kept"
+      ko: "합의는 지켜져야 한다"
+    gender: null
+    notes:
+      en: "Fundamental principle of contract law"
+      ko: "계약법의 기본 원칙"
+  - german: "lex specialis derogat legi generali"
+    translation:
+      en: "a specific law overrides a general law"
+      ko: "특별법은 일반법에 우선한다"
+    gender: null
+    notes:
+      en: "Key principle of legal interpretation"
+      ko: "법 해석의 핵심 원칙"
+  - german: "in dubio pro reo"
+    translation:
+      en: "in doubt, for the accused"
+      ko: "의심스러우면 피고인에게 유리하게"
+    gender: null
+    notes:
+      en: "die Unschuldsvermutung = presumption of innocence"
+      ko: "die Unschuldsvermutung = 무죄 추정"
+  - german: "nulla poena sine lege"
+    translation:
+      en: "no punishment without law"
+      ko: "법률 없으면 형벌 없다"
+    gender: null
+    notes:
+      en: "das Gesetzlichkeitsprinzip = principle of legality"
+      ko: "das Gesetzlichkeitsprinzip = 죄형법정주의"
+  - german: "habeas corpus"
+    translation:
+      en: "habeas corpus"
+      ko: "인신보호"
+    gender: null
+    notes:
+      en: "Right to be brought before a court"
+      ko: "법원 출두 권리"
+  - german: "de jure"
+    translation:
+      en: "by law / de jure"
+      ko: "법률상의"
+    gender: null
+    notes:
+      en: "de facto = in fact / in practice"
+      ko: "de facto = 사실상의"
+  - german: "de facto"
+    translation:
+      en: "in fact / in practice"
+      ko: "사실상의"
+    gender: null
+    notes:
+      en: "de jure = by law (opposite)"
+      ko: "de jure = 법률상의 (반대)"
+  - german: "bona fide"
+    translation:
+      en: "in good faith"
+      ko: "선의의"
+    gender: null
+    notes:
+      en: "nach Treu und Glauben = in good faith (German)"
+      ko: "nach Treu und Glauben = 신의성실 (독일어)"
+  - german: "ultra vires"
+    translation:
+      en: "beyond one's powers"
+      ko: "권한 초과"
+    gender: null
+    notes:
+      en: "eine ultra-vires-Handlung = an act beyond authority"
+      ko: "eine ultra-vires-Handlung = 권한 초과 행위"
+  - german: "mala fide"
+    translation:
+      en: "in bad faith"
+      ko: "악의의"
+    gender: null
+    notes:
+      en: "Opposite of bona fide"
+      ko: "bona fide의 반대"
+  - german: "res judicata"
+    translation:
+      en: "a matter already judged"
+      ko: "기판력 / 확정 판결"
+    gender: null
+    notes:
+      en: "die Rechtskraft = legal force / finality"
+      ko: "die Rechtskraft = 기판력"
+  - german: "lex posterior derogat legi priori"
+    translation:
+      en: "a later law overrides an earlier law"
+      ko: "후법이 전법에 우선한다"
+    gender: null
+    notes:
+      en: "Key principle of statutory interpretation"
+      ko: "법률 해석의 핵심 원칙"
+  - german: "erga omnes"
+    translation:
+      en: "toward all / obligations owed to all"
+      ko: "대세적 / 모두에 대한"
+    gender: null
+    notes:
+      en: "erga-omnes-Wirkung = effect toward all parties"
+      ko: "대세적 효력"
+  - german: "jus cogens"
+    translation:
+      en: "peremptory norm"
+      ko: "강행 규범"
+    gender: null
+    notes:
+      en: "zwingendes Völkerrecht = peremptory international law"
+      ko: "강행적 국제법"
+  - german: "prima facie"
+    translation:
+      en: "at first sight"
+      ko: "일응의 / 겉보기의"
+    gender: null
+    notes:
+      en: "der prima-facie-Beweis = prima facie evidence"
+      ko: "일응의 증거"
+  - german: "ratio decidendi"
+    translation:
+      en: "reason for the decision"
+      ko: "판결 이유"
+    gender: null
+    notes:
+      en: "die tragenden Gründe einer Entscheidung"
+      ko: "판결의 핵심 이유"
+  - german: "obiter dictum"
+    translation:
+      en: "said in passing"
+      ko: "방론"
+    gender: null
+    notes:
+      en: "non-binding remark in a court decision"
+      ko: "법원 판결에서의 구속력 없는 발언"
+  - german: "stare decisis"
+    translation:
+      en: "to stand by things decided"
+      ko: "선례 구속주의"
+    gender: null
+    notes:
+      en: "die Präzedenzwirkung = precedent effect"
+      ko: "die Präzedenzwirkung = 선례 효력"
+  - german: "ab initio"
+    translation:
+      en: "from the beginning"
+      ko: "처음부터"
+    gender: null
+    notes:
+      en: "nichtig ab initio = void from the beginning"
+      ko: "nichtig ab initio = 처음부터 무효인"
+  - german: "locus standi"
+    translation:
+      en: "standing / right to bring a case"
+      ko: "원고 적격"
+    gender: null
+    notes:
+      en: "die Klagebefugnis = standing to sue"
+      ko: "die Klagebefugnis = 소송 자격"
+  - german: "ne bis in idem"
+    translation:
+      en: "not twice for the same thing (double jeopardy)"
+      ko: "일사부재리"
+    gender: null
+    notes:
+      en: "das Doppelbestrafungsverbot = prohibition of double jeopardy"
+      ko: "das Doppelbestrafungsverbot = 이중처벌 금지"
+  - german: "actus reus"
+    translation:
+      en: "guilty act"
+      ko: "범죄 행위"
+    gender: null
+    notes:
+      en: "die objektive Tatseite = objective element of a crime"
+      ko: "die objektive Tatseite = 범죄의 객관적 요소"
+  - german: "mens rea"
+    translation:
+      en: "guilty mind"
+      ko: "범의"
+    gender: null
+    notes:
+      en: "die subjektive Tatseite = subjective element of a crime"
+      ko: "die subjektive Tatseite = 범죄의 주관적 요소"
+  - german: "sui generis"
+    translation:
+      en: "of its own kind / unique"
+      ko: "독자적인 / 고유한"
+    gender: null
+    notes:
+      en: "ein sui-generis-Rechtsgebilde = a legal entity of its own kind"
+      ko: "고유한 법적 구성체"
+  - german: "ex officio"
+    translation:
+      en: "by virtue of office / officially"
+      ko: "직권으로"
+    gender: null
+    notes:
+      en: "von Amts wegen = by official authority (German)"
+      ko: "von Amts wegen = 직권으로 (독일어)"
+  - german: "in personam"
+    translation:
+      en: "against the person"
+      ko: "대인적"
+    gender: null
+    notes:
+      en: "in rem = against the thing (opposite)"
+      ko: "in rem = 대물적 (반대)"
+  - german: "in rem"
+    translation:
+      en: "against the thing / relating to property"
+      ko: "대물적"
+    gender: null
+    notes:
+      en: "ein dingliches Recht = a right in rem"
+      ko: "ein dingliches Recht = 물권"
+  - german: "inter partes"
+    translation:
+      en: "between the parties"
+      ko: "당사자 간의"
+    gender: null
+    notes:
+      en: "die Wirkung inter partes = effect between the parties"
+      ko: "당사자 간 효력"
+  - german: "lex loci"
+    translation:
+      en: "law of the place"
+      ko: "행위지법"
+    gender: null
+    notes:
+      en: "lex loci delicti = law of the place of the tort"
+      ko: "lex loci delicti = 불법행위지법"
+  - german: "status quo ante"
+    translation:
+      en: "the state of affairs as before"
+      ko: "이전 상태"
+    gender: null
+    notes:
+      en: "den Status quo ante wiederherstellen = to restore the previous state"
+      ko: "이전 상태를 복구하다"
+  - german: "ad hoc"
+    translation:
+      en: "for this purpose / improvised"
+      ko: "임시의 / 즉석의"
+    gender: null
+    notes:
+      en: "ein Ad-hoc-Ausschuss = an ad hoc committee"
+      ko: "ein Ad-hoc-Ausschuss = 임시 위원회"
+  - german: "per se"
+    translation:
+      en: "by itself / intrinsically"
+      ko: "그 자체로"
+    gender: null
+    notes:
+      en: "rechtswidrig per se = illegal per se"
+      ko: "rechtswidrig per se = 그 자체로 위법한"
+  - german: "quid pro quo"
+    translation:
+      en: "something for something"
+      ko: "대가 / 반대 급부"
+    gender: null
+    notes:
+      en: "Leistung und Gegenleistung = performance and counter-performance"
+      ko: "급부와 반대 급부"
+  - german: "pro rata"
+    translation:
+      en: "in proportion"
+      ko: "비례하여"
+    gender: null
+    notes:
+      en: "die pro-rata-Verteilung = pro rata distribution"
+      ko: "비례 배분"
+  - german: "force majeure"
+    translation:
+      en: "force majeure / act of God"
+      ko: "불가항력"
+    gender: null
+    notes:
+      en: "die höhere Gewalt = force majeure (German equiv.)"
+      ko: "die höhere Gewalt = 불가항력 (독일어 동의어)"
+  - german: "caveat emptor"
+    translation:
+      en: "let the buyer beware"
+      ko: "매수인의 위험 부담"
+    gender: null
+    notes:
+      en: "der Käufer trägt das Risiko"
+      ko: "구매자가 위험을 부담한다"
+  - german: "ipso facto"
+    translation:
+      en: "by the fact itself"
+      ko: "사실 그 자체로"
+    gender: null
+    notes:
+      en: "von Rechts wegen = by operation of law"
+      ko: "법률의 작용에 의해"
+  - german: "das Strafrecht"
+    translation:
+      en: "criminal law"
+      ko: "형법"
+    gender: n
+    notes:
+      en: "strafrechtlich = under criminal law"
+      ko: "strafrechtlich = 형법상의"
+  - german: "das Zivilrecht"
+    translation:
+      en: "civil law"
+      ko: "민법"
+    gender: n
+    notes:
+      en: "zivilrechtlich = under civil law"
+      ko: "zivilrechtlich = 민법상의"
+  - german: "das Verwaltungsrecht"
+    translation:
+      en: "administrative law"
+      ko: "행정법"
+    gender: n
+    notes:
+      en: "verwaltungsrechtlich = under administrative law"
+      ko: "verwaltungsrechtlich = 행정법상의"
+  - german: "das Arbeitsrecht"
+    translation:
+      en: "labor law"
+      ko: "노동법"
+    gender: n
+    notes:
+      en: "arbeitsrechtlich = under labor law"
+      ko: "arbeitsrechtlich = 노동법상의"
+  - german: "das Handelsrecht"
+    translation:
+      en: "commercial law"
+      ko: "상법"
+    gender: n
+    notes:
+      en: "das Handelsgesetzbuch (HGB) = Commercial Code"
+      ko: "das Handelsgesetzbuch (HGB) = 상법전"
+  - german: "die Rechtsprechung"
+    translation:
+      en: "jurisdiction / case law"
+      ko: "판례 / 사법"
+    gender: f
+    notes:
+      en: "die ständige Rechtsprechung = established case law"
+      ko: "die ständige Rechtsprechung = 확립된 판례"
+  - german: "das Rechtsmittel, -"
+    translation:
+      en: "legal remedy / appeal"
+      ko: "불복 수단"
+    gender: n
+    notes:
+      en: "ein Rechtsmittel einlegen = to file an appeal"
+      ko: "ein Rechtsmittel einlegen = 불복 수단을 제기하다"
+  - german: "die Berufung, -en"
+    translation:
+      en: "appeal"
+      ko: "항소"
+    gender: f
+    notes:
+      en: "Berufung einlegen = to file an appeal"
+      ko: "Berufung einlegen = 항소하다"
+  - german: "die Revision, -en"
+    translation:
+      en: "appeal on points of law"
+      ko: "상고"
+    gender: f
+    notes:
+      en: "Revision einlegen = to file an appeal on points of law"
+      ko: "Revision einlegen = 상고하다"
+  - german: "das Urteil, -e"
+    translation:
+      en: "judgment / verdict"
+      ko: "판결"
+    gender: n
+    notes:
+      en: "ein Urteil fällen = to render a judgment"
+      ko: "ein Urteil fällen = 판결을 내리다"
+  - german: "der Beschluss, Beschlüsse"
+    translation:
+      en: "resolution / order"
+      ko: "결정 / 결의"
+    gender: m
+    notes:
+      en: "einen Beschluss fassen = to pass a resolution"
+      ko: "einen Beschluss fassen = 결의를 하다"
+  - german: "die Klage, -n"
+    translation:
+      en: "lawsuit / action"
+      ko: "소송"
+    gender: f
+    notes:
+      en: "eine Klage erheben = to file a lawsuit"
+      ko: "eine Klage erheben = 소송을 제기하다"
+  - german: "der Beklagte, -n"
+    translation:
+      en: "defendant"
+      ko: "피고"
+    gender: m
+    notes:
+      en: "der Kläger = plaintiff"
+      ko: "der Kläger = 원고"
+  - german: "die Beweisaufnahme, -n"
+    translation:
+      en: "taking of evidence"
+      ko: "증거 조사"
+    gender: f
+    notes:
+      en: "Beweise erheben = to take evidence"
+      ko: "Beweise erheben = 증거를 조사하다"
+  - german: "der Tatbestand, Tatbestände"
+    translation:
+      en: "facts of the case / statutory elements"
+      ko: "구성요건"
+    gender: m
+    notes:
+      en: "den Tatbestand erfüllen = to satisfy the statutory elements"
+      ko: "den Tatbestand erfüllen = 구성요건을 충족하다"
+  - german: "die Rechtsfolge, -n"
+    translation:
+      en: "legal consequence"
+      ko: "법적 효과"
+    gender: f
+    notes:
+      en: "wenn-dann-Schema: Tatbestand und Rechtsfolge"
+      ko: "조건-결과 도식: 구성요건과 법적 효과"
+  - german: "die Zuständigkeit, -en"
+    translation:
+      en: "jurisdiction / competence"
+      ko: "관할"
+    gender: f
+    notes:
+      en: "die sachliche/örtliche Zuständigkeit = subject matter/local jurisdiction"
+      ko: "사물/지역 관할"
+  - german: "die Zeugenaussage, -n"
+    translation:
+      en: "witness testimony"
+      ko: "증인 진술"
+    gender: f
+    notes:
+      en: "eine Zeugenaussage machen = to give witness testimony"
+      ko: "eine Zeugenaussage machen = 증인 진술을 하다"
+  - german: "die einstweilige Verfügung, -en"
+    translation:
+      en: "preliminary injunction"
+      ko: "가처분"
+    gender: f
+    notes:
+      en: "eine einstweilige Verfügung beantragen"
+      ko: "가처분을 신청하다"
+  - german: "die Prozesskostenhilfe"
+    translation:
+      en: "legal aid"
+      ko: "소송 구조"
+    gender: f
+    notes:
+      en: "Prozesskostenhilfe beantragen = to apply for legal aid"
+      ko: "Prozesskostenhilfe beantragen = 소송 구조를 신청하다"
+  - german: "das Gutachten, -"
+    translation:
+      en: "expert opinion"
+      ko: "감정서"
+    gender: n
+    notes:
+      en: "ein Gutachten erstellen = to prepare an expert opinion"
+      ko: "ein Gutachten erstellen = 감정서를 작성하다"
+  - german: "die Rechtsbehelfsbelehrung, -en"
+    translation:
+      en: "instruction on legal remedies"
+      ko: "불복 수단 고지"
+    gender: f
+    notes:
+      en: "die Belehrung über die Rechtsmittel"
+      ko: "법적 구제 수단에 관한 고지"
+  - german: "der Rechtsanwalt, Rechtsanwälte"
+    translation:
+      en: "lawyer / attorney"
+      ko: "변호사"
+    gender: m
+    notes:
+      en: "die Rechtsanwältin = lawyer (f)"
+      ko: "die Rechtsanwältin = 여성 변호사"
+  - german: "der Richter, -"
+    translation:
+      en: "judge"
+      ko: "판사"
+    gender: m
+    notes:
+      en: "die Richterin = judge (f)"
+      ko: "die Richterin = 여성 판사"
+  - german: "der Staatsanwalt, Staatsanwälte"
+    translation:
+      en: "prosecutor"
+      ko: "검사"
+    gender: m
+    notes:
+      en: "die Staatsanwältin = prosecutor (f)"
+      ko: "die Staatsanwältin = 여성 검사"
+  - german: "die Verhandlung, -en"
+    translation:
+      en: "hearing / trial"
+      ko: "공판 / 심리"
+    gender: f
+    notes:
+      en: "die mündliche Verhandlung = oral hearing"
+      ko: "die mündliche Verhandlung = 구두 심리"
+  - german: "die Vollstreckung, -en"
+    translation:
+      en: "enforcement / execution"
+      ko: "집행"
+    gender: f
+    notes:
+      en: "die Zwangsvollstreckung = compulsory enforcement"
+      ko: "die Zwangsvollstreckung = 강제 집행"
+  - german: "die Vorbeugehaft"
+    translation:
+      en: "pretrial detention"
+      ko: "구속"
+    gender: f
+    notes:
+      en: "die Untersuchungshaft = pretrial detention"
+      ko: "die Untersuchungshaft = 미결 구금"
+  - german: "die Bewährung"
+    translation:
+      en: "probation"
+      ko: "집행유예"
+    gender: f
+    notes:
+      en: "eine Bewährungsstrafe = a suspended sentence"
+      ko: "eine Bewährungsstrafe = 집행유예 선고"
+  - german: "die Freiheitsstrafe, -n"
+    translation:
+      en: "prison sentence"
+      ko: "자유형"
+    gender: f
+    notes:
+      en: "die Geldstrafe = fine"
+      ko: "die Geldstrafe = 벌금"
+  - german: "die Schuldfähigkeit"
+    translation:
+      en: "criminal responsibility"
+      ko: "책임 능력"
+    gender: f
+    notes:
+      en: "die Schuldunfähigkeit = lack of criminal responsibility"
+      ko: "die Schuldunfähigkeit = 책임 무능력"
+  - german: "die Notwehr"
+    translation:
+      en: "self-defense (legal)"
+      ko: "정당방위"
+    gender: f
+    notes:
+      en: "in Notwehr handeln = to act in self-defense"
+      ko: "in Notwehr handeln = 정당방위로 행동하다"
+  - german: "die Unterlassungsklage, -n"
+    translation:
+      en: "cease and desist action"
+      ko: "금지 청구 소송"
+    gender: f
+    notes:
+      en: "eine Unterlassungsklage einreichen"
+      ko: "금지 청구 소송을 제기하다"
+  - german: "die Fahrlässigkeit"
+    translation:
+      en: "negligence"
+      ko: "과실"
+    gender: f
+    notes:
+      en: "fahrlässig = negligent; der Vorsatz = intent"
+      ko: "fahrlässig = 과실의; der Vorsatz = 고의"
+  - german: "das Datenschutzrecht"
+    translation:
+      en: "data protection law"
+      ko: "데이터 보호법"
+    gender: n
+    notes:
+      en: "die DSGVO = General Data Protection Regulation"
+      ko: "die DSGVO = 일반 데이터 보호 규정"
+  - german: "die Sorgfalt"
+    translation:
+      en: "diligence / care"
+      ko: "주의"
+    gender: f
+    notes:
+      en: "die im Verkehr erforderliche Sorgfalt = the care required in dealings"
+      ko: "거래에서 요구되는 주의"
+  - german: "die Bestandskraft"
+    translation:
+      en: "legal finality (of administrative act)"
+      ko: "확정력 (행정 행위의)"
+    gender: f
+    notes:
+      en: "bestandskräftig = legally final"
+      ko: "bestandskräftig = 확정된"
+  - german: "die Ermessensentscheidung, -en"
+    translation:
+      en: "discretionary decision"
+      ko: "재량 결정"
+    gender: f
+    notes:
+      en: "das Ermessen = discretion"
+      ko: "das Ermessen = 재량"
+  - german: "die Verfügung, -en"
+    translation:
+      en: "order / disposition"
+      ko: "처분"
+    gender: f
+    notes:
+      en: "eine einstweilige Verfügung = a temporary order"
+      ko: "eine einstweilige Verfügung = 임시 처분"
+  - german: "die Rechtsnorm, -en"
+    translation:
+      en: "legal norm"
+      ko: "법규범"
+    gender: f
+    notes:
+      en: "eine verbindliche Rechtsnorm = a binding legal norm"
+      ko: "eine verbindliche Rechtsnorm = 구속력 있는 법규범"
+  - german: "die Gesetzesauslegung, -en"
+    translation:
+      en: "statutory interpretation"
+      ko: "법률 해석"
+    gender: f
+    notes:
+      en: "teleologische/systematische Auslegung = teleological/systematic interpretation"
+      ko: "목적론적/체계적 해석"
+  - german: "die Rechtssicherheit"
+    translation:
+      en: "legal certainty"
+      ko: "법적 안정성"
+    gender: f
+    notes:
+      en: "die Rechtssicherheit gewährleisten = to ensure legal certainty"
+      ko: "die Rechtssicherheit gewährleisten = 법적 안정성을 보장하다"
+  - german: "die Vertrauensschutz"
+    translation:
+      en: "protection of legitimate expectations"
+      ko: "신뢰 보호"
+    gender: m
+    notes:
+      en: "das Prinzip des Vertrauensschutzes"
+      ko: "신뢰 보호 원칙"

@@ -1,0 +1,957 @@
+lesson: "sup_B2_Science_and_Research"
+lesson_number: 161
+cefr: B2
+type: supplementary
+topic: "Science and Research"
+categories:
+- id: scientific_method
+  label:
+    en: "Scientific Method"
+    ko: "과학적 방법"
+  type: vocabulary
+  words:
+  - spanish: "la hipótesis"
+    translation:
+      en: "hypothesis"
+      ko: "가설"
+    gender: f
+  - spanish: "la teoría"
+    translation:
+      en: "theory"
+      ko: "이론"
+    gender: f
+  - spanish: "el experimento"
+    translation:
+      en: "experiment"
+      ko: "실험"
+    gender: m
+  - spanish: "la variable"
+    translation:
+      en: "variable"
+      ko: "변수"
+    gender: f
+  - spanish: "la variable independiente"
+    translation:
+      en: "independent variable"
+      ko: "독립 변수"
+    gender: f
+  - spanish: "la variable dependiente"
+    translation:
+      en: "dependent variable"
+      ko: "종속 변수"
+    gender: f
+  - spanish: "el grupo de control"
+    translation:
+      en: "control group"
+      ko: "대조군"
+    gender: m
+  - spanish: "la muestra"
+    translation:
+      en: "sample"
+      ko: "표본"
+    gender: f
+    notes:
+      en: "Also means 'display' or 'sign'"
+      ko: "'전시' 또는 '표시'라는 뜻도 있음"
+  - spanish: "el dato"
+    translation:
+      en: "data point / datum"
+      ko: "데이터 / 자료"
+    gender: m
+    notes:
+      en: "Plural: los datos (data)"
+      ko: "복수형: los datos (데이터)"
+  - spanish: "el resultado"
+    translation:
+      en: "result"
+      ko: "결과"
+    gender: m
+  - spanish: "la conclusión"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: f
+  - spanish: "la observación"
+    translation:
+      en: "observation"
+      ko: "관찰"
+    gender: f
+  - spanish: "la evidencia"
+    translation:
+      en: "evidence"
+      ko: "증거"
+    gender: f
+  - spanish: "la comprobación"
+    translation:
+      en: "verification"
+      ko: "검증"
+    gender: f
+  - spanish: "el método científico"
+    translation:
+      en: "scientific method"
+      ko: "과학적 방법"
+    gender: m
+  - spanish: "el paradigma"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: m
+  - spanish: "la ley científica"
+    translation:
+      en: "scientific law"
+      ko: "과학 법칙"
+    gender: f
+  - spanish: "el fenómeno"
+    translation:
+      en: "phenomenon"
+      ko: "현상"
+    gender: m
+  - spanish: "la correlación"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: f
+  - spanish: "la causalidad"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+  - spanish: "el sesgo"
+    translation:
+      en: "bias"
+      ko: "편향"
+    gender: m
+  - spanish: "la reproducibilidad"
+    translation:
+      en: "reproducibility"
+      ko: "재현성"
+    gender: f
+  - spanish: "la revisión por pares"
+    translation:
+      en: "peer review"
+      ko: "동료 심사"
+    gender: f
+  - spanish: "el ensayo clínico"
+    translation:
+      en: "clinical trial"
+      ko: "임상 시험"
+    gender: m
+  - spanish: "formular una hipótesis"
+    translation:
+      en: "to formulate a hypothesis"
+      ko: "가설을 세우다"
+    gender: null
+  - spanish: "verificar"
+    translation:
+      en: "to verify"
+      ko: "검증하다"
+    gender: null
+  - spanish: "refutar"
+    translation:
+      en: "to refute"
+      ko: "반박하다"
+    gender: null
+  - spanish: "demostrar"
+    translation:
+      en: "to demonstrate / to prove"
+      ko: "증명하다"
+    gender: null
+  - spanish: "recopilar datos"
+    translation:
+      en: "to collect data"
+      ko: "자료를 수집하다"
+    gender: null
+  - spanish: "la metodología"
+    translation:
+      en: "methodology"
+      ko: "방법론"
+    gender: f
+  - spanish: "el análisis cuantitativo"
+    translation:
+      en: "quantitative analysis"
+      ko: "정량 분석"
+    gender: m
+  - spanish: "el análisis cualitativo"
+    translation:
+      en: "qualitative analysis"
+      ko: "정성 분석"
+    gender: m
+  - spanish: "la estadística"
+    translation:
+      en: "statistics"
+      ko: "통계"
+    gender: f
+  - spanish: "el margen de error"
+    translation:
+      en: "margin of error"
+      ko: "오차 범위"
+    gender: m
+  - spanish: "la precisión"
+    translation:
+      en: "precision / accuracy"
+      ko: "정밀도 / 정확도"
+    gender: f
+  - spanish: "la fiabilidad"
+    translation:
+      en: "reliability"
+      ko: "신뢰성"
+    gender: f
+  - spanish: "la validez"
+    translation:
+      en: "validity"
+      ko: "타당성"
+    gender: f
+  - spanish: "el hallazgo"
+    translation:
+      en: "finding / discovery"
+      ko: "발견"
+    gender: m
+  - spanish: "el descubrimiento"
+    translation:
+      en: "discovery"
+      ko: "발견 / 발명"
+    gender: m
+  - spanish: "el avance científico"
+    translation:
+      en: "scientific breakthrough"
+      ko: "과학적 돌파구"
+    gender: m
+- id: biology_basics
+  label:
+    en: "Biology Basics"
+    ko: "생물학 기초"
+  type: vocabulary
+  words:
+  - spanish: "la célula"
+    translation:
+      en: "cell"
+      ko: "세포"
+    gender: f
+  - spanish: "el ADN"
+    translation:
+      en: "DNA"
+      ko: "DNA"
+    gender: m
+    notes:
+      en: "Ácido desoxirribonucleico"
+      ko: "디옥시리보핵산"
+  - spanish: "el gen"
+    translation:
+      en: "gene"
+      ko: "유전자"
+    gender: m
+  - spanish: "la genética"
+    translation:
+      en: "genetics"
+      ko: "유전학"
+    gender: f
+  - spanish: "el cromosoma"
+    translation:
+      en: "chromosome"
+      ko: "염색체"
+    gender: m
+  - spanish: "la mutación"
+    translation:
+      en: "mutation"
+      ko: "돌연변이"
+    gender: f
+  - spanish: "la evolución"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: f
+  - spanish: "la selección natural"
+    translation:
+      en: "natural selection"
+      ko: "자연 선택"
+    gender: f
+  - spanish: "el organismo"
+    translation:
+      en: "organism"
+      ko: "유기체"
+    gender: m
+  - spanish: "el microorganismo"
+    translation:
+      en: "microorganism"
+      ko: "미생물"
+    gender: m
+  - spanish: "la bacteria"
+    translation:
+      en: "bacterium"
+      ko: "세균"
+    gender: f
+  - spanish: "el virus"
+    translation:
+      en: "virus"
+      ko: "바이러스"
+    gender: m
+  - spanish: "la proteína"
+    translation:
+      en: "protein"
+      ko: "단백질"
+    gender: f
+  - spanish: "la enzima"
+    translation:
+      en: "enzyme"
+      ko: "효소"
+    gender: f
+  - spanish: "el metabolismo"
+    translation:
+      en: "metabolism"
+      ko: "대사 / 신진대사"
+    gender: m
+  - spanish: "la fotosíntesis"
+    translation:
+      en: "photosynthesis"
+      ko: "광합성"
+    gender: f
+  - spanish: "el ecosistema"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: m
+  - spanish: "la biodiversidad"
+    translation:
+      en: "biodiversity"
+      ko: "생물 다양성"
+    gender: f
+  - spanish: "la especie"
+    translation:
+      en: "species"
+      ko: "종"
+    gender: f
+  - spanish: "el tejido"
+    translation:
+      en: "tissue"
+      ko: "조직"
+    gender: m
+    notes:
+      en: "Also means 'fabric'"
+      ko: "'직물'이라는 뜻도 있음"
+  - spanish: "el órgano"
+    translation:
+      en: "organ"
+      ko: "장기 / 기관"
+    gender: m
+  - spanish: "la mitosis"
+    translation:
+      en: "mitosis"
+      ko: "유사분열"
+    gender: f
+  - spanish: "la meiosis"
+    translation:
+      en: "meiosis"
+      ko: "감수분열"
+    gender: f
+  - spanish: "la herencia genética"
+    translation:
+      en: "genetic inheritance"
+      ko: "유전"
+    gender: f
+  - spanish: "el hábitat"
+    translation:
+      en: "habitat"
+      ko: "서식지"
+    gender: m
+  - spanish: "la cadena alimentaria"
+    translation:
+      en: "food chain"
+      ko: "먹이 사슬"
+    gender: f
+  - spanish: "la simbiosis"
+    translation:
+      en: "symbiosis"
+      ko: "공생"
+    gender: f
+  - spanish: "el parásito"
+    translation:
+      en: "parasite"
+      ko: "기생충"
+    gender: m
+  - spanish: "la taxonomía"
+    translation:
+      en: "taxonomy"
+      ko: "분류학"
+    gender: f
+  - spanish: "la biología molecular"
+    translation:
+      en: "molecular biology"
+      ko: "분자 생물학"
+    gender: f
+  - spanish: "la biotecnología"
+    translation:
+      en: "biotechnology"
+      ko: "생명공학"
+    gender: f
+  - spanish: "el genoma"
+    translation:
+      en: "genome"
+      ko: "게놈"
+    gender: m
+  - spanish: "clonar"
+    translation:
+      en: "to clone"
+      ko: "복제하다"
+    gender: null
+- id: chemistry_basics
+  label:
+    en: "Chemistry Basics"
+    ko: "화학 기초"
+  type: vocabulary
+  words:
+  - spanish: "el átomo"
+    translation:
+      en: "atom"
+      ko: "원자"
+    gender: m
+  - spanish: "la molécula"
+    translation:
+      en: "molecule"
+      ko: "분자"
+    gender: f
+  - spanish: "el elemento"
+    translation:
+      en: "element"
+      ko: "원소"
+    gender: m
+  - spanish: "la tabla periódica"
+    translation:
+      en: "periodic table"
+      ko: "주기율표"
+    gender: f
+  - spanish: "el compuesto"
+    translation:
+      en: "compound"
+      ko: "화합물"
+    gender: m
+  - spanish: "la reacción química"
+    translation:
+      en: "chemical reaction"
+      ko: "화학 반응"
+    gender: f
+  - spanish: "el ácido"
+    translation:
+      en: "acid"
+      ko: "산"
+    gender: m
+  - spanish: "la base"
+    translation:
+      en: "base (alkaline)"
+      ko: "염기"
+    gender: f
+  - spanish: "el enlace químico"
+    translation:
+      en: "chemical bond"
+      ko: "화학 결합"
+    gender: m
+  - spanish: "el ion"
+    translation:
+      en: "ion"
+      ko: "이온"
+    gender: m
+  - spanish: "el electrón"
+    translation:
+      en: "electron"
+      ko: "전자"
+    gender: m
+  - spanish: "el protón"
+    translation:
+      en: "proton"
+      ko: "양성자"
+    gender: m
+  - spanish: "el neutrón"
+    translation:
+      en: "neutron"
+      ko: "중성자"
+    gender: m
+  - spanish: "la disolución"
+    translation:
+      en: "solution (chemistry)"
+      ko: "용액"
+    gender: f
+  - spanish: "el disolvente"
+    translation:
+      en: "solvent"
+      ko: "용매"
+    gender: m
+  - spanish: "el soluto"
+    translation:
+      en: "solute"
+      ko: "용질"
+    gender: m
+  - spanish: "la concentración"
+    translation:
+      en: "concentration"
+      ko: "농도"
+    gender: f
+  - spanish: "el catalizador"
+    translation:
+      en: "catalyst"
+      ko: "촉매"
+    gender: m
+  - spanish: "la oxidación"
+    translation:
+      en: "oxidation"
+      ko: "산화"
+    gender: f
+  - spanish: "la reducción"
+    translation:
+      en: "reduction"
+      ko: "환원"
+    gender: f
+  - spanish: "el pH"
+    translation:
+      en: "pH"
+      ko: "pH (수소 이온 농도)"
+    gender: m
+  - spanish: "la química orgánica"
+    translation:
+      en: "organic chemistry"
+      ko: "유기 화학"
+    gender: f
+  - spanish: "la química inorgánica"
+    translation:
+      en: "inorganic chemistry"
+      ko: "무기 화학"
+    gender: f
+  - spanish: "el isótopo"
+    translation:
+      en: "isotope"
+      ko: "동위원소"
+    gender: m
+  - spanish: "la valencia"
+    translation:
+      en: "valence"
+      ko: "원자가"
+    gender: f
+  - spanish: "sintetizar"
+    translation:
+      en: "to synthesize"
+      ko: "합성하다"
+    gender: null
+  - spanish: "destilar"
+    translation:
+      en: "to distill"
+      ko: "증류하다"
+    gender: null
+  - spanish: "la evaporación"
+    translation:
+      en: "evaporation"
+      ko: "증발"
+    gender: f
+  - spanish: "la condensación"
+    translation:
+      en: "condensation"
+      ko: "응축"
+    gender: f
+  - spanish: "el estado de la materia"
+    translation:
+      en: "state of matter"
+      ko: "물질의 상태"
+    gender: m
+  - spanish: "la fórmula química"
+    translation:
+      en: "chemical formula"
+      ko: "화학식"
+    gender: f
+  - spanish: "el laboratorio"
+    translation:
+      en: "laboratory"
+      ko: "실험실"
+    gender: m
+  - spanish: "el matraz"
+    translation:
+      en: "flask (laboratory)"
+      ko: "플라스크"
+    gender: m
+  - spanish: "la probeta"
+    translation:
+      en: "graduated cylinder"
+      ko: "눈금 실린더"
+    gender: f
+  - spanish: "el tubo de ensayo"
+    translation:
+      en: "test tube"
+      ko: "시험관"
+    gender: m
+- id: physics_basics
+  label:
+    en: "Physics Basics"
+    ko: "물리학 기초"
+  type: vocabulary
+  words:
+  - spanish: "la fuerza"
+    translation:
+      en: "force"
+      ko: "힘"
+    gender: f
+  - spanish: "la energía"
+    translation:
+      en: "energy"
+      ko: "에너지"
+    gender: f
+  - spanish: "la masa"
+    translation:
+      en: "mass"
+      ko: "질량"
+    gender: f
+  - spanish: "la velocidad"
+    translation:
+      en: "velocity / speed"
+      ko: "속도"
+    gender: f
+  - spanish: "la aceleración"
+    translation:
+      en: "acceleration"
+      ko: "가속도"
+    gender: f
+  - spanish: "la gravedad"
+    translation:
+      en: "gravity"
+      ko: "중력"
+    gender: f
+  - spanish: "la fricción"
+    translation:
+      en: "friction"
+      ko: "마찰"
+    gender: f
+  - spanish: "el movimiento"
+    translation:
+      en: "motion / movement"
+      ko: "운동"
+    gender: m
+  - spanish: "la inercia"
+    translation:
+      en: "inertia"
+      ko: "관성"
+    gender: f
+  - spanish: "la presión"
+    translation:
+      en: "pressure"
+      ko: "압력"
+    gender: f
+  - spanish: "la temperatura"
+    translation:
+      en: "temperature"
+      ko: "온도"
+    gender: f
+  - spanish: "el calor"
+    translation:
+      en: "heat"
+      ko: "열"
+    gender: m
+  - spanish: "la termodinámica"
+    translation:
+      en: "thermodynamics"
+      ko: "열역학"
+    gender: f
+  - spanish: "la onda"
+    translation:
+      en: "wave"
+      ko: "파동"
+    gender: f
+  - spanish: "la frecuencia"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: f
+  - spanish: "la longitud de onda"
+    translation:
+      en: "wavelength"
+      ko: "파장"
+    gender: f
+  - spanish: "el campo magnético"
+    translation:
+      en: "magnetic field"
+      ko: "자기장"
+    gender: m
+  - spanish: "el campo eléctrico"
+    translation:
+      en: "electric field"
+      ko: "전기장"
+    gender: m
+  - spanish: "la corriente eléctrica"
+    translation:
+      en: "electric current"
+      ko: "전류"
+    gender: f
+  - spanish: "el voltaje"
+    translation:
+      en: "voltage"
+      ko: "전압"
+    gender: m
+  - spanish: "la resistencia"
+    translation:
+      en: "resistance"
+      ko: "저항"
+    gender: f
+  - spanish: "la mecánica cuántica"
+    translation:
+      en: "quantum mechanics"
+      ko: "양자 역학"
+    gender: f
+  - spanish: "la relatividad"
+    translation:
+      en: "relativity"
+      ko: "상대성"
+    gender: f
+  - spanish: "el vacío"
+    translation:
+      en: "vacuum"
+      ko: "진공"
+    gender: m
+  - spanish: "la densidad"
+    translation:
+      en: "density"
+      ko: "밀도"
+    gender: f
+  - spanish: "el péndulo"
+    translation:
+      en: "pendulum"
+      ko: "진자"
+    gender: m
+  - spanish: "la partícula"
+    translation:
+      en: "particle"
+      ko: "입자"
+    gender: f
+  - spanish: "la óptica"
+    translation:
+      en: "optics"
+      ko: "광학"
+    gender: f
+  - spanish: "la acústica"
+    translation:
+      en: "acoustics"
+      ko: "음향학"
+    gender: f
+  - spanish: "el espectro"
+    translation:
+      en: "spectrum"
+      ko: "스펙트럼"
+    gender: m
+  - spanish: "la entropía"
+    translation:
+      en: "entropy"
+      ko: "엔트로피"
+    gender: f
+  - spanish: "el momento"
+    translation:
+      en: "momentum"
+      ko: "운동량"
+    gender: m
+    notes:
+      en: "Also means 'moment' in everyday speech"
+      ko: "일상어에서는 '순간'이라는 뜻도 있음"
+  - spanish: "la conservación de la energía"
+    translation:
+      en: "conservation of energy"
+      ko: "에너지 보존"
+    gender: f
+  - spanish: "el equilibrio"
+    translation:
+      en: "equilibrium"
+      ko: "평형"
+    gender: m
+- id: research_vocabulary
+  label:
+    en: "Research Vocabulary"
+    ko: "연구 용어"
+  type: vocabulary
+  words:
+  - spanish: "la investigación"
+    translation:
+      en: "research"
+      ko: "연구"
+    gender: f
+  - spanish: "el estudio"
+    translation:
+      en: "study"
+      ko: "연구 / 조사"
+    gender: m
+  - spanish: "la tesis doctoral"
+    translation:
+      en: "doctoral thesis"
+      ko: "박사 논문"
+    gender: f
+  - spanish: "el artículo científico"
+    translation:
+      en: "scientific article"
+      ko: "학술 논문"
+    gender: m
+  - spanish: "la publicación"
+    translation:
+      en: "publication"
+      ko: "출판물"
+    gender: f
+  - spanish: "la revista científica"
+    translation:
+      en: "scientific journal"
+      ko: "과학 저널"
+    gender: f
+  - spanish: "la cita bibliográfica"
+    translation:
+      en: "bibliographic citation"
+      ko: "서지 인용"
+    gender: f
+  - spanish: "el resumen"
+    translation:
+      en: "abstract / summary"
+      ko: "초록 / 요약"
+    gender: m
+  - spanish: "la financiación"
+    translation:
+      en: "funding"
+      ko: "자금 지원"
+    gender: f
+  - spanish: "la subvención"
+    translation:
+      en: "grant / subsidy"
+      ko: "보조금"
+    gender: f
+  - spanish: "el investigador"
+    translation:
+      en: "researcher"
+      ko: "연구자"
+    gender: m
+    notes:
+      en: "la investigadora for female"
+      ko: "여성형은 la investigadora"
+  - spanish: "el científico"
+    translation:
+      en: "scientist"
+      ko: "과학자"
+    gender: m
+    notes:
+      en: "la científica for female"
+      ko: "여성형은 la científica"
+  - spanish: "el laboratorio de investigación"
+    translation:
+      en: "research laboratory"
+      ko: "연구 실험실"
+    gender: m
+  - spanish: "la patente"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: f
+  - spanish: "el congreso científico"
+    translation:
+      en: "scientific congress"
+      ko: "과학 학술 대회"
+    gender: m
+  - spanish: "la ponencia"
+    translation:
+      en: "conference paper / presentation"
+      ko: "학술 발표"
+    gender: f
+  - spanish: "el póster científico"
+    translation:
+      en: "scientific poster"
+      ko: "과학 포스터"
+    gender: m
+  - spanish: "la divulgación científica"
+    translation:
+      en: "science communication"
+      ko: "과학 대중화"
+    gender: f
+  - spanish: "el plagio"
+    translation:
+      en: "plagiarism"
+      ko: "표절"
+    gender: m
+  - spanish: "la ética científica"
+    translation:
+      en: "scientific ethics"
+      ko: "과학 윤리"
+    gender: f
+  - spanish: "el premio Nobel"
+    translation:
+      en: "Nobel Prize"
+      ko: "노벨상"
+    gender: m
+  - spanish: "la beca de investigación"
+    translation:
+      en: "research grant"
+      ko: "연구 장학금"
+    gender: f
+  - spanish: "publicar"
+    translation:
+      en: "to publish"
+      ko: "출판하다"
+    gender: null
+  - spanish: "citar"
+    translation:
+      en: "to cite"
+      ko: "인용하다"
+    gender: null
+  - spanish: "experimentar"
+    translation:
+      en: "to experiment"
+      ko: "실험하다"
+    gender: null
+  - spanish: "comprobar"
+    translation:
+      en: "to verify / to check"
+      ko: "확인하다 / 검증하다"
+    gender: null
+  - spanish: "analizar"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+    gender: null
+  - spanish: "sintetizar"
+    translation:
+      en: "to synthesize / to summarize"
+      ko: "종합하다 / 합성하다"
+    gender: null
+  - spanish: "la innovación"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: f
+  - spanish: "el ensayo"
+    translation:
+      en: "essay / trial"
+      ko: "에세이 / 시험"
+    gender: m
+  - spanish: "el marco teórico"
+    translation:
+      en: "theoretical framework"
+      ko: "이론적 틀"
+    gender: m
+  - spanish: "la hipótesis nula"
+    translation:
+      en: "null hypothesis"
+      ko: "귀무 가설"
+    gender: f
+  - spanish: "el estado del arte"
+    translation:
+      en: "state of the art / literature review"
+      ko: "연구 현황"
+    gender: m
+  - spanish: "el factor de impacto"
+    translation:
+      en: "impact factor"
+      ko: "영향력 지수"
+    gender: m
+  - spanish: "la muestra representativa"
+    translation:
+      en: "representative sample"
+      ko: "대표 표본"
+    gender: f
+  - spanish: "el protocolo"
+    translation:
+      en: "protocol"
+      ko: "프로토콜 / 절차"
+    gender: m
+  - spanish: "la replicación"
+    translation:
+      en: "replication"
+      ko: "재현 / 복제"
+    gender: f
+  - spanish: "el índice"
+    translation:
+      en: "index"
+      ko: "색인 / 지수"
+    gender: m

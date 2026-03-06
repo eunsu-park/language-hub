@@ -1,0 +1,1432 @@
+lesson: "sup_A2_Travel_and_Transportation"
+lesson_number: 121
+cefr: A2
+type: supplementary
+topic: "Travel and Transportation"
+categories:
+- id: flughafen_und_reise
+  label:
+    en: "Airport and Travel (Flughafen/Reise)"
+    ko: "공항과 여행 (Flughafen/Reise)"
+  type: vocabulary
+  words:
+  - german: "der Flughafen, Flughäfen"
+    translation:
+      en: "airport"
+      ko: "공항"
+    gender: m
+    notes:
+      en: "Compound: Flug (flight) + Hafen (port)"
+      ko: "합성어: Flug (비행) + Hafen (항구)"
+  - german: "das Flugzeug, -e"
+    translation:
+      en: "airplane"
+      ko: "비행기"
+    gender: n
+    notes:
+      en: "Compound: Flug (flight) + Zeug (thing/stuff)"
+      ko: "합성어: Flug (비행) + Zeug (물건)"
+  - german: "der Flug, Flüge"
+    translation:
+      en: "flight"
+      ko: "항공편"
+    gender: m
+    notes:
+      en: "der Hin- und Rückflug = round-trip flight"
+      ko: "der Hin- und Rückflug = 왕복 항공편"
+  - german: "die Bordkarte, -n"
+    translation:
+      en: "boarding pass"
+      ko: "탑승권"
+    gender: f
+    notes:
+      en: "Must be shown before boarding the plane"
+      ko: "비행기 탑승 전에 제시해야 함"
+  - german: "der Reisepass, Reisepässe"
+    translation:
+      en: "passport"
+      ko: "여권"
+    gender: m
+    notes:
+      en: "Required for international travel"
+      ko: "해외여행 시 필수"
+  - german: "das Visum, Visa"
+    translation:
+      en: "visa"
+      ko: "비자"
+    gender: n
+    notes:
+      en: "Plural is Latin: Visa"
+      ko: "복수형은 라틴어식: Visa"
+  - german: "der Koffer, -"
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: m
+    notes:
+      en: "den Koffer packen = to pack the suitcase"
+      ko: "den Koffer packen = 가방을 싸다"
+  - german: "das Gepäck"
+    translation:
+      en: "luggage / baggage"
+      ko: "짐 / 수하물"
+    gender: n
+    notes:
+      en: "No plural form; das Handgepäck = carry-on"
+      ko: "복수형 없음; das Handgepäck = 기내 수하물"
+  - german: "die Passkontrolle, -n"
+    translation:
+      en: "passport control"
+      ko: "출입국 심사"
+    gender: f
+    notes:
+      en: "Also called 'die Grenzkontrolle' at borders"
+      ko: "국경에서는 'die Grenzkontrolle'라고도 함"
+  - german: "der Zoll, Zölle"
+    translation:
+      en: "customs"
+      ko: "세관"
+    gender: m
+    notes:
+      en: "zollfrei = duty-free"
+      ko: "zollfrei = 면세"
+  - german: "die Abfahrt, -en"
+    translation:
+      en: "departure"
+      ko: "출발"
+    gender: f
+    notes:
+      en: "Used for trains and buses; die Abflughalle for flights"
+      ko: "기차와 버스에 사용; 비행기는 die Abflughalle"
+  - german: "die Ankunft, Ankünfte"
+    translation:
+      en: "arrival"
+      ko: "도착"
+    gender: f
+    notes:
+      en: "die Ankunftszeit = arrival time"
+      ko: "die Ankunftszeit = 도착 시간"
+  - german: "die Verspätung, -en"
+    translation:
+      en: "delay"
+      ko: "지연 / 연착"
+    gender: f
+    notes:
+      en: "Der Zug hat Verspätung = The train is delayed"
+      ko: "Der Zug hat Verspätung = 기차가 연착이다"
+  - german: "die Reise, -n"
+    translation:
+      en: "trip / journey"
+      ko: "여행"
+    gender: f
+    notes:
+      en: "Gute Reise! = Have a good trip!"
+      ko: "Gute Reise! = 좋은 여행 되세요!"
+  - german: "der Rucksack, Rucksäcke"
+    translation:
+      en: "backpack"
+      ko: "배낭"
+    gender: m
+    notes:
+      en: "Compound: Rücken (back) + Sack (bag)"
+      ko: "합성어: Rücken (등) + Sack (자루)"
+  - german: "buchen"
+    translation:
+      en: "to book / to reserve"
+      ko: "예약하다"
+    gender: null
+    notes:
+      en: "einen Flug buchen = to book a flight"
+      ko: "einen Flug buchen = 항공편을 예약하다"
+  - german: "umsteigen"
+    translation:
+      en: "to transfer / to change (transport)"
+      ko: "환승하다"
+    gender: null
+    notes:
+      en: "Separable verb: Ich steige in München um"
+      ko: "분리 동사: Ich steige in München um"
+  - german: "landen"
+    translation:
+      en: "to land"
+      ko: "착륙하다"
+    gender: null
+    notes:
+      en: "die Landung = the landing"
+      ko: "die Landung = 착륙"
+  - german: "abfliegen"
+    translation:
+      en: "to depart (by plane)"
+      ko: "이륙하다 / 출발하다"
+    gender: null
+    notes:
+      en: "Separable: Das Flugzeug fliegt um 10 Uhr ab"
+      ko: "분리 동사: Das Flugzeug fliegt um 10 Uhr ab"
+  - german: "das Gate, -s"
+    translation:
+      en: "gate (at airport)"
+      ko: "탑승구"
+    gender: n
+    notes:
+      en: "English loanword commonly used in German airports"
+      ko: "독일 공항에서 흔히 사용되는 영어 차용어"
+  - german: "die Sicherheitskontrolle, -n"
+    translation:
+      en: "security check"
+      ko: "보안 검색"
+    gender: f
+    notes:
+      en: "Mandatory before entering the departure area"
+      ko: "출발 구역 진입 전 필수"
+  - german: "der Fensterplatz, -plätze"
+    translation:
+      en: "window seat"
+      ko: "창가 좌석"
+    gender: m
+    notes:
+      en: "der Gangplatz = aisle seat"
+      ko: "der Gangplatz = 통로 좌석"
+  - german: "einchecken"
+    translation:
+      en: "to check in"
+      ko: "체크인하다"
+    gender: null
+    notes:
+      en: "der Online-Check-in = online check-in"
+      ko: "der Online-Check-in = 온라인 체크인"
+  - german: "die Wartehalle, -n"
+    translation:
+      en: "departure lounge / waiting hall"
+      ko: "대합실"
+    gender: f
+    notes:
+      en: "in der Wartehalle sitzen = to sit in the lounge"
+      ko: "in der Wartehalle sitzen = 대합실에 앉아 있다"
+  - german: "das Gepäckband, -bänder"
+    translation:
+      en: "baggage carousel"
+      ko: "수하물 컨베이어"
+    gender: n
+    notes:
+      en: "am Gepäckband warten = to wait at the carousel"
+      ko: "am Gepäckband warten = 수하물 컨베이어에서 기다리다"
+  - german: "der Transitbereich, -e"
+    translation:
+      en: "transit area"
+      ko: "환승 구역"
+    gender: m
+    notes:
+      en: "im Transitbereich bleiben = to stay in the transit area"
+      ko: "im Transitbereich bleiben = 환승 구역에 머무르다"
+  - german: "der Direktflug, -flüge"
+    translation:
+      en: "direct flight"
+      ko: "직항편"
+    gender: m
+    notes:
+      en: "Es gibt einen Direktflug = There is a direct flight"
+      ko: "Es gibt einen Direktflug = 직항편이 있다"
+  - german: "die Turbulenz, -en"
+    translation:
+      en: "turbulence"
+      ko: "난기류"
+    gender: f
+    notes:
+      en: "Bitte anschnallen bei Turbulenzen"
+      ko: "난기류 시 안전벨트를 매주세요"
+  - german: "der Gurt, -e"
+    translation:
+      en: "seatbelt"
+      ko: "안전벨트"
+    gender: m
+    notes:
+      en: "den Gurt anlegen = to fasten the seatbelt"
+      ko: "den Gurt anlegen = 안전벨트를 매다"
+  - german: "die Notlandung, -en"
+    translation:
+      en: "emergency landing"
+      ko: "비상 착륙"
+    gender: f
+    notes:
+      en: "eine Notlandung machen = to make an emergency landing"
+      ko: "eine Notlandung machen = 비상 착륙을 하다"
+  - german: "der Zwischenstopp, -s"
+    translation:
+      en: "stopover / layover"
+      ko: "경유"
+    gender: m
+    notes:
+      en: "mit Zwischenstopp in Frankfurt = with a layover in Frankfurt"
+      ko: "mit Zwischenstopp in Frankfurt = 프랑크푸르트 경유"
+
+- id: fahrzeuge
+  label:
+    en: "Vehicles (Fahrzeuge)"
+    ko: "교통수단 (Fahrzeuge)"
+  type: vocabulary
+  words:
+  - german: "der Zug, Züge"
+    translation:
+      en: "train"
+      ko: "기차"
+    gender: m
+    notes:
+      en: "mit dem Zug fahren = to go by train"
+      ko: "mit dem Zug fahren = 기차로 가다"
+  - german: "die Straßenbahn, -en"
+    translation:
+      en: "tram / streetcar"
+      ko: "트램 / 노면전차"
+    gender: f
+    notes:
+      en: "Common in many German cities"
+      ko: "많은 독일 도시에서 흔히 볼 수 있음"
+  - german: "die U-Bahn, -en"
+    translation:
+      en: "subway / underground"
+      ko: "지하철"
+    gender: f
+    notes:
+      en: "U = Untergrund (underground)"
+      ko: "U = Untergrund (지하)"
+  - german: "die S-Bahn, -en"
+    translation:
+      en: "suburban train / commuter rail"
+      ko: "광역 전철"
+    gender: f
+    notes:
+      en: "S = Schnellbahn (fast train)"
+      ko: "S = Schnellbahn (고속 열차)"
+  - german: "der Bus, -se"
+    translation:
+      en: "bus"
+      ko: "버스"
+    gender: m
+    notes:
+      en: "der Fernbus = long-distance bus"
+      ko: "der Fernbus = 장거리 버스"
+  - german: "das Taxi, -s"
+    translation:
+      en: "taxi / cab"
+      ko: "택시"
+    gender: n
+    notes:
+      en: "ein Taxi rufen = to call a taxi"
+      ko: "ein Taxi rufen = 택시를 부르다"
+  - german: "das Fahrrad, Fahrräder"
+    translation:
+      en: "bicycle"
+      ko: "자전거"
+    gender: n
+    notes:
+      en: "Rad fahren = to cycle; very popular in Germany"
+      ko: "Rad fahren = 자전거를 타다; 독일에서 매우 인기"
+  - german: "das Motorrad, Motorräder"
+    translation:
+      en: "motorcycle"
+      ko: "오토바이"
+    gender: n
+    notes:
+      en: "der Motorradhelm = motorcycle helmet"
+      ko: "der Motorradhelm = 오토바이 헬멧"
+  - german: "das Schiff, -e"
+    translation:
+      en: "ship"
+      ko: "배 / 선박"
+    gender: n
+    notes:
+      en: "die Fähre = ferry"
+      ko: "die Fähre = 페리"
+  - german: "der Roller, -"
+    translation:
+      en: "scooter"
+      ko: "스쿠터"
+    gender: m
+    notes:
+      en: "Also der E-Roller = electric scooter"
+      ko: "der E-Roller = 전동 킥보드"
+  - german: "der LKW, -s"
+    translation:
+      en: "truck"
+      ko: "트럭"
+    gender: m
+    notes:
+      en: "Abbreviation for Lastkraftwagen"
+      ko: "Lastkraftwagen의 약자"
+  - german: "das Wohnmobil, -e"
+    translation:
+      en: "camper van / RV"
+      ko: "캠핑카"
+    gender: n
+    notes:
+      en: "Popular for vacation travel in Germany"
+      ko: "독일에서 휴가 여행에 인기 있음"
+  - german: "der Führerschein, -e"
+    translation:
+      en: "driver's license"
+      ko: "운전면허증"
+    gender: m
+    notes:
+      en: "den Führerschein machen = to get one's license"
+      ko: "den Führerschein machen = 면허를 따다"
+  - german: "tanken"
+    translation:
+      en: "to refuel"
+      ko: "주유하다"
+    gender: null
+    notes:
+      en: "die Tankstelle = gas station"
+      ko: "die Tankstelle = 주유소"
+  - german: "die Haltestelle, -n"
+    translation:
+      en: "stop (bus/tram)"
+      ko: "정류장"
+    gender: f
+    notes:
+      en: "die Bushaltestelle = bus stop"
+      ko: "die Bushaltestelle = 버스 정류장"
+  - german: "der Bahnhof, Bahnhöfe"
+    translation:
+      en: "train station"
+      ko: "기차역"
+    gender: m
+    notes:
+      en: "der Hauptbahnhof (Hbf) = central station"
+      ko: "der Hauptbahnhof (Hbf) = 중앙역"
+  - german: "das Auto, -s"
+    translation:
+      en: "car"
+      ko: "자동차"
+    gender: n
+    notes:
+      en: "mit dem Auto fahren = to go by car"
+      ko: "mit dem Auto fahren = 자동차로 가다"
+  - german: "der PKW, -s"
+    translation:
+      en: "passenger car"
+      ko: "승용차"
+    gender: m
+    notes:
+      en: "Abbreviation for Personenkraftwagen"
+      ko: "Personenkraftwagen의 약자"
+  - german: "der Kleinbus, -se"
+    translation:
+      en: "minibus / van"
+      ko: "미니버스 / 밴"
+    gender: m
+    notes:
+      en: "Popular for group travel"
+      ko: "단체 여행에 인기"
+  - german: "der Transporter, -"
+    translation:
+      en: "van / transporter"
+      ko: "밴 / 운반차"
+    gender: m
+    notes:
+      en: "einen Transporter mieten = to rent a van"
+      ko: "einen Transporter mieten = 밴을 빌리다"
+  - german: "der Elektroroller, -"
+    translation:
+      en: "electric scooter"
+      ko: "전동 킥보드"
+    gender: m
+    notes:
+      en: "Very popular in German cities since 2019"
+      ko: "2019년부터 독일 도시에서 매우 인기"
+  - german: "die Seilbahn, -en"
+    translation:
+      en: "cable car"
+      ko: "케이블카"
+    gender: f
+    notes:
+      en: "Common in mountain areas of DACH countries"
+      ko: "DACH 지역의 산악 지대에서 흔함"
+  - german: "der Hubschrauber, -"
+    translation:
+      en: "helicopter"
+      ko: "헬리콥터"
+    gender: m
+    notes:
+      en: "der Rettungshubschrauber = rescue helicopter"
+      ko: "der Rettungshubschrauber = 구조 헬리콥터"
+  - german: "der Reisebus, -se"
+    translation:
+      en: "coach / tour bus"
+      ko: "관광버스"
+    gender: m
+    notes:
+      en: "mit dem Reisebus fahren = to go by coach"
+      ko: "mit dem Reisebus fahren = 관광버스로 가다"
+  - german: "das Tretboot, -e"
+    translation:
+      en: "pedal boat"
+      ko: "페달 보트"
+    gender: n
+    notes:
+      en: "Tretboot fahren = to ride a pedal boat"
+      ko: "Tretboot fahren = 페달 보트를 타다"
+  - german: "der Blinker, -"
+    translation:
+      en: "turn signal / indicator"
+      ko: "방향 지시등"
+    gender: m
+    notes:
+      en: "den Blinker setzen = to signal/indicate"
+      ko: "den Blinker setzen = 방향 지시등을 켜다"
+  - german: "die Bremse, -n"
+    translation:
+      en: "brake"
+      ko: "브레이크"
+    gender: f
+    notes:
+      en: "bremsen = to brake"
+      ko: "bremsen = 브레이크를 밟다"
+  - german: "das Lenkrad, -räder"
+    translation:
+      en: "steering wheel"
+      ko: "핸들 / 운전대"
+    gender: n
+    notes:
+      en: "am Lenkrad sitzen = to be behind the wheel"
+      ko: "am Lenkrad sitzen = 운전석에 앉다"
+  - german: "der Kofferraum, -räume"
+    translation:
+      en: "trunk (of car)"
+      ko: "트렁크"
+    gender: m
+    notes:
+      en: "den Kofferraum öffnen = to open the trunk"
+      ko: "den Kofferraum öffnen = 트렁크를 열다"
+  - german: "die Windschutzscheibe, -n"
+    translation:
+      en: "windshield"
+      ko: "앞 유리"
+    gender: f
+    notes:
+      en: "der Scheibenwischer = windshield wiper"
+      ko: "der Scheibenwischer = 와이퍼"
+  - german: "überholen"
+    translation:
+      en: "to overtake / to pass"
+      ko: "추월하다"
+    gender: null
+    notes:
+      en: "Überholverbot = no overtaking"
+      ko: "Überholverbot = 추월 금지"
+  - german: "der Strafzettel, -"
+    translation:
+      en: "parking ticket / fine"
+      ko: "주차 위반 딱지 / 벌금"
+    gender: m
+    notes:
+      en: "einen Strafzettel bekommen = to get a ticket"
+      ko: "einen Strafzettel bekommen = 딱지를 받다"
+  - german: "die Werkstatt, Werkstätten"
+    translation:
+      en: "repair shop / garage"
+      ko: "정비소"
+    gender: f
+    notes:
+      en: "die Autowerkstatt = auto repair shop"
+      ko: "die Autowerkstatt = 자동차 정비소"
+  - german: "der Reifen, -"
+    translation:
+      en: "tire"
+      ko: "타이어"
+    gender: m
+    notes:
+      en: "der Winterreifen = winter tire; der Plattfuß = flat tire"
+      ko: "der Winterreifen = 겨울 타이어; der Plattfuß = 펑크"
+  - german: "der Spiegel, -"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+    notes:
+      en: "der Rückspiegel = rearview mirror"
+      ko: "der Rückspiegel = 백미러"
+
+- id: richtungen
+  label:
+    en: "Directions (Richtungen)"
+    ko: "방향 (Richtungen)"
+  type: vocabulary
+  words:
+  - german: "links"
+    translation:
+      en: "left"
+      ko: "왼쪽"
+    gender: null
+    notes:
+      en: "nach links = to the left"
+      ko: "nach links = 왼쪽으로"
+  - german: "rechts"
+    translation:
+      en: "right"
+      ko: "오른쪽"
+    gender: null
+    notes:
+      en: "nach rechts = to the right"
+      ko: "nach rechts = 오른쪽으로"
+  - german: "geradeaus"
+    translation:
+      en: "straight ahead"
+      ko: "직진"
+    gender: null
+    notes:
+      en: "Gehen Sie geradeaus = Go straight ahead"
+      ko: "Gehen Sie geradeaus = 직진하세요"
+  - german: "die Kreuzung, -en"
+    translation:
+      en: "intersection / crossroads"
+      ko: "교차로"
+    gender: f
+    notes:
+      en: "an der Kreuzung = at the intersection"
+      ko: "an der Kreuzung = 교차로에서"
+  - german: "die Ampel, -n"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: f
+    notes:
+      en: "bei der Ampel = at the traffic light"
+      ko: "bei der Ampel = 신호등에서"
+  - german: "die Ecke, -n"
+    translation:
+      en: "corner"
+      ko: "모퉁이"
+    gender: f
+    notes:
+      en: "um die Ecke = around the corner"
+      ko: "um die Ecke = 모퉁이를 돌면"
+  - german: "gegenüber"
+    translation:
+      en: "opposite / across from"
+      ko: "맞은편에"
+    gender: null
+    notes:
+      en: "gegenüber dem Bahnhof = across from the station"
+      ko: "gegenüber dem Bahnhof = 역 맞은편에"
+  - german: "neben"
+    translation:
+      en: "next to / beside"
+      ko: "옆에"
+    gender: null
+    notes:
+      en: "Two-way preposition (dative/accusative)"
+      ko: "양방향 전치사 (3격/4격)"
+  - german: "zwischen"
+    translation:
+      en: "between"
+      ko: "사이에"
+    gender: null
+    notes:
+      en: "Two-way preposition (dative/accusative)"
+      ko: "양방향 전치사 (3격/4격)"
+  - german: "der Norden"
+    translation:
+      en: "north"
+      ko: "북쪽"
+    gender: m
+    notes:
+      en: "im Norden = in the north"
+      ko: "im Norden = 북쪽에"
+  - german: "der Süden"
+    translation:
+      en: "south"
+      ko: "남쪽"
+    gender: m
+    notes:
+      en: "im Süden = in the south"
+      ko: "im Süden = 남쪽에"
+  - german: "der Osten"
+    translation:
+      en: "east"
+      ko: "동쪽"
+    gender: m
+    notes:
+      en: "im Osten = in the east"
+      ko: "im Osten = 동쪽에"
+  - german: "der Westen"
+    translation:
+      en: "west"
+      ko: "서쪽"
+    gender: m
+    notes:
+      en: "im Westen = in the west"
+      ko: "im Westen = 서쪽에"
+  - german: "abbiegen"
+    translation:
+      en: "to turn"
+      ko: "돌다 / 방향을 틀다"
+    gender: null
+    notes:
+      en: "Separable: Biegen Sie links ab = Turn left"
+      ko: "분리 동사: Biegen Sie links ab = 왼쪽으로 도세요"
+  - german: "überqueren"
+    translation:
+      en: "to cross (a street)"
+      ko: "건너다"
+    gender: null
+    notes:
+      en: "die Straße überqueren = to cross the street"
+      ko: "die Straße überqueren = 길을 건너다"
+  - german: "der Zebrastreifen, -"
+    translation:
+      en: "crosswalk / zebra crossing"
+      ko: "횡단보도"
+    gender: m
+    notes:
+      en: "Pedestrians have priority at crosswalks in Germany"
+      ko: "독일에서 횡단보도에서는 보행자 우선"
+  - german: "hier"
+    translation:
+      en: "here"
+      ko: "여기"
+    gender: null
+    notes:
+      en: "hier entlang = this way"
+      ko: "hier entlang = 이쪽으로"
+  - german: "dort"
+    translation:
+      en: "there"
+      ko: "거기"
+    gender: null
+    notes:
+      en: "dort drüben = over there"
+      ko: "dort drüben = 저쪽에"
+  - german: "hinten"
+    translation:
+      en: "at the back / behind"
+      ko: "뒤에"
+    gender: null
+    notes:
+      en: "ganz hinten = at the very back"
+      ko: "ganz hinten = 맨 뒤에"
+  - german: "vorne"
+    translation:
+      en: "at the front"
+      ko: "앞에"
+    gender: null
+    notes:
+      en: "ganz vorne = at the very front"
+      ko: "ganz vorne = 맨 앞에"
+  - german: "oben"
+    translation:
+      en: "above / upstairs"
+      ko: "위에 / 위층에"
+    gender: null
+    notes:
+      en: "nach oben gehen = to go upstairs"
+      ko: "nach oben gehen = 위층으로 가다"
+  - german: "unten"
+    translation:
+      en: "below / downstairs"
+      ko: "아래에 / 아래층에"
+    gender: null
+    notes:
+      en: "nach unten gehen = to go downstairs"
+      ko: "nach unten gehen = 아래층으로 가다"
+  - german: "die Kurve, -n"
+    translation:
+      en: "curve / bend"
+      ko: "커브 / 곡선"
+    gender: f
+    notes:
+      en: "eine scharfe Kurve = a sharp curve"
+      ko: "eine scharfe Kurve = 급커브"
+  - german: "die Abkürzung, -en"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: f
+    notes:
+      en: "eine Abkürzung nehmen = to take a shortcut"
+      ko: "eine Abkürzung nehmen = 지름길로 가다"
+  - german: "der Fußgänger, -"
+    translation:
+      en: "pedestrian"
+      ko: "보행자"
+    gender: m
+    notes:
+      en: "die Fußgängerin = female pedestrian"
+      ko: "die Fußgängerin = 여성 보행자"
+  - german: "der Verkehrsschild, -er"
+    translation:
+      en: "traffic sign"
+      ko: "교통 표지판"
+    gender: n
+    notes:
+      en: "das Stoppschild = stop sign"
+      ko: "das Stoppschild = 정지 표지판"
+  - german: "die Autobahn, -en"
+    translation:
+      en: "highway / motorway"
+      ko: "아우토반"
+    gender: f
+    notes:
+      en: "die Autobahnauffahrt = highway on-ramp"
+      ko: "die Autobahnauffahrt = 고속도로 진입로"
+
+- id: unterkunft
+  label:
+    en: "Accommodation (Unterkunft)"
+    ko: "숙박 (Unterkunft)"
+  type: vocabulary
+  words:
+  - german: "das Hotel, -s"
+    translation:
+      en: "hotel"
+      ko: "호텔"
+    gender: n
+    notes:
+      en: "ein Hotel buchen = to book a hotel"
+      ko: "ein Hotel buchen = 호텔을 예약하다"
+  - german: "die Jugendherberge, -n"
+    translation:
+      en: "youth hostel"
+      ko: "유스호스텔"
+    gender: f
+    notes:
+      en: "Affordable accommodation popular with young travelers"
+      ko: "젊은 여행객에게 인기 있는 저렴한 숙소"
+  - german: "die Pension, -en"
+    translation:
+      en: "guesthouse / B&B"
+      ko: "펜션 / 민박"
+    gender: f
+    notes:
+      en: "Smaller and more personal than a hotel"
+      ko: "호텔보다 작고 개인적인 숙소"
+  - german: "die Ferienwohnung, -en"
+    translation:
+      en: "vacation apartment"
+      ko: "휴가용 아파트"
+    gender: f
+    notes:
+      en: "Short: FeWo; popular in DACH countries"
+      ko: "줄임말: FeWo; DACH 지역에서 인기"
+  - german: "das Einzelzimmer, -"
+    translation:
+      en: "single room"
+      ko: "1인실"
+    gender: n
+    notes:
+      en: "ein Einzelzimmer reservieren = to reserve a single room"
+      ko: "ein Einzelzimmer reservieren = 1인실을 예약하다"
+  - german: "das Doppelzimmer, -"
+    translation:
+      en: "double room"
+      ko: "2인실"
+    gender: n
+    notes:
+      en: "mit Doppelbett = with double bed"
+      ko: "mit Doppelbett = 더블 침대 포함"
+  - german: "die Rezeption, -en"
+    translation:
+      en: "reception / front desk"
+      ko: "프런트 / 리셉션"
+    gender: f
+    notes:
+      en: "an der Rezeption = at the front desk"
+      ko: "an der Rezeption = 프런트에서"
+  - german: "der Schlüssel, -"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: m
+    notes:
+      en: "der Zimmerschlüssel = room key"
+      ko: "der Zimmerschlüssel = 방 열쇠"
+  - german: "das Frühstück, -e"
+    translation:
+      en: "breakfast"
+      ko: "조식 / 아침 식사"
+    gender: n
+    notes:
+      en: "mit Frühstück = with breakfast included"
+      ko: "mit Frühstück = 조식 포함"
+  - german: "die Übernachtung, -en"
+    translation:
+      en: "overnight stay"
+      ko: "숙박"
+    gender: f
+    notes:
+      en: "pro Übernachtung = per night"
+      ko: "pro Übernachtung = 1박당"
+  - german: "der Campingplatz, -plätze"
+    translation:
+      en: "campsite"
+      ko: "캠핑장"
+    gender: m
+    notes:
+      en: "Popular in summer across DACH countries"
+      ko: "여름에 DACH 지역 전역에서 인기"
+  - german: "sich anmelden"
+    translation:
+      en: "to check in / to register"
+      ko: "체크인하다 / 등록하다"
+    gender: null
+    notes:
+      en: "Reflexive separable verb"
+      ko: "재귀 분리 동사"
+  - german: "sich abmelden"
+    translation:
+      en: "to check out / to deregister"
+      ko: "체크아웃하다 / 등록 취소하다"
+    gender: null
+    notes:
+      en: "Wann muss ich mich abmelden? = When must I check out?"
+      ko: "Wann muss ich mich abmelden? = 언제 체크아웃해야 하나요?"
+  - german: "die Klimaanlage, -n"
+    translation:
+      en: "air conditioning"
+      ko: "에어컨"
+    gender: f
+    notes:
+      en: "Not standard in all German hotels"
+      ko: "독일 호텔에 항상 있는 것은 아님"
+  - german: "der Aufzug, Aufzüge"
+    translation:
+      en: "elevator / lift"
+      ko: "엘리베이터"
+    gender: m
+    notes:
+      en: "Also called 'der Fahrstuhl' or 'der Lift'"
+      ko: "'der Fahrstuhl'이나 'der Lift'라고도 함"
+  - german: "die Unterkunft, Unterkünfte"
+    translation:
+      en: "accommodation"
+      ko: "숙소"
+    gender: f
+    notes:
+      en: "General term for any place to stay"
+      ko: "묵을 곳을 가리키는 일반적인 용어"
+
+- id: touristenaktivitaeten
+  label:
+    en: "Tourist Activities (Touristenaktivitäten)"
+    ko: "관광 활동 (Touristenaktivitäten)"
+  type: vocabulary
+  words:
+  - german: "die Sehenswürdigkeit, -en"
+    translation:
+      en: "sight / attraction"
+      ko: "관광 명소"
+    gender: f
+    notes:
+      en: "Sehenswürdigkeiten besichtigen = to visit sights"
+      ko: "Sehenswürdigkeiten besichtigen = 관광 명소를 구경하다"
+  - german: "die Stadtführung, -en"
+    translation:
+      en: "city tour"
+      ko: "시내 관광"
+    gender: f
+    notes:
+      en: "eine Stadtführung machen = to take a city tour"
+      ko: "eine Stadtführung machen = 시내 관광을 하다"
+  - german: "das Museum, Museen"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: n
+    notes:
+      en: "Plural is irregular: Museen"
+      ko: "복수형이 불규칙: Museen"
+  - german: "der Dom, -e"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: m
+    notes:
+      en: "der Kölner Dom = Cologne Cathedral"
+      ko: "der Kölner Dom = 쾰른 대성당"
+  - german: "das Schloss, Schlösser"
+    translation:
+      en: "castle / palace"
+      ko: "성 / 궁전"
+    gender: n
+    notes:
+      en: "Schloss Neuschwanstein is world-famous"
+      ko: "노이슈반슈타인 성은 세계적으로 유명"
+  - german: "die Karte, -n"
+    translation:
+      en: "map / ticket / card"
+      ko: "지도 / 티켓 / 카드"
+    gender: f
+    notes:
+      en: "die Eintrittskarte = admission ticket"
+      ko: "die Eintrittskarte = 입장권"
+  - german: "der Reiseführer, -"
+    translation:
+      en: "travel guide / guidebook"
+      ko: "여행 가이드 / 안내서"
+    gender: m
+    notes:
+      en: "Also means the person guiding a tour"
+      ko: "투어를 안내하는 사람도 의미함"
+  - german: "fotografieren"
+    translation:
+      en: "to photograph / to take pictures"
+      ko: "사진을 찍다"
+    gender: null
+    notes:
+      en: "ein Foto machen = more colloquial alternative"
+      ko: "ein Foto machen = 더 구어적인 표현"
+  - german: "das Souvenir, -s"
+    translation:
+      en: "souvenir"
+      ko: "기념품"
+    gender: n
+    notes:
+      en: "der Souvenirladen = souvenir shop"
+      ko: "der Souvenirladen = 기념품 가게"
+  - german: "die Aussicht, -en"
+    translation:
+      en: "view / outlook"
+      ko: "전망 / 경치"
+    gender: f
+    notes:
+      en: "der Aussichtspunkt = viewpoint"
+      ko: "der Aussichtspunkt = 전망대"
+  - german: "besichtigen"
+    translation:
+      en: "to visit / to tour (a sight)"
+      ko: "관람하다 / 구경하다"
+    gender: null
+    notes:
+      en: "die Besichtigung = the tour/visit"
+      ko: "die Besichtigung = 관람 / 견학"
+  - german: "der Strand, Strände"
+    translation:
+      en: "beach"
+      ko: "해변"
+    gender: m
+    notes:
+      en: "der Strandkorb = typical German beach chair"
+      ko: "der Strandkorb = 독일식 해변 의자"
+  - german: "wandern"
+    translation:
+      en: "to hike"
+      ko: "하이킹하다 / 등산하다"
+    gender: null
+    notes:
+      en: "die Wanderung = hike; very popular in DACH"
+      ko: "die Wanderung = 하이킹; DACH 지역에서 매우 인기"
+  - german: "die Rundfahrt, -en"
+    translation:
+      en: "sightseeing tour / round trip"
+      ko: "관광 투어 / 순환 여행"
+    gender: f
+    notes:
+      en: "eine Bootsrundfahrt = a boat tour"
+      ko: "eine Bootsrundfahrt = 유람선 투어"
+  - german: "der Ausflug, Ausflüge"
+    translation:
+      en: "excursion / day trip"
+      ko: "소풍 / 당일치기 여행"
+    gender: m
+    notes:
+      en: "einen Ausflug machen = to go on an excursion"
+      ko: "einen Ausflug machen = 소풍을 가다"
+  - german: "die Postkarte, -n"
+    translation:
+      en: "postcard"
+      ko: "엽서"
+    gender: f
+    notes:
+      en: "eine Postkarte schreiben = to write a postcard"
+      ko: "eine Postkarte schreiben = 엽서를 쓰다"
+  - german: "der Tourist, -en"
+    translation:
+      en: "tourist"
+      ko: "관광객"
+    gender: m
+    notes:
+      en: "die Touristin = female tourist"
+      ko: "die Touristin = 여성 관광객"
+  - german: "die Touristeninformation, -en"
+    translation:
+      en: "tourist information center"
+      ko: "관광 안내소"
+    gender: f
+    notes:
+      en: "Often abbreviated as 'die Tourist-Info'"
+      ko: "흔히 'die Tourist-Info'로 줄여 부름"
+  - german: "der Hafen, Häfen"
+    translation:
+      en: "harbor / port"
+      ko: "항구"
+    gender: m
+    notes:
+      en: "der Hamburger Hafen = Hamburg harbor"
+      ko: "der Hamburger Hafen = 함부르크 항구"
+  - german: "die Kreuzfahrt, -en"
+    translation:
+      en: "cruise"
+      ko: "크루즈"
+    gender: f
+    notes:
+      en: "eine Kreuzfahrt machen = to go on a cruise"
+      ko: "eine Kreuzfahrt machen = 크루즈 여행을 하다"
+  - german: "das Denkmal, Denkmäler"
+    translation:
+      en: "monument / memorial"
+      ko: "기념물 / 기념비"
+    gender: n
+    notes:
+      en: "das Brandenburger Tor = Brandenburg Gate"
+      ko: "das Brandenburger Tor = 브란덴부르크 문"
+  - german: "der Marktplatz, -plätze"
+    translation:
+      en: "market square"
+      ko: "시장 광장"
+    gender: m
+    notes:
+      en: "Often the historic center of German towns"
+      ko: "독일 도시의 역사적 중심지인 경우가 많음"
+  - german: "die Altstadt, Altstädte"
+    translation:
+      en: "old town"
+      ko: "구시가지"
+    gender: f
+    notes:
+      en: "die Altstadt besichtigen = to visit the old town"
+      ko: "die Altstadt besichtigen = 구시가지를 구경하다"
+  - german: "der Ferienort, -e"
+    translation:
+      en: "holiday resort / vacation spot"
+      ko: "휴양지"
+    gender: m
+    notes:
+      en: "ein beliebter Ferienort = a popular resort"
+      ko: "ein beliebter Ferienort = 인기 있는 휴양지"
+  - german: "sonnenbaden"
+    translation:
+      en: "to sunbathe"
+      ko: "일광욕하다"
+    gender: null
+    notes:
+      en: "am Strand sonnenbaden = to sunbathe on the beach"
+      ko: "am Strand sonnenbaden = 해변에서 일광욕하다"
+  - german: "die Landschaft, -en"
+    translation:
+      en: "landscape / scenery"
+      ko: "풍경"
+    gender: f
+    notes:
+      en: "eine schöne Landschaft = beautiful scenery"
+      ko: "eine schöne Landschaft = 아름다운 풍경"
+  - german: "der See, -n"
+    translation:
+      en: "lake"
+      ko: "호수"
+    gender: m
+    notes:
+      en: "der Bodensee = Lake Constance"
+      ko: "der Bodensee = 보덴 호수"
+  - german: "das Gebirge, -"
+    translation:
+      en: "mountain range"
+      ko: "산맥"
+    gender: n
+    notes:
+      en: "die Alpen = the Alps"
+      ko: "die Alpen = 알프스"
+  - german: "der Urlaub, -e"
+    translation:
+      en: "vacation / holiday"
+      ko: "휴가"
+    gender: m
+    notes:
+      en: "in den Urlaub fahren = to go on vacation"
+      ko: "in den Urlaub fahren = 휴가를 가다"
+  - german: "die Sonnencreme, -s"
+    translation:
+      en: "sunscreen"
+      ko: "선크림"
+    gender: f
+    notes:
+      en: "Sonnenschutz auftragen = to apply sunscreen"
+      ko: "Sonnenschutz auftragen = 선크림을 바르다"
+  - german: "das Andenken, -"
+    translation:
+      en: "keepsake / memento"
+      ko: "기념품 / 추억의 물건"
+    gender: n
+    notes:
+      en: "als Andenken = as a keepsake"
+      ko: "als Andenken = 기념으로"
+  - german: "das Reisebüro, -s"
+    translation:
+      en: "travel agency"
+      ko: "여행사"
+    gender: n
+    notes:
+      en: "eine Reise im Reisebüro buchen = to book a trip at a travel agency"
+      ko: "eine Reise im Reisebüro buchen = 여행사에서 여행을 예약하다"
+  - german: "die Autobahn, -en"
+    translation:
+      en: "highway / motorway"
+      ko: "아우토반 / 고속도로"
+    gender: f
+    notes:
+      en: "Famous for having no general speed limit"
+      ko: "일반 속도 제한이 없는 것으로 유명"
+  - german: "die Maut, -en"
+    translation:
+      en: "toll"
+      ko: "통행료"
+    gender: f
+    notes:
+      en: "In Austria and Switzerland, a Vignette is needed"
+      ko: "오스트리아와 스위스에서는 비네트가 필요"
+  - german: "der Stau, -s"
+    translation:
+      en: "traffic jam"
+      ko: "교통 정체"
+    gender: m
+    notes:
+      en: "im Stau stehen = to be stuck in traffic"
+      ko: "im Stau stehen = 정체에 갇히다"
+  - german: "parken"
+    translation:
+      en: "to park"
+      ko: "주차하다"
+    gender: null
+    notes:
+      en: "der Parkplatz = parking lot; die Parkuhr = parking meter"
+      ko: "der Parkplatz = 주차장; die Parkuhr = 파킹 미터"
+  - german: "der Mietwagen, -"
+    translation:
+      en: "rental car"
+      ko: "렌터카"
+    gender: m
+    notes:
+      en: "einen Mietwagen mieten = to rent a car"
+      ko: "einen Mietwagen mieten = 차를 빌리다"
+  - german: "die Versicherung, -en"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: f
+    notes:
+      en: "die Reiseversicherung = travel insurance"
+      ko: "die Reiseversicherung = 여행 보험"
+  - german: "die Pauschalreise, -n"
+    translation:
+      en: "package tour"
+      ko: "패키지 여행"
+    gender: f
+    notes:
+      en: "All-inclusive holiday package"
+      ko: "올 인클루시브 휴가 패키지"
+  - german: "das Trinkgeld, -er"
+    translation:
+      en: "tip / gratuity"
+      ko: "팁"
+    gender: n
+    notes:
+      en: "5-10% is typical in DACH countries"
+      ko: "DACH 지역에서 5-10%가 일반적"
+  - german: "der Flugbegleiter, -"
+    translation:
+      en: "flight attendant"
+      ko: "승무원"
+    gender: m
+    notes:
+      en: "die Flugbegleiterin = female flight attendant"
+      ko: "die Flugbegleiterin = 여성 승무원"
+  - german: "die Durchsage, -n"
+    translation:
+      en: "announcement"
+      ko: "안내 방송"
+    gender: f
+    notes:
+      en: "die Durchsage am Bahnhof = station announcement"
+      ko: "die Durchsage am Bahnhof = 역 안내 방송"
+  - german: "das Gleis, -e"
+    translation:
+      en: "platform / track"
+      ko: "플랫폼 / 선로"
+    gender: n
+    notes:
+      en: "Der Zug fährt auf Gleis 3 ab = Train departs from platform 3"
+      ko: "Der Zug fährt auf Gleis 3 ab = 3번 플랫폼에서 출발"
+  - german: "die Fahrkarte, -n"
+    translation:
+      en: "ticket (for transport)"
+      ko: "승차권"
+    gender: f
+    notes:
+      en: "eine Fahrkarte lösen = to buy a ticket"
+      ko: "eine Fahrkarte lösen = 승차권을 사다"
+  - german: "hin und zurück"
+    translation:
+      en: "round trip"
+      ko: "왕복"
+    gender: null
+    notes:
+      en: "Einmal Berlin, hin und zurück = One round trip to Berlin"
+      ko: "Einmal Berlin, hin und zurück = 베를린 왕복 1장"
+  - german: "die Ermäßigung, -en"
+    translation:
+      en: "discount / reduction"
+      ko: "할인"
+    gender: f
+    notes:
+      en: "Ermäßigung für Studenten = student discount"
+      ko: "Ermäßigung für Studenten = 학생 할인"
+  - german: "der Fahrplan, Fahrpläne"
+    translation:
+      en: "timetable / schedule"
+      ko: "시간표"
+    gender: m
+    notes:
+      en: "den Fahrplan checken = to check the timetable"
+      ko: "den Fahrplan checken = 시간표를 확인하다"
+  - german: "pünktlich"
+    translation:
+      en: "on time / punctual"
+      ko: "정시에 / 시간을 잘 지키는"
+    gender: null
+    notes:
+      en: "Der Zug kommt pünktlich = The train arrives on time"
+      ko: "Der Zug kommt pünktlich = 기차가 정시에 도착한다"
+  - german: "der Strandkorb, -körbe"
+    translation:
+      en: "beach chair (German style)"
+      ko: "슈트란트코르프 (독일식 해변 의자)"
+    gender: m
+    notes:
+      en: "Iconic hooded beach chair on North and Baltic coasts"
+      ko: "북해와 발트해 해안의 상징적인 후드형 해변 의자"
+  - german: "die Fähre, -n"
+    translation:
+      en: "ferry"
+      ko: "페리"
+    gender: f
+    notes:
+      en: "die Fähre nach Sylt = ferry to Sylt"
+      ko: "die Fähre nach Sylt = 질트 섬행 페리"
+  - german: "die Abflughalle, -n"
+    translation:
+      en: "departure hall"
+      ko: "출발 홀"
+    gender: f
+    notes:
+      en: "in der Abflughalle warten = to wait in the departure hall"
+      ko: "in der Abflughalle warten = 출발 홀에서 기다리다"
+  - german: "die Ankunftshalle, -n"
+    translation:
+      en: "arrival hall"
+      ko: "도착 홀"
+    gender: f
+    notes:
+      en: "jemanden in der Ankunftshalle abholen = to pick someone up"
+      ko: "jemanden in der Ankunftshalle abholen = 도착 홀에서 마중하다"
+  - german: "die Zeitzone, -n"
+    translation:
+      en: "time zone"
+      ko: "시간대"
+    gender: f
+    notes:
+      en: "der Jetlag = jet lag"
+      ko: "der Jetlag = 시차 적응"
+  - german: "der Wanderweg, -e"
+    translation:
+      en: "hiking trail"
+      ko: "등산로 / 산책로"
+    gender: m
+    notes:
+      en: "ein markierter Wanderweg = a marked hiking trail"
+      ko: "ein markierter Wanderweg = 표시된 등산로"
+  - german: "die Überfahrt, -en"
+    translation:
+      en: "crossing (by boat)"
+      ko: "횡단 (배)"
+    gender: f
+    notes:
+      en: "die Überfahrt dauert 2 Stunden = the crossing takes 2 hours"
+      ko: "die Überfahrt dauert 2 Stunden = 횡단에 2시간 소요"
+  - german: "der Reiseleiter, -"
+    translation:
+      en: "tour guide"
+      ko: "가이드"
+    gender: m
+    notes:
+      en: "die Reiseleiterin = female tour guide"
+      ko: "die Reiseleiterin = 여성 가이드"
+  - german: "der ICE"
+    translation:
+      en: "InterCity Express (high-speed train)"
+      ko: "ICE (독일 고속열차)"
+    gender: m
+    notes:
+      en: "Fastest train in Germany, up to 300 km/h"
+      ko: "독일 최고속 열차, 최대 300 km/h"
+  - german: "die BahnCard, -s"
+    translation:
+      en: "BahnCard (rail discount card)"
+      ko: "반카드 (철도 할인카드)"
+    gender: f
+    notes:
+      en: "BahnCard 25/50 gives 25%/50% discount"
+      ko: "BahnCard 25/50은 25%/50% 할인 제공"
+  - german: "der Anschluss, Anschlüsse"
+    translation:
+      en: "connection (transport)"
+      ko: "환승 연결"
+    gender: m
+    notes:
+      en: "den Anschluss verpassen = to miss the connection"
+      ko: "den Anschluss verpassen = 환승을 놓치다"
+  - german: "die Gepäckausgabe, -n"
+    translation:
+      en: "baggage claim"
+      ko: "수하물 찾는 곳"
+    gender: f
+    notes:
+      en: "das Gepäckband = baggage carousel"
+      ko: "das Gepäckband = 수하물 컨베이어 벨트"
+  - german: "der Zollbeamte, -n"
+    translation:
+      en: "customs officer"
+      ko: "세관원"
+    gender: m
+    notes:
+      en: "Haben Sie etwas zu verzollen? = Anything to declare?"
+      ko: "Haben Sie etwas zu verzollen? = 신고할 것이 있습니까?"
+  - german: "der Personalausweis, -e"
+    translation:
+      en: "identity card / ID"
+      ko: "신분증"
+    gender: m
+    notes:
+      en: "Valid for travel within the EU"
+      ko: "EU 내 여행 시 유효"
+  - german: "die Bordverpflegung"
+    translation:
+      en: "in-flight meals / onboard catering"
+      ko: "기내식"
+    gender: f
+    notes:
+      en: "im Bordrestaurant = in the train restaurant car"
+      ko: "im Bordrestaurant = 기차 식당차에서"
+  - german: "die Reiseapotheke, -n"
+    translation:
+      en: "travel first-aid kit"
+      ko: "여행용 구급약"
+    gender: f
+    notes:
+      en: "Essential items for any trip"
+      ko: "어떤 여행에든 필수적인 물품"
+  - german: "die Unterführung, -en"
+    translation:
+      en: "underpass / subway (pedestrian)"
+      ko: "지하도"
+    gender: f
+    notes:
+      en: "die Fußgängerunterführung = pedestrian underpass"
+      ko: "die Fußgängerunterführung = 보행자 지하도"

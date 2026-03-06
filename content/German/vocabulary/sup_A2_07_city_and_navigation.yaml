@@ -1,0 +1,1263 @@
+lesson: "sup_A2_City_and_Navigation"
+lesson_number: 127
+cefr: A2
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: orte_in_der_stadt
+  label:
+    en: "Places in the City (Orte in der Stadt)"
+    ko: "도시의 장소 (Orte in der Stadt)"
+  type: vocabulary
+  words:
+  - german: "die Stadt, Städte"
+    translation:
+      en: "city / town"
+      ko: "도시"
+    gender: f
+    notes:
+      en: "die Altstadt = old town; die Innenstadt = city center"
+      ko: "die Altstadt = 구시가지; die Innenstadt = 시내"
+  - german: "das Rathaus, Rathäuser"
+    translation:
+      en: "city hall / town hall"
+      ko: "시청"
+    gender: n
+    notes:
+      en: "Often a historic building in the city center"
+      ko: "종종 시내 중심에 있는 역사적 건물"
+  - german: "die Kirche, -n"
+    translation:
+      en: "church"
+      ko: "교회"
+    gender: f
+    notes:
+      en: "der Kirchturm = church tower/steeple"
+      ko: "der Kirchturm = 교회 탑/첨탑"
+  - german: "die Bibliothek, -en"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+    notes:
+      en: "die Stadtbibliothek = public library"
+      ko: "die Stadtbibliothek = 공공 도서관"
+  - german: "das Schwimmbad, Schwimmbäder"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: n
+    notes:
+      en: "das Freibad = outdoor pool; das Hallenbad = indoor pool"
+      ko: "das Freibad = 야외 수영장; das Hallenbad = 실내 수영장"
+  - german: "der Park, -s"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: m
+    notes:
+      en: "im Park spazieren gehen = to walk in the park"
+      ko: "im Park spazieren gehen = 공원에서 산책하다"
+  - german: "der Spielplatz, -plätze"
+    translation:
+      en: "playground"
+      ko: "놀이터"
+    gender: m
+    notes:
+      en: "auf dem Spielplatz = at the playground"
+      ko: "auf dem Spielplatz = 놀이터에서"
+  - german: "das Postamt, Postämter"
+    translation:
+      en: "post office"
+      ko: "우체국"
+    gender: n
+    notes:
+      en: "die Post = mail / post office (colloquial)"
+      ko: "die Post = 우편 / 우체국 (구어)"
+  - german: "die Bank, -en"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: f
+    notes:
+      en: "die Sparkasse = savings bank (local)"
+      ko: "die Sparkasse = 저축은행 (지역)"
+  - german: "die Schule, -n"
+    translation:
+      en: "school"
+      ko: "학교"
+    gender: f
+    notes:
+      en: "die Grundschule = primary school"
+      ko: "die Grundschule = 초등학교"
+  - german: "die Universität, -en"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+    notes:
+      en: "Short: die Uni"
+      ko: "줄임말: die Uni"
+  - german: "das Krankenhaus, Krankenhäuser"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: n
+    notes:
+      en: "die Klinik = clinic/hospital"
+      ko: "die Klinik = 병원/의원"
+  - german: "der Friedhof, Friedhöfe"
+    translation:
+      en: "cemetery"
+      ko: "묘지"
+    gender: m
+    notes:
+      en: "Often very peaceful, park-like spaces in Germany"
+      ko: "독일에서는 종종 공원 같이 평화로운 공간"
+  - german: "das Stadtzentrum, -zentren"
+    translation:
+      en: "city center / downtown"
+      ko: "시내 중심 / 도심"
+    gender: n
+    notes:
+      en: "im Stadtzentrum = in the city center"
+      ko: "im Stadtzentrum = 시내 중심에서"
+  - german: "der Platz, Plätze"
+    translation:
+      en: "square / plaza"
+      ko: "광장"
+    gender: m
+    notes:
+      en: "der Marktplatz = market square"
+      ko: "der Marktplatz = 시장 광장"
+  - german: "die Brücke, -n"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: f
+    notes:
+      en: "über die Brücke gehen = to cross the bridge"
+      ko: "über die Brücke gehen = 다리를 건너다"
+  - german: "der Brunnen, -"
+    translation:
+      en: "fountain / well"
+      ko: "분수 / 우물"
+    gender: m
+    notes:
+      en: "Common landmark in city squares"
+      ko: "도시 광장의 흔한 랜드마크"
+  - german: "die Fußgängerzone, -n"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 거리"
+    gender: f
+    notes:
+      en: "Shopping and walking area; no cars allowed"
+      ko: "쇼핑과 산책 구역; 차량 진입 불가"
+  - german: "die Tankstelle, -n"
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: f
+    notes:
+      en: "tanken = to refuel"
+      ko: "tanken = 주유하다"
+  - german: "das Stadion, Stadien"
+    translation:
+      en: "stadium"
+      ko: "경기장"
+    gender: n
+    notes:
+      en: "das Fußballstadion = football stadium"
+      ko: "das Fußballstadion = 축구 경기장"
+  - german: "der Zoo, -s"
+    translation:
+      en: "zoo"
+      ko: "동물원"
+    gender: m
+    notes:
+      en: "der Tierpark = wildlife park; der Tiergarten = zoo garden"
+      ko: "der Tierpark = 야생동물 공원; der Tiergarten = 동물원"
+  - german: "die Sporthalle, -n"
+    translation:
+      en: "sports hall / gymnasium"
+      ko: "체육관"
+    gender: f
+    notes:
+      en: "die Turnhalle = gymnasium"
+      ko: "die Turnhalle = 체육관"
+  - german: "das Kino, -s"
+    translation:
+      en: "cinema"
+      ko: "영화관"
+    gender: n
+    notes:
+      en: "ins Kino gehen = to go to the movies"
+      ko: "ins Kino gehen = 영화를 보러 가다"
+  - german: "der Spielplatz, -plätze"
+    translation:
+      en: "playground"
+      ko: "놀이터"
+    gender: m
+    notes:
+      en: "auf dem Spielplatz spielen = to play on the playground"
+      ko: "auf dem Spielplatz spielen = 놀이터에서 놀다"
+  - german: "die Waschstraße, -n"
+    translation:
+      en: "car wash"
+      ko: "세차장"
+    gender: f
+    notes:
+      en: "Also die Autowaschanlage"
+      ko: "die Autowaschanlage라고도 함"
+
+- id: oeffentlicher_verkehr
+  label:
+    en: "Public Transport (öffentlicher Verkehr)"
+    ko: "대중교통 (öffentlicher Verkehr)"
+  type: vocabulary
+  words:
+  - german: "die öffentlichen Verkehrsmittel (pl.)"
+    translation:
+      en: "public transportation"
+      ko: "대중교통"
+    gender: null
+    notes:
+      en: "der ÖPNV = öffentlicher Personennahverkehr"
+      ko: "der ÖPNV = 대중 근거리 교통"
+  - german: "die Fahrkarte, -n"
+    translation:
+      en: "ticket (transport)"
+      ko: "승차권"
+    gender: f
+    notes:
+      en: "eine Fahrkarte kaufen = to buy a ticket"
+      ko: "eine Fahrkarte kaufen = 승차권을 사다"
+  - german: "der Fahrschein, -e"
+    translation:
+      en: "ticket (transport)"
+      ko: "승차권"
+    gender: m
+    notes:
+      en: "der Fahrscheinautomat = ticket machine"
+      ko: "der Fahrscheinautomat = 승차권 자동판매기"
+  - german: "die Monatskarte, -n"
+    translation:
+      en: "monthly pass"
+      ko: "월정기권"
+    gender: f
+    notes:
+      en: "das Deutschlandticket = nationwide monthly pass"
+      ko: "das Deutschlandticket = 전국 월정기권"
+  - german: "der Fahrplan, Fahrpläne"
+    translation:
+      en: "timetable / schedule"
+      ko: "시간표"
+    gender: m
+    notes:
+      en: "den Fahrplan lesen = to read the timetable"
+      ko: "den Fahrplan lesen = 시간표를 읽다"
+  - german: "das Gleis, -e"
+    translation:
+      en: "platform / track"
+      ko: "플랫폼 / 선로"
+    gender: n
+    notes:
+      en: "Der Zug fährt auf Gleis 5 = Train departs from platform 5"
+      ko: "Der Zug fährt auf Gleis 5 = 기차가 5번 플랫폼에서 출발"
+  - german: "die Linie, -n"
+    translation:
+      en: "line (bus/train)"
+      ko: "노선"
+    gender: f
+    notes:
+      en: "die Buslinie 42 = bus line 42"
+      ko: "die Buslinie 42 = 42번 버스 노선"
+  - german: "die Endhaltestelle, -n"
+    translation:
+      en: "last stop / terminus"
+      ko: "종점"
+    gender: f
+    notes:
+      en: "Endstation = terminus (also used)"
+      ko: "Endstation = 종점 (이것도 사용됨)"
+  - german: "einsteigen"
+    translation:
+      en: "to get on / to board"
+      ko: "타다 / 승차하다"
+    gender: null
+    notes:
+      en: "Separable: Bitte einsteigen! = All aboard!"
+      ko: "분리 동사: Bitte einsteigen! = 탑승해 주세요!"
+  - german: "aussteigen"
+    translation:
+      en: "to get off / to alight"
+      ko: "내리다 / 하차하다"
+    gender: null
+    notes:
+      en: "Separable: Ich steige an der nächsten Haltestelle aus"
+      ko: "분리 동사: 다음 정류장에서 내립니다"
+  - german: "umsteigen"
+    translation:
+      en: "to transfer / to change"
+      ko: "환승하다"
+    gender: null
+    notes:
+      en: "Sie müssen in Berlin umsteigen = You must transfer in Berlin"
+      ko: "Sie müssen in Berlin umsteigen = 베를린에서 환승해야 합니다"
+  - german: "entwerten"
+    translation:
+      en: "to validate (a ticket)"
+      ko: "개찰하다 / 도장을 찍다"
+    gender: null
+    notes:
+      en: "der Entwerter = ticket validator/stamping machine"
+      ko: "der Entwerter = 개찰기"
+  - german: "der Stau, -s"
+    translation:
+      en: "traffic jam"
+      ko: "교통 체증"
+    gender: m
+    notes:
+      en: "im Stau stehen = to be stuck in traffic"
+      ko: "im Stau stehen = 교통 체증에 걸리다"
+  - german: "die Durchsage, -n"
+    translation:
+      en: "announcement (on train/bus)"
+      ko: "안내 방송"
+    gender: f
+    notes:
+      en: "die Durchsage beachten = to pay attention to the announcement"
+      ko: "die Durchsage beachten = 안내 방송에 주의하다"
+  - german: "die Tageskarte, -n"
+    translation:
+      en: "day pass / day ticket"
+      ko: "1일권"
+    gender: f
+    notes:
+      en: "die Wochenkarte = weekly pass"
+      ko: "die Wochenkarte = 주간 정기권"
+  - german: "der Anschluss, Anschlüsse"
+    translation:
+      en: "connection (transport)"
+      ko: "환승 연결"
+    gender: m
+    notes:
+      en: "den Anschluss verpassen = to miss the connection"
+      ko: "den Anschluss verpassen = 환승을 놓치다"
+  - german: "die Verspätung, -en"
+    translation:
+      en: "delay"
+      ko: "연착 / 지연"
+    gender: f
+    notes:
+      en: "5 Minuten Verspätung = 5 minutes late"
+      ko: "5 Minuten Verspätung = 5분 연착"
+  - german: "die Nachtlinie, -n"
+    translation:
+      en: "night bus/train line"
+      ko: "야간 노선"
+    gender: f
+    notes:
+      en: "der Nachtbus = night bus"
+      ko: "der Nachtbus = 야간 버스"
+  - german: "der Automat, -en"
+    translation:
+      en: "vending machine / ticket machine"
+      ko: "자동판매기"
+    gender: m
+    notes:
+      en: "der Fahrkartenautomat = ticket machine"
+      ko: "der Fahrkartenautomat = 승차권 자동판매기"
+  - german: "die Zone, -n"
+    translation:
+      en: "zone (transit)"
+      ko: "구역 (교통)"
+    gender: f
+    notes:
+      en: "das Zonensystem = zone system for fares"
+      ko: "das Zonensystem = 요금 구역 시스템"
+  - german: "die Einzelfahrkarte, -n"
+    translation:
+      en: "single ticket"
+      ko: "편도 승차권"
+    gender: f
+    notes:
+      en: "eine Einzelfahrkarte lösen = to buy a single ticket"
+      ko: "eine Einzelfahrkarte lösen = 편도 승차권을 사다"
+  - german: "die Kurzstrecke, -n"
+    translation:
+      en: "short distance (ticket)"
+      ko: "근거리 (승차권)"
+    gender: f
+    notes:
+      en: "die Kurzstreckenkarte = short distance ticket"
+      ko: "die Kurzstreckenkarte = 근거리 승차권"
+  - german: "der Kontrolleur, -e"
+    translation:
+      en: "ticket inspector"
+      ko: "검표원"
+    gender: m
+    notes:
+      en: "Fahrkarten bitte! = Tickets please!"
+      ko: "Fahrkarten bitte! = 승차권 보여주세요!"
+
+- id: wegbeschreibung
+  label:
+    en: "Giving Directions (Wegbeschreibung)"
+    ko: "길 안내 (Wegbeschreibung)"
+  type: vocabulary
+  words:
+  - german: "der Weg, -e"
+    translation:
+      en: "way / path"
+      ko: "길"
+    gender: m
+    notes:
+      en: "den Weg fragen = to ask for directions"
+      ko: "den Weg fragen = 길을 묻다"
+  - german: "die Straße, -n"
+    translation:
+      en: "street / road"
+      ko: "거리 / 도로"
+    gender: f
+    notes:
+      en: "die Hauptstraße = main street"
+      ko: "die Hauptstraße = 메인 거리"
+  - german: "die Gasse, -n"
+    translation:
+      en: "alley / lane"
+      ko: "골목"
+    gender: f
+    notes:
+      en: "Common in old town areas"
+      ko: "구시가지에서 흔함"
+  - german: "der Bürgersteig, -e"
+    translation:
+      en: "sidewalk / pavement"
+      ko: "인도 / 보도"
+    gender: m
+    notes:
+      en: "Also 'der Gehweg'"
+      ko: "'der Gehweg'라고도 함"
+  - german: "weit"
+    translation:
+      en: "far"
+      ko: "먼"
+    gender: null
+    notes:
+      en: "Ist es weit? = Is it far?"
+      ko: "Ist es weit? = 멀어요?"
+  - german: "nah"
+    translation:
+      en: "near / close"
+      ko: "가까운"
+    gender: null
+    notes:
+      en: "in der Nähe = nearby"
+      ko: "in der Nähe = 근처에"
+  - german: "entlang"
+    translation:
+      en: "along"
+      ko: "~을 따라"
+    gender: null
+    notes:
+      en: "die Straße entlang = along the street"
+      ko: "die Straße entlang = 거리를 따라"
+  - german: "bis zu"
+    translation:
+      en: "up to / until"
+      ko: "~까지"
+    gender: null
+    notes:
+      en: "bis zur Kreuzung = up to the intersection"
+      ko: "bis zur Kreuzung = 교차로까지"
+  - german: "vorbei an"
+    translation:
+      en: "past / by"
+      ko: "~을 지나"
+    gender: null
+    notes:
+      en: "am Rathaus vorbei = past the city hall"
+      ko: "am Rathaus vorbei = 시청을 지나"
+  - german: "der Stadtplan, -pläne"
+    translation:
+      en: "city map"
+      ko: "시내 지도"
+    gender: m
+    notes:
+      en: "Haben Sie einen Stadtplan? = Do you have a city map?"
+      ko: "Haben Sie einen Stadtplan? = 시내 지도가 있나요?"
+  - german: "das Navi, -s"
+    translation:
+      en: "GPS / sat nav"
+      ko: "내비게이션"
+    gender: n
+    notes:
+      en: "Short for das Navigationsgerät"
+      ko: "das Navigationsgerät의 줄임말"
+  - german: "die Einbahnstraße, -n"
+    translation:
+      en: "one-way street"
+      ko: "일방통행 도로"
+    gender: f
+    notes:
+      en: "Marked with a blue arrow sign"
+      ko: "파란 화살표 표지판으로 표시됨"
+  - german: "die Sackgasse, -n"
+    translation:
+      en: "dead end / cul-de-sac"
+      ko: "막다른 골목"
+    gender: f
+    notes:
+      en: "Literally 'sack alley'"
+      ko: "직역하면 '자루 골목'"
+  - german: "der Kreisverkehr, -e"
+    translation:
+      en: "roundabout / traffic circle"
+      ko: "로터리 / 회전교차로"
+    gender: m
+    notes:
+      en: "Common in residential areas"
+      ko: "주거 지역에서 흔함"
+  - german: "weitergehen"
+    translation:
+      en: "to continue walking"
+      ko: "계속 걸어가다"
+    gender: null
+    notes:
+      en: "Separable: Gehen Sie weiter bis zur Ampel"
+      ko: "분리 동사: 신호등까지 계속 가세요"
+  - german: "sich verirren"
+    translation:
+      en: "to get lost"
+      ko: "길을 잃다"
+    gender: null
+    notes:
+      en: "Ich habe mich verirrt = I got lost"
+      ko: "Ich habe mich verirrt = 길을 잃었어요"
+  - german: "zurückgehen"
+    translation:
+      en: "to go back"
+      ko: "돌아가다"
+    gender: null
+    notes:
+      en: "Separable: Gehen Sie zurück = Go back"
+      ko: "분리 동사: Gehen Sie zurück = 돌아가세요"
+  - german: "der Fußweg, -e"
+    translation:
+      en: "footpath / walking distance"
+      ko: "도보 거리 / 산책길"
+    gender: m
+    notes:
+      en: "10 Minuten Fußweg = 10 minutes on foot"
+      ko: "10 Minuten Fußweg = 도보 10분"
+  - german: "die Umgebung, -en"
+    translation:
+      en: "surroundings / area"
+      ko: "주변 / 부근"
+    gender: f
+    notes:
+      en: "in der Umgebung = in the area"
+      ko: "in der Umgebung = 주변에"
+  - german: "der Kilometer, -"
+    translation:
+      en: "kilometer"
+      ko: "킬로미터"
+    gender: m
+    notes:
+      en: "5 Kilometer entfernt = 5 kilometers away"
+      ko: "5 Kilometer entfernt = 5킬로미터 떨어진"
+  - german: "die Richtung, -en"
+    translation:
+      en: "direction"
+      ko: "방향"
+    gender: f
+    notes:
+      en: "in Richtung Bahnhof = in the direction of the station"
+      ko: "in Richtung Bahnhof = 역 방향으로"
+  - german: "drüben"
+    translation:
+      en: "over there"
+      ko: "저쪽에"
+    gender: null
+    notes:
+      en: "da drüben = over there"
+      ko: "da drüben = 저기에"
+  - german: "irgendwo"
+    translation:
+      en: "somewhere"
+      ko: "어딘가"
+    gender: null
+    notes:
+      en: "irgendwo in der Nähe = somewhere nearby"
+      ko: "irgendwo in der Nähe = 근처 어딘가에"
+  - german: "die Abkürzung, -en"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: f
+    notes:
+      en: "eine Abkürzung nehmen = to take a shortcut"
+      ko: "eine Abkürzung nehmen = 지름길로 가다"
+  - german: "der Hinweis, -e"
+    translation:
+      en: "sign / hint / notice"
+      ko: "표지 / 안내"
+    gender: m
+    notes:
+      en: "der Wegweiser = signpost"
+      ko: "der Wegweiser = 이정표"
+  - german: "überqueren"
+    translation:
+      en: "to cross (a street)"
+      ko: "건너다"
+    gender: null
+    notes:
+      en: "die Straße überqueren = to cross the street"
+      ko: "die Straße überqueren = 길을 건너다"
+  - german: "an...vorbei"
+    translation:
+      en: "past (something)"
+      ko: "~을 지나서"
+    gender: null
+    notes:
+      en: "am Supermarkt vorbei = past the supermarket"
+      ko: "am Supermarkt vorbei = 슈퍼마켓을 지나서"
+  - german: "gegenüber von"
+    translation:
+      en: "across from / opposite"
+      ko: "맞은편에"
+    gender: null
+    notes:
+      en: "gegenüber vom Rathaus = across from city hall"
+      ko: "gegenüber vom Rathaus = 시청 맞은편에"
+  - german: "um die Ecke"
+    translation:
+      en: "around the corner"
+      ko: "모퉁이를 돌면"
+    gender: null
+    notes:
+      en: "gleich um die Ecke = just around the corner"
+      ko: "gleich um die Ecke = 바로 모퉁이를 돌면"
+
+- id: stadtleben
+  label:
+    en: "City Life (Stadtleben)"
+    ko: "도시 생활 (Stadtleben)"
+  type: vocabulary
+  words:
+  - german: "der Einwohner, -"
+    translation:
+      en: "resident / inhabitant"
+      ko: "주민 / 거주자"
+    gender: m
+    notes:
+      en: "die Einwohnerin = female resident"
+      ko: "die Einwohnerin = 여성 거주자"
+  - german: "das Viertel, -"
+    translation:
+      en: "quarter / neighborhood"
+      ko: "지구 / 구역"
+    gender: n
+    notes:
+      en: "das Wohnviertel = residential area"
+      ko: "das Wohnviertel = 주거 지역"
+  - german: "die Vorstadt, Vorstädte"
+    translation:
+      en: "suburb"
+      ko: "교외"
+    gender: f
+    notes:
+      en: "in der Vorstadt wohnen = to live in the suburbs"
+      ko: "in der Vorstadt wohnen = 교외에 살다"
+  - german: "die Miete, -n"
+    translation:
+      en: "rent"
+      ko: "임대료 / 집세"
+    gender: f
+    notes:
+      en: "die Miete zahlen = to pay rent"
+      ko: "die Miete zahlen = 집세를 내다"
+  - german: "der Lärm"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: m
+    notes:
+      en: "die Nachtruhe = quiet hours (10pm-6am)"
+      ko: "die Nachtruhe = 야간 정숙 시간 (밤 10시-아침 6시)"
+  - german: "der Verkehr"
+    translation:
+      en: "traffic"
+      ko: "교통"
+    gender: m
+    notes:
+      en: "der Berufsverkehr = rush hour traffic"
+      ko: "der Berufsverkehr = 출퇴근 시간 교통"
+  - german: "die Umwelt"
+    translation:
+      en: "environment"
+      ko: "환경"
+    gender: f
+    notes:
+      en: "die Umweltzone = environmental zone (low emission)"
+      ko: "die Umweltzone = 환경 구역 (저배출)"
+  - german: "der Müll"
+    translation:
+      en: "trash / garbage"
+      ko: "쓰레기"
+    gender: m
+    notes:
+      en: "die Mülltrennung = waste sorting (very important in Germany)"
+      ko: "die Mülltrennung = 분리수거 (독일에서 매우 중요)"
+  - german: "der Radweg, -e"
+    translation:
+      en: "bike path / cycle lane"
+      ko: "자전거 도로"
+    gender: m
+    notes:
+      en: "auf dem Radweg fahren = to ride on the bike path"
+      ko: "auf dem Radweg fahren = 자전거 도로에서 타다"
+  - german: "die Grünfläche, -n"
+    translation:
+      en: "green space / park area"
+      ko: "녹지"
+    gender: f
+    notes:
+      en: "Important for city quality of life"
+      ko: "도시 생활의 질에 중요"
+  - german: "das Parkhaus, Parkhäuser"
+    translation:
+      en: "parking garage"
+      ko: "주차장 (다층)"
+    gender: n
+    notes:
+      en: "der Parkplatz = parking spot/lot"
+      ko: "der Parkplatz = 주차 자리/주차장"
+  - german: "der Bürgermeister, -"
+    translation:
+      en: "mayor"
+      ko: "시장 (市長)"
+    gender: m
+    notes:
+      en: "die Bürgermeisterin = female mayor"
+      ko: "die Bürgermeisterin = 여성 시장"
+  - german: "die Baustelle, -n"
+    translation:
+      en: "construction site"
+      ko: "공사 현장"
+    gender: f
+    notes:
+      en: "Common sight in German cities"
+      ko: "독일 도시에서 흔한 풍경"
+  - german: "die Sehenswürdigkeit, -en"
+    translation:
+      en: "tourist attraction / landmark"
+      ko: "관광 명소"
+    gender: f
+    notes:
+      en: "die wichtigsten Sehenswürdigkeiten = the most important sights"
+      ko: "die wichtigsten Sehenswürdigkeiten = 가장 중요한 명소들"
+  - german: "das Nachtleben"
+    translation:
+      en: "nightlife"
+      ko: "밤문화"
+    gender: n
+    notes:
+      en: "Berlin ist für sein Nachtleben bekannt"
+      ko: "베를린은 밤문화로 유명하다"
+  - german: "die Einkaufsstraße, -n"
+    translation:
+      en: "shopping street"
+      ko: "쇼핑 거리"
+    gender: f
+    notes:
+      en: "die Haupteinkaufsstraße = main shopping street"
+      ko: "die Haupteinkaufsstraße = 주요 쇼핑 거리"
+  - german: "der Strom"
+    translation:
+      en: "electricity / power"
+      ko: "전기"
+    gender: m
+    notes:
+      en: "die Stromrechnung = electricity bill"
+      ko: "die Stromrechnung = 전기 요금"
+  - german: "die Wasserversorgung"
+    translation:
+      en: "water supply"
+      ko: "수도 공급"
+    gender: f
+    notes:
+      en: "Leitungswasser trinken = to drink tap water"
+      ko: "Leitungswasser trinken = 수돗물을 마시다"
+  - german: "die Kanalisation"
+    translation:
+      en: "sewage system"
+      ko: "하수도"
+    gender: f
+    notes:
+      en: "das Abwasser = sewage/wastewater"
+      ko: "das Abwasser = 하수/폐수"
+  - german: "der Fahrradständer, -"
+    translation:
+      en: "bicycle rack"
+      ko: "자전거 거치대"
+    gender: m
+    notes:
+      en: "das Fahrrad abstellen = to park one's bike"
+      ko: "das Fahrrad abstellen = 자전거를 세워두다"
+  - german: "die Fußgängerampel, -n"
+    translation:
+      en: "pedestrian traffic light"
+      ko: "보행자 신호등"
+    gender: f
+    notes:
+      en: "das Ampelmännchen = iconic East German walk signal figure"
+      ko: "das Ampelmännchen = 동독의 상징적 보행자 신호 캐릭터"
+  - german: "die Mietwohnung, -en"
+    translation:
+      en: "rental apartment"
+      ko: "임대 아파트"
+    gender: f
+    notes:
+      en: "eine Mietwohnung suchen = to look for a rental"
+      ko: "eine Mietwohnung suchen = 임대 아파트를 찾다"
+  - german: "die Eigentumswohnung, -en"
+    translation:
+      en: "condominium / owned apartment"
+      ko: "자가 아파트"
+    gender: f
+    notes:
+      en: "eine Eigentumswohnung kaufen = to buy a condo"
+      ko: "eine Eigentumswohnung kaufen = 자가 아파트를 사다"
+  - german: "das Gewerbegebiet, -e"
+    translation:
+      en: "commercial area / industrial zone"
+      ko: "상업 지역"
+    gender: n
+    notes:
+      en: "das Industriegebiet = industrial area"
+      ko: "das Industriegebiet = 공업 지역"
+  - german: "die Kita, -s"
+    translation:
+      en: "daycare / kindergarten"
+      ko: "어린이집"
+    gender: f
+    notes:
+      en: "Short for Kindertagesstätte"
+      ko: "Kindertagesstätte의 줄임말"
+  - german: "der Wochenmarkt, -märkte"
+    translation:
+      en: "weekly market"
+      ko: "주간 시장"
+    gender: m
+    notes:
+      en: "frisches Obst und Gemüse vom Wochenmarkt"
+      ko: "주간 시장의 신선한 과일과 채소"
+  - german: "die Altbau-Wohnung, -en"
+    translation:
+      en: "old-building apartment"
+      ko: "구건물 아파트"
+    gender: f
+    notes:
+      en: "der Altbau = old building (pre-1949); high ceilings"
+      ko: "der Altbau = 구건물 (1949년 이전); 높은 천장"
+  - german: "der Neubau, -ten"
+    translation:
+      en: "new building"
+      ko: "신축 건물"
+    gender: m
+    notes:
+      en: "eine Neubauwohnung = apartment in a new building"
+      ko: "eine Neubauwohnung = 신축 아파트"
+
+- id: notdienste
+  label:
+    en: "Emergency Services (Notdienste)"
+    ko: "응급 서비스 (Notdienste)"
+  type: vocabulary
+  words:
+  - german: "der Notfall, Notfälle"
+    translation:
+      en: "emergency"
+      ko: "응급 상황"
+    gender: m
+    notes:
+      en: "im Notfall = in case of emergency"
+      ko: "im Notfall = 응급 시"
+  - german: "der Notruf, -e"
+    translation:
+      en: "emergency call"
+      ko: "긴급 전화"
+    gender: m
+    notes:
+      en: "die Notrufnummer = emergency number (112)"
+      ko: "die Notrufnummer = 긴급 전화번호 (112)"
+  - german: "die Feuerwehr, -en"
+    translation:
+      en: "fire department"
+      ko: "소방서"
+    gender: f
+    notes:
+      en: "die Feuerwehr rufen = to call the fire department (112)"
+      ko: "die Feuerwehr rufen = 소방서에 전화하다 (112)"
+  - german: "die Polizei"
+    translation:
+      en: "police"
+      ko: "경찰"
+    gender: f
+    notes:
+      en: "die Polizei rufen = to call the police (110)"
+      ko: "die Polizei rufen = 경찰에 전화하다 (110)"
+  - german: "der Rettungsdienst, -e"
+    translation:
+      en: "emergency medical service / ambulance service"
+      ko: "구급 서비스"
+    gender: m
+    notes:
+      en: "112 for medical emergencies"
+      ko: "의료 응급상황 시 112"
+  - german: "der Unfall, Unfälle"
+    translation:
+      en: "accident"
+      ko: "사고"
+    gender: m
+    notes:
+      en: "der Verkehrsunfall = traffic accident"
+      ko: "der Verkehrsunfall = 교통사고"
+  - german: "der Brand, Brände"
+    translation:
+      en: "fire (destructive)"
+      ko: "화재"
+    gender: m
+    notes:
+      en: "der Feuerlöscher = fire extinguisher"
+      ko: "der Feuerlöscher = 소화기"
+  - german: "Hilfe!"
+    translation:
+      en: "Help!"
+      ko: "도와주세요!"
+    gender: null
+    notes:
+      en: "um Hilfe rufen = to call for help"
+      ko: "um Hilfe rufen = 도움을 요청하다"
+  - german: "die Erste Hilfe"
+    translation:
+      en: "first aid"
+      ko: "응급처치"
+    gender: f
+    notes:
+      en: "der Erste-Hilfe-Kasten = first aid kit"
+      ko: "der Erste-Hilfe-Kasten = 응급처치 상자"
+  - german: "der Zeuge, -n"
+    translation:
+      en: "witness"
+      ko: "목격자"
+    gender: m
+    notes:
+      en: "die Zeugin = female witness"
+      ko: "die Zeugin = 여성 목격자"
+  - german: "die Anzeige, -n"
+    translation:
+      en: "police report"
+      ko: "신고 / 고소"
+    gender: f
+    notes:
+      en: "eine Anzeige erstatten = to file a police report"
+      ko: "eine Anzeige erstatten = 신고하다"
+  - german: "stehlen"
+    translation:
+      en: "to steal"
+      ko: "훔치다"
+    gender: null
+    notes:
+      en: "der Diebstahl = theft; der Dieb = thief"
+      ko: "der Diebstahl = 절도; der Dieb = 도둑"
+  - german: "der Notausgang, -ausgänge"
+    translation:
+      en: "emergency exit"
+      ko: "비상구"
+    gender: m
+    notes:
+      en: "Marked with green signs in buildings"
+      ko: "건물 내에 녹색 표지판으로 표시됨"
+  - german: "gefährlich"
+    translation:
+      en: "dangerous"
+      ko: "위험한"
+    gender: null
+    notes:
+      en: "die Gefahr = danger; Vorsicht! = Caution!"
+      ko: "die Gefahr = 위험; Vorsicht! = 주의!"
+  - german: "der Rettungswagen, -"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: m
+    notes:
+      en: "Short: der RTW; Notruf 112"
+      ko: "줄임말: der RTW; 긴급전화 112"
+  - german: "die Polizeiwache, -n"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: f
+    notes:
+      en: "zur Polizeiwache gehen = to go to the police station"
+      ko: "zur Polizeiwache gehen = 경찰서에 가다"
+  - german: "der Feuerwehrmann, -männer"
+    translation:
+      en: "firefighter"
+      ko: "소방관"
+    gender: m
+    notes:
+      en: "die Feuerwehrfrau = female firefighter"
+      ko: "die Feuerwehrfrau = 여성 소방관"
+  - german: "der Polizist, -en"
+    translation:
+      en: "police officer"
+      ko: "경찰관"
+    gender: m
+    notes:
+      en: "die Polizistin = female police officer"
+      ko: "die Polizistin = 여성 경찰관"
+  - german: "der Fluchtweg, -e"
+    translation:
+      en: "escape route"
+      ko: "대피로"
+    gender: m
+    notes:
+      en: "den Fluchtweg freihalten = to keep the escape route clear"
+      ko: "den Fluchtweg freihalten = 대피로를 열어두다"
+  - german: "die Sirene, -n"
+    translation:
+      en: "siren"
+      ko: "사이렌"
+    gender: f
+    notes:
+      en: "die Sirene heulen = the siren wails"
+      ko: "die Sirene heulen = 사이렌이 울리다"
+  - german: "der Rauchmelder, -"
+    translation:
+      en: "smoke detector"
+      ko: "화재 감지기"
+    gender: m
+    notes:
+      en: "Mandatory in German homes since 2017"
+      ko: "2017년부터 독일 가정에서 의무"
+
+- id: wohnen_und_infrastruktur
+  label:
+    en: "Living and Infrastructure (Wohnen/Infrastruktur)"
+    ko: "주거와 인프라 (Wohnen/Infrastruktur)"
+  type: vocabulary
+  words:
+  - german: "die Wohnung, -en"
+    translation:
+      en: "apartment / flat"
+      ko: "아파트 / 주거"
+    gender: f
+    notes:
+      en: "eine Wohnung mieten = to rent an apartment"
+      ko: "eine Wohnung mieten = 아파트를 임대하다"
+  - german: "das Haus, Häuser"
+    translation:
+      en: "house"
+      ko: "집"
+    gender: n
+    notes:
+      en: "das Einfamilienhaus = single-family house"
+      ko: "das Einfamilienhaus = 단독주택"
+  - german: "der Vermieter, -"
+    translation:
+      en: "landlord"
+      ko: "집주인"
+    gender: m
+    notes:
+      en: "die Vermieterin = female landlord"
+      ko: "die Vermieterin = 여성 집주인"
+  - german: "der Mieter, -"
+    translation:
+      en: "tenant"
+      ko: "세입자"
+    gender: m
+    notes:
+      en: "die Mieterin = female tenant"
+      ko: "die Mieterin = 여성 세입자"
+  - german: "die Nebenkosten (pl.)"
+    translation:
+      en: "utility costs / additional costs"
+      ko: "공과금 / 부대 비용"
+    gender: null
+    notes:
+      en: "Warmmiete = rent including utilities"
+      ko: "Warmmiete = 공과금 포함 임대료"
+  - german: "die Kaution, -en"
+    translation:
+      en: "deposit (rental)"
+      ko: "보증금"
+    gender: f
+    notes:
+      en: "Usually 2-3 months' rent"
+      ko: "보통 2-3개월 임대료"
+  - german: "die Hausverwaltung, -en"
+    translation:
+      en: "property management"
+      ko: "건물 관리"
+    gender: f
+    notes:
+      en: "der Hausmeister = caretaker/janitor"
+      ko: "der Hausmeister = 관리인"
+  - german: "der Mietvertrag, -verträge"
+    translation:
+      en: "rental contract / lease"
+      ko: "임대 계약서"
+    gender: m
+    notes:
+      en: "den Mietvertrag unterschreiben = to sign the lease"
+      ko: "den Mietvertrag unterschreiben = 임대 계약서에 서명하다"
+  - german: "die Straßenlaterne, -n"
+    translation:
+      en: "streetlight"
+      ko: "가로등"
+    gender: f
+    notes:
+      en: "unter der Straßenlaterne = under the streetlight"
+      ko: "unter der Straßenlaterne = 가로등 아래에"
+  - german: "der Gehweg, -e"
+    translation:
+      en: "sidewalk / footpath"
+      ko: "보도 / 인도"
+    gender: m
+    notes:
+      en: "auf dem Gehweg gehen = to walk on the sidewalk"
+      ko: "auf dem Gehweg gehen = 보도 위를 걷다"
+  - german: "die Bushaltestelle, -n"
+    translation:
+      en: "bus stop"
+      ko: "버스 정류장"
+    gender: f
+    notes:
+      en: "an der Bushaltestelle warten = to wait at the bus stop"
+      ko: "an der Bushaltestelle warten = 버스 정류장에서 기다리다"
+  - german: "der Briefkasten, Briefkästen"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: m
+    notes:
+      en: "den Briefkasten leeren = to empty the mailbox"
+      ko: "den Briefkasten leeren = 우편함을 비우다"
+  - german: "die Müllabfuhr"
+    translation:
+      en: "garbage collection"
+      ko: "쓰레기 수거"
+    gender: f
+    notes:
+      en: "die Müllabfuhr kommt montags = garbage pickup is on Mondays"
+      ko: "die Müllabfuhr kommt montags = 쓰레기 수거는 월요일"
+  - german: "der Container, -"
+    translation:
+      en: "recycling container / bin"
+      ko: "분리수거 컨테이너"
+    gender: m
+    notes:
+      en: "der Glascontainer = glass recycling container"
+      ko: "der Glascontainer = 유리 분리수거 컨테이너"
+  - german: "das Bürgeramt, Bürgerämter"
+    translation:
+      en: "citizens' office / registration office"
+      ko: "시민 사무소 / 주민센터"
+    gender: n
+    notes:
+      en: "Anmeldung beim Bürgeramt = registration at citizens' office"
+      ko: "Anmeldung beim Bürgeramt = 주민센터 등록"
+  - german: "die Ampelanlage, -n"
+    translation:
+      en: "traffic light system"
+      ko: "신호 시스템"
+    gender: f
+    notes:
+      en: "die Fußgängerampel = pedestrian crossing light"
+      ko: "die Fußgängerampel = 보행자 신호등"
+  - german: "die Unterführung, -en"
+    translation:
+      en: "underpass"
+      ko: "지하도"
+    gender: f
+    notes:
+      en: "die Fußgängerunterführung = pedestrian underpass"
+      ko: "die Fußgängerunterführung = 보행자 지하도"
+  - german: "die Überführung, -en"
+    translation:
+      en: "overpass / flyover"
+      ko: "고가도로"
+    gender: f
+    notes:
+      en: "die Fußgängerüberführung = pedestrian overpass"
+      ko: "die Fußgängerüberführung = 보행자 육교"
+  - german: "der Taxistand, -stände"
+    translation:
+      en: "taxi stand"
+      ko: "택시 승강장"
+    gender: m
+    notes:
+      en: "am Taxistand warten = to wait at the taxi stand"
+      ko: "am Taxistand warten = 택시 승강장에서 기다리다"
+  - german: "die Einfahrt, -en"
+    translation:
+      en: "driveway / entrance (for vehicles)"
+      ko: "진입로 / 차량 입구"
+    gender: f
+    notes:
+      en: "Einfahrt freihalten! = Keep driveway clear!"
+      ko: "Einfahrt freihalten! = 진입로를 비워주세요!"
+  - german: "die Umleitung, -en"
+    translation:
+      en: "detour / diversion"
+      ko: "우회로"
+    gender: f
+    notes:
+      en: "wegen Baustelle Umleitung = detour due to construction"
+      ko: "공사로 인한 우회 = wegen Baustelle Umleitung"
+  - german: "die Geschwindigkeitsbegrenzung, -en"
+    translation:
+      en: "speed limit"
+      ko: "속도 제한"
+    gender: f
+    notes:
+      en: "Tempo 30 = 30 km/h zone"
+      ko: "Tempo 30 = 30 km/h 구간"
+  - german: "der Zebrastreifen, -"
+    translation:
+      en: "crosswalk / zebra crossing"
+      ko: "횡단보도"
+    gender: m
+    notes:
+      en: "Pedestrians have right of way"
+      ko: "보행자 우선"
+  - german: "die Fußgängerzone, -n"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 전용 거리"
+    gender: f
+    notes:
+      en: "No cars allowed; shopping and walking area"
+      ko: "차량 통행 불가; 쇼핑과 산책 구역"
+  - german: "der Wohnblock, -blöcke"
+    translation:
+      en: "apartment block"
+      ko: "아파트 단지"
+    gender: m
+    notes:
+      en: "der Plattenbau = prefab apartment building (East Germany)"
+      ko: "der Plattenbau = 조립식 아파트 (동독)"
+  - german: "das Rathaus, Rathäuser"
+    translation:
+      en: "city hall / town hall"
+      ko: "시청"
+    gender: n
+    notes:
+      en: "das Standesamt = registry office (in Rathaus)"
+      ko: "das Standesamt = 혼인신고소 (시청 내)"

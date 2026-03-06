@@ -1,0 +1,1237 @@
+lesson: "sup_N2_Law_and_Justice"
+lesson_number: 164
+jlpt: N2
+type: supplementary
+topic: "Law and Justice"
+categories:
+- id: criminal_law
+  label:
+    en: "Criminal Law"
+    ko: "형법"
+  type: vocabulary
+  words:
+  - japanese: "犯罪"
+    reading: "はんざい"
+    translation:
+      en: "crime"
+      ko: "범죄"
+    gender: null
+    notes:
+      en: "犯罪者 = criminal"
+      ko: "犯罪者 = 범죄자"
+  - japanese: "殺人"
+    reading: "さつじん"
+    translation:
+      en: "murder, homicide"
+      ko: "살인"
+    gender: null
+    notes:
+      en: "殺人罪 = murder charge"
+      ko: "殺人罪 = 살인죄"
+  - japanese: "窃盗"
+    reading: "せっとう"
+    translation:
+      en: "theft, larceny"
+      ko: "절도"
+    gender: null
+    notes:
+      en: "窃盗罪 = theft charge"
+      ko: "窃盗罪 = 절도죄"
+  - japanese: "詐欺"
+    reading: "さぎ"
+    translation:
+      en: "fraud"
+      ko: "사기"
+    gender: null
+    notes:
+      en: "詐欺罪 = fraud charge"
+      ko: "詐欺罪 = 사기죄"
+  - japanese: "強盗"
+    reading: "ごうとう"
+    translation:
+      en: "robbery"
+      ko: "강도"
+    gender: null
+    notes:
+      en: "strong + steal"
+      ko: "강 + 훔치다"
+  - japanese: "暴行"
+    reading: "ぼうこう"
+    translation:
+      en: "assault"
+      ko: "폭행"
+    gender: null
+    notes:
+      en: "暴行罪 = assault charge"
+      ko: "暴行罪 = 폭행죄"
+  - japanese: "放火"
+    reading: "ほうか"
+    translation:
+      en: "arson"
+      ko: "방화"
+    gender: null
+    notes:
+      en: "放火罪 = arson charge"
+      ko: "放火罪 = 방화죄"
+  - japanese: "横領"
+    reading: "おうりょう"
+    translation:
+      en: "embezzlement"
+      ko: "횡령"
+    gender: null
+    notes:
+      en: "横領する = to embezzle"
+      ko: "横領する = 횡령하다"
+  - japanese: "贈賄"
+    reading: "ぞうわい"
+    translation:
+      en: "bribery (giving)"
+      ko: "증뢰"
+    gender: null
+    notes:
+      en: "give + bribe"
+      ko: "주다 + 뇌물"
+  - japanese: "収賄"
+    reading: "しゅうわい"
+    translation:
+      en: "bribery (receiving)"
+      ko: "수뢰"
+    gender: null
+    notes:
+      en: "receive + bribe"
+      ko: "받다 + 뇌물"
+  - japanese: "脅迫"
+    reading: "きょうはく"
+    translation:
+      en: "threat, intimidation"
+      ko: "협박"
+    gender: null
+    notes:
+      en: "脅迫する = to threaten"
+      ko: "脅迫する = 협박하다"
+  - japanese: "誘拐"
+    reading: "ゆうかい"
+    translation:
+      en: "kidnapping"
+      ko: "유괴"
+    gender: null
+    notes:
+      en: "誘拐する = to kidnap"
+      ko: "誘拐する = 유괴하다"
+  - japanese: "共犯"
+    reading: "きょうはん"
+    translation:
+      en: "accomplice"
+      ko: "공범"
+    gender: null
+    notes:
+      en: "共犯者 = accomplice (person)"
+      ko: "共犯者 = 공범자"
+  - japanese: "未遂"
+    reading: "みすい"
+    translation:
+      en: "attempted (crime)"
+      ko: "미수"
+    gender: null
+    notes:
+      en: "殺人未遂 = attempted murder"
+      ko: "殺人未遂 = 살인 미수"
+  - japanese: "前科"
+    reading: "ぜんか"
+    translation:
+      en: "criminal record"
+      ko: "전과"
+    gender: null
+    notes:
+      en: "前科がある = to have a criminal record"
+      ko: "前科がある = 전과가 있다"
+  - japanese: "容疑者"
+    reading: "ようぎしゃ"
+    translation:
+      en: "suspect"
+      ko: "용의자"
+    gender: null
+    notes:
+      en: "suspicion + person"
+      ko: "혐의 + 자"
+  - japanese: "被疑者"
+    reading: "ひぎしゃ"
+    translation:
+      en: "suspect (legal term)"
+      ko: "피의자"
+    gender: null
+    notes:
+      en: "receive + suspicion + person"
+      ko: "받다 + 혐의 + 자"
+  - japanese: "被告"
+    reading: "ひこく"
+    translation:
+      en: "defendant"
+      ko: "피고"
+    gender: null
+    notes:
+      en: "被告人 = defendant (person)"
+      ko: "被告人 = 피고인"
+  - japanese: "原告"
+    reading: "げんこく"
+    translation:
+      en: "plaintiff"
+      ko: "원고"
+    gender: null
+    notes:
+      en: "origin + accuse"
+      ko: "원 + 고발"
+  - japanese: "動機"
+    reading: "どうき"
+    translation:
+      en: "motive"
+      ko: "동기"
+    gender: null
+    notes:
+      en: "犯行の動機 = motive for the crime"
+      ko: "犯行の動機 = 범행 동기"
+  - japanese: "証拠"
+    reading: "しょうこ"
+    translation:
+      en: "evidence, proof"
+      ko: "증거"
+    gender: null
+    notes:
+      en: "証拠品 = piece of evidence"
+      ko: "証拠品 = 증거물"
+  - japanese: "自白"
+    reading: "じはく"
+    translation:
+      en: "confession"
+      ko: "자백"
+    gender: null
+    notes:
+      en: "自白する = to confess"
+      ko: "自白する = 자백하다"
+  - japanese: "冤罪"
+    reading: "えんざい"
+    translation:
+      en: "false accusation, wrongful conviction"
+      ko: "억울한 죄, 원죄"
+    gender: null
+    notes:
+      en: "injustice + crime"
+      ko: "억울함 + 죄"
+  - japanese: "累犯"
+    reading: "るいはん"
+    translation:
+      en: "repeat offense"
+      ko: "누범"
+    gender: null
+    notes:
+      en: "accumulate + crime"
+      ko: "누적 + 범"
+  - japanese: "再犯"
+    reading: "さいはん"
+    translation:
+      en: "recidivism"
+      ko: "재범"
+    gender: null
+    notes:
+      en: "再犯率 = recidivism rate"
+      ko: "再犯率 = 재범률"
+  - japanese: "現行犯"
+    reading: "げんこうはん"
+    translation:
+      en: "caught in the act"
+      ko: "현행범"
+    gender: null
+    notes:
+      en: "現行犯逮捕 = arrest in the act"
+      ko: "現行犯逮捕 = 현행범 체포"
+  - japanese: "逮捕"
+    reading: "たいほ"
+    translation:
+      en: "arrest"
+      ko: "체포"
+    gender: null
+    notes:
+      en: "逮捕する = to arrest"
+      ko: "逮捕する = 체포하다"
+  - japanese: "捜査"
+    reading: "そうさ"
+    translation:
+      en: "criminal investigation"
+      ko: "수사"
+    gender: null
+    notes:
+      en: "捜査する = to investigate"
+      ko: "捜査する = 수사하다"
+  - japanese: "起訴"
+    reading: "きそ"
+    translation:
+      en: "indictment, prosecution"
+      ko: "기소"
+    gender: null
+    notes:
+      en: "起訴する = to indict"
+      ko: "起訴する = 기소하다"
+  - japanese: "不起訴"
+    reading: "ふきそ"
+    translation:
+      en: "non-prosecution"
+      ko: "불기소"
+    gender: null
+    notes:
+      en: "不起訴処分 = decision not to prosecute"
+      ko: "不起訴処分 = 불기소 처분"
+  - japanese: "告訴"
+    reading: "こくそ"
+    translation:
+      en: "accusation, filing charges"
+      ko: "고소"
+    gender: null
+    notes:
+      en: "告訴する = to file charges"
+      ko: "告訴する = 고소하다"
+  - japanese: "黙秘権"
+    reading: "もくひけん"
+    translation:
+      en: "right to remain silent"
+      ko: "묵비권"
+    gender: null
+    notes:
+      en: "silence + right"
+      ko: "침묵 + 권리"
+  - japanese: "有罪"
+    reading: "ゆうざい"
+    translation:
+      en: "guilty"
+      ko: "유죄"
+    gender: null
+    notes:
+      en: "有罪判決 = guilty verdict"
+      ko: "有罪判決 = 유죄 판결"
+  - japanese: "無罪"
+    reading: "むざい"
+    translation:
+      en: "not guilty, innocent"
+      ko: "무죄"
+    gender: null
+    notes:
+      en: "無罪判決 = not guilty verdict"
+      ko: "無罪判決 = 무죄 판결"
+  - japanese: "罪"
+    reading: "つみ"
+    translation:
+      en: "crime, sin, guilt"
+      ko: "죄"
+    gender: null
+    notes:
+      en: "罪を犯す = to commit a crime"
+      ko: "罪を犯す = 죄를 짓다"
+  - japanese: "犯行"
+    reading: "はんこう"
+    translation:
+      en: "criminal act"
+      ko: "범행"
+    gender: null
+    notes:
+      en: "犯行現場 = crime scene"
+      ko: "犯行現場 = 범행 현장"
+  - japanese: "供述"
+    reading: "きょうじゅつ"
+    translation:
+      en: "testimony, statement"
+      ko: "공술"
+    gender: null
+    notes:
+      en: "供述する = to testify"
+      ko: "供述する = 공술하다"
+  - japanese: "拘留"
+    reading: "こうりゅう"
+    translation:
+      en: "detention"
+      ko: "구류"
+    gender: null
+    notes:
+      en: "拘留する = to detain"
+      ko: "拘留する = 구류하다"
+
+- id: civil_law
+  label:
+    en: "Civil Law"
+    ko: "민법"
+  type: vocabulary
+  words:
+  - japanese: "民事"
+    reading: "みんじ"
+    translation:
+      en: "civil (legal)"
+      ko: "민사"
+    gender: null
+    notes:
+      en: "民事訴訟 = civil lawsuit"
+      ko: "民事訴訟 = 민사 소송"
+  - japanese: "訴訟"
+    reading: "そしょう"
+    translation:
+      en: "lawsuit, litigation"
+      ko: "소송"
+    gender: null
+    notes:
+      en: "訴訟を起こす = to file a lawsuit"
+      ko: "訴訟を起こす = 소송을 제기하다"
+  - japanese: "契約"
+    reading: "けいやく"
+    translation:
+      en: "contract"
+      ko: "계약"
+    gender: null
+    notes:
+      en: "契約書 = written contract"
+      ko: "契約書 = 계약서"
+  - japanese: "賠償"
+    reading: "ばいしょう"
+    translation:
+      en: "compensation, reparation"
+      ko: "배상"
+    gender: null
+    notes:
+      en: "損害賠償 = damages"
+      ko: "損害賠償 = 손해 배상"
+  - japanese: "慰謝料"
+    reading: "いしゃりょう"
+    translation:
+      en: "consolation money, damages"
+      ko: "위자료"
+    gender: null
+    notes:
+      en: "comfort + fee"
+      ko: "위로 + 료"
+  - japanese: "相続"
+    reading: "そうぞく"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: null
+    notes:
+      en: "相続する = to inherit"
+      ko: "相続する = 상속하다"
+  - japanese: "遺言"
+    reading: "ゆいごん"
+    translation:
+      en: "will, testament"
+      ko: "유언"
+    gender: null
+    notes:
+      en: "遺言書 = written will"
+      ko: "遺言書 = 유언장"
+  - japanese: "離婚"
+    reading: "りこん"
+    translation:
+      en: "divorce"
+      ko: "이혼"
+    gender: null
+    notes:
+      en: "離婚する = to divorce"
+      ko: "離婚する = 이혼하다"
+  - japanese: "親権"
+    reading: "しんけん"
+    translation:
+      en: "parental authority, custody"
+      ko: "친권"
+    gender: null
+    notes:
+      en: "親権者 = custodial parent"
+      ko: "親権者 = 친권자"
+  - japanese: "養育費"
+    reading: "よういくひ"
+    translation:
+      en: "child support"
+      ko: "양육비"
+    gender: null
+    notes:
+      en: "nurture + expense"
+      ko: "양육 + 비용"
+  - japanese: "所有権"
+    reading: "しょゆうけん"
+    translation:
+      en: "ownership right"
+      ko: "소유권"
+    gender: null
+    notes:
+      en: "possess + right"
+      ko: "소유 + 권"
+  - japanese: "不動産"
+    reading: "ふどうさん"
+    translation:
+      en: "real estate"
+      ko: "부동산"
+    gender: null
+    notes:
+      en: "immovable + property"
+      ko: "부동 + 산"
+  - japanese: "債務"
+    reading: "さいむ"
+    translation:
+      en: "debt, obligation"
+      ko: "채무"
+    gender: null
+    notes:
+      en: "債務者 = debtor"
+      ko: "債務者 = 채무자"
+  - japanese: "債権"
+    reading: "さいけん"
+    translation:
+      en: "credit, claim"
+      ko: "채권"
+    gender: null
+    notes:
+      en: "債権者 = creditor"
+      ko: "債権者 = 채권자"
+  - japanese: "和解"
+    reading: "わかい"
+    translation:
+      en: "settlement, reconciliation"
+      ko: "화해"
+    gender: null
+    notes:
+      en: "和解する = to settle/reconcile"
+      ko: "和解する = 화해하다"
+  - japanese: "調停"
+    reading: "ちょうてい"
+    translation:
+      en: "mediation"
+      ko: "조정"
+    gender: null
+    notes:
+      en: "調停する = to mediate"
+      ko: "調停する = 조정하다"
+  - japanese: "過失"
+    reading: "かしつ"
+    translation:
+      en: "negligence, fault"
+      ko: "과실"
+    gender: null
+    notes:
+      en: "過失致死 = negligent homicide"
+      ko: "過失致死 = 과실치사"
+  - japanese: "不法行為"
+    reading: "ふほうこうい"
+    translation:
+      en: "tort, illegal act"
+      ko: "불법 행위"
+    gender: null
+    notes:
+      en: "unlawful + act"
+      ko: "불법 + 행위"
+  - japanese: "損害"
+    reading: "そんがい"
+    translation:
+      en: "damage, loss"
+      ko: "손해"
+    gender: null
+    notes:
+      en: "損害を被る = to suffer damage"
+      ko: "損害を被る = 손해를 입다"
+  - japanese: "請求"
+    reading: "せいきゅう"
+    translation:
+      en: "claim, demand"
+      ko: "청구"
+    gender: null
+    notes:
+      en: "請求する = to claim/demand"
+      ko: "請求する = 청구하다"
+  - japanese: "保証"
+    reading: "ほしょう"
+    translation:
+      en: "guarantee, warranty"
+      ko: "보증"
+    gender: null
+    notes:
+      en: "保証人 = guarantor"
+      ko: "保証人 = 보증인"
+  - japanese: "破産"
+    reading: "はさん"
+    translation:
+      en: "bankruptcy"
+      ko: "파산"
+    gender: null
+    notes:
+      en: "破産する = to go bankrupt"
+      ko: "破産する = 파산하다"
+  - japanese: "仲裁"
+    reading: "ちゅうさい"
+    translation:
+      en: "arbitration"
+      ko: "중재"
+    gender: null
+    notes:
+      en: "仲裁する = to arbitrate"
+      ko: "仲裁する = 중재하다"
+  - japanese: "特許権"
+    reading: "とっきょけん"
+    translation:
+      en: "patent right"
+      ko: "특허권"
+    gender: null
+    notes:
+      en: "patent + right"
+      ko: "특허 + 권"
+  - japanese: "著作権"
+    reading: "ちょさくけん"
+    translation:
+      en: "copyright"
+      ko: "저작권"
+    gender: null
+    notes:
+      en: "著作権侵害 = copyright infringement"
+      ko: "著作権侵害 = 저작권 침해"
+  - japanese: "商標"
+    reading: "しょうひょう"
+    translation:
+      en: "trademark"
+      ko: "상표"
+    gender: null
+    notes:
+      en: "商標権 = trademark right"
+      ko: "商標権 = 상표권"
+
+- id: human_rights
+  label:
+    en: "Human Rights"
+    ko: "인권"
+  type: vocabulary
+  words:
+  - japanese: "基本的人権"
+    reading: "きほんてきじんけん"
+    translation:
+      en: "fundamental human rights"
+      ko: "기본적 인권"
+    gender: null
+    notes:
+      en: "basic + human rights"
+      ko: "기본적 + 인권"
+  - japanese: "平等権"
+    reading: "びょうどうけん"
+    translation:
+      en: "right to equality"
+      ko: "평등권"
+    gender: null
+    notes:
+      en: "equality + right"
+      ko: "평등 + 권"
+  - japanese: "自由権"
+    reading: "じゆうけん"
+    translation:
+      en: "right to freedom"
+      ko: "자유권"
+    gender: null
+    notes:
+      en: "freedom + right"
+      ko: "자유 + 권"
+  - japanese: "表現の自由"
+    reading: "ひょうげんのじゆう"
+    translation:
+      en: "freedom of expression"
+      ko: "표현의 자유"
+    gender: null
+    notes:
+      en: "expression + freedom"
+      ko: "표현 + 자유"
+  - japanese: "信教の自由"
+    reading: "しんきょうのじゆう"
+    translation:
+      en: "freedom of religion"
+      ko: "신교의 자유"
+    gender: null
+    notes:
+      en: "faith + freedom"
+      ko: "신앙 + 자유"
+  - japanese: "差別"
+    reading: "さべつ"
+    translation:
+      en: "discrimination"
+      ko: "차별"
+    gender: null
+    notes:
+      en: "差別する = to discriminate"
+      ko: "差別する = 차별하다"
+  - japanese: "迫害"
+    reading: "はくがい"
+    translation:
+      en: "persecution"
+      ko: "박해"
+    gender: null
+    notes:
+      en: "迫害する = to persecute"
+      ko: "迫害する = 박해하다"
+  - japanese: "拷問"
+    reading: "ごうもん"
+    translation:
+      en: "torture"
+      ko: "고문"
+    gender: null
+    notes:
+      en: "拷問禁止 = prohibition of torture"
+      ko: "拷問禁止 = 고문 금지"
+  - japanese: "奴隷"
+    reading: "どれい"
+    translation:
+      en: "slavery, slave"
+      ko: "노예"
+    gender: null
+    notes:
+      en: "奴隷制 = slavery (system)"
+      ko: "奴隷制 = 노예제"
+  - japanese: "庇護"
+    reading: "ひご"
+    translation:
+      en: "asylum, protection"
+      ko: "비호"
+    gender: null
+    notes:
+      en: "庇護を求める = to seek asylum"
+      ko: "庇護を求める = 비호를 구하다"
+  - japanese: "侵害"
+    reading: "しんがい"
+    translation:
+      en: "infringement, violation"
+      ko: "침해"
+    gender: null
+    notes:
+      en: "人権侵害 = human rights violation"
+      ko: "人権侵害 = 인권 침해"
+  - japanese: "尊厳"
+    reading: "そんげん"
+    translation:
+      en: "dignity"
+      ko: "존엄"
+    gender: null
+    notes:
+      en: "人間の尊厳 = human dignity"
+      ko: "人間の尊厳 = 인간의 존엄"
+  - japanese: "生存権"
+    reading: "せいぞんけん"
+    translation:
+      en: "right to life"
+      ko: "생존권"
+    gender: null
+    notes:
+      en: "survival + right"
+      ko: "생존 + 권"
+  - japanese: "参政権"
+    reading: "さんせいけん"
+    translation:
+      en: "right to political participation"
+      ko: "참정권"
+    gender: null
+    notes:
+      en: "participate + politics + right"
+      ko: "참여 + 정치 + 권"
+  - japanese: "請願権"
+    reading: "せいがんけん"
+    translation:
+      en: "right to petition"
+      ko: "청원권"
+    gender: null
+    notes:
+      en: "petition + right"
+      ko: "청원 + 권"
+  - japanese: "社会権"
+    reading: "しゃかいけん"
+    translation:
+      en: "social rights"
+      ko: "사회권"
+    gender: null
+    notes:
+      en: "society + right"
+      ko: "사회 + 권"
+  - japanese: "教育を受ける権利"
+    reading: "きょういくをうけるけんり"
+    translation:
+      en: "right to education"
+      ko: "교육을 받을 권리"
+    gender: null
+    notes:
+      en: "education + receive + right"
+      ko: "교육 + 받다 + 권리"
+  - japanese: "知る権利"
+    reading: "しるけんり"
+    translation:
+      en: "right to know"
+      ko: "알 권리"
+    gender: null
+    notes:
+      en: "know + right"
+      ko: "알다 + 권리"
+  - japanese: "少数派"
+    reading: "しょうすうは"
+    translation:
+      en: "minority"
+      ko: "소수파"
+    gender: null
+    notes:
+      en: "few + faction"
+      ko: "소수 + 파"
+  - japanese: "弱者"
+    reading: "じゃくしゃ"
+    translation:
+      en: "vulnerable person"
+      ko: "약자"
+    gender: null
+    notes:
+      en: "社会的弱者 = socially vulnerable"
+      ko: "社会的弱者 = 사회적 약자"
+  - japanese: "偏見"
+    reading: "へんけん"
+    translation:
+      en: "prejudice, bias"
+      ko: "편견"
+    gender: null
+    notes:
+      en: "biased + view"
+      ko: "치우친 + 견해"
+  - japanese: "抑圧"
+    reading: "よくあつ"
+    translation:
+      en: "oppression"
+      ko: "억압"
+    gender: null
+    notes:
+      en: "抑圧する = to oppress"
+      ko: "抑圧する = 억압하다"
+
+- id: legal_procedures
+  label:
+    en: "Legal Procedures"
+    ko: "법적 절차"
+  type: vocabulary
+  words:
+  - japanese: "裁判"
+    reading: "さいばん"
+    translation:
+      en: "trial, court case"
+      ko: "재판"
+    gender: null
+    notes:
+      en: "裁判所 = court"
+      ko: "裁判所 = 재판소, 법원"
+  - japanese: "裁判官"
+    reading: "さいばんかん"
+    translation:
+      en: "judge"
+      ko: "재판관"
+    gender: null
+    notes:
+      en: "trial + official"
+      ko: "재판 + 관"
+  - japanese: "検察官"
+    reading: "けんさつかん"
+    translation:
+      en: "prosecutor"
+      ko: "검찰관"
+    gender: null
+    notes:
+      en: "검사; 検察庁 = Prosecutor's Office"
+      ko: "검사; 検察庁 = 검찰청"
+  - japanese: "弁護士"
+    reading: "べんごし"
+    translation:
+      en: "lawyer, attorney"
+      ko: "변호사"
+    gender: null
+    notes:
+      en: "defense + person"
+      ko: "변호 + 사"
+  - japanese: "陪審員"
+    reading: "ばいしんいん"
+    translation:
+      en: "juror"
+      ko: "배심원"
+    gender: null
+    notes:
+      en: "陪審制 = jury system"
+      ko: "陪審制 = 배심제"
+  - japanese: "裁判員"
+    reading: "さいばんいん"
+    translation:
+      en: "lay judge"
+      ko: "재판원"
+    gender: null
+    notes:
+      en: "裁判員制度 = lay judge system (Japan)"
+      ko: "裁判員制度 = 재판원 제도 (일본)"
+  - japanese: "証人"
+    reading: "しょうにん"
+    translation:
+      en: "witness"
+      ko: "증인"
+    gender: null
+    notes:
+      en: "証人尋問 = witness examination"
+      ko: "証人尋問 = 증인 심문"
+  - japanese: "証言"
+    reading: "しょうげん"
+    translation:
+      en: "testimony"
+      ko: "증언"
+    gender: null
+    notes:
+      en: "証言する = to testify"
+      ko: "証言する = 증언하다"
+  - japanese: "判決"
+    reading: "はんけつ"
+    translation:
+      en: "judgment, verdict"
+      ko: "판결"
+    gender: null
+    notes:
+      en: "判決を下す = to hand down a verdict"
+      ko: "判決を下す = 판결을 내리다"
+  - japanese: "控訴"
+    reading: "こうそ"
+    translation:
+      en: "appeal (to higher court)"
+      ko: "항소"
+    gender: null
+    notes:
+      en: "控訴する = to appeal"
+      ko: "控訴する = 항소하다"
+  - japanese: "上告"
+    reading: "じょうこく"
+    translation:
+      en: "appeal to supreme court"
+      ko: "상고"
+    gender: null
+    notes:
+      en: "上告する = to appeal to the highest court"
+      ko: "上告する = 상고하다"
+  - japanese: "審理"
+    reading: "しんり"
+    translation:
+      en: "hearing, trial"
+      ko: "심리"
+    gender: null
+    notes:
+      en: "審理する = to hear (a case)"
+      ko: "審理する = 심리하다"
+  - japanese: "令状"
+    reading: "れいじょう"
+    translation:
+      en: "warrant"
+      ko: "영장"
+    gender: null
+    notes:
+      en: "逮捕令状 = arrest warrant"
+      ko: "逮捕令状 = 체포 영장"
+  - japanese: "法廷"
+    reading: "ほうてい"
+    translation:
+      en: "courtroom"
+      ko: "법정"
+    gender: null
+    notes:
+      en: "法廷闘争 = courtroom battle"
+      ko: "法廷闘争 = 법정 투쟁"
+  - japanese: "尋問"
+    reading: "じんもん"
+    translation:
+      en: "interrogation, examination"
+      ko: "심문"
+    gender: null
+    notes:
+      en: "尋問する = to interrogate"
+      ko: "尋問する = 심문하다"
+  - japanese: "弁論"
+    reading: "べんろん"
+    translation:
+      en: "argument, pleading"
+      ko: "변론"
+    gender: null
+    notes:
+      en: "口頭弁論 = oral argument"
+      ko: "口頭弁論 = 구두 변론"
+  - japanese: "判例"
+    reading: "はんれい"
+    translation:
+      en: "legal precedent"
+      ko: "판례"
+    gender: null
+    notes:
+      en: "判 + example"
+      ko: "판 + 례"
+  - japanese: "法律"
+    reading: "ほうりつ"
+    translation:
+      en: "law, statute"
+      ko: "법률"
+    gender: null
+    notes:
+      en: "法律を守る = to obey the law"
+      ko: "法律を守る = 법률을 지키다"
+  - japanese: "条例"
+    reading: "じょうれい"
+    translation:
+      en: "ordinance"
+      ko: "조례"
+    gender: null
+    notes:
+      en: "local government regulation"
+      ko: "지방 자치 단체의 규정"
+  - japanese: "施行令"
+    reading: "しこうれい"
+    translation:
+      en: "enforcement order"
+      ko: "시행령"
+    gender: null
+    notes:
+      en: "enforcement + decree"
+      ko: "시행 + 령"
+  - japanese: "公判"
+    reading: "こうはん"
+    translation:
+      en: "public trial"
+      ko: "공판"
+    gender: null
+    notes:
+      en: "public + trial"
+      ko: "공 + 판"
+  - japanese: "求刑"
+    reading: "きゅうけい"
+    translation:
+      en: "sentencing demand"
+      ko: "구형"
+    gender: null
+    notes:
+      en: "求刑する = to demand a sentence"
+      ko: "求刑する = 구형하다"
+
+- id: punishment
+  label:
+    en: "Punishment"
+    ko: "처벌"
+  type: vocabulary
+  words:
+  - japanese: "刑罰"
+    reading: "けいばつ"
+    translation:
+      en: "punishment, penalty"
+      ko: "형벌"
+    gender: null
+    notes:
+      en: "punishment + penalty"
+      ko: "형 + 벌"
+  - japanese: "死刑"
+    reading: "しけい"
+    translation:
+      en: "death penalty"
+      ko: "사형"
+    gender: null
+    notes:
+      en: "死刑制度 = death penalty system"
+      ko: "死刑制度 = 사형 제도"
+  - japanese: "終身刑"
+    reading: "しゅうしんけい"
+    translation:
+      en: "life imprisonment"
+      ko: "종신형"
+    gender: null
+    notes:
+      en: "lifetime + punishment"
+      ko: "종신 + 형"
+  - japanese: "懲役"
+    reading: "ちょうえき"
+    translation:
+      en: "imprisonment with labor"
+      ko: "징역"
+    gender: null
+    notes:
+      en: "懲役五年 = five years imprisonment"
+      ko: "懲役五年 = 징역 5년"
+  - japanese: "禁固"
+    reading: "きんこ"
+    translation:
+      en: "imprisonment (without labor)"
+      ko: "금고"
+    gender: null
+    notes:
+      en: "confinement without forced labor"
+      ko: "강제 노동 없는 구금"
+  - japanese: "罰金"
+    reading: "ばっきん"
+    translation:
+      en: "fine (penalty)"
+      ko: "벌금"
+    gender: null
+    notes:
+      en: "punishment + money"
+      ko: "벌 + 금"
+  - japanese: "執行猶予"
+    reading: "しっこうゆうよ"
+    translation:
+      en: "suspended sentence"
+      ko: "집행 유예"
+    gender: null
+    notes:
+      en: "execution + postponement"
+      ko: "집행 + 유예"
+  - japanese: "仮釈放"
+    reading: "かりしゃくほう"
+    translation:
+      en: "parole"
+      ko: "가석방"
+    gender: null
+    notes:
+      en: "temporary + release"
+      ko: "임시 + 석방"
+  - japanese: "保釈"
+    reading: "ほしゃく"
+    translation:
+      en: "bail"
+      ko: "보석"
+    gender: null
+    notes:
+      en: "保釈金 = bail money"
+      ko: "保釈金 = 보석금"
+  - japanese: "刑務所"
+    reading: "けいむしょ"
+    translation:
+      en: "prison"
+      ko: "형무소, 교도소"
+    gender: null
+    notes:
+      en: "punishment + duty + place"
+      ko: "형 + 무 + 소"
+  - japanese: "拘置所"
+    reading: "こうちしょ"
+    translation:
+      en: "detention center"
+      ko: "구치소"
+    gender: null
+    notes:
+      en: "detain + place"
+      ko: "구치 + 소"
+  - japanese: "更生"
+    reading: "こうせい"
+    translation:
+      en: "rehabilitation"
+      ko: "갱생"
+    gender: null
+    notes:
+      en: "更生する = to rehabilitate"
+      ko: "更生する = 갱생하다"
+  - japanese: "矯正"
+    reading: "きょうせい"
+    translation:
+      en: "correction, reform"
+      ko: "교정"
+    gender: null
+    notes:
+      en: "矯正施設 = correctional facility"
+      ko: "矯正施設 = 교정 시설"
+  - japanese: "恩赦"
+    reading: "おんしゃ"
+    translation:
+      en: "amnesty, pardon"
+      ko: "은사, 사면"
+    gender: null
+    notes:
+      en: "grace + pardon"
+      ko: "은혜 + 사면"
+  - japanese: "釈放"
+    reading: "しゃくほう"
+    translation:
+      en: "release"
+      ko: "석방"
+    gender: null
+    notes:
+      en: "釈放する = to release"
+      ko: "釈放する = 석방하다"
+  - japanese: "量刑"
+    reading: "りょうけい"
+    translation:
+      en: "sentencing"
+      ko: "양형"
+    gender: null
+    notes:
+      en: "量刑基準 = sentencing guidelines"
+      ko: "量刑基準 = 양형 기준"
+  - japanese: "減刑"
+    reading: "げんけい"
+    translation:
+      en: "commutation, reduction of sentence"
+      ko: "감형"
+    gender: null
+    notes:
+      en: "減刑する = to commute/reduce"
+      ko: "減刑する = 감형하다"
+  - japanese: "没収"
+    reading: "ぼっしゅう"
+    translation:
+      en: "confiscation"
+      ko: "몰수"
+    gender: null
+    notes:
+      en: "没収する = to confiscate"
+      ko: "没収する = 몰수하다"
+  - japanese: "科料"
+    reading: "かりょう"
+    translation:
+      en: "petty fine"
+      ko: "과료"
+    gender: null
+    notes:
+      en: "minor penalty (less than 罰金)"
+      ko: "경미한 벌금 (罰金보다 적은)"
+  - japanese: "追放"
+    reading: "ついほう"
+    translation:
+      en: "banishment, expulsion"
+      ko: "추방"
+    gender: null
+    notes:
+      en: "追放する = to banish/expel"
+      ko: "追放する = 추방하다"
+  - japanese: "時効"
+    reading: "じこう"
+    translation:
+      en: "statute of limitations"
+      ko: "시효"
+    gender: null
+    notes:
+      en: "時効が成立する = statute of limitations expires"
+      ko: "時効が成立する = 시효가 성립하다"
+  - japanese: "前歴"
+    reading: "ぜんれき"
+    translation:
+      en: "prior record"
+      ko: "전력"
+    gender: null
+    notes:
+      en: "previous + history"
+      ko: "이전 + 이력"
+  - japanese: "服役"
+    reading: "ふくえき"
+    translation:
+      en: "serving a prison sentence"
+      ko: "복역"
+    gender: null
+    notes:
+      en: "服役する = to serve time"
+      ko: "服役する = 복역하다"
+  - japanese: "出所"
+    reading: "しゅっしょ"
+    translation:
+      en: "release from prison"
+      ko: "출소"
+    gender: null
+    notes:
+      en: "出所する = to be released from prison"
+      ko: "出所する = 출소하다"
+  - japanese: "社会復帰"
+    reading: "しゃかいふっき"
+    translation:
+      en: "social reintegration"
+      ko: "사회 복귀"
+    gender: null
+    notes:
+      en: "society + return"
+      ko: "사회 + 복귀"

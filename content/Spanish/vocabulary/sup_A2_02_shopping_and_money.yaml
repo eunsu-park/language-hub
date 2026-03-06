@@ -1,0 +1,1013 @@
+lesson: "sup_A2_Shopping_and_Money"
+lesson_number: 122
+cefr: A2
+type: supplementary
+topic: "Shopping and Money"
+categories:
+- id: stores_and_shops
+  label:
+    en: "Stores and Shops"
+    ko: "상점"
+  type: vocabulary
+  words:
+  - spanish: "la tienda"
+    translation:
+      en: "store / shop"
+      ko: "가게"
+    gender: f
+  - spanish: "el supermercado"
+    translation:
+      en: "supermarket"
+      ko: "슈퍼마켓"
+    gender: m
+  - spanish: "el centro comercial"
+    translation:
+      en: "shopping mall"
+      ko: "쇼핑몰"
+    gender: m
+  - spanish: "el mercado"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: m
+  - spanish: "la panadería"
+    translation:
+      en: "bakery"
+      ko: "빵집"
+    gender: f
+  - spanish: "la carnicería"
+    translation:
+      en: "butcher shop"
+      ko: "정육점"
+    gender: f
+  - spanish: "la pescadería"
+    translation:
+      en: "fish market"
+      ko: "생선 가게"
+    gender: f
+  - spanish: "la frutería"
+    translation:
+      en: "fruit shop"
+      ko: "과일 가게"
+    gender: f
+  - spanish: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+  - spanish: "la librería"
+    translation:
+      en: "bookstore"
+      ko: "서점"
+    gender: f
+    notes:
+      en: "False friend: not library (= la biblioteca)"
+      ko: "혼동 주의: 도서관(la biblioteca)이 아님"
+  - spanish: "la papelería"
+    translation:
+      en: "stationery shop"
+      ko: "문구점"
+    gender: f
+  - spanish: "la joyería"
+    translation:
+      en: "jewelry store"
+      ko: "보석 가게"
+    gender: f
+  - spanish: "la zapatería"
+    translation:
+      en: "shoe store"
+      ko: "신발 가게"
+    gender: f
+  - spanish: "la tienda de ropa"
+    translation:
+      en: "clothing store"
+      ko: "옷 가게"
+    gender: f
+  - spanish: "la ferretería"
+    translation:
+      en: "hardware store"
+      ko: "철물점"
+    gender: f
+  - spanish: "la floristería"
+    translation:
+      en: "flower shop"
+      ko: "꽃집"
+    gender: f
+  - spanish: "la peluquería"
+    translation:
+      en: "hair salon"
+      ko: "미용실"
+    gender: f
+  - spanish: "el quiosco"
+    translation:
+      en: "kiosk / newsstand"
+      ko: "키오스크 / 매점"
+    gender: m
+  - spanish: "la tintorería"
+    translation:
+      en: "dry cleaner"
+      ko: "세탁소"
+    gender: f
+  - spanish: "el vendedor"
+    translation:
+      en: "salesperson"
+      ko: "판매원"
+    gender: m
+    notes:
+      en: "la vendedora for female"
+      ko: "여성형은 la vendedora"
+  - spanish: "el dependiente"
+    translation:
+      en: "shop assistant"
+      ko: "점원"
+    gender: m
+  - spanish: "el cliente"
+    translation:
+      en: "customer"
+      ko: "고객"
+    gender: m
+    notes:
+      en: "la clienta for female"
+      ko: "여성형은 la clienta"
+  - spanish: "el escaparate"
+    translation:
+      en: "shop window / display"
+      ko: "쇼윈도 / 진열대"
+    gender: m
+  - spanish: "el mostrador"
+    translation:
+      en: "counter"
+      ko: "계산대 / 카운터"
+    gender: m
+  - spanish: "la caja"
+    translation:
+      en: "checkout / cash register"
+      ko: "계산대"
+    gender: f
+    notes:
+      en: "Also means box"
+      ko: "상자라는 뜻도 있음"
+  - spanish: "el probador"
+    translation:
+      en: "fitting room"
+      ko: "탈의실"
+    gender: m
+  - spanish: "la bolsa"
+    translation:
+      en: "bag"
+      ko: "봉투 / 가방"
+    gender: f
+  - spanish: "el recibo"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: m
+  - spanish: "la garantía"
+    translation:
+      en: "warranty / guarantee"
+      ko: "보증"
+    gender: f
+  - spanish: "abierto"
+    translation:
+      en: "open"
+      ko: "열려 있는 / 영업 중인"
+    gender: null
+  - spanish: "cerrado"
+    translation:
+      en: "closed"
+      ko: "닫혀 있는 / 영업 종료"
+    gender: null
+  - spanish: "el horario"
+    translation:
+      en: "schedule / opening hours"
+      ko: "영업시간 / 일정"
+    gender: m
+- id: money_and_payment
+  label:
+    en: "Money and Payment"
+    ko: "돈과 결제"
+  type: vocabulary
+  words:
+  - spanish: "el dinero"
+    translation:
+      en: "money"
+      ko: "돈"
+    gender: m
+  - spanish: "el efectivo"
+    translation:
+      en: "cash"
+      ko: "현금"
+    gender: m
+  - spanish: "la tarjeta de crédito"
+    translation:
+      en: "credit card"
+      ko: "신용카드"
+    gender: f
+  - spanish: "la tarjeta de débito"
+    translation:
+      en: "debit card"
+      ko: "직불카드"
+    gender: f
+  - spanish: "la cuenta"
+    translation:
+      en: "bill / account"
+      ko: "계산서 / 계좌"
+    gender: f
+  - spanish: "la factura"
+    translation:
+      en: "invoice"
+      ko: "청구서 / 송장"
+    gender: f
+  - spanish: "el cambio"
+    translation:
+      en: "change (money)"
+      ko: "거스름돈"
+    gender: m
+  - spanish: "la moneda"
+    translation:
+      en: "coin / currency"
+      ko: "동전 / 화폐"
+    gender: f
+  - spanish: "el billete"
+    translation:
+      en: "banknote"
+      ko: "지폐"
+    gender: m
+    notes:
+      en: "Also means ticket (transport)"
+      ko: "교통편 티켓이라는 뜻도 있음"
+  - spanish: "el euro"
+    translation:
+      en: "euro"
+      ko: "유로"
+    gender: m
+  - spanish: "el dólar"
+    translation:
+      en: "dollar"
+      ko: "달러"
+    gender: m
+  - spanish: "el peso"
+    translation:
+      en: "peso"
+      ko: "페소"
+    gender: m
+    notes:
+      en: "Currency of Mexico, Colombia, Argentina, etc."
+      ko: "멕시코, 콜롬비아, 아르헨티나 등의 화폐"
+  - spanish: "el cajero automático"
+    translation:
+      en: "ATM"
+      ko: "현금 인출기"
+    gender: m
+  - spanish: "el banco"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: m
+  - spanish: "la transferencia"
+    translation:
+      en: "transfer"
+      ko: "이체 / 송금"
+    gender: f
+  - spanish: "el presupuesto"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: m
+  - spanish: "ahorrar"
+    translation:
+      en: "to save (money)"
+      ko: "저축하다"
+    gender: null
+  - spanish: "los ahorros"
+    translation:
+      en: "savings"
+      ko: "저축"
+    gender: m
+  - spanish: "gastar"
+    translation:
+      en: "to spend"
+      ko: "쓰다 / 지출하다"
+    gender: null
+  - spanish: "deber"
+    translation:
+      en: "to owe"
+      ko: "빚지다"
+    gender: null
+  - spanish: "la deuda"
+    translation:
+      en: "debt"
+      ko: "빚 / 부채"
+    gender: f
+  - spanish: "el impuesto"
+    translation:
+      en: "tax"
+      ko: "세금"
+    gender: m
+  - spanish: "el IVA"
+    translation:
+      en: "VAT (sales tax)"
+      ko: "부가가치세"
+    gender: m
+    notes:
+      en: "Impuesto sobre el Valor Añadido"
+      ko: "Impuesto sobre el Valor Añadido의 약자"
+  - spanish: "la propina"
+    translation:
+      en: "tip / gratuity"
+      ko: "팁"
+    gender: f
+  - spanish: "pagar"
+    translation:
+      en: "to pay"
+      ko: "지불하다"
+    gender: null
+  - spanish: "cobrar"
+    translation:
+      en: "to charge / to collect payment"
+      ko: "청구하다 / 받다"
+    gender: null
+  - spanish: "gratis"
+    translation:
+      en: "free (no cost)"
+      ko: "무료의"
+    gender: null
+- id: shopping_verbs
+  label:
+    en: "Shopping Verbs and Actions"
+    ko: "쇼핑 동사 및 행동"
+  type: vocabulary
+  words:
+  - spanish: "comprar"
+    translation:
+      en: "to buy"
+      ko: "사다"
+    gender: null
+  - spanish: "vender"
+    translation:
+      en: "to sell"
+      ko: "팔다"
+    gender: null
+  - spanish: "probarse"
+    translation:
+      en: "to try on"
+      ko: "입어 보다"
+    gender: null
+  - spanish: "devolver"
+    translation:
+      en: "to return (an item)"
+      ko: "반품하다"
+    gender: null
+  - spanish: "cambiar"
+    translation:
+      en: "to exchange / to change"
+      ko: "교환하다 / 바꾸다"
+    gender: null
+  - spanish: "elegir"
+    translation:
+      en: "to choose"
+      ko: "고르다 / 선택하다"
+    gender: null
+  - spanish: "buscar"
+    translation:
+      en: "to look for"
+      ko: "찾다"
+    gender: null
+  - spanish: "encontrar"
+    translation:
+      en: "to find"
+      ko: "찾다 / 발견하다"
+    gender: null
+  - spanish: "regatear"
+    translation:
+      en: "to haggle / to bargain"
+      ko: "흥정하다"
+    gender: null
+    notes:
+      en: "Common in open-air markets"
+      ko: "야외 시장에서 흔히 사용"
+  - spanish: "envolver"
+    translation:
+      en: "to wrap"
+      ko: "포장하다"
+    gender: null
+  - spanish: "la oferta"
+    translation:
+      en: "offer / deal"
+      ko: "할인 행사 / 제안"
+    gender: f
+  - spanish: "la rebaja"
+    translation:
+      en: "sale / discount"
+      ko: "세일 / 할인"
+    gender: f
+  - spanish: "las rebajas"
+    translation:
+      en: "sales (seasonal)"
+      ko: "시즌 세일"
+    gender: f
+  - spanish: "el descuento"
+    translation:
+      en: "discount"
+      ko: "할인"
+    gender: m
+  - spanish: "el precio"
+    translation:
+      en: "price"
+      ko: "가격"
+    gender: m
+  - spanish: "barato"
+    translation:
+      en: "cheap"
+      ko: "싼"
+    gender: null
+  - spanish: "caro"
+    translation:
+      en: "expensive"
+      ko: "비싼"
+    gender: null
+  - spanish: "¿Cuánto cuesta?"
+    translation:
+      en: "How much does it cost?"
+      ko: "얼마예요?"
+    gender: null
+  - spanish: "¿Cuánto cuestan?"
+    translation:
+      en: "How much do they cost?"
+      ko: "(복수) 얼마예요?"
+    gender: null
+  - spanish: "costar"
+    translation:
+      en: "to cost"
+      ko: "~의 값이다"
+    gender: null
+    notes:
+      en: "Stem-changing: o→ue (cuesta, cuestan)"
+      ko: "어간 변화: o→ue (cuesta, cuestan)"
+  - spanish: "la ganga"
+    translation:
+      en: "bargain"
+      ko: "특가 / 횡재"
+    gender: f
+  - spanish: "la lista de compras"
+    translation:
+      en: "shopping list"
+      ko: "쇼핑 목록"
+    gender: f
+  - spanish: "ir de compras"
+    translation:
+      en: "to go shopping"
+      ko: "쇼핑하러 가다"
+    gender: null
+  - spanish: "la etiqueta"
+    translation:
+      en: "tag / label"
+      ko: "태그 / 라벨"
+    gender: f
+  - spanish: "el código de barras"
+    translation:
+      en: "barcode"
+      ko: "바코드"
+    gender: m
+- id: sizes_and_quantities
+  label:
+    en: "Sizes and Quantities"
+    ko: "사이즈와 수량"
+  type: vocabulary
+  words:
+  - spanish: "la talla"
+    translation:
+      en: "size (clothing)"
+      ko: "사이즈 (의류)"
+    gender: f
+  - spanish: "pequeño"
+    translation:
+      en: "small"
+      ko: "작은"
+    gender: null
+  - spanish: "mediano"
+    translation:
+      en: "medium"
+      ko: "중간의"
+    gender: null
+  - spanish: "grande"
+    translation:
+      en: "large"
+      ko: "큰"
+    gender: null
+  - spanish: "extra grande"
+    translation:
+      en: "extra large"
+      ko: "특대"
+    gender: null
+  - spanish: "el número"
+    translation:
+      en: "size (shoes)"
+      ko: "사이즈 (신발)"
+    gender: m
+  - spanish: "estrecho"
+    translation:
+      en: "tight / narrow"
+      ko: "좁은 / 꽉 끼는"
+    gender: null
+  - spanish: "ancho"
+    translation:
+      en: "wide / loose"
+      ko: "넓은 / 헐렁한"
+    gender: null
+  - spanish: "largo"
+    translation:
+      en: "long"
+      ko: "긴"
+    gender: null
+  - spanish: "corto"
+    translation:
+      en: "short"
+      ko: "짧은"
+    gender: null
+  - spanish: "el kilo"
+    translation:
+      en: "kilogram"
+      ko: "킬로그램"
+    gender: m
+  - spanish: "el gramo"
+    translation:
+      en: "gram"
+      ko: "그램"
+    gender: m
+  - spanish: "el litro"
+    translation:
+      en: "liter"
+      ko: "리터"
+    gender: m
+  - spanish: "medio kilo"
+    translation:
+      en: "half a kilogram"
+      ko: "반 킬로그램"
+    gender: null
+  - spanish: "un cuarto de"
+    translation:
+      en: "a quarter of"
+      ko: "4분의 1"
+    gender: null
+  - spanish: "una docena"
+    translation:
+      en: "a dozen"
+      ko: "한 다스 (12개)"
+    gender: f
+  - spanish: "el paquete"
+    translation:
+      en: "package"
+      ko: "포장 / 패키지"
+    gender: m
+  - spanish: "la botella"
+    translation:
+      en: "bottle"
+      ko: "병"
+    gender: f
+  - spanish: "la lata"
+    translation:
+      en: "can / tin"
+      ko: "캔"
+    gender: f
+  - spanish: "el trozo"
+    translation:
+      en: "piece / chunk"
+      ko: "조각"
+    gender: m
+  - spanish: "la cesta"
+    translation:
+      en: "basket"
+      ko: "바구니"
+    gender: f
+  - spanish: "el carrito"
+    translation:
+      en: "shopping cart"
+      ko: "쇼핑 카트"
+    gender: m
+  - spanish: "suficiente"
+    translation:
+      en: "enough"
+      ko: "충분한"
+    gender: null
+  - spanish: "demasiado"
+    translation:
+      en: "too much"
+      ko: "너무 많은"
+    gender: null
+- id: online_shopping
+  label:
+    en: "Online Shopping"
+    ko: "온라인 쇼핑"
+  type: vocabulary
+  words:
+  - spanish: "la tienda en línea"
+    translation:
+      en: "online store"
+      ko: "온라인 쇼핑몰"
+    gender: f
+  - spanish: "el carrito de compras"
+    translation:
+      en: "shopping cart (online)"
+      ko: "장바구니 (온라인)"
+    gender: m
+  - spanish: "el pedido"
+    translation:
+      en: "order"
+      ko: "주문"
+    gender: m
+  - spanish: "pedir"
+    translation:
+      en: "to order"
+      ko: "주문하다"
+    gender: null
+  - spanish: "el envío"
+    translation:
+      en: "shipping / delivery"
+      ko: "배송"
+    gender: m
+  - spanish: "el envío gratis"
+    translation:
+      en: "free shipping"
+      ko: "무료 배송"
+    gender: m
+  - spanish: "la entrega"
+    translation:
+      en: "delivery"
+      ko: "배달"
+    gender: f
+  - spanish: "el plazo de entrega"
+    translation:
+      en: "delivery time"
+      ko: "배송 기간"
+    gender: m
+  - spanish: "la devolución"
+    translation:
+      en: "return (of product)"
+      ko: "반품"
+    gender: f
+  - spanish: "el reembolso"
+    translation:
+      en: "refund"
+      ko: "환불"
+    gender: m
+  - spanish: "la contraseña"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: f
+  - spanish: "la cuenta"
+    translation:
+      en: "account"
+      ko: "계정"
+    gender: f
+  - spanish: "el carrito vacío"
+    translation:
+      en: "empty cart"
+      ko: "빈 장바구니"
+    gender: m
+  - spanish: "añadir al carrito"
+    translation:
+      en: "add to cart"
+      ko: "장바구니에 담기"
+    gender: null
+  - spanish: "la reseña"
+    translation:
+      en: "review"
+      ko: "리뷰 / 후기"
+    gender: f
+  - spanish: "la valoración"
+    translation:
+      en: "rating"
+      ko: "평점"
+    gender: f
+  - spanish: "el cupón"
+    translation:
+      en: "coupon"
+      ko: "쿠폰"
+    gender: m
+  - spanish: "el código de descuento"
+    translation:
+      en: "discount code"
+      ko: "할인 코드"
+    gender: m
+  - spanish: "la pasarela de pago"
+    translation:
+      en: "payment gateway"
+      ko: "결제 시스템"
+    gender: f
+  - spanish: "confirmar"
+    translation:
+      en: "to confirm"
+      ko: "확인하다"
+    gender: null
+  - spanish: "el seguimiento"
+    translation:
+      en: "tracking"
+      ko: "추적 / 배송 조회"
+    gender: m
+  - spanish: "el número de seguimiento"
+    translation:
+      en: "tracking number"
+      ko: "운송장 번호"
+    gender: m
+  - spanish: "disponible"
+    translation:
+      en: "available"
+      ko: "재고 있는 / 이용 가능한"
+    gender: null
+  - spanish: "agotado"
+    translation:
+      en: "sold out / out of stock"
+      ko: "품절된"
+    gender: null
+  - spanish: "la oferta del día"
+    translation:
+      en: "deal of the day"
+      ko: "오늘의 특가"
+    gender: f
+  - spanish: "la aplicación"
+    translation:
+      en: "app / application"
+      ko: "앱 / 어플리케이션"
+    gender: f
+  - spanish: "descargar"
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+  - spanish: "el pago móvil"
+    translation:
+      en: "mobile payment"
+      ko: "모바일 결제"
+    gender: m
+  - spanish: "la suscripción"
+    translation:
+      en: "subscription"
+      ko: "구독"
+    gender: f
+  - spanish: "cancelar el pedido"
+    translation:
+      en: "to cancel the order"
+      ko: "주문을 취소하다"
+    gender: null
+  - spanish: "el comparador de precios"
+    translation:
+      en: "price comparison site"
+      ko: "가격 비교 사이트"
+    gender: m
+  - spanish: "el producto"
+    translation:
+      en: "product"
+      ko: "제품"
+    gender: m
+  - spanish: "la marca"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: f
+  - spanish: "la calidad"
+    translation:
+      en: "quality"
+      ko: "품질"
+    gender: f
+  - spanish: "de segunda mano"
+    translation:
+      en: "second-hand / used"
+      ko: "중고의"
+    gender: null
+  - spanish: "nuevo"
+    translation:
+      en: "new"
+      ko: "새로운"
+    gender: null
+  - spanish: "la talla única"
+    translation:
+      en: "one size fits all"
+      ko: "프리사이즈"
+    gender: f
+  - spanish: "el catálogo"
+    translation:
+      en: "catalog"
+      ko: "카탈로그"
+    gender: m
+  - spanish: "la oferta especial"
+    translation:
+      en: "special offer"
+      ko: "특가"
+    gender: f
+  - spanish: "el precio final"
+    translation:
+      en: "final price"
+      ko: "최종 가격"
+    gender: m
+  - spanish: "la devolución del dinero"
+    translation:
+      en: "money back"
+      ko: "환불"
+    gender: f
+  - spanish: "la tarjeta regalo"
+    translation:
+      en: "gift card"
+      ko: "기프트 카드"
+    gender: f
+  - spanish: "el punto de recogida"
+    translation:
+      en: "pickup point"
+      ko: "픽업 장소"
+    gender: m
+  - spanish: "la política de devoluciones"
+    translation:
+      en: "return policy"
+      ko: "반품 정책"
+    gender: f
+  - spanish: "la compra"
+    translation:
+      en: "purchase"
+      ko: "구매"
+    gender: f
+  - spanish: "la venta"
+    translation:
+      en: "sale"
+      ko: "판매"
+    gender: f
+  - spanish: "el total"
+    translation:
+      en: "total"
+      ko: "합계"
+    gender: m
+  - spanish: "el subtotal"
+    translation:
+      en: "subtotal"
+      ko: "소계"
+    gender: m
+  - spanish: "incluido"
+    translation:
+      en: "included"
+      ko: "포함된"
+    gender: null
+  - spanish: "la cesta de la compra"
+    translation:
+      en: "shopping basket"
+      ko: "장바구니"
+    gender: f
+  - spanish: "el gasto"
+    translation:
+      en: "expense"
+      ko: "지출 / 비용"
+    gender: m
+  - spanish: "la hipoteca"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: f
+  - spanish: "el préstamo"
+    translation:
+      en: "loan"
+      ko: "대출"
+    gender: m
+  - spanish: "la nómina"
+    translation:
+      en: "payroll / salary"
+      ko: "급여"
+    gender: f
+  - spanish: "el sueldo"
+    translation:
+      en: "salary / wage"
+      ko: "월급"
+    gender: m
+  - spanish: "el cheque"
+    translation:
+      en: "check / cheque"
+      ko: "수표"
+    gender: m
+  - spanish: "la moneda extranjera"
+    translation:
+      en: "foreign currency"
+      ko: "외화"
+    gender: f
+  - spanish: "invertir"
+    translation:
+      en: "to invest"
+      ko: "투자하다"
+    gender: null
+  - spanish: "la inversión"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: f
+  - spanish: "el recargo"
+    translation:
+      en: "surcharge"
+      ko: "추가 요금"
+    gender: m
+  - spanish: "el interés"
+    translation:
+      en: "interest (financial)"
+      ko: "이자"
+    gender: m
+  - spanish: "financiar"
+    translation:
+      en: "to finance"
+      ko: "할부하다 / 금융하다"
+    gender: null
+  - spanish: "a plazos"
+    translation:
+      en: "in installments"
+      ko: "할부로"
+    gender: null
+  - spanish: "al contado"
+    translation:
+      en: "in cash / lump sum"
+      ko: "일시불로"
+    gender: null
+  - spanish: "el descubierto"
+    translation:
+      en: "overdraft"
+      ko: "당좌 대월"
+    gender: m
+  - spanish: "la comisión"
+    translation:
+      en: "commission / fee"
+      ko: "수수료"
+    gender: f
+  - spanish: "el ingreso"
+    translation:
+      en: "income / deposit"
+      ko: "수입 / 입금"
+    gender: m
+  - spanish: "retirar dinero"
+    translation:
+      en: "to withdraw money"
+      ko: "돈을 인출하다"
+    gender: null
+  - spanish: "ingresar dinero"
+    translation:
+      en: "to deposit money"
+      ko: "돈을 입금하다"
+    gender: null
+  - spanish: "el extracto bancario"
+    translation:
+      en: "bank statement"
+      ko: "은행 명세서"
+    gender: m
+  - spanish: "la banca en línea"
+    translation:
+      en: "online banking"
+      ko: "온라인 뱅킹"
+    gender: f
+  - spanish: "el pago"
+    translation:
+      en: "payment"
+      ko: "결제"
+    gender: m
+  - spanish: "pagar en efectivo"
+    translation:
+      en: "to pay in cash"
+      ko: "현금으로 지불하다"
+    gender: null
+  - spanish: "pagar con tarjeta"
+    translation:
+      en: "to pay by card"
+      ko: "카드로 지불하다"
+    gender: null
+  - spanish: "sin contacto"
+    translation:
+      en: "contactless"
+      ko: "비접촉식"
+    gender: null
+  - spanish: "el pin"
+    translation:
+      en: "PIN number"
+      ko: "비밀번호 (카드)"
+    gender: m
+  - spanish: "firmar"
+    translation:
+      en: "to sign"
+      ko: "서명하다"
+    gender: null
+  - spanish: "la firma"
+    translation:
+      en: "signature"
+      ko: "서명"
+    gender: f
+  - spanish: "la caja fuerte"
+    translation:
+      en: "safe / vault"
+      ko: "금고"
+    gender: f
+  - spanish: "asequible"
+    translation:
+      en: "affordable"
+      ko: "저렴한 / 알맞은"
+    gender: null
+  - spanish: "lujoso"
+    translation:
+      en: "luxurious"
+      ko: "고급의"
+    gender: null
+  - spanish: "la liquidación"
+    translation:
+      en: "clearance sale"
+      ko: "재고 정리 세일"
+    gender: f

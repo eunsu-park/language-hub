@@ -1,0 +1,1097 @@
+lesson: "sup_C1_Linguistics_and_Language"
+lesson_number: 185
+cefr: C1
+type: supplementary
+topic: "Linguistics and Language"
+categories:
+- id: phonology
+  label:
+    en: "Phonology"
+    ko: "음운론"
+  type: vocabulary
+  words:
+  - spanish: "la fonología"
+    translation:
+      en: "phonology"
+      ko: "음운론"
+    gender: f
+  - spanish: "la fonética"
+    translation:
+      en: "phonetics"
+      ko: "음성학"
+    gender: f
+  - spanish: "el fonema"
+    translation:
+      en: "phoneme"
+      ko: "음소"
+    gender: m
+  - spanish: "el alófono"
+    translation:
+      en: "allophone"
+      ko: "이음"
+    gender: m
+    notes:
+      en: "A variant pronunciation of a phoneme"
+      ko: "음소의 변이 발음"
+  - spanish: "la sílaba"
+    translation:
+      en: "syllable"
+      ko: "음절"
+    gender: f
+  - spanish: "el acento prosódico"
+    translation:
+      en: "prosodic accent / stress"
+      ko: "강세"
+    gender: m
+  - spanish: "la entonación"
+    translation:
+      en: "intonation"
+      ko: "억양"
+    gender: f
+  - spanish: "el tono"
+    translation:
+      en: "tone"
+      ko: "성조"
+    gender: m
+  - spanish: "la prosodia"
+    translation:
+      en: "prosody"
+      ko: "운율"
+    gender: f
+  - spanish: "el par mínimo"
+    translation:
+      en: "minimal pair"
+      ko: "최소 대립쌍"
+    gender: m
+    notes:
+      en: "Two words differing by only one phoneme (e.g., 'casa' vs 'cosa')"
+      ko: "하나의 음소만 다른 두 단어 (예: 'casa' vs 'cosa')"
+  - spanish: "la vocal"
+    translation:
+      en: "vowel"
+      ko: "모음"
+    gender: f
+  - spanish: "la consonante"
+    translation:
+      en: "consonant"
+      ko: "자음"
+    gender: f
+  - spanish: "la consonante oclusiva"
+    translation:
+      en: "plosive / stop consonant"
+      ko: "파열음"
+    gender: f
+  - spanish: "la consonante fricativa"
+    translation:
+      en: "fricative consonant"
+      ko: "마찰음"
+    gender: f
+  - spanish: "la consonante nasal"
+    translation:
+      en: "nasal consonant"
+      ko: "비음"
+    gender: f
+  - spanish: "la consonante lateral"
+    translation:
+      en: "lateral consonant"
+      ko: "설측음"
+    gender: f
+  - spanish: "la consonante vibrante"
+    translation:
+      en: "trill / vibrant consonant"
+      ko: "전동음"
+    gender: f
+  - spanish: "el punto de articulación"
+    translation:
+      en: "place of articulation"
+      ko: "조음 위치"
+    gender: m
+  - spanish: "el modo de articulación"
+    translation:
+      en: "manner of articulation"
+      ko: "조음 방법"
+    gender: m
+  - spanish: "la sonoridad"
+    translation:
+      en: "voicing"
+      ko: "유성성"
+    gender: f
+  - spanish: "el dígrafo"
+    translation:
+      en: "digraph"
+      ko: "이중 문자"
+    gender: m
+  - spanish: "el diptongo"
+    translation:
+      en: "diphthong"
+      ko: "이중 모음"
+    gender: m
+  - spanish: "el hiato"
+    translation:
+      en: "hiatus"
+      ko: "모음 충돌 / 열림"
+    gender: m
+  - spanish: "la asimilación"
+    translation:
+      en: "assimilation"
+      ko: "동화"
+    gender: f
+  - spanish: "la elisión"
+    translation:
+      en: "elision"
+      ko: "탈락 / 생략"
+    gender: f
+  - spanish: "la transcripción fonética"
+    translation:
+      en: "phonetic transcription"
+      ko: "음성 전사"
+    gender: f
+  - spanish: "el Alfabeto Fonético Internacional"
+    translation:
+      en: "International Phonetic Alphabet (IPA)"
+      ko: "국제 음성 기호"
+    gender: m
+  - spanish: "la cadena hablada"
+    translation:
+      en: "speech chain / connected speech"
+      ko: "연속 발화"
+    gender: f
+  - spanish: "el rasgo distintivo"
+    translation:
+      en: "distinctive feature"
+      ko: "변별 자질"
+    gender: m
+  - spanish: "la neutralización"
+    translation:
+      en: "neutralization"
+      ko: "중화"
+    gender: f
+    notes:
+      en: "Loss of a phonemic distinction in certain positions"
+      ko: "특정 위치에서 음소 구별이 사라지는 현상"
+  - spanish: "la palatización"
+    translation:
+      en: "palatalization"
+      ko: "구개음화"
+    gender: f
+  - spanish: "la aspiración"
+    translation:
+      en: "aspiration"
+      ko: "기음"
+    gender: f
+  - spanish: "el acento tónico"
+    translation:
+      en: "tonic accent / word stress"
+      ko: "강세 악센트"
+    gender: m
+  - spanish: "la palabra aguda"
+    translation:
+      en: "oxytone word (stress on last syllable)"
+      ko: "끝음절 강세 단어"
+    gender: f
+  - spanish: "la palabra llana"
+    translation:
+      en: "paroxytone word (stress on penultimate syllable)"
+      ko: "끝에서 두 번째 음절 강세 단어"
+    gender: f
+  - spanish: "la palabra esdrújula"
+    translation:
+      en: "proparoxytone word (stress on antepenultimate syllable)"
+      ko: "끝에서 세 번째 음절 강세 단어"
+    gender: f
+  - spanish: "articular"
+    translation:
+      en: "to articulate"
+      ko: "조음하다"
+    gender: null
+  - spanish: "la coarticulación"
+    translation:
+      en: "coarticulation"
+      ko: "공동 조음"
+    gender: f
+    notes:
+      en: "The overlap of articulation between adjacent sounds"
+      ko: "인접한 소리 사이의 조음 중첩"
+  - spanish: "la fonología suprasegmental"
+    translation:
+      en: "suprasegmental phonology"
+      ko: "초분절 음운론"
+    gender: f
+  - spanish: "el ritmo"
+    translation:
+      en: "rhythm (in speech)"
+      ko: "리듬"
+    gender: m
+  - spanish: "la isocronia"
+    translation:
+      en: "isochrony"
+      ko: "등시성"
+    gender: f
+    notes:
+      en: "The theory that speech has a rhythmic regularity"
+      ko: "발화가 리듬적 규칙성을 가진다는 이론"
+  - spanish: "el grupo fónico"
+    translation:
+      en: "phonological group / breath group"
+      ko: "음운 단위"
+    gender: m
+  - spanish: "la pausa"
+    translation:
+      en: "pause"
+      ko: "휴지"
+    gender: f
+  - spanish: "la juntura"
+    translation:
+      en: "juncture"
+      ko: "연접"
+    gender: f
+  - spanish: "la sinalefa"
+    translation:
+      en: "synalepha"
+      ko: "모음 축약"
+    gender: f
+    notes:
+      en: "Merging of vowels across word boundaries in connected speech"
+      ko: "연속 발화에서 단어 경계를 넘어 모음이 합쳐지는 현상"
+  - spanish: "el seseo"
+    translation:
+      en: "seseo"
+      ko: "세세오"
+    gender: m
+    notes:
+      en: "Pronunciation of 'c' (before e/i) and 'z' as /s/ instead of /θ/; standard in Latin America"
+      ko: "'c'(e/i 앞)와 'z'를 /θ/ 대신 /s/로 발음; 라틴아메리카 표준"
+  - spanish: "el ceceo"
+    translation:
+      en: "ceceo"
+      ko: "세세오"
+    gender: m
+    notes:
+      en: "Pronunciation of 's' as /θ/; found in parts of southern Spain"
+      ko: "'s'를 /θ/로 발음; 스페인 남부 일부 지역에서 발견"
+  - spanish: "el yeísmo"
+    translation:
+      en: "yeísmo"
+      ko: "예이스모"
+    gender: m
+    notes:
+      en: "Merging of 'll' and 'y' sounds; widespread in most Spanish dialects"
+      ko: "'ll'과 'y' 소리의 합류; 대부분의 스페인어 방언에서 일반적"
+- id: syntax_and_grammar
+  label:
+    en: "Syntax and Grammar"
+    ko: "통사론 및 문법"
+  type: vocabulary
+  words:
+  - spanish: "la sintaxis"
+    translation:
+      en: "syntax"
+      ko: "통사론"
+    gender: f
+  - spanish: "la morfología"
+    translation:
+      en: "morphology"
+      ko: "형태론"
+    gender: f
+  - spanish: "la morfosintaxis"
+    translation:
+      en: "morphosyntax"
+      ko: "형태 통사론"
+    gender: f
+  - spanish: "el morfema"
+    translation:
+      en: "morpheme"
+      ko: "형태소"
+    gender: m
+  - spanish: "el lexema"
+    translation:
+      en: "lexeme"
+      ko: "어휘소"
+    gender: m
+  - spanish: "el sufijo"
+    translation:
+      en: "suffix"
+      ko: "접미사"
+    gender: m
+  - spanish: "el prefijo"
+    translation:
+      en: "prefix"
+      ko: "접두사"
+    gender: m
+  - spanish: "el infijo"
+    translation:
+      en: "infix"
+      ko: "접요사"
+    gender: m
+  - spanish: "la raíz"
+    translation:
+      en: "root"
+      ko: "어근"
+    gender: f
+  - spanish: "la flexión"
+    translation:
+      en: "inflection"
+      ko: "굴절"
+    gender: f
+  - spanish: "la derivación"
+    translation:
+      en: "derivation"
+      ko: "파생"
+    gender: f
+  - spanish: "la composición"
+    translation:
+      en: "compounding"
+      ko: "합성"
+    gender: f
+  - spanish: "el sintagma nominal"
+    translation:
+      en: "noun phrase"
+      ko: "명사구"
+    gender: m
+  - spanish: "el sintagma verbal"
+    translation:
+      en: "verb phrase"
+      ko: "동사구"
+    gender: m
+  - spanish: "el sintagma preposicional"
+    translation:
+      en: "prepositional phrase"
+      ko: "전치사구"
+    gender: m
+  - spanish: "la oración subordinada"
+    translation:
+      en: "subordinate clause"
+      ko: "종속절"
+    gender: f
+  - spanish: "la oración principal"
+    translation:
+      en: "main clause"
+      ko: "주절"
+    gender: f
+  - spanish: "la concordancia"
+    translation:
+      en: "agreement / concord"
+      ko: "일치"
+    gender: f
+  - spanish: "la transitividad"
+    translation:
+      en: "transitivity"
+      ko: "타동성"
+    gender: f
+  - spanish: "la voz pasiva"
+    translation:
+      en: "passive voice"
+      ko: "수동태"
+    gender: f
+  - spanish: "la voz activa"
+    translation:
+      en: "active voice"
+      ko: "능동태"
+    gender: f
+  - spanish: "el complemento directo"
+    translation:
+      en: "direct object"
+      ko: "직접 목적어"
+    gender: m
+  - spanish: "el complemento indirecto"
+    translation:
+      en: "indirect object"
+      ko: "간접 목적어"
+    gender: m
+  - spanish: "el complemento circunstancial"
+    translation:
+      en: "adverbial complement"
+      ko: "부사적 보어"
+    gender: m
+  - spanish: "el predicado"
+    translation:
+      en: "predicate"
+      ko: "서술어"
+    gender: m
+  - spanish: "la oración copulativa"
+    translation:
+      en: "copular sentence"
+      ko: "계사문"
+    gender: f
+  - spanish: "la elipsis"
+    translation:
+      en: "ellipsis"
+      ko: "생략"
+    gender: f
+  - spanish: "la anáfora"
+    translation:
+      en: "anaphora"
+      ko: "전방 조응"
+    gender: f
+  - spanish: "la catáfora"
+    translation:
+      en: "cataphora"
+      ko: "후방 조응"
+    gender: f
+    notes:
+      en: "A reference that points forward in the text"
+      ko: "텍스트에서 뒤에 나오는 요소를 미리 가리키는 참조"
+  - spanish: "la topicalización"
+    translation:
+      en: "topicalization"
+      ko: "주제화"
+    gender: f
+  - spanish: "la gramática generativa"
+    translation:
+      en: "generative grammar"
+      ko: "생성 문법"
+    gender: f
+  - spanish: "la gramática funcional"
+    translation:
+      en: "functional grammar"
+      ko: "기능 문법"
+    gender: f
+  - spanish: "la gramática descriptiva"
+    translation:
+      en: "descriptive grammar"
+      ko: "기술 문법"
+    gender: f
+  - spanish: "la gramática prescriptiva"
+    translation:
+      en: "prescriptive grammar"
+      ko: "규범 문법"
+    gender: f
+  - spanish: "el árbol sintáctico"
+    translation:
+      en: "syntactic tree / parse tree"
+      ko: "구문 트리"
+    gender: m
+  - spanish: "la recursividad"
+    translation:
+      en: "recursion"
+      ko: "재귀성"
+    gender: f
+  - spanish: "la ambigüedad estructural"
+    translation:
+      en: "structural ambiguity"
+      ko: "구조적 중의성"
+    gender: f
+  - spanish: "la agramaticalidad"
+    translation:
+      en: "ungrammaticality"
+      ko: "비문법성"
+    gender: f
+  - spanish: "la oración compuesta"
+    translation:
+      en: "compound sentence"
+      ko: "복문"
+    gender: f
+  - spanish: "la yuxtaposición"
+    translation:
+      en: "juxtaposition / asyndeton"
+      ko: "병치"
+    gender: f
+- id: semantics
+  label:
+    en: "Semantics"
+    ko: "의미론"
+  type: vocabulary
+  words:
+  - spanish: "la semántica"
+    translation:
+      en: "semantics"
+      ko: "의미론"
+    gender: f
+  - spanish: "el significado"
+    translation:
+      en: "meaning"
+      ko: "의미"
+    gender: m
+  - spanish: "el significante"
+    translation:
+      en: "signifier"
+      ko: "기표"
+    gender: m
+  - spanish: "el significado denotativo"
+    translation:
+      en: "denotative meaning"
+      ko: "외연적 의미"
+    gender: m
+  - spanish: "el significado connotativo"
+    translation:
+      en: "connotative meaning"
+      ko: "내포적 의미"
+    gender: m
+  - spanish: "la polisemia"
+    translation:
+      en: "polysemy"
+      ko: "다의어"
+    gender: f
+  - spanish: "la homonimia"
+    translation:
+      en: "homonymy"
+      ko: "동음이의어"
+    gender: f
+  - spanish: "la sinonimia"
+    translation:
+      en: "synonymy"
+      ko: "동의어"
+    gender: f
+  - spanish: "la antonimia"
+    translation:
+      en: "antonymy"
+      ko: "반의어"
+    gender: f
+  - spanish: "la hiperonimia"
+    translation:
+      en: "hypernymy"
+      ko: "상위어"
+    gender: f
+    notes:
+      en: "A word whose meaning includes more specific words (e.g., 'animal' for 'dog')"
+      ko: "더 구체적인 단어를 포괄하는 의미의 단어 (예: '개'에 대한 '동물')"
+  - spanish: "la hiponimia"
+    translation:
+      en: "hyponymy"
+      ko: "하위어"
+    gender: f
+  - spanish: "el campo semántico"
+    translation:
+      en: "semantic field"
+      ko: "의미장"
+    gender: m
+  - spanish: "la ambigüedad léxica"
+    translation:
+      en: "lexical ambiguity"
+      ko: "어휘적 중의성"
+    gender: f
+  - spanish: "la metáfora"
+    translation:
+      en: "metaphor"
+      ko: "은유"
+    gender: f
+  - spanish: "la metonimia"
+    translation:
+      en: "metonymy"
+      ko: "환유"
+    gender: f
+  - spanish: "la sinécdoque"
+    translation:
+      en: "synecdoche"
+      ko: "제유"
+    gender: f
+    notes:
+      en: "A figure where a part represents the whole, or vice versa"
+      ko: "부분이 전체를 대표하거나 그 반대인 수사법"
+  - spanish: "la pragmática"
+    translation:
+      en: "pragmatics"
+      ko: "화용론"
+    gender: f
+  - spanish: "el acto de habla"
+    translation:
+      en: "speech act"
+      ko: "화행"
+    gender: m
+  - spanish: "la implicatura"
+    translation:
+      en: "implicature"
+      ko: "함축"
+    gender: f
+    notes:
+      en: "What is implied but not explicitly stated (Grice's concept)"
+      ko: "명시적으로 말하지 않지만 함축하는 것 (그라이스의 개념)"
+  - spanish: "la presuposición"
+    translation:
+      en: "presupposition"
+      ko: "전제"
+    gender: f
+  - spanish: "la deixis"
+    translation:
+      en: "deixis"
+      ko: "직시"
+    gender: f
+  - spanish: "el referente"
+    translation:
+      en: "referent"
+      ko: "지시대상"
+    gender: m
+  - spanish: "la referencia"
+    translation:
+      en: "reference"
+      ko: "지시"
+    gender: f
+  - spanish: "la isotopía"
+    translation:
+      en: "isotopy (semantic coherence)"
+      ko: "등위성"
+    gender: f
+  - spanish: "el eufemismo"
+    translation:
+      en: "euphemism"
+      ko: "완곡 표현"
+    gender: m
+  - spanish: "el disfemismo"
+    translation:
+      en: "dysphemism"
+      ko: "비어 / 격하 표현"
+    gender: m
+  - spanish: "la lexicología"
+    translation:
+      en: "lexicology"
+      ko: "어휘론"
+    gender: f
+  - spanish: "la lexicografía"
+    translation:
+      en: "lexicography"
+      ko: "사전 편찬학"
+    gender: f
+  - spanish: "el neologismo"
+    translation:
+      en: "neologism"
+      ko: "신조어"
+    gender: m
+  - spanish: "el arcaísmo"
+    translation:
+      en: "archaism"
+      ko: "고어"
+    gender: m
+  - spanish: "el calco semántico"
+    translation:
+      en: "semantic calque / loan translation"
+      ko: "의미 차용"
+    gender: m
+  - spanish: "el préstamo lingüístico"
+    translation:
+      en: "linguistic borrowing / loanword"
+      ko: "차용어"
+    gender: m
+  - spanish: "la colocación"
+    translation:
+      en: "collocation"
+      ko: "연어"
+    gender: f
+  - spanish: "la fraseología"
+    translation:
+      en: "phraseology"
+      ko: "관용구론"
+    gender: f
+  - spanish: "la onomatopeya"
+    translation:
+      en: "onomatopoeia"
+      ko: "의성어"
+    gender: f
+  - spanish: "la paronimia"
+    translation:
+      en: "paronymy"
+      ko: "유사어"
+    gender: f
+    notes:
+      en: "Words that are similar in form but different in meaning (e.g., 'actitud' vs 'aptitud')"
+      ko: "형태가 유사하지만 의미가 다른 단어 (예: 'actitud' vs 'aptitud')"
+  - spanish: "la ironía"
+    translation:
+      en: "irony (linguistic)"
+      ko: "아이러니"
+    gender: f
+  - spanish: "la litotes"
+    translation:
+      en: "litotes"
+      ko: "곡언법"
+    gender: f
+    notes:
+      en: "Understatement using double negation (e.g., 'no es mala idea' = 'it's a good idea')"
+      ko: "이중 부정을 이용한 완곡 표현 (예: 'no es mala idea' = '좋은 생각이다')"
+  - spanish: "la hipérbole"
+    translation:
+      en: "hyperbole"
+      ko: "과장법"
+    gender: f
+  - spanish: "el pleonasmo"
+    translation:
+      en: "pleonasm"
+      ko: "동어반복 / 잉여 표현"
+    gender: m
+  - spanish: "la perífrasis"
+    translation:
+      en: "periphrasis"
+      ko: "우회적 표현"
+    gender: f
+  - spanish: "el campo léxico"
+    translation:
+      en: "lexical field"
+      ko: "어휘장"
+    gender: m
+  - spanish: "la connotación"
+    translation:
+      en: "connotation"
+      ko: "함축"
+    gender: f
+  - spanish: "la denotación"
+    translation:
+      en: "denotation"
+      ko: "외연"
+    gender: f
+  - spanish: "la ambigüedad pragmática"
+    translation:
+      en: "pragmatic ambiguity"
+      ko: "화용적 중의성"
+    gender: f
+  - spanish: "el acto ilocutivo"
+    translation:
+      en: "illocutionary act"
+      ko: "발화 수반 행위"
+    gender: m
+  - spanish: "el acto perlocutivo"
+    translation:
+      en: "perlocutionary act"
+      ko: "발화 효과 행위"
+    gender: m
+    notes:
+      en: "The effect a speech act has on the listener"
+      ko: "화행이 청자에게 미치는 효과"
+- id: sociolinguistics
+  label:
+    en: "Sociolinguistics"
+    ko: "사회언어학"
+  type: vocabulary
+  words:
+  - spanish: "la sociolingüística"
+    translation:
+      en: "sociolinguistics"
+      ko: "사회언어학"
+    gender: f
+  - spanish: "el dialecto"
+    translation:
+      en: "dialect"
+      ko: "방언"
+    gender: m
+  - spanish: "el sociolecto"
+    translation:
+      en: "sociolect"
+      ko: "사회 방언"
+    gender: m
+    notes:
+      en: "A dialect associated with a particular social class or group"
+      ko: "특정 사회 계층이나 집단과 관련된 방언"
+  - spanish: "el idiolecto"
+    translation:
+      en: "idiolect"
+      ko: "개인어"
+    gender: m
+  - spanish: "el registro lingüístico"
+    translation:
+      en: "linguistic register"
+      ko: "언어 사용역"
+    gender: m
+  - spanish: "la variación lingüística"
+    translation:
+      en: "linguistic variation"
+      ko: "언어 변이"
+    gender: f
+  - spanish: "la variación diatópica"
+    translation:
+      en: "diatopic variation (regional)"
+      ko: "지역적 변이"
+    gender: f
+  - spanish: "la variación diastrática"
+    translation:
+      en: "diastratic variation (social)"
+      ko: "사회 계층적 변이"
+    gender: f
+  - spanish: "la variación diafásica"
+    translation:
+      en: "diaphasic variation (stylistic)"
+      ko: "문체적 변이"
+    gender: f
+  - spanish: "el bilingüismo"
+    translation:
+      en: "bilingualism"
+      ko: "이중 언어 사용"
+    gender: m
+  - spanish: "la diglosia"
+    translation:
+      en: "diglossia"
+      ko: "양층 언어"
+    gender: f
+    notes:
+      en: "A situation where two languages or dialects serve different social functions"
+      ko: "두 언어나 방언이 서로 다른 사회적 기능을 하는 상황"
+  - spanish: "el cambio de código"
+    translation:
+      en: "code-switching"
+      ko: "코드 전환"
+    gender: m
+  - spanish: "la lengua franca"
+    translation:
+      en: "lingua franca"
+      ko: "공통어"
+    gender: f
+  - spanish: "la lengua materna"
+    translation:
+      en: "mother tongue / first language"
+      ko: "모국어"
+    gender: f
+  - spanish: "la lengua vehicular"
+    translation:
+      en: "vehicular language"
+      ko: "매개 언어"
+    gender: f
+  - spanish: "el pidgin"
+    translation:
+      en: "pidgin"
+      ko: "피진어"
+    gender: m
+  - spanish: "el criollo"
+    translation:
+      en: "creole"
+      ko: "크리올어"
+    gender: m
+  - spanish: "la política lingüística"
+    translation:
+      en: "language policy"
+      ko: "언어 정책"
+    gender: f
+  - spanish: "la planificación lingüística"
+    translation:
+      en: "language planning"
+      ko: "언어 계획"
+    gender: f
+  - spanish: "la muerte de lenguas"
+    translation:
+      en: "language death"
+      ko: "언어 소멸"
+    gender: f
+  - spanish: "la revitalización lingüística"
+    translation:
+      en: "language revitalization"
+      ko: "언어 활성화"
+    gender: f
+  - spanish: "el prestigio lingüístico"
+    translation:
+      en: "linguistic prestige"
+      ko: "언어적 위세"
+    gender: m
+  - spanish: "la norma lingüística"
+    translation:
+      en: "linguistic norm"
+      ko: "언어 규범"
+    gender: f
+  - spanish: "la comunidad de habla"
+    translation:
+      en: "speech community"
+      ko: "언어 공동체"
+    gender: f
+  - spanish: "el contacto de lenguas"
+    translation:
+      en: "language contact"
+      ko: "언어 접촉"
+    gender: m
+  - spanish: "la interferencia lingüística"
+    translation:
+      en: "linguistic interference"
+      ko: "언어 간섭"
+    gender: f
+  - spanish: "el tabú lingüístico"
+    translation:
+      en: "linguistic taboo"
+      ko: "언어적 금기"
+    gender: m
+  - spanish: "el sexismo lingüístico"
+    translation:
+      en: "linguistic sexism"
+      ko: "언어적 성차별"
+    gender: m
+  - spanish: "el lenguaje inclusivo"
+    translation:
+      en: "inclusive language"
+      ko: "포용적 언어"
+    gender: m
+  - spanish: "la actitud lingüística"
+    translation:
+      en: "language attitude"
+      ko: "언어 태도"
+    gender: f
+  - spanish: "la cortesía lingüística"
+    translation:
+      en: "linguistic politeness"
+      ko: "언어적 공손"
+    gender: f
+- id: translation_theory
+  label:
+    en: "Translation Theory"
+    ko: "번역 이론"
+  type: vocabulary
+  words:
+  - spanish: "la traductología"
+    translation:
+      en: "translation studies"
+      ko: "번역학"
+    gender: f
+  - spanish: "la traducción literaria"
+    translation:
+      en: "literary translation"
+      ko: "문학 번역"
+    gender: f
+  - spanish: "la traducción técnica"
+    translation:
+      en: "technical translation"
+      ko: "기술 번역"
+    gender: f
+  - spanish: "la traducción jurada"
+    translation:
+      en: "sworn / certified translation"
+      ko: "공인 번역"
+    gender: f
+    notes:
+      en: "Legally valid translation by a certified translator"
+      ko: "공인 번역사에 의한 법적 효력이 있는 번역"
+  - spanish: "la interpretación simultánea"
+    translation:
+      en: "simultaneous interpreting"
+      ko: "동시 통역"
+    gender: f
+  - spanish: "la interpretación consecutiva"
+    translation:
+      en: "consecutive interpreting"
+      ko: "순차 통역"
+    gender: f
+  - spanish: "la localización"
+    translation:
+      en: "localization"
+      ko: "현지화"
+    gender: f
+  - spanish: "la equivalencia"
+    translation:
+      en: "equivalence"
+      ko: "등가"
+    gender: f
+  - spanish: "la equivalencia dinámica"
+    translation:
+      en: "dynamic equivalence"
+      ko: "역동적 등가"
+    gender: f
+    notes:
+      en: "Translation that produces the same effect as the original on its readers"
+      ko: "원문이 독자에게 미치는 효과와 같은 효과를 내는 번역"
+  - spanish: "la equivalencia formal"
+    translation:
+      en: "formal equivalence"
+      ko: "형식적 등가"
+    gender: f
+  - spanish: "la lengua de origen"
+    translation:
+      en: "source language"
+      ko: "원천 언어"
+    gender: f
+  - spanish: "la lengua meta"
+    translation:
+      en: "target language"
+      ko: "목표 언어"
+    gender: f
+  - spanish: "el texto de partida"
+    translation:
+      en: "source text"
+      ko: "원문"
+    gender: m
+  - spanish: "el texto meta"
+    translation:
+      en: "target text"
+      ko: "번역문"
+    gender: m
+  - spanish: "la fidelidad"
+    translation:
+      en: "fidelity / faithfulness"
+      ko: "충실성"
+    gender: f
+  - spanish: "la literalidad"
+    translation:
+      en: "literalness"
+      ko: "직역"
+    gender: f
+  - spanish: "la adaptación"
+    translation:
+      en: "adaptation"
+      ko: "번안"
+    gender: f
+  - spanish: "la transposición"
+    translation:
+      en: "transposition"
+      ko: "전이"
+    gender: f
+  - spanish: "la modulación"
+    translation:
+      en: "modulation"
+      ko: "변조"
+    gender: f
+    notes:
+      en: "Translation technique: changing the point of view while preserving meaning"
+      ko: "번역 기법: 의미를 보존하면서 관점을 변경"
+  - spanish: "el calco"
+    translation:
+      en: "calque / loan translation"
+      ko: "차용 번역"
+    gender: m
+  - spanish: "la intraducibilidad"
+    translation:
+      en: "untranslatability"
+      ko: "번역 불가능성"
+    gender: f
+  - spanish: "la pérdida en traducción"
+    translation:
+      en: "loss in translation"
+      ko: "번역 손실"
+    gender: f
+  - spanish: "la compensación"
+    translation:
+      en: "compensation (translation technique)"
+      ko: "보상 (번역 기법)"
+    gender: f
+  - spanish: "la memoria de traducción"
+    translation:
+      en: "translation memory"
+      ko: "번역 메모리"
+    gender: f
+  - spanish: "la traducción automática"
+    translation:
+      en: "machine translation"
+      ko: "기계 번역"
+    gender: f
+  - spanish: "la posedición"
+    translation:
+      en: "post-editing"
+      ko: "사후 편집"
+    gender: f
+  - spanish: "el glosario terminológico"
+    translation:
+      en: "terminological glossary"
+      ko: "용어 사전"
+    gender: m
+  - spanish: "el traductor"
+    translation:
+      en: "translator"
+      ko: "번역가"
+    gender: m
+    notes:
+      en: "la traductora for female"
+      ko: "여성형은 la traductora"
+  - spanish: "el intérprete"
+    translation:
+      en: "interpreter"
+      ko: "통역사"
+    gender: m
+  - spanish: "traducir"
+    translation:
+      en: "to translate"
+      ko: "번역하다"
+    gender: null
+  - spanish: "interpretar"
+    translation:
+      en: "to interpret"
+      ko: "통역하다"
+    gender: null
+  - spanish: "la interferencia en traducción"
+    translation:
+      en: "translation interference"
+      ko: "번역 간섭"
+    gender: f
+  - spanish: "el falso amigo"
+    translation:
+      en: "false friend (false cognate)"
+      ko: "거짓 동족어"
+    gender: m

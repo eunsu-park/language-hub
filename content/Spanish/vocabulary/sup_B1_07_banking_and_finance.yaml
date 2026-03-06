@@ -1,0 +1,1024 @@
+lesson: "sup_B1_Banking_and_Finance"
+lesson_number: 147
+cefr: B1
+type: supplementary
+topic: "Banking and Finance"
+categories:
+- id: bank_services
+  label:
+    en: "Bank Services"
+    ko: "은행 서비스"
+  type: vocabulary
+  words:
+  - spanish: "el banco"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: m
+  - spanish: "la sucursal"
+    translation:
+      en: "branch (bank)"
+      ko: "지점"
+    gender: f
+  - spanish: "la cuenta bancaria"
+    translation:
+      en: "bank account"
+      ko: "은행 계좌"
+    gender: f
+  - spanish: "la cuenta corriente"
+    translation:
+      en: "checking account"
+      ko: "당좌 계좌"
+    gender: f
+  - spanish: "la cuenta de ahorro"
+    translation:
+      en: "savings account"
+      ko: "저축 계좌"
+    gender: f
+  - spanish: "el cajero automático"
+    translation:
+      en: "ATM"
+      ko: "ATM / 현금 인출기"
+    gender: m
+  - spanish: "la tarjeta de crédito"
+    translation:
+      en: "credit card"
+      ko: "신용카드"
+    gender: f
+  - spanish: "la tarjeta de débito"
+    translation:
+      en: "debit card"
+      ko: "직불카드"
+    gender: f
+  - spanish: "el extracto bancario"
+    translation:
+      en: "bank statement"
+      ko: "은행 거래 내역서"
+    gender: m
+  - spanish: "la transferencia"
+    translation:
+      en: "transfer (money)"
+      ko: "이체 / 송금"
+    gender: f
+  - spanish: "el ingreso"
+    translation:
+      en: "deposit"
+      ko: "입금"
+    gender: m
+  - spanish: "la retirada"
+    translation:
+      en: "withdrawal"
+      ko: "출금"
+    gender: f
+    notes:
+      en: "Also: el retiro (Latin America)"
+      ko: "동의어: el retiro (라틴아메리카)"
+  - spanish: "el saldo"
+    translation:
+      en: "balance (account)"
+      ko: "잔고"
+    gender: m
+  - spanish: "la ventanilla"
+    translation:
+      en: "teller window"
+      ko: "은행 창구"
+    gender: f
+  - spanish: "el recibo"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: m
+  - spanish: "el cheque"
+    translation:
+      en: "check / cheque"
+      ko: "수표"
+    gender: m
+  - spanish: "la domiciliación"
+    translation:
+      en: "direct debit / automatic payment"
+      ko: "자동 이체"
+    gender: f
+  - spanish: "el número de cuenta"
+    translation:
+      en: "account number"
+      ko: "계좌 번호"
+    gender: m
+  - spanish: "el IBAN"
+    translation:
+      en: "IBAN (international account number)"
+      ko: "국제 계좌 번호"
+    gender: m
+  - spanish: "el PIN"
+    translation:
+      en: "PIN (number)"
+      ko: "비밀번호 (카드)"
+    gender: m
+  - spanish: "la banca en línea"
+    translation:
+      en: "online banking"
+      ko: "온라인 뱅킹"
+    gender: f
+    notes:
+      en: "Also: la banca electrónica"
+      ko: "동의어: la banca electrónica"
+  - spanish: "la comisión"
+    translation:
+      en: "fee / commission"
+      ko: "수수료"
+    gender: f
+  - spanish: "el tipo de interés"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: m
+    notes:
+      en: "Also: la tasa de interés (Latin America)"
+      ko: "동의어: la tasa de interés (라틴아메리카)"
+- id: money_management
+  label:
+    en: "Money Management"
+    ko: "자금 관리"
+  type: vocabulary
+  words:
+  - spanish: "el dinero"
+    translation:
+      en: "money"
+      ko: "돈"
+    gender: m
+  - spanish: "el efectivo"
+    translation:
+      en: "cash"
+      ko: "현금"
+    gender: m
+  - spanish: "el presupuesto"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: m
+  - spanish: "los ingresos"
+    translation:
+      en: "income"
+      ko: "수입"
+    gender: m
+  - spanish: "los gastos"
+    translation:
+      en: "expenses"
+      ko: "지출"
+    gender: m
+  - spanish: "el ahorro"
+    translation:
+      en: "savings"
+      ko: "저축"
+    gender: m
+  - spanish: "la deuda"
+    translation:
+      en: "debt"
+      ko: "빚"
+    gender: f
+  - spanish: "el préstamo"
+    translation:
+      en: "loan"
+      ko: "대출"
+    gender: m
+  - spanish: "la hipoteca"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: f
+  - spanish: "el interés"
+    translation:
+      en: "interest"
+      ko: "이자"
+    gender: m
+  - spanish: "la cuota"
+    translation:
+      en: "installment / monthly payment"
+      ko: "할부금 / 월 납입금"
+    gender: f
+  - spanish: "el plazo"
+    translation:
+      en: "term / deadline"
+      ko: "기간 / 기한"
+    gender: m
+  - spanish: "la factura"
+    translation:
+      en: "bill / invoice"
+      ko: "청구서 / 송장"
+    gender: f
+  - spanish: "el recargo"
+    translation:
+      en: "surcharge / late fee"
+      ko: "추가 요금 / 연체료"
+    gender: m
+  - spanish: "la multa"
+    translation:
+      en: "fine / penalty"
+      ko: "벌금"
+    gender: f
+  - spanish: "el impuesto"
+    translation:
+      en: "tax"
+      ko: "세금"
+    gender: m
+  - spanish: "el IVA"
+    translation:
+      en: "VAT (value-added tax)"
+      ko: "부가가치세"
+    gender: m
+    notes:
+      en: "Impuesto sobre el Valor Añadido"
+      ko: "Impuesto sobre el Valor Añadido의 약어"
+  - spanish: "la declaración de la renta"
+    translation:
+      en: "tax return"
+      ko: "소득세 신고"
+    gender: f
+  - spanish: "la moneda"
+    translation:
+      en: "coin / currency"
+      ko: "동전 / 화폐"
+    gender: f
+  - spanish: "el billete"
+    translation:
+      en: "banknote / bill"
+      ko: "지폐"
+    gender: m
+  - spanish: "el euro"
+    translation:
+      en: "euro"
+      ko: "유로"
+    gender: m
+  - spanish: "el tipo de cambio"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+  - spanish: "la inflación"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: f
+  - spanish: "la deflación"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: f
+- id: insurance
+  label:
+    en: "Insurance"
+    ko: "보험"
+  type: vocabulary
+  words:
+  - spanish: "el seguro"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: m
+  - spanish: "el seguro de vida"
+    translation:
+      en: "life insurance"
+      ko: "생명 보험"
+    gender: m
+  - spanish: "el seguro de salud"
+    translation:
+      en: "health insurance"
+      ko: "건강 보험"
+    gender: m
+  - spanish: "el seguro del coche"
+    translation:
+      en: "car insurance"
+      ko: "자동차 보험"
+    gender: m
+  - spanish: "el seguro de hogar"
+    translation:
+      en: "home insurance"
+      ko: "주택 보험"
+    gender: m
+  - spanish: "la póliza"
+    translation:
+      en: "policy (insurance)"
+      ko: "보험 증권"
+    gender: f
+  - spanish: "la prima"
+    translation:
+      en: "premium (insurance)"
+      ko: "보험료"
+    gender: f
+  - spanish: "la cobertura"
+    translation:
+      en: "coverage"
+      ko: "보장 범위"
+    gender: f
+  - spanish: "la reclamación"
+    translation:
+      en: "claim"
+      ko: "보험금 청구"
+    gender: f
+  - spanish: "el beneficiario"
+    translation:
+      en: "beneficiary"
+      ko: "수혜자"
+    gender: m
+    notes:
+      en: "la beneficiaria for female"
+      ko: "여성형은 la beneficiaria"
+  - spanish: "la indemnización"
+    translation:
+      en: "compensation / indemnity"
+      ko: "보상금"
+    gender: f
+  - spanish: "el siniestro"
+    translation:
+      en: "accident / incident (insurance)"
+      ko: "사고 (보험 용어)"
+    gender: m
+  - spanish: "el deducible"
+    translation:
+      en: "deductible"
+      ko: "자기 부담금"
+    gender: m
+    notes:
+      en: "In Spain: la franquicia"
+      ko: "스페인: la franquicia"
+  - spanish: "asegurar"
+    translation:
+      en: "to insure"
+      ko: "보험에 가입하다"
+    gender: null
+- id: investments
+  label:
+    en: "Investments"
+    ko: "투자"
+  type: vocabulary
+  words:
+  - spanish: "la inversión"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: f
+  - spanish: "el inversor"
+    translation:
+      en: "investor"
+      ko: "투자자"
+    gender: m
+    notes:
+      en: "la inversora for female"
+      ko: "여성형은 la inversora"
+  - spanish: "la bolsa"
+    translation:
+      en: "stock market"
+      ko: "주식 시장"
+    gender: f
+  - spanish: "las acciones"
+    translation:
+      en: "stocks / shares"
+      ko: "주식"
+    gender: f
+  - spanish: "el bono"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: m
+  - spanish: "el fondo de inversión"
+    translation:
+      en: "investment fund"
+      ko: "투자 펀드"
+    gender: m
+  - spanish: "la rentabilidad"
+    translation:
+      en: "profitability / return"
+      ko: "수익성"
+    gender: f
+  - spanish: "el riesgo"
+    translation:
+      en: "risk"
+      ko: "위험"
+    gender: m
+  - spanish: "el beneficio"
+    translation:
+      en: "profit / benefit"
+      ko: "이익"
+    gender: m
+  - spanish: "la pérdida"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: f
+  - spanish: "la ganancia"
+    translation:
+      en: "gain / earnings"
+      ko: "수익"
+    gender: f
+  - spanish: "la cartera de inversión"
+    translation:
+      en: "investment portfolio"
+      ko: "투자 포트폴리오"
+    gender: f
+  - spanish: "el dividendo"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: m
+  - spanish: "la criptomoneda"
+    translation:
+      en: "cryptocurrency"
+      ko: "암호화폐"
+    gender: f
+  - spanish: "el activo"
+    translation:
+      en: "asset"
+      ko: "자산"
+    gender: m
+  - spanish: "el pasivo"
+    translation:
+      en: "liability"
+      ko: "부채"
+    gender: m
+  - spanish: "el patrimonio"
+    translation:
+      en: "net worth / equity"
+      ko: "순자산 / 재산"
+    gender: m
+  - spanish: "la cotización"
+    translation:
+      en: "stock price / quotation"
+      ko: "시세 / 주가"
+    gender: f
+  - spanish: "el mercado"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: m
+- id: financial_verbs
+  label:
+    en: "Financial Verbs"
+    ko: "금융 동사"
+  type: vocabulary
+  words:
+  - spanish: "ahorrar"
+    translation:
+      en: "to save (money)"
+      ko: "저축하다"
+    gender: null
+  - spanish: "gastar"
+    translation:
+      en: "to spend"
+      ko: "지출하다"
+    gender: null
+  - spanish: "invertir"
+    translation:
+      en: "to invest"
+      ko: "투자하다"
+    gender: null
+  - spanish: "pagar"
+    translation:
+      en: "to pay"
+      ko: "지불하다"
+    gender: null
+  - spanish: "cobrar"
+    translation:
+      en: "to charge / to collect"
+      ko: "청구하다 / 수금하다"
+    gender: null
+  - spanish: "deber"
+    translation:
+      en: "to owe"
+      ko: "빚지다"
+    gender: null
+  - spanish: "prestar"
+    translation:
+      en: "to lend"
+      ko: "빌려주다"
+    gender: null
+  - spanish: "pedir prestado"
+    translation:
+      en: "to borrow"
+      ko: "빌리다"
+    gender: null
+  - spanish: "ingresar"
+    translation:
+      en: "to deposit"
+      ko: "입금하다"
+    gender: null
+  - spanish: "retirar"
+    translation:
+      en: "to withdraw"
+      ko: "출금하다"
+    gender: null
+  - spanish: "transferir"
+    translation:
+      en: "to transfer"
+      ko: "이체하다"
+    gender: null
+  - spanish: "financiar"
+    translation:
+      en: "to finance"
+      ko: "자금을 조달하다"
+    gender: null
+  - spanish: "presupuestar"
+    translation:
+      en: "to budget"
+      ko: "예산을 세우다"
+    gender: null
+  - spanish: "cotizar"
+    translation:
+      en: "to be listed / to quote a price"
+      ko: "시세를 매기다"
+    gender: null
+  - spanish: "endeudarse"
+    translation:
+      en: "to go into debt"
+      ko: "빚을 지다"
+    gender: null
+  - spanish: "amortizar"
+    translation:
+      en: "to amortize / to pay off"
+      ko: "상환하다"
+    gender: null
+  - spanish: "liquidar"
+    translation:
+      en: "to liquidate / to settle"
+      ko: "청산하다"
+    gender: null
+  - spanish: "recaudar"
+    translation:
+      en: "to collect / to raise (funds)"
+      ko: "모금하다 / 징수하다"
+    gender: null
+  - spanish: "desgravar"
+    translation:
+      en: "to deduct (taxes)"
+      ko: "세금을 공제하다"
+    gender: null
+  - spanish: "tributar"
+    translation:
+      en: "to pay taxes"
+      ko: "납세하다"
+    gender: null
+  - spanish: "heredar"
+    translation:
+      en: "to inherit"
+      ko: "상속하다"
+    gender: null
+  - spanish: "donar"
+    translation:
+      en: "to donate"
+      ko: "기부하다"
+    gender: null
+  - spanish: "la herencia"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: f
+  - spanish: "la donación"
+    translation:
+      en: "donation"
+      ko: "기부"
+    gender: f
+  - spanish: "el testamento"
+    translation:
+      en: "will / testament"
+      ko: "유언장"
+    gender: m
+  - spanish: "la tarjeta contactless"
+    translation:
+      en: "contactless card"
+      ko: "비접촉식 카드"
+    gender: f
+  - spanish: "el pago con el móvil"
+    translation:
+      en: "mobile payment"
+      ko: "모바일 결제"
+    gender: m
+  - spanish: "el Bizum"
+    translation:
+      en: "Bizum (instant mobile payment)"
+      ko: "비숨 (즉시 모바일 결제)"
+    gender: m
+    notes:
+      en: "Popular instant payment system in Spain"
+      ko: "스페인에서 인기 있는 즉시 결제 시스템"
+  - spanish: "la financiación"
+    translation:
+      en: "financing / funding"
+      ko: "자금 조달"
+    gender: f
+  - spanish: "el microcrédito"
+    translation:
+      en: "microcredit"
+      ko: "소액 대출"
+    gender: m
+  - spanish: "el crédito al consumo"
+    translation:
+      en: "consumer credit"
+      ko: "소비자 신용"
+    gender: m
+  - spanish: "la tasa de interés"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: f
+  - spanish: "el interés compuesto"
+    translation:
+      en: "compound interest"
+      ko: "복리"
+    gender: m
+  - spanish: "el interés simple"
+    translation:
+      en: "simple interest"
+      ko: "단리"
+    gender: m
+  - spanish: "la mora"
+    translation:
+      en: "late payment / default"
+      ko: "연체"
+    gender: f
+  - spanish: "el moroso"
+    translation:
+      en: "defaulter / delinquent debtor"
+      ko: "연체자"
+    gender: m
+  - spanish: "la bancarrota"
+    translation:
+      en: "bankruptcy"
+      ko: "파산"
+    gender: f
+  - spanish: "la quiebra"
+    translation:
+      en: "bankruptcy / insolvency"
+      ko: "도산 / 파산"
+    gender: f
+  - spanish: "el emprendedor"
+    translation:
+      en: "entrepreneur"
+      ko: "창업가"
+    gender: m
+    notes:
+      en: "la emprendedora for female"
+      ko: "여성형은 la emprendedora"
+  - spanish: "la startup"
+    translation:
+      en: "startup"
+      ko: "스타트업"
+    gender: f
+  - spanish: "el plan de negocios"
+    translation:
+      en: "business plan"
+      ko: "사업 계획서"
+    gender: m
+  - spanish: "el capital"
+    translation:
+      en: "capital"
+      ko: "자본"
+    gender: m
+  - spanish: "la subvención"
+    translation:
+      en: "subsidy / grant"
+      ko: "보조금"
+    gender: f
+  - spanish: "el aval"
+    translation:
+      en: "guarantee / collateral"
+      ko: "보증 / 담보"
+    gender: m
+  - spanish: "el avalista"
+    translation:
+      en: "guarantor"
+      ko: "보증인"
+    gender: m
+  - spanish: "la cuenta conjunta"
+    translation:
+      en: "joint account"
+      ko: "공동 계좌"
+    gender: f
+  - spanish: "el descubierto"
+    translation:
+      en: "overdraft"
+      ko: "당좌 대월"
+    gender: m
+  - spanish: "la tarjeta prepago"
+    translation:
+      en: "prepaid card"
+      ko: "선불 카드"
+    gender: f
+  - spanish: "el seguro de depósitos"
+    translation:
+      en: "deposit insurance"
+      ko: "예금자 보호"
+    gender: m
+  - spanish: "la economía doméstica"
+    translation:
+      en: "household economy"
+      ko: "가계 경제"
+    gender: f
+  - spanish: "el poder adquisitivo"
+    translation:
+      en: "purchasing power"
+      ko: "구매력"
+    gender: m
+  - spanish: "la carestía"
+    translation:
+      en: "high cost of living"
+      ko: "물가 상승 / 생활비 부담"
+    gender: f
+  - spanish: "el encarecimiento"
+    translation:
+      en: "price increase"
+      ko: "가격 상승"
+    gender: m
+  - spanish: "la especulación"
+    translation:
+      en: "speculation"
+      ko: "투기"
+    gender: f
+  - spanish: "el fondo de pensiones"
+    translation:
+      en: "pension fund"
+      ko: "연금 기금"
+    gender: m
+  - spanish: "la jubilación"
+    translation:
+      en: "retirement"
+      ko: "은퇴 / 퇴직"
+    gender: f
+  - spanish: "la pensión"
+    translation:
+      en: "pension"
+      ko: "연금"
+    gender: f
+  - spanish: "cotizar a la seguridad social"
+    translation:
+      en: "to contribute to social security"
+      ko: "사회보장에 납부하다"
+    gender: null
+  - spanish: "la nómina"
+    translation:
+      en: "payroll / payslip"
+      ko: "급여 명세서"
+    gender: f
+  - spanish: "el IRPF"
+    translation:
+      en: "income tax"
+      ko: "소득세"
+    gender: m
+    notes:
+      en: "Impuesto sobre la Renta de las Personas Físicas"
+      ko: "Impuesto sobre la Renta de las Personas Físicas의 약어"
+  - spanish: "la retención"
+    translation:
+      en: "tax withholding"
+      ko: "원천징수"
+    gender: f
+  - spanish: "la renta"
+    translation:
+      en: "income / tax return"
+      ko: "소득 / 소득세 신고"
+    gender: f
+  - spanish: "hacer la declaración"
+    translation:
+      en: "to file a tax return"
+      ko: "세금 신고하다"
+    gender: null
+  - spanish: "la deducción fiscal"
+    translation:
+      en: "tax deduction"
+      ko: "세금 공제"
+    gender: f
+  - spanish: "la evasión fiscal"
+    translation:
+      en: "tax evasion"
+      ko: "탈세"
+    gender: f
+  - spanish: "el paraíso fiscal"
+    translation:
+      en: "tax haven"
+      ko: "조세 피난처"
+    gender: m
+  - spanish: "la burbuja inmobiliaria"
+    translation:
+      en: "housing bubble"
+      ko: "부동산 버블"
+    gender: f
+  - spanish: "la crisis financiera"
+    translation:
+      en: "financial crisis"
+      ko: "금융 위기"
+    gender: f
+  - spanish: "el rescate bancario"
+    translation:
+      en: "bank bailout"
+      ko: "은행 구제 금융"
+    gender: m
+  - spanish: "la auditoría"
+    translation:
+      en: "audit"
+      ko: "감사"
+    gender: f
+  - spanish: "el auditor"
+    translation:
+      en: "auditor"
+      ko: "감사관"
+    gender: m
+    notes:
+      en: "la auditora for female"
+      ko: "여성형은 la auditora"
+  - spanish: "el balance"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: m
+  - spanish: "la contabilidad"
+    translation:
+      en: "accounting"
+      ko: "회계"
+    gender: f
+  - spanish: "el contable"
+    translation:
+      en: "accountant"
+      ko: "회계사"
+    gender: m
+    notes:
+      en: "In Latin America: el/la contador/a"
+      ko: "라틴아메리카: el/la contador/a"
+  - spanish: "el flujo de caja"
+    translation:
+      en: "cash flow"
+      ko: "현금 흐름"
+    gender: m
+  - spanish: "la facturación"
+    translation:
+      en: "turnover / billing"
+      ko: "매출 / 청구"
+    gender: f
+  - spanish: "el margen de beneficio"
+    translation:
+      en: "profit margin"
+      ko: "이윤"
+    gender: m
+  - spanish: "la solvencia"
+    translation:
+      en: "solvency"
+      ko: "지급 능력"
+    gender: f
+  - spanish: "la liquidez"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: f
+  - spanish: "diversificar"
+    translation:
+      en: "to diversify (investments)"
+      ko: "분산 투자하다"
+    gender: null
+  - spanish: "refinanciar"
+    translation:
+      en: "to refinance"
+      ko: "리파이낸싱하다"
+    gender: null
+  - spanish: "el gasto fijo"
+    translation:
+      en: "fixed expense"
+      ko: "고정 비용"
+    gender: m
+  - spanish: "el gasto variable"
+    translation:
+      en: "variable expense"
+      ko: "변동 비용"
+    gender: m
+  - spanish: "la devaluación"
+    translation:
+      en: "devaluation"
+      ko: "평가 절하"
+    gender: f
+  - spanish: "la revalorización"
+    translation:
+      en: "appreciation / revaluation"
+      ko: "가치 상승"
+    gender: f
+  - spanish: "el PIB"
+    translation:
+      en: "GDP (gross domestic product)"
+      ko: "국내 총생산"
+    gender: m
+    notes:
+      en: "Producto Interior Bruto"
+      ko: "Producto Interior Bruto의 약어"
+  - spanish: "la recesión"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+  - spanish: "la recuperación económica"
+    translation:
+      en: "economic recovery"
+      ko: "경기 회복"
+    gender: f
+  - spanish: "el auge"
+    translation:
+      en: "boom / peak"
+      ko: "호황"
+    gender: m
+  - spanish: "la estanflación"
+    translation:
+      en: "stagflation"
+      ko: "스태그플레이션"
+    gender: f
+  - spanish: "el fondo de emergencia"
+    translation:
+      en: "emergency fund"
+      ko: "비상 자금"
+    gender: m
+  - spanish: "la planificación financiera"
+    translation:
+      en: "financial planning"
+      ko: "재무 계획"
+    gender: f
+  - spanish: "el asesor financiero"
+    translation:
+      en: "financial advisor"
+      ko: "재무 상담사"
+    gender: m
+    notes:
+      en: "la asesora financiera for female"
+      ko: "여성형은 la asesora financiera"
+  - spanish: "la letra de cambio"
+    translation:
+      en: "bill of exchange"
+      ko: "환어음"
+    gender: f
+  - spanish: "el pagaré"
+    translation:
+      en: "promissory note"
+      ko: "약속어음"
+    gender: m
+  - spanish: "la quita"
+    translation:
+      en: "debt reduction / haircut"
+      ko: "채무 탕감"
+    gender: f
+  - spanish: "la reestructuración de deuda"
+    translation:
+      en: "debt restructuring"
+      ko: "부채 구조 조정"
+    gender: f
+  - spanish: "el crédito hipotecario"
+    translation:
+      en: "mortgage loan"
+      ko: "주택 담보 대출"
+    gender: m
+  - spanish: "la amortización"
+    translation:
+      en: "amortization"
+      ko: "상환"
+    gender: f
+  - spanish: "el vencimiento"
+    translation:
+      en: "maturity (financial)"
+      ko: "만기"
+    gender: m
+  - spanish: "el tipo de interés negativo"
+    translation:
+      en: "negative interest rate"
+      ko: "마이너스 금리"
+    gender: m
+  - spanish: "la moneda digital"
+    translation:
+      en: "digital currency"
+      ko: "디지털 화폐"
+    gender: f
+  - spanish: "el fintech"
+    translation:
+      en: "fintech"
+      ko: "핀테크"
+    gender: m
+    notes:
+      en: "Financial technology companies"
+      ko: "금융 기술 기업"
+  - spanish: "la banca ética"
+    translation:
+      en: "ethical banking"
+      ko: "윤리적 금융"
+    gender: f
+  - spanish: "la microfinanza"
+    translation:
+      en: "microfinance"
+      ko: "소액 금융"
+    gender: f
+  - spanish: "el crowdfunding"
+    translation:
+      en: "crowdfunding"
+      ko: "크라우드 펀딩"
+    gender: m
+  - spanish: "el préstamo personal"
+    translation:
+      en: "personal loan"
+      ko: "개인 대출"
+    gender: m
+  - spanish: "la tarjeta revolving"
+    translation:
+      en: "revolving credit card"
+      ko: "리볼빙 카드"
+    gender: f
+    notes:
+      en: "Credit card with deferred payment; controversial in Spain"
+      ko: "이연 결제 신용카드; 스페인에서 논란이 많음"

@@ -1,0 +1,1831 @@
+lesson: "sup_N1_Linguistics_and_Language"
+lesson_number: 185
+jlpt: N1
+type: supplementary
+topic: "Linguistics and Language"
+categories:
+- id: phonology
+  label:
+    en: "Phonology"
+    ko: "음운론"
+  type: vocabulary
+  words:
+  - japanese: "音韻論"
+    reading: "おんいんろん"
+    translation:
+      en: "phonology"
+      ko: "음운론"
+    gender: null
+    notes:
+      en: "sound + rhyme + theory; the study of sound systems in language"
+      ko: "음 + 운 + 론; 언어의 음 체계에 대한 연구"
+  - japanese: "音声学"
+    reading: "おんせいがく"
+    translation:
+      en: "phonetics"
+      ko: "음성학"
+    gender: null
+    notes:
+      en: "sound + voice + study; the study of speech sounds"
+      ko: "음 + 성 + 학; 말소리에 대한 연구"
+  - japanese: "音素"
+    reading: "おんそ"
+    translation:
+      en: "phoneme"
+      ko: "음소"
+    gender: null
+    notes:
+      en: "sound + element; the smallest unit of sound that distinguishes meaning"
+      ko: "음 + 소; 의미를 구별하는 소리의 최소 단위"
+  - japanese: "異音"
+    reading: "いおん"
+    translation:
+      en: "allophone"
+      ko: "이음"
+    gender: null
+    notes:
+      en: "different + sound; variant pronunciations of a phoneme"
+      ko: "다른 + 음; 음소의 변이 발음"
+  - japanese: "母音"
+    reading: "ぼいん"
+    translation:
+      en: "vowel"
+      ko: "모음"
+    gender: null
+    notes:
+      en: "mother + sound; 母音体系 = vowel system"
+      ko: "어머니 + 음; 母音体系 = 모음 체계"
+  - japanese: "子音"
+    reading: "しいん"
+    translation:
+      en: "consonant"
+      ko: "자음"
+    gender: null
+    notes:
+      en: "child + sound; 子音体系 = consonant system"
+      ko: "자식 + 음; 子音体系 = 자음 체계"
+  - japanese: "音節"
+    reading: "おんせつ"
+    translation:
+      en: "syllable"
+      ko: "음절"
+    gender: null
+    notes:
+      en: "sound + segment; 音節構造 = syllable structure"
+      ko: "음 + 절; 音節構造 = 음절 구조"
+  - japanese: "拍"
+    reading: "はく"
+    translation:
+      en: "mora (unit of timing)"
+      ko: "박, 모라"
+    gender: null
+    notes:
+      en: "beat; Japanese uses mora rather than syllables for rhythm"
+      ko: "박; 일본어는 리듬에 음절이 아닌 모라를 사용"
+  - japanese: "声調"
+    reading: "せいちょう"
+    translation:
+      en: "tone"
+      ko: "성조"
+    gender: null
+    notes:
+      en: "voice + tune; 声調言語 = tonal language"
+      ko: "소리 + 조; 声調言語 = 성조 언어"
+  - japanese: "アクセント"
+    reading: null
+    translation:
+      en: "accent, stress"
+      ko: "악센트"
+    gender: null
+    notes:
+      en: "katakana; 高低アクセント = pitch accent"
+      ko: "외래어; 高低アクセント = 고저 악센트"
+  - japanese: "韻律"
+    reading: "いんりつ"
+    translation:
+      en: "prosody"
+      ko: "운율"
+    gender: null
+    notes:
+      en: "rhyme + rhythm; 韻律論 = prosodic theory"
+      ko: "운 + 율; 韻律論 = 운율론"
+  - japanese: "イントネーション"
+    reading: null
+    translation:
+      en: "intonation"
+      ko: "억양"
+    gender: null
+    notes:
+      en: "katakana; 疑問のイントネーション = question intonation"
+      ko: "외래어; 疑問のイントネーション = 의문의 억양"
+  - japanese: "有声音"
+    reading: "ゆうせいおん"
+    translation:
+      en: "voiced sound"
+      ko: "유성음"
+    gender: null
+    notes:
+      en: "have + voice + sound; opposite: 無声音 = voiceless sound"
+      ko: "있다 + 소리 + 음; 반대: 無声音 = 무성음"
+  - japanese: "無声音"
+    reading: "むせいおん"
+    translation:
+      en: "voiceless sound"
+      ko: "무성음"
+    gender: null
+    notes:
+      en: "without + voice + sound; opposite: 有声音 = voiced sound"
+      ko: "없다 + 소리 + 음; 반대: 有声音 = 유성음"
+  - japanese: "調音"
+    reading: "ちょうおん"
+    translation:
+      en: "articulation"
+      ko: "조음"
+    gender: null
+    notes:
+      en: "adjust + sound; 調音点 = place of articulation"
+      ko: "조절 + 음; 調音点 = 조음점"
+  - japanese: "鼻音"
+    reading: "びおん"
+    translation:
+      en: "nasal sound"
+      ko: "비음"
+    gender: null
+    notes:
+      en: "nose + sound; ん is a nasal phoneme in Japanese"
+      ko: "코 + 소리; ん은 일본어의 비음 음소"
+  - japanese: "破裂音"
+    reading: "はれつおん"
+    translation:
+      en: "plosive, stop"
+      ko: "파열음"
+    gender: null
+    notes:
+      en: "burst + sound; e.g. /p/, /t/, /k/"
+      ko: "파열 + 음; 예: /p/, /t/, /k/"
+  - japanese: "摩擦音"
+    reading: "まさつおん"
+    translation:
+      en: "fricative"
+      ko: "마찰음"
+    gender: null
+    notes:
+      en: "friction + sound; e.g. /s/, /f/, /h/"
+      ko: "마찰 + 음; 예: /s/, /f/, /h/"
+  - japanese: "音韻変化"
+    reading: "おんいんへんか"
+    translation:
+      en: "phonological change"
+      ko: "음운변화"
+    gender: null
+    notes:
+      en: "phonology + change; 歴史的音韻変化 = historical sound change"
+      ko: "음운 + 변화; 歴史的音韻変化 = 역사적 음운변화"
+  - japanese: "同化"
+    reading: "どうか"
+    translation:
+      en: "assimilation"
+      ko: "동화"
+    gender: null
+    notes:
+      en: "same + change; a sound becoming similar to a neighboring sound"
+      ko: "같다 + 변화; 소리가 인접 소리와 비슷해지는 현상"
+  - japanese: "連濁"
+    reading: "れんだく"
+    translation:
+      en: "sequential voicing (Japanese-specific)"
+      ko: "연탁"
+    gender: null
+    notes:
+      en: "connect + muddy; e.g. 人 (ひと) + 人 (ひと) → 人々 (ひとびと)"
+      ko: "연결 + 탁; 예: 人 + 人 → 人々 (ひとびと)"
+  - japanese: "長音"
+    reading: "ちょうおん"
+    translation:
+      en: "long vowel"
+      ko: "장음"
+    gender: null
+    notes:
+      en: "long + sound; おばあさん has a long vowel"
+      ko: "길다 + 소리; おばあさん에는 장음이 있음"
+  - japanese: "促音"
+    reading: "そくおん"
+    translation:
+      en: "geminate consonant (っ)"
+      ko: "촉음"
+    gender: null
+    notes:
+      en: "promote + sound; the っ in きって"
+      ko: "재촉 + 소리; きって에서의 っ"
+  - japanese: "撥音"
+    reading: "はつおん"
+    translation:
+      en: "syllabic nasal (ん)"
+      ko: "발음 (ん)"
+    gender: null
+    notes:
+      en: "spring + sound; the moraic nasal ん"
+      ko: "튕기다 + 소리; 모라적 비음 ん"
+  - japanese: "音便"
+    reading: "おんびん"
+    translation:
+      en: "euphonic change"
+      ko: "음편"
+    gender: null
+    notes:
+      en: "sound + convenience; 撥音便 = nasal euphonic change"
+      ko: "음 + 편; 撥音便 = 발음편"
+  - japanese: "弁別"
+    reading: "べんべつ"
+    translation:
+      en: "distinction, discrimination"
+      ko: "변별"
+    gender: null
+    notes:
+      en: "distinguish + separate; 音韻的弁別 = phonological distinction"
+      ko: "변별 + 분리; 音韻的弁別 = 음운적 변별"
+  - japanese: "最小対"
+    reading: "さいしょうつい"
+    translation:
+      en: "minimal pair"
+      ko: "최소대립쌍"
+    gender: null
+    notes:
+      en: "smallest + pair; words differing by only one phoneme"
+      ko: "최소 + 쌍; 하나의 음소만 다른 단어 쌍"
+
+- id: syntax_grammar
+  label:
+    en: "Syntax and Grammar"
+    ko: "통사론과 문법"
+  type: vocabulary
+  words:
+  - japanese: "統語論"
+    reading: "とうごろん"
+    translation:
+      en: "syntax"
+      ko: "통어론, 통사론"
+    gender: null
+    notes:
+      en: "unify + language + theory; also called 構文論"
+      ko: "통 + 어 + 론; 構文論이라고도 함"
+  - japanese: "文法"
+    reading: "ぶんぽう"
+    translation:
+      en: "grammar"
+      ko: "문법"
+    gender: null
+    notes:
+      en: "sentence + law; 文法規則 = grammar rules"
+      ko: "문 + 법; 文法規則 = 문법 규칙"
+  - japanese: "形態論"
+    reading: "けいたいろん"
+    translation:
+      en: "morphology"
+      ko: "형태론"
+    gender: null
+    notes:
+      en: "form + state + theory; the study of word structure"
+      ko: "형 + 태 + 론; 단어 구조에 대한 연구"
+  - japanese: "形態素"
+    reading: "けいたいそ"
+    translation:
+      en: "morpheme"
+      ko: "형태소"
+    gender: null
+    notes:
+      en: "form + state + element; the smallest meaningful unit"
+      ko: "형 + 태 + 소; 의미를 가진 최소 단위"
+  - japanese: "語幹"
+    reading: "ごかん"
+    translation:
+      en: "stem (of a word)"
+      ko: "어간"
+    gender: null
+    notes:
+      en: "word + trunk; the base form before inflection"
+      ko: "어 + 줄기; 활용 전의 기본 형태"
+  - japanese: "接辞"
+    reading: "せつじ"
+    translation:
+      en: "affix"
+      ko: "접사"
+    gender: null
+    notes:
+      en: "connect + word; 接頭辞 = prefix, 接尾辞 = suffix"
+      ko: "접 + 사; 接頭辞 = 접두사, 接尾辞 = 접미사"
+  - japanese: "接頭辞"
+    reading: "せっとうじ"
+    translation:
+      en: "prefix"
+      ko: "접두사"
+    gender: null
+    notes:
+      en: "connect + head + word; お/ご are honorific prefixes"
+      ko: "접 + 머리 + 사; お/ご는 경어 접두사"
+  - japanese: "接尾辞"
+    reading: "せつびじ"
+    translation:
+      en: "suffix"
+      ko: "접미사"
+    gender: null
+    notes:
+      en: "connect + tail + word; ~さ, ~み are suffixes"
+      ko: "접 + 꼬리 + 사; ~さ, ~み는 접미사"
+  - japanese: "活用"
+    reading: "かつよう"
+    translation:
+      en: "conjugation, inflection"
+      ko: "활용"
+    gender: null
+    notes:
+      en: "use + utilize; 動詞の活用 = verb conjugation"
+      ko: "활 + 용; 動詞の活用 = 동사의 활용"
+  - japanese: "屈折"
+    reading: "くっせつ"
+    translation:
+      en: "inflection"
+      ko: "굴절"
+    gender: null
+    notes:
+      en: "bend + break; 屈折語 = inflectional language"
+      ko: "굽다 + 꺾다; 屈折語 = 굴절어"
+  - japanese: "膠着語"
+    reading: "こうちゃくご"
+    translation:
+      en: "agglutinative language"
+      ko: "교착어"
+    gender: null
+    notes:
+      en: "glue + attach + language; Japanese and Korean are agglutinative"
+      ko: "아교 + 붙다 + 어; 일본어와 한국어는 교착어"
+  - japanese: "主語"
+    reading: "しゅご"
+    translation:
+      en: "subject"
+      ko: "주어"
+    gender: null
+    notes:
+      en: "main + word; 主語を省略する = to omit the subject"
+      ko: "주 + 어; 主語を省略する = 주어를 생략하다"
+  - japanese: "述語"
+    reading: "じゅつご"
+    translation:
+      en: "predicate"
+      ko: "술어"
+    gender: null
+    notes:
+      en: "state + word; 述語が文末に来る = the predicate comes at the end"
+      ko: "서술 + 어; 述語が文末に来る = 술어가 문말에 온다"
+  - japanese: "目的語"
+    reading: "もくてきご"
+    translation:
+      en: "object"
+      ko: "목적어"
+    gender: null
+    notes:
+      en: "purpose + word; 直接目的語 = direct object"
+      ko: "목적 + 어; 直接目的語 = 직접목적어"
+  - japanese: "補語"
+    reading: "ほご"
+    translation:
+      en: "complement"
+      ko: "보어"
+    gender: null
+    notes:
+      en: "supplement + word"
+      ko: "보 + 어"
+  - japanese: "修飾語"
+    reading: "しゅうしょくご"
+    translation:
+      en: "modifier"
+      ko: "수식어"
+    gender: null
+    notes:
+      en: "decorate + word; 修飾語を付ける = to add a modifier"
+      ko: "수식 + 어; 修飾語を付ける = 수식어를 붙이다"
+  - japanese: "語順"
+    reading: "ごじゅん"
+    translation:
+      en: "word order"
+      ko: "어순"
+    gender: null
+    notes:
+      en: "word + order; 日本語はSOV語順 = Japanese has SOV word order"
+      ko: "어 + 순; 日本語はSOV語順 = 일본어는 SOV 어순"
+  - japanese: "節"
+    reading: "せつ"
+    translation:
+      en: "clause"
+      ko: "절"
+    gender: null
+    notes:
+      en: "segment; 主節 = main clause, 従属節 = subordinate clause"
+      ko: "절; 主節 = 주절, 従属節 = 종속절"
+  - japanese: "句"
+    reading: "く"
+    translation:
+      en: "phrase"
+      ko: "구"
+    gender: null
+    notes:
+      en: "名詞句 = noun phrase, 動詞句 = verb phrase"
+      ko: "名詞句 = 명사구, 動詞句 = 동사구"
+  - japanese: "品詞"
+    reading: "ひんし"
+    translation:
+      en: "part of speech"
+      ko: "품사"
+    gender: null
+    notes:
+      en: "category + word; 品詞分類 = part-of-speech classification"
+      ko: "품 + 사; 品詞分類 = 품사 분류"
+  - japanese: "自動詞"
+    reading: "じどうし"
+    translation:
+      en: "intransitive verb"
+      ko: "자동사"
+    gender: null
+    notes:
+      en: "self + move + word; opposite: 他動詞 = transitive verb"
+      ko: "스스로 + 움직이다 + 사; 반대: 他動詞 = 타동사"
+  - japanese: "他動詞"
+    reading: "たどうし"
+    translation:
+      en: "transitive verb"
+      ko: "타동사"
+    gender: null
+    notes:
+      en: "other + move + word; takes a direct object"
+      ko: "다른 + 움직이다 + 사; 직접목적어를 취함"
+  - japanese: "助詞"
+    reading: "じょし"
+    translation:
+      en: "particle"
+      ko: "조사"
+    gender: null
+    notes:
+      en: "help + word; は, が, を, に are particles"
+      ko: "도움 + 사; は, が, を, に는 조사"
+  - japanese: "助動詞"
+    reading: "じょどうし"
+    translation:
+      en: "auxiliary verb"
+      ko: "조동사"
+    gender: null
+    notes:
+      en: "help + verb; れる, られる, せる are auxiliaries"
+      ko: "도움 + 동사; れる, られる, せる는 조동사"
+  - japanese: "派生"
+    reading: "はせい"
+    translation:
+      en: "derivation"
+      ko: "파생"
+    gender: null
+    notes:
+      en: "branch off + produce; 派生語 = derived word"
+      ko: "파 + 생; 派生語 = 파생어"
+  - japanese: "複合語"
+    reading: "ふくごうご"
+    translation:
+      en: "compound word"
+      ko: "복합어"
+    gender: null
+    notes:
+      en: "compound + word; 複合動詞 = compound verb"
+      ko: "복합 + 어; 複合動詞 = 복합동사"
+  - japanese: "呼応"
+    reading: "こおう"
+    translation:
+      en: "agreement, correspondence"
+      ko: "호응"
+    gender: null
+    notes:
+      en: "call + respond; 主語と述語の呼応 = subject-predicate agreement"
+      ko: "부르다 + 응하다; 主語と述語の呼応 = 주어와 술어의 호응"
+  - japanese: "係り結び"
+    reading: "かかりむすび"
+    translation:
+      en: "kakari-musubi (classical Japanese linking)"
+      ko: "가카리무스비 (고전 일본어 호응)"
+    gender: null
+    notes:
+      en: "a classical Japanese grammatical construction where particles affect sentence endings"
+      ko: "조사가 문말에 영향을 미치는 고전 일본어 문법 구조"
+  - japanese: "省略"
+    reading: "しょうりゃく"
+    translation:
+      en: "ellipsis, omission"
+      ko: "생략"
+    gender: null
+    notes:
+      en: "save + abbreviate; 主語の省略 = subject omission"
+      ko: "생 + 략; 主語の省略 = 주어 생략"
+
+- id: semantics
+  label:
+    en: "Semantics"
+    ko: "의미론"
+  type: vocabulary
+  words:
+  - japanese: "意味論"
+    reading: "いみろん"
+    translation:
+      en: "semantics"
+      ko: "의미론"
+    gender: null
+    notes:
+      en: "meaning + theory; the study of meaning in language"
+      ko: "의미 + 론; 언어의 의미에 대한 연구"
+  - japanese: "語用論"
+    reading: "ごようろん"
+    translation:
+      en: "pragmatics"
+      ko: "화용론"
+    gender: null
+    notes:
+      en: "word + use + theory; the study of language in context"
+      ko: "어 + 용 + 론; 맥락에서의 언어 연구"
+  - japanese: "指示"
+    reading: "しじ"
+    translation:
+      en: "reference, denotation"
+      ko: "지시"
+    gender: null
+    notes:
+      en: "point + show; 指示対象 = referent"
+      ko: "가리키다 + 보이다; 指示対象 = 지시 대상"
+  - japanese: "含意"
+    reading: "がんい"
+    translation:
+      en: "implication, entailment"
+      ko: "함의"
+    gender: null
+    notes:
+      en: "contain + meaning; 含意関係 = entailment relation"
+      ko: "포함 + 뜻; 含意関係 = 함의 관계"
+  - japanese: "多義語"
+    reading: "たぎご"
+    translation:
+      en: "polysemous word"
+      ko: "다의어"
+    gender: null
+    notes:
+      en: "many + meaning + word; a word with multiple meanings"
+      ko: "많다 + 뜻 + 어; 여러 의미를 가진 단어"
+  - japanese: "同義語"
+    reading: "どうぎご"
+    translation:
+      en: "synonym"
+      ko: "동의어"
+    gender: null
+    notes:
+      en: "same + meaning + word; 同義語辞典 = thesaurus"
+      ko: "같다 + 뜻 + 어; 同義語辞典 = 유의어사전"
+  - japanese: "反義語"
+    reading: "はんぎご"
+    translation:
+      en: "antonym"
+      ko: "반의어"
+    gender: null
+    notes:
+      en: "opposite + meaning + word; also called 対義語 (たいぎご)"
+      ko: "반대 + 뜻 + 어; 対義語라고도 함"
+  - japanese: "上位語"
+    reading: "じょういご"
+    translation:
+      en: "hypernym, superordinate"
+      ko: "상위어"
+    gender: null
+    notes:
+      en: "upper + word; 動物 is a hypernym of 犬"
+      ko: "상위 + 어; 動物은 犬의 상위어"
+  - japanese: "下位語"
+    reading: "かいご"
+    translation:
+      en: "hyponym, subordinate"
+      ko: "하위어"
+    gender: null
+    notes:
+      en: "lower + word; 犬 is a hyponym of 動物"
+      ko: "하위 + 어; 犬은 動物의 하위어"
+  - japanese: "比喩"
+    reading: "ひゆ"
+    translation:
+      en: "figurative language, metaphor"
+      ko: "비유"
+    gender: null
+    notes:
+      en: "compare + analogy; 比喩的表現 = figurative expression"
+      ko: "비교 + 비유; 比喩的表現 = 비유적 표현"
+  - japanese: "隠喩"
+    reading: "いんゆ"
+    translation:
+      en: "metaphor"
+      ko: "은유"
+    gender: null
+    notes:
+      en: "hidden + analogy; also called メタファー"
+      ko: "숨기다 + 비유; メタファー라고도 함"
+  - japanese: "直喩"
+    reading: "ちょくゆ"
+    translation:
+      en: "simile"
+      ko: "직유"
+    gender: null
+    notes:
+      en: "direct + analogy; uses 〜のような to compare"
+      ko: "직접 + 비유; 〜のような를 사용하여 비교"
+  - japanese: "換喩"
+    reading: "かんゆ"
+    translation:
+      en: "metonymy"
+      ko: "환유"
+    gender: null
+    notes:
+      en: "exchange + analogy; using one thing to represent a related thing"
+      ko: "바꾸다 + 비유; 관련된 것으로 대체하여 표현"
+  - japanese: "提喩"
+    reading: "ていゆ"
+    translation:
+      en: "synecdoche"
+      ko: "제유"
+    gender: null
+    notes:
+      en: "present + analogy; using a part to represent the whole"
+      ko: "제시 + 비유; 부분으로 전체를 나타내는 것"
+  - japanese: "婉曲表現"
+    reading: "えんきょくひょうげん"
+    translation:
+      en: "euphemism"
+      ko: "완곡표현"
+    gender: null
+    notes:
+      en: "round + curve + expression; 婉曲的に言う = to say euphemistically"
+      ko: "완곡 + 표현; 婉曲的に言う = 완곡하게 말하다"
+  - japanese: "語彙"
+    reading: "ごい"
+    translation:
+      en: "vocabulary, lexicon"
+      ko: "어휘"
+    gender: null
+    notes:
+      en: "word + variety; 語彙力 = vocabulary power"
+      ko: "어 + 휘; 語彙力 = 어휘력"
+  - japanese: "意味場"
+    reading: "いみば"
+    translation:
+      en: "semantic field"
+      ko: "의미장"
+    gender: null
+    notes:
+      en: "meaning + field; a group of words related in meaning"
+      ko: "의미 + 장; 의미적으로 관련된 단어 그룹"
+  - japanese: "コロケーション"
+    reading: null
+    translation:
+      en: "collocation"
+      ko: "연어, 콜로케이션"
+    gender: null
+    notes:
+      en: "katakana; words that commonly co-occur"
+      ko: "외래어; 자주 함께 나타나는 단어들"
+  - japanese: "語源"
+    reading: "ごげん"
+    translation:
+      en: "etymology"
+      ko: "어원"
+    gender: null
+    notes:
+      en: "word + origin; 語源学 = etymology (as a field)"
+      ko: "어 + 원; 語源学 = 어원학"
+  - japanese: "外来語"
+    reading: "がいらいご"
+    translation:
+      en: "loanword"
+      ko: "외래어"
+    gender: null
+    notes:
+      en: "outside + come + word; words borrowed from other languages"
+      ko: "바깥 + 오다 + 어; 다른 언어에서 빌린 단어"
+  - japanese: "和語"
+    reading: "わご"
+    translation:
+      en: "native Japanese word"
+      ko: "와고, 고유 일본어"
+    gender: null
+    notes:
+      en: "Japanese + word; native Yamato words"
+      ko: "일본 + 어; 고유 야마토 단어"
+  - japanese: "漢語"
+    reading: "かんご"
+    translation:
+      en: "Sino-Japanese word"
+      ko: "한자어"
+    gender: null
+    notes:
+      en: "Chinese + word; words of Chinese origin"
+      ko: "한 + 어; 중국어 기원의 단어"
+  - japanese: "混種語"
+    reading: "こんしゅご"
+    translation:
+      en: "hybrid word"
+      ko: "혼종어"
+    gender: null
+    notes:
+      en: "mixed + species + word; e.g. 消しゴム = keshi (和語) + gum (外来語)"
+      ko: "혼합 + 종 + 어; 예: 消しゴム = keshi(와고) + gum(외래어)"
+
+- id: sociolinguistics
+  label:
+    en: "Sociolinguistics"
+    ko: "사회언어학"
+  type: vocabulary
+  words:
+  - japanese: "社会言語学"
+    reading: "しゃかいげんごがく"
+    translation:
+      en: "sociolinguistics"
+      ko: "사회언어학"
+    gender: null
+    notes:
+      en: "society + language + study"
+      ko: "사회 + 언어 + 학"
+  - japanese: "方言"
+    reading: "ほうげん"
+    translation:
+      en: "dialect"
+      ko: "방언"
+    gender: null
+    notes:
+      en: "direction + words; 方言学 = dialectology"
+      ko: "방 + 언; 方言学 = 방언학"
+  - japanese: "共通語"
+    reading: "きょうつうご"
+    translation:
+      en: "common language, standard language"
+      ko: "공통어"
+    gender: null
+    notes:
+      en: "common + language; similar to 標準語"
+      ko: "공통 + 어; 標準語와 유사"
+  - japanese: "標準語"
+    reading: "ひょうじゅんご"
+    translation:
+      en: "standard language"
+      ko: "표준어"
+    gender: null
+    notes:
+      en: "standard + language; 標準語と方言 = standard language and dialect"
+      ko: "표준 + 어; 標準語と方言 = 표준어와 방언"
+  - japanese: "敬語"
+    reading: "けいご"
+    translation:
+      en: "honorific language"
+      ko: "경어"
+    gender: null
+    notes:
+      en: "respect + language; 尊敬語, 謙譲語, 丁寧語"
+      ko: "경 + 어; 존경어, 겸양어, 정중어"
+  - japanese: "尊敬語"
+    reading: "そんけいご"
+    translation:
+      en: "respectful language"
+      ko: "존경어"
+    gender: null
+    notes:
+      en: "respect + language; elevates the subject"
+      ko: "존경 + 어; 주어를 높임"
+  - japanese: "謙譲語"
+    reading: "けんじょうご"
+    translation:
+      en: "humble language"
+      ko: "겸양어"
+    gender: null
+    notes:
+      en: "modest + yield + language; lowers the speaker"
+      ko: "겸손 + 양보 + 어; 화자를 낮춤"
+  - japanese: "位相"
+    reading: "いそう"
+    translation:
+      en: "register (language variety)"
+      ko: "위상"
+    gender: null
+    notes:
+      en: "position + phase; 位相語 = register-specific vocabulary"
+      ko: "위 + 상; 位相語 = 위상별 어휘"
+  - japanese: "言語変種"
+    reading: "げんごへんしゅ"
+    translation:
+      en: "language variety"
+      ko: "언어변종"
+    gender: null
+    notes:
+      en: "language + variation + type"
+      ko: "언어 + 변 + 종"
+  - japanese: "二言語併用"
+    reading: "にげんごへいよう"
+    translation:
+      en: "bilingualism"
+      ko: "이중언어 사용"
+    gender: null
+    notes:
+      en: "two + language + parallel + use; also バイリンガリズム"
+      ko: "두 + 언어 + 병 + 용; バイリンガリズム이라고도 함"
+  - japanese: "母語"
+    reading: "ぼご"
+    translation:
+      en: "mother tongue, native language"
+      ko: "모어"
+    gender: null
+    notes:
+      en: "mother + language; 母語話者 = native speaker"
+      ko: "모 + 어; 母語話者 = 모어 화자"
+  - japanese: "言語政策"
+    reading: "げんごせいさく"
+    translation:
+      en: "language policy"
+      ko: "언어정책"
+    gender: null
+    notes:
+      en: "language + policy"
+      ko: "언어 + 정책"
+  - japanese: "言語接触"
+    reading: "げんごせっしょく"
+    translation:
+      en: "language contact"
+      ko: "언어접촉"
+    gender: null
+    notes:
+      en: "language + contact; when speakers of different languages interact"
+      ko: "언어 + 접촉; 다른 언어 화자들이 교류할 때"
+  - japanese: "クレオール"
+    reading: null
+    translation:
+      en: "creole"
+      ko: "크리올"
+    gender: null
+    notes:
+      en: "katakana; a stable language from pidgin; クレオール語 = creole language"
+      ko: "외래어; 피진에서 안정화된 언어; クレオール語 = 크리올어"
+  - japanese: "ピジン"
+    reading: null
+    translation:
+      en: "pidgin"
+      ko: "피진"
+    gender: null
+    notes:
+      en: "katakana; a simplified contact language"
+      ko: "외래어; 단순화된 접촉 언어"
+  - japanese: "言語消滅"
+    reading: "げんごしょうめつ"
+    translation:
+      en: "language death, language extinction"
+      ko: "언어소멸"
+    gender: null
+    notes:
+      en: "language + extinction; 危機言語 = endangered language"
+      ko: "언어 + 소멸; 危機言語 = 위기 언어"
+  - japanese: "言語権"
+    reading: "げんごけん"
+    translation:
+      en: "linguistic rights"
+      ko: "언어권"
+    gender: null
+    notes:
+      en: "language + right; the right to use one's own language"
+      ko: "언어 + 권; 자신의 언어를 사용할 권리"
+  - japanese: "言語景観"
+    reading: "げんごけいかん"
+    translation:
+      en: "linguistic landscape"
+      ko: "언어경관"
+    gender: null
+    notes:
+      en: "language + landscape; visible language in public space"
+      ko: "언어 + 경관; 공공 공간에서 보이는 언어"
+  - japanese: "コードスイッチング"
+    reading: null
+    translation:
+      en: "code-switching"
+      ko: "코드스위칭"
+    gender: null
+    notes:
+      en: "katakana; alternating between two languages in conversation"
+      ko: "외래어; 대화 중 두 언어를 번갈아 사용하는 것"
+  - japanese: "言語差別"
+    reading: "げんごさべつ"
+    translation:
+      en: "linguistic discrimination"
+      ko: "언어차별"
+    gender: null
+    notes:
+      en: "language + discrimination"
+      ko: "언어 + 차별"
+  - japanese: "役割語"
+    reading: "やくわりご"
+    translation:
+      en: "role language (stereotypical speech)"
+      ko: "역할어"
+    gender: null
+    notes:
+      en: "role + language; speech style associated with a character type"
+      ko: "역할 + 어; 캐릭터 유형에 연관된 말투"
+
+- id: translation_theory
+  label:
+    en: "Translation Theory"
+    ko: "번역 이론"
+  type: vocabulary
+  words:
+  - japanese: "翻訳"
+    reading: "ほんやく"
+    translation:
+      en: "translation"
+      ko: "번역"
+    gender: null
+    notes:
+      en: "turn + translate; 翻訳する = to translate"
+      ko: "뒤집다 + 옮기다; 翻訳する = 번역하다"
+  - japanese: "通訳"
+    reading: "つうやく"
+    translation:
+      en: "interpretation (oral)"
+      ko: "통역"
+    gender: null
+    notes:
+      en: "pass + translate; 同時通訳 = simultaneous interpretation"
+      ko: "통하다 + 옮기다; 同時通訳 = 동시통역"
+  - japanese: "意訳"
+    reading: "いやく"
+    translation:
+      en: "free translation, liberal translation"
+      ko: "의역"
+    gender: null
+    notes:
+      en: "meaning + translate; translating the meaning rather than words"
+      ko: "뜻 + 옮기다; 단어보다 의미를 번역"
+  - japanese: "直訳"
+    reading: "ちょくやく"
+    translation:
+      en: "literal translation"
+      ko: "직역"
+    gender: null
+    notes:
+      en: "direct + translate; word-for-word translation"
+      ko: "직접 + 옮기다; 단어 대 단어 번역"
+  - japanese: "原文"
+    reading: "げんぶん"
+    translation:
+      en: "original text, source text"
+      ko: "원문"
+    gender: null
+    notes:
+      en: "origin + text; 原文に忠実な = faithful to the original"
+      ko: "원 + 문; 原文に忠実な = 원문에 충실한"
+  - japanese: "訳文"
+    reading: "やくぶん"
+    translation:
+      en: "translated text, target text"
+      ko: "역문"
+    gender: null
+    notes:
+      en: "translate + text; the resulting translation"
+      ko: "옮기다 + 문; 결과물인 번역문"
+  - japanese: "原語"
+    reading: "げんご"
+    translation:
+      en: "source language"
+      ko: "원어"
+    gender: null
+    notes:
+      en: "origin + language; the language being translated from"
+      ko: "원 + 어; 번역의 출발 언어"
+  - japanese: "目標言語"
+    reading: "もくひょうげんご"
+    translation:
+      en: "target language"
+      ko: "목표언어"
+    gender: null
+    notes:
+      en: "target + language; the language being translated into"
+      ko: "목표 + 언어; 번역의 도착 언어"
+  - japanese: "等価"
+    reading: "とうか"
+    translation:
+      en: "equivalence"
+      ko: "등가"
+    gender: null
+    notes:
+      en: "equal + value; 翻訳等価 = translation equivalence"
+      ko: "같다 + 가치; 翻訳等価 = 번역 등가"
+  - japanese: "忠実性"
+    reading: "ちゅうじつせい"
+    translation:
+      en: "fidelity, faithfulness"
+      ko: "충실성"
+    gender: null
+    notes:
+      en: "loyalty + nature; 原文への忠実性 = fidelity to the source text"
+      ko: "충실 + 성; 原文への忠実性 = 원문에 대한 충실성"
+  - japanese: "自然さ"
+    reading: "しぜんさ"
+    translation:
+      en: "naturalness"
+      ko: "자연스러움"
+    gender: null
+    notes:
+      en: "natural + -ness; 訳文の自然さ = naturalness of the translation"
+      ko: "자연 + 스러움; 訳文の自然さ = 번역문의 자연스러움"
+  - japanese: "異化"
+    reading: "いか"
+    translation:
+      en: "foreignization"
+      ko: "이화"
+    gender: null
+    notes:
+      en: "different + change; keeping foreign elements in translation"
+      ko: "다르다 + 변하다; 번역에서 외래 요소 유지"
+  - japanese: "同化"
+    reading: "どうか"
+    translation:
+      en: "domestication"
+      ko: "동화"
+    gender: null
+    notes:
+      en: "same + change; adapting to the target culture"
+      ko: "같다 + 변하다; 도착 문화에 적응시키기"
+  - japanese: "誤訳"
+    reading: "ごやく"
+    translation:
+      en: "mistranslation"
+      ko: "오역"
+    gender: null
+    notes:
+      en: "error + translate; 誤訳を正す = to correct a mistranslation"
+      ko: "잘못 + 옮기다; 誤訳を正す = 오역을 바로잡다"
+  - japanese: "重訳"
+    reading: "じゅうやく"
+    translation:
+      en: "relay translation (translating from a translation)"
+      ko: "중역"
+    gender: null
+    notes:
+      en: "layer + translate; translating from an intermediary language"
+      ko: "겹 + 옮기다; 중간 언어를 통해 번역"
+  - japanese: "抄訳"
+    reading: "しょうやく"
+    translation:
+      en: "abridged translation"
+      ko: "초역"
+    gender: null
+    notes:
+      en: "extract + translate; a translated summary"
+      ko: "뽑다 + 옮기다; 번역 요약"
+  - japanese: "全訳"
+    reading: "ぜんやく"
+    translation:
+      en: "complete translation"
+      ko: "전역"
+    gender: null
+    notes:
+      en: "complete + translate; 全訳版 = complete translation edition"
+      ko: "전 + 옮기다; 全訳版 = 완역판"
+  - japanese: "対訳"
+    reading: "たいやく"
+    translation:
+      en: "parallel translation"
+      ko: "대역"
+    gender: null
+    notes:
+      en: "opposite + translate; 対訳本 = bilingual edition"
+      ko: "대 + 옮기다; 対訳本 = 대역본"
+  - japanese: "機械翻訳"
+    reading: "きかいほんやく"
+    translation:
+      en: "machine translation"
+      ko: "기계번역"
+    gender: null
+    notes:
+      en: "machine + translation; AI-powered translation"
+      ko: "기계 + 번역; AI 기반 번역"
+  - japanese: "字幕翻訳"
+    reading: "じまくほんやく"
+    translation:
+      en: "subtitling, subtitle translation"
+      ko: "자막번역"
+    gender: null
+    notes:
+      en: "subtitle + translation; 字幕翻訳者 = subtitler"
+      ko: "자막 + 번역; 字幕翻訳者 = 자막 번역가"
+  - japanese: "翻案"
+    reading: "ほんあん"
+    translation:
+      en: "adaptation"
+      ko: "번안"
+    gender: null
+    notes:
+      en: "turn + plan; rewriting a work for a different culture"
+      ko: "뒤집다 + 안; 다른 문화를 위해 작품을 다시 쓰기"
+  - japanese: "校正"
+    reading: "こうせい"
+    translation:
+      en: "proofreading"
+      ko: "교정"
+    gender: null
+    notes:
+      en: "school + correct; 翻訳の校正 = proofreading a translation"
+      ko: "바로잡다 + 바르다; 翻訳の校正 = 번역 교정"
+  - japanese: "注釈翻訳"
+    reading: "ちゅうしゃくほんやく"
+    translation:
+      en: "annotated translation"
+      ko: "주석번역"
+    gender: null
+    notes:
+      en: "annotation + translation; translation with explanatory notes"
+      ko: "주석 + 번역; 설명적 주석이 있는 번역"
+  - japanese: "翻訳者"
+    reading: "ほんやくしゃ"
+    translation:
+      en: "translator"
+      ko: "번역가"
+    gender: null
+    notes:
+      en: "翻訳家 also used; 翻訳者の倫理 = translator's ethics"
+      ko: "翻訳家도 사용; 翻訳者の倫理 = 번역가의 윤리"
+  - japanese: "用言"
+    reading: "ようげん"
+    translation:
+      en: "inflecting word (verb/adjective)"
+      ko: "용언"
+    gender: null
+    notes:
+      en: "use + word; verbs and adjectives that conjugate"
+      ko: "용 + 언; 활용하는 동사와 형용사"
+  - japanese: "体言"
+    reading: "たいげん"
+    translation:
+      en: "uninflecting word (noun)"
+      ko: "체언"
+    gender: null
+    notes:
+      en: "body + word; nouns and pronouns"
+      ko: "체 + 언; 명사와 대명사"
+  - japanese: "連体"
+    reading: "れんたい"
+    translation:
+      en: "attributive (form)"
+      ko: "연체"
+    gender: null
+    notes:
+      en: "connect + body; 連体形 = attributive form"
+      ko: "연결 + 체; 連体形 = 연체형"
+  - japanese: "連用"
+    reading: "れんよう"
+    translation:
+      en: "adverbial (form)"
+      ko: "연용"
+    gender: null
+    notes:
+      en: "connect + use; 連用形 = continuative form"
+      ko: "연결 + 용; 連用形 = 연용형"
+  - japanese: "終止形"
+    reading: "しゅうしけい"
+    translation:
+      en: "terminal form"
+      ko: "종지형"
+    gender: null
+    notes:
+      en: "end + stop + form; the sentence-final form of a verb"
+      ko: "끝 + 그치다 + 형; 동사의 문말 형태"
+  - japanese: "未然形"
+    reading: "みぜんけい"
+    translation:
+      en: "irrealis form, imperfective"
+      ko: "미연형"
+    gender: null
+    notes:
+      en: "not yet + so + form; the base for negative and passive"
+      ko: "아직 + 그렇다 + 형; 부정형과 수동형의 기본"
+  - japanese: "命令形"
+    reading: "めいれいけい"
+    translation:
+      en: "imperative form"
+      ko: "명령형"
+    gender: null
+    notes:
+      en: "command + form; 食べろ is the imperative of 食べる"
+      ko: "명령 + 형; 食べろ는 食べる의 명령형"
+  - japanese: "仮定形"
+    reading: "かていけい"
+    translation:
+      en: "conditional form"
+      ko: "가정형"
+    gender: null
+    notes:
+      en: "hypothesis + form; the ば form in Japanese"
+      ko: "가정 + 형; 일본어의 ば 형태"
+  - japanese: "語族"
+    reading: "ごぞく"
+    translation:
+      en: "language family"
+      ko: "어족"
+    gender: null
+    notes:
+      en: "language + family; インド・ヨーロッパ語族 = Indo-European family"
+      ko: "어 + 족; インド・ヨーロッパ語族 = 인도유럽어족"
+  - japanese: "孤立語"
+    reading: "こりつご"
+    translation:
+      en: "isolating language"
+      ko: "고립어"
+    gender: null
+    notes:
+      en: "isolate + language; Chinese is an example"
+      ko: "고립 + 어; 중국어가 대표적 예"
+  - japanese: "言語類型論"
+    reading: "げんごるいけいろん"
+    translation:
+      en: "linguistic typology"
+      ko: "언어유형론"
+    gender: null
+    notes:
+      en: "language + typology; classifying languages by structural features"
+      ko: "언어 + 유형론; 구조적 특징으로 언어 분류"
+  - japanese: "語彙論"
+    reading: "ごいろん"
+    translation:
+      en: "lexicology"
+      ko: "어휘론"
+    gender: null
+    notes:
+      en: "vocabulary + theory; the study of the lexicon"
+      ko: "어휘 + 론; 어휘에 대한 연구"
+  - japanese: "辞書学"
+    reading: "じしょがく"
+    translation:
+      en: "lexicography"
+      ko: "사전학"
+    gender: null
+    notes:
+      en: "dictionary + study; the art and science of dictionary-making"
+      ko: "사전 + 학; 사전 편찬의 기술과 학문"
+  - japanese: "談話分析"
+    reading: "だんわぶんせき"
+    translation:
+      en: "discourse analysis"
+      ko: "담화분석"
+    gender: null
+    notes:
+      en: "discourse + analysis; analyzing language above the sentence level"
+      ko: "담화 + 분석; 문장 수준 위의 언어 분석"
+  - japanese: "発話行為"
+    reading: "はつわこうい"
+    translation:
+      en: "speech act"
+      ko: "발화행위"
+    gender: null
+    notes:
+      en: "utterance + act; Austin and Searle's speech act theory"
+      ko: "발화 + 행위; 오스틴과 설의 화행이론"
+  - japanese: "含蓄"
+    reading: "がんちく"
+    translation:
+      en: "implicature, connotation"
+      ko: "함축"
+    gender: null
+    notes:
+      en: "contain + store; Grice's concept of conversational implicature"
+      ko: "포함 + 저장; 그라이스의 대화 함축 개념"
+  - japanese: "対照言語学"
+    reading: "たいしょうげんごがく"
+    translation:
+      en: "contrastive linguistics"
+      ko: "대조언어학"
+    gender: null
+    notes:
+      en: "contrast + linguistics; comparing two specific languages"
+      ko: "대조 + 언어학; 두 특정 언어를 비교"
+  - japanese: "比較言語学"
+    reading: "ひかくげんごがく"
+    translation:
+      en: "comparative linguistics"
+      ko: "비교언어학"
+    gender: null
+    notes:
+      en: "comparison + linguistics; studying historical language relations"
+      ko: "비교 + 언어학; 역사적 언어 관계 연구"
+  - japanese: "音声記号"
+    reading: "おんせいきごう"
+    translation:
+      en: "phonetic symbol"
+      ko: "음성기호"
+    gender: null
+    notes:
+      en: "sound + symbol; 国際音声記号 = IPA (International Phonetic Alphabet)"
+      ko: "음성 + 기호; 国際音声記号 = IPA (국제음성기호)"
+  - japanese: "転写"
+    reading: "てんしゃ"
+    translation:
+      en: "transcription"
+      ko: "전사"
+    gender: null
+    notes:
+      en: "transfer + write; 音声転写 = phonetic transcription"
+      ko: "전 + 사; 音声転写 = 음성 전사"
+  - japanese: "借用語"
+    reading: "しゃくようご"
+    translation:
+      en: "borrowed word, loanword"
+      ko: "차용어"
+    gender: null
+    notes:
+      en: "borrow + use + word; 英語からの借用語 = loanwords from English"
+      ko: "빌리다 + 쓰다 + 어; 英語からの借用語 = 영어에서의 차용어"
+  - japanese: "造語"
+    reading: "ぞうご"
+    translation:
+      en: "coinage, neologism"
+      ko: "조어"
+    gender: null
+    notes:
+      en: "create + word; 造語力 = word-forming ability"
+      ko: "만들다 + 어; 造語力 = 조어력"
+  - japanese: "語形変化"
+    reading: "ごけいへんか"
+    translation:
+      en: "inflection, morphological change"
+      ko: "어형변화"
+    gender: null
+    notes:
+      en: "word + form + change"
+      ko: "어 + 형 + 변화"
+  - japanese: "言語習得"
+    reading: "げんごしゅうとく"
+    translation:
+      en: "language acquisition"
+      ko: "언어습득"
+    gender: null
+    notes:
+      en: "language + acquisition; 第二言語習得 = second language acquisition"
+      ko: "언어 + 습득; 第二言語習得 = 제2언어 습득"
+  - japanese: "中間言語"
+    reading: "ちゅうかんげんご"
+    translation:
+      en: "interlanguage"
+      ko: "중간언어"
+    gender: null
+    notes:
+      en: "middle + language; a learner's developing linguistic system"
+      ko: "중간 + 언어; 학습자의 발달 중인 언어 체계"
+  - japanese: "化石化"
+    reading: "かせきか"
+    translation:
+      en: "fossilization (language learning)"
+      ko: "화석화"
+    gender: null
+    notes:
+      en: "fossil + -ize; permanent errors in language learning"
+      ko: "화석 + 화; 언어학습에서의 영구적 오류"
+  - japanese: "母語干渉"
+    reading: "ぼごかんしょう"
+    translation:
+      en: "L1 interference, transfer"
+      ko: "모어간섭"
+    gender: null
+    notes:
+      en: "mother tongue + interference; negative transfer from L1"
+      ko: "모어 + 간섭; L1에서의 부정적 전이"
+  - japanese: "言語能力"
+    reading: "げんごのうりょく"
+    translation:
+      en: "linguistic competence"
+      ko: "언어능력"
+    gender: null
+    notes:
+      en: "language + ability; Chomsky's concept"
+      ko: "언어 + 능력; 촘스키의 개념"
+  - japanese: "言語運用"
+    reading: "げんごうんよう"
+    translation:
+      en: "linguistic performance"
+      ko: "언어운용"
+    gender: null
+    notes:
+      en: "language + application; actual use of language"
+      ko: "언어 + 운용; 실제 언어 사용"
+  - japanese: "生成文法"
+    reading: "せいせいぶんぽう"
+    translation:
+      en: "generative grammar"
+      ko: "생성문법"
+    gender: null
+    notes:
+      en: "generate + grammar; Chomsky's theory"
+      ko: "생성 + 문법; 촘스키의 이론"
+  - japanese: "深層構造"
+    reading: "しんそうこうぞう"
+    translation:
+      en: "deep structure"
+      ko: "심층구조"
+    gender: null
+    notes:
+      en: "deep + structure; opposite: 表層構造 = surface structure"
+      ko: "심층 + 구조; 반대: 表層構造 = 표층구조"
+  - japanese: "文脈"
+    reading: "ぶんみゃく"
+    translation:
+      en: "context"
+      ko: "문맥"
+    gender: null
+    notes:
+      en: "sentence + vein; 文脈に依存する = to depend on context"
+      ko: "문 + 맥; 文脈に依存する = 문맥에 의존하다"
+  - japanese: "照応"
+    reading: "しょうおう"
+    translation:
+      en: "anaphora, reference"
+      ko: "조응"
+    gender: null
+    notes:
+      en: "illuminate + respond; 照応関係 = anaphoric relation"
+      ko: "비추다 + 응하다; 照応関係 = 조응관계"
+  - japanese: "言語相対論"
+    reading: "げんごそうたいろん"
+    translation:
+      en: "linguistic relativity"
+      ko: "언어상대론"
+    gender: null
+    notes:
+      en: "language + relativity; Sapir-Whorf hypothesis"
+      ko: "언어 + 상대론; 사피어-워프 가설"
+  - japanese: "普遍文法"
+    reading: "ふへんぶんぽう"
+    translation:
+      en: "universal grammar"
+      ko: "보편문법"
+    gender: null
+    notes:
+      en: "universal + grammar; innate grammar shared by all humans"
+      ko: "보편 + 문법; 모든 인간이 공유하는 선천적 문법"
+  - japanese: "語用論的"
+    reading: "ごようろんてき"
+    translation:
+      en: "pragmatic"
+      ko: "화용론적"
+    gender: null
+    notes:
+      en: "pragmatics + adjectival; 語用論的推論 = pragmatic inference"
+      ko: "화용론 + 적; 語用論的推論 = 화용론적 추론"
+  - japanese: "言語変化"
+    reading: "げんごへんか"
+    translation:
+      en: "language change"
+      ko: "언어변화"
+    gender: null
+    notes:
+      en: "language + change; 言語変化の過程 = process of language change"
+      ko: "언어 + 변화; 言語変化の過程 = 언어변화의 과정"
+  - japanese: "文字論"
+    reading: "もじろん"
+    translation:
+      en: "graphemics, writing system theory"
+      ko: "문자론"
+    gender: null
+    notes:
+      en: "character + theory; the study of writing systems"
+      ko: "문자 + 론; 문자 체계에 대한 연구"
+  - japanese: "表意文字"
+    reading: "ひょういもじ"
+    translation:
+      en: "ideograph, logograph"
+      ko: "표의문자"
+    gender: null
+    notes:
+      en: "express + meaning + character; kanji are logographic"
+      ko: "표 + 의 + 문자; 한자는 표의문자"
+  - japanese: "表音文字"
+    reading: "ひょうおんもじ"
+    translation:
+      en: "phonograph, phonetic script"
+      ko: "표음문자"
+    gender: null
+    notes:
+      en: "express + sound + character; hiragana and katakana are phonetic"
+      ko: "표 + 음 + 문자; 히라가나와 가타카나는 표음문자"
+  - japanese: "書記体系"
+    reading: "しょきたいけい"
+    translation:
+      en: "writing system"
+      ko: "서기체계"
+    gender: null
+    notes:
+      en: "write + system; 日本語の書記体系 = the Japanese writing system"
+      ko: "쓰다 + 체계; 日本語の書記体系 = 일본어 서기체계"
+  - japanese: "正書法"
+    reading: "せいしょほう"
+    translation:
+      en: "orthography"
+      ko: "정서법"
+    gender: null
+    notes:
+      en: "correct + writing + method; the standard writing system"
+      ko: "바르다 + 쓰다 + 법; 표준 표기 체계"
+  - japanese: "統語規則"
+    reading: "とうごきそく"
+    translation:
+      en: "syntactic rule"
+      ko: "통어규칙"
+    gender: null
+    notes:
+      en: "syntax + rule; rules governing sentence structure"
+      ko: "통어 + 규칙; 문장 구조를 지배하는 규칙"
+  - japanese: "意味役割"
+    reading: "いみやくわり"
+    translation:
+      en: "semantic role, thematic role"
+      ko: "의미역할"
+    gender: null
+    notes:
+      en: "meaning + role; 動作主 = agent, 被動作主 = patient"
+      ko: "의미 + 역할; 動作主 = 행위자, 被動作主 = 피행위자"
+  - japanese: "格助詞"
+    reading: "かくじょし"
+    translation:
+      en: "case particle"
+      ko: "격조사"
+    gender: null
+    notes:
+      en: "case + particle; が, を, に are case particles"
+      ko: "격 + 조사; が, を, に는 격조사"
+  - japanese: "副助詞"
+    reading: "ふくじょし"
+    translation:
+      en: "adverbial particle"
+      ko: "부조사"
+    gender: null
+    notes:
+      en: "adverbial + particle; は, も, さえ are adverbial particles"
+      ko: "부 + 조사; は, も, さえ는 부조사"
+  - japanese: "終助詞"
+    reading: "しゅうじょし"
+    translation:
+      en: "sentence-final particle"
+      ko: "종조사"
+    gender: null
+    notes:
+      en: "end + particle; よ, ね, か are sentence-final particles"
+      ko: "종 + 조사; よ, ね, か는 종조사"
+  - japanese: "待遇表現"
+    reading: "たいぐうひょうげん"
+    translation:
+      en: "politeness expressions"
+      ko: "대우표현"
+    gender: null
+    notes:
+      en: "treatment + expression; the broader system of politeness in Japanese"
+      ko: "대우 + 표현; 일본어의 광범위한 공손 체계"
+  - japanese: "言語行動"
+    reading: "げんごこうどう"
+    translation:
+      en: "linguistic behavior"
+      ko: "언어행동"
+    gender: null
+    notes:
+      en: "language + behavior; 言語行動の分析 = analysis of linguistic behavior"
+      ko: "언어 + 행동; 言語行動の分析 = 언어행동 분석"
+  - japanese: "文体"
+    reading: "ぶんたい"
+    translation:
+      en: "style (of writing)"
+      ko: "문체"
+    gender: null
+    notes:
+      en: "sentence + body; 文体論 = stylistics"
+      ko: "문 + 체; 文体論 = 문체론"
+  - japanese: "口語"
+    reading: "こうご"
+    translation:
+      en: "colloquial language, spoken language"
+      ko: "구어"
+    gender: null
+    notes:
+      en: "mouth + language; opposite: 文語 (ぶんご) = literary language"
+      ko: "입 + 어; 반대: 文語 = 문어"
+  - japanese: "文語"
+    reading: "ぶんご"
+    translation:
+      en: "literary language, classical language"
+      ko: "문어"
+    gender: null
+    notes:
+      en: "writing + language; 文語文法 = classical grammar"
+      ko: "문 + 어; 文語文法 = 문어문법"
+  - japanese: "言語地理学"
+    reading: "げんごちりがく"
+    translation:
+      en: "linguistic geography"
+      ko: "언어지리학"
+    gender: null
+    notes:
+      en: "language + geography; mapping dialect distributions"
+      ko: "언어 + 지리학; 방언 분포 매핑"
+  - japanese: "コーパス"
+    reading: null
+    translation:
+      en: "corpus"
+      ko: "코퍼스, 말뭉치"
+    gender: null
+    notes:
+      en: "katakana; コーパス言語学 = corpus linguistics"
+      ko: "외래어; コーパス言語学 = 코퍼스 언어학"
+  - japanese: "計量言語学"
+    reading: "けいりょうげんごがく"
+    translation:
+      en: "quantitative linguistics"
+      ko: "계량언어학"
+    gender: null
+    notes:
+      en: "quantitative + linguistics; statistical analysis of language"
+      ko: "계량 + 언어학; 언어의 통계적 분석"
+  - japanese: "応用言語学"
+    reading: "おうようげんごがく"
+    translation:
+      en: "applied linguistics"
+      ko: "응용언어학"
+    gender: null
+    notes:
+      en: "applied + linguistics; 応用言語学の研究 = research in applied linguistics"
+      ko: "응용 + 언어학; 応用言語学の研究 = 응용언어학 연구"
+  - japanese: "言語教育"
+    reading: "げんごきょういく"
+    translation:
+      en: "language education"
+      ko: "언어교육"
+    gender: null
+    notes:
+      en: "language + education; 外国語教育 = foreign language education"
+      ko: "언어 + 교육; 外国語教育 = 외국어 교육"
+  - japanese: "認知言語学"
+    reading: "にんちげんごがく"
+    translation:
+      en: "cognitive linguistics"
+      ko: "인지언어학"
+    gender: null
+    notes:
+      en: "cognitive + linguistics; language reflects cognitive processes"
+      ko: "인지 + 언어학; 언어는 인지 과정을 반영"
+  - japanese: "心理言語学"
+    reading: "しんりげんごがく"
+    translation:
+      en: "psycholinguistics"
+      ko: "심리언어학"
+    gender: null
+    notes:
+      en: "psychology + linguistics; language processing in the mind"
+      ko: "심리 + 언어학; 마음속의 언어 처리"
+  - japanese: "神経言語学"
+    reading: "しんけいげんごがく"
+    translation:
+      en: "neurolinguistics"
+      ko: "신경언어학"
+    gender: null
+    notes:
+      en: "neuro + linguistics; brain mechanisms of language"
+      ko: "신경 + 언어학; 언어의 뇌 메커니즘"
+  - japanese: "失語症"
+    reading: "しつごしょう"
+    translation:
+      en: "aphasia"
+      ko: "실어증"
+    gender: null
+    notes:
+      en: "lose + language + condition; language impairment from brain damage"
+      ko: "잃다 + 어 + 증; 뇌 손상으로 인한 언어 장애"
+  - japanese: "多言語主義"
+    reading: "たげんごしゅぎ"
+    translation:
+      en: "multilingualism"
+      ko: "다언어주의"
+    gender: null
+    notes:
+      en: "many + language + -ism; 多言語社会 = multilingual society"
+      ko: "다 + 언어 + 주의; 多言語社会 = 다언어 사회"
+  - japanese: "共通祖語"
+    reading: "きょうつうそご"
+    translation:
+      en: "proto-language"
+      ko: "공통조어"
+    gender: null
+    notes:
+      en: "common + ancestor + language; the reconstructed common ancestor"
+      ko: "공통 + 조상 + 어; 재구된 공통 조상 언어"
+  - japanese: "言語普遍性"
+    reading: "げんごふへんせい"
+    translation:
+      en: "language universal"
+      ko: "언어보편성"
+    gender: null
+    notes:
+      en: "language + universality; features common to all languages"
+      ko: "언어 + 보편성; 모든 언어에 공통된 특징"
+  - japanese: "話者"
+    reading: "わしゃ"
+    translation:
+      en: "speaker"
+      ko: "화자"
+    gender: null
+    notes:
+      en: "speak + person; 母語話者 = native speaker"
+      ko: "말하다 + 자; 母語話者 = 모어 화자"
+  - japanese: "言語接触"
+    reading: "げんごせっしょく"
+    translation:
+      en: "language contact"
+      ko: "언어 접촉"
+    gender: null
+    notes:
+      en: "language + contact; interaction between different languages"
+      ko: "언어 + 접촉; 서로 다른 언어 간의 상호작용"
+  - japanese: "借用語"
+    reading: "しゃくようご"
+    translation:
+      en: "loanword"
+      ko: "차용어"
+    gender: null
+    notes:
+      en: "borrow + use + word; a word adopted from another language"
+      ko: "빌리다 + 용 + 어; 다른 언어에서 빌려온 단어"
+  - japanese: "語族"
+    reading: "ごぞく"
+    translation:
+      en: "language family"
+      ko: "어족"
+    gender: null
+    notes:
+      en: "language + family; インド・ヨーロッパ語族 = Indo-European family"
+      ko: "어 + 족; インド・ヨーロッパ語族 = 인도유럽어족"
+  - japanese: "文字体系"
+    reading: "もじたいけい"
+    translation:
+      en: "writing system"
+      ko: "문자 체계"
+    gender: null
+    notes:
+      en: "character + system; 文字体系を分析する = to analyze a writing system"
+      ko: "문자 + 체계; 文字体系を分析する = 문자 체계를 분석하다"
+  - japanese: "語彙論"
+    reading: "ごいろん"
+    translation:
+      en: "lexicology"
+      ko: "어휘론"
+    gender: null
+    notes:
+      en: "vocabulary + theory; the study of the lexicon"
+      ko: "어휘 + 론; 어휘에 대한 학문"
+  - japanese: "通時的"
+    reading: "つうじてき"
+    translation:
+      en: "diachronic"
+      ko: "통시적"
+    gender: null
+    notes:
+      en: "through + time + adjectival; 通時的研究 = diachronic study"
+      ko: "통 + 시 + 적; 通時的研究 = 통시적 연구"
+  - japanese: "共時的"
+    reading: "きょうじてき"
+    translation:
+      en: "synchronic"
+      ko: "공시적"
+    gender: null
+    notes:
+      en: "together + time + adjectival; 共時的分析 = synchronic analysis"
+      ko: "공 + 시 + 적; 共時的分析 = 공시적 분석"
+  - japanese: "言語変化"
+    reading: "げんごへんか"
+    translation:
+      en: "language change"
+      ko: "언어 변화"
+    gender: null
+    notes:
+      en: "language + change; 言語変化の過程 = process of language change"
+      ko: "언어 + 변화; 言語変化の過程 = 언어 변화의 과정"
+  - japanese: "母音調和"
+    reading: "ぼいんちょうわ"
+    translation:
+      en: "vowel harmony"
+      ko: "모음조화"
+    gender: null
+    notes:
+      en: "vowel + harmony; a phonological rule in some languages"
+      ko: "모음 + 조화; 일부 언어의 음운 규칙"
+  - japanese: "屈折"
+    reading: "くっせつ"
+    translation:
+      en: "inflection"
+      ko: "굴절"
+    gender: null
+    notes:
+      en: "bend + fold; 屈折語 = inflectional language"
+      ko: "굽다 + 절; 屈折語 = 굴절어"

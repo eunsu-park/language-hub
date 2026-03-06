@@ -1,0 +1,1577 @@
+lesson: "sup_N5_Weather_Seasons_and_Time"
+lesson_number: 106
+jlpt: N5
+type: supplementary
+topic: "Weather, Seasons, and Time"
+categories:
+- id: weather_conditions
+  label:
+    en: "Weather Conditions"
+    ko: "날씨 상태"
+  type: vocabulary
+  words:
+  - japanese: "天気"
+    reading: "てんき"
+    translation:
+      en: "weather"
+      ko: "날씨"
+    gender: null
+    notes:
+      en: "天気予報 = weather forecast"
+      ko: "天気予報 = 일기예보"
+  - japanese: "晴れ"
+    reading: "はれ"
+    translation:
+      en: "sunny, clear weather"
+      ko: "맑음, 화창한 날씨"
+    gender: null
+    notes:
+      en: "晴れる (はれる) = to clear up"
+      ko: "晴れる(はれる) = 맑아지다"
+  - japanese: "曇り"
+    reading: "くもり"
+    translation:
+      en: "cloudy"
+      ko: "흐림"
+    gender: null
+    notes:
+      en: "曇る (くもる) = to become cloudy"
+      ko: "曇る(くもる) = 흐려지다"
+  - japanese: "雨"
+    reading: "あめ"
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: null
+    notes:
+      en: "basic N5 kanji"
+      ko: "기본 N5 한자"
+  - japanese: "雪"
+    reading: "ゆき"
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: null
+    notes:
+      en: "basic N5 kanji"
+      ko: "기본 N5 한자"
+  - japanese: "風"
+    reading: "かぜ"
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: null
+    notes:
+      en: "same pronunciation as 風邪 (cold illness)"
+      ko: "風邪(감기)와 같은 발음"
+  - japanese: "台風"
+    reading: "たいふう"
+    translation:
+      en: "typhoon"
+      ko: "태풍"
+    gender: null
+    notes:
+      en: "common in Japan during summer/autumn"
+      ko: "여름/가을에 일본에서 흔함"
+  - japanese: "雷"
+    reading: "かみなり"
+    translation:
+      en: "thunder, lightning"
+      ko: "천둥, 번개"
+    gender: null
+    notes:
+      en: "covers both thunder and lightning"
+      ko: "천둥과 번개 모두 포함"
+  - japanese: "霧"
+    reading: "きり"
+    translation:
+      en: "fog, mist"
+      ko: "안개"
+    gender: null
+    notes:
+      en: "common in mountain areas"
+      ko: "산지에서 흔함"
+  - japanese: "虹"
+    reading: "にじ"
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: null
+    notes:
+      en: "appears after rain"
+      ko: "비 온 후에 나타남"
+  - japanese: "暑い"
+    reading: "あつい"
+    translation:
+      en: "hot (weather)"
+      ko: "더운 (날씨)"
+    gender: null
+    notes:
+      en: "for air temperature; not for objects"
+      ko: "기온에 사용; 사물에는 사용하지 않음"
+  - japanese: "寒い"
+    reading: "さむい"
+    translation:
+      en: "cold (weather)"
+      ko: "추운 (날씨)"
+    gender: null
+    notes:
+      en: "for air temperature"
+      ko: "기온에 사용"
+  - japanese: "涼しい"
+    reading: "すずしい"
+    translation:
+      en: "cool, refreshing"
+      ko: "시원한, 선선한"
+    gender: null
+    notes:
+      en: "pleasant coolness"
+      ko: "쾌적한 서늘함"
+  - japanese: "暖かい"
+    reading: "あたたかい"
+    translation:
+      en: "warm"
+      ko: "따뜻한"
+    gender: null
+    notes:
+      en: "pleasant warmth"
+      ko: "쾌적한 따뜻함"
+  - japanese: "蒸し暑い"
+    reading: "むしあつい"
+    translation:
+      en: "humid, muggy"
+      ko: "무더운, 습한"
+    gender: null
+    notes:
+      en: "steamy + hot; describes Japanese summer"
+      ko: "찌는 + 더운; 일본 여름을 묘사"
+  - japanese: "天気予報"
+    reading: "てんきよほう"
+    translation:
+      en: "weather forecast"
+      ko: "일기예보"
+    gender: null
+    notes:
+      en: "weather + prediction"
+      ko: "날씨 + 예보"
+  - japanese: "気温"
+    reading: "きおん"
+    translation:
+      en: "temperature (air)"
+      ko: "기온"
+    gender: null
+    notes:
+      en: "spirit + warm = temperature"
+      ko: "기 + 온 = 기온"
+  - japanese: "降る"
+    reading: "ふる"
+    translation:
+      en: "to fall (rain, snow)"
+      ko: "내리다 (비, 눈)"
+    gender: null
+    notes:
+      en: "雨が降る = it rains"
+      ko: "雨が降る = 비가 내리다"
+  - japanese: "吹く"
+    reading: "ふく"
+    translation:
+      en: "to blow (wind)"
+      ko: "불다 (바람)"
+    gender: null
+    notes:
+      en: "風が吹く = wind blows"
+      ko: "風が吹く = 바람이 불다"
+  - japanese: "止む"
+    reading: "やむ"
+    translation:
+      en: "to stop (rain/snow)"
+      ko: "그치다 (비/눈)"
+    gender: null
+    notes:
+      en: "雨が止む = rain stops"
+      ko: "雨が止む = 비가 그치다"
+  - japanese: "晴れる"
+    reading: "はれる"
+    translation:
+      en: "to clear up (weather)"
+      ko: "맑아지다"
+    gender: null
+    notes:
+      en: "空が晴れる = sky clears up"
+      ko: "空が晴れる = 하늘이 맑아지다"
+  - japanese: "梅雨"
+    reading: "つゆ"
+    translation:
+      en: "rainy season"
+      ko: "장마, 우기"
+    gender: null
+    notes:
+      en: "plum + rain; June-July in Japan"
+      ko: "매화 + 비; 일본의 6-7월"
+  - japanese: "大雨"
+    reading: "おおあめ"
+    translation:
+      en: "heavy rain"
+      ko: "폭우, 큰비"
+    gender: null
+    notes:
+      en: "big + rain"
+      ko: "큰 + 비"
+  - japanese: "乾燥"
+    reading: "かんそう"
+    translation:
+      en: "dry, dryness"
+      ko: "건조"
+    gender: null
+    notes:
+      en: "乾燥する = to be dry"
+      ko: "乾燥する = 건조하다"
+  - japanese: "湿度"
+    reading: "しつど"
+    translation:
+      en: "humidity"
+      ko: "습도"
+    gender: null
+    notes:
+      en: "wet + degree"
+      ko: "습 + 도"
+  - japanese: "にわか雨"
+    reading: "にわかあめ"
+    translation:
+      en: "sudden rain, shower"
+      ko: "소나기"
+    gender: null
+    notes:
+      en: "sudden + rain"
+      ko: "갑작스러운 + 비"
+  - japanese: "曇る"
+    reading: "くもる"
+    translation:
+      en: "to become cloudy"
+      ko: "흐려지다"
+    gender: null
+    notes:
+      en: "空が曇る = sky becomes cloudy"
+      ko: "空が曇る = 하늘이 흐려지다"
+  - japanese: "積もる"
+    reading: "つもる"
+    translation:
+      en: "to pile up, to accumulate (snow)"
+      ko: "쌓이다"
+    gender: null
+    notes:
+      en: "雪が積もる = snow piles up"
+      ko: "雪が積もる = 눈이 쌓이다"
+  - japanese: "日差し"
+    reading: "ひざし"
+    translation:
+      en: "sunlight, rays of sun"
+      ko: "햇살"
+    gender: null
+    notes:
+      en: "sun + shine/cast"
+      ko: "해 + 비추기"
+
+- id: seasons_months
+  label:
+    en: "Seasons and Months"
+    ko: "계절과 달"
+  type: vocabulary
+  words:
+  - japanese: "季節"
+    reading: "きせつ"
+    translation:
+      en: "season"
+      ko: "계절"
+    gender: null
+    notes:
+      en: "general term for season"
+      ko: "계절의 일반적인 표현"
+  - japanese: "春"
+    reading: "はる"
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: null
+    notes:
+      en: "March to May"
+      ko: "3월부터 5월"
+  - japanese: "夏"
+    reading: "なつ"
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: null
+    notes:
+      en: "June to August"
+      ko: "6월부터 8월"
+  - japanese: "秋"
+    reading: "あき"
+    translation:
+      en: "autumn, fall"
+      ko: "가을"
+    gender: null
+    notes:
+      en: "September to November"
+      ko: "9월부터 11월"
+  - japanese: "冬"
+    reading: "ふゆ"
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: null
+    notes:
+      en: "December to February"
+      ko: "12월부터 2월"
+  - japanese: "一月"
+    reading: "いちがつ"
+    translation:
+      en: "January"
+      ko: "1월"
+    gender: null
+    notes:
+      en: "month 1"
+      ko: "첫째 달"
+  - japanese: "二月"
+    reading: "にがつ"
+    translation:
+      en: "February"
+      ko: "2월"
+    gender: null
+    notes:
+      en: "month 2"
+      ko: "둘째 달"
+  - japanese: "三月"
+    reading: "さんがつ"
+    translation:
+      en: "March"
+      ko: "3월"
+    gender: null
+    notes:
+      en: "month 3"
+      ko: "셋째 달"
+  - japanese: "四月"
+    reading: "しがつ"
+    translation:
+      en: "April"
+      ko: "4월"
+    gender: null
+    notes:
+      en: "month 4; start of school/fiscal year"
+      ko: "넷째 달; 학년/회계연도 시작"
+  - japanese: "五月"
+    reading: "ごがつ"
+    translation:
+      en: "May"
+      ko: "5월"
+    gender: null
+    notes:
+      en: "month 5; Golden Week"
+      ko: "다섯째 달; 골든위크"
+  - japanese: "六月"
+    reading: "ろくがつ"
+    translation:
+      en: "June"
+      ko: "6월"
+    gender: null
+    notes:
+      en: "month 6; rainy season"
+      ko: "여섯째 달; 장마철"
+  - japanese: "七月"
+    reading: "しちがつ"
+    translation:
+      en: "July"
+      ko: "7월"
+    gender: null
+    notes:
+      en: "month 7"
+      ko: "일곱째 달"
+  - japanese: "八月"
+    reading: "はちがつ"
+    translation:
+      en: "August"
+      ko: "8월"
+    gender: null
+    notes:
+      en: "month 8; Obon holiday"
+      ko: "여덟째 달; 오본 연휴"
+  - japanese: "九月"
+    reading: "くがつ"
+    translation:
+      en: "September"
+      ko: "9월"
+    gender: null
+    notes:
+      en: "month 9"
+      ko: "아홉째 달"
+  - japanese: "十月"
+    reading: "じゅうがつ"
+    translation:
+      en: "October"
+      ko: "10월"
+    gender: null
+    notes:
+      en: "month 10"
+      ko: "열째 달"
+  - japanese: "十一月"
+    reading: "じゅういちがつ"
+    translation:
+      en: "November"
+      ko: "11월"
+    gender: null
+    notes:
+      en: "month 11"
+      ko: "열한째 달"
+  - japanese: "十二月"
+    reading: "じゅうにがつ"
+    translation:
+      en: "December"
+      ko: "12월"
+    gender: null
+    notes:
+      en: "month 12; year-end"
+      ko: "열두째 달; 연말"
+  - japanese: "夏休み"
+    reading: "なつやすみ"
+    translation:
+      en: "summer vacation"
+      ko: "여름 방학"
+    gender: null
+    notes:
+      en: "summer + rest; July-August for schools"
+      ko: "여름 + 쉼; 학교는 7-8월"
+  - japanese: "冬休み"
+    reading: "ふゆやすみ"
+    translation:
+      en: "winter vacation"
+      ko: "겨울 방학"
+    gender: null
+    notes:
+      en: "winter + rest; late December - early January"
+      ko: "겨울 + 쉼; 12월 말 - 1월 초"
+  - japanese: "春休み"
+    reading: "はるやすみ"
+    translation:
+      en: "spring vacation"
+      ko: "봄 방학"
+    gender: null
+    notes:
+      en: "spring + rest; late March - early April"
+      ko: "봄 + 쉼; 3월 말 - 4월 초"
+  - japanese: "紅葉"
+    reading: "こうよう"
+    translation:
+      en: "autumn leaves, fall foliage"
+      ko: "단풍"
+    gender: null
+    notes:
+      en: "red + leaves; iconic autumn scenery"
+      ko: "빨간 + 잎; 상징적인 가을 풍경"
+  - japanese: "花粉"
+    reading: "かふん"
+    translation:
+      en: "pollen"
+      ko: "꽃가루"
+    gender: null
+    notes:
+      en: "花粉症 = hay fever; big problem in spring"
+      ko: "花粉症 = 꽃가루 알레르기; 봄에 큰 문제"
+
+- id: time_of_day
+  label:
+    en: "Time of Day"
+    ko: "하루 중 시간대"
+  type: vocabulary
+  words:
+  - japanese: "朝"
+    reading: "あさ"
+    translation:
+      en: "morning"
+      ko: "아침"
+    gender: null
+    notes:
+      en: "early part of the day"
+      ko: "하루의 이른 시간"
+  - japanese: "昼"
+    reading: "ひる"
+    translation:
+      en: "noon, daytime"
+      ko: "낮, 정오"
+    gender: null
+    notes:
+      en: "お昼 = lunch"
+      ko: "お昼 = 점심"
+  - japanese: "午前"
+    reading: "ごぜん"
+    translation:
+      en: "morning, a.m."
+      ko: "오전"
+    gender: null
+    notes:
+      en: "before noon"
+      ko: "정오 이전"
+  - japanese: "午後"
+    reading: "ごご"
+    translation:
+      en: "afternoon, p.m."
+      ko: "오후"
+    gender: null
+    notes:
+      en: "after noon"
+      ko: "정오 이후"
+  - japanese: "夕方"
+    reading: "ゆうがた"
+    translation:
+      en: "evening (early)"
+      ko: "저녁 (이른)"
+    gender: null
+    notes:
+      en: "around sunset"
+      ko: "해질 무렵"
+  - japanese: "夜"
+    reading: "よる"
+    translation:
+      en: "night"
+      ko: "밤"
+    gender: null
+    notes:
+      en: "after dark"
+      ko: "어두워진 후"
+  - japanese: "夜中"
+    reading: "よなか"
+    translation:
+      en: "middle of the night, midnight"
+      ko: "한밤중"
+    gender: null
+    notes:
+      en: "late night hours"
+      ko: "늦은 밤 시간"
+  - japanese: "明け方"
+    reading: "あけがた"
+    translation:
+      en: "dawn, daybreak"
+      ko: "새벽"
+    gender: null
+    notes:
+      en: "just before sunrise"
+      ko: "해가 뜨기 직전"
+  - japanese: "日の出"
+    reading: "ひので"
+    translation:
+      en: "sunrise"
+      ko: "일출"
+    gender: null
+    notes:
+      en: "sun + come out; important on New Year"
+      ko: "해 + 나옴; 새해에 중요"
+  - japanese: "日の入り"
+    reading: "ひのいり"
+    translation:
+      en: "sunset"
+      ko: "일몰"
+    gender: null
+    notes:
+      en: "sun + enter"
+      ko: "해 + 들어감"
+  - japanese: "夕焼け"
+    reading: "ゆうやけ"
+    translation:
+      en: "sunset glow, evening glow"
+      ko: "노을"
+    gender: null
+    notes:
+      en: "evening + burn"
+      ko: "저녁 + 타다"
+  - japanese: "朝日"
+    reading: "あさひ"
+    translation:
+      en: "morning sun, sunrise"
+      ko: "아침 햇살, 조일"
+    gender: null
+    notes:
+      en: "morning + sun"
+      ko: "아침 + 해"
+  - japanese: "昼間"
+    reading: "ひるま"
+    translation:
+      en: "daytime"
+      ko: "낮 시간"
+    gender: null
+    notes:
+      en: "noon + between"
+      ko: "낮 + 사이"
+  - japanese: "真夜中"
+    reading: "まよなか"
+    translation:
+      en: "the dead of night, midnight"
+      ko: "한밤중, 자정"
+    gender: null
+    notes:
+      en: "true + middle of night"
+      ko: "정말 + 밤중"
+  - japanese: "昼寝"
+    reading: "ひるね"
+    translation:
+      en: "afternoon nap"
+      ko: "낮잠"
+    gender: null
+    notes:
+      en: "noon + sleep"
+      ko: "낮 + 잠"
+  - japanese: "早起き"
+    reading: "はやおき"
+    translation:
+      en: "early rising"
+      ko: "일찍 일어남"
+    gender: null
+    notes:
+      en: "early + getting up"
+      ko: "일찍 + 일어나기"
+  - japanese: "夜更かし"
+    reading: "よふかし"
+    translation:
+      en: "staying up late"
+      ko: "밤늦게까지 깨어 있음"
+    gender: null
+    notes:
+      en: "night + staying awake"
+      ko: "밤 + 늦게까지 깨어 있기"
+  - japanese: "昼下がり"
+    reading: "ひるさがり"
+    translation:
+      en: "early afternoon"
+      ko: "오후 초, 한낮 지난 시간"
+    gender: null
+    notes:
+      en: "noon + past; after lunch time"
+      ko: "낮 + 지난; 점심 후 시간"
+  - japanese: "夕暮れ"
+    reading: "ゆうぐれ"
+    translation:
+      en: "dusk, twilight"
+      ko: "황혼, 어스름"
+    gender: null
+    notes:
+      en: "evening + darkening"
+      ko: "저녁 + 어두워짐"
+  - japanese: "時"
+    reading: "じ"
+    translation:
+      en: "o'clock (hour counter)"
+      ko: "시 (시간 단위)"
+    gender: null
+    notes:
+      en: "三時 = 3 o'clock"
+      ko: "三時 = 3시"
+  - japanese: "分"
+    reading: "ふん"
+    translation:
+      en: "minute"
+      ko: "분"
+    gender: null
+    notes:
+      en: "十分 = 10 minutes (じゅっぷん)"
+      ko: "十分 = 10분 (じゅっぷん)"
+  - japanese: "秒"
+    reading: "びょう"
+    translation:
+      en: "second (time)"
+      ko: "초"
+    gender: null
+    notes:
+      en: "三十秒 = 30 seconds"
+      ko: "三十秒 = 30초"
+  - japanese: "半"
+    reading: "はん"
+    translation:
+      en: "half (past the hour)"
+      ko: "반 (30분)"
+    gender: null
+    notes:
+      en: "三時半 = 3:30"
+      ko: "三時半 = 3시 반"
+  - japanese: "時間"
+    reading: "じかん"
+    translation:
+      en: "time, hour (duration)"
+      ko: "시간"
+    gender: null
+    notes:
+      en: "三時間 = 3 hours (duration)"
+      ko: "三時間 = 3시간 (기간)"
+  - japanese: "遅い"
+    reading: "おそい"
+    translation:
+      en: "late, slow"
+      ko: "늦은, 느린"
+    gender: null
+    notes:
+      en: "遅刻 (ちこく) = being late"
+      ko: "遅刻(ちこく) = 지각"
+  - japanese: "早い"
+    reading: "はやい"
+    translation:
+      en: "early, fast"
+      ko: "이른, 빠른"
+    gender: null
+    notes:
+      en: "朝早い = early morning"
+      ko: "朝早い = 이른 아침"
+
+- id: frequency_adverbs
+  label:
+    en: "Frequency Adverbs"
+    ko: "빈도 부사"
+  type: vocabulary
+  words:
+  - japanese: いつも
+    reading: null
+    translation:
+      en: "always"
+      ko: "항상, 언제나"
+    gender: null
+    notes:
+      en: "highest frequency"
+      ko: "가장 높은 빈도"
+  - japanese: よく
+    reading: null
+    translation:
+      en: "often, well"
+      ko: "자주, 잘"
+    gender: null
+    notes:
+      en: "also means 'well' as in doing well"
+      ko: "잘한다는 의미로도 사용"
+  - japanese: "時々"
+    reading: "ときどき"
+    translation:
+      en: "sometimes"
+      ko: "가끔"
+    gender: null
+    notes:
+      en: "time + time"
+      ko: "때 + 때"
+  - japanese: たまに
+    reading: null
+    translation:
+      en: "occasionally, rarely"
+      ko: "가끔, 드물게"
+    gender: null
+    notes:
+      en: "less frequent than 時々"
+      ko: "時々보다 빈도가 낮음"
+  - japanese: あまり
+    reading: null
+    translation:
+      en: "not very, not much"
+      ko: "별로, 그다지"
+    gender: null
+    notes:
+      en: "used with negative verb"
+      ko: "부정 동사와 함께 사용"
+  - japanese: "全然"
+    reading: "ぜんぜん"
+    translation:
+      en: "not at all"
+      ko: "전혀"
+    gender: null
+    notes:
+      en: "used with negative; informally with positive too"
+      ko: "부정과 함께 사용; 비공식적으로 긍정과도"
+  - japanese: "毎日"
+    reading: "まいにち"
+    translation:
+      en: "every day"
+      ko: "매일"
+    gender: null
+    notes:
+      en: "every + day"
+      ko: "매 + 일"
+  - japanese: "毎週"
+    reading: "まいしゅう"
+    translation:
+      en: "every week"
+      ko: "매주"
+    gender: null
+    notes:
+      en: "every + week"
+      ko: "매 + 주"
+  - japanese: "毎月"
+    reading: "まいつき"
+    translation:
+      en: "every month"
+      ko: "매달"
+    gender: null
+    notes:
+      en: "every + month"
+      ko: "매 + 달"
+  - japanese: "毎年"
+    reading: "まいとし"
+    translation:
+      en: "every year"
+      ko: "매년"
+    gender: null
+    notes:
+      en: "every + year; also read まいねん"
+      ko: "매 + 해; まいねん으로도 읽음"
+  - japanese: "毎朝"
+    reading: "まいあさ"
+    translation:
+      en: "every morning"
+      ko: "매일 아침"
+    gender: null
+    notes:
+      en: "every + morning"
+      ko: "매 + 아침"
+  - japanese: "毎晩"
+    reading: "まいばん"
+    translation:
+      en: "every night"
+      ko: "매일 밤"
+    gender: null
+    notes:
+      en: "every + evening"
+      ko: "매 + 밤"
+  - japanese: たいてい
+    reading: null
+    translation:
+      en: "usually, generally"
+      ko: "보통, 대체로"
+    gender: null
+    notes:
+      en: "also 大抵 in kanji"
+      ko: "한자로 大抵"
+  - japanese: "普通"
+    reading: "ふつう"
+    translation:
+      en: "usually, normal"
+      ko: "보통, 일반적인"
+    gender: null
+    notes:
+      en: "普通に = normally"
+      ko: "普通に = 보통으로"
+  - japanese: ずっと
+    reading: null
+    translation:
+      en: "all along, the whole time"
+      ko: "쭉, 계속"
+    gender: null
+    notes:
+      en: "ずっと待っていた = was waiting the whole time"
+      ko: "ずっと待っていた = 계속 기다리고 있었다"
+  - japanese: まだ
+    reading: null
+    translation:
+      en: "still, not yet"
+      ko: "아직"
+    gender: null
+    notes:
+      en: "まだです = not yet"
+      ko: "まだです = 아직이요"
+  - japanese: もう
+    reading: null
+    translation:
+      en: "already, soon"
+      ko: "이미, 곧"
+    gender: null
+    notes:
+      en: "もう食べた = already ate"
+      ko: "もう食べた = 이미 먹었다"
+  - japanese: すぐ
+    reading: null
+    translation:
+      en: "soon, immediately, right away"
+      ko: "곧, 바로"
+    gender: null
+    notes:
+      en: "すぐ行きます = I'll go right away"
+      ko: "すぐ行きます = 바로 갈게요"
+  - japanese: やっと
+    reading: null
+    translation:
+      en: "finally, at last"
+      ko: "드디어, 겨우"
+    gender: null
+    notes:
+      en: "やっと終わった = finally finished"
+      ko: "やっと終わった = 드디어 끝났다"
+  - japanese: そろそろ
+    reading: null
+    translation:
+      en: "soon, before long, it's about time"
+      ko: "슬슬, 이제 곧"
+    gender: null
+    notes:
+      en: "そろそろ行きましょう = let's get going"
+      ko: "そろそろ行きましょう = 슬슬 가자"
+  - japanese: だんだん
+    reading: null
+    translation:
+      en: "gradually, little by little"
+      ko: "점점, 차차"
+    gender: null
+    notes:
+      en: "だんだん暖かくなる = gradually gets warmer"
+      ko: "だんだん暖かくなる = 점점 따뜻해지다"
+  - japanese: "突然"
+    reading: "とつぜん"
+    translation:
+      en: "suddenly"
+      ko: "갑자기"
+    gender: null
+    notes:
+      en: "突然雨が降った = it suddenly rained"
+      ko: "突然雨が降った = 갑자기 비가 내렸다"
+  - japanese: ちょうど
+    reading: null
+    translation:
+      en: "exactly, just"
+      ko: "딱, 정확히"
+    gender: null
+    notes:
+      en: "ちょうど三時 = exactly 3 o'clock"
+      ko: "ちょうど三時 = 정확히 3시"
+  - japanese: "初めて"
+    reading: "はじめて"
+    translation:
+      en: "for the first time"
+      ko: "처음으로"
+    gender: null
+    notes:
+      en: "初めて日本に行く = go to Japan for the first time"
+      ko: "初めて日本に行く = 처음으로 일본에 가다"
+  - japanese: "最近"
+    reading: "さいきん"
+    translation:
+      en: "recently, lately"
+      ko: "최근"
+    gender: null
+    notes:
+      en: "最近忙しい = been busy recently"
+      ko: "最近忙しい = 최근 바쁘다"
+  - japanese: "久しぶり"
+    reading: "ひさしぶり"
+    translation:
+      en: "long time no see, after a long time"
+      ko: "오랜만"
+    gender: null
+    notes:
+      en: "お久しぶりです = it's been a while"
+      ko: "お久しぶりです = 오랜만입니다"
+
+- id: calendar_dates
+  label:
+    en: "Calendar and Dates"
+    ko: "달력과 날짜"
+  type: vocabulary
+  words:
+  - japanese: "水曜日"
+    reading: "すいようび"
+    translation:
+      en: "Wednesday"
+      ko: "수요일"
+    gender: null
+    notes:
+      en: "water + day of week"
+      ko: "물 + 요일"
+  - japanese: "木曜日"
+    reading: "もくようび"
+    translation:
+      en: "Thursday"
+      ko: "목요일"
+    gender: null
+    notes:
+      en: "wood + day of week"
+      ko: "나무 + 요일"
+  - japanese: "金曜日"
+    reading: "きんようび"
+    translation:
+      en: "Friday"
+      ko: "금요일"
+    gender: null
+    notes:
+      en: "gold + day of week"
+      ko: "금 + 요일"
+  - japanese: "土曜日"
+    reading: "どようび"
+    translation:
+      en: "Saturday"
+      ko: "토요일"
+    gender: null
+    notes:
+      en: "earth + day of week"
+      ko: "흙 + 요일"
+  - japanese: "日曜日"
+    reading: "にちようび"
+    translation:
+      en: "Sunday"
+      ko: "일요일"
+    gender: null
+    notes:
+      en: "sun + day of week"
+      ko: "해 + 요일"
+  - japanese: "今週"
+    reading: "こんしゅう"
+    translation:
+      en: "this week"
+      ko: "이번 주"
+    gender: null
+    notes:
+      en: "now + week"
+      ko: "지금 + 주"
+  - japanese: "先週"
+    reading: "せんしゅう"
+    translation:
+      en: "last week"
+      ko: "지난주"
+    gender: null
+    notes:
+      en: "previous + week"
+      ko: "이전 + 주"
+  - japanese: "来週"
+    reading: "らいしゅう"
+    translation:
+      en: "next week"
+      ko: "다음 주"
+    gender: null
+    notes:
+      en: "coming + week"
+      ko: "올 + 주"
+  - japanese: "今月"
+    reading: "こんげつ"
+    translation:
+      en: "this month"
+      ko: "이번 달"
+    gender: null
+    notes:
+      en: "now + month"
+      ko: "지금 + 달"
+  - japanese: "先月"
+    reading: "せんげつ"
+    translation:
+      en: "last month"
+      ko: "지난달"
+    gender: null
+    notes:
+      en: "previous + month"
+      ko: "이전 + 달"
+  - japanese: "来月"
+    reading: "らいげつ"
+    translation:
+      en: "next month"
+      ko: "다음 달"
+    gender: null
+    notes:
+      en: "coming + month"
+      ko: "올 + 달"
+  - japanese: "今年"
+    reading: "ことし"
+    translation:
+      en: "this year"
+      ko: "올해"
+    gender: null
+    notes:
+      en: "irregular reading; not こんねん"
+      ko: "불규칙 읽기; こんねん이 아님"
+  - japanese: "去年"
+    reading: "きょねん"
+    translation:
+      en: "last year"
+      ko: "작년"
+    gender: null
+    notes:
+      en: "past + year"
+      ko: "지나간 + 해"
+  - japanese: "来年"
+    reading: "らいねん"
+    translation:
+      en: "next year"
+      ko: "내년"
+    gender: null
+    notes:
+      en: "coming + year"
+      ko: "올 + 해"
+  - japanese: "誕生日"
+    reading: "たんじょうび"
+    translation:
+      en: "birthday"
+      ko: "생일"
+    gender: null
+    notes:
+      en: "birth + day"
+      ko: "탄생 + 일"
+  - japanese: "休み"
+    reading: "やすみ"
+    translation:
+      en: "holiday, day off, rest"
+      ko: "휴일, 쉬는 날"
+    gender: null
+    notes:
+      en: "from 休む (to rest)"
+      ko: "休む(쉬다)에서 유래"
+  - japanese: "週末"
+    reading: "しゅうまつ"
+    translation:
+      en: "weekend"
+      ko: "주말"
+    gender: null
+    notes:
+      en: "week + end"
+      ko: "주 + 끝"
+  - japanese: "平日"
+    reading: "へいじつ"
+    translation:
+      en: "weekday"
+      ko: "평일"
+    gender: null
+    notes:
+      en: "flat/ordinary + day"
+      ko: "평 + 일"
+  - japanese: "祝日"
+    reading: "しゅくじつ"
+    translation:
+      en: "national holiday"
+      ko: "공휴일"
+    gender: null
+    notes:
+      en: "celebration + day"
+      ko: "축하 + 날"
+  - japanese: "連休"
+    reading: "れんきゅう"
+    translation:
+      en: "consecutive holidays"
+      ko: "연휴"
+    gender: null
+    notes:
+      en: "connected + rest"
+      ko: "연속 + 휴일"
+  - japanese: "年"
+    reading: "ねん"
+    translation:
+      en: "year"
+      ko: "년, 해"
+    gender: null
+    notes:
+      en: "二千二十六年 = the year 2026"
+      ko: "二千二十六年 = 2026년"
+  - japanese: "月"
+    reading: "がつ"
+    translation:
+      en: "month (counter)"
+      ko: "월 (조수사)"
+    gender: null
+    notes:
+      en: "used after number for months"
+      ko: "숫자 뒤에 붙여 월을 나타냄"
+  - japanese: "日"
+    reading: "にち"
+    translation:
+      en: "day (counter)"
+      ko: "일 (조수사)"
+    gender: null
+    notes:
+      en: "一日 = ついたち (1st day)"
+      ko: "一日 = ついたち (1일)"
+  - japanese: "曜日"
+    reading: "ようび"
+    translation:
+      en: "day of the week"
+      ko: "요일"
+    gender: null
+    notes:
+      en: "何曜日 = what day of the week"
+      ko: "何曜日 = 무슨 요일"
+  - japanese: "一昨日"
+    reading: "おととい"
+    translation:
+      en: "day before yesterday"
+      ko: "그저께"
+    gender: null
+    notes:
+      en: "irregular reading"
+      ko: "불규칙 읽기"
+  - japanese: "明後日"
+    reading: "あさって"
+    translation:
+      en: "day after tomorrow"
+      ko: "모레"
+    gender: null
+    notes:
+      en: "irregular reading"
+      ko: "불규칙 읽기"
+  - japanese: "今"
+    reading: "いま"
+    translation:
+      en: "now"
+      ko: "지금"
+    gender: null
+    notes:
+      en: "basic time word"
+      ko: "기본적인 시간 단어"
+  - japanese: "前"
+    reading: "まえ"
+    translation:
+      en: "before, in front of"
+      ko: "전, 앞"
+    gender: null
+    notes:
+      en: "三日前 = three days ago"
+      ko: "三日前 = 3일 전"
+  - japanese: "後"
+    reading: "あと"
+    translation:
+      en: "after, later"
+      ko: "후, 나중"
+    gender: null
+    notes:
+      en: "三日後 = three days later"
+      ko: "三日後 = 3일 후"
+  - japanese: "間"
+    reading: "あいだ"
+    translation:
+      en: "between, during, interval"
+      ko: "사이, 동안"
+    gender: null
+    notes:
+      en: "夏の間 = during summer"
+      ko: "夏の間 = 여름 동안"
+  - japanese: "一昨年"
+    reading: "おととし"
+    translation:
+      en: "the year before last"
+      ko: "재작년"
+    gender: null
+    notes:
+      en: "irregular reading"
+      ko: "불규칙 읽기"
+  - japanese: "再来年"
+    reading: "さらいねん"
+    translation:
+      en: "the year after next"
+      ko: "내후년"
+    gender: null
+    notes:
+      en: "again + coming + year"
+      ko: "다시 + 오는 + 해"
+  - japanese: "再来週"
+    reading: "さらいしゅう"
+    translation:
+      en: "the week after next"
+      ko: "다다음 주"
+    gender: null
+    notes:
+      en: "again + coming + week"
+      ko: "다시 + 오는 + 주"
+  - japanese: "先々月"
+    reading: "せんせんげつ"
+    translation:
+      en: "the month before last"
+      ko: "지지난달"
+    gender: null
+    notes:
+      en: "before + before + month"
+      ko: "전 + 전 + 달"
+  - japanese: "暦"
+    reading: "こよみ"
+    translation:
+      en: "calendar, almanac"
+      ko: "달력, 역법"
+    gender: null
+    notes:
+      en: "traditional calendar system"
+      ko: "전통 달력 체계"
+  - japanese: "先々週"
+    reading: "せんせんしゅう"
+    translation:
+      en: "the week before last"
+      ko: "지지난주"
+    gender: null
+    notes:
+      en: "before + before + week"
+      ko: "전 + 전 + 주"
+  - japanese: "期間"
+    reading: "きかん"
+    translation:
+      en: "period, duration"
+      ko: "기간"
+    gender: null
+    notes:
+      en: "期間中 = during the period"
+      ko: "期間中 = 기간 중"
+  - japanese: "記念日"
+    reading: "きねんび"
+    translation:
+      en: "anniversary, memorial day"
+      ko: "기념일"
+    gender: null
+    notes:
+      en: "commemoration + day"
+      ko: "기념 + 일"
+
+- id: seasonal_events
+  label:
+    en: "Seasonal Events and Celebrations"
+    ko: "계절 행사와 기념일"
+  type: vocabulary
+  words:
+  - japanese: "お正月"
+    reading: "おしょうがつ"
+    translation:
+      en: "New Year"
+      ko: "새해, 설날"
+    gender: null
+    notes:
+      en: "most important Japanese holiday"
+      ko: "가장 중요한 일본 명절"
+  - japanese: "年賀状"
+    reading: "ねんがじょう"
+    translation:
+      en: "New Year's card"
+      ko: "연하장"
+    gender: null
+    notes:
+      en: "year + greeting + letter"
+      ko: "해 + 축하 + 편지"
+  - japanese: "お盆"
+    reading: "おぼん"
+    translation:
+      en: "Obon festival (ancestor worship)"
+      ko: "오본 (조상 숭배 기간)"
+    gender: null
+    notes:
+      en: "August; families visit graves"
+      ko: "8월; 가족이 묘를 방문"
+  - japanese: "節分"
+    reading: "せつぶん"
+    translation:
+      en: "Setsubun (bean-throwing day)"
+      ko: "세쓰분 (콩 뿌리는 날)"
+    gender: null
+    notes:
+      en: "February 3rd; marks start of spring"
+      ko: "2월 3일; 봄의 시작을 알림"
+  - japanese: "ひな祭り"
+    reading: "ひなまつり"
+    translation:
+      en: "Doll Festival, Girls' Day"
+      ko: "히나마쓰리 (여자아이의 날)"
+    gender: null
+    notes:
+      en: "March 3rd; display of dolls"
+      ko: "3월 3일; 인형을 장식"
+  - japanese: "七夕"
+    reading: "たなばた"
+    translation:
+      en: "Star Festival"
+      ko: "칠석"
+    gender: null
+    notes:
+      en: "July 7th; write wishes on paper"
+      ko: "7월 7일; 종이에 소원을 쓰기"
+  - japanese: "お祭り"
+    reading: "おまつり"
+    translation:
+      en: "festival"
+      ko: "축제"
+    gender: null
+    notes:
+      en: "many local festivals throughout the year"
+      ko: "일 년 내내 많은 지역 축제"
+  - japanese: "花火"
+    reading: "はなび"
+    translation:
+      en: "fireworks"
+      ko: "불꽃놀이"
+    gender: null
+    notes:
+      en: "flower + fire; summer tradition"
+      ko: "꽃 + 불; 여름 전통"
+  - japanese: "大晦日"
+    reading: "おおみそか"
+    translation:
+      en: "New Year's Eve"
+      ko: "섣달 그믐날"
+    gender: null
+    notes:
+      en: "December 31st"
+      ko: "12월 31일"
+  - japanese: "初詣"
+    reading: "はつもうで"
+    translation:
+      en: "first shrine visit of the year"
+      ko: "새해 첫 참배"
+    gender: null
+    notes:
+      en: "first + visit shrine"
+      ko: "처음 + 참배"
+  - japanese: クリスマス
+    reading: null
+    translation:
+      en: "Christmas"
+      ko: "크리스마스"
+    gender: null
+    notes:
+      en: "celebrated widely in Japan, mainly secular"
+      ko: "일본에서 널리 기념되며, 주로 세속적"
+  - japanese: バレンタインデー
+    reading: null
+    translation:
+      en: "Valentine's Day"
+      ko: "발렌타인데이"
+    gender: null
+    notes:
+      en: "women give chocolate to men"
+      ko: "여성이 남성에게 초콜릿을 줌"
+  - japanese: "卒業式"
+    reading: "そつぎょうしき"
+    translation:
+      en: "graduation ceremony"
+      ko: "졸업식"
+    gender: null
+    notes:
+      en: "graduation + ceremony; March"
+      ko: "졸업 + 식; 3월"
+  - japanese: "入学式"
+    reading: "にゅうがくしき"
+    translation:
+      en: "entrance ceremony"
+      ko: "입학식"
+    gender: null
+    notes:
+      en: "entrance + ceremony; April"
+      ko: "입학 + 식; 4월"
+  - japanese: "運動会"
+    reading: "うんどうかい"
+    translation:
+      en: "sports day, field day"
+      ko: "운동회"
+    gender: null
+    notes:
+      en: "exercise + meet; school event in autumn"
+      ko: "운동 + 모임; 가을 학교 행사"
+  - japanese: "文化の日"
+    reading: "ぶんかのひ"
+    translation:
+      en: "Culture Day"
+      ko: "문화의 날"
+    gender: null
+    notes:
+      en: "November 3rd; national holiday"
+      ko: "11월 3일; 국경일"
+  - japanese: "こどもの日"
+    reading: null
+    translation:
+      en: "Children's Day"
+      ko: "어린이날"
+    gender: null
+    notes:
+      en: "May 5th; part of Golden Week"
+      ko: "5월 5일; 골든위크의 일부"
+  - japanese: "成人の日"
+    reading: "せいじんのひ"
+    translation:
+      en: "Coming of Age Day"
+      ko: "성인의 날"
+    gender: null
+    notes:
+      en: "second Monday of January"
+      ko: "1월 둘째 월요일"
+  - japanese: "ゴールデンウィーク"
+    reading: null
+    translation:
+      en: "Golden Week"
+      ko: "골든위크"
+    gender: null
+    notes:
+      en: "late April to early May holiday cluster"
+      ko: "4월 말부터 5월 초까지의 연휴"
+  - japanese: "年末年始"
+    reading: "ねんまつねんし"
+    translation:
+      en: "year-end and New Year"
+      ko: "연말연시"
+    gender: null
+    notes:
+      en: "year end + year start"
+      ko: "연말 + 연시"
+  - japanese: "餅つき"
+    reading: "もちつき"
+    translation:
+      en: "rice cake pounding"
+      ko: "떡 치기"
+    gender: null
+    notes:
+      en: "traditional New Year activity"
+      ko: "전통적인 새해 활동"
+  - japanese: "年越しそば"
+    reading: "としこしそば"
+    translation:
+      en: "New Year's Eve soba noodles"
+      ko: "해넘이 소바"
+    gender: null
+    notes:
+      en: "eaten on December 31st for longevity"
+      ko: "장수를 위해 12월 31일에 먹음"
+  - japanese: "おせち料理"
+    reading: "おせちりょうり"
+    translation:
+      en: "traditional New Year's food"
+      ko: "오세치 요리 (새해 음식)"
+    gender: null
+    notes:
+      en: "special dishes eaten during New Year"
+      ko: "새해 기간에 먹는 특별 요리"
+  - japanese: "お年玉"
+    reading: "おとしだま"
+    translation:
+      en: "New Year's money (gift to children)"
+      ko: "세뱃돈"
+    gender: null
+    notes:
+      en: "money given to children at New Year"
+      ko: "새해에 아이들에게 주는 돈"
+  - japanese: "衣替え"
+    reading: "ころもがえ"
+    translation:
+      en: "seasonal clothes change"
+      ko: "옷 갈아입기 (계절)"
+    gender: null
+    notes:
+      en: "changing wardrobe for the season; June and October"
+      ko: "계절에 맞게 옷 교체; 6월과 10월"
+  - japanese: "ホワイトデー"
+    reading: null
+    translation:
+      en: "White Day"
+      ko: "화이트데이"
+    gender: null
+    notes:
+      en: "March 14th; men return gifts to women"
+      ko: "3월 14일; 남성이 여성에게 답례"
+  - japanese: "除夜の鐘"
+    reading: "じょやのかね"
+    translation:
+      en: "New Year's Eve bell"
+      ko: "제야의 종"
+    gender: null
+    notes:
+      en: "temple bell rung 108 times at midnight"
+      ko: "자정에 절에서 108번 치는 종"
+  - japanese: "七五三"
+    reading: "しちごさん"
+    translation:
+      en: "children's festival (ages 7, 5, 3)"
+      ko: "시치고산 (7, 5, 3세 축제)"
+    gender: null
+    notes:
+      en: "November 15th; children visit shrines"
+      ko: "11월 15일; 아이들이 신사를 방문"
+  - japanese: "端午の節句"
+    reading: "たんごのせっく"
+    translation:
+      en: "Boys' Day, Dragon Boat Festival"
+      ko: "단오절, 남자아이의 날"
+    gender: null
+    notes:
+      en: "May 5th; display carp streamers"
+      ko: "5월 5일; 잉어 깃발을 장식"

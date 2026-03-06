@@ -1,0 +1,1628 @@
+lesson: "sup_C1_Advanced_Business"
+lesson_number: 182
+cefr: C1
+type: supplementary
+topic: "Advanced Business"
+categories:
+- id: unternehmensfuehrung
+  label:
+    en: "Corporate Management (Unternehmensführung)"
+    ko: "기업 경영 (Unternehmensführung)"
+  type: vocabulary
+  words:
+  - german: "die Geschäftsführung"
+    translation:
+      en: "executive management"
+      ko: "경영진"
+    gender: f
+    notes:
+      en: "der Geschäftsführer = managing director"
+      ko: "der Geschäftsführer = 대표이사"
+  - german: "der Vorstandsvorsitzende, -n"
+    translation:
+      en: "chairman of the board / CEO"
+      ko: "이사회 의장 / 최고경영자"
+    gender: m
+    notes:
+      en: "die Vorstandsvorsitzende = chairwoman"
+      ko: "die Vorstandsvorsitzende = 여성 이사회 의장"
+  - german: "der Aufsichtsrat, Aufsichtsräte"
+    translation:
+      en: "supervisory board"
+      ko: "감사위원회"
+    gender: m
+    notes:
+      en: "der Aufsichtsratsvorsitzende = chairman of the supervisory board"
+      ko: "der Aufsichtsratsvorsitzende = 감사위원장"
+  - german: "die Unternehmensstrategie, -n"
+    translation:
+      en: "corporate strategy"
+      ko: "기업 전략"
+    gender: f
+    notes:
+      en: "eine Unternehmensstrategie entwickeln = to develop a corporate strategy"
+      ko: "eine Unternehmensstrategie entwickeln = 기업 전략을 수립하다"
+  - german: "die Unternehmenskultur, -en"
+    translation:
+      en: "corporate culture"
+      ko: "기업 문화"
+    gender: f
+    notes:
+      en: "eine offene Unternehmenskultur = an open corporate culture"
+      ko: "eine offene Unternehmenskultur = 개방적 기업 문화"
+  - german: "die Satzung, -en"
+    translation:
+      en: "articles of association / bylaws"
+      ko: "정관"
+    gender: f
+    notes:
+      en: "die Satzung der Gesellschaft = the company's articles of association"
+      ko: "die Satzung der Gesellschaft = 회사 정관"
+  - german: "die Sorgfaltspflicht, -en"
+    translation:
+      en: "duty of care / due diligence"
+      ko: "주의 의무"
+    gender: f
+    notes:
+      en: "die unternehmerische Sorgfaltspflicht"
+      ko: "기업의 주의 의무"
+  - german: "die Stakeholder (pl.)"
+    translation:
+      en: "stakeholders"
+      ko: "이해관계자"
+    gender: m
+    notes:
+      en: "die Interessengruppen = interest groups (German equiv.)"
+      ko: "die Interessengruppen = 이해관계 집단 (독일어 동의어)"
+  - german: "die Corporate Governance"
+    translation:
+      en: "corporate governance"
+      ko: "기업 지배구조"
+    gender: f
+    notes:
+      en: "die Grundsätze guter Unternehmensführung"
+      ko: "좋은 기업 경영의 원칙"
+  - german: "die Compliance"
+    translation:
+      en: "compliance"
+      ko: "준법 감시 / 컴플라이언스"
+    gender: f
+    notes:
+      en: "die Regeltreue = regulatory compliance"
+      ko: "die Regeltreue = 규정 준수"
+  - german: "das Risikomanagement"
+    translation:
+      en: "risk management"
+      ko: "리스크 관리"
+    gender: n
+    notes:
+      en: "das Risiko managen = to manage risk"
+      ko: "das Risiko managen = 리스크를 관리하다"
+  - german: "die Rechenschaftspflicht"
+    translation:
+      en: "accountability"
+      ko: "설명 책임"
+    gender: f
+    notes:
+      en: "Rechenschaft ablegen = to render account"
+      ko: "Rechenschaft ablegen = 소명하다"
+  - german: "die Betriebsvereinbarung, -en"
+    translation:
+      en: "works agreement"
+      ko: "사업장 협약"
+    gender: f
+    notes:
+      en: "eine Betriebsvereinbarung abschließen"
+      ko: "사업장 협약을 체결하다"
+  - german: "der Betriebsrat, Betriebsräte"
+    translation:
+      en: "works council"
+      ko: "직장 평의회"
+    gender: m
+    notes:
+      en: "die Mitbestimmung = co-determination"
+      ko: "die Mitbestimmung = 공동 결정"
+  - german: "die Kapitalgesellschaft, -en"
+    translation:
+      en: "corporation / capital company"
+      ko: "자본 회사"
+    gender: f
+    notes:
+      en: "GmbH, AG = types of capital companies"
+      ko: "GmbH, AG = 자본 회사의 유형"
+  - german: "die Personengesellschaft, -en"
+    translation:
+      en: "partnership"
+      ko: "인적 회사"
+    gender: f
+    notes:
+      en: "OHG, KG = types of partnerships"
+      ko: "OHG, KG = 인적 회사의 유형"
+  - german: "die Hauptversammlung, -en"
+    translation:
+      en: "general meeting (of shareholders)"
+      ko: "주주총회"
+    gender: f
+    notes:
+      en: "die ordentliche Hauptversammlung = annual general meeting"
+      ko: "die ordentliche Hauptversammlung = 정기 주주총회"
+  - german: "die Nachhaltigkeit"
+    translation:
+      en: "sustainability"
+      ko: "지속 가능성"
+    gender: f
+    notes:
+      en: "nachhaltig wirtschaften = to operate sustainably"
+      ko: "nachhaltig wirtschaften = 지속 가능하게 경영하다"
+  - german: "die Digitalisierung"
+    translation:
+      en: "digitalization"
+      ko: "디지털화"
+    gender: f
+    notes:
+      en: "die digitale Transformation = digital transformation"
+      ko: "die digitale Transformation = 디지털 전환"
+  - german: "die Skalierbarkeit"
+    translation:
+      en: "scalability"
+      ko: "확장성"
+    gender: f
+    notes:
+      en: "skalierbar = scalable"
+      ko: "skalierbar = 확장 가능한"
+  - german: "die Wertschöpfungskette, -n"
+    translation:
+      en: "value chain"
+      ko: "가치 사슬"
+    gender: f
+    notes:
+      en: "die gesamte Wertschöpfungskette optimieren"
+      ko: "전체 가치 사슬을 최적화하다"
+  - german: "die Kernkompetenz, -en"
+    translation:
+      en: "core competency"
+      ko: "핵심 역량"
+    gender: f
+    notes:
+      en: "sich auf die Kernkompetenzen konzentrieren"
+      ko: "핵심 역량에 집중하다"
+  - german: "die Restrukturierung, -en"
+    translation:
+      en: "restructuring"
+      ko: "구조 조정"
+    gender: f
+    notes:
+      en: "das Unternehmen restrukturieren = to restructure the company"
+      ko: "das Unternehmen restrukturieren = 기업을 구조 조정하다"
+  - german: "das Outsourcing"
+    translation:
+      en: "outsourcing"
+      ko: "외주화 / 아웃소싱"
+    gender: n
+    notes:
+      en: "die Auslagerung = outsourcing (German equiv.)"
+      ko: "die Auslagerung = 외주화 (독일어 동의어)"
+  - german: "die Diversifizierung, -en"
+    translation:
+      en: "diversification"
+      ko: "다각화"
+    gender: f
+    notes:
+      en: "diversifizieren = to diversify"
+      ko: "diversifizieren = 다각화하다"
+  - german: "der Synergieeffekt, -e"
+    translation:
+      en: "synergy effect"
+      ko: "시너지 효과"
+    gender: m
+    notes:
+      en: "Synergien nutzen = to leverage synergies"
+      ko: "Synergien nutzen = 시너지를 활용하다"
+  - german: "die Ausgründung, -en"
+    translation:
+      en: "spin-off"
+      ko: "분사"
+    gender: f
+    notes:
+      en: "ein Unternehmen ausgründen = to spin off a company"
+      ko: "ein Unternehmen ausgründen = 회사를 분사하다"
+  - german: "die Gewinnausschüttung, -en"
+    translation:
+      en: "dividend distribution"
+      ko: "배당금 분배"
+    gender: f
+    notes:
+      en: "die Dividende = dividend"
+      ko: "die Dividende = 배당금"
+  - german: "die Haftung"
+    translation:
+      en: "liability"
+      ko: "책임 / 배상 의무"
+    gender: f
+    notes:
+      en: "die beschränkte Haftung = limited liability"
+      ko: "die beschränkte Haftung = 유한 책임"
+  - german: "die Geschäftsordnung, -en"
+    translation:
+      en: "rules of procedure"
+      ko: "업무 규정"
+    gender: f
+    notes:
+      en: "die Geschäftsordnung des Vorstands"
+      ko: "이사회 업무 규정"
+  - german: "die Tochtergesellschaft, -en"
+    translation:
+      en: "subsidiary"
+      ko: "자회사"
+    gender: f
+    notes:
+      en: "die Muttergesellschaft = parent company"
+      ko: "die Muttergesellschaft = 모회사"
+  - german: "das Joint Venture, -s"
+    translation:
+      en: "joint venture"
+      ko: "합작 투자"
+    gender: n
+    notes:
+      en: "das Gemeinschaftsunternehmen = joint venture (German equiv.)"
+      ko: "das Gemeinschaftsunternehmen = 합작 기업 (독일어 동의어)"
+  - german: "börsennotiert"
+    translation:
+      en: "publicly listed"
+      ko: "상장된"
+    gender: null
+    notes:
+      en: "ein börsennotiertes Unternehmen = a publicly listed company"
+      ko: "ein börsennotiertes Unternehmen = 상장 기업"
+  - german: "die Insolvenz, -en"
+    translation:
+      en: "insolvency"
+      ko: "파산 / 도산"
+    gender: f
+    notes:
+      en: "Insolvenz anmelden = to file for insolvency"
+      ko: "Insolvenz anmelden = 파산을 신청하다"
+  - german: "die Abwicklung, -en"
+    translation:
+      en: "liquidation / winding up"
+      ko: "청산"
+    gender: f
+    notes:
+      en: "ein Unternehmen abwickeln = to wind up a company"
+      ko: "ein Unternehmen abwickeln = 회사를 청산하다"
+  - german: "die Handlungsvollmacht"
+    translation:
+      en: "power of attorney (commercial)"
+      ko: "상업적 대리권"
+    gender: f
+    notes:
+      en: "die Prokura = general commercial power of attorney"
+      ko: "die Prokura = 포괄적 상업 대리권"
+  - german: "die Expansion, -en"
+    translation:
+      en: "expansion"
+      ko: "확장"
+    gender: f
+    notes:
+      en: "international expandieren = to expand internationally"
+      ko: "international expandieren = 국제적으로 확장하다"
+  - german: "die Marktdurchdringung"
+    translation:
+      en: "market penetration"
+      ko: "시장 침투"
+    gender: f
+    notes:
+      en: "die Marktdurchdringungsstrategie = market penetration strategy"
+      ko: "die Marktdurchdringungsstrategie = 시장 침투 전략"
+  - german: "die Benchmark, -s"
+    translation:
+      en: "benchmark"
+      ko: "벤치마크"
+    gender: f
+    notes:
+      en: "der Vergleichsmaßstab = benchmark (German equiv.)"
+      ko: "der Vergleichsmaßstab = 벤치마크 (독일어 동의어)"
+  - german: "der Wettbewerbsvorteil, -e"
+    translation:
+      en: "competitive advantage"
+      ko: "경쟁 우위"
+    gender: m
+    notes:
+      en: "einen Wettbewerbsvorteil erzielen = to achieve a competitive advantage"
+      ko: "einen Wettbewerbsvorteil erzielen = 경쟁 우위를 확보하다"
+  - german: "die Unternehmensethik"
+    translation:
+      en: "business ethics"
+      ko: "기업 윤리"
+    gender: f
+    notes:
+      en: "ethische Unternehmensführung = ethical corporate management"
+      ko: "ethische Unternehmensführung = 윤리적 기업 경영"
+- id: fusionen_und_uebernahmen
+  label:
+    en: "Mergers and Acquisitions (Fusionen und Übernahmen)"
+    ko: "인수합병 (Fusionen und Übernahmen)"
+  type: vocabulary
+  words:
+  - german: "die Fusion, -en"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: f
+    notes:
+      en: "fusionieren = to merge"
+      ko: "fusionieren = 합병하다"
+  - german: "die Übernahme, -n"
+    translation:
+      en: "acquisition / takeover"
+      ko: "인수"
+    gender: f
+    notes:
+      en: "ein Unternehmen übernehmen = to acquire a company"
+      ko: "ein Unternehmen übernehmen = 기업을 인수하다"
+  - german: "die Due-Diligence-Prüfung, -en"
+    translation:
+      en: "due diligence review"
+      ko: "실사"
+    gender: f
+    notes:
+      en: "eine Due-Diligence-Prüfung durchführen = to conduct due diligence"
+      ko: "eine Due-Diligence-Prüfung durchführen = 실사를 수행하다"
+  - german: "die feindliche Übernahme, -n"
+    translation:
+      en: "hostile takeover"
+      ko: "적대적 인수"
+    gender: f
+    notes:
+      en: "die freundliche Übernahme = friendly takeover"
+      ko: "die freundliche Übernahme = 우호적 인수"
+  - german: "der Kaufpreis, -e"
+    translation:
+      en: "purchase price"
+      ko: "매수 가격"
+    gender: m
+    notes:
+      en: "den Kaufpreis verhandeln = to negotiate the purchase price"
+      ko: "den Kaufpreis verhandeln = 매수 가격을 협상하다"
+  - german: "die Unternehmensbewertung, -en"
+    translation:
+      en: "company valuation"
+      ko: "기업 가치 평가"
+    gender: f
+    notes:
+      en: "ein Unternehmen bewerten = to value a company"
+      ko: "ein Unternehmen bewerten = 기업을 가치 평가하다"
+  - german: "der Zusammenschluss, Zusammenschlüsse"
+    translation:
+      en: "merger / consolidation"
+      ko: "합병 / 결합"
+    gender: m
+    notes:
+      en: "der Unternehmenszusammenschluss = business combination"
+      ko: "der Unternehmenszusammenschluss = 기업 결합"
+  - german: "die Kartellbehörde, -n"
+    translation:
+      en: "antitrust authority"
+      ko: "공정거래위원회"
+    gender: f
+    notes:
+      en: "das Bundeskartellamt = Federal Cartel Office"
+      ko: "das Bundeskartellamt = 독일 연방 카르텔청"
+  - german: "die Genehmigung, -en"
+    translation:
+      en: "approval (regulatory)"
+      ko: "승인"
+    gender: f
+    notes:
+      en: "die kartellrechtliche Genehmigung = antitrust approval"
+      ko: "die kartellrechtliche Genehmigung = 공정거래 승인"
+  - german: "der Mehrheitserwerb"
+    translation:
+      en: "acquisition of majority stake"
+      ko: "과반수 지분 취득"
+    gender: m
+    notes:
+      en: "eine Mehrheitsbeteiligung = majority holding"
+      ko: "eine Mehrheitsbeteiligung = 과반수 지분"
+  - german: "die Veräußerung, -en"
+    translation:
+      en: "divestiture / disposal"
+      ko: "매각"
+    gender: f
+    notes:
+      en: "Unternehmensteile veräußern = to divest business units"
+      ko: "Unternehmensteile veräußern = 사업부를 매각하다"
+  - german: "die Integration, -en"
+    translation:
+      en: "integration (post-merger)"
+      ko: "통합 (합병 후)"
+    gender: f
+    notes:
+      en: "die Post-Merger-Integration = post-merger integration"
+      ko: "die Post-Merger-Integration = 합병 후 통합"
+  - german: "das Übernahmeangebot, -e"
+    translation:
+      en: "takeover bid"
+      ko: "인수 제안"
+    gender: n
+    notes:
+      en: "ein Übernahmeangebot unterbreiten = to submit a takeover bid"
+      ko: "ein Übernahmeangebot unterbreiten = 인수 제안을 하다"
+  - german: "die Abwehrstrategie, -n"
+    translation:
+      en: "defense strategy (against takeover)"
+      ko: "방어 전략"
+    gender: f
+    notes:
+      en: "die Giftpille = poison pill (defense)"
+      ko: "die Giftpille = 독약 조항 (방어)"
+  - german: "die Zielgesellschaft, -en"
+    translation:
+      en: "target company"
+      ko: "피인수 기업"
+    gender: f
+    notes:
+      en: "die Zielgesellschaft erwerben = to acquire the target company"
+      ko: "die Zielgesellschaft erwerben = 피인수 기업을 인수하다"
+  - german: "die Verschmelzung, -en"
+    translation:
+      en: "amalgamation / statutory merger"
+      ko: "합체 / 법적 합병"
+    gender: f
+    notes:
+      en: "verschmelzen = to amalgamate"
+      ko: "verschmelzen = 합체하다"
+  - german: "die Beteiligungsgesellschaft, -en"
+    translation:
+      en: "holding company"
+      ko: "투자 회사"
+    gender: f
+    notes:
+      en: "die Private-Equity-Gesellschaft = private equity firm"
+      ko: "die Private-Equity-Gesellschaft = 사모펀드 회사"
+  - german: "der Goodwill"
+    translation:
+      en: "goodwill (accounting)"
+      ko: "영업권"
+    gender: m
+    notes:
+      en: "der Firmenwert = goodwill (German equiv.)"
+      ko: "der Firmenwert = 영업권 (독일어 동의어)"
+  - german: "die Konsolidierung, -en"
+    translation:
+      en: "consolidation"
+      ko: "통합 / 연결"
+    gender: f
+    notes:
+      en: "die Marktkonsolidierung = market consolidation"
+      ko: "die Marktkonsolidierung = 시장 통합"
+  - german: "der Erwerber, -"
+    translation:
+      en: "acquirer"
+      ko: "인수자"
+    gender: m
+    notes:
+      en: "die Erwerberin = acquirer (f)"
+      ko: "die Erwerberin = 인수자 (여성)"
+  - german: "die Entflechtung, -en"
+    translation:
+      en: "unbundling / demerger"
+      ko: "분리 / 해체"
+    gender: f
+    notes:
+      en: "eine kartellrechtliche Entflechtung"
+      ko: "공정거래법상의 기업 분리"
+  - german: "die Minderheitsbeteiligung, -en"
+    translation:
+      en: "minority stake"
+      ko: "소수 지분"
+    gender: f
+    notes:
+      en: "eine Minderheitsbeteiligung erwerben"
+      ko: "소수 지분을 취득하다"
+  - german: "der Letter of Intent"
+    translation:
+      en: "letter of intent (LOI)"
+      ko: "의향서"
+    gender: m
+    notes:
+      en: "die Absichtserklärung = declaration of intent"
+      ko: "die Absichtserklärung = 의향 선언"
+  - german: "die Akquisition, -en"
+    translation:
+      en: "acquisition"
+      ko: "인수 / 획득"
+    gender: f
+    notes:
+      en: "die Kundenakquisition = customer acquisition"
+      ko: "die Kundenakquisition = 고객 확보"
+  - german: "das Kartellrecht"
+    translation:
+      en: "antitrust law"
+      ko: "공정거래법"
+    gender: n
+    notes:
+      en: "kartellrechtlich = pertaining to antitrust law"
+      ko: "kartellrechtlich = 공정거래법상의"
+  - german: "die Skaleneffekte (pl.)"
+    translation:
+      en: "economies of scale"
+      ko: "규모의 경제"
+    gender: m
+    notes:
+      en: "Skaleneffekte erzielen = to achieve economies of scale"
+      ko: "Skaleneffekte erzielen = 규모의 경제를 달성하다"
+  - german: "die Marktbereinigung, -en"
+    translation:
+      en: "market shakeout"
+      ko: "시장 정리"
+    gender: f
+    notes:
+      en: "eine Marktbereinigung durch Fusionen"
+      ko: "합병을 통한 시장 정리"
+  - german: "die Wettbewerbsaufsicht"
+    translation:
+      en: "competition supervision"
+      ko: "경쟁 감독"
+    gender: f
+    notes:
+      en: "die Europäische Wettbewerbsaufsicht"
+      ko: "유럽 경쟁 감독 기관"
+- id: finanzanalyse
+  label:
+    en: "Financial Analysis (Finanzanalyse)"
+    ko: "재무 분석 (Finanzanalyse)"
+  type: vocabulary
+  words:
+  - german: "die Bilanz, -en"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: f
+    notes:
+      en: "eine Bilanz aufstellen = to prepare a balance sheet"
+      ko: "eine Bilanz aufstellen = 대차대조표를 작성하다"
+  - german: "die Gewinn-und-Verlust-Rechnung, -en"
+    translation:
+      en: "income statement / P&L"
+      ko: "손익계산서"
+    gender: f
+    notes:
+      en: "Abbreviation: GuV"
+      ko: "약어: GuV"
+  - german: "der Cashflow"
+    translation:
+      en: "cash flow"
+      ko: "현금 흐름"
+    gender: m
+    notes:
+      en: "der operative Cashflow = operating cash flow"
+      ko: "der operative Cashflow = 영업 현금 흐름"
+  - german: "die Rendite, -n"
+    translation:
+      en: "return / yield"
+      ko: "수익률"
+    gender: f
+    notes:
+      en: "die Kapitalrendite = return on capital"
+      ko: "die Kapitalrendite = 자본 수익률"
+  - german: "die Eigenkapitalquote, -n"
+    translation:
+      en: "equity ratio"
+      ko: "자기자본비율"
+    gender: f
+    notes:
+      en: "eine hohe Eigenkapitalquote = a high equity ratio"
+      ko: "eine hohe Eigenkapitalquote = 높은 자기자본비율"
+  - german: "die Liquidität"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: f
+    notes:
+      en: "die Liquiditätsreserve = liquidity reserve"
+      ko: "die Liquiditätsreserve = 유동성 준비금"
+  - german: "die Abschreibung, -en"
+    translation:
+      en: "depreciation / amortization"
+      ko: "감가상각"
+    gender: f
+    notes:
+      en: "abschreiben = to depreciate"
+      ko: "abschreiben = 감가상각하다"
+  - german: "der Jahresabschluss, Jahresabschlüsse"
+    translation:
+      en: "annual financial statement"
+      ko: "연간 재무제표"
+    gender: m
+    notes:
+      en: "den Jahresabschluss prüfen = to audit the annual statement"
+      ko: "den Jahresabschluss prüfen = 연간 재무제표를 감사하다"
+  - german: "die Rückstellung, -en"
+    translation:
+      en: "provision (accounting)"
+      ko: "충당금"
+    gender: f
+    notes:
+      en: "Rückstellungen bilden = to set up provisions"
+      ko: "Rückstellungen bilden = 충당금을 적립하다"
+  - german: "die Kapitalflussrechnung, -en"
+    translation:
+      en: "cash flow statement"
+      ko: "현금 흐름표"
+    gender: f
+    notes:
+      en: "eine Kapitalflussrechnung erstellen"
+      ko: "현금 흐름표를 작성하다"
+  - german: "der Deckungsbeitrag, Deckungsbeiträge"
+    translation:
+      en: "contribution margin"
+      ko: "공헌이익"
+    gender: m
+    notes:
+      en: "der Deckungsbeitrag pro Stück = contribution margin per unit"
+      ko: "der Deckungsbeitrag pro Stück = 단위당 공헌이익"
+  - german: "die Umsatzrentabilität"
+    translation:
+      en: "return on sales"
+      ko: "매출이익률"
+    gender: f
+    notes:
+      en: "die Umsatzrendite = profit margin on sales"
+      ko: "die Umsatzrendite = 매출 수익률"
+  - german: "die Verbindlichkeit, -en"
+    translation:
+      en: "liability (financial)"
+      ko: "부채"
+    gender: f
+    notes:
+      en: "kurzfristige Verbindlichkeiten = current liabilities"
+      ko: "kurzfristige Verbindlichkeiten = 유동 부채"
+  - german: "die Forderung, -en"
+    translation:
+      en: "receivable / claim"
+      ko: "매출채권"
+    gender: f
+    notes:
+      en: "Forderungen aus Lieferungen und Leistungen = trade receivables"
+      ko: "Forderungen aus Lieferungen und Leistungen = 매출채권"
+  - german: "das Anlagevermögen"
+    translation:
+      en: "fixed assets"
+      ko: "고정 자산"
+    gender: n
+    notes:
+      en: "das Umlaufvermögen = current assets"
+      ko: "das Umlaufvermögen = 유동 자산"
+  - german: "die Tilgung, -en"
+    translation:
+      en: "repayment / amortization"
+      ko: "상환"
+    gender: f
+    notes:
+      en: "die Tilgungsrate = repayment installment"
+      ko: "die Tilgungsrate = 상환 분할금"
+  - german: "der Verschuldungsgrad"
+    translation:
+      en: "debt ratio / leverage"
+      ko: "부채 비율"
+    gender: m
+    notes:
+      en: "einen hohen Verschuldungsgrad aufweisen"
+      ko: "높은 부채 비율을 보이다"
+  - german: "die Bonität"
+    translation:
+      en: "creditworthiness"
+      ko: "신용도"
+    gender: f
+    notes:
+      en: "die Bonitätsprüfung = credit check"
+      ko: "die Bonitätsprüfung = 신용 조사"
+  - german: "die Kennziffer, -n"
+    translation:
+      en: "key performance indicator"
+      ko: "핵심 성과 지표"
+    gender: f
+    notes:
+      en: "betriebswirtschaftliche Kennziffern"
+      ko: "경영학적 핵심 지표"
+  - german: "die Risikostreuung"
+    translation:
+      en: "risk diversification"
+      ko: "위험 분산"
+    gender: f
+    notes:
+      en: "das Risiko streuen = to diversify risk"
+      ko: "das Risiko streuen = 위험을 분산하다"
+  - german: "die Wertminderung, -en"
+    translation:
+      en: "impairment"
+      ko: "가치 하락"
+    gender: f
+    notes:
+      en: "eine Wertminderung verbuchen = to record an impairment"
+      ko: "eine Wertminderung verbuchen = 가치 하락을 기록하다"
+  - german: "das EBITDA"
+    translation:
+      en: "EBITDA"
+      ko: "세전이자감가상각전영업이익"
+    gender: n
+    notes:
+      en: "Earnings Before Interest, Taxes, Depreciation and Amortization"
+      ko: "이자, 세금, 감가상각 전 영업이익"
+  - german: "die Kapitalstruktur"
+    translation:
+      en: "capital structure"
+      ko: "자본 구조"
+    gender: f
+    notes:
+      en: "die optimale Kapitalstruktur = optimal capital structure"
+      ko: "die optimale Kapitalstruktur = 최적 자본 구조"
+  - german: "die Dividendenpolitik"
+    translation:
+      en: "dividend policy"
+      ko: "배당 정책"
+    gender: f
+    notes:
+      en: "eine nachhaltige Dividendenpolitik verfolgen"
+      ko: "지속 가능한 배당 정책을 추구하다"
+  - german: "die Wirtschaftsprüfung, -en"
+    translation:
+      en: "auditing"
+      ko: "회계 감사"
+    gender: f
+    notes:
+      en: "der Wirtschaftsprüfer = auditor"
+      ko: "der Wirtschaftsprüfer = 회계사"
+  - german: "die Rechnungslegung"
+    translation:
+      en: "financial reporting / accounting"
+      ko: "재무 보고 / 회계 기준"
+    gender: f
+    notes:
+      en: "die internationale Rechnungslegung (IFRS)"
+      ko: "국제 재무 보고 기준 (IFRS)"
+  - german: "das Working Capital"
+    translation:
+      en: "working capital"
+      ko: "운전 자본"
+    gender: n
+    notes:
+      en: "das Betriebskapital = working capital (German equiv.)"
+      ko: "das Betriebskapital = 운전 자본 (독일어 동의어)"
+  - german: "die Gewinnmarge, -n"
+    translation:
+      en: "profit margin"
+      ko: "이익 마진"
+    gender: f
+    notes:
+      en: "die Bruttomarge = gross margin"
+      ko: "die Bruttomarge = 매출 총이익률"
+  - german: "solvent"
+    translation:
+      en: "solvent"
+      ko: "지급 능력이 있는"
+    gender: null
+    notes:
+      en: "die Solvenz = solvency"
+      ko: "die Solvenz = 지급 능력"
+  - german: "die Anleihe, -n"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: f
+    notes:
+      en: "eine Anleihe emittieren = to issue a bond"
+      ko: "eine Anleihe emittieren = 채권을 발행하다"
+  - german: "konsolidiert"
+    translation:
+      en: "consolidated"
+      ko: "연결된"
+    gender: null
+    notes:
+      en: "der konsolidierte Jahresabschluss = consolidated annual statement"
+      ko: "der konsolidierte Jahresabschluss = 연결 재무제표"
+- id: fuehrung
+  label:
+    en: "Leadership (Führung)"
+    ko: "리더십 (Führung)"
+  type: vocabulary
+  words:
+  - german: "die Führungskompetenz, -en"
+    translation:
+      en: "leadership competency"
+      ko: "리더십 역량"
+    gender: f
+    notes:
+      en: "Führungskompetenzen entwickeln = to develop leadership competencies"
+      ko: "Führungskompetenzen entwickeln = 리더십 역량을 개발하다"
+  - german: "der Führungsstil, -e"
+    translation:
+      en: "leadership style"
+      ko: "리더십 스타일"
+    gender: m
+    notes:
+      en: "ein kooperativer Führungsstil = a cooperative leadership style"
+      ko: "ein kooperativer Führungsstil = 협력적 리더십 스타일"
+  - german: "die Delegation, -en"
+    translation:
+      en: "delegation"
+      ko: "위임"
+    gender: f
+    notes:
+      en: "Aufgaben delegieren = to delegate tasks"
+      ko: "Aufgaben delegieren = 업무를 위임하다"
+  - german: "die Mitarbeiterführung"
+    translation:
+      en: "employee management / leadership"
+      ko: "직원 관리"
+    gender: f
+    notes:
+      en: "die Personalführung = personnel management"
+      ko: "die Personalführung = 인사 관리"
+  - german: "die Motivation"
+    translation:
+      en: "motivation"
+      ko: "동기부여"
+    gender: f
+    notes:
+      en: "die intrinsische Motivation = intrinsic motivation"
+      ko: "die intrinsische Motivation = 내재적 동기부여"
+  - german: "die Entscheidungsfindung"
+    translation:
+      en: "decision-making"
+      ko: "의사 결정"
+    gender: f
+    notes:
+      en: "der Entscheidungsprozess = decision-making process"
+      ko: "der Entscheidungsprozess = 의사 결정 과정"
+  - german: "die Konfliktlösung, -en"
+    translation:
+      en: "conflict resolution"
+      ko: "갈등 해결"
+    gender: f
+    notes:
+      en: "Konflikte lösen = to resolve conflicts"
+      ko: "Konflikte lösen = 갈등을 해결하다"
+  - german: "das Coaching"
+    translation:
+      en: "coaching"
+      ko: "코칭"
+    gender: n
+    notes:
+      en: "das Mentoring = mentoring"
+      ko: "das Mentoring = 멘토링"
+  - german: "das Empowerment"
+    translation:
+      en: "empowerment"
+      ko: "권한 부여"
+    gender: n
+    notes:
+      en: "die Befähigung = empowerment (German equiv.)"
+      ko: "die Befähigung = 권한 부여 (독일어 동의어)"
+  - german: "die Zielvereinbarung, -en"
+    translation:
+      en: "target agreement"
+      ko: "목표 합의"
+    gender: f
+    notes:
+      en: "Zielvereinbarungen treffen = to set target agreements"
+      ko: "Zielvereinbarungen treffen = 목표 합의를 체결하다"
+  - german: "die Leistungsbeurteilung, -en"
+    translation:
+      en: "performance appraisal"
+      ko: "업무 평가"
+    gender: f
+    notes:
+      en: "die jährliche Leistungsbeurteilung = annual performance review"
+      ko: "die jährliche Leistungsbeurteilung = 연간 업무 평가"
+  - german: "die Teamdynamik"
+    translation:
+      en: "team dynamics"
+      ko: "팀 역동성"
+    gender: f
+    notes:
+      en: "die Gruppendynamik = group dynamics"
+      ko: "die Gruppendynamik = 집단 역동성"
+  - german: "die Resilienz"
+    translation:
+      en: "resilience"
+      ko: "회복 탄력성"
+    gender: f
+    notes:
+      en: "resilient führen = to lead with resilience"
+      ko: "resilient führen = 회복 탄력성 있게 이끌다"
+  - german: "die Transparenz"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f
+    notes:
+      en: "transparent kommunizieren = to communicate transparently"
+      ko: "transparent kommunizieren = 투명하게 소통하다"
+  - german: "die Talentförderung"
+    translation:
+      en: "talent development"
+      ko: "인재 육성"
+    gender: f
+    notes:
+      en: "Talente fördern = to develop talents"
+      ko: "Talente fördern = 인재를 육성하다"
+  - german: "das Feedback, -s"
+    translation:
+      en: "feedback"
+      ko: "피드백"
+    gender: n
+    notes:
+      en: "die Rückmeldung = feedback (German equiv.)"
+      ko: "die Rückmeldung = 피드백 (독일어 동의어)"
+  - german: "agil"
+    translation:
+      en: "agile"
+      ko: "민첩한 / 애자일"
+    gender: null
+    notes:
+      en: "agile Führung = agile leadership"
+      ko: "agile Führung = 애자일 리더십"
+  - german: "die Fehlerkultur"
+    translation:
+      en: "error culture / learning from mistakes"
+      ko: "실패 문화"
+    gender: f
+    notes:
+      en: "eine konstruktive Fehlerkultur = a constructive error culture"
+      ko: "eine konstruktive Fehlerkultur = 건설적인 실패 문화"
+  - german: "charismatisch"
+    translation:
+      en: "charismatic"
+      ko: "카리스마 있는"
+    gender: null
+    notes:
+      en: "das Charisma = charisma"
+      ko: "das Charisma = 카리스마"
+  - german: "der Wandel"
+    translation:
+      en: "change / transformation"
+      ko: "변화 / 전환"
+    gender: m
+    notes:
+      en: "den Wandel gestalten = to shape change"
+      ko: "den Wandel gestalten = 변화를 주도하다"
+  - german: "die Veränderungsbereitschaft"
+    translation:
+      en: "readiness for change"
+      ko: "변화 의지"
+    gender: f
+    notes:
+      en: "veränderungsbereit = ready for change"
+      ko: "veränderungsbereit = 변화를 받아들일 준비가 된"
+  - german: "die Vorbildfunktion"
+    translation:
+      en: "role model function"
+      ko: "모범적 역할"
+    gender: f
+    notes:
+      en: "eine Vorbildfunktion übernehmen = to assume a role model function"
+      ko: "eine Vorbildfunktion übernehmen = 모범적 역할을 맡다"
+  - german: "situativ"
+    translation:
+      en: "situational"
+      ko: "상황적인"
+    gender: null
+    notes:
+      en: "situative Führung = situational leadership"
+      ko: "situative Führung = 상황적 리더십"
+  - german: "die Weisungsbefugnis"
+    translation:
+      en: "authority to give directives"
+      ko: "지시 권한"
+    gender: f
+    notes:
+      en: "weisungsbefugt = authorized to give directives"
+      ko: "weisungsbefugt = 지시 권한이 있는"
+  - german: "die emotionale Intelligenz"
+    translation:
+      en: "emotional intelligence"
+      ko: "감성 지능"
+    gender: f
+    notes:
+      en: "die EQ = emotional quotient"
+      ko: "die EQ = 감성 지수"
+- id: verhandlungen
+  label:
+    en: "Negotiations (Verhandlungen)"
+    ko: "협상 (Verhandlungen)"
+  type: vocabulary
+  words:
+  - german: "die Verhandlung, -en"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+    notes:
+      en: "Verhandlungen führen = to conduct negotiations"
+      ko: "Verhandlungen führen = 협상을 진행하다"
+  - german: "der Verhandlungsspielraum"
+    translation:
+      en: "room for negotiation"
+      ko: "협상 여지"
+    gender: m
+    notes:
+      en: "den Verhandlungsspielraum ausloten = to explore the room for negotiation"
+      ko: "den Verhandlungsspielraum ausloten = 협상 여지를 탐색하다"
+  - german: "die Verhandlungsposition, -en"
+    translation:
+      en: "negotiating position"
+      ko: "협상 입장"
+    gender: f
+    notes:
+      en: "eine starke Verhandlungsposition = a strong negotiating position"
+      ko: "eine starke Verhandlungsposition = 강력한 협상 입장"
+  - german: "der Kompromiss, -e"
+    translation:
+      en: "compromise"
+      ko: "타협"
+    gender: m
+    notes:
+      en: "einen Kompromiss finden = to find a compromise"
+      ko: "einen Kompromiss finden = 타협점을 찾다"
+  - german: "die Konzession, -en"
+    translation:
+      en: "concession"
+      ko: "양보"
+    gender: f
+    notes:
+      en: "Konzessionen machen = to make concessions"
+      ko: "Konzessionen machen = 양보하다"
+  - german: "das Entgegenkommen"
+    translation:
+      en: "accommodation / willingness to compromise"
+      ko: "양보 / 배려"
+    gender: n
+    notes:
+      en: "entgegenkommen = to accommodate"
+      ko: "entgegenkommen = 양보하다"
+  - german: "die Win-Win-Situation, -en"
+    translation:
+      en: "win-win situation"
+      ko: "윈윈 상황"
+    gender: f
+    notes:
+      en: "eine Win-Win-Lösung anstreben = to aim for a win-win solution"
+      ko: "eine Win-Win-Lösung anstreben = 윈윈 해결책을 추구하다"
+  - german: "die Einigung, -en"
+    translation:
+      en: "agreement / settlement"
+      ko: "합의"
+    gender: f
+    notes:
+      en: "eine Einigung erzielen = to reach an agreement"
+      ko: "eine Einigung erzielen = 합의에 도달하다"
+  - german: "die Vertragsklausel, -n"
+    translation:
+      en: "contract clause"
+      ko: "계약 조항"
+    gender: f
+    notes:
+      en: "eine Vertragsklausel verhandeln = to negotiate a contract clause"
+      ko: "eine Vertragsklausel verhandeln = 계약 조항을 협상하다"
+  - german: "das Ultimatum, Ultimaten"
+    translation:
+      en: "ultimatum"
+      ko: "최후 통첩"
+    gender: n
+    notes:
+      en: "ein Ultimatum stellen = to issue an ultimatum"
+      ko: "ein Ultimatum stellen = 최후 통첩을 내리다"
+  - german: "die Verhandlungsstrategie, -n"
+    translation:
+      en: "negotiation strategy"
+      ko: "협상 전략"
+    gender: f
+    notes:
+      en: "eine Verhandlungsstrategie entwickeln"
+      ko: "협상 전략을 수립하다"
+  - german: "die Forderung, -en"
+    translation:
+      en: "demand / requirement"
+      ko: "요구"
+    gender: f
+    notes:
+      en: "eine Forderung stellen = to make a demand"
+      ko: "eine Forderung stellen = 요구를 제시하다"
+  - german: "die Mediation, -en"
+    translation:
+      en: "mediation"
+      ko: "중재"
+    gender: f
+    notes:
+      en: "der Mediator = mediator"
+      ko: "der Mediator = 중재자"
+  - german: "die Absichtserklärung, -en"
+    translation:
+      en: "declaration of intent"
+      ko: "의향 선언"
+    gender: f
+    notes:
+      en: "eine Absichtserklärung unterzeichnen"
+      ko: "의향 선언에 서명하다"
+  - german: "der Verhandlungsführer, -"
+    translation:
+      en: "chief negotiator"
+      ko: "협상 대표"
+    gender: m
+    notes:
+      en: "die Verhandlungsführerin = chief negotiator (f)"
+      ko: "die Verhandlungsführerin = 여성 협상 대표"
+  - german: "die Schlichtung, -en"
+    translation:
+      en: "arbitration / conciliation"
+      ko: "조정 / 중재"
+    gender: f
+    notes:
+      en: "der Schlichter = arbitrator"
+      ko: "der Schlichter = 조정자"
+  - german: "die Geheimhaltungsvereinbarung, -en"
+    translation:
+      en: "non-disclosure agreement (NDA)"
+      ko: "비밀유지계약"
+    gender: f
+    notes:
+      en: "die Vertraulichkeitsvereinbarung = confidentiality agreement"
+      ko: "die Vertraulichkeitsvereinbarung = 기밀유지협약"
+  - german: "die Patt-Situation, -en"
+    translation:
+      en: "deadlock / stalemate"
+      ko: "교착 상태"
+    gender: f
+    notes:
+      en: "eine Patt-Situation überwinden = to overcome a deadlock"
+      ko: "eine Patt-Situation überwinden = 교착 상태를 극복하다"
+  - german: "hartnäckig"
+    translation:
+      en: "persistent / tenacious"
+      ko: "끈질긴"
+    gender: null
+    notes:
+      en: "hartnäckig verhandeln = to negotiate tenaciously"
+      ko: "hartnäckig verhandeln = 끈질기게 협상하다"
+  - german: "nachgeben"
+    translation:
+      en: "to give in / yield"
+      ko: "양보하다"
+    gender: null
+    notes:
+      en: "in einem Punkt nachgeben = to yield on one point"
+      ko: "in einem Punkt nachgeben = 한 가지 사안에서 양보하다"
+  - german: "die Vertragsbedingung, -en"
+    translation:
+      en: "contractual condition"
+      ko: "계약 조건"
+    gender: f
+    notes:
+      en: "die Vertragsbedingungen festlegen = to set contractual conditions"
+      ko: "die Vertragsbedingungen festlegen = 계약 조건을 정하다"
+  - german: "die Interessenabwägung, -en"
+    translation:
+      en: "balancing of interests"
+      ko: "이해관계 형량"
+    gender: f
+    notes:
+      en: "eine sorgfältige Interessenabwägung"
+      ko: "신중한 이해관계 형량"
+  - german: "die BATNA"
+    translation:
+      en: "BATNA (best alternative to a negotiated agreement)"
+      ko: "협상 불발 시 최선의 대안"
+    gender: f
+    notes:
+      en: "die beste Alternative zu einer Verhandlungsvereinbarung"
+      ko: "협상 합의에 대한 최선의 대안"
+  - german: "die Verhandlungsrunde, -n"
+    translation:
+      en: "round of negotiations"
+      ko: "협상 라운드"
+    gender: f
+    notes:
+      en: "die nächste Verhandlungsrunde = the next round of negotiations"
+      ko: "die nächste Verhandlungsrunde = 다음 협상 라운드"
+  - german: "vertraulich"
+    translation:
+      en: "confidential"
+      ko: "비밀의 / 기밀의"
+    gender: null
+    notes:
+      en: "die Vertraulichkeit = confidentiality"
+      ko: "die Vertraulichkeit = 기밀성"
+  - german: "das Mandat, -e"
+    translation:
+      en: "mandate / commission"
+      ko: "위임 / 위탁"
+    gender: n
+    notes:
+      en: "ein Verhandlungsmandat = a negotiating mandate"
+      ko: "ein Verhandlungsmandat = 협상 위임"
+  - german: "die Eskalation, -en"
+    translation:
+      en: "escalation"
+      ko: "격화"
+    gender: f
+    notes:
+      en: "eine Eskalation vermeiden = to avoid escalation"
+      ko: "eine Eskalation vermeiden = 격화를 피하다"
+  - german: "die Deeskalation, -en"
+    translation:
+      en: "de-escalation"
+      ko: "진정"
+    gender: f
+    notes:
+      en: "deeskalierend wirken = to have a de-escalating effect"
+      ko: "deeskalierend wirken = 진정 효과를 갖다"
+  - german: "die Zugeständnisse (pl.)"
+    translation:
+      en: "concessions"
+      ko: "양보 사항"
+    gender: n
+    notes:
+      en: "Zugeständnisse machen = to make concessions"
+      ko: "Zugeständnisse machen = 양보하다"
+  - german: "die Risikoverteilung"
+    translation:
+      en: "risk allocation"
+      ko: "위험 배분"
+    gender: f
+    notes:
+      en: "die vertragliche Risikoverteilung"
+      ko: "계약상의 위험 배분"
+  - german: "das Memorandum of Understanding"
+    translation:
+      en: "memorandum of understanding (MoU)"
+      ko: "양해각서"
+    gender: n
+    notes:
+      en: "die Grundsatzvereinbarung = framework agreement"
+      ko: "die Grundsatzvereinbarung = 기본 합의서"
+  - german: "der Verhandlungsabbruch"
+    translation:
+      en: "breakdown of negotiations"
+      ko: "협상 결렬"
+    gender: m
+    notes:
+      en: "die Verhandlungen abbrechen = to break off negotiations"
+      ko: "die Verhandlungen abbrechen = 협상을 결렬시키다"
+  - german: "die Nachverhandlung, -en"
+    translation:
+      en: "renegotiation"
+      ko: "재협상"
+    gender: f
+    notes:
+      en: "nachverhandeln = to renegotiate"
+      ko: "nachverhandeln = 재협상하다"
+  - german: "die Kompromissbereitschaft"
+    translation:
+      en: "willingness to compromise"
+      ko: "타협 의지"
+    gender: f
+    notes:
+      en: "kompromissbereit = willing to compromise"
+      ko: "kompromissbereit = 타협할 의지가 있는"
+  - german: "die Vertragsunterzeichnung, -en"
+    translation:
+      en: "contract signing"
+      ko: "계약 체결"
+    gender: f
+    notes:
+      en: "den Vertrag unterzeichnen = to sign the contract"
+      ko: "den Vertrag unterzeichnen = 계약에 서명하다"
+  - german: "die Wertschöpfung"
+    translation:
+      en: "value creation"
+      ko: "가치 창출"
+    gender: f
+    notes:
+      en: "Wertschöpfung für beide Seiten = value creation for both sides"
+      ko: "양측을 위한 가치 창출"
+  - german: "die Marktforschung"
+    translation:
+      en: "market research"
+      ko: "시장 조사"
+    gender: f
+    notes:
+      en: "Marktforschung betreiben = to conduct market research"
+      ko: "Marktforschung betreiben = 시장 조사를 하다"
+  - german: "die Gewinnbeteiligung, -en"
+    translation:
+      en: "profit sharing"
+      ko: "이익 분배"
+    gender: f
+    notes:
+      en: "die Erfolgsbeteiligung = performance-based sharing"
+      ko: "die Erfolgsbeteiligung = 성과 기반 분배"
+  - german: "die Strategieberatung, -en"
+    translation:
+      en: "strategy consulting"
+      ko: "전략 컨설팅"
+    gender: f
+    notes:
+      en: "die Unternehmensberatung = management consulting"
+      ko: "die Unternehmensberatung = 경영 컨설팅"
+  - german: "die Innovationskraft"
+    translation:
+      en: "innovative power"
+      ko: "혁신력"
+    gender: f
+    notes:
+      en: "die Innovationsfähigkeit = capacity for innovation"
+      ko: "die Innovationsfähigkeit = 혁신 능력"
+  - german: "das Geschäftsmodell, -e"
+    translation:
+      en: "business model"
+      ko: "비즈니스 모델"
+    gender: n
+    notes:
+      en: "ein disruptives Geschäftsmodell = a disruptive business model"
+      ko: "ein disruptives Geschäftsmodell = 파괴적 비즈니스 모델"
+  - german: "die Marktpositionierung"
+    translation:
+      en: "market positioning"
+      ko: "시장 포지셔닝"
+    gender: f
+    notes:
+      en: "sich am Markt positionieren = to position oneself in the market"
+      ko: "sich am Markt positionieren = 시장에서 포지셔닝하다"
+  - german: "die Prozessoptimierung, -en"
+    translation:
+      en: "process optimization"
+      ko: "프로세스 최적화"
+    gender: f
+    notes:
+      en: "Prozesse optimieren = to optimize processes"
+      ko: "Prozesse optimieren = 프로세스를 최적화하다"
+  - german: "die Kapitalerhöhung, -en"
+    translation:
+      en: "capital increase"
+      ko: "증자"
+    gender: f
+    notes:
+      en: "eine Kapitalerhöhung durchführen = to carry out a capital increase"
+      ko: "eine Kapitalerhöhung durchführen = 증자를 실행하다"
+  - german: "die Börsennotierung, -en"
+    translation:
+      en: "stock exchange listing"
+      ko: "증권 거래소 상장"
+    gender: f
+    notes:
+      en: "der Börsengang = IPO (initial public offering)"
+      ko: "der Börsengang = 기업공개 (IPO)"
+  - german: "die Verlustvorträge (pl.)"
+    translation:
+      en: "loss carryforwards"
+      ko: "이월 결손금"
+    gender: m
+    notes:
+      en: "steuerliche Verlustvorträge = tax loss carryforwards"
+      ko: "steuerliche Verlustvorträge = 세금상 이월 결손금"
+  - german: "die Fremdfinanzierung"
+    translation:
+      en: "debt financing"
+      ko: "타인 자본 조달"
+    gender: f
+    notes:
+      en: "die Eigenfinanzierung = equity financing"
+      ko: "die Eigenfinanzierung = 자기 자본 조달"
+  - german: "die Risikoanalyse, -n"
+    translation:
+      en: "risk analysis"
+      ko: "위험 분석"
+    gender: f
+    notes:
+      en: "eine Risikoanalyse durchführen = to perform a risk analysis"
+      ko: "eine Risikoanalyse durchführen = 위험 분석을 수행하다"
+  - german: "die Unternehmensanleihe, -n"
+    translation:
+      en: "corporate bond"
+      ko: "회사채"
+    gender: f
+    notes:
+      en: "eine Unternehmensanleihe begeben = to issue a corporate bond"
+      ko: "eine Unternehmensanleihe begeben = 회사채를 발행하다"
+  - german: "der Aktionärsbrief, -e"
+    translation:
+      en: "shareholder letter"
+      ko: "주주 서한"
+    gender: m
+    notes:
+      en: "der Aktionärsbrief im Geschäftsbericht"
+      ko: "사업 보고서의 주주 서한"
+  - german: "die Umstrukturierung, -en"
+    translation:
+      en: "restructuring"
+      ko: "재편"
+    gender: f
+    notes:
+      en: "umstrukturieren = to restructure"
+      ko: "umstrukturieren = 재편하다"
+  - german: "der Geschäftsbericht, -e"
+    translation:
+      en: "annual report"
+      ko: "사업 보고서"
+    gender: m
+    notes:
+      en: "den Geschäftsbericht veröffentlichen = to publish the annual report"
+      ko: "den Geschäftsbericht veröffentlichen = 사업 보고서를 발표하다"
+  - german: "die Kostensenkung, -en"
+    translation:
+      en: "cost reduction"
+      ko: "비용 절감"
+    gender: f
+    notes:
+      en: "Kosten senken = to reduce costs"
+      ko: "Kosten senken = 비용을 절감하다"
+  - german: "die Globalisierungsstrategie, -n"
+    translation:
+      en: "globalization strategy"
+      ko: "글로벌화 전략"
+    gender: f
+    notes:
+      en: "eine Globalisierungsstrategie verfolgen"
+      ko: "글로벌화 전략을 추진하다"
+  - german: "die Markteintrittsbarriere, -n"
+    translation:
+      en: "market entry barrier"
+      ko: "시장 진입 장벽"
+    gender: f
+    notes:
+      en: "Markteintrittsbarrieren überwinden"
+      ko: "시장 진입 장벽을 극복하다"
+  - german: "die Gewinnwarnung, -en"
+    translation:
+      en: "profit warning"
+      ko: "실적 경고"
+    gender: f
+    notes:
+      en: "eine Gewinnwarnung herausgeben = to issue a profit warning"
+      ko: "eine Gewinnwarnung herausgeben = 실적 경고를 내다"
+  - german: "die Sorgfaltsprüfung, -en"
+    translation:
+      en: "due diligence audit"
+      ko: "실사 감사"
+    gender: f
+    notes:
+      en: "eine umfassende Sorgfaltsprüfung = a comprehensive due diligence"
+      ko: "eine umfassende Sorgfaltsprüfung = 포괄적 실사"
+  - german: "die Ertragslage"
+    translation:
+      en: "earnings position"
+      ko: "수익 상황"
+    gender: f
+    notes:
+      en: "die aktuelle Ertragslage des Unternehmens"
+      ko: "기업의 현재 수익 상황"
+  - german: "die Vermögenslage"
+    translation:
+      en: "asset position"
+      ko: "자산 상황"
+    gender: f
+    notes:
+      en: "Vermögens-, Finanz- und Ertragslage"
+      ko: "자산, 재무, 수익 상황"
+  - german: "nachhaltig"
+    translation:
+      en: "sustainable"
+      ko: "지속 가능한"
+    gender: null
+    notes:
+      en: "nachhaltiges Wachstum = sustainable growth"
+      ko: "nachhaltiges Wachstum = 지속 가능한 성장"
+  - german: "wettbewerbsfähig"
+    translation:
+      en: "competitive"
+      ko: "경쟁력 있는"
+    gender: null
+    notes:
+      en: "die Wettbewerbsfähigkeit = competitiveness"
+      ko: "die Wettbewerbsfähigkeit = 경쟁력"
+  - german: "profitabel"
+    translation:
+      en: "profitable"
+      ko: "수익성 있는"
+    gender: null
+    notes:
+      en: "die Profitabilität = profitability"
+      ko: "die Profitabilität = 수익성"
+  - german: "die Marktanteile (pl.)"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: m
+    notes:
+      en: "Marktanteile gewinnen = to gain market share"
+      ko: "Marktanteile gewinnen = 시장 점유율을 확보하다"
+  - german: "die Zielgruppe, -n"
+    translation:
+      en: "target group"
+      ko: "목표 고객층"
+    gender: f
+    notes:
+      en: "die Zielgruppe ansprechen = to address the target group"
+      ko: "die Zielgruppe ansprechen = 목표 고객층에 어필하다"
+  - german: "die Kundenakquise"
+    translation:
+      en: "customer acquisition"
+      ko: "고객 확보"
+    gender: f
+    notes:
+      en: "die Neukundengewinnung = new customer acquisition"
+      ko: "die Neukundengewinnung = 신규 고객 확보"
+  - german: "die Lieferkette, -n"
+    translation:
+      en: "supply chain"
+      ko: "공급망"
+    gender: f
+    notes:
+      en: "die Lieferkette optimieren = to optimize the supply chain"
+      ko: "die Lieferkette optimieren = 공급망을 최적화하다"
+  - german: "die Kundenbindung"
+    translation:
+      en: "customer retention"
+      ko: "고객 유지"
+    gender: f
+    notes:
+      en: "die Kundenbindungsstrategie = customer retention strategy"
+      ko: "die Kundenbindungsstrategie = 고객 유지 전략"
+  - german: "die Branchenanalyse, -n"
+    translation:
+      en: "industry analysis"
+      ko: "업계 분석"
+    gender: f
+    notes:
+      en: "eine Branchenanalyse durchführen = to conduct an industry analysis"
+      ko: "eine Branchenanalyse durchführen = 업계 분석을 수행하다"
+  - german: "die Deckungsbeitragsrechnung, -en"
+    translation:
+      en: "contribution margin accounting"
+      ko: "공헌이익 계산"
+    gender: f
+    notes:
+      en: "eine Deckungsbeitragsrechnung erstellen"
+      ko: "공헌이익 계산을 작성하다"
+  - german: "die Investitionsrechnung, -en"
+    translation:
+      en: "investment appraisal"
+      ko: "투자 분석"
+    gender: f
+    notes:
+      en: "die Kapitalwertmethode = net present value method"
+      ko: "die Kapitalwertmethode = 순현재가치법"
+  - german: "die Eigenkapitalrentabilität"
+    translation:
+      en: "return on equity"
+      ko: "자기자본이익률"
+    gender: f
+    notes:
+      en: "die ROE = return on equity"
+      ko: "ROE = 자기자본이익률"
+  - german: "die Gesamtkapitalrentabilität"
+    translation:
+      en: "return on total capital"
+      ko: "총자본이익률"
+    gender: f
+    notes:
+      en: "die ROIC = return on invested capital"
+      ko: "ROIC = 투하자본수익률"
+  - german: "der Lagerumschlag"
+    translation:
+      en: "inventory turnover"
+      ko: "재고 회전율"
+    gender: m
+    notes:
+      en: "den Lagerumschlag erhöhen = to increase inventory turnover"
+      ko: "den Lagerumschlag erhöhen = 재고 회전율을 높이다"
+  - german: "der Break-even-Punkt"
+    translation:
+      en: "break-even point"
+      ko: "손익분기점"
+    gender: m
+    notes:
+      en: "die Gewinnschwelle = break-even point (German equiv.)"
+      ko: "die Gewinnschwelle = 손익분기점 (독일어 동의어)"

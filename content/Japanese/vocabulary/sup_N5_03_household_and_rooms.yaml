@@ -1,0 +1,1570 @@
+lesson: "sup_N5_Household_and_Rooms"
+lesson_number: 103
+jlpt: N5
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: rooms_of_house
+  label:
+    en: "Rooms of a House"
+    ko: "집의 방"
+  type: vocabulary
+  words:
+  - japanese: "家"
+    reading: "いえ"
+    translation:
+      en: "house, home"
+      ko: "집"
+    gender: null
+    notes:
+      en: "also read うち when meaning 'my home'"
+      ko: "우리 집이라는 의미일 때 うち로도 읽음"
+  - japanese: "部屋"
+    reading: "へや"
+    translation:
+      en: "room"
+      ko: "방"
+    gender: null
+    notes:
+      en: "general term for any room"
+      ko: "모든 방의 일반적인 표현"
+  - japanese: "台所"
+    reading: "だいどころ"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: null
+    notes:
+      en: "traditional Japanese word for kitchen"
+      ko: "부엌의 전통적인 일본어 표현"
+  - japanese: "居間"
+    reading: "いま"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: null
+    notes:
+      en: "also リビング (loanword)"
+      ko: "リビング(외래어)으로도 사용"
+  - japanese: "寝室"
+    reading: "しんしつ"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: null
+    notes:
+      en: "sleep + room"
+      ko: "잠 + 방"
+  - japanese: トイレ
+    reading: null
+    translation:
+      en: "toilet, restroom"
+      ko: "화장실"
+    gender: null
+    notes:
+      en: "katakana loanword from English 'toilet'"
+      ko: "영어 'toilet'에서 온 외래어"
+  - japanese: "お風呂"
+    reading: "おふろ"
+    translation:
+      en: "bath, bathroom"
+      ko: "목욕, 욕실"
+    gender: null
+    notes:
+      en: "お is honorific; bathing culture is central"
+      ko: "お는 존경 접두사; 목욕 문화가 중요"
+  - japanese: "玄関"
+    reading: "げんかん"
+    translation:
+      en: "entrance, entryway"
+      ko: "현관"
+    gender: null
+    notes:
+      en: "where you remove shoes"
+      ko: "신발을 벗는 곳"
+  - japanese: "庭"
+    reading: "にわ"
+    translation:
+      en: "garden, yard"
+      ko: "정원, 마당"
+    gender: null
+    notes:
+      en: "Japanese gardens are famous"
+      ko: "일본 정원이 유명"
+  - japanese: "廊下"
+    reading: "ろうか"
+    translation:
+      en: "hallway, corridor"
+      ko: "복도"
+    gender: null
+    notes:
+      en: "connecting passage between rooms"
+      ko: "방과 방을 연결하는 통로"
+  - japanese: "階段"
+    reading: "かいだん"
+    translation:
+      en: "stairs, staircase"
+      ko: "계단"
+    gender: null
+    notes:
+      en: "floor + step"
+      ko: "층 + 단"
+  - japanese: ベランダ
+    reading: null
+    translation:
+      en: "balcony, veranda"
+      ko: "베란다"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "屋根"
+    reading: "やね"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: null
+    notes:
+      en: "house + root/top"
+      ko: "집 + 근본/꼭대기"
+  - japanese: "壁"
+    reading: "かべ"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: null
+    notes:
+      en: "interior or exterior wall"
+      ko: "실내 또는 실외 벽"
+  - japanese: "床"
+    reading: "ゆか"
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: null
+    notes:
+      en: "also read とこ in 床の間 (tokonoma)"
+      ko: "床の間(도코노마)에서는 とこ로 읽음"
+  - japanese: "天井"
+    reading: "てんじょう"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: null
+    notes:
+      en: "heaven + well"
+      ko: "하늘 + 우물"
+  - japanese: "窓"
+    reading: "まど"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: null
+    notes:
+      en: "窓を開ける = to open a window"
+      ko: "窓を開ける = 창문을 열다"
+  - japanese: "ドア"
+    reading: null
+    translation:
+      en: "door (Western style)"
+      ko: "문 (서양식)"
+    gender: null
+    notes:
+      en: "katakana loanword; for hinged doors"
+      ko: "가타카나 외래어; 여닫이문"
+  - japanese: "戸"
+    reading: "と"
+    translation:
+      en: "door (Japanese sliding)"
+      ko: "문 (일본식 미닫이)"
+    gender: null
+    notes:
+      en: "traditional sliding door"
+      ko: "전통 미닫이문"
+  - japanese: "押し入れ"
+    reading: "おしいれ"
+    translation:
+      en: "closet (Japanese style)"
+      ko: "벽장 (일본식)"
+    gender: null
+    notes:
+      en: "for storing futons"
+      ko: "이불을 보관하는 곳"
+  - japanese: ガレージ
+    reading: null
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "畳"
+    reading: "たたみ"
+    translation:
+      en: "tatami mat"
+      ko: "다다미"
+    gender: null
+    notes:
+      en: "traditional Japanese floor mat"
+      ko: "전통 일본식 바닥 깔개"
+  - japanese: "和室"
+    reading: "わしつ"
+    translation:
+      en: "Japanese-style room"
+      ko: "일본식 방"
+    gender: null
+    notes:
+      en: "room with tatami mats"
+      ko: "다다미가 깔린 방"
+  - japanese: "洋室"
+    reading: "ようしつ"
+    translation:
+      en: "Western-style room"
+      ko: "서양식 방"
+    gender: null
+    notes:
+      en: "room with wooden/carpet floor"
+      ko: "나무/카펫 바닥의 방"
+  - japanese: マンション
+    reading: null
+    translation:
+      en: "apartment, condominium"
+      ko: "아파트, 맨션"
+    gender: null
+    notes:
+      en: "Japanese English; means apartment building"
+      ko: "일본식 영어; 아파트 건물을 의미"
+  - japanese: アパート
+    reading: null
+    translation:
+      en: "apartment (smaller)"
+      ko: "아파트 (소형)"
+    gender: null
+    notes:
+      en: "smaller/older than マンション"
+      ko: "マンション보다 작거나 오래됨"
+  - japanese: "書斎"
+    reading: "しょさい"
+    translation:
+      en: "study room, home office"
+      ko: "서재"
+    gender: null
+    notes:
+      en: "write + room"
+      ko: "쓰기 + 방"
+  - japanese: "子供部屋"
+    reading: "こどもべや"
+    translation:
+      en: "children's room"
+      ko: "아이 방"
+    gender: null
+    notes:
+      en: "child + room"
+      ko: "어린이 + 방"
+  - japanese: "納戸"
+    reading: "なんど"
+    translation:
+      en: "storage closet, storeroom"
+      ko: "다용도실, 수납 공간"
+    gender: null
+    notes:
+      en: "small room for storage"
+      ko: "물건 보관용 작은 방"
+  - japanese: "土間"
+    reading: "どま"
+    translation:
+      en: "earthen floor (entrance area)"
+      ko: "흙바닥 (현관 부분)"
+    gender: null
+    notes:
+      en: "traditional Japanese house entrance"
+      ko: "전통 일본 가옥의 현관"
+  - japanese: "縁側"
+    reading: "えんがわ"
+    translation:
+      en: "veranda (traditional Japanese)"
+      ko: "마루, 툇마루"
+    gender: null
+    notes:
+      en: "wooden porch along the garden side"
+      ko: "정원 쪽의 나무 마루"
+
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - japanese: "机"
+    reading: "つくえ"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: null
+    notes:
+      en: "for study or work"
+      ko: "공부나 업무용"
+  - japanese: テーブル
+    reading: null
+    translation:
+      en: "table"
+      ko: "테이블"
+    gender: null
+    notes:
+      en: "katakana loanword; dining table"
+      ko: "가타카나 외래어; 식탁"
+  - japanese: "椅子"
+    reading: "いす"
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: null
+    notes:
+      en: "often written in hiragana as いす"
+      ko: "히라가나 いす로 자주 표기"
+  - japanese: ベッド
+    reading: null
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "布団"
+    reading: "ふとん"
+    translation:
+      en: "futon, Japanese bedding"
+      ko: "이불, 후톤"
+    gender: null
+    notes:
+      en: "traditional Japanese sleeping mat"
+      ko: "전통 일본식 잠자리"
+  - japanese: ソファー
+    reading: null
+    translation:
+      en: "sofa, couch"
+      ko: "소파"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "棚"
+    reading: "たな"
+    translation:
+      en: "shelf"
+      ko: "선반"
+    gender: null
+    notes:
+      en: "for books, kitchen, etc."
+      ko: "책, 주방 등을 위한"
+  - japanese: "本棚"
+    reading: "ほんだな"
+    translation:
+      en: "bookshelf"
+      ko: "책장"
+    gender: null
+    notes:
+      en: "book + shelf"
+      ko: "책 + 선반"
+  - japanese: たんす
+    reading: null
+    translation:
+      en: "dresser, chest of drawers"
+      ko: "서랍장, 옷장"
+    gender: null
+    notes:
+      en: "traditional Japanese furniture"
+      ko: "전통 일본 가구"
+  - japanese: カーテン
+    reading: null
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "鏡"
+    reading: "かがみ"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: null
+    notes:
+      en: "also important in Shinto culture"
+      ko: "신도 문화에서도 중요"
+  - japanese: "時計"
+    reading: "とけい"
+    translation:
+      en: "clock, watch"
+      ko: "시계"
+    gender: null
+    notes:
+      en: "time + measure"
+      ko: "시간 + 재다"
+  - japanese: "枕"
+    reading: "まくら"
+    translation:
+      en: "pillow"
+      ko: "베개"
+    gender: null
+    notes:
+      en: "essential bedding item"
+      ko: "필수 침구류"
+  - japanese: "毛布"
+    reading: "もうふ"
+    translation:
+      en: "blanket"
+      ko: "담요"
+    gender: null
+    notes:
+      en: "hair + cloth"
+      ko: "털 + 천"
+  - japanese: クッション
+    reading: null
+    translation:
+      en: "cushion"
+      ko: "쿠션"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "引き出し"
+    reading: "ひきだし"
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: null
+    notes:
+      en: "pull + put out"
+      ko: "당기다 + 내놓다"
+  - japanese: ざぶとん
+    reading: null
+    translation:
+      en: "floor cushion"
+      ko: "방석"
+    gender: null
+    notes:
+      en: "also 座布団 in kanji; for sitting on tatami"
+      ko: "한자로 座布団; 다다미 위에 앉을 때 사용"
+  - japanese: ハンガー
+    reading: null
+    translation:
+      en: "hanger"
+      ko: "옷걸이"
+    gender: null
+    notes:
+      en: "katakana loanword; for clothes"
+      ko: "가타카나 외래어; 옷용"
+  - japanese: ランプ
+    reading: null
+    translation:
+      en: "lamp"
+      ko: "램프, 조명"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "花瓶"
+    reading: "かびん"
+    translation:
+      en: "flower vase"
+      ko: "꽃병"
+    gender: null
+    notes:
+      en: "flower + vase"
+      ko: "꽃 + 병"
+  - japanese: "額縁"
+    reading: "がくぶち"
+    translation:
+      en: "picture frame"
+      ko: "액자"
+    gender: null
+    notes:
+      en: "picture + frame"
+      ko: "그림 + 테두리"
+  - japanese: カーペット
+    reading: null
+    translation:
+      en: "carpet"
+      ko: "카펫"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "目覚まし時計"
+    reading: "めざましどけい"
+    translation:
+      en: "alarm clock"
+      ko: "자명종, 알람 시계"
+    gender: null
+    notes:
+      en: "wake-up + clock"
+      ko: "깨우다 + 시계"
+  - japanese: カレンダー
+    reading: null
+    translation:
+      en: "calendar"
+      ko: "달력"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: ゴミ袋
+    reading: null
+    translation:
+      en: "garbage bag"
+      ko: "쓰레기봉투"
+    gender: null
+    notes:
+      en: "trash + bag"
+      ko: "쓰레기 + 봉투"
+  - japanese: "物置"
+    reading: "ものおき"
+    translation:
+      en: "storage room, shed"
+      ko: "창고, 물건 놓는 곳"
+    gender: null
+    notes:
+      en: "thing + place"
+      ko: "물건 + 놓는 곳"
+  - japanese: こたつ
+    reading: null
+    translation:
+      en: "heated table (kotatsu)"
+      ko: "고타쓰 (난방 테이블)"
+    gender: null
+    notes:
+      en: "table with built-in heater and blanket"
+      ko: "히터와 이불이 달린 테이블"
+  - japanese: "敷布団"
+    reading: "しきぶとん"
+    translation:
+      en: "mattress futon (bottom)"
+      ko: "깔개 이불 (아래)"
+    gender: null
+    notes:
+      en: "spread + futon; placed on floor"
+      ko: "깔다 + 이불; 바닥에 깔기"
+  - japanese: "掛け布団"
+    reading: "かけぶとん"
+    translation:
+      en: "comforter, duvet (top)"
+      ko: "덮개 이불 (위)"
+    gender: null
+    notes:
+      en: "cover + futon; used as blanket"
+      ko: "덮다 + 이불; 덮개로 사용"
+  - japanese: シーツ
+    reading: null
+    translation:
+      en: "bed sheets"
+      ko: "시트, 침대 시트"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "照明"
+    reading: "しょうめい"
+    translation:
+      en: "lighting, illumination"
+      ko: "조명"
+    gender: null
+    notes:
+      en: "照明をつける = to turn on the lights"
+      ko: "照明をつける = 조명을 켜다"
+
+- id: kitchen_items
+  label:
+    en: "Kitchen Items"
+    ko: "주방 용품"
+  type: vocabulary
+  words:
+  - japanese: "茶碗"
+    reading: "ちゃわん"
+    translation:
+      en: "rice bowl, tea cup"
+      ko: "밥그릇, 찻잔"
+    gender: null
+    notes:
+      en: "tea + bowl; daily use item"
+      ko: "차 + 그릇; 일상용품"
+  - japanese: やかん
+    reading: null
+    translation:
+      en: "kettle"
+      ko: "주전자"
+    gender: null
+    notes:
+      en: "for boiling water"
+      ko: "물 끓이는 용도"
+  - japanese: まないた
+    reading: null
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: null
+    notes:
+      en: "also 俎板 in kanji"
+      ko: "한자로 俎板"
+  - japanese: "包丁"
+    reading: "ほうちょう"
+    translation:
+      en: "kitchen knife"
+      ko: "부엌칼"
+    gender: null
+    notes:
+      en: "Japanese kitchen knives are world-famous"
+      ko: "일본 부엌칼은 세계적으로 유명"
+  - japanese: ラップ
+    reading: null
+    translation:
+      en: "plastic wrap"
+      ko: "랩"
+    gender: null
+    notes:
+      en: "katakana loanword from 'wrap'"
+      ko: "'wrap'에서 온 외래어"
+  - japanese: "電子レンジ"
+    reading: "でんしレンジ"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: null
+    notes:
+      en: "electronic + range"
+      ko: "전자 + 레인지"
+  - japanese: "食器"
+    reading: "しょっき"
+    translation:
+      en: "tableware, dishes"
+      ko: "식기"
+    gender: null
+    notes:
+      en: "general term for eating utensils"
+      ko: "식사 도구의 일반적인 표현"
+  - japanese: "炊飯器"
+    reading: "すいはんき"
+    translation:
+      en: "rice cooker"
+      ko: "밥솥"
+    gender: null
+    notes:
+      en: "essential Japanese kitchen appliance"
+      ko: "일본 주방 필수 가전"
+  - japanese: "急須"
+    reading: "きゅうす"
+    translation:
+      en: "teapot"
+      ko: "다관, 찻주전자"
+    gender: null
+    notes:
+      en: "Japanese-style teapot for green tea"
+      ko: "녹차용 일본식 찻주전자"
+  - japanese: ざる
+    reading: null
+    translation:
+      en: "colander, strainer"
+      ko: "소쿠리, 체"
+    gender: null
+    notes:
+      en: "bamboo or metal strainer"
+      ko: "대나무 또는 금속 체"
+  - japanese: "湯呑み"
+    reading: "ゆのみ"
+    translation:
+      en: "tea cup (Japanese)"
+      ko: "찻잔 (일본식)"
+    gender: null
+    notes:
+      en: "hot water + drink; handleless cup"
+      ko: "뜨거운 물 + 마시다; 손잡이 없는 잔"
+  - japanese: おたま
+    reading: null
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: null
+    notes:
+      en: "for serving soup"
+      ko: "국 떠는 용도"
+  - japanese: ボウル
+    reading: null
+    translation:
+      en: "bowl (for mixing)"
+      ko: "볼 (믹싱용)"
+    gender: null
+    notes:
+      en: "katakana loanword; for cooking"
+      ko: "가타카나 외래어; 요리용"
+  - japanese: "食器棚"
+    reading: "しょっきだな"
+    translation:
+      en: "cupboard, dish cabinet"
+      ko: "식기장"
+    gender: null
+    notes:
+      en: "tableware + shelf"
+      ko: "식기 + 선반"
+  - japanese: "鍋敷き"
+    reading: "なべしき"
+    translation:
+      en: "pot holder, trivet"
+      ko: "냄비 받침"
+    gender: null
+    notes:
+      en: "pot + place"
+      ko: "냄비 + 깔다"
+  - japanese: "缶切り"
+    reading: "かんきり"
+    translation:
+      en: "can opener"
+      ko: "캔 따개"
+    gender: null
+    notes:
+      en: "can + cut"
+      ko: "캔 + 자르기"
+  - japanese: "栓抜き"
+    reading: "せんぬき"
+    translation:
+      en: "bottle opener"
+      ko: "병따개"
+    gender: null
+    notes:
+      en: "stopper + remove"
+      ko: "마개 + 빼다"
+  - japanese: "水筒"
+    reading: "すいとう"
+    translation:
+      en: "water bottle, thermos"
+      ko: "물통, 보온병"
+    gender: null
+    notes:
+      en: "water + tube; for carrying drinks"
+      ko: "물 + 통; 음료 휴대용"
+  - japanese: "ふきん"
+    reading: null
+    translation:
+      en: "dish towel, kitchen cloth"
+      ko: "행주"
+    gender: null
+    notes:
+      en: "also 布巾 in kanji"
+      ko: "한자로 布巾"
+  - japanese: トレー
+    reading: null
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "食洗機"
+    reading: "しょくせんき"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: null
+    notes:
+      en: "food + wash + machine"
+      ko: "식기 + 세척 + 기계"
+  - japanese: "蛇口"
+    reading: "じゃぐち"
+    translation:
+      en: "faucet, tap"
+      ko: "수도꼭지"
+    gender: null
+    notes:
+      en: "snake + mouth (shape metaphor)"
+      ko: "뱀 + 입 (형태 비유)"
+  - japanese: "泡立て器"
+    reading: "あわだてき"
+    translation:
+      en: "whisk"
+      ko: "거품기"
+    gender: null
+    notes:
+      en: "bubble + make + tool"
+      ko: "거품 + 세우다 + 도구"
+  - japanese: しゃもじ
+    reading: null
+    translation:
+      en: "rice paddle, rice scoop"
+      ko: "주걱"
+    gender: null
+    notes:
+      en: "for serving rice from the cooker"
+      ko: "밥솥에서 밥을 푸는 도구"
+  - japanese: "計量カップ"
+    reading: "けいりょうカップ"
+    translation:
+      en: "measuring cup"
+      ko: "계량컵"
+    gender: null
+    notes:
+      en: "measure + cup"
+      ko: "계량 + 컵"
+  - japanese: "流し"
+    reading: "ながし"
+    translation:
+      en: "kitchen sink"
+      ko: "싱크대"
+    gender: null
+    notes:
+      en: "from 流す = to drain/wash"
+      ko: "流す(흘려보내다)에서 유래"
+  - japanese: タッパー
+    reading: null
+    translation:
+      en: "food container, Tupperware"
+      ko: "밀폐 용기, 타파웨어"
+    gender: null
+    notes:
+      en: "from brand name 'Tupperware'"
+      ko: "브랜드명 'Tupperware'에서 유래"
+  - japanese: "お盆"
+    reading: "おぼん"
+    translation:
+      en: "tray (serving)"
+      ko: "쟁반"
+    gender: null
+    notes:
+      en: "also refers to Obon holiday in different context"
+      ko: "다른 맥락에서는 오본 명절을 의미"
+
+- id: bathroom_items
+  label:
+    en: "Bathroom Items"
+    ko: "욕실 용품"
+  type: vocabulary
+  words:
+  - japanese: せっけん
+    reading: null
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: null
+    notes:
+      en: "also 石鹸 in kanji"
+      ko: "한자로 石鹸"
+  - japanese: シャンプー
+    reading: null
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: タオル
+    reading: null
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "歯ブラシ"
+    reading: "はブラシ"
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: null
+    notes:
+      en: "tooth + brush (mixed script)"
+      ko: "이 + 브러시 (혼합 표기)"
+  - japanese: "歯磨き粉"
+    reading: "はみがきこ"
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: null
+    notes:
+      en: "literally tooth-polishing powder"
+      ko: "글자 그대로 치아 닦는 가루"
+  - japanese: シャワー
+    reading: null
+    translation:
+      en: "shower"
+      ko: "샤워"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: ドライヤー
+    reading: null
+    translation:
+      en: "hair dryer"
+      ko: "드라이어"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: かみそり
+    reading: null
+    translation:
+      en: "razor"
+      ko: "면도기"
+    gender: null
+    notes:
+      en: "also 剃刀 in kanji"
+      ko: "한자로 剃刀"
+  - japanese: リンス
+    reading: null
+    translation:
+      en: "conditioner (hair)"
+      ko: "린스"
+    gender: null
+    notes:
+      en: "from English 'rinse'; also called コンディショナー"
+      ko: "영어 'rinse'에서; コンディショナー로도 불림"
+  - japanese: "洗面台"
+    reading: "せんめんだい"
+    translation:
+      en: "bathroom sink, washstand"
+      ko: "세면대"
+    gender: null
+    notes:
+      en: "wash + face + stand"
+      ko: "씻다 + 얼굴 + 대"
+  - japanese: "浴槽"
+    reading: "よくそう"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: null
+    notes:
+      en: "bath + tub"
+      ko: "목욕 + 통"
+  - japanese: バスマット
+    reading: null
+    translation:
+      en: "bath mat"
+      ko: "욕실 매트"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "鍵"
+    reading: "かぎ"
+    translation:
+      en: "key, lock"
+      ko: "열쇠, 자물쇠"
+    gender: null
+    notes:
+      en: "鍵をかける = to lock"
+      ko: "鍵をかける = 잠그다"
+  - japanese: ごみばこ
+    reading: null
+    translation:
+      en: "trash can, wastebasket"
+      ko: "쓰레기통"
+    gender: null
+    notes:
+      en: "also ごみ箱 in kanji"
+      ko: "한자로 ごみ箱"
+  - japanese: "体重計"
+    reading: "たいじゅうけい"
+    translation:
+      en: "bathroom scale"
+      ko: "체중계"
+    gender: null
+    notes:
+      en: "body weight + measure"
+      ko: "체중 + 계량"
+  - japanese: "鏡台"
+    reading: "きょうだい"
+    translation:
+      en: "vanity, dressing table"
+      ko: "화장대"
+    gender: null
+    notes:
+      en: "mirror + stand"
+      ko: "거울 + 대"
+  - japanese: "入浴剤"
+    reading: "にゅうよくざい"
+    translation:
+      en: "bath salts, bath additive"
+      ko: "입욕제"
+    gender: null
+    notes:
+      en: "bathing + agent"
+      ko: "입욕 + 제"
+  - japanese: ボディーソープ
+    reading: null
+    translation:
+      en: "body soap, shower gel"
+      ko: "바디 소프, 샤워 젤"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "洗面器"
+    reading: "せんめんき"
+    translation:
+      en: "washbasin (portable)"
+      ko: "세숫대야"
+    gender: null
+    notes:
+      en: "wash face + vessel"
+      ko: "세면 + 그릇"
+  - japanese: トイレットペーパー
+    reading: null
+    translation:
+      en: "toilet paper"
+      ko: "화장지"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "脱衣所"
+    reading: "だついじょ"
+    translation:
+      en: "changing room (bathroom)"
+      ko: "탈의실"
+    gender: null
+    notes:
+      en: "undress + place; area before the bath"
+      ko: "벗다 + 곳; 목욕 전 공간"
+  - japanese: "排水口"
+    reading: "はいすいこう"
+    translation:
+      en: "drain"
+      ko: "배수구"
+    gender: null
+    notes:
+      en: "discharge + water + opening"
+      ko: "배출 + 물 + 구멍"
+  - japanese: "手洗い"
+    reading: "てあらい"
+    translation:
+      en: "hand washing, washroom"
+      ko: "손 씻기, 세면실"
+    gender: null
+    notes:
+      en: "hand + wash; also euphemism for restroom"
+      ko: "손 + 씻기; 화장실의 완곡한 표현"
+
+- id: cleaning_activities
+  label:
+    en: "Cleaning and Daily Activities"
+    ko: "청소와 일상 활동"
+  type: vocabulary
+  words:
+  - japanese: "掃除"
+    reading: "そうじ"
+    translation:
+      en: "cleaning"
+      ko: "청소"
+    gender: null
+    notes:
+      en: "する verb: 掃除する (to clean)"
+      ko: "する 동사: 掃除する (청소하다)"
+  - japanese: "洗濯"
+    reading: "せんたく"
+    translation:
+      en: "laundry, washing clothes"
+      ko: "빨래, 세탁"
+    gender: null
+    notes:
+      en: "する verb: 洗濯する (to do laundry)"
+      ko: "する 동사: 洗濯する (빨래하다)"
+  - japanese: ごみ
+    reading: null
+    translation:
+      en: "garbage, trash"
+      ko: "쓰레기"
+    gender: null
+    notes:
+      en: "ごみ出し = taking out the trash"
+      ko: "ごみ出し = 쓰레기 내놓기"
+  - japanese: ほうき
+    reading: null
+    translation:
+      en: "broom"
+      ko: "빗자루"
+    gender: null
+    notes:
+      en: "traditional cleaning tool"
+      ko: "전통적인 청소 도구"
+  - japanese: "掃除機"
+    reading: "そうじき"
+    translation:
+      en: "vacuum cleaner"
+      ko: "청소기"
+    gender: null
+    notes:
+      en: "cleaning + machine"
+      ko: "청소 + 기계"
+  - japanese: "洗剤"
+    reading: "せんざい"
+    translation:
+      en: "detergent, cleanser"
+      ko: "세제"
+    gender: null
+    notes:
+      en: "for dishes or laundry"
+      ko: "식기 또는 세탁용"
+  - japanese: "片付ける"
+    reading: "かたづける"
+    translation:
+      en: "to tidy up, to put away"
+      ko: "정리하다, 치우다"
+    gender: null
+    notes:
+      en: "important daily life verb"
+      ko: "중요한 일상생활 동사"
+  - japanese: "干す"
+    reading: "ほす"
+    translation:
+      en: "to hang out to dry"
+      ko: "널다, 말리다"
+    gender: null
+    notes:
+      en: "洗濯物を干す = hang laundry"
+      ko: "洗濯物を干す = 빨래를 널다"
+  - japanese: "拭く"
+    reading: "ふく"
+    translation:
+      en: "to wipe"
+      ko: "닦다"
+    gender: null
+    notes:
+      en: "wiping tables, floors, etc."
+      ko: "테이블, 바닥 등을 닦기"
+  - japanese: "磨く"
+    reading: "みがく"
+    translation:
+      en: "to polish, to brush (teeth)"
+      ko: "닦다, 광내다, (이를) 닦다"
+    gender: null
+    notes:
+      en: "歯を磨く = brush teeth"
+      ko: "歯を磨く = 이를 닦다"
+  - japanese: "起きる"
+    reading: "おきる"
+    translation:
+      en: "to wake up, to get up"
+      ko: "일어나다"
+    gender: null
+    notes:
+      en: "朝起きる = to wake up in the morning"
+      ko: "朝起きる = 아침에 일어나다"
+  - japanese: "寝る"
+    reading: "ねる"
+    translation:
+      en: "to sleep, to go to bed"
+      ko: "자다, 잠자리에 들다"
+    gender: null
+    notes:
+      en: "早く寝る = to go to bed early"
+      ko: "早く寝る = 일찍 자다"
+  - japanese: "開ける"
+    reading: "あける"
+    translation:
+      en: "to open"
+      ko: "열다"
+    gender: null
+    notes:
+      en: "ドアを開ける = to open a door"
+      ko: "ドアを開ける = 문을 열다"
+  - japanese: "閉める"
+    reading: "しめる"
+    translation:
+      en: "to close, to shut"
+      ko: "닫다"
+    gender: null
+    notes:
+      en: "窓を閉める = to close a window"
+      ko: "窓を閉める = 창문을 닫다"
+  - japanese: "つける"
+    reading: null
+    translation:
+      en: "to turn on (light, TV)"
+      ko: "켜다 (불, TV)"
+    gender: null
+    notes:
+      en: "電気をつける = turn on the light"
+      ko: "電気をつける = 전기를 켜다"
+  - japanese: "消す"
+    reading: "けす"
+    translation:
+      en: "to turn off, to erase"
+      ko: "끄다, 지우다"
+    gender: null
+    notes:
+      en: "電気を消す = turn off the light"
+      ko: "電気を消す = 전기를 끄다"
+  - japanese: "入る"
+    reading: "はいる"
+    translation:
+      en: "to enter, to go in"
+      ko: "들어가다"
+    gender: null
+    notes:
+      en: "お風呂に入る = to take a bath"
+      ko: "お風呂に入る = 목욕하다"
+  - japanese: "出る"
+    reading: "でる"
+    translation:
+      en: "to leave, to go out"
+      ko: "나가다, 나오다"
+    gender: null
+    notes:
+      en: "家を出る = to leave home"
+      ko: "家を出る = 집을 나서다"
+  - japanese: "電気"
+    reading: "でんき"
+    translation:
+      en: "electricity, light"
+      ko: "전기, 전등"
+    gender: null
+    notes:
+      en: "電気をつける/消す = turn on/off the light"
+      ko: "電気をつける/消す = 전등을 켜다/끄다"
+  - japanese: エアコン
+    reading: null
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: null
+    notes:
+      en: "abbreviated from エアコンディショナー"
+      ko: "エアコンディショナー의 줄임말"
+  - japanese: "洗濯機"
+    reading: "せんたくき"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: null
+    notes:
+      en: "laundry + machine"
+      ko: "세탁 + 기계"
+  - japanese: "水道"
+    reading: "すいどう"
+    translation:
+      en: "water supply, faucet"
+      ko: "수도"
+    gender: null
+    notes:
+      en: "water + way"
+      ko: "물 + 길"
+  - japanese: "ガス"
+    reading: null
+    translation:
+      en: "gas (cooking/heating)"
+      ko: "가스"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "アイロン"
+    reading: null
+    translation:
+      en: "iron (for clothes)"
+      ko: "다리미"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "物干し"
+    reading: "ものほし"
+    translation:
+      en: "drying rack, clothesline"
+      ko: "빨래 건조대"
+    gender: null
+    notes:
+      en: "thing + dry"
+      ko: "물건 + 말리다"
+  - japanese: "ぞうきん"
+    reading: null
+    translation:
+      en: "cleaning rag, dust cloth"
+      ko: "걸레"
+    gender: null
+    notes:
+      en: "also 雑巾 in kanji"
+      ko: "한자로 雑巾"
+  - japanese: "バケツ"
+    reading: null
+    translation:
+      en: "bucket"
+      ko: "양동이"
+    gender: null
+    notes:
+      en: "from English 'bucket'"
+      ko: "영어 'bucket'에서 유래"
+  - japanese: "スイッチ"
+    reading: null
+    translation:
+      en: "switch"
+      ko: "스위치"
+    gender: null
+    notes:
+      en: "katakana loanword; light switch etc."
+      ko: "가타카나 외래어; 전등 스위치 등"
+  - japanese: "コンセント"
+    reading: null
+    translation:
+      en: "electrical outlet, socket"
+      ko: "콘센트"
+    gender: null
+    notes:
+      en: "Japanese English; from 'concentric plug'"
+      ko: "일본식 영어; 'concentric plug'에서 유래"
+  - japanese: "暖房"
+    reading: "だんぼう"
+    translation:
+      en: "heating"
+      ko: "난방"
+    gender: null
+    notes:
+      en: "warm + room"
+      ko: "따뜻 + 방"
+  - japanese: "冷房"
+    reading: "れいぼう"
+    translation:
+      en: "air conditioning, cooling"
+      ko: "냉방"
+    gender: null
+    notes:
+      en: "cold + room"
+      ko: "차가운 + 방"
+  - japanese: "扇風機"
+    reading: "せんぷうき"
+    translation:
+      en: "electric fan"
+      ko: "선풍기"
+    gender: null
+    notes:
+      en: "fan + wind + machine"
+      ko: "부채 + 바람 + 기계"
+  - japanese: "電話"
+    reading: "でんわ"
+    translation:
+      en: "telephone"
+      ko: "전화"
+    gender: null
+    notes:
+      en: "electric + talk"
+      ko: "전기 + 말"
+  - japanese: テレビ
+    reading: null
+    translation:
+      en: "television, TV"
+      ko: "텔레비전, TV"
+    gender: null
+    notes:
+      en: "abbreviated from テレビジョン"
+      ko: "テレビジョン의 줄임말"
+  - japanese: ラジオ
+    reading: null
+    translation:
+      en: "radio"
+      ko: "라디오"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: パソコン
+    reading: null
+    translation:
+      en: "personal computer"
+      ko: "컴퓨터"
+    gender: null
+    notes:
+      en: "abbreviated from パーソナルコンピューター"
+      ko: "パーソナルコンピューター의 줄임말"
+  - japanese: "冷凍庫"
+    reading: "れいとうこ"
+    translation:
+      en: "freezer"
+      ko: "냉동고"
+    gender: null
+    notes:
+      en: "cold + freeze + warehouse"
+      ko: "냉 + 동결 + 창고"
+  - japanese: ストーブ
+    reading: null
+    translation:
+      en: "heater, stove"
+      ko: "난로, 히터"
+    gender: null
+    notes:
+      en: "from English 'stove'; mainly for heating"
+      ko: "영어 'stove'에서; 주로 난방용"
+  - japanese: "引っ越し"
+    reading: "ひっこし"
+    translation:
+      en: "moving (house)"
+      ko: "이사"
+    gender: null
+    notes:
+      en: "引っ越す = to move (house)"
+      ko: "引っ越す = 이사하다"
+  - japanese: "家賃"
+    reading: "やちん"
+    translation:
+      en: "rent"
+      ko: "집세"
+    gender: null
+    notes:
+      en: "house + rent"
+      ko: "집 + 임대료"
+  - japanese: "隣"
+    reading: "となり"
+    translation:
+      en: "next door, neighboring"
+      ko: "옆집, 이웃"
+    gender: null
+    notes:
+      en: "隣の人 = neighbor"
+      ko: "隣の人 = 이웃 사람"
+  - japanese: "近所"
+    reading: "きんじょ"
+    translation:
+      en: "neighborhood"
+      ko: "근처, 이웃"
+    gender: null
+    notes:
+      en: "near + place"
+      ko: "가까운 + 곳"
+  - japanese: "郵便ポスト"
+    reading: "ゆうびんポスト"
+    translation:
+      en: "mailbox, post box"
+      ko: "우체통"
+    gender: null
+    notes:
+      en: "mail + post"
+      ko: "우편 + 포스트"
+  - japanese: "表札"
+    reading: "ひょうさつ"
+    translation:
+      en: "nameplate (on door)"
+      ko: "문패"
+    gender: null
+    notes:
+      en: "display + plate; common on Japanese houses"
+      ko: "표시 + 판; 일본 가정에서 흔함"
+  - japanese: "呼び鈴"
+    reading: "よびりん"
+    translation:
+      en: "doorbell"
+      ko: "초인종"
+    gender: null
+    notes:
+      en: "call + bell; also インターホン"
+      ko: "부르다 + 종; インターホン으로도 불림"
+  - japanese: "乾燥機"
+    reading: "かんそうき"
+    translation:
+      en: "dryer (clothes)"
+      ko: "건조기"
+    gender: null
+    notes:
+      en: "dry + machine"
+      ko: "건조 + 기계"
+  - japanese: "電池"
+    reading: "でんち"
+    translation:
+      en: "battery"
+      ko: "건전지"
+    gender: null
+    notes:
+      en: "electric + pool"
+      ko: "전기 + 지"
+  - japanese: "電球"
+    reading: "でんきゅう"
+    translation:
+      en: "light bulb"
+      ko: "전구"
+    gender: null
+    notes:
+      en: "electric + ball"
+      ko: "전기 + 구"
+  - japanese: "修理"
+    reading: "しゅうり"
+    translation:
+      en: "repair, fix"
+      ko: "수리"
+    gender: null
+    notes:
+      en: "修理する = to repair"
+      ko: "修理する = 수리하다"
+  - japanese: "分別"
+    reading: "ぶんべつ"
+    translation:
+      en: "sorting (garbage)"
+      ko: "분리 (쓰레기)"
+    gender: null
+    notes:
+      en: "ごみの分別 = garbage sorting"
+      ko: "ごみの分別 = 쓰레기 분리"
+  - japanese: "燃えるごみ"
+    reading: "もえるごみ"
+    translation:
+      en: "burnable garbage"
+      ko: "타는 쓰레기"
+    gender: null
+    notes:
+      en: "burn + garbage; common waste category"
+      ko: "타다 + 쓰레기; 일반적인 폐기물 분류"
+  - japanese: "燃えないごみ"
+    reading: "もえないごみ"
+    translation:
+      en: "non-burnable garbage"
+      ko: "타지 않는 쓰레기"
+    gender: null
+    notes:
+      en: "not-burn + garbage"
+      ko: "타지 않는 + 쓰레기"
+  - japanese: リサイクル
+    reading: null
+    translation:
+      en: "recycling"
+      ko: "리사이클, 재활용"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "換気"
+    reading: "かんき"
+    translation:
+      en: "ventilation"
+      ko: "환기"
+    gender: null
+    notes:
+      en: "換気する = to ventilate"
+      ko: "換気する = 환기하다"
+  - japanese: "整理整頓"
+    reading: "せいりせいとん"
+    translation:
+      en: "tidying up, organizing"
+      ko: "정리정돈"
+    gender: null
+    notes:
+      en: "organize + put in order; important Japanese concept"
+      ko: "정리 + 정돈; 중요한 일본 개념"
+  - japanese: "粗大ごみ"
+    reading: "そだいごみ"
+    translation:
+      en: "oversized garbage, bulky waste"
+      ko: "대형 폐기물"
+    gender: null
+    notes:
+      en: "large + garbage; requires special pickup"
+      ko: "대형 + 쓰레기; 특별 수거 필요"
+  - japanese: "戸締まり"
+    reading: "とじまり"
+    translation:
+      en: "locking up, securing the house"
+      ko: "문단속"
+    gender: null
+    notes:
+      en: "door + lock; done before going out"
+      ko: "문 + 잠그기; 외출 전에 하는 일"

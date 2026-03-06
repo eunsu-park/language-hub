@@ -1,0 +1,1083 @@
+lesson: "sup_C1_Academic_Discourse"
+lesson_number: 181
+cefr: C1
+type: supplementary
+topic: "Academic Discourse"
+categories:
+- id: academic_writing
+  label:
+    en: "Academic Writing"
+    ko: "학술 글쓰기"
+  type: vocabulary
+  words:
+  - spanish: "el ensayo académico"
+    translation:
+      en: "academic essay"
+      ko: "학술 에세이"
+    gender: m
+  - spanish: "la tesis doctoral"
+    translation:
+      en: "doctoral thesis"
+      ko: "박사 논문"
+    gender: f
+  - spanish: "la disertación"
+    translation:
+      en: "dissertation"
+      ko: "학위 논문"
+    gender: f
+  - spanish: "el marco teórico"
+    translation:
+      en: "theoretical framework"
+      ko: "이론적 틀"
+    gender: m
+  - spanish: "el planteamiento del problema"
+    translation:
+      en: "problem statement"
+      ko: "문제 제기"
+    gender: m
+  - spanish: "la revisión bibliográfica"
+    translation:
+      en: "literature review"
+      ko: "문헌 검토"
+    gender: f
+  - spanish: "el estado de la cuestión"
+    translation:
+      en: "state of the art / current state of research"
+      ko: "연구 현황"
+    gender: m
+    notes:
+      en: "Standard section in Spanish academic papers"
+      ko: "스페인어 학술 논문의 표준 항목"
+  - spanish: "la nota al pie"
+    translation:
+      en: "footnote"
+      ko: "각주"
+    gender: f
+  - spanish: "la referencia bibliográfica"
+    translation:
+      en: "bibliographic reference"
+      ko: "참고 문헌"
+    gender: f
+  - spanish: "el índice analítico"
+    translation:
+      en: "analytical index"
+      ko: "분석 색인"
+    gender: m
+  - spanish: "la cita textual"
+    translation:
+      en: "direct quotation"
+      ko: "직접 인용"
+    gender: f
+  - spanish: "la paráfrasis"
+    translation:
+      en: "paraphrase"
+      ko: "의역 / 바꿔 쓰기"
+    gender: f
+  - spanish: "el plagio"
+    translation:
+      en: "plagiarism"
+      ko: "표절"
+    gender: m
+  - spanish: "el abstract"
+    translation:
+      en: "abstract"
+      ko: "초록"
+    gender: m
+    notes:
+      en: "Also 'el resumen' in Spanish academic contexts"
+      ko: "'el resumen'이라고도 함"
+  - spanish: "el artículo de investigación"
+    translation:
+      en: "research article"
+      ko: "연구 논문"
+    gender: m
+  - spanish: "la monografía"
+    translation:
+      en: "monograph"
+      ko: "단행본 / 모노그래프"
+    gender: f
+  - spanish: "el compendio"
+    translation:
+      en: "compendium"
+      ko: "개요서 / 편람"
+    gender: m
+  - spanish: "el apéndice"
+    translation:
+      en: "appendix"
+      ko: "부록"
+    gender: m
+  - spanish: "la errata"
+    translation:
+      en: "erratum / errata"
+      ko: "정오표"
+    gender: f
+  - spanish: "la coautoría"
+    translation:
+      en: "co-authorship"
+      ko: "공동 저자"
+    gender: f
+  - spanish: "el dictamen"
+    translation:
+      en: "expert opinion / review report"
+      ko: "심사 의견서"
+    gender: m
+  - spanish: "la publicación arbitrada"
+    translation:
+      en: "peer-reviewed publication"
+      ko: "동료 심사 출판물"
+    gender: f
+  - spanish: "la divulgación científica"
+    translation:
+      en: "science communication"
+      ko: "과학 대중화"
+    gender: f
+  - spanish: "el aparato crítico"
+    translation:
+      en: "critical apparatus"
+      ko: "비판적 주석 장치"
+    gender: m
+    notes:
+      en: "Scholarly notes, references, and annotations in an academic text"
+      ko: "학술 텍스트의 주석, 참고 문헌 및 비평적 주해"
+  - spanish: "redactar"
+    translation:
+      en: "to draft / to write up"
+      ko: "작성하다"
+    gender: null
+  - spanish: "sintetizar"
+    translation:
+      en: "to synthesize"
+      ko: "종합하다"
+    gender: null
+  - spanish: "citar"
+    translation:
+      en: "to cite / to quote"
+      ko: "인용하다"
+    gender: null
+  - spanish: "glosar"
+    translation:
+      en: "to gloss / to annotate"
+      ko: "주석을 달다"
+    gender: null
+  - spanish: "elucidar"
+    translation:
+      en: "to elucidate"
+      ko: "명확히 하다"
+    gender: null
+  - spanish: "la acotación"
+    translation:
+      en: "annotation / marginal note"
+      ko: "주석 / 방주"
+    gender: f
+  - spanish: "el epígrafe"
+    translation:
+      en: "epigraph / heading"
+      ko: "제사 / 표제"
+    gender: m
+  - spanish: "la edición crítica"
+    translation:
+      en: "critical edition"
+      ko: "비판적 교정본"
+    gender: f
+  - spanish: "la obra colectiva"
+    translation:
+      en: "collective work / edited volume"
+      ko: "공동 저작물"
+    gender: f
+  - spanish: "el tratado"
+    translation:
+      en: "treatise"
+      ko: "논문 / 조약서"
+    gender: m
+  - spanish: "la antología"
+    translation:
+      en: "anthology"
+      ko: "선집 / 앤솔러지"
+    gender: f
+  - spanish: "el manuscrito"
+    translation:
+      en: "manuscript"
+      ko: "원고"
+    gender: m
+  - spanish: "la ponencia"
+    translation:
+      en: "conference paper / presentation"
+      ko: "학회 발표 논문"
+    gender: f
+  - spanish: "el acta de congreso"
+    translation:
+      en: "conference proceedings"
+      ko: "학회 회의록"
+    gender: f
+  - spanish: "el prólogo"
+    translation:
+      en: "prologue / foreword"
+      ko: "서문"
+    gender: m
+  - spanish: "el epílogo"
+    translation:
+      en: "epilogue"
+      ko: "후기 / 결어"
+    gender: m
+- id: argumentation
+  label:
+    en: "Argumentation"
+    ko: "논증"
+  type: vocabulary
+  words:
+  - spanish: "la argumentación"
+    translation:
+      en: "argumentation"
+      ko: "논증"
+    gender: f
+  - spanish: "la fundamentación"
+    translation:
+      en: "substantiation / grounding"
+      ko: "근거 제시"
+    gender: f
+  - spanish: "el razonamiento deductivo"
+    translation:
+      en: "deductive reasoning"
+      ko: "연역적 추론"
+    gender: m
+  - spanish: "el razonamiento inductivo"
+    translation:
+      en: "inductive reasoning"
+      ko: "귀납적 추론"
+    gender: m
+  - spanish: "la evidencia empírica"
+    translation:
+      en: "empirical evidence"
+      ko: "경험적 증거"
+    gender: f
+  - spanish: "el sustento teórico"
+    translation:
+      en: "theoretical support"
+      ko: "이론적 뒷받침"
+    gender: m
+  - spanish: "la premisa mayor"
+    translation:
+      en: "major premise"
+      ko: "대전제"
+    gender: f
+  - spanish: "la premisa menor"
+    translation:
+      en: "minor premise"
+      ko: "소전제"
+    gender: f
+  - spanish: "la tesis de fondo"
+    translation:
+      en: "underlying thesis"
+      ko: "근본 논제"
+    gender: f
+  - spanish: "el corolario"
+    translation:
+      en: "corollary"
+      ko: "추론 / 귀결"
+    gender: m
+  - spanish: "la falacia lógica"
+    translation:
+      en: "logical fallacy"
+      ko: "논리적 오류"
+    gender: f
+  - spanish: "el sesgo de confirmación"
+    translation:
+      en: "confirmation bias"
+      ko: "확증 편향"
+    gender: m
+  - spanish: "la falacia del hombre de paja"
+    translation:
+      en: "straw man fallacy"
+      ko: "허수아비 논증의 오류"
+    gender: f
+  - spanish: "la petición de principio"
+    translation:
+      en: "begging the question"
+      ko: "선결 문제 요구의 오류"
+    gender: f
+    notes:
+      en: "Circular reasoning where the conclusion is assumed in the premise"
+      ko: "결론이 전제에 이미 포함된 순환 논증"
+  - spanish: "rebatir"
+    translation:
+      en: "to rebut / to counter"
+      ko: "반박하다"
+    gender: null
+  - spanish: "aducir"
+    translation:
+      en: "to adduce / to put forward"
+      ko: "제시하다 / 들다"
+    gender: null
+  - spanish: "esgrimir"
+    translation:
+      en: "to wield (an argument)"
+      ko: "(논거를) 내세우다"
+    gender: null
+    notes:
+      en: "Literally 'to fence'; figuratively to brandish an argument"
+      ko: "원래 '펜싱하다'; 비유적으로 논거를 내세우다"
+  - spanish: "dilucidar"
+    translation:
+      en: "to elucidate / to clarify"
+      ko: "해명하다"
+    gender: null
+  - spanish: "desestimar"
+    translation:
+      en: "to dismiss / to reject"
+      ko: "기각하다"
+    gender: null
+  - spanish: "corroborar"
+    translation:
+      en: "to corroborate"
+      ko: "확증하다"
+    gender: null
+  - spanish: "sopesar"
+    translation:
+      en: "to weigh up (arguments)"
+      ko: "따져 보다 / 비교 검토하다"
+    gender: null
+  - spanish: "la contraposición"
+    translation:
+      en: "contraposition / contrast"
+      ko: "대조 / 대비"
+    gender: f
+  - spanish: "la disyuntiva"
+    translation:
+      en: "dilemma / choice between two options"
+      ko: "양자택일 / 딜레마"
+    gender: f
+  - spanish: "la analogía pertinente"
+    translation:
+      en: "pertinent analogy"
+      ko: "적절한 유추"
+    gender: f
+  - spanish: "el argumento de autoridad"
+    translation:
+      en: "argument from authority"
+      ko: "권위에 의한 논증"
+    gender: m
+  - spanish: "la cadena causal"
+    translation:
+      en: "causal chain"
+      ko: "인과 관계의 사슬"
+    gender: f
+  - spanish: "la correlación"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: f
+  - spanish: "la causalidad"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+  - spanish: "el contraejemplo"
+    translation:
+      en: "counterexample"
+      ko: "반례"
+    gender: m
+  - spanish: "la salvedad"
+    translation:
+      en: "caveat / exception"
+      ko: "단서 / 예외"
+    gender: f
+  - spanish: "la objeción fundada"
+    translation:
+      en: "well-founded objection"
+      ko: "근거 있는 이의"
+    gender: f
+  - spanish: "la refutación contundente"
+    translation:
+      en: "decisive refutation"
+      ko: "결정적 반박"
+    gender: f
+  - spanish: "el non sequitur"
+    translation:
+      en: "non sequitur"
+      ko: "부당 추론"
+    gender: m
+    notes:
+      en: "Latin term: conclusion that does not follow from the premises"
+      ko: "라틴어 용어: 전제로부터 따라 나오지 않는 결론"
+  - spanish: "la reducción al absurdo"
+    translation:
+      en: "reductio ad absurdum"
+      ko: "귀류법"
+    gender: f
+  - spanish: "la generalización apresurada"
+    translation:
+      en: "hasty generalization"
+      ko: "성급한 일반화"
+    gender: f
+  - spanish: "apuntalar"
+    translation:
+      en: "to shore up / to bolster (an argument)"
+      ko: "(논거를) 뒷받침하다"
+    gender: null
+  - spanish: "desmontar"
+    translation:
+      en: "to dismantle (an argument)"
+      ko: "(논증을) 허물다"
+    gender: null
+  - spanish: "la concatenación"
+    translation:
+      en: "concatenation / chaining"
+      ko: "연쇄 / 연결"
+    gender: f
+  - spanish: "la dicotomía"
+    translation:
+      en: "dichotomy"
+      ko: "이분법"
+    gender: f
+  - spanish: "el silogismo hipotético"
+    translation:
+      en: "hypothetical syllogism"
+      ko: "가언적 삼단논법"
+    gender: m
+  - spanish: "la presuposición"
+    translation:
+      en: "presupposition"
+      ko: "전제 / 가정"
+    gender: f
+- id: research_terms
+  label:
+    en: "Research Terms"
+    ko: "연구 용어"
+  type: vocabulary
+  words:
+  - spanish: "la metodología"
+    translation:
+      en: "methodology"
+      ko: "방법론"
+    gender: f
+  - spanish: "la investigación cualitativa"
+    translation:
+      en: "qualitative research"
+      ko: "질적 연구"
+    gender: f
+  - spanish: "la investigación cuantitativa"
+    translation:
+      en: "quantitative research"
+      ko: "양적 연구"
+    gender: f
+  - spanish: "el método mixto"
+    translation:
+      en: "mixed methods"
+      ko: "혼합 연구 방법"
+    gender: m
+  - spanish: "la muestra"
+    translation:
+      en: "sample"
+      ko: "표본"
+    gender: f
+  - spanish: "el muestreo"
+    translation:
+      en: "sampling"
+      ko: "표본 추출"
+    gender: m
+  - spanish: "la variable independiente"
+    translation:
+      en: "independent variable"
+      ko: "독립 변수"
+    gender: f
+  - spanish: "la variable dependiente"
+    translation:
+      en: "dependent variable"
+      ko: "종속 변수"
+    gender: f
+  - spanish: "el grupo de control"
+    translation:
+      en: "control group"
+      ko: "대조군"
+    gender: m
+  - spanish: "el grupo experimental"
+    translation:
+      en: "experimental group"
+      ko: "실험군"
+    gender: m
+  - spanish: "la recopilación de datos"
+    translation:
+      en: "data collection"
+      ko: "데이터 수집"
+    gender: f
+  - spanish: "el análisis estadístico"
+    translation:
+      en: "statistical analysis"
+      ko: "통계 분석"
+    gender: m
+  - spanish: "la desviación estándar"
+    translation:
+      en: "standard deviation"
+      ko: "표준 편차"
+    gender: f
+  - spanish: "el margen de error"
+    translation:
+      en: "margin of error"
+      ko: "오차 범위"
+    gender: m
+  - spanish: "la fiabilidad"
+    translation:
+      en: "reliability"
+      ko: "신뢰도"
+    gender: f
+  - spanish: "la validez"
+    translation:
+      en: "validity"
+      ko: "타당도"
+    gender: f
+  - spanish: "la replicabilidad"
+    translation:
+      en: "replicability"
+      ko: "재현성"
+    gender: f
+  - spanish: "la triangulación"
+    translation:
+      en: "triangulation"
+      ko: "삼각 검증법"
+    gender: f
+    notes:
+      en: "Using multiple methods to cross-verify findings"
+      ko: "여러 방법을 사용하여 결과를 교차 검증하는 것"
+  - spanish: "el sesgo"
+    translation:
+      en: "bias"
+      ko: "편향"
+    gender: m
+  - spanish: "la hipótesis nula"
+    translation:
+      en: "null hypothesis"
+      ko: "귀무가설"
+    gender: f
+  - spanish: "la hipótesis alternativa"
+    translation:
+      en: "alternative hypothesis"
+      ko: "대립가설"
+    gender: f
+  - spanish: "el nivel de significancia"
+    translation:
+      en: "significance level"
+      ko: "유의 수준"
+    gender: m
+  - spanish: "la prueba piloto"
+    translation:
+      en: "pilot test"
+      ko: "예비 조사"
+    gender: f
+  - spanish: "el estudio longitudinal"
+    translation:
+      en: "longitudinal study"
+      ko: "종단 연구"
+    gender: m
+  - spanish: "el estudio transversal"
+    translation:
+      en: "cross-sectional study"
+      ko: "횡단 연구"
+    gender: m
+  - spanish: "el estudio de caso"
+    translation:
+      en: "case study"
+      ko: "사례 연구"
+    gender: m
+  - spanish: "la encuesta"
+    translation:
+      en: "survey"
+      ko: "설문 조사"
+    gender: f
+  - spanish: "el cuestionario"
+    translation:
+      en: "questionnaire"
+      ko: "설문지"
+    gender: m
+  - spanish: "la entrevista en profundidad"
+    translation:
+      en: "in-depth interview"
+      ko: "심층 면접"
+    gender: f
+  - spanish: "el grupo focal"
+    translation:
+      en: "focus group"
+      ko: "포커스 그룹"
+    gender: m
+  - spanish: "la observación participante"
+    translation:
+      en: "participant observation"
+      ko: "참여 관찰"
+    gender: f
+  - spanish: "la etnografía"
+    translation:
+      en: "ethnography"
+      ko: "민족지학"
+    gender: f
+  - spanish: "el hallazgo"
+    translation:
+      en: "finding / discovery"
+      ko: "연구 결과 / 발견"
+    gender: m
+  - spanish: "la limitación del estudio"
+    translation:
+      en: "study limitation"
+      ko: "연구의 한계"
+    gender: f
+  - spanish: "las líneas futuras de investigación"
+    translation:
+      en: "future lines of research"
+      ko: "향후 연구 방향"
+    gender: f
+  - spanish: "la revisión por pares"
+    translation:
+      en: "peer review"
+      ko: "동료 심사"
+    gender: f
+  - spanish: "el índice de impacto"
+    translation:
+      en: "impact factor"
+      ko: "영향력 지수"
+    gender: m
+  - spanish: "el consentimiento informado"
+    translation:
+      en: "informed consent"
+      ko: "사전 동의"
+    gender: m
+  - spanish: "el comité de ética"
+    translation:
+      en: "ethics committee"
+      ko: "윤리 위원회"
+    gender: m
+  - spanish: "extrapolar"
+    translation:
+      en: "to extrapolate"
+      ko: "외삽하다 / 추정하다"
+    gender: null
+- id: presenting_data
+  label:
+    en: "Presenting Data"
+    ko: "데이터 발표"
+  type: vocabulary
+  words:
+  - spanish: "la gráfica de barras"
+    translation:
+      en: "bar chart"
+      ko: "막대 그래프"
+    gender: f
+  - spanish: "el gráfico circular"
+    translation:
+      en: "pie chart"
+      ko: "원형 그래프"
+    gender: m
+  - spanish: "el diagrama de dispersión"
+    translation:
+      en: "scatter plot"
+      ko: "산점도"
+    gender: m
+  - spanish: "la tabla comparativa"
+    translation:
+      en: "comparative table"
+      ko: "비교표"
+    gender: f
+  - spanish: "el eje horizontal"
+    translation:
+      en: "horizontal axis"
+      ko: "수평축"
+    gender: m
+  - spanish: "el eje vertical"
+    translation:
+      en: "vertical axis"
+      ko: "수직축"
+    gender: m
+  - spanish: "la tendencia ascendente"
+    translation:
+      en: "upward trend"
+      ko: "상승 추세"
+    gender: f
+  - spanish: "la tendencia descendente"
+    translation:
+      en: "downward trend"
+      ko: "하강 추세"
+    gender: f
+  - spanish: "el pico"
+    translation:
+      en: "peak"
+      ko: "정점 / 최고치"
+    gender: m
+  - spanish: "el valle"
+    translation:
+      en: "trough / valley"
+      ko: "골 / 최저치"
+    gender: m
+  - spanish: "la fluctuación"
+    translation:
+      en: "fluctuation"
+      ko: "변동"
+    gender: f
+  - spanish: "el incremento paulatino"
+    translation:
+      en: "gradual increase"
+      ko: "점진적 증가"
+    gender: m
+  - spanish: "el descenso abrupto"
+    translation:
+      en: "sharp decline"
+      ko: "급격한 하락"
+    gender: m
+  - spanish: "la cifra"
+    translation:
+      en: "figure / number"
+      ko: "수치"
+    gender: f
+  - spanish: "el porcentaje"
+    translation:
+      en: "percentage"
+      ko: "백분율"
+    gender: m
+  - spanish: "la proporción"
+    translation:
+      en: "proportion / ratio"
+      ko: "비율"
+    gender: f
+  - spanish: "la media aritmética"
+    translation:
+      en: "arithmetic mean"
+      ko: "산술 평균"
+    gender: f
+  - spanish: "la mediana"
+    translation:
+      en: "median"
+      ko: "중앙값"
+    gender: f
+  - spanish: "la moda"
+    translation:
+      en: "mode (statistics)"
+      ko: "최빈값"
+    gender: f
+  - spanish: "el rango"
+    translation:
+      en: "range"
+      ko: "범위"
+    gender: m
+  - spanish: "el umbral"
+    translation:
+      en: "threshold"
+      ko: "임계값"
+    gender: m
+  - spanish: "la tasa de crecimiento"
+    translation:
+      en: "growth rate"
+      ko: "성장률"
+    gender: f
+  - spanish: "el indicador"
+    translation:
+      en: "indicator"
+      ko: "지표"
+    gender: m
+  - spanish: "el índice"
+    translation:
+      en: "index / rate"
+      ko: "지수"
+    gender: m
+  - spanish: "como se puede apreciar en la figura"
+    translation:
+      en: "as can be seen in the figure"
+      ko: "그림에서 볼 수 있듯이"
+    gender: null
+  - spanish: "los datos arrojan que"
+    translation:
+      en: "the data show that"
+      ko: "데이터에 따르면"
+    gender: null
+    notes:
+      en: "Formal expression for presenting research findings"
+      ko: "연구 결과를 제시하는 격식 표현"
+  - spanish: "se observa una tendencia a"
+    translation:
+      en: "a tendency toward... is observed"
+      ko: "...하는 경향이 관찰된다"
+    gender: null
+  - spanish: "cabe destacar que"
+    translation:
+      en: "it is worth noting that"
+      ko: "주목할 만한 점은"
+    gender: null
+  - spanish: "según se desprende de"
+    translation:
+      en: "as can be inferred from"
+      ko: "...에서 추론할 수 있듯이"
+    gender: null
+  - spanish: "la representación gráfica"
+    translation:
+      en: "graphical representation"
+      ko: "도식적 표현"
+    gender: f
+  - spanish: "el diagrama de flujo"
+    translation:
+      en: "flowchart"
+      ko: "순서도"
+    gender: m
+  - spanish: "la infografía"
+    translation:
+      en: "infographic"
+      ko: "인포그래픽"
+    gender: f
+  - spanish: "el histograma"
+    translation:
+      en: "histogram"
+      ko: "히스토그램"
+    gender: m
+  - spanish: "la línea de tendencia"
+    translation:
+      en: "trend line"
+      ko: "추세선"
+    gender: f
+  - spanish: "el valor atípico"
+    translation:
+      en: "outlier"
+      ko: "이상치"
+    gender: m
+  - spanish: "la distribución normal"
+    translation:
+      en: "normal distribution"
+      ko: "정규 분포"
+    gender: f
+  - spanish: "la leyenda del gráfico"
+    translation:
+      en: "chart legend"
+      ko: "그래프 범례"
+    gender: f
+  - spanish: "desglosar"
+    translation:
+      en: "to break down / to itemize"
+      ko: "세분화하다"
+    gender: null
+  - spanish: "cuantificar"
+    translation:
+      en: "to quantify"
+      ko: "정량화하다"
+    gender: null
+  - spanish: "el dato cualitativo"
+    translation:
+      en: "qualitative data"
+      ko: "질적 데이터"
+    gender: m
+- id: hedging_and_qualifying
+  label:
+    en: "Hedging and Qualifying"
+    ko: "완화 표현 및 한정 표현"
+  type: vocabulary
+  words:
+  - spanish: "cabe señalar que"
+    translation:
+      en: "it should be noted that"
+      ko: "주목해야 할 점은"
+    gender: null
+  - spanish: "conviene matizar que"
+    translation:
+      en: "it is worth qualifying that"
+      ko: "세밀히 따질 필요가 있는 것은"
+    gender: null
+  - spanish: "no obstante"
+    translation:
+      en: "nevertheless"
+      ko: "그럼에도 불구하고"
+    gender: null
+  - spanish: "si bien es cierto que"
+    translation:
+      en: "although it is true that"
+      ko: "비록 ...이 사실이지만"
+    gender: null
+  - spanish: "en cierta medida"
+    translation:
+      en: "to a certain extent"
+      ko: "어느 정도"
+    gender: null
+  - spanish: "en términos generales"
+    translation:
+      en: "in general terms"
+      ko: "일반적으로"
+    gender: null
+  - spanish: "a grandes rasgos"
+    translation:
+      en: "broadly speaking"
+      ko: "대체로"
+    gender: null
+  - spanish: "presumiblemente"
+    translation:
+      en: "presumably"
+      ko: "아마도"
+    gender: null
+  - spanish: "cabría pensar que"
+    translation:
+      en: "one might think that"
+      ko: "...라고 생각할 수 있을 것이다"
+    gender: null
+    notes:
+      en: "Uses conditional of 'caber'; very formal hedging"
+      ko: "'caber'의 조건법 사용; 매우 격식 있는 완화 표현"
+  - spanish: "dicho de otro modo"
+    translation:
+      en: "in other words"
+      ko: "달리 말하면"
+    gender: null
+  - spanish: "a modo de ejemplo"
+    translation:
+      en: "by way of example"
+      ko: "예를 들자면"
+    gender: null
+  - spanish: "es menester señalar que"
+    translation:
+      en: "it is necessary to point out that"
+      ko: "지적해야 할 필요가 있는 것은"
+    gender: null
+    notes:
+      en: "'Menester' is a very formal/archaic word for 'necessary'"
+      ko: "'menester'는 '필요한'의 매우 격식/고어적 표현"
+  - spanish: "habida cuenta de"
+    translation:
+      en: "taking into account / given"
+      ko: "...을 고려하면"
+    gender: null
+  - spanish: "a la luz de"
+    translation:
+      en: "in light of"
+      ko: "...에 비추어"
+    gender: null
+  - spanish: "en lo que respecta a"
+    translation:
+      en: "with regard to"
+      ko: "...에 관해서는"
+    gender: null
+  - spanish: "de conformidad con"
+    translation:
+      en: "in accordance with"
+      ko: "...에 따라"
+    gender: null
+  - spanish: "por consiguiente"
+    translation:
+      en: "consequently"
+      ko: "따라서"
+    gender: null
+  - spanish: "a tenor de"
+    translation:
+      en: "in accordance with / pursuant to"
+      ko: "...에 따르면"
+    gender: null
+    notes:
+      en: "Very formal; common in legal and academic Spanish"
+      ko: "매우 격식; 법률 및 학술 스페인어에서 자주 사용"
+  - spanish: "en virtud de"
+    translation:
+      en: "by virtue of"
+      ko: "...에 의하여"
+    gender: null
+  - spanish: "todo parece indicar que"
+    translation:
+      en: "everything seems to indicate that"
+      ko: "모든 것이 ...을 시사한다"
+    gender: null
+  - spanish: "según se ha podido constatar"
+    translation:
+      en: "as has been established"
+      ko: "확인된 바에 따르면"
+    gender: null
+  - spanish: "los resultados sugieren que"
+    translation:
+      en: "the results suggest that"
+      ko: "결과는 ...을 시사한다"
+    gender: null
+  - spanish: "sería prematuro afirmar que"
+    translation:
+      en: "it would be premature to state that"
+      ko: "...라고 단언하기는 이르다"
+    gender: null
+  - spanish: "no se puede descartar que"
+    translation:
+      en: "it cannot be ruled out that"
+      ko: "...을 배제할 수 없다"
+    gender: null
+  - spanish: "con las debidas reservas"
+    translation:
+      en: "with due reservations"
+      ko: "적절한 유보를 두고"
+    gender: null
+  - spanish: "en la medida en que"
+    translation:
+      en: "insofar as / to the extent that"
+      ko: "...하는 한"
+    gender: null
+  - spanish: "a juzgar por"
+    translation:
+      en: "judging by"
+      ko: "...으로 미루어 보아"
+    gender: null
+  - spanish: "en líneas generales"
+    translation:
+      en: "broadly / in general terms"
+      ko: "개괄적으로"
+    gender: null
+  - spanish: "grosso modo"
+    translation:
+      en: "roughly / approximately"
+      ko: "대략적으로"
+    gender: null
+    notes:
+      en: "Latin expression widely used in academic Spanish"
+      ko: "학술 스페인어에서 널리 쓰이는 라틴어 표현"
+  - spanish: "hasta donde alcanza nuestro conocimiento"
+    translation:
+      en: "to the best of our knowledge"
+      ko: "우리가 아는 한"
+    gender: null
+  - spanish: "huelga decir que"
+    translation:
+      en: "it goes without saying that"
+      ko: "말할 필요도 없이"
+    gender: null
+    notes:
+      en: "Very formal; 'huelga' here means 'it is unnecessary'"
+      ko: "매우 격식; 여기서 'huelga'는 '불필요하다'의 의미"
+  - spanish: "a nuestro juicio"
+    translation:
+      en: "in our judgment"
+      ko: "우리의 판단으로는"
+    gender: null
+  - spanish: "merece la pena subrayar que"
+    translation:
+      en: "it is worth emphasizing that"
+      ko: "강조할 가치가 있는 것은"
+    gender: null
+  - spanish: "valga la redundancia"
+    translation:
+      en: "if you will pardon the redundancy"
+      ko: "군더더기 같지만"
+    gender: null
+  - spanish: "stricto sensu"
+    translation:
+      en: "strictly speaking"
+      ko: "엄밀히 말하면"
+    gender: null
+    notes:
+      en: "Latin expression; contrast with 'lato sensu' (broadly speaking)"
+      ko: "라틴어 표현; 'lato sensu' (넓은 의미에서)와 대조"
+  - spanish: "lato sensu"
+    translation:
+      en: "broadly speaking"
+      ko: "넓은 의미에서"
+    gender: null
+  - spanish: "sensu stricto"
+    translation:
+      en: "in the strict sense"
+      ko: "엄격한 의미에서"
+    gender: null
+  - spanish: "queda por determinar si"
+    translation:
+      en: "it remains to be determined whether"
+      ko: "...인지는 아직 결정되지 않았다"
+    gender: null
+  - spanish: "con independencia de"
+    translation:
+      en: "regardless of"
+      ko: "...에 관계없이"
+    gender: null
+  - spanish: "en cualquier caso"
+    translation:
+      en: "in any case"
+      ko: "어떤 경우든"
+    gender: null

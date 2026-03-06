@@ -1,0 +1,890 @@
+lesson: "sup_A1_Household_and_Rooms"
+lesson_number: 103
+cefr: A1
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: rooms_of_house
+  label:
+    en: "Rooms of the House"
+    ko: "집의 방"
+  type: vocabulary
+  words:
+  - spanish: "la casa"
+    translation:
+      en: "house / home"
+      ko: "집"
+    gender: f
+  - spanish: "el piso"
+    translation:
+      en: "apartment / floor"
+      ko: "아파트 / 층"
+    gender: m
+    notes:
+      en: "In Spain, piso = apartment; in LatAm, departamento"
+      ko: "스페인에서 piso = 아파트; 라틴아메리카에서는 departamento"
+  - spanish: "el sótano"
+    translation:
+      en: "basement"
+      ko: "지하실"
+    gender: m
+  - spanish: "el ático"
+    translation:
+      en: "attic / penthouse"
+      ko: "다락방 / 옥탑"
+    gender: m
+  - spanish: "el despacho"
+    translation:
+      en: "home office / study"
+      ko: "서재 / 작업실"
+    gender: m
+  - spanish: "el lavadero"
+    translation:
+      en: "laundry room"
+      ko: "세탁실"
+    gender: m
+  - spanish: "la terraza"
+    translation:
+      en: "terrace / patio"
+      ko: "테라스"
+    gender: f
+  - spanish: "el techo"
+    translation:
+      en: "ceiling / roof"
+      ko: "천장 / 지붕"
+    gender: m
+  - spanish: "el suelo"
+    translation:
+      en: "floor (surface)"
+      ko: "바닥"
+    gender: m
+  - spanish: "la pared"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: f
+  - spanish: "la puerta"
+    translation:
+      en: "door"
+      ko: "문"
+    gender: f
+  - spanish: "la ventana"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+  - spanish: "la escalera"
+    translation:
+      en: "staircase / stairs"
+      ko: "계단"
+    gender: f
+  - spanish: "el ascensor"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+  - spanish: "el tejado"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: m
+  - spanish: "la chimenea"
+    translation:
+      en: "chimney / fireplace"
+      ko: "굴뚝 / 벽난로"
+    gender: f
+  - spanish: "el portal"
+    translation:
+      en: "entrance hall / lobby"
+      ko: "현관 / 로비"
+    gender: m
+  - spanish: "el trastero"
+    translation:
+      en: "storage room"
+      ko: "창고"
+    gender: m
+  - spanish: "el buzón"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: m
+  - spanish: "la cerca"
+    translation:
+      en: "fence"
+      ko: "울타리"
+    gender: f
+  - spanish: "el vecino"
+    translation:
+      en: "neighbor"
+      ko: "이웃"
+    gender: m
+  - spanish: "el edificio"
+    translation:
+      en: "building"
+      ko: "건물"
+    gender: m
+  - spanish: "el alquiler"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: m
+  - spanish: "el propietario"
+    translation:
+      en: "owner / landlord"
+      ko: "주인 / 집주인"
+    gender: m
+  - spanish: "la dirección"
+    translation:
+      en: "address"
+      ko: "주소"
+    gender: f
+  - spanish: "la mudanza"
+    translation:
+      en: "move (relocation)"
+      ko: "이사"
+    gender: f
+  - spanish: "el timbre"
+    translation:
+      en: "doorbell"
+      ko: "초인종"
+    gender: m
+  - spanish: "la cerradura"
+    translation:
+      en: "lock"
+      ko: "자물쇠"
+    gender: f
+  - spanish: "el garaje"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: m
+  - spanish: "el recibidor"
+    translation:
+      en: "entrance hall / foyer"
+      ko: "현관 홀"
+    gender: m
+  - spanish: "la habitación"
+    translation:
+      en: "room"
+      ko: "방"
+    gender: f
+  - spanish: "el cuarto"
+    translation:
+      en: "room (informal)"
+      ko: "방 (비격식)"
+    gender: m
+    notes:
+      en: "Also means quarter or fourth"
+      ko: "4분의 1 또는 네 번째라는 뜻도 있음"
+  - spanish: "el apartamento"
+    translation:
+      en: "apartment"
+      ko: "아파트"
+    gender: m
+    notes:
+      en: "LatAm term; in Spain, el piso is more common"
+      ko: "라틴아메리카 용어; 스페인에서는 el piso가 더 흔함"
+  - spanish: "el chalet"
+    translation:
+      en: "detached house / villa"
+      ko: "단독 주택 / 별장"
+    gender: m
+  - spanish: "el patio"
+    translation:
+      en: "patio / courtyard"
+      ko: "안뜰 / 파티오"
+    gender: m
+    notes:
+      en: "Traditional feature of Spanish houses"
+      ko: "스페인 주택의 전통적 특징"
+  - spanish: "la verja"
+    translation:
+      en: "gate / railing"
+      ko: "철문 / 난간"
+    gender: f
+  - spanish: "el portero automático"
+    translation:
+      en: "door entry system"
+      ko: "현관 출입 시스템"
+    gender: m
+  - spanish: "el intercom"
+    translation:
+      en: "intercom / buzzer"
+      ko: "인터폰"
+    gender: m
+  - spanish: "vivir en"
+    translation:
+      en: "to live in"
+      ko: "~에 살다"
+    gender: null
+  - spanish: "mudarse"
+    translation:
+      en: "to move (house)"
+      ko: "이사하다"
+    gender: null
+  - spanish: "alquilar"
+    translation:
+      en: "to rent"
+      ko: "임대하다"
+    gender: null
+  - spanish: "comprar"
+    translation:
+      en: "to buy"
+      ko: "사다"
+    gender: null
+  - spanish: "vender"
+    translation:
+      en: "to sell"
+      ko: "팔다"
+    gender: null
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - spanish: "el mueble"
+    translation:
+      en: "piece of furniture"
+      ko: "가구"
+    gender: m
+    notes:
+      en: "los muebles = furniture (in general)"
+      ko: "los muebles = 가구 (일반적으로)"
+  - spanish: "la cómoda"
+    translation:
+      en: "dresser / chest of drawers"
+      ko: "서랍장"
+    gender: f
+  - spanish: "el cajón"
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: m
+  - spanish: "la mesita de noche"
+    translation:
+      en: "nightstand"
+      ko: "침대 옆 탁자"
+    gender: f
+  - spanish: "el sillón"
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: m
+  - spanish: "la estantería"
+    translation:
+      en: "bookshelf / shelves"
+      ko: "책장 / 선반"
+    gender: f
+  - spanish: "el perchero"
+    translation:
+      en: "coat rack"
+      ko: "옷걸이 / 코트걸이"
+    gender: m
+  - spanish: "la almohada"
+    translation:
+      en: "pillow"
+      ko: "베개"
+    gender: f
+  - spanish: "la sábana"
+    translation:
+      en: "bedsheet"
+      ko: "침대 시트"
+    gender: f
+  - spanish: "la manta"
+    translation:
+      en: "blanket"
+      ko: "담요"
+    gender: f
+  - spanish: "el colchón"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: m
+  - spanish: "el cojín"
+    translation:
+      en: "cushion"
+      ko: "쿠션"
+    gender: m
+  - spanish: "el edredón"
+    translation:
+      en: "comforter / duvet"
+      ko: "이불"
+    gender: m
+  - spanish: "la mecedora"
+    translation:
+      en: "rocking chair"
+      ko: "흔들의자"
+    gender: f
+  - spanish: "el taburete"
+    translation:
+      en: "stool"
+      ko: "의자 (등받이 없는)"
+    gender: m
+  - spanish: "la vitrina"
+    translation:
+      en: "display cabinet"
+      ko: "진열장"
+    gender: f
+  - spanish: "el reposapiés"
+    translation:
+      en: "footrest / ottoman"
+      ko: "발판 / 오토만"
+    gender: m
+  - spanish: "la litera"
+    translation:
+      en: "bunk bed"
+      ko: "이층 침대"
+    gender: f
+  - spanish: "la cuna"
+    translation:
+      en: "crib / cradle"
+      ko: "아기 침대"
+    gender: f
+  - spanish: "la percha"
+    translation:
+      en: "clothes hanger"
+      ko: "옷걸이"
+    gender: f
+  - spanish: "el biombo"
+    translation:
+      en: "folding screen"
+      ko: "칸막이 / 병풍"
+    gender: m
+  - spanish: "el sofá cama"
+    translation:
+      en: "sofa bed"
+      ko: "소파 베드"
+    gender: m
+  - spanish: "la hamaca"
+    translation:
+      en: "hammock"
+      ko: "해먹"
+    gender: f
+  - spanish: "el aparador"
+    translation:
+      en: "sideboard"
+      ko: "찬장"
+    gender: m
+  - spanish: "el zapatero"
+    translation:
+      en: "shoe rack"
+      ko: "신발장"
+    gender: m
+  - spanish: "la mesa de centro"
+    translation:
+      en: "coffee table"
+      ko: "커피 테이블"
+    gender: f
+- id: kitchen_items
+  label:
+    en: "Kitchen Items"
+    ko: "주방 용품"
+  type: vocabulary
+  words:
+  - spanish: "la cocina"
+    translation:
+      en: "stove / kitchen"
+      ko: "가스레인지 / 부엌"
+    gender: f
+    notes:
+      en: "la cocina = both the room and the stove"
+      ko: "la cocina = 방과 가스레인지 모두를 의미"
+  - spanish: "el microondas"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: m
+  - spanish: "el fregadero"
+    translation:
+      en: "kitchen sink"
+      ko: "싱크대"
+    gender: m
+  - spanish: "la tabla de cortar"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: f
+  - spanish: "el embudo"
+    translation:
+      en: "funnel"
+      ko: "깔때기"
+    gender: m
+  - spanish: "la bandeja"
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: f
+  - spanish: "el cuenco"
+    translation:
+      en: "bowl"
+      ko: "그릇"
+    gender: m
+  - spanish: "la servilleta"
+    translation:
+      en: "napkin"
+      ko: "냅킨"
+    gender: f
+  - spanish: "el mantel"
+    translation:
+      en: "tablecloth"
+      ko: "식탁보"
+    gender: m
+  - spanish: "la jarra"
+    translation:
+      en: "pitcher / jug"
+      ko: "물병 / 주전자"
+    gender: f
+  - spanish: "la cafetera"
+    translation:
+      en: "coffee maker"
+      ko: "커피 메이커"
+    gender: f
+  - spanish: "la tostadora"
+    translation:
+      en: "toaster"
+      ko: "토스터"
+    gender: f
+  - spanish: "la batidora"
+    translation:
+      en: "blender"
+      ko: "믹서기"
+    gender: f
+  - spanish: "el abrelatas"
+    translation:
+      en: "can opener"
+      ko: "캔 오프너"
+    gender: m
+    notes:
+      en: "Invariable: el/los abrelatas"
+      ko: "단수/복수 형태 동일: el/los abrelatas"
+  - spanish: "el sacacorchos"
+    translation:
+      en: "corkscrew"
+      ko: "코르크 따개"
+    gender: m
+  - spanish: "el escurridor"
+    translation:
+      en: "colander / strainer"
+      ko: "체 / 거름망"
+    gender: m
+  - spanish: "la espátula"
+    translation:
+      en: "spatula"
+      ko: "주걱"
+    gender: f
+  - spanish: "el rodillo"
+    translation:
+      en: "rolling pin"
+      ko: "밀대"
+    gender: m
+  - spanish: "el salero"
+    translation:
+      en: "salt shaker"
+      ko: "소금통"
+    gender: m
+  - spanish: "el lavavajillas"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: m
+  - spanish: "el estropajo"
+    translation:
+      en: "scouring pad"
+      ko: "수세미"
+    gender: m
+  - spanish: "el trapo de cocina"
+    translation:
+      en: "kitchen towel"
+      ko: "행주"
+    gender: m
+  - spanish: "el papel de aluminio"
+    translation:
+      en: "aluminum foil"
+      ko: "알루미늄 호일"
+    gender: m
+  - spanish: "el film transparente"
+    translation:
+      en: "plastic wrap"
+      ko: "랩"
+    gender: m
+- id: bathroom_items
+  label:
+    en: "Bathroom Items"
+    ko: "욕실 용품"
+  type: vocabulary
+  words:
+  - spanish: "la ducha"
+    translation:
+      en: "shower"
+      ko: "샤워기"
+    gender: f
+  - spanish: "la bañera"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: f
+  - spanish: "el lavabo"
+    translation:
+      en: "bathroom sink"
+      ko: "세면대"
+    gender: m
+  - spanish: "el inodoro"
+    translation:
+      en: "toilet"
+      ko: "변기"
+    gender: m
+  - spanish: "la toalla"
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: f
+  - spanish: "el jabón"
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: m
+  - spanish: "el champú"
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: m
+  - spanish: "el gel de ducha"
+    translation:
+      en: "shower gel"
+      ko: "샤워 젤"
+    gender: m
+  - spanish: "el cepillo de dientes"
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: m
+  - spanish: "la pasta de dientes"
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: f
+  - spanish: "el papel higiénico"
+    translation:
+      en: "toilet paper"
+      ko: "화장지"
+    gender: m
+  - spanish: "el grifo"
+    translation:
+      en: "faucet / tap"
+      ko: "수도꼭지"
+    gender: m
+    notes:
+      en: "In LatAm, often called la llave"
+      ko: "라틴아메리카에서는 주로 la llave라고 부름"
+  - spanish: "la báscula"
+    translation:
+      en: "bathroom scale"
+      ko: "체중계"
+    gender: f
+  - spanish: "el botiquín"
+    translation:
+      en: "medicine cabinet"
+      ko: "약장"
+    gender: m
+  - spanish: "la alfombrilla de baño"
+    translation:
+      en: "bath mat"
+      ko: "욕실 매트"
+    gender: f
+  - spanish: "el albornoz"
+    translation:
+      en: "bathrobe"
+      ko: "목욕 가운"
+    gender: m
+  - spanish: "la esponja"
+    translation:
+      en: "sponge"
+      ko: "스펀지"
+    gender: f
+  - spanish: "el secador de pelo"
+    translation:
+      en: "hair dryer"
+      ko: "헤어드라이어"
+    gender: m
+  - spanish: "el desagüe"
+    translation:
+      en: "drain"
+      ko: "배수구"
+    gender: m
+  - spanish: "el azulejo"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: m
+    notes:
+      en: "Decorative tiles are a Spanish tradition"
+      ko: "장식 타일은 스페인의 전통"
+- id: cleaning_and_maintenance
+  label:
+    en: "Cleaning and Maintenance"
+    ko: "청소 및 관리"
+  type: vocabulary
+  words:
+  - spanish: "limpiar"
+    translation:
+      en: "to clean"
+      ko: "청소하다"
+    gender: null
+  - spanish: "barrer"
+    translation:
+      en: "to sweep"
+      ko: "쓸다"
+    gender: null
+  - spanish: "fregar"
+    translation:
+      en: "to scrub / to mop"
+      ko: "문지르다 / 닦다"
+    gender: null
+  - spanish: "ordenar"
+    translation:
+      en: "to tidy up"
+      ko: "정리하다"
+    gender: null
+  - spanish: "planchar"
+    translation:
+      en: "to iron"
+      ko: "다림질하다"
+    gender: null
+  - spanish: "la basura"
+    translation:
+      en: "trash / garbage"
+      ko: "쓰레기"
+    gender: f
+  - spanish: "el cubo de basura"
+    translation:
+      en: "trash can"
+      ko: "쓰레기통"
+    gender: m
+  - spanish: "la escoba"
+    translation:
+      en: "broom"
+      ko: "빗자루"
+    gender: f
+  - spanish: "la fregona"
+    translation:
+      en: "mop"
+      ko: "대걸레"
+    gender: f
+  - spanish: "el trapo"
+    translation:
+      en: "rag / cloth"
+      ko: "걸레"
+    gender: m
+  - spanish: "el detergente"
+    translation:
+      en: "detergent"
+      ko: "세제"
+    gender: m
+  - spanish: "la llave"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: f
+    notes:
+      en: "Also means faucet in some LatAm countries"
+      ko: "일부 라틴아메리카 국가에서 수도꼭지라는 뜻도 있음"
+  - spanish: "la bombilla"
+    translation:
+      en: "lightbulb"
+      ko: "전구"
+    gender: f
+  - spanish: "el enchufe"
+    translation:
+      en: "electrical outlet / plug"
+      ko: "콘센트 / 플러그"
+    gender: m
+  - spanish: "el interruptor"
+    translation:
+      en: "light switch"
+      ko: "전등 스위치"
+    gender: m
+  - spanish: "secar"
+    translation:
+      en: "to dry"
+      ko: "말리다"
+    gender: null
+  - spanish: "reparar"
+    translation:
+      en: "to repair / to fix"
+      ko: "수리하다"
+    gender: null
+  - spanish: "colgar"
+    translation:
+      en: "to hang (up)"
+      ko: "걸다"
+    gender: null
+    notes:
+      en: "Stem-changing (o to ue): cuelgo"
+      ko: "어간 변화 (o to ue): cuelgo"
+  - spanish: "el recogedor"
+    translation:
+      en: "dustpan"
+      ko: "쓰레받기"
+    gender: m
+  - spanish: "la aspiradora"
+    translation:
+      en: "vacuum cleaner"
+      ko: "진공청소기"
+    gender: f
+  - spanish: "la plancha"
+    translation:
+      en: "iron (appliance)"
+      ko: "다리미"
+    gender: f
+  - spanish: "el tendedero"
+    translation:
+      en: "clothesline / drying rack"
+      ko: "빨래 건조대"
+    gender: m
+  - spanish: "la pinza"
+    translation:
+      en: "clothespin / peg"
+      ko: "빨래집게"
+    gender: f
+  - spanish: "el balde"
+    translation:
+      en: "bucket / pail"
+      ko: "양동이"
+    gender: m
+  - spanish: "la tubería"
+    translation:
+      en: "plumbing / pipe"
+      ko: "배관"
+    gender: f
+  - spanish: "la calefacción"
+    translation:
+      en: "heating"
+      ko: "난방"
+    gender: f
+  - spanish: "el aire acondicionado"
+    translation:
+      en: "air conditioning"
+      ko: "에어컨"
+    gender: m
+  - spanish: "la electricidad"
+    translation:
+      en: "electricity"
+      ko: "전기"
+    gender: f
+  - spanish: "el agua caliente"
+    translation:
+      en: "hot water"
+      ko: "온수"
+    gender: f
+  - spanish: "el agua fría"
+    translation:
+      en: "cold water"
+      ko: "냉수"
+    gender: f
+  - spanish: "la avería"
+    translation:
+      en: "breakdown / malfunction"
+      ko: "고장"
+    gender: f
+  - spanish: "la factura"
+    translation:
+      en: "bill / invoice"
+      ko: "청구서"
+    gender: f
+    notes:
+      en: "la factura de la luz = electricity bill"
+      ko: "la factura de la luz = 전기 요금 청구서"
+  - spanish: "la manguera"
+    translation:
+      en: "hose (garden)"
+      ko: "호스 (정원용)"
+    gender: f
+  - spanish: "el destornillador"
+    translation:
+      en: "screwdriver"
+      ko: "드라이버"
+    gender: m
+  - spanish: "el martillo"
+    translation:
+      en: "hammer"
+      ko: "망치"
+    gender: m
+  - spanish: "el clavo"
+    translation:
+      en: "nail"
+      ko: "못"
+    gender: m
+  - spanish: "el tornillo"
+    translation:
+      en: "screw"
+      ko: "나사"
+    gender: m
+  - spanish: "la cinta adhesiva"
+    translation:
+      en: "tape (adhesive)"
+      ko: "접착 테이프"
+    gender: f
+  - spanish: "la caja de herramientas"
+    translation:
+      en: "toolbox"
+      ko: "공구함"
+    gender: f
+  - spanish: "el taladro"
+    translation:
+      en: "drill"
+      ko: "드릴"
+    gender: m
+  - spanish: "arreglar"
+    translation:
+      en: "to fix / to arrange"
+      ko: "고치다 / 정리하다"
+    gender: null
+  - spanish: "instalar"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+  - spanish: "cambiar"
+    translation:
+      en: "to change / to replace"
+      ko: "바꾸다"
+    gender: null
+  - spanish: "decorar"
+    translation:
+      en: "to decorate"
+      ko: "장식하다"
+    gender: null
+  - spanish: "bricolaje"
+    translation:
+      en: "DIY / home improvement"
+      ko: "직접 만들기 / 가정 수리"
+    gender: null
+    notes:
+      en: "hacer bricolaje = to do DIY"
+      ko: "hacer bricolaje = 직접 수리하다"
+  - spanish: "la ferretería"
+    translation:
+      en: "hardware store"
+      ko: "철물점"
+    gender: f
+  - spanish: "el enchufe múltiple"
+    translation:
+      en: "power strip"
+      ko: "멀티탭"
+    gender: m
+  - spanish: "el cable"
+    translation:
+      en: "cable / wire"
+      ko: "케이블 / 전선"
+    gender: m
+  - spanish: "la pila"
+    translation:
+      en: "battery"
+      ko: "건전지"
+    gender: f
+  - spanish: "el extintor"
+    translation:
+      en: "fire extinguisher"
+      ko: "소화기"
+    gender: m

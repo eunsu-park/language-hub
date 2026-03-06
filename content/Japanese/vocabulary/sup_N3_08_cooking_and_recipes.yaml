@@ -1,0 +1,1687 @@
+lesson: "sup_N3_Cooking_and_Recipes"
+lesson_number: 148
+jlpt: N3
+type: supplementary
+topic: "Cooking and Recipes"
+categories:
+- id: cooking_techniques
+  label:
+    en: "Cooking Techniques"
+    ko: "조리 기법"
+  type: vocabulary
+  words:
+  - japanese: "調理"
+    reading: "ちょうり"
+    translation:
+      en: "cooking, food preparation"
+      ko: "조리"
+    gender: null
+    notes:
+      en: "調理する = to cook/prepare"
+      ko: "調理する = 조리하다"
+  - japanese: "炒める"
+    reading: "いためる"
+    translation:
+      en: "to stir-fry, to sauté"
+      ko: "볶다"
+    gender: null
+    notes:
+      en: "ichidan verb"
+      ko: "1단 동사"
+  - japanese: "煮る"
+    reading: "にる"
+    translation:
+      en: "to simmer, to boil"
+      ko: "끓이다, 조리다"
+    gender: null
+    notes:
+      en: "ichidan verb; 煮物 = simmered dish"
+      ko: "1단 동사; 煮物 = 조림 요리"
+  - japanese: "焼く"
+    reading: "やく"
+    translation:
+      en: "to grill, to bake, to roast"
+      ko: "굽다"
+    gender: null
+    notes:
+      en: "godan verb; versatile cooking verb"
+      ko: "5단 동사; 다양한 조리법에 사용"
+  - japanese: "蒸す"
+    reading: "むす"
+    translation:
+      en: "to steam"
+      ko: "찌다"
+    gender: null
+    notes:
+      en: "godan verb; 蒸し物 = steamed dish"
+      ko: "5단 동사; 蒸し物 = 찜 요리"
+  - japanese: "揚げる"
+    reading: "あげる"
+    translation:
+      en: "to deep-fry"
+      ko: "튀기다"
+    gender: null
+    notes:
+      en: "ichidan verb; 揚げ物 = fried food"
+      ko: "1단 동사; 揚げ物 = 튀김 요리"
+  - japanese: "茹でる"
+    reading: "ゆでる"
+    translation:
+      en: "to boil (food)"
+      ko: "삶다"
+    gender: null
+    notes:
+      en: "ichidan verb"
+      ko: "1단 동사"
+  - japanese: "煮込む"
+    reading: "にこむ"
+    translation:
+      en: "to stew, to simmer for a long time"
+      ko: "푹 끓이다"
+    gender: null
+    notes:
+      en: "godan verb; 煮込み料理 = stew"
+      ko: "5단 동사; 煮込み料理 = 스튜"
+  - japanese: "漬ける"
+    reading: "つける"
+    translation:
+      en: "to pickle, to marinate"
+      ko: "절이다, 재우다"
+    gender: null
+    notes:
+      en: "ichidan verb; 漬物 = pickles"
+      ko: "1단 동사; 漬物 = 절임"
+  - japanese: "和える"
+    reading: "あえる"
+    translation:
+      en: "to dress (salad), to mix"
+      ko: "무치다"
+    gender: null
+    notes:
+      en: "ichidan verb; Japanese-style mixing/dressing"
+      ko: "1단 동사; 일본식 나물 무침"
+  - japanese: "下ごしらえ"
+    reading: "したごしらえ"
+    translation:
+      en: "preparation, prep work"
+      ko: "밑준비"
+    gender: null
+    notes:
+      en: "下ごしらえする = to prep"
+      ko: "下ごしらえする = 밑준비하다"
+  - japanese: "下味"
+    reading: "したあじ"
+    translation:
+      en: "preliminary seasoning"
+      ko: "밑간"
+    gender: null
+    notes:
+      en: "下味をつける = to season in advance"
+      ko: "下味をつける = 밑간을 하다"
+  - japanese: "灰汁取り"
+    reading: "あくとり"
+    translation:
+      en: "skimming (foam/scum)"
+      ko: "거품 걷기"
+    gender: null
+    notes:
+      en: "灰汁 = scum/foam; 灰汁を取る = to skim"
+      ko: "灰汁 = 거품; 灰汁を取る = 거품을 걷다"
+  - japanese: "火加減"
+    reading: "ひかげん"
+    translation:
+      en: "heat level/adjustment"
+      ko: "불 조절"
+    gender: null
+    notes:
+      en: "弱火/中火/強火 = low/medium/high heat"
+      ko: "弱火/中火/強火 = 약불/중불/강불"
+  - japanese: "弱火"
+    reading: "よわび"
+    translation:
+      en: "low heat"
+      ko: "약불"
+    gender: null
+    notes:
+      en: "weak + fire"
+      ko: "약 + 불"
+  - japanese: "中火"
+    reading: "ちゅうび"
+    translation:
+      en: "medium heat"
+      ko: "중불"
+    gender: null
+    notes:
+      en: "middle + fire"
+      ko: "중 + 불"
+  - japanese: "強火"
+    reading: "つよび"
+    translation:
+      en: "high heat"
+      ko: "강불"
+    gender: null
+    notes:
+      en: "strong + fire"
+      ko: "강 + 불"
+  - japanese: "とろ火"
+    reading: "とろび"
+    translation:
+      en: "very low heat, simmer"
+      ko: "아주 약한 불"
+    gender: null
+    notes:
+      en: "gentle simmering heat"
+      ko: "약하게 졸이는 불"
+  - japanese: "予熱"
+    reading: "よねつ"
+    translation:
+      en: "preheating"
+      ko: "예열"
+    gender: null
+    notes:
+      en: "オーブンを予熱する = to preheat the oven"
+      ko: "オーブンを予熱する = 오븐을 예열하다"
+  - japanese: "解凍する"
+    reading: "かいとうする"
+    translation:
+      en: "to defrost, to thaw"
+      ko: "해동하다"
+    gender: null
+    notes:
+      en: "解凍 = defrosting"
+      ko: "解凍 = 해동"
+  - japanese: "盛り付け"
+    reading: "もりつけ"
+    translation:
+      en: "plating, presentation"
+      ko: "담기, 플레이팅"
+    gender: null
+    notes:
+      en: "盛り付ける = to plate/arrange food"
+      ko: "盛り付ける = 음식을 담다"
+  - japanese: "刻む"
+    reading: "きざむ"
+    translation:
+      en: "to chop, to mince"
+      ko: "다지다, 잘게 썰다"
+    gender: null
+    notes:
+      en: "godan verb"
+      ko: "5단 동사"
+
+- id: ingredients
+  label:
+    en: "Ingredients"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - japanese: "材料"
+    reading: "ざいりょう"
+    translation:
+      en: "ingredients, materials"
+      ko: "재료"
+    gender: null
+    notes:
+      en: "material + fee"
+      ko: "재 + 료"
+  - japanese: "調味料"
+    reading: "ちょうみりょう"
+    translation:
+      en: "seasoning, condiment"
+      ko: "조미료"
+    gender: null
+    notes:
+      en: "seasoning + material"
+      ko: "조미 + 료"
+  - japanese: "醤油"
+    reading: "しょうゆ"
+    translation:
+      en: "soy sauce"
+      ko: "간장"
+    gender: null
+    notes:
+      en: "essential Japanese condiment"
+      ko: "일본 요리의 필수 조미료"
+  - japanese: "味噌"
+    reading: "みそ"
+    translation:
+      en: "miso (soybean paste)"
+      ko: "된장, 미소"
+    gender: null
+    notes:
+      en: "味噌汁 = miso soup"
+      ko: "味噌汁 = 된장국"
+  - japanese: "酢"
+    reading: "す"
+    translation:
+      en: "vinegar"
+      ko: "식초"
+    gender: null
+    notes:
+      en: "米酢 = rice vinegar"
+      ko: "米酢 = 쌀 식초"
+  - japanese: "味醂"
+    reading: "みりん"
+    translation:
+      en: "mirin (sweet rice wine)"
+      ko: "미린"
+    gender: null
+    notes:
+      en: "sweet cooking wine"
+      ko: "달콤한 요리용 술"
+  - japanese: "出汁"
+    reading: "だし"
+    translation:
+      en: "stock, broth"
+      ko: "육수"
+    gender: null
+    notes:
+      en: "Japanese soup stock base"
+      ko: "일본식 국물 베이스"
+  - japanese: "片栗粉"
+    reading: "かたくりこ"
+    translation:
+      en: "potato starch"
+      ko: "감자 전분"
+    gender: null
+    notes:
+      en: "used for thickening and coating"
+      ko: "걸쭉하게 하거나 코팅에 사용"
+  - japanese: "小麦粉"
+    reading: "こむぎこ"
+    translation:
+      en: "wheat flour"
+      ko: "밀가루"
+    gender: null
+    notes:
+      en: "wheat + powder"
+      ko: "밀 + 가루"
+  - japanese: "豆腐"
+    reading: "とうふ"
+    translation:
+      en: "tofu"
+      ko: "두부"
+    gender: null
+    notes:
+      en: "bean + curd"
+      ko: "콩 + 부"
+  - japanese: "海苔"
+    reading: "のり"
+    translation:
+      en: "seaweed, nori"
+      ko: "김"
+    gender: null
+    notes:
+      en: "dried edible seaweed"
+      ko: "마른 김"
+  - japanese: "昆布"
+    reading: "こんぶ"
+    translation:
+      en: "kelp"
+      ko: "다시마"
+    gender: null
+    notes:
+      en: "used for making dashi broth"
+      ko: "다시(육수) 만들기에 사용"
+  - japanese: "鰹節"
+    reading: "かつおぶし"
+    translation:
+      en: "bonito flakes"
+      ko: "가쓰오부시"
+    gender: null
+    notes:
+      en: "dried bonito shavings for dashi"
+      ko: "다시(육수)용 가다랑어 포"
+  - japanese: "薬味"
+    reading: "やくみ"
+    translation:
+      en: "condiment, garnish"
+      ko: "양념, 고명"
+    gender: null
+    notes:
+      en: "ネギ, 生姜, ワサビ etc."
+      ko: "파, 생강, 와사비 등"
+  - japanese: "生姜"
+    reading: "しょうが"
+    translation:
+      en: "ginger"
+      ko: "생강"
+    gender: null
+    notes:
+      en: "生姜焼き = ginger pork"
+      ko: "生姜焼き = 생강 구이"
+  - japanese: "大蒜"
+    reading: "にんにく"
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: null
+    notes:
+      en: "often written in katakana: ニンニク"
+      ko: "가타카나로도 표기: ニンニク"
+  - japanese: "胡椒"
+    reading: "こしょう"
+    translation:
+      en: "pepper"
+      ko: "후추"
+    gender: null
+    notes:
+      en: "black pepper"
+      ko: "후추"
+  - japanese: "味付け"
+    reading: "あじつけ"
+    translation:
+      en: "seasoning, flavoring"
+      ko: "간, 양념하기"
+    gender: null
+    notes:
+      en: "味付けする = to season"
+      ko: "味付けする = 양념하다"
+  - japanese: "具材"
+    reading: "ぐざい"
+    translation:
+      en: "ingredients (in a dish)"
+      ko: "재료, 건더기"
+    gender: null
+    notes:
+      en: "filling + material"
+      ko: "속 + 재료"
+  - japanese: "パン粉"
+    reading: "パンこ"
+    translation:
+      en: "breadcrumbs (panko)"
+      ko: "빵가루"
+    gender: null
+    notes:
+      en: "Japanese-style breadcrumbs"
+      ko: "일본식 빵가루"
+  - japanese: バター
+    reading: null
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: オリーブオイル
+    reading: null
+    translation:
+      en: "olive oil"
+      ko: "올리브유"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+
+- id: kitchen_tools
+  label:
+    en: "Kitchen Tools"
+    ko: "조리 도구"
+  type: vocabulary
+  words:
+  - japanese: "包丁"
+    reading: "ほうちょう"
+    translation:
+      en: "kitchen knife"
+      ko: "부엌칼"
+    gender: null
+    notes:
+      en: "wrap + mound"
+      ko: "싸다 + 언덕"
+  - japanese: "まな板"
+    reading: "まないた"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: null
+    notes:
+      en: "俎板 in kanji"
+      ko: "한자로 俎板"
+  - japanese: "鍋"
+    reading: "なべ"
+    translation:
+      en: "pot, pan"
+      ko: "냄비"
+    gender: null
+    notes:
+      en: "also refers to hot pot dish"
+      ko: "전골 요리도 의미함"
+  - japanese: フライパン
+    reading: null
+    translation:
+      en: "frying pan"
+      ko: "프라이팬"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "鉄板"
+    reading: "てっぱん"
+    translation:
+      en: "griddle, iron plate"
+      ko: "철판"
+    gender: null
+    notes:
+      en: "iron + plate; 鉄板焼き = teppanyaki"
+      ko: "철 + 판; 鉄板焼き = 철판구이"
+  - japanese: "炊飯器"
+    reading: "すいはんき"
+    translation:
+      en: "rice cooker"
+      ko: "밥솥"
+    gender: null
+    notes:
+      en: "cook rice + device"
+      ko: "밥 짓다 + 기"
+  - japanese: オーブン
+    reading: null
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "電子レンジ"
+    reading: "でんしレンジ"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: null
+    notes:
+      en: "electronic + range"
+      ko: "전자 + 레인지"
+  - japanese: ミキサー
+    reading: null
+    translation:
+      en: "blender"
+      ko: "믹서"
+    gender: null
+    notes:
+      en: "katakana loanword; also ブレンダー"
+      ko: "가타카나 외래어; ブレンダー라고도 함"
+  - japanese: "泡立て器"
+    reading: "あわだてき"
+    translation:
+      en: "whisk"
+      ko: "거품기"
+    gender: null
+    notes:
+      en: "bubble + raise + tool"
+      ko: "거품 + 세우다 + 기"
+  - japanese: "おたま"
+    reading: null
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: null
+    notes:
+      en: "also お玉杓子"
+      ko: "お玉杓子라고도 함"
+  - japanese: "菜箸"
+    reading: "さいばし"
+    translation:
+      en: "cooking chopsticks"
+      ko: "조리용 젓가락"
+    gender: null
+    notes:
+      en: "vegetable + chopsticks; long chopsticks for cooking"
+      ko: "채소 + 젓가락; 조리용 긴 젓가락"
+  - japanese: "ざる"
+    reading: null
+    translation:
+      en: "strainer, colander"
+      ko: "소쿠리"
+    gender: null
+    notes:
+      en: "bamboo strainer; ざるそば = cold soba on a strainer"
+      ko: "대나무 소쿠리; ざるそば = 소쿠리 소바"
+  - japanese: "蒸し器"
+    reading: "むしき"
+    translation:
+      en: "steamer"
+      ko: "찜기"
+    gender: null
+    notes:
+      en: "steam + tool"
+      ko: "찌다 + 기"
+  - japanese: "計量カップ"
+    reading: "けいりょうカップ"
+    translation:
+      en: "measuring cup"
+      ko: "계량컵"
+    gender: null
+    notes:
+      en: "measure + cup"
+      ko: "계량 + 컵"
+  - japanese: "計量スプーン"
+    reading: "けいりょうスプーン"
+    translation:
+      en: "measuring spoon"
+      ko: "계량스푼"
+    gender: null
+    notes:
+      en: "measure + spoon"
+      ko: "계량 + 스푼"
+  - japanese: "おろし金"
+    reading: "おろしがね"
+    translation:
+      en: "grater"
+      ko: "강판"
+    gender: null
+    notes:
+      en: "大根おろし = grated daikon"
+      ko: "大根おろし = 무 갈은 것"
+  - japanese: "落とし蓋"
+    reading: "おとしぶた"
+    translation:
+      en: "drop lid"
+      ko: "떨어뜨림 뚜껑"
+    gender: null
+    notes:
+      en: "lid placed directly on food while simmering"
+      ko: "조릴 때 음식 위에 직접 올리는 뚜껑"
+
+- id: recipe_verbs
+  label:
+    en: "Recipe Verbs"
+    ko: "레시피 동사"
+  type: vocabulary
+  words:
+  - japanese: "切る"
+    reading: "きる"
+    translation:
+      en: "to cut"
+      ko: "자르다"
+    gender: null
+    notes:
+      en: "godan verb; most basic cutting verb"
+      ko: "5단 동사; 가장 기본적인 자르기 동사"
+  - japanese: "剥く"
+    reading: "むく"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+    notes:
+      en: "godan verb; 皮を剥く = to peel skin"
+      ko: "5단 동사; 皮を剥く = 껍질을 벗기다"
+  - japanese: "潰す"
+    reading: "つぶす"
+    translation:
+      en: "to mash, to crush"
+      ko: "으깨다"
+    gender: null
+    notes:
+      en: "godan verb"
+      ko: "5단 동사"
+  - japanese: "混ぜる"
+    reading: "まぜる"
+    translation:
+      en: "to mix, to stir"
+      ko: "섞다"
+    gender: null
+    notes:
+      en: "ichidan verb"
+      ko: "1단 동사"
+  - japanese: "絞る"
+    reading: "しぼる"
+    translation:
+      en: "to squeeze, to wring"
+      ko: "짜다"
+    gender: null
+    notes:
+      en: "godan verb; レモンを絞る = to squeeze a lemon"
+      ko: "5단 동사; レモンを絞る = 레몬을 짜다"
+  - japanese: "こねる"
+    reading: null
+    translation:
+      en: "to knead"
+      ko: "반죽하다"
+    gender: null
+    notes:
+      en: "ichidan verb; 生地をこねる = to knead dough"
+      ko: "1단 동사; 生地をこねる = 반죽을 치대다"
+  - japanese: "すりおろす"
+    reading: null
+    translation:
+      en: "to grate"
+      ko: "갈다"
+    gender: null
+    notes:
+      en: "godan verb; 大根をすりおろす = to grate daikon"
+      ko: "5단 동사; 大根をすりおろす = 무를 갈다"
+  - japanese: "千切りにする"
+    reading: "せんぎりにする"
+    translation:
+      en: "to julienne"
+      ko: "채 썰다"
+    gender: null
+    notes:
+      en: "thousand + cut; thin strips"
+      ko: "천 + 자르기; 가늘게 채 썰기"
+  - japanese: "みじん切り"
+    reading: "みじんぎり"
+    translation:
+      en: "mincing, fine chopping"
+      ko: "다지기"
+    gender: null
+    notes:
+      en: "tiny + cutting"
+      ko: "미세 + 자르기"
+  - japanese: "乱切り"
+    reading: "らんぎり"
+    translation:
+      en: "rough/irregular cutting"
+      ko: "어슷 썰기"
+    gender: null
+    notes:
+      en: "random + cutting"
+      ko: "무작위 + 자르기"
+  - japanese: "薄切り"
+    reading: "うすぎり"
+    translation:
+      en: "thin slicing"
+      ko: "얇게 썰기"
+    gender: null
+    notes:
+      en: "thin + cutting"
+      ko: "얇은 + 자르기"
+  - japanese: "輪切り"
+    reading: "わぎり"
+    translation:
+      en: "round slicing"
+      ko: "동그랗게 썰기"
+    gender: null
+    notes:
+      en: "ring + cutting"
+      ko: "둥글게 + 자르기"
+  - japanese: "水気を切る"
+    reading: "みずけをきる"
+    translation:
+      en: "to drain"
+      ko: "물기를 빼다"
+    gender: null
+    notes:
+      en: "water + cut off"
+      ko: "물기 + 빼다"
+  - japanese: "味見する"
+    reading: "あじみする"
+    translation:
+      en: "to taste, to sample"
+      ko: "맛보다"
+    gender: null
+    notes:
+      en: "味見 = tasting"
+      ko: "味見 = 맛보기"
+
+- id: tastes_and_textures
+  label:
+    en: "Tastes and Textures"
+    ko: "맛과 식감"
+  type: vocabulary
+  words:
+  - japanese: "甘い"
+    reading: "あまい"
+    translation:
+      en: "sweet"
+      ko: "달다"
+    gender: null
+    notes:
+      en: "i-adjective; 甘さ = sweetness"
+      ko: "이형용사; 甘さ = 단맛"
+  - japanese: "辛い"
+    reading: "からい"
+    translation:
+      en: "spicy, hot"
+      ko: "맵다"
+    gender: null
+    notes:
+      en: "i-adjective; also read つらい (painful)"
+      ko: "이형용사; つらい(괴롭다)로도 읽음"
+  - japanese: "酸っぱい"
+    reading: "すっぱい"
+    translation:
+      en: "sour"
+      ko: "시다"
+    gender: null
+    notes:
+      en: "i-adjective"
+      ko: "이형용사"
+  - japanese: "苦い"
+    reading: "にがい"
+    translation:
+      en: "bitter"
+      ko: "쓰다"
+    gender: null
+    notes:
+      en: "i-adjective"
+      ko: "이형용사"
+  - japanese: "塩辛い"
+    reading: "しおからい"
+    translation:
+      en: "salty"
+      ko: "짜다"
+    gender: null
+    notes:
+      en: "i-adjective; salt + spicy"
+      ko: "이형용사; 소금 + 매운"
+  - japanese: "旨味"
+    reading: "うまみ"
+    translation:
+      en: "umami, savory taste"
+      ko: "감칠맛"
+    gender: null
+    notes:
+      en: "the fifth taste; internationally recognized"
+      ko: "다섯 번째 맛; 국제적으로 인정됨"
+  - japanese: "濃い"
+    reading: "こい"
+    translation:
+      en: "rich, thick (flavor)"
+      ko: "진하다"
+    gender: null
+    notes:
+      en: "i-adjective; opposite: 薄い"
+      ko: "이형용사; 반대: 薄い"
+  - japanese: "薄い"
+    reading: "うすい"
+    translation:
+      en: "light, thin (flavor)"
+      ko: "연하다, 싱겁다"
+    gender: null
+    notes:
+      en: "i-adjective; 味が薄い = flavor is light"
+      ko: "이형용사; 味が薄い = 맛이 연하다"
+  - japanese: "コクがある"
+    reading: null
+    translation:
+      en: "rich, full-bodied"
+      ko: "깊은 맛이 있다"
+    gender: null
+    notes:
+      en: "depth of flavor"
+      ko: "맛의 깊이"
+  - japanese: "さっぱり"
+    reading: null
+    translation:
+      en: "refreshing, light"
+      ko: "깔끔한, 산뜻한"
+    gender: null
+    notes:
+      en: "adverb/na-adjective; light taste"
+      ko: "부사/나형용사; 가벼운 맛"
+  - japanese: "こってり"
+    reading: null
+    translation:
+      en: "rich, heavy, oily"
+      ko: "기름진, 진한"
+    gender: null
+    notes:
+      en: "adverb; opposite of さっぱり"
+      ko: "부사; さっぱり의 반대"
+  - japanese: "もちもち"
+    reading: null
+    translation:
+      en: "chewy, springy (like mochi)"
+      ko: "쫀득쫀득한"
+    gender: null
+    notes:
+      en: "onomatopoeia for chewy texture"
+      ko: "쫀득한 식감의 의태어"
+  - japanese: "サクサク"
+    reading: null
+    translation:
+      en: "crispy, crunchy"
+      ko: "바삭바삭한"
+    gender: null
+    notes:
+      en: "onomatopoeia for crispy texture"
+      ko: "바삭한 식감의 의태어"
+  - japanese: "ふわふわ"
+    reading: null
+    translation:
+      en: "fluffy, soft"
+      ko: "폭신폭신한"
+    gender: null
+    notes:
+      en: "onomatopoeia for light, airy texture"
+      ko: "가볍고 부드러운 식감의 의태어"
+  - japanese: "とろとろ"
+    reading: null
+    translation:
+      en: "thick, creamy, melty"
+      ko: "걸쭉한, 녹아내리는"
+    gender: null
+    notes:
+      en: "onomatopoeia for thick/melty texture"
+      ko: "걸쭉하거나 녹아내리는 식감의 의태어"
+  - japanese: "しっとり"
+    reading: null
+    translation:
+      en: "moist"
+      ko: "촉촉한"
+    gender: null
+    notes:
+      en: "adverb; pleasant moistness"
+      ko: "부사; 기분 좋은 촉촉함"
+  - japanese: "風味"
+    reading: "ふうみ"
+    translation:
+      en: "flavor, taste"
+      ko: "풍미"
+    gender: null
+    notes:
+      en: "wind + taste; subtle aroma and flavor"
+      ko: "바람 + 맛; 미묘한 향과 맛"
+  - japanese: "香ばしい"
+    reading: "こうばしい"
+    translation:
+      en: "fragrant, aromatic (toasted)"
+      ko: "구수한, 고소한"
+    gender: null
+    notes:
+      en: "i-adjective; pleasant toasted aroma"
+      ko: "이형용사; 기분 좋은 구운 향"
+  - japanese: "歯ごたえ"
+    reading: "はごたえ"
+    translation:
+      en: "texture (bite), chewiness"
+      ko: "씹는 맛, 식감"
+    gender: null
+    notes:
+      en: "tooth + response"
+      ko: "이빨 + 반응"
+  - japanese: "食感"
+    reading: "しょっかん"
+    translation:
+      en: "food texture, mouthfeel"
+      ko: "식감"
+    gender: null
+    notes:
+      en: "eat + feeling"
+      ko: "먹다 + 느낌"
+  - japanese: "渋い"
+    reading: "しぶい"
+    translation:
+      en: "astringent"
+      ko: "떫다"
+    gender: null
+    notes:
+      en: "i-adjective; 渋味 = astringency"
+      ko: "이형용사; 渋味 = 떫은맛"
+  - japanese: "あっさり"
+    reading: null
+    translation:
+      en: "plain, light-flavored"
+      ko: "담백한"
+    gender: null
+    notes:
+      en: "adverb; simple, understated taste"
+      ko: "부사; 단순하고 가벼운 맛"
+  - japanese: "まろやか"
+    reading: null
+    translation:
+      en: "mellow, smooth"
+      ko: "부드러운, 순한"
+    gender: null
+    notes:
+      en: "na-adjective; まろやかな味 = mellow taste"
+      ko: "나형용사; まろやかな味 = 부드러운 맛"
+  - japanese: "ねばねば"
+    reading: null
+    translation:
+      en: "sticky, slimy"
+      ko: "끈적끈적한"
+    gender: null
+    notes:
+      en: "onomatopoeia; 納豆はねばねばしている = natto is sticky"
+      ko: "의태어; 納豆はねばねばしている = 낫토는 끈적끈적하다"
+  - japanese: "シャキシャキ"
+    reading: null
+    translation:
+      en: "crisp, crunchy (fresh)"
+      ko: "아삭아삭한"
+    gender: null
+    notes:
+      en: "onomatopoeia for fresh crunchy texture"
+      ko: "신선하고 아삭한 식감의 의태어"
+  - japanese: "ぷりぷり"
+    reading: null
+    translation:
+      en: "bouncy, springy (seafood)"
+      ko: "탱글탱글한"
+    gender: null
+    notes:
+      en: "onomatopoeia; エビがぷりぷり = bouncy shrimp"
+      ko: "의태어; エビがぷりぷり = 탱글탱글한 새우"
+  - japanese: "ほくほく"
+    reading: null
+    translation:
+      en: "fluffy, mealy (potato)"
+      ko: "보슬보슬한, 포슬포슬한"
+    gender: null
+    notes:
+      en: "onomatopoeia for hot, fluffy starchy food"
+      ko: "뜨겁고 보슬보슬한 전분질 음식의 의태어"
+  - japanese: "食材"
+    reading: "しょくざい"
+    translation:
+      en: "foodstuff, ingredient"
+      ko: "식재료"
+    gender: null
+    notes:
+      en: "food + material"
+      ko: "먹다 + 재료"
+  - japanese: "乾物"
+    reading: "かんぶつ"
+    translation:
+      en: "dried foods"
+      ko: "건어물, 마른 식품"
+    gender: null
+    notes:
+      en: "dry + thing; 干し椎茸, 切り干し大根 etc."
+      ko: "마르다 + 물건; 말린 표고버섯, 무말랭이 등"
+  - japanese: "根菜"
+    reading: "こんさい"
+    translation:
+      en: "root vegetables"
+      ko: "근채류"
+    gender: null
+    notes:
+      en: "root + vegetable; 大根, 人参, ごぼう etc."
+      ko: "뿌리 + 채소; 무, 당근, 우엉 등"
+  - japanese: "葉物"
+    reading: "はもの"
+    translation:
+      en: "leafy vegetables"
+      ko: "엽채류"
+    gender: null
+    notes:
+      en: "leaf + thing; ほうれん草, 小松菜 etc."
+      ko: "잎 + 것; 시금치, 소마쓰나 등"
+  - japanese: "香辛料"
+    reading: "こうしんりょう"
+    translation:
+      en: "spice"
+      ko: "향신료"
+    gender: null
+    notes:
+      en: "fragrance + spicy + material"
+      ko: "향 + 매운 + 료"
+  - japanese: "唐辛子"
+    reading: "とうがらし"
+    translation:
+      en: "chili pepper"
+      ko: "고추"
+    gender: null
+    notes:
+      en: "鷹の爪 = dried chili pepper"
+      ko: "鷹の爪 = 마른 고추"
+  - japanese: "山椒"
+    reading: "さんしょう"
+    translation:
+      en: "Japanese pepper, sansho"
+      ko: "산초"
+    gender: null
+    notes:
+      en: "numbing, citrusy pepper"
+      ko: "얼얼한, 감귤 향의 후추"
+  - japanese: "味噌汁"
+    reading: "みそしる"
+    translation:
+      en: "miso soup"
+      ko: "된장국"
+    gender: null
+    notes:
+      en: "miso + soup"
+      ko: "된장 + 국"
+  - japanese: "煮付け"
+    reading: "につけ"
+    translation:
+      en: "food simmered in broth"
+      ko: "조림"
+    gender: null
+    notes:
+      en: "simmer + attach; simmered in soy-based broth"
+      ko: "끓이다 + 붙다; 간장 국물에 조린 것"
+  - japanese: "天ぷら"
+    reading: "てんぷら"
+    translation:
+      en: "tempura"
+      ko: "튀김, 덴푸라"
+    gender: null
+    notes:
+      en: "battered and deep-fried food"
+      ko: "반죽을 입혀 튀긴 음식"
+  - japanese: "刺身"
+    reading: "さしみ"
+    translation:
+      en: "sashimi, raw fish"
+      ko: "사시미, 회"
+    gender: null
+    notes:
+      en: "pierce + body"
+      ko: "찌르다 + 몸"
+  - japanese: "丼"
+    reading: "どんぶり"
+    translation:
+      en: "rice bowl dish"
+      ko: "덮밥"
+    gender: null
+    notes:
+      en: "親子丼 = chicken and egg bowl"
+      ko: "親子丼 = 오야코동"
+  - japanese: "鍋料理"
+    reading: "なべりょうり"
+    translation:
+      en: "hot pot dish"
+      ko: "전골 요리"
+    gender: null
+    notes:
+      en: "pot + cooking; winter communal dish"
+      ko: "냄비 + 요리; 겨울 공동 식사"
+  - japanese: "炊き込みご飯"
+    reading: "たきこみごはん"
+    translation:
+      en: "mixed/seasoned rice"
+      ko: "솥밥, 혼합밥"
+    gender: null
+    notes:
+      en: "cook + mix + rice"
+      ko: "짓다 + 섞다 + 밥"
+  - japanese: "お粥"
+    reading: "おかゆ"
+    translation:
+      en: "rice porridge"
+      ko: "죽"
+    gender: null
+    notes:
+      en: "eaten when sick or as comfort food"
+      ko: "아플 때나 편안한 음식으로 먹음"
+  - japanese: "浅漬け"
+    reading: "あさづけ"
+    translation:
+      en: "lightly pickled vegetables"
+      ko: "겉절이"
+    gender: null
+    notes:
+      en: "shallow + pickle; quick pickle"
+      ko: "얕다 + 절이다; 짧은 시간 절인 것"
+  - japanese: "焼き魚"
+    reading: "やきざかな"
+    translation:
+      en: "grilled fish"
+      ko: "생선구이"
+    gender: null
+    notes:
+      en: "grill + fish"
+      ko: "굽다 + 생선"
+  - japanese: "煮魚"
+    reading: "にざかな"
+    translation:
+      en: "simmered fish"
+      ko: "생선조림"
+    gender: null
+    notes:
+      en: "simmer + fish"
+      ko: "끓이다 + 생선"
+  - japanese: "酢の物"
+    reading: "すのもの"
+    translation:
+      en: "vinegared dish"
+      ko: "초무침"
+    gender: null
+    notes:
+      en: "vinegar + thing"
+      ko: "식초 + 것"
+  - japanese: "おにぎり"
+    reading: null
+    translation:
+      en: "rice ball"
+      ko: "주먹밥"
+    gender: null
+    notes:
+      en: "also おむすび; shaped rice"
+      ko: "おむすび라고도 함; 뭉친 밥"
+  - japanese: "弁当"
+    reading: "べんとう"
+    translation:
+      en: "boxed lunch"
+      ko: "도시락"
+    gender: null
+    notes:
+      en: "お弁当 (polite); 手作り弁当 = homemade lunch"
+      ko: "お弁当 (존댓말); 手作り弁当 = 수제 도시락"
+  - japanese: "献立"
+    reading: "こんだて"
+    translation:
+      en: "menu, meal plan"
+      ko: "식단"
+    gender: null
+    notes:
+      en: "献立を考える = to plan a menu"
+      ko: "献立を考える = 식단을 짜다"
+  - japanese: "一品料理"
+    reading: "いっぴんりょうり"
+    translation:
+      en: "single-dish meal, side dish"
+      ko: "단품 요리"
+    gender: null
+    notes:
+      en: "one + item + cooking"
+      ko: "한 + 품 + 요리"
+  - japanese: "副菜"
+    reading: "ふくさい"
+    translation:
+      en: "side dish"
+      ko: "부찬, 반찬"
+    gender: null
+    notes:
+      en: "sub + dish; opposite: 主菜"
+      ko: "부 + 반찬; 반대: 主菜"
+  - japanese: "主菜"
+    reading: "しゅさい"
+    translation:
+      en: "main dish"
+      ko: "주찬, 주요리"
+    gender: null
+    notes:
+      en: "main + dish"
+      ko: "주 + 반찬"
+  - japanese: "汁物"
+    reading: "しるもの"
+    translation:
+      en: "soup dish"
+      ko: "국, 국물 요리"
+    gender: null
+    notes:
+      en: "liquid + thing"
+      ko: "국물 + 것"
+  - japanese: "前菜"
+    reading: "ぜんさい"
+    translation:
+      en: "appetizer"
+      ko: "전채"
+    gender: null
+    notes:
+      en: "before + dish"
+      ko: "앞 + 요리"
+  - japanese: "一汁三菜"
+    reading: "いちじゅうさんさい"
+    translation:
+      en: "one soup, three side dishes"
+      ko: "일즙삼채"
+    gender: null
+    notes:
+      en: "traditional Japanese meal structure"
+      ko: "일본 전통 식사 구성"
+  - japanese: "だし汁"
+    reading: "だしじる"
+    translation:
+      en: "dashi broth"
+      ko: "다시 국물"
+    gender: null
+    notes:
+      en: "stock + liquid"
+      ko: "육수 + 국물"
+  - japanese: "ゆで卵"
+    reading: "ゆでたまご"
+    translation:
+      en: "boiled egg"
+      ko: "삶은 달걀"
+    gender: null
+    notes:
+      en: "boil + egg; 半熟 = soft-boiled"
+      ko: "삶다 + 달걀; 半熟 = 반숙"
+  - japanese: "溶き卵"
+    reading: "ときたまご"
+    translation:
+      en: "beaten egg"
+      ko: "풀어놓은 달걀"
+    gender: null
+    notes:
+      en: "dissolve + egg"
+      ko: "풀다 + 달걀"
+  - japanese: "分量"
+    reading: "ぶんりょう"
+    translation:
+      en: "quantity, portion"
+      ko: "분량"
+    gender: null
+    notes:
+      en: "分量を量る = to measure the quantity"
+      ko: "分量を量る = 분량을 재다"
+  - japanese: "大さじ"
+    reading: "おおさじ"
+    translation:
+      en: "tablespoon"
+      ko: "큰술"
+    gender: null
+    notes:
+      en: "big + spoon; 15ml"
+      ko: "크다 + 숟가락; 15ml"
+  - japanese: "小さじ"
+    reading: "こさじ"
+    translation:
+      en: "teaspoon"
+      ko: "작은술"
+    gender: null
+    notes:
+      en: "small + spoon; 5ml"
+      ko: "작다 + 숟가락; 5ml"
+  - japanese: "一合"
+    reading: "いちごう"
+    translation:
+      en: "one gou (180ml, rice measure)"
+      ko: "한 홉 (180ml, 쌀 계량)"
+    gender: null
+    notes:
+      en: "traditional Japanese measure for rice"
+      ko: "일본 전통 쌀 계량 단위"
+  - japanese: "カップ"
+    reading: null
+    translation:
+      en: "cup (200ml in Japan)"
+      ko: "컵 (일본에서 200ml)"
+    gender: null
+    notes:
+      en: "Japanese cup = 200ml (different from US 240ml)"
+      ko: "일본 컵 = 200ml (미국 240ml과 다름)"
+  - japanese: "適量"
+    reading: "てきりょう"
+    translation:
+      en: "appropriate amount"
+      ko: "적당량"
+    gender: null
+    notes:
+      en: "suitable + amount; common in recipes"
+      ko: "적당한 + 양; 레시피에서 자주 사용"
+  - japanese: "少々"
+    reading: "しょうしょう"
+    translation:
+      en: "a pinch, a small amount"
+      ko: "조금, 약간"
+    gender: null
+    notes:
+      en: "少々の塩 = a pinch of salt"
+      ko: "少々の塩 = 소금 약간"
+  - japanese: "ひとつまみ"
+    reading: null
+    translation:
+      en: "a pinch (between fingers)"
+      ko: "한 꼬집"
+    gender: null
+    notes:
+      en: "one + pinch"
+      ko: "하나 + 집다"
+  - japanese: "溶かす"
+    reading: "とかす"
+    translation:
+      en: "to dissolve, to melt"
+      ko: "녹이다"
+    gender: null
+    notes:
+      en: "godan verb; バターを溶かす = to melt butter"
+      ko: "5단 동사; バターを溶かす = 버터를 녹이다"
+  - japanese: "浸す"
+    reading: "ひたす"
+    translation:
+      en: "to soak, to dip"
+      ko: "담그다"
+    gender: null
+    notes:
+      en: "godan verb; 水に浸す = to soak in water"
+      ko: "5단 동사; 水に浸す = 물에 담그다"
+  - japanese: "振りかける"
+    reading: "ふりかける"
+    translation:
+      en: "to sprinkle"
+      ko: "뿌리다"
+    gender: null
+    notes:
+      en: "ichidan verb; 塩を振りかける = to sprinkle salt"
+      ko: "1단 동사; 塩を振りかける = 소금을 뿌리다"
+  - japanese: "裏ごし"
+    reading: "うらごし"
+    translation:
+      en: "straining, sieving"
+      ko: "체거르기"
+    gender: null
+    notes:
+      en: "裏ごしする = to strain through a sieve"
+      ko: "裏ごしする = 체에 거르다"
+  - japanese: "面取り"
+    reading: "めんとり"
+    translation:
+      en: "beveling (cutting vegetable edges)"
+      ko: "모서리 깎기"
+    gender: null
+    notes:
+      en: "round edges of root vegetables to prevent crumbling"
+      ko: "부서짐 방지를 위해 근채류 모서리를 깎기"
+  - japanese: "隠し包丁"
+    reading: "かくしぼうちょう"
+    translation:
+      en: "hidden cuts (scoring)"
+      ko: "숨은 칼집"
+    gender: null
+    notes:
+      en: "cuts on underside to help flavor absorption"
+      ko: "양념 흡수를 돕기 위해 밑면에 칼집 넣기"
+  - japanese: "板ずり"
+    reading: "いたずり"
+    translation:
+      en: "board-rubbing (with salt)"
+      ko: "소금 밀기"
+    gender: null
+    notes:
+      en: "rubbing cucumber with salt on cutting board"
+      ko: "도마 위에서 소금으로 오이를 문지르기"
+  - japanese: "湯通し"
+    reading: "ゆどおし"
+    translation:
+      en: "blanching"
+      ko: "데치기"
+    gender: null
+    notes:
+      en: "briefly passing food through boiling water"
+      ko: "끓는 물에 잠깐 데치기"
+  - japanese: "水切り"
+    reading: "みずきり"
+    translation:
+      en: "draining, dewatering"
+      ko: "물기 빼기"
+    gender: null
+    notes:
+      en: "豆腐の水切り = draining tofu"
+      ko: "豆腐の水切り = 두부 물기 빼기"
+  - japanese: "照り焼き"
+    reading: "てりやき"
+    translation:
+      en: "teriyaki"
+      ko: "데리야키"
+    gender: null
+    notes:
+      en: "glaze + grill; sweet soy glaze"
+      ko: "윤기 + 구이; 달콤한 간장 소스 구이"
+  - japanese: "甘辛い"
+    reading: "あまからい"
+    translation:
+      en: "sweet and savory"
+      ko: "달콤짭짤한"
+    gender: null
+    notes:
+      en: "sweet + spicy; common Japanese flavor"
+      ko: "달다 + 맵다; 일반적인 일본 맛"
+  - japanese: "うま煮"
+    reading: "うまに"
+    translation:
+      en: "savory simmered dish"
+      ko: "감칠맛 조림"
+    gender: null
+    notes:
+      en: "delicious + simmered"
+      ko: "맛있다 + 조림"
+  - japanese: "おでん"
+    reading: null
+    translation:
+      en: "oden (simmered pot dish)"
+      ko: "오뎅"
+    gender: null
+    notes:
+      en: "various ingredients simmered in dashi broth"
+      ko: "다양한 재료를 다시 국물에 끓인 요리"
+  - japanese: "味噌煮"
+    reading: "みそに"
+    translation:
+      en: "miso-simmered"
+      ko: "된장 조림"
+    gender: null
+    notes:
+      en: "miso + simmered; 鯖の味噌煮 = mackerel in miso"
+      ko: "된장 + 조림; 鯖の味噌煮 = 고등어 된장조림"
+  - japanese: "冷凍"
+    reading: "れいとう"
+    translation:
+      en: "freezing, frozen"
+      ko: "냉동"
+    gender: null
+    notes:
+      en: "冷凍食品 = frozen food"
+      ko: "冷凍食品 = 냉동 식품"
+  - japanese: "保存"
+    reading: "ほぞん"
+    translation:
+      en: "preservation, storage"
+      ko: "보존, 보관"
+    gender: null
+    notes:
+      en: "保存方法 = storage method"
+      ko: "保存方法 = 보관 방법"
+  - japanese: "賞味期限"
+    reading: "しょうみきげん"
+    translation:
+      en: "best-before date"
+      ko: "상미 기한"
+    gender: null
+    notes:
+      en: "taste + limit; quality date"
+      ko: "맛 + 기한; 품질 유지 기한"
+  - japanese: "消費期限"
+    reading: "しょうひきげん"
+    translation:
+      en: "use-by date, expiration date"
+      ko: "소비 기한"
+    gender: null
+    notes:
+      en: "consumption + limit; safety date"
+      ko: "소비 + 기한; 안전 기한"
+  - japanese: "常温"
+    reading: "じょうおん"
+    translation:
+      en: "room temperature"
+      ko: "상온"
+    gender: null
+    notes:
+      en: "常温保存 = store at room temperature"
+      ko: "常温保存 = 상온 보관"
+  - japanese: "冷蔵"
+    reading: "れいぞう"
+    translation:
+      en: "refrigeration"
+      ko: "냉장"
+    gender: null
+    notes:
+      en: "冷蔵庫 = refrigerator"
+      ko: "冷蔵庫 = 냉장고"
+  - japanese: ラップ
+    reading: null
+    translation:
+      en: "plastic wrap"
+      ko: "랩"
+    gender: null
+    notes:
+      en: "ラップをかける = to cover with wrap"
+      ko: "ラップをかける = 랩을 씌우다"
+  - japanese: "食物繊維"
+    reading: "しょくもつせんい"
+    translation:
+      en: "dietary fiber"
+      ko: "식이 섬유"
+    gender: null
+    notes:
+      en: "food + fiber"
+      ko: "식물 + 섬유"
+  - japanese: "栄養"
+    reading: "えいよう"
+    translation:
+      en: "nutrition"
+      ko: "영양"
+    gender: null
+    notes:
+      en: "栄養バランス = nutritional balance"
+      ko: "栄養バランス = 영양 균형"
+  - japanese: "カロリー"
+    reading: null
+    translation:
+      en: "calorie"
+      ko: "칼로리"
+    gender: null
+    notes:
+      en: "低カロリー = low calorie"
+      ko: "低カロリー = 저칼로리"
+  - japanese: "塩分"
+    reading: "えんぶん"
+    translation:
+      en: "salt content"
+      ko: "염분"
+    gender: null
+    notes:
+      en: "塩分控えめ = low salt"
+      ko: "塩分控えめ = 저염"
+  - japanese: "糖分"
+    reading: "とうぶん"
+    translation:
+      en: "sugar content"
+      ko: "당분"
+    gender: null
+    notes:
+      en: "糖分を控える = to reduce sugar intake"
+      ko: "糖分を控える = 당분을 줄이다"
+  - japanese: "食品添加物"
+    reading: "しょくひんてんかぶつ"
+    translation:
+      en: "food additive"
+      ko: "식품 첨가물"
+    gender: null
+    notes:
+      en: "food + additive"
+      ko: "식품 + 첨가물"
+  - japanese: "有機"
+    reading: "ゆうき"
+    translation:
+      en: "organic"
+      ko: "유기"
+    gender: null
+    notes:
+      en: "有機栽培 = organic cultivation"
+      ko: "有機栽培 = 유기 재배"
+  - japanese: "産地"
+    reading: "さんち"
+    translation:
+      en: "production area, origin"
+      ko: "산지"
+    gender: null
+    notes:
+      en: "産地直送 = direct from producer"
+      ko: "産地直送 = 산지 직송"
+  - japanese: "旬"
+    reading: "しゅん"
+    translation:
+      en: "in season"
+      ko: "제철"
+    gender: null
+    notes:
+      en: "旬の食材 = seasonal ingredients"
+      ko: "旬の食材 = 제철 식재료"
+  - japanese: "作り置き"
+    reading: "つくりおき"
+    translation:
+      en: "meal prep, cook ahead"
+      ko: "미리 만들어 두기"
+    gender: null
+    notes:
+      en: "make + leave; batch cooking for later"
+      ko: "만들다 + 두다; 미리 만들어 두는 요리"
+  - japanese: "食中毒"
+    reading: "しょくちゅうどく"
+    translation:
+      en: "food poisoning"
+      ko: "식중독"
+    gender: null
+    notes:
+      en: "food + poison; 食中毒を防ぐ = to prevent food poisoning"
+      ko: "음식 + 중독; 食中毒を防ぐ = 식중독을 예방하다"
+  - japanese: "衛生"
+    reading: "えいせい"
+    translation:
+      en: "hygiene, sanitation"
+      ko: "위생"
+    gender: null
+    notes:
+      en: "食品衛生 = food hygiene"
+      ko: "食品衛生 = 식품 위생"
+  - japanese: "手洗い"
+    reading: "てあらい"
+    translation:
+      en: "hand washing"
+      ko: "손 씻기"
+    gender: null
+    notes:
+      en: "hand + washing; essential kitchen hygiene"
+      ko: "손 + 씻기; 필수 주방 위생"
+  - japanese: "アレルギー"
+    reading: null
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+    notes:
+      en: "食物アレルギー = food allergy"
+      ko: "食物アレルギー = 식품 알레르기"
+  - japanese: "外食"
+    reading: "がいしょく"
+    translation:
+      en: "eating out"
+      ko: "외식"
+    gender: null
+    notes:
+      en: "outside + eat; opposite: 自炊"
+      ko: "밖 + 먹다; 반대: 自炊"
+  - japanese: "自炊"
+    reading: "じすい"
+    translation:
+      en: "cooking for oneself"
+      ko: "자취"
+    gender: null
+    notes:
+      en: "self + cook"
+      ko: "스스로 + 요리"
+  - japanese: "出前"
+    reading: "でまえ"
+    translation:
+      en: "food delivery"
+      ko: "배달 음식"
+    gender: null
+    notes:
+      en: "出前を取る = to order delivery"
+      ko: "出前を取る = 배달을 시키다"
+  - japanese: "持ち帰り"
+    reading: "もちかえり"
+    translation:
+      en: "takeout"
+      ko: "포장"
+    gender: null
+    notes:
+      en: "お持ち帰り = takeaway (polite)"
+      ko: "お持ち帰り = 포장 (존댓말)"
+  - japanese: "試食"
+    reading: "ししょく"
+    translation:
+      en: "food tasting, sampling"
+      ko: "시식"
+    gender: null
+    notes:
+      en: "試食する = to taste/sample"
+      ko: "試食する = 시식하다"
+  - japanese: "グルメ"
+    reading: null
+    translation:
+      en: "gourmet, foodie"
+      ko: "미식가"
+    gender: null
+    notes:
+      en: "loanword from French; B級グルメ = B-grade gourmet"
+      ko: "프랑스어 외래어; B級グルメ = B급 미식"

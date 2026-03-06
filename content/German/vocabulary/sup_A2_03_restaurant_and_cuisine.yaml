@@ -1,0 +1,1270 @@
+lesson: "sup_A2_Restaurant_and_Cuisine"
+lesson_number: 123
+cefr: A2
+type: supplementary
+topic: "Restaurant and Cuisine"
+categories:
+- id: restaurant
+  label:
+    en: "Restaurant (Restaurant)"
+    ko: "식당 (Restaurant)"
+  type: vocabulary
+  words:
+  - german: "das Restaurant, -s"
+    translation:
+      en: "restaurant"
+      ko: "식당 / 레스토랑"
+    gender: n
+    notes:
+      en: "ins Restaurant gehen = to go to a restaurant"
+      ko: "ins Restaurant gehen = 식당에 가다"
+  - german: "das Gasthaus, Gasthäuser"
+    translation:
+      en: "inn / tavern"
+      ko: "주점 / 선술집"
+    gender: n
+    notes:
+      en: "Traditional German restaurant, often with local cuisine"
+      ko: "전통 독일 식당, 종종 향토 요리 제공"
+  - german: "das Café, -s"
+    translation:
+      en: "café"
+      ko: "카페"
+    gender: n
+    notes:
+      en: "die Kaffeehauskultur = café culture (especially in Vienna)"
+      ko: "die Kaffeehauskultur = 카페 문화 (특히 비엔나)"
+  - german: "die Kneipe, -n"
+    translation:
+      en: "pub / bar"
+      ko: "술집 / 바"
+    gender: f
+    notes:
+      en: "Casual place for drinks and simple food"
+      ko: "음료와 간단한 음식을 위한 편한 장소"
+  - german: "der Biergarten, Biergärten"
+    translation:
+      en: "beer garden"
+      ko: "비어가든"
+    gender: m
+    notes:
+      en: "Outdoor seating area; very popular in Bavaria"
+      ko: "야외 좌석 공간; 바이에른에서 매우 인기"
+  - german: "der Tisch, -e"
+    translation:
+      en: "table"
+      ko: "테이블"
+    gender: m
+    notes:
+      en: "einen Tisch reservieren = to reserve a table"
+      ko: "einen Tisch reservieren = 테이블을 예약하다"
+  - german: "der Kellner, -"
+    translation:
+      en: "waiter"
+      ko: "웨이터"
+    gender: m
+    notes:
+      en: "die Kellnerin = waitress"
+      ko: "die Kellnerin = 여성 웨이터"
+  - german: "die Speisekarte, -n"
+    translation:
+      en: "menu"
+      ko: "메뉴판"
+    gender: f
+    notes:
+      en: "die Getränkekarte = drinks menu"
+      ko: "die Getränkekarte = 음료 메뉴"
+  - german: "der Teller, -"
+    translation:
+      en: "plate"
+      ko: "접시"
+    gender: m
+    notes:
+      en: "der Suppenteller = soup bowl"
+      ko: "der Suppenteller = 수프 그릇"
+  - german: "die Tasse, -n"
+    translation:
+      en: "cup"
+      ko: "컵 / 잔"
+    gender: f
+    notes:
+      en: "eine Tasse Kaffee = a cup of coffee"
+      ko: "eine Tasse Kaffee = 커피 한 잔"
+  - german: "das Glas, Gläser"
+    translation:
+      en: "glass"
+      ko: "유리잔"
+    gender: n
+    notes:
+      en: "ein Glas Wein = a glass of wine"
+      ko: "ein Glas Wein = 와인 한 잔"
+  - german: "die Gabel, -n"
+    translation:
+      en: "fork"
+      ko: "포크"
+    gender: f
+    notes:
+      en: "Part of das Besteck (cutlery)"
+      ko: "das Besteck (식기류)의 일부"
+  - german: "das Messer, -"
+    translation:
+      en: "knife"
+      ko: "나이프"
+    gender: n
+    notes:
+      en: "das Brotmesser = bread knife"
+      ko: "das Brotmesser = 빵 칼"
+  - german: "der Löffel, -"
+    translation:
+      en: "spoon"
+      ko: "숟가락"
+    gender: m
+    notes:
+      en: "der Teelöffel = teaspoon"
+      ko: "der Teelöffel = 티스푼"
+  - german: "die Serviette, -n"
+    translation:
+      en: "napkin"
+      ko: "냅킨"
+    gender: f
+    notes:
+      en: "Cloth napkins common in finer restaurants"
+      ko: "고급 식당에서는 천 냅킨이 일반적"
+  - german: "die Reservierung, -en"
+    translation:
+      en: "reservation"
+      ko: "예약"
+    gender: f
+    notes:
+      en: "Haben Sie eine Reservierung? = Do you have a reservation?"
+      ko: "Haben Sie eine Reservierung? = 예약하셨나요?"
+  - german: "die Terrasse, -n"
+    translation:
+      en: "terrace / patio"
+      ko: "테라스"
+    gender: f
+    notes:
+      en: "draußen auf der Terrasse sitzen = to sit outside on the terrace"
+      ko: "draußen auf der Terrasse sitzen = 테라스 밖에 앉다"
+  - german: "die Theke, -n"
+    translation:
+      en: "bar counter"
+      ko: "카운터 / 바"
+    gender: f
+    notes:
+      en: "an der Theke sitzen = to sit at the bar"
+      ko: "an der Theke sitzen = 바에 앉다"
+  - german: "der Imbiss, -e"
+    translation:
+      en: "snack bar / fast food stand"
+      ko: "간이식당 / 분식점"
+    gender: m
+    notes:
+      en: "der Imbissstand = street food stand"
+      ko: "der Imbissstand = 길거리 음식 노점"
+  - german: "die Kantine, -n"
+    translation:
+      en: "canteen / cafeteria"
+      ko: "구내식당"
+    gender: f
+    notes:
+      en: "die Betriebskantine = company cafeteria"
+      ko: "die Betriebskantine = 회사 구내식당"
+  - german: "die Mensa, Mensen"
+    translation:
+      en: "university cafeteria"
+      ko: "대학교 식당"
+    gender: f
+    notes:
+      en: "in der Mensa essen = to eat at the university cafeteria"
+      ko: "in der Mensa essen = 학식에서 먹다"
+  - german: "das Besteck"
+    translation:
+      en: "cutlery / silverware"
+      ko: "식기류"
+    gender: n
+    notes:
+      en: "Collective: Messer, Gabel, Löffel"
+      ko: "집합 명사: 나이프, 포크, 숟가락"
+  - german: "die Schüssel, -n"
+    translation:
+      en: "bowl"
+      ko: "그릇"
+    gender: f
+    notes:
+      en: "die Salatschüssel = salad bowl"
+      ko: "die Salatschüssel = 샐러드 그릇"
+  - german: "die Untertasse, -n"
+    translation:
+      en: "saucer"
+      ko: "받침 접시"
+    gender: f
+    notes:
+      en: "die Tasse und Untertasse = cup and saucer"
+      ko: "die Tasse und Untertasse = 잔과 받침 접시"
+  - german: "die Kanne, -n"
+    translation:
+      en: "pot / jug"
+      ko: "주전자"
+    gender: f
+    notes:
+      en: "die Teekanne = teapot; die Kaffeekanne = coffee pot"
+      ko: "die Teekanne = 찻주전자; die Kaffeekanne = 커피 포트"
+  - german: "das Tablett, -s"
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: n
+    notes:
+      en: "auf dem Tablett servieren = to serve on a tray"
+      ko: "auf dem Tablett servieren = 쟁반에 서빙하다"
+  - german: "der Strohhalm, -e"
+    translation:
+      en: "straw (drinking)"
+      ko: "빨대"
+    gender: m
+    notes:
+      en: "Plastic straws are being phased out in the EU"
+      ko: "EU에서 플라스틱 빨대를 단계적으로 폐지 중"
+  - german: "der Pfefferstreuer, -"
+    translation:
+      en: "pepper shaker"
+      ko: "후추통"
+    gender: m
+    notes:
+      en: "der Salzstreuer = salt shaker"
+      ko: "der Salzstreuer = 소금통"
+
+- id: bestellen
+  label:
+    en: "Ordering (Bestellen)"
+    ko: "주문하기 (Bestellen)"
+  type: vocabulary
+  words:
+  - german: "bestellen"
+    translation:
+      en: "to order"
+      ko: "주문하다"
+    gender: null
+    notes:
+      en: "Ich möchte bestellen = I would like to order"
+      ko: "Ich möchte bestellen = 주문하고 싶습니다"
+  - german: "die Vorspeise, -n"
+    translation:
+      en: "appetizer / starter"
+      ko: "전채 요리"
+    gender: f
+    notes:
+      en: "als Vorspeise = as a starter"
+      ko: "als Vorspeise = 전채로"
+  - german: "das Hauptgericht, -e"
+    translation:
+      en: "main course"
+      ko: "메인 요리"
+    gender: n
+    notes:
+      en: "als Hauptgericht = as a main course"
+      ko: "als Hauptgericht = 메인으로"
+  - german: "die Nachspeise, -n"
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: f
+    notes:
+      en: "Also 'der Nachtisch' or 'das Dessert'"
+      ko: "'der Nachtisch'나 'das Dessert'라고도 함"
+  - german: "die Beilage, -n"
+    translation:
+      en: "side dish"
+      ko: "반찬 / 사이드"
+    gender: f
+    notes:
+      en: "mit Pommes als Beilage = with fries as a side"
+      ko: "mit Pommes als Beilage = 사이드로 감자튀김과 함께"
+  - german: "das Tagesgericht, -e"
+    translation:
+      en: "daily special"
+      ko: "오늘의 요리"
+    gender: n
+    notes:
+      en: "das Tagesmenü = set menu of the day"
+      ko: "das Tagesmenü = 오늘의 세트 메뉴"
+  - german: "die Empfehlung, -en"
+    translation:
+      en: "recommendation"
+      ko: "추천"
+    gender: f
+    notes:
+      en: "Was ist Ihre Empfehlung? = What do you recommend?"
+      ko: "Was ist Ihre Empfehlung? = 뭘 추천하시나요?"
+  - german: "die Portion, -en"
+    translation:
+      en: "portion / serving"
+      ko: "1인분 / 포션"
+    gender: f
+    notes:
+      en: "eine große/kleine Portion = a large/small portion"
+      ko: "eine große/kleine Portion = 큰/작은 포션"
+  - german: "die Zutat, -en"
+    translation:
+      en: "ingredient"
+      ko: "재료"
+    gender: f
+    notes:
+      en: "Welche Zutaten sind drin? = What ingredients are in it?"
+      ko: "Welche Zutaten sind drin? = 어떤 재료가 들어있나요?"
+  - german: "zahlen"
+    translation:
+      en: "to pay"
+      ko: "계산하다"
+    gender: null
+    notes:
+      en: "Zahlen bitte! = Check, please!"
+      ko: "Zahlen bitte! = 계산서 주세요!"
+  - german: "zusammen oder getrennt"
+    translation:
+      en: "together or separate (bills)"
+      ko: "같이 또는 따로 (계산)"
+    gender: null
+    notes:
+      en: "Waiter often asks this when paying"
+      ko: "계산 시 웨이터가 자주 묻는 말"
+  - german: "zum Mitnehmen"
+    translation:
+      en: "to go / takeaway"
+      ko: "포장해서"
+    gender: null
+    notes:
+      en: "Zum Mitnehmen, bitte = To go, please"
+      ko: "Zum Mitnehmen, bitte = 포장해 주세요"
+  - german: "die Bedienung, -en"
+    translation:
+      en: "service / waiter"
+      ko: "서비스 / 종업원"
+    gender: f
+    notes:
+      en: "die Selbstbedienung = self-service"
+      ko: "die Selbstbedienung = 셀프서비스"
+  - german: "das Angebot, -e"
+    translation:
+      en: "offer / deal"
+      ko: "제안 / 할인"
+    gender: n
+    notes:
+      en: "das Mittagsangebot = lunch deal"
+      ko: "das Mittagsangebot = 점심 특가"
+
+- id: gerichte_und_gaenge
+  label:
+    en: "Dishes and Courses (Gerichte/Gänge)"
+    ko: "요리와 코스 (Gerichte/Gänge)"
+  type: vocabulary
+  words:
+  - german: "die Suppe, -n"
+    translation:
+      en: "soup"
+      ko: "수프"
+    gender: f
+    notes:
+      en: "die Kartoffelsuppe = potato soup; common starter"
+      ko: "die Kartoffelsuppe = 감자 수프; 흔한 전채"
+  - german: "der Salat, -e"
+    translation:
+      en: "salad"
+      ko: "샐러드"
+    gender: m
+    notes:
+      en: "der gemischte Salat = mixed salad"
+      ko: "der gemischte Salat = 혼합 샐러드"
+  - german: "das Schnitzel, -"
+    translation:
+      en: "schnitzel (breaded cutlet)"
+      ko: "슈니첼 (빵가루 입힌 커틀릿)"
+    gender: n
+    notes:
+      en: "das Wiener Schnitzel = Viennese schnitzel (veal)"
+      ko: "das Wiener Schnitzel = 비엔나 슈니첼 (송아지고기)"
+  - german: "die Wurst, Würste"
+    translation:
+      en: "sausage"
+      ko: "소시지"
+    gender: f
+    notes:
+      en: "die Bratwurst = fried sausage; iconic German food"
+      ko: "die Bratwurst = 구운 소시지; 대표적 독일 음식"
+  - german: "der Braten, -"
+    translation:
+      en: "roast"
+      ko: "구이 / 로스트"
+    gender: m
+    notes:
+      en: "der Schweinebraten = pork roast"
+      ko: "der Schweinebraten = 돼지고기 구이"
+  - german: "das Hähnchen, -"
+    translation:
+      en: "chicken (cooked)"
+      ko: "치킨 (조리된)"
+    gender: n
+    notes:
+      en: "das Brathähnchen = roast chicken"
+      ko: "das Brathähnchen = 로스트 치킨"
+  - german: "der Fisch, -e"
+    translation:
+      en: "fish (dish)"
+      ko: "생선 (요리)"
+    gender: m
+    notes:
+      en: "der Lachs = salmon; die Forelle = trout"
+      ko: "der Lachs = 연어; die Forelle = 송어"
+  - german: "die Kartoffel, -n"
+    translation:
+      en: "potato"
+      ko: "감자"
+    gender: f
+    notes:
+      en: "Pommes, Bratkartoffeln, Kartoffelpüree = fries, fried potatoes, mashed"
+      ko: "Pommes, Bratkartoffeln, Kartoffelpüree = 감자튀김, 볶은 감자, 매시"
+  - german: "der Reis"
+    translation:
+      en: "rice"
+      ko: "쌀 / 밥"
+    gender: m
+    notes:
+      en: "No plural; common side dish"
+      ko: "복수형 없음; 흔한 반찬"
+  - german: "die Nudeln (pl.)"
+    translation:
+      en: "pasta / noodles"
+      ko: "면 / 파스타"
+    gender: null
+    notes:
+      en: "die Spätzle = Swabian egg noodles"
+      ko: "die Spätzle = 슈바벤 달걀 면"
+  - german: "das Brot, -e"
+    translation:
+      en: "bread"
+      ko: "빵"
+    gender: n
+    notes:
+      en: "Germany has over 300 types of bread"
+      ko: "독일에는 300종류 이상의 빵이 있음"
+  - german: "der Kuchen, -"
+    translation:
+      en: "cake"
+      ko: "케이크"
+    gender: m
+    notes:
+      en: "Kaffee und Kuchen = coffee and cake (afternoon tradition)"
+      ko: "Kaffee und Kuchen = 커피와 케이크 (오후 전통)"
+  - german: "das Eis"
+    translation:
+      en: "ice cream / ice"
+      ko: "아이스크림 / 얼음"
+    gender: n
+    notes:
+      en: "die Eisdiele = ice cream parlor"
+      ko: "die Eisdiele = 아이스크림 가게"
+  - german: "die Soße, -n"
+    translation:
+      en: "sauce / gravy"
+      ko: "소스"
+    gender: f
+    notes:
+      en: "die Bratensoße = gravy"
+      ko: "die Bratensoße = 그레이비 소스"
+  - german: "der Eintopf, Eintöpfe"
+    translation:
+      en: "stew"
+      ko: "스튜"
+    gender: m
+    notes:
+      en: "One-pot dish; traditional hearty German meal"
+      ko: "원팟 요리; 전통적인 든든한 독일 식사"
+  - german: "der Knödel, -"
+    translation:
+      en: "dumpling"
+      ko: "크뇌델 (감자 경단)"
+    gender: m
+    notes:
+      en: "Bavarian and Austrian specialty"
+      ko: "바이에른과 오스트리아의 특산물"
+  - german: "das Sauerkraut"
+    translation:
+      en: "sauerkraut (fermented cabbage)"
+      ko: "자우어크라우트 (발효 양배추)"
+    gender: n
+    notes:
+      en: "Classic German side dish"
+      ko: "대표적인 독일 반찬"
+  - german: "der Käse"
+    translation:
+      en: "cheese"
+      ko: "치즈"
+    gender: m
+    notes:
+      en: "der Käsekuchen = cheesecake"
+      ko: "der Käsekuchen = 치즈케이크"
+  - german: "die Butter"
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: f
+    notes:
+      en: "Brot mit Butter = bread with butter"
+      ko: "Brot mit Butter = 버터 바른 빵"
+  - german: "das Ei, -er"
+    translation:
+      en: "egg"
+      ko: "달걀"
+    gender: n
+    notes:
+      en: "das Spiegelei = fried egg; das Rührei = scrambled eggs"
+      ko: "das Spiegelei = 프라이; das Rührei = 스크램블"
+  - german: "der Schinken, -"
+    translation:
+      en: "ham"
+      ko: "햄"
+    gender: m
+    notes:
+      en: "der Schwarzwälder Schinken = Black Forest ham"
+      ko: "der Schwarzwälder Schinken = 블랙 포레스트 햄"
+  - german: "das Rindfleisch"
+    translation:
+      en: "beef"
+      ko: "소고기"
+    gender: n
+    notes:
+      en: "das Schweinefleisch = pork; das Hühnerfleisch = chicken"
+      ko: "das Schweinefleisch = 돼지고기; das Hühnerfleisch = 닭고기"
+  - german: "die Pommes frites (pl.)"
+    translation:
+      en: "French fries"
+      ko: "감자튀김"
+    gender: null
+    notes:
+      en: "Short: Pommes; mit Mayo = with mayo (German style)"
+      ko: "줄임말: Pommes; mit Mayo = 마요네즈와 (독일 스타일)"
+  - german: "der Pfannkuchen, -"
+    translation:
+      en: "pancake"
+      ko: "팬케이크"
+    gender: m
+    notes:
+      en: "In Berlin, Pfannkuchen means 'jelly donut'"
+      ko: "베를린에서 Pfannkuchen은 '젤리 도넛'을 의미"
+  - german: "die Marmelade, -n"
+    translation:
+      en: "jam / marmalade"
+      ko: "잼"
+    gender: f
+    notes:
+      en: "Erdbeermarmelade = strawberry jam"
+      ko: "Erdbeermarmelade = 딸기잼"
+
+- id: kochmethoden
+  label:
+    en: "Cooking Methods (Kochmethoden)"
+    ko: "조리법 (Kochmethoden)"
+  type: vocabulary
+  words:
+  - german: "kochen"
+    translation:
+      en: "to cook / to boil"
+      ko: "요리하다 / 끓이다"
+    gender: null
+    notes:
+      en: "der Koch / die Köchin = chef"
+      ko: "der Koch / die Köchin = 요리사"
+  - german: "braten"
+    translation:
+      en: "to fry / to roast"
+      ko: "볶다 / 굽다"
+    gender: null
+    notes:
+      en: "in der Pfanne braten = to fry in a pan"
+      ko: "in der Pfanne braten = 팬에 볶다"
+  - german: "backen"
+    translation:
+      en: "to bake"
+      ko: "굽다 (오븐)"
+    gender: null
+    notes:
+      en: "im Ofen backen = to bake in the oven"
+      ko: "im Ofen backen = 오븐에 굽다"
+  - german: "grillen"
+    translation:
+      en: "to grill / to barbecue"
+      ko: "그릴에 굽다"
+    gender: null
+    notes:
+      en: "der Grill = barbecue; very popular in summer"
+      ko: "der Grill = 바비큐; 여름에 매우 인기"
+  - german: "dämpfen"
+    translation:
+      en: "to steam"
+      ko: "찌다"
+    gender: null
+    notes:
+      en: "gedämpftes Gemüse = steamed vegetables"
+      ko: "gedämpftes Gemüse = 찐 채소"
+  - german: "schneiden"
+    translation:
+      en: "to cut / to chop"
+      ko: "자르다 / 썰다"
+    gender: null
+    notes:
+      en: "in Scheiben schneiden = to slice"
+      ko: "in Scheiben schneiden = 얇게 자르다"
+  - german: "rühren"
+    translation:
+      en: "to stir"
+      ko: "젓다"
+    gender: null
+    notes:
+      en: "umrühren = to stir around"
+      ko: "umrühren = 휘저어 섞다"
+  - german: "würzen"
+    translation:
+      en: "to season / to spice"
+      ko: "양념하다"
+    gender: null
+    notes:
+      en: "das Gewürz, -e = spice"
+      ko: "das Gewürz, -e = 양념 / 향신료"
+  - german: "schälen"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+    notes:
+      en: "Kartoffeln schälen = to peel potatoes"
+      ko: "Kartoffeln schälen = 감자 껍질을 벗기다"
+  - german: "mischen"
+    translation:
+      en: "to mix"
+      ko: "섞다"
+    gender: null
+    notes:
+      en: "die Mischung = the mixture"
+      ko: "die Mischung = 혼합물"
+  - german: "roh"
+    translation:
+      en: "raw"
+      ko: "날것의"
+    gender: null
+    notes:
+      en: "rohes Fleisch = raw meat"
+      ko: "rohes Fleisch = 생고기"
+  - german: "gebraten"
+    translation:
+      en: "fried / roasted"
+      ko: "볶은 / 구운"
+    gender: null
+    notes:
+      en: "Participial adjective from 'braten'"
+      ko: "'braten'에서 파생된 분사형 형용사"
+  - german: "gekocht"
+    translation:
+      en: "cooked / boiled"
+      ko: "조리된 / 삶은"
+    gender: null
+    notes:
+      en: "gekochtes Ei = boiled egg"
+      ko: "gekochtes Ei = 삶은 달걀"
+  - german: "gebacken"
+    translation:
+      en: "baked"
+      ko: "구운 (오븐)"
+    gender: null
+    notes:
+      en: "frisch gebacken = freshly baked"
+      ko: "frisch gebacken = 갓 구운"
+  - german: "paniert"
+    translation:
+      en: "breaded"
+      ko: "빵가루를 입힌"
+    gender: null
+    notes:
+      en: "paniertes Schnitzel = breaded schnitzel"
+      ko: "paniertes Schnitzel = 빵가루 입힌 슈니첼"
+  - german: "einlegen"
+    translation:
+      en: "to pickle / to marinate"
+      ko: "절이다 / 재우다"
+    gender: null
+    notes:
+      en: "eingelegte Gurken = pickled cucumbers"
+      ko: "eingelegte Gurken = 피클"
+  - german: "frittieren"
+    translation:
+      en: "to deep-fry"
+      ko: "튀기다"
+    gender: null
+    notes:
+      en: "frittierte Kartoffeln = deep-fried potatoes"
+      ko: "frittierte Kartoffeln = 튀긴 감자"
+  - german: "dünsten"
+    translation:
+      en: "to braise / to stew gently"
+      ko: "약한 불에 끓이다"
+    gender: null
+    notes:
+      en: "Gemüse dünsten = to braise vegetables"
+      ko: "Gemüse dünsten = 채소를 약한 불에 조리하다"
+  - german: "pürieren"
+    translation:
+      en: "to puree / to blend"
+      ko: "퓌레로 만들다 / 갈다"
+    gender: null
+    notes:
+      en: "der Pürierstab = immersion blender"
+      ko: "der Pürierstab = 핸드 블렌더"
+  - german: "anbraten"
+    translation:
+      en: "to sear / to brown"
+      ko: "겉을 굽다"
+    gender: null
+    notes:
+      en: "Separable: das Fleisch scharf anbraten"
+      ko: "분리 동사: 고기를 센 불에 겉을 굽다"
+  - german: "abschmecken"
+    translation:
+      en: "to season to taste"
+      ko: "간을 보다"
+    gender: null
+    notes:
+      en: "Separable: mit Salz und Pfeffer abschmecken"
+      ko: "분리 동사: 소금과 후추로 간을 보다"
+  - german: "aufkochen"
+    translation:
+      en: "to bring to a boil"
+      ko: "끓이다"
+    gender: null
+    notes:
+      en: "Separable: die Suppe aufkochen lassen"
+      ko: "분리 동사: 수프를 끓이다"
+  - german: "abtropfen"
+    translation:
+      en: "to drain"
+      ko: "물기를 빼다"
+    gender: null
+    notes:
+      en: "Separable: die Nudeln abtropfen lassen"
+      ko: "분리 동사: 면의 물기를 빼다"
+  - german: "marinieren"
+    translation:
+      en: "to marinate"
+      ko: "재우다 / 양념하다"
+    gender: null
+    notes:
+      en: "das Fleisch über Nacht marinieren = to marinate meat overnight"
+      ko: "das Fleisch über Nacht marinieren = 고기를 밤새 재우다"
+  - german: "überbacken"
+    translation:
+      en: "to bake with a topping / to gratinate"
+      ko: "그라탕으로 굽다"
+    gender: null
+    notes:
+      en: "mit Käse überbacken = gratinated with cheese"
+      ko: "mit Käse überbacken = 치즈를 얹어 구운"
+
+- id: ernaehrungsbeduerfnisse
+  label:
+    en: "Dietary Needs (Ernährungsbedürfnisse)"
+    ko: "식이 요구 (Ernährungsbedürfnisse)"
+  type: vocabulary
+  words:
+  - german: "vegetarisch"
+    translation:
+      en: "vegetarian"
+      ko: "채식의"
+    gender: null
+    notes:
+      en: "Sind Sie vegetarisch? = Are you vegetarian?"
+      ko: "Sind Sie vegetarisch? = 채식주의자이신가요?"
+  - german: "vegan"
+    translation:
+      en: "vegan"
+      ko: "비건"
+    gender: null
+    notes:
+      en: "Growing number of vegan options in Germany"
+      ko: "독일에서 비건 옵션이 점점 늘어나고 있음"
+  - german: "glutenfrei"
+    translation:
+      en: "gluten-free"
+      ko: "글루텐 프리"
+    gender: null
+    notes:
+      en: "Haben Sie glutenfreie Optionen?"
+      ko: "글루텐 프리 옵션이 있나요?"
+  - german: "laktosefrei"
+    translation:
+      en: "lactose-free"
+      ko: "유당 불포함"
+    gender: null
+    notes:
+      en: "die Laktoseintoleranz = lactose intolerance"
+      ko: "die Laktoseintoleranz = 유당 불내증"
+  - german: "die Allergie, -n"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+    notes:
+      en: "Ich habe eine Nussallergie = I have a nut allergy"
+      ko: "Ich habe eine Nussallergie = 견과류 알레르기가 있어요"
+  - german: "halal"
+    translation:
+      en: "halal"
+      ko: "할랄"
+    gender: null
+    notes:
+      en: "halal-Fleisch = halal meat"
+      ko: "halal-Fleisch = 할랄 고기"
+  - german: "koscher"
+    translation:
+      en: "kosher"
+      ko: "코셔"
+    gender: null
+    notes:
+      en: "koscheres Essen = kosher food"
+      ko: "koscheres Essen = 코셔 음식"
+  - german: "scharf"
+    translation:
+      en: "spicy / hot"
+      ko: "매운"
+    gender: null
+    notes:
+      en: "nicht so scharf = not so spicy"
+      ko: "nicht so scharf = 덜 맵게"
+  - german: "mild"
+    translation:
+      en: "mild"
+      ko: "순한"
+    gender: null
+    notes:
+      en: "ein mildes Gericht = a mild dish"
+      ko: "ein mildes Gericht = 순한 요리"
+  - german: "die Nuss, Nüsse"
+    translation:
+      en: "nut"
+      ko: "견과류"
+    gender: f
+    notes:
+      en: "die Erdnuss = peanut; die Walnuss = walnut"
+      ko: "die Erdnuss = 땅콩; die Walnuss = 호두"
+  - german: "frisch"
+    translation:
+      en: "fresh"
+      ko: "신선한"
+    gender: null
+    notes:
+      en: "frisches Obst = fresh fruit"
+      ko: "frisches Obst = 신선한 과일"
+  - german: "bio"
+    translation:
+      en: "organic"
+      ko: "유기농"
+    gender: null
+    notes:
+      en: "der Bioladen = organic shop; bio-Produkte = organic products"
+      ko: "der Bioladen = 유기농 가게; bio-Produkte = 유기농 제품"
+  - german: "die Diät, -en"
+    translation:
+      en: "diet"
+      ko: "다이어트 / 식단"
+    gender: f
+    notes:
+      en: "eine Diät machen = to be on a diet"
+      ko: "eine Diät machen = 다이어트를 하다"
+  - german: "die Kalorie, -n"
+    translation:
+      en: "calorie"
+      ko: "칼로리"
+    gender: f
+    notes:
+      en: "kalorienarm = low-calorie"
+      ko: "kalorienarm = 저칼로리"
+  - german: "das Getränk, -e"
+    translation:
+      en: "beverage / drink"
+      ko: "음료"
+    gender: n
+    notes:
+      en: "alkoholfreie Getränke = non-alcoholic drinks"
+      ko: "alkoholfreie Getränke = 무알코올 음료"
+  - german: "unverträglich"
+    translation:
+      en: "intolerant (food)"
+      ko: "불내증이 있는"
+    gender: null
+    notes:
+      en: "die Unverträglichkeit = intolerance"
+      ko: "die Unverträglichkeit = 불내증"
+  - german: "zuckerfrei"
+    translation:
+      en: "sugar-free"
+      ko: "무설탕"
+    gender: null
+    notes:
+      en: "zuckerfreie Getränke = sugar-free drinks"
+      ko: "zuckerfreie Getränke = 무설탕 음료"
+  - german: "fettarm"
+    translation:
+      en: "low-fat"
+      ko: "저지방"
+    gender: null
+    notes:
+      en: "fettarme Milch = low-fat milk"
+      ko: "fettarme Milch = 저지방 우유"
+  - german: "die Vollkornprodukte (pl.)"
+    translation:
+      en: "whole grain products"
+      ko: "통곡물 제품"
+    gender: null
+    notes:
+      en: "das Vollkornbrot = whole grain bread"
+      ko: "das Vollkornbrot = 통곡물 빵"
+
+- id: getraenke
+  label:
+    en: "Beverages (Getränke)"
+    ko: "음료 (Getränke)"
+  type: vocabulary
+  words:
+  - german: "das Wasser"
+    translation:
+      en: "water"
+      ko: "물"
+    gender: n
+    notes:
+      en: "Sprudelwasser = sparkling; stilles Wasser = still"
+      ko: "Sprudelwasser = 탄산수; stilles Wasser = 생수"
+  - german: "der Kaffee, -s"
+    translation:
+      en: "coffee"
+      ko: "커피"
+    gender: m
+    notes:
+      en: "der Milchkaffee = coffee with milk"
+      ko: "der Milchkaffee = 밀크커피"
+  - german: "der Tee, -s"
+    translation:
+      en: "tea"
+      ko: "차"
+    gender: m
+    notes:
+      en: "der Kräutertee = herbal tea"
+      ko: "der Kräutertee = 허브차"
+  - german: "der Saft, Säfte"
+    translation:
+      en: "juice"
+      ko: "주스"
+    gender: m
+    notes:
+      en: "der Orangensaft = orange juice; die Apfelschorle = apple spritzer"
+      ko: "der Orangensaft = 오렌지주스; die Apfelschorle = 사과 스프리처"
+  - german: "das Bier, -e"
+    translation:
+      en: "beer"
+      ko: "맥주"
+    gender: n
+    notes:
+      en: "das Reinheitsgebot = German beer purity law (1516)"
+      ko: "das Reinheitsgebot = 독일 맥주 순수령 (1516)"
+  - german: "der Wein, -e"
+    translation:
+      en: "wine"
+      ko: "와인"
+    gender: m
+    notes:
+      en: "der Rotwein = red wine; der Weißwein = white wine"
+      ko: "der Rotwein = 레드와인; der Weißwein = 화이트와인"
+  - german: "die Limonade, -n"
+    translation:
+      en: "lemonade / soda"
+      ko: "레모네이드 / 탄산음료"
+    gender: f
+    notes:
+      en: "Short: die Limo"
+      ko: "줄임말: die Limo"
+  - german: "die Schorle, -n"
+    translation:
+      en: "spritzer (juice mixed with sparkling water)"
+      ko: "스프리처 (주스+탄산수)"
+    gender: f
+    notes:
+      en: "die Apfelschorle = very popular German drink"
+      ko: "die Apfelschorle = 독일에서 매우 인기 있는 음료"
+  - german: "der Kakao, -s"
+    translation:
+      en: "hot chocolate / cocoa"
+      ko: "핫초콜릿 / 코코아"
+    gender: m
+    notes:
+      en: "heißer Kakao = hot cocoa"
+      ko: "heißer Kakao = 핫초코"
+  - german: "der Schnaps, Schnäpse"
+    translation:
+      en: "schnapps / spirit"
+      ko: "슈납스 / 증류주"
+    gender: m
+    notes:
+      en: "Strong alcoholic drink; often after meals"
+      ko: "독한 술; 식후에 자주 마심"
+  - german: "der Espresso, -s"
+    translation:
+      en: "espresso"
+      ko: "에스프레소"
+    gender: m
+    notes:
+      en: "einen Espresso bestellen = to order an espresso"
+      ko: "einen Espresso bestellen = 에스프레소를 주문하다"
+  - german: "der Cappuccino, -s"
+    translation:
+      en: "cappuccino"
+      ko: "카푸치노"
+    gender: m
+    notes:
+      en: "Italian-style coffee popular in German cafés"
+      ko: "독일 카페에서 인기 있는 이탈리아식 커피"
+  - german: "die Milch"
+    translation:
+      en: "milk"
+      ko: "우유"
+    gender: f
+    notes:
+      en: "die Hafermilch = oat milk; die Sojamilch = soy milk"
+      ko: "die Hafermilch = 귀리 우유; die Sojamilch = 두유"
+  - german: "der Zucker"
+    translation:
+      en: "sugar"
+      ko: "설탕"
+    gender: m
+    notes:
+      en: "mit/ohne Zucker = with/without sugar"
+      ko: "mit/ohne Zucker = 설탕 넣고/빼고"
+  - german: "das Mineralwasser"
+    translation:
+      en: "mineral water"
+      ko: "미네랄 워터"
+    gender: n
+    notes:
+      en: "mit/ohne Kohlensäure = with/without carbonation"
+      ko: "mit/ohne Kohlensäure = 탄산 있는/없는"
+  - german: "der Eiswürfel, -"
+    translation:
+      en: "ice cube"
+      ko: "얼음"
+    gender: m
+    notes:
+      en: "mit Eis = with ice"
+      ko: "mit Eis = 얼음과 함께"
+  - german: "die Flasche, -n"
+    translation:
+      en: "bottle"
+      ko: "병"
+    gender: f
+    notes:
+      en: "eine Flasche Wasser = a bottle of water"
+      ko: "eine Flasche Wasser = 물 한 병"
+  - german: "einschenken"
+    translation:
+      en: "to pour (a drink)"
+      ko: "따르다 (음료)"
+    gender: null
+    notes:
+      en: "Separable: Soll ich dir einschenken? = Shall I pour for you?"
+      ko: "분리 동사: Soll ich dir einschenken? = 따라줄까?"
+
+- id: obst_und_gemuese
+  label:
+    en: "Fruits and Vegetables (Obst/Gemüse)"
+    ko: "과일과 채소 (Obst/Gemüse)"
+  type: vocabulary
+  words:
+  - german: "das Obst"
+    translation:
+      en: "fruit (collective)"
+      ko: "과일 (총칭)"
+    gender: n
+    notes:
+      en: "der Obstladen = fruit shop"
+      ko: "der Obstladen = 과일 가게"
+  - german: "das Gemüse"
+    translation:
+      en: "vegetables (collective)"
+      ko: "채소 (총칭)"
+    gender: n
+    notes:
+      en: "der Gemüsehändler = vegetable vendor"
+      ko: "der Gemüsehändler = 채소 상인"
+  - german: "der Apfel, Äpfel"
+    translation:
+      en: "apple"
+      ko: "사과"
+    gender: m
+    notes:
+      en: "der Apfelkuchen = apple cake"
+      ko: "der Apfelkuchen = 사과 케이크"
+  - german: "die Banane, -n"
+    translation:
+      en: "banana"
+      ko: "바나나"
+    gender: f
+    notes:
+      en: "die Bananenschale = banana peel"
+      ko: "die Bananenschale = 바나나 껍질"
+  - german: "die Orange, -n"
+    translation:
+      en: "orange"
+      ko: "오렌지"
+    gender: f
+    notes:
+      en: "Also 'die Apfelsine' in northern Germany"
+      ko: "북부 독일에서는 'die Apfelsine'이라고도 함"
+  - german: "die Erdbeere, -n"
+    translation:
+      en: "strawberry"
+      ko: "딸기"
+    gender: f
+    notes:
+      en: "das Erdbeereis = strawberry ice cream"
+      ko: "das Erdbeereis = 딸기 아이스크림"
+  - german: "die Tomate, -n"
+    translation:
+      en: "tomato"
+      ko: "토마토"
+    gender: f
+    notes:
+      en: "die Tomatensoße = tomato sauce"
+      ko: "die Tomatensoße = 토마토 소스"
+  - german: "die Gurke, -n"
+    translation:
+      en: "cucumber"
+      ko: "오이"
+    gender: f
+    notes:
+      en: "die Essiggurke = pickle"
+      ko: "die Essiggurke = 피클"
+  - german: "die Zwiebel, -n"
+    translation:
+      en: "onion"
+      ko: "양파"
+    gender: f
+    notes:
+      en: "die Zwiebelsuppe = onion soup"
+      ko: "die Zwiebelsuppe = 양파 수프"
+  - german: "der Knoblauch"
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: m
+    notes:
+      en: "die Knoblauchzehe = clove of garlic"
+      ko: "die Knoblauchzehe = 마늘 한 쪽"
+  - german: "die Paprika, -s"
+    translation:
+      en: "bell pepper"
+      ko: "파프리카"
+    gender: f
+    notes:
+      en: "rote/gelbe/grüne Paprika = red/yellow/green pepper"
+      ko: "rote/gelbe/grüne Paprika = 빨강/노랑/초록 파프리카"
+  - german: "die Karotte, -n"
+    translation:
+      en: "carrot"
+      ko: "당근"
+    gender: f
+    notes:
+      en: "Also 'die Möhre' in northern Germany"
+      ko: "북부 독일에서는 'die Möhre'라고도 함"
+  - german: "der Pilz, -e"
+    translation:
+      en: "mushroom"
+      ko: "버섯"
+    gender: m
+    notes:
+      en: "der Champignon = button mushroom"
+      ko: "der Champignon = 양송이버섯"
+  - german: "der Kohl, -e"
+    translation:
+      en: "cabbage"
+      ko: "양배추"
+    gender: m
+    notes:
+      en: "der Rotkohl = red cabbage; der Weißkohl = white cabbage"
+      ko: "der Rotkohl = 적양배추; der Weißkohl = 양배추"
+  - german: "der Spargel, -"
+    translation:
+      en: "asparagus"
+      ko: "아스파라거스"
+    gender: m
+    notes:
+      en: "die Spargelzeit = asparagus season (spring); white asparagus is a German favorite"
+      ko: "die Spargelzeit = 아스파라거스 시즌 (봄); 화이트 아스파라거스는 독일인이 좋아함"
+  - german: "die Zitrone, -n"
+    translation:
+      en: "lemon"
+      ko: "레몬"
+    gender: f
+    notes:
+      en: "der Zitronensaft = lemon juice"
+      ko: "der Zitronensaft = 레몬즙"
+  - german: "die Kirsche, -n"
+    translation:
+      en: "cherry"
+      ko: "체리"
+    gender: f
+    notes:
+      en: "die Schwarzwälder Kirschtorte = Black Forest cherry cake"
+      ko: "die Schwarzwälder Kirschtorte = 블랙 포레스트 체리 케이크"
+  - german: "die Birne, -n"
+    translation:
+      en: "pear"
+      ko: "배"
+    gender: f
+    notes:
+      en: "Also means 'light bulb' colloquially"
+      ko: "구어에서 '전구'를 의미하기도 함"
+  - german: "die Weintraube, -n"
+    translation:
+      en: "grape"
+      ko: "포도"
+    gender: f
+    notes:
+      en: "der Weinberg = vineyard"
+      ko: "der Weinberg = 포도밭"
+  - german: "der Salat, -e"
+    translation:
+      en: "lettuce / salad"
+      ko: "상추 / 샐러드"
+    gender: m
+    notes:
+      en: "der Kopfsalat = head of lettuce"
+      ko: "der Kopfsalat = 양상추"
+  - german: "der Lauch"
+    translation:
+      en: "leek"
+      ko: "리크 / 대파"
+    gender: m
+    notes:
+      en: "die Lauchsuppe = leek soup"
+      ko: "die Lauchsuppe = 리크 수프"
+  - german: "die Aubergine, -n"
+    translation:
+      en: "eggplant / aubergine"
+      ko: "가지"
+    gender: f
+    notes:
+      en: "Common in Mediterranean-style German dishes"
+      ko: "지중해식 독일 요리에서 흔함"
+  - german: "die Zucchini, -"
+    translation:
+      en: "zucchini"
+      ko: "주키니 호박"
+    gender: f
+    notes:
+      en: "Italian loanword; popular summer vegetable"
+      ko: "이탈리아어 차용어; 인기 있는 여름 채소"

@@ -1,0 +1,1050 @@
+lesson: "sup_B1_Housing_and_Real_Estate"
+lesson_number: 149
+cefr: B1
+type: supplementary
+topic: "Housing and Real Estate"
+categories:
+- id: property_types
+  label:
+    en: "Property Types"
+    ko: "부동산 유형"
+  type: vocabulary
+  words:
+  - spanish: "la vivienda"
+    translation:
+      en: "housing / dwelling"
+      ko: "주거 / 주택"
+    gender: f
+  - spanish: "el piso"
+    translation:
+      en: "apartment / flat"
+      ko: "아파트"
+    gender: m
+    notes:
+      en: "In Latin America: el apartamento or el departamento"
+      ko: "라틴아메리카: el apartamento 또는 el departamento"
+  - spanish: "el apartamento"
+    translation:
+      en: "apartment"
+      ko: "아파트"
+    gender: m
+  - spanish: "la casa"
+    translation:
+      en: "house"
+      ko: "집"
+    gender: f
+  - spanish: "el chalet"
+    translation:
+      en: "detached house / villa"
+      ko: "단독 주택 / 빌라"
+    gender: m
+  - spanish: "el adosado"
+    translation:
+      en: "townhouse / terraced house"
+      ko: "타운하우스 / 연립주택"
+    gender: m
+  - spanish: "el dúplex"
+    translation:
+      en: "duplex"
+      ko: "복층 아파트"
+    gender: m
+  - spanish: "el ático"
+    translation:
+      en: "penthouse / attic apartment"
+      ko: "펜트하우스 / 꼭대기 층"
+    gender: m
+  - spanish: "el estudio"
+    translation:
+      en: "studio apartment"
+      ko: "원룸"
+    gender: m
+  - spanish: "el loft"
+    translation:
+      en: "loft"
+      ko: "로프트"
+    gender: m
+  - spanish: "la casa rural"
+    translation:
+      en: "country house"
+      ko: "시골집"
+    gender: f
+  - spanish: "la finca"
+    translation:
+      en: "estate / farm property"
+      ko: "사유지 / 농장"
+    gender: f
+  - spanish: "el edificio"
+    translation:
+      en: "building"
+      ko: "건물"
+    gender: m
+  - spanish: "el bloque de pisos"
+    translation:
+      en: "apartment block"
+      ko: "아파트 단지"
+    gender: m
+  - spanish: "la urbanización"
+    translation:
+      en: "housing development / subdivision"
+      ko: "주택 단지"
+    gender: f
+  - spanish: "la parcela"
+    translation:
+      en: "plot (of land)"
+      ko: "토지 / 부지"
+    gender: f
+  - spanish: "el terreno"
+    translation:
+      en: "land / terrain"
+      ko: "땅 / 부지"
+    gender: m
+  - spanish: "el local comercial"
+    translation:
+      en: "commercial premises"
+      ko: "상가"
+    gender: m
+  - spanish: "la oficina"
+    translation:
+      en: "office (space)"
+      ko: "사무실"
+    gender: f
+  - spanish: "el garaje"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: m
+  - spanish: "el trastero"
+    translation:
+      en: "storage room"
+      ko: "창고"
+    gender: m
+- id: house_features
+  label:
+    en: "House Features"
+    ko: "주택 특징"
+  type: vocabulary
+  words:
+  - spanish: "la habitación"
+    translation:
+      en: "room / bedroom"
+      ko: "방 / 침실"
+    gender: f
+  - spanish: "el dormitorio"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: m
+  - spanish: "el salón"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: m
+    notes:
+      en: "In Latin America: la sala"
+      ko: "라틴아메리카: la sala"
+  - spanish: "la cocina"
+    translation:
+      en: "kitchen"
+      ko: "주방"
+    gender: f
+  - spanish: "el baño"
+    translation:
+      en: "bathroom"
+      ko: "화장실"
+    gender: m
+  - spanish: "el pasillo"
+    translation:
+      en: "hallway / corridor"
+      ko: "복도"
+    gender: m
+  - spanish: "el balcón"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+  - spanish: "la terraza"
+    translation:
+      en: "terrace / patio"
+      ko: "테라스"
+    gender: f
+  - spanish: "el jardín"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+  - spanish: "el patio"
+    translation:
+      en: "patio / courtyard"
+      ko: "안뜰"
+    gender: m
+  - spanish: "el sótano"
+    translation:
+      en: "basement"
+      ko: "지하실"
+    gender: m
+  - spanish: "la buhardilla"
+    translation:
+      en: "attic"
+      ko: "다락방"
+    gender: f
+  - spanish: "la planta baja"
+    translation:
+      en: "ground floor"
+      ko: "1층"
+    gender: f
+  - spanish: "el ascensor"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+  - spanish: "la escalera"
+    translation:
+      en: "stairs / staircase"
+      ko: "계단"
+    gender: f
+  - spanish: "el portal"
+    translation:
+      en: "entrance / lobby"
+      ko: "건물 입구 / 로비"
+    gender: m
+  - spanish: "el tejado"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: m
+  - spanish: "la fachada"
+    translation:
+      en: "facade / front"
+      ko: "건물 외벽 / 정면"
+    gender: f
+  - spanish: "la ventana"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+  - spanish: "la puerta"
+    translation:
+      en: "door"
+      ko: "문"
+    gender: f
+  - spanish: "el suelo"
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: m
+  - spanish: "la pared"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: f
+  - spanish: "el techo"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: m
+  - spanish: "la superficie"
+    translation:
+      en: "surface area / square footage"
+      ko: "면적"
+    gender: f
+  - spanish: "los metros cuadrados"
+    translation:
+      en: "square meters"
+      ko: "제곱미터"
+    gender: m
+  - spanish: "amueblado"
+    translation:
+      en: "furnished"
+      ko: "가구 비치"
+    gender: null
+  - spanish: "sin amueblar"
+    translation:
+      en: "unfurnished"
+      ko: "가구 미비치"
+    gender: null
+  - spanish: "la calefacción central"
+    translation:
+      en: "central heating"
+      ko: "중앙 난방"
+    gender: f
+  - spanish: "el aire acondicionado"
+    translation:
+      en: "air conditioning"
+      ko: "에어컨"
+    gender: m
+  - spanish: "exterior"
+    translation:
+      en: "exterior-facing (with natural light)"
+      ko: "채광이 좋은 (외향)"
+    gender: null
+    notes:
+      en: "Piso exterior = apartment with windows facing outside"
+      ko: "Piso exterior = 바깥을 향한 창문이 있는 아파트"
+  - spanish: "interior"
+    translation:
+      en: "interior-facing"
+      ko: "내향 (채광 적은)"
+    gender: null
+- id: renting
+  label:
+    en: "Renting"
+    ko: "임대"
+  type: vocabulary
+  words:
+  - spanish: "el alquiler"
+    translation:
+      en: "rent / rental"
+      ko: "임대 / 월세"
+    gender: m
+  - spanish: "alquilar"
+    translation:
+      en: "to rent"
+      ko: "임대하다"
+    gender: null
+  - spanish: "el inquilino"
+    translation:
+      en: "tenant"
+      ko: "세입자"
+    gender: m
+    notes:
+      en: "la inquilina for female"
+      ko: "여성형은 la inquilina"
+  - spanish: "el propietario"
+    translation:
+      en: "owner / landlord"
+      ko: "집주인"
+    gender: m
+    notes:
+      en: "la propietaria for female"
+      ko: "여성형은 la propietaria"
+  - spanish: "el casero"
+    translation:
+      en: "landlord (informal)"
+      ko: "집주인 (구어)"
+    gender: m
+    notes:
+      en: "la casera for female"
+      ko: "여성형은 la casera"
+  - spanish: "el contrato de alquiler"
+    translation:
+      en: "lease / rental agreement"
+      ko: "임대 계약"
+    gender: m
+  - spanish: "la fianza"
+    translation:
+      en: "deposit / security deposit"
+      ko: "보증금"
+    gender: f
+  - spanish: "la mensualidad"
+    translation:
+      en: "monthly payment / rent"
+      ko: "월 납입금 / 월세"
+    gender: f
+  - spanish: "los gastos de comunidad"
+    translation:
+      en: "building maintenance fees"
+      ko: "관리비"
+    gender: m
+    notes:
+      en: "Common costs shared by all residents"
+      ko: "건물 주민이 공유하는 공동 비용"
+  - spanish: "los suministros"
+    translation:
+      en: "utilities"
+      ko: "공과금"
+    gender: m
+  - spanish: "el recibo de la luz"
+    translation:
+      en: "electricity bill"
+      ko: "전기 요금"
+    gender: m
+  - spanish: "el recibo del agua"
+    translation:
+      en: "water bill"
+      ko: "수도 요금"
+    gender: m
+  - spanish: "el recibo del gas"
+    translation:
+      en: "gas bill"
+      ko: "가스 요금"
+    gender: m
+  - spanish: "compartir piso"
+    translation:
+      en: "to share an apartment"
+      ko: "하우스 셰어하다"
+    gender: null
+  - spanish: "el compañero de piso"
+    translation:
+      en: "roommate / flatmate"
+      ko: "룸메이트"
+    gender: m
+    notes:
+      en: "In Latin America: el compañero de cuarto"
+      ko: "라틴아메리카: el compañero de cuarto"
+  - spanish: "renovar el contrato"
+    translation:
+      en: "to renew the lease"
+      ko: "계약을 갱신하다"
+    gender: null
+  - spanish: "rescindir el contrato"
+    translation:
+      en: "to terminate the lease"
+      ko: "계약을 해지하다"
+    gender: null
+  - spanish: "el desahucio"
+    translation:
+      en: "eviction"
+      ko: "퇴거"
+    gender: m
+  - spanish: "la subida del alquiler"
+    translation:
+      en: "rent increase"
+      ko: "월세 인상"
+    gender: f
+- id: buying
+  label:
+    en: "Buying"
+    ko: "매매"
+  type: vocabulary
+  words:
+  - spanish: "comprar"
+    translation:
+      en: "to buy"
+      ko: "구매하다"
+    gender: null
+  - spanish: "vender"
+    translation:
+      en: "to sell"
+      ko: "판매하다"
+    gender: null
+  - spanish: "la compraventa"
+    translation:
+      en: "buying and selling / transaction"
+      ko: "매매"
+    gender: f
+  - spanish: "la hipoteca"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: f
+  - spanish: "la entrada"
+    translation:
+      en: "down payment"
+      ko: "계약금"
+    gender: f
+  - spanish: "la escritura"
+    translation:
+      en: "deed / title"
+      ko: "등기"
+    gender: f
+  - spanish: "el notario"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: m
+    notes:
+      en: "la notaria for female"
+      ko: "여성형은 la notaria"
+  - spanish: "el registro de la propiedad"
+    translation:
+      en: "property registry"
+      ko: "부동산 등기소"
+    gender: m
+  - spanish: "la inmobiliaria"
+    translation:
+      en: "real estate agency"
+      ko: "부동산 중개 업체"
+    gender: f
+  - spanish: "el agente inmobiliario"
+    translation:
+      en: "real estate agent"
+      ko: "부동산 중개인"
+    gender: m
+  - spanish: "la tasación"
+    translation:
+      en: "appraisal / valuation"
+      ko: "감정 평가"
+    gender: f
+  - spanish: "el precio de venta"
+    translation:
+      en: "selling price"
+      ko: "매매 가격"
+    gender: m
+  - spanish: "la oferta"
+    translation:
+      en: "offer"
+      ko: "제안 / 오퍼"
+    gender: f
+  - spanish: "la negociación"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+  - spanish: "el contrato de arras"
+    translation:
+      en: "deposit contract / earnest money agreement"
+      ko: "계약금 계약"
+    gender: m
+    notes:
+      en: "Preliminary contract with deposit in Spain"
+      ko: "스페인에서 보증금을 포함한 예비 계약"
+  - spanish: "los impuestos"
+    translation:
+      en: "taxes"
+      ko: "세금"
+    gender: m
+  - spanish: "el IBI"
+    translation:
+      en: "property tax"
+      ko: "재산세"
+    gender: m
+    notes:
+      en: "Impuesto sobre Bienes Inmuebles"
+      ko: "Impuesto sobre Bienes Inmuebles의 약어"
+  - spanish: "la plusvalía"
+    translation:
+      en: "capital gains (property)"
+      ko: "양도 차익"
+    gender: f
+  - spanish: "la vivienda de protección oficial"
+    translation:
+      en: "public / subsidized housing"
+      ko: "공공 임대 주택"
+    gender: f
+    notes:
+      en: "Abbreviation: VPO"
+      ko: "약어: VPO"
+  - spanish: "la segunda mano"
+    translation:
+      en: "secondhand / pre-owned"
+      ko: "중고"
+    gender: f
+  - spanish: "la obra nueva"
+    translation:
+      en: "new construction"
+      ko: "신축"
+    gender: f
+- id: home_improvement
+  label:
+    en: "Home Improvement"
+    ko: "주택 개선"
+  type: vocabulary
+  words:
+  - spanish: "la reforma"
+    translation:
+      en: "renovation / remodeling"
+      ko: "리모델링 / 보수 공사"
+    gender: f
+  - spanish: "reformar"
+    translation:
+      en: "to renovate / to remodel"
+      ko: "리모델링하다"
+    gender: null
+  - spanish: "la obra"
+    translation:
+      en: "construction work"
+      ko: "공사"
+    gender: f
+  - spanish: "el albañil"
+    translation:
+      en: "bricklayer / mason"
+      ko: "미장공"
+    gender: m
+  - spanish: "el fontanero"
+    translation:
+      en: "plumber"
+      ko: "배관공"
+    gender: m
+    notes:
+      en: "In Latin America: el plomero"
+      ko: "라틴아메리카: el plomero"
+  - spanish: "el electricista"
+    translation:
+      en: "electrician"
+      ko: "전기 기사"
+    gender: m
+  - spanish: "el pintor"
+    translation:
+      en: "painter"
+      ko: "도장공"
+    gender: m
+  - spanish: "pintar"
+    translation:
+      en: "to paint"
+      ko: "페인트칠하다"
+    gender: null
+  - spanish: "la pintura"
+    translation:
+      en: "paint"
+      ko: "페인트"
+    gender: f
+  - spanish: "el azulejo"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: m
+  - spanish: "el parqué"
+    translation:
+      en: "parquet / hardwood floor"
+      ko: "마룻바닥"
+    gender: m
+  - spanish: "la tubería"
+    translation:
+      en: "pipe / plumbing"
+      ko: "배관"
+    gender: f
+  - spanish: "la instalación eléctrica"
+    translation:
+      en: "electrical wiring"
+      ko: "전기 배선"
+    gender: f
+  - spanish: "la avería"
+    translation:
+      en: "breakdown / malfunction"
+      ko: "고장"
+    gender: f
+  - spanish: "la gotera"
+    translation:
+      en: "leak (roof)"
+      ko: "누수"
+    gender: f
+  - spanish: "la humedad"
+    translation:
+      en: "dampness / moisture"
+      ko: "습기"
+    gender: f
+  - spanish: "aislar"
+    translation:
+      en: "to insulate"
+      ko: "단열하다"
+    gender: null
+  - spanish: "el aislamiento"
+    translation:
+      en: "insulation"
+      ko: "단열재"
+    gender: m
+  - spanish: "la persiana"
+    translation:
+      en: "blinds / shutters"
+      ko: "블라인드 / 셔터"
+    gender: f
+  - spanish: "la cerradura"
+    translation:
+      en: "lock"
+      ko: "자물쇠"
+    gender: f
+  - spanish: "el enchufe"
+    translation:
+      en: "electrical outlet / plug"
+      ko: "콘센트"
+    gender: m
+  - spanish: "el interruptor"
+    translation:
+      en: "switch (light)"
+      ko: "스위치"
+    gender: m
+  - spanish: "el grifo"
+    translation:
+      en: "faucet / tap"
+      ko: "수도꼭지"
+    gender: m
+    notes:
+      en: "In Latin America: la llave, el caño, la canilla"
+      ko: "라틴아메리카: la llave, el caño, la canilla"
+  - spanish: "la mudanza"
+    translation:
+      en: "move / relocation"
+      ko: "이사"
+    gender: f
+  - spanish: "mudarse"
+    translation:
+      en: "to move (house)"
+      ko: "이사하다"
+    gender: null
+  - spanish: "la empresa de mudanzas"
+    translation:
+      en: "moving company"
+      ko: "이사 업체"
+    gender: f
+  - spanish: "embalar"
+    translation:
+      en: "to pack (boxes)"
+      ko: "포장하다"
+    gender: null
+  - spanish: "desembalar"
+    translation:
+      en: "to unpack"
+      ko: "짐을 풀다"
+    gender: null
+  - spanish: "la caja de cartón"
+    translation:
+      en: "cardboard box"
+      ko: "골판지 상자"
+    gender: f
+  - spanish: "el presupuesto de reforma"
+    translation:
+      en: "renovation estimate"
+      ko: "리모델링 견적"
+    gender: m
+  - spanish: "el permiso de obra"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: m
+  - spanish: "el certificado energético"
+    translation:
+      en: "energy certificate"
+      ko: "에너지 인증서"
+    gender: m
+    notes:
+      en: "Required for selling or renting in Spain"
+      ko: "스페인에서 매매 또는 임대 시 필수"
+  - spanish: "la hipoteca a tipo fijo"
+    translation:
+      en: "fixed-rate mortgage"
+      ko: "고정 금리 대출"
+    gender: f
+  - spanish: "la hipoteca a tipo variable"
+    translation:
+      en: "variable-rate mortgage"
+      ko: "변동 금리 대출"
+    gender: f
+  - spanish: "el euríbor"
+    translation:
+      en: "Euribor (reference rate)"
+      ko: "유리보 (기준금리)"
+    gender: m
+    notes:
+      en: "Key interest rate for mortgages in Spain"
+      ko: "스페인 주택 담보 대출의 기준금리"
+  - spanish: "la comunidad de propietarios"
+    translation:
+      en: "homeowners' association"
+      ko: "입주자 대표 회의"
+    gender: f
+  - spanish: "el presidente de la comunidad"
+    translation:
+      en: "president of homeowners' association"
+      ko: "대표 회의 의장"
+    gender: m
+  - spanish: "la junta de vecinos"
+    translation:
+      en: "residents' meeting"
+      ko: "주민 회의"
+    gender: f
+  - spanish: "el vecino"
+    translation:
+      en: "neighbor"
+      ko: "이웃"
+    gender: m
+    notes:
+      en: "la vecina for female"
+      ko: "여성형은 la vecina"
+  - spanish: "la convivencia"
+    translation:
+      en: "coexistence / living together"
+      ko: "공동생활"
+    gender: f
+  - spanish: "el ruido"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: m
+  - spanish: "las normas de convivencia"
+    translation:
+      en: "community rules"
+      ko: "공동생활 규칙"
+    gender: f
+  - spanish: "la caldera"
+    translation:
+      en: "boiler"
+      ko: "보일러"
+    gender: f
+  - spanish: "el radiador"
+    translation:
+      en: "radiator"
+      ko: "라디에이터"
+    gender: m
+  - spanish: "el termo"
+    translation:
+      en: "water heater"
+      ko: "온수기"
+    gender: m
+  - spanish: "la cisterna"
+    translation:
+      en: "toilet tank / cistern"
+      ko: "변기 물탱크"
+    gender: f
+  - spanish: "el inodoro"
+    translation:
+      en: "toilet"
+      ko: "변기"
+    gender: m
+  - spanish: "el lavabo"
+    translation:
+      en: "bathroom sink"
+      ko: "세면대"
+    gender: m
+  - spanish: "la bañera"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: f
+  - spanish: "la ducha"
+    translation:
+      en: "shower"
+      ko: "샤워기"
+    gender: f
+  - spanish: "el armario empotrado"
+    translation:
+      en: "built-in closet"
+      ko: "붙박이 옷장"
+    gender: m
+  - spanish: "la estantería"
+    translation:
+      en: "shelving / bookcase"
+      ko: "선반 / 책장"
+    gender: f
+  - spanish: "la cortina"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: f
+  - spanish: "la alfombra"
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 양탄자"
+    gender: f
+  - spanish: "el espejo"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+  - spanish: "el felpudo"
+    translation:
+      en: "doormat"
+      ko: "현관 매트"
+    gender: m
+  - spanish: "el buzón"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: m
+  - spanish: "el portero automático"
+    translation:
+      en: "intercom / buzzer"
+      ko: "인터폰"
+    gender: m
+  - spanish: "la alarma"
+    translation:
+      en: "alarm system"
+      ko: "경보 장치"
+    gender: f
+  - spanish: "el detector de humo"
+    translation:
+      en: "smoke detector"
+      ko: "연기 감지기"
+    gender: m
+  - spanish: "el extintor"
+    translation:
+      en: "fire extinguisher"
+      ko: "소화기"
+    gender: m
+  - spanish: "la orientación"
+    translation:
+      en: "orientation / facing"
+      ko: "방향 / 향"
+    gender: f
+    notes:
+      en: "Piso con orientación sur = south-facing apartment"
+      ko: "남향 아파트 = piso con orientación sur"
+  - spanish: "luminoso"
+    translation:
+      en: "bright / well-lit"
+      ko: "밝은 / 채광 좋은"
+    gender: null
+  - spanish: "espacioso"
+    translation:
+      en: "spacious"
+      ko: "넓은"
+    gender: null
+  - spanish: "acogedor"
+    translation:
+      en: "cozy / welcoming"
+      ko: "아늑한"
+    gender: null
+  - spanish: "reformado"
+    translation:
+      en: "renovated"
+      ko: "리모델링된"
+    gender: null
+  - spanish: "a estrenar"
+    translation:
+      en: "brand new"
+      ko: "신축의"
+    gender: null
+  - spanish: "para reformar"
+    translation:
+      en: "needs renovation"
+      ko: "리모델링 필요"
+    gender: null
+  - spanish: "céntrico"
+    translation:
+      en: "centrally located"
+      ko: "도심에 위치한"
+    gender: null
+  - spanish: "bien comunicado"
+    translation:
+      en: "well-connected (transport)"
+      ko: "교통이 편리한"
+    gender: null
+  - spanish: "tranquilo"
+    translation:
+      en: "quiet / peaceful"
+      ko: "조용한"
+    gender: null
+  - spanish: "el barrio"
+    translation:
+      en: "neighborhood"
+      ko: "동네"
+    gender: m
+  - spanish: "las afueras"
+    translation:
+      en: "outskirts / suburbs"
+      ko: "교외"
+    gender: f
+  - spanish: "el centro"
+    translation:
+      en: "downtown / city center"
+      ko: "도심"
+    gender: m
+  - spanish: "el casco antiguo"
+    translation:
+      en: "old town"
+      ko: "구시가지"
+    gender: m
+  - spanish: "la zona residencial"
+    translation:
+      en: "residential area"
+      ko: "주거 지역"
+    gender: f
+  - spanish: "la zona comercial"
+    translation:
+      en: "commercial area"
+      ko: "상업 지역"
+    gender: f
+  - spanish: "el portal inmobiliario"
+    translation:
+      en: "real estate website"
+      ko: "부동산 웹사이트"
+    gender: m
+    notes:
+      en: "E.g., Idealista, Fotocasa in Spain"
+      ko: "예: Idealista, Fotocasa (스페인)"
+  - spanish: "la visita al piso"
+    translation:
+      en: "apartment viewing"
+      ko: "집 방문 / 매물 방문"
+    gender: f
+  - spanish: "la cédula de habitabilidad"
+    translation:
+      en: "habitability certificate"
+      ko: "거주 적합 증명서"
+    gender: f
+    notes:
+      en: "Required for renting/selling in some regions of Spain"
+      ko: "스페인 일부 지역에서 임대/매매 시 필수"
+  - spanish: "el seguro del hogar"
+    translation:
+      en: "home insurance"
+      ko: "주택 보험"
+    gender: m
+  - spanish: "la derrama"
+    translation:
+      en: "special assessment fee (building)"
+      ko: "건물 특별 분담금"
+    gender: f
+    notes:
+      en: "Extra payment for community repairs/improvements"
+      ko: "공동 수리/개선을 위한 추가 납부금"
+  - spanish: "el catastro"
+    translation:
+      en: "land registry / cadastre"
+      ko: "지적"
+    gender: m
+  - spanish: "la referencia catastral"
+    translation:
+      en: "cadastral reference number"
+      ko: "지적 참조 번호"
+    gender: f
+  - spanish: "el piso piloto"
+    translation:
+      en: "show flat / model apartment"
+      ko: "모델 하우스"
+    gender: m
+  - spanish: "la cocina americana"
+    translation:
+      en: "open-plan kitchen"
+      ko: "개방형 주방"
+    gender: f
+    notes:
+      en: "Kitchen open to the living room"
+      ko: "거실과 연결된 개방형 주방"
+  - spanish: "la domótica"
+    translation:
+      en: "home automation / smart home"
+      ko: "홈 오토메이션 / 스마트 홈"
+    gender: f
+  - spanish: "la eficiencia energética"
+    translation:
+      en: "energy efficiency"
+      ko: "에너지 효율"
+    gender: f
+  - spanish: "la rehabilitación de edificios"
+    translation:
+      en: "building rehabilitation"
+      ko: "건물 재건"
+    gender: f
+  - spanish: "el inquilino moroso"
+    translation:
+      en: "delinquent tenant"
+      ko: "체납 세입자"
+    gender: m
+  - spanish: "el alquiler vacacional"
+    translation:
+      en: "vacation rental"
+      ko: "단기 임대 / 휴가 임대"
+    gender: m
+  - spanish: "el coliving"
+    translation:
+      en: "co-living"
+      ko: "코리빙"
+    gender: m
+    notes:
+      en: "Shared living arrangement with private rooms"
+      ko: "개별 방과 공유 공간으로 구성된 공동 생활"
+  - spanish: "el coworking"
+    translation:
+      en: "co-working space"
+      ko: "코워킹 스페이스"
+    gender: m
+  - spanish: "la vivienda unifamiliar"
+    translation:
+      en: "single-family home"
+      ko: "단독 주택"
+    gender: f
+  - spanish: "la vivienda social"
+    translation:
+      en: "social housing"
+      ko: "사회 주택"
+    gender: f
+  - spanish: "el promotor inmobiliario"
+    translation:
+      en: "real estate developer"
+      ko: "부동산 개발업자"
+    gender: m
+  - spanish: "la especulación inmobiliaria"
+    translation:
+      en: "real estate speculation"
+      ko: "부동산 투기"
+    gender: f

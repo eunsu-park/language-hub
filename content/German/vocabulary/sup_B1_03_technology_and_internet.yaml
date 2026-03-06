@@ -1,0 +1,1441 @@
+lesson: "sup_B1_Technology_and_Internet"
+lesson_number: 143
+cefr: B1
+type: supplementary
+topic: "Technology and Internet"
+categories:
+- id: geraete
+  label:
+    en: "Devices (Geräte)"
+    ko: "기기 (Geräte)"
+  type: vocabulary
+  words:
+  - german: "das Smartphone, -s"
+    translation:
+      en: "smartphone"
+      ko: "스마트폰"
+    gender: n
+    notes:
+      en: "das Handy = cell phone (German pseudo-anglicism)"
+      ko: "das Handy = 휴대폰 (독일식 영어 차용어)"
+  - german: "der Laptop, -s"
+    translation:
+      en: "laptop"
+      ko: "노트북 / 랩톱"
+    gender: m
+    notes:
+      en: "Also called das Notebook in German"
+      ko: "독일어에서 das Notebook이라고도 함"
+  - german: "das Tablet, -s"
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: n
+    notes:
+      en: "auf dem Tablet lesen = to read on the tablet"
+      ko: "auf dem Tablet lesen = 태블릿으로 읽다"
+  - german: "der Server, -"
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: m
+    notes:
+      en: "der Cloud-Server = cloud server"
+      ko: "der Cloud-Server = 클라우드 서버"
+  - german: "der USB-Stick, -s"
+    translation:
+      en: "USB drive / flash drive"
+      ko: "USB 드라이브"
+    gender: m
+    notes:
+      en: "Daten auf einen USB-Stick kopieren = to copy data to a USB"
+      ko: "Daten auf einen USB-Stick kopieren = USB에 데이터를 복사하다"
+  - german: "die Festplatte, -n"
+    translation:
+      en: "hard drive"
+      ko: "하드 드라이브"
+    gender: f
+    notes:
+      en: "die externe Festplatte = external hard drive"
+      ko: "die externe Festplatte = 외장 하드"
+  - german: "der Prozessor, -en"
+    translation:
+      en: "processor / CPU"
+      ko: "프로세서 / CPU"
+    gender: m
+    notes:
+      en: "ein schneller Prozessor = a fast processor"
+      ko: "ein schneller Prozessor = 빠른 프로세서"
+  - german: "der Arbeitsspeicher, -"
+    translation:
+      en: "RAM / memory"
+      ko: "RAM / 메모리"
+    gender: m
+    notes:
+      en: "8 GB Arbeitsspeicher = 8 GB of RAM"
+      ko: "8 GB Arbeitsspeicher = 8 GB RAM"
+  - german: "der Lautsprecher, -"
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: m
+    notes:
+      en: "der Bluetooth-Lautsprecher = Bluetooth speaker"
+      ko: "der Bluetooth-Lautsprecher = 블루투스 스피커"
+  - german: "die Webcam, -s"
+    translation:
+      en: "webcam"
+      ko: "웹캠"
+    gender: f
+    notes:
+      en: "die Webcam einschalten = to turn on the webcam"
+      ko: "die Webcam einschalten = 웹캠을 켜다"
+  - german: "der Kopfhörer, -"
+    translation:
+      en: "headphones"
+      ko: "헤드폰"
+    gender: m
+    notes:
+      en: "kabellose Kopfhörer = wireless headphones"
+      ko: "kabellose Kopfhörer = 무선 헤드폰"
+  - german: "das Ladegerät, -e"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: n
+    notes:
+      en: "das Handy aufladen = to charge the phone"
+      ko: "das Handy aufladen = 핸드폰을 충전하다"
+  - german: "der Bildschirm, -e"
+    translation:
+      en: "screen / display"
+      ko: "화면 / 디스플레이"
+    gender: m
+    notes:
+      en: "der Touchscreen = touchscreen"
+      ko: "der Touchscreen = 터치스크린"
+  - german: "die Tastatur, -en"
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: f
+    notes:
+      en: "die Bildschirmtastatur = on-screen keyboard"
+      ko: "die Bildschirmtastatur = 화면 키보드"
+  - german: "die Smartwatch, -es"
+    translation:
+      en: "smartwatch"
+      ko: "스마트워치"
+    gender: f
+    notes:
+      en: "Schritte zählen = to count steps"
+      ko: "Schritte zählen = 걸음 수를 세다"
+  - german: "der Router, -"
+    translation:
+      en: "router"
+      ko: "라우터"
+    gender: m
+    notes:
+      en: "den Router neu starten = to restart the router"
+      ko: "den Router neu starten = 라우터를 재시작하다"
+  - german: "der Scanner, -"
+    translation:
+      en: "scanner"
+      ko: "스캐너"
+    gender: m
+    notes:
+      en: "ein Dokument scannen = to scan a document"
+      ko: "ein Dokument scannen = 문서를 스캔하다"
+  - german: "die Drohne, -n"
+    translation:
+      en: "drone"
+      ko: "드론"
+    gender: f
+    notes:
+      en: "eine Drohne fliegen lassen = to fly a drone"
+      ko: "eine Drohne fliegen lassen = 드론을 날리다"
+  - german: "der Akku, -s"
+    translation:
+      en: "battery (rechargeable)"
+      ko: "배터리 (충전식)"
+    gender: m
+    notes:
+      en: "der Akku ist leer = the battery is dead"
+      ko: "der Akku ist leer = 배터리가 다 됐다"
+  - german: "das Kabel, -"
+    translation:
+      en: "cable / cord"
+      ko: "케이블 / 전선"
+    gender: n
+    notes:
+      en: "das USB-Kabel = USB cable"
+      ko: "das USB-Kabel = USB 케이블"
+  - german: "der Adapter, -"
+    translation:
+      en: "adapter"
+      ko: "어댑터"
+    gender: m
+    notes:
+      en: "ein Steckdosenadapter = a plug adapter"
+      ko: "ein Steckdosenadapter = 플러그 어댑터"
+  - german: "der Bildschirm, -e"
+    translation:
+      en: "screen / monitor"
+      ko: "화면 / 모니터"
+    gender: m
+    notes:
+      en: "den Bildschirm einschalten = to turn on the screen"
+      ko: "den Bildschirm einschalten = 화면을 켜다"
+  - german: "die Festplatte, -n"
+    translation:
+      en: "hard drive"
+      ko: "하드 드라이브"
+    gender: f
+    notes:
+      en: "die externe Festplatte = external hard drive"
+      ko: "die externe Festplatte = 외장 하드 드라이브"
+  - german: "der USB-Stick, -s"
+    translation:
+      en: "USB stick / flash drive"
+      ko: "USB 메모리"
+    gender: m
+    notes:
+      en: "Daten auf dem USB-Stick speichern"
+      ko: "USB 메모리에 데이터를 저장하다"
+  - german: "die Tastatur, -en"
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: f
+    notes:
+      en: "die kabellose Tastatur = wireless keyboard"
+      ko: "die kabellose Tastatur = 무선 키보드"
+  - german: "der Lautsprecher, -"
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: m
+    notes:
+      en: "die Bluetooth-Lautsprecher = Bluetooth speakers"
+      ko: "die Bluetooth-Lautsprecher = 블루투스 스피커"
+  - german: "das Ladegerät, -e"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: n
+    notes:
+      en: "das kabellose Ladegerät = wireless charger"
+      ko: "das kabellose Ladegerät = 무선 충전기"
+- id: internet_social_media
+  label:
+    en: "Internet and Social Media (Internet/Soziale Medien)"
+    ko: "인터넷과 소셜 미디어 (Internet/Soziale Medien)"
+  type: vocabulary
+  words:
+  - german: "das Internet"
+    translation:
+      en: "internet"
+      ko: "인터넷"
+    gender: n
+    notes:
+      en: "im Internet surfen = to surf the internet"
+      ko: "im Internet surfen = 인터넷을 서핑하다"
+  - german: "die Webseite, -n"
+    translation:
+      en: "website"
+      ko: "웹사이트"
+    gender: f
+    notes:
+      en: "eine Webseite besuchen = to visit a website"
+      ko: "eine Webseite besuchen = 웹사이트를 방문하다"
+  - german: "der Browser, -"
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: m
+    notes:
+      en: "den Browser öffnen = to open the browser"
+      ko: "den Browser öffnen = 브라우저를 열다"
+  - german: "die Suchmaschine, -n"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: f
+    notes:
+      en: "etwas googeln = to google something"
+      ko: "etwas googeln = 구글에서 검색하다"
+  - german: "der Link, -s"
+    translation:
+      en: "link"
+      ko: "링크"
+    gender: m
+    notes:
+      en: "auf einen Link klicken = to click on a link"
+      ko: "auf einen Link klicken = 링크를 클릭하다"
+  - german: "das Profil, -e"
+    translation:
+      en: "profile"
+      ko: "프로필"
+    gender: n
+    notes:
+      en: "das Profil aktualisieren = to update the profile"
+      ko: "das Profil aktualisieren = 프로필을 업데이트하다"
+  - german: "der Beitrag, Beiträge"
+    translation:
+      en: "post / contribution"
+      ko: "게시글"
+    gender: m
+    notes:
+      en: "einen Beitrag posten = to publish a post"
+      ko: "einen Beitrag posten = 게시글을 올리다"
+  - german: "der Follower, -"
+    translation:
+      en: "follower"
+      ko: "팔로워"
+    gender: m
+    notes:
+      en: "jemandem folgen = to follow someone"
+      ko: "jemandem folgen = 누군가를 팔로우하다"
+  - german: "der Hashtag, -s"
+    translation:
+      en: "hashtag"
+      ko: "해시태그"
+    gender: m
+    notes:
+      en: "einen Hashtag verwenden = to use a hashtag"
+      ko: "einen Hashtag verwenden = 해시태그를 사용하다"
+  - german: "das soziale Netzwerk, -e"
+    translation:
+      en: "social network"
+      ko: "소셜 네트워크"
+    gender: n
+    notes:
+      en: "Also: die sozialen Medien = social media"
+      ko: "또한: die sozialen Medien = 소셜 미디어"
+  - german: "der Kommentar, -e"
+    translation:
+      en: "comment"
+      ko: "댓글"
+    gender: m
+    notes:
+      en: "einen Kommentar hinterlassen = to leave a comment"
+      ko: "einen Kommentar hinterlassen = 댓글을 달다"
+  - german: "der Blog, -s"
+    translation:
+      en: "blog"
+      ko: "블로그"
+    gender: m
+    notes:
+      en: "einen Blog schreiben = to write a blog"
+      ko: "einen Blog schreiben = 블로그를 쓰다"
+  - german: "der Podcast, -s"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+    notes:
+      en: "einen Podcast hören = to listen to a podcast"
+      ko: "einen Podcast hören = 팟캐스트를 듣다"
+  - german: "der Livestream, -s"
+    translation:
+      en: "livestream"
+      ko: "라이브 스트림"
+    gender: m
+    notes:
+      en: "einen Livestream starten = to start a livestream"
+      ko: "einen Livestream starten = 라이브 스트림을 시작하다"
+  - german: "der Influencer, -"
+    translation:
+      en: "influencer"
+      ko: "인플루언서"
+    gender: m
+    notes:
+      en: "die Influencerin = female influencer"
+      ko: "die Influencerin = 여성 인플루언서"
+  - german: "die Datenschutzerklärung, -en"
+    translation:
+      en: "privacy policy"
+      ko: "개인정보 보호 정책"
+    gender: f
+    notes:
+      en: "der Datenschutz = data protection/privacy"
+      ko: "der Datenschutz = 개인정보 보호"
+  - german: "der Newsletter, -"
+    translation:
+      en: "newsletter"
+      ko: "뉴스레터"
+    gender: m
+    notes:
+      en: "einen Newsletter abonnieren = to subscribe to a newsletter"
+      ko: "einen Newsletter abonnieren = 뉴스레터를 구독하다"
+  - german: "die Online-Bewertung, -en"
+    translation:
+      en: "online review"
+      ko: "온라인 리뷰"
+    gender: f
+    notes:
+      en: "eine Bewertung schreiben = to write a review"
+      ko: "eine Bewertung schreiben = 리뷰를 쓰다"
+  - german: "der Fake-Account, -s"
+    translation:
+      en: "fake account"
+      ko: "가짜 계정"
+    gender: m
+    notes:
+      en: "Fake-Accounts melden = to report fake accounts"
+      ko: "Fake-Accounts melden = 가짜 계정을 신고하다"
+  - german: "das WLAN"
+    translation:
+      en: "Wi-Fi"
+      ko: "와이파이"
+    gender: n
+    notes:
+      en: "sich mit dem WLAN verbinden = to connect to Wi-Fi"
+      ko: "sich mit dem WLAN verbinden = 와이파이에 연결하다"
+  - german: "der Influencer, -"
+    translation:
+      en: "influencer"
+      ko: "인플루언서"
+    gender: m
+    notes:
+      en: "die Influencerin = female influencer"
+      ko: "die Influencerin = 여성 인플루언서"
+  - german: "die Datenschutzeinstellung, -en"
+    translation:
+      en: "privacy setting"
+      ko: "개인정보 설정"
+    gender: f
+    notes:
+      en: "die Datenschutzeinstellungen anpassen"
+      ko: "개인정보 설정을 조정하다"
+  - german: "der Follower, -"
+    translation:
+      en: "follower"
+      ko: "팔로워"
+    gender: m
+    notes:
+      en: "Follower gewinnen = to gain followers"
+      ko: "Follower gewinnen = 팔로워를 늘리다"
+  - german: "der Hashtag, -s"
+    translation:
+      en: "hashtag"
+      ko: "해시태그"
+    gender: m
+    notes:
+      en: "einen Hashtag verwenden = to use a hashtag"
+      ko: "einen Hashtag verwenden = 해시태그를 사용하다"
+  - german: "die Benachrichtigung, -en"
+    translation:
+      en: "notification"
+      ko: "알림"
+    gender: f
+    notes:
+      en: "Push-Benachrichtigungen = push notifications"
+      ko: "Push-Benachrichtigungen = 푸시 알림"
+  - german: "das Profil, -e"
+    translation:
+      en: "profile"
+      ko: "프로필"
+    gender: n
+    notes:
+      en: "das Profil bearbeiten = to edit the profile"
+      ko: "das Profil bearbeiten = 프로필을 편집하다"
+- id: software
+  label:
+    en: "Software (Software)"
+    ko: "소프트웨어 (Software)"
+  type: vocabulary
+  words:
+  - german: "die App, -s"
+    translation:
+      en: "app / application"
+      ko: "앱 / 애플리케이션"
+    gender: f
+    notes:
+      en: "eine App herunterladen = to download an app"
+      ko: "eine App herunterladen = 앱을 다운로드하다"
+  - german: "das Betriebssystem, -e"
+    translation:
+      en: "operating system"
+      ko: "운영 체제"
+    gender: n
+    notes:
+      en: "Windows, macOS, Linux, Android, iOS"
+      ko: "Windows, macOS, Linux, Android, iOS"
+  - german: "das Programm, -e"
+    translation:
+      en: "program / software"
+      ko: "프로그램 / 소프트웨어"
+    gender: n
+    notes:
+      en: "ein Programm installieren = to install a program"
+      ko: "ein Programm installieren = 프로그램을 설치하다"
+  - german: "das Update, -s"
+    translation:
+      en: "update"
+      ko: "업데이트"
+    gender: n
+    notes:
+      en: "ein Update durchführen = to perform an update"
+      ko: "ein Update durchführen = 업데이트를 실행하다"
+  - german: "der Virus, Viren"
+    translation:
+      en: "virus (computer)"
+      ko: "바이러스 (컴퓨터)"
+    gender: m
+    notes:
+      en: "das Antivirenprogramm = antivirus program"
+      ko: "das Antivirenprogramm = 백신 프로그램"
+  - german: "die Datenbank, -en"
+    translation:
+      en: "database"
+      ko: "데이터베이스"
+    gender: f
+    notes:
+      en: "eine Datenbank abfragen = to query a database"
+      ko: "eine Datenbank abfragen = 데이터베이스를 조회하다"
+  - german: "die Datei, -en"
+    translation:
+      en: "file"
+      ko: "파일"
+    gender: f
+    notes:
+      en: "eine Datei speichern = to save a file"
+      ko: "eine Datei speichern = 파일을 저장하다"
+  - german: "die Cloud, -s"
+    translation:
+      en: "cloud (computing)"
+      ko: "클라우드"
+    gender: f
+    notes:
+      en: "Daten in der Cloud speichern = to store data in the cloud"
+      ko: "Daten in der Cloud speichern = 클라우드에 데이터를 저장하다"
+  - german: "die Firewall, -s"
+    translation:
+      en: "firewall"
+      ko: "방화벽"
+    gender: f
+    notes:
+      en: "die Firewall schützt das Netzwerk = the firewall protects the network"
+      ko: "die Firewall schützt das Netzwerk = 방화벽이 네트워크를 보호한다"
+  - german: "das Passwort, -wörter"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: n
+    notes:
+      en: "ein sicheres Passwort wählen = to choose a secure password"
+      ko: "ein sicheres Passwort wählen = 안전한 비밀번호를 선택하다"
+  - german: "der Algorithmus, Algorithmen"
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: m
+    notes:
+      en: "der Algorithmus empfiehlt Inhalte = the algorithm recommends content"
+      ko: "der Algorithmus empfiehlt Inhalte = 알고리즘이 콘텐츠를 추천한다"
+  - german: "die Schnittstelle, -n"
+    translation:
+      en: "interface"
+      ko: "인터페이스"
+    gender: f
+    notes:
+      en: "die Benutzeroberfläche = user interface (UI)"
+      ko: "die Benutzeroberfläche = 사용자 인터페이스 (UI)"
+  - german: "die Tabellenkalkulation, -en"
+    translation:
+      en: "spreadsheet application"
+      ko: "스프레드시트 프로그램"
+    gender: f
+    notes:
+      en: "z.B. Excel oder Google Sheets"
+      ko: "예: Excel 또는 Google Sheets"
+  - german: "die Textverarbeitung, -en"
+    translation:
+      en: "word processing"
+      ko: "워드프로세싱"
+    gender: f
+    notes:
+      en: "z.B. Microsoft Word"
+      ko: "예: Microsoft Word"
+  - german: "der Speicherplatz"
+    translation:
+      en: "storage space"
+      ko: "저장 공간"
+    gender: m
+    notes:
+      en: "der Speicherplatz ist voll = storage is full"
+      ko: "der Speicherplatz ist voll = 저장 공간이 가득 찼다"
+  - german: "die Verschlüsselung, -en"
+    translation:
+      en: "encryption"
+      ko: "암호화"
+    gender: f
+    notes:
+      en: "die Ende-zu-Ende-Verschlüsselung = end-to-end encryption"
+      ko: "die Ende-zu-Ende-Verschlüsselung = 종단 간 암호화"
+  - german: "das Backup, -s"
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: n
+    notes:
+      en: "ein Backup erstellen = to create a backup"
+      ko: "ein Backup erstellen = 백업을 만들다"
+  - german: "das Betriebssystem, -e"
+    translation:
+      en: "operating system"
+      ko: "운영 체제"
+    gender: n
+    notes:
+      en: "Windows, macOS, Linux"
+      ko: "Windows, macOS, Linux"
+  - german: "die Anwendung, -en"
+    translation:
+      en: "application"
+      ko: "응용 프로그램"
+    gender: f
+    notes:
+      en: "eine Anwendung installieren = to install an application"
+      ko: "eine Anwendung installieren = 응용 프로그램을 설치하다"
+  - german: "das Update, -s"
+    translation:
+      en: "update"
+      ko: "업데이트"
+    gender: n
+    notes:
+      en: "ein Update durchführen = to perform an update"
+      ko: "ein Update durchführen = 업데이트를 실행하다"
+  - german: "der Browser, -"
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: m
+    notes:
+      en: "den Browser öffnen = to open the browser"
+      ko: "den Browser öffnen = 브라우저를 열다"
+  - german: "die Suchmaschine, -n"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: f
+    notes:
+      en: "Google ist die beliebteste Suchmaschine"
+      ko: "구글은 가장 인기 있는 검색 엔진이다"
+  - german: "der Speicherplatz"
+    translation:
+      en: "storage space"
+      ko: "저장 공간"
+    gender: m
+    notes:
+      en: "mehr Speicherplatz brauchen = to need more storage"
+      ko: "mehr Speicherplatz brauchen = 더 많은 저장 공간이 필요하다"
+- id: technikverben
+  label:
+    en: "Technology Verbs (Technikverben)"
+    ko: "기술 동사 (Technikverben)"
+  type: vocabulary
+  words:
+  - german: "herunterladen"
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+    notes:
+      en: "der Download = download (noun)"
+      ko: "der Download = 다운로드 (명사)"
+  - german: "hochladen"
+    translation:
+      en: "to upload"
+      ko: "업로드하다"
+    gender: null
+    notes:
+      en: "ein Foto hochladen = to upload a photo"
+      ko: "ein Foto hochladen = 사진을 업로드하다"
+  - german: "installieren"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+    notes:
+      en: "die Installation = installation"
+      ko: "die Installation = 설치"
+  - german: "deinstallieren"
+    translation:
+      en: "to uninstall"
+      ko: "제거하다"
+    gender: null
+    notes:
+      en: "ein Programm deinstallieren = to uninstall a program"
+      ko: "ein Programm deinstallieren = 프로그램을 제거하다"
+  - german: "aktualisieren"
+    translation:
+      en: "to update / to refresh"
+      ko: "업데이트하다 / 갱신하다"
+    gender: null
+    notes:
+      en: "die Seite aktualisieren = to refresh the page"
+      ko: "die Seite aktualisieren = 페이지를 새로 고침하다"
+  - german: "speichern"
+    translation:
+      en: "to save / to store"
+      ko: "저장하다"
+    gender: null
+    notes:
+      en: "Strg+S = shortcut to save"
+      ko: "Strg+S = 저장 단축키"
+  - german: "löschen"
+    translation:
+      en: "to delete"
+      ko: "삭제하다"
+    gender: null
+    notes:
+      en: "eine Datei löschen = to delete a file"
+      ko: "eine Datei löschen = 파일을 삭제하다"
+  - german: "kopieren"
+    translation:
+      en: "to copy"
+      ko: "복사하다"
+    gender: null
+    notes:
+      en: "kopieren und einfügen = copy and paste"
+      ko: "kopieren und einfügen = 복사해서 붙여넣기"
+  - german: "einfügen"
+    translation:
+      en: "to paste / to insert"
+      ko: "붙여넣다 / 삽입하다"
+    gender: null
+    notes:
+      en: "Strg+V = shortcut to paste"
+      ko: "Strg+V = 붙여넣기 단축키"
+  - german: "drucken"
+    translation:
+      en: "to print"
+      ko: "인쇄하다"
+    gender: null
+    notes:
+      en: "ein Dokument drucken = to print a document"
+      ko: "ein Dokument drucken = 문서를 인쇄하다"
+  - german: "streamen"
+    translation:
+      en: "to stream"
+      ko: "스트리밍하다"
+    gender: null
+    notes:
+      en: "einen Film streamen = to stream a movie"
+      ko: "einen Film streamen = 영화를 스트리밍하다"
+  - german: "vernetzen"
+    translation:
+      en: "to network / to connect"
+      ko: "네트워크로 연결하다"
+    gender: null
+    notes:
+      en: "vernetzte Geräte = networked devices"
+      ko: "vernetzte Geräte = 네트워크로 연결된 기기"
+  - german: "einloggen"
+    translation:
+      en: "to log in"
+      ko: "로그인하다"
+    gender: null
+    notes:
+      en: "sich einloggen = to log in (reflexive)"
+      ko: "sich einloggen = 로그인하다 (재귀)"
+  - german: "ausloggen"
+    translation:
+      en: "to log out"
+      ko: "로그아웃하다"
+    gender: null
+    notes:
+      en: "sich ausloggen = to log out (reflexive)"
+      ko: "sich ausloggen = 로그아웃하다 (재귀)"
+  - german: "synchronisieren"
+    translation:
+      en: "to synchronize / to sync"
+      ko: "동기화하다"
+    gender: null
+    notes:
+      en: "Daten synchronisieren = to sync data"
+      ko: "Daten synchronisieren = 데이터를 동기화하다"
+  - german: "programmieren"
+    translation:
+      en: "to program / to code"
+      ko: "프로그래밍하다"
+    gender: null
+    notes:
+      en: "die Programmiersprache = programming language"
+      ko: "die Programmiersprache = 프로그래밍 언어"
+  - german: "verschlüsseln"
+    translation:
+      en: "to encrypt"
+      ko: "암호화하다"
+    gender: null
+    notes:
+      en: "Daten verschlüsseln = to encrypt data"
+      ko: "Daten verschlüsseln = 데이터를 암호화하다"
+  - german: "abstürzen"
+    translation:
+      en: "to crash (computer)"
+      ko: "다운되다 / 크래시하다"
+    gender: null
+    notes:
+      en: "der Computer ist abgestürzt = the computer crashed"
+      ko: "der Computer ist abgestürzt = 컴퓨터가 다운됐다"
+  - german: "installieren"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+    notes:
+      en: "eine App installieren = to install an app"
+      ko: "eine App installieren = 앱을 설치하다"
+  - german: "deinstallieren"
+    translation:
+      en: "to uninstall"
+      ko: "제거하다"
+    gender: null
+    notes:
+      en: "ein Programm deinstallieren = to uninstall a program"
+      ko: "ein Programm deinstallieren = 프로그램을 제거하다"
+  - german: "verknüpfen"
+    translation:
+      en: "to link / to connect"
+      ko: "연결하다 / 링크하다"
+    gender: null
+    notes:
+      en: "Konten verknüpfen = to link accounts"
+      ko: "Konten verknüpfen = 계정을 연결하다"
+  - german: "komprimieren"
+    translation:
+      en: "to compress"
+      ko: "압축하다"
+    gender: null
+    notes:
+      en: "Dateien komprimieren = to compress files"
+      ko: "Dateien komprimieren = 파일을 압축하다"
+  - german: "formatieren"
+    translation:
+      en: "to format"
+      ko: "포맷하다"
+    gender: null
+    notes:
+      en: "die Festplatte formatieren = to format the hard drive"
+      ko: "die Festplatte formatieren = 하드 드라이브를 포맷하다"
+  - german: "abstürzen"
+    translation:
+      en: "to crash (software)"
+      ko: "다운되다 / 충돌하다"
+    gender: null
+    notes:
+      en: "der Computer ist abgestürzt = the computer crashed"
+      ko: "der Computer ist abgestürzt = 컴퓨터가 다운되었다"
+- id: digitale_kommunikation
+  label:
+    en: "Digital Communication (Digitale Kommunikation)"
+    ko: "디지털 커뮤니케이션 (Digitale Kommunikation)"
+  type: vocabulary
+  words:
+  - german: "die E-Mail, -s"
+    translation:
+      en: "email"
+      ko: "이메일"
+    gender: f
+    notes:
+      en: "eine E-Mail schreiben = to write an email"
+      ko: "eine E-Mail schreiben = 이메일을 쓰다"
+  - german: "der Anhang, Anhänge"
+    translation:
+      en: "attachment"
+      ko: "첨부 파일"
+    gender: m
+    notes:
+      en: "eine Datei als Anhang senden = to send a file as attachment"
+      ko: "eine Datei als Anhang senden = 파일을 첨부해서 보내다"
+  - german: "die Nachricht, -en"
+    translation:
+      en: "message"
+      ko: "메시지"
+    gender: f
+    notes:
+      en: "eine Nachricht senden/empfangen = to send/receive a message"
+      ko: "eine Nachricht senden/empfangen = 메시지를 보내다/받다"
+  - german: "der Chat, -s"
+    translation:
+      en: "chat"
+      ko: "채팅"
+    gender: m
+    notes:
+      en: "im Chat schreiben = to write in the chat"
+      ko: "im Chat schreiben = 채팅에 쓰다"
+  - german: "der Videoanruf, -e"
+    translation:
+      en: "video call"
+      ko: "영상 통화"
+    gender: m
+    notes:
+      en: "einen Videoanruf machen = to make a video call"
+      ko: "einen Videoanruf machen = 영상 통화를 하다"
+  - german: "die Sprachnachricht, -en"
+    translation:
+      en: "voice message"
+      ko: "음성 메시지"
+    gender: f
+    notes:
+      en: "eine Sprachnachricht aufnehmen = to record a voice message"
+      ko: "eine Sprachnachricht aufnehmen = 음성 메시지를 녹음하다"
+  - german: "der Emoji, -s"
+    translation:
+      en: "emoji"
+      ko: "이모지"
+    gender: m
+    notes:
+      en: "der Smiley = smiley face"
+      ko: "der Smiley = 스마일리"
+  - german: "die Benachrichtigung, -en"
+    translation:
+      en: "notification"
+      ko: "알림"
+    gender: f
+    notes:
+      en: "die Push-Benachrichtigung = push notification"
+      ko: "die Push-Benachrichtigung = 푸시 알림"
+  - german: "der Spam"
+    translation:
+      en: "spam"
+      ko: "스팸"
+    gender: m
+    notes:
+      en: "der Spam-Filter = spam filter"
+      ko: "der Spam-Filter = 스팸 필터"
+  - german: "der Posteingang, -eingänge"
+    translation:
+      en: "inbox"
+      ko: "받은 편지함"
+    gender: m
+    notes:
+      en: "den Posteingang überprüfen = to check the inbox"
+      ko: "den Posteingang überprüfen = 받은 편지함을 확인하다"
+  - german: "weiterleiten"
+    translation:
+      en: "to forward (a message)"
+      ko: "전달하다"
+    gender: null
+    notes:
+      en: "eine E-Mail weiterleiten = to forward an email"
+      ko: "eine E-Mail weiterleiten = 이메일을 전달하다"
+  - german: "teilen"
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+    notes:
+      en: "einen Beitrag teilen = to share a post"
+      ko: "einen Beitrag teilen = 게시글을 공유하다"
+  - german: "liken"
+    translation:
+      en: "to like (social media)"
+      ko: "좋아요를 누르다"
+    gender: null
+    notes:
+      en: "der Like = a like; das Gefällt mir = I like it"
+      ko: "der Like = 좋아요; das Gefällt mir = 마음에 들어요"
+  - german: "abonnieren"
+    translation:
+      en: "to subscribe"
+      ko: "구독하다"
+    gender: null
+    notes:
+      en: "das Abonnement (Abo) = subscription"
+      ko: "das Abonnement (Abo) = 구독"
+  - german: "blockieren"
+    translation:
+      en: "to block"
+      ko: "차단하다"
+    gender: null
+    notes:
+      en: "einen Nutzer blockieren = to block a user"
+      ko: "einen Nutzer blockieren = 사용자를 차단하다"
+  - german: "melden"
+    translation:
+      en: "to report"
+      ko: "신고하다"
+    gender: null
+    notes:
+      en: "einen Kommentar melden = to report a comment"
+      ko: "einen Kommentar melden = 댓글을 신고하다"
+  - german: "das Cybermobbing"
+    translation:
+      en: "cyberbullying"
+      ko: "사이버 괴롭힘"
+    gender: n
+    notes:
+      en: "Cybermobbing ist strafbar = cyberbullying is punishable"
+      ko: "Cybermobbing ist strafbar = 사이버 괴롭힘은 처벌 대상이다"
+  - german: "der Datenmissbrauch"
+    translation:
+      en: "data misuse / data abuse"
+      ko: "데이터 오용"
+    gender: m
+    notes:
+      en: "Schutz vor Datenmissbrauch = protection against data misuse"
+      ko: "Schutz vor Datenmissbrauch = 데이터 오용 방지"
+  - german: "die Zwei-Faktor-Authentifizierung"
+    translation:
+      en: "two-factor authentication"
+      ko: "2단계 인증"
+    gender: f
+    notes:
+      en: "erhöht die Sicherheit = increases security"
+      ko: "erhöht die Sicherheit = 보안을 강화한다"
+  - german: "die künstliche Intelligenz (KI)"
+    translation:
+      en: "artificial intelligence (AI)"
+      ko: "인공지능 (AI)"
+    gender: f
+    notes:
+      en: "KI-gestützte Software = AI-powered software"
+      ko: "KI-gestützte Software = AI 기반 소프트웨어"
+- id: datenschutz_sicherheit
+  label:
+    en: "Data Protection and Security (Datenschutz und Sicherheit)"
+    ko: "데이터 보호와 보안 (Datenschutz und Sicherheit)"
+  type: vocabulary
+  words:
+  - german: "der Datenschutz"
+    translation:
+      en: "data protection / privacy"
+      ko: "데이터 보호 / 개인정보 보호"
+    gender: m
+    notes:
+      en: "die DSGVO = GDPR (General Data Protection Regulation)"
+      ko: "die DSGVO = GDPR (일반 데이터 보호 규정)"
+  - german: "das Passwort, -wörter"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: n
+    notes:
+      en: "ein sicheres Passwort wählen = to choose a secure password"
+      ko: "ein sicheres Passwort wählen = 안전한 비밀번호를 선택하다"
+  - german: "die Verschlüsselung, -en"
+    translation:
+      en: "encryption"
+      ko: "암호화"
+    gender: f
+    notes:
+      en: "die Ende-zu-Ende-Verschlüsselung = end-to-end encryption"
+      ko: "die Ende-zu-Ende-Verschlüsselung = 종단 간 암호화"
+  - german: "die Firewall, -s"
+    translation:
+      en: "firewall"
+      ko: "방화벽"
+    gender: f
+    notes:
+      en: "eine Firewall einrichten = to set up a firewall"
+      ko: "eine Firewall einrichten = 방화벽을 설정하다"
+  - german: "der Virus, Viren"
+    translation:
+      en: "virus (computer)"
+      ko: "바이러스 (컴퓨터)"
+    gender: m
+    notes:
+      en: "der Computervirus = computer virus"
+      ko: "der Computervirus = 컴퓨터 바이러스"
+  - german: "die Malware"
+    translation:
+      en: "malware"
+      ko: "악성 소프트웨어"
+    gender: f
+    notes:
+      en: "der Trojaner = trojan; der Wurm = worm"
+      ko: "der Trojaner = 트로이 목마; der Wurm = 웜"
+  - german: "der Hacker, -"
+    translation:
+      en: "hacker"
+      ko: "해커"
+    gender: m
+    notes:
+      en: "der Hackerangriff = hacking attack"
+      ko: "der Hackerangriff = 해킹 공격"
+  - german: "das Phishing"
+    translation:
+      en: "phishing"
+      ko: "피싱"
+    gender: n
+    notes:
+      en: "die Phishing-Mail = phishing email"
+      ko: "die Phishing-Mail = 피싱 이메일"
+  - german: "die Zwei-Faktor-Authentifizierung"
+    translation:
+      en: "two-factor authentication"
+      ko: "이중 인증"
+    gender: f
+    notes:
+      en: "2FA aktivieren = to enable 2FA"
+      ko: "2FA aktivieren = 이중 인증을 활성화하다"
+  - german: "das Backup, -s"
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: n
+    notes:
+      en: "ein Backup erstellen = to create a backup"
+      ko: "ein Backup erstellen = 백업을 만들다"
+  - german: "die Cloud, -s"
+    translation:
+      en: "cloud (storage)"
+      ko: "클라우드 (저장소)"
+    gender: f
+    notes:
+      en: "Daten in der Cloud speichern = to store data in the cloud"
+      ko: "Daten in der Cloud speichern = 클라우드에 데이터를 저장하다"
+  - german: "der Algorithmus, Algorithmen"
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: m
+    notes:
+      en: "der Suchalgorithmus = search algorithm"
+      ko: "der Suchalgorithmus = 검색 알고리즘"
+  - german: "die Künstliche Intelligenz (KI)"
+    translation:
+      en: "artificial intelligence (AI)"
+      ko: "인공지능 (AI)"
+    gender: f
+    notes:
+      en: "KI-gestützt = AI-powered"
+      ko: "KI-gestützt = AI 기반"
+  - german: "das maschinelle Lernen"
+    translation:
+      en: "machine learning"
+      ko: "기계 학습"
+    gender: n
+    notes:
+      en: "ein ML-Modell trainieren = to train an ML model"
+      ko: "ein ML-Modell trainieren = ML 모델을 학습시키다"
+  - german: "der Chatbot, -s"
+    translation:
+      en: "chatbot"
+      ko: "챗봇"
+    gender: m
+    notes:
+      en: "einen Chatbot entwickeln = to develop a chatbot"
+      ko: "einen Chatbot entwickeln = 챗봇을 개발하다"
+  - german: "die virtuelle Realität (VR)"
+    translation:
+      en: "virtual reality (VR)"
+      ko: "가상 현실 (VR)"
+    gender: f
+    notes:
+      en: "die VR-Brille = VR headset"
+      ko: "die VR-Brille = VR 헤드셋"
+  - german: "die Blockchain, -s"
+    translation:
+      en: "blockchain"
+      ko: "블록체인"
+    gender: f
+    notes:
+      en: "die Blockchain-Technologie = blockchain technology"
+      ko: "die Blockchain-Technologie = 블록체인 기술"
+  - german: "das Internet der Dinge (IoT)"
+    translation:
+      en: "Internet of Things (IoT)"
+      ko: "사물 인터넷 (IoT)"
+    gender: n
+    notes:
+      en: "vernetzte Geräte = connected devices"
+      ko: "vernetzte Geräte = 연결된 기기"
+  - german: "die Automatisierung, -en"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: f
+    notes:
+      en: "die Automatisierung von Prozessen = process automation"
+      ko: "die Automatisierung von Prozessen = 프로세스 자동화"
+  - german: "der 3D-Drucker, -"
+    translation:
+      en: "3D printer"
+      ko: "3D 프린터"
+    gender: m
+    notes:
+      en: "mit einem 3D-Drucker drucken = to print with a 3D printer"
+      ko: "mit einem 3D-Drucker drucken = 3D 프린터로 출력하다"
+  - german: "die Drohne, -n"
+    translation:
+      en: "drone"
+      ko: "드론"
+    gender: f
+    notes:
+      en: "eine Drohne fliegen = to fly a drone"
+      ko: "eine Drohne fliegen = 드론을 날리다"
+  - german: "der Datenverlust"
+    translation:
+      en: "data loss"
+      ko: "데이터 손실"
+    gender: m
+    notes:
+      en: "Datenverlust vermeiden = to avoid data loss"
+      ko: "Datenverlust vermeiden = 데이터 손실을 방지하다"
+  - german: "die Datensicherung, -en"
+    translation:
+      en: "data backup / data security"
+      ko: "데이터 백업 / 보안"
+    gender: f
+    notes:
+      en: "regelmäßige Datensicherung = regular data backup"
+      ko: "regelmäßige Datensicherung = 정기적인 데이터 백업"
+  - german: "die Bandbreite, -n"
+    translation:
+      en: "bandwidth"
+      ko: "대역폭"
+    gender: f
+    notes:
+      en: "eine hohe Bandbreite = high bandwidth"
+      ko: "eine hohe Bandbreite = 높은 대역폭"
+  - german: "die Glasfaser"
+    translation:
+      en: "fiber optic"
+      ko: "광섬유"
+    gender: f
+    notes:
+      en: "der Glasfaseranschluss = fiber optic connection"
+      ko: "der Glasfaseranschluss = 광섬유 인터넷"
+  - german: "der Touchscreen, -s"
+    translation:
+      en: "touchscreen"
+      ko: "터치스크린"
+    gender: m
+    notes:
+      en: "einen Touchscreen bedienen = to operate a touchscreen"
+      ko: "einen Touchscreen bedienen = 터치스크린을 조작하다"
+  - german: "die Spracherkennung"
+    translation:
+      en: "speech/voice recognition"
+      ko: "음성 인식"
+    gender: f
+    notes:
+      en: "die Sprachsteuerung = voice control"
+      ko: "die Sprachsteuerung = 음성 제어"
+  - german: "verschlüsseln"
+    translation:
+      en: "to encrypt"
+      ko: "암호화하다"
+    gender: null
+    notes:
+      en: "Daten verschlüsseln = to encrypt data"
+      ko: "Daten verschlüsseln = 데이터를 암호화하다"
+  - german: "hacken"
+    translation:
+      en: "to hack"
+      ko: "해킹하다"
+    gender: null
+    notes:
+      en: "ein Konto hacken = to hack an account"
+      ko: "ein Konto hacken = 계정을 해킹하다"
+  - german: "synchronisieren"
+    translation:
+      en: "to synchronize"
+      ko: "동기화하다"
+    gender: null
+    notes:
+      en: "Geräte synchronisieren = to sync devices"
+      ko: "Geräte synchronisieren = 기기를 동기화하다"
+  - german: "streamen"
+    translation:
+      en: "to stream"
+      ko: "스트리밍하다"
+    gender: null
+    notes:
+      en: "Filme streamen = to stream movies"
+      ko: "Filme streamen = 영화를 스트리밍하다"
+  - german: "digital"
+    translation:
+      en: "digital"
+      ko: "디지털의"
+    gender: null
+    notes:
+      en: "die digitale Transformation = digital transformation"
+      ko: "die digitale Transformation = 디지털 전환"
+  - german: "vernetzt"
+    translation:
+      en: "networked / connected"
+      ko: "네트워크로 연결된"
+    gender: null
+    notes:
+      en: "die vernetzte Welt = the connected world"
+      ko: "die vernetzte Welt = 연결된 세계"
+  - german: "kabellos"
+    translation:
+      en: "wireless"
+      ko: "무선의"
+    gender: null
+    notes:
+      en: "kabellose Kopfhörer = wireless headphones"
+      ko: "kabellose Kopfhörer = 무선 이어폰"
+
+- id: smart_home_zukunft
+  label:
+    en: "Smart Home and Future Tech (Smart Home und Zukunftstechnologie)"
+    ko: "스마트 홈과 미래 기술 (Smart Home und Zukunftstechnologie)"
+  type: vocabulary
+  words:
+  - german: "das Smart Home, -s"
+    translation:
+      en: "smart home"
+      ko: "스마트 홈"
+    gender: n
+    notes:
+      en: "ein Smart-Home-System einrichten = to set up a smart home system"
+      ko: "ein Smart-Home-System einrichten = 스마트 홈 시스템을 설정하다"
+  - german: "der Sprachassistent, -en"
+    translation:
+      en: "voice assistant"
+      ko: "음성 비서"
+    gender: m
+    notes:
+      en: "Alexa, Siri, Google Assistant"
+      ko: "알렉사, 시리, 구글 어시스턴트"
+  - german: "das Wearable, -s"
+    translation:
+      en: "wearable (device)"
+      ko: "웨어러블 기기"
+    gender: n
+    notes:
+      en: "die Smartwatch = smartwatch"
+      ko: "die Smartwatch = 스마트워치"
+  - german: "der Sensor, -en"
+    translation:
+      en: "sensor"
+      ko: "센서"
+    gender: m
+    notes:
+      en: "der Bewegungssensor = motion sensor"
+      ko: "der Bewegungssensor = 동작 센서"
+  - german: "die Robotik"
+    translation:
+      en: "robotics"
+      ko: "로봇공학"
+    gender: f
+    notes:
+      en: "die industrielle Robotik = industrial robotics"
+      ko: "die industrielle Robotik = 산업 로봇공학"
+  - german: "der Roboter, -"
+    translation:
+      en: "robot"
+      ko: "로봇"
+    gender: m
+    notes:
+      en: "der Serviceroboter = service robot"
+      ko: "der Serviceroboter = 서비스 로봇"
+  - german: "die Augmented Reality (AR)"
+    translation:
+      en: "augmented reality"
+      ko: "증강 현실"
+    gender: f
+    notes:
+      en: "AR-Anwendungen = AR applications"
+      ko: "AR-Anwendungen = 증강 현실 응용"
+  - german: "das autonome Fahren"
+    translation:
+      en: "autonomous driving"
+      ko: "자율 주행"
+    gender: n
+    notes:
+      en: "das selbstfahrende Auto = self-driving car"
+      ko: "das selbstfahrende Auto = 자율 주행 차"
+  - german: "die Gesichtserkennung"
+    translation:
+      en: "facial recognition"
+      ko: "얼굴 인식"
+    gender: f
+    notes:
+      en: "die biometrische Gesichtserkennung"
+      ko: "생체 인식 얼굴 인식"
+  - german: "die Kryptowährung, -en"
+    translation:
+      en: "cryptocurrency"
+      ko: "암호화폐"
+    gender: f
+    notes:
+      en: "Bitcoin und Ethereum = Bitcoin and Ethereum"
+      ko: "Bitcoin und Ethereum = 비트코인과 이더리움"
+  - german: "der Quantencomputer, -"
+    translation:
+      en: "quantum computer"
+      ko: "양자 컴퓨터"
+    gender: m
+    notes:
+      en: "Quantencomputer für komplexe Berechnungen"
+      ko: "복잡한 계산을 위한 양자 컴퓨터"
+  - german: "das Big Data"
+    translation:
+      en: "big data"
+      ko: "빅데이터"
+    gender: n
+    notes:
+      en: "Big-Data-Analyse = big data analysis"
+      ko: "Big-Data-Analyse = 빅데이터 분석"
+  - german: "die Digitalkompetenz"
+    translation:
+      en: "digital literacy"
+      ko: "디지털 역량"
+    gender: f
+    notes:
+      en: "die Digitalkompetenz fördern = to promote digital literacy"
+      ko: "die Digitalkompetenz fördern = 디지털 역량을 촉진하다"
+  - german: "die Cybersicherheit"
+    translation:
+      en: "cybersecurity"
+      ko: "사이버 보안"
+    gender: f
+    notes:
+      en: "die Cybersicherheit stärken = to strengthen cybersecurity"
+      ko: "die Cybersicherheit stärken = 사이버 보안을 강화하다"
+  - german: "das Rechenzentrum, -zentren"
+    translation:
+      en: "data center"
+      ko: "데이터 센터"
+    gender: n
+    notes:
+      en: "ein klimaneutrales Rechenzentrum"
+      ko: "기후 중립 데이터 센터"
+  - german: "der Datenstrom, -ströme"
+    translation:
+      en: "data stream"
+      ko: "데이터 스트림"
+    gender: m
+    notes:
+      en: "den Datenstrom verarbeiten = to process the data stream"
+      ko: "den Datenstrom verarbeiten = 데이터 스트림을 처리하다"
+  - german: "die E-Mail-Adresse, -n"
+    translation:
+      en: "email address"
+      ko: "이메일 주소"
+    gender: f
+    notes:
+      en: "die geschäftliche E-Mail-Adresse = business email address"
+      ko: "die geschäftliche E-Mail-Adresse = 업무용 이메일 주소"
+  - german: "der Server, -"
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: m
+    notes:
+      en: "der Webserver = web server"
+      ko: "der Webserver = 웹 서버"
+  - german: "die Schnittstelle, -n"
+    translation:
+      en: "interface"
+      ko: "인터페이스"
+    gender: f
+    notes:
+      en: "die Benutzeroberfläche = user interface"
+      ko: "die Benutzeroberfläche = 사용자 인터페이스"
+  - german: "benutzerfreundlich"
+    translation:
+      en: "user-friendly"
+      ko: "사용자 친화적인"
+    gender: null
+    notes:
+      en: "eine benutzerfreundliche App = a user-friendly app"
+      ko: "eine benutzerfreundliche App = 사용자 친화적인 앱"
