@@ -19,3 +19,504 @@ categories:
     form: ¡No habléis!
   - subject: ustedes
     form: ¡No hablen!
+- id: imperative_expressions
+  label:
+    en: Imperative Expressions
+    ko: 명령형 표현
+  type: vocabulary
+  words:
+  - spanish: ¡Habla!
+    translation:
+      en: Speak! (tú)
+      ko: 말해! (너)
+    gender: null
+    notes:
+      en: Affirmative tú command of 'hablar'
+      ko: "'hablar'의 긍정 tú 명령형"
+  - spanish: ¡Come!
+    translation:
+      en: Eat! (tú)
+      ko: 먹어! (너)
+    gender: null
+    notes:
+      en: Affirmative tú command of 'comer'
+      ko: "'comer'의 긍정 tú 명령형"
+  - spanish: ¡Escribe!
+    translation:
+      en: Write! (tú)
+      ko: 써! (너)
+    gender: null
+  - spanish: ¡Ven!
+    translation:
+      en: Come! (tú)
+      ko: 와! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'venir'
+      ko: "'venir'의 불규칙 tú 명령형"
+  - spanish: ¡Pon!
+    translation:
+      en: Put! (tú)
+      ko: 놔! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'poner'
+      ko: "'poner'의 불규칙 tú 명령형"
+  - spanish: ¡Sal!
+    translation:
+      en: Leave! / Go out! (tú)
+      ko: 나가! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'salir'
+      ko: "'salir'의 불규칙 tú 명령형"
+  - spanish: ¡Haz!
+    translation:
+      en: Do! / Make! (tú)
+      ko: 해! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'hacer'
+      ko: "'hacer'의 불규칙 tú 명령형"
+  - spanish: ¡Di!
+    translation:
+      en: Say! / Tell! (tú)
+      ko: 말해! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'decir'
+      ko: "'decir'의 불규칙 tú 명령형"
+  - spanish: ¡Ten!
+    translation:
+      en: Have! / Hold! (tú)
+      ko: 가져! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'tener'
+      ko: "'tener'의 불규칙 tú 명령형"
+  - spanish: ¡Sé!
+    translation:
+      en: Be! (tú)
+      ko: ~이 되어라! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'ser'
+      ko: "'ser'의 불규칙 tú 명령형"
+  - spanish: ¡Ve!
+    translation:
+      en: Go! (tú)
+      ko: 가! (너)
+    gender: null
+    notes:
+      en: Irregular tú command of 'ir'
+      ko: "'ir'의 불규칙 tú 명령형"
+  - spanish: ¡Dígame!
+    translation:
+      en: Tell me! (usted) / Hello? (phone)
+      ko: 말씀하세요! / 여보세요? (전화)
+    gender: null
+    notes:
+      en: Formal command; also used to answer the phone in Spain
+      ko: 격식 명령; 스페인에서 전화를 받을 때도 사용
+  - spanish: ¡Siéntese!
+    translation:
+      en: Sit down! (usted)
+      ko: 앉으세요! (격식)
+    gender: null
+  - spanish: ¡Espere!
+    translation:
+      en: Wait! (usted)
+      ko: 기다리세요! (격식)
+    gender: null
+  - spanish: ¡Cállate!
+    translation:
+      en: Be quiet! / Shut up! (tú)
+      ko: 조용히 해! (너)
+    gender: null
+    notes:
+      en: Reflexive command; can be rude depending on tone
+      ko: 재귀 명령; 어조에 따라 무례할 수 있음
+  - spanish: ¡Levántate!
+    translation:
+      en: Get up! (tú)
+      ko: 일어나! (너)
+    gender: null
+    notes:
+      en: Reflexive command with pronoun attached
+      ko: 대명사가 붙은 재귀 명령
+  - spanish: ¡Vete!
+    translation:
+      en: Go away! (tú)
+      ko: 가 버려! (너)
+    gender: null
+    notes:
+      en: Reflexive command of 'irse'
+      ko: "'irse'의 재귀 명령형"
+  - spanish: ¡Dime!
+    translation:
+      en: Tell me! (tú)
+      ko: 말해 봐! (너)
+    gender: null
+  - spanish: ¡Ponlo aquí!
+    translation:
+      en: Put it here! (tú)
+      ko: 여기에 놔! (너)
+    gender: null
+    notes:
+      en: Direct object pronoun attached to command
+      ko: 직접 목적어 대명사가 명령형에 붙음
+  - spanish: ¡Dáselo!
+    translation:
+      en: Give it to him/her! (tú)
+      ko: 그것을 그에게/그녀에게 줘! (너)
+    gender: null
+    notes:
+      en: Double pronoun attachment; se replaces le before lo
+      ko: 이중 대명사 부착; lo 앞에서 le가 se로 변환
+- id: subjunctive_trigger_words
+  label:
+    en: Subjunctive Trigger Words
+    ko: 접속법 유발 단어
+  type: vocabulary
+  words:
+  - spanish: querer que
+    translation:
+      en: to want (someone) to
+      ko: ~가 ~하기를 원하다
+    gender: null
+    notes:
+      en: "'quiero que vengas' = I want you to come"
+      ko: "'quiero que vengas' = 네가 오기를 원해"
+  - spanish: esperar que
+    translation:
+      en: to hope that
+      ko: ~하기를 바라다
+    gender: null
+  - spanish: necesitar que
+    translation:
+      en: to need (someone) to
+      ko: ~가 ~할 필요가 있다
+    gender: null
+  - spanish: pedir que
+    translation:
+      en: to ask that / to request that
+      ko: ~에게 ~하도록 요청하다
+    gender: null
+  - spanish: recomendar que
+    translation:
+      en: to recommend that
+      ko: ~하도록 추천하다
+    gender: null
+  - spanish: sugerir que
+    translation:
+      en: to suggest that
+      ko: ~하도록 제안하다
+    gender: null
+  - spanish: es importante que
+    translation:
+      en: it is important that
+      ko: ~하는 것이 중요하다
+    gender: null
+  - spanish: es necesario que
+    translation:
+      en: it is necessary that
+      ko: ~하는 것이 필요하다
+    gender: null
+  - spanish: es posible que
+    translation:
+      en: it is possible that
+      ko: ~일 수 있다
+    gender: null
+  - spanish: es probable que
+    translation:
+      en: it is likely that
+      ko: ~할 가능성이 있다
+    gender: null
+  - spanish: es mejor que
+    translation:
+      en: it is better that
+      ko: ~하는 것이 더 낫다
+    gender: null
+  - spanish: es una lástima que
+    translation:
+      en: it is a shame that
+      ko: ~하다니 안타깝다
+    gender: null
+  - spanish: ojalá (que)
+    translation:
+      en: I hope / if only
+      ko: 바라건대 / ~했으면 좋겠다
+    gender: null
+    notes:
+      en: From Arabic 'inshallah'; always triggers subjunctive
+      ko: 아랍어 'inshallah'에서 유래; 항상 접속법 유발
+  - spanish: dudar que
+    translation:
+      en: to doubt that
+      ko: ~인지 의심하다
+    gender: null
+  - spanish: no creer que
+    translation:
+      en: to not believe that
+      ko: ~라고 믿지 않다
+    gender: null
+    notes:
+      en: Negative belief triggers subjunctive; affirmative uses indicative
+      ko: 부정적 믿음은 접속법 유발; 긍정은 직설법
+  - spanish: temer que
+    translation:
+      en: to fear that
+      ko: ~할까 봐 두려워하다
+    gender: null
+  - spanish: alegrarse de que
+    translation:
+      en: to be glad that
+      ko: ~해서 기쁘다
+    gender: null
+  - spanish: sentir que
+    translation:
+      en: to be sorry that / to regret that
+      ko: ~해서 유감이다
+    gender: null
+  - spanish: prohibir que
+    translation:
+      en: to prohibit / to forbid
+      ko: ~하는 것을 금지하다
+    gender: null
+  - spanish: permitir que
+    translation:
+      en: to permit / to allow
+      ko: ~하는 것을 허락하다
+    gender: null
+- id: subjunctive_expressions
+  label:
+    en: Subjunctive Expressions & Phrases
+    ko: 접속법 표현 & 구문
+  type: vocabulary
+  words:
+  - spanish: Espero que estés bien.
+    translation:
+      en: I hope you are well.
+      ko: 네가 잘 지내길 바란다.
+    gender: null
+    notes:
+      en: Common greeting using subjunctive
+      ko: 접속법을 사용한 일반적인 인사
+  - spanish: Quiero que sepas la verdad.
+    translation:
+      en: I want you to know the truth.
+      ko: 네가 진실을 알기를 원해.
+    gender: null
+  - spanish: Es necesario que estudies más.
+    translation:
+      en: It is necessary that you study more.
+      ko: 네가 더 공부해야 한다.
+    gender: null
+  - spanish: Ojalá llueva mañana.
+    translation:
+      en: I hope it rains tomorrow.
+      ko: 내일 비가 왔으면 좋겠다.
+    gender: null
+  - spanish: No creo que sea verdad.
+    translation:
+      en: I don't think it's true.
+      ko: 그것이 사실이라고 생각하지 않는다.
+    gender: null
+  - spanish: Me alegro de que vengas.
+    translation:
+      en: I'm glad you're coming.
+      ko: 네가 와서 기쁘다.
+    gender: null
+  - spanish: Dudo que tenga razón.
+    translation:
+      en: I doubt he/she is right.
+      ko: 그/그녀가 옳은지 의심한다.
+    gender: null
+  - spanish: Es posible que nieve.
+    translation:
+      en: It's possible that it will snow.
+      ko: 눈이 올 수도 있다.
+    gender: null
+  - spanish: Te pido que me ayudes.
+    translation:
+      en: I ask you to help me.
+      ko: 나를 도와달라고 부탁한다.
+    gender: null
+  - spanish: Sugiero que vayas al médico.
+    translation:
+      en: I suggest you go to the doctor.
+      ko: 병원에 가는 것을 제안한다.
+    gender: null
+  - spanish: Temo que sea demasiado tarde.
+    translation:
+      en: I fear it may be too late.
+      ko: 너무 늦을까 봐 두렵다.
+    gender: null
+  - spanish: Prohíbo que fumes aquí.
+    translation:
+      en: I forbid you to smoke here.
+      ko: 여기서 담배 피우는 것을 금지한다.
+    gender: null
+  - spanish: Es una lástima que no puedas venir.
+    translation:
+      en: It's a shame you can't come.
+      ko: 네가 올 수 없다니 안타깝다.
+    gender: null
+  - spanish: No es verdad que sepa todo.
+    translation:
+      en: It's not true that he/she knows everything.
+      ko: 그/그녀가 모든 것을 안다는 것은 사실이 아니다.
+    gender: null
+  - spanish: Recomiendo que practiques cada día.
+    translation:
+      en: I recommend you practice every day.
+      ko: 매일 연습하는 것을 추천한다.
+    gender: null
+  - spanish: Necesito que me escuches.
+    translation:
+      en: I need you to listen to me.
+      ko: 내 말을 들어야 해.
+    gender: null
+  - spanish: Siento que estés enfermo.
+    translation:
+      en: I'm sorry you're sick.
+      ko: 네가 아파서 유감이다.
+    gender: null
+  - spanish: Ojalá tengamos suerte.
+    translation:
+      en: I hope we have luck.
+      ko: 우리가 운이 좋았으면 좋겠다.
+    gender: null
+  - spanish: Es mejor que te quedes en casa.
+    translation:
+      en: It's better that you stay home.
+      ko: 집에 있는 것이 더 나아.
+- id: command_phrases
+  label:
+    en: Common Command Phrases
+    ko: 일반적인 명령 구문
+  type: vocabulary
+  words:
+  - spanish: ¡Ten cuidado!
+    translation:
+      en: Be careful!
+      ko: 조심해!
+    gender: null
+  - spanish: ¡No te preocupes!
+    translation:
+      en: Don't worry!
+      ko: 걱정하지 마!
+    gender: null
+  - spanish: ¡Pasa! / ¡Adelante!
+    translation:
+      en: Come in!
+      ko: 들어와!
+    gender: null
+  - spanish: ¡Date prisa!
+    translation:
+      en: Hurry up!
+      ko: 서둘러!
+    gender: null
+  - spanish: ¡No me molestes!
+    translation:
+      en: Don't bother me!
+      ko: 귀찮게 하지 마!
+    gender: null
+  - spanish: ¡Déjame en paz!
+    translation:
+      en: Leave me alone!
+      ko: 나를 혼자 놔 둬!
+    gender: null
+  - spanish: ¡Escúchame!
+    translation:
+      en: Listen to me!
+      ko: 내 말 들어!
+    gender: null
+  - spanish: ¡No toques eso!
+    translation:
+      en: Don't touch that!
+      ko: 그거 만지지 마!
+    gender: null
+  - spanish: ¡Ayúdame!
+    translation:
+      en: Help me!
+      ko: 도와줘!
+    gender: null
+  - spanish: ¡Repite, por favor!
+    translation:
+      en: Please repeat!
+      ko: 다시 말해 줘!
+    gender: null
+  - spanish: ¡No grites!
+    translation:
+      en: Don't shout!
+      ko: 소리 지르지 마!
+    gender: null
+  - spanish: ¡Siéntate!
+    translation:
+      en: Sit down! (tú)
+      ko: 앉아! (너)
+    gender: null
+  - spanish: ¡Cuídate!
+    translation:
+      en: Take care!
+      ko: 몸 조심해!
+    gender: null
+    notes:
+      en: Common farewell expression using reflexive command
+      ko: 재귀 명령을 사용한 일반적인 작별 인사
+  - spanish: ¡Pásamelo!
+    translation:
+      en: Pass it to me!
+      ko: 그것 좀 줘!
+    gender: null
+    notes:
+      en: Double pronoun (me + lo) attached to command
+      ko: 이중 대명사 (me + lo)가 명령형에 붙음
+  - spanish: ¡Vámonos!
+    translation:
+      en: Let's go!
+      ko: 가자!
+    gender: null
+    notes:
+      en: Nosotros command of 'irse'; the -s drops before -nos
+      ko: "'irse'의 nosotros 명령형; -nos 앞에서 -s가 탈락"
+  - spanish: ¡No lo hagas!
+    translation:
+      en: Don't do it!
+      ko: 하지 마!
+    gender: null
+  - spanish: ¡Deja de hablar!
+    translation:
+      en: Stop talking!
+      ko: 말 그만해!
+    gender: null
+  - spanish: ¡Ojo!
+    translation:
+      en: Watch out! / Be careful!
+      ko: 조심! / 주의!
+    gender: null
+    notes:
+      en: Informal warning; literally 'eye!'
+      ko: 비격식 경고; 직역하면 '눈!'
+  - spanish: ¡Fíjate!
+    translation:
+      en: Pay attention! / Look!
+      ko: 주목해! / 봐!
+    gender: null
+  - spanish: ¡No seas tonto!
+    translation:
+      en: Don't be silly!
+      ko: 바보 같은 짓 하지 마!
+    gender: null
+    notes:
+      en: Negative command with subjunctive of 'ser'
+      ko: "'ser'의 접속법을 사용한 부정 명령"
+  - spanish: ¡Tráemelo!
+    translation:
+      en: Bring it to me!
+      ko: 그것 좀 가져다 줘!
+    gender: null
+    notes:
+      en: Triple pronoun scenario; 'traer' + me + lo
+      ko: 삼중 대명사 상황; 'traer' + me + lo

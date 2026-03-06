@@ -110,6 +110,230 @@ categories:
     notes:
       en: General
       ko: 일반적
+- id: 23_formal_greetings
+  label:
+    en: 2.3 Formal Greetings
+    ko: 2.3 격식 인사
+  type: vocabulary
+  words:
+  - spanish: ¿Cómo está usted?
+    translation:
+      en: How are you? (formal)
+      ko: 어떻게 지내십니까? (격식)
+    gender: null
+    notes:
+      en: Use 'usted' for formal situations
+      ko: 격식적인 상황에서 'usted' 사용
+  - spanish: Buenos días.
+    translation:
+      en: Good morning.
+      ko: 좋은 아침입니다.
+    gender: null
+    notes:
+      en: Used until noon
+      ko: 정오까지 사용
+  - spanish: Buenas tardes.
+    translation:
+      en: Good afternoon.
+      ko: 좋은 오후입니다.
+    gender: null
+    notes:
+      en: Used from noon to sunset
+      ko: 정오부터 해질녘까지 사용
+  - spanish: Buenas noches.
+    translation:
+      en: Good evening / Good night.
+      ko: 좋은 저녁입니다 / 안녕히 주무세요.
+    gender: null
+    notes:
+      en: Greeting and farewell at night
+      ko: 밤에 인사와 작별 모두 사용
+  - spanish: Es un placer conocerle.
+    translation:
+      en: It's a pleasure to meet you. (formal)
+      ko: 만나서 영광입니다. (격식)
+    gender: null
+  - spanish: Encantado/a de conocerle.
+    translation:
+      en: Delighted to meet you. (formal)
+      ko: 만나 뵙게 되어 기쁩니다. (격식)
+    gender: null
+- id: 24_introductions
+  label:
+    en: 2.4 Introductions
+    ko: 2.4 자기소개
+  type: vocabulary
+  words:
+  - spanish: Me llamo...
+    translation:
+      en: My name is...
+      ko: 제 이름은...입니다.
+    gender: null
+    notes:
+      en: Literally 'I call myself'
+      ko: 직역하면 '저는 저를 ~라고 부릅니다'
+  - spanish: Soy...
+    translation:
+      en: I am...
+      ko: 저는...입니다.
+    gender: null
+  - spanish: Mucho gusto.
+    translation:
+      en: Nice to meet you.
+      ko: 반갑습니다.
+    gender: null
+  - spanish: Igualmente.
+    translation:
+      en: Likewise.
+      ko: 저도요.
+    gender: null
+  - spanish: Encantado/a.
+    translation:
+      en: Delighted (to meet you).
+      ko: 만나서 반갑습니다.
+    gender: null
+    notes:
+      en: Use -o for male, -a for female speaker
+      ko: 남성은 -o, 여성은 -a 사용
+  - spanish: ¿Cómo te llamas?
+    translation:
+      en: What's your name? (informal)
+      ko: 이름이 뭐야? (비격식)
+    gender: null
+  - spanish: ¿Cómo se llama usted?
+    translation:
+      en: What's your name? (formal)
+      ko: 성함이 어떻게 되십니까? (격식)
+    gender: null
+  - spanish: ¿De dónde eres?
+    translation:
+      en: Where are you from? (informal)
+      ko: 어디 출신이야? (비격식)
+    gender: null
+  - spanish: Soy de...
+    translation:
+      en: I'm from...
+      ko: 저는...출신입니다.
+    gender: null
+  - spanish: Tengo ... años.
+    translation:
+      en: I am ... years old.
+      ko: 저는 ... 살입니다.
+    gender: null
+    notes:
+      en: Spanish uses 'tener' (to have) for age, not 'ser'
+      ko: 스페인어에서는 나이를 말할 때 'ser'가 아닌 'tener' 사용
+- id: 25_farewells
+  label:
+    en: 2.5 Farewells
+    ko: 2.5 작별 인사
+  type: vocabulary
+  words:
+  - spanish: ¡Hasta luego!
+    translation:
+      en: See you later!
+      ko: 나중에 봐!
+    gender: null
+  - spanish: ¡Hasta mañana!
+    translation:
+      en: See you tomorrow!
+      ko: 내일 봐!
+    gender: null
+  - spanish: ¡Hasta pronto!
+    translation:
+      en: See you soon!
+      ko: 곧 봐!
+    gender: null
+  - spanish: ¡Nos vemos!
+    translation:
+      en: See you!
+      ko: 또 보자!
+    gender: null
+    notes:
+      en: Very common informal farewell
+      ko: 매우 흔한 비격식 작별 인사
+  - spanish: ¡Chao!
+    translation:
+      en: Bye!
+      ko: 잘 가!
+    gender: null
+    notes:
+      en: From Italian 'ciao', common in Latin America
+      ko: 이탈리아어 'ciao'에서 유래, 라틴 아메리카에서 흔함
+  - spanish: ¡Que te vaya bien!
+    translation:
+      en: Take care! / Hope it goes well!
+      ko: 잘 가! / 잘 되길 바라!
+    gender: null
+  - spanish: ¡Adiós!
+    translation:
+      en: Goodbye!
+      ko: 안녕히 가세요!
+    gender: null
+  - spanish: ¡Cuídate!
+    translation:
+      en: Take care!
+      ko: 몸 조심해!
+    gender: null
+- id: 26_nationalities
+  label:
+    en: 2.6 Nationalities
+    ko: 2.6 국적
+  type: vocabulary
+  words:
+  - spanish: coreano/a
+    translation:
+      en: Korean
+      ko: 한국인
+    gender: null
+  - spanish: estadounidense
+    translation:
+      en: American (U.S.)
+      ko: 미국인
+    gender: null
+    notes:
+      en: Gender-invariable adjective
+      ko: 성별 불변 형용사
+  - spanish: español/a
+    translation:
+      en: Spanish
+      ko: 스페인인
+    gender: null
+  - spanish: mexicano/a
+    translation:
+      en: Mexican
+      ko: 멕시코인
+    gender: null
+  - spanish: colombiano/a
+    translation:
+      en: Colombian
+      ko: 콜롬비아인
+    gender: null
+  - spanish: argentino/a
+    translation:
+      en: Argentine
+      ko: 아르헨티나인
+    gender: null
+  - spanish: japonés/a
+    translation:
+      en: Japanese
+      ko: 일본인
+    gender: null
+  - spanish: chino/a
+    translation:
+      en: Chinese
+      ko: 중국인
+    gender: null
+  - spanish: francés/a
+    translation:
+      en: French
+      ko: 프랑스인
+    gender: null
+  - spanish: inglés/a
+    translation:
+      en: English / British
+      ko: 영국인
+    gender: null
 - id: 42_common_professions
   label:
     en: 4.2 Common Professions
@@ -155,6 +379,98 @@ categories:
     translation:
       en: entrepreneur
       ko: 사업가
+    gender: null
+  - spanish: enfermero/a
+    translation:
+      en: nurse
+      ko: 간호사
+    gender: null
+  - spanish: cocinero/a
+    translation:
+      en: cook / chef
+      ko: 요리사
+    gender: null
+  - spanish: escritor/a
+    translation:
+      en: writer
+      ko: 작가
+    gender: null
+  - spanish: músico/a
+    translation:
+      en: musician
+      ko: 음악가
+    gender: null
+  - spanish: periodista
+    translation:
+      en: journalist
+      ko: 기자
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남녀 동일 형태
+  - spanish: arquitecto/a
+    translation:
+      en: architect
+      ko: 건축가
+    gender: null
+  - spanish: contador/a
+    translation:
+      en: accountant
+      ko: 회계사
+    gender: null
+  - spanish: vendedor/a
+    translation:
+      en: salesperson
+      ko: 판매원
+    gender: null
+- id: 27_responding_to_greetings
+  label:
+    en: 2.7 Responding to Greetings
+    ko: 2.7 인사에 대한 응답
+  type: vocabulary
+  words:
+  - spanish: Bien, gracias.
+    translation:
+      en: Fine, thanks.
+      ko: 잘 지내, 고마워.
+    gender: null
+  - spanish: Muy bien.
+    translation:
+      en: Very well.
+      ko: 아주 잘 지내.
+    gender: null
+  - spanish: Más o menos.
+    translation:
+      en: So-so.
+      ko: 그저 그래.
+    gender: null
+  - spanish: Regular.
+    translation:
+      en: Okay / Not great.
+      ko: 보통이야.
+    gender: null
+  - spanish: Aquí andamos.
+    translation:
+      en: Here we go / Getting by.
+      ko: 그럭저럭 지내.
+    gender: null
+    notes:
+      en: Casual, common in Latin America
+      ko: 가벼운 표현, 라틴 아메리카에서 흔함
+  - spanish: ¿Y tú?
+    translation:
+      en: And you? (informal)
+      ko: 너는? (비격식)
+    gender: null
+  - spanish: ¿Y usted?
+    translation:
+      en: And you? (formal)
+      ko: 당신은요? (격식)
+    gender: null
+  - spanish: Todo bien.
+    translation:
+      en: All good.
+      ko: 다 잘 돼.
     gender: null
 - id: 71_thanking
   label:

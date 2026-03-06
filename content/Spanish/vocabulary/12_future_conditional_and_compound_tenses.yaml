@@ -71,3 +71,568 @@ categories:
     example:
       es: Habían llegado.
       en: They had arrived.
+- id: future_expressions
+  label:
+    en: Future Expressions
+    ko: 미래 표현
+  type: vocabulary
+  words:
+  - spanish: mañana
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+  - spanish: pasado mañana
+    translation:
+      en: the day after tomorrow
+      ko: 모레
+    gender: null
+  - spanish: la semana que viene
+    translation:
+      en: next week
+      ko: 다음 주
+    gender: f
+  - spanish: el mes que viene
+    translation:
+      en: next month
+      ko: 다음 달
+    gender: m
+  - spanish: el año que viene
+    translation:
+      en: next year
+      ko: 내년
+    gender: m
+  - spanish: en el futuro
+    translation:
+      en: in the future
+      ko: 미래에
+    gender: null
+  - spanish: dentro de poco
+    translation:
+      en: in a little while / shortly
+      ko: 곧 / 조금 후에
+    gender: null
+  - spanish: pronto
+    translation:
+      en: soon
+      ko: 곧
+    gender: null
+  - spanish: más tarde
+    translation:
+      en: later
+      ko: 나중에
+    gender: null
+  - spanish: algún día
+    translation:
+      en: someday
+      ko: 언젠가
+    gender: null
+  - spanish: a partir de ahora
+    translation:
+      en: from now on
+      ko: 지금부터
+    gender: null
+  - spanish: en adelante
+    translation:
+      en: from now on / henceforth
+      ko: 앞으로
+    gender: null
+  - spanish: tarde o temprano
+    translation:
+      en: sooner or later
+      ko: 조만간
+    gender: null
+  - spanish: a largo plazo
+    translation:
+      en: in the long term
+      ko: 장기적으로
+    gender: null
+  - spanish: a corto plazo
+    translation:
+      en: in the short term
+      ko: 단기적으로
+    gender: null
+  - spanish: está a punto de
+    translation:
+      en: is about to
+      ko: 막 ~하려고 하다
+    gender: null
+    notes:
+      en: Immediate future construction with estar
+      ko: estar를 사용한 가까운 미래 구문
+  - spanish: ir a + infinitivo
+    translation:
+      en: going to + verb
+      ko: ~할 것이다
+    gender: null
+    notes:
+      en: Informal future; 'voy a comer' = I'm going to eat
+      ko: 비격식 미래; 'voy a comer' = 먹을 거야
+  - spanish: pensar + infinitivo
+    translation:
+      en: to plan to + verb
+      ko: ~할 생각이다
+    gender: null
+    notes:
+      en: "'pienso viajar' = I plan to travel"
+      ko: "'pienso viajar' = 여행할 생각이다"
+  - spanish: esperar + infinitivo
+    translation:
+      en: to hope/expect to + verb
+      ko: ~하기를 바라다/기대하다
+    gender: null
+  - spanish: tener previsto
+    translation:
+      en: to plan / to have planned
+      ko: 계획하고 있다
+    gender: null
+    notes:
+      en: "'tengo previsto salir' = I plan to leave"
+      ko: "'tengo previsto salir' = 떠날 계획이다"
+- id: conditional_expressions
+  label:
+    en: Conditional Expressions
+    ko: 조건법 표현
+  type: vocabulary
+  words:
+  - spanish: me gustaría
+    translation:
+      en: I would like
+      ko: ~하고 싶습니다
+    gender: null
+    notes:
+      en: Polite request using conditional
+      ko: 조건법을 사용한 공손한 요청
+  - spanish: podría
+    translation:
+      en: could / would be able to
+      ko: ~할 수 있을 것이다
+    gender: null
+  - spanish: debería
+    translation:
+      en: should / ought to
+      ko: ~해야 할 것이다
+    gender: null
+  - spanish: tendría que
+    translation:
+      en: would have to
+      ko: ~해야 할 텐데
+    gender: null
+  - spanish: sería mejor
+    translation:
+      en: it would be better
+      ko: ~하는 것이 더 좋을 것이다
+    gender: null
+  - spanish: en tu lugar
+    translation:
+      en: in your place / if I were you
+      ko: 네 입장이라면
+    gender: null
+    notes:
+      en: Used with conditional; 'en tu lugar, yo iría'
+      ko: 조건법과 함께 사용; 'en tu lugar, yo iría'
+  - spanish: si pudiera
+    translation:
+      en: if I could
+      ko: 할 수 있다면
+    gender: null
+  - spanish: si tuviera tiempo
+    translation:
+      en: if I had time
+      ko: 시간이 있다면
+    gender: null
+  - spanish: ¿Te importaría...?
+    translation:
+      en: Would you mind...?
+      ko: ~해 주시겠어요?
+    gender: null
+    notes:
+      en: Polite conditional request
+      ko: 공손한 조건법 요청
+  - spanish: ¿Podría usted...?
+    translation:
+      en: Could you...? (formal)
+      ko: ~해 주실 수 있으시겠습니까?
+    gender: null
+  - spanish: habría
+    translation:
+      en: there would be
+      ko: ~가 있을 것이다
+    gender: null
+  - spanish: querría
+    translation:
+      en: I would want
+      ko: ~하고 싶을 것이다
+    gender: null
+    notes:
+      en: Less common than 'me gustaría' but valid
+      ko: "'me gustaría'보다 덜 쓰이지만 올바른 표현"
+  - spanish: en caso de que
+    translation:
+      en: in case that
+      ko: ~할 경우에
+    gender: null
+    notes:
+      en: Triggers subjunctive in the subordinate clause
+      ko: 종속절에서 접속법을 유발
+  - spanish: con tal de que
+    translation:
+      en: provided that / as long as
+      ko: ~하는 한 / ~하기만 하면
+    gender: null
+  - spanish: a condición de que
+    translation:
+      en: on the condition that
+      ko: ~한다는 조건으로
+    gender: null
+- id: compound_tense_vocabulary
+  label:
+    en: Compound Tense Vocabulary
+    ko: 복합 시제 어휘
+  type: vocabulary
+  words:
+  - spanish: haber
+    translation:
+      en: to have (auxiliary)
+      ko: ~했다 (조동사)
+    gender: null
+    notes:
+      en: Auxiliary verb for all compound tenses
+      ko: 모든 복합 시제의 조동사
+  - spanish: el participio pasado
+    translation:
+      en: past participle
+      ko: 과거분사
+    gender: m
+  - spanish: ya
+    translation:
+      en: already
+      ko: 이미 / 벌써
+    gender: null
+    notes:
+      en: Common with present perfect; 'ya he comido'
+      ko: 현재완료와 함께 사용; 'ya he comido'
+  - spanish: todavía no
+    translation:
+      en: not yet
+      ko: 아직 ~하지 않다
+    gender: null
+    notes:
+      en: "'todavía no he terminado' = I haven't finished yet"
+      ko: "'todavía no he terminado' = 아직 끝내지 않았다"
+  - spanish: alguna vez
+    translation:
+      en: ever / at some point
+      ko: 한 번이라도 / 언젠가
+    gender: null
+    notes:
+      en: Used in questions; '¿has viajado alguna vez?'
+      ko: 질문에서 사용; '¿has viajado alguna vez?'
+  - spanish: nunca
+    translation:
+      en: never
+      ko: 한 번도 ~하지 않다
+    gender: null
+    notes:
+      en: "'nunca he estado en Japón' = I've never been to Japan"
+      ko: "'nunca he estado en Japón' = 일본에 가 본 적이 없다"
+  - spanish: aún
+    translation:
+      en: still / yet
+      ko: 아직 / 여전히
+    gender: null
+  - spanish: recientemente
+    translation:
+      en: recently
+      ko: 최근에
+    gender: null
+  - spanish: últimamente
+    translation:
+      en: lately
+      ko: 요즘 / 최근에
+    gender: null
+  - spanish: desde hace
+    translation:
+      en: for (duration)
+      ko: ~전부터 / ~동안
+    gender: null
+    notes:
+      en: "'desde hace dos años' = for two years"
+      ko: "'desde hace dos años' = 2년 전부터"
+  - spanish: hasta ahora
+    translation:
+      en: until now / so far
+      ko: 지금까지
+    gender: null
+  - spanish: en mi vida
+    translation:
+      en: in my life / ever
+      ko: 내 인생에서 / 평생
+    gender: null
+  - spanish: varias veces
+    translation:
+      en: several times
+      ko: 여러 번
+    gender: null
+  - spanish: muchas veces
+    translation:
+      en: many times
+      ko: 많은 횟수로
+    gender: null
+  - spanish: apenas
+    translation:
+      en: barely / hardly
+      ko: 거의 ~하지 않다 / 겨우
+    gender: null
+- id: common_past_participles
+  label:
+    en: Common Past Participles
+    ko: 자주 쓰이는 과거분사
+  type: vocabulary
+  words:
+  - spanish: abierto
+    translation:
+      en: opened
+      ko: 열린
+    gender: null
+    notes:
+      en: Irregular past participle of 'abrir'
+      ko: "'abrir'의 불규칙 과거분사"
+  - spanish: cubierto
+    translation:
+      en: covered
+      ko: 덮인
+    gender: null
+    notes:
+      en: Irregular past participle of 'cubrir'
+      ko: "'cubrir'의 불규칙 과거분사"
+  - spanish: dicho
+    translation:
+      en: said
+      ko: 말한
+    gender: null
+    notes:
+      en: Irregular past participle of 'decir'
+      ko: "'decir'의 불규칙 과거분사"
+  - spanish: escrito
+    translation:
+      en: written
+      ko: 쓴
+    gender: null
+    notes:
+      en: Irregular past participle of 'escribir'
+      ko: "'escribir'의 불규칙 과거분사"
+  - spanish: hecho
+    translation:
+      en: done / made
+      ko: 한 / 만든
+    gender: null
+    notes:
+      en: Irregular past participle of 'hacer'
+      ko: "'hacer'의 불규칙 과거분사"
+  - spanish: muerto
+    translation:
+      en: died / dead
+      ko: 죽은
+    gender: null
+    notes:
+      en: Irregular past participle of 'morir'
+      ko: "'morir'의 불규칙 과거분사"
+  - spanish: puesto
+    translation:
+      en: put / placed
+      ko: 놓은
+    gender: null
+    notes:
+      en: Irregular past participle of 'poner'
+      ko: "'poner'의 불규칙 과거분사"
+  - spanish: roto
+    translation:
+      en: broken
+      ko: 부서진
+    gender: null
+    notes:
+      en: Irregular past participle of 'romper'
+      ko: "'romper'의 불규칙 과거분사"
+  - spanish: visto
+    translation:
+      en: seen
+      ko: 본
+    gender: null
+    notes:
+      en: Irregular past participle of 'ver'
+      ko: "'ver'의 불규칙 과거분사"
+  - spanish: vuelto
+    translation:
+      en: returned
+      ko: 돌아온
+    gender: null
+    notes:
+      en: Irregular past participle of 'volver'
+      ko: "'volver'의 불규칙 과거분사"
+  - spanish: resuelto
+    translation:
+      en: resolved / solved
+      ko: 해결한
+    gender: null
+    notes:
+      en: Irregular past participle of 'resolver'
+      ko: "'resolver'의 불규칙 과거분사"
+  - spanish: devuelto
+    translation:
+      en: returned (an item)
+      ko: 반환한
+    gender: null
+    notes:
+      en: Irregular past participle of 'devolver'
+      ko: "'devolver'의 불규칙 과거분사"
+  - spanish: descubierto
+    translation:
+      en: discovered
+      ko: 발견한
+    gender: null
+    notes:
+      en: Irregular past participle of 'descubrir'
+      ko: "'descubrir'의 불규칙 과거분사"
+  - spanish: satisfecho
+    translation:
+      en: satisfied
+      ko: 만족한
+    gender: null
+    notes:
+      en: Irregular past participle of 'satisfacer'
+      ko: "'satisfacer'의 불규칙 과거분사"
+  - spanish: impreso
+    translation:
+      en: printed
+      ko: 인쇄한
+    gender: null
+    notes:
+      en: Irregular past participle of 'imprimir'; 'imprimido' also valid
+      ko: "'imprimir'의 불규칙 과거분사; 'imprimido'도 가능"
+- id: future_conditional_example_phrases
+  label:
+    en: Future & Conditional Example Phrases
+    ko: 미래 & 조건법 예문
+  type: vocabulary
+  words:
+  - spanish: Mañana iré al médico.
+    translation:
+      en: Tomorrow I will go to the doctor.
+      ko: 내일 병원에 갈 것이다.
+    gender: null
+    notes:
+      en: Simple future tense
+      ko: 단순 미래 시제
+  - spanish: ¿Vendrás a la fiesta?
+    translation:
+      en: Will you come to the party?
+      ko: 파티에 올 거야?
+    gender: null
+    notes:
+      en: Irregular future stem 'vendr-'
+      ko: 불규칙 미래 어간 'vendr-'
+  - spanish: Habrá mucha gente.
+    translation:
+      en: There will be a lot of people.
+      ko: 사람이 많을 것이다.
+    gender: null
+    notes:
+      en: Future of 'haber'; irregular stem 'habr-'
+      ko: "'haber'의 미래형; 불규칙 어간 'habr-'"
+  - spanish: Si fuera rico, viajaría por el mundo.
+    translation:
+      en: If I were rich, I would travel the world.
+      ko: 부자라면 세계를 여행할 텐데.
+    gender: null
+    notes:
+      en: Conditional in si-clause (hypothetical)
+      ko: si절에서의 조건법 (가정)
+  - spanish: Dijo que vendría.
+    translation:
+      en: He said he would come.
+      ko: 그는 올 거라고 말했다.
+    gender: null
+    notes:
+      en: Conditional for future-in-the-past
+      ko: 과거 시점의 미래를 나타내는 조건법
+  - spanish: Ya he terminado la tarea.
+    translation:
+      en: I have already finished the homework.
+      ko: 이미 숙제를 끝냈다.
+    gender: null
+    notes:
+      en: Present perfect with 'ya'
+      ko: "'ya'와 함께 쓰인 현재완료"
+  - spanish: Nunca he visto nieve.
+    translation:
+      en: I have never seen snow.
+      ko: 눈을 본 적이 없다.
+    gender: null
+    notes:
+      en: Present perfect for life experience
+      ko: 인생 경험을 나타내는 현재완료
+  - spanish: Cuando llegué, ya habían salido.
+    translation:
+      en: When I arrived, they had already left.
+      ko: 내가 도착했을 때 그들은 이미 떠났었다.
+    gender: null
+    notes:
+      en: Pluperfect for action before another past action
+      ko: 다른 과거 행동 이전의 행동을 나타내는 대과거
+  - spanish: Habría ido, pero estaba enfermo.
+    translation:
+      en: I would have gone, but I was sick.
+      ko: 갔을 텐데, 아팠다.
+    gender: null
+    notes:
+      en: Conditional perfect (habría + past participle)
+      ko: 조건 완료 (habría + 과거분사)
+  - spanish: Para el viernes, habré terminado.
+    translation:
+      en: By Friday, I will have finished.
+      ko: 금요일까지 끝내 놓을 것이다.
+    gender: null
+    notes:
+      en: Future perfect (habré + past participle)
+      ko: 미래 완료 (habré + 과거분사)
+  - spanish: Serán las tres.
+    translation:
+      en: It must be three o'clock.
+      ko: 세 시쯤 될 것이다.
+    gender: null
+    notes:
+      en: Future of probability — guessing about the present
+      ko: 추측의 미래 — 현재에 대한 추측
+  - spanish: Tendría unos 30 años.
+    translation:
+      en: He was probably about 30 years old.
+      ko: 서른 살 정도였을 것이다.
+    gender: null
+    notes:
+      en: Conditional of probability — guessing about the past
+      ko: 추측의 조건법 — 과거에 대한 추측
+  - spanish: ¿Habrá llegado ya?
+    translation:
+      en: Could he have arrived already?
+      ko: 벌써 도착했을까?
+    gender: null
+    notes:
+      en: Future perfect of probability
+      ko: 추측의 미래 완료
+  - spanish: No sé qué habrá pasado.
+    translation:
+      en: I don't know what could have happened.
+      ko: 무슨 일이 있었을지 모르겠다.
+    gender: null
+    notes:
+      en: Future perfect expressing conjecture
+      ko: 추측을 나타내는 미래 완료
+  - spanish: Me habría gustado ir contigo.
+    translation:
+      en: I would have liked to go with you.
+      ko: 너와 함께 가고 싶었을 텐데.
+    gender: null
+    notes:
+      en: Conditional perfect for unfulfilled wish
+      ko: 이루어지지 않은 소망의 조건 완료

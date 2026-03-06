@@ -33,6 +33,192 @@ categories:
       en: I don't have any problem.
       ko: 나는 아무 문제도 없다.
     gender: null
+- id: 5_negation_words
+  label:
+    en: 5. Negation Words
+    ko: 5. 부정어
+  type: vocabulary
+  words:
+  - spanish: no
+    translation:
+      en: no / not
+      ko: 아니오 / ~않다
+    gender: null
+    notes:
+      en: Placed before the verb to negate
+      ko: 부정하기 위해 동사 앞에 배치
+  - spanish: nunca
+    translation:
+      en: never
+      ko: 절대 ~않다
+    gender: null
+  - spanish: jamás
+    translation:
+      en: never (emphatic)
+      ko: 절대 ~않다 (강조)
+    gender: null
+    notes:
+      en: Stronger than 'nunca'
+      ko: "'nunca'보다 강한 표현"
+  - spanish: nada
+    translation:
+      en: nothing
+      ko: 아무것도 (~않다)
+    gender: null
+  - spanish: nadie
+    translation:
+      en: nobody
+      ko: 아무도 (~않다)
+    gender: null
+  - spanish: ninguno/a
+    translation:
+      en: none / not any
+      ko: 아무 ~도 없는
+    gender: null
+  - spanish: ni...ni
+    translation:
+      en: neither...nor
+      ko: ~도 ~도 아닌
+    gender: null
+  - spanish: tampoco
+    translation:
+      en: neither / not either
+      ko: ~도 아니다
+    gender: null
+    notes:
+      en: "Yo tampoco. — Me neither."
+      ko: "Yo tampoco. — 나도 아니야."
+  - spanish: ya no
+    translation:
+      en: no longer / not anymore
+      ko: 더 이상 ~않다
+    gender: null
+  - spanish: todavía no
+    translation:
+      en: not yet
+      ko: 아직 ~않다
+    gender: null
+- id: 55_conversational_fillers
+  label:
+    en: 5.5 Conversational Fillers
+    ko: 5.5 대화 채움말
+  type: vocabulary
+  words:
+  - spanish: bueno
+    translation:
+      en: well / okay
+      ko: 음 / 좋아
+    gender: null
+    notes:
+      en: Very common conversation starter
+      ko: 매우 흔한 대화 시작어
+  - spanish: pues
+    translation:
+      en: well / so
+      ko: 음 / 그러니까
+    gender: null
+  - spanish: o sea
+    translation:
+      en: I mean / that is
+      ko: 그러니까 / 즉
+    gender: null
+  - spanish: a ver
+    translation:
+      en: let's see
+      ko: 어디 보자
+    gender: null
+  - spanish: es que...
+    translation:
+      en: the thing is...
+      ko: 사실은...
+    gender: null
+    notes:
+      en: Used to introduce an explanation or excuse
+      ko: 설명이나 변명을 시작할 때 사용
+  - spanish: mira
+    translation:
+      en: look (filler)
+      ko: 있잖아
+    gender: null
+    notes:
+      en: Gets listener's attention
+      ko: 청자의 주의를 끌 때
+  - spanish: oye
+    translation:
+      en: hey / listen
+      ko: 저기 / 들어봐
+    gender: null
+  - spanish: ¿sabes?
+    translation:
+      en: you know?
+      ko: 알지?
+    gender: null
+  - spanish: ¿me entiendes?
+    translation:
+      en: do you understand me?
+      ko: 이해해?
+    gender: null
+  - spanish: claro
+    translation:
+      en: of course / sure
+      ko: 물론
+    gender: null
+- id: 56_expressing_opinions
+  label:
+    en: 5.6 Expressing Opinions
+    ko: 5.6 의견 표현
+  type: vocabulary
+  words:
+  - spanish: Creo que...
+    translation:
+      en: I think that...
+      ko: ~라고 생각해...
+    gender: null
+  - spanish: Me parece que...
+    translation:
+      en: It seems to me that...
+      ko: ~인 것 같아...
+    gender: null
+  - spanish: En mi opinión...
+    translation:
+      en: In my opinion...
+      ko: 내 생각에는...
+    gender: null
+  - spanish: Estoy de acuerdo.
+    translation:
+      en: I agree.
+      ko: 동의해.
+    gender: null
+  - spanish: No estoy de acuerdo.
+    translation:
+      en: I disagree.
+      ko: 동의하지 않아.
+    gender: null
+  - spanish: Tienes razón.
+    translation:
+      en: You're right.
+      ko: 네 말이 맞아.
+    gender: null
+  - spanish: No es verdad.
+    translation:
+      en: That's not true.
+      ko: 사실이 아니야.
+    gender: null
+  - spanish: Depende.
+    translation:
+      en: It depends.
+      ko: 경우에 따라 다르지.
+    gender: null
+  - spanish: Por supuesto.
+    translation:
+      en: Of course.
+      ko: 물론이지.
+    gender: null
+  - spanish: Sin duda.
+    translation:
+      en: Without a doubt.
+      ko: 의심할 여지 없이.
+    gender: null
 - id: 6_phone_expressions
   label:
     en: 6. Phone Expressions
@@ -231,4 +417,60 @@ categories:
     translation:
       en: Two blocks away.
       ko: 두 블록 거리에 있어요.
+    gender: null
+- id: 10_emergency_and_help
+  label:
+    en: 10. Emergency and Asking for Help
+    ko: 10. 비상 상황과 도움 요청
+  type: vocabulary
+  words:
+  - spanish: ¡Ayuda!
+    translation:
+      en: Help!
+      ko: 도와주세요!
+    gender: null
+  - spanish: ¡Llame a la policía!
+    translation:
+      en: Call the police!
+      ko: 경찰을 불러주세요!
+    gender: null
+  - spanish: ¡Llame a una ambulancia!
+    translation:
+      en: Call an ambulance!
+      ko: 구급차를 불러주세요!
+    gender: null
+  - spanish: Necesito un médico.
+    translation:
+      en: I need a doctor.
+      ko: 의사가 필요해요.
+    gender: null
+  - spanish: ¿Dónde está el hospital?
+    translation:
+      en: Where is the hospital?
+      ko: 병원이 어디에 있나요?
+    gender: null
+  - spanish: Me he perdido.
+    translation:
+      en: I'm lost.
+      ko: 길을 잃었어요.
+    gender: null
+  - spanish: No hablo bien español.
+    translation:
+      en: I don't speak Spanish well.
+      ko: 스페인어를 잘 못해요.
+    gender: null
+  - spanish: ¿Habla inglés?
+    translation:
+      en: Do you speak English?
+      ko: 영어 하시나요?
+    gender: null
+  - spanish: Más despacio, por favor.
+    translation:
+      en: Slower, please.
+      ko: 좀 더 천천히요.
+    gender: null
+  - spanish: ¿Puede escribirlo?
+    translation:
+      en: Can you write it down?
+      ko: 적어 주실 수 있나요?
     gender: null

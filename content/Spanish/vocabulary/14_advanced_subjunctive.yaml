@@ -42,3 +42,514 @@ categories:
       en: No es verdad que sepa.
       ko: No es verdad que sepa.
     gender: null
+- id: subjunctive_conjunctions
+  label:
+    en: Subjunctive Conjunctions
+    ko: 접속법 접속사
+  type: vocabulary
+  words:
+  - spanish: para que
+    translation:
+      en: so that / in order that
+      ko: ~하기 위해서
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - spanish: antes de que
+    translation:
+      en: before
+      ko: ~하기 전에
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - spanish: después de que
+    translation:
+      en: after
+      ko: ~한 후에
+    gender: null
+    notes:
+      en: Subjunctive if future/hypothetical; indicative if past
+      ko: 미래/가정이면 접속법; 과거이면 직설법
+  - spanish: sin que
+    translation:
+      en: without
+      ko: ~하지 않고
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - spanish: con tal de que
+    translation:
+      en: provided that / as long as
+      ko: ~하는 한 / ~하기만 하면
+    gender: null
+  - spanish: a menos que
+    translation:
+      en: unless
+      ko: ~하지 않는 한
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - spanish: a no ser que
+    translation:
+      en: unless
+      ko: ~하지 않는 한
+    gender: null
+    notes:
+      en: Synonym of 'a menos que'; always subjunctive
+      ko: "'a menos que'의 동의어; 항상 접속법"
+  - spanish: aunque
+    translation:
+      en: although / even if
+      ko: ~일지라도 / 비록 ~이지만
+    gender: null
+    notes:
+      en: Subjunctive if hypothetical; indicative if factual
+      ko: 가정이면 접속법; 사실이면 직설법
+  - spanish: cuando
+    translation:
+      en: when
+      ko: ~할 때
+    gender: null
+    notes:
+      en: Subjunctive if referring to future events
+      ko: 미래 사건을 가리킬 때 접속법
+  - spanish: hasta que
+    translation:
+      en: until
+      ko: ~할 때까지
+    gender: null
+    notes:
+      en: Subjunctive if future; indicative if habitual/past
+      ko: 미래이면 접속법; 습관/과거이면 직설법
+  - spanish: tan pronto como
+    translation:
+      en: as soon as
+      ko: ~하자마자
+    gender: null
+    notes:
+      en: Subjunctive if future; indicative if past
+      ko: 미래이면 접속법; 과거이면 직설법
+  - spanish: en cuanto
+    translation:
+      en: as soon as
+      ko: ~하자마자
+    gender: null
+    notes:
+      en: Synonym of 'tan pronto como'
+      ko: "'tan pronto como'의 동의어"
+  - spanish: mientras que
+    translation:
+      en: as long as / while
+      ko: ~하는 동안 / ~하는 한
+    gender: null
+  - spanish: a fin de que
+    translation:
+      en: in order that / so that
+      ko: ~하기 위해서
+    gender: null
+    notes:
+      en: Formal equivalent of 'para que'; always subjunctive
+      ko: "'para que'의 격식 등가물; 항상 접속법"
+  - spanish: a condición de que
+    translation:
+      en: on condition that
+      ko: ~한다는 조건으로
+    gender: null
+  - spanish: en caso de que
+    translation:
+      en: in case (that)
+      ko: ~할 경우에
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - spanish: donde
+    translation:
+      en: wherever
+      ko: 어디든지
+    gender: null
+    notes:
+      en: Subjunctive when location is unknown/indefinite
+      ko: 장소가 불확실/불명일 때 접속법
+  - spanish: como
+    translation:
+      en: however / as
+      ko: 어떻게든 / ~처럼
+    gender: null
+    notes:
+      en: "'hazlo como quieras' = do it however you want"
+      ko: "'hazlo como quieras' = 네가 원하는 대로 해"
+- id: emotion_expressions
+  label:
+    en: Emotion Expressions (Subjunctive Triggers)
+    ko: 감정 표현 (접속법 유발)
+  type: vocabulary
+  words:
+  - spanish: me alegra que
+    translation:
+      en: it makes me happy that
+      ko: ~해서 기쁘다
+    gender: null
+  - spanish: me sorprende que
+    translation:
+      en: it surprises me that
+      ko: ~해서 놀랍다
+    gender: null
+  - spanish: me molesta que
+    translation:
+      en: it bothers me that
+      ko: ~해서 짜증난다
+    gender: null
+  - spanish: me encanta que
+    translation:
+      en: I love that
+      ko: ~해서 정말 좋다
+    gender: null
+  - spanish: me preocupa que
+    translation:
+      en: it worries me that
+      ko: ~해서 걱정된다
+    gender: null
+  - spanish: me da miedo que
+    translation:
+      en: it scares me that
+      ko: ~해서 무섭다
+    gender: null
+  - spanish: me da pena que
+    translation:
+      en: it saddens me that
+      ko: ~해서 슬프다
+    gender: null
+  - spanish: me fastidia que
+    translation:
+      en: it annoys me that
+      ko: ~해서 짜증난다
+    gender: null
+  - spanish: es ridículo que
+    translation:
+      en: it is ridiculous that
+      ko: ~하다니 우스꽝스럽다
+    gender: null
+  - spanish: es triste que
+    translation:
+      en: it is sad that
+      ko: ~하다니 슬프다
+    gender: null
+  - spanish: es extraño que
+    translation:
+      en: it is strange that
+      ko: ~하다니 이상하다
+    gender: null
+  - spanish: es increíble que
+    translation:
+      en: it is incredible that
+      ko: ~하다니 믿을 수 없다
+    gender: null
+  - spanish: lamentar que
+    translation:
+      en: to regret that
+      ko: ~하여 유감이다
+    gender: null
+  - spanish: tener miedo de que
+    translation:
+      en: to be afraid that
+      ko: ~할까 봐 두렵다
+    gender: null
+- id: doubt_expressions
+  label:
+    en: Doubt & Denial Expressions (Subjunctive Triggers)
+    ko: 의심 & 부정 표현 (접속법 유발)
+  type: vocabulary
+  words:
+  - spanish: no es cierto que
+    translation:
+      en: it is not certain that
+      ko: ~한 것은 확실하지 않다
+    gender: null
+  - spanish: no es seguro que
+    translation:
+      en: it is not sure that
+      ko: ~한 것은 확실하지 않다
+    gender: null
+  - spanish: no es evidente que
+    translation:
+      en: it is not evident that
+      ko: ~한 것은 명백하지 않다
+    gender: null
+  - spanish: negar que
+    translation:
+      en: to deny that
+      ko: ~한 것을 부인하다
+    gender: null
+  - spanish: no pensar que
+    translation:
+      en: to not think that
+      ko: ~라고 생각하지 않다
+    gender: null
+  - spanish: no parecer que
+    translation:
+      en: it doesn't seem that
+      ko: ~인 것 같지 않다
+    gender: null
+  - spanish: es dudoso que
+    translation:
+      en: it is doubtful that
+      ko: ~인 것은 의심스럽다
+    gender: null
+  - spanish: es improbable que
+    translation:
+      en: it is unlikely that
+      ko: ~할 가능성이 낮다
+    gender: null
+  - spanish: es imposible que
+    translation:
+      en: it is impossible that
+      ko: ~하는 것은 불가능하다
+    gender: null
+  - spanish: puede ser que
+    translation:
+      en: it may be that
+      ko: ~일 수도 있다
+    gender: null
+  - spanish: quizá(s)
+    translation:
+      en: perhaps / maybe
+      ko: 아마도
+    gender: null
+    notes:
+      en: Subjunctive or indicative depending on degree of doubt
+      ko: 의심의 정도에 따라 접속법 또는 직설법
+  - spanish: tal vez
+    translation:
+      en: perhaps / maybe
+      ko: 아마 / 혹시
+    gender: null
+    notes:
+      en: Same usage as 'quizás'; subjunctive preferred
+      ko: "'quizás'와 같은 용법; 접속법 선호"
+  - spanish: posiblemente
+    translation:
+      en: possibly
+      ko: 가능하게 / 아마
+    gender: null
+  - spanish: probablemente
+    translation:
+      en: probably
+      ko: 아마 / 아마도
+    gender: null
+    notes:
+      en: Can take either mood; subjunctive when more uncertain
+      ko: 두 서법 모두 가능; 더 불확실할 때 접속법
+- id: subjunctive_phrases
+  label:
+    en: Subjunctive Example Phrases
+    ko: 접속법 예문
+  type: vocabulary
+  words:
+  - spanish: Te lo digo para que lo sepas.
+    translation:
+      en: I'm telling you so that you know.
+      ko: 네가 알도록 말해주는 거야.
+    gender: null
+  - spanish: Hazlo antes de que sea tarde.
+    translation:
+      en: Do it before it's too late.
+      ko: 늦기 전에 해라.
+    gender: null
+  - spanish: Salió sin que nadie lo viera.
+    translation:
+      en: He left without anyone seeing him.
+      ko: 아무도 모르게 나갔다.
+    gender: null
+  - spanish: Iré a menos que llueva.
+    translation:
+      en: I'll go unless it rains.
+      ko: 비가 오지 않는 한 갈 것이다.
+    gender: null
+  - spanish: Cuando llegues, llámame.
+    translation:
+      en: When you arrive, call me.
+      ko: 도착하면 전화해.
+    gender: null
+    notes:
+      en: Subjunctive because 'when' refers to the future
+      ko: "'when'이 미래를 가리키므로 접속법"
+  - spanish: Esperaré hasta que vuelvas.
+    translation:
+      en: I will wait until you return.
+      ko: 네가 돌아올 때까지 기다릴 것이다.
+    gender: null
+  - spanish: Si yo fuera tú, no lo haría.
+    translation:
+      en: If I were you, I wouldn't do it.
+      ko: 내가 너라면 하지 않을 거야.
+    gender: null
+    notes:
+      en: Imperfect subjunctive in contrary-to-fact condition
+      ko: 반사실 조건의 불완료 접속법
+  - spanish: Ojalá hubiera estudiado más.
+    translation:
+      en: I wish I had studied more.
+      ko: 더 공부했더라면 좋았을 텐데.
+    gender: null
+    notes:
+      en: Pluperfect subjunctive for past regret
+      ko: 과거의 후회를 나타내는 대과거 접속법
+  - spanish: Si hubiera sabido, habría ido.
+    translation:
+      en: If I had known, I would have gone.
+      ko: 알았더라면 갔을 텐데.
+    gender: null
+    notes:
+      en: Third conditional — pluperfect subjunctive + conditional perfect
+      ko: 3차 조건 — 대과거 접속법 + 조건 완료
+  - spanish: Buscamos un hotel que tenga piscina.
+    translation:
+      en: We're looking for a hotel that has a pool.
+      ko: 수영장이 있는 호텔을 찾고 있다.
+    gender: null
+    notes:
+      en: Subjunctive in relative clause (unknown entity)
+      ko: 관계절에서의 접속법 (미지의 대상)
+  - spanish: No hay nadie que sepa la respuesta.
+    translation:
+      en: There is no one who knows the answer.
+      ko: 정답을 아는 사람이 아무도 없다.
+    gender: null
+    notes:
+      en: Subjunctive after negative antecedent
+      ko: 부정 선행사 뒤의 접속법
+  - spanish: Aunque sea difícil, lo intentaré.
+    translation:
+      en: Even if it's difficult, I'll try.
+      ko: 비록 어렵더라도 시도할 것이다.
+    gender: null
+  - spanish: Haré lo que me pidas.
+    translation:
+      en: I will do whatever you ask me.
+      ko: 네가 요청하는 대로 할 것이다.
+    gender: null
+  - spanish: Necesitábamos que nos ayudara.
+    translation:
+      en: We needed him/her to help us.
+      ko: 우리는 그/그녀가 우리를 도와주기를 원했다.
+    gender: null
+    notes:
+      en: Imperfect subjunctive triggered by past main clause
+      ko: 과거 주절에 의해 유발된 불완료 접속법
+  - spanish: Quería que vinieras.
+    translation:
+      en: I wanted you to come.
+      ko: 네가 오기를 원했다.
+    gender: null
+  - spanish: No creía que fuera verdad.
+    translation:
+      en: I didn't believe it was true.
+      ko: 그것이 사실이라고 믿지 않았다.
+    gender: null
+  - spanish: Era importante que lo supieras.
+    translation:
+      en: It was important that you knew.
+      ko: 네가 알아야 하는 것이 중요했다.
+    gender: null
+  - spanish: Le pedí que se callara.
+    translation:
+      en: I asked him/her to be quiet.
+      ko: 그/그녀에게 조용히 하라고 부탁했다.
+    gender: null
+  - spanish: Dudaba que pudieran hacerlo.
+    translation:
+      en: I doubted they could do it.
+      ko: 그들이 할 수 있을지 의심했다.
+    gender: null
+- id: imperfect_subjunctive_expressions
+  label:
+    en: Imperfect Subjunctive Expressions
+    ko: 불완료 접속법 표현
+  type: vocabulary
+  words:
+  - spanish: como si
+    translation:
+      en: as if
+      ko: 마치 ~인 것처럼
+    gender: null
+    notes:
+      en: Always requires imperfect or pluperfect subjunctive
+      ko: 항상 불완료 또는 대과거 접속법을 요구
+  - spanish: si yo pudiera
+    translation:
+      en: if I could
+      ko: 내가 할 수 있다면
+    gender: null
+  - spanish: si yo tuviera
+    translation:
+      en: if I had
+      ko: 내가 가지고 있다면
+    gender: null
+  - spanish: si yo supiera
+    translation:
+      en: if I knew
+      ko: 내가 알고 있다면
+    gender: null
+  - spanish: quisiera
+    translation:
+      en: I would like (polite)
+      ko: ~하고 싶습니다 (공손)
+    gender: null
+    notes:
+      en: Imperfect subjunctive of 'querer'; very polite request
+      ko: "'querer'의 불완료 접속법; 매우 공손한 요청"
+  - spanish: debiera
+    translation:
+      en: should / ought to
+      ko: ~해야 할 텐데
+    gender: null
+    notes:
+      en: Imperfect subjunctive of 'deber'; formal alternative to 'debería'
+      ko: "'deber'의 불완료 접속법; 'debería'의 격식 대안"
+  - spanish: hubiera
+    translation:
+      en: had (auxiliary, subjunctive)
+      ko: ~했었다 (조동사, 접속법)
+    gender: null
+    notes:
+      en: Used for pluperfect subjunctive; 'hubiera + past participle'
+      ko: 대과거 접속법에 사용; 'hubiera + 과거분사'
+  - spanish: Si hubiéramos llegado a tiempo...
+    translation:
+      en: If we had arrived on time...
+      ko: 우리가 제시간에 도착했더라면...
+    gender: null
+    notes:
+      en: Pluperfect subjunctive for unfulfilled past condition
+      ko: 이루어지지 않은 과거 조건의 대과거 접속법
+  - spanish: Ojalá pudiéramos volar.
+    translation:
+      en: I wish we could fly.
+      ko: 우리가 날 수 있다면 좋겠다.
+    gender: null
+  - spanish: Si no existiera la gravedad...
+    translation:
+      en: If gravity didn't exist...
+      ko: 중력이 존재하지 않는다면...
+    gender: null
+    notes:
+      en: Contrary-to-fact condition with imperfect subjunctive
+      ko: 불완료 접속법을 사용한 반사실 조건
+  - spanish: Habló como si estuviera cansado.
+    translation:
+      en: He spoke as if he were tired.
+      ko: 그는 마치 피곤한 것처럼 말했다.
+    gender: null
+  - spanish: Te lo dije para que no cometieras el mismo error.
+    translation:
+      en: I told you so you wouldn't make the same mistake.
+      ko: 같은 실수를 하지 않도록 말해줬다.
+    gender: null
+    notes:
+      en: Imperfect subjunctive in purpose clause (past context)
+      ko: 과거 맥락의 목적절에서 불완료 접속법

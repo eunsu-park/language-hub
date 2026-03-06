@@ -166,6 +166,139 @@ categories:
       en: winter
       ko: 겨울
     gender: null
+- id: weather_expressions
+  label:
+    en: Weather Expressions
+    ko: 날씨 표현
+  type: vocabulary
+  words:
+  - spanish: Hace sol.
+    translation:
+      en: It's sunny.
+      ko: 날씨가 맑다.
+    gender: null
+    notes:
+      en: "Literally: It makes sun."
+      ko: "직역: 해를 만든다."
+  - spanish: Hace calor.
+    translation:
+      en: It's hot.
+      ko: 덥다.
+    gender: null
+  - spanish: Hace frío.
+    translation:
+      en: It's cold.
+      ko: 춥다.
+    gender: null
+  - spanish: Hace viento.
+    translation:
+      en: It's windy.
+      ko: 바람이 분다.
+    gender: null
+  - spanish: Hace buen tiempo.
+    translation:
+      en: The weather is nice.
+      ko: 날씨가 좋다.
+    gender: null
+  - spanish: Hace mal tiempo.
+    translation:
+      en: The weather is bad.
+      ko: 날씨가 나쁘다.
+    gender: null
+  - spanish: Llueve. / Está lloviendo.
+    translation:
+      en: It's raining.
+      ko: 비가 온다.
+    gender: null
+  - spanish: Nieva. / Está nevando.
+    translation:
+      en: It's snowing.
+      ko: 눈이 온다.
+    gender: null
+  - spanish: Está nublado.
+    translation:
+      en: It's cloudy.
+      ko: 흐리다.
+    gender: null
+  - spanish: la temperatura
+    translation:
+      en: the temperature
+      ko: 기온
+    gender: f
+  - spanish: el pronóstico
+    translation:
+      en: the forecast
+      ko: 예보
+    gender: m
+  - spanish: la lluvia
+    translation:
+      en: the rain
+      ko: 비
+    gender: f
+  - spanish: la nieve
+    translation:
+      en: the snow
+      ko: 눈
+    gender: f
+- id: time_vocabulary
+  label:
+    en: Time Vocabulary
+    ko: 시간 어휘
+  type: vocabulary
+  words:
+  - spanish: hoy
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+  - spanish: ayer
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - spanish: mañana
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    notes:
+      en: Also means 'morning' (la mañana)
+      ko: "'아침' (la mañana)이라는 뜻도 있음"
+  - spanish: ahora
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+  - spanish: luego
+    translation:
+      en: later / then
+      ko: 나중에 / 그런 다음
+    gender: null
+  - spanish: pronto
+    translation:
+      en: soon
+      ko: 곧
+    gender: null
+  - spanish: tarde
+    translation:
+      en: late
+      ko: 늦게
+    gender: null
+  - spanish: temprano
+    translation:
+      en: early
+      ko: 일찍
+    gender: null
+  - spanish: ya
+    translation:
+      en: already / now
+      ko: 이미 / 벌써
+    gender: null
+  - spanish: todavía
+    translation:
+      en: still / yet
+      ko: 아직
+    gender: null
 - id: 8_common_daily_expressions
   label:
     en: 8. Common Daily Expressions

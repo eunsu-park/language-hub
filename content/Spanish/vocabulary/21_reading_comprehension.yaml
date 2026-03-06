@@ -48,6 +48,31 @@ categories:
     translation:
       en: hospital
     gender: null
+  - spanish: cultura
+    translation:
+      en: culture
+      ko: 문화
+    gender: f
+  - spanish: economía
+    translation:
+      en: economy
+      ko: 경제
+    gender: f
+  - spanish: gobierno
+    translation:
+      en: government
+      ko: 정부
+    gender: m
+  - spanish: sociedad
+    translation:
+      en: society
+      ko: 사회
+    gender: f
+  - spanish: tecnología
+    translation:
+      en: technology
+      ko: 기술
+    gender: f
 - id: vocabulary_from_the_text
   label:
     en: Vocabulary from the Text
@@ -114,6 +139,46 @@ categories:
       en: spokesperson
       ko: 대변인
     gender: null
+  - spanish: destacar
+    translation:
+      en: to stand out / to highlight
+      ko: 두드러지다 / 강조하다
+    gender: null
+  - spanish: señalar
+    translation:
+      en: to point out / to indicate
+      ko: 지적하다 / 나타내다
+    gender: null
+  - spanish: el crecimiento
+    translation:
+      en: growth
+      ko: 성장
+    gender: m
+  - spanish: la demanda
+    translation:
+      en: demand / lawsuit
+      ko: 수요 / 소송
+    gender: f
+  - spanish: el plazo
+    translation:
+      en: deadline / term / period
+      ko: 기한 / 기간
+    gender: m
+  - spanish: la cifra
+    translation:
+      en: figure / number
+      ko: 수치 / 숫자
+    gender: f
+  - spanish: el ámbito
+    translation:
+      en: scope / field / domain
+      ko: 범위 / 분야
+    gender: m
+  - spanish: alcanzar
+    translation:
+      en: to reach / to achieve
+      ko: 도달하다 / 달성하다
+    gender: null
 - id: formal_email_vocabulary
   label:
     en: Formal Email Vocabulary
@@ -160,3 +225,209 @@ categories:
       en: Sincerely
       ko: 경의를 표하며 (맺음 인사)
     gender: null
+  - spanish: Adjuntar
+    translation:
+      en: to attach / to enclose
+      ko: 첨부하다 / 동봉하다
+    gender: null
+  - spanish: Le saluda cordialmente
+    translation:
+      en: Kind regards
+      ko: 친절한 인사를 드리며
+    gender: null
+  - spanish: Con referencia a
+    translation:
+      en: With reference to
+      ko: ~에 관하여
+    gender: null
+- id: reading_strategy_vocabulary
+  label:
+    en: Reading Strategy Vocabulary
+    ko: 독해 전략 어휘
+  type: vocabulary
+  words:
+  - spanish: la idea principal
+    translation:
+      en: main idea
+      ko: 주제 / 중심 생각
+    gender: f
+  - spanish: el párrafo
+    translation:
+      en: paragraph
+      ko: 단락
+    gender: m
+  - spanish: el resumen
+    translation:
+      en: summary
+      ko: 요약
+    gender: m
+  - spanish: el contexto
+    translation:
+      en: context
+      ko: 문맥
+    gender: m
+  - spanish: inferir
+    translation:
+      en: to infer
+      ko: 추론하다
+    gender: null
+  - spanish: deducir
+    translation:
+      en: to deduce
+      ko: 연역하다 / 추론하다
+    gender: null
+  - spanish: el argumento
+    translation:
+      en: argument / plot
+      ko: 논점 / 줄거리
+    gender: m
+    notes:
+      en: In literature, means 'plot'; in essays, means 'argument'
+      ko: 문학에서는 '줄거리', 에세이에서는 '논점'
+  - spanish: el propósito
+    translation:
+      en: purpose
+      ko: 목적
+    gender: m
+  - spanish: el punto de vista
+    translation:
+      en: point of view
+      ko: 관점
+    gender: m
+  - spanish: el titular
+    translation:
+      en: headline
+      ko: 표제 / 헤드라인
+    gender: m
+  - spanish: la fuente
+    translation:
+      en: source
+      ko: 출처 / 원천
+    gender: f
+  - spanish: el índice
+    translation:
+      en: index / table of contents
+      ko: 색인 / 목차
+    gender: m
+- id: text_structure_and_connectors
+  label:
+    en: Text Structure and Connectors
+    ko: 텍스트 구조와 접속어
+  type: vocabulary
+  words:
+  - spanish: en primer lugar
+    translation:
+      en: in the first place
+      ko: 우선 / 첫째로
+    gender: null
+  - spanish: por una parte... por otra
+    translation:
+      en: on one hand... on the other
+      ko: 한편으로는... 다른 한편으로는
+    gender: null
+  - spanish: sin embargo
+    translation:
+      en: however / nevertheless
+      ko: 그러나 / 그럼에도 불구하고
+    gender: null
+  - spanish: en conclusión
+    translation:
+      en: in conclusion
+      ko: 결론적으로
+    gender: null
+  - spanish: según
+    translation:
+      en: according to
+      ko: ~에 따르면
+    gender: null
+  - spanish: a pesar de
+    translation:
+      en: despite / in spite of
+      ko: ~에도 불구하고
+    gender: null
+  - spanish: por lo tanto
+    translation:
+      en: therefore
+      ko: 그러므로
+    gender: null
+  - spanish: es decir
+    translation:
+      en: that is to say
+      ko: 즉, 다시 말해
+    gender: null
+  - spanish: así como
+    translation:
+      en: as well as
+      ko: ~뿐만 아니라
+    gender: null
+  - spanish: de hecho
+    translation:
+      en: in fact
+      ko: 사실은 / 실제로
+    gender: null
+  - spanish: en cambio
+    translation:
+      en: on the other hand / instead
+      ko: 반면에 / 대신에
+    gender: null
+- id: text_types_and_genres
+  label:
+    en: Text Types and Genres
+    ko: 텍스트 유형과 장르
+  type: vocabulary
+  words:
+  - spanish: el artículo
+    translation:
+      en: article
+      ko: 기사 / 논문
+    gender: m
+  - spanish: el ensayo
+    translation:
+      en: essay
+      ko: 에세이 / 수필
+    gender: m
+  - spanish: la reseña
+    translation:
+      en: review (book, film)
+      ko: 서평 / 비평
+    gender: f
+  - spanish: el informe
+    translation:
+      en: report
+      ko: 보고서
+    gender: m
+  - spanish: la novela
+    translation:
+      en: novel
+      ko: 소설
+    gender: f
+  - spanish: el cuento
+    translation:
+      en: short story / tale
+      ko: 단편 / 이야기
+    gender: m
+  - spanish: la crónica
+    translation:
+      en: chronicle / feature article
+      ko: 연대기 / 르포
+    gender: f
+  - spanish: el editorial
+    translation:
+      en: editorial / opinion piece
+      ko: 사설 / 논설
+    gender: m
+  - spanish: la entrevista
+    translation:
+      en: interview
+      ko: 인터뷰
+    gender: f
+  - spanish: el prólogo
+    translation:
+      en: prologue / foreword
+      ko: 서문 / 머리말
+    gender: m
+  - spanish: la bibliografía
+    translation:
+      en: bibliography
+      ko: 참고문헌
+    gender: f

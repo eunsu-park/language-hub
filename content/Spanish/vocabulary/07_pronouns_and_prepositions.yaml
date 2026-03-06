@@ -159,6 +159,457 @@ categories:
       en: to feel
       ko: 느끼다
     gender: null
+  - spanish: quedarse
+    translation:
+      en: to stay
+      ko: 머무르다
+    gender: null
+  - spanish: ponerse
+    translation:
+      en: to put on / to become
+      ko: 입다 / ~해지다
+    gender: null
+    notes:
+      en: "Me pongo el abrigo. — I put on my coat."
+      ko: "Me pongo el abrigo. — 코트를 입는다."
+  - spanish: acordarse
+    translation:
+      en: to remember
+      ko: 기억하다
+    gender: null
+    notes:
+      en: "o→ue: me acuerdo de..."
+      ko: "o→ue: me acuerdo de..."
+  - spanish: olvidarse
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    notes:
+      en: "Me olvido de todo. — I forget everything."
+      ko: "Me olvido de todo. — 모든 것을 잊는다."
+  - spanish: quitarse
+    translation:
+      en: to take off (clothing)
+      ko: (옷을) 벗다
+    gender: null
+  - spanish: maquillarse
+    translation:
+      en: to put on makeup
+      ko: 화장하다
+    gender: null
+  - spanish: afeitarse
+    translation:
+      en: to shave
+      ko: 면도하다
+    gender: null
+  - spanish: bañarse
+    translation:
+      en: to bathe
+      ko: 목욕하다
+    gender: null
+  - spanish: secarse
+    translation:
+      en: to dry oneself
+      ko: (몸을) 말리다
+    gender: null
+  - spanish: quejarse
+    translation:
+      en: to complain
+      ko: 불평하다
+    gender: null
+    notes:
+      en: "Me quejo del ruido. — I complain about the noise."
+      ko: "Me quejo del ruido. — 소음에 대해 불평한다."
+  - spanish: preocuparse
+    translation:
+      en: to worry
+      ko: 걱정하다
+    gender: null
+    notes:
+      en: "No te preocupes. — Don't worry."
+      ko: "No te preocupes. — 걱정하지 마."
+- id: demonstrative_pronouns
+  label:
+    en: Demonstrative Pronouns
+    ko: 지시 대명사
+  type: vocabulary
+  words:
+  - spanish: este/esta
+    translation:
+      en: this
+      ko: 이것
+    gender: null
+    notes:
+      en: este (m), esta (f) — near the speaker
+      ko: este (남), esta (여) — 화자 가까이
+  - spanish: estos/estas
+    translation:
+      en: these
+      ko: 이것들
+    gender: null
+  - spanish: ese/esa
+    translation:
+      en: that
+      ko: 그것
+    gender: null
+    notes:
+      en: ese (m), esa (f) — near the listener
+      ko: ese (남), esa (여) — 청자 가까이
+  - spanish: esos/esas
+    translation:
+      en: those
+      ko: 그것들
+    gender: null
+  - spanish: aquel/aquella
+    translation:
+      en: that (over there)
+      ko: 저것
+    gender: null
+    notes:
+      en: Far from both speaker and listener
+      ko: 화자와 청자 모두에게서 먼 것
+  - spanish: aquellos/aquellas
+    translation:
+      en: those (over there)
+      ko: 저것들
+    gender: null
+  - spanish: esto
+    translation:
+      en: this (neuter)
+      ko: 이것 (중성)
+    gender: null
+    notes:
+      en: Used for abstract ideas or unknown things
+      ko: 추상적인 개념이나 알 수 없는 것에 사용
+  - spanish: eso
+    translation:
+      en: that (neuter)
+      ko: 그것 (중성)
+    gender: null
+  - spanish: aquello
+    translation:
+      en: that over there (neuter)
+      ko: 저것 (중성)
+    gender: null
+- id: indefinite_pronouns
+  label:
+    en: Indefinite Pronouns
+    ko: 부정 대명사
+  type: vocabulary
+  words:
+  - spanish: algo
+    translation:
+      en: something
+      ko: 무언가
+    gender: null
+  - spanish: nada
+    translation:
+      en: nothing
+      ko: 아무것도 (~않다)
+    gender: null
+  - spanish: alguien
+    translation:
+      en: someone
+      ko: 누군가
+    gender: null
+  - spanish: nadie
+    translation:
+      en: nobody
+      ko: 아무도 (~않다)
+    gender: null
+  - spanish: todo/a
+    translation:
+      en: everything / all
+      ko: 모든 것 / 전부
+    gender: null
+  - spanish: cada
+    translation:
+      en: each / every
+      ko: 각각의 / 모든
+    gender: null
+    notes:
+      en: Invariable; always followed by singular noun
+      ko: 불변; 항상 단수 명사와 함께 사용
+  - spanish: otro/a
+    translation:
+      en: another / other
+      ko: 다른
+    gender: null
+  - spanish: alguno/a
+    translation:
+      en: some / any
+      ko: 어떤 / 몇몇의
+    gender: null
+    notes:
+      en: Shortens to 'algún' before masculine singular noun
+      ko: 남성 단수 명사 앞에서 'algún'으로 축약
+  - spanish: ninguno/a
+    translation:
+      en: none / not any
+      ko: 아무 ~도 없는
+    gender: null
+    notes:
+      en: Shortens to 'ningún' before masculine singular noun
+      ko: 남성 단수 명사 앞에서 'ningún'으로 축약
+  - spanish: varios/as
+    translation:
+      en: several
+      ko: 여러 개의
+    gender: null
+  - spanish: mucho/a
+    translation:
+      en: much / a lot
+      ko: 많은
+    gender: null
+  - spanish: poco/a
+    translation:
+      en: little / few
+      ko: 적은
+    gender: null
+  - spanish: bastante
+    translation:
+      en: enough / quite
+      ko: 충분한 / 꽤
+    gender: null
+  - spanish: demasiado/a
+    translation:
+      en: too much / too many
+      ko: 너무 많은
+    gender: null
+  - spanish: mismo/a
+    translation:
+      en: same / self
+      ko: 같은 / 자기 자신
+    gender: null
+    notes:
+      en: "Yo mismo — I myself"
+      ko: "Yo mismo — 나 자신"
+- id: pronoun_usage_examples
+  label:
+    en: Pronoun Usage Examples
+    ko: 대명사 사용 예문
+  type: vocabulary
+  words:
+  - spanish: a mí
+    translation:
+      en: to me (prepositional)
+      ko: 나에게 (전치사 뒤)
+    gender: null
+    notes:
+      en: "A mí me gusta. — I like it."
+      ko: "A mí me gusta. — 나는 그것이 좋다."
+  - spanish: a ti
+    translation:
+      en: to you (prepositional, informal)
+      ko: 너에게 (전치사 뒤, 비격식)
+    gender: null
+  - spanish: a él / a ella
+    translation:
+      en: to him / to her
+      ko: 그에게 / 그녀에게
+    gender: null
+  - spanish: a usted
+    translation:
+      en: to you (prepositional, formal)
+      ko: 당신에게 (전치사 뒤, 격식)
+    gender: null
+  - spanish: a nosotros/as
+    translation:
+      en: to us
+      ko: 우리에게
+    gender: null
+  - spanish: a ellos/as
+    translation:
+      en: to them
+      ko: 그들에게
+    gender: null
+  - spanish: conmigo
+    translation:
+      en: with me
+      ko: 나와 함께
+    gender: null
+    notes:
+      en: Special form; not 'con mí'
+      ko: 특수 형태; 'con mí'가 아님
+  - spanish: contigo
+    translation:
+      en: with you (informal)
+      ko: 너와 함께
+    gender: null
+    notes:
+      en: Special form; not 'con ti'
+      ko: 특수 형태; 'con ti'가 아님
+  - spanish: consigo
+    translation:
+      en: with him/her/yourself (formal)
+      ko: 그/그녀와 함께 / 당신과 함께
+    gender: null
+    notes:
+      en: Reflexive prepositional pronoun
+      ko: 재귀 전치사 대명사
+- id: preposition_examples
+  label:
+    en: Preposition Usage Examples
+    ko: 전치사 사용 예시
+  type: vocabulary
+  words:
+  - spanish: al (a + el)
+    translation:
+      en: to the (contraction)
+      ko: ~에 / ~으로 (축약형)
+    gender: null
+    notes:
+      en: "Voy al parque. — I go to the park."
+      ko: "Voy al parque. — 공원에 간다."
+  - spanish: del (de + el)
+    translation:
+      en: of the / from the (contraction)
+      ko: ~의 / ~에서 (축약형)
+    gender: null
+    notes:
+      en: "Vengo del trabajo. — I come from work."
+      ko: "Vengo del trabajo. — 직장에서 온다."
+  - spanish: antes de
+    translation:
+      en: before
+      ko: ~전에
+    gender: null
+  - spanish: después de
+    translation:
+      en: after
+      ko: ~후에
+    gender: null
+  - spanish: en vez de
+    translation:
+      en: instead of
+      ko: ~대신에
+    gender: null
+  - spanish: a causa de
+    translation:
+      en: because of
+      ko: ~때문에
+    gender: null
+  - spanish: a pesar de
+    translation:
+      en: in spite of
+      ko: ~에도 불구하고
+    gender: null
+  - spanish: gracias a
+    translation:
+      en: thanks to
+      ko: ~덕분에
+    gender: null
+  - spanish: junto a
+    translation:
+      en: next to / together with
+      ko: ~옆에 / ~와 함께
+    gender: null
+  - spanish: a través de
+    translation:
+      en: through / across
+      ko: ~을 통해 / ~을 가로질러
+    gender: null
+  - spanish: alrededor de
+    translation:
+      en: around
+      ko: ~주위에
+    gender: null
+  - spanish: en lugar de
+    translation:
+      en: in place of
+      ko: ~대신에
+    gender: null
+  - spanish: respecto a
+    translation:
+      en: regarding / with respect to
+      ko: ~에 관하여
+    gender: null
+- id: relative_pronouns
+  label:
+    en: Relative Pronouns
+    ko: 관계 대명사
+  type: vocabulary
+  words:
+  - spanish: que
+    translation:
+      en: that / which / who
+      ko: ~하는 / ~인
+    gender: null
+    notes:
+      en: Most common relative pronoun
+      ko: 가장 흔한 관계 대명사
+  - spanish: quien / quienes
+    translation:
+      en: who / whom
+      ko: ~하는 사람
+    gender: null
+    notes:
+      en: Used after prepositions for people
+      ko: 전치사 뒤에서 사람에 대해 사용
+  - spanish: donde
+    translation:
+      en: where
+      ko: ~하는 곳
+    gender: null
+    notes:
+      en: "La ciudad donde vivo. — The city where I live."
+      ko: "La ciudad donde vivo. — 내가 사는 도시."
+  - spanish: lo que
+    translation:
+      en: what / that which
+      ko: ~하는 것
+    gender: null
+    notes:
+      en: "No entiendo lo que dices. — I don't understand what you say."
+      ko: "No entiendo lo que dices. — 네가 말하는 것을 이해 못 하겠어."
+  - spanish: el/la cual
+    translation:
+      en: which (formal)
+      ko: ~하는 것 (격식)
+    gender: null
+    notes:
+      en: More formal alternative to 'que'
+      ko: "'que'의 더 격식적인 대안"
+  - spanish: cuyo/a
+    translation:
+      en: whose
+      ko: ~의
+    gender: null
+    notes:
+      en: Agrees in gender/number with the thing possessed
+      ko: 소유된 것의 성/수와 일치
+  - spanish: cuando
+    translation:
+      en: when (relative)
+      ko: ~할 때
+    gender: null
+  - spanish: como
+    translation:
+      en: as / how (relative)
+      ko: ~처럼 / ~하는 방법
+    gender: null
+  - spanish: cuanto/a
+    translation:
+      en: as much as
+      ko: ~만큼
+    gender: null
+  - spanish: adonde
+    translation:
+      en: where (direction)
+      ko: ~하는 곳으로
+    gender: null
+    notes:
+      en: "La ciudad adonde vamos. — The city where we're going."
+      ko: "La ciudad adonde vamos. — 우리가 가는 도시."
+  - spanish: el/la que
+    translation:
+      en: the one that
+      ko: ~하는 사람/것
+    gender: null
+    notes:
+      en: "El que estudia aprende. — The one who studies learns."
+      ko: "El que estudia aprende. — 공부하는 사람이 배운다."
 - id: possessive_adjectives_before_the_noun
   label:
     en: Possessive Adjectives (before the noun)
