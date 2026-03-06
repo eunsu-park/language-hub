@@ -78,6 +78,48 @@ categories:
       ko: 오보
     gender: null
     plural: null
+  - japanese: 取材
+    reading: しゅざい
+    translation:
+      en: news gathering, coverage
+      ko: 취재
+    gender: null
+    plural: null
+  - japanese: 特派員
+    reading: とくはいん
+    translation:
+      en: correspondent (news)
+      ko: 특파원
+    gender: null
+    plural: null
+  - japanese: 世論
+    reading: せろん
+    translation:
+      en: public opinion
+      ko: 여론
+    gender: null
+    plural: null
+  - japanese: 偏向報道
+    reading: へんこうほうどう
+    translation:
+      en: biased reporting
+      ko: 편향 보도
+    gender: null
+    plural: null
+  - japanese: 号外
+    reading: ごうがい
+    translation:
+      en: newspaper extra edition
+      ko: 호외
+    gender: null
+    plural: null
+  - japanese: 連載
+    reading: れんさい
+    translation:
+      en: serialization (newspaper column)
+      ko: 연재
+    gender: null
+    plural: null
 
 - id: internet_language
   label:
@@ -157,6 +199,37 @@ categories:
     notes:
       en: "Read horizontally, e.g., (^_^) (T_T) m(_ _)m"
       ko: "가로로 읽음, 예: (^_^) (T_T) m(_ _)m"
+  - japanese: まとめサイト
+    reading: null
+    translation:
+      en: aggregation site, summary site
+      ko: 요약 사이트
+    gender: null
+    plural: null
+  - japanese: 掲示板
+    reading: けいじばん
+    translation:
+      en: message board, forum
+      ko: 게시판
+    gender: null
+    plural: null
+  - japanese: 既読スルー
+    reading: きどくスルー
+    translation:
+      en: ignoring a read message
+      ko: 읽씹 (읽고 무시)
+    gender: null
+    plural: null
+    notes:
+      en: "Leaving someone 'on read' in LINE or other messaging apps"
+      ko: "LINE 등 메신저에서 읽고 답 안 하기"
+  - japanese: リプ
+    reading: null
+    translation:
+      en: reply (on social media)
+      ko: 답글
+    gender: null
+    plural: null
 
 - id: youth_slang
   label:
@@ -235,6 +308,44 @@ categories:
       ko: 음캐 (내향적인 사람)
     gender: null
     plural: null
+  - japanese: マジ
+    reading: null
+    translation:
+      en: seriously, for real
+      ko: 진짜로, 정말로
+    gender: null
+    plural: null
+  - japanese: ウケる
+    reading: null
+    translation:
+      en: hilarious, that's so funny
+      ko: 웃기다, 재밌다
+    gender: null
+    plural: null
+  - japanese: きまい
+    reading: null
+    translation:
+      en: gross, creepy (slang for 気持ち悪い)
+      ko: 징그러운 (気持ち悪い의 속어)
+    gender: null
+    plural: null
+  - japanese: イケメン
+    reading: null
+    translation:
+      en: handsome man
+      ko: 미남 (잘생긴 남자)
+    gender: null
+    plural: null
+  - japanese: 草
+    reading: くさ
+    translation:
+      en: LOL (internet slang)
+      ko: ㅋㅋㅋ (인터넷 속어)
+    gender: null
+    plural: null
+    notes:
+      en: "From w (warai=laugh) repeated; www looks like grass 草"
+      ko: "w(warai=웃음)를 반복하면 www가 풀(草)처럼 보여서 유래"
 
 - id: media_terms
   label:
@@ -309,5 +420,228 @@ categories:
     translation:
       en: logically defeating an argument
       ko: 논파 (논리적으로 반박)
+    gender: null
+    plural: null
+  - japanese: 再放送
+    reading: さいほうそう
+    translation:
+      en: rerun, rebroadcast
+      ko: 재방송
+    gender: null
+    plural: null
+  - japanese: 視聴者
+    reading: しちょうしゃ
+    translation:
+      en: viewer, audience
+      ko: 시청자
+    gender: null
+    plural: null
+  - japanese: 番組
+    reading: ばんぐみ
+    translation:
+      en: TV program
+      ko: 프로그램 (방송)
+    gender: null
+    plural: null
+  - japanese: バラエティ番組
+    reading: バラエティばんぐみ
+    translation:
+      en: variety show
+      ko: 버라이어티 프로그램
+    gender: null
+    plural: null
+  - japanese: ドキュメンタリー
+    reading: null
+    translation:
+      en: documentary
+      ko: 다큐멘터리
+    gender: null
+    plural: null
+
+- id: social_media
+  label:
+    en: Social Media
+    ko: 소셜 미디어
+  type: vocabulary
+  words:
+  - japanese: フォロワー
+    reading: null
+    translation:
+      en: follower
+      ko: 팔로워
+    gender: null
+    plural: null
+  - japanese: いいね
+    reading: null
+    translation:
+      en: like (social media)
+      ko: 좋아요
+    gender: null
+    plural: null
+  - japanese: 投稿
+    reading: とうこう
+    translation:
+      en: post, submission
+      ko: 투고 (게시물)
+    gender: null
+    plural: null
+  - japanese: 配信
+    reading: はいしん
+    translation:
+      en: streaming, distribution
+      ko: 배신 (스트리밍)
+    gender: null
+    plural: null
+  - japanese: 動画
+    reading: どうが
+    translation:
+      en: video
+      ko: 동영상
+    gender: null
+    plural: null
+  - japanese: 登録者数
+    reading: とうろくしゃすう
+    translation:
+      en: subscriber count
+      ko: 구독자 수
+    gender: null
+    plural: null
+  - japanese: タグ付け
+    reading: タグづけ
+    translation:
+      en: tagging
+      ko: 태그 달기
+    gender: null
+    plural: null
+  - japanese: ハッシュタグ
+    reading: null
+    translation:
+      en: hashtag
+      ko: 해시태그
+    gender: null
+    plural: null
+  - japanese: インフルエンサー
+    reading: null
+    translation:
+      en: influencer
+      ko: 인플루언서
+    gender: null
+    plural: null
+  - japanese: サブスク
+    reading: null
+    translation:
+      en: subscription (service)
+      ko: 구독 (서비스)
+    gender: null
+    plural: null
+    notes:
+      en: "Abbreviation of サブスクリプション"
+      ko: "サブスクリプション의 줄임말"
+
+- id: technology_and_apps
+  label:
+    en: Technology and Apps
+    ko: 기술 및 앱
+  type: vocabulary
+  words:
+  - japanese: アプリ
+    reading: null
+    translation:
+      en: app, application
+      ko: 앱
+    gender: null
+    plural: null
+  - japanese: ダウンロード
+    reading: null
+    translation:
+      en: download
+      ko: 다운로드
+    gender: null
+    plural: null
+  - japanese: 課金
+    reading: かきん
+    translation:
+      en: in-app purchase, pay-to-play
+      ko: 과금 (인앱 결제)
+    gender: null
+    plural: null
+  - japanese: 無料
+    reading: むりょう
+    translation:
+      en: free (of charge)
+      ko: 무료
+    gender: null
+    plural: null
+  - japanese: 検索
+    reading: けんさく
+    translation:
+      en: search (online)
+      ko: 검색
+    gender: null
+    plural: null
+  - japanese: 通知
+    reading: つうち
+    translation:
+      en: notification
+      ko: 알림
+    gender: null
+    plural: null
+  - japanese: 個人情報
+    reading: こじんじょうほう
+    translation:
+      en: personal information
+      ko: 개인 정보
+    gender: null
+    plural: null
+  - japanese: セキュリティ
+    reading: null
+    translation:
+      en: security
+      ko: 보안
+    gender: null
+    plural: null
+  - japanese: パスワード
+    reading: null
+    translation:
+      en: password
+      ko: 비밀번호
+    gender: null
+    plural: null
+  - japanese: ログイン
+    reading: null
+    translation:
+      en: login
+      ko: 로그인
+    gender: null
+    plural: null
+  - japanese: スクショ
+    reading: null
+    translation:
+      en: screenshot
+      ko: 스크린샷
+    gender: null
+    plural: null
+    notes:
+      en: "Abbreviation of スクリーンショット"
+      ko: "スクリーンショット의 줄임말"
+  - japanese: ネット
+    reading: null
+    translation:
+      en: internet (colloquial)
+      ko: 인터넷 (구어)
+    gender: null
+    plural: null
+  - japanese: 電子マネー
+    reading: でんしマネー
+    translation:
+      en: electronic money, e-money
+      ko: 전자 화폐
+    gender: null
+    plural: null
+  - japanese: キャッシュレス
+    reading: null
+    translation:
+      en: cashless (payment)
+      ko: 캐시리스 (비현금 결제)
     gender: null
     plural: null

@@ -244,6 +244,66 @@ categories:
     notes:
       en: "Sound changes: 1=いっぱい, 3=さんばい, 6=ろっぱい"
       ko: "음변화: 1=いっぱい, 3=さんばい, 6=ろっぱい"
+  - japanese: 個
+    reading: こ
+    translation:
+      en: counter for small objects
+      ko: 작은 물건 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For small, roundish items. Sound changes: 1=いっこ, 6=ろっこ, 8=はっこ, 10=じゅっこ"
+      ko: "작고 둥근 물건에 사용. 음변화: 1=いっこ, 6=ろっこ, 8=はっこ, 10=じゅっこ"
+  - japanese: 回
+    reading: かい
+    translation:
+      en: counter for times/occasions
+      ko: 회 / 번 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "一回 (いっかい) = one time. 何回 (なんかい) = how many times?"
+      ko: "一回(いっかい) = 한 번. 何回(なんかい) = 몇 번?"
+  - japanese: 階
+    reading: かい
+    translation:
+      en: counter for floors/stories
+      ko: 층 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 1階=いっかい, 3階=さんがい. 何階=なんがい"
+      ko: "음변화: 1階=いっかい, 3階=さんがい. 何階=なんがい"
+  - japanese: 番
+    reading: ばん
+    translation:
+      en: counter for ordinal numbers / number ~
+      ko: 번 / 번째 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "一番 (いちばん) = number one / most. 何番 = what number?"
+      ko: "一番(いちばん) = 1번 / 가장. 何番 = 몇 번?"
+  - japanese: 頭
+    reading: とう
+    translation:
+      en: counter for large animals
+      ko: 큰 동물 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For horses, cows, elephants. No major sound changes."
+      ko: "말, 소, 코끼리 등. 큰 음변화 없음."
+  - japanese: 足
+    reading: そく
+    translation:
+      en: counter for pairs of footwear
+      ko: 신발 조수사 (켤레)
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 1足=いっそく, 3足=さんぞく"
+      ko: "음변화: 1足=いっそく, 3足=さんぞく"
 
 - id: time_expressions
   label:
@@ -321,6 +381,13 @@ categories:
     translation:
       en: now
       ko: 지금
+    gender: null
+    plural: null
+  - japanese: 秒
+    reading: びょう
+    translation:
+      en: second (time)
+      ko: 초
     gender: null
     plural: null
 
@@ -480,3 +547,190 @@ categories:
     notes:
       en: "Kanji: 誕(birth) + 生(life) + 日(day)"
       ko: "한자: 탄(태어남) + 생(삶) + 일(날)"
+  - japanese: 先週
+    reading: せんしゅう
+    translation:
+      en: last week
+      ko: 지난주
+    gender: null
+    plural: null
+  - japanese: 先月
+    reading: せんげつ
+    translation:
+      en: last month
+      ko: 지난달
+    gender: null
+    plural: null
+  - japanese: 去年
+    reading: きょねん
+    translation:
+      en: last year
+      ko: 작년
+    gender: null
+    plural: null
+  - japanese: 毎週
+    reading: まいしゅう
+    translation:
+      en: every week
+      ko: 매주
+    gender: null
+    plural: null
+  - japanese: 毎月
+    reading: まいつき
+    translation:
+      en: every month
+      ko: 매달
+    gender: null
+    plural: null
+    notes:
+      en: "Also read まいげつ (maigetsu) in formal contexts"
+      ko: "격식적 상황에서는 まいげつ(마이게쓰)로도 읽음"
+  - japanese: 毎年
+    reading: まいとし
+    translation:
+      en: every year
+      ko: 매년
+    gender: null
+    plural: null
+    notes:
+      en: "Also read まいねん (mainen)"
+      ko: "まいねん(마이넨)으로도 읽음"
+
+- id: duration_expressions
+  label:
+    en: Duration Expressions
+    ko: 기간 표현
+  type: vocabulary
+  words:
+  - japanese: 時間
+    reading: じかん
+    translation:
+      en: time / hour (duration)
+      ko: 시간
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 時(time) + 間(interval). 三時間 = 3 hours (duration), vs 三時 = 3 o'clock"
+      ko: "한자: 時(때) + 間(사이). 三時間 = 3시간(기간), vs 三時 = 3시(시각)"
+  - japanese: 日間
+    reading: にちかん
+    translation:
+      en: days (duration counter)
+      ko: 일간 (기간 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "三日間 (みっかかん) = for 3 days"
+      ko: "三日間(みっかかん) = 3일간"
+  - japanese: 週間
+    reading: しゅうかん
+    translation:
+      en: weeks (duration counter)
+      ko: 주간 (기간 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "二週間 (にしゅうかん) = for 2 weeks"
+      ko: "二週間(にしゅうかん) = 2주간"
+  - japanese: か月
+    reading: かげつ
+    translation:
+      en: months (duration counter)
+      ko: 개월 (기간 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "六か月 (ろっかげつ) = for 6 months. Also written ヶ月 or ヵ月."
+      ko: "六か月(ろっかげつ) = 6개월. ヶ月 또는 ヵ月로도 표기."
+  - japanese: 年間
+    reading: ねんかん
+    translation:
+      en: years (duration counter)
+      ko: 년간 (기간 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "一年間 (いちねんかん) = for 1 year"
+      ko: "一年間(いちねんかん) = 1년간"
+  - japanese: 前
+    reading: まえ
+    translation:
+      en: before / ago / in front of
+      ko: 전 / ~전에 / 앞
+    gender: null
+    plural: null
+    notes:
+      en: "三年前 (さんねんまえ) = 3 years ago"
+      ko: "三年前(さんねんまえ) = 3년 전"
+  - japanese: 後
+    reading: あと
+    translation:
+      en: after / later / behind
+      ko: 후 / 뒤
+    gender: null
+    plural: null
+    notes:
+      en: "三十分後 (さんじゅっぷんご) = 30 minutes later. Also read ご (go)."
+      ko: "三十分後(さんじゅっぷんご) = 30분 후. ご(고)로도 읽음."
+  - japanese: ぐらい
+    reading: null
+    translation:
+      en: about / approximately
+      ko: 쯤 / 정도
+    gender: null
+    plural: null
+    notes:
+      en: "三時間ぐらい = about 3 hours. Also written くらい."
+      ko: "三時間ぐらい = 약 3시간. くらい로도 표기."
+  - japanese: 一日
+    reading: いちにち
+    translation:
+      en: one day / all day
+      ko: 하루 / 하루 종일
+    gender: null
+    plural: null
+    notes:
+      en: "Also read ついたち (tsuitachi) when meaning the 1st of the month"
+      ko: "매월 1일을 뜻할 때는 ついたち(쓰이타치)로 읽음"
+  - japanese: 一週間
+    reading: いっしゅうかん
+    translation:
+      en: one week
+      ko: 일주일
+    gender: null
+    plural: null
+  - japanese: 一か月
+    reading: いっかげつ
+    translation:
+      en: one month
+      ko: 한 달
+    gender: null
+    plural: null
+  - japanese: 一年
+    reading: いちねん
+    translation:
+      en: one year
+      ko: 일 년
+    gender: null
+    plural: null
+  - japanese: 何時
+    reading: なんじ
+    translation:
+      en: what time?
+      ko: 몇 시?
+    gender: null
+    plural: null
+  - japanese: 何分
+    reading: なんぷん
+    translation:
+      en: how many minutes?
+      ko: 몇 분?
+    gender: null
+    plural: null
+  - japanese: 何曜日
+    reading: なんようび
+    translation:
+      en: what day of the week?
+      ko: 무슨 요일?
+    gender: null
+    plural: null

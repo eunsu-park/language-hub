@@ -88,6 +88,69 @@ categories:
     notes:
       en: "た-form + り for each action. する at end required. Non-exhaustive list."
       ko: "각 행동에 た형 + り. 끝에 する 필수. 전부를 나열하지 않는 목록."
+  - japanese: て
+    reading: null
+    translation:
+      en: and then, and (sequential connector)
+      ko: ~하고, ~해서 (순차 연결)
+    gender: null
+    plural: null
+  - japanese: たら
+    reading: null
+    translation:
+      en: after doing, when (sequential)
+      ko: ~하고 나서, ~하니 (순차)
+    gender: null
+    plural: null
+  - japanese: それから
+    reading: null
+    translation:
+      en: and then, after that
+      ko: 그리고 나서, 그 다음에
+    gender: null
+    plural: null
+  - japanese: そして
+    reading: null
+    translation:
+      en: and, and then
+      ko: 그리고, 그래서
+    gender: null
+    plural: null
+  - japanese: ところが
+    reading: null
+    translation:
+      en: however, but then (unexpected)
+      ko: 그런데, 하지만 (예상 밖)
+    gender: null
+    plural: null
+  - japanese: ところで
+    reading: null
+    translation:
+      en: by the way (topic change)
+      ko: 그런데, 그건 그렇고 (화제 전환)
+    gender: null
+    plural: null
+  - japanese: つまり
+    reading: null
+    translation:
+      en: in other words, that is to say
+      ko: 즉, 다시 말하면
+    gender: null
+    plural: null
+  - japanese: すなわち
+    reading: null
+    translation:
+      en: namely, that is (formal)
+      ko: 즉, 곧 (격식)
+    gender: null
+    plural: null
+  - japanese: 要するに
+    reading: ようするに
+    translation:
+      en: in short, to sum up
+      ko: 요컨대, 한마디로
+    gender: null
+    plural: null
 - id: reason_purpose
   label:
     en: Reason and Purpose Expressions
@@ -154,6 +217,69 @@ categories:
     notes:
       en: "Different from contrast のに. 料理するのに便利だ (convenient for cooking)."
       ko: "대조의 のに와 다름. 料理するのに便利だ (요리하는 데 편리하다)."
+  - japanese: ことにする
+    reading: null
+    translation:
+      en: to decide to
+      ko: ~하기로 하다 (결정)
+    gender: null
+    plural: null
+  - japanese: ことになる
+    reading: null
+    translation:
+      en: it has been decided that
+      ko: ~하게 되다 (결정됨)
+    gender: null
+    plural: null
+  - japanese: ことにしている
+    reading: null
+    translation:
+      en: make it a rule to (habitual decision)
+      ko: ~하기로 하고 있다 (습관적 결정)
+    gender: null
+    plural: null
+  - japanese: ことになっている
+    reading: null
+    translation:
+      en: it is the rule/expected that
+      ko: ~하게 되어 있다 (규칙/예정)
+    gender: null
+    plural: null
+  - japanese: において
+    reading: null
+    translation:
+      en: in, at, regarding (formal)
+      ko: ~에서, ~에 있어서 (격식)
+    gender: null
+    plural: null
+  - japanese: に対して
+    reading: にたいして
+    translation:
+      en: toward, against, in contrast to
+      ko: ~에 대해서
+    gender: null
+    plural: null
+  - japanese: に関して
+    reading: にかんして
+    translation:
+      en: regarding, concerning
+      ko: ~에 관해서
+    gender: null
+    plural: null
+  - japanese: について
+    reading: null
+    translation:
+      en: about, concerning
+      ko: ~에 대해서, ~에 관해서
+    gender: null
+    plural: null
+  - japanese: によって
+    reading: null
+    translation:
+      en: by means of, depending on, by (agent)
+      ko: ~에 의해, ~에 따라
+    gender: null
+    plural: null
 - id: contrast_concession
   label:
     en: Contrast and Concession Expressions
@@ -310,3 +436,246 @@ categories:
     notes:
       en: "Substitution or exchange. 肉の代わりに魚を食べた."
       ko: "대체 또는 교환. 肉の代わりに魚を食べた."
+  - japanese: それにしても
+    reading: null
+    translation:
+      en: even so, nevertheless
+      ko: 그렇다 하더라도
+    gender: null
+    plural: null
+  - japanese: それでも
+    reading: null
+    translation:
+      en: even so, but still
+      ko: 그래도, 그럼에도
+    gender: null
+    plural: null
+  - japanese: だからといって
+    reading: null
+    translation:
+      en: just because... doesn't mean
+      ko: 그렇다고 해서
+    gender: null
+    plural: null
+  - japanese: むしろ
+    reading: null
+    translation:
+      en: rather, on the contrary
+      ko: 오히려, 차라리
+    gender: null
+    plural: null
+  - japanese: 一方
+    reading: いっぽう
+    translation:
+      en: on the other hand, while
+      ko: 한편, 반면
+    gender: null
+    plural: null
+- id: time_sequence
+  label:
+    en: Time and Sequence Expressions
+    ko: 시간과 순서 표현
+  type: vocabulary
+  words:
+  - japanese: 前に
+    reading: まえに
+    translation:
+      en: before (doing)
+      ko: ~하기 전에
+    gender: null
+    plural: null
+  - japanese: 後で
+    reading: あとで
+    translation:
+      en: after, later
+      ko: ~한 후에, 나중에
+    gender: null
+    plural: null
+  - japanese: てから
+    reading: null
+    translation:
+      en: after doing (sequential)
+      ko: ~하고 나서
+    gender: null
+    plural: null
+  - japanese: たとたん
+    reading: null
+    translation:
+      en: the moment, just as (unexpected)
+      ko: ~하자마자 (예상 밖)
+    gender: null
+    plural: null
+  - japanese: 次第
+    reading: しだい
+    translation:
+      en: as soon as (formal)
+      ko: ~하는 대로 (격식)
+    gender: null
+    plural: null
+  - japanese: たびに
+    reading: null
+    translation:
+      en: every time, whenever
+      ko: ~할 때마다
+    gender: null
+    plural: null
+  - japanese: まで
+    reading: null
+    translation:
+      en: until, up to
+      ko: ~까지
+    gender: null
+    plural: null
+  - japanese: までに
+    reading: null
+    translation:
+      en: by (deadline)
+      ko: ~까지 (기한)
+    gender: null
+    plural: null
+  - japanese: ついに
+    reading: null
+    translation:
+      en: finally, at last
+      ko: 마침내, 드디어
+    gender: null
+    plural: null
+  - japanese: いよいよ
+    reading: null
+    translation:
+      en: at last, finally (with anticipation)
+      ko: 드디어, 이윽고 (기대감)
+    gender: null
+    plural: null
+- id: scope_and_extent
+  label:
+    en: Scope, Degree, and Listing Expressions
+    ko: 범위, 정도 및 나열 표현
+  type: vocabulary
+  words:
+  - japanese: ほど
+    reading: null
+    translation:
+      en: to the extent that, about
+      ko: ~할 정도로, ~쯤
+    gender: null
+    plural: null
+  - japanese: くらい
+    reading: null
+    translation:
+      en: about, to the degree of
+      ko: ~정도, ~만큼
+    gender: null
+    plural: null
+  - japanese: ばかり
+    reading: null
+    translation:
+      en: only, nothing but
+      ko: ~만, ~뿐
+    gender: null
+    plural: null
+  - japanese: だけ
+    reading: null
+    translation:
+      en: only, just
+      ko: ~만, ~뿐
+    gender: null
+    plural: null
+  - japanese: しか...ない
+    reading: null
+    translation:
+      en: nothing but, only (with negative)
+      ko: ~밖에 ...없다
+    gender: null
+    plural: null
+  - japanese: さえ
+    reading: null
+    translation:
+      en: even (emphasis)
+      ko: ~조차, ~마저
+    gender: null
+    plural: null
+  - japanese: さえ...ば
+    reading: null
+    translation:
+      en: if only, as long as
+      ko: ~하기만 하면
+    gender: null
+    plural: null
+  - japanese: すら
+    reading: null
+    translation:
+      en: even (literary, stronger than さえ)
+      ko: ~조차 (문어, さえ보다 강함)
+    gender: null
+    plural: null
+  - japanese: こそ
+    reading: null
+    translation:
+      en: precisely, it is... that (emphasis)
+      ko: ~야말로 (강조)
+    gender: null
+    plural: null
+  - japanese: どころか
+    reading: null
+    translation:
+      en: far from, let alone
+      ko: ~은커녕, ~는 고사하고
+    gender: null
+    plural: null
+  - japanese: はもちろん
+    reading: null
+    translation:
+      en: of course, not to mention
+      ko: ~은 물론
+    gender: null
+    plural: null
+  - japanese: をはじめ
+    reading: null
+    translation:
+      en: starting with, including
+      ko: ~을 비롯하여
+    gender: null
+    plural: null
+  - japanese: に加えて
+    reading: にくわえて
+    translation:
+      en: in addition to
+      ko: ~에 더하여
+    gender: null
+    plural: null
+  - japanese: 上に
+    reading: うえに
+    translation:
+      en: on top of, moreover
+      ko: ~한 데다가
+    gender: null
+    plural: null
+  - japanese: ばかりでなく
+    reading: null
+    translation:
+      en: not only... (but also)
+      ko: ~뿐만 아니라
+    gender: null
+    plural: null
+  - japanese: だけでなく
+    reading: null
+    translation:
+      en: not only... (but also)
+      ko: ~뿐만 아니라
+    gender: null
+    plural: null
+  - japanese: とともに
+    reading: null
+    translation:
+      en: together with, as well as
+      ko: ~와 함께, ~와 더불어
+    gender: null
+    plural: null
+  - japanese: に伴って
+    reading: にともなって
+    translation:
+      en: along with, as (something) happens
+      ko: ~에 따라, ~에 수반하여
+    gender: null
+    plural: null

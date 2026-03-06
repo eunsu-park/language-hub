@@ -87,6 +87,76 @@ categories:
       ko: 도장
     gender: null
     plural: null
+  - japanese: 空手
+    reading: からて
+    translation:
+      en: karate
+      ko: 가라테 (공수도)
+    gender: null
+    plural: null
+  - japanese: 合気道
+    reading: あいきどう
+    translation:
+      en: aikido
+      ko: 합기도
+    gender: null
+    plural: null
+  - japanese: 相撲
+    reading: すもう
+    translation:
+      en: sumo wrestling
+      ko: 스모
+    gender: null
+    plural: null
+  - japanese: 弓道
+    reading: きゅうどう
+    translation:
+      en: Japanese archery
+      ko: 궁도
+    gender: null
+    plural: null
+  - japanese: 着物
+    reading: きもの
+    translation:
+      en: kimono (traditional garment)
+      ko: 기모노 (전통 의상)
+    gender: null
+    plural: null
+  - japanese: 浴衣
+    reading: ゆかた
+    translation:
+      en: yukata (light summer kimono)
+      ko: 유카타 (여름 기모노)
+    gender: null
+    plural: null
+  - japanese: 狂言
+    reading: きょうげん
+    translation:
+      en: kyogen (comedic theater)
+      ko: 교겐 (전통 희극)
+    gender: null
+    plural: null
+  - japanese: 文楽
+    reading: ぶんらく
+    translation:
+      en: bunraku (puppet theater)
+      ko: 분라쿠 (인형극)
+    gender: null
+    plural: null
+  - japanese: 俳句
+    reading: はいく
+    translation:
+      en: haiku (5-7-5 syllable poem)
+      ko: 하이쿠 (5-7-5 음절 시)
+    gender: null
+    plural: null
+  - japanese: 短歌
+    reading: たんか
+    translation:
+      en: tanka (5-7-5-7-7 syllable poem)
+      ko: 단카 (5-7-5-7-7 음절 시)
+    gender: null
+    plural: null
 
 - id: modern_culture
   label:
@@ -153,6 +223,27 @@ categories:
     notes:
       en: "Japanese invention; from 空 (kara, empty) + オーケストラ (orchestra)"
       ko: "일본 발명품; 空(빈) + オーケストラ(오케스트라)에서 유래"
+  - japanese: アニメ
+    reading: null
+    translation:
+      en: anime (Japanese animation)
+      ko: 애니메이션
+    gender: null
+    plural: null
+  - japanese: ゲームセンター
+    reading: null
+    translation:
+      en: game center, arcade
+      ko: 오락실
+    gender: null
+    plural: null
+  - japanese: ライトノベル
+    reading: null
+    translation:
+      en: light novel
+      ko: 라이트 노벨
+    gender: null
+    plural: null
 
 - id: social_customs
   label:
@@ -219,6 +310,47 @@ categories:
       ko: 꽃놀이 (벚꽃 구경)
     gender: null
     plural: null
+  - japanese: 内祝い
+    reading: うちいわい
+    translation:
+      en: return gift (for celebrations)
+      ko: 답례 선물
+    gender: null
+    plural: null
+  - japanese: 香典
+    reading: こうでん
+    translation:
+      en: condolence money
+      ko: 부의금
+    gender: null
+    plural: null
+  - japanese: 本音
+    reading: ほんね
+    translation:
+      en: true feelings, real intention
+      ko: 본심
+    gender: null
+    plural: null
+    notes:
+      en: "Contrasted with 建前 (tatemae); a core Japanese social concept"
+      ko: "建前(다테마에)와 대비되는 핵심 일본 사회 개념"
+  - japanese: 建前
+    reading: たてまえ
+    translation:
+      en: public facade, official stance
+      ko: 겉치레
+    gender: null
+    plural: null
+  - japanese: 空気を読む
+    reading: くうきをよむ
+    translation:
+      en: to read the atmosphere
+      ko: 분위기를 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "Essential social skill in Japan; KY = can't read the air"
+      ko: "일본에서 필수적인 사회적 기술; KY = 분위기 파악 못하는 사람"
 
 - id: food_culture
   label:
@@ -281,3 +413,226 @@ categories:
     notes:
       en: "Resembles funeral incense offering; a major chopstick taboo"
       ko: "장례식 향 꽂기를 연상시킴; 주요 젓가락 금기"
+  - japanese: 寿司
+    reading: すし
+    translation:
+      en: sushi
+      ko: 스시 (초밥)
+    gender: null
+    plural: null
+  - japanese: 天ぷら
+    reading: てんぷら
+    translation:
+      en: tempura (deep-fried batter)
+      ko: 덴푸라 (튀김)
+    gender: null
+    plural: null
+  - japanese: 味噌汁
+    reading: みそしる
+    translation:
+      en: miso soup
+      ko: 미소시루 (된장국)
+    gender: null
+    plural: null
+  - japanese: 居酒屋
+    reading: いざかや
+    translation:
+      en: izakaya (Japanese pub)
+      ko: 이자카야 (일본식 선술집)
+    gender: null
+    plural: null
+  - japanese: 弁当
+    reading: べんとう
+    translation:
+      en: bento (packed lunch)
+      ko: 도시락
+    gender: null
+    plural: null
+  - japanese: 和食
+    reading: わしょく
+    translation:
+      en: Japanese cuisine
+      ko: 일식 (일본 요리)
+    gender: null
+    plural: null
+
+- id: festivals_and_holidays
+  label:
+    en: Festivals and Holidays
+    ko: 축제 및 공휴일
+  type: vocabulary
+  words:
+  - japanese: 祭り
+    reading: まつり
+    translation:
+      en: festival
+      ko: 축제
+    gender: null
+    plural: null
+  - japanese: 盆踊り
+    reading: ぼんおどり
+    translation:
+      en: Bon festival dance
+      ko: 봉오도리 (오봉 춤)
+    gender: null
+    plural: null
+  - japanese: お盆
+    reading: おぼん
+    translation:
+      en: Obon (Buddhist festival for the dead)
+      ko: 오봉 (불교 조상 제사)
+    gender: null
+    plural: null
+  - japanese: 七夕
+    reading: たなばた
+    translation:
+      en: Tanabata (Star Festival)
+      ko: 다나바타 (칠석)
+    gender: null
+    plural: null
+  - japanese: 節分
+    reading: せつぶん
+    translation:
+      en: Setsubun (bean-throwing festival)
+      ko: 세츠분 (절분, 콩 던지기)
+    gender: null
+    plural: null
+  - japanese: 七五三
+    reading: しちごさん
+    translation:
+      en: Shichi-Go-San (festival for children aged 3, 5, 7)
+      ko: 시치고산 (3, 5, 7세 아이 축제)
+    gender: null
+    plural: null
+  - japanese: 成人の日
+    reading: せいじんのひ
+    translation:
+      en: Coming of Age Day
+      ko: 성인의 날
+    gender: null
+    plural: null
+  - japanese: 神社
+    reading: じんじゃ
+    translation:
+      en: Shinto shrine
+      ko: 신사
+    gender: null
+    plural: null
+  - japanese: 寺
+    reading: てら
+    translation:
+      en: Buddhist temple
+      ko: 절 (사찰)
+    gender: null
+    plural: null
+  - japanese: 御守り
+    reading: おまもり
+    translation:
+      en: charm, amulet
+      ko: 부적
+    gender: null
+    plural: null
+  - japanese: おみくじ
+    reading: null
+    translation:
+      en: fortune slip (at shrine/temple)
+      ko: 제비뽑기 (운세)
+    gender: null
+    plural: null
+  - japanese: 鳥居
+    reading: とりい
+    translation:
+      en: torii gate (shrine gate)
+      ko: 도리이 (신사 문)
+    gender: null
+    plural: null
+
+- id: japanese_values
+  label:
+    en: Japanese Values and Concepts
+    ko: 일본의 가치관과 개념
+  type: vocabulary
+  words:
+  - japanese: 侘び寂び
+    reading: わびさび
+    translation:
+      en: wabi-sabi (beauty of imperfection)
+      ko: 와비사비 (불완전함의 미학)
+    gender: null
+    plural: null
+  - japanese: 一期一会
+    reading: いちごいちえ
+    translation:
+      en: once-in-a-lifetime encounter
+      ko: 일기일회 (일생에 한 번의 만남)
+    gender: null
+    plural: null
+  - japanese: もったいない
+    reading: null
+    translation:
+      en: what a waste (anti-waste concept)
+      ko: 아깝다 (낭비 반대 개념)
+    gender: null
+    plural: null
+  - japanese: おもてなし
+    reading: null
+    translation:
+      en: hospitality (selfless service)
+      ko: 오모테나시 (진심 어린 환대)
+    gender: null
+    plural: null
+  - japanese: 義理
+    reading: ぎり
+    translation:
+      en: duty, obligation (social)
+      ko: 의리
+    gender: null
+    plural: null
+  - japanese: 人情
+    reading: にんじょう
+    translation:
+      en: human feeling, compassion
+      ko: 인정
+    gender: null
+    plural: null
+  - japanese: 和
+    reading: わ
+    translation:
+      en: harmony, peace
+      ko: 화 (조화)
+    gender: null
+    plural: null
+  - japanese: 恥
+    reading: はじ
+    translation:
+      en: shame, embarrassment
+      ko: 수치
+    gender: null
+    plural: null
+    notes:
+      en: "Central concept in Japanese shame culture (恥の文化)"
+      ko: "일본 수치 문화(恥の文化)의 핵심 개념"
+  - japanese: 甘え
+    reading: あまえ
+    translation:
+      en: dependence on others' goodwill
+      ko: 아마에 (타인의 호의에 의존)
+    gender: null
+    plural: null
+    notes:
+      en: "Concept explored by psychologist Doi Takeo"
+      ko: "심리학자 도이 다케오가 탐구한 개념"
+  - japanese: 先輩
+    reading: せんぱい
+    translation:
+      en: senior (in school/work)
+      ko: 선배
+    gender: null
+    plural: null
+  - japanese: 後輩
+    reading: こうはい
+    translation:
+      en: junior (in school/work)
+      ko: 후배
+    gender: null
+    plural: null

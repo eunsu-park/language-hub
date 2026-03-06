@@ -143,6 +143,123 @@ categories:
       ko: 걷다
     gender: null
     plural: null
+  - japanese: 乗る
+    reading: のる
+    translation:
+      en: to ride / to get on
+      ko: 타다
+    gender: null
+    plural: null
+    notes:
+      en: "電車に乗る = to ride a train. Uses に particle."
+      ko: "電車に乗る = 전철을 타다. に 조사와 함께 사용."
+  - japanese: 降りる
+    reading: おりる
+    translation:
+      en: to get off / to descend
+      ko: 내리다
+    gender: null
+    plural: null
+    notes:
+      en: "TRICKY: ends in -iru and IS ichidan, but listed here for pair with 乗る"
+      ko: "주의: -iru로 끝나며 1단 동사이지만, 乗る와의 짝으로 여기에 배치"
+  - japanese: 持つ
+    reading: もつ
+    translation:
+      en: to hold / to have
+      ko: 가지다 / 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -tsu verb. て: 持って (motte)"
+      ko: "5단 -tsu 동사. て: 持って(못테)"
+  - japanese: 立つ
+    reading: たつ
+    translation:
+      en: to stand
+      ko: 서다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -tsu verb. て: 立って"
+      ko: "5단 -tsu 동사. て: 立って"
+  - japanese: 座る
+    reading: すわる
+    translation:
+      en: to sit down
+      ko: 앉다
+    gender: null
+    plural: null
+  - japanese: 使う
+    reading: つかう
+    translation:
+      en: to use
+      ko: 사용하다 / 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -u verb. て: 使って"
+      ko: "5단 -u 동사. て: 使って"
+  - japanese: 働く
+    reading: はたらく
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -ku verb. て: 働いて"
+      ko: "5단 -ku 동사. て: 働いて"
+  - japanese: 住む
+    reading: すむ
+    translation:
+      en: to live / to reside
+      ko: 살다 / 거주하다
+    gender: null
+    plural: null
+    notes:
+      en: "東京に住んでいます = I live in Tokyo"
+      ko: "東京に住んでいます = 도쿄에 살고 있습니다"
+  - japanese: 知る
+    reading: しる
+    translation:
+      en: to know / to learn
+      ko: 알다
+    gender: null
+    plural: null
+    notes:
+      en: "TRICKY: -iru ending but godan. 知っています = I know (state)"
+      ko: "주의: -iru로 끝나지만 5단 동사. 知っています = 알고 있습니다 (상태)"
+  - japanese: 思う
+    reading: おもう
+    translation:
+      en: to think
+      ko: 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -u verb. て: 思って"
+      ko: "5단 -u 동사. て: 思って"
+  - japanese: 言う
+    reading: いう
+    translation:
+      en: to say
+      ko: 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -u verb. て: 言って (itte). Sometimes read ゆう (yuu) in speech."
+      ko: "5단 -u 동사. て: 言って(잇테). 구어에서 ゆう(유우)로 읽기도 함."
+  - japanese: 分かる
+    reading: わかる
+    translation:
+      en: to understand / to know
+      ko: 알다 / 이해하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -ru verb. Subject uses が not を: 日本語が分かる"
+      ko: "5단 -ru 동사. 주어에 を가 아닌 が 사용: 日本語が分かる"
 
 - id: ichidan_verbs
   label:
@@ -209,6 +326,77 @@ categories:
       ko: 닫다
     gender: null
     plural: null
+  - japanese: 入れる
+    reading: いれる
+    translation:
+      en: to put in / to insert
+      ko: 넣다
+    gender: null
+    plural: null
+  - japanese: 出かける
+    reading: でかける
+    translation:
+      en: to go out / to depart
+      ko: 외출하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 出(out) + かける. Ichidan verb."
+      ko: "한자: 出(나갈) + かける. 1단 동사."
+  - japanese: 着る
+    reading: きる
+    translation:
+      en: to wear (upper body)
+      ko: 입다 (상의)
+    gender: null
+    plural: null
+    notes:
+      en: "For clothes on the torso. はく = lower body, かぶる = head"
+      ko: "상체 옷에 사용. はく = 하체, かぶる = 머리"
+  - japanese: 浴びる
+    reading: あびる
+    translation:
+      en: to shower / to bathe
+      ko: (샤워를) 하다
+    gender: null
+    plural: null
+    notes:
+      en: "シャワーを浴びる = to take a shower"
+      ko: "シャワーを浴びる = 샤워를 하다"
+  - japanese: つける
+    reading: null
+    translation:
+      en: to turn on (lights, TV)
+      ko: 켜다 (조명, TV)
+    gender: null
+    plural: null
+  - japanese: 消す
+    reading: けす
+    translation:
+      en: to turn off / to erase
+      ko: 끄다 / 지우다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -su verb. 電気を消す = turn off the light"
+      ko: "5단 -su 동사. 電気を消す = 전등을 끄다"
+  - japanese: 忘れる
+    reading: わすれる
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    plural: null
+  - japanese: 覚える
+    reading: おぼえる
+    translation:
+      en: to remember / to memorize
+      ko: 외우다 / 기억하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 覚(memorize). Ichidan verb."
+      ko: "한자: 覚(깨달을). 1단 동사."
 
 - id: irregular_verbs
   label:
@@ -267,6 +455,63 @@ categories:
       ko: 전화하다
     gender: null
     plural: null
+  - japanese: 運動する
+    reading: うんどうする
+    translation:
+      en: to exercise
+      ko: 운동하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 運(move) + 動(motion)"
+      ko: "한자: 運(옮길) + 動(움직일)"
+  - japanese: 掃除する
+    reading: そうじする
+    translation:
+      en: to clean
+      ko: 청소하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 掃(sweep) + 除(remove)"
+      ko: "한자: 掃(쓸) + 除(없앨)"
+  - japanese: 洗濯する
+    reading: せんたくする
+    translation:
+      en: to do laundry
+      ko: 세탁하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 洗(wash) + 濯(rinse)"
+      ko: "한자: 洗(씻을) + 濯(빨)"
+  - japanese: 買い物する
+    reading: かいものする
+    translation:
+      en: to go shopping
+      ko: 쇼핑하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 買(buy) + 物(thing). Also 買い物をする."
+      ko: "한자: 買(살) + 物(것). 買い物をする로도 사용."
+  - japanese: 旅行する
+    reading: りょこうする
+    translation:
+      en: to travel
+      ko: 여행하다
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 旅(travel) + 行(go)"
+      ko: "한자: 旅(나그네) + 行(갈)"
+  - japanese: 練習する
+    reading: れんしゅうする
+    translation:
+      en: to practice
+      ko: 연습하다
+    gender: null
+    plural: null
 
 - id: time_expressions
   label:
@@ -316,3 +561,191 @@ categories:
       ko: 내일
     gender: null
     plural: null
+
+- id: daily_routine_nouns
+  label:
+    en: Daily Routine Nouns
+    ko: 일상 명사
+  type: vocabulary
+  words:
+  - japanese: 朝ご飯
+    reading: あさごはん
+    translation:
+      en: breakfast
+      ko: 아침밥 / 아침 식사
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 朝(morning) + ご飯(cooked rice/meal)"
+      ko: "한자: 朝(아침) + ご飯(밥/식사)"
+  - japanese: 昼ご飯
+    reading: ひるごはん
+    translation:
+      en: lunch
+      ko: 점심밥 / 점심 식사
+    gender: null
+    plural: null
+  - japanese: 晩ご飯
+    reading: ばんごはん
+    translation:
+      en: dinner
+      ko: 저녁밥 / 저녁 식사
+    gender: null
+    plural: null
+    notes:
+      en: "Also 夕ご飯 (ゆうごはん). 晩 = evening/night."
+      ko: "夕ご飯(ゆうごはん)이라고도 함. 晩 = 저녁/밤."
+  - japanese: ご飯
+    reading: ごはん
+    translation:
+      en: cooked rice / meal
+      ko: 밥 / 식사
+    gender: null
+    plural: null
+    notes:
+      en: "ご is honorific prefix. Can mean either rice or meal depending on context."
+      ko: "ご는 존경 접두사. 문맥에 따라 밥 또는 식사를 의미."
+  - japanese: 学校
+    reading: がっこう
+    translation:
+      en: school
+      ko: 학교
+    gender: null
+    plural: null
+  - japanese: 会社
+    reading: かいしゃ
+    translation:
+      en: company / office
+      ko: 회사
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 会(meet) + 社(company). 会社に行く = go to work."
+      ko: "한자: 会(만날) + 社(모임). 会社に行く = 회사에 가다."
+  - japanese: 宿題
+    reading: しゅくだい
+    translation:
+      en: homework
+      ko: 숙제
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 宿(lodge) + 題(topic/problem)"
+      ko: "한자: 宿(묵을) + 題(제목)"
+  - japanese: 授業
+    reading: じゅぎょう
+    translation:
+      en: class / lesson
+      ko: 수업
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 授(teach/grant) + 業(work/profession)"
+      ko: "한자: 授(줄) + 業(업)"
+  - japanese: お風呂
+    reading: おふろ
+    translation:
+      en: bath / bathtub
+      ko: 목욕 / 욕조
+    gender: null
+    plural: null
+    notes:
+      en: "お風呂に入る = to take a bath"
+      ko: "お風呂に入る = 목욕하다"
+  - japanese: 歯
+    reading: は
+    translation:
+      en: tooth / teeth
+      ko: 이 / 치아
+    gender: null
+    plural: null
+    notes:
+      en: "歯を磨く (はをみがく) = to brush teeth"
+      ko: "歯を磨く(はをみがく) = 이를 닦다"
+  - japanese: 電気
+    reading: でんき
+    translation:
+      en: electricity / light
+      ko: 전기 / 조명
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 電(electric) + 気(spirit/energy). 電気をつける = turn on the light."
+      ko: "한자: 電(전기) + 気(기운). 電気をつける = 전등을 켜다."
+  - japanese: 自転車
+    reading: じてんしゃ
+    translation:
+      en: bicycle
+      ko: 자전거
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 自(self) + 転(turn) + 車(vehicle)"
+      ko: "한자: 自(스스로) + 転(돌) + 車(수레)"
+  - japanese: 手紙
+    reading: てがみ
+    translation:
+      en: letter (mail)
+      ko: 편지
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 手(hand) + 紙(paper). NOT a 'hand towel' (that's ハンカチ)."
+      ko: "한자: 手(손) + 紙(종이). '손수건'이 아님 (그것은 ハンカチ)."
+  - japanese: 写真
+    reading: しゃしん
+    translation:
+      en: photograph
+      ko: 사진
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 写(copy) + 真(truth). 写真を撮る = to take a photo."
+      ko: "한자: 写(베낄) + 真(참). 写真を撮る = 사진을 찍다."
+  - japanese: テスト
+    reading: null
+    translation:
+      en: test / exam
+      ko: 시험
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English. Also 試験 (しけん) in formal contexts."
+      ko: "영어 차용어. 격식적 상황에서는 試験(しけん)도 사용."
+  - japanese: 顔
+    reading: かお
+    translation:
+      en: face
+      ko: 얼굴
+    gender: null
+    plural: null
+    notes:
+      en: "顔を洗う (かおをあらう) = to wash one's face"
+      ko: "顔を洗う(かおをあらう) = 세수하다"
+  - japanese: 服
+    reading: ふく
+    translation:
+      en: clothes / clothing
+      ko: 옷
+    gender: null
+    plural: null
+    notes:
+      en: "服を着る = to put on clothes"
+      ko: "服を着る = 옷을 입다"
+  - japanese: 傘
+    reading: かさ
+    translation:
+      en: umbrella
+      ko: 우산
+    gender: null
+    plural: null
+  - japanese: 鍵
+    reading: かぎ
+    translation:
+      en: key / lock
+      ko: 열쇠
+    gender: null
+    plural: null
+    notes:
+      en: "鍵をかける = to lock. 鍵を開ける = to unlock."
+      ko: "鍵をかける = 잠그다. 鍵を開ける = 열다."

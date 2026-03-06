@@ -78,6 +78,55 @@ categories:
       ko: 배점
     gender: null
     plural: null
+  - japanese: 受験
+    reading: じゅけん
+    translation:
+      en: taking an exam
+      ko: 수험
+    gender: null
+    plural: null
+  - japanese: 受験料
+    reading: じゅけんりょう
+    translation:
+      en: examination fee
+      ko: 수험료
+    gender: null
+    plural: null
+  - japanese: 申し込み
+    reading: もうしこみ
+    translation:
+      en: application, registration
+      ko: 신청
+    gender: null
+    plural: null
+  - japanese: 解答用紙
+    reading: かいとうようし
+    translation:
+      en: answer sheet
+      ko: 답안지
+    gender: null
+    plural: null
+  - japanese: マークシート
+    reading: null
+    translation:
+      en: mark sheet (bubble sheet)
+      ko: 마크시트 (OMR 답안지)
+    gender: null
+    plural: null
+  - japanese: 基準点
+    reading: きじゅんてん
+    translation:
+      en: passing score threshold
+      ko: 기준점
+    gender: null
+    plural: null
+  - japanese: 認定
+    reading: にんてい
+    translation:
+      en: certification
+      ko: 인정
+    gender: null
+    plural: null
 
 - id: academic_japanese
   label:
@@ -153,6 +202,72 @@ categories:
     notes:
       en: "JLPT reading section: finding info in charts, flyers, notices"
       ko: "JLPT 독해 영역: 차트, 전단지, 공지에서 정보 찾기"
+  - japanese: 主題
+    reading: しゅだい
+    translation:
+      en: main topic, theme
+      ko: 주제
+    gender: null
+    plural: null
+  - japanese: 趣旨
+    reading: しゅし
+    translation:
+      en: gist, main point
+      ko: 취지
+    gender: null
+    plural: null
+  - japanese: 論旨
+    reading: ろんし
+    translation:
+      en: line of argument
+      ko: 논지
+    gender: null
+    plural: null
+  - japanese: 下線部
+    reading: かせんぶ
+    translation:
+      en: underlined part
+      ko: 밑줄 부분
+    gender: null
+    plural: null
+    notes:
+      en: "Common instruction in JLPT questions"
+      ko: "JLPT 문제에서 자주 나오는 지시어"
+  - japanese: 選択肢
+    reading: せんたくし
+    translation:
+      en: answer choices, options
+      ko: 선택지
+    gender: null
+    plural: null
+  - japanese: 正解
+    reading: せいかい
+    translation:
+      en: correct answer
+      ko: 정답
+    gender: null
+    plural: null
+  - japanese: 誤答
+    reading: ごとう
+    translation:
+      en: wrong answer
+      ko: 오답
+    gender: null
+    plural: null
+  - japanese: 中文
+    reading: ちゅうぶん
+    translation:
+      en: medium-length passage
+      ko: 중문
+    gender: null
+    plural: null
+  - japanese: 主張理解
+    reading: しゅちょうりかい
+    translation:
+      en: understanding the claim (JLPT question type)
+      ko: 주장 이해 (JLPT 문제 유형)
+    gender: null
+    plural: null
 
 - id: test_strategy_terms
   label:
@@ -210,5 +325,308 @@ categories:
     translation:
       en: review
       ko: 복습
+    gender: null
+    plural: null
+  - japanese: 予習
+    reading: よしゅう
+    translation:
+      en: preparation, preview study
+      ko: 예습
+    gender: null
+    plural: null
+  - japanese: 暗記
+    reading: あんき
+    translation:
+      en: memorization
+      ko: 암기
+    gender: null
+    plural: null
+  - japanese: 問題集
+    reading: もんだいしゅう
+    translation:
+      en: workbook, problem collection
+      ko: 문제집
+    gender: null
+    plural: null
+  - japanese: 参考書
+    reading: さんこうしょ
+    translation:
+      en: reference book, study guide
+      ko: 참고서
+    gender: null
+    plural: null
+  - japanese: 得点
+    reading: とくてん
+    translation:
+      en: score, points earned
+      ko: 득점
+    gender: null
+    plural: null
+  - japanese: 見直す
+    reading: みなおす
+    translation:
+      en: to review, re-check (answers)
+      ko: 다시 보다 (답 검토)
+    gender: null
+    plural: null
+
+- id: n1_grammar_patterns
+  label:
+    en: N1 Grammar Pattern Terms
+    ko: N1 문법 패턴 용어
+  type: vocabulary
+  words:
+  - japanese: ものの
+    reading: null
+    translation:
+      en: although, even though
+      ko: ~이긴 하지만
+    gender: null
+    plural: null
+    notes:
+      en: "N1 grammar: concession pattern"
+      ko: "N1 문법: 양보 패턴"
+  - japanese: にもかかわらず
+    reading: null
+    translation:
+      en: despite, in spite of
+      ko: ~에도 불구하고
+    gender: null
+    plural: null
+  - japanese: を余儀なくされる
+    reading: をよぎなくされる
+    translation:
+      en: to be forced to, compelled to
+      ko: ~하지 않을 수 없게 되다
+    gender: null
+    plural: null
+  - japanese: をもって
+    reading: null
+    translation:
+      en: with, by means of (formal)
+      ko: ~으로써 (격식)
+    gender: null
+    plural: null
+  - japanese: ずにはいられない
+    reading: null
+    translation:
+      en: cannot help but do
+      ko: ~하지 않고는 못 배기다
+    gender: null
+    plural: null
+  - japanese: ないものでもない
+    reading: null
+    translation:
+      en: it's not that it's impossible
+      ko: ~하지 못할 것도 없다
+    gender: null
+    plural: null
+  - japanese: に至るまで
+    reading: にいたるまで
+    translation:
+      en: up to, extending to
+      ko: ~에 이르기까지
+    gender: null
+    plural: null
+  - japanese: とはいえ
+    reading: null
+    translation:
+      en: having said that, nevertheless
+      ko: ~라고는 해도
+    gender: null
+    plural: null
+  - japanese: まみれ
+    reading: null
+    translation:
+      en: covered in, smeared with
+      ko: ~투성이
+    gender: null
+    plural: null
+  - japanese: ただでさえ
+    reading: null
+    translation:
+      en: even at the best of times
+      ko: 그렇지 않아도
+    gender: null
+    plural: null
+
+- id: commonly_tested_vocabulary
+  label:
+    en: Commonly Tested Vocabulary
+    ko: 자주 출제되는 어휘
+  type: vocabulary
+  words:
+  - japanese: 概念
+    reading: がいねん
+    translation:
+      en: concept
+      ko: 개념
+    gender: null
+    plural: null
+  - japanese: 妥当
+    reading: だとう
+    translation:
+      en: appropriate, valid
+      ko: 타당
+    gender: null
+    plural: null
+  - japanese: 顕著
+    reading: けんちょ
+    translation:
+      en: remarkable, conspicuous
+      ko: 현저
+    gender: null
+    plural: null
+  - japanese: 促進
+    reading: そくしん
+    translation:
+      en: promotion, acceleration
+      ko: 촉진
+    gender: null
+    plural: null
+  - japanese: 把握
+    reading: はあく
+    translation:
+      en: grasping, understanding
+      ko: 파악
+    gender: null
+    plural: null
+  - japanese: 膨大
+    reading: ぼうだい
+    translation:
+      en: enormous, vast
+      ko: 방대
+    gender: null
+    plural: null
+  - japanese: 懸念
+    reading: けねん
+    translation:
+      en: concern, worry
+      ko: 우려
+    gender: null
+    plural: null
+  - japanese: 一概に
+    reading: いちがいに
+    translation:
+      en: unconditionally, sweepingly
+      ko: 일률적으로
+    gender: null
+    plural: null
+  - japanese: 踏まえる
+    reading: ふまえる
+    translation:
+      en: to be based on, take into account
+      ko: ~에 근거하다
+    gender: null
+    plural: null
+  - japanese: 見なす
+    reading: みなす
+    translation:
+      en: to regard as, consider as
+      ko: ~로 간주하다
+    gender: null
+    plural: null
+  - japanese: 裏付ける
+    reading: うらづける
+    translation:
+      en: to substantiate, back up
+      ko: 뒷받침하다
+    gender: null
+    plural: null
+  - japanese: 網羅
+    reading: もうら
+    translation:
+      en: comprehensive coverage
+      ko: 망라
+    gender: null
+    plural: null
+  - japanese: 多岐にわたる
+    reading: たきにわたる
+    translation:
+      en: to cover a wide range
+      ko: 다방면에 걸치다
+    gender: null
+    plural: null
+
+- id: listening_strategy_terms
+  label:
+    en: Listening Strategy Terms
+    ko: 청해 전략 용어
+  type: vocabulary
+  words:
+  - japanese: 即時応答
+    reading: そくじおうとう
+    translation:
+      en: quick response (JLPT listening type)
+      ko: 즉시 응답 (JLPT 청해 유형)
+    gender: null
+    plural: null
+  - japanese: 課題理解
+    reading: かだいりかい
+    translation:
+      en: task-based comprehension
+      ko: 과제 이해
+    gender: null
+    plural: null
+    notes:
+      en: "JLPT listening type: understand what to do"
+      ko: "JLPT 청해 유형: 무엇을 해야 하는지 이해"
+  - japanese: ポイント理解
+    reading: ポイントりかい
+    translation:
+      en: point comprehension
+      ko: 포인트 이해
+    gender: null
+    plural: null
+    notes:
+      en: "JLPT listening type: grasp the key point"
+      ko: "JLPT 청해 유형: 핵심 파악"
+  - japanese: 概要理解
+    reading: がいようりかい
+    translation:
+      en: overview comprehension
+      ko: 개요 이해
+    gender: null
+    plural: null
+  - japanese: 発話表現
+    reading: はつわひょうげん
+    translation:
+      en: utterance expression
+      ko: 발화 표현
+    gender: null
+    plural: null
+  - japanese: 聞き取り
+    reading: ききとり
+    translation:
+      en: listening comprehension, dictation
+      ko: 듣기
+    gender: null
+    plural: null
+  - japanese: 聞き直す
+    reading: ききなおす
+    translation:
+      en: to listen again
+      ko: 다시 듣다
+    gender: null
+    plural: null
+  - japanese: メモを取る
+    reading: メモをとる
+    translation:
+      en: to take notes
+      ko: 메모하다
+    gender: null
+    plural: null
+  - japanese: 要点
+    reading: ようてん
+    translation:
+      en: key point, main point
+      ko: 요점
+    gender: null
+    plural: null
+  - japanese: 出題傾向
+    reading: しゅつだいけいこう
+    translation:
+      en: question trend, exam tendency
+      ko: 출제 경향
     gender: null
     plural: null

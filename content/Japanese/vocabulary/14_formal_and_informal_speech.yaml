@@ -118,6 +118,34 @@ categories:
     notes:
       en: "Passive form used as lighter honorific. Less formal than いらっしゃる."
       ko: "수동형을 존경어로 사용. いらっしゃる보다 덜 격식적."
+  - japanese: お休みになる
+    reading: おやすみになる
+    translation:
+      en: to sleep / to rest (honorific)
+      ko: 주무시다 (존경어)
+    gender: null
+    plural: null
+  - japanese: お亡くなりになる
+    reading: おなくなりになる
+    translation:
+      en: to pass away (honorific)
+      ko: 돌아가시다 (존경어)
+    gender: null
+    plural: null
+  - japanese: おいでになる
+    reading: null
+    translation:
+      en: to be / to go / to come (honorific)
+      ko: 계시다 / 가시다 / 오시다 (존경어)
+    gender: null
+    plural: null
+  - japanese: お書きになる
+    reading: おかきになる
+    translation:
+      en: to write (honorific, productive pattern)
+      ko: 쓰시다 (존경어, 생산적 패턴)
+    gender: null
+    plural: null
 - id: humble_verbs
   label:
     en: Humble Verbs (Kenjougo)
@@ -234,6 +262,34 @@ categories:
     notes:
       en: "お + masu-stem + する pattern. Productive humble for regular verbs."
       ko: "お + ます어간 + する 패턴. 일반 동사의 생산적 겸양어."
+  - japanese: お送りする
+    reading: おおくりする
+    translation:
+      en: to send / to escort (humble)
+      ko: 보내 드리다 / 배웅하다 (겸양어)
+    gender: null
+    plural: null
+  - japanese: お伝えする
+    reading: おつたえする
+    translation:
+      en: to convey (humble)
+      ko: 전해 드리다 (겸양어)
+    gender: null
+    plural: null
+  - japanese: お待ちする
+    reading: おまちする
+    translation:
+      en: to wait (humble)
+      ko: 기다리다 (겸양어)
+    gender: null
+    plural: null
+  - japanese: ご案内する
+    reading: ごあんないする
+    translation:
+      en: to guide (humble)
+      ko: 안내해 드리다 (겸양어)
+    gender: null
+    plural: null
 - id: polite_expressions
   label:
     en: Polite Expressions and Business Phrases
@@ -360,3 +416,287 @@ categories:
     notes:
       en: "Most formal thanks. 誠に = truly/sincerely."
       ko: "가장 격식적인 감사. 誠に = 진심으로."
+  - japanese: 恐れ入りますが
+    reading: おそれいりますが
+    translation:
+      en: I'm sorry to trouble you, but... (very polite)
+      ko: 죄송합니다만... (매우 정중)
+    gender: null
+    plural: null
+  - japanese: ご迷惑をおかけして
+    reading: ごめいわくをおかけして
+    translation:
+      en: I'm sorry for the inconvenience
+      ko: 폐를 끼쳐서 (죄송합니다)
+    gender: null
+    plural: null
+  - japanese: お手数ですが
+    reading: おてすうですが
+    translation:
+      en: I'm sorry for the trouble, but...
+      ko: 수고스럽지만...
+    gender: null
+    plural: null
+  - japanese: ご確認ください
+    reading: ごかくにんください
+    translation:
+      en: please confirm (polite business)
+      ko: 확인해 주십시오 (정중 비즈니스)
+    gender: null
+    plural: null
+  - japanese: お疲れ様です
+    reading: おつかれさまです
+    translation:
+      en: thank you for your hard work
+      ko: 수고하셨습니다
+    gender: null
+    plural: null
+  - japanese: 失礼いたします
+    reading: しつれいいたします
+    translation:
+      en: excuse me (very polite, leaving)
+      ko: 실례하겠습니다 (매우 정중, 퇴장)
+    gender: null
+    plural: null
+- id: casual_speech
+  label:
+    en: Casual Speech Patterns
+    ko: 구어체 표현
+  type: vocabulary
+  words:
+  - japanese: じゃん
+    reading: null
+    translation:
+      en: isn't it? (casual confirmation)
+      ko: ~잖아 (구어 확인)
+    gender: null
+    plural: null
+  - japanese: っけ
+    reading: null
+    translation:
+      en: was it...? (vague recollection)
+      ko: ~였던가? (불확실한 기억)
+    gender: null
+    plural: null
+  - japanese: って
+    reading: null
+    translation:
+      en: (casual quotation particle)
+      ko: ~라고 (구어 인용)
+    gender: null
+    plural: null
+  - japanese: なんか
+    reading: null
+    translation:
+      en: like, sort of (filler/softener)
+      ko: 뭔가, ~같은 (완화/채움말)
+    gender: null
+    plural: null
+  - japanese: めっちゃ
+    reading: null
+    translation:
+      en: super, really (very casual intensifier)
+      ko: 엄청, 진짜 (매우 구어적 강조)
+    gender: null
+    plural: null
+  - japanese: まじで
+    reading: null
+    translation:
+      en: seriously, for real (slang)
+      ko: 진짜로, 정말로 (속어)
+    gender: null
+    plural: null
+  - japanese: やばい
+    reading: null
+    translation:
+      en: amazing / terrible (slang, context-dependent)
+      ko: 대박 / 위험하다 (속어, 문맥에 따라)
+    gender: null
+    plural: null
+  - japanese: ちゃう
+    reading: null
+    translation:
+      en: contraction of てしまう (casual)
+      ko: てしまう의 축약 (구어)
+    gender: null
+    plural: null
+  - japanese: とく
+    reading: null
+    translation:
+      en: contraction of ておく (casual)
+      ko: ておく의 축약 (구어)
+    gender: null
+    plural: null
+  - japanese: んだ
+    reading: null
+    translation:
+      en: it is that... (explanatory, casual)
+      ko: ~인 거야 (설명, 구어)
+    gender: null
+    plural: null
+  - japanese: だよね
+    reading: null
+    translation:
+      en: right? isn't it? (seeking agreement)
+      ko: ~이지? 그렇지? (동의 구하기)
+    gender: null
+    plural: null
+  - japanese: かな
+    reading: null
+    translation:
+      en: I wonder (self-directed question)
+      ko: ~일까 (혼잣말 의문)
+    gender: null
+    plural: null
+- id: beautification_language
+  label:
+    en: Beautification Language (Bikago)
+    ko: 미화어 (美化語)
+  type: vocabulary
+  words:
+  - japanese: お水
+    reading: おみず
+    translation:
+      en: water (beautified)
+      ko: 물 (미화어)
+    gender: null
+    plural: null
+  - japanese: お茶
+    reading: おちゃ
+    translation:
+      en: tea (beautified)
+      ko: 차 (미화어)
+    gender: null
+    plural: null
+  - japanese: お菓子
+    reading: おかし
+    translation:
+      en: sweets, snacks (beautified)
+      ko: 과자 (미화어)
+    gender: null
+    plural: null
+  - japanese: お花
+    reading: おはな
+    translation:
+      en: flower (beautified)
+      ko: 꽃 (미화어)
+    gender: null
+    plural: null
+  - japanese: お金
+    reading: おかね
+    translation:
+      en: money (beautified)
+      ko: 돈 (미화어)
+    gender: null
+    plural: null
+  - japanese: ご飯
+    reading: ごはん
+    translation:
+      en: rice / meal (beautified)
+      ko: 밥 / 식사 (미화어)
+    gender: null
+    plural: null
+  - japanese: お手洗い
+    reading: おてあらい
+    translation:
+      en: restroom (beautified/polite)
+      ko: 화장실 (미화어/정중)
+    gender: null
+    plural: null
+  - japanese: お釣り
+    reading: おつり
+    translation:
+      en: change (money, beautified)
+      ko: 거스름돈 (미화어)
+    gender: null
+    plural: null
+  - japanese: お弁当
+    reading: おべんとう
+    translation:
+      en: boxed lunch (beautified)
+      ko: 도시락 (미화어)
+    gender: null
+    plural: null
+  - japanese: お土産
+    reading: おみやげ
+    translation:
+      en: souvenir / gift (beautified)
+      ko: 선물 / 기념품 (미화어)
+    gender: null
+    plural: null
+- id: register_vocabulary
+  label:
+    en: Register and Formality Vocabulary
+    ko: 격식 수준 관련 어휘
+  type: vocabulary
+  words:
+  - japanese: 敬語
+    reading: けいご
+    translation:
+      en: honorific language
+      ko: 경어
+    gender: null
+    plural: null
+  - japanese: 尊敬語
+    reading: そんけいご
+    translation:
+      en: respectful language (sonkeigo)
+      ko: 존경어
+    gender: null
+    plural: null
+  - japanese: 謙譲語
+    reading: けんじょうご
+    translation:
+      en: humble language (kenjougo)
+      ko: 겸양어
+    gender: null
+    plural: null
+  - japanese: 丁寧語
+    reading: ていねいご
+    translation:
+      en: polite language (teineigo)
+      ko: 정중어
+    gender: null
+    plural: null
+  - japanese: 目上
+    reading: めうえ
+    translation:
+      en: superior, someone of higher status
+      ko: 윗사람
+    gender: null
+    plural: null
+  - japanese: 目下
+    reading: めした
+    translation:
+      en: subordinate, someone of lower status
+      ko: 아랫사람
+    gender: null
+    plural: null
+  - japanese: 丁寧
+    reading: ていねい
+    translation:
+      en: polite, courteous
+      ko: 정중한, 공손한
+    gender: null
+    plural: null
+  - japanese: 失礼
+    reading: しつれい
+    translation:
+      en: rude, impolite / excuse me
+      ko: 실례, 무례 / 실례합니다
+    gender: null
+    plural: null
+  - japanese: 改まった
+    reading: あらたまった
+    translation:
+      en: formal (manner/setting)
+      ko: 격식을 차린
+    gender: null
+    plural: null
+  - japanese: くだけた
+    reading: null
+    translation:
+      en: casual, informal (manner/setting)
+      ko: 격식 없는, 편한
+    gender: null
+    plural: null

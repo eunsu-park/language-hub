@@ -119,6 +119,84 @@ categories:
       ko: 어깨의 짐을 내려놓다
     gender: null
     plural: null
+  - japanese: 耳が痛い
+    reading: みみがいたい
+    translation:
+      en: it hurts to hear (a painful truth)
+      ko: 귀가 아프다 (듣기 거북하다)
+    gender: null
+    plural: null
+    notes:
+      en: "When someone points out your flaw and it stings."
+      ko: "누군가 자신의 결점을 지적하여 찔릴 때."
+  - japanese: 耳を傾ける
+    reading: みみをかたむける
+    translation:
+      en: to listen attentively
+      ko: 귀를 기울이다
+    gender: null
+    plural: null
+  - japanese: 鼻が高い
+    reading: はながたかい
+    translation:
+      en: to be proud (of someone)
+      ko: 코가 높다 (자랑스럽다)
+    gender: null
+    plural: null
+    notes:
+      en: "Positive pride, often about a child's achievement."
+      ko: "긍정적 자부심, 주로 자녀의 성취에 대해."
+  - japanese: 首を長くする
+    reading: くびをながくする
+    translation:
+      en: to wait eagerly
+      ko: 목을 길게 빼다, 학수고대하다
+    gender: null
+    plural: null
+    notes:
+      en: "Literally: to make one's neck long."
+      ko: "직역: 목을 길게 하다."
+  - japanese: 腕を磨く
+    reading: うでをみがく
+    translation:
+      en: to improve one's skills
+      ko: 실력을 갈고 닦다
+    gender: null
+    plural: null
+    notes:
+      en: "Literally: to polish one's arm."
+      ko: "직역: 팔을 닦다."
+  - japanese: 目から鱗が落ちる
+    reading: めからうろこがおちる
+    translation:
+      en: to have one's eyes opened (revelation)
+      ko: 눈에서 비늘이 떨어지다 (깨달음)
+    gender: null
+    plural: null
+  - japanese: 目を丸くする
+    reading: めをまるくする
+    translation:
+      en: to be wide-eyed with surprise
+      ko: 눈을 동그랗게 뜨다, 깜짝 놀라다
+    gender: null
+    plural: null
+  - japanese: 手が足りない
+    reading: てがたりない
+    translation:
+      en: short-handed, not enough help
+      ko: 손이 모자라다, 일손이 부족하다
+    gender: null
+    plural: null
+  - japanese: 舌を巻く
+    reading: したをまく
+    translation:
+      en: to be astonished, amazed
+      ko: 혀를 내두르다, 감탄하다
+    gender: null
+    plural: null
+    notes:
+      en: "Literally: to roll one's tongue in amazement."
+      ko: "직역: 감탄하여 혀를 말다."
 
 - id: animal_idioms
   label:
@@ -150,6 +228,57 @@ categories:
     notes:
       en: "Literally: the horses match"
       ko: "직역: 말이 맞다"
+  - japanese: 猫の手も借りたい
+    reading: ねこのてもかりたい
+    translation:
+      en: so busy one would even borrow a cat's paw
+      ko: 고양이 손이라도 빌리고 싶다 (매우 바쁘다)
+    gender: null
+    plural: null
+    notes:
+      en: "Expresses extreme busyness."
+      ko: "극도의 바쁨을 표현."
+  - japanese: 猫をかぶる
+    reading: ねこをかぶる
+    translation:
+      en: to pretend to be innocent, play dumb
+      ko: 고양이를 뒤집어쓰다, 새침한 척하다
+    gender: null
+    plural: null
+  - japanese: 虎の巻
+    reading: とらのまき
+    translation:
+      en: cheat sheet, secret manual
+      ko: 비법서, 참고서
+    gender: null
+    plural: null
+    notes:
+      en: "Literally: tiger's scroll."
+      ko: "직역: 호랑이의 두루마리."
+  - japanese: 鶴の一声
+    reading: つるのひとこえ
+    translation:
+      en: one authoritative word that settles everything
+      ko: 학의 한마디 (최종 결정권자의 한마디)
+    gender: null
+    plural: null
+  - japanese: 蛇足
+    reading: だそく
+    translation:
+      en: "unnecessary addition (literally: legs on a snake)"
+      ko: 사족 (뱀의 발, 불필요한 추가)
+    gender: null
+    plural: null
+  - japanese: 馬耳東風
+    reading: ばじとうふう
+    translation:
+      en: turning a deaf ear (east wind in a horse's ear)
+      ko: 마이동풍 (말의 귀에 동풍)
+    gender: null
+    plural: null
+    notes:
+      en: "四字熟語: ignoring advice or criticism."
+      ko: "사자성어: 충고나 비판을 무시함."
 
 - id: proverbs
   label:
@@ -211,6 +340,72 @@ categories:
     translation:
       en: time is money
       ko: 시간은 금이다
+    gender: null
+    plural: null
+  - japanese: 塵も積もれば山となる
+    reading: ちりもつもればやまとなる
+    translation:
+      en: even dust piles up into a mountain (every little bit counts)
+      ko: 티끌 모아 태산
+    gender: null
+    plural: null
+  - japanese: 井の中の蛙大海を知らず
+    reading: いのなかのかわずたいかいをしらず
+    translation:
+      en: a frog in a well knows nothing of the ocean (narrow-minded)
+      ko: 우물 안 개구리
+    gender: null
+    plural: null
+  - japanese: 三人寄れば文殊の知恵
+    reading: さんにんよればもんじゅのちえ
+    translation:
+      en: two heads are better than one (three people = wisdom of Monju)
+      ko: 세 사람이 모이면 문수의 지혜 (백지장도 맞들면 낫다)
+    gender: null
+    plural: null
+  - japanese: 花より団子
+    reading: はなよりだんご
+    translation:
+      en: dumplings over flowers (substance over style)
+      ko: 꽃보다 경단 (실속이 중요하다)
+    gender: null
+    plural: null
+  - japanese: 案ずるより産むが易し
+    reading: あんずるよりうむがやすし
+    translation:
+      en: giving birth is easier than worrying (it's easier than you think)
+      ko: 걱정하는 것보다 낳는 것이 쉽다 (쉬운 법이다)
+    gender: null
+    plural: null
+  - japanese: 雨降って地固まる
+    reading: あめふってじかたまる
+    translation:
+      en: after rain, the ground hardens (adversity strengthens bonds)
+      ko: 비 온 뒤 땅이 굳어진다
+    gender: null
+    plural: null
+  - japanese: 出る杭は打たれる
+    reading: でるくいはうたれる
+    translation:
+      en: the nail that sticks out gets hammered (don't stand out)
+      ko: 튀어나온 못은 맞는다
+    gender: null
+    plural: null
+  - japanese: 一期一会
+    reading: いちごいちえ
+    translation:
+      en: once in a lifetime encounter (treasure every meeting)
+      ko: 일기일회 (일생에 한 번의 만남)
+    gender: null
+    plural: null
+    notes:
+      en: "Tea ceremony concept: every encounter is unique and precious."
+      ko: "다도 개념: 모든 만남은 유일하고 소중하다."
+  - japanese: 十人十色
+    reading: じゅうにんといろ
+    translation:
+      en: ten people, ten colors (to each their own)
+      ko: 십인십색 (사람마다 다르다)
     gender: null
     plural: null
 
@@ -287,5 +482,174 @@ categories:
     translation:
       en: sparkling clean, shiny
       ko: 반짝반짝
+    gender: null
+    plural: null
+  - japanese: ぼんやり
+    reading: null
+    translation:
+      en: absent-mindedly, vaguely
+      ko: 멍하니, 흐릿하게
+    gender: null
+    plural: null
+  - japanese: がっかり
+    reading: null
+    translation:
+      en: disappointed, let down
+      ko: 실망하다
+    gender: null
+    plural: null
+  - japanese: うっかり
+    reading: null
+    translation:
+      en: carelessly, accidentally
+      ko: 깜빡, 부주의하게
+    gender: null
+    plural: null
+  - japanese: そわそわ
+    reading: null
+    translation:
+      en: restless, fidgety
+      ko: 안절부절
+    gender: null
+    plural: null
+  - japanese: のろのろ
+    reading: null
+    translation:
+      en: sluggishly, slowly
+      ko: 느릿느릿
+    gender: null
+    plural: null
+  - japanese: すらすら
+    reading: null
+    translation:
+      en: smoothly, fluently
+      ko: 술술, 유창하게
+    gender: null
+    plural: null
+    notes:
+      en: "すらすら読める (to read smoothly)."
+      ko: "すらすら読める (술술 읽히다)."
+  - japanese: じろじろ
+    reading: null
+    translation:
+      en: staring intently
+      ko: 빤히, 뚫어지게
+    gender: null
+    plural: null
+    notes:
+      en: "じろじろ見る (to stare). Considered rude."
+      ko: "じろじろ見る (빤히 쳐다보다). 무례하게 여겨짐."
+  - japanese: ぶつぶつ
+    reading: null
+    translation:
+      en: muttering, grumbling
+      ko: 중얼중얼, 투덜투덜
+    gender: null
+    plural: null
+  - japanese: ざあざあ
+    reading: null
+    translation:
+      en: pouring (heavy rain)
+      ko: 쏴쏴 (폭우)
+    gender: null
+    plural: null
+    notes:
+      en: "擬音語 (gionogo) — imitates actual sound. 雨がざあざあ降る."
+      ko: "의음어 — 실제 소리를 모방. 雨がざあざあ降る."
+  - japanese: しとしと
+    reading: null
+    translation:
+      en: drizzling gently
+      ko: 보슬보슬 (가랑비)
+    gender: null
+    plural: null
+  - japanese: ぎりぎり
+    reading: null
+    translation:
+      en: just barely, at the last moment
+      ko: 간신히, 아슬아슬
+    gender: null
+    plural: null
+    notes:
+      en: "ぎりぎり間に合った (just barely made it in time)."
+      ko: "ぎりぎり間に合った (간신히 시간에 맞았다)."
+  - japanese: めちゃくちゃ
+    reading: null
+    translation:
+      en: messy, absurd, extremely
+      ko: 엉망진창, 매우
+    gender: null
+    plural: null
+    notes:
+      en: "Colloquial intensifier: めちゃくちゃ美味しい (extremely delicious)."
+      ko: "구어체 강조: めちゃくちゃ美味しい (매우 맛있다)."
+
+- id: set_phrases
+  label:
+    en: Common Set Phrases
+    ko: 관용 표현
+  type: vocabulary
+  words:
+  - japanese: 気が済む
+    reading: きがすむ
+    translation:
+      en: to feel satisfied, to feel at ease
+      ko: 마음이 놓이다, 속이 시원하다
+    gender: null
+    plural: null
+  - japanese: 気が利く
+    reading: きがきく
+    translation:
+      en: to be attentive, considerate
+      ko: 눈치가 빠르다, 기가 막히다
+    gender: null
+    plural: null
+  - japanese: 気を使う
+    reading: きをつかう
+    translation:
+      en: to be considerate, to worry about others
+      ko: 신경을 쓰다
+    gender: null
+    plural: null
+  - japanese: 気が付く
+    reading: きがつく
+    translation:
+      en: to notice, to become aware
+      ko: 알아차리다, 깨닫다
+    gender: null
+    plural: null
+  - japanese: 調子に乗る
+    reading: ちょうしにのる
+    translation:
+      en: to get carried away, to push one's luck
+      ko: 기세를 타다, 우쭐대다
+    gender: null
+    plural: null
+  - japanese: 油を売る
+    reading: あぶらをうる
+    translation:
+      en: to waste time chatting, to slack off
+      ko: 기름을 팔다, 빈둥거리다
+    gender: null
+    plural: null
+  - japanese: 水に流す
+    reading: みずにながす
+    translation:
+      en: to let bygones be bygones, to forgive and forget
+      ko: 물에 흘려보내다, 과거를 잊다
+    gender: null
+    plural: null
+  - japanese: 道草を食う
+    reading: みちくさをくう
+    translation:
+      en: to dawdle on the way, to take detours
+      ko: 한눈팔다, 딴짓하며 시간을 보내다
+    gender: null
+    plural: null
+  - japanese: 骨を折る
+    reading: ほねをおる
+    translation:
+      en: to make great effort, to take pains
+      ko: 수고하다, 애쓰다
     gender: null
     plural: null

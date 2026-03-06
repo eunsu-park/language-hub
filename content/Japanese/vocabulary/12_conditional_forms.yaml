@@ -108,6 +108,90 @@ categories:
     notes:
       en: "と conditional: plain non-past + と. For natural/automatic consequences."
       ko: "と 조건형: 기본 비과거형 + と. 자연적/자동적 결과에 사용."
+  - japanese: 読めば
+    reading: よめば
+    translation:
+      en: if one reads (ば conditional of 読む)
+      ko: 읽으면 (読む의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 飲めば
+    reading: のめば
+    translation:
+      en: if one drinks (ば conditional of 飲む)
+      ko: 마시면 (飲む의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 書けば
+    reading: かけば
+    translation:
+      en: if one writes (ば conditional of 書く)
+      ko: 쓰면 (書く의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 見れば
+    reading: みれば
+    translation:
+      en: if one sees (ば conditional of 見る)
+      ko: 보면 (見る의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 話せば
+    reading: はなせば
+    translation:
+      en: if one speaks (ば conditional of 話す)
+      ko: 말하면 (話す의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 待てば
+    reading: まてば
+    translation:
+      en: if one waits (ば conditional of 待つ)
+      ko: 기다리면 (待つ의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 買ったら
+    reading: かったら
+    translation:
+      en: if/when one buys (たら conditional of 買う)
+      ko: 사면/사게 되면 (買う의 たら 조건형)
+    gender: null
+    plural: null
+  - japanese: 来たら
+    reading: きたら
+    translation:
+      en: if/when one comes (たら conditional of 来る)
+      ko: 오면/오게 되면 (来る의 たら 조건형)
+    gender: null
+    plural: null
+  - japanese: したら
+    reading: null
+    translation:
+      en: if/when one does (たら conditional of する)
+      ko: 하면/하게 되면 (する의 たら 조건형)
+    gender: null
+    plural: null
+  - japanese: 暑ければ
+    reading: あつければ
+    translation:
+      en: if it is hot (ば conditional of 暑い)
+      ko: 더우면 (暑い의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: 高ければ
+    reading: たかければ
+    translation:
+      en: if it is expensive (ば conditional of 高い)
+      ko: 비싸면 (高い의 ば 조건형)
+    gender: null
+    plural: null
+  - japanese: なければ
+    reading: null
+    translation:
+      en: if there isn't / if one doesn't (negative ば)
+      ko: 없으면 / ~하지 않으면 (부정 ば형)
+    gender: null
+    plural: null
 - id: conjunctions
   label:
     en: Conjunctions and Connectors
@@ -174,6 +258,62 @@ categories:
     notes:
       en: "たら conditional + いい. Asking for advice: 何を持って行ったらいいですか."
       ko: "たら 조건형 + いい. 조언 요청: 何を持って行ったらいいですか."
+  - japanese: なくてもいい
+    reading: null
+    translation:
+      en: don't have to, it's okay not to
+      ko: ~하지 않아도 된다
+    gender: null
+    plural: null
+  - japanese: なくてはならない
+    reading: null
+    translation:
+      en: must do, have to (formal)
+      ko: ~하지 않으면 안 된다 (격식)
+    gender: null
+    plural: null
+  - japanese: なきゃ
+    reading: null
+    translation:
+      en: gotta, must (very casual)
+      ko: ~해야 해 (매우 구어적)
+    gender: null
+    plural: null
+  - japanese: ないと
+    reading: null
+    translation:
+      en: have to (casual, trailing)
+      ko: ~해야 (구어, 여운)
+    gender: null
+    plural: null
+  - japanese: ばこそ
+    reading: null
+    translation:
+      en: precisely because (emphatic ば)
+      ko: ~이기 때문에야말로 (강조 ば)
+    gender: null
+    plural: null
+  - japanese: としたら
+    reading: null
+    translation:
+      en: if we assume that, supposing
+      ko: ~라고 하면, 만일 ~라면
+    gender: null
+    plural: null
+  - japanese: とすれば
+    reading: null
+    translation:
+      en: if that is the case (ば form of とする)
+      ko: ~라고 한다면 (とする의 ば형)
+    gender: null
+    plural: null
+  - japanese: ものなら
+    reading: null
+    translation:
+      en: if one could (unlikely/challenging condition)
+      ko: ~할 수만 있다면 (어려운 조건)
+    gender: null
+    plural: null
 - id: hypothetical_phrases
   label:
     en: Hypothetical Phrases and Patterns
@@ -290,3 +430,246 @@ categories:
     notes:
       en: "な-adjective ば form: stem + であれば."
       ko: "な형용사 ば형: 어간 + であれば."
+  - japanese: 暇だったら
+    reading: ひまだったら
+    translation:
+      en: if one is free (たら for な-adjective)
+      ko: 한가하면 (な형용사의 たら형)
+    gender: null
+    plural: null
+  - japanese: 学生なら
+    reading: がくせいなら
+    translation:
+      en: if one is a student (なら for noun)
+      ko: 학생이라면 (명사의 なら형)
+    gender: null
+    plural: null
+  - japanese: 雨だったら
+    reading: あめだったら
+    translation:
+      en: if it rains (たら for noun)
+      ko: 비가 오면 (명사의 たら형)
+    gender: null
+    plural: null
+  - japanese: 元気だったら
+    reading: げんきだったら
+    translation:
+      en: if one is well (たら for な-adjective)
+      ko: 건강하면 (な형용사의 たら형)
+    gender: null
+    plural: null
+  - japanese: 忙しくなければ
+    reading: いそがしくなければ
+    translation:
+      en: if one is not busy (negative ば for い-adjective)
+      ko: 바쁘지 않으면 (い형용사 부정 ば형)
+    gender: null
+    plural: null
+  - japanese: できれば
+    reading: null
+    translation:
+      en: if possible, preferably
+      ko: 가능하면, 될 수 있으면
+    gender: null
+    plural: null
+  - japanese: よければ
+    reading: null
+    translation:
+      en: if you'd like, if it's okay
+      ko: 괜찮으시면, 좋으시면
+    gender: null
+    plural: null
+- id: counterfactual_expressions
+  label:
+    en: Counterfactual and Regret Expressions
+    ko: 반사실과 후회 표현
+  type: vocabulary
+  words:
+  - japanese: たら...のに
+    reading: null
+    translation:
+      en: if (had done)... (it would have been), but... (regret)
+      ko: ~했더라면... ~했을 텐데 (후회)
+    gender: null
+    plural: null
+  - japanese: ば...のに
+    reading: null
+    translation:
+      en: if (had done)... (it would have been), but... (regret)
+      ko: ~했으면... ~했을 텐데 (후회)
+    gender: null
+    plural: null
+  - japanese: ばよかったのに
+    reading: null
+    translation:
+      en: it would have been better if (regret)
+      ko: ~했으면 좋았을 텐데 (후회)
+    gender: null
+    plural: null
+  - japanese: なければよかった
+    reading: null
+    translation:
+      en: I wish I hadn't done (regret)
+      ko: ~하지 않았으면 좋았을 텐데 (후회)
+    gender: null
+    plural: null
+  - japanese: たらよかった
+    reading: null
+    translation:
+      en: I should have done (regret with たら)
+      ko: ~했으면 좋았다 (たら 후회)
+    gender: null
+    plural: null
+  - japanese: もっと早く来ればよかった
+    reading: もっとはやくくればよかった
+    translation:
+      en: I should have come earlier
+      ko: 더 일찍 왔으면 좋았을 텐데
+    gender: null
+    plural: null
+  - japanese: あのとき
+    reading: null
+    translation:
+      en: at that time (used in counterfactuals)
+      ko: 그때 (반사실에서 사용)
+    gender: null
+    plural: null
+  - japanese: せめて
+    reading: null
+    translation:
+      en: at least (wish for minimum)
+      ko: 적어도, 최소한
+    gender: null
+    plural: null
+- id: condition_related_vocabulary
+  label:
+    en: Condition-related Vocabulary
+    ko: 조건 관련 어휘
+  type: vocabulary
+  words:
+  - japanese: 条件
+    reading: じょうけん
+    translation:
+      en: condition, requirement
+      ko: 조건, 요건
+    gender: null
+    plural: null
+  - japanese: 場合
+    reading: ばあい
+    translation:
+      en: case, situation
+      ko: 경우
+    gender: null
+    plural: null
+  - japanese: 場合は
+    reading: ばあいは
+    translation:
+      en: in the case of
+      ko: ~의 경우에는
+    gender: null
+    plural: null
+  - japanese: 万が一
+    reading: まんがいち
+    translation:
+      en: by any chance, in the unlikely event
+      ko: 만에 하나, 만일
+    gender: null
+    plural: null
+  - japanese: 仮に
+    reading: かりに
+    translation:
+      en: supposing, hypothetically
+      ko: 가령, 가정하면
+    gender: null
+    plural: null
+  - japanese: たとえ
+    reading: null
+    translation:
+      en: even if, even though
+      ko: 설령, 비록
+    gender: null
+    plural: null
+  - japanese: たとえ...ても
+    reading: null
+    translation:
+      en: even if... (concessive conditional)
+      ko: 설령 ~하더라도 (양보 조건)
+    gender: null
+    plural: null
+  - japanese: いくら...ても
+    reading: null
+    translation:
+      en: no matter how much... (concessive)
+      ko: 아무리 ~해도 (양보)
+    gender: null
+    plural: null
+  - japanese: どんなに...ても
+    reading: null
+    translation:
+      en: no matter how... (concessive)
+      ko: 아무리 ~해도 (양보)
+    gender: null
+    plural: null
+  - japanese: 結果
+    reading: けっか
+    translation:
+      en: result, consequence
+      ko: 결과
+    gender: null
+    plural: null
+  - japanese: 可能性
+    reading: かのうせい
+    translation:
+      en: possibility, likelihood
+      ko: 가능성
+    gender: null
+    plural: null
+  - japanese: 必ず
+    reading: かならず
+    translation:
+      en: certainly, without fail
+      ko: 반드시, 꼭
+    gender: null
+    plural: null
+  - japanese: 必ずしも
+    reading: かならずしも
+    translation:
+      en: not necessarily
+      ko: 반드시 ~은 아니다
+    gender: null
+    plural: null
+  - japanese: 限り
+    reading: かぎり
+    translation:
+      en: as long as, to the extent that
+      ko: ~하는 한
+    gender: null
+    plural: null
+  - japanese: 限りでは
+    reading: かぎりでは
+    translation:
+      en: as far as (one knows/can tell)
+      ko: ~하는 한에서는
+    gender: null
+    plural: null
+  - japanese: さもないと
+    reading: null
+    translation:
+      en: otherwise, or else
+      ko: 그렇지 않으면
+    gender: null
+    plural: null
+  - japanese: そうでなければ
+    reading: null
+    translation:
+      en: if that is not the case, otherwise
+      ko: 그렇지 않으면
+    gender: null
+    plural: null
+  - japanese: 仮定
+    reading: かてい
+    translation:
+      en: assumption, hypothesis
+      ko: 가정, 가설
+    gender: null
+    plural: null

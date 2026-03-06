@@ -88,6 +88,56 @@ categories:
     notes:
       en: "Replaces は or が: 私も学生です (I am also a student)"
       ko: "は나 が를 대체: 私も学生です (나도 학생입니다)"
+  - japanese: と
+    reading: null
+    translation:
+      en: and (connecting nouns) / with
+      ko: ~와/과 (명사 연결) / ~와 함께
+    gender: null
+    plural: null
+    notes:
+      en: "Connects nouns exhaustively: 犬と猫 (dog and cat)"
+      ko: "명사를 빠짐없이 연결: 犬と猫 (개와 고양이)"
+  - japanese: や
+    reading: null
+    translation:
+      en: and (non-exhaustive list)
+      ko: ~이나 / ~와 같은
+    gender: null
+    plural: null
+    notes:
+      en: "Implies there are more items: 犬や猫 (dogs, cats, etc.)"
+      ko: "더 많은 항목이 있음을 암시: 犬や猫 (개, 고양이 등)"
+  - japanese: から
+    reading: null
+    translation:
+      en: from / because
+      ko: ~부터 / ~에서 / ~이니까
+    gender: null
+    plural: null
+    notes:
+      en: "Time/place origin: 九時から (from 9 o'clock). Reason: 暑いから (because it's hot)."
+      ko: "시간/장소 기점: 九時から (9시부터). 이유: 暑いから (더우니까)."
+  - japanese: まで
+    reading: null
+    translation:
+      en: until / up to
+      ko: ~까지
+    gender: null
+    plural: null
+    notes:
+      en: "Often paired with から: 九時から五時まで (from 9 to 5)"
+      ko: "から와 짝으로 사용: 九時から五時まで (9시부터 5시까지)"
+  - japanese: へ
+    reading: null
+    translation:
+      en: toward / to (direction) (read 'e')
+      ko: ~으로 / ~을 향해 ('에'로 읽음)
+    gender: null
+    plural: null
+    notes:
+      en: "Written へ but read 'e' as a particle. Shows direction of movement."
+      ko: "へ로 쓰지만 조사로 쓸 때는 'e'로 읽음. 이동 방향을 나타냄."
 
 - id: demonstratives
   label:
@@ -237,6 +287,123 @@ categories:
     notes:
       en: "Kanji: 電(electric) + 車(car/vehicle)"
       ko: "한자: 전(전기) + 차(수레)"
+  - japanese: 家
+    reading: いえ
+    translation:
+      en: house / home
+      ko: 집
+    gender: null
+    plural: null
+    notes:
+      en: "Kun'yomi: いえ (ie)/うち (uchi); On'yomi: カ (ka), ケ (ke)"
+      ko: "훈독: いえ/うち; 음독: カ, ケ"
+  - japanese: 部屋
+    reading: へや
+    translation:
+      en: room
+      ko: 방
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 部(section) + 屋(house/roof)"
+      ko: "한자: 部(부분) + 屋(집)"
+  - japanese: 食べ物
+    reading: たべもの
+    translation:
+      en: food
+      ko: 음식
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 食(eat) + 物(thing)"
+      ko: "한자: 食(먹을) + 物(것)"
+  - japanese: 飲み物
+    reading: のみもの
+    translation:
+      en: drink / beverage
+      ko: 음료 / 마실 것
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 飲(drink) + 物(thing)"
+      ko: "한자: 飲(마실) + 物(것)"
+  - japanese: 車
+    reading: くるま
+    translation:
+      en: car / vehicle
+      ko: 자동차
+    gender: null
+    plural: null
+  - japanese: 映画
+    reading: えいが
+    translation:
+      en: movie / film
+      ko: 영화
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 映(reflect) + 画(picture)"
+      ko: "한자: 映(비출) + 画(그림)"
+  - japanese: 音楽
+    reading: おんがく
+    translation:
+      en: music
+      ko: 음악
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 音(sound) + 楽(pleasure)"
+      ko: "한자: 音(소리) + 楽(즐거울)"
+  - japanese: 新聞
+    reading: しんぶん
+    translation:
+      en: newspaper
+      ko: 신문
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 新(new) + 聞(hear/news)"
+      ko: "한자: 新(새) + 聞(들을)"
+  - japanese: 仕事
+    reading: しごと
+    translation:
+      en: work / job
+      ko: 일 / 직업
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 仕(serve) + 事(thing/matter)"
+      ko: "한자: 仕(섬길) + 事(일)"
+  - japanese: 友達
+    reading: ともだち
+    translation:
+      en: friend
+      ko: 친구
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 友(friend) + 達(reach/plural suffix)"
+      ko: "한자: 友(벗) + 達(이를)"
+  - japanese: お茶
+    reading: おちゃ
+    translation:
+      en: tea (green tea)
+      ko: 차 (녹차)
+    gender: null
+    plural: null
+    notes:
+      en: "お is an honorific prefix. 茶 alone = ちゃ (cha)"
+      ko: "お는 존경 접두사. 茶 단독 = ちゃ"
+  - japanese: 病院
+    reading: びょういん
+    translation:
+      en: hospital
+      ko: 병원
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 病(sick) + 院(institution)"
+      ko: "한자: 病(병) + 院(집)"
 
 - id: question_words
   label:
@@ -299,3 +466,288 @@ categories:
       ko: 어느 쪽 / 어디 (공손)
     gender: null
     plural: null
+  - japanese: なぜ
+    reading: null
+    translation:
+      en: why (formal)
+      ko: 왜 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "More formal than どうして. Often used in writing."
+      ko: "どうして보다 격식적. 글에서 자주 사용."
+
+- id: copula_and_sentence_endings
+  label:
+    en: Copula and Sentence Endings
+    ko: 서술사와 문장 종결
+  type: vocabulary
+  words:
+  - japanese: です
+    reading: null
+    translation:
+      en: is / am / are (polite copula)
+      ko: ~입니다 / ~입니까 (공손 서술사)
+    gender: null
+    plural: null
+    notes:
+      en: "Polite copula. 学生です = (I) am a student."
+      ko: "공손 서술사. 学生です = 학생입니다."
+  - japanese: じゃないです
+    reading: null
+    translation:
+      en: is not (polite negative)
+      ko: ~가 아닙니다
+    gender: null
+    plural: null
+    notes:
+      en: "Negative of です. Also じゃありません (more formal)."
+      ko: "です의 부정형. じゃありません도 가능 (더 격식적)."
+  - japanese: でした
+    reading: null
+    translation:
+      en: was / were (polite past copula)
+      ko: ~이었습니다
+    gender: null
+    plural: null
+  - japanese: だ
+    reading: null
+    translation:
+      en: is / am / are (plain copula)
+      ko: ~이다 (반말 서술사)
+    gender: null
+    plural: null
+    notes:
+      en: "Plain/casual form of です. Used in informal speech and writing."
+      ko: "です의 반말형. 비격식적 대화와 글에서 사용."
+  - japanese: よ
+    reading: null
+    translation:
+      en: sentence-ending particle (emphasis/assertion)
+      ko: ~요 / ~이야 (강조/단정 종결 조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Adds emphasis or new information: これは本ですよ (This IS a book, you know)"
+      ko: "강조 또는 새로운 정보 전달: これは本ですよ (이건 책이에요)"
+  - japanese: ね
+    reading: null
+    translation:
+      en: sentence-ending particle (seeking agreement)
+      ko: ~네 / ~지 (동의 구하기 종결 조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Seeks agreement: いい天気ですね (Nice weather, isn't it?)"
+      ko: "동의를 구함: いい天気ですね (좋은 날씨네요, 그렇죠?)"
+
+- id: basic_adjectives
+  label:
+    en: Basic Adjectives for Sentences
+    ko: 문장을 위한 기본 형용사
+  type: vocabulary
+  words:
+  - japanese: 大きい
+    reading: おおきい
+    translation:
+      en: big / large
+      ko: 큰
+    gender: null
+    plural: null
+    notes:
+      en: "い-adjective. Remove い for stem: 大き"
+      ko: "い형용사. い를 빼면 어간: 大き"
+  - japanese: 小さい
+    reading: ちいさい
+    translation:
+      en: small / little
+      ko: 작은
+    gender: null
+    plural: null
+  - japanese: 新しい
+    reading: あたらしい
+    translation:
+      en: new
+      ko: 새로운
+    gender: null
+    plural: null
+  - japanese: 古い
+    reading: ふるい
+    translation:
+      en: old (things, not people)
+      ko: 오래된 (사물)
+    gender: null
+    plural: null
+  - japanese: 高い
+    reading: たかい
+    translation:
+      en: tall / high / expensive
+      ko: 높은 / 비싼
+    gender: null
+    plural: null
+  - japanese: 安い
+    reading: やすい
+    translation:
+      en: cheap / inexpensive
+      ko: 싼 / 저렴한
+    gender: null
+    plural: null
+  - japanese: いい
+    reading: null
+    translation:
+      en: good
+      ko: 좋은
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular adjective. Negative: よくない. Past: よかった."
+      ko: "불규칙 형용사. 부정: よくない. 과거: よかった."
+  - japanese: 悪い
+    reading: わるい
+    translation:
+      en: bad
+      ko: 나쁜
+    gender: null
+    plural: null
+  - japanese: 暑い
+    reading: あつい
+    translation:
+      en: hot (weather)
+      ko: 더운 (날씨)
+    gender: null
+    plural: null
+    notes:
+      en: "For weather. 熱い (あつい) = hot to the touch."
+      ko: "날씨에 사용. 熱い(あつい) = 만져서 뜨거운."
+  - japanese: 寒い
+    reading: さむい
+    translation:
+      en: cold (weather)
+      ko: 추운 (날씨)
+    gender: null
+    plural: null
+    notes:
+      en: "For weather. 冷たい (つめたい) = cold to the touch."
+      ko: "날씨에 사용. 冷たい(つめたい) = 만져서 차가운."
+  - japanese: おいしい
+    reading: null
+    translation:
+      en: delicious / tasty
+      ko: 맛있는
+    gender: null
+    plural: null
+  - japanese: 楽しい
+    reading: たのしい
+    translation:
+      en: fun / enjoyable
+      ko: 즐거운
+    gender: null
+    plural: null
+
+- id: common_adverbs
+  label:
+    en: Common Adverbs
+    ko: 일반 부사
+  type: vocabulary
+  words:
+  - japanese: とても
+    reading: null
+    translation:
+      en: very / extremely
+      ko: 매우 / 아주
+    gender: null
+    plural: null
+    notes:
+      en: "とても大きい = very big"
+      ko: "とても大きい = 매우 큰"
+  - japanese: あまり
+    reading: null
+    translation:
+      en: not very / not much (with negative)
+      ko: 별로 (~않다) (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "Used with negative: あまり好きじゃない = I don't like it very much"
+      ko: "부정과 함께 사용: あまり好きじゃない = 별로 좋아하지 않는다"
+  - japanese: 全然
+    reading: ぜんぜん
+    translation:
+      en: not at all (with negative)
+      ko: 전혀 (~않다) (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 全(all) + 然(so). Used with negative verbs/adjectives."
+      ko: "한자: 全(전부) + 然(그럴). 부정 동사/형용사와 함께 사용."
+  - japanese: いつも
+    reading: null
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+    plural: null
+  - japanese: よく
+    reading: null
+    translation:
+      en: often / well
+      ko: 자주 / 잘
+    gender: null
+    plural: null
+    notes:
+      en: "よく食べます = I often eat / I eat well"
+      ko: "よく食べます = 자주 먹습니다 / 잘 먹습니다"
+  - japanese: 時々
+    reading: ときどき
+    translation:
+      en: sometimes
+      ko: 때때로
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 時(time) repeated"
+      ko: "한자: 時(때) 반복"
+  - japanese: たくさん
+    reading: null
+    translation:
+      en: a lot / many / much
+      ko: 많이
+    gender: null
+    plural: null
+  - japanese: 少し
+    reading: すこし
+    translation:
+      en: a little / a few
+      ko: 조금
+    gender: null
+    plural: null
+  - japanese: もう
+    reading: null
+    translation:
+      en: already / more
+      ko: 이미 / 더
+    gender: null
+    plural: null
+    notes:
+      en: "もう食べました = already ate. もう一つ = one more"
+      ko: "もう食べました = 이미 먹었습니다. もう一つ = 하나 더"
+  - japanese: まだ
+    reading: null
+    translation:
+      en: still / not yet
+      ko: 아직
+    gender: null
+    plural: null
+    notes:
+      en: "まだです = not yet. まだ食べています = still eating"
+      ko: "まだです = 아직입니다. まだ食べています = 아직 먹고 있습니다"
+  - japanese: 一緒に
+    reading: いっしょに
+    translation:
+      en: together
+      ko: 함께 / 같이
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 一(one) + 緒(thread). 一緒に行きましょう = Let's go together."
+      ko: "한자: 一(하나) + 緒(실마리). 一緒に行きましょう = 같이 갑시다."

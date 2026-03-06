@@ -163,6 +163,136 @@ categories:
       ko: 가르치다, 알려주다
     gender: null
     plural: null
+  - japanese: 立つ
+    reading: たつ
+    translation:
+      en: to stand
+      ko: 서다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 立って (つ → って)"
+      ko: "5단 동사. て형: 立って (つ → って)"
+  - japanese: 死ぬ
+    reading: しぬ
+    translation:
+      en: to die
+      ko: 죽다
+    gender: null
+    plural: null
+    notes:
+      en: "The only godan verb ending in ぬ. Te-form: 死んで (ぬ → んで)"
+      ko: "ぬ로 끝나는 유일한 5단 동사. て형: 死んで (ぬ → んで)"
+  - japanese: 走る
+    reading: はしる
+    translation:
+      en: to run
+      ko: 달리다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb (not ichidan). Te-form: 走って (る → って)"
+      ko: "5단 동사 (1단이 아님). て형: 走って (る → って)"
+  - japanese: 歩く
+    reading: あるく
+    translation:
+      en: to walk
+      ko: 걷다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 歩いて (く → いて)"
+      ko: "5단 동사. て형: 歩いて (く → いて)"
+  - japanese: 持つ
+    reading: もつ
+    translation:
+      en: to hold, to have
+      ko: 가지다, 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 持って (つ → って)"
+      ko: "5단 동사. て형: 持って (つ → って)"
+  - japanese: 使う
+    reading: つかう
+    translation:
+      en: to use
+      ko: 사용하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 使って (う → って)"
+      ko: "5단 동사. て형: 使って (う → って)"
+  - japanese: 入る
+    reading: はいる
+    translation:
+      en: to enter
+      ko: 들어가다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb (not ichidan). Te-form: 入って (る → って)"
+      ko: "5단 동사 (1단이 아님). て형: 入って (る → って)"
+  - japanese: 出る
+    reading: でる
+    translation:
+      en: to go out, to leave
+      ko: 나가다, 나오다
+    gender: null
+    plural: null
+    notes:
+      en: "Ichidan verb. Te-form: 出て"
+      ko: "1단 동사. て형: 出て"
+  - japanese: 着る
+    reading: きる
+    translation:
+      en: to wear (upper body)
+      ko: 입다
+    gender: null
+    plural: null
+    notes:
+      en: "Ichidan verb. Te-form: 着て"
+      ko: "1단 동사. て형: 着て"
+  - japanese: 脱ぐ
+    reading: ぬぐ
+    translation:
+      en: to take off (clothes)
+      ko: 벗다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 脱いで (ぐ → いで)"
+      ko: "5단 동사. て형: 脱いで (ぐ → いで)"
+  - japanese: 切る
+    reading: きる
+    translation:
+      en: to cut
+      ko: 자르다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb (not ichidan despite ending in る). Te-form: 切って"
+      ko: "5단 동사 (る로 끝나지만 1단이 아님). て형: 切って"
+  - japanese: 消す
+    reading: けす
+    translation:
+      en: to turn off, to erase
+      ko: 끄다, 지우다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 消して (す → して)"
+      ko: "5단 동사. て형: 消して (す → して)"
+  - japanese: つける
+    reading: null
+    translation:
+      en: to turn on, to attach
+      ko: 켜다, 붙이다
+    gender: null
+    plural: null
+    notes:
+      en: "Ichidan verb. Te-form: つけて"
+      ko: "1단 동사. て형: つけて"
 - id: request_phrases
   label:
     en: Request and Command Expressions
@@ -240,6 +370,62 @@ categories:
     translation:
       en: to hurry
       ko: 서두르다
+    gender: null
+    plural: null
+  - japanese: すみません
+    reading: null
+    translation:
+      en: excuse me, I'm sorry
+      ko: 실례합니다, 죄송합니다
+    gender: null
+    plural: null
+  - japanese: 静かにする
+    reading: しずかにする
+    translation:
+      en: to be quiet
+      ko: 조용히 하다
+    gender: null
+    plural: null
+  - japanese: 手伝う
+    reading: てつだう
+    translation:
+      en: to help, to assist
+      ko: 돕다
+    gender: null
+    plural: null
+  - japanese: 電気
+    reading: でんき
+    translation:
+      en: electricity, light
+      ko: 전기, 전등
+    gender: null
+    plural: null
+  - japanese: エアコン
+    reading: null
+    translation:
+      en: air conditioner
+      ko: 에어컨
+    gender: null
+    plural: null
+  - japanese: 見せる
+    reading: みせる
+    translation:
+      en: to show
+      ko: 보여주다
+    gender: null
+    plural: null
+  - japanese: 連れて行く
+    reading: つれていく
+    translation:
+      en: to take (someone) along
+      ko: 데려가다
+    gender: null
+    plural: null
+  - japanese: 持って来る
+    reading: もってくる
+    translation:
+      en: to bring (an object)
+      ko: 가져오다
     gender: null
     plural: null
 - id: permission_prohibition
@@ -340,3 +526,177 @@ categories:
     notes:
       en: "知っている = I know. Negative is 知らない (NOT 知っていない)"
       ko: "知っている = 알고 있다. 부정형은 知らない (知っていない가 아님)"
+  - japanese: 使ってもいい
+    reading: つかってもいい
+    translation:
+      en: may use, it's okay to use
+      ko: 사용해도 된다
+    gender: null
+    plural: null
+  - japanese: 入ってはいけない
+    reading: はいってはいけない
+    translation:
+      en: must not enter
+      ko: 들어가면 안 된다
+    gender: null
+    plural: null
+  - japanese: 食べないでください
+    reading: たべないでください
+    translation:
+      en: please don't eat
+      ko: 먹지 말아 주세요
+    gender: null
+    plural: null
+    notes:
+      en: "ないでください pattern for negative requests: verb (ない form) + でください"
+      ko: "ないでください 패턴으로 부정 요청: 동사(ない형) + でください"
+  - japanese: 吸う
+    reading: すう
+    translation:
+      en: to smoke, to breathe in
+      ko: 피우다, 들이쉬다
+    gender: null
+    plural: null
+  - japanese: 走ってはいけない
+    reading: はしってはいけない
+    translation:
+      en: must not run
+      ko: 뛰면 안 된다
+    gender: null
+    plural: null
+  - japanese: 携帯電話
+    reading: けいたいでんわ
+    translation:
+      en: mobile phone
+      ko: 휴대전화
+    gender: null
+    plural: null
+- id: te_form_states
+  label:
+    en: Te-form Progressive and State Expressions
+    ko: て형 진행 및 상태 표현
+  type: vocabulary
+  words:
+  - japanese: 住む
+    reading: すむ
+    translation:
+      en: to live, to reside
+      ko: 살다, 거주하다
+    gender: null
+    plural: null
+    notes:
+      en: "住んでいる = currently living (resultant state)"
+      ko: "住んでいる = 현재 살고 있다 (결과 상태)"
+  - japanese: 働く
+    reading: はたらく
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+  - japanese: 勉強する
+    reading: べんきょうする
+    translation:
+      en: to study
+      ko: 공부하다
+    gender: null
+    plural: null
+  - japanese: 太る
+    reading: ふとる
+    translation:
+      en: to gain weight
+      ko: 살찌다
+    gender: null
+    plural: null
+    notes:
+      en: "太っている = is fat (resultant state, not progressive)"
+      ko: "太っている = 뚱뚱하다 (결과 상태, 진행이 아님)"
+  - japanese: 痩せる
+    reading: やせる
+    translation:
+      en: to lose weight
+      ko: 살빠지다
+    gender: null
+    plural: null
+    notes:
+      en: "痩せている = is thin (resultant state)"
+      ko: "痩せている = 마르다 (결과 상태)"
+  - japanese: 持っている
+    reading: もっている
+    translation:
+      en: to have, to possess
+      ko: 가지고 있다
+    gender: null
+    plural: null
+  - japanese: 覚える
+    reading: おぼえる
+    translation:
+      en: to memorize, to remember
+      ko: 외우다, 기억하다
+    gender: null
+    plural: null
+  - japanese: 忘れる
+    reading: わすれる
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    plural: null
+  - japanese: 落とす
+    reading: おとす
+    translation:
+      en: to drop
+      ko: 떨어뜨리다
+    gender: null
+    plural: null
+  - japanese: 届ける
+    reading: とどける
+    translation:
+      en: to deliver
+      ko: 배달하다, 전하다
+    gender: null
+    plural: null
+  - japanese: 壊れる
+    reading: こわれる
+    translation:
+      en: to break (intransitive)
+      ko: 부서지다, 고장나다
+    gender: null
+    plural: null
+    notes:
+      en: "壊れている = is broken (resultant state)"
+      ko: "壊れている = 고장 나 있다 (결과 상태)"
+  - japanese: 開く
+    reading: あく
+    translation:
+      en: to open (intransitive)
+      ko: 열리다
+    gender: null
+    plural: null
+    notes:
+      en: "開いている = is open (resultant state)"
+      ko: "開いている = 열려 있다 (결과 상태)"
+  - japanese: 閉まる
+    reading: しまる
+    translation:
+      en: to close (intransitive)
+      ko: 닫히다
+    gender: null
+    plural: null
+    notes:
+      en: "閉まっている = is closed (resultant state)"
+      ko: "閉まっている = 닫혀 있다 (결과 상태)"
+  - japanese: 始まる
+    reading: はじまる
+    translation:
+      en: to begin (intransitive)
+      ko: 시작되다
+    gender: null
+    plural: null
+  - japanese: 終わる
+    reading: おわる
+    translation:
+      en: to end (intransitive)
+      ko: 끝나다
+    gender: null
+    plural: null

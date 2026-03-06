@@ -78,6 +78,62 @@ categories:
     notes:
       en: "Strong conviction. Higher certainty than はずだ."
       ko: "강한 확신. はずだ보다 높은 확실성."
+  - japanese: と信じる
+    reading: としんじる
+    translation:
+      en: to believe that
+      ko: ~라고 믿다
+    gender: null
+    plural: null
+  - japanese: と感じる
+    reading: とかんじる
+    translation:
+      en: to feel that
+      ko: ~라고 느끼다
+    gender: null
+    plural: null
+  - japanese: によると
+    reading: null
+    translation:
+      en: according to
+      ko: ~에 의하면
+    gender: null
+    plural: null
+  - japanese: と言える
+    reading: といえる
+    translation:
+      en: it can be said that
+      ko: ~라고 말할 수 있다
+    gender: null
+    plural: null
+  - japanese: わけだ
+    reading: null
+    translation:
+      en: it means that, that's why
+      ko: ~인 셈이다, 그래서 ~인 것이다
+    gender: null
+    plural: null
+  - japanese: わけがない
+    reading: null
+    translation:
+      en: there's no way that
+      ko: ~일 리가 없다
+    gender: null
+    plural: null
+  - japanese: わけではない
+    reading: null
+    translation:
+      en: it doesn't mean that
+      ko: ~인 것은 아니다
+    gender: null
+    plural: null
+  - japanese: と思われる
+    reading: とおもわれる
+    translation:
+      en: it is thought that (objective)
+      ko: ~라고 여겨지다 (객관적)
+    gender: null
+    plural: null
 - id: emotion_words
   label:
     en: Emotion and Impression Words
@@ -320,3 +376,315 @@ categories:
     notes:
       en: "な-adjective stem + そうだ (appearance). 彼は元気そうだ."
       ko: "な형용사 어간 + そうだ (외관). 彼は元気そうだ."
+- id: emotion_adjectives
+  label:
+    en: Emotion Adjectives
+    ko: 감정 형용사
+  type: vocabulary
+  words:
+  - japanese: 嬉しい
+    reading: うれしい
+    translation:
+      en: happy, glad
+      ko: 기쁘다, 반갑다
+    gender: null
+    plural: null
+  - japanese: 悲しい
+    reading: かなしい
+    translation:
+      en: sad
+      ko: 슬프다
+    gender: null
+    plural: null
+  - japanese: 楽しい
+    reading: たのしい
+    translation:
+      en: fun, enjoyable
+      ko: 즐겁다, 재미있다
+    gender: null
+    plural: null
+  - japanese: 寂しい
+    reading: さびしい
+    translation:
+      en: lonely
+      ko: 외롭다, 쓸쓸하다
+    gender: null
+    plural: null
+  - japanese: 恥ずかしい
+    reading: はずかしい
+    translation:
+      en: embarrassing, embarrassed
+      ko: 부끄럽다, 창피하다
+    gender: null
+    plural: null
+  - japanese: 悔しい
+    reading: くやしい
+    translation:
+      en: frustrated, vexing
+      ko: 분하다, 억울하다
+    gender: null
+    plural: null
+  - japanese: 怖い
+    reading: こわい
+    translation:
+      en: scary, afraid
+      ko: 무섭다
+    gender: null
+    plural: null
+  - japanese: 心配だ
+    reading: しんぱいだ
+    translation:
+      en: worried, anxious
+      ko: 걱정되다
+    gender: null
+    plural: null
+  - japanese: 不安だ
+    reading: ふあんだ
+    translation:
+      en: uneasy, anxious
+      ko: 불안하다
+    gender: null
+    plural: null
+  - japanese: 残念だ
+    reading: ざんねんだ
+    translation:
+      en: regrettable, disappointing
+      ko: 아쉽다, 유감이다
+    gender: null
+    plural: null
+  - japanese: 懐かしい
+    reading: なつかしい
+    translation:
+      en: nostalgic, dear
+      ko: 그립다, 그리운
+    gender: null
+    plural: null
+  - japanese: 羨ましい
+    reading: うらやましい
+    translation:
+      en: envious, jealous
+      ko: 부럽다
+    gender: null
+    plural: null
+  - japanese: 退屈だ
+    reading: たいくつだ
+    translation:
+      en: bored, boring
+      ko: 지루하다
+    gender: null
+    plural: null
+  - japanese: 感動する
+    reading: かんどうする
+    translation:
+      en: to be moved, to be impressed
+      ko: 감동하다
+    gender: null
+    plural: null
+- id: agreement_disagreement
+  label:
+    en: Agreement and Disagreement
+    ko: 동의와 반대
+  type: vocabulary
+  words:
+  - japanese: 賛成する
+    reading: さんせいする
+    translation:
+      en: to agree, to approve
+      ko: 찬성하다
+    gender: null
+    plural: null
+  - japanese: 反対する
+    reading: はんたいする
+    translation:
+      en: to oppose, to disagree
+      ko: 반대하다
+    gender: null
+    plural: null
+  - japanese: その通りだ
+    reading: そのとおりだ
+    translation:
+      en: that's right, exactly
+      ko: 그 말이 맞다, 그대로다
+    gender: null
+    plural: null
+  - japanese: 確かに
+    reading: たしかに
+    translation:
+      en: certainly, indeed
+      ko: 확실히, 과연
+    gender: null
+    plural: null
+  - japanese: そうとは限らない
+    reading: そうとはかぎらない
+    translation:
+      en: that's not necessarily the case
+      ko: 꼭 그렇다고 할 수 없다
+    gender: null
+    plural: null
+  - japanese: ちょっと違う
+    reading: ちょっとちがう
+    translation:
+      en: that's a bit different
+      ko: 좀 다르다
+    gender: null
+    plural: null
+  - japanese: なるほど
+    reading: null
+    translation:
+      en: I see, indeed
+      ko: 과연, 그렇구나
+    gender: null
+    plural: null
+  - japanese: むしろ
+    reading: null
+    translation:
+      en: rather, on the contrary
+      ko: 오히려, 차라리
+    gender: null
+    plural: null
+  - japanese: 一概に言えない
+    reading: いちがいにいえない
+    translation:
+      en: can't generalize, can't say for sure
+      ko: 일률적으로 말할 수 없다
+    gender: null
+    plural: null
+  - japanese: 個人的に
+    reading: こじんてきに
+    translation:
+      en: personally
+      ko: 개인적으로
+    gender: null
+    plural: null
+- id: feeling_expressions
+  label:
+    en: Feeling and Desire Expressions
+    ko: 감정 및 욕구 표현
+  type: vocabulary
+  words:
+  - japanese: たい
+    reading: null
+    translation:
+      en: want to (do)
+      ko: ~하고 싶다
+    gender: null
+    plural: null
+  - japanese: たがる
+    reading: null
+    translation:
+      en: to want to (third person)
+      ko: ~하고 싶어하다 (3인칭)
+    gender: null
+    plural: null
+  - japanese: てたまらない
+    reading: null
+    translation:
+      en: can't stand, unbearably
+      ko: ~해서 견딜 수 없다
+    gender: null
+    plural: null
+  - japanese: てしかたがない
+    reading: null
+    translation:
+      en: can't help but, extremely
+      ko: ~해서 어쩔 수 없다
+    gender: null
+    plural: null
+  - japanese: がする
+    reading: null
+    translation:
+      en: to have a feeling/sense of
+      ko: ~이 나다 / ~이 하다 (감각)
+    gender: null
+    plural: null
+  - japanese: 気がする
+    reading: きがする
+    translation:
+      en: to have a feeling that
+      ko: ~인 기분이 들다
+    gender: null
+    plural: null
+  - japanese: 気になる
+    reading: きになる
+    translation:
+      en: to be concerned about, to be curious
+      ko: 신경 쓰이다, 궁금하다
+    gender: null
+    plural: null
+  - japanese: 気にする
+    reading: きにする
+    translation:
+      en: to worry about, to mind
+      ko: 신경 쓰다, 걱정하다
+    gender: null
+    plural: null
+  - japanese: がっかりする
+    reading: null
+    translation:
+      en: to be disappointed
+      ko: 실망하다
+    gender: null
+    plural: null
+  - japanese: わくわくする
+    reading: null
+    translation:
+      en: to be excited, to be thrilled
+      ko: 두근두근하다, 설레다
+    gender: null
+    plural: null
+  - japanese: いらいらする
+    reading: null
+    translation:
+      en: to be irritated, to be frustrated
+      ko: 짜증나다, 초조하다
+    gender: null
+    plural: null
+  - japanese: どきどきする
+    reading: null
+    translation:
+      en: to be nervous, heart pounding
+      ko: 두근거리다, 조마조마하다
+    gender: null
+    plural: null
+  - japanese: ほっとする
+    reading: null
+    translation:
+      en: to be relieved
+      ko: 안심하다, 안도하다
+    gender: null
+    plural: null
+  - japanese: うんざりする
+    reading: null
+    translation:
+      en: to be fed up, to be disgusted
+      ko: 진절머리 나다, 질리다
+    gender: null
+    plural: null
+  - japanese: 落ち込む
+    reading: おちこむ
+    translation:
+      en: to be depressed, to feel down
+      ko: 우울해지다, 기가 죽다
+    gender: null
+    plural: null
+  - japanese: 胸が痛い
+    reading: むねがいたい
+    translation:
+      en: heartache, heartbreaking
+      ko: 가슴이 아프다
+    gender: null
+    plural: null
+  - japanese: 仕方がない
+    reading: しかたがない
+    translation:
+      en: it can't be helped, no choice
+      ko: 어쩔 수 없다, 하는 수 없다
+    gender: null
+    plural: null
+  - japanese: すっきりする
+    reading: null
+    translation:
+      en: to feel refreshed, to feel clear
+      ko: 개운하다, 상쾌하다
+    gender: null
+    plural: null

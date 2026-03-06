@@ -71,6 +71,76 @@ categories:
       ko: 역
     gender: null
     plural: null
+  - japanese: 病院
+    reading: びょういん
+    translation:
+      en: hospital
+      ko: 병원
+    gender: null
+    plural: null
+  - japanese: 銀行
+    reading: ぎんこう
+    translation:
+      en: bank
+      ko: 은행
+    gender: null
+    plural: null
+  - japanese: 郵便局
+    reading: ゆうびんきょく
+    translation:
+      en: post office
+      ko: 우체국
+    gender: null
+    plural: null
+  - japanese: 空港
+    reading: くうこう
+    translation:
+      en: airport
+      ko: 공항
+    gender: null
+    plural: null
+  - japanese: 美術館
+    reading: びじゅつかん
+    translation:
+      en: art museum
+      ko: 미술관
+    gender: null
+    plural: null
+  - japanese: 映画館
+    reading: えいがかん
+    translation:
+      en: movie theater
+      ko: 영화관
+    gender: null
+    plural: null
+  - japanese: 神社
+    reading: じんじゃ
+    translation:
+      en: Shinto shrine
+      ko: 신사
+    gender: null
+    plural: null
+  - japanese: お寺
+    reading: おてら
+    translation:
+      en: Buddhist temple
+      ko: 절
+    gender: null
+    plural: null
+  - japanese: 交番
+    reading: こうばん
+    translation:
+      en: police box
+      ko: 파출소
+    gender: null
+    plural: null
+  - japanese: 橋
+    reading: はし
+    translation:
+      en: bridge
+      ko: 다리
+    gender: null
+    plural: null
 - id: action_particles
   label:
     en: Means, Method, and Reason Vocabulary
@@ -150,6 +220,62 @@ categories:
       ko: 종이
     gender: null
     plural: null
+  - japanese: 電話
+    reading: でんわ
+    translation:
+      en: telephone
+      ko: 전화
+    gender: null
+    plural: null
+  - japanese: 自転車
+    reading: じてんしゃ
+    translation:
+      en: bicycle
+      ko: 자전거
+    gender: null
+    plural: null
+  - japanese: 飛行機
+    reading: ひこうき
+    translation:
+      en: airplane
+      ko: 비행기
+    gender: null
+    plural: null
+  - japanese: 船
+    reading: ふね
+    translation:
+      en: ship, boat
+      ko: 배
+    gender: null
+    plural: null
+  - japanese: ペン
+    reading: null
+    translation:
+      en: pen
+      ko: 펜
+    gender: null
+    plural: null
+  - japanese: ナイフ
+    reading: null
+    translation:
+      en: knife
+      ko: 나이프
+    gender: null
+    plural: null
+  - japanese: 事故
+    reading: じこ
+    translation:
+      en: accident
+      ko: 사고
+    gender: null
+    plural: null
+  - japanese: 地震
+    reading: じしん
+    translation:
+      en: earthquake
+      ko: 지진
+    gender: null
+    plural: null
 - id: connective_particles
   label:
     en: Connective and Listing Vocabulary
@@ -201,6 +327,48 @@ categories:
     notes:
       en: "Used with や to make non-exhaustive listing explicit: りんごやみかんなど"
       ko: "や와 함께 사용하여 비완전 나열을 명확히 함: りんごやみかんなど"
+  - japanese: 先生
+    reading: せんせい
+    translation:
+      en: teacher
+      ko: 선생님
+    gender: null
+    plural: null
+  - japanese: 音楽
+    reading: おんがく
+    translation:
+      en: music
+      ko: 음악
+    gender: null
+    plural: null
+  - japanese: 本
+    reading: ほん
+    translation:
+      en: book
+      ko: 책
+    gender: null
+    plural: null
+  - japanese: 新聞
+    reading: しんぶん
+    translation:
+      en: newspaper
+      ko: 신문
+    gender: null
+    plural: null
+  - japanese: テレビ
+    reading: null
+    translation:
+      en: television
+      ko: 텔레비전
+    gender: null
+    plural: null
+  - japanese: スポーツ
+    reading: null
+    translation:
+      en: sports
+      ko: 스포츠
+    gender: null
+    plural: null
 - id: particle_expressions
   label:
     en: Particle-related Grammar Expressions
@@ -278,5 +446,161 @@ categories:
     translation:
       en: cherry blossom
       ko: 벚꽃
+    gender: null
+    plural: null
+  - japanese: どこかに
+    reading: null
+    translation:
+      en: somewhere
+      ko: 어딘가에
+    gender: null
+    plural: null
+  - japanese: 何か
+    reading: なにか
+    translation:
+      en: something
+      ko: 무언가
+    gender: null
+    plural: null
+  - japanese: 誰か
+    reading: だれか
+    translation:
+      en: someone
+      ko: 누군가
+    gender: null
+    plural: null
+  - japanese: だけ
+    reading: null
+    translation:
+      en: only, just
+      ko: 만, ~뿐
+    gender: null
+    plural: null
+  - japanese: しか
+    reading: null
+    translation:
+      en: only (with negative)
+      ko: ~밖에 (~않다)
+    gender: null
+    plural: null
+    notes:
+      en: "Must be used with negative: 水しか飲まない (I drink only water)"
+      ko: "부정형과 함께 사용: 水しか飲まない (물밖에 안 마신다)"
+  - japanese: までに
+    reading: null
+    translation:
+      en: by (deadline)
+      ko: ~까지 (기한)
+    gender: null
+    plural: null
+  - japanese: について
+    reading: null
+    translation:
+      en: about, concerning
+      ko: ~에 대해서
+    gender: null
+    plural: null
+- id: time_scope_vocabulary
+  label:
+    en: Time and Scope Vocabulary
+    ko: 시간 및 범위 어휘
+  type: vocabulary
+  words:
+  - japanese: 今日
+    reading: きょう
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+    plural: null
+  - japanese: 明日
+    reading: あした
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    plural: null
+  - japanese: 昨日
+    reading: きのう
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+    plural: null
+  - japanese: 来週
+    reading: らいしゅう
+    translation:
+      en: next week
+      ko: 다음 주
+    gender: null
+    plural: null
+  - japanese: 先週
+    reading: せんしゅう
+    translation:
+      en: last week
+      ko: 지난 주
+    gender: null
+    plural: null
+  - japanese: 今月
+    reading: こんげつ
+    translation:
+      en: this month
+      ko: 이번 달
+    gender: null
+    plural: null
+  - japanese: 毎日
+    reading: まいにち
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+    plural: null
+  - japanese: 毎週
+    reading: まいしゅう
+    translation:
+      en: every week
+      ko: 매주
+    gender: null
+    plural: null
+  - japanese: 午前
+    reading: ごぜん
+    translation:
+      en: morning, AM
+      ko: 오전
+    gender: null
+    plural: null
+  - japanese: 午後
+    reading: ごご
+    translation:
+      en: afternoon, PM
+      ko: 오후
+    gender: null
+    plural: null
+  - japanese: 今年
+    reading: ことし
+    translation:
+      en: this year
+      ko: 올해
+    gender: null
+    plural: null
+  - japanese: 去年
+    reading: きょねん
+    translation:
+      en: last year
+      ko: 작년
+    gender: null
+    plural: null
+  - japanese: 来月
+    reading: らいげつ
+    translation:
+      en: next month
+      ko: 다음 달
+    gender: null
+    plural: null
+  - japanese: 来年
+    reading: らいねん
+    translation:
+      en: next year
+      ko: 내년
     gender: null
     plural: null
