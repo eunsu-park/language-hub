@@ -1,0 +1,497 @@
+# Japanese Tense and Form Rules
+# Plain (普通体) and Polite (丁寧体) speech styles
+# Basic forms + Compound forms + Voice
+
+tenses:
+  # ============================================================
+  # BASIC FORMS
+  # ============================================================
+  present:
+    id: present
+    label:
+      en: "Present/Non-past Tense (現在形)"
+      ko: "현재형 (現在形)"
+    jlpt: N5
+    formation:
+      en: "Dictionary form (plain) or ます-form (polite). Japanese does not distinguish between present and future — the non-past form covers both."
+      ko: "사전형 (보통체) 또는 ます형 (정중체). 일본어는 현재와 미래를 구분하지 않으며, 비과거형이 둘 다 포함."
+    patterns:
+      plain:
+        godan: "Dictionary form (e.g., 書く, 読む, 話す)"
+        ichidan: "Dictionary form (e.g., 食べる, 見る)"
+        irregular: "する, 来る"
+      polite:
+        godan: "ます-stem + ます (e.g., 書きます, 読みます)"
+        ichidan: "Drop る + ます (e.g., 食べます, 見ます)"
+        irregular: "します, 来ます"
+    uses:
+      - en: "Habitual actions and routines"
+        ko: "습관적 행동과 일상"
+        example: "毎朝コーヒーを飲みます。 (I drink coffee every morning.)"
+      - en: "General truths and facts"
+        ko: "일반적 진리와 사실"
+        example: "地球は太陽の周りを回る。 (The Earth orbits the sun.)"
+      - en: "Future events and plans"
+        ko: "미래 사건과 계획"
+        example: "明日、東京に行きます。 (I'm going to Tokyo tomorrow.)"
+      - en: "Scheduled events"
+        ko: "예정된 사건"
+        example: "電車は3時に出発します。 (The train departs at 3.)"
+    trigger_words: [毎日, いつも, 時々, よく, たいてい, 明日, 来週, 来年]
+    notes:
+      en: "Japanese does not have a separate future tense. Context and time expressions distinguish present from future meaning."
+      ko: "일본어에는 별도의 미래 시제가 없다. 문맥과 시간 표현으로 현재와 미래 의미를 구분."
+
+  past:
+    id: past
+    label:
+      en: "Past Tense (過去形)"
+      ko: "과거형 (過去形)"
+    jlpt: N5
+    formation:
+      en: "た-form (plain) or ました (polite). The た-form follows the same sound change rules as the て-form, replacing て with た and で with だ."
+      ko: "た형 (보통체) 또는 ました (정중체). た형은 て형과 같은 음변화 규칙을 따르며, て를 た로, で를 だ로 바꿈."
+    patterns:
+      plain:
+        godan: "Same sound changes as て-form: 書いた, 読んだ, 話した, 買った"
+        ichidan: "Drop る + た: 食べた, 見た"
+        irregular: "した, 来た (きた)"
+      polite:
+        all: "ます-stem + ました: 書きました, 食べました, しました"
+    uses:
+      - en: "Completed past actions"
+        ko: "완료된 과거 행동"
+        example: "昨日、映画を見ました。 (I watched a movie yesterday.)"
+      - en: "Past states and experiences"
+        ko: "과거의 상태와 경험"
+        example: "子供の時、東京に住んでいました。 (When I was a child, I lived in Tokyo.)"
+      - en: "Discovery/realization (with exclamatory tone)"
+        ko: "발견/깨달음 (감탄 어조)"
+        example: "あ、バスが来た！ (Oh, the bus came! / Here comes the bus!)"
+    trigger_words: [昨日, 先週, 去年, 前に, さっき, もう, 子供の時]
+    notes:
+      en: "The た-form is also used in non-past contexts: recollection (そうだった = 'Oh, that's right'), and within たら conditionals."
+      ko: "た형은 비과거 맥락에서도 사용: 회상 (そうだった = '아, 맞다'), たら 조건문 내에서."
+
+  negative:
+    id: negative
+    label:
+      en: "Negative Form (否定形)"
+      ko: "부정형 (否定形)"
+    jlpt: N5
+    formation:
+      en: "ない-form (plain) or ません (polite). For godan verbs, change the final う-row kana to あ-row + ない."
+      ko: "ない형 (보통체) 또는 ません (정중체). 5단 동사는 마지막 う단 가나를 あ단으로 바꾸고 + ない."
+    patterns:
+      plain:
+        godan: "あ-row + ない: 書かない, 読まない, 話さない, 買わない (NOT 買あない)"
+        ichidan: "Drop る + ない: 食べない, 見ない"
+        irregular: "しない, 来ない (こない)"
+      polite:
+        all: "ます-stem + ません: 書きません, 食べません, しません"
+    uses:
+      - en: "Negating actions and states"
+        ko: "행동과 상태의 부정"
+        example: "肉を食べません。 (I don't eat meat.)"
+      - en: "Expressing inability or lack"
+        ko: "불능이나 부재 표현"
+        example: "時間がない。 (There is no time.)"
+    special_cases:
+      - case:
+          en: "ある → ない (NOT あらない)"
+          ko: "ある → ない (あらない가 아님)"
+        note:
+          en: "The existence verb ある has an irregular negative: ない (not あらない)."
+          ko: "존재 동사 ある의 부정형은 불규칙: ない (あらない가 아님)."
+    notes:
+      en: "ない itself conjugates as an い-adjective: なかった (past negative), なくて (te-form), なければ (conditional)."
+      ko: "ない 자체가 い형용사처럼 활용: なかった (과거 부정), なくて (て형), なければ (조건형)."
+
+  past_negative:
+    id: past_negative
+    label:
+      en: "Past Negative Form (過去否定形)"
+      ko: "과거 부정형 (過去否定形)"
+    jlpt: N5
+    formation:
+      en: "なかった (plain) or ませんでした (polite). Since ない conjugates as an い-adjective, its past is なかった."
+      ko: "なかった (보통체) 또는 ませんでした (정중체). ない가 い형용사처럼 활용하므로 과거형은 なかった."
+    patterns:
+      plain:
+        godan: "あ-row + なかった: 書かなかった, 読まなかった"
+        ichidan: "Drop る + なかった: 食べなかった, 見なかった"
+        irregular: "しなかった, 来なかった (こなかった)"
+      polite:
+        all: "ます-stem + ませんでした: 書きませんでした, 食べませんでした"
+    uses:
+      - en: "Actions that did not happen in the past"
+        ko: "과거에 일어나지 않은 행동"
+        example: "昨日は勉強しなかった。 (I didn't study yesterday.)"
+      - en: "Past states that were not true"
+        ko: "과거에 사실이 아니었던 상태"
+        example: "あの映画はあまり面白くなかった。 (That movie wasn't very interesting.)"
+
+  # ============================================================
+  # SPEECH STYLES
+  # ============================================================
+  polite_style:
+    id: polite_style
+    label:
+      en: "Polite Style (丁寧体 / です・ます体)"
+      ko: "정중체 (丁寧体 / です・ます체)"
+    jlpt: N5
+    description:
+      en: "The polite style uses です and ます endings. It is the default for speaking with strangers, older people, colleagues, and in formal situations."
+      ko: "정중체는 です와 ます 어미를 사용. 낯선 사람, 연장자, 동료와의 대화 및 격식 상황에서 기본."
+    formation:
+      verbs:
+        present_aff: "ます-stem + ます: 行きます, 食べます"
+        present_neg: "ます-stem + ません: 行きません, 食べません"
+        past_aff: "ます-stem + ました: 行きました, 食べました"
+        past_neg: "ます-stem + ませんでした: 行きませんでした"
+      i_adjectives:
+        present_aff: "~い + です: 高いです"
+        present_neg: "~くないです / ~くありません: 高くないです"
+        past_aff: "~かったです: 高かったです"
+        past_neg: "~くなかったです / ~くありませんでした: 高くなかったです"
+      na_adjectives:
+        present_aff: "~です: 静かです"
+        present_neg: "~ではありません / ~じゃありません: 静かではありません"
+        past_aff: "~でした: 静かでした"
+        past_neg: "~ではありませんでした: 静かではありませんでした"
+      nouns:
+        present_aff: "~です: 学生です"
+        present_neg: "~ではありません: 学生ではありません"
+        past_aff: "~でした: 学生でした"
+        past_neg: "~ではありませんでした: 学生ではありませんでした"
+    uses:
+      - en: "Default speech with strangers, acquaintances, and in workplaces"
+        ko: "낯선 사람, 지인, 직장에서의 기본 말투"
+      - en: "News broadcasts and formal presentations"
+        ko: "뉴스 방송과 공식 발표"
+
+  plain_style:
+    id: plain_style
+    label:
+      en: "Plain Style (普通体 / だ・である体)"
+      ko: "보통체 (普通体 / だ・である체)"
+    jlpt: N5
+    description:
+      en: "The plain style uses dictionary forms, だ, ない, た, etc. Used with close friends, family, children, in writing (essays, diaries), and in subordinate clauses."
+      ko: "보통체는 사전형, だ, ない, た 등을 사용. 친한 친구, 가족, 어린이와 대화, 글쓰기 (에세이, 일기), 종속절에서 사용."
+    formation:
+      verbs:
+        present_aff: "Dictionary form: 行く, 食べる"
+        present_neg: "ない-form: 行かない, 食べない"
+        past_aff: "た-form: 行った, 食べた"
+        past_neg: "なかった: 行かなかった, 食べなかった"
+      i_adjectives:
+        present_aff: "~い: 高い"
+        present_neg: "~くない: 高くない"
+        past_aff: "~かった: 高かった"
+        past_neg: "~くなかった: 高くなかった"
+      na_adjectives:
+        present_aff: "~だ: 静かだ"
+        present_neg: "~ではない / ~じゃない: 静かじゃない"
+        past_aff: "~だった: 静かだった"
+        past_neg: "~ではなかった / ~じゃなかった: 静かじゃなかった"
+      nouns:
+        present_aff: "~だ: 学生だ"
+        present_neg: "~ではない / ~じゃない: 学生じゃない"
+        past_aff: "~だった: 学生だった"
+        past_neg: "~ではなかった / ~じゃなかった: 学生じゃなかった"
+    notes:
+      en: "Plain form is REQUIRED inside subordinate clauses even in polite speech: 明日雨が降ると思います (I think it will rain tomorrow) — 降る is plain inside the と思います clause."
+      ko: "보통형은 정중체 대화에서도 종속절 안에서 필수: 明日雨が降ると思います — 降る는 と思います절 안에서 보통형."
+
+  # ============================================================
+  # COMPOUND FORMS
+  # ============================================================
+  progressive:
+    id: progressive
+    label:
+      en: "Progressive Form ~ている (進行形)"
+      ko: "진행형 ~ている (進行形)"
+    jlpt: N5
+    formation:
+      en: "て-form + いる (plain) / て-form + います (polite)"
+      ko: "て형 + いる (보통체) / て형 + います (정중체)"
+    patterns:
+      present_progressive:
+        plain: "食べている"
+        polite: "食べています"
+      past_progressive:
+        plain: "食べていた"
+        polite: "食べていました"
+    uses:
+      - en: "Action in progress"
+        ko: "진행 중인 동작"
+        example: "今、本を読んでいます。 (I am reading a book now.)"
+      - en: "Resulting state (change of state verbs)"
+        ko: "결과 상태 (상태 변화 동사)"
+        example: "窓が開いている。 (The window is open. — resulting state of opening)"
+      - en: "Habitual action"
+        ko: "습관적 행동"
+        example: "毎日ジョギングしています。 (I jog every day.)"
+      - en: "Occupation or status"
+        ko: "직업이나 상태"
+        example: "銀行で働いています。 (I work at a bank.)"
+      - en: "Experience/current state from past action"
+        ko: "과거 행동으로 인한 경험/현재 상태"
+        example: "結婚しています。 (I am married. — state resulting from getting married)"
+    notes:
+      en: "In casual speech, ている is often contracted to てる: 食べてる, 読んでる. Similarly, ていた → てた, ています → てます."
+      ko: "일상 구어에서 ている는 종종 てる로 축약: 食べてる, 読んでる. 마찬가지로 ていた → てた, ています → てます."
+
+  completion:
+    id: completion
+    label:
+      en: "Completion Form ~てしまう (完了)"
+      ko: "완료형 ~てしまう (完了)"
+    jlpt: N4
+    formation:
+      en: "て-form + しまう (plain) / て-form + しまいます (polite)"
+      ko: "て형 + しまう (보통체) / て형 + しまいます (정중체)"
+    uses:
+      - en: "Completion of an action (thoroughly/completely)"
+        ko: "동작의 완료 (철저히/완전히)"
+        example: "この本を全部読んでしまった。 (I finished reading this entire book.)"
+      - en: "Regret or unintended result"
+        ko: "후회 또는 의도하지 않은 결과"
+        example: "財布を忘れてしまいました。 (I (unfortunately) forgot my wallet.)"
+      - en: "Irreversible change"
+        ko: "돌이킬 수 없는 변화"
+        example: "牛乳が腐ってしまった。 (The milk has gone bad.)"
+    colloquial:
+      en: "In casual speech: ~てしまう → ~ちゃう, ~でしまう → ~じゃう. Examples: 食べちゃった (ate it all up), 忘れちゃった (forgot it)."
+      ko: "일상 구어: ~てしまう → ~ちゃう, ~でしまう → ~じゃう. 예: 食べちゃった (다 먹어 버렸다), 忘れちゃった (잊어 버렸다)."
+
+  # ============================================================
+  # VOICE
+  # ============================================================
+  potential:
+    id: potential
+    label:
+      en: "Potential Form (可能形)"
+      ko: "가능형 (可能形)"
+    jlpt: N4
+    formation:
+      godan:
+        en: "Change final う-row to え-row + る: 書く → 書ける, 読む → 読める, 話す → 話せる"
+        ko: "마지막 う단을 え단으로 바꾸고 + る: 書く → 書ける, 読む → 読める, 話す → 話せる"
+      ichidan:
+        en: "Drop る + られる: 食べる → 食べられる, 見る → 見られる"
+        ko: "る를 떼고 + られる: 食べる → 食べられる, 見る → 見られる"
+      irregular:
+        する: できる
+        来る: 来られる (こられる)
+    uses:
+      - en: "Expressing ability"
+        ko: "능력 표현"
+        example: "日本語が話せます。 (I can speak Japanese.)"
+      - en: "Expressing possibility"
+        ko: "가능성 표현"
+        example: "ここで泳げますか。 (Can you swim here?)"
+    notes:
+      en: "Potential verbs are grammatically ichidan verbs (conjugate by dropping る). The object often takes が instead of を: 日本語が話せる (not 日本語を話せる, though を is also acceptable). Colloquial ra-nuki: 食べれる, 見れる (dropping ら from られる)."
+      ko: "가능형 동사는 문법적으로 1단 동사 (る를 떼고 활용). 목적어에 を 대신 が를 자주 사용: 日本語が話せる (日本語を話せる도 허용). 구어 ら抜き: 食べれる, 見れる (られる에서 ら를 생략)."
+
+  passive:
+    id: passive
+    label:
+      en: "Passive Form (受身形)"
+      ko: "수동형 (受身形)"
+    jlpt: N4
+    formation:
+      godan:
+        en: "あ-row + れる: 書く → 書かれる, 読む → 読まれる"
+        ko: "あ단 + れる: 書く → 書かれる, 読む → 読まれる"
+      ichidan:
+        en: "Drop る + られる: 食べる → 食べられる, 見る → 見られる"
+        ko: "る를 떼고 + られる: 食べる → 食べられる, 見る → 見られる"
+      irregular:
+        する: される
+        来る: 来られる (こられる)
+    types:
+      - type: direct_passive
+        label:
+          en: "Direct Passive (直接受身)"
+          ko: "직접 수동 (直接受身)"
+        description:
+          en: "The object of an active sentence becomes the subject. Agent marked with に."
+          ko: "능동문의 목적어가 주어가 됨. 행위자는 に로 표시."
+        examples:
+          - active: "先生が学生を褒めた。 (The teacher praised the student.)"
+            passive: "学生が先生に褒められた。 (The student was praised by the teacher.)"
+      - type: indirect_passive
+        label:
+          en: "Indirect (Adversative) Passive (迷惑の受身)"
+          ko: "간접 (피해) 수동 (迷惑の受身)"
+        description:
+          en: "Unique to Japanese. The subject is adversely affected by someone else's action. Often translates as 'suffered from' or implies annoyance."
+          ko: "일본어 특유의 표현. 주어가 다른 사람의 행동으로 피해를 입음. '~당하다'로 번역되거나 불쾌함을 암시."
+        examples:
+          - sentence: "雨に降られた。"
+            translation: {en: "I was rained on. (suffered from rain)", ko: "비를 맞았다. (비에 당했다)"}
+          - sentence: "隣の人にタバコを吸われた。"
+            translation: {en: "The person next to me smoked. (and it bothered me)", ko: "옆 사람이 담배를 피웠다. (피해를 입었다)"}
+    notes:
+      en: "Passive verbs conjugate as ichidan verbs. For ichidan verbs, passive and potential forms are identical (食べられる). Context distinguishes them."
+      ko: "수동형 동사는 1단 동사처럼 활용. 1단 동사의 경우 수동형과 가능형이 동일 (食べられる). 문맥으로 구별."
+
+  causative:
+    id: causative
+    label:
+      en: "Causative Form (使役形)"
+      ko: "사역형 (使役形)"
+    jlpt: N4
+    formation:
+      godan:
+        en: "あ-row + せる: 書く → 書かせる, 読む → 読ませる"
+        ko: "あ단 + せる: 書く → 書かせる, 読む → 読ませる"
+      ichidan:
+        en: "Drop る + させる: 食べる → 食べさせる, 見る → 見させる"
+        ko: "る를 떼고 + させる: 食べる → 食べさせる, 見る → 見させる"
+      irregular:
+        する: させる
+        来る: 来させる (こさせる)
+    uses:
+      - en: "Making someone do something (compulsion)"
+        ko: "누군가에게 시키기 (강제)"
+        example: "先生は学生に本を読ませた。 (The teacher made the students read a book.)"
+      - en: "Letting/allowing someone do something (permission)"
+        ko: "누군가에게 하게 허락하기 (허가)"
+        example: "子供を遊ばせた。 (I let the children play.)"
+    particle_usage:
+      en: "Causee marked with に (transitive verbs: 子供に野菜を食べさせる) or を (intransitive verbs: 子供を公園で遊ばせる). に = 'make/let someone do', を = 'make someone do (coercion)'."
+      ko: "피사역자는 に (타동사: 子供に野菜を食べさせる) 또는 を (자동사: 子供を公園で遊ばせる)로 표시. に = '~에게 시키다/하게 하다', を = '~을 ~하게 하다 (강제)'."
+    notes:
+      en: "Causative verbs conjugate as ichidan verbs. Colloquial shortened forms exist for godan verbs: 書かす (from 書かせる), 読ます (from 読ませる)."
+      ko: "사역형 동사는 1단 동사처럼 활용. 5단 동사의 구어 축약형 존재: 書かす (書かせる에서), 読ます (読ませる에서)."
+
+  causative_passive:
+    id: causative_passive
+    label:
+      en: "Causative-Passive Form (使役受身形)"
+      ko: "사역수동형 (使役受身形)"
+    jlpt: N3
+    formation:
+      godan:
+        en: "あ-row + される: 書く → 書かされる. Shortened form: あ-row + せられる → あ-row + される"
+        ko: "あ단 + される: 書く → 書かされる. 축약형: あ단 + せられる → あ단 + される"
+      ichidan:
+        en: "Drop る + させられる: 食べる → 食べさせられる"
+        ko: "る를 떼고 + させられる: 食べる → 食べさせられる"
+      irregular:
+        する: させられる
+        来る: 来させられる (こさせられる)
+    uses:
+      - en: "Being made/forced to do something (against one's will)"
+        ko: "억지로 ~하게 되다 (자신의 의지에 반하여)"
+        example: "野菜を食べさせられた。 (I was made to eat vegetables.)"
+      - en: "Expressing frustration about being compelled"
+        ko: "강요당한 것에 대한 불만 표현"
+        example: "残業させられた。 (I was forced to work overtime.)"
+    notes:
+      en: "This is the longest standard verb form in Japanese. For godan verbs, the shortened form (書かされる instead of 書かせられる) is common in speech."
+      ko: "일본어에서 가장 긴 표준 동사 형태. 5단 동사는 구어에서 축약형 (書かせられる 대신 書かされる)이 흔함."
+
+  # ============================================================
+  # ADDITIONAL FORMS
+  # ============================================================
+  volitional:
+    id: volitional
+    label:
+      en: "Volitional Form (意志形)"
+      ko: "의지형 (意志形)"
+    jlpt: N4
+    formation:
+      godan:
+        en: "お-row + う: 書く → 書こう, 読む → 読もう, 話す → 話そう"
+        ko: "お단 + う: 書く → 書こう, 読む → 読もう, 話す → 話そう"
+      ichidan:
+        en: "Drop る + よう: 食べる → 食べよう, 見る → 見よう"
+        ko: "る를 떼고 + よう: 食べる → 食べよう, 見る → 見よう"
+      irregular:
+        する: しよう
+        来る: 来よう (こよう)
+      polite:
+        all: "ます-stem + ましょう: 行きましょう, 食べましょう"
+    uses:
+      - en: "Suggesting/proposing an action (Let's ~)"
+        ko: "행동 제안 (~하자)"
+        example: "一緒に行こう。 (Let's go together.)"
+      - en: "Expressing intention/will"
+        ko: "의지 표현"
+        example: "明日から勉強しよう。 (I'll study starting tomorrow.)"
+      - en: "Offering help (polite)"
+        ko: "도움 제안 (정중체)"
+        example: "荷物を持ちましょうか。 (Shall I carry your luggage?)"
+      - en: "~ようとする (to try to do ~)"
+        ko: "~ようとする (~하려고 하다)"
+        example: "ドアを開けようとした。 (I tried to open the door.)"
+    trigger_words: [一緒に, みんなで, そろそろ]
+
+  conjecture:
+    id: conjecture
+    label:
+      en: "Conjecture (推量 / だろう・でしょう)"
+      ko: "추량 (推量 / だろう・でしょう)"
+    jlpt: N4
+    formation:
+      en: "Plain form + だろう (plain) / でしょう (polite). For na-adjectives and nouns: stem + だろう/でしょう (NOT だだろう)."
+      ko: "보통형 + だろう (보통체) / でしょう (정중체). な형용사와 명사: 어간 + だろう/でしょう (だだろう가 아님)."
+    examples:
+      - sentence: 明日は雨が降るでしょう。
+        translation: {en: "It will probably rain tomorrow.", ko: "내일은 비가 올 것입니다."}
+      - sentence: 彼は来ないだろう。
+        translation: {en: "He probably won't come.", ko: "그는 오지 않을 것이다."}
+      - sentence: あの映画は面白かっただろう。
+        translation: {en: "That movie was probably interesting.", ko: "그 영화는 재미있었을 것이다."}
+    uses:
+      - en: "Probability/conjecture"
+        ko: "확률/추측"
+        example: "もう着いただろう。 (They've probably arrived by now.)"
+      - en: "Seeking confirmation"
+        ko: "확인 구하기"
+        example: "明日来るでしょう？ (You're coming tomorrow, right?)"
+      - en: "Weather forecasts"
+        ko: "날씨 예보"
+        example: "午後は晴れるでしょう。 (It will clear up in the afternoon.)"
+    related_patterns:
+      - pattern: "~かもしれない"
+        meaning: {en: "might, maybe", ko: "~일지도 모르다"}
+        example: "遅れるかもしれません。 (I might be late.)"
+      - pattern: "~はずだ"
+        meaning: {en: "should be, is expected to", ko: "~할 것이다, ~일 터이다"}
+        example: "もう届いたはずです。 (It should have arrived by now.)"
+      - pattern: "~ようだ / ~みたいだ"
+        meaning: {en: "it seems like, it appears", ko: "~인 것 같다"}
+        example: "雨が降るようだ。 (It seems like it will rain.)"
+
+  conditional:
+    id: conditional
+    label:
+      en: "Conditional Forms Overview (条件形)"
+      ko: "조건형 개요 (条件形)"
+    jlpt: N4
+    description:
+      en: "Japanese has four main conditional patterns. See grammar_rules.yaml → conditional_forms for detailed comparison."
+      ko: "일본어에는 네 가지 주요 조건 패턴이 있다. 상세 비교는 grammar_rules.yaml → conditional_forms 참조."
+    summary:
+      ba:
+        formation: "え-row + ば"
+        nuance: {en: "Hypothetical, general truths", ko: "가정적, 일반적 진리"}
+        example: "安ければ買います。"
+      tara:
+        formation: "た-form + ら"
+        nuance: {en: "When/if (most versatile)", ko: "~하면/~했을 때 (가장 다용도)"}
+        example: "雨が降ったら行きません。"
+      nara:
+        formation: "plain form + なら"
+        nuance: {en: "If it's the case that (topic-based)", ko: "~라면 (주제 기반)"}
+        example: "日本に行くなら京都がいい。"
+      to:
+        formation: "dictionary form + と"
+        nuance: {en: "Automatic consequence (whenever)", ko: "자동적 결과 (~하면 항상)"}
+        example: "春になると桜が咲く。"

@@ -1,0 +1,46 @@
+# Japanese Grammar — Index
+# Directory: language-hub/content/Japanese/grammar/
+
+course: Japanese
+section: grammar
+label:
+  en: "Japanese Grammar Reference"
+  ko: "일본어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for 17 Japanese verbs across 10 forms, plus 10 adjective conjugations"
+      ko: "17개 일본어 동사의 10가지 형태 전체 활용 패러다임, 10개 형용사 활용 포함"
+    verbs_included: 17
+    adjectives_included: 10
+    categories:
+      - godan (書く, 読む, 話す, 飲む, 行く, 買う, 待つ, 泳ぐ, 死ぬ, 遊ぶ)
+      - ichidan (食べる, 見る, 起きる, 寝る, 教える)
+      - irregular (する, 来る)
+      - i_adjective (大きい, 小さい, 高い, 新しい, いい)
+      - na_adjective (静か, 元気, 好き, 嫌い, きれい)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense and form rules, speech styles, and usage guidelines"
+      ko: "시제 및 형태 규칙, 말투, 사용법 지침"
+    forms_included:
+      basic: [present, past, negative, past_negative]
+      speech_styles: [polite_style, plain_style]
+      compound: [progressive, completion]
+      voice: [potential, passive, causative, causative_passive]
+      additional: [volitional, conjecture, conditional]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns for Japanese"
+      ko: "일본어 문법 규칙, 대조, 패턴"
+    rules_included:
+      - particle_usage
+      - verb_groups
+      - adjective_conjugation
+      - te_form_rules
+      - honorific_system
+      - conditional_forms
+      - counter_words

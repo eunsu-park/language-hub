@@ -1,0 +1,64 @@
+language:
+  code: ja
+  name:
+    en: Japanese
+    ko: 일본어
+    native: 日本語
+  writing_system: cjk
+  script_direction: ltr
+  proficiency_framework: jlpt
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: true
+  has_gendered_nouns: false
+  has_case_system: false
+  word_key: japanese
+  tts_locale: ja-JP
+  accent_chars: []
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    jlpt: N5
+    label:
+      en: Foundations
+      ko: 기초
+    description:
+      en: "Writing systems, basic greetings, sentence structure, numbers, present/past tense"
+      ko: "문자 체계, 기본 인사, 문장 구조, 숫자, 현재/과거 시제"
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    jlpt: N4
+    label:
+      en: Elementary
+      ko: 초급
+    description:
+      en: "Adjectives, particles, te-form, daily vocabulary, giving and receiving"
+      ko: "형용사, 조사, て형, 일상 어휘, 수수 표현"
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    jlpt: N3
+    label:
+      en: Intermediate
+      ko: 중급
+    description:
+      en: "Verb conjugation, conditional forms, opinions, honorifics, complex sentences"
+      ko: "동사 활용, 조건문, 의견 표현, 경어, 복합문"
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    jlpt: N2
+    label:
+      en: Advanced
+      ko: 고급
+    description:
+      en: "Advanced grammar, reading comprehension, kanji strategies, idioms, thematic vocabulary"
+      ko: "고급 문법, 독해, 한자 전략, 관용구, 주제별 어휘"
+  - id: practical
+    lessons: ["21", "22", "23", "24", "25"]
+    jlpt: N1
+    label:
+      en: Practical Application
+      ko: 실전 적용
+    description:
+      en: "Business Japanese, writing, culture, media, JLPT preparation"
+      ko: "비즈니스 일본어, 작문, 문화, 미디어, JLPT 대비"
