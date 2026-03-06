@@ -1,0 +1,213 @@
+lesson: 01_German_Language_and_Pronunciation
+lesson_number: 1
+cefr: A1
+categories:
+- id: 11_alphabet_and_sounds
+  label:
+    en: 1.1 Alphabet and Sounds
+    ko: 1.1 알파벳과 발음
+  type: vocabulary
+  words:
+  - german: das Alphabet, -e
+    translation:
+      en: alphabet
+      ko: 알파벳
+    gender: n
+    plural: die Alphabete
+    notes:
+      en: Also called "das Abc"
+      ko: '"das Abc"라고도 함'
+  - german: der Buchstabe, -n
+    translation:
+      en: letter (of the alphabet)
+      ko: 글자 / 문자
+    gender: m
+    plural: die Buchstaben
+  - german: der Großbuchstabe, -n
+    translation:
+      en: capital letter / uppercase letter
+      ko: 대문자
+    gender: m
+    plural: die Großbuchstaben
+    notes:
+      en: All German nouns are capitalized
+      ko: 모든 독일어 명사는 대문자로 시작
+  - german: der Kleinbuchstabe, -n
+    translation:
+      en: lowercase letter
+      ko: 소문자
+    gender: m
+    plural: die Kleinbuchstaben
+  - german: der Umlaut, -e
+    translation:
+      en: umlaut (ä, ö, ü)
+      ko: 움라우트 (ä, ö, ü)
+    gender: m
+    plural: die Umlaute
+    notes:
+      en: Modified vowels unique to German; changes pronunciation and meaning
+      ko: 독일어 고유의 변모음; 발음과 의미를 변화시킴
+  - german: das Eszett
+    translation:
+      en: the letter ß (sharp S)
+      ko: 에스체트 (ß)
+    gender: n
+    plural: null
+    notes:
+      en: Also called "scharfes S"; used only in German
+      ko: '"샤르페스 에스"라고도 함; 독일어에서만 사용'
+  - german: das A-Umlaut (Ä / ä)
+    translation:
+      en: A-umlaut
+      ko: A-움라우트
+    gender: n
+    plural: null
+    notes:
+      en: Pronounced like "e" in "bed"
+      ko: '"bed"의 "e"처럼 발음'
+  - german: das O-Umlaut (Ö / ö)
+    translation:
+      en: O-umlaut
+      ko: O-움라우트
+    gender: n
+    plural: null
+    notes:
+      en: No English equivalent; rounded "e" sound
+      ko: 영어에 동일한 발음 없음; 입을 둥글게 한 "에" 소리
+
+- id: 12_basic_phonetics
+  label:
+    en: 1.2 Basic Phonetics
+    ko: 1.2 기본 음성학
+  type: vocabulary
+  words:
+  - german: die Aussprache, -n
+    translation:
+      en: pronunciation
+      ko: 발음
+    gender: f
+    plural: die Aussprachen
+  - german: der Vokal, -e
+    translation:
+      en: vowel
+      ko: 모음
+    gender: m
+    plural: die Vokale
+  - german: der Konsonant, -en
+    translation:
+      en: consonant
+      ko: 자음
+    gender: m
+    plural: die Konsonanten
+  - german: die Silbe, -n
+    translation:
+      en: syllable
+      ko: 음절
+    gender: f
+    plural: die Silben
+  - german: die Betonung, -en
+    translation:
+      en: stress / emphasis
+      ko: 강세
+    gender: f
+    plural: die Betonungen
+    notes:
+      en: German stress typically falls on the first syllable
+      ko: 독일어 강세는 보통 첫 번째 음절에 위치
+  - german: der Laut, -e
+    translation:
+      en: sound (phonetic)
+      ko: 소리 / 음
+    gender: m
+    plural: die Laute
+  - german: der Doppellaut, -e
+    translation:
+      en: diphthong
+      ko: 이중모음
+    gender: m
+    plural: die Doppellaute
+    notes:
+      en: "E.g., ei, au, eu/äu"
+      ko: "예: ei, au, eu/äu"
+  - german: aussprechen
+    translation:
+      en: to pronounce
+      ko: 발음하다
+    gender: null
+    plural: null
+    notes:
+      en: Separable verb; "Wie spricht man das aus?"
+      ko: 분리동사; "이것을 어떻게 발음하나요?"
+  - german: buchstabieren
+    translation:
+      en: to spell
+      ko: 철자하다
+    gender: null
+    plural: null
+    notes:
+      en: '"Können Sie das bitte buchstabieren?"'
+      ko: '"그것을 철자해 주시겠어요?"'
+
+- id: 13_first_words
+  label:
+    en: 1.3 First Words
+    ko: 1.3 첫 번째 단어들
+  type: vocabulary
+  words:
+  - german: ja
+    translation:
+      en: yes
+      ko: 네
+    gender: null
+    plural: null
+  - german: nein
+    translation:
+      en: no
+      ko: 아니요
+    gender: null
+    plural: null
+  - german: bitte
+    translation:
+      en: please / you're welcome
+      ko: 부탁합니다 / 천만에요
+    gender: null
+    plural: null
+    notes:
+      en: One of the most versatile German words
+      ko: 가장 다용도로 쓰이는 독일어 단어 중 하나
+  - german: danke
+    translation:
+      en: thank you
+      ko: 감사합니다
+    gender: null
+    plural: null
+  - german: Entschuldigung
+    translation:
+      en: excuse me / I'm sorry
+      ko: 실례합니다 / 죄송합니다
+    gender: null
+    plural: null
+    notes:
+      en: Used to get attention or for a minor apology
+      ko: 주의를 끌거나 가벼운 사과에 사용
+  - german: Hallo
+    translation:
+      en: hello
+      ko: 안녕하세요
+    gender: null
+    plural: null
+  - german: Tschüss
+    translation:
+      en: bye
+      ko: 안녕 / 잘 가
+    gender: null
+    plural: null
+  - german: Deutsch
+    translation:
+      en: German (language)
+      ko: 독일어
+    gender: null
+    plural: null
+    notes:
+      en: '"Ich lerne Deutsch" — I am learning German'
+      ko: '"Ich lerne Deutsch" — 나는 독일어를 배웁니다'

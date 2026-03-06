@@ -1,5 +1,12 @@
 course: German
 files:
+- file: 01_german_language_and_pronunciation.yaml
+  lesson: 01_German_Language_and_Pronunciation
+  word_count: 25
+  categories:
+  - 11_alphabet_and_sounds
+  - 12_basic_phonetics
+  - 13_first_words
 - file: 02_greetings_and_basic_conversation.yaml
   lesson: 02_Greetings_and_Basic_Conversation
   word_count: 44
@@ -21,11 +28,12 @@ files:
   - 34_compound_nouns
 - file: 04_essential_verbs.yaml
   lesson: 04_Essential_Verbs_SEIN_HABEN_WERDEN
-  word_count: 25
+  word_count: 40
   categories:
   - 41_sein_expressions
   - 42_haben_expressions
   - 43_werden_expressions
+  - 44_other_essential_verbs
 - file: 05_present_tense_and_basic_sentences.yaml
   lesson: 05_Present_Tense_and_Basic_Sentences
   word_count: 34
@@ -62,10 +70,11 @@ files:
   - seasons_and_weather
 - file: 09_modal_verbs_and_sentence_structure.yaml
   lesson: 09_Modal_Verbs_and_Sentence_Structure
-  word_count: 22
+  word_count: 37
   categories:
   - modal_verbs
   - modal_verb_expressions
+  - modal_verb_sentences
 - file: 10_daily_life_vocabulary.yaml
   lesson: 10_Daily_Life_Vocabulary
   word_count: 62
@@ -86,7 +95,7 @@ files:
   - two_way_prepositions
 - file: 12_past_tenses.yaml
   lesson: 12_Past_Tenses_Perfekt_and_Praeteritum
-  word_count: 36
+  word_count: 46
   categories:
   - common_strong_verbs_partizip_ii
   - time_expressions_for_past
@@ -105,16 +114,31 @@ files:
   - reflexive_verbs
   - prepositional_verbs_accusative
   - prepositional_verbs_dative
+- file: 15_complete_verb_system.yaml
+  lesson: 15_Complete_Verb_System
+  word_count: 29
+  categories:
+  - 1_strong_verbs
+  - 2_mixed_verbs
+  - 3_verb_prefixes
 - file: 16_future_conditional_and_konjunktiv_ii.yaml
   lesson: 16_Future_Conditional_and_Konjunktiv_II
-  word_count: 25
+  word_count: 40
   categories:
   - konjunktiv_ii_forms
   - conditional_expressions
   - polite_request_phrases
+  - hypothetical_sentences
+- file: 17_adjective_declension_complete_system.yaml
+  lesson: 17_Adjective_Declension_Complete_System
+  word_count: 30
+  categories:
+  - 1_comparative_adjectives
+  - 2_participial_adjectives
+  - 3_compound_adjectives
 - file: 18_passive_voice_and_advanced_constructions.yaml
   lesson: 18_Passive_Voice_and_Advanced_Constructions
-  word_count: 22
+  word_count: 37
   categories:
   - 1_passive_voice_expressions
   - 2_relative_pronoun_words
@@ -140,21 +164,21 @@ files:
   - 7_economy
 - file: 21_reading_comprehension.yaml
   lesson: 21_Reading_Comprehension
-  word_count: 26
+  word_count: 36
   categories:
   - 1_reading_strategy_terms
   - 2_text_type_vocabulary
   - 3_connectors_and_transition_words
 - file: 22_writing_in_german.yaml
   lesson: 22_Writing_in_German
-  word_count: 25
+  word_count: 35
   categories:
   - 1_letter_and_email_vocabulary
   - 2_essay_structure_words
   - 3_linking_words
 - file: 23_german_culture_and_dach_countries.yaml
   lesson: 23_German_Culture_and_DACH_Countries
-  word_count: 31
+  word_count: 41
   categories:
   - 1_cultural_terms
   - 2_festivals
@@ -162,9 +186,17 @@ files:
   - 4_geography
 - file: 24_business_german.yaml
   lesson: 24_Business_German
-  word_count: 36
+  word_count: 46
   categories:
   - 1_business_communication
   - 2_meeting_vocabulary
   - 3_job_application_terms
   - 4_corporate_hierarchy
+  - 5_finance_and_operations
+- file: 25_goethe_zertifikat_and_testdaf.yaml
+  lesson: 25_Goethe_Zertifikat_and_TestDaF_Preparation
+  word_count: 26
+  categories:
+  - 1_exam_terminology
+  - 2_academic_german
+  - 3_test_strategy_terms
