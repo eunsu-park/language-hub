@@ -22,7 +22,7 @@ language-hub/
 │   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
 │   │   ├── en/                        # Lessons in English (26 files)
 │   │   ├── ko/                        # Lessons in Korean (26 files)
-│   │   ├── vocabulary/                # Structured vocabulary YAML (25 files, 1,031 words)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (25 files, 2,211 words)
 │   │   └── grammar/                   # Structured grammar YAML
 │   │       ├── conjugations.yaml      # 22 verbs × 7 tenses
 │   │       ├── grammar_rules.yaml     # 7 rule types
@@ -33,7 +33,7 @@ language-hub/
 │   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
 │   │   ├── en/                        # Lessons in English (26 files)
 │   │   ├── ko/                        # Lessons in Korean (26 files)
-│   │   ├── vocabulary/                # Structured vocabulary YAML (25 files, 997 words)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (25 files, 2,003 words)
 │   │   └── grammar/                   # Structured grammar YAML
 │   │       ├── conjugations.yaml      # 20 verbs × 6 tenses
 │   │       ├── grammar_rules.yaml     # 7 rule types
@@ -44,7 +44,7 @@ language-hub/
 │       ├── course_metadata.yaml       # Language config, JLPT stage definitions
 │       ├── en/                        # Lessons in English (26 files)
 │       ├── ko/                        # Lessons in Korean (26 files)
-│       ├── vocabulary/                # Structured vocabulary YAML (25 files, 891 words)
+│       ├── vocabulary/                # Structured vocabulary YAML (25 files, 2,003 words)
 │       └── grammar/                   # Structured grammar YAML
 │           ├── conjugations.yaml      # 17 verbs × 10 forms
 │           ├── grammar_rules.yaml     # 7 rule types
@@ -70,7 +70,7 @@ language-hub/
 
 **Content stats:**
 - 26 lesson files per language (en + ko)
-- 25 vocabulary YAML files (1,031 words total)
+- 25 vocabulary YAML files (2,211 words total)
 - 22 verbs × 7 tenses (conjugation tables)
 - 7 grammar rule types
 
@@ -88,7 +88,7 @@ language-hub/
 
 **Content stats:**
 - 26 lesson files per language (en + ko)
-- 25 vocabulary YAML files (997 words total)
+- 25 vocabulary YAML files (2,003 words total)
 - 20 verbs × 6 tenses (conjugation tables)
 - 7 grammar rule types, 10 tense rules
 
@@ -106,7 +106,7 @@ language-hub/
 
 **Content stats:**
 - 26 lesson files per language (en + ko)
-- 25 vocabulary YAML files (891 words total)
+- 25 vocabulary YAML files (2,003 words total)
 - 17 verbs × 10 forms (conjugation tables)
 - 7 grammar rule types, 15 tense rules
 
