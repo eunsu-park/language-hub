@@ -152,6 +152,54 @@ categories:
     plural: null
     notes:
       en: "Auxiliary: haben. Ich habe ihn gestern getroffen."
+  - german: werfen — warf — geworfen
+    translation:
+      en: to throw
+      ko: 던지다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: e -> o. Er hat den Ball geworfen."
+  - german: ziehen — zog — gezogen
+    translation:
+      en: to pull, to move
+      ko: 당기다, 이사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben (pull) or sein (move/relocate). Sie ist nach Muenchen gezogen."
+  - german: rufen — rief — gerufen
+    translation:
+      en: to call, to shout
+      ko: 부르다, 외치다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Er hat laut gerufen."
+  - german: fallen — fiel — gefallen
+    translation:
+      en: to fall
+      ko: 떨어지다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (movement/change). Das Glas ist gefallen."
+  - german: beginnen — begann — begonnen
+    translation:
+      en: to begin
+      ko: 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: i -> o. Der Kurs hat begonnen."
+  - german: singen — sang — gesungen
+    translation:
+      en: to sing
+      ko: 노래하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: i -> u. Sie hat ein Lied gesungen."
 - id: time_expressions_for_past
   label:
     en: Time Expressions for Past
@@ -238,6 +286,30 @@ categories:
     plural: null
     notes:
       en: "Bevor sie anrief, war ich schon gegangen."
+  - german: vor kurzem
+    translation:
+      en: recently, a short time ago
+      ko: 최근에, 얼마 전에
+    gender: null
+    plural: null
+    notes:
+      en: "Vor kurzem habe ich einen alten Freund getroffen."
+  - german: neulich
+    translation:
+      en: recently, the other day
+      ko: 최근에, 요전에
+    gender: null
+    plural: null
+    notes:
+      en: "Neulich habe ich einen interessanten Film gesehen."
+  - german: als (conjunction)
+    translation:
+      en: when (one-time past event)
+      ko: ~했을 때 (일회성 과거)
+    gender: null
+    plural: null
+    notes:
+      en: "Used for single past events; verb at end. Als ich jung war, ..."
 - id: haben_sein_auxiliary_selection
   label:
     en: Haben/Sein Auxiliary Selection Verbs

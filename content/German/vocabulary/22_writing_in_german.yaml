@@ -62,6 +62,48 @@ categories:
       ko: 경의를 표하며 (공식 맺음말)
     gender: null
     plural: null
+  - german: Bezug nehmend auf
+    translation:
+      en: with reference to (formal)
+      ko: ~에 관하여 (공식)
+    gender: null
+    plural: null
+    notes:
+      en: "Bezug nehmend auf Ihr Schreiben vom 5. März..."
+      ko: "3월 5일자 귀하의 서신과 관련하여..."
+  - german: im Anhang finden Sie
+    translation:
+      en: please find attached
+      ko: 첨부 파일에서 확인하시기 바랍니다
+    gender: null
+    plural: null
+    notes:
+      en: Common formal email phrase for enclosing documents.
+      ko: 문서 첨부 시 사용하는 공식 이메일 표현.
+  - german: Ich möchte Sie darauf hinweisen, dass...
+    translation:
+      en: I would like to draw your attention to the fact that...
+      ko: ~라는 점을 알려드리고자 합니다
+    gender: null
+    plural: null
+  - german: Für Rückfragen stehe ich Ihnen gerne zur Verfügung.
+    translation:
+      en: I am at your disposal for any questions.
+      ko: 궁금하신 점이 있으시면 언제든 연락해 주십시오.
+    gender: null
+    plural: null
+  - german: die Betreffzeile, -n
+    translation:
+      en: subject line
+      ko: 제목 줄
+    gender: f
+    plural: die Betreffzeilen
+  - german: die Unterschrift, -en
+    translation:
+      en: signature
+      ko: 서명
+    gender: f
+    plural: die Unterschriften
 
 - id: 2_essay_structure_words
   label:
@@ -117,6 +159,24 @@ categories:
       ko: 그림 묘사
     gender: f
     plural: die Bildbeschreibungen
+  - german: die Zusammenfassung, -en
+    translation:
+      en: summary
+      ko: 요약
+    gender: f
+    plural: die Zusammenfassungen
+  - german: die Stellungnahme, -n
+    translation:
+      en: position statement / opinion piece
+      ko: 입장문 / 의견서
+    gender: f
+    plural: die Stellungnahmen
+  - german: die Gliederung, -en
+    translation:
+      en: outline / structure
+      ko: 개요 / 구성
+    gender: f
+    plural: die Gliederungen
 
 - id: 3_linking_words
   label:
@@ -170,5 +230,11 @@ categories:
     translation:
       en: in short
       ko: 간단히 말해서
+    gender: null
+    plural: null
+  - german: dementsprechend
+    translation:
+      en: accordingly / correspondingly
+      ko: 그에 따라
     gender: null
     plural: null

@@ -62,6 +62,51 @@ categories:
       ko: 전달하다
     gender: null
     plural: null
+  - german: veröffentlichen
+    translation:
+      en: to publish
+      ko: 출판하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Buch wurde veröffentlicht."
+      ko: "수동태: 그 책이 출판되었다."
+  - german: drehen
+    translation:
+      en: to shoot (a film) / to turn
+      ko: (영화를) 촬영하다 / 돌리다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Der Film wird gedreht."
+      ko: "수동태: 그 영화가 촬영되고 있다."
+  - german: bauen
+    translation:
+      en: to build
+      ko: 건설하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Es wird gebaut. (impersonal passive)"
+      ko: "수동태: 건설이 진행 중이다. (비인칭 수동태)"
+  - german: eröffnen
+    translation:
+      en: to open (officially)
+      ko: 개장하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Museum wurde eröffnet."
+      ko: "수동태: 그 박물관이 개관되었다."
+  - german: genehmigen
+    translation:
+      en: to approve / to authorize
+      ko: 승인하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Der Antrag wurde genehmigt."
+      ko: "수동태: 신청이 승인되었다."
 
 - id: 2_relative_pronoun_words
   label:
@@ -99,6 +144,60 @@ categories:
       ko: 종속절
     gender: m
     plural: die Nebensätze
+  - german: was
+    translation:
+      en: what / which (relative pronoun after indefinite antecedents)
+      ko: ~것 (부정 선행사 뒤의 관계대명사)
+    gender: null
+    plural: null
+    notes:
+      en: "Used after alles, etwas, nichts, das: Alles, was er sagte, war richtig."
+      ko: "alles, etwas, nichts, das 뒤에 사용: 그가 말한 모든 것이 맞았다."
+  - german: worin
+    translation:
+      en: in which (relative adverb)
+      ko: 그 안에 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Haus, worin sie wohnt, ist alt."
+      ko: "그녀가 사는 집은 낡았다."
+  - german: wofür
+    translation:
+      en: for which (relative adverb)
+      ko: 그것을 위해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Projekt, wofür er arbeitet, ist wichtig."
+      ko: "그가 일하는 프로젝트는 중요하다."
+  - german: wobei
+    translation:
+      en: in doing which / whereby
+      ko: 그 과정에서 / 그때
+    gender: null
+    plural: null
+    notes:
+      en: "Er las das Buch, wobei er einschlief."
+      ko: "그는 책을 읽다가 잠이 들었다."
+  - german: worüber
+    translation:
+      en: about which (relative adverb)
+      ko: 그것에 대해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Thema, worüber wir sprachen, war interessant."
+      ko: "우리가 이야기한 주제는 흥미로웠다."
+  - german: woran
+    translation:
+      en: on/at which (relative adverb)
+      ko: 그것에 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Problem, woran er denkt, ist komplex."
+      ko: "그가 생각하는 문제는 복잡하다."
 
 - id: 3_zu_infinitiv_constructions
   label:
@@ -154,3 +253,39 @@ categories:
       ko: 접속법 I (간접 화법용)
     gender: m
     plural: null
+  - german: je ... desto
+    translation:
+      en: the ... the (comparative construction)
+      ko: ~하면 할수록 ~하다
+    gender: null
+    plural: null
+    notes:
+      en: "Je mehr man übt, desto besser wird man."
+      ko: "더 많이 연습할수록, 더 나아진다."
+  - german: sowohl ... als auch
+    translation:
+      en: both ... and
+      ko: ~뿐만 아니라 ~도
+    gender: null
+    plural: null
+    notes:
+      en: "Sowohl er als auch sie sprechen Deutsch."
+      ko: "그뿐만 아니라 그녀도 독일어를 한다."
+  - german: weder ... noch
+    translation:
+      en: neither ... nor
+      ko: ~도 아니고 ~도 아닌
+    gender: null
+    plural: null
+    notes:
+      en: "Weder Fisch noch Fleisch."
+      ko: "이것도 저것도 아닌."
+  - german: der Konjunktiv II
+    translation:
+      en: subjunctive II (for unreal conditions)
+      ko: 접속법 II (비현실적 조건용)
+    gender: m
+    plural: null
+    notes:
+      en: "Wenn ich reich wäre, würde ich reisen."
+      ko: "내가 부자라면, 여행을 할 텐데."
