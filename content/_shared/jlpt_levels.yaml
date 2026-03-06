@@ -1,0 +1,50 @@
+framework: JLPT
+full_name:
+  en: "Japanese-Language Proficiency Test"
+  ko: "일본어 능력 시험"
+
+levels:
+  N5:
+    label:
+      en: "Beginner"
+      ko: "입문"
+    description:
+      en: "Can understand some basic Japanese: hiragana, katakana, basic kanji, simple phrases."
+      ko: "기본적인 일본어를 이해할 수 있다: 히라가나, 가타카나, 기본 한자, 간단한 표현."
+    color: "#28a745"
+
+  N4:
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Can understand basic Japanese used in everyday situations."
+      ko: "일상적인 상황에서 사용되는 기본적인 일본어를 이해할 수 있다."
+    color: "#5cb85c"
+
+  N3:
+    label:
+      en: "Intermediate"
+      ko: "중급"
+    description:
+      en: "Can understand Japanese used in everyday situations to a certain degree."
+      ko: "일상적인 상황에서 사용되는 일본어를 어느 정도 이해할 수 있다."
+    color: "#f0ad4e"
+
+  N2:
+    label:
+      en: "Upper Intermediate"
+      ko: "중상급"
+    description:
+      en: "Can understand Japanese used in everyday situations and in a variety of circumstances."
+      ko: "일상적인 상황과 다양한 상황에서 사용되는 일본어를 이해할 수 있다."
+    color: "#ff8c00"
+
+  N1:
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Can understand Japanese used in a variety of circumstances with logical complexity."
+      ko: "논리적으로 복잡한 다양한 상황에서 사용되는 일본어를 이해할 수 있다."
+    color: "#d9534f"
