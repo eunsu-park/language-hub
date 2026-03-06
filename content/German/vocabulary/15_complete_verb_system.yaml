@@ -125,6 +125,96 @@ categories:
     notes:
       en: "Partizip II: verloren. Inseparable prefix ver-. Ich habe meinen Schlüssel verloren."
       ko: "과거분사: verloren. 비분리 접두사 ver-. 나는 열쇠를 잃어버렸다."
+  - german: beißen
+    translation:
+      en: to bite
+      ko: 물다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gebissen. Präteritum: biss. Der Hund hat mich gebissen."
+      ko: "과거분사: gebissen. 과거형: biss. 개가 나를 물었다."
+  - german: greifen
+    translation:
+      en: to grab / to grasp
+      ko: 잡다 / 쥐다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gegriffen. Präteritum: griff. Er griff nach dem Seil."
+      ko: "과거분사: gegriffen. 과거형: griff. 그는 밧줄을 잡았다."
+  - german: pfeifen
+    translation:
+      en: to whistle
+      ko: 휘파람을 불다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gepfiffen. Präteritum: pfiff."
+      ko: "과거분사: gepfiffen. 과거형: pfiff."
+  - german: heben
+    translation:
+      en: to lift / to raise
+      ko: 들어올리다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gehoben. Präteritum: hob. Er hat die Kiste gehoben."
+      ko: "과거분사: gehoben. 과거형: hob. 그는 상자를 들어올렸다."
+  - german: treten
+    translation:
+      en: to step / to kick
+      ko: 밟다 / 차다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: getreten. Aux: sein (step) or haben (kick). Stem change: e → i."
+      ko: "과거분사: getreten. 조동사: sein (밟다) 또는 haben (차다)."
+  - german: messen
+    translation:
+      en: to measure
+      ko: 측정하다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gemessen. Stem change: e → i (du misst, er misst)."
+      ko: "과거분사: gemessen. 어간 변화: e → i (du misst, er misst)."
+  - german: schieben
+    translation:
+      en: to push / to shove
+      ko: 밀다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: geschoben. Präteritum: schob."
+      ko: "과거분사: geschoben. 과거형: schob."
+  - german: schweigen
+    translation:
+      en: to be silent
+      ko: 침묵하다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: geschwiegen. Präteritum: schwieg. Er hat geschwiegen."
+      ko: "과거분사: geschwiegen. 과거형: schwieg. 그는 침묵했다."
+  - german: schaffen
+    translation:
+      en: to create (strong) / to manage (weak)
+      ko: 창조하다 (강변화) / 해내다 (약변화)
+    gender: null
+    plural: null
+    notes:
+      en: "Strong: schuf/geschaffen (create). Weak: schaffte/geschafft (manage). Gott schuf die Welt. Ich habe es geschafft!"
+      ko: "강변화: schuf/geschaffen (창조하다). 약변화: schaffte/geschafft (해내다)."
+  - german: erschrecken
+    translation:
+      en: to be frightened (strong) / to frighten (weak)
+      ko: 놀라다 (강변화) / 놀라게 하다 (약변화)
+    gender: null
+    plural: null
+    notes:
+      en: "Strong (intrans.): erschrak/erschrocken (sein). Weak (trans.): erschreckte/erschreckt (haben)."
+      ko: "강변화 (자동사): erschrak/erschrocken (sein). 약변화 (타동사): erschreckte/erschreckt (haben)."
 
 - id: 2_mixed_verbs
   label:
@@ -204,6 +294,15 @@ categories:
     notes:
       en: "Partizip II: gewusst. Präteritum: wusste. Modal-like conjugation: ich weiß, du weißt."
       ko: "과거분사: gewusst. 과거형: wusste. 화법조동사식 변화: ich weiß, du weißt."
+  - german: wenden
+    translation:
+      en: to turn
+      ko: 돌리다
+    gender: null
+    plural: null
+    notes:
+      en: "Mixed: wandte/gewandt or wendete/gewendet. Sich an jemanden wenden (to turn to someone)."
+      ko: "혼합: wandte/gewandt 또는 wendete/gewendet."
 
 - id: 3_verb_prefixes
   label:
@@ -283,3 +382,391 @@ categories:
     notes:
       en: "Always inseparable. entdecken (to discover), entscheiden (to decide), entstehen (to arise)"
       ko: "항상 비분리. entdecken (발견하다), entscheiden (결정하다), entstehen (발생하다)"
+  - german: "durch-"
+    translation:
+      en: "through (separable or inseparable)"
+      ko: "~을 통해 (분리 또는 비분리)"
+    gender: null
+    plural: null
+    notes:
+      en: "Separable: durchlesen (to read through). Inseparable: durchsuchen (to search through)."
+      ko: "분리: durchlesen (다 읽다). 비분리: durchsuchen (수색하다)."
+  - german: "ueber-"
+    translation:
+      en: "over / across (separable or inseparable)"
+      ko: "~위로 / 건너 (분리 또는 비분리)"
+    gender: null
+    plural: null
+    notes:
+      en: "Separable: überlaufen (to overflow). Inseparable: übersetzen (to translate)."
+      ko: "분리: überlaufen (넘치다). 비분리: übersetzen (번역하다)."
+  - german: an-
+    translation:
+      en: "at / on / to (separable prefix)"
+      ko: "~에 / ~으로 (분리 접두사)"
+    gender: null
+    plural: null
+    notes:
+      en: "ankommen (to arrive), anfangen (to begin), anrufen (to call), anziehen (to put on)"
+      ko: "ankommen (도착하다), anfangen (시작하다), anrufen (전화하다), anziehen (입다)"
+  - german: aus-
+    translation:
+      en: "out / out of (separable prefix)"
+      ko: "밖으로 (분리 접두사)"
+    gender: null
+    plural: null
+    notes:
+      en: "ausgehen (to go out), aussteigen (to get off), aussehen (to look/appear)"
+      ko: "ausgehen (외출하다), aussteigen (내리다), aussehen (~처럼 보이다)"
+  - german: ab-
+    translation:
+      en: "off / away / down (separable prefix)"
+      ko: "떨어져 / 내려 (분리 접두사)"
+    gender: null
+    plural: null
+    notes:
+      en: "abfahren (to depart), abholen (to pick up), abnehmen (to decrease/lose weight)"
+      ko: "abfahren (출발하다), abholen (데리러 가다), abnehmen (줄다/살을 빼다)"
+  - german: zu-
+    translation:
+      en: "to / closed (separable prefix)"
+      ko: "~으로 / 닫힌 (분리 접두사)"
+    gender: null
+    plural: null
+    notes:
+      en: "zumachen (to close), zuhören (to listen), zunehmen (to increase/gain weight)"
+      ko: "zumachen (닫다), zuhören (경청하다), zunehmen (늘다/살이 찌다)"
+  - german: ein-
+    translation:
+      en: "in / into (separable prefix)"
+      ko: "안으로 (분리 접두사)"
+    gender: null
+    plural: null
+    notes:
+      en: "einsteigen (to board), einkaufen (to shop), einladen (to invite)"
+      ko: "einsteigen (탑승하다), einkaufen (장을 보다), einladen (초대하다)"
+
+- id: 4_modal_verbs
+  label:
+    en: 4. Modal Verbs
+    ko: 4. 화법조동사
+  type: vocabulary
+  words:
+  - german: "koennen"
+    translation:
+      en: can, to be able to
+      ko: ~할 수 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: konnte. Partizip II: gekonnt/können (double infinitive). Ich kann schwimmen."
+      ko: "과거형: konnte. 과거분사: gekonnt/können (이중 부정사). 나는 수영할 수 있다."
+  - german: "muessen"
+    translation:
+      en: must, to have to
+      ko: ~해야 한다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: musste. Negation nicht müssen = don't have to (not 'must not')."
+      ko: "과거형: musste. 부정 nicht müssen = ~하지 않아도 된다 (금지가 아님)."
+  - german: "duerfen"
+    translation:
+      en: may, to be allowed to
+      ko: ~해도 된다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: durfte. Negation nicht dürfen = must not. Darf ich? (May I?)"
+      ko: "과거형: durfte. 부정 nicht dürfen = ~하면 안 된다."
+  - german: sollen
+    translation:
+      en: should, to be supposed to
+      ko: ~해야 한다, ~하는 것이 좋다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: sollte. No umlaut in Prät. Du sollst nicht lügen."
+      ko: "과거형: sollte. 과거형에 움라우트 없음."
+  - german: wollen
+    translation:
+      en: to want to
+      ko: ~하고 싶다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: wollte. No umlaut in Prät. Ich will Deutsch lernen."
+      ko: "과거형: wollte. 과거형에 움라우트 없음."
+  - german: "moegen"
+    translation:
+      en: to like
+      ko: 좋아하다
+    gender: null
+    plural: null
+    notes:
+      en: "Präteritum: mochte. Subjunctive möchte = would like. Ich mag Schokolade."
+      ko: "과거형: mochte. 접속법 möchte = ~하고 싶다."
+
+- id: 5_subjunctive_konjunktiv_ii
+  label:
+    en: 5. Subjunctive II (Konjunktiv II) Key Forms
+    ko: 5. 접속법 II (Konjunktiv II) 주요 형태
+  type: vocabulary
+  words:
+  - german: "waere"
+    translation:
+      en: would be (subj. of sein)
+      ko: ~일 텐데 (sein의 접속법)
+    gender: null
+    plural: null
+    notes:
+      en: "Wenn ich reich wäre, ... (If I were rich, ...). Used for hypothetical situations."
+      ko: "Wenn ich reich wäre, ... (내가 부자라면...). 가정적 상황에 사용."
+  - german: "haette"
+    translation:
+      en: would have (subj. of haben)
+      ko: ~가질 텐데 (haben의 접속법)
+    gender: null
+    plural: null
+    notes:
+      en: "Wenn ich Zeit hätte, ... (If I had time, ...). Also used in past subjunctive: hätte + PP."
+      ko: "Wenn ich Zeit hätte, ... (시간이 있다면...). 과거 접속법에도 사용: hätte + 과거분사."
+  - german: "wuerde + Infinitiv"
+    translation:
+      en: would + verb
+      ko: ~할 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Replacement form for Konj. II. Ich würde gern nach Japan reisen."
+      ko: "접속법 II 대체형. 나는 일본에 여행하고 싶을 텐데."
+  - german: "koennte"
+    translation:
+      en: could (subj. of können)
+      ko: ~할 수 있을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Könnten Sie mir helfen? (Could you help me?). Polite request form."
+      ko: "도와주실 수 있을까요? 정중한 요청 형태."
+  - german: "muesste"
+    translation:
+      en: would have to (subj. of müssen)
+      ko: ~해야 할 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Ich müsste eigentlich lernen. (I really should be studying.)"
+      ko: "사실 공부를 해야 할 텐데."
+  - german: "duerfte"
+    translation:
+      en: would be allowed to (subj. of dürfen)
+      ko: ~해도 될 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Also used for probability: Das dürfte stimmen. (That's probably right.)"
+      ko: "추측에도 사용: Das dürfte stimmen. (아마 맞을 것이다.)"
+  - german: "sollte"
+    translation:
+      en: should (subj. of sollen)
+      ko: ~해야 할 것이다
+    gender: null
+    plural: null
+    notes:
+      en: "Du solltest mehr schlafen. (You should sleep more.) Advice form."
+      ko: "너는 더 자야 해. 조언 형태."
+  - german: "wuesste"
+    translation:
+      en: would know (subj. of wissen)
+      ko: 알 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Wenn ich es wüsste, würde ich es sagen. (If I knew, I would say it.)"
+      ko: "내가 알았더라면 말했을 텐데."
+
+- id: 6_passive_voice_verbs
+  label:
+    en: 6. Passive Voice Key Verbs and Expressions
+    ko: 6. 수동태 주요 동사와 표현
+  type: vocabulary
+  words:
+  - german: werden
+    translation:
+      en: to become (passive auxiliary)
+      ko: 되다 (수동태 조동사)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Buch wird gelesen. Präteritum: wurde. Partizip II (passive): worden."
+      ko: "수동태: 그 책이 읽힌다. 과거형: wurde. 수동태 과거분사: worden."
+  - german: "gebaut werden"
+    translation:
+      en: to be built
+      ko: 건설되다
+    gender: null
+    plural: null
+    notes:
+      en: "Das Haus wird gebaut. (The house is being built.) werden + Partizip II."
+      ko: "집이 건설된다. werden + 과거분사."
+  - german: "gerufen werden"
+    translation:
+      en: to be called
+      ko: 불리다
+    gender: null
+    plural: null
+    notes:
+      en: "Er wird Max gerufen. (He is called Max.) Passive voice."
+      ko: "그는 Max라고 불린다."
+  - german: "eingeladen werden"
+    translation:
+      en: to be invited
+      ko: 초대되다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie wurde zur Party eingeladen. (She was invited to the party.)"
+      ko: "그녀는 파티에 초대받았다."
+  - german: "lassen"
+    translation:
+      en: to let / to have something done
+      ko: ~하게 하다 / ~을 시키다
+    gender: null
+    plural: null
+    notes:
+      en: "Partizip II: gelassen/lassen. Ich lasse mir die Haare schneiden. (I have my hair cut.)"
+      ko: "과거분사: gelassen/lassen. 나는 머리를 잘라 달라고 한다."
+  - german: "sich lassen + Infinitiv"
+    translation:
+      en: can be done (passive alternative)
+      ko: ~될 수 있다 (수동태 대체)
+    gender: null
+    plural: null
+    notes:
+      en: "Das lässt sich machen. (That can be done.) Alternative to passive voice."
+      ko: "그것은 가능하다. 수동태의 대안 표현."
+
+- id: 7_verb_noun_collocations
+  label:
+    en: 7. Important Verb-Noun Collocations
+    ko: 7. 주요 동사-명사 연어
+  type: vocabulary
+  words:
+  - german: eine Entscheidung treffen
+    translation:
+      en: to make a decision
+      ko: 결정을 내리다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Wir muessen eine Entscheidung treffen."
+      ko: "연어. 우리는 결정을 내려야 한다."
+  - german: eine Frage stellen
+    translation:
+      en: to ask a question
+      ko: 질문하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Darf ich eine Frage stellen?"
+      ko: "연어. 질문해도 될까요?"
+  - german: Bescheid geben
+    translation:
+      en: to let someone know
+      ko: 알려주다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Gib mir bitte Bescheid!"
+      ko: "연어. 나에게 알려 줘!"
+  - german: Bescheid wissen
+    translation:
+      en: to be informed, to know about
+      ko: 알고 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Ich weiß Bescheid."
+      ko: "연어. 나는 알고 있다."
+  - german: einen Fehler machen
+    translation:
+      en: to make a mistake
+      ko: 실수하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Jeder macht mal Fehler."
+      ko: "연어. 누구나 실수를 한다."
+  - german: Fortschritte machen
+    translation:
+      en: to make progress
+      ko: 진보하다, 발전하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Du machst grosse Fortschritte!"
+      ko: "연어. 너는 큰 발전을 하고 있어!"
+  - german: "eine Rolle spielen"
+    translation:
+      en: to play a role, to matter
+      ko: 역할을 하다, 중요하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Das spielt keine Rolle. (That doesn't matter.)"
+      ko: "연어. 그것은 중요하지 않다."
+  - german: Ruecksicht nehmen auf + Akk.
+    translation:
+      en: to show consideration for
+      ko: ~을 배려하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Nimm Ruecksicht auf andere!"
+      ko: "연어. 다른 사람들을 배려해!"
+  - german: Abschied nehmen
+    translation:
+      en: to say goodbye
+      ko: 작별 인사를 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Wir nehmen Abschied von unseren Freunden."
+      ko: "연어. 우리는 친구들에게 작별 인사를 한다."
+  - german: in Betracht ziehen
+    translation:
+      en: to take into consideration
+      ko: 고려하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Wir sollten alle Moeglichkeiten in Betracht ziehen."
+      ko: "연어. 우리는 모든 가능성을 고려해야 한다."
+  - german: zur Verfuegung stehen
+    translation:
+      en: to be available
+      ko: 이용 가능하다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Ich stehe Ihnen gern zur Verfuegung."
+      ko: "연어. 저는 기꺼이 도움을 드리겠습니다."
+  - german: in Frage kommen
+    translation:
+      en: to be an option, to come into question
+      ko: 가능하다, 문제가 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Das kommt nicht in Frage! (That's out of the question!)"
+      ko: "연어. 그건 안 돼!"
+  - german: "Einfluss nehmen auf + Akk."
+    translation:
+      en: to influence, to exert influence on
+      ko: ~에 영향을 미치다
+    gender: null
+    plural: null
+    notes:
+      en: "Collocation. Er nimmt Einfluss auf die Politik."
+      ko: "연어. 그는 정치에 영향을 미친다."

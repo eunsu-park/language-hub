@@ -104,6 +104,60 @@ categories:
       ko: 서명
     gender: f
     plural: die Unterschriften
+  - german: der Briefkopf, -̈e
+    translation:
+      en: letterhead
+      ko: 편지 머리글
+    gender: m
+    plural: die Briefköpfe
+  - german: die Kündigung, -en
+    translation:
+      en: cancellation / notice of termination
+      ko: 해지 / 해약 통보
+    gender: f
+    plural: die Kündigungen
+  - german: die Beschwerde, -n
+    translation:
+      en: complaint (formal)
+      ko: 항의 / 불만 사항
+    gender: f
+    plural: die Beschwerden
+  - german: der Antrag, -̈e
+    translation:
+      en: application / request (formal)
+      ko: 신청서
+    gender: m
+    plural: die Anträge
+  - german: die Bestätigung, -en
+    translation:
+      en: confirmation
+      ko: 확인서
+    gender: f
+    plural: die Bestätigungen
+  - german: der Entwurf, -̈e
+    translation:
+      en: draft
+      ko: 초안
+    gender: m
+    plural: die Entwürfe
+  - german: die Mahnung, -en
+    translation:
+      en: reminder / dunning letter
+      ko: 독촉장 / 최고서
+    gender: f
+    plural: die Mahnungen
+  - german: die Einladung, -en
+    translation:
+      en: invitation
+      ko: 초대장
+    gender: f
+    plural: die Einladungen
+  - german: die Vollmacht, -en
+    translation:
+      en: power of attorney / authorization
+      ko: 위임장
+    gender: f
+    plural: die Vollmachten
 
 - id: 2_essay_structure_words
   label:
@@ -177,6 +231,54 @@ categories:
       ko: 개요 / 구성
     gender: f
     plural: die Gliederungen
+  - german: die Gegenüberstellung, -en
+    translation:
+      en: comparison / juxtaposition
+      ko: 대조 / 비교
+    gender: f
+    plural: die Gegenüberstellungen
+  - german: der Leitgedanke, -n
+    translation:
+      en: guiding idea / central theme
+      ko: 중심 사상
+    gender: m
+    plural: die Leitgedanken
+  - german: die Begründung, -en
+    translation:
+      en: justification / reasoning
+      ko: 근거 / 이유
+    gender: f
+    plural: die Begründungen
+  - german: der Übergang, -̈e
+    translation:
+      en: transition
+      ko: 전환
+    gender: m
+    plural: die Übergänge
+  - german: die Behauptung, -en
+    translation:
+      en: claim / assertion
+      ko: 주장
+    gender: f
+    plural: die Behauptungen
+  - german: das Gegenargument, -e
+    translation:
+      en: counterargument
+      ko: 반론
+    gender: n
+    plural: die Gegenargumente
+  - german: die Schlussfolgerung, -en
+    translation:
+      en: conclusion / inference
+      ko: 결론 / 추론
+    gender: f
+    plural: die Schlussfolgerungen
+  - german: die Textanalyse, -n
+    translation:
+      en: text analysis
+      ko: 텍스트 분석
+    gender: f
+    plural: die Textanalysen
 
 - id: 3_linking_words
   label:
@@ -237,4 +339,186 @@ categories:
       en: accordingly / correspondingly
       ko: 그에 따라
     gender: null
+    plural: null
+  - german: infolgedessen
+    translation:
+      en: as a result
+      ko: 그 결과
+    gender: null
+    plural: null
+  - german: nichtsdestoweniger
+    translation:
+      en: nevertheless / nonetheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+  - german: hingegen
+    translation:
+      en: on the other hand / whereas
+      ko: 반면에
+    gender: null
+    plural: null
+  - german: ebenso
+    translation:
+      en: likewise / equally
+      ko: 마찬가지로
+    gender: null
+    plural: null
+  - german: beziehungsweise (bzw.)
+    translation:
+      en: respectively / or rather
+      ko: 내지는 / 또는
+    gender: null
+    plural: null
+  - german: letztendlich
+    translation:
+      en: ultimately / in the end
+      ko: 결국
+    gender: null
+    plural: null
+
+- id: 4_style_and_register
+  label:
+    en: 4. Style and Register
+    ko: 4. 문체와 격식
+  type: vocabulary
+  words:
+  - german: die Umgangssprache
+    translation:
+      en: colloquial language
+      ko: 구어체
+    gender: f
+    plural: null
+  - german: die Schriftsprache
+    translation:
+      en: written / literary language
+      ko: 문어체
+    gender: f
+    plural: null
+  - german: die Fachsprache, -n
+    translation:
+      en: technical / specialist language
+      ko: 전문 용어
+    gender: f
+    plural: die Fachsprachen
+  - german: die Redewendung, -en
+    translation:
+      en: idiom / expression
+      ko: 관용구
+    gender: f
+    plural: die Redewendungen
+  - german: der Sprachstil, -e
+    translation:
+      en: writing style / register
+      ko: 문체 / 어조
+    gender: m
+    plural: die Sprachstile
+  - german: sachlich
+    translation:
+      en: objective / factual
+      ko: 객관적인 / 사실에 입각한
+    gender: null
+    plural: null
+  - german: förmlich
+    translation:
+      en: formal
+      ko: 격식을 갖춘
+    gender: null
+    plural: null
+  - german: umgangssprachlich
+    translation:
+      en: colloquial / informal
+      ko: 구어체의 / 비격식의
+    gender: null
+    plural: null
+  - german: die Wortwahl
+    translation:
+      en: word choice / diction
+      ko: 어휘 선택
+    gender: f
+    plural: null
+  - german: der Ausdruck, -̈e
+    translation:
+      en: expression / term
+      ko: 표현
+    gender: m
+    plural: die Ausdrücke
+  - german: formulieren
+    translation:
+      en: to formulate / to phrase
+      ko: 표현하다 / 구성하다
+    gender: null
+    plural: null
+  - german: überarbeiten
+    translation:
+      en: to revise / to edit
+      ko: 수정하다 / 고치다
+    gender: null
+    plural: null
+  - german: die Korrektur, -en
+    translation:
+      en: correction / proofreading
+      ko: 교정 / 수정
+    gender: f
+    plural: die Korrekturen
+
+- id: 5_punctuation_and_formatting
+  label:
+    en: 5. Punctuation and Formatting
+    ko: 5. 구두점과 서식
+  type: vocabulary
+  words:
+  - german: der Punkt, -e
+    translation:
+      en: period / full stop
+      ko: 마침표
+    gender: m
+    plural: die Punkte
+  - german: das Komma, -s
+    translation:
+      en: comma
+      ko: 쉼표
+    gender: n
+    plural: die Kommas
+  - german: das Semikolon, -s
+    translation:
+      en: semicolon
+      ko: 세미콜론
+    gender: n
+    plural: die Semikola
+  - german: das Ausrufezeichen, -
+    translation:
+      en: exclamation mark
+      ko: 느낌표
+    gender: n
+    plural: die Ausrufezeichen
+  - german: das Fragezeichen, -
+    translation:
+      en: question mark
+      ko: 물음표
+    gender: n
+    plural: die Fragezeichen
+  - german: der Doppelpunkt, -e
+    translation:
+      en: colon
+      ko: 콜론
+    gender: m
+    plural: die Doppelpunkte
+  - german: die Anführungszeichen (pl.)
+    translation:
+      en: quotation marks
+      ko: 따옴표
+    gender: n
+    plural: null
+  - german: der Gedankenstrich, -e
+    translation:
+      en: dash / em dash
+      ko: 줄표
+    gender: m
+    plural: die Gedankenstriche
+  - german: die Großschreibung
+    translation:
+      en: capitalization
+      ko: 대문자 표기
+    gender: f
     plural: null

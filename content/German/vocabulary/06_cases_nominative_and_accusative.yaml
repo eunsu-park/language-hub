@@ -188,3 +188,339 @@ categories:
       ko: 좋아하다
     gender: null
     plural: null
+  - german: nehmen
+    translation:
+      en: to take
+      ko: 가져가다
+    gender: null
+    plural: null
+  - german: bekommen
+    translation:
+      en: to receive, to get
+      ko: 받다
+    gender: null
+    plural: null
+  - german: verstehen
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    plural: null
+  - german: hören
+    translation:
+      en: to hear
+      ko: 듣다
+    gender: null
+    plural: null
+  - german: rufen
+    translation:
+      en: to call
+      ko: 부르다
+    gender: null
+    plural: null
+  - german: lieben
+    translation:
+      en: to love
+      ko: 사랑하다
+    gender: null
+    plural: null
+  - german: öffnen
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+    plural: null
+  - german: schließen
+    translation:
+      en: to close
+      ko: 닫다
+    gender: null
+    plural: null
+  - german: tragen
+    translation:
+      en: to carry; to wear
+      ko: 나르다; 입다
+    gender: null
+    plural: null
+  - german: bringen
+    translation:
+      en: to bring
+      ko: 가져오다
+    gender: null
+    plural: null
+- id: nominative_nouns
+  label:
+    en: Common Nominative Nouns (Subjects)
+    ko: 주요 1격(주격) 명사 (주어)
+  type: vocabulary
+  words:
+  - german: der Mann
+    translation:
+      en: the man
+      ko: 남자
+    gender: m
+    plural: die Männer
+  - german: die Frau
+    translation:
+      en: the woman
+      ko: 여자
+    gender: f
+    plural: die Frauen
+  - german: das Kind
+    translation:
+      en: the child
+      ko: 아이
+    gender: n
+    plural: die Kinder
+  - german: der Lehrer
+    translation:
+      en: the teacher (male)
+      ko: 교사 (남)
+    gender: m
+    plural: die Lehrer
+  - german: die Lehrerin
+    translation:
+      en: the teacher (female)
+      ko: 교사 (여)
+    gender: f
+    plural: die Lehrerinnen
+  - german: der Schüler
+    translation:
+      en: the student (male)
+      ko: 학생 (남)
+    gender: m
+    plural: die Schüler
+  - german: die Schülerin
+    translation:
+      en: the student (female)
+      ko: 학생 (여)
+    gender: f
+    plural: die Schülerinnen
+  - german: der Hund
+    translation:
+      en: the dog
+      ko: 개
+    gender: m
+    plural: die Hunde
+  - german: die Katze
+    translation:
+      en: the cat
+      ko: 고양이
+    gender: f
+    plural: die Katzen
+  - german: das Mädchen
+    translation:
+      en: the girl
+      ko: 소녀
+    gender: n
+    plural: die Mädchen
+  - german: der Junge
+    translation:
+      en: the boy
+      ko: 소년
+    gender: m
+    plural: die Jungen
+  - german: der Freund
+    translation:
+      en: the friend (male)
+      ko: 친구 (남)
+    gender: m
+    plural: die Freunde
+  - german: die Freundin
+    translation:
+      en: the friend (female)
+      ko: 친구 (여)
+    gender: f
+    plural: die Freundinnen
+- id: accusative_nouns
+  label:
+    en: Common Accusative Nouns (Direct Objects)
+    ko: 주요 4격(대격) 명사 (직접 목적어)
+  type: vocabulary
+  words:
+  - german: den Kaffee
+    translation:
+      en: the coffee (acc.)
+      ko: 커피를
+    gender: m
+    plural: null
+  - german: den Tee
+    translation:
+      en: the tea (acc.)
+      ko: 차를
+    gender: m
+    plural: null
+  - german: das Buch
+    translation:
+      en: the book
+      ko: 책
+    gender: n
+    plural: die Bücher
+  - german: die Zeitung
+    translation:
+      en: the newspaper
+      ko: 신문
+    gender: f
+    plural: die Zeitungen
+  - german: den Brief
+    translation:
+      en: the letter (acc.)
+      ko: 편지를
+    gender: m
+    plural: die Briefe
+  - german: den Kuchen
+    translation:
+      en: the cake (acc.)
+      ko: 케이크를
+    gender: m
+    plural: die Kuchen
+  - german: die Tasche
+    translation:
+      en: the bag
+      ko: 가방
+    gender: f
+    plural: die Taschen
+  - german: das Handy
+    translation:
+      en: the cell phone
+      ko: 휴대폰
+    gender: n
+    plural: die Handys
+  - german: den Schlüssel
+    translation:
+      en: the key (acc.)
+      ko: 열쇠를
+    gender: m
+    plural: die Schlüssel
+  - german: die Brille
+    translation:
+      en: the glasses
+      ko: 안경
+    gender: f
+    plural: die Brillen
+  - german: den Regenschirm
+    translation:
+      en: the umbrella (acc.)
+      ko: 우산을
+    gender: m
+    plural: die Regenschirme
+  - german: das Geschenk
+    translation:
+      en: the gift
+      ko: 선물
+    gender: n
+    plural: die Geschenke
+- id: case_articles
+  label:
+    en: Definite and Indefinite Articles by Case
+    ko: 격에 따른 정관사와 부정관사
+  type: vocabulary
+  words:
+  - german: der / den
+    translation:
+      en: the (masc. nom. / acc.)
+      ko: 그 (남성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: die / die
+    translation:
+      en: the (fem. nom. / acc.)
+      ko: 그 (여성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: das / das
+    translation:
+      en: the (neut. nom. / acc.)
+      ko: 그 (중성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: ein / einen
+    translation:
+      en: a (masc. nom. / acc.)
+      ko: 하나의 (남성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: eine / eine
+    translation:
+      en: a (fem. nom. / acc.)
+      ko: 하나의 (여성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: ein / ein
+    translation:
+      en: a (neut. nom. / acc.)
+      ko: 하나의 (중성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: kein / keinen
+    translation:
+      en: no, not a (masc. nom. / acc.)
+      ko: ~가 아닌 (남성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: keine / keine
+    translation:
+      en: no, not a (fem. nom. / acc.)
+      ko: ~가 아닌 (여성 주격 / 대격)
+    gender: null
+    plural: null
+  - german: kein / kein
+    translation:
+      en: no, not a (neut. nom. / acc.)
+      ko: ~가 아닌 (중성 주격 / 대격)
+    gender: null
+    plural: null
+- id: case_example_sentences
+  label:
+    en: Case Usage Example Sentences
+    ko: 격 사용 예문
+  type: vocabulary
+  words:
+  - german: Der Mann liest ein Buch.
+    translation:
+      en: The man is reading a book.
+      ko: 남자가 책을 읽는다.
+    gender: null
+    plural: null
+  - german: Ich sehe den Hund.
+    translation:
+      en: I see the dog.
+      ko: 나는 개를 본다.
+    gender: null
+    plural: null
+  - german: Sie kauft einen Rock.
+    translation:
+      en: She is buying a skirt.
+      ko: 그녀는 치마를 산다.
+    gender: null
+    plural: null
+  - german: Wir haben keine Zeit.
+    translation:
+      en: We have no time.
+      ko: 우리는 시간이 없다.
+    gender: null
+    plural: null
+  - german: Er trinkt den Kaffee.
+    translation:
+      en: He is drinking the coffee.
+      ko: 그는 커피를 마신다.
+    gender: null
+    plural: null
+  - german: Das Kind isst einen Apfel.
+    translation:
+      en: The child is eating an apple.
+      ko: 아이가 사과를 먹는다.
+    gender: null
+    plural: null
+  - german: Ich gehe durch den Park.
+    translation:
+      en: I walk through the park.
+      ko: 나는 공원을 가로질러 간다.
+    gender: null
+    plural: null
+  - german: Sie braucht einen Computer.
+    translation:
+      en: She needs a computer.
+      ko: 그녀는 컴퓨터가 필요하다.
+    gender: null
+    plural: null

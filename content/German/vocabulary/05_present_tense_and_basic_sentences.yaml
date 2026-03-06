@@ -86,6 +86,114 @@ categories:
       ko: 필요하다
     gender: null
     plural: null
+  - german: suchen
+    translation:
+      en: to search / to look for
+      ko: 찾다 / 검색하다
+    gender: null
+    plural: null
+  - german: finden
+    translation:
+      en: to find
+      ko: 찾다 / 발견하다
+    gender: null
+    plural: null
+  - german: zeigen
+    translation:
+      en: to show
+      ko: 보여주다
+    gender: null
+    plural: null
+  - german: schicken
+    translation:
+      en: to send
+      ko: 보내다
+    gender: null
+    plural: null
+  - german: wohnen
+    translation:
+      en: to live / to reside
+      ko: 살다 / 거주하다
+    gender: null
+    plural: null
+  - german: kosten
+    translation:
+      en: to cost
+      ko: (비용이) 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Was kostet das? (How much does that cost?)"
+      ko: "Was kostet das? (그것은 얼마인가요?)"
+  - german: bezahlen
+    translation:
+      en: to pay
+      ko: 지불하다
+    gender: null
+    plural: null
+  - german: glauben
+    translation:
+      en: to believe
+      ko: 믿다
+    gender: null
+    plural: null
+  - german: hoffen
+    translation:
+      en: to hope
+      ko: 희망하다
+    gender: null
+    plural: null
+  - german: meinen
+    translation:
+      en: to mean / to think (opinion)
+      ko: 의미하다 / ~라고 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Was meinen Sie? (What do you think?)"
+      ko: "Was meinen Sie? (어떻게 생각하세요?)"
+  - german: besuchen
+    translation:
+      en: to visit
+      ko: 방문하다
+    gender: null
+    plural: null
+    notes:
+      en: Inseparable prefix be-
+      ko: 비분리 접두사 be-
+  - german: tanzen
+    translation:
+      en: to dance
+      ko: 춤추다
+    gender: null
+    plural: null
+  - german: singen
+    translation:
+      en: to sing
+      ko: 노래하다
+    gender: null
+    plural: null
+  - german: schwimmen
+    translation:
+      en: to swim
+      ko: 수영하다
+    gender: null
+    plural: null
+  - german: rauchen
+    translation:
+      en: to smoke
+      ko: 흡연하다
+    gender: null
+    plural: null
+  - german: verstehen
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable prefix ver-; Ich verstehe das nicht."
+      ko: "비분리 접두사 ver-; 저는 그것을 이해하지 못합니다."
 
 - id: 52_stem_changing_a_to_ae
   label:
@@ -147,6 +255,33 @@ categories:
     notes:
       en: du wäschst, er wäscht
       ko: du wäschst, er wäscht
+  - german: halten
+    translation:
+      en: to hold / to stop
+      ko: 잡다 / 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "du hältst, er hält; Der Bus hält hier."
+      ko: "du hältst, er hält; 버스가 여기서 멈춘다."
+  - german: fangen
+    translation:
+      en: to catch
+      ko: 잡다
+    gender: null
+    plural: null
+    notes:
+      en: du fängst, er fängt
+      ko: du fängst, er fängt
+  - german: einladen
+    translation:
+      en: to invite
+      ko: 초대하다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable + stem change; du lädst ein, er lädt ein"
+      ko: "분리동사 + 어간 변화; du lädst ein, er lädt ein"
 
 - id: 53_stem_changing_e_to_i_ie
   label:
@@ -217,6 +352,42 @@ categories:
     notes:
       en: "e \u2192 ie: du siehst, er sieht"
       ko: "e \u2192 ie: du siehst, er sieht"
+  - german: treffen
+    translation:
+      en: to meet / to hit
+      ko: 만나다 / 맞히다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du triffst, er trifft"
+      ko: "e \u2192 i: du triffst, er trifft"
+  - german: werfen
+    translation:
+      en: to throw
+      ko: 던지다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du wirfst, er wirft"
+      ko: "e \u2192 i: du wirfst, er wirft"
+  - german: empfehlen
+    translation:
+      en: to recommend
+      ko: 추천하다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 ie: du empfiehlst, er empfiehlt"
+      ko: "e \u2192 ie: du empfiehlst, er empfiehlt"
+  - german: vergessen
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    plural: null
+    notes:
+      en: "e \u2192 i: du vergisst, er vergisst"
+      ko: "e \u2192 i: du vergisst, er vergisst"
 
 - id: 54_question_words
   label:
@@ -281,3 +452,183 @@ categories:
     notes:
       en: "\"wie viel\" for uncountable, \"wie viele\" for countable"
       ko: "불가산에는 \"wie viel\", 가산에는 \"wie viele\""
+  - german: welcher / welche / welches
+    translation:
+      en: which
+      ko: 어떤 / 어느
+    gender: null
+    plural: null
+    notes:
+      en: Changes form based on gender; welcher (m), welche (f/pl), welches (n)
+      ko: 성에 따라 형태 변화; welcher (남), welche (여/복수), welches (중)
+
+- id: 55_negation
+  label:
+    en: 5.5 Negation
+    ko: 5.5 부정
+  type: vocabulary
+  words:
+  - german: nicht
+    translation:
+      en: not
+      ko: ~이 아닌 / ~하지 않다
+    gender: null
+    plural: null
+    notes:
+      en: Placed after the verb to negate; Ich verstehe nicht.
+      ko: 동사 뒤에 위치하여 부정; Ich verstehe nicht.
+  - german: kein / keine
+    translation:
+      en: no / not a / not any
+      ko: ~이 아닌 / 없는
+    gender: null
+    plural: null
+    notes:
+      en: "Used instead of nicht + ein; Ich habe kein Auto."
+      ko: "nicht + ein 대신 사용; 나는 차가 없다."
+  - german: nichts
+    translation:
+      en: nothing
+      ko: 아무것도 (~아닌)
+    gender: null
+    plural: null
+  - german: niemand
+    translation:
+      en: nobody / no one
+      ko: 아무도 (~아닌)
+    gender: null
+    plural: null
+  - german: nie / niemals
+    translation:
+      en: never
+      ko: 절대 (~않다)
+    gender: null
+    plural: null
+  - german: noch nicht
+    translation:
+      en: not yet
+      ko: 아직 (~않다)
+    gender: null
+    plural: null
+  - german: nicht mehr
+    translation:
+      en: no longer / not anymore
+      ko: 더 이상 (~않다)
+    gender: null
+    plural: null
+
+- id: 56_basic_connectors
+  label:
+    en: 5.6 Basic Connectors
+    ko: 5.6 기본 접속사
+  type: vocabulary
+  words:
+  - german: und
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+    plural: null
+  - german: oder
+    translation:
+      en: or
+      ko: 또는
+    gender: null
+    plural: null
+  - german: aber
+    translation:
+      en: but
+      ko: 하지만
+    gender: null
+    plural: null
+  - german: denn
+    translation:
+      en: because / for
+      ko: 왜냐하면
+    gender: null
+    plural: null
+    notes:
+      en: Coordinating conjunction; does not change word order
+      ko: 등위 접속사; 어순을 변경하지 않음
+  - german: sondern
+    translation:
+      en: but rather (after negation)
+      ko: 오히려 / ~가 아니라
+    gender: null
+    plural: null
+    notes:
+      en: "Only after nicht/kein; nicht A, sondern B"
+      ko: "nicht/kein 뒤에만 사용; A가 아니라 B"
+
+- id: 57_time_expressions
+  label:
+    en: 5.7 Time Expressions (Present)
+    ko: 5.7 시간 표현 (현재)
+  type: vocabulary
+  words:
+  - german: jetzt
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+    plural: null
+  - german: heute
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+    plural: null
+  - german: morgen
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    plural: null
+    notes:
+      en: "Lowercase morgen = tomorrow; der Morgen (capitalized) = the morning"
+      ko: "소문자 morgen = 내일; der Morgen (대문자) = 아침"
+  - german: gestern
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+    plural: null
+  - german: immer
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+    plural: null
+  - german: oft
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+    plural: null
+  - german: manchmal
+    translation:
+      en: sometimes
+      ko: 가끔
+    gender: null
+    plural: null
+  - german: selten
+    translation:
+      en: rarely / seldom
+      ko: 드물게
+    gender: null
+    plural: null
+  - german: gerade
+    translation:
+      en: right now / just (now)
+      ko: 지금 막 / 바로
+    gender: null
+    plural: null
+    notes:
+      en: "Ich arbeite gerade. (I am working right now.)"
+      ko: "Ich arbeite gerade. (나는 지금 막 일하고 있다.)"
+  - german: schon
+    translation:
+      en: already
+      ko: 이미 / 벌써
+    gender: null
+    plural: null

@@ -68,6 +68,48 @@ categories:
       ko: 천
     gender: null
     plural: null
+  - german: sechs
+    translation:
+      en: six
+      ko: 육
+    gender: null
+    plural: null
+  - german: sieben
+    translation:
+      en: seven
+      ko: 칠
+    gender: null
+    plural: null
+  - german: acht
+    translation:
+      en: eight
+      ko: 팔
+    gender: null
+    plural: null
+  - german: neun
+    translation:
+      en: nine
+      ko: 구
+    gender: null
+    plural: null
+  - german: elf
+    translation:
+      en: eleven
+      ko: 십일
+    gender: null
+    plural: null
+  - german: zwölf
+    translation:
+      en: twelve
+      ko: 십이
+    gender: null
+    plural: null
+  - german: dreißig
+    translation:
+      en: thirty
+      ko: 삼십
+    gender: null
+    plural: null
   - german: eine Million
     translation:
       en: one million
@@ -212,6 +254,48 @@ categories:
       ko: 6월
     gender: m
     plural: null
+  - german: der April
+    translation:
+      en: April
+      ko: 4월
+    gender: m
+    plural: null
+  - german: der Mai
+    translation:
+      en: May
+      ko: 5월
+    gender: m
+    plural: null
+  - german: der Juli
+    translation:
+      en: July
+      ko: 7월
+    gender: m
+    plural: null
+  - german: der August
+    translation:
+      en: August
+      ko: 8월
+    gender: m
+    plural: null
+  - german: der September
+    translation:
+      en: September
+      ko: 9월
+    gender: m
+    plural: null
+  - german: der Oktober
+    translation:
+      en: October
+      ko: 10월
+    gender: m
+    plural: null
+  - german: der November
+    translation:
+      en: November
+      ko: 11월
+    gender: m
+    plural: null
   - german: der Dezember
     translation:
       en: December
@@ -296,6 +380,30 @@ categories:
       ko: 결코 ~않다
     gender: null
     plural: null
+  - german: vorgestern
+    translation:
+      en: the day before yesterday
+      ko: 그저께
+    gender: null
+    plural: null
+  - german: übermorgen
+    translation:
+      en: the day after tomorrow
+      ko: 모레
+    gender: null
+    plural: null
+  - german: gerade
+    translation:
+      en: just now, right now
+      ko: 방금, 바로 지금
+    gender: null
+    plural: null
+  - german: schon
+    translation:
+      en: already
+      ko: 이미, 벌써
+    gender: null
+    plural: null
 - id: seasons_and_weather
   label:
     en: Seasons and Weather
@@ -360,5 +468,53 @@ categories:
     translation:
       en: It is snowing.
       ko: 눈이 온다.
+    gender: null
+    plural: null
+  - german: der Regen
+    translation:
+      en: rain
+      ko: 비
+    gender: m
+    plural: null
+  - german: der Schnee
+    translation:
+      en: snow
+      ko: 눈
+    gender: m
+    plural: null
+  - german: das Gewitter
+    translation:
+      en: thunderstorm
+      ko: 뇌우
+    gender: n
+    plural: die Gewitter
+  - german: das Wetter
+    translation:
+      en: weather
+      ko: 날씨
+    gender: n
+    plural: null
+- id: ordinal_numbers
+  label:
+    en: Ordinal Numbers
+    ko: 서수
+  type: vocabulary
+  words:
+  - german: erste
+    translation:
+      en: first
+      ko: 첫 번째의
+    gender: null
+    plural: null
+  - german: zweite
+    translation:
+      en: second
+      ko: 두 번째의
+    gender: null
+    plural: null
+  - german: dritte
+    translation:
+      en: third
+      ko: 세 번째의
     gender: null
     plural: null

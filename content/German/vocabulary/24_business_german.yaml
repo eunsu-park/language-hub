@@ -62,6 +62,36 @@ categories:
       ko: 안녕히 계세요! (전화 시)
     gender: null
     plural: null
+  - german: die Initiativbewerbung, -en
+    translation:
+      en: unsolicited application
+      ko: 자발적 지원서
+    gender: f
+    plural: die Initiativbewerbungen
+  - german: das Arbeitszeugnis, -se
+    translation:
+      en: employment reference / work certificate
+      ko: 경력 증명서
+    gender: n
+    plural: die Arbeitszeugnisse
+  - german: die Einarbeitung
+    translation:
+      en: onboarding / training period
+      ko: 업무 적응 / 인수인계
+    gender: f
+    plural: null
+  - german: die Weiterbildung, -en
+    translation:
+      en: continuing education / professional development
+      ko: 계속 교육 / 직무 연수
+    gender: f
+    plural: die Weiterbildungen
+  - german: die Telefonkonferenz, -en
+    translation:
+      en: conference call
+      ko: 전화 회의
+    gender: f
+    plural: die Telefonkonferenzen
 
 - id: 2_meeting_vocabulary
   label:
@@ -123,6 +153,36 @@ categories:
       ko: 제 의견으로는...
     gender: null
     plural: null
+  - german: der Tagesordnungspunkt, -e
+    translation:
+      en: agenda item
+      ko: 의제 항목
+    gender: m
+    plural: die Tagesordnungspunkte
+  - german: das Handout, -s
+    translation:
+      en: handout
+      ko: 유인물
+    gender: n
+    plural: die Handouts
+  - german: die Abstimmung, -en
+    translation:
+      en: vote / ballot
+      ko: 투표 / 표결
+    gender: f
+    plural: die Abstimmungen
+  - german: vertagen
+    translation:
+      en: to postpone / to adjourn
+      ko: 연기하다
+    gender: null
+    plural: null
+  - german: die Präsentation, -en
+    translation:
+      en: presentation
+      ko: 프레젠테이션
+    gender: f
+    plural: die Präsentationen
 
 - id: 3_job_application_terms
   label:
@@ -177,6 +237,36 @@ categories:
       en: full-time / part-time
       ko: 정규직 / 파트타임
     gender: null
+    plural: null
+  - german: die Fortbildung, -en
+    translation:
+      en: further training
+      ko: 추가 교육
+    gender: f
+    plural: die Fortbildungen
+  - german: der Mindestlohn, -̈e
+    translation:
+      en: minimum wage
+      ko: 최저 임금
+    gender: m
+    plural: die Mindestlöhne
+  - german: der Arbeitgeber, -
+    translation:
+      en: employer
+      ko: 고용주
+    gender: m
+    plural: die Arbeitgeber
+  - german: der Arbeitnehmer, -
+    translation:
+      en: employee
+      ko: 피고용인 / 근로자
+    gender: m
+    plural: die Arbeitnehmer
+  - german: die Elternzeit
+    translation:
+      en: parental leave
+      ko: 육아 휴직
+    gender: f
     plural: null
 
 - id: 4_corporate_hierarchy
@@ -245,6 +335,36 @@ categories:
       ko: 명함
     gender: f
     plural: die Visitenkarten
+  - german: der Betriebsrat, -̈e
+    translation:
+      en: works council
+      ko: 직장 평의회
+    gender: m
+    plural: die Betriebsräte
+  - german: die Niederlassung, -en
+    translation:
+      en: branch office / subsidiary
+      ko: 지사 / 지점
+    gender: f
+    plural: die Niederlassungen
+  - german: der Geschäftspartner, -
+    translation:
+      en: business partner
+      ko: 사업 파트너
+    gender: m
+    plural: die Geschäftspartner
+  - german: die Zentrale, -n
+    translation:
+      en: headquarters
+      ko: 본사
+    gender: f
+    plural: die Zentralen
+  - german: der Praktikant, -en
+    translation:
+      en: intern (m)
+      ko: 인턴 (남성)
+    gender: m
+    plural: die Praktikanten
 
 - id: 5_finance_and_operations
   label:
@@ -312,3 +432,94 @@ categories:
       ko: 출장
     gender: f
     plural: die Geschäftsreisen
+  - german: die Steuererklärung, -en
+    translation:
+      en: tax return
+      ko: 세금 신고
+    gender: f
+    plural: die Steuererklärungen
+  - german: die Mehrwertsteuer (MwSt.)
+    translation:
+      en: value-added tax (VAT)
+      ko: 부가가치세
+    gender: f
+    plural: null
+  - german: die Investition, -en
+    translation:
+      en: investment
+      ko: 투자
+    gender: f
+    plural: die Investitionen
+  - german: die Zahlung, -en
+    translation:
+      en: payment
+      ko: 지불
+    gender: f
+    plural: die Zahlungen
+  - german: der Kostenvoranschlag, -̈e
+    translation:
+      en: cost estimate / quote
+      ko: 견적서
+    gender: m
+    plural: die Kostenvoranschläge
+  - german: die Bestellung, -en
+    translation:
+      en: order (commercial)
+      ko: 주문
+    gender: f
+    plural: die Bestellungen
+  - german: die Lieferung, -en
+    translation:
+      en: delivery
+      ko: 배송 / 납품
+    gender: f
+    plural: die Lieferungen
+
+- id: 6_business_phrases
+  label:
+    en: 6. Business Phrases
+    ko: 6. 비즈니스 관용구
+  type: vocabulary
+  words:
+  - german: Ich schlage vor, dass...
+    translation:
+      en: I suggest that...
+      ko: ~을 제안합니다
+    gender: null
+    plural: null
+  - german: Könnten Sie mir bitte... weiterleiten?
+    translation:
+      en: Could you please forward me...?
+      ko: ~을 전달해 주시겠습니까?
+    gender: null
+    plural: null
+  - german: Wir sollten in Betracht ziehen, dass...
+    translation:
+      en: We should consider that...
+      ko: ~을 고려해야 합니다
+    gender: null
+    plural: null
+  - german: Laut Vertrag...
+    translation:
+      en: According to the contract...
+      ko: 계약에 따르면...
+    gender: null
+    plural: null
+  - german: die Verhandlung, -en
+    translation:
+      en: negotiation
+      ko: 협상
+    gender: f
+    plural: die Verhandlungen
+  - german: die Marktforschung
+    translation:
+      en: market research
+      ko: 시장 조사
+    gender: f
+    plural: null
+  - german: die Wettbewerbsfähigkeit
+    translation:
+      en: competitiveness
+      ko: 경쟁력
+    gender: f
+    plural: null

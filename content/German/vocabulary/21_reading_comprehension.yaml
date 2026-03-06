@@ -86,6 +86,72 @@ categories:
       ko: 핵심 메시지
     gender: f
     plural: die Kernaussagen
+  - german: die Textsorte, -n
+    translation:
+      en: text type / genre
+      ko: 텍스트 유형 / 장르
+    gender: f
+    plural: die Textsorten
+  - german: der Wortschatz
+    translation:
+      en: vocabulary
+      ko: 어휘
+    gender: m
+    plural: null
+  - german: die Bedeutung, -en
+    translation:
+      en: meaning / significance
+      ko: 의미 / 중요성
+    gender: f
+    plural: die Bedeutungen
+  - german: das Vorwissen
+    translation:
+      en: prior knowledge
+      ko: 사전 지식
+    gender: n
+    plural: null
+  - german: der Kontext, -e
+    translation:
+      en: context
+      ko: 문맥
+    gender: m
+    plural: die Kontexte
+  - german: die Lesegeschwindigkeit, -en
+    translation:
+      en: reading speed
+      ko: 읽기 속도
+    gender: f
+    plural: die Lesegeschwindigkeiten
+  - german: das Lesetagebuch, -̈er
+    translation:
+      en: reading diary / reading journal
+      ko: 독서 일지
+    gender: n
+    plural: die Lesetagebücher
+  - german: die Lesekompetenz, -en
+    translation:
+      en: reading competence
+      ko: 독해 능력
+    gender: f
+    plural: die Lesekompetenzen
+  - german: das Leseverständnis
+    translation:
+      en: reading comprehension
+      ko: 독해력
+    gender: n
+    plural: null
+  - german: die Textstrategie, -n
+    translation:
+      en: text strategy
+      ko: 텍스트 전략
+    gender: f
+    plural: die Textstrategien
+  - german: nachschlagen
+    translation:
+      en: to look up (in a dictionary)
+      ko: (사전에서) 찾아보다
+    gender: null
+    plural: null
 
 - id: 2_text_type_vocabulary
   label:
@@ -177,6 +243,90 @@ categories:
       ko: 주석 / 비고
     gender: f
     plural: die Anmerkungen
+  - german: der Kommentar, -e
+    translation:
+      en: commentary / opinion piece
+      ko: 논평 / 해설
+    gender: m
+    plural: die Kommentare
+  - german: der Bericht, -e
+    translation:
+      en: report
+      ko: 보고서 / 보도
+    gender: m
+    plural: die Berichte
+  - german: die Rezension, -en
+    translation:
+      en: review (of a book, film)
+      ko: 서평 / 비평
+    gender: f
+    plural: die Rezensionen
+  - german: die Reportage, -n
+    translation:
+      en: feature story / reportage
+      ko: 르포 / 르포르타주
+    gender: f
+    plural: die Reportagen
+  - german: das Glossar, -e
+    translation:
+      en: glossary
+      ko: 용어 사전
+    gender: n
+    plural: die Glossare
+  - german: das Quellenverzeichnis, -se
+    translation:
+      en: bibliography / list of sources
+      ko: 참고 문헌 목록
+    gender: n
+    plural: die Quellenverzeichnisse
+  - german: die Grafik, -en
+    translation:
+      en: graphic / chart
+      ko: 그래픽 / 도표
+    gender: f
+    plural: die Grafiken
+  - german: die Bildunterschrift, -en
+    translation:
+      en: caption (under an image)
+      ko: 사진 설명
+    gender: f
+    plural: die Bildunterschriften
+  - german: das Zitat, -e
+    translation:
+      en: quotation / quote
+      ko: 인용문
+    gender: n
+    plural: die Zitate
+  - german: der Leitartikel, -
+    translation:
+      en: editorial
+      ko: 사설
+    gender: m
+    plural: die Leitartikel
+  - german: die Kolumne, -n
+    translation:
+      en: column (newspaper)
+      ko: 칼럼
+    gender: f
+    plural: die Kolumnen
+  - german: das Impressum, Impressen
+    translation:
+      en: imprint / publication details
+      ko: 판권 / 발행인 정보
+    gender: n
+    plural: die Impressen
+  - german: das Vorwort, -e
+    translation:
+      en: foreword / preface
+      ko: 머리말 / 서문
+    gender: n
+    plural: die Vorworte
+  - german: das Nachwort, -e
+    translation:
+      en: afterword / epilogue
+      ko: 후기 / 발문
+    gender: n
+    plural: die Nachworte
 
 - id: 3_connectors_and_transition_words
   label:
@@ -238,3 +388,142 @@ categories:
       ko: 그에 반해
     gender: null
     plural: null
+  - german: demnach
+    translation:
+      en: accordingly / thus
+      ko: 따라서
+    gender: null
+    plural: null
+  - german: hingegen
+    translation:
+      en: on the other hand / whereas
+      ko: 반면에
+    gender: null
+    plural: null
+  - german: infolgedessen
+    translation:
+      en: as a result of that
+      ko: 그 결과
+    gender: null
+    plural: null
+  - german: nichtsdestotrotz
+    translation:
+      en: nonetheless / nevertheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+  - german: zumal
+    translation:
+      en: especially since / given that
+      ko: 특히 ~이므로
+    gender: null
+    plural: null
+  - german: wobei
+    translation:
+      en: whereby / although
+      ko: 그런데 / ~하는 가운데
+    gender: null
+    plural: null
+  - german: insofern
+    translation:
+      en: insofar / to that extent
+      ko: 그런 점에서
+    gender: null
+    plural: null
+  - german: demgegenüber
+    translation:
+      en: in contrast / as opposed to that
+      ko: 그에 비해
+    gender: null
+    plural: null
+  - german: abgesehen davon
+    translation:
+      en: apart from that
+      ko: 그것을 제외하면
+    gender: null
+    plural: null
+  - german: beziehungsweise (bzw.)
+    translation:
+      en: respectively / or rather
+      ko: 또는 / 내지는
+    gender: null
+    plural: null
+
+- id: 4_comprehension_and_analysis
+  label:
+    en: 4. Comprehension and Analysis
+    ko: 4. 이해와 분석
+  type: vocabulary
+  words:
+  - german: analysieren
+    translation:
+      en: to analyze
+      ko: 분석하다
+    gender: null
+    plural: null
+  - german: interpretieren
+    translation:
+      en: to interpret
+      ko: 해석하다
+    gender: null
+    plural: null
+  - german: vergleichen
+    translation:
+      en: to compare
+      ko: 비교하다
+    gender: null
+    plural: null
+  - german: bewerten
+    translation:
+      en: to evaluate / to assess
+      ko: 평가하다
+    gender: null
+    plural: null
+  - german: widerlegen
+    translation:
+      en: to refute / to disprove
+      ko: 반박하다
+    gender: null
+    plural: null
+  - german: belegen
+    translation:
+      en: to substantiate / to provide evidence
+      ko: 입증하다 / 근거를 제시하다
+    gender: null
+    plural: null
+  - german: die Schlussfolgerung, -en
+    translation:
+      en: conclusion / inference
+      ko: 결론 / 추론
+    gender: f
+    plural: die Schlussfolgerungen
+  - german: die Aussage, -n
+    translation:
+      en: statement
+      ko: 진술 / 발언
+    gender: f
+    plural: die Aussagen
+  - german: die Absicht, -en
+    translation:
+      en: intention / purpose
+      ko: 의도 / 목적
+    gender: f
+    plural: die Absichten
+  - german: die Ironie
+    translation:
+      en: irony
+      ko: 아이러니 / 반어
+    gender: f
+    plural: null
+  - german: die Metapher, -n
+    translation:
+      en: metaphor
+      ko: 은유
+    gender: f
+    plural: die Metaphern
+  - german: der Vergleich, -e
+    translation:
+      en: comparison
+      ko: 비교
+    gender: m
+    plural: die Vergleiche

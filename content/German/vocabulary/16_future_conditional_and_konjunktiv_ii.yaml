@@ -88,6 +88,78 @@ categories:
     plural: null
     notes:
       en: "Synthetic preferred. Ich wuesste gern, ob..."
+  - german: "braechte"
+    translation:
+      en: would bring (Konj. II of bringen)
+      ko: 가져올 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Das braechte nichts."
+  - german: "ginge"
+    translation:
+      en: would go (Konj. II of gehen)
+      ko: 갈 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Wenn es nach mir ginge, ..."
+  - german: "liefe"
+    translation:
+      en: would run (Konj. II of laufen)
+      ko: 달릴 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Wenn alles gut liefe, ..."
+  - german: "fiele"
+    translation:
+      en: would fall (Konj. II of fallen)
+      ko: 떨어질 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Es fiele mir schwer, das zu sagen."
+  - german: "stuende"
+    translation:
+      en: would stand (Konj. II of stehen)
+      ko: 서 있을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Wenn es in meiner Macht stuende, ..."
+  - german: "hielte"
+    translation:
+      en: would hold (Konj. II of halten)
+      ko: 잡을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Ich hielte das fuer richtig."
+  - german: "bliebe"
+    translation:
+      en: would stay (Konj. II of bleiben)
+      ko: 머물 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Wenn es so bliebe, waere das gut."
+  - german: "finge"
+    translation:
+      en: would catch; would begin (Konj. II of fangen/anfangen)
+      ko: 잡을 텐데; 시작할 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Synthetic preferred. Ich finge am besten sofort an."
+  - german: "wollte"
+    translation:
+      en: would want (Konj. II of wollen)
+      ko: ~하고 싶을 텐데
+    gender: null
+    plural: null
+    notes:
+      en: "Identical to Praeteritum. Ich wollte, es waere anders."
 - id: conditional_expressions
   label:
     en: Conditional Expressions
@@ -150,6 +222,46 @@ categories:
     plural: null
     notes:
       en: "Wish intensifier. Wenn ich doch nur fliegen koennte!"
+  - german: sofern
+    translation:
+      en: provided that, as long as
+      ko: ~하는 한, ~라면
+    gender: null
+    plural: null
+    notes:
+      en: "More formal than wenn. Sofern Sie einverstanden sind, ..."
+  - german: vorausgesetzt
+    translation:
+      en: provided (that), assuming
+      ko: ~을 전제로, ~라는 조건하에
+    gender: null
+    plural: null
+    notes:
+      en: "Vorausgesetzt, dass alles klappt, ..."
+  - german: andernfalls
+    translation:
+      en: otherwise, failing that
+      ko: 그렇지 않으면
+    gender: null
+    plural: null
+    notes:
+      en: "Formal alternative to sonst. Andernfalls muessten wir absagen."
+  - german: im Falle
+    translation:
+      en: in the event (of)
+      ko: ~의 경우에
+    gender: null
+    plural: null
+    notes:
+      en: "Im Falle eines Notfalls rufen Sie die Polizei."
+  - german: unter der Bedingung
+    translation:
+      en: on the condition (that)
+      ko: ~이라는 조건으로
+    gender: null
+    plural: null
+    notes:
+      en: "Unter der Bedingung, dass Sie puenktlich kommen, ..."
 - id: polite_request_phrases
   label:
     en: Polite Request Phrases
@@ -362,3 +474,205 @@ categories:
     notes:
       en: "angenommen introduces hypothetical scenarios; literary/formal style"
       ko: "angenommen은 가정 시나리오 도입; 문어체/격식 표현"
+
+- id: future_tense_vocabulary
+  label:
+    en: Future Tense Vocabulary
+    ko: 미래 시제 어휘
+  type: vocabulary
+  words:
+  - german: die Zukunft
+    translation:
+      en: future
+      ko: 미래
+    gender: f
+    plural: null
+  - german: die Prognose, -n
+    translation:
+      en: forecast / prognosis
+      ko: 예측 / 전망
+    gender: f
+    plural: die Prognosen
+  - german: die Vorhersage, -n
+    translation:
+      en: prediction / forecast
+      ko: 예보 / 예측
+    gender: f
+    plural: die Vorhersagen
+  - german: kuenftig
+    translation:
+      en: future / forthcoming
+      ko: 향후의 / 미래의
+    gender: null
+    plural: null
+    notes:
+      en: "Kuenftig werde ich puenktlicher sein."
+  - german: demnaechst
+    translation:
+      en: soon / shortly / in the near future
+      ko: 조만간 / 가까운 미래에
+    gender: null
+    plural: null
+  - german: voraussichtlich
+    translation:
+      en: presumably / expected
+      ko: 아마 / 예상대로
+    gender: null
+    plural: null
+    notes:
+      en: "Voraussichtlich wird es morgen regnen."
+  - german: irgendwann
+    translation:
+      en: sometime / at some point
+      ko: 언젠가
+    gender: null
+    plural: null
+  - german: langfristig
+    translation:
+      en: long-term
+      ko: 장기적인
+    gender: null
+    plural: null
+  - german: kurzfristig
+    translation:
+      en: short-term
+      ko: 단기적인
+    gender: null
+    plural: null
+  - german: mittelfristig
+    translation:
+      en: medium-term
+      ko: 중기적인
+    gender: null
+    plural: null
+  - german: das Vorhaben, -
+    translation:
+      en: plan / intention / project
+      ko: 계획 / 의도
+    gender: n
+    plural: die Vorhaben
+  - german: die Absicht, -en
+    translation:
+      en: intention / purpose
+      ko: 의도 / 목적
+    gender: f
+    plural: die Absichten
+  - german: beabsichtigen
+    translation:
+      en: to intend / to plan
+      ko: 의도하다 / 계획하다
+    gender: null
+    plural: null
+    notes:
+      en: "Formal: Ich beabsichtige, naechstes Jahr umzuziehen."
+  - german: wahrscheinlich
+    translation:
+      en: probably / likely
+      ko: 아마도 / 아마
+    gender: null
+    plural: null
+    notes:
+      en: "Er wird wahrscheinlich kommen. Common with Futur I."
+
+- id: formal_opinions_and_hedging
+  label:
+    en: Formal Opinions and Hedging
+    ko: 격식 의견 표현과 완곡 어법
+  type: vocabulary
+  words:
+  - german: "Meines Erachtens ..."
+    translation:
+      en: In my opinion ...
+      ko: 제 견해로는 ...
+    gender: null
+    plural: null
+    notes:
+      en: "Formal; abbreviated as m.E. in writing."
+  - german: "Es liesse sich argumentieren, dass ..."
+    translation:
+      en: It could be argued that ...
+      ko: ~라고 주장할 수 있을 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "Academic hedging with liesse sich + Infinitiv."
+  - german: "Es waere denkbar, dass ..."
+    translation:
+      en: It would be conceivable that ...
+      ko: ~라고 생각할 수 있을 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "Hedging expression for academic or formal contexts."
+  - german: "Es duerfte klar sein, dass ..."
+    translation:
+      en: It should be clear that ...
+      ko: ~이 분명할 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "duerfte for probability/likelihood."
+  - german: "Ich wuerde behaupten, dass ..."
+    translation:
+      en: I would claim that ...
+      ko: ~라고 주장하겠습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "Hedged claim with wuerde + Infinitiv."
+  - german: "Es koennte sein, dass ..."
+    translation:
+      en: It could be that ...
+      ko: ~일 수도 있다.
+    gender: null
+    plural: null
+    notes:
+      en: "koennte for tentative possibility."
+  - german: "Es waere wuenschenswert, dass ..."
+    translation:
+      en: It would be desirable that ...
+      ko: ~이 바람직할 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "Formal suggestion using waere + wuenschenswert."
+  - german: "Ich muesste allerdings darauf hinweisen, dass ..."
+    translation:
+      en: I would, however, have to point out that ...
+      ko: 다만 ~을 지적해야 할 것 같습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "Polite contradiction with muesste + allerdings."
+  - german: "Es waere ratsam, ..."
+    translation:
+      en: It would be advisable ...
+      ko: ~하는 것이 좋을 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "waere ratsam = formal advice pattern."
+  - german: "Anstatt zu warten, sollte man handeln."
+    translation:
+      en: Instead of waiting, one should act.
+      ko: 기다리는 대신 행동해야 한다.
+    gender: null
+    plural: null
+    notes:
+      en: "anstatt + zu + Inf combined with sollte."
+  - german: "Es bliebe noch zu klaeren, ob ..."
+    translation:
+      en: It would remain to be clarified whether ...
+      ko: ~인지 아직 명확히 해야 할 것이다.
+    gender: null
+    plural: null
+    notes:
+      en: "bliebe + zu + Infinitiv for academic hedging."
+  - german: "Gesetzt den Fall, dass ..."
+    translation:
+      en: Supposing that ... / In the event that ...
+      ko: ~이라고 가정할 때, ...
+    gender: null
+    plural: null
+    notes:
+      en: "Very formal conditional introduction; literary style."

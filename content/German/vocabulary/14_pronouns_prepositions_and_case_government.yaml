@@ -96,6 +96,94 @@ categories:
     plural: null
     notes:
       en: "Dative reflexive. Sie macht sich Sorgen."
+  - german: sich anziehen
+    translation:
+      en: to get dressed
+      ko: 옷을 입다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Separable: Ich ziehe mich an."
+  - german: sich ausruhen
+    translation:
+      en: to rest, to relax
+      ko: 쉬다, 휴식을 취하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Separable: Ruh dich aus!"
+  - german: sich befinden
+    translation:
+      en: to be located
+      ko: 위치하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Das Hotel befindet sich im Zentrum."
+  - german: sich beschweren
+    translation:
+      en: to complain
+      ko: 불평하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Er beschwert sich ueber den Laerm."
+  - german: sich verlieben
+    translation:
+      en: to fall in love
+      ko: 사랑에 빠지다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Sie hat sich in ihn verliebt."
+  - german: sich unterhalten
+    translation:
+      en: to converse, to chat
+      ko: 대화하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Wir unterhalten uns ueber Musik."
+  - german: sich treffen
+    translation:
+      en: to meet (each other)
+      ko: 만나다 (서로)
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Wir treffen uns um 3 Uhr."
+  - german: sich verabschieden
+    translation:
+      en: to say goodbye
+      ko: 작별 인사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Accusative reflexive. Er verabschiedet sich von seiner Familie."
+  - german: sich etwas merken
+    translation:
+      en: to memorize, to remember
+      ko: 기억하다, 외우다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive (etwas = ACC object). Merk dir das!"
+  - german: sich etwas leisten
+    translation:
+      en: to afford something
+      ko: ~을 감당하다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive. Ich kann mir das nicht leisten."
+  - german: sich die Zaehne putzen
+    translation:
+      en: to brush one's teeth
+      ko: 이를 닦다
+    gender: null
+    plural: null
+    notes:
+      en: "Dative reflexive (die Zaehne = ACC). Ich putze mir die Zaehne."
 - id: prepositional_verbs_accusative
   label:
     en: Prepositional Verbs (Accusative)
@@ -198,6 +286,86 @@ categories:
     plural: null
     notes:
       en: "Ich gewoehne mich an das Klima."
+  - german: sich bewerben um + Akk.
+    translation:
+      en: to apply for
+      ko: ~에 지원하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er bewirbt sich um die Stelle."
+  - german: verzichten auf + Akk.
+    translation:
+      en: to give up, to do without
+      ko: ~을 포기하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich verzichte auf das Dessert."
+  - german: sich verlassen auf + Akk.
+    translation:
+      en: to rely on
+      ko: ~에 의지하다
+    gender: null
+    plural: null
+    notes:
+      en: "Du kannst dich auf mich verlassen."
+  - german: sich vorbereiten auf + Akk.
+    translation:
+      en: to prepare for
+      ko: ~을 준비하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie bereitet sich auf die Pruefung vor."
+  - german: sich konzentrieren auf + Akk.
+    translation:
+      en: to concentrate on
+      ko: ~에 집중하다
+    gender: null
+    plural: null
+    notes:
+      en: "Konzentrier dich auf die Aufgabe!"
+  - german: sich entscheiden fuer + Akk.
+    translation:
+      en: to decide on / to opt for
+      ko: ~을 선택하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er hat sich fuer das rote Auto entschieden."
+  - german: kaempfen fuer + Akk.
+    translation:
+      en: to fight for
+      ko: ~을 위해 싸우다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie kaempft fuer Gerechtigkeit."
+  - german: sorgen fuer + Akk.
+    translation:
+      en: to take care of, to ensure
+      ko: ~을 돌보다, ~을 보장하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er sorgt fuer seine Familie."
+  - german: protestieren gegen + Akk.
+    translation:
+      en: to protest against
+      ko: ~에 항의하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie protestieren gegen die Entscheidung."
+  - german: sich entschuldigen fuer + Akk.
+    translation:
+      en: to apologize for
+      ko: ~에 대해 사과하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich entschuldige mich fuer den Fehler."
 - id: prepositional_verbs_dative
   label:
     en: Prepositional Verbs (Dative)
@@ -284,3 +452,217 @@ categories:
     plural: null
     notes:
       en: "Wir gratulieren dir zum Geburtstag!"
+  - german: warnen vor + Dat.
+    translation:
+      en: to warn about
+      ko: ~에 대해 경고하다
+    gender: null
+    plural: null
+    notes:
+      en: "Der Arzt warnt vor den Gefahren."
+  - german: leiden an + Dat.
+    translation:
+      en: to suffer from (illness)
+      ko: (질병으로) 고통받다
+    gender: null
+    plural: null
+    notes:
+      en: "Er leidet an einer Krankheit."
+  - german: leiden unter + Dat.
+    translation:
+      en: to suffer from (situation)
+      ko: (상황으로) 고통받다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie leidet unter dem Stress."
+  - german: bestehen aus + Dat.
+    translation:
+      en: to consist of
+      ko: ~로 구성되다
+    gender: null
+    plural: null
+    notes:
+      en: "Das Team besteht aus fuenf Personen."
+  - german: sich erholen von + Dat.
+    translation:
+      en: to recover from
+      ko: ~에서 회복하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er erholt sich von der Operation."
+  - german: sich trennen von + Dat.
+    translation:
+      en: to separate from
+      ko: ~와 헤어지다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie hat sich von ihrem Freund getrennt."
+  - german: sich verabreden mit + Dat.
+    translation:
+      en: to make an appointment with
+      ko: ~와 약속을 잡다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich verabrede mich mit meiner Freundin."
+  - german: anfangen mit + Dat.
+    translation:
+      en: to start with
+      ko: ~을 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Fangen wir mit der ersten Aufgabe an!"
+  - german: aufhoeren mit + Dat.
+    translation:
+      en: to stop doing
+      ko: ~을 그만두다
+    gender: null
+    plural: null
+    notes:
+      en: "Hoer mit dem Laerm auf!"
+  - german: rechnen mit + Dat.
+    translation:
+      en: to count on, to expect
+      ko: ~을 예상하다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir muessen mit Verspaetungen rechnen."
+  - german: sich bedanken bei + Dat.
+    translation:
+      en: to thank (someone)
+      ko: ~에게 감사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich bedanke mich bei Ihnen fuer die Hilfe."
+  - german: sich erkundigen nach + Dat.
+    translation:
+      en: to inquire about
+      ko: ~에 대해 문의하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie erkundigt sich nach dem Preis."
+  - german: "zweifeln an + Dat."
+    translation:
+      en: to doubt
+      ko: ~을 의심하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich zweifle an seiner Ehrlichkeit."
+- id: wo_da_compounds
+  label:
+    en: Wo-Compounds and Da-Compounds
+    ko: Wo- 복합어와 Da- 복합어
+  type: vocabulary
+  words:
+  - german: woran
+    translation:
+      en: on/at what, what ... of
+      ko: 무엇에, 무엇을
+    gender: null
+    plural: null
+    notes:
+      en: "Woran denkst du? (What are you thinking of?)"
+  - german: worauf
+    translation:
+      en: on what, for what
+      ko: 무엇 위에, 무엇을
+    gender: null
+    plural: null
+    notes:
+      en: "Worauf wartest du? (What are you waiting for?)"
+  - german: "worueber"
+    translation:
+      en: about what
+      ko: 무엇에 대해
+    gender: null
+    plural: null
+    notes:
+      en: "Worueber sprecht ihr? (What are you talking about?)"
+  - german: wovon
+    translation:
+      en: of/from what
+      ko: 무엇으로부터
+    gender: null
+    plural: null
+    notes:
+      en: "Wovon traeumst du? (What do you dream of?)"
+  - german: "wofuer"
+    translation:
+      en: for what
+      ko: 무엇을 위해
+    gender: null
+    plural: null
+    notes:
+      en: "Wofuer interessierst du dich? (What are you interested in?)"
+  - german: womit
+    translation:
+      en: with what
+      ko: 무엇으로
+    gender: null
+    plural: null
+    notes:
+      en: "Womit beschaeftigst du dich? (What are you occupied with?)"
+  - german: daran
+    translation:
+      en: on/at that, of that
+      ko: 그것에
+    gender: null
+    plural: null
+    notes:
+      en: "Ich denke daran. (I'm thinking of that.)"
+  - german: darauf
+    translation:
+      en: on that, for that
+      ko: 그것 위에, 그것을
+    gender: null
+    plural: null
+    notes:
+      en: "Ich freue mich darauf. (I'm looking forward to it.)"
+  - german: "darueber"
+    translation:
+      en: about that
+      ko: 그것에 대해
+    gender: null
+    plural: null
+    notes:
+      en: "Wir sprechen darueber. (We're talking about it.)"
+  - german: davon
+    translation:
+      en: of/from that
+      ko: 그것으로부터
+    gender: null
+    plural: null
+    notes:
+      en: "Ich traeume davon. (I dream of it.)"
+  - german: "dafuer"
+    translation:
+      en: for that
+      ko: 그것을 위해
+    gender: null
+    plural: null
+    notes:
+      en: "Er interessiert sich dafuer. (He is interested in it.)"
+  - german: damit
+    translation:
+      en: with that
+      ko: 그것으로
+    gender: null
+    plural: null
+    notes:
+      en: "Ich beschaeftige mich damit. (I occupy myself with it.)"
+  - german: davor
+    translation:
+      en: in front of that, before that
+      ko: 그것 앞에
+    gender: null
+    plural: null
+    notes:
+      en: "Ich habe Angst davor. (I'm afraid of it.)"

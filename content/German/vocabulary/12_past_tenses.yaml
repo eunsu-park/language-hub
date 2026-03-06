@@ -200,6 +200,78 @@ categories:
     plural: null
     notes:
       en: "Auxiliary: haben. Vowel change: i -> u. Sie hat ein Lied gesungen."
+  - german: "schliessen — schloss — geschlossen"
+    translation:
+      en: to close, to lock
+      ko: 닫다, 잠그다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: ie -> o."
+  - german: "geniessen — genoss — genossen"
+    translation:
+      en: to enjoy
+      ko: 즐기다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: ie -> o."
+  - german: bieten — bot — geboten
+    translation:
+      en: to offer
+      ko: 제공하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: ie -> o."
+  - german: "luegen — log — gelogen"
+    translation:
+      en: to lie (tell untruth)
+      ko: 거짓말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: ue -> o."
+  - german: "giessen — goss — gegossen"
+    translation:
+      en: to pour, to water
+      ko: 붓다, 물을 주다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Sie hat die Blumen gegossen."
+  - german: "stehlen — stahl — gestohlen"
+    translation:
+      en: to steal
+      ko: 훔치다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: e -> o."
+  - german: "empfangen — empfing — empfangen"
+    translation:
+      en: to receive, to welcome
+      ko: 받다, 맞이하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Inseparable prefix emp-. No ge- in Partizip II."
+  - german: wachsen — wuchs — gewachsen
+    translation:
+      en: to grow
+      ko: 자라다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (change of state). Vowel change: a -> u."
+  - german: "stossen — stiess — gestossen"
+    translation:
+      en: to push, to bump
+      ko: 밀다, 부딪치다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Vowel change: o -> ie."
 - id: time_expressions_for_past
   label:
     en: Time Expressions for Past
@@ -310,6 +382,78 @@ categories:
     plural: null
     notes:
       en: "Used for single past events; verb at end. Als ich jung war, ..."
+  - german: vor drei Tagen
+    translation:
+      en: three days ago
+      ko: 3일 전에
+    gender: null
+    plural: null
+    notes:
+      en: "vor + dative for 'ago' pattern."
+  - german: "ploetzlich"
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+    plural: null
+    notes:
+      en: "Ploetzlich hat es angefangen zu regnen."
+  - german: sofort
+    translation:
+      en: immediately
+      ko: 즉시
+    gender: null
+    plural: null
+    notes:
+      en: "Er hat sofort geantwortet."
+  - german: inzwischen
+    translation:
+      en: meanwhile, in the meantime
+      ko: 그동안, 한편
+    gender: null
+    plural: null
+    notes:
+      en: "Inzwischen hat sich viel veraendert."
+  - german: "schliesslich"
+    translation:
+      en: finally, in the end
+      ko: 결국, 마침내
+    gender: null
+    plural: null
+    notes:
+      en: "Schliesslich hat er die Pruefung bestanden."
+  - german: "zunaechst"
+    translation:
+      en: at first, initially
+      ko: 처음에, 우선
+    gender: null
+    plural: null
+    notes:
+      en: "Zunaechst war alles ruhig."
+  - german: seitdem
+    translation:
+      en: since then
+      ko: 그 이후로
+    gender: null
+    plural: null
+    notes:
+      en: "Seitdem habe ich nichts mehr gehoert."
+  - german: danach
+    translation:
+      en: after that, afterwards
+      ko: 그 후에
+    gender: null
+    plural: null
+    notes:
+      en: "Danach sind wir nach Hause gegangen."
+  - german: "waehrenddessen"
+    translation:
+      en: meanwhile, in the meantime
+      ko: 그러는 동안
+    gender: null
+    plural: null
+    notes:
+      en: "Waehrenddessen hat er geschlafen."
 - id: haben_sein_auxiliary_selection
   label:
     en: Haben/Sein Auxiliary Selection Verbs
@@ -380,3 +524,145 @@ categories:
     plural: null
     notes:
       en: "Auxiliary: haben (reflexive verbs always use haben)."
+  - german: "umziehen — zog um — umgezogen"
+    translation:
+      en: to move (house)
+      ko: 이사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (movement). Er ist letzte Woche umgezogen."
+  - german: "verschwinden — verschwand — verschwunden"
+    translation:
+      en: to disappear
+      ko: 사라지다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (change of state). Die Katze ist verschwunden."
+  - german: "entstehen — entstand — entstanden"
+    translation:
+      en: to arise, to come into being
+      ko: 생기다, 발생하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (change of state). Inseparable prefix."
+  - german: "gelingen — gelang — gelungen"
+    translation:
+      en: to succeed (impersonal)
+      ko: 성공하다 (비인칭)
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein. Es ist mir gelungen."
+  - german: "geschehen — geschah — geschehen"
+    translation:
+      en: to happen, to occur
+      ko: 일어나다, 발생하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein. Was ist geschehen?"
+- id: common_weak_verbs_partizip_ii
+  label:
+    en: Common Weak (Regular) Verbs (with Partizip II)
+    ko: 주요 약변화(규칙) 동사 (과거분사 포함)
+  type: vocabulary
+  words:
+  - german: machen — machte — gemacht
+    translation:
+      en: to make, to do
+      ko: 만들다, 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Regular -t ending in Partizip II."
+  - german: spielen — spielte — gespielt
+    translation:
+      en: to play
+      ko: 놀다, 연주하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Die Kinder haben im Garten gespielt."
+  - german: lernen — lernte — gelernt
+    translation:
+      en: to learn, to study
+      ko: 배우다, 공부하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Ich habe Deutsch gelernt."
+  - german: kaufen — kaufte — gekauft
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Sie hat ein neues Kleid gekauft."
+  - german: arbeiten — arbeitete — gearbeitet
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Extra -e- before -t (stem ends in -t)."
+  - german: wohnen — wohnte — gewohnt
+    translation:
+      en: to live, to reside
+      ko: 살다, 거주하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Frueher habe ich in Berlin gewohnt."
+  - german: reisen — reiste — gereist
+    translation:
+      en: to travel
+      ko: 여행하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (movement). Er ist nach Japan gereist."
+  - german: wandern — wanderte — gewandert
+    translation:
+      en: to hike
+      ko: 하이킹하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: sein (movement). Wir sind durch den Wald gewandert."
+  - german: "oeffnen — oeffnete — geoeffnet"
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Extra -e- before -t (stem ends in -n)."
+  - german: "hoeren — hoerte — gehoert"
+    translation:
+      en: to hear, to listen
+      ko: 듣다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Ich habe Musik gehoert."
+  - german: zeigen — zeigte — gezeigt
+    translation:
+      en: to show
+      ko: 보여주다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Er hat mir die Fotos gezeigt."
+  - german: "erklaeren — erklaerte — erklaert"
+    translation:
+      en: to explain
+      ko: 설명하다
+    gender: null
+    plural: null
+    notes:
+      en: "Auxiliary: haben. Inseparable prefix er- (no ge-). Sie hat die Grammatik erklaert."
