@@ -1,0 +1,281 @@
+lesson: 18_Kanji_System_and_Strategies
+lesson_number: 18
+jlpt: N2
+categories:
+- id: kanji_components
+  label:
+    en: Kanji Components
+    ko: 한자 구성 요소
+  type: vocabulary
+  words:
+  - japanese: 部首
+    reading: ぶしゅ
+    translation:
+      en: radical (kanji component)
+      ko: 부수 (한자 구성 요소)
+    gender: null
+    plural: null
+    notes:
+      en: "The official component used for dictionary classification"
+      ko: "사전 분류에 사용되는 공식 구성 요소"
+  - japanese: 偏
+    reading: へん
+    translation:
+      en: left-side radical
+      ko: 변 (왼쪽 부수)
+    gender: null
+    plural: null
+    notes:
+      en: "Radical that appears on the left side of a kanji"
+      ko: "한자의 왼쪽에 나타나는 부수"
+  - japanese: 旁
+    reading: つくり
+    translation:
+      en: right-side component
+      ko: 방 (오른쪽 구성 요소)
+    gender: null
+    plural: null
+  - japanese: 冠
+    reading: かんむり
+    translation:
+      en: top component
+      ko: 관 (윗부분 구성 요소)
+    gender: null
+    plural: null
+  - japanese: 脚
+    reading: あし
+    translation:
+      en: bottom component
+      ko: 각 (아랫부분 구성 요소)
+    gender: null
+    plural: null
+  - japanese: 構
+    reading: かまえ
+    translation:
+      en: enclosure component
+      ko: 구 (에워싸는 구성 요소)
+    gender: null
+    plural: null
+  - japanese: 象形文字
+    reading: しょうけいもじ
+    translation:
+      en: pictograph
+      ko: 상형문자
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji derived from stylized pictures of objects (e.g., 山, 川)"
+      ko: "사물의 양식화된 그림에서 유래한 한자 (예: 山, 川)"
+  - japanese: 指事文字
+    reading: しじもじ
+    translation:
+      en: ideograph
+      ko: 지사문자
+    gender: null
+    plural: null
+    notes:
+      en: "Abstract concepts shown visually (e.g., 上, 下)"
+      ko: "시각적으로 표현된 추상적 개념 (예: 上, 下)"
+  - japanese: 会意文字
+    reading: かいいもじ
+    translation:
+      en: compound ideograph
+      ko: 회의문자
+    gender: null
+    plural: null
+    notes:
+      en: "Two or more elements combined for meaning (e.g., 森 = 木+木+木)"
+      ko: "의미를 위해 두 개 이상의 요소가 결합 (예: 森 = 木+木+木)"
+  - japanese: 形声文字
+    reading: けいせいもじ
+    translation:
+      en: phono-semantic compound
+      ko: 형성문자
+    gender: null
+    plural: null
+    notes:
+      en: "Meaning part + sound part; ~80% of all kanji are this type"
+      ko: "의미 부분 + 음 부분; 전체 한자의 약 80%가 이 유형"
+  - japanese: 音符
+    reading: おんぷ
+    translation:
+      en: phonetic component
+      ko: 음부 (소리를 나타내는 부분)
+    gender: null
+    plural: null
+
+- id: reading_types
+  label:
+    en: Reading Types
+    ko: 읽기 유형
+  type: vocabulary
+  words:
+  - japanese: 音読み
+    reading: おんよみ
+    translation:
+      en: on'yomi (Sino-Japanese reading)
+      ko: 음독 (중국식 읽기)
+    gender: null
+    plural: null
+    notes:
+      en: "Chinese-derived pronunciation; used mainly in kanji compounds"
+      ko: "중국에서 유래한 발음; 주로 한자 복합어에 사용"
+  - japanese: 訓読み
+    reading: くんよみ
+    translation:
+      en: kun'yomi (native Japanese reading)
+      ko: 훈독 (일본 고유 읽기)
+    gender: null
+    plural: null
+    notes:
+      en: "Native Japanese reading; used when kanji stands alone or with okurigana"
+      ko: "일본 고유 읽기; 한자가 단독으로 또는 오쿠리가나와 함께 사용될 때"
+  - japanese: 熟字訓
+    reading: じゅくじくん
+    translation:
+      en: special compound reading
+      ko: 숙자훈 (특수 복합 읽기)
+    gender: null
+    plural: null
+    notes:
+      en: "Compound read as one native word (e.g., 大人 = おとな, not だいじん)"
+      ko: "하나의 고유어로 읽히는 복합어 (예: 大人 = おとな)"
+  - japanese: 名乗り
+    reading: なのり
+    translation:
+      en: name reading
+      ko: 이름 읽기
+    gender: null
+    plural: null
+    notes:
+      en: "Special readings used only in personal names"
+      ko: "인명에서만 사용되는 특수 읽기"
+  - japanese: 当て字
+    reading: あてじ
+    translation:
+      en: phonetic kanji (ateji)
+      ko: 당자 (음을 빌려 쓴 한자)
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji chosen for sound, not meaning (e.g., 寿司 = すし)"
+      ko: "의미가 아닌 소리를 위해 선택된 한자 (예: 寿司 = すし)"
+  - japanese: 送り仮名
+    reading: おくりがな
+    translation:
+      en: okurigana (trailing kana)
+      ko: 오쿠리가나 (한자 뒤의 히라가나)
+    gender: null
+    plural: null
+    notes:
+      en: "Hiragana endings attached to kanji (e.g., 食べる)"
+      ko: "한자에 붙는 히라가나 어미 (예: 食べる)"
+
+- id: kanji_study_terms
+  label:
+    en: Kanji Study Terms
+    ko: 한자 학습 용어
+  type: vocabulary
+  words:
+  - japanese: 熟語
+    reading: じゅくご
+    translation:
+      en: kanji compound word
+      ko: 숙어 (한자 복합어)
+    gender: null
+    plural: null
+    notes:
+      en: "A word formed by combining two or more kanji"
+      ko: "두 개 이상의 한자를 결합하여 만든 단어"
+  - japanese: 常用漢字
+    reading: じょうようかんじ
+    translation:
+      en: jouyou kanji (standard-use kanji)
+      ko: 상용한자 (일상 사용 한자)
+    gender: null
+    plural: null
+    notes:
+      en: "2,136 kanji designated for daily use by the Japanese government"
+      ko: "일본 정부가 일상 사용으로 지정한 2,136자의 한자"
+  - japanese: 画数
+    reading: かくすう
+    translation:
+      en: stroke count
+      ko: 획수
+    gender: null
+    plural: null
+  - japanese: 筆順
+    reading: ひつじゅん
+    translation:
+      en: stroke order
+      ko: 필순
+    gender: null
+    plural: null
+  - japanese: 間隔反復
+    reading: かんかくはんぷく
+    translation:
+      en: spaced repetition
+      ko: 간격 반복
+    gender: null
+    plural: null
+    notes:
+      en: "Study method where review intervals increase over time"
+      ko: "복습 간격이 시간이 지남에 따라 늘어나는 학습법"
+  - japanese: 漢字辞典
+    reading: かんじじてん
+    translation:
+      en: kanji dictionary
+      ko: 한자 사전
+    gender: null
+    plural: null
+  - japanese: 接頭辞
+    reading: せっとうじ
+    translation:
+      en: prefix
+      ko: 접두사
+    gender: null
+    plural: null
+    notes:
+      en: "Common kanji prefixes: 不 (un-), 無 (without), 非 (non-), 再 (re-)"
+      ko: "주요 한자 접두사: 不 (불), 無 (무), 非 (비), 再 (재)"
+  - japanese: 接尾辞
+    reading: せつびじ
+    translation:
+      en: suffix
+      ko: 접미사
+    gender: null
+    plural: null
+    notes:
+      en: "Common kanji suffixes: 的 (-tic), 化 (-ize), 性 (-ity), 者 (person)"
+      ko: "주요 한자 접미사: 的 (-적), 化 (-화), 性 (-성), 者 (-자)"
+  - japanese: 意味
+    reading: いみ
+    translation:
+      en: meaning
+      ko: 의미
+    gender: null
+    plural: null
+  - japanese: 読み方
+    reading: よみかた
+    translation:
+      en: way of reading
+      ko: 읽는 방법
+    gender: null
+    plural: null
+  - japanese: 漢字検定
+    reading: かんじけんてい
+    translation:
+      en: Kanji Aptitude Test
+      ko: 한자 능력 검정 시험
+    gender: null
+    plural: null
+    notes:
+      en: "Also called 漢検 (Kanken); tests kanji knowledge for native speakers"
+      ko: "漢検(간켄)이라고도 함; 일본인을 위한 한자 능력 시험"
+  - japanese: 書き取り
+    reading: かきとり
+    translation:
+      en: kanji writing practice / dictation
+      ko: 한자 쓰기 연습 / 받아쓰기
+    gender: null
+    plural: null

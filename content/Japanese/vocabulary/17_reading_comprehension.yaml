@@ -1,0 +1,342 @@
+lesson: 17_Reading_Comprehension
+lesson_number: 17
+jlpt: N2
+categories:
+- id: text_type_vocabulary
+  label:
+    en: Text Type Vocabulary
+    ko: 텍스트 유형 어휘
+  type: vocabulary
+  words:
+  - japanese: 新聞記事
+    reading: しんぶんきじ
+    translation:
+      en: newspaper article
+      ko: 신문 기사
+    gender: null
+    plural: null
+    notes:
+      en: "One of the main text types covered in reading comprehension."
+      ko: "독해에서 다루는 주요 텍스트 유형 중 하나."
+  - japanese: 論説文
+    reading: ろんせつぶん
+    translation:
+      en: essay, opinion piece
+      ko: 논설문
+    gender: null
+    plural: null
+    notes:
+      en: "Opinion-based writing following 起承転結 structure."
+      ko: "起承転結 구조를 따르는 의견 기반 글쓰기."
+  - japanese: 見出し
+    reading: みだし
+    translation:
+      en: headline, heading
+      ko: 표제, 제목
+    gender: null
+    plural: null
+    notes:
+      en: "Newspaper headlines use compressed style, often omitting particles."
+      ko: "신문 제목은 압축된 스타일을 사용하며 조사를 자주 생략."
+  - japanese: 政府
+    reading: せいふ
+    translation:
+      en: government
+      ko: 정부
+    gender: null
+    plural: null
+    notes:
+      en: "Common news vocabulary. 政府が発表した."
+      ko: "일반적인 뉴스 어휘. 政府が発表した."
+  - japanese: 首相
+    reading: しゅしょう
+    translation:
+      en: prime minister
+      ko: 수상, 총리
+    gender: null
+    plural: null
+    notes:
+      en: "Headline pattern: 首相、訪米へ (PM to visit the US)."
+      ko: "제목 패턴: 首相、訪米へ (수상, 방미 예정)."
+  - japanese: 発表
+    reading: はっぴょう
+    translation:
+      en: announcement, presentation
+      ko: 발표
+    gender: null
+    plural: null
+    notes:
+      en: "Commonly used in passive voice in news: 計画が発表された."
+      ko: "뉴스에서 수동태로 자주 사용: 計画が発表された."
+  - japanese: 調査
+    reading: ちょうさ
+    translation:
+      en: investigation, survey, research
+      ko: 조사, 연구
+    gender: null
+    plural: null
+    notes:
+      en: "調査によると... (According to the survey...)."
+      ko: "調査によると... (조사에 따르면...)."
+  - japanese: 影響
+    reading: えいきょう
+    translation:
+      en: influence, impact, effect
+      ko: 영향
+    gender: null
+    plural: null
+    notes:
+      en: "影響を与える (to influence), 影響を受ける (to be affected)."
+      ko: "影響を与える (영향을 주다), 影響を受ける (영향을 받다)."
+  - japanese: 経済
+    reading: けいざい
+    translation:
+      en: economy, economics
+      ko: 경제
+    gender: null
+    plural: null
+    notes:
+      en: "経済成長 (economic growth), 経済的 (economical)."
+      ko: "経済成長 (경제 성장), 経済的 (경제적)."
+  - japanese: 増加
+    reading: ぞうか
+    translation:
+      en: increase
+      ko: 증가
+    gender: null
+    plural: null
+    notes:
+      en: "Opposite: 減少 (げんしょう, decrease). する-verb: 増加する."
+      ko: "반대: 減少 (げんしょう, 감소). する동사: 増加する."
+  - japanese: 減少
+    reading: げんしょう
+    translation:
+      en: decrease, decline
+      ko: 감소
+    gender: null
+    plural: null
+    notes:
+      en: "Opposite: 増加 (ぞうか, increase). する-verb: 減少する."
+      ko: "반대: 増加 (ぞうか, 증가). する동사: 減少する."
+  - japanese: 対策
+    reading: たいさく
+    translation:
+      en: countermeasure, measure, solution
+      ko: 대책
+    gender: null
+    plural: null
+    notes:
+      en: "対策を立てる (to devise a countermeasure)."
+      ko: "対策を立てる (대책을 세우다)."
+- id: reading_strategy_terms
+  label:
+    en: Reading Strategy Terms
+    ko: 독해 전략 용어
+  type: vocabulary
+  words:
+  - japanese: 読解
+    reading: どっかい
+    translation:
+      en: reading comprehension
+      ko: 독해
+    gender: null
+    plural: null
+    notes:
+      en: "The skill of understanding written text. JLPT section name."
+      ko: "문어 텍스트를 이해하는 기술. JLPT 시험 섹션명."
+  - japanese: 主旨
+    reading: しゅし
+    translation:
+      en: main point, gist, thesis
+      ko: 주지, 요지
+    gender: null
+    plural: null
+    notes:
+      en: "Main idea question signal: この文章の主旨は何ですか."
+      ko: "주제 문제 신호: この文章の主旨は何ですか."
+  - japanese: 筆者
+    reading: ひっしゃ
+    translation:
+      en: author, writer
+      ko: 필자, 저자
+    gender: null
+    plural: null
+    notes:
+      en: "Used in reading comprehension questions: 筆者が最も言いたいことは."
+      ko: "독해 문제에서 사용: 筆者が最も言いたいことは."
+  - japanese: 起承転結
+    reading: きしょうてんけつ
+    translation:
+      en: four-part essay structure (intro-development-turn-conclusion)
+      ko: 기승전결 (서론-전개-전환-결론)
+    gender: null
+    plural: null
+    notes:
+      en: "Classic Japanese essay structure. The 転 (turn) often contains the key insight."
+      ko: "고전적 일본 에세이 구조. 転 (전환)에 핵심 통찰이 포함되는 경우가 많음."
+  - japanese: 精読
+    reading: せいどく
+    translation:
+      en: close reading, careful reading
+      ko: 정독
+    gender: null
+    plural: null
+    notes:
+      en: "Opposite of scanning. Read every detail for full understanding."
+      ko: "훑어읽기의 반대. 완전한 이해를 위해 모든 세부사항을 읽음."
+  - japanese: 拾い読み
+    reading: ひろいよみ
+    translation:
+      en: scanning, skimming
+      ko: 훑어읽기, 발췌독
+    gender: null
+    plural: null
+    notes:
+      en: "Finding specific information quickly without reading every word."
+      ko: "모든 단어를 읽지 않고 특정 정보를 빠르게 찾기."
+  - japanese: 主張
+    reading: しゅちょう
+    translation:
+      en: claim, assertion, argument
+      ko: 주장
+    gender: null
+    plural: null
+    notes:
+      en: "筆者の主張 (the author's argument). する-verb: 主張する."
+      ko: "筆者の主張 (저자의 주장). する동사: 主張する."
+  - japanese: 根拠
+    reading: こんきょ
+    translation:
+      en: basis, grounds, evidence
+      ko: 근거
+    gender: null
+    plural: null
+    notes:
+      en: "根拠を示す (to present evidence)."
+      ko: "根拠を示す (근거를 제시하다)."
+  - japanese: 観点
+    reading: かんてん
+    translation:
+      en: viewpoint, perspective
+      ko: 관점
+    gender: null
+    plural: null
+    notes:
+      en: "Different from 視点 (してん) which is more physical/literal point of view."
+      ko: "視点 (してん)과 다름. 視点은 더 물리적/직역적 시점."
+  - japanese: 傾向
+    reading: けいこう
+    translation:
+      en: tendency, trend
+      ko: 경향
+    gender: null
+    plural: null
+    notes:
+      en: "傾向がある (there is a tendency). Common in essay analysis."
+      ko: "傾向がある (경향이 있다). 에세이 분석에서 자주 사용."
+- id: connectors
+  label:
+    en: Connectors and Logical Flow Markers
+    ko: 접속사와 논리 흐름 표지
+  type: vocabulary
+  words:
+  - japanese: しかし
+    reading: null
+    translation:
+      en: however, but (formal contrast)
+      ko: 그러나, 하지만 (격식 대조)
+    gender: null
+    plural: null
+    notes:
+      en: "Signals contrast. More formal than でも. Common in essays."
+      ko: "대조를 알림. でも보다 격식적. 에세이에서 자주 사용."
+  - japanese: したがって
+    reading: null
+    translation:
+      en: therefore, consequently
+      ko: 따라서, 그러므로
+    gender: null
+    plural: null
+    notes:
+      en: "Signals a conclusion or logical consequence."
+      ko: "결론이나 논리적 결과를 알림."
+  - japanese: さらに
+    reading: null
+    translation:
+      en: moreover, furthermore, additionally
+      ko: 더욱이, 게다가
+    gender: null
+    plural: null
+    notes:
+      en: "Adds more information. Similar to その上."
+      ko: "더 많은 정보를 추가. その上과 유사."
+  - japanese: 一方
+    reading: いっぽう
+    translation:
+      en: on the other hand, meanwhile
+      ko: 한편, 반면에
+    gender: null
+    plural: null
+    notes:
+      en: "Presents a different perspective or contrasting aspect."
+      ko: "다른 관점이나 대조적 측면을 제시."
+  - japanese: つまり
+    reading: null
+    translation:
+      en: in other words, that is to say
+      ko: 즉, 다시 말해
+    gender: null
+    plural: null
+    notes:
+      en: "Rephrasing or summarizing. Similar to すなわち (more formal)."
+      ko: "바꿔 말하기 또는 요약. すなわち (더 격식적)와 유사."
+  - japanese: 例えば
+    reading: たとえば
+    translation:
+      en: for example
+      ko: 예를 들어
+    gender: null
+    plural: null
+    notes:
+      en: "Introduces an example. Similar to 具体的には (more specifically)."
+      ko: "예시를 소개. 具体的には (더 구체적으로)와 유사."
+  - japanese: なぜなら
+    reading: null
+    translation:
+      en: because, the reason is
+      ko: 왜냐하면
+    gender: null
+    plural: null
+    notes:
+      en: "Introduces an explanation. Often followed by からだ/からである."
+      ko: "설명을 소개. からだ/からである가 뒤따르는 경우가 많음."
+  - japanese: ではないだろうか
+    reading: null
+    translation:
+      en: isn't it? (rhetorical question implying agreement)
+      ko: ~가 아닐까 (수사적 질문)
+    gender: null
+    plural: null
+    notes:
+      en: "Rhetorical question used to softly present the author's opinion."
+      ko: "저자의 의견을 부드럽게 제시하는 수사적 질문."
+  - japanese: べきだ
+    reading: null
+    translation:
+      en: should, ought to (strong recommendation)
+      ko: ~해야 한다 (강한 권고)
+    gender: null
+    plural: null
+    notes:
+      en: "Opinion marker in essays. Dictionary form + べきだ."
+      ko: "에세이에서의 의견 표지. 사전형 + べきだ."
+  - japanese: と言えるだろう
+    reading: といえるだろう
+    translation:
+      en: one could say that
+      ko: ~라고 할 수 있을 것이다
+    gender: null
+    plural: null
+    notes:
+      en: "Moderate claim pattern in essays. Softer than と言える."
+      ko: "에세이에서의 온건한 주장 패턴. と言える보다 부드러움."

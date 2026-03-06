@@ -1,0 +1,301 @@
+lesson: 03_Basic_Sentence_Structure
+lesson_number: 3
+jlpt: N5
+categories:
+- id: basic_particles
+  label:
+    en: Basic Particles
+    ko: 기본 조사
+  type: vocabulary
+  words:
+  - japanese: は
+    reading: null
+    translation:
+      en: topic marker particle (read 'wa')
+      ko: 주제 표시 조사 ('와'로 읽음)
+    gender: null
+    plural: null
+    notes:
+      en: "Written は but read 'wa' when used as a particle. Marks the topic of the sentence."
+      ko: "は로 쓰지만 조사로 쓸 때는 'wa'로 읽음. 문장의 주제를 표시."
+  - japanese: が
+    reading: null
+    translation:
+      en: subject marker particle
+      ko: 주어 표시 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Marks the grammatical subject, especially for new/important information"
+      ko: "문법적 주어를 표시, 특히 새로운/중요한 정보에 사용"
+  - japanese: を
+    reading: null
+    translation:
+      en: object marker particle (read 'o')
+      ko: 목적어 표시 조사 ('오'로 읽음)
+    gender: null
+    plural: null
+    notes:
+      en: "Written を but read 'o' in modern Japanese. Marks the direct object."
+      ko: "を로 쓰지만 현대 일본어에서는 'o'로 읽음. 직접 목적어를 표시."
+  - japanese: に
+    reading: null
+    translation:
+      en: direction / time / location particle
+      ko: 방향 / 시간 / 장소 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Multiple uses: 'to' (direction), 'at' (time), 'in/at' (existence location)"
+      ko: "다양한 용법: 방향(~에), 시간(~에), 존재 장소(~에)"
+  - japanese: で
+    reading: null
+    translation:
+      en: place of action / means particle
+      ko: 행동 장소 / 수단 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Where an action happens ('at') or means/method ('by/with')"
+      ko: "행동이 일어나는 장소(~에서) 또는 수단/방법(~으로)"
+  - japanese: か
+    reading: null
+    translation:
+      en: question particle
+      ko: 의문 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Added to the end of a statement to form a question"
+      ko: "문장 끝에 붙여 의문문을 만듦"
+  - japanese: の
+    reading: null
+    translation:
+      en: possessive / connection particle
+      ko: 소유 / 연결 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Like 's in English: 私の本 (watashi no hon) = my book"
+      ko: "영어의 's와 유사: 私の本(와타시 노 혼) = 나의 책"
+  - japanese: も
+    reading: null
+    translation:
+      en: also / too particle
+      ko: ~도 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Replaces は or が: 私も学生です (I am also a student)"
+      ko: "は나 が를 대체: 私も学生です (나도 학생입니다)"
+
+- id: demonstratives
+  label:
+    en: Demonstratives (こそあど)
+    ko: 지시어 (こそあど)
+  type: vocabulary
+  words:
+  - japanese: これ
+    reading: null
+    translation:
+      en: this (thing near speaker)
+      ko: 이것
+    gender: null
+    plural: null
+  - japanese: それ
+    reading: null
+    translation:
+      en: that (thing near listener)
+      ko: 그것
+    gender: null
+    plural: null
+  - japanese: あれ
+    reading: null
+    translation:
+      en: that over there (far from both)
+      ko: 저것
+    gender: null
+    plural: null
+  - japanese: どれ
+    reading: null
+    translation:
+      en: which one (of three or more)
+      ko: 어느 것
+    gender: null
+    plural: null
+  - japanese: この
+    reading: null
+    translation:
+      en: this ~ (modifier, near speaker)
+      ko: 이 ~
+    gender: null
+    plural: null
+    notes:
+      en: "Must be followed by a noun: この本 (this book)"
+      ko: "반드시 명사 앞에 사용: この本 (이 책)"
+  - japanese: その
+    reading: null
+    translation:
+      en: that ~ (modifier, near listener)
+      ko: 그 ~
+    gender: null
+    plural: null
+  - japanese: あの
+    reading: null
+    translation:
+      en: that ~ over there (modifier, far from both)
+      ko: 저 ~
+    gender: null
+    plural: null
+  - japanese: どの
+    reading: null
+    translation:
+      en: which ~ (modifier)
+      ko: 어느 ~
+    gender: null
+    plural: null
+  - japanese: ここ
+    reading: null
+    translation:
+      en: here
+      ko: 여기
+    gender: null
+    plural: null
+  - japanese: そこ
+    reading: null
+    translation:
+      en: there (near listener)
+      ko: 거기
+    gender: null
+    plural: null
+  - japanese: あそこ
+    reading: null
+    translation:
+      en: over there (far from both)
+      ko: 저기
+    gender: null
+    plural: null
+  - japanese: どこ
+    reading: null
+    translation:
+      en: where
+      ko: 어디
+    gender: null
+    plural: null
+
+- id: basic_nouns
+  label:
+    en: Basic Nouns
+    ko: 기본 명사
+  type: vocabulary
+  words:
+  - japanese: 本
+    reading: ほん
+    translation:
+      en: book
+      ko: 책
+    gender: null
+    plural: null
+  - japanese: 水
+    reading: みず
+    translation:
+      en: water
+      ko: 물
+    gender: null
+    plural: null
+  - japanese: 学校
+    reading: がっこう
+    translation:
+      en: school
+      ko: 학교
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 学(learn) + 校(school). Note the double consonant (っ)."
+      ko: "한자: 학(배울) + 교(학교). 촉음(っ) 주의."
+  - japanese: 図書館
+    reading: としょかん
+    translation:
+      en: library
+      ko: 도서관
+    gender: null
+    plural: null
+  - japanese: 駅
+    reading: えき
+    translation:
+      en: station
+      ko: 역
+    gender: null
+    plural: null
+  - japanese: 電車
+    reading: でんしゃ
+    translation:
+      en: train
+      ko: 전철
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 電(electric) + 車(car/vehicle)"
+      ko: "한자: 전(전기) + 차(수레)"
+
+- id: question_words
+  label:
+    en: Question Words
+    ko: 의문사
+  type: vocabulary
+  words:
+  - japanese: 何
+    reading: なに
+    translation:
+      en: what
+      ko: 무엇
+    gender: null
+    plural: null
+    notes:
+      en: "Read なに (nani) before を/が/も; read なん (nan) before です/の/counters"
+      ko: "を/が/も 앞에서는 なに; です/の/수사 앞에서는 なん으로 읽음"
+  - japanese: だれ
+    reading: null
+    translation:
+      en: who
+      ko: 누구
+    gender: null
+    plural: null
+  - japanese: いつ
+    reading: null
+    translation:
+      en: when
+      ko: 언제
+    gender: null
+    plural: null
+  - japanese: どう
+    reading: null
+    translation:
+      en: how
+      ko: 어떻게
+    gender: null
+    plural: null
+  - japanese: どうして
+    reading: null
+    translation:
+      en: why
+      ko: 왜
+    gender: null
+    plural: null
+    notes:
+      en: "なぜ (naze) is a more formal alternative"
+      ko: "なぜ(나제)는 더 격식적인 표현"
+  - japanese: いくら
+    reading: null
+    translation:
+      en: how much (price)
+      ko: 얼마
+    gender: null
+    plural: null
+  - japanese: どちら
+    reading: null
+    translation:
+      en: which (of two) / where (polite)
+      ko: 어느 쪽 / 어디 (공손)
+    gender: null
+    plural: null

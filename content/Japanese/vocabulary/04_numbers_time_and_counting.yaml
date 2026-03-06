@@ -1,0 +1,482 @@
+lesson: 04_Numbers_Time_and_Counting
+lesson_number: 4
+jlpt: N5
+categories:
+- id: cardinal_numbers
+  label:
+    en: Cardinal Numbers
+    ko: 기수
+  type: vocabulary
+  words:
+  - japanese: ゼロ
+    reading: null
+    translation:
+      en: zero
+      ko: 영
+    gender: null
+    plural: null
+    notes:
+      en: "From English. れい (rei) is used in formal contexts"
+      ko: "영어 차용어. れい(레이)는 격식적 상황에서 사용"
+  - japanese: 一
+    reading: いち
+    translation:
+      en: one
+      ko: 일
+    gender: null
+    plural: null
+    notes:
+      en: "Wago (native): ひとつ (hitotsu)"
+      ko: "고유 일본어: ひとつ(히토쓰)"
+  - japanese: 二
+    reading: に
+    translation:
+      en: two
+      ko: 이
+    gender: null
+    plural: null
+    notes:
+      en: "Wago (native): ふたつ (futatsu)"
+      ko: "고유 일본어: ふたつ(후타쓰)"
+  - japanese: 三
+    reading: さん
+    translation:
+      en: three
+      ko: 삼
+    gender: null
+    plural: null
+    notes:
+      en: "Wago (native): みっつ (mittsu)"
+      ko: "고유 일본어: みっつ(밋쓰)"
+  - japanese: 四
+    reading: よん
+    translation:
+      en: four
+      ko: 사
+    gender: null
+    plural: null
+    notes:
+      en: "Also read し (shi), but よん preferred because し sounds like 死 (death)"
+      ko: "し(시)로도 읽지만 し가 死(죽음)과 같은 발음이라 よん 선호"
+  - japanese: 五
+    reading: ご
+    translation:
+      en: five
+      ko: 오
+    gender: null
+    plural: null
+  - japanese: 六
+    reading: ろく
+    translation:
+      en: six
+      ko: 육
+    gender: null
+    plural: null
+  - japanese: 七
+    reading: なな
+    translation:
+      en: seven
+      ko: 칠
+    gender: null
+    plural: null
+    notes:
+      en: "Also read しち (shichi). なな is often preferred"
+      ko: "しち(시치)로도 읽음. なな가 주로 선호됨"
+  - japanese: 八
+    reading: はち
+    translation:
+      en: eight
+      ko: 팔
+    gender: null
+    plural: null
+  - japanese: 九
+    reading: きゅう
+    translation:
+      en: nine
+      ko: 구
+    gender: null
+    plural: null
+    notes:
+      en: "Also read く (ku), but きゅう preferred because く sounds like 苦 (suffering)"
+      ko: "く(쿠)로도 읽지만 く가 苦(괴로움)와 같은 발음이라 きゅう 선호"
+  - japanese: 十
+    reading: じゅう
+    translation:
+      en: ten
+      ko: 십
+    gender: null
+    plural: null
+  - japanese: 百
+    reading: ひゃく
+    translation:
+      en: hundred
+      ko: 백
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 300=さんびゃく, 600=ろっぴゃく, 800=はっぴゃく"
+      ko: "음변화: 300=さんびゃく, 600=ろっぴゃく, 800=はっぴゃく"
+  - japanese: 千
+    reading: せん
+    translation:
+      en: thousand
+      ko: 천
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 3000=さんぜん, 8000=はっせん"
+      ko: "음변화: 3000=さんぜん, 8000=はっせん"
+  - japanese: 万
+    reading: まん
+    translation:
+      en: ten thousand
+      ko: 만
+    gender: null
+    plural: null
+    notes:
+      en: "Japanese groups large numbers by 4 digits, not 3"
+      ko: "일본어는 큰 수를 3자리가 아닌 4자리로 묶음"
+
+- id: counters
+  label:
+    en: Common Counters
+    ko: 일반 조수사
+  type: vocabulary
+  words:
+  - japanese: ひとつ
+    reading: null
+    translation:
+      en: one (generic counter)
+      ko: 하나 (범용 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "Generic wago counter. Use when you don't know the specific counter."
+      ko: "범용 고유 일본어 조수사. 특정 조수사를 모를 때 사용."
+  - japanese: ふたつ
+    reading: null
+    translation:
+      en: two (generic counter)
+      ko: 둘 (범용 조수사)
+    gender: null
+    plural: null
+  - japanese: みっつ
+    reading: null
+    translation:
+      en: three (generic counter)
+      ko: 셋 (범용 조수사)
+    gender: null
+    plural: null
+  - japanese: いくつ
+    reading: null
+    translation:
+      en: how many (generic)
+      ko: 몇 개
+    gender: null
+    plural: null
+  - japanese: 人
+    reading: にん
+    translation:
+      en: counter for people
+      ko: 사람 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular: 1人=ひとり, 2人=ふたり. Regular from 3人=さんにん"
+      ko: "불규칙: 1人=ひとり, 2人=ふたり. 3人=さんにん부터 규칙적"
+  - japanese: 本
+    reading: ほん
+    translation:
+      en: counter for long/thin objects
+      ko: 길고 얇은 것 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For pens, bottles, trees, etc. Sound changes: 1=いっぽん, 3=さんぼん, 6=ろっぽん"
+      ko: "펜, 병, 나무 등. 음변화: 1=いっぽん, 3=さんぼん, 6=ろっぽん"
+  - japanese: 枚
+    reading: まい
+    translation:
+      en: counter for flat/thin objects
+      ko: 평평하고 얇은 것 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For paper, shirts, plates, tickets. No sound changes."
+      ko: "종이, 셔츠, 접시, 티켓 등. 음변화 없음."
+  - japanese: 匹
+    reading: ひき
+    translation:
+      en: counter for small animals
+      ko: 작은 동물 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For cats, dogs, fish, insects. Sound changes: 1=いっぴき, 3=さんびき"
+      ko: "고양이, 개, 물고기, 곤충 등. 음변화: 1=いっぴき, 3=さんびき"
+  - japanese: 台
+    reading: だい
+    translation:
+      en: counter for machines/vehicles
+      ko: 기계/차량 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "For cars, computers, TVs. No sound changes."
+      ko: "자동차, 컴퓨터, TV 등. 음변화 없음."
+  - japanese: 冊
+    reading: さつ
+    translation:
+      en: counter for books/volumes
+      ko: 책/권 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 1=いっさつ, 8=はっさつ, 10=じゅっさつ"
+      ko: "음변화: 1=いっさつ, 8=はっさつ, 10=じゅっさつ"
+  - japanese: 杯
+    reading: はい
+    translation:
+      en: counter for cups/glasses/bowls
+      ko: 잔/그릇 조수사
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 1=いっぱい, 3=さんばい, 6=ろっぱい"
+      ko: "음변화: 1=いっぱい, 3=さんばい, 6=ろっぱい"
+
+- id: time_expressions
+  label:
+    en: Time Expressions
+    ko: 시간 표현
+  type: vocabulary
+  words:
+  - japanese: 時
+    reading: じ
+    translation:
+      en: o'clock (hour counter)
+      ko: 시 (시간 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular: 4時=よじ, 7時=しちじ, 9時=くじ"
+      ko: "불규칙: 4時=よじ, 7時=しちじ, 9時=くじ"
+  - japanese: 分
+    reading: ふん
+    translation:
+      en: minute (counter)
+      ko: 분 (조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "Sound changes: 1分=いっぷん, 3分=さんぷん, 6分=ろっぷん, 10分=じゅっぷん"
+      ko: "음변화: 1分=いっぷん, 3分=さんぷん, 6分=ろっぷん, 10分=じゅっぷん"
+  - japanese: 半
+    reading: はん
+    translation:
+      en: half (past the hour)
+      ko: 반
+    gender: null
+    plural: null
+    notes:
+      en: "七時半 (shichi-ji han) = 7:30"
+      ko: "七時半 (시치지한) = 7시 30분"
+  - japanese: 午前
+    reading: ごぜん
+    translation:
+      en: AM / morning
+      ko: 오전
+    gender: null
+    plural: null
+  - japanese: 午後
+    reading: ごご
+    translation:
+      en: PM / afternoon
+      ko: 오후
+    gender: null
+    plural: null
+  - japanese: 朝
+    reading: あさ
+    translation:
+      en: morning
+      ko: 아침
+    gender: null
+    plural: null
+  - japanese: 昼
+    reading: ひる
+    translation:
+      en: noon / daytime
+      ko: 낮 / 점심
+    gender: null
+    plural: null
+  - japanese: 夜
+    reading: よる
+    translation:
+      en: night
+      ko: 밤
+    gender: null
+    plural: null
+  - japanese: 今
+    reading: いま
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+    plural: null
+
+- id: days_months
+  label:
+    en: Days and Months
+    ko: 요일과 달
+  type: vocabulary
+  words:
+  - japanese: 月曜日
+    reading: げつようび
+    translation:
+      en: Monday
+      ko: 월요일
+    gender: null
+    plural: null
+    notes:
+      en: "月 = Moon. Same pattern as French lundi."
+      ko: "月 = 달. 프랑스어 lundi와 같은 패턴."
+  - japanese: 火曜日
+    reading: かようび
+    translation:
+      en: Tuesday
+      ko: 화요일
+    gender: null
+    plural: null
+    notes:
+      en: "火 = Fire (Mars)"
+      ko: "火 = 불 (화성)"
+  - japanese: 水曜日
+    reading: すいようび
+    translation:
+      en: Wednesday
+      ko: 수요일
+    gender: null
+    plural: null
+    notes:
+      en: "水 = Water (Mercury)"
+      ko: "水 = 물 (수성)"
+  - japanese: 木曜日
+    reading: もくようび
+    translation:
+      en: Thursday
+      ko: 목요일
+    gender: null
+    plural: null
+    notes:
+      en: "木 = Wood (Jupiter)"
+      ko: "木 = 나무 (목성)"
+  - japanese: 金曜日
+    reading: きんようび
+    translation:
+      en: Friday
+      ko: 금요일
+    gender: null
+    plural: null
+    notes:
+      en: "金 = Gold/Metal (Venus)"
+      ko: "金 = 금/금속 (금성)"
+  - japanese: 土曜日
+    reading: どようび
+    translation:
+      en: Saturday
+      ko: 토요일
+    gender: null
+    plural: null
+    notes:
+      en: "土 = Earth (Saturn)"
+      ko: "土 = 흙 (토성)"
+  - japanese: 日曜日
+    reading: にちようび
+    translation:
+      en: Sunday
+      ko: 일요일
+    gender: null
+    plural: null
+    notes:
+      en: "日 = Sun"
+      ko: "日 = 해"
+  - japanese: 今日
+    reading: きょう
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+    plural: null
+  - japanese: 明日
+    reading: あした
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    plural: null
+  - japanese: 昨日
+    reading: きのう
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+    plural: null
+  - japanese: 毎日
+    reading: まいにち
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+    plural: null
+  - japanese: 今週
+    reading: こんしゅう
+    translation:
+      en: this week
+      ko: 이번 주
+    gender: null
+    plural: null
+  - japanese: 来週
+    reading: らいしゅう
+    translation:
+      en: next week
+      ko: 다음 주
+    gender: null
+    plural: null
+  - japanese: 今月
+    reading: こんげつ
+    translation:
+      en: this month
+      ko: 이번 달
+    gender: null
+    plural: null
+  - japanese: 来月
+    reading: らいげつ
+    translation:
+      en: next month
+      ko: 다음 달
+    gender: null
+    plural: null
+  - japanese: 今年
+    reading: ことし
+    translation:
+      en: this year
+      ko: 올해
+    gender: null
+    plural: null
+  - japanese: 来年
+    reading: らいねん
+    translation:
+      en: next year
+      ko: 내년
+    gender: null
+    plural: null
+  - japanese: 誕生日
+    reading: たんじょうび
+    translation:
+      en: birthday
+      ko: 생일
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 誕(birth) + 生(life) + 日(day)"
+      ko: "한자: 탄(태어남) + 생(삶) + 일(날)"

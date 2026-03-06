@@ -1,0 +1,312 @@
+lesson: 15_Complex_Sentences
+lesson_number: 15
+jlpt: N3
+categories:
+- id: connective_expressions
+  label:
+    en: Connective Expressions
+    ko: 접속 표현
+  type: vocabulary
+  words:
+  - japanese: ので
+    reading: null
+    translation:
+      en: because, since (polite reason)
+      ko: ~이므로, ~이기 때문에 (정중한 이유)
+    gender: null
+    plural: null
+    notes:
+      en: "Soft, objective reason. More polite than から. な-adj/noun use な before ので."
+      ko: "부드럽고 객관적인 이유. から보다 정중. な형용사/명사는 ので 앞에 な 사용."
+  - japanese: から
+    reading: null
+    translation:
+      en: because (direct/casual reason)
+      ko: ~이니까, ~때문에 (직접적/구어 이유)
+    gender: null
+    plural: null
+    notes:
+      en: "Direct, subjective reason. More assertive than ので."
+      ko: "직접적이고 주관적인 이유. ので보다 단정적."
+  - japanese: のに
+    reading: null
+    translation:
+      en: although, despite, even though (with frustration)
+      ko: ~인데도 (불구하고, 불만 포함)
+    gender: null
+    plural: null
+    notes:
+      en: "Contrast with frustration/disappointment. 勉強したのに落ちた (I studied but failed!)."
+      ko: "불만/실망이 포함된 대조. 勉強したのに落ちた (공부했는데 떨어졌어!)."
+  - japanese: けど
+    reading: null
+    translation:
+      en: but, although (neutral contrast)
+      ko: ~이지만 (중립적 대조)
+    gender: null
+    plural: null
+    notes:
+      en: "Neutral contrast. Less emotional than のに. Casual form of けれども."
+      ko: "중립적 대조. のに보다 감정이 적음. けれども의 구어형."
+  - japanese: が
+    reading: null
+    translation:
+      en: but, however (formal contrast)
+      ko: ~이지만, ~인데 (격식 대조)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal neutral contrast. 連絡しましたが、返事がありませんでした."
+      ko: "격식적 중립 대조. 連絡しましたが、返事がありませんでした."
+  - japanese: し
+    reading: null
+    translation:
+      en: and also, moreover (listing reasons)
+      ko: ~이고, ~하기도 하고 (이유 나열)
+    gender: null
+    plural: null
+    notes:
+      en: "Lists cumulative reasons. 安いし、おいしいし、最高だ."
+      ko: "누적 이유 나열. 安いし、おいしいし、最高だ."
+  - japanese: ながら
+    reading: null
+    translation:
+      en: while doing (simultaneous actions)
+      ko: ~하면서 (동시 동작)
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem + ながら. Same subject required. 音楽を聞きながら勉強する."
+      ko: "ます어간 + ながら. 같은 주어 필수. 音楽を聞きながら勉強する."
+  - japanese: たり...たりする
+    reading: null
+    translation:
+      en: doing things like... and... (representative actions)
+      ko: ~하거나 ~하거나 하다 (대표적 행동)
+    gender: null
+    plural: null
+    notes:
+      en: "た-form + り for each action. する at end required. Non-exhaustive list."
+      ko: "각 행동에 た형 + り. 끝에 する 필수. 전부를 나열하지 않는 목록."
+- id: reason_purpose
+  label:
+    en: Reason and Purpose Expressions
+    ko: 이유와 목적 표현
+  type: vocabulary
+  words:
+  - japanese: ために (purpose)
+    reading: null
+    translation:
+      en: in order to (purpose)
+      ko: ~하기 위해 (목적)
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary form verb + ために. For volitional/controllable actions."
+      ko: "사전형 동사 + ために. 의지적/통제 가능한 행동에 사용."
+  - japanese: ために (cause)
+    reading: null
+    translation:
+      en: because of, due to (cause)
+      ko: ~때문에 (원인)
+    gender: null
+    plural: null
+    notes:
+      en: "Past form/state + ために. More formal than ので. 台風のために欠航になった."
+      ko: "과거형/상태 + ために. ので보다 격식적. 台風のために欠航になった."
+  - japanese: ように
+    reading: null
+    translation:
+      en: so that, in a way that (goal state)
+      ko: ~하도록, ~할 수 있도록 (목표 상태)
+    gender: null
+    plural: null
+    notes:
+      en: "For non-volitional verbs (potential, negative, state). Different subjects OK."
+      ko: "비의지적 동사 (가능형, 부정, 상태)에 사용. 주어가 달라도 됨."
+  - japanese: ようにする
+    reading: null
+    translation:
+      en: make an effort to, try to
+      ko: ~하도록 하다, 노력하다
+    gender: null
+    plural: null
+    notes:
+      en: "Habitual effort. 毎日野菜を食べるようにしている."
+      ko: "습관적 노력. 毎日野菜を食べるようにしている."
+  - japanese: ようになる
+    reading: null
+    translation:
+      en: to come to be able to, to start to
+      ko: ~하게 되다, ~할 수 있게 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Change of state. 日本語が話せるようになった (I became able to speak Japanese)."
+      ko: "상태 변화. 日本語が話せるようになった (일본어를 할 수 있게 되었다)."
+  - japanese: のに (utility)
+    reading: null
+    translation:
+      en: for the purpose of (utility)
+      ko: ~하는 데 (용도)
+    gender: null
+    plural: null
+    notes:
+      en: "Different from contrast のに. 料理するのに便利だ (convenient for cooking)."
+      ko: "대조의 のに와 다름. 料理するのに便利だ (요리하는 데 편리하다)."
+- id: contrast_concession
+  label:
+    en: Contrast and Concession Expressions
+    ko: 대조와 양보 표현
+  type: vocabulary
+  words:
+  - japanese: くせに
+    reading: null
+    translation:
+      en: even though (critical/blaming)
+      ko: ~하는 주제에 (비판적)
+    gender: null
+    plural: null
+    notes:
+      en: "Stronger and more negative than のに. 知っているくせに教えてくれない."
+      ko: "のに보다 강하고 부정적. 知っているくせに教えてくれない."
+  - japanese: ものの
+    reading: null
+    translation:
+      en: although (formal/literary)
+      ko: ~이지만 (격식/문어)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal/written contrast. 申し込んだものの、返事が来ない."
+      ko: "격식적/문어적 대조. 申し込んだものの、返事が来ない."
+  - japanese: うちに
+    reading: null
+    translation:
+      en: while, before (a change occurs)
+      ko: ~하는 동안에, ~하기 전에
+    gender: null
+    plural: null
+    notes:
+      en: "Before situation changes. 暗くならないうちに帰ろう."
+      ko: "상황이 변하기 전에. 暗くならないうちに帰ろう."
+  - japanese: 上で
+    reading: うえで
+    translation:
+      en: after doing, upon (completion)
+      ko: ~한 후에, ~한 다음에
+    gender: null
+    plural: null
+    notes:
+      en: "One action completed before next. よく考えた上で決めます."
+      ko: "한 행동이 완료된 후 다음 행동. よく考えた上で決めます."
+  - japanese: 残念ながら
+    reading: ざんねんながら
+    translation:
+      en: regrettably, unfortunately
+      ko: 유감스럽게도, 안타깝게도
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive ながら usage (literary). 残念ながら参加できません."
+      ko: "ながら의 양보 용법 (문어). 残念ながら参加できません."
+  - japanese: せっかく
+    reading: null
+    translation:
+      en: with great effort, specially, taking the trouble
+      ko: 모처럼, 일부러
+    gender: null
+    plural: null
+    notes:
+      en: "Often paired with のに for frustration. せっかく作ったのに誰も食べなかった."
+      ko: "불만을 나타내는 のに와 자주 사용. せっかく作ったのに誰も食べなかった."
+  - japanese: にもかかわらず
+    reading: null
+    translation:
+      en: despite, in spite of (formal)
+      ko: ~에도 불구하고 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal/written contrast. Primarily used in essays and reports."
+      ko: "격식적/문어적 대조. 주로 에세이와 보고서에서 사용."
+  - japanese: 一方で
+    reading: いっぽうで
+    translation:
+      en: on the other hand, while
+      ko: 한편으로, 반면에
+    gender: null
+    plural: null
+    notes:
+      en: "Presenting a different perspective or contrasting aspect."
+      ko: "다른 관점이나 대조적 측면을 제시."
+  - japanese: 間
+    reading: あいだ
+    translation:
+      en: while, during (different subjects OK)
+      ko: ~하는 동안 (다른 주어 가능)
+    gender: null
+    plural: null
+    notes:
+      en: "Unlike ながら, allows different subjects. 母が料理している間、父はテレビを見ている."
+      ko: "ながら와 달리 다른 주어 가능. 母が料理している間、父はテレビを見ている."
+  - japanese: 間に
+    reading: あいだに
+    translation:
+      en: during, in the meantime
+      ko: ~하는 사이에
+    gender: null
+    plural: null
+    notes:
+      en: "Something happens during a time period. 寝ている間に雨が降った."
+      ko: "시간 기간 동안 무언가가 발생. 寝ている間に雨が降った."
+  - japanese: けれども
+    reading: null
+    translation:
+      en: however, although (formal conjunction)
+      ko: 그렇지만, ~이지만 (격식 접속사)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal form. Shortened forms: けれど, けど (increasingly casual)."
+      ko: "격식형. 축약형: けれど, けど (점점 더 구어적)."
+  - japanese: それに
+    reading: null
+    translation:
+      en: moreover, besides, in addition
+      ko: 게다가, 더구나
+    gender: null
+    plural: null
+    notes:
+      en: "Adds information. 安いし、それにおいしい."
+      ko: "정보를 추가. 安いし、それにおいしい."
+  - japanese: そのため
+    reading: null
+    translation:
+      en: for that reason, therefore
+      ko: 그 때문에, 그래서
+    gender: null
+    plural: null
+    notes:
+      en: "Causal connector. More formal than だから."
+      ko: "원인 접속사. だから보다 격식적."
+  - japanese: 知っていながら
+    reading: しっていながら
+    translation:
+      en: despite knowing (concessive ながら)
+      ko: 알면서도 (양보의 ながら)
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive ながら: despite ~. 知っていながら何も言わなかった."
+      ko: "양보의 ながら: ~에도 불구하고. 知っていながら何も言わなかった."
+  - japanese: 代わりに
+    reading: かわりに
+    translation:
+      en: instead of, in exchange for
+      ko: ~대신에
+    gender: null
+    plural: null
+    notes:
+      en: "Substitution or exchange. 肉の代わりに魚を食べた."
+      ko: "대체 또는 교환. 肉の代わりに魚を食べた."

@@ -1,0 +1,318 @@
+lesson: 05_Verbs_Present_and_Past
+lesson_number: 5
+jlpt: N5
+categories:
+- id: godan_verbs
+  label:
+    en: Godan Verbs (う-Verbs)
+    ko: 5단 동사 (う동사)
+  type: vocabulary
+  words:
+  - japanese: 行く
+    reading: いく
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    plural: null
+    notes:
+      en: "て form exception: 行って (itte), not 行いて"
+      ko: "て형 예외: 行って(잇테), 行いて가 아님"
+  - japanese: 書く
+    reading: かく
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -ku verb. ます: 書きます, て: 書いて"
+      ko: "5단 -ku 동사. ます: 書きます, て: 書いて"
+  - japanese: 聞く
+    reading: きく
+    translation:
+      en: to listen / to ask
+      ko: 듣다 / 묻다
+    gender: null
+    plural: null
+  - japanese: 読む
+    reading: よむ
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -mu verb. て: 読んで, た: 読んだ"
+      ko: "5단 -mu 동사. て: 読んで, た: 読んだ"
+  - japanese: 飲む
+    reading: のむ
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    plural: null
+  - japanese: 話す
+    reading: はなす
+    translation:
+      en: to speak / to talk
+      ko: 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -su verb. て: 話して"
+      ko: "5단 -su 동사. て: 話して"
+  - japanese: 買う
+    reading: かう
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -u verb. て: 買って. Negative: 買わない (not 買あない)"
+      ko: "5단 -u 동사. て: 買って. 부정: 買わない (買あない가 아님)"
+  - japanese: 会う
+    reading: あう
+    translation:
+      en: to meet
+      ko: 만나다
+    gender: null
+    plural: null
+  - japanese: 待つ
+    reading: まつ
+    translation:
+      en: to wait
+      ko: 기다리다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -tsu verb. て: 待って (matte)"
+      ko: "5단 -tsu 동사. て: 待って(맛테)"
+  - japanese: 帰る
+    reading: かえる
+    translation:
+      en: to return / to go home
+      ko: 돌아가다
+    gender: null
+    plural: null
+    notes:
+      en: "TRICKY: ends in -eru but is godan, NOT ichidan"
+      ko: "주의: -eru로 끝나지만 1단이 아닌 5단 동사"
+  - japanese: 作る
+    reading: つくる
+    translation:
+      en: to make / to create
+      ko: 만들다
+    gender: null
+    plural: null
+  - japanese: 走る
+    reading: はしる
+    translation:
+      en: to run
+      ko: 달리다
+    gender: null
+    plural: null
+    notes:
+      en: "TRICKY: ends in -iru but is godan, NOT ichidan"
+      ko: "주의: -iru로 끝나지만 1단이 아닌 5단 동사"
+  - japanese: 泳ぐ
+    reading: およぐ
+    translation:
+      en: to swim
+      ko: 수영하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -gu verb. て: 泳いで (oyoide)"
+      ko: "5단 -gu 동사. て: 泳いで(오요이데)"
+  - japanese: 遊ぶ
+    reading: あそぶ
+    translation:
+      en: to play / to hang out
+      ko: 놀다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan -bu verb. て: 遊んで (asonde)"
+      ko: "5단 -bu 동사. て: 遊んで(아손데)"
+  - japanese: 歩く
+    reading: あるく
+    translation:
+      en: to walk
+      ko: 걷다
+    gender: null
+    plural: null
+
+- id: ichidan_verbs
+  label:
+    en: Ichidan Verbs (る-Verbs)
+    ko: 1단 동사 (る동사)
+  type: vocabulary
+  words:
+  - japanese: 食べる
+    reading: たべる
+    translation:
+      en: to eat
+      ko: 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "Ichidan: drop る, add ます → 食べます. て: 食べて"
+      ko: "1단: る를 빼고 ます 추가 → 食べます. て: 食べて"
+  - japanese: 見る
+    reading: みる
+    translation:
+      en: to see / to watch
+      ko: 보다
+    gender: null
+    plural: null
+  - japanese: 起きる
+    reading: おきる
+    translation:
+      en: to wake up / to get up
+      ko: 일어나다
+    gender: null
+    plural: null
+  - japanese: 寝る
+    reading: ねる
+    translation:
+      en: to sleep / to go to bed
+      ko: 자다
+    gender: null
+    plural: null
+  - japanese: 出る
+    reading: でる
+    translation:
+      en: to go out / to leave
+      ko: 나가다 / 나오다
+    gender: null
+    plural: null
+  - japanese: 教える
+    reading: おしえる
+    translation:
+      en: to teach / to tell
+      ko: 가르치다 / 알려주다
+    gender: null
+    plural: null
+  - japanese: 開ける
+    reading: あける
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+    plural: null
+  - japanese: 閉める
+    reading: しめる
+    translation:
+      en: to close
+      ko: 닫다
+    gender: null
+    plural: null
+
+- id: irregular_verbs
+  label:
+    en: Irregular Verbs
+    ko: 불규칙 동사
+  type: vocabulary
+  words:
+  - japanese: する
+    reading: null
+    translation:
+      en: to do
+      ko: 하다
+    gender: null
+    plural: null
+    notes:
+      en: "One of only 2 irregular verbs. ます: します, て: して, た: した, ない: しない"
+      ko: "단 2개의 불규칙 동사 중 하나. ます: します, て: して, た: した, ない: しない"
+  - japanese: 来る
+    reading: くる
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+    notes:
+      en: "One of only 2 irregular verbs. ます: きます, て: きて, た: きた, ない: こない"
+      ko: "단 2개의 불규칙 동사 중 하나. ます: きます, て: きて, た: きた, ない: こない"
+  - japanese: 勉強する
+    reading: べんきょうする
+    translation:
+      en: to study
+      ko: 공부하다
+    gender: null
+    plural: null
+    notes:
+      en: "する compound verb. Conjugates like する: 勉強します, 勉強して"
+      ko: "する 복합 동사. する처럼 활용: 勉強します, 勉強して"
+  - japanese: 料理する
+    reading: りょうりする
+    translation:
+      en: to cook
+      ko: 요리하다
+    gender: null
+    plural: null
+  - japanese: 散歩する
+    reading: さんぽする
+    translation:
+      en: to take a walk
+      ko: 산책하다
+    gender: null
+    plural: null
+  - japanese: 電話する
+    reading: でんわする
+    translation:
+      en: to make a phone call
+      ko: 전화하다
+    gender: null
+    plural: null
+
+- id: time_expressions
+  label:
+    en: Time Expressions for Daily Routine
+    ko: 일상 시간 표현
+  type: vocabulary
+  words:
+  - japanese: 毎朝
+    reading: まいあさ
+    translation:
+      en: every morning
+      ko: 매일 아침
+    gender: null
+    plural: null
+  - japanese: 毎日
+    reading: まいにち
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+    plural: null
+  - japanese: 毎晩
+    reading: まいばん
+    translation:
+      en: every evening / every night
+      ko: 매일 저녁 / 매일 밤
+    gender: null
+    plural: null
+  - japanese: 昨日
+    reading: きのう
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+    plural: null
+  - japanese: 今日
+    reading: きょう
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+    plural: null
+  - japanese: 明日
+    reading: あした
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    plural: null

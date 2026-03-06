@@ -1,0 +1,342 @@
+lesson: 08_Te_Form_and_Requests
+lesson_number: 8
+jlpt: N4
+categories:
+- id: te_form_expressions
+  label:
+    en: Te-form Core Verbs
+    ko: て형 핵심 동사
+  type: vocabulary
+  words:
+  - japanese: 食べる
+    reading: たべる
+    translation:
+      en: to eat
+      ko: 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "Ichidan verb. Te-form: 食べて"
+      ko: "1단 동사. て형: 食べて"
+  - japanese: 見る
+    reading: みる
+    translation:
+      en: to see, to watch
+      ko: 보다
+    gender: null
+    plural: null
+  - japanese: 書く
+    reading: かく
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 書いて (く → いて)"
+      ko: "5단 동사. て형: 書いて (く → いて)"
+  - japanese: 読む
+    reading: よむ
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 読んで (む → んで)"
+      ko: "5단 동사. て형: 読んで (む → んで)"
+  - japanese: 行く
+    reading: いく
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Exception: Te-form is 行って (NOT 行いて)"
+      ko: "예외: て형은 行って (行いて가 아님)"
+  - japanese: 来る
+    reading: くる
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular verb. Te-form: 来て (きて)"
+      ko: "불규칙 동사. て형: 来て (きて)"
+  - japanese: する
+    reading: null
+    translation:
+      en: to do
+      ko: 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular verb. Te-form: して"
+      ko: "불규칙 동사. て형: して"
+  - japanese: 話す
+    reading: はなす
+    translation:
+      en: to speak, to talk
+      ko: 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 話して (す → して)"
+      ko: "5단 동사. て형: 話して (す → して)"
+  - japanese: 待つ
+    reading: まつ
+    translation:
+      en: to wait
+      ko: 기다리다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 待って (つ → って)"
+      ko: "5단 동사. て형: 待って (つ → って)"
+  - japanese: 泳ぐ
+    reading: およぐ
+    translation:
+      en: to swim
+      ko: 수영하다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 泳いで (ぐ → いで)"
+      ko: "5단 동사. て형: 泳いで (ぐ → いで)"
+  - japanese: 遊ぶ
+    reading: あそぶ
+    translation:
+      en: to play, to hang out
+      ko: 놀다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 遊んで (ぶ → んで)"
+      ko: "5단 동사. て형: 遊んで (ぶ → んで)"
+  - japanese: 買う
+    reading: かう
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb. Te-form: 買って (う → って)"
+      ko: "5단 동사. て형: 買って (う → って)"
+  - japanese: 帰る
+    reading: かえる
+    translation:
+      en: to return home
+      ko: 돌아가다
+    gender: null
+    plural: null
+    notes:
+      en: "Godan verb (not ichidan). Te-form: 帰って (る → って)"
+      ko: "5단 동사 (1단이 아님). て형: 帰って (る → って)"
+  - japanese: 飲む
+    reading: のむ
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    plural: null
+  - japanese: 起きる
+    reading: おきる
+    translation:
+      en: to wake up, to get up
+      ko: 일어나다
+    gender: null
+    plural: null
+  - japanese: 寝る
+    reading: ねる
+    translation:
+      en: to sleep, to go to bed
+      ko: 자다
+    gender: null
+    plural: null
+  - japanese: 教える
+    reading: おしえる
+    translation:
+      en: to teach, to tell
+      ko: 가르치다, 알려주다
+    gender: null
+    plural: null
+- id: request_phrases
+  label:
+    en: Request and Command Expressions
+    ko: 요청 및 지시 표현
+  type: vocabulary
+  words:
+  - japanese: ください
+    reading: null
+    translation:
+      en: please (do)
+      ko: ~해 주세요
+    gender: null
+    plural: null
+    notes:
+      en: "Attaches to て-form: 待ってください (please wait)"
+      ko: "て형에 붙임: 待ってください (기다려 주세요)"
+  - japanese: お願いします
+    reading: おねがいします
+    translation:
+      en: please (request)
+      ko: 부탁합니다
+    gender: null
+    plural: null
+  - japanese: ゆっくり
+    reading: null
+    translation:
+      en: slowly
+      ko: 천천히
+    gender: null
+    plural: null
+  - japanese: もう一度
+    reading: もういちど
+    translation:
+      en: one more time, again
+      ko: 한 번 더
+    gender: null
+    plural: null
+  - japanese: 名前
+    reading: なまえ
+    translation:
+      en: name
+      ko: 이름
+    gender: null
+    plural: null
+  - japanese: 座る
+    reading: すわる
+    translation:
+      en: to sit
+      ko: 앉다
+    gender: null
+    plural: null
+  - japanese: 触る
+    reading: さわる
+    translation:
+      en: to touch
+      ko: 만지다
+    gender: null
+    plural: null
+  - japanese: 心配する
+    reading: しんぱいする
+    translation:
+      en: to worry
+      ko: 걱정하다
+    gender: null
+    plural: null
+  - japanese: 写真を撮る
+    reading: しゃしんをとる
+    translation:
+      en: to take a photo
+      ko: 사진을 찍다
+    gender: null
+    plural: null
+  - japanese: 急ぐ
+    reading: いそぐ
+    translation:
+      en: to hurry
+      ko: 서두르다
+    gender: null
+    plural: null
+- id: permission_prohibition
+  label:
+    en: Permission and Prohibition Expressions
+    ko: 허가 및 금지 표현
+  type: vocabulary
+  words:
+  - japanese: もいい
+    reading: null
+    translation:
+      en: it's okay to, may I
+      ko: ~해도 된다
+    gender: null
+    plural: null
+    notes:
+      en: "て + もいいですか for asking permission: 食べてもいいですか (may I eat?)"
+      ko: "て + もいいですか로 허가 요청: 食べてもいいですか (먹어도 됩니까?)"
+  - japanese: いけない
+    reading: null
+    translation:
+      en: must not, not allowed
+      ko: ~하면 안 된다
+    gender: null
+    plural: null
+    notes:
+      en: "て + はいけない for prohibition: 走ってはいけない (must not run)"
+      ko: "て + はいけない으로 금지: 走ってはいけない (뛰면 안 된다)"
+  - japanese: だめ
+    reading: null
+    translation:
+      en: no good, not allowed
+      ko: 안 됨, 소용없음
+    gender: null
+    plural: null
+    notes:
+      en: "Colloquial alternative to いけない: 食べてはだめ (you must not eat)"
+      ko: "いけない의 구어적 대안: 食べてはだめ (먹으면 안 돼)"
+  - japanese: どうぞ
+    reading: null
+    translation:
+      en: please, go ahead
+      ko: 어서, 자 (권유)
+    gender: null
+    plural: null
+  - japanese: もちろん
+    reading: null
+    translation:
+      en: of course
+      ko: 물론
+    gender: null
+    plural: null
+  - japanese: 窓
+    reading: まど
+    translation:
+      en: window
+      ko: 창문
+    gender: null
+    plural: null
+  - japanese: 開ける
+    reading: あける
+    translation:
+      en: to open (transitive)
+      ko: 열다
+    gender: null
+    plural: null
+  - japanese: 閉める
+    reading: しめる
+    translation:
+      en: to close (transitive)
+      ko: 닫다
+    gender: null
+    plural: null
+  - japanese: 借りる
+    reading: かりる
+    translation:
+      en: to borrow
+      ko: 빌리다
+    gender: null
+    plural: null
+  - japanese: 結婚する
+    reading: けっこんする
+    translation:
+      en: to marry, to get married
+      ko: 결혼하다
+    gender: null
+    plural: null
+    notes:
+      en: "結婚している means 'is married' (resultant state), not 'is marrying'"
+      ko: "結婚している는 '결혼한 상태'를 의미, '결혼하는 중'이 아님"
+  - japanese: 知る
+    reading: しる
+    translation:
+      en: to know, to learn
+      ko: 알다
+    gender: null
+    plural: null
+    notes:
+      en: "知っている = I know. Negative is 知らない (NOT 知っていない)"
+      ko: "知っている = 알고 있다. 부정형은 知らない (知っていない가 아님)"
