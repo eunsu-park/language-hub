@@ -1,0 +1,1081 @@
+lesson: "sup_B1_Banking_and_Finance"
+lesson_number: 147
+cefr: B1
+type: supplementary
+topic: "Banking and Finance"
+categories:
+- id: accounts
+  label:
+    en: "Accounts"
+    ko: "계좌"
+  type: vocabulary
+  words:
+  - english: "bank account"
+    translation:
+      en: "bank account"
+      ko: "은행 계좌"
+    gender: null
+  - english: "checking account"
+    translation:
+      en: "checking account"
+      ko: "당좌 예금 계좌"
+    gender: null
+    notes:
+      en: "Called current account in British English"
+      ko: "영국 영어로 current account"
+  - english: "savings account"
+    translation:
+      en: "savings account"
+      ko: "저축 계좌"
+    gender: null
+  - english: "balance"
+    translation:
+      en: "balance"
+      ko: "잔액"
+    gender: null
+  - english: "statement"
+    translation:
+      en: "statement"
+      ko: "계좌 명세서"
+    gender: null
+  - english: "to open an account"
+    translation:
+      en: "to open an account"
+      ko: "계좌를 개설하다"
+    gender: null
+  - english: "to close an account"
+    translation:
+      en: "to close an account"
+      ko: "계좌를 해지하다"
+    gender: null
+  - english: "online banking"
+    translation:
+      en: "online banking"
+      ko: "온라인 뱅킹"
+    gender: null
+  - english: "mobile banking"
+    translation:
+      en: "mobile banking"
+      ko: "모바일 뱅킹"
+    gender: null
+  - english: "PIN"
+    translation:
+      en: "PIN"
+      ko: "비밀번호"
+    gender: null
+    notes:
+      en: "Personal Identification Number"
+      ko: "Personal Identification Number의 약자"
+  - english: "ATM"
+    translation:
+      en: "ATM"
+      ko: "현금 인출기"
+    gender: null
+    notes:
+      en: "Automated Teller Machine; called cashpoint in British English"
+      ko: "영국 영어로 cashpoint"
+  - english: "branch"
+    translation:
+      en: "branch"
+      ko: "지점"
+    gender: null
+- id: transactions
+  label:
+    en: "Transactions"
+    ko: "거래"
+  type: vocabulary
+  words:
+  - english: "transaction"
+    translation:
+      en: "transaction"
+      ko: "거래"
+    gender: null
+  - english: "deposit"
+    translation:
+      en: "deposit"
+      ko: "예금 / 입금"
+    gender: null
+  - english: "withdrawal"
+    translation:
+      en: "withdrawal"
+      ko: "출금 / 인출"
+    gender: null
+  - english: "transfer"
+    translation:
+      en: "transfer"
+      ko: "이체"
+    gender: null
+  - english: "wire transfer"
+    translation:
+      en: "wire transfer"
+      ko: "전신 송금"
+    gender: null
+  - english: "payment"
+    translation:
+      en: "payment"
+      ko: "결제"
+    gender: null
+  - english: "direct deposit"
+    translation:
+      en: "direct deposit"
+      ko: "자동 이체 입금"
+    gender: null
+  - english: "overdraft"
+    translation:
+      en: "overdraft"
+      ko: "초과 인출"
+    gender: null
+  - english: "fee"
+    translation:
+      en: "fee"
+      ko: "수수료"
+    gender: null
+  - english: "commission"
+    translation:
+      en: "commission"
+      ko: "수수료 / 커미션"
+    gender: null
+  - english: "to deposit"
+    translation:
+      en: "to deposit"
+      ko: "입금하다"
+    gender: null
+  - english: "to withdraw"
+    translation:
+      en: "to withdraw"
+      ko: "인출하다"
+    gender: null
+  - english: "to transfer"
+    translation:
+      en: "to transfer"
+      ko: "이체하다"
+    gender: null
+  - english: "receipt"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: null
+  - english: "check"
+    translation:
+      en: "check"
+      ko: "수표"
+    gender: null
+    notes:
+      en: "Spelled cheque in British English"
+      ko: "영국 영어에서는 cheque"
+- id: loans_and_credit
+  label:
+    en: "Loans and Credit"
+    ko: "대출 및 신용"
+  type: vocabulary
+  words:
+  - english: "loan"
+    translation:
+      en: "loan"
+      ko: "대출"
+    gender: null
+  - english: "mortgage"
+    translation:
+      en: "mortgage"
+      ko: "모기지 / 주택 대출"
+    gender: null
+    notes:
+      en: "The 't' is silent"
+      ko: "'t'는 묵음"
+  - english: "interest"
+    translation:
+      en: "interest"
+      ko: "이자"
+    gender: null
+  - english: "interest rate"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: null
+  - english: "credit"
+    translation:
+      en: "credit"
+      ko: "신용"
+    gender: null
+  - english: "credit score"
+    translation:
+      en: "credit score"
+      ko: "신용 점수"
+    gender: null
+  - english: "debt"
+    translation:
+      en: "debt"
+      ko: "빚"
+    gender: null
+    notes:
+      en: "The 'b' is silent"
+      ko: "'b'는 묵음"
+  - english: "to borrow"
+    translation:
+      en: "to borrow"
+      ko: "빌리다"
+    gender: null
+  - english: "to lend"
+    translation:
+      en: "to lend"
+      ko: "빌려주다"
+    gender: null
+    notes:
+      en: "Borrow = receive; lend = give temporarily"
+      ko: "borrow = 받다; lend = 일시적으로 주다"
+  - english: "to owe"
+    translation:
+      en: "to owe"
+      ko: "빚지다"
+    gender: null
+  - english: "installment"
+    translation:
+      en: "installment"
+      ko: "할부금"
+    gender: null
+  - english: "collateral"
+    translation:
+      en: "collateral"
+      ko: "담보"
+    gender: null
+  - english: "bankruptcy"
+    translation:
+      en: "bankruptcy"
+      ko: "파산"
+    gender: null
+  - english: "to repay"
+    translation:
+      en: "to repay"
+      ko: "상환하다"
+    gender: null
+  - english: "down payment"
+    translation:
+      en: "down payment"
+      ko: "계약금"
+    gender: null
+- id: investments_and_insurance
+  label:
+    en: "Investments and Insurance"
+    ko: "투자 및 보험"
+  type: vocabulary
+  words:
+  - english: "investment"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: null
+  - english: "to invest"
+    translation:
+      en: "to invest"
+      ko: "투자하다"
+    gender: null
+  - english: "stock"
+    translation:
+      en: "stock"
+      ko: "주식"
+    gender: null
+    notes:
+      en: "Called shares in British English"
+      ko: "영국 영어로 shares"
+  - english: "stock market"
+    translation:
+      en: "stock market"
+      ko: "주식 시장"
+    gender: null
+  - english: "bond"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: null
+  - english: "mutual fund"
+    translation:
+      en: "mutual fund"
+      ko: "뮤추얼 펀드"
+    gender: null
+  - english: "dividend"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: null
+  - english: "portfolio"
+    translation:
+      en: "portfolio"
+      ko: "포트폴리오"
+    gender: null
+  - english: "return"
+    translation:
+      en: "return"
+      ko: "수익률"
+    gender: null
+  - english: "risk"
+    translation:
+      en: "risk"
+      ko: "위험"
+    gender: null
+  - english: "profit"
+    translation:
+      en: "profit"
+      ko: "이익"
+    gender: null
+  - english: "loss"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: null
+  - english: "insurance"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: null
+  - english: "premium"
+    translation:
+      en: "premium"
+      ko: "보험료"
+    gender: null
+  - english: "policy"
+    translation:
+      en: "policy"
+      ko: "보험 정책"
+    gender: null
+  - english: "claim"
+    translation:
+      en: "claim"
+      ko: "보험 청구"
+    gender: null
+  - english: "deductible"
+    translation:
+      en: "deductible"
+      ko: "본인 부담금"
+    gender: null
+  - english: "retirement fund"
+    translation:
+      en: "retirement fund"
+      ko: "퇴직 연금"
+    gender: null
+  - english: "savings"
+    translation:
+      en: "savings"
+      ko: "저축"
+    gender: null
+  - english: "inflation"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: null
+- id: insurance
+  label:
+    en: "Insurance"
+    ko: "보험"
+  type: vocabulary
+  words:
+  - english: "coverage"
+    translation:
+      en: "coverage"
+      ko: "보장 범위"
+    gender: null
+  - english: "beneficiary"
+    translation:
+      en: "beneficiary"
+      ko: "수익자"
+    gender: null
+  - english: "life insurance"
+    translation:
+      en: "life insurance"
+      ko: "생명보험"
+    gender: null
+  - english: "health insurance"
+    translation:
+      en: "health insurance"
+      ko: "건강보험"
+    gender: null
+  - english: "car insurance"
+    translation:
+      en: "car insurance"
+      ko: "자동차보험"
+    gender: null
+  - english: "home insurance"
+    translation:
+      en: "home insurance"
+      ko: "주택보험"
+    gender: null
+  - english: "travel insurance"
+    translation:
+      en: "travel insurance"
+      ko: "여행보험"
+    gender: null
+  - english: "liability insurance"
+    translation:
+      en: "liability insurance"
+      ko: "배상책임보험"
+    gender: null
+  - english: "to insure"
+    translation:
+      en: "to insure"
+      ko: "보험에 가입하다"
+    gender: null
+  - english: "underwriter"
+    translation:
+      en: "underwriter"
+      ko: "보험 인수자"
+    gender: null
+  - english: "actuary"
+    translation:
+      en: "actuary"
+      ko: "보험계리사"
+    gender: null
+  - english: "risk assessment"
+    translation:
+      en: "risk assessment"
+      ko: "위험 평가"
+    gender: null
+  - english: "co-pay"
+    translation:
+      en: "co-pay"
+      ko: "본인 부담금"
+    gender: null
+  - english: "reimbursement"
+    translation:
+      en: "reimbursement"
+      ko: "환급"
+    gender: null
+  - english: "exclusion"
+    translation:
+      en: "exclusion"
+      ko: "면책 조항"
+    gender: null
+- id: investment_markets
+  label:
+    en: "Investment and Markets"
+    ko: "투자 및 시장"
+  type: vocabulary
+  words:
+  - english: "capital"
+    translation:
+      en: "capital"
+      ko: "자본"
+    gender: null
+  - english: "asset"
+    translation:
+      en: "asset"
+      ko: "자산"
+    gender: null
+  - english: "market"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+  - english: "bull market"
+    translation:
+      en: "bull market"
+      ko: "강세장"
+    gender: null
+  - english: "bear market"
+    translation:
+      en: "bear market"
+      ko: "약세장"
+    gender: null
+  - english: "stock exchange"
+    translation:
+      en: "stock exchange"
+      ko: "증권 거래소"
+    gender: null
+  - english: "index"
+    translation:
+      en: "index"
+      ko: "지수"
+    gender: null
+  - english: "deflation"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: null
+  - english: "recession"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: null
+  - english: "to diversify"
+    translation:
+      en: "to diversify"
+      ko: "분산 투자하다"
+    gender: null
+  - english: "return on investment"
+    translation:
+      en: "return on investment"
+      ko: "투자 수익률"
+    gender: null
+    notes:
+      en: "Often abbreviated as ROI"
+      ko: "ROI로 줄여서 사용"
+  - english: "compound interest"
+    translation:
+      en: "compound interest"
+      ko: "복리"
+    gender: null
+  - english: "volatility"
+    translation:
+      en: "volatility"
+      ko: "변동성"
+    gender: null
+- id: personal_finance
+  label:
+    en: "Personal Finance"
+    ko: "개인 재정"
+  type: vocabulary
+  words:
+  - english: "budget"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: null
+  - english: "expense"
+    translation:
+      en: "expense"
+      ko: "지출"
+    gender: null
+  - english: "income"
+    translation:
+      en: "income"
+      ko: "수입"
+    gender: null
+  - english: "financial planning"
+    translation:
+      en: "financial planning"
+      ko: "재정 계획"
+    gender: null
+  - english: "emergency fund"
+    translation:
+      en: "emergency fund"
+      ko: "비상 자금"
+    gender: null
+  - english: "net worth"
+    translation:
+      en: "net worth"
+      ko: "순자산"
+    gender: null
+  - english: "to save"
+    translation:
+      en: "to save"
+      ko: "저축하다"
+    gender: null
+  - english: "to spend"
+    translation:
+      en: "to spend"
+      ko: "지출하다"
+    gender: null
+  - english: "to earn"
+    translation:
+      en: "to earn"
+      ko: "벌다"
+    gender: null
+  - english: "tax return"
+    translation:
+      en: "tax return"
+      ko: "세금 신고"
+    gender: null
+  - english: "tax refund"
+    translation:
+      en: "tax refund"
+      ko: "세금 환급"
+    gender: null
+  - english: "accountant"
+    translation:
+      en: "accountant"
+      ko: "회계사"
+    gender: null
+  - english: "financial advisor"
+    translation:
+      en: "financial advisor"
+      ko: "재정 고문"
+    gender: null
+  - english: "fiscal year"
+    translation:
+      en: "fiscal year"
+      ko: "회계연도"
+    gender: null
+- id: digital_banking
+  label:
+    en: "Digital Banking"
+    ko: "디지털 뱅킹"
+  type: vocabulary
+  words:
+  - english: "contactless payment"
+    translation:
+      en: "contactless payment"
+      ko: "비접촉 결제"
+    gender: null
+  - english: "digital wallet"
+    translation:
+      en: "digital wallet"
+      ko: "디지털 지갑"
+    gender: null
+  - english: "exchange rate"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: null
+  - english: "foreign exchange"
+    translation:
+      en: "foreign exchange"
+      ko: "외환"
+    gender: null
+    notes:
+      en: "Often abbreviated as forex"
+      ko: "forex로 줄여서 사용"
+  - english: "fintech"
+    translation:
+      en: "fintech"
+      ko: "핀테크"
+    gender: null
+  - english: "cryptocurrency"
+    translation:
+      en: "cryptocurrency"
+      ko: "암호화폐"
+    gender: null
+  - english: "Bitcoin"
+    translation:
+      en: "Bitcoin"
+      ko: "비트코인"
+    gender: null
+  - english: "to authenticate"
+    translation:
+      en: "to authenticate"
+      ko: "인증하다"
+    gender: null
+  - english: "two-factor authentication"
+    translation:
+      en: "two-factor authentication"
+      ko: "이중 인증"
+    gender: null
+  - english: "to verify"
+    translation:
+      en: "to verify"
+      ko: "확인하다"
+    gender: null
+  - english: "encryption"
+    translation:
+      en: "encryption"
+      ko: "암호화"
+    gender: null
+  - english: "phishing"
+    translation:
+      en: "phishing"
+      ko: "피싱"
+    gender: null
+  - english: "fraud"
+    translation:
+      en: "fraud"
+      ko: "사기"
+    gender: null
+  - english: "identity theft"
+    translation:
+      en: "identity theft"
+      ko: "신원 도용"
+    gender: null
+  - english: "to dispute"
+    translation:
+      en: "to dispute"
+      ko: "이의를 제기하다"
+    gender: null
+  - english: "chargeback"
+    translation:
+      en: "chargeback"
+      ko: "결제 취소"
+    gender: null
+
+- id: personal_banking
+  label:
+    en: "Personal Banking"
+    ko: "개인 금융"
+  type: vocabulary
+  words:
+  - english: "routing number"
+    translation:
+      en: "routing number"
+      ko: "은행 식별 번호"
+    gender: null
+  - english: "IBAN"
+    translation:
+      en: "IBAN"
+      ko: "국제 은행 계좌 번호"
+    gender: null
+  - english: "debit card"
+    translation:
+      en: "debit card"
+      ko: "직불 카드"
+    gender: null
+  - english: "credit card"
+    translation:
+      en: "credit card"
+      ko: "신용 카드"
+    gender: null
+  - english: "annual fee"
+    translation:
+      en: "annual fee"
+      ko: "연회비"
+    gender: null
+  - english: "grace period"
+    translation:
+      en: "grace period"
+      ko: "유예 기간"
+    gender: null
+
+- id: loans_and_debt
+  label:
+    en: "Loans and Debt"
+    ko: "대출 및 부채"
+  type: vocabulary
+  words:
+  - english: "student loan"
+    translation:
+      en: "student loan"
+      ko: "학자금 대출"
+    gender: null
+  - english: "auto loan"
+    translation:
+      en: "auto loan"
+      ko: "자동차 대출"
+    gender: null
+  - english: "personal loan"
+    translation:
+      en: "personal loan"
+      ko: "개인 대출"
+    gender: null
+  - english: "principal"
+    translation:
+      en: "principal"
+      ko: "원금"
+    gender: null
+  - english: "fixed rate"
+    translation:
+      en: "fixed rate"
+      ko: "고정 금리"
+    gender: null
+  - english: "variable rate"
+    translation:
+      en: "variable rate"
+      ko: "변동 금리"
+    gender: null
+  - english: "amortization"
+    translation:
+      en: "amortization"
+      ko: "상환"
+    gender: null
+  - english: "refinance"
+    translation:
+      en: "refinance"
+      ko: "재융자"
+    gender: null
+  - english: "default"
+    translation:
+      en: "default"
+      ko: "채무 불이행"
+    gender: null
+  - english: "foreclosure"
+    translation:
+      en: "foreclosure"
+      ko: "압류"
+    gender: null
+  - english: "credit report"
+    translation:
+      en: "credit report"
+      ko: "신용 보고서"
+    gender: null
+  - english: "debt consolidation"
+    translation:
+      en: "debt consolidation"
+      ko: "부채 통합"
+    gender: null
+  - english: "repayment plan"
+    translation:
+      en: "repayment plan"
+      ko: "상환 계획"
+    gender: null
+
+- id: investing_basics
+  label:
+    en: "Investing Basics"
+    ko: "투자 기초"
+  type: vocabulary
+  words:
+  - english: "ETF"
+    translation:
+      en: "ETF"
+      ko: "상장지수펀드"
+    gender: null
+  - english: "diversification"
+    translation:
+      en: "diversification"
+      ko: "분산 투자"
+    gender: null
+  - english: "risk tolerance"
+    translation:
+      en: "risk tolerance"
+      ko: "위험 허용도"
+    gender: null
+  - english: "capital gain"
+    translation:
+      en: "capital gain"
+      ko: "자본 이득"
+    gender: null
+  - english: "market cap"
+    translation:
+      en: "market cap"
+      ko: "시가 총액"
+    gender: null
+  - english: "inflation hedge"
+    translation:
+      en: "inflation hedge"
+      ko: "인플레이션 헤지"
+    gender: null
+  - english: "401(k)"
+    translation:
+      en: "401(k)"
+      ko: "401(k)"
+    gender: null
+  - english: "IRA"
+    translation:
+      en: "IRA"
+      ko: "개인 퇴직 계좌"
+    gender: null
+  - english: "brokerage"
+    translation:
+      en: "brokerage"
+      ko: "증권사"
+    gender: null
+
+- id: taxes
+  label:
+    en: "Taxes"
+    ko: "세금"
+  type: vocabulary
+  words:
+  - english: "income tax"
+    translation:
+      en: "income tax"
+      ko: "소득세"
+    gender: null
+  - english: "sales tax"
+    translation:
+      en: "sales tax"
+      ko: "판매세"
+    gender: null
+  - english: "property tax"
+    translation:
+      en: "property tax"
+      ko: "재산세"
+    gender: null
+  - english: "capital gains tax"
+    translation:
+      en: "capital gains tax"
+      ko: "양도 소득세"
+    gender: null
+  - english: "estate tax"
+    translation:
+      en: "estate tax"
+      ko: "상속세"
+    gender: null
+  - english: "corporate tax"
+    translation:
+      en: "corporate tax"
+      ko: "법인세"
+    gender: null
+  - english: "tax bracket"
+    translation:
+      en: "tax bracket"
+      ko: "세율 구간"
+    gender: null
+  - english: "tax deduction"
+    translation:
+      en: "tax deduction"
+      ko: "세금 공제"
+    gender: null
+  - english: "tax credit"
+    translation:
+      en: "tax credit"
+      ko: "세액 공제"
+    gender: null
+  - english: "withholding"
+    translation:
+      en: "withholding"
+      ko: "원천 징수"
+    gender: null
+  - english: "audit"
+    translation:
+      en: "audit"
+      ko: "세무 감사"
+    gender: null
+  - english: "tax evasion"
+    translation:
+      en: "tax evasion"
+      ko: "탈세"
+    gender: null
+  - english: "tax avoidance"
+    translation:
+      en: "tax avoidance"
+      ko: "절세"
+    gender: null
+  - english: "W-2 form"
+    translation:
+      en: "W-2 form"
+      ko: "W-2 양식"
+    gender: null
+  - english: "1099 form"
+    translation:
+      en: "1099 form"
+      ko: "1099 양식"
+    gender: null
+  - english: "CPA"
+    translation:
+      en: "CPA"
+      ko: "공인 회계사"
+    gender: null
+  - english: "tax-exempt"
+    translation:
+      en: "tax-exempt"
+      ko: "면세"
+    gender: null
+
+- id: financial_planning
+  label:
+    en: "Financial Planning"
+    ko: "재무 계획"
+  type: vocabulary
+  words:
+  - english: "savings goal"
+    translation:
+      en: "savings goal"
+      ko: "저축 목표"
+    gender: null
+  - english: "financial literacy"
+    translation:
+      en: "financial literacy"
+      ko: "금융 이해력"
+    gender: null
+  - english: "estate planning"
+    translation:
+      en: "estate planning"
+      ko: "재산 계획"
+    gender: null
+  - english: "trust fund"
+    translation:
+      en: "trust fund"
+      ko: "신탁 기금"
+    gender: null
+  - english: "auto insurance"
+    translation:
+      en: "auto insurance"
+      ko: "자동차 보험"
+    gender: null
+  - english: "homeowners insurance"
+    translation:
+      en: "homeowners insurance"
+      ko: "주택 보험"
+    gender: null
+  - english: "annuity"
+    translation:
+      en: "annuity"
+      ko: "연금"
+    gender: null
+  - english: "cost of living"
+    translation:
+      en: "cost of living"
+      ko: "생활비"
+    gender: null
+  - english: "purchasing power"
+    translation:
+      en: "purchasing power"
+      ko: "구매력"
+    gender: null
+  - english: "financial goal"
+    translation:
+      en: "financial goal"
+      ko: "재무 목표"
+    gender: null
+  - english: "debt-to-income ratio"
+    translation:
+      en: "debt-to-income ratio"
+      ko: "부채 소득 비율"
+    gender: null
+  - english: "credit utilization"
+    translation:
+      en: "credit utilization"
+      ko: "신용 이용률"
+    gender: null
+
+- id: cryptocurrency_basics
+  label:
+    en: "Cryptocurrency Basics"
+    ko: "암호화폐 기초"
+  type: vocabulary
+  words:
+  - english: "Ethereum"
+    translation:
+      en: "Ethereum"
+      ko: "이더리움"
+    gender: null
+  - english: "blockchain"
+    translation:
+      en: "blockchain"
+      ko: "블록체인"
+    gender: null
+  - english: "wallet"
+    translation:
+      en: "wallet"
+      ko: "지갑"
+    gender: null
+  - english: "mining"
+    translation:
+      en: "mining"
+      ko: "채굴"
+    gender: null
+  - english: "token"
+    translation:
+      en: "token"
+      ko: "토큰"
+    gender: null
+  - english: "decentralized"
+    translation:
+      en: "decentralized"
+      ko: "탈중앙화된"
+    gender: null
+  - english: "exchange"
+    translation:
+      en: "exchange"
+      ko: "거래소"
+    gender: null
+  - english: "stablecoin"
+    translation:
+      en: "stablecoin"
+      ko: "스테이블코인"
+    gender: null
+  - english: "NFT"
+    translation:
+      en: "NFT"
+      ko: "대체 불가능 토큰"
+    gender: null
+  - english: "DeFi"
+    translation:
+      en: "DeFi"
+      ko: "탈중앙화 금융"
+    gender: null
+  - english: "smart contract"
+    translation:
+      en: "smart contract"
+      ko: "스마트 계약"
+    gender: null
+  - english: "altcoin"
+    translation:
+      en: "altcoin"
+      ko: "알트코인"
+    gender: null
+  - english: "yield"
+    translation:
+      en: "yield"
+      ko: "수익률"
+    gender: null
+  - english: "liquidity"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: null

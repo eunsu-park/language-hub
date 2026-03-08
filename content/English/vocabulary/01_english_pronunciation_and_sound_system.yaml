@@ -1,0 +1,444 @@
+lesson: 01_English_Pronunciation_and_Sound_System
+lesson_number: 1
+cefr: A1
+categories:
+- id: 11_alphabet_and_letters
+  label:
+    en: "1.1 Alphabet and Letters"
+    ko: "1.1 알파벳과 글자"
+  type: vocabulary
+  words:
+  - english: alphabet
+    translation:
+      en: the set of letters used in a language
+      ko: 알파벳
+    gender: null
+    notes:
+      en: English has 26 letters
+      ko: 영어에는 26개의 글자가 있음
+  - english: letter
+    translation:
+      en: a single character of the alphabet
+      ko: 글자
+    gender: null
+  - english: vowel
+    translation:
+      en: a speech sound made without blocking airflow (a, e, i, o, u)
+      ko: 모음
+    gender: null
+    notes:
+      en: "5 vowel letters but 20 vowel sounds in English"
+      ko: "영어에는 모음 글자 5개지만 모음 소리는 20개"
+  - english: consonant
+    translation:
+      en: a speech sound made by blocking airflow
+      ko: 자음
+    gender: null
+    notes:
+      en: "21 consonant letters in English"
+      ko: "영어에는 21개의 자음 글자가 있음"
+  - english: capital letter
+    translation:
+      en: an uppercase letter (A, B, C)
+      ko: 대문자
+    gender: null
+  - english: lowercase letter
+    translation:
+      en: a small letter (a, b, c)
+      ko: 소문자
+    gender: null
+  - english: syllable
+    translation:
+      en: a unit of pronunciation with one vowel sound
+      ko: 음절
+    gender: null
+  - english: word
+    translation:
+      en: a basic unit of language with meaning
+      ko: 단어
+    gender: null
+  - english: sentence
+    translation:
+      en: a group of words expressing a complete thought
+      ko: 문장
+    gender: null
+  - english: phrase
+    translation:
+      en: a group of words forming a unit but not a complete sentence
+      ko: 구
+    gender: null
+  - english: sound
+    translation:
+      en: something you hear; a phoneme
+      ko: 소리
+    gender: null
+  - english: spelling
+    translation:
+      en: the way a word is written with letters
+      ko: 철자
+    gender: null
+    notes:
+      en: English spelling is not phonetic
+      ko: 영어 철자는 발음과 일치하지 않음
+  - english: to spell
+    translation:
+      en: to say or write the letters of a word in order
+      ko: 철자하다
+    gender: null
+  - english: to pronounce
+    translation:
+      en: to make the sound of a word
+      ko: 발음하다
+    gender: null
+- id: 12_phonetic_terminology
+  label:
+    en: "1.2 Phonetic Terminology"
+    ko: "1.2 음성학 용어"
+  type: vocabulary
+  words:
+  - english: pronunciation
+    translation:
+      en: the way a word is spoken
+      ko: 발음
+    gender: null
+  - english: IPA
+    translation:
+      en: International Phonetic Alphabet — a system of symbols for sounds
+      ko: 국제 음성 기호
+    gender: null
+    notes:
+      en: Each sound has exactly one symbol
+      ko: 각 소리에 정확히 하나의 기호가 대응됨
+  - english: phoneme
+    translation:
+      en: the smallest unit of sound that distinguishes meaning
+      ko: 음소
+    gender: null
+  - english: accent
+    translation:
+      en: stress on a syllable, or a way of speaking linked to a region
+      ko: 악센트 / 강세
+    gender: null
+  - english: stress
+    translation:
+      en: emphasis placed on a syllable making it louder and longer
+      ko: 강세
+    gender: null
+    notes:
+      en: Every English word of 2+ syllables has one stressed syllable
+      ko: 2음절 이상의 영어 단어에는 반드시 강세 음절이 있음
+  - english: intonation
+    translation:
+      en: the rise and fall of pitch in speech
+      ko: 억양
+    gender: null
+  - english: rhythm
+    translation:
+      en: the pattern of stressed and unstressed syllables
+      ko: 리듬
+    gender: null
+    notes:
+      en: English is stress-timed, not syllable-timed
+      ko: 영어는 강세 박자이지 음절 박자가 아님
+  - english: pitch
+    translation:
+      en: the highness or lowness of a sound
+      ko: 음높이
+    gender: null
+  - english: tone
+    translation:
+      en: the quality or character of a sound
+      ko: 음조
+    gender: null
+  - english: voice
+    translation:
+      en: the sound produced by the vocal cords
+      ko: 목소리
+    gender: null
+- id: 13_vowel_sounds
+  label:
+    en: "1.3 Vowel Sounds"
+    ko: "1.3 모음 소리"
+  type: vocabulary
+  words:
+  - english: monophthong
+    translation:
+      en: a pure vowel sound with a single position
+      ko: 단모음
+    gender: null
+    notes:
+      en: English has 12 monophthongs
+      ko: 영어에는 12개의 단모음이 있음
+  - english: diphthong
+    translation:
+      en: a vowel sound that glides from one position to another
+      ko: 이중모음
+    gender: null
+    notes:
+      en: English has 8 diphthongs
+      ko: 영어에는 8개의 이중모음이 있음
+  - english: short vowel
+    translation:
+      en: a vowel sound produced briefly
+      ko: 단모음 (짧은 모음)
+    gender: null
+    notes:
+      en: "e.g., /ɪ/ in 'sit', /e/ in 'bed', /æ/ in 'cat'"
+      ko: "예: sit의 /ɪ/, bed의 /e/, cat의 /æ/"
+  - english: long vowel
+    translation:
+      en: a vowel sound held for a longer duration
+      ko: 장모음 (긴 모음)
+    gender: null
+    notes:
+      en: "e.g., /iː/ in 'see', /uː/ in 'food'"
+      ko: "예: see의 /iː/, food의 /uː/"
+  - english: schwa
+    translation:
+      en: the neutral unstressed vowel sound /ə/
+      ko: 슈와 (약모음)
+    gender: null
+    notes:
+      en: The most common sound in English, found in unstressed syllables
+      ko: 영어에서 가장 흔한 소리로 비강세 음절에서 나타남
+  - english: vowel length
+    translation:
+      en: the duration of a vowel sound
+      ko: 모음 길이
+    gender: null
+    notes:
+      en: "ship /ɪ/ vs sheep /iː/ — length changes meaning"
+      ko: "ship /ɪ/ vs sheep /iː/ — 길이가 의미를 바꿈"
+  - english: minimal pair
+    translation:
+      en: two words that differ by only one sound
+      ko: 최소 대립쌍
+    gender: null
+    notes:
+      en: "e.g., 'bat' /bæt/ vs 'bet' /bet/"
+      ko: "예: bat /bæt/ vs bet /bet/"
+- id: 14_consonant_sounds
+  label:
+    en: "1.4 Consonant Sounds"
+    ko: "1.4 자음 소리"
+  type: vocabulary
+  words:
+  - english: stop
+    translation:
+      en: a consonant made by completely blocking airflow then releasing
+      ko: 폐쇄음 (파열음)
+    gender: null
+    notes:
+      en: "/p/, /b/, /t/, /d/, /k/, /g/"
+      ko: "/p/, /b/, /t/, /d/, /k/, /g/"
+  - english: fricative
+    translation:
+      en: a consonant made by forcing air through a narrow gap
+      ko: 마찰음
+    gender: null
+    notes:
+      en: "/f/, /v/, /θ/, /ð/, /s/, /z/, /ʃ/, /ʒ/, /h/"
+      ko: "/f/, /v/, /θ/, /ð/, /s/, /z/, /ʃ/, /ʒ/, /h/"
+  - english: affricate
+    translation:
+      en: a consonant combining a stop and a fricative
+      ko: 파찰음
+    gender: null
+    notes:
+      en: "/tʃ/ as in 'church', /dʒ/ as in 'judge'"
+      ko: "church의 /tʃ/, judge의 /dʒ/"
+  - english: nasal
+    translation:
+      en: a consonant where air flows through the nose
+      ko: 비음
+    gender: null
+    notes:
+      en: "/m/, /n/, /ŋ/"
+      ko: "/m/, /n/, /ŋ/"
+  - english: voiced
+    translation:
+      en: produced with vibration of the vocal cords
+      ko: 유성음
+    gender: null
+    notes:
+      en: "/b/, /d/, /g/, /v/, /z/ are voiced"
+      ko: "/b/, /d/, /g/, /v/, /z/는 유성음"
+  - english: voiceless
+    translation:
+      en: produced without vibration of the vocal cords
+      ko: 무성음
+    gender: null
+    notes:
+      en: "/p/, /t/, /k/, /f/, /s/ are voiceless"
+      ko: "/p/, /t/, /k/, /f/, /s/는 무성음"
+  - english: aspiration
+    translation:
+      en: a burst of air released after a stop consonant
+      ko: 기식음 (유기음)
+    gender: null
+  - english: consonant cluster
+    translation:
+      en: two or more consonants together without a vowel between them
+      ko: 자음 군 (자음 연속)
+    gender: null
+    notes:
+      en: "'strike' has three consonants at the start: /str/"
+      ko: "strike의 첫 자음 3개: /str/"
+- id: 15_difficult_sounds_for_korean_speakers
+  label:
+    en: "1.5 Difficult Sounds for Korean Speakers"
+    ko: "1.5 한국어 화자에게 어려운 소리"
+  type: vocabulary
+  words:
+  - english: R sound
+    translation:
+      en: the English /r/, made by curling the tongue back
+      ko: R 발음
+    gender: null
+    notes:
+      en: Tongue curls back and touches nothing — different from Korean ㄹ
+      ko: 혀가 뒤로 말리며 어디에도 닿지 않음 — 한국어 ㄹ과 다름
+  - english: L sound
+    translation:
+      en: the English /l/, made by touching the tongue to the ridge behind upper teeth
+      ko: L 발음
+    gender: null
+    notes:
+      en: Tongue tip touches the alveolar ridge — air flows over the sides
+      ko: 혀끝이 윗잇몸에 닿으며 공기가 혀 옆으로 흐름
+  - english: th sound (voiceless)
+    translation:
+      en: the /θ/ sound as in 'think' and 'bath'
+      ko: 무성 th 발음
+    gender: null
+    notes:
+      en: Tongue tip between teeth, no voice — Korean speakers often say /s/
+      ko: 혀끝을 이 사이에 넣고 무성으로 — 한국어 화자는 /s/로 대체하기 쉬움
+  - english: th sound (voiced)
+    translation:
+      en: the /ð/ sound as in 'this' and 'that'
+      ko: 유성 th 발음
+    gender: null
+    notes:
+      en: Same position as /θ/ but with voice — Korean speakers often say /d/
+      ko: /θ/와 같은 위치이나 유성으로 — 한국어 화자는 /d/로 대체하기 쉬움
+  - english: F sound
+    translation:
+      en: the /f/ sound, made by upper teeth touching lower lip
+      ko: F 발음
+    gender: null
+    notes:
+      en: "Different from Korean ㅍ which uses both lips"
+      ko: "양순음인 한국어 ㅍ과 다름"
+  - english: V sound
+    translation:
+      en: the /v/ sound, same as /f/ but with voice
+      ko: V 발음
+    gender: null
+    notes:
+      en: "Different from Korean ㅂ which uses both lips"
+      ko: "양순음인 한국어 ㅂ과 다름"
+  - english: Z sound
+    translation:
+      en: the /z/ sound, like /s/ but with voice
+      ko: Z 발음
+    gender: null
+    notes:
+      en: Korean has no /z/ sound
+      ko: 한국어에는 /z/ 소리가 없음
+- id: 16_stress_and_connected_speech
+  label:
+    en: "1.6 Stress and Connected Speech"
+    ko: "1.6 강세와 연결 발화"
+  type: vocabulary
+  words:
+  - english: word stress
+    translation:
+      en: emphasis on one syllable in a multi-syllable word
+      ko: 단어 강세
+    gender: null
+    notes:
+      en: "ba-NA-na — stress on the second syllable"
+      ko: "ba-NA-na — 두 번째 음절에 강세"
+  - english: sentence stress
+    translation:
+      en: emphasis on important words in a sentence
+      ko: 문장 강세
+    gender: null
+    notes:
+      en: Content words are stressed, function words are not
+      ko: 내용어에 강세를 주고 기능어에는 강세를 주지 않음
+  - english: content word
+    translation:
+      en: a word that carries meaning (nouns, verbs, adjectives, adverbs)
+      ko: 내용어
+    gender: null
+  - english: function word
+    translation:
+      en: a grammar word (articles, pronouns, prepositions, auxiliaries)
+      ko: 기능어
+    gender: null
+  - english: linking
+    translation:
+      en: connecting the end of one word to the beginning of the next in speech
+      ko: 연음
+    gender: null
+    notes:
+      en: "'turn off' sounds like 'tur-NOFF'"
+      ko: "'turn off'가 'tur-NOFF'처럼 들림"
+  - english: reduction
+    translation:
+      en: making unstressed words shorter and weaker in speech
+      ko: 축약
+    gender: null
+    notes:
+      en: "'want to' reduces to 'wanna' in fast speech"
+      ko: "빠른 발화에서 'want to'가 'wanna'로 축약됨"
+  - english: elision
+    translation:
+      en: dropping a sound in connected speech
+      ko: 탈락
+    gender: null
+    notes:
+      en: "'probably' becomes 'probly' — middle syllable lost"
+      ko: "'probably'가 'probly'로 — 중간 음절 탈락"
+  - english: silent letter
+    translation:
+      en: a letter that is written but not pronounced
+      ko: 묵음 글자
+    gender: null
+    notes:
+      en: "'knight' — k, g, h are all silent"
+      ko: "'knight'에서 k, g, h 모두 묵음"
+  - english: falling intonation
+    translation:
+      en: pitch going down at the end of an utterance
+      ko: 하강 억양
+    gender: null
+    notes:
+      en: Used for statements and wh-questions
+      ko: 평서문과 의문사 의문문에 사용
+  - english: rising intonation
+    translation:
+      en: pitch going up at the end of an utterance
+      ko: 상승 억양
+    gender: null
+    notes:
+      en: Used for yes/no questions
+      ko: 예/아니오 의문문에 사용
+  - english: stress-timed
+    translation:
+      en: a rhythm where stressed syllables occur at regular intervals
+      ko: 강세 박자
+    gender: null
+    notes:
+      en: English is stress-timed; Korean is syllable-timed
+      ko: 영어는 강세 박자이고, 한국어는 음절 박자임
+  - english: syllable-timed
+    translation:
+      en: a rhythm where each syllable takes roughly equal time
+      ko: 음절 박자
+    gender: null
+    notes:
+      en: Korean is syllable-timed — each syllable has roughly equal weight
+      ko: 한국어는 음절 박자 — 각 음절이 거의 같은 비중을 가짐

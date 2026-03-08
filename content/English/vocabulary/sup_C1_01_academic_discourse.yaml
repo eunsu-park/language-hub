@@ -1,0 +1,1107 @@
+lesson: "sup_C1_Academic_Discourse"
+lesson_number: 181
+cefr: C1
+type: supplementary
+topic: "Academic Discourse"
+categories:
+- id: academic_writing
+  label:
+    en: "Academic Writing"
+    ko: "학술 작문"
+  type: vocabulary
+  words:
+  - english: "thesis"
+    translation:
+      en: "thesis"
+      ko: "논문 / 논지"
+    gender: null
+    notes:
+      en: "Plural: theses; also means the main argument"
+      ko: "복수형: theses; 주요 논점이라는 뜻도 있음"
+  - english: "dissertation"
+    translation:
+      en: "dissertation"
+      ko: "학위 논문"
+    gender: null
+  - english: "abstract"
+    translation:
+      en: "abstract"
+      ko: "초록"
+    gender: null
+  - english: "literature review"
+    translation:
+      en: "literature review"
+      ko: "문헌 검토"
+    gender: null
+  - english: "methodology"
+    translation:
+      en: "methodology"
+      ko: "방법론"
+    gender: null
+  - english: "findings"
+    translation:
+      en: "findings"
+      ko: "연구 결과"
+    gender: null
+  - english: "discussion"
+    translation:
+      en: "discussion"
+      ko: "논의"
+    gender: null
+  - english: "conclusion"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: null
+  - english: "appendix"
+    translation:
+      en: "appendix"
+      ko: "부록"
+    gender: null
+    notes:
+      en: "Plural: appendices"
+      ko: "복수형: appendices"
+  - english: "bibliography"
+    translation:
+      en: "bibliography"
+      ko: "참고문헌 목록"
+    gender: null
+  - english: "annotation"
+    translation:
+      en: "annotation"
+      ko: "주석"
+    gender: null
+  - english: "footnote"
+    translation:
+      en: "footnote"
+      ko: "각주"
+    gender: null
+  - english: "peer-reviewed"
+    translation:
+      en: "peer-reviewed"
+      ko: "동료 평가를 거친"
+    gender: null
+  - english: "to publish"
+    translation:
+      en: "to publish"
+      ko: "출판하다"
+    gender: null
+  - english: "journal"
+    translation:
+      en: "journal"
+      ko: "학술지"
+    gender: null
+  - english: "conference paper"
+    translation:
+      en: "conference paper"
+      ko: "학회 논문"
+    gender: null
+  - english: "proceedings"
+    translation:
+      en: "proceedings"
+      ko: "학회지"
+    gender: null
+  - english: "symposium"
+    translation:
+      en: "symposium"
+      ko: "심포지엄"
+    gender: null
+  - english: "to disseminate"
+    translation:
+      en: "to disseminate"
+      ko: "보급하다"
+    gender: null
+  - english: "monograph"
+    translation:
+      en: "monograph"
+      ko: "전문서적"
+    gender: null
+- id: citations_and_references
+  label:
+    en: "Citations and References"
+    ko: "인용 및 참고"
+  type: vocabulary
+  words:
+  - english: "citation"
+    translation:
+      en: "citation"
+      ko: "인용"
+    gender: null
+  - english: "reference"
+    translation:
+      en: "reference"
+      ko: "참고문헌"
+    gender: null
+  - english: "to cite"
+    translation:
+      en: "to cite"
+      ko: "인용하다"
+    gender: null
+  - english: "to quote"
+    translation:
+      en: "to quote"
+      ko: "직접 인용하다"
+    gender: null
+  - english: "to paraphrase"
+    translation:
+      en: "to paraphrase"
+      ko: "의역하다"
+    gender: null
+  - english: "to summarize"
+    translation:
+      en: "to summarize"
+      ko: "요약하다"
+    gender: null
+  - english: "plagiarism"
+    translation:
+      en: "plagiarism"
+      ko: "표절"
+    gender: null
+  - english: "attribution"
+    translation:
+      en: "attribution"
+      ko: "출처 표기"
+    gender: null
+  - english: "source"
+    translation:
+      en: "source"
+      ko: "출처"
+    gender: null
+  - english: "ibid."
+    translation:
+      en: "ibid."
+      ko: "앞의 책(같은 출처)"
+    gender: null
+    notes:
+      en: "Latin abbreviation for 'in the same place'"
+      ko: "라틴어 'ibidem'의 약자"
+  - english: "et al."
+    translation:
+      en: "et al."
+      ko: "그 외 저자들"
+    gender: null
+    notes:
+      en: "Latin for 'and others'"
+      ko: "라틴어 'et alii'의 약자"
+  - english: "op. cit."
+    translation:
+      en: "op. cit."
+      ko: "앞서 인용된 저작"
+    gender: null
+  - english: "sic"
+    translation:
+      en: "sic"
+      ko: "원문 그대로"
+    gender: null
+    notes:
+      en: "Used to indicate original text is quoted as-is, including errors"
+      ko: "오류를 포함하여 원문 그대로 인용함을 표시"
+  - english: "primary source"
+    translation:
+      en: "primary source"
+      ko: "1차 자료"
+    gender: null
+  - english: "secondary source"
+    translation:
+      en: "secondary source"
+      ko: "2차 자료"
+    gender: null
+- id: argumentation_and_rhetoric
+  label:
+    en: "Argumentation and Rhetoric"
+    ko: "논증 및 수사학"
+  type: vocabulary
+  words:
+  - english: "argument"
+    translation:
+      en: "argument"
+      ko: "논증"
+    gender: null
+  - english: "thesis statement"
+    translation:
+      en: "thesis statement"
+      ko: "논지문"
+    gender: null
+  - english: "premise"
+    translation:
+      en: "premise"
+      ko: "전제"
+    gender: null
+  - english: "to argue"
+    translation:
+      en: "to argue"
+      ko: "주장하다"
+    gender: null
+  - english: "to contend"
+    translation:
+      en: "to contend"
+      ko: "주장하다"
+    gender: null
+  - english: "to posit"
+    translation:
+      en: "to posit"
+      ko: "가정하다"
+    gender: null
+  - english: "to assert"
+    translation:
+      en: "to assert"
+      ko: "단언하다"
+    gender: null
+  - english: "to refute"
+    translation:
+      en: "to refute"
+      ko: "반박하다"
+    gender: null
+  - english: "to rebut"
+    translation:
+      en: "to rebut"
+      ko: "반론하다"
+    gender: null
+  - english: "to concede"
+    translation:
+      en: "to concede"
+      ko: "인정하다"
+    gender: null
+  - english: "counterargument"
+    translation:
+      en: "counterargument"
+      ko: "반론"
+    gender: null
+  - english: "caveat"
+    translation:
+      en: "caveat"
+      ko: "경고 / 단서"
+    gender: null
+  - english: "nuance"
+    translation:
+      en: "nuance"
+      ko: "뉘앙스"
+    gender: null
+  - english: "rhetoric"
+    translation:
+      en: "rhetoric"
+      ko: "수사학"
+    gender: null
+  - english: "persuasion"
+    translation:
+      en: "persuasion"
+      ko: "설득"
+    gender: null
+  - english: "ethos"
+    translation:
+      en: "ethos"
+      ko: "에토스 (신뢰 호소)"
+    gender: null
+  - english: "pathos"
+    translation:
+      en: "pathos"
+      ko: "파토스 (감정 호소)"
+    gender: null
+  - english: "logos"
+    translation:
+      en: "logos"
+      ko: "로고스 (논리 호소)"
+    gender: null
+  - english: "fallacy"
+    translation:
+      en: "fallacy"
+      ko: "오류"
+    gender: null
+  - english: "straw man"
+    translation:
+      en: "straw man"
+      ko: "허수아비 논증"
+    gender: null
+- id: research_methodology
+  label:
+    en: "Research Methodology"
+    ko: "연구 방법론"
+  type: vocabulary
+  words:
+  - english: "qualitative research"
+    translation:
+      en: "qualitative research"
+      ko: "정성적 연구"
+    gender: null
+  - english: "quantitative research"
+    translation:
+      en: "quantitative research"
+      ko: "정량적 연구"
+    gender: null
+  - english: "mixed methods"
+    translation:
+      en: "mixed methods"
+      ko: "혼합 연구"
+    gender: null
+  - english: "case study"
+    translation:
+      en: "case study"
+      ko: "사례 연구"
+    gender: null
+  - english: "longitudinal study"
+    translation:
+      en: "longitudinal study"
+      ko: "종단 연구"
+    gender: null
+  - english: "cross-sectional study"
+    translation:
+      en: "cross-sectional study"
+      ko: "횡단 연구"
+    gender: null
+  - english: "ethnography"
+    translation:
+      en: "ethnography"
+      ko: "민속지학"
+    gender: null
+  - english: "survey"
+    translation:
+      en: "survey"
+      ko: "설문 조사"
+    gender: null
+  - english: "interview"
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: null
+  - english: "to hypothesize"
+    translation:
+      en: "to hypothesize"
+      ko: "가설을 세우다"
+    gender: null
+  - english: "to operationalize"
+    translation:
+      en: "to operationalize"
+      ko: "조작화하다"
+    gender: null
+  - english: "validity"
+    translation:
+      en: "validity"
+      ko: "타당도"
+    gender: null
+  - english: "reliability"
+    translation:
+      en: "reliability"
+      ko: "신뢰도"
+    gender: null
+  - english: "sample size"
+    translation:
+      en: "sample size"
+      ko: "표본 크기"
+    gender: null
+  - english: "bias"
+    translation:
+      en: "bias"
+      ko: "편향"
+    gender: null
+  - english: "variable"
+    translation:
+      en: "variable"
+      ko: "변수"
+    gender: null
+  - english: "correlation"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: null
+  - english: "causation"
+    translation:
+      en: "causation"
+      ko: "인과관계"
+    gender: null
+    notes:
+      en: "Correlation does not imply causation"
+      ko: "상관관계가 인과관계를 의미하지는 않음"
+  - english: "to synthesize"
+    translation:
+      en: "to synthesize"
+      ko: "종합하다"
+    gender: null
+  - english: "to corroborate"
+    translation:
+      en: "to corroborate"
+      ko: "뒷받침하다"
+    gender: null
+- id: critical_analysis
+  label:
+    en: "Critical Analysis"
+    ko: "비판적 분석"
+  type: vocabulary
+  words:
+  - english: "to critique"
+    translation:
+      en: "to critique"
+      ko: "비평하다"
+    gender: null
+  - english: "to evaluate"
+    translation:
+      en: "to evaluate"
+      ko: "평가하다"
+    gender: null
+  - english: "to assess"
+    translation:
+      en: "to assess"
+      ko: "사정하다"
+    gender: null
+  - english: "to scrutinize"
+    translation:
+      en: "to scrutinize"
+      ko: "면밀히 조사하다"
+    gender: null
+  - english: "to extrapolate"
+    translation:
+      en: "to extrapolate"
+      ko: "외삽하다 / 추정하다"
+    gender: null
+  - english: "to interpolate"
+    translation:
+      en: "to interpolate"
+      ko: "보간하다"
+    gender: null
+  - english: "to substantiate"
+    translation:
+      en: "to substantiate"
+      ko: "입증하다"
+    gender: null
+  - english: "to postulate"
+    translation:
+      en: "to postulate"
+      ko: "가정하다"
+    gender: null
+  - english: "to conjecture"
+    translation:
+      en: "to conjecture"
+      ko: "추측하다"
+    gender: null
+  - english: "to juxtapose"
+    translation:
+      en: "to juxtapose"
+      ko: "병치하다"
+    gender: null
+  - english: "to delineate"
+    translation:
+      en: "to delineate"
+      ko: "묘사하다 / 윤곽을 그리다"
+    gender: null
+  - english: "to elucidate"
+    translation:
+      en: "to elucidate"
+      ko: "해명하다"
+    gender: null
+  - english: "to expound"
+    translation:
+      en: "to expound"
+      ko: "상세히 설명하다"
+    gender: null
+  - english: "to articulate"
+    translation:
+      en: "to articulate"
+      ko: "명확히 표현하다"
+    gender: null
+  - english: "to infer"
+    translation:
+      en: "to infer"
+      ko: "추론하다"
+    gender: null
+  - english: "to deduce"
+    translation:
+      en: "to deduce"
+      ko: "연역하다"
+    gender: null
+  - english: "to enumerate"
+    translation:
+      en: "to enumerate"
+      ko: "열거하다"
+    gender: null
+  - english: "to categorize"
+    translation:
+      en: "to categorize"
+      ko: "분류하다"
+    gender: null
+  - english: "to contextualize"
+    translation:
+      en: "to contextualize"
+      ko: "맥락화하다"
+    gender: null
+  - english: "to problematize"
+    translation:
+      en: "to problematize"
+      ko: "문제화하다"
+    gender: null
+- id: academic_vocabulary
+  label:
+    en: "Academic Vocabulary"
+    ko: "학술 어휘"
+  type: vocabulary
+  words:
+  - english: "paradigm"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: null
+  - english: "discourse"
+    translation:
+      en: "discourse"
+      ko: "담론"
+    gender: null
+  - english: "framework"
+    translation:
+      en: "framework"
+      ko: "프레임워크 / 틀"
+    gender: null
+  - english: "construct"
+    translation:
+      en: "construct"
+      ko: "구성 개념"
+    gender: null
+  - english: "dichotomy"
+    translation:
+      en: "dichotomy"
+      ko: "이분법"
+    gender: null
+  - english: "continuum"
+    translation:
+      en: "continuum"
+      ko: "연속체"
+    gender: null
+  - english: "trajectory"
+    translation:
+      en: "trajectory"
+      ko: "궤적"
+    gender: null
+  - english: "praxis"
+    translation:
+      en: "praxis"
+      ko: "실천"
+    gender: null
+  - english: "pedagogy"
+    translation:
+      en: "pedagogy"
+      ko: "교육학"
+    gender: null
+  - english: "andragogy"
+    translation:
+      en: "andragogy"
+      ko: "성인교육학"
+    gender: null
+  - english: "heuristic"
+    translation:
+      en: "heuristic"
+      ko: "발견적"
+    gender: null
+  - english: "taxonomy"
+    translation:
+      en: "taxonomy"
+      ko: "분류학"
+    gender: null
+  - english: "nomenclature"
+    translation:
+      en: "nomenclature"
+      ko: "명명법"
+    gender: null
+  - english: "canon"
+    translation:
+      en: "canon"
+      ko: "정전 / 규범"
+    gender: null
+  - english: "corpus"
+    translation:
+      en: "corpus"
+      ko: "말뭉치"
+    gender: null
+    notes:
+      en: "Plural: corpora"
+      ko: "복수형: corpora"
+  - english: "paradigm shift"
+    translation:
+      en: "paradigm shift"
+      ko: "패러다임 전환"
+    gender: null
+  - english: "epistemology"
+    translation:
+      en: "epistemology"
+      ko: "인식론"
+    gender: null
+  - english: "ontology"
+    translation:
+      en: "ontology"
+      ko: "존재론"
+    gender: null
+  - english: "hermeneutics"
+    translation:
+      en: "hermeneutics"
+      ko: "해석학"
+    gender: null
+  - english: "semiotics"
+    translation:
+      en: "semiotics"
+      ko: "기호학"
+    gender: null
+  - english: "dialectic"
+    translation:
+      en: "dialectic"
+      ko: "변증법"
+    gender: null
+  - english: "hegemony"
+    translation:
+      en: "hegemony"
+      ko: "패권"
+    gender: null
+  - english: "zeitgeist"
+    translation:
+      en: "zeitgeist"
+      ko: "시대정신"
+    gender: null
+  - english: "prognosis"
+    translation:
+      en: "prognosis"
+      ko: "예후 / 전망"
+    gender: null
+- id: publishing_and_academia
+  label:
+    en: "Publishing and Academia"
+    ko: "출판 및 학계"
+  type: vocabulary
+  words:
+  - english: "blind review"
+    translation:
+      en: "blind review"
+      ko: "블라인드 리뷰"
+    gender: null
+  - english: "manuscript"
+    translation:
+      en: "manuscript"
+      ko: "원고"
+    gender: null
+  - english: "galley proof"
+    translation:
+      en: "galley proof"
+      ko: "교정쇄"
+    gender: null
+  - english: "errata"
+    translation:
+      en: "errata"
+      ko: "정오표"
+    gender: null
+  - english: "corrigendum"
+    translation:
+      en: "corrigendum"
+      ko: "정정"
+    gender: null
+    notes:
+      en: "Plural: corrigenda"
+      ko: "복수형: corrigenda"
+  - english: "retraction"
+    translation:
+      en: "retraction"
+      ko: "철회"
+    gender: null
+  - english: "impact factor"
+    translation:
+      en: "impact factor"
+      ko: "임팩트 팩터"
+    gender: null
+  - english: "h-index"
+    translation:
+      en: "h-index"
+      ko: "h-지수"
+    gender: null
+  - english: "open access"
+    translation:
+      en: "open access"
+      ko: "오픈 액세스"
+    gender: null
+  - english: "preprint"
+    translation:
+      en: "preprint"
+      ko: "사전 인쇄본"
+    gender: null
+  - english: "postprint"
+    translation:
+      en: "postprint"
+      ko: "사후 인쇄본"
+    gender: null
+  - english: "tenure"
+    translation:
+      en: "tenure"
+      ko: "종신재직권"
+    gender: null
+  - english: "adjunct"
+    translation:
+      en: "adjunct"
+      ko: "비정년 강사"
+    gender: null
+  - english: "sabbatical"
+    translation:
+      en: "sabbatical"
+      ko: "안식년"
+    gender: null
+  - english: "endowment"
+    translation:
+      en: "endowment"
+      ko: "기부금 / 기금"
+    gender: null
+  - english: "grant"
+    translation:
+      en: "grant"
+      ko: "연구 보조금"
+    gender: null
+  - english: "fellowship"
+    translation:
+      en: "fellowship"
+      ko: "연구원 자격"
+    gender: null
+  - english: "colloquium"
+    translation:
+      en: "colloquium"
+      ko: "학술 발표회"
+    gender: null
+  - english: "keynote"
+    translation:
+      en: "keynote"
+      ko: "기조 연설"
+    gender: null
+  - english: "plenary session"
+    translation:
+      en: "plenary session"
+      ko: "전체 회의"
+    gender: null
+  - english: "breakout session"
+    translation:
+      en: "breakout session"
+      ko: "분과 회의"
+    gender: null
+  - english: "anthology"
+    translation:
+      en: "anthology"
+      ko: "선집"
+    gender: null
+
+- id: research_methodology_advanced
+  label:
+    en: "Research Methodology"
+    ko: "연구 방법론"
+  type: vocabulary
+  words:
+  - english: "positivism"
+    translation:
+      en: "positivism"
+      ko: "실증주의"
+    gender: null
+  - english: "constructivism"
+    translation:
+      en: "constructivism"
+      ko: "구성주의"
+    gender: null
+  - english: "phenomenological"
+    translation:
+      en: "phenomenological"
+      ko: "현상학적"
+    gender: null
+  - english: "grounded theory"
+    translation:
+      en: "grounded theory"
+      ko: "근거 이론"
+    gender: null
+  - english: "triangulation"
+    translation:
+      en: "triangulation"
+      ko: "삼각검증"
+    gender: null
+  - english: "operationalize"
+    translation:
+      en: "operationalize"
+      ko: "조작화하다"
+    gender: null
+  - english: "confounding variable"
+    translation:
+      en: "confounding variable"
+      ko: "교란 변수"
+    gender: null
+  - english: "internal validity"
+    translation:
+      en: "internal validity"
+      ko: "내적 타당도"
+    gender: null
+  - english: "external validity"
+    translation:
+      en: "external validity"
+      ko: "외적 타당도"
+    gender: null
+  - english: "reliability coefficient"
+    translation:
+      en: "reliability coefficient"
+      ko: "신뢰도 계수"
+    gender: null
+  - english: "intersubjectivity"
+    translation:
+      en: "intersubjectivity"
+      ko: "상호주관성"
+    gender: null
+
+- id: academic_argumentation
+  label:
+    en: "Academic Argumentation"
+    ko: "학술 논증"
+  type: vocabulary
+  words:
+  - english: "rebuttal"
+    translation:
+      en: "rebuttal"
+      ko: "반박"
+    gender: null
+  - english: "concession"
+    translation:
+      en: "concession"
+      ko: "양보"
+    gender: null
+  - english: "stipulate"
+    translation:
+      en: "stipulate"
+      ko: "규정하다"
+    gender: null
+  - english: "postulate"
+    translation:
+      en: "postulate"
+      ko: "공리화하다"
+    gender: null
+  - english: "extrapolate"
+    translation:
+      en: "extrapolate"
+      ko: "추정하다"
+    gender: null
+  - english: "interpolate"
+    translation:
+      en: "interpolate"
+      ko: "보간하다"
+    gender: null
+  - english: "juxtapose"
+    translation:
+      en: "juxtapose"
+      ko: "병치하다"
+    gender: null
+  - english: "delineate"
+    translation:
+      en: "delineate"
+      ko: "묘사하다"
+    gender: null
+  - english: "elucidate"
+    translation:
+      en: "elucidate"
+      ko: "해명하다"
+    gender: null
+  - english: "substantiate"
+    translation:
+      en: "substantiate"
+      ko: "입증하다"
+    gender: null
+  - english: "corroborate"
+    translation:
+      en: "corroborate"
+      ko: "확증하다"
+    gender: null
+  - english: "refute"
+    translation:
+      en: "refute"
+      ko: "반박하다"
+    gender: null
+  - english: "disambiguate"
+    translation:
+      en: "disambiguate"
+      ko: "명확히 하다"
+    gender: null
+  - english: "circumscribe"
+    translation:
+      en: "circumscribe"
+      ko: "한정하다"
+    gender: null
+  - english: "predicate"
+    translation:
+      en: "predicate"
+      ko: "전제하다"
+    gender: null
+  - english: "subsume"
+    translation:
+      en: "subsume"
+      ko: "포함시키다"
+    gender: null
+  - english: "conflate"
+    translation:
+      en: "conflate"
+      ko: "혼동하다"
+    gender: null
+  - english: "discourse community"
+    translation:
+      en: "discourse community"
+      ko: "담화 공동체"
+    gender: null
+  - english: "epistemic"
+    translation:
+      en: "epistemic"
+      ko: "인식적"
+    gender: null
+  - english: "ontological"
+    translation:
+      en: "ontological"
+      ko: "존재론적"
+    gender: null
+  - english: "axiom"
+    translation:
+      en: "axiom"
+      ko: "공리"
+    gender: null
+  - english: "theorem"
+    translation:
+      en: "theorem"
+      ko: "정리"
+    gender: null
+  - english: "corollary"
+    translation:
+      en: "corollary"
+      ko: "필연적 결과"
+    gender: null
+  - english: "lemma"
+    translation:
+      en: "lemma"
+      ko: "보조 정리"
+    gender: null
+
+- id: scholarly_communication
+  label:
+    en: "Scholarly Communication"
+    ko: "학술적 소통"
+  type: vocabulary
+  words:
+  - english: "panel"
+    translation:
+      en: "panel"
+      ko: "패널"
+    gender: null
+  - english: "working paper"
+    translation:
+      en: "working paper"
+      ko: "워킹 페이퍼"
+    gender: null
+  - english: "editorial board"
+    translation:
+      en: "editorial board"
+      ko: "편집 위원회"
+    gender: null
+  - english: "peer-reviewed journal"
+    translation:
+      en: "peer-reviewed journal"
+      ko: "동료 심사 학술지"
+    gender: null
+
+- id: academic_registers
+  label:
+    en: "Academic Registers"
+    ko: "학술 문체"
+  type: vocabulary
+  words:
+  - english: "aforementioned"
+    translation:
+      en: "aforementioned"
+      ko: "전술한"
+    gender: null
+  - english: "notwithstanding"
+    translation:
+      en: "notwithstanding"
+      ko: "불구하고"
+    gender: null
+  - english: "hitherto"
+    translation:
+      en: "hitherto"
+      ko: "이제까지"
+    gender: null
+  - english: "henceforth"
+    translation:
+      en: "henceforth"
+      ko: "이후로"
+    gender: null
+  - english: "insofar as"
+    translation:
+      en: "insofar as"
+      ko: "~하는 한"
+    gender: null
+  - english: "inasmuch as"
+    translation:
+      en: "inasmuch as"
+      ko: "~이므로"
+    gender: null
+  - english: "vis-à-vis"
+    translation:
+      en: "vis-à-vis"
+      ko: "~와 관련하여"
+    gender: null
+  - english: "per se"
+    translation:
+      en: "per se"
+      ko: "그 자체로"
+    gender: null
+  - english: "ipso facto"
+    translation:
+      en: "ipso facto"
+      ko: "사실상"
+    gender: null
+  - english: "mutatis mutandis"
+    translation:
+      en: "mutatis mutandis"
+      ko: "필요한 변경을 가하여"
+    gender: null
+  - english: "inter alia"
+    translation:
+      en: "inter alia"
+      ko: "그 중에서도"
+    gender: null
+  - english: "circa"
+    translation:
+      en: "circa"
+      ko: "약"
+    gender: null
+  - english: "cf."
+    translation:
+      en: "cf."
+      ko: "비교하라"
+    gender: null
+  - english: "viz."
+    translation:
+      en: "viz."
+      ko: "즉"
+    gender: null
+  - english: "e.g."
+    translation:
+      en: "e.g."
+      ko: "예를 들어"
+    gender: null
+  - english: "i.e."
+    translation:
+      en: "i.e."
+      ko: "다시 말해"
+    gender: null
+  - english: "ergo"
+    translation:
+      en: "ergo"
+      ko: "따라서"
+    gender: null
+  - english: "quod erat demonstrandum"
+    translation:
+      en: "quod erat demonstrandum"
+      ko: "증명 완료"
+    gender: null
+
+- id: academic_verbs
+  label:
+    en: "Academic Verbs"
+    ko: "학술 동사"
+  type: vocabulary
+  words:
+  - english: "to analyze"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+    gender: null
+  - english: "to explicate"
+    translation:
+      en: "to explicate"
+      ko: "해석하다"
+    gender: null

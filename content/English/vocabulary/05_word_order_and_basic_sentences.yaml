@@ -1,0 +1,296 @@
+lesson: 05_Word_Order_and_Basic_Sentences
+lesson_number: 5
+cefr: A1
+categories:
+- id: 11_sentence_structure
+  label:
+    en: "1.1 Sentence Structure Terms"
+    ko: "1.1 문장 구조 용어"
+  type: vocabulary
+  words:
+  - english: word order
+    translation:
+      en: the arrangement of words in a sentence
+      ko: 어순
+    gender: null
+    notes:
+      en: "Korean: SOV / English: SVO — opposite order"
+      ko: "한국어: SOV / 영어: SVO — 반대 어순"
+  - english: SVO
+    translation:
+      en: Subject-Verb-Object word order (used in English)
+      ko: 주어-동사-목적어 어순 (영어에서 사용)
+    gender: null
+  - english: SOV
+    translation:
+      en: Subject-Object-Verb word order (used in Korean)
+      ko: 주어-목적어-동사 어순 (한국어에서 사용)
+    gender: null
+  - english: subject
+    translation:
+      en: who or what performs the action
+      ko: 주어
+    gender: null
+    notes:
+      en: Subject is required in English — cannot be dropped
+      ko: 영어에서 주어는 필수 — 생략할 수 없음
+  - english: object
+    translation:
+      en: who or what receives the action
+      ko: 목적어
+    gender: null
+  - english: complement
+    translation:
+      en: a word that completes the meaning after a linking verb
+      ko: 보어
+    gender: null
+  - english: statement
+    translation:
+      en: a sentence that tells something (declarative)
+      ko: 평서문
+    gender: null
+  - english: clause
+    translation:
+      en: a group of words with a subject and verb
+      ko: 절
+    gender: null
+- id: 12_question_words
+  label:
+    en: "1.2 Question Words (Wh-words)"
+    ko: "1.2 의문사"
+  type: vocabulary
+  words:
+  - english: what
+    translation:
+      en: asking about a thing or action
+      ko: 무엇
+    gender: null
+  - english: who
+    translation:
+      en: asking about a person
+      ko: 누구
+    gender: null
+  - english: where
+    translation:
+      en: asking about a place
+      ko: 어디
+    gender: null
+  - english: when
+    translation:
+      en: asking about a time
+      ko: 언제
+    gender: null
+  - english: why
+    translation:
+      en: asking about a reason
+      ko: 왜
+    gender: null
+  - english: how
+    translation:
+      en: asking about manner or method
+      ko: 어떻게
+    gender: null
+  - english: which
+    translation:
+      en: asking about a choice among options
+      ko: 어느 / 어떤
+    gender: null
+  - english: whose
+    translation:
+      en: asking about ownership
+      ko: 누구의
+    gender: null
+  - english: how many
+    translation:
+      en: asking about a number (countable)
+      ko: 몇 개의
+    gender: null
+  - english: how much
+    translation:
+      en: asking about an amount (uncountable) or price
+      ko: 얼마나 / 얼마
+    gender: null
+  - english: how often
+    translation:
+      en: asking about frequency
+      ko: 얼마나 자주
+    gender: null
+  - english: how long
+    translation:
+      en: asking about duration
+      ko: 얼마나 오래
+    gender: null
+- id: 13_there_is_there_are
+  label:
+    en: "1.3 There is / There are"
+    ko: "1.3 There is / There are"
+  type: vocabulary
+  words:
+  - english: there is
+    translation:
+      en: indicates that something exists (singular/uncountable)
+      ko: ~이 있다 (단수/불가산)
+    gender: null
+    notes:
+      en: "'There is a book on the table.'"
+      ko: "'There is a book on the table.' (탁자 위에 책이 있다)"
+  - english: there are
+    translation:
+      en: indicates that things exist (plural)
+      ko: ~이 있다 (복수)
+    gender: null
+  - english: "Is there...?"
+    translation:
+      en: question form asking if something exists
+      ko: ~이 있나요?
+    gender: null
+  - english: "There isn't..."
+    translation:
+      en: negative form — something does not exist
+      ko: ~이 없다
+    gender: null
+  - english: "There aren't any..."
+    translation:
+      en: negative form — no items exist
+      ko: ~이 하나도 없다
+    gender: null
+- id: 14_imperatives
+  label:
+    en: "1.4 Imperatives (Commands)"
+    ko: "1.4 명령문"
+  type: vocabulary
+  words:
+  - english: imperative
+    translation:
+      en: a sentence that gives a command or instruction
+      ko: 명령문
+    gender: null
+    notes:
+      en: No subject needed — just the base verb
+      ko: 주어 불필요 — 동사 원형만 사용
+  - english: "Sit down."
+    translation:
+      en: a command to take a seat
+      ko: 앉아. / 앉으세요.
+    gender: null
+  - english: "Open the door."
+    translation:
+      en: a command to open the door
+      ko: 문을 열어.
+    gender: null
+  - english: "Come here."
+    translation:
+      en: a command to approach
+      ko: 여기로 와.
+    gender: null
+  - english: "Listen to me."
+    translation:
+      en: a command to pay attention
+      ko: 내 말을 들어.
+    gender: null
+  - english: "Be quiet."
+    translation:
+      en: a command to stop making noise
+      ko: 조용히 해.
+    gender: null
+  - english: "Don't worry."
+    translation:
+      en: a negative command telling someone not to be anxious
+      ko: 걱정하지 마.
+    gender: null
+  - english: "Don't be late."
+    translation:
+      en: a negative command to arrive on time
+      ko: 늦지 마.
+    gender: null
+  - english: "Let's go."
+    translation:
+      en: a suggestion to go together
+      ko: 가자.
+    gender: null
+  - english: "Let's eat."
+    translation:
+      en: a suggestion to eat together
+      ko: 먹자.
+    gender: null
+- id: 15_negation
+  label:
+    en: "1.5 Negation"
+    ko: "1.5 부정"
+  type: vocabulary
+  words:
+  - english: not
+    translation:
+      en: used to make a sentence negative
+      ko: ~않다
+    gender: null
+  - english: "no"
+    translation:
+      en: used to negate a noun or refuse
+      ko: 없는 / 아니
+    gender: null
+  - english: nothing
+    translation:
+      en: not anything
+      ko: 아무것도 ~않다
+    gender: null
+  - english: nobody
+    translation:
+      en: not any person
+      ko: 아무도 ~않다
+    gender: null
+  - english: nowhere
+    translation:
+      en: not any place
+      ko: 아무 데도 ~않다
+    gender: null
+  - english: anything
+    translation:
+      en: used in questions and negatives — any thing
+      ko: 아무것(이나)
+    gender: null
+    notes:
+      en: "'I don't know anything' — no double negatives in English"
+      ko: "'I don't know anything' — 영어에서는 이중 부정 불가"
+  - english: anyone
+    translation:
+      en: used in questions and negatives — any person
+      ko: 아무(나)
+    gender: null
+- id: 16_exclamations
+  label:
+    en: "1.6 Exclamations"
+    ko: "1.6 감탄문"
+  type: vocabulary
+  words:
+  - english: "What a...!"
+    translation:
+      en: an exclamation about a noun
+      ko: 정말 ~한 ...이다!
+    gender: null
+    notes:
+      en: "'What a beautiful day!' 'What an interesting story!'"
+      ko: "'What a beautiful day!' 'What an interesting story!'"
+  - english: "How...!"
+    translation:
+      en: an exclamation about an adjective or adverb
+      ko: 정말 ~하다!
+    gender: null
+    notes:
+      en: "'How beautiful!' 'How fast he runs!'"
+      ko: "'How beautiful!' 'How fast he runs!'"
+  - english: really
+    translation:
+      en: used for emphasis or to express surprise
+      ko: 정말
+    gender: null
+  - english: so
+    translation:
+      en: used for emphasis before adjectives
+      ko: 너무, 매우
+    gender: null
+  - english: very
+    translation:
+      en: used to intensify adjectives and adverbs
+      ko: 매우
+    gender: null

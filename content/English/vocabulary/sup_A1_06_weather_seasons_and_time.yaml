@@ -1,0 +1,952 @@
+lesson: "sup_A1_Weather_Seasons_and_Time"
+lesson_number: 106
+cefr: A1
+type: supplementary
+topic: "Weather, Seasons, and Time"
+categories:
+- id: weather
+  label:
+    en: "Weather"
+    ko: "날씨"
+  type: vocabulary
+  words:
+  - english: "sunny"
+    translation:
+      en: "sunny"
+      ko: "화창한"
+    gender: null
+  - english: "cloudy"
+    translation:
+      en: "cloudy"
+      ko: "흐린"
+    gender: null
+  - english: "rainy"
+    translation:
+      en: "rainy"
+      ko: "비 오는"
+    gender: null
+  - english: "snowy"
+    translation:
+      en: "snowy"
+      ko: "눈 오는"
+    gender: null
+  - english: "windy"
+    translation:
+      en: "windy"
+      ko: "바람 부는"
+    gender: null
+  - english: "foggy"
+    translation:
+      en: "foggy"
+      ko: "안개 낀"
+    gender: null
+  - english: "stormy"
+    translation:
+      en: "stormy"
+      ko: "폭풍우의"
+    gender: null
+  - english: "rain"
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: null
+  - english: "snow"
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: null
+  - english: "wind"
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: null
+  - english: "cloud"
+    translation:
+      en: "cloud"
+      ko: "구름"
+    gender: null
+  - english: "sun"
+    translation:
+      en: "sun"
+      ko: "태양"
+    gender: null
+  - english: "storm"
+    translation:
+      en: "storm"
+      ko: "폭풍"
+    gender: null
+  - english: "thunder"
+    translation:
+      en: "thunder"
+      ko: "천둥"
+    gender: null
+  - english: "lightning"
+    translation:
+      en: "lightning"
+      ko: "번개"
+    gender: null
+  - english: "hail"
+    translation:
+      en: "hail"
+      ko: "우박"
+    gender: null
+  - english: "frost"
+    translation:
+      en: "frost"
+      ko: "서리"
+    gender: null
+  - english: "ice"
+    translation:
+      en: "ice"
+      ko: "얼음"
+    gender: null
+  - english: "rainbow"
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: null
+  - english: "temperature"
+    translation:
+      en: "temperature"
+      ko: "온도"
+    gender: null
+  - english: "hot"
+    translation:
+      en: "hot"
+      ko: "더운"
+    gender: null
+  - english: "warm"
+    translation:
+      en: "warm"
+      ko: "따뜻한"
+    gender: null
+  - english: "cool"
+    translation:
+      en: "cool"
+      ko: "시원한"
+    gender: null
+  - english: "cold"
+    translation:
+      en: "cold"
+      ko: "추운"
+    gender: null
+  - english: "freezing"
+    translation:
+      en: "freezing"
+      ko: "얼어붙는 / 영하의"
+    gender: null
+  - english: "humid"
+    translation:
+      en: "humid"
+      ko: "습한"
+    gender: null
+  - english: "dry"
+    translation:
+      en: "dry"
+      ko: "건조한"
+    gender: null
+  - english: "breeze"
+    translation:
+      en: "breeze"
+      ko: "산들바람"
+    gender: null
+  - english: "sunshine"
+    translation:
+      en: "sunshine"
+      ko: "햇살"
+    gender: null
+  - english: "forecast"
+    translation:
+      en: "forecast"
+      ko: "일기 예보"
+    gender: null
+  - english: "degree"
+    translation:
+      en: "degree"
+      ko: "도 (온도 단위)"
+    gender: null
+  - english: "umbrella"
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: null
+  - english: "flood"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: null
+  - english: "drought"
+    translation:
+      en: "drought"
+      ko: "가뭄"
+    gender: null
+    notes:
+      en: "Pronounced like 'drowt'"
+      ko: "'drowt'처럼 발음"
+  - english: "fog"
+    translation:
+      en: "fog"
+      ko: "안개"
+    gender: null
+  - english: "overcast"
+    translation:
+      en: "overcast"
+      ko: "잔뜩 흐린"
+    gender: null
+  - english: "clear"
+    translation:
+      en: "clear"
+      ko: "맑은"
+    gender: null
+  - english: "shower"
+    translation:
+      en: "shower"
+      ko: "소나기"
+    gender: null
+    notes:
+      en: "Also means a device for bathing"
+      ko: "목욕 시설이라는 뜻도 있음"
+  - english: "drizzle"
+    translation:
+      en: "drizzle"
+      ko: "이슬비"
+    gender: null
+  - english: "sleet"
+    translation:
+      en: "sleet"
+      ko: "진눈깨비"
+    gender: null
+  - english: "blizzard"
+    translation:
+      en: "blizzard"
+      ko: "눈보라"
+    gender: null
+  - english: "hurricane"
+    translation:
+      en: "hurricane"
+      ko: "허리케인"
+    gender: null
+  - english: "tornado"
+    translation:
+      en: "tornado"
+      ko: "토네이도"
+    gender: null
+  - english: "typhoon"
+    translation:
+      en: "typhoon"
+      ko: "태풍"
+    gender: null
+  - english: "gale"
+    translation:
+      en: "gale"
+      ko: "강풍"
+    gender: null
+  - english: "mist"
+    translation:
+      en: "mist"
+      ko: "옅은 안개"
+    gender: null
+  - english: "dew"
+    translation:
+      en: "dew"
+      ko: "이슬"
+    gender: null
+  - english: "snowflake"
+    translation:
+      en: "snowflake"
+      ko: "눈송이"
+    gender: null
+  - english: "icicle"
+    translation:
+      en: "icicle"
+      ko: "고드름"
+    gender: null
+  - english: "puddle"
+    translation:
+      en: "puddle"
+      ko: "웅덩이"
+    gender: null
+  - english: "to rain"
+    translation:
+      en: "to rain"
+      ko: "비가 오다"
+    gender: null
+  - english: "to snow"
+    translation:
+      en: "to snow"
+      ko: "눈이 오다"
+    gender: null
+  - english: "to shine"
+    translation:
+      en: "to shine"
+      ko: "빛나다"
+    gender: null
+  - english: "to blow"
+    translation:
+      en: "to blow"
+      ko: "불다"
+    gender: null
+  - english: "to melt"
+    translation:
+      en: "to melt"
+      ko: "녹다"
+    gender: null
+  - english: "to freeze"
+    translation:
+      en: "to freeze"
+      ko: "얼다"
+    gender: null
+  - english: "Celsius"
+    translation:
+      en: "Celsius"
+      ko: "섭씨"
+    gender: null
+  - english: "Fahrenheit"
+    translation:
+      en: "Fahrenheit"
+      ko: "화씨"
+    gender: null
+  - english: "thermometer"
+    translation:
+      en: "thermometer"
+      ko: "온도계"
+    gender: null
+  - english: "barometer"
+    translation:
+      en: "barometer"
+      ko: "기압계"
+    gender: null
+  - english: "climate"
+    translation:
+      en: "climate"
+      ko: "기후"
+    gender: null
+  - english: "season"
+    translation:
+      en: "season"
+      ko: "계절"
+    gender: null
+- id: seasons
+  label:
+    en: "Seasons"
+    ko: "계절"
+  type: vocabulary
+  words:
+  - english: "spring"
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: null
+    notes:
+      en: "Also means a water source or to jump"
+      ko: "샘물이나 뛰다라는 뜻도 있음"
+  - english: "summer"
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: null
+  - english: "autumn"
+    translation:
+      en: "autumn"
+      ko: "가을"
+    gender: null
+    notes:
+      en: "Called fall in American English"
+      ko: "미국 영어로 fall"
+  - english: "fall"
+    translation:
+      en: "fall"
+      ko: "가을"
+    gender: null
+    notes:
+      en: "American English for autumn; also means to drop down"
+      ko: "autumn의 미국식; 떨어지다라는 뜻도 있음"
+  - english: "winter"
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: null
+- id: months
+  label:
+    en: "Months"
+    ko: "월"
+  type: vocabulary
+  words:
+  - english: "January"
+    translation:
+      en: "January"
+      ko: "1월"
+    gender: null
+  - english: "February"
+    translation:
+      en: "February"
+      ko: "2월"
+    gender: null
+    notes:
+      en: "Often mispronounced; the first 'r' is frequently dropped"
+      ko: "자주 잘못 발음됨; 첫 번째 'r'이 생략되기도 함"
+  - english: "March"
+    translation:
+      en: "March"
+      ko: "3월"
+    gender: null
+  - english: "April"
+    translation:
+      en: "April"
+      ko: "4월"
+    gender: null
+  - english: "May"
+    translation:
+      en: "May"
+      ko: "5월"
+    gender: null
+  - english: "June"
+    translation:
+      en: "June"
+      ko: "6월"
+    gender: null
+  - english: "July"
+    translation:
+      en: "July"
+      ko: "7월"
+    gender: null
+  - english: "August"
+    translation:
+      en: "August"
+      ko: "8월"
+    gender: null
+  - english: "September"
+    translation:
+      en: "September"
+      ko: "9월"
+    gender: null
+  - english: "October"
+    translation:
+      en: "October"
+      ko: "10월"
+    gender: null
+  - english: "November"
+    translation:
+      en: "November"
+      ko: "11월"
+    gender: null
+  - english: "December"
+    translation:
+      en: "December"
+      ko: "12월"
+    gender: null
+- id: time_of_day
+  label:
+    en: "Time of Day"
+    ko: "하루의 시간"
+  type: vocabulary
+  words:
+  - english: "morning"
+    translation:
+      en: "morning"
+      ko: "아침"
+    gender: null
+  - english: "afternoon"
+    translation:
+      en: "afternoon"
+      ko: "오후"
+    gender: null
+  - english: "evening"
+    translation:
+      en: "evening"
+      ko: "저녁"
+    gender: null
+  - english: "night"
+    translation:
+      en: "night"
+      ko: "밤"
+    gender: null
+  - english: "midnight"
+    translation:
+      en: "midnight"
+      ko: "자정"
+    gender: null
+  - english: "noon"
+    translation:
+      en: "noon"
+      ko: "정오"
+    gender: null
+  - english: "dawn"
+    translation:
+      en: "dawn"
+      ko: "새벽"
+    gender: null
+  - english: "dusk"
+    translation:
+      en: "dusk"
+      ko: "황혼"
+    gender: null
+  - english: "sunrise"
+    translation:
+      en: "sunrise"
+      ko: "일출"
+    gender: null
+  - english: "sunset"
+    translation:
+      en: "sunset"
+      ko: "일몰"
+    gender: null
+  - english: "today"
+    translation:
+      en: "today"
+      ko: "오늘"
+    gender: null
+  - english: "tomorrow"
+    translation:
+      en: "tomorrow"
+      ko: "내일"
+    gender: null
+  - english: "yesterday"
+    translation:
+      en: "yesterday"
+      ko: "어제"
+    gender: null
+  - english: "hour"
+    translation:
+      en: "hour"
+      ko: "시간"
+    gender: null
+    notes:
+      en: "The 'h' is silent"
+      ko: "'h'는 묵음"
+  - english: "minute"
+    translation:
+      en: "minute"
+      ko: "분"
+    gender: null
+  - english: "second"
+    translation:
+      en: "second"
+      ko: "초"
+    gender: null
+    notes:
+      en: "Also means number two in order"
+      ko: "순서상 두 번째라는 뜻도 있음"
+  - english: "clock"
+    translation:
+      en: "clock"
+      ko: "시계"
+    gender: null
+  - english: "alarm"
+    translation:
+      en: "alarm"
+      ko: "알람"
+    gender: null
+  - english: "schedule"
+    translation:
+      en: "schedule"
+      ko: "일정"
+    gender: null
+    notes:
+      en: "Pronounced 'SKED-yool' in American, 'SHED-yool' in British"
+      ko: "미국식: 'SKED-yool', 영국식: 'SHED-yool'"
+  - english: "calendar"
+    translation:
+      en: "calendar"
+      ko: "달력"
+    gender: null
+- id: days_of_week
+  label:
+    en: "Days of the Week"
+    ko: "요일"
+  type: vocabulary
+  words:
+  - english: "Monday"
+    translation:
+      en: "Monday"
+      ko: "월요일"
+    gender: null
+  - english: "Tuesday"
+    translation:
+      en: "Tuesday"
+      ko: "화요일"
+    gender: null
+  - english: "Wednesday"
+    translation:
+      en: "Wednesday"
+      ko: "수요일"
+    gender: null
+    notes:
+      en: "The 'd' is silent"
+      ko: "'d'는 묵음"
+  - english: "Thursday"
+    translation:
+      en: "Thursday"
+      ko: "목요일"
+    gender: null
+  - english: "Friday"
+    translation:
+      en: "Friday"
+      ko: "금요일"
+    gender: null
+  - english: "Saturday"
+    translation:
+      en: "Saturday"
+      ko: "토요일"
+    gender: null
+  - english: "Sunday"
+    translation:
+      en: "Sunday"
+      ko: "일요일"
+    gender: null
+  - english: "weekday"
+    translation:
+      en: "weekday"
+      ko: "평일"
+    gender: null
+  - english: "weekend"
+    translation:
+      en: "weekend"
+      ko: "주말"
+    gender: null
+- id: frequency
+  label:
+    en: "Frequency"
+    ko: "빈도"
+  type: vocabulary
+  words:
+  - english: "always"
+    translation:
+      en: "always"
+      ko: "항상"
+    gender: null
+  - english: "usually"
+    translation:
+      en: "usually"
+      ko: "보통"
+    gender: null
+  - english: "often"
+    translation:
+      en: "often"
+      ko: "자주"
+    gender: null
+  - english: "sometimes"
+    translation:
+      en: "sometimes"
+      ko: "가끔"
+    gender: null
+  - english: "rarely"
+    translation:
+      en: "rarely"
+      ko: "드물게"
+    gender: null
+  - english: "never"
+    translation:
+      en: "never"
+      ko: "절대 ~ 않다"
+    gender: null
+  - english: "daily"
+    translation:
+      en: "daily"
+      ko: "매일"
+    gender: null
+  - english: "weekly"
+    translation:
+      en: "weekly"
+      ko: "매주"
+    gender: null
+  - english: "monthly"
+    translation:
+      en: "monthly"
+      ko: "매달"
+    gender: null
+  - english: "yearly"
+    translation:
+      en: "yearly"
+      ko: "매년"
+    gender: null
+    notes:
+      en: "Also annual or annually"
+      ko: "annual 또는 annually라고도 함"
+  - english: "once"
+    translation:
+      en: "once"
+      ko: "한 번"
+    gender: null
+  - english: "twice"
+    translation:
+      en: "twice"
+      ko: "두 번"
+    gender: null
+  - english: "early"
+    translation:
+      en: "early"
+      ko: "이른"
+    gender: null
+  - english: "late"
+    translation:
+      en: "late"
+      ko: "늦은"
+    gender: null
+  - english: "soon"
+    translation:
+      en: "soon"
+      ko: "곧"
+    gender: null
+  - english: "already"
+    translation:
+      en: "already"
+      ko: "이미"
+    gender: null
+  - english: "still"
+    translation:
+      en: "still"
+      ko: "아직"
+    gender: null
+  - english: "yet"
+    translation:
+      en: "yet"
+      ko: "아직 (부정/의문문)"
+    gender: null
+    notes:
+      en: "Used in negative sentences and questions"
+      ko: "부정문과 의문문에서 사용"
+  - english: "ago"
+    translation:
+      en: "ago"
+      ko: "~ 전에"
+    gender: null
+    notes:
+      en: "Used with past tense: two days ago"
+      ko: "과거시제와 함께 사용: two days ago"
+- id: time_expressions
+  label:
+    en: "Time Expressions and Durations"
+    ko: "시간 표현 및 기간"
+  type: vocabulary
+  words:
+  - english: "week"
+    translation:
+      en: "week"
+      ko: "주"
+    gender: null
+  - english: "month"
+    translation:
+      en: "month"
+      ko: "달"
+    gender: null
+  - english: "year"
+    translation:
+      en: "year"
+      ko: "년"
+    gender: null
+  - english: "decade"
+    translation:
+      en: "decade"
+      ko: "10년"
+    gender: null
+  - english: "century"
+    translation:
+      en: "century"
+      ko: "세기"
+    gender: null
+  - english: "day"
+    translation:
+      en: "day"
+      ko: "날 / 일"
+    gender: null
+  - english: "tonight"
+    translation:
+      en: "tonight"
+      ko: "오늘 밤"
+    gender: null
+  - english: "nowadays"
+    translation:
+      en: "nowadays"
+      ko: "요즘"
+    gender: null
+  - english: "recently"
+    translation:
+      en: "recently"
+      ko: "최근에"
+    gender: null
+  - english: "forever"
+    translation:
+      en: "forever"
+      ko: "영원히"
+    gender: null
+  - english: "during"
+    translation:
+      en: "during"
+      ko: "~동안"
+    gender: null
+  - english: "until"
+    translation:
+      en: "until"
+      ko: "~까지"
+    gender: null
+    notes:
+      en: "Also spelled till informally"
+      ko: "비격식적으로 till이라고도 함"
+  - english: "since"
+    translation:
+      en: "since"
+      ko: "~이래로"
+    gender: null
+  - english: "before"
+    translation:
+      en: "before"
+      ko: "~전에"
+    gender: null
+  - english: "after"
+    translation:
+      en: "after"
+      ko: "~후에"
+    gender: null
+  - english: "meanwhile"
+    translation:
+      en: "meanwhile"
+      ko: "그 사이에"
+    gender: null
+  - english: "moment"
+    translation:
+      en: "moment"
+      ko: "순간"
+    gender: null
+  - english: "quarter"
+    translation:
+      en: "quarter"
+      ko: "15분 / 4분의 1"
+    gender: null
+    notes:
+      en: "Used for time: quarter past three = 3:15"
+      ko: "시간에 사용: quarter past three = 3시 15분"
+  - english: "half"
+    translation:
+      en: "half"
+      ko: "반"
+    gender: null
+    notes:
+      en: "Used for time: half past two = 2:30"
+      ko: "시간에 사용: half past two = 2시 30분"
+  - english: "o'clock"
+    translation:
+      en: "o'clock"
+      ko: "~시 정각"
+    gender: null
+  - english: "a.m."
+    translation:
+      en: "a.m."
+      ko: "오전"
+    gender: null
+    notes:
+      en: "From Latin ante meridiem (before midday)"
+      ko: "라틴어 ante meridiem(정오 전)에서 유래"
+  - english: "p.m."
+    translation:
+      en: "p.m."
+      ko: "오후"
+    gender: null
+    notes:
+      en: "From Latin post meridiem (after midday)"
+      ko: "라틴어 post meridiem(정오 후)에서 유래"
+  - english: "next"
+    translation:
+      en: "next"
+      ko: "다음의"
+    gender: null
+  - english: "last"
+    translation:
+      en: "last"
+      ko: "지난"
+    gender: null
+  - english: "previous"
+    translation:
+      en: "previous"
+      ko: "이전의"
+    gender: null
+  - english: "the day after tomorrow"
+    translation:
+      en: "the day after tomorrow"
+      ko: "모레"
+    gender: null
+  - english: "the day before yesterday"
+    translation:
+      en: "the day before yesterday"
+      ko: "그저께"
+    gender: null
+  - english: "daylight"
+    translation:
+      en: "daylight"
+      ko: "낮 (햇빛이 있는 시간)"
+    gender: null
+  - english: "nighttime"
+    translation:
+      en: "nighttime"
+      ko: "밤 시간"
+    gender: null
+  - english: "on time"
+    translation:
+      en: "on time"
+      ko: "정시에"
+    gender: null
+  - english: "ahead of time"
+    translation:
+      en: "ahead of time"
+      ko: "미리"
+    gender: null
+  - english: "behind schedule"
+    translation:
+      en: "behind schedule"
+      ko: "일정보다 늦은"
+    gender: null
+  - english: "overtime"
+    translation:
+      en: "overtime"
+      ko: "초과 근무"
+    gender: null
+  - english: "deadline"
+    translation:
+      en: "deadline"
+      ko: "마감일"
+    gender: null
+  - english: "to hurry"
+    translation:
+      en: "to hurry"
+      ko: "서두르다"
+    gender: null
+  - english: "to wait"
+    translation:
+      en: "to wait"
+      ko: "기다리다"
+    gender: null
+  - english: "to delay"
+    translation:
+      en: "to delay"
+      ko: "지연시키다"
+    gender: null
+  - english: "to postpone"
+    translation:
+      en: "to postpone"
+      ko: "연기하다"
+    gender: null
+  - english: "time zone"
+    translation:
+      en: "time zone"
+      ko: "시간대"
+    gender: null
+  - english: "stopwatch"
+    translation:
+      en: "stopwatch"
+      ko: "스톱워치"
+    gender: null
+  - english: "timer"
+    translation:
+      en: "timer"
+      ko: "타이머"
+    gender: null
+  - english: "countdown"
+    translation:
+      en: "countdown"
+      ko: "카운트다운"
+    gender: null
+  - english: "hailstone"
+    translation:
+      en: "hailstone"
+      ko: "우박 알갱이"
+    gender: null

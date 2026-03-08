@@ -1,0 +1,1113 @@
+lesson: "sup_A2_Travel_and_Transportation"
+lesson_number: 121
+cefr: A2
+type: supplementary
+topic: "Travel and Transportation"
+categories:
+- id: airport
+  label:
+    en: "Airport"
+    ko: "공항"
+  type: vocabulary
+  words:
+  - english: "airport"
+    translation:
+      en: "airport"
+      ko: "공항"
+    gender: null
+  - english: "flight"
+    translation:
+      en: "flight"
+      ko: "항공편"
+    gender: null
+  - english: "airplane"
+    translation:
+      en: "airplane"
+      ko: "비행기"
+    gender: null
+    notes:
+      en: "Called aeroplane in British English"
+      ko: "영국 영어로 aeroplane"
+  - english: "passport"
+    translation:
+      en: "passport"
+      ko: "여권"
+    gender: null
+  - english: "boarding pass"
+    translation:
+      en: "boarding pass"
+      ko: "탑승권"
+    gender: null
+  - english: "luggage"
+    translation:
+      en: "luggage"
+      ko: "짐 / 수하물"
+    gender: null
+    notes:
+      en: "Uncountable; also called baggage"
+      ko: "불가산명사; baggage라고도 함"
+  - english: "suitcase"
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: null
+  - english: "check-in"
+    translation:
+      en: "check-in"
+      ko: "체크인"
+    gender: null
+  - english: "departure"
+    translation:
+      en: "departure"
+      ko: "출발"
+    gender: null
+  - english: "arrival"
+    translation:
+      en: "arrival"
+      ko: "도착"
+    gender: null
+  - english: "gate"
+    translation:
+      en: "gate"
+      ko: "탑승구"
+    gender: null
+  - english: "terminal"
+    translation:
+      en: "terminal"
+      ko: "터미널"
+    gender: null
+  - english: "customs"
+    translation:
+      en: "customs"
+      ko: "세관"
+    gender: null
+  - english: "security"
+    translation:
+      en: "security"
+      ko: "보안 검색"
+    gender: null
+  - english: "delay"
+    translation:
+      en: "delay"
+      ko: "지연"
+    gender: null
+  - english: "layover"
+    translation:
+      en: "layover"
+      ko: "경유"
+    gender: null
+  - english: "runway"
+    translation:
+      en: "runway"
+      ko: "활주로"
+    gender: null
+  - english: "pilot"
+    translation:
+      en: "pilot"
+      ko: "조종사"
+    gender: null
+  - english: "to take off"
+    translation:
+      en: "to take off"
+      ko: "이륙하다"
+    gender: null
+  - english: "to land"
+    translation:
+      en: "to land"
+      ko: "착륙하다"
+    gender: null
+- id: hotel_and_accommodation
+  label:
+    en: "Hotel and Accommodation"
+    ko: "호텔 및 숙박"
+  type: vocabulary
+  words:
+  - english: "hotel"
+    translation:
+      en: "hotel"
+      ko: "호텔"
+    gender: null
+  - english: "reservation"
+    translation:
+      en: "reservation"
+      ko: "예약"
+    gender: null
+    notes:
+      en: "Also called booking"
+      ko: "booking이라고도 함"
+  - english: "room"
+    translation:
+      en: "room"
+      ko: "방"
+    gender: null
+  - english: "single room"
+    translation:
+      en: "single room"
+      ko: "싱글룸"
+    gender: null
+  - english: "double room"
+    translation:
+      en: "double room"
+      ko: "더블룸"
+    gender: null
+  - english: "check-out"
+    translation:
+      en: "check-out"
+      ko: "체크아웃"
+    gender: null
+  - english: "reception"
+    translation:
+      en: "reception"
+      ko: "프런트 / 접수처"
+    gender: null
+    notes:
+      en: "Called front desk in American English"
+      ko: "미국 영어로 front desk"
+  - english: "key card"
+    translation:
+      en: "key card"
+      ko: "키 카드"
+    gender: null
+  - english: "lobby"
+    translation:
+      en: "lobby"
+      ko: "로비"
+    gender: null
+  - english: "hostel"
+    translation:
+      en: "hostel"
+      ko: "호스텔"
+    gender: null
+  - english: "guest"
+    translation:
+      en: "guest"
+      ko: "손님 / 투숙객"
+    gender: null
+  - english: "vacancy"
+    translation:
+      en: "vacancy"
+      ko: "빈 방"
+    gender: null
+- id: transportation
+  label:
+    en: "Transportation"
+    ko: "교통수단"
+  type: vocabulary
+  words:
+  - english: "car"
+    translation:
+      en: "car"
+      ko: "자동차"
+    gender: null
+  - english: "bus"
+    translation:
+      en: "bus"
+      ko: "버스"
+    gender: null
+  - english: "train"
+    translation:
+      en: "train"
+      ko: "기차"
+    gender: null
+  - english: "subway"
+    translation:
+      en: "subway"
+      ko: "지하철"
+    gender: null
+    notes:
+      en: "Called underground or tube in British English"
+      ko: "영국 영어로 underground 또는 tube"
+  - english: "taxi"
+    translation:
+      en: "taxi"
+      ko: "택시"
+    gender: null
+    notes:
+      en: "Also called cab"
+      ko: "cab이라고도 함"
+  - english: "bicycle"
+    translation:
+      en: "bicycle"
+      ko: "자전거"
+    gender: null
+    notes:
+      en: "Often shortened to bike"
+      ko: "보통 bike으로 줄여서 사용"
+  - english: "motorcycle"
+    translation:
+      en: "motorcycle"
+      ko: "오토바이"
+    gender: null
+  - english: "boat"
+    translation:
+      en: "boat"
+      ko: "보트"
+    gender: null
+  - english: "ship"
+    translation:
+      en: "ship"
+      ko: "배"
+    gender: null
+  - english: "ferry"
+    translation:
+      en: "ferry"
+      ko: "페리 / 여객선"
+    gender: null
+  - english: "truck"
+    translation:
+      en: "truck"
+      ko: "트럭"
+    gender: null
+    notes:
+      en: "Called lorry in British English"
+      ko: "영국 영어로 lorry"
+  - english: "van"
+    translation:
+      en: "van"
+      ko: "밴"
+    gender: null
+  - english: "helicopter"
+    translation:
+      en: "helicopter"
+      ko: "헬리콥터"
+    gender: null
+  - english: "scooter"
+    translation:
+      en: "scooter"
+      ko: "스쿠터"
+    gender: null
+- id: driving_and_directions
+  label:
+    en: "Driving and Directions"
+    ko: "운전 및 방향"
+  type: vocabulary
+  words:
+  - english: "to drive"
+    translation:
+      en: "to drive"
+      ko: "운전하다"
+    gender: null
+  - english: "driver's license"
+    translation:
+      en: "driver's license"
+      ko: "운전면허증"
+    gender: null
+    notes:
+      en: "Called driving licence in British English"
+      ko: "영국 영어로 driving licence"
+  - english: "traffic"
+    translation:
+      en: "traffic"
+      ko: "교통"
+    gender: null
+  - english: "traffic light"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: null
+  - english: "highway"
+    translation:
+      en: "highway"
+      ko: "고속도로"
+    gender: null
+    notes:
+      en: "Called motorway in British English"
+      ko: "영국 영어로 motorway"
+  - english: "parking lot"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: null
+    notes:
+      en: "Called car park in British English"
+      ko: "영국 영어로 car park"
+  - english: "gas station"
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: null
+    notes:
+      en: "Called petrol station in British English"
+      ko: "영국 영어로 petrol station"
+  - english: "speed limit"
+    translation:
+      en: "speed limit"
+      ko: "제한 속도"
+    gender: null
+  - english: "crosswalk"
+    translation:
+      en: "crosswalk"
+      ko: "횡단보도"
+    gender: null
+    notes:
+      en: "Called pedestrian crossing or zebra crossing in British English"
+      ko: "영국 영어로 pedestrian crossing 또는 zebra crossing"
+  - english: "intersection"
+    translation:
+      en: "intersection"
+      ko: "교차로"
+    gender: null
+  - english: "roundabout"
+    translation:
+      en: "roundabout"
+      ko: "로터리"
+    gender: null
+  - english: "bridge"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: null
+  - english: "tunnel"
+    translation:
+      en: "tunnel"
+      ko: "터널"
+    gender: null
+  - english: "sidewalk"
+    translation:
+      en: "sidewalk"
+      ko: "인도"
+    gender: null
+    notes:
+      en: "Called pavement in British English"
+      ko: "영국 영어로 pavement"
+  - english: "left"
+    translation:
+      en: "left"
+      ko: "왼쪽"
+    gender: null
+  - english: "right"
+    translation:
+      en: "right"
+      ko: "오른쪽"
+    gender: null
+  - english: "straight ahead"
+    translation:
+      en: "straight ahead"
+      ko: "직진"
+    gender: null
+  - english: "to turn"
+    translation:
+      en: "to turn"
+      ko: "돌다"
+    gender: null
+  - english: "map"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: null
+  - english: "GPS"
+    translation:
+      en: "GPS"
+      ko: "GPS / 내비게이션"
+    gender: null
+- id: travel_general
+  label:
+    en: "Travel General"
+    ko: "일반 여행 용어"
+  type: vocabulary
+  words:
+  - english: "trip"
+    translation:
+      en: "trip"
+      ko: "여행"
+    gender: null
+  - english: "vacation"
+    translation:
+      en: "vacation"
+      ko: "휴가"
+    gender: null
+    notes:
+      en: "Called holiday in British English"
+      ko: "영국 영어로 holiday"
+  - english: "tourist"
+    translation:
+      en: "tourist"
+      ko: "관광객"
+    gender: null
+  - english: "destination"
+    translation:
+      en: "destination"
+      ko: "목적지"
+    gender: null
+  - english: "souvenir"
+    translation:
+      en: "souvenir"
+      ko: "기념품"
+    gender: null
+  - english: "guidebook"
+    translation:
+      en: "guidebook"
+      ko: "가이드북"
+    gender: null
+  - english: "one-way ticket"
+    translation:
+      en: "one-way ticket"
+      ko: "편도 티켓"
+    gender: null
+  - english: "round-trip ticket"
+    translation:
+      en: "round-trip ticket"
+      ko: "왕복 티켓"
+    gender: null
+    notes:
+      en: "Called return ticket in British English"
+      ko: "영국 영어로 return ticket"
+  - english: "platform"
+    translation:
+      en: "platform"
+      ko: "플랫폼 / 승강장"
+    gender: null
+  - english: "station"
+    translation:
+      en: "station"
+      ko: "역"
+    gender: null
+  - english: "timetable"
+    translation:
+      en: "timetable"
+      ko: "시간표"
+    gender: null
+  - english: "to pack"
+    translation:
+      en: "to pack"
+      ko: "짐을 싸다"
+    gender: null
+  - english: "to travel"
+    translation:
+      en: "to travel"
+      ko: "여행하다"
+    gender: null
+  - english: "to book"
+    translation:
+      en: "to book"
+      ko: "예약하다"
+    gender: null
+  - english: "to cancel"
+    translation:
+      en: "to cancel"
+      ko: "취소하다"
+    gender: null
+- id: road_travel
+  label:
+    en: "Road Travel"
+    ko: "도로 여행"
+  type: vocabulary
+  words:
+  - english: "toll"
+    translation:
+      en: "toll"
+      ko: "통행료"
+    gender: null
+  - english: "flat tire"
+    translation:
+      en: "flat tire"
+      ko: "펑크난 타이어"
+    gender: null
+    notes:
+      en: "Called puncture in British English"
+      ko: "영국 영어로 puncture"
+  - english: "lane"
+    translation:
+      en: "lane"
+      ko: "차선"
+    gender: null
+  - english: "detour"
+    translation:
+      en: "detour"
+      ko: "우회"
+    gender: null
+  - english: "rest area"
+    translation:
+      en: "rest area"
+      ko: "휴게소"
+    gender: null
+  - english: "to overtake"
+    translation:
+      en: "to overtake"
+      ko: "추월하다"
+    gender: null
+  - english: "to hitchhike"
+    translation:
+      en: "to hitchhike"
+      ko: "히치하이크하다"
+    gender: null
+  - english: "road trip"
+    translation:
+      en: "road trip"
+      ko: "자동차 여행"
+    gender: null
+  - english: "seatbelt"
+    translation:
+      en: "seatbelt"
+      ko: "안전벨트"
+    gender: null
+  - english: "pedestrian"
+    translation:
+      en: "pedestrian"
+      ko: "보행자"
+    gender: null
+- id: public_transport
+  label:
+    en: "Public Transport"
+    ko: "대중교통"
+  type: vocabulary
+  words:
+  - english: "tram"
+    translation:
+      en: "tram"
+      ko: "트램 / 노면 전차"
+    gender: null
+  - english: "fare"
+    translation:
+      en: "fare"
+      ko: "운임 / 요금"
+    gender: null
+  - english: "transfer"
+    translation:
+      en: "transfer"
+      ko: "환승"
+    gender: null
+  - english: "commuter"
+    translation:
+      en: "commuter"
+      ko: "통근자"
+    gender: null
+  - english: "to commute"
+    translation:
+      en: "to commute"
+      ko: "통근하다"
+    gender: null
+  - english: "rush hour"
+    translation:
+      en: "rush hour"
+      ko: "출퇴근 시간"
+    gender: null
+  - english: "schedule"
+    translation:
+      en: "schedule"
+      ko: "시간표"
+    gender: null
+  - english: "route"
+    translation:
+      en: "route"
+      ko: "노선 / 경로"
+    gender: null
+  - english: "bus stop"
+    translation:
+      en: "bus stop"
+      ko: "버스 정류장"
+    gender: null
+  - english: "train station"
+    translation:
+      en: "train station"
+      ko: "기차역"
+    gender: null
+  - english: "ticket machine"
+    translation:
+      en: "ticket machine"
+      ko: "발권기"
+    gender: null
+  - english: "monthly pass"
+    translation:
+      en: "monthly pass"
+      ko: "정기권"
+    gender: null
+  - english: "first class"
+    translation:
+      en: "first class"
+      ko: "일등석"
+    gender: null
+  - english: "economy class"
+    translation:
+      en: "economy class"
+      ko: "이코노미석"
+    gender: null
+  - english: "to board"
+    translation:
+      en: "to board"
+      ko: "탑승하다"
+    gender: null
+  - english: "to disembark"
+    translation:
+      en: "to disembark"
+      ko: "하차하다"
+    gender: null
+  - english: "cruise"
+    translation:
+      en: "cruise"
+      ko: "크루즈"
+    gender: null
+- id: accommodation_details
+  label:
+    en: "Accommodation Details"
+    ko: "숙박 세부사항"
+  type: vocabulary
+  words:
+  - english: "room service"
+    translation:
+      en: "room service"
+      ko: "룸서비스"
+    gender: null
+  - english: "suite"
+    translation:
+      en: "suite"
+      ko: "스위트룸"
+    gender: null
+  - english: "bed and breakfast"
+    translation:
+      en: "bed and breakfast"
+      ko: "민박"
+    gender: null
+    notes:
+      en: "Often abbreviated as B&B"
+      ko: "B&B로 줄여서 사용"
+  - english: "fully booked"
+    translation:
+      en: "fully booked"
+      ko: "만실의"
+    gender: null
+  - english: "front desk"
+    translation:
+      en: "front desk"
+      ko: "프론트 데스크"
+    gender: null
+  - english: "housekeeping"
+    translation:
+      en: "housekeeping"
+      ko: "객실 정리 서비스"
+    gender: null
+  - english: "wake-up call"
+    translation:
+      en: "wake-up call"
+      ko: "모닝콜"
+    gender: null
+  - english: "minibar"
+    translation:
+      en: "minibar"
+      ko: "미니바"
+    gender: null
+  - english: "laundry service"
+    translation:
+      en: "laundry service"
+      ko: "세탁 서비스"
+    gender: null
+  - english: "to tip"
+    translation:
+      en: "to tip"
+      ko: "팁을 주다"
+    gender: null
+  - english: "bellboy"
+    translation:
+      en: "bellboy"
+      ko: "벨보이"
+    gender: null
+  - english: "concierge"
+    translation:
+      en: "concierge"
+      ko: "컨시어지"
+    gender: null
+    notes:
+      en: "French loanword"
+      ko: "프랑스어 차용어"
+  - english: "valet parking"
+    translation:
+      en: "valet parking"
+      ko: "발레 파킹"
+    gender: null
+- id: travel_documents
+  label:
+    en: "Travel Documents and Tourism"
+    ko: "여행 서류 및 관광"
+  type: vocabulary
+  words:
+  - english: "visa"
+    translation:
+      en: "visa"
+      ko: "비자"
+    gender: null
+  - english: "itinerary"
+    translation:
+      en: "itinerary"
+      ko: "여행 일정"
+    gender: null
+  - english: "travel insurance"
+    translation:
+      en: "travel insurance"
+      ko: "여행 보험"
+    gender: null
+  - english: "currency exchange"
+    translation:
+      en: "currency exchange"
+      ko: "환전"
+    gender: null
+  - english: "duty-free"
+    translation:
+      en: "duty-free"
+      ko: "면세"
+    gender: null
+  - english: "sightseeing"
+    translation:
+      en: "sightseeing"
+      ko: "관광"
+    gender: null
+  - english: "tour guide"
+    translation:
+      en: "tour guide"
+      ko: "여행 가이드"
+    gender: null
+  - english: "brochure"
+    translation:
+      en: "brochure"
+      ko: "안내 책자"
+    gender: null
+  - english: "travel agency"
+    translation:
+      en: "travel agency"
+      ko: "여행사"
+    gender: null
+  - english: "round trip"
+    translation:
+      en: "round trip"
+      ko: "왕복 여행"
+    gender: null
+    notes:
+      en: "Called return journey in British English"
+      ko: "영국 영어로 return journey"
+  - english: "one-way"
+    translation:
+      en: "one-way"
+      ko: "편도"
+    gender: null
+  - english: "declaration form"
+    translation:
+      en: "declaration form"
+      ko: "신고서"
+    gender: null
+  - english: "carry-on"
+    translation:
+      en: "carry-on"
+      ko: "기내 수하물"
+    gender: null
+    notes:
+      en: "Called hand luggage in British English"
+      ko: "영국 영어로 hand luggage"
+  - english: "jet lag"
+    translation:
+      en: "jet lag"
+      ko: "시차 피로"
+    gender: null
+  - english: "connection"
+    translation:
+      en: "connection"
+      ko: "연결편"
+    gender: null
+  - english: "backpacking"
+    translation:
+      en: "backpacking"
+      ko: "배낭여행"
+    gender: null
+  - english: "landmark"
+    translation:
+      en: "landmark"
+      ko: "랜드마크"
+    gender: null
+  - english: "monument"
+    translation:
+      en: "monument"
+      ko: "기념물 / 유적"
+    gender: null
+  - english: "souvenir shop"
+    translation:
+      en: "souvenir shop"
+      ko: "기념품 가게"
+    gender: null
+  - english: "postcard"
+    translation:
+      en: "postcard"
+      ko: "엽서"
+    gender: null
+  - english: "to explore"
+    translation:
+      en: "to explore"
+      ko: "탐험하다"
+    gender: null
+  - english: "to navigate"
+    translation:
+      en: "to navigate"
+      ko: "길을 찾다"
+    gender: null
+
+- id: airport_vocabulary
+  label:
+    en: "Airport Vocabulary"
+    ko: "공항 어휘"
+  type: vocabulary
+  words:
+  - english: "security check"
+    translation:
+      en: "security check"
+      ko: "보안 검색"
+    gender: null
+  - english: "direct flight"
+    translation:
+      en: "direct flight"
+      ko: "직항"
+    gender: null
+  - english: "cabin crew"
+    translation:
+      en: "cabin crew"
+      ko: "승무원"
+    gender: null
+  - english: "overhead bin"
+    translation:
+      en: "overhead bin"
+      ko: "짐칸"
+    gender: null
+  - english: "aisle seat"
+    translation:
+      en: "aisle seat"
+      ko: "복도 좌석"
+    gender: null
+  - english: "window seat"
+    translation:
+      en: "window seat"
+      ko: "창가 좌석"
+    gender: null
+  - english: "checked baggage"
+    translation:
+      en: "checked baggage"
+      ko: "위탁 수하물"
+    gender: null
+
+- id: road_signs
+  label:
+    en: "Road Signs and Directions"
+    ko: "도로 표지판 및 방향"
+  type: vocabulary
+  words:
+  - english: "one-way street"
+    translation:
+      en: "one-way street"
+      ko: "일방통행"
+    gender: null
+  - english: "dead end"
+    translation:
+      en: "dead end"
+      ko: "막다른 길"
+    gender: null
+  - english: "pedestrian crossing"
+    translation:
+      en: "pedestrian crossing"
+      ko: "횡단보도"
+    gender: null
+  - english: "exit ramp"
+    translation:
+      en: "exit ramp"
+      ko: "출구 램프"
+    gender: null
+  - english: "toll booth"
+    translation:
+      en: "toll booth"
+      ko: "요금소"
+    gender: null
+  - english: "turn left"
+    translation:
+      en: "turn left"
+      ko: "좌회전"
+    gender: null
+  - english: "turn right"
+    translation:
+      en: "turn right"
+      ko: "우회전"
+    gender: null
+  - english: "go straight"
+    translation:
+      en: "go straight"
+      ko: "직진"
+    gender: null
+  - english: "U-turn"
+    translation:
+      en: "U-turn"
+      ko: "유턴"
+    gender: null
+  - english: "merge"
+    translation:
+      en: "merge"
+      ko: "합류"
+    gender: null
+  - english: "yield"
+    translation:
+      en: "yield"
+      ko: "양보"
+    gender: null
+
+- id: travel_activities
+  label:
+    en: "Travel Activities"
+    ko: "여행 활동"
+  type: vocabulary
+  words:
+  - english: "excursion"
+    translation:
+      en: "excursion"
+      ko: "소풍"
+    gender: null
+  - english: "tip"
+    translation:
+      en: "tip"
+      ko: "팁"
+    gender: null
+  - english: "tourist attraction"
+    translation:
+      en: "tourist attraction"
+      ko: "관광 명소"
+    gender: null
+  - english: "camping"
+    translation:
+      en: "camping"
+      ko: "캠핑"
+    gender: null
+  - english: "resort"
+    translation:
+      en: "resort"
+      ko: "리조트"
+    gender: null
+  - english: "rental car"
+    translation:
+      en: "rental car"
+      ko: "렌터카"
+    gender: null
+
+- id: accommodation
+  label:
+    en: "Accommodation"
+    ko: "숙소"
+  type: vocabulary
+  words:
+  - english: "motel"
+    translation:
+      en: "motel"
+      ko: "모텔"
+    gender: null
+  - english: "vacation rental"
+    translation:
+      en: "vacation rental"
+      ko: "휴가용 임대"
+    gender: null
+  - english: "guest house"
+    translation:
+      en: "guest house"
+      ko: "게스트하우스"
+    gender: null
+  - english: "check-in time"
+    translation:
+      en: "check-in time"
+      ko: "체크인 시간"
+    gender: null
+  - english: "check-out time"
+    translation:
+      en: "check-out time"
+      ko: "체크아웃 시간"
+    gender: null
+  - english: "no vacancy"
+    translation:
+      en: "no vacancy"
+      ko: "만실"
+    gender: null
+  - english: "swimming pool"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: null
+  - english: "gym"
+    translation:
+      en: "gym"
+      ko: "체육관"
+    gender: null
+  - english: "continental breakfast"
+    translation:
+      en: "continental breakfast"
+      ko: "가벼운 아침 식사"
+    gender: null
+  - english: "luggage rack"
+    translation:
+      en: "luggage rack"
+      ko: "짐꽂이"
+    gender: null
+
+- id: travel_problems
+  label:
+    en: "Travel Problems"
+    ko: "여행 문제"
+  type: vocabulary
+  words:
+  - english: "delayed flight"
+    translation:
+      en: "delayed flight"
+      ko: "지연된 항공편"
+    gender: null
+  - english: "cancelled flight"
+    translation:
+      en: "cancelled flight"
+      ko: "취소된 항공편"
+    gender: null
+  - english: "lost luggage"
+    translation:
+      en: "lost luggage"
+      ko: "분실 수하물"
+    gender: null
+  - english: "missed connection"
+    translation:
+      en: "missed connection"
+      ko: "놓친 환승편"
+    gender: null
+  - english: "overbooking"
+    translation:
+      en: "overbooking"
+      ko: "초과 예약"
+    gender: null
+  - english: "turbulence"
+    translation:
+      en: "turbulence"
+      ko: "난기류"
+    gender: null
+  - english: "motion sickness"
+    translation:
+      en: "motion sickness"
+      ko: "멀미"
+    gender: null
+  - english: "pickpocket"
+    translation:
+      en: "pickpocket"
+      ko: "소매치기"
+    gender: null
+  - english: "lost passport"
+    translation:
+      en: "lost passport"
+      ko: "여권 분실"
+    gender: null
+  - english: "traffic accident"
+    translation:
+      en: "traffic accident"
+      ko: "교통사고"
+    gender: null
+  - english: "roadblock"
+    translation:
+      en: "roadblock"
+      ko: "도로 차단"
+    gender: null
+  - english: "wrong turn"
+    translation:
+      en: "wrong turn"
+      ko: "잘못된 회전"
+    gender: null
+  - english: "sea sickness"
+    translation:
+      en: "sea sickness"
+      ko: "배멀미"
+    gender: null
+  - english: "altitude sickness"
+    translation:
+      en: "altitude sickness"
+      ko: "고산병"
+    gender: null

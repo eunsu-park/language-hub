@@ -1,0 +1,981 @@
+lesson: "sup_A1_Animals_and_Nature"
+lesson_number: 101
+cefr: A1
+type: supplementary
+topic: "Animals and Nature"
+categories:
+- id: domestic_animals
+  label:
+    en: "Domestic Animals"
+    ko: "가축 및 반려동물"
+  type: vocabulary
+  words:
+  - english: "dog"
+    translation:
+      en: "dog"
+      ko: "개"
+    gender: null
+    notes:
+      en: "Most common household pet"
+      ko: "가장 흔한 반려동물"
+  - english: "cat"
+    translation:
+      en: "cat"
+      ko: "고양이"
+    gender: null
+  - english: "horse"
+    translation:
+      en: "horse"
+      ko: "말"
+    gender: null
+  - english: "cow"
+    translation:
+      en: "cow"
+      ko: "소"
+    gender: null
+    notes:
+      en: "Female cattle; bull is the male"
+      ko: "암소; 수소는 bull"
+  - english: "pig"
+    translation:
+      en: "pig"
+      ko: "돼지"
+    gender: null
+    notes:
+      en: "Also called hog or swine in farming contexts"
+      ko: "농업 맥락에서 hog이나 swine이라고도 함"
+  - english: "sheep"
+    translation:
+      en: "sheep"
+      ko: "양"
+    gender: null
+    notes:
+      en: "Plural is also sheep (irregular)"
+      ko: "복수형도 sheep (불규칙)"
+  - english: "goat"
+    translation:
+      en: "goat"
+      ko: "염소"
+    gender: null
+  - english: "chicken"
+    translation:
+      en: "chicken"
+      ko: "닭"
+    gender: null
+    notes:
+      en: "Also refers to the meat"
+      ko: "고기를 가리키기도 함"
+  - english: "duck"
+    translation:
+      en: "duck"
+      ko: "오리"
+    gender: null
+  - english: "rabbit"
+    translation:
+      en: "rabbit"
+      ko: "토끼"
+    gender: null
+  - english: "donkey"
+    translation:
+      en: "donkey"
+      ko: "당나귀"
+    gender: null
+  - english: "rooster"
+    translation:
+      en: "rooster"
+      ko: "수탉"
+    gender: null
+    notes:
+      en: "Male chicken; also called cock in British English"
+      ko: "수컷 닭; 영국 영어로 cock이라고도 함"
+  - english: "hen"
+    translation:
+      en: "hen"
+      ko: "암탉"
+    gender: null
+  - english: "puppy"
+    translation:
+      en: "puppy"
+      ko: "강아지"
+    gender: null
+  - english: "kitten"
+    translation:
+      en: "kitten"
+      ko: "새끼 고양이"
+    gender: null
+  - english: "lamb"
+    translation:
+      en: "lamb"
+      ko: "어린 양"
+    gender: null
+    notes:
+      en: "Also refers to the meat"
+      ko: "고기를 가리키기도 함"
+  - english: "calf"
+    translation:
+      en: "calf"
+      ko: "송아지"
+    gender: null
+    notes:
+      en: "Plural: calves"
+      ko: "복수형: calves"
+  - english: "foal"
+    translation:
+      en: "foal"
+      ko: "망아지"
+    gender: null
+  - english: "goose"
+    translation:
+      en: "goose"
+      ko: "거위"
+    gender: null
+    notes:
+      en: "Plural: geese (irregular)"
+      ko: "복수형: geese (불규칙)"
+  - english: "turkey"
+    translation:
+      en: "turkey"
+      ko: "칠면조"
+    gender: null
+  - english: "hamster"
+    translation:
+      en: "hamster"
+      ko: "햄스터"
+    gender: null
+  - english: "guinea pig"
+    translation:
+      en: "guinea pig"
+      ko: "기니피그"
+    gender: null
+  - english: "goldfish"
+    translation:
+      en: "goldfish"
+      ko: "금붕어"
+    gender: null
+  - english: "parrot"
+    translation:
+      en: "parrot"
+      ko: "앵무새"
+    gender: null
+  - english: "turtle"
+    translation:
+      en: "turtle"
+      ko: "거북이"
+    gender: null
+    notes:
+      en: "Tortoise lives on land; turtle lives in water"
+      ko: "tortoise는 육지; turtle은 수중 거북"
+  - english: "pet"
+    translation:
+      en: "pet"
+      ko: "반려동물"
+    gender: null
+  - english: "cage"
+    translation:
+      en: "cage"
+      ko: "우리 / 새장"
+    gender: null
+  - english: "barn"
+    translation:
+      en: "barn"
+      ko: "헛간 / 축사"
+    gender: null
+  - english: "stable"
+    translation:
+      en: "stable"
+      ko: "마구간"
+    gender: null
+  - english: "farm"
+    translation:
+      en: "farm"
+      ko: "농장"
+    gender: null
+  - english: "leash"
+    translation:
+      en: "leash"
+      ko: "목줄"
+    gender: null
+  - english: "paw"
+    translation:
+      en: "paw"
+      ko: "발 (동물)"
+    gender: null
+  - english: "tail"
+    translation:
+      en: "tail"
+      ko: "꼬리"
+    gender: null
+  - english: "feather"
+    translation:
+      en: "feather"
+      ko: "깃털"
+    gender: null
+  - english: "nest"
+    translation:
+      en: "nest"
+      ko: "둥지"
+    gender: null
+- id: wild_animals
+  label:
+    en: "Wild Animals"
+    ko: "야생 동물"
+  type: vocabulary
+  words:
+  - english: "lion"
+    translation:
+      en: "lion"
+      ko: "사자"
+    gender: null
+  - english: "tiger"
+    translation:
+      en: "tiger"
+      ko: "호랑이"
+    gender: null
+  - english: "elephant"
+    translation:
+      en: "elephant"
+      ko: "코끼리"
+    gender: null
+  - english: "bear"
+    translation:
+      en: "bear"
+      ko: "곰"
+    gender: null
+  - english: "wolf"
+    translation:
+      en: "wolf"
+      ko: "늑대"
+    gender: null
+    notes:
+      en: "Plural: wolves"
+      ko: "복수형: wolves"
+  - english: "fox"
+    translation:
+      en: "fox"
+      ko: "여우"
+    gender: null
+    notes:
+      en: "Plural: foxes"
+      ko: "복수형: foxes"
+  - english: "monkey"
+    translation:
+      en: "monkey"
+      ko: "원숭이"
+    gender: null
+  - english: "giraffe"
+    translation:
+      en: "giraffe"
+      ko: "기린"
+    gender: null
+  - english: "zebra"
+    translation:
+      en: "zebra"
+      ko: "얼룩말"
+    gender: null
+  - english: "deer"
+    translation:
+      en: "deer"
+      ko: "사슴"
+    gender: null
+    notes:
+      en: "Plural is also deer (irregular)"
+      ko: "복수형도 deer (불규칙)"
+  - english: "snake"
+    translation:
+      en: "snake"
+      ko: "뱀"
+    gender: null
+  - english: "crocodile"
+    translation:
+      en: "crocodile"
+      ko: "악어"
+    gender: null
+  - english: "dolphin"
+    translation:
+      en: "dolphin"
+      ko: "돌고래"
+    gender: null
+  - english: "whale"
+    translation:
+      en: "whale"
+      ko: "고래"
+    gender: null
+  - english: "shark"
+    translation:
+      en: "shark"
+      ko: "상어"
+    gender: null
+  - english: "eagle"
+    translation:
+      en: "eagle"
+      ko: "독수리"
+    gender: null
+  - english: "penguin"
+    translation:
+      en: "penguin"
+      ko: "펭귄"
+    gender: null
+  - english: "frog"
+    translation:
+      en: "frog"
+      ko: "개구리"
+    gender: null
+  - english: "owl"
+    translation:
+      en: "owl"
+      ko: "부엉이"
+    gender: null
+  - english: "squirrel"
+    translation:
+      en: "squirrel"
+      ko: "다람쥐"
+    gender: null
+  - english: "bat"
+    translation:
+      en: "bat"
+      ko: "박쥐"
+    gender: null
+    notes:
+      en: "Also means a stick used in sports (baseball bat)"
+      ko: "스포츠 도구(야구 방망이)라는 뜻도 있음"
+  - english: "kangaroo"
+    translation:
+      en: "kangaroo"
+      ko: "캥거루"
+    gender: null
+  - english: "polar bear"
+    translation:
+      en: "polar bear"
+      ko: "북극곰"
+    gender: null
+  - english: "hippopotamus"
+    translation:
+      en: "hippopotamus"
+      ko: "하마"
+    gender: null
+    notes:
+      en: "Often shortened to hippo"
+      ko: "보통 hippo로 줄여서 사용"
+  - english: "rhinoceros"
+    translation:
+      en: "rhinoceros"
+      ko: "코뿔소"
+    gender: null
+    notes:
+      en: "Often shortened to rhino"
+      ko: "보통 rhino로 줄여서 사용"
+  - english: "camel"
+    translation:
+      en: "camel"
+      ko: "낙타"
+    gender: null
+  - english: "gorilla"
+    translation:
+      en: "gorilla"
+      ko: "고릴라"
+    gender: null
+  - english: "seal"
+    translation:
+      en: "seal"
+      ko: "물개"
+    gender: null
+    notes:
+      en: "Also means to close or a stamp of approval"
+      ko: "닫다, 봉인하다라는 뜻도 있음"
+  - english: "octopus"
+    translation:
+      en: "octopus"
+      ko: "문어"
+    gender: null
+  - english: "crab"
+    translation:
+      en: "crab"
+      ko: "게"
+    gender: null
+  - english: "jellyfish"
+    translation:
+      en: "jellyfish"
+      ko: "해파리"
+    gender: null
+- id: insects_and_small_creatures
+  label:
+    en: "Insects and Small Creatures"
+    ko: "곤충 및 작은 생물"
+  type: vocabulary
+  words:
+  - english: "insect"
+    translation:
+      en: "insect"
+      ko: "곤충"
+    gender: null
+    notes:
+      en: "Also called bug in informal English"
+      ko: "비격식 영어에서 bug이라고도 함"
+  - english: "fly"
+    translation:
+      en: "fly"
+      ko: "파리"
+    gender: null
+    notes:
+      en: "Plural: flies"
+      ko: "복수형: flies"
+  - english: "mosquito"
+    translation:
+      en: "mosquito"
+      ko: "모기"
+    gender: null
+  - english: "bee"
+    translation:
+      en: "bee"
+      ko: "벌"
+    gender: null
+  - english: "butterfly"
+    translation:
+      en: "butterfly"
+      ko: "나비"
+    gender: null
+  - english: "ant"
+    translation:
+      en: "ant"
+      ko: "개미"
+    gender: null
+  - english: "spider"
+    translation:
+      en: "spider"
+      ko: "거미"
+    gender: null
+    notes:
+      en: "Technically an arachnid, not an insect"
+      ko: "엄밀히 말하면 곤충이 아닌 거미류"
+  - english: "snail"
+    translation:
+      en: "snail"
+      ko: "달팽이"
+    gender: null
+  - english: "cockroach"
+    translation:
+      en: "cockroach"
+      ko: "바퀴벌레"
+    gender: null
+  - english: "ladybug"
+    translation:
+      en: "ladybug"
+      ko: "무당벌레"
+    gender: null
+    notes:
+      en: "Called ladybird in British English"
+      ko: "영국 영어로 ladybird"
+  - english: "wasp"
+    translation:
+      en: "wasp"
+      ko: "말벌"
+    gender: null
+  - english: "dragonfly"
+    translation:
+      en: "dragonfly"
+      ko: "잠자리"
+    gender: null
+  - english: "beetle"
+    translation:
+      en: "beetle"
+      ko: "딱정벌레"
+    gender: null
+  - english: "grasshopper"
+    translation:
+      en: "grasshopper"
+      ko: "메뚜기"
+    gender: null
+  - english: "caterpillar"
+    translation:
+      en: "caterpillar"
+      ko: "애벌레"
+    gender: null
+  - english: "worm"
+    translation:
+      en: "worm"
+      ko: "벌레 / 지렁이"
+    gender: null
+  - english: "moth"
+    translation:
+      en: "moth"
+      ko: "나방"
+    gender: null
+  - english: "flea"
+    translation:
+      en: "flea"
+      ko: "벼룩"
+    gender: null
+  - english: "firefly"
+    translation:
+      en: "firefly"
+      ko: "반딧불이"
+    gender: null
+  - english: "cricket"
+    translation:
+      en: "cricket"
+      ko: "귀뚜라미"
+    gender: null
+    notes:
+      en: "Also a popular sport"
+      ko: "스포츠 이름이기도 함"
+- id: plants_and_trees
+  label:
+    en: "Plants and Trees"
+    ko: "식물과 나무"
+  type: vocabulary
+  words:
+  - english: "tree"
+    translation:
+      en: "tree"
+      ko: "나무"
+    gender: null
+  - english: "flower"
+    translation:
+      en: "flower"
+      ko: "꽃"
+    gender: null
+  - english: "plant"
+    translation:
+      en: "plant"
+      ko: "식물"
+    gender: null
+  - english: "grass"
+    translation:
+      en: "grass"
+      ko: "풀 / 잔디"
+    gender: null
+  - english: "leaf"
+    translation:
+      en: "leaf"
+      ko: "잎"
+    gender: null
+    notes:
+      en: "Plural: leaves"
+      ko: "복수형: leaves"
+  - english: "branch"
+    translation:
+      en: "branch"
+      ko: "가지"
+    gender: null
+  - english: "root"
+    translation:
+      en: "root"
+      ko: "뿌리"
+    gender: null
+  - english: "seed"
+    translation:
+      en: "seed"
+      ko: "씨앗"
+    gender: null
+  - english: "rose"
+    translation:
+      en: "rose"
+      ko: "장미"
+    gender: null
+  - english: "sunflower"
+    translation:
+      en: "sunflower"
+      ko: "해바라기"
+    gender: null
+  - english: "pine tree"
+    translation:
+      en: "pine tree"
+      ko: "소나무"
+    gender: null
+  - english: "oak tree"
+    translation:
+      en: "oak tree"
+      ko: "참나무"
+    gender: null
+  - english: "palm tree"
+    translation:
+      en: "palm tree"
+      ko: "야자나무"
+    gender: null
+  - english: "bush"
+    translation:
+      en: "bush"
+      ko: "관목 / 덤불"
+    gender: null
+  - english: "thorn"
+    translation:
+      en: "thorn"
+      ko: "가시"
+    gender: null
+  - english: "petal"
+    translation:
+      en: "petal"
+      ko: "꽃잎"
+    gender: null
+  - english: "trunk"
+    translation:
+      en: "trunk"
+      ko: "나무 줄기"
+    gender: null
+    notes:
+      en: "Also means a large suitcase or elephant's nose"
+      ko: "큰 여행 가방이나 코끼리 코라는 뜻도 있음"
+  - english: "moss"
+    translation:
+      en: "moss"
+      ko: "이끼"
+    gender: null
+  - english: "ivy"
+    translation:
+      en: "ivy"
+      ko: "담쟁이덩굴"
+    gender: null
+  - english: "tulip"
+    translation:
+      en: "tulip"
+      ko: "튤립"
+    gender: null
+  - english: "daisy"
+    translation:
+      en: "daisy"
+      ko: "데이지"
+    gender: null
+  - english: "cactus"
+    translation:
+      en: "cactus"
+      ko: "선인장"
+    gender: null
+    notes:
+      en: "Plural: cacti or cactuses"
+      ko: "복수형: cacti 또는 cactuses"
+  - english: "mushroom"
+    translation:
+      en: "mushroom"
+      ko: "버섯"
+    gender: null
+    notes:
+      en: "Fungi, not a true plant"
+      ko: "진균류로, 엄밀히 식물이 아님"
+  - english: "lawn"
+    translation:
+      en: "lawn"
+      ko: "잔디밭"
+    gender: null
+  - english: "weed"
+    translation:
+      en: "weed"
+      ko: "잡초"
+    gender: null
+- id: nature_and_landscape
+  label:
+    en: "Nature and Landscape"
+    ko: "자연과 풍경"
+  type: vocabulary
+  words:
+  - english: "river"
+    translation:
+      en: "river"
+      ko: "강"
+    gender: null
+  - english: "lake"
+    translation:
+      en: "lake"
+      ko: "호수"
+    gender: null
+  - english: "mountain"
+    translation:
+      en: "mountain"
+      ko: "산"
+    gender: null
+  - english: "ocean"
+    translation:
+      en: "ocean"
+      ko: "대양"
+    gender: null
+  - english: "sea"
+    translation:
+      en: "sea"
+      ko: "바다"
+    gender: null
+  - english: "forest"
+    translation:
+      en: "forest"
+      ko: "숲"
+    gender: null
+  - english: "desert"
+    translation:
+      en: "desert"
+      ko: "사막"
+    gender: null
+    notes:
+      en: "Stress on first syllable; dessert (food) has stress on second"
+      ko: "첫 음절에 강세; dessert(디저트)는 둘째 음절에 강세"
+  - english: "island"
+    translation:
+      en: "island"
+      ko: "섬"
+    gender: null
+    notes:
+      en: "The 's' is silent"
+      ko: "'s'는 묵음"
+  - english: "beach"
+    translation:
+      en: "beach"
+      ko: "해변"
+    gender: null
+  - english: "hill"
+    translation:
+      en: "hill"
+      ko: "언덕"
+    gender: null
+  - english: "valley"
+    translation:
+      en: "valley"
+      ko: "계곡"
+    gender: null
+  - english: "waterfall"
+    translation:
+      en: "waterfall"
+      ko: "폭포"
+    gender: null
+  - english: "cliff"
+    translation:
+      en: "cliff"
+      ko: "절벽"
+    gender: null
+  - english: "cave"
+    translation:
+      en: "cave"
+      ko: "동굴"
+    gender: null
+  - english: "jungle"
+    translation:
+      en: "jungle"
+      ko: "정글"
+    gender: null
+  - english: "meadow"
+    translation:
+      en: "meadow"
+      ko: "초원"
+    gender: null
+  - english: "pond"
+    translation:
+      en: "pond"
+      ko: "연못"
+    gender: null
+  - english: "stream"
+    translation:
+      en: "stream"
+      ko: "시내 / 개울"
+    gender: null
+  - english: "coast"
+    translation:
+      en: "coast"
+      ko: "해안"
+    gender: null
+  - english: "field"
+    translation:
+      en: "field"
+      ko: "들판"
+    gender: null
+  - english: "rock"
+    translation:
+      en: "rock"
+      ko: "바위"
+    gender: null
+  - english: "sand"
+    translation:
+      en: "sand"
+      ko: "모래"
+    gender: null
+  - english: "wave"
+    translation:
+      en: "wave"
+      ko: "파도"
+    gender: null
+  - english: "horizon"
+    translation:
+      en: "horizon"
+      ko: "지평선"
+    gender: null
+  - english: "volcano"
+    translation:
+      en: "volcano"
+      ko: "화산"
+    gender: null
+    notes:
+      en: "Plural: volcanoes or volcanos"
+      ko: "복수형: volcanoes 또는 volcanos"
+  - english: "nature"
+    translation:
+      en: "nature"
+      ko: "자연"
+    gender: null
+  - english: "park"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: null
+  - english: "countryside"
+    translation:
+      en: "countryside"
+      ko: "시골"
+    gender: null
+  - english: "swamp"
+    translation:
+      en: "swamp"
+      ko: "늪"
+    gender: null
+  - english: "canyon"
+    translation:
+      en: "canyon"
+      ko: "협곡"
+    gender: null
+  - english: "glacier"
+    translation:
+      en: "glacier"
+      ko: "빙하"
+    gender: null
+  - english: "landscape"
+    translation:
+      en: "landscape"
+      ko: "풍경"
+    gender: null
+  - english: "wildlife"
+    translation:
+      en: "wildlife"
+      ko: "야생 동물"
+    gender: null
+  - english: "habitat"
+    translation:
+      en: "habitat"
+      ko: "서식지"
+    gender: null
+  - english: "ecosystem"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: null
+  - english: "creek"
+    translation:
+      en: "creek"
+      ko: "개울"
+    gender: null
+  - english: "oasis"
+    translation:
+      en: "oasis"
+      ko: "오아시스"
+    gender: null
+    notes:
+      en: "Plural: oases (irregular)"
+      ko: "복수형: oases (불규칙)"
+  - english: "shore"
+    translation:
+      en: "shore"
+      ko: "해변 / 기슭"
+    gender: null
+  - english: "tide"
+    translation:
+      en: "tide"
+      ko: "조수"
+    gender: null
+  - english: "reef"
+    translation:
+      en: "reef"
+      ko: "암초"
+    gender: null
+  - english: "dune"
+    translation:
+      en: "dune"
+      ko: "모래 언덕"
+    gender: null
+  - english: "peninsula"
+    translation:
+      en: "peninsula"
+      ko: "반도"
+    gender: null
+  - english: "bay"
+    translation:
+      en: "bay"
+      ko: "만"
+    gender: null
+  - english: "plateau"
+    translation:
+      en: "plateau"
+      ko: "고원"
+    gender: null
+  - english: "brook"
+    translation:
+      en: "brook"
+      ko: "시냇물"
+    gender: null
+  - english: "gorge"
+    translation:
+      en: "gorge"
+      ko: "좁은 골짜기"
+    gender: null
+  - english: "savanna"
+    translation:
+      en: "savanna"
+      ko: "사바나"
+    gender: null
+  - english: "tundra"
+    translation:
+      en: "tundra"
+      ko: "툰드라"
+    gender: null
+  - english: "wilderness"
+    translation:
+      en: "wilderness"
+      ko: "야생 지역"
+    gender: null
+  - english: "trail"
+    translation:
+      en: "trail"
+      ko: "오솔길"
+    gender: null
+  - english: "seagull"
+    translation:
+      en: "seagull"
+      ko: "갈매기"
+    gender: null
+  - english: "pelican"
+    translation:
+      en: "pelican"
+      ko: "펠리컨"
+    gender: null
+  - english: "flamingo"
+    translation:
+      en: "flamingo"
+      ko: "플라밍고"
+    gender: null
+  - english: "woodpecker"
+    translation:
+      en: "woodpecker"
+      ko: "딱따구리"
+    gender: null
+  - english: "hedgehog"
+    translation:
+      en: "hedgehog"
+      ko: "고슴도치"
+    gender: null
+  - english: "otter"
+    translation:
+      en: "otter"
+      ko: "수달"
+    gender: null
+  - english: "raccoon"
+    translation:
+      en: "raccoon"
+      ko: "너구리"
+    gender: null
+  - english: "beaver"
+    translation:
+      en: "beaver"
+      ko: "비버"
+    gender: null
+  - english: "moose"
+    translation:
+      en: "moose"
+      ko: "무스"
+    gender: null
+  - english: "elk"
+    translation:
+      en: "elk"
+      ko: "엘크"
+    gender: null

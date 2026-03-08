@@ -1,0 +1,949 @@
+lesson: "sup_A1_Body_Health_and_Clothing"
+lesson_number: 104
+cefr: A1
+type: supplementary
+topic: "Body, Health, and Clothing"
+categories:
+- id: body_parts
+  label:
+    en: "Body Parts"
+    ko: "신체 부위"
+  type: vocabulary
+  words:
+  - english: "head"
+    translation:
+      en: "head"
+      ko: "머리"
+    gender: null
+  - english: "face"
+    translation:
+      en: "face"
+      ko: "얼굴"
+    gender: null
+  - english: "eye"
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: null
+  - english: "ear"
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: null
+  - english: "nose"
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: null
+  - english: "mouth"
+    translation:
+      en: "mouth"
+      ko: "입"
+    gender: null
+  - english: "tooth"
+    translation:
+      en: "tooth"
+      ko: "이 / 치아"
+    gender: null
+    notes:
+      en: "Plural: teeth (irregular)"
+      ko: "복수형: teeth (불규칙)"
+  - english: "tongue"
+    translation:
+      en: "tongue"
+      ko: "혀"
+    gender: null
+  - english: "lip"
+    translation:
+      en: "lip"
+      ko: "입술"
+    gender: null
+  - english: "hair"
+    translation:
+      en: "hair"
+      ko: "머리카락"
+    gender: null
+    notes:
+      en: "Uncountable when referring to all hair on the head"
+      ko: "머리 전체를 가리킬 때는 불가산명사"
+  - english: "neck"
+    translation:
+      en: "neck"
+      ko: "목"
+    gender: null
+  - english: "shoulder"
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: null
+  - english: "arm"
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: null
+  - english: "elbow"
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: null
+  - english: "wrist"
+    translation:
+      en: "wrist"
+      ko: "손목"
+    gender: null
+  - english: "hand"
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: null
+  - english: "finger"
+    translation:
+      en: "finger"
+      ko: "손가락"
+    gender: null
+  - english: "thumb"
+    translation:
+      en: "thumb"
+      ko: "엄지손가락"
+    gender: null
+    notes:
+      en: "The 'b' is silent"
+      ko: "'b'는 묵음"
+  - english: "chest"
+    translation:
+      en: "chest"
+      ko: "가슴"
+    gender: null
+  - english: "back"
+    translation:
+      en: "back"
+      ko: "등"
+    gender: null
+  - english: "stomach"
+    translation:
+      en: "stomach"
+      ko: "위 / 배"
+    gender: null
+    notes:
+      en: "Informally called tummy or belly"
+      ko: "비격식적으로 tummy 또는 belly"
+  - english: "leg"
+    translation:
+      en: "leg"
+      ko: "다리"
+    gender: null
+  - english: "knee"
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: null
+    notes:
+      en: "The 'k' is silent"
+      ko: "'k'는 묵음"
+  - english: "ankle"
+    translation:
+      en: "ankle"
+      ko: "발목"
+    gender: null
+  - english: "foot"
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: null
+    notes:
+      en: "Plural: feet (irregular)"
+      ko: "복수형: feet (불규칙)"
+  - english: "toe"
+    translation:
+      en: "toe"
+      ko: "발가락"
+    gender: null
+  - english: "skin"
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: null
+  - english: "bone"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: null
+  - english: "heart"
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: null
+  - english: "brain"
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: null
+  - english: "blood"
+    translation:
+      en: "blood"
+      ko: "피 / 혈액"
+    gender: null
+  - english: "muscle"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: null
+  - english: "chin"
+    translation:
+      en: "chin"
+      ko: "턱"
+    gender: null
+  - english: "cheek"
+    translation:
+      en: "cheek"
+      ko: "뺨"
+    gender: null
+  - english: "forehead"
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: null
+  - english: "eyebrow"
+    translation:
+      en: "eyebrow"
+      ko: "눈썹"
+    gender: null
+  - english: "eyelash"
+    translation:
+      en: "eyelash"
+      ko: "속눈썹"
+    gender: null
+  - english: "jaw"
+    translation:
+      en: "jaw"
+      ko: "턱뼈"
+    gender: null
+  - english: "hip"
+    translation:
+      en: "hip"
+      ko: "엉덩이 / 골반"
+    gender: null
+  - english: "waist"
+    translation:
+      en: "waist"
+      ko: "허리"
+    gender: null
+  - english: "thigh"
+    translation:
+      en: "thigh"
+      ko: "허벅지"
+    gender: null
+  - english: "calf"
+    translation:
+      en: "calf"
+      ko: "종아리"
+    gender: null
+    notes:
+      en: "Plural: calves (irregular)"
+      ko: "복수형: calves (불규칙)"
+  - english: "palm"
+    translation:
+      en: "palm"
+      ko: "손바닥"
+    gender: null
+  - english: "nail"
+    translation:
+      en: "nail"
+      ko: "손톱 / 발톱"
+    gender: null
+  - english: "rib"
+    translation:
+      en: "rib"
+      ko: "갈비뼈"
+    gender: null
+  - english: "spine"
+    translation:
+      en: "spine"
+      ko: "척추"
+    gender: null
+  - english: "lung"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: null
+  - english: "liver"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: null
+  - english: "kidney"
+    translation:
+      en: "kidney"
+      ko: "신장 / 콩팥"
+    gender: null
+- id: basic_health
+  label:
+    en: "Basic Health and Illness"
+    ko: "기본 건강 및 질병"
+  type: vocabulary
+  words:
+  - english: "sick"
+    translation:
+      en: "sick"
+      ko: "아픈"
+    gender: null
+    notes:
+      en: "Called ill in British English"
+      ko: "영국 영어로 ill"
+  - english: "healthy"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+  - english: "pain"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: null
+  - english: "headache"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: null
+  - english: "stomachache"
+    translation:
+      en: "stomachache"
+      ko: "복통"
+    gender: null
+  - english: "cold"
+    translation:
+      en: "cold"
+      ko: "감기"
+    gender: null
+    notes:
+      en: "Also means low temperature"
+      ko: "낮은 온도라는 뜻도 있음"
+  - english: "fever"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: null
+  - english: "cough"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: null
+  - english: "sneeze"
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: null
+  - english: "doctor"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: null
+  - english: "nurse"
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: null
+  - english: "hospital"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: null
+  - english: "medicine"
+    translation:
+      en: "medicine"
+      ko: "약"
+    gender: null
+  - english: "pill"
+    translation:
+      en: "pill"
+      ko: "알약"
+    gender: null
+  - english: "bandage"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: null
+  - english: "tired"
+    translation:
+      en: "tired"
+      ko: "피곤한"
+    gender: null
+  - english: "sore throat"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: null
+  - english: "allergy"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+  - english: "injury"
+    translation:
+      en: "injury"
+      ko: "부상"
+    gender: null
+  - english: "rest"
+    translation:
+      en: "rest"
+      ko: "휴식"
+    gender: null
+  - english: "flu"
+    translation:
+      en: "flu"
+      ko: "독감"
+    gender: null
+    notes:
+      en: "Short for influenza"
+      ko: "influenza의 줄임말"
+  - english: "dizzy"
+    translation:
+      en: "dizzy"
+      ko: "어지러운"
+    gender: null
+  - english: "nauseous"
+    translation:
+      en: "nauseous"
+      ko: "메스꺼운"
+    gender: null
+  - english: "rash"
+    translation:
+      en: "rash"
+      ko: "발진"
+    gender: null
+  - english: "swollen"
+    translation:
+      en: "swollen"
+      ko: "부은"
+    gender: null
+  - english: "bruise"
+    translation:
+      en: "bruise"
+      ko: "멍"
+    gender: null
+  - english: "cut"
+    translation:
+      en: "cut"
+      ko: "베인 상처"
+    gender: null
+  - english: "burn"
+    translation:
+      en: "burn"
+      ko: "화상"
+    gender: null
+  - english: "blister"
+    translation:
+      en: "blister"
+      ko: "물집"
+    gender: null
+  - english: "pharmacy"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: null
+  - english: "prescription"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: null
+  - english: "thermometer"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: null
+  - english: "stethoscope"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: null
+  - english: "vaccine"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: null
+  - english: "ambulance"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: null
+  - english: "appointment"
+    translation:
+      en: "appointment"
+      ko: "예약 / 진료 예약"
+    gender: null
+  - english: "to breathe"
+    translation:
+      en: "to breathe"
+      ko: "숨쉬다"
+    gender: null
+  - english: "to heal"
+    translation:
+      en: "to heal"
+      ko: "낫다 / 치유하다"
+    gender: null
+  - english: "to bleed"
+    translation:
+      en: "to bleed"
+      ko: "피가 나다"
+    gender: null
+- id: clothing
+  label:
+    en: "Clothing Items"
+    ko: "의류"
+  type: vocabulary
+  words:
+  - english: "shirt"
+    translation:
+      en: "shirt"
+      ko: "셔츠"
+    gender: null
+  - english: "T-shirt"
+    translation:
+      en: "T-shirt"
+      ko: "티셔츠"
+    gender: null
+  - english: "pants"
+    translation:
+      en: "pants"
+      ko: "바지"
+    gender: null
+    notes:
+      en: "Called trousers in British English; pants means underwear in UK"
+      ko: "영국 영어로 trousers; 영국에서 pants는 속옷"
+  - english: "jeans"
+    translation:
+      en: "jeans"
+      ko: "청바지"
+    gender: null
+  - english: "shorts"
+    translation:
+      en: "shorts"
+      ko: "반바지"
+    gender: null
+  - english: "skirt"
+    translation:
+      en: "skirt"
+      ko: "치마"
+    gender: null
+  - english: "dress"
+    translation:
+      en: "dress"
+      ko: "원피스 / 드레스"
+    gender: null
+  - english: "jacket"
+    translation:
+      en: "jacket"
+      ko: "재킷"
+    gender: null
+  - english: "coat"
+    translation:
+      en: "coat"
+      ko: "코트"
+    gender: null
+  - english: "sweater"
+    translation:
+      en: "sweater"
+      ko: "스웨터"
+    gender: null
+    notes:
+      en: "Called jumper in British English"
+      ko: "영국 영어로 jumper"
+  - english: "hoodie"
+    translation:
+      en: "hoodie"
+      ko: "후드티"
+    gender: null
+  - english: "suit"
+    translation:
+      en: "suit"
+      ko: "정장"
+    gender: null
+  - english: "tie"
+    translation:
+      en: "tie"
+      ko: "넥타이"
+    gender: null
+  - english: "underwear"
+    translation:
+      en: "underwear"
+      ko: "속옷"
+    gender: null
+  - english: "socks"
+    translation:
+      en: "socks"
+      ko: "양말"
+    gender: null
+  - english: "shoes"
+    translation:
+      en: "shoes"
+      ko: "신발"
+    gender: null
+  - english: "boots"
+    translation:
+      en: "boots"
+      ko: "부츠"
+    gender: null
+  - english: "sneakers"
+    translation:
+      en: "sneakers"
+      ko: "운동화"
+    gender: null
+    notes:
+      en: "Called trainers in British English"
+      ko: "영국 영어로 trainers"
+  - english: "sandals"
+    translation:
+      en: "sandals"
+      ko: "샌들"
+    gender: null
+  - english: "slippers"
+    translation:
+      en: "slippers"
+      ko: "슬리퍼"
+    gender: null
+  - english: "uniform"
+    translation:
+      en: "uniform"
+      ko: "유니폼 / 교복"
+    gender: null
+  - english: "pajamas"
+    translation:
+      en: "pajamas"
+      ko: "잠옷"
+    gender: null
+    notes:
+      en: "Spelled pyjamas in British English"
+      ko: "영국 영어에서는 pyjamas"
+  - english: "blouse"
+    translation:
+      en: "blouse"
+      ko: "블라우스"
+    gender: null
+  - english: "vest"
+    translation:
+      en: "vest"
+      ko: "조끼"
+    gender: null
+    notes:
+      en: "In British English, vest means undershirt"
+      ko: "영국 영어에서 vest는 속옷 상의"
+  - english: "raincoat"
+    translation:
+      en: "raincoat"
+      ko: "우비"
+    gender: null
+  - english: "swimsuit"
+    translation:
+      en: "swimsuit"
+      ko: "수영복"
+    gender: null
+  - english: "cardigan"
+    translation:
+      en: "cardigan"
+      ko: "가디건"
+    gender: null
+  - english: "sweatshirt"
+    translation:
+      en: "sweatshirt"
+      ko: "맨투맨 / 스웨트셔츠"
+    gender: null
+  - english: "bathrobe"
+    translation:
+      en: "bathrobe"
+      ko: "목욕 가운"
+    gender: null
+  - english: "apron"
+    translation:
+      en: "apron"
+      ko: "앞치마"
+    gender: null
+  - english: "leggings"
+    translation:
+      en: "leggings"
+      ko: "레깅스"
+    gender: null
+  - english: "overalls"
+    translation:
+      en: "overalls"
+      ko: "작업복 / 멜빵바지"
+    gender: null
+  - english: "collar"
+    translation:
+      en: "collar"
+      ko: "깃 / 칼라"
+    gender: null
+  - english: "sleeve"
+    translation:
+      en: "sleeve"
+      ko: "소매"
+    gender: null
+  - english: "hem"
+    translation:
+      en: "hem"
+      ko: "단 / 옷단"
+    gender: null
+  - english: "lace"
+    translation:
+      en: "lace"
+      ko: "레이스 / 끈"
+    gender: null
+  - english: "heel"
+    translation:
+      en: "heel"
+      ko: "굽 / 뒤꿈치"
+    gender: null
+  - english: "sole"
+    translation:
+      en: "sole"
+      ko: "밑창"
+    gender: null
+  - english: "high heels"
+    translation:
+      en: "high heels"
+      ko: "하이힐"
+    gender: null
+  - english: "flip-flops"
+    translation:
+      en: "flip-flops"
+      ko: "쪼리 / 슬리퍼"
+    gender: null
+  - english: "tuxedo"
+    translation:
+      en: "tuxedo"
+      ko: "턱시도"
+    gender: null
+- id: accessories
+  label:
+    en: "Accessories"
+    ko: "액세서리"
+  type: vocabulary
+  words:
+  - english: "hat"
+    translation:
+      en: "hat"
+      ko: "모자"
+    gender: null
+  - english: "cap"
+    translation:
+      en: "cap"
+      ko: "캡 (야구 모자)"
+    gender: null
+  - english: "scarf"
+    translation:
+      en: "scarf"
+      ko: "스카프 / 목도리"
+    gender: null
+    notes:
+      en: "Plural: scarves or scarfs"
+      ko: "복수형: scarves 또는 scarfs"
+  - english: "gloves"
+    translation:
+      en: "gloves"
+      ko: "장갑"
+    gender: null
+  - english: "belt"
+    translation:
+      en: "belt"
+      ko: "벨트"
+    gender: null
+  - english: "sunglasses"
+    translation:
+      en: "sunglasses"
+      ko: "선글라스"
+    gender: null
+  - english: "glasses"
+    translation:
+      en: "glasses"
+      ko: "안경"
+    gender: null
+  - english: "watch"
+    translation:
+      en: "watch"
+      ko: "손목시계"
+    gender: null
+  - english: "ring"
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: null
+  - english: "necklace"
+    translation:
+      en: "necklace"
+      ko: "목걸이"
+    gender: null
+  - english: "earring"
+    translation:
+      en: "earring"
+      ko: "귀걸이"
+    gender: null
+  - english: "bracelet"
+    translation:
+      en: "bracelet"
+      ko: "팔찌"
+    gender: null
+  - english: "wallet"
+    translation:
+      en: "wallet"
+      ko: "지갑"
+    gender: null
+  - english: "purse"
+    translation:
+      en: "purse"
+      ko: "핸드백"
+    gender: null
+    notes:
+      en: "In British English, purse means a small coin holder"
+      ko: "영국 영어에서 purse는 동전 지갑"
+  - english: "backpack"
+    translation:
+      en: "backpack"
+      ko: "배낭"
+    gender: null
+  - english: "umbrella"
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: null
+  - english: "button"
+    translation:
+      en: "button"
+      ko: "단추"
+    gender: null
+  - english: "zipper"
+    translation:
+      en: "zipper"
+      ko: "지퍼"
+    gender: null
+    notes:
+      en: "Called zip in British English"
+      ko: "영국 영어로 zip"
+  - english: "pocket"
+    translation:
+      en: "pocket"
+      ko: "주머니"
+    gender: null
+  - english: "handkerchief"
+    translation:
+      en: "handkerchief"
+      ko: "손수건"
+    gender: null
+  - english: "headband"
+    translation:
+      en: "headband"
+      ko: "머리띠"
+    gender: null
+  - english: "bow tie"
+    translation:
+      en: "bow tie"
+      ko: "나비넥타이"
+    gender: null
+  - english: "brooch"
+    translation:
+      en: "brooch"
+      ko: "브로치"
+    gender: null
+  - english: "pendant"
+    translation:
+      en: "pendant"
+      ko: "펜던트"
+    gender: null
+  - english: "cufflinks"
+    translation:
+      en: "cufflinks"
+      ko: "커프스 버튼"
+    gender: null
+  - english: "suspenders"
+    translation:
+      en: "suspenders"
+      ko: "멜빵"
+    gender: null
+    notes:
+      en: "Called braces in British English"
+      ko: "영국 영어로 braces"
+  - english: "mittens"
+    translation:
+      en: "mittens"
+      ko: "벙어리장갑"
+    gender: null
+  - english: "beanie"
+    translation:
+      en: "beanie"
+      ko: "비니"
+    gender: null
+  - english: "earmuffs"
+    translation:
+      en: "earmuffs"
+      ko: "귀마개"
+    gender: null
+  - english: "bandana"
+    translation:
+      en: "bandana"
+      ko: "반다나"
+    gender: null
+  - english: "suitcase"
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: null
+  - english: "cane"
+    translation:
+      en: "cane"
+      ko: "지팡이"
+    gender: null
+  - english: "tote bag"
+    translation:
+      en: "tote bag"
+      ko: "토트백"
+    gender: null
+- id: grooming
+  label:
+    en: "Personal Grooming"
+    ko: "개인 위생 / 몸단장"
+  type: vocabulary
+  words:
+  - english: "comb"
+    translation:
+      en: "comb"
+      ko: "빗"
+    gender: null
+    notes:
+      en: "The 'b' is silent"
+      ko: "'b'는 묵음"
+  - english: "brush"
+    translation:
+      en: "brush"
+      ko: "솔 / 브러시"
+    gender: null
+  - english: "razor"
+    translation:
+      en: "razor"
+      ko: "면도기"
+    gender: null
+  - english: "scissors"
+    translation:
+      en: "scissors"
+      ko: "가위"
+    gender: null
+    notes:
+      en: "Always plural: a pair of scissors"
+      ko: "항상 복수형: a pair of scissors"
+  - english: "perfume"
+    translation:
+      en: "perfume"
+      ko: "향수"
+    gender: null
+  - english: "deodorant"
+    translation:
+      en: "deodorant"
+      ko: "데오도란트"
+    gender: null
+  - english: "sunscreen"
+    translation:
+      en: "sunscreen"
+      ko: "자외선 차단제"
+    gender: null
+  - english: "lotion"
+    translation:
+      en: "lotion"
+      ko: "로션"
+    gender: null

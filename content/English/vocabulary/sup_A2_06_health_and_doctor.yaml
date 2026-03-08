@@ -1,0 +1,1089 @@
+lesson: "sup_A2_Health_and_Doctor"
+lesson_number: 126
+cefr: A2
+type: supplementary
+topic: "Health and Doctor"
+categories:
+- id: symptoms
+  label:
+    en: "Symptoms"
+    ko: "증상"
+  type: vocabulary
+  words:
+  - english: "headache"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: null
+  - english: "backache"
+    translation:
+      en: "backache"
+      ko: "요통"
+    gender: null
+  - english: "toothache"
+    translation:
+      en: "toothache"
+      ko: "치통"
+    gender: null
+  - english: "fever"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: null
+  - english: "cough"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: null
+  - english: "sore throat"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: null
+  - english: "runny nose"
+    translation:
+      en: "runny nose"
+      ko: "콧물"
+    gender: null
+  - english: "nausea"
+    translation:
+      en: "nausea"
+      ko: "메스꺼움"
+    gender: null
+  - english: "dizziness"
+    translation:
+      en: "dizziness"
+      ko: "어지러움"
+    gender: null
+  - english: "rash"
+    translation:
+      en: "rash"
+      ko: "발진"
+    gender: null
+  - english: "swelling"
+    translation:
+      en: "swelling"
+      ko: "부기"
+    gender: null
+  - english: "bruise"
+    translation:
+      en: "bruise"
+      ko: "멍"
+    gender: null
+  - english: "blister"
+    translation:
+      en: "blister"
+      ko: "물집"
+    gender: null
+  - english: "cramp"
+    translation:
+      en: "cramp"
+      ko: "경련 / 쥐"
+    gender: null
+  - english: "fatigue"
+    translation:
+      en: "fatigue"
+      ko: "피로"
+    gender: null
+  - english: "insomnia"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: null
+  - english: "sneeze"
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: null
+  - english: "to itch"
+    translation:
+      en: "to itch"
+      ko: "가렵다"
+    gender: null
+  - english: "to bleed"
+    translation:
+      en: "to bleed"
+      ko: "피가 나다"
+    gender: null
+  - english: "to vomit"
+    translation:
+      en: "to vomit"
+      ko: "구토하다"
+    gender: null
+    notes:
+      en: "Informally: to throw up"
+      ko: "비격식: throw up"
+- id: medical_visits
+  label:
+    en: "Medical Visits"
+    ko: "진료"
+  type: vocabulary
+  words:
+  - english: "doctor"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: null
+  - english: "patient"
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: null
+    notes:
+      en: "Also an adjective meaning willing to wait calmly"
+      ko: "인내심 있는이라는 형용사이기도 함"
+  - english: "appointment"
+    translation:
+      en: "appointment"
+      ko: "예약 / 진료 예약"
+    gender: null
+  - english: "clinic"
+    translation:
+      en: "clinic"
+      ko: "병원 / 의원"
+    gender: null
+  - english: "checkup"
+    translation:
+      en: "checkup"
+      ko: "건강검진"
+    gender: null
+  - english: "diagnosis"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: null
+    notes:
+      en: "Plural: diagnoses"
+      ko: "복수형: diagnoses"
+  - english: "prescription"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: null
+  - english: "treatment"
+    translation:
+      en: "treatment"
+      ko: "치료"
+    gender: null
+  - english: "to examine"
+    translation:
+      en: "to examine"
+      ko: "진찰하다"
+    gender: null
+  - english: "stethoscope"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: null
+  - english: "blood pressure"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: null
+  - english: "temperature"
+    translation:
+      en: "temperature"
+      ko: "체온"
+    gender: null
+  - english: "thermometer"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: null
+  - english: "X-ray"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: null
+  - english: "blood test"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: null
+  - english: "injection"
+    translation:
+      en: "injection"
+      ko: "주사"
+    gender: null
+    notes:
+      en: "Informally called a shot"
+      ko: "비격식적으로 shot"
+  - english: "vaccine"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: null
+  - english: "waiting room"
+    translation:
+      en: "waiting room"
+      ko: "대기실"
+    gender: null
+  - english: "specialist"
+    translation:
+      en: "specialist"
+      ko: "전문의"
+    gender: null
+  - english: "dentist"
+    translation:
+      en: "dentist"
+      ko: "치과 의사"
+    gender: null
+- id: pharmacy_and_medicine
+  label:
+    en: "Pharmacy and Medicine"
+    ko: "약국 및 약"
+  type: vocabulary
+  words:
+  - english: "pharmacy"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: null
+  - english: "pharmacist"
+    translation:
+      en: "pharmacist"
+      ko: "약사"
+    gender: null
+  - english: "medicine"
+    translation:
+      en: "medicine"
+      ko: "약"
+    gender: null
+  - english: "pill"
+    translation:
+      en: "pill"
+      ko: "알약"
+    gender: null
+  - english: "tablet"
+    translation:
+      en: "tablet"
+      ko: "정제"
+    gender: null
+  - english: "capsule"
+    translation:
+      en: "capsule"
+      ko: "캡슐"
+    gender: null
+  - english: "syrup"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: null
+  - english: "ointment"
+    translation:
+      en: "ointment"
+      ko: "연고"
+    gender: null
+  - english: "bandage"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: null
+  - english: "painkiller"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: null
+  - english: "antibiotic"
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: null
+  - english: "dose"
+    translation:
+      en: "dose"
+      ko: "복용량"
+    gender: null
+  - english: "side effect"
+    translation:
+      en: "side effect"
+      ko: "부작용"
+    gender: null
+  - english: "over-the-counter"
+    translation:
+      en: "over-the-counter"
+      ko: "처방전 없이 살 수 있는"
+    gender: null
+    notes:
+      en: "Abbreviated as OTC"
+      ko: "OTC로 줄여서 사용"
+  - english: "first aid"
+    translation:
+      en: "first aid"
+      ko: "응급 처치"
+    gender: null
+- id: emergency_and_body_systems
+  label:
+    en: "Emergency and Body Systems"
+    ko: "응급상황 및 신체 기관"
+  type: vocabulary
+  words:
+  - english: "emergency"
+    translation:
+      en: "emergency"
+      ko: "응급상황"
+    gender: null
+  - english: "ambulance"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: null
+  - english: "emergency room"
+    translation:
+      en: "emergency room"
+      ko: "응급실"
+    gender: null
+    notes:
+      en: "Abbreviated as ER; called A&E in British English"
+      ko: "ER로 줄임; 영국 영어로 A&E"
+  - english: "surgery"
+    translation:
+      en: "surgery"
+      ko: "수술"
+    gender: null
+  - english: "operation"
+    translation:
+      en: "operation"
+      ko: "수술 / 시술"
+    gender: null
+  - english: "wheelchair"
+    translation:
+      en: "wheelchair"
+      ko: "휠체어"
+    gender: null
+  - english: "crutches"
+    translation:
+      en: "crutches"
+      ko: "목발"
+    gender: null
+  - english: "cast"
+    translation:
+      en: "cast"
+      ko: "깁스"
+    gender: null
+  - english: "lung"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: null
+  - english: "liver"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: null
+  - english: "kidney"
+    translation:
+      en: "kidney"
+      ko: "신장 / 콩팥"
+    gender: null
+  - english: "intestine"
+    translation:
+      en: "intestine"
+      ko: "장"
+    gender: null
+  - english: "spine"
+    translation:
+      en: "spine"
+      ko: "척추"
+    gender: null
+  - english: "rib"
+    translation:
+      en: "rib"
+      ko: "갈비뼈"
+    gender: null
+  - english: "joint"
+    translation:
+      en: "joint"
+      ko: "관절"
+    gender: null
+  - english: "nerve"
+    translation:
+      en: "nerve"
+      ko: "신경"
+    gender: null
+  - english: "vein"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: null
+  - english: "artery"
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: null
+  - english: "immune system"
+    translation:
+      en: "immune system"
+      ko: "면역 체계"
+    gender: null
+  - english: "recovery"
+    translation:
+      en: "recovery"
+      ko: "회복"
+    gender: null
+- id: medical_professionals
+  label:
+    en: "Medical Professionals"
+    ko: "의료 전문가"
+  type: vocabulary
+  words:
+  - english: "surgeon"
+    translation:
+      en: "surgeon"
+      ko: "외과의사"
+    gender: null
+  - english: "optician"
+    translation:
+      en: "optician"
+      ko: "안경사"
+    gender: null
+  - english: "ophthalmologist"
+    translation:
+      en: "ophthalmologist"
+      ko: "안과의사"
+    gender: null
+  - english: "dermatologist"
+    translation:
+      en: "dermatologist"
+      ko: "피부과의사"
+    gender: null
+  - english: "pediatrician"
+    translation:
+      en: "pediatrician"
+      ko: "소아과의사"
+    gender: null
+    notes:
+      en: "Spelled paediatrician in British English"
+      ko: "영국 영어에서는 paediatrician"
+  - english: "psychiatrist"
+    translation:
+      en: "psychiatrist"
+      ko: "정신과의사"
+    gender: null
+  - english: "psychologist"
+    translation:
+      en: "psychologist"
+      ko: "심리학자"
+    gender: null
+  - english: "physiotherapist"
+    translation:
+      en: "physiotherapist"
+      ko: "물리치료사"
+    gender: null
+  - english: "paramedic"
+    translation:
+      en: "paramedic"
+      ko: "응급구조사"
+    gender: null
+  - english: "midwife"
+    translation:
+      en: "midwife"
+      ko: "조산사"
+    gender: null
+    notes:
+      en: "Plural: midwives"
+      ko: "복수형: midwives"
+  - english: "general practitioner"
+    translation:
+      en: "general practitioner"
+      ko: "일반의"
+    gender: null
+    notes:
+      en: "Often abbreviated as GP"
+      ko: "GP로 줄여서 사용"
+  - english: "orthopedic surgeon"
+    translation:
+      en: "orthopedic surgeon"
+      ko: "정형외과의"
+    gender: null
+- id: symptoms_and_conditions
+  label:
+    en: "Symptoms and Conditions"
+    ko: "증상 및 질환"
+  type: vocabulary
+  words:
+  - english: "symptom"
+    translation:
+      en: "symptom"
+      ko: "증상"
+    gender: null
+  - english: "infection"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: null
+  - english: "inflammation"
+    translation:
+      en: "inflammation"
+      ko: "염증"
+    gender: null
+  - english: "fracture"
+    translation:
+      en: "fracture"
+      ko: "골절"
+    gender: null
+  - english: "sprain"
+    translation:
+      en: "sprain"
+      ko: "염좌 / 삠"
+    gender: null
+  - english: "concussion"
+    translation:
+      en: "concussion"
+      ko: "뇌진탕"
+    gender: null
+  - english: "migraine"
+    translation:
+      en: "migraine"
+      ko: "편두통"
+    gender: null
+  - english: "asthma"
+    translation:
+      en: "asthma"
+      ko: "천식"
+    gender: null
+    notes:
+      en: "The 'th' is silent"
+      ko: "'th'는 묵음"
+  - english: "diabetes"
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: null
+  - english: "hypertension"
+    translation:
+      en: "hypertension"
+      ko: "고혈압"
+    gender: null
+  - english: "obesity"
+    translation:
+      en: "obesity"
+      ko: "비만"
+    gender: null
+  - english: "anemia"
+    translation:
+      en: "anemia"
+      ko: "빈혈"
+    gender: null
+    notes:
+      en: "Spelled anaemia in British English"
+      ko: "영국 영어에서는 anaemia"
+  - english: "arthritis"
+    translation:
+      en: "arthritis"
+      ko: "관절염"
+    gender: null
+  - english: "ulcer"
+    translation:
+      en: "ulcer"
+      ko: "궤양"
+    gender: null
+  - english: "pneumonia"
+    translation:
+      en: "pneumonia"
+      ko: "폐렴"
+    gender: null
+    notes:
+      en: "The 'p' is silent"
+      ko: "'p'는 묵음"
+  - english: "appendicitis"
+    translation:
+      en: "appendicitis"
+      ko: "맹장염"
+    gender: null
+  - english: "chronic"
+    translation:
+      en: "chronic"
+      ko: "만성적인"
+    gender: null
+  - english: "acute"
+    translation:
+      en: "acute"
+      ko: "급성의"
+    gender: null
+- id: treatments_and_procedures
+  label:
+    en: "Treatments and Procedures"
+    ko: "치료 및 시술"
+  type: vocabulary
+  words:
+  - english: "MRI"
+    translation:
+      en: "MRI"
+      ko: "MRI / 자기공명영상"
+    gender: null
+    notes:
+      en: "Magnetic Resonance Imaging"
+      ko: "Magnetic Resonance Imaging의 약자"
+  - english: "CT scan"
+    translation:
+      en: "CT scan"
+      ko: "CT 스캔"
+    gender: null
+  - english: "physical exam"
+    translation:
+      en: "physical exam"
+      ko: "건강 검진"
+    gender: null
+  - english: "check-up"
+    translation:
+      en: "check-up"
+      ko: "검진"
+    gender: null
+  - english: "vaccination"
+    translation:
+      en: "vaccination"
+      ko: "예방 접종"
+    gender: null
+  - english: "dosage"
+    translation:
+      en: "dosage"
+      ko: "복용량"
+    gender: null
+  - english: "to prescribe"
+    translation:
+      en: "to prescribe"
+      ko: "처방하다"
+    gender: null
+  - english: "to diagnose"
+    translation:
+      en: "to diagnose"
+      ko: "진단하다"
+    gender: null
+  - english: "to heal"
+    translation:
+      en: "to heal"
+      ko: "치유하다"
+    gender: null
+  - english: "to recover"
+    translation:
+      en: "to recover"
+      ko: "회복하다"
+    gender: null
+  - english: "rehabilitation"
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: null
+  - english: "outpatient"
+    translation:
+      en: "outpatient"
+      ko: "외래 환자"
+    gender: null
+  - english: "inpatient"
+    translation:
+      en: "inpatient"
+      ko: "입원 환자"
+    gender: null
+  - english: "ward"
+    translation:
+      en: "ward"
+      ko: "병동"
+    gender: null
+  - english: "intensive care"
+    translation:
+      en: "intensive care"
+      ko: "집중 치료"
+    gender: null
+    notes:
+      en: "Often abbreviated as ICU"
+      ko: "ICU로 줄여서 사용"
+  - english: "CPR"
+    translation:
+      en: "CPR"
+      ko: "심폐소생술"
+    gender: null
+    notes:
+      en: "Cardiopulmonary Resuscitation"
+      ko: "Cardiopulmonary Resuscitation의 약자"
+  - english: "stretcher"
+    translation:
+      en: "stretcher"
+      ko: "들것"
+    gender: null
+- id: wellness_and_hygiene
+  label:
+    en: "Wellness and Hygiene"
+    ko: "건강 관리 및 위생"
+  type: vocabulary
+  words:
+  - english: "hygiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: null
+  - english: "nutrition"
+    translation:
+      en: "nutrition"
+      ko: "영양"
+    gender: null
+  - english: "diet"
+    translation:
+      en: "diet"
+      ko: "식단 / 다이어트"
+    gender: null
+  - english: "calorie"
+    translation:
+      en: "calorie"
+      ko: "칼로리"
+    gender: null
+  - english: "vitamin"
+    translation:
+      en: "vitamin"
+      ko: "비타민"
+    gender: null
+  - english: "supplement"
+    translation:
+      en: "supplement"
+      ko: "보충제"
+    gender: null
+  - english: "exercise"
+    translation:
+      en: "exercise"
+      ko: "운동"
+    gender: null
+  - english: "sleep"
+    translation:
+      en: "sleep"
+      ko: "수면"
+    gender: null
+  - english: "stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: null
+  - english: "pulse"
+    translation:
+      en: "pulse"
+      ko: "맥박"
+    gender: null
+  - english: "weight"
+    translation:
+      en: "weight"
+      ko: "체중"
+    gender: null
+  - english: "height"
+    translation:
+      en: "height"
+      ko: "키 / 신장"
+    gender: null
+  - english: "BMI"
+    translation:
+      en: "BMI"
+      ko: "체질량지수"
+    gender: null
+    notes:
+      en: "Body Mass Index"
+      ko: "Body Mass Index의 약자"
+  - english: "to sanitize"
+    translation:
+      en: "to sanitize"
+      ko: "소독하다"
+    gender: null
+  - english: "hand sanitizer"
+    translation:
+      en: "hand sanitizer"
+      ko: "손 소독제"
+    gender: null
+  - english: "face mask"
+    translation:
+      en: "face mask"
+      ko: "마스크"
+    gender: null
+  - english: "to gargle"
+    translation:
+      en: "to gargle"
+      ko: "가글하다"
+    gender: null
+  - english: "to floss"
+    translation:
+      en: "to floss"
+      ko: "치실질하다"
+    gender: null
+- id: healthy_lifestyle
+  label:
+    en: "Healthy Lifestyle"
+    ko: "건강한 생활 습관"
+  type: vocabulary
+  words:
+  - english: "balanced diet"
+    translation:
+      en: "balanced diet"
+      ko: "균형 잡힌 식단"
+    gender: null
+  - english: "portion control"
+    translation:
+      en: "portion control"
+      ko: "식사량 조절"
+    gender: null
+  - english: "whole grain"
+    translation:
+      en: "whole grain"
+      ko: "통곡물"
+    gender: null
+  - english: "protein intake"
+    translation:
+      en: "protein intake"
+      ko: "단백질 섭취"
+    gender: null
+  - english: "fiber"
+    translation:
+      en: "fiber"
+      ko: "섬유질"
+    gender: null
+    notes:
+      en: "Spelled fibre in British English"
+      ko: "영국 영어에서는 fibre"
+  - english: "hydration"
+    translation:
+      en: "hydration"
+      ko: "수분 섭취"
+    gender: null
+  - english: "to stretch"
+    translation:
+      en: "to stretch"
+      ko: "스트레칭하다"
+    gender: null
+  - english: "flexibility"
+    translation:
+      en: "flexibility"
+      ko: "유연성"
+    gender: null
+  - english: "aerobic exercise"
+    translation:
+      en: "aerobic exercise"
+      ko: "유산소 운동"
+    gender: null
+  - english: "strength training"
+    translation:
+      en: "strength training"
+      ko: "근력 운동"
+    gender: null
+  - english: "endurance"
+    translation:
+      en: "endurance"
+      ko: "지구력"
+    gender: null
+  - english: "warm-up"
+    translation:
+      en: "warm-up"
+      ko: "준비 운동"
+    gender: null
+  - english: "cool-down"
+    translation:
+      en: "cool-down"
+      ko: "정리 운동"
+    gender: null
+  - english: "posture"
+    translation:
+      en: "posture"
+      ko: "자세"
+    gender: null
+  - english: "ergonomic"
+    translation:
+      en: "ergonomic"
+      ko: "인체공학적인"
+    gender: null
+  - english: "wellness"
+    translation:
+      en: "wellness"
+      ko: "웰니스"
+    gender: null
+  - english: "preventive care"
+    translation:
+      en: "preventive care"
+      ko: "예방 의료"
+    gender: null
+  - english: "routine check-up"
+    translation:
+      en: "routine check-up"
+      ko: "정기 검진"
+    gender: null
+  - english: "healthy habit"
+    translation:
+      en: "healthy habit"
+      ko: "건강한 습관"
+    gender: null
+  - english: "to quit smoking"
+    translation:
+      en: "to quit smoking"
+      ko: "금연하다"
+    gender: null
+  - english: "moderation"
+    translation:
+      en: "moderation"
+      ko: "절제"
+    gender: null
+  - english: "organic food"
+    translation:
+      en: "organic food"
+      ko: "유기농 식품"
+    gender: null
+  - english: "superfood"
+    translation:
+      en: "superfood"
+      ko: "슈퍼푸드"
+    gender: null
+  - english: "antioxidant"
+    translation:
+      en: "antioxidant"
+      ko: "항산화제"
+    gender: null
+  - english: "probiotics"
+    translation:
+      en: "probiotics"
+      ko: "프로바이오틱스"
+    gender: null
+  - english: "herbal remedy"
+    translation:
+      en: "herbal remedy"
+      ko: "허브 치료제"
+    gender: null
+  - english: "acupuncture"
+    translation:
+      en: "acupuncture"
+      ko: "침술"
+    gender: null
+  - english: "chiropractic"
+    translation:
+      en: "chiropractic"
+      ko: "카이로프랙틱"
+    gender: null
+  - english: "holistic medicine"
+    translation:
+      en: "holistic medicine"
+      ko: "전인의학"
+    gender: null
+
+- id: at_the_pharmacy
+  label:
+    en: "At the Pharmacy"
+    ko: "약국에서"
+  type: vocabulary
+  words:
+  - english: "adhesive bandage"
+    translation:
+      en: "adhesive bandage"
+      ko: "반창고"
+    gender: null
+  - english: "antiseptic"
+    translation:
+      en: "antiseptic"
+      ko: "소독약"
+    gender: null
+
+- id: first_aid
+  label:
+    en: "First Aid"
+    ko: "응급 처치"
+  type: vocabulary
+  words:
+  - english: "first aid kit"
+    translation:
+      en: "first aid kit"
+      ko: "응급 처치 키트"
+    gender: null
+  - english: "wound"
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: null
+  - english: "burn"
+    translation:
+      en: "burn"
+      ko: "화상"
+    gender: null
+
+- id: common_illnesses
+  label:
+    en: "Common Illnesses"
+    ko: "흔한 질병"
+  type: vocabulary
+  words:
+  - english: "cold"
+    translation:
+      en: "cold"
+      ko: "감기"
+    gender: null
+  - english: "flu"
+    translation:
+      en: "flu"
+      ko: "독감"
+    gender: null
+  - english: "stomachache"
+    translation:
+      en: "stomachache"
+      ko: "복통"
+    gender: null
+  - english: "allergy"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+  - english: "food poisoning"
+    translation:
+      en: "food poisoning"
+      ko: "식중독"
+    gender: null
+  - english: "sunburn"
+    translation:
+      en: "sunburn"
+      ko: "일광 화상"
+    gender: null
+  - english: "insect bite"
+    translation:
+      en: "insect bite"
+      ko: "벌레 물림"
+    gender: null
+  - english: "nosebleed"
+    translation:
+      en: "nosebleed"
+      ko: "코피"
+    gender: null
+  - english: "diarrhea"
+    translation:
+      en: "diarrhea"
+      ko: "설사"
+    gender: null
+  - english: "constipation"
+    translation:
+      en: "constipation"
+      ko: "변비"
+    gender: null
+
+- id: healthy_habits
+  label:
+    en: "Healthy Habits"
+    ko: "건강한 습관"
+  type: vocabulary
+  words:
+  - english: "exercise regularly"
+    translation:
+      en: "exercise regularly"
+      ko: "규칙적으로 운동하다"
+    gender: null
+  - english: "get enough sleep"
+    translation:
+      en: "get enough sleep"
+      ko: "충분히 자다"
+    gender: null
+  - english: "drink water"
+    translation:
+      en: "drink water"
+      ko: "물을 마시다"
+    gender: null
+  - english: "wash hands"
+    translation:
+      en: "wash hands"
+      ko: "손을 씻다"
+    gender: null
+  - english: "dental checkup"
+    translation:
+      en: "dental checkup"
+      ko: "치과 검진"
+    gender: null
+  - english: "eye exam"
+    translation:
+      en: "eye exam"
+      ko: "시력 검사"
+    gender: null

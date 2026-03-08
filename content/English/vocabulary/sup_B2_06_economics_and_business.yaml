@@ -1,0 +1,1040 @@
+lesson: "sup_B2_Economics_and_Business"
+lesson_number: 166
+cefr: B2
+type: supplementary
+topic: "Economics and Business"
+categories:
+- id: macroeconomics
+  label:
+    en: "Macroeconomics"
+    ko: "거시경제학"
+  type: vocabulary
+  words:
+  - english: "economy"
+    translation:
+      en: "economy"
+      ko: "경제"
+    gender: null
+  - english: "GDP"
+    translation:
+      en: "GDP"
+      ko: "국내총생산"
+    gender: null
+    notes:
+      en: "Gross Domestic Product"
+      ko: "Gross Domestic Product의 약자"
+  - english: "inflation"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: null
+  - english: "deflation"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: null
+  - english: "recession"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: null
+  - english: "depression"
+    translation:
+      en: "depression"
+      ko: "대공황 / 불황"
+    gender: null
+  - english: "fiscal policy"
+    translation:
+      en: "fiscal policy"
+      ko: "재정 정책"
+    gender: null
+  - english: "monetary policy"
+    translation:
+      en: "monetary policy"
+      ko: "통화 정책"
+    gender: null
+  - english: "central bank"
+    translation:
+      en: "central bank"
+      ko: "중앙은행"
+    gender: null
+  - english: "interest rate"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: null
+  - english: "national debt"
+    translation:
+      en: "national debt"
+      ko: "국가 부채"
+    gender: null
+  - english: "deficit"
+    translation:
+      en: "deficit"
+      ko: "적자"
+    gender: null
+  - english: "surplus"
+    translation:
+      en: "surplus"
+      ko: "흑자"
+    gender: null
+  - english: "supply and demand"
+    translation:
+      en: "supply and demand"
+      ko: "수요와 공급"
+    gender: null
+  - english: "unemployment rate"
+    translation:
+      en: "unemployment rate"
+      ko: "실업률"
+    gender: null
+- id: markets_and_trade
+  label:
+    en: "Markets and Trade"
+    ko: "시장 및 무역"
+  type: vocabulary
+  words:
+  - english: "market"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+  - english: "stock market"
+    translation:
+      en: "stock market"
+      ko: "주식 시장"
+    gender: null
+  - english: "commodity"
+    translation:
+      en: "commodity"
+      ko: "상품 / 원자재"
+    gender: null
+  - english: "export"
+    translation:
+      en: "export"
+      ko: "수출"
+    gender: null
+  - english: "import"
+    translation:
+      en: "import"
+      ko: "수입"
+    gender: null
+  - english: "trade"
+    translation:
+      en: "trade"
+      ko: "무역"
+    gender: null
+  - english: "tariff"
+    translation:
+      en: "tariff"
+      ko: "관세"
+    gender: null
+  - english: "quota"
+    translation:
+      en: "quota"
+      ko: "할당량"
+    gender: null
+  - english: "free trade"
+    translation:
+      en: "free trade"
+      ko: "자유 무역"
+    gender: null
+  - english: "globalization"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: null
+  - english: "competition"
+    translation:
+      en: "competition"
+      ko: "경쟁"
+    gender: null
+  - english: "monopoly"
+    translation:
+      en: "monopoly"
+      ko: "독점"
+    gender: null
+  - english: "consumer"
+    translation:
+      en: "consumer"
+      ko: "소비자"
+    gender: null
+  - english: "producer"
+    translation:
+      en: "producer"
+      ko: "생산자"
+    gender: null
+  - english: "exchange rate"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: null
+- id: entrepreneurship_and_management
+  label:
+    en: "Entrepreneurship and Management"
+    ko: "기업가 정신 및 경영"
+  type: vocabulary
+  words:
+  - english: "entrepreneur"
+    translation:
+      en: "entrepreneur"
+      ko: "기업가"
+    gender: null
+  - english: "startup"
+    translation:
+      en: "startup"
+      ko: "스타트업"
+    gender: null
+  - english: "venture capital"
+    translation:
+      en: "venture capital"
+      ko: "벤처 자본"
+    gender: null
+  - english: "investor"
+    translation:
+      en: "investor"
+      ko: "투자자"
+    gender: null
+  - english: "shareholder"
+    translation:
+      en: "shareholder"
+      ko: "주주"
+    gender: null
+  - english: "revenue"
+    translation:
+      en: "revenue"
+      ko: "매출"
+    gender: null
+  - english: "profit margin"
+    translation:
+      en: "profit margin"
+      ko: "이익률"
+    gender: null
+  - english: "overhead"
+    translation:
+      en: "overhead"
+      ko: "간접비"
+    gender: null
+  - english: "logistics"
+    translation:
+      en: "logistics"
+      ko: "물류"
+    gender: null
+  - english: "supply chain"
+    translation:
+      en: "supply chain"
+      ko: "공급망"
+    gender: null
+  - english: "market share"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: null
+  - english: "brand"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: null
+  - english: "franchise"
+    translation:
+      en: "franchise"
+      ko: "프랜차이즈"
+    gender: null
+  - english: "merger"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: null
+  - english: "acquisition"
+    translation:
+      en: "acquisition"
+      ko: "인수"
+    gender: null
+  - english: "stakeholder"
+    translation:
+      en: "stakeholder"
+      ko: "이해관계자"
+    gender: null
+  - english: "business plan"
+    translation:
+      en: "business plan"
+      ko: "사업 계획서"
+    gender: null
+  - english: "ROI"
+    translation:
+      en: "ROI"
+      ko: "투자 수익률"
+    gender: null
+    notes:
+      en: "Return on Investment"
+      ko: "Return on Investment의 약자"
+  - english: "scalability"
+    translation:
+      en: "scalability"
+      ko: "확장성"
+    gender: null
+  - english: "to outsource"
+    translation:
+      en: "to outsource"
+      ko: "외주를 주다"
+    gender: null
+- id: economic_theory
+  label:
+    en: "Economic Theory"
+    ko: "경제 이론"
+  type: vocabulary
+  words:
+  - english: "equilibrium"
+    translation:
+      en: "equilibrium"
+      ko: "균형"
+    gender: null
+  - english: "scarcity"
+    translation:
+      en: "scarcity"
+      ko: "희소성"
+    gender: null
+  - english: "opportunity cost"
+    translation:
+      en: "opportunity cost"
+      ko: "기회비용"
+    gender: null
+  - english: "marginal utility"
+    translation:
+      en: "marginal utility"
+      ko: "한계 효용"
+    gender: null
+  - english: "elasticity"
+    translation:
+      en: "elasticity"
+      ko: "탄력성"
+    gender: null
+  - english: "GNP"
+    translation:
+      en: "GNP"
+      ko: "국민총생산"
+    gender: null
+    notes:
+      en: "Gross National Product"
+      ko: "Gross National Product의 약자"
+  - english: "consumer price index"
+    translation:
+      en: "consumer price index"
+      ko: "소비자 물가 지수"
+    gender: null
+    notes:
+      en: "Often abbreviated as CPI"
+      ko: "CPI로 줄여서 사용"
+  - english: "trade deficit"
+    translation:
+      en: "trade deficit"
+      ko: "무역 적자"
+    gender: null
+  - english: "trade surplus"
+    translation:
+      en: "trade surplus"
+      ko: "무역 흑자"
+    gender: null
+  - english: "subsidy"
+    translation:
+      en: "subsidy"
+      ko: "보조금"
+    gender: null
+  - english: "deregulation"
+    translation:
+      en: "deregulation"
+      ko: "규제 완화"
+    gender: null
+  - english: "privatization"
+    translation:
+      en: "privatization"
+      ko: "민영화"
+    gender: null
+  - english: "nationalization"
+    translation:
+      en: "nationalization"
+      ko: "국유화"
+    gender: null
+  - english: "austerity"
+    translation:
+      en: "austerity"
+      ko: "긴축"
+    gender: null
+  - english: "stimulus"
+    translation:
+      en: "stimulus"
+      ko: "경기 부양책"
+    gender: null
+  - english: "quantitative easing"
+    translation:
+      en: "quantitative easing"
+      ko: "양적 완화"
+    gender: null
+  - english: "hyperinflation"
+    translation:
+      en: "hyperinflation"
+      ko: "초인플레이션"
+    gender: null
+- id: business_operations
+  label:
+    en: "Business Operations"
+    ko: "사업 운영"
+  type: vocabulary
+  words:
+  - english: "profit"
+    translation:
+      en: "profit"
+      ko: "이윤"
+    gender: null
+  - english: "loss"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: null
+  - english: "cash flow"
+    translation:
+      en: "cash flow"
+      ko: "현금 흐름"
+    gender: null
+  - english: "break-even point"
+    translation:
+      en: "break-even point"
+      ko: "손익분기점"
+    gender: null
+  - english: "margin"
+    translation:
+      en: "margin"
+      ko: "마진"
+    gender: null
+  - english: "turnover"
+    translation:
+      en: "turnover"
+      ko: "매출액"
+    gender: null
+  - english: "procurement"
+    translation:
+      en: "procurement"
+      ko: "조달"
+    gender: null
+  - english: "inventory"
+    translation:
+      en: "inventory"
+      ko: "재고"
+    gender: null
+  - english: "distribution"
+    translation:
+      en: "distribution"
+      ko: "유통"
+    gender: null
+  - english: "outsourcing"
+    translation:
+      en: "outsourcing"
+      ko: "아웃소싱"
+    gender: null
+  - english: "angel investor"
+    translation:
+      en: "angel investor"
+      ko: "엔젤 투자자"
+    gender: null
+  - english: "crowdfunding"
+    translation:
+      en: "crowdfunding"
+      ko: "크라우드펀딩"
+    gender: null
+  - english: "brand loyalty"
+    translation:
+      en: "brand loyalty"
+      ko: "브랜드 충성도"
+    gender: null
+  - english: "target market"
+    translation:
+      en: "target market"
+      ko: "타겟 시장"
+    gender: null
+  - english: "niche market"
+    translation:
+      en: "niche market"
+      ko: "틈새시장"
+    gender: null
+  - english: "e-commerce"
+    translation:
+      en: "e-commerce"
+      ko: "전자상거래"
+    gender: null
+- id: international_trade
+  label:
+    en: "International Trade"
+    ko: "국제 무역"
+  type: vocabulary
+  words:
+  - english: "trade agreement"
+    translation:
+      en: "trade agreement"
+      ko: "무역 협정"
+    gender: null
+  - english: "protectionism"
+    translation:
+      en: "protectionism"
+      ko: "보호무역주의"
+    gender: null
+  - english: "embargo"
+    translation:
+      en: "embargo"
+      ko: "금수조치"
+    gender: null
+  - english: "dumping"
+    translation:
+      en: "dumping"
+      ko: "덤핑"
+    gender: null
+  - english: "bilateral"
+    translation:
+      en: "bilateral"
+      ko: "양자간의"
+    gender: null
+  - english: "multilateral"
+    translation:
+      en: "multilateral"
+      ko: "다자간의"
+    gender: null
+  - english: "WTO"
+    translation:
+      en: "WTO"
+      ko: "세계무역기구"
+    gender: null
+    notes:
+      en: "World Trade Organization"
+      ko: "World Trade Organization의 약자"
+  - english: "IMF"
+    translation:
+      en: "IMF"
+      ko: "국제통화기금"
+    gender: null
+    notes:
+      en: "International Monetary Fund"
+      ko: "International Monetary Fund의 약자"
+  - english: "World Bank"
+    translation:
+      en: "World Bank"
+      ko: "세계은행"
+    gender: null
+  - english: "currency"
+    translation:
+      en: "currency"
+      ko: "통화"
+    gender: null
+  - english: "foreign direct investment"
+    translation:
+      en: "foreign direct investment"
+      ko: "외국인 직접투자"
+    gender: null
+    notes:
+      en: "Often abbreviated as FDI"
+      ko: "FDI로 줄여서 사용"
+  - english: "trade balance"
+    translation:
+      en: "trade balance"
+      ko: "무역수지"
+    gender: null
+  - english: "customs duty"
+    translation:
+      en: "customs duty"
+      ko: "관세"
+    gender: null
+  - english: "excise tax"
+    translation:
+      en: "excise tax"
+      ko: "소비세"
+    gender: null
+  - english: "VAT"
+    translation:
+      en: "VAT"
+      ko: "부가가치세"
+    gender: null
+    notes:
+      en: "Value Added Tax"
+      ko: "Value Added Tax의 약자"
+
+- id: financial_markets
+  label:
+    en: "Financial Markets"
+    ko: "금융 시장"
+  type: vocabulary
+  words:
+  - english: "bond"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: null
+  - english: "dividend"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: null
+  - english: "portfolio"
+    translation:
+      en: "portfolio"
+      ko: "포트폴리오"
+    gender: null
+  - english: "hedge fund"
+    translation:
+      en: "hedge fund"
+      ko: "헤지 펀드"
+    gender: null
+  - english: "mutual fund"
+    translation:
+      en: "mutual fund"
+      ko: "뮤추얼 펀드"
+    gender: null
+  - english: "securities"
+    translation:
+      en: "securities"
+      ko: "유가 증권"
+    gender: null
+  - english: "derivative"
+    translation:
+      en: "derivative"
+      ko: "파생 상품"
+    gender: null
+  - english: "futures"
+    translation:
+      en: "futures"
+      ko: "선물"
+    gender: null
+  - english: "options"
+    translation:
+      en: "options"
+      ko: "옵션"
+    gender: null
+  - english: "bull market"
+    translation:
+      en: "bull market"
+      ko: "상승장"
+    gender: null
+  - english: "bear market"
+    translation:
+      en: "bear market"
+      ko: "하락장"
+    gender: null
+  - english: "volatility"
+    translation:
+      en: "volatility"
+      ko: "변동성"
+    gender: null
+  - english: "liquidity"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: null
+  - english: "index fund"
+    translation:
+      en: "index fund"
+      ko: "인덱스 펀드"
+    gender: null
+
+- id: corporate_finance
+  label:
+    en: "Corporate Finance"
+    ko: "기업 재무"
+  type: vocabulary
+  words:
+  - english: "balance sheet"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: null
+  - english: "income statement"
+    translation:
+      en: "income statement"
+      ko: "손익계산서"
+    gender: null
+  - english: "depreciation"
+    translation:
+      en: "depreciation"
+      ko: "감가상각"
+    gender: null
+  - english: "amortization"
+    translation:
+      en: "amortization"
+      ko: "상각"
+    gender: null
+  - english: "equity"
+    translation:
+      en: "equity"
+      ko: "자본"
+    gender: null
+  - english: "liability"
+    translation:
+      en: "liability"
+      ko: "부채"
+    gender: null
+  - english: "asset"
+    translation:
+      en: "asset"
+      ko: "자산"
+    gender: null
+  - english: "audit"
+    translation:
+      en: "audit"
+      ko: "감사"
+    gender: null
+  - english: "fiscal year"
+    translation:
+      en: "fiscal year"
+      ko: "회계연도"
+    gender: null
+  - english: "IPO"
+    translation:
+      en: "IPO"
+      ko: "기업공개"
+    gender: null
+
+- id: labor_economics
+  label:
+    en: "Labor Economics"
+    ko: "노동 경제학"
+  type: vocabulary
+  words:
+  - english: "labor force"
+    translation:
+      en: "labor force"
+      ko: "노동력"
+    gender: null
+  - english: "minimum wage"
+    translation:
+      en: "minimum wage"
+      ko: "최저 임금"
+    gender: null
+  - english: "collective bargaining"
+    translation:
+      en: "collective bargaining"
+      ko: "단체 교섭"
+    gender: null
+  - english: "trade union"
+    translation:
+      en: "trade union"
+      ko: "노동 조합"
+    gender: null
+  - english: "downsizing"
+    translation:
+      en: "downsizing"
+      ko: "감원"
+    gender: null
+  - english: "automation"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: null
+  - english: "gig economy"
+    translation:
+      en: "gig economy"
+      ko: "긱 경제"
+    gender: null
+  - english: "freelance"
+    translation:
+      en: "freelance"
+      ko: "프리랜서"
+    gender: null
+  - english: "underemployment"
+    translation:
+      en: "underemployment"
+      ko: "불완전 고용"
+    gender: null
+  - english: "severance pay"
+    translation:
+      en: "severance pay"
+      ko: "퇴직금"
+    gender: null
+  - english: "pension"
+    translation:
+      en: "pension"
+      ko: "연금"
+    gender: null
+  - english: "cost of living"
+    translation:
+      en: "cost of living"
+      ko: "생활비"
+    gender: null
+  - english: "wage gap"
+    translation:
+      en: "wage gap"
+      ko: "임금 격차"
+    gender: null
+  - english: "labor market"
+    translation:
+      en: "labor market"
+      ko: "노동 시장"
+    gender: null
+
+- id: macroeconomics_advanced
+  label:
+    en: "Macroeconomics"
+    ko: "거시경제학"
+  type: vocabulary
+  words:
+  - english: "budget deficit"
+    translation:
+      en: "budget deficit"
+      ko: "재정 적자"
+    gender: null
+  - english: "devaluation"
+    translation:
+      en: "devaluation"
+      ko: "평가절하"
+    gender: null
+  - english: "purchasing power"
+    translation:
+      en: "purchasing power"
+      ko: "구매력"
+    gender: null
+  - english: "stagflation"
+    translation:
+      en: "stagflation"
+      ko: "스태그플레이션"
+    gender: null
+  - english: "laissez-faire"
+    translation:
+      en: "laissez-faire"
+      ko: "자유방임주의"
+    gender: null
+  - english: "microeconomics"
+    translation:
+      en: "microeconomics"
+      ko: "미시경제학"
+    gender: null
+  - english: "macroeconomics"
+    translation:
+      en: "macroeconomics"
+      ko: "거시경제학"
+    gender: null
+
+- id: entrepreneurship
+  label:
+    en: "Entrepreneurship"
+    ko: "기업가정신"
+  type: vocabulary
+  words:
+  - english: "startup culture"
+    translation:
+      en: "startup culture"
+      ko: "스타트업 문화"
+    gender: null
+  - english: "incubator"
+    translation:
+      en: "incubator"
+      ko: "인큐베이터"
+    gender: null
+  - english: "accelerator"
+    translation:
+      en: "accelerator"
+      ko: "액셀러레이터"
+    gender: null
+  - english: "pitch deck"
+    translation:
+      en: "pitch deck"
+      ko: "투자 발표 자료"
+    gender: null
+  - english: "disruption"
+    translation:
+      en: "disruption"
+      ko: "혁신적 파괴"
+    gender: null
+  - english: "unicorn"
+    translation:
+      en: "unicorn"
+      ko: "유니콘 기업"
+    gender: null
+  - english: "bootstrapping"
+    translation:
+      en: "bootstrapping"
+      ko: "자기 자본 창업"
+    gender: null
+  - english: "exit strategy"
+    translation:
+      en: "exit strategy"
+      ko: "출구 전략"
+    gender: null
+  - english: "seed funding"
+    translation:
+      en: "seed funding"
+      ko: "시드 투자"
+    gender: null
+  - english: "Series A"
+    translation:
+      en: "Series A"
+      ko: "시리즈 A 투자"
+    gender: null
+  - english: "burn rate"
+    translation:
+      en: "burn rate"
+      ko: "자금 소진률"
+    gender: null
+  - english: "pivot"
+    translation:
+      en: "pivot"
+      ko: "사업 전환"
+    gender: null
+  - english: "minimum viable product"
+    translation:
+      en: "minimum viable product"
+      ko: "최소 기능 제품"
+    gender: null
+  - english: "market validation"
+    translation:
+      en: "market validation"
+      ko: "시장 검증"
+    gender: null
+  - english: "intellectual property"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산권"
+    gender: null
+  - english: "trademark"
+    translation:
+      en: "trademark"
+      ko: "상표"
+    gender: null
+
+- id: marketing_and_sales
+  label:
+    en: "Marketing and Sales"
+    ko: "마케팅 및 영업"
+  type: vocabulary
+  words:
+  - english: "advertising"
+    translation:
+      en: "advertising"
+      ko: "광고"
+    gender: null
+  - english: "marketing strategy"
+    translation:
+      en: "marketing strategy"
+      ko: "마케팅 전략"
+    gender: null
+  - english: "target audience"
+    translation:
+      en: "target audience"
+      ko: "타겟 오디언스"
+    gender: null
+  - english: "market research"
+    translation:
+      en: "market research"
+      ko: "시장 조사"
+    gender: null
+  - english: "consumer behavior"
+    translation:
+      en: "consumer behavior"
+      ko: "소비자 행동"
+    gender: null
+  - english: "viral marketing"
+    translation:
+      en: "viral marketing"
+      ko: "바이럴 마케팅"
+    gender: null
+  - english: "content marketing"
+    translation:
+      en: "content marketing"
+      ko: "콘텐츠 마케팅"
+    gender: null
+  - english: "SEO"
+    translation:
+      en: "SEO"
+      ko: "검색 엔진 최적화"
+    gender: null
+  - english: "conversion rate"
+    translation:
+      en: "conversion rate"
+      ko: "전환율"
+    gender: null
+  - english: "sales funnel"
+    translation:
+      en: "sales funnel"
+      ko: "판매 퍼널"
+    gender: null
+  - english: "lead generation"
+    translation:
+      en: "lead generation"
+      ko: "잠재 고객 발굴"
+    gender: null
+  - english: "affiliate marketing"
+    translation:
+      en: "affiliate marketing"
+      ko: "제휴 마케팅"
+    gender: null
+  - english: "influencer marketing"
+    translation:
+      en: "influencer marketing"
+      ko: "인플루언서 마케팅"
+    gender: null
+  - english: "public relations"
+    translation:
+      en: "public relations"
+      ko: "홍보"
+    gender: null
+  - english: "press release"
+    translation:
+      en: "press release"
+      ko: "보도 자료"
+    gender: null
+  - english: "focus group"
+    translation:
+      en: "focus group"
+      ko: "포커스 그룹"
+    gender: null
+  - english: "demographics"
+    translation:
+      en: "demographics"
+      ko: "인구 통계"
+    gender: null
+  - english: "psychographics"
+    translation:
+      en: "psychographics"
+      ko: "심리 통계"
+    gender: null
+  - english: "B2B"
+    translation:
+      en: "B2B"
+      ko: "기업 간 거래"
+    gender: null
+  - english: "B2C"
+    translation:
+      en: "B2C"
+      ko: "기업 대 소비자 거래"
+    gender: null
+
+- id: accounting_terms
+  label:
+    en: "Accounting Terms"
+    ko: "회계 용어"
+  type: vocabulary
+  words:
+  - english: "bookkeeping"
+    translation:
+      en: "bookkeeping"
+      ko: "부기"
+    gender: null
+  - english: "accounts receivable"
+    translation:
+      en: "accounts receivable"
+      ko: "매출 채권"
+    gender: null
+  - english: "accounts payable"
+    translation:
+      en: "accounts payable"
+      ko: "매입 채무"
+    gender: null
+  - english: "ledger"
+    translation:
+      en: "ledger"
+      ko: "원장"
+    gender: null
+  - english: "journal entry"
+    translation:
+      en: "journal entry"
+      ko: "분개"
+    gender: null
+  - english: "accrual"
+    translation:
+      en: "accrual"
+      ko: "발생주의"
+    gender: null

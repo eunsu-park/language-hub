@@ -1,0 +1,949 @@
+lesson: "sup_A1_Household_and_Rooms"
+lesson_number: 103
+cefr: A1
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: rooms
+  label:
+    en: "Rooms"
+    ko: "방"
+  type: vocabulary
+  words:
+  - english: "kitchen"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: null
+  - english: "bedroom"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: null
+  - english: "bathroom"
+    translation:
+      en: "bathroom"
+      ko: "욕실"
+    gender: null
+    notes:
+      en: "In American English, also means toilet/restroom"
+      ko: "미국 영어에서는 화장실이라는 뜻도 됨"
+  - english: "living room"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: null
+  - english: "dining room"
+    translation:
+      en: "dining room"
+      ko: "식당"
+    gender: null
+  - english: "garage"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: null
+  - english: "attic"
+    translation:
+      en: "attic"
+      ko: "다락방"
+    gender: null
+  - english: "basement"
+    translation:
+      en: "basement"
+      ko: "지하실"
+    gender: null
+  - english: "hallway"
+    translation:
+      en: "hallway"
+      ko: "복도"
+    gender: null
+  - english: "balcony"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: null
+  - english: "laundry room"
+    translation:
+      en: "laundry room"
+      ko: "세탁실"
+    gender: null
+  - english: "closet"
+    translation:
+      en: "closet"
+      ko: "옷장 / 벽장"
+    gender: null
+    notes:
+      en: "Called wardrobe or cupboard in British English"
+      ko: "영국 영어로 wardrobe 또는 cupboard"
+  - english: "staircase"
+    translation:
+      en: "staircase"
+      ko: "계단"
+    gender: null
+  - english: "porch"
+    translation:
+      en: "porch"
+      ko: "현관"
+    gender: null
+  - english: "study"
+    translation:
+      en: "study"
+      ko: "서재"
+    gender: null
+  - english: "entrance"
+    translation:
+      en: "entrance"
+      ko: "입구"
+    gender: null
+  - english: "corridor"
+    translation:
+      en: "corridor"
+      ko: "복도"
+    gender: null
+  - english: "pantry"
+    translation:
+      en: "pantry"
+      ko: "식료품 저장실"
+    gender: null
+  - english: "guest room"
+    translation:
+      en: "guest room"
+      ko: "손님방"
+    gender: null
+  - english: "nursery"
+    translation:
+      en: "nursery"
+      ko: "아기방"
+    gender: null
+  - english: "utility room"
+    translation:
+      en: "utility room"
+      ko: "다용도실"
+    gender: null
+  - english: "playroom"
+    translation:
+      en: "playroom"
+      ko: "놀이방"
+    gender: null
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - english: "bed"
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: null
+  - english: "table"
+    translation:
+      en: "table"
+      ko: "테이블"
+    gender: null
+  - english: "chair"
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: null
+  - english: "sofa"
+    translation:
+      en: "sofa"
+      ko: "소파"
+    gender: null
+    notes:
+      en: "Also called couch"
+      ko: "couch라고도 함"
+  - english: "desk"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: null
+  - english: "shelf"
+    translation:
+      en: "shelf"
+      ko: "선반"
+    gender: null
+    notes:
+      en: "Plural: shelves"
+      ko: "복수형: shelves"
+  - english: "bookshelf"
+    translation:
+      en: "bookshelf"
+      ko: "책장"
+    gender: null
+  - english: "wardrobe"
+    translation:
+      en: "wardrobe"
+      ko: "옷장"
+    gender: null
+  - english: "drawer"
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: null
+  - english: "cabinet"
+    translation:
+      en: "cabinet"
+      ko: "캐비닛"
+    gender: null
+  - english: "mirror"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: null
+  - english: "curtain"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: null
+  - english: "carpet"
+    translation:
+      en: "carpet"
+      ko: "카펫"
+    gender: null
+    notes:
+      en: "A rug is smaller and not fixed to the floor"
+      ko: "rug은 더 작고 바닥에 고정되지 않음"
+  - english: "pillow"
+    translation:
+      en: "pillow"
+      ko: "베개"
+    gender: null
+  - english: "blanket"
+    translation:
+      en: "blanket"
+      ko: "담요"
+    gender: null
+  - english: "mattress"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: null
+  - english: "lamp"
+    translation:
+      en: "lamp"
+      ko: "램프 / 스탠드"
+    gender: null
+  - english: "armchair"
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: null
+  - english: "coffee table"
+    translation:
+      en: "coffee table"
+      ko: "커피 테이블"
+    gender: null
+  - english: "nightstand"
+    translation:
+      en: "nightstand"
+      ko: "침대 옆 탁자"
+    gender: null
+    notes:
+      en: "Also called bedside table"
+      ko: "bedside table이라고도 함"
+  - english: "rug"
+    translation:
+      en: "rug"
+      ko: "러그 / 깔개"
+    gender: null
+  - english: "cushion"
+    translation:
+      en: "cushion"
+      ko: "쿠션"
+    gender: null
+  - english: "stool"
+    translation:
+      en: "stool"
+      ko: "스툴 / 등받이 없는 의자"
+    gender: null
+  - english: "dining table"
+    translation:
+      en: "dining table"
+      ko: "식탁"
+    gender: null
+  - english: "rocking chair"
+    translation:
+      en: "rocking chair"
+      ko: "흔들의자"
+    gender: null
+  - english: "bench"
+    translation:
+      en: "bench"
+      ko: "벤치 / 긴 의자"
+    gender: null
+  - english: "coat rack"
+    translation:
+      en: "coat rack"
+      ko: "옷걸이"
+    gender: null
+  - english: "shoe rack"
+    translation:
+      en: "shoe rack"
+      ko: "신발장"
+    gender: null
+  - english: "picture frame"
+    translation:
+      en: "picture frame"
+      ko: "액자"
+    gender: null
+  - english: "vase"
+    translation:
+      en: "vase"
+      ko: "꽃병"
+    gender: null
+  - english: "clock"
+    translation:
+      en: "clock"
+      ko: "시계"
+    gender: null
+  - english: "chandelier"
+    translation:
+      en: "chandelier"
+      ko: "샹들리에"
+    gender: null
+  - english: "sideboard"
+    translation:
+      en: "sideboard"
+      ko: "찬장"
+    gender: null
+  - english: "chest of drawers"
+    translation:
+      en: "chest of drawers"
+      ko: "서랍장"
+    gender: null
+    notes:
+      en: "Also called dresser in American English"
+      ko: "미국 영어로 dresser라고도 함"
+- id: appliances
+  label:
+    en: "Appliances"
+    ko: "가전제품"
+  type: vocabulary
+  words:
+  - english: "refrigerator"
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: null
+    notes:
+      en: "Often shortened to fridge"
+      ko: "보통 fridge로 줄여서 사용"
+  - english: "washing machine"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: null
+  - english: "dishwasher"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: null
+  - english: "microwave"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: null
+  - english: "toaster"
+    translation:
+      en: "toaster"
+      ko: "토스터"
+    gender: null
+  - english: "blender"
+    translation:
+      en: "blender"
+      ko: "믹서기"
+    gender: null
+  - english: "vacuum cleaner"
+    translation:
+      en: "vacuum cleaner"
+      ko: "진공청소기"
+    gender: null
+  - english: "iron"
+    translation:
+      en: "iron"
+      ko: "다리미"
+    gender: null
+    notes:
+      en: "Also the metal and a verb (to iron clothes)"
+      ko: "금속 이름이자 동사(옷을 다리다)이기도 함"
+  - english: "dryer"
+    translation:
+      en: "dryer"
+      ko: "건조기"
+    gender: null
+  - english: "air conditioner"
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: null
+  - english: "heater"
+    translation:
+      en: "heater"
+      ko: "히터"
+    gender: null
+  - english: "fan"
+    translation:
+      en: "fan"
+      ko: "선풍기"
+    gender: null
+  - english: "television"
+    translation:
+      en: "television"
+      ko: "텔레비전"
+    gender: null
+    notes:
+      en: "Usually shortened to TV"
+      ko: "보통 TV로 줄여서 사용"
+  - english: "remote control"
+    translation:
+      en: "remote control"
+      ko: "리모컨"
+    gender: null
+  - english: "kettle"
+    translation:
+      en: "kettle"
+      ko: "주전자"
+    gender: null
+  - english: "oven"
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: null
+  - english: "stove"
+    translation:
+      en: "stove"
+      ko: "가스레인지"
+    gender: null
+    notes:
+      en: "Called cooker or hob in British English"
+      ko: "영국 영어로 cooker 또는 hob"
+  - english: "freezer"
+    translation:
+      en: "freezer"
+      ko: "냉동고"
+    gender: null
+  - english: "coffee maker"
+    translation:
+      en: "coffee maker"
+      ko: "커피 메이커"
+    gender: null
+  - english: "rice cooker"
+    translation:
+      en: "rice cooker"
+      ko: "밥솥"
+    gender: null
+  - english: "hair dryer"
+    translation:
+      en: "hair dryer"
+      ko: "헤어 드라이기"
+    gender: null
+  - english: "light bulb"
+    translation:
+      en: "light bulb"
+      ko: "전구"
+    gender: null
+  - english: "smoke detector"
+    translation:
+      en: "smoke detector"
+      ko: "화재 경보기"
+    gender: null
+  - english: "thermostat"
+    translation:
+      en: "thermostat"
+      ko: "온도 조절기"
+    gender: null
+  - english: "speaker"
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: null
+  - english: "alarm clock"
+    translation:
+      en: "alarm clock"
+      ko: "알람 시계"
+    gender: null
+- id: cleaning_and_household
+  label:
+    en: "Cleaning and Household"
+    ko: "청소 및 가사"
+  type: vocabulary
+  words:
+  - english: "to clean"
+    translation:
+      en: "to clean"
+      ko: "청소하다"
+    gender: null
+  - english: "to wash"
+    translation:
+      en: "to wash"
+      ko: "씻다"
+    gender: null
+  - english: "to sweep"
+    translation:
+      en: "to sweep"
+      ko: "쓸다"
+    gender: null
+  - english: "to mop"
+    translation:
+      en: "to mop"
+      ko: "걸레질하다"
+    gender: null
+  - english: "to dust"
+    translation:
+      en: "to dust"
+      ko: "먼지를 닦다"
+    gender: null
+  - english: "broom"
+    translation:
+      en: "broom"
+      ko: "빗자루"
+    gender: null
+  - english: "mop"
+    translation:
+      en: "mop"
+      ko: "걸레 / 대걸레"
+    gender: null
+  - english: "bucket"
+    translation:
+      en: "bucket"
+      ko: "양동이"
+    gender: null
+  - english: "soap"
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: null
+  - english: "sponge"
+    translation:
+      en: "sponge"
+      ko: "스펀지"
+    gender: null
+  - english: "towel"
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: null
+  - english: "trash"
+    translation:
+      en: "trash"
+      ko: "쓰레기"
+    gender: null
+    notes:
+      en: "Called rubbish in British English"
+      ko: "영국 영어로 rubbish"
+  - english: "trash can"
+    translation:
+      en: "trash can"
+      ko: "쓰레기통"
+    gender: null
+    notes:
+      en: "Called bin in British English"
+      ko: "영국 영어로 bin"
+  - english: "detergent"
+    translation:
+      en: "detergent"
+      ko: "세제"
+    gender: null
+  - english: "bleach"
+    translation:
+      en: "bleach"
+      ko: "표백제"
+    gender: null
+  - english: "to vacuum"
+    translation:
+      en: "to vacuum"
+      ko: "청소기로 청소하다"
+    gender: null
+  - english: "to scrub"
+    translation:
+      en: "to scrub"
+      ko: "문지르다"
+    gender: null
+  - english: "to rinse"
+    translation:
+      en: "to rinse"
+      ko: "헹구다"
+    gender: null
+  - english: "to dry"
+    translation:
+      en: "to dry"
+      ko: "말리다"
+    gender: null
+  - english: "to tidy up"
+    translation:
+      en: "to tidy up"
+      ko: "정리하다"
+    gender: null
+  - english: "dustpan"
+    translation:
+      en: "dustpan"
+      ko: "쓰레받기"
+    gender: null
+  - english: "cloth"
+    translation:
+      en: "cloth"
+      ko: "걸레 / 천"
+    gender: null
+  - english: "gloves"
+    translation:
+      en: "gloves"
+      ko: "장갑"
+    gender: null
+  - english: "recycling bin"
+    translation:
+      en: "recycling bin"
+      ko: "재활용 쓰레기통"
+    gender: null
+  - english: "laundry basket"
+    translation:
+      en: "laundry basket"
+      ko: "빨래 바구니"
+    gender: null
+  - english: "clothesline"
+    translation:
+      en: "clothesline"
+      ko: "빨랫줄"
+    gender: null
+  - english: "dish soap"
+    translation:
+      en: "dish soap"
+      ko: "주방 세제"
+    gender: null
+  - english: "fabric softener"
+    translation:
+      en: "fabric softener"
+      ko: "섬유유연제"
+    gender: null
+  - english: "spray bottle"
+    translation:
+      en: "spray bottle"
+      ko: "분무기"
+    gender: null
+- id: bathroom
+  label:
+    en: "Bathroom Items"
+    ko: "욕실 용품"
+  type: vocabulary
+  words:
+  - english: "shower"
+    translation:
+      en: "shower"
+      ko: "샤워"
+    gender: null
+  - english: "bathtub"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: null
+  - english: "toilet"
+    translation:
+      en: "toilet"
+      ko: "변기"
+    gender: null
+  - english: "sink"
+    translation:
+      en: "sink"
+      ko: "세면대"
+    gender: null
+  - english: "faucet"
+    translation:
+      en: "faucet"
+      ko: "수도꼭지"
+    gender: null
+    notes:
+      en: "Called tap in British English"
+      ko: "영국 영어로 tap"
+  - english: "toilet paper"
+    translation:
+      en: "toilet paper"
+      ko: "화장지"
+    gender: null
+  - english: "toothbrush"
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: null
+  - english: "toothpaste"
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: null
+  - english: "shampoo"
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: null
+  - english: "soap dispenser"
+    translation:
+      en: "soap dispenser"
+      ko: "비누 디스펜서"
+    gender: null
+  - english: "bath mat"
+    translation:
+      en: "bath mat"
+      ko: "욕실 매트"
+    gender: null
+  - english: "drain"
+    translation:
+      en: "drain"
+      ko: "배수구"
+    gender: null
+  - english: "shower curtain"
+    translation:
+      en: "shower curtain"
+      ko: "샤워 커튼"
+    gender: null
+  - english: "medicine cabinet"
+    translation:
+      en: "medicine cabinet"
+      ko: "약장"
+    gender: null
+  - english: "scale"
+    translation:
+      en: "scale"
+      ko: "체중계"
+    gender: null
+- id: garden_and_outdoors
+  label:
+    en: "Garden and Outdoors"
+    ko: "정원 및 야외"
+  type: vocabulary
+  words:
+  - english: "garden"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: null
+    notes:
+      en: "In American English, yard refers to the whole outdoor area"
+      ko: "미국 영어에서 yard는 전체 야외 공간"
+  - english: "yard"
+    translation:
+      en: "yard"
+      ko: "마당"
+    gender: null
+  - english: "fence"
+    translation:
+      en: "fence"
+      ko: "울타리"
+    gender: null
+  - english: "gate"
+    translation:
+      en: "gate"
+      ko: "대문"
+    gender: null
+  - english: "driveway"
+    translation:
+      en: "driveway"
+      ko: "차도 (집 진입로)"
+    gender: null
+  - english: "mailbox"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: null
+    notes:
+      en: "Called postbox or letterbox in British English"
+      ko: "영국 영어로 postbox 또는 letterbox"
+  - english: "roof"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: null
+  - english: "chimney"
+    translation:
+      en: "chimney"
+      ko: "굴뚝"
+    gender: null
+  - english: "wall"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: null
+  - english: "floor"
+    translation:
+      en: "floor"
+      ko: "바닥 / 층"
+    gender: null
+    notes:
+      en: "Also means a story of a building"
+      ko: "건물의 층이라는 뜻도 있음"
+  - english: "ceiling"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: null
+  - english: "door"
+    translation:
+      en: "door"
+      ko: "문"
+    gender: null
+  - english: "window"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: null
+  - english: "key"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: null
+  - english: "lock"
+    translation:
+      en: "lock"
+      ko: "자물쇠"
+    gender: null
+  - english: "doorbell"
+    translation:
+      en: "doorbell"
+      ko: "초인종"
+    gender: null
+  - english: "hose"
+    translation:
+      en: "hose"
+      ko: "호스"
+    gender: null
+  - english: "shovel"
+    translation:
+      en: "shovel"
+      ko: "삽"
+    gender: null
+  - english: "lawnmower"
+    translation:
+      en: "lawnmower"
+      ko: "잔디 깎는 기계"
+    gender: null
+  - english: "flowerpot"
+    translation:
+      en: "flowerpot"
+      ko: "화분"
+    gender: null
+  - english: "lawn"
+    translation:
+      en: "lawn"
+      ko: "잔디밭"
+    gender: null
+  - english: "shed"
+    translation:
+      en: "shed"
+      ko: "창고"
+    gender: null
+  - english: "pathway"
+    translation:
+      en: "pathway"
+      ko: "보도 / 오솔길"
+    gender: null
+  - english: "swing"
+    translation:
+      en: "swing"
+      ko: "그네"
+    gender: null
+  - english: "barbecue"
+    translation:
+      en: "barbecue"
+      ko: "바비큐 그릴"
+    gender: null
+    notes:
+      en: "Often abbreviated as BBQ"
+      ko: "BBQ로 줄여서 사용"
+  - english: "sprinkler"
+    translation:
+      en: "sprinkler"
+      ko: "스프링클러"
+    gender: null
+  - english: "wheelbarrow"
+    translation:
+      en: "wheelbarrow"
+      ko: "손수레"
+    gender: null
+  - english: "rake"
+    translation:
+      en: "rake"
+      ko: "갈퀴"
+    gender: null
+  - english: "watering can"
+    translation:
+      en: "watering can"
+      ko: "물뿌리개"
+    gender: null
+  - english: "gutter"
+    translation:
+      en: "gutter"
+      ko: "배수로 / 홈통"
+    gender: null
+  - english: "deck"
+    translation:
+      en: "deck"
+      ko: "데크 / 테라스"
+    gender: null
+  - english: "patio"
+    translation:
+      en: "patio"
+      ko: "안뜰 / 파티오"
+    gender: null
+  - english: "hedge"
+    translation:
+      en: "hedge"
+      ko: "울타리 (생울타리)"
+    gender: null
+  - english: "greenhouse"
+    translation:
+      en: "greenhouse"
+      ko: "온실"
+    gender: null
+  - english: "doghouse"
+    translation:
+      en: "doghouse"
+      ko: "개집"
+    gender: null
+    notes:
+      en: "Called kennel in British English"
+      ko: "영국 영어로 kennel"
+  - english: "birdbath"
+    translation:
+      en: "birdbath"
+      ko: "새 목욕통"
+    gender: null
+  - english: "planter"
+    translation:
+      en: "planter"
+      ko: "화분 / 재배기"
+    gender: null
+  - english: "trellis"
+    translation:
+      en: "trellis"
+      ko: "격자 울타리"
+    gender: null
+  - english: "compost bin"
+    translation:
+      en: "compost bin"
+      ko: "퇴비통"
+    gender: null
+  - english: "flagstone"
+    translation:
+      en: "flagstone"
+      ko: "판석"
+    gender: null
+  - english: "steps"
+    translation:
+      en: "steps"
+      ko: "계단 (야외)"
+    gender: null
+  - english: "handrail"
+    translation:
+      en: "handrail"
+      ko: "난간"
+    gender: null
+  - english: "satellite dish"
+    translation:
+      en: "satellite dish"
+      ko: "위성 안테나"
+    gender: null
+  - english: "welcome mat"
+    translation:
+      en: "welcome mat"
+      ko: "현관 매트"
+    gender: null

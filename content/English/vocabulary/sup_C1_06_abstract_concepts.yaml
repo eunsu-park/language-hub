@@ -1,0 +1,1113 @@
+lesson: "sup_C1_Abstract_Concepts"
+lesson_number: 186
+cefr: C1
+type: supplementary
+topic: "Abstract Concepts"
+categories:
+- id: epistemology
+  label:
+    en: "Epistemology"
+    ko: "인식론"
+  type: vocabulary
+  words:
+  - english: "epistemology"
+    translation:
+      en: "epistemology"
+      ko: "인식론"
+    gender: null
+  - english: "knowledge"
+    translation:
+      en: "knowledge"
+      ko: "지식"
+    gender: null
+  - english: "belief"
+    translation:
+      en: "belief"
+      ko: "믿음"
+    gender: null
+  - english: "truth"
+    translation:
+      en: "truth"
+      ko: "진리"
+    gender: null
+  - english: "evidence"
+    translation:
+      en: "evidence"
+      ko: "증거"
+    gender: null
+  - english: "justification"
+    translation:
+      en: "justification"
+      ko: "정당화"
+    gender: null
+  - english: "certainty"
+    translation:
+      en: "certainty"
+      ko: "확실성"
+    gender: null
+  - english: "doubt"
+    translation:
+      en: "doubt"
+      ko: "의심"
+    gender: null
+    notes:
+      en: "The 'b' is silent"
+      ko: "'b'는 묵음"
+  - english: "skepticism"
+    translation:
+      en: "skepticism"
+      ko: "회의주의"
+    gender: null
+  - english: "objectivity"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: null
+  - english: "subjectivity"
+    translation:
+      en: "subjectivity"
+      ko: "주관성"
+    gender: null
+  - english: "a priori"
+    translation:
+      en: "a priori"
+      ko: "선험적인"
+    gender: null
+    notes:
+      en: "Knowledge independent of experience"
+      ko: "경험에 의존하지 않는 지식"
+  - english: "a posteriori"
+    translation:
+      en: "a posteriori"
+      ko: "경험적인"
+    gender: null
+    notes:
+      en: "Knowledge derived from experience"
+      ko: "경험에서 파생된 지식"
+  - english: "empirical"
+    translation:
+      en: "empirical"
+      ko: "경험적인"
+    gender: null
+  - english: "axiom"
+    translation:
+      en: "axiom"
+      ko: "공리"
+    gender: null
+  - english: "postulate"
+    translation:
+      en: "postulate"
+      ko: "공준"
+    gender: null
+  - english: "inference"
+    translation:
+      en: "inference"
+      ko: "추론"
+    gender: null
+  - english: "intuition"
+    translation:
+      en: "intuition"
+      ko: "직관"
+    gender: null
+  - english: "cognition"
+    translation:
+      en: "cognition"
+      ko: "인지"
+    gender: null
+  - english: "wisdom"
+    translation:
+      en: "wisdom"
+      ko: "지혜"
+    gender: null
+- id: ontology
+  label:
+    en: "Ontology"
+    ko: "존재론"
+  type: vocabulary
+  words:
+  - english: "ontology"
+    translation:
+      en: "ontology"
+      ko: "존재론"
+    gender: null
+  - english: "being"
+    translation:
+      en: "being"
+      ko: "존재"
+    gender: null
+  - english: "existence"
+    translation:
+      en: "existence"
+      ko: "실존"
+    gender: null
+  - english: "essence"
+    translation:
+      en: "essence"
+      ko: "본질"
+    gender: null
+  - english: "substance"
+    translation:
+      en: "substance"
+      ko: "실체"
+    gender: null
+  - english: "property"
+    translation:
+      en: "property"
+      ko: "속성"
+    gender: null
+  - english: "identity"
+    translation:
+      en: "identity"
+      ko: "정체성"
+    gender: null
+  - english: "category"
+    translation:
+      en: "category"
+      ko: "범주"
+    gender: null
+  - english: "abstract"
+    translation:
+      en: "abstract"
+      ko: "추상적인"
+    gender: null
+  - english: "concrete"
+    translation:
+      en: "concrete"
+      ko: "구체적인"
+    gender: null
+  - english: "universal"
+    translation:
+      en: "universal"
+      ko: "보편적인"
+    gender: null
+  - english: "particular"
+    translation:
+      en: "particular"
+      ko: "개별적인"
+    gender: null
+  - english: "phenomenon"
+    translation:
+      en: "phenomenon"
+      ko: "현상"
+    gender: null
+  - english: "noumenon"
+    translation:
+      en: "noumenon"
+      ko: "물자체"
+    gender: null
+    notes:
+      en: "Kantian term: the thing as it is, beyond perception"
+      ko: "칸트 용어: 인식을 넘어선 사물 자체"
+  - english: "transcendence"
+    translation:
+      en: "transcendence"
+      ko: "초월"
+    gender: null
+  - english: "immanence"
+    translation:
+      en: "immanence"
+      ko: "내재"
+    gender: null
+  - english: "contingency"
+    translation:
+      en: "contingency"
+      ko: "우연성"
+    gender: null
+  - english: "necessity"
+    translation:
+      en: "necessity"
+      ko: "필연성"
+    gender: null
+- id: causality_and_consciousness
+  label:
+    en: "Causality and Consciousness"
+    ko: "인과 및 의식"
+  type: vocabulary
+  words:
+  - english: "causality"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: null
+  - english: "cause"
+    translation:
+      en: "cause"
+      ko: "원인"
+    gender: null
+  - english: "effect"
+    translation:
+      en: "effect"
+      ko: "결과"
+    gender: null
+  - english: "correlation"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: null
+  - english: "determinism"
+    translation:
+      en: "determinism"
+      ko: "결정론"
+    gender: null
+  - english: "indeterminism"
+    translation:
+      en: "indeterminism"
+      ko: "비결정론"
+    gender: null
+  - english: "consciousness"
+    translation:
+      en: "consciousness"
+      ko: "의식"
+    gender: null
+  - english: "self-awareness"
+    translation:
+      en: "self-awareness"
+      ko: "자기인식"
+    gender: null
+  - english: "sentience"
+    translation:
+      en: "sentience"
+      ko: "감각능력"
+    gender: null
+  - english: "qualia"
+    translation:
+      en: "qualia"
+      ko: "감각질"
+    gender: null
+    notes:
+      en: "Subjective conscious experiences"
+      ko: "주관적인 의식 경험"
+  - english: "mind-body problem"
+    translation:
+      en: "mind-body problem"
+      ko: "심신 문제"
+    gender: null
+  - english: "dualism"
+    translation:
+      en: "dualism"
+      ko: "이원론"
+    gender: null
+  - english: "monism"
+    translation:
+      en: "monism"
+      ko: "일원론"
+    gender: null
+  - english: "reductionism"
+    translation:
+      en: "reductionism"
+      ko: "환원주의"
+    gender: null
+  - english: "emergence"
+    translation:
+      en: "emergence"
+      ko: "창발"
+    gender: null
+  - english: "intentionality"
+    translation:
+      en: "intentionality"
+      ko: "지향성"
+    gender: null
+  - english: "agency"
+    translation:
+      en: "agency"
+      ko: "행위주체성"
+    gender: null
+  - english: "volition"
+    translation:
+      en: "volition"
+      ko: "의지"
+    gender: null
+- id: paradigm_shifts
+  label:
+    en: "Paradigm Shifts"
+    ko: "패러다임 전환"
+  type: vocabulary
+  words:
+  - english: "paradigm"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: null
+  - english: "paradigm shift"
+    translation:
+      en: "paradigm shift"
+      ko: "패러다임 전환"
+    gender: null
+  - english: "revolution"
+    translation:
+      en: "revolution"
+      ko: "혁명"
+    gender: null
+  - english: "transformation"
+    translation:
+      en: "transformation"
+      ko: "변환"
+    gender: null
+  - english: "innovation"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: null
+  - english: "disruption"
+    translation:
+      en: "disruption"
+      ko: "파괴적 변화"
+    gender: null
+  - english: "evolution"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: null
+  - english: "entropy"
+    translation:
+      en: "entropy"
+      ko: "엔트로피"
+    gender: null
+  - english: "complexity"
+    translation:
+      en: "complexity"
+      ko: "복잡성"
+    gender: null
+  - english: "systems thinking"
+    translation:
+      en: "systems thinking"
+      ko: "시스템적 사고"
+    gender: null
+  - english: "holism"
+    translation:
+      en: "holism"
+      ko: "전체론"
+    gender: null
+  - english: "dialectic"
+    translation:
+      en: "dialectic"
+      ko: "변증법"
+    gender: null
+  - english: "synthesis"
+    translation:
+      en: "synthesis"
+      ko: "종합"
+    gender: null
+  - english: "thesis"
+    translation:
+      en: "thesis"
+      ko: "정"
+    gender: null
+  - english: "antithesis"
+    translation:
+      en: "antithesis"
+      ko: "반"
+    gender: null
+  - english: "zeitgeist"
+    translation:
+      en: "zeitgeist"
+      ko: "시대정신"
+    gender: null
+    notes:
+      en: "German loanword meaning 'spirit of the time'"
+      ko: "독일어 차용어로 '시대의 정신'"
+  - english: "ethos"
+    translation:
+      en: "ethos"
+      ko: "정신 / 기풍"
+    gender: null
+  - english: "ideology"
+    translation:
+      en: "ideology"
+      ko: "이념"
+    gender: null
+  - english: "worldview"
+    translation:
+      en: "worldview"
+      ko: "세계관"
+    gender: null
+  - english: "cosmology"
+    translation:
+      en: "cosmology"
+      ko: "우주론"
+    gender: null
+  - english: "teleology"
+    translation:
+      en: "teleology"
+      ko: "목적론"
+    gender: null
+  - english: "hermeneutics"
+    translation:
+      en: "hermeneutics"
+      ko: "해석학"
+    gender: null
+  - english: "phenomenology"
+    translation:
+      en: "phenomenology"
+      ko: "현상학"
+    gender: null
+  - english: "deconstruction"
+    translation:
+      en: "deconstruction"
+      ko: "해체"
+    gender: null
+- id: ethics_and_values
+  label:
+    en: "Ethics and Values"
+    ko: "윤리 및 가치"
+  type: vocabulary
+  words:
+  - english: "morality"
+    translation:
+      en: "morality"
+      ko: "도덕성"
+    gender: null
+  - english: "virtue ethics"
+    translation:
+      en: "virtue ethics"
+      ko: "덕윤리학"
+    gender: null
+  - english: "deontological ethics"
+    translation:
+      en: "deontological ethics"
+      ko: "의무론적 윤리학"
+    gender: null
+  - english: "consequentialism"
+    translation:
+      en: "consequentialism"
+      ko: "결과주의"
+    gender: null
+  - english: "categorical imperative"
+    translation:
+      en: "categorical imperative"
+      ko: "정언적 명령"
+    gender: null
+  - english: "utilitarian calculus"
+    translation:
+      en: "utilitarian calculus"
+      ko: "공리주의적 계산"
+    gender: null
+  - english: "social contract"
+    translation:
+      en: "social contract"
+      ko: "사회계약"
+    gender: null
+  - english: "natural law"
+    translation:
+      en: "natural law"
+      ko: "자연법"
+    gender: null
+  - english: "positive law"
+    translation:
+      en: "positive law"
+      ko: "실정법"
+    gender: null
+  - english: "moral relativism"
+    translation:
+      en: "moral relativism"
+      ko: "도덕 상대주의"
+    gender: null
+  - english: "moral absolutism"
+    translation:
+      en: "moral absolutism"
+      ko: "도덕 절대주의"
+    gender: null
+  - english: "nihilism"
+    translation:
+      en: "nihilism"
+      ko: "허무주의"
+    gender: null
+  - english: "altruism"
+    translation:
+      en: "altruism"
+      ko: "이타주의"
+    gender: null
+  - english: "egoism"
+    translation:
+      en: "egoism"
+      ko: "이기주의"
+    gender: null
+  - english: "autonomy"
+    translation:
+      en: "autonomy"
+      ko: "자율성"
+    gender: null
+  - english: "paternalism"
+    translation:
+      en: "paternalism"
+      ko: "온정주의"
+    gender: null
+  - english: "justice"
+    translation:
+      en: "justice"
+      ko: "정의"
+    gender: null
+  - english: "equity"
+    translation:
+      en: "equity"
+      ko: "형평"
+    gender: null
+  - english: "fairness"
+    translation:
+      en: "fairness"
+      ko: "공정성"
+    gender: null
+  - english: "reciprocity"
+    translation:
+      en: "reciprocity"
+      ko: "호혜성"
+    gender: null
+- id: metaphysical_concepts
+  label:
+    en: "Metaphysical Concepts"
+    ko: "형이상학적 개념"
+  type: vocabulary
+  words:
+  - english: "metaphysics"
+    translation:
+      en: "metaphysics"
+      ko: "형이상학"
+    gender: null
+  - english: "reality"
+    translation:
+      en: "reality"
+      ko: "실재"
+    gender: null
+  - english: "appearance"
+    translation:
+      en: "appearance"
+      ko: "현상 / 외관"
+    gender: null
+  - english: "illusion"
+    translation:
+      en: "illusion"
+      ko: "환상"
+    gender: null
+  - english: "potentiality"
+    translation:
+      en: "potentiality"
+      ko: "잠재성"
+    gender: null
+  - english: "actuality"
+    translation:
+      en: "actuality"
+      ko: "현실성"
+    gender: null
+  - english: "space-time"
+    translation:
+      en: "space-time"
+      ko: "시공간"
+    gender: null
+  - english: "infinity"
+    translation:
+      en: "infinity"
+      ko: "무한"
+    gender: null
+  - english: "void"
+    translation:
+      en: "void"
+      ko: "공허 / 무"
+    gender: null
+  - english: "paradox"
+    translation:
+      en: "paradox"
+      ko: "역설"
+    gender: null
+  - english: "absurdity"
+    translation:
+      en: "absurdity"
+      ko: "부조리"
+    gender: null
+  - english: "authenticity"
+    translation:
+      en: "authenticity"
+      ko: "진정성"
+    gender: null
+  - english: "alienation"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: null
+  - english: "angst"
+    translation:
+      en: "angst"
+      ko: "불안"
+    gender: null
+    notes:
+      en: "German loanword"
+      ko: "독일어 차용어"
+  - english: "dasein"
+    translation:
+      en: "dasein"
+      ko: "현존재"
+    gender: null
+    notes:
+      en: "Heideggerian term"
+      ko: "하이데거 용어"
+  - english: "praxis"
+    translation:
+      en: "praxis"
+      ko: "실천"
+    gender: null
+  - english: "logos"
+    translation:
+      en: "logos"
+      ko: "로고스"
+    gender: null
+  - english: "telos"
+    translation:
+      en: "telos"
+      ko: "텔로스 / 목적"
+    gender: null
+  - english: "arche"
+    translation:
+      en: "arche"
+      ko: "아르케 / 원리"
+    gender: null
+  - english: "nous"
+    translation:
+      en: "nous"
+      ko: "누스 / 지성"
+    gender: null
+- id: logic_and_argument
+  label:
+    en: "Logic and Argumentation"
+    ko: "논리 및 논증"
+  type: vocabulary
+  words:
+  - english: "formal logic"
+    translation:
+      en: "formal logic"
+      ko: "형식 논리학"
+    gender: null
+  - english: "informal logic"
+    translation:
+      en: "informal logic"
+      ko: "비형식 논리학"
+    gender: null
+  - english: "propositional logic"
+    translation:
+      en: "propositional logic"
+      ko: "명제 논리"
+    gender: null
+  - english: "predicate logic"
+    translation:
+      en: "predicate logic"
+      ko: "술어 논리"
+    gender: null
+  - english: "modal logic"
+    translation:
+      en: "modal logic"
+      ko: "양상 논리"
+    gender: null
+  - english: "deductive reasoning"
+    translation:
+      en: "deductive reasoning"
+      ko: "연역적 추론"
+    gender: null
+  - english: "inductive reasoning"
+    translation:
+      en: "inductive reasoning"
+      ko: "귀납적 추론"
+    gender: null
+  - english: "abductive reasoning"
+    translation:
+      en: "abductive reasoning"
+      ko: "가추적 추론"
+    gender: null
+  - english: "valid argument"
+    translation:
+      en: "valid argument"
+      ko: "타당한 논증"
+    gender: null
+  - english: "sound argument"
+    translation:
+      en: "sound argument"
+      ko: "건전한 논증"
+    gender: null
+  - english: "cogent argument"
+    translation:
+      en: "cogent argument"
+      ko: "설득력 있는 논증"
+    gender: null
+  - english: "fallacious argument"
+    translation:
+      en: "fallacious argument"
+      ko: "오류적 논증"
+    gender: null
+  - english: "ad hominem"
+    translation:
+      en: "ad hominem"
+      ko: "인신공격 오류"
+    gender: null
+    notes:
+      en: "Latin: 'to the person'"
+      ko: "라틴어: '사람을 향한'"
+  - english: "straw man"
+    translation:
+      en: "straw man"
+      ko: "허수아비 논증"
+    gender: null
+  - english: "red herring"
+    translation:
+      en: "red herring"
+      ko: "논점 일탈"
+    gender: null
+  - english: "slippery slope"
+    translation:
+      en: "slippery slope"
+      ko: "미끄러운 비탈길 논증"
+    gender: null
+  - english: "false dilemma"
+    translation:
+      en: "false dilemma"
+      ko: "거짓 딜레마"
+    gender: null
+  - english: "circular reasoning"
+    translation:
+      en: "circular reasoning"
+      ko: "순환 논증"
+    gender: null
+  - english: "appeal to authority"
+    translation:
+      en: "appeal to authority"
+      ko: "권위에의 호소"
+    gender: null
+  - english: "burden of proof"
+    translation:
+      en: "burden of proof"
+      ko: "입증 책임"
+    gender: null
+
+- id: epistemological_concepts
+  label:
+    en: "Epistemological Concepts"
+    ko: "인식론적 개념"
+  type: vocabulary
+  words:
+  - english: "a priori knowledge"
+    translation:
+      en: "a priori knowledge"
+      ko: "선험적 지식"
+    gender: null
+  - english: "a posteriori knowledge"
+    translation:
+      en: "a posteriori knowledge"
+      ko: "후험적 지식"
+    gender: null
+  - english: "empirical evidence"
+    translation:
+      en: "empirical evidence"
+      ko: "경험적 증거"
+    gender: null
+  - english: "rationality"
+    translation:
+      en: "rationality"
+      ko: "합리성"
+    gender: null
+  - english: "truth value"
+    translation:
+      en: "truth value"
+      ko: "진리값"
+    gender: null
+  - english: "propositional knowledge"
+    translation:
+      en: "propositional knowledge"
+      ko: "명제적 지식"
+    gender: null
+  - english: "tacit knowledge"
+    translation:
+      en: "tacit knowledge"
+      ko: "암묵적 지식"
+    gender: null
+  - english: "explicit knowledge"
+    translation:
+      en: "explicit knowledge"
+      ko: "명시적 지식"
+    gender: null
+  - english: "epistemological skepticism"
+    translation:
+      en: "epistemological skepticism"
+      ko: "인식론적 회의주의"
+    gender: null
+  - english: "foundationalism"
+    translation:
+      en: "foundationalism"
+      ko: "기초주의"
+    gender: null
+  - english: "coherentism"
+    translation:
+      en: "coherentism"
+      ko: "정합주의"
+    gender: null
+  - english: "reliabilism"
+    translation:
+      en: "reliabilism"
+      ko: "신뢰주의"
+    gender: null
+  - english: "justified true belief"
+    translation:
+      en: "justified true belief"
+      ko: "정당화된 참인 믿음"
+    gender: null
+
+- id: sociological_concepts
+  label:
+    en: "Sociological Concepts"
+    ko: "사회학적 개념"
+  type: vocabulary
+  words:
+  - english: "social stratification"
+    translation:
+      en: "social stratification"
+      ko: "사회 계층화"
+    gender: null
+  - english: "social capital"
+    translation:
+      en: "social capital"
+      ko: "사회적 자본"
+    gender: null
+  - english: "cultural capital"
+    translation:
+      en: "cultural capital"
+      ko: "문화 자본"
+    gender: null
+  - english: "habitus"
+    translation:
+      en: "habitus"
+      ko: "아비투스"
+    gender: null
+  - english: "anomie"
+    translation:
+      en: "anomie"
+      ko: "아노미"
+    gender: null
+  - english: "hegemony"
+    translation:
+      en: "hegemony"
+      ko: "헤게모니"
+    gender: null
+  - english: "discourse"
+    translation:
+      en: "discourse"
+      ko: "담론"
+    gender: null
+  - english: "power dynamics"
+    translation:
+      en: "power dynamics"
+      ko: "권력 역학"
+    gender: null
+  - english: "institutionalization"
+    translation:
+      en: "institutionalization"
+      ko: "제도화"
+    gender: null
+  - english: "socialization"
+    translation:
+      en: "socialization"
+      ko: "사회화"
+    gender: null
+  - english: "deviance"
+    translation:
+      en: "deviance"
+      ko: "일탈"
+    gender: null
+  - english: "norm"
+    translation:
+      en: "norm"
+      ko: "규범"
+    gender: null
+  - english: "status quo"
+    translation:
+      en: "status quo"
+      ko: "현상 유지"
+    gender: null
+  - english: "meritocracy"
+    translation:
+      en: "meritocracy"
+      ko: "능력주의"
+    gender: null
+  - english: "bureaucratization"
+    translation:
+      en: "bureaucratization"
+      ko: "관료화"
+    gender: null
+  - english: "commodification"
+    translation:
+      en: "commodification"
+      ko: "상품화"
+    gender: null
+  - english: "reification"
+    translation:
+      en: "reification"
+      ko: "물화"
+    gender: null
+
+- id: philosophical_abstractions
+  label:
+    en: "Philosophical Abstractions"
+    ko: "철학적 추상개념"
+  type: vocabulary
+  words:
+  - english: "heteronomy"
+    translation:
+      en: "heteronomy"
+      ko: "타율성"
+    gender: null
+  - english: "universality"
+    translation:
+      en: "universality"
+      ko: "보편성"
+    gender: null
+  - english: "particularity"
+    translation:
+      en: "particularity"
+      ko: "특수성"
+    gender: null
+  - english: "finitude"
+    translation:
+      en: "finitude"
+      ko: "유한성"
+    gender: null
+  - english: "temporality"
+    translation:
+      en: "temporality"
+      ko: "시간성"
+    gender: null
+  - english: "spatiality"
+    translation:
+      en: "spatiality"
+      ko: "공간성"
+    gender: null
+  - english: "alterity"
+    translation:
+      en: "alterity"
+      ko: "타자성"
+    gender: null
+  - english: "dialectics"
+    translation:
+      en: "dialectics"
+      ko: "변증법"
+    gender: null
+  - english: "sublation"
+    translation:
+      en: "sublation"
+      ko: "지양"
+    gender: null
+  - english: "negation"
+    translation:
+      en: "negation"
+      ko: "부정"
+    gender: null
+  - english: "mediation"
+    translation:
+      en: "mediation"
+      ko: "매개"
+    gender: null
+  - english: "totality"
+    translation:
+      en: "totality"
+      ko: "전체성"
+    gender: null
+  - english: "plurality"
+    translation:
+      en: "plurality"
+      ko: "다원성"
+    gender: null
+
+- id: critical_theory
+  label:
+    en: "Critical Theory"
+    ko: "비판 이론"
+  type: vocabulary
+  words:
+  - english: "post-structuralism"
+    translation:
+      en: "post-structuralism"
+      ko: "후기구조주의"
+    gender: null
+  - english: "semiotics"
+    translation:
+      en: "semiotics"
+      ko: "기호학"
+    gender: null
+  - english: "signifier"
+    translation:
+      en: "signifier"
+      ko: "기표"
+    gender: null
+  - english: "signified"
+    translation:
+      en: "signified"
+      ko: "기의"
+    gender: null
+  - english: "simulacrum"
+    translation:
+      en: "simulacrum"
+      ko: "시뮬라크르"
+    gender: null
+  - english: "spectacle"
+    translation:
+      en: "spectacle"
+      ko: "스펙터클"
+    gender: null
+  - english: "panopticon"
+    translation:
+      en: "panopticon"
+      ko: "파놉티콘"
+    gender: null
+  - english: "biopolitics"
+    translation:
+      en: "biopolitics"
+      ko: "생명정치학"
+    gender: null
+  - english: "necropolitics"
+    translation:
+      en: "necropolitics"
+      ko: "네크로폴리틱스"
+    gender: null
+  - english: "interpellation"
+    translation:
+      en: "interpellation"
+      ko: "호명"
+    gender: null
+  - english: "subaltern"
+    translation:
+      en: "subaltern"
+      ko: "하위주체"
+    gender: null
+  - english: "postcolonialism"
+    translation:
+      en: "postcolonialism"
+      ko: "탈식민주의"
+    gender: null
+  - english: "Orientalism"
+    translation:
+      en: "Orientalism"
+      ko: "오리엔탈리즘"
+    gender: null
+  - english: "liminal"
+    translation:
+      en: "liminal"
+      ko: "경계의"
+    gender: null
+  - english: "liminality"
+    translation:
+      en: "liminality"
+      ko: "리미널리티"
+    gender: null
+  - english: "performativity"
+    translation:
+      en: "performativity"
+      ko: "수행성"
+    gender: null
+  - english: "intersectionality"
+    translation:
+      en: "intersectionality"
+      ko: "교차성"
+    gender: null
+  - english: "rhizome"
+    translation:
+      en: "rhizome"
+      ko: "리좀"
+    gender: null
+  - english: "deterritorialization"
+    translation:
+      en: "deterritorialization"
+      ko: "탈영토화"
+    gender: null

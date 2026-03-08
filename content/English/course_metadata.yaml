@@ -1,0 +1,67 @@
+language:
+  code: en
+  name:
+    en: English
+    ko: 영어
+    native: English
+  writing_system: latin
+  script_direction: ltr
+  proficiency_framework: cefr
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: false
+  has_gendered_nouns: false
+  word_key: english
+  tts_locale: en-US
+  accent_chars: []
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    cefr: A1
+    label:
+      en: "Foundations"
+      ko: "기초"
+    description:
+      en: "Pronunciation, greetings, articles/nouns, essential verbs, word order"
+      ko: "발음, 인사, 관사/명사, 필수 동사, 어순"
+
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    cefr: A2
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Past tense, prepositions, adjectives/adverbs, numbers, daily vocabulary"
+      ko: "과거 시제, 전치사, 형용사/부사, 숫자, 일상 어휘"
+
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    cefr: B1
+    label:
+      en: "Intermediate Grammar"
+      ko: "중급 문법"
+    description:
+      en: "Continuous/perfect tenses, modals, passive voice, complete tense system"
+      ko: "진행/완료 시제, 조동사, 수동태, 전체 시제 체계"
+
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    cefr: B2
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Relative clauses, conditionals, phrasal verbs, discourse, vocabulary expansion"
+      ko: "관계절, 조건문, 구동사, 담화, 어휘 확장"
+
+  - id: practical
+    lessons: ["21", "22", "23", "24", "25"]
+    cefr: B2-C1
+    label:
+      en: "Practical Application"
+      ko: "실전 적용"
+    description:
+      en: "Reading, writing, culture, business English, exam preparation"
+      ko: "독해, 작문, 문화, 비즈니스 영어, 시험 준비"

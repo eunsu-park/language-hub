@@ -45,17 +45,30 @@ language-hub/
 │   │       ├── tense_rules.yaml       # 10 tense rules
 │   │       └── _index.yaml            # Grammar index metadata
 │   │
-│   └── Japanese/                      # Japanese course (N5→N1 JLPT)
-│       ├── course_metadata.yaml       # Language config, JLPT stage definitions
+│   ├── Japanese/                      # Japanese course (N5→N1 JLPT)
+│   │   ├── course_metadata.yaml       # Language config, JLPT stage definitions
+│   │   ├── en/                        # Lessons in English (26 files)
+│   │   ├── ko/                        # Lessons in Korean (26 files)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (68 files, 8,856 words)
+│   │   │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
+│   │   │   └── sup_*.yaml               # Supplementary packs by level (43 files)
+│   │   └── grammar/                   # Structured grammar YAML
+│   │       ├── conjugations.yaml      # 17 verbs × 10 forms
+│   │       ├── grammar_rules.yaml     # 7 rule types
+│   │       ├── tense_rules.yaml       # 15 tense rules
+│   │       └── _index.yaml            # Grammar index metadata
+│   │
+│   └── English/                       # English course (A1→C1 CEFR)
+│       ├── course_metadata.yaml       # Language config, CEFR stage definitions
 │       ├── en/                        # Lessons in English (26 files)
 │       ├── ko/                        # Lessons in Korean (26 files)
-│       ├── vocabulary/                # Structured vocabulary YAML (68 files, 8,856 words)
+│       ├── vocabulary/                # Structured vocabulary YAML (67 files, 9,280 words)
 │       │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
-│       │   └── sup_*.yaml               # Supplementary packs by level (43 files)
+│       │   └── sup_*.yaml               # Supplementary packs by level (42 files)
 │       └── grammar/                   # Structured grammar YAML
-│           ├── conjugations.yaml      # 17 verbs × 10 forms
+│           ├── conjugations.yaml      # 20 verbs × 12 tenses
 │           ├── grammar_rules.yaml     # 7 rule types
-│           ├── tense_rules.yaml       # 15 tense rules
+│           ├── tense_rules.yaml       # 14 tense rules
 │           └── _index.yaml            # Grammar index metadata
 │
 └── scripts/                           # Content management utilities
@@ -119,6 +132,24 @@ language-hub/
 - 68 vocabulary YAML files (8,856 words)
 - 17 verbs × 10 forms (conjugation tables)
 - 7 grammar rule types, 15 tense rules
+
+### English (영어)
+
+25-lesson progressive course from A1 to C1 (CEFR), designed for Korean speakers.
+
+| Stage | CEFR | Lessons | Focus |
+|-------|------|---------|-------|
+| Foundations / 기초 | A1 | 01-05 | Pronunciation, greetings, articles & nouns, essential verbs, word order |
+| Elementary / 초급 | A2 | 06-10 | Past tense, prepositions, adjectives & adverbs, numbers, daily vocabulary |
+| Intermediate / 중급 | B1 | 11-15 | Continuous/perfect tenses, modals, passive voice, complete tense system |
+| Advanced / 고급 | B2 | 16-20 | Relative clauses, conditionals, phrasal verbs, discourse, vocabulary |
+| Practical / 실전 | B2-C1 | 21-25 | Reading, writing, culture, business English, exam prep (TOEIC/IELTS) |
+
+**Content stats:**
+- 26 lesson files per language (en + ko)
+- 67 vocabulary YAML files (9,280 words)
+- 20 verbs × 12 tenses (conjugation tables)
+- 7 grammar rule types, 14 tense rules
 
 ## Companion Viewer / 뷰어
 

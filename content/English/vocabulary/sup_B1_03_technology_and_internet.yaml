@@ -1,0 +1,1073 @@
+lesson: "sup_B1_Technology_and_Internet"
+lesson_number: 143
+cefr: B1
+type: supplementary
+topic: "Technology and Internet"
+categories:
+- id: devices
+  label:
+    en: "Devices"
+    ko: "기기"
+  type: vocabulary
+  words:
+  - english: "computer"
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: null
+  - english: "laptop"
+    translation:
+      en: "laptop"
+      ko: "노트북 컴퓨터"
+    gender: null
+  - english: "desktop"
+    translation:
+      en: "desktop"
+      ko: "데스크톱"
+    gender: null
+  - english: "smartphone"
+    translation:
+      en: "smartphone"
+      ko: "스마트폰"
+    gender: null
+  - english: "tablet"
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: null
+  - english: "smartwatch"
+    translation:
+      en: "smartwatch"
+      ko: "스마트워치"
+    gender: null
+  - english: "keyboard"
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: null
+  - english: "mouse"
+    translation:
+      en: "mouse"
+      ko: "마우스"
+    gender: null
+  - english: "monitor"
+    translation:
+      en: "monitor"
+      ko: "모니터"
+    gender: null
+  - english: "speaker"
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: null
+  - english: "microphone"
+    translation:
+      en: "microphone"
+      ko: "마이크"
+    gender: null
+  - english: "webcam"
+    translation:
+      en: "webcam"
+      ko: "웹캠"
+    gender: null
+  - english: "charger"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: null
+  - english: "battery"
+    translation:
+      en: "battery"
+      ko: "배터리"
+    gender: null
+  - english: "USB drive"
+    translation:
+      en: "USB drive"
+      ko: "USB 드라이브"
+    gender: null
+  - english: "hard drive"
+    translation:
+      en: "hard drive"
+      ko: "하드 드라이브"
+    gender: null
+  - english: "router"
+    translation:
+      en: "router"
+      ko: "라우터"
+    gender: null
+  - english: "printer"
+    translation:
+      en: "printer"
+      ko: "프린터"
+    gender: null
+  - english: "scanner"
+    translation:
+      en: "scanner"
+      ko: "스캐너"
+    gender: null
+  - english: "headset"
+    translation:
+      en: "headset"
+      ko: "헤드셋"
+    gender: null
+- id: software_and_internet
+  label:
+    en: "Software and Internet"
+    ko: "소프트웨어 및 인터넷"
+  type: vocabulary
+  words:
+  - english: "software"
+    translation:
+      en: "software"
+      ko: "소프트웨어"
+    gender: null
+  - english: "hardware"
+    translation:
+      en: "hardware"
+      ko: "하드웨어"
+    gender: null
+  - english: "application"
+    translation:
+      en: "application"
+      ko: "애플리케이션"
+    gender: null
+    notes:
+      en: "Usually shortened to app"
+      ko: "보통 app으로 줄여서 사용"
+  - english: "website"
+    translation:
+      en: "website"
+      ko: "웹사이트"
+    gender: null
+  - english: "browser"
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: null
+  - english: "search engine"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: null
+  - english: "link"
+    translation:
+      en: "link"
+      ko: "링크"
+    gender: null
+  - english: "URL"
+    translation:
+      en: "URL"
+      ko: "URL / 웹 주소"
+    gender: null
+  - english: "download"
+    translation:
+      en: "download"
+      ko: "다운로드"
+    gender: null
+  - english: "upload"
+    translation:
+      en: "upload"
+      ko: "업로드"
+    gender: null
+  - english: "to install"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+  - english: "to update"
+    translation:
+      en: "to update"
+      ko: "업데이트하다"
+    gender: null
+  - english: "operating system"
+    translation:
+      en: "operating system"
+      ko: "운영체제"
+    gender: null
+  - english: "file"
+    translation:
+      en: "file"
+      ko: "파일"
+    gender: null
+  - english: "folder"
+    translation:
+      en: "folder"
+      ko: "폴더"
+    gender: null
+  - english: "database"
+    translation:
+      en: "database"
+      ko: "데이터베이스"
+    gender: null
+  - english: "cloud"
+    translation:
+      en: "cloud"
+      ko: "클라우드"
+    gender: null
+    notes:
+      en: "Cloud computing/storage"
+      ko: "클라우드 컴퓨팅/저장소"
+  - english: "backup"
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: null
+  - english: "Wi-Fi"
+    translation:
+      en: "Wi-Fi"
+      ko: "와이파이"
+    gender: null
+  - english: "bandwidth"
+    translation:
+      en: "bandwidth"
+      ko: "대역폭"
+    gender: null
+- id: social_media
+  label:
+    en: "Social Media"
+    ko: "소셜 미디어"
+  type: vocabulary
+  words:
+  - english: "social media"
+    translation:
+      en: "social media"
+      ko: "소셜 미디어"
+    gender: null
+  - english: "profile"
+    translation:
+      en: "profile"
+      ko: "프로필"
+    gender: null
+  - english: "post"
+    translation:
+      en: "post"
+      ko: "게시물"
+    gender: null
+  - english: "to share"
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+  - english: "to like"
+    translation:
+      en: "to like"
+      ko: "좋아요를 누르다"
+    gender: null
+  - english: "to follow"
+    translation:
+      en: "to follow"
+      ko: "팔로우하다"
+    gender: null
+  - english: "follower"
+    translation:
+      en: "follower"
+      ko: "팔로워"
+    gender: null
+  - english: "comment"
+    translation:
+      en: "comment"
+      ko: "댓글"
+    gender: null
+  - english: "hashtag"
+    translation:
+      en: "hashtag"
+      ko: "해시태그"
+    gender: null
+  - english: "notification"
+    translation:
+      en: "notification"
+      ko: "알림"
+    gender: null
+  - english: "to block"
+    translation:
+      en: "to block"
+      ko: "차단하다"
+    gender: null
+  - english: "trending"
+    translation:
+      en: "trending"
+      ko: "인기 급상승"
+    gender: null
+  - english: "influencer"
+    translation:
+      en: "influencer"
+      ko: "인플루언서"
+    gender: null
+  - english: "to stream"
+    translation:
+      en: "to stream"
+      ko: "스트리밍하다"
+    gender: null
+  - english: "content"
+    translation:
+      en: "content"
+      ko: "콘텐츠"
+    gender: null
+- id: cybersecurity
+  label:
+    en: "Cybersecurity"
+    ko: "사이버 보안"
+  type: vocabulary
+  words:
+  - english: "password"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: null
+  - english: "username"
+    translation:
+      en: "username"
+      ko: "사용자 이름"
+    gender: null
+  - english: "account"
+    translation:
+      en: "account"
+      ko: "계정"
+    gender: null
+  - english: "to log in"
+    translation:
+      en: "to log in"
+      ko: "로그인하다"
+    gender: null
+  - english: "to log out"
+    translation:
+      en: "to log out"
+      ko: "로그아웃하다"
+    gender: null
+  - english: "to sign up"
+    translation:
+      en: "to sign up"
+      ko: "가입하다"
+    gender: null
+  - english: "encryption"
+    translation:
+      en: "encryption"
+      ko: "암호화"
+    gender: null
+  - english: "virus"
+    translation:
+      en: "virus"
+      ko: "바이러스"
+    gender: null
+  - english: "malware"
+    translation:
+      en: "malware"
+      ko: "악성 소프트웨어"
+    gender: null
+  - english: "firewall"
+    translation:
+      en: "firewall"
+      ko: "방화벽"
+    gender: null
+  - english: "hacker"
+    translation:
+      en: "hacker"
+      ko: "해커"
+    gender: null
+  - english: "phishing"
+    translation:
+      en: "phishing"
+      ko: "피싱"
+    gender: null
+    notes:
+      en: "Fraudulent attempt to steal personal information"
+      ko: "개인 정보를 훔치려는 사기 시도"
+  - english: "spam"
+    translation:
+      en: "spam"
+      ko: "스팸"
+    gender: null
+  - english: "privacy"
+    translation:
+      en: "privacy"
+      ko: "개인정보 보호"
+    gender: null
+  - english: "two-factor authentication"
+    translation:
+      en: "two-factor authentication"
+      ko: "이중 인증"
+    gender: null
+  - english: "to hack"
+    translation:
+      en: "to hack"
+      ko: "해킹하다"
+    gender: null
+  - english: "VPN"
+    translation:
+      en: "VPN"
+      ko: "가상 사설 네트워크"
+    gender: null
+    notes:
+      en: "Virtual Private Network"
+      ko: "Virtual Private Network의 약자"
+  - english: "data breach"
+    translation:
+      en: "data breach"
+      ko: "데이터 유출"
+    gender: null
+  - english: "antivirus"
+    translation:
+      en: "antivirus"
+      ko: "백신 프로그램"
+    gender: null
+  - english: "to crash"
+    translation:
+      en: "to crash"
+      ko: "충돌하다 / 다운되다"
+    gender: null
+- id: hardware_components
+  label:
+    en: "Hardware Components"
+    ko: "하드웨어 부품"
+  type: vocabulary
+  words:
+  - english: "processor"
+    translation:
+      en: "processor"
+      ko: "프로세서"
+    gender: null
+    notes:
+      en: "Also called CPU"
+      ko: "CPU라고도 함"
+  - english: "memory"
+    translation:
+      en: "memory"
+      ko: "메모리"
+    gender: null
+  - english: "SSD"
+    translation:
+      en: "SSD"
+      ko: "SSD / 솔리드 스테이트 드라이브"
+    gender: null
+    notes:
+      en: "Solid State Drive"
+      ko: "Solid State Drive의 약자"
+  - english: "graphics card"
+    translation:
+      en: "graphics card"
+      ko: "그래픽 카드"
+    gender: null
+    notes:
+      en: "Also called GPU"
+      ko: "GPU라고도 함"
+  - english: "motherboard"
+    translation:
+      en: "motherboard"
+      ko: "메인보드"
+    gender: null
+  - english: "adapter"
+    translation:
+      en: "adapter"
+      ko: "어댑터"
+    gender: null
+  - english: "modem"
+    translation:
+      en: "modem"
+      ko: "모뎀"
+    gender: null
+  - english: "server"
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: null
+  - english: "peripheral"
+    translation:
+      en: "peripheral"
+      ko: "주변 기기"
+    gender: null
+  - english: "touchscreen"
+    translation:
+      en: "touchscreen"
+      ko: "터치스크린"
+    gender: null
+  - english: "projector"
+    translation:
+      en: "projector"
+      ko: "프로젝터"
+    gender: null
+  - english: "drone"
+    translation:
+      en: "drone"
+      ko: "드론"
+    gender: null
+  - english: "wearable"
+    translation:
+      en: "wearable"
+      ko: "웨어러블 기기"
+    gender: null
+- id: software_and_apps
+  label:
+    en: "Software and Applications"
+    ko: "소프트웨어 및 앱"
+  type: vocabulary
+  words:
+  - english: "to uninstall"
+    translation:
+      en: "to uninstall"
+      ko: "제거하다"
+    gender: null
+  - english: "to upgrade"
+    translation:
+      en: "to upgrade"
+      ko: "업그레이드하다"
+    gender: null
+  - english: "to download"
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+  - english: "to upload"
+    translation:
+      en: "to upload"
+      ko: "업로드하다"
+    gender: null
+  - english: "cloud storage"
+    translation:
+      en: "cloud storage"
+      ko: "클라우드 저장소"
+    gender: null
+  - english: "spreadsheet"
+    translation:
+      en: "spreadsheet"
+      ko: "스프레드시트"
+    gender: null
+  - english: "word processor"
+    translation:
+      en: "word processor"
+      ko: "워드프로세서"
+    gender: null
+  - english: "bookmark"
+    translation:
+      en: "bookmark"
+      ko: "북마크"
+    gender: null
+  - english: "to sync"
+    translation:
+      en: "to sync"
+      ko: "동기화하다"
+    gender: null
+  - english: "settings"
+    translation:
+      en: "settings"
+      ko: "설정"
+    gender: null
+  - english: "plugin"
+    translation:
+      en: "plugin"
+      ko: "플러그인"
+    gender: null
+  - english: "beta version"
+    translation:
+      en: "beta version"
+      ko: "베타 버전"
+    gender: null
+- id: digital_communication
+  label:
+    en: "Digital Communication"
+    ko: "디지털 커뮤니케이션"
+  type: vocabulary
+  words:
+  - english: "email"
+    translation:
+      en: "email"
+      ko: "이메일"
+    gender: null
+  - english: "to attach"
+    translation:
+      en: "to attach"
+      ko: "첨부하다"
+    gender: null
+  - english: "attachment"
+    translation:
+      en: "attachment"
+      ko: "첨부 파일"
+    gender: null
+  - english: "CC"
+    translation:
+      en: "CC"
+      ko: "참조"
+    gender: null
+    notes:
+      en: "Carbon Copy"
+      ko: "Carbon Copy의 약자"
+  - english: "BCC"
+    translation:
+      en: "BCC"
+      ko: "숨은 참조"
+    gender: null
+    notes:
+      en: "Blind Carbon Copy"
+      ko: "Blind Carbon Copy의 약자"
+  - english: "inbox"
+    translation:
+      en: "inbox"
+      ko: "받은 편지함"
+    gender: null
+  - english: "outbox"
+    translation:
+      en: "outbox"
+      ko: "보낸 편지함"
+    gender: null
+  - english: "video call"
+    translation:
+      en: "video call"
+      ko: "영상 통화"
+    gender: null
+  - english: "chat"
+    translation:
+      en: "chat"
+      ko: "채팅"
+    gender: null
+  - english: "instant messaging"
+    translation:
+      en: "instant messaging"
+      ko: "인스턴트 메시징"
+    gender: null
+  - english: "emoji"
+    translation:
+      en: "emoji"
+      ko: "이모지"
+    gender: null
+  - english: "GIF"
+    translation:
+      en: "GIF"
+      ko: "GIF / 움직이는 이미지"
+    gender: null
+  - english: "meme"
+    translation:
+      en: "meme"
+      ko: "밈"
+    gender: null
+  - english: "to forward"
+    translation:
+      en: "to forward"
+      ko: "전달하다"
+    gender: null
+  - english: "to reply"
+    translation:
+      en: "to reply"
+      ko: "답장하다"
+    gender: null
+  - english: "thread"
+    translation:
+      en: "thread"
+      ko: "스레드 / 대화 묶음"
+    gender: null
+  - english: "group chat"
+    translation:
+      en: "group chat"
+      ko: "단체 채팅방"
+    gender: null
+  - english: "voice message"
+    translation:
+      en: "voice message"
+      ko: "음성 메시지"
+    gender: null
+- id: ai_and_emerging_tech
+  label:
+    en: "AI and Emerging Technology"
+    ko: "인공지능 및 신기술"
+  type: vocabulary
+  words:
+  - english: "artificial intelligence"
+    translation:
+      en: "artificial intelligence"
+      ko: "인공지능"
+    gender: null
+    notes:
+      en: "Often abbreviated as AI"
+      ko: "AI로 줄여서 사용"
+  - english: "machine learning"
+    translation:
+      en: "machine learning"
+      ko: "머신러닝"
+    gender: null
+  - english: "algorithm"
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: null
+  - english: "automation"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: null
+  - english: "virtual reality"
+    translation:
+      en: "virtual reality"
+      ko: "가상현실"
+    gender: null
+    notes:
+      en: "Often abbreviated as VR"
+      ko: "VR로 줄여서 사용"
+  - english: "augmented reality"
+    translation:
+      en: "augmented reality"
+      ko: "증강현실"
+    gender: null
+    notes:
+      en: "Often abbreviated as AR"
+      ko: "AR로 줄여서 사용"
+  - english: "blockchain"
+    translation:
+      en: "blockchain"
+      ko: "블록체인"
+    gender: null
+  - english: "cryptocurrency"
+    translation:
+      en: "cryptocurrency"
+      ko: "암호화폐"
+    gender: null
+  - english: "Internet of Things"
+    translation:
+      en: "Internet of Things"
+      ko: "사물인터넷"
+    gender: null
+    notes:
+      en: "Often abbreviated as IoT"
+      ko: "IoT로 줄여서 사용"
+  - english: "5G"
+    translation:
+      en: "5G"
+      ko: "5G / 5세대 이동통신"
+    gender: null
+  - english: "big data"
+    translation:
+      en: "big data"
+      ko: "빅데이터"
+    gender: null
+  - english: "data mining"
+    translation:
+      en: "data mining"
+      ko: "데이터 마이닝"
+    gender: null
+  - english: "chatbot"
+    translation:
+      en: "chatbot"
+      ko: "챗봇"
+    gender: null
+  - english: "deepfake"
+    translation:
+      en: "deepfake"
+      ko: "딥페이크"
+    gender: null
+  - english: "biometric"
+    translation:
+      en: "biometric"
+      ko: "생체인식"
+    gender: null
+  - english: "facial recognition"
+    translation:
+      en: "facial recognition"
+      ko: "안면 인식"
+    gender: null
+  - english: "self-driving car"
+    translation:
+      en: "self-driving car"
+      ko: "자율주행차"
+    gender: null
+  - english: "smart home"
+    translation:
+      en: "smart home"
+      ko: "스마트 홈"
+    gender: null
+  - english: "3D printing"
+    translation:
+      en: "3D printing"
+      ko: "3D 프린팅"
+    gender: null
+  - english: "quantum computing"
+    translation:
+      en: "quantum computing"
+      ko: "양자 컴퓨팅"
+    gender: null
+
+- id: cybersecurity_advanced
+  label:
+    en: "Cybersecurity"
+    ko: "사이버 보안"
+  type: vocabulary
+  words:
+  - english: "ransomware"
+    translation:
+      en: "ransomware"
+      ko: "랜섬웨어"
+    gender: null
+  - english: "vulnerability"
+    translation:
+      en: "vulnerability"
+      ko: "취약점"
+    gender: null
+  - english: "patch"
+    translation:
+      en: "patch"
+      ko: "패치"
+    gender: null
+  - english: "SSL certificate"
+    translation:
+      en: "SSL certificate"
+      ko: "SSL 인증서"
+    gender: null
+  - english: "identity theft"
+    translation:
+      en: "identity theft"
+      ko: "신원 도용"
+    gender: null
+  - english: "biometrics"
+    translation:
+      en: "biometrics"
+      ko: "생체 인식"
+    gender: null
+
+- id: social_media_tech
+  label:
+    en: "Social Media Technology"
+    ko: "소셜 미디어 기술"
+  type: vocabulary
+  words:
+  - english: "feed"
+    translation:
+      en: "feed"
+      ko: "피드"
+    gender: null
+  - english: "viral"
+    translation:
+      en: "viral"
+      ko: "바이럴"
+    gender: null
+  - english: "content creator"
+    translation:
+      en: "content creator"
+      ko: "콘텐츠 크리에이터"
+    gender: null
+  - english: "engagement"
+    translation:
+      en: "engagement"
+      ko: "참여도"
+    gender: null
+  - english: "reach"
+    translation:
+      en: "reach"
+      ko: "도달 범위"
+    gender: null
+  - english: "analytics"
+    translation:
+      en: "analytics"
+      ko: "분석"
+    gender: null
+  - english: "monetization"
+    translation:
+      en: "monetization"
+      ko: "수익화"
+    gender: null
+  - english: "platform"
+    translation:
+      en: "platform"
+      ko: "플랫폼"
+    gender: null
+  - english: "user interface"
+    translation:
+      en: "user interface"
+      ko: "사용자 인터페이스"
+    gender: null
+  - english: "user experience"
+    translation:
+      en: "user experience"
+      ko: "사용자 경험"
+    gender: null
+  - english: "bot"
+    translation:
+      en: "bot"
+      ko: "봇"
+    gender: null
+  - english: "troll"
+    translation:
+      en: "troll"
+      ko: "트롤"
+    gender: null
+
+- id: emerging_tech
+  label:
+    en: "Emerging Technologies"
+    ko: "신기술"
+  type: vocabulary
+  words:
+  - english: "autonomous vehicle"
+    translation:
+      en: "autonomous vehicle"
+      ko: "자율 주행차"
+    gender: null
+  - english: "wearable technology"
+    translation:
+      en: "wearable technology"
+      ko: "웨어러블 기술"
+    gender: null
+  - english: "edge computing"
+    translation:
+      en: "edge computing"
+      ko: "엣지 컴퓨팅"
+    gender: null
+  - english: "neural network"
+    translation:
+      en: "neural network"
+      ko: "신경망"
+    gender: null
+  - english: "natural language processing"
+    translation:
+      en: "natural language processing"
+      ko: "자연어 처리"
+    gender: null
+
+- id: web_development
+  label:
+    en: "Web Development"
+    ko: "웹 개발"
+  type: vocabulary
+  words:
+  - english: "web page"
+    translation:
+      en: "web page"
+      ko: "웹 페이지"
+    gender: null
+  - english: "domain name"
+    translation:
+      en: "domain name"
+      ko: "도메인 이름"
+    gender: null
+  - english: "hosting"
+    translation:
+      en: "hosting"
+      ko: "호스팅"
+    gender: null
+  - english: "front-end"
+    translation:
+      en: "front-end"
+      ko: "프론트엔드"
+    gender: null
+  - english: "back-end"
+    translation:
+      en: "back-end"
+      ko: "백엔드"
+    gender: null
+  - english: "API"
+    translation:
+      en: "API"
+      ko: "응용 프로그래밍 인터페이스"
+    gender: null
+  - english: "responsive design"
+    translation:
+      en: "responsive design"
+      ko: "반응형 디자인"
+    gender: null
+  - english: "CMS"
+    translation:
+      en: "CMS"
+      ko: "콘텐츠 관리 시스템"
+    gender: null
+  - english: "SEO"
+    translation:
+      en: "SEO"
+      ko: "검색 엔진 최적화"
+    gender: null
+  - english: "HTML"
+    translation:
+      en: "HTML"
+      ko: "HTML"
+    gender: null
+  - english: "CSS"
+    translation:
+      en: "CSS"
+      ko: "CSS"
+    gender: null
+  - english: "JavaScript"
+    translation:
+      en: "JavaScript"
+      ko: "자바스크립트"
+    gender: null
+  - english: "framework"
+    translation:
+      en: "framework"
+      ko: "프레임워크"
+    gender: null
+  - english: "debugging"
+    translation:
+      en: "debugging"
+      ko: "디버깅"
+    gender: null
+
+- id: digital_tools
+  label:
+    en: "Digital Tools"
+    ko: "디지털 도구"
+  type: vocabulary
+  words:
+  - english: "presentation software"
+    translation:
+      en: "presentation software"
+      ko: "프레젠테이션 소프트웨어"
+    gender: null
+  - english: "project management tool"
+    translation:
+      en: "project management tool"
+      ko: "프로젝트 관리 도구"
+    gender: null
+  - english: "collaboration tool"
+    translation:
+      en: "collaboration tool"
+      ko: "협업 도구"
+    gender: null
+  - english: "file sharing"
+    translation:
+      en: "file sharing"
+      ko: "파일 공유"
+    gender: null
+  - english: "version control"
+    translation:
+      en: "version control"
+      ko: "버전 관리"
+    gender: null
+  - english: "open source"
+    translation:
+      en: "open source"
+      ko: "오픈 소스"
+    gender: null
+  - english: "plug-in"
+    translation:
+      en: "plug-in"
+      ko: "플러그인"
+    gender: null
+  - english: "extension"
+    translation:
+      en: "extension"
+      ko: "확장 프로그램"
+    gender: null
+  - english: "screenshot"
+    translation:
+      en: "screenshot"
+      ko: "스크린샷"
+    gender: null
+  - english: "screen recording"
+    translation:
+      en: "screen recording"
+      ko: "화면 녹화"
+    gender: null
+  - english: "cache"
+    translation:
+      en: "cache"
+      ko: "캐시"
+    gender: null
+  - english: "cookie"
+    translation:
+      en: "cookie"
+      ko: "쿠키"
+    gender: null
+  - english: "latency"
+    translation:
+      en: "latency"
+      ko: "지연 시간"
+    gender: null
+  - english: "client"
+    translation:
+      en: "client"
+      ko: "클라이언트"
+    gender: null

@@ -1,0 +1,391 @@
+lesson: 02_Greetings_and_Basic_Conversation
+lesson_number: 2
+cefr: A1
+categories:
+- id: 11_greetings
+  label:
+    en: "1.1 Greetings"
+    ko: "1.1 인사 표현"
+  type: vocabulary
+  words:
+  - english: hello
+    translation:
+      en: a general greeting
+      ko: 안녕하세요
+    gender: null
+  - english: hi
+    translation:
+      en: an informal greeting
+      ko: 안녕
+    gender: null
+  - english: hey
+    translation:
+      en: a very casual greeting
+      ko: 야, 안녕
+    gender: null
+  - english: good morning
+    translation:
+      en: a greeting used before noon
+      ko: 좋은 아침이에요
+    gender: null
+  - english: good afternoon
+    translation:
+      en: a greeting used from noon to evening
+      ko: 좋은 오후예요
+    gender: null
+  - english: good evening
+    translation:
+      en: a greeting used after about 5-6 PM
+      ko: 좋은 저녁이에요
+    gender: null
+  - english: "What's up?"
+    translation:
+      en: a casual greeting meaning "what are you doing?"
+      ko: 뭐 해? / 별일 없어?
+    gender: null
+  - english: "How's it going?"
+    translation:
+      en: a casual greeting asking how someone is
+      ko: 잘 지내?
+    gender: null
+  - english: "How are you?"
+    translation:
+      en: a standard greeting asking about someone's well-being
+      ko: 어떻게 지내세요?
+    gender: null
+  - english: "How have you been?"
+    translation:
+      en: a greeting used when you haven't seen someone for a while
+      ko: 그동안 어떻게 지냈어요?
+    gender: null
+  - english: "I'm fine, thank you."
+    translation:
+      en: a standard response to "How are you?"
+      ko: 잘 지내요, 감사합니다.
+    gender: null
+  - english: "Not much."
+    translation:
+      en: a casual response to "What's up?"
+      ko: 별일 없어.
+    gender: null
+- id: 12_farewells
+  label:
+    en: "1.2 Farewells"
+    ko: "1.2 작별 인사"
+  type: vocabulary
+  words:
+  - english: goodbye
+    translation:
+      en: a standard farewell
+      ko: 안녕히 가세요 / 안녕히 계세요
+    gender: null
+  - english: bye
+    translation:
+      en: an informal farewell
+      ko: 안녕 / 잘 가
+    gender: null
+  - english: good night
+    translation:
+      en: a farewell used at night (not a greeting)
+      ko: 안녕히 주무세요
+    gender: null
+    notes:
+      en: "'Good night' is only a farewell, NOT a greeting"
+      ko: "'Good night'는 작별 인사이지 만남의 인사가 아님"
+  - english: see you later
+    translation:
+      en: an informal farewell meaning you'll meet again
+      ko: 나중에 봐요
+    gender: null
+  - english: see you tomorrow
+    translation:
+      en: a farewell when you'll meet the next day
+      ko: 내일 봐요
+    gender: null
+  - english: see you soon
+    translation:
+      en: a farewell implying you'll meet again shortly
+      ko: 곧 봐요
+    gender: null
+  - english: take care
+    translation:
+      en: a warm farewell wishing someone well
+      ko: 잘 지내세요
+    gender: null
+  - english: "Have a good day."
+    translation:
+      en: a polite farewell wishing a pleasant day
+      ko: 좋은 하루 되세요.
+    gender: null
+  - english: "It was nice meeting you."
+    translation:
+      en: a farewell said after meeting someone for the first time
+      ko: 만나서 반가웠습니다.
+    gender: null
+- id: 13_introductions
+  label:
+    en: "1.3 Introductions"
+    ko: "1.3 자기소개"
+  type: vocabulary
+  words:
+  - english: "My name is..."
+    translation:
+      en: a way to tell someone your name
+      ko: 제 이름은 ...입니다.
+    gender: null
+  - english: "Nice to meet you."
+    translation:
+      en: a polite phrase when meeting someone for the first time
+      ko: 만나서 반갑습니다.
+    gender: null
+  - english: "I'm from..."
+    translation:
+      en: a way to tell someone where you come from
+      ko: 저는 ...에서 왔어요.
+    gender: null
+  - english: "What do you do?"
+    translation:
+      en: asking about someone's job or occupation
+      ko: 직업이 뭐예요?
+    gender: null
+    notes:
+      en: This asks about your job, not what you're currently doing
+      ko: 현재 하고 있는 일이 아니라 직업을 묻는 표현
+  - english: first name
+    translation:
+      en: your given name (e.g., John in John Smith)
+      ko: 이름 (성이 아닌)
+    gender: null
+    notes:
+      en: English puts given name first, family name last
+      ko: 영어에서는 이름을 먼저, 성을 나중에 씀
+  - english: last name
+    translation:
+      en: your family name / surname (e.g., Smith in John Smith)
+      ko: 성
+    gender: null
+  - english: Mr.
+    translation:
+      en: a title for a man, used before last name
+      ko: ~씨 (남성)
+    gender: null
+  - english: Ms.
+    translation:
+      en: a title for a woman (marital status neutral), used before last name
+      ko: ~씨 (여성, 결혼 여부 무관)
+    gender: null
+  - english: Mrs.
+    translation:
+      en: a title for a married woman, used before last name
+      ko: ~씨 (기혼 여성)
+    gender: null
+  - english: Dr.
+    translation:
+      en: a title for a doctor or PhD holder
+      ko: 박사 / 의사
+    gender: null
+- id: 14_subject_pronouns
+  label:
+    en: "1.4 Subject Pronouns"
+    ko: "1.4 주격 대명사"
+  type: vocabulary
+  words:
+  - english: I
+    translation:
+      en: first person singular pronoun
+      ko: 나, 저
+    gender: null
+    notes:
+      en: Always capitalized, even in the middle of a sentence
+      ko: 문장 중간에도 항상 대문자로 씀
+  - english: you
+    translation:
+      en: second person pronoun (singular and plural, formal and informal)
+      ko: 너, 당신, 여러분
+    gender: null
+    notes:
+      en: Same word for singular/plural and formal/informal
+      ko: 단복수, 격식/비격식 구분 없이 같은 단어 사용
+  - english: he
+    translation:
+      en: third person singular pronoun for males
+      ko: 그 (남성)
+    gender: null
+  - english: she
+    translation:
+      en: third person singular pronoun for females
+      ko: 그녀 (여성)
+    gender: null
+  - english: it
+    translation:
+      en: third person singular pronoun for things and animals
+      ko: 그것
+    gender: null
+  - english: we
+    translation:
+      en: first person plural pronoun
+      ko: 우리
+    gender: null
+  - english: they
+    translation:
+      en: third person plural pronoun
+      ko: 그들, 그것들
+    gender: null
+    notes:
+      en: Also used as singular gender-neutral pronoun in modern English
+      ko: 현대 영어에서는 성별 중립 단수 대명사로도 사용
+  - english: subject
+    translation:
+      en: the person or thing performing the action in a sentence
+      ko: 주어
+    gender: null
+    notes:
+      en: Subject pronouns are required in English, unlike Korean
+      ko: 한국어와 달리 영어에서는 주어가 필수
+- id: 15_be_verb
+  label:
+    en: "1.5 The BE Verb"
+    ko: "1.5 BE 동사"
+  type: vocabulary
+  words:
+  - english: am
+    translation:
+      en: "BE verb form for 'I' (I am)"
+      ko: "~이다 (I am)"
+    gender: null
+  - english: is
+    translation:
+      en: "BE verb form for he/she/it (he is)"
+      ko: "~이다 (he/she/it is)"
+    gender: null
+  - english: are
+    translation:
+      en: "BE verb form for you/we/they (you are)"
+      ko: "~이다 (you/we/they are)"
+    gender: null
+  - english: "I'm"
+    translation:
+      en: contraction of I am
+      ko: I am의 축약형
+    gender: null
+  - english: "isn't"
+    translation:
+      en: contraction of is not
+      ko: is not의 축약형
+    gender: null
+  - english: "aren't"
+    translation:
+      en: contraction of are not
+      ko: are not의 축약형
+    gender: null
+  - english: contraction
+    translation:
+      en: a shortened form of a word or words
+      ko: 축약형
+    gender: null
+    notes:
+      en: "e.g., I'm = I am, she's = she is"
+      ko: "예: I'm = I am, she's = she is"
+- id: 16_polite_expressions
+  label:
+    en: "1.6 Polite Expressions"
+    ko: "1.6 공손한 표현"
+  type: vocabulary
+  words:
+  - english: please
+    translation:
+      en: a word added to make a request polite
+      ko: 부탁합니다 / ~해 주세요
+    gender: null
+  - english: thank you
+    translation:
+      en: an expression of gratitude
+      ko: 감사합니다
+    gender: null
+  - english: thanks
+    translation:
+      en: an informal expression of gratitude
+      ko: 고마워요
+    gender: null
+  - english: "You're welcome."
+    translation:
+      en: a response to "thank you"
+      ko: 천만에요.
+    gender: null
+  - english: "No problem."
+    translation:
+      en: an informal response to "thank you"
+      ko: 별말씀을요.
+    gender: null
+  - english: sorry
+    translation:
+      en: an expression of apology
+      ko: 미안합니다 / 죄송합니다
+    gender: null
+  - english: excuse me
+    translation:
+      en: used to get attention or apologize for a minor inconvenience
+      ko: 실례합니다
+    gender: null
+  - english: "Pardon?"
+    translation:
+      en: used when you didn't hear or understand something
+      ko: 네? / 뭐라고요?
+    gender: null
+  - english: "I appreciate it."
+    translation:
+      en: a more formal way to express thanks
+      ko: 감사드립니다.
+    gender: null
+  - english: "My pleasure."
+    translation:
+      en: a formal response to thanks meaning you were glad to help
+      ko: 기꺼이요.
+    gender: null
+- id: 17_formality_and_politeness
+  label:
+    en: "1.7 Formality and Politeness"
+    ko: "1.7 격식과 공손함"
+  type: vocabulary
+  words:
+  - english: formal
+    translation:
+      en: following official or polite conventions
+      ko: 격식체의
+    gender: null
+  - english: informal
+    translation:
+      en: casual, relaxed style of communication
+      ko: 비격식체의
+    gender: null
+  - english: casual
+    translation:
+      en: relaxed and not formal
+      ko: 편한, 캐주얼한
+    gender: null
+  - english: polite
+    translation:
+      en: showing good manners and respect
+      ko: 공손한
+    gender: null
+  - english: rude
+    translation:
+      en: showing bad manners or disrespect
+      ko: 무례한
+    gender: null
+  - english: "Could you...?"
+    translation:
+      en: a polite way to make a request
+      ko: ~해 주실 수 있으신가요?
+    gender: null
+    notes:
+      en: More polite than "Can you...?"
+      ko: "'Can you...?'보다 더 공손한 표현"
+  - english: "Would you mind...?"
+    translation:
+      en: a very polite way to ask someone to do something
+      ko: ~해 주시겠어요?
+    gender: null
+    notes:
+      en: The most polite request form in English
+      ko: 영어에서 가장 공손한 요청 표현

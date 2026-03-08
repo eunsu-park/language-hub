@@ -1,0 +1,41 @@
+# English Grammar — Index
+# Directory: language-hub/content/English/grammar/
+
+course: English
+section: grammar
+label:
+  en: "English Grammar Reference"
+  ko: "영어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for 20 verbs (5 regular + 15 irregular) across all 12 English tenses. Includes irregular form quick reference, stative verb list, and contraction tables."
+      ko: "모든 12개 영어 시제에 걸친 20개 동사(규칙 5개 + 불규칙 15개)의 완전한 동사 활용 패러다임. 불규칙 형태 빠른 참조, 상태 동사 목록, 축약형 표 포함."
+    verbs_included: 20
+    categories:
+      - regular (work, play, study, live, stop)
+      - irregular (be, have, do, go, get, make, take, come, see, give, know, say, think, put, tell)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense formation rules, spelling rules, usage guidelines, trigger words, negative/question formation, and Korean speaker notes for all tenses plus imperative and conditional."
+      ko: "모든 시제와 명령문, 조건문에 대한 시제 형성 규칙, 철자 규칙, 사용법 지침, 트리거 단어, 부정/의문문 형성, 한국어 화자 참고사항."
+    tenses_included:
+      present: [simple_present, present_continuous, present_perfect, present_perfect_continuous]
+      past: [simple_past, past_continuous, past_perfect, past_perfect_continuous]
+      future: [simple_future, future_continuous, future_perfect, future_perfect_continuous]
+      other: [imperative, conditional]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns including articles, prepositions, tense contrasts, conditionals, passive voice, relative clauses, and word order with adjective order (OSASCOMP)."
+      ko: "관사, 전치사, 시제 대조, 조건문, 수동태, 관계절, 형용사 순서(OSASCOMP)를 포함한 어순에 관한 문법 규칙, 대조, 패턴."
+    rules_included:
+      - articles
+      - preposition_usage
+      - tense_contrasts
+      - conditionals
+      - passive_voice
+      - relative_clauses
+      - word_order
