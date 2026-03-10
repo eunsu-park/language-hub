@@ -1,0 +1,867 @@
+lesson: "sup_A2_Sports_and_Fitness"
+lesson_number: 204
+cefr: A2
+type: supplementary
+topic: "Sports and Fitness"
+categories:
+- id: sports
+  label:
+    en: "Sports"
+    ko: "스포츠"
+  type: vocabulary
+  words:
+  - italian: "il calcio"
+    translation:
+      en: "soccer / football"
+      ko: "축구"
+    gender: m
+    notes:
+      en: "The most popular sport in Italy; also means 'kick'"
+      ko: "이탈리아에서 가장 인기 있는 스포츠; '발로 차다'라는 뜻도 있음"
+  - italian: "la pallacanestro"
+    translation:
+      en: "basketball"
+      ko: "농구"
+    gender: f
+    notes:
+      en: "Also il basket (colloquial)"
+      ko: "il basket도 사용 (구어적)"
+  - italian: "il tennis"
+    translation:
+      en: "tennis"
+      ko: "테니스"
+    gender: m
+  - italian: "il nuoto"
+    translation:
+      en: "swimming"
+      ko: "수영"
+    gender: m
+  - italian: "la pallavolo"
+    translation:
+      en: "volleyball"
+      ko: "배구"
+    gender: f
+    notes:
+      en: "Very popular in Italy"
+      ko: "이탈리아에서 매우 인기 있음"
+  - italian: "il ciclismo"
+    translation:
+      en: "cycling"
+      ko: "사이클링"
+    gender: m
+    notes:
+      en: "Italy hosts the Giro d'Italia"
+      ko: "이탈리아에서 지로 디탈리아가 열림"
+  - italian: "l'atletica"
+    translation:
+      en: "athletics / track and field"
+      ko: "육상"
+    gender: f
+  - italian: "lo sci"
+    translation:
+      en: "skiing"
+      ko: "스키"
+    gender: m
+    notes:
+      en: "Popular in the Alps and Dolomites"
+      ko: "알프스와 돌로미티에서 인기"
+  - italian: "il rugby"
+    translation:
+      en: "rugby"
+      ko: "럭비"
+    gender: m
+  - italian: "la boxe"
+    translation:
+      en: "boxing"
+      ko: "복싱"
+    gender: f
+    notes:
+      en: "Also il pugilato"
+      ko: "il pugilato라고도 함"
+  - italian: "la scherma"
+    translation:
+      en: "fencing"
+      ko: "펜싱"
+    gender: f
+    notes:
+      en: "Italy has a strong tradition in fencing"
+      ko: "이탈리아는 펜싱의 강한 전통이 있음"
+  - italian: "il golf"
+    translation:
+      en: "golf"
+      ko: "골프"
+    gender: m
+  - italian: "la vela"
+    translation:
+      en: "sailing"
+      ko: "요트 / 범선"
+    gender: f
+  - italian: "il pattinaggio"
+    translation:
+      en: "skating"
+      ko: "스케이팅"
+    gender: m
+  - italian: "la pallanuoto"
+    translation:
+      en: "water polo"
+      ko: "수구"
+    gender: f
+    notes:
+      en: "Italy is a world power in water polo"
+      ko: "이탈리아는 수구 강국"
+- id: actions
+  label:
+    en: "Sports Actions"
+    ko: "스포츠 동작"
+  type: vocabulary
+  words:
+  - italian: "giocare"
+    translation:
+      en: "to play"
+      ko: "경기하다 / 놀다"
+    gender: null
+    notes:
+      en: "giocare a calcio = to play soccer"
+      ko: "giocare a calcio = 축구를 하다"
+  - italian: "correre"
+    translation:
+      en: "to run"
+      ko: "달리다"
+    gender: null
+  - italian: "nuotare"
+    translation:
+      en: "to swim"
+      ko: "수영하다"
+    gender: null
+  - italian: "saltare"
+    translation:
+      en: "to jump"
+      ko: "점프하다"
+    gender: null
+  - italian: "lanciare"
+    translation:
+      en: "to throw"
+      ko: "던지다"
+    gender: null
+  - italian: "vincere"
+    translation:
+      en: "to win"
+      ko: "이기다"
+    gender: null
+  - italian: "perdere"
+    translation:
+      en: "to lose"
+      ko: "지다"
+    gender: null
+  - italian: "pareggiare"
+    translation:
+      en: "to draw / to tie"
+      ko: "비기다"
+    gender: null
+  - italian: "allenarsi"
+    translation:
+      en: "to train / to work out"
+      ko: "훈련하다"
+    gender: null
+  - italian: "gareggiare"
+    translation:
+      en: "to compete"
+      ko: "경쟁하다"
+    gender: null
+  - italian: "calciare"
+    translation:
+      en: "to kick"
+      ko: "차다"
+    gender: null
+  - italian: "tirare"
+    translation:
+      en: "to shoot / to pull"
+      ko: "슛하다 / 당기다"
+    gender: null
+  - italian: "segnare"
+    translation:
+      en: "to score"
+      ko: "득점하다"
+    gender: null
+    notes:
+      en: "segnare un gol = to score a goal"
+      ko: "segnare un gol = 골을 넣다"
+- id: equipment
+  label:
+    en: "Equipment and Venues"
+    ko: "장비와 시설"
+  type: vocabulary
+  words:
+  - italian: "la palla"
+    translation:
+      en: "ball"
+      ko: "공"
+    gender: f
+    notes:
+      en: "il pallone for a large ball (soccer ball)"
+      ko: "큰 공(축구공)은 il pallone"
+  - italian: "la racchetta"
+    translation:
+      en: "racket"
+      ko: "라켓"
+    gender: f
+  - italian: "la rete"
+    translation:
+      en: "net"
+      ko: "네트"
+    gender: f
+    notes:
+      en: "Also means network"
+      ko: "네트워크라는 뜻도 있음"
+  - italian: "il campo"
+    translation:
+      en: "field / court"
+      ko: "경기장 / 코트"
+    gender: m
+  - italian: "lo stadio"
+    translation:
+      en: "stadium"
+      ko: "경기장"
+    gender: m
+  - italian: "la palestra"
+    translation:
+      en: "gym"
+      ko: "체육관"
+    gender: f
+  - italian: "la piscina"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: f
+  - italian: "gli sci"
+    translation:
+      en: "skis"
+      ko: "스키"
+    gender: m
+  - italian: "i pattini"
+    translation:
+      en: "skates"
+      ko: "스케이트"
+    gender: m
+  - italian: "la maglia"
+    translation:
+      en: "jersey / sports shirt"
+      ko: "유니폼 / 운동복 상의"
+    gender: f
+  - italian: "le scarpe da ginnastica"
+    translation:
+      en: "sneakers / trainers"
+      ko: "운동화"
+    gender: f
+  - italian: "la porta"
+    translation:
+      en: "goal (soccer)"
+      ko: "골대"
+    gender: f
+  - italian: "il canestro"
+    translation:
+      en: "basket (basketball)"
+      ko: "바스켓"
+    gender: m
+- id: fitness
+  label:
+    en: "Fitness"
+    ko: "피트니스"
+  type: vocabulary
+  words:
+  - italian: "l'esercizio"
+    translation:
+      en: "exercise"
+      ko: "운동"
+    gender: m
+  - italian: "lo stretching"
+    translation:
+      en: "stretching"
+      ko: "스트레칭"
+    gender: m
+  - italian: "il riscaldamento"
+    translation:
+      en: "warm-up"
+      ko: "워밍업"
+    gender: m
+  - italian: "i pesi"
+    translation:
+      en: "weights"
+      ko: "역기 / 웨이트"
+    gender: m
+  - italian: "lo yoga"
+    translation:
+      en: "yoga"
+      ko: "요가"
+    gender: m
+  - italian: "la corsa"
+    translation:
+      en: "running / race"
+      ko: "달리기 / 경주"
+    gender: f
+  - italian: "la bicicletta"
+    translation:
+      en: "bicycle / cycling"
+      ko: "자전거"
+    gender: f
+  - italian: "il tapis roulant"
+    translation:
+      en: "treadmill"
+      ko: "러닝머신"
+    gender: m
+  - italian: "dimagrire"
+    translation:
+      en: "to lose weight"
+      ko: "살을 빼다"
+    gender: null
+  - italian: "ingrassare"
+    translation:
+      en: "to gain weight"
+      ko: "살이 찌다"
+    gender: null
+  - italian: "sudare"
+    translation:
+      en: "to sweat"
+      ko: "땀을 흘리다"
+    gender: null
+  - italian: "la resistenza"
+    translation:
+      en: "endurance"
+      ko: "지구력"
+    gender: f
+  - italian: "la forza"
+    translation:
+      en: "strength"
+      ko: "힘 / 체력"
+    gender: f
+    notes:
+      en: "Forza Italia! = Come on Italy! (sports cheer)"
+      ko: "Forza Italia! = 이탈리아 힘내! (스포츠 응원)"
+  - italian: "la flessibilità"
+    translation:
+      en: "flexibility"
+      ko: "유연성"
+    gender: f
+  - italian: "il recupero"
+    translation:
+      en: "recovery"
+      ko: "회복"
+    gender: m
+  - italian: "la pancia piatta"
+    translation:
+      en: "flat stomach / abs"
+      ko: "평평한 배"
+    gender: f
+  - italian: "gli addominali"
+    translation:
+      en: "abs / abdominals"
+      ko: "복근"
+    gender: m
+  - italian: "i muscoli"
+    translation:
+      en: "muscles"
+      ko: "근육"
+    gender: m
+  - italian: "il personal trainer"
+    translation:
+      en: "personal trainer"
+      ko: "개인 트레이너"
+    gender: m
+  - italian: "l'allenamento"
+    translation:
+      en: "training / workout"
+      ko: "훈련 / 운동"
+    gender: m
+  - italian: "la maratona"
+    translation:
+      en: "marathon"
+      ko: "마라톤"
+    gender: f
+  - italian: "la staffetta"
+    translation:
+      en: "relay race"
+      ko: "릴레이 경주"
+    gender: f
+  - italian: "il salto in alto"
+    translation:
+      en: "high jump"
+      ko: "높이뛰기"
+    gender: m
+  - italian: "il salto in lungo"
+    translation:
+      en: "long jump"
+      ko: "멀리뛰기"
+    gender: m
+  - italian: "il lancio del disco"
+    translation:
+      en: "discus throw"
+      ko: "원반 던지기"
+    gender: m
+  - italian: "il tiro con l'arco"
+    translation:
+      en: "archery"
+      ko: "양궁"
+    gender: m
+- id: competition
+  label:
+    en: "Competition and Events"
+    ko: "대회와 이벤트"
+  type: vocabulary
+  words:
+  - italian: "la partita"
+    translation:
+      en: "match / game"
+      ko: "경기"
+    gender: f
+  - italian: "la gara"
+    translation:
+      en: "race / competition"
+      ko: "경주 / 시합"
+    gender: f
+  - italian: "il campionato"
+    translation:
+      en: "championship / league"
+      ko: "챔피언십 / 리그"
+    gender: m
+    notes:
+      en: "Serie A is Italy's top football league"
+      ko: "세리에 A는 이탈리아 최상위 축구 리그"
+  - italian: "la coppa"
+    translation:
+      en: "cup / trophy"
+      ko: "컵 / 트로피"
+    gender: f
+  - italian: "il torneo"
+    translation:
+      en: "tournament"
+      ko: "토너먼트"
+    gender: m
+  - italian: "le Olimpiadi"
+    translation:
+      en: "the Olympics"
+      ko: "올림픽"
+    gender: f
+  - italian: "i Mondiali"
+    translation:
+      en: "the World Cup"
+      ko: "월드컵"
+    gender: m
+  - italian: "la medaglia"
+    translation:
+      en: "medal"
+      ko: "메달"
+    gender: f
+    notes:
+      en: "d'oro = gold; d'argento = silver; di bronzo = bronze"
+      ko: "d'oro = 금; d'argento = 은; di bronzo = 동"
+  - italian: "il record"
+    translation:
+      en: "record"
+      ko: "기록"
+    gender: m
+  - italian: "il campione"
+    translation:
+      en: "champion"
+      ko: "챔피언"
+    gender: m
+    notes:
+      en: "la campionessa for female champion"
+      ko: "여성 챔피언은 la campionessa"
+  - italian: "l'arbitro"
+    translation:
+      en: "referee"
+      ko: "심판"
+    gender: m
+  - italian: "il tifoso"
+    translation:
+      en: "fan / supporter"
+      ko: "팬"
+    gender: m
+  - italian: "la squadra"
+    translation:
+      en: "team"
+      ko: "팀"
+    gender: f
+  - italian: "il giocatore"
+    translation:
+      en: "player"
+      ko: "선수"
+    gender: m
+    notes:
+      en: "la giocatrice for female player"
+      ko: "여성 선수는 la giocatrice"
+  - italian: "l'allenatore"
+    translation:
+      en: "coach / trainer"
+      ko: "감독 / 코치"
+    gender: m
+  - italian: "il primo tempo"
+    translation:
+      en: "first half"
+      ko: "전반전"
+    gender: m
+  - italian: "il secondo tempo"
+    translation:
+      en: "second half"
+      ko: "후반전"
+    gender: m
+  - italian: "il gol"
+    translation:
+      en: "goal"
+      ko: "골"
+    gender: m
+  - italian: "il rigore"
+    translation:
+      en: "penalty kick"
+      ko: "페널티킥"
+    gender: m
+  - italian: "il calcio d'angolo"
+    translation:
+      en: "corner kick"
+      ko: "코너킥"
+    gender: m
+  - italian: "il fuorigioco"
+    translation:
+      en: "offside"
+      ko: "오프사이드"
+    gender: m
+  - italian: "il fallo"
+    translation:
+      en: "foul"
+      ko: "파울"
+    gender: m
+  - italian: "il cartellino giallo"
+    translation:
+      en: "yellow card"
+      ko: "옐로카드"
+    gender: m
+  - italian: "il cartellino rosso"
+    translation:
+      en: "red card"
+      ko: "레드카드"
+    gender: m
+  - italian: "il portiere"
+    translation:
+      en: "goalkeeper"
+      ko: "골키퍼"
+    gender: m
+  - italian: "il difensore"
+    translation:
+      en: "defender"
+      ko: "수비수"
+    gender: m
+  - italian: "il centrocampista"
+    translation:
+      en: "midfielder"
+      ko: "미드필더"
+    gender: m
+  - italian: "l'attaccante"
+    translation:
+      en: "striker / forward"
+      ko: "공격수"
+    gender: m
+  - italian: "il derby"
+    translation:
+      en: "derby (local rivalry)"
+      ko: "더비 (지역 라이벌전)"
+    gender: m
+  - italian: "il risultato"
+    translation:
+      en: "result / score"
+      ko: "결과 / 점수"
+    gender: m
+  - italian: "il punteggio"
+    translation:
+      en: "score"
+      ko: "점수"
+    gender: m
+  - italian: "la classifica"
+    translation:
+      en: "standings / ranking"
+      ko: "순위"
+    gender: f
+  - italian: "la vittoria"
+    translation:
+      en: "victory"
+      ko: "승리"
+    gender: f
+  - italian: "la sconfitta"
+    translation:
+      en: "defeat"
+      ko: "패배"
+    gender: f
+  - italian: "il pareggio"
+    translation:
+      en: "draw / tie"
+      ko: "무승부"
+    gender: m
+  - italian: "la finale"
+    translation:
+      en: "final (match)"
+      ko: "결승전"
+    gender: f
+  - italian: "la semifinale"
+    translation:
+      en: "semifinal"
+      ko: "준결승"
+    gender: f
+  - italian: "i supplementari"
+    translation:
+      en: "extra time / overtime"
+      ko: "연장전"
+    gender: m
+  - italian: "i calci di rigore"
+    translation:
+      en: "penalty shootout"
+      ko: "승부차기"
+    gender: m
+- id: expressions
+  label:
+    en: "Sports Expressions"
+    ko: "스포츠 표현"
+  type: vocabulary
+  words:
+  - italian: "Forza!"
+    translation:
+      en: "Come on! / Go!"
+      ko: "힘내!"
+    gender: null
+    notes:
+      en: "The most common sports cheer in Italy"
+      ko: "이탈리아에서 가장 흔한 스포츠 응원"
+  - italian: "Dai!"
+    translation:
+      en: "Come on! / Let's go!"
+      ko: "자! / 이기자!"
+    gender: null
+  - italian: "essere in forma"
+    translation:
+      en: "to be in shape"
+      ko: "건강하다 / 몸이 좋다"
+    gender: null
+  - italian: "fare sport"
+    translation:
+      en: "to do sports / to play sports"
+      ko: "스포츠를 하다"
+    gender: null
+  - italian: "fare una partita"
+    translation:
+      en: "to play a match"
+      ko: "경기를 하다"
+    gender: null
+  - italian: "tifare"
+    translation:
+      en: "to root for / to cheer for"
+      ko: "응원하다"
+    gender: null
+    notes:
+      en: "tifare per la Roma = to be a Roma fan"
+      ko: "tifare per la Roma = 로마를 응원하다"
+  - italian: "fischiare"
+    translation:
+      en: "to whistle / to blow the whistle"
+      ko: "호루라기를 불다"
+    gender: null
+  - italian: "il fischio"
+    translation:
+      en: "whistle (sound)"
+      ko: "호루라기 소리"
+    gender: m
+    notes:
+      en: "il fischio finale = final whistle"
+      ko: "il fischio finale = 최종 호루라기"
+  - italian: "il riscaldamento"
+    translation:
+      en: "warm-up (pre-game)"
+      ko: "워밍업"
+    gender: m
+  - italian: "la sostituzione"
+    translation:
+      en: "substitution"
+      ko: "교체"
+    gender: f
+  - italian: "la panchina"
+    translation:
+      en: "bench"
+      ko: "벤치"
+    gender: f
+  - italian: "il campo da gioco"
+    translation:
+      en: "playing field"
+      ko: "경기장"
+    gender: m
+  - italian: "il tabellone"
+    translation:
+      en: "scoreboard"
+      ko: "점수판"
+    gender: m
+  - italian: "la tribuna"
+    translation:
+      en: "stands / grandstand"
+      ko: "관중석"
+    gender: f
+  - italian: "la curva"
+    translation:
+      en: "curved stands (ultras section)"
+      ko: "곡선 관중석 (울트라스 구역)"
+    gender: f
+    notes:
+      en: "Where the most passionate fans sit in Italian stadiums"
+      ko: "이탈리아 경기장에서 가장 열정적인 팬들이 앉는 곳"
+  - italian: "lo striscione"
+    translation:
+      en: "banner"
+      ko: "현수막"
+    gender: m
+  - italian: "la maglia della squadra"
+    translation:
+      en: "team jersey"
+      ko: "팀 유니폼"
+    gender: f
+  - italian: "il calcio di inizio"
+    translation:
+      en: "kickoff"
+      ko: "킥오프"
+    gender: m
+  - italian: "il tempo di recupero"
+    translation:
+      en: "injury time / stoppage time"
+      ko: "추가 시간"
+    gender: m
+  - italian: "il doping"
+    translation:
+      en: "doping"
+      ko: "도핑"
+    gender: m
+  - italian: "la palestra all'aperto"
+    translation:
+      en: "outdoor gym"
+      ko: "야외 체육관"
+    gender: f
+  - italian: "il podio"
+    translation:
+      en: "podium"
+      ko: "시상대"
+    gender: m
+  - italian: "la cerimonia di premiazione"
+    translation:
+      en: "award ceremony"
+      ko: "시상식"
+    gender: f
+  - italian: "il fair play"
+    translation:
+      en: "fair play"
+      ko: "페어플레이"
+    gender: m
+  - italian: "lo spirito sportivo"
+    translation:
+      en: "sportsmanship"
+      ko: "스포츠맨 정신"
+    gender: m
+  - italian: "il record mondiale"
+    translation:
+      en: "world record"
+      ko: "세계 기록"
+    gender: m
+  - italian: "la rimonta"
+    translation:
+      en: "comeback"
+      ko: "역전"
+    gender: f
+  - italian: "il calciomercato"
+    translation:
+      en: "transfer market (soccer)"
+      ko: "이적 시장"
+    gender: m
+    notes:
+      en: "A major topic of Italian sports conversation"
+      ko: "이탈리아 스포츠 대화에서 주요 주제"
+  - italian: "l'infortunio"
+    translation:
+      en: "injury (sports)"
+      ko: "부상"
+    gender: m
+  - italian: "la squalifica"
+    translation:
+      en: "disqualification / suspension"
+      ko: "출장 정지"
+    gender: f
+  - italian: "il sorteggio"
+    translation:
+      en: "draw (lottery/grouping)"
+      ko: "추첨"
+    gender: m
+  - italian: "la retrocessione"
+    translation:
+      en: "relegation"
+      ko: "강등"
+    gender: f
+  - italian: "la promozione"
+    translation:
+      en: "promotion (to higher league)"
+      ko: "승격"
+    gender: f
+  - italian: "lo scudetto"
+    translation:
+      en: "league title (Italian football)"
+      ko: "스쿠데토 (이탈리아 축구 리그 우승)"
+    gender: m
+    notes:
+      en: "The shield badge worn by the league champion"
+      ko: "리그 챔피언이 유니폼에 다는 방패 배지"
+  - italian: "il tifoso"
+    translation:
+      en: "sports fan / supporter"
+      ko: "팬 / 서포터"
+    gender: m
+    notes:
+      en: "la tifosa for female; gli ultras = hardcore fans"
+      ko: "여성은 la tifosa; gli ultras = 열성 팬"
+  - italian: "la mossa"
+    translation:
+      en: "move / play"
+      ko: "동작 / 수"
+    gender: f
+  - italian: "la tattica"
+    translation:
+      en: "tactic / strategy"
+      ko: "전술"
+    gender: f
+  - italian: "la formazione"
+    translation:
+      en: "lineup / formation"
+      ko: "포메이션 / 라인업"
+    gender: f
+  - italian: "il capitano"
+    translation:
+      en: "captain"
+      ko: "캡틴 / 주장"
+    gender: m
+  - italian: "la fascia di capitano"
+    translation:
+      en: "captain's armband"
+      ko: "주장 완장"
+    gender: f
+  - italian: "il pallone d'oro"
+    translation:
+      en: "Ballon d'Or / Golden Ball"
+      ko: "발롱도르"
+    gender: m
+    notes:
+      en: "Award for the best football player in the world"
+      ko: "세계 최고 축구 선수에게 주어지는 상"
+  - italian: "la traversa"
+    translation:
+      en: "crossbar"
+      ko: "크로스바"
+    gender: f
+  - italian: "il palo"
+    translation:
+      en: "goalpost"
+      ko: "골대 기둥"
+    gender: m
+  - italian: "il tifo"
+    translation:
+      en: "fan support / cheering"
+      ko: "응원"
+    gender: m
