@@ -1,0 +1,808 @@
+lesson: "sup_B1_Environment_and_Nature"
+lesson_number: 305
+cefr: B1
+type: supplementary
+topic: "Environment and Nature"
+categories:
+- id: environment
+  label:
+    en: "Environment"
+    ko: "환경"
+  type: vocabulary
+  words:
+  - italian: "l'ambiente"
+    translation:
+      en: "environment"
+      ko: "환경"
+    gender: m
+  - italian: "l'ecologia"
+    translation:
+      en: "ecology"
+      ko: "생태학"
+    gender: f
+  - italian: "l'inquinamento"
+    translation:
+      en: "pollution"
+      ko: "오염"
+    gender: m
+  - italian: "il riscaldamento globale"
+    translation:
+      en: "global warming"
+      ko: "지구 온난화"
+    gender: m
+  - italian: "il cambiamento climatico"
+    translation:
+      en: "climate change"
+      ko: "기후 변화"
+    gender: m
+  - italian: "l'effetto serra"
+    translation:
+      en: "greenhouse effect"
+      ko: "온실 효과"
+    gender: m
+  - italian: "lo strato di ozono"
+    translation:
+      en: "ozone layer"
+      ko: "오존층"
+    gender: m
+  - italian: "la deforestazione"
+    translation:
+      en: "deforestation"
+      ko: "산림 벌채"
+    gender: f
+  - italian: "la desertificazione"
+    translation:
+      en: "desertification"
+      ko: "사막화"
+    gender: f
+  - italian: "la biodiversità"
+    translation:
+      en: "biodiversity"
+      ko: "생물 다양성"
+    gender: f
+    notes:
+      en: "Invariable: la biodiversità"
+      ko: "불변 명사"
+  - italian: "l'ecosistema"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: m
+  - italian: "la tutela ambientale"
+    translation:
+      en: "environmental protection"
+      ko: "환경 보호"
+    gender: f
+  - italian: "lo smog"
+    translation:
+      en: "smog"
+      ko: "스모그"
+    gender: m
+  - italian: "le emissioni"
+    translation:
+      en: "emissions"
+      ko: "배출"
+    gender: f
+  - italian: "l'anidride carbonica"
+    translation:
+      en: "carbon dioxide / CO2"
+      ko: "이산화탄소"
+    gender: f
+  - italian: "inquinare"
+    translation:
+      en: "to pollute"
+      ko: "오염시키다"
+    gender: null
+  - italian: "proteggere"
+    translation:
+      en: "to protect"
+      ko: "보호하다"
+    gender: null
+    notes:
+      en: "Past participle: protetto"
+      ko: "과거분사: protetto"
+  - italian: "sostenibile"
+    translation:
+      en: "sustainable"
+      ko: "지속 가능한"
+    gender: null
+  - italian: "la sostenibilità"
+    translation:
+      en: "sustainability"
+      ko: "지속 가능성"
+    gender: f
+  - italian: "l'impronta ecologica"
+    translation:
+      en: "ecological footprint"
+      ko: "생태 발자국"
+    gender: f
+- id: energy
+  label:
+    en: "Energy"
+    ko: "에너지"
+  type: vocabulary
+  words:
+  - italian: "l'energia"
+    translation:
+      en: "energy"
+      ko: "에너지"
+    gender: f
+  - italian: "l'energia rinnovabile"
+    translation:
+      en: "renewable energy"
+      ko: "재생 에너지"
+    gender: f
+  - italian: "l'energia solare"
+    translation:
+      en: "solar energy"
+      ko: "태양 에너지"
+    gender: f
+  - italian: "l'energia eolica"
+    translation:
+      en: "wind energy"
+      ko: "풍력 에너지"
+    gender: f
+  - italian: "il petrolio"
+    translation:
+      en: "oil / petroleum"
+      ko: "석유"
+    gender: m
+  - italian: "il gas naturale"
+    translation:
+      en: "natural gas"
+      ko: "천연가스"
+    gender: m
+  - italian: "il carbone"
+    translation:
+      en: "coal"
+      ko: "석탄"
+    gender: m
+  - italian: "il nucleare"
+    translation:
+      en: "nuclear (energy)"
+      ko: "원자력"
+    gender: m
+    notes:
+      en: "Italy banned nuclear power after 1987 referendum"
+      ko: "이탈리아는 1987년 국민투표 이후 원자력 발전을 금지"
+  - italian: "la centrale elettrica"
+    translation:
+      en: "power plant"
+      ko: "발전소"
+    gender: f
+  - italian: "il pannello solare"
+    translation:
+      en: "solar panel"
+      ko: "태양광 패널"
+    gender: m
+  - italian: "la pala eolica"
+    translation:
+      en: "wind turbine"
+      ko: "풍력 터빈"
+    gender: f
+  - italian: "il combustibile fossile"
+    translation:
+      en: "fossil fuel"
+      ko: "화석 연료"
+    gender: m
+  - italian: "l'energia idroelettrica"
+    translation:
+      en: "hydroelectric energy"
+      ko: "수력 에너지"
+    gender: f
+  - italian: "l'energia geotermica"
+    translation:
+      en: "geothermal energy"
+      ko: "지열 에너지"
+    gender: f
+  - italian: "il risparmio energetico"
+    translation:
+      en: "energy saving"
+      ko: "에너지 절약"
+    gender: m
+  - italian: "il consumo"
+    translation:
+      en: "consumption"
+      ko: "소비"
+    gender: m
+  - italian: "la rete elettrica"
+    translation:
+      en: "power grid"
+      ko: "전력망"
+    gender: f
+- id: recycling
+  label:
+    en: "Recycling and Waste"
+    ko: "재활용 및 폐기물"
+  type: vocabulary
+  words:
+  - italian: "il riciclaggio"
+    translation:
+      en: "recycling"
+      ko: "재활용"
+    gender: m
+    notes:
+      en: "Also: il riciclo"
+      ko: "또한: il riciclo"
+  - italian: "la raccolta differenziata"
+    translation:
+      en: "waste sorting / recycling collection"
+      ko: "분리수거"
+    gender: f
+    notes:
+      en: "Very important concept in Italian daily life"
+      ko: "이탈리아 일상에서 매우 중요한 개념"
+  - italian: "il rifiuto"
+    translation:
+      en: "waste / rubbish"
+      ko: "쓰레기 / 폐기물"
+    gender: m
+    notes:
+      en: "Usually plural: i rifiuti"
+      ko: "보통 복수형: i rifiuti"
+  - italian: "la plastica"
+    translation:
+      en: "plastic"
+      ko: "플라스틱"
+    gender: f
+  - italian: "il vetro"
+    translation:
+      en: "glass"
+      ko: "유리"
+    gender: m
+  - italian: "la carta"
+    translation:
+      en: "paper"
+      ko: "종이"
+    gender: f
+  - italian: "l'alluminio"
+    translation:
+      en: "aluminum"
+      ko: "알루미늄"
+    gender: m
+  - italian: "il compost"
+    translation:
+      en: "compost"
+      ko: "퇴비"
+    gender: m
+  - italian: "il bidone"
+    translation:
+      en: "bin / container"
+      ko: "쓰레기통"
+    gender: m
+  - italian: "il cassonetto"
+    translation:
+      en: "dumpster / large bin"
+      ko: "대형 쓰레기통"
+    gender: m
+  - italian: "differenziare"
+    translation:
+      en: "to sort (waste)"
+      ko: "분리하다"
+    gender: null
+  - italian: "riutilizzare"
+    translation:
+      en: "to reuse"
+      ko: "재사용하다"
+    gender: null
+  - italian: "riciclare"
+    translation:
+      en: "to recycle"
+      ko: "재활용하다"
+    gender: null
+  - italian: "ridurre"
+    translation:
+      en: "to reduce"
+      ko: "줄이다"
+    gender: null
+    notes:
+      en: "Irregular; past participle: ridotto"
+      ko: "불규칙; 과거분사: ridotto"
+  - italian: "smaltire"
+    translation:
+      en: "to dispose of"
+      ko: "처리하다 / 폐기하다"
+    gender: null
+  - italian: "l'umido"
+    translation:
+      en: "organic waste"
+      ko: "음식물 쓰레기"
+    gender: m
+    notes:
+      en: "Italian recycling category for food waste"
+      ko: "이탈리아 분리수거에서 음식물 쓰레기 분류"
+  - italian: "il secco"
+    translation:
+      en: "non-recyclable waste"
+      ko: "일반 쓰레기"
+    gender: m
+    notes:
+      en: "Also: l'indifferenziato"
+      ko: "또한: l'indifferenziato"
+  - italian: "l'isola ecologica"
+    translation:
+      en: "recycling center"
+      ko: "재활용 센터"
+    gender: f
+  - italian: "usa e getta"
+    translation:
+      en: "disposable"
+      ko: "일회용"
+    gender: null
+    notes:
+      en: "Invariable adjective"
+      ko: "불변 형용사"
+  - italian: "biodegradabile"
+    translation:
+      en: "biodegradable"
+      ko: "생분해성의"
+    gender: null
+- id: nature
+  label:
+    en: "Nature"
+    ko: "자연"
+  type: vocabulary
+  words:
+  - italian: "il bosco"
+    translation:
+      en: "wood / small forest"
+      ko: "숲 / 작은 삼림"
+    gender: m
+    notes:
+      en: "Plural: i boschi"
+      ko: "복수: i boschi"
+  - italian: "la foresta"
+    translation:
+      en: "forest"
+      ko: "삼림"
+    gender: f
+  - italian: "il lago"
+    translation:
+      en: "lake"
+      ko: "호수"
+    gender: m
+    notes:
+      en: "Plural: i laghi"
+      ko: "복수: i laghi"
+  - italian: "il fiume"
+    translation:
+      en: "river"
+      ko: "강"
+    gender: m
+  - italian: "il mare"
+    translation:
+      en: "sea"
+      ko: "바다"
+    gender: m
+  - italian: "la montagna"
+    translation:
+      en: "mountain"
+      ko: "산"
+    gender: f
+  - italian: "la collina"
+    translation:
+      en: "hill"
+      ko: "언덕"
+    gender: f
+  - italian: "la pianura"
+    translation:
+      en: "plain"
+      ko: "평야"
+    gender: f
+  - italian: "la valle"
+    translation:
+      en: "valley"
+      ko: "계곡"
+    gender: f
+  - italian: "l'isola"
+    translation:
+      en: "island"
+      ko: "섬"
+    gender: f
+  - italian: "il vulcano"
+    translation:
+      en: "volcano"
+      ko: "화산"
+    gender: m
+    notes:
+      en: "Italy has active volcanoes: Etna, Vesuvio, Stromboli"
+      ko: "이탈리아 활화산: 에트나, 베수비오, 스트롬볼리"
+  - italian: "il terremoto"
+    translation:
+      en: "earthquake"
+      ko: "지진"
+    gender: m
+  - italian: "l'inondazione"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: f
+  - italian: "la costa"
+    translation:
+      en: "coast"
+      ko: "해안"
+    gender: f
+  - italian: "la spiaggia"
+    translation:
+      en: "beach"
+      ko: "해변"
+    gender: f
+    notes:
+      en: "Plural: le spiagge"
+      ko: "복수: le spiagge"
+  - italian: "il torrente"
+    translation:
+      en: "stream / torrent"
+      ko: "시내 / 급류"
+    gender: m
+  - italian: "la cascata"
+    translation:
+      en: "waterfall"
+      ko: "폭포"
+    gender: f
+  - italian: "il ghiacciaio"
+    translation:
+      en: "glacier"
+      ko: "빙하"
+    gender: m
+  - italian: "la frana"
+    translation:
+      en: "landslide"
+      ko: "산사태"
+    gender: f
+  - italian: "la siccità"
+    translation:
+      en: "drought"
+      ko: "가뭄"
+    gender: f
+    notes:
+      en: "Invariable: la siccità"
+      ko: "불변 명사"
+  - italian: "l'alluvione"
+    translation:
+      en: "flood / deluge"
+      ko: "대홍수"
+    gender: f
+  - italian: "l'incendio"
+    translation:
+      en: "fire / wildfire"
+      ko: "화재 / 산불"
+    gender: m
+  - italian: "il parco naturale"
+    translation:
+      en: "nature reserve / national park"
+      ko: "자연 공원"
+    gender: m
+  - italian: "la riserva naturale"
+    translation:
+      en: "nature reserve"
+      ko: "자연 보호 구역"
+    gender: f
+  - italian: "la specie protetta"
+    translation:
+      en: "protected species"
+      ko: "보호종"
+    gender: f
+    notes:
+      en: "la specie is invariable"
+      ko: "la specie는 불변 명사"
+  - italian: "il paesaggio"
+    translation:
+      en: "landscape"
+      ko: "풍경"
+    gender: m
+  - italian: "il sentiero"
+    translation:
+      en: "trail / path"
+      ko: "산길 / 오솔길"
+    gender: m
+  - italian: "il campo"
+    translation:
+      en: "field"
+      ko: "들판"
+    gender: m
+  - italian: "la scogliera"
+    translation:
+      en: "cliff"
+      ko: "절벽"
+    gender: f
+  - italian: "il deserto"
+    translation:
+      en: "desert"
+      ko: "사막"
+    gender: m
+  - italian: "la palude"
+    translation:
+      en: "swamp / marsh"
+      ko: "늪"
+    gender: f
+  - italian: "la grotta"
+    translation:
+      en: "cave / grotto"
+      ko: "동굴"
+    gender: f
+  - italian: "la penisola"
+    translation:
+      en: "peninsula"
+      ko: "반도"
+    gender: f
+  - italian: "il promontorio"
+    translation:
+      en: "promontory / headland"
+      ko: "곶 / 돌출부"
+    gender: m
+  - italian: "la sorgente"
+    translation:
+      en: "spring / source"
+      ko: "샘 / 수원"
+    gender: f
+- id: animals_and_plants
+  label:
+    en: "Animals and Plants"
+    ko: "동물과 식물"
+  type: vocabulary
+  words:
+  - italian: "l'animale"
+    translation:
+      en: "animal"
+      ko: "동물"
+    gender: m
+  - italian: "la pianta"
+    translation:
+      en: "plant"
+      ko: "식물"
+    gender: f
+  - italian: "l'albero"
+    translation:
+      en: "tree"
+      ko: "나무"
+    gender: m
+  - italian: "il fiore"
+    translation:
+      en: "flower"
+      ko: "꽃"
+    gender: m
+  - italian: "l'erba"
+    translation:
+      en: "grass / herb"
+      ko: "풀 / 허브"
+    gender: f
+  - italian: "il cespuglio"
+    translation:
+      en: "bush / shrub"
+      ko: "관목"
+    gender: m
+  - italian: "la foglia"
+    translation:
+      en: "leaf"
+      ko: "잎"
+    gender: f
+  - italian: "il ramo"
+    translation:
+      en: "branch"
+      ko: "가지"
+    gender: m
+  - italian: "la radice"
+    translation:
+      en: "root"
+      ko: "뿌리"
+    gender: f
+  - italian: "il seme"
+    translation:
+      en: "seed"
+      ko: "씨앗"
+    gender: m
+  - italian: "il frutto"
+    translation:
+      en: "fruit"
+      ko: "열매"
+    gender: m
+    notes:
+      en: "la frutta (collective) for edible fruit; il frutto (singular)"
+      ko: "식용 과일은 la frutta (집합); 개별은 il frutto"
+  - italian: "il lupo"
+    translation:
+      en: "wolf"
+      ko: "늑대"
+    gender: m
+    notes:
+      en: "la lupa for female; returning to Italian Apennines"
+      ko: "여성형은 la lupa; 이탈리아 아펜니노 산맥에 복귀 중"
+  - italian: "l'orso"
+    translation:
+      en: "bear"
+      ko: "곰"
+    gender: m
+    notes:
+      en: "l'orso marsicano = Marsican brown bear (endangered, in Abruzzo)"
+      ko: "l'orso marsicano = 마르시카노 불곰 (멸종 위기, 아브루초)"
+  - italian: "il cervo"
+    translation:
+      en: "deer"
+      ko: "사슴"
+    gender: m
+  - italian: "la volpe"
+    translation:
+      en: "fox"
+      ko: "여우"
+    gender: f
+  - italian: "il cinghiale"
+    translation:
+      en: "wild boar"
+      ko: "멧돼지"
+    gender: m
+    notes:
+      en: "Very common in Italian countryside; growing issue in cities"
+      ko: "이탈리아 시골에서 매우 흔함; 도시에서도 증가 중"
+  - italian: "l'aquila"
+    translation:
+      en: "eagle"
+      ko: "독수리"
+    gender: f
+  - italian: "il delfino"
+    translation:
+      en: "dolphin"
+      ko: "돌고래"
+    gender: m
+  - italian: "la tartaruga"
+    translation:
+      en: "turtle / tortoise"
+      ko: "거북이"
+    gender: f
+  - italian: "la farfalla"
+    translation:
+      en: "butterfly"
+      ko: "나비"
+    gender: f
+  - italian: "l'ape"
+    translation:
+      en: "bee"
+      ko: "벌"
+    gender: f
+  - italian: "la specie"
+    translation:
+      en: "species"
+      ko: "종"
+    gender: f
+    notes:
+      en: "Invariable: la specie / le specie"
+      ko: "불변: la specie / le specie"
+  - italian: "l'habitat"
+    translation:
+      en: "habitat"
+      ko: "서식지"
+    gender: m
+    notes:
+      en: "Invariable; Latin loanword"
+      ko: "불변; 라틴어 차용"
+  - italian: "la catena alimentare"
+    translation:
+      en: "food chain"
+      ko: "먹이 사슬"
+    gender: f
+  - italian: "l'estinzione"
+    translation:
+      en: "extinction"
+      ko: "멸종"
+    gender: f
+  - italian: "in via di estinzione"
+    translation:
+      en: "endangered"
+      ko: "멸종 위기의"
+    gender: null
+  - italian: "il WWF"
+    translation:
+      en: "WWF (World Wildlife Fund)"
+      ko: "세계 자연 기금"
+    gender: m
+    notes:
+      en: "WWF Italia is very active"
+      ko: "WWF 이탈리아는 매우 활발"
+  - italian: "la flora"
+    translation:
+      en: "flora"
+      ko: "식물군"
+    gender: f
+  - italian: "la fauna"
+    translation:
+      en: "fauna"
+      ko: "동물군"
+    gender: f
+  - italian: "il clima"
+    translation:
+      en: "climate"
+      ko: "기후"
+    gender: m
+  - italian: "temperato"
+    translation:
+      en: "temperate"
+      ko: "온대의"
+    gender: null
+  - italian: "mediterraneo"
+    translation:
+      en: "Mediterranean"
+      ko: "지중해의"
+    gender: null
+  - italian: "tropicale"
+    translation:
+      en: "tropical"
+      ko: "열대의"
+    gender: null
+  - italian: "arido"
+    translation:
+      en: "arid"
+      ko: "건조한"
+    gender: null
+  - italian: "umido"
+    translation:
+      en: "humid"
+      ko: "습한"
+    gender: null
+  - italian: "piovoso"
+    translation:
+      en: "rainy"
+      ko: "비가 많은"
+    gender: null
+  - italian: "il disboscamento"
+    translation:
+      en: "logging / deforestation"
+      ko: "벌목"
+    gender: m
+  - italian: "il rimboschimento"
+    translation:
+      en: "reforestation"
+      ko: "재식림"
+    gender: m
+  - italian: "la bonifica"
+    translation:
+      en: "land reclamation / cleanup"
+      ko: "매립 / 정화"
+    gender: f
+  - italian: "il dissesto idrogeologico"
+    translation:
+      en: "hydrogeological instability"
+      ko: "수문지질학적 불안정"
+    gender: m
+    notes:
+      en: "Major environmental risk in Italy due to terrain"
+      ko: "지형으로 인한 이탈리아의 주요 환경 위험"
+  - italian: "salvaguardare"
+    translation:
+      en: "to safeguard"
+      ko: "보전하다"
+    gender: null
+  - italian: "preservare"
+    translation:
+      en: "to preserve"
+      ko: "보존하다"
+    gender: null
+  - italian: "conservare"
+    translation:
+      en: "to conserve"
+      ko: "보호하다"
+    gender: null
+  - italian: "ripristinare"
+    translation:
+      en: "to restore"
+      ko: "복원하다"
+    gender: null
+  - italian: "abbattere"
+    translation:
+      en: "to cut down (trees)"
+      ko: "벌채하다"
+    gender: null
+  - italian: "piantare"
+    translation:
+      en: "to plant"
+      ko: "심다"
+    gender: null
+  - italian: "depurare"
+    translation:
+      en: "to purify / to treat (water)"
+      ko: "정화하다"
+    gender: null
+  - italian: "il depuratore"
+    translation:
+      en: "water treatment plant"
+      ko: "정수 시설"
+    gender: m
