@@ -58,15 +58,28 @@ language-hub/
 │   │       ├── tense_rules.yaml       # 15 tense rules
 │   │       └── _index.yaml            # Grammar index metadata
 │   │
-│   └── English/                       # English course (A1→C1 CEFR)
+│   ├── English/                       # English course (A1→C1 CEFR)
+│   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
+│   │   ├── en/                        # Lessons in English (26 files)
+│   │   ├── ko/                        # Lessons in Korean (26 files)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (67 files, 9,280 words)
+│   │   │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
+│   │   │   └── sup_*.yaml               # Supplementary packs by level (42 files)
+│   │   └── grammar/                   # Structured grammar YAML
+│   │       ├── conjugations.yaml      # 20 verbs × 12 tenses
+│   │       ├── grammar_rules.yaml     # 7 rule types
+│   │       ├── tense_rules.yaml       # 14 tense rules
+│   │       └── _index.yaml            # Grammar index metadata
+│   │
+│   └── Italian/                       # Italian course (A1→C1 CEFR)
 │       ├── course_metadata.yaml       # Language config, CEFR stage definitions
 │       ├── en/                        # Lessons in English (26 files)
 │       ├── ko/                        # Lessons in Korean (26 files)
-│       ├── vocabulary/                # Structured vocabulary YAML (67 files, 9,280 words)
+│       ├── vocabulary/                # Structured vocabulary YAML (67 files, 7,870 words)
 │       │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
-│       │   └── sup_*.yaml               # Supplementary packs by level (42 files)
+│       │   └── sup_*.yaml               # Supplementary packs by level (41 files)
 │       └── grammar/                   # Structured grammar YAML
-│           ├── conjugations.yaml      # 20 verbs × 12 tenses
+│           ├── conjugations.yaml      # 20 verbs × 7 tenses
 │           ├── grammar_rules.yaml     # 7 rule types
 │           ├── tense_rules.yaml       # 14 tense rules
 │           └── _index.yaml            # Grammar index metadata
@@ -149,6 +162,24 @@ language-hub/
 - 26 lesson files per language (en + ko)
 - 67 vocabulary YAML files (9,280 words)
 - 20 verbs × 12 tenses (conjugation tables)
+- 7 grammar rule types, 14 tense rules
+
+### Italian (이탈리아어)
+
+25-lesson progressive course from A1 to C1 (CEFR), designed for Korean speakers.
+
+| Stage | CEFR | Lessons | Focus |
+|-------|------|---------|-------|
+| Foundations / 기초 | A1 | 01-05 | Pronunciation, greetings, articles & gender, essential verbs, present tense |
+| Elementary / 초급 | A2 | 06-10 | Adjectives, pronouns & prepositions, numbers, conversation, daily vocabulary |
+| Intermediate / 중급 | B1 | 11-15 | Past tenses, future/conditional, subjunctive, complete conjugation system |
+| Advanced / 고급 | B2 | 16-20 | Complex sentences, discourse, regional dialects, idioms, vocabulary expansion |
+| Practical / 실전 | B2-C1 | 21-25 | Reading, writing, culture, business Italian, exam prep (CILS/CELI) |
+
+**Content stats:**
+- 26 lesson files per language (en + ko)
+- 67 vocabulary YAML files (7,870 words)
+- 20 verbs × 7 tenses (conjugation tables)
 - 7 grammar rule types, 14 tense rules
 
 ## Companion Viewer / 뷰어
