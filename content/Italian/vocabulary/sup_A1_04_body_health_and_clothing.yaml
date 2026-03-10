@@ -1,0 +1,858 @@
+lesson: "sup_A1_Body_Health_and_Clothing"
+lesson_number: 104
+cefr: A1
+type: supplementary
+topic: "Body, Health, and Clothing"
+categories:
+- id: body_parts
+  label:
+    en: "Body Parts"
+    ko: "신체 부위"
+  type: vocabulary
+  words:
+  - italian: "la testa"
+    translation:
+      en: "head"
+      ko: "머리"
+    gender: f
+  - italian: "i capelli"
+    translation:
+      en: "hair"
+      ko: "머리카락"
+    gender: m
+    notes:
+      en: "Always plural when referring to hair on the head"
+      ko: "머리카락을 가리킬 때는 항상 복수형"
+  - italian: "la fronte"
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: f
+  - italian: "l'occhio"
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: m
+    notes:
+      en: "Plural: gli occhi"
+      ko: "복수형: gli occhi"
+  - italian: "il naso"
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: m
+  - italian: "la bocca"
+    translation:
+      en: "mouth"
+      ko: "입"
+    gender: f
+  - italian: "l'orecchio"
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: m
+    notes:
+      en: "Plural: le orecchie (feminine)"
+      ko: "복수형: le orecchie (여성형)"
+  - italian: "il collo"
+    translation:
+      en: "neck"
+      ko: "목"
+    gender: m
+  - italian: "la spalla"
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: f
+  - italian: "il braccio"
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: m
+    notes:
+      en: "Irregular plural: le braccia (feminine)"
+      ko: "불규칙 복수형: le braccia (여성형)"
+  - italian: "la mano"
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: f
+    notes:
+      en: "Feminine despite ending in -o; plural: le mani"
+      ko: "-o로 끝나지만 여성 명사; 복수형: le mani"
+  - italian: "il dito"
+    translation:
+      en: "finger"
+      ko: "손가락"
+    gender: m
+    notes:
+      en: "Irregular plural: le dita (feminine)"
+      ko: "불규칙 복수형: le dita (여성형)"
+  - italian: "il petto"
+    translation:
+      en: "chest"
+      ko: "가슴"
+    gender: m
+  - italian: "la schiena"
+    translation:
+      en: "back"
+      ko: "등"
+    gender: f
+  - italian: "la pancia"
+    translation:
+      en: "belly / stomach"
+      ko: "배"
+    gender: f
+  - italian: "la gamba"
+    translation:
+      en: "leg"
+      ko: "다리"
+    gender: f
+  - italian: "il ginocchio"
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: m
+    notes:
+      en: "Irregular plural: le ginocchia (feminine)"
+      ko: "불규칙 복수형: le ginocchia (여성형)"
+  - italian: "il piede"
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: m
+  - italian: "la caviglia"
+    translation:
+      en: "ankle"
+      ko: "발목"
+    gender: f
+  - italian: "il gomito"
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: m
+  - italian: "il polso"
+    translation:
+      en: "wrist"
+      ko: "손목"
+    gender: m
+  - italian: "il labbro"
+    translation:
+      en: "lip"
+      ko: "입술"
+    gender: m
+    notes:
+      en: "Irregular plural: le labbra (feminine)"
+      ko: "불규칙 복수형: le labbra (여성형)"
+  - italian: "il dente"
+    translation:
+      en: "tooth"
+      ko: "이 / 치아"
+    gender: m
+  - italian: "la lingua"
+    translation:
+      en: "tongue / language"
+      ko: "혀 / 언어"
+    gender: f
+- id: health
+  label:
+    en: "Health"
+    ko: "건강"
+  type: vocabulary
+  words:
+  - italian: "la salute"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+    notes:
+      en: "Also used as a toast: Salute!"
+      ko: "건배할 때도 사용: Salute!"
+  - italian: "il dottore"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "la dottoressa for female doctor"
+      ko: "여성 의사는 la dottoressa"
+  - italian: "la febbre"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+  - italian: "il raffreddore"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: m
+  - italian: "la tosse"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: f
+  - italian: "il mal di testa"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: m
+  - italian: "il mal di stomaco"
+    translation:
+      en: "stomachache"
+      ko: "복통"
+    gender: m
+  - italian: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+  - italian: "la medicina"
+    translation:
+      en: "medicine"
+      ko: "약"
+    gender: f
+  - italian: "la ricetta"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: f
+  - italian: "il dolore"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+  - italian: "l'ospedale"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - italian: "stare bene"
+    translation:
+      en: "to be well"
+      ko: "건강하다"
+    gender: null
+  - italian: "stare male"
+    translation:
+      en: "to be unwell"
+      ko: "아프다"
+    gender: null
+- id: clothing
+  label:
+    en: "Clothing"
+    ko: "의류"
+  type: vocabulary
+  words:
+  - italian: "la camicia"
+    translation:
+      en: "shirt"
+      ko: "셔츠"
+    gender: f
+    notes:
+      en: "Dress shirt; plural: le camicie"
+      ko: "와이셔츠; 복수형: le camicie"
+  - italian: "la maglietta"
+    translation:
+      en: "T-shirt"
+      ko: "티셔츠"
+    gender: f
+  - italian: "il maglione"
+    translation:
+      en: "sweater"
+      ko: "스웨터"
+    gender: m
+  - italian: "la giacca"
+    translation:
+      en: "jacket"
+      ko: "재킷"
+    gender: f
+  - italian: "il cappotto"
+    translation:
+      en: "coat"
+      ko: "코트"
+    gender: m
+  - italian: "i pantaloni"
+    translation:
+      en: "pants / trousers"
+      ko: "바지"
+    gender: m
+    notes:
+      en: "Always plural in Italian"
+      ko: "이탈리아어에서는 항상 복수형"
+  - italian: "i jeans"
+    translation:
+      en: "jeans"
+      ko: "청바지"
+    gender: m
+  - italian: "la gonna"
+    translation:
+      en: "skirt"
+      ko: "치마"
+    gender: f
+  - italian: "il vestito"
+    translation:
+      en: "dress / suit"
+      ko: "원피스 / 정장"
+    gender: m
+    notes:
+      en: "Can mean dress (women) or suit (men)"
+      ko: "여성 원피스 또는 남성 정장을 뜻함"
+  - italian: "le scarpe"
+    translation:
+      en: "shoes"
+      ko: "신발"
+    gender: f
+    notes:
+      en: "Singular: la scarpa"
+      ko: "단수형: la scarpa"
+  - italian: "gli stivali"
+    translation:
+      en: "boots"
+      ko: "부츠"
+    gender: m
+    notes:
+      en: "Singular: lo stivale; Italy is shaped like a boot!"
+      ko: "단수형: lo stivale; 이탈리아는 부츠 모양!"
+  - italian: "i sandali"
+    translation:
+      en: "sandals"
+      ko: "샌들"
+    gender: m
+  - italian: "il cappello"
+    translation:
+      en: "hat"
+      ko: "모자"
+    gender: m
+  - italian: "la sciarpa"
+    translation:
+      en: "scarf"
+      ko: "스카프"
+    gender: f
+  - italian: "i guanti"
+    translation:
+      en: "gloves"
+      ko: "장갑"
+    gender: m
+    notes:
+      en: "Singular: il guanto"
+      ko: "단수형: il guanto"
+  - italian: "la borsa"
+    translation:
+      en: "bag / purse"
+      ko: "가방"
+    gender: f
+  - italian: "la cintura"
+    translation:
+      en: "belt"
+      ko: "벨트"
+    gender: f
+  - italian: "i calzini"
+    translation:
+      en: "socks"
+      ko: "양말"
+    gender: m
+    notes:
+      en: "Singular: il calzino"
+      ko: "단수형: il calzino"
+  - italian: "le mutande"
+    translation:
+      en: "underwear"
+      ko: "속옷"
+    gender: f
+  - italian: "il reggiseno"
+    translation:
+      en: "bra"
+      ko: "브래지어"
+    gender: m
+  - italian: "la cravatta"
+    translation:
+      en: "tie"
+      ko: "넥타이"
+    gender: f
+  - italian: "il pigiama"
+    translation:
+      en: "pajamas"
+      ko: "잠옷"
+    gender: m
+  - italian: "l'ombrello"
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: m
+  - italian: "il costume da bagno"
+    translation:
+      en: "swimsuit"
+      ko: "수영복"
+    gender: m
+  - italian: "la felpa"
+    translation:
+      en: "sweatshirt / hoodie"
+      ko: "후드티 / 맨투맨"
+    gender: f
+  - italian: "il giubbotto"
+    translation:
+      en: "jacket (casual)"
+      ko: "점퍼"
+    gender: m
+  - italian: "l'impermeabile"
+    translation:
+      en: "raincoat"
+      ko: "우비"
+    gender: m
+  - italian: "la tuta"
+    translation:
+      en: "tracksuit / overalls"
+      ko: "운동복 / 작업복"
+    gender: f
+  - italian: "la canottiera"
+    translation:
+      en: "tank top / vest"
+      ko: "민소매"
+    gender: f
+  - italian: "i pantaloncini"
+    translation:
+      en: "shorts"
+      ko: "반바지"
+    gender: m
+  - italian: "il gilet"
+    translation:
+      en: "vest / waistcoat"
+      ko: "조끼"
+    gender: m
+  - italian: "la camicetta"
+    translation:
+      en: "blouse"
+      ko: "블라우스"
+    gender: f
+  - italian: "il collant"
+    translation:
+      en: "tights / pantyhose"
+      ko: "타이츠 / 스타킹"
+    gender: m
+  - italian: "il berretto"
+    translation:
+      en: "cap / beret"
+      ko: "모자 / 베레모"
+    gender: m
+  - italian: "gli occhiali"
+    translation:
+      en: "glasses / eyeglasses"
+      ko: "안경"
+    gender: m
+    notes:
+      en: "Always plural; gli occhiali da sole = sunglasses"
+      ko: "항상 복수형; gli occhiali da sole = 선글라스"
+  - italian: "l'anello"
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: m
+  - italian: "la collana"
+    translation:
+      en: "necklace"
+      ko: "목걸이"
+    gender: f
+  - italian: "l'orecchino"
+    translation:
+      en: "earring"
+      ko: "귀걸이"
+    gender: m
+  - italian: "il braccialetto"
+    translation:
+      en: "bracelet"
+      ko: "팔찌"
+    gender: m
+  - italian: "il portafoglio"
+    translation:
+      en: "wallet"
+      ko: "지갑"
+    gender: m
+  - italian: "la tasca"
+    translation:
+      en: "pocket"
+      ko: "주머니"
+    gender: f
+  - italian: "il bottone"
+    translation:
+      en: "button"
+      ko: "단추"
+    gender: m
+  - italian: "la cerniera"
+    translation:
+      en: "zipper"
+      ko: "지퍼"
+    gender: f
+  - italian: "il tessuto"
+    translation:
+      en: "fabric"
+      ko: "직물"
+    gender: m
+  - italian: "la taglia"
+    translation:
+      en: "size (clothing)"
+      ko: "사이즈 (옷)"
+    gender: f
+  - italian: "indossare"
+    translation:
+      en: "to wear"
+      ko: "입다 / 착용하다"
+    gender: null
+  - italian: "vestirsi"
+    translation:
+      en: "to get dressed"
+      ko: "옷을 입다"
+    gender: null
+  - italian: "spogliarsi"
+    translation:
+      en: "to undress"
+      ko: "옷을 벗다"
+    gender: null
+  - italian: "provare"
+    translation:
+      en: "to try on"
+      ko: "입어보다"
+    gender: null
+- id: body_actions_health
+  label:
+    en: "Body Actions and Health Verbs"
+    ko: "신체 동작과 건강 동사"
+  type: vocabulary
+  words:
+  - italian: "respirare"
+    translation:
+      en: "to breathe"
+      ko: "숨쉬다"
+    gender: null
+  - italian: "dormire"
+    translation:
+      en: "to sleep"
+      ko: "자다"
+    gender: null
+  - italian: "svegliarsi"
+    translation:
+      en: "to wake up"
+      ko: "일어나다"
+    gender: null
+  - italian: "camminare"
+    translation:
+      en: "to walk"
+      ko: "걷다"
+    gender: null
+  - italian: "sedersi"
+    translation:
+      en: "to sit down"
+      ko: "앉다"
+    gender: null
+  - italian: "alzarsi"
+    translation:
+      en: "to stand up / to get up"
+      ko: "일어서다"
+    gender: null
+  - italian: "lavarsi"
+    translation:
+      en: "to wash oneself"
+      ko: "씻다"
+    gender: null
+  - italian: "pettinarsi"
+    translation:
+      en: "to comb one's hair"
+      ko: "머리를 빗다"
+    gender: null
+  - italian: "truccarsi"
+    translation:
+      en: "to put on makeup"
+      ko: "화장하다"
+    gender: null
+  - italian: "radersi"
+    translation:
+      en: "to shave"
+      ko: "면도하다"
+    gender: null
+  - italian: "guarire"
+    translation:
+      en: "to heal / to recover"
+      ko: "낫다 / 회복하다"
+    gender: null
+  - italian: "ammalarsi"
+    translation:
+      en: "to get sick"
+      ko: "아프다 / 병에 걸리다"
+    gender: null
+  - italian: "starnutire"
+    translation:
+      en: "to sneeze"
+      ko: "재채기하다"
+    gender: null
+  - italian: "tossire"
+    translation:
+      en: "to cough"
+      ko: "기침하다"
+    gender: null
+  - italian: "sanguinare"
+    translation:
+      en: "to bleed"
+      ko: "피가 나다"
+    gender: null
+  - italian: "sudare"
+    translation:
+      en: "to sweat"
+      ko: "땀을 흘리다"
+    gender: null
+  - italian: "il cuore"
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: m
+  - italian: "il polmone"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: m
+  - italian: "lo stomaco"
+    translation:
+      en: "stomach"
+      ko: "위"
+    gender: m
+  - italian: "il fegato"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: m
+  - italian: "il rene"
+    translation:
+      en: "kidney"
+      ko: "신장"
+    gender: m
+  - italian: "il cervello"
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: m
+  - italian: "il sangue"
+    translation:
+      en: "blood"
+      ko: "피"
+    gender: m
+  - italian: "l'osso"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: m
+    notes:
+      en: "Irregular plural: le ossa (feminine)"
+      ko: "불규칙 복수형: le ossa (여성형)"
+  - italian: "il muscolo"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: m
+  - italian: "la pelle"
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: f
+  - italian: "l'unghia"
+    translation:
+      en: "nail (finger/toe)"
+      ko: "손톱 / 발톱"
+    gender: f
+  - italian: "il sopracciglio"
+    translation:
+      en: "eyebrow"
+      ko: "눈썹"
+    gender: m
+    notes:
+      en: "Irregular plural: le sopracciglia (feminine)"
+      ko: "불규칙 복수형: le sopracciglia (여성형)"
+  - italian: "la ciglia"
+    translation:
+      en: "eyelash"
+      ko: "속눈썹"
+    gender: f
+    notes:
+      en: "Singular: il ciglio; plural: le ciglia"
+      ko: "단수: il ciglio; 복수: le ciglia"
+  - italian: "la guancia"
+    translation:
+      en: "cheek"
+      ko: "볼"
+    gender: f
+  - italian: "il mento"
+    translation:
+      en: "chin"
+      ko: "턱"
+    gender: m
+  - italian: "il polpaccio"
+    translation:
+      en: "calf (leg)"
+      ko: "종아리"
+    gender: m
+  - italian: "la coscia"
+    translation:
+      en: "thigh"
+      ko: "허벅지"
+    gender: f
+  - italian: "l'anca"
+    translation:
+      en: "hip"
+      ko: "엉덩이"
+    gender: f
+  - italian: "la vita"
+    translation:
+      en: "waist / life"
+      ko: "허리 / 인생"
+    gender: f
+  - italian: "il tallone"
+    translation:
+      en: "heel"
+      ko: "뒤꿈치"
+    gender: m
+  - italian: "la schiena"
+    translation:
+      en: "back"
+      ko: "등"
+    gender: f
+  - italian: "l'ombelico"
+    translation:
+      en: "navel / belly button"
+      ko: "배꼽"
+    gender: m
+  - italian: "la spina dorsale"
+    translation:
+      en: "spine"
+      ko: "척추"
+    gender: f
+  - italian: "la vena"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: f
+  - italian: "l'arteria"
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: f
+  - italian: "il nervo"
+    translation:
+      en: "nerve"
+      ko: "신경"
+    gender: m
+  - italian: "la cicatrice"
+    translation:
+      en: "scar"
+      ko: "흉터"
+    gender: f
+  - italian: "il neo"
+    translation:
+      en: "mole / beauty mark"
+      ko: "점"
+    gender: m
+  - italian: "la ruga"
+    translation:
+      en: "wrinkle"
+      ko: "주름"
+    gender: f
+  - italian: "la lente a contatto"
+    translation:
+      en: "contact lens"
+      ko: "콘택트렌즈"
+    gender: f
+  - italian: "il cerotto"
+    translation:
+      en: "adhesive bandage / band-aid"
+      ko: "반창고"
+    gender: m
+  - italian: "il termometro"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: m
+  - italian: "la bilancia"
+    translation:
+      en: "scale (weight)"
+      ko: "체중계"
+    gender: f
+  - italian: "sano"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+  - italian: "malato"
+    translation:
+      en: "sick / ill"
+      ko: "아픈"
+    gender: null
+  - italian: "stanco"
+    translation:
+      en: "tired"
+      ko: "피곤한"
+    gender: null
+  - italian: "forte"
+    translation:
+      en: "strong"
+      ko: "강한"
+    gender: null
+  - italian: "debole"
+    translation:
+      en: "weak"
+      ko: "약한"
+    gender: null
+  - italian: "magro"
+    translation:
+      en: "thin / slim"
+      ko: "마른"
+    gender: null
+  - italian: "grasso"
+    translation:
+      en: "fat"
+      ko: "뚱뚱한"
+    gender: null
+  - italian: "alto"
+    translation:
+      en: "tall"
+      ko: "키가 큰"
+    gender: null
+  - italian: "basso"
+    translation:
+      en: "short (height)"
+      ko: "키가 작은"
+    gender: null
+  - italian: "giovane"
+    translation:
+      en: "young"
+      ko: "젊은"
+    gender: null
+  - italian: "vecchio"
+    translation:
+      en: "old"
+      ko: "늙은"
+    gender: null
+  - italian: "bello"
+    translation:
+      en: "handsome / beautiful"
+      ko: "잘생긴 / 아름다운"
+    gender: null
+  - italian: "brutto"
+    translation:
+      en: "ugly"
+      ko: "못생긴"
+    gender: null
+  - italian: "biondo"
+    translation:
+      en: "blond"
+      ko: "금발의"
+    gender: null
+  - italian: "bruno"
+    translation:
+      en: "dark-haired"
+      ko: "갈색 머리의"
+    gender: null
+  - italian: "riccio"
+    translation:
+      en: "curly"
+      ko: "곱슬곱슬한"
+    gender: null
+  - italian: "liscio"
+    translation:
+      en: "straight (hair)"
+      ko: "직모의"
+    gender: null
