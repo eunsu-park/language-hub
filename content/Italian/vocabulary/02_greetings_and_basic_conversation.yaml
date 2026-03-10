@@ -1,0 +1,534 @@
+lesson: 02_Greetings_and_Basic_Conversation
+lesson_number: 2
+cefr: A1
+categories:
+- id: 21_informal_greetings
+  label:
+    en: 2.1 Informal Greetings
+    ko: 2.1 비격식 인사
+  type: vocabulary
+  words:
+  - italian: ciao
+    translation:
+      en: hello / goodbye (informal)
+      ko: 안녕 (비격식)
+    gender: null
+    notes:
+      en: Universal informal greeting and farewell
+      ko: 비격식 인사와 작별에 모두 사용
+  - italian: salve
+    translation:
+      en: hello (neutral)
+      ko: 안녕하세요 (중립적)
+    gender: null
+    notes:
+      en: Between formal and informal; safe when unsure
+      ko: 격식과 비격식 사이; 확실하지 않을 때 안전한 표현
+  - italian: come stai
+    translation:
+      en: how are you (informal)
+      ko: 어떻게 지내 (비격식)
+    gender: null
+    notes:
+      en: Used with friends and family
+      ko: 친구와 가족에게 사용
+  - italian: come va
+    translation:
+      en: how's it going
+      ko: 어떻게 되어 가
+    gender: null
+    notes:
+      en: Casual, can be used in most situations
+      ko: 캐주얼한 표현, 대부분의 상황에서 사용 가능
+  - italian: tutto bene
+    translation:
+      en: everything's fine
+      ko: 다 괜찮아
+    gender: null
+  - italian: ci vediamo
+    translation:
+      en: see you
+      ko: 또 보자
+    gender: null
+    notes:
+      en: Literally 'we see each other'
+      ko: 직역하면 '우리 서로 보자'
+  - italian: a dopo
+    translation:
+      en: see you later
+      ko: 나중에 보자
+    gender: null
+  - italian: alla prossima
+    translation:
+      en: until next time
+      ko: 다음에 보자
+    gender: null
+  - italian: che bello
+    translation:
+      en: how nice / how beautiful
+      ko: 정말 좋다 / 정말 멋지다
+    gender: null
+  - italian: in bocca al lupo
+    translation:
+      en: good luck (informal)
+      ko: 행운을 빌어 (비격식)
+    gender: null
+    notes:
+      en: "Literally 'in the mouth of the wolf'; reply is 'crepi!'"
+      ko: "직역하면 '늑대의 입 속으로'; 대답은 'crepi!'"
+  - italian: ciao ciao
+    translation:
+      en: bye bye (informal)
+      ko: 안녕안녕 (비격식)
+    gender: null
+    notes:
+      en: Casual double form of ciao for farewell
+      ko: 작별 인사에 쓰는 캐주얼한 이중 형태
+  - italian: ehilà
+    translation:
+      en: hey there
+      ko: 이봐 / 야
+    gender: null
+    notes:
+      en: Very informal greeting to get attention
+      ko: 매우 비격식적인 인사 / 주의를 끌 때
+- id: 22_formal_greetings
+  label:
+    en: 2.2 Formal Greetings
+    ko: 2.2 격식 인사
+  type: vocabulary
+  words:
+  - italian: buongiorno
+    translation:
+      en: good morning / good day
+      ko: 좋은 아침 / 안녕하세요
+    gender: null
+    notes:
+      en: Formal greeting used until early afternoon
+      ko: 이른 오후까지 사용하는 격식체 인사
+  - italian: buonasera
+    translation:
+      en: good evening
+      ko: 좋은 저녁이에요
+    gender: null
+    notes:
+      en: Used from late afternoon onward
+      ko: 늦은 오후부터 사용
+  - italian: buonanotte
+    translation:
+      en: good night
+      ko: 안녕히 주무세요
+    gender: null
+    notes:
+      en: Said only when going to sleep or parting at night
+      ko: 잠자리에 들거나 밤에 헤어질 때만 사용
+  - italian: arrivederci
+    translation:
+      en: goodbye (formal)
+      ko: 안녕히 가세요 (격식)
+    gender: null
+    notes:
+      en: Standard formal farewell
+      ko: 표준 격식체 작별 인사
+  - italian: arrivederLa
+    translation:
+      en: goodbye (very formal)
+      ko: 안녕히 가십시오 (매우 격식)
+    gender: null
+    notes:
+      en: Uses Lei form; very formal or respectful
+      ko: Lei 형태 사용; 매우 격식적이거나 존경을 표함
+  - italian: come sta
+    translation:
+      en: how are you (formal)
+      ko: 어떻게 지내세요 (격식)
+    gender: null
+    notes:
+      en: Uses Lei form for formal address
+      ko: 격식체 Lei 형태 사용
+  - italian: a presto
+    translation:
+      en: see you soon
+      ko: 곧 봐요
+    gender: null
+  - italian: a domani
+    translation:
+      en: see you tomorrow
+      ko: 내일 봐요
+    gender: null
+  - italian: benvenuto
+    translation:
+      en: welcome (m)
+      ko: 환영합니다 (남)
+    gender: m
+  - italian: benvenuta
+    translation:
+      en: welcome (f)
+      ko: 환영합니다 (여)
+    gender: f
+  - italian: ben arrivato / ben arrivata
+    translation:
+      en: welcome (upon arrival, m/f)
+      ko: 잘 오셨습니다 (남/여)
+    gender: null
+  - italian: buon pomeriggio
+    translation:
+      en: good afternoon
+      ko: 좋은 오후
+    gender: null
+    notes:
+      en: Less common than buongiorno but used in some regions
+      ko: buongiorno보다 덜 일반적이지만 일부 지역에서 사용
+- id: 23_introductions
+  label:
+    en: 2.3 Introductions
+    ko: 2.3 자기소개
+  type: vocabulary
+  words:
+  - italian: mi chiamo
+    translation:
+      en: my name is (lit. I call myself)
+      ko: 제 이름은 ~입니다
+    gender: null
+    notes:
+      en: Reflexive form of 'chiamarsi'
+      ko: 재귀동사 'chiamarsi'의 형태
+  - italian: piacere
+    translation:
+      en: nice to meet you / pleasure
+      ko: 만나서 반갑습니다
+    gender: m
+    notes:
+      en: Used as both noun and greeting upon meeting
+      ko: 명사이자 만남의 인사로 사용
+  - italian: sono
+    translation:
+      en: I am
+      ko: 저는 ~입니다
+    gender: null
+    notes:
+      en: First person singular of 'essere'
+      ko: "'essere'의 1인칭 단수"
+  - italian: di dove sei
+    translation:
+      en: where are you from (informal)
+      ko: 어디에서 왔어 (비격식)
+    gender: null
+  - italian: di dov'è
+    translation:
+      en: where are you from (formal)
+      ko: 어디에서 오셨어요 (격식)
+    gender: null
+  - italian: vengo da
+    translation:
+      en: I come from
+      ko: ~에서 왔어요
+    gender: null
+  - italian: abito a
+    translation:
+      en: I live in
+      ko: ~에 살아요
+    gender: null
+    notes:
+      en: "'Abito a Roma' — I live in Rome"
+      ko: "'Abito a Roma' — 로마에 살아요"
+  - italian: ho ... anni
+    translation:
+      en: I am ... years old
+      ko: ~살입니다
+    gender: null
+    notes:
+      en: Italian uses 'avere' (to have) for age, not 'essere' (to be)
+      ko: 이탈리아어는 나이에 'essere'가 아닌 'avere'(가지다)를 사용
+  - italian: come ti chiami
+    translation:
+      en: what is your name (informal)
+      ko: 이름이 뭐야 (비격식)
+    gender: null
+  - italian: come si chiama
+    translation:
+      en: what is your name (formal)
+      ko: 성함이 어떻게 되세요 (격식)
+    gender: null
+  - italian: questo è / questa è
+    translation:
+      en: this is (m/f)
+      ko: 이 사람은 ~ 입니다 (남/여)
+    gender: null
+    notes:
+      en: Used to introduce someone else
+      ko: 다른 사람을 소개할 때 사용
+  - italian: che lavoro fai
+    translation:
+      en: what do you do for work (informal)
+      ko: 무슨 일을 해 (비격식)
+    gender: null
+  - italian: sono sposato / sposata
+    translation:
+      en: I am married (m/f)
+      ko: 결혼했어요 (남/여)
+    gender: null
+- id: 24_nationalities
+  label:
+    en: 2.4 Nationalities
+    ko: 2.4 국적
+  type: vocabulary
+  words:
+  - italian: italiano / italiana
+    translation:
+      en: Italian (m/f)
+      ko: 이탈리아인 (남/여)
+    gender: null
+    notes:
+      en: Adjective changes ending by gender
+      ko: 형용사가 성별에 따라 어미 변화
+  - italian: coreano / coreana
+    translation:
+      en: Korean (m/f)
+      ko: 한국인 (남/여)
+    gender: null
+  - italian: americano / americana
+    translation:
+      en: American (m/f)
+      ko: 미국인 (남/여)
+    gender: null
+  - italian: inglese
+    translation:
+      en: English / British
+      ko: 영국인
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: tedesco / tedesca
+    translation:
+      en: German (m/f)
+      ko: 독일인 (남/여)
+    gender: null
+  - italian: francese
+    translation:
+      en: French
+      ko: 프랑스인
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: spagnolo / spagnola
+    translation:
+      en: Spanish (m/f)
+      ko: 스페인인 (남/여)
+    gender: null
+  - italian: giapponese
+    translation:
+      en: Japanese
+      ko: 일본인
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: cinese
+    translation:
+      en: Chinese
+      ko: 중국인
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: portoghese
+    translation:
+      en: Portuguese
+      ko: 포르투갈인
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: russo / russa
+    translation:
+      en: Russian (m/f)
+      ko: 러시아인 (남/여)
+    gender: null
+  - italian: brasiliano / brasiliana
+    translation:
+      en: Brazilian (m/f)
+      ko: 브라질인 (남/여)
+    gender: null
+  - italian: australiano / australiana
+    translation:
+      en: Australian (m/f)
+      ko: 호주인 (남/여)
+    gender: null
+- id: 25_professions
+  label:
+    en: 2.5 Professions
+    ko: 2.5 직업
+  type: vocabulary
+  words:
+  - italian: lo studente / la studentessa
+    translation:
+      en: the student (m/f)
+      ko: 학생 (남/여)
+    gender: null
+  - italian: il professore / la professoressa
+    translation:
+      en: the professor (m/f)
+      ko: 교수 (남/여)
+    gender: null
+  - italian: il medico
+    translation:
+      en: the doctor
+      ko: 의사
+    gender: m
+    notes:
+      en: Often used for both genders; 'la medica' is emerging
+      ko: 남녀 모두에게 사용되기도 함; 'la medica'도 등장 중
+  - italian: l'avvocato / l'avvocatessa
+    translation:
+      en: the lawyer (m/f)
+      ko: 변호사 (남/여)
+    gender: null
+  - italian: l'ingegnere
+    translation:
+      en: the engineer
+      ko: 엔지니어
+    gender: m
+    notes:
+      en: Often used for both genders
+      ko: 남녀 모두에게 사용되기도 함
+  - italian: l'impiegato / l'impiegata
+    translation:
+      en: the office worker (m/f)
+      ko: 회사원 (남/여)
+    gender: null
+  - italian: l'architetto
+    translation:
+      en: the architect
+      ko: 건축가
+    gender: m
+  - italian: il cuoco / la cuoca
+    translation:
+      en: the cook / chef (m/f)
+      ko: 요리사 (남/여)
+    gender: null
+  - italian: il cameriere / la cameriera
+    translation:
+      en: the waiter / waitress (m/f)
+      ko: 웨이터 / 웨이트리스 (남/여)
+    gender: null
+  - italian: l'insegnante
+    translation:
+      en: the teacher
+      ko: 교사
+    gender: null
+    notes:
+      en: Same form for masculine and feminine
+      ko: 남성형과 여성형이 동일
+  - italian: il giornalista / la giornalista
+    translation:
+      en: the journalist (m/f)
+      ko: 기자 (남/여)
+    gender: null
+  - italian: il poliziotto / la poliziotta
+    translation:
+      en: the police officer (m/f)
+      ko: 경찰관 (남/여)
+    gender: null
+  - italian: il commesso / la commessa
+    translation:
+      en: the shop assistant (m/f)
+      ko: 점원 (남/여)
+    gender: null
+  - italian: il programmatore / la programmatrice
+    translation:
+      en: the programmer (m/f)
+      ko: 프로그래머 (남/여)
+    gender: null
+- id: 26_polite_expressions
+  label:
+    en: 2.6 Polite Expressions
+    ko: 2.6 공손한 표현
+  type: vocabulary
+  words:
+  - italian: grazie mille
+    translation:
+      en: thank you very much
+      ko: 정말 감사합니다
+    gender: null
+    notes:
+      en: Literally 'a thousand thanks'
+      ko: 직역하면 '천 번의 감사'
+  - italian: prego
+    translation:
+      en: you're welcome
+      ko: 천만에요
+    gender: null
+  - italian: mi scusi
+    translation:
+      en: excuse me (formal)
+      ko: 실례합니다 (격식)
+    gender: null
+    notes:
+      en: Uses Lei form; for getting attention or apologizing
+      ko: Lei 형태 사용; 주의를 끌거나 사과할 때
+  - italian: permesso
+    translation:
+      en: excuse me (to pass through)
+      ko: 지나갈게요 / 실례합니다
+    gender: null
+    notes:
+      en: Used when entering a room or passing someone
+      ko: 방에 들어가거나 사람 사이를 지나갈 때 사용
+  - italian: non c'è di che
+    translation:
+      en: don't mention it
+      ko: 별말씀을요
+    gender: null
+    notes:
+      en: Literally 'there is nothing of what'; alternative to 'prego'
+      ko: 직역하면 '무엇이 있는 것이 아닙니다'; 'prego'의 대안
+  - italian: mi dispiace
+    translation:
+      en: I'm sorry
+      ko: 죄송합니다
+    gender: null
+    notes:
+      en: For sincere apologies; literally 'it displeases me'
+      ko: 진심 어린 사과에 사용; 직역하면 '그것이 저를 유감스럽게 합니다'
+  - italian: figurati
+    translation:
+      en: don't worry about it (informal)
+      ko: 신경 쓰지 마 (비격식)
+    gender: null
+    notes:
+      en: "Formal form: 'si figuri'"
+      ko: "격식체: 'si figuri'"
+  - italian: per cortesia
+    translation:
+      en: please (formal)
+      ko: 부탁드립니다 (격식)
+    gender: null
+    notes:
+      en: More formal than 'per favore'
+      ko: "'per favore'보다 격식적"
+  - italian: buona giornata
+    translation:
+      en: have a good day
+      ko: 좋은 하루 되세요
+    gender: null
+  - italian: buona serata
+    translation:
+      en: have a good evening
+      ko: 좋은 저녁 되세요
+    gender: null
+  - italian: auguri
+    translation:
+      en: best wishes / congratulations
+      ko: 축하합니다 / 좋은 소원
+    gender: null
+    notes:
+      en: Used for birthdays, holidays, and celebrations
+      ko: 생일, 명절, 축하 시 사용
+  - italian: complimenti
+    translation:
+      en: congratulations / compliments
+      ko: 축하합니다 / 칭찬
+    gender: null
