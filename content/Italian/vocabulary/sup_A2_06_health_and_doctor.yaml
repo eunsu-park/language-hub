@@ -1,0 +1,861 @@
+lesson: "sup_A2_Health_and_Doctor"
+lesson_number: 206
+cefr: A2
+type: supplementary
+topic: "Health and Doctor"
+categories:
+- id: symptoms
+  label:
+    en: "Symptoms"
+    ko: "증상"
+  type: vocabulary
+  words:
+  - italian: "il dolore"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+  - italian: "la febbre"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+    notes:
+      en: "avere la febbre = to have a fever"
+      ko: "avere la febbre = 열이 있다"
+  - italian: "il raffreddore"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: m
+  - italian: "la tosse"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: f
+    notes:
+      en: "tossire = to cough"
+      ko: "tossire = 기침하다"
+  - italian: "il mal di testa"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: m
+  - italian: "il mal di gola"
+    translation:
+      en: "sore throat"
+      ko: "인후통"
+    gender: m
+  - italian: "la nausea"
+    translation:
+      en: "nausea"
+      ko: "메스꺼움"
+    gender: f
+  - italian: "il capogiro"
+    translation:
+      en: "dizziness"
+      ko: "어지러움"
+    gender: m
+    notes:
+      en: "Also le vertigini"
+      ko: "le vertigini라고도 함"
+  - italian: "lo starnuto"
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: m
+    notes:
+      en: "starnutire = to sneeze"
+      ko: "starnutire = 재채기하다"
+  - italian: "il brivido"
+    translation:
+      en: "chill / shiver"
+      ko: "오한"
+    gender: m
+  - italian: "la stanchezza"
+    translation:
+      en: "fatigue / tiredness"
+      ko: "피로"
+    gender: f
+  - italian: "il gonfiore"
+    translation:
+      en: "swelling"
+      ko: "부기"
+    gender: m
+  - italian: "il prurito"
+    translation:
+      en: "itch"
+      ko: "가려움"
+    gender: m
+  - italian: "la ferita"
+    translation:
+      en: "wound / injury"
+      ko: "상처"
+    gender: f
+  - italian: "l'allergia"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+  - italian: "l'infiammazione"
+    translation:
+      en: "inflammation"
+      ko: "염증"
+    gender: f
+  - italian: "il vomito"
+    translation:
+      en: "vomiting"
+      ko: "구토"
+    gender: m
+- id: medical
+  label:
+    en: "Medical Professionals and Treatment"
+    ko: "의료진과 치료"
+  type: vocabulary
+  words:
+  - italian: "il medico"
+    translation:
+      en: "doctor / physician"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "More formal than dottore; la medica or il medico donna"
+      ko: "dottore보다 더 공식적; 여성도 il medico 사용 가능"
+  - italian: "il dottore"
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "la dottoressa for female; also a title for degree holders"
+      ko: "여성은 la dottoressa; 학위 소지자에 대한 호칭이기도 함"
+  - italian: "l'infermiere"
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: m
+    notes:
+      en: "l'infermiera for female nurse"
+      ko: "여성 간호사는 l'infermiera"
+  - italian: "la visita"
+    translation:
+      en: "medical visit / check-up"
+      ko: "진찰"
+    gender: f
+  - italian: "la diagnosi"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: f
+    notes:
+      en: "Invariable: la diagnosi / le diagnosi"
+      ko: "불변: la diagnosi / le diagnosi"
+  - italian: "la ricetta"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: f
+  - italian: "la medicina"
+    translation:
+      en: "medicine / medication"
+      ko: "약"
+    gender: f
+  - italian: "la compressa"
+    translation:
+      en: "tablet / pill"
+      ko: "알약"
+    gender: f
+    notes:
+      en: "Also la pastiglia, la pillola"
+      ko: "la pastiglia, la pillola라고도 함"
+  - italian: "lo sciroppo"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: m
+  - italian: "l'iniezione"
+    translation:
+      en: "injection"
+      ko: "주사"
+    gender: f
+    notes:
+      en: "Also la puntura (colloquial)"
+      ko: "구어적으로 la puntura라고도 함"
+  - italian: "la fasciatura"
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: f
+  - italian: "l'operazione"
+    translation:
+      en: "operation / surgery"
+      ko: "수술"
+    gender: f
+    notes:
+      en: "Also l'intervento chirurgico"
+      ko: "l'intervento chirurgico라고도 함"
+  - italian: "la terapia"
+    translation:
+      en: "therapy / treatment"
+      ko: "치료"
+    gender: f
+  - italian: "l'antibiotico"
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: m
+  - italian: "l'antidolorifico"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: m
+- id: hospital
+  label:
+    en: "Hospital"
+    ko: "병원"
+  type: vocabulary
+  words:
+  - italian: "l'ospedale"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - italian: "il pronto soccorso"
+    translation:
+      en: "emergency room"
+      ko: "응급실"
+    gender: m
+  - italian: "il reparto"
+    translation:
+      en: "ward / department"
+      ko: "병동"
+    gender: m
+  - italian: "la sala operatoria"
+    translation:
+      en: "operating room"
+      ko: "수술실"
+    gender: f
+  - italian: "il ricovero"
+    translation:
+      en: "hospitalization"
+      ko: "입원"
+    gender: m
+  - italian: "la dimissione"
+    translation:
+      en: "discharge"
+      ko: "퇴원"
+    gender: f
+    notes:
+      en: "Usually plural: le dimissioni"
+      ko: "보통 복수형: le dimissioni"
+  - italian: "l'ambulanza"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: f
+  - italian: "la barella"
+    translation:
+      en: "stretcher"
+      ko: "들것"
+    gender: f
+  - italian: "la cartella clinica"
+    translation:
+      en: "medical record"
+      ko: "의료 기록"
+    gender: f
+  - italian: "la sala d'attesa"
+    translation:
+      en: "waiting room"
+      ko: "대기실"
+    gender: f
+  - italian: "il letto d'ospedale"
+    translation:
+      en: "hospital bed"
+      ko: "병상"
+    gender: m
+  - italian: "la flebo"
+    translation:
+      en: "IV drip"
+      ko: "수액 / 링거"
+    gender: f
+- id: prevention
+  label:
+    en: "Prevention and Check-ups"
+    ko: "예방과 검진"
+  type: vocabulary
+  words:
+  - italian: "la vaccinazione"
+    translation:
+      en: "vaccination"
+      ko: "예방접종"
+    gender: f
+    notes:
+      en: "Also il vaccino for the vaccine itself"
+      ko: "백신 자체는 il vaccino"
+  - italian: "la prevenzione"
+    translation:
+      en: "prevention"
+      ko: "예방"
+    gender: f
+  - italian: "la dieta"
+    translation:
+      en: "diet"
+      ko: "식이요법"
+    gender: f
+    notes:
+      en: "la dieta mediterranea = Mediterranean diet"
+      ko: "la dieta mediterranea = 지중해 식단"
+  - italian: "l'igiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: f
+  - italian: "il controllo"
+    translation:
+      en: "check-up / control"
+      ko: "검진"
+    gender: m
+  - italian: "l'analisi del sangue"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: f
+  - italian: "la radiografia"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: f
+  - italian: "l'ecografia"
+    translation:
+      en: "ultrasound"
+      ko: "초음파"
+    gender: f
+  - italian: "la pressione"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: f
+    notes:
+      en: "misurare la pressione = to measure blood pressure"
+      ko: "misurare la pressione = 혈압을 재다"
+  - italian: "il termometro"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: m
+  - italian: "lo stetoscopio"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: m
+  - italian: "il cerotto"
+    translation:
+      en: "adhesive bandage"
+      ko: "반창고"
+    gender: m
+  - italian: "il disinfettante"
+    translation:
+      en: "disinfectant"
+      ko: "소독제"
+    gender: m
+  - italian: "la garza"
+    translation:
+      en: "gauze"
+      ko: "거즈"
+    gender: f
+  - italian: "il ghiaccio"
+    translation:
+      en: "ice (for injury)"
+      ko: "얼음 (부상용)"
+    gender: m
+  - italian: "la stampella"
+    translation:
+      en: "crutch"
+      ko: "목발"
+    gender: f
+  - italian: "il gesso"
+    translation:
+      en: "cast / plaster"
+      ko: "깁스"
+    gender: m
+  - italian: "la sedia a rotelle"
+    translation:
+      en: "wheelchair"
+      ko: "휠체어"
+    gender: f
+- id: body_systems
+  label:
+    en: "Body Systems and Conditions"
+    ko: "신체 기관과 상태"
+  type: vocabulary
+  words:
+  - italian: "il sistema immunitario"
+    translation:
+      en: "immune system"
+      ko: "면역 체계"
+    gender: m
+  - italian: "il metabolismo"
+    translation:
+      en: "metabolism"
+      ko: "신진대사"
+    gender: m
+  - italian: "la circolazione"
+    translation:
+      en: "circulation"
+      ko: "순환"
+    gender: f
+  - italian: "la digestione"
+    translation:
+      en: "digestion"
+      ko: "소화"
+    gender: f
+  - italian: "la respirazione"
+    translation:
+      en: "breathing / respiration"
+      ko: "호흡"
+    gender: f
+  - italian: "l'infezione"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: f
+  - italian: "il virus"
+    translation:
+      en: "virus"
+      ko: "바이러스"
+    gender: m
+  - italian: "il batterio"
+    translation:
+      en: "bacteria"
+      ko: "박테리아"
+    gender: m
+  - italian: "la frattura"
+    translation:
+      en: "fracture"
+      ko: "골절"
+    gender: f
+  - italian: "la distorsione"
+    translation:
+      en: "sprain"
+      ko: "염좌"
+    gender: f
+  - italian: "la contusione"
+    translation:
+      en: "bruise / contusion"
+      ko: "타박상"
+    gender: f
+  - italian: "la scottatura"
+    translation:
+      en: "burn"
+      ko: "화상"
+    gender: f
+  - italian: "il taglio"
+    translation:
+      en: "cut"
+      ko: "베인 상처"
+    gender: m
+  - italian: "l'eruzione cutanea"
+    translation:
+      en: "rash"
+      ko: "발진"
+    gender: f
+  - italian: "la diarrea"
+    translation:
+      en: "diarrhea"
+      ko: "설사"
+    gender: f
+  - italian: "la stitichezza"
+    translation:
+      en: "constipation"
+      ko: "변비"
+    gender: f
+  - italian: "l'insonnia"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: f
+  - italian: "lo stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+  - italian: "l'ansia"
+    translation:
+      en: "anxiety"
+      ko: "불안"
+    gender: f
+  - italian: "la depressione"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: f
+- id: medical_specialists
+  label:
+    en: "Medical Specialists"
+    ko: "전문의"
+  type: vocabulary
+  words:
+  - italian: "il medico di base"
+    translation:
+      en: "general practitioner (GP)"
+      ko: "일반의"
+    gender: m
+    notes:
+      en: "Also il medico di famiglia"
+      ko: "il medico di famiglia라고도 함"
+  - italian: "il dentista"
+    translation:
+      en: "dentist"
+      ko: "치과의사"
+    gender: m
+  - italian: "l'oculista"
+    translation:
+      en: "eye doctor / ophthalmologist"
+      ko: "안과의사"
+    gender: m
+  - italian: "l'ortopedico"
+    translation:
+      en: "orthopedist"
+      ko: "정형외과 의사"
+    gender: m
+  - italian: "il cardiologo"
+    translation:
+      en: "cardiologist"
+      ko: "심장전문의"
+    gender: m
+  - italian: "il dermatologo"
+    translation:
+      en: "dermatologist"
+      ko: "피부과 의사"
+    gender: m
+  - italian: "il pediatra"
+    translation:
+      en: "pediatrician"
+      ko: "소아과 의사"
+    gender: m
+  - italian: "il chirurgo"
+    translation:
+      en: "surgeon"
+      ko: "외과의사"
+    gender: m
+  - italian: "lo psicologo"
+    translation:
+      en: "psychologist"
+      ko: "심리학자"
+    gender: m
+  - italian: "il fisioterapista"
+    translation:
+      en: "physiotherapist"
+      ko: "물리치료사"
+    gender: m
+  - italian: "il farmacista"
+    translation:
+      en: "pharmacist"
+      ko: "약사"
+    gender: m
+  - italian: "il ginecologo"
+    translation:
+      en: "gynecologist"
+      ko: "산부인과 의사"
+    gender: m
+- id: health_actions
+  label:
+    en: "Health Actions and Phrases"
+    ko: "건강 관련 동작과 표현"
+  type: vocabulary
+  words:
+  - italian: "prendere una medicina"
+    translation:
+      en: "to take medicine"
+      ko: "약을 먹다"
+    gender: null
+  - italian: "misurare la febbre"
+    translation:
+      en: "to take temperature"
+      ko: "체온을 재다"
+    gender: null
+  - italian: "fare un esame"
+    translation:
+      en: "to run a test"
+      ko: "검사를 하다"
+    gender: null
+  - italian: "ricoverarsi"
+    translation:
+      en: "to be hospitalized"
+      ko: "입원하다"
+    gender: null
+  - italian: "guarire"
+    translation:
+      en: "to heal / to recover"
+      ko: "낫다 / 회복하다"
+    gender: null
+  - italian: "peggiorare"
+    translation:
+      en: "to get worse"
+      ko: "악화되다"
+    gender: null
+  - italian: "migliorare"
+    translation:
+      en: "to improve / to get better"
+      ko: "좋아지다"
+    gender: null
+  - italian: "il dolore acuto"
+    translation:
+      en: "sharp pain"
+      ko: "날카로운 통증"
+    gender: m
+  - italian: "il dolore sordo"
+    translation:
+      en: "dull pain"
+      ko: "둔한 통증"
+    gender: m
+  - italian: "il dolore cronico"
+    translation:
+      en: "chronic pain"
+      ko: "만성 통증"
+    gender: m
+  - italian: "Mi fa male..."
+    translation:
+      en: "It hurts... / ...hurts me"
+      ko: "...이/가 아파요"
+    gender: null
+    notes:
+      en: "Mi fa male la testa = My head hurts"
+      ko: "Mi fa male la testa = 머리가 아파요"
+  - italian: "Ho bisogno di un dottore."
+    translation:
+      en: "I need a doctor."
+      ko: "의사가 필요해요."
+    gender: null
+  - italian: "il pronto soccorso"
+    translation:
+      en: "emergency number"
+      ko: "응급 전화번호"
+    gender: m
+    notes:
+      en: "118 for medical emergencies in Italy"
+      ko: "이탈리아에서 의료 응급은 118"
+- id: wellness
+  label:
+    en: "Wellness and Lifestyle"
+    ko: "웰빙과 생활습관"
+  type: vocabulary
+  words:
+  - italian: "la salute"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+    notes:
+      en: "Salute! = Cheers! / Bless you!"
+      ko: "Salute! = 건배! / 건강!"
+  - italian: "il benessere"
+    translation:
+      en: "well-being / wellness"
+      ko: "웰빙"
+    gender: m
+  - italian: "la dieta"
+    translation:
+      en: "diet"
+      ko: "식이요법"
+    gender: f
+    notes:
+      en: "la dieta mediterranea = Mediterranean diet"
+      ko: "la dieta mediterranea = 지중해식 식단"
+  - italian: "il riposo"
+    translation:
+      en: "rest"
+      ko: "휴식"
+    gender: m
+  - italian: "lo stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+  - italian: "la depressione"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: f
+  - italian: "rilassarsi"
+    translation:
+      en: "to relax"
+      ko: "쉬다"
+    gender: null
+  - italian: "dormire bene"
+    translation:
+      en: "to sleep well"
+      ko: "잘 자다"
+    gender: null
+  - italian: "l'igiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: f
+  - italian: "lavarsi le mani"
+    translation:
+      en: "to wash one's hands"
+      ko: "손을 씻다"
+    gender: null
+  - italian: "il peso"
+    translation:
+      en: "weight"
+      ko: "체중"
+    gender: m
+  - italian: "l'altezza"
+    translation:
+      en: "height"
+      ko: "키 / 높이"
+    gender: f
+  - italian: "la pressione sanguigna"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: f
+  - italian: "il battito cardiaco"
+    translation:
+      en: "heartbeat"
+      ko: "심박수"
+    gender: m
+  - italian: "il gruppo sanguigno"
+    translation:
+      en: "blood type"
+      ko: "혈액형"
+    gender: m
+  - italian: "la visita medica"
+    translation:
+      en: "medical examination"
+      ko: "건강 검진"
+    gender: f
+  - italian: "il check-up"
+    translation:
+      en: "check-up"
+      ko: "건강 검진"
+    gender: m
+  - italian: "l'assicurazione sanitaria"
+    translation:
+      en: "health insurance"
+      ko: "건강 보험"
+    gender: f
+    notes:
+      en: "Italy has a public healthcare system (SSN)"
+      ko: "이탈리아에는 공공 의료 시스템(SSN)이 있음"
+  - italian: "il medico di base"
+    translation:
+      en: "general practitioner"
+      ko: "주치의"
+    gender: m
+    notes:
+      en: "Every Italian resident has a medico di base"
+      ko: "이탈리아 거주자는 모두 주치의가 있음"
+  - italian: "la tessera sanitaria"
+    translation:
+      en: "health card"
+      ko: "건강 보험 카드"
+    gender: f
+  - italian: "la cartella clinica"
+    translation:
+      en: "medical record"
+      ko: "의료 기록"
+    gender: f
+  - italian: "il referto"
+    translation:
+      en: "medical report / test results"
+      ko: "검사 결과"
+    gender: m
+  - italian: "la convalescenza"
+    translation:
+      en: "convalescence / recovery period"
+      ko: "회복기"
+    gender: f
+  - italian: "il congedo per malattia"
+    translation:
+      en: "sick leave"
+      ko: "병가"
+    gender: m
+  - italian: "la guardia medica"
+    translation:
+      en: "after-hours medical service"
+      ko: "야간 의료 서비스"
+    gender: f
+    notes:
+      en: "Available evenings, nights, weekends, and holidays"
+      ko: "저녁, 야간, 주말, 공휴일에 이용 가능"
+  - italian: "il termometro"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: m
+  - italian: "lo stetoscopio"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: m
+  - italian: "la bilancia"
+    translation:
+      en: "scale / weighing scale"
+      ko: "저울 / 체중계"
+    gender: f
+  - italian: "la sedia a rotelle"
+    translation:
+      en: "wheelchair"
+      ko: "휠체어"
+    gender: f
+  - italian: "le lenti a contatto"
+    translation:
+      en: "contact lenses"
+      ko: "콘택트렌즈"
+    gender: f
+  - italian: "gli occhiali da vista"
+    translation:
+      en: "eyeglasses / prescription glasses"
+      ko: "안경"
+    gender: m
+  - italian: "stare male"
+    translation:
+      en: "to feel sick / to feel bad"
+      ko: "아프다 / 기분이 안 좋다"
+    gender: null
+  - italian: "stare bene"
+    translation:
+      en: "to feel well / to feel good"
+      ko: "건강하다 / 기분이 좋다"
+    gender: null
+  - italian: "sentirsi"
+    translation:
+      en: "to feel"
+      ko: "느끼다"
+    gender: null
+    notes:
+      en: "Come si sente? = How do you feel? (formal)"
+      ko: "Come si sente? = 어떻게 느끼세요? (격식체)"
+  - italian: "svenire"
+    translation:
+      en: "to faint"
+      ko: "기절하다"
+    gender: null
+  - italian: "vomitare"
+    translation:
+      en: "to vomit"
+      ko: "구토하다"
+    gender: null
+  - italian: "tossire"
+    translation:
+      en: "to cough"
+      ko: "기침하다"
+    gender: null
+  - italian: "starnutire"
+    translation:
+      en: "to sneeze"
+      ko: "재채기하다"
+    gender: null
+  - italian: "sanguinare"
+    translation:
+      en: "to bleed"
+      ko: "피가 나다"
+    gender: null
+  - italian: "gonfiarsi"
+    translation:
+      en: "to swell"
+      ko: "붓다"
+    gender: null
