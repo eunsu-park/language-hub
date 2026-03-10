@@ -1,0 +1,902 @@
+lesson: "sup_A2_Travel_and_Transportation"
+lesson_number: 201
+cefr: A2
+type: supplementary
+topic: "Travel and Transportation"
+categories:
+- id: vehicles
+  label:
+    en: "Vehicles"
+    ko: "탈것"
+  type: vocabulary
+  words:
+  - italian: "l'auto"
+    translation:
+      en: "car"
+      ko: "자동차"
+    gender: f
+    notes:
+      en: "Also la macchina (more colloquial) or l'automobile"
+      ko: "la macchina (더 구어적) 또는 l'automobile이라고도 함"
+  - italian: "la macchina"
+    translation:
+      en: "car"
+      ko: "자동차"
+    gender: f
+    notes:
+      en: "Also means machine"
+      ko: "기계라는 뜻도 있음"
+  - italian: "l'autobus"
+    translation:
+      en: "bus"
+      ko: "버스"
+    gender: m
+    notes:
+      en: "Invariable: l'autobus / gli autobus"
+      ko: "불변: l'autobus / gli autobus"
+  - italian: "il treno"
+    translation:
+      en: "train"
+      ko: "기차"
+    gender: m
+    notes:
+      en: "Italy has high-speed trains: Frecciarossa, Frecciargento"
+      ko: "이탈리아에는 고속열차가 있음: 프레차로사, 프레차르젠토"
+  - italian: "l'aereo"
+    translation:
+      en: "airplane"
+      ko: "비행기"
+    gender: m
+  - italian: "la nave"
+    translation:
+      en: "ship"
+      ko: "배"
+    gender: f
+  - italian: "il traghetto"
+    translation:
+      en: "ferry"
+      ko: "페리"
+    gender: m
+    notes:
+      en: "Common for traveling to Italian islands"
+      ko: "이탈리아 섬으로 이동할 때 흔히 사용"
+  - italian: "la bicicletta"
+    translation:
+      en: "bicycle"
+      ko: "자전거"
+    gender: f
+    notes:
+      en: "Commonly shortened to la bici"
+      ko: "흔히 la bici로 줄여 씀"
+  - italian: "la moto"
+    translation:
+      en: "motorcycle"
+      ko: "오토바이"
+    gender: f
+    notes:
+      en: "Short for la motocicletta; invariable plural"
+      ko: "la motocicletta의 줄임말; 복수형 불변"
+  - italian: "il taxi"
+    translation:
+      en: "taxi"
+      ko: "택시"
+    gender: m
+    notes:
+      en: "Invariable: il taxi / i taxi"
+      ko: "불변: il taxi / i taxi"
+  - italian: "il tram"
+    translation:
+      en: "tram / streetcar"
+      ko: "트램"
+    gender: m
+    notes:
+      en: "Common in Milan and Turin"
+      ko: "밀라노와 토리노에서 흔함"
+  - italian: "la metropolitana"
+    translation:
+      en: "subway / metro"
+      ko: "지하철"
+    gender: f
+    notes:
+      en: "Commonly shortened to la metro"
+      ko: "흔히 la metro로 줄여 씀"
+- id: travel
+  label:
+    en: "Travel"
+    ko: "여행"
+  type: vocabulary
+  words:
+  - italian: "il viaggio"
+    translation:
+      en: "trip / journey"
+      ko: "여행"
+    gender: m
+    notes:
+      en: "Buon viaggio! = Have a good trip!"
+      ko: "Buon viaggio! = 좋은 여행 되세요!"
+  - italian: "la valigia"
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: f
+    notes:
+      en: "Plural: le valigie"
+      ko: "복수형: le valigie"
+  - italian: "il passaporto"
+    translation:
+      en: "passport"
+      ko: "여권"
+    gender: m
+  - italian: "il biglietto"
+    translation:
+      en: "ticket"
+      ko: "표"
+    gender: m
+  - italian: "la prenotazione"
+    translation:
+      en: "reservation / booking"
+      ko: "예약"
+    gender: f
+  - italian: "l'albergo"
+    translation:
+      en: "hotel"
+      ko: "호텔"
+    gender: m
+    notes:
+      en: "Also l'hotel (invariable)"
+      ko: "l'hotel도 사용 (불변형)"
+  - italian: "la pensione"
+    translation:
+      en: "guesthouse / B&B"
+      ko: "민박 / 게스트하우스"
+    gender: f
+    notes:
+      en: "Also means pension / retirement"
+      ko: "연금이라는 뜻도 있음"
+  - italian: "l'ostello"
+    translation:
+      en: "hostel"
+      ko: "호스텔"
+    gender: m
+  - italian: "il turista"
+    translation:
+      en: "tourist"
+      ko: "관광객"
+    gender: m
+    notes:
+      en: "la turista for female; same form for m singular"
+      ko: "여성은 la turista; 남성 단수도 같은 형태"
+  - italian: "la guida"
+    translation:
+      en: "guide / guidebook"
+      ko: "가이드 / 안내서"
+    gender: f
+    notes:
+      en: "la guida turistica = tourist guide"
+      ko: "la guida turistica = 관광 가이드"
+  - italian: "la carta d'imbarco"
+    translation:
+      en: "boarding pass"
+      ko: "탑승권"
+    gender: f
+  - italian: "la cartina"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: f
+- id: airport
+  label:
+    en: "Airport"
+    ko: "공항"
+  type: vocabulary
+  words:
+  - italian: "l'aeroporto"
+    translation:
+      en: "airport"
+      ko: "공항"
+    gender: m
+  - italian: "il volo"
+    translation:
+      en: "flight"
+      ko: "비행편"
+    gender: m
+  - italian: "la partenza"
+    translation:
+      en: "departure"
+      ko: "출발"
+    gender: f
+  - italian: "l'arrivo"
+    translation:
+      en: "arrival"
+      ko: "도착"
+    gender: m
+  - italian: "il ritardo"
+    translation:
+      en: "delay"
+      ko: "지연"
+    gender: m
+    notes:
+      en: "Il volo è in ritardo = The flight is delayed"
+      ko: "Il volo è in ritardo = 비행편이 지연됨"
+  - italian: "la cancellazione"
+    translation:
+      en: "cancellation"
+      ko: "취소"
+    gender: f
+  - italian: "il gate"
+    translation:
+      en: "gate"
+      ko: "탑승구"
+    gender: m
+    notes:
+      en: "English loanword, commonly used"
+      ko: "영어 차용어, 흔히 사용됨"
+  - italian: "il check-in"
+    translation:
+      en: "check-in"
+      ko: "체크인"
+    gender: m
+  - italian: "il bagaglio"
+    translation:
+      en: "luggage / baggage"
+      ko: "수하물"
+    gender: m
+    notes:
+      en: "bagaglio a mano = carry-on"
+      ko: "bagaglio a mano = 기내 수하물"
+  - italian: "la dogana"
+    translation:
+      en: "customs"
+      ko: "세관"
+    gender: f
+  - italian: "il controllo passaporti"
+    translation:
+      en: "passport control"
+      ko: "여권 심사"
+    gender: m
+  - italian: "l'atterraggio"
+    translation:
+      en: "landing"
+      ko: "착륙"
+    gender: m
+  - italian: "il decollo"
+    translation:
+      en: "takeoff"
+      ko: "이륙"
+    gender: m
+- id: station
+  label:
+    en: "Train Station"
+    ko: "기차역"
+  type: vocabulary
+  words:
+  - italian: "la stazione"
+    translation:
+      en: "station"
+      ko: "역"
+    gender: f
+  - italian: "il binario"
+    translation:
+      en: "platform / track"
+      ko: "승강장"
+    gender: m
+  - italian: "l'orario"
+    translation:
+      en: "schedule / timetable"
+      ko: "시간표"
+    gender: m
+  - italian: "andata e ritorno"
+    translation:
+      en: "round trip"
+      ko: "왕복"
+    gender: null
+    notes:
+      en: "solo andata = one-way"
+      ko: "solo andata = 편도"
+  - italian: "la prima classe"
+    translation:
+      en: "first class"
+      ko: "일등석"
+    gender: f
+  - italian: "la seconda classe"
+    translation:
+      en: "second class"
+      ko: "이등석"
+    gender: f
+  - italian: "il capolinea"
+    translation:
+      en: "terminus"
+      ko: "종점"
+    gender: m
+  - italian: "la coincidenza"
+    translation:
+      en: "connection (transfer)"
+      ko: "환승"
+    gender: f
+- id: directions
+  label:
+    en: "Directions"
+    ko: "방향"
+  type: vocabulary
+  words:
+  - italian: "nord"
+    translation:
+      en: "north"
+      ko: "북"
+    gender: m
+  - italian: "sud"
+    translation:
+      en: "south"
+      ko: "남"
+    gender: m
+  - italian: "est"
+    translation:
+      en: "east"
+      ko: "동"
+    gender: m
+  - italian: "ovest"
+    translation:
+      en: "west"
+      ko: "서"
+    gender: m
+  - italian: "dritto"
+    translation:
+      en: "straight ahead"
+      ko: "직진"
+    gender: null
+    notes:
+      en: "Also diritto"
+      ko: "diritto라고도 함"
+  - italian: "a destra"
+    translation:
+      en: "to the right"
+      ko: "오른쪽으로"
+    gender: null
+  - italian: "a sinistra"
+    translation:
+      en: "to the left"
+      ko: "왼쪽으로"
+    gender: null
+  - italian: "vicino a"
+    translation:
+      en: "near / close to"
+      ko: "~근처에"
+    gender: null
+  - italian: "lontano da"
+    translation:
+      en: "far from"
+      ko: "~에서 먼"
+    gender: null
+  - italian: "accanto a"
+    translation:
+      en: "next to"
+      ko: "~옆에"
+    gender: null
+  - italian: "di fronte a"
+    translation:
+      en: "in front of / across from"
+      ko: "~맞은편에"
+    gender: null
+  - italian: "dietro"
+    translation:
+      en: "behind"
+      ko: "뒤에"
+    gender: null
+  - italian: "davanti"
+    translation:
+      en: "in front"
+      ko: "앞에"
+    gender: null
+  - italian: "tra"
+    translation:
+      en: "between / among"
+      ko: "~사이에"
+    gender: null
+    notes:
+      en: "Also fra (interchangeable)"
+      ko: "fra와 같은 뜻 (호환 가능)"
+  - italian: "di fronte a"
+    translation:
+      en: "opposite / across from"
+      ko: "~맞은편에"
+    gender: null
+  - italian: "all'angolo"
+    translation:
+      en: "at the corner"
+      ko: "모퉁이에서"
+    gender: null
+  - italian: "in fondo a"
+    translation:
+      en: "at the end of"
+      ko: "~끝에"
+    gender: null
+  - italian: "attraverso"
+    translation:
+      en: "through / across"
+      ko: "~을 통해"
+    gender: null
+  - italian: "lungo"
+    translation:
+      en: "along"
+      ko: "~을 따라"
+    gender: null
+  - italian: "fino a"
+    translation:
+      en: "until / up to"
+      ko: "~까지"
+    gender: null
+  - italian: "verso"
+    translation:
+      en: "towards"
+      ko: "~쪽으로"
+    gender: null
+- id: travel_actions
+  label:
+    en: "Travel Actions"
+    ko: "여행 동작"
+  type: vocabulary
+  words:
+  - italian: "viaggiare"
+    translation:
+      en: "to travel"
+      ko: "여행하다"
+    gender: null
+  - italian: "partire"
+    translation:
+      en: "to depart / to leave"
+      ko: "출발하다"
+    gender: null
+  - italian: "arrivare"
+    translation:
+      en: "to arrive"
+      ko: "도착하다"
+    gender: null
+  - italian: "prenotare"
+    translation:
+      en: "to book / to reserve"
+      ko: "예약하다"
+    gender: null
+  - italian: "noleggiare"
+    translation:
+      en: "to rent (a vehicle)"
+      ko: "렌트하다"
+    gender: null
+  - italian: "guidare"
+    translation:
+      en: "to drive"
+      ko: "운전하다"
+    gender: null
+  - italian: "parcheggiare"
+    translation:
+      en: "to park"
+      ko: "주차하다"
+    gender: null
+  - italian: "salire"
+    translation:
+      en: "to get on / to board"
+      ko: "타다"
+    gender: null
+  - italian: "scendere"
+    translation:
+      en: "to get off"
+      ko: "내리다"
+    gender: null
+  - italian: "cambiare"
+    translation:
+      en: "to change / to transfer"
+      ko: "환승하다"
+    gender: null
+  - italian: "imbarcarsi"
+    translation:
+      en: "to board (plane/ship)"
+      ko: "탑승하다"
+    gender: null
+  - italian: "sbarcare"
+    translation:
+      en: "to disembark"
+      ko: "하선하다"
+    gender: null
+  - italian: "atterrare"
+    translation:
+      en: "to land"
+      ko: "착륙하다"
+    gender: null
+  - italian: "decollare"
+    translation:
+      en: "to take off"
+      ko: "이륙하다"
+    gender: null
+  - italian: "fare il check-in"
+    translation:
+      en: "to check in"
+      ko: "체크인하다"
+    gender: null
+  - italian: "fare le valigie"
+    translation:
+      en: "to pack (suitcases)"
+      ko: "짐을 싸다"
+    gender: null
+  - italian: "disfare le valigie"
+    translation:
+      en: "to unpack"
+      ko: "짐을 풀다"
+    gender: null
+  - italian: "perdersi"
+    translation:
+      en: "to get lost"
+      ko: "길을 잃다"
+    gender: null
+  - italian: "chiedere indicazioni"
+    translation:
+      en: "to ask for directions"
+      ko: "길을 묻다"
+    gender: null
+  - italian: "timbrare il biglietto"
+    translation:
+      en: "to validate the ticket"
+      ko: "표를 찍다"
+    gender: null
+    notes:
+      en: "Required on Italian trains and buses"
+      ko: "이탈리아 기차와 버스에서 필수"
+- id: accommodation
+  label:
+    en: "Accommodation"
+    ko: "숙소"
+  type: vocabulary
+  words:
+  - italian: "la camera"
+    translation:
+      en: "room (hotel)"
+      ko: "방 (호텔)"
+    gender: f
+    notes:
+      en: "camera singola = single; camera doppia = double"
+      ko: "camera singola = 싱글; camera doppia = 더블"
+  - italian: "la reception"
+    translation:
+      en: "reception / front desk"
+      ko: "프론트"
+    gender: f
+  - italian: "il piano"
+    translation:
+      en: "floor / level"
+      ko: "층"
+    gender: m
+  - italian: "l'ascensore"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+  - italian: "la colazione inclusa"
+    translation:
+      en: "breakfast included"
+      ko: "조식 포함"
+    gender: f
+  - italian: "la mezza pensione"
+    translation:
+      en: "half board"
+      ko: "반 식사"
+    gender: f
+  - italian: "la pensione completa"
+    translation:
+      en: "full board"
+      ko: "전 식사"
+    gender: f
+  - italian: "la chiave"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: f
+    notes:
+      en: "la chiave elettronica = key card"
+      ko: "la chiave elettronica = 카드키"
+  - italian: "il pernottamento"
+    translation:
+      en: "overnight stay"
+      ko: "숙박"
+    gender: m
+  - italian: "la sveglia"
+    translation:
+      en: "wake-up call / alarm"
+      ko: "모닝콜 / 알람"
+    gender: f
+  - italian: "il reclamo"
+    translation:
+      en: "complaint"
+      ko: "불만 / 항의"
+    gender: m
+  - italian: "la vista"
+    translation:
+      en: "view"
+      ko: "전망"
+    gender: f
+    notes:
+      en: "camera con vista = room with a view"
+      ko: "camera con vista = 전망이 있는 방"
+  - italian: "il WiFi"
+    translation:
+      en: "WiFi"
+      ko: "와이파이"
+    gender: m
+  - italian: "il parcheggio"
+    translation:
+      en: "parking"
+      ko: "주차장"
+    gender: m
+  - italian: "la piscina"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: f
+  - italian: "l'aria condizionata"
+    translation:
+      en: "air conditioning"
+      ko: "에어컨"
+    gender: f
+- id: road_signs
+  label:
+    en: "Road and Traffic"
+    ko: "도로와 교통"
+  type: vocabulary
+  words:
+  - italian: "l'autostrada"
+    translation:
+      en: "highway / motorway"
+      ko: "고속도로"
+    gender: f
+    notes:
+      en: "Italian highways have tolls (il pedaggio)"
+      ko: "이탈리아 고속도로는 통행료가 있음 (il pedaggio)"
+  - italian: "il pedaggio"
+    translation:
+      en: "toll"
+      ko: "통행료"
+    gender: m
+  - italian: "la benzina"
+    translation:
+      en: "gasoline / petrol"
+      ko: "휘발유"
+    gender: f
+  - italian: "il gasolio"
+    translation:
+      en: "diesel"
+      ko: "디젤"
+    gender: m
+  - italian: "il distributore"
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: m
+    notes:
+      en: "Also la stazione di servizio"
+      ko: "la stazione di servizio라고도 함"
+  - italian: "il limite di velocità"
+    translation:
+      en: "speed limit"
+      ko: "속도 제한"
+    gender: m
+  - italian: "il sorpasso"
+    translation:
+      en: "overtaking / passing"
+      ko: "추월"
+    gender: m
+  - italian: "la patente"
+    translation:
+      en: "driver's license"
+      ko: "운전면허"
+    gender: f
+  - italian: "l'assicurazione"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: f
+  - italian: "l'incidente"
+    translation:
+      en: "accident"
+      ko: "사고"
+    gender: m
+  - italian: "il semaforo"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: m
+  - italian: "lo stop"
+    translation:
+      en: "stop sign"
+      ko: "정지 표지"
+    gender: m
+  - italian: "il divieto di sosta"
+    translation:
+      en: "no parking"
+      ko: "주차 금지"
+    gender: m
+  - italian: "il senso unico"
+    translation:
+      en: "one-way street"
+      ko: "일방통행"
+    gender: m
+  - italian: "la rotonda"
+    translation:
+      en: "roundabout"
+      ko: "로터리"
+    gender: f
+  - italian: "la corsia"
+    translation:
+      en: "lane (road)"
+      ko: "차선"
+    gender: f
+  - italian: "il marciapiede"
+    translation:
+      en: "sidewalk"
+      ko: "인도"
+    gender: m
+  - italian: "la cintura di sicurezza"
+    translation:
+      en: "seatbelt"
+      ko: "안전벨트"
+    gender: f
+  - italian: "il casco"
+    translation:
+      en: "helmet"
+      ko: "헬멧"
+    gender: m
+  - italian: "il navigatore"
+    translation:
+      en: "GPS / navigation system"
+      ko: "내비게이션"
+    gender: m
+  - italian: "la mappa"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: f
+- id: travel_phrases
+  label:
+    en: "Travel Phrases and Verbs"
+    ko: "여행 표현과 동사"
+  type: vocabulary
+  words:
+  - italian: "prenotare"
+    translation:
+      en: "to book / to reserve"
+      ko: "예약하다"
+    gender: null
+  - italian: "confermare"
+    translation:
+      en: "to confirm"
+      ko: "확인하다"
+    gender: null
+  - italian: "cancellare"
+    translation:
+      en: "to cancel"
+      ko: "취소하다"
+    gender: null
+  - italian: "imbarcarsi"
+    translation:
+      en: "to board (plane/ship)"
+      ko: "탑승하다"
+    gender: null
+  - italian: "atterrare"
+    translation:
+      en: "to land"
+      ko: "착륙하다"
+    gender: null
+  - italian: "decollare"
+    translation:
+      en: "to take off"
+      ko: "이륙하다"
+    gender: null
+  - italian: "noleggiare"
+    translation:
+      en: "to rent (car/bike)"
+      ko: "렌트하다"
+    gender: null
+  - italian: "fare il check-in"
+    translation:
+      en: "to check in"
+      ko: "체크인하다"
+    gender: null
+  - italian: "fare il check-out"
+    translation:
+      en: "to check out"
+      ko: "체크아웃하다"
+    gender: null
+  - italian: "Dove si trova...?"
+    translation:
+      en: "Where is...?"
+      ko: "~은 어디에 있습니까?"
+    gender: null
+  - italian: "Quanto costa?"
+    translation:
+      en: "How much does it cost?"
+      ko: "얼마입니까?"
+    gender: null
+  - italian: "A che ora parte...?"
+    translation:
+      en: "What time does... leave?"
+      ko: "~은 몇 시에 출발합니까?"
+    gender: null
+  - italian: "il ritardo"
+    translation:
+      en: "delay"
+      ko: "지연"
+    gender: m
+  - italian: "la coincidenza"
+    translation:
+      en: "connection (transport)"
+      ko: "환승"
+    gender: f
+  - italian: "il viaggio di andata"
+    translation:
+      en: "outbound journey"
+      ko: "가는 여행"
+    gender: m
+  - italian: "il viaggio di ritorno"
+    translation:
+      en: "return journey"
+      ko: "돌아오는 여행"
+    gender: m
+  - italian: "andata e ritorno"
+    translation:
+      en: "round trip"
+      ko: "왕복"
+    gender: null
+  - italian: "solo andata"
+    translation:
+      en: "one way"
+      ko: "편도"
+    gender: null
+  - italian: "la prima classe"
+    translation:
+      en: "first class"
+      ko: "1등석"
+    gender: f
+  - italian: "la seconda classe"
+    translation:
+      en: "second class"
+      ko: "2등석"
+    gender: f
+  - italian: "il posto"
+    translation:
+      en: "seat / place"
+      ko: "좌석 / 장소"
+    gender: m
+  - italian: "il posto finestrino"
+    translation:
+      en: "window seat"
+      ko: "창가 좌석"
+    gender: m
+  - italian: "il posto corridoio"
+    translation:
+      en: "aisle seat"
+      ko: "통로 좌석"
+    gender: m
+  - italian: "il bagaglio a mano"
+    translation:
+      en: "carry-on luggage"
+      ko: "기내 수하물"
+    gender: m
+  - italian: "la guida turistica"
+    translation:
+      en: "tour guide / guidebook"
+      ko: "관광 가이드 / 여행 안내서"
+    gender: f
+  - italian: "l'escursione"
+    translation:
+      en: "excursion / hike"
+      ko: "소풍 / 하이킹"
+    gender: f
+  - italian: "il turismo"
+    translation:
+      en: "tourism"
+      ko: "관광"
+    gender: m
+  - italian: "la vacanza"
+    translation:
+      en: "vacation / holiday"
+      ko: "휴가"
+    gender: f
+    notes:
+      en: "le vacanze estive = summer vacation"
+      ko: "le vacanze estive = 여름 휴가"
