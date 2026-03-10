@@ -1,0 +1,458 @@
+lesson: 17_Adverbs_Conjunctions_and_Discourse
+lesson_number: 17
+cefr: B2
+categories:
+- id: common_adverbs
+  label:
+    en: Common Adverbs
+    ko: 일반 부사
+  type: vocabulary
+  words:
+  - italian: già
+    translation:
+      en: already
+      ko: 이미 / 벌써
+    gender: null
+  - italian: ancora
+    translation:
+      en: still / yet / again
+      ko: 아직 / 여전히 / 다시
+    gender: null
+  - italian: sempre
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+  - italian: mai
+    translation:
+      en: never / ever
+      ko: 절대 ~않다 / 한 번이라도
+    gender: null
+    notes:
+      en: "'non... mai' = never; 'hai mai...?' = have you ever...?"
+      ko: "'non... mai' = 절대 ~않다; 'hai mai...?' = ~해 본 적 있어?"
+  - italian: spesso
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+  - italian: subito
+    translation:
+      en: immediately / right away
+      ko: 즉시 / 바로
+    gender: null
+  - italian: appena
+    translation:
+      en: just / barely / as soon as
+      ko: 방금 / 겨우 / ~하자마자
+    gender: null
+  - italian: proprio
+    translation:
+      en: really / exactly / just
+      ko: 정말 / 정확히 / 바로
+    gender: null
+  - italian: quasi
+    translation:
+      en: almost / nearly
+      ko: 거의
+    gender: null
+  - italian: abbastanza
+    translation:
+      en: enough / fairly
+      ko: 충분히 / 꽤
+    gender: null
+  - italian: troppo
+    translation:
+      en: too / too much
+      ko: 너무
+    gender: null
+  - italian: molto
+    translation:
+      en: very / a lot
+      ko: 매우 / 많이
+    gender: null
+  - italian: poco
+    translation:
+      en: little / not much
+      ko: 적게 / 별로 ~않다
+    gender: null
+  - italian: bene
+    translation:
+      en: well
+      ko: 잘
+    gender: null
+  - italian: male
+    translation:
+      en: badly
+      ko: 나쁘게 / 못
+    gender: null
+  - italian: meglio
+    translation:
+      en: better (adverb)
+      ko: 더 잘
+    gender: null
+  - italian: peggio
+    translation:
+      en: worse (adverb)
+      ko: 더 나쁘게
+    gender: null
+  - italian: volentieri
+    translation:
+      en: gladly / willingly
+      ko: 기꺼이
+    gender: null
+    notes:
+      en: "'volentieri!' is a common way to accept an invitation"
+      ko: "'volentieri!'는 초대를 수락하는 일반적인 표현"
+  - italian: davvero
+    translation:
+      en: really / truly
+      ko: 정말로 / 진짜
+    gender: null
+  - italian: pian piano
+    translation:
+      en: slowly / little by little
+      ko: 천천히 / 조금씩
+    gender: null
+  - italian: altrove
+    translation:
+      en: elsewhere
+      ko: 다른 곳에서
+    gender: null
+  - italian: ovunque / dappertutto
+    translation:
+      en: everywhere
+      ko: 어디에서나
+    gender: null
+  - italian: perfino / persino
+    translation:
+      en: even
+      ko: 심지어
+    gender: null
+  - italian: assolutamente
+    translation:
+      en: absolutely
+      ko: 절대적으로 / 확실히
+    gender: null
+- id: conjunctions
+  label:
+    en: Conjunctions
+    ko: 접속사
+  type: vocabulary
+  words:
+  - italian: e
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+    notes:
+      en: Becomes 'ed' before vowels (optional, mainly before 'e')
+      ko: 모음 앞에서 'ed'가 됨 (선택적, 주로 'e' 앞에서)
+  - italian: o / oppure
+    translation:
+      en: or
+      ko: 또는
+    gender: null
+  - italian: ma
+    translation:
+      en: but
+      ko: 그러나 / 하지만
+    gender: null
+  - italian: però
+    translation:
+      en: however / but
+      ko: 그러나 / 하지만
+    gender: null
+    notes:
+      en: Usually placed after the first element of the clause
+      ko: 보통 절의 첫 번째 요소 뒤에 위치
+  - italian: quindi / dunque
+    translation:
+      en: therefore / so
+      ko: 그러므로 / 따라서
+    gender: null
+  - italian: perciò
+    translation:
+      en: therefore / for this reason
+      ko: 그래서 / 이런 이유로
+    gender: null
+  - italian: eppure
+    translation:
+      en: and yet / nevertheless
+      ko: 그럼에도 / 그런데도
+    gender: null
+  - italian: anzi
+    translation:
+      en: on the contrary / in fact / rather
+      ko: 오히려 / 사실은
+    gender: null
+    notes:
+      en: Corrects or strengthens a previous statement
+      ko: 이전 진술을 수정하거나 강화함
+  - italian: mentre
+    translation:
+      en: while / whereas
+      ko: ~하는 동안 / 반면에
+    gender: null
+  - italian: quando
+    translation:
+      en: when
+      ko: ~할 때
+    gender: null
+  - italian: poiché / siccome
+    translation:
+      en: since / because
+      ko: ~이므로 / ~이기 때문에
+    gender: null
+    notes:
+      en: "'siccome' is placed at the beginning of the clause"
+      ko: "'siccome'은 절의 시작에 위치"
+  - italian: se
+    translation:
+      en: if
+      ko: 만약 ~라면
+    gender: null
+  - italian: come
+    translation:
+      en: as / like / how
+      ko: ~처럼 / ~같이 / 어떻게
+    gender: null
+  - italian: affinché
+    translation:
+      en: so that / in order that
+      ko: ~하기 위해
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+  - italian: né... né
+    translation:
+      en: neither... nor
+      ko: ~도 ~도 아닌
+    gender: null
+  - italian: sia... sia / sia... che
+    translation:
+      en: both... and
+      ko: ~도 ~도
+    gender: null
+  - italian: anche se
+    translation:
+      en: even if / even though
+      ko: 비록 ~일지라도
+    gender: null
+  - italian: dato che
+    translation:
+      en: given that / since
+      ko: ~이므로 / ~인 만큼
+    gender: null
+  - italian: finché
+    translation:
+      en: as long as / until
+      ko: ~하는 한 / ~할 때까지
+    gender: null
+  - italian: a meno che
+    translation:
+      en: unless
+      ko: ~하지 않는 한
+    gender: null
+    notes:
+      en: Always triggers subjunctive
+      ko: 항상 접속법을 유발
+- id: discourse_markers
+  label:
+    en: Discourse Markers
+    ko: 담화 표지
+  type: vocabulary
+  words:
+  - italian: allora
+    translation:
+      en: so / then / well
+      ko: 그래서 / 그럼 / 자
+    gender: null
+    notes:
+      en: Very common conversation starter and filler
+      ko: 매우 일반적인 대화 시작어 및 군말
+  - italian: comunque
+    translation:
+      en: anyway / in any case
+      ko: 어쨌든 / 아무튼
+    gender: null
+  - italian: insomma
+    translation:
+      en: in short / well / basically
+      ko: 요컨대 / 그러니까
+    gender: null
+  - italian: cioè
+    translation:
+      en: that is / I mean
+      ko: 즉 / 그러니까
+    gender: null
+  - italian: praticamente
+    translation:
+      en: practically / basically
+      ko: 사실상 / 기본적으로
+    gender: null
+  - italian: magari
+    translation:
+      en: maybe / I wish / perhaps
+      ko: 어쩌면 / ~하면 좋겠다
+    gender: null
+  - italian: appunto
+    translation:
+      en: exactly / precisely
+      ko: 바로 그거야 / 정확히
+    gender: null
+  - italian: addirittura
+    translation:
+      en: even / actually / as much as
+      ko: 심지어 / 무려
+    gender: null
+  - italian: piuttosto
+    translation:
+      en: rather / quite
+      ko: 오히려 / 꽤
+    gender: null
+  - italian: semmai
+    translation:
+      en: if anything / if at all
+      ko: 만일 그렇다면 / 기껏해야
+    gender: null
+  - italian: purtroppo
+    translation:
+      en: unfortunately
+      ko: 불행히도 / 안타깝게도
+    gender: null
+  - italian: per fortuna
+    translation:
+      en: fortunately / luckily
+      ko: 다행히도
+    gender: null
+  - italian: in realtà
+    translation:
+      en: in reality / actually
+      ko: 사실은
+    gender: null
+  - italian: a dire il vero
+    translation:
+      en: to tell the truth
+      ko: 사실을 말하자면
+    gender: null
+  - italian: ecco
+    translation:
+      en: here is / there is / that's it
+      ko: 여기 있다 / 바로 그거야
+    gender: null
+    notes:
+      en: Very versatile; used to present, explain, or confirm
+      ko: 매우 다용도; 제시, 설명, 또는 확인에 사용
+- id: text_organizers
+  label:
+    en: Text Organizers
+    ko: 텍스트 구성어
+  type: vocabulary
+  words:
+  - italian: innanzitutto
+    translation:
+      en: first of all / above all
+      ko: 무엇보다도 / 우선
+    gender: null
+  - italian: in primo luogo
+    translation:
+      en: in the first place / firstly
+      ko: 첫째로
+    gender: null
+  - italian: in secondo luogo
+    translation:
+      en: in the second place / secondly
+      ko: 둘째로
+    gender: null
+  - italian: inoltre
+    translation:
+      en: furthermore / moreover
+      ko: 게다가 / 더욱이
+    gender: null
+  - italian: infine
+    translation:
+      en: finally / lastly
+      ko: 마지막으로
+    gender: null
+  - italian: in conclusione
+    translation:
+      en: in conclusion
+      ko: 결론적으로
+    gender: null
+  - italian: da un lato
+    translation:
+      en: on one hand
+      ko: 한편으로는
+    gender: null
+  - italian: dall'altro (lato)
+    translation:
+      en: on the other hand
+      ko: 다른 한편으로는
+    gender: null
+  - italian: in sintesi
+    translation:
+      en: in summary / in short
+      ko: 요약하면
+    gender: null
+  - italian: per concludere
+    translation:
+      en: to conclude
+      ko: 결론짓자면
+    gender: null
+  - italian: per riassumere
+    translation:
+      en: to summarize
+      ko: 요약하자면
+    gender: null
+  - italian: a questo proposito
+    translation:
+      en: in this regard
+      ko: 이와 관련하여
+    gender: null
+  - italian: in particolare
+    translation:
+      en: in particular
+      ko: 특히
+    gender: null
+  - italian: per quanto riguarda
+    translation:
+      en: as regards / concerning
+      ko: ~에 관해서는
+    gender: null
+  - italian: come abbiamo visto
+    translation:
+      en: as we have seen
+      ko: 우리가 보았듯이
+    gender: null
+  - italian: vale la pena notare
+    translation:
+      en: it is worth noting
+      ko: 주목할 가치가 있다
+    gender: null
+  - italian: a titolo di esempio
+    translation:
+      en: by way of example
+      ko: 예를 들어
+    gender: null
+  - italian: per essere precisi
+    translation:
+      en: to be precise
+      ko: 정확히 말하자면
+    gender: null
+  - italian: come già detto
+    translation:
+      en: as already mentioned
+      ko: 이미 언급했듯이
+    gender: null
+  - italian: in definitiva
+    translation:
+      en: in the end / ultimately
+      ko: 결국 / 궁극적으로
+    gender: null
+  - italian: tutto sommato
+    translation:
+      en: all things considered / all in all
+      ko: 모든 것을 고려하면
+    gender: null
