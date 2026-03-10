@@ -1,0 +1,376 @@
+lesson: 22_Writing_in_Italian
+lesson_number: 22
+cefr: B2-C1
+categories:
+- id: punctuation
+  label:
+    en: Punctuation
+    ko: 구두점
+  type: vocabulary
+  words:
+  - italian: il punto
+    translation:
+      en: the period / full stop
+      ko: 마침표
+    gender: m
+    notes:
+      en: Also called 'punto fermo'
+      ko: "'punto fermo'라고도 함"
+  - italian: la virgola
+    translation:
+      en: the comma
+      ko: 쉼표
+    gender: f
+  - italian: il punto e virgola
+    translation:
+      en: the semicolon
+      ko: 세미콜론
+    gender: m
+    notes:
+      en: Less common in modern Italian writing
+      ko: 현대 이탈리아어 글쓰기에서 덜 흔함
+  - italian: i due punti
+    translation:
+      en: the colon
+      ko: 콜론
+    gender: m
+    notes:
+      en: Lit. 'the two points'
+      ko: 직역 '두 개의 점'
+  - italian: il punto esclamativo
+    translation:
+      en: the exclamation mark
+      ko: 느낌표
+    gender: m
+  - italian: il punto interrogativo
+    translation:
+      en: the question mark
+      ko: 물음표
+    gender: m
+  - italian: le virgolette
+    translation:
+      en: the quotation marks
+      ko: 따옴표
+    gender: f
+    notes:
+      en: Italian uses «guillemets» or "double quotes"
+      ko: 이탈리아어는 «꺾쇠 따옴표» 또는 "큰따옴표" 사용
+  - italian: le parentesi
+    translation:
+      en: the parentheses
+      ko: 괄호
+    gender: f
+    notes:
+      en: "'Parentesi tonde' = round; 'parentesi quadre' = square brackets"
+      ko: "'parentesi tonde' = 소괄호; 'parentesi quadre' = 대괄호"
+  - italian: la lineetta
+    translation:
+      en: the dash
+      ko: 대시
+    gender: f
+    notes:
+      en: Also called 'il trattino' for hyphen
+      ko: 하이픈은 'il trattino'이라고도 함
+  - italian: i puntini di sospensione
+    translation:
+      en: the ellipsis (...)
+      ko: 줄임표 (...)
+    gender: m
+    notes:
+      en: Always exactly three dots in Italian typography
+      ko: 이탈리아어 타이포그래피에서 항상 정확히 세 개의 점
+  - italian: l'apostrofo
+    translation:
+      en: the apostrophe
+      ko: 아포스트로피
+    gender: m
+    notes:
+      en: Marks elision; 'l'uomo' from 'lo uomo'
+      ko: 모음 탈락 표시; 'lo uomo'에서 'l'uomo'
+  - italian: l'accento
+    translation:
+      en: the accent mark
+      ko: 악센트 부호
+    gender: m
+    notes:
+      en: Required on final stressed syllables; grave (è) vs acute (é)
+      ko: 마지막 강세 음절에 필수; 그라브(è) 대 아큐트(é)
+- id: letter_writing
+  label:
+    en: Letter and Email Writing
+    ko: 편지 및 이메일 작성
+  type: vocabulary
+  words:
+  - italian: Egregio/Egregia
+    translation:
+      en: Dear (very formal, m/f)
+      ko: 귀하 (매우 격식, 남/여)
+    gender: null
+    notes:
+      en: Used in very formal correspondence; 'Egregio Dottore'
+      ko: 매우 격식적인 서신에 사용; 'Egregio Dottore'
+  - italian: Gentile
+    translation:
+      en: Dear (formal)
+      ko: 친애하는 (격식)
+    gender: null
+    notes:
+      en: Most common formal salutation; 'Gentile Signora Rossi'
+      ko: 가장 흔한 격식적 인사; 'Gentile Signora Rossi'
+  - italian: Spettabile
+    translation:
+      en: Dear (for companies/organizations)
+      ko: 귀사 / 귀 기관
+    gender: null
+    notes:
+      en: Abbreviated 'Spett.le'; used for companies only
+      ko: "'Spett.le'로 줄임; 회사에만 사용"
+  - italian: Distinti saluti
+    translation:
+      en: Yours faithfully / Sincerely
+      ko: 경의를 표하며
+    gender: null
+    notes:
+      en: Very formal closing
+      ko: 매우 격식적인 마무리
+  - italian: Cordiali saluti
+    translation:
+      en: Kind regards / Best regards
+      ko: 친절한 인사를 드리며
+    gender: null
+    notes:
+      en: Standard formal closing; slightly less formal than 'Distinti saluti'
+      ko: 표준 격식 마무리; 'Distinti saluti'보다 약간 덜 격식적
+  - italian: In allegato
+    translation:
+      en: Attached / Enclosed
+      ko: 첨부하여
+    gender: null
+    notes:
+      en: Used in emails and formal letters
+      ko: 이메일과 격식 편지에서 사용
+  - italian: In riferimento a
+    translation:
+      en: With reference to / Regarding
+      ko: ~에 관하여
+    gender: null
+  - italian: Con la presente
+    translation:
+      en: By this letter / Hereby
+      ko: 본 서신을 통해
+    gender: null
+    notes:
+      en: Very formal opening phrase
+      ko: 매우 격식적인 서두 표현
+  - italian: Resto a disposizione
+    translation:
+      en: I remain at your disposal
+      ko: 도움이 필요하시면 말씀해 주십시오
+    gender: null
+    notes:
+      en: Common formal closing phrase before salutation
+      ko: 인사 전에 사용하는 흔한 격식 마무리 표현
+  - italian: Caro/Cara
+    translation:
+      en: Dear (informal, m/f)
+      ko: 친애하는 (비격식, 남/여)
+    gender: null
+    notes:
+      en: For personal letters and emails to friends
+      ko: 친구에게 보내는 개인 편지와 이메일에 사용
+  - italian: Un abbraccio
+    translation:
+      en: A hug / Warm regards (informal closing)
+      ko: 포옹을 보내며 (비격식 마무리)
+    gender: null
+  - italian: A presto
+    translation:
+      en: See you soon (informal closing)
+      ko: 곧 만나요 (비격식 마무리)
+    gender: null
+  - italian: il destinatario
+    translation:
+      en: the recipient / addressee
+      ko: 수신인
+    gender: m
+  - italian: il mittente
+    translation:
+      en: the sender
+      ko: 발신인
+    gender: m
+  - italian: l'oggetto
+    translation:
+      en: the subject line
+      ko: 제목
+    gender: m
+    notes:
+      en: "'Oggetto:' in emails and formal letters"
+      ko: 이메일과 격식 편지에서 'Oggetto:'
+- id: essay_terms
+  label:
+    en: Essay Writing Terms
+    ko: 에세이 작성 용어
+  type: vocabulary
+  words:
+  - italian: l'introduzione
+    translation:
+      en: the introduction
+      ko: 서론
+    gender: f
+  - italian: lo svolgimento
+    translation:
+      en: the development / body (of essay)
+      ko: 본론 / 전개부
+    gender: m
+    notes:
+      en: The main body of an essay or composition
+      ko: 에세이나 작문의 주요 본문
+  - italian: la conclusione
+    translation:
+      en: the conclusion
+      ko: 결론
+    gender: f
+  - italian: la tesi
+    translation:
+      en: the thesis / argument
+      ko: 논지 / 주장
+    gender: f
+  - italian: l'argomento
+    translation:
+      en: the argument / topic
+      ko: 논거 / 주제
+    gender: m
+  - italian: l'esempio
+    translation:
+      en: the example
+      ko: 예시
+    gender: m
+  - italian: la citazione
+    translation:
+      en: the quotation / citation
+      ko: 인용
+    gender: f
+  - italian: il paragrafo
+    translation:
+      en: the paragraph
+      ko: 단락
+    gender: m
+  - italian: la scaletta
+    translation:
+      en: the outline
+      ko: 개요
+    gender: f
+    notes:
+      en: Lit. 'little ladder'; the structured plan before writing
+      ko: 직역 '작은 사다리'; 글쓰기 전 구조화된 계획
+  - italian: la bozza
+    translation:
+      en: the draft
+      ko: 초안
+    gender: f
+  - italian: la revisione
+    translation:
+      en: the revision
+      ko: 수정 / 검토
+    gender: f
+  - italian: la stesura
+    translation:
+      en: the drafting / writing process
+      ko: 집필 과정
+    gender: f
+    notes:
+      en: "'Prima stesura' = first draft; 'stesura finale' = final draft"
+      ko: "'prima stesura' = 초안; 'stesura finale' = 최종본"
+- id: connectors
+  label:
+    en: Connectors and Linking Words
+    ko: 접속사와 연결어
+  type: vocabulary
+  words:
+  - italian: innanzitutto
+    translation:
+      en: first of all / above all
+      ko: 무엇보다도 / 우선
+    gender: null
+  - italian: inoltre
+    translation:
+      en: furthermore / moreover
+      ko: 게다가 / 또한
+    gender: null
+  - italian: tuttavia
+    translation:
+      en: however / nevertheless
+      ko: 그러나 / 그럼에도 불구하고
+    gender: null
+  - italian: in conclusione
+    translation:
+      en: in conclusion
+      ko: 결론적으로
+    gender: null
+  - italian: per esempio / ad esempio
+    translation:
+      en: for example
+      ko: 예를 들어
+    gender: null
+    notes:
+      en: Both are interchangeable; 'ad esempio' is slightly more formal
+      ko: 둘 다 교환 가능; 'ad esempio'가 약간 더 격식적
+  - italian: in altre parole
+    translation:
+      en: in other words
+      ko: 다시 말해서
+    gender: null
+  - italian: di conseguenza
+    translation:
+      en: as a consequence / consequently
+      ko: 결과적으로
+    gender: null
+  - italian: nonostante
+    translation:
+      en: despite / in spite of
+      ko: ~에도 불구하고
+    gender: null
+    notes:
+      en: Followed by noun or subjunctive clause
+      ko: 명사 또는 접속법 절이 뒤따름
+  - italian: per quanto riguarda
+    translation:
+      en: as for / regarding
+      ko: ~에 관해서는
+    gender: null
+  - italian: da un lato... dall'altro
+    translation:
+      en: on one hand... on the other
+      ko: 한편으로는... 다른 한편으로는
+    gender: null
+  - italian: in primo luogo / in secondo luogo
+    translation:
+      en: firstly / secondly
+      ko: 첫째 / 둘째
+    gender: null
+  - italian: vale a dire
+    translation:
+      en: that is to say / namely
+      ko: 즉 / 다시 말하면
+    gender: null
+  - italian: pertanto
+    translation:
+      en: therefore
+      ko: 따라서
+    gender: null
+    notes:
+      en: Formal; equivalent to 'quindi' or 'perciò'
+      ko: 격식적; 'quindi'나 'perciò'와 동의어
+  - italian: a mio avviso / a mio parere
+    translation:
+      en: in my opinion
+      ko: 내 생각에는
+    gender: null
+    notes:
+      en: Formal way to express opinion; less formal is 'secondo me'
+      ko: 의견을 표현하는 격식적 방법; 덜 격식적인 표현은 'secondo me'
+  - italian: in sintesi
+    translation:
+      en: in summary / to sum up
+      ko: 요약하자면
+    gender: null
