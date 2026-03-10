@@ -1,0 +1,363 @@
+lesson: 21_Reading_Comprehension
+lesson_number: 21
+cefr: B2
+categories:
+- id: reading_terms
+  label:
+    en: Reading Terminology
+    ko: 읽기 용어
+  type: vocabulary
+  words:
+  - italian: il testo
+    translation:
+      en: the text
+      ko: 텍스트 / 글
+    gender: m
+  - italian: il brano
+    translation:
+      en: the passage / excerpt
+      ko: 발췌문 / 단락
+    gender: m
+    notes:
+      en: Used in exams for reading comprehension passages
+      ko: 시험에서 독해 지문에 사용됨
+  - italian: il paragrafo
+    translation:
+      en: the paragraph
+      ko: 단락
+    gender: m
+  - italian: il capoverso
+    translation:
+      en: the paragraph / indented line
+      ko: 문단 / 들여쓰기 줄
+    gender: m
+    notes:
+      en: More formal than 'paragrafo'; refers to the indented first line
+      ko: "'paragrafo'보다 격식적; 들여쓰기된 첫 줄을 가리킴"
+  - italian: il riassunto
+    translation:
+      en: the summary
+      ko: 요약
+    gender: m
+  - italian: l'argomento
+    translation:
+      en: the topic / subject
+      ko: 주제 / 화제
+    gender: m
+  - italian: il tema
+    translation:
+      en: the theme / essay
+      ko: 주제 / 작문
+    gender: m
+    notes:
+      en: Also means a written essay assignment in school
+      ko: 학교에서 작문 과제를 의미하기도 함
+  - italian: la tesi
+    translation:
+      en: the thesis / argument
+      ko: 논지 / 논문
+    gender: f
+    notes:
+      en: Invariable; also refers to a university thesis
+      ko: 불변; 대학 논문도 의미함
+  - italian: la conclusione
+    translation:
+      en: the conclusion
+      ko: 결론
+    gender: f
+  - italian: il contesto
+    translation:
+      en: the context
+      ko: 맥락
+    gender: m
+  - italian: il significato
+    translation:
+      en: the meaning
+      ko: 의미
+    gender: m
+  - italian: il contenuto
+    translation:
+      en: the content
+      ko: 내용
+    gender: m
+  - italian: il messaggio
+    translation:
+      en: the message
+      ko: 메시지
+    gender: m
+    notes:
+      en: "'Il messaggio dell'autore' = the author's message"
+      ko: "'il messaggio dell'autore' = 저자의 메시지"
+- id: text_types
+  label:
+    en: Text Types
+    ko: 텍스트 유형
+  type: vocabulary
+  words:
+  - italian: l'articolo
+    translation:
+      en: the article
+      ko: 기사 / 글
+    gender: m
+    notes:
+      en: Newspaper or magazine article
+      ko: 신문이나 잡지 기사
+  - italian: il romanzo
+    translation:
+      en: the novel
+      ko: 소설
+    gender: m
+  - italian: il racconto
+    translation:
+      en: the short story
+      ko: 단편 소설
+    gender: m
+  - italian: la poesia
+    translation:
+      en: the poem / poetry
+      ko: 시
+    gender: f
+  - italian: il saggio
+    translation:
+      en: the essay
+      ko: 수필 / 에세이
+    gender: m
+    notes:
+      en: Also means 'wise' as an adjective
+      ko: 형용사로 '현명한'이라는 뜻도 있음
+  - italian: la recensione
+    translation:
+      en: the review
+      ko: 서평 / 비평
+    gender: f
+  - italian: l'intervista
+    translation:
+      en: the interview
+      ko: 인터뷰
+    gender: f
+  - italian: il rapporto
+    translation:
+      en: the report
+      ko: 보고서
+    gender: m
+  - italian: la cronaca
+    translation:
+      en: the chronicle / news report
+      ko: 연대기 / 뉴스 보도
+    gender: f
+    notes:
+      en: "'Cronaca nera' = crime news; 'cronaca rosa' = celebrity gossip"
+      ko: "'cronaca nera' = 범죄 뉴스; 'cronaca rosa' = 연예 가십"
+  - italian: la fiaba
+    translation:
+      en: the fairy tale
+      ko: 동화
+    gender: f
+    notes:
+      en: "'Le fiabe italiane' by Italo Calvino is a famous collection"
+      ko: 이탈로 칼비노의 '이탈리아 동화'는 유명한 모음집
+  - italian: il fumetto
+    translation:
+      en: the comic / graphic novel
+      ko: 만화
+    gender: m
+    notes:
+      en: Lit. 'little puff of smoke' (speech bubble); Italian comics have a rich tradition
+      ko: 직역 '작은 연기' (말풍선); 이탈리아 만화는 풍부한 전통이 있음
+  - italian: la biografia
+    translation:
+      en: the biography
+      ko: 전기
+    gender: f
+  - italian: il giornale
+    translation:
+      en: the newspaper
+      ko: 신문
+    gender: m
+  - italian: la rivista
+    translation:
+      en: the magazine
+      ko: 잡지
+    gender: f
+- id: comprehension_strategies
+  label:
+    en: Comprehension Strategies
+    ko: 독해 전략
+  type: vocabulary
+  words:
+  - italian: leggere
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    notes:
+      en: Irregular past participle 'letto'
+      ko: 불규칙 과거분사 'letto'
+  - italian: rileggere
+    translation:
+      en: to reread
+      ko: 다시 읽다
+    gender: null
+    notes:
+      en: Prefix 'ri-' + leggere
+      ko: 접두사 'ri-' + leggere
+  - italian: sottolineare
+    translation:
+      en: to underline
+      ko: 밑줄 치다
+    gender: null
+  - italian: evidenziare
+    translation:
+      en: to highlight
+      ko: 형광펜으로 표시하다
+    gender: null
+    notes:
+      en: "'L'evidenziatore' = the highlighter (pen)"
+      ko: "'l'evidenziatore' = 형광펜"
+  - italian: annotare
+    translation:
+      en: to annotate / to jot down
+      ko: 주석을 달다 / 메모하다
+    gender: null
+  - italian: riassumere
+    translation:
+      en: to summarize
+      ko: 요약하다
+    gender: null
+    notes:
+      en: Irregular past participle 'riassunto'
+      ko: 불규칙 과거분사 'riassunto'
+  - italian: parafrasare
+    translation:
+      en: to paraphrase
+      ko: 의역하다
+    gender: null
+  - italian: interpretare
+    translation:
+      en: to interpret
+      ko: 해석하다
+    gender: null
+  - italian: analizzare
+    translation:
+      en: to analyze
+      ko: 분석하다
+    gender: null
+  - italian: confrontare
+    translation:
+      en: to compare
+      ko: 비교하다
+    gender: null
+  - italian: dedurre
+    translation:
+      en: to deduce / to infer
+      ko: 추론하다
+    gender: null
+    notes:
+      en: Irregular past participle 'dedotto'
+      ko: 불규칙 과거분사 'dedotto'
+  - italian: individuare
+    translation:
+      en: to identify / to pinpoint
+      ko: 식별하다 / 찾아내다
+    gender: null
+  - italian: comprendere
+    translation:
+      en: to comprehend / to understand
+      ko: 이해하다 / 파악하다
+    gender: null
+    notes:
+      en: More formal than 'capire'; irregular past participle 'compreso'
+      ko: "'capire'보다 격식적; 불규칙 과거분사 'compreso'"
+  - italian: sfogliare
+    translation:
+      en: to leaf through / to skim
+      ko: 훑어보다 / 대충 넘기다
+    gender: null
+- id: literary_terms
+  label:
+    en: Literary Terms
+    ko: 문학 용어
+  type: vocabulary
+  words:
+  - italian: il protagonista
+    translation:
+      en: the protagonist
+      ko: 주인공
+    gender: m
+    notes:
+      en: "'La protagonista' for female; from Greek 'protos' + 'agonistes'"
+      ko: 여성은 'la protagonista'; 그리스어 'protos' + 'agonistes'에서 유래
+  - italian: l'autore / l'autrice
+    translation:
+      en: the author (m/f)
+      ko: 작가 (남/여)
+    gender: m/f
+  - italian: la trama
+    translation:
+      en: the plot
+      ko: 줄거리
+    gender: f
+  - italian: il genere
+    translation:
+      en: the genre
+      ko: 장르
+    gender: m
+    notes:
+      en: Also means 'gender' and 'kind/type'
+      ko: "'성별'과 '종류/유형'이라는 뜻도 있음"
+  - italian: lo stile
+    translation:
+      en: the style
+      ko: 문체 / 스타일
+    gender: m
+  - italian: la metafora
+    translation:
+      en: the metaphor
+      ko: 은유
+    gender: f
+  - italian: il simbolo
+    translation:
+      en: the symbol
+      ko: 상징
+    gender: m
+  - italian: l'ironia
+    translation:
+      en: irony
+      ko: 아이러니
+    gender: f
+  - italian: il narratore
+    translation:
+      en: the narrator
+      ko: 화자 / 서술자
+    gender: m
+    notes:
+      en: "'La narratrice' for female narrator"
+      ko: 여성 서술자는 'la narratrice'
+  - italian: il personaggio
+    translation:
+      en: the character
+      ko: 등장인물
+    gender: m
+  - italian: l'ambientazione
+    translation:
+      en: the setting
+      ko: 배경
+    gender: f
+  - italian: il punto di vista
+    translation:
+      en: the point of view
+      ko: 관점
+    gender: m
+  - italian: il colpo di scena
+    translation:
+      en: the plot twist
+      ko: 반전
+    gender: m
+    notes:
+      en: Lit. 'blow of the scene'; a dramatic turning point
+      ko: 직역 '장면의 일격'; 극적인 전환점
+  - italian: la morale
+    translation:
+      en: the moral (of a story)
+      ko: 교훈
+    gender: f
