@@ -1,0 +1,500 @@
+lesson: 07_Pronouns_and_Prepositions
+lesson_number: 7
+cefr: A2
+categories:
+- id: 71_subject_pronouns
+  label:
+    en: 7.1 Subject Pronouns
+    ko: 7.1 주격 대명사
+  type: vocabulary
+  words:
+  - italian: io
+    translation:
+      en: I
+      ko: 나
+    gender: null
+    notes:
+      en: Often omitted since verb conjugation indicates the subject
+      ko: 동사 활용이 주어를 나타내므로 종종 생략
+  - italian: tu
+    translation:
+      en: you (informal singular)
+      ko: 너
+    gender: null
+  - italian: lui
+    translation:
+      en: he
+      ko: 그
+    gender: m
+  - italian: lei
+    translation:
+      en: she
+      ko: 그녀
+    gender: f
+  - italian: Lei
+    translation:
+      en: you (formal singular)
+      ko: 당신 (격식)
+    gender: null
+    notes:
+      en: Capitalized in writing to distinguish from 'lei' (she); uses 3rd person verb
+      ko: "'lei'(그녀)와 구별하기 위해 대문자로 표기; 3인칭 동사 사용"
+  - italian: noi
+    translation:
+      en: we
+      ko: 우리
+    gender: null
+  - italian: voi
+    translation:
+      en: you (plural)
+      ko: 너희 / 여러분
+    gender: null
+  - italian: loro
+    translation:
+      en: they
+      ko: 그들
+    gender: null
+- id: 72_direct_object
+  label:
+    en: 7.2 Direct Object Pronouns
+    ko: 7.2 직접 목적격 대명사
+  type: vocabulary
+  words:
+  - italian: mi
+    translation:
+      en: me
+      ko: 나를
+    gender: null
+  - italian: ti
+    translation:
+      en: you (informal)
+      ko: 너를
+    gender: null
+  - italian: lo
+    translation:
+      en: him / it (m)
+      ko: 그를 / 그것을 (남)
+    gender: m
+    notes:
+      en: Placed before the conjugated verb
+      ko: 활용된 동사 앞에 위치
+  - italian: la
+    translation:
+      en: her / it (f) / you (formal)
+      ko: 그녀를 / 그것을 (여) / 당신을 (격식)
+    gender: f
+  - italian: ci
+    translation:
+      en: us
+      ko: 우리를
+    gender: null
+  - italian: vi
+    translation:
+      en: you (plural)
+      ko: 너희를
+    gender: null
+  - italian: li
+    translation:
+      en: them (m)
+      ko: 그들을 (남)
+    gender: m
+  - italian: le
+    translation:
+      en: them (f)
+      ko: 그들을 (여)
+    gender: f
+- id: 73_indirect_object
+  label:
+    en: 7.3 Indirect Object Pronouns
+    ko: 7.3 간접 목적격 대명사
+  type: vocabulary
+  words:
+  - italian: mi
+    translation:
+      en: to me
+      ko: 나에게
+    gender: null
+  - italian: ti
+    translation:
+      en: to you (informal)
+      ko: 너에게
+    gender: null
+  - italian: gli
+    translation:
+      en: to him
+      ko: 그에게
+    gender: m
+  - italian: le
+    translation:
+      en: to her / to you (formal)
+      ko: 그녀에게 / 당신에게 (격식)
+    gender: f
+  - italian: Le
+    translation:
+      en: to you (formal)
+      ko: 당신에게 (격식)
+    gender: null
+    notes:
+      en: Capitalized to distinguish from 'le' (to her / them f)
+      ko: "'le'(그녀에게 / 그들에게 여)와 구별하기 위해 대문자 표기"
+  - italian: ci
+    translation:
+      en: to us
+      ko: 우리에게
+    gender: null
+  - italian: vi
+    translation:
+      en: to you (plural)
+      ko: 너희에게
+    gender: null
+  - italian: gli / loro
+    translation:
+      en: to them
+      ko: 그들에게
+    gender: null
+    notes:
+      en: "'gli' (before verb) is more common in modern Italian than 'loro' (after verb)"
+      ko: "현대 이탈리아어에서 'gli'(동사 앞)가 'loro'(동사 뒤)보다 더 일반적"
+- id: 74_reflexive
+  label:
+    en: 7.4 Reflexive Pronouns
+    ko: 7.4 재귀 대명사
+  type: vocabulary
+  words:
+  - italian: mi
+    translation:
+      en: myself
+      ko: 나 자신을
+    gender: null
+  - italian: ti
+    translation:
+      en: yourself (informal)
+      ko: 너 자신을
+    gender: null
+  - italian: si
+    translation:
+      en: himself / herself / itself / yourself (formal)
+      ko: 그(녀) 자신을 / 당신 자신을 (격식)
+    gender: null
+  - italian: ci
+    translation:
+      en: ourselves
+      ko: 우리 자신을
+    gender: null
+  - italian: vi
+    translation:
+      en: yourselves
+      ko: 너희 자신을
+    gender: null
+  - italian: si
+    translation:
+      en: themselves
+      ko: 그들 자신을
+    gender: null
+    notes:
+      en: Same form as 3rd person singular
+      ko: 3인칭 단수와 형태 동일
+- id: 75_prepositions
+  label:
+    en: 7.5 Simple Prepositions
+    ko: 7.5 단순 전치사
+  type: vocabulary
+  words:
+  - italian: di
+    translation:
+      en: of / from
+      ko: ~의 / ~에서
+    gender: null
+    notes:
+      en: Indicates possession, origin, material
+      ko: 소유, 출처, 재료를 나타냄
+  - italian: a
+    translation:
+      en: to / at / in
+      ko: ~에 / ~으로
+    gender: null
+    notes:
+      en: "Direction, location with cities — Vado a Roma."
+      ko: "방향, 도시와 함께 사용 — Vado a Roma."
+  - italian: da
+    translation:
+      en: from / by / at (someone's place)
+      ko: ~에서 / ~에 의해 / ~의 집에
+    gender: null
+    notes:
+      en: "Vado da Marco. — I'm going to Marco's place."
+      ko: "Vado da Marco. — 마르코 집에 간다."
+  - italian: in
+    translation:
+      en: in / to
+      ko: ~안에 / ~으로
+    gender: null
+    notes:
+      en: "Used with countries, regions — Vivo in Italia."
+      ko: "나라, 지역과 함께 사용 — Vivo in Italia."
+  - italian: con
+    translation:
+      en: with
+      ko: ~와 함께
+    gender: null
+  - italian: su
+    translation:
+      en: on / upon / about
+      ko: ~위에 / ~에 대해
+    gender: null
+  - italian: per
+    translation:
+      en: for / through / in order to
+      ko: ~를 위해 / ~을 통해
+    gender: null
+  - italian: tra / fra
+    translation:
+      en: between / among / in (time)
+      ko: ~사이에 / ~후에 (시간)
+    gender: null
+    notes:
+      en: "'tra' and 'fra' are interchangeable"
+      ko: "'tra'와 'fra'는 교환 가능"
+  - italian: al (a + il)
+    translation:
+      en: to the / at the (m.sg)
+      ko: ~에 / ~으로 (남.단)
+    gender: null
+    notes:
+      en: Articulated preposition; a + il = al
+      ko: 관사 결합 전치사; a + il = al
+  - italian: del (di + il)
+    translation:
+      en: of the (m.sg)
+      ko: ~의 (남.단)
+    gender: null
+    notes:
+      en: Articulated preposition; di + il = del
+      ko: 관사 결합 전치사; di + il = del
+  - italian: dal (da + il)
+    translation:
+      en: from the (m.sg)
+      ko: ~에서 (남.단)
+    gender: null
+    notes:
+      en: Articulated preposition; da + il = dal
+      ko: 관사 결합 전치사; da + il = dal
+  - italian: nel (in + il)
+    translation:
+      en: in the (m.sg)
+      ko: ~안의 (남.단)
+    gender: null
+    notes:
+      en: Articulated preposition; in + il = nel
+      ko: 관사 결합 전치사; in + il = nel
+  - italian: sul (su + il)
+    translation:
+      en: on the (m.sg)
+      ko: ~위의 (남.단)
+    gender: null
+    notes:
+      en: Articulated preposition; su + il = sul
+      ko: 관사 결합 전치사; su + il = sul
+  - italian: alla (a + la)
+    translation:
+      en: to the / at the (f.sg)
+      ko: ~에 / ~으로 (여.단)
+    gender: null
+  - italian: della (di + la)
+    translation:
+      en: of the (f.sg)
+      ko: ~의 (여.단)
+    gender: null
+  - italian: nella (in + la)
+    translation:
+      en: in the (f.sg)
+      ko: ~안의 (여.단)
+    gender: null
+  - italian: ai (a + i)
+    translation:
+      en: to the / at the (m.pl)
+      ko: ~에 / ~으로 (남.복)
+    gender: null
+  - italian: dei (di + i)
+    translation:
+      en: of the (m.pl) / some
+      ko: ~의 (남.복) / 약간의
+    gender: null
+    notes:
+      en: Also used as partitive article meaning 'some'
+      ko: 약간의를 의미하는 부분관사로도 사용
+  - italian: delle (di + le)
+    translation:
+      en: of the (f.pl) / some
+      ko: ~의 (여.복) / 약간의
+    gender: null
+  - italian: negli (in + gli)
+    translation:
+      en: in the (m.pl before vowel/z/s+cons)
+      ko: ~안의 (남.복, 모음/z/s+자음 앞)
+    gender: null
+  - italian: dagli (da + gli)
+    translation:
+      en: from the (m.pl before vowel/z/s+cons)
+      ko: ~에서 (남.복, 모음/z/s+자음 앞)
+    gender: null
+  - italian: sotto
+    translation:
+      en: under / below
+      ko: ~아래에
+    gender: null
+  - italian: sopra
+    translation:
+      en: above / over
+      ko: ~위에
+    gender: null
+  - italian: davanti a
+    translation:
+      en: in front of
+      ko: ~앞에
+    gender: null
+  - italian: dietro
+    translation:
+      en: behind
+      ko: ~뒤에
+    gender: null
+  - italian: dentro
+    translation:
+      en: inside
+      ko: ~안에
+    gender: null
+  - italian: fuori
+    translation:
+      en: outside
+      ko: ~밖에
+    gender: null
+  - italian: accanto a
+    translation:
+      en: next to / beside
+      ko: ~옆에
+    gender: null
+  - italian: intorno a
+    translation:
+      en: around
+      ko: ~주위에
+    gender: null
+  - italian: verso
+    translation:
+      en: toward / around (time)
+      ko: ~쪽으로 / ~경 (시간)
+    gender: null
+  - italian: lungo
+    translation:
+      en: along
+      ko: ~을 따라
+    gender: null
+  - italian: fino a
+    translation:
+      en: until / up to
+      ko: ~까지
+    gender: null
+  - italian: senza
+    translation:
+      en: without
+      ko: ~없이
+    gender: null
+  - italian: durante
+    translation:
+      en: during
+      ko: ~동안
+    gender: null
+  - italian: dopo
+    translation:
+      en: after
+      ko: ~후에
+    gender: null
+  - italian: prima di
+    translation:
+      en: before
+      ko: ~전에
+    gender: null
+  - italian: invece di
+    translation:
+      en: instead of
+      ko: ~대신에
+    gender: null
+- id: 76_demonstratives
+  label:
+    en: 7.6 Demonstratives
+    ko: 7.6 지시사
+  type: vocabulary
+  words:
+  - italian: questo / questa
+    translation:
+      en: this (m/f)
+      ko: 이것 (남/여)
+    gender: null
+    notes:
+      en: "Plural: questi (m), queste (f)"
+      ko: "복수: questi (남), queste (여)"
+  - italian: quello / quella
+    translation:
+      en: that (m/f)
+      ko: 저것 (남/여)
+    gender: null
+    notes:
+      en: Before nouns, follows special forms like 'quel', 'quei', 'quegli'
+      ko: 명사 앞에서 'quel', 'quei', 'quegli' 등 특수 형태를 가짐
+  - italian: ciò
+    translation:
+      en: this / that (abstract)
+      ko: 이것 / 저것 (추상적)
+    gender: null
+    notes:
+      en: Used for abstract concepts; invariable
+      ko: 추상적 개념에 사용; 불변
+  - italian: stesso / stessa
+    translation:
+      en: same / self (m/f)
+      ko: 같은 / 자체 (남/여)
+    gender: null
+- id: 77_possessives
+  label:
+    en: 7.7 Possessive Adjectives
+    ko: 7.7 소유 형용사
+  type: vocabulary
+  words:
+  - italian: mio / mia
+    translation:
+      en: my (m/f)
+      ko: 나의 (남/여)
+    gender: null
+    notes:
+      en: "Plural: miei (m), mie (f); used with article — il mio libro"
+      ko: "복수: miei (남), mie (여); 관사와 함께 사용 — il mio libro"
+  - italian: tuo / tua
+    translation:
+      en: your (informal, m/f)
+      ko: 너의 (남/여)
+    gender: null
+  - italian: suo / sua
+    translation:
+      en: his / her / your (formal, m/f)
+      ko: 그의 / 그녀의 / 당신의 (격식, 남/여)
+    gender: null
+    notes:
+      en: Agrees with the thing possessed, not the possessor
+      ko: 소유자가 아닌 소유물의 성별에 일치
+  - italian: nostro / nostra
+    translation:
+      en: our (m/f)
+      ko: 우리의 (남/여)
+    gender: null
+  - italian: vostro / vostra
+    translation:
+      en: your (plural, m/f)
+      ko: 너희의 (남/여)
+    gender: null
+  - italian: loro
+    translation:
+      en: their
+      ko: 그들의
+    gender: null
+    notes:
+      en: Invariable; does not change for gender or number — il loro libro, la loro casa
+      ko: 불변; 성별이나 수에 따라 변하지 않음 — il loro libro, la loro casa
