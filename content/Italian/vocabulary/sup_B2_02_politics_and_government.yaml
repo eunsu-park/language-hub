@@ -1,0 +1,806 @@
+lesson: "sup_B2_Politics_and_Government"
+lesson_number: 402
+cefr: B2
+type: supplementary
+topic: "Politics and Government"
+categories:
+- id: government_structure
+  label:
+    en: "Government Structure"
+    ko: "정부 구조"
+  type: vocabulary
+  words:
+  - italian: "il governo"
+    translation:
+      en: "government"
+      ko: "정부"
+    gender: m
+  - italian: "lo Stato"
+    translation:
+      en: "state / nation"
+      ko: "국가"
+    gender: m
+  - italian: "il parlamento"
+    translation:
+      en: "parliament"
+      ko: "의회"
+    gender: m
+  - italian: "la Camera dei Deputati"
+    translation:
+      en: "Chamber of Deputies (lower house)"
+      ko: "하원 (대의원 의회)"
+    gender: f
+    notes:
+      en: "Lower house of Italian Parliament"
+      ko: "이탈리아 의회의 하원"
+  - italian: "il Senato"
+    translation:
+      en: "Senate (upper house)"
+      ko: "상원"
+    gender: m
+    notes:
+      en: "Upper house of Italian Parliament"
+      ko: "이탈리아 의회의 상원"
+  - italian: "il Presidente della Repubblica"
+    translation:
+      en: "President of the Republic"
+      ko: "대통령"
+    gender: m
+    notes:
+      en: "Head of state in Italy"
+      ko: "이탈리아 국가 원수"
+  - italian: "il Presidente del Consiglio"
+    translation:
+      en: "Prime Minister"
+      ko: "총리"
+    gender: m
+    notes:
+      en: "Head of government in Italy"
+      ko: "이탈리아 정부 수반"
+  - italian: "il ministro"
+    translation:
+      en: "minister"
+      ko: "장관"
+    gender: m
+  - italian: "la ministra"
+    translation:
+      en: "minister (f)"
+      ko: "장관 (여)"
+    gender: f
+  - italian: "il Ministero"
+    translation:
+      en: "Ministry"
+      ko: "부처"
+    gender: m
+  - italian: "il Consiglio dei Ministri"
+    translation:
+      en: "Council of Ministers / Cabinet"
+      ko: "각료회의 / 내각"
+    gender: m
+  - italian: "il deputato"
+    translation:
+      en: "deputy / member of parliament"
+      ko: "하원의원"
+    gender: m
+  - italian: "la deputata"
+    translation:
+      en: "deputy / member of parliament (f)"
+      ko: "하원의원 (여)"
+    gender: f
+  - italian: "il senatore"
+    translation:
+      en: "senator (m)"
+      ko: "상원의원 (남)"
+    gender: m
+  - italian: "la senatrice"
+    translation:
+      en: "senator (f)"
+      ko: "상원의원 (여)"
+    gender: f
+  - italian: "il sindaco"
+    translation:
+      en: "mayor"
+      ko: "시장"
+    gender: m
+  - italian: "la sindaca"
+    translation:
+      en: "mayor (f)"
+      ko: "시장 (여)"
+    gender: f
+  - italian: "il comune"
+    translation:
+      en: "municipality / town hall"
+      ko: "시청 / 자치단체"
+    gender: m
+  - italian: "la provincia"
+    translation:
+      en: "province"
+      ko: "도 / 주"
+    gender: f
+  - italian: "la regione"
+    translation:
+      en: "region"
+      ko: "지역"
+    gender: f
+    notes:
+      en: "Italy has 20 regions"
+      ko: "이탈리아에는 20개 레지오네가 있음"
+  - italian: "la prefettura"
+    translation:
+      en: "prefecture"
+      ko: "도청"
+    gender: f
+- id: political_systems
+  label:
+    en: "Political Systems and Ideologies"
+    ko: "정치 체제 및 이념"
+  type: vocabulary
+  words:
+  - italian: "la politica"
+    translation:
+      en: "politics / policy"
+      ko: "정치 / 정책"
+    gender: f
+  - italian: "la democrazia"
+    translation:
+      en: "democracy"
+      ko: "민주주의"
+    gender: f
+  - italian: "la repubblica"
+    translation:
+      en: "republic"
+      ko: "공화국"
+    gender: f
+  - italian: "la monarchia"
+    translation:
+      en: "monarchy"
+      ko: "군주제"
+    gender: f
+  - italian: "la dittatura"
+    translation:
+      en: "dictatorship"
+      ko: "독재"
+    gender: f
+  - italian: "il totalitarismo"
+    translation:
+      en: "totalitarianism"
+      ko: "전체주의"
+    gender: m
+  - italian: "il capitalismo"
+    translation:
+      en: "capitalism"
+      ko: "자본주의"
+    gender: m
+  - italian: "il socialismo"
+    translation:
+      en: "socialism"
+      ko: "사회주의"
+    gender: m
+  - italian: "il comunismo"
+    translation:
+      en: "communism"
+      ko: "공산주의"
+    gender: m
+  - italian: "il liberalismo"
+    translation:
+      en: "liberalism"
+      ko: "자유주의"
+    gender: m
+  - italian: "il conservatorismo"
+    translation:
+      en: "conservatism"
+      ko: "보수주의"
+    gender: m
+  - italian: "il populismo"
+    translation:
+      en: "populism"
+      ko: "포퓰리즘"
+    gender: m
+  - italian: "il federalismo"
+    translation:
+      en: "federalism"
+      ko: "연방주의"
+    gender: m
+  - italian: "l'anarchia"
+    translation:
+      en: "anarchy"
+      ko: "무정부 상태"
+    gender: f
+  - italian: "l'ideologia"
+    translation:
+      en: "ideology"
+      ko: "이념"
+    gender: f
+- id: elections_and_voting
+  label:
+    en: "Elections and Voting"
+    ko: "선거 및 투표"
+  type: vocabulary
+  words:
+  - italian: "le elezioni"
+    translation:
+      en: "elections"
+      ko: "선거"
+    gender: f
+    notes:
+      en: "Usually used in plural"
+      ko: "주로 복수형으로 사용"
+  - italian: "le elezioni politiche"
+    translation:
+      en: "general elections"
+      ko: "총선"
+    gender: f
+  - italian: "le elezioni europee"
+    translation:
+      en: "European elections"
+      ko: "유럽 선거"
+    gender: f
+  - italian: "le elezioni comunali"
+    translation:
+      en: "municipal elections"
+      ko: "지방 선거"
+    gender: f
+  - italian: "il voto"
+    translation:
+      en: "vote"
+      ko: "투표"
+    gender: m
+  - italian: "il referendum"
+    translation:
+      en: "referendum"
+      ko: "국민투표"
+    gender: m
+    notes:
+      en: "Invariable plural: i referendum"
+      ko: "복수형 불변: i referendum"
+  - italian: "la scheda elettorale"
+    translation:
+      en: "ballot paper"
+      ko: "투표 용지"
+    gender: f
+  - italian: "il seggio elettorale"
+    translation:
+      en: "polling station"
+      ko: "투표소"
+    gender: m
+  - italian: "l'urna"
+    translation:
+      en: "ballot box"
+      ko: "투표함"
+    gender: f
+  - italian: "il candidato"
+    translation:
+      en: "candidate (m)"
+      ko: "후보자 (남)"
+    gender: m
+  - italian: "la candidata"
+    translation:
+      en: "candidate (f)"
+      ko: "후보자 (여)"
+    gender: f
+  - italian: "la campagna elettorale"
+    translation:
+      en: "electoral campaign"
+      ko: "선거 운동"
+    gender: f
+  - italian: "lo scrutinio"
+    translation:
+      en: "ballot counting"
+      ko: "개표"
+    gender: m
+  - italian: "il sondaggio"
+    translation:
+      en: "poll / survey"
+      ko: "여론 조사"
+    gender: m
+  - italian: "l'affluenza"
+    translation:
+      en: "voter turnout"
+      ko: "투표율"
+    gender: f
+  - italian: "l'astensione"
+    translation:
+      en: "abstention"
+      ko: "기권"
+    gender: f
+  - italian: "il suffragio universale"
+    translation:
+      en: "universal suffrage"
+      ko: "보통 선거"
+    gender: m
+  - italian: "votare"
+    translation:
+      en: "to vote"
+      ko: "투표하다"
+  - italian: "eleggere"
+    translation:
+      en: "to elect"
+      ko: "선출하다"
+  - italian: "candidarsi"
+    translation:
+      en: "to run for office"
+      ko: "출마하다"
+- id: political_parties
+  label:
+    en: "Political Parties and Coalitions"
+    ko: "정당 및 연합"
+  type: vocabulary
+  words:
+  - italian: "il partito politico"
+    translation:
+      en: "political party"
+      ko: "정당"
+    gender: m
+  - italian: "la coalizione"
+    translation:
+      en: "coalition"
+      ko: "연합"
+    gender: f
+  - italian: "l'opposizione"
+    translation:
+      en: "opposition"
+      ko: "야당"
+    gender: f
+  - italian: "la maggioranza"
+    translation:
+      en: "majority"
+      ko: "과반수 / 여당"
+    gender: f
+  - italian: "la minoranza"
+    translation:
+      en: "minority"
+      ko: "소수"
+    gender: f
+  - italian: "la destra"
+    translation:
+      en: "the right (wing)"
+      ko: "우파"
+    gender: f
+  - italian: "la sinistra"
+    translation:
+      en: "the left (wing)"
+      ko: "좌파"
+    gender: f
+  - italian: "il centro"
+    translation:
+      en: "the center"
+      ko: "중도"
+    gender: m
+  - italian: "il segretario di partito"
+    translation:
+      en: "party secretary"
+      ko: "당대표"
+    gender: m
+  - italian: "il militante"
+    translation:
+      en: "party activist"
+      ko: "당원 활동가"
+    gender: m
+  - italian: "l'elettore"
+    translation:
+      en: "voter (m)"
+      ko: "유권자 (남)"
+    gender: m
+  - italian: "l'elettrice"
+    translation:
+      en: "voter (f)"
+      ko: "유권자 (여)"
+    gender: f
+  - italian: "il programma elettorale"
+    translation:
+      en: "electoral program / platform"
+      ko: "선거 공약"
+    gender: m
+- id: laws_and_constitution
+  label:
+    en: "Laws and Constitution"
+    ko: "법률 및 헌법"
+  type: vocabulary
+  words:
+  - italian: "la costituzione"
+    translation:
+      en: "constitution"
+      ko: "헌법"
+    gender: f
+    notes:
+      en: "La Costituzione italiana entered into force January 1, 1948"
+      ko: "이탈리아 헌법은 1948년 1월 1일 발효"
+  - italian: "la legge"
+    translation:
+      en: "law"
+      ko: "법률"
+    gender: f
+  - italian: "il decreto legge"
+    translation:
+      en: "decree-law"
+      ko: "법률 명령"
+    gender: m
+  - italian: "il disegno di legge"
+    translation:
+      en: "bill (proposed law)"
+      ko: "법안"
+    gender: m
+  - italian: "la riforma"
+    translation:
+      en: "reform"
+      ko: "개혁"
+    gender: f
+  - italian: "il diritto"
+    translation:
+      en: "right / law"
+      ko: "권리 / 법"
+    gender: m
+  - italian: "il dovere"
+    translation:
+      en: "duty"
+      ko: "의무"
+    gender: m
+  - italian: "la libertà"
+    translation:
+      en: "freedom / liberty"
+      ko: "자유"
+    gender: f
+  - italian: "l'uguaglianza"
+    translation:
+      en: "equality"
+      ko: "평등"
+    gender: f
+  - italian: "la sovranità"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: f
+  - italian: "la cittadinanza"
+    translation:
+      en: "citizenship"
+      ko: "시민권"
+    gender: f
+  - italian: "approvare una legge"
+    translation:
+      en: "to pass a law"
+      ko: "법률을 통과시키다"
+  - italian: "promulgare"
+    translation:
+      en: "to promulgate"
+      ko: "공포하다"
+  - italian: "abrogare"
+    translation:
+      en: "to repeal / to abrogate"
+      ko: "폐지하다"
+  - italian: "emendare"
+    translation:
+      en: "to amend"
+      ko: "수정하다"
+- id: international_politics
+  label:
+    en: "International Politics"
+    ko: "국제 정치"
+  type: vocabulary
+  words:
+  - italian: "l'Unione Europea"
+    translation:
+      en: "European Union"
+      ko: "유럽연합"
+    gender: f
+  - italian: "le Nazioni Unite"
+    translation:
+      en: "United Nations"
+      ko: "국제연합"
+    gender: f
+  - italian: "la NATO"
+    translation:
+      en: "NATO"
+      ko: "나토"
+    gender: f
+  - italian: "la diplomazia"
+    translation:
+      en: "diplomacy"
+      ko: "외교"
+    gender: f
+  - italian: "il trattato"
+    translation:
+      en: "treaty"
+      ko: "조약"
+    gender: m
+  - italian: "l'accordo"
+    translation:
+      en: "agreement"
+      ko: "협정"
+    gender: m
+  - italian: "l'ambasciata"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: f
+  - italian: "l'ambasciatore"
+    translation:
+      en: "ambassador (m)"
+      ko: "대사 (남)"
+    gender: m
+  - italian: "il consolato"
+    translation:
+      en: "consulate"
+      ko: "영사관"
+    gender: m
+  - italian: "la sanzione"
+    translation:
+      en: "sanction"
+      ko: "제재"
+    gender: f
+  - italian: "il vertice"
+    translation:
+      en: "summit"
+      ko: "정상회담"
+    gender: m
+  - italian: "negoziare"
+    translation:
+      en: "to negotiate"
+      ko: "협상하다"
+  - italian: "ratificare"
+    translation:
+      en: "to ratify"
+      ko: "비준하다"
+  - italian: "la politica estera"
+    translation:
+      en: "foreign policy"
+      ko: "외교 정책"
+    gender: f
+  - italian: "il diritto internazionale"
+    translation:
+      en: "international law"
+      ko: "국제법"
+    gender: m
+  - italian: "l'embargo"
+    translation:
+      en: "embargo"
+      ko: "금수조치"
+    gender: m
+  - italian: "il disarmo"
+    translation:
+      en: "disarmament"
+      ko: "군축"
+    gender: m
+  - italian: "il multilateralismo"
+    translation:
+      en: "multilateralism"
+      ko: "다자주의"
+    gender: m
+- id: political_actions
+  label:
+    en: "Political Actions and Concepts"
+    ko: "정치적 행위 및 개념"
+  type: vocabulary
+  words:
+  - italian: "governare"
+    translation:
+      en: "to govern"
+      ko: "통치하다"
+  - italian: "legiferare"
+    translation:
+      en: "to legislate"
+      ko: "입법하다"
+  - italian: "regolamentare"
+    translation:
+      en: "to regulate"
+      ko: "규제하다"
+  - italian: "proclamare"
+    translation:
+      en: "to proclaim"
+      ko: "선포하다"
+  - italian: "destituire"
+    translation:
+      en: "to remove from office"
+      ko: "해임하다"
+  - italian: "nominare"
+    translation:
+      en: "to appoint / to nominate"
+      ko: "임명하다"
+  - italian: "dimissioni"
+    translation:
+      en: "resignation"
+      ko: "사임"
+  - italian: "il mandato"
+    translation:
+      en: "term (of office) / mandate"
+      ko: "임기"
+    gender: m
+  - italian: "l'immunità parlamentare"
+    translation:
+      en: "parliamentary immunity"
+      ko: "의회 면책특권"
+    gender: f
+  - italian: "il decreto"
+    translation:
+      en: "decree"
+      ko: "법령"
+    gender: m
+  - italian: "la mozione"
+    translation:
+      en: "motion"
+      ko: "동의안"
+    gender: f
+  - italian: "la mozione di fiducia"
+    translation:
+      en: "vote of confidence"
+      ko: "신임 투표"
+    gender: f
+  - italian: "la mozione di sfiducia"
+    translation:
+      en: "vote of no confidence"
+      ko: "불신임 투표"
+    gender: f
+  - italian: "la crisi di governo"
+    translation:
+      en: "government crisis"
+      ko: "정부 위기"
+    gender: f
+  - italian: "il rimpasto"
+    translation:
+      en: "cabinet reshuffle"
+      ko: "개각"
+    gender: m
+  - italian: "il compromesso"
+    translation:
+      en: "compromise"
+      ko: "타협"
+    gender: m
+  - italian: "la propaganda"
+    translation:
+      en: "propaganda"
+      ko: "선전"
+    gender: f
+  - italian: "il dibattito"
+    translation:
+      en: "debate"
+      ko: "토론"
+    gender: m
+  - italian: "il consenso"
+    translation:
+      en: "consensus / approval"
+      ko: "합의 / 지지"
+    gender: m
+  - italian: "la protesta"
+    translation:
+      en: "protest"
+      ko: "시위"
+    gender: f
+  - italian: "la manifestazione"
+    translation:
+      en: "demonstration"
+      ko: "집회"
+    gender: f
+  - italian: "lo sciopero"
+    translation:
+      en: "strike"
+      ko: "파업"
+    gender: m
+  - italian: "il sindacato"
+    translation:
+      en: "trade union"
+      ko: "노동조합"
+    gender: m
+  - italian: "la lobby"
+    translation:
+      en: "lobby"
+      ko: "로비"
+    gender: f
+  - italian: "la corruzione"
+    translation:
+      en: "corruption"
+      ko: "부패"
+    gender: f
+  - italian: "la trasparenza"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f
+  - italian: "la burocrazia"
+    translation:
+      en: "bureaucracy"
+      ko: "관료제"
+    gender: f
+  - italian: "il funzionario"
+    translation:
+      en: "civil servant / official"
+      ko: "공무원"
+    gender: m
+  - italian: "la pubblica amministrazione"
+    translation:
+      en: "public administration"
+      ko: "행정부"
+    gender: f
+  - italian: "il decentramento"
+    translation:
+      en: "decentralization"
+      ko: "분권화"
+    gender: m
+  - italian: "l'autonomia regionale"
+    translation:
+      en: "regional autonomy"
+      ko: "지역 자치"
+    gender: f
+  - italian: "il welfare"
+    translation:
+      en: "welfare"
+      ko: "복지"
+    gender: m
+  - italian: "lo stato sociale"
+    translation:
+      en: "welfare state"
+      ko: "복지 국가"
+    gender: m
+  - italian: "la politica interna"
+    translation:
+      en: "domestic policy"
+      ko: "국내 정책"
+    gender: f
+  - italian: "la sicurezza nazionale"
+    translation:
+      en: "national security"
+      ko: "국가 안보"
+    gender: f
+  - italian: "la politica migratoria"
+    translation:
+      en: "immigration policy"
+      ko: "이민 정책"
+    gender: f
+  - italian: "l'asilo politico"
+    translation:
+      en: "political asylum"
+      ko: "정치적 망명"
+    gender: m
+  - italian: "il profugo"
+    translation:
+      en: "refugee"
+      ko: "난민"
+    gender: m
+  - italian: "il diritto di voto"
+    translation:
+      en: "right to vote"
+      ko: "투표권"
+    gender: m
+  - italian: "la parità di genere"
+    translation:
+      en: "gender equality"
+      ko: "성평등"
+    gender: f
+  - italian: "la legge elettorale"
+    translation:
+      en: "electoral law"
+      ko: "선거법"
+    gender: f
+  - italian: "il sistema proporzionale"
+    translation:
+      en: "proportional representation"
+      ko: "비례 대표제"
+    gender: m
+  - italian: "il sistema maggioritario"
+    translation:
+      en: "majority system"
+      ko: "다수결제"
+    gender: m
+  - italian: "il collegio elettorale"
+    translation:
+      en: "electoral district"
+      ko: "선거구"
+    gender: m
+  - italian: "il ballottaggio"
+    translation:
+      en: "runoff election"
+      ko: "결선 투표"
+    gender: m
+  - italian: "la scheda bianca"
+    translation:
+      en: "blank ballot"
+      ko: "백지 투표"
+    gender: f
+  - italian: "la scheda nulla"
+    translation:
+      en: "invalid ballot"
+      ko: "무효표"
+    gender: f
+  - italian: "il quorum"
+    translation:
+      en: "quorum"
+      ko: "정족수"
+    gender: m
