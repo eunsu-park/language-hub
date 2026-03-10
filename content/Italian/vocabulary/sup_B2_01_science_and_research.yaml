@@ -1,0 +1,811 @@
+lesson: "sup_B2_Science_and_Research"
+lesson_number: 401
+cefr: B2
+type: supplementary
+topic: "Science and Research"
+categories:
+- id: scientific_method
+  label:
+    en: "Scientific Method"
+    ko: "과학적 방법"
+  type: vocabulary
+  words:
+  - italian: "la scienza"
+    translation:
+      en: "science"
+      ko: "과학"
+    gender: f
+  - italian: "la ricerca"
+    translation:
+      en: "research"
+      ko: "연구"
+    gender: f
+  - italian: "l'esperimento"
+    translation:
+      en: "experiment"
+      ko: "실험"
+    gender: m
+  - italian: "l'ipotesi"
+    translation:
+      en: "hypothesis"
+      ko: "가설"
+    gender: f
+    notes:
+      en: "Invariable plural: le ipotesi"
+      ko: "복수형 불변: le ipotesi"
+  - italian: "la teoria"
+    translation:
+      en: "theory"
+      ko: "이론"
+    gender: f
+  - italian: "il metodo scientifico"
+    translation:
+      en: "scientific method"
+      ko: "과학적 방법"
+    gender: m
+  - italian: "la variabile"
+    translation:
+      en: "variable"
+      ko: "변수"
+    gender: f
+  - italian: "la variabile indipendente"
+    translation:
+      en: "independent variable"
+      ko: "독립 변수"
+    gender: f
+  - italian: "la variabile dipendente"
+    translation:
+      en: "dependent variable"
+      ko: "종속 변수"
+    gender: f
+  - italian: "il gruppo di controllo"
+    translation:
+      en: "control group"
+      ko: "대조군"
+    gender: m
+  - italian: "il campione"
+    translation:
+      en: "sample"
+      ko: "표본"
+    gender: m
+    notes:
+      en: "Also means 'champion'"
+      ko: "'챔피언'이라는 뜻도 있음"
+  - italian: "il dato"
+    translation:
+      en: "data point / datum"
+      ko: "데이터 / 자료"
+    gender: m
+    notes:
+      en: "Plural: i dati (data)"
+      ko: "복수형: i dati (데이터)"
+  - italian: "il risultato"
+    translation:
+      en: "result"
+      ko: "결과"
+    gender: m
+  - italian: "la conclusione"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: f
+  - italian: "l'osservazione"
+    translation:
+      en: "observation"
+      ko: "관찰"
+    gender: f
+  - italian: "l'evidenza"
+    translation:
+      en: "evidence"
+      ko: "증거"
+    gender: f
+  - italian: "la verifica"
+    translation:
+      en: "verification"
+      ko: "검증"
+    gender: f
+  - italian: "il paradigma"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: m
+  - italian: "la legge scientifica"
+    translation:
+      en: "scientific law"
+      ko: "과학 법칙"
+    gender: f
+  - italian: "il fenomeno"
+    translation:
+      en: "phenomenon"
+      ko: "현상"
+    gender: m
+    notes:
+      en: "Plural: i fenomeni"
+      ko: "복수형: i fenomeni"
+  - italian: "la correlazione"
+    translation:
+      en: "correlation"
+      ko: "상관관계"
+    gender: f
+  - italian: "la causalità"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+- id: laboratory_equipment
+  label:
+    en: "Laboratory and Equipment"
+    ko: "실험실 및 장비"
+  type: vocabulary
+  words:
+  - italian: "il laboratorio"
+    translation:
+      en: "laboratory"
+      ko: "실험실"
+    gender: m
+  - italian: "il microscopio"
+    translation:
+      en: "microscope"
+      ko: "현미경"
+    gender: m
+  - italian: "il telescopio"
+    translation:
+      en: "telescope"
+      ko: "망원경"
+    gender: m
+  - italian: "la provetta"
+    translation:
+      en: "test tube"
+      ko: "시험관"
+    gender: f
+  - italian: "il becher"
+    translation:
+      en: "beaker"
+      ko: "비커"
+    gender: m
+  - italian: "la bilancia"
+    translation:
+      en: "scale / balance"
+      ko: "저울"
+    gender: f
+  - italian: "il termometro"
+    translation:
+      en: "thermometer"
+      ko: "온도계"
+    gender: m
+  - italian: "la pipetta"
+    translation:
+      en: "pipette"
+      ko: "피펫"
+    gender: f
+  - italian: "il reagente"
+    translation:
+      en: "reagent"
+      ko: "시약"
+    gender: m
+  - italian: "il vetrino"
+    translation:
+      en: "slide (microscope)"
+      ko: "슬라이드 (현미경)"
+    gender: m
+  - italian: "la centrifuga"
+    translation:
+      en: "centrifuge"
+      ko: "원심분리기"
+    gender: f
+  - italian: "lo spettroscopio"
+    translation:
+      en: "spectroscope"
+      ko: "분광기"
+    gender: m
+  - italian: "il campione di controllo"
+    translation:
+      en: "control sample"
+      ko: "대조 표본"
+    gender: m
+  - italian: "la coltura"
+    translation:
+      en: "culture (biological)"
+      ko: "배양"
+    gender: f
+  - italian: "il reagente chimico"
+    translation:
+      en: "chemical reagent"
+      ko: "화학 시약"
+    gender: m
+- id: biology_and_life_sciences
+  label:
+    en: "Biology and Life Sciences"
+    ko: "생물학 및 생명과학"
+  type: vocabulary
+  words:
+  - italian: "la biologia"
+    translation:
+      en: "biology"
+      ko: "생물학"
+    gender: f
+  - italian: "la cellula"
+    translation:
+      en: "cell"
+      ko: "세포"
+    gender: f
+  - italian: "il DNA"
+    translation:
+      en: "DNA"
+      ko: "DNA"
+    gender: m
+    notes:
+      en: "Abbreviation of acido desossiribonucleico"
+      ko: "acido desossiribonucleico의 약자"
+  - italian: "il gene"
+    translation:
+      en: "gene"
+      ko: "유전자"
+    gender: m
+  - italian: "il genoma"
+    translation:
+      en: "genome"
+      ko: "게놈"
+    gender: m
+  - italian: "la genetica"
+    translation:
+      en: "genetics"
+      ko: "유전학"
+    gender: f
+  - italian: "l'evoluzione"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: f
+  - italian: "la mutazione"
+    translation:
+      en: "mutation"
+      ko: "돌연변이"
+    gender: f
+  - italian: "la specie"
+    translation:
+      en: "species"
+      ko: "종"
+    gender: f
+    notes:
+      en: "Invariable plural: le specie"
+      ko: "복수형 불변: le specie"
+  - italian: "l'organismo"
+    translation:
+      en: "organism"
+      ko: "유기체"
+    gender: m
+  - italian: "il microrganismo"
+    translation:
+      en: "microorganism"
+      ko: "미생물"
+    gender: m
+  - italian: "il batterio"
+    translation:
+      en: "bacterium"
+      ko: "박테리아"
+    gender: m
+    notes:
+      en: "Plural: i batteri"
+      ko: "복수형: i batteri"
+  - italian: "il virus"
+    translation:
+      en: "virus"
+      ko: "바이러스"
+    gender: m
+    notes:
+      en: "Invariable: il virus / i virus"
+      ko: "불변: il virus / i virus"
+  - italian: "il vaccino"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: m
+  - italian: "l'anticorpo"
+    translation:
+      en: "antibody"
+      ko: "항체"
+    gender: m
+  - italian: "la proteina"
+    translation:
+      en: "protein"
+      ko: "단백질"
+    gender: f
+  - italian: "l'enzima"
+    translation:
+      en: "enzyme"
+      ko: "효소"
+    gender: m
+    notes:
+      en: "Masculine despite -a ending"
+      ko: "-a로 끝나지만 남성형"
+  - italian: "il tessuto"
+    translation:
+      en: "tissue (biological)"
+      ko: "조직 (생물)"
+    gender: m
+  - italian: "la fotosintesi"
+    translation:
+      en: "photosynthesis"
+      ko: "광합성"
+    gender: f
+  - italian: "l'ecosistema"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: m
+- id: chemistry_and_physics
+  label:
+    en: "Chemistry and Physics"
+    ko: "화학 및 물리학"
+  type: vocabulary
+  words:
+  - italian: "la chimica"
+    translation:
+      en: "chemistry"
+      ko: "화학"
+    gender: f
+  - italian: "la fisica"
+    translation:
+      en: "physics"
+      ko: "물리학"
+    gender: f
+  - italian: "la molecola"
+    translation:
+      en: "molecule"
+      ko: "분자"
+    gender: f
+  - italian: "l'atomo"
+    translation:
+      en: "atom"
+      ko: "원자"
+    gender: m
+  - italian: "l'elettrone"
+    translation:
+      en: "electron"
+      ko: "전자"
+    gender: m
+  - italian: "il protone"
+    translation:
+      en: "proton"
+      ko: "양성자"
+    gender: m
+  - italian: "il neutrone"
+    translation:
+      en: "neutron"
+      ko: "중성자"
+    gender: m
+  - italian: "la formula"
+    translation:
+      en: "formula"
+      ko: "공식"
+    gender: f
+  - italian: "l'equazione"
+    translation:
+      en: "equation"
+      ko: "방정식"
+    gender: f
+  - italian: "la reazione chimica"
+    translation:
+      en: "chemical reaction"
+      ko: "화학 반응"
+    gender: f
+  - italian: "il composto"
+    translation:
+      en: "compound"
+      ko: "화합물"
+    gender: m
+  - italian: "l'elemento"
+    translation:
+      en: "element"
+      ko: "원소"
+    gender: m
+  - italian: "la tavola periodica"
+    translation:
+      en: "periodic table"
+      ko: "주기율표"
+    gender: f
+  - italian: "la gravità"
+    translation:
+      en: "gravity"
+      ko: "중력"
+    gender: f
+  - italian: "la velocità"
+    translation:
+      en: "velocity / speed"
+      ko: "속도"
+    gender: f
+  - italian: "l'energia"
+    translation:
+      en: "energy"
+      ko: "에너지"
+    gender: f
+  - italian: "la massa"
+    translation:
+      en: "mass"
+      ko: "질량"
+    gender: f
+  - italian: "la forza"
+    translation:
+      en: "force"
+      ko: "힘"
+    gender: f
+  - italian: "la temperatura"
+    translation:
+      en: "temperature"
+      ko: "온도"
+    gender: f
+  - italian: "la pressione"
+    translation:
+      en: "pressure"
+      ko: "압력"
+    gender: f
+- id: research_actions
+  label:
+    en: "Research Actions and Processes"
+    ko: "연구 활동 및 과정"
+  type: vocabulary
+  words:
+  - italian: "lo scienziato"
+    translation:
+      en: "scientist (m)"
+      ko: "과학자 (남)"
+    gender: m
+  - italian: "la scienziata"
+    translation:
+      en: "scientist (f)"
+      ko: "과학자 (여)"
+    gender: f
+  - italian: "il ricercatore"
+    translation:
+      en: "researcher (m)"
+      ko: "연구원 (남)"
+    gender: m
+  - italian: "la ricercatrice"
+    translation:
+      en: "researcher (f)"
+      ko: "연구원 (여)"
+    gender: f
+  - italian: "la scoperta"
+    translation:
+      en: "discovery"
+      ko: "발견"
+    gender: f
+  - italian: "l'invenzione"
+    translation:
+      en: "invention"
+      ko: "발명"
+    gender: f
+  - italian: "la pubblicazione"
+    translation:
+      en: "publication"
+      ko: "출판물"
+    gender: f
+  - italian: "la rivista scientifica"
+    translation:
+      en: "scientific journal"
+      ko: "과학 학술지"
+    gender: f
+  - italian: "il brevetto"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: m
+  - italian: "il Premio Nobel"
+    translation:
+      en: "Nobel Prize"
+      ko: "노벨상"
+    gender: m
+  - italian: "pubblicare"
+    translation:
+      en: "to publish"
+      ko: "출판하다"
+  - italian: "dimostrare"
+    translation:
+      en: "to demonstrate / to prove"
+      ko: "증명하다"
+  - italian: "analizzare"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+  - italian: "sintetizzare"
+    translation:
+      en: "to synthesize"
+      ko: "합성하다"
+  - italian: "sperimentare"
+    translation:
+      en: "to experiment"
+      ko: "실험하다"
+  - italian: "osservare"
+    translation:
+      en: "to observe"
+      ko: "관찰하다"
+  - italian: "misurare"
+    translation:
+      en: "to measure"
+      ko: "측정하다"
+  - italian: "calcolare"
+    translation:
+      en: "to calculate"
+      ko: "계산하다"
+  - italian: "ipotizzare"
+    translation:
+      en: "to hypothesize"
+      ko: "가설을 세우다"
+  - italian: "verificare"
+    translation:
+      en: "to verify"
+      ko: "검증하다"
+  - italian: "confutare"
+    translation:
+      en: "to refute"
+      ko: "반박하다"
+  - italian: "classificare"
+    translation:
+      en: "to classify"
+      ko: "분류하다"
+  - italian: "raccogliere dati"
+    translation:
+      en: "to collect data"
+      ko: "데이터를 수집하다"
+  - italian: "condurre un esperimento"
+    translation:
+      en: "to conduct an experiment"
+      ko: "실험을 수행하다"
+- id: scientific_disciplines
+  label:
+    en: "Scientific Disciplines"
+    ko: "과학 분야"
+  type: vocabulary
+  words:
+  - italian: "l'astronomia"
+    translation:
+      en: "astronomy"
+      ko: "천문학"
+    gender: f
+  - italian: "la geologia"
+    translation:
+      en: "geology"
+      ko: "지질학"
+    gender: f
+  - italian: "la botanica"
+    translation:
+      en: "botany"
+      ko: "식물학"
+    gender: f
+  - italian: "la zoologia"
+    translation:
+      en: "zoology"
+      ko: "동물학"
+    gender: f
+  - italian: "la microbiologia"
+    translation:
+      en: "microbiology"
+      ko: "미생물학"
+    gender: f
+  - italian: "la biochimica"
+    translation:
+      en: "biochemistry"
+      ko: "생화학"
+    gender: f
+  - italian: "la neuroscienze"
+    translation:
+      en: "neuroscience"
+      ko: "신경과학"
+    gender: f
+  - italian: "la matematica"
+    translation:
+      en: "mathematics"
+      ko: "수학"
+    gender: f
+  - italian: "la statistica"
+    translation:
+      en: "statistics"
+      ko: "통계학"
+    gender: f
+  - italian: "l'informatica"
+    translation:
+      en: "computer science"
+      ko: "컴퓨터 과학"
+    gender: f
+  - italian: "l'ingegneria"
+    translation:
+      en: "engineering"
+      ko: "공학"
+    gender: f
+  - italian: "la nanotecnologia"
+    translation:
+      en: "nanotechnology"
+      ko: "나노기술"
+    gender: f
+  - italian: "la biotecnologia"
+    translation:
+      en: "biotechnology"
+      ko: "생명공학"
+    gender: f
+  - italian: "la farmacologia"
+    translation:
+      en: "pharmacology"
+      ko: "약리학"
+    gender: f
+  - italian: "l'ecologia"
+    translation:
+      en: "ecology"
+      ko: "생태학"
+    gender: f
+  - italian: "la paleontologia"
+    translation:
+      en: "paleontology"
+      ko: "고생물학"
+    gender: f
+  - italian: "l'oceanografia"
+    translation:
+      en: "oceanography"
+      ko: "해양학"
+    gender: f
+  - italian: "la meteorologia"
+    translation:
+      en: "meteorology"
+      ko: "기상학"
+    gender: f
+- id: scientific_measurements
+  label:
+    en: "Scientific Measurements and Units"
+    ko: "과학적 측정 및 단위"
+  type: vocabulary
+  words:
+  - italian: "la misurazione"
+    translation:
+      en: "measurement"
+      ko: "측정"
+    gender: f
+  - italian: "l'unità di misura"
+    translation:
+      en: "unit of measurement"
+      ko: "측정 단위"
+    gender: f
+  - italian: "il metro"
+    translation:
+      en: "meter"
+      ko: "미터"
+    gender: m
+  - italian: "il chilogrammo"
+    translation:
+      en: "kilogram"
+      ko: "킬로그램"
+    gender: m
+  - italian: "il litro"
+    translation:
+      en: "liter"
+      ko: "리터"
+    gender: m
+  - italian: "il grado Celsius"
+    translation:
+      en: "degree Celsius"
+      ko: "섭씨"
+    gender: m
+  - italian: "il watt"
+    translation:
+      en: "watt"
+      ko: "와트"
+    gender: m
+  - italian: "il volt"
+    translation:
+      en: "volt"
+      ko: "볼트"
+    gender: m
+  - italian: "l'ampere"
+    translation:
+      en: "ampere"
+      ko: "암페어"
+    gender: m
+  - italian: "il hertz"
+    translation:
+      en: "hertz"
+      ko: "헤르츠"
+    gender: m
+  - italian: "la densità"
+    translation:
+      en: "density"
+      ko: "밀도"
+    gender: f
+  - italian: "il volume"
+    translation:
+      en: "volume"
+      ko: "부피"
+    gender: m
+  - italian: "la frequenza"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: f
+  - italian: "la lunghezza d'onda"
+    translation:
+      en: "wavelength"
+      ko: "파장"
+    gender: f
+  - italian: "lo spettro"
+    translation:
+      en: "spectrum"
+      ko: "스펙트럼"
+    gender: m
+  - italian: "l'accelerazione"
+    translation:
+      en: "acceleration"
+      ko: "가속도"
+    gender: f
+  - italian: "la resistenza"
+    translation:
+      en: "resistance"
+      ko: "저항"
+    gender: f
+  - italian: "il campo magnetico"
+    translation:
+      en: "magnetic field"
+      ko: "자기장"
+    gender: m
+  - italian: "la radiazione"
+    translation:
+      en: "radiation"
+      ko: "방사선"
+    gender: f
+  - italian: "il vuoto"
+    translation:
+      en: "vacuum"
+      ko: "진공"
+    gender: m
+  - italian: "la soluzione"
+    translation:
+      en: "solution (chemical)"
+      ko: "용액"
+    gender: f
+  - italian: "il solvente"
+    translation:
+      en: "solvent"
+      ko: "용매"
+    gender: m
+  - italian: "il pH"
+    translation:
+      en: "pH"
+      ko: "pH"
+    gender: m
+  - italian: "la catalisi"
+    translation:
+      en: "catalysis"
+      ko: "촉매 작용"
+    gender: f
+  - italian: "il catalizzatore"
+    translation:
+      en: "catalyst"
+      ko: "촉매"
+    gender: m
+  - italian: "l'ossidazione"
+    translation:
+      en: "oxidation"
+      ko: "산화"
+    gender: f
+  - italian: "la riduzione"
+    translation:
+      en: "reduction (chemical)"
+      ko: "환원"
+    gender: f
+  - italian: "la fusione"
+    translation:
+      en: "fusion / melting"
+      ko: "융합 / 용해"
+    gender: f
+  - italian: "l'evaporazione"
+    translation:
+      en: "evaporation"
+      ko: "증발"
+    gender: f
+  - italian: "la condensazione"
+    translation:
+      en: "condensation"
+      ko: "응축"
+    gender: f
+  - italian: "la cristallizzazione"
+    translation:
+      en: "crystallization"
+      ko: "결정화"
+    gender: f
