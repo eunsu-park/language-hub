@@ -1,0 +1,510 @@
+lesson: 16_Complex_Sentences_and_Advanced_Grammar
+lesson_number: 16
+cefr: B2
+categories:
+- id: relative_pronouns
+  label:
+    en: Relative Pronouns
+    ko: 관계 대명사
+  type: vocabulary
+  words:
+  - italian: che
+    translation:
+      en: that / which / who
+      ko: ~하는 (것/사람)
+    gender: null
+    notes:
+      en: Most common relative pronoun; invariable; subject or direct object
+      ko: 가장 일반적인 관계대명사; 불변; 주어 또는 직접 목적어
+  - italian: cui
+    translation:
+      en: whom / which (after preposition)
+      ko: ~에게/~의 (전치사 뒤)
+    gender: null
+    notes:
+      en: Used after prepositions; 'la persona di cui parlo' = the person I'm talking about
+      ko: 전치사 뒤에 사용; 'la persona di cui parlo' = 내가 말하는 사람
+  - italian: il quale
+    translation:
+      en: which / who (m. sg.)
+      ko: ~하는 (남성 단수)
+    gender: m
+    notes:
+      en: More formal; agrees in gender/number; often used after prepositions
+      ko: 더 격식적; 성/수에 일치; 전치사 뒤에 자주 사용
+  - italian: la quale
+    translation:
+      en: which / who (f. sg.)
+      ko: ~하는 (여성 단수)
+    gender: f
+  - italian: i quali
+    translation:
+      en: which / who (m. pl.)
+      ko: ~하는 (남성 복수)
+    gender: m
+  - italian: le quali
+    translation:
+      en: which / who (f. pl.)
+      ko: ~하는 (여성 복수)
+    gender: f
+  - italian: chi
+    translation:
+      en: whoever / he/she who
+      ko: ~하는 사람
+    gender: null
+    notes:
+      en: "'chi dorme non piglia pesci' = the early bird catches the worm (lit. who sleeps doesn't catch fish)"
+      ko: "'chi dorme non piglia pesci' = 잠자는 자는 물고기를 못 잡는다 (속담)"
+  - italian: ciò che
+    translation:
+      en: that which / what
+      ko: ~하는 것
+    gender: null
+  - italian: quello che
+    translation:
+      en: that which / what
+      ko: ~하는 것
+    gender: null
+    notes:
+      en: More colloquial synonym of 'ciò che'
+      ko: "'ciò che'의 좀 더 구어적인 동의어"
+  - italian: quanto
+    translation:
+      en: as much as / all that
+      ko: ~하는 만큼
+    gender: null
+    notes:
+      en: "'tutto quanto' = everything; 'per quanto' = as far as"
+      ko: "'tutto quanto' = 모든 것; 'per quanto' = ~하는 한"
+  - italian: dove
+    translation:
+      en: where (relative)
+      ko: ~하는 곳
+    gender: null
+    notes:
+      en: Used as relative pronoun for place; 'la città dove vivo'
+      ko: 장소의 관계대명사; 'la città dove vivo' = 내가 사는 도시
+  - italian: il che
+    translation:
+      en: which (referring to a whole clause)
+      ko: 그것이 (~한다는 것)
+    gender: null
+    notes:
+      en: Refers to an entire preceding clause, not a single noun
+      ko: 단일 명사가 아닌 앞의 전체 절을 지칭
+- id: connectors
+  label:
+    en: Connectors
+    ko: 연결어
+  type: vocabulary
+  words:
+  - italian: inoltre
+    translation:
+      en: furthermore / moreover
+      ko: 게다가 / 더욱이
+    gender: null
+  - italian: tuttavia
+    translation:
+      en: however / nevertheless
+      ko: 그러나 / 그럼에도 불구하고
+    gender: null
+  - italian: ciononostante
+    translation:
+      en: nonetheless / in spite of this
+      ko: 그럼에도 불구하고
+    gender: null
+  - italian: pertanto
+    translation:
+      en: therefore / consequently
+      ko: 그러므로
+    gender: null
+  - italian: di conseguenza
+    translation:
+      en: as a consequence
+      ko: 결과적으로
+    gender: null
+  - italian: al contrario
+    translation:
+      en: on the contrary
+      ko: 반대로
+    gender: null
+  - italian: in effetti
+    translation:
+      en: in fact / indeed
+      ko: 사실은 / 실제로
+    gender: null
+  - italian: per esempio
+    translation:
+      en: for example
+      ko: 예를 들어
+    gender: null
+  - italian: in altre parole
+    translation:
+      en: in other words
+      ko: 다시 말하면
+    gender: null
+  - italian: vale a dire
+    translation:
+      en: that is to say / namely
+      ko: 즉 / 다시 말해서
+    gender: null
+  - italian: d'altra parte
+    translation:
+      en: on the other hand
+      ko: 반면에
+    gender: null
+  - italian: in ogni caso
+    translation:
+      en: in any case
+      ko: 어떤 경우든
+    gender: null
+  - italian: pur tuttavia
+    translation:
+      en: nevertheless / nonetheless
+      ko: 그럼에도 불구하고
+    gender: null
+  - italian: a causa di
+    translation:
+      en: because of / due to
+      ko: ~때문에
+    gender: null
+  - italian: grazie a
+    translation:
+      en: thanks to
+      ko: ~덕분에
+    gender: null
+  - italian: nonostante ciò
+    translation:
+      en: despite this
+      ko: 그럼에도 불구하고
+    gender: null
+  - italian: allo stesso modo
+    translation:
+      en: in the same way
+      ko: 같은 방식으로
+    gender: null
+  - italian: tanto... quanto
+    translation:
+      en: as much... as
+      ko: ~만큼 ~한
+    gender: null
+  - italian: non solo... ma anche
+    translation:
+      en: not only... but also
+      ko: ~뿐만 아니라 ~도
+    gender: null
+- id: causative_expressions
+  label:
+    en: Causative Expressions
+    ko: 사역 표현
+  type: vocabulary
+  words:
+  - italian: fare fare
+    translation:
+      en: to have (something) done / to make (someone) do
+      ko: ~하게 하다 / ~시키다
+    gender: null
+    notes:
+      en: "'faccio riparare la macchina' = I have the car repaired"
+      ko: "'faccio riparare la macchina' = 차를 수리시키다"
+  - italian: far vedere
+    translation:
+      en: to show / to let see
+      ko: 보여주다
+    gender: null
+    notes:
+      en: "'fammi vedere' = let me see / show me"
+      ko: "'fammi vedere' = 보여줘"
+  - italian: far sapere
+    translation:
+      en: to let (someone) know
+      ko: 알려주다
+    gender: null
+    notes:
+      en: "'ti faccio sapere' = I'll let you know"
+      ko: "'ti faccio sapere' = 알려줄게"
+  - italian: lasciare andare
+    translation:
+      en: to let go
+      ko: 놓아주다 / 보내주다
+    gender: null
+  - italian: lasciare stare
+    translation:
+      en: to leave alone / to drop it
+      ko: 내버려 두다
+    gender: null
+    notes:
+      en: "'lascia stare!' = drop it! / forget about it!"
+      ko: "'lascia stare!' = 그만둬! / 됐어!"
+  - italian: lasciare perdere
+    translation:
+      en: to give up / to forget about it
+      ko: 포기하다 / 잊어버리다
+    gender: null
+  - italian: far entrare
+    translation:
+      en: to let in / to have (someone) enter
+      ko: 들어오게 하다
+    gender: null
+  - italian: far capire
+    translation:
+      en: to make (someone) understand
+      ko: 이해시키다
+    gender: null
+  - italian: lasciar parlare
+    translation:
+      en: to let (someone) speak
+      ko: 말하게 하다
+    gender: null
+  - italian: far ridere
+    translation:
+      en: to make (someone) laugh
+      ko: 웃기다
+    gender: null
+  - italian: far piangere
+    translation:
+      en: to make (someone) cry
+      ko: 울리다
+    gender: null
+  - italian: far pagare
+    translation:
+      en: to charge / to make (someone) pay
+      ko: 지불하게 하다
+    gender: null
+  - italian: far aspettare
+    translation:
+      en: to keep (someone) waiting
+      ko: 기다리게 하다
+    gender: null
+  - italian: far cucinare
+    translation:
+      en: to have (someone) cook
+      ko: 요리시키다
+    gender: null
+- id: passive_voice
+  label:
+    en: Passive Voice
+    ko: 수동태
+  type: vocabulary
+  words:
+  - italian: essere + participio passato
+    translation:
+      en: to be + past participle (passive)
+      ko: ~되다 (수동태)
+    gender: null
+    notes:
+      en: "'il libro è stato scritto da Eco' = the book was written by Eco"
+      ko: "'il libro è stato scritto da Eco' = 그 책은 에코에 의해 쓰였다"
+  - italian: venire + participio passato
+    translation:
+      en: to be + past participle (passive, simple tenses)
+      ko: ~되다 (수동태, 단순 시제)
+    gender: null
+    notes:
+      en: Only used in simple tenses; 'viene usato' = is used
+      ko: 단순 시제에서만 사용; 'viene usato' = 사용된다
+  - italian: andare + participio passato
+    translation:
+      en: must be + past participle (obligation)
+      ko: ~되어야 한다
+    gender: null
+    notes:
+      en: Expresses necessity; 'va fatto' = it must be done
+      ko: 필요성을 표현; 'va fatto' = 해야 한다
+  - italian: si passivante
+    translation:
+      en: passive 'si' construction
+      ko: 수동 'si' 구문
+    gender: null
+    notes:
+      en: "'si parla italiano' = Italian is spoken; very common"
+      ko: "'si parla italiano' = 이탈리아어가 사용된다; 매우 일반적"
+  - italian: si impersonale
+    translation:
+      en: impersonal 'si' construction
+      ko: 비인칭 'si' 구문
+    gender: null
+    notes:
+      en: "'si mangia bene qui' = one eats well here / the food is good here"
+      ko: "'si mangia bene qui' = 여기서는 음식이 맛있다"
+  - italian: da + infinito
+    translation:
+      en: to be + past participle (something to be done)
+      ko: ~할 것이 있는
+    gender: null
+    notes:
+      en: "'c'è molto da fare' = there is a lot to be done"
+      ko: "'c'è molto da fare' = 할 일이 많다"
+- id: complex_sentence_examples
+  label:
+    en: Complex Sentence Examples
+    ko: 복합 문장 예문
+  type: vocabulary
+  words:
+  - italian: Il libro che sto leggendo è interessante.
+    translation:
+      en: The book (that) I'm reading is interesting.
+      ko: 내가 읽고 있는 책은 재미있다.
+    gender: null
+  - italian: La persona di cui ti parlo è mia cugina.
+    translation:
+      en: The person I'm talking to you about is my cousin.
+      ko: 내가 너에게 말하는 사람은 내 사촌이다.
+    gender: null
+  - italian: Quello che dici è vero.
+    translation:
+      en: What you say is true.
+      ko: 네가 말하는 것은 사실이다.
+    gender: null
+  - italian: Non capisco ciò che è successo.
+    translation:
+      en: I don't understand what happened.
+      ko: 무슨 일이 있었는지 이해가 안 된다.
+    gender: null
+  - italian: Fai quello che vuoi.
+    translation:
+      en: Do whatever you want.
+      ko: 하고 싶은 대로 해라.
+    gender: null
+  - italian: Si parla italiano qui.
+    translation:
+      en: Italian is spoken here.
+      ko: 여기서 이탈리아어가 사용됩니다.
+    gender: null
+  - italian: Si vendono appartamenti.
+    translation:
+      en: Apartments for sale.
+      ko: 아파트를 팝니다.
+    gender: null
+  - italian: In Italia si cena tardi.
+    translation:
+      en: In Italy, dinner is eaten late.
+      ko: 이탈리아에서는 저녁을 늦게 먹는다.
+    gender: null
+  - italian: Parla come se sapesse tutto.
+    translation:
+      en: He talks as if he knew everything.
+      ko: 그는 마치 모든 것을 아는 것처럼 말한다.
+    gender: null
+  - italian: Si comporta come se niente fosse successo.
+    translation:
+      en: She behaves as if nothing had happened.
+      ko: 그녀는 마치 아무 일도 없었던 것처럼 행동한다.
+    gender: null
+  - italian: Ho fatto riparare la macchina.
+    translation:
+      en: I had the car repaired.
+      ko: 차를 수리시켰다.
+    gender: null
+    notes:
+      en: Causative construction with 'fare'
+      ko: "'fare'를 사용한 사역 구문"
+  - italian: Mi ha guardato come se fossi uno sconosciuto.
+    translation:
+      en: He looked at me as if I were a stranger.
+      ko: 그는 마치 내가 낯선 사람인 것처럼 나를 바라보았다.
+    gender: null
+  - italian: La lettera è stata scritta da Marco.
+    translation:
+      en: The letter was written by Marco.
+      ko: 편지는 마르코에 의해 쓰였다.
+    gender: null
+    notes:
+      en: Passive voice with 'essere' + past participle
+      ko: "'essere' + 과거분사를 사용한 수동태"
+  - italian: Questo va fatto subito.
+    translation:
+      en: This must be done immediately.
+      ko: 이것은 즉시 해야 한다.
+    gender: null
+    notes:
+      en: "'andare' + past participle expresses obligation"
+      ko: "'andare' + 과거분사는 의무를 표현"
+  - italian: È arrivato tardi, il che ha infastidito tutti.
+    translation:
+      en: He arrived late, which annoyed everyone.
+      ko: 그는 늦게 도착했고, 그것이 모두를 짜증나게 했다.
+    gender: null
+  - italian: Chi dorme non piglia pesci.
+    translation:
+      en: The early bird catches the worm. (lit. Who sleeps doesn't catch fish.)
+      ko: 잠자는 자는 물고기를 못 잡는다. (속담)
+    gender: null
+    notes:
+      en: Famous Italian proverb using 'chi' as relative pronoun
+      ko: "'chi'를 관계대명사로 사용한 유명한 이탈리아어 속담"
+  - italian: La ragazza con cui parlo è italiana.
+    translation:
+      en: The girl I'm talking to is Italian.
+      ko: 내가 대화하고 있는 소녀는 이탈리아인이다.
+    gender: null
+    notes:
+      en: "'con cui' = with whom; preposition + cui"
+      ko: "'con cui' = ~와 함께; 전치사 + cui"
+  - italian: Il motivo per cui sono qui è importante.
+    translation:
+      en: The reason I'm here is important.
+      ko: 내가 여기 있는 이유는 중요하다.
+    gender: null
+  - italian: Si studia meglio in biblioteca.
+    translation:
+      en: One studies better in the library.
+      ko: 도서관에서 공부가 더 잘 된다.
+    gender: null
+    notes:
+      en: Si impersonale construction
+      ko: 비인칭 si 구문
+  - italian: Non solo è intelligente, ma anche simpatico.
+    translation:
+      en: He is not only smart, but also nice.
+      ko: 그는 똑똑할 뿐만 아니라 친절하기도 하다.
+    gender: null
+  - italian: Più studio, più capisco.
+    translation:
+      en: The more I study, the more I understand.
+      ko: 공부하면 할수록 더 이해한다.
+    gender: null
+    notes:
+      en: Correlative comparative construction
+      ko: 상관 비교 구문
+  - italian: È stato fatto in modo che tutti capissero.
+    translation:
+      en: It was done so that everyone would understand.
+      ko: 모두가 이해하도록 행해졌다.
+    gender: null
+    notes:
+      en: "'in modo che' + congiuntivo"
+      ko: "'in modo che' + 접속법"
+  - italian: Per quanto io sappia, è vero.
+    translation:
+      en: As far as I know, it is true.
+      ko: 내가 아는 한, 사실이다.
+    gender: null
+  - italian: A meno che non si faccia in fretta, arriveremo tardi.
+    translation:
+      en: Unless we hurry, we'll arrive late.
+      ko: 서두르지 않으면 늦을 것이다.
+    gender: null
+  - italian: Nonostante sia giovane, è molto maturo.
+    translation:
+      en: Despite being young, he is very mature.
+      ko: 젊음에도 불구하고 매우 성숙하다.
+    gender: null
+  - italian: Pur essendo stanco, ha continuato a lavorare.
+    translation:
+      en: Despite being tired, he continued to work.
+      ko: 피곤했음에도 불구하고 계속 일했다.
+    gender: null
+    notes:
+      en: "'pur' + gerund = despite/although"
+      ko: "'pur' + 제룬디오 = ~에도 불구하고"
+  - italian: Senza che nessuno lo sapesse, è partito.
+    translation:
+      en: Without anyone knowing, he left.
+      ko: 아무도 모르게 그는 떠났다.
+    gender: null
+  - italian: Mi ha fatto sapere che sarebbe arrivato tardi.
+    translation:
+      en: He let me know that he would arrive late.
+      ko: 그는 늦게 도착할 거라고 알려주었다.
+    gender: null
