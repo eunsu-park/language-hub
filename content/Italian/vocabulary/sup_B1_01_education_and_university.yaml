@@ -1,0 +1,869 @@
+lesson: "sup_B1_Education_and_University"
+lesson_number: 301
+cefr: B1
+type: supplementary
+topic: "Education and University"
+categories:
+- id: school
+  label:
+    en: "School"
+    ko: "학교"
+  type: vocabulary
+  words:
+  - italian: "la scuola"
+    translation:
+      en: "school"
+      ko: "학교"
+    gender: f
+  - italian: "il liceo"
+    translation:
+      en: "high school / lyceum"
+      ko: "고등학교 / 인문계 고교"
+    gender: m
+    notes:
+      en: "Academic-track secondary school in Italy"
+      ko: "이탈리아의 인문계 중등학교"
+  - italian: "l'università"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+  - italian: "la facoltà"
+    translation:
+      en: "faculty / department"
+      ko: "학부 / 학과"
+    gender: f
+    notes:
+      en: "Invariable plural: le facoltà"
+      ko: "복수형 불변: le facoltà"
+  - italian: "la lezione"
+    translation:
+      en: "lesson / lecture"
+      ko: "수업 / 강의"
+    gender: f
+  - italian: "il corso"
+    translation:
+      en: "course"
+      ko: "과정 / 강좌"
+    gender: m
+  - italian: "l'esame"
+    translation:
+      en: "exam"
+      ko: "시험"
+    gender: m
+  - italian: "il voto"
+    translation:
+      en: "grade / mark"
+      ko: "성적 / 점수"
+    gender: m
+    notes:
+      en: "Also means 'vote'; Italian grades are out of 30 at university"
+      ko: "'투표'라는 뜻도 있음; 대학 성적은 30점 만점"
+  - italian: "la laurea"
+    translation:
+      en: "degree / graduation"
+      ko: "학위 / 졸업"
+    gender: f
+    notes:
+      en: "Laurea triennale (bachelor's), laurea magistrale (master's)"
+      ko: "Laurea triennale (학사), laurea magistrale (석사)"
+  - italian: "la borsa di studio"
+    translation:
+      en: "scholarship"
+      ko: "장학금"
+    gender: f
+  - italian: "lo studente"
+    translation:
+      en: "student (male)"
+      ko: "학생 (남성)"
+    gender: m
+    notes:
+      en: "la studentessa for female"
+      ko: "여성형은 la studentessa"
+  - italian: "il professore"
+    translation:
+      en: "professor / teacher"
+      ko: "교수 / 교사"
+    gender: m
+    notes:
+      en: "la professoressa for female"
+      ko: "여성형은 la professoressa"
+  - italian: "il maestro"
+    translation:
+      en: "elementary school teacher / master"
+      ko: "초등학교 교사 / 거장"
+    gender: m
+    notes:
+      en: "la maestra for female"
+      ko: "여성형은 la maestra"
+  - italian: "l'aula"
+    translation:
+      en: "classroom"
+      ko: "교실"
+    gender: f
+  - italian: "la biblioteca"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+  - italian: "il laboratorio"
+    translation:
+      en: "laboratory"
+      ko: "실험실"
+    gender: m
+  - italian: "la mensa"
+    translation:
+      en: "canteen / cafeteria"
+      ko: "구내식당"
+    gender: f
+  - italian: "il semestre"
+    translation:
+      en: "semester"
+      ko: "학기"
+    gender: m
+  - italian: "il rettore"
+    translation:
+      en: "rector / university president"
+      ko: "총장"
+    gender: m
+    notes:
+      en: "la rettrice for female"
+      ko: "여성형은 la rettrice"
+  - italian: "la segreteria"
+    translation:
+      en: "registrar's office / administration"
+      ko: "행정실 / 교무처"
+    gender: f
+  - italian: "il diploma"
+    translation:
+      en: "diploma / high school degree"
+      ko: "졸업장"
+    gender: m
+  - italian: "la pagella"
+    translation:
+      en: "report card"
+      ko: "성적표"
+    gender: f
+  - italian: "la tesi"
+    translation:
+      en: "thesis / dissertation"
+      ko: "논문"
+    gender: f
+    notes:
+      en: "Invariable: la tesi / le tesi"
+      ko: "불변 명사: la tesi / le tesi"
+  - italian: "il tirocinio"
+    translation:
+      en: "internship / practicum"
+      ko: "인턴십 / 실습"
+    gender: m
+  - italian: "l'istituto"
+    translation:
+      en: "institute / technical school"
+      ko: "학원 / 기술학교"
+    gender: m
+  - italian: "la scuola media"
+    translation:
+      en: "middle school"
+      ko: "중학교"
+    gender: f
+    notes:
+      en: "Officially: scuola secondaria di primo grado"
+      ko: "공식 명칭: scuola secondaria di primo grado"
+  - italian: "la scuola elementare"
+    translation:
+      en: "elementary school"
+      ko: "초등학교"
+    gender: f
+    notes:
+      en: "Officially: scuola primaria"
+      ko: "공식 명칭: scuola primaria"
+  - italian: "il dottorato"
+    translation:
+      en: "doctorate / PhD"
+      ko: "박사 학위"
+    gender: m
+  - italian: "il ricercatore"
+    translation:
+      en: "researcher / assistant professor"
+      ko: "연구원 / 조교수"
+    gender: m
+    notes:
+      en: "la ricercatrice for female"
+      ko: "여성형은 la ricercatrice"
+- id: subjects
+  label:
+    en: "Subjects"
+    ko: "학과목"
+  type: vocabulary
+  words:
+  - italian: "la matematica"
+    translation:
+      en: "mathematics"
+      ko: "수학"
+    gender: f
+  - italian: "la storia"
+    translation:
+      en: "history"
+      ko: "역사"
+    gender: f
+  - italian: "le scienze"
+    translation:
+      en: "sciences"
+      ko: "과학"
+    gender: f
+    notes:
+      en: "Plural form; singular la scienza for 'science' in general"
+      ko: "복수형; 일반적인 '과학'은 단수 la scienza"
+  - italian: "la letteratura"
+    translation:
+      en: "literature"
+      ko: "문학"
+    gender: f
+  - italian: "la filosofia"
+    translation:
+      en: "philosophy"
+      ko: "철학"
+    gender: f
+  - italian: "la fisica"
+    translation:
+      en: "physics"
+      ko: "물리학"
+    gender: f
+  - italian: "la chimica"
+    translation:
+      en: "chemistry"
+      ko: "화학"
+    gender: f
+  - italian: "la biologia"
+    translation:
+      en: "biology"
+      ko: "생물학"
+    gender: f
+  - italian: "l'informatica"
+    translation:
+      en: "computer science"
+      ko: "컴퓨터 과학"
+    gender: f
+  - italian: "l'economia"
+    translation:
+      en: "economics"
+      ko: "경제학"
+    gender: f
+  - italian: "il diritto"
+    translation:
+      en: "law (subject)"
+      ko: "법학"
+    gender: m
+    notes:
+      en: "Also means 'right' (legal right); giurisprudenza for law faculty"
+      ko: "'권리'라는 뜻도 있음; 법학부는 giurisprudenza"
+  - italian: "la medicina"
+    translation:
+      en: "medicine"
+      ko: "의학"
+    gender: f
+  - italian: "la geografia"
+    translation:
+      en: "geography"
+      ko: "지리학"
+    gender: f
+  - italian: "l'arte"
+    translation:
+      en: "art"
+      ko: "미술 / 예술"
+    gender: f
+  - italian: "la musica"
+    translation:
+      en: "music"
+      ko: "음악"
+    gender: f
+  - italian: "l'educazione fisica"
+    translation:
+      en: "physical education"
+      ko: "체육"
+    gender: f
+  - italian: "la psicologia"
+    translation:
+      en: "psychology"
+      ko: "심리학"
+    gender: f
+  - italian: "la sociologia"
+    translation:
+      en: "sociology"
+      ko: "사회학"
+    gender: f
+  - italian: "l'architettura"
+    translation:
+      en: "architecture"
+      ko: "건축학"
+    gender: f
+  - italian: "l'ingegneria"
+    translation:
+      en: "engineering"
+      ko: "공학"
+    gender: f
+  - italian: "la giurisprudenza"
+    translation:
+      en: "law (faculty/study)"
+      ko: "법학 (학부)"
+    gender: f
+    notes:
+      en: "The academic discipline; diritto is the subject matter"
+      ko: "학문 분야; diritto는 과목 내용"
+  - italian: "le scienze politiche"
+    translation:
+      en: "political science"
+      ko: "정치학"
+    gender: f
+  - italian: "la linguistica"
+    translation:
+      en: "linguistics"
+      ko: "언어학"
+    gender: f
+- id: activities
+  label:
+    en: "Academic Activities"
+    ko: "학업 활동"
+  type: vocabulary
+  words:
+  - italian: "studiare"
+    translation:
+      en: "to study"
+      ko: "공부하다"
+    gender: null
+  - italian: "imparare"
+    translation:
+      en: "to learn"
+      ko: "배우다"
+    gender: null
+  - italian: "insegnare"
+    translation:
+      en: "to teach"
+      ko: "가르치다"
+    gender: null
+  - italian: "frequentare"
+    translation:
+      en: "to attend (a course)"
+      ko: "수강하다 / 다니다"
+    gender: null
+  - italian: "diplomarsi"
+    translation:
+      en: "to get a high school diploma"
+      ko: "고등학교를 졸업하다"
+    gender: null
+    notes:
+      en: "Reflexive verb; refers to high school graduation"
+      ko: "재귀 동사; 고등학교 졸업을 의미"
+  - italian: "laurearsi"
+    translation:
+      en: "to graduate (from university)"
+      ko: "대학을 졸업하다"
+    gender: null
+    notes:
+      en: "Reflexive verb; laurearsi in + subject"
+      ko: "재귀 동사; laurearsi in + 전공"
+  - italian: "bocciare"
+    translation:
+      en: "to fail / to flunk"
+      ko: "낙제시키다 / 불합격시키다"
+    gender: null
+    notes:
+      en: "essere bocciato = to be held back / to fail"
+      ko: "essere bocciato = 유급되다 / 낙제하다"
+  - italian: "promuovere"
+    translation:
+      en: "to pass / to promote"
+      ko: "합격시키다 / 진급시키다"
+    gender: null
+    notes:
+      en: "Irregular past participle: promosso"
+      ko: "불규칙 과거분사: promosso"
+  - italian: "iscriversi"
+    translation:
+      en: "to enroll / to register"
+      ko: "등록하다 / 입학하다"
+    gender: null
+    notes:
+      en: "Reflexive; iscriversi all'università"
+      ko: "재귀 동사; iscriversi all'università"
+  - italian: "superare un esame"
+    translation:
+      en: "to pass an exam"
+      ko: "시험에 합격하다"
+    gender: null
+  - italian: "sostenere un esame"
+    translation:
+      en: "to take an exam"
+      ko: "시험을 치다"
+    gender: null
+    notes:
+      en: "More formal than dare un esame"
+      ko: "dare un esame보다 격식체"
+  - italian: "dare un esame"
+    translation:
+      en: "to take an exam"
+      ko: "시험을 보다"
+    gender: null
+    notes:
+      en: "Colloquial; very common in student speech"
+      ko: "구어; 학생들이 매우 자주 사용"
+  - italian: "prendere appunti"
+    translation:
+      en: "to take notes"
+      ko: "필기하다"
+    gender: null
+  - italian: "ripassare"
+    translation:
+      en: "to review / to revise"
+      ko: "복습하다"
+    gender: null
+  - italian: "ricercare"
+    translation:
+      en: "to research"
+      ko: "연구하다"
+    gender: null
+  - italian: "analizzare"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+    gender: null
+  - italian: "presentare"
+    translation:
+      en: "to present"
+      ko: "발표하다"
+    gender: null
+  - italian: "consegnare"
+    translation:
+      en: "to submit / to hand in"
+      ko: "제출하다"
+    gender: null
+  - italian: "copiare"
+    translation:
+      en: "to copy / to cheat"
+      ko: "베끼다 / 부정행위하다"
+    gender: null
+  - italian: "specializzarsi"
+    translation:
+      en: "to specialize"
+      ko: "전공하다 / 전문화하다"
+    gender: null
+- id: supplies
+  label:
+    en: "School Supplies"
+    ko: "학용품"
+  type: vocabulary
+  words:
+  - italian: "il libro"
+    translation:
+      en: "book"
+      ko: "책"
+    gender: m
+  - italian: "il quaderno"
+    translation:
+      en: "notebook"
+      ko: "공책"
+    gender: m
+  - italian: "la penna"
+    translation:
+      en: "pen"
+      ko: "펜"
+    gender: f
+  - italian: "la matita"
+    translation:
+      en: "pencil"
+      ko: "연필"
+    gender: f
+  - italian: "il computer"
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: m
+  - italian: "lo zaino"
+    translation:
+      en: "backpack"
+      ko: "배낭 / 가방"
+    gender: m
+  - italian: "la lavagna"
+    translation:
+      en: "blackboard / whiteboard"
+      ko: "칠판 / 화이트보드"
+    gender: f
+  - italian: "il gesso"
+    translation:
+      en: "chalk"
+      ko: "분필"
+    gender: m
+  - italian: "il proiettore"
+    translation:
+      en: "projector"
+      ko: "프로젝터"
+    gender: m
+  - italian: "la gomma"
+    translation:
+      en: "eraser"
+      ko: "지우개"
+    gender: f
+  - italian: "il righello"
+    translation:
+      en: "ruler"
+      ko: "자"
+    gender: m
+  - italian: "le forbici"
+    translation:
+      en: "scissors"
+      ko: "가위"
+    gender: f
+    notes:
+      en: "Always plural in Italian"
+      ko: "이탈리아어에서 항상 복수형"
+  - italian: "la colla"
+    translation:
+      en: "glue"
+      ko: "풀"
+    gender: f
+  - italian: "il dizionario"
+    translation:
+      en: "dictionary"
+      ko: "사전"
+    gender: m
+  - italian: "la calcolatrice"
+    translation:
+      en: "calculator"
+      ko: "계산기"
+    gender: f
+  - italian: "il temperino"
+    translation:
+      en: "pencil sharpener"
+      ko: "연필깎이"
+    gender: m
+  - italian: "l'evidenziatore"
+    translation:
+      en: "highlighter"
+      ko: "형광펜"
+    gender: m
+  - italian: "il pennarello"
+    translation:
+      en: "marker / felt-tip pen"
+      ko: "마커 / 사인펜"
+    gender: m
+  - italian: "il portapenne"
+    translation:
+      en: "pencil case"
+      ko: "필통"
+    gender: m
+    notes:
+      en: "Also: l'astuccio"
+      ko: "또한: l'astuccio"
+  - italian: "il foglio"
+    translation:
+      en: "sheet of paper"
+      ko: "종이 한 장"
+    gender: m
+  - italian: "il tablet"
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: m
+  - italian: "la cartella"
+    translation:
+      en: "folder / school bag"
+      ko: "폴더 / 가방"
+    gender: f
+  - italian: "il banco"
+    translation:
+      en: "school desk"
+      ko: "학생 책상"
+    gender: m
+    notes:
+      en: "Plural: i banchi"
+      ko: "복수: i banchi"
+  - italian: "la cattedra"
+    translation:
+      en: "teacher's desk / professorship"
+      ko: "교탁 / 교수직"
+    gender: f
+- id: degrees_and_qualifications
+  label:
+    en: "Degrees and Qualifications"
+    ko: "학위 및 자격"
+  type: vocabulary
+  words:
+  - italian: "il titolo di studio"
+    translation:
+      en: "educational qualification"
+      ko: "학력"
+    gender: m
+  - italian: "la laurea triennale"
+    translation:
+      en: "bachelor's degree (3-year)"
+      ko: "학사 학위 (3년제)"
+    gender: f
+    notes:
+      en: "First cycle in Bologna system"
+      ko: "볼로냐 체계의 첫 번째 과정"
+  - italian: "la laurea magistrale"
+    translation:
+      en: "master's degree (2-year)"
+      ko: "석사 학위 (2년제)"
+    gender: f
+  - italian: "il master"
+    translation:
+      en: "professional master's"
+      ko: "전문 석사"
+    gender: m
+    notes:
+      en: "Different from laurea magistrale; vocational postgraduate"
+      ko: "laurea magistrale와 다름; 직업 대학원"
+  - italian: "la specializzazione"
+    translation:
+      en: "specialization"
+      ko: "전문화 / 전공"
+    gender: f
+  - italian: "il credito formativo"
+    translation:
+      en: "academic credit (CFU)"
+      ko: "학점 (CFU)"
+    gender: m
+    notes:
+      en: "CFU = Credito Formativo Universitario; Italian ECTS equivalent"
+      ko: "CFU = Credito Formativo Universitario; 이탈리아 ECTS 동등"
+  - italian: "la media"
+    translation:
+      en: "grade point average"
+      ko: "평균 성적"
+    gender: f
+  - italian: "il voto di laurea"
+    translation:
+      en: "final degree grade"
+      ko: "졸업 성적"
+    gender: m
+    notes:
+      en: "Out of 110; 110 e lode = highest honors"
+      ko: "110점 만점; 110 e lode = 최우수"
+  - italian: "fuori corso"
+    translation:
+      en: "behind schedule (in studies)"
+      ko: "학업 지연"
+    gender: null
+    notes:
+      en: "Common in Italy; student who hasn't graduated on time"
+      ko: "이탈리아에서 흔함; 정규 기간 내 졸업하지 못한 학생"
+  - italian: "in corso"
+    translation:
+      en: "on schedule (in studies)"
+      ko: "정규 과정 중"
+    gender: null
+  - italian: "la sessione d'esami"
+    translation:
+      en: "exam session / period"
+      ko: "시험 기간"
+    gender: f
+  - italian: "l'appello"
+    translation:
+      en: "exam date / exam sitting"
+      ko: "시험 일정"
+    gender: m
+    notes:
+      en: "Multiple appelli per session in Italian universities"
+      ko: "이탈리아 대학에서 세션당 여러 appelli"
+  - italian: "la commissione"
+    translation:
+      en: "examination committee"
+      ko: "시험 위원회"
+    gender: f
+  - italian: "il relatore"
+    translation:
+      en: "thesis advisor"
+      ko: "논문 지도 교수"
+    gender: m
+    notes:
+      en: "la relatrice for female"
+      ko: "여성형은 la relatrice"
+  - italian: "il correlatore"
+    translation:
+      en: "co-advisor"
+      ko: "공동 지도 교수"
+    gender: m
+  - italian: "la discussione della tesi"
+    translation:
+      en: "thesis defense"
+      ko: "논문 심사"
+    gender: f
+  - italian: "il piano di studi"
+    translation:
+      en: "study plan / curriculum"
+      ko: "학습 계획 / 교육 과정"
+    gender: m
+  - italian: "l'orario delle lezioni"
+    translation:
+      en: "class schedule"
+      ko: "수업 시간표"
+    gender: m
+  - italian: "la frequenza"
+    translation:
+      en: "attendance"
+      ko: "출석"
+    gender: f
+    notes:
+      en: "la frequenza obbligatoria = mandatory attendance"
+      ko: "la frequenza obbligatoria = 의무 출석"
+  - italian: "il fuorisede"
+    translation:
+      en: "out-of-town student"
+      ko: "타지 학생"
+    gender: m
+    notes:
+      en: "Student studying away from their hometown; very common in Italy"
+      ko: "고향을 떠나 공부하는 학생; 이탈리아에서 매우 흔함"
+  - italian: "la maturità"
+    translation:
+      en: "high school leaving exam"
+      ko: "고등학교 졸업 시험"
+    gender: f
+    notes:
+      en: "l'esame di maturità = Italian high school final exam"
+      ko: "l'esame di maturità = 이탈리아 고등학교 최종 시험"
+  - italian: "il test d'ingresso"
+    translation:
+      en: "entrance exam"
+      ko: "입학 시험"
+    gender: m
+    notes:
+      en: "Required for medicine, architecture, and some other faculties"
+      ko: "의학, 건축 및 일부 학부에서 필수"
+  - italian: "il numero chiuso"
+    translation:
+      en: "limited enrollment"
+      ko: "정원 제한"
+    gender: m
+    notes:
+      en: "Faculties with restricted entry (e.g., Medicine)"
+      ko: "입학 제한 학부 (예: 의학)"
+  - italian: "il ricevimento"
+    translation:
+      en: "office hours"
+      ko: "면담 시간"
+    gender: m
+    notes:
+      en: "l'orario di ricevimento = professor's office hours"
+      ko: "l'orario di ricevimento = 교수 면담 시간"
+  - italian: "la dispensa"
+    translation:
+      en: "course reader / handout"
+      ko: "수업 자료 / 유인물"
+    gender: f
+  - italian: "il seminario"
+    translation:
+      en: "seminar"
+      ko: "세미나"
+    gender: m
+  - italian: "la conferenza"
+    translation:
+      en: "lecture / conference"
+      ko: "강연 / 학회"
+    gender: f
+  - italian: "il convegno"
+    translation:
+      en: "conference / congress"
+      ko: "학술 대회"
+    gender: m
+  - italian: "la ricerca"
+    translation:
+      en: "research"
+      ko: "연구"
+    gender: f
+  - italian: "il progetto"
+    translation:
+      en: "project"
+      ko: "프로젝트"
+    gender: m
+  - italian: "l'elaborato"
+    translation:
+      en: "written assignment / paper"
+      ko: "레포트 / 과제물"
+    gender: m
+  - italian: "la tesina"
+    translation:
+      en: "short thesis / term paper"
+      ko: "소논문 / 학기말 리포트"
+    gender: f
+  - italian: "il compito"
+    translation:
+      en: "homework / assignment"
+      ko: "숙제 / 과제"
+    gender: m
+    notes:
+      en: "il compito in classe = class test"
+      ko: "il compito in classe = 수업 시험"
+  - italian: "la verifica"
+    translation:
+      en: "test / quiz"
+      ko: "테스트 / 쪽지시험"
+    gender: f
+  - italian: "l'interrogazione"
+    translation:
+      en: "oral examination (school)"
+      ko: "구술 시험 (학교)"
+    gender: f
+    notes:
+      en: "Typical of Italian schools; teacher questions student orally"
+      ko: "이탈리아 학교의 전형적 방식; 교사가 학생에게 구두로 질문"
+  - italian: "il voto in trentesimi"
+    translation:
+      en: "grade out of 30"
+      ko: "30점 만점 성적"
+    gender: m
+    notes:
+      en: "University grading: 18/30 = pass, 30/30 e lode = highest"
+      ko: "대학 성적: 18/30 = 합격, 30/30 e lode = 최고"
+  - italian: "la borsa di ricerca"
+    translation:
+      en: "research grant"
+      ko: "연구 장학금"
+    gender: f
+  - italian: "l'assegnista di ricerca"
+    translation:
+      en: "postdoctoral researcher"
+      ko: "박사후 연구원"
+    gender: m
+    notes:
+      en: "l'assegnista for both genders"
+      ko: "남녀 동일 형태"
+  - italian: "il borsista"
+    translation:
+      en: "scholarship holder"
+      ko: "장학생"
+    gender: m
+    notes:
+      en: "la borsista for female"
+      ko: "여성형은 la borsista"
+  - italian: "la supplenza"
+    translation:
+      en: "substitute teaching"
+      ko: "대리 교사직"
+    gender: f
+  - italian: "il supplente"
+    translation:
+      en: "substitute teacher"
+      ko: "대리 교사"
+    gender: m
+    notes:
+      en: "la supplente for female"
+      ko: "여성형은 la supplente"
+  - italian: "il preside"
+    translation:
+      en: "principal / headmaster"
+      ko: "교장"
+    gender: m
+    notes:
+      en: "la preside for female; il dirigente scolastico (official term)"
+      ko: "여성형은 la preside; il dirigente scolastico (공식 용어)"
+  - italian: "il bidello"
+    translation:
+      en: "school janitor / caretaker"
+      ko: "학교 관리인"
+    gender: m
+    notes:
+      en: "la bidella for female; officially: il collaboratore scolastico"
+      ko: "여성형은 la bidella; 공식: il collaboratore scolastico"
