@@ -1,0 +1,829 @@
+lesson: "sup_B1_Workplace_and_Office"
+lesson_number: 302
+cefr: B1
+type: supplementary
+topic: "Workplace and Office"
+categories:
+- id: office
+  label:
+    en: "Office"
+    ko: "사무실"
+  type: vocabulary
+  words:
+  - italian: "l'ufficio"
+    translation:
+      en: "office"
+      ko: "사무실"
+    gender: m
+  - italian: "la scrivania"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: f
+  - italian: "il computer"
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: m
+  - italian: "la stampante"
+    translation:
+      en: "printer"
+      ko: "프린터"
+    gender: f
+  - italian: "la fotocopiatrice"
+    translation:
+      en: "photocopier"
+      ko: "복사기"
+    gender: f
+  - italian: "lo scanner"
+    translation:
+      en: "scanner"
+      ko: "스캐너"
+    gender: m
+  - italian: "il telefono"
+    translation:
+      en: "telephone"
+      ko: "전화기"
+    gender: m
+  - italian: "la riunione"
+    translation:
+      en: "meeting"
+      ko: "회의"
+    gender: f
+  - italian: "il collega"
+    translation:
+      en: "colleague"
+      ko: "동료"
+    gender: m
+    notes:
+      en: "la collega for female; plural: i colleghi / le colleghe"
+      ko: "여성형은 la collega; 복수: i colleghi / le colleghe"
+  - italian: "il capo"
+    translation:
+      en: "boss / head"
+      ko: "상사 / 보스"
+    gender: m
+    notes:
+      en: "la capa for female (informal); il/la capo also used"
+      ko: "여성형은 la capa (비격식); il/la capo도 사용"
+  - italian: "il direttore"
+    translation:
+      en: "director / manager"
+      ko: "이사 / 관리자"
+    gender: m
+    notes:
+      en: "la direttrice for female"
+      ko: "여성형은 la direttrice"
+  - italian: "la sala riunioni"
+    translation:
+      en: "meeting room"
+      ko: "회의실"
+    gender: f
+  - italian: "la reception"
+    translation:
+      en: "reception / front desk"
+      ko: "접수처 / 프론트"
+    gender: f
+    notes:
+      en: "English loanword; invariable"
+      ko: "영어 차용어; 불변"
+  - italian: "l'archivio"
+    translation:
+      en: "archive / filing room"
+      ko: "문서 보관실"
+    gender: m
+  - italian: "la pausa caffè"
+    translation:
+      en: "coffee break"
+      ko: "커피 휴식"
+    gender: f
+  - italian: "il badge"
+    translation:
+      en: "ID badge"
+      ko: "출입증"
+    gender: m
+    notes:
+      en: "English loanword; pronounced /bedʒ/"
+      ko: "영어 차용어"
+- id: jobs
+  label:
+    en: "Jobs and Positions"
+    ko: "직업 및 직위"
+  type: vocabulary
+  words:
+  - italian: "l'impiegato"
+    translation:
+      en: "employee / clerk"
+      ko: "직원 / 사무원"
+    gender: m
+    notes:
+      en: "l'impiegata for female"
+      ko: "여성형은 l'impiegata"
+  - italian: "il segretario"
+    translation:
+      en: "secretary"
+      ko: "비서"
+    gender: m
+    notes:
+      en: "la segretaria for female"
+      ko: "여성형은 la segretaria"
+  - italian: "il programmatore"
+    translation:
+      en: "programmer"
+      ko: "프로그래머"
+    gender: m
+    notes:
+      en: "la programmatrice for female"
+      ko: "여성형은 la programmatrice"
+  - italian: "il contabile"
+    translation:
+      en: "accountant"
+      ko: "회계사"
+    gender: m
+    notes:
+      en: "la contabile for female"
+      ko: "여성형은 la contabile"
+  - italian: "il manager"
+    translation:
+      en: "manager"
+      ko: "매니저"
+    gender: m
+    notes:
+      en: "English loanword; la manager for female"
+      ko: "영어 차용어; 여성형은 la manager"
+  - italian: "il consulente"
+    translation:
+      en: "consultant"
+      ko: "컨설턴트"
+    gender: m
+    notes:
+      en: "la consulente for female"
+      ko: "여성형은 la consulente"
+  - italian: "l'analista"
+    translation:
+      en: "analyst"
+      ko: "분석가"
+    gender: m
+    notes:
+      en: "l'analista for both genders; article changes: l'analista (m/f)"
+      ko: "남녀 동일 형태; 관사로 구분"
+  - italian: "il tecnico"
+    translation:
+      en: "technician"
+      ko: "기술자"
+    gender: m
+    notes:
+      en: "la tecnica for female"
+      ko: "여성형은 la tecnica"
+  - italian: "il rappresentante"
+    translation:
+      en: "representative / sales rep"
+      ko: "대리인 / 영업 담당"
+    gender: m
+    notes:
+      en: "la rappresentante for female"
+      ko: "여성형은 la rappresentante"
+  - italian: "il venditore"
+    translation:
+      en: "salesperson"
+      ko: "판매원"
+    gender: m
+    notes:
+      en: "la venditrice for female"
+      ko: "여성형은 la venditrice"
+  - italian: "il commercialista"
+    translation:
+      en: "chartered accountant / tax advisor"
+      ko: "공인 회계사 / 세무사"
+    gender: m
+    notes:
+      en: "la commercialista for female; key Italian profession"
+      ko: "여성형은 la commercialista; 이탈리아 주요 직업"
+  - italian: "l'ingegnere"
+    translation:
+      en: "engineer"
+      ko: "엔지니어"
+    gender: m
+    notes:
+      en: "l'ingegnera for female (newer form)"
+      ko: "여성형은 l'ingegnera (신조어)"
+  - italian: "il dirigente"
+    translation:
+      en: "executive / senior manager"
+      ko: "임원 / 고위 관리자"
+    gender: m
+    notes:
+      en: "la dirigente for female"
+      ko: "여성형은 la dirigente"
+  - italian: "il dipendente"
+    translation:
+      en: "employee"
+      ko: "직원 / 피고용인"
+    gender: m
+    notes:
+      en: "la dipendente for female"
+      ko: "여성형은 la dipendente"
+  - italian: "il datore di lavoro"
+    translation:
+      en: "employer"
+      ko: "고용주"
+    gender: m
+- id: work_actions
+  label:
+    en: "Work Actions"
+    ko: "업무 행동"
+  type: vocabulary
+  words:
+  - italian: "lavorare"
+    translation:
+      en: "to work"
+      ko: "일하다"
+    gender: null
+  - italian: "assumere"
+    translation:
+      en: "to hire"
+      ko: "고용하다"
+    gender: null
+    notes:
+      en: "Past participle: assunto"
+      ko: "과거분사: assunto"
+  - italian: "licenziare"
+    translation:
+      en: "to fire / to dismiss"
+      ko: "해고하다"
+    gender: null
+  - italian: "dimettersi"
+    translation:
+      en: "to resign"
+      ko: "사직하다"
+    gender: null
+    notes:
+      en: "Reflexive verb; past participle: dimesso"
+      ko: "재귀 동사; 과거분사: dimesso"
+  - italian: "promuovere"
+    translation:
+      en: "to promote"
+      ko: "승진시키다"
+    gender: null
+    notes:
+      en: "Irregular past participle: promosso"
+      ko: "불규칙 과거분사: promosso"
+  - italian: "il colloquio"
+    translation:
+      en: "job interview"
+      ko: "면접"
+    gender: m
+    notes:
+      en: "il colloquio di lavoro for full form"
+      ko: "전체 형태: il colloquio di lavoro"
+  - italian: "lo stipendio"
+    translation:
+      en: "salary"
+      ko: "급여"
+    gender: m
+  - italian: "lo straordinario"
+    translation:
+      en: "overtime"
+      ko: "초과 근무"
+    gender: m
+    notes:
+      en: "fare lo straordinario = to work overtime"
+      ko: "fare lo straordinario = 초과 근무하다"
+  - italian: "le ferie"
+    translation:
+      en: "vacation / holidays"
+      ko: "휴가"
+    gender: f
+    notes:
+      en: "Always plural"
+      ko: "항상 복수형"
+  - italian: "il permesso"
+    translation:
+      en: "leave / permission"
+      ko: "허가 / 휴가"
+    gender: m
+  - italian: "la malattia"
+    translation:
+      en: "sick leave / illness"
+      ko: "병가 / 질병"
+    gender: f
+    notes:
+      en: "essere in malattia = to be on sick leave"
+      ko: "essere in malattia = 병가 중이다"
+  - italian: "il congedo"
+    translation:
+      en: "leave (formal)"
+      ko: "휴직"
+    gender: m
+    notes:
+      en: "congedo di maternità/paternità = maternity/paternity leave"
+      ko: "congedo di maternità/paternità = 출산/육아 휴직"
+  - italian: "il turno"
+    translation:
+      en: "shift"
+      ko: "교대 근무"
+    gender: m
+  - italian: "la pausa pranzo"
+    translation:
+      en: "lunch break"
+      ko: "점심 휴식"
+    gender: f
+  - italian: "timbrare il cartellino"
+    translation:
+      en: "to clock in/out"
+      ko: "출퇴근 카드를 찍다"
+    gender: null
+  - italian: "fare carriera"
+    translation:
+      en: "to build a career"
+      ko: "경력을 쌓다"
+    gender: null
+  - italian: "il curriculum vitae"
+    translation:
+      en: "résumé / CV"
+      ko: "이력서"
+    gender: m
+    notes:
+      en: "Abbreviation: CV; also il curriculum"
+      ko: "약어: CV; 또한 il curriculum"
+  - italian: "la lettera di presentazione"
+    translation:
+      en: "cover letter"
+      ko: "자기소개서"
+    gender: f
+  - italian: "candidarsi"
+    translation:
+      en: "to apply (for a position)"
+      ko: "지원하다"
+    gender: null
+- id: contract
+  label:
+    en: "Contract and Employment"
+    ko: "계약 및 고용"
+  type: vocabulary
+  words:
+  - italian: "il contratto"
+    translation:
+      en: "contract"
+      ko: "계약"
+    gender: m
+  - italian: "il tempo pieno"
+    translation:
+      en: "full-time"
+      ko: "전일 근무"
+    gender: m
+  - italian: "il part-time"
+    translation:
+      en: "part-time"
+      ko: "파트타임"
+    gender: m
+    notes:
+      en: "Also: il tempo parziale (formal)"
+      ko: "또한: il tempo parziale (격식체)"
+  - italian: "il tirocinio"
+    translation:
+      en: "internship / apprenticeship"
+      ko: "인턴십 / 수습"
+    gender: m
+  - italian: "lo stage"
+    translation:
+      en: "internship / training period"
+      ko: "인턴십 / 연수"
+    gender: m
+    notes:
+      en: "French loanword; pronounced /staʒ/"
+      ko: "프랑스어 차용어; 발음 /staʒ/"
+  - italian: "il freelance"
+    translation:
+      en: "freelance"
+      ko: "프리랜서"
+    gender: m
+    notes:
+      en: "English loanword; lavorare come freelance"
+      ko: "영어 차용어; lavorare come freelance"
+  - italian: "il libero professionista"
+    translation:
+      en: "self-employed professional"
+      ko: "자유 전문직 종사자"
+    gender: m
+    notes:
+      en: "la libera professionista for female"
+      ko: "여성형은 la libera professionista"
+  - italian: "la partita IVA"
+    translation:
+      en: "VAT number / self-employment tax ID"
+      ko: "부가세 번호 / 사업자 등록번호"
+    gender: f
+    notes:
+      en: "Aprire la partita IVA = to register as self-employed"
+      ko: "Aprire la partita IVA = 사업자 등록하다"
+  - italian: "il contratto a tempo determinato"
+    translation:
+      en: "fixed-term contract"
+      ko: "기간제 계약"
+    gender: m
+  - italian: "il contratto a tempo indeterminato"
+    translation:
+      en: "permanent contract"
+      ko: "무기한 계약 / 정규직"
+    gender: m
+    notes:
+      en: "The most desirable type of contract in Italy"
+      ko: "이탈리아에서 가장 선호되는 계약 형태"
+  - italian: "la busta paga"
+    translation:
+      en: "payslip"
+      ko: "급여 명세서"
+    gender: f
+  - italian: "il sindacato"
+    translation:
+      en: "labor union"
+      ko: "노동조합"
+    gender: m
+  - italian: "lo sciopero"
+    translation:
+      en: "strike"
+      ko: "파업"
+    gender: m
+    notes:
+      en: "fare sciopero / scioperare = to go on strike"
+      ko: "fare sciopero / scioperare = 파업하다"
+  - italian: "la pensione"
+    translation:
+      en: "pension / retirement"
+      ko: "연금 / 퇴직"
+    gender: f
+    notes:
+      en: "andare in pensione = to retire"
+      ko: "andare in pensione = 은퇴하다"
+  - italian: "il TFR"
+    translation:
+      en: "severance pay"
+      ko: "퇴직금"
+    gender: m
+    notes:
+      en: "Trattamento di Fine Rapporto; uniquely Italian"
+      ko: "Trattamento di Fine Rapporto; 이탈리아 고유 제도"
+  - italian: "i contributi"
+    translation:
+      en: "social security contributions"
+      ko: "사회보험료"
+    gender: m
+  - italian: "la tredicesima"
+    translation:
+      en: "13th-month salary / Christmas bonus"
+      ko: "13번째 월급 / 크리스마스 보너스"
+    gender: f
+    notes:
+      en: "Mandatory extra month's pay in Italy"
+      ko: "이탈리아 법정 추가 월급"
+  - italian: "il preavviso"
+    translation:
+      en: "notice period"
+      ko: "사전 통보 기간"
+    gender: m
+  - italian: "la formazione"
+    translation:
+      en: "training"
+      ko: "교육 / 연수"
+    gender: f
+  - italian: "il lavoro da remoto"
+    translation:
+      en: "remote work"
+      ko: "원격 근무"
+    gender: m
+    notes:
+      en: "Also: lo smart working (Italian anglicism); il telelavoro"
+      ko: "또한: lo smart working (이탈리아 영어 차용); il telelavoro"
+  - italian: "lo smart working"
+    translation:
+      en: "remote/flexible work"
+      ko: "스마트 워킹 / 재택근무"
+    gender: m
+    notes:
+      en: "Italian-coined English; does not exist in English with this meaning"
+      ko: "이탈리아에서 만든 영어 표현; 영어에서는 이 의미로 사용되지 않음"
+  - italian: "il coworking"
+    translation:
+      en: "coworking space"
+      ko: "코워킹 공간"
+    gender: m
+  - italian: "il lavoro nero"
+    translation:
+      en: "undeclared work / off-the-books work"
+      ko: "불법 노동 / 비공식 노동"
+    gender: m
+    notes:
+      en: "Significant issue in Italian economy"
+      ko: "이탈리아 경제에서 중요한 문제"
+  - italian: "il precariato"
+    translation:
+      en: "job insecurity / precarious employment"
+      ko: "불안정 고용"
+    gender: m
+    notes:
+      en: "Major social issue in Italy, especially for youth"
+      ko: "이탈리아의 주요 사회 문제, 특히 청년층"
+  - italian: "il lavoro interinale"
+    translation:
+      en: "temporary agency work"
+      ko: "파견 근무"
+    gender: m
+- id: office_equipment_and_tasks
+  label:
+    en: "Office Equipment and Tasks"
+    ko: "사무 장비 및 업무"
+  type: vocabulary
+  words:
+  - italian: "la cartella"
+    translation:
+      en: "folder / file"
+      ko: "폴더 / 파일"
+    gender: f
+  - italian: "il fascicolo"
+    translation:
+      en: "dossier / file"
+      ko: "서류철"
+    gender: m
+  - italian: "la graffetta"
+    translation:
+      en: "paper clip"
+      ko: "클립"
+    gender: f
+  - italian: "la spillatrice"
+    translation:
+      en: "stapler"
+      ko: "스테이플러"
+    gender: f
+  - italian: "il timbro"
+    translation:
+      en: "stamp / seal"
+      ko: "도장 / 인장"
+    gender: m
+  - italian: "la busta"
+    translation:
+      en: "envelope"
+      ko: "봉투"
+    gender: f
+  - italian: "il fax"
+    translation:
+      en: "fax"
+      ko: "팩스"
+    gender: m
+  - italian: "il calendario"
+    translation:
+      en: "calendar"
+      ko: "달력"
+    gender: m
+  - italian: "l'agenda"
+    translation:
+      en: "planner / diary"
+      ko: "다이어리 / 수첩"
+    gender: f
+  - italian: "il progetto"
+    translation:
+      en: "project"
+      ko: "프로젝트"
+    gender: m
+  - italian: "la scadenza"
+    translation:
+      en: "deadline"
+      ko: "마감일"
+    gender: f
+  - italian: "il rapporto"
+    translation:
+      en: "report"
+      ko: "보고서"
+    gender: m
+  - italian: "la presentazione"
+    translation:
+      en: "presentation"
+      ko: "프레젠테이션"
+    gender: f
+  - italian: "il bilancio"
+    translation:
+      en: "budget / balance sheet"
+      ko: "예산 / 재무제표"
+    gender: m
+  - italian: "il fatturato"
+    translation:
+      en: "turnover / revenue"
+      ko: "매출액"
+    gender: m
+  - italian: "l'ordine del giorno"
+    translation:
+      en: "agenda (meeting)"
+      ko: "회의 안건"
+    gender: m
+  - italian: "il verbale"
+    translation:
+      en: "minutes (meeting)"
+      ko: "회의록"
+    gender: m
+  - italian: "l'obiettivo"
+    translation:
+      en: "goal / objective"
+      ko: "목표"
+    gender: m
+  - italian: "il risultato"
+    translation:
+      en: "result"
+      ko: "결과"
+    gender: m
+  - italian: "la strategia"
+    translation:
+      en: "strategy"
+      ko: "전략"
+    gender: f
+  - italian: "il piano aziendale"
+    translation:
+      en: "business plan"
+      ko: "사업 계획"
+    gender: m
+  - italian: "il preventivo"
+    translation:
+      en: "estimate / quote"
+      ko: "견적서"
+    gender: m
+  - italian: "l'ordine"
+    translation:
+      en: "order"
+      ko: "주문"
+    gender: m
+  - italian: "il cliente"
+    translation:
+      en: "client / customer"
+      ko: "고객"
+    gender: m
+    notes:
+      en: "la cliente for female"
+      ko: "여성형은 la cliente"
+  - italian: "il fornitore"
+    translation:
+      en: "supplier"
+      ko: "공급업체"
+    gender: m
+    notes:
+      en: "la fornitrice for female"
+      ko: "여성형은 la fornitrice"
+  - italian: "la sede"
+    translation:
+      en: "headquarters / office location"
+      ko: "본사 / 사무실 위치"
+    gender: f
+  - italian: "la filiale"
+    translation:
+      en: "branch office"
+      ko: "지사"
+    gender: f
+  - italian: "l'azienda"
+    translation:
+      en: "company / firm"
+      ko: "회사 / 기업"
+    gender: f
+  - italian: "la ditta"
+    translation:
+      en: "firm / business"
+      ko: "회사 / 상호"
+    gender: f
+  - italian: "l'impresa"
+    translation:
+      en: "enterprise / business"
+      ko: "기업 / 사업체"
+    gender: f
+  - italian: "la società"
+    translation:
+      en: "company (legal entity)"
+      ko: "법인 / 회사"
+    gender: f
+    notes:
+      en: "la S.r.l. = Ltd; la S.p.A. = Corp"
+      ko: "la S.r.l. = 유한책임회사; la S.p.A. = 주식회사"
+  - italian: "la PMI"
+    translation:
+      en: "SME (small and medium enterprise)"
+      ko: "중소기업"
+    gender: f
+    notes:
+      en: "Piccola e Media Impresa; backbone of Italian economy"
+      ko: "Piccola e Media Impresa; 이탈리아 경제의 근간"
+  - italian: "il reparto"
+    translation:
+      en: "department"
+      ko: "부서"
+    gender: m
+  - italian: "le risorse umane"
+    translation:
+      en: "human resources (HR)"
+      ko: "인사부"
+    gender: f
+  - italian: "l'amministrazione"
+    translation:
+      en: "administration / accounting dept"
+      ko: "관리부 / 회계부"
+    gender: f
+  - italian: "il marketing"
+    translation:
+      en: "marketing"
+      ko: "마케팅"
+    gender: m
+  - italian: "la contabilità"
+    translation:
+      en: "accounting"
+      ko: "회계"
+    gender: f
+  - italian: "la logistica"
+    translation:
+      en: "logistics"
+      ko: "물류"
+    gender: f
+  - italian: "il magazzino"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: m
+  - italian: "la produzione"
+    translation:
+      en: "production"
+      ko: "생산"
+    gender: f
+  - italian: "il controllo qualità"
+    translation:
+      en: "quality control"
+      ko: "품질 관리"
+    gender: m
+  - italian: "la conferenza"
+    translation:
+      en: "conference"
+      ko: "회의 / 컨퍼런스"
+    gender: f
+  - italian: "la videoconferenza"
+    translation:
+      en: "video conference"
+      ko: "화상 회의"
+    gender: f
+  - italian: "il team"
+    translation:
+      en: "team"
+      ko: "팀"
+    gender: m
+  - italian: "il brainstorming"
+    translation:
+      en: "brainstorming"
+      ko: "브레인스토밍"
+    gender: m
+  - italian: "il feedback"
+    translation:
+      en: "feedback"
+      ko: "피드백"
+    gender: m
+  - italian: "delegare"
+    translation:
+      en: "to delegate"
+      ko: "위임하다"
+    gender: null
+  - italian: "coordinare"
+    translation:
+      en: "to coordinate"
+      ko: "조정하다"
+    gender: null
+  - italian: "gestire"
+    translation:
+      en: "to manage"
+      ko: "관리하다"
+    gender: null
+  - italian: "organizzare"
+    translation:
+      en: "to organize"
+      ko: "조직하다"
+    gender: null
+  - italian: "negoziare"
+    translation:
+      en: "to negotiate"
+      ko: "협상하다"
+    gender: null
+  - italian: "firmare"
+    translation:
+      en: "to sign"
+      ko: "서명하다"
+    gender: null
+  - italian: "approvare"
+    translation:
+      en: "to approve"
+      ko: "승인하다"
+    gender: null
+  - italian: "rifiutare"
+    translation:
+      en: "to reject / to decline"
+      ko: "거절하다"
+    gender: null
+  - italian: "raggiungere un accordo"
+    translation:
+      en: "to reach an agreement"
+      ko: "합의에 도달하다"
+    gender: null
+  - italian: "rispettare una scadenza"
+    translation:
+      en: "to meet a deadline"
+      ko: "마감일을 지키다"
+    gender: null
