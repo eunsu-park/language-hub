@@ -1,0 +1,809 @@
+lesson: "sup_C1_Legal_Terminology"
+lesson_number: 503
+cefr: C1
+type: supplementary
+topic: "Legal Terminology"
+categories:
+- id: branches_of_law
+  label:
+    en: "Branches of Law"
+    ko: "법의 분야"
+  type: vocabulary
+  words:
+  - italian: "il diritto civile"
+    translation:
+      en: "civil law"
+      ko: "민법"
+    gender: m
+  - italian: "il diritto penale"
+    translation:
+      en: "criminal law"
+      ko: "형법"
+    gender: m
+  - italian: "il diritto amministrativo"
+    translation:
+      en: "administrative law"
+      ko: "행정법"
+    gender: m
+  - italian: "il diritto del lavoro"
+    translation:
+      en: "labor law"
+      ko: "노동법"
+    gender: m
+  - italian: "il diritto internazionale"
+    translation:
+      en: "international law"
+      ko: "국제법"
+    gender: m
+  - italian: "il diritto commerciale"
+    translation:
+      en: "commercial law"
+      ko: "상법"
+    gender: m
+  - italian: "il diritto tributario"
+    translation:
+      en: "tax law"
+      ko: "세법"
+    gender: m
+  - italian: "il diritto costituzionale"
+    translation:
+      en: "constitutional law"
+      ko: "헌법학"
+    gender: m
+  - italian: "il diritto di famiglia"
+    translation:
+      en: "family law"
+      ko: "가족법"
+    gender: m
+  - italian: "il diritto ambientale"
+    translation:
+      en: "environmental law"
+      ko: "환경법"
+    gender: m
+  - italian: "il diritto societario"
+    translation:
+      en: "corporate law"
+      ko: "회사법"
+    gender: m
+  - italian: "il diritto dell'informatica"
+    translation:
+      en: "IT law / cyber law"
+      ko: "정보기술법"
+    gender: m
+  - italian: "il diritto della privacy"
+    translation:
+      en: "privacy law"
+      ko: "개인정보보호법"
+    gender: m
+- id: legal_sources
+  label:
+    en: "Legal Sources and Norms"
+    ko: "법원(法源) 및 규범"
+  type: vocabulary
+  words:
+  - italian: "la giurisprudenza"
+    translation:
+      en: "jurisprudence / case law"
+      ko: "판례법"
+    gender: f
+  - italian: "la dottrina"
+    translation:
+      en: "legal doctrine / scholarly opinion"
+      ko: "법학설"
+    gender: f
+  - italian: "la fattispecie"
+    translation:
+      en: "legal case / factual situation"
+      ko: "법적 요건 사실"
+    gender: f
+    notes:
+      en: "Technical Italian legal term"
+      ko: "이탈리아 법률 전문 용어"
+  - italian: "la normativa"
+    translation:
+      en: "body of regulations"
+      ko: "법규"
+    gender: f
+  - italian: "il regolamento"
+    translation:
+      en: "regulation"
+      ko: "규칙"
+    gender: m
+  - italian: "il decreto legislativo"
+    translation:
+      en: "legislative decree"
+      ko: "입법 명령"
+    gender: m
+  - italian: "il decreto del Presidente della Repubblica"
+    translation:
+      en: "Presidential decree (DPR)"
+      ko: "대통령령"
+    gender: m
+  - italian: "la circolare"
+    translation:
+      en: "circular / directive"
+      ko: "회보 / 훈령"
+    gender: f
+  - italian: "la direttiva"
+    translation:
+      en: "directive (EU)"
+      ko: "지침 (EU)"
+    gender: f
+  - italian: "il regolamento europeo"
+    translation:
+      en: "European regulation"
+      ko: "유럽 규정"
+    gender: m
+  - italian: "la Gazzetta Ufficiale"
+    translation:
+      en: "Official Gazette"
+      ko: "관보"
+    gender: f
+    notes:
+      en: "Official publication of Italian laws"
+      ko: "이탈리아 법률의 공식 간행물"
+  - italian: "la gerarchia delle fonti"
+    translation:
+      en: "hierarchy of sources (of law)"
+      ko: "법원의 위계"
+    gender: f
+- id: dispute_resolution
+  label:
+    en: "Dispute Resolution"
+    ko: "분쟁 해결"
+  type: vocabulary
+  words:
+  - italian: "il ricorso"
+    translation:
+      en: "appeal / petition"
+      ko: "소송 / 항소"
+    gender: m
+  - italian: "la mediazione"
+    translation:
+      en: "mediation"
+      ko: "조정"
+    gender: f
+  - italian: "l'arbitrato"
+    translation:
+      en: "arbitration"
+      ko: "중재"
+    gender: m
+  - italian: "la conciliazione"
+    translation:
+      en: "conciliation"
+      ko: "화해"
+    gender: f
+  - italian: "la transazione"
+    translation:
+      en: "settlement"
+      ko: "합의"
+    gender: f
+  - italian: "il lodo arbitrale"
+    translation:
+      en: "arbitration award"
+      ko: "중재 판정"
+    gender: m
+  - italian: "il contenzioso"
+    translation:
+      en: "litigation"
+      ko: "소송"
+    gender: m
+  - italian: "la negoziazione"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+  - italian: "il collegio arbitrale"
+    translation:
+      en: "arbitration panel"
+      ko: "중재 위원회"
+    gender: m
+  - italian: "la parte attrice"
+    translation:
+      en: "plaintiff"
+      ko: "원고"
+    gender: f
+  - italian: "la parte convenuta"
+    translation:
+      en: "defendant (civil)"
+      ko: "피고"
+    gender: f
+- id: contracts_and_obligations
+  label:
+    en: "Contracts and Obligations"
+    ko: "계약 및 의무"
+  type: vocabulary
+  words:
+  - italian: "la clausola"
+    translation:
+      en: "clause"
+      ko: "조항"
+    gender: f
+  - italian: "la clausola risolutiva"
+    translation:
+      en: "termination clause"
+      ko: "해지 조항"
+    gender: f
+  - italian: "la rescissione"
+    translation:
+      en: "rescission"
+      ko: "취소"
+    gender: f
+  - italian: "il recesso"
+    translation:
+      en: "withdrawal / cancellation"
+      ko: "해지"
+    gender: m
+  - italian: "la risoluzione del contratto"
+    translation:
+      en: "termination of contract"
+      ko: "계약 해지"
+    gender: f
+  - italian: "la prescrizione"
+    translation:
+      en: "statute of limitations"
+      ko: "시효"
+    gender: f
+  - italian: "la decadenza"
+    translation:
+      en: "forfeiture / lapse"
+      ko: "실효"
+    gender: f
+  - italian: "l'obbligazione"
+    translation:
+      en: "obligation (legal)"
+      ko: "채무"
+    gender: f
+  - italian: "il creditore"
+    translation:
+      en: "creditor"
+      ko: "채권자"
+    gender: m
+  - italian: "il debitore"
+    translation:
+      en: "debtor"
+      ko: "채무자"
+    gender: m
+  - italian: "la garanzia"
+    translation:
+      en: "guarantee / warranty"
+      ko: "보증"
+    gender: f
+  - italian: "l'inadempimento"
+    translation:
+      en: "breach / non-performance"
+      ko: "불이행"
+    gender: m
+  - italian: "la penale"
+    translation:
+      en: "penalty clause"
+      ko: "위약금"
+    gender: f
+  - italian: "la caparra"
+    translation:
+      en: "deposit / earnest money"
+      ko: "계약금"
+    gender: f
+  - italian: "la procura"
+    translation:
+      en: "power of attorney"
+      ko: "위임장"
+    gender: f
+  - italian: "la delega"
+    translation:
+      en: "delegation / proxy"
+      ko: "위임"
+    gender: f
+- id: legal_actions
+  label:
+    en: "Legal Actions and Verbs"
+    ko: "법적 행위 및 동사"
+  type: vocabulary
+  words:
+  - italian: "adire le vie legali"
+    translation:
+      en: "to take legal action"
+      ko: "법적 조치를 취하다"
+  - italian: "impugnare"
+    translation:
+      en: "to challenge / to appeal"
+      ko: "이의를 제기하다"
+  - italian: "revocare"
+    translation:
+      en: "to revoke"
+      ko: "취소하다"
+  - italian: "ratificare"
+    translation:
+      en: "to ratify"
+      ko: "비준하다"
+  - italian: "abrogare"
+    translation:
+      en: "to abrogate / to repeal"
+      ko: "폐지하다"
+  - italian: "derogare"
+    translation:
+      en: "to derogate"
+      ko: "적용을 배제하다"
+  - italian: "ottemperare"
+    translation:
+      en: "to comply"
+      ko: "준수하다"
+  - italian: "recepire"
+    translation:
+      en: "to transpose (EU law)"
+      ko: "국내법으로 전환하다"
+  - italian: "promulgare"
+    translation:
+      en: "to promulgate"
+      ko: "공포하다"
+  - italian: "emanare"
+    translation:
+      en: "to enact / to issue"
+      ko: "제정하다"
+  - italian: "sottoscrivere"
+    translation:
+      en: "to sign / to subscribe"
+      ko: "서명하다"
+  - italian: "notificare"
+    translation:
+      en: "to notify"
+      ko: "통지하다"
+  - italian: "intimare"
+    translation:
+      en: "to order / to enjoin"
+      ko: "명령하다"
+  - italian: "rescindere"
+    translation:
+      en: "to rescind"
+      ko: "해제하다"
+  - italian: "stipulare"
+    translation:
+      en: "to stipulate / to sign (contract)"
+      ko: "체결하다"
+  - italian: "depositare"
+    translation:
+      en: "to file (a document)"
+      ko: "제출하다"
+  - italian: "omologare"
+    translation:
+      en: "to ratify / to approve (judicial)"
+      ko: "인가하다"
+  - italian: "annullare"
+    translation:
+      en: "to annul / to void"
+      ko: "무효화하다"
+  - italian: "sanzionare"
+    translation:
+      en: "to sanction / to penalize"
+      ko: "제재하다"
+  - italian: "tutelare"
+    translation:
+      en: "to protect / to safeguard"
+      ko: "보호하다"
+  - italian: "dirimere"
+    translation:
+      en: "to settle (a dispute)"
+      ko: "해결하다"
+  - italian: "decretare"
+    translation:
+      en: "to decree"
+      ko: "법령을 내리다"
+- id: property_and_rights
+  label:
+    en: "Property and Rights"
+    ko: "재산 및 권리"
+  type: vocabulary
+  words:
+  - italian: "la proprietà"
+    translation:
+      en: "property / ownership"
+      ko: "재산 / 소유권"
+    gender: f
+  - italian: "il possesso"
+    translation:
+      en: "possession"
+      ko: "점유"
+    gender: m
+  - italian: "l'usufrutto"
+    translation:
+      en: "usufruct"
+      ko: "용익권"
+    gender: m
+  - italian: "la servitù"
+    translation:
+      en: "easement"
+      ko: "지역권"
+    gender: f
+  - italian: "l'ipoteca"
+    translation:
+      en: "mortgage (legal lien)"
+      ko: "저당권"
+    gender: f
+  - italian: "il pegno"
+    translation:
+      en: "pledge"
+      ko: "질권"
+    gender: m
+  - italian: "l'esproprio"
+    translation:
+      en: "expropriation"
+      ko: "수용"
+    gender: m
+  - italian: "il risarcimento del danno"
+    translation:
+      en: "compensation for damages"
+      ko: "손해배상"
+    gender: m
+  - italian: "il danno patrimoniale"
+    translation:
+      en: "pecuniary damage"
+      ko: "재산 손해"
+    gender: m
+  - italian: "il danno morale"
+    translation:
+      en: "moral damages"
+      ko: "정신적 손해"
+    gender: m
+  - italian: "il danno biologico"
+    translation:
+      en: "biological damage"
+      ko: "신체적 손해"
+    gender: m
+    notes:
+      en: "Uniquely Italian legal concept for bodily harm"
+      ko: "신체 손상에 대한 이탈리아 고유 법적 개념"
+  - italian: "il testamento"
+    translation:
+      en: "will / testament"
+      ko: "유언장"
+    gender: m
+  - italian: "l'erede"
+    translation:
+      en: "heir"
+      ko: "상속인"
+    gender: m
+  - italian: "l'eredità"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: f
+  - italian: "la successione"
+    translation:
+      en: "succession"
+      ko: "승계"
+    gender: f
+  - italian: "la donazione"
+    translation:
+      en: "donation"
+      ko: "증여"
+    gender: f
+  - italian: "il legato"
+    translation:
+      en: "bequest / legacy"
+      ko: "유산"
+    gender: m
+- id: labor_law
+  label:
+    en: "Labor Law"
+    ko: "노동법"
+  type: vocabulary
+  words:
+  - italian: "il contratto collettivo"
+    translation:
+      en: "collective agreement"
+      ko: "단체 협약"
+    gender: m
+  - italian: "il CCNL"
+    translation:
+      en: "national collective labor agreement"
+      ko: "전국 단체 노동 협약"
+    gender: m
+    notes:
+      en: "Contratto Collettivo Nazionale di Lavoro"
+      ko: "Contratto Collettivo Nazionale di Lavoro"
+  - italian: "il licenziamento per giusta causa"
+    translation:
+      en: "dismissal for just cause"
+      ko: "정당한 사유에 의한 해고"
+    gender: m
+  - italian: "il licenziamento per giustificato motivo"
+    translation:
+      en: "dismissal for justified reason"
+      ko: "정당한 이유에 의한 해고"
+    gender: m
+  - italian: "il mobbing"
+    translation:
+      en: "workplace bullying"
+      ko: "직장 내 괴롭힘"
+    gender: m
+  - italian: "le dimissioni volontarie"
+    translation:
+      en: "voluntary resignation"
+      ko: "자발적 사직"
+    gender: f
+  - italian: "la vertenza sindacale"
+    translation:
+      en: "labor dispute"
+      ko: "노동 분쟁"
+    gender: f
+  - italian: "il diritto di sciopero"
+    translation:
+      en: "right to strike"
+      ko: "파업권"
+    gender: m
+  - italian: "la tutela dei lavoratori"
+    translation:
+      en: "worker protection"
+      ko: "근로자 보호"
+    gender: f
+  - italian: "l'infortunio sul lavoro"
+    translation:
+      en: "workplace accident"
+      ko: "산업 재해"
+    gender: m
+  - italian: "la malattia professionale"
+    translation:
+      en: "occupational disease"
+      ko: "직업병"
+    gender: f
+  - italian: "il congedo parentale"
+    translation:
+      en: "parental leave"
+      ko: "육아 휴직"
+    gender: m
+  - italian: "la maternità"
+    translation:
+      en: "maternity leave"
+      ko: "출산 휴가"
+    gender: f
+  - italian: "il preavviso"
+    translation:
+      en: "notice (period)"
+      ko: "사전 통보"
+    gender: m
+  - italian: "la liquidazione"
+    translation:
+      en: "severance / settlement"
+      ko: "퇴직금 정산"
+    gender: f
+- id: administrative_law
+  label:
+    en: "Administrative Law"
+    ko: "행정법"
+  type: vocabulary
+  words:
+  - italian: "la pubblica amministrazione"
+    translation:
+      en: "public administration"
+      ko: "공공 행정"
+    gender: f
+  - italian: "l'atto amministrativo"
+    translation:
+      en: "administrative act"
+      ko: "행정 행위"
+    gender: m
+  - italian: "la concessione"
+    translation:
+      en: "concession / license"
+      ko: "허가"
+    gender: f
+  - italian: "l'autorizzazione"
+    translation:
+      en: "authorization"
+      ko: "인가"
+    gender: f
+  - italian: "il permesso"
+    translation:
+      en: "permit"
+      ko: "허가증"
+    gender: m
+  - italian: "il permesso di soggiorno"
+    translation:
+      en: "residence permit"
+      ko: "체류 허가증"
+    gender: m
+  - italian: "la licenza edilizia"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: f
+  - italian: "il bando di concorso"
+    translation:
+      en: "public competition notice"
+      ko: "공무원 시험 공고"
+    gender: m
+  - italian: "il concorso pubblico"
+    translation:
+      en: "public competition / exam"
+      ko: "공무원 시험"
+    gender: m
+  - italian: "il funzionario pubblico"
+    translation:
+      en: "public official"
+      ko: "공무원"
+    gender: m
+  - italian: "il responsabilità amministrativa"
+    translation:
+      en: "administrative liability"
+      ko: "행정적 책임"
+    gender: f
+  - italian: "l'appalto pubblico"
+    translation:
+      en: "public procurement"
+      ko: "공공 조달"
+    gender: m
+  - italian: "la trasparenza amministrativa"
+    translation:
+      en: "administrative transparency"
+      ko: "행정 투명성"
+    gender: f
+  - italian: "il silenzio-assenso"
+    translation:
+      en: "tacit consent (administrative)"
+      ko: "묵시적 동의"
+    gender: m
+    notes:
+      en: "If administration doesn't respond within deadline, request is approved"
+      ko: "행정기관이 기한 내 응답하지 않으면 신청이 승인됨"
+  - italian: "il ricorso al TAR"
+    translation:
+      en: "appeal to Administrative Court"
+      ko: "행정법원 항소"
+    gender: m
+  - italian: "l'espropriazione"
+    translation:
+      en: "expropriation"
+      ko: "수용"
+    gender: f
+  - italian: "il diritto d'accesso"
+    translation:
+      en: "right of access (to documents)"
+      ko: "열람권"
+    gender: m
+  - italian: "la SCIA"
+    translation:
+      en: "certified start of activity"
+      ko: "사업 개시 신고"
+    gender: f
+    notes:
+      en: "Segnalazione Certificata di Inizio Attività"
+      ko: "인증된 사업 개시 신고"
+  - italian: "l'autocertificazione"
+    translation:
+      en: "self-certification"
+      ko: "자기 인증"
+    gender: f
+    notes:
+      en: "Common Italian administrative procedure"
+      ko: "이탈리아 일반 행정 절차"
+  - italian: "la marca da bollo"
+    translation:
+      en: "revenue stamp"
+      ko: "수입 인지"
+    gender: f
+  - italian: "il bollo"
+    translation:
+      en: "stamp / seal"
+      ko: "인지"
+    gender: m
+  - italian: "la certificazione antimafia"
+    translation:
+      en: "anti-mafia certification"
+      ko: "반마피아 인증"
+    gender: f
+    notes:
+      en: "Required for public contracts in Italy"
+      ko: "이탈리아 공공 계약에 필요"
+  - italian: "la privacy"
+    translation:
+      en: "privacy"
+      ko: "개인정보보호"
+    gender: f
+  - italian: "il GDPR"
+    translation:
+      en: "GDPR (General Data Protection Regulation)"
+      ko: "일반 데이터 보호 규정"
+    gender: m
+  - italian: "il decreto ingiuntivo"
+    translation:
+      en: "injunction order"
+      ko: "지급명령"
+    gender: m
+  - italian: "l'ingiunzione"
+    translation:
+      en: "injunction"
+      ko: "금지 명령"
+    gender: f
+  - italian: "il pignoramento"
+    translation:
+      en: "seizure / garnishment"
+      ko: "압류"
+    gender: m
+  - italian: "il sequestro"
+    translation:
+      en: "seizure / confiscation"
+      ko: "압수"
+    gender: m
+  - italian: "il fallimento"
+    translation:
+      en: "bankruptcy"
+      ko: "파산"
+    gender: m
+  - italian: "la bancarotta"
+    translation:
+      en: "fraudulent bankruptcy"
+      ko: "사기 파산"
+    gender: f
+  - italian: "il concordato preventivo"
+    translation:
+      en: "composition with creditors"
+      ko: "화의"
+    gender: m
+  - italian: "la fideiussione"
+    translation:
+      en: "surety / guarantee bond"
+      ko: "보증"
+    gender: f
+  - italian: "il mandato"
+    translation:
+      en: "mandate / warrant"
+      ko: "위임 / 영장"
+    gender: m
+  - italian: "la giurisdizione"
+    translation:
+      en: "jurisdiction"
+      ko: "관할"
+    gender: f
+  - italian: "la competenza territoriale"
+    translation:
+      en: "territorial jurisdiction"
+      ko: "토지 관할"
+    gender: f
+  - italian: "il foro competente"
+    translation:
+      en: "competent court"
+      ko: "관할 법원"
+    gender: m
+  - italian: "la perizia"
+    translation:
+      en: "expert opinion / appraisal"
+      ko: "감정"
+    gender: f
+  - italian: "il perito"
+    translation:
+      en: "expert witness"
+      ko: "감정인"
+    gender: m
+  - italian: "il consulente tecnico"
+    translation:
+      en: "technical consultant"
+      ko: "기술 자문"
+    gender: m
+    notes:
+      en: "Abbreviation: CTU (d'ufficio) / CTP (di parte)"
+      ko: "약어: CTU (법원 지정) / CTP (당사자 지정)"
+  - italian: "la notifica"
+    translation:
+      en: "notification / service (of documents)"
+      ko: "통지 / 송달"
+    gender: f
+  - italian: "l'udienza"
+    translation:
+      en: "hearing"
+      ko: "공판"
+    gender: f
+  - italian: "la sentenza passata in giudicato"
+    translation:
+      en: "final judgment"
+      ko: "확정 판결"
+    gender: f
+  - italian: "l'esecuzione forzata"
+    translation:
+      en: "forced execution"
+      ko: "강제 집행"
+    gender: f
+  - italian: "la custodia cautelare"
+    translation:
+      en: "pretrial detention"
+      ko: "구속"
+    gender: f
