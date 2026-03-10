@@ -1,0 +1,895 @@
+lesson: "sup_B1_Housing_and_Real_Estate"
+lesson_number: 309
+cefr: B1
+type: supplementary
+topic: "Housing and Real Estate"
+categories:
+- id: housing_types
+  label:
+    en: "Housing Types"
+    ko: "주거 유형"
+  type: vocabulary
+  words:
+  - italian: "la casa"
+    translation:
+      en: "house / home"
+      ko: "집"
+    gender: f
+  - italian: "l'appartamento"
+    translation:
+      en: "apartment"
+      ko: "아파트"
+    gender: m
+  - italian: "il bilocale"
+    translation:
+      en: "two-room apartment"
+      ko: "투룸 아파트"
+    gender: m
+    notes:
+      en: "Living room + 1 bedroom"
+      ko: "거실 + 침실 1개"
+  - italian: "il trilocale"
+    translation:
+      en: "three-room apartment"
+      ko: "쓰리룸 아파트"
+    gender: m
+    notes:
+      en: "Living room + 2 bedrooms"
+      ko: "거실 + 침실 2개"
+  - italian: "la villa"
+    translation:
+      en: "villa / detached house"
+      ko: "빌라 / 단독 주택"
+    gender: f
+  - italian: "il monolocale"
+    translation:
+      en: "studio apartment"
+      ko: "원룸"
+    gender: m
+  - italian: "l'attico"
+    translation:
+      en: "penthouse"
+      ko: "펜트하우스"
+    gender: m
+  - italian: "la mansarda"
+    translation:
+      en: "attic apartment / loft"
+      ko: "다락방 아파트"
+    gender: f
+  - italian: "il loft"
+    translation:
+      en: "loft"
+      ko: "로프트"
+    gender: m
+  - italian: "la villetta"
+    translation:
+      en: "small house / townhouse"
+      ko: "소형 주택 / 타운하우스"
+    gender: f
+    notes:
+      en: "la villetta a schiera = terraced house / row house"
+      ko: "la villetta a schiera = 연립주택"
+  - italian: "il condominio"
+    translation:
+      en: "condominium / apartment building"
+      ko: "콘도미니엄 / 아파트 건물"
+    gender: m
+    notes:
+      en: "Also refers to the collective owners' association"
+      ko: "입주민 조합도 의미"
+  - italian: "la palazzina"
+    translation:
+      en: "small apartment building"
+      ko: "소형 아파트 건물"
+    gender: f
+  - italian: "il palazzo"
+    translation:
+      en: "building / palace"
+      ko: "건물 / 궁전"
+    gender: m
+  - italian: "il quadrilocale"
+    translation:
+      en: "four-room apartment"
+      ko: "포룸 아파트"
+    gender: m
+  - italian: "la casa indipendente"
+    translation:
+      en: "detached house"
+      ko: "독립 주택"
+    gender: f
+  - italian: "la casa colonica"
+    translation:
+      en: "farmhouse"
+      ko: "농가"
+    gender: f
+    notes:
+      en: "Traditional Tuscan and rural Italian farmhouse"
+      ko: "전통 토스카나 및 이탈리아 농촌 농가"
+- id: rooms_features
+  label:
+    en: "Rooms and Features"
+    ko: "방 및 시설"
+  type: vocabulary
+  words:
+  - italian: "il soggiorno"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: m
+    notes:
+      en: "Also: il salotto (more formal/cozy)"
+      ko: "또한: il salotto (더 격식/아늑한)"
+  - italian: "la camera"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: f
+    notes:
+      en: "la camera da letto = bedroom (full form)"
+      ko: "la camera da letto = 침실 (전체 형태)"
+  - italian: "il bagno"
+    translation:
+      en: "bathroom"
+      ko: "욕실"
+    gender: m
+  - italian: "la cucina"
+    translation:
+      en: "kitchen"
+      ko: "주방"
+    gender: f
+  - italian: "il balcone"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+  - italian: "la terrazza"
+    translation:
+      en: "terrace"
+      ko: "테라스"
+    gender: f
+  - italian: "il garage"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: m
+  - italian: "il giardino"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+  - italian: "la cantina"
+    translation:
+      en: "cellar / basement storage"
+      ko: "지하실 / 저장고"
+    gender: f
+  - italian: "l'ascensore"
+    translation:
+      en: "elevator / lift"
+      ko: "엘리베이터"
+    gender: m
+  - italian: "il riscaldamento"
+    translation:
+      en: "heating"
+      ko: "난방"
+    gender: m
+    notes:
+      en: "il riscaldamento autonomo = independent heating; centralizzato = central"
+      ko: "il riscaldamento autonomo = 개별 난방; centralizzato = 중앙"
+  - italian: "l'aria condizionata"
+    translation:
+      en: "air conditioning"
+      ko: "에어컨"
+    gender: f
+  - italian: "il corridoio"
+    translation:
+      en: "hallway / corridor"
+      ko: "복도"
+    gender: m
+  - italian: "l'ingresso"
+    translation:
+      en: "entrance / entryway"
+      ko: "현관"
+    gender: m
+  - italian: "il ripostiglio"
+    translation:
+      en: "storage room / closet"
+      ko: "창고 / 수납실"
+    gender: m
+  - italian: "la soffitta"
+    translation:
+      en: "attic"
+      ko: "다락"
+    gender: f
+  - italian: "il piano"
+    translation:
+      en: "floor / story"
+      ko: "층"
+    gender: m
+    notes:
+      en: "il primo piano = first floor (second floor in US English)"
+      ko: "il primo piano = 1층 (미국식으로는 2층)"
+  - italian: "il portone"
+    translation:
+      en: "main entrance door (of building)"
+      ko: "건물 입구"
+    gender: m
+  - italian: "il citofono"
+    translation:
+      en: "intercom / buzzer"
+      ko: "인터폰"
+    gender: m
+  - italian: "la tapparella"
+    translation:
+      en: "roller shutter / blind"
+      ko: "롤러 셔터 / 블라인드"
+    gender: f
+    notes:
+      en: "Very common in Italian homes"
+      ko: "이탈리아 가정에서 매우 일반적"
+  - italian: "le persiane"
+    translation:
+      en: "shutters"
+      ko: "덧문"
+    gender: f
+  - italian: "il bidet"
+    translation:
+      en: "bidet"
+      ko: "비데"
+    gender: m
+    notes:
+      en: "Standard fixture in all Italian bathrooms; legally required"
+      ko: "모든 이탈리아 욕실의 표준 시설; 법적 필수"
+  - italian: "il posto auto"
+    translation:
+      en: "parking space"
+      ko: "주차 공간"
+    gender: m
+  - italian: "la classe energetica"
+    translation:
+      en: "energy rating"
+      ko: "에너지 등급"
+    gender: f
+    notes:
+      en: "Required in all Italian property listings"
+      ko: "모든 이탈리아 부동산 광고에 필수"
+- id: real_estate
+  label:
+    en: "Real Estate"
+    ko: "부동산"
+  type: vocabulary
+  words:
+  - italian: "l'affitto"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: m
+  - italian: "la vendita"
+    translation:
+      en: "sale"
+      ko: "매매 / 판매"
+    gender: f
+  - italian: "l'acquisto"
+    translation:
+      en: "purchase"
+      ko: "구매"
+    gender: m
+  - italian: "il mutuo"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: m
+  - italian: "il proprietario"
+    translation:
+      en: "owner / landlord"
+      ko: "소유자 / 집주인"
+    gender: m
+    notes:
+      en: "la proprietaria for female"
+      ko: "여성형은 la proprietaria"
+  - italian: "l'inquilino"
+    translation:
+      en: "tenant"
+      ko: "세입자"
+    gender: m
+    notes:
+      en: "l'inquilina for female"
+      ko: "여성형은 l'inquilina"
+  - italian: "il contratto"
+    translation:
+      en: "contract / lease"
+      ko: "계약"
+    gender: m
+    notes:
+      en: "il contratto di affitto = rental contract; 4+4 is common in Italy"
+      ko: "il contratto di affitto = 임대 계약; 이탈리아에서 4+4가 일반적"
+  - italian: "la caparra"
+    translation:
+      en: "deposit / down payment"
+      ko: "보증금 / 계약금"
+    gender: f
+  - italian: "l'agenzia immobiliare"
+    translation:
+      en: "real estate agency"
+      ko: "부동산 중개소"
+    gender: f
+  - italian: "il rogito"
+    translation:
+      en: "notarial deed (property transfer)"
+      ko: "공증 증서 (부동산 이전)"
+    gender: m
+    notes:
+      en: "Done at notaio's office; essential step in Italian property purchase"
+      ko: "공증인 사무실에서 수행; 이탈리아 부동산 매매의 필수 절차"
+  - italian: "la planimetria"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: f
+  - italian: "la provvigione"
+    translation:
+      en: "commission (agent's fee)"
+      ko: "중개 수수료"
+    gender: f
+  - italian: "il notaio"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: m
+    notes:
+      en: "la notaia for female; essential role in Italian property transactions"
+      ko: "여성형은 la notaia; 이탈리아 부동산 거래에서 필수적 역할"
+  - italian: "la visura catastale"
+    translation:
+      en: "land registry document"
+      ko: "토지 대장 서류"
+    gender: f
+  - italian: "il catasto"
+    translation:
+      en: "land registry / cadastre"
+      ko: "토지 대장"
+    gender: m
+  - italian: "le spese condominiali"
+    translation:
+      en: "condominium fees / service charges"
+      ko: "관리비"
+    gender: f
+  - italian: "l'amministratore"
+    translation:
+      en: "building manager"
+      ko: "관리인"
+    gender: m
+    notes:
+      en: "l'amministratrice for female"
+      ko: "여성형은 l'amministratrice"
+  - italian: "il metro quadro"
+    translation:
+      en: "square meter"
+      ko: "제곱미터"
+    gender: m
+    notes:
+      en: "Abbreviation: mq or m²"
+      ko: "약어: mq 또는 m²"
+- id: actions
+  label:
+    en: "Housing Actions"
+    ko: "주거 행동"
+  type: vocabulary
+  words:
+  - italian: "affittare"
+    translation:
+      en: "to rent (to/from)"
+      ko: "임대하다 / 빌리다"
+    gender: null
+    notes:
+      en: "Used for both renting out and renting; context clarifies"
+      ko: "임대와 임차 모두에 사용; 맥락으로 구분"
+  - italian: "comprare"
+    translation:
+      en: "to buy"
+      ko: "사다"
+    gender: null
+  - italian: "vendere"
+    translation:
+      en: "to sell"
+      ko: "팔다"
+    gender: null
+  - italian: "traslocare"
+    translation:
+      en: "to move (house)"
+      ko: "이사하다"
+    gender: null
+    notes:
+      en: "il trasloco = the move"
+      ko: "il trasloco = 이사"
+  - italian: "ristrutturare"
+    translation:
+      en: "to renovate / to remodel"
+      ko: "리모델링하다 / 개조하다"
+    gender: null
+    notes:
+      en: "la ristrutturazione = renovation"
+      ko: "la ristrutturazione = 리모델링"
+  - italian: "arredare"
+    translation:
+      en: "to furnish"
+      ko: "가구를 비치하다"
+    gender: null
+    notes:
+      en: "arredato = furnished; non arredato = unfurnished"
+      ko: "arredato = 가구 비치; non arredato = 가구 미비치"
+  - italian: "tinteggiare"
+    translation:
+      en: "to paint (walls)"
+      ko: "페인트칠하다"
+    gender: null
+  - italian: "installare"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+  - italian: "riparare"
+    translation:
+      en: "to repair / to fix"
+      ko: "수리하다"
+    gender: null
+  - italian: "trasferirsi"
+    translation:
+      en: "to move / to relocate"
+      ko: "이전하다 / 이주하다"
+    gender: null
+  - italian: "sgomberare"
+    translation:
+      en: "to vacate / to clear out"
+      ko: "비우다 / 퇴거하다"
+    gender: null
+  - italian: "il trasloco"
+    translation:
+      en: "the move / moving"
+      ko: "이사"
+    gender: m
+  - italian: "l'imbianchino"
+    translation:
+      en: "house painter"
+      ko: "도배사 / 페인트공"
+    gender: m
+  - italian: "l'idraulico"
+    translation:
+      en: "plumber"
+      ko: "배관공"
+    gender: m
+  - italian: "l'elettricista"
+    translation:
+      en: "electrician"
+      ko: "전기공"
+    gender: m
+    notes:
+      en: "l'elettricista for both genders"
+      ko: "남녀 동일 형태"
+  - italian: "il muratore"
+    translation:
+      en: "bricklayer / mason"
+      ko: "벽돌공 / 미장공"
+    gender: m
+  - italian: "il geometra"
+    translation:
+      en: "surveyor / building technician"
+      ko: "측량사 / 건축 기사"
+    gender: m
+    notes:
+      en: "Key Italian profession for building permits and surveys"
+      ko: "건축 허가 및 측량에 관한 이탈리아 핵심 직업"
+  - italian: "il falegname"
+    translation:
+      en: "carpenter"
+      ko: "목수"
+    gender: m
+  - italian: "l'architetto"
+    translation:
+      en: "architect"
+      ko: "건축가"
+    gender: m
+    notes:
+      en: "l'architetta for female (newer)"
+      ko: "여성형은 l'architetta (신조어)"
+  - italian: "l'ingegnere edile"
+    translation:
+      en: "civil engineer"
+      ko: "토목 엔지니어"
+    gender: m
+  - italian: "il costruttore"
+    translation:
+      en: "builder / developer"
+      ko: "건설업자 / 개발업자"
+    gender: m
+  - italian: "la ditta edile"
+    translation:
+      en: "construction company"
+      ko: "건설 회사"
+    gender: f
+  - italian: "il permesso di costruire"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: m
+  - italian: "la licenza edilizia"
+    translation:
+      en: "building license"
+      ko: "건축 면허"
+    gender: f
+  - italian: "il catasto"
+    translation:
+      en: "land registry"
+      ko: "토지 대장"
+    gender: m
+  - italian: "il valore catastale"
+    translation:
+      en: "cadastral value"
+      ko: "공시 가격"
+    gender: m
+- id: furniture_and_appliances
+  label:
+    en: "Furniture and Appliances"
+    ko: "가구 및 가전"
+  type: vocabulary
+  words:
+  - italian: "il mobile"
+    translation:
+      en: "piece of furniture"
+      ko: "가구"
+    gender: m
+    notes:
+      en: "i mobili = furniture (plural)"
+      ko: "i mobili = 가구 (복수)"
+  - italian: "l'armadio"
+    translation:
+      en: "wardrobe / closet"
+      ko: "옷장"
+    gender: m
+  - italian: "il letto"
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: m
+  - italian: "il divano"
+    translation:
+      en: "sofa / couch"
+      ko: "소파"
+    gender: m
+  - italian: "la poltrona"
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: f
+  - italian: "il tavolo"
+    translation:
+      en: "table"
+      ko: "테이블"
+    gender: m
+  - italian: "la sedia"
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: f
+  - italian: "la libreria"
+    translation:
+      en: "bookcase / bookshelf"
+      ko: "책장"
+    gender: f
+  - italian: "il comodino"
+    translation:
+      en: "nightstand"
+      ko: "침대 옆 탁자"
+    gender: m
+  - italian: "la scrivania"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: f
+  - italian: "lo specchio"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+  - italian: "il tappeto"
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 러그"
+    gender: m
+  - italian: "la tenda"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: f
+  - italian: "il lampadario"
+    translation:
+      en: "chandelier / ceiling light"
+      ko: "샹들리에 / 천장 조명"
+    gender: m
+  - italian: "la lampada"
+    translation:
+      en: "lamp"
+      ko: "램프"
+    gender: f
+  - italian: "il frigorifero"
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: m
+    notes:
+      en: "Informal: il frigo"
+      ko: "줄임말: il frigo"
+  - italian: "la lavatrice"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+  - italian: "la lavastoviglie"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: f
+    notes:
+      en: "Invariable: la lavastoviglie / le lavastoviglie"
+      ko: "불변: la lavastoviglie / le lavastoviglie"
+  - italian: "l'asciugatrice"
+    translation:
+      en: "dryer"
+      ko: "건조기"
+    gender: f
+  - italian: "il forno a microonde"
+    translation:
+      en: "microwave oven"
+      ko: "전자레인지"
+    gender: m
+  - italian: "l'aspirapolvere"
+    translation:
+      en: "vacuum cleaner"
+      ko: "진공청소기"
+    gender: m
+    notes:
+      en: "Invariable: l'aspirapolvere / gli aspirapolvere"
+      ko: "불변: l'aspirapolvere / gli aspirapolvere"
+  - italian: "il ferro da stiro"
+    translation:
+      en: "iron (for clothes)"
+      ko: "다리미"
+    gender: m
+  - italian: "la caldaia"
+    translation:
+      en: "boiler"
+      ko: "보일러"
+    gender: f
+  - italian: "il condizionatore"
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: m
+  - italian: "lo scaldabagno"
+    translation:
+      en: "water heater"
+      ko: "온수기"
+    gender: m
+  - italian: "la cassettiera"
+    translation:
+      en: "chest of drawers"
+      ko: "서랍장"
+    gender: f
+  - italian: "il materasso"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: m
+  - italian: "il cuscino"
+    translation:
+      en: "pillow / cushion"
+      ko: "베개 / 쿠션"
+    gender: m
+  - italian: "le lenzuola"
+    translation:
+      en: "bed sheets"
+      ko: "침대 시트"
+    gender: f
+    notes:
+      en: "Singular: il lenzuolo (m); plural: le lenzuola (f, irregular)"
+      ko: "단수: il lenzuolo (남성); 복수: le lenzuola (여성, 불규칙)"
+  - italian: "la coperta"
+    translation:
+      en: "blanket"
+      ko: "담요"
+    gender: f
+  - italian: "il piumone"
+    translation:
+      en: "duvet / comforter"
+      ko: "이불"
+    gender: m
+  - italian: "ammobiliato"
+    translation:
+      en: "furnished"
+      ko: "가구 비치"
+    gender: null
+    notes:
+      en: "Also: arredato"
+      ko: "또한: arredato"
+  - italian: "vuoto"
+    translation:
+      en: "empty / unfurnished"
+      ko: "빈 / 가구 미비치"
+    gender: null
+  - italian: "luminoso"
+    translation:
+      en: "bright / light-filled"
+      ko: "밝은"
+    gender: null
+  - italian: "spazioso"
+    translation:
+      en: "spacious"
+      ko: "넓은"
+    gender: null
+  - italian: "accogliente"
+    translation:
+      en: "cozy / welcoming"
+      ko: "아늑한"
+    gender: null
+  - italian: "ristrutturato"
+    translation:
+      en: "renovated"
+      ko: "리모델링된"
+    gender: null
+  - italian: "da ristrutturare"
+    translation:
+      en: "to be renovated / needs work"
+      ko: "리모델링 필요"
+    gender: null
+  - italian: "panoramico"
+    translation:
+      en: "with a view / panoramic"
+      ko: "전망 좋은"
+    gender: null
+  - italian: "silenzioso"
+    translation:
+      en: "quiet"
+      ko: "조용한"
+    gender: null
+  - italian: "rumoroso"
+    translation:
+      en: "noisy"
+      ko: "시끄러운"
+    gender: null
+  - italian: "ben collegato"
+    translation:
+      en: "well-connected (transport)"
+      ko: "교통이 편리한"
+    gender: null
+  - italian: "centrale"
+    translation:
+      en: "centrally located"
+      ko: "중심부에 위치한"
+    gender: null
+  - italian: "periferico"
+    translation:
+      en: "peripheral / suburban"
+      ko: "외곽의"
+    gender: null
+  - italian: "il quartiere"
+    translation:
+      en: "neighborhood / district"
+      ko: "동네 / 지구"
+    gender: m
+  - italian: "la zona"
+    translation:
+      en: "area / zone"
+      ko: "구역 / 지역"
+    gender: f
+  - italian: "il centro storico"
+    translation:
+      en: "historic center / old town"
+      ko: "역사적 중심지"
+    gender: m
+  - italian: "la periferia"
+    translation:
+      en: "suburbs / outskirts"
+      ko: "교외"
+    gender: f
+  - italian: "il vicinato"
+    translation:
+      en: "neighborhood / neighbors"
+      ko: "이웃"
+    gender: m
+  - italian: "il vicino di casa"
+    translation:
+      en: "neighbor"
+      ko: "이웃 사람"
+    gender: m
+    notes:
+      en: "la vicina di casa for female"
+      ko: "여성형은 la vicina di casa"
+  - italian: "la rata del mutuo"
+    translation:
+      en: "mortgage payment"
+      ko: "대출 상환금"
+    gender: f
+  - italian: "il canone"
+    translation:
+      en: "rent / fee"
+      ko: "임대료 / 요금"
+    gender: m
+    notes:
+      en: "il canone mensile = monthly rent"
+      ko: "il canone mensile = 월세"
+  - italian: "le utenze"
+    translation:
+      en: "utilities"
+      ko: "공과금"
+    gender: f
+    notes:
+      en: "luce, gas, acqua = electricity, gas, water"
+      ko: "luce, gas, acqua = 전기, 가스, 수도"
+  - italian: "la bolletta"
+    translation:
+      en: "utility bill"
+      ko: "공과금 고지서"
+    gender: f
+    notes:
+      en: "la bolletta della luce = electricity bill"
+      ko: "la bolletta della luce = 전기 요금 고지서"
+  - italian: "il condomino"
+    translation:
+      en: "co-owner / fellow resident"
+      ko: "공동 소유주 / 입주민"
+    gender: m
+  - italian: "l'assemblea condominiale"
+    translation:
+      en: "condominium meeting"
+      ko: "입주민 회의"
+    gender: f
+  - italian: "il regolamento condominiale"
+    translation:
+      en: "condominium rules"
+      ko: "관리 규약"
+    gender: m
+  - italian: "la ristrutturazione"
+    translation:
+      en: "renovation"
+      ko: "리모델링"
+    gender: f
+  - italian: "il bonus edilizio"
+    translation:
+      en: "building tax credit"
+      ko: "건축 세금 공제"
+    gender: m
+    notes:
+      en: "Italian government incentives for renovations (Superbonus 110%)"
+      ko: "리모델링을 위한 이탈리아 정부 인센티브 (Superbonus 110%)"
+  - italian: "l'efficienza energetica"
+    translation:
+      en: "energy efficiency"
+      ko: "에너지 효율"
+    gender: f
+  - italian: "il cappotto termico"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: m
+  - italian: "il sopralluogo"
+    translation:
+      en: "property inspection / site visit"
+      ko: "현장 점검 / 실사"
+    gender: m
+  - italian: "la perizia immobiliare"
+    translation:
+      en: "property appraisal"
+      ko: "부동산 감정"
+    gender: f
+  - italian: "il compromesso"
+    translation:
+      en: "preliminary sale agreement"
+      ko: "예비 매매 계약"
+    gender: m
+    notes:
+      en: "Legally binding pre-contract in Italian property sales"
+      ko: "이탈리아 부동산 매매에서 법적 구속력 있는 예비 계약"
+  - italian: "l'acconto"
+    translation:
+      en: "down payment / advance"
+      ko: "계약금 / 선급금"
+    gender: m
