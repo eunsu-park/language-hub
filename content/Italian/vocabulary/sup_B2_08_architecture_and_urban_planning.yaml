@@ -1,0 +1,850 @@
+lesson: "sup_B2_Architecture_and_Urban_Planning"
+lesson_number: 408
+cefr: B2
+type: supplementary
+topic: "Architecture and Urban Planning"
+categories:
+- id: building_types
+  label:
+    en: "Building Types"
+    ko: "건축물 유형"
+  type: vocabulary
+  words:
+  - italian: "il palazzo"
+    translation:
+      en: "palace / building"
+      ko: "궁전 / 건물"
+    gender: m
+  - italian: "la cattedrale"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: f
+  - italian: "la basilica"
+    translation:
+      en: "basilica"
+      ko: "바실리카"
+    gender: f
+  - italian: "il duomo"
+    translation:
+      en: "dome / cathedral"
+      ko: "두오모 / 대성당"
+    gender: m
+    notes:
+      en: "Main cathedral of a city, e.g., Duomo di Milano"
+      ko: "도시의 주요 대성당, 예: 밀라노 두오모"
+  - italian: "la chiesa"
+    translation:
+      en: "church"
+      ko: "교회"
+    gender: f
+  - italian: "il monastero"
+    translation:
+      en: "monastery"
+      ko: "수도원"
+    gender: m
+  - italian: "il castello"
+    translation:
+      en: "castle"
+      ko: "성"
+    gender: m
+  - italian: "la fortezza"
+    translation:
+      en: "fortress"
+      ko: "요새"
+    gender: f
+  - italian: "la villa"
+    translation:
+      en: "villa"
+      ko: "빌라"
+    gender: f
+    notes:
+      en: "Famous: Ville Palladiane in Veneto"
+      ko: "유명: 베네토의 팔라디오 빌라"
+  - italian: "il grattacielo"
+    translation:
+      en: "skyscraper"
+      ko: "초고층 빌딩"
+    gender: m
+  - italian: "l'anfiteatro"
+    translation:
+      en: "amphitheater"
+      ko: "원형극장"
+    gender: m
+    notes:
+      en: "Famous: Colosseo (Colosseum) in Rome"
+      ko: "유명: 로마의 콜로세오"
+  - italian: "il tempio"
+    translation:
+      en: "temple"
+      ko: "사원"
+    gender: m
+  - italian: "il battistero"
+    translation:
+      en: "baptistery"
+      ko: "세례당"
+    gender: m
+- id: architectural_elements
+  label:
+    en: "Architectural Elements"
+    ko: "건축 요소"
+  type: vocabulary
+  words:
+  - italian: "la cupola"
+    translation:
+      en: "dome"
+      ko: "돔"
+    gender: f
+    notes:
+      en: "Famous: Brunelleschi's dome in Florence"
+      ko: "유명: 피렌체의 브루넬레스키 돔"
+  - italian: "il campanile"
+    translation:
+      en: "bell tower"
+      ko: "종탑"
+    gender: m
+    notes:
+      en: "Famous: Campanile di Giotto in Florence"
+      ko: "유명: 피렌체의 조토의 종탑"
+  - italian: "la torre"
+    translation:
+      en: "tower"
+      ko: "탑"
+    gender: f
+  - italian: "l'arco"
+    translation:
+      en: "arch"
+      ko: "아치"
+    gender: m
+  - italian: "la colonna"
+    translation:
+      en: "column"
+      ko: "기둥"
+    gender: f
+  - italian: "il portico"
+    translation:
+      en: "portico / arcade"
+      ko: "주랑 / 아케이드"
+    gender: m
+  - italian: "il chiostro"
+    translation:
+      en: "cloister"
+      ko: "회랑"
+    gender: m
+  - italian: "la facciata"
+    translation:
+      en: "facade"
+      ko: "정면"
+    gender: f
+  - italian: "la navata"
+    translation:
+      en: "nave"
+      ko: "신랑 (교회)"
+    gender: f
+  - italian: "l'abside"
+    translation:
+      en: "apse"
+      ko: "후진"
+    gender: f
+  - italian: "la volta"
+    translation:
+      en: "vault"
+      ko: "둥근 천장"
+    gender: f
+  - italian: "il capitello"
+    translation:
+      en: "capital (of a column)"
+      ko: "주두 (기둥머리)"
+    gender: m
+  - italian: "il bassorilievo"
+    translation:
+      en: "bas-relief"
+      ko: "저부조"
+    gender: m
+  - italian: "la loggia"
+    translation:
+      en: "loggia"
+      ko: "로지아"
+    gender: f
+  - italian: "il balcone"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+  - italian: "il cornicione"
+    translation:
+      en: "cornice"
+      ko: "처마 돌림띠"
+    gender: m
+  - italian: "il rosone"
+    translation:
+      en: "rose window"
+      ko: "장미창"
+    gender: m
+  - italian: "la scalinata"
+    translation:
+      en: "grand staircase"
+      ko: "대계단"
+    gender: f
+  - italian: "il cortile"
+    translation:
+      en: "courtyard"
+      ko: "안뜰"
+    gender: m
+- id: architectural_styles
+  label:
+    en: "Architectural Styles"
+    ko: "건축 양식"
+  type: vocabulary
+  words:
+  - italian: "il romanico"
+    translation:
+      en: "Romanesque"
+      ko: "로마네스크"
+    gender: m
+  - italian: "il gotico"
+    translation:
+      en: "Gothic"
+      ko: "고딕"
+    gender: m
+  - italian: "il rinascimentale"
+    translation:
+      en: "Renaissance (style)"
+      ko: "르네상스 양식"
+    gender: m
+  - italian: "il barocco"
+    translation:
+      en: "Baroque"
+      ko: "바로크"
+    gender: m
+  - italian: "il neoclassico"
+    translation:
+      en: "Neoclassical"
+      ko: "신고전주의"
+    gender: m
+  - italian: "il liberty"
+    translation:
+      en: "Art Nouveau (Italian term)"
+      ko: "아르누보 (이탈리아 용어)"
+    gender: m
+    notes:
+      en: "Italian name for Art Nouveau style"
+      ko: "아르누보의 이탈리아식 명칭"
+  - italian: "il razionalismo"
+    translation:
+      en: "Rationalism (architecture)"
+      ko: "합리주의 (건축)"
+    gender: m
+    notes:
+      en: "Important Italian architectural movement of the 1920s-30s"
+      ko: "1920-30년대 이탈리아 건축 운동"
+  - italian: "il brutalismo"
+    translation:
+      en: "Brutalism"
+      ko: "브루탈리즘"
+    gender: m
+  - italian: "il decostruttivismo"
+    translation:
+      en: "Deconstructivism"
+      ko: "해체주의"
+    gender: m
+  - italian: "l'architettura contemporanea"
+    translation:
+      en: "contemporary architecture"
+      ko: "현대 건축"
+    gender: f
+- id: design_and_construction
+  label:
+    en: "Design and Construction"
+    ko: "설계 및 건설"
+  type: vocabulary
+  words:
+  - italian: "l'architettura"
+    translation:
+      en: "architecture"
+      ko: "건축"
+    gender: f
+  - italian: "l'architetto"
+    translation:
+      en: "architect (m)"
+      ko: "건축가 (남)"
+    gender: m
+  - italian: "l'architetta"
+    translation:
+      en: "architect (f)"
+      ko: "건축가 (여)"
+    gender: f
+  - italian: "la pianta"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: f
+  - italian: "il progetto"
+    translation:
+      en: "project / plan"
+      ko: "프로젝트 / 설계"
+    gender: m
+  - italian: "il modello"
+    translation:
+      en: "model"
+      ko: "모형"
+    gender: m
+  - italian: "il cantiere"
+    translation:
+      en: "construction site"
+      ko: "공사 현장"
+    gender: m
+  - italian: "le fondamenta"
+    translation:
+      en: "foundations"
+      ko: "기초"
+    gender: f
+  - italian: "la struttura"
+    translation:
+      en: "structure"
+      ko: "구조"
+    gender: f
+  - italian: "il cemento armato"
+    translation:
+      en: "reinforced concrete"
+      ko: "철근 콘크리트"
+    gender: m
+  - italian: "il marmo"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: m
+    notes:
+      en: "Famous: Carrara marble from Tuscany"
+      ko: "유명: 토스카나의 카라라 대리석"
+  - italian: "il mattone"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: m
+  - italian: "il restauro"
+    translation:
+      en: "restoration"
+      ko: "복원"
+    gender: m
+  - italian: "la ristrutturazione"
+    translation:
+      en: "renovation"
+      ko: "리노베이션"
+    gender: f
+  - italian: "costruire"
+    translation:
+      en: "to build"
+      ko: "건설하다"
+  - italian: "progettare"
+    translation:
+      en: "to design / to plan"
+      ko: "설계하다"
+  - italian: "restaurare"
+    translation:
+      en: "to restore"
+      ko: "복원하다"
+  - italian: "demolire"
+    translation:
+      en: "to demolish"
+      ko: "철거하다"
+  - italian: "ristrutturare"
+    translation:
+      en: "to renovate"
+      ko: "리노베이션하다"
+- id: urban_planning
+  label:
+    en: "Urban Planning"
+    ko: "도시 계획"
+  type: vocabulary
+  words:
+  - italian: "l'urbanistica"
+    translation:
+      en: "urban planning"
+      ko: "도시 계획"
+    gender: f
+  - italian: "il piano regolatore"
+    translation:
+      en: "master plan / zoning plan"
+      ko: "도시 계획안"
+    gender: m
+  - italian: "la zona pedonale"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 구역"
+    gender: f
+  - italian: "la zona residenziale"
+    translation:
+      en: "residential area"
+      ko: "주거 지역"
+    gender: f
+  - italian: "la zona industriale"
+    translation:
+      en: "industrial area"
+      ko: "공업 지역"
+    gender: f
+  - italian: "il centro storico"
+    translation:
+      en: "historic center"
+      ko: "역사적 도심"
+    gender: m
+    notes:
+      en: "Protected area in Italian cities"
+      ko: "이탈리아 도시의 보호 구역"
+  - italian: "la periferia"
+    translation:
+      en: "suburbs / outskirts"
+      ko: "교외"
+    gender: f
+  - italian: "il quartiere"
+    translation:
+      en: "neighborhood / district"
+      ko: "지구 / 동네"
+    gender: m
+  - italian: "l'area verde"
+    translation:
+      en: "green area / park"
+      ko: "녹지"
+    gender: f
+  - italian: "la pista ciclabile"
+    translation:
+      en: "bicycle lane"
+      ko: "자전거 도로"
+    gender: f
+  - italian: "il patrimonio edilizio"
+    translation:
+      en: "building heritage"
+      ko: "건축 유산"
+    gender: m
+  - italian: "il vincolo paesaggistico"
+    translation:
+      en: "landscape preservation order"
+      ko: "경관 보전 명령"
+    gender: m
+  - italian: "la riqualificazione urbana"
+    translation:
+      en: "urban renewal"
+      ko: "도시 재생"
+    gender: f
+  - italian: "la sostenibilità"
+    translation:
+      en: "sustainability"
+      ko: "지속 가능성"
+    gender: f
+  - italian: "l'edilizia"
+    translation:
+      en: "building / construction (sector)"
+      ko: "건설업"
+    gender: f
+  - italian: "il regolamento edilizio"
+    translation:
+      en: "building regulations"
+      ko: "건축 규정"
+    gender: m
+  - italian: "la lottizzazione"
+    translation:
+      en: "land subdivision"
+      ko: "토지 분할"
+    gender: f
+  - italian: "il suolo pubblico"
+    translation:
+      en: "public land"
+      ko: "공공 부지"
+    gender: m
+  - italian: "la mobilità urbana"
+    translation:
+      en: "urban mobility"
+      ko: "도시 이동성"
+    gender: f
+  - italian: "il trasporto pubblico"
+    translation:
+      en: "public transportation"
+      ko: "대중 교통"
+    gender: m
+  - italian: "la metropolitana"
+    translation:
+      en: "subway / metro"
+      ko: "지하철"
+    gender: f
+  - italian: "il parcheggio"
+    translation:
+      en: "parking"
+      ko: "주차장"
+    gender: m
+  - italian: "la ZTL"
+    translation:
+      en: "limited traffic zone"
+      ko: "교통 제한 구역"
+    gender: f
+    notes:
+      en: "Zona a Traffico Limitato — common in Italian cities"
+      ko: "Zona a Traffico Limitato — 이탈리아 도시에서 흔함"
+  - italian: "urbanizzare"
+    translation:
+      en: "to urbanize"
+      ko: "도시화하다"
+  - italian: "pianificare"
+    translation:
+      en: "to plan"
+      ko: "계획하다"
+  - italian: "zonizzare"
+    translation:
+      en: "to zone"
+      ko: "용도지역을 지정하다"
+  - italian: "ristrutturare"
+    translation:
+      en: "to renovate"
+      ko: "개조하다"
+  - italian: "abbattere"
+    translation:
+      en: "to knock down / to demolish"
+      ko: "허물다"
+  - italian: "edificare"
+    translation:
+      en: "to build / to erect"
+      ko: "건립하다"
+- id: interior_and_decoration
+  label:
+    en: "Interior Design and Decoration"
+    ko: "인테리어 및 장식"
+  type: vocabulary
+  words:
+  - italian: "l'arredamento"
+    translation:
+      en: "furnishing / interior design"
+      ko: "인테리어"
+    gender: m
+  - italian: "l'arredatore"
+    translation:
+      en: "interior designer (m)"
+      ko: "인테리어 디자이너 (남)"
+    gender: m
+  - italian: "il pavimento"
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: m
+  - italian: "il soffitto"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: m
+  - italian: "la parete"
+    translation:
+      en: "wall (interior)"
+      ko: "벽"
+    gender: f
+  - italian: "il muro"
+    translation:
+      en: "wall (structural)"
+      ko: "벽 (구조)"
+    gender: m
+  - italian: "la finestra"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+  - italian: "la vetrata"
+    translation:
+      en: "stained glass window"
+      ko: "스테인드글라스"
+    gender: f
+  - italian: "il mosaico pavimentale"
+    translation:
+      en: "floor mosaic"
+      ko: "바닥 모자이크"
+    gender: m
+  - italian: "la piastrella"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: f
+  - italian: "il cotto"
+    translation:
+      en: "terracotta tile"
+      ko: "테라코타 타일"
+    gender: m
+    notes:
+      en: "Traditional Italian flooring material"
+      ko: "전통 이탈리아 바닥재"
+  - italian: "il travertino"
+    translation:
+      en: "travertine"
+      ko: "석회화"
+    gender: m
+    notes:
+      en: "Roman building stone (e.g., Colosseum)"
+      ko: "로마 건축 석재 (예: 콜로세움)"
+  - italian: "il granito"
+    translation:
+      en: "granite"
+      ko: "화강암"
+    gender: m
+  - italian: "l'intonaco"
+    translation:
+      en: "plaster"
+      ko: "회반죽"
+    gender: m
+  - italian: "il tetto"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: m
+  - italian: "la tegola"
+    translation:
+      en: "roof tile"
+      ko: "기와"
+    gender: f
+  - italian: "la grondaia"
+    translation:
+      en: "gutter"
+      ko: "처마 홈통"
+    gender: f
+  - italian: "l'impalcatura"
+    translation:
+      en: "scaffolding"
+      ko: "비계"
+    gender: f
+  - italian: "la gru"
+    translation:
+      en: "crane"
+      ko: "크레인"
+    gender: f
+- id: famous_landmarks
+  label:
+    en: "Famous Italian Landmarks"
+    ko: "유명한 이탈리아 랜드마크"
+  type: vocabulary
+  words:
+  - italian: "il Colosseo"
+    translation:
+      en: "Colosseum"
+      ko: "콜로세움"
+    gender: m
+    notes:
+      en: "Rome, built 70-80 AD"
+      ko: "로마, 기원후 70-80년 건설"
+  - italian: "il Pantheon"
+    translation:
+      en: "Pantheon"
+      ko: "판테온"
+    gender: m
+  - italian: "la Torre di Pisa"
+    translation:
+      en: "Leaning Tower of Pisa"
+      ko: "피사의 사탑"
+    gender: f
+  - italian: "il Ponte Vecchio"
+    translation:
+      en: "Ponte Vecchio"
+      ko: "베키오 다리"
+    gender: m
+    notes:
+      en: "Medieval bridge in Florence"
+      ko: "피렌체의 중세 다리"
+  - italian: "Palazzo Ducale"
+    translation:
+      en: "Doge's Palace"
+      ko: "두칼레 궁전"
+    gender: m
+    notes:
+      en: "Venice"
+      ko: "베네치아"
+  - italian: "la Galleria degli Uffizi"
+    translation:
+      en: "Uffizi Gallery"
+      ko: "우피치 미술관"
+    gender: f
+  - italian: "la Reggia di Caserta"
+    translation:
+      en: "Royal Palace of Caserta"
+      ko: "카세르타 왕궁"
+    gender: f
+  - italian: "gli Scavi di Pompei"
+    translation:
+      en: "Excavations of Pompeii"
+      ko: "폼페이 유적"
+    gender: m
+  - italian: "i Trulli di Alberobello"
+    translation:
+      en: "Trulli of Alberobello"
+      ko: "알베로벨로의 트룰리"
+    gender: m
+    notes:
+      en: "UNESCO World Heritage Site in Puglia"
+      ko: "풀리아의 유네스코 세계 유산"
+  - italian: "i Sassi di Matera"
+    translation:
+      en: "Sassi of Matera"
+      ko: "마테라의 사시"
+    gender: m
+    notes:
+      en: "Ancient cave dwellings, UNESCO site"
+      ko: "고대 동굴 주거지, 유네스코 유산"
+- id: sustainable_architecture
+  label:
+    en: "Sustainable Architecture and Modern Design"
+    ko: "지속가능 건축 및 현대 설계"
+  type: vocabulary
+  words:
+  - italian: "la bioedilizia"
+    translation:
+      en: "green building"
+      ko: "친환경 건축"
+    gender: f
+  - italian: "l'efficienza energetica"
+    translation:
+      en: "energy efficiency"
+      ko: "에너지 효율"
+    gender: f
+  - italian: "il pannello solare"
+    translation:
+      en: "solar panel"
+      ko: "태양광 패널"
+    gender: m
+  - italian: "il riscaldamento a pavimento"
+    translation:
+      en: "underfloor heating"
+      ko: "바닥 난방"
+    gender: m
+  - italian: "l'isolamento termico"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: m
+  - italian: "il cappotto termico"
+    translation:
+      en: "external wall insulation"
+      ko: "외벽 단열"
+    gender: m
+  - italian: "la classe energetica"
+    translation:
+      en: "energy class"
+      ko: "에너지 등급"
+    gender: f
+  - italian: "la certificazione energetica"
+    translation:
+      en: "energy certification"
+      ko: "에너지 인증"
+    gender: f
+  - italian: "il tetto verde"
+    translation:
+      en: "green roof"
+      ko: "녹색 지붕"
+    gender: m
+  - italian: "il giardino pensile"
+    translation:
+      en: "rooftop garden"
+      ko: "옥상 정원"
+    gender: m
+  - italian: "la domotica"
+    translation:
+      en: "home automation / smart home"
+      ko: "홈 오토메이션"
+    gender: f
+  - italian: "l'impianto fotovoltaico"
+    translation:
+      en: "photovoltaic system"
+      ko: "태양광 발전 시스템"
+    gender: m
+  - italian: "il riciclo dei materiali"
+    translation:
+      en: "materials recycling"
+      ko: "자재 재활용"
+    gender: m
+  - italian: "il design"
+    translation:
+      en: "design"
+      ko: "디자인"
+    gender: m
+  - italian: "il design d'interni"
+    translation:
+      en: "interior design"
+      ko: "인테리어 디자인"
+    gender: m
+  - italian: "il design industriale"
+    translation:
+      en: "industrial design"
+      ko: "산업 디자인"
+    gender: m
+    notes:
+      en: "Italy is world-famous for industrial design"
+      ko: "이탈리아는 산업 디자인으로 세계적으로 유명"
+  - italian: "l'ergonomia"
+    translation:
+      en: "ergonomics"
+      ko: "인체공학"
+    gender: f
+  - italian: "la planimetria"
+    translation:
+      en: "floor plan / layout"
+      ko: "평면도"
+    gender: f
+  - italian: "la sezione"
+    translation:
+      en: "cross-section"
+      ko: "단면도"
+    gender: f
+  - italian: "il prospetto"
+    translation:
+      en: "elevation (drawing)"
+      ko: "입면도"
+    gender: m
+  - italian: "la scala"
+    translation:
+      en: "scale"
+      ko: "축척"
+    gender: f
+  - italian: "il rendering"
+    translation:
+      en: "rendering (3D)"
+      ko: "렌더링"
+    gender: m
+  - italian: "il BIM"
+    translation:
+      en: "BIM (Building Information Modeling)"
+      ko: "건축정보모델링"
+    gender: m
+  - italian: "l'accessibilità"
+    translation:
+      en: "accessibility"
+      ko: "접근성"
+    gender: f
+  - italian: "la barriera architettonica"
+    translation:
+      en: "architectural barrier"
+      ko: "건축 장벽"
+    gender: f
+  - italian: "l'abbattimento delle barriere"
+    translation:
+      en: "removal of barriers"
+      ko: "장벽 제거"
+    gender: m
+  - italian: "il collaudo"
+    translation:
+      en: "structural testing / inspection"
+      ko: "구조 검사"
+    gender: m
+  - italian: "la concessione edilizia"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: f
+  - italian: "l'abusivismo edilizio"
+    translation:
+      en: "illegal building"
+      ko: "불법 건축"
+    gender: m
+    notes:
+      en: "Significant issue in Italy"
+      ko: "이탈리아에서 중요한 사회 문제"
+  - italian: "il condono edilizio"
+    translation:
+      en: "building amnesty"
+      ko: "불법 건축물 사면"
+    gender: m
+  - italian: "la riconversione"
+    translation:
+      en: "reconversion / repurposing"
+      ko: "용도 전환"
+    gender: f
