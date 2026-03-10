@@ -1,0 +1,822 @@
+lesson: "sup_C1_Linguistics_and_Language"
+lesson_number: 505
+cefr: C1
+type: supplementary
+topic: "Linguistics and Language"
+categories:
+- id: branches_of_linguistics
+  label:
+    en: "Branches of Linguistics"
+    ko: "언어학의 분야"
+  type: vocabulary
+  words:
+  - italian: "la linguistica"
+    translation:
+      en: "linguistics"
+      ko: "언어학"
+    gender: f
+  - italian: "la fonologia"
+    translation:
+      en: "phonology"
+      ko: "음운론"
+    gender: f
+  - italian: "la fonetica"
+    translation:
+      en: "phonetics"
+      ko: "음성학"
+    gender: f
+  - italian: "la morfologia"
+    translation:
+      en: "morphology"
+      ko: "형태론"
+    gender: f
+  - italian: "la sintassi"
+    translation:
+      en: "syntax"
+      ko: "통사론"
+    gender: f
+    notes:
+      en: "Invariable: la sintassi / le sintassi"
+      ko: "불변: la sintassi / le sintassi"
+  - italian: "la semantica"
+    translation:
+      en: "semantics"
+      ko: "의미론"
+    gender: f
+  - italian: "la pragmatica"
+    translation:
+      en: "pragmatics"
+      ko: "화용론"
+    gender: f
+  - italian: "la sociolinguistica"
+    translation:
+      en: "sociolinguistics"
+      ko: "사회언어학"
+    gender: f
+  - italian: "la psicolinguistica"
+    translation:
+      en: "psycholinguistics"
+      ko: "심리언어학"
+    gender: f
+  - italian: "la neurolinguistica"
+    translation:
+      en: "neurolinguistics"
+      ko: "신경언어학"
+    gender: f
+  - italian: "la linguistica applicata"
+    translation:
+      en: "applied linguistics"
+      ko: "응용언어학"
+    gender: f
+  - italian: "la linguistica computazionale"
+    translation:
+      en: "computational linguistics"
+      ko: "전산언어학"
+    gender: f
+  - italian: "la linguistica storica"
+    translation:
+      en: "historical linguistics"
+      ko: "역사언어학"
+    gender: f
+  - italian: "la dialettologia"
+    translation:
+      en: "dialectology"
+      ko: "방언학"
+    gender: f
+  - italian: "la lessicografia"
+    translation:
+      en: "lexicography"
+      ko: "사전학"
+    gender: f
+  - italian: "la filologia"
+    translation:
+      en: "philology"
+      ko: "문헌학"
+    gender: f
+- id: language_concepts
+  label:
+    en: "Language Concepts"
+    ko: "언어 개념"
+  type: vocabulary
+  words:
+  - italian: "la lingua"
+    translation:
+      en: "language"
+      ko: "언어"
+    gender: f
+  - italian: "la lingua madre"
+    translation:
+      en: "mother tongue"
+      ko: "모국어"
+    gender: f
+  - italian: "la madrelingua"
+    translation:
+      en: "native language / native speaker"
+      ko: "모국어 / 원어민"
+    gender: f
+  - italian: "la seconda lingua"
+    translation:
+      en: "second language"
+      ko: "제2언어"
+    gender: f
+  - italian: "la lingua straniera"
+    translation:
+      en: "foreign language"
+      ko: "외국어"
+    gender: f
+  - italian: "il bilinguismo"
+    translation:
+      en: "bilingualism"
+      ko: "이중 언어 사용"
+    gender: m
+  - italian: "il multilinguismo"
+    translation:
+      en: "multilingualism"
+      ko: "다언어 사용"
+    gender: m
+  - italian: "il dialetto"
+    translation:
+      en: "dialect"
+      ko: "방언"
+    gender: m
+    notes:
+      en: "Italy has many regional dialects (e.g., napoletano, siciliano)"
+      ko: "이탈리아에는 많은 지역 방언이 있음 (예: 나폴리어, 시칠리아어)"
+  - italian: "la varietà linguistica"
+    translation:
+      en: "linguistic variety"
+      ko: "언어 다양성"
+    gender: f
+  - italian: "la lingua franca"
+    translation:
+      en: "lingua franca"
+      ko: "공통어"
+    gender: f
+    notes:
+      en: "Originally an Italian-based pidgin in the Mediterranean"
+      ko: "원래 지중해에서 사용된 이탈리아어 기반 피진어"
+  - italian: "il pidgin"
+    translation:
+      en: "pidgin"
+      ko: "피진어"
+    gender: m
+  - italian: "il creolo"
+    translation:
+      en: "creole"
+      ko: "크리올어"
+    gender: m
+- id: registers_and_styles
+  label:
+    en: "Registers and Styles"
+    ko: "언어 사용역 및 문체"
+  type: vocabulary
+  words:
+  - italian: "il registro"
+    translation:
+      en: "register (linguistic)"
+      ko: "언어 사용역"
+    gender: m
+  - italian: "il registro formale"
+    translation:
+      en: "formal register"
+      ko: "격식체"
+    gender: m
+  - italian: "il registro informale"
+    translation:
+      en: "informal register"
+      ko: "비격식체"
+    gender: m
+  - italian: "il colloquiale"
+    translation:
+      en: "colloquial language"
+      ko: "구어체"
+    gender: m
+  - italian: "il gergo"
+    translation:
+      en: "jargon / slang"
+      ko: "은어 / 전문 용어"
+    gender: m
+  - italian: "lo slang"
+    translation:
+      en: "slang"
+      ko: "속어"
+    gender: m
+  - italian: "il linguaggio tecnico"
+    translation:
+      en: "technical language"
+      ko: "전문 용어"
+    gender: m
+  - italian: "il linguaggio burocratico"
+    translation:
+      en: "bureaucratic language"
+      ko: "관료적 언어"
+    gender: m
+    notes:
+      en: "Known as 'burocratese' in Italian"
+      ko: "'burocratese'라고도 불림"
+  - italian: "il linguaggio giornalistico"
+    translation:
+      en: "journalistic language"
+      ko: "신문체"
+    gender: m
+  - italian: "il linguaggio letterario"
+    translation:
+      en: "literary language"
+      ko: "문학적 언어"
+    gender: m
+- id: word_formation
+  label:
+    en: "Word Formation and Etymology"
+    ko: "어형성 및 어원"
+  type: vocabulary
+  words:
+  - italian: "l'etimologia"
+    translation:
+      en: "etymology"
+      ko: "어원"
+    gender: f
+  - italian: "il neologismo"
+    translation:
+      en: "neologism"
+      ko: "신조어"
+    gender: m
+  - italian: "il prestito linguistico"
+    translation:
+      en: "loanword / linguistic borrowing"
+      ko: "차용어"
+    gender: m
+  - italian: "il calco"
+    translation:
+      en: "calque / loan translation"
+      ko: "번역 차용"
+    gender: m
+  - italian: "l'anglicismo"
+    translation:
+      en: "anglicism"
+      ko: "영어 차용어"
+    gender: m
+  - italian: "il latinismo"
+    translation:
+      en: "Latinism"
+      ko: "라틴어 차용어"
+    gender: m
+  - italian: "l'arcaismo"
+    translation:
+      en: "archaism"
+      ko: "고어"
+    gender: m
+  - italian: "il prefisso"
+    translation:
+      en: "prefix"
+      ko: "접두사"
+    gender: m
+  - italian: "il suffisso"
+    translation:
+      en: "suffix"
+      ko: "접미사"
+    gender: m
+  - italian: "la radice"
+    translation:
+      en: "root (of a word)"
+      ko: "어근"
+    gender: f
+  - italian: "il morfema"
+    translation:
+      en: "morpheme"
+      ko: "형태소"
+    gender: m
+  - italian: "il fonema"
+    translation:
+      en: "phoneme"
+      ko: "음소"
+    gender: m
+  - italian: "il lessema"
+    translation:
+      en: "lexeme"
+      ko: "어휘소"
+    gender: m
+  - italian: "il lessico"
+    translation:
+      en: "lexicon / vocabulary"
+      ko: "어휘"
+    gender: m
+  - italian: "il sinonimo"
+    translation:
+      en: "synonym"
+      ko: "동의어"
+    gender: m
+  - italian: "l'antonimo"
+    translation:
+      en: "antonym"
+      ko: "반의어"
+    gender: m
+  - italian: "l'omonimo"
+    translation:
+      en: "homonym"
+      ko: "동음이의어"
+    gender: m
+  - italian: "il significato"
+    translation:
+      en: "meaning"
+      ko: "의미"
+    gender: m
+  - italian: "il significante"
+    translation:
+      en: "signifier"
+      ko: "기표"
+    gender: m
+- id: translation_and_actions
+  label:
+    en: "Translation and Linguistic Actions"
+    ko: "번역 및 언어 활동"
+  type: vocabulary
+  words:
+  - italian: "la traduzione"
+    translation:
+      en: "translation"
+      ko: "번역"
+    gender: f
+  - italian: "l'interpretazione"
+    translation:
+      en: "interpretation (oral)"
+      ko: "통역"
+    gender: f
+  - italian: "la traduzione simultanea"
+    translation:
+      en: "simultaneous translation"
+      ko: "동시통역"
+    gender: f
+  - italian: "la traduzione letteraria"
+    translation:
+      en: "literary translation"
+      ko: "문학 번역"
+    gender: f
+  - italian: "il traduttore"
+    translation:
+      en: "translator (m)"
+      ko: "번역가 (남)"
+    gender: m
+  - italian: "la traduttrice"
+    translation:
+      en: "translator (f)"
+      ko: "번역가 (여)"
+    gender: f
+  - italian: "l'interprete"
+    translation:
+      en: "interpreter"
+      ko: "통역사"
+    gender: m
+  - italian: "il linguista"
+    translation:
+      en: "linguist"
+      ko: "언어학자"
+    gender: m
+  - italian: "tradurre"
+    translation:
+      en: "to translate"
+      ko: "번역하다"
+  - italian: "interpretare"
+    translation:
+      en: "to interpret"
+      ko: "통역하다"
+  - italian: "coniare"
+    translation:
+      en: "to coin (a word)"
+      ko: "새 말을 만들다"
+  - italian: "declinare"
+    translation:
+      en: "to decline / to inflect"
+      ko: "굴절시키다"
+  - italian: "coniugare"
+    translation:
+      en: "to conjugate"
+      ko: "활용하다"
+  - italian: "pronunciare"
+    translation:
+      en: "to pronounce"
+      ko: "발음하다"
+  - italian: "acquisire una lingua"
+    translation:
+      en: "to acquire a language"
+      ko: "언어를 습득하다"
+  - italian: "analizzare"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+  - italian: "parafrasare"
+    translation:
+      en: "to paraphrase"
+      ko: "의역하다"
+  - italian: "trascrivere"
+    translation:
+      en: "to transcribe"
+      ko: "전사하다"
+  - italian: "codificare"
+    translation:
+      en: "to codify"
+      ko: "체계화하다"
+  - italian: "decodificare"
+    translation:
+      en: "to decode"
+      ko: "해독하다"
+- id: grammar_concepts
+  label:
+    en: "Grammar Concepts"
+    ko: "문법 개념"
+  type: vocabulary
+  words:
+  - italian: "la grammatica"
+    translation:
+      en: "grammar"
+      ko: "문법"
+    gender: f
+  - italian: "il sostantivo"
+    translation:
+      en: "noun"
+      ko: "명사"
+    gender: m
+  - italian: "il verbo"
+    translation:
+      en: "verb"
+      ko: "동사"
+    gender: m
+  - italian: "l'aggettivo"
+    translation:
+      en: "adjective"
+      ko: "형용사"
+    gender: m
+  - italian: "l'avverbio"
+    translation:
+      en: "adverb"
+      ko: "부사"
+    gender: m
+  - italian: "la preposizione"
+    translation:
+      en: "preposition"
+      ko: "전치사"
+    gender: f
+  - italian: "la congiunzione"
+    translation:
+      en: "conjunction"
+      ko: "접속사"
+    gender: f
+  - italian: "il pronome"
+    translation:
+      en: "pronoun"
+      ko: "대명사"
+    gender: m
+  - italian: "l'articolo"
+    translation:
+      en: "article (grammar)"
+      ko: "관사"
+    gender: m
+  - italian: "la coniugazione"
+    translation:
+      en: "conjugation"
+      ko: "활용"
+    gender: f
+  - italian: "la declinazione"
+    translation:
+      en: "declension"
+      ko: "곡용"
+    gender: f
+  - italian: "il congiuntivo"
+    translation:
+      en: "subjunctive"
+      ko: "접속법"
+    gender: m
+  - italian: "il condizionale"
+    translation:
+      en: "conditional"
+      ko: "조건법"
+    gender: m
+  - italian: "l'indicativo"
+    translation:
+      en: "indicative"
+      ko: "직설법"
+    gender: m
+  - italian: "il gerundio"
+    translation:
+      en: "gerund"
+      ko: "동명사"
+    gender: m
+  - italian: "il participio"
+    translation:
+      en: "participle"
+      ko: "분사"
+    gender: m
+  - italian: "l'infinito"
+    translation:
+      en: "infinitive"
+      ko: "부정사"
+    gender: m
+  - italian: "l'imperativo"
+    translation:
+      en: "imperative"
+      ko: "명령법"
+    gender: m
+  - italian: "la frase"
+    translation:
+      en: "sentence"
+      ko: "문장"
+    gender: f
+  - italian: "la proposizione"
+    translation:
+      en: "clause"
+      ko: "절"
+    gender: f
+  - italian: "il soggetto"
+    translation:
+      en: "subject"
+      ko: "주어"
+    gender: m
+  - italian: "il predicato"
+    translation:
+      en: "predicate"
+      ko: "술어"
+    gender: m
+  - italian: "il complemento"
+    translation:
+      en: "complement"
+      ko: "보어"
+    gender: m
+  - italian: "il complemento oggetto"
+    translation:
+      en: "direct object"
+      ko: "직접 목적어"
+    gender: m
+  - italian: "il complemento indiretto"
+    translation:
+      en: "indirect object"
+      ko: "간접 목적어"
+    gender: m
+- id: language_acquisition
+  label:
+    en: "Language Acquisition and Teaching"
+    ko: "언어 습득 및 교육"
+  type: vocabulary
+  words:
+  - italian: "l'acquisizione linguistica"
+    translation:
+      en: "language acquisition"
+      ko: "언어 습득"
+    gender: f
+  - italian: "l'apprendimento linguistico"
+    translation:
+      en: "language learning"
+      ko: "언어 학습"
+    gender: m
+  - italian: "la competenza linguistica"
+    translation:
+      en: "linguistic competence"
+      ko: "언어 능력"
+    gender: f
+  - italian: "la competenza comunicativa"
+    translation:
+      en: "communicative competence"
+      ko: "의사소통 능력"
+    gender: f
+  - italian: "l'interlingua"
+    translation:
+      en: "interlanguage"
+      ko: "중간 언어"
+    gender: f
+  - italian: "il transfer linguistico"
+    translation:
+      en: "language transfer"
+      ko: "언어 전이"
+    gender: m
+  - italian: "l'interferenza"
+    translation:
+      en: "interference"
+      ko: "간섭"
+    gender: f
+  - italian: "l'errore"
+    translation:
+      en: "error"
+      ko: "오류"
+    gender: m
+  - italian: "la fossilizzazione"
+    translation:
+      en: "fossilization"
+      ko: "화석화"
+    gender: f
+  - italian: "l'input"
+    translation:
+      en: "input"
+      ko: "입력"
+    gender: m
+  - italian: "l'output"
+    translation:
+      en: "output"
+      ko: "출력"
+    gender: m
+  - italian: "la glottodidattica"
+    translation:
+      en: "language teaching methodology"
+      ko: "언어 교수법"
+    gender: f
+  - italian: "il QCER"
+    translation:
+      en: "CEFR (Common European Framework)"
+      ko: "유럽공통참조기준"
+    gender: m
+    notes:
+      en: "Quadro Comune Europeo di Riferimento"
+      ko: "Quadro Comune Europeo di Riferimento"
+  - italian: "la certificazione linguistica"
+    translation:
+      en: "language certification"
+      ko: "어학 인증"
+    gender: f
+  - italian: "il CILS"
+    translation:
+      en: "CILS (Italian language certificate)"
+      ko: "CILS (이탈리아어 인증)"
+    gender: m
+    notes:
+      en: "Certificazione di Italiano come Lingua Straniera"
+      ko: "외국어로서의 이탈리아어 인증"
+  - italian: "il CELI"
+    translation:
+      en: "CELI (Italian language certificate)"
+      ko: "CELI (이탈리아어 인증)"
+    gender: m
+    notes:
+      en: "Certificato di conoscenza della Lingua Italiana"
+      ko: "이탈리아어 지식 인증서"
+  - italian: "l'immersione linguistica"
+    translation:
+      en: "language immersion"
+      ko: "언어 몰입"
+    gender: f
+  - italian: "il metodo comunicativo"
+    translation:
+      en: "communicative method"
+      ko: "의사소통 교수법"
+    gender: m
+  - italian: "la didattica"
+    translation:
+      en: "didactics / teaching"
+      ko: "교수법"
+    gender: f
+  - italian: "il curriculum linguistico"
+    translation:
+      en: "language curriculum"
+      ko: "언어 교육과정"
+    gender: m
+  - italian: "l'alfabetizzazione"
+    translation:
+      en: "literacy"
+      ko: "문해력"
+    gender: f
+  - italian: "la frase idiomatica"
+    translation:
+      en: "idiomatic expression"
+      ko: "관용 표현"
+    gender: f
+  - italian: "il modo di dire"
+    translation:
+      en: "saying / idiom"
+      ko: "관용구"
+    gender: m
+  - italian: "il proverbio"
+    translation:
+      en: "proverb"
+      ko: "속담"
+    gender: m
+- id: phonetics_and_pronunciation
+  label:
+    en: "Phonetics and Pronunciation"
+    ko: "음성학 및 발음"
+  type: vocabulary
+  words:
+  - italian: "la pronuncia"
+    translation:
+      en: "pronunciation"
+      ko: "발음"
+    gender: f
+  - italian: "l'accento"
+    translation:
+      en: "accent / stress"
+      ko: "악센트 / 강세"
+    gender: m
+  - italian: "l'intonazione"
+    translation:
+      en: "intonation"
+      ko: "억양"
+    gender: f
+  - italian: "la sillaba"
+    translation:
+      en: "syllable"
+      ko: "음절"
+    gender: f
+  - italian: "la vocale"
+    translation:
+      en: "vowel"
+      ko: "모음"
+    gender: f
+  - italian: "la consonante"
+    translation:
+      en: "consonant"
+      ko: "자음"
+    gender: f
+  - italian: "il dittongo"
+    translation:
+      en: "diphthong"
+      ko: "이중모음"
+    gender: m
+  - italian: "il raddoppiamento"
+    translation:
+      en: "consonant doubling"
+      ko: "자음 겹침"
+    gender: m
+    notes:
+      en: "Important feature of Italian pronunciation"
+      ko: "이탈리아어 발음의 중요한 특징"
+  - italian: "l'elisione"
+    translation:
+      en: "elision"
+      ko: "모음 생략"
+    gender: f
+  - italian: "il troncamento"
+    translation:
+      en: "truncation / apocope"
+      ko: "어미 탈락"
+    gender: m
+  - italian: "la liaison"
+    translation:
+      en: "liaison (phonetic linking)"
+      ko: "음운 연결"
+    gender: f
+- id: discourse_and_text
+  label:
+    en: "Discourse and Text Analysis"
+    ko: "담화 및 텍스트 분석"
+  type: vocabulary
+  words:
+  - italian: "il discorso"
+    translation:
+      en: "discourse / speech"
+      ko: "담화"
+    gender: m
+  - italian: "il testo"
+    translation:
+      en: "text"
+      ko: "텍스트"
+    gender: m
+  - italian: "il contesto"
+    translation:
+      en: "context"
+      ko: "맥락"
+    gender: m
+  - italian: "la coesione testuale"
+    translation:
+      en: "textual cohesion"
+      ko: "텍스트 응집력"
+    gender: f
+  - italian: "la coerenza testuale"
+    translation:
+      en: "textual coherence"
+      ko: "텍스트 일관성"
+    gender: f
+  - italian: "il connettivo"
+    translation:
+      en: "connective / linking word"
+      ko: "접속어"
+    gender: m
+  - italian: "l'atto linguistico"
+    translation:
+      en: "speech act"
+      ko: "화행"
+    gender: m
+  - italian: "l'enunciato"
+    translation:
+      en: "utterance"
+      ko: "발화"
+    gender: m
+  - italian: "la retorica"
+    translation:
+      en: "rhetoric"
+      ko: "수사학"
+    gender: f
+  - italian: "la figura retorica"
+    translation:
+      en: "figure of speech"
+      ko: "수사법"
+    gender: f
+  - italian: "la metonimia"
+    translation:
+      en: "metonymy"
+      ko: "환유"
+    gender: f
+  - italian: "la sineddoche"
+    translation:
+      en: "synecdoche"
+      ko: "제유"
+    gender: f
+  - italian: "l'iperbole"
+    translation:
+      en: "hyperbole"
+      ko: "과장법"
+    gender: f
