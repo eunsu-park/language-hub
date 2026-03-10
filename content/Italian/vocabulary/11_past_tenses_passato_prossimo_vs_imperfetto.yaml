@@ -1,0 +1,538 @@
+lesson: 11_Past_Tenses_Passato_Prossimo_vs_Imperfetto
+lesson_number: 11
+cefr: B1
+categories:
+- id: past_participles
+  label:
+    en: Past Participles
+    ko: 과거분사
+  type: vocabulary
+  words:
+  - italian: parlato
+    translation:
+      en: spoken/talked
+      ko: 말한
+    gender: null
+    notes:
+      en: Regular past participle of 'parlare' (-are → -ato)
+      ko: "'parlare'의 규칙 과거분사 (-are → -ato)"
+  - italian: creduto
+    translation:
+      en: believed
+      ko: 믿은
+    gender: null
+    notes:
+      en: Regular past participle of 'credere' (-ere → -uto)
+      ko: "'credere'의 규칙 과거분사 (-ere → -uto)"
+  - italian: dormito
+    translation:
+      en: slept
+      ko: 잔
+    gender: null
+    notes:
+      en: Regular past participle of 'dormire' (-ire → -ito)
+      ko: "'dormire'의 규칙 과거분사 (-ire → -ito)"
+  - italian: fatto
+    translation:
+      en: done/made
+      ko: 한/만든
+    gender: null
+    notes:
+      en: Irregular past participle of 'fare'
+      ko: "'fare'의 불규칙 과거분사"
+  - italian: detto
+    translation:
+      en: said/told
+      ko: 말한
+    gender: null
+    notes:
+      en: Irregular past participle of 'dire'
+      ko: "'dire'의 불규칙 과거분사"
+  - italian: scritto
+    translation:
+      en: written
+      ko: 쓴
+    gender: null
+    notes:
+      en: Irregular past participle of 'scrivere'
+      ko: "'scrivere'의 불규칙 과거분사"
+  - italian: letto
+    translation:
+      en: read
+      ko: 읽은
+    gender: null
+    notes:
+      en: Irregular past participle of 'leggere'
+      ko: "'leggere'의 불규칙 과거분사"
+  - italian: visto
+    translation:
+      en: seen
+      ko: 본
+    gender: null
+    notes:
+      en: Irregular past participle of 'vedere'
+      ko: "'vedere'의 불규칙 과거분사"
+  - italian: aperto
+    translation:
+      en: opened
+      ko: 연
+    gender: null
+    notes:
+      en: Irregular past participle of 'aprire'
+      ko: "'aprire'의 불규칙 과거분사"
+  - italian: chiuso
+    translation:
+      en: closed
+      ko: 닫은
+    gender: null
+    notes:
+      en: Irregular past participle of 'chiudere'
+      ko: "'chiudere'의 불규칙 과거분사"
+  - italian: preso
+    translation:
+      en: taken
+      ko: 가져간
+    gender: null
+    notes:
+      en: Irregular past participle of 'prendere'
+      ko: "'prendere'의 불규칙 과거분사"
+  - italian: messo
+    translation:
+      en: put/placed
+      ko: 놓은
+    gender: null
+    notes:
+      en: Irregular past participle of 'mettere'
+      ko: "'mettere'의 불규칙 과거분사"
+  - italian: stato
+    translation:
+      en: been
+      ko: ~이었던
+    gender: null
+    notes:
+      en: Irregular past participle of 'essere'; uses 'essere' as auxiliary
+      ko: "'essere'의 불규칙 과거분사; 조동사로 'essere' 사용"
+  - italian: venuto
+    translation:
+      en: come
+      ko: 온
+    gender: null
+    notes:
+      en: Irregular past participle of 'venire'; uses 'essere' as auxiliary
+      ko: "'venire'의 불규칙 과거분사; 조동사로 'essere' 사용"
+  - italian: morto
+    translation:
+      en: died/dead
+      ko: 죽은
+    gender: null
+    notes:
+      en: Irregular past participle of 'morire'; uses 'essere' as auxiliary
+      ko: "'morire'의 불규칙 과거분사; 조동사로 'essere' 사용"
+  - italian: nato
+    translation:
+      en: born
+      ko: 태어난
+    gender: null
+    notes:
+      en: Irregular past participle of 'nascere'; uses 'essere' as auxiliary
+      ko: "'nascere'의 불규칙 과거분사; 조동사로 'essere' 사용"
+  - italian: rotto
+    translation:
+      en: broken
+      ko: 부서진
+    gender: null
+    notes:
+      en: Irregular past participle of 'rompere'
+      ko: "'rompere'의 불규칙 과거분사"
+  - italian: rimasto
+    translation:
+      en: remained / stayed
+      ko: 남은
+    gender: null
+    notes:
+      en: Irregular past participle of 'rimanere'; uses 'essere'
+      ko: "'rimanere'의 불규칙 과거분사; 'essere' 사용"
+  - italian: corso
+    translation:
+      en: run
+      ko: 달린
+    gender: null
+    notes:
+      en: Irregular past participle of 'correre'
+      ko: "'correre'의 불규칙 과거분사"
+  - italian: perso / perduto
+    translation:
+      en: lost
+      ko: 잃은
+    gender: null
+    notes:
+      en: Both forms valid; irregular past participle of 'perdere'
+      ko: 두 형태 모두 유효; 'perdere'의 불규칙 과거분사
+  - italian: risposto
+    translation:
+      en: answered / replied
+      ko: 대답한
+    gender: null
+    notes:
+      en: Irregular past participle of 'rispondere'
+      ko: "'rispondere'의 불규칙 과거분사"
+  - italian: scelto
+    translation:
+      en: chosen
+      ko: 선택한
+    gender: null
+    notes:
+      en: Irregular past participle of 'scegliere'
+      ko: "'scegliere'의 불규칙 과거분사"
+  - italian: speso
+    translation:
+      en: spent (money)
+      ko: (돈을) 쓴
+    gender: null
+    notes:
+      en: Irregular past participle of 'spendere'
+      ko: "'spendere'의 불규칙 과거분사"
+- id: time_markers_passato
+  label:
+    en: Time Markers (Passato Prossimo)
+    ko: 시간 표지 (근과거)
+  type: vocabulary
+  words:
+  - italian: ieri
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - italian: l'altro ieri
+    translation:
+      en: the day before yesterday
+      ko: 그저께
+    gender: null
+  - italian: la settimana scorsa
+    translation:
+      en: last week
+      ko: 지난주
+    gender: f
+  - italian: il mese scorso
+    translation:
+      en: last month
+      ko: 지난달
+    gender: m
+  - italian: l'anno scorso
+    translation:
+      en: last year
+      ko: 작년
+    gender: m
+  - italian: stamattina
+    translation:
+      en: this morning
+      ko: 오늘 아침
+    gender: null
+    notes:
+      en: Contraction of 'questa mattina'
+      ko: "'questa mattina'의 축약형"
+  - italian: due giorni fa
+    translation:
+      en: two days ago
+      ko: 이틀 전
+    gender: null
+  - italian: una volta
+    translation:
+      en: once / one time
+      ko: 한 번
+    gender: f
+  - italian: poco fa
+    translation:
+      en: a little while ago
+      ko: 조금 전에
+    gender: null
+  - italian: tre anni fa
+    translation:
+      en: three years ago
+      ko: 3년 전
+    gender: null
+  - italian: per la prima volta
+    translation:
+      en: for the first time
+      ko: 처음으로
+    gender: null
+  - italian: di colpo
+    translation:
+      en: suddenly / all at once
+      ko: 갑자기 / 단번에
+    gender: null
+  - italian: un giorno
+    translation:
+      en: one day
+      ko: 어느 날
+    gender: null
+  - italian: all'improvviso
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+- id: time_markers_imperfetto
+  label:
+    en: Time Markers (Imperfetto)
+    ko: 시간 표지 (반과거)
+  type: vocabulary
+  words:
+  - italian: sempre
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+  - italian: spesso
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+  - italian: di solito
+    translation:
+      en: usually
+      ko: 보통
+    gender: null
+  - italian: ogni giorno
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+  - italian: a volte
+    translation:
+      en: sometimes
+      ko: 가끔
+    gender: null
+  - italian: quando ero giovane
+    translation:
+      en: when I was young
+      ko: 내가 젊었을 때
+    gender: null
+    notes:
+      en: Classic imperfetto trigger phrase
+      ko: 전형적인 반과거 유발 표현
+  - italian: da bambino/a
+    translation:
+      en: as a child
+      ko: 어렸을 때
+    gender: null
+  - italian: mentre
+    translation:
+      en: while
+      ko: ~하는 동안
+    gender: null
+    notes:
+      en: Key imperfetto trigger; describes simultaneous background actions
+      ko: 반과거의 핵심 키워드; 동시 배경 동작을 설명
+  - italian: di tanto in tanto
+    translation:
+      en: from time to time
+      ko: 때때로
+    gender: null
+  - italian: in quel periodo
+    translation:
+      en: in that period
+      ko: 그 시절에
+    gender: null
+  - italian: normalmente
+    translation:
+      en: normally
+      ko: 보통
+    gender: null
+  - italian: generalmente
+    translation:
+      en: generally
+      ko: 일반적으로
+    gender: null
+  - italian: tutti i giorni
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+  - italian: a quell'epoca
+    translation:
+      en: at that time / in that era
+      ko: 그 시대에
+    gender: null
+  - italian: regolarmente
+    translation:
+      en: regularly
+      ko: 정기적으로
+    gender: null
+- id: narrative_words
+  label:
+    en: Narrative Words
+    ko: 서사 단어
+  type: vocabulary
+  words:
+  - italian: poi
+    translation:
+      en: then / afterwards
+      ko: 그 다음에
+    gender: null
+  - italian: dopo
+    translation:
+      en: after / later
+      ko: ~후에 / 나중에
+    gender: null
+  - italian: prima
+    translation:
+      en: before / first
+      ko: ~전에 / 먼저
+    gender: null
+  - italian: improvvisamente
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+  - italian: finalmente
+    translation:
+      en: finally
+      ko: 마침내
+    gender: null
+  - italian: alla fine
+    translation:
+      en: in the end
+      ko: 결국
+    gender: null
+  - italian: nel frattempo
+    translation:
+      en: in the meantime
+      ko: 그 사이에
+    gender: null
+  - italian: allora
+    translation:
+      en: then / so / at that time
+      ko: 그때 / 그래서
+    gender: null
+  - italian: così
+    translation:
+      en: so / thus
+      ko: 그래서 / 이렇게
+    gender: null
+  - italian: quindi
+    translation:
+      en: therefore / so
+      ko: 그러므로 / 따라서
+    gender: null
+  - italian: d'un tratto
+    translation:
+      en: all of a sudden
+      ko: 갑자기
+    gender: null
+  - italian: a un certo punto
+    translation:
+      en: at a certain point
+      ko: 어느 시점에서
+    gender: null
+  - italian: subito dopo
+    translation:
+      en: right after
+      ko: 바로 후에
+    gender: null
+  - italian: in quel momento
+    translation:
+      en: at that moment
+      ko: 그 순간에
+    gender: null
+- id: past_tense_example_phrases
+  label:
+    en: Past Tense Example Phrases
+    ko: 과거 시제 예문
+  type: vocabulary
+  words:
+  - italian: Ieri sono andato al cinema.
+    translation:
+      en: Yesterday I went to the cinema.
+      ko: 어제 영화관에 갔다.
+    gender: null
+    notes:
+      en: Passato prossimo -- completed action with specific time
+      ko: 근과거 -- 특정 시점의 완료된 행동
+  - italian: Quando ero bambino, giocavo molto.
+    translation:
+      en: When I was a child, I used to play a lot.
+      ko: 어렸을 때 많이 놀곤 했다.
+    gender: null
+    notes:
+      en: Imperfetto -- habitual past action
+      ko: 반과거 -- 습관적 과거 행동
+  - italian: Pioveva quando sono uscito di casa.
+    translation:
+      en: It was raining when I left the house.
+      ko: 내가 집을 나섰을 때 비가 오고 있었다.
+    gender: null
+    notes:
+      en: Imperfetto (background) + passato prossimo (interruption)
+      ko: 반과거 (배경) + 근과거 (중단)
+  - italian: Ho conosciuto mia moglie nel 2010.
+    translation:
+      en: I met my wife in 2010.
+      ko: 2010년에 아내를 만났다.
+    gender: null
+    notes:
+      en: Passato prossimo -- 'conoscere' in p.p. means 'met'
+      ko: 근과거 -- 'conoscere'의 근과거는 '만나다'
+  - italian: Faceva caldo e il sole brillava.
+    translation:
+      en: It was hot and the sun was shining.
+      ko: 날씨가 덥고 해가 빛나고 있었다.
+    gender: null
+    notes:
+      en: Imperfetto -- setting/weather description
+      ko: 반과거 -- 배경/날씨 묘사
+  - italian: Mentre studiavo, è arrivato il mio amico.
+    translation:
+      en: While I was studying, my friend arrived.
+      ko: 내가 공부하는 동안 친구가 왔다.
+    gender: null
+    notes:
+      en: Imperfetto (ongoing) interrupted by passato prossimo
+      ko: 반과거 (진행) 중 근과거로 중단
+  - italian: Ogni estate andavamo al mare.
+    translation:
+      en: Every summer we used to go to the seaside.
+      ko: 매 여름마다 바다에 가곤 했다.
+    gender: null
+    notes:
+      en: Imperfetto -- recurring past action
+      ko: 반과거 -- 반복적 과거 행동
+  - italian: Mi sono svegliato e ho fatto colazione.
+    translation:
+      en: I woke up and had breakfast.
+      ko: 나는 일어나서 아침을 먹었다.
+    gender: null
+    notes:
+      en: Passato prossimo -- chain of completed actions
+      ko: 근과거 -- 완료된 행동의 연쇄
+  - italian: Aveva paura ma lo ha fatto.
+    translation:
+      en: She was afraid but she did it.
+      ko: 그녀는 무서웠지만 해냈다.
+    gender: null
+    notes:
+      en: Imperfetto (emotion) + passato prossimo (action)
+      ko: 반과거 (감정) + 근과거 (행동)
+  - italian: Sapevo la verità.
+    translation:
+      en: I knew the truth.
+      ko: 나는 진실을 알고 있었다.
+    gender: null
+    notes:
+      en: Imperfetto -- ongoing state of knowledge
+      ko: 반과거 -- 지속적인 앎의 상태
+  - italian: Ho saputo la verità.
+    translation:
+      en: I found out the truth.
+      ko: 나는 진실을 알게 되었다.
+    gender: null
+    notes:
+      en: Passato prossimo -- moment of discovery
+      ko: 근과거 -- 알게 된 순간
+  - italian: Erano le tre quando è arrivato.
+    translation:
+      en: It was three o'clock when he arrived.
+      ko: 그가 도착했을 때 세 시였다.
+    gender: null
+    notes:
+      en: Imperfetto for time + passato prossimo for event
+      ko: 시간은 반과거 + 사건은 근과거
