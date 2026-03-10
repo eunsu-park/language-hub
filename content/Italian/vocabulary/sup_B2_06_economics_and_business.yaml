@@ -1,0 +1,816 @@
+lesson: "sup_B2_Economics_and_Business"
+lesson_number: 406
+cefr: B2
+type: supplementary
+topic: "Economics and Business"
+categories:
+- id: macroeconomics
+  label:
+    en: "Macroeconomics"
+    ko: "거시경제학"
+  type: vocabulary
+  words:
+  - italian: "l'economia"
+    translation:
+      en: "economy / economics"
+      ko: "경제 / 경제학"
+    gender: f
+  - italian: "il PIL"
+    translation:
+      en: "GDP (Gross Domestic Product)"
+      ko: "GDP (국내 총생산)"
+    gender: m
+    notes:
+      en: "Prodotto Interno Lordo"
+      ko: "Prodotto Interno Lordo의 약자"
+  - italian: "l'inflazione"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: f
+  - italian: "la deflazione"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: f
+  - italian: "la recessione"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+  - italian: "la crescita economica"
+    translation:
+      en: "economic growth"
+      ko: "경제 성장"
+    gender: f
+  - italian: "la ripresa"
+    translation:
+      en: "recovery (economic)"
+      ko: "경기 회복"
+    gender: f
+  - italian: "il tasso di disoccupazione"
+    translation:
+      en: "unemployment rate"
+      ko: "실업률"
+    gender: m
+  - italian: "il tasso di interesse"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: m
+  - italian: "il debito pubblico"
+    translation:
+      en: "public debt"
+      ko: "공공 부채"
+    gender: m
+  - italian: "il deficit"
+    translation:
+      en: "deficit"
+      ko: "적자"
+    gender: m
+  - italian: "il surplus"
+    translation:
+      en: "surplus"
+      ko: "흑자"
+    gender: m
+  - italian: "la politica monetaria"
+    translation:
+      en: "monetary policy"
+      ko: "통화 정책"
+    gender: f
+  - italian: "la politica fiscale"
+    translation:
+      en: "fiscal policy"
+      ko: "재정 정책"
+    gender: f
+  - italian: "la Banca Centrale Europea"
+    translation:
+      en: "European Central Bank"
+      ko: "유럽중앙은행"
+    gender: f
+- id: markets_and_trade
+  label:
+    en: "Markets and Trade"
+    ko: "시장 및 무역"
+  type: vocabulary
+  words:
+  - italian: "il mercato"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: m
+  - italian: "la domanda"
+    translation:
+      en: "demand"
+      ko: "수요"
+    gender: f
+  - italian: "l'offerta"
+    translation:
+      en: "supply"
+      ko: "공급"
+    gender: f
+  - italian: "la concorrenza"
+    translation:
+      en: "competition"
+      ko: "경쟁"
+    gender: f
+  - italian: "il monopolio"
+    translation:
+      en: "monopoly"
+      ko: "독점"
+    gender: m
+  - italian: "l'oligopolio"
+    translation:
+      en: "oligopoly"
+      ko: "과점"
+    gender: m
+  - italian: "il commercio"
+    translation:
+      en: "trade / commerce"
+      ko: "무역 / 상업"
+    gender: m
+  - italian: "il commercio estero"
+    translation:
+      en: "foreign trade"
+      ko: "대외 무역"
+    gender: m
+  - italian: "l'importazione"
+    translation:
+      en: "import"
+      ko: "수입"
+    gender: f
+  - italian: "l'esportazione"
+    translation:
+      en: "export"
+      ko: "수출"
+    gender: f
+  - italian: "la dogana"
+    translation:
+      en: "customs"
+      ko: "세관"
+    gender: f
+  - italian: "il dazio"
+    translation:
+      en: "tariff / duty"
+      ko: "관세"
+    gender: m
+  - italian: "la globalizzazione"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: f
+  - italian: "il libero scambio"
+    translation:
+      en: "free trade"
+      ko: "자유 무역"
+    gender: m
+  - italian: "il protezionismo"
+    translation:
+      en: "protectionism"
+      ko: "보호주의"
+    gender: m
+  - italian: "il consumatore"
+    translation:
+      en: "consumer"
+      ko: "소비자"
+    gender: m
+  - italian: "il fornitore"
+    translation:
+      en: "supplier"
+      ko: "공급자"
+    gender: m
+  - italian: "il prezzo"
+    translation:
+      en: "price"
+      ko: "가격"
+    gender: m
+- id: business_and_enterprise
+  label:
+    en: "Business and Enterprise"
+    ko: "사업 및 기업"
+  type: vocabulary
+  words:
+  - italian: "l'impresa"
+    translation:
+      en: "enterprise / company"
+      ko: "기업"
+    gender: f
+  - italian: "l'azienda"
+    translation:
+      en: "company / firm"
+      ko: "회사"
+    gender: f
+  - italian: "la società"
+    translation:
+      en: "corporation / company"
+      ko: "법인 / 회사"
+    gender: f
+  - italian: "la startup"
+    translation:
+      en: "startup"
+      ko: "스타트업"
+    gender: f
+  - italian: "la ditta"
+    translation:
+      en: "firm / business"
+      ko: "상점 / 사업체"
+    gender: f
+  - italian: "la sede"
+    translation:
+      en: "headquarters"
+      ko: "본사"
+    gender: f
+  - italian: "la filiale"
+    translation:
+      en: "branch (office)"
+      ko: "지사"
+    gender: f
+  - italian: "l'imprenditore"
+    translation:
+      en: "entrepreneur (m)"
+      ko: "기업가 (남)"
+    gender: m
+  - italian: "l'imprenditrice"
+    translation:
+      en: "entrepreneur (f)"
+      ko: "기업가 (여)"
+    gender: f
+  - italian: "il socio"
+    translation:
+      en: "partner / shareholder"
+      ko: "동업자 / 주주"
+    gender: m
+  - italian: "il dipendente"
+    translation:
+      en: "employee"
+      ko: "직원"
+    gender: m
+  - italian: "il datore di lavoro"
+    translation:
+      en: "employer"
+      ko: "고용주"
+    gender: m
+  - italian: "la partita IVA"
+    translation:
+      en: "VAT number / freelancer status"
+      ko: "부가세 번호 / 프리랜서 등록"
+    gender: f
+    notes:
+      en: "Essential for self-employed workers in Italy"
+      ko: "이탈리아 자영업자에게 필수"
+- id: finance_and_taxation
+  label:
+    en: "Finance and Taxation"
+    ko: "금융 및 세금"
+  type: vocabulary
+  words:
+  - italian: "il fatturato"
+    translation:
+      en: "revenue / turnover"
+      ko: "매출"
+    gender: m
+  - italian: "il bilancio"
+    translation:
+      en: "balance sheet / budget"
+      ko: "대차대조표 / 예산"
+    gender: m
+  - italian: "il profitto"
+    translation:
+      en: "profit"
+      ko: "이익"
+    gender: m
+  - italian: "la perdita"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: f
+  - italian: "il capitale"
+    translation:
+      en: "capital"
+      ko: "자본"
+    gender: m
+  - italian: "l'investimento"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: m
+  - italian: "il rendimento"
+    translation:
+      en: "return / yield"
+      ko: "수익률"
+    gender: m
+  - italian: "il costo"
+    translation:
+      en: "cost"
+      ko: "비용"
+    gender: m
+  - italian: "il ricavo"
+    translation:
+      en: "income / revenue"
+      ko: "수익"
+    gender: m
+  - italian: "la tassa"
+    translation:
+      en: "tax"
+      ko: "세금"
+    gender: f
+  - italian: "l'imposta"
+    translation:
+      en: "tax (formal)"
+      ko: "세금 (공식)"
+    gender: f
+  - italian: "l'IVA"
+    translation:
+      en: "VAT (Value Added Tax)"
+      ko: "부가가치세"
+    gender: f
+    notes:
+      en: "Imposta sul Valore Aggiunto"
+      ko: "Imposta sul Valore Aggiunto의 약자"
+  - italian: "l'IRPEF"
+    translation:
+      en: "personal income tax"
+      ko: "개인 소득세"
+    gender: f
+    notes:
+      en: "Imposta sul Reddito delle Persone Fisiche"
+      ko: "이탈리아 개인 소득세"
+  - italian: "la fattura"
+    translation:
+      en: "invoice"
+      ko: "송장"
+    gender: f
+  - italian: "lo scontrino"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: m
+  - italian: "il mutuo"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: m
+  - italian: "il prestito"
+    translation:
+      en: "loan"
+      ko: "대출"
+    gender: m
+- id: stock_market
+  label:
+    en: "Stock Market and Investment"
+    ko: "주식 시장 및 투자"
+  type: vocabulary
+  words:
+  - italian: "la borsa"
+    translation:
+      en: "stock exchange"
+      ko: "증권 거래소"
+    gender: f
+    notes:
+      en: "Borsa Italiana: Italian stock exchange in Milan"
+      ko: "Borsa Italiana: 밀라노의 이탈리아 증권거래소"
+  - italian: "l'azione"
+    translation:
+      en: "stock / share"
+      ko: "주식"
+    gender: f
+  - italian: "l'obbligazione"
+    translation:
+      en: "bond"
+      ko: "채권"
+    gender: f
+  - italian: "il dividendo"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: m
+  - italian: "il titolo"
+    translation:
+      en: "security / stock"
+      ko: "증권"
+    gender: m
+  - italian: "l'indice"
+    translation:
+      en: "index"
+      ko: "지수"
+    gender: m
+  - italian: "il rialzo"
+    translation:
+      en: "rise / bull"
+      ko: "상승"
+    gender: m
+  - italian: "il ribasso"
+    translation:
+      en: "fall / bear"
+      ko: "하락"
+    gender: m
+  - italian: "la quotazione"
+    translation:
+      en: "listing / quotation"
+      ko: "상장 / 시세"
+    gender: f
+  - italian: "il portafoglio"
+    translation:
+      en: "portfolio"
+      ko: "포트폴리오"
+    gender: m
+- id: economic_actions
+  label:
+    en: "Economic Actions"
+    ko: "경제 활동"
+  type: vocabulary
+  words:
+  - italian: "investire"
+    translation:
+      en: "to invest"
+      ko: "투자하다"
+  - italian: "risparmiare"
+    translation:
+      en: "to save"
+      ko: "저축하다"
+  - italian: "guadagnare"
+    translation:
+      en: "to earn / to gain"
+      ko: "벌다"
+  - italian: "perdere"
+    translation:
+      en: "to lose"
+      ko: "잃다"
+  - italian: "produrre"
+    translation:
+      en: "to produce"
+      ko: "생산하다"
+  - italian: "esportare"
+    translation:
+      en: "to export"
+      ko: "수출하다"
+  - italian: "importare"
+    translation:
+      en: "to import"
+      ko: "수입하다"
+  - italian: "finanziare"
+    translation:
+      en: "to finance"
+      ko: "자금을 조달하다"
+  - italian: "fatturare"
+    translation:
+      en: "to invoice / to bill"
+      ko: "청구서를 발행하다"
+  - italian: "tassare"
+    translation:
+      en: "to tax"
+      ko: "과세하다"
+  - italian: "privatizzare"
+    translation:
+      en: "to privatize"
+      ko: "민영화하다"
+  - italian: "nazionalizzare"
+    translation:
+      en: "to nationalize"
+      ko: "국유화하다"
+  - italian: "ammortizzare"
+    translation:
+      en: "to amortize / to depreciate"
+      ko: "상각하다"
+  - italian: "svalutare"
+    translation:
+      en: "to devalue"
+      ko: "평가절하하다"
+  - italian: "rivalutare"
+    translation:
+      en: "to revalue"
+      ko: "재평가하다"
+  - italian: "speculare"
+    translation:
+      en: "to speculate"
+      ko: "투기하다"
+  - italian: "quotare"
+    translation:
+      en: "to quote / to list"
+      ko: "시세를 매기다"
+- id: banking_and_currency
+  label:
+    en: "Banking and Currency"
+    ko: "은행 및 통화"
+  type: vocabulary
+  words:
+  - italian: "la banca"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: f
+  - italian: "il conto corrente"
+    translation:
+      en: "current account"
+      ko: "당좌 예금"
+    gender: m
+  - italian: "il conto di risparmio"
+    translation:
+      en: "savings account"
+      ko: "저축 예금"
+    gender: m
+  - italian: "il tasso di cambio"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+  - italian: "l'euro"
+    translation:
+      en: "euro"
+      ko: "유로"
+    gender: m
+  - italian: "la valuta"
+    translation:
+      en: "currency"
+      ko: "통화"
+    gender: f
+  - italian: "il credito"
+    translation:
+      en: "credit"
+      ko: "신용"
+    gender: m
+  - italian: "il debito"
+    translation:
+      en: "debt"
+      ko: "부채"
+    gender: m
+  - italian: "il bonifico"
+    translation:
+      en: "bank transfer"
+      ko: "계좌 이체"
+    gender: m
+  - italian: "l'assegno"
+    translation:
+      en: "check / cheque"
+      ko: "수표"
+    gender: m
+  - italian: "la carta di credito"
+    translation:
+      en: "credit card"
+      ko: "신용카드"
+    gender: f
+  - italian: "il bancomat"
+    translation:
+      en: "ATM / debit card"
+      ko: "ATM / 직불카드"
+    gender: m
+  - italian: "lo sportello"
+    translation:
+      en: "bank counter"
+      ko: "은행 창구"
+    gender: m
+  - italian: "la rata"
+    translation:
+      en: "installment"
+      ko: "할부금"
+    gender: f
+  - italian: "il finanziamento"
+    translation:
+      en: "financing"
+      ko: "융자"
+    gender: m
+  - italian: "la garanzia bancaria"
+    translation:
+      en: "bank guarantee"
+      ko: "은행 보증"
+    gender: f
+  - italian: "il fallimento"
+    translation:
+      en: "bankruptcy"
+      ko: "파산"
+    gender: m
+  - italian: "l'insolvenza"
+    translation:
+      en: "insolvency"
+      ko: "지급 불능"
+    gender: f
+  - italian: "la liquidazione"
+    translation:
+      en: "liquidation"
+      ko: "청산"
+    gender: f
+- id: workplace
+  label:
+    en: "Workplace and Employment"
+    ko: "직장 및 고용"
+  type: vocabulary
+  words:
+  - italian: "il contratto di lavoro"
+    translation:
+      en: "employment contract"
+      ko: "고용 계약"
+    gender: m
+  - italian: "il contratto a tempo indeterminato"
+    translation:
+      en: "permanent contract"
+      ko: "무기한 계약"
+    gender: m
+  - italian: "il contratto a tempo determinato"
+    translation:
+      en: "fixed-term contract"
+      ko: "기간제 계약"
+    gender: m
+  - italian: "il tirocinio"
+    translation:
+      en: "internship"
+      ko: "인턴십"
+    gender: m
+  - italian: "lo stage"
+    translation:
+      en: "traineeship"
+      ko: "실습"
+    gender: m
+  - italian: "il colloquio di lavoro"
+    translation:
+      en: "job interview"
+      ko: "면접"
+    gender: m
+  - italian: "il curriculum vitae"
+    translation:
+      en: "CV / resume"
+      ko: "이력서"
+    gender: m
+  - italian: "lo stipendio"
+    translation:
+      en: "salary"
+      ko: "급여"
+    gender: m
+  - italian: "la retribuzione"
+    translation:
+      en: "remuneration"
+      ko: "보수"
+    gender: f
+  - italian: "la busta paga"
+    translation:
+      en: "pay slip"
+      ko: "급여 명세서"
+    gender: f
+  - italian: "il licenziamento"
+    translation:
+      en: "dismissal / layoff"
+      ko: "해고"
+    gender: m
+  - italian: "le ferie"
+    translation:
+      en: "vacation / holidays"
+      ko: "휴가"
+    gender: f
+  - italian: "la pensione"
+    translation:
+      en: "pension"
+      ko: "연금"
+    gender: f
+  - italian: "il contributo previdenziale"
+    translation:
+      en: "social security contribution"
+      ko: "사회보험 기여금"
+    gender: m
+  - italian: "il TFR"
+    translation:
+      en: "severance pay"
+      ko: "퇴직금"
+    gender: m
+    notes:
+      en: "Trattamento di Fine Rapporto"
+      ko: "고용관계 종료 수당"
+  - italian: "la cassa integrazione"
+    translation:
+      en: "wage guarantee fund"
+      ko: "임금 보전 기금"
+    gender: f
+    notes:
+      en: "Italian social safety net for workers"
+      ko: "근로자를 위한 이탈리아 사회 안전망"
+  - italian: "assumere"
+    translation:
+      en: "to hire"
+      ko: "고용하다"
+  - italian: "licenziare"
+    translation:
+      en: "to dismiss / to lay off"
+      ko: "해고하다"
+  - italian: "dimettersi"
+    translation:
+      en: "to resign"
+      ko: "사직하다"
+  - italian: "promuovere"
+    translation:
+      en: "to promote"
+      ko: "승진시키다"
+  - italian: "il sindacato"
+    translation:
+      en: "trade union"
+      ko: "노동조합"
+    gender: m
+  - italian: "la disoccupazione"
+    translation:
+      en: "unemployment"
+      ko: "실업"
+    gender: f
+  - italian: "il lavoro nero"
+    translation:
+      en: "undeclared work / black market labor"
+      ko: "불법 노동"
+    gender: m
+    notes:
+      en: "Underground economy employment"
+      ko: "지하 경제 고용"
+  - italian: "la concorrenza sleale"
+    translation:
+      en: "unfair competition"
+      ko: "불공정 경쟁"
+    gender: f
+  - italian: "il made in Italy"
+    translation:
+      en: "Made in Italy"
+      ko: "메이드 인 이탈리"
+    gender: m
+    notes:
+      en: "Brand symbol of Italian quality"
+      ko: "이탈리아 품질의 브랜드 상징"
+  - italian: "la PMI"
+    translation:
+      en: "SME (small and medium enterprise)"
+      ko: "중소기업"
+    gender: f
+    notes:
+      en: "Piccola e Media Impresa — backbone of Italian economy"
+      ko: "이탈리아 경제의 근간"
+  - italian: "l'artigianato"
+    translation:
+      en: "craftsmanship / artisan industry"
+      ko: "수공업"
+    gender: m
+  - italian: "il distretto industriale"
+    translation:
+      en: "industrial district"
+      ko: "산업 지구"
+    gender: m
+  - italian: "la filiera"
+    translation:
+      en: "supply chain / production chain"
+      ko: "생산 체인"
+    gender: f
+  - italian: "il marchio"
+    translation:
+      en: "trademark / brand"
+      ko: "상표"
+    gender: m
+  - italian: "il brevetto"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: m
+  - italian: "la certificazione"
+    translation:
+      en: "certification"
+      ko: "인증"
+    gender: f
+  - italian: "l'appalto"
+    translation:
+      en: "contract / tender"
+      ko: "입찰 / 계약"
+    gender: m
+  - italian: "la gara d'appalto"
+    translation:
+      en: "tender / bidding"
+      ko: "입찰"
+    gender: f
+  - italian: "il subappalto"
+    translation:
+      en: "subcontract"
+      ko: "하도급"
+    gender: m
+  - italian: "la fusione aziendale"
+    translation:
+      en: "corporate merger"
+      ko: "기업 합병"
+    gender: f
+  - italian: "la ristrutturazione aziendale"
+    translation:
+      en: "corporate restructuring"
+      ko: "기업 구조조정"
+    gender: f
+  - italian: "il piano di rilancio"
+    translation:
+      en: "recovery plan"
+      ko: "회생 계획"
+    gender: m
+  - italian: "il concordato preventivo"
+    translation:
+      en: "composition with creditors"
+      ko: "채권자와의 화해"
+    gender: m
+    notes:
+      en: "Italian insolvency procedure"
+      ko: "이탈리아 도산 절차"
+  - italian: "l'economia sommersa"
+    translation:
+      en: "underground economy"
+      ko: "지하 경제"
+    gender: f
+  - italian: "la speculazione"
+    translation:
+      en: "speculation"
+      ko: "투기"
+    gender: f
