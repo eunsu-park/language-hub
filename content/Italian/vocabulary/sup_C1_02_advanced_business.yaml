@@ -1,0 +1,809 @@
+lesson: "sup_C1_Advanced_Business"
+lesson_number: 502
+cefr: C1
+type: supplementary
+topic: "Advanced Business"
+categories:
+- id: corporate_strategy
+  label:
+    en: "Corporate Strategy"
+    ko: "기업 전략"
+  type: vocabulary
+  words:
+  - italian: "la strategia aziendale"
+    translation:
+      en: "corporate strategy"
+      ko: "기업 전략"
+    gender: f
+  - italian: "il piano industriale"
+    translation:
+      en: "industrial plan / business plan"
+      ko: "산업 계획"
+    gender: m
+  - italian: "il piano strategico"
+    translation:
+      en: "strategic plan"
+      ko: "전략 계획"
+    gender: m
+  - italian: "il vantaggio competitivo"
+    translation:
+      en: "competitive advantage"
+      ko: "경쟁 우위"
+    gender: m
+  - italian: "la quota di mercato"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: f
+  - italian: "il posizionamento"
+    translation:
+      en: "positioning"
+      ko: "포지셔닝"
+    gender: m
+  - italian: "la diversificazione"
+    translation:
+      en: "diversification"
+      ko: "다각화"
+    gender: f
+  - italian: "l'espansione"
+    translation:
+      en: "expansion"
+      ko: "확장"
+    gender: f
+  - italian: "la ristrutturazione"
+    translation:
+      en: "restructuring"
+      ko: "구조조정"
+    gender: f
+  - italian: "l'esternalizzazione"
+    translation:
+      en: "outsourcing"
+      ko: "외주"
+    gender: f
+  - italian: "l'analisi SWOT"
+    translation:
+      en: "SWOT analysis"
+      ko: "SWOT 분석"
+    gender: f
+  - italian: "il benchmark"
+    translation:
+      en: "benchmark"
+      ko: "벤치마크"
+    gender: m
+  - italian: "la mission aziendale"
+    translation:
+      en: "corporate mission"
+      ko: "기업 미션"
+    gender: f
+  - italian: "la vision"
+    translation:
+      en: "vision"
+      ko: "비전"
+    gender: f
+- id: mergers_and_acquisitions
+  label:
+    en: "Mergers and Acquisitions"
+    ko: "인수합병"
+  type: vocabulary
+  words:
+  - italian: "la fusione"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: f
+  - italian: "l'acquisizione"
+    translation:
+      en: "acquisition"
+      ko: "인수"
+    gender: f
+  - italian: "la fusione e acquisizione"
+    translation:
+      en: "merger and acquisition (M&A)"
+      ko: "인수합병 (M&A)"
+    gender: f
+  - italian: "l'offerta pubblica di acquisto"
+    translation:
+      en: "takeover bid (OPA)"
+      ko: "공개매수"
+    gender: f
+    notes:
+      en: "Abbreviation: OPA"
+      ko: "약자: OPA"
+  - italian: "la scissione"
+    translation:
+      en: "demerger / spin-off"
+      ko: "분할"
+    gender: f
+  - italian: "la joint venture"
+    translation:
+      en: "joint venture"
+      ko: "합작 투자"
+    gender: f
+  - italian: "la sinergia"
+    translation:
+      en: "synergy"
+      ko: "시너지"
+    gender: f
+  - italian: "la due diligence"
+    translation:
+      en: "due diligence"
+      ko: "실사"
+    gender: f
+  - italian: "la valutazione aziendale"
+    translation:
+      en: "business valuation"
+      ko: "기업 가치 평가"
+    gender: f
+  - italian: "l'integrazione"
+    translation:
+      en: "integration"
+      ko: "통합"
+    gender: f
+- id: corporate_finance
+  label:
+    en: "Corporate Finance"
+    ko: "기업 금융"
+  type: vocabulary
+  words:
+  - italian: "la quotazione in borsa"
+    translation:
+      en: "stock market listing / IPO"
+      ko: "증권 거래소 상장"
+    gender: f
+  - italian: "il capitale sociale"
+    translation:
+      en: "share capital"
+      ko: "자본금"
+    gender: m
+  - italian: "il consiglio di amministrazione"
+    translation:
+      en: "board of directors"
+      ko: "이사회"
+    gender: m
+    notes:
+      en: "Abbreviation: CdA"
+      ko: "약자: CdA"
+  - italian: "l'amministratore delegato"
+    translation:
+      en: "CEO (Chief Executive Officer)"
+      ko: "최고경영자"
+    gender: m
+    notes:
+      en: "Abbreviation: AD"
+      ko: "약자: AD"
+  - italian: "l'azionista"
+    translation:
+      en: "shareholder"
+      ko: "주주"
+    gender: m
+  - italian: "l'azionista di maggioranza"
+    translation:
+      en: "majority shareholder"
+      ko: "대주주"
+    gender: m
+  - italian: "l'azionista di minoranza"
+    translation:
+      en: "minority shareholder"
+      ko: "소액주주"
+    gender: m
+  - italian: "il dividendo"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: m
+  - italian: "il venture capital"
+    translation:
+      en: "venture capital"
+      ko: "벤처 캐피탈"
+    gender: m
+  - italian: "il private equity"
+    translation:
+      en: "private equity"
+      ko: "사모펀드"
+    gender: m
+  - italian: "il cash flow"
+    translation:
+      en: "cash flow"
+      ko: "현금흐름"
+    gender: m
+  - italian: "il flusso di cassa"
+    translation:
+      en: "cash flow (Italian term)"
+      ko: "현금흐름 (이탈리아어)"
+    gender: m
+  - italian: "il break-even"
+    translation:
+      en: "break-even point"
+      ko: "손익분기점"
+    gender: m
+  - italian: "il punto di pareggio"
+    translation:
+      en: "break-even point (Italian term)"
+      ko: "손익분기점 (이탈리아어)"
+    gender: m
+  - italian: "l'utile netto"
+    translation:
+      en: "net profit"
+      ko: "순이익"
+    gender: m
+  - italian: "il margine operativo"
+    translation:
+      en: "operating margin"
+      ko: "영업 마진"
+    gender: m
+  - italian: "l'indebitamento"
+    translation:
+      en: "indebtedness / leverage"
+      ko: "부채"
+    gender: m
+  - italian: "la liquidità"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: f
+- id: corporate_governance
+  label:
+    en: "Corporate Governance"
+    ko: "기업 지배구조"
+  type: vocabulary
+  words:
+  - italian: "la compliance"
+    translation:
+      en: "compliance"
+      ko: "컴플라이언스"
+    gender: f
+  - italian: "la governance"
+    translation:
+      en: "governance"
+      ko: "거버넌스"
+    gender: f
+  - italian: "la trasparenza"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f
+  - italian: "la responsabilità sociale d'impresa"
+    translation:
+      en: "corporate social responsibility (CSR)"
+      ko: "기업의 사회적 책임"
+    gender: f
+  - italian: "la sostenibilità aziendale"
+    translation:
+      en: "corporate sustainability"
+      ko: "기업 지속 가능성"
+    gender: f
+  - italian: "il codice etico"
+    translation:
+      en: "code of ethics"
+      ko: "윤리 강령"
+    gender: m
+  - italian: "il conflitto di interessi"
+    translation:
+      en: "conflict of interest"
+      ko: "이해 충돌"
+    gender: m
+  - italian: "la revisione dei conti"
+    translation:
+      en: "audit"
+      ko: "회계 감사"
+    gender: f
+  - italian: "il collegio sindacale"
+    translation:
+      en: "board of auditors"
+      ko: "감사위원회"
+    gender: m
+  - italian: "l'assemblea degli azionisti"
+    translation:
+      en: "shareholders' meeting"
+      ko: "주주 총회"
+    gender: f
+- id: kpis_and_metrics
+  label:
+    en: "KPIs and Business Metrics"
+    ko: "핵심 성과 지표"
+  type: vocabulary
+  words:
+  - italian: "il KPI"
+    translation:
+      en: "KPI (Key Performance Indicator)"
+      ko: "핵심 성과 지표"
+    gender: m
+  - italian: "il ROI"
+    translation:
+      en: "ROI (Return on Investment)"
+      ko: "투자 수익률"
+    gender: m
+  - italian: "il ROE"
+    translation:
+      en: "ROE (Return on Equity)"
+      ko: "자기자본이익률"
+    gender: m
+  - italian: "il fatturato annuo"
+    translation:
+      en: "annual revenue"
+      ko: "연간 매출"
+    gender: m
+  - italian: "la produttività"
+    translation:
+      en: "productivity"
+      ko: "생산성"
+    gender: f
+  - italian: "la redditività"
+    translation:
+      en: "profitability"
+      ko: "수익성"
+    gender: f
+  - italian: "il tasso di crescita"
+    translation:
+      en: "growth rate"
+      ko: "성장률"
+    gender: m
+  - italian: "il costo del personale"
+    translation:
+      en: "personnel cost"
+      ko: "인건비"
+    gender: m
+  - italian: "la catena del valore"
+    translation:
+      en: "value chain"
+      ko: "가치 사슬"
+    gender: f
+  - italian: "acquisire"
+    translation:
+      en: "to acquire"
+      ko: "인수하다"
+  - italian: "fondersi"
+    translation:
+      en: "to merge"
+      ko: "합병하다"
+  - italian: "quotarsi in borsa"
+    translation:
+      en: "to go public / to list"
+      ko: "상장하다"
+  - italian: "ristrutturare"
+    translation:
+      en: "to restructure"
+      ko: "구조조정하다"
+  - italian: "diversificare"
+    translation:
+      en: "to diversify"
+      ko: "다각화하다"
+  - italian: "ottimizzare"
+    translation:
+      en: "to optimize"
+      ko: "최적화하다"
+  - italian: "esternalizzare"
+    translation:
+      en: "to outsource"
+      ko: "외주하다"
+  - italian: "monetizzare"
+    translation:
+      en: "to monetize"
+      ko: "수익화하다"
+  - italian: "delocalizzare"
+    translation:
+      en: "to relocate (production)"
+      ko: "생산을 이전하다"
+  - italian: "consolidare"
+    translation:
+      en: "to consolidate"
+      ko: "통합하다"
+  - italian: "capitalizzare"
+    translation:
+      en: "to capitalize"
+      ko: "자본화하다"
+  - italian: "ammortizzare"
+    translation:
+      en: "to amortize"
+      ko: "상각하다"
+  - italian: "dismettere"
+    translation:
+      en: "to dispose of / to divest"
+      ko: "처분하다"
+- id: marketing_and_sales
+  label:
+    en: "Marketing and Sales"
+    ko: "마케팅 및 영업"
+  type: vocabulary
+  words:
+  - italian: "il marketing"
+    translation:
+      en: "marketing"
+      ko: "마케팅"
+    gender: m
+  - italian: "il brand"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: m
+  - italian: "il marchio"
+    translation:
+      en: "trademark / brand"
+      ko: "상표"
+    gender: m
+  - italian: "la pubblicità"
+    translation:
+      en: "advertising"
+      ko: "광고"
+    gender: f
+  - italian: "la campagna pubblicitaria"
+    translation:
+      en: "advertising campaign"
+      ko: "광고 캠페인"
+    gender: f
+  - italian: "il target"
+    translation:
+      en: "target audience"
+      ko: "타겟"
+    gender: m
+  - italian: "il segmento di mercato"
+    translation:
+      en: "market segment"
+      ko: "시장 세그먼트"
+    gender: m
+  - italian: "la fidelizzazione"
+    translation:
+      en: "customer loyalty / retention"
+      ko: "고객 충성도"
+    gender: f
+  - italian: "il lancio"
+    translation:
+      en: "launch"
+      ko: "출시"
+    gender: m
+  - italian: "la distribuzione"
+    translation:
+      en: "distribution"
+      ko: "유통"
+    gender: f
+  - italian: "il canale di vendita"
+    translation:
+      en: "sales channel"
+      ko: "판매 채널"
+    gender: m
+  - italian: "il margine di profitto"
+    translation:
+      en: "profit margin"
+      ko: "이윤"
+    gender: m
+  - italian: "il prezzo al dettaglio"
+    translation:
+      en: "retail price"
+      ko: "소매 가격"
+    gender: m
+  - italian: "il prezzo all'ingrosso"
+    translation:
+      en: "wholesale price"
+      ko: "도매 가격"
+    gender: m
+  - italian: "il commercio elettronico"
+    translation:
+      en: "e-commerce"
+      ko: "전자 상거래"
+    gender: m
+  - italian: "la supply chain"
+    translation:
+      en: "supply chain"
+      ko: "공급망"
+    gender: f
+  - italian: "la logistica"
+    translation:
+      en: "logistics"
+      ko: "물류"
+    gender: f
+- id: innovation_and_digital
+  label:
+    en: "Innovation and Digital Economy"
+    ko: "혁신 및 디지털 경제"
+  type: vocabulary
+  words:
+  - italian: "la trasformazione digitale"
+    translation:
+      en: "digital transformation"
+      ko: "디지털 전환"
+    gender: f
+  - italian: "l'intelligenza artificiale"
+    translation:
+      en: "artificial intelligence"
+      ko: "인공지능"
+    gender: f
+  - italian: "il big data"
+    translation:
+      en: "big data"
+      ko: "빅데이터"
+    gender: m
+  - italian: "la blockchain"
+    translation:
+      en: "blockchain"
+      ko: "블록체인"
+    gender: f
+  - italian: "il fintech"
+    translation:
+      en: "fintech"
+      ko: "핀테크"
+    gender: m
+  - italian: "l'economia circolare"
+    translation:
+      en: "circular economy"
+      ko: "순환 경제"
+    gender: f
+  - italian: "l'economia verde"
+    translation:
+      en: "green economy"
+      ko: "녹색 경제"
+    gender: f
+  - italian: "l'economia della conoscenza"
+    translation:
+      en: "knowledge economy"
+      ko: "지식 경제"
+    gender: f
+  - italian: "la sharing economy"
+    translation:
+      en: "sharing economy"
+      ko: "공유 경제"
+    gender: f
+  - italian: "la disruption"
+    translation:
+      en: "disruption"
+      ko: "파괴적 혁신"
+    gender: f
+  - italian: "la scalabilità"
+    translation:
+      en: "scalability"
+      ko: "확장성"
+    gender: f
+  - italian: "il pitch"
+    translation:
+      en: "pitch (business presentation)"
+      ko: "피치 (사업 발표)"
+    gender: m
+  - italian: "l'incubatore"
+    translation:
+      en: "incubator (business)"
+      ko: "인큐베이터"
+    gender: m
+  - italian: "l'acceleratore"
+    translation:
+      en: "accelerator (business)"
+      ko: "액셀러레이터"
+    gender: m
+  - italian: "il business angel"
+    translation:
+      en: "angel investor"
+      ko: "엔젤 투자자"
+    gender: m
+  - italian: "la proprietà intellettuale"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산"
+    gender: f
+  - italian: "il brevetto"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: m
+- id: human_resources
+  label:
+    en: "Human Resources and Management"
+    ko: "인사 및 경영"
+  type: vocabulary
+  words:
+  - italian: "le risorse umane"
+    translation:
+      en: "human resources"
+      ko: "인적 자원"
+    gender: f
+  - italian: "la selezione del personale"
+    translation:
+      en: "recruitment"
+      ko: "인재 채용"
+    gender: f
+  - italian: "la formazione aziendale"
+    translation:
+      en: "corporate training"
+      ko: "기업 교육"
+    gender: f
+  - italian: "il team building"
+    translation:
+      en: "team building"
+      ko: "팀 빌딩"
+    gender: m
+  - italian: "la valutazione delle prestazioni"
+    translation:
+      en: "performance evaluation"
+      ko: "성과 평가"
+    gender: f
+  - italian: "il welfare aziendale"
+    translation:
+      en: "corporate welfare"
+      ko: "기업 복지"
+    gender: m
+  - italian: "lo smart working"
+    translation:
+      en: "remote work / smart working"
+      ko: "원격 근무"
+    gender: m
+    notes:
+      en: "Italian term for remote/flexible work"
+      ko: "이탈리아에서 원격/유연 근무를 지칭하는 용어"
+  - italian: "il lavoro agile"
+    translation:
+      en: "agile work"
+      ko: "유연 근무"
+    gender: m
+  - italian: "il turnover"
+    translation:
+      en: "turnover (staff)"
+      ko: "이직률"
+    gender: m
+  - italian: "la leadership"
+    translation:
+      en: "leadership"
+      ko: "리더십"
+    gender: f
+  - italian: "il coaching"
+    translation:
+      en: "coaching"
+      ko: "코칭"
+    gender: m
+  - italian: "il mentoring"
+    translation:
+      en: "mentoring"
+      ko: "멘토링"
+    gender: m
+  - italian: "l'organigramma"
+    translation:
+      en: "organizational chart"
+      ko: "조직도"
+    gender: m
+  - italian: "la delega"
+    translation:
+      en: "delegation"
+      ko: "위임"
+    gender: f
+  - italian: "la motivazione"
+    translation:
+      en: "motivation"
+      ko: "동기부여"
+    gender: f
+  - italian: "il burnout"
+    translation:
+      en: "burnout"
+      ko: "번아웃"
+    gender: m
+  - italian: "il clima aziendale"
+    translation:
+      en: "corporate culture / climate"
+      ko: "기업 문화"
+    gender: m
+- id: project_management
+  label:
+    en: "Project Management"
+    ko: "프로젝트 관리"
+  type: vocabulary
+  words:
+  - italian: "il progetto"
+    translation:
+      en: "project"
+      ko: "프로젝트"
+    gender: m
+  - italian: "il project manager"
+    translation:
+      en: "project manager"
+      ko: "프로젝트 매니저"
+    gender: m
+  - italian: "la milestone"
+    translation:
+      en: "milestone"
+      ko: "이정표"
+    gender: f
+  - italian: "la scadenza"
+    translation:
+      en: "deadline"
+      ko: "마감일"
+    gender: f
+  - italian: "il budget"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: m
+  - italian: "il cronoprogramma"
+    translation:
+      en: "timeline / schedule"
+      ko: "일정표"
+    gender: m
+  - italian: "la pianificazione"
+    translation:
+      en: "planning"
+      ko: "기획"
+    gender: f
+  - italian: "il deliverable"
+    translation:
+      en: "deliverable"
+      ko: "산출물"
+    gender: m
+  - italian: "lo stakeholder"
+    translation:
+      en: "stakeholder"
+      ko: "이해관계자"
+    gender: m
+  - italian: "l'obiettivo"
+    translation:
+      en: "objective / goal"
+      ko: "목표"
+    gender: m
+  - italian: "la reportistica"
+    translation:
+      en: "reporting"
+      ko: "보고"
+    gender: f
+  - italian: "il risk management"
+    translation:
+      en: "risk management"
+      ko: "위험 관리"
+    gender: m
+  - italian: "il feedback"
+    translation:
+      en: "feedback"
+      ko: "피드백"
+    gender: m
+  - italian: "la riunione"
+    translation:
+      en: "meeting"
+      ko: "회의"
+    gender: f
+  - italian: "il brainstorming"
+    translation:
+      en: "brainstorming"
+      ko: "브레인스토밍"
+    gender: m
+  - italian: "l'efficienza"
+    translation:
+      en: "efficiency"
+      ko: "효율성"
+    gender: f
+  - italian: "l'efficacia"
+    translation:
+      en: "effectiveness"
+      ko: "효과성"
+    gender: f
+  - italian: "la performance"
+    translation:
+      en: "performance"
+      ko: "성과"
+    gender: f
+  - italian: "la sinergia"
+    translation:
+      en: "synergy"
+      ko: "시너지"
+    gender: f
+  - italian: "il time management"
+    translation:
+      en: "time management"
+      ko: "시간 관리"
+    gender: m
+  - italian: "la negoziazione"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+  - italian: "il networking"
+    translation:
+      en: "networking"
+      ko: "네트워킹"
+    gender: m
+  - italian: "la competitività"
+    translation:
+      en: "competitiveness"
+      ko: "경쟁력"
+    gender: f
+  - italian: "l'innovazione"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: f
+  - italian: "la strategia di uscita"
+    translation:
+      en: "exit strategy"
+      ko: "출구 전략"
+    gender: f
