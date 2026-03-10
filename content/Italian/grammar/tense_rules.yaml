@@ -1,0 +1,765 @@
+# Italian Tense Formation Rules and Usage
+# Simple tenses + Compound tenses (with AVERE/ESSERE)
+
+tenses:
+  # ============================================================
+  # SIMPLE TENSES
+  # ============================================================
+  presente:
+    id: presente
+    label:
+      en: "Present Tense (Presente Indicativo)"
+      ko: "현재 시제 (현재 직설법)"
+    cefr: A1
+    formation:
+      en: "Remove infinitive ending (-are/-ere/-ire) and add present tense endings. Many -IRE verbs insert -isc- (capire type)."
+      ko: "부정사 어미(-are/-ere/-ire)를 제거하고 현재 시제 어미를 추가. 많은 -IRE 동사는 -isc-를 삽입 (capire 유형)."
+    endings:
+      "-ARE":
+        io: "-o"
+        tu: "-i"
+        lui: "-a"
+        noi: "-iamo"
+        voi: "-ate"
+        loro: "-ano"
+      "-ERE":
+        io: "-o"
+        tu: "-i"
+        lui: "-e"
+        noi: "-iamo"
+        voi: "-ete"
+        loro: "-ono"
+      "-IRE (standard)":
+        io: "-o"
+        tu: "-i"
+        lui: "-e"
+        noi: "-iamo"
+        voi: "-ite"
+        loro: "-ono"
+      "-IRE (-ISC- type)":
+        io: "-isco"
+        tu: "-isci"
+        lui: "-isce"
+        noi: "-iamo"
+        voi: "-ite"
+        loro: "-iscono"
+    uses:
+      - en: "Habitual actions"
+        ko: "습관적 행동"
+        example: "Studio italiano ogni giorno."
+      - en: "Current truths / states"
+        ko: "현재의 사실 / 상태"
+        example: "Vivo a Roma."
+      - en: "Actions happening now"
+        ko: "지금 일어나고 있는 행동"
+        example: "Che cosa fai?"
+      - en: "Near future (scheduled)"
+        ko: "가까운 미래 (예정된)"
+        example: "Domani parto alle otto."
+      - en: "Timeless facts"
+        ko: "불변의 사실"
+        example: "L'acqua bolle a cento gradi."
+    trigger_words: [sempre, ogni giorno, adesso, ora, di solito, spesso, normalmente, a volte, mai, ogni, oggi]
+
+  passato_remoto:
+    id: passato_remoto
+    label:
+      en: "Remote Past (Passato Remoto)"
+      ko: "원과거 (원격 과거)"
+    cefr: B1
+    formation:
+      en: "Remove infinitive ending and add passato remoto endings. Many -ERE verbs have irregular stems with alternating patterns (1st/3rd singular, 3rd plural irregular; 2nd singular, 1st/2nd plural regular)."
+      ko: "부정사 어미를 제거하고 원과거 어미를 추가. 많은 -ERE 동사는 교체 패턴의 불규칙 어간을 가짐 (1/3인칭 단수, 3인칭 복수 불규칙; 2인칭 단수, 1/2인칭 복수 규칙)."
+    endings:
+      "-ARE":
+        io: "-ai"
+        tu: "-asti"
+        lui: "-o (accent)"
+        noi: "-ammo"
+        voi: "-aste"
+        loro: "-arono"
+      "-ERE (regular)":
+        io: "-ei / -etti"
+        tu: "-esti"
+        lui: "-e / -ette (accent)"
+        noi: "-emmo"
+        voi: "-este"
+        loro: "-erono / -ettero"
+      "-IRE":
+        io: "-ii"
+        tu: "-isti"
+        lui: "-i (accent)"
+        noi: "-immo"
+        voi: "-iste"
+        loro: "-irono"
+    irregular_stems:
+      en: "Many -ERE verbs have irregular passato remoto with a 1-3-3 pattern (io, lui, loro are irregular; tu, noi, voi use the regular stem + regular endings)"
+      ko: "많은 -ERE 동사는 1-3-3 패턴의 불규칙 원과거를 가짐 (io, lui, loro가 불규칙; tu, noi, voi는 규칙 어간 + 규칙 어미 사용)"
+      examples:
+        essere: "fui, fosti, fu, fummo, foste, furono"
+        avere: "ebbi, avesti, ebbe, avemmo, aveste, ebbero"
+        fare: "feci, facesti, fece, facemmo, faceste, fecero"
+        dire: "dissi, dicesti, disse, dicemmo, diceste, dissero"
+        sapere: "seppi, sapesti, seppe, sapemmo, sapeste, seppero"
+        venire: "venni, venisti, venne, venimmo, veniste, vennero"
+        volere: "volli, volesti, volle, volemmo, voleste, vollero"
+        tenere: "tenni, tenesti, tenne, tenemmo, teneste, tennero"
+        piacere: "piacqui, piacesti, piacque, piacemmo, piaceste, piacquero"
+    uses:
+      - en: "Completed historical or literary events"
+        ko: "완료된 역사적 또는 문학적 사건"
+        example: "Dante scrisse la Divina Commedia."
+      - en: "Actions completed in the distant past"
+        ko: "먼 과거에 완료된 행동"
+        example: "Nel 1492 Colombo scopri l'America."
+      - en: "Narrative past in literature and formal writing"
+        ko: "문학과 격식체 글쓰기에서의 서사적 과거"
+        example: "Il principe vide la principessa e se ne innamoro."
+    trigger_words: [ieri, due giorni fa, l'anno scorso, nel 1492, un giorno, tempo fa, una volta, allora, in quel momento]
+    notes:
+      en: "In northern Italy, passato remoto is rarely used in speech (replaced by passato prossimo). In central/southern Italy and in literature, it remains common for completed past actions."
+      ko: "북부 이탈리아에서는 구어에서 원과거를 거의 사용하지 않음 (근과거로 대체). 중부/남부 이탈리아와 문학에서는 완료된 과거 행동에 여전히 흔히 사용."
+
+  imperfetto:
+    id: imperfetto
+    label:
+      en: "Imperfect (Past Habitual/Ongoing)"
+      ko: "불완료 과거 (과거 습관/진행)"
+    cefr: A2
+    formation:
+      en: "Remove infinitive ending and add imperfetto endings. One of the most regular tenses; only a few verbs are irregular."
+      ko: "부정사 어미를 제거하고 불완료 어미를 추가. 가장 규칙적인 시제 중 하나; 불규칙 동사가 소수."
+    endings:
+      "-ARE":
+        io: "-avo"
+        tu: "-avi"
+        lui: "-ava"
+        noi: "-avamo"
+        voi: "-avate"
+        loro: "-avano"
+      "-ERE":
+        io: "-evo"
+        tu: "-evi"
+        lui: "-eva"
+        noi: "-evamo"
+        voi: "-evate"
+        loro: "-evano"
+      "-IRE":
+        io: "-ivo"
+        tu: "-ivi"
+        lui: "-iva"
+        noi: "-ivamo"
+        voi: "-ivate"
+        loro: "-ivano"
+    irregular_verbs:
+      essere: {io: ero, tu: eri, lui: era, noi: eravamo, voi: eravate, loro: erano}
+      fare: {io: facevo, tu: facevi, lui: faceva, noi: facevamo, voi: facevate, loro: facevano}
+      dire: {io: dicevo, tu: dicevi, lui: diceva, noi: dicevamo, voi: dicevate, loro: dicevano}
+      bere: {io: bevevo, tu: bevevi, lui: beveva, noi: bevevamo, voi: bevevate, loro: bevevano}
+      tradurre: {io: traducevo, tu: traducevi, lui: traduceva, noi: traducevamo, voi: traducevate, loro: traducevano}
+      porre: {io: ponevo, tu: ponevi, lui: poneva, noi: ponevamo, voi: ponevate, loro: ponevano}
+      trarre: {io: traevo, tu: traevi, lui: traeva, noi: traevamo, voi: traevate, loro: traevano}
+    uses:
+      - en: "Habitual/repeated past actions"
+        ko: "습관적/반복적 과거 행동"
+        example: "Da bambino, giocavo nel parco."
+      - en: "Background descriptions / setting the scene"
+        ko: "배경 묘사 / 장면 설정"
+        example: "C'era il sole e gli uccelli cantavano."
+      - en: "Ongoing actions interrupted by another event"
+        ko: "다른 사건에 의해 중단된 진행 중인 행동"
+        example: "Leggevo quando e squillato il telefono."
+      - en: "Age, time, weather in the past"
+        ko: "과거의 나이, 시간, 날씨"
+        example: "Avevo dieci anni. Erano le tre."
+      - en: "Emotional/mental/physical states in the past"
+        ko: "과거의 감정/정신/신체 상태"
+        example: "Ero stanco e volevo dormire."
+      - en: "Polite requests (softened present)"
+        ko: "정중한 요청 (완곡한 현재)"
+        example: "Volevo un caffe, per favore."
+    trigger_words: [sempre, di solito, da bambino, ogni estate, mentre, quando, a quell'epoca, tutti i giorni, spesso, ogni volta che, una volta (habitual)]
+    notes:
+      en: "The irregular imperfetto verbs (fare, dire, bere, tradurre, porre, trarre) derive their stems from the original Latin infinitives (facere, dicere, bevere, traducere, ponere, trahere)."
+      ko: "불규칙 불완료 동사(fare, dire, bere, tradurre, porre, trarre)는 원래 라틴어 부정사(facere, dicere, bevere, traducere, ponere, trahere)에서 어간을 파생."
+
+  futuro_semplice:
+    id: futuro_semplice
+    label:
+      en: "Simple Future (Futuro Semplice)"
+      ko: "단순 미래 (단순 미래형)"
+    cefr: A2
+    formation:
+      en: "For -ARE verbs, change -are to -ere, then add future endings to the modified infinitive stem. For -ERE/-IRE, add endings directly to the infinitive stem. Some verbs have contracted stems."
+      ko: "-ARE 동사는 -are를 -ere로 바꾼 후 수정된 부정사 어간에 미래 어미를 추가. -ERE/-IRE는 부정사 어간에 직접 어미 추가. 일부 동사는 축약 어간을 가짐."
+    endings:
+      all_groups:
+        io: "-o (with accent)"
+        tu: "-ai"
+        lui: "-a (with accent)"
+        noi: "-emo"
+        voi: "-ete"
+        loro: "-anno"
+    irregular_stems:
+      en: "These verbs contract or modify their stem before adding future endings"
+      ko: "이 동사들은 미래 어미를 추가하기 전에 어간을 축약 또는 수정"
+      examples:
+        essere: sar-
+        avere: avr-
+        fare: far-
+        andare: andr-
+        vedere: vedr-
+        dovere: dovr-
+        potere: potr-
+        volere: vorr-
+        sapere: sapr-
+        venire: verr-
+        rimanere: rimarr-
+        tenere: terr-
+        bere: berr-
+        vivere: vivr-
+    uses:
+      - en: "Future actions or events"
+        ko: "미래의 행동이나 사건"
+        example: "Domani andro dal medico."
+      - en: "Predictions"
+        ko: "예측"
+        example: "Piovera questo pomeriggio."
+      - en: "Probability/conjecture about the present"
+        ko: "현재에 대한 추측"
+        example: "Dove sara Giovanni? (I wonder where Giovanni is)"
+      - en: "Promises and resolutions"
+        ko: "약속과 결심"
+        example: "Ti chiamero stasera."
+    trigger_words: [domani, la settimana prossima, l'anno prossimo, in futuro, un giorno, presto, fra poco, tra]
+    notes:
+      en: "The informal future using present tense is very common in spoken Italian: Domani vado al cinema (instead of andro). Verbs ending in -care/-gare add h before e: cercare->cerchero, pagare->paghero."
+      ko: "현재 시제를 사용한 비격식 미래가 구어 이탈리아어에서 매우 흔함: Domani vado al cinema (andro 대신). -care/-gare로 끝나는 동사는 e 앞에 h를 추가: cercare->cerchero, pagare->paghero."
+
+  condizionale_presente:
+    id: condizionale_presente
+    label:
+      en: "Present Conditional (Condizionale Presente)"
+      ko: "현재 조건법 (조건법 현재)"
+    cefr: B1
+    formation:
+      en: "Uses the same stems as futuro semplice (including irregular stems). Add conditional endings."
+      ko: "단순 미래와 같은 어간 사용 (불규칙 어간 포함). 조건법 어미를 추가."
+    endings:
+      all_groups:
+        io: "-ei"
+        tu: "-esti"
+        lui: "-ebbe"
+        noi: "-emmo"
+        voi: "-este"
+        loro: "-ebbero"
+    irregular_stems:
+      en: "Same irregular stems as futuro semplice"
+      ko: "단순 미래와 동일한 불규칙 어간"
+      examples:
+        essere: sar-
+        avere: avr-
+        fare: far-
+        andare: andr-
+        vedere: vedr-
+        dovere: dovr-
+        potere: potr-
+        volere: vorr-
+        sapere: sapr-
+        venire: verr-
+        rimanere: rimarr-
+        tenere: terr-
+        bere: berr-
+    uses:
+      - en: "Hypothetical situations"
+        ko: "가정적인 상황"
+        example: "Con piu tempo, viaggerei per il mondo."
+      - en: "Polite requests"
+        ko: "정중한 요청"
+        example: "Potresti aiutarmi?"
+      - en: "Desires and wishes"
+        ko: "욕구와 소망"
+        example: "Vorrei un caffe."
+      - en: "Future from a past perspective (reported speech)"
+        ko: "과거 관점에서의 미래 (간접화법)"
+        example: "Ha detto che verrebbe."
+      - en: "Advice (with dovere)"
+        ko: "조언 (dovere와 함께)"
+        example: "Dovresti studiare di piu."
+    trigger_words: [se (+ congiuntivo imperfetto), al posto tuo, con piu tempo, vorrei, potrei, dovrei]
+
+  congiuntivo_presente:
+    id: congiuntivo_presente
+    label:
+      en: "Present Subjunctive (Congiuntivo Presente)"
+      ko: "접속법 현재 (접속법 현재형)"
+    cefr: B1
+    formation:
+      en: >
+        -ARE verbs: drop -are, add -i/-i/-i/-iamo/-iate/-ino.
+        -ERE/-IRE verbs: drop ending, add -a/-a/-a/-iamo/-iate/-ano.
+        Note: io/tu/lui forms are identical; context or subject pronouns
+        clarify the person.
+      ko: >
+        -ARE 동사: -are를 제거하고 -i/-i/-i/-iamo/-iate/-ino 추가.
+        -ERE/-IRE 동사: 어미를 제거하고 -a/-a/-a/-iamo/-iate/-ano 추가.
+        참고: io/tu/lui 형태가 동일; 문맥이나 주어 대명사로 인칭을 구별.
+    endings:
+      "-ARE":
+        io: "-i"
+        tu: "-i"
+        lui: "-i"
+        noi: "-iamo"
+        voi: "-iate"
+        loro: "-ino"
+      "-ERE":
+        io: "-a"
+        tu: "-a"
+        lui: "-a"
+        noi: "-iamo"
+        voi: "-iate"
+        loro: "-ano"
+      "-IRE (standard)":
+        io: "-a"
+        tu: "-a"
+        lui: "-a"
+        noi: "-iamo"
+        voi: "-iate"
+        loro: "-ano"
+      "-IRE (-ISC- type)":
+        io: "-isca"
+        tu: "-isca"
+        lui: "-isca"
+        noi: "-iamo"
+        voi: "-iate"
+        loro: "-iscano"
+    irregular_verbs:
+      en: "Key irregular congiuntivo presente forms"
+      ko: "주요 불규칙 접속법 현재 형태"
+      essere: {io: sia, tu: sia, lui: sia, noi: siamo, voi: siate, loro: siano}
+      avere: {io: abbia, tu: abbia, lui: abbia, noi: abbiamo, voi: abbiate, loro: abbiano}
+      fare: {io: faccia, tu: faccia, lui: faccia, noi: facciamo, voi: facciate, loro: facciano}
+      andare: {io: vada, tu: vada, lui: vada, noi: andiamo, voi: andiate, loro: vadano}
+      dire: {io: dica, tu: dica, lui: dica, noi: diciamo, voi: diciate, loro: dicano}
+      potere: {io: possa, tu: possa, lui: possa, noi: possiamo, voi: possiate, loro: possano}
+      volere: {io: voglia, tu: voglia, lui: voglia, noi: vogliamo, voi: vogliate, loro: vogliano}
+      dovere: {io: debba, tu: debba, lui: debba, noi: dobbiamo, voi: dobbiate, loro: debbano}
+      sapere: {io: sappia, tu: sappia, lui: sappia, noi: sappiamo, voi: sappiate, loro: sappiano}
+      venire: {io: venga, tu: venga, lui: venga, noi: veniamo, voi: veniate, loro: vengano}
+      uscire: {io: esca, tu: esca, lui: esca, noi: usciamo, voi: usciate, loro: escano}
+      stare: {io: stia, tu: stia, lui: stia, noi: stiamo, voi: stiate, loro: stiano}
+      dare: {io: dia, tu: dia, lui: dia, noi: diamo, voi: diate, loro: diano}
+    uses:
+      - en: "Wishes, desires, hopes (volere che, sperare che, desiderare che)"
+        ko: "바람, 욕구, 희망 (volere che, sperare che, desiderare che)"
+        example: "Voglio che tu venga alla festa."
+      - en: "Emotions (essere felice che, avere paura che, temere che)"
+        ko: "감정 (essere felice che, avere paura che, temere che)"
+        example: "Sono felice che tu stia bene."
+      - en: "Opinions and beliefs (pensare che, credere che)"
+        ko: "의견과 믿음 (pensare che, credere che)"
+        example: "Penso che sia vero."
+      - en: "Impersonal expressions (e necessario che, bisogna che, e possibile che)"
+        ko: "비인칭 표현 (e necessario che, bisogna che, e possibile che)"
+        example: "E importante che tu studi."
+      - en: "Doubt/denial (dubitare che, non credere che)"
+        ko: "의심/부정 (dubitare che, non credere che)"
+        example: "Dubito che sappia la risposta."
+      - en: "Purpose/concessive conjunctions (affinche, benche, sebbene, prima che, senza che)"
+        ko: "목적/양보 접속사 (affinche, benche, sebbene, prima che, senza che)"
+        example: "Te lo dico affinche tu lo sappia."
+    trigger_words: [che, magari, forse, affinche, benche, sebbene, prima che, senza che, a meno che, purche, nonostante, e necessario che, e possibile che, bisogna che]
+
+  congiuntivo_imperfetto:
+    id: congiuntivo_imperfetto
+    label:
+      en: "Imperfect Subjunctive (Congiuntivo Imperfetto)"
+      ko: "접속법 불완료 (접속법 반과거)"
+    cefr: B2
+    formation:
+      en: >
+        -ARE verbs: drop -are, add -assi/-assi/-asse/-assimo/-aste/-assero.
+        -ERE verbs: drop -ere, add -essi/-essi/-esse/-essimo/-este/-essero.
+        -IRE verbs: drop -ire, add -issi/-issi/-isse/-issimo/-iste/-issero.
+        Very regular formation; only essere is fully irregular.
+      ko: >
+        -ARE 동사: -are를 제거하고 -assi/-assi/-asse/-assimo/-aste/-assero 추가.
+        -ERE 동사: -ere를 제거하고 -essi/-essi/-esse/-essimo/-este/-essero 추가.
+        -IRE 동사: -ire를 제거하고 -issi/-issi/-isse/-issimo/-iste/-issero 추가.
+        매우 규칙적인 형성; essere만 완전 불규칙.
+    endings:
+      "-ARE":
+        io: "-assi"
+        tu: "-assi"
+        lui: "-asse"
+        noi: "-assimo"
+        voi: "-aste"
+        loro: "-assero"
+      "-ERE":
+        io: "-essi"
+        tu: "-essi"
+        lui: "-esse"
+        noi: "-essimo"
+        voi: "-este"
+        loro: "-essero"
+      "-IRE":
+        io: "-issi"
+        tu: "-issi"
+        lui: "-isse"
+        noi: "-issimo"
+        voi: "-iste"
+        loro: "-issero"
+    irregular_verbs:
+      essere: {io: fossi, tu: fossi, lui: fosse, noi: fossimo, voi: foste, loro: fossero}
+      fare: {io: facessi, tu: facessi, lui: facesse, noi: facessimo, voi: faceste, loro: facessero}
+      dire: {io: dicessi, tu: dicessi, lui: dicesse, noi: dicessimo, voi: diceste, loro: dicessero}
+      bere: {io: bevessi, tu: bevessi, lui: bevesse, noi: bevessimo, voi: beveste, loro: bevessero}
+      stare: {io: stessi, tu: stessi, lui: stesse, noi: stessimo, voi: steste, loro: stessero}
+      dare: {io: dessi, tu: dessi, lui: desse, noi: dessimo, voi: deste, loro: dessero}
+      tradurre: {io: traducessi, tu: traducessi, lui: traducesse, noi: traducessimo, voi: traduceste, loro: traducessero}
+    uses:
+      - en: "Past subjunctive contexts (main verb in past tense)"
+        ko: "과거 접속법 맥락 (주절 동사가 과거형)"
+        example: "Volevo che venissi."
+      - en: "Hypothetical se-clauses (Type 2 conditional)"
+        ko: "가정법 se절 (제2유형 조건문)"
+        example: "Se avessi tempo, viaggerei."
+      - en: "Polite requests with volessi/potessi"
+        ko: "volessi/potessi를 사용한 정중한 요청"
+        example: "Se potessi, verrei volentieri."
+      - en: "Wishes with magari (unlikely/impossible)"
+        ko: "magari와 함께 쓰는 소망 (실현 불가능한)"
+        example: "Magari potessi volare!"
+      - en: "As if (come se) - always requires congiuntivo imperfetto"
+        ko: "마치 ~인 것처럼 (come se) - 항상 접속법 불완료 필요"
+        example: "Parla come se sapesse tutto."
+    trigger_words: [se (hypothetical), come se, magari, volevo che, pensavo che, era necessario che, prima che (past), senza che (past)]
+
+  imperativo:
+    id: imperativo
+    label:
+      en: "Imperative (Commands)"
+      ko: "명령법"
+    cefr: B1
+    formation:
+      en: >
+        Affirmative tu: same as presente indicative tu form for -ARE
+        (but: parla, not parli); for -ERE/-IRE use presente indicative tu form.
+        Affirmative Lei: use congiuntivo presente lui/lei form.
+        Negative tu: non + infinitive (non parlare!).
+        Noi/voi: use congiuntivo presente forms.
+      ko: >
+        긍정 tu: -ARE 동사는 현재 직설법 tu 형태에서 -i를 -a로 (parla, parli 아님);
+        -ERE/-IRE는 현재 직설법 tu 형태 사용. 긍정 Lei: 접속법 현재 lui/lei 형태 사용.
+        부정 tu: non + 부정사 (non parlare!). Noi/voi: 접속법 현재 형태 사용.
+    forms:
+      affirmative_tu:
+        en: "-ARE: 3rd person presente (parla!); -ERE: 2nd person presente (scrivi!); -IRE: 2nd person presente (dormi! / capisci!)"
+        ko: "-ARE: 현재 3인칭 (parla!); -ERE: 현재 2인칭 (scrivi!); -IRE: 현재 2인칭 (dormi! / capisci!)"
+        "-ARE example": "parla! (speak!)"
+        "-ERE example": "scrivi! (write!)"
+        "-IRE example": "dormi! (sleep!) / capisci! (understand!)"
+        irregulars: "See irregular_imperative in conjugations.yaml"
+      negative_tu:
+        en: "non + infinitive"
+        ko: "non + 부정사"
+        "-ARE example": "non parlare! (don't speak!)"
+        "-ERE example": "non scrivere! (don't write!)"
+        "-IRE example": "non dormire! (don't sleep!)"
+      affirmative_Lei:
+        en: "congiuntivo presente Lei form"
+        ko: "접속법 현재 Lei 형태"
+        "-ARE example": "parli! (speak! formal)"
+        "-ERE example": "scriva! (write! formal)"
+        "-IRE example": "dorma! (sleep! formal) / capisca! (understand! formal)"
+      negative_Lei:
+        en: "non + congiuntivo presente Lei form"
+        ko: "non + 접속법 현재 Lei 형태"
+        "-ARE example": "non parli! (don't speak! formal)"
+        "-ERE example": "non scriva! (don't write! formal)"
+        "-IRE example": "non dorma! (don't sleep! formal)"
+      affirmative_noi:
+        en: "congiuntivo presente noi form (let's...)"
+        ko: "접속법 현재 noi 형태 (~하자)"
+        example: "parliamo! (let's speak!), scriviamo! (let's write!)"
+      affirmative_voi:
+        en: "congiuntivo presente voi form"
+        ko: "접속법 현재 voi 형태"
+        example: "parlate! (speak!), scrivete! (write!)"
+    pronoun_placement:
+      en: >
+        Affirmative tu/noi/voi: pronouns attach to the end (parlami, dimmi, diamogli).
+        Affirmative Lei: pronouns go before the verb (mi parli, mi dica).
+        Negative tu: pronouns can precede the verb or attach to the infinitive
+        (non mi parlare / non parlarmi).
+        Monosyllabic imperatives (da', di', fa', sta', va') double the
+        consonant of the pronoun: dammi, dimmi, fallo, stacci, vacci
+        (exception: gli does not double: dagli).
+      ko: >
+        긍정 tu/noi/voi: 대명사가 뒤에 붙음 (parlami, dimmi, diamogli).
+        긍정 Lei: 대명사가 동사 앞에 위치 (mi parli, mi dica).
+        부정 tu: 대명사가 동사 앞에 오거나 부정사에 붙을 수 있음
+        (non mi parlare / non parlarmi).
+        단음절 명령형(da', di', fa', sta', va')은 대명사의 자음을 겹침:
+        dammi, dimmi, fallo, stacci, vacci (예외: gli는 겹치지 않음: dagli).
+    uses:
+      - en: "Direct commands and instructions"
+        ko: "직접 명령과 지시"
+        example: "Apri la porta!"
+      - en: "Advice and suggestions"
+        ko: "조언과 제안"
+        example: "Mangia piu verdura."
+      - en: "Recipes and directions"
+        ko: "요리법과 길안내"
+        example: "Giri a destra."
+
+  # ============================================================
+  # COMPOUND TENSES (formed with AVERE/ESSERE + past participle)
+  # ============================================================
+  passato_prossimo:
+    id: passato_prossimo
+    label:
+      en: "Near Past (Passato Prossimo)"
+      ko: "근과거 (가까운 과거)"
+    cefr: A2
+    formation:
+      en: "Present tense of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 현재형 + 과거분사"
+    auxiliary_selection:
+      avere:
+        en: "Used with most transitive verbs (verbs that take a direct object)"
+        ko: "대부분의 타동사 (직접목적어를 취하는 동사)와 함께 사용"
+        examples: ["Ho mangiato la pizza.", "Hai letto il libro.", "Abbiamo visto il film."]
+      essere:
+        en: "Used with intransitive verbs of motion/state change, reflexive verbs, and impersonal verbs"
+        ko: "이동/상태 변화의 자동사, 재귀 동사, 비인칭 동사와 함께 사용"
+        verbs: [andare, venire, partire, arrivare, tornare, uscire, entrare, salire, scendere, nascere, morire, crescere, stare, restare, rimanere, diventare, cadere, essere, piacere, succedere, bastare, sembrare, costare]
+        examples: ["Sono andato a Roma.", "Maria e arrivata ieri.", "Ci siamo divertiti."]
+    avere_conjugation:
+      io: ho
+      tu: hai
+      lui: ha
+      noi: abbiamo
+      voi: avete
+      loro: hanno
+    essere_conjugation:
+      io: sono
+      tu: sei
+      lui: "\xE8"
+      noi: siamo
+      voi: siete
+      loro: sono
+    past_participle_formation:
+      en: "-ARE -> -ato (parlato), -ERE -> -uto (creduto), -IRE -> -ito (dormito). See irregular past participles in conjugations.yaml."
+      ko: "-ARE -> -ato (parlato), -ERE -> -uto (creduto), -IRE -> -ito (dormito). 불규칙 과거분사는 conjugations.yaml 참조."
+    agreement:
+      en: >
+        With ESSERE: past participle agrees with subject in gender/number
+        (-o/-a/-i/-e): Lei e andata. Loro sono arrivati.
+        With AVERE: past participle is normally invariable, BUT agrees with
+        a preceding direct object pronoun (lo/la/li/le/ne):
+        Ho visto Maria -> L'ho vista. Ho comprato i libri -> Li ho comprati.
+      ko: >
+        ESSERE와 함께: 과거분사는 주어의 성/수와 일치 (-o/-a/-i/-e):
+        Lei e andata. Loro sono arrivati.
+        AVERE와 함께: 과거분사는 보통 불변이지만, 선행하는 직접목적격
+        대명사(lo/la/li/le/ne)와 일치:
+        Ho visto Maria -> L'ho vista. Ho comprato i libri -> Li ho comprati.
+    example: "Ho mangiato. Siamo andati al cinema."
+    uses:
+      - en: "Actions completed recently with present relevance"
+        ko: "현재와 관련있는 최근 완료된 행동"
+        example: "Ho finito il lavoro."
+      - en: "Life experiences (ever/never)"
+        ko: "인생 경험 (해본 적 있다/없다)"
+        example: "Sei mai stato in Italia?"
+      - en: "Completed past actions (primary spoken past tense in northern/central Italy)"
+        ko: "완료된 과거 행동 (북부/중부 이탈리아에서 주요 구어 과거 시제)"
+        example: "Ieri ho comprato un libro."
+    trigger_words: [ieri, stamattina, la settimana scorsa, gia, ancora, mai, appena, finora, oggi, questa settimana, poco fa]
+    notes:
+      en: "In spoken Italian (especially northern/central), passato prossimo has largely replaced passato remoto for all completed past actions. In the south and in writing, passato remoto is still used for distant past."
+      ko: "구어 이탈리아어(특히 북부/중부)에서 근과거는 모든 완료 과거 행동에서 원과거를 대체. 남부와 글쓰기에서는 먼 과거에 원과거를 여전히 사용."
+
+  trapassato_prossimo:
+    id: trapassato_prossimo
+    label:
+      en: "Pluperfect (Trapassato Prossimo)"
+      ko: "대과거 (근접대과거)"
+    cefr: B1
+    formation:
+      en: "Imperfetto of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 불완료형 + 과거분사"
+    avere_conjugation:
+      io: avevo
+      tu: avevi
+      lui: aveva
+      noi: avevamo
+      voi: avevate
+      loro: avevano
+    essere_conjugation:
+      io: ero
+      tu: eri
+      lui: era
+      noi: eravamo
+      voi: eravate
+      loro: erano
+    example: "Avevo mangiato prima di uscire. Era gia partita quando sono arrivato."
+    uses:
+      - en: "An action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 행동"
+        example: "Quando sono arrivato, erano gia usciti."
+      - en: "Past experience before a reference point in the past"
+        ko: "과거의 기준 시점 이전의 경험"
+        example: "Non avevo mai visto qualcosa del genere."
+    trigger_words: [gia, prima di, quando, mai prima, ancora]
+
+  futuro_anteriore:
+    id: futuro_anteriore
+    label:
+      en: "Future Perfect (Futuro Anteriore)"
+      ko: "미래 완료 (전미래)"
+    cefr: B2
+    formation:
+      en: "Futuro semplice of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 단순 미래형 + 과거분사"
+    avere_conjugation:
+      io: "avr\xF2"
+      tu: avrai
+      lui: "avr\xE0"
+      noi: avremo
+      voi: avrete
+      loro: avranno
+    essere_conjugation:
+      io: "sar\xF2"
+      tu: sarai
+      lui: "sar\xE0"
+      noi: saremo
+      voi: sarete
+      loro: saranno
+    example: "Per le cinque, avro finito. Sara gia partita quando arriveremo."
+    uses:
+      - en: "An action that will be completed before a future point"
+        ko: "미래 시점 이전에 완료될 행동"
+        example: "Per domani, avremo finito il progetto."
+      - en: "Conjecture/probability about something that has probably happened"
+        ko: "아마 일어났을 것에 대한 추측/가능성"
+        example: "Sara gia arrivato. (He's probably already arrived.)"
+      - en: "After temporal conjunctions (quando, dopo che, appena) for future completed actions"
+        ko: "미래 완료 행동에 대한 시간 접속사(quando, dopo che, appena) 뒤에"
+        example: "Quando avro finito, ti chiamero."
+    trigger_words: [per (+ time), gia, prima di, entro, quando (future perfect)]
+
+  condizionale_passato:
+    id: condizionale_passato
+    label:
+      en: "Past Conditional (Condizionale Passato)"
+      ko: "과거 조건법 (조건법 과거)"
+    cefr: B2
+    formation:
+      en: "Condizionale presente of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 현재 조건법 + 과거분사"
+    avere_conjugation:
+      io: avrei
+      tu: avresti
+      lui: avrebbe
+      noi: avremmo
+      voi: avreste
+      loro: avrebbero
+    essere_conjugation:
+      io: sarei
+      tu: saresti
+      lui: sarebbe
+      noi: saremmo
+      voi: sareste
+      loro: sarebbero
+    example: "Avrei mangiato, ma non avevo fame. Sarei andato, ma ero malato."
+    uses:
+      - en: "Hypothetical past actions (would have done)"
+        ko: "가정적 과거 행동 (~했을 것이다)"
+        example: "Avrei viaggiato, ma non avevo soldi."
+      - en: "Result clause in past contrary-to-fact se-clauses (Type 3)"
+        ko: "과거 반사실적 se절의 결과절 (제3유형)"
+        example: "Se avessi saputo, sarei venuto."
+      - en: "Future from a past perspective (reported speech)"
+        ko: "과거 관점에서의 미래 (간접화법)"
+        example: "Ha detto che sarebbe venuto."
+      - en: "Unfulfilled wishes"
+        ko: "실현되지 않은 소망"
+        example: "Avrei voluto essere la."
+    trigger_words: [se avessi/fossi, avrei, sarei]
+
+  congiuntivo_passato:
+    id: congiuntivo_passato
+    label:
+      en: "Past Subjunctive (Congiuntivo Passato)"
+      ko: "접속법 과거 (접속법 근과거)"
+    cefr: B1
+    formation:
+      en: "Congiuntivo presente of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 접속법 현재 + 과거분사"
+    avere_conjugation:
+      io: abbia
+      tu: abbia
+      lui: abbia
+      noi: abbiamo
+      voi: abbiate
+      loro: abbiano
+    essere_conjugation:
+      io: sia
+      tu: sia
+      lui: sia
+      noi: siamo
+      voi: siate
+      loro: siano
+    example: "Spero che abbia capito. Penso che siano arrivati."
+    uses:
+      - en: "Subjunctive context referring to a recently completed action"
+        ko: "최근 완료된 행동을 언급하는 접속법 맥락"
+        example: "Sono contento che siano arrivati bene."
+      - en: "Doubt about whether something has happened"
+        ko: "어떤 일이 일어났는지에 대한 의심"
+        example: "Dubito che abbia capito."
+      - en: "After temporal conjunctions for completed future actions"
+        ko: "완료된 미래 행동에 대한 시간 접속사 뒤"
+        example: "Quando abbia finito, me lo dica."
+    trigger_words: [spero che, dubito che, penso che, e possibile che, prima che (completed)]
+
+  congiuntivo_trapassato:
+    id: congiuntivo_trapassato
+    label:
+      en: "Pluperfect Subjunctive (Congiuntivo Trapassato)"
+      ko: "접속법 대과거 (접속법 대과거형)"
+    cefr: B2
+    formation:
+      en: "Congiuntivo imperfetto of AVERE or ESSERE + past participle"
+      ko: "AVERE 또는 ESSERE의 접속법 불완료 + 과거분사"
+    avere_conjugation:
+      io: avessi
+      tu: avessi
+      lui: avesse
+      noi: avessimo
+      voi: aveste
+      loro: avessero
+    essere_conjugation:
+      io: fossi
+      tu: fossi
+      lui: fosse
+      noi: fossimo
+      voi: foste
+      loro: fossero
+    example: "Se avessi studiato, avrei superato l'esame."
+    uses:
+      - en: "Se-clauses for past contrary-to-fact conditions (Type 3)"
+        ko: "과거 반사실적 조건의 se절 (제3유형)"
+        example: "Se avessi studiato, avrei superato l'esame."
+      - en: "Wishes about the past (magari)"
+        ko: "과거에 대한 소망 (magari)"
+        example: "Magari fossi andato alla festa!"
+      - en: "Past subjunctive contexts requiring completion before another past action"
+        ko: "다른 과거 행동 이전의 완료를 요구하는 과거 접속법 맥락"
+        example: "Non credevo che avessero finito."
+      - en: "As if in the past (come se + trapassato)"
+        ko: "과거의 마치 ~인 것처럼 (come se + 대과거)"
+        example: "Parlava come se non fosse successo nulla."
+    trigger_words: [se avessi/fossi (past), magari (past wish), come se (past), pensavo che (past completed)]
