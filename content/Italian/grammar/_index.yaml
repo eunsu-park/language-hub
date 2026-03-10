@@ -1,0 +1,39 @@
+# Italian Grammar -- Index
+# Directory: language-hub/content/Italian/grammar/
+
+course: Italian
+section: grammar
+label:
+  en: "Italian Grammar Reference"
+  ko: "이탈리아어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for regular and irregular verbs across all simple tenses. Includes irregular imperatives, past participles, and gerunds."
+      ko: "모든 단순 시제에 걸친 규칙 및 불규칙 동사의 완전한 동사 활용 패러다임. 불규칙 명령형, 과거분사, 현재분사 포함."
+    verbs_included: 20
+    categories:
+      - regular (parlare, mangiare, credere, dormire, capire)
+      - irregular (essere, avere, andare, fare, dire, potere, volere, dovere, sapere, stare, venire, dare, uscire, tenere, piacere)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense formation rules, endings, usage guidelines, trigger words, and compound tense structures with AVERE/ESSERE conjugations."
+      ko: "시제 형성 규칙, 어미, 사용법 지침, 트리거 단어, AVERE/ESSERE 활용이 포함된 복합 시제 구조."
+    tenses_included:
+      simple: [presente, passato_remoto, imperfetto, futuro_semplice, condizionale_presente, congiuntivo_presente, congiuntivo_imperfetto, imperativo]
+      compound: [passato_prossimo, trapassato_prossimo, futuro_anteriore, condizionale_passato, congiuntivo_passato, congiuntivo_trapassato]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns including auxiliary selection, tense usage, subjunctive triggers, conditional sentences, CI/NE particles, combined pronouns, and articulated prepositions."
+      ko: "조동사 선택, 시제 사용, 접속법 트리거, 조건문, CI/NE 소사, 결합 대명사, 관사 결합 전치사를 포함한 문법 규칙, 대조, 패턴."
+    rules_included:
+      - essere_vs_avere
+      - passato_prossimo_vs_imperfetto
+      - congiuntivo_triggers
+      - periodo_ipotetico
+      - ci_and_ne
+      - combined_pronouns
+      - articulated_prepositions
