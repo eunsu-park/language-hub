@@ -75,7 +75,7 @@ language-hub/
 │       ├── course_metadata.yaml       # Language config, CEFR stage definitions
 │       ├── en/                        # Lessons in English (26 files)
 │       ├── ko/                        # Lessons in Korean (26 files)
-│       ├── vocabulary/                # Structured vocabulary YAML (67 files, 7,870 words)
+│       ├── vocabulary/                # Structured vocabulary YAML (66 files, 7,870 words)
 │       │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
 │       │   └── sup_*.yaml               # Supplementary packs by level (41 files)
 │       └── grammar/                   # Structured grammar YAML
@@ -178,7 +178,7 @@ language-hub/
 
 **Content stats:**
 - 26 lesson files per language (en + ko)
-- 67 vocabulary YAML files (7,870 words)
+- 66 vocabulary YAML files (7,870 words)
 - 20 verbs × 7 tenses (conjugation tables)
 - 7 grammar rule types, 14 tense rules
 
