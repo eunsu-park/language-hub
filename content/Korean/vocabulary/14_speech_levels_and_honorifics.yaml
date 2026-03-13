@@ -1,0 +1,623 @@
+lesson: 14_Speech_Levels_and_Honorifics
+lesson_number: 14
+topik: TOPIK_II_3
+
+categories:
+- id: honorific_vocabulary
+  label:
+    en: Honorific Vocabulary (Subject Honorifics)
+    ko: 존경어 (주체 높임)
+  type: vocabulary
+  words:
+  - korean: 드시다
+    reading: null
+    translation:
+      en: to eat / to drink (honorific)
+      ko: 먹다/마시다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 먹다 and 마시다"
+      ko: "먹다와 마시다의 존경어"
+  - korean: 주무시다
+    reading: null
+    translation:
+      en: to sleep (honorific)
+      ko: 자다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 자다"
+      ko: "자다의 존경어"
+  - korean: 계시다
+    reading: null
+    translation:
+      en: to be (at a place) (honorific)
+      ko: 있다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 있다 (existence/location)"
+      ko: "있다의 존경어 (존재/위치)"
+  - korean: 돌아가시다
+    reading: null
+    translation:
+      en: to pass away (honorific)
+      ko: 죽다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific euphemism for 죽다 (to die)"
+      ko: "죽다의 존경어 (완곡 표현)"
+  - korean: 말씀하시다
+    reading: null
+    translation:
+      en: to speak / to say (honorific)
+      ko: 말하다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 말하다"
+      ko: "말하다의 존경어"
+  - korean: 편찮으시다
+    reading: null
+    translation:
+      en: to be ill (honorific)
+      ko: 아프다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 아프다"
+      ko: "아프다의 존경어"
+  - korean: 잡수시다
+    reading: null
+    translation:
+      en: to eat (very honorific)
+      ko: 먹다의 매우 높은 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Higher honorific than 드시다"
+      ko: "드시다보다 더 높은 존경어"
+  - korean: 데리다
+    reading: null
+    translation:
+      en: to bring/take (a person, honorific context)
+      ko: 사람을 데리고 가다/오다
+    gender: null
+    plural: null
+  - korean: -(으)시다
+    reading: null
+    translation:
+      en: honorific verb suffix
+      ko: 동사에 붙이는 주체 높임 접미사
+    gender: null
+    plural: null
+    notes:
+      en: "Added to verb stems to show respect for the subject"
+      ko: "주어에 대한 존경을 나타내기 위해 동사 어간에 붙임"
+
+- id: humble_vocabulary
+  label:
+    en: Humble Vocabulary (Self-Lowering)
+    ko: 겸양어 (자기 낮춤)
+  type: vocabulary
+  words:
+  - korean: 저
+    reading: null
+    translation:
+      en: I / me (humble)
+      ko: 나의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Humble first person pronoun; use instead of 나 in formal situations"
+      ko: "격식적 상황에서 나 대신 사용하는 겸양 1인칭 대명사"
+  - korean: 저희
+    reading: null
+    translation:
+      en: we / us (humble)
+      ko: 우리의 겸양어
+    gender: null
+    plural: null
+  - korean: 드리다
+    reading: null
+    translation:
+      en: to give (humble)
+      ko: 주다의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Humble form of 주다; used when giving to someone of higher status"
+      ko: "주다의 겸양어; 윗사람에게 줄 때 사용"
+  - korean: 여쭙다
+    reading: null
+    translation:
+      en: to ask (humble)
+      ko: 묻다/질문하다의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Humble form of 묻다"
+      ko: "묻다의 겸양어"
+  - korean: 뵙다
+    reading: null
+    translation:
+      en: to see / to meet (humble)
+      ko: 보다/만나다의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Humble form of 보다/만나다; 처음 뵙겠습니다 = nice to meet you"
+      ko: "보다/만나다의 겸양어; 처음 뵙겠습니다 = 처음 만나 뵈는 인사"
+  - korean: 모시다
+    reading: null
+    translation:
+      en: to serve / to accompany (humble)
+      ko: 데리다의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Used when accompanying or serving someone of higher status"
+      ko: "윗사람을 모시고 가거나 섬길 때 사용"
+  - korean: 올리다
+    reading: null
+    translation:
+      en: to offer / to present (humble)
+      ko: 주다의 겸양어 (격식적)
+    gender: null
+    plural: null
+    notes:
+      en: "Used in formal contexts: 인사를 올리다"
+      ko: "격식적 상황에서 사용: 인사를 올리다"
+  - korean: 여쭈다
+    reading: null
+    translation:
+      en: to tell / to report (humble)
+      ko: 말하다의 겸양어
+    gender: null
+    plural: null
+  - korean: 데려다 드리다
+    reading: null
+    translation:
+      en: to take (someone, humble)
+      ko: 데려다 주다의 겸양어
+    gender: null
+    plural: null
+
+- id: honorific_terms
+  label:
+    en: Honorific Noun Replacements
+    ko: 높임 명사
+  type: vocabulary
+  words:
+  - korean: 성함
+    reading: null
+    translation:
+      en: name (honorific)
+      ko: 이름의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 이름; 성함이 어떻게 되세요?"
+      ko: "이름의 존경어; 성함이 어떻게 되세요?"
+  - korean: 연세
+    reading: null
+    translation:
+      en: age (honorific)
+      ko: 나이의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 나이; 연세가 어떻게 되세요?"
+      ko: "나이의 존경어; 연세가 어떻게 되세요?"
+  - korean: 진지
+    reading: null
+    translation:
+      en: meal (honorific)
+      ko: 밥의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 밥; 진지 드셨어요?"
+      ko: "밥의 존경어; 진지 드셨어요?"
+  - korean: 댁
+    reading: null
+    translation:
+      en: house / home (honorific)
+      ko: 집의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 집"
+      ko: "집의 존경어"
+  - korean: 말씀
+    reading: null
+    translation:
+      en: words / speech (honorific)
+      ko: 말의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 말"
+      ko: "말의 존경어"
+  - korean: 생신
+    reading: null
+    translation:
+      en: birthday (honorific)
+      ko: 생일의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 생일"
+      ko: "생일의 존경어"
+  - korean: 병환
+    reading: null
+    translation:
+      en: illness (honorific)
+      ko: 병의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific of 병"
+      ko: "병의 존경어"
+  - korean: 분
+    reading: null
+    translation:
+      en: person (honorific counter)
+      ko: 사람의 높임 단위
+    gender: null
+    plural: null
+    notes:
+      en: "Honorific counter for 명/사람; 두 분 = two people (respectful)"
+      ko: "명/사람의 존경 단위; 두 분 = 두 사람 (높임)"
+  - korean: 따님
+    reading: null
+    translation:
+      en: daughter (honorific)
+      ko: 딸의 높임말
+    gender: null
+    plural: null
+  - korean: 아드님
+    reading: null
+    translation:
+      en: son (honorific)
+      ko: 아들의 높임말
+    gender: null
+    plural: null
+
+- id: formal_expressions
+  label:
+    en: Formal Speech Level Expressions
+    ko: 격식체 표현
+  type: vocabulary
+  words:
+  - korean: -습니다/-ㅂ니다
+    reading: null
+    translation:
+      en: formal declarative ending
+      ko: 격식체 평서형 종결 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Highest formality declarative ending (합쇼체)"
+      ko: "가장 격식적인 평서형 종결 어미 (합쇼체)"
+  - korean: -습니까/-ㅂ니까
+    reading: null
+    translation:
+      en: formal interrogative ending
+      ko: 격식체 의문형 종결 어미
+    gender: null
+    plural: null
+  - korean: -(으)십시오
+    reading: null
+    translation:
+      en: formal imperative ending (please do)
+      ko: 격식체 명령형 종결 어미
+    gender: null
+    plural: null
+  - korean: -(으)시죠
+    reading: null
+    translation:
+      en: polite suggestion (shall we / please)
+      ko: 정중한 제안의 종결 어미
+    gender: null
+    plural: null
+  - korean: 격식체
+    reading: null
+    translation:
+      en: formal speech style
+      ko: 격식을 갖춘 말투
+    gender: null
+    plural: null
+  - korean: 비격식체
+    reading: null
+    translation:
+      en: informal speech style
+      ko: 격식을 갖추지 않은 말투
+    gender: null
+    plural: null
+  - korean: 합쇼체
+    reading: null
+    translation:
+      en: formal polite level (highest)
+      ko: 가장 격식적인 높임 말투
+    gender: null
+    plural: null
+    notes:
+      en: "Used in news, business, military"
+      ko: "뉴스, 비즈니스, 군대에서 사용"
+  - korean: 해요체
+    reading: null
+    translation:
+      en: informal polite level
+      ko: 비격식 높임 말투
+    gender: null
+    plural: null
+    notes:
+      en: "Most commonly used polite speech level"
+      ko: "가장 흔히 사용되는 높임 말투"
+  - korean: 해체
+    reading: null
+    translation:
+      en: informal casual level (반말)
+      ko: 비격식 낮춤 말투
+    gender: null
+    plural: null
+    notes:
+      en: "Used among close friends and to younger people"
+      ko: "친한 친구나 아랫사람에게 사용"
+  - korean: 하십시오체
+    reading: null
+    translation:
+      en: formal deferential level
+      ko: 격식 높임의 명령형
+    gender: null
+    plural: null
+  - korean: 존대
+    reading: null
+    translation:
+      en: honorification / showing respect
+      ko: 높여서 대우함
+    gender: null
+    plural: null
+  - korean: 겸양
+    reading: null
+    translation:
+      en: humility / modesty
+      ko: 자신을 낮춤
+    gender: null
+    plural: null
+  - korean: 높임말
+    reading: null
+    translation:
+      en: honorific language
+      ko: 상대를 높이는 말
+    gender: null
+    plural: null
+  - korean: 낮춤말
+    reading: null
+    translation:
+      en: plain/low speech
+      ko: 격식을 차리지 않는 말
+    gender: null
+    plural: null
+  - korean: 예의
+    reading: null
+    translation:
+      en: manners / etiquette
+      ko: 사회적 예절
+    gender: null
+    plural: null
+  - korean: 공손하다
+    reading: null
+    translation:
+      en: to be polite / to be courteous
+      ko: 예의 바르다
+    gender: null
+    plural: null
+  - korean: 실례
+    reading: null
+    translation:
+      en: rudeness / excuse me
+      ko: 예의에 어긋남
+    gender: null
+    plural: null
+    notes:
+      en: "실례합니다 = excuse me (formal)"
+      ko: "실례합니다 = 격식적인 양해 표현"
+  - korean: 삼가다
+    reading: null
+    translation:
+      en: to refrain / to be careful
+      ko: 조심하여 하지 않다
+    gender: null
+    plural: null
+  - korean: 하오체
+    reading: null
+    translation:
+      en: semi-formal level (archaic)
+      ko: 중간 높임의 격식체 (고어적)
+    gender: null
+    plural: null
+    notes:
+      en: "Rarely used in modern Korean; found in historical dramas"
+      ko: "현대 한국어에서 거의 사용하지 않음; 사극에서 사용"
+  - korean: 하게체
+    reading: null
+    translation:
+      en: familiar level (to juniors)
+      ko: 아랫사람에게 격식을 갖추어 말하는 체
+    gender: null
+    plural: null
+    notes:
+      en: "Used by older people to younger adults"
+      ko: "나이 든 사람이 젊은 성인에게 사용"
+  - korean: 해라체
+    reading: null
+    translation:
+      en: plain level (written/to children)
+      ko: 낮춤의 격식체
+    gender: null
+    plural: null
+    notes:
+      en: "Used in writing, news, and to small children"
+      ko: "글, 뉴스, 어린아이에게 사용"
+  - korean: 대우
+    reading: null
+    translation:
+      en: treatment / regard
+      ko: 사람을 대하는 태도
+    gender: null
+    plural: null
+  - korean: 높임법
+    reading: null
+    translation:
+      en: honorific system
+      ko: 상대를 높이거나 낮추는 말의 체계
+    gender: null
+    plural: null
+  - korean: 주체 높임
+    reading: null
+    translation:
+      en: subject honorification
+      ko: 문장 주어를 높이는 것
+    gender: null
+    plural: null
+    notes:
+      en: "Using -(으)시- to honor the subject"
+      ko: "-(으)시-를 사용하여 주어를 높임"
+  - korean: 객체 높임
+    reading: null
+    translation:
+      en: object honorification
+      ko: 목적어나 부사어의 대상을 높이는 것
+    gender: null
+    plural: null
+    notes:
+      en: "Using humble verbs like 드리다, 모시다"
+      ko: "드리다, 모시다 등의 겸양어 사용"
+  - korean: 상대 높임
+    reading: null
+    translation:
+      en: addressee honorification
+      ko: 듣는 사람을 높이거나 낮추는 것
+    gender: null
+    plural: null
+    notes:
+      en: "Determined by sentence-ending style (합쇼체, 해요체, etc.)"
+      ko: "종결 어미에 의해 결정 (합쇼체, 해요체 등)"
+  - korean: 감사합니다
+    reading: null
+    translation:
+      en: thank you (formal)
+      ko: 고맙다의 격식적 표현
+    gender: null
+    plural: null
+  - korean: 고맙습니다
+    reading: null
+    translation:
+      en: thank you (formal, native Korean)
+      ko: 고마운 마음의 격식적 표현
+    gender: null
+    plural: null
+  - korean: 죄송합니다
+    reading: null
+    translation:
+      en: I'm sorry (formal)
+      ko: 미안하다의 격식적 표현
+    gender: null
+    plural: null
+  - korean: 미안합니다
+    reading: null
+    translation:
+      en: I'm sorry (polite)
+      ko: 잘못에 대한 사과
+    gender: null
+    plural: null
+  - korean: 안녕하십니까
+    reading: null
+    translation:
+      en: hello (very formal)
+      ko: 매우 격식적인 인사
+    gender: null
+    plural: null
+  - korean: 수고하셨습니다
+    reading: null
+    translation:
+      en: you worked hard (formal appreciation)
+      ko: 노력에 대한 격식적 감사 표현
+    gender: null
+    plural: null
+  - korean: 실례합니다
+    reading: null
+    translation:
+      en: excuse me (formal)
+      ko: 양해를 구하는 격식적 표현
+    gender: null
+    plural: null
+  - korean: 말씀드리다
+    reading: null
+    translation:
+      en: to tell (humble + honorific)
+      ko: 말하다의 겸양어
+    gender: null
+    plural: null
+    notes:
+      en: "Humble form used when speaking to someone of higher status"
+      ko: "윗사람에게 말할 때 사용하는 겸양어"
+  - korean: 여기요
+    reading: null
+    translation:
+      en: excuse me (calling attention)
+      ko: 주의를 끌 때 사용하는 말
+    gender: null
+    plural: null
+    notes:
+      en: "Used to call a waiter or get someone's attention"
+      ko: "종업원을 부르거나 관심을 끌 때 사용"
+  - korean: 괜찮으시다
+    reading: null
+    translation:
+      en: to be alright (honorific)
+      ko: 괜찮다의 높임말
+    gender: null
+    plural: null
+  - korean: 어르신
+    reading: null
+    translation:
+      en: elderly person (respectful)
+      ko: 나이가 많은 사람에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 부모님
+    reading: null
+    translation:
+      en: parents (honorific)
+      ko: 부모의 높임말
+    gender: null
+    plural: null
+  - korean: 사모님
+    reading: null
+    translation:
+      en: someone's wife (respectful)
+      ko: 남의 아내에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 선생
+    reading: null
+    translation:
+      en: teacher / sir (without -님)
+      ko: 교사, 또는 상대방에 대한 호칭
+    gender: null
+    plural: null
+  - korean: 귀하
+    reading: null
+    translation:
+      en: you (very formal, written)
+      ko: 매우 격식적인 2인칭 (서면)
+    gender: null
+    plural: null
+    notes:
+      en: "Used in formal letters and documents"
+      ko: "공식 편지와 문서에서 사용"
