@@ -1,0 +1,620 @@
+lesson: 11_Perfect_System_Active
+lesson_number: 11
+cefr: B1
+categories:
+- id: 111_principal_parts
+  label:
+    en: 11.1 Principal Parts
+    ko: 11.1 기본형
+  type: vocabulary
+  words:
+  - latin: facio, facere, feci, factum
+    translation:
+      en: to do, to make
+      ko: 하다, 만들다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem; perfect stem fec-
+      ko: 제3변화 i-어간; 완료 어간 fec-
+  - latin: dico, dicere, dixi, dictum
+    translation:
+      en: to say, to speak
+      ko: 말하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem dix-
+      ko: 제3변화; 완료 어간 dix-
+  - latin: duco, ducere, duxi, ductum
+    translation:
+      en: to lead, to guide
+      ko: 이끌다, 안내하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem dux-
+      ko: 제3변화; 완료 어간 dux-
+  - latin: scribo, scribere, scripsi, scriptum
+    translation:
+      en: to write
+      ko: 쓰다, 기록하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem scrips-
+      ko: 제3변화; 완료 어간 scrips-
+  - latin: vinco, vincere, vici, victum
+    translation:
+      en: to conquer, to defeat
+      ko: 이기다, 정복하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem vic-
+      ko: 제3변화; 완료 어간 vic-
+  - latin: capio, capere, cepi, captum
+    translation:
+      en: to take, to seize
+      ko: 잡다, 취하다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem; perfect stem cep-
+      ko: 제3변화 i-어간; 완료 어간 cep-
+  - latin: mitto, mittere, misi, missum
+    translation:
+      en: to send
+      ko: 보내다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem mis-
+      ko: 제3변화; 완료 어간 mis-
+  - latin: venio, venire, veni, ventum
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    notes:
+      en: 4th conjugation; perfect stem ven-
+      ko: 제4변화; 완료 어간 ven-
+  - latin: ago, agere, egi, actum
+    translation:
+      en: to do, to drive, to act
+      ko: 행동하다, 몰다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem eg-
+      ko: 제3변화; 완료 어간 eg-
+  - latin: gero, gerere, gessi, gestum
+    translation:
+      en: to carry, to wage (war)
+      ko: 나르다, (전쟁을) 수행하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem gess-
+      ko: 제3변화; 완료 어간 gess-
+  - latin: rego, regere, rexi, rectum
+    translation:
+      en: to rule, to direct
+      ko: 통치하다, 지휘하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem rex-
+      ko: 제3변화; 완료 어간 rex-
+  - latin: pono, ponere, posui, positum
+    translation:
+      en: to put, to place
+      ko: 놓다, 두다
+    gender: null
+    notes:
+      en: 3rd conjugation; reduplicated perfect stem posu-
+      ko: 제3변화; 중복 완료 어간 posu-
+  - latin: cedo, cedere, cessi, cessum
+    translation:
+      en: to go, to yield
+      ko: 가다, 양보하다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem cess-
+      ko: 제3변화; 완료 어간 cess-
+  - latin: traho, trahere, traxi, tractum
+    translation:
+      en: to drag, to draw
+      ko: 끌다, 당기다
+    gender: null
+    notes:
+      en: 3rd conjugation; perfect stem trax-
+      ko: 제3변화; 완료 어간 trax-
+  - latin: curro, currere, cucurri, cursum
+    translation:
+      en: to run
+      ko: 달리다
+    gender: null
+    notes:
+      en: 3rd conjugation; reduplicated perfect cucurr-
+      ko: 제3변화; 중복 완료 cucurr-
+  - latin: cado, cadere, cecidi, casum
+    translation:
+      en: to fall
+      ko: 떨어지다
+    gender: null
+    notes:
+      en: 3rd conjugation; reduplicated perfect cecid-
+      ko: 제3변화; 중복 완료 cecid-
+  - latin: tango, tangere, tetigi, tactum
+    translation:
+      en: to touch
+      ko: 만지다
+    gender: null
+    notes:
+      en: 3rd conjugation; reduplicated perfect tetig-
+      ko: 제3변화; 중복 완료 tetig-
+  - latin: pello, pellere, pepuli, pulsum
+    translation:
+      en: to drive, to push
+      ko: 몰아내다, 밀다
+    gender: null
+    notes:
+      en: 3rd conjugation; reduplicated perfect pepul-
+      ko: 제3변화; 중복 완료 pepul-
+- id: 112_perfect_stem_verbs
+  label:
+    en: 11.2 Perfect Stem Verbs
+    ko: 11.2 완료 어간 동사
+  type: vocabulary
+  words:
+  - latin: feci
+    translation:
+      en: I did, I made (perfect)
+      ko: 나는 했다, 만들었다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of facio
+      ko: facio의 1인칭 단수 완료
+  - latin: dixi
+    translation:
+      en: I said (perfect)
+      ko: 나는 말했다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of dico
+      ko: dico의 1인칭 단수 완료
+  - latin: duxi
+    translation:
+      en: I led (perfect)
+      ko: 나는 이끌었다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of duco
+      ko: duco의 1인칭 단수 완료
+  - latin: scripsi
+    translation:
+      en: I wrote (perfect)
+      ko: 나는 썼다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of scribo
+      ko: scribo의 1인칭 단수 완료
+  - latin: vici
+    translation:
+      en: I conquered (perfect)
+      ko: 나는 이겼다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of vinco
+      ko: vinco의 1인칭 단수 완료
+  - latin: cepi
+    translation:
+      en: I took, I seized (perfect)
+      ko: 나는 잡았다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of capio
+      ko: capio의 1인칭 단수 완료
+  - latin: misi
+    translation:
+      en: I sent (perfect)
+      ko: 나는 보냈다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of mitto
+      ko: mitto의 1인칭 단수 완료
+  - latin: veni
+    translation:
+      en: I came (perfect)
+      ko: 나는 왔다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of venio
+      ko: venio의 1인칭 단수 완료
+  - latin: egi
+    translation:
+      en: I did, I drove (perfect)
+      ko: 나는 행했다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of ago
+      ko: ago의 1인칭 단수 완료
+  - latin: gessi
+    translation:
+      en: I carried, I waged (perfect)
+      ko: 나는 수행했다 (완료)
+    gender: null
+    notes:
+      en: 1st person singular perfect of gero
+      ko: gero의 1인칭 단수 완료
+  - latin: fecisse
+    translation:
+      en: to have done (perfect infinitive)
+      ko: 했었다 (완료 부정사)
+    gender: null
+    notes:
+      en: Perfect infinitive of facere
+      ko: facere의 완료 부정사
+  - latin: dixisse
+    translation:
+      en: to have said (perfect infinitive)
+      ko: 말했었다 (완료 부정사)
+    gender: null
+    notes:
+      en: Perfect infinitive of dicere
+      ko: dicere의 완료 부정사
+  - latin: duxisse
+    translation:
+      en: to have led (perfect infinitive)
+      ko: 이끌었었다 (완료 부정사)
+    gender: null
+    notes:
+      en: Perfect infinitive of ducere
+      ko: ducere의 완료 부정사
+  - latin: vicisse
+    translation:
+      en: to have conquered (perfect infinitive)
+      ko: 이겼었다 (완료 부정사)
+    gender: null
+    notes:
+      en: Perfect infinitive of vincere
+      ko: vincere의 완료 부정사
+- id: 113_time_markers_perfect
+  label:
+    en: 11.3 Time Markers for the Perfect
+    ko: 11.3 완료 시제 시간 표지
+  type: vocabulary
+  words:
+  - latin: heri
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+    notes:
+      en: Adverb; triggers perfect tense
+      ko: 부사; 완료 시제 유발
+  - latin: hodie
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+    notes:
+      en: Adverb; can appear with perfect or present
+      ko: 부사; 완료 또는 현재 시제와 사용
+  - latin: iam
+    translation:
+      en: already, now
+      ko: 이미, 이제
+    gender: null
+    notes:
+      en: Adverb; common with perfect tense
+      ko: 부사; 완료 시제와 자주 사용
+  - latin: numquam
+    translation:
+      en: never
+      ko: 결코 ~않다
+    gender: null
+    notes:
+      en: Adverb of negation
+      ko: 부정 부사
+  - latin: olim
+    translation:
+      en: once, formerly, one day
+      ko: 한때, 예전에, 언젠가
+    gender: null
+    notes:
+      en: Adverb; used in narrative past
+      ko: 부사; 과거 서술에 사용
+  - latin: tandem
+    translation:
+      en: at last, finally
+      ko: 마침내, 드디어
+    gender: null
+    notes:
+      en: Adverb; often with perfect tense
+      ko: 부사; 완료 시제와 자주 사용
+  - latin: nuper
+    translation:
+      en: recently, lately
+      ko: 최근에
+    gender: null
+    notes:
+      en: Adverb; triggers perfect tense
+      ko: 부사; 완료 시제 유발
+  - latin: saepe
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+    notes:
+      en: Adverb of frequency
+      ko: 빈도 부사
+  - latin: semel
+    translation:
+      en: once (one time)
+      ko: 한 번
+    gender: null
+    notes:
+      en: Numeral adverb
+      ko: 수사 부사
+  - latin: bis
+    translation:
+      en: twice
+      ko: 두 번
+    gender: null
+    notes:
+      en: Numeral adverb
+      ko: 수사 부사
+  - latin: ter
+    translation:
+      en: three times
+      ko: 세 번
+    gender: null
+    notes:
+      en: Numeral adverb
+      ko: 수사 부사
+  - latin: nondum
+    translation:
+      en: not yet
+      ko: 아직 ~않다
+    gender: null
+    notes:
+      en: Adverb; common with perfect tense
+      ko: 부사; 완료 시제와 자주 사용
+  - latin: statim
+    translation:
+      en: immediately, at once
+      ko: 즉시, 곧바로
+    gender: null
+    notes:
+      en: Adverb of time
+      ko: 시간 부사
+  - latin: subito
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+    notes:
+      en: Adverb; common in narrative
+      ko: 부사; 서술에서 자주 사용
+- id: 114_narrative_vocabulary
+  label:
+    en: 11.4 Narrative Vocabulary
+    ko: 11.4 서사 어휘
+  type: vocabulary
+  words:
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: 2nd declension neuter; bellum, -i
+      ko: 제2변화 중성명사; bellum, -i
+  - latin: proelium
+    translation:
+      en: battle
+      ko: 전투
+    gender: n
+    notes:
+      en: 2nd declension neuter; proelium, -i
+      ko: 제2변화 중성명사; proelium, -i
+  - latin: victoria
+    translation:
+      en: victory
+      ko: 승리
+    gender: f
+    notes:
+      en: 1st declension; victoria, -ae
+      ko: 제1변화 여성명사; victoria, -ae
+  - latin: imperator
+    translation:
+      en: commander, general, emperor
+      ko: 사령관, 장군, 황제
+    gender: m
+    notes:
+      en: 3rd declension; imperator, -oris
+      ko: 제3변화 남성명사; imperator, -oris
+  - latin: hostis
+    translation:
+      en: enemy (public)
+      ko: (공적인) 적
+    gender: m
+    notes:
+      en: 3rd declension i-stem; hostis, -is
+      ko: 제3변화 i-어간 남성명사; hostis, -is
+  - latin: exercitus
+    translation:
+      en: army
+      ko: 군대
+    gender: m
+    notes:
+      en: 4th declension; exercitus, -us
+      ko: 제4변화 남성명사; exercitus, -us
+  - latin: castra
+    translation:
+      en: camp (military)
+      ko: (군사) 진영
+    gender: n
+    notes:
+      en: 2nd declension neuter plural; castra, -orum
+      ko: 제2변화 중성 복수명사; castra, -orum
+  - latin: miles
+    translation:
+      en: soldier
+      ko: 군인, 병사
+    gender: m
+    notes:
+      en: 3rd declension; miles, militis
+      ko: 제3변화 남성명사; miles, militis
+  - latin: dux
+    translation:
+      en: leader, general
+      ko: 지도자, 장군
+    gender: m
+    notes:
+      en: 3rd declension; dux, ducis
+      ko: 제3변화 남성명사; dux, ducis
+  - latin: arma
+    translation:
+      en: arms, weapons
+      ko: 무기
+    gender: n
+    notes:
+      en: 2nd declension neuter plural; arma, -orum
+      ko: 제2변화 중성 복수명사; arma, -orum
+  - latin: gladius
+    translation:
+      en: sword
+      ko: 칼, 검
+    gender: m
+    notes:
+      en: 2nd declension; gladius, -i
+      ko: 제2변화 남성명사; gladius, -i
+  - latin: nuntius
+    translation:
+      en: messenger, message
+      ko: 사자, 소식
+    gender: m
+    notes:
+      en: 2nd declension; nuntius, -i
+      ko: 제2변화 남성명사; nuntius, -i
+  - latin: fuga
+    translation:
+      en: flight, escape
+      ko: 도주, 탈출
+    gender: f
+    notes:
+      en: 1st declension; fuga, -ae
+      ko: 제1변화 여성명사; fuga, -ae
+  - latin: pax
+    translation:
+      en: peace
+      ko: 평화
+    gender: f
+    notes:
+      en: 3rd declension; pax, pacis
+      ko: 제3변화 여성명사; pax, pacis
+  - latin: clades
+    translation:
+      en: disaster, defeat
+      ko: 패배, 재앙
+    gender: f
+    notes:
+      en: 3rd declension; clades, -is
+      ko: 제3변화 여성명사; clades, -is
+  - latin: imperium
+    translation:
+      en: command, empire, power
+      ko: 명령, 제국, 권력
+    gender: n
+    notes:
+      en: 2nd declension neuter; imperium, -i
+      ko: 제2변화 중성명사; imperium, -i
+  - latin: senatus
+    translation:
+      en: senate
+      ko: 원로원
+    gender: m
+    notes:
+      en: 4th declension; senatus, -us
+      ko: 제4변화 남성명사; senatus, -us
+  - latin: consul
+    translation:
+      en: consul
+      ko: 집정관
+    gender: m
+    notes:
+      en: 3rd declension; consul, -is
+      ko: 제3변화 남성명사; consul, -is
+  - latin: legio
+    translation:
+      en: legion
+      ko: 군단
+    gender: f
+    notes:
+      en: 3rd declension; legio, -onis
+      ko: 제3변화 여성명사; legio, -onis
+  - latin: praemium
+    translation:
+      en: reward, prize
+      ko: 보상, 상
+    gender: n
+    notes:
+      en: 2nd declension neuter; praemium, -i
+      ko: 제2변화 중성명사; praemium, -i
+  - latin: populus
+    translation:
+      en: people, nation
+      ko: 국민, 민족
+    gender: m
+    notes:
+      en: 2nd declension; populus, -i
+      ko: 제2변화 남성명사; populus, -i
+  - latin: res publica
+    translation:
+      en: republic, state, public affair
+      ko: 공화국, 국가, 공공사
+    gender: f
+    notes:
+      en: res (5th decl.) + publica (adj.); irregular compound
+      ko: res (제5변화) + publica (형용사); 불규칙 합성어
+  - latin: copia
+    translation:
+      en: supply, abundance; (pl.) troops
+      ko: 공급, 풍요; (복수) 군대
+    gender: f
+    notes:
+      en: 1st declension; copiae (pl.) = troops, forces
+      ko: 제1변화 여성명사; copiae (복수) = 군대
+  - latin: pugna
+    translation:
+      en: fight, battle
+      ko: 싸움, 전투
+    gender: f
+    notes:
+      en: 1st declension; pugna, -ae
+      ko: 제1변화 여성명사; pugna, -ae
+  - latin: mors
+    translation:
+      en: death
+      ko: 죽음
+    gender: f
+    notes:
+      en: 3rd declension; mors, mortis
+      ko: 제3변화 여성명사; mors, mortis
+  - latin: virtus
+    translation:
+      en: courage, virtue, excellence
+      ko: 용기, 덕, 탁월함
+    gender: f
+    notes:
+      en: 3rd declension; virtus, -utis
+      ko: 제3변화 여성명사; virtus, -utis
+  - latin: fides
+    translation:
+      en: faith, trust, loyalty
+      ko: 믿음, 신뢰, 충성
+    gender: f
+    notes:
+      en: 5th declension; fides, -ei
+      ko: 제5변화 여성명사; fides, -ei
+  - latin: patria
+    translation:
+      en: fatherland, homeland
+      ko: 조국
+    gender: f
+    notes:
+      en: 1st declension; patria, -ae
+      ko: 제1변화 여성명사; patria, -ae
