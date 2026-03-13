@@ -1,0 +1,1464 @@
+# Latin Verb Conjugation Paradigms
+# All tenses: praesens, imperfectum, futurum, perfectum, plusquamperfectum,
+#             futurum_exactum, praesens_passivum, coniunctivus_praesens,
+#             coniunctivus_imperfectum
+
+verbs:
+  # ============================================================
+  # REGULAR VERBS
+  # ============================================================
+  amare:
+    infinitive: amare
+    type: regular
+    group: "1st (-ARE)"
+    stem_change: null
+    meaning:
+      en: to love
+      ko: 사랑하다
+    principal_parts: "amo, amare, amavi, amatum"
+    past_participle: amatus
+    gerund: amandum
+    tenses:
+      praesens:
+        ego: amo
+        tu: amas
+        is/ea/id: amat
+        nos: amamus
+        vos: amatis
+        ei/eae/ea: amant
+      imperfectum:
+        ego: amabam
+        tu: amabas
+        is/ea/id: amabat
+        nos: amabamus
+        vos: amabatis
+        ei/eae/ea: amabant
+      futurum:
+        ego: amabo
+        tu: amabis
+        is/ea/id: amabit
+        nos: amabimus
+        vos: amabitis
+        ei/eae/ea: amabunt
+      perfectum:
+        ego: amavi
+        tu: amavisti
+        is/ea/id: amavit
+        nos: amavimus
+        vos: amavistis
+        ei/eae/ea: amaverunt
+      plusquamperfectum:
+        ego: amaveram
+        tu: amaveras
+        is/ea/id: amaverat
+        nos: amaveramus
+        vos: amaveratis
+        ei/eae/ea: amaverant
+      futurum_exactum:
+        ego: amavero
+        tu: amaveris
+        is/ea/id: amaverit
+        nos: amaverimus
+        vos: amaveritis
+        ei/eae/ea: amaverint
+      praesens_passivum:
+        ego: amor
+        tu: amaris
+        is/ea/id: amatur
+        nos: amamur
+        vos: amamini
+        ei/eae/ea: amantur
+      coniunctivus_praesens:
+        ego: amem
+        tu: ames
+        is/ea/id: amet
+        nos: amemus
+        vos: ametis
+        ei/eae/ea: ament
+      coniunctivus_imperfectum:
+        ego: amarem
+        tu: amares
+        is/ea/id: amaret
+        nos: amaremus
+        vos: amaretis
+        ei/eae/ea: amarent
+
+  laudare:
+    infinitive: laudare
+    type: regular
+    group: "1st (-ARE)"
+    stem_change: null
+    meaning:
+      en: to praise
+      ko: 칭찬하다
+    principal_parts: "laudo, laudare, laudavi, laudatum"
+    past_participle: laudatus
+    gerund: laudandum
+    tenses:
+      praesens:
+        ego: laudo
+        tu: laudas
+        is/ea/id: laudat
+        nos: laudamus
+        vos: laudatis
+        ei/eae/ea: laudant
+      imperfectum:
+        ego: laudabam
+        tu: laudabas
+        is/ea/id: laudabat
+        nos: laudabamus
+        vos: laudabatis
+        ei/eae/ea: laudabant
+      futurum:
+        ego: laudabo
+        tu: laudabis
+        is/ea/id: laudabit
+        nos: laudabimus
+        vos: laudabitis
+        ei/eae/ea: laudabunt
+      perfectum:
+        ego: laudavi
+        tu: laudavisti
+        is/ea/id: laudavit
+        nos: laudavimus
+        vos: laudavistis
+        ei/eae/ea: laudaverunt
+      plusquamperfectum:
+        ego: laudaveram
+        tu: laudaveras
+        is/ea/id: laudaverat
+        nos: laudaveramus
+        vos: laudaveratis
+        ei/eae/ea: laudaverant
+      futurum_exactum:
+        ego: laudavero
+        tu: laudaveris
+        is/ea/id: laudaverit
+        nos: laudaverimus
+        vos: laudaveritis
+        ei/eae/ea: laudaverint
+      praesens_passivum:
+        ego: laudor
+        tu: laudaris
+        is/ea/id: laudatur
+        nos: laudamur
+        vos: laudamini
+        ei/eae/ea: laudantur
+      coniunctivus_praesens:
+        ego: laudem
+        tu: laudes
+        is/ea/id: laudet
+        nos: laudemus
+        vos: laudetis
+        ei/eae/ea: laudent
+      coniunctivus_imperfectum:
+        ego: laudarem
+        tu: laudares
+        is/ea/id: laudaret
+        nos: laudaremus
+        vos: laudaretis
+        ei/eae/ea: laudarent
+
+  monere:
+    infinitive: monere
+    type: regular
+    group: "2nd (-ERE)"
+    stem_change: null
+    meaning:
+      en: to warn
+      ko: 경고하다
+    principal_parts: "moneo, monere, monui, monitum"
+    past_participle: monitus
+    gerund: monendum
+    tenses:
+      praesens:
+        ego: moneo
+        tu: mones
+        is/ea/id: monet
+        nos: monemus
+        vos: monetis
+        ei/eae/ea: monent
+      imperfectum:
+        ego: monebam
+        tu: monebas
+        is/ea/id: monebat
+        nos: monebamus
+        vos: monebatis
+        ei/eae/ea: monebant
+      futurum:
+        ego: monebo
+        tu: monebis
+        is/ea/id: monebit
+        nos: monebimus
+        vos: monebitis
+        ei/eae/ea: monebunt
+      perfectum:
+        ego: monui
+        tu: monuisti
+        is/ea/id: monuit
+        nos: monuimus
+        vos: monuistis
+        ei/eae/ea: monuerunt
+      plusquamperfectum:
+        ego: monueram
+        tu: monueras
+        is/ea/id: monuerat
+        nos: monueramus
+        vos: monueratis
+        ei/eae/ea: monuerant
+      futurum_exactum:
+        ego: monuero
+        tu: monueris
+        is/ea/id: monuerit
+        nos: monuerimus
+        vos: monueritis
+        ei/eae/ea: monuerint
+      praesens_passivum:
+        ego: moneor
+        tu: moneris
+        is/ea/id: monetur
+        nos: monemur
+        vos: monemini
+        ei/eae/ea: monentur
+      coniunctivus_praesens:
+        ego: moneam
+        tu: moneas
+        is/ea/id: moneat
+        nos: moneamus
+        vos: moneatis
+        ei/eae/ea: moneant
+      coniunctivus_imperfectum:
+        ego: monerem
+        tu: moneres
+        is/ea/id: moneret
+        nos: moneremus
+        vos: moneretis
+        ei/eae/ea: monerent
+
+  habere:
+    infinitive: habere
+    type: regular
+    group: "2nd (-ERE)"
+    stem_change: null
+    meaning:
+      en: to have
+      ko: 가지다
+    principal_parts: "habeo, habere, habui, habitum"
+    past_participle: habitus
+    gerund: habendum
+    tenses:
+      praesens:
+        ego: habeo
+        tu: habes
+        is/ea/id: habet
+        nos: habemus
+        vos: habetis
+        ei/eae/ea: habent
+      imperfectum:
+        ego: habebam
+        tu: habebas
+        is/ea/id: habebat
+        nos: habebamus
+        vos: habebatis
+        ei/eae/ea: habebant
+      futurum:
+        ego: habebo
+        tu: habebis
+        is/ea/id: habebit
+        nos: habebimus
+        vos: habebitis
+        ei/eae/ea: habebunt
+      perfectum:
+        ego: habui
+        tu: habuisti
+        is/ea/id: habuit
+        nos: habuimus
+        vos: habuistis
+        ei/eae/ea: habuerunt
+      plusquamperfectum:
+        ego: habueram
+        tu: habueras
+        is/ea/id: habuerat
+        nos: habueramus
+        vos: habueratis
+        ei/eae/ea: habuerant
+      futurum_exactum:
+        ego: habuero
+        tu: habueris
+        is/ea/id: habuerit
+        nos: habuerimus
+        vos: habueritis
+        ei/eae/ea: habuerint
+      praesens_passivum:
+        ego: habeor
+        tu: haberis
+        is/ea/id: habetur
+        nos: habemur
+        vos: habemini
+        ei/eae/ea: habentur
+      coniunctivus_praesens:
+        ego: habeam
+        tu: habeas
+        is/ea/id: habeat
+        nos: habeamus
+        vos: habeatis
+        ei/eae/ea: habeant
+      coniunctivus_imperfectum:
+        ego: haberem
+        tu: haberes
+        is/ea/id: haberet
+        nos: haberemus
+        vos: haberetis
+        ei/eae/ea: haberent
+
+  ducere:
+    infinitive: ducere
+    type: regular
+    group: "3rd (-ERE)"
+    stem_change: null
+    meaning:
+      en: to lead
+      ko: 이끌다
+    principal_parts: "duco, ducere, duxi, ductum"
+    past_participle: ductus
+    gerund: ducendum
+    tenses:
+      praesens:
+        ego: duco
+        tu: ducis
+        is/ea/id: ducit
+        nos: ducimus
+        vos: ducitis
+        ei/eae/ea: ducunt
+      imperfectum:
+        ego: ducebam
+        tu: ducebas
+        is/ea/id: ducebat
+        nos: ducebamus
+        vos: ducebatis
+        ei/eae/ea: ducebant
+      futurum:
+        ego: ducam
+        tu: duces
+        is/ea/id: ducet
+        nos: ducemus
+        vos: ducetis
+        ei/eae/ea: ducent
+      perfectum:
+        ego: duxi
+        tu: duxisti
+        is/ea/id: duxit
+        nos: duximus
+        vos: duxistis
+        ei/eae/ea: duxerunt
+      plusquamperfectum:
+        ego: duxeram
+        tu: duxeras
+        is/ea/id: duxerat
+        nos: duxeramus
+        vos: duxeratis
+        ei/eae/ea: duxerant
+      futurum_exactum:
+        ego: duxero
+        tu: duxeris
+        is/ea/id: duxerit
+        nos: duxerimus
+        vos: duxeritis
+        ei/eae/ea: duxerint
+      praesens_passivum:
+        ego: ducor
+        tu: duceris
+        is/ea/id: ducitur
+        nos: ducimur
+        vos: ducimini
+        ei/eae/ea: ducuntur
+      coniunctivus_praesens:
+        ego: ducam
+        tu: ducas
+        is/ea/id: ducat
+        nos: ducamus
+        vos: ducatis
+        ei/eae/ea: ducant
+      coniunctivus_imperfectum:
+        ego: ducerem
+        tu: duceres
+        is/ea/id: duceret
+        nos: duceremus
+        vos: duceretis
+        ei/eae/ea: ducerent
+
+  scribere:
+    infinitive: scribere
+    type: regular
+    group: "3rd (-ERE)"
+    stem_change: null
+    meaning:
+      en: to write
+      ko: 쓰다
+    principal_parts: "scribo, scribere, scripsi, scriptum"
+    past_participle: scriptus
+    gerund: scribendum
+    tenses:
+      praesens:
+        ego: scribo
+        tu: scribis
+        is/ea/id: scribit
+        nos: scribimus
+        vos: scribitis
+        ei/eae/ea: scribunt
+      imperfectum:
+        ego: scribebam
+        tu: scribebas
+        is/ea/id: scribebat
+        nos: scribebamus
+        vos: scribebatis
+        ei/eae/ea: scribebant
+      futurum:
+        ego: scribam
+        tu: scribes
+        is/ea/id: scribet
+        nos: scribemus
+        vos: scribetis
+        ei/eae/ea: scribent
+      perfectum:
+        ego: scripsi
+        tu: scripsisti
+        is/ea/id: scripsit
+        nos: scripsimus
+        vos: scripsistis
+        ei/eae/ea: scripserunt
+      plusquamperfectum:
+        ego: scripseram
+        tu: scripseras
+        is/ea/id: scripserat
+        nos: scripseramus
+        vos: scripseratis
+        ei/eae/ea: scripserant
+      futurum_exactum:
+        ego: scripsero
+        tu: scripseris
+        is/ea/id: scripserit
+        nos: scripserimus
+        vos: scripseritis
+        ei/eae/ea: scripserint
+      praesens_passivum:
+        ego: scribor
+        tu: scriberis
+        is/ea/id: scribitur
+        nos: scribimur
+        vos: scribimini
+        ei/eae/ea: scribuntur
+      coniunctivus_praesens:
+        ego: scribam
+        tu: scribas
+        is/ea/id: scribat
+        nos: scribamus
+        vos: scribatis
+        ei/eae/ea: scribant
+      coniunctivus_imperfectum:
+        ego: scriberem
+        tu: scriberes
+        is/ea/id: scriberet
+        nos: scriberemus
+        vos: scriberetis
+        ei/eae/ea: scriberent
+
+  audire:
+    infinitive: audire
+    type: regular
+    group: "4th (-IRE)"
+    stem_change: null
+    meaning:
+      en: to hear
+      ko: 듣다
+    principal_parts: "audio, audire, audivi, auditum"
+    past_participle: auditus
+    gerund: audiendum
+    tenses:
+      praesens:
+        ego: audio
+        tu: audis
+        is/ea/id: audit
+        nos: audimus
+        vos: auditis
+        ei/eae/ea: audiunt
+      imperfectum:
+        ego: audiebam
+        tu: audiebas
+        is/ea/id: audiebat
+        nos: audiebamus
+        vos: audiebatis
+        ei/eae/ea: audiebant
+      futurum:
+        ego: audiam
+        tu: audies
+        is/ea/id: audiet
+        nos: audiemus
+        vos: audietis
+        ei/eae/ea: audient
+      perfectum:
+        ego: audivi
+        tu: audivisti
+        is/ea/id: audivit
+        nos: audivimus
+        vos: audivistis
+        ei/eae/ea: audiverunt
+      plusquamperfectum:
+        ego: audiveram
+        tu: audiveras
+        is/ea/id: audiverat
+        nos: audiveramus
+        vos: audiveratis
+        ei/eae/ea: audiverant
+      futurum_exactum:
+        ego: audivero
+        tu: audiveris
+        is/ea/id: audiverit
+        nos: audiverimus
+        vos: audiveritis
+        ei/eae/ea: audiverint
+      praesens_passivum:
+        ego: audior
+        tu: audiris
+        is/ea/id: auditur
+        nos: audimur
+        vos: audimini
+        ei/eae/ea: audiuntur
+      coniunctivus_praesens:
+        ego: audiam
+        tu: audias
+        is/ea/id: audiat
+        nos: audiamus
+        vos: audiatis
+        ei/eae/ea: audiant
+      coniunctivus_imperfectum:
+        ego: audirem
+        tu: audires
+        is/ea/id: audiret
+        nos: audiremus
+        vos: audiretis
+        ei/eae/ea: audirent
+
+  venire:
+    infinitive: venire
+    type: regular
+    group: "4th (-IRE)"
+    stem_change: null
+    meaning:
+      en: to come
+      ko: 오다
+    principal_parts: "venio, venire, veni, ventum"
+    past_participle: ventus
+    gerund: veniendum
+    tenses:
+      praesens:
+        ego: venio
+        tu: venis
+        is/ea/id: venit
+        nos: venimus
+        vos: venitis
+        ei/eae/ea: veniunt
+      imperfectum:
+        ego: veniebam
+        tu: veniebas
+        is/ea/id: veniebat
+        nos: veniebamus
+        vos: veniebatis
+        ei/eae/ea: veniebant
+      futurum:
+        ego: veniam
+        tu: venies
+        is/ea/id: veniet
+        nos: veniemus
+        vos: venietis
+        ei/eae/ea: venient
+      perfectum:
+        ego: veni
+        tu: venisti
+        is/ea/id: venit
+        nos: venimus
+        vos: venistis
+        ei/eae/ea: venerunt
+      plusquamperfectum:
+        ego: veneram
+        tu: veneras
+        is/ea/id: venerat
+        nos: veneramus
+        vos: veneratis
+        ei/eae/ea: venerant
+      futurum_exactum:
+        ego: venero
+        tu: veneris
+        is/ea/id: venerit
+        nos: venerimus
+        vos: veneritis
+        ei/eae/ea: venerint
+      praesens_passivum:
+        ego: venior
+        tu: veniris
+        is/ea/id: venitur
+        nos: venimur
+        vos: venimini
+        ei/eae/ea: veniuntur
+      coniunctivus_praesens:
+        ego: veniam
+        tu: venias
+        is/ea/id: veniat
+        nos: veniamus
+        vos: veniatis
+        ei/eae/ea: veniant
+      coniunctivus_imperfectum:
+        ego: venirem
+        tu: venires
+        is/ea/id: veniret
+        nos: veniremus
+        vos: veniretis
+        ei/eae/ea: venirent
+
+  # ============================================================
+  # 3RD -IO CONJUGATION
+  # ============================================================
+  capere:
+    infinitive: capere
+    type: regular
+    group: "3rd-io (-ERE)"
+    stem_change: null
+    meaning:
+      en: to take
+      ko: 잡다
+    principal_parts: "capio, capere, cepi, captum"
+    past_participle: captus
+    gerund: capiendum
+    tenses:
+      praesens:
+        ego: capio
+        tu: capis
+        is/ea/id: capit
+        nos: capimus
+        vos: capitis
+        ei/eae/ea: capiunt
+      imperfectum:
+        ego: capiebam
+        tu: capiebas
+        is/ea/id: capiebat
+        nos: capiebamus
+        vos: capiebatis
+        ei/eae/ea: capiebant
+      futurum:
+        ego: capiam
+        tu: capies
+        is/ea/id: capiet
+        nos: capiemus
+        vos: capietis
+        ei/eae/ea: capient
+      perfectum:
+        ego: cepi
+        tu: cepisti
+        is/ea/id: cepit
+        nos: cepimus
+        vos: cepistis
+        ei/eae/ea: ceperunt
+      plusquamperfectum:
+        ego: ceperam
+        tu: ceperas
+        is/ea/id: ceperat
+        nos: ceperamus
+        vos: ceperatis
+        ei/eae/ea: ceperant
+      futurum_exactum:
+        ego: cepero
+        tu: ceperis
+        is/ea/id: ceperit
+        nos: ceperimus
+        vos: ceperitis
+        ei/eae/ea: ceperint
+      praesens_passivum:
+        ego: capior
+        tu: caperis
+        is/ea/id: capitur
+        nos: capimur
+        vos: capimini
+        ei/eae/ea: capiuntur
+      coniunctivus_praesens:
+        ego: capiam
+        tu: capias
+        is/ea/id: capiat
+        nos: capiamus
+        vos: capiatis
+        ei/eae/ea: capiant
+      coniunctivus_imperfectum:
+        ego: caperem
+        tu: caperes
+        is/ea/id: caperet
+        nos: caperemus
+        vos: caperetis
+        ei/eae/ea: caperent
+
+  facere:
+    infinitive: facere
+    type: regular
+    group: "3rd-io (-ERE)"
+    stem_change: null
+    meaning:
+      en: to make/do
+      ko: 만들다/하다
+    principal_parts: "facio, facere, feci, factum"
+    past_participle: factus
+    gerund: faciendum
+    tenses:
+      praesens:
+        ego: facio
+        tu: facis
+        is/ea/id: facit
+        nos: facimus
+        vos: facitis
+        ei/eae/ea: faciunt
+      imperfectum:
+        ego: faciebam
+        tu: faciebas
+        is/ea/id: faciebat
+        nos: faciebamus
+        vos: faciebatis
+        ei/eae/ea: faciebant
+      futurum:
+        ego: faciam
+        tu: facies
+        is/ea/id: faciet
+        nos: faciemus
+        vos: facietis
+        ei/eae/ea: facient
+      perfectum:
+        ego: feci
+        tu: fecisti
+        is/ea/id: fecit
+        nos: fecimus
+        vos: fecistis
+        ei/eae/ea: fecerunt
+      plusquamperfectum:
+        ego: feceram
+        tu: feceras
+        is/ea/id: fecerat
+        nos: feceramus
+        vos: feceratis
+        ei/eae/ea: fecerant
+      futurum_exactum:
+        ego: fecero
+        tu: feceris
+        is/ea/id: fecerit
+        nos: fecerimus
+        vos: feceritis
+        ei/eae/ea: fecerint
+      praesens_passivum:
+        ego: fior
+        tu: fis
+        is/ea/id: fit
+        nos: fimus
+        vos: fitis
+        ei/eae/ea: fiunt
+      coniunctivus_praesens:
+        ego: faciam
+        tu: facias
+        is/ea/id: faciat
+        nos: faciamus
+        vos: faciatis
+        ei/eae/ea: faciant
+      coniunctivus_imperfectum:
+        ego: facerem
+        tu: faceres
+        is/ea/id: faceret
+        nos: faceremus
+        vos: faceretis
+        ei/eae/ea: facerent
+
+  # ============================================================
+  # IRREGULAR VERBS
+  # ============================================================
+  esse:
+    infinitive: esse
+    type: irregular
+    group: irregular
+    stem_change: null
+    meaning:
+      en: to be
+      ko: 이다/있다
+    principal_parts: "sum, esse, fui, futurus"
+    past_participle: null
+    gerund: null
+    tenses:
+      praesens:
+        ego: sum
+        tu: es
+        is/ea/id: est
+        nos: sumus
+        vos: estis
+        ei/eae/ea: sunt
+      imperfectum:
+        ego: eram
+        tu: eras
+        is/ea/id: erat
+        nos: eramus
+        vos: eratis
+        ei/eae/ea: erant
+      futurum:
+        ego: ero
+        tu: eris
+        is/ea/id: erit
+        nos: erimus
+        vos: eritis
+        ei/eae/ea: erunt
+      perfectum:
+        ego: fui
+        tu: fuisti
+        is/ea/id: fuit
+        nos: fuimus
+        vos: fuistis
+        ei/eae/ea: fuerunt
+      plusquamperfectum:
+        ego: fueram
+        tu: fueras
+        is/ea/id: fuerat
+        nos: fueramus
+        vos: fueratis
+        ei/eae/ea: fuerant
+      futurum_exactum:
+        ego: fuero
+        tu: fueris
+        is/ea/id: fuerit
+        nos: fuerimus
+        vos: fueritis
+        ei/eae/ea: fuerint
+      coniunctivus_praesens:
+        ego: sim
+        tu: sis
+        is/ea/id: sit
+        nos: simus
+        vos: sitis
+        ei/eae/ea: sint
+      coniunctivus_imperfectum:
+        ego: essem
+        tu: esses
+        is/ea/id: esset
+        nos: essemus
+        vos: essetis
+        ei/eae/ea: essent
+
+  posse:
+    infinitive: posse
+    type: irregular
+    group: irregular
+    stem_change: "pot-/pos- (pos- before s)"
+    meaning:
+      en: to be able
+      ko: 할 수 있다
+    principal_parts: "possum, posse, potui, —"
+    past_participle: null
+    gerund: null
+    tenses:
+      praesens:
+        ego: possum
+        tu: potes
+        is/ea/id: potest
+        nos: possumus
+        vos: potestis
+        ei/eae/ea: possunt
+      imperfectum:
+        ego: poteram
+        tu: poteras
+        is/ea/id: poterat
+        nos: poteramus
+        vos: poteratis
+        ei/eae/ea: poterant
+      futurum:
+        ego: potero
+        tu: poteris
+        is/ea/id: poterit
+        nos: poterimus
+        vos: poteritis
+        ei/eae/ea: poterunt
+      perfectum:
+        ego: potui
+        tu: potuisti
+        is/ea/id: potuit
+        nos: potuimus
+        vos: potuistis
+        ei/eae/ea: potuerunt
+      plusquamperfectum:
+        ego: potueram
+        tu: potueras
+        is/ea/id: potuerat
+        nos: potueramus
+        vos: potueratis
+        ei/eae/ea: potuerant
+      futurum_exactum:
+        ego: potuero
+        tu: potueris
+        is/ea/id: potuerit
+        nos: potuerimus
+        vos: potueritis
+        ei/eae/ea: potuerint
+      coniunctivus_praesens:
+        ego: possim
+        tu: possis
+        is/ea/id: possit
+        nos: possimus
+        vos: possitis
+        ei/eae/ea: possint
+      coniunctivus_imperfectum:
+        ego: possem
+        tu: posses
+        is/ea/id: posset
+        nos: possemus
+        vos: possetis
+        ei/eae/ea: possent
+
+  ire:
+    infinitive: ire
+    type: irregular
+    group: irregular
+    stem_change: "i-/e-"
+    meaning:
+      en: to go
+      ko: 가다
+    principal_parts: "eo, ire, ivi/ii, itum"
+    past_participle: itus
+    gerund: eundum
+    tenses:
+      praesens:
+        ego: eo
+        tu: is
+        is/ea/id: it
+        nos: imus
+        vos: itis
+        ei/eae/ea: eunt
+      imperfectum:
+        ego: ibam
+        tu: ibas
+        is/ea/id: ibat
+        nos: ibamus
+        vos: ibatis
+        ei/eae/ea: ibant
+      futurum:
+        ego: ibo
+        tu: ibis
+        is/ea/id: ibit
+        nos: ibimus
+        vos: ibitis
+        ei/eae/ea: ibunt
+      perfectum:
+        ego: ivi
+        tu: ivisti
+        is/ea/id: ivit
+        nos: ivimus
+        vos: ivistis
+        ei/eae/ea: iverunt
+      plusquamperfectum:
+        ego: iveram
+        tu: iveras
+        is/ea/id: iverat
+        nos: iveramus
+        vos: iveratis
+        ei/eae/ea: iverant
+      futurum_exactum:
+        ego: ivero
+        tu: iveris
+        is/ea/id: iverit
+        nos: iverimus
+        vos: iveritis
+        ei/eae/ea: iverint
+      coniunctivus_praesens:
+        ego: eam
+        tu: eas
+        is/ea/id: eat
+        nos: eamus
+        vos: eatis
+        ei/eae/ea: eant
+      coniunctivus_imperfectum:
+        ego: irem
+        tu: ires
+        is/ea/id: iret
+        nos: iremus
+        vos: iretis
+        ei/eae/ea: irent
+
+  ferre:
+    infinitive: ferre
+    type: irregular
+    group: irregular
+    stem_change: "fer-/tul-/lat-"
+    meaning:
+      en: to carry
+      ko: 나르다/운반하다
+    principal_parts: "fero, ferre, tuli, latum"
+    past_participle: latus
+    gerund: ferendum
+    tenses:
+      praesens:
+        ego: fero
+        tu: fers
+        is/ea/id: fert
+        nos: ferimus
+        vos: fertis
+        ei/eae/ea: ferunt
+      imperfectum:
+        ego: ferebam
+        tu: ferebas
+        is/ea/id: ferebat
+        nos: ferebamus
+        vos: ferebatis
+        ei/eae/ea: ferebant
+      futurum:
+        ego: feram
+        tu: feres
+        is/ea/id: feret
+        nos: feremus
+        vos: feretis
+        ei/eae/ea: ferent
+      perfectum:
+        ego: tuli
+        tu: tulisti
+        is/ea/id: tulit
+        nos: tulimus
+        vos: tulistis
+        ei/eae/ea: tulerunt
+      plusquamperfectum:
+        ego: tuleram
+        tu: tuleras
+        is/ea/id: tulerat
+        nos: tuleramus
+        vos: tuleratis
+        ei/eae/ea: tulerant
+      futurum_exactum:
+        ego: tulero
+        tu: tuleris
+        is/ea/id: tulerit
+        nos: tulerimus
+        vos: tuleritis
+        ei/eae/ea: tulerint
+      praesens_passivum:
+        ego: feror
+        tu: ferris
+        is/ea/id: fertur
+        nos: ferimur
+        vos: ferimini
+        ei/eae/ea: feruntur
+      coniunctivus_praesens:
+        ego: feram
+        tu: feras
+        is/ea/id: ferat
+        nos: feramus
+        vos: feratis
+        ei/eae/ea: ferant
+      coniunctivus_imperfectum:
+        ego: ferrem
+        tu: ferres
+        is/ea/id: ferret
+        nos: ferremus
+        vos: ferretis
+        ei/eae/ea: ferrent
+
+  velle:
+    infinitive: velle
+    type: irregular
+    group: irregular
+    stem_change: "vol-/vel-/vul-"
+    meaning:
+      en: to want
+      ko: 원하다
+    principal_parts: "volo, velle, volui, —"
+    past_participle: null
+    gerund: null
+    tenses:
+      praesens:
+        ego: volo
+        tu: vis
+        is/ea/id: vult
+        nos: volumus
+        vos: vultis
+        ei/eae/ea: volunt
+      imperfectum:
+        ego: volebam
+        tu: volebas
+        is/ea/id: volebat
+        nos: volebamus
+        vos: volebatis
+        ei/eae/ea: volebant
+      futurum:
+        ego: volam
+        tu: voles
+        is/ea/id: volet
+        nos: volemus
+        vos: voletis
+        ei/eae/ea: volent
+      perfectum:
+        ego: volui
+        tu: voluisti
+        is/ea/id: voluit
+        nos: voluimus
+        vos: voluistis
+        ei/eae/ea: voluerunt
+      plusquamperfectum:
+        ego: volueram
+        tu: volueras
+        is/ea/id: voluerat
+        nos: volueramus
+        vos: volueratis
+        ei/eae/ea: voluerant
+      futurum_exactum:
+        ego: voluero
+        tu: volueris
+        is/ea/id: voluerit
+        nos: voluerimus
+        vos: volueritis
+        ei/eae/ea: voluerint
+      coniunctivus_praesens:
+        ego: velim
+        tu: velis
+        is/ea/id: velit
+        nos: velimus
+        vos: velitis
+        ei/eae/ea: velint
+      coniunctivus_imperfectum:
+        ego: vellem
+        tu: velles
+        is/ea/id: vellet
+        nos: vellemus
+        vos: velletis
+        ei/eae/ea: vellent
+
+  nolle:
+    infinitive: nolle
+    type: irregular
+    group: irregular
+    stem_change: "nol-/non vis"
+    meaning:
+      en: to not want
+      ko: 원하지 않다
+    principal_parts: "nolo, nolle, nolui, —"
+    past_participle: null
+    gerund: null
+    tenses:
+      praesens:
+        ego: nolo
+        tu: non vis
+        is/ea/id: non vult
+        nos: nolumus
+        vos: non vultis
+        ei/eae/ea: nolunt
+      imperfectum:
+        ego: nolebam
+        tu: nolebas
+        is/ea/id: nolebat
+        nos: nolebamus
+        vos: nolebatis
+        ei/eae/ea: nolebant
+      futurum:
+        ego: nolam
+        tu: noles
+        is/ea/id: nolet
+        nos: nolemus
+        vos: noletis
+        ei/eae/ea: nolent
+      perfectum:
+        ego: nolui
+        tu: noluisti
+        is/ea/id: noluit
+        nos: noluimus
+        vos: noluistis
+        ei/eae/ea: noluerunt
+      plusquamperfectum:
+        ego: nolueram
+        tu: nolueras
+        is/ea/id: noluerat
+        nos: nolueramus
+        vos: nolueratis
+        ei/eae/ea: noluerant
+      futurum_exactum:
+        ego: noluero
+        tu: nolueris
+        is/ea/id: noluerit
+        nos: noluerimus
+        vos: nolueritis
+        ei/eae/ea: noluerint
+      coniunctivus_praesens:
+        ego: nolim
+        tu: nolis
+        is/ea/id: nolit
+        nos: nolimus
+        vos: nolitis
+        ei/eae/ea: nolint
+      coniunctivus_imperfectum:
+        ego: nollem
+        tu: nolles
+        is/ea/id: nollet
+        nos: nollemus
+        vos: nolletis
+        ei/eae/ea: nollent
+
+  malle:
+    infinitive: malle
+    type: irregular
+    group: irregular
+    stem_change: "mal-/mavul-"
+    meaning:
+      en: to prefer
+      ko: 더 좋아하다
+    principal_parts: "malo, malle, malui, —"
+    past_participle: null
+    gerund: null
+    tenses:
+      praesens:
+        ego: malo
+        tu: mavis
+        is/ea/id: mavult
+        nos: malumus
+        vos: mavultis
+        ei/eae/ea: malunt
+      imperfectum:
+        ego: malebam
+        tu: malebas
+        is/ea/id: malebat
+        nos: malebamus
+        vos: malebatis
+        ei/eae/ea: malebant
+      futurum:
+        ego: malam
+        tu: males
+        is/ea/id: malet
+        nos: malemus
+        vos: maletis
+        ei/eae/ea: malent
+      perfectum:
+        ego: malui
+        tu: maluisti
+        is/ea/id: maluit
+        nos: maluimus
+        vos: maluistis
+        ei/eae/ea: maluerunt
+      plusquamperfectum:
+        ego: malueram
+        tu: malueras
+        is/ea/id: maluerat
+        nos: malueramus
+        vos: malueratis
+        ei/eae/ea: maluerant
+      futurum_exactum:
+        ego: maluero
+        tu: malueris
+        is/ea/id: maluerit
+        nos: maluerimus
+        vos: malueritis
+        ei/eae/ea: maluerint
+      coniunctivus_praesens:
+        ego: malim
+        tu: malis
+        is/ea/id: malit
+        nos: malimus
+        vos: malitis
+        ei/eae/ea: malint
+      coniunctivus_imperfectum:
+        ego: mallem
+        tu: malles
+        is/ea/id: mallet
+        nos: mallemus
+        vos: malletis
+        ei/eae/ea: mallent
+
+  dare:
+    infinitive: dare
+    type: irregular
+    group: "1st (-ARE) irregular"
+    stem_change: "da-/de-"
+    meaning:
+      en: to give
+      ko: 주다
+    principal_parts: "do, dare, dedi, datum"
+    past_participle: datus
+    gerund: dandum
+    tenses:
+      praesens:
+        ego: do
+        tu: das
+        is/ea/id: dat
+        nos: damus
+        vos: datis
+        ei/eae/ea: dant
+      imperfectum:
+        ego: dabam
+        tu: dabas
+        is/ea/id: dabat
+        nos: dabamus
+        vos: dabatis
+        ei/eae/ea: dabant
+      futurum:
+        ego: dabo
+        tu: dabis
+        is/ea/id: dabit
+        nos: dabimus
+        vos: dabitis
+        ei/eae/ea: dabunt
+      perfectum:
+        ego: dedi
+        tu: dedisti
+        is/ea/id: dedit
+        nos: dedimus
+        vos: dedistis
+        ei/eae/ea: dederunt
+      plusquamperfectum:
+        ego: dederam
+        tu: dederas
+        is/ea/id: dederat
+        nos: dederamus
+        vos: dederatis
+        ei/eae/ea: dederant
+      futurum_exactum:
+        ego: dedero
+        tu: dederis
+        is/ea/id: dederit
+        nos: dederimus
+        vos: dederitis
+        ei/eae/ea: dederint
+      praesens_passivum:
+        ego: dor
+        tu: daris
+        is/ea/id: datur
+        nos: damur
+        vos: damini
+        ei/eae/ea: dantur
+      coniunctivus_praesens:
+        ego: dem
+        tu: des
+        is/ea/id: det
+        nos: demus
+        vos: detis
+        ei/eae/ea: dent
+      coniunctivus_imperfectum:
+        ego: darem
+        tu: dares
+        is/ea/id: daret
+        nos: daremus
+        vos: daretis
+        ei/eae/ea: darent
+
+  fieri:
+    infinitive: fieri
+    type: irregular
+    group: "deponent-like (passive of facere)"
+    stem_change: "fi-"
+    meaning:
+      en: to become/be made
+      ko: 되다/만들어지다
+    principal_parts: "fio, fieri, factus sum, —"
+    past_participle: factus
+    gerund: null
+    tenses:
+      praesens:
+        ego: fio
+        tu: fis
+        is/ea/id: fit
+        nos: fimus
+        vos: fitis
+        ei/eae/ea: fiunt
+      imperfectum:
+        ego: fiebam
+        tu: fiebas
+        is/ea/id: fiebat
+        nos: fiebamus
+        vos: fiebatis
+        ei/eae/ea: fiebant
+      futurum:
+        ego: fiam
+        tu: fies
+        is/ea/id: fiet
+        nos: fiemus
+        vos: fietis
+        ei/eae/ea: fient
+      coniunctivus_praesens:
+        ego: fiam
+        tu: fias
+        is/ea/id: fiat
+        nos: fiamus
+        vos: fiatis
+        ei/eae/ea: fiant
+      coniunctivus_imperfectum:
+        ego: fierem
+        tu: fieres
+        is/ea/id: fieret
+        nos: fieremus
+        vos: fieretis
+        ei/eae/ea: fierent
+
+  edere:
+    infinitive: edere
+    type: irregular
+    group: "3rd (-ERE) irregular"
+    stem_change: "ed-/es-"
+    meaning:
+      en: to eat
+      ko: 먹다
+    principal_parts: "edo, edere/esse, edi, esum"
+    past_participle: esus
+    gerund: edendum
+    tenses:
+      praesens:
+        ego: edo
+        tu: edis
+        is/ea/id: edit
+        nos: edimus
+        vos: editis
+        ei/eae/ea: edunt
+      imperfectum:
+        ego: edebam
+        tu: edebas
+        is/ea/id: edebat
+        nos: edebamus
+        vos: edebatis
+        ei/eae/ea: edebant
+      futurum:
+        ego: edam
+        tu: edes
+        is/ea/id: edet
+        nos: edemus
+        vos: edetis
+        ei/eae/ea: edent
+      perfectum:
+        ego: edi
+        tu: edisti
+        is/ea/id: edit
+        nos: edimus
+        vos: edistis
+        ei/eae/ea: ederunt
+      plusquamperfectum:
+        ego: ederam
+        tu: ederas
+        is/ea/id: ederat
+        nos: ederamus
+        vos: ederatis
+        ei/eae/ea: ederant
+      futurum_exactum:
+        ego: edero
+        tu: ederis
+        is/ea/id: ederit
+        nos: ederimus
+        vos: ederitis
+        ei/eae/ea: ederint
+      praesens_passivum:
+        ego: edor
+        tu: ederis
+        is/ea/id: editur
+        nos: edimur
+        vos: edimini
+        ei/eae/ea: eduntur
+      coniunctivus_praesens:
+        ego: edam
+        tu: edas
+        is/ea/id: edat
+        nos: edamus
+        vos: edatis
+        ei/eae/ea: edant
+      coniunctivus_imperfectum:
+        ego: ederem
+        tu: ederes
+        is/ea/id: ederet
+        nos: ederemus
+        vos: ederetis
+        ei/eae/ea: ederent
