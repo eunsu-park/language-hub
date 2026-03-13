@@ -1,0 +1,337 @@
+lesson: "sup_A2_Travel_and_Roads"
+lesson_number: 107
+cefr: A2
+type: supplementary
+topic: "Travel and Roads"
+categories:
+- id: vehicles
+  label:
+    en: "Vehicles and Transport"
+    ko: "탈것과 교통수단"
+  type: vocabulary
+  words:
+  - latin: currus
+    translation:
+      en: "chariot / cart"
+      ko: "전차 / 수레"
+    gender: m
+    notes:
+      en: "gen. currus; 4th declension; used in triumphs and races"
+      ko: "속격 currus; 제4변화; 개선식과 경주에 사용됨"
+  - latin: navis
+    translation:
+      en: "ship"
+      ko: "배"
+    gender: f
+    notes:
+      en: "gen. navis; 3rd declension; source of 'navy, navigate'"
+      ko: "속격 navis; 제3변화; 영어 'navy, navigate'의 어원"
+  - latin: plaustrum
+    translation:
+      en: "wagon / cart"
+      ko: "짐수레"
+    gender: n
+    notes:
+      en: "gen. plaustri; 2nd declension neuter; heavy transport vehicle"
+      ko: "속격 plaustri; 제2변화 중성; 중량 운송 수단"
+  - latin: raeda
+    translation:
+      en: "traveling carriage"
+      ko: "여행용 마차"
+    gender: f
+    notes:
+      en: "gen. raedae; 1st declension; a Gallic word adopted into Latin"
+      ko: "속격 raedae; 제1변화; 라틴어에 차용된 갈리아어"
+  - latin: lectica
+    translation:
+      en: "litter / sedan chair"
+      ko: "가마"
+    gender: f
+    notes:
+      en: "gen. lecticae; 1st declension; carried by slaves for wealthy Romans"
+      ko: "속격 lecticae; 제1변화; 부유한 로마인을 위해 노예가 운반"
+  - latin: scapha
+    translation:
+      en: "skiff / small boat"
+      ko: "작은 배"
+    gender: f
+    notes:
+      en: "gen. scaphae; 1st declension; from Greek skaphē"
+      ko: "속격 scaphae; 제1변화; 그리스어 skaphē에서 유래"
+  - latin: triremis
+    translation:
+      en: "trireme (warship)"
+      ko: "삼단노선 (군함)"
+    gender: f
+    notes:
+      en: "gen. triremis; 3rd declension; three rows of oars"
+      ko: "속격 triremis; 제3변화; 세 줄의 노"
+  - latin: equus
+    translation:
+      en: "horse (for riding)"
+      ko: "말 (승마용)"
+    gender: m
+    notes:
+      en: "gen. equi; 2nd declension; primary means of fast travel"
+      ko: "속격 equi; 제2변화; 빠른 이동의 주요 수단"
+
+- id: roads
+  label:
+    en: "Roads and Infrastructure"
+    ko: "도로와 기반시설"
+  type: vocabulary
+  words:
+  - latin: via
+    translation:
+      en: "road / way"
+      ko: "도로 / 길"
+    gender: f
+    notes:
+      en: "gen. viae; 1st declension; Via Appia = oldest Roman road"
+      ko: "속격 viae; 제1변화; Via Appia = 가장 오래된 로마 도로"
+  - latin: iter
+    translation:
+      en: "journey / route"
+      ko: "여행 / 경로"
+    gender: n
+    notes:
+      en: "gen. itineris; 3rd declension neuter; source of 'itinerary'"
+      ko: "속격 itineris; 제3변화 중성; 영어 'itinerary'의 어원"
+  - latin: pons
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: m
+    notes:
+      en: "gen. pontis; 3rd declension; source of 'pontiff' (bridge-builder)"
+      ko: "속격 pontis; 제3변화; 영어 'pontiff' (다리를 놓는 자)의 어원"
+  - latin: miliarium
+    translation:
+      en: "milestone"
+      ko: "이정표"
+    gender: n
+    notes:
+      en: "gen. miliarii; 2nd declension neuter; every Roman mile (1,000 paces)"
+      ko: "속격 miliarii; 제2변화 중성; 로마 마일 (1,000보)마다"
+  - latin: taberna
+    translation:
+      en: "inn / shop"
+      ko: "여관 / 가게"
+    gender: f
+    notes:
+      en: "gen. tabernae; 1st declension; source of 'tavern'"
+      ko: "속격 tabernae; 제1변화; 영어 'tavern'의 어원"
+  - latin: mansio
+    translation:
+      en: "stopping place / station"
+      ko: "숙소 / 역참"
+    gender: f
+    notes:
+      en: "gen. mansionis; 3rd declension; source of 'mansion'"
+      ko: "속격 mansionis; 제3변화; 영어 'mansion'의 어원"
+  - latin: portus
+    translation:
+      en: "port / harbor"
+      ko: "항구"
+    gender: m
+    notes:
+      en: "gen. portus; 4th declension; source of 'port'"
+      ko: "속격 portus; 제4변화; 영어 'port'의 어원"
+  - latin: semita
+    translation:
+      en: "path / footpath"
+      ko: "오솔길"
+    gender: f
+    notes:
+      en: "gen. semitae; 1st declension; a narrow side path"
+      ko: "속격 semitae; 제1변화; 좁은 옆길"
+  - latin: aquaeductus
+    translation:
+      en: "aqueduct"
+      ko: "수도교"
+    gender: m
+    notes:
+      en: "gen. aquaeductus; 4th declension; aqua + ductus 'water + leading'"
+      ko: "속격 aquaeductus; 제4변화; aqua + ductus '물 + 이끌기'"
+  - latin: castra
+    translation:
+      en: "military camp (plural)"
+      ko: "군영 (복수형)"
+    gender: n
+    notes:
+      en: "gen. castrorum; 2nd declension neuter plural; source of 'castle, Lancaster'"
+      ko: "속격 castrorum; 제2변화 중성 복수; 영어 'castle, Lancaster'의 어원"
+
+- id: provinces
+  label:
+    en: "Roman Provinces"
+    ko: "로마 속주"
+  type: vocabulary
+  words:
+  - latin: Gallia
+    translation:
+      en: "Gaul (France)"
+      ko: "갈리아 (프랑스)"
+    gender: f
+    notes:
+      en: "gen. Galliae; 1st declension; divided into Cisalpina and Transalpina"
+      ko: "속격 Galliae; 제1변화; 키살피나와 트란살피나로 나뉨"
+  - latin: Hispania
+    translation:
+      en: "Hispania (Spain)"
+      ko: "히스파니아 (스페인)"
+    gender: f
+    notes:
+      en: "gen. Hispaniae; 1st declension; source of 'Spain, España'"
+      ko: "속격 Hispaniae; 제1변화; 영어 'Spain', 스페인어 'España'의 어원"
+  - latin: Britannia
+    translation:
+      en: "Britannia (Britain)"
+      ko: "브리타니아 (영국)"
+    gender: f
+    notes:
+      en: "gen. Britanniae; 1st declension; conquered by Claudius in AD 43"
+      ko: "속격 Britanniae; 제1변화; 서기 43년 클라우디우스에 의해 정복"
+  - latin: Aegyptus
+    translation:
+      en: "Egypt"
+      ko: "이집트"
+    gender: f
+    notes:
+      en: "gen. Aegypti; 2nd declension; personal province of the emperor"
+      ko: "속격 Aegypti; 제2변화; 황제의 개인 속주"
+  - latin: Germania
+    translation:
+      en: "Germania (Germany)"
+      ko: "게르마니아 (독일)"
+    gender: f
+    notes:
+      en: "gen. Germaniae; 1st declension; never fully conquered by Rome"
+      ko: "속격 Germaniae; 제1변화; 로마에 의해 완전히 정복되지 않음"
+  - latin: Africa
+    translation:
+      en: "Africa (North Africa)"
+      ko: "아프리카 (북아프리카)"
+    gender: f
+    notes:
+      en: "gen. Africae; 1st declension; Rome's granary province"
+      ko: "속격 Africae; 제1변화; 로마의 곡창 속주"
+  - latin: Graecia
+    translation:
+      en: "Greece"
+      ko: "그리스"
+    gender: f
+    notes:
+      en: "gen. Graeciae; 1st declension; 'Graecia capta ferum victorem cepit' — Horace"
+      ko: "속격 Graeciae; 제1변화; '정복당한 그리스가 야만적인 정복자를 정복했다' — 호라티우스"
+  - latin: Asia
+    translation:
+      en: "Asia (Asia Minor)"
+      ko: "아시아 (소아시아)"
+    gender: f
+    notes:
+      en: "gen. Asiae; 1st declension; wealthiest eastern province"
+      ko: "속격 Asiae; 제1변화; 가장 부유한 동부 속주"
+
+- id: geography
+  label:
+    en: "Geography and Landscape"
+    ko: "지리와 지형"
+  type: vocabulary
+  words:
+  - latin: provincia
+    translation:
+      en: "province"
+      ko: "속주"
+    gender: f
+    notes:
+      en: "gen. provinciae; 1st declension; source of 'province'"
+      ko: "속격 provinciae; 제1변화; 영어 'province'의 어원"
+  - latin: finis
+    translation:
+      en: "boundary / border"
+      ko: "경계 / 국경"
+    gender: m
+    notes:
+      en: "gen. finis; 3rd declension; plural fines = 'territory'; source of 'finish, final'"
+      ko: "속격 finis; 제3변화; 복수형 fines = '영토'; 영어 'finish, final'의 어원"
+  - latin: regio
+    translation:
+      en: "region / district"
+      ko: "지역 / 구역"
+    gender: f
+    notes:
+      en: "gen. regionis; 3rd declension; source of 'region'"
+      ko: "속격 regionis; 제3변화; 영어 'region'의 어원"
+  - latin: colonia
+    translation:
+      en: "colony / settlement"
+      ko: "식민지 / 정착지"
+    gender: f
+    notes:
+      en: "gen. coloniae; 1st declension; source of 'colony, Cologne'"
+      ko: "속격 coloniae; 제1변화; 영어 'colony', 독일어 'Köln'의 어원"
+  - latin: limes
+    translation:
+      en: "frontier / boundary"
+      ko: "변경 / 경계"
+    gender: m
+    notes:
+      en: "gen. limitis; 3rd declension; the Roman frontier defense system; source of 'limit'"
+      ko: "속격 limitis; 제3변화; 로마의 변경 방어 체계; 영어 'limit'의 어원"
+  - latin: insula
+    translation:
+      en: "island"
+      ko: "섬"
+    gender: f
+    notes:
+      en: "gen. insulae; 1st declension; source of 'insular, island'"
+      ko: "속격 insulae; 제1변화; 영어 'insular, island'의 어원"
+  - latin: desertum
+    translation:
+      en: "desert / wilderness"
+      ko: "사막 / 황야"
+    gender: n
+    notes:
+      en: "gen. deserti; 2nd declension neuter; source of 'desert'"
+      ko: "속격 deserti; 제2변화 중성; 영어 'desert'의 어원"
+  - latin: passus
+    translation:
+      en: "pace (unit of distance)"
+      ko: "보 (거리 단위)"
+    gender: m
+    notes:
+      en: "gen. passus; 4th declension; mille passus = 1 Roman mile (ca. 1.48 km)"
+      ko: "속격 passus; 제4변화; mille passus = 1 로마 마일 (약 1.48km)"
+  - latin: peregrinus
+    translation:
+      en: "traveler / foreigner"
+      ko: "여행자 / 외국인"
+    gender: m
+    notes:
+      en: "gen. peregrini; 2nd declension; source of 'pilgrim, peregrine'"
+      ko: "속격 peregrini; 제2변화; 영어 'pilgrim, peregrine'의 어원"
+  - latin: hospes
+    translation:
+      en: "host / guest"
+      ko: "주인 / 손님"
+    gender: m
+    notes:
+      en: "gen. hospitis; 3rd declension; source of 'hospital, hospitality'"
+      ko: "속격 hospitis; 제3변화; 영어 'hospital, hospitality'의 어원"
+  - latin: tabellarius
+    translation:
+      en: "courier / letter carrier"
+      ko: "전령 / 우편배달부"
+    gender: m
+    notes:
+      en: "gen. tabellarii; 2nd declension; from tabella 'writing tablet'"
+      ko: "속격 tabellarii; 제2변화; tabella '필기판'에서 유래"
+  - latin: cursus
+    translation:
+      en: "course / journey"
+      ko: "항로 / 여정"
+    gender: m
+    notes:
+      en: "gen. cursus; 4th declension; cursus publicus = Roman postal system; source of 'course'"
+      ko: "속격 cursus; 제4변화; cursus publicus = 로마 우편 체계; 영어 'course'의 어원"
