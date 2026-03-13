@@ -1,0 +1,385 @@
+lesson: "sup_A1_Weather_Seasons_and_Time"
+lesson_number: 106
+cefr: A1
+type: supplementary
+topic: "Weather, Seasons, and Time"
+categories:
+- id: weather
+  label:
+    en: "Weather"
+    ko: "날씨"
+  type: vocabulary
+  words:
+  - latin: sol
+    translation:
+      en: "sun"
+      ko: "태양"
+    gender: m
+    notes:
+      en: "gen. solis; 3rd declension; source of 'solar, solstice'"
+      ko: "속격 solis; 제3변화; 영어 'solar, solstice'의 어원"
+  - latin: luna
+    translation:
+      en: "moon"
+      ko: "달"
+    gender: f
+    notes:
+      en: "gen. lunae; 1st declension; source of 'lunar, lunatic'"
+      ko: "속격 lunae; 제1변화; 영어 'lunar, lunatic'의 어원"
+  - latin: stella
+    translation:
+      en: "star"
+      ko: "별"
+    gender: f
+    notes:
+      en: "gen. stellae; 1st declension; source of 'stellar, constellation'"
+      ko: "속격 stellae; 제1변화; 영어 'stellar, constellation'의 어원"
+  - latin: nubes
+    translation:
+      en: "cloud"
+      ko: "구름"
+    gender: f
+    notes:
+      en: "gen. nubis; 3rd declension; source of 'nebula' (related)"
+      ko: "속격 nubis; 제3변화; 영어 'nebula'와 관련"
+  - latin: ventus
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: m
+    notes:
+      en: "gen. venti; 2nd declension; source of 'vent, ventilate'"
+      ko: "속격 venti; 제2변화; 영어 'vent, ventilate'의 어원"
+  - latin: pluvia
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: f
+    notes:
+      en: "gen. pluviae; 1st declension; source of 'pluvial'"
+      ko: "속격 pluviae; 제1변화; 영어 'pluvial'의 어원"
+  - latin: nix
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: f
+    notes:
+      en: "gen. nivis; 3rd declension; source of 'nival'"
+      ko: "속격 nivis; 제3변화"
+  - latin: tempestas
+    translation:
+      en: "storm / weather"
+      ko: "폭풍 / 날씨"
+    gender: f
+    notes:
+      en: "gen. tempestatis; 3rd declension; source of 'tempest'"
+      ko: "속격 tempestatis; 제3변화; 영어 'tempest'의 어원"
+  - latin: imber
+    translation:
+      en: "rainstorm / downpour"
+      ko: "폭우 / 소나기"
+    gender: m
+    notes:
+      en: "gen. imbris; 3rd declension"
+      ko: "속격 imbris; 제3변화"
+  - latin: fulmen
+    translation:
+      en: "lightning bolt"
+      ko: "번개"
+    gender: n
+    notes:
+      en: "gen. fulminis; 3rd declension neuter; source of 'fulminate'"
+      ko: "속격 fulminis; 제3변화 중성; 영어 'fulminate'의 어원"
+  - latin: tonitrus
+    translation:
+      en: "thunder"
+      ko: "천둥"
+    gender: m
+    notes:
+      en: "gen. tonitrus; 4th declension; from tonare 'to thunder'"
+      ko: "속격 tonitrus; 제4변화; tonare '천둥치다'에서 유래"
+  - latin: pruina
+    translation:
+      en: "frost"
+      ko: "서리"
+    gender: f
+    notes:
+      en: "gen. pruinae; 1st declension"
+      ko: "속격 pruinae; 제1변화"
+  - latin: nebula
+    translation:
+      en: "mist / fog"
+      ko: "안개"
+    gender: f
+    notes:
+      en: "gen. nebulae; 1st declension; source of 'nebula, nebulous'"
+      ko: "속격 nebulae; 제1변화; 영어 'nebula, nebulous'의 어원"
+  - latin: grando
+    translation:
+      en: "hail"
+      ko: "우박"
+    gender: f
+    notes:
+      en: "gen. grandinis; 3rd declension"
+      ko: "속격 grandinis; 제3변화"
+  - latin: siccitas
+    translation:
+      en: "drought / dryness"
+      ko: "가뭄 / 건조함"
+    gender: f
+    notes:
+      en: "gen. siccitatis; 3rd declension; from siccus 'dry'"
+      ko: "속격 siccitatis; 제3변화; siccus '건조한'에서 유래"
+  - latin: calor
+    translation:
+      en: "heat"
+      ko: "열 / 더위"
+    gender: m
+    notes:
+      en: "gen. caloris; 3rd declension; source of 'calorie, caloric'"
+      ko: "속격 caloris; 제3변화; 영어 'calorie, caloric'의 어원"
+  - latin: frigus
+    translation:
+      en: "cold"
+      ko: "추위"
+    gender: n
+    notes:
+      en: "gen. frigoris; 3rd declension neuter; source of 'frigid'"
+      ko: "속격 frigoris; 제3변화 중성; 영어 'frigid'의 어원"
+
+- id: seasons
+  label:
+    en: "Seasons"
+    ko: "계절"
+  type: vocabulary
+  words:
+  - latin: ver
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: n
+    notes:
+      en: "gen. veris; 3rd declension neuter; source of 'vernal'"
+      ko: "속격 veris; 제3변화 중성; 영어 'vernal'의 어원"
+  - latin: aestas
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: f
+    notes:
+      en: "gen. aestatis; 3rd declension; source of 'estival'"
+      ko: "속격 aestatis; 제3변화; 영어 'estival'의 어원"
+  - latin: autumnus
+    translation:
+      en: "autumn / fall"
+      ko: "가을"
+    gender: m
+    notes:
+      en: "gen. autumni; 2nd declension; source of 'autumn, autumnal'"
+      ko: "속격 autumni; 제2변화; 영어 'autumn, autumnal'의 어원"
+  - latin: hiems
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: f
+    notes:
+      en: "gen. hiemis; 3rd declension; source of 'hibernate' (related)"
+      ko: "속격 hiemis; 제3변화; 영어 'hibernate'와 관련"
+  - latin: annus
+    translation:
+      en: "year"
+      ko: "년 / 해"
+    gender: m
+    notes:
+      en: "gen. anni; 2nd declension; source of 'annual, anniversary'"
+      ko: "속격 anni; 제2변화; 영어 'annual, anniversary'의 어원"
+
+- id: time_of_day
+  label:
+    en: "Time of Day"
+    ko: "하루의 시간"
+  type: vocabulary
+  words:
+  - latin: mane
+    translation:
+      en: "morning (early)"
+      ko: "아침 (이른)"
+    gender: n
+    notes:
+      en: "indeclinable noun; used adverbially"
+      ko: "불변화 명사; 부사적으로 사용됨"
+  - latin: meridies
+    translation:
+      en: "midday / noon"
+      ko: "정오"
+    gender: m
+    notes:
+      en: "gen. meridiei; 5th declension; source of 'meridian, AM/PM'"
+      ko: "속격 meridiei; 제5변화; 영어 'meridian, AM/PM'의 어원"
+  - latin: vesper
+    translation:
+      en: "evening"
+      ko: "저녁"
+    gender: m
+    notes:
+      en: "gen. vesperi; 2nd declension; source of 'vespers'"
+      ko: "속격 vesperi; 제2변화; 영어 'vespers'의 어원"
+  - latin: nox
+    translation:
+      en: "night"
+      ko: "밤"
+    gender: f
+    notes:
+      en: "gen. noctis; 3rd declension; source of 'nocturnal'"
+      ko: "속격 noctis; 제3변화; 영어 'nocturnal'의 어원"
+  - latin: aurora
+    translation:
+      en: "dawn"
+      ko: "새벽"
+    gender: f
+    notes:
+      en: "gen. aurorae; 1st declension; Aurora was goddess of dawn"
+      ko: "속격 aurorae; 제1변화; 아우로라는 새벽의 여신"
+  - latin: crepusculum
+    translation:
+      en: "twilight / dusk"
+      ko: "황혼 / 해질녘"
+    gender: n
+    notes:
+      en: "gen. crepusculi; 2nd declension neuter; source of 'crepuscular'"
+      ko: "속격 crepusculi; 제2변화 중성; 영어 'crepuscular'의 어원"
+  - latin: lux
+    translation:
+      en: "light / daylight"
+      ko: "빛 / 햇빛"
+    gender: f
+    notes:
+      en: "gen. lucis; 3rd declension; source of 'lux, lucid, Lucifer'"
+      ko: "속격 lucis; 제3변화; 영어 'lux, lucid, Lucifer'의 어원"
+  - latin: tenebrae
+    translation:
+      en: "darkness (plural)"
+      ko: "어둠 (복수형)"
+    gender: f
+    notes:
+      en: "gen. tenebrarum; 1st declension; always plural"
+      ko: "속격 tenebrarum; 제1변화; 항상 복수형"
+
+- id: time_concepts
+  label:
+    en: "Time Concepts"
+    ko: "시간 개념"
+  type: vocabulary
+  words:
+  - latin: tempus
+    translation:
+      en: "time"
+      ko: "시간"
+    gender: n
+    notes:
+      en: "gen. temporis; 3rd declension neuter; source of 'temporal, temporary'"
+      ko: "속격 temporis; 제3변화 중성; 영어 'temporal, temporary'의 어원"
+  - latin: hora
+    translation:
+      en: "hour"
+      ko: "시간 (시)"
+    gender: f
+    notes:
+      en: "gen. horae; 1st declension; Roman hours varied by season"
+      ko: "속격 horae; 제1변화; 로마의 시간은 계절에 따라 달라짐"
+  - latin: dies
+    translation:
+      en: "day"
+      ko: "날 / 하루"
+    gender: m
+    notes:
+      en: "gen. diei; 5th declension; source of 'diary, diurnal'"
+      ko: "속격 diei; 제5변화; 영어 'diary, diurnal'의 어원"
+  - latin: mensis
+    translation:
+      en: "month"
+      ko: "달 / 월"
+    gender: m
+    notes:
+      en: "gen. mensis; 3rd declension; source of 'menstrual'"
+      ko: "속격 mensis; 제3변화; 영어 'menstrual'의 어원"
+  - latin: saeculum
+    translation:
+      en: "age / century"
+      ko: "시대 / 세기"
+    gender: n
+    notes:
+      en: "gen. saeculi; 2nd declension neuter; source of 'secular'"
+      ko: "속격 saeculi; 제2변화 중성; 영어 'secular'의 어원"
+  - latin: aetas
+    translation:
+      en: "age / era"
+      ko: "나이 / 시대"
+    gender: f
+    notes:
+      en: "gen. aetatis; 3rd declension; source of 'eternal' (related)"
+      ko: "속격 aetatis; 제3변화; 영어 'eternal'과 관련"
+  - latin: hodie
+    translation:
+      en: "today"
+      ko: "오늘"
+    gender: n
+    notes:
+      en: "adverb; from hoc die 'on this day'"
+      ko: "부사; hoc die '이 날에'에서 유래"
+  - latin: heri
+    translation:
+      en: "yesterday"
+      ko: "어제"
+    gender: n
+    notes:
+      en: "adverb; also spelled here"
+      ko: "부사; here로도 표기됨"
+  - latin: cras
+    translation:
+      en: "tomorrow"
+      ko: "내일"
+    gender: n
+    notes:
+      en: "adverb; source of 'procrastinate' (pro + cras)"
+      ko: "부사; 영어 'procrastinate'의 어원 (pro + cras)"
+  - latin: semper
+    translation:
+      en: "always"
+      ko: "항상"
+    gender: n
+    notes:
+      en: "adverb; 'Semper Fidelis' — Always Faithful (USMC motto)"
+      ko: "부사; 'Semper Fidelis' — 항상 충실한 (미 해병대 모토)"
+  - latin: numquam
+    translation:
+      en: "never"
+      ko: "결코 ~않다"
+    gender: n
+    notes:
+      en: "adverb; ne + umquam"
+      ko: "부사; ne + umquam"
+  - latin: kalendae
+    translation:
+      en: "Kalends (1st of month)"
+      ko: "칼렌다이 (매월 1일)"
+    gender: f
+    notes:
+      en: "gen. kalendarum; 1st declension; source of 'calendar'"
+      ko: "속격 kalendarum; 제1변화; 영어 'calendar'의 어원"
+  - latin: nonae
+    translation:
+      en: "Nones (5th or 7th of month)"
+      ko: "노나이 (매월 5일 또는 7일)"
+    gender: f
+    notes:
+      en: "gen. nonarum; 1st declension; 9 days before the Ides"
+      ko: "속격 nonarum; 제1변화; 이두스 9일 전"
+  - latin: idus
+    translation:
+      en: "Ides (13th or 15th of month)"
+      ko: "이두스 (매월 13일 또는 15일)"
+    gender: f
+    notes:
+      en: "gen. iduum; 4th declension; 'Beware the Ides of March' — Caesar's assassination"
+      ko: "속격 iduum; 제4변화; '3월의 이두스를 조심하라' — 카이사르의 암살"
