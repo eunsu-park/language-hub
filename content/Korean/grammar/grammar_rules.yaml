@@ -1,0 +1,1212 @@
+# Korean Grammar Rules, Contrasts, and Patterns
+
+rules:
+  # ============================================================
+  # 1. PARTICLE USAGE
+  # ============================================================
+  particle_usage:
+    id: particle_usage
+    label:
+      en: "Particle Usage (조사 사용법)"
+      ko: "조사 사용법"
+    category: particles
+    topik: TOPIK_I_1
+    description:
+      en: "Korean particles (조사) are postpositional markers attached directly to nouns to indicate grammatical function. Many particles have two forms depending on whether the preceding noun ends in a consonant (받침) or vowel."
+      ko: "한국어 조사는 명사 뒤에 직접 붙어 문법적 기능을 나타내는 후치사이다. 많은 조사가 앞 명사의 받침 유무에 따라 두 가지 형태를 가진다."
+    particles:
+      - particle: 은/는
+        label:
+          en: "Topic Marker"
+          ko: "주제 표시 조사"
+        function:
+          en: "Marks the topic of the sentence — what the sentence is about. Also used for contrast. 은 after consonant, 는 after vowel."
+          ko: "문장의 주제를 표시하며, 대조의 의미로도 사용된다. 받침 있으면 은, 받침 없으면 는."
+        examples:
+          - sentence: 저는 학생입니다.
+            translation: {en: "I am a student.", ko: "저는 학생입니다."}
+          - sentence: 한국은 아름답습니다.
+            translation: {en: "Korea is beautiful.", ko: "한국은 아름답습니다."}
+          - sentence: 커피는 좋아하지만 차는 안 마셔요.
+            translation: {en: "I like coffee, but I don't drink tea.", ko: "커피는 좋아하지만 차는 안 마셔요."}
+        notes:
+          en: "은/는 implies contrast or introduces a known topic. Compare with 이/가 which introduces new information."
+          ko: "은/는은 대조를 암시하거나 이미 알려진 주제를 도입한다. 새로운 정보를 도입하는 이/가와 비교할 것."
+
+      - particle: 이/가
+        label:
+          en: "Subject Marker"
+          ko: "주격 조사"
+        function:
+          en: "Marks the grammatical subject, especially for new information or focus. 이 after consonant, 가 after vowel."
+          ko: "문법적 주어를 표시하며, 특히 새로운 정보나 초점에 사용된다. 받침 있으면 이, 받침 없으면 가."
+        examples:
+          - sentence: 비가 옵니다.
+            translation: {en: "It is raining.", ko: "비가 옵니다."}
+          - sentence: 누가 왔어요?
+            translation: {en: "Who came?", ko: "누가 왔어요?"}
+          - sentence: 이것이 제 책입니다.
+            translation: {en: "This is my book.", ko: "이것이 제 책입니다."}
+        notes:
+          en: "이/가 emphasizes new or unknown information. Required with 있다/없다 (existence), 되다 (become), and in subordinate clauses."
+          ko: "이/가는 새로운 정보나 모르는 정보를 강조한다. 있다/없다 (존재), 되다 (변화), 종속절에서 필수 사용."
+
+      - particle: 을/를
+        label:
+          en: "Object Marker"
+          ko: "목적격 조사"
+        function:
+          en: "Marks the direct object of a transitive verb. 을 after consonant, 를 after vowel."
+          ko: "타동사의 직접 목적어를 표시한다. 받침 있으면 을, 받침 없으면 를."
+        examples:
+          - sentence: 밥을 먹어요.
+            translation: {en: "I eat rice.", ko: "밥을 먹어요."}
+          - sentence: 영화를 봐요.
+            translation: {en: "I watch a movie.", ko: "영화를 봐요."}
+        notes:
+          en: "In casual speech, 을/를 is often dropped: 밥 먹어요 instead of 밥을 먹어요."
+          ko: "구어체에서 을/를은 자주 생략된다: 밥을 먹어요 대신 밥 먹어요."
+
+      - particle: 에
+        label:
+          en: "Location / Time Marker"
+          ko: "장소 / 시간 조사"
+        function:
+          en: "Marks static location (destination), existence location, or specific time point. Does NOT mark where an action takes place (use 에서)."
+          ko: "정적 장소 (목적지), 존재 위치, 특정 시간을 표시한다. 동작이 일어나는 장소는 에서를 사용."
+        examples:
+          - sentence: 학교에 가요.
+            translation: {en: "I go to school.", ko: "학교에 가요."}
+          - sentence: 3시에 만나요.
+            translation: {en: "Let's meet at 3 o'clock.", ko: "3시에 만나요."}
+          - sentence: 방에 고양이가 있어요.
+            translation: {en: "There is a cat in the room.", ko: "방에 고양이가 있어요."}
+        notes:
+          en: "에 is used for destination of movement (가다, 오다), existence location (있다/없다), and specific time. Not used with 하다 verbs for location of activity."
+          ko: "에는 이동의 목적지 (가다, 오다), 존재 위치 (있다/없다), 특정 시간에 사용한다. 동작이 이루어지는 장소에는 사용하지 않는다."
+
+      - particle: 에서
+        label:
+          en: "Location of Action"
+          ko: "동작 장소 조사"
+        function:
+          en: "Marks the location where an action takes place. Also means 'from' (starting point for places)."
+          ko: "동작이 일어나는 장소를 표시한다. '~에서부터 (출발점)'의 의미로도 사용된다."
+        examples:
+          - sentence: 도서관에서 공부해요.
+            translation: {en: "I study at the library.", ko: "도서관에서 공부해요."}
+          - sentence: 서울에서 부산까지 KTX로 3시간 걸려요.
+            translation: {en: "It takes 3 hours from Seoul to Busan by KTX.", ko: "서울에서 부산까지 KTX로 3시간 걸려요."}
+
+      - particle: 으로/로
+        label:
+          en: "Direction / Means / Material"
+          ko: "방향 / 수단 / 재료 조사"
+        function:
+          en: "Marks direction of movement, means/instrument, or material. 으로 after consonant (except ㄹ), 로 after vowel or ㄹ."
+          ko: "이동 방향, 수단/도구, 재료를 표시한다. 받침 있으면 (ㄹ 제외) 으로, 받침 없거나 ㄹ 받침이면 로."
+        examples:
+          - sentence: 버스로 가요.
+            translation: {en: "I go by bus.", ko: "버스로 가요."}
+          - sentence: 서울로 가요.
+            translation: {en: "I go to Seoul.", ko: "서울로 가요."}
+          - sentence: 나무로 만들었어요.
+            translation: {en: "It was made of wood.", ko: "나무로 만들었어요."}
+        notes:
+          en: "으로/로 indicates direction (less specific than 에), means of transportation, instrument/tool, and material. After ㄹ-final consonant, use 로 (not 으로): 연필로."
+          ko: "으로/로는 방향 (에보다 덜 구체적), 교통수단, 도구, 재료를 나타낸다. ㄹ 받침 뒤에는 로를 사용 (으로 아님): 연필로."
+
+      - particle: 와/과
+        label:
+          en: "And / With (formal)"
+          ko: "~와/과 (격식체)"
+        function:
+          en: "Connects nouns (and) or marks accompaniment (with). Formal register. 와 after vowel, 과 after consonant."
+          ko: "명사를 연결하거나 (그리고) 동반을 표시한다 (함께). 격식체. 모음 뒤 와, 자음 뒤 과."
+        examples:
+          - sentence: 사과와 배를 샀어요.
+            translation: {en: "I bought apples and pears.", ko: "사과와 배를 샀어요."}
+          - sentence: 친구와 함께 갔어요.
+            translation: {en: "I went together with a friend.", ko: "친구와 함께 갔어요."}
+
+      - particle: 하고
+        label:
+          en: "And / With (informal)"
+          ko: "~하고 (비격식체)"
+        function:
+          en: "Connects nouns or marks accompaniment. Informal/spoken register. No consonant/vowel alternation."
+          ko: "명사를 연결하거나 동반을 표시한다. 비격식/구어체. 받침 유무와 관계없이 동일한 형태."
+        examples:
+          - sentence: 친구하고 같이 갔어요.
+            translation: {en: "I went together with a friend.", ko: "친구하고 같이 갔어요."}
+          - sentence: 빵하고 우유를 샀어요.
+            translation: {en: "I bought bread and milk.", ko: "빵하고 우유를 샀어요."}
+
+      - particle: 도
+        label:
+          en: "Also / Too"
+          ko: "~도 (역시, 또한)"
+        function:
+          en: "Replaces 은/는, 이/가, or 을/를 to mean 'also' or 'too'. In negative sentences, means 'not... either'."
+          ko: "은/는, 이/가, 을/를을 대체하여 '~도'를 의미한다. 부정문에서는 '~도 아니다'의 의미."
+        examples:
+          - sentence: 저도 가요.
+            translation: {en: "I am going too.", ko: "저도 가요."}
+          - sentence: 아무것도 먹지 않았어요.
+            translation: {en: "I didn't eat anything.", ko: "아무것도 먹지 않았어요."}
+
+      - particle: 부터/까지
+        label:
+          en: "From / To (range)"
+          ko: "~부터/~까지"
+        function:
+          en: "부터 marks the starting point, 까지 marks the ending point. Used for time and space ranges."
+          ko: "부터는 시작점, 까지는 끝점을 표시한다. 시간과 공간의 범위에 사용."
+        examples:
+          - sentence: 9시부터 6시까지 일해요.
+            translation: {en: "I work from 9 to 6.", ko: "9시부터 6시까지 일해요."}
+          - sentence: 서울부터 부산까지 멀어요.
+            translation: {en: "It's far from Seoul to Busan.", ko: "서울부터 부산까지 멀어요."}
+
+      - particle: 에게/한테
+        label:
+          en: "To someone (indirect object)"
+          ko: "~에게/~한테 (간접 목적어)"
+        function:
+          en: "Marks the recipient of an action (to someone). 에게 is slightly more formal, 한테 is colloquial."
+          ko: "동작의 수혜자를 표시한다 (누구에게). 에게가 약간 더 격식적이고, 한테는 구어체."
+        examples:
+          - sentence: 친구에게 선물을 줬어요.
+            translation: {en: "I gave a present to my friend.", ko: "친구에게 선물을 줬어요."}
+          - sentence: 동생한테 말했어요.
+            translation: {en: "I told my younger sibling.", ko: "동생한테 말했어요."}
+
+      - particle: 에게서/한테서
+        label:
+          en: "From someone"
+          ko: "~에게서/~한테서"
+        function:
+          en: "Marks the source/origin of an action (from someone). 에게서 is slightly more formal."
+          ko: "동작의 출처를 표시한다 (누구에게서). 에게서가 약간 더 격식적."
+        examples:
+          - sentence: 친구에게서 편지를 받았어요.
+            translation: {en: "I received a letter from my friend.", ko: "친구에게서 편지를 받았어요."}
+
+      - particle: 의
+        label:
+          en: "Possessive (of / 's)"
+          ko: "소유격 조사 (~의)"
+        function:
+          en: "Indicates possession, similar to English 's or 'of'. Often omitted in spoken Korean."
+          ko: "소유를 나타내며 영어의 's나 'of'에 해당한다. 구어에서 자주 생략된다."
+        examples:
+          - sentence: 한국의 문화
+            translation: {en: "Korean culture / the culture of Korea", ko: "한국의 문화"}
+          - sentence: 나의 책 → 내 책
+            translation: {en: "My book", ko: "나의 책 → 내 책"}
+        notes:
+          en: "Frequently omitted in speech: 나의→내, 너의→네(니), 저의→제. In casual speech, 우리 엄마 (our mom) is preferred over 나의 엄마 (my mom)."
+          ko: "구어에서 자주 축약: 나의→내, 너의→네(니), 저의→제. 구어에서 '나의 엄마'보다 '우리 엄마'가 더 자연스럽다."
+
+      - particle: 만
+        label:
+          en: "Only"
+          ko: "~만 (오직, 단지)"
+        function:
+          en: "Indicates limitation or exclusivity — 'only', 'just'."
+          ko: "한정이나 배타성을 나타낸다 — '오직', '단지'."
+        examples:
+          - sentence: 물만 마셔요.
+            translation: {en: "I only drink water.", ko: "물만 마셔요."}
+          - sentence: 조금만 기다려 주세요.
+            translation: {en: "Please wait just a moment.", ko: "조금만 기다려 주세요."}
+
+      - particle: 밖에
+        label:
+          en: "Nothing but / Only (with negative)"
+          ko: "~밖에 (부정과 함께)"
+        function:
+          en: "Means 'nothing but' or 'only'. MUST be followed by a negative verb."
+          ko: "'~밖에 없다/못하다'의 형태로 사용. 반드시 부정 서술어와 함께 쓴다."
+        examples:
+          - sentence: 하나밖에 없어요.
+            translation: {en: "There is only one.", ko: "하나밖에 없어요."}
+          - sentence: 한국어밖에 못 해요.
+            translation: {en: "I can only speak Korean.", ko: "한국어밖에 못 해요."}
+        notes:
+          en: "Compare: 만 (neutral 'only') vs 밖에 (emphasizes scarcity/insufficiency, requires negative). 물만 마셔요 = I only drink water. 물밖에 없어요 = There's nothing but water."
+          ko: "비교: 만 (중립적 '오직') vs 밖에 (부족/결핍 강조, 부정 필수). 물만 마셔요 = 물만 마신다. 물밖에 없어요 = 물 외에는 아무것도 없다."
+
+    eun_neun_vs_i_ga_contrast:
+      label:
+        en: "은/는 vs 이/가 — The Core Contrast"
+        ko: "은/는 vs 이/가 — 핵심 대비"
+      rules:
+        - rule:
+            en: "은/는 marks OLD/known information (topic) or sets up contrast. 이/가 marks NEW/unknown information (focus)."
+            ko: "은/는은 이미 알려진 정보 (주제) 또는 대조를 표시. 이/가는 새로운 정보 (초점)를 표시."
+          example:
+            eun_neun: "이 사람은 선생님이에요. (This person is a teacher. — we already know who)"
+            i_ga: "이 사람이 선생님이에요. (This person is the teacher. — answering 'who is the teacher?')"
+        - rule:
+            en: "은/는 is used for general statements and contrast. 이/가 is used for specific events and descriptions."
+            ko: "은/는은 일반적 진술과 대조에 사용. 이/가는 구체적 사건과 묘사에 사용."
+          example:
+            eun_neun: "커피는 좋아하지만 차는 안 마셔요. (I like coffee but don't drink tea. — contrast)"
+            i_ga: "비가 와요. (It's raining. — describing current event)"
+
+    e_vs_eseo_contrast:
+      label:
+        en: "에 vs 에서 — Static vs Active Location"
+        ko: "에 vs 에서 — 정적 위치 vs 동적 위치"
+      rules:
+        - rule:
+            en: "에 marks static location of existence (있다/없다) or destination. 에서 marks the location where an action takes place."
+            ko: "에는 존재의 정적 위치 (있다/없다) 또는 목적지를 표시. 에서는 동작이 일어나는 장소를 표시."
+          example:
+            e: "학교에 있어요. (I am at school. — existence)"
+            eseo: "학교에서 공부해요. (I study at school. — action)"
+
+  # ============================================================
+  # 2. VERB CONJUGATION TYPES
+  # ============================================================
+  verb_conjugation_types:
+    id: verb_conjugation_types
+    label:
+      en: "Verb Conjugation Types (동사 활용 유형)"
+      ko: "동사 활용 유형"
+    category: conjugation
+    topik: TOPIK_I_2
+    description:
+      en: "Korean verbs conjugate by removing the dictionary form ending -다 to get the stem, then adding various endings. Most verbs are regular, but several important irregular patterns exist where the final consonant or vowel of the stem changes before certain endings."
+      ko: "한국어 동사는 사전형 어미 -다를 떼어 어간을 얻고, 다양한 어미를 붙여 활용한다. 대부분의 동사는 규칙적이지만, 어간의 끝 자음이나 모음이 특정 어미 앞에서 변하는 중요한 불규칙 패턴이 있다."
+    types:
+      - type: regular
+        label:
+          en: "Regular Conjugation"
+          ko: "규칙 활용"
+        rule:
+          en: "Remove -다 from dictionary form to get the stem, then add ending. Vowel harmony: stems with ㅏ or ㅗ take -아 endings; all others take -어 endings."
+          ko: "사전형에서 -다를 떼어 어간을 구한 뒤 어미를 붙인다. 모음 조화: 어간에 ㅏ 또는 ㅗ가 있으면 -아 계열, 나머지는 -어 계열."
+        examples:
+          - sentence: 가다 → 가 + 아요 = 가요
+            translation: {en: "to go → (I) go", ko: "가다 → 가요"}
+          - sentence: 먹다 → 먹 + 어요 = 먹어요
+            translation: {en: "to eat → (I) eat", ko: "먹다 → 먹어요"}
+          - sentence: 하다 → 하 + 여요 = 해요
+            translation: {en: "to do → (I) do", ko: "하다 → 해요"}
+        notes:
+          en: "하다 verbs always conjugate as 해: 하 + 여 → 해. This is technically regular but unique to 하다."
+          ko: "하다 동사는 항상 해로 활용: 하 + 여 → 해. 엄밀히는 규칙이지만 하다만의 고유 패턴."
+
+      - type: bieup_irregular
+        label:
+          en: "ㅂ Irregular (ㅂ 불규칙)"
+          ko: "ㅂ 불규칙"
+        rule:
+          en: "When a ㅂ-final stem meets a vowel ending, ㅂ changes to 우. The 우 then combines with the following vowel."
+          ko: "ㅂ 받침 어간이 모음 어미를 만나면 ㅂ이 우로 변한다. 우는 뒤따르는 모음과 결합한다."
+        examples:
+          - sentence: 돕다 → 도우 + 아요 → 도와요
+            translation: {en: "to help → (I) help", ko: "돕다 → 도와요"}
+          - sentence: 덥다 → 더우 + 어요 → 더워요
+            translation: {en: "to be hot → it's hot", ko: "덥다 → 더워요"}
+          - sentence: 아름답다 → 아름다우 + 어요 → 아름다워요
+            translation: {en: "to be beautiful → it's beautiful", ko: "아름답다 → 아름다워요"}
+        common_verbs: [춥다 (cold), 무겁다 (heavy), 가볍다 (light), 어렵다 (difficult), 쉽다 (easy), 맵다 (spicy), 귀엽다 (cute)]
+        exceptions:
+          en: "입다 (to wear), 잡다 (to catch), 좁다 (narrow), 접다 (to fold) are regular despite ending in ㅂ."
+          ko: "입다, 잡다, 좁다, 접다는 ㅂ 받침이지만 규칙 활용한다."
+        notes:
+          en: "Mnemonic: Most ㅂ-irregular verbs are descriptive verbs (adjectives) expressing qualities — hot, cold, heavy, easy, beautiful."
+          ko: "기억법: 대부분의 ㅂ 불규칙 동사는 성질을 나타내는 형용사 — 덥다, 춥다, 무겁다, 쉽다, 아름답다."
+
+      - type: dieut_irregular
+        label:
+          en: "ㄷ Irregular (ㄷ 불규칙)"
+          ko: "ㄷ 불규칙"
+        rule:
+          en: "When a ㄷ-final stem meets a vowel ending, ㄷ changes to ㄹ."
+          ko: "ㄷ 받침 어간이 모음 어미를 만나면 ㄷ이 ㄹ로 변한다."
+        examples:
+          - sentence: 듣다 → 들 + 어요 = 들어요
+            translation: {en: "to listen → (I) listen", ko: "듣다 → 들어요"}
+          - sentence: 걷다 → 걸 + 어요 = 걸어요
+            translation: {en: "to walk → (I) walk", ko: "걷다 → 걸어요"}
+          - sentence: 묻다 → 물 + 어요 = 물어요
+            translation: {en: "to ask → (I) ask", ko: "묻다 → 물어요"}
+        common_verbs: [싣다 (to load), 깨닫다 (to realize)]
+        exceptions:
+          en: "받다 (to receive), 믿다 (to believe), 닫다 (to close), 얻다 (to obtain) are regular despite ending in ㄷ."
+          ko: "받다, 믿다, 닫다, 얻다는 ㄷ 받침이지만 규칙 활용한다."
+        notes:
+          en: "Mnemonic: The most common ㄷ-irregulars involve perception or movement — listening (듣다), walking (걷다), asking (묻다)."
+          ko: "기억법: 가장 흔한 ㄷ 불규칙 동사는 감각이나 이동과 관련 — 듣다, 걷다, 묻다."
+
+      - type: siot_irregular
+        label:
+          en: "ㅅ Irregular (ㅅ 불규칙)"
+          ko: "ㅅ 불규칙"
+        rule:
+          en: "When a ㅅ-final stem meets a vowel ending, ㅅ is dropped entirely."
+          ko: "ㅅ 받침 어간이 모음 어미를 만나면 ㅅ이 완전히 탈락한다."
+        examples:
+          - sentence: 짓다 → 지 + 어요 = 지어요
+            translation: {en: "to build → (I) build", ko: "짓다 → 지어요"}
+          - sentence: 낫다 → 나 + 아요 = 나아요
+            translation: {en: "to get better → (I) get better", ko: "낫다 → 나아요"}
+          - sentence: 잇다 → 이 + 어요 = 이어요
+            translation: {en: "to connect → (I) connect", ko: "잇다 → 이어요"}
+        common_verbs: [붓다 (to pour/swell), 젓다 (to stir)]
+        exceptions:
+          en: "웃다 (to laugh), 벗다 (to undress), 씻다 (to wash) are regular despite ending in ㅅ."
+          ko: "웃다, 벗다, 씻다는 ㅅ 받침이지만 규칙 활용한다."
+        notes:
+          en: "Mnemonic: ㅅ-irregular verbs are relatively few. The most common are 짓다 (build), 낫다 (recover), and 잇다 (connect)."
+          ko: "기억법: ㅅ 불규칙 동사는 비교적 적다. 가장 흔한 것은 짓다, 낫다, 잇다."
+
+      - type: rieul_irregular
+        label:
+          en: "ㄹ Irregular (ㄹ 불규칙)"
+          ko: "ㄹ 불규칙"
+        rule:
+          en: "When a ㄹ-final stem meets endings starting with ㄴ, ㅂ, or ㅅ, the ㄹ is dropped."
+          ko: "ㄹ 받침 어간이 ㄴ, ㅂ, ㅅ으로 시작하는 어미를 만나면 ㄹ이 탈락한다."
+        examples:
+          - sentence: 만들다 → 만듭니다 (ㄹ drops before ㅂ니다)
+            translation: {en: "to make → (I) make (formal)", ko: "만들다 → 만듭니다"}
+          - sentence: 만들다 → 만드세요 (ㄹ drops before 세요)
+            translation: {en: "to make → please make", ko: "만들다 → 만드세요"}
+          - sentence: 살다 → 삽니다 / 사세요 / 사는
+            translation: {en: "to live → (I) live (formal) / please live / living", ko: "살다 → 삽니다 / 사세요 / 사는"}
+          - sentence: 알다 → 압니다 / 아세요 / 아는
+            translation: {en: "to know → (I) know (formal) / do you know / knowing", ko: "알다 → 압니다 / 아세요 / 아는"}
+        common_verbs: [놀다 (to play), 열다 (to open), 팔다 (to sell), 울다 (to cry), 풀다 (to solve)]
+        notes:
+          en: "ㄹ drops before ㄴ, ㅂ, ㅅ but stays before other endings: 만들어요 (ㄹ stays before 어요), 만들면 (ㄹ stays before 면). This is sometimes called ㄹ-deletion rather than true irregularity."
+          ko: "ㄹ은 ㄴ, ㅂ, ㅅ 앞에서 탈락하지만 다른 어미 앞에서는 유지: 만들어요, 만들면. ㄹ 탈락이라 부르기도 한다."
+
+      - type: hieut_irregular
+        label:
+          en: "ㅎ Irregular (ㅎ 불규칙)"
+          ko: "ㅎ 불규칙"
+        rule:
+          en: "When a ㅎ-final adjective stem meets a vowel ending, ㅎ is dropped and the vowels combine (often producing ㅐ)."
+          ko: "ㅎ 받침 형용사 어간이 모음 어미를 만나면 ㅎ이 탈락하고 모음이 축약된다 (주로 ㅐ가 된다)."
+        examples:
+          - sentence: 파랗다 → 파래요
+            translation: {en: "to be blue → it's blue", ko: "파랗다 → 파래요"}
+          - sentence: 하얗다 → 하얘요
+            translation: {en: "to be white → it's white", ko: "하얗다 → 하얘요"}
+          - sentence: 빨갛다 → 빨개요
+            translation: {en: "to be red → it's red", ko: "빨갛다 → 빨개요"}
+          - sentence: 노랗다 → 노래요
+            translation: {en: "to be yellow → it's yellow", ko: "노랗다 → 노래요"}
+        common_verbs: [까맣다 (black), 그렇다 (so/like that), 이렇다 (like this), 저렇다 (like that), 어떻다 (how)]
+        notes:
+          en: "ㅎ-irregular verbs are almost exclusively color adjectives and the 이렇다/그렇다/저렇다/어떻다 group. 좋다 (good) is regular despite ending in ㅎ."
+          ko: "ㅎ 불규칙 동사는 거의 색깔 형용사와 이렇다/그렇다/저렇다/어떻다 계열이다. 좋다는 ㅎ 받침이지만 규칙 활용."
+
+      - type: reu_irregular
+        label:
+          en: "르 Irregular (르 불규칙)"
+          ko: "르 불규칙"
+        rule:
+          en: "When a 르-final stem meets -아/어, the 르 becomes ㄹ라 or ㄹ러: the ㄹ inserts into the preceding syllable's 받침, and 르 becomes 라 or 러."
+          ko: "르로 끝나는 어간이 -아/어를 만나면 르가 ㄹ라 또는 ㄹ러로 변한다: ㄹ이 앞 음절의 받침에 들어가고, 르가 라 또는 러가 된다."
+        examples:
+          - sentence: 빠르다 → 빨라요
+            translation: {en: "to be fast → it's fast", ko: "빠르다 → 빨라요"}
+          - sentence: 모르다 → 몰라요
+            translation: {en: "to not know → (I) don't know", ko: "모르다 → 몰라요"}
+          - sentence: 다르다 → 달라요
+            translation: {en: "to be different → it's different", ko: "다르다 → 달라요"}
+          - sentence: 고르다 → 골라요
+            translation: {en: "to choose → (I) choose", ko: "고르다 → 골라요"}
+        common_verbs: [자르다 (to cut), 부르다 (to call/sing), 누르다 (to press), 오르다 (to climb), 기르다 (to raise/grow)]
+        notes:
+          en: "Mnemonic: Think of ㄹ being 'promoted' — it jumps into the previous syllable as 받침, turning 르 into a double-ㄹ sound. 빠르 + 아 → 빨라."
+          ko: "기억법: ㄹ이 '승격'된다고 생각하면 된다 — 앞 음절의 받침으로 올라가서 르가 쌍ㄹ 소리가 된다. 빠르 + 아 → 빨라."
+
+  # ============================================================
+  # 3. SPEECH LEVELS
+  # ============================================================
+  speech_levels:
+    id: speech_levels
+    label:
+      en: "Speech Levels (경어법)"
+      ko: "경어법"
+    category: politeness
+    topik: TOPIK_I_2
+    description:
+      en: "Korean has multiple speech levels that encode the relationship between the speaker and listener. Choosing the correct speech level is essential for natural and socially appropriate communication. Four levels are commonly used in modern Korean."
+      ko: "한국어에는 화자와 청자의 관계를 나타내는 여러 경어법이 있다. 올바른 경어법을 선택하는 것은 자연스럽고 사회적으로 적절한 의사소통에 필수적이다. 현대 한국어에서 네 가지 단계가 일반적으로 사용된다."
+    levels:
+      - level: hapsyoche
+        name:
+          en: "합쇼체 (Formal polite / -ㅂ니다/-습니다)"
+          ko: "합쇼체 (격식체 높임)"
+        formality: most_formal
+        usage:
+          en: "Used with strangers, elders, in business, formal speeches, news broadcasts, military, and public service."
+          ko: "모르는 사람, 어른, 비즈니스, 격식 있는 연설, 뉴스 방송, 군대, 공공 서비스에서 사용."
+        formation:
+          en: "Stem + -ㅂ니다 (vowel stem) / -습니다 (consonant stem). Question: -ㅂ니까? / -습니까?"
+          ko: "어간 + -ㅂ니다 (모음 어간) / -습니다 (자음 어간). 의문: -ㅂ니까? / -습니까?"
+        examples:
+          - sentence: 감사합니다.
+            translation: {en: "Thank you.", ko: "감사합니다."}
+          - sentence: 어디에 가십니까?
+            translation: {en: "Where are you going?", ko: "어디에 가십니까?"}
+          - sentence: 네, 알겠습니다.
+            translation: {en: "Yes, I understand.", ko: "네, 알겠습니다."}
+
+      - level: haeyoche
+        name:
+          en: "해요체 (Informal polite / -아/어요)"
+          ko: "해요체 (비격식체 높임)"
+        formality: polite_default
+        usage:
+          en: "Default polite form for most daily situations — coworkers, acquaintances, service encounters, older people you're somewhat familiar with."
+          ko: "대부분의 일상 상황에서 기본 높임 표현 — 직장 동료, 지인, 서비스 상황, 어느 정도 아는 연장자."
+        formation:
+          en: "Stem + -아요 (ㅏ/ㅗ stems) / -어요 (other stems) / -해요 (하다 verbs)."
+          ko: "어간 + -아요 (ㅏ/ㅗ 어간) / -어요 (나머지) / -해요 (하다 동사)."
+        examples:
+          - sentence: 고마워요.
+            translation: {en: "Thank you. (polite informal)", ko: "고마워요."}
+          - sentence: 뭐 먹을 거예요?
+            translation: {en: "What are you going to eat?", ko: "뭐 먹을 거예요?"}
+          - sentence: 저는 학생이에요.
+            translation: {en: "I am a student.", ko: "저는 학생이에요."}
+
+      - level: haeche
+        name:
+          en: "해체 (Informal casual / 반말 / -아/어)"
+          ko: "해체 (반말)"
+        formality: casual
+        usage:
+          en: "Used among close friends of similar age, to younger people, children, or when age/closeness permits. Using 반말 with someone inappropriately is considered rude."
+          ko: "비슷한 나이의 친한 친구 사이, 나이가 어린 사람, 아이에게, 또는 나이/친밀도가 허용할 때 사용. 부적절하게 반말을 쓰면 무례하게 여겨진다."
+        formation:
+          en: "Stem + -아 (ㅏ/ㅗ stems) / -어 (other stems) / -해 (하다 verbs). Simply drop 요 from 해요체."
+          ko: "어간 + -아 (ㅏ/ㅗ 어간) / -어 (나머지) / -해 (하다 동사). 해요체에서 요만 빼면 된다."
+        examples:
+          - sentence: 고마워.
+            translation: {en: "Thanks.", ko: "고마워."}
+          - sentence: 어디 가?
+            translation: {en: "Where are you going?", ko: "어디 가?"}
+          - sentence: 밥 먹었어?
+            translation: {en: "Did you eat?", ko: "밥 먹었어?"}
+
+      - level: hagache
+        name:
+          en: "하게체 (Formal casual)"
+          ko: "하게체 (격식체 예사 낮춤)"
+        formality: formal_casual
+        usage:
+          en: "Literary style or used by older people addressing younger adults (e.g., professor to student, father-in-law to son-in-law). Rarely used in everyday conversation."
+          ko: "문어체이거나 연장자가 젊은 성인에게 사용 (예: 교수가 학생에게, 장인이 사위에게). 일상 대화에서는 거의 사용되지 않는다."
+        formation:
+          en: "Stem + -네 (present), -었/았네 (past), -(으)ㄹ세 (future/suggestion)."
+          ko: "어간 + -네 (현재), -었/았네 (과거), -(으)ㄹ세 (미래/제안)."
+        examples:
+          - sentence: 고맙네.
+            translation: {en: "Thank you. (formal casual)", ko: "고맙네."}
+          - sentence: 잘 왔네.
+            translation: {en: "Good that you came.", ko: "잘 왔네."}
+
+    subject_honorific:
+      label:
+        en: "Subject Honorific -시- (-으시-)"
+        ko: "주체 높임 -시- (-으시-)"
+      description:
+        en: "The honorific infix -(으)시- is inserted into the verb to show respect for the subject of the sentence. Used regardless of speech level."
+        ko: "존경 선어말 어미 -(으)시-는 동사에 삽입되어 문장 주어에 대한 존경을 표시한다. 경어법 단계와 관계없이 사용."
+      examples:
+        - sentence: 선생님이 오셨습니다.
+          translation: {en: "The teacher has arrived. (honorific)", ko: "선생님이 오셨습니다."}
+        - sentence: 어머니가 주무세요.
+          translation: {en: "Mother is sleeping. (honorific)", ko: "어머니가 주무세요."}
+        - sentence: 할아버지께서 말씀하셨어요.
+          translation: {en: "Grandfather spoke. (honorific)", ko: "할아버지께서 말씀하셨어요."}
+
+    honorific_vocabulary:
+      label:
+        en: "Honorific Vocabulary (높임말)"
+        ko: "높임말 어휘"
+      description:
+        en: "Certain common verbs have special honorific equivalents used when the subject is someone you respect."
+        ko: "일부 흔한 동사에는 존경하는 대상이 주어일 때 사용하는 특별한 높임말이 있다."
+      pairs:
+        - {plain: 먹다 (to eat), honorific: 드시다 / 잡수시다}
+        - {plain: 자다 (to sleep), honorific: 주무시다}
+        - {plain: 있다 (to be/exist), honorific: 계시다}
+        - {plain: 죽다 (to die), honorific: 돌아가시다}
+        - {plain: 말하다 (to speak), honorific: 말씀하시다}
+        - {plain: 먹다 (to eat — age/sickness), honorific: 잡수시다}
+        - {plain: 아프다 (to be sick), honorific: 편찮으시다}
+
+    humble_forms:
+      label:
+        en: "Humble Forms (겸양어)"
+        ko: "겸양어"
+      description:
+        en: "Humble forms lower the speaker's status to show respect to the listener or the subject being honored."
+        ko: "겸양어는 화자의 지위를 낮추어 청자나 높임 대상에 대한 존경을 표시한다."
+      pairs:
+        - {plain: 나 (I), humble: 저}
+        - {plain: 우리 (we), humble: 저희}
+        - {plain: 주다 (to give), humble: 드리다}
+        - {plain: 묻다 (to ask), humble: 여쭙다 / 여쭈다}
+        - {plain: 만나다 (to meet), humble: 뵙다}
+        - {plain: 데리다 (to bring someone), humble: 모시다}
+        - {plain: 밥 (meal), humble: 진지}
+      examples:
+        - sentence: 제가 도와 드릴게요.
+          translation: {en: "I will help you. (humble)", ko: "제가 도와 드릴게요."}
+        - sentence: 한 가지 여쭤봐도 될까요?
+          translation: {en: "May I ask you something? (humble)", ko: "한 가지 여쭤봐도 될까요?"}
+        - sentence: 만나서 뵙게 되어 반갑습니다.
+          translation: {en: "I am pleased to meet you. (humble)", ko: "만나서 뵙게 되어 반갑습니다."}
+    notes:
+      en: "Korean speech levels are about the LISTENER relationship, while -(으)시- and honorific vocabulary are about the SUBJECT being discussed. You can combine both: 할머니께서 진지를 드셨습니다 uses honorific vocabulary (드시다) + formal polite speech level (-ㅂ니다)."
+      ko: "경어법은 청자와의 관계에 관한 것이고, -(으)시-와 높임말 어휘는 이야기의 주체에 관한 것이다. 둘을 결합할 수 있다: '할머니께서 진지를 드셨습니다'는 높임말 어휘 (드시다) + 격식체 높임 (-ㅂ니다)."
+
+  # ============================================================
+  # 4. CONNECTIVE ENDINGS
+  # ============================================================
+  connective_endings:
+    id: connective_endings
+    label:
+      en: "Connective Endings (연결 어미)"
+      ko: "연결 어미"
+    category: connectives
+    topik: TOPIK_II_3
+    description:
+      en: "Korean uses connective endings (연결 어미) attached to verb/adjective stems to link clauses. Different endings convey reason, contrast, condition, purpose, and sequence. Choosing the right connective is essential for nuanced expression."
+      ko: "한국어는 동사/형용사 어간에 붙는 연결 어미로 절을 연결한다. 각 어미는 이유, 대조, 조건, 목적, 순서 등의 의미를 전달한다. 올바른 연결 어미 선택이 정교한 표현의 핵심이다."
+    groups:
+      - group: reason_cause
+        label:
+          en: "Reason / Cause (이유/원인)"
+          ko: "이유 / 원인"
+        endings:
+          - ending: "-(으)니까"
+            function:
+              en: "Subjective reason. Can be used with imperative and propositive sentences. The speaker presents their own reason or justification."
+              ko: "주관적 이유. 명령문과 청유문에 사용 가능. 화자가 자신의 이유나 근거를 제시."
+            examples:
+              - sentence: 비가 오니까 우산을 가져가세요.
+                translation: {en: "Since it's raining, take an umbrella.", ko: "비가 오니까 우산을 가져가세요."}
+              - sentence: 시간이 없으니까 빨리 갑시다.
+                translation: {en: "Since there's no time, let's go quickly.", ko: "시간이 없으니까 빨리 갑시다."}
+            notes:
+              en: "-(으)니까 is the ONLY reason ending that works with commands and suggestions. Use it when telling someone to do something because of a reason."
+              ko: "-(으)니까는 명령과 제안에 쓸 수 있는 유일한 이유 어미이다. 이유를 들어 상대에게 무언가를 하라고 할 때 사용."
+
+          - ending: "-아/어서"
+            function:
+              en: "Natural cause/sequence or objective reason. CANNOT be used with imperative or propositive endings. Expresses a cause-effect that feels natural or factual."
+              ko: "자연스러운 원인/순서 또는 객관적 이유. 명령문이나 청유문에 사용 불가. 자연스럽거나 사실적인 인과를 표현."
+            examples:
+              - sentence: 배가 아파서 병원에 갔어요.
+                translation: {en: "My stomach hurt, so I went to the hospital.", ko: "배가 아파서 병원에 갔어요."}
+              - sentence: 만나서 반갑습니다.
+                translation: {en: "Nice to meet you. (lit: Having met, I'm glad.)", ko: "만나서 반갑습니다."}
+            notes:
+              en: "Cannot say: *배가 아파서 병원에 가세요 (wrong — use 아프니까 instead for commands). -아/어서 also expresses sequential actions: 집에 가서 쉬었어요 (I went home and rested)."
+              ko: "*배가 아파서 병원에 가세요 (불가 — 명령문에는 아프니까를 사용). -아/어서는 순차적 동작도 표현: 집에 가서 쉬었어요."
+
+          - ending: "-기 때문에"
+            function:
+              en: "Formal/written reason. More objective and explicit than -아/어서. Common in academic writing, news, and formal speech."
+              ko: "격식적/문어체 이유. -아/어서보다 객관적이고 명시적. 학술 글, 뉴스, 격식 있는 발화에서 자주 사용."
+            examples:
+              - sentence: 시간이 없기 때문에 갈 수 없습니다.
+                translation: {en: "Because there is no time, I cannot go.", ko: "시간이 없기 때문에 갈 수 없습니다."}
+
+      - group: contrast_concession
+        label:
+          en: "Contrast / Concession (대조/양보)"
+          ko: "대조 / 양보"
+        endings:
+          - ending: "-지만"
+            function:
+              en: "Simple contrast or concession — 'but', 'although'."
+              ko: "단순한 대조나 양보 — '~지만', '그렇지만'."
+            examples:
+              - sentence: 비싸지만 좋아요.
+                translation: {en: "It's expensive, but it's good.", ko: "비싸지만 좋아요."}
+              - sentence: 한국어는 어렵지만 재미있어요.
+                translation: {en: "Korean is difficult, but interesting.", ko: "한국어는 어렵지만 재미있어요."}
+
+          - ending: "-(으)ㄴ데/는데"
+            function:
+              en: "Background/context setting or soft contrast. Provides background information before the main statement. Also used for soft suggestions and starting conversations."
+              ko: "배경/문맥 설정 또는 부드러운 대조. 주요 진술 전에 배경 정보를 제공. 부드러운 제안이나 대화 시작에도 사용."
+            formation:
+              en: "Action verbs: -는데. Descriptive verbs (adj): -(으)ㄴ데. Past: -았/었는데. Noun: -인데."
+              ko: "동사: -는데. 형용사: -(으)ㄴ데. 과거: -았/었는데. 명사: -인데."
+            examples:
+              - sentence: 날씨가 좋은데 산책할까요?
+                translation: {en: "The weather is nice — shall we take a walk?", ko: "날씨가 좋은데 산책할까요?"}
+              - sentence: 지금 바쁜데 나중에 전화해 줄래요?
+                translation: {en: "I'm busy right now — could you call later?", ko: "지금 바쁜데 나중에 전화해 줄래요?"}
+
+          - ending: "-아/어도"
+            function:
+              en: "Concession — 'even if', 'even though'."
+              ko: "양보 — '~해도', '~일지라도'."
+            examples:
+              - sentence: 비가 와도 갈 거예요.
+                translation: {en: "Even if it rains, I will go.", ko: "비가 와도 갈 거예요."}
+              - sentence: 아무리 바빠도 운동을 해요.
+                translation: {en: "No matter how busy I am, I exercise.", ko: "아무리 바빠도 운동을 해요."}
+
+      - group: condition
+        label:
+          en: "Condition (조건)"
+          ko: "조건"
+        endings:
+          - ending: "-(으)면"
+            function:
+              en: "General conditional — 'if', 'when'. The most common and versatile conditional ending."
+              ko: "일반적 조건 — '~하면', '~한다면'. 가장 흔하고 다용도의 조건 어미."
+            examples:
+              - sentence: 시간이 있으면 같이 가요.
+                translation: {en: "If you have time, let's go together.", ko: "시간이 있으면 같이 가요."}
+              - sentence: 봄이 오면 꽃이 펴요.
+                translation: {en: "When spring comes, flowers bloom.", ko: "봄이 오면 꽃이 펴요."}
+
+          - ending: "-다면"
+            function:
+              en: "Hypothetical conditional — 'if (hypothetically)'. Emphasizes that the condition is imagined or unlikely."
+              ko: "가정적 조건 — '~한다면'. 조건이 상상이거나 실현 가능성이 낮음을 강조."
+            examples:
+              - sentence: 백만 달러가 있다면 뭘 하겠어요?
+                translation: {en: "If you had a million dollars, what would you do?", ko: "백만 달러가 있다면 뭘 하겠어요?"}
+
+          - ending: "-(으)려면"
+            function:
+              en: "Conditional purpose — 'if you intend to', 'in order to (condition)'. Combines intention with condition."
+              ko: "목적 조건 — '~하려면'. 의도와 조건을 결합."
+            examples:
+              - sentence: 한국어를 잘하려면 매일 연습해야 해요.
+                translation: {en: "If you want to be good at Korean, you have to practice every day.", ko: "한국어를 잘하려면 매일 연습해야 해요."}
+
+      - group: purpose
+        label:
+          en: "Purpose (목적)"
+          ko: "목적"
+        endings:
+          - ending: "-(으)러"
+            function:
+              en: "Purpose with movement verbs — 'in order to (go/come)'. Only used with 가다, 오다, 다니다."
+              ko: "이동 동사와 함께 쓰는 목적 — '~하러 (가다/오다)'. 가다, 오다, 다니다와만 사용."
+            examples:
+              - sentence: 밥 먹으러 가요.
+                translation: {en: "Let's go to eat.", ko: "밥 먹으러 가요."}
+
+          - ending: "-(으)려고"
+            function:
+              en: "Purpose/intention — 'in order to', 'intending to'. More general than -(으)러."
+              ko: "목적/의도 — '~하려고'. -(으)러보다 범용적."
+            examples:
+              - sentence: 한국어를 배우려고 한국에 왔어요.
+                translation: {en: "I came to Korea to learn Korean.", ko: "한국어를 배우려고 한국에 왔어요."}
+
+          - ending: "-기 위해(서)"
+            function:
+              en: "Formal purpose — 'for the purpose of'. More formal than -(으)려고."
+              ko: "격식적 목적 — '~하기 위해서'. -(으)려고보다 격식적."
+            examples:
+              - sentence: 건강을 유지하기 위해서 운동합니다.
+                translation: {en: "I exercise in order to maintain health.", ko: "건강을 유지하기 위해서 운동합니다."}
+
+      - group: sequence
+        label:
+          en: "Sequence (순서)"
+          ko: "순서"
+        endings:
+          - ending: "-고"
+            function:
+              en: "Sequential listing or simple connection — 'and', 'and then'. No causal relationship implied."
+              ko: "순차적 나열 또는 단순 연결 — '그리고', '~하고'. 인과 관계를 암시하지 않음."
+            examples:
+              - sentence: 밥을 먹고 커피를 마셨어요.
+                translation: {en: "I ate a meal and drank coffee.", ko: "밥을 먹고 커피를 마셨어요."}
+              - sentence: 이 책은 재미있고 유익해요.
+                translation: {en: "This book is fun and informative.", ko: "이 책은 재미있고 유익해요."}
+
+          - ending: "-(으)며"
+            function:
+              en: "Formal listing or simultaneous actions — 'and', 'while'. Written/formal register."
+              ko: "격식적 나열 또는 동시 동작 — '그리고', '~하며'. 문어/격식체."
+            examples:
+              - sentence: 그는 노래를 부르며 걸었다.
+                translation: {en: "He walked while singing.", ko: "그는 노래를 부르며 걸었다."}
+
+          - ending: "-아/어서 (sequential)"
+            function:
+              en: "Tight sequence where the first action is a precondition for the second — 'do A and then B'. Different from causal -아/어서."
+              ko: "첫 번째 동작이 두 번째의 전제인 긴밀한 순서 — 'A를 하고 나서 B'. 이유의 -아/어서와 다름."
+            examples:
+              - sentence: 옷을 입어서 나갔어요.
+                translation: {en: "I got dressed and went out.", ko: "옷을 입어서 나갔어요."}
+
+      - group: simultaneous
+        label:
+          en: "Simultaneous (동시)"
+          ko: "동시"
+        endings:
+          - ending: "-(으)면서"
+            function:
+              en: "Simultaneous actions by the same subject — 'while doing'. Both actions happen at the same time."
+              ko: "같은 주어의 동시 동작 — '~하면서'. 두 동작이 동시에 진행."
+            examples:
+              - sentence: 음악을 들으면서 공부해요.
+                translation: {en: "I study while listening to music.", ko: "음악을 들으면서 공부해요."}
+              - sentence: 웃으면서 이야기했어요.
+                translation: {en: "She talked while laughing.", ko: "웃으면서 이야기했어요."}
+            notes:
+              en: "The subject of both clauses must be the same. For different subjects, use -는 동안 (during): 내가 요리하는 동안 그는 청소했어요."
+              ko: "두 절의 주어가 같아야 한다. 주어가 다르면 -는 동안 사용: 내가 요리하는 동안 그는 청소했어요."
+
+    notes:
+      en: "The key distinction for reason endings: -(으)니까 = subjective reason, works with commands/suggestions. -아/어서 = objective/natural cause, no commands. -기 때문에 = formal/written."
+      ko: "이유 어미의 핵심 구별: -(으)니까 = 주관적 이유, 명령/제안과 사용 가능. -아/어서 = 객관적/자연적 원인, 명령 불가. -기 때문에 = 격식/문어."
+
+  # ============================================================
+  # 5. NOUN MODIFIERS
+  # ============================================================
+  noun_modifiers:
+    id: noun_modifiers
+    label:
+      en: "Noun Modifiers (관형사형)"
+      ko: "관형사형"
+    category: modifiers
+    topik: TOPIK_II_3
+    description:
+      en: "Korean relative clauses are pre-nominal — the modifying clause comes BEFORE the noun it describes. Different tense markers attach to the verb/adjective stem to form noun-modifying (adnominal) forms."
+      ko: "한국어의 관계절은 명사 앞에 놓인다 — 수식하는 절이 수식받는 명사 앞에 온다. 다양한 시제 표지가 동사/형용사 어간에 붙어 관형사형을 만든다."
+    tense_forms:
+      - tense: present
+        label:
+          en: "Present Tense Modifier"
+          ko: "현재 시제 관형사형"
+        rules:
+          - verb_type:
+              en: "Action verbs (동사)"
+              ko: "동사"
+            ending: "-는"
+            examples:
+              - sentence: 먹는 사람
+                translation: {en: "a person who eats / a person eating", ko: "먹는 사람"}
+              - sentence: 지금 읽는 책
+                translation: {en: "a book (I am) reading now", ko: "지금 읽는 책"}
+          - verb_type:
+              en: "Descriptive verbs / Adjectives (형용사)"
+              ko: "형용사"
+            ending: "-(으)ㄴ"
+            examples:
+              - sentence: 큰 집
+                translation: {en: "a big house", ko: "큰 집"}
+              - sentence: 예쁜 꽃
+                translation: {en: "a pretty flower", ko: "예쁜 꽃"}
+              - sentence: 조용한 카페
+                translation: {en: "a quiet cafe", ko: "조용한 카페"}
+
+      - tense: past
+        label:
+          en: "Past Tense Modifier"
+          ko: "과거 시제 관형사형"
+        rules:
+          - verb_type:
+              en: "Action verbs (동사)"
+              ko: "동사"
+            ending: "-(으)ㄴ"
+            examples:
+              - sentence: 먹은 사람
+                translation: {en: "a person who ate", ko: "먹은 사람"}
+              - sentence: 어제 읽은 책
+                translation: {en: "a book (I) read yesterday", ko: "어제 읽은 책"}
+          - verb_type:
+              en: "Past habitual / incomplete (회상)"
+              ko: "회상 (과거 습관/미완료)"
+            ending: "-던"
+            examples:
+              - sentence: 살던 곳
+                translation: {en: "a place where (one) used to live", ko: "살던 곳"}
+              - sentence: 읽던 책
+                translation: {en: "a book (one) was reading (but didn't finish)", ko: "읽던 책"}
+        notes:
+          en: "-(으)ㄴ (past, action verbs) indicates completion. -던 indicates past habitual action or an action that was in progress but not completed. Compare: 읽은 책 (a book I read/finished) vs 읽던 책 (a book I was reading/used to read)."
+          ko: "-(으)ㄴ (과거, 동사)은 완료를 나타낸다. -던은 과거 습관적 행동이나 진행 중이었으나 완료되지 않은 행동을 나타낸다. 비교: 읽은 책 (읽은/다 읽은 책) vs 읽던 책 (읽고 있던/읽곤 했던 책)."
+
+      - tense: future
+        label:
+          en: "Future Tense Modifier"
+          ko: "미래 시제 관형사형"
+        rules:
+          - verb_type:
+              en: "All verbs"
+              ko: "모든 동사"
+            ending: "-(으)ㄹ"
+            examples:
+              - sentence: 먹을 음식
+                translation: {en: "food to eat", ko: "먹을 음식"}
+              - sentence: 읽을 책
+                translation: {en: "a book to read", ko: "읽을 책"}
+              - sentence: 갈 곳
+                translation: {en: "a place to go", ko: "갈 곳"}
+
+    nominalization:
+      label:
+        en: "Nominalization (명사화)"
+        ko: "명사화"
+      description:
+        en: "Korean verbs and adjectives can be turned into nouns using several patterns."
+        ko: "한국어 동사와 형용사는 여러 패턴으로 명사화할 수 있다."
+      patterns:
+        - pattern: "-기"
+          function:
+            en: "General nominalization. Used with many grammar patterns: -기 쉽다/어렵다 (easy/hard to), -기 시작하다 (begin to), -기 전에 (before doing)."
+            ko: "일반적 명사화. 많은 문법 패턴에 사용: -기 쉽다/어렵다, -기 시작하다, -기 전에."
+          examples:
+            - sentence: 수영하기
+              translation: {en: "swimming (the act of)", ko: "수영하기"}
+            - sentence: 한국어 배우기가 어려워요.
+              translation: {en: "Learning Korean is difficult.", ko: "한국어 배우기가 어려워요."}
+            - sentence: 자기 전에 책을 읽어요.
+              translation: {en: "I read a book before sleeping.", ko: "자기 전에 책을 읽어요."}
+
+        - pattern: "-(으)ㅁ"
+          function:
+            en: "Formal nominalization. Used in writing, official documents, and formal expressions. Creates more noun-like result than -기."
+            ko: "격식적 명사화. 글쓰기, 공문서, 격식 표현에 사용. -기보다 더 명사적인 결과를 만든다."
+          examples:
+            - sentence: 있음 / 없음
+              translation: {en: "existence / absence (on forms)", ko: "있음 / 없음"}
+            - sentence: 앎 (from 알다)
+              translation: {en: "knowing / knowledge", ko: "앎"}
+
+        - pattern: "-는 것"
+          function:
+            en: "Versatile nominalizer — 'the thing of doing', 'doing (something)'. The most flexible way to nominalize in spoken Korean."
+            ko: "다용도 명사화 — '~하는 것'. 구어 한국어에서 가장 유연한 명사화 방법."
+          examples:
+            - sentence: 먹는 것을 좋아해요.
+              translation: {en: "I like eating.", ko: "먹는 것을 좋아해요."}
+            - sentence: 중요한 것은 포기하지 않는 거예요.
+              translation: {en: "The important thing is not giving up.", ko: "중요한 것은 포기하지 않는 거예요."}
+          notes:
+            en: "In casual speech, 것 is often contracted to 거: 먹는 거, 하는 거. -는 것 combines tense modifiers: 먹는 것 (eating), 먹은 것 (what was eaten), 먹을 것 (what will be eaten)."
+            ko: "구어에서 것은 거로 축약: 먹는 거, 하는 거. -는 것은 시제 관형사와 결합: 먹는 것 (먹는 것), 먹은 것 (먹었던 것), 먹을 것 (먹을 것)."
+
+    notes:
+      en: "Key pattern to remember: Action verbs use -는 (present), -(으)ㄴ (past), -(으)ㄹ (future). Descriptive verbs use -(으)ㄴ (present) — they share the same ending with action verb past tense, so context determines the meaning."
+      ko: "핵심 패턴: 동사는 -는 (현재), -(으)ㄴ (과거), -(으)ㄹ (미래). 형용사는 -(으)ㄴ (현재) — 동사의 과거형과 같은 어미를 사용하므로 문맥으로 의미를 판단."
+
+  # ============================================================
+  # 6. INDIRECT SPEECH
+  # ============================================================
+  indirect_speech:
+    id: indirect_speech
+    label:
+      en: "Indirect Speech (간접 화법)"
+      ko: "간접 화법"
+    category: quotation
+    topik: TOPIK_II_3
+    description:
+      en: "Korean indirect speech (reported speech) uses specific quotation endings attached to the verb stem, followed by 하다 (to say/do). The ending varies based on the sentence type being quoted: statement, question, command, or suggestion."
+      ko: "한국어 간접 화법은 동사 어간에 특정 인용 어미를 붙이고 하다를 사용한다. 인용되는 문장의 유형에 따라 어미가 달라진다: 평서문, 의문문, 명령문, 청유문."
+    patterns:
+      - type: statement
+        label:
+          en: "Statement (평서문)"
+          ko: "평서문"
+        formation:
+          en: "Action verb: V-ㄴ/는다고 하다. Descriptive verb: A-(으)ㄴ다고 하다 (but commonly A-다고). Noun: N-(이)라고 하다. Past: -았/었다고 하다. Future: -(으)ㄹ 거라고 하다."
+          ko: "동사: V-ㄴ/는다고 하다. 형용사: A-다고 하다. 명사: N-(이)라고 하다. 과거: -았/었다고 하다. 미래: -(으)ㄹ 거라고 하다."
+        examples:
+          - sentence: 그 사람이 한국에 간다고 했어요.
+            translation: {en: "He said he's going to Korea.", ko: "그 사람이 한국에 간다고 했어요."}
+          - sentence: 날씨가 춥다고 했어요.
+            translation: {en: "They said the weather is cold.", ko: "날씨가 춥다고 했어요."}
+          - sentence: 학생이라고 했어요.
+            translation: {en: "They said they're a student.", ko: "학생이라고 했어요."}
+          - sentence: 어제 왔다고 했어요.
+            translation: {en: "They said they came yesterday.", ko: "어제 왔다고 했어요."}
+
+      - type: question
+        label:
+          en: "Question (의문문)"
+          ko: "의문문"
+        formation:
+          en: "V/A-냐고 하다 (or V/A-(으)냐고 하다). N-(이)냐고 하다. Past: -았/었냐고. Also 뭐/어디/누구 etc. + V-냐고."
+          ko: "V/A-냐고 하다 (또는 V/A-(으)냐고 하다). N-(이)냐고 하다. 과거: -았/었냐고. 의문사 + V-냐고."
+        examples:
+          - sentence: 뭐 먹냐고 물어봤어요.
+            translation: {en: "They asked what I'm eating.", ko: "뭐 먹냐고 물어봤어요."}
+          - sentence: 학생이냐고 물어봤어요.
+            translation: {en: "They asked if I'm a student.", ko: "학생이냐고 물어봤어요."}
+          - sentence: 어디에 갔냐고 물어봤어요.
+            translation: {en: "They asked where (someone) went.", ko: "어디에 갔냐고 물어봤어요."}
+
+      - type: command
+        label:
+          en: "Command (명령문)"
+          ko: "명령문"
+        formation:
+          en: "V-(으)라고 하다. Negative command: V-지 말라고 하다."
+          ko: "V-(으)라고 하다. 부정 명령: V-지 말라고 하다."
+        examples:
+          - sentence: 빨리 오라고 했어요.
+            translation: {en: "They told me to come quickly.", ko: "빨리 오라고 했어요."}
+          - sentence: 조용히 하라고 했어요.
+            translation: {en: "They told me to be quiet.", ko: "조용히 하라고 했어요."}
+          - sentence: 거기 가지 말라고 했어요.
+            translation: {en: "They told me not to go there.", ko: "거기 가지 말라고 했어요."}
+
+      - type: suggestion
+        label:
+          en: "Suggestion (청유문)"
+          ko: "청유문"
+        formation:
+          en: "V-자고 하다."
+          ko: "V-자고 하다."
+        examples:
+          - sentence: 같이 가자고 했어요.
+            translation: {en: "They suggested going together.", ko: "같이 가자고 했어요."}
+          - sentence: 내일 만나자고 했어요.
+            translation: {en: "They suggested meeting tomorrow.", ko: "내일 만나자고 했어요."}
+
+    shortened_forms:
+      label:
+        en: "Shortened Forms (축약형)"
+        ko: "축약형"
+      description:
+        en: "In spoken Korean, indirect speech forms are frequently contracted. These shortened forms are extremely common in daily conversation."
+        ko: "구어 한국어에서 간접 화법 형태는 자주 축약된다. 이 축약형은 일상 대화에서 매우 흔하다."
+      contractions:
+        - original: "-다고 해요"
+          shortened: "-대요"
+          type: statement
+          example:
+            sentence: 내일 온대요.
+            translation: {en: "They say they're coming tomorrow.", ko: "내일 온대요."}
+        - original: "-냐고 해요"
+          shortened: "-냬요"
+          type: question
+          example:
+            sentence: 뭐 먹냬요.
+            translation: {en: "They're asking what to eat.", ko: "뭐 먹냬요."}
+        - original: "-(으)라고 해요"
+          shortened: "-래요"
+          type: command
+          example:
+            sentence: 빨리 오래요.
+            translation: {en: "They say to come quickly.", ko: "빨리 오래요."}
+        - original: "-자고 해요"
+          shortened: "-재요"
+          type: suggestion
+          example:
+            sentence: 같이 가재요.
+            translation: {en: "They suggest going together.", ko: "같이 가재요."}
+      notes:
+        en: "These shortened forms (-대요, -냬요, -래요, -재요) are the most natural way to relay what someone said in casual-polite conversation. They combine the quotation + 하다 + 요 into one compact ending."
+        ko: "이 축약형 (-대요, -냬요, -래요, -재요)은 비격식 높임 대화에서 타인의 말을 전할 때 가장 자연스러운 방법이다. 인용 + 하다 + 요를 하나의 간결한 어미로 결합한다."
+
+    notes:
+      en: "Indirect speech is one of the most frequently used grammar patterns in Korean conversation. Mastering the four base patterns (-다고, -냐고, -(으)라고, -자고) and their shortened forms is essential for intermediate-level fluency."
+      ko: "간접 화법은 한국어 대화에서 가장 자주 사용되는 문법 패턴 중 하나이다. 네 가지 기본 패턴 (-다고, -냐고, -(으)라고, -자고)과 축약형을 익히는 것이 중급 수준 유창성에 필수적이다."
+
+  # ============================================================
+  # 7. WORD FORMATION
+  # ============================================================
+  word_formation:
+    id: word_formation
+    label:
+      en: "Word Formation (단어 형성)"
+      ko: "단어 형성"
+    category: word_formation
+    topik: TOPIK_II_4
+    description:
+      en: "Korean vocabulary comes from three main sources: Sino-Korean words (한자어, ~60%), native Korean words (고유어, ~25%), and loanwords (외래어, ~15%). Understanding word formation patterns helps learners decode unfamiliar vocabulary and expand their lexicon efficiently."
+      ko: "한국어 어휘는 세 가지 주요 원천에서 온다: 한자어 (~60%), 고유어 (~25%), 외래어 (~15%). 단어 형성 패턴을 이해하면 모르는 어휘를 해독하고 효율적으로 어휘를 확장할 수 있다."
+    types:
+      - type: sino_korean
+        label:
+          en: "Sino-Korean Compounds (한자어)"
+          ko: "한자어"
+        description:
+          en: "Words formed from Chinese character (Hanja) morphemes. Each Hanja has a fixed Korean pronunciation and meaning. Knowing common Hanja morphemes helps decode ~60% of Korean vocabulary."
+          ko: "한자 형태소로 구성된 단어. 각 한자는 고정된 한국어 발음과 뜻을 가진다. 자주 쓰이는 한자 형태소를 알면 한국어 어휘의 약 60%를 해독하는 데 도움이 된다."
+        examples:
+          - compound: 학교 (學校)
+            breakdown: "학(學)=배우다 + 교(校)=학교"
+            translation: {en: "school (learn + school building)", ko: "학교"}
+          - compound: 도서관 (圖書館)
+            breakdown: "도(圖)=그림 + 서(書)=글 + 관(館)=건물"
+            translation: {en: "library (picture + writing + building)", ko: "도서관"}
+          - compound: 대학생 (大學生)
+            breakdown: "대(大)=크다 + 학(學)=배우다 + 생(生)=사람/학생"
+            translation: {en: "college student (big + learn + student)", ko: "대학생"}
+        common_morphemes:
+          - {hanja: "학(學)", meaning: {en: "learn, study", ko: "배우다"}, words: [학교, 학생, 대학, 학습, 과학]}
+          - {hanja: "교(校)", meaning: {en: "school", ko: "학교"}, words: [학교, 교실, 교장, 교육]}
+          - {hanja: "생(生)", meaning: {en: "life, student, raw", ko: "삶, 학생, 날것"}, words: [학생, 생활, 생일, 선생님]}
+          - {hanja: "사(事)", meaning: {en: "matter, affair", ko: "일"}, words: [사건, 사고, 사실, 인사]}
+          - {hanja: "사(師)", meaning: {en: "teacher, master", ko: "스승"}, words: [교사, 의사, 강사, 목사]}
+          - {hanja: "인(人)", meaning: {en: "person", ko: "사람"}, words: [한국인, 외국인, 개인, 인간]}
+          - {hanja: "시(時)", meaning: {en: "time", ko: "때"}, words: [시간, 시작, 당시, 동시]}
+          - {hanja: "일(日)", meaning: {en: "day, sun", ko: "날, 해"}, words: [일요일, 생일, 매일, 일기]}
+          - {hanja: "대(大)", meaning: {en: "big, great", ko: "크다"}, words: [대학, 대통령, 대회, 최대]}
+          - {hanja: "전(電)", meaning: {en: "electricity", ko: "전기"}, words: [전화, 전기, 전자, 충전]}
+        notes:
+          en: "Knowing even 100 common Hanja morphemes unlocks thousands of compound words. Sino-Korean words tend to be more formal and academic, similar to Latin/Greek roots in English."
+          ko: "흔한 한자 형태소 100개만 알아도 수천 개의 합성어를 해독할 수 있다. 한자어는 영어의 라틴어/그리스어 어근처럼 격식적이고 학술적인 경향이 있다."
+
+      - type: native_korean
+        label:
+          en: "Native Korean Derivation (고유어 파생)"
+          ko: "고유어 파생"
+        description:
+          en: "Native Korean words can be extended through prefixes and suffixes to create new words. These derivational patterns add nuance and specificity."
+          ko: "고유어는 접두사와 접미사를 통해 확장하여 새로운 단어를 만들 수 있다. 이러한 파생 패턴은 뉘앙스와 구체성을 더한다."
+        prefixes:
+          - prefix: "풋-"
+            meaning: {en: "unripe, premature, inexperienced", ko: "덜 익은, 미숙한"}
+            examples:
+              - word: 풋사랑
+                translation: {en: "first love / puppy love", ko: "풋사랑"}
+              - word: 풋고추
+                translation: {en: "green (unripe) pepper", ko: "풋고추"}
+              - word: 풋내기
+                translation: {en: "novice, greenhorn", ko: "풋내기"}
+
+          - prefix: "짓-"
+            meaning: {en: "intensifying action (often forceful or negative)", ko: "동작을 강조 (종종 세거나 부정적)"}
+            examples:
+              - word: 짓밟다
+                translation: {en: "to trample, crush underfoot", ko: "짓밟다"}
+              - word: 짓누르다
+                translation: {en: "to press down heavily, oppress", ko: "짓누르다"}
+              - word: 짓이기다
+                translation: {en: "to crush, mash", ko: "짓이기다"}
+
+          - prefix: "맨-"
+            meaning: {en: "bare, empty, mere", ko: "맨, 빈"}
+            examples:
+              - word: 맨발
+                translation: {en: "bare feet", ko: "맨발"}
+              - word: 맨손
+                translation: {en: "bare hands / empty-handed", ko: "맨손"}
+              - word: 맨땅
+                translation: {en: "bare ground", ko: "맨땅"}
+
+          - prefix: "헛-"
+            meaning: {en: "in vain, false, empty", ko: "헛된, 거짓의, 빈"}
+            examples:
+              - word: 헛소리
+                translation: {en: "nonsense, empty talk", ko: "헛소리"}
+              - word: 헛기침
+                translation: {en: "fake/nervous cough", ko: "헛기침"}
+
+        suffixes:
+          - suffix: "-질"
+            meaning: {en: "action, activity (often pejorative or physical work)", ko: "행위 (종종 비하적이거나 육체 노동)"}
+            examples:
+              - word: 가위질
+                translation: {en: "cutting with scissors", ko: "가위질"}
+              - word: 싸움질
+                translation: {en: "fighting (pejorative)", ko: "싸움질"}
+              - word: 바느질
+                translation: {en: "sewing, needlework", ko: "바느질"}
+              - word: 부채질
+                translation: {en: "fanning", ko: "부채질"}
+
+          - suffix: "-이"
+            meaning: {en: "agent, tool, or result of action", ko: "행위자, 도구, 행위의 결과"}
+            examples:
+              - word: 지우개
+                translation: {en: "eraser", ko: "지우개"}
+              - word: 놀이
+                translation: {en: "play, game", ko: "놀이"}
+              - word: 길이
+                translation: {en: "length", ko: "길이"}
+              - word: 높이
+                translation: {en: "height", ko: "높이"}
+
+          - suffix: "-음/-ㅁ"
+            meaning: {en: "nominalization suffix (state or result)", ko: "명사화 접미사 (상태 또는 결과)"}
+            examples:
+              - word: 기쁨
+                translation: {en: "joy, happiness", ko: "기쁨"}
+              - word: 슬픔
+                translation: {en: "sadness", ko: "슬픔"}
+              - word: 아픔
+                translation: {en: "pain", ko: "아픔"}
+              - word: 믿음
+                translation: {en: "belief, faith", ko: "믿음"}
+
+          - suffix: "-개"
+            meaning: {en: "tool, instrument", ko: "도구"}
+            examples:
+              - word: 지우개
+                translation: {en: "eraser", ko: "지우개"}
+              - word: 베개
+                translation: {en: "pillow", ko: "베개"}
+              - word: 덮개
+                translation: {en: "cover, lid", ko: "덮개"}
+
+      - type: konglish
+        label:
+          en: "Konglish Loanwords (콩글리시)"
+          ko: "콩글리시 (외래어)"
+        description:
+          en: "Korean has borrowed many English words, but they often undergo changes in pronunciation, abbreviation, or meaning. Some 'Konglish' words have meanings that differ significantly from the original English."
+          ko: "한국어는 많은 영어 단어를 차용했지만, 발음, 축약, 의미가 변하는 경우가 많다. 일부 '콩글리시' 단어는 원래 영어와 크게 다른 의미를 가진다."
+        examples:
+          - word: 핸드폰
+            original_english: "cell phone / mobile phone"
+            actual_meaning: {en: "mobile phone (not 'hand phone')", ko: "휴대전화"}
+            notes: {en: "Standard Korean: 휴대폰 or 휴대전화. 핸드폰 is widely used colloquially.", ko: "표준어: 휴대폰 또는 휴대전화. 핸드폰은 구어에서 널리 사용."}
+
+          - word: 아이쇼핑
+            original_english: "window shopping"
+            actual_meaning: {en: "window shopping (Korean coined 'eye shopping')", ko: "구경만 하기"}
+            notes: {en: "In English, 'eye shopping' doesn't exist. The Korean coinage comes from 'shopping with your eyes'.", ko: "영어에 'eye shopping'은 없다. '눈으로 쇼핑한다'는 뜻에서 한국에서 만든 표현."}
+
+          - word: 셀카
+            original_english: "selfie"
+            actual_meaning: {en: "selfie (from 'self camera')", ko: "셀프 카메라 → 셀카"}
+            notes: {en: "Abbreviated from 셀프 카메라 (self camera). Koreans often create shortened blended words from English.", ko: "셀프 카메라에서 축약. 한국어는 영어 단어를 줄여 합성 축약어를 자주 만든다."}
+
+          - word: 파이팅
+            original_english: "fighting"
+            actual_meaning: {en: "Go for it! / You can do it! (encouragement)", ko: "힘내! / 화이팅!"}
+            notes: {en: "Used as an encouraging cheer, not related to physical fighting. 화이팅 is the standard spelling. The English equivalent would be 'Go for it!' or 'Good luck!'.", ko: "격려의 구호로 사용되며 물리적 싸움과 관련 없다. 화이팅이 표준 표기. 영어로는 'Go for it!'이나 'Good luck!'에 해당."}
+
+          - word: 에어컨
+            original_english: "air conditioner"
+            actual_meaning: {en: "air conditioner (abbreviated)", ko: "에어컨디셔너 → 에어컨"}
+
+          - word: 노트북
+            original_english: "laptop"
+            actual_meaning: {en: "laptop computer (not a notebook/notepad)", ko: "노트북 컴퓨터"}
+            notes: {en: "In Korean, 노트북 means laptop, not a paper notebook. A paper notebook is 공책.", ko: "한국어에서 노트북은 노트북 컴퓨터를 뜻한다. 종이 공책은 공책."}
+
+          - word: 원샷
+            original_english: "one shot"
+            actual_meaning: {en: "bottoms up / chug (drinking culture)", ko: "한 번에 다 마시기"}
+            notes: {en: "Used when drinking to mean 'finish it in one gulp'. Not used in English this way.", ko: "술자리에서 '한 번에 다 마시라'는 뜻. 영어에서는 이렇게 사용하지 않음."}
+
+        notes:
+          en: "Konglish awareness helps avoid misunderstandings. When learning Korean, treat Konglish words as Korean vocabulary with their Korean-specific meanings, not as English words."
+          ko: "콩글리시를 알면 오해를 방지할 수 있다. 한국어를 배울 때 콩글리시 단어는 영어가 아닌 한국어 고유의 의미를 가진 한국어 어휘로 취급해야 한다."
+
+    notes:
+      en: "Understanding the three vocabulary layers (Sino-Korean, native Korean, loanwords) is key to building Korean vocabulary efficiently. Sino-Korean words dominate academic and formal registers, native Korean words are core to everyday speech and emotional expression, and loanwords are expanding rapidly in technology and pop culture."
+      ko: "세 가지 어휘층 (한자어, 고유어, 외래어)을 이해하는 것이 한국어 어휘를 효율적으로 구축하는 핵심이다. 한자어는 학술적/격식적 맥락에서, 고유어는 일상 대화와 감정 표현에서, 외래어는 기술과 대중문화 분야에서 빠르게 확장 중이다."
