@@ -1,0 +1,555 @@
+lesson: 25_TOPIK_Preparation
+lesson_number: 25
+topik: TOPIK_II_5
+
+categories:
+- id: exam_vocabulary
+  label:
+    en: Exam Vocabulary
+    ko: 시험 어휘
+  type: vocabulary
+  words:
+  - korean: 시험
+    reading: null
+    translation:
+      en: exam, test
+      ko: 시험
+    gender: null
+    plural: null
+  - korean: 문제
+    reading: null
+    translation:
+      en: question, problem
+      ko: 문제
+    gender: null
+    plural: null
+  - korean: 답
+    reading: null
+    translation:
+      en: answer
+      ko: 답
+    gender: null
+    plural: null
+  - korean: 정답
+    reading: null
+    translation:
+      en: correct answer
+      ko: 맞는 답
+    gender: null
+    plural: null
+  - korean: 오답
+    reading: null
+    translation:
+      en: wrong answer
+      ko: 틀린 답
+    gender: null
+    plural: null
+  - korean: 듣기
+    reading: null
+    translation:
+      en: listening (test section)
+      ko: 듣기 영역
+    gender: null
+    plural: null
+  - korean: 읽기
+    reading: null
+    translation:
+      en: reading (test section)
+      ko: 읽기 영역
+    gender: null
+    plural: null
+  - korean: 쓰기
+    reading: null
+    translation:
+      en: writing (test section)
+      ko: 쓰기 영역
+    gender: null
+    plural: null
+  - korean: 배점
+    reading: null
+    translation:
+      en: point value, marks allocated
+      ko: 배정된 점수
+    gender: null
+    plural: null
+  - korean: 합격
+    reading: null
+    translation:
+      en: pass (an exam)
+      ko: 합격
+    gender: null
+    plural: null
+  - korean: 불합격
+    reading: null
+    translation:
+      en: fail (an exam)
+      ko: 불합격
+    gender: null
+    plural: null
+  - korean: 성적
+    reading: null
+    translation:
+      en: score, grades
+      ko: 성적
+    gender: null
+    plural: null
+  - korean: 급
+    reading: null
+    translation:
+      en: level, grade
+      ko: 급
+    gender: null
+    plural: null
+    notes:
+      en: "TOPIK levels: 1급-6급"
+      ko: "TOPIK 등급: 1급~6급"
+  - korean: 답안지
+    reading: null
+    translation:
+      en: answer sheet
+      ko: 답안지
+    gender: null
+    plural: null
+
+- id: test_instructions
+  label:
+    en: Test Instructions
+    ko: 시험 지시어
+  type: vocabulary
+  words:
+  - korean: 보기
+    reading: null
+    translation:
+      en: example, choices (multiple choice)
+      ko: 보기, 선택지
+    gender: null
+    plural: null
+  - korean: 고르다
+    reading: null
+    translation:
+      en: to choose, to select
+      ko: 선택하다
+    gender: null
+    plural: null
+  - korean: 고르십시오
+    reading: null
+    translation:
+      en: please choose (formal instruction)
+      ko: 선택하세요 (격식체)
+    gender: null
+    plural: null
+  - korean: 선택하다
+    reading: null
+    translation:
+      en: to select
+      ko: 골라 뽑다
+    gender: null
+    plural: null
+  - korean: 서술하다
+    reading: null
+    translation:
+      en: to describe, to write in detail
+      ko: 자세히 쓰다
+    gender: null
+    plural: null
+  - korean: 작성하다
+    reading: null
+    translation:
+      en: to write, to fill out
+      ko: 글을 쓰다, 채우다
+    gender: null
+    plural: null
+  - korean: 주어진
+    reading: null
+    translation:
+      en: given (provided)
+      ko: 제시된
+    gender: null
+    plural: null
+  - korean: 다음
+    reading: null
+    translation:
+      en: next, following
+      ko: 다음
+    gender: null
+    plural: null
+  - korean: 다음을 읽고
+    reading: null
+    translation:
+      en: read the following and...
+      ko: 다음 내용을 읽고...
+    gender: null
+    plural: null
+    notes:
+      en: "Very common TOPIK instruction pattern"
+      ko: "매우 일반적인 TOPIK 지시문 패턴"
+  - korean: 맞는 것
+    reading: null
+    translation:
+      en: the correct one
+      ko: 올바른 것
+    gender: null
+    plural: null
+  - korean: 틀린 것
+    reading: null
+    translation:
+      en: the incorrect one
+      ko: 잘못된 것
+    gender: null
+    plural: null
+  - korean: 알맞은
+    reading: null
+    translation:
+      en: appropriate, suitable
+      ko: 적절한
+    gender: null
+    plural: null
+  - korean: 밑줄 친 부분
+    reading: null
+    translation:
+      en: underlined part
+      ko: 밑줄이 그어진 부분
+    gender: null
+    plural: null
+  - korean: ( )에 들어갈
+    reading: null
+    translation:
+      en: to be inserted in the blank
+      ko: 빈칸에 들어갈
+    gender: null
+    plural: null
+    notes:
+      en: "Common fill-in-the-blank instruction in TOPIK"
+      ko: "TOPIK에서 흔한 빈칸 채우기 지시문"
+  - korean: 같은 뜻
+    reading: null
+    translation:
+      en: same meaning
+      ko: 같은 의미
+    gender: null
+    plural: null
+  - korean: 반대 뜻
+    reading: null
+    translation:
+      en: opposite meaning
+      ko: 반대 의미
+    gender: null
+    plural: null
+  - korean: 중심 생각
+    reading: null
+    translation:
+      en: main idea, central thought
+      ko: 핵심 생각
+    gender: null
+    plural: null
+
+- id: common_topik_grammar
+  label:
+    en: Common TOPIK Grammar Terms
+    ko: TOPIK 빈출 문법 용어
+  type: vocabulary
+  words:
+  - korean: 주어
+    reading: null
+    translation:
+      en: subject (grammar)
+      ko: 문장의 주어
+    gender: null
+    plural: null
+  - korean: 서술어
+    reading: null
+    translation:
+      en: predicate
+      ko: 문장의 서술어
+    gender: null
+    plural: null
+  - korean: 목적어
+    reading: null
+    translation:
+      en: object (grammar)
+      ko: 문장의 목적어
+    gender: null
+    plural: null
+  - korean: 부사
+    reading: null
+    translation:
+      en: adverb
+      ko: 부사
+    gender: null
+    plural: null
+  - korean: 접속사
+    reading: null
+    translation:
+      en: conjunction
+      ko: 접속사
+    gender: null
+    plural: null
+  - korean: 관형어
+    reading: null
+    translation:
+      en: modifier, attributive
+      ko: 관형어
+    gender: null
+    plural: null
+  - korean: 어미
+    reading: null
+    translation:
+      en: verb ending
+      ko: 어미
+    gender: null
+    plural: null
+  - korean: 조사
+    reading: null
+    translation:
+      en: particle (grammatical)
+      ko: 조사
+    gender: null
+    plural: null
+  - korean: 종결어미
+    reading: null
+    translation:
+      en: sentence-ending suffix
+      ko: 문장 종결 어미
+    gender: null
+    plural: null
+  - korean: 연결어미
+    reading: null
+    translation:
+      en: connective ending
+      ko: 문장 연결 어미
+    gender: null
+    plural: null
+  - korean: 피동
+    reading: null
+    translation:
+      en: passive voice
+      ko: 피동태
+    gender: null
+    plural: null
+  - korean: 사동
+    reading: null
+    translation:
+      en: causative
+      ko: 사동태
+    gender: null
+    plural: null
+  - korean: 존칭
+    reading: null
+    translation:
+      en: honorific, respectful title
+      ko: 존칭
+    gender: null
+    plural: null
+
+- id: study_vocabulary
+  label:
+    en: Study Vocabulary
+    ko: 학습 어휘
+  type: vocabulary
+  words:
+  - korean: 복습
+    reading: null
+    translation:
+      en: review (studying)
+      ko: 복습
+    gender: null
+    plural: null
+  - korean: 예습
+    reading: null
+    translation:
+      en: preview, advance study
+      ko: 예습
+    gender: null
+    plural: null
+  - korean: 암기
+    reading: null
+    translation:
+      en: memorization
+      ko: 암기
+    gender: null
+    plural: null
+  - korean: 어휘
+    reading: null
+    translation:
+      en: vocabulary
+      ko: 어휘
+    gender: null
+    plural: null
+  - korean: 문법
+    reading: null
+    translation:
+      en: grammar
+      ko: 문법
+    gender: null
+    plural: null
+  - korean: 발음
+    reading: null
+    translation:
+      en: pronunciation
+      ko: 발음
+    gender: null
+    plural: null
+  - korean: 독해
+    reading: null
+    translation:
+      en: reading comprehension
+      ko: 독해
+    gender: null
+    plural: null
+  - korean: 작문
+    reading: null
+    translation:
+      en: composition, writing
+      ko: 작문
+    gender: null
+    plural: null
+  - korean: 받아쓰기
+    reading: null
+    translation:
+      en: dictation
+      ko: 받아쓰기
+    gender: null
+    plural: null
+  - korean: 모의시험
+    reading: null
+    translation:
+      en: mock exam, practice test
+      ko: 모의시험
+    gender: null
+    plural: null
+    notes:
+      en: "Taking 모의시험 regularly is key to TOPIK preparation"
+      ko: "모의시험을 정기적으로 보는 것이 TOPIK 준비의 핵심"
+  - korean: 기출문제
+    reading: null
+    translation:
+      en: past exam questions
+      ko: 이전 시험에 나온 문제
+    gender: null
+    plural: null
+    notes:
+      en: "Past TOPIK questions are available on the TOPIK website"
+      ko: "기출문제는 TOPIK 공식 웹사이트에서 확인 가능"
+  - korean: 오답 노트
+    reading: null
+    translation:
+      en: error notebook (wrong answer log)
+      ko: 틀린 문제를 정리하는 노트
+    gender: null
+    plural: null
+    notes:
+      en: "A study technique: writing down and reviewing incorrect answers"
+      ko: "학습 기법: 틀린 답을 적고 복습하는 것"
+  - korean: 시간 배분
+    reading: null
+    translation:
+      en: time allocation
+      ko: 시간 배분
+    gender: null
+    plural: null
+    notes:
+      en: "Essential skill for TOPIK: allocating time per section"
+      ko: "TOPIK에서 필수 기술: 각 영역별 시간 배분"
+  - korean: 유형
+    reading: null
+    translation:
+      en: type, pattern
+      ko: 유형
+    gender: null
+    plural: null
+    notes:
+      en: "TOPIK has specific 문제 유형 (question types) students should learn"
+      ko: "TOPIK에는 학생들이 익혀야 할 문제 유형이 있음"
+  - korean: 요점 정리
+    reading: null
+    translation:
+      en: summarizing key points
+      ko: 핵심 내용 정리
+    gender: null
+    plural: null
+  - korean: 취약점
+    reading: null
+    translation:
+      en: weak point, weakness
+      ko: 약한 부분
+    gender: null
+    plural: null
+  - korean: 집중력
+    reading: null
+    translation:
+      en: concentration, focus
+      ko: 집중하는 힘
+    gender: null
+    plural: null
+  - korean: 응시
+    reading: null
+    translation:
+      en: taking an exam, sitting for a test
+      ko: 시험에 응시하다
+    gender: null
+    plural: null
+  - korean: 원서 접수
+    reading: null
+    translation:
+      en: application submission (for exam)
+      ko: 시험 원서 접수
+    gender: null
+    plural: null
+    notes:
+      en: "TOPIK registration is done online through the TOPIK website"
+      ko: "TOPIK 접수는 TOPIK 공식 웹사이트에서 온라인으로 진행"
+  - korean: 수험표
+    reading: null
+    translation:
+      en: exam admission ticket
+      ko: 수험표
+    gender: null
+    plural: null
+  - korean: 수험생
+    reading: null
+    translation:
+      en: examinee, test taker
+      ko: 시험을 보는 사람
+    gender: null
+    plural: null
+  - korean: 채점
+    reading: null
+    translation:
+      en: grading, scoring
+      ko: 채점
+    gender: null
+    plural: null
+  - korean: 만점
+    reading: null
+    translation:
+      en: perfect score
+      ko: 만점
+    gender: null
+    plural: null
+    notes:
+      en: "TOPIK II total: 300 points (듣기 100 + 읽기 100 + 쓰기 100)"
+      ko: "TOPIK II 총점: 300점 (듣기 100 + 읽기 100 + 쓰기 100)"
+  - korean: 과락
+    reading: null
+    translation:
+      en: failing below minimum score in a section
+      ko: 과목별 최저 점수 미달
+    gender: null
+    plural: null
+  - korean: 자격증
+    reading: null
+    translation:
+      en: certificate, qualification
+      ko: 자격증
+    gender: null
+    plural: null
+    notes:
+      en: "TOPIK certificate is valid for 2 years from the date of results"
+      ko: "TOPIK 성적은 성적 발표일로부터 2년간 유효"
+  - korean: 접수 기간
+    reading: null
+    translation:
+      en: registration period
+      ko: 접수 기간
+    gender: null
+    plural: null
