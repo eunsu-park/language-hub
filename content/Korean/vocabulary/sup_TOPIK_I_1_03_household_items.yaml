@@ -1,0 +1,641 @@
+lesson: supplementary
+lesson_number: 103
+topik: TOPIK_I_1
+type: supplementary
+topic: "Household Items"
+
+categories:
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - korean: 의자
+    reading: null
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 椅子"
+      ko: "한자어: 椅子"
+  - korean: 책상
+    reading: null
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'book table'"
+      ko: "책 + 상(床)"
+  - korean: 침대
+    reading: null
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 寢臺"
+      ko: "한자어: 寢臺"
+  - korean: 소파
+    reading: null
+    translation:
+      en: "sofa, couch"
+      ko: "소파"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 탁자
+    reading: null
+    translation:
+      en: "table"
+      ko: "탁자"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 卓子"
+      ko: "한자어: 卓子"
+  - korean: 서랍
+    reading: null
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: null
+    plural: null
+    notes:
+      en: "Storage compartment in furniture"
+      ko: "가구의 수납 칸"
+  - korean: 옷장
+    reading: null
+    translation:
+      en: "wardrobe, closet"
+      ko: "옷장"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'clothes cabinet'"
+      ko: "옷 + 장(欌)"
+  - korean: 책장
+    reading: null
+    translation:
+      en: "bookshelf"
+      ko: "책장"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'book cabinet'"
+      ko: "책 + 장(欌)"
+  - korean: 이불
+    reading: null
+    translation:
+      en: "blanket, bedding"
+      ko: "이불"
+    gender: null
+    plural: null
+    notes:
+      en: "Traditional Korean-style comforter"
+      ko: "한국식 전통 이불"
+  - korean: 베개
+    reading: null
+    translation:
+      en: "pillow"
+      ko: "베개"
+    gender: null
+    plural: null
+    notes:
+      en: "Sleeping pillow"
+      ko: "수면용 베개"
+  - korean: 매트리스
+    reading: null
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 커튼
+    reading: null
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+
+- id: appliances
+  label:
+    en: "Appliances"
+    ko: "가전제품"
+  type: vocabulary
+  words:
+  - korean: 텔레비전
+    reading: null
+    translation:
+      en: "television"
+      ko: "텔레비전"
+    gender: null
+    plural: null
+    notes:
+      en: "Also shortened to 티비 (TV)"
+      ko: "줄여서 티비라고도 함"
+  - korean: 냉장고
+    reading: null
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 冷藏庫"
+      ko: "한자어: 冷藏庫"
+  - korean: 세탁기
+    reading: null
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 洗濯機"
+      ko: "한자어: 洗濯機"
+  - korean: 에어컨
+    reading: null
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: null
+    plural: null
+    notes:
+      en: "Shortened loanword from 'air conditioner'"
+      ko: "에어컨디셔너의 줄임말"
+  - korean: 컴퓨터
+    reading: null
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 전화기
+    reading: null
+    translation:
+      en: "telephone"
+      ko: "전화기"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 電話機"
+      ko: "한자어: 電話機"
+  - korean: 전자레인지
+    reading: null
+    translation:
+      en: "microwave oven"
+      ko: "전자레인지"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'electronic range'"
+      ko: "전자 + 레인지"
+  - korean: 선풍기
+    reading: null
+    translation:
+      en: "electric fan"
+      ko: "선풍기"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 扇風機"
+      ko: "한자어: 扇風機"
+  - korean: 청소기
+    reading: null
+    translation:
+      en: "vacuum cleaner"
+      ko: "청소기"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 淸掃機"
+      ko: "한자어: 淸掃機"
+  - korean: 다리미
+    reading: null
+    translation:
+      en: "iron (for clothes)"
+      ko: "다리미"
+    gender: null
+    plural: null
+    notes:
+      en: "Used for ironing clothes"
+      ko: "옷을 다릴 때 사용"
+  - korean: 건조기
+    reading: null
+    translation:
+      en: "dryer"
+      ko: "건조기"
+    gender: null
+    plural: null
+    notes:
+      en: "Clothes dryer"
+      ko: "의류 건조기"
+  - korean: 히터
+    reading: null
+    translation:
+      en: "heater"
+      ko: "히터"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+
+- id: kitchen
+  label:
+    en: "Kitchen Items"
+    ko: "주방 용품"
+  type: vocabulary
+  words:
+  - korean: 접시
+    reading: null
+    translation:
+      en: "plate, dish"
+      ko: "접시"
+    gender: null
+    plural: null
+    notes:
+      en: "Flat dish for serving food"
+      ko: "음식을 담는 납작한 그릇"
+  - korean: 그릇
+    reading: null
+    translation:
+      en: "bowl, container"
+      ko: "그릇"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for dishes and bowls"
+      ko: "그릇류의 일반적 표현"
+  - korean: 젓가락
+    reading: null
+    translation:
+      en: "chopsticks"
+      ko: "젓가락"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean chopsticks are metal and flat"
+      ko: "한국 젓가락은 금속제이며 납작함"
+  - korean: 숟가락
+    reading: null
+    translation:
+      en: "spoon"
+      ko: "숟가락"
+    gender: null
+    plural: null
+    notes:
+      en: "Koreans eat rice with a spoon, not chopsticks"
+      ko: "한국인은 밥을 숟가락으로 먹음"
+  - korean: 냄비
+    reading: null
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: null
+    plural: null
+    notes:
+      en: "Cooking pot"
+      ko: "조리용 냄비"
+  - korean: 프라이팬
+    reading: null
+    translation:
+      en: "frying pan"
+      ko: "프라이팬"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 칼
+    reading: null
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'sword'"
+      ko: "'검'이라는 뜻도 있음"
+  - korean: 도마
+    reading: null
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: null
+    plural: null
+    notes:
+      en: "Wooden or plastic board for cutting"
+      ko: "자를 때 사용하는 나무 또는 플라스틱 판"
+  - korean: 컵
+    reading: null
+    translation:
+      en: "cup, glass"
+      ko: "컵"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 포크
+    reading: null
+    translation:
+      en: "fork"
+      ko: "포크"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 밥솥
+    reading: null
+    translation:
+      en: "rice cooker"
+      ko: "밥솥"
+    gender: null
+    plural: null
+    notes:
+      en: "Essential Korean kitchen appliance"
+      ko: "한국 주방의 필수 가전"
+  - korean: 국자
+    reading: null
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: null
+    plural: null
+    notes:
+      en: "Used for serving soup"
+      ko: "국을 뜰 때 사용"
+
+- id: bathroom
+  label:
+    en: "Bathroom Items"
+    ko: "욕실 용품"
+  type: vocabulary
+  words:
+  - korean: 거울
+    reading: null
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: null
+    plural: null
+    notes:
+      en: "Reflective surface"
+      ko: "반사 표면"
+  - korean: 수건
+    reading: null
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 手巾"
+      ko: "한자어: 手巾"
+  - korean: 비누
+    reading: null
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: null
+    plural: null
+    notes:
+      en: "Bar soap for washing"
+      ko: "세척용 고체 비누"
+  - korean: 칫솔
+    reading: null
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: null
+    plural: null
+    notes:
+      en: "이 (tooth) + 솔 (brush); 칫 is the connective form"
+      ko: "이 + 솔의 합성어"
+  - korean: 치약
+    reading: null
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 齒藥"
+      ko: "한자어: 齒藥"
+  - korean: 샴푸
+    reading: null
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 휴지
+    reading: null
+    translation:
+      en: "tissue, toilet paper"
+      ko: "휴지"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 休紙; general term for tissue"
+      ko: "한자어: 休紙; 화장지의 일반적 표현"
+  - korean: 세면대
+    reading: null
+    translation:
+      en: "washbasin, sink"
+      ko: "세면대"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 洗面臺"
+      ko: "한자어: 洗面臺"
+  - korean: 변기
+    reading: null
+    translation:
+      en: "toilet"
+      ko: "변기"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 便器"
+      ko: "한자어: 便器"
+  - korean: 욕조
+    reading: null
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 浴槽"
+      ko: "한자어: 浴槽"
+
+- id: rooms
+  label:
+    en: "Rooms and Parts of a House"
+    ko: "방과 집의 구조"
+  type: vocabulary
+  words:
+  - korean: 방
+    reading: null
+    translation:
+      en: "room"
+      ko: "방"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for any room"
+      ko: "모든 방의 일반적 표현"
+  - korean: 거실
+    reading: null
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 居室"
+      ko: "한자어: 居室"
+  - korean: 부엌
+    reading: null
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 화장실
+    reading: null
+    translation:
+      en: "bathroom, restroom"
+      ko: "화장실"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 化粧室 (literally 'makeup room')"
+      ko: "한자어: 化粧室"
+  - korean: 창문
+    reading: null
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 窓門"
+      ko: "한자어: 窓門"
+  - korean: 문
+    reading: null
+    translation:
+      en: "door"
+      ko: "문"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'gate'"
+      ko: "'대문'이라는 뜻도 있음"
+  - korean: 벽
+    reading: null
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 壁"
+      ko: "한자어: 壁"
+  - korean: 천장
+    reading: null
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 天障"
+      ko: "한자어: 天障"
+  - korean: 바닥
+    reading: null
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'bottom'"
+      ko: "'밑바닥'이라는 뜻도 있음"
+  - korean: 지붕
+    reading: null
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: null
+    plural: null
+    notes:
+      en: "Top of a building"
+      ko: "건물의 윗부분"
+  - korean: 계단
+    reading: null
+    translation:
+      en: "stairs"
+      ko: "계단"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 階段"
+      ko: "한자어: 階段"
+  - korean: 현관
+    reading: null
+    translation:
+      en: "entrance, foyer"
+      ko: "현관"
+    gender: null
+    plural: null
+    notes:
+      en: "Where you take off shoes in Korean homes"
+      ko: "한국 가정에서 신발을 벗는 곳"
+  - korean: 마당
+    reading: null
+    translation:
+      en: "yard, garden"
+      ko: "마당"
+    gender: null
+    plural: null
+    notes:
+      en: "Open area outside a house"
+      ko: "집 밖의 열린 공간"
+  - korean: 베란다
+    reading: null
+    translation:
+      en: "veranda, balcony"
+      ko: "베란다"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword; common in Korean apartments"
+      ko: "외래어; 한국 아파트에서 흔함"
