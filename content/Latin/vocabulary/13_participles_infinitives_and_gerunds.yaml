@@ -1,0 +1,604 @@
+lesson: 13_Participles_Infinitives_and_Gerunds
+lesson_number: 13
+cefr: B1
+categories:
+- id: 131_participle_forms
+  label:
+    en: 13.1 Participle Forms
+    ko: 13.1 분사 형태
+  type: vocabulary
+  words:
+  - latin: amans, amantis
+    translation:
+      en: loving (present active participle)
+      ko: 사랑하는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 1st conjugation; stem amant- + 3rd decl. endings
+      ko: 제1변화; 어간 amant- + 제3변화 어미
+  - latin: monens, monentis
+    translation:
+      en: advising (present active participle)
+      ko: 충고하는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 2nd conjugation; stem monent-
+      ko: 제2변화; 어간 monent-
+  - latin: ducens, ducentis
+    translation:
+      en: leading (present active participle)
+      ko: 이끄는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; stem ducent-
+      ko: 제3변화; 어간 ducent-
+  - latin: capiens, capientis
+    translation:
+      en: taking (present active participle)
+      ko: 잡는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem; stem capient-
+      ko: 제3변화 i-어간; 어간 capient-
+  - latin: audiens, audientis
+    translation:
+      en: hearing (present active participle)
+      ko: 듣는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 4th conjugation; stem audient-
+      ko: 제4변화; 어간 audient-
+  - latin: scribens, scribentis
+    translation:
+      en: writing (present active participle)
+      ko: 쓰는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; stem scribent-
+      ko: 제3변화; 어간 scribent-
+  - latin: veniens, venientis
+    translation:
+      en: coming (present active participle)
+      ko: 오는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 4th conjugation; stem venient-
+      ko: 제4변화; 어간 venient-
+  - latin: legens, legentis
+    translation:
+      en: reading (present active participle)
+      ko: 읽는 (현재 능동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; stem legent-
+      ko: 제3변화; 어간 legent-
+  - latin: amatus, -a, -um
+    translation:
+      en: loved (perfect passive participle)
+      ko: 사랑받은 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 1st conjugation; declines like 1st/2nd adj.
+      ko: 제1변화; 제1·2변화 형용사처럼 변화
+  - latin: monitus, -a, -um
+    translation:
+      en: advised (perfect passive participle)
+      ko: 충고받은 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 2nd conjugation; regular -itus ending
+      ko: 제2변화; 규칙 -itus 어미
+  - latin: ductus, -a, -um
+    translation:
+      en: led (perfect passive participle)
+      ko: 이끌린 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; duco → ductus
+      ko: 제3변화; duco → ductus
+  - latin: captus, -a, -um
+    translation:
+      en: taken, seized (perfect passive participle)
+      ko: 잡힌 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem; capio → captus
+      ko: 제3변화 i-어간; capio → captus
+  - latin: auditus, -a, -um
+    translation:
+      en: heard (perfect passive participle)
+      ko: 들린 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 4th conjugation; regular -itus ending
+      ko: 제4변화; 규칙 -itus 어미
+  - latin: scriptus, -a, -um
+    translation:
+      en: written (perfect passive participle)
+      ko: 쓰여진 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; scribo → scriptus
+      ko: 제3변화; scribo → scriptus
+  - latin: missus, -a, -um
+    translation:
+      en: sent (perfect passive participle)
+      ko: 보내진 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; mitto → missus
+      ko: 제3변화; mitto → missus
+  - latin: victus, -a, -um
+    translation:
+      en: conquered (perfect passive participle)
+      ko: 정복된 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation; vinco → victus
+      ko: 제3변화; vinco → victus
+  - latin: factus, -a, -um
+    translation:
+      en: done, made (perfect passive participle)
+      ko: 만들어진, 행해진 (완료 수동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem; facio → factus
+      ko: 제3변화 i-어간; facio → factus
+  - latin: amaturus, -a, -um
+    translation:
+      en: about to love (future active participle)
+      ko: 사랑하려는 (미래 능동 분사)
+    gender: null
+    notes:
+      en: Perfect participle stem + -urus; expresses intention
+      ko: 완료 분사 어간 + -urus; 의도 표현
+  - latin: moniturus, -a, -um
+    translation:
+      en: about to advise (future active participle)
+      ko: 충고하려는 (미래 능동 분사)
+    gender: null
+    notes:
+      en: 2nd conjugation future active participle
+      ko: 제2변화 미래 능동 분사
+  - latin: ducturus, -a, -um
+    translation:
+      en: about to lead (future active participle)
+      ko: 이끌려는 (미래 능동 분사)
+    gender: null
+    notes:
+      en: 3rd conjugation future active participle
+      ko: 제3변화 미래 능동 분사
+  - latin: venturus, -a, -um
+    translation:
+      en: about to come (future active participle)
+      ko: 오려는 (미래 능동 분사)
+    gender: null
+    notes:
+      en: 4th conjugation future active participle
+      ko: 제4변화 미래 능동 분사
+  - latin: futurus, -a, -um
+    translation:
+      en: about to be (future active participle of sum)
+      ko: 되려는 (sum의 미래 능동 분사)
+    gender: null
+    notes:
+      en: Irregular; future participle of esse
+      ko: 불규칙; esse의 미래 분사
+- id: 132_infinitive_forms
+  label:
+    en: 13.2 Infinitive Forms
+    ko: 13.2 부정사 형태
+  type: vocabulary
+  words:
+  - latin: amare
+    translation:
+      en: to love (present active infinitive)
+      ko: 사랑하다 (현재 능동 부정사)
+    gender: null
+    notes:
+      en: 1st conjugation; stem + -are
+      ko: 제1변화; 어간 + -are
+  - latin: monere
+    translation:
+      en: to advise (present active infinitive)
+      ko: 충고하다 (현재 능동 부정사)
+    gender: null
+    notes:
+      en: 2nd conjugation; stem + -ere (long e)
+      ko: 제2변화; 어간 + -ere (장모음 e)
+  - latin: ducere
+    translation:
+      en: to lead (present active infinitive)
+      ko: 이끌다 (현재 능동 부정사)
+    gender: null
+    notes:
+      en: 3rd conjugation; stem + -ere (short e)
+      ko: 제3변화; 어간 + -ere (단모음 e)
+  - latin: audire
+    translation:
+      en: to hear (present active infinitive)
+      ko: 듣다 (현재 능동 부정사)
+    gender: null
+    notes:
+      en: 4th conjugation; stem + -ire
+      ko: 제4변화; 어간 + -ire
+  - latin: amavisse
+    translation:
+      en: to have loved (perfect active infinitive)
+      ko: 사랑했다 (완료 능동 부정사)
+    gender: null
+    notes:
+      en: Perfect stem + -isse
+      ko: 완료 어간 + -isse
+  - latin: monuisse
+    translation:
+      en: to have advised (perfect active infinitive)
+      ko: 충고했다 (완료 능동 부정사)
+    gender: null
+    notes:
+      en: Perfect stem + -isse
+      ko: 완료 어간 + -isse
+  - latin: amari
+    translation:
+      en: to be loved (present passive infinitive)
+      ko: 사랑받다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 1st conjugation passive infinitive
+      ko: 제1변화 수동 부정사
+  - latin: moneri
+    translation:
+      en: to be advised (present passive infinitive)
+      ko: 충고받다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 2nd conjugation passive infinitive
+      ko: 제2변화 수동 부정사
+  - latin: duci
+    translation:
+      en: to be led (present passive infinitive)
+      ko: 이끌리다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 3rd conjugation passive infinitive
+      ko: 제3변화 수동 부정사
+  - latin: audiri
+    translation:
+      en: to be heard (present passive infinitive)
+      ko: 들리다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 4th conjugation passive infinitive
+      ko: 제4변화 수동 부정사
+  - latin: amatum esse
+    translation:
+      en: to have been loved (perfect passive infinitive)
+      ko: 사랑받았다 (완료 수동 부정사)
+    gender: null
+    notes:
+      en: Perfect participle + esse
+      ko: 완료 분사 + esse
+  - latin: amaturum esse
+    translation:
+      en: to be about to love (future active infinitive)
+      ko: 사랑하려 하다 (미래 능동 부정사)
+    gender: null
+    notes:
+      en: Future participle + esse
+      ko: 미래 분사 + esse
+  - latin: esse
+    translation:
+      en: to be (infinitive of sum)
+      ko: 이다, 있다 (sum의 부정사)
+    gender: null
+    notes:
+      en: Irregular; used in indirect statement
+      ko: 불규칙; 간접화법에 사용
+  - latin: fuisse
+    translation:
+      en: to have been (perfect infinitive of sum)
+      ko: 이었다 (sum의 완료 부정사)
+    gender: null
+    notes:
+      en: Perfect infinitive of esse
+      ko: esse의 완료 부정사
+- id: 133_gerund_gerundive
+  label:
+    en: 13.3 Gerund and Gerundive
+    ko: 13.3 동명사와 동형용사
+  type: vocabulary
+  words:
+  - latin: amandum
+    translation:
+      en: loving, of loving (gerund)
+      ko: 사랑함, 사랑하기 (동명사)
+    gender: n
+    notes:
+      en: 1st conjugation gerund; neuter 2nd decl. noun
+      ko: 제1변화 동명사; 중성 제2변화 명사
+  - latin: monendum
+    translation:
+      en: advising, of advising (gerund)
+      ko: 충고함, 충고하기 (동명사)
+    gender: n
+    notes:
+      en: 2nd conjugation gerund
+      ko: 제2변화 동명사
+  - latin: ducendum
+    translation:
+      en: leading, of leading (gerund)
+      ko: 이끌기 (동명사)
+    gender: n
+    notes:
+      en: 3rd conjugation gerund
+      ko: 제3변화 동명사
+  - latin: audiendum
+    translation:
+      en: hearing, of hearing (gerund)
+      ko: 듣기 (동명사)
+    gender: n
+    notes:
+      en: 4th conjugation gerund
+      ko: 제4변화 동명사
+  - latin: scribendum
+    translation:
+      en: writing, of writing (gerund)
+      ko: 쓰기 (동명사)
+    gender: n
+    notes:
+      en: 3rd conjugation gerund; scribo
+      ko: 제3변화 동명사; scribo
+  - latin: legendus, -a, -um
+    translation:
+      en: that must be read (gerundive)
+      ko: 읽혀야 할 (동형용사)
+    gender: null
+    notes:
+      en: 3rd conjugation gerundive; passive obligation
+      ko: 제3변화 동형용사; 수동적 의무
+  - latin: amandus, -a, -um
+    translation:
+      en: that must be loved (gerundive)
+      ko: 사랑받아야 할 (동형용사)
+    gender: null
+    notes:
+      en: 1st conjugation gerundive; expresses necessity
+      ko: 제1변화 동형용사; 필요성 표현
+  - latin: faciendus, -a, -um
+    translation:
+      en: that must be done (gerundive)
+      ko: 행해져야 할 (동형용사)
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem gerundive; facio
+      ko: 제3변화 i-어간 동형용사; facio
+  - latin: audiendus, -a, -um
+    translation:
+      en: that must be heard (gerundive)
+      ko: 들려야 할 (동형용사)
+    gender: null
+    notes:
+      en: 4th conjugation gerundive
+      ko: 제4변화 동형용사
+  - latin: dicendus, -a, -um
+    translation:
+      en: that must be said (gerundive)
+      ko: 말해져야 할 (동형용사)
+    gender: null
+    notes:
+      en: 3rd conjugation gerundive; dico
+      ko: 제3변화 동형용사; dico
+- id: 134_verbal_noun_expressions
+  label:
+    en: 13.4 Verbal Noun Expressions
+    ko: 13.4 동사적 명사 표현
+  type: vocabulary
+  words:
+  - latin: ad amandum
+    translation:
+      en: for the purpose of loving
+      ko: 사랑하기 위해
+    gender: null
+    notes:
+      en: ad + gerund (accusative) = purpose
+      ko: ad + 동명사 (대격) = 목적
+  - latin: ad discendum
+    translation:
+      en: for the purpose of learning
+      ko: 배우기 위해
+    gender: null
+    notes:
+      en: ad + gerund; disco, discere
+      ko: ad + 동명사; disco, discere
+  - latin: ad pugnandum
+    translation:
+      en: for the purpose of fighting
+      ko: 싸우기 위해
+    gender: null
+    notes:
+      en: ad + gerund; pugno, -are
+      ko: ad + 동명사; pugno, -are
+  - latin: docendi causa
+    translation:
+      en: for the sake of teaching
+      ko: 가르치기 위해
+    gender: null
+    notes:
+      en: Genitive gerund + causa = purpose
+      ko: 속격 동명사 + causa = 목적
+  - latin: vivendi ars
+    translation:
+      en: the art of living
+      ko: 삶의 기술
+    gender: null
+    notes:
+      en: Genitive gerund modifying noun
+      ko: 명사를 수식하는 속격 동명사
+  - latin: scribendo
+    translation:
+      en: by writing (ablative gerund)
+      ko: 쓰면서 (탈격 동명사)
+    gender: null
+    notes:
+      en: Ablative gerund = means/instrument
+      ko: 탈격 동명사 = 수단/도구
+  - latin: legendo
+    translation:
+      en: by reading (ablative gerund)
+      ko: 읽으면서 (탈격 동명사)
+    gender: null
+    notes:
+      en: Ablative gerund of lego
+      ko: lego의 탈격 동명사
+  - latin: Carthago delenda est
+    translation:
+      en: Carthage must be destroyed
+      ko: 카르타고는 파괴되어야 한다
+    gender: null
+    notes:
+      en: Famous gerundive of obligation (Cato the Elder)
+      ko: 유명한 의무의 동형용사 (대(大) 카토)
+  - latin: liber legendus est
+    translation:
+      en: the book must be read
+      ko: 그 책은 읽혀야 한다
+    gender: null
+    notes:
+      en: Passive periphrastic (gerundive + esse)
+      ko: 수동 우언법 (동형용사 + esse)
+  - latin: nobis eundum est
+    translation:
+      en: we must go (it must be gone by us)
+      ko: 우리는 가야 한다
+    gender: null
+    notes:
+      en: Impersonal passive periphrastic with dative of agent
+      ko: 행위자의 여격을 사용한 비인칭 수동 우언법
+  - latin: ad videndum
+    translation:
+      en: for the purpose of seeing
+      ko: 보기 위해
+    gender: null
+    notes:
+      en: ad + gerund (accusative) = purpose; video
+      ko: ad + 동명사 (대격) = 목적; video
+  - latin: cupidus audiendi
+    translation:
+      en: eager to hear (desirous of hearing)
+      ko: 듣고 싶어하는 (듣기에 열망하는)
+    gender: null
+    notes:
+      en: Adjective + genitive gerund
+      ko: 형용사 + 속격 동명사
+  - latin: spes vincendi
+    translation:
+      en: hope of conquering
+      ko: 이기려는 희망
+    gender: null
+    notes:
+      en: Noun + genitive gerund; spes, -ei (5th decl.)
+      ko: 명사 + 속격 동명사; spes, -ei (제5변화)
+  - latin: modus vivendi
+    translation:
+      en: way of living, modus vivendi
+      ko: 삶의 방식
+    gender: null
+    notes:
+      en: Genitive gerund modifying modus; still used in English
+      ko: modus를 수식하는 속격 동명사; 영어에서도 사용
+  - latin: pugnandi causa
+    translation:
+      en: for the sake of fighting
+      ko: 싸우기 위해
+    gender: null
+    notes:
+      en: Genitive gerund + causa = purpose
+      ko: 속격 동명사 + causa = 목적
+  - latin: miles pugnans
+    translation:
+      en: a fighting soldier, a soldier fighting
+      ko: 싸우는 병사
+    gender: null
+    notes:
+      en: Participial phrase; present participle as adjective
+      ko: 분사구; 형용사로 쓰인 현재 분사
+  - latin: urbs condenda
+    translation:
+      en: a city to be founded (gerundive)
+      ko: 건설되어야 할 도시 (동형용사)
+    gender: null
+    notes:
+      en: Gerundive attributive use; condo
+      ko: 동형용사의 한정적 용법; condo
+  - latin: rex victurus
+    translation:
+      en: a king about to conquer
+      ko: 정복하려는 왕
+    gender: null
+    notes:
+      en: Future active participle attributive use
+      ko: 미래 능동 분사의 한정적 용법
+  - latin: hostes fugientes
+    translation:
+      en: the fleeing enemies
+      ko: 도주하는 적들
+    gender: null
+    notes:
+      en: Present participle as attributive adjective; fugio
+      ko: 한정적 형용사로 쓰인 현재 분사; fugio
+  - latin: vir doctus
+    translation:
+      en: a learned man
+      ko: 학식 있는 남자
+    gender: null
+    notes:
+      en: Perfect passive participle as adjective; doceo
+      ko: 형용사로 쓰인 완료 수동 분사; doceo
+  - latin: opus faciendum
+    translation:
+      en: work that must be done
+      ko: 해야 할 일
+    gender: null
+    notes:
+      en: Gerundive with noun; passive obligation
+      ko: 명사와 함께 쓰인 동형용사; 수동적 의무
+  - latin: mihi faciendum est
+    translation:
+      en: I must do (it must be done by me)
+      ko: 나는 해야 한다
+    gender: null
+    notes:
+      en: Dative of agent + gerundive + esse
+      ko: 행위자의 여격 + 동형용사 + esse
+  - latin: poeta amatus
+    translation:
+      en: the beloved poet
+      ko: 사랑받는 시인
+    gender: null
+    notes:
+      en: Perfect passive participle as adjective
+      ko: 형용사로 쓰인 완료 수동 분사
+  - latin: oratio habenda
+    translation:
+      en: a speech that must be delivered
+      ko: 해야 할 연설
+    gender: null
+    notes:
+      en: Gerundive of habeo; feminine agreement
+      ko: habeo의 동형용사; 여성 일치
+  - latin: navigandum est
+    translation:
+      en: one must sail (impersonal gerundive)
+      ko: 항해해야 한다 (비인칭 동형용사)
+    gender: null
+    notes:
+      en: Impersonal passive periphrastic; intransitive verb
+      ko: 비인칭 수동 우언법; 자동사
+  - latin: bella gerenda sunt
+    translation:
+      en: wars must be waged
+      ko: 전쟁이 수행되어야 한다
+    gender: null
+    notes:
+      en: Plural gerundive construction; gero
+      ko: 복수 동형용사 구문; gero
