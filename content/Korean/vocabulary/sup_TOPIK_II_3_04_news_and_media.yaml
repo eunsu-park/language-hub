@@ -1,0 +1,464 @@
+lesson: supplementary
+lesson_number: 119
+topik: TOPIK_II_3
+type: supplementary
+topic: "News and Media"
+
+categories:
+- id: media_types
+  label:
+    en: "Media Types"
+    ko: "미디어 종류"
+  type: vocabulary
+  words:
+  - korean: 뉴스
+    reading: null
+    translation:
+      en: "news"
+      ko: "새 소식"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'news'"
+      ko: "외래어: 영어 'news'에서 유래"
+  - korean: 신문
+    reading: null
+    translation:
+      en: "newspaper"
+      ko: "신문"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 新(new) + 聞(hear)"
+      ko: "한자어: 新(새 신) + 聞(들을 문)"
+  - korean: 방송
+    reading: null
+    translation:
+      en: "broadcast, broadcasting"
+      ko: "방송"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 放(release) + 送(send)"
+      ko: "한자어: 放(놓을 방) + 送(보낼 송)"
+  - korean: 라디오
+    reading: null
+    translation:
+      en: "radio"
+      ko: "라디오"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'radio'"
+      ko: "외래어: 영어 'radio'에서 유래"
+  - korean: 텔레비전
+    reading: null
+    translation:
+      en: "television"
+      ko: "텔레비전"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'television'; often shortened to TV(티비)"
+      ko: "외래어: 영어 'television'에서 유래; 줄여서 TV(티비)"
+  - korean: 잡지
+    reading: null
+    translation:
+      en: "magazine"
+      ko: "잡지"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 雜(mixed) + 誌(record)"
+      ko: "한자어: 雜(섞일 잡) + 誌(기록할 지)"
+  - korean: 매체
+    reading: null
+    translation:
+      en: "media, medium"
+      ko: "정보를 전달하는 수단"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 媒(intermediary) + 體(body)"
+      ko: "한자어: 媒(중매 매) + 體(몸 체)"
+  - korean: 언론
+    reading: null
+    translation:
+      en: "the press, media"
+      ko: "뉴스를 전하는 기관"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 言(word) + 論(discuss)"
+      ko: "한자어: 言(말씀 언) + 論(논할 론)"
+  - korean: 채널
+    reading: null
+    translation:
+      en: "channel"
+      ko: "방송 채널"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'channel'"
+      ko: "외래어: 영어 'channel'에서 유래"
+  - korean: 팟캐스트
+    reading: null
+    translation:
+      en: "podcast"
+      ko: "인터넷 오디오 방송"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'podcast'"
+      ko: "외래어: 영어 'podcast'에서 유래"
+
+- id: journalism
+  label:
+    en: "Journalism"
+    ko: "언론"
+  type: vocabulary
+  words:
+  - korean: 기사
+    reading: null
+    translation:
+      en: "news article"
+      ko: "신문이나 잡지의 글"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 記(record) + 事(matter)"
+      ko: "한자어: 記(기록할 기) + 事(일 사)"
+  - korean: 기자
+    reading: null
+    translation:
+      en: "journalist, reporter"
+      ko: "기사를 쓰는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 記(record) + 者(person)"
+      ko: "한자어: 記(기록할 기) + 者(사람 자)"
+  - korean: 보도
+    reading: null
+    translation:
+      en: "news report, coverage"
+      ko: "소식을 알림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 報(inform) + 道(way)"
+      ko: "한자어: 報(알릴 보) + 道(길 도)"
+  - korean: 취재
+    reading: null
+    translation:
+      en: "news gathering, coverage"
+      ko: "기사를 위해 조사함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 取(take) + 材(material)"
+      ko: "한자어: 取(가질 취) + 材(재목 재)"
+  - korean: 속보
+    reading: null
+    translation:
+      en: "breaking news"
+      ko: "긴급 뉴스"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 速(fast) + 報(report)"
+      ko: "한자어: 速(빠를 속) + 報(알릴 보)"
+  - korean: 특집
+    reading: null
+    translation:
+      en: "special feature, special edition"
+      ko: "특별 기획"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 特(special) + 集(gather)"
+      ko: "한자어: 特(특별할 특) + 集(모을 집)"
+  - korean: 사설
+    reading: null
+    translation:
+      en: "editorial"
+      ko: "신문사의 의견"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 社(company) + 說(speak)"
+      ko: "한자어: 社(모일 사) + 說(말씀 설)"
+  - korean: 칼럼
+    reading: null
+    translation:
+      en: "column (opinion piece)"
+      ko: "신문의 정기 기고문"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'column'"
+      ko: "외래어: 영어 'column'에서 유래"
+  - korean: 헤드라인
+    reading: null
+    translation:
+      en: "headline"
+      ko: "주요 제목"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'headline'"
+      ko: "외래어: 영어 'headline'에서 유래"
+  - korean: 편집
+    reading: null
+    translation:
+      en: "editing"
+      ko: "내용을 고치고 다듬음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 編(compile) + 輯(gather)"
+      ko: "한자어: 編(엮을 편) + 輯(모을 집)"
+
+- id: broadcasting
+  label:
+    en: "Broadcasting"
+    ko: "방송"
+  type: vocabulary
+  words:
+  - korean: 사건
+    reading: null
+    translation:
+      en: "incident, case"
+      ko: "일어난 일"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 事(matter) + 件(item)"
+      ko: "한자어: 事(일 사) + 件(조건 건)"
+  - korean: 사고
+    reading: null
+    translation:
+      en: "accident"
+      ko: "뜻밖에 일어난 일"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 事(matter) + 故(reason/accident)"
+      ko: "한자어: 事(일 사) + 故(연고 고)"
+  - korean: 논란
+    reading: null
+    translation:
+      en: "controversy"
+      ko: "의견이 갈리는 문제"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 論(discuss) + 亂(disorder)"
+      ko: "한자어: 論(논할 론) + 亂(어지러울 란)"
+  - korean: 여론
+    reading: null
+    translation:
+      en: "public opinion"
+      ko: "대중의 의견"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 輿(public) + 論(discussion)"
+      ko: "한자어: 輿(수레 여) + 論(논할 론)"
+  - korean: 인터뷰
+    reading: null
+    translation:
+      en: "interview"
+      ko: "면담"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'interview'"
+      ko: "외래어: 영어 'interview'에서 유래"
+  - korean: 생방송
+    reading: null
+    translation:
+      en: "live broadcast"
+      ko: "실시간 방송"
+    gender: null
+    plural: null
+    notes:
+      en: "生(live) + 放送(broadcast)"
+      ko: "생(날 생) + 방송의 합성어"
+  - korean: 녹화
+    reading: null
+    translation:
+      en: "recording (video)"
+      ko: "영상 기록"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 錄(record) + 畫(picture)"
+      ko: "한자어: 錄(기록할 록) + 畫(그림 화)"
+  - korean: 자막
+    reading: null
+    translation:
+      en: "subtitles, captions"
+      ko: "화면 아래 글자"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 字(character) + 幕(curtain/screen)"
+      ko: "한자어: 字(글자 자) + 幕(막 막)"
+  - korean: 시청자
+    reading: null
+    translation:
+      en: "viewer (TV)"
+      ko: "방송을 보는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 視(see) + 聽(hear) + 者(person)"
+      ko: "한자어: 視(볼 시) + 聽(들을 청) + 者(사람 자)"
+  - korean: 시청률
+    reading: null
+    translation:
+      en: "viewership rating"
+      ko: "방송을 시청한 비율"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 視聽(watch) + 率(rate)"
+      ko: "한자어: 視聽(시청) + 率(비율 률)"
+  - korean: 진행자
+    reading: null
+    translation:
+      en: "host, MC"
+      ko: "프로그램을 이끄는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 進行(proceed) + 者(person)"
+      ko: "한자어: 進行(진행) + 者(사람 자)"
+  - korean: 앵커
+    reading: null
+    translation:
+      en: "anchor (news)"
+      ko: "뉴스 진행자"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'anchor'"
+      ko: "외래어: 영어 'anchor'에서 유래"
+
+- id: social_media
+  label:
+    en: "Social Media"
+    ko: "소셜 미디어"
+  type: vocabulary
+  words:
+  - korean: 광고
+    reading: null
+    translation:
+      en: "advertisement"
+      ko: "상품이나 서비스를 알림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 廣(wide) + 告(inform)"
+      ko: "한자어: 廣(넓을 광) + 告(고할 고)"
+  - korean: 구독
+    reading: null
+    translation:
+      en: "subscription, subscribing"
+      ko: "정기적으로 받아봄"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 購(purchase) + 讀(read)"
+      ko: "한자어: 購(살 구) + 讀(읽을 독)"
+  - korean: 조회수
+    reading: null
+    translation:
+      en: "view count"
+      ko: "본 횟수"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 照會(inquiry) + 數(number)"
+      ko: "한자어: 照會(조회) + 數(셀 수)"
+  - korean: 구독자
+    reading: null
+    translation:
+      en: "subscriber"
+      ko: "구독하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "購讀(subscribe) + 者(person)"
+      ko: "구독 + 자(사람 자)"
+  - korean: 좋아요
+    reading: null
+    translation:
+      en: "like (social media)"
+      ko: "마음에 듦 표시"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: from 좋다(to be good) + 아요(polite ending)"
+      ko: "순우리말: 좋다 + 아요; SNS에서 호감 표시"
+  - korean: 공유
+    reading: null
+    translation:
+      en: "sharing"
+      ko: "함께 나눔"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 共(together) + 有(have)"
+      ko: "한자어: 共(함께 공) + 有(있을 유)"
+  - korean: 팔로우
+    reading: null
+    translation:
+      en: "follow (social media)"
+      ko: "소셜 미디어에서 따라가기"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'follow'"
+      ko: "외래어: 영어 'follow'에서 유래"
+  - korean: 해시태그
+    reading: null
+    translation:
+      en: "hashtag"
+      ko: "검색용 태그"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'hashtag'"
+      ko: "외래어: 영어 'hashtag'에서 유래"
+  - korean: 영상
+    reading: null
+    translation:
+      en: "video, footage"
+      ko: "움직이는 그림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 映(reflect) + 像(image)"
+      ko: "한자어: 映(비칠 영) + 像(형상 상)"
+  - korean: 콘텐츠
+    reading: null
+    translation:
+      en: "content (digital)"
+      ko: "디지털 내용물"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'contents'"
+      ko: "외래어: 영어 'contents'에서 유래"
+  - korean: 스트리밍
+    reading: null
+    translation:
+      en: "streaming"
+      ko: "실시간 전송"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'streaming'"
+      ko: "외래어: 영어 'streaming'에서 유래"
