@@ -1,0 +1,604 @@
+lesson: supplementary
+lesson_number: 106
+topik: TOPIK_I_1
+type: supplementary
+topic: "Weather and Seasons"
+
+categories:
+- id: weather
+  label:
+    en: "Weather"
+    ko: "날씨"
+  type: vocabulary
+  words:
+  - korean: 날씨
+    reading: null
+    translation:
+      en: "weather"
+      ko: "날씨"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for weather"
+      ko: "날씨의 일반적 표현"
+  - korean: 비
+    reading: null
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: null
+    plural: null
+    notes:
+      en: "비가 오다 = it rains"
+      ko: "비가 오다"
+  - korean: 눈
+    reading: null
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'eye'"
+      ko: "'눈(目)'이라는 뜻도 있음"
+  - korean: 바람
+    reading: null
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'wish' or 'affair' in different contexts"
+      ko: "다른 문맥에서 '소원' 또는 '바람(외도)'을 뜻하기도 함"
+  - korean: 구름
+    reading: null
+    translation:
+      en: "cloud"
+      ko: "구름"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 안개
+    reading: null
+    translation:
+      en: "fog, mist"
+      ko: "안개"
+    gender: null
+    plural: null
+    notes:
+      en: "안개가 끼다 = fog rolls in"
+      ko: "안개가 끼다"
+  - korean: 천둥
+    reading: null
+    translation:
+      en: "thunder"
+      ko: "천둥"
+    gender: null
+    plural: null
+    notes:
+      en: "Sound of a thunderstorm"
+      ko: "뇌우의 소리"
+  - korean: 번개
+    reading: null
+    translation:
+      en: "lightning"
+      ko: "번개"
+    gender: null
+    plural: null
+    notes:
+      en: "Flash of lightning"
+      ko: "번쩍이는 빛"
+  - korean: 무지개
+    reading: null
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: null
+    plural: null
+    notes:
+      en: "Appears after rain"
+      ko: "비 온 후에 나타남"
+  - korean: 우박
+    reading: null
+    translation:
+      en: "hail"
+      ko: "우박"
+    gender: null
+    plural: null
+    notes:
+      en: "Ice falling from clouds"
+      ko: "구름에서 떨어지는 얼음"
+  - korean: 이슬
+    reading: null
+    translation:
+      en: "dew"
+      ko: "이슬"
+    gender: null
+    plural: null
+    notes:
+      en: "Morning moisture on plants"
+      ko: "아침에 식물에 맺히는 물방울"
+  - korean: 서리
+    reading: null
+    translation:
+      en: "frost"
+      ko: "서리"
+    gender: null
+    plural: null
+    notes:
+      en: "Ice crystals on surfaces"
+      ko: "표면에 맺히는 얼음 결정"
+  - korean: 소나기
+    reading: null
+    translation:
+      en: "rain shower, sudden rain"
+      ko: "소나기"
+    gender: null
+    plural: null
+    notes:
+      en: "Brief, intense rainfall"
+      ko: "짧고 강한 비"
+  - korean: 장마
+    reading: null
+    translation:
+      en: "monsoon season, rainy season"
+      ko: "장마"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean rainy season (June-July)"
+      ko: "한국의 우기 (6-7월)"
+  - korean: 태풍
+    reading: null
+    translation:
+      en: "typhoon"
+      ko: "태풍"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 颱風"
+      ko: "한자어: 颱風"
+  - korean: 폭풍
+    reading: null
+    translation:
+      en: "storm"
+      ko: "폭풍"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 暴風"
+      ko: "한자어: 暴風"
+  - korean: 가뭄
+    reading: null
+    translation:
+      en: "drought"
+      ko: "가뭄"
+    gender: null
+    plural: null
+    notes:
+      en: "Prolonged lack of rain"
+      ko: "오랜 기간 비가 오지 않는 상태"
+  - korean: 홍수
+    reading: null
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 洪水"
+      ko: "한자어: 洪水"
+
+- id: seasons
+  label:
+    en: "Seasons"
+    ko: "계절"
+  type: vocabulary
+  words:
+  - korean: 계절
+    reading: null
+    translation:
+      en: "season"
+      ko: "계절"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 季節"
+      ko: "한자어: 季節"
+  - korean: 봄
+    reading: null
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: null
+    plural: null
+    notes:
+      en: "Cherry blossom season in Korea"
+      ko: "한국의 벚꽃 시즌"
+  - korean: 여름
+    reading: null
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: null
+    plural: null
+    notes:
+      en: "Hot and humid in Korea"
+      ko: "한국은 덥고 습한 여름"
+  - korean: 가을
+    reading: null
+    translation:
+      en: "autumn, fall"
+      ko: "가을"
+    gender: null
+    plural: null
+    notes:
+      en: "Known for beautiful foliage"
+      ko: "아름다운 단풍으로 유명"
+  - korean: 겨울
+    reading: null
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: null
+    plural: null
+    notes:
+      en: "Cold and dry in Korea"
+      ko: "한국은 춥고 건조한 겨울"
+
+- id: climate
+  label:
+    en: "Climate and Temperature"
+    ko: "기후와 기온"
+  type: vocabulary
+  words:
+  - korean: 덥다
+    reading: null
+    translation:
+      en: "to be hot (weather)"
+      ko: "덥다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular adjective"
+      ko: "ㅂ 불규칙 형용사"
+  - korean: 춥다
+    reading: null
+    translation:
+      en: "to be cold (weather)"
+      ko: "춥다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular adjective"
+      ko: "ㅂ 불규칙 형용사"
+  - korean: 따뜻하다
+    reading: null
+    translation:
+      en: "to be warm"
+      ko: "따뜻하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pleasant warmth"
+      ko: "기분 좋은 따뜻함"
+  - korean: 시원하다
+    reading: null
+    translation:
+      en: "to be cool, refreshing"
+      ko: "시원하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pleasantly cool; also 'refreshing'"
+      ko: "기분 좋게 시원한; '상쾌한'이라는 뜻도 있음"
+  - korean: 맑다
+    reading: null
+    translation:
+      en: "to be clear, sunny"
+      ko: "맑다"
+    gender: null
+    plural: null
+    notes:
+      en: "Clear sky"
+      ko: "맑은 하늘"
+  - korean: 흐리다
+    reading: null
+    translation:
+      en: "to be cloudy, overcast"
+      ko: "흐리다"
+    gender: null
+    plural: null
+    notes:
+      en: "Cloudy weather"
+      ko: "구름이 많은 날씨"
+  - korean: 습하다
+    reading: null
+    translation:
+      en: "to be humid"
+      ko: "습하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean summers are very humid"
+      ko: "한국 여름은 매우 습함"
+  - korean: 건조하다
+    reading: null
+    translation:
+      en: "to be dry"
+      ko: "건조하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean winters are dry"
+      ko: "한국 겨울은 건조함"
+  - korean: 기온
+    reading: null
+    translation:
+      en: "temperature (air)"
+      ko: "기온"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 氣溫"
+      ko: "한자어: 氣溫"
+  - korean: 온도
+    reading: null
+    translation:
+      en: "temperature"
+      ko: "온도"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 溫度"
+      ko: "한자어: 溫度"
+  - korean: 영하
+    reading: null
+    translation:
+      en: "below zero"
+      ko: "영하"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 零下; sub-zero temperature"
+      ko: "한자어: 零下; 영도 이하의 기온"
+  - korean: 도
+    reading: null
+    translation:
+      en: "degree"
+      ko: "도"
+    gender: null
+    plural: null
+    notes:
+      en: "Temperature unit; Korea uses Celsius"
+      ko: "온도 단위; 한국은 섭씨 사용"
+  - korean: 미세먼지
+    reading: null
+    translation:
+      en: "fine dust, particulate matter"
+      ko: "미세먼지"
+    gender: null
+    plural: null
+    notes:
+      en: "Major air quality concern in Korea"
+      ko: "한국의 주요 대기질 문제"
+  - korean: 일기예보
+    reading: null
+    translation:
+      en: "weather forecast"
+      ko: "일기예보"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 日氣豫報"
+      ko: "한자어: 日氣豫報"
+  - korean: 기후
+    reading: null
+    translation:
+      en: "climate"
+      ko: "기후"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 氣候"
+      ko: "한자어: 氣候"
+  - korean: 우산
+    reading: null
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 雨傘"
+      ko: "한자어: 雨傘"
+  - korean: 장갑
+    reading: null
+    translation:
+      en: "gloves"
+      ko: "장갑"
+    gender: null
+    plural: null
+    notes:
+      en: "Worn in winter"
+      ko: "겨울에 착용"
+  - korean: 목도리
+    reading: null
+    translation:
+      en: "scarf, muffler"
+      ko: "목도리"
+    gender: null
+    plural: null
+    notes:
+      en: "목 (neck) + 도리 (wrap)"
+      ko: "목 + 도리"
+
+- id: natural_phenomena
+  label:
+    en: "Natural Phenomena"
+    ko: "자연 현상"
+  type: vocabulary
+  words:
+  - korean: 태양
+    reading: null
+    translation:
+      en: "sun"
+      ko: "태양"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 太陽; formal term"
+      ko: "한자어: 太陽; 격식체"
+  - korean: 해
+    reading: null
+    translation:
+      en: "sun, year"
+      ko: "해"
+    gender: null
+    plural: null
+    notes:
+      en: "Colloquial for sun; also means 'year'"
+      ko: "태양의 구어체; '연도'라는 뜻도 있음"
+  - korean: 달
+    reading: null
+    translation:
+      en: "moon, month"
+      ko: "달"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'month'"
+      ko: "'월(月)'이라는 뜻도 있음"
+  - korean: 별
+    reading: null
+    translation:
+      en: "star"
+      ko: "별"
+    gender: null
+    plural: null
+    notes:
+      en: "Celestial body"
+      ko: "천체"
+  - korean: 일출
+    reading: null
+    translation:
+      en: "sunrise"
+      ko: "일출"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 日出"
+      ko: "한자어: 日出"
+  - korean: 일몰
+    reading: null
+    translation:
+      en: "sunset"
+      ko: "일몰"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 日沒"
+      ko: "한자어: 日沒"
+  - korean: 노을
+    reading: null
+    translation:
+      en: "sunset glow, evening glow"
+      ko: "노을"
+    gender: null
+    plural: null
+    notes:
+      en: "Beautiful orange-red sky at sunset"
+      ko: "해질녘의 아름다운 주홍빛 하늘"
+  - korean: 그림자
+    reading: null
+    translation:
+      en: "shadow"
+      ko: "그림자"
+    gender: null
+    plural: null
+    notes:
+      en: "Shadow cast by light"
+      ko: "빛에 의해 생기는 그림자"
+  - korean: 얼음
+    reading: null
+    translation:
+      en: "ice"
+      ko: "얼음"
+    gender: null
+    plural: null
+    notes:
+      en: "Frozen water"
+      ko: "얼어붙은 물"
+  - korean: 지진
+    reading: null
+    translation:
+      en: "earthquake"
+      ko: "지진"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 地震"
+      ko: "한자어: 地震"
+  - korean: 파도
+    reading: null
+    translation:
+      en: "wave (ocean)"
+      ko: "파도"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 波濤"
+      ko: "한자어: 波濤"
+  - korean: 바람이 불다
+    reading: null
+    translation:
+      en: "the wind blows"
+      ko: "바람이 불다"
+    gender: null
+    plural: null
+    notes:
+      en: "Common weather expression"
+      ko: "흔한 날씨 표현"
+  - korean: 해가 뜨다
+    reading: null
+    translation:
+      en: "the sun rises"
+      ko: "해가 뜨다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sunrise expression"
+      ko: "해돋이 표현"
+  - korean: 해가 지다
+    reading: null
+    translation:
+      en: "the sun sets"
+      ko: "해가 지다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sunset expression"
+      ko: "해넘이 표현"
+  - korean: 비가 그치다
+    reading: null
+    translation:
+      en: "the rain stops"
+      ko: "비가 그치다"
+    gender: null
+    plural: null
+    notes:
+      en: "When rain ceases"
+      ko: "비가 멈추다"
+  - korean: 눈이 녹다
+    reading: null
+    translation:
+      en: "the snow melts"
+      ko: "눈이 녹다"
+    gender: null
+    plural: null
+    notes:
+      en: "When snow thaws"
+      ko: "눈이 녹아 없어지다"
