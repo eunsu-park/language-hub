@@ -1,0 +1,525 @@
+lesson: 05_Adjectives_and_Basic_Sentence_Structure
+lesson_number: 5
+cefr: A1
+categories:
+- id: 51_first_second_declension_adjectives
+  label:
+    en: 5.1 First/Second Declension Adjectives (-us, -a, -um)
+    ko: 5.1 제1·2변화 형용사 (-us, -a, -um)
+  type: vocabulary
+  words:
+  - latin: bonus, -a, -um
+    translation:
+      en: good
+      ko: 좋은
+    gender: null
+    notes:
+      en: "bonus (m), bona (f), bonum (n); source of English 'bonus,' 'bonanza'"
+      ko: "bonus (남), bona (여), bonum (중); 영어 'bonus,' 'bonanza'의 어원"
+  - latin: malus, -a, -um
+    translation:
+      en: bad / evil
+      ko: 나쁜 / 악한
+    gender: null
+    notes:
+      en: Source of English "malice," "malevolent," "malfunction"
+      ko: 영어 "malice," "malevolent," "malfunction"의 어원
+  - latin: magnus, -a, -um
+    translation:
+      en: great / large / big
+      ko: 큰 / 위대한
+    gender: null
+    notes:
+      en: Source of English "magnitude," "magnify," "magnificent"
+      ko: 영어 "magnitude," "magnify," "magnificent"의 어원
+  - latin: parvus, -a, -um
+    translation:
+      en: small / little
+      ko: 작은
+    gender: null
+  - latin: longus, -a, -um
+    translation:
+      en: long
+      ko: 긴
+    gender: null
+    notes:
+      en: Source of English "long," "longitude," "elongate"
+      ko: 영어 "long," "longitude," "elongate"의 어원
+  - latin: altus, -a, -um
+    translation:
+      en: high / deep
+      ko: 높은 / 깊은
+    gender: null
+    notes:
+      en: "Means both 'high' (from above) and 'deep' (from below); source of 'altitude'"
+      ko: "'높은'(위에서)과 '깊은'(아래에서) 모두 의미; 'altitude'의 어원"
+  - latin: latus, -a, -um
+    translation:
+      en: wide / broad
+      ko: 넓은
+    gender: null
+    notes:
+      en: Source of English "lateral" and "latitude"
+      ko: 영어 "lateral"과 "latitude"의 어원
+  - latin: novus, -a, -um
+    translation:
+      en: new
+      ko: 새로운
+    gender: null
+    notes:
+      en: Source of English "novel," "novice," "renovate," "innovation"
+      ko: 영어 "novel," "novice," "renovate," "innovation"의 어원
+  - latin: antiquus, -a, -um
+    translation:
+      en: ancient / old
+      ko: 오래된 / 고대의
+    gender: null
+    notes:
+      en: Source of English "antique" and "antiquity"
+      ko: 영어 "antique"와 "antiquity"의 어원
+  - latin: multus, -a, -um
+    translation:
+      en: much / many
+      ko: 많은
+    gender: null
+    notes:
+      en: Source of English "multi-," "multiple," "multitude"
+      ko: 영어 "multi-," "multiple," "multitude"의 어원
+  - latin: paucus, -a, -um
+    translation:
+      en: few / little
+      ko: 적은 / 소수의
+    gender: null
+    notes:
+      en: "Usually plural: pauci, -ae, -a; source of English 'paucity'"
+      ko: "보통 복수형: pauci, -ae, -a; 영어 'paucity'의 어원"
+  - latin: primus, -a, -um
+    translation:
+      en: first
+      ko: 첫 번째의
+    gender: null
+    notes:
+      en: Source of English "primary," "prime," "primitive"
+      ko: 영어 "primary," "prime," "primitive"의 어원
+  - latin: secundus, -a, -um
+    translation:
+      en: second / following / favorable
+      ko: 두 번째의 / 순조로운
+    gender: null
+    notes:
+      en: "From sequi (to follow); source of English 'second'"
+      ko: "sequi(따르다)에서; 영어 'second'의 어원"
+  - latin: tertius, -a, -um
+    translation:
+      en: third
+      ko: 세 번째의
+    gender: null
+    notes:
+      en: Source of English "tertiary"
+      ko: 영어 "tertiary"의 어원
+  - latin: Romanus, -a, -um
+    translation:
+      en: Roman
+      ko: 로마의
+    gender: null
+  - latin: Latinus, -a, -um
+    translation:
+      en: Latin
+      ko: 라틴의
+    gender: null
+    notes:
+      en: From Latium, the region around Rome
+      ko: 로마 주변 지역인 Latium에서 유래
+- id: 52_descriptive_adjectives
+  label:
+    en: 5.2 Descriptive Adjectives
+    ko: 5.2 서술 형용사
+  type: vocabulary
+  words:
+  - latin: pulcher, -chra, -chrum
+    translation:
+      en: beautiful / handsome
+      ko: 아름다운
+    gender: null
+    notes:
+      en: "-er adjective (stem pulchr-); source of English 'pulchritude'"
+      ko: "-er 형용사 (어간 pulchr-); 영어 'pulchritude'의 어원"
+  - latin: clarus, -a, -um
+    translation:
+      en: clear / bright / famous
+      ko: 맑은 / 밝은 / 유명한
+    gender: null
+    notes:
+      en: Source of English "clear," "clarity," "declare"
+      ko: 영어 "clear," "clarity," "declare"의 어원
+  - latin: laetus, -a, -um
+    translation:
+      en: happy / joyful
+      ko: 행복한 / 기쁜
+    gender: null
+  - latin: miser, -era, -erum
+    translation:
+      en: miserable / wretched / unhappy
+      ko: 비참한 / 불행한
+    gender: null
+    notes:
+      en: "-er adjective retaining e; source of English 'miserable,' 'misery'"
+      ko: "e를 유지하는 -er 형용사; 영어 'miserable,' 'misery'의 어원"
+  - latin: iratus, -a, -um
+    translation:
+      en: angry
+      ko: 화난
+    gender: null
+    notes:
+      en: "From ira (anger); source of English 'irate'"
+      ko: "ira(분노)에서; 영어 'irate'의 어원"
+  - latin: stultus, -a, -um
+    translation:
+      en: foolish / stupid
+      ko: 어리석은 / 멍청한
+    gender: null
+  - latin: sacer, -cra, -crum
+    translation:
+      en: sacred / holy
+      ko: 신성한
+    gender: null
+    notes:
+      en: Source of English "sacred," "sacrifice," "sacrament"
+      ko: 영어 "sacred," "sacrifice," "sacrament"의 어원
+  - latin: liber, -era, -erum
+    translation:
+      en: free
+      ko: 자유로운
+    gender: null
+    notes:
+      en: "Source of English 'liberty,' 'liberal,' 'liberate'"
+      ko: "영어 'liberty,' 'liberal,' 'liberate'의 어원"
+  - latin: verus, -a, -um
+    translation:
+      en: true / real
+      ko: 참된 / 진정한
+    gender: null
+    notes:
+      en: Source of English "very," "verify," "verdict"
+      ko: 영어 "very," "verify," "verdict"의 어원
+  - latin: notus, -a, -um
+    translation:
+      en: known / famous
+      ko: 알려진 / 유명한
+    gender: null
+    notes:
+      en: Past participle of noscere (to know); source of English "note," "notion"
+      ko: noscere(알다)의 과거분사; 영어 "note," "notion"의 어원
+  - latin: validus, -a, -um
+    translation:
+      en: strong / powerful
+      ko: 강한 / 강력한
+    gender: null
+    notes:
+      en: Source of English "valid" and "valor"
+      ko: 영어 "valid"와 "valor"의 어원
+  - latin: tutus, -a, -um
+    translation:
+      en: safe / secure
+      ko: 안전한
+    gender: null
+  - latin: gratus, -a, -um
+    translation:
+      en: pleasing / grateful
+      ko: 기쁜 / 감사하는
+    gender: null
+    notes:
+      en: Source of English "grateful," "gratitude," "grace"
+      ko: 영어 "grateful," "gratitude," "grace"의 어원
+  - latin: certus, -a, -um
+    translation:
+      en: certain / sure
+      ko: 확실한 / 확정된
+    gender: null
+    notes:
+      en: Source of English "certain" and "certify"
+      ko: 영어 "certain"과 "certify"의 어원
+  - latin: dignus, -a, -um
+    translation:
+      en: worthy / deserving
+      ko: 가치 있는 / ~할 만한
+    gender: null
+    notes:
+      en: "Takes ablative; source of English 'dignity,' 'dignify'"
+      ko: "탈격을 취함; 영어 'dignity,' 'dignify'의 어원"
+  - latin: firmus, -a, -um
+    translation:
+      en: firm / strong / steadfast
+      ko: 견고한 / 강한 / 확고한
+    gender: null
+    notes:
+      en: Source of English "firm," "affirm," "confirm"
+      ko: 영어 "firm," "affirm," "confirm"의 어원
+  - latin: plenus, -a, -um
+    translation:
+      en: full
+      ko: 가득 찬
+    gender: null
+    notes:
+      en: Source of English "plenty," "plenary," "replenish"
+      ko: 영어 "plenty," "plenary," "replenish"의 어원
+  - latin: vacuus, -a, -um
+    translation:
+      en: empty / vacant
+      ko: 비어 있는
+    gender: null
+    notes:
+      en: Source of English "vacuum," "vacant," "vacate"
+      ko: 영어 "vacuum," "vacant," "vacate"의 어원
+  - latin: durus, -a, -um
+    translation:
+      en: hard / harsh / tough
+      ko: 단단한 / 가혹한
+    gender: null
+    notes:
+      en: Source of English "durable," "endure," "duration"
+      ko: 영어 "durable," "endure," "duration"의 어원
+  - latin: proximus, -a, -um
+    translation:
+      en: nearest / next
+      ko: 가장 가까운 / 다음의
+    gender: null
+    notes:
+      en: Superlative of prope (near); source of English "proximity"
+      ko: prope(가까이)의 최상급; 영어 "proximity"의 어원
+  - latin: medius, -a, -um
+    translation:
+      en: middle / central
+      ko: 중간의 / 가운데의
+    gender: null
+    notes:
+      en: Source of English "medium," "medieval," "median"
+      ko: 영어 "medium," "medieval," "median"의 어원
+  - latin: solus, -a, -um
+    translation:
+      en: alone / only
+      ko: 혼자의 / 유일한
+    gender: null
+    notes:
+      en: "Irregular gen. solius, dat. soli; source of English 'sole,' 'solitary'"
+      ko: "불규칙 속격 solius, 여격 soli; 영어 'sole,' 'solitary'의 어원"
+  - latin: totus, -a, -um
+    translation:
+      en: whole / entire
+      ko: 전체의 / 모든
+    gender: null
+    notes:
+      en: "Irregular gen. totius, dat. toti; source of English 'total'"
+      ko: "불규칙 속격 totius, 여격 toti; 영어 'total'의 어원"
+  - latin: nullus, -a, -um
+    translation:
+      en: no / none / not any
+      ko: 아무 ~도 없는
+    gender: null
+    notes:
+      en: "Irregular gen. nullius; source of English 'null,' 'nullify,' 'annul'"
+      ko: "불규칙 속격 nullius; 영어 'null,' 'nullify,' 'annul'의 어원"
+  - latin: alius, -a, -ud
+    translation:
+      en: other / another
+      ko: 다른 / 또 다른
+    gender: null
+    notes:
+      en: "Gen. alterius (borrowed); source of English 'alias,' 'alibi'"
+      ko: "속격 alterius(차용); 영어 'alias,' 'alibi'의 어원"
+- id: 53_word_order
+  label:
+    en: 5.3 Word Order and Sentence Parts
+    ko: 5.3 어순과 문장 성분
+  type: vocabulary
+  words:
+  - latin: subiectum
+    translation:
+      en: subject
+      ko: 주어
+    gender: n
+    notes:
+      en: "The doer of the action; typically in nominative case"
+      ko: "행위의 주체; 보통 주격"
+  - latin: praedicatum
+    translation:
+      en: predicate
+      ko: 서술어
+    gender: n
+    notes:
+      en: The verb and its complements
+      ko: 동사와 그 보어
+  - latin: obiectum
+    translation:
+      en: object
+      ko: 목적어
+    gender: n
+    notes:
+      en: Direct object in accusative; indirect object in dative
+      ko: 직접 목적어는 대격; 간접 목적어는 여격
+  - latin: ordo verborum
+    translation:
+      en: word order
+      ko: 어순
+    gender: m
+    notes:
+      en: "Latin typically uses SOV (Subject-Object-Verb), but word order is flexible"
+      ko: "라틴어는 보통 SOV(주어-목적어-동사) 어순이지만 어순이 유연함"
+  - latin: attributum
+    translation:
+      en: attribute / modifier
+      ko: 수식어
+    gender: n
+    notes:
+      en: Adjectives modifying nouns; must agree in gender, number, case
+      ko: 명사를 수식하는 형용사; 성, 수, 격이 일치해야 함
+  - latin: concordia
+    translation:
+      en: agreement (grammatical)
+      ko: 일치 (문법)
+    gender: f
+    notes:
+      en: "Also means 'harmony'; source of English 'concord'"
+      ko: "'조화'라는 뜻도 있음; 영어 'concord'의 어원"
+  - latin: genus
+    translation:
+      en: gender / kind / type
+      ko: 성(性) / 종류
+    gender: n
+    notes:
+      en: "Gen. generis; source of English 'gender,' 'genre,' 'generic'"
+      ko: "속격 generis; 영어 'gender,' 'genre,' 'generic'의 어원"
+  - latin: masculinum
+    translation:
+      en: masculine
+      ko: 남성
+    gender: n
+  - latin: femininum
+    translation:
+      en: feminine
+      ko: 여성
+    gender: n
+  - latin: neutrum
+    translation:
+      en: neuter
+      ko: 중성
+    gender: n
+    notes:
+      en: "From ne + utrum (neither of two); Latin has three genders"
+      ko: "ne + utrum(둘 중 어느 것도 아닌)에서; 라틴어에는 세 가지 성이 있음"
+- id: 54_conjunctions_and_particles
+  label:
+    en: 5.4 Conjunctions and Particles
+    ko: 5.4 접속사와 불변사
+  type: vocabulary
+  words:
+  - latin: et
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+    notes:
+      en: "The most common conjunction; also written as -que (enclitic)"
+      ko: "가장 흔한 접속사; -que(접미사)로도 표기"
+  - latin: -que
+    translation:
+      en: and (enclitic)
+      ko: 그리고 (접미 접속사)
+    gender: null
+    notes:
+      en: "Attached to the end of the second word: Senatus Populusque = Senate and People"
+      ko: "두 번째 단어 끝에 붙음: Senatus Populusque = 원로원과 시민"
+  - latin: sed
+    translation:
+      en: but
+      ko: 그러나
+    gender: null
+  - latin: aut
+    translation:
+      en: or (exclusive)
+      ko: 또는 (배타적)
+    gender: null
+    notes:
+      en: "Exclusive or; aut...aut = either...or"
+      ko: "배타적 또는; aut...aut = ~이거나...~이거나"
+  - latin: vel
+    translation:
+      en: or (inclusive)
+      ko: 또는 (포괄적)
+    gender: null
+    notes:
+      en: "Inclusive or; vel...vel = either...or (any of them)"
+      ko: "포괄적 또는; vel...vel = ~이든...~이든"
+  - latin: non
+    translation:
+      en: not
+      ko: ~이 아닌
+    gender: null
+  - latin: neque / nec
+    translation:
+      en: and not / neither / nor
+      ko: 그리고 ~않다 / ~도 아닌
+    gender: null
+    notes:
+      en: "neque...neque = neither...nor"
+      ko: "neque...neque = ~도 아니고...~도 아닌"
+  - latin: nam
+    translation:
+      en: for / because
+      ko: 왜냐하면
+    gender: null
+  - latin: enim
+    translation:
+      en: for / indeed
+      ko: 왜냐하면 / 정말로
+    gender: null
+    notes:
+      en: Postpositive; never placed first in a clause
+      ko: 후치사; 절의 첫 번째에 오지 않음
+  - latin: tamen
+    translation:
+      en: however / nevertheless
+      ko: 그럼에도 불구하고
+    gender: null
+  - latin: itaque
+    translation:
+      en: and so / therefore
+      ko: 그래서 / 그러므로
+    gender: null
+  - latin: quoque
+    translation:
+      en: also / too
+      ko: 또한 / ~도
+    gender: null
+    notes:
+      en: "Postpositive; placed after the word it modifies: ego quoque = I too"
+      ko: "후치사; 수식하는 단어 뒤에 위치: ego quoque = 나도"
+  - latin: iam
+    translation:
+      en: now / already
+      ko: 지금 / 이미
+    gender: null
+  - latin: etiam
+    translation:
+      en: even / also / still
+      ko: 심지어 / 또한 / 여전히
+    gender: null
+    notes:
+      en: "From et + iam; stronger than quoque"
+      ko: "et + iam에서; quoque보다 강함"
+  - latin: autem
+    translation:
+      en: however / moreover / but
+      ko: 그러나 / 게다가
+    gender: null
+    notes:
+      en: Postpositive; milder contrast than sed
+      ko: 후치사; sed보다 부드러운 대조
+  - latin: igitur
+    translation:
+      en: therefore / then
+      ko: 그러므로 / 그래서
+    gender: null
+    notes:
+      en: "Cogito, ergo sum can also be stated cogito, igitur sum"
+      ko: "Cogito, ergo sum은 cogito, igitur sum으로도 표현 가능"
