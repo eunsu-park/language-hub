@@ -1,0 +1,1112 @@
+lesson: "sup_B1_Law_and_Government"
+lesson_number: 118
+cefr: B1
+type: supplementary
+topic: "Law and Government"
+categories:
+- id: magistracies
+  label:
+    en: "Magistracies"
+    ko: "관직"
+  type: vocabulary
+  words:
+  - latin: "consul"
+    translation:
+      en: "consul (highest magistrate)"
+      ko: "콘술 (최고 관직)"
+    gender: m
+    notes:
+      en: "gen. consulis; 3rd decl.; two elected annually"
+      ko: "속격 consulis; 제3변화; 매년 2명 선출"
+  - latin: "praetor"
+    translation:
+      en: "praetor (judicial magistrate)"
+      ko: "프라이토르 (사법 관직)"
+    gender: m
+    notes:
+      en: "gen. praetōris; 3rd decl."
+      ko: "속격 praetōris; 제3변화"
+  - latin: "aedilis"
+    translation:
+      en: "aedile (public works magistrate)"
+      ko: "아이딜리스 (공공사업 관직)"
+    gender: m
+    notes:
+      en: "gen. aedīlis; 3rd decl.; oversaw markets, games, buildings"
+      ko: "속격 aedīlis; 제3변화; 시장, 경기, 건물 감독"
+  - latin: "quaestor"
+    translation:
+      en: "quaestor (financial magistrate)"
+      ko: "콰이스토르 (재정 관직)"
+    gender: m
+    notes:
+      en: "gen. quaestōris; 3rd decl.; entry-level magistracy"
+      ko: "속격 quaestōris; 제3변화; 입문 관직"
+  - latin: "tribunus plebis"
+    translation:
+      en: "tribune of the plebs"
+      ko: "호민관"
+    gender: m
+    notes:
+      en: "3rd/1st decl.; could veto legislation; sacrosanct"
+      ko: "제3/제1변화; 법안 거부권 행사 가능; 불가침"
+  - latin: "censor"
+    translation:
+      en: "censor"
+      ko: "감찰관"
+    gender: m
+    notes:
+      en: "gen. cēnsōris; 3rd decl.; conducted census and supervised public morals"
+      ko: "속격 cēnsōris; 제3변화; 인구조사 실시 및 공중도덕 감독"
+  - latin: "dictator"
+    translation:
+      en: "dictator (emergency magistrate)"
+      ko: "독재관 (비상 관직)"
+    gender: m
+    notes:
+      en: "gen. dictātōris; 3rd decl.; appointed for 6 months max"
+      ko: "속격 dictātōris; 제3변화; 최대 6개월 임명"
+  - latin: "magistratus"
+    translation:
+      en: "magistrate, magistracy"
+      ko: "관리, 관직"
+    gender: m
+    notes:
+      en: "gen. magistrātūs; 4th decl."
+      ko: "속격 magistrātūs; 제4변화"
+  - latin: "cursus honorum"
+    translation:
+      en: "course of honors (political career)"
+      ko: "명예 경력 (정치 출세 경로)"
+    gender: m
+    notes:
+      en: "The sequential order of public offices"
+      ko: "공직의 순차적 순서"
+  - latin: "proconsul"
+    translation:
+      en: "proconsul (provincial governor)"
+      ko: "속주 총독"
+    gender: m
+    notes:
+      en: "gen. prōconsulis; 3rd decl."
+      ko: "속격 prōconsulis; 제3변화"
+  - latin: "princeps"
+    translation:
+      en: "first citizen, leader, emperor"
+      ko: "제1시민, 지도자, 황제"
+    gender: m
+    notes:
+      en: "gen. prīncipis; 3rd decl."
+      ko: "속격 prīncipis; 제3변화"
+- id: legal_terms
+  label:
+    en: "Legal Terms"
+    ko: "법률 용어"
+  type: vocabulary
+  words:
+  - latin: "lex"
+    translation:
+      en: "law (statute)"
+      ko: "법률 (성문법)"
+    gender: f
+    notes:
+      en: "gen. lēgis; 3rd decl."
+      ko: "속격 lēgis; 제3변화"
+  - latin: "ius"
+    translation:
+      en: "right, law, justice"
+      ko: "권리, 법, 정의"
+    gender: n
+    notes:
+      en: "gen. iūris; 3rd decl.; ius civile = 'civil law'"
+      ko: "속격 iūris; 제3변화; ius civile = '시민법'"
+  - latin: "iudex"
+    translation:
+      en: "judge"
+      ko: "재판관"
+    gender: m
+    notes:
+      en: "gen. iūdicis; 3rd decl."
+      ko: "속격 iūdicis; 제3변화"
+  - latin: "iudicium"
+    translation:
+      en: "trial, judgment"
+      ko: "재판, 판결"
+    gender: n
+    notes:
+      en: "gen. iūdiciī; 2nd decl. neuter"
+      ko: "속격 iūdiciī; 제2변화 중성"
+  - latin: "testimonium"
+    translation:
+      en: "testimony, evidence"
+      ko: "증언, 증거"
+    gender: n
+    notes:
+      en: "gen. testimōniī; 2nd decl. neuter"
+      ko: "속격 testimōniī; 제2변화 중성"
+  - latin: "testis"
+    translation:
+      en: "witness"
+      ko: "증인"
+    gender: m
+    notes:
+      en: "gen. testis; 3rd decl. (i-stem)"
+      ko: "속격 testis; 제3변화 (i-어간)"
+  - latin: "advocatus"
+    translation:
+      en: "advocate, legal advisor"
+      ko: "변호인, 법률 자문"
+    gender: m
+    notes:
+      en: "gen. advocātī; 2nd decl."
+      ko: "속격 advocātī; 제2변화"
+  - latin: "reus"
+    translation:
+      en: "defendant, accused"
+      ko: "피고인"
+    gender: m
+    notes:
+      en: "gen. reī; 2nd decl."
+      ko: "속격 reī; 제2변화"
+  - latin: "accusator"
+    translation:
+      en: "accuser, prosecutor"
+      ko: "고발자, 검찰"
+    gender: m
+    notes:
+      en: "gen. accūsātōris; 3rd decl."
+      ko: "속격 accūsātōris; 제3변화"
+  - latin: "poena"
+    translation:
+      en: "penalty, punishment"
+      ko: "형벌, 벌"
+    gender: f
+    notes:
+      en: "gen. poenae; 1st decl."
+      ko: "속격 poenae; 제1변화"
+  - latin: "supplicium"
+    translation:
+      en: "punishment, execution"
+      ko: "처벌, 사형"
+    gender: n
+    notes:
+      en: "gen. suppliciī; 2nd decl. neuter"
+      ko: "속격 suppliciī; 제2변화 중성"
+  - latin: "crimen"
+    translation:
+      en: "charge, crime, accusation"
+      ko: "혐의, 범죄, 고발"
+    gender: n
+    notes:
+      en: "gen. crīminis; 3rd decl."
+      ko: "속격 crīminis; 제3변화"
+  - latin: "edictum"
+    translation:
+      en: "edict, decree"
+      ko: "칙령, 포고"
+    gender: n
+    notes:
+      en: "gen. ēdictī; 2nd decl. neuter"
+      ko: "속격 ēdictī; 제2변화 중성"
+  - latin: "decretum"
+    translation:
+      en: "decree, decision"
+      ko: "결의, 결정"
+    gender: n
+    notes:
+      en: "gen. dēcrētī; 2nd decl. neuter"
+      ko: "속격 dēcrētī; 제2변화 중성"
+- id: elections
+  label:
+    en: "Elections and Assemblies"
+    ko: "선거와 민회"
+  type: vocabulary
+  words:
+  - latin: "suffragium"
+    translation:
+      en: "vote, ballot"
+      ko: "투표, 투표권"
+    gender: n
+    notes:
+      en: "gen. suffrāgiī; 2nd decl. neuter"
+      ko: "속격 suffrāgiī; 제2변화 중성"
+  - latin: "comitia"
+    translation:
+      en: "assembly (voting), elections"
+      ko: "민회 (투표), 선거"
+    gender: n
+    notes:
+      en: "gen. comitiōrum; 2nd decl. neuter plural; always plural"
+      ko: "속격 comitiōrum; 제2변화 중성 복수; 항상 복수형"
+  - latin: "contio"
+    translation:
+      en: "public meeting, assembly"
+      ko: "공공 집회"
+    gender: f
+    notes:
+      en: "gen. contiōnis; 3rd decl.; non-voting assembly"
+      ko: "속격 contiōnis; 제3변화; 비투표 집회"
+  - latin: "candidatus"
+    translation:
+      en: "candidate"
+      ko: "후보자"
+    gender: m
+    notes:
+      en: "gen. candidātī; 2nd decl.; wore white toga (toga candida)"
+      ko: "속격 candidātī; 제2변화; 흰색 토가 착용 (toga candida)"
+  - latin: "ambitus"
+    translation:
+      en: "electoral bribery, canvassing"
+      ko: "선거 매수, 유세"
+    gender: m
+    notes:
+      en: "gen. ambitūs; 4th decl.; a serious crime"
+      ko: "속격 ambitūs; 제4변화; 중대 범죄"
+  - latin: "rogatio"
+    translation:
+      en: "proposed law, bill"
+      ko: "법안, 법률안"
+    gender: f
+    notes:
+      en: "gen. rogātiōnis; 3rd decl."
+      ko: "속격 rogātiōnis; 제3변화"
+  - latin: "plebiscitum"
+    translation:
+      en: "plebiscite (resolution of the plebs)"
+      ko: "평민회 결의"
+    gender: n
+    notes:
+      en: "gen. plēbiscītī; 2nd decl. neuter"
+      ko: "속격 plēbiscītī; 제2변화 중성"
+  - latin: "intercessio"
+    translation:
+      en: "veto, intercession"
+      ko: "거부권, 중재"
+    gender: f
+    notes:
+      en: "gen. intercessiōnis; 3rd decl.; power of tribunes"
+      ko: "속격 intercessiōnis; 제3변화; 호민관의 권한"
+- id: senate
+  label:
+    en: "Senate"
+    ko: "원로원"
+  type: vocabulary
+  words:
+  - latin: "senatus"
+    translation:
+      en: "senate"
+      ko: "원로원"
+    gender: m
+    notes:
+      en: "gen. senātūs; 4th decl."
+      ko: "속격 senātūs; 제4변화"
+  - latin: "senator"
+    translation:
+      en: "senator"
+      ko: "원로원 의원"
+    gender: m
+    notes:
+      en: "gen. senātōris; 3rd decl."
+      ko: "속격 senātōris; 제3변화"
+  - latin: "curia"
+    translation:
+      en: "senate house"
+      ko: "원로원 의사당"
+    gender: f
+    notes:
+      en: "gen. cūriae; 1st decl.; Curia Hostilia, Curia Iulia"
+      ko: "속격 cūriae; 제1변화; 쿠리아 호스틸리아, 쿠리아 율리아"
+  - latin: "senatus consultum"
+    translation:
+      en: "decree of the senate"
+      ko: "원로원 결의"
+    gender: n
+    notes:
+      en: "Abbreviated S.C.; advisory but usually followed"
+      ko: "약어 S.C.; 자문이지만 보통 따름"
+  - latin: "auctoritas"
+    translation:
+      en: "authority, prestige"
+      ko: "권위, 위신"
+    gender: f
+    notes:
+      en: "gen. auctōritātis; 3rd decl."
+      ko: "속격 auctōritātis; 제3변화"
+  - latin: "imperium"
+    translation:
+      en: "supreme power, command, empire"
+      ko: "최고 권력, 통치권, 제국"
+    gender: n
+    notes:
+      en: "gen. imperiī; 2nd decl. neuter"
+      ko: "속격 imperiī; 제2변화 중성"
+  - latin: "potestas"
+    translation:
+      en: "power, authority (of a magistrate)"
+      ko: "권한, 직권"
+    gender: f
+    notes:
+      en: "gen. potestātis; 3rd decl."
+      ko: "속격 potestātis; 제3변화"
+  - latin: "res publica"
+    translation:
+      en: "republic, commonwealth, state"
+      ko: "공화국, 국가"
+    gender: f
+    notes:
+      en: "gen. reī pūblicae; 5th/1st decl."
+      ko: "속격 reī pūblicae; 제5/제1변화"
+  - latin: "provincia"
+    translation:
+      en: "province, sphere of duty"
+      ko: "속주, 직무 영역"
+    gender: f
+    notes:
+      en: "gen. prōvinciae; 1st decl."
+      ko: "속격 prōvinciae; 제1변화"
+  - latin: "civitas"
+    translation:
+      en: "citizenship, state, community"
+      ko: "시민권, 국가, 공동체"
+    gender: f
+    notes:
+      en: "gen. cīvitātis; 3rd decl."
+      ko: "속격 cīvitātis; 제3변화"
+  - latin: "populus"
+    translation:
+      en: "the people, nation"
+      ko: "국민, 민족"
+    gender: m
+    notes:
+      en: "gen. populī; 2nd decl.; Senatus Populusque Romanus (SPQR)"
+      ko: "속격 populī; 제2변화; Senatus Populusque Romanus (SPQR)"
+  - latin: "fasces"
+    translation:
+      en: "fasces (bundle of rods, symbol of authority)"
+      ko: "파스케스 (묶음 막대, 권위의 상징)"
+    gender: m
+    notes:
+      en: "gen. fascium; 3rd decl. plural; carried by lictors"
+      ko: "속격 fascium; 제3변화 복수; 릭토르가 운반"
+  - latin: "lictor"
+    translation:
+      en: "lictor (attendant of magistrate)"
+      ko: "릭토르 (관리의 수행원)"
+    gender: m
+    notes:
+      en: "gen. līctōris; 3rd decl.; carried fasces before magistrates"
+      ko: "속격 līctōris; 제3변화; 관리 앞에서 파스케스를 운반"
+  - latin: "toga praetexta"
+    translation:
+      en: "bordered toga (of magistrates)"
+      ko: "테두리 토가 (관리의)"
+    gender: f
+    notes:
+      en: "1st decl.; toga with purple border worn by magistrates"
+      ko: "제1변화; 관리가 착용한 자주색 테두리 토가"
+  - latin: "aerarium"
+    translation:
+      en: "treasury (public)"
+      ko: "국고"
+    gender: n
+    notes:
+      en: "gen. aerāriī; 2nd decl. neuter"
+      ko: "속격 aerāriī; 제2변화 중성"
+  - latin: "fiscus"
+    translation:
+      en: "imperial treasury"
+      ko: "황제 금고"
+    gender: m
+    notes:
+      en: "gen. fiscī; 2nd decl.; originally 'basket'"
+      ko: "속격 fiscī; 제2변화; 원래 '바구니'"
+  - latin: "census"
+    translation:
+      en: "census, property assessment"
+      ko: "인구조사, 재산 평가"
+    gender: m
+    notes:
+      en: "gen. cēnsūs; 4th decl."
+      ko: "속격 cēnsūs; 제4변화"
+- id: legal_verbs
+  label:
+    en: "Legal Verbs"
+    ko: "법률 동사"
+  type: vocabulary
+  words:
+  - latin: "iudicare"
+    translation:
+      en: "to judge"
+      ko: "판결하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "accusare"
+    translation:
+      en: "to accuse, to prosecute"
+      ko: "고발하다, 기소하다"
+    gender: n
+    notes:
+      en: "1st conj.; + acc. + gen. of charge"
+      ko: "제1활용; + 대격 + 죄명 속격"
+  - latin: "defendere"
+    translation:
+      en: "to defend (in court)"
+      ko: "변호하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. dēfendī"
+      ko: "제3활용; 완료 dēfendī"
+  - latin: "damnare"
+    translation:
+      en: "to condemn, to find guilty"
+      ko: "유죄 판결하다"
+    gender: n
+    notes:
+      en: "1st conj.; + gen. of charge"
+      ko: "제1활용; + 죄명 속격"
+  - latin: "absolvere"
+    translation:
+      en: "to acquit, to absolve"
+      ko: "무죄 방면하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. absolvī"
+      ko: "제3활용; 완료 absolvī"
+  - latin: "rogare"
+    translation:
+      en: "to ask, to propose (a law)"
+      ko: "묻다, (법을) 제안하다"
+    gender: n
+    notes:
+      en: "1st conj.; legem rogare = 'to propose a law'"
+      ko: "제1활용; legem rogare = '법을 제안하다'"
+  - latin: "vetare"
+    translation:
+      en: "to forbid, to veto"
+      ko: "금지하다, 거부하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "abrogare"
+    translation:
+      en: "to repeal (a law)"
+      ko: "(법을) 폐지하다"
+    gender: n
+    notes:
+      en: "1st conj.; legem abrogare"
+      ko: "제1활용; legem abrogare"
+  - latin: "promulgare"
+    translation:
+      en: "to publish, to promulgate"
+      ko: "공포하다, 발표하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "sancire"
+    translation:
+      en: "to ratify, to make sacred"
+      ko: "비준하다, 신성하게 하다"
+    gender: n
+    notes:
+      en: "4th conj.; perf. sānxī"
+      ko: "제4활용; 완료 sānxī"
+- id: legal_concepts
+  label:
+    en: "Legal Concepts"
+    ko: "법률 개념"
+  type: vocabulary
+  words:
+  - latin: "ius civile"
+    translation:
+      en: "civil law (for citizens)"
+      ko: "시민법"
+    gender: n
+    notes:
+      en: "Law applicable to Roman citizens only"
+      ko: "로마 시민에게만 적용되는 법"
+  - latin: "ius gentium"
+    translation:
+      en: "law of nations"
+      ko: "만민법"
+    gender: n
+    notes:
+      en: "Law applicable to all peoples"
+      ko: "모든 민족에게 적용되는 법"
+  - latin: "ius naturale"
+    translation:
+      en: "natural law"
+      ko: "자연법"
+    gender: n
+    notes:
+      en: "Universal principles of justice"
+      ko: "정의의 보편적 원칙"
+  - latin: "contractus"
+    translation:
+      en: "contract, agreement"
+      ko: "계약, 합의"
+    gender: m
+    notes:
+      en: "gen. contractūs; 4th decl."
+      ko: "속격 contractūs; 제4변화"
+  - latin: "hereditas"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: f
+    notes:
+      en: "gen. hēreditātis; 3rd decl."
+      ko: "속격 hēreditātis; 제3변화"
+  - latin: "testamentum"
+    translation:
+      en: "will, testament"
+      ko: "유언장"
+    gender: n
+    notes:
+      en: "gen. testāmentī; 2nd decl. neuter"
+      ko: "속격 testāmentī; 제2변화 중성"
+  - latin: "heres"
+    translation:
+      en: "heir"
+      ko: "상속인"
+    gender: m
+    notes:
+      en: "gen. hērēdis; 3rd decl.; m/f"
+      ko: "속격 hērēdis; 제3변화; 남/여"
+  - latin: "tutela"
+    translation:
+      en: "guardianship, protection"
+      ko: "후견, 보호"
+    gender: f
+    notes:
+      en: "gen. tūtēlae; 1st decl."
+      ko: "속격 tūtēlae; 제1변화"
+  - latin: "tutor"
+    translation:
+      en: "guardian, protector"
+      ko: "후견인, 보호자"
+    gender: m
+    notes:
+      en: "gen. tūtōris; 3rd decl."
+      ko: "속격 tūtōris; 제3변화"
+  - latin: "dominium"
+    translation:
+      en: "ownership, dominion"
+      ko: "소유권"
+    gender: n
+    notes:
+      en: "gen. dominiī; 2nd decl. neuter"
+      ko: "속격 dominiī; 제2변화 중성"
+  - latin: "possessio"
+    translation:
+      en: "possession"
+      ko: "점유"
+    gender: f
+    notes:
+      en: "gen. possessiōnis; 3rd decl."
+      ko: "속격 possessiōnis; 제3변화"
+  - latin: "servitus"
+    translation:
+      en: "easement, servitude (legal)"
+      ko: "지역권, 예속 (법률)"
+    gender: f
+    notes:
+      en: "gen. servitūtis; 3rd decl."
+      ko: "속격 servitūtis; 제3변화"
+  - latin: "delictum"
+    translation:
+      en: "offense, wrong"
+      ko: "범행, 불법 행위"
+    gender: n
+    notes:
+      en: "gen. dēlictī; 2nd decl. neuter"
+      ko: "속격 dēlictī; 제2변화 중성"
+  - latin: "furtum"
+    translation:
+      en: "theft"
+      ko: "절도"
+    gender: n
+    notes:
+      en: "gen. fūrtī; 2nd decl. neuter"
+      ko: "속격 fūrtī; 제2변화 중성"
+  - latin: "iniuria"
+    translation:
+      en: "injury, injustice, wrong"
+      ko: "부당함, 불법, 피해"
+    gender: f
+    notes:
+      en: "gen. iniūriae; 1st decl."
+      ko: "속격 iniūriae; 제1변화"
+  - latin: "multa"
+    translation:
+      en: "fine, penalty"
+      ko: "벌금"
+    gender: f
+    notes:
+      en: "gen. multae; 1st decl."
+      ko: "속격 multae; 제1변화"
+  - latin: "exsilium"
+    translation:
+      en: "exile, banishment"
+      ko: "추방, 유배"
+    gender: n
+    notes:
+      en: "gen. exsiliī; 2nd decl. neuter"
+      ko: "속격 exsiliī; 제2변화 중성"
+  - latin: "proscriptio"
+    translation:
+      en: "proscription, outlawing"
+      ko: "추방 공고, 처형 목록"
+    gender: f
+    notes:
+      en: "gen. prōscrīptiōnis; 3rd decl.; Sulla and the triumvirs used this"
+      ko: "속격 prōscrīptiōnis; 제3변화; 술라와 삼두정치가들이 사용"
+  - latin: "provocatio"
+    translation:
+      en: "appeal (to the people)"
+      ko: "상소 (국민에게)"
+    gender: f
+    notes:
+      en: "gen. prōvocātiōnis; 3rd decl.; right of a citizen to appeal"
+      ko: "속격 prōvocātiōnis; 제3변화; 시민의 항소권"
+  - latin: "manumissio"
+    translation:
+      en: "manumission, freeing of a slave"
+      ko: "노예 해방"
+    gender: f
+    notes:
+      en: "gen. manūmissiōnis; 3rd decl."
+      ko: "속격 manūmissiōnis; 제3변화"
+  - latin: "patria potestas"
+    translation:
+      en: "paternal power (over family)"
+      ko: "가부장권"
+    gender: f
+    notes:
+      en: "Legal power of pater familias over children"
+      ko: "자녀에 대한 가장의 법적 권한"
+  - latin: "manus"
+    translation:
+      en: "authority (over wife), hand"
+      ko: "권위 (아내에 대한), 손"
+    gender: f
+    notes:
+      en: "gen. manūs; 4th decl.; marriage cum manu / sine manu"
+      ko: "속격 manūs; 제4변화; 마누스 혼인 / 비마누스 혼인"
+  - latin: "stipulatio"
+    translation:
+      en: "formal promise, stipulation"
+      ko: "정식 약정, 약관"
+    gender: f
+    notes:
+      en: "gen. stipulātiōnis; 3rd decl.; verbal contract form"
+      ko: "속격 stipulātiōnis; 제3변화; 구두 계약 형식"
+  - latin: "praescriptio"
+    translation:
+      en: "statute of limitations, regulation"
+      ko: "시효, 규정"
+    gender: f
+    notes:
+      en: "gen. praescrīptiōnis; 3rd decl."
+      ko: "속격 praescrīptiōnis; 제3변화"
+  - latin: "forum"
+    translation:
+      en: "forum, court (jurisdiction)"
+      ko: "법정, 재판 관할"
+    gender: n
+    notes:
+      en: "gen. forī; 2nd decl. neuter; where trials were held"
+      ko: "속격 forī; 제2변화 중성; 재판이 열리는 곳"
+- id: government_verbs
+  label:
+    en: "Government and Political Verbs"
+    ko: "정치와 행정 동사"
+  type: vocabulary
+  words:
+  - latin: "regnare"
+    translation:
+      en: "to rule, to reign"
+      ko: "통치하다, 군림하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "gubernare"
+    translation:
+      en: "to govern, to steer"
+      ko: "통치하다, 이끌다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "administrare"
+    translation:
+      en: "to administer, to manage"
+      ko: "관리하다, 운영하다"
+    gender: n
+    notes:
+      en: "1st conj.; rem publicam administrare"
+      ko: "제1활용; rem publicam administrare"
+  - latin: "abdicare"
+    translation:
+      en: "to resign (from office)"
+      ko: "(관직을) 사임하다"
+    gender: n
+    notes:
+      en: "1st conj.; se magistratu abdicare"
+      ko: "제1활용; se magistratu abdicare"
+  - latin: "creare"
+    translation:
+      en: "to elect, to appoint"
+      ko: "선출하다, 임명하다"
+    gender: n
+    notes:
+      en: "1st conj.; consulem creare = 'to elect a consul'"
+      ko: "제1활용; consulem creare = '집정관을 선출하다'"
+  - latin: "designare"
+    translation:
+      en: "to designate, to elect"
+      ko: "지명하다, 선출하다"
+    gender: n
+    notes:
+      en: "1st conj.; consul designatus = 'consul elect'"
+      ko: "제1활용; consul designatus = '차기 집정관'"
+  - latin: "censere"
+    translation:
+      en: "to assess, to vote, to decree"
+      ko: "평가하다, 표결하다, 결의하다"
+    gender: n
+    notes:
+      en: "2nd conj."
+      ko: "제2활용"
+  - latin: "oboedire"
+    translation:
+      en: "to obey"
+      ko: "복종하다"
+    gender: n
+    notes:
+      en: "4th conj.; + dat."
+      ko: "제4활용; + 여격"
+  - latin: "cogere"
+    translation:
+      en: "to compel, to assemble"
+      ko: "강제하다, 소집하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. coēgī; senatum cogere = 'to convene the senate'"
+      ko: "제3활용; 완료 coēgī; senatum cogere = '원로원을 소집하다'"
+  - latin: "decernere"
+    translation:
+      en: "to decree, to decide"
+      ko: "결의하다, 결정하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. dēcrēvī"
+      ko: "제3활용; 완료 dēcrēvī"
+  - latin: "referre"
+    translation:
+      en: "to report, to bring before (senate)"
+      ko: "보고하다, (원로원에) 상정하다"
+    gender: n
+    notes:
+      en: "Irregular; perf. rettulī; ad senatum referre"
+      ko: "불규칙; 완료 rettulī; ad senatum referre"
+  - latin: "iubere"
+    translation:
+      en: "to order, to command"
+      ko: "명령하다"
+    gender: n
+    notes:
+      en: "2nd conj.; perf. iussī; populus iubet = 'the people order'"
+      ko: "제2활용; 완료 iussī; populus iubet = '국민이 명하다'"
+  - latin: "intercedere"
+    translation:
+      en: "to veto, to intervene"
+      ko: "거부권을 행사하다, 개입하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. intercessī; tribune's power"
+      ko: "제3활용; 완료 intercessī; 호민관의 권한"
+  - latin: "triumphare"
+    translation:
+      en: "to celebrate a triumph"
+      ko: "개선식을 거행하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "coniurare"
+    translation:
+      en: "to conspire, to swear together"
+      ko: "공모하다, 함께 맹세하다"
+    gender: n
+    notes:
+      en: "1st conj.; coniuratio = 'conspiracy'"
+      ko: "제1활용; coniuratio = '음모'"
+  - latin: "seditio"
+    translation:
+      en: "revolt, insurrection"
+      ko: "반란, 소요"
+    gender: f
+    notes:
+      en: "gen. sēditiōnis; 3rd decl."
+      ko: "속격 sēditiōnis; 제3변화"
+  - latin: "coniuratio"
+    translation:
+      en: "conspiracy, plot"
+      ko: "음모, 모의"
+    gender: f
+    notes:
+      en: "gen. coniūrātiōnis; 3rd decl.; e.g., Coniuratio Catilinae"
+      ko: "속격 coniūrātiōnis; 제3변화; 예: 카틸리나의 음모"
+  - latin: "tyrannus"
+    translation:
+      en: "tyrant"
+      ko: "폭군"
+    gender: m
+    notes:
+      en: "gen. tyrannī; 2nd decl.; Greek loanword"
+      ko: "속격 tyrannī; 제2변화; 그리스어 차용어"
+  - latin: "libertas"
+    translation:
+      en: "liberty, freedom"
+      ko: "자유"
+    gender: f
+    notes:
+      en: "gen. lībertātis; 3rd decl."
+      ko: "속격 lībertātis; 제3변화"
+  - latin: "tributum"
+    translation:
+      en: "tax, tribute"
+      ko: "세금, 공납"
+    gender: n
+    notes:
+      en: "gen. tribūtī; 2nd decl. neuter"
+      ko: "속격 tribūtī; 제2변화 중성"
+  - latin: "vectigal"
+    translation:
+      en: "tax, revenue"
+      ko: "세금, 세입"
+    gender: n
+    notes:
+      en: "gen. vectīgālis; 3rd decl."
+      ko: "속격 vectīgālis; 제3변화"
+  - latin: "publicanus"
+    translation:
+      en: "tax collector, publican"
+      ko: "세리, 세금 징수인"
+    gender: m
+    notes:
+      en: "gen. pūblicānī; 2nd decl."
+      ko: "속격 pūblicānī; 제2변화"
+  - latin: "legio"
+    translation:
+      en: "law, legislation (act of reading)"
+      ko: "법률 낭독"
+    gender: f
+    notes:
+      en: "gen. legiōnis; 3rd decl.; legem ferre = 'to carry/pass a law'"
+      ko: "속격 legiōnis; 제3변화; legem ferre = '법을 통과시키다'"
+  - latin: "senatus consultum ultimum"
+    translation:
+      en: "final decree of senate (emergency powers)"
+      ko: "원로원 최종 결의 (비상 권한)"
+    gender: n
+    notes:
+      en: "Used in times of crisis; authorized force against citizens"
+      ko: "위기 시 사용; 시민에 대한 무력 사용 허가"
+  - latin: "dignitas"
+    translation:
+      en: "dignity, political prestige"
+      ko: "위엄, 정치적 위신"
+    gender: f
+    notes:
+      en: "gen. dignitātis; 3rd decl."
+      ko: "속격 dignitātis; 제3변화"
+  - latin: "novitas"
+    translation:
+      en: "newness, novelty (of a homo novus)"
+      ko: "신진, 새로움 (신인의)"
+    gender: f
+    notes:
+      en: "gen. novitātis; 3rd decl."
+      ko: "속격 novitātis; 제3변화"
+  - latin: "optimates"
+    translation:
+      en: "optimates (conservative senatorial faction)"
+      ko: "옵티마테스 (보수 원로원파)"
+    gender: m
+    notes:
+      en: "gen. optimātium; 3rd decl. plural"
+      ko: "속격 optimātium; 제3변화 복수"
+  - latin: "populares"
+    translation:
+      en: "populares (popular reform faction)"
+      ko: "포풀라레스 (대중 개혁파)"
+    gender: m
+    notes:
+      en: "gen. populārium; 3rd decl. plural"
+      ko: "속격 populārium; 제3변화 복수"
+  - latin: "factio"
+    translation:
+      en: "faction, political group"
+      ko: "당파, 정치 집단"
+    gender: f
+    notes:
+      en: "gen. factiōnis; 3rd decl."
+      ko: "속격 factiōnis; 제3변화"
+  - latin: "homo novus"
+    translation:
+      en: "new man (first in family to hold office)"
+      ko: "신인 (가문 최초의 관직 보유자)"
+    gender: m
+    notes:
+      en: "3rd decl.; e.g., Cicero; breaking into the nobility"
+      ko: "제3변화; 예: 키케로; 귀족 사회 진입"
+  - latin: "nobilitas"
+    translation:
+      en: "nobility, aristocracy"
+      ko: "귀족 계급"
+    gender: f
+    notes:
+      en: "gen. nōbilitātis; 3rd decl.; families with consular ancestors"
+      ko: "속격 nōbilitātis; 제3변화; 집정관 조상이 있는 가문"
+  - latin: "ordo equester"
+    translation:
+      en: "equestrian order"
+      ko: "기사 계급"
+    gender: m
+    notes:
+      en: "2nd decl. + adj.; wealthy class below senators"
+      ko: "제2변화 + 형용사; 원로원 의원 아래의 부유한 계급"
+  - latin: "plebs"
+    translation:
+      en: "common people, plebeians"
+      ko: "평민"
+    gender: f
+    notes:
+      en: "gen. plēbis; 3rd decl."
+      ko: "속격 plēbis; 제3변화"
+  - latin: "patricius"
+    translation:
+      en: "patrician, nobleman"
+      ko: "귀족, 세습 귀족"
+    gender: m
+    notes:
+      en: "gen. patriciī; 2nd decl.; original Roman aristocracy"
+      ko: "속격 patriciī; 제2변화; 원래의 로마 귀족"
+  - latin: "prorogatio"
+    translation:
+      en: "extension of command"
+      ko: "지휘권 연장"
+    gender: f
+    notes:
+      en: "gen. prōrogātiōnis; 3rd decl.; extending a magistrate's term"
+      ko: "속격 prōrogātiōnis; 제3변화; 관리의 임기 연장"
+  - latin: "lex agraria"
+    translation:
+      en: "agrarian law (land reform)"
+      ko: "농지법 (토지 개혁)"
+    gender: f
+    notes:
+      en: "3rd/1st decl.; laws redistributing public land"
+      ko: "제3/제1변화; 공유지를 재분배하는 법"
+  - latin: "tabula"
+    translation:
+      en: "tablet (of law), record"
+      ko: "법판, 기록"
+    gender: f
+    notes:
+      en: "gen. tabulae; 1st decl.; Twelve Tables = earliest Roman law code"
+      ko: "속격 tabulae; 제1변화; 12표법 = 최초의 로마 성문법"
+  - latin: "comitia centuriata"
+    translation:
+      en: "centuriate assembly"
+      ko: "백인대 민회"
+    gender: n
+    notes:
+      en: "2nd decl. neuter plural; elected consuls and praetors"
+      ko: "제2변화 중성 복수; 집정관과 프라이토르를 선출"
+  - latin: "comitia tributa"
+    translation:
+      en: "tribal assembly"
+      ko: "부족 민회"
+    gender: n
+    notes:
+      en: "2nd decl. neuter plural; elected lower magistrates"
+      ko: "제2변화 중성 복수; 하급 관리를 선출"
+  - latin: "concilium plebis"
+    translation:
+      en: "plebeian council"
+      ko: "평민 의회"
+    gender: n
+    notes:
+      en: "2nd decl. neuter; plebeians only; elected tribunes"
+      ko: "제2변화 중성; 평민만 참여; 호민관을 선출"
+  - latin: "interrex"
+    translation:
+      en: "interrex (interim ruler)"
+      ko: "임시 통치자"
+    gender: m
+    notes:
+      en: "gen. interrēgis; 3rd decl.; appointed when both consuls died"
+      ko: "속격 interrēgis; 제3변화; 두 집정관 모두 사망 시 임명"
+  - latin: "ferre"
+    translation:
+      en: "to carry, to propose (a law)"
+      ko: "운반하다, (법을) 제안하다"
+    gender: n
+    notes:
+      en: "Irregular; perf. tulī; legem ferre = 'to propose a law'"
+      ko: "불규칙; 완료 tulī; legem ferre = '법을 제안하다'"
+  - latin: "cooptare"
+    translation:
+      en: "to co-opt, to elect (to fill vacancy)"
+      ko: "보선하다, (공석을 채우기 위해) 선출하다"
+    gender: n
+    notes:
+      en: "1st conj.; used for filling vacancies in colleges"
+      ko: "제1활용; 관직 단체의 공석 충원에 사용"
+  - latin: "abdicare"
+    translation:
+      en: "to abdicate, to renounce"
+      ko: "퇴위하다, 포기하다"
+    gender: n
+    notes:
+      en: "1st conj.; se abdicare magistratu"
+      ko: "제1활용; se abdicare magistratu"
+  - latin: "relegatio"
+    translation:
+      en: "relegation, banishment (milder than exile)"
+      ko: "추방 (유배보다 가벼운)"
+    gender: f
+    notes:
+      en: "gen. relegātiōnis; 3rd decl.; retained citizenship"
+      ko: "속격 relegātiōnis; 제3변화; 시민권 유지"
+  - latin: "aquae et ignis interdictio"
+    translation:
+      en: "ban of water and fire (form of exile)"
+      ko: "물과 불의 금지 (유배 형태)"
+    gender: f
+    notes:
+      en: "A formal decree of exile; excluded from Roman community"
+      ko: "정식 유배 선언; 로마 공동체에서 배제"
+  - latin: "triumviratus"
+    translation:
+      en: "triumvirate (rule of three)"
+      ko: "삼두정치"
+    gender: m
+    notes:
+      en: "gen. triumvirātūs; 4th decl.; First and Second Triumvirate"
+      ko: "속격 triumvirātūs; 제4변화; 제1·제2 삼두정치"
+  - latin: "dictatura"
+    translation:
+      en: "dictatorship"
+      ko: "독재 정치"
+    gender: f
+    notes:
+      en: "gen. dictātūrae; 1st decl.; emergency constitutional office"
+      ko: "속격 dictātūrae; 제1변화; 비상 헌법 관직"
