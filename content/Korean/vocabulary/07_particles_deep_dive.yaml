@@ -1,0 +1,548 @@
+lesson: 07_Particles_Deep_Dive
+lesson_number: 7
+topik: TOPIK_I_2
+
+categories:
+- id: object_location_particles
+  label:
+    en: Object and Location Particles
+    ko: 목적어와 장소 조사
+  type: vocabulary
+  words:
+  - korean: 을
+    reading: null
+    translation:
+      en: object particle (after consonant)
+      ko: 자음 뒤에 오는 목적격 조사
+    gender: null
+    plural: null
+  - korean: 를
+    reading: null
+    translation:
+      en: object particle (after vowel)
+      ko: 모음 뒤에 오는 목적격 조사
+    gender: null
+    plural: null
+  - korean: 에
+    reading: null
+    translation:
+      en: at, in, on (location/time)
+      ko: 장소나 시간을 나타내는 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Used for static location or destination: 학교에 가다, 집에 있다"
+      ko: "정적 위치나 목적지에 사용: 학교에 가다, 집에 있다"
+  - korean: 에서
+    reading: null
+    translation:
+      en: at, in (action location)
+      ko: 행동이 일어나는 장소를 나타내는 조사
+    gender: null
+    plural: null
+    notes:
+      en: "Used for where action takes place: 학교에서 공부하다"
+      ko: "행동이 이루어지는 곳에 사용: 학교에서 공부하다"
+  - korean: 위
+    reading: null
+    translation:
+      en: top, above
+      ko: 어떤 것의 윗부분
+    gender: null
+    plural: null
+  - korean: 아래
+    reading: null
+    translation:
+      en: bottom, below
+      ko: 어떤 것의 아랫부분
+    gender: null
+    plural: null
+  - korean: 앞
+    reading: null
+    translation:
+      en: front
+      ko: 어떤 것의 앞쪽
+    gender: null
+    plural: null
+  - korean: 뒤
+    reading: null
+    translation:
+      en: back, behind
+      ko: 어떤 것의 뒷쪽
+    gender: null
+    plural: null
+  - korean: 옆
+    reading: null
+    translation:
+      en: side, beside
+      ko: 어떤 것의 곁
+    gender: null
+    plural: null
+  - korean: 안
+    reading: null
+    translation:
+      en: inside
+      ko: 어떤 것의 내부
+    gender: null
+    plural: null
+  - korean: 밖
+    reading: null
+    translation:
+      en: outside
+      ko: 어떤 것의 외부
+    gender: null
+    plural: null
+  - korean: 사이
+    reading: null
+    translation:
+      en: between
+      ko: 둘 사이의 공간
+    gender: null
+    plural: null
+  - korean: 근처
+    reading: null
+    translation:
+      en: nearby, vicinity
+      ko: 가까운 곳
+    gender: null
+    plural: null
+  - korean: 맞은편
+    reading: null
+    translation:
+      en: opposite side
+      ko: 바로 건너편
+    gender: null
+    plural: null
+
+- id: direction_means
+  label:
+    en: Direction and Means Particles
+    ko: 방향과 수단 조사
+  type: vocabulary
+  words:
+  - korean: 으로
+    reading: null
+    translation:
+      en: to, toward, by means of (after consonant)
+      ko: 방향이나 수단을 나타내는 조사 (자음 뒤)
+    gender: null
+    plural: null
+  - korean: 로
+    reading: null
+    translation:
+      en: to, toward, by means of (after vowel/ㄹ)
+      ko: 방향이나 수단을 나타내는 조사 (모음/ㄹ 뒤)
+    gender: null
+    plural: null
+  - korean: 에서 ... 까지
+    reading: null
+    translation:
+      en: from ... to (place)
+      ko: 장소의 출발점에서 도착점을 나타내는 표현
+    gender: null
+    plural: null
+  - korean: 쪽
+    reading: null
+    translation:
+      en: direction, side
+      ko: 방향을 나타내는 말
+    gender: null
+    plural: null
+  - korean: 오른쪽
+    reading: null
+    translation:
+      en: right side
+      ko: 오른편
+    gender: null
+    plural: null
+  - korean: 왼쪽
+    reading: null
+    translation:
+      en: left side
+      ko: 왼편
+    gender: null
+    plural: null
+  - korean: 동쪽
+    reading: null
+    translation:
+      en: east
+      ko: 해가 뜨는 방향
+    gender: null
+    plural: null
+  - korean: 서쪽
+    reading: null
+    translation:
+      en: west
+      ko: 해가 지는 방향
+    gender: null
+    plural: null
+  - korean: 남쪽
+    reading: null
+    translation:
+      en: south
+      ko: 적도 방향
+    gender: null
+    plural: null
+  - korean: 북쪽
+    reading: null
+    translation:
+      en: north
+      ko: 북극 방향
+    gender: null
+    plural: null
+
+- id: comitative_particles
+  label:
+    en: Comitative Particles (Together/With)
+    ko: 동반 조사
+  type: vocabulary
+  words:
+  - korean: 와
+    reading: null
+    translation:
+      en: and, with (after vowel)
+      ko: 모음 뒤에 오는 동반/나열 조사
+    gender: null
+    plural: null
+  - korean: 과
+    reading: null
+    translation:
+      en: and, with (after consonant)
+      ko: 자음 뒤에 오는 동반/나열 조사
+    gender: null
+    plural: null
+  - korean: 하고
+    reading: null
+    translation:
+      en: and, with (casual)
+      ko: 동반이나 나열을 나타내는 구어체 조사
+    gender: null
+    plural: null
+  - korean: 이랑
+    reading: null
+    translation:
+      en: and, with (after consonant, colloquial)
+      ko: 자음 뒤의 구어체 동반 조사
+    gender: null
+    plural: null
+  - korean: 랑
+    reading: null
+    translation:
+      en: and, with (after vowel, colloquial)
+      ko: 모음 뒤의 구어체 동반 조사
+    gender: null
+    plural: null
+  - korean: 같이
+    reading: null
+    translation:
+      en: together
+      ko: 함께
+    gender: null
+    plural: null
+  - korean: 함께
+    reading: null
+    translation:
+      en: together (formal)
+      ko: 같이의 격식체 표현
+    gender: null
+    plural: null
+
+- id: range_additional
+  label:
+    en: Range and Additional Particles
+    ko: 범위와 보조 조사
+  type: vocabulary
+  words:
+  - korean: 도
+    reading: null
+    translation:
+      en: also, too
+      ko: 역시, 마찬가지로
+    gender: null
+    plural: null
+  - korean: 만
+    reading: null
+    translation:
+      en: only, just
+      ko: 오직 그것뿐
+    gender: null
+    plural: null
+  - korean: 부터
+    reading: null
+    translation:
+      en: from (starting point)
+      ko: 시작점을 나타내는 조사
+    gender: null
+    plural: null
+  - korean: 까지
+    reading: null
+    translation:
+      en: until, to (ending point)
+      ko: 끝점을 나타내는 조사
+    gender: null
+    plural: null
+  - korean: 마다
+    reading: null
+    translation:
+      en: every, each
+      ko: 하나하나 빠짐없이
+    gender: null
+    plural: null
+  - korean: 밖에
+    reading: null
+    translation:
+      en: only, nothing but (with negative)
+      ko: 그것 외에 없음 (부정과 함께 사용)
+    gender: null
+    plural: null
+    notes:
+      en: "Always used with negative: 물밖에 없어요 (there's only water)"
+      ko: "항상 부정과 함께 사용: 물밖에 없어요"
+  - korean: 쯤
+    reading: null
+    translation:
+      en: about, approximately
+      ko: 대략 그 정도
+    gender: null
+    plural: null
+  - korean: 정도
+    reading: null
+    translation:
+      en: about, degree
+      ko: 대략의 정도
+    gender: null
+    plural: null
+
+- id: particle_expressions
+  label:
+    en: Target and Comparison Particles
+    ko: 대상과 비교 조사
+  type: vocabulary
+  words:
+  - korean: 에게
+    reading: null
+    translation:
+      en: to (a person, formal)
+      ko: 사람에게 향하는 방향 (격식)
+    gender: null
+    plural: null
+  - korean: 한테
+    reading: null
+    translation:
+      en: to (a person, casual)
+      ko: 사람에게 향하는 방향 (구어)
+    gender: null
+    plural: null
+  - korean: 에게서
+    reading: null
+    translation:
+      en: from (a person, formal)
+      ko: 사람으로부터 오는 방향 (격식)
+    gender: null
+    plural: null
+  - korean: 한테서
+    reading: null
+    translation:
+      en: from (a person, casual)
+      ko: 사람으로부터 오는 방향 (구어)
+    gender: null
+    plural: null
+  - korean: 보다
+    reading: null
+    translation:
+      en: than (comparison)
+      ko: 비교의 기준을 나타내는 조사
+    gender: null
+    plural: null
+    notes:
+      en: "한국이 일본보다 커요 (Korea is bigger than Japan)"
+      ko: "비교 대상 뒤에 붙임: 한국이 일본보다 커요"
+  - korean: 처럼
+    reading: null
+    translation:
+      en: like, as
+      ko: 비유를 나타내는 조사
+    gender: null
+    plural: null
+  - korean: 같이
+    reading: null
+    translation:
+      en: like (colloquial comparison)
+      ko: 비유를 나타내는 구어체 표현
+    gender: null
+    plural: null
+  - korean: 의
+    reading: null
+    translation:
+      en: of (possessive)
+      ko: 소유를 나타내는 조사
+    gender: null
+    plural: null
+  - korean: 대로
+    reading: null
+    translation:
+      en: as, according to
+      ko: 그것을 따라서
+    gender: null
+    plural: null
+  - korean: 대신
+    reading: null
+    translation:
+      en: instead of
+      ko: 그것을 대체하여
+    gender: null
+    plural: null
+  - korean: 때문에
+    reading: null
+    translation:
+      en: because of
+      ko: 그것이 원인이 되어
+    gender: null
+    plural: null
+  - korean: 만큼
+    reading: null
+    translation:
+      en: as much as
+      ko: 그 정도와 같은 양
+    gender: null
+    plural: null
+  - korean: 에 대해서
+    reading: null
+    translation:
+      en: about, concerning
+      ko: 그것에 관하여
+    gender: null
+    plural: null
+  - korean: 에 따라
+    reading: null
+    translation:
+      en: according to, depending on
+      ko: 그것을 기준으로 하여
+    gender: null
+    plural: null
+  - korean: 을/를 위해서
+    reading: null
+    translation:
+      en: for the sake of
+      ko: 그것을 목적으로
+    gender: null
+    plural: null
+  - korean: 에 비해서
+    reading: null
+    translation:
+      en: compared to
+      ko: 그것과 비교하여
+    gender: null
+    plural: null
+
+- id: common_particle_nouns
+  label:
+    en: Common Nouns Used with Particles
+    ko: 조사와 자주 쓰이는 명사
+  type: vocabulary
+  words:
+  - korean: 나라
+    reading: null
+    translation:
+      en: country
+      ko: 국가
+    gender: null
+    plural: null
+  - korean: 도시
+    reading: null
+    translation:
+      en: city
+      ko: 큰 마을
+    gender: null
+    plural: null
+  - korean: 거리
+    reading: null
+    translation:
+      en: street, distance
+      ko: 길, 떨어진 정도
+    gender: null
+    plural: null
+  - korean: 건물
+    reading: null
+    translation:
+      en: building
+      ko: 지은 집
+    gender: null
+    plural: null
+  - korean: 병원
+    reading: null
+    translation:
+      en: hospital
+      ko: 아픈 사람을 치료하는 곳
+    gender: null
+    plural: null
+  - korean: 은행
+    reading: null
+    translation:
+      en: bank
+      ko: 돈을 맡기고 빌리는 곳
+    gender: null
+    plural: null
+  - korean: 우체국
+    reading: null
+    translation:
+      en: post office
+      ko: 편지와 소포를 보내는 곳
+    gender: null
+    plural: null
+  - korean: 도서관
+    reading: null
+    translation:
+      en: library
+      ko: 책을 빌려 읽는 곳
+    gender: null
+    plural: null
+  - korean: 공원
+    reading: null
+    translation:
+      en: park
+      ko: 쉬거나 산책하는 녹지
+    gender: null
+    plural: null
+  - korean: 극장
+    reading: null
+    translation:
+      en: theater, cinema
+      ko: 영화나 연극을 보는 곳
+    gender: null
+    plural: null
+  - korean: 백화점
+    reading: null
+    translation:
+      en: department store
+      ko: 여러 종류의 물건을 파는 큰 가게
+    gender: null
+    plural: null
+  - korean: 약국
+    reading: null
+    translation:
+      en: pharmacy
+      ko: 약을 파는 곳
+    gender: null
+    plural: null
+  - korean: 호텔
+    reading: null
+    translation:
+      en: hotel
+      ko: 여행객이 머무는 곳
+    gender: null
+    plural: null
+  - korean: 화장실
+    reading: null
+    translation:
+      en: restroom, bathroom
+      ko: 용변을 보는 곳
+    gender: null
+    plural: null
+  - korean: 주차장
+    reading: null
+    translation:
+      en: parking lot
+      ko: 차를 세우는 곳
+    gender: null
+    plural: null
