@@ -1,0 +1,556 @@
+lesson: 17_Indirect_Discourse
+lesson_number: 17
+cefr: B2
+categories:
+- id: 171_verbs_of_saying
+  label:
+    en: 17.1 Verbs of Saying
+    ko: 17.1 말하기 동사
+  type: vocabulary
+  words:
+  - latin: dicere
+    translation:
+      en: to say, to speak
+      ko: 말하다
+    gender: null
+    notes:
+      en: "3rd conj.; dīcō, dīcere, dīxī, dictum"
+      ko: "제3활용; dīcō, dīcere, dīxī, dictum"
+  - latin: narrare
+    translation:
+      en: to tell, to narrate
+      ko: 이야기하다, 서술하다
+    gender: null
+    notes:
+      en: "1st conj.; narrō, narrāre, narrāvī, narrātum"
+      ko: "제1활용; narrō, narrāre, narrāvī, narrātum"
+  - latin: scribere
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    notes:
+      en: "3rd conj.; scrībō, scrībere, scrīpsī, scrīptum"
+      ko: "제3활용; scrībō, scrībere, scrīpsī, scrīptum"
+  - latin: nuntiare
+    translation:
+      en: to announce, to report
+      ko: 알리다, 보고하다
+    gender: null
+    notes:
+      en: "1st conj.; nūntiō, nūntiāre, nūntiāvī, nūntiātum"
+      ko: "제1활용; nūntiō, nūntiāre, nūntiāvī, nūntiātum"
+  - latin: respondere
+    translation:
+      en: to reply, to answer
+      ko: 대답하다, 응답하다
+    gender: null
+    notes:
+      en: "2nd conj.; respondeō, respondēre, respondī, respōnsum"
+      ko: "제2활용; respondeō, respondēre, respondī, respōnsum"
+  - latin: negare
+    translation:
+      en: to deny, to say...not
+      ko: 부정하다, ~이 아니라고 말하다
+    gender: null
+    notes:
+      en: "1st conj.; negō, negāre, negāvī, negātum"
+      ko: "제1활용; negō, negāre, negāvī, negātum"
+  - latin: affirmare
+    translation:
+      en: to affirm, to assert
+      ko: 확언하다, 단언하다
+    gender: null
+    notes:
+      en: "1st conj.; affirmō, affirmāre, affirmāvī, affirmātum"
+      ko: "제1활용; affirmō, affirmāre, affirmāvī, affirmātum"
+  - latin: pronuntiare
+    translation:
+      en: to proclaim, to declare
+      ko: 선언하다, 공포하다
+    gender: null
+    notes:
+      en: "1st conj.; prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum"
+      ko: "제1활용; prōnūntiō, prōnūntiāre, prōnūntiāvī, prōnūntiātum"
+  - latin: referre
+    translation:
+      en: to report, to bring back
+      ko: 보고하다, 되돌리다
+    gender: null
+    notes:
+      en: "irregular; referō, referre, rettulī, relātum"
+      ko: "불규칙; referō, referre, rettulī, relātum"
+  - latin: tradere
+    translation:
+      en: to hand down, to relate, to transmit
+      ko: 전하다, 전승하다
+    gender: null
+    notes:
+      en: "3rd conj.; trādō, trādere, trādidī, trāditum"
+      ko: "제3활용; trādō, trādere, trādidī, trāditum"
+  - latin: promittere
+    translation:
+      en: to promise
+      ko: 약속하다
+    gender: null
+    notes:
+      en: "3rd conj.; prōmittō, prōmittere, prōmīsī, prōmissum"
+      ko: "제3활용; prōmittō, prōmittere, prōmīsī, prōmissum"
+  - latin: oratio
+    translation:
+      en: speech, oration
+      ko: 연설, 말
+    gender: f
+    notes:
+      en: "gen. ōrātiōnis; 3rd decl.; ōrātiō oblīqua = 'indirect speech'"
+      ko: "속격 ōrātiōnis; 제3변화; ōrātiō oblīqua = '간접 화법'"
+  - latin: verbum
+    translation:
+      en: word
+      ko: 단어, 말
+    gender: n
+    notes:
+      en: "gen. verbī; 2nd decl. neuter"
+      ko: "속격 verbī; 제2변화 중성"
+  - latin: sermo
+    translation:
+      en: conversation, discourse, speech
+      ko: 대화, 담화
+    gender: m
+    notes:
+      en: "gen. sermōnis; 3rd decl."
+      ko: "속격 sermōnis; 제3변화"
+- id: 172_verbs_of_thinking
+  label:
+    en: 17.2 Verbs of Thinking
+    ko: 17.2 사유 동사
+  type: vocabulary
+  words:
+  - latin: putare
+    translation:
+      en: to think, to consider
+      ko: 생각하다, 여기다
+    gender: null
+    notes:
+      en: "1st conj.; putō, putāre, putāvī, putātum"
+      ko: "제1활용; putō, putāre, putāvī, putātum"
+  - latin: credere
+    translation:
+      en: to believe, to trust
+      ko: 믿다, 신뢰하다
+    gender: null
+    notes:
+      en: "3rd conj.; crēdō, crēdere, crēdidī, crēditum; + dat."
+      ko: "제3활용; crēdō, crēdere, crēdidī, crēditum; + 여격"
+  - latin: existimare
+    translation:
+      en: to judge, to think, to estimate
+      ko: 판단하다, 생각하다, 평가하다
+    gender: null
+    notes:
+      en: "1st conj.; exīstimō, exīstimāre, exīstimāvī, exīstimātum"
+      ko: "제1활용; exīstimō, exīstimāre, exīstimāvī, exīstimātum"
+  - latin: arbitrari
+    translation:
+      en: to think, to judge, to consider
+      ko: 생각하다, 판단하다
+    gender: null
+    notes:
+      en: "1st conj. deponent; arbitror, arbitrārī, arbitrātus sum"
+      ko: "제1활용 탈형 동사; arbitror, arbitrārī, arbitrātus sum"
+  - latin: opinari
+    translation:
+      en: to suppose, to be of the opinion
+      ko: 추측하다, ~라는 의견이다
+    gender: null
+    notes:
+      en: "1st conj. deponent; opinor, opinārī, opinātus sum"
+      ko: "제1활용 탈형 동사; opinor, opinārī, opinātus sum"
+  - latin: censere
+    translation:
+      en: to think, to assess, to decree
+      ko: 생각하다, 평가하다, 의결하다
+    gender: null
+    notes:
+      en: "2nd conj.; cēnseō, cēnsēre, cēnsuī, cēnsum"
+      ko: "제2활용; cēnseō, cēnsēre, cēnsuī, cēnsum"
+  - latin: sperare
+    translation:
+      en: to hope, to expect
+      ko: 희망하다, 기대하다
+    gender: null
+    notes:
+      en: "1st conj.; spērō, spērāre, spērāvī, spērātum"
+      ko: "제1활용; spērō, spērāre, spērāvī, spērātum"
+  - latin: iudicare
+    translation:
+      en: to judge, to decide
+      ko: 판단하다, 결정하다
+    gender: null
+    notes:
+      en: "1st conj.; iūdicō, iūdicāre, iūdicāvī, iūdicātum"
+      ko: "제1활용; iūdicō, iūdicāre, iūdicāvī, iūdicātum"
+  - latin: mens
+    translation:
+      en: mind, intention, thought
+      ko: 마음, 의도, 생각
+    gender: f
+    notes:
+      en: "gen. mentis; 3rd decl."
+      ko: "속격 mentis; 제3변화"
+  - latin: opinio
+    translation:
+      en: opinion, belief, reputation
+      ko: 의견, 믿음, 평판
+    gender: f
+    notes:
+      en: "gen. opiniōnis; 3rd decl."
+      ko: "속격 opiniōnis; 제3변화"
+  - latin: sententia
+    translation:
+      en: opinion, sentence, judgment
+      ko: 의견, 문장, 판결
+    gender: f
+    notes:
+      en: "gen. sententiae; 1st decl."
+      ko: "속격 sententiae; 제1변화"
+- id: 173_verbs_of_perceiving
+  label:
+    en: 17.3 Verbs of Perceiving
+    ko: 17.3 감각·인지 동사
+  type: vocabulary
+  words:
+  - latin: sentire
+    translation:
+      en: to feel, to perceive, to think
+      ko: 느끼다, 감지하다, 생각하다
+    gender: null
+    notes:
+      en: "4th conj.; sentiō, sentīre, sēnsī, sēnsum"
+      ko: "제4활용; sentiō, sentīre, sēnsī, sēnsum"
+  - latin: videre
+    translation:
+      en: to see; (passive) to seem
+      ko: 보다; (수동) ~처럼 보이다
+    gender: null
+    notes:
+      en: "2nd conj.; videō, vidēre, vīdī, vīsum"
+      ko: "제2활용; videō, vidēre, vīdī, vīsum"
+  - latin: audire
+    translation:
+      en: to hear, to listen to
+      ko: 듣다
+    gender: null
+    notes:
+      en: "4th conj.; audiō, audīre, audīvī, audītum"
+      ko: "제4활용; audiō, audīre, audīvī, audītum"
+  - latin: cognoscere
+    translation:
+      en: to learn, to recognize, to know
+      ko: 알게 되다, 인식하다, 알다
+    gender: null
+    notes:
+      en: "3rd conj.; cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum"
+      ko: "제3활용; cōgnōscō, cōgnōscere, cōgnōvī, cōgnitum"
+  - latin: scire
+    translation:
+      en: to know
+      ko: 알다
+    gender: null
+    notes:
+      en: "4th conj.; sciō, scīre, scīvī, scītum"
+      ko: "제4활용; sciō, scīre, scīvī, scītum"
+  - latin: nescire
+    translation:
+      en: to not know, to be ignorant of
+      ko: 모르다
+    gender: null
+    notes:
+      en: "4th conj.; nesciō, nescīre, nescīvī, nescītum"
+      ko: "제4활용; nesciō, nescīre, nescīvī, nescītum"
+  - latin: intellegere
+    translation:
+      en: to understand, to perceive
+      ko: 이해하다, 파악하다
+    gender: null
+    notes:
+      en: "3rd conj.; intellegō, intellegere, intellēxī, intellēctum"
+      ko: "제3활용; intellegō, intellegere, intellēxī, intellēctum"
+  - latin: animadvertere
+    translation:
+      en: to notice, to pay attention to
+      ko: 알아차리다, 주의를 기울이다
+    gender: null
+    notes:
+      en: "3rd conj.; animadvertō, animadvertere, animadvertī, animadversum"
+      ko: "제3활용; animadvertō, animadvertere, animadvertī, animadversum"
+  - latin: comperire
+    translation:
+      en: to find out, to discover
+      ko: 발견하다, 알아내다
+    gender: null
+    notes:
+      en: "4th conj.; comperiō, comperīre, comperī, compertum"
+      ko: "제4활용; comperiō, comperīre, comperī, compertum"
+  - latin: memoria
+    translation:
+      en: memory, remembrance
+      ko: 기억
+    gender: f
+    notes:
+      en: "gen. memoriae; 1st decl."
+      ko: "속격 memoriae; 제1변화"
+  - latin: scientia
+    translation:
+      en: knowledge, science
+      ko: 지식, 학문
+    gender: f
+    notes:
+      en: "gen. scientiae; 1st decl."
+      ko: "속격 scientiae; 제1변화"
+- id: 174_indirect_question_words
+  label:
+    en: 17.4 Indirect Question Words
+    ko: 17.4 간접 의문사
+  type: vocabulary
+  words:
+  - latin: cur
+    translation:
+      en: why
+      ko: 왜
+    gender: null
+    notes:
+      en: "interrogative adverb; introduces indirect questions with subjunctive"
+      ko: "의문 부사; 접속법과 함께 간접 의문문을 이끔"
+  - latin: quomodo
+    translation:
+      en: how, in what way
+      ko: 어떻게
+    gender: null
+    notes:
+      en: "interrogative adverb"
+      ko: "의문 부사"
+  - latin: num
+    translation:
+      en: whether (expecting 'no')
+      ko: ~인지 (부정 기대)
+    gender: null
+    notes:
+      en: "interrogative particle; indirect yes/no question"
+      ko: "의문 불변화사; 간접 예/아니오 의문"
+  - latin: nonne
+    translation:
+      en: whether...not (expecting 'yes')
+      ko: ~이 아닌지 (긍정 기대)
+    gender: null
+    notes:
+      en: "interrogative particle; expects affirmative answer"
+      ko: "의문 불변화사; 긍정적 대답을 기대"
+  - latin: utrum...an
+    translation:
+      en: whether...or
+      ko: ~인지 아니면 ~인지
+    gender: null
+    notes:
+      en: "double interrogative; introduces alternative indirect question"
+      ko: "이중 의문; 선택적 간접 의문문을 이끔"
+  - latin: quaerere
+    translation:
+      en: to ask, to seek, to inquire
+      ko: 묻다, 찾다, 조사하다
+    gender: null
+    notes:
+      en: "3rd conj.; quaerō, quaerere, quaesīvī, quaesītum"
+      ko: "제3활용; quaerō, quaerere, quaesīvī, quaesītum"
+  - latin: rogare
+    translation:
+      en: to ask, to request
+      ko: 묻다, 요청하다
+    gender: null
+    notes:
+      en: "1st conj.; rogō, rogāre, rogāvī, rogātum; + double acc."
+      ko: "제1활용; rogō, rogāre, rogāvī, rogātum; + 이중 대격"
+  - latin: interrogare
+    translation:
+      en: to question, to interrogate
+      ko: 질문하다, 심문하다
+    gender: null
+    notes:
+      en: "1st conj.; interrogō, interrogāre, interrogāvī, interrogātum"
+      ko: "제1활용; interrogō, interrogāre, interrogāvī, interrogātum"
+  - latin: quaestio
+    translation:
+      en: inquiry, question, investigation
+      ko: 질문, 조사, 심리
+    gender: f
+    notes:
+      en: "gen. quaestiōnis; 3rd decl."
+      ko: "속격 quaestiōnis; 제3변화"
+  - latin: dubium
+    translation:
+      en: doubt
+      ko: 의심
+    gender: n
+    notes:
+      en: "gen. dubiī; 2nd decl. neuter; sine dubiō = 'without doubt'"
+      ko: "속격 dubiī; 제2변화 중성; sine dubiō = '의심 없이'"
+  - latin: dubitare
+    translation:
+      en: to doubt, to hesitate
+      ko: 의심하다, 주저하다
+    gender: null
+    notes:
+      en: "1st conj.; dubitō, dubitāre, dubitāvī, dubitātum"
+      ko: "제1활용; dubitō, dubitāre, dubitāvī, dubitātum"
+  - latin: incertus
+    translation:
+      en: uncertain, doubtful
+      ko: 불확실한, 의심스러운
+    gender: m
+    notes:
+      en: "adj. incertus, -a, -um; 1st/2nd decl."
+      ko: "형용사 incertus, -a, -um; 제1·2변화"
+  - latin: certus
+    translation:
+      en: certain, sure, definite
+      ko: 확실한, 확정된
+    gender: m
+    notes:
+      en: "adj. certus, -a, -um; certiōrem facere = 'to inform'"
+      ko: "형용사 certus, -a, -um; certiōrem facere = '알리다'"
+  - latin: responsum
+    translation:
+      en: answer, reply, response
+      ko: 대답, 답변
+    gender: n
+    notes:
+      en: "gen. responsī; 2nd decl. neuter"
+      ko: "속격 responsī; 제2변화 중성"
+  - latin: unde
+    translation:
+      en: from where, whence
+      ko: 어디에서
+    gender: null
+    notes:
+      en: "interrogative/relative adverb; indirect question"
+      ko: "의문/관계 부사; 간접 의문"
+  - latin: quo
+    translation:
+      en: to where, whither
+      ko: 어디로
+    gender: null
+    notes:
+      en: "interrogative/relative adverb of direction"
+      ko: "방향의 의문/관계 부사"
+  - latin: ubi
+    translation:
+      en: where
+      ko: 어디에
+    gender: null
+    notes:
+      en: "interrogative/relative adverb; in indirect questions + subj."
+      ko: "의문/관계 부사; 간접 의문에서 + 접속법"
+  - latin: quando
+    translation:
+      en: when
+      ko: 언제
+    gender: null
+    notes:
+      en: "interrogative adverb; in indirect questions"
+      ko: "의문 부사; 간접 의문에서"
+  - latin: quantus
+    translation:
+      en: how great, how much
+      ko: 얼마나 큰, 얼마나 많은
+    gender: m
+    notes:
+      en: "interrogative adj. quantus, -a, -um; in indirect questions"
+      ko: "의문 형용사 quantus, -a, -um; 간접 의문에서"
+  - latin: qualis
+    translation:
+      en: of what kind, what sort of
+      ko: 어떤 종류의
+    gender: m
+    notes:
+      en: "interrogative adj. quālis, -e; 3rd decl."
+      ko: "의문 형용사 quālis, -e; 제3변화"
+  - latin: quot
+    translation:
+      en: how many
+      ko: 얼마나 많은
+    gender: null
+    notes:
+      en: "interrogative adj.; indeclinable"
+      ko: "의문 형용사; 불변화"
+  - latin: an
+    translation:
+      en: or, whether (in indirect questions)
+      ko: 또는, ~인지
+    gender: null
+    notes:
+      en: "conjunction; second element of utrum...an"
+      ko: "접속사; utrum...an의 두 번째 요소"
+  - latin: necne
+    translation:
+      en: or not
+      ko: 아닌지
+    gender: null
+    notes:
+      en: "conjunction; used in indirect alternative questions"
+      ko: "접속사; 간접 선택 의문에서 사용"
+  - latin: fama
+    translation:
+      en: rumor, fame, report
+      ko: 소문, 명성, 보고
+    gender: f
+    notes:
+      en: "gen. fāmae; 1st decl.; fāma est + acc. + inf."
+      ko: "속격 fāmae; 제1변화; fāma est + 대격 + 부정법"
+  - latin: vox
+    translation:
+      en: voice, word, utterance
+      ko: 목소리, 말, 발언
+    gender: f
+    notes:
+      en: "gen. vōcis; 3rd decl."
+      ko: "속격 vōcis; 제3변화"
+  - latin: litterae
+    translation:
+      en: letter (epistle), literature
+      ko: 편지, 문학
+    gender: f
+    notes:
+      en: "gen. litterārum; 1st decl. pl.; sg. littera = 'letter of alphabet'"
+      ko: "속격 litterārum; 제1변화 복수; 단수 littera = '알파벳 글자'"
+  - latin: mentiri
+    translation:
+      en: to lie, to deceive
+      ko: 거짓말하다, 속이다
+    gender: null
+    notes:
+      en: "4th conj. deponent; mentior, mentīrī, mentītus sum"
+      ko: "제4활용 탈형 동사; mentior, mentīrī, mentītus sum"
+  - latin: confiteri
+    translation:
+      en: to confess, to admit
+      ko: 고백하다, 인정하다
+    gender: null
+    notes:
+      en: "2nd conj. deponent; confiteor, confitērī, confessus sum"
+      ko: "제2활용 탈형 동사; confiteor, confitērī, confessus sum"
+  - latin: loqui
+    translation:
+      en: to speak, to talk
+      ko: 말하다, 이야기하다
+    gender: null
+    notes:
+      en: "3rd conj. deponent; loquor, loquī, locūtus sum"
+      ko: "제3활용 탈형 동사; loquor, loquī, locūtus sum"
+  - latin: persuadere
+    translation:
+      en: to persuade, to convince
+      ko: 설득하다
+    gender: null
+    notes:
+      en: "2nd conj.; persuādeō, persuādēre, persuāsī, persuāsum; + dat."
+      ko: "제2활용; persuādeō, persuādēre, persuāsī, persuāsum; + 여격"
