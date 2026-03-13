@@ -1,0 +1,48 @@
+# Korean Grammar — Index
+# Directory: language-hub/content/Korean/grammar/
+
+course: Korean
+section: grammar
+label:
+  en: "Korean Grammar Reference"
+  ko: "한국어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for 20 Korean verbs across 7 forms, plus 10 adjective conjugations"
+      ko: "20개 한국어 동사의 7가지 형태 전체 활용 패러다임, 10개 형용사 활용 포함"
+    verbs_included: 20
+    adjectives_included: 10
+    categories:
+      - regular (가다, 오다, 먹다, 마시다, 하다, 보다, 읽다, 쓰다, 사다, 만들다, 일하다, 배우다)
+      - irregular_ㄷ (듣다, 걷다)
+      - irregular_ㅂ (돕다, 덥다)
+      - irregular_ㅅ (짓다, 낫다)
+      - irregular_르 (빠르다, 모르다)
+      - adjective (크다, 작다, 좋다, 나쁘다, 예쁘다, 멀다, 가깝다, 어렵다, 쉽다, 많다)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense and form rules, speech levels, and usage guidelines"
+      ko: "시제 및 형태 규칙, 경어법, 사용법 지침"
+    forms_included:
+      basic: [present, past, future]
+      aspect: [progressive, past_progressive, past_perfect]
+      modality: [prospective, presumptive, retrospective, habitual_past]
+      voice: [passive, causative]
+      reported: [reported_speech]
+      conditional: [conditional]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns for Korean"
+      ko: "한국어 문법 규칙, 대조, 패턴"
+    rules_included:
+      - particle_usage
+      - verb_conjugation_types
+      - speech_levels
+      - connective_endings
+      - noun_modifiers
+      - indirect_speech
+      - word_formation
