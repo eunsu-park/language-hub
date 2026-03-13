@@ -17,6 +17,7 @@ language-hub/
 │   ├── _shared/                       # Cross-language metadata
 │   │   ├── cefr_levels.yaml           # CEFR A1-C2 level definitions
 │   │   ├── jlpt_levels.yaml           # JLPT N5-N1 level definitions
+│   │   ├── topik_levels.yaml          # TOPIK I-1→II-6 level definitions
 │   │   └── proficiency_frameworks.yaml  # CEFR/JLPT/TOPIK/HSK mapping
 │   │
 │   ├── Spanish/                       # Spanish course (A1→C1 CEFR)
@@ -71,15 +72,28 @@ language-hub/
 │   │       ├── tense_rules.yaml       # 14 tense rules
 │   │       └── _index.yaml            # Grammar index metadata
 │   │
-│   └── Italian/                       # Italian course (A1→C1 CEFR)
-│       ├── course_metadata.yaml       # Language config, CEFR stage definitions
+│   ├── Italian/                       # Italian course (A1→C1 CEFR)
+│   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
+│   │   ├── en/                        # Lessons in English (26 files)
+│   │   ├── ko/                        # Lessons in Korean (26 files)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (66 files, 7,870 words)
+│   │   │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
+│   │   │   └── sup_*.yaml               # Supplementary packs by level (41 files)
+│   │   └── grammar/                   # Structured grammar YAML
+│   │       ├── conjugations.yaml      # 20 verbs × 7 tenses
+│   │       ├── grammar_rules.yaml     # 7 rule types
+│   │       ├── tense_rules.yaml       # 14 tense rules
+│   │       └── _index.yaml            # Grammar index metadata
+│   │
+│   └── Korean/                        # Korean course (TOPIK I-1→II-5)
+│       ├── course_metadata.yaml       # Language config, TOPIK stage definitions
 │       ├── en/                        # Lessons in English (26 files)
 │       ├── ko/                        # Lessons in Korean (26 files)
-│       ├── vocabulary/                # Structured vocabulary YAML (66 files, 7,870 words)
+│       ├── vocabulary/                # Structured vocabulary YAML (69 files, 5,294 words)
 │       │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
-│       │   └── sup_*.yaml               # Supplementary packs by level (41 files)
+│       │   └── sup_*.yaml               # Supplementary packs by level (43 files)
 │       └── grammar/                   # Structured grammar YAML
-│           ├── conjugations.yaml      # 20 verbs × 7 tenses
+│           ├── conjugations.yaml      # 20 verbs × 7 forms
 │           ├── grammar_rules.yaml     # 7 rule types
 │           ├── tense_rules.yaml       # 14 tense rules
 │           └── _index.yaml            # Grammar index metadata
@@ -180,6 +194,24 @@ language-hub/
 - 26 lesson files per language (en + ko)
 - 66 vocabulary YAML files (7,870 words)
 - 20 verbs × 7 tenses (conjugation tables)
+- 7 grammar rule types, 14 tense rules
+
+### Korean (한국어)
+
+25-lesson progressive course from TOPIK I-1 to TOPIK II-5 (TOPIK), designed for Korean learners.
+
+| Stage | TOPIK | Lessons | Focus |
+|-------|-------|---------|-------|
+| Foundations / 기초 | TOPIK I-1 | 01-05 | Hangul, greetings, sentence structure, numbers, present/past tense |
+| Elementary / 초급 | TOPIK I-2 | 06-10 | Adjectives, particles, verb endings, daily vocabulary, relationships |
+| Intermediate / 중급 | TOPIK II-3 | 11-15 | Irregular conjugation, connective endings, indirect speech, honorifics |
+| Advanced / 고급 | TOPIK II-4 | 16-20 | Advanced grammar, reading, Hanja, idioms, thematic vocabulary |
+| Practical / 실전 | TOPIK II-5 | 21-25 | Business, writing, culture, media, TOPIK prep |
+
+**Content stats:**
+- 26 lesson files per language (en + ko)
+- 69 vocabulary YAML files (5,294 words)
+- 20 verbs × 7 forms (conjugation tables)
 - 7 grammar rule types, 14 tense rules
 
 ## Companion Viewer / 뷰어
