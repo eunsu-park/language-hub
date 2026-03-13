@@ -1,0 +1,434 @@
+lesson: supplementary
+lesson_number: 125
+topik: TOPIK_II_3
+type: supplementary
+topic: "Law and Rules"
+
+categories:
+- id: legal_terms
+  label:
+    en: "Legal Terms"
+    ko: "법률 용어"
+  type: vocabulary
+  words:
+  - korean: 법
+    reading: null
+    translation:
+      en: "law"
+      ko: "지켜야 할 규범"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 法(law)"
+      ko: "한자어: 法(법 법)"
+  - korean: 법률
+    reading: null
+    translation:
+      en: "law, statute"
+      ko: "국가가 정한 규범"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 法(law) + 律(regulation)"
+      ko: "한자어: 法(법 법) + 律(법칙 률)"
+  - korean: 헌법
+    reading: null
+    translation:
+      en: "constitution"
+      ko: "나라의 최고 법"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 憲(constitution) + 法(law)"
+      ko: "한자어: 憲(법 헌) + 法(법 법)"
+  - korean: 법원
+    reading: null
+    translation:
+      en: "court (of law)"
+      ko: "재판하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 法(law) + 院(institute)"
+      ko: "한자어: 法(법 법) + 院(집 원)"
+  - korean: 재판
+    reading: null
+    translation:
+      en: "trial, court case"
+      ko: "법정에서 옳고 그름을 가림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 裁(judge) + 判(decide)"
+      ko: "한자어: 裁(마를 재) + 判(판단할 판)"
+  - korean: 판결
+    reading: null
+    translation:
+      en: "verdict, ruling"
+      ko: "재판의 결정"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 判(judge) + 決(decide)"
+      ko: "한자어: 判(판단할 판) + 決(결정할 결)"
+  - korean: 소송
+    reading: null
+    translation:
+      en: "lawsuit, litigation"
+      ko: "법원에 재판을 청구함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 訴(accuse) + 訟(lawsuit)"
+      ko: "한자어: 訴(호소할 소) + 訟(송사할 송)"
+  - korean: 고소
+    reading: null
+    translation:
+      en: "filing a complaint, prosecution"
+      ko: "범죄를 수사해 달라고 요청함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 告(inform) + 訴(accuse)"
+      ko: "한자어: 告(고할 고) + 訴(호소할 소)"
+  - korean: 증거
+    reading: null
+    translation:
+      en: "evidence, proof"
+      ko: "사실을 증명하는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 證(prove) + 據(basis)"
+      ko: "한자어: 證(증거 증) + 據(의거할 거)"
+  - korean: 증인
+    reading: null
+    translation:
+      en: "witness"
+      ko: "사실을 증명하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 證(prove) + 人(person)"
+      ko: "한자어: 證(증거 증) + 人(사람 인)"
+
+- id: crime
+  label:
+    en: "Crime"
+    ko: "범죄"
+  type: vocabulary
+  words:
+  - korean: 범죄
+    reading: null
+    translation:
+      en: "crime"
+      ko: "법을 어기는 행위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 犯(commit) + 罪(crime)"
+      ko: "한자어: 犯(범할 범) + 罪(죄 죄)"
+  - korean: 범인
+    reading: null
+    translation:
+      en: "criminal, perpetrator"
+      ko: "범죄를 저지른 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 犯(commit) + 人(person)"
+      ko: "한자어: 犯(범할 범) + 人(사람 인)"
+  - korean: 피해자
+    reading: null
+    translation:
+      en: "victim"
+      ko: "피해를 입은 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 被害(damage suffered) + 者(person)"
+      ko: "한자어: 被害(피해) + 者(사람 자)"
+  - korean: 용의자
+    reading: null
+    translation:
+      en: "suspect"
+      ko: "범죄 혐의가 있는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 容疑(suspicion) + 者(person)"
+      ko: "한자어: 容疑(용의) + 者(사람 자)"
+  - korean: 도둑
+    reading: null
+    translation:
+      en: "thief"
+      ko: "남의 것을 훔치는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 사기
+    reading: null
+    translation:
+      en: "fraud, scam"
+      ko: "속여서 이득을 취함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 詐(deceive) + 欺(cheat)"
+      ko: "한자어: 詐(속일 사) + 欺(속일 기)"
+  - korean: 절도
+    reading: null
+    translation:
+      en: "theft"
+      ko: "남의 물건을 훔침"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 竊(steal) + 盜(rob)"
+      ko: "한자어: 竊(훔칠 절) + 盜(도둑 도)"
+  - korean: 폭행
+    reading: null
+    translation:
+      en: "assault, violence"
+      ko: "힘으로 해를 가함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 暴(violent) + 行(act)"
+      ko: "한자어: 暴(사나울 폭) + 行(다닐 행)"
+  - korean: 체포
+    reading: null
+    translation:
+      en: "arrest"
+      ko: "범인을 잡음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 逮(catch) + 捕(seize)"
+      ko: "한자어: 逮(잡을 체) + 捕(잡을 포)"
+  - korean: 수사
+    reading: null
+    translation:
+      en: "investigation (criminal)"
+      ko: "범죄를 조사함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 搜(search) + 査(investigate)"
+      ko: "한자어: 搜(찾을 수) + 査(조사할 사)"
+
+- id: regulations
+  label:
+    en: "Regulations"
+    ko: "규정"
+  type: vocabulary
+  words:
+  - korean: 규칙
+    reading: null
+    translation:
+      en: "rule"
+      ko: "지켜야 할 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 規(standard) + 則(rule)"
+      ko: "한자어: 規(법 규) + 則(법칙 칙)"
+  - korean: 규정
+    reading: null
+    translation:
+      en: "regulation, provision"
+      ko: "정해 놓은 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 規(standard) + 定(fix)"
+      ko: "한자어: 規(법 규) + 定(정할 정)"
+  - korean: 위반
+    reading: null
+    translation:
+      en: "violation"
+      ko: "규칙을 어김"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 違(go against) + 反(oppose)"
+      ko: "한자어: 違(어길 위) + 反(돌이킬 반)"
+  - korean: 벌금
+    reading: null
+    translation:
+      en: "fine, penalty"
+      ko: "벌로 내는 돈"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 罰(punish) + 金(money)"
+      ko: "한자어: 罰(벌할 벌) + 金(쇠 금)"
+  - korean: 처벌
+    reading: null
+    translation:
+      en: "punishment, penalty"
+      ko: "벌을 줌"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 處(handle) + 罰(punish)"
+      ko: "한자어: 處(처리할 처) + 罰(벌할 벌)"
+  - korean: 허가
+    reading: null
+    translation:
+      en: "permission, permit"
+      ko: "허락함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 許(permit) + 可(possible)"
+      ko: "한자어: 許(허락할 허) + 可(옳을 가)"
+  - korean: 금지
+    reading: null
+    translation:
+      en: "prohibition, ban"
+      ko: "하지 못하게 함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 禁(forbid) + 止(stop)"
+      ko: "한자어: 禁(금할 금) + 止(그칠 지)"
+  - korean: 신고
+    reading: null
+    translation:
+      en: "report, filing (to authorities)"
+      ko: "관청에 알림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 申(state) + 告(inform)"
+      ko: "한자어: 申(말씀 신) + 告(고할 고)"
+  - korean: 단속
+    reading: null
+    translation:
+      en: "crackdown, enforcement"
+      ko: "법 위반을 감시하고 잡음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 團(group) + 束(bind)"
+      ko: "한자어: 團(둥글 단) + 束(묶을 속)"
+  - korean: 적용
+    reading: null
+    translation:
+      en: "application (of a law)"
+      ko: "법이나 규칙을 씀"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 適(suitable) + 用(use)"
+      ko: "한자어: 適(맞을 적) + 用(쓸 용)"
+
+- id: rights
+  label:
+    en: "Rights"
+    ko: "권리"
+  type: vocabulary
+  words:
+  - korean: 권리
+    reading: null
+    translation:
+      en: "right (legal)"
+      ko: "할 수 있는 자격"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 權(power) + 利(benefit)"
+      ko: "한자어: 權(권세 권) + 利(이로울 리)"
+  - korean: 의무
+    reading: null
+    translation:
+      en: "duty, obligation"
+      ko: "해야 할 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 義(righteous) + 務(duty)"
+      ko: "한자어: 義(옳을 의) + 務(힘쓸 무)"
+  - korean: 인권
+    reading: null
+    translation:
+      en: "human rights"
+      ko: "사람으로서의 권리"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 人(person) + 權(right)"
+      ko: "한자어: 人(사람 인) + 權(권세 권)"
+  - korean: 자유
+    reading: null
+    translation:
+      en: "freedom, liberty"
+      ko: "자유"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 自(self) + 由(reason/from)"
+      ko: "한자어: 自(스스로 자) + 由(말미암을 유)"
+  - korean: 경찰
+    reading: null
+    translation:
+      en: "police"
+      ko: "치안을 담당하는 기관"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 警(warn) + 察(observe)"
+      ko: "한자어: 警(깨우칠 경) + 察(살필 찰)"
+  - korean: 변호사
+    reading: null
+    translation:
+      en: "lawyer, attorney"
+      ko: "법률 전문가"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 辯(argue) + 護(protect) + 士(person)"
+      ko: "한자어: 辯(말할 변) + 護(도울 호) + 士(선비 사)"
+  - korean: 판사
+    reading: null
+    translation:
+      en: "judge"
+      ko: "재판하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 判(judge) + 事(matter)"
+      ko: "한자어: 判(판단할 판) + 事(일 사)"
+  - korean: 검사
+    reading: null
+    translation:
+      en: "prosecutor"
+      ko: "범죄를 기소하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 檢(examine) + 事(matter)"
+      ko: "한자어: 檢(검사할 검) + 事(일 사)"
+  - korean: 피고
+    reading: null
+    translation:
+      en: "defendant"
+      ko: "재판에서 소송 당한 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 被(receive) + 告(accuse)"
+      ko: "한자어: 被(입을 피) + 告(고할 고)"
+  - korean: 원고
+    reading: null
+    translation:
+      en: "plaintiff"
+      ko: "재판에서 소송을 건 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 原(original) + 告(accuse)"
+      ko: "한자어: 原(근원 원) + 告(고할 고)"
