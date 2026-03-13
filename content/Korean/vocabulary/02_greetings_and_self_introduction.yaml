@@ -1,0 +1,536 @@
+lesson: 02_Greetings_and_Self_Introduction
+lesson_number: 2
+topik: TOPIK_I_1
+
+categories:
+- id: greetings
+  label:
+    en: Greetings
+    ko: 인사말
+  type: phrases
+  words:
+  - korean: 안녕하세요
+    reading: null
+    translation:
+      en: hello (polite)
+      ko: 정중한 인사
+    gender: null
+    plural: null
+  - korean: 안녕
+    reading: null
+    translation:
+      en: hi (casual)
+      ko: 반말 인사
+    gender: null
+    plural: null
+  - korean: 안녕히 가세요
+    reading: null
+    translation:
+      en: goodbye (to someone leaving)
+      ko: 떠나는 사람에게 하는 인사
+    gender: null
+    plural: null
+  - korean: 안녕히 계세요
+    reading: null
+    translation:
+      en: goodbye (to someone staying)
+      ko: 남아 있는 사람에게 하는 인사
+    gender: null
+    plural: null
+  - korean: 감사합니다
+    reading: null
+    translation:
+      en: thank you (formal)
+      ko: 격식체 감사 표현
+    gender: null
+    plural: null
+  - korean: 고마워요
+    reading: null
+    translation:
+      en: thank you (casual polite)
+      ko: 비격식체 감사 표현
+    gender: null
+    plural: null
+  - korean: 죄송합니다
+    reading: null
+    translation:
+      en: I'm sorry (formal)
+      ko: 격식체 사과 표현
+    gender: null
+    plural: null
+  - korean: 미안해요
+    reading: null
+    translation:
+      en: I'm sorry (casual polite)
+      ko: 비격식체 사과 표현
+    gender: null
+    plural: null
+  - korean: 잘 지내세요?
+    reading: null
+    translation:
+      en: how are you?
+      ko: 안부를 묻는 표현
+    gender: null
+    plural: null
+  - korean: 네, 잘 지내요
+    reading: null
+    translation:
+      en: yes, I'm doing well
+      ko: 안부에 대한 긍정 응답
+    gender: null
+    plural: null
+  - korean: 오랜만이에요
+    reading: null
+    translation:
+      en: long time no see
+      ko: 오래간만에 만났을 때 하는 인사
+    gender: null
+    plural: null
+  - korean: 반갑습니다
+    reading: null
+    translation:
+      en: nice to meet you (formal)
+      ko: 처음 만났을 때 하는 격식체 인사
+    gender: null
+    plural: null
+  - korean: 만나서 반가워요
+    reading: null
+    translation:
+      en: nice to meet you
+      ko: 처음 만났을 때 하는 인사
+    gender: null
+    plural: null
+  - korean: 또 만나요
+    reading: null
+    translation:
+      en: see you again
+      ko: 다시 만나자는 인사
+    gender: null
+    plural: null
+  - korean: 좋은 아침이에요
+    reading: null
+    translation:
+      en: good morning
+      ko: 아침 인사
+    gender: null
+    plural: null
+  - korean: 안녕히 주무세요
+    reading: null
+    translation:
+      en: good night (polite)
+      ko: 정중한 잠자리 인사
+    gender: null
+    plural: null
+  - korean: 잘 자요
+    reading: null
+    translation:
+      en: good night (casual polite)
+      ko: 비격식체 잠자리 인사
+    gender: null
+    plural: null
+
+- id: self_introduction
+  label:
+    en: Self-Introduction
+    ko: 자기소개
+  type: vocabulary
+  words:
+  - korean: 이름
+    reading: null
+    translation:
+      en: name
+      ko: 사람의 이름
+    gender: null
+    plural: null
+  - korean: 성함
+    reading: null
+    translation:
+      en: name (honorific)
+      ko: 이름의 높임말
+    gender: null
+    plural: null
+  - korean: 나라
+    reading: null
+    translation:
+      en: country
+      ko: 국가
+    gender: null
+    plural: null
+  - korean: 직업
+    reading: null
+    translation:
+      en: job, occupation
+      ko: 하는 일
+    gender: null
+    plural: null
+  - korean: 나이
+    reading: null
+    translation:
+      en: age
+      ko: 먹은 햇수
+    gender: null
+    plural: null
+  - korean: 저
+    reading: null
+    translation:
+      en: I, me (humble)
+      ko: 나의 겸손한 표현
+    gender: null
+    plural: null
+  - korean: 나
+    reading: null
+    translation:
+      en: I, me (casual)
+      ko: 자기 자신을 가리키는 말 (반말)
+    gender: null
+    plural: null
+  - korean: 한국 사람
+    reading: null
+    translation:
+      en: Korean person
+      ko: 한국 국적의 사람
+    gender: null
+    plural: null
+  - korean: 학생
+    reading: null
+    translation:
+      en: student
+      ko: 학교에서 공부하는 사람
+    gender: null
+    plural: null
+  - korean: 선생님
+    reading: null
+    translation:
+      en: teacher (also honorific title)
+      ko: 가르치는 사람, 존칭
+    gender: null
+    plural: null
+  - korean: 회사원
+    reading: null
+    translation:
+      en: office worker
+      ko: 회사에서 일하는 사람
+    gender: null
+    plural: null
+  - korean: 의사
+    reading: null
+    translation:
+      en: doctor
+      ko: 병을 고치는 사람
+    gender: null
+    plural: null
+  - korean: 간호사
+    reading: null
+    translation:
+      en: nurse
+      ko: 환자를 돌보는 사람
+    gender: null
+    plural: null
+  - korean: 요리사
+    reading: null
+    translation:
+      en: chef, cook
+      ko: 음식을 만드는 사람
+    gender: null
+    plural: null
+  - korean: 경찰관
+    reading: null
+    translation:
+      en: police officer
+      ko: 치안을 담당하는 사람
+    gender: null
+    plural: null
+  - korean: 가수
+    reading: null
+    translation:
+      en: singer
+      ko: 노래를 부르는 사람
+    gender: null
+    plural: null
+
+- id: daily_phrases
+  label:
+    en: Daily Phrases
+    ko: 일상 표현
+  type: phrases
+  words:
+  - korean: 네
+    reading: null
+    translation:
+      en: yes
+      ko: 긍정의 대답
+    gender: null
+    plural: null
+  - korean: 아니요
+    reading: null
+    translation:
+      en: no
+      ko: 부정의 대답
+    gender: null
+    plural: null
+  - korean: 실례합니다
+    reading: null
+    translation:
+      en: excuse me
+      ko: 양해를 구할 때 쓰는 말
+    gender: null
+    plural: null
+  - korean: 잠깐만요
+    reading: null
+    translation:
+      en: just a moment
+      ko: 잠시 기다려 달라는 표현
+    gender: null
+    plural: null
+  - korean: 괜찮아요
+    reading: null
+    translation:
+      en: it's okay
+      ko: 문제없다는 표현
+    gender: null
+    plural: null
+  - korean: 천만에요
+    reading: null
+    translation:
+      en: you're welcome
+      ko: 감사에 대한 응답
+    gender: null
+    plural: null
+  - korean: 아니에요
+    reading: null
+    translation:
+      en: it's nothing / not at all
+      ko: 겸손하게 부정하는 표현
+    gender: null
+    plural: null
+  - korean: 잘 먹겠습니다
+    reading: null
+    translation:
+      en: I will eat well (before eating)
+      ko: 식사 전 감사 인사
+    gender: null
+    plural: null
+  - korean: 잘 먹었습니다
+    reading: null
+    translation:
+      en: I ate well (after eating)
+      ko: 식사 후 감사 인사
+    gender: null
+    plural: null
+  - korean: 축하합니다
+    reading: null
+    translation:
+      en: congratulations
+      ko: 기쁜 일을 축하하는 말
+    gender: null
+    plural: null
+  - korean: 수고하셨습니다
+    reading: null
+    translation:
+      en: thank you for your hard work
+      ko: 노력에 대한 감사 표현
+    gender: null
+    plural: null
+  - korean: 어서 오세요
+    reading: null
+    translation:
+      en: welcome (to a shop/home)
+      ko: 오는 사람을 맞이하는 말
+    gender: null
+    plural: null
+  - korean: 다녀오겠습니다
+    reading: null
+    translation:
+      en: I'll be back (when leaving home)
+      ko: 집을 나설 때 하는 인사
+    gender: null
+    plural: null
+  - korean: 다녀왔습니다
+    reading: null
+    translation:
+      en: I'm back (when returning home)
+      ko: 집에 돌아왔을 때 하는 인사
+    gender: null
+    plural: null
+
+- id: titles_address
+  label:
+    en: Titles and Forms of Address
+    ko: 호칭과 경칭
+  type: vocabulary
+  words:
+  - korean: 씨
+    reading: null
+    translation:
+      en: Mr./Ms. (suffix after name)
+      ko: 이름 뒤에 붙이는 호칭
+    gender: null
+    plural: null
+  - korean: 님
+    reading: null
+    translation:
+      en: honorific suffix (formal)
+      ko: 높임을 나타내는 접미사
+    gender: null
+    plural: null
+  - korean: 사장님
+    reading: null
+    translation:
+      en: company president (honorific)
+      ko: 회사 대표를 높여 부르는 말
+    gender: null
+    plural: null
+  - korean: 부장님
+    reading: null
+    translation:
+      en: department head (honorific)
+      ko: 부서장을 높여 부르는 말
+    gender: null
+    plural: null
+  - korean: 과장님
+    reading: null
+    translation:
+      en: section chief (honorific)
+      ko: 과의 책임자를 높여 부르는 말
+    gender: null
+    plural: null
+  - korean: 교수님
+    reading: null
+    translation:
+      en: professor (honorific)
+      ko: 대학 교수를 높여 부르는 말
+    gender: null
+    plural: null
+  - korean: 아저씨
+    reading: null
+    translation:
+      en: uncle / middle-aged man
+      ko: 나이 든 남자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 아주머니
+    reading: null
+    translation:
+      en: aunt / middle-aged woman
+      ko: 나이 든 여자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 언니
+    reading: null
+    translation:
+      en: older sister (used by females)
+      ko: 여자가 손윗 여자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 오빠
+    reading: null
+    translation:
+      en: older brother (used by females)
+      ko: 여자가 손윗 남자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 형
+    reading: null
+    translation:
+      en: older brother (used by males)
+      ko: 남자가 손윗 남자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 누나
+    reading: null
+    translation:
+      en: older sister (used by males)
+      ko: 남자가 손윗 여자를 부르는 말
+    gender: null
+    plural: null
+  - korean: 동생
+    reading: null
+    translation:
+      en: younger sibling
+      ko: 나이가 적은 형제자매
+    gender: null
+    plural: null
+  - korean: 친구
+    reading: null
+    translation:
+      en: friend
+      ko: 가까이 지내는 사람
+    gender: null
+    plural: null
+  - korean: 여러분
+    reading: null
+    translation:
+      en: everyone (polite)
+      ko: 여러 사람을 높여 부르는 말
+    gender: null
+    plural: null
+  - korean: 우리
+    reading: null
+    translation:
+      en: we, our
+      ko: 자기를 포함한 여러 사람
+    gender: null
+    plural: null
+  - korean: 당신
+    reading: null
+    translation:
+      en: you (formal, limited use)
+      ko: 상대방을 가리키는 말 (제한적 사용)
+    gender: null
+    plural: null
+  - korean: 그분
+    reading: null
+    translation:
+      en: that person (honorific)
+      ko: 그 사람의 높임말
+    gender: null
+    plural: null
+  - korean: 이분
+    reading: null
+    translation:
+      en: this person (honorific)
+      ko: 이 사람의 높임말
+    gender: null
+    plural: null
+  - korean: 소개
+    reading: null
+    translation:
+      en: introduction
+      ko: 서로 알게 해 주는 것
+    gender: null
+    plural: null
+  - korean: 소개하다
+    reading: null
+    translation:
+      en: to introduce
+      ko: 서로 알 수 있게 해 주다
+    gender: null
+    plural: null
+  - korean: 처음 뵙겠습니다
+    reading: null
+    translation:
+      en: how do you do (very formal first meeting)
+      ko: 매우 격식적인 첫 만남 인사
+    gender: null
+    plural: null
+  - korean: 어디에서 오셨어요?
+    reading: null
+    translation:
+      en: where are you from?
+      ko: 출신을 묻는 표현
+    gender: null
+    plural: null
+  - korean: 무슨 일을 하세요?
+    reading: null
+    translation:
+      en: what do you do (for work)?
+      ko: 직업을 묻는 표현
+    gender: null
+    plural: null
+  - korean: 취미
+    reading: null
+    translation:
+      en: hobby
+      ko: 즐기는 활동
+    gender: null
+    plural: null
