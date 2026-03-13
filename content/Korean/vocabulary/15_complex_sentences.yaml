@@ -1,0 +1,575 @@
+lesson: 15_Complex_Sentences
+lesson_number: 15
+topik: TOPIK_II_3
+
+categories:
+- id: modifier_patterns
+  label:
+    en: Modifier Patterns (Relative Clauses)
+    ko: 관형어 (관형절)
+  type: vocabulary
+  words:
+  - korean: -는
+    reading: null
+    translation:
+      en: present tense modifier (verb)
+      ko: 동사 현재 관형사형 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Verb present: 먹는 사람 = the person who eats"
+      ko: "동사 현재: 먹는 사람 = 먹고 있는 사람"
+  - korean: -(으)ㄴ
+    reading: null
+    translation:
+      en: past tense modifier (verb) / present (adjective)
+      ko: 동사 과거 / 형용사 현재 관형사형 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Verb past: 먹은 사람; Adj present: 큰 집"
+      ko: "동사 과거: 먹은 사람; 형용사 현재: 큰 집"
+  - korean: -(으)ㄹ
+    reading: null
+    translation:
+      en: future/prospective modifier
+      ko: 미래·추정 관형사형 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Future: 먹을 사람 = the person who will eat"
+      ko: "미래: 먹을 사람 = 앞으로 먹을 사람"
+  - korean: -던
+    reading: null
+    translation:
+      en: retrospective modifier (past habitual/incomplete)
+      ko: 회상 관형사형 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Past incomplete/habitual: 가던 길 = the road I used to go on"
+      ko: "과거 미완료/습관: 가던 길 = 예전에 가던 길"
+  - korean: -았/었던
+    reading: null
+    translation:
+      en: past completed retrospective modifier
+      ko: 과거 완료 회상 관형사형
+    gender: null
+    plural: null
+    notes:
+      en: "Past completed: 갔던 곳 = the place I went to (and returned)"
+      ko: "과거 완료: 갔던 곳 = 가서 돌아온 곳"
+  - korean: 관형사
+    reading: null
+    translation:
+      en: determiner / adnominal
+      ko: 체언 앞에서 꾸며 주는 말
+    gender: null
+    plural: null
+  - korean: 관형절
+    reading: null
+    translation:
+      en: relative clause
+      ko: 체언을 수식하는 절
+    gender: null
+    plural: null
+  - korean: 수식하다
+    reading: null
+    translation:
+      en: to modify / to qualify
+      ko: 꾸며 주다
+    gender: null
+    plural: null
+
+- id: nominalization
+  label:
+    en: Nominalization Patterns
+    ko: 명사화 표현
+  type: vocabulary
+  words:
+  - korean: -기
+    reading: null
+    translation:
+      en: nominalization suffix (action/state)
+      ko: 동사를 명사로 만드는 접미사
+    gender: null
+    plural: null
+    notes:
+      en: "달리기 = running; -기 쉽다 = easy to do"
+      ko: "달리기 = 달리는 행위; -기 쉽다 = 하기 쉽다"
+  - korean: -(으)ㅁ
+    reading: null
+    translation:
+      en: nominalization suffix (formal/written)
+      ko: 동사를 명사로 만드는 접미사 (격식적)
+    gender: null
+    plural: null
+    notes:
+      en: "More formal than -기; 앎 = knowledge (from 알다)"
+      ko: "-기보다 격식적; 앎 = 알다에서 파생"
+  - korean: -는 것
+    reading: null
+    translation:
+      en: the act of / the thing that (nominalization)
+      ko: ~하는 것 (명사화)
+    gender: null
+    plural: null
+    notes:
+      en: "Most versatile nominalizer: 먹는 것 = eating / the thing one eats"
+      ko: "가장 범용적인 명사화: 먹는 것 = 먹는 행위/먹는 음식"
+  - korean: -는 데
+    reading: null
+    translation:
+      en: in doing / the act of (purpose/place)
+      ko: ~하는 데 (장소/목적)
+    gender: null
+    plural: null
+    notes:
+      en: "시간이 걸리는 데 = in the matter that takes time"
+      ko: "공부하는 데 시간이 걸리다 = 공부에 시간이 필요하다"
+  - korean: -기로 하다
+    reading: null
+    translation:
+      en: to decide to
+      ko: ~하기로 결정하다
+    gender: null
+    plural: null
+  - korean: -기 시작하다
+    reading: null
+    translation:
+      en: to start to
+      ko: ~하기 시작하다
+    gender: null
+    plural: null
+  - korean: -기 쉽다
+    reading: null
+    translation:
+      en: to be easy to
+      ko: ~하기 쉽다
+    gender: null
+    plural: null
+  - korean: -기 어렵다
+    reading: null
+    translation:
+      en: to be hard to
+      ko: ~하기 어렵다
+    gender: null
+    plural: null
+  - korean: -기 때문에
+    reading: null
+    translation:
+      en: because of (doing)
+      ko: ~하기 때문에
+    gender: null
+    plural: null
+  - korean: 명사화
+    reading: null
+    translation:
+      en: nominalization
+      ko: 명사로 만드는 것
+    gender: null
+    plural: null
+
+- id: sentence_final_patterns
+  label:
+    en: Sentence-Final Patterns
+    ko: 종결 표현
+  type: vocabulary
+  words:
+  - korean: -거든요
+    reading: null
+    translation:
+      en: you see / the reason is (explanatory)
+      ko: 이유를 설명하는 종결 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Provides background explanation for something"
+      ko: "앞의 내용에 대한 배경 설명을 제공"
+  - korean: -잖아요
+    reading: null
+    translation:
+      en: you know / as you know
+      ko: 상대방도 아는 사실을 환기하는 종결 어미
+    gender: null
+    plural: null
+    notes:
+      en: "Reminds the listener of something they should know"
+      ko: "듣는 사람이 이미 알고 있는 사실을 상기시킴"
+  - korean: -네요
+    reading: null
+    translation:
+      en: oh! / I see (surprise/realization)
+      ko: 새로 깨달은 사실에 대한 감탄
+    gender: null
+    plural: null
+    notes:
+      en: "Expresses mild surprise or new realization"
+      ko: "가벼운 놀라움이나 새로운 깨달음 표현"
+  - korean: -군요/구나
+    reading: null
+    translation:
+      en: I see / so it is (realization)
+      ko: 새로 알게 된 사실에 대한 감탄
+    gender: null
+    plural: null
+    notes:
+      en: "-군요 (polite), -구나 (casual)"
+      ko: "-군요 (높임), -구나 (낮춤)"
+  - korean: -(으)ㄹ게요
+    reading: null
+    translation:
+      en: I will (promise/intention to listener)
+      ko: 듣는 사람에게 약속/의지를 나타냄
+    gender: null
+    plural: null
+    notes:
+      en: "First person only; shows intention with consideration for listener"
+      ko: "1인칭만 사용; 듣는 사람을 배려한 의지 표현"
+  - korean: -(으)ㄹ까요
+    reading: null
+    translation:
+      en: shall we / do you think
+      ko: 제안이나 추측을 나타냄
+    gender: null
+    plural: null
+    notes:
+      en: "Suggestion or speculation"
+      ko: "제안 또는 추측 표현"
+  - korean: -(으)ㄹ 텐데
+    reading: null
+    translation:
+      en: I expect that / it will probably
+      ko: 추측이나 예상을 나타냄
+    gender: null
+    plural: null
+  - korean: -나 보다
+    reading: null
+    translation:
+      en: it seems / it appears
+      ko: 추측을 나타냄
+    gender: null
+    plural: null
+    notes:
+      en: "Inference based on observation"
+      ko: "관찰에 근거한 추측"
+  - korean: -(으)ㄴ/는 모양이다
+    reading: null
+    translation:
+      en: it looks like / it appears that
+      ko: ~인 것 같다 (추측)
+    gender: null
+    plural: null
+
+- id: complex_expressions
+  label:
+    en: Complex Sentence Vocabulary
+    ko: 복합문 관련 어휘
+  type: vocabulary
+  words:
+  - korean: 복합문
+    reading: null
+    translation:
+      en: complex sentence
+      ko: 둘 이상의 절로 이루어진 문장
+    gender: null
+    plural: null
+  - korean: 주절
+    reading: null
+    translation:
+      en: main clause
+      ko: 문장의 중심이 되는 절
+    gender: null
+    plural: null
+  - korean: 종속절
+    reading: null
+    translation:
+      en: subordinate clause
+      ko: 주절에 종속되는 절
+    gender: null
+    plural: null
+  - korean: 절
+    reading: null
+    translation:
+      en: clause
+      ko: 주어와 서술어를 갖춘 단위
+    gender: null
+    plural: null
+  - korean: 문법
+    reading: null
+    translation:
+      en: grammar
+      ko: 말의 규칙
+    gender: null
+    plural: null
+  - korean: 구조
+    reading: null
+    translation:
+      en: structure
+      ko: 짜임새
+    gender: null
+    plural: null
+  - korean: 주어
+    reading: null
+    translation:
+      en: subject
+      ko: 문장에서 동작의 주체
+    gender: null
+    plural: null
+  - korean: 서술어
+    reading: null
+    translation:
+      en: predicate
+      ko: 주어의 동작이나 상태를 나타내는 말
+    gender: null
+    plural: null
+  - korean: 목적어
+    reading: null
+    translation:
+      en: object
+      ko: 동작의 대상
+    gender: null
+    plural: null
+  - korean: 부사절
+    reading: null
+    translation:
+      en: adverbial clause
+      ko: 부사 역할을 하는 절
+    gender: null
+    plural: null
+  - korean: 명사절
+    reading: null
+    translation:
+      en: noun clause
+      ko: 명사 역할을 하는 절
+    gender: null
+    plural: null
+  - korean: 관형절
+    reading: null
+    translation:
+      en: adnominal/relative clause
+      ko: 관형어 역할을 하는 절
+    gender: null
+    plural: null
+  - korean: 내포문
+    reading: null
+    translation:
+      en: embedded sentence
+      ko: 다른 문장 속에 포함된 문장
+    gender: null
+    plural: null
+  - korean: 접속문
+    reading: null
+    translation:
+      en: conjoined sentence
+      ko: 두 절이 대등하게 이어진 문장
+    gender: null
+    plural: null
+  - korean: 보어
+    reading: null
+    translation:
+      en: complement
+      ko: 서술어를 보충하는 말
+    gender: null
+    plural: null
+  - korean: 피수식어
+    reading: null
+    translation:
+      en: modified word / head noun
+      ko: 수식을 받는 말
+    gender: null
+    plural: null
+  - korean: 수식어
+    reading: null
+    translation:
+      en: modifier
+      ko: 다른 말을 꾸며 주는 말
+    gender: null
+    plural: null
+  - korean: -는 편이다
+    reading: null
+    translation:
+      en: tend to / on the... side
+      ko: ~하는 쪽이다
+    gender: null
+    plural: null
+    notes:
+      en: "Expresses tendency: 많이 먹는 편이다 = I tend to eat a lot"
+      ko: "경향을 나타냄: 많이 먹는 편이다"
+  - korean: -는 중이다
+    reading: null
+    translation:
+      en: to be in the middle of
+      ko: ~하고 있는 중이다
+    gender: null
+    plural: null
+  - korean: -(으)ㄴ 적이 있다
+    reading: null
+    translation:
+      en: to have experienced / to have done before
+      ko: ~한 경험이 있다
+    gender: null
+    plural: null
+  - korean: -(으)ㄴ 적이 없다
+    reading: null
+    translation:
+      en: to have never done
+      ko: ~한 경험이 없다
+    gender: null
+    plural: null
+  - korean: -는 법이다
+    reading: null
+    translation:
+      en: it is the way / it is natural
+      ko: ~하는 것이 당연하다
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 때마다
+    reading: null
+    translation:
+      en: every time / whenever
+      ko: ~할 때마다
+    gender: null
+    plural: null
+  - korean: -기는 하다
+    reading: null
+    translation:
+      en: do... but (partial acknowledgment)
+      ko: ~하기는 하다 (부분적 인정)
+    gender: null
+    plural: null
+    notes:
+      en: "Acknowledges something but implies a 'but': 맛있기는 한데 비싸요"
+      ko: "인정은 하지만 '그러나'를 내포: 맛있기는 한데 비싸요"
+  - korean: -는 대로
+    reading: null
+    translation:
+      en: as / according to / as soon as
+      ko: ~하는 그대로
+    gender: null
+    plural: null
+  - korean: -는 한편
+    reading: null
+    translation:
+      en: while also / on the other hand
+      ko: ~하면서 한편으로
+    gender: null
+    plural: null
+  - korean: 한편으로
+    reading: null
+    translation:
+      en: on one hand
+      ko: 한쪽으로는
+    gender: null
+    plural: null
+  - korean: 다른 한편으로
+    reading: null
+    translation:
+      en: on the other hand
+      ko: 다른 쪽으로는
+    gender: null
+    plural: null
+  - korean: 실제로
+    reading: null
+    translation:
+      en: actually / in reality
+      ko: 사실은
+    gender: null
+    plural: null
+  - korean: 확실히
+    reading: null
+    translation:
+      en: certainly / definitely
+      ko: 틀림없이
+    gender: null
+    plural: null
+  - korean: 아마
+    reading: null
+    translation:
+      en: probably / maybe
+      ko: 아마도
+    gender: null
+    plural: null
+  - korean: 분명히
+    reading: null
+    translation:
+      en: clearly / obviously
+      ko: 의심의 여지 없이
+    gender: null
+    plural: null
+  - korean: 대체로
+    reading: null
+    translation:
+      en: generally / on the whole
+      ko: 전체적으로
+    gender: null
+    plural: null
+  - korean: 특히
+    reading: null
+    translation:
+      en: especially / particularly
+      ko: 다른 것보다 더
+    gender: null
+    plural: null
+  - korean: 결코
+    reading: null
+    translation:
+      en: never / by no means
+      ko: 절대로 (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "Always used with negative: 결코 하지 않다"
+      ko: "항상 부정문과 함께 사용: 결코 하지 않다"
+  - korean: 전혀
+    reading: null
+    translation:
+      en: not at all / entirely (negative)
+      ko: 아주 (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "Always used with negative: 전혀 모르다"
+      ko: "항상 부정문과 함께 사용: 전혀 모르다"
+  - korean: 거의
+    reading: null
+    translation:
+      en: almost / nearly
+      ko: 대부분
+    gender: null
+    plural: null
+  - korean: 심지어
+    reading: null
+    translation:
+      en: even / what's more
+      ko: 더 나아가
+    gender: null
+    plural: null
+  - korean: 물론
+    reading: null
+    translation:
+      en: of course / naturally
+      ko: 당연히
+    gender: null
+    plural: null
+  - korean: 왜냐하면
+    reading: null
+    translation:
+      en: because / the reason is
+      ko: 그 까닭은
+    gender: null
+    plural: null
+  - korean: 그렇기 때문에
+    reading: null
+    translation:
+      en: because of that / for that reason
+      ko: 그런 이유로
+    gender: null
+    plural: null
+  - korean: 비록
+    reading: null
+    translation:
+      en: although / even though
+      ko: 설령 ~하더라도
+    gender: null
+    plural: null
