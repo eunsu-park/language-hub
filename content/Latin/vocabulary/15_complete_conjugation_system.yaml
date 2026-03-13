@@ -1,0 +1,620 @@
+lesson: 15_Complete_Conjugation_System
+lesson_number: 15
+cefr: B1
+categories:
+- id: 151_grammar_terms
+  label:
+    en: 15.1 Grammar Terms (Metalanguage)
+    ko: 15.1 문법 용어 (메타언어)
+  type: vocabulary
+  words:
+  - latin: coniugatio
+    translation:
+      en: conjugation
+      ko: 동사변화, 활용
+    gender: f
+    notes:
+      en: 3rd declension; coniugatio, -onis
+      ko: 제3변화 여성명사; coniugatio, -onis
+  - latin: modus
+    translation:
+      en: mood (grammatical)
+      ko: (문법적) 법
+    gender: m
+    notes:
+      en: 2nd declension; modus, -i
+      ko: 제2변화 남성명사; modus, -i
+  - latin: tempus
+    translation:
+      en: tense, time
+      ko: 시제, 시간
+    gender: n
+    notes:
+      en: 3rd declension; tempus, temporis
+      ko: 제3변화 중성명사; tempus, temporis
+  - latin: vox
+    translation:
+      en: voice (grammatical); voice, word
+      ko: (문법적) 태; 목소리, 단어
+    gender: f
+    notes:
+      en: 3rd declension; vox, vocis
+      ko: 제3변화 여성명사; vox, vocis
+  - latin: indicativus
+    translation:
+      en: indicative (mood)
+      ko: 직설법
+    gender: m
+    notes:
+      en: Adjective used as noun; modus indicativus
+      ko: 명사로 쓰이는 형용사; modus indicativus
+  - latin: coniunctivus
+    translation:
+      en: subjunctive (mood)
+      ko: 접속법
+    gender: m
+    notes:
+      en: Adjective used as noun; modus coniunctivus
+      ko: 명사로 쓰이는 형용사; modus coniunctivus
+  - latin: imperativus
+    translation:
+      en: imperative (mood)
+      ko: 명령법
+    gender: m
+    notes:
+      en: Adjective used as noun; modus imperativus
+      ko: 명사로 쓰이는 형용사; modus imperativus
+  - latin: activus
+    translation:
+      en: active (voice)
+      ko: 능동 (태)
+    gender: m
+    notes:
+      en: vox activa = active voice
+      ko: vox activa = 능동태
+  - latin: passivus
+    translation:
+      en: passive (voice)
+      ko: 수동 (태)
+    gender: m
+    notes:
+      en: vox passiva = passive voice
+      ko: vox passiva = 수동태
+  - latin: praesens
+    translation:
+      en: present (tense)
+      ko: 현재 (시제)
+    gender: null
+    notes:
+      en: 3rd declension adjective; tempus praesens
+      ko: 제3변화 형용사; tempus praesens
+  - latin: imperfectum
+    translation:
+      en: imperfect (tense)
+      ko: 미완료 (시제)
+    gender: n
+    notes:
+      en: Neuter adjective as noun; tempus imperfectum
+      ko: 중성 형용사의 명사화; tempus imperfectum
+  - latin: perfectum
+    translation:
+      en: perfect (tense)
+      ko: 완료 (시제)
+    gender: n
+    notes:
+      en: Neuter adjective as noun; tempus perfectum
+      ko: 중성 형용사의 명사화; tempus perfectum
+  - latin: plusquamperfectum
+    translation:
+      en: pluperfect (tense)
+      ko: 과거완료 (시제)
+    gender: n
+    notes:
+      en: "More than perfect"; plus quam perfectum
+      ko: "완료보다 더"; plus quam perfectum
+  - latin: futurum
+    translation:
+      en: future (tense)
+      ko: 미래 (시제)
+    gender: n
+    notes:
+      en: Neuter adjective as noun; tempus futurum
+      ko: 중성 형용사의 명사화; tempus futurum
+  - latin: infinitivus
+    translation:
+      en: infinitive
+      ko: 부정사, 부정법
+    gender: m
+    notes:
+      en: modus infinitivus = infinitive mood
+      ko: modus infinitivus = 부정법
+  - latin: participium
+    translation:
+      en: participle
+      ko: 분사
+    gender: n
+    notes:
+      en: 2nd declension neuter; participium, -i
+      ko: 제2변화 중성명사; participium, -i
+  - latin: gerundium
+    translation:
+      en: gerund
+      ko: 동명사
+    gender: n
+    notes:
+      en: 2nd declension neuter; gerundium, -i
+      ko: 제2변화 중성명사; gerundium, -i
+  - latin: gerundivum
+    translation:
+      en: gerundive
+      ko: 동형용사
+    gender: n
+    notes:
+      en: 2nd declension neuter; gerundivum, -i
+      ko: 제2변화 중성명사; gerundivum, -i
+  - latin: supinum
+    translation:
+      en: supine
+      ko: 목적분사
+    gender: n
+    notes:
+      en: 2nd declension neuter; verbal noun (4th principal part)
+      ko: 제2변화 중성명사; 동사적 명사 (제4기본형)
+- id: 152_deponent_verbs
+  label:
+    en: 15.2 Deponent Verbs
+    ko: 15.2 이형태 동사
+  type: vocabulary
+  words:
+  - latin: conor, conari, conatus sum
+    translation:
+      en: to try, to attempt
+      ko: 시도하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent; passive form, active meaning
+      ko: 제1변화 이형태 동사; 수동 형태, 능동 의미
+  - latin: hortor, hortari, hortatus sum
+    translation:
+      en: to encourage, to urge
+      ko: 격려하다, 촉구하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: miror, mirari, miratus sum
+    translation:
+      en: to wonder at, to admire
+      ko: 놀라다, 감탄하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: moror, morari, moratus sum
+    translation:
+      en: to delay, to linger
+      ko: 지체하다, 머무르다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: precor, precari, precatus sum
+    translation:
+      en: to pray, to beg
+      ko: 기도하다, 간청하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: vereor, vereri, veritus sum
+    translation:
+      en: to fear, to respect
+      ko: 두려워하다, 존경하다
+    gender: null
+    notes:
+      en: 2nd conjugation deponent
+      ko: 제2변화 이형태 동사
+  - latin: polliceor, polliceri, pollicitus sum
+    translation:
+      en: to promise
+      ko: 약속하다
+    gender: null
+    notes:
+      en: 2nd conjugation deponent
+      ko: 제2변화 이형태 동사
+  - latin: fateor, fateri, fassus sum
+    translation:
+      en: to confess, to admit
+      ko: 고백하다, 인정하다
+    gender: null
+    notes:
+      en: 2nd conjugation deponent
+      ko: 제2변화 이형태 동사
+  - latin: loquor, loqui, locutus sum
+    translation:
+      en: to speak, to talk
+      ko: 말하다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: sequor, sequi, secutus sum
+    translation:
+      en: to follow
+      ko: 따르다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: proficiscor, proficisci, profectus sum
+    translation:
+      en: to set out, to depart
+      ko: 출발하다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: nascor, nasci, natus sum
+    translation:
+      en: to be born
+      ko: 태어나다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: morior, mori, mortuus sum
+    translation:
+      en: to die
+      ko: 죽다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent; future part. moriturus
+      ko: 제3변화 i-어간 이형태 동사; 미래 분사 moriturus
+  - latin: patior, pati, passus sum
+    translation:
+      en: to suffer, to endure, to allow
+      ko: 겪다, 참다, 허용하다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent
+      ko: 제3변화 i-어간 이형태 동사
+  - latin: ordior, ordiri, orsus sum
+    translation:
+      en: to begin (weaving/speaking)
+      ko: 시작하다 (직조/이야기)
+    gender: null
+    notes:
+      en: 4th conjugation deponent
+      ko: 제4변화 이형태 동사
+  - latin: experior, experiri, expertus sum
+    translation:
+      en: to try, to test, to experience
+      ko: 시험하다, 경험하다
+    gender: null
+    notes:
+      en: 4th conjugation deponent
+      ko: 제4변화 이형태 동사
+  - latin: potior, potiri, potitus sum
+    translation:
+      en: to gain possession of (+ ablative/genitive)
+      ko: 차지하다 (+ 탈격/속격)
+    gender: null
+    notes:
+      en: 4th conjugation deponent; takes ablative or genitive
+      ko: 제4변화 이형태 동사; 탈격 또는 속격 지배
+- id: 153_semi_deponent_verbs
+  label:
+    en: 15.3 Semi-Deponent Verbs
+    ko: 15.3 반이형태 동사
+  type: vocabulary
+  words:
+  - latin: audeo, audere, ausus sum
+    translation:
+      en: to dare
+      ko: 감히 ~하다
+    gender: null
+    notes:
+      en: Semi-deponent; active in present system, passive in perfect
+      ko: 반이형태; 현재 체계에서 능동, 완료에서 수동 형태
+  - latin: gaudeo, gaudere, gavisus sum
+    translation:
+      en: to rejoice, to be glad
+      ko: 기뻐하다
+    gender: null
+    notes:
+      en: Semi-deponent; active forms in present, deponent in perfect
+      ko: 반이형태; 현재에서 능동, 완료에서 이형태
+  - latin: soleo, solere, solitus sum
+    translation:
+      en: to be accustomed, to be in the habit of
+      ko: ~하곤 하다, 습관적으로 ~하다
+    gender: null
+    notes:
+      en: Semi-deponent; + complementary infinitive
+      ko: 반이형태; + 보충 부정사
+  - latin: fido, fidere, fisus sum
+    translation:
+      en: to trust, to rely on (+ dative/ablative)
+      ko: 신뢰하다 (+ 여격/탈격)
+    gender: null
+    notes:
+      en: Semi-deponent; takes dative or ablative
+      ko: 반이형태; 여격 또는 탈격 지배
+  - latin: confido, confidere, confisus sum
+    translation:
+      en: to trust fully, to be confident
+      ko: 확신하다, 자신하다
+    gender: null
+    notes:
+      en: Semi-deponent; compound of fido
+      ko: 반이형태; fido의 합성어
+  - latin: diffido, diffidere, diffisus sum
+    translation:
+      en: to distrust, to lack confidence
+      ko: 불신하다, 자신 없다
+    gender: null
+    notes:
+      en: Semi-deponent; compound of fido with dis-
+      ko: 반이형태; dis- + fido 합성어
+- id: 154_essential_irregular_verbs
+  label:
+    en: 15.4 Essential Irregular Verbs
+    ko: 15.4 필수 불규칙 동사
+  type: vocabulary
+  words:
+  - latin: sum, esse, fui, futurus
+    translation:
+      en: to be
+      ko: 이다, 있다
+    gender: null
+    notes:
+      en: Most fundamental irregular verb; no passive
+      ko: 가장 기본적인 불규칙 동사; 수동태 없음
+  - latin: possum, posse, potui
+    translation:
+      en: to be able, can
+      ko: ~할 수 있다
+    gender: null
+    notes:
+      en: Compound of pot- + sum; no passive, no supine
+      ko: pot- + sum의 합성; 수동태 없음, 목적분사 없음
+  - latin: eo, ire, ii (ivi), itum
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    notes:
+      en: Irregular; impersonal passive (itur = one goes)
+      ko: 불규칙; 비인칭 수동 (itur = 사람들이 간다)
+  - latin: fero, ferre, tuli, latum
+    translation:
+      en: to carry, to bear, to bring
+      ko: 나르다, 견디다, 가져오다
+    gender: null
+    notes:
+      en: Highly irregular; suppletive principal parts
+      ko: 매우 불규칙; 보충적 기본형
+  - latin: volo, velle, volui
+    translation:
+      en: to want, to wish, to be willing
+      ko: 원하다, 바라다
+    gender: null
+    notes:
+      en: Irregular; no passive, no imperative
+      ko: 불규칙; 수동태 없음, 명령법 없음
+  - latin: nolo, nolle, nolui
+    translation:
+      en: to not want, to be unwilling, to refuse
+      ko: 원하지 않다, 거부하다
+    gender: null
+    notes:
+      en: Compound ne + volo; has imperative (noli/nolite)
+      ko: ne + volo 합성; 명령법 있음 (noli/nolite)
+  - latin: malo, malle, malui
+    translation:
+      en: to prefer
+      ko: ~을 더 좋아하다, 선호하다
+    gender: null
+    notes:
+      en: Compound magis + volo; no passive, no imperative
+      ko: magis + volo 합성; 수동태·명령법 없음
+  - latin: fio, fieri, factus sum
+    translation:
+      en: to become, to be made, to happen
+      ko: 되다, 만들어지다, 일어나다
+    gender: null
+    notes:
+      en: Serves as passive of facio; semi-deponent pattern
+      ko: facio의 수동태 역할; 반이형태 패턴
+  - latin: do, dare, dedi, datum
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+    notes:
+      en: 1st conjugation but short -a- in most forms
+      ko: 제1변화이나 대부분 형태에서 단모음 -a-
+  - latin: edo, edere (esse), edi, esum
+    translation:
+      en: to eat
+      ko: 먹다
+    gender: null
+    notes:
+      en: 3rd conjugation; alternative forms overlap with esse
+      ko: 제3변화; 대체 형태가 esse와 중복
+  - latin: coepi, coepisse
+    translation:
+      en: I began (defective; perfect system only)
+      ko: 나는 시작했다 (불완전; 완료 체계만)
+    gender: null
+    notes:
+      en: Defective verb; no present system
+      ko: 불완전 동사; 현재 체계 없음
+  - latin: memini, meminisse
+    translation:
+      en: I remember (defective; perfect with present meaning)
+      ko: 나는 기억한다 (불완전; 현재 의미의 완료)
+    gender: null
+    notes:
+      en: Defective verb; perfect forms with present sense
+      ko: 불완전 동사; 현재 의미의 완료 형태
+  - latin: odi, odisse
+    translation:
+      en: I hate (defective; perfect with present meaning)
+      ko: 나는 미워한다 (불완전; 현재 의미의 완료)
+    gender: null
+    notes:
+      en: Defective verb; perfect forms with present sense
+      ko: 불완전 동사; 현재 의미의 완료 형태
+  - latin: inquam
+    translation:
+      en: I say (defective; used in direct quotes)
+      ko: 나는 말한다 (불완전; 직접 인용에 사용)
+    gender: null
+    notes:
+      en: Defective verb; mostly 1st/3rd person forms
+      ko: 불완전 동사; 주로 1·3인칭 형태만
+  - latin: aio
+    translation:
+      en: I say, I assert (defective)
+      ko: 나는 말한다, 주장한다 (불완전)
+    gender: null
+    notes:
+      en: Defective verb; limited forms
+      ko: 불완전 동사; 제한된 형태
+  - latin: quaeso
+    translation:
+      en: I beg, please (defective)
+      ko: 부디, 제발 (불완전)
+    gender: null
+    notes:
+      en: Defective verb; archaic form of quaero; polite request
+      ko: 불완전 동사; quaero의 고어형; 공손한 요청
+  - latin: prosum, prodesse, profui
+    translation:
+      en: to be useful, to benefit (+ dative)
+      ko: 유익하다, 도움이 되다 (+ 여격)
+    gender: null
+    notes:
+      en: Compound of pro + sum; d inserted before e-
+      ko: pro + sum의 합성; e- 앞에 d 삽입
+  - latin: absum, abesse, afui
+    translation:
+      en: to be away, to be absent
+      ko: 떨어져 있다, 부재하다
+    gender: null
+    notes:
+      en: Compound of ab + sum
+      ko: ab + sum의 합성어
+  - latin: adsum, adesse, adfui
+    translation:
+      en: to be present, to assist
+      ko: 있다, 출석하다, 돕다
+    gender: null
+    notes:
+      en: Compound of ad + sum
+      ko: ad + sum의 합성어
+  - latin: transeo, transire, transii, transitum
+    translation:
+      en: to cross, to go across
+      ko: 건너다, 횡단하다
+    gender: null
+    notes:
+      en: Compound of trans + eo
+      ko: trans + eo의 합성어
+  - latin: redeo, redire, redii, reditum
+    translation:
+      en: to go back, to return
+      ko: 돌아가다
+    gender: null
+    notes:
+      en: Compound of re + eo
+      ko: re + eo의 합성어
+  - latin: exeo, exire, exii, exitum
+    translation:
+      en: to go out, to exit
+      ko: 나가다
+    gender: null
+    notes:
+      en: Compound of ex + eo
+      ko: ex + eo의 합성어
+  - latin: pereo, perire, perii, peritum
+    translation:
+      en: to perish, to die
+      ko: 멸망하다, 죽다
+    gender: null
+    notes:
+      en: Compound of per + eo
+      ko: per + eo의 합성어
+  - latin: affero, afferre, attuli, allatum
+    translation:
+      en: to bring to, to carry to
+      ko: 가져오다
+    gender: null
+    notes:
+      en: Compound of ad + fero; suppletive principal parts
+      ko: ad + fero의 합성어; 보충적 기본형
+  - latin: aufero, auferre, abstuli, ablatum
+    translation:
+      en: to carry away, to remove
+      ko: 가져가다, 제거하다
+    gender: null
+    notes:
+      en: Compound of ab + fero; suppletive principal parts
+      ko: ab + fero의 합성어; 보충적 기본형
+  - latin: refero, referre, rettuli, relatum
+    translation:
+      en: to bring back, to report
+      ko: 되가져오다, 보고하다
+    gender: null
+    notes:
+      en: Compound of re + fero; suppletive principal parts
+      ko: re + fero의 합성어; 보충적 기본형
+  - latin: offero, offerre, obtuli, oblatum
+    translation:
+      en: to offer, to present
+      ko: 제공하다, 바치다
+    gender: null
+    notes:
+      en: Compound of ob + fero; suppletive principal parts
+      ko: ob + fero의 합성어; 보충적 기본형
+  - latin: praefero, praeferre, praetuli, praelatum
+    translation:
+      en: to prefer, to carry before
+      ko: 선호하다, 앞에 나르다
+    gender: null
+    notes:
+      en: Compound of prae + fero
+      ko: prae + fero의 합성어
+  - latin: noli, nolite
+    translation:
+      en: do not (singular), do not (plural) — imperative of nolo
+      ko: ~하지 마라 (단수), ~하지 마라 (복수) — nolo의 명령법
+    gender: null
+    notes:
+      en: noli/nolite + infinitive = standard negative command
+      ko: noli/nolite + 부정사 = 표준 부정 명령
+  - latin: declinatio
+    translation:
+      en: declension, inflection
+      ko: 격변화, 곡용
+    gender: f
+    notes:
+      en: 3rd declension; declinatio, -onis; grammar term
+      ko: 제3변화 여성명사; declinatio, -onis; 문법 용어
+  - latin: persona
+    translation:
+      en: person (grammatical)
+      ko: (문법적) 인칭
+    gender: f
+    notes:
+      en: 1st declension; prima/secunda/tertia persona
+      ko: 제1변화 여성명사; 제1/제2/제3 인칭
+  - latin: numerus
+    translation:
+      en: number (grammatical); number
+      ko: (문법적) 수; 숫자
+    gender: m
+    notes:
+      en: 2nd declension; singularis/pluralis
+      ko: 제2변화 남성명사; 단수/복수
