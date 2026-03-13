@@ -1,0 +1,353 @@
+lesson: "sup_A2_Dining_and_Cuisine"
+lesson_number: 109
+cefr: A2
+type: supplementary
+topic: "Dining and Cuisine"
+categories:
+- id: convivium
+  label:
+    en: "Banquet and Dining"
+    ko: "연회와 식사"
+  type: vocabulary
+  words:
+  - latin: convivium
+    translation:
+      en: "banquet / dinner party"
+      ko: "연회 / 만찬"
+    gender: n
+    notes:
+      en: "gen. convivii; 2nd declension neuter; from con + vivere 'living together'; source of 'convivial'"
+      ko: "속격 convivii; 제2변화 중성; con + vivere '함께 살다'에서 유래; 영어 'convivial'의 어원"
+  - latin: triclinium
+    translation:
+      en: "dining room / dining couch"
+      ko: "식당 / 식사용 소파"
+    gender: n
+    notes:
+      en: "gen. triclinii; 2nd declension neuter; three couches arranged in U-shape"
+      ko: "속격 triclinii; 제2변화 중성; U자 형으로 배열된 세 개의 침상"
+  - latin: cenaculum
+    translation:
+      en: "dining room (upper floor)"
+      ko: "식당 (윗층)"
+    gender: n
+    notes:
+      en: "gen. cenaculi; 2nd declension neuter; from cena 'dinner'"
+      ko: "속격 cenaculi; 제2변화 중성; cena '저녁 식사'에서 유래"
+  - latin: gustatio
+    translation:
+      en: "appetizer course"
+      ko: "전채 코스"
+    gender: f
+    notes:
+      en: "gen. gustationis; 3rd declension; source of 'gustation'; first course of a cena"
+      ko: "속격 gustationis; 제3변화; 영어 'gustation'의 어원; 저녁 식사의 첫 코스"
+  - latin: mensa prima
+    translation:
+      en: "main course"
+      ko: "메인 코스"
+    gender: f
+    notes:
+      en: "literally 'first table'; the main dishes"
+      ko: "문자 그대로 '첫 번째 테이블'; 주요 요리"
+  - latin: mensa secunda
+    translation:
+      en: "dessert course"
+      ko: "디저트 코스"
+    gender: f
+    notes:
+      en: "literally 'second table'; fruit, nuts, sweets"
+      ko: "문자 그대로 '두 번째 테이블'; 과일, 견과류, 과자"
+  - latin: conviva
+    translation:
+      en: "dinner guest"
+      ko: "만찬 손님"
+    gender: m
+    notes:
+      en: "gen. convivae; 1st declension masculine; ideal number was 9 (3 per couch)"
+      ko: "속격 convivae; 제1변화 남성; 이상적인 수는 9명 (소파당 3명)"
+  - latin: minister
+    translation:
+      en: "waiter / attendant"
+      ko: "시중드는 사람 / 수행원"
+    gender: m
+    notes:
+      en: "gen. ministri; 2nd declension; source of 'minister'"
+      ko: "속격 ministri; 제2변화; 영어 'minister'의 어원"
+  - latin: discumbere
+    translation:
+      en: "to recline (at table)"
+      ko: "눕다 (식탁에서)"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; Romans reclined on the left elbow to eat"
+      ko: "제3활용 동사; 로마인들은 왼팔꿈치를 짚고 누워 식사함"
+  - latin: invitare
+    translation:
+      en: "to invite"
+      ko: "초대하다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'invite, invitation'"
+      ko: "제1활용 동사; 영어 'invite, invitation'의 어원"
+
+- id: dishes
+  label:
+    en: "Dishes and Foods"
+    ko: "요리와 음식"
+  type: vocabulary
+  words:
+  - latin: patina
+    translation:
+      en: "shallow dish / casserole"
+      ko: "얕은 접시 / 캐서롤"
+    gender: f
+    notes:
+      en: "gen. patinae; 1st declension; both the dish and the food cooked in it"
+      ko: "속격 patinae; 제1변화; 그릇과 그 안에 조리된 음식 모두를 가리킴"
+  - latin: isicium
+    translation:
+      en: "meatball / sausage"
+      ko: "미트볼 / 소시지"
+    gender: n
+    notes:
+      en: "gen. isicii; 2nd declension neuter; minced meat preparation"
+      ko: "속격 isicii; 제2변화 중성; 다진 고기 요리"
+  - latin: botulus
+    translation:
+      en: "sausage"
+      ko: "소시지"
+    gender: m
+    notes:
+      en: "gen. botuli; 2nd declension; source of 'botulism'"
+      ko: "속격 botuli; 제2변화; 영어 'botulism'의 어원"
+  - latin: ofella
+    translation:
+      en: "small morsel / cutlet"
+      ko: "작은 조각 / 커틀릿"
+    gender: f
+    notes:
+      en: "gen. ofellae; 1st declension; diminutive of offa 'lump'"
+      ko: "속격 ofellae; 제1변화; offa '덩어리'의 축소형"
+  - latin: pulmentum
+    translation:
+      en: "relish / side dish"
+      ko: "반찬"
+    gender: n
+    notes:
+      en: "gen. pulmenti; 2nd declension neuter; anything eaten with bread"
+      ko: "속격 pulmenti; 제2변화 중성; 빵과 함께 먹는 모든 것"
+  - latin: ius
+    translation:
+      en: "broth / sauce"
+      ko: "국물 / 소스"
+    gender: n
+    notes:
+      en: "gen. iuris; 3rd declension neuter; also means 'law, right' (different word)"
+      ko: "속격 iuris; 제3변화 중성; '법, 권리'라는 뜻도 있음 (다른 단어)"
+  - latin: moretum
+    translation:
+      en: "herb-cheese spread"
+      ko: "허브 치즈 스프레드"
+    gender: n
+    notes:
+      en: "gen. moreti; 2nd declension neuter; subject of a poem attributed to Virgil"
+      ko: "속격 moreti; 제2변화 중성; 베르길리우스의 작품으로 전해지는 시의 주제"
+  - latin: dulcia
+    translation:
+      en: "sweets / pastries"
+      ko: "과자류"
+    gender: n
+    notes:
+      en: "neuter plural of dulcis; desserts served at mensa secunda"
+      ko: "dulcis의 중성 복수형; mensa secunda에서 제공되는 디저트"
+  - latin: crustulum
+    translation:
+      en: "cookie / biscuit"
+      ko: "쿠키 / 비스킷"
+    gender: n
+    notes:
+      en: "gen. crustuli; 2nd declension neuter; diminutive of crustum"
+      ko: "속격 crustuli; 제2변화 중성; crustum의 축소형"
+
+- id: tableware
+  label:
+    en: "Tableware"
+    ko: "식기"
+  type: vocabulary
+  words:
+  - latin: poculum
+    translation:
+      en: "drinking cup"
+      ko: "술잔"
+    gender: n
+    notes:
+      en: "gen. poculi; 2nd declension neuter; from potare 'to drink'"
+      ko: "속격 poculi; 제2변화 중성; potare '마시다'에서 유래"
+  - latin: calix
+    translation:
+      en: "goblet / chalice"
+      ko: "잔 / 성배"
+    gender: m
+    notes:
+      en: "gen. calicis; 3rd declension; source of 'chalice'"
+      ko: "속격 calicis; 제3변화; 영어 'chalice'의 어원"
+  - latin: crater
+    translation:
+      en: "mixing bowl (for wine)"
+      ko: "혼합 그릇 (포도주용)"
+    gender: m
+    notes:
+      en: "gen. crateris; 3rd declension; wine was mixed with water; source of 'crater'"
+      ko: "속격 crateris; 제3변화; 포도주를 물과 섞음; 영어 'crater'의 어원"
+  - latin: lanx
+    translation:
+      en: "platter / large dish"
+      ko: "큰 접시"
+    gender: f
+    notes:
+      en: "gen. lancis; 3rd declension; source of 'lance' (via shape)"
+      ko: "속격 lancis; 제3변화"
+  - latin: trulla
+    translation:
+      en: "ladle / dipper"
+      ko: "국자"
+    gender: f
+    notes:
+      en: "gen. trullae; 1st declension"
+      ko: "속격 trullae; 제1변화"
+  - latin: mantele
+    translation:
+      en: "napkin / towel"
+      ko: "냅킨 / 수건"
+    gender: n
+    notes:
+      en: "gen. mantelis; 3rd declension neuter; guests brought their own (mappae)"
+      ko: "속격 mantelis; 제3변화 중성; 손님들이 자기 것(mappae)을 가져옴"
+  - latin: mappa
+    translation:
+      en: "napkin (personal)"
+      ko: "개인 냅킨"
+    gender: f
+    notes:
+      en: "gen. mappae; 1st declension; guests used it to carry home leftovers"
+      ko: "속격 mappae; 제1변화; 손님들이 남은 음식을 싸가는 데 사용"
+  - latin: acetabulum
+    translation:
+      en: "vinegar dish / small cup"
+      ko: "식초 그릇 / 작은 잔"
+    gender: n
+    notes:
+      en: "gen. acetabuli; 2nd declension neuter; from acetum 'vinegar'"
+      ko: "속격 acetabuli; 제2변화 중성; acetum '식초'에서 유래"
+
+- id: cooking_verbs
+  label:
+    en: "Cooking Verbs"
+    ko: "요리 동사"
+  type: vocabulary
+  words:
+  - latin: coquere
+    translation:
+      en: "to cook"
+      ko: "요리하다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; coquo, coquere, coxi, coctum; source of 'cook'"
+      ko: "제3활용 동사; coquo, coquere, coxi, coctum; 영어 'cook'의 어원"
+  - latin: parare
+    translation:
+      en: "to prepare"
+      ko: "준비하다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'prepare'"
+      ko: "제1활용 동사; 영어 'prepare'의 어원"
+  - latin: gustare
+    translation:
+      en: "to taste"
+      ko: "맛보다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'gusto, gustatory'"
+      ko: "제1활용 동사; 영어 'gusto, gustatory'의 어원"
+  - latin: miscere
+    translation:
+      en: "to mix"
+      ko: "섞다"
+    gender: n
+    notes:
+      en: "2nd conjugation verb; misceo, miscere, miscui, mixtum; source of 'mix'"
+      ko: "제2활용 동사; misceo, miscere, miscui, mixtum; 영어 'mix'의 어원"
+  - latin: torrere
+    translation:
+      en: "to roast / to parch"
+      ko: "굽다 / 볶다"
+    gender: n
+    notes:
+      en: "2nd conjugation verb; torreo, torrere, torrui, tostum; source of 'toast, torrent'"
+      ko: "제2활용 동사; torreo, torrere, torrui, tostum; 영어 'toast, torrent'의 어원"
+  - latin: fervere
+    translation:
+      en: "to boil / to seethe"
+      ko: "끓다"
+    gender: n
+    notes:
+      en: "2nd conjugation verb; source of 'fervent, fervor'"
+      ko: "제2활용 동사; 영어 'fervent, fervor'의 어원"
+  - latin: fricare
+    translation:
+      en: "to rub / to grind"
+      ko: "문지르다 / 갈다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'friction'"
+      ko: "제1활용 동사; 영어 'friction'의 어원"
+  - latin: condire
+    translation:
+      en: "to season / to flavor"
+      ko: "양념하다"
+    gender: n
+    notes:
+      en: "4th conjugation verb; condio, condire, condivi, conditum; source of 'condiment'"
+      ko: "제4활용 동사; condio, condire, condivi, conditum; 영어 'condiment'의 어원"
+  - latin: assare
+    translation:
+      en: "to roast / to grill"
+      ko: "굽다 (구이)"
+    gender: n
+    notes:
+      en: "1st conjugation verb; from assus 'roasted'"
+      ko: "제1활용 동사; assus '구운'에서 유래"
+  - latin: elixare
+    translation:
+      en: "to boil / to stew"
+      ko: "삶다 / 끓이다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'elixir' (related)"
+      ko: "제1활용 동사; 영어 'elixir'와 관련"
+  - latin: infundere
+    translation:
+      en: "to pour in"
+      ko: "붓다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; source of 'infuse, infusion'"
+      ko: "제3활용 동사; 영어 'infuse, infusion'의 어원"
+  - latin: edere
+    translation:
+      en: "to eat"
+      ko: "먹다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; edo, edere/esse, edi, esum; source of 'edible'"
+      ko: "제3활용 동사; edo, edere/esse, edi, esum; 영어 'edible'의 어원"
+  - latin: bibere
+    translation:
+      en: "to drink"
+      ko: "마시다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; bibo, bibere, bibi; source of 'imbibe, beverage'"
+      ko: "제3활용 동사; bibo, bibere, bibi; 영어 'imbibe, beverage'의 어원"
