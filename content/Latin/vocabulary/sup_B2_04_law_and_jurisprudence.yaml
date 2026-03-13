@@ -1,0 +1,378 @@
+lesson: sup_B2_Law_and_Jurisprudence
+lesson_number: 129
+type: supplementary
+topic: "Law and Jurisprudence"
+cefr: B2
+categories:
+- id: legal_principles
+  label:
+    en: Legal Principles
+    ko: 법적 원리
+  type: vocabulary
+  words:
+  - latin: ius civile
+    translation:
+      en: civil law, law of citizens
+      ko: 시민법
+    gender: n
+    notes:
+      en: "the body of law applicable to Roman citizens"
+      ko: "로마 시민에게 적용되는 법률 체계"
+  - latin: ius gentium
+    translation:
+      en: law of nations, international law
+      ko: 만민법
+    gender: n
+    notes:
+      en: "law applicable to all peoples, including non-citizens"
+      ko: "비시민을 포함한 모든 민족에게 적용되는 법"
+  - latin: ius naturale
+    translation:
+      en: natural law
+      ko: 자연법
+    gender: n
+    notes:
+      en: "universal law derived from nature and reason"
+      ko: "자연과 이성에서 도출된 보편적 법"
+  - latin: lex
+    translation:
+      en: law, statute
+      ko: 법, 법률
+    gender: f
+    notes:
+      en: "gen. lēgis; 3rd decl.; a formal enactment by the people"
+      ko: "속격 lēgis; 제3변화; 민회에 의한 공식 법률 제정"
+  - latin: ius
+    translation:
+      en: law, right, justice
+      ko: 법, 권리, 정의
+    gender: n
+    notes:
+      en: "gen. iūris; 3rd decl.; the broader concept of law and right"
+      ko: "속격 iūris; 제3변화; 법과 권리의 넓은 개념"
+  - latin: iustitia
+    translation:
+      en: justice, equity
+      ko: 정의, 공정
+    gender: f
+    notes:
+      en: "gen. iūstitiae; 1st decl.; 'constans et perpetua voluntas ius suum cuique tribuendi' (Ulpian)"
+      ko: "속격 iūstitiae; 제1변화; '각자에게 그의 권리를 부여하는 항구적 의지' (울피아누스)"
+  - latin: aequitas
+    translation:
+      en: equity, fairness
+      ko: 형평, 공정
+    gender: f
+    notes:
+      en: "gen. aequitātis; 3rd decl.; tempering strict law with fairness"
+      ko: "속격 aequitātis; 제3변화; 엄격한 법을 공정으로 완화"
+  - latin: edictum
+    translation:
+      en: edict, official proclamation
+      ko: 칙령, 공식 포고
+    gender: n
+    notes:
+      en: "gen. ēdictī; 2nd decl.; esp. the praetor's edict"
+      ko: "속격 ēdictī; 제2변화; 특히 법무관의 칙령"
+  - latin: senatus consultum
+    translation:
+      en: decree of the senate
+      ko: 원로원 의결
+    gender: n
+    notes:
+      en: "advisory resolution of the Senate; gained force of law under the Principate"
+      ko: "원로원의 자문 결의; 원수정 하에서 법적 효력을 가짐"
+  - latin: constitutio
+    translation:
+      en: imperial constitution, decree
+      ko: 황제 칙법
+    gender: f
+    notes:
+      en: "gen. cōnstitūtiōnis; 3rd decl.; imperial legislation"
+      ko: "속격 cōnstitūtiōnis; 제3변화; 황제의 입법"
+  - latin: consuetudo
+    translation:
+      en: custom, customary law
+      ko: 관습, 관습법
+    gender: f
+    notes:
+      en: "gen. cōnsuētūdinis; 3rd decl.; unwritten law established by practice"
+      ko: "속격 cōnsuētūdinis; 제3변화; 관행에 의해 확립된 불문법"
+  - latin: iurisprudentia
+    translation:
+      en: jurisprudence, the science of law
+      ko: 법학
+    gender: f
+    notes:
+      en: "gen. iūrisprudentiae; 1st decl.; 'dīvīnārum atque humānārum rērum notitia' (Ulpian)"
+      ko: "속격 iūrisprudentiae; 제1변화; '신적이고 인간적인 사물에 대한 지식' (울피아누스)"
+
+- id: court_procedure
+  label:
+    en: Court Procedure
+    ko: 재판 절차
+  type: vocabulary
+  words:
+  - latin: iudex
+    translation:
+      en: judge
+      ko: 심판관
+    gender: m
+    notes:
+      en: "gen. iūdicis; 3rd decl.; a private citizen appointed to decide a case"
+      ko: "속격 iūdicis; 제3변화; 사건을 판결하도록 임명된 사적 시민"
+  - latin: iudicium
+    translation:
+      en: trial, judgment, court
+      ko: 재판, 판결, 법정
+    gender: n
+    notes:
+      en: "gen. iūdiciī; 2nd decl.; the formal trial proceeding"
+      ko: "속격 iūdiciī; 제2변화; 공식 재판 절차"
+  - latin: advocatus
+    translation:
+      en: advocate, legal advisor
+      ko: 변호인, 법률 고문
+    gender: m
+    notes:
+      en: "gen. advocātī; 2nd decl.; one called to assist in a legal case"
+      ko: "속격 advocātī; 제2변화; 법적 사건에서 도움을 요청받은 자"
+  - latin: reus
+    translation:
+      en: defendant, the accused
+      ko: 피고인
+    gender: m
+    notes:
+      en: "gen. reī; 2nd decl.; the person charged"
+      ko: "속격 reī; 제2변화; 기소된 자"
+  - latin: actor
+    translation:
+      en: plaintiff, prosecutor
+      ko: 원고, 고소인
+    gender: m
+    notes:
+      en: "gen. āctōris; 3rd decl.; the one who brings the action"
+      ko: "속격 āctōris; 제3변화; 소송을 제기한 자"
+  - latin: testimonium
+    translation:
+      en: testimony, evidence, witness statement
+      ko: 증언, 증거
+    gender: n
+    notes:
+      en: "gen. testimōniī; 2nd decl."
+      ko: "속격 testimōniī; 제2변화"
+  - latin: testis
+    translation:
+      en: witness
+      ko: 증인
+    gender: m
+    notes:
+      en: "gen. testis; 3rd decl.; 'testis ūnus, testis nūllus'"
+      ko: "속격 testis; 제3변화; '증인 하나는 증인이 아니다'"
+  - latin: sententia
+    translation:
+      en: verdict, judgment, sentence
+      ko: 판결, 선고
+    gender: f
+    notes:
+      en: "gen. sententiae; 1st decl.; the judge's formal decision"
+      ko: "속격 sententiae; 제1변화; 심판관의 공식적 결정"
+  - latin: accusatio
+    translation:
+      en: accusation, prosecution
+      ko: 기소, 고발
+    gender: f
+    notes:
+      en: "gen. accūsātiōnis; 3rd decl."
+      ko: "속격 accūsātiōnis; 제3변화"
+  - latin: defensio
+    translation:
+      en: defense, plea
+      ko: 변호, 항변
+    gender: f
+    notes:
+      en: "gen. dēfēnsiōnis; 3rd decl."
+      ko: "속격 dēfēnsiōnis; 제3변화"
+  - latin: poena
+    translation:
+      en: penalty, punishment
+      ko: 형벌, 처벌
+    gender: f
+    notes:
+      en: "gen. poenae; 1st decl.; poena capitālis = 'capital punishment'"
+      ko: "속격 poenae; 제1변화; poena capitālis = '사형'"
+  - latin: supplicium
+    translation:
+      en: punishment, execution
+      ko: 극형, 처형
+    gender: n
+    notes:
+      en: "gen. suppliciī; 2nd decl.; supplicium sūmere dē = 'to exact punishment from'"
+      ko: "속격 suppliciī; 제2변화; supplicium sūmere dē = '~에게 벌을 내리다'"
+  - latin: quaestio
+    translation:
+      en: inquiry, investigation, criminal court
+      ko: 심문, 조사, 형사 법정
+    gender: f
+    notes:
+      en: "gen. quaestiōnis; 3rd decl.; quaestiō perpetua = 'standing criminal court'"
+      ko: "속격 quaestiōnis; 제3변화; quaestiō perpetua = '상설 형사 법정'"
+  - latin: formula
+    translation:
+      en: formula, legal writ
+      ko: 정식, 법적 서식
+    gender: f
+    notes:
+      en: "gen. fōrmulae; 1st decl.; the praetor's written instructions to the judge"
+      ko: "속격 fōrmulae; 제1변화; 법무관이 심판관에게 내린 서면 지시"
+  - latin: actio
+    translation:
+      en: legal action, lawsuit, right to sue
+      ko: 소송, 소권
+    gender: f
+    notes:
+      en: "gen. āctiōnis; 3rd decl.; āctiō in rem / āctiō in persōnam"
+      ko: "속격 āctiōnis; 제3변화; 대물소권 / 대인소권"
+  - latin: exceptio
+    translation:
+      en: exception, legal defense, plea
+      ko: 항변, 법적 방어
+    gender: f
+    notes:
+      en: "gen. exceptiōnis; 3rd decl.; a clause in the formula allowing the defendant to defeat the claim"
+      ko: "속격 exceptiōnis; 제3변화; 피고가 원고의 청구를 무효화할 수 있는 정식 조항"
+
+- id: contract_terms
+  label:
+    en: Contract and Property Terms
+    ko: 계약 및 재산 용어
+  type: vocabulary
+  words:
+  - latin: contractus
+    translation:
+      en: contract, agreement
+      ko: 계약, 합의
+    gender: m
+    notes:
+      en: "gen. contractūs; 4th decl.; binding legal agreement"
+      ko: "속격 contractūs; 제4변화; 구속력 있는 법적 합의"
+  - latin: obligatio
+    translation:
+      en: obligation, legal bond
+      ko: 의무, 법적 구속
+    gender: f
+    notes:
+      en: "gen. obligātiōnis; 3rd decl.; 'iūris vinculum quō necessitāte adstringimur' (Justinian)"
+      ko: "속격 obligātiōnis; 제3변화; '필연성으로 구속되는 법적 유대' (유스티니아누스)"
+  - latin: stipulatio
+    translation:
+      en: stipulation, formal verbal contract
+      ko: 문답 계약
+    gender: f
+    notes:
+      en: "gen. stipulātiōnis; 3rd decl.; 'Spōndēsne? Spondeō.' formal Q&A"
+      ko: "속격 stipulātiōnis; 제3변화; 'Spōndēsne? Spondeō.' 형식적 문답"
+  - latin: mandatum
+    translation:
+      en: mandate, commission, instruction
+      ko: 위임, 위탁
+    gender: n
+    notes:
+      en: "gen. mandātī; 2nd decl.; a gratuitous commission to act"
+      ko: "속격 mandātī; 제2변화; 무상의 행위 위탁"
+  - latin: emptio venditio
+    translation:
+      en: sale, contract of purchase
+      ko: 매매 계약
+    gender: f
+    notes:
+      en: "emptio = buying, vēnditiō = selling; the Roman contract of sale"
+      ko: "emptio = 매수, vēnditiō = 매도; 로마의 매매 계약"
+  - latin: dominium
+    translation:
+      en: ownership, dominion
+      ko: 소유권
+    gender: n
+    notes:
+      en: "gen. dominiī; 2nd decl.; full legal ownership of property"
+      ko: "속격 dominiī; 제2변화; 재산에 대한 완전한 법적 소유권"
+  - latin: possessio
+    translation:
+      en: possession, holding
+      ko: 점유
+    gender: f
+    notes:
+      en: "gen. possessiōnis; 3rd decl.; factual control distinct from ownership"
+      ko: "속격 possessiōnis; 제3변화; 소유권과 구분되는 사실적 지배"
+  - latin: usucapio
+    translation:
+      en: acquisition by long use, prescription
+      ko: 사용 취득, 시효 취득
+    gender: f
+    notes:
+      en: "gen. ūsūcapiōnis; 3rd decl.; acquiring ownership through continuous possession"
+      ko: "속격 ūsūcapiōnis; 제3변화; 계속적 점유를 통한 소유권 취득"
+  - latin: servitus
+    translation:
+      en: servitude, easement
+      ko: 지역권
+    gender: f
+    notes:
+      en: "gen. servitūtis; 3rd decl.; a right over another's property"
+      ko: "속격 servitūtis; 제3변화; 타인의 재산에 대한 권리"
+  - latin: hereditas
+    translation:
+      en: inheritance, estate
+      ko: 상속, 유산
+    gender: f
+    notes:
+      en: "gen. hērēditātis; 3rd decl.; succession to the entire estate"
+      ko: "속격 hērēditātis; 제3변화; 전체 재산에 대한 승계"
+  - latin: testamentum
+    translation:
+      en: will, testament
+      ko: 유언, 유서
+    gender: n
+    notes:
+      en: "gen. testāmentī; 2nd decl.; a formal declaration of posthumous wishes"
+      ko: "속격 testāmentī; 제2변화; 사후 의사의 공식적 선언"
+  - latin: legatum
+    translation:
+      en: legacy, bequest
+      ko: 유증
+    gender: n
+    notes:
+      en: "gen. legātī; 2nd decl.; a specific gift left by will"
+      ko: "속격 legātī; 제2변화; 유언에 의한 특정 증여"
+  - latin: fideicommissum
+    translation:
+      en: trust, bequest in trust
+      ko: 신탁 유증
+    gender: n
+    notes:
+      en: "gen. fīdeīcommissī; 2nd decl.; a bequest relying on the heir's good faith"
+      ko: "속격 fīdeīcommissī; 제2변화; 상속인의 신의에 의존하는 유증"
+  - latin: dolus malus
+    translation:
+      en: fraud, malicious deceit
+      ko: 사기, 악의적 기만
+    gender: m
+    notes:
+      en: "intentional wrongdoing in contract or delict"
+      ko: "계약 또는 불법 행위에서의 고의적 부정"
+  - latin: culpa
+    translation:
+      en: fault, negligence
+      ko: 과실, 태만
+    gender: f
+    notes:
+      en: "gen. culpae; 1st decl.; culpa lāta = 'gross negligence'"
+      ko: "속격 culpae; 제1변화; culpa lāta = '중과실'"
+  - latin: lex Aquilia
+    translation:
+      en: Aquilian law (on wrongful damage)
+      ko: 아퀼리아법 (불법 손해에 관한 법)
+    gender: f
+    notes:
+      en: "c. 286 BC; foundation of Roman delictual liability for property damage"
+      ko: "기원전 약 286년; 재산 피해에 대한 로마 불법 행위 책임의 기초"
