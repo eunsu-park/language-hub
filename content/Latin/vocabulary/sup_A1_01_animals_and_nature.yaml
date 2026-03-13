@@ -1,0 +1,473 @@
+lesson: "sup_A1_Animals_and_Nature"
+lesson_number: 101
+cefr: A1
+type: supplementary
+topic: "Animals and Nature"
+categories:
+- id: domestic_animals
+  label:
+    en: "Domestic Animals"
+    ko: "가축"
+  type: vocabulary
+  words:
+  - latin: canis
+    translation:
+      en: "dog"
+      ko: "개"
+    gender: m
+    notes:
+      en: "gen. canis; 3rd declension"
+      ko: "속격 canis; 제3변화"
+  - latin: felis
+    translation:
+      en: "cat"
+      ko: "고양이"
+    gender: f
+    notes:
+      en: "gen. felis; 3rd declension"
+      ko: "속격 felis; 제3변화"
+  - latin: equus
+    translation:
+      en: "horse"
+      ko: "말"
+    gender: m
+    notes:
+      en: "gen. equi; 2nd declension; source of 'equestrian'"
+      ko: "속격 equi; 제2변화; 영어 'equestrian'의 어원"
+  - latin: bos
+    translation:
+      en: "ox / cow"
+      ko: "소"
+    gender: m
+    notes:
+      en: "gen. bovis; irregular 3rd declension; source of 'bovine'"
+      ko: "속격 bovis; 불규칙 제3변화; 영어 'bovine'의 어원"
+  - latin: ovis
+    translation:
+      en: "sheep"
+      ko: "양"
+    gender: f
+    notes:
+      en: "gen. ovis; 3rd declension; source of 'ovine'"
+      ko: "속격 ovis; 제3변화; 영어 'ovine'의 어원"
+  - latin: porcus
+    translation:
+      en: "pig"
+      ko: "돼지"
+    gender: m
+    notes:
+      en: "gen. porci; 2nd declension; source of 'pork'"
+      ko: "속격 porci; 제2변화; 영어 'pork'의 어원"
+  - latin: capra
+    translation:
+      en: "goat"
+      ko: "염소"
+    gender: f
+    notes:
+      en: "gen. caprae; 1st declension; source of 'Capricorn'"
+      ko: "속격 caprae; 제1변화; 영어 'Capricorn'의 어원"
+  - latin: asinus
+    translation:
+      en: "donkey"
+      ko: "당나귀"
+    gender: m
+    notes:
+      en: "gen. asini; 2nd declension; source of 'asinine'"
+      ko: "속격 asini; 제2변화; 영어 'asinine'의 어원"
+  - latin: gallus
+    translation:
+      en: "rooster"
+      ko: "수탉"
+    gender: m
+    notes:
+      en: "gen. galli; 2nd declension; also means 'a Gaul'"
+      ko: "속격 galli; 제2변화; '갈리아인'이란 뜻도 있음"
+  - latin: gallina
+    translation:
+      en: "hen"
+      ko: "암탉"
+    gender: f
+    notes:
+      en: "gen. gallinae; 1st declension"
+      ko: "속격 gallinae; 제1변화"
+  - latin: anas
+    translation:
+      en: "duck"
+      ko: "오리"
+    gender: f
+    notes:
+      en: "gen. anatis; 3rd declension"
+      ko: "속격 anatis; 제3변화"
+  - latin: anser
+    translation:
+      en: "goose"
+      ko: "거위"
+    gender: m
+    notes:
+      en: "gen. anseris; 3rd declension; sacred geese saved Rome (390 BC)"
+      ko: "속격 anseris; 제3변화; 신성한 거위가 로마를 구함 (기원전 390년)"
+  - latin: mulus
+    translation:
+      en: "mule"
+      ko: "노새"
+    gender: m
+    notes:
+      en: "gen. muli; 2nd declension; source of English 'mule'"
+      ko: "속격 muli; 제2변화; 영어 'mule'의 어원"
+
+- id: wild_animals
+  label:
+    en: "Wild Animals"
+    ko: "야생 동물"
+  type: vocabulary
+  words:
+  - latin: lupus
+    translation:
+      en: "wolf"
+      ko: "늑대"
+    gender: m
+    notes:
+      en: "gen. lupi; 2nd declension; the she-wolf nursed Romulus and Remus"
+      ko: "속격 lupi; 제2변화; 암늑대가 로물루스와 레무스를 양육"
+  - latin: ursus
+    translation:
+      en: "bear"
+      ko: "곰"
+    gender: m
+    notes:
+      en: "gen. ursi; 2nd declension; source of 'Ursa Major'"
+      ko: "속격 ursi; 제2변화; '큰곰자리(Ursa Major)'의 어원"
+  - latin: cervus
+    translation:
+      en: "deer / stag"
+      ko: "사슴"
+    gender: m
+    notes:
+      en: "gen. cervi; 2nd declension; source of 'cervine'"
+      ko: "속격 cervi; 제2변화; 영어 'cervine'의 어원"
+  - latin: leo
+    translation:
+      en: "lion"
+      ko: "사자"
+    gender: m
+    notes:
+      en: "gen. leonis; 3rd declension; source of the name 'Leo'"
+      ko: "속격 leonis; 제3변화; 이름 'Leo'의 어원"
+  - latin: vulpes
+    translation:
+      en: "fox"
+      ko: "여우"
+    gender: f
+    notes:
+      en: "gen. vulpis; 3rd declension; source of 'vulpine'"
+      ko: "속격 vulpis; 제3변화; 영어 'vulpine'의 어원"
+  - latin: lepus
+    translation:
+      en: "hare"
+      ko: "산토끼"
+    gender: m
+    notes:
+      en: "gen. leporis; 3rd declension; source of 'leporine'"
+      ko: "속격 leporis; 제3변화; 영어 'leporine'의 어원"
+  - latin: aper
+    translation:
+      en: "wild boar"
+      ko: "멧돼지"
+    gender: m
+    notes:
+      en: "gen. apri; 2nd declension; popular quarry in Roman hunts"
+      ko: "속격 apri; 제2변화; 로마 사냥에서 인기 있는 사냥감"
+  - latin: serpens
+    translation:
+      en: "snake / serpent"
+      ko: "뱀"
+    gender: f
+    notes:
+      en: "gen. serpentis; 3rd declension; source of 'serpent'"
+      ko: "속격 serpentis; 제3변화; 영어 'serpent'의 어원"
+  - latin: elephantus
+    translation:
+      en: "elephant"
+      ko: "코끼리"
+    gender: m
+    notes:
+      en: "gen. elephanti; 2nd declension; Hannibal's war elephants"
+      ko: "속격 elephanti; 제2변화; 한니발의 전쟁 코끼리"
+  - latin: simia
+    translation:
+      en: "ape / monkey"
+      ko: "원숭이"
+    gender: f
+    notes:
+      en: "gen. simiae; 1st declension; source of 'simian'"
+      ko: "속격 simiae; 제1변화; 영어 'simian'의 어원"
+  - latin: taurus
+    translation:
+      en: "bull"
+      ko: "황소"
+    gender: m
+    notes:
+      en: "gen. tauri; 2nd declension; source of 'Taurus' constellation"
+      ko: "속격 tauri; 제2변화; 별자리 '황소자리(Taurus)'의 어원"
+  - latin: bestia
+    translation:
+      en: "beast / wild animal"
+      ko: "짐승"
+    gender: f
+    notes:
+      en: "gen. bestiae; 1st declension; source of 'beast, bestial'"
+      ko: "속격 bestiae; 제1변화; 영어 'beast, bestial'의 어원"
+
+- id: birds_insects
+  label:
+    en: "Birds and Insects"
+    ko: "새와 곤충"
+  type: vocabulary
+  words:
+  - latin: aquila
+    translation:
+      en: "eagle"
+      ko: "독수리"
+    gender: f
+    notes:
+      en: "gen. aquilae; 1st declension; symbol of Roman legions"
+      ko: "속격 aquilae; 제1변화; 로마 군단의 상징"
+  - latin: corvus
+    translation:
+      en: "crow / raven"
+      ko: "까마귀"
+    gender: m
+    notes:
+      en: "gen. corvi; 2nd declension; associated with Apollo in myth"
+      ko: "속격 corvi; 제2변화; 신화에서 아폴로와 연관"
+  - latin: apis
+    translation:
+      en: "bee"
+      ko: "꿀벌"
+    gender: f
+    notes:
+      en: "gen. apis; 3rd declension; source of 'apiary, apiculture'"
+      ko: "속격 apis; 제3변화; 영어 'apiary, apiculture'의 어원"
+  - latin: columba
+    translation:
+      en: "dove / pigeon"
+      ko: "비둘기"
+    gender: f
+    notes:
+      en: "gen. columbae; 1st declension; symbol of peace"
+      ko: "속격 columbae; 제1변화; 평화의 상징"
+  - latin: passer
+    translation:
+      en: "sparrow"
+      ko: "참새"
+    gender: m
+    notes:
+      en: "gen. passeris; 3rd declension; Catullus wrote a famous poem about a sparrow"
+      ko: "속격 passeris; 제3변화; 카툴루스가 참새에 관한 유명한 시를 씀"
+  - latin: hirundo
+    translation:
+      en: "swallow"
+      ko: "제비"
+    gender: f
+    notes:
+      en: "gen. hirundinis; 3rd declension"
+      ko: "속격 hirundinis; 제3변화"
+  - latin: bubo
+    translation:
+      en: "owl"
+      ko: "부엉이"
+    gender: m
+    notes:
+      en: "gen. bubonis; 3rd declension; considered an ill omen"
+      ko: "속격 bubonis; 제3변화; 불길한 징조로 여겨짐"
+  - latin: cicada
+    translation:
+      en: "cicada"
+      ko: "매미"
+    gender: f
+    notes:
+      en: "gen. cicadae; 1st declension"
+      ko: "속격 cicadae; 제1변화"
+  - latin: formica
+    translation:
+      en: "ant"
+      ko: "개미"
+    gender: f
+    notes:
+      en: "gen. formicae; 1st declension; source of 'formic acid'"
+      ko: "속격 formicae; 제1변화; 영어 'formic acid'의 어원"
+  - latin: musca
+    translation:
+      en: "fly"
+      ko: "파리"
+    gender: f
+    notes:
+      en: "gen. muscae; 1st declension"
+      ko: "속격 muscae; 제1변화"
+  - latin: aranea
+    translation:
+      en: "spider"
+      ko: "거미"
+    gender: f
+    notes:
+      en: "gen. araneae; 1st declension; source of 'arachnid' (via Greek)"
+      ko: "속격 araneae; 제1변화; 영어 'arachnid'의 어원 (그리스어 경유)"
+  - latin: piscis
+    translation:
+      en: "fish"
+      ko: "물고기"
+    gender: m
+    notes:
+      en: "gen. piscis; 3rd declension; source of 'Pisces' zodiac sign"
+      ko: "속격 piscis; 제3변화; 별자리 '물고기자리(Pisces)'의 어원"
+
+- id: nature
+  label:
+    en: "Nature"
+    ko: "자연"
+  type: vocabulary
+  words:
+  - latin: arbor
+    translation:
+      en: "tree"
+      ko: "나무"
+    gender: f
+    notes:
+      en: "gen. arboris; 3rd declension; source of 'arboreal, arboretum'"
+      ko: "속격 arboris; 제3변화; 영어 'arboreal, arboretum'의 어원"
+  - latin: flos
+    translation:
+      en: "flower"
+      ko: "꽃"
+    gender: m
+    notes:
+      en: "gen. floris; 3rd declension; source of 'flora, floral'"
+      ko: "속격 floris; 제3변화; 영어 'flora, floral'의 어원"
+  - latin: herba
+    translation:
+      en: "grass / herb"
+      ko: "풀 / 허브"
+    gender: f
+    notes:
+      en: "gen. herbae; 1st declension; source of 'herb, herbivore'"
+      ko: "속격 herbae; 제1변화; 영어 'herb, herbivore'의 어원"
+  - latin: silva
+    translation:
+      en: "forest / woods"
+      ko: "숲"
+    gender: f
+    notes:
+      en: "gen. silvae; 1st declension; source of 'sylvan, Pennsylvania'"
+      ko: "속격 silvae; 제1변화; 영어 'sylvan, Pennsylvania'의 어원"
+  - latin: flumen
+    translation:
+      en: "river"
+      ko: "강"
+    gender: n
+    notes:
+      en: "gen. fluminis; 3rd declension neuter"
+      ko: "속격 fluminis; 제3변화 중성"
+  - latin: mons
+    translation:
+      en: "mountain"
+      ko: "산"
+    gender: m
+    notes:
+      en: "gen. montis; 3rd declension; source of 'mount, mountain'"
+      ko: "속격 montis; 제3변화; 영어 'mount, mountain'의 어원"
+  - latin: mare
+    translation:
+      en: "sea"
+      ko: "바다"
+    gender: n
+    notes:
+      en: "gen. maris; 3rd declension neuter; source of 'marine, maritime'"
+      ko: "속격 maris; 제3변화 중성; 영어 'marine, maritime'의 어원"
+  - latin: terra
+    translation:
+      en: "earth / land"
+      ko: "땅 / 대지"
+    gender: f
+    notes:
+      en: "gen. terrae; 1st declension; source of 'terrain, territory'"
+      ko: "속격 terrae; 제1변화; 영어 'terrain, territory'의 어원"
+  - latin: campus
+    translation:
+      en: "field / plain"
+      ko: "들판"
+    gender: m
+    notes:
+      en: "gen. campi; 2nd declension; source of 'campus, camp'"
+      ko: "속격 campi; 제2변화; 영어 'campus, camp'의 어원"
+  - latin: lacus
+    translation:
+      en: "lake"
+      ko: "호수"
+    gender: m
+    notes:
+      en: "gen. lacus; 4th declension; source of 'lake'"
+      ko: "속격 lacus; 제4변화; 영어 'lake'의 어원"
+  - latin: saxum
+    translation:
+      en: "rock / stone"
+      ko: "바위 / 돌"
+    gender: n
+    notes:
+      en: "gen. saxi; 2nd declension neuter"
+      ko: "속격 saxi; 제2변화 중성"
+  - latin: folium
+    translation:
+      en: "leaf"
+      ko: "잎"
+    gender: n
+    notes:
+      en: "gen. folii; 2nd declension neuter; source of 'foliage'"
+      ko: "속격 folii; 제2변화 중성; 영어 'foliage'의 어원"
+  - latin: radix
+    translation:
+      en: "root"
+      ko: "뿌리"
+    gender: f
+    notes:
+      en: "gen. radicis; 3rd declension; source of 'radical, radish'"
+      ko: "속격 radicis; 제3변화; 영어 'radical, radish'의 어원"
+  - latin: ripa
+    translation:
+      en: "riverbank"
+      ko: "강둑"
+    gender: f
+    notes:
+      en: "gen. ripae; 1st declension; source of 'riparian'"
+      ko: "속격 ripae; 제1변화; 영어 'riparian'의 어원"
+  - latin: vallis
+    translation:
+      en: "valley"
+      ko: "계곡"
+    gender: f
+    notes:
+      en: "gen. vallis; 3rd declension; source of 'valley'"
+      ko: "속격 vallis; 제3변화; 영어 'valley'의 어원"
+  - latin: litus
+    translation:
+      en: "shore / coast"
+      ko: "해안"
+    gender: n
+    notes:
+      en: "gen. litoris; 3rd declension neuter; source of 'littoral'"
+      ko: "속격 litoris; 제3변화 중성; 영어 'littoral'의 어원"
+  - latin: caelum
+    translation:
+      en: "sky / heaven"
+      ko: "하늘"
+    gender: n
+    notes:
+      en: "gen. caeli; 2nd declension neuter; source of 'celestial'"
+      ko: "속격 caeli; 제2변화 중성; 영어 'celestial'의 어원"
+  - latin: ignis
+    translation:
+      en: "fire"
+      ko: "불"
+    gender: m
+    notes:
+      en: "gen. ignis; 3rd declension; source of 'ignite, ignition'"
+      ko: "속격 ignis; 제3변화; 영어 'ignite, ignition'의 어원"
