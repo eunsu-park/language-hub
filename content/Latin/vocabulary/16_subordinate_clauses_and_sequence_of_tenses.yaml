@@ -1,0 +1,580 @@
+lesson: 16_Subordinate_Clauses_and_Sequence_of_Tenses
+lesson_number: 16
+cefr: B2
+categories:
+- id: 161_purpose_clause_vocabulary
+  label:
+    en: 16.1 Purpose Clause Vocabulary
+    ko: 16.1 목적절 어휘
+  type: vocabulary
+  words:
+  - latin: consilium
+    translation:
+      en: plan, counsel
+      ko: 계획, 조언
+    gender: n
+    notes:
+      en: "gen. consilii; 2nd decl. neuter"
+      ko: "속격 consilii; 제2변화 중성"
+  - latin: ut
+    translation:
+      en: so that, in order that
+      ko: ~하기 위하여, ~하도록
+    gender: null
+    notes:
+      en: "conjunction; introduces purpose clauses with subjunctive"
+      ko: "접속사; 접속법과 함께 목적절을 이끔"
+  - latin: ne
+    translation:
+      en: lest, so that...not
+      ko: ~하지 않도록
+    gender: null
+    notes:
+      en: "conjunction; negative purpose clause"
+      ko: "접속사; 부정 목적절"
+  - latin: quo
+    translation:
+      en: whereby, so that (with comparative)
+      ko: ~하기 위하여 (비교급과 함께)
+    gender: null
+    notes:
+      en: "conjunction; purpose clause with comparative adjective/adverb"
+      ko: "접속사; 비교급 형용사/부사와 함께 목적절"
+  - latin: quominus
+    translation:
+      en: from (doing), that...not
+      ko: ~하는 것을 (방해하다)
+    gender: null
+    notes:
+      en: "conjunction; after verbs of hindering/preventing"
+      ko: "접속사; 방해/저지 동사 뒤에 사용"
+  - latin: quin
+    translation:
+      en: that...not, but that
+      ko: ~하지 않는, ~하지 않고
+    gender: null
+    notes:
+      en: "conjunction; after negative expressions of doubt"
+      ko: "접속사; 부정적 의심 표현 뒤에 사용"
+  - latin: causa
+    translation:
+      en: cause, reason; for the sake of
+      ko: 원인, 이유; ~를 위하여
+    gender: f
+    notes:
+      en: "gen. causae; 1st decl.; with gen. = 'for the sake of'"
+      ko: "속격 causae; 제1변화; 속격과 함께 = '~를 위하여'"
+  - latin: gratia
+    translation:
+      en: favor, grace; for the sake of
+      ko: 호의, 은혜; ~를 위하여
+    gender: f
+    notes:
+      en: "gen. gratiae; 1st decl.; with preceding gen. = 'for the sake of'"
+      ko: "속격 gratiae; 제1변화; 앞의 속격과 함께 = '~를 위하여'"
+  - latin: propositum
+    translation:
+      en: purpose, intention
+      ko: 목적, 의도
+    gender: n
+    notes:
+      en: "gen. propositi; 2nd decl. neuter"
+      ko: "속격 propositi; 제2변화 중성"
+  - latin: finis
+    translation:
+      en: end, purpose, boundary
+      ko: 끝, 목적, 경계
+    gender: m
+    notes:
+      en: "gen. finis; 3rd decl.; pl. fines = 'territory'"
+      ko: "속격 finis; 제3변화; 복수 fines = '영토'"
+  - latin: parare
+    translation:
+      en: to prepare, to obtain
+      ko: 준비하다, 획득하다
+    gender: null
+    notes:
+      en: "1st conj.; parō, parāre, parāvī, parātum"
+      ko: "제1활용; parō, parāre, parāvī, parātum"
+  - latin: mittere
+    translation:
+      en: to send
+      ko: 보내다
+    gender: null
+    notes:
+      en: "3rd conj.; mittō, mittere, mīsī, missum"
+      ko: "제3활용; mittō, mittere, mīsī, missum"
+  - latin: legatus
+    translation:
+      en: envoy, ambassador, legate
+      ko: 사절, 대사, 부관
+    gender: m
+    notes:
+      en: "gen. legati; 2nd decl."
+      ko: "속격 legati; 제2변화"
+  - latin: nuntius
+    translation:
+      en: messenger, message
+      ko: 사자, 소식
+    gender: m
+    notes:
+      en: "gen. nuntii; 2nd decl."
+      ko: "속격 nuntii; 제2변화"
+  - latin: auxilium
+    translation:
+      en: aid, help
+      ko: 도움, 원조
+    gender: n
+    notes:
+      en: "gen. auxilii; 2nd decl. neuter; pl. auxilia = 'auxiliary troops'"
+      ko: "속격 auxilii; 제2변화 중성; 복수 auxilia = '원군'"
+- id: 162_result_clause_vocabulary
+  label:
+    en: 16.2 Result Clause Vocabulary
+    ko: 16.2 결과절 어휘
+  type: vocabulary
+  words:
+  - latin: tam
+    translation:
+      en: so, to such a degree
+      ko: 그렇게, 그 정도로
+    gender: null
+    notes:
+      en: "adverb; signals a result clause with ut"
+      ko: "부사; ut과 함께 결과절을 예고함"
+  - latin: ita
+    translation:
+      en: so, thus, in such a way
+      ko: 그렇게, 이와 같이
+    gender: null
+    notes:
+      en: "adverb; signals a result clause with ut"
+      ko: "부사; ut과 함께 결과절을 예고함"
+  - latin: sic
+    translation:
+      en: so, thus, in this manner
+      ko: 이렇게, 이런 식으로
+    gender: null
+    notes:
+      en: "adverb; signals a result clause with ut"
+      ko: "부사; ut과 함께 결과절을 예고함"
+  - latin: adeo
+    translation:
+      en: to such an extent, so much
+      ko: 그 정도로, 매우
+    gender: null
+    notes:
+      en: "adverb; intensifier signaling result clause"
+      ko: "부사; 결과절을 예고하는 강조어"
+  - latin: tantus
+    translation:
+      en: so great, so large
+      ko: 그토록 큰, 그만큼의
+    gender: m
+    notes:
+      en: "adj. tantus, -a, -um; signals result clause"
+      ko: "형용사 tantus, -a, -um; 결과절을 예고함"
+  - latin: talis
+    translation:
+      en: such, of such a kind
+      ko: 그러한, 그런 종류의
+    gender: m
+    notes:
+      en: "adj. talis, -e; 3rd decl. adj."
+      ko: "형용사 talis, -e; 제3변화 형용사"
+  - latin: tot
+    translation:
+      en: so many
+      ko: 그토록 많은
+    gender: null
+    notes:
+      en: "indeclinable adj.; signals result clause"
+      ko: "불변화 형용사; 결과절을 예고함"
+  - latin: totiens
+    translation:
+      en: so often, so many times
+      ko: 그토록 자주, 그만큼 여러 번
+    gender: null
+    notes:
+      en: "adverb; also totiēns"
+      ko: "부사; totiēns로도 표기"
+  - latin: effectus
+    translation:
+      en: effect, result, accomplishment
+      ko: 효과, 결과, 성과
+    gender: m
+    notes:
+      en: "gen. effectūs; 4th decl."
+      ko: "속격 effectūs; 제4변화"
+  - latin: eventus
+    translation:
+      en: outcome, event, result
+      ko: 결과, 사건
+    gender: m
+    notes:
+      en: "gen. eventūs; 4th decl."
+      ko: "속격 eventūs; 제4변화"
+  - latin: efficere
+    translation:
+      en: to bring about, to accomplish
+      ko: 이루다, 달성하다
+    gender: null
+    notes:
+      en: "3rd conj. -iō; efficiō, efficere, effēcī, effectum"
+      ko: "제3활용 -iō형; efficiō, efficere, effēcī, effectum"
+  - latin: accidere
+    translation:
+      en: to happen, to occur
+      ko: 일어나다, 발생하다
+    gender: null
+    notes:
+      en: "3rd conj.; accidit, accidere, accidit (impersonal)"
+      ko: "제3활용; accidit, accidere, accidit (비인칭)"
+  - latin: fieri
+    translation:
+      en: to become, to happen, to be made
+      ko: 되다, 일어나다, 만들어지다
+    gender: null
+    notes:
+      en: "irregular; fiō, fierī, factus sum; passive of facere"
+      ko: "불규칙; fiō, fierī, factus sum; facere의 수동태"
+- id: 163_temporal_conjunctions
+  label:
+    en: 16.3 Temporal Conjunctions
+    ko: 16.3 시간 접속사
+  type: vocabulary
+  words:
+  - latin: cum
+    translation:
+      en: when, since, although
+      ko: ~할 때, ~이므로, ~이긴 하지만
+    gender: null
+    notes:
+      en: "conjunction; temporal/causal/concessive with subjunctive"
+      ko: "접속사; 접속법과 함께 시간/원인/양보절"
+  - latin: postquam
+    translation:
+      en: after, when
+      ko: ~한 후에
+    gender: null
+    notes:
+      en: "conjunction; usually with perfect indicative"
+      ko: "접속사; 보통 완료 직설법과 함께"
+  - latin: antequam
+    translation:
+      en: before
+      ko: ~하기 전에
+    gender: null
+    notes:
+      en: "conjunction; indicative (fact) or subjunctive (anticipation)"
+      ko: "접속사; 직설법(사실) 또는 접속법(예상)"
+  - latin: priusquam
+    translation:
+      en: before, sooner than
+      ko: ~하기 전에
+    gender: null
+    notes:
+      en: "conjunction; same usage as antequam"
+      ko: "접속사; antequam과 같은 용법"
+  - latin: dum
+    translation:
+      en: while, until, as long as
+      ko: ~하는 동안, ~할 때까지
+    gender: null
+    notes:
+      en: "conjunction; present indic. (while) or subjunctive (until)"
+      ko: "접속사; 현재 직설법(동안) 또는 접속법(까지)"
+  - latin: donec
+    translation:
+      en: until, as long as
+      ko: ~할 때까지
+    gender: null
+    notes:
+      en: "conjunction; indicative (fact) or subjunctive (purpose)"
+      ko: "접속사; 직설법(사실) 또는 접속법(목적)"
+  - latin: ubi
+    translation:
+      en: when, where
+      ko: ~할 때, ~하는 곳에
+    gender: null
+    notes:
+      en: "conjunction/adverb; temporal or locative"
+      ko: "접속사/부사; 시간적 또는 장소적"
+  - latin: simul atque
+    translation:
+      en: as soon as
+      ko: ~하자마자
+    gender: null
+    notes:
+      en: "conjunction; also simulac or simulatque"
+      ko: "접속사; simulac 또는 simulatque로도 표기"
+  - latin: quoad
+    translation:
+      en: as long as, until
+      ko: ~하는 한, ~할 때까지
+    gender: null
+    notes:
+      en: "conjunction; temporal limit"
+      ko: "접속사; 시간적 한계"
+  - latin: quotiens
+    translation:
+      en: as often as, whenever
+      ko: ~할 때마다
+    gender: null
+    notes:
+      en: "conjunction; also quotiēns; iterative temporal"
+      ko: "접속사; quotiēns로도 표기; 반복적 시간"
+  - latin: interim
+    translation:
+      en: meanwhile, in the meantime
+      ko: 그 사이에, 한편
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: interea
+    translation:
+      en: meanwhile, in the meantime
+      ko: 그동안, 그 사이에
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: deinde
+    translation:
+      en: then, next, afterward
+      ko: 그 다음에, 이어서
+    gender: null
+    notes:
+      en: "adverb; also dein"
+      ko: "부사; dein으로도 표기"
+  - latin: mox
+    translation:
+      en: soon, presently
+      ko: 곧, 이윽고
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: tempus
+    translation:
+      en: time, period, season
+      ko: 시간, 시기, 계절
+    gender: n
+    notes:
+      en: "gen. temporis; 3rd decl. neuter"
+      ko: "속격 temporis; 제3변화 중성"
+  - latin: spatium
+    translation:
+      en: space, interval, period of time
+      ko: 공간, 간격, 기간
+    gender: n
+    notes:
+      en: "gen. spatii; 2nd decl. neuter"
+      ko: "속격 spatii; 제2변화 중성"
+- id: 164_causal_concessive_words
+  label:
+    en: 16.4 Causal and Concessive Words
+    ko: 16.4 원인·양보 어휘
+  type: vocabulary
+  words:
+  - latin: quod
+    translation:
+      en: because, the fact that
+      ko: ~이기 때문에, ~라는 사실
+    gender: null
+    notes:
+      en: "conjunction; causal with indicative (fact) or subjunctive (alleged)"
+      ko: "접속사; 직설법(사실) 또는 접속법(전달) 원인절"
+  - latin: quia
+    translation:
+      en: because
+      ko: ~이기 때문에
+    gender: null
+    notes:
+      en: "conjunction; causal; usually with indicative"
+      ko: "접속사; 원인; 보통 직설법과 함께"
+  - latin: quoniam
+    translation:
+      en: since, because
+      ko: ~이므로, ~이기 때문에
+    gender: null
+    notes:
+      en: "conjunction; causal; usually with indicative"
+      ko: "접속사; 원인; 보통 직설법과 함께"
+  - latin: quamquam
+    translation:
+      en: although, and yet
+      ko: ~이긴 하지만, 그럼에도
+    gender: null
+    notes:
+      en: "conjunction; concessive with indicative"
+      ko: "접속사; 직설법과 함께 양보절"
+  - latin: quamvis
+    translation:
+      en: although, however much
+      ko: 비록 ~일지라도
+    gender: null
+    notes:
+      en: "conjunction; concessive with subjunctive"
+      ko: "접속사; 접속법과 함께 양보절"
+  - latin: etsi
+    translation:
+      en: even if, although
+      ko: 비록 ~일지라도
+    gender: null
+    notes:
+      en: "conjunction; concessive; usually with indicative"
+      ko: "접속사; 양보; 보통 직설법과 함께"
+  - latin: tametsi
+    translation:
+      en: even though, although
+      ko: 비록 ~일지라도
+    gender: null
+    notes:
+      en: "conjunction; concessive; usually with indicative"
+      ko: "접속사; 양보; 보통 직설법과 함께"
+  - latin: licet
+    translation:
+      en: although, granted that
+      ko: ~일지라도, ~이긴 하지만
+    gender: null
+    notes:
+      en: "conjunction; concessive with subjunctive; also impersonal verb"
+      ko: "접속사; 접속법과 함께 양보절; 비인칭 동사이기도 함"
+  - latin: tamen
+    translation:
+      en: nevertheless, however, yet
+      ko: 그럼에도 불구하고, 그러나
+    gender: null
+    notes:
+      en: "adverb; often paired with concessive conjunctions"
+      ko: "부사; 양보 접속사와 자주 짝을 이룸"
+  - latin: nihilominus
+    translation:
+      en: nevertheless, nonetheless
+      ko: 그럼에도 불구하고
+    gender: null
+    notes:
+      en: "adverb; also nihilō minus"
+      ko: "부사; nihilō minus로도 표기"
+  - latin: attamen
+    translation:
+      en: but yet, nevertheless
+      ko: 그러나, 그럼에도
+    gender: null
+    notes:
+      en: "adverb; emphatic form of tamen"
+      ko: "부사; tamen의 강조형"
+  - latin: ratio
+    translation:
+      en: reason, method, calculation
+      ko: 이유, 방법, 계산
+    gender: f
+    notes:
+      en: "gen. rationis; 3rd decl."
+      ko: "속격 rationis; 제3변화"
+  - latin: propterea
+    translation:
+      en: on that account, therefore
+      ko: 그 때문에, 따라서
+    gender: null
+    notes:
+      en: "adverb; often with quod = 'because'"
+      ko: "부사; quod와 함께 = '~이기 때문에'"
+  - latin: idcirco
+    translation:
+      en: for that reason, therefore
+      ko: 그런 이유로, 따라서
+    gender: null
+    notes:
+      en: "adverb; often with ut or quod"
+      ko: "부사; ut 또는 quod와 자주 함께"
+  - latin: ceterum
+    translation:
+      en: but, moreover, for the rest
+      ko: 그러나, 게다가, 그 밖에
+    gender: null
+    notes:
+      en: "adverb/conjunction"
+      ko: "부사/접속사"
+  - latin: igitur
+    translation:
+      en: therefore, then, accordingly
+      ko: 그러므로, 따라서
+    gender: null
+    notes:
+      en: "conjunction/adverb; postpositive"
+      ko: "접속사/부사; 후치사"
+  - latin: ergo
+    translation:
+      en: therefore, consequently
+      ko: 그러므로, 결과적으로
+    gender: null
+    notes:
+      en: "conjunction/adverb"
+      ko: "접속사/부사"
+  - latin: itaque
+    translation:
+      en: and so, therefore
+      ko: 그래서, 따라서
+    gender: null
+    notes:
+      en: "conjunction; stands first in its clause"
+      ko: "접속사; 절의 맨 앞에 위치"
+  - latin: quippe
+    translation:
+      en: indeed, for, seeing that
+      ko: 실로, 왜냐하면
+    gender: null
+    notes:
+      en: "adverb/conjunction; quippe qui + subj. = 'inasmuch as he'"
+      ko: "부사/접속사; quippe qui + 접속법 = '~이므로'"
+  - latin: utpote
+    translation:
+      en: seeing that, inasmuch as
+      ko: ~이므로, ~인 만큼
+    gender: null
+    notes:
+      en: "adverb; utpote qui + subj. = 'as being one who'"
+      ko: "부사; utpote qui + 접속법 = '~인 자이므로'"
+  - latin: quando
+    translation:
+      en: when, since
+      ko: ~할 때, ~이므로
+    gender: null
+    notes:
+      en: "conjunction/adverb; temporal or causal"
+      ko: "접속사/부사; 시간적 또는 원인적"
+  - latin: quamdiu
+    translation:
+      en: how long, as long as
+      ko: 얼마나 오래, ~하는 한
+    gender: null
+    notes:
+      en: "conjunction/adverb; temporal duration"
+      ko: "접속사/부사; 시간적 지속"
+  - latin: subito
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+    notes:
+      en: "adverb; from subitus 'sudden'"
+      ko: "부사; subitus '갑작스러운'에서"
+  - latin: repente
+    translation:
+      en: suddenly, unexpectedly
+      ko: 갑자기, 뜻밖에
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: continuo
+    translation:
+      en: immediately, forthwith
+      ko: 즉시, 곧바로
+    gender: null
+    notes:
+      en: "adverb; from continuus 'unbroken'"
+      ko: "부사; continuus '끊이지 않는'에서"
