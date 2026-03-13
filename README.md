@@ -85,6 +85,20 @@ language-hub/
 │   │       ├── tense_rules.yaml       # 14 tense rules
 │   │       └── _index.yaml            # Grammar index metadata
 │   │
+│   ├── Latin/                         # Latin course (A1→C1 CEFR)
+│   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
+│   │   ├── en/                        # Lessons in English (26 files)
+│   │   ├── ko/                        # Lessons in Korean (26 files)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (66 files, ~4,100 words)
+│   │   │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
+│   │   │   └── sup_*.yaml               # Supplementary packs by level (40 files)
+│   │   └── grammar/                   # Structured grammar YAML
+│   │       ├── conjugations.yaml      # 20 verbs × 9 tenses
+│   │       ├── grammar_rules.yaml     # 7 rule types
+│   │       ├── tense_rules.yaml       # 16 tense rules
+│   │       ├── declensions.yaml       # 7 declension paradigms
+│   │       └── _index.yaml            # Grammar index metadata
+│   │
 │   └── Korean/                        # Korean course (TOPIK I-1→II-5)
 │       ├── course_metadata.yaml       # Language config, TOPIK stage definitions
 │       ├── en/                        # Lessons in English (26 files)
@@ -195,6 +209,24 @@ language-hub/
 - 66 vocabulary YAML files (7,870 words)
 - 20 verbs × 7 tenses (conjugation tables)
 - 7 grammar rule types, 14 tense rules
+
+### Latin (라틴어)
+
+25-lesson progressive course from A1 to C1 (CEFR). A classical language course focused on reading ancient texts rather than modern conversation.
+
+| Stage | CEFR | Lessons | Focus |
+|-------|------|---------|-------|
+| Foundations / 기초 | A1 | 01-05 | Pronunciation, basic phrases, 1st-2nd declension, essential verbs, present tense |
+| Elementary / 초급 | A2 | 06-10 | All five declensions, pronouns, prepositions, imperfect/future, numbers |
+| Intermediate / 중급 | B1 | 11-15 | Perfect system, passive voice, participles, subjunctive, deponent verbs |
+| Advanced / 고급 | B2 | 16-20 | Subordinate clauses, indirect discourse, conditions, ablative absolute |
+| Mastery / 고전 완성 | C1 | 21-25 | Classical prose/poetry, Roman civilization, philosophical/legal Latin |
+
+**Content stats:**
+- 26 lesson files per language (en + ko)
+- 66 vocabulary YAML files (~4,100 words)
+- 20 verbs × 9 tenses (conjugation tables)
+- 7 grammar rule types, 16 tense rules, 7 declension paradigms
 
 ### Korean (한국어)
 
