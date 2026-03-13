@@ -1,0 +1,574 @@
+lesson: 04_Numbers_Time_and_Counting
+lesson_number: 4
+topik: TOPIK_I_1
+
+categories:
+- id: sino_korean_numbers
+  label:
+    en: Sino-Korean Numbers
+    ko: 한자어 수사
+  type: vocabulary
+  words:
+  - korean: 영
+    reading: null
+    translation:
+      en: "zero"
+      ko: "0"
+    gender: null
+    plural: null
+  - korean: 일
+    reading: null
+    translation:
+      en: "one"
+      ko: "1"
+    gender: null
+    plural: null
+  - korean: 이
+    reading: null
+    translation:
+      en: "two"
+      ko: "2"
+    gender: null
+    plural: null
+  - korean: 삼
+    reading: null
+    translation:
+      en: "three"
+      ko: "3"
+    gender: null
+    plural: null
+  - korean: 사
+    reading: null
+    translation:
+      en: "four"
+      ko: "4"
+    gender: null
+    plural: null
+  - korean: 오
+    reading: null
+    translation:
+      en: "five"
+      ko: "5"
+    gender: null
+    plural: null
+  - korean: 육
+    reading: null
+    translation:
+      en: "six"
+      ko: "6"
+    gender: null
+    plural: null
+  - korean: 칠
+    reading: null
+    translation:
+      en: "seven"
+      ko: "7"
+    gender: null
+    plural: null
+  - korean: 팔
+    reading: null
+    translation:
+      en: "eight"
+      ko: "8"
+    gender: null
+    plural: null
+  - korean: 구
+    reading: null
+    translation:
+      en: "nine"
+      ko: "9"
+    gender: null
+    plural: null
+  - korean: 십
+    reading: null
+    translation:
+      en: "ten"
+      ko: "10"
+    gender: null
+    plural: null
+  - korean: 백
+    reading: null
+    translation:
+      en: "hundred"
+      ko: "100"
+    gender: null
+    plural: null
+  - korean: 천
+    reading: null
+    translation:
+      en: "thousand"
+      ko: "1,000"
+    gender: null
+    plural: null
+  - korean: 만
+    reading: null
+    translation:
+      en: "ten thousand"
+      ko: "10,000"
+    gender: null
+    plural: null
+
+- id: native_korean_numbers
+  label:
+    en: Native Korean Numbers
+    ko: 고유어 수사
+  type: vocabulary
+  words:
+  - korean: 하나
+    reading: null
+    translation:
+      en: "one (native)"
+      ko: 고유어 1
+    gender: null
+    plural: null
+  - korean: 둘
+    reading: null
+    translation:
+      en: "two (native)"
+      ko: 고유어 2
+    gender: null
+    plural: null
+  - korean: 셋
+    reading: null
+    translation:
+      en: "three (native)"
+      ko: 고유어 3
+    gender: null
+    plural: null
+  - korean: 넷
+    reading: null
+    translation:
+      en: "four (native)"
+      ko: 고유어 4
+    gender: null
+    plural: null
+  - korean: 다섯
+    reading: null
+    translation:
+      en: "five (native)"
+      ko: 고유어 5
+    gender: null
+    plural: null
+  - korean: 여섯
+    reading: null
+    translation:
+      en: "six (native)"
+      ko: 고유어 6
+    gender: null
+    plural: null
+  - korean: 일곱
+    reading: null
+    translation:
+      en: "seven (native)"
+      ko: 고유어 7
+    gender: null
+    plural: null
+  - korean: 여덟
+    reading: null
+    translation:
+      en: "eight (native)"
+      ko: 고유어 8
+    gender: null
+    plural: null
+  - korean: 아홉
+    reading: null
+    translation:
+      en: "nine (native)"
+      ko: 고유어 9
+    gender: null
+    plural: null
+  - korean: 열
+    reading: null
+    translation:
+      en: "ten (native)"
+      ko: 고유어 10
+    gender: null
+    plural: null
+  - korean: 스물
+    reading: null
+    translation:
+      en: "twenty (native)"
+      ko: 고유어 20
+    gender: null
+    plural: null
+  - korean: 서른
+    reading: null
+    translation:
+      en: "thirty (native)"
+      ko: 고유어 30
+    gender: null
+    plural: null
+  - korean: 한
+    reading: null
+    translation:
+      en: "one (modifier form)"
+      ko: 하나의 관형사형
+    gender: null
+    plural: null
+    notes:
+      en: "Used before counters: 한 개, 한 명"
+      ko: "수량 단위 앞에 사용: 한 개, 한 명"
+  - korean: 두
+    reading: null
+    translation:
+      en: "two (modifier form)"
+      ko: 둘의 관형사형
+    gender: null
+    plural: null
+  - korean: 세
+    reading: null
+    translation:
+      en: "three (modifier form)"
+      ko: 셋의 관형사형
+    gender: null
+    plural: null
+  - korean: 네
+    reading: null
+    translation:
+      en: "four (modifier form)"
+      ko: 넷의 관형사형
+    gender: null
+    plural: null
+
+- id: counters
+  label:
+    en: Counters (Classifiers)
+    ko: 수량 단위 (분류사)
+  type: vocabulary
+  words:
+  - korean: 개
+    reading: null
+    translation:
+      en: general counter for things
+      ko: 사물을 세는 단위
+    gender: null
+    plural: null
+  - korean: 명
+    reading: null
+    translation:
+      en: counter for people (formal)
+      ko: 사람을 세는 단위 (격식)
+    gender: null
+    plural: null
+  - korean: 사람
+    reading: null
+    translation:
+      en: counter for people (casual)
+      ko: 사람을 세는 단위 (비격식)
+    gender: null
+    plural: null
+  - korean: 마리
+    reading: null
+    translation:
+      en: counter for animals
+      ko: 동물을 세는 단위
+    gender: null
+    plural: null
+  - korean: 권
+    reading: null
+    translation:
+      en: counter for books
+      ko: 책을 세는 단위
+    gender: null
+    plural: null
+  - korean: 잔
+    reading: null
+    translation:
+      en: counter for cups/glasses
+      ko: 컵이나 잔에 든 것을 세는 단위
+    gender: null
+    plural: null
+  - korean: 병
+    reading: null
+    translation:
+      en: counter for bottles
+      ko: 병에 든 것을 세는 단위
+    gender: null
+    plural: null
+  - korean: 장
+    reading: null
+    translation:
+      en: counter for flat objects (paper)
+      ko: 종이 같은 납작한 것을 세는 단위
+    gender: null
+    plural: null
+  - korean: 대
+    reading: null
+    translation:
+      en: counter for machines/vehicles
+      ko: 기계나 차량을 세는 단위
+    gender: null
+    plural: null
+  - korean: 벌
+    reading: null
+    translation:
+      en: counter for sets of clothing
+      ko: 옷을 세는 단위
+    gender: null
+    plural: null
+  - korean: 번
+    reading: null
+    translation:
+      en: counter for times (occurrences)
+      ko: 횟수를 세는 단위
+    gender: null
+    plural: null
+  - korean: 살
+    reading: null
+    translation:
+      en: counter for age (years old)
+      ko: 나이를 세는 단위
+    gender: null
+    plural: null
+
+- id: time_expressions
+  label:
+    en: Time Expressions
+    ko: 시간 표현
+  type: vocabulary
+  words:
+  - korean: 시
+    reading: null
+    translation:
+      en: o'clock (hour)
+      ko: 시각의 단위
+    gender: null
+    plural: null
+  - korean: 분
+    reading: null
+    translation:
+      en: minute
+      ko: 시간의 단위 (60초)
+    gender: null
+    plural: null
+  - korean: 초
+    reading: null
+    translation:
+      en: second
+      ko: 시간의 가장 작은 단위
+    gender: null
+    plural: null
+  - korean: 반
+    reading: null
+    translation:
+      en: half (past the hour)
+      ko: 30분
+    gender: null
+    plural: null
+  - korean: 오전
+    reading: null
+    translation:
+      en: morning, AM
+      ko: 낮 12시 이전
+    gender: null
+    plural: null
+  - korean: 오후
+    reading: null
+    translation:
+      en: afternoon, PM
+      ko: 낮 12시 이후
+    gender: null
+    plural: null
+  - korean: 아침
+    reading: null
+    translation:
+      en: morning
+      ko: 해가 뜬 이른 시간
+    gender: null
+    plural: null
+  - korean: 점심
+    reading: null
+    translation:
+      en: noon, lunch
+      ko: 낮에 먹는 식사
+    gender: null
+    plural: null
+  - korean: 저녁
+    reading: null
+    translation:
+      en: evening
+      ko: 해가 지는 때
+    gender: null
+    plural: null
+  - korean: 밤
+    reading: null
+    translation:
+      en: night
+      ko: 해가 진 뒤 어두운 때
+    gender: null
+    plural: null
+  - korean: 지금
+    reading: null
+    translation:
+      en: now
+      ko: 현재
+    gender: null
+    plural: null
+
+- id: days_months
+  label:
+    en: Days and Months
+    ko: 요일과 월
+  type: vocabulary
+  words:
+  - korean: 월요일
+    reading: null
+    translation:
+      en: Monday
+      ko: 한 주의 첫째 날
+    gender: null
+    plural: null
+  - korean: 화요일
+    reading: null
+    translation:
+      en: Tuesday
+      ko: 한 주의 둘째 날
+    gender: null
+    plural: null
+  - korean: 수요일
+    reading: null
+    translation:
+      en: Wednesday
+      ko: 한 주의 셋째 날
+    gender: null
+    plural: null
+  - korean: 목요일
+    reading: null
+    translation:
+      en: Thursday
+      ko: 한 주의 넷째 날
+    gender: null
+    plural: null
+  - korean: 금요일
+    reading: null
+    translation:
+      en: Friday
+      ko: 한 주의 다섯째 날
+    gender: null
+    plural: null
+  - korean: 토요일
+    reading: null
+    translation:
+      en: Saturday
+      ko: 한 주의 여섯째 날
+    gender: null
+    plural: null
+  - korean: 일요일
+    reading: null
+    translation:
+      en: Sunday
+      ko: 한 주의 일곱째 날
+    gender: null
+    plural: null
+  - korean: 일월
+    reading: null
+    translation:
+      en: January
+      ko: 한 해의 첫째 달
+    gender: null
+    plural: null
+  - korean: 이월
+    reading: null
+    translation:
+      en: February
+      ko: 한 해의 둘째 달
+    gender: null
+    plural: null
+  - korean: 삼월
+    reading: null
+    translation:
+      en: March
+      ko: 한 해의 셋째 달
+    gender: null
+    plural: null
+  - korean: 사월
+    reading: null
+    translation:
+      en: April
+      ko: 한 해의 넷째 달
+    gender: null
+    plural: null
+  - korean: 오월
+    reading: null
+    translation:
+      en: May
+      ko: 한 해의 다섯째 달
+    gender: null
+    plural: null
+  - korean: 유월
+    reading: null
+    translation:
+      en: June
+      ko: 한 해의 여섯째 달
+    gender: null
+    plural: null
+  - korean: 칠월
+    reading: null
+    translation:
+      en: July
+      ko: 한 해의 일곱째 달
+    gender: null
+    plural: null
+  - korean: 팔월
+    reading: null
+    translation:
+      en: August
+      ko: 한 해의 여덟째 달
+    gender: null
+    plural: null
+  - korean: 구월
+    reading: null
+    translation:
+      en: September
+      ko: 한 해의 아홉째 달
+    gender: null
+    plural: null
+  - korean: 시월
+    reading: null
+    translation:
+      en: October
+      ko: 한 해의 열째 달
+    gender: null
+    plural: null
+  - korean: 십일월
+    reading: null
+    translation:
+      en: November
+      ko: 한 해의 열한째 달
+    gender: null
+    plural: null
+  - korean: 십이월
+    reading: null
+    translation:
+      en: December
+      ko: 한 해의 열두째 달
+    gender: null
+    plural: null
+  - korean: 어제
+    reading: null
+    translation:
+      en: yesterday
+      ko: 오늘의 하루 전
+    gender: null
+    plural: null
+  - korean: 오늘
+    reading: null
+    translation:
+      en: today
+      ko: 지금 이 날
+    gender: null
+    plural: null
+  - korean: 내일
+    reading: null
+    translation:
+      en: tomorrow
+      ko: 오늘의 다음 날
+    gender: null
+    plural: null
+  - korean: 모레
+    reading: null
+    translation:
+      en: the day after tomorrow
+      ko: 내일의 다음 날
+    gender: null
+    plural: null
