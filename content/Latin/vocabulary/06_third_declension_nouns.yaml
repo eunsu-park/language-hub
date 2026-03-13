@@ -1,0 +1,620 @@
+lesson: 06_Third_Declension_Nouns
+lesson_number: 6
+cefr: A2
+categories:
+- id: 61_consonant_stem_nouns
+  label:
+    en: 6.1 Consonant-Stem Nouns
+    ko: 6.1 자음어간 명사
+  type: vocabulary
+  words:
+  - latin: rex
+    translation:
+      en: king
+      ko: 왕
+    gender: m
+    notes:
+      en: "gen. regis; c-stem"
+      ko: "속격 regis; c-어간"
+  - latin: dux
+    translation:
+      en: leader
+      ko: 지도자
+    gender: m
+    notes:
+      en: "gen. ducis; c-stem"
+      ko: "속격 ducis; c-어간"
+  - latin: miles
+    translation:
+      en: soldier
+      ko: 군인
+    gender: m
+    notes:
+      en: "gen. militis; c-stem"
+      ko: "속격 militis; c-어간"
+  - latin: lex
+    translation:
+      en: law
+      ko: 법
+    gender: f
+    notes:
+      en: "gen. legis; c-stem"
+      ko: "속격 legis; c-어간"
+  - latin: pax
+    translation:
+      en: peace
+      ko: 평화
+    gender: f
+    notes:
+      en: "gen. pacis; c-stem"
+      ko: "속격 pacis; c-어간"
+  - latin: lux
+    translation:
+      en: light
+      ko: 빛
+    gender: f
+    notes:
+      en: "gen. lucis; c-stem"
+      ko: "속격 lucis; c-어간"
+  - latin: vox
+    translation:
+      en: voice
+      ko: 목소리
+    gender: f
+    notes:
+      en: "gen. vocis; c-stem"
+      ko: "속격 vocis; c-어간"
+  - latin: mons
+    translation:
+      en: mountain
+      ko: 산
+    gender: m
+    notes:
+      en: "gen. montis; c-stem"
+      ko: "속격 montis; c-어간"
+  - latin: pons
+    translation:
+      en: bridge
+      ko: 다리
+    gender: m
+    notes:
+      en: "gen. pontis; c-stem"
+      ko: "속격 pontis; c-어간"
+  - latin: judex
+    translation:
+      en: judge
+      ko: 재판관
+    gender: m
+    notes:
+      en: "gen. judicis; c-stem"
+      ko: "속격 judicis; c-어간"
+  - latin: princeps
+    translation:
+      en: chief, emperor
+      ko: 수장, 황제
+    gender: m
+    notes:
+      en: "gen. principis; c-stem"
+      ko: "속격 principis; c-어간"
+  - latin: homo
+    translation:
+      en: human being, person
+      ko: 인간, 사람
+    gender: m
+    notes:
+      en: "gen. hominis; c-stem"
+      ko: "속격 hominis; c-어간"
+  - latin: virgo
+    translation:
+      en: maiden, virgin
+      ko: 처녀
+    gender: f
+    notes:
+      en: "gen. virginis; c-stem"
+      ko: "속격 virginis; c-어간"
+  - latin: ordo
+    translation:
+      en: order, rank
+      ko: 순서, 계급
+    gender: m
+    notes:
+      en: "gen. ordinis; c-stem"
+      ko: "속격 ordinis; c-어간"
+  - latin: pastor
+    translation:
+      en: shepherd
+      ko: 목자
+    gender: m
+    notes:
+      en: "gen. pastoris; c-stem"
+      ko: "속격 pastoris; c-어간"
+  - latin: soror
+    translation:
+      en: sister
+      ko: 자매
+    gender: f
+    notes:
+      en: "gen. sororis; c-stem"
+      ko: "속격 sororis; c-어간"
+  - latin: frater
+    translation:
+      en: brother
+      ko: 형제
+    gender: m
+    notes:
+      en: "gen. fratris; c-stem"
+      ko: "속격 fratris; c-어간"
+  - latin: mater
+    translation:
+      en: mother
+      ko: 어머니
+    gender: f
+    notes:
+      en: "gen. matris; c-stem"
+      ko: "속격 matris; c-어간"
+  - latin: pater
+    translation:
+      en: father
+      ko: 아버지
+    gender: m
+    notes:
+      en: "gen. patris; c-stem"
+      ko: "속격 patris; c-어간"
+- id: 62_i_stem_nouns
+  label:
+    en: 6.2 I-Stem Nouns
+    ko: 6.2 i-어간 명사
+  type: vocabulary
+  words:
+  - latin: ars
+    translation:
+      en: art, skill
+      ko: 기술, 예술
+    gender: f
+    notes:
+      en: "gen. artis; i-stem; abl. sing. arte"
+      ko: "속격 artis; i-어간; 탈격 단수 arte"
+  - latin: pars
+    translation:
+      en: part
+      ko: 부분
+    gender: f
+    notes:
+      en: "gen. partis; i-stem"
+      ko: "속격 partis; i-어간"
+  - latin: urbs
+    translation:
+      en: city
+      ko: 도시
+    gender: f
+    notes:
+      en: "gen. urbis; i-stem"
+      ko: "속격 urbis; i-어간"
+  - latin: mors
+    translation:
+      en: death
+      ko: 죽음
+    gender: f
+    notes:
+      en: "gen. mortis; i-stem"
+      ko: "속격 mortis; i-어간"
+  - latin: nox
+    translation:
+      en: night
+      ko: 밤
+    gender: f
+    notes:
+      en: "gen. noctis; i-stem"
+      ko: "속격 noctis; i-어간"
+  - latin: gens
+    translation:
+      en: clan, nation, people
+      ko: 씨족, 민족
+    gender: f
+    notes:
+      en: "gen. gentis; i-stem"
+      ko: "속격 gentis; i-어간"
+  - latin: mens
+    translation:
+      en: mind
+      ko: 정신, 마음
+    gender: f
+    notes:
+      en: "gen. mentis; i-stem"
+      ko: "속격 mentis; i-어간"
+  - latin: fons
+    translation:
+      en: spring, fountain
+      ko: 샘, 분수
+    gender: m
+    notes:
+      en: "gen. fontis; i-stem"
+      ko: "속격 fontis; i-어간"
+  - latin: collis
+    translation:
+      en: hill
+      ko: 언덕
+    gender: m
+    notes:
+      en: "gen. collis; i-stem; parisyllabic"
+      ko: "속격 collis; i-어간; 동음절"
+  - latin: hostis
+    translation:
+      en: enemy
+      ko: 적
+    gender: m
+    notes:
+      en: "gen. hostis; i-stem; parisyllabic"
+      ko: "속격 hostis; i-어간; 동음절"
+  - latin: navis
+    translation:
+      en: ship
+      ko: 배
+    gender: f
+    notes:
+      en: "gen. navis; i-stem; parisyllabic"
+      ko: "속격 navis; i-어간; 동음절"
+  - latin: caedes
+    translation:
+      en: slaughter, murder
+      ko: 살육, 학살
+    gender: f
+    notes:
+      en: "gen. caedis; i-stem"
+      ko: "속격 caedis; i-어간"
+  - latin: nubes
+    translation:
+      en: cloud
+      ko: 구름
+    gender: f
+    notes:
+      en: "gen. nubis; i-stem"
+      ko: "속격 nubis; i-어간"
+  - latin: ignis
+    translation:
+      en: fire
+      ko: 불
+    gender: m
+    notes:
+      en: "gen. ignis; i-stem; parisyllabic"
+      ko: "속격 ignis; i-어간; 동음절"
+- id: 63_third_declension_neuter
+  label:
+    en: 6.3 Third-Declension Neuter Nouns
+    ko: 6.3 제3변화 중성 명사
+  type: vocabulary
+  words:
+  - latin: corpus
+    translation:
+      en: body
+      ko: 몸
+    gender: n
+    notes:
+      en: "gen. corporis; neuter c-stem"
+      ko: "속격 corporis; 중성 c-어간"
+  - latin: tempus
+    translation:
+      en: time
+      ko: 시간
+    gender: n
+    notes:
+      en: "gen. temporis; neuter c-stem"
+      ko: "속격 temporis; 중성 c-어간"
+  - latin: nomen
+    translation:
+      en: name
+      ko: 이름
+    gender: n
+    notes:
+      en: "gen. nominis; neuter c-stem"
+      ko: "속격 nominis; 중성 c-어간"
+  - latin: flumen
+    translation:
+      en: river
+      ko: 강
+    gender: n
+    notes:
+      en: "gen. fluminis; neuter c-stem"
+      ko: "속격 fluminis; 중성 c-어간"
+  - latin: caput
+    translation:
+      en: head
+      ko: 머리
+    gender: n
+    notes:
+      en: "gen. capitis; neuter c-stem"
+      ko: "속격 capitis; 중성 c-어간"
+  - latin: opus
+    translation:
+      en: work, deed
+      ko: 작품, 일
+    gender: n
+    notes:
+      en: "gen. operis; neuter c-stem"
+      ko: "속격 operis; 중성 c-어간"
+  - latin: lumen
+    translation:
+      en: light, lamp
+      ko: 빛, 등
+    gender: n
+    notes:
+      en: "gen. luminis; neuter c-stem"
+      ko: "속격 luminis; 중성 c-어간"
+  - latin: genus
+    translation:
+      en: kind, race, birth
+      ko: 종류, 종족
+    gender: n
+    notes:
+      en: "gen. generis; neuter c-stem"
+      ko: "속격 generis; 중성 c-어간"
+  - latin: vulnus
+    translation:
+      en: wound
+      ko: 상처
+    gender: n
+    notes:
+      en: "gen. vulneris; neuter c-stem"
+      ko: "속격 vulneris; 중성 c-어간"
+  - latin: latus
+    translation:
+      en: side, flank
+      ko: 측면, 옆
+    gender: n
+    notes:
+      en: "gen. lateris; neuter c-stem"
+      ko: "속격 lateris; 중성 c-어간"
+  - latin: mare
+    translation:
+      en: sea
+      ko: 바다
+    gender: n
+    notes:
+      en: "gen. maris; neuter i-stem"
+      ko: "속격 maris; 중성 i-어간"
+  - latin: animal
+    translation:
+      en: animal
+      ko: 동물
+    gender: n
+    notes:
+      en: "gen. animalis; neuter i-stem"
+      ko: "속격 animalis; 중성 i-어간"
+  - latin: exemplar
+    translation:
+      en: example, model
+      ko: 모범, 모델
+    gender: n
+    notes:
+      en: "gen. exemplaris; neuter i-stem"
+      ko: "속격 exemplaris; 중성 i-어간"
+  - latin: vectigal
+    translation:
+      en: tax, tribute
+      ko: 세금, 조공
+    gender: n
+    notes:
+      en: "gen. vectigalis; neuter i-stem"
+      ko: "속격 vectigalis; 중성 i-어간"
+- id: 64_irregular_third
+  label:
+    en: 6.4 Irregular Third-Declension Nouns
+    ko: 6.4 불규칙 제3변화 명사
+  type: vocabulary
+  words:
+  - latin: civis
+    translation:
+      en: citizen
+      ko: 시민
+    gender: m
+    notes:
+      en: "gen. civis; mixed i-stem"
+      ko: "속격 civis; 혼합 i-어간"
+  - latin: vis
+    translation:
+      en: force, power (pl. vires = strength)
+      ko: 힘, 권력 (복수 vires = 체력)
+    gender: f
+    notes:
+      en: "irregular; acc. vim, abl. vi; pl. vires, virium"
+      ko: "불규칙; 대격 vim, 탈격 vi; 복수 vires, virium"
+  - latin: senex
+    translation:
+      en: old man
+      ko: 노인
+    gender: m
+    notes:
+      en: "gen. senis; irregular stem change"
+      ko: "속격 senis; 불규칙 어간 변화"
+  - latin: iter
+    translation:
+      en: journey, route
+      ko: 여행, 경로
+    gender: n
+    notes:
+      en: "gen. itineris; irregular neuter"
+      ko: "속격 itineris; 불규칙 중성"
+  - latin: Juppiter
+    translation:
+      en: Jupiter (king of the gods)
+      ko: 유피테르 (신들의 왕)
+    gender: m
+    notes:
+      en: "gen. Jovis; highly irregular"
+      ko: "속격 Jovis; 매우 불규칙"
+  - latin: bos
+    translation:
+      en: ox, cow
+      ko: 소
+    gender: m
+    notes:
+      en: "gen. bovis; irregular stem"
+      ko: "속격 bovis; 불규칙 어간"
+  - latin: sus
+    translation:
+      en: pig, swine
+      ko: 돼지
+    gender: m
+    notes:
+      en: "gen. suis; irregular"
+      ko: "속격 suis; 불규칙"
+  - latin: caro
+    translation:
+      en: flesh, meat
+      ko: 고기, 살
+    gender: f
+    notes:
+      en: "gen. carnis; irregular stem"
+      ko: "속격 carnis; 불규칙 어간"
+  - latin: cor
+    translation:
+      en: heart
+      ko: 심장
+    gender: n
+    notes:
+      en: "gen. cordis; irregular neuter"
+      ko: "속격 cordis; 불규칙 중성"
+  - latin: os
+    translation:
+      en: mouth, face
+      ko: 입, 얼굴
+    gender: n
+    notes:
+      en: "gen. oris; irregular neuter; not to confuse with os (bone)"
+      ko: "속격 oris; 불규칙 중성; os (뼈)와 혼동 주의"
+  - latin: nix
+    translation:
+      en: snow
+      ko: 눈 (날씨)
+    gender: f
+    notes:
+      en: "gen. nivis; irregular stem"
+      ko: "속격 nivis; 불규칙 어간"
+  - latin: lac
+    translation:
+      en: milk
+      ko: 우유
+    gender: n
+    notes:
+      en: "gen. lactis; irregular neuter"
+      ko: "속격 lactis; 불규칙 중성"
+  - latin: jecur
+    translation:
+      en: liver
+      ko: 간
+    gender: n
+    notes:
+      en: "gen. jecoris/jecinoris; irregular neuter"
+      ko: "속격 jecoris/jecinoris; 불규칙 중성"
+  - latin: canis
+    translation:
+      en: dog
+      ko: 개
+    gender: m
+    notes:
+      en: "gen. canis; c-stem; m. or f."
+      ko: "속격 canis; c-어간; 남성 또는 여성"
+  - latin: leo
+    translation:
+      en: lion
+      ko: 사자
+    gender: m
+    notes:
+      en: "gen. leonis; c-stem"
+      ko: "속격 leonis; c-어간"
+  - latin: arbor
+    translation:
+      en: tree
+      ko: 나무
+    gender: f
+    notes:
+      en: "gen. arboris; c-stem"
+      ko: "속격 arboris; c-어간"
+  - latin: orator
+    translation:
+      en: speaker, orator
+      ko: 연설가
+    gender: m
+    notes:
+      en: "gen. oratoris; c-stem; agent noun"
+      ko: "속격 oratoris; c-어간; 행위자 명사"
+  - latin: imperator
+    translation:
+      en: general, commander, emperor
+      ko: 장군, 사령관, 황제
+    gender: m
+    notes:
+      en: "gen. imperatoris; c-stem"
+      ko: "속격 imperatoris; c-어간"
+  - latin: virtus
+    translation:
+      en: courage, virtue, excellence
+      ko: 용기, 덕, 탁월함
+    gender: f
+    notes:
+      en: "gen. virtutis; c-stem"
+      ko: "속격 virtutis; c-어간"
+  - latin: libertas
+    translation:
+      en: freedom, liberty
+      ko: 자유
+    gender: f
+    notes:
+      en: "gen. libertatis; c-stem"
+      ko: "속격 libertatis; c-어간"
+  - latin: veritas
+    translation:
+      en: truth
+      ko: 진실
+    gender: f
+    notes:
+      en: "gen. veritatis; c-stem"
+      ko: "속격 veritatis; c-어간"
+  - latin: civitas
+    translation:
+      en: citizenship, state, community
+      ko: 시민권, 국가, 공동체
+    gender: f
+    notes:
+      en: "gen. civitatis; c-stem"
+      ko: "속격 civitatis; c-어간"
+  - latin: multitudo
+    translation:
+      en: multitude, crowd
+      ko: 다수, 군중
+    gender: f
+    notes:
+      en: "gen. multitudinis; c-stem"
+      ko: "속격 multitudinis; c-어간"
+  - latin: sermo
+    translation:
+      en: conversation, speech
+      ko: 대화, 연설
+    gender: m
+    notes:
+      en: "gen. sermonis; c-stem"
+      ko: "속격 sermonis; c-어간"
+  - latin: ratio
+    translation:
+      en: reason, method, account
+      ko: 이성, 방법, 계산
+    gender: f
+    notes:
+      en: "gen. rationis; c-stem"
+      ko: "속격 rationis; c-어간"
+  - latin: salus
+    translation:
+      en: safety, health, salvation
+      ko: 안전, 건강, 구원
+    gender: f
+    notes:
+      en: "gen. salutis; c-stem"
+      ko: "속격 salutis; c-어간"
+  - latin: calcar
+    translation:
+      en: spur
+      ko: 박차
+    gender: n
+    notes:
+      en: "gen. calcaris; neuter i-stem"
+      ko: "속격 calcaris; 중성 i-어간"
