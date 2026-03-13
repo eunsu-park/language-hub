@@ -1,0 +1,306 @@
+lesson: "sup_A2_City_and_Navigation"
+lesson_number: 113
+cefr: A2
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: urban_places
+  label:
+    en: "Urban Places"
+    ko: "도시 장소"
+  type: vocabulary
+  words:
+  - latin: urbs
+    translation:
+      en: "city"
+      ko: "도시"
+    gender: f
+    notes:
+      en: "gen. urbis; 3rd declension; source of 'urban, urbane'"
+      ko: "속격 urbis; 제3변화; 영어 'urban, urbane'의 어원"
+  - latin: forum
+    translation:
+      en: "forum / public square"
+      ko: "포럼 / 광장"
+    gender: n
+    notes:
+      en: "gen. fori; 2nd declension neuter; center of Roman civic life"
+      ko: "속격 fori; 제2변화 중성; 로마 시민 생활의 중심"
+  - latin: basilica
+    translation:
+      en: "basilica (public hall)"
+      ko: "바실리카 (공공 회관)"
+    gender: f
+    notes:
+      en: "gen. basilicae; 1st declension; used for law courts and commerce"
+      ko: "속격 basilicae; 제1변화; 법정과 상업에 사용됨"
+  - latin: insula
+    translation:
+      en: "apartment block"
+      ko: "공동주택"
+    gender: f
+    notes:
+      en: "gen. insulae; 1st declension; up to 6 stories; often fire hazards"
+      ko: "속격 insulae; 제1변화; 최대 6층; 종종 화재 위험"
+  - latin: templum
+    translation:
+      en: "temple"
+      ko: "신전"
+    gender: n
+    notes:
+      en: "gen. templi; 2nd declension neuter; source of 'temple'"
+      ko: "속격 templi; 제2변화 중성; 영어 'temple'의 어원"
+  - latin: thermae
+    translation:
+      en: "public baths"
+      ko: "공중목욕탕"
+    gender: f
+    notes:
+      en: "gen. thermarum; 1st declension; essential Roman social institution"
+      ko: "속격 thermarum; 제1변화; 필수 로마 사회 기관"
+  - latin: curia
+    translation:
+      en: "senate house / curia"
+      ko: "원로원 의사당"
+    gender: f
+    notes:
+      en: "gen. curiae; 1st declension; where the Senate met"
+      ko: "속격 curiae; 제1변화; 원로원이 회의한 곳"
+  - latin: taberna
+    translation:
+      en: "shop / tavern"
+      ko: "가게 / 술집"
+    gender: f
+    notes:
+      en: "gen. tabernae; 1st declension; source of 'tavern'"
+      ko: "속격 tabernae; 제1변화; 영어 'tavern'의 어원"
+  - latin: macellum
+    translation:
+      en: "food market"
+      ko: "식품 시장"
+    gender: n
+    notes:
+      en: "gen. macelli; 2nd declension neuter; centralized food shopping"
+      ko: "속격 macelli; 제2변화 중성; 중앙 집중식 식품 쇼핑"
+  - latin: caupona
+    translation:
+      en: "inn / tavern (low-class)"
+      ko: "여관 / 선술집 (하류)"
+    gender: f
+    notes:
+      en: "gen. cauponae; 1st declension; considered disreputable by upper classes"
+      ko: "속격 cauponae; 제1변화; 상류층에게 불명예스러운 것으로 여겨짐"
+  - latin: popina
+    translation:
+      en: "cookshop / fast-food stall"
+      ko: "간이 식당"
+    gender: f
+    notes:
+      en: "gen. popinae; 1st declension; cheap eating establishment for common people"
+      ko: "속격 popinae; 제1변화; 서민을 위한 저렴한 식당"
+  - latin: carcer
+    translation:
+      en: "prison / jail"
+      ko: "감옥"
+    gender: m
+    notes:
+      en: "gen. carceris; 3rd declension; also = starting gates in the circus; source of 'incarcerate'"
+      ko: "속격 carceris; 제3변화; 경기장의 출발 게이트도 의미; 영어 'incarcerate'의 어원"
+
+- id: services
+  label:
+    en: "City Services and Infrastructure"
+    ko: "도시 서비스와 기반시설"
+  type: vocabulary
+  words:
+  - latin: aquaeductus
+    translation:
+      en: "aqueduct"
+      ko: "수도교"
+    gender: m
+    notes:
+      en: "gen. aquaeductus; 4th declension; Rome had 11 aqueducts by AD 226"
+      ko: "속격 aquaeductus; 제4변화; 서기 226년까지 로마에 11개의 수도교"
+  - latin: cloaca
+    translation:
+      en: "sewer"
+      ko: "하수도"
+    gender: f
+    notes:
+      en: "gen. cloacae; 1st declension; Cloaca Maxima = Rome's great sewer"
+      ko: "속격 cloacae; 제1변화; Cloaca Maxima = 로마의 대하수도"
+  - latin: vigil
+    translation:
+      en: "watchman / firefighter"
+      ko: "경비병 / 소방관"
+    gender: m
+    notes:
+      en: "gen. vigilis; 3rd declension; vigiles = Rome's fire brigade; source of 'vigilant'"
+      ko: "속격 vigilis; 제3변화; vigiles = 로마의 소방대; 영어 'vigilant'의 어원"
+  - latin: fontana
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: f
+    notes:
+      en: "gen. fontanae; 1st declension; public water supply points"
+      ko: "속격 fontanae; 제1변화; 공공 급수 지점"
+  - latin: latrina
+    translation:
+      en: "public latrine"
+      ko: "공중 화장실"
+    gender: f
+    notes:
+      en: "gen. latrinae; 1st declension; communal and social spaces"
+      ko: "속격 latrinae; 제1변화; 공동 사회적 공간"
+  - latin: horrea
+    translation:
+      en: "public warehouses (plural)"
+      ko: "공공 창고 (복수형)"
+    gender: n
+    notes:
+      en: "gen. horreorum; 2nd declension neuter plural; grain storage for the annona"
+      ko: "속격 horreorum; 제2변화 중성 복수; 식량 배급(annona)용 곡물 저장소"
+  - latin: annona
+    translation:
+      en: "grain supply / dole"
+      ko: "식량 공급 / 배급"
+    gender: f
+    notes:
+      en: "gen. annonae; 1st declension; free grain distribution to citizens"
+      ko: "속격 annonae; 제1변화; 시민에게 무료 곡물 배급"
+  - latin: pistrinum
+    translation:
+      en: "bakery / mill"
+      ko: "제과점 / 방앗간"
+    gender: n
+    notes:
+      en: "gen. pistrini; 2nd declension neuter; often used slave or donkey labor"
+      ko: "속격 pistrini; 제2변화 중성; 종종 노예나 당나귀 노동력을 사용"
+  - latin: fullonica
+    translation:
+      en: "laundry / fulling shop"
+      ko: "세탁소"
+    gender: f
+    notes:
+      en: "gen. fullonicae; 1st declension; fullones used urine to clean garments"
+      ko: "속격 fullonicae; 제1변화; 세탁업자가 소변을 사용해 의복을 세탁"
+
+- id: directions
+  label:
+    en: "Directions and Navigation"
+    ko: "방향과 길찾기"
+  type: vocabulary
+  words:
+  - latin: porta
+    translation:
+      en: "gate / entrance"
+      ko: "문 / 성문"
+    gender: f
+    notes:
+      en: "gen. portae; 1st declension; source of 'portal, port'"
+      ko: "속격 portae; 제1변화; 영어 'portal, port'의 어원"
+  - latin: murus
+    translation:
+      en: "wall (city wall)"
+      ko: "벽 (성벽)"
+    gender: m
+    notes:
+      en: "gen. muri; 2nd declension; source of 'mural'"
+      ko: "속격 muri; 제2변화; 영어 'mural'의 어원"
+  - latin: via
+    translation:
+      en: "street / road"
+      ko: "거리 / 도로"
+    gender: f
+    notes:
+      en: "gen. viae; 1st declension; main thoroughfare"
+      ko: "속격 viae; 제1변화; 주요 도로"
+  - latin: platea
+    translation:
+      en: "broad street / plaza"
+      ko: "넓은 거리 / 광장"
+    gender: f
+    notes:
+      en: "gen. plateae; 1st declension; from Greek plateia; source of 'plaza, place'"
+      ko: "속격 plateae; 제1변화; 그리스어 plateia에서 유래; 영어 'plaza, place'의 어원"
+  - latin: angulus
+    translation:
+      en: "corner"
+      ko: "모서리"
+    gender: m
+    notes:
+      en: "gen. anguli; 2nd declension; source of 'angle'"
+      ko: "속격 anguli; 제2변화; 영어 'angle'의 어원"
+  - latin: septentriones
+    translation:
+      en: "north"
+      ko: "북쪽"
+    gender: m
+    notes:
+      en: "gen. septentrionum; 3rd declension plural; literally 'seven plowing oxen' (Big Dipper)"
+      ko: "속격 septentrionum; 제3변화 복수; 문자 그대로 '일곱 마리 쟁기소' (북두칠성)"
+  - latin: meridies
+    translation:
+      en: "south / midday"
+      ko: "남쪽 / 정오"
+    gender: m
+    notes:
+      en: "gen. meridiei; 5th declension; source of 'meridian'"
+      ko: "속격 meridiei; 제5변화; 영어 'meridian'의 어원"
+  - latin: oriens
+    translation:
+      en: "east / rising (sun)"
+      ko: "동쪽 / (해가) 뜨는"
+    gender: m
+    notes:
+      en: "gen. orientis; 3rd declension; source of 'orient, oriental'"
+      ko: "속격 orientis; 제3변화; 영어 'orient, oriental'의 어원"
+  - latin: occidens
+    translation:
+      en: "west / setting (sun)"
+      ko: "서쪽 / (해가) 지는"
+    gender: m
+    notes:
+      en: "gen. occidentis; 3rd declension; source of 'occident, occidental'"
+      ko: "속격 occidentis; 제3변화; 영어 'occident, occidental'의 어원"
+  - latin: dexter
+    translation:
+      en: "right (direction)"
+      ko: "오른쪽"
+    gender: m
+    notes:
+      en: "adjective (dexter, dextra, dextrum); source of 'dexterous, dexterity'"
+      ko: "형용사 (dexter, dextra, dextrum); 영어 'dexterous, dexterity'의 어원"
+  - latin: sinister
+    translation:
+      en: "left (direction)"
+      ko: "왼쪽"
+    gender: m
+    notes:
+      en: "adjective (sinister, sinistra, sinistrum); left side was unlucky; source of 'sinister'"
+      ko: "형용사 (sinister, sinistra, sinistrum); 왼쪽은 불운; 영어 'sinister'의 어원"
+  - latin: rectus
+    translation:
+      en: "straight"
+      ko: "곧은"
+    gender: m
+    notes:
+      en: "adjective (rectus, -a, -um); source of 'direct, rectangle'"
+      ko: "형용사 (rectus, -a, -um); 영어 'direct, rectangle'의 어원"
+  - latin: prope
+    translation:
+      en: "near / nearby"
+      ko: "가까운 / 근처에"
+    gender: n
+    notes:
+      en: "preposition + accusative / adverb; source of 'proximity' (related)"
+      ko: "전치사 + 대격 / 부사"
+  - latin: procul
+    translation:
+      en: "far / at a distance"
+      ko: "먼 / 거리를 두고"
+    gender: n
+    notes:
+      en: "adverb; 'procul este, profani' — away, uninitiated (Aeneid)"
+      ko: "부사; 'procul este, profani' — 물러서라, 속인들이여 (아이네이스)"
