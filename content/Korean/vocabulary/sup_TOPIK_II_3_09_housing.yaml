@@ -1,0 +1,424 @@
+lesson: supplementary
+lesson_number: 124
+topik: TOPIK_II_3
+type: supplementary
+topic: "Housing"
+
+categories:
+- id: housing_types
+  label:
+    en: "Housing Types"
+    ko: "주거 형태"
+  type: vocabulary
+  words:
+  - korean: 집
+    reading: null
+    translation:
+      en: "house, home"
+      ko: "사는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 아파트
+    reading: null
+    translation:
+      en: "apartment"
+      ko: "공동 주택"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'apartment'; most common housing in Korea"
+      ko: "외래어: 영어 'apartment'에서 유래; 한국의 가장 대표적인 주거 형태"
+  - korean: 빌라
+    reading: null
+    translation:
+      en: "villa (low-rise apartment)"
+      ko: "다세대 주택"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword; in Korea, means low-rise multi-family housing (4-5 floors)"
+      ko: "외래어: 한국에서는 4~5층 이하의 다세대 주택을 의미"
+  - korean: 원룸
+    reading: null
+    translation:
+      en: "studio apartment"
+      ko: "방 하나짜리 집"
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish: one + room; single-room apartment"
+      ko: "콩글리시: one + room; 1인 가구용 소형 주택"
+  - korean: 오피스텔
+    reading: null
+    translation:
+      en: "officetel (office + hotel)"
+      ko: "사무실 겸 주거 공간"
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish: office + hotel; uniquely Korean housing type"
+      ko: "콩글리시: office + hotel; 한국 특유의 주거 형태"
+  - korean: 주택
+    reading: null
+    translation:
+      en: "house, residence"
+      ko: "사람이 사는 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 住(dwell) + 宅(house)"
+      ko: "한자어: 住(살 주) + 宅(집 택)"
+  - korean: 단독주택
+    reading: null
+    translation:
+      en: "detached house"
+      ko: "한 가구만 사는 집"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 單獨(single/alone) + 住宅(house)"
+      ko: "한자어: 單獨(단독) + 住宅(주택)"
+  - korean: 다세대주택
+    reading: null
+    translation:
+      en: "multi-family house"
+      ko: "여러 가구가 사는 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 多(many) + 世帶(household) + 住宅(house)"
+      ko: "한자어: 多(많을 다) + 世帶(세대) + 住宅(주택)"
+  - korean: 기숙사
+    reading: null
+    translation:
+      en: "dormitory"
+      ko: "학교나 직장에서 제공하는 숙소"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 寄(lodge) + 宿(sleep) + 舍(house)"
+      ko: "한자어: 寄(부칠 기) + 宿(잘 숙) + 舍(집 사)"
+  - korean: 고시원
+    reading: null
+    translation:
+      en: "gosiwon (small study room/housing)"
+      ko: "시험 준비용 소형 주거시설"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 考試(exam) + 院(institute); cheap tiny rooms originally for exam studiers"
+      ko: "한자어: 考試(고시) + 院(집 원); 원래 시험 준비생을 위한 숙소"
+
+- id: real_estate
+  label:
+    en: "Real Estate"
+    ko: "부동산"
+  type: vocabulary
+  words:
+  - korean: 부동산
+    reading: null
+    translation:
+      en: "real estate"
+      ko: "땅이나 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 不(not) + 動(move) + 産(property)"
+      ko: "한자어: 不(아닐 부) + 動(움직일 동) + 産(낳을 산)"
+  - korean: 전세
+    reading: null
+    translation:
+      en: "jeonse (lump-sum deposit lease)"
+      ko: "목돈을 맡기고 사는 제도"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 傳(transfer) + 貰(rent); uniquely Korean rental system"
+      ko: "한자어: 傳(전할 전) + 貰(빌릴 세); 한국 특유의 임대 제도"
+  - korean: 월세
+    reading: null
+    translation:
+      en: "monthly rent"
+      ko: "매달 내는 임대료"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 月(month) + 貰(rent)"
+      ko: "한자어: 月(달 월) + 貰(빌릴 세)"
+  - korean: 보증금
+    reading: null
+    translation:
+      en: "security deposit"
+      ko: "계약할 때 맡기는 돈"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 保證(guarantee) + 金(money)"
+      ko: "한자어: 保證(보증) + 金(쇠 금)"
+  - korean: 임대
+    reading: null
+    translation:
+      en: "lease, rental"
+      ko: "빌려줌"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 賃(rent) + 貸(lend)"
+      ko: "한자어: 賃(삯 임) + 貸(빌려줄 대)"
+  - korean: 임대인
+    reading: null
+    translation:
+      en: "landlord, lessor"
+      ko: "집을 빌려주는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "賃貸(lease) + 人(person)"
+      ko: "임대 + 인(사람 인)"
+  - korean: 임차인
+    reading: null
+    translation:
+      en: "tenant, lessee"
+      ko: "집을 빌리는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 賃(rent) + 借(borrow) + 人(person)"
+      ko: "한자어: 賃(삯 임) + 借(빌릴 차) + 人(사람 인)"
+  - korean: 집주인
+    reading: null
+    translation:
+      en: "landlord (colloquial)"
+      ko: "집 주인"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean 집(house) + Sino-Korean 主人(owner)"
+      ko: "집(순우리말) + 주인(한자어)"
+  - korean: 세입자
+    reading: null
+    translation:
+      en: "tenant (colloquial)"
+      ko: "집을 빌려 사는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 貰(rent) + 入(enter) + 者(person)"
+      ko: "한자어: 貰(빌릴 세) + 入(들 입) + 者(사람 자)"
+  - korean: 매매
+    reading: null
+    translation:
+      en: "buying and selling, sale"
+      ko: "사고팔기"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 賣(sell) + 買(buy)"
+      ko: "한자어: 賣(팔 매) + 買(살 매)"
+
+- id: moving
+  label:
+    en: "Moving"
+    ko: "이사"
+  type: vocabulary
+  words:
+  - korean: 이사
+    reading: null
+    translation:
+      en: "moving (house)"
+      ko: "사는 곳을 옮김"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 移(move) + 徙(migrate)"
+      ko: "한자어: 移(옮길 이) + 徙(옮길 사)"
+  - korean: 이사하다
+    reading: null
+    translation:
+      en: "to move (house)"
+      ko: "집을 옮기다"
+    gender: null
+    plural: null
+    notes:
+      en: "移徙(move) + 하다"
+      ko: "이사 + 하다"
+  - korean: 짐
+    reading: null
+    translation:
+      en: "luggage, belongings"
+      ko: "옮길 물건"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 짐 싸다
+    reading: null
+    translation:
+      en: "to pack"
+      ko: "짐을 꾸리다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 짐(luggage) + 싸다(to wrap)"
+      ko: "순우리말: 짐 + 싸다"
+  - korean: 포장이사
+    reading: null
+    translation:
+      en: "full-service moving"
+      ko: "업체가 포장까지 해주는 이사"
+    gender: null
+    plural: null
+    notes:
+      en: "包裝(packing) + 移徙(moving); common Korean moving service"
+      ko: "포장 + 이사; 한국에서 흔한 이사 서비스"
+  - korean: 입주
+    reading: null
+    translation:
+      en: "moving in"
+      ko: "새 집에 들어감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 入(enter) + 住(dwell)"
+      ko: "한자어: 入(들 입) + 住(살 주)"
+  - korean: 퇴거
+    reading: null
+    translation:
+      en: "moving out, eviction"
+      ko: "집에서 나감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 退(withdraw) + 去(go)"
+      ko: "한자어: 退(물러날 퇴) + 去(갈 거)"
+  - korean: 집들이
+    reading: null
+    translation:
+      en: "housewarming party"
+      ko: "새 집에서 여는 잔치"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 집(house) + 들이(entering); Korean tradition"
+      ko: "순우리말: 집 + 들이; 한국의 전통 풍습"
+
+- id: home_maintenance
+  label:
+    en: "Home Maintenance"
+    ko: "주택 관리"
+  type: vocabulary
+  words:
+  - korean: 관리비
+    reading: null
+    translation:
+      en: "maintenance fee"
+      ko: "건물 관리에 드는 비용"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 管理(manage) + 費(expense)"
+      ko: "한자어: 管理(관리) + 費(쓸 비)"
+  - korean: 인테리어
+    reading: null
+    translation:
+      en: "interior design/decoration"
+      ko: "집 안 꾸미기"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'interior'"
+      ko: "외래어: 영어 'interior'에서 유래"
+  - korean: 리모델링
+    reading: null
+    translation:
+      en: "remodeling, renovation"
+      ko: "집을 새로 고침"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'remodeling'"
+      ko: "외래어: 영어 'remodeling'에서 유래"
+  - korean: 수리
+    reading: null
+    translation:
+      en: "repair"
+      ko: "고침"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 修(fix) + 理(arrange)"
+      ko: "한자어: 修(닦을 수) + 理(다스릴 리)"
+  - korean: 이웃
+    reading: null
+    translation:
+      en: "neighbor"
+      ko: "옆집 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 층
+    reading: null
+    translation:
+      en: "floor, story (of building)"
+      ko: "건물의 높이 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 層(layer)"
+      ko: "한자어: 層(층 층)"
+  - korean: 평
+    reading: null
+    translation:
+      en: "pyeong (Korean area unit, ~3.3 m²)"
+      ko: "면적 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 坪(flat ground); traditional Korean unit still widely used"
+      ko: "한자어: 坪(평평할 평); 공식적으로는 ㎡를 쓰지만 평이 더 많이 사용됨"
+  - korean: 난방
+    reading: null
+    translation:
+      en: "heating"
+      ko: "방을 따뜻하게 함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 暖(warm) + 房(room)"
+      ko: "한자어: 暖(따뜻할 난) + 房(방 방)"
+  - korean: 냉방
+    reading: null
+    translation:
+      en: "air conditioning, cooling"
+      ko: "방을 시원하게 함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 冷(cold) + 房(room)"
+      ko: "한자어: 冷(찰 냉) + 房(방 방)"
+  - korean: 누수
+    reading: null
+    translation:
+      en: "water leak"
+      ko: "물이 샘"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 漏(leak) + 水(water)"
+      ko: "한자어: 漏(샐 누) + 水(물 수)"
+  - korean: 방음
+    reading: null
+    translation:
+      en: "soundproofing"
+      ko: "소리를 막음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 防(prevent) + 音(sound)"
+      ko: "한자어: 防(막을 방) + 音(소리 음)"
