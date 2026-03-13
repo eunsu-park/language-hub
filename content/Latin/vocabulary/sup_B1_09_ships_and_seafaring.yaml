@@ -1,0 +1,1088 @@
+lesson: "sup_B1_Ships_and_Seafaring"
+lesson_number: 123
+cefr: B1
+type: supplementary
+topic: "Ships and Seafaring"
+categories:
+- id: ships
+  label:
+    en: "Ships and Vessels"
+    ko: "배와 선박"
+  type: vocabulary
+  words:
+  - latin: "navis"
+    translation:
+      en: "ship"
+      ko: "배"
+    gender: f
+    notes:
+      en: "gen. nāvis; 3rd decl. (i-stem); navis longa = 'warship'; navis oneraria = 'cargo ship'"
+      ko: "속격 nāvis; 제3변화 (i-어간); navis longa = '군함'; navis oneraria = '화물선'"
+  - latin: "classis"
+    translation:
+      en: "fleet"
+      ko: "함대"
+    gender: f
+    notes:
+      en: "gen. classis; 3rd decl. (i-stem)"
+      ko: "속격 classis; 제3변화 (i-어간)"
+  - latin: "triremis"
+    translation:
+      en: "trireme (three-banked oar ship)"
+      ko: "삼단 노선"
+    gender: f
+    notes:
+      en: "gen. trirēmis; 3rd decl. (i-stem); standard warship"
+      ko: "속격 trirēmis; 제3변화 (i-어간); 표준 군함"
+  - latin: "biremis"
+    translation:
+      en: "bireme (two-banked oar ship)"
+      ko: "이단 노선"
+    gender: f
+    notes:
+      en: "gen. birēmis; 3rd decl. (i-stem)"
+      ko: "속격 birēmis; 제3변화 (i-어간)"
+  - latin: "quinqueremis"
+    translation:
+      en: "quinquereme (five-banked oar ship)"
+      ko: "오단 노선"
+    gender: f
+    notes:
+      en: "gen. quinquerēmis; 3rd decl. (i-stem); heavy warship"
+      ko: "속격 quinquerēmis; 제3변화 (i-어간); 중(重)군함"
+  - latin: "liburna"
+    translation:
+      en: "liburna (light fast warship)"
+      ko: "리부르나 (경량 쾌속 군함)"
+    gender: f
+    notes:
+      en: "gen. liburnae; 1st decl.; favored after Battle of Actium"
+      ko: "속격 liburnae; 제1변화; 악티움 해전 이후 선호"
+  - latin: "scapha"
+    translation:
+      en: "skiff, small boat"
+      ko: "소형 보트"
+    gender: f
+    notes:
+      en: "gen. scaphae; 1st decl."
+      ko: "속격 scaphae; 제1변화"
+  - latin: "linter"
+    translation:
+      en: "small boat, dugout canoe"
+      ko: "작은 배, 통나무배"
+    gender: f
+    notes:
+      en: "gen. lintris; 3rd decl."
+      ko: "속격 lintris; 제3변화"
+  - latin: "ratis"
+    translation:
+      en: "raft"
+      ko: "뗏목"
+    gender: f
+    notes:
+      en: "gen. ratis; 3rd decl."
+      ko: "속격 ratis; 제3변화"
+  - latin: "carina"
+    translation:
+      en: "keel, hull"
+      ko: "용골, 선체"
+    gender: f
+    notes:
+      en: "gen. carīnae; 1st decl."
+      ko: "속격 carīnae; 제1변화"
+  - latin: "prora"
+    translation:
+      en: "prow, bow"
+      ko: "뱃머리, 선수"
+    gender: f
+    notes:
+      en: "gen. prōrae; 1st decl."
+      ko: "속격 prōrae; 제1변화"
+  - latin: "puppis"
+    translation:
+      en: "stern, poop deck"
+      ko: "선미, 고물"
+    gender: f
+    notes:
+      en: "gen. puppis; 3rd decl. (i-stem)"
+      ko: "속격 puppis; 제3변화 (i-어간)"
+- id: navigation
+  label:
+    en: "Navigation and Seamanship"
+    ko: "항해와 선원술"
+  type: vocabulary
+  words:
+  - latin: "nauta"
+    translation:
+      en: "sailor"
+      ko: "선원"
+    gender: m
+    notes:
+      en: "gen. nautae; 1st decl.; masculine despite -a ending"
+      ko: "속격 nautae; 제1변화; -a 어미지만 남성"
+  - latin: "gubernator"
+    translation:
+      en: "helmsman, pilot"
+      ko: "키잡이, 조타수"
+    gender: m
+    notes:
+      en: "gen. gubernātōris; 3rd decl."
+      ko: "속격 gubernātōris; 제3변화"
+  - latin: "remus"
+    translation:
+      en: "oar"
+      ko: "노"
+    gender: m
+    notes:
+      en: "gen. rēmī; 2nd decl."
+      ko: "속격 rēmī; 제2변화"
+  - latin: "remex"
+    translation:
+      en: "rower, oarsman"
+      ko: "노꾼"
+    gender: m
+    notes:
+      en: "gen. rēmigis; 3rd decl."
+      ko: "속격 rēmigis; 제3변화"
+  - latin: "velum"
+    translation:
+      en: "sail"
+      ko: "돛"
+    gender: n
+    notes:
+      en: "gen. vēlī; 2nd decl. neuter; vela dare = 'to set sail'"
+      ko: "속격 vēlī; 제2변화 중성; vela dare = '출항하다'"
+  - latin: "ancora"
+    translation:
+      en: "anchor"
+      ko: "닻"
+    gender: f
+    notes:
+      en: "gen. ancorae; 1st decl.; ancoras iacere = 'to drop anchor'"
+      ko: "속격 ancorae; 제1변화; ancoras iacere = '닻을 내리다'"
+  - latin: "malus"
+    translation:
+      en: "mast"
+      ko: "돛대"
+    gender: m
+    notes:
+      en: "gen. mālī; 2nd decl."
+      ko: "속격 mālī; 제2변화"
+  - latin: "gubernaculum"
+    translation:
+      en: "rudder, helm"
+      ko: "키, 방향타"
+    gender: n
+    notes:
+      en: "gen. gubernāculī; 2nd decl. neuter"
+      ko: "속격 gubernāculī; 제2변화 중성"
+  - latin: "cursus"
+    translation:
+      en: "course, route"
+      ko: "항로, 경로"
+    gender: m
+    notes:
+      en: "gen. cursūs; 4th decl.; cursum tenere = 'to hold course'"
+      ko: "속격 cursūs; 제4변화; cursum tenere = '항로를 유지하다'"
+  - latin: "ventus"
+    translation:
+      en: "wind"
+      ko: "바람"
+    gender: m
+    notes:
+      en: "gen. ventī; 2nd decl.; ventus secundus = 'favorable wind'"
+      ko: "속격 ventī; 제2변화; ventus secundus = '순풍'"
+  - latin: "tempestas"
+    translation:
+      en: "storm, tempest"
+      ko: "폭풍"
+    gender: f
+    notes:
+      en: "gen. tempestātis; 3rd decl.; also 'weather, season'"
+      ko: "속격 tempestātis; 제3변화; '날씨, 계절'의 뜻도 있음"
+  - latin: "naufragium"
+    translation:
+      en: "shipwreck"
+      ko: "난파"
+    gender: n
+    notes:
+      en: "gen. naufragiī; 2nd decl. neuter"
+      ko: "속격 naufragiī; 제2변화 중성"
+  - latin: "stella"
+    translation:
+      en: "star (for navigation)"
+      ko: "별 (항해용)"
+    gender: f
+    notes:
+      en: "gen. stellae; 1st decl.; ancient sailors navigated by stars"
+      ko: "속격 stellae; 제1변화; 고대 선원들은 별로 항해"
+- id: ports
+  label:
+    en: "Ports and Harbors"
+    ko: "항구와 항만"
+  type: vocabulary
+  words:
+  - latin: "portus"
+    translation:
+      en: "port, harbor"
+      ko: "항구"
+    gender: m
+    notes:
+      en: "gen. portūs; 4th decl."
+      ko: "속격 portūs; 제4변화"
+  - latin: "litus"
+    translation:
+      en: "shore, beach"
+      ko: "해안, 해변"
+    gender: n
+    notes:
+      en: "gen. lītoris; 3rd decl."
+      ko: "속격 lītoris; 제3변화"
+  - latin: "promontorium"
+    translation:
+      en: "promontory, headland"
+      ko: "곶, 돌출부"
+    gender: n
+    notes:
+      en: "gen. prōmontōriī; 2nd decl. neuter"
+      ko: "속격 prōmontōriī; 제2변화 중성"
+  - latin: "moles"
+    translation:
+      en: "breakwater, mole, pier"
+      ko: "방파제, 부두"
+    gender: f
+    notes:
+      en: "gen. mōlis; 3rd decl."
+      ko: "속격 mōlis; 제3변화"
+  - latin: "navale"
+    translation:
+      en: "dockyard, shipyard"
+      ko: "조선소"
+    gender: n
+    notes:
+      en: "gen. nāvālis; 3rd decl.; often pl. navalia"
+      ko: "속격 nāvālis; 제3변화; 흔히 복수 navalia"
+  - latin: "emporium"
+    translation:
+      en: "trading port, marketplace"
+      ko: "무역항, 상업 시장"
+    gender: n
+    notes:
+      en: "gen. emporiī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 emporiī; 제2변화 중성; 그리스어 차용어"
+  - latin: "pharus"
+    translation:
+      en: "lighthouse"
+      ko: "등대"
+    gender: f
+    notes:
+      en: "gen. pharī; 2nd decl.; from Pharos island in Alexandria"
+      ko: "속격 pharī; 제2변화; 알렉산드리아의 파로스 섬에서 유래"
+  - latin: "merx"
+    translation:
+      en: "merchandise, goods"
+      ko: "상품, 화물"
+    gender: f
+    notes:
+      en: "gen. mercis; 3rd decl.; usually pl. merces"
+      ko: "속격 mercis; 제3변화; 보통 복수 merces"
+  - latin: "mercator"
+    translation:
+      en: "merchant, trader"
+      ko: "상인"
+    gender: m
+    notes:
+      en: "gen. mercātōris; 3rd decl."
+      ko: "속격 mercātōris; 제3변화"
+  - latin: "onus"
+    translation:
+      en: "cargo, load, burden"
+      ko: "화물, 짐"
+    gender: n
+    notes:
+      en: "gen. oneris; 3rd decl."
+      ko: "속격 oneris; 제3변화"
+- id: naval_warfare
+  label:
+    en: "Naval Warfare"
+    ko: "해전"
+  type: vocabulary
+  words:
+  - latin: "rostrum"
+    translation:
+      en: "ram (of a ship), beak"
+      ko: "충각, 뱃부리"
+    gender: n
+    notes:
+      en: "gen. rōstrī; 2nd decl. neuter; pl. Rostra = speaker's platform in Forum"
+      ko: "속격 rōstrī; 제2변화 중성; 복수 Rostra = 포럼의 연단"
+  - latin: "pirata"
+    translation:
+      en: "pirate"
+      ko: "해적"
+    gender: m
+    notes:
+      en: "gen. pīrātae; 1st decl.; masculine despite -a ending"
+      ko: "속격 pīrātae; 제1변화; -a 어미지만 남성"
+  - latin: "praedo"
+    translation:
+      en: "pirate, plunderer"
+      ko: "해적, 약탈자"
+    gender: m
+    notes:
+      en: "gen. praedōnis; 3rd decl."
+      ko: "속격 praedōnis; 제3변화"
+  - latin: "pugna navalis"
+    translation:
+      en: "naval battle"
+      ko: "해전"
+    gender: f
+    notes:
+      en: "1st decl. + adj.; also proelium navale"
+      ko: "제1변화 + 형용사; proelium navale이라고도 함"
+  - latin: "corvus"
+    translation:
+      en: "boarding bridge (naval device)"
+      ko: "승선 다리 (해전 장치)"
+    gender: m
+    notes:
+      en: "gen. corvī; 2nd decl.; literally 'raven'; Roman naval invention"
+      ko: "속격 corvī; 제2변화; 직역 '까마귀'; 로마 해전 발명품"
+  - latin: "harpago"
+    translation:
+      en: "grappling hook"
+      ko: "갈고리"
+    gender: m
+    notes:
+      en: "gen. harpagōnis; 3rd decl.; used to pull enemy ships"
+      ko: "속격 harpagōnis; 제3변화; 적선을 끌어당기는 데 사용"
+  - latin: "praeda"
+    translation:
+      en: "plunder, booty"
+      ko: "전리품, 약탈물"
+    gender: f
+    notes:
+      en: "gen. praedae; 1st decl."
+      ko: "속격 praedae; 제1변화"
+  - latin: "navigare"
+    translation:
+      en: "to sail, to navigate"
+      ko: "항해하다"
+    gender: n
+    notes:
+      en: "1st conj.; navigare necesse est = 'sailing is necessary' (Pompey)"
+      ko: "제1활용; navigare necesse est = '항해는 필수다' (폼페이우스)"
+  - latin: "expugnare"
+    translation:
+      en: "to capture by assault, to storm"
+      ko: "공격하여 점령하다"
+    gender: n
+    notes:
+      en: "1st conj.; used for taking ships or ports"
+      ko: "제1활용; 선박이나 항구 점령에 사용"
+  - latin: "capere"
+    translation:
+      en: "to capture, to seize"
+      ko: "포획하다, 잡다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. cēpī; navem capere = 'to capture a ship'"
+      ko: "제3활용 (i-어간); 완료 cēpī; navem capere = '배를 포획하다'"
+  - latin: "deprimere"
+    translation:
+      en: "to sink (a ship)"
+      ko: "침몰시키다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. depressī"
+      ko: "제3활용; 완료 depressī"
+  - latin: "incendere"
+    translation:
+      en: "to set fire to, to burn"
+      ko: "불을 지르다, 태우다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. incendī; fire was a major naval weapon"
+      ko: "제3활용; 완료 incendī; 불은 주요 해전 무기"
+- id: seafaring_terms
+  label:
+    en: "Seafaring Terms and Conditions"
+    ko: "항해 용어와 상황"
+  type: vocabulary
+  words:
+  - latin: "aestus"
+    translation:
+      en: "tide, surge"
+      ko: "조류, 파도"
+    gender: m
+    notes:
+      en: "gen. aestūs; 4th decl."
+      ko: "속격 aestūs; 제4변화"
+  - latin: "fluctus"
+    translation:
+      en: "wave, billow"
+      ko: "파도"
+    gender: m
+    notes:
+      en: "gen. flūctūs; 4th decl."
+      ko: "속격 flūctūs; 제4변화"
+  - latin: "unda"
+    translation:
+      en: "wave, water"
+      ko: "물결, 물"
+    gender: f
+    notes:
+      en: "gen. undae; 1st decl."
+      ko: "속격 undae; 제1변화"
+  - latin: "procella"
+    translation:
+      en: "gale, storm"
+      ko: "폭풍, 강풍"
+    gender: f
+    notes:
+      en: "gen. procellae; 1st decl."
+      ko: "속격 procellae; 제1변화"
+  - latin: "scopulus"
+    translation:
+      en: "reef, rock"
+      ko: "암초, 바위"
+    gender: m
+    notes:
+      en: "gen. scopulī; 2nd decl."
+      ko: "속격 scopulī; 제2변화"
+  - latin: "Neptunus"
+    translation:
+      en: "Neptune (god of the sea)"
+      ko: "넵투누스 (바다의 신)"
+    gender: m
+    notes:
+      en: "gen. Neptūnī; 2nd decl.; sailors prayed to him for safe voyages"
+      ko: "속격 Neptūnī; 제2변화; 선원들이 안전한 항해를 위해 기도"
+  - latin: "tranquillitas"
+    translation:
+      en: "calm sea, tranquility"
+      ko: "잔잔한 바다, 평온"
+    gender: f
+    notes:
+      en: "gen. tranquillitātis; 3rd decl."
+      ko: "속격 tranquillitātis; 제3변화"
+  - latin: "navigium"
+    translation:
+      en: "vessel, ship"
+      ko: "선박"
+    gender: n
+    notes:
+      en: "gen. nāvigiī; 2nd decl. neuter"
+      ko: "속격 nāvigiī; 제2변화 중성"
+  - latin: "pelagus"
+    translation:
+      en: "open sea, deep sea"
+      ko: "먼 바다, 심해"
+    gender: n
+    notes:
+      en: "gen. pelagī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 pelagī; 제2변화 중성; 그리스어 차용어"
+  - latin: "ora"
+    translation:
+      en: "coast, shore, edge"
+      ko: "해안, 해변, 가장자리"
+    gender: f
+    notes:
+      en: "gen. ōrae; 1st decl.; ora maritima = 'seacoast'"
+      ko: "속격 ōrae; 제1변화; ora maritima = '해안'"
+  - latin: "sinus"
+    translation:
+      en: "bay, gulf, inlet"
+      ko: "만, 해만"
+    gender: m
+    notes:
+      en: "gen. sinūs; 4th decl."
+      ko: "속격 sinūs; 제4변화"
+  - latin: "navicula"
+    translation:
+      en: "small boat, skiff"
+      ko: "소형선, 작은 배"
+    gender: f
+    notes:
+      en: "gen. naviculae; 1st decl.; diminutive of navis"
+      ko: "속격 naviculae; 제1변화; navis의 축소형"
+  - latin: "funis"
+    translation:
+      en: "rope, cable"
+      ko: "밧줄"
+    gender: m
+    notes:
+      en: "gen. fūnis; 3rd decl."
+      ko: "속격 fūnis; 제3변화"
+  - latin: "rudentes"
+    translation:
+      en: "rigging, ropes (of a ship)"
+      ko: "삭구, 밧줄 (배의)"
+    gender: m
+    notes:
+      en: "gen. rudentium; 3rd decl. plural"
+      ko: "속격 rudentium; 제3변화 복수"
+- id: seafaring_verbs
+  label:
+    en: "Seafaring Verbs"
+    ko: "항해 동사"
+  type: vocabulary
+  words:
+  - latin: "solvere"
+    translation:
+      en: "to set sail, to cast off"
+      ko: "출항하다, 닻을 올리다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. solvī; navem solvere = 'to set sail'"
+      ko: "제3활용; 완료 solvī; navem solvere = '출항하다'"
+  - latin: "appellere"
+    translation:
+      en: "to bring to shore, to land"
+      ko: "해안에 대다, 상륙하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. appulī; navem appellere = 'to put into port'"
+      ko: "제3활용; 완료 appulī; navem appellere = '입항하다'"
+  - latin: "remigare"
+    translation:
+      en: "to row"
+      ko: "노를 젓다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "subducere"
+    translation:
+      en: "to haul up (a ship on shore)"
+      ko: "배를 해안으로 끌어올리다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. subdūxī; naves subducere"
+      ko: "제3활용; 완료 subdūxī; naves subducere"
+  - latin: "onerare"
+    translation:
+      en: "to load (cargo)"
+      ko: "짐을 싣다"
+    gender: n
+    notes:
+      en: "1st conj.; navem onerare = 'to load a ship'"
+      ko: "제1활용; navem onerare = '배에 짐을 싣다'"
+  - latin: "exonerare"
+    translation:
+      en: "to unload"
+      ko: "짐을 부리다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "mergi"
+    translation:
+      en: "to sink, to be submerged"
+      ko: "가라앉다, 침수되다"
+    gender: n
+    notes:
+      en: "3rd conj. passive; perf. mersus est"
+      ko: "제3활용 수동; 완료 mersus est"
+  - latin: "fluctuare"
+    translation:
+      en: "to float, to toss on waves"
+      ko: "떠다니다, 파도에 흔들리다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "circumnavigare"
+    translation:
+      en: "to sail around"
+      ko: "일주 항해하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "traicere"
+    translation:
+      en: "to cross (a sea), to transport"
+      ko: "(바다를) 건너다, 수송하다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. trāiēcī; mare traicere"
+      ko: "제3활용 (i-어간); 완료 trāiēcī; mare traicere"
+  - latin: "naufragari"
+    translation:
+      en: "to be shipwrecked"
+      ko: "난파하다"
+    gender: n
+    notes:
+      en: "1st conj. deponent"
+      ko: "제1활용 이형태 동사"
+  - latin: "enatare"
+    translation:
+      en: "to swim ashore, to escape by swimming"
+      ko: "수영하여 해안에 닿다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+- id: maritime_trade
+  label:
+    en: "Maritime Trade and Commerce"
+    ko: "해상 무역과 상업"
+  type: vocabulary
+  words:
+  - latin: "commercium"
+    translation:
+      en: "trade, commerce"
+      ko: "무역, 상업"
+    gender: n
+    notes:
+      en: "gen. commerciī; 2nd decl. neuter"
+      ko: "속격 commerciī; 제2변화 중성"
+  - latin: "negotiator"
+    translation:
+      en: "trader, businessman"
+      ko: "무역상, 사업가"
+    gender: m
+    notes:
+      en: "gen. negōtiātōris; 3rd decl."
+      ko: "속격 negōtiātōris; 제3변화"
+  - latin: "navis oneraria"
+    translation:
+      en: "cargo ship, merchant vessel"
+      ko: "화물선, 상선"
+    gender: f
+    notes:
+      en: "3rd/1st decl.; for transporting goods"
+      ko: "제3/제1변화; 물품 수송용"
+  - latin: "amphora"
+    translation:
+      en: "amphora (large storage jar)"
+      ko: "암포라 (대형 저장 항아리)"
+    gender: f
+    notes:
+      en: "gen. amphorae; 1st decl.; used for wine, oil, garum"
+      ko: "속격 amphorae; 제1변화; 포도주, 기름, 가룸에 사용"
+  - latin: "garum"
+    translation:
+      en: "garum (fermented fish sauce)"
+      ko: "가룸 (발효 생선 소스)"
+    gender: n
+    notes:
+      en: "gen. garī; 2nd decl. neuter; most popular Roman condiment"
+      ko: "속격 garī; 제2변화 중성; 가장 인기 있는 로마 조미료"
+  - latin: "triticum"
+    translation:
+      en: "wheat (grain shipment)"
+      ko: "밀 (곡물 수송)"
+    gender: n
+    notes:
+      en: "gen. trīticī; 2nd decl. neuter; Egypt and Africa supplied Rome"
+      ko: "속격 trīticī; 제2변화 중성; 이집트와 아프리카가 로마에 공급"
+  - latin: "vectura"
+    translation:
+      en: "freight, transport fare"
+      ko: "운임, 운송비"
+    gender: f
+    notes:
+      en: "gen. vectūrae; 1st decl."
+      ko: "속격 vectūrae; 제1변화"
+  - latin: "teloneum"
+    translation:
+      en: "customs house, toll station"
+      ko: "세관, 통행료 징수소"
+    gender: n
+    notes:
+      en: "gen. telōneī; 2nd decl. neuter"
+      ko: "속격 telōneī; 제2변화 중성"
+  - latin: "portorium"
+    translation:
+      en: "harbor tax, customs duty"
+      ko: "항구세, 관세"
+    gender: n
+    notes:
+      en: "gen. portōriī; 2nd decl. neuter"
+      ko: "속격 portōriī; 제2변화 중성"
+  - latin: "saccus"
+    translation:
+      en: "sack, bag"
+      ko: "자루, 가방"
+    gender: m
+    notes:
+      en: "gen. saccī; 2nd decl."
+      ko: "속격 saccī; 제2변화"
+  - latin: "dolium"
+    translation:
+      en: "large storage jar, vat"
+      ko: "대형 저장 항아리, 통"
+    gender: n
+    notes:
+      en: "gen. doliī; 2nd decl. neuter; sometimes built into ships"
+      ko: "속격 doliī; 제2변화 중성; 때로 배에 내장"
+  - latin: "statio"
+    translation:
+      en: "anchorage, station"
+      ko: "정박지, 역"
+    gender: f
+    notes:
+      en: "gen. statiōnis; 3rd decl."
+      ko: "속격 statiōnis; 제3변화"
+  - latin: "navarchus"
+    translation:
+      en: "ship captain, admiral"
+      ko: "선장, 제독"
+    gender: m
+    notes:
+      en: "gen. navarchī; 2nd decl.; Greek loanword"
+      ko: "속격 navarchī; 제2변화; 그리스어 차용어"
+  - latin: "proreta"
+    translation:
+      en: "bow officer, lookout"
+      ko: "선수 장교, 감시원"
+    gender: m
+    notes:
+      en: "gen. prōrētae; 1st decl.; stationed at the prow"
+      ko: "속격 prōrētae; 제1변화; 뱃머리에 배치"
+  - latin: "magister navis"
+    translation:
+      en: "ship master, captain"
+      ko: "선장"
+    gender: m
+    notes:
+      en: "2nd/3rd decl.; responsible for the ship"
+      ko: "제2/제3변화; 배에 대한 책임자"
+  - latin: "navicularius"
+    translation:
+      en: "shipowner, shipping agent"
+      ko: "선주, 해운업자"
+    gender: m
+    notes:
+      en: "gen. naviculāriī; 2nd decl."
+      ko: "속격 naviculāriī; 제2변화"
+  - latin: "cursus"
+    translation:
+      en: "voyage, route (sea)"
+      ko: "항해, 항로"
+    gender: m
+    notes:
+      en: "gen. cursūs; 4th decl."
+      ko: "속격 cursūs; 제4변화"
+  - latin: "itinera maritima"
+    translation:
+      en: "sea routes"
+      ko: "해상 항로"
+    gender: n
+    notes:
+      en: "3rd decl. neuter plural + adj."
+      ko: "제3변화 중성 복수 + 형용사"
+  - latin: "annona"
+    translation:
+      en: "grain supply (shipped to Rome)"
+      ko: "곡물 보급 (로마로 수송)"
+    gender: f
+    notes:
+      en: "gen. annōnae; 1st decl.; vital for feeding Rome"
+      ko: "속격 annōnae; 제1변화; 로마 식량 공급에 필수"
+  - latin: "frumentum"
+    translation:
+      en: "grain (shipped as cargo)"
+      ko: "곡물 (화물로 수송)"
+    gender: n
+    notes:
+      en: "gen. frūmentī; 2nd decl. neuter"
+      ko: "속격 frūmentī; 제2변화 중성"
+  - latin: "fabrica navalis"
+    translation:
+      en: "shipyard, naval workshop"
+      ko: "조선소, 해군 공방"
+    gender: f
+    notes:
+      en: "1st decl. + adj."
+      ko: "제1변화 + 형용사"
+  - latin: "pix"
+    translation:
+      en: "pitch, tar (for waterproofing)"
+      ko: "역청, 타르 (방수용)"
+    gender: f
+    notes:
+      en: "gen. picis; 3rd decl.; used to seal hull"
+      ko: "속격 picis; 제3변화; 선체 밀봉에 사용"
+  - latin: "stuppa"
+    translation:
+      en: "tow, caulking material"
+      ko: "삼, 충전재"
+    gender: f
+    notes:
+      en: "gen. stuppae; 1st decl.; used to waterproof seams"
+      ko: "속격 stuppae; 제1변화; 이음매 방수에 사용"
+  - latin: "classiarius"
+    translation:
+      en: "marine, sailor (military)"
+      ko: "해군 병사"
+    gender: m
+    notes:
+      en: "gen. classiāriī; 2nd decl."
+      ko: "속격 classiāriī; 제2변화"
+  - latin: "praefectus classis"
+    translation:
+      en: "fleet commander, admiral"
+      ko: "함대 사령관, 제독"
+    gender: m
+    notes:
+      en: "2nd/3rd decl.; commander of a fleet"
+      ko: "제2/제3변화; 함대 지휘관"
+  - latin: "Misenum"
+    translation:
+      en: "Misenum (main Roman naval base)"
+      ko: "미세눔 (로마 주요 해군 기지)"
+    gender: n
+    notes:
+      en: "gen. Mīsēnī; 2nd decl. neuter; on Bay of Naples"
+      ko: "속격 Mīsēnī; 제2변화 중성; 나폴리 만에 위치"
+  - latin: "Ravenna"
+    translation:
+      en: "Ravenna (eastern naval base)"
+      ko: "라벤나 (동부 해군 기지)"
+    gender: f
+    notes:
+      en: "gen. Ravennae; 1st decl.; Adriatic fleet base"
+      ko: "속격 Ravennae; 제1변화; 아드리아 해 함대 기지"
+  - latin: "trierarchus"
+    translation:
+      en: "captain of a trireme"
+      ko: "삼단 노선 선장"
+    gender: m
+    notes:
+      en: "gen. trierarchī; 2nd decl.; Greek loanword"
+      ko: "속격 trierarchī; 제2변화; 그리스어 차용어"
+  - latin: "celeusta"
+    translation:
+      en: "rowing master, boatswain"
+      ko: "노젓기 감독, 갑판장"
+    gender: m
+    notes:
+      en: "gen. celeustae; 1st decl.; kept time for rowers"
+      ko: "속격 celeustae; 제1변화; 노꾼들의 박자를 맞춤"
+  - latin: "sentina"
+    translation:
+      en: "bilge, bilge water"
+      ko: "선저, 고인 물"
+    gender: f
+    notes:
+      en: "gen. sentīnae; 1st decl.; had to be pumped out"
+      ko: "속격 sentīnae; 제1변화; 퍼내야 했음"
+  - latin: "antenna"
+    translation:
+      en: "yardarm, sail beam"
+      ko: "활대, 돛대 가로보"
+    gender: f
+    notes:
+      en: "gen. antennae; 1st decl.; crossbar for hanging sails"
+      ko: "속격 antennae; 제1변화; 돛을 거는 가로대"
+  - latin: "transtrum"
+    translation:
+      en: "rowing bench, thwart"
+      ko: "노꾼 좌석, 가로대"
+    gender: n
+    notes:
+      en: "gen. transtrī; 2nd decl. neuter"
+      ko: "속격 transtrī; 제2변화 중성"
+  - latin: "epibatae"
+    translation:
+      en: "marines (soldiers on ship)"
+      ko: "해병 (선상 병사)"
+    gender: m
+    notes:
+      en: "gen. epibatārum; 1st decl. plural; Greek loanword"
+      ko: "속격 epibatārum; 제1변화 복수; 그리스어 차용어"
+  - latin: "actuaria"
+    translation:
+      en: "light fast vessel"
+      ko: "경량 쾌속선"
+    gender: f
+    notes:
+      en: "gen. āctuāriae; 1st decl.; navis actuaria"
+      ko: "속격 āctuāriae; 제1변화; navis actuaria"
+  - latin: "corbita"
+    translation:
+      en: "slow cargo ship"
+      ko: "저속 화물선"
+    gender: f
+    notes:
+      en: "gen. corbitae; 1st decl.; round-hulled merchant vessel"
+      ko: "속격 corbitae; 제1변화; 둥근 선체의 상선"
+  - latin: "clavus"
+    translation:
+      en: "tiller, helm bar"
+      ko: "키 손잡이, 조타봉"
+    gender: m
+    notes:
+      en: "gen. clāvī; 2nd decl.; clavum tenere = 'to steer'"
+      ko: "속격 clāvī; 제2변화; clavum tenere = '조타하다'"
+  - latin: "promunturium"
+    translation:
+      en: "headland (navigation landmark)"
+      ko: "곶 (항해 표지)"
+    gender: n
+    notes:
+      en: "gen. prōmuntūriī; 2nd decl. neuter"
+      ko: "속격 prōmuntūriī; 제2변화 중성"
+  - latin: "mare clausum"
+    translation:
+      en: "closed sea (sailing season over)"
+      ko: "폐항 (항해 시즌 종료)"
+    gender: n
+    notes:
+      en: "Nov-Mar; too dangerous for navigation"
+      ko: "11-3월; 항해하기 너무 위험"
+  - latin: "mare apertum"
+    translation:
+      en: "open sea (sailing season)"
+      ko: "개항 (항해 시즌)"
+    gender: n
+    notes:
+      en: "Late spring to early autumn; safe for sailing"
+      ko: "늦봄부터 초가을; 항해에 안전"
+  - latin: "syrtes"
+    translation:
+      en: "sandbanks, shoals"
+      ko: "모래톱, 여울"
+    gender: f
+    notes:
+      en: "gen. syrtium; 3rd decl. plural; dangerous for ships"
+      ko: "속격 syrtium; 제3변화 복수; 선박에 위험"
+  - latin: "vortex"
+    translation:
+      en: "whirlpool, eddy"
+      ko: "소용돌이"
+    gender: m
+    notes:
+      en: "gen. vorticis; 3rd decl.; Charybdis was mythical vortex"
+      ko: "속격 vorticis; 제3변화; 카리브디스가 신화의 소용돌이"
+  - latin: "turris navis"
+    translation:
+      en: "ship tower (for archers)"
+      ko: "선상 탑 (궁수용)"
+    gender: f
+    notes:
+      en: "3rd decl. + 3rd decl.; elevated platform on warships"
+      ko: "제3변화 + 제3변화; 군함 위의 높은 플랫폼"
+  - latin: "naupegus"
+    translation:
+      en: "shipbuilder, shipwright"
+      ko: "조선공"
+    gender: m
+    notes:
+      en: "gen. naupegī; 2nd decl.; Greek loanword"
+      ko: "속격 naupegī; 제2변화; 그리스어 차용어"
+  - latin: "remigium"
+    translation:
+      en: "rowing, oarage (collective)"
+      ko: "노젓기, 노 장비 (집합)"
+    gender: n
+    notes:
+      en: "gen. rēmigiī; 2nd decl. neuter"
+      ko: "속격 rēmigiī; 제2변화 중성"
+  - latin: "aplustria"
+    translation:
+      en: "stern ornament, poop decoration"
+      ko: "선미 장식"
+    gender: n
+    notes:
+      en: "gen. aplūstriōrum; 2nd decl. neuter plural; curved ornament at stern"
+      ko: "속격 aplūstriōrum; 제2변화 중성 복수; 선미의 곡선 장식"
+  - latin: "trochlea"
+    translation:
+      en: "pulley, block (rigging)"
+      ko: "도르래, 활차 (삭구)"
+    gender: f
+    notes:
+      en: "gen. trochleae; 1st decl."
+      ko: "속격 trochleae; 제1변화"
+  - latin: "sabura"
+    translation:
+      en: "ballast (sand)"
+      ko: "밸러스트 (모래)"
+    gender: f
+    notes:
+      en: "gen. saburae; 1st decl.; sand used to stabilize ships"
+      ko: "속격 saburae; 제1변화; 선박 안정을 위한 모래"
+  - latin: "scopulus"
+    translation:
+      en: "rock, crag (hazard)"
+      ko: "바위, 암초 (위험물)"
+    gender: m
+    notes:
+      en: "gen. scopulī; 2nd decl.; navigational hazard"
+      ko: "속격 scopulī; 제2변화; 항해상 위험 요소"
+  - latin: "sextans"
+    translation:
+      en: "sixth part (of a cargo)"
+      ko: "6분의 1 (화물의)"
+    gender: m
+    notes:
+      en: "gen. sextantis; 3rd decl.; measure used in trade"
+      ko: "속격 sextantis; 제3변화; 무역에서 사용된 단위"
+  - latin: "celoces"
+    translation:
+      en: "fast scouting ships"
+      ko: "쾌속 정찰선"
+    gender: f
+    notes:
+      en: "gen. celocum; 3rd decl. plural; light dispatch vessels"
+      ko: "속격 celocum; 제3변화 복수; 경량 전령선"
+  - latin: "speculatoria navis"
+    translation:
+      en: "reconnaissance vessel"
+      ko: "정찰선"
+    gender: f
+    notes:
+      en: "3rd/1st decl.; small fast patrol ship"
+      ko: "제3/제1변화; 소형 쾌속 순찰선"
+  - latin: "ancora sacra"
+    translation:
+      en: "sacred anchor (last resort)"
+      ko: "신성한 닻 (최후 수단)"
+    gender: f
+    notes:
+      en: "1st decl. + adj.; dropped only in extreme emergency"
+      ko: "제1변화 + 형용사; 극한 비상 시에만 사용"
+  - latin: "procellosus"
+    translation:
+      en: "stormy, tempestuous"
+      ko: "폭풍의, 격렬한"
+    gender: m
+    notes:
+      en: "Adj. 2nd decl.; mare procellosum = 'stormy sea'"
+      ko: "형용사 제2변화; mare procellosum = '폭풍의 바다'"
+  - latin: "gubernare"
+    translation:
+      en: "to steer, to pilot (a ship)"
+      ko: "조타하다, (배를) 이끌다"
+    gender: n
+    notes:
+      en: "1st conj.; origin of English 'govern'"
+      ko: "제1활용; 영어 'govern'의 어원"
+  - latin: "deducere"
+    translation:
+      en: "to launch (a ship)"
+      ko: "(배를) 진수하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. dēdūxī; navem deducere"
+      ko: "제3활용; 완료 dēdūxī; navem deducere"
+  - latin: "reficere"
+    translation:
+      en: "to repair, to refit (a ship)"
+      ko: "수리하다, (배를) 재정비하다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. refēcī"
+      ko: "제3활용 (i-어간); 완료 refēcī"
+  - latin: "calafatare"
+    translation:
+      en: "to caulk (seal a hull)"
+      ko: "코킹하다 (선체를 밀봉하다)"
+    gender: n
+    notes:
+      en: "1st conj.; using pitch and tow"
+      ko: "제1활용; 역청과 삼을 사용하여"
