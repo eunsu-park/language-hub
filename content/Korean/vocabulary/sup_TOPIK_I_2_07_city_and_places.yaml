@@ -1,0 +1,1391 @@
+lesson: supplementary
+lesson_number: 113
+topik: TOPIK_I_2
+type: supplementary
+topic: "City and Places"
+
+categories:
+- id: buildings
+  label:
+    en: "Buildings"
+    ko: "건물"
+  type: vocabulary
+  words:
+  - korean: 건물
+    reading: null
+    translation:
+      en: "building"
+      ko: "사람이 쓰기 위해 지은 구조물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 建(build) + 物(thing)"
+      ko: "한자어: 建(세울 건) + 物(물건 물)"
+  - korean: 아파트
+    reading: null
+    translation:
+      en: "apartment"
+      ko: "여러 층으로 된 주택"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English; most common housing in Korea"
+      ko: "외래어; 한국에서 가장 흔한 주거 형태"
+  - korean: 빌딩
+    reading: null
+    translation:
+      en: "building (high-rise)"
+      ko: "높은 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English; usually refers to office buildings"
+      ko: "외래어; 주로 사무용 건물을 가리킴"
+  - korean: 오피스텔
+    reading: null
+    translation:
+      en: "officetel (office + hotel hybrid)"
+      ko: "사무실과 주거를 겸하는 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean-coined: office + hotel; unique housing type"
+      ko: "한국식 조어: 오피스 + 호텔"
+  - korean: 주택
+    reading: null
+    translation:
+      en: "house, residence"
+      ko: "사람이 사는 집"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 住(live) + 宅(house)"
+      ko: "한자어: 住(살 주) + 宅(집 택)"
+  - korean: 상가
+    reading: null
+    translation:
+      en: "commercial building, shopping complex"
+      ko: "가게들이 모여 있는 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 商(commerce) + 街(street)"
+      ko: "한자어: 商(장사 상) + 街(거리 가)"
+  - korean: 교회
+    reading: null
+    translation:
+      en: "church"
+      ko: "기독교 예배 장소"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 敎(teach) + 會(meeting)"
+      ko: "한자어: 敎(가르칠 교) + 會(모일 회)"
+  - korean: 절
+    reading: null
+    translation:
+      en: "Buddhist temple"
+      ko: "불교 사원"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 성당
+    reading: null
+    translation:
+      en: "Catholic cathedral/church"
+      ko: "천주교 예배 장소"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 聖(holy) + 堂(hall)"
+      ko: "한자어: 聖(거룩할 성) + 堂(집 당)"
+  - korean: 탑
+    reading: null
+    translation:
+      en: "tower, pagoda"
+      ko: "높이 쌓은 구조물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 塔(tower)"
+      ko: "한자어: 塔(탑 탑)"
+  - korean: 호텔
+    reading: null
+    translation:
+      en: "hotel"
+      ko: "숙박 시설"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 모텔
+    reading: null
+    translation:
+      en: "motel"
+      ko: "작은 숙박 시설"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+
+- id: public_places
+  label:
+    en: "Public Places"
+    ko: "공공 장소"
+  type: vocabulary
+  words:
+  - korean: 시청
+    reading: null
+    translation:
+      en: "city hall"
+      ko: "시의 행정 기관"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 市(city) + 廳(hall)"
+      ko: "한자어: 市(저자 시) + 廳(관청 청)"
+  - korean: 구청
+    reading: null
+    translation:
+      en: "district office"
+      ko: "구의 행정 기관"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 區(district) + 廳(hall)"
+      ko: "한자어: 區(구역 구) + 廳(관청 청)"
+  - korean: 동사무소
+    reading: null
+    translation:
+      en: "community service center"
+      ko: "동의 행정 기관"
+    gender: null
+    plural: null
+    notes:
+      en: "Now called 주민센터; Sino-Korean: 洞(neighborhood) + 事務所(office)"
+      ko: "현재는 주민센터로 불림; 한자어: 洞(골 동) + 事務所(사무소)"
+  - korean: 경찰서
+    reading: null
+    translation:
+      en: "police station"
+      ko: "경찰이 있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 警察(police) + 署(office)"
+      ko: "한자어: 警察(경찰) + 署(관청 서)"
+  - korean: 소방서
+    reading: null
+    translation:
+      en: "fire station"
+      ko: "소방관이 있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 消防(firefighting) + 署(office)"
+      ko: "한자어: 消防(소방) + 署(관청 서)"
+  - korean: 우체국
+    reading: null
+    translation:
+      en: "post office"
+      ko: "우편물을 보내는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 郵遞(postal) + 局(office)"
+      ko: "한자어: 郵遞(우편) + 局(집 국)"
+  - korean: 은행
+    reading: null
+    translation:
+      en: "bank"
+      ko: "돈을 맡기거나 빌리는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 銀(silver) + 行(business)"
+      ko: "한자어: 銀(은 은) + 行(다닐 행)"
+  - korean: 도서관
+    reading: null
+    translation:
+      en: "library"
+      ko: "책을 빌려주는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 圖(map) + 書(book) + 館(building)"
+      ko: "한자어: 圖(그림 도) + 書(글 서) + 館(집 관)"
+  - korean: 공원
+    reading: null
+    translation:
+      en: "park"
+      ko: "쉬거나 놀 수 있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 公(public) + 園(garden)"
+      ko: "한자어: 公(공정할 공) + 園(동산 원)"
+  - korean: 놀이터
+    reading: null
+    translation:
+      en: "playground"
+      ko: "아이들이 노는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "놀이 (play) + 터 (ground)"
+      ko: "놀이 + 터"
+  - korean: 체육관
+    reading: null
+    translation:
+      en: "gymnasium"
+      ko: "운동하는 건물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 體育(physical education) + 館(building)"
+      ko: "한자어: 體育(체육) + 館(집 관)"
+  - korean: 미술관
+    reading: null
+    translation:
+      en: "art museum, gallery"
+      ko: "미술 작품을 전시하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 美術(art) + 館(building)"
+      ko: "한자어: 美術(미술) + 館(집 관)"
+  - korean: 박물관
+    reading: null
+    translation:
+      en: "museum"
+      ko: "유물이나 자료를 전시하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 博(broad) + 物(thing) + 館(building)"
+      ko: "한자어: 博(넓을 박) + 物(물건 물) + 館(집 관)"
+  - korean: 극장
+    reading: null
+    translation:
+      en: "theater"
+      ko: "연극이나 영화를 보는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 劇(drama) + 場(place)"
+      ko: "한자어: 劇(연극 극) + 場(마당 장)"
+  - korean: 광장
+    reading: null
+    translation:
+      en: "plaza, square"
+      ko: "넓은 열린 공간"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 廣(wide) + 場(place)"
+      ko: "한자어: 廣(넓을 광) + 場(마당 장)"
+  - korean: 문화센터
+    reading: null
+    translation:
+      en: "cultural center"
+      ko: "문화 활동을 하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "문화 (culture) + 센터 (center)"
+      ko: "문화(文化) + 센터"
+
+- id: commercial
+  label:
+    en: "Commercial Places"
+    ko: "상업 시설"
+  type: vocabulary
+  words:
+  - korean: 시장
+    reading: null
+    translation:
+      en: "market"
+      ko: "물건을 사고파는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 市(market) + 場(place)"
+      ko: "한자어: 市(저자 시) + 場(마당 장)"
+  - korean: 쇼핑몰
+    reading: null
+    translation:
+      en: "shopping mall"
+      ko: "큰 쇼핑 공간"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 백화점
+    reading: null
+    translation:
+      en: "department store"
+      ko: "여러 종류의 물건을 파는 큰 가게"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 百(hundred) + 貨(goods) + 店(shop)"
+      ko: "한자어: 百(일백 백) + 貨(물건 화) + 店(가게 점)"
+  - korean: 편의점
+    reading: null
+    translation:
+      en: "convenience store"
+      ko: "24시간 여는 작은 가게"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 便宜(convenience) + 店(shop)"
+      ko: "한자어: 便宜(편의) + 店(가게 점)"
+  - korean: 마트
+    reading: null
+    translation:
+      en: "mart, supermarket"
+      ko: "큰 식료품 가게"
+    gender: null
+    plural: null
+    notes:
+      en: "Shortened from 'supermarket'"
+      ko: "슈퍼마켓의 줄임말"
+  - korean: 대형마트
+    reading: null
+    translation:
+      en: "large supermarket, hypermarket"
+      ko: "매우 큰 마트"
+    gender: null
+    plural: null
+    notes:
+      en: "대형 (large) + 마트 (mart)"
+      ko: "대형(大型) + 마트"
+  - korean: 약국
+    reading: null
+    translation:
+      en: "pharmacy"
+      ko: "약을 파는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 藥(medicine) + 局(office)"
+      ko: "한자어: 藥(약 약) + 局(집 국)"
+  - korean: 세탁소
+    reading: null
+    translation:
+      en: "laundry, dry cleaners"
+      ko: "빨래를 맡기는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 洗濯(laundry) + 所(place)"
+      ko: "한자어: 洗濯(세탁) + 所(곳 소)"
+  - korean: 미용실
+    reading: null
+    translation:
+      en: "beauty salon, hair salon"
+      ko: "머리를 다듬는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 美容(beauty) + 室(room)"
+      ko: "한자어: 美容(미용) + 室(방 실)"
+  - korean: 이발소
+    reading: null
+    translation:
+      en: "barbershop"
+      ko: "남자 머리를 깎는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 理髮(haircut) + 所(place)"
+      ko: "한자어: 理髮(이발) + 所(곳 소)"
+  - korean: 주유소
+    reading: null
+    translation:
+      en: "gas station"
+      ko: "기름을 넣는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 注油(refuel) + 所(place)"
+      ko: "한자어: 注油(주유) + 所(곳 소)"
+  - korean: 주차장
+    reading: null
+    translation:
+      en: "parking lot"
+      ko: "차를 세우는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 駐車(parking) + 場(place)"
+      ko: "한자어: 駐車(주차) + 場(마당 장)"
+  - korean: 카페
+    reading: null
+    translation:
+      en: "cafe, coffee shop"
+      ko: "커피를 마시는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from French; extremely popular in Korea"
+      ko: "프랑스어에서 온 외래어; 한국에서 매우 인기"
+  - korean: 빵집
+    reading: null
+    translation:
+      en: "bakery"
+      ko: "빵을 만들어 파는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "빵 (bread, from Portuguese 'pão') + 집 (house/shop)"
+      ko: "빵(외래어) + 집"
+  - korean: 꽃집
+    reading: null
+    translation:
+      en: "flower shop"
+      ko: "꽃을 파는 가게"
+    gender: null
+    plural: null
+    notes:
+      en: "꽃 (flower) + 집 (house/shop)"
+      ko: "꽃 + 집"
+  - korean: 문구점
+    reading: null
+    translation:
+      en: "stationery store"
+      ko: "학용품을 파는 가게"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 文具(stationery) + 店(shop)"
+      ko: "한자어: 文具(문구) + 店(가게 점)"
+
+- id: urban_features
+  label:
+    en: "Urban Features"
+    ko: "도시 시설"
+  type: vocabulary
+  words:
+  - korean: 도시
+    reading: null
+    translation:
+      en: "city"
+      ko: "사람이 많이 사는 큰 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 都(capital) + 市(city)"
+      ko: "한자어: 都(도읍 도) + 市(저자 시)"
+  - korean: 마을
+    reading: null
+    translation:
+      en: "village, town"
+      ko: "작은 지역 사회"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 도로
+    reading: null
+    translation:
+      en: "road"
+      ko: "차가 다니는 길"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 道(way) + 路(road)"
+      ko: "한자어: 道(길 도) + 路(길 로)"
+  - korean: 골목
+    reading: null
+    translation:
+      en: "alley, narrow street"
+      ko: "좁은 길"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 사거리
+    reading: null
+    translation:
+      en: "four-way intersection"
+      ko: "네 갈래로 나뉜 길"
+    gender: null
+    plural: null
+    notes:
+      en: "사 (four) + 거리 (street/intersection)"
+      ko: "사(四) + 거리"
+  - korean: 횡단보도
+    reading: null
+    translation:
+      en: "crosswalk, pedestrian crossing"
+      ko: "사람이 건너가는 길"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 橫斷(cross) + 步道(walkway)"
+      ko: "한자어: 橫斷(횡단) + 步道(보도)"
+  - korean: 신호등
+    reading: null
+    translation:
+      en: "traffic light"
+      ko: "교통 신호를 보내는 등"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 信號(signal) + 燈(light)"
+      ko: "한자어: 信號(신호) + 燈(등 등)"
+  - korean: 지하도
+    reading: null
+    translation:
+      en: "underground passage"
+      ko: "땅 아래의 통로"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 地下(underground) + 道(way)"
+      ko: "한자어: 地下(지하) + 道(길 도)"
+  - korean: 육교
+    reading: null
+    translation:
+      en: "overpass, footbridge"
+      ko: "길 위를 건너는 다리"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 陸(land) + 橋(bridge)"
+      ko: "한자어: 陸(뭍 육) + 橋(다리 교)"
+  - korean: 공항
+    reading: null
+    translation:
+      en: "airport"
+      ko: "비행기가 뜨고 내리는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 空(air) + 港(port)"
+      ko: "한자어: 空(빌 공) + 港(항구 항)"
+  - korean: 항구
+    reading: null
+    translation:
+      en: "port, harbor"
+      ko: "배가 드나드는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 港(port) + 口(mouth)"
+      ko: "한자어: 港(항구 항) + 口(입 구)"
+  - korean: 역
+    reading: null
+    translation:
+      en: "station (train/subway)"
+      ko: "기차나 지하철이 서는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 驛(station)"
+      ko: "한자어: 驛(역참 역)"
+  - korean: 정류장
+    reading: null
+    translation:
+      en: "bus stop"
+      ko: "버스가 서는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 停留(stop) + 場(place)"
+      ko: "한자어: 停留(정류) + 場(마당 장)"
+  - korean: 터미널
+    reading: null
+    translation:
+      en: "terminal (bus)"
+      ko: "버스가 출발하고 도착하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 다리
+    reading: null
+    translation:
+      en: "bridge"
+      ko: "강이나 길을 건너는 구조물"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word; also means 'leg'"
+      ko: "고유어; '다리(leg)'의 뜻도 있음"
+  - korean: 분수대
+    reading: null
+    translation:
+      en: "fountain"
+      ko: "물이 솟아오르는 장식"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 噴水(fountain) + 臺(stand)"
+      ko: "한자어: 噴水(분수) + 臺(대 대)"
+  - korean: 벤치
+    reading: null
+    translation:
+      en: "bench"
+      ko: "앉는 긴 의자"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 가로등
+    reading: null
+    translation:
+      en: "streetlight"
+      ko: "길가에 있는 등"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 街路(street) + 燈(light)"
+      ko: "한자어: 街路(가로) + 燈(등 등)"
+  - korean: 쓰레기통
+    reading: null
+    translation:
+      en: "trash can"
+      ko: "쓰레기를 버리는 통"
+    gender: null
+    plural: null
+    notes:
+      en: "쓰레기 (trash) + 통 (container)"
+      ko: "쓰레기 + 통"
+  - korean: 우편함
+    reading: null
+    translation:
+      en: "mailbox"
+      ko: "편지를 넣는 상자"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 郵便(postal) + 函(box)"
+      ko: "한자어: 郵便(우편) + 函(함 함)"
+  - korean: 지하철
+    reading: null
+    translation:
+      en: "subway, metro"
+      ko: "땅 아래를 다니는 전철"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 地下(underground) + 鐵(iron)"
+      ko: "한자어: 地下(지하) + 鐵(쇠 철)"
+  - korean: 버스 정류장
+    reading: null
+    translation:
+      en: "bus stop"
+      ko: "버스가 서는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "버스 (bus) + 정류장 (stop)"
+      ko: "버스 + 정류장(停留場)"
+  - korean: 택시 승강장
+    reading: null
+    translation:
+      en: "taxi stand"
+      ko: "택시를 타는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "택시 (taxi) + 승강장 (platform)"
+      ko: "택시 + 승강장(乘降場)"
+  - korean: 고속도로
+    reading: null
+    translation:
+      en: "highway, expressway"
+      ko: "빠르게 달리는 큰 도로"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 高速(high speed) + 道路(road)"
+      ko: "한자어: 高速(고속) + 道路(도로)"
+  - korean: 인도
+    reading: null
+    translation:
+      en: "sidewalk, pavement"
+      ko: "사람이 걷는 길"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 人(person) + 道(way)"
+      ko: "한자어: 人(사람 인) + 道(길 도)"
+  - korean: 차도
+    reading: null
+    translation:
+      en: "roadway, carriageway"
+      ko: "차가 다니는 길"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 車(vehicle) + 道(way)"
+      ko: "한자어: 車(수레 거) + 道(길 도)"
+
+- id: directions_navigation
+  label:
+    en: "Directions and Navigation"
+    ko: "방향과 길 찾기"
+  type: vocabulary
+  words:
+  - korean: 위치
+    reading: null
+    translation:
+      en: "location, position"
+      ko: "있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 位(position) + 置(place)"
+      ko: "한자어: 位(자리 위) + 置(둘 치)"
+  - korean: 주소
+    reading: null
+    translation:
+      en: "address"
+      ko: "살거나 있는 곳의 이름"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 住(live) + 所(place)"
+      ko: "한자어: 住(살 주) + 所(곳 소)"
+  - korean: 지도
+    reading: null
+    translation:
+      en: "map"
+      ko: "땅의 모양을 그린 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 地(earth) + 圖(picture)"
+      ko: "한자어: 地(땅 지) + 圖(그림 도)"
+  - korean: 내비게이션
+    reading: null
+    translation:
+      en: "GPS navigation"
+      ko: "길을 안내하는 장치"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English; often shortened to 내비"
+      ko: "외래어; 줄여서 내비"
+  - korean: 방향
+    reading: null
+    translation:
+      en: "direction"
+      ko: "가는 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 方(direction) + 向(face)"
+      ko: "한자어: 方(방향 방) + 向(향할 향)"
+  - korean: 동쪽
+    reading: null
+    translation:
+      en: "east"
+      ko: "해가 뜨는 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 東(east) + 쪽 (side)"
+      ko: "동(東) + 쪽"
+  - korean: 서쪽
+    reading: null
+    translation:
+      en: "west"
+      ko: "해가 지는 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 西(west) + 쪽 (side)"
+      ko: "서(西) + 쪽"
+  - korean: 남쪽
+    reading: null
+    translation:
+      en: "south"
+      ko: "아래쪽 방향"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 南(south) + 쪽 (side)"
+      ko: "남(南) + 쪽"
+  - korean: 북쪽
+    reading: null
+    translation:
+      en: "north"
+      ko: "위쪽 방향"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 北(north) + 쪽 (side)"
+      ko: "북(北) + 쪽"
+  - korean: 오른쪽
+    reading: null
+    translation:
+      en: "right side"
+      ko: "오른손 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean: 오른 (right) + 쪽 (side)"
+      ko: "고유어: 오른 + 쪽"
+  - korean: 왼쪽
+    reading: null
+    translation:
+      en: "left side"
+      ko: "왼손 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean: 왼 (left) + 쪽 (side)"
+      ko: "고유어: 왼 + 쪽"
+  - korean: 직진
+    reading: null
+    translation:
+      en: "go straight"
+      ko: "앞으로 똑바로 가는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 直(straight) + 進(advance)"
+      ko: "한자어: 直(곧을 직) + 進(나아갈 진)"
+  - korean: 좌회전
+    reading: null
+    translation:
+      en: "left turn"
+      ko: "왼쪽으로 도는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 左(left) + 回轉(turn)"
+      ko: "한자어: 左(왼 좌) + 回轉(회전)"
+  - korean: 우회전
+    reading: null
+    translation:
+      en: "right turn"
+      ko: "오른쪽으로 도는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 右(right) + 回轉(turn)"
+      ko: "한자어: 右(오른 우) + 回轉(회전)"
+  - korean: 유턴
+    reading: null
+    translation:
+      en: "U-turn"
+      ko: "되돌아가는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 맞은편
+    reading: null
+    translation:
+      en: "opposite side, across"
+      ko: "건너편"
+    gender: null
+    plural: null
+    notes:
+      en: "맞은 (facing) + 편 (side)"
+      ko: "맞은 + 편"
+  - korean: 옆
+    reading: null
+    translation:
+      en: "beside, next to"
+      ko: "가까이 있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 앞
+    reading: null
+    translation:
+      en: "front"
+      ko: "얼굴이 향하는 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 뒤
+    reading: null
+    translation:
+      en: "back, behind"
+      ko: "등이 향하는 쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 근처
+    reading: null
+    translation:
+      en: "nearby, vicinity"
+      ko: "가까운 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 近(near) + 處(place)"
+      ko: "한자어: 近(가까울 근) + 處(곳 처)"
+  - korean: 거리
+    reading: null
+    translation:
+      en: "street; distance"
+      ko: "길; 두 곳 사이의 간격"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word; dual meaning"
+      ko: "고유어; 두 가지 뜻"
+  - korean: 골목길
+    reading: null
+    translation:
+      en: "alleyway"
+      ko: "좁은 골목 사이의 길"
+    gender: null
+    plural: null
+    notes:
+      en: "골목 (alley) + 길 (road)"
+      ko: "골목 + 길"
+  - korean: 대로
+    reading: null
+    translation:
+      en: "main road, boulevard"
+      ko: "큰 도로"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 大(big) + 路(road)"
+      ko: "한자어: 大(큰 대) + 路(길 로)"
+  - korean: 교차로
+    reading: null
+    translation:
+      en: "intersection"
+      ko: "길이 만나는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 交差(intersect) + 路(road)"
+      ko: "한자어: 交差(교차) + 路(길 로)"
+  - korean: 삼거리
+    reading: null
+    translation:
+      en: "three-way intersection"
+      ko: "세 갈래로 나뉜 길"
+    gender: null
+    plural: null
+    notes:
+      en: "삼 (three) + 거리 (intersection)"
+      ko: "삼(三) + 거리"
+  - korean: 로터리
+    reading: null
+    translation:
+      en: "roundabout, rotary"
+      ko: "원형 교차로"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 지하상가
+    reading: null
+    translation:
+      en: "underground shopping area"
+      ko: "땅 아래에 있는 상가"
+    gender: null
+    plural: null
+    notes:
+      en: "지하 (underground) + 상가 (shopping area)"
+      ko: "지하(地下) + 상가(商街)"
+  - korean: 번화가
+    reading: null
+    translation:
+      en: "downtown, busy street"
+      ko: "사람이 많고 활기찬 거리"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 繁華(prosperous) + 街(street)"
+      ko: "한자어: 繁華(번화) + 街(거리 가)"
+  - korean: 주택가
+    reading: null
+    translation:
+      en: "residential area"
+      ko: "집이 많은 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 住宅(residence) + 街(area)"
+      ko: "한자어: 住宅(주택) + 街(거리 가)"
+  - korean: 상업 지구
+    reading: null
+    translation:
+      en: "commercial district"
+      ko: "가게가 많은 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "상업 (commerce) + 지구 (district)"
+      ko: "상업(商業) + 지구(地區)"
+  - korean: 공업 지역
+    reading: null
+    translation:
+      en: "industrial area"
+      ko: "공장이 많은 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "공업 (industry) + 지역 (area)"
+      ko: "공업(工業) + 지역(地域)"
+  - korean: 신도시
+    reading: null
+    translation:
+      en: "new town, new city"
+      ko: "새로 만든 도시"
+    gender: null
+    plural: null
+    notes:
+      en: "신 (new) + 도시 (city); common urban development in Korea"
+      ko: "신(新) + 도시; 한국의 일반적인 도시 개발"
+  - korean: 구도심
+    reading: null
+    translation:
+      en: "old downtown, old city center"
+      ko: "오래된 도시 중심"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 舊(old) + 都心(city center)"
+      ko: "한자어: 舊(옛 구) + 都心(도심)"
+  - korean: 재개발
+    reading: null
+    translation:
+      en: "redevelopment"
+      ko: "낡은 지역을 새로 개발하는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 再(again) + 開發(development)"
+      ko: "한자어: 再(다시 재) + 開發(개발)"
+  - korean: 아파트 단지
+    reading: null
+    translation:
+      en: "apartment complex"
+      ko: "아파트가 모여 있는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "아파트 (apartment) + 단지 (complex)"
+      ko: "아파트 + 단지(團地)"
+  - korean: 엘리베이터
+    reading: null
+    translation:
+      en: "elevator"
+      ko: "위아래로 움직이는 장치"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 에스컬레이터
+    reading: null
+    translation:
+      en: "escalator"
+      ko: "움직이는 계단"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 출입구
+    reading: null
+    translation:
+      en: "entrance/exit"
+      ko: "들어가고 나오는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 出(exit) + 入(enter) + 口(mouth)"
+      ko: "한자어: 出(날 출) + 入(들 입) + 口(입 구)"
+  - korean: 비상구
+    reading: null
+    translation:
+      en: "emergency exit"
+      ko: "위급할 때 나가는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 非常(emergency) + 口(exit)"
+      ko: "한자어: 非常(비상) + 口(입 구)"
+  - korean: 화장실
+    reading: null
+    translation:
+      en: "restroom, bathroom"
+      ko: "용변을 보는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 化粧(makeup) + 室(room)"
+      ko: "한자어: 化粧(화장) + 室(방 실)"
+  - korean: 안내소
+    reading: null
+    translation:
+      en: "information center"
+      ko: "안내를 해 주는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 案內(guide) + 所(place)"
+      ko: "한자어: 案內(안내) + 所(곳 소)"
+  - korean: 지하
+    reading: null
+    translation:
+      en: "underground, basement"
+      ko: "땅 아래"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 地(earth) + 下(below)"
+      ko: "한자어: 地(땅 지) + 下(아래 하)"
+  - korean: 옥상
+    reading: null
+    translation:
+      en: "rooftop"
+      ko: "건물의 꼭대기"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 屋(house) + 上(top)"
+      ko: "한자어: 屋(집 옥) + 上(위 상)"
+  - korean: 층
+    reading: null
+    translation:
+      en: "floor, story"
+      ko: "건물의 높이 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 層(layer)"
+      ko: "한자어: 層(층 층)"
+  - korean: 지하 주차장
+    reading: null
+    translation:
+      en: "underground parking"
+      ko: "땅 아래에 있는 주차장"
+    gender: null
+    plural: null
+    notes:
+      en: "지하 (underground) + 주차장 (parking lot)"
+      ko: "지하 + 주차장"
+  - korean: 놀이공원
+    reading: null
+    translation:
+      en: "amusement park"
+      ko: "놀이 기구가 있는 공원"
+    gender: null
+    plural: null
+    notes:
+      en: "놀이 (play) + 공원 (park)"
+      ko: "놀이 + 공원"
+  - korean: 동물원
+    reading: null
+    translation:
+      en: "zoo"
+      ko: "동물을 모아 놓은 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 動物(animal) + 園(garden)"
+      ko: "한자어: 動物(동물) + 園(동산 원)"
+  - korean: 수족관
+    reading: null
+    translation:
+      en: "aquarium"
+      ko: "물고기를 모아 놓은 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 水(water) + 族(group) + 館(building)"
+      ko: "한자어: 水(물 수) + 族(겨레 족) + 館(집 관)"
+  - korean: 식물원
+    reading: null
+    translation:
+      en: "botanical garden"
+      ko: "식물을 모아 놓은 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 植物(plant) + 園(garden)"
+      ko: "한자어: 植物(식물) + 園(동산 원)"
+  - korean: 유적지
+    reading: null
+    translation:
+      en: "historical site"
+      ko: "역사적으로 중요한 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 遺跡(ruins) + 地(land)"
+      ko: "한자어: 遺跡(유적) + 地(땅 지)"
+  - korean: 관광지
+    reading: null
+    translation:
+      en: "tourist attraction"
+      ko: "관광객이 많이 찾는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 觀光(tourism) + 地(land)"
+      ko: "한자어: 觀光(관광) + 地(땅 지)"
+  - korean: 명소
+    reading: null
+    translation:
+      en: "famous place, landmark"
+      ko: "이름난 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 名(famous) + 所(place)"
+      ko: "한자어: 名(이름 명) + 所(곳 소)"
+  - korean: 시골
+    reading: null
+    translation:
+      en: "countryside, rural area"
+      ko: "도시가 아닌 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Native Korean word"
+      ko: "고유어"
+  - korean: 교외
+    reading: null
+    translation:
+      en: "suburb"
+      ko: "도시 바깥 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 郊(outskirts) + 外(outside)"
+      ko: "한자어: 郊(들 교) + 外(바깥 외)"
+  - korean: 도심
+    reading: null
+    translation:
+      en: "city center, downtown"
+      ko: "도시의 중심 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 都(capital) + 心(heart)"
+      ko: "한자어: 都(도읍 도) + 心(마음 심)"
+  - korean: 구
+    reading: null
+    translation:
+      en: "district (administrative)"
+      ko: "도시를 나눈 행정 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 區(district)"
+      ko: "한자어: 區(구역 구)"
+  - korean: 동
+    reading: null
+    translation:
+      en: "neighborhood (administrative)"
+      ko: "구를 나눈 작은 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 洞(neighborhood)"
+      ko: "한자어: 洞(골 동)"
+  - korean: 시
+    reading: null
+    translation:
+      en: "city (administrative)"
+      ko: "행정 구역의 도시 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 市(city)"
+      ko: "한자어: 市(저자 시)"
+  - korean: 군
+    reading: null
+    translation:
+      en: "county"
+      ko: "시골 지역의 행정 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 郡(county)"
+      ko: "한자어: 郡(고을 군)"
+  - korean: 도
+    reading: null
+    translation:
+      en: "province"
+      ko: "큰 행정 구역 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 道(province)"
+      ko: "한자어: 道(길 도)"
+  - korean: 특별시
+    reading: null
+    translation:
+      en: "special city (e.g. Seoul)"
+      ko: "특별한 지위의 도시"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 特別(special) + 市(city)"
+      ko: "한자어: 特別(특별) + 市(저자 시)"
+  - korean: 광역시
+    reading: null
+    translation:
+      en: "metropolitan city"
+      ko: "큰 도시의 행정 단위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 廣域(wide area) + 市(city)"
+      ko: "한자어: 廣域(광역) + 市(저자 시)"
+  - korean: 한강
+    reading: null
+    translation:
+      en: "Han River"
+      ko: "서울을 가로지르는 강"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 漢(Han) + 江(river)"
+      ko: "한자어: 漢(한수 한) + 江(강 강)"
+  - korean: 강남
+    reading: null
+    translation:
+      en: "Gangnam (south of Han River)"
+      ko: "한강 남쪽 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 江(river) + 南(south); famous Seoul district"
+      ko: "한자어: 江(강 강) + 南(남녘 남); 유명한 서울 지역"
+  - korean: 강북
+    reading: null
+    translation:
+      en: "Gangbuk (north of Han River)"
+      ko: "한강 북쪽 지역"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 江(river) + 北(north)"
+      ko: "한자어: 江(강 강) + 北(북녘 북)"
