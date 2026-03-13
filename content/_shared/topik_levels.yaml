@@ -1,0 +1,59 @@
+framework: TOPIK
+full_name:
+  en: "Test of Proficiency in Korean"
+  ko: "한국어능력시험"
+
+levels:
+  TOPIK_I_1:
+    label:
+      en: "Beginner"
+      ko: "입문"
+    description:
+      en: "Can perform basic language functions necessary for daily life such as greeting, shopping, and ordering food. Can understand and produce simple sentences related to personal and familiar topics."
+      ko: "인사, 쇼핑, 음식 주문 등 일상생활에 필요한 기본적인 언어 기능을 수행할 수 있다. 개인적이고 친숙한 주제에 관한 간단한 문장을 이해하고 생성할 수 있다."
+    color: "#28a745"
+
+  TOPIK_I_2:
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Can carry out daily routines such as making phone calls, asking favors, and using public facilities. Can understand and use expressions related to personal interests such as family, hobbies, and travel."
+      ko: "전화하기, 부탁하기, 공공시설 이용 등 일상생활에 필요한 기능을 수행할 수 있다. 가족, 취미, 여행 등 개인적 관심사에 관련된 표현을 이해하고 사용할 수 있다."
+    color: "#5cb85c"
+
+  TOPIK_II_3:
+    label:
+      en: "Intermediate"
+      ko: "중급"
+    description:
+      en: "Can perform most daily life functions and maintain social relationships. Can understand and produce texts on familiar and concrete topics in paragraph form."
+      ko: "일상생활을 문제없이 영위하며 사회적 관계를 유지할 수 있다. 친숙하고 구체적인 주제에 대한 글을 문단 단위로 이해하고 생성할 수 있다."
+    color: "#f0ad4e"
+
+  TOPIK_II_4:
+    label:
+      en: "Upper Intermediate"
+      ko: "중상급"
+    description:
+      en: "Can use Korean needed for work and academic contexts. Can understand news articles, lectures, and discussions on social and abstract topics."
+      ko: "업무와 학술적 맥락에서 필요한 한국어를 사용할 수 있다. 뉴스 기사, 강연, 토론 등 사회적·추상적 주제를 이해할 수 있다."
+    color: "#ff8c00"
+
+  TOPIK_II_5:
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Can use Korean relatively fluently in professional and academic contexts. Can understand and produce complex texts on unfamiliar topics including politics, economics, and culture."
+      ko: "전문 분야와 학술적 맥락에서 비교적 유창하게 한국어를 사용할 수 있다. 정치, 경제, 문화 등 낯선 주제에 관한 복잡한 글을 이해하고 생성할 수 있다."
+    color: "#d9534f"
+
+  TOPIK_II_6:
+    label:
+      en: "Mastery"
+      ko: "최상급"
+    description:
+      en: "Can use Korean accurately and fluently in any context. Can express meaning precisely even on unfamiliar topics and demonstrates near-native proficiency in specialized fields."
+      ko: "어떤 상황에서든 한국어를 정확하고 유창하게 사용할 수 있다. 낯선 주제에 대해서도 의미를 정확히 전달할 수 있으며, 전문 분야에서 원어민에 가까운 능력을 갖추고 있다."
+    color: "#c9302c"
