@@ -1,0 +1,548 @@
+lesson: 19_Ablative_Absolute_and_Advanced_Constructions
+lesson_number: 19
+cefr: B2
+categories:
+- id: 191_ablative_absolute_phrases
+  label:
+    en: 19.1 Ablative Absolute Phrases
+    ko: 19.1 탈격 독립 구문 어구
+  type: vocabulary
+  words:
+  - latin: dux
+    translation:
+      en: leader, general, guide
+      ko: 지도자, 장군, 안내자
+    gender: m
+    notes:
+      en: "gen. ducis; 3rd decl.; Caesare duce = 'with Caesar as leader'"
+      ko: "속격 ducis; 제3변화; Caesare duce = '카이사르가 지도자로서'"
+  - latin: auctor
+    translation:
+      en: author, originator, advisor
+      ko: 저자, 창시자, 조언자
+    gender: m
+    notes:
+      en: "gen. auctōris; 3rd decl.; auctōre senātū = 'on the authority of the senate'"
+      ko: "속격 auctōris; 제3변화; auctōre senātū = '원로원의 권위로'"
+  - latin: condere
+    translation:
+      en: to found, to establish, to store
+      ko: 세우다, 창건하다, 저장하다
+    gender: null
+    notes:
+      en: "3rd conj.; condō, condere, condidī, conditum; urbe conditā = 'with the city having been founded'"
+      ko: "제3활용; condō, condere, condidī, conditum; urbe conditā = '도시가 세워진 후'"
+  - latin: oriri
+    translation:
+      en: to rise, to arise, to be born
+      ko: 떠오르다, 일어나다, 태어나다
+    gender: null
+    notes:
+      en: "4th conj. deponent; orior, orīrī, ortus sum; sōle oriente = 'with the sun rising'"
+      ko: "제4활용 탈형 동사; orior, orīrī, ortus sum; sōle oriente = '해가 뜰 때'"
+  - latin: conficere
+    translation:
+      en: to finish, to accomplish, to exhaust
+      ko: 완수하다, 달성하다, 지치게 하다
+    gender: null
+    notes:
+      en: "3rd conj. -iō; cōnficiō, cōnficere, cōnfēcī, cōnfectum; bellō cōnfectō = 'with the war finished'"
+      ko: "제3활용 -iō형; cōnficiō, cōnficere, cōnfēcī, cōnfectum; bellō cōnfectō = '전쟁이 끝난 후'"
+  - latin: interficere
+    translation:
+      en: to kill, to destroy
+      ko: 죽이다, 파괴하다
+    gender: null
+    notes:
+      en: "3rd conj. -iō; interficiō, interficere, interfēcī, interfectum; rēge interfectō = 'with the king killed'"
+      ko: "제3활용 -iō형; interficiō, interficere, interfēcī, interfectum; rēge interfectō = '왕이 살해된 후'"
+  - latin: expugnare
+    translation:
+      en: to storm, to capture by assault
+      ko: 공격하여 함락하다
+    gender: null
+    notes:
+      en: "1st conj.; expugnō, expugnāre, expugnāvī, expugnātum; oppidō expugnātō = 'with the town captured'"
+      ko: "제1활용; expugnō, expugnāre, expugnāvī, expugnātum; oppidō expugnātō = '도시가 함락된 후'"
+  - latin: proficisci
+    translation:
+      en: to set out, to depart
+      ko: 출발하다, 떠나다
+    gender: null
+    notes:
+      en: "3rd conj. deponent; proficīscor, proficīscī, profectus sum"
+      ko: "제3활용 탈형 동사; proficīscor, proficīscī, profectus sum"
+  - latin: cognita re
+    translation:
+      en: when the matter was learned
+      ko: 사정을 알게 되자
+    gender: null
+    notes:
+      en: "ablative absolute phrase; very common in Caesar"
+      ko: "탈격 독립 구문; 카이사르에게서 매우 흔함"
+  - latin: his rebus gestis
+    translation:
+      en: when these things had been done
+      ko: 이 일들이 수행된 후
+    gender: null
+    notes:
+      en: "ablative absolute phrase; common in historical narrative"
+      ko: "탈격 독립 구문; 역사 서술에서 흔함"
+  - latin: pace facta
+    translation:
+      en: when peace had been made
+      ko: 평화가 이루어진 후
+    gender: null
+    notes:
+      en: "ablative absolute phrase"
+      ko: "탈격 독립 구문"
+  - latin: nulla mora interposita
+    translation:
+      en: without any delay
+      ko: 아무 지체 없이
+    gender: null
+    notes:
+      en: "ablative absolute phrase; lit. 'with no delay interposed'"
+      ko: "탈격 독립 구문; 직역 '아무 지체도 끼이지 않은 채'"
+  - latin: invitus
+    translation:
+      en: unwilling, reluctant
+      ko: 마지못한, 내키지 않는
+    gender: m
+    notes:
+      en: "adj. invītus, -a, -um; mē invītō = 'against my will' (abl. abs.)"
+      ko: "형용사 invītus, -a, -um; mē invītō = '내 의지에 반하여' (탈격 독립)"
+  - latin: absens
+    translation:
+      en: absent, away
+      ko: 부재하는
+    gender: m
+    notes:
+      en: "pres. part. of abesse; gen. absentis; mē absente = 'in my absence'"
+      ko: "abesse의 현재분사; 속격 absentis; mē absente = '내가 없는 동안'"
+  - latin: praesens
+    translation:
+      en: present, at hand
+      ko: 현재의, 있는
+    gender: m
+    notes:
+      en: "pres. part. of praeesse; gen. praesentis"
+      ko: "praeesse의 현재분사; 속격 praesentis"
+  - latin: vivus
+    translation:
+      en: alive, living
+      ko: 살아 있는
+    gender: m
+    notes:
+      en: "adj. vīvus, -a, -um; mē vīvō = 'while I am alive'"
+      ko: "형용사 vīvus, -a, -um; mē vīvō = '내가 살아 있는 동안'"
+- id: 192_supine_constructions
+  label:
+    en: 19.2 Supine Constructions
+    ko: 19.2 목적분사 구문
+  type: vocabulary
+  words:
+  - latin: mirabile dictu
+    translation:
+      en: wonderful to say, amazing to relate
+      ko: 말하기 놀라운
+    gender: null
+    notes:
+      en: "supine in -ū (ablative); dictu from dīcere"
+      ko: "목적분사 -ū형 (탈격); dictu는 dīcere에서"
+  - latin: facile factu
+    translation:
+      en: easy to do
+      ko: 하기 쉬운
+    gender: null
+    notes:
+      en: "supine in -ū; factu from facere"
+      ko: "목적분사 -ū형; factu는 facere에서"
+  - latin: difficile factu
+    translation:
+      en: difficult to do
+      ko: 하기 어려운
+    gender: null
+    notes:
+      en: "supine in -ū; factu from facere"
+      ko: "목적분사 -ū형; factu는 facere에서"
+  - latin: incredibile dictu
+    translation:
+      en: unbelievable to say
+      ko: 말하기 믿기 어려운
+    gender: null
+    notes:
+      en: "supine in -ū; dictu from dīcere"
+      ko: "목적분사 -ū형; dictu는 dīcere에서"
+  - latin: horribile visu
+    translation:
+      en: horrible to see
+      ko: 보기 끔찍한
+    gender: null
+    notes:
+      en: "supine in -ū; vīsū from vidēre"
+      ko: "목적분사 -ū형; vīsū는 vidēre에서"
+  - latin: optimum factu
+    translation:
+      en: the best thing to do
+      ko: 하기에 가장 좋은
+    gender: null
+    notes:
+      en: "supine in -ū; superlative + supine construction"
+      ko: "목적분사 -ū형; 최상급 + 목적분사 구문"
+  - latin: cubitum ire
+    translation:
+      en: to go to sleep (lit. to go to lie down)
+      ko: "자러 가다 (직역: 눕기 위해 가다)"
+    gender: null
+    notes:
+      en: "supine in -um (accusative); expresses purpose with verbs of motion"
+      ko: "목적분사 -um형 (대격); 이동 동사와 함께 목적을 표현"
+  - latin: nuptum dare
+    translation:
+      en: to give in marriage
+      ko: 시집보내다
+    gender: null
+    notes:
+      en: "supine in -um; from nūbere 'to marry'"
+      ko: "목적분사 -um형; nūbere '결혼하다'에서"
+  - latin: spectatum venire
+    translation:
+      en: to come to watch
+      ko: 보러 오다
+    gender: null
+    notes:
+      en: "supine in -um; from spectāre 'to watch'"
+      ko: "목적분사 -um형; spectāre '구경하다'에서"
+- id: 193_locative_expressions
+  label:
+    en: 19.3 Locative Expressions
+    ko: 19.3 처격 표현
+  type: vocabulary
+  words:
+  - latin: Romae
+    translation:
+      en: at Rome, in Rome
+      ko: 로마에서
+    gender: null
+    notes:
+      en: "locative of Rōma; 1st decl. singular place name"
+      ko: "Rōma의 처격; 제1변화 단수 지명"
+  - latin: domi
+    translation:
+      en: at home
+      ko: 집에서
+    gender: null
+    notes:
+      en: "locative of domus; irregular"
+      ko: "domus의 처격; 불규칙"
+  - latin: ruri
+    translation:
+      en: in the country, in rural areas
+      ko: 시골에서
+    gender: null
+    notes:
+      en: "locative of rūs; 3rd decl."
+      ko: "rūs의 처격; 제3변화"
+  - latin: humi
+    translation:
+      en: on the ground
+      ko: 땅에
+    gender: null
+    notes:
+      en: "locative of humus; 2nd decl."
+      ko: "humus의 처격; 제2변화"
+  - latin: Carthagini
+    translation:
+      en: at Carthage
+      ko: 카르타고에서
+    gender: null
+    notes:
+      en: "locative of Carthāgō; 3rd decl. singular place name"
+      ko: "Carthāgō의 처격; 제3변화 단수 지명"
+  - latin: Athenis
+    translation:
+      en: at Athens
+      ko: 아테네에서
+    gender: null
+    notes:
+      en: "locative of Athēnae; 1st decl. plural place name (= abl.)"
+      ko: "Athēnae의 처격; 제1변화 복수 지명 (= 탈격)"
+  - latin: Corinthi
+    translation:
+      en: at Corinth
+      ko: 코린토스에서
+    gender: null
+    notes:
+      en: "locative of Corinthus; 2nd decl. singular place name"
+      ko: "Corinthus의 처격; 제2변화 단수 지명"
+  - latin: militia
+    translation:
+      en: military service; abroad (on campaign)
+      ko: 군복무; 해외에서 (전쟁터에서)
+    gender: f
+    notes:
+      en: "gen. militiae; 1st decl.; militiae = 'on campaign' (locative)"
+      ko: "속격 militiae; 제1변화; militiae = '전쟁터에서' (처격)"
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: "gen. bellī; 2nd decl. neuter; domī bellīque = 'at home and in war'"
+      ko: "속격 bellī; 제2변화 중성; domī bellīque = '평시와 전시에'"
+- id: 194_impersonal_verbs
+  label:
+    en: 19.4 Impersonal Verbs
+    ko: 19.4 비인칭 동사
+  type: vocabulary
+  words:
+  - latin: licet
+    translation:
+      en: it is permitted, one may
+      ko: 허락되다, ~해도 좋다
+    gender: null
+    notes:
+      en: "impersonal; licet, licēre, licuit; + dat. + inf."
+      ko: "비인칭; licet, licēre, licuit; + 여격 + 부정법"
+  - latin: oportet
+    translation:
+      en: it is fitting, one ought
+      ko: ~해야 한다, 마땅하다
+    gender: null
+    notes:
+      en: "impersonal; oportet, oportēre, oportuit; + acc. + inf."
+      ko: "비인칭; oportet, oportēre, oportuit; + 대격 + 부정법"
+  - latin: decet
+    translation:
+      en: it is proper, it is fitting
+      ko: ~에 어울리다, 적절하다
+    gender: null
+    notes:
+      en: "impersonal; decet, decēre, decuit; + acc. + inf."
+      ko: "비인칭; decet, decēre, decuit; + 대격 + 부정법"
+  - latin: placet
+    translation:
+      en: it pleases, it seems good
+      ko: 마음에 들다, ~하기로 결정하다
+    gender: null
+    notes:
+      en: "impersonal; placet, placēre, placuit; + dat."
+      ko: "비인칭; placet, placēre, placuit; + 여격"
+  - latin: piget
+    translation:
+      en: it disgusts, it irks
+      ko: 싫어지다, 넌더리나다
+    gender: null
+    notes:
+      en: "impersonal; piget, pigēre, piguit; + acc. + gen."
+      ko: "비인칭; piget, pigēre, piguit; + 대격 + 속격"
+  - latin: pudet
+    translation:
+      en: it shames, one is ashamed
+      ko: 부끄럽다
+    gender: null
+    notes:
+      en: "impersonal; pudet, pudēre, puduit; + acc. + gen."
+      ko: "비인칭; pudet, pudēre, puduit; + 대격 + 속격"
+  - latin: taedet
+    translation:
+      en: it wearies, one is tired of
+      ko: 싫증나다, 지겹다
+    gender: null
+    notes:
+      en: "impersonal; taedet, taedēre, taeduit/pertaesum est; + acc. + gen."
+      ko: "비인칭; taedet, taedēre, taeduit/pertaesum est; + 대격 + 속격"
+  - latin: miseret
+    translation:
+      en: it moves to pity, one pities
+      ko: 불쌍히 여기다, 동정하다
+    gender: null
+    notes:
+      en: "impersonal; miseret, miserēre, miseruit; + acc. + gen."
+      ko: "비인칭; miseret, miserēre, miseruit; + 대격 + 속격"
+  - latin: paenitet
+    translation:
+      en: it repents, one regrets
+      ko: 후회하다
+    gender: null
+    notes:
+      en: "impersonal; paenitet, paenitēre, paenituit; + acc. + gen."
+      ko: "비인칭; paenitet, paenitēre, paenituit; + 대격 + 속격"
+  - latin: interest
+    translation:
+      en: it matters, it concerns
+      ko: 중요하다, 관계가 있다
+    gender: null
+    notes:
+      en: "impersonal; interest, interesse, interfuit; + gen. or possessive"
+      ko: "비인칭; interest, interesse, interfuit; + 속격 또는 소유형"
+  - latin: refert
+    translation:
+      en: it matters, it is important
+      ko: 중요하다
+    gender: null
+    notes:
+      en: "impersonal; rēfert, rēferre, rētulit; + gen. or possessive"
+      ko: "비인칭; rēfert, rēferre, rētulit; + 속격 또는 소유형"
+  - latin: contingit
+    translation:
+      en: it happens (fortunately), it befalls
+      ko: (다행히) 일어나다
+    gender: null
+    notes:
+      en: "impersonal; contingit, contingere, contigit; + ut + subj."
+      ko: "비인칭; contingit, contingere, contigit; + ut + 접속법"
+  - latin: evenit
+    translation:
+      en: it turns out, it happens
+      ko: 결과적으로 ~하게 되다
+    gender: null
+    notes:
+      en: "impersonal; ēvenit, ēvenīre, ēvēnit; + ut + subj."
+      ko: "비인칭; ēvenit, ēvenīre, ēvēnit; + ut + 접속법"
+  - latin: praestat
+    translation:
+      en: it is better, it is preferable
+      ko: ~하는 것이 낫다
+    gender: null
+    notes:
+      en: "impersonal; praestat, praestāre, praestitit; + inf."
+      ko: "비인칭; praestat, praestāre, praestitit; + 부정법"
+  - latin: iuvat
+    translation:
+      en: it pleases, it delights
+      ko: 기쁘게 하다, 즐겁다
+    gender: null
+    notes:
+      en: "impersonal; iuvat, iuvāre, iūvit; + acc. + inf."
+      ko: "비인칭; iuvat, iuvāre, iūvit; + 대격 + 부정법"
+  - latin: constat
+    translation:
+      en: it is agreed, it is well known
+      ko: ~은 확실하다
+    gender: null
+    notes:
+      en: "impersonal; cōnstat, cōnstāre, cōnstitit; + acc. + inf."
+      ko: "비인칭; cōnstat, cōnstāre, cōnstitit; + 대격 + 부정법"
+  - latin: noctu
+    translation:
+      en: by night, at night
+      ko: 밤에
+    gender: null
+    notes:
+      en: "old ablative of nox; used adverbially"
+      ko: "nox의 고형 탈격; 부사적으로 사용"
+  - latin: mane
+    translation:
+      en: in the morning, early
+      ko: 아침에, 이른
+    gender: null
+    notes:
+      en: "indeclinable noun/adverb"
+      ko: "불변화 명사/부사"
+  - latin: vesperi
+    translation:
+      en: in the evening
+      ko: 저녁에
+    gender: null
+    notes:
+      en: "locative of vesper; used adverbially"
+      ko: "vesper의 처격; 부사적으로 사용"
+  - latin: terra
+    translation:
+      en: earth, land, ground
+      ko: 땅, 대지, 지면
+    gender: f
+    notes:
+      en: "gen. terrae; 1st decl.; terrā marīque = 'on land and sea'"
+      ko: "속격 terrae; 제1변화; terrā marīque = '육지와 바다에서'"
+  - latin: mare
+    translation:
+      en: sea
+      ko: 바다
+    gender: n
+    notes:
+      en: "gen. maris; 3rd decl. neuter i-stem"
+      ko: "속격 maris; 제3변화 중성 i-어간"
+  - latin: iter
+    translation:
+      en: journey, march, road
+      ko: 여정, 행군, 길
+    gender: n
+    notes:
+      en: "gen. itineris; 3rd decl. neuter; iter facere = 'to march'"
+      ko: "속격 itineris; 제3변화 중성; iter facere = '행군하다'"
+  - latin: caput
+    translation:
+      en: head, capital, source
+      ko: 머리, 수도, 원천
+    gender: n
+    notes:
+      en: "gen. capitis; 3rd decl. neuter"
+      ko: "속격 capitis; 제3변화 중성"
+  - latin: corpus
+    translation:
+      en: body
+      ko: 몸, 신체
+    gender: n
+    notes:
+      en: "gen. corporis; 3rd decl. neuter"
+      ko: "속격 corporis; 제3변화 중성"
+  - latin: flumen
+    translation:
+      en: river, stream
+      ko: 강, 하천
+    gender: n
+    notes:
+      en: "gen. flūminis; 3rd decl. neuter"
+      ko: "속격 flūminis; 제3변화 중성"
+  - latin: litus
+    translation:
+      en: shore, coast, beach
+      ko: 해안, 해변
+    gender: n
+    notes:
+      en: "gen. lītoris; 3rd decl. neuter"
+      ko: "속격 lītoris; 제3변화 중성"
+  - latin: navis
+    translation:
+      en: ship
+      ko: 배
+    gender: f
+    notes:
+      en: "gen. nāvis; 3rd decl. i-stem"
+      ko: "속격 nāvis; 제3변화 i-어간"
+  - latin: pons
+    translation:
+      en: bridge
+      ko: 다리
+    gender: m
+    notes:
+      en: "gen. pontis; 3rd decl."
+      ko: "속격 pontis; 제3변화"
+  - latin: oppidum
+    translation:
+      en: town
+      ko: 도시, 성읍
+    gender: n
+    notes:
+      en: "gen. oppidī; 2nd decl. neuter"
+      ko: "속격 oppidī; 제2변화 중성"
+  - latin: murus
+    translation:
+      en: wall, city wall
+      ko: 벽, 성벽
+    gender: m
+    notes:
+      en: "gen. mūrī; 2nd decl."
+      ko: "속격 mūrī; 제2변화"
+  - latin: porta
+    translation:
+      en: gate, door
+      ko: 문, 성문
+    gender: f
+    notes:
+      en: "gen. portae; 1st decl."
+      ko: "속격 portae; 제1변화"
