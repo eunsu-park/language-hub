@@ -1,0 +1,428 @@
+lesson: 21_Reading_Classical_Prose
+lesson_number: 21
+cefr: C1
+categories:
+- id: 211_prose_terminology
+  label:
+    en: 21.1 Prose Terminology
+    ko: 21.1 산문 용어
+  type: vocabulary
+  words:
+  - latin: oratio
+    translation:
+      en: speech, oration
+      ko: 연설
+    gender: f
+    notes:
+      en: "Gen. orationis; key term in Ciceronian rhetoric"
+      ko: "속격 orationis; 키케로 수사학의 핵심 용어"
+  - latin: narratio
+    translation:
+      en: narrative, narration
+      ko: 서술, 이야기
+    gender: f
+    notes:
+      en: "The statement of facts in a rhetorical speech"
+      ko: "수사학 연설에서 사실의 진술 부분"
+  - latin: sententia
+    translation:
+      en: opinion, sentence, maxim
+      ko: 의견, 문장, 격언
+    gender: f
+    notes:
+      en: "Also a pithy saying or epigram in prose style"
+      ko: "산문체에서 간결한 경구 또는 경구적 표현을 의미하기도 함"
+  - latin: periodus
+    translation:
+      en: period, complex sentence
+      ko: 주기문, 복합문
+    gender: f
+    notes:
+      en: "A long, balanced sentence typical of Ciceronian style"
+      ko: "키케로 문체에 전형적인 길고 균형 잡힌 문장"
+  - latin: prosa
+    translation:
+      en: prose
+      ko: 산문
+    gender: f
+    notes:
+      en: "From prosa oratio (straightforward speech), as opposed to verse"
+      ko: "prosa oratio(직설적 연설)에서 유래, 운문의 반대"
+  - latin: auctor
+    translation:
+      en: author, originator
+      ko: 저자, 창시자
+    gender: m
+    notes:
+      en: "Gen. auctoris; source of English 'author' and 'authority'"
+      ko: "속격 auctoris; 영어 'author'와 'authority'의 어원"
+  - latin: epistula
+    translation:
+      en: letter, epistle
+      ko: 편지, 서한
+    gender: f
+    notes:
+      en: "Cicero's Epistulae ad Atticum are masterworks of Latin prose"
+      ko: "키케로의 Epistulae ad Atticum은 라틴 산문의 걸작"
+  - latin: historia
+    translation:
+      en: history, inquiry, account
+      ko: 역사, 탐구, 서술
+    gender: f
+    notes:
+      en: "From Greek historia; Livy and Tacitus are the great Roman historians"
+      ko: "그리스어 historia에서 유래; 리비우스와 타키투스가 위대한 로마 역사가"
+  - latin: commentarius
+    translation:
+      en: commentary, memoir, notebook
+      ko: 주석서, 회고록, 기록
+    gender: m
+    notes:
+      en: "Caesar's Commentarii are written in famously plain style"
+      ko: "카이사르의 Commentarii는 유명한 평이한 문체로 저술됨"
+  - latin: exordium
+    translation:
+      en: introduction, beginning (of a speech)
+      ko: 서론, 연설의 도입부
+    gender: n
+    notes:
+      en: "First part of a Classical oration; designed to win the audience's goodwill"
+      ko: "고전 연설의 첫 번째 부분; 청중의 호의를 얻기 위해 설계됨"
+  - latin: peroratio
+    translation:
+      en: peroration, conclusion (of a speech)
+      ko: 결론, 연설의 마무리
+    gender: f
+    notes:
+      en: "Final part of an oration; often the most emotionally charged section"
+      ko: "연설의 마지막 부분; 흔히 가장 감정적으로 강렬한 부분"
+  - latin: argumentum
+    translation:
+      en: argument, proof, subject matter
+      ko: 논증, 증거, 주제
+    gender: n
+    notes:
+      en: "Source of English 'argument'; central to rhetorical persuasion"
+      ko: "영어 'argument'의 어원; 수사학적 설득의 핵심"
+  - latin: eloquentia
+    translation:
+      en: eloquence
+      ko: 웅변, 달변
+    gender: f
+    notes:
+      en: "The supreme Roman virtue in public life; Cicero its greatest exemplar"
+      ko: "로마 공적 생활의 최고 덕목; 키케로가 가장 위대한 모범"
+- id: 212_caesarian_vocabulary
+  label:
+    en: 21.2 Caesarian Vocabulary
+    ko: 21.2 카이사르 어휘
+  type: vocabulary
+  words:
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: "Bellum Gallicum = The Gallic War; Caesar's most famous work"
+      ko: "Bellum Gallicum = 갈리아 전쟁; 카이사르의 가장 유명한 저작"
+  - latin: Gallia
+    translation:
+      en: Gaul
+      ko: 갈리아
+    gender: f
+    notes:
+      en: "Gallia est omnis divisa in partes tres — Caesar's iconic opening"
+      ko: "Gallia est omnis divisa in partes tres — 카이사르의 상징적 첫 문장"
+  - latin: legatus
+    translation:
+      en: lieutenant, envoy, legate
+      ko: 부관, 사절, 군단장
+    gender: m
+    notes:
+      en: "A senior officer commanding a legion under the general"
+      ko: "장군 아래에서 군단을 지휘하는 고위 장교"
+  - latin: obses
+    translation:
+      en: hostage
+      ko: 인질
+    gender: m
+    notes:
+      en: "Gen. obsidis; taking hostages was standard Roman diplomatic practice"
+      ko: "속격 obsidis; 인질을 잡는 것은 표준적인 로마 외교 관행"
+  - latin: imperium
+    translation:
+      en: command, empire, supreme power
+      ko: 명령권, 제국, 최고 권력
+    gender: n
+    notes:
+      en: "The legal power of a Roman magistrate to command armies"
+      ko: "로마 관리가 군대를 지휘할 수 있는 법적 권한"
+  - latin: exercitus
+    translation:
+      en: army
+      ko: 군대
+    gender: m
+    notes:
+      en: "Gen. exercitus (4th decl.); from exercere (to train)"
+      ko: "속격 exercitus (제4변화); exercere(훈련하다)에서 유래"
+  - latin: castra
+    translation:
+      en: camp (military)
+      ko: 진영, 군영
+    gender: n
+    notes:
+      en: "Always plural; castra ponere = to pitch camp"
+      ko: "항상 복수형; castra ponere = 진을 치다"
+  - latin: proelium
+    translation:
+      en: battle
+      ko: 전투
+    gender: n
+    notes:
+      en: "proelium committere = to join battle"
+      ko: "proelium committere = 전투를 개시하다"
+  - latin: acies
+    translation:
+      en: battle line, edge
+      ko: 전열, 날
+    gender: f
+    notes:
+      en: "5th decl.; triplex acies = triple battle line, Caesar's favorite formation"
+      ko: "제5변화; triplex acies = 삼중 전열, 카이사르가 선호한 대형"
+  - latin: copiae
+    translation:
+      en: troops, forces (pl.)
+      ko: 군대, 병력 (복수)
+    gender: f
+    notes:
+      en: "Singular copia = abundance; plural copiae = military forces"
+      ko: "단수 copia = 풍부함; 복수 copiae = 군사력"
+  - latin: flumen
+    translation:
+      en: river
+      ko: 강
+    gender: n
+    notes:
+      en: "Gen. fluminis; rivers were key strategic features in Caesar's campaigns"
+      ko: "속격 fluminis; 강은 카이사르 전역에서 핵심 전략적 지형"
+  - latin: finis
+    translation:
+      en: boundary, end, territory (pl.)
+      ko: 경계, 끝, 영토 (복수)
+    gender: m
+    notes:
+      en: "Plural fines = territory, borders of a tribe or nation"
+      ko: "복수 fines = 영토, 부족이나 국가의 국경"
+- id: 213_ciceronian_vocabulary
+  label:
+    en: 21.3 Ciceronian Vocabulary
+    ko: 21.3 키케로 어휘
+  type: vocabulary
+  words:
+  - latin: res publica
+    translation:
+      en: republic, state, commonwealth
+      ko: 공화국, 국가, 공동체
+    gender: f
+    notes:
+      en: "Literally 'the public affair'; the Roman political ideal"
+      ko: "문자 그대로 '공적 사안'; 로마 정치의 이상"
+  - latin: patria
+    translation:
+      en: fatherland, homeland
+      ko: 조국, 고향
+    gender: f
+    notes:
+      en: "O tempora! O mores! — Cicero's famous lament for his patria"
+      ko: "O tempora! O mores! — 키케로의 유명한 조국에 대한 탄식"
+  - latin: civis
+    translation:
+      en: citizen
+      ko: 시민
+    gender: m
+    notes:
+      en: "Gen. civis; civis Romanus sum = I am a Roman citizen"
+      ko: "속격 civis; civis Romanus sum = 나는 로마 시민이다"
+  - latin: coniuratio
+    translation:
+      en: conspiracy, plot
+      ko: 음모, 공모
+    gender: f
+    notes:
+      en: "Coniuratio Catilinae = the Catilinarian Conspiracy, subject of Cicero's orations"
+      ko: "Coniuratio Catilinae = 카틸리나 음모, 키케로 연설의 주제"
+  - latin: consulatus
+    translation:
+      en: consulship
+      ko: 집정관직
+    gender: m
+    notes:
+      en: "4th decl.; Cicero held the consulatus in 63 BC"
+      ko: "제4변화; 키케로는 기원전 63년에 집정관직을 역임"
+  - latin: iudicium
+    translation:
+      en: trial, judgment, court
+      ko: 재판, 판결, 법정
+    gender: n
+    notes:
+      en: "Many of Cicero's greatest speeches were delivered in iudicia"
+      ko: "키케로의 가장 위대한 연설 중 다수가 법정에서 행해짐"
+  - latin: orator
+    translation:
+      en: orator, speaker
+      ko: 연설가, 웅변가
+    gender: m
+    notes:
+      en: "Cicero wrote De Oratore, a treatise on the ideal speaker"
+      ko: "키케로는 이상적 연설가에 대한 논문 De Oratore를 저술"
+  - latin: accusare
+    translation:
+      en: to accuse, to prosecute
+      ko: 고발하다, 기소하다
+    gender: null
+    notes:
+      en: "Legal term; source of English 'accuse'"
+      ko: "법률 용어; 영어 'accuse'의 어원"
+  - latin: defendere
+    translation:
+      en: to defend
+      ko: 방어하다, 변호하다
+    gender: null
+    notes:
+      en: "Cicero was Rome's greatest defense advocate"
+      ko: "키케로는 로마 최고의 변호인이었음"
+  - latin: persuadere
+    translation:
+      en: to persuade
+      ko: 설득하다
+    gender: null
+    notes:
+      en: "Takes dative; the central aim of oratory"
+      ko: "여격 지배; 웅변의 핵심 목적"
+- id: 214_literary_analysis_terms
+  label:
+    en: 21.4 Literary Analysis Terms
+    ko: 21.4 문학 분석 용어
+  type: vocabulary
+  words:
+  - latin: genus
+    translation:
+      en: genre, kind, type
+      ko: 장르, 종류, 유형
+    gender: n
+    notes:
+      en: "Gen. generis; used for classifying literary styles"
+      ko: "속격 generis; 문학 양식을 분류하는 데 사용"
+  - latin: fabula
+    translation:
+      en: story, tale, play
+      ko: 이야기, 우화, 연극
+    gender: f
+    notes:
+      en: "Source of English 'fable' and 'fabulous'"
+      ko: "영어 'fable'과 'fabulous'의 어원"
+  - latin: exemplum
+    translation:
+      en: example, model, anecdote
+      ko: 예시, 모범, 일화
+    gender: n
+    notes:
+      en: "A rhetorical device using historical anecdotes as proof"
+      ko: "역사적 일화를 증거로 사용하는 수사학적 기법"
+  - latin: imitatio
+    translation:
+      en: imitation, emulation
+      ko: 모방, 추종
+    gender: f
+    notes:
+      en: "A core principle of Roman literary composition"
+      ko: "로마 문학 작법의 핵심 원칙"
+  - latin: decorum
+    translation:
+      en: propriety, decorum
+      ko: 예의, 적절함
+    gender: n
+    notes:
+      en: "Matching style to subject matter; a key rhetorical principle"
+      ko: "문체를 주제에 맞추는 것; 핵심 수사학 원칙"
+  - latin: brevitas
+    translation:
+      en: brevity, conciseness
+      ko: 간결함
+    gender: f
+    notes:
+      en: "Prized in Sallust and Caesar's prose style"
+      ko: "살루스티우스와 카이사르의 산문체에서 높이 평가됨"
+  - latin: copia
+    translation:
+      en: abundance, richness (of style)
+      ko: 풍부함 (문체의)
+    gender: f
+    notes:
+      en: "Copia verborum = richness of vocabulary; Ciceronian ideal"
+      ko: "Copia verborum = 어휘의 풍부함; 키케로의 이상"
+  - latin: digressio
+    translation:
+      en: digression
+      ko: 여담, 탈선
+    gender: f
+    notes:
+      en: "A deliberate departure from the main topic for rhetorical effect"
+      ko: "수사학적 효과를 위한 주제의 의도적 이탈"
+  - latin: compilare
+    translation:
+      en: to compile, to plunder
+      ko: 편집하다, 약탈하다
+    gender: null
+    notes:
+      en: "Source of English 'compile'; original sense was literary theft"
+      ko: "영어 'compile'의 어원; 원래 의미는 문학적 도용"
+  - latin: emendare
+    translation:
+      en: to correct, to emend
+      ko: 교정하다, 수정하다
+    gender: null
+    notes:
+      en: "Source of English 'emend'; essential in textual criticism"
+      ko: "영어 'emend'의 어원; 본문 비평에서 필수적"
+  - latin: interpretari
+    translation:
+      en: to interpret, to explain
+      ko: 해석하다, 설명하다
+    gender: null
+    notes:
+      en: "Deponent verb; source of English 'interpret'"
+      ko: "이형태 동사; 영어 'interpret'의 어원"
+  - latin: referre
+    translation:
+      en: to report, to relate, to bring back
+      ko: 보고하다, 서술하다, 되돌리다
+    gender: null
+    notes:
+      en: "Irregular compound of ferre; common in historical prose"
+      ko: "ferre의 불규칙 합성어; 역사 산문에서 빈번"
+  - latin: annales
+    translation:
+      en: annals, chronicles
+      ko: 연대기
+    gender: m
+    notes:
+      en: "Year-by-year historical records; Tacitus's Annales is a masterwork"
+      ko: "연도별 역사 기록; 타키투스의 연대기가 걸작"
+  - latin: volumen
+    translation:
+      en: scroll, volume
+      ko: 두루마리, 권
+    gender: n
+    notes:
+      en: "Gen. voluminis; from volvere (to roll); the standard book format before the codex"
+      ko: "속격 voluminis; volvere(말다)에서 유래; 코덱스 이전의 표준 서적 형태"
+  - latin: codex
+    translation:
+      en: codex, book (bound pages)
+      ko: 코덱스, 책 (제본된 페이지)
+    gender: m
+    notes:
+      en: "Gen. codicis; replaced the scroll; ancestor of the modern book"
+      ko: "속격 codicis; 두루마리를 대체; 현대 책의 조상"
