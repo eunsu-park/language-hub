@@ -1,0 +1,385 @@
+lesson: "sup_A1_Household_and_Rooms"
+lesson_number: 103
+cefr: A1
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: rooms
+  label:
+    en: "Rooms"
+    ko: "방"
+  type: vocabulary
+  words:
+  - latin: atrium
+    translation:
+      en: "entrance hall / atrium"
+      ko: "현관 홀 / 아트리움"
+    gender: n
+    notes:
+      en: "gen. atrii; 2nd declension neuter; central room of a Roman house"
+      ko: "속격 atrii; 제2변화 중성; 로마 가옥의 중심 방"
+  - latin: triclinium
+    translation:
+      en: "dining room"
+      ko: "식당"
+    gender: n
+    notes:
+      en: "gen. triclinii; 2nd declension neuter; from Greek 'three couches'"
+      ko: "속격 triclinii; 제2변화 중성; 그리스어 '세 개의 침상'에서 유래"
+  - latin: cubiculum
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: n
+    notes:
+      en: "gen. cubiculi; 2nd declension neuter; from cubare 'to lie down'"
+      ko: "속격 cubiculi; 제2변화 중성; cubare '눕다'에서 유래"
+  - latin: culina
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: f
+    notes:
+      en: "gen. culinae; 1st declension; source of 'culinary'"
+      ko: "속격 culinae; 제1변화; 영어 'culinary'의 어원"
+  - latin: tablinum
+    translation:
+      en: "study / office"
+      ko: "서재 / 사무실"
+    gender: n
+    notes:
+      en: "gen. tablini; 2nd declension neuter; where the master kept records"
+      ko: "속격 tablini; 제2변화 중성; 주인이 기록을 보관하는 곳"
+  - latin: peristylium
+    translation:
+      en: "peristyle (columned garden)"
+      ko: "열주 정원"
+    gender: n
+    notes:
+      en: "gen. peristylii; 2nd declension neuter; Greek-influenced garden courtyard"
+      ko: "속격 peristylii; 제2변화 중성; 그리스 영향의 정원 안뜰"
+  - latin: vestibulum
+    translation:
+      en: "entrance / vestibule"
+      ko: "입구 / 현관"
+    gender: n
+    notes:
+      en: "gen. vestibuli; 2nd declension neuter; source of 'vestibule'"
+      ko: "속격 vestibuli; 제2변화 중성; 영어 'vestibule'의 어원"
+  - latin: balneum
+    translation:
+      en: "bath / bathroom"
+      ko: "목욕실"
+    gender: n
+    notes:
+      en: "gen. balnei; 2nd declension neuter; private bathing room"
+      ko: "속격 balnei; 제2변화 중성; 개인 목욕실"
+  - latin: latrina
+    translation:
+      en: "latrine / toilet"
+      ko: "화장실"
+    gender: f
+    notes:
+      en: "gen. latrinae; 1st declension; source of 'latrine'"
+      ko: "속격 latrinae; 제1변화; 영어 'latrine'의 어원"
+  - latin: cella
+    translation:
+      en: "storeroom / small room"
+      ko: "저장실 / 작은 방"
+    gender: f
+    notes:
+      en: "gen. cellae; 1st declension; source of 'cell, cellar'"
+      ko: "속격 cellae; 제1변화; 영어 'cell, cellar'의 어원"
+
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - latin: mensa
+    translation:
+      en: "table"
+      ko: "탁자"
+    gender: f
+    notes:
+      en: "gen. mensae; 1st declension"
+      ko: "속격 mensae; 제1변화"
+  - latin: lectus
+    translation:
+      en: "bed / couch"
+      ko: "침대 / 소파"
+    gender: m
+    notes:
+      en: "gen. lecti; 2nd declension; Romans reclined on couches to dine"
+      ko: "속격 lecti; 제2변화; 로마인들은 식사 시 소파에 비스듬히 누움"
+  - latin: sella
+    translation:
+      en: "chair / seat"
+      ko: "의자"
+    gender: f
+    notes:
+      en: "gen. sellae; 1st declension; sella curulis = magistrate's chair"
+      ko: "속격 sellae; 제1변화; sella curulis = 고위 관리의 의자"
+  - latin: solium
+    translation:
+      en: "throne / bathtub"
+      ko: "왕좌 / 욕조"
+    gender: n
+    notes:
+      en: "gen. solii; 2nd declension neuter; also used for a large bath"
+      ko: "속격 solii; 제2변화 중성; 큰 욕조에도 사용됨"
+  - latin: armarium
+    translation:
+      en: "cupboard / cabinet"
+      ko: "찬장 / 캐비닛"
+    gender: n
+    notes:
+      en: "gen. armarii; 2nd declension neuter; source of French 'armoire'"
+      ko: "속격 armarii; 제2변화 중성; 프랑스어 'armoire'의 어원"
+  - latin: arca
+    translation:
+      en: "chest / strongbox"
+      ko: "궤 / 금고"
+    gender: f
+    notes:
+      en: "gen. arcae; 1st declension; source of 'ark'"
+      ko: "속격 arcae; 제1변화; 영어 'ark'의 어원"
+  - latin: scamnum
+    translation:
+      en: "bench / stool"
+      ko: "벤치 / 의자"
+    gender: n
+    notes:
+      en: "gen. scamni; 2nd declension neuter"
+      ko: "속격 scamni; 제2변화 중성"
+  - latin: cathedra
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: f
+    notes:
+      en: "gen. cathedrae; 1st declension; source of 'cathedral, chair'"
+      ko: "속격 cathedrae; 제1변화; 영어 'cathedral, chair'의 어원"
+
+- id: household_items
+  label:
+    en: "Household Items"
+    ko: "가정용품"
+  type: vocabulary
+  words:
+  - latin: lucerna
+    translation:
+      en: "oil lamp"
+      ko: "기름 등잔"
+    gender: f
+    notes:
+      en: "gen. lucernae; 1st declension; primary source of indoor light"
+      ko: "속격 lucernae; 제1변화; 실내 조명의 주요 원천"
+  - latin: amphora
+    translation:
+      en: "amphora (large jar)"
+      ko: "암포라 (대형 항아리)"
+    gender: f
+    notes:
+      en: "gen. amphorae; 1st declension; used for wine, oil, garum storage"
+      ko: "속격 amphorae; 제1변화; 포도주, 기름, 가름 저장에 사용"
+  - latin: patera
+    translation:
+      en: "shallow dish / libation bowl"
+      ko: "얕은 접시 / 헌주 그릇"
+    gender: f
+    notes:
+      en: "gen. paterae; 1st declension; used in religious rituals"
+      ko: "속격 paterae; 제1변화; 종교 의식에 사용됨"
+  - latin: poculum
+    translation:
+      en: "drinking cup"
+      ko: "술잔"
+    gender: n
+    notes:
+      en: "gen. poculi; 2nd declension neuter"
+      ko: "속격 poculi; 제2변화 중성"
+  - latin: catinus
+    translation:
+      en: "bowl / dish"
+      ko: "그릇 / 접시"
+    gender: m
+    notes:
+      en: "gen. catini; 2nd declension"
+      ko: "속격 catini; 제2변화"
+  - latin: cochlear
+    translation:
+      en: "spoon"
+      ko: "숟가락"
+    gender: n
+    notes:
+      en: "gen. cochlearis; 3rd declension neuter; originally for eating snails"
+      ko: "속격 cochlearis; 제3변화 중성; 원래 달팽이를 먹기 위한 것"
+  - latin: culter
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: m
+    notes:
+      en: "gen. cultri; 2nd declension; source of 'cutlery'"
+      ko: "속격 cultri; 제2변화; 영어 'cutlery'의 어원"
+  - latin: speculum
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: n
+    notes:
+      en: "gen. speculi; 2nd declension neuter; usually polished bronze"
+      ko: "속격 speculi; 제2변화 중성; 보통 광택 낸 청동"
+  - latin: tapete
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 양탄자"
+    gender: n
+    notes:
+      en: "gen. tapetis; 3rd declension neuter; from Greek tapēs"
+      ko: "속격 tapetis; 제3변화 중성; 그리스어 tapēs에서 유래"
+  - latin: velum
+    translation:
+      en: "curtain / cloth"
+      ko: "커튼 / 천"
+    gender: n
+    notes:
+      en: "gen. veli; 2nd declension neuter; source of 'veil'"
+      ko: "속격 veli; 제2변화 중성; 영어 'veil'의 어원"
+  - latin: candelabrum
+    translation:
+      en: "candelabra / lamp stand"
+      ko: "촛대 / 등잔대"
+    gender: n
+    notes:
+      en: "gen. candelabri; 2nd declension neuter; source of 'candelabra'"
+      ko: "속격 candelabri; 제2변화 중성; 영어 'candelabra'의 어원"
+
+- id: domus_parts
+  label:
+    en: "Parts of the House"
+    ko: "집의 부분"
+  type: vocabulary
+  words:
+  - latin: domus
+    translation:
+      en: "house / home"
+      ko: "집"
+    gender: f
+    notes:
+      en: "gen. domus; irregular (4th/2nd declension); source of 'domestic, domicile'"
+      ko: "속격 domus; 불규칙 (제4/2변화); 영어 'domestic, domicile'의 어원"
+  - latin: hortus
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+    notes:
+      en: "gen. horti; 2nd declension; source of 'horticulture'"
+      ko: "속격 horti; 제2변화; 영어 'horticulture'의 어원"
+  - latin: tectum
+    translation:
+      en: "roof / ceiling"
+      ko: "지붕 / 천장"
+    gender: n
+    notes:
+      en: "gen. tecti; 2nd declension neuter; from tegere 'to cover'"
+      ko: "속격 tecti; 제2변화 중성; tegere '덮다'에서 유래"
+  - latin: paries
+    translation:
+      en: "wall (interior)"
+      ko: "벽 (내벽)"
+    gender: m
+    notes:
+      en: "gen. parietis; 3rd declension; source of 'parietal'"
+      ko: "속격 parietis; 제3변화; 영어 'parietal'의 어원"
+  - latin: murus
+    translation:
+      en: "wall (exterior)"
+      ko: "벽 (외벽)"
+    gender: m
+    notes:
+      en: "gen. muri; 2nd declension; source of 'mural'"
+      ko: "속격 muri; 제2변화; 영어 'mural'의 어원"
+  - latin: ianua
+    translation:
+      en: "door / entrance"
+      ko: "문 / 입구"
+    gender: f
+    notes:
+      en: "gen. ianuae; 1st declension; named after Janus, god of doorways"
+      ko: "속격 ianuae; 제1변화; 문의 신 야누스의 이름을 따서"
+  - latin: fenestra
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+    notes:
+      en: "gen. fenestrae; 1st declension; source of French 'fenêtre'"
+      ko: "속격 fenestrae; 제1변화; 프랑스어 'fenêtre'의 어원"
+  - latin: pavimentum
+    translation:
+      en: "floor / pavement"
+      ko: "바닥 / 포장"
+    gender: n
+    notes:
+      en: "gen. pavimenti; 2nd declension neuter; source of 'pavement'"
+      ko: "속격 pavimenti; 제2변화 중성; 영어 'pavement'의 어원"
+  - latin: impluvium
+    translation:
+      en: "rain-catch basin (in atrium)"
+      ko: "빗물 받이 (아트리움 내)"
+    gender: n
+    notes:
+      en: "gen. impluvii; 2nd declension neuter; pool beneath the compluvium opening"
+      ko: "속격 impluvii; 제2변화 중성; 콤플루비움 개구부 아래의 웅덩이"
+  - latin: compluvium
+    translation:
+      en: "roof opening (above impluvium)"
+      ko: "지붕 개구부 (임플루비움 위)"
+    gender: n
+    notes:
+      en: "gen. compluvii; 2nd declension neuter; let in light and rain"
+      ko: "속격 compluvii; 제2변화 중성; 빛과 빗물을 들어오게 함"
+  - latin: scala
+    translation:
+      en: "stairs / ladder"
+      ko: "계단 / 사다리"
+    gender: f
+    notes:
+      en: "gen. scalae; 1st declension; often plural scalae; source of 'scale'"
+      ko: "속격 scalae; 제1변화; 보통 복수형 scalae; 영어 'scale'의 어원"
+  - latin: focus
+    translation:
+      en: "hearth / fireplace"
+      ko: "화덕 / 벽난로"
+    gender: m
+    notes:
+      en: "gen. foci; 2nd declension; source of 'focus' (center of home life)"
+      ko: "속격 foci; 제2변화; 영어 'focus'의 어원 (가정생활의 중심)"
+  - latin: limen
+    translation:
+      en: "threshold"
+      ko: "문턱"
+    gender: n
+    notes:
+      en: "gen. liminis; 3rd declension neuter; source of 'limit, preliminary'"
+      ko: "속격 liminis; 제3변화 중성; 영어 'limit, preliminary'의 어원"
+  - latin: villa
+    translation:
+      en: "country house / estate"
+      ko: "시골집 / 별장"
+    gender: f
+    notes:
+      en: "gen. villae; 1st declension; source of 'villa, village'"
+      ko: "속격 villae; 제1변화; 영어 'villa, village'의 어원"
+  - latin: insula
+    translation:
+      en: "apartment block / island"
+      ko: "공동주택 / 섬"
+    gender: f
+    notes:
+      en: "gen. insulae; 1st declension; multi-story housing for common Romans"
+      ko: "속격 insulae; 제1변화; 일반 로마인을 위한 다층 주거"
