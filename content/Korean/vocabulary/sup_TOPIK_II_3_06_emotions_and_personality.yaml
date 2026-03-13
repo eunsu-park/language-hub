@@ -1,0 +1,494 @@
+lesson: supplementary
+lesson_number: 121
+topik: TOPIK_II_3
+type: supplementary
+topic: "Emotions and Personality"
+
+categories:
+- id: positive_emotions
+  label:
+    en: "Positive Emotions"
+    ko: "긍정적 감정"
+  type: vocabulary
+  words:
+  - korean: 기쁘다
+    reading: null
+    translation:
+      en: "to be glad, happy"
+      ko: "마음이 좋다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; basic positive emotion"
+      ko: "순우리말 형용사"
+  - korean: 즐겁다
+    reading: null
+    translation:
+      en: "to be enjoyable, fun"
+      ko: "재미있고 기분이 좋다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (즐거워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (즐거워)"
+  - korean: 행복하다
+    reading: null
+    translation:
+      en: "to be happy"
+      ko: "매우 기쁘고 만족하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 幸(fortune) + 福(blessing) + 하다"
+      ko: "한자어: 幸(다행 행) + 福(복 복) + 하다"
+  - korean: 만족하다
+    reading: null
+    translation:
+      en: "to be satisfied"
+      ko: "충분히 채워지다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 滿(full) + 足(enough) + 하다"
+      ko: "한자어: 滿(찰 만) + 足(발 족) + 하다"
+  - korean: 감동하다
+    reading: null
+    translation:
+      en: "to be moved, touched"
+      ko: "마음이 크게 움직이다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 感(feel) + 動(move) + 하다"
+      ko: "한자어: 感(느낄 감) + 動(움직일 동) + 하다"
+  - korean: 설레다
+    reading: null
+    translation:
+      en: "to be excited, fluttery"
+      ko: "두근거리다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; describes anticipatory excitement"
+      ko: "순우리말; 기대감으로 마음이 두근거리는 상태"
+  - korean: 뿌듯하다
+    reading: null
+    translation:
+      en: "to feel proud, fulfilled"
+      ko: "보람차고 흐뭇하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; sense of accomplishment"
+      ko: "순우리말; 성취감이 있을 때 쓰는 표현"
+  - korean: 반갑다
+    reading: null
+    translation:
+      en: "to be glad (to see someone)"
+      ko: "만나서 기쁘다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (반가워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (반가워)"
+  - korean: 신나다
+    reading: null
+    translation:
+      en: "to be excited, thrilled"
+      ko: "기분이 매우 좋아지다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; colloquial and energetic"
+      ko: "순우리말; 구어체에서 자주 사용"
+  - korean: 감사하다
+    reading: null
+    translation:
+      en: "to be grateful, thankful"
+      ko: "고맙다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 感(feel) + 謝(thank) + 하다"
+      ko: "한자어: 感(느낄 감) + 謝(사례할 사) + 하다"
+
+- id: negative_emotions
+  label:
+    en: "Negative Emotions"
+    ko: "부정적 감정"
+  type: vocabulary
+  words:
+  - korean: 슬프다
+    reading: null
+    translation:
+      en: "to be sad"
+      ko: "마음이 아프다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; basic negative emotion"
+      ko: "순우리말 형용사"
+  - korean: 화나다
+    reading: null
+    translation:
+      en: "to be angry"
+      ko: "몹시 기분이 나쁘다"
+    gender: null
+    plural: null
+    notes:
+      en: "火(fire) + 나다(come out); anger 'fires up'"
+      ko: "화(불 화) + 나다; 화가 솟아오르다"
+  - korean: 짜증나다
+    reading: null
+    translation:
+      en: "to be irritated, annoyed"
+      ko: "기분이 좋지 않다"
+    gender: null
+    plural: null
+    notes:
+      en: "짜증(irritation) + 나다(come out)"
+      ko: "짜증 + 나다; 불쾌감이 생기다"
+  - korean: 걱정하다
+    reading: null
+    translation:
+      en: "to worry"
+      ko: "마음이 편하지 않다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean noun 걱정 + 하다"
+      ko: "순우리말 명사 걱정 + 하다"
+  - korean: 불안하다
+    reading: null
+    translation:
+      en: "to be anxious, uneasy"
+      ko: "마음이 편안하지 않다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 不(not) + 安(peaceful) + 하다"
+      ko: "한자어: 不(아닐 불) + 安(편안할 안) + 하다"
+  - korean: 외롭다
+    reading: null
+    translation:
+      en: "to be lonely"
+      ko: "혼자여서 쓸쓸하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (외로워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (외로워)"
+  - korean: 그립다
+    reading: null
+    translation:
+      en: "to miss (someone/something)"
+      ko: "보고 싶다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (그리워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (그리워)"
+  - korean: 부끄럽다
+    reading: null
+    translation:
+      en: "to be shy, embarrassed"
+      ko: "창피하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (부끄러워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (부끄러워)"
+  - korean: 당황하다
+    reading: null
+    translation:
+      en: "to be flustered, confused"
+      ko: "갑작스러워 어쩔 줄 모르다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 唐(absurd) + 慌(flustered) + 하다"
+      ko: "한자어: 唐(당나라 당) + 慌(황급할 황) + 하다"
+  - korean: 실망하다
+    reading: null
+    translation:
+      en: "to be disappointed"
+      ko: "기대에 어긋나서 슬프다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 失(lose) + 望(hope) + 하다"
+      ko: "한자어: 失(잃을 실) + 望(바랄 망) + 하다"
+  - korean: 후회하다
+    reading: null
+    translation:
+      en: "to regret"
+      ko: "이전 일을 아쉬워하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 後(after) + 悔(regret) + 하다"
+      ko: "한자어: 後(뒤 후) + 悔(뉘우칠 회) + 하다"
+  - korean: 답답하다
+    reading: null
+    translation:
+      en: "to feel frustrated, stuffy"
+      ko: "마음이 갑갑하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; feeling of stifling frustration"
+      ko: "순우리말; 속이 막히는 느낌"
+  - korean: 억울하다
+    reading: null
+    translation:
+      en: "to feel wronged, unfair"
+      ko: "부당하게 당해서 속상하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 抑(suppress) + 鬱(gloomy) + 하다; uniquely Korean emotion"
+      ko: "한자어: 抑(누를 억) + 鬱(답답할 울) + 하다; 한국 특유의 감정 표현"
+  - korean: 서운하다
+    reading: null
+    translation:
+      en: "to feel hurt, let down"
+      ko: "섭섭하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; mild disappointment toward someone"
+      ko: "순우리말; 상대방에게 느끼는 가벼운 섭섭함"
+
+- id: personality_traits
+  label:
+    en: "Personality Traits"
+    ko: "성격 특성"
+  type: vocabulary
+  words:
+  - korean: 성격
+    reading: null
+    translation:
+      en: "personality, character"
+      ko: "사람의 됨됨이"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 性(nature) + 格(standard)"
+      ko: "한자어: 性(성품 성) + 格(격식 격)"
+  - korean: 성실하다
+    reading: null
+    translation:
+      en: "to be sincere, diligent"
+      ko: "진지하고 꾸준하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 誠(sincere) + 實(true) + 하다"
+      ko: "한자어: 誠(정성 성) + 實(열매 실) + 하다"
+  - korean: 친절하다
+    reading: null
+    translation:
+      en: "to be kind, friendly"
+      ko: "다른 사람에게 잘 대하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 親(close) + 切(earnest) + 하다"
+      ko: "한자어: 親(친할 친) + 切(간절할 절) + 하다"
+  - korean: 게으르다
+    reading: null
+    translation:
+      en: "to be lazy"
+      ko: "부지런하지 않다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; 르-irregular (게을러)"
+      ko: "순우리말 형용사; 르불규칙 (게을러)"
+  - korean: 부지런하다
+    reading: null
+    translation:
+      en: "to be diligent, hardworking"
+      ko: "열심히 하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; opposite of 게으르다"
+      ko: "순우리말 형용사; 게으르다의 반의어"
+  - korean: 꼼꼼하다
+    reading: null
+    translation:
+      en: "to be meticulous, thorough"
+      ko: "세밀하고 빠뜨리는 것이 없다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; attention to detail"
+      ko: "순우리말 형용사; 세심하게 잘 챙기는 성격"
+  - korean: 소심하다
+    reading: null
+    translation:
+      en: "to be timid, shy"
+      ko: "겁이 많다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 小(small) + 心(heart) + 하다"
+      ko: "한자어: 小(작을 소) + 心(마음 심) + 하다"
+  - korean: 대담하다
+    reading: null
+    translation:
+      en: "to be bold, daring"
+      ko: "겁이 없다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 大(big) + 膽(gallbladder/courage) + 하다"
+      ko: "한자어: 大(큰 대) + 膽(쓸개 담) + 하다"
+  - korean: 낙천적
+    reading: null
+    translation:
+      en: "optimistic"
+      ko: "밝고 긍정적인"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 樂(enjoy) + 天(heaven) + 的(adjective marker)"
+      ko: "한자어: 樂(즐길 락) + 天(하늘 천) + 的(적)"
+  - korean: 비관적
+    reading: null
+    translation:
+      en: "pessimistic"
+      ko: "부정적으로 보는"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 悲(sad) + 觀(view) + 的(adjective marker)"
+      ko: "한자어: 悲(슬플 비) + 觀(볼 관) + 的(적)"
+  - korean: 내성적
+    reading: null
+    translation:
+      en: "introverted"
+      ko: "안으로 향하는 성격"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 內(inside) + 省(reflect) + 的(adjective marker)"
+      ko: "한자어: 內(안 내) + 省(살필 성) + 的(적)"
+  - korean: 외향적
+    reading: null
+    translation:
+      en: "extroverted"
+      ko: "밖으로 향하는 성격"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 外(outside) + 向(toward) + 的(adjective marker)"
+      ko: "한자어: 外(바깥 외) + 向(향할 향) + 的(적)"
+
+- id: emotional_expressions
+  label:
+    en: "Emotional Expressions"
+    ko: "감정 표현"
+  type: vocabulary
+  words:
+  - korean: 감정
+    reading: null
+    translation:
+      en: "emotion, feeling"
+      ko: "마음에서 느끼는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 感(feel) + 情(emotion)"
+      ko: "한자어: 感(느낄 감) + 情(뜻 정)"
+  - korean: 기분
+    reading: null
+    translation:
+      en: "mood, feeling"
+      ko: "그때그때의 마음 상태"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 氣(energy) + 分(portion)"
+      ko: "한자어: 氣(기운 기) + 分(나눌 분)"
+  - korean: 스트레스
+    reading: null
+    translation:
+      en: "stress"
+      ko: "정신적 압박"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'stress'"
+      ko: "외래어: 영어 'stress'에서 유래"
+  - korean: 우울하다
+    reading: null
+    translation:
+      en: "to be depressed, gloomy"
+      ko: "기분이 가라앉다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 憂(worry) + 鬱(gloomy) + 하다"
+      ko: "한자어: 憂(근심 우) + 鬱(답답할 울) + 하다"
+  - korean: 긴장하다
+    reading: null
+    translation:
+      en: "to be nervous, tense"
+      ko: "마음이 팽팽하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 緊(tight) + 張(stretch) + 하다"
+      ko: "한자어: 緊(긴할 긴) + 張(베풀 장) + 하다"
+  - korean: 무섭다
+    reading: null
+    translation:
+      en: "to be scary, frightened"
+      ko: "두렵다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; ㅂ-irregular (무서워)"
+      ko: "순우리말 형용사; ㅂ불규칙 (무서워)"
+  - korean: 질투하다
+    reading: null
+    translation:
+      en: "to be jealous"
+      ko: "시기하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 嫉(envy) + 妬(jealous) + 하다"
+      ko: "한자어: 嫉(미워할 질) + 妬(시기할 투) + 하다"
+  - korean: 속상하다
+    reading: null
+    translation:
+      en: "to be upset, troubled"
+      ko: "마음이 상하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 속(inside) + 상하다(to be hurt)"
+      ko: "순우리말: 속 + 상하다; 마음이 아픈 상태"
+  - korean: 허전하다
+    reading: null
+    translation:
+      en: "to feel empty, void"
+      ko: "텅 빈 느낌이다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean adjective; emotional emptiness"
+      ko: "순우리말 형용사; 마음이 비어 있는 느낌"
+  - korean: 한심하다
+    reading: null
+    translation:
+      en: "to be pathetic, pitiful"
+      ko: "답답하고 어이없다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 寒(cold) + 心(heart) + 하다; 'cold-hearted' feeling"
+      ko: "한자어: 寒(찰 한) + 心(마음 심) + 하다"
