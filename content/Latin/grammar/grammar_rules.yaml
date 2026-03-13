@@ -1,0 +1,562 @@
+# Latin Grammar Rules, Contrasts, and Patterns
+
+rules:
+  # ============================================================
+  # 1. NOMINATIVE vs ACCUSATIVE CASE
+  # ============================================================
+  nominative_vs_accusative:
+    id: nominative_vs_accusative
+    label:
+      en: "Nominative vs Accusative Case"
+      ko: "주격 vs 대격"
+    category: cases
+    cefr: A1
+    description:
+      en: "The nominative case marks the subject of a sentence, while the accusative marks the direct object. Neuter nouns always have identical nominative and accusative forms. Recognizing these two cases is the first step to reading Latin."
+      ko: "주격은 문장의 주어를, 대격은 직접 목적어를 표시한다. 중성 명사는 주격과 대격이 항상 동일하다. 이 두 격을 인식하는 것이 라틴어 읽기의 첫걸음이다."
+    mnemonics:
+      - name: "Subject vs Object Identification"
+        for: case_distinction
+        description:
+          en: "The nominative answers 'who/what does the action?' while the accusative answers 'who/what receives the action?' Word order in Latin is flexible, so case endings — not position — determine meaning."
+          ko: "주격은 '누가/무엇이 행동하는가?'에, 대격은 '누가/무엇이 행동을 받는가?'에 답한다. 라틴어는 어순이 자유로우므로 위치가 아닌 격 어미가 의미를 결정한다."
+        items:
+          - case: nominativus
+            function: {en: subject of the verb, ko: 동사의 주어}
+            example: "Puella cantat. (The girl sings.)"
+          - case: accusativus
+            function: {en: direct object of the verb, ko: 동사의 직접 목적어}
+            example: "Puella rosam videt. (The girl sees the rose.)"
+      - name: "Neuter Nominative-Accusative Rule"
+        for: neuter_rule
+        description:
+          en: "In ALL declensions, neuter nouns have the same form for nominative and accusative, both singular and plural. The neuter plural nominative/accusative always ends in -a."
+          ko: "모든 변화에서 중성 명사는 주격과 대격이 단수·복수 모두 동일하다. 중성 복수 주격/대격은 항상 -a로 끝난다."
+        items:
+          - declension: "2nd neuter"
+            singular: "bellum (nom.) = bellum (acc.)"
+            plural: "bella (nom.) = bella (acc.)"
+          - declension: "3rd neuter"
+            singular: "corpus (nom.) = corpus (acc.)"
+            plural: "corpora (nom.) = corpora (acc.)"
+          - declension: "4th neuter"
+            singular: "cornu (nom.) = cornu (acc.)"
+            plural: "cornua (nom.) = cornua (acc.)"
+      - name: "Word Order Flexibility"
+        for: word_order
+        description:
+          en: "Because case endings mark grammatical function, Latin word order is free. All three sentences below mean 'The farmer loves the girl,' despite different orders."
+          ko: "격 어미가 문법 기능을 표시하므로 라틴어 어순은 자유롭다. 아래 세 문장은 어순이 달라도 모두 '농부가 소녀를 사랑한다'를 뜻한다."
+        items:
+          - order: SOV
+            sentence: "Agricola puellam amat."
+            translation: {en: "The farmer loves the girl.", ko: "농부가 소녀를 사랑한다."}
+          - order: OVS
+            sentence: "Puellam amat agricola."
+            translation: {en: "The farmer loves the girl.", ko: "농부가 소녀를 사랑한다."}
+          - order: VSO
+            sentence: "Amat agricola puellam."
+            translation: {en: "The farmer loves the girl.", ko: "농부가 소녀를 사랑한다."}
+    exercises:
+      - question:
+          en: "Identify the subject: Reginam servus videt."
+          ko: "주어를 찾으시오: Reginam servus videt."
+        answer: "servus (nominative)"
+        explanation:
+          en: "Servus is nominative (subject), reginam is accusative (direct object). The slave sees the queen."
+          ko: "Servus는 주격(주어), reginam은 대격(직접 목적어). 노예가 여왕을 본다."
+      - question:
+          en: "Fill in the accusative: Poeta ___ (stella) videt."
+          ko: "대격을 채우시오: Poeta ___ (stella) videt."
+        answer: "stellam"
+        explanation:
+          en: "Stella is 1st declension; accusative singular is stellam. The poet sees the star."
+          ko: "Stella는 제1변화; 대격 단수는 stellam. 시인이 별을 본다."
+
+  # ============================================================
+  # 2. GENITIVE, DATIVE, AND ABLATIVE CASES
+  # ============================================================
+  genitive_dative_ablative:
+    id: genitive_dative_ablative
+    label:
+      en: "Genitive, Dative, and Ablative Cases"
+      ko: "속격, 여격, 탈격"
+    category: cases
+    cefr: A2
+    description:
+      en: "The genitive expresses possession and partitive relations. The dative marks the indirect object (to/for whom). The ablative is the most versatile case, expressing separation (from), means/instrument (by/with), manner, accompaniment, time, and place."
+      ko: "속격은 소유와 부분 관계를 표현한다. 여격은 간접 목적어(~에게)를 표시한다. 탈격은 가장 다용도인 격으로, 분리(~로부터), 수단/도구(~로/~으로), 양태, 동반, 시간, 장소를 표현한다."
+    mnemonics:
+      - name: "Genitive — Possession and 'Of'"
+        for: genetivus
+        description:
+          en: "The genitive answers 'whose?' or 'of what?' It connects two nouns, with the genitive noun modifying the other."
+          ko: "속격은 '누구의?' 또는 '무엇의?'에 답한다. 두 명사를 연결하며, 속격 명사가 다른 명사를 수식한다."
+        items:
+          - usage: {en: possession, ko: 소유}
+            example: "Liber puellae. (The girl's book / The book of the girl.)"
+          - usage: {en: partitive, ko: 부분}
+            example: "Pars urbis. (Part of the city.)"
+          - usage: {en: objective genitive, ko: 목적 속격}
+            example: "Amor patriae. (Love of the fatherland.)"
+          - usage: {en: genitive of description, ko: 기술의 속격}
+            example: "Vir magnae virtutis. (A man of great courage.)"
+      - name: "Dative — Indirect Object and Interest"
+        for: dativus
+        description:
+          en: "The dative answers 'to whom?' or 'for whom?' It marks the person who benefits from or is affected by the action."
+          ko: "여격은 '누구에게?' 또는 '누구를 위해?'에 답한다. 행동으로부터 이익을 얻거나 영향을 받는 사람을 표시한다."
+        items:
+          - usage: {en: indirect object, ko: 간접 목적어}
+            example: "Magister pueris librum dat. (The teacher gives the book to the boys.)"
+          - usage: {en: dative of reference, ko: 관점의 여격}
+            example: "Hoc mihi gratum est. (This is pleasing to me.)"
+          - usage: {en: dative of purpose, ko: 목적의 여격}
+            example: "Auxilio venit. (He came for help / as a help.)"
+          - usage: {en: dative with special verbs, ko: 특수 동사와 여격}
+            example: "Credo tibi. (I believe you.) — Credere, nocere, placere, parere, studere take the dative."
+      - name: "Ablative — The Swiss Army Knife"
+        for: ablativus
+        description:
+          en: "The ablative is the most multifunctional Latin case, historically merging three Proto-Indo-European cases (ablative, instrumental, locative). Prepositions often clarify its function."
+          ko: "탈격은 역사적으로 세 개의 인도유럽 조어 격(탈격, 도구격, 처격)이 합쳐진 가장 다기능적인 격이다. 전치사가 기능을 명확히 하는 경우가 많다."
+        items:
+          - usage: {en: "separation (from)", ko: "분리 (~로부터)"}
+            example: "Ab urbe discessit. (He departed from the city.)"
+            preposition: "a/ab, e/ex, de"
+          - usage: {en: "means/instrument (by, with)", ko: "수단/도구 (~로)"}
+            example: "Gladio pugnat. (He fights with a sword.)"
+            preposition: "none (bare ablative)"
+          - usage: {en: "manner (in what way)", ko: "양태 (어떤 방식으로)"}
+            example: "Cum cura laborat. (He works with care.)"
+            preposition: "cum (often optional with adjective)"
+          - usage: {en: "accompaniment (with)", ko: "동반 (~과 함께)"}
+            example: "Cum amicis ambulat. (He walks with friends.)"
+            preposition: "cum"
+          - usage: {en: "time when", ko: "시간 (~에)"}
+            example: "Tertia hora venit. (He came at the third hour.)"
+            preposition: "none (bare ablative)"
+          - usage: {en: "place where", ko: "장소 (~에서)"}
+            example: "In foro stat. (He stands in the forum.)"
+            preposition: "in"
+    exercises:
+      - question:
+          en: "Identify the case: Liber magistri bonus est."
+          ko: "격을 밝히시오: Liber magistri bonus est."
+        answer: "magistri = genitive (of the teacher)"
+        explanation:
+          en: "Magistri is genitive singular of magister. The teacher's book is good."
+          ko: "Magistri는 magister의 속격 단수. 선생님의 책이 좋다."
+      - question:
+          en: "Fill in: Puer ___ (gladius, ablative) pugnat."
+          ko: "빈칸 채우기: Puer ___ (gladius, 탈격) pugnat."
+        answer: "gladio"
+        explanation:
+          en: "Gladius is 2nd declension; ablative singular is gladio. The boy fights with a sword (ablative of means)."
+          ko: "Gladius는 제2변화; 탈격 단수는 gladio. 소년이 칼로 싸운다 (수단의 탈격)."
+
+  # ============================================================
+  # 3. ABLATIVUS ABSOLUTUS (Ablative Absolute)
+  # ============================================================
+  ablativus_absolutus:
+    id: ablativus_absolutus
+    label:
+      en: "Ablativus Absolutus (Ablative Absolute)"
+      ko: "독립 탈격 (절대 탈격)"
+    category: syntax
+    cefr: B1
+    description:
+      en: "The ablative absolute is a participial phrase grammatically independent from the main clause. It consists of a noun (or pronoun) and a participle, both in the ablative case. It can express time, cause, condition, or concession. Because Latin lacks a present participle for 'esse,' noun + noun or noun + adjective ablative absolutes fill this gap."
+      ko: "독립 탈격은 주절과 문법적으로 독립된 분사구이다. 명사(또는 대명사)와 분사가 모두 탈격으로 쓰인다. 시간, 원인, 조건, 양보를 표현할 수 있다. 라틴어에는 esse의 현재분사가 없으므로, 명사+명사 또는 명사+형용사 독립 탈격이 이 공백을 채운다."
+    mnemonics:
+      - name: "Structure and Formation"
+        for: formation
+        description:
+          en: "The ablative absolute is 'absolute' (absolutus = loosened) because its subject must NOT be the same as the subject or object of the main clause. It uses either a present participle (-ns, -ntis) or perfect passive participle (-tus, -sus)."
+          ko: "독립 탈격은 그 주어가 주절의 주어나 목적어와 동일하면 안 되기에 '독립적'(absolutus = 풀려난)이라 불린다. 현재분사(-ns, -ntis) 또는 완료 수동분사(-tus, -sus)를 사용한다."
+        items:
+          - type: {en: "present participle (simultaneous action)", ko: "현재분사 (동시 행동)"}
+            example: "Sole oriente, agricolae laborant."
+            translation: {en: "With the sun rising, the farmers work.", ko: "해가 뜨면서 농부들이 일한다."}
+          - type: {en: "perfect participle (prior action)", ko: "완료분사 (선행 행동)"}
+            example: "Urbe capta, milites discesserunt."
+            translation: {en: "With the city having been captured, the soldiers departed.", ko: "도시가 함락된 후 군인들이 떠났다."}
+          - type: {en: "noun + noun (no participle of esse)", ko: "명사 + 명사 (esse의 분사 없음)"}
+            example: "Cicerone consule, coniuratio detecta est."
+            translation: {en: "With Cicero (being) consul, the conspiracy was discovered.", ko: "키케로가 집정관이었을 때 음모가 발각되었다."}
+          - type: {en: "noun + adjective", ko: "명사 + 형용사"}
+            example: "Me invito, profectus est."
+            translation: {en: "Against my will (with me unwilling), he departed.", ko: "내가 원치 않았는데 (나는 반대했으나) 그가 떠났다."}
+      - name: "Translating the Ablative Absolute"
+        for: translation_strategies
+        description:
+          en: "The ablative absolute can be translated multiple ways in English depending on context: temporal clause (when/after), causal clause (because/since), conditional clause (if), or concessive clause (although)."
+          ko: "독립 탈격은 문맥에 따라 여러 방식으로 번역할 수 있다: 시간절(~할 때/~한 후), 원인절(~이므로), 조건절(~하면), 양보절(~에도 불구하고)."
+        items:
+          - meaning: {en: temporal, ko: 시간}
+            example: "His rebus cognitis, Caesar exercitum movit."
+            translation: {en: "When these things were learned, Caesar moved the army.", ko: "이 사실들이 알려지자 카이사르가 군대를 이동시켰다."}
+            source: "Caesar, De Bello Gallico"
+          - meaning: {en: causal, ko: 원인}
+            example: "Hostibus fugatis, pax restituta est."
+            translation: {en: "Because the enemies were routed, peace was restored.", ko: "적이 패주하였으므로 평화가 회복되었다."}
+          - meaning: {en: concessive, ko: 양보}
+            example: "Omnibus resistentibus, rex tamen profectus est."
+            translation: {en: "Although everyone resisted, the king nevertheless set out.", ko: "모두가 반대했음에도 왕은 그래도 출발했다."}
+    exercises:
+      - question:
+          en: "Parse: Duce mortuo, milites fugerunt."
+          ko: "분석하시오: Duce mortuo, milites fugerunt."
+        answer: "duce mortuo = ablative absolute (dux + mortuus, both ablative)"
+        explanation:
+          en: "With the leader dead, the soldiers fled. Duce (abl. of dux) + mortuo (abl. of mortuus, perfect participle of mori)."
+          ko: "지휘관이 죽자 군인들이 도망갔다. Duce (dux의 탈격) + mortuo (mori의 완료분사 mortuus의 탈격)."
+      - question:
+          en: "Translate: Navibus paratis, Romani mare transierunt."
+          ko: "번역하시오: Navibus paratis, Romani mare transierunt."
+        answer: "When/After the ships were prepared, the Romans crossed the sea."
+        explanation:
+          en: "Navibus paratis is an ablative absolute: navibus (abl. pl. of navis) + paratis (abl. pl. of paratus, perf. part. of parare)."
+          ko: "Navibus paratis는 독립 탈격: navibus (navis의 탈격 복수) + paratis (parare의 완료분사 paratus의 탈격 복수). 배가 준비된 후 로마인들이 바다를 건넜다."
+
+  # ============================================================
+  # 4. ACCUSATIVUS CUM INFINITIVO (Indirect Statement)
+  # ============================================================
+  accusativus_cum_infinitivo:
+    id: accusativus_cum_infinitivo
+    label:
+      en: "Accusativus cum Infinitivo (Indirect Statement)"
+      ko: "대격 + 부정법 (간접 화법)"
+    category: syntax
+    cefr: B2
+    description:
+      en: "Latin expresses indirect statements (what someone says, thinks, knows, perceives) using the accusative + infinitive construction, not a 'that' clause as in English. The subject of the infinitive goes into the accusative case, and the tense of the infinitive is relative to the main verb."
+      ko: "라틴어는 간접 화법(누가 말하고, 생각하고, 알고, 인식하는 것)을 영어처럼 'that' 절이 아니라 대격 + 부정법 구문으로 표현한다. 부정법의 주어는 대격이 되고, 부정법의 시제는 주동사에 대해 상대적이다."
+    mnemonics:
+      - name: "Basic Structure"
+        for: structure
+        description:
+          en: "Head verb (of saying, thinking, knowing, perceiving) + subject in ACCUSATIVE + INFINITIVE. The accusative is the subject of the infinitive clause, not its object."
+          ko: "주동사(말하다, 생각하다, 알다, 인식하다 계열) + 대격 주어 + 부정법. 대격은 부정법절의 주어이지 목적어가 아니다."
+        items:
+          - head_verb: {en: "verbs of saying (dicere, narrare, negare, respondere)", ko: "말하기 동사 (dicere, narrare, negare, respondere)"}
+            example: "Dicit puellam cantare."
+            translation: {en: "He says that the girl sings.", ko: "그는 소녀가 노래한다고 말한다."}
+          - head_verb: {en: "verbs of thinking (putare, credere, existimare, arbitrari)", ko: "생각하기 동사 (putare, credere, existimare, arbitrari)"}
+            example: "Credo eum venire."
+            translation: {en: "I believe that he is coming.", ko: "나는 그가 온다고 믿는다."}
+          - head_verb: {en: "verbs of knowing (scire, cognoscere, intellegere)", ko: "알기 동사 (scire, cognoscere, intellegere)"}
+            example: "Scimus terram esse rotundam."
+            translation: {en: "We know that the earth is round.", ko: "우리는 지구가 둥글다는 것을 안다."}
+          - head_verb: {en: "verbs of perceiving (videre, audire, sentire)", ko: "인식하기 동사 (videre, audire, sentire)"}
+            example: "Audio eos clamare."
+            translation: {en: "I hear them shouting.", ko: "나는 그들이 외치는 것을 듣는다."}
+      - name: "Sequence of Tenses in Infinitives"
+        for: tense_sequence
+        description:
+          en: "The infinitive tense is RELATIVE to the main verb: present infinitive = same time, perfect infinitive = before, future infinitive = after. This holds regardless of the main verb's tense."
+          ko: "부정법의 시제는 주동사에 대해 상대적이다: 현재 부정법 = 동시, 완료 부정법 = 이전, 미래 부정법 = 이후. 이는 주동사의 시제에 관계없이 적용된다."
+        items:
+          - infinitive: {en: "present (same time as main verb)", ko: "현재 부정법 (주동사와 동시)"}
+            active: "amare (to love / to be loving)"
+            passive: "amari (to be loved)"
+            example: "Dicit eum venire. (He says that he is coming.)"
+          - infinitive: {en: "perfect (before main verb)", ko: "완료 부정법 (주동사 이전)"}
+            active: "amavisse (to have loved)"
+            passive: "amatum esse (to have been loved)"
+            example: "Dicit eum venisse. (He says that he came / has come.)"
+          - infinitive: {en: "future (after main verb)", ko: "미래 부정법 (주동사 이후)"}
+            active: "amaturum esse (to be about to love)"
+            passive: "amatum iri (to be about to be loved)"
+            example: "Dicit eum venturum esse. (He says that he will come.)"
+      - name: "Reflexive in Indirect Statement"
+        for: reflexive
+        description:
+          en: "When the subject of the indirect statement is the same as the subject of the main verb, Latin uses the reflexive pronoun se (acc.) and suus (possessive) instead of eum/eius."
+          ko: "간접 화법의 주어가 주동사의 주어와 같을 때, 라틴어는 eum/eius 대신 재귀대명사 se(대격)와 suus(소유)를 사용한다."
+        items:
+          - type: {en: "different subject → eum", ko: "주어가 다름 → eum"}
+            example: "Caesar dicit eum venire."
+            translation: {en: "Caesar says that he (= someone else) is coming.", ko: "카이사르는 그가(= 다른 사람) 온다고 말한다."}
+          - type: {en: "same subject → se", ko: "주어가 같음 → se"}
+            example: "Caesar dicit se venire."
+            translation: {en: "Caesar says that he (= Caesar himself) is coming.", ko: "카이사르는 자신이 온다고 말한다."}
+    exercises:
+      - question:
+          en: "Translate: Milites credunt hostes fugisse."
+          ko: "번역하시오: Milites credunt hostes fugisse."
+        answer: "The soldiers believe that the enemies fled / have fled."
+        explanation:
+          en: "Hostes (acc. pl.) is the subject of the infinitive fugisse (perfect infinitive of fugere = action before the believing)."
+          ko: "Hostes(대격 복수)가 부정법 fugisse(fugere의 완료 부정법 = 믿는 것보다 이전 행동)의 주어이다."
+      - question:
+          en: "Convert to indirect statement: 'Puella cantat.' (Magister dicit...)"
+          ko: "간접 화법으로 바꾸시오: 'Puella cantat.' (Magister dicit...)"
+        answer: "Magister dicit puellam cantare."
+        explanation:
+          en: "Puella (nom.) becomes puellam (acc.); cantat becomes cantare (present infinitive, same time as dicit)."
+          ko: "Puella(주격)가 puellam(대격)이 되고, cantat는 cantare(현재 부정법, dicit와 동시)가 된다."
+
+  # ============================================================
+  # 5. CONIUNCTIVUS TRIGGERS (Subjunctive Uses)
+  # ============================================================
+  coniunctivus_triggers:
+    id: coniunctivus_triggers
+    label:
+      en: "Coniunctivus Triggers (Subjunctive Uses)"
+      ko: "접속법 용법"
+    category: verbs
+    cefr: B1
+    description:
+      en: "The Latin subjunctive (coniunctivus) appears in both independent and dependent clauses. In dependent clauses, it is triggered by specific conjunctions and clause types: purpose (ut/ne), result (ut...ut non), cum-clauses, and indirect questions."
+      ko: "라틴어 접속법(coniunctivus)은 독립절과 종속절 모두에 나타난다. 종속절에서는 특정 접속사와 절 유형에 의해 발동된다: 목적(ut/ne), 결과(ut...ut non), cum절, 간접 의문."
+    mnemonics:
+      - name: "Purpose Clauses (ut / ne + subjunctive)"
+        for: purpose
+        description:
+          en: "Purpose clauses answer 'why?' or 'for what purpose?' They use ut (positive) or ne (negative) with the subjunctive. The English equivalent is 'in order to / so that / lest.'"
+          ko: "목적절은 '왜?' 또는 '무슨 목적으로?'에 답한다. ut(긍정) 또는 ne(부정) + 접속법을 사용한다. 영어로는 'in order to / so that / lest'에 해당한다."
+        items:
+          - type: {en: "positive purpose (ut)", ko: "긍정 목적 (ut)"}
+            example: "Venio ut te videam."
+            translation: {en: "I come in order to see you. / I come so that I may see you.", ko: "나는 너를 보기 위해 온다."}
+          - type: {en: "negative purpose (ne)", ko: "부정 목적 (ne)"}
+            example: "Fugit ne caperetur."
+            translation: {en: "He fled lest he be captured. / He fled so that he would not be captured.", ko: "그는 잡히지 않으려고 도망쳤다."}
+          - type: {en: "purpose with qui (relative clause of purpose)", ko: "관계 목적절 (qui)"}
+            example: "Legatos misit qui pacem peterent."
+            translation: {en: "He sent envoys to seek peace. (lit. who would seek peace.)", ko: "그는 평화를 구할 사절들을 보냈다."}
+      - name: "Result Clauses (ut / ut non + subjunctive)"
+        for: result
+        description:
+          en: "Result clauses show the actual consequence of the main clause. They are signaled by 'marker words' in the main clause (tam, tantus, ita, sic, adeo, tot, talis) and use ut (positive) or ut non (negative) — never ne."
+          ko: "결과절은 주절의 실제 결과를 보여준다. 주절의 '표지어'(tam, tantus, ita, sic, adeo, tot, talis)가 신호이며, ut(긍정) 또는 ut non(부정)을 사용한다 — ne는 쓰지 않는다."
+        items:
+          - type: {en: "positive result", ko: "긍정 결과"}
+            example: "Tam fortis erat ut omnes eum laudarent."
+            translation: {en: "He was so brave that everyone praised him.", ko: "그는 너무 용감해서 모두가 그를 칭찬했다."}
+          - type: {en: "negative result (ut non, NOT ne)", ko: "부정 결과 (ut non, ne 아님)"}
+            example: "Tam stultus erat ut nihil intellegeret."
+            translation: {en: "He was so foolish that he understood nothing.", ko: "그는 너무 어리석어서 아무것도 이해하지 못했다."}
+        distinction:
+          en: "Purpose vs Result: Purpose uses ne for negative; Result uses ut non. Purpose looks forward to an intended goal; Result looks at an actual outcome."
+          ko: "목적 vs 결과: 목적은 부정에 ne를 사용; 결과는 ut non을 사용. 목적은 의도된 목표를 향하고; 결과는 실제 결과를 본다."
+      - name: "Cum-Clauses (cum + subjunctive)"
+        for: cum_clauses
+        description:
+          en: "When cum means 'when/since/although' with past tenses, it takes the subjunctive. Cum + indicative is used only for present/future time or repeated past action."
+          ko: "cum이 과거 시제에서 '~할 때/~이므로/~에도 불구하고'를 의미할 때 접속법을 취한다. Cum + 직설법은 현재/미래 시간이나 반복적 과거 행동에만 사용된다."
+        items:
+          - type: {en: "cum temporale (when)", ko: "시간의 cum (~할 때)"}
+            example: "Cum venisset, omnes gaudebant."
+            translation: {en: "When he had arrived, everyone was rejoicing.", ko: "그가 도착했을 때 모두가 기뻐하고 있었다."}
+          - type: {en: "cum causale (since/because)", ko: "원인의 cum (~이므로)"}
+            example: "Cum id sciret, tacuit."
+            translation: {en: "Since he knew this, he was silent.", ko: "그는 이것을 알았으므로 침묵했다."}
+          - type: {en: "cum concessivum (although)", ko: "양보의 cum (~에도 불구하고)"}
+            example: "Cum esset pauper, tamen beatus erat."
+            translation: {en: "Although he was poor, he was nevertheless happy.", ko: "그는 가난했지만 그래도 행복했다."}
+      - name: "Indirect Questions"
+        for: indirect_questions
+        description:
+          en: "Any question embedded inside another sentence takes the subjunctive in Latin. The interrogative word (quis, quid, cur, ubi, quando, quomodo, num, utrum...an) introduces the clause."
+          ko: "다른 문장에 포함된 모든 의문문은 라틴어에서 접속법을 취한다. 의문사(quis, quid, cur, ubi, quando, quomodo, num, utrum...an)가 절을 이끈다."
+        items:
+          - interrogative: {en: "quid (what)", ko: "quid (무엇)"}
+            example: "Nescio quid fecerit."
+            translation: {en: "I do not know what he did.", ko: "나는 그가 무엇을 했는지 모른다."}
+          - interrogative: {en: "cur (why)", ko: "cur (왜)"}
+            example: "Rogavit cur venissem."
+            translation: {en: "He asked why I had come.", ko: "그는 내가 왜 왔는지 물었다."}
+          - interrogative: {en: "utrum...an (whether...or)", ko: "utrum...an (~인지...인지)"}
+            example: "Quaero utrum verum an falsum sit."
+            translation: {en: "I ask whether it is true or false.", ko: "나는 그것이 참인지 거짓인지 묻는다."}
+    exercises:
+      - question:
+          en: "Identify the clause type: Venit ut te videret."
+          ko: "절의 유형을 밝히시오: Venit ut te videret."
+        answer: "Purpose clause (ut + subjunctive)"
+        explanation:
+          en: "He came in order to see you. Ut + imperfect subjunctive indicates purpose."
+          ko: "그는 너를 보기 위해 왔다. Ut + 미완료 접속법은 목적을 나타낸다."
+      - question:
+          en: "Purpose or Result? Tam celeriter cucurrit ut nemo eum caperet."
+          ko: "목적인가 결과인가? Tam celeriter cucurrit ut nemo eum caperet."
+        answer: "Result clause"
+        explanation:
+          en: "The marker word 'tam' in the main clause signals a result clause. He ran so quickly that no one caught him."
+          ko: "주절의 표지어 'tam'이 결과절을 신호한다. 그는 너무 빨리 달려서 아무도 그를 잡지 못했다."
+
+  # ============================================================
+  # 6. CONSECUTIO TEMPORUM (Sequence of Tenses)
+  # ============================================================
+  consecutio_temporum:
+    id: consecutio_temporum
+    label:
+      en: "Consecutio Temporum (Sequence of Tenses)"
+      ko: "시제 조응 (시제의 연속)"
+    category: verbs
+    cefr: B2
+    description:
+      en: "In Latin subordinate clauses requiring the subjunctive, the tense of the subjunctive is determined by (1) the tense of the main verb (primary or secondary sequence) and (2) the time relationship (same time, before, after) between the two clauses. This system is called the consecutio temporum."
+      ko: "라틴어에서 접속법을 요구하는 종속절에서, 접속법의 시제는 (1) 주동사의 시제(주시제 계열 또는 부시제 계열)와 (2) 두 절 간의 시간 관계(동시, 이전, 이후)에 의해 결정된다. 이 체계를 시제 조응이라 한다."
+    mnemonics:
+      - name: "Primary vs Secondary Sequence"
+        for: sequences
+        description:
+          en: "Primary sequence: main verb is present, future, or future perfect (present time frame). Secondary sequence: main verb is imperfect, perfect (narrative), or pluperfect (past time frame)."
+          ko: "주시제 계열: 주동사가 현재, 미래, 미래완료(현재 시간대). 부시제 계열: 주동사가 미완료, 완료(서술적), 대과거(과거 시간대)."
+        items:
+          - sequence: {en: "PRIMARY (present time frame)", ko: "주시제 계열 (현재 시간대)"}
+            main_verbs: "present, future, future perfect"
+            same_time: "present subjunctive"
+            before: "perfect subjunctive"
+            after: "active periphrastic subjunctive (-urus sim)"
+            example_same: "Rogat quid facias. (He asks what you are doing.)"
+            example_before: "Rogat quid feceris. (He asks what you did.)"
+            example_after: "Rogat quid facturus sis. (He asks what you will do.)"
+          - sequence: {en: "SECONDARY (past time frame)", ko: "부시제 계열 (과거 시간대)"}
+            main_verbs: "imperfect, perfect, pluperfect"
+            same_time: "imperfect subjunctive"
+            before: "pluperfect subjunctive"
+            after: "active periphrastic subjunctive (-urus essem)"
+            example_same: "Rogavit quid faceres. (He asked what you were doing.)"
+            example_before: "Rogavit quid fecisses. (He asked what you had done.)"
+            example_after: "Rogavit quid facturus esses. (He asked what you would do.)"
+      - name: "Summary Table"
+        for: summary
+        description:
+          en: "A concise reference table for the sequence of tenses."
+          ko: "시제 조응을 위한 간결한 참조 표."
+        items:
+          - relation: {en: "same time / ongoing", ko: "동시 / 진행 중"}
+            primary: "present subjunctive (faciam)"
+            secondary: "imperfect subjunctive (facerem)"
+          - relation: {en: "prior / completed", ko: "이전 / 완료"}
+            primary: "perfect subjunctive (fecerim)"
+            secondary: "pluperfect subjunctive (fecissem)"
+          - relation: {en: "subsequent / future", ko: "이후 / 미래"}
+            primary: "periphrastic: -urus sim (facturus sim)"
+            secondary: "periphrastic: -urus essem (facturus essem)"
+      - name: "The Perfect Indicative Ambiguity"
+        for: perfect_ambiguity
+        description:
+          en: "The Latin perfect indicative can function as either a primary tense (present perfect: 'I have done') or a secondary tense (simple past: 'I did'). Context determines the sequence."
+          ko: "라틴어 완료 직설법은 주시제(현재완료: '나는 해왔다') 또는 부시제(단순과거: '나는 했다') 어느 쪽으로도 기능할 수 있다. 문맥이 계열을 결정한다."
+        items:
+          - as_primary: "Cognovit quid facias. (He has found out what you are doing.) — present perfect sense"
+            translation: {en: "He has found out what you are doing.", ko: "그는 네가 무엇을 하고 있는지 알게 되었다."}
+          - as_secondary: "Cognovit quid faceres. (He found out what you were doing.) — narrative past sense"
+            translation: {en: "He found out what you were doing.", ko: "그는 네가 무엇을 하고 있었는지 알아냈다."}
+    exercises:
+      - question:
+          en: "Choose the subjunctive tense: Rogat cur ___ (venire, same time)."
+          ko: "접속법 시제를 고르시오: Rogat cur ___ (venire, 동시)."
+        answer: "venias (present subjunctive)"
+        explanation:
+          en: "Rogat is present (primary sequence). Same time in primary = present subjunctive."
+          ko: "Rogat는 현재(주시제 계열). 주시제에서 동시 = 현재 접속법."
+      - question:
+          en: "Choose the subjunctive tense: Rogavit cur ___ (venire, prior time)."
+          ko: "접속법 시제를 고르시오: Rogavit cur ___ (venire, 이전)."
+        answer: "venisses (pluperfect subjunctive)"
+        explanation:
+          en: "Rogavit is perfect/past (secondary sequence). Prior time in secondary = pluperfect subjunctive."
+          ko: "Rogavit는 완료/과거(부시제 계열). 부시제에서 이전 = 대과거 접속법."
+
+  # ============================================================
+  # 7. CONDITIONAL SENTENCES (Periodus Condicionalis)
+  # ============================================================
+  conditional_sentences:
+    id: conditional_sentences
+    label:
+      en: "Conditional Sentences (Periodus Condicionalis)"
+      ko: "조건문 (조건 주기)"
+    category: syntax
+    cefr: B2
+    description:
+      en: "Latin conditional sentences have three main types determined by the speaker's attitude toward the condition's reality. The protasis (si-clause) states the condition; the apodosis (main clause) states the consequence. Each type has a strict mood/tense pairing."
+      ko: "라틴어 조건문은 조건의 현실성에 대한 화자의 태도에 따라 세 가지 주요 유형이 있다. 전건(si절)이 조건을, 후건(주절)이 결과를 진술한다. 각 유형에는 엄격한 서법/시제 짝이 있다."
+    mnemonics:
+      - name: "Type 1: Simple / Open Conditions"
+        for: simple_conditions
+        description:
+          en: "The speaker makes no judgment about the likelihood. If the condition is true, the result follows. Both clauses use the indicative in any tense."
+          ko: "화자는 가능성에 대해 판단하지 않는다. 조건이 참이면 결과가 따른다. 두 절 모두 어떤 시제든 직설법을 사용한다."
+        items:
+          - tense: {en: "present (general truth)", ko: "현재 (일반적 진실)"}
+            formula: "si + present indicative → present indicative"
+            example: "Si hoc dicis, erras."
+            translation: {en: "If you say this, you are wrong.", ko: "네가 이것을 말하면, 너는 틀린 것이다."}
+          - tense: {en: "future (future more vivid)", ko: "미래 (미래 개연적)"}
+            formula: "si + future indicative → future indicative"
+            example: "Si venies, gaudebo."
+            translation: {en: "If you come, I will rejoice.", ko: "네가 오면, 나는 기뻐할 것이다."}
+          - tense: {en: "past (past simple)", ko: "과거 (단순 과거)"}
+            formula: "si + perfect/imperfect indicative → perfect/imperfect indicative"
+            example: "Si hoc dixit, erravit."
+            translation: {en: "If he said this, he was wrong.", ko: "그가 이것을 말했다면, 그는 틀렸다."}
+      - name: "Type 2: Future Less Vivid (Should-Would)"
+        for: future_less_vivid
+        description:
+          en: "The speaker presents the condition as hypothetical or less likely in the future. Both clauses use the PRESENT SUBJUNCTIVE. English uses 'should...would.'"
+          ko: "화자는 조건을 미래에 가정적이거나 덜 가능한 것으로 제시한다. 두 절 모두 현재 접속법을 사용한다. 영어로는 'should...would'를 사용한다."
+        items:
+          - formula: "si + present subjunctive → present subjunctive"
+            example: "Si hoc dicas, erres."
+            translation: {en: "If you should say this, you would be wrong.", ko: "네가 이것을 말한다면, 너는 틀릴 것이다."}
+          - formula: "si + present subjunctive → present subjunctive"
+            example: "Si venias, gaudeam."
+            translation: {en: "If you should come, I would rejoice.", ko: "네가 온다면, 나는 기뻐할 것이다."}
+          - formula: "si + present subjunctive → present subjunctive"
+            example: "Si quis hoc credat, stultus sit."
+            translation: {en: "If anyone should believe this, he would be foolish.", ko: "누군가 이것을 믿는다면, 그는 어리석을 것이다."}
+      - name: "Type 3: Contrary to Fact (Unreal)"
+        for: contrary_to_fact
+        description:
+          en: "The condition is known to be false. Present contrary-to-fact uses the imperfect subjunctive in both clauses. Past contrary-to-fact uses the pluperfect subjunctive in both clauses."
+          ko: "조건이 거짓임이 알려져 있다. 현재 반사실은 두 절 모두 미완료 접속법을 사용한다. 과거 반사실은 두 절 모두 대과거 접속법을 사용한다."
+        items:
+          - type: {en: "present contrary-to-fact", ko: "현재 반사실"}
+            formula: "si + imperfect subjunctive → imperfect subjunctive"
+            example: "Si hoc diceres, errares."
+            translation: {en: "If you were saying this (now), you would be wrong.", ko: "네가 (지금) 이것을 말한다면, 너는 틀릴 텐데."}
+          - type: {en: "present contrary-to-fact", ko: "현재 반사실"}
+            formula: "si + imperfect subjunctive → imperfect subjunctive"
+            example: "Si adesset, nos iuvaret."
+            translation: {en: "If he were here, he would help us.", ko: "그가 여기 있다면, 우리를 도울 텐데."}
+          - type: {en: "past contrary-to-fact", ko: "과거 반사실"}
+            formula: "si + pluperfect subjunctive → pluperfect subjunctive"
+            example: "Si hoc dixisses, erravisses."
+            translation: {en: "If you had said this, you would have been wrong.", ko: "네가 이것을 말했더라면, 너는 틀렸을 것이다."}
+          - type: {en: "past contrary-to-fact (classical)", ko: "과거 반사실 (고전)"}
+            formula: "si + pluperfect subjunctive → pluperfect subjunctive"
+            example: "Si Caesarem audivissetis, salvi essetis."
+            translation: {en: "If you had listened to Caesar, you would be safe.", ko: "카이사르의 말을 들었더라면, 너희는 안전할 것이다."}
+            source: "Mixed type: pluperfect protasis (past) + imperfect apodosis (present result)"
+    common_errors:
+      en: >
+        Common errors: (1) Confusing Type 2 (present subjunctive) with Type 3 present
+        contrary-to-fact (imperfect subjunctive). (2) Using the indicative in the
+        apodosis of Types 2 and 3 — both clauses must be subjunctive in Latin, unlike
+        English which uses 'would + infinitive.' (3) Forgetting that nisi (= si non)
+        is the standard way to negate si.
+      ko: >
+        흔한 오류: (1) 제2유형(현재 접속법)과 제3유형 현재 반사실(미완료 접속법)을
+        혼동. (2) 제2·3유형의 후건에 직설법을 사용 — 영어와 달리 라틴어는 두 절 모두
+        접속법이어야 한다. (3) nisi(= si non)가 si를 부정하는 표준 방식임을 잊는 것.
+    exercises:
+      - question:
+          en: "Identify the type: Si id credis, stultus es."
+          ko: "유형을 밝히시오: Si id credis, stultus es."
+        answer: "Type 1 — Simple / Open (present indicative in both clauses)"
+        explanation:
+          en: "Both verbs are present indicative. The speaker states a fact: If you believe this, you are foolish."
+          ko: "두 동사 모두 현재 직설법. 화자가 사실을 진술한다: 이것을 믿으면, 너는 어리석다."
+      - question:
+          en: "Fill in (past contrary-to-fact): Si ___ (scire), te ___ (monere)."
+          ko: "빈칸 채우기 (과거 반사실): Si ___ (scire), te ___ (monere)."
+        answer: "scivissem ... monuissem"
+        explanation:
+          en: "Past contrary-to-fact: si + pluperfect subjunctive → pluperfect subjunctive. If I had known, I would have warned you."
+          ko: "과거 반사실: si + 대과거 접속법 → 대과거 접속법. 내가 알았더라면, 너에게 경고했을 것이다."
