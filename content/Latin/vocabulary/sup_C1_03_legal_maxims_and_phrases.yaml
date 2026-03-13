@@ -1,0 +1,338 @@
+lesson: sup_C1_Legal_Maxims_and_Phrases
+lesson_number: 138
+type: supplementary
+topic: "Legal Maxims and Phrases"
+cefr: C1
+categories:
+- id: legal_maxims
+  label:
+    en: Legal Maxims and Principles
+    ko: 법률 격언과 원칙
+  type: vocabulary
+  words:
+  - latin: dura lex sed lex
+    translation:
+      en: the law is harsh, but it is the law
+      ko: 법은 가혹하지만 법이다
+    gender: f
+    notes:
+      en: "fundamental principle of legal positivism"
+      ko: "법실증주의의 기본 원칙"
+  - latin: ignorantia legis neminem excusat
+    translation:
+      en: ignorance of the law excuses no one
+      ko: 법의 무지는 누구도 면책하지 않는다
+    gender: f
+    notes:
+      en: "universal legal principle; also ignorantia iuris non excusat"
+      ko: "보편적 법적 원칙; ignorantia iuris non excusat으로도 표현"
+  - latin: nulla poena sine lege
+    translation:
+      en: no punishment without a law
+      ko: 법 없이는 처벌 없다
+    gender: f
+    notes:
+      en: "principle of legality; no crime or punishment without prior law"
+      ko: "죄형 법정주의; 사전 법률 없이는 범죄나 처벌이 없다"
+  - latin: lex posterior derogat legi priori
+    translation:
+      en: a later law repeals an earlier law
+      ko: 후법은 전법에 우선한다
+    gender: f
+    notes:
+      en: "principle of statutory interpretation"
+      ko: "법률 해석의 원칙"
+  - latin: lex specialis derogat legi generali
+    translation:
+      en: a special law prevails over a general law
+      ko: 특별법은 일반법에 우선한다
+    gender: f
+    notes:
+      en: "principle of legal interpretation"
+      ko: "법 해석의 원칙"
+  - latin: pacta sunt servanda
+    translation:
+      en: agreements must be kept
+      ko: 합의는 지켜져야 한다
+    gender: n
+    notes:
+      en: "foundational principle of contract law and international law"
+      ko: "계약법과 국제법의 기본 원칙"
+  - latin: audiatur et altera pars
+    translation:
+      en: let the other side also be heard
+      ko: 상대방의 말도 들어야 한다
+    gender: f
+    notes:
+      en: "principle of natural justice; right to a fair hearing"
+      ko: "자연적 정의의 원칙; 공정한 심리를 받을 권리"
+  - latin: in dubio pro reo
+    translation:
+      en: when in doubt, for the defendant
+      ko: 의심스러울 때는 피고인에게 유리하게
+    gender: n
+    notes:
+      en: "presumption of innocence"
+      ko: "무죄 추정의 원칙"
+  - latin: res iudicata
+    translation:
+      en: a matter adjudged, final judgment
+      ko: 기판력, 확정 판결
+    gender: f
+    notes:
+      en: "a case that has been finally decided and cannot be reopened"
+      ko: "최종적으로 판결되어 재개할 수 없는 사건"
+  - latin: ultra vires
+    translation:
+      en: beyond one's powers
+      ko: 권한 밖의
+    gender: n
+    notes:
+      en: "an act exceeding legal authority; opposite: intra vires"
+      ko: "법적 권한을 초과하는 행위; 반대: intra vires"
+  - latin: rebus sic stantibus
+    translation:
+      en: things standing thus, as matters stand
+      ko: 사정이 이러한 한
+    gender: n
+    notes:
+      en: "clause allowing treaty modification when circumstances fundamentally change"
+      ko: "사정이 근본적으로 변경되었을 때 조약 수정을 허용하는 조항"
+
+- id: procedural_terms
+  label:
+    en: Procedural and Forensic Terms
+    ko: 절차적·법정 용어
+  type: vocabulary
+  words:
+  - latin: habeas corpus
+    translation:
+      en: you shall have the body
+      ko: 인신 보호 영장
+    gender: n
+    notes:
+      en: "writ requiring a person under arrest to be brought before a court"
+      ko: "체포된 사람을 법정에 출석시킬 것을 요구하는 영장"
+  - latin: stare decisis
+    translation:
+      en: to stand by things decided
+      ko: 선례 구속의 원칙
+    gender: n
+    notes:
+      en: "the principle that courts should follow precedent"
+      ko: "법원이 판례를 따라야 한다는 원칙"
+  - latin: subpoena
+    translation:
+      en: under penalty, summons to appear
+      ko: 소환장
+    gender: f
+    notes:
+      en: "from sub poena 'under penalty'; compulsory court appearance"
+      ko: "sub poena '벌 아래'에서 유래; 강제적 법정 출석"
+  - latin: amicus curiae
+    translation:
+      en: friend of the court
+      ko: 법정 조언자
+    gender: m
+    notes:
+      en: "a person who offers advice to the court on a point of law"
+      ko: "법적 쟁점에 대해 법원에 조언을 제공하는 사람"
+  - latin: de novo
+    translation:
+      en: anew, from the beginning
+      ko: 새로, 처음부터
+    gender: n
+    notes:
+      en: "trial de novo = 'a completely new trial'"
+      ko: "trial de novo = '완전히 새로운 재판'"
+  - latin: ex parte
+    translation:
+      en: from one side, by one party only
+      ko: 일방적으로, 한쪽 당사자만
+    gender: n
+    notes:
+      en: "a legal proceeding brought by one party without notice to the other"
+      ko: "상대방에게 통지 없이 한쪽 당사자가 제기하는 법적 절차"
+  - latin: ad litem
+    translation:
+      en: for the suit, for the purpose of the legal action
+      ko: 소송을 위하여
+    gender: n
+    notes:
+      en: "guardian ad litem = 'guardian appointed for a lawsuit'"
+      ko: "guardian ad litem = '소송을 위해 지정된 후견인'"
+  - latin: pro se
+    translation:
+      en: for oneself, self-representing
+      ko: 본인 소송, 자기 대리
+    gender: n
+    notes:
+      en: "appearing in court without an attorney"
+      ko: "변호사 없이 법정에 출석"
+  - latin: certiorari
+    translation:
+      en: to be made more certain, judicial review
+      ko: 사건 이송 명령
+    gender: n
+    notes:
+      en: "writ by which a higher court reviews a lower court's decision"
+      ko: "상급 법원이 하급 법원의 판결을 심사하는 영장"
+  - latin: mandamus
+    translation:
+      en: we command
+      ko: 직무 집행 명령
+    gender: n
+    notes:
+      en: "a writ commanding a public officer to perform a duty"
+      ko: "공무원에게 직무 수행을 명하는 영장"
+
+- id: still_in_use
+  label:
+    en: Latin Phrases Still in Legal Use
+    ko: 여전히 법적으로 사용되는 라틴어 표현
+  type: vocabulary
+  words:
+  - latin: pro bono
+    translation:
+      en: for the good, free of charge
+      ko: 공익을 위해, 무보수로
+    gender: n
+    notes:
+      en: "short for pro bono publico 'for the public good'; free legal services"
+      ko: "pro bono publico '공익을 위하여'의 줄임; 무료 법률 서비스"
+  - latin: prima facie
+    translation:
+      en: at first sight, on the face of it
+      ko: 일견, 외관상
+    gender: f
+    notes:
+      en: "evidence sufficient to establish a fact unless rebutted"
+      ko: "반증이 없는 한 사실을 입증하기에 충분한 증거"
+  - latin: de facto
+    translation:
+      en: in fact, in practice
+      ko: 사실상
+    gender: n
+    notes:
+      en: "existing in fact whether legally recognized or not"
+      ko: "법적으로 인정되든 아니든 사실상 존재하는"
+  - latin: de iure
+    translation:
+      en: by right, according to law
+      ko: 법률상
+    gender: n
+    notes:
+      en: "also de jure; legally recognized"
+      ko: "de jure로도 표기; 법적으로 인정된"
+  - latin: bona fide
+    translation:
+      en: in good faith
+      ko: 선의의, 진정한
+    gender: f
+    notes:
+      en: "ablative of bona fides; genuine, without intent to deceive"
+      ko: "bona fides의 탈격; 기만 의도 없이 진실한"
+  - latin: corpus delicti
+    translation:
+      en: body of the crime
+      ko: 범죄 사실 (의 물적 증거)
+    gender: n
+    notes:
+      en: "the material evidence that a crime has been committed"
+      ko: "범죄가 발생했음을 보여주는 물적 증거"
+  - latin: mens rea
+    translation:
+      en: guilty mind, criminal intent
+      ko: 범의, 고의
+    gender: f
+    notes:
+      en: "the mental element of a crime; opposed to actus reus"
+      ko: "범죄의 정신적 요소; actus reus와 대립"
+  - latin: actus reus
+    translation:
+      en: guilty act, criminal act
+      ko: 범죄 행위
+    gender: m
+    notes:
+      en: "the physical element of a crime; opposed to mens rea"
+      ko: "범죄의 물리적 요소; mens rea와 대립"
+  - latin: caveat emptor
+    translation:
+      en: let the buyer beware
+      ko: 매수인이 주의하라
+    gender: m
+    notes:
+      en: "principle placing responsibility on the buyer to check quality"
+      ko: "품질 확인 책임을 매수인에게 두는 원칙"
+  - latin: nolo contendere
+    translation:
+      en: I do not wish to contend
+      ko: 불항쟁
+    gender: n
+    notes:
+      en: "a plea in criminal law accepting conviction without admitting guilt"
+      ko: "유죄를 인정하지 않고 유죄 판결을 수용하는 형사법상의 답변"
+  - latin: modus operandi
+    translation:
+      en: method of operating (M.O.)
+      ko: 수법, 작업 방식
+    gender: m
+    notes:
+      en: "abbreviated M.O.; the characteristic way a criminal operates"
+      ko: "약자 M.O.; 범죄자의 특징적인 행동 방식"
+  - latin: in flagrante delicto
+    translation:
+      en: in the blazing crime, caught in the act
+      ko: 현행범으로, 범행 현장에서
+    gender: n
+    notes:
+      en: "caught while committing the offense"
+      ko: "범행 중에 체포됨"
+  - latin: quid pro quo
+    translation:
+      en: something for something
+      ko: 대가, 보상
+    gender: n
+    notes:
+      en: "an exchange of equal value; consideration in contract law"
+      ko: "동등한 가치의 교환; 계약법에서의 대가"
+  - latin: non compos mentis
+    translation:
+      en: not of sound mind
+      ko: 정신 이상의
+    gender: m
+    notes:
+      en: "legally insane; lacking mental capacity; opposite: compos mentis"
+      ko: "법적으로 정신 이상; 정신적 능력 부재; 반대: compos mentis"
+  - latin: sui generis
+    translation:
+      en: of its own kind, unique
+      ko: 독자적인, 고유한
+    gender: n
+    notes:
+      en: "constituting a class of its own; defying classification"
+      ko: "그 자체로 하나의 부류를 이루는; 분류를 거부하는"
+  - latin: mutatis mutandis
+    translation:
+      en: with the necessary changes having been made
+      ko: 필요한 변경을 가하여
+    gender: n
+    notes:
+      en: "ablative absolute; applying a principle with appropriate modifications"
+      ko: "탈격 독립 구문; 적절한 수정을 가하여 원칙을 적용"
+  - latin: inter alia
+    translation:
+      en: among other things
+      ko: 다른 것들 중에서
+    gender: n
+    notes:
+      en: "used to indicate that something is one item in a larger list"
+      ko: "무언가가 더 큰 목록의 한 항목임을 나타낼 때 사용"
+  - latin: ipso facto
+    translation:
+      en: by the fact itself
+      ko: 사실 자체에 의하여
+    gender: n
+    notes:
+      en: "something that follows as a necessary consequence of the fact"
+      ko: "사실의 필연적 결과로 따라오는 것"
