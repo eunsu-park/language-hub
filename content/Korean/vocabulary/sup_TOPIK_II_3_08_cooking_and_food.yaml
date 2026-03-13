@@ -1,0 +1,514 @@
+lesson: supplementary
+lesson_number: 123
+topik: TOPIK_II_3
+type: supplementary
+topic: "Cooking and Food"
+
+categories:
+- id: cooking_methods
+  label:
+    en: "Cooking Methods"
+    ko: "조리법"
+  type: vocabulary
+  words:
+  - korean: 요리하다
+    reading: null
+    translation:
+      en: "to cook"
+      ko: "음식을 만들다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 料(manage) + 理(arrange) + 하다"
+      ko: "한자어: 料(헤아릴 료) + 理(다스릴 리) + 하다"
+  - korean: 볶다
+    reading: null
+    translation:
+      en: "to stir-fry"
+      ko: "기름에 빠르게 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; common method in Korean cooking"
+      ko: "순우리말 동사; 한국 요리에서 자주 쓰이는 방법"
+  - korean: 끓이다
+    reading: null
+    translation:
+      en: "to boil"
+      ko: "물을 팔팔 솓게 하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean causative verb; from 끓다(to boil)"
+      ko: "순우리말 사동사; 끓다에서 파생"
+  - korean: 굽다
+    reading: null
+    translation:
+      en: "to grill, roast, bake"
+      ko: "불에 직접 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; ㅂ-irregular (구워)"
+      ko: "순우리말 동사; ㅂ불규칙 (구워)"
+  - korean: 찌다
+    reading: null
+    translation:
+      en: "to steam"
+      ko: "수증기로 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb"
+      ko: "순우리말 동사"
+  - korean: 튀기다
+    reading: null
+    translation:
+      en: "to deep-fry"
+      ko: "기름에 담가 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean causative verb; from 튀다(to splash)"
+      ko: "순우리말 사동사; 튀다에서 파생"
+  - korean: 삶다
+    reading: null
+    translation:
+      en: "to boil (ingredients)"
+      ko: "물에 넣고 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; different from 끓이다 (boiling liquid vs. boiling items)"
+      ko: "순우리말 동사; 끓이다와 달리 재료를 물에 넣어 익히는 것"
+  - korean: 무치다
+    reading: null
+    translation:
+      en: "to season/mix (vegetables)"
+      ko: "양념에 버무리다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; used for 나물(vegetable side dishes)"
+      ko: "순우리말 동사; 나물을 만들 때 사용"
+  - korean: 데치다
+    reading: null
+    translation:
+      en: "to blanch"
+      ko: "끓는 물에 살짝 익히다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; briefly boiling vegetables"
+      ko: "순우리말 동사; 채소를 잠깐 삶는 것"
+  - korean: 졸이다
+    reading: null
+    translation:
+      en: "to simmer, reduce"
+      ko: "약한 불에 오래 끓이다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean causative verb; from 졸다(to reduce)"
+      ko: "순우리말 사동사; 졸다에서 파생"
+  - korean: 재다
+    reading: null
+    translation:
+      en: "to marinate"
+      ko: "양념에 담가 두다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb"
+      ko: "순우리말 동사; 고기나 채소를 양념에 절이는 것"
+  - korean: 절이다
+    reading: null
+    translation:
+      en: "to pickle, salt"
+      ko: "소금이나 식초에 담그다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean causative verb; from 절다(to be pickled)"
+      ko: "순우리말 사동사; 절다에서 파생; 김치 만들 때 사용"
+
+- id: ingredients
+  label:
+    en: "Ingredients"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - korean: 재료
+    reading: null
+    translation:
+      en: "ingredient, material"
+      ko: "요리에 넣는 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 材(material) + 料(stuff)"
+      ko: "한자어: 材(재목 재) + 料(헤아릴 료)"
+  - korean: 쌀
+    reading: null
+    translation:
+      en: "rice (uncooked)"
+      ko: "쌀"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word; staple of Korean diet"
+      ko: "순우리말; 한국인의 주식"
+  - korean: 밀가루
+    reading: null
+    translation:
+      en: "flour"
+      ko: "밀을 가루로 만든 것"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean compound: 밀(wheat) + 가루(powder)"
+      ko: "순우리말: 밀 + 가루"
+  - korean: 고기
+    reading: null
+    translation:
+      en: "meat"
+      ko: "고기"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 소고기
+    reading: null
+    translation:
+      en: "beef"
+      ko: "소의 고기"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 소(cow) + 고기(meat)"
+      ko: "순우리말: 소 + 고기"
+  - korean: 돼지고기
+    reading: null
+    translation:
+      en: "pork"
+      ko: "돼지의 고기"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 돼지(pig) + 고기(meat)"
+      ko: "순우리말: 돼지 + 고기"
+  - korean: 닭고기
+    reading: null
+    translation:
+      en: "chicken (meat)"
+      ko: "닭의 고기"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 닭(chicken) + 고기(meat)"
+      ko: "순우리말: 닭 + 고기"
+  - korean: 해산물
+    reading: null
+    translation:
+      en: "seafood"
+      ko: "바다에서 나는 음식"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 海(sea) + 産(produce) + 物(thing)"
+      ko: "한자어: 海(바다 해) + 産(낳을 산) + 物(물건 물)"
+  - korean: 두부
+    reading: null
+    translation:
+      en: "tofu"
+      ko: "콩으로 만든 음식"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 豆(bean) + 腐(curd)"
+      ko: "한자어: 豆(콩 두) + 腐(썩을 부)"
+  - korean: 채소
+    reading: null
+    translation:
+      en: "vegetables"
+      ko: "먹는 풀이나 나물"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 菜(vegetable) + 蔬(vegetable)"
+      ko: "한자어: 菜(나물 채) + 蔬(나물 소)"
+  - korean: 버섯
+    reading: null
+    translation:
+      en: "mushroom"
+      ko: "버섯"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+
+- id: seasonings
+  label:
+    en: "Seasonings"
+    ko: "양념"
+  type: vocabulary
+  words:
+  - korean: 양념
+    reading: null
+    translation:
+      en: "seasoning, marinade"
+      ko: "음식에 넣는 조미료"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 藥(medicine) + 念(thought); originally 'medicinal consideration'"
+      ko: "한자어: 藥(약 약) + 念(생각 념)에서 유래"
+  - korean: 고추장
+    reading: null
+    translation:
+      en: "red pepper paste"
+      ko: "고추로 만든 장"
+    gender: null
+    plural: null
+    notes:
+      en: "고추(chili pepper) + 장(paste); essential Korean condiment"
+      ko: "고추 + 장; 한국 요리의 기본 양념"
+  - korean: 된장
+    reading: null
+    translation:
+      en: "soybean paste"
+      ko: "콩으로 만든 장"
+    gender: null
+    plural: null
+    notes:
+      en: "되다(to become thick) + 장(paste); fermented soybean paste"
+      ko: "되다 + 장; 발효 식품"
+  - korean: 간장
+    reading: null
+    translation:
+      en: "soy sauce"
+      ko: "짠맛을 내는 장"
+    gender: null
+    plural: null
+    notes:
+      en: "간(salt/flavor) + 장(sauce); essential Korean seasoning"
+      ko: "간 + 장; 한국 요리의 기본 양념"
+  - korean: 참기름
+    reading: null
+    translation:
+      en: "sesame oil"
+      ko: "참깨로 만든 기름"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 참(true/genuine) + 기름(oil)"
+      ko: "순우리말: 참 + 기름; 한국 요리의 풍미를 더하는 기름"
+  - korean: 식초
+    reading: null
+    translation:
+      en: "vinegar"
+      ko: "신맛이 나는 액체"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 食(food) + 醋(vinegar)"
+      ko: "한자어: 食(먹을 식) + 醋(초 초)"
+  - korean: 마늘
+    reading: null
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word; Koreans consume more garlic per capita than most countries"
+      ko: "순우리말; 한국 요리에서 가장 많이 쓰이는 재료 중 하나"
+  - korean: 생강
+    reading: null
+    translation:
+      en: "ginger"
+      ko: "생강"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 生(raw) + 薑(ginger)"
+      ko: "한자어: 生(날 생) + 薑(생강 강)"
+  - korean: 파
+    reading: null
+    translation:
+      en: "green onion, scallion"
+      ko: "파"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word; staple garnish in Korean cooking"
+      ko: "순우리말; 한국 요리의 기본 고명"
+  - korean: 깨
+    reading: null
+    translation:
+      en: "sesame seeds"
+      ko: "참깨"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 소금
+    reading: null
+    translation:
+      en: "salt"
+      ko: "짠맛을 내는 양념"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 설탕
+    reading: null
+    translation:
+      en: "sugar"
+      ko: "단맛을 내는 양념"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 雪(snow) + 糖(sugar)"
+      ko: "한자어: 雪(눈 설) + 糖(엿 당)"
+  - korean: 후추
+    reading: null
+    translation:
+      en: "pepper (black)"
+      ko: "후추"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 胡(foreign) + 椒(pepper)"
+      ko: "한자어: 胡(오랑캐 호) + 椒(산초 초)"
+  - korean: 고춧가루
+    reading: null
+    translation:
+      en: "red pepper flakes/powder"
+      ko: "고추를 말려 빻은 가루"
+    gender: null
+    plural: null
+    notes:
+      en: "고추(chili) + 가루(powder); essential for kimchi and many dishes"
+      ko: "고추 + 가루; 김치와 한국 요리의 핵심 재료"
+
+- id: kitchen_actions
+  label:
+    en: "Kitchen Actions"
+    ko: "주방 동작"
+  type: vocabulary
+  words:
+  - korean: 썰다
+    reading: null
+    translation:
+      en: "to slice, cut"
+      ko: "칼로 자르다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb"
+      ko: "순우리말 동사"
+  - korean: 다지다
+    reading: null
+    translation:
+      en: "to mince, chop finely"
+      ko: "잘게 자르다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb"
+      ko: "순우리말 동사"
+  - korean: 섞다
+    reading: null
+    translation:
+      en: "to mix"
+      ko: "여러 가지를 합하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb"
+      ko: "순우리말 동사"
+  - korean: 담다
+    reading: null
+    translation:
+      en: "to put in, plate (food)"
+      ko: "그릇에 넣다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean verb; used for plating food"
+      ko: "순우리말 동사; 음식을 그릇에 담을 때 사용"
+  - korean: 칼
+    reading: null
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 도마
+    reading: null
+    translation:
+      en: "cutting board"
+      ko: "재료를 썰 때 받치는 판"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 냄비
+    reading: null
+    translation:
+      en: "pot, saucepan"
+      ko: "음식을 끓이는 그릇"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word; from Japanese 鍋(なべ)"
+      ko: "일본어 鍋(나베)에서 유래"
+  - korean: 프라이팬
+    reading: null
+    translation:
+      en: "frying pan"
+      ko: "볶거나 부칠 때 쓰는 팬"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'frying pan'"
+      ko: "외래어: 영어 'frying pan'에서 유래"
+  - korean: 국자
+    reading: null
+    translation:
+      en: "ladle"
+      ko: "국이나 찌개를 떠내는 도구"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "순우리말"
+  - korean: 젓가락
+    reading: null
+    translation:
+      en: "chopsticks"
+      ko: "음식을 집는 도구"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 젓(stir) + 가락(stick); Korean chopsticks are metal and flat"
+      ko: "순우리말: 젓 + 가락; 한국 젓가락은 금속으로 만들어 납작함"
+  - korean: 밥솥
+    reading: null
+    translation:
+      en: "rice cooker"
+      ko: "밥을 짓는 솥"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean: 밥(rice) + 솥(pot/cauldron)"
+      ko: "순우리말: 밥 + 솥"
