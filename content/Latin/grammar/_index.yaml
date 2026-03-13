@@ -1,0 +1,57 @@
+# Latin Grammar -- Index
+# Directory: language-hub/content/Latin/grammar/
+
+course: Latin
+section: grammar
+label:
+  en: "Latin Grammar Reference"
+  ko: "라틴어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for all four conjugation groups plus irregular verbs. Covers active/passive indicative and subjunctive tenses with principal parts."
+      ko: "4가지 활용군과 불규칙 동사의 완전한 동사 활용 패러다임. 능동/수동 직설법 및 접속법 시제와 기본형 포함."
+    verbs_included: 20
+    categories:
+      - regular_1st (amare, laudare)
+      - regular_2nd (monere, habere)
+      - regular_3rd (ducere, scribere)
+      - regular_3rd_io (capere, facere)
+      - regular_4th (audire, venire)
+      - irregular (esse, posse, ire, ferre, velle, nolle, malle, dare, fieri, edere)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense formation rules, personal endings, usage guidelines, and trigger words for all indicative (active/passive) and subjunctive tenses."
+      ko: "모든 직설법(능동/수동) 및 접속법 시제의 시제 형성 규칙, 인칭 어미, 사용법 지침, 트리거 단어."
+    tenses_included:
+      active_indicative: [praesens, imperfectum, futurum, perfectum, plusquamperfectum, futurum_exactum]
+      passive_indicative: [praesens_passivum, imperfectum_passivum, futurum_passivum, perfectum_passivum, plusquamperfectum_passivum, futurum_exactum_passivum]
+      subjunctive: [coniunctivus_praesens, coniunctivus_imperfectum, coniunctivus_perfectum, coniunctivus_plusquamperfectum]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules covering case usage, ablative absolute, indirect discourse, subjunctive triggers, sequence of tenses, and conditional sentences."
+      ko: "격 용법, 탈격 독립, 간접화법, 접속법 트리거, 시제 조응, 조건문을 다루는 문법 규칙."
+    rules_included:
+      - nominative_vs_accusative
+      - genitive_dative_ablative
+      - ablativus_absolutus
+      - accusativus_cum_infinitivo
+      - coniunctivus_triggers
+      - consecutio_temporum
+      - conditional_sentences
+
+  - file: declensions.yaml
+    description:
+      en: "Complete noun declension paradigms for all five declension groups with example nouns across six cases (nominative, genitive, dative, accusative, ablative, vocative) in singular and plural."
+      ko: "6격(주격, 속격, 여격, 대격, 탈격, 호격)의 단수·복수에 걸친 5가지 변화군의 완전한 명사 변화 패러다임과 예시 명사."
+    declensions_included:
+      - first (puella, terra, via)
+      - second_masculine (servus, puer, ager)
+      - second_neuter (bellum, donum)
+      - third_consonant (rex, miles, corpus, nomen)
+      - third_i_stem (civis, mare, animal)
+      - fourth (manus, cornu)
+      - fifth (res, dies)
