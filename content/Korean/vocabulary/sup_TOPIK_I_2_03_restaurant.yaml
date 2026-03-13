@@ -1,0 +1,648 @@
+lesson: supplementary
+lesson_number: 109
+topik: TOPIK_I_2
+type: supplementary
+topic: "Restaurant"
+
+categories:
+- id: restaurant_types
+  label:
+    en: "Restaurant Types"
+    ko: "식당 유형"
+  type: vocabulary
+  words:
+  - korean: 식당
+    reading: null
+    translation:
+      en: "restaurant"
+      ko: "식당"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 食堂; general term"
+      ko: "한자어: 食堂; 일반적 표현"
+  - korean: 카페
+    reading: null
+    translation:
+      en: "cafe"
+      ko: "카페"
+    gender: null
+    plural: null
+    notes:
+      en: "Very popular in Korea; coffee culture"
+      ko: "한국에서 매우 인기; 커피 문화"
+  - korean: 분식집
+    reading: null
+    translation:
+      en: "snack bar, casual eatery"
+      ko: "분식집"
+    gender: null
+    plural: null
+    notes:
+      en: "Serves tteokbokki, gimbap, ramyeon, etc."
+      ko: "떡볶이, 김밥, 라면 등을 판매"
+  - korean: 한식당
+    reading: null
+    translation:
+      en: "Korean restaurant"
+      ko: "한식당"
+    gender: null
+    plural: null
+    notes:
+      en: "Serves Korean cuisine"
+      ko: "한국 음식을 파는 식당"
+  - korean: 중국집
+    reading: null
+    translation:
+      en: "Chinese restaurant"
+      ko: "중국집"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean-Chinese restaurant"
+      ko: "한국식 중국 음식점"
+  - korean: 횟집
+    reading: null
+    translation:
+      en: "raw fish restaurant"
+      ko: "횟집"
+    gender: null
+    plural: null
+    notes:
+      en: "회 (raw fish) + 집 (place)"
+      ko: "회 + 집"
+  - korean: 고깃집
+    reading: null
+    translation:
+      en: "meat restaurant, BBQ restaurant"
+      ko: "고깃집"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean BBQ restaurant"
+      ko: "한국식 바비큐 식당"
+  - korean: 치킨집
+    reading: null
+    translation:
+      en: "fried chicken restaurant"
+      ko: "치킨집"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean fried chicken place"
+      ko: "한국 치킨 전문점"
+  - korean: 패스트푸드점
+    reading: null
+    translation:
+      en: "fast food restaurant"
+      ko: "패스트푸드점"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword + 점(店)"
+      ko: "외래어 + 점(店)"
+  - korean: 뷔페
+    reading: null
+    translation:
+      en: "buffet"
+      ko: "뷔페"
+    gender: null
+    plural: null
+    notes:
+      en: "All-you-can-eat restaurant"
+      ko: "무한 리필 식당"
+  - korean: 포장마차
+    reading: null
+    translation:
+      en: "street food stall"
+      ko: "포장마차"
+    gender: null
+    plural: null
+    notes:
+      en: "Iconic Korean street food tent"
+      ko: "한국의 대표적인 길거리 음식점"
+  - korean: 술집
+    reading: null
+    translation:
+      en: "bar, pub"
+      ko: "술집"
+    gender: null
+    plural: null
+    notes:
+      en: "술 (alcohol) + 집 (place)"
+      ko: "술 + 집"
+
+- id: ordering
+  label:
+    en: "Ordering"
+    ko: "주문"
+  type: vocabulary
+  words:
+  - korean: 메뉴
+    reading: null
+    translation:
+      en: "menu"
+      ko: "메뉴"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English/French"
+      ko: "영어/프랑스어에서 온 외래어"
+  - korean: 주문
+    reading: null
+    translation:
+      en: "order"
+      ko: "주문"
+    gender: null
+    plural: null
+    notes:
+      en: "주문하다 = to order"
+      ko: "주문하다"
+  - korean: 주문하다
+    reading: null
+    translation:
+      en: "to order"
+      ko: "주문하다"
+    gender: null
+    plural: null
+    notes:
+      en: "주문하시겠어요? = Would you like to order?"
+      ko: "주문하시겠어요?"
+  - korean: 추천
+    reading: null
+    translation:
+      en: "recommendation"
+      ko: "추천"
+    gender: null
+    plural: null
+    notes:
+      en: "추천해 주세요 = please recommend"
+      ko: "추천해 주세요"
+  - korean: 인분
+    reading: null
+    translation:
+      en: "serving, portion (counter)"
+      ko: "인분"
+    gender: null
+    plural: null
+    notes:
+      en: "2인분 = two servings"
+      ko: "2인분 = 두 사람 분량"
+  - korean: 더
+    reading: null
+    translation:
+      en: "more"
+      ko: "더"
+    gender: null
+    plural: null
+    notes:
+      en: "더 주세요 = give me more please"
+      ko: "더 주세요"
+  - korean: 리필
+    reading: null
+    translation:
+      en: "refill"
+      ko: "리필"
+    gender: null
+    plural: null
+    notes:
+      en: "리필 되나요? = Can I get a refill?"
+      ko: "리필 되나요?"
+  - korean: 여기요
+    reading: null
+    translation:
+      en: "excuse me (to call staff)"
+      ko: "여기요"
+    gender: null
+    plural: null
+    notes:
+      en: "Used to get server's attention"
+      ko: "직원을 부를 때 사용"
+  - korean: 잠깐만요
+    reading: null
+    translation:
+      en: "just a moment"
+      ko: "잠깐만요"
+    gender: null
+    plural: null
+    notes:
+      en: "When you need more time to decide"
+      ko: "결정할 시간이 더 필요할 때"
+
+- id: menu_items
+  label:
+    en: "Menu Items and Descriptions"
+    ko: "메뉴 항목 및 설명"
+  type: vocabulary
+  words:
+  - korean: 반찬
+    reading: null
+    translation:
+      en: "side dishes"
+      ko: "반찬"
+    gender: null
+    plural: null
+    notes:
+      en: "Free side dishes at Korean restaurants"
+      ko: "한국 식당의 무료 반찬"
+  - korean: 음료
+    reading: null
+    translation:
+      en: "beverage, drink"
+      ko: "음료"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 飮料"
+      ko: "한자어: 飮料"
+  - korean: 디저트
+    reading: null
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 세트
+    reading: null
+    translation:
+      en: "set meal"
+      ko: "세트"
+    gender: null
+    plural: null
+    notes:
+      en: "Combo meal; loanword"
+      ko: "세트 메뉴; 외래어"
+  - korean: 정식
+    reading: null
+    translation:
+      en: "set meal (Korean-style)"
+      ko: "정식"
+    gender: null
+    plural: null
+    notes:
+      en: "Full Korean meal with rice, soup, sides"
+      ko: "밥, 국, 반찬이 포함된 한식 세트"
+  - korean: 곱빼기
+    reading: null
+    translation:
+      en: "large portion, double serving"
+      ko: "곱빼기"
+    gender: null
+    plural: null
+    notes:
+      en: "Extra-large serving"
+      ko: "양이 많은 것"
+  - korean: 공기밥
+    reading: null
+    translation:
+      en: "bowl of rice"
+      ko: "공기밥"
+    gender: null
+    plural: null
+    notes:
+      en: "Extra bowl of rice"
+      ko: "추가 밥 한 그릇"
+  - korean: 국물
+    reading: null
+    translation:
+      en: "broth, soup stock"
+      ko: "국물"
+    gender: null
+    plural: null
+    notes:
+      en: "The liquid part of soup"
+      ko: "국의 액체 부분"
+
+- id: taste
+  label:
+    en: "Taste and Flavor"
+    ko: "맛"
+  type: vocabulary
+  words:
+  - korean: 맵다
+    reading: null
+    translation:
+      en: "to be spicy"
+      ko: "맵다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular adjective"
+      ko: "ㅂ 불규칙 형용사"
+  - korean: 짜다
+    reading: null
+    translation:
+      en: "to be salty"
+      ko: "짜다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to squeeze' or 'to be stingy'"
+      ko: "'짜내다' 또는 '인색하다'의 뜻도 있음"
+  - korean: 달다
+    reading: null
+    translation:
+      en: "to be sweet"
+      ko: "달다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to attach' in different context"
+      ko: "다른 문맥에서 '달다(부착)'의 뜻도 있음"
+  - korean: 싱겁다
+    reading: null
+    translation:
+      en: "to be bland, not salty enough"
+      ko: "싱겁다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular adjective"
+      ko: "ㅂ 불규칙 형용사"
+  - korean: 쓰다
+    reading: null
+    translation:
+      en: "to be bitter"
+      ko: "쓰다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to write' or 'to use'"
+      ko: "'쓰다(쓰기)' 또는 '사용하다'의 뜻도 있음"
+  - korean: 시다
+    reading: null
+    translation:
+      en: "to be sour"
+      ko: "시다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sour taste"
+      ko: "신맛"
+  - korean: 느끼하다
+    reading: null
+    translation:
+      en: "to be greasy, oily"
+      ko: "느끼하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Feeling of greasy food"
+      ko: "기름진 음식의 느낌"
+  - korean: 담백하다
+    reading: null
+    translation:
+      en: "to be light, clean (taste)"
+      ko: "담백하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Clean, not heavy taste"
+      ko: "깔끔하고 무겁지 않은 맛"
+  - korean: 고소하다
+    reading: null
+    translation:
+      en: "to be nutty, savory"
+      ko: "고소하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Unique Korean flavor description"
+      ko: "한국 특유의 맛 표현"
+  - korean: 맛있다
+    reading: null
+    translation:
+      en: "to be delicious"
+      ko: "맛있다"
+    gender: null
+    plural: null
+    notes:
+      en: "맛 (taste) + 있다 (to have)"
+      ko: "맛 + 있다"
+  - korean: 맛없다
+    reading: null
+    translation:
+      en: "to be not tasty"
+      ko: "맛없다"
+    gender: null
+    plural: null
+    notes:
+      en: "맛 (taste) + 없다 (to not have)"
+      ko: "맛 + 없다"
+
+- id: tableware
+  label:
+    en: "Tableware"
+    ko: "식기"
+  type: vocabulary
+  words:
+  - korean: 수저
+    reading: null
+    translation:
+      en: "spoon and chopsticks (set)"
+      ko: "수저"
+    gender: null
+    plural: null
+    notes:
+      en: "숟가락 + 젓가락; the pair together"
+      ko: "숟가락과 젓가락을 함께 이르는 말"
+  - korean: 냅킨
+    reading: null
+    translation:
+      en: "napkin"
+      ko: "냅킨"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 물컵
+    reading: null
+    translation:
+      en: "water glass"
+      ko: "물컵"
+    gender: null
+    plural: null
+    notes:
+      en: "물 (water) + 컵 (cup)"
+      ko: "물 + 컵"
+  - korean: 쟁반
+    reading: null
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: null
+    plural: null
+    notes:
+      en: "Serving tray"
+      ko: "음식을 나르는 쟁반"
+  - korean: 앞접시
+    reading: null
+    translation:
+      en: "small plate (for sharing)"
+      ko: "앞접시"
+    gender: null
+    plural: null
+    notes:
+      en: "Small plate placed in front of each person"
+      ko: "각자 앞에 놓는 작은 접시"
+
+- id: dining_phrases
+  label:
+    en: "Dining Phrases"
+    ko: "식사 표현"
+  type: vocabulary
+  words:
+  - korean: 계산
+    reading: null
+    translation:
+      en: "bill, check, calculation"
+      ko: "계산"
+    gender: null
+    plural: null
+    notes:
+      en: "계산해 주세요 = the check please"
+      ko: "계산해 주세요"
+  - korean: 배달
+    reading: null
+    translation:
+      en: "delivery"
+      ko: "배달"
+    gender: null
+    plural: null
+    notes:
+      en: "Food delivery; very common in Korea"
+      ko: "음식 배달; 한국에서 매우 흔함"
+  - korean: 포장
+    reading: null
+    translation:
+      en: "takeout, to-go"
+      ko: "포장"
+    gender: null
+    plural: null
+    notes:
+      en: "포장해 주세요 = for takeout please"
+      ko: "포장해 주세요"
+  - korean: 잘 먹겠습니다
+    reading: null
+    translation:
+      en: "I will eat well (before eating)"
+      ko: "잘 먹겠습니다"
+    gender: null
+    plural: null
+    notes:
+      en: "Said before a meal; shows gratitude"
+      ko: "식사 전에 하는 인사"
+  - korean: 잘 먹었습니다
+    reading: null
+    translation:
+      en: "I ate well (after eating)"
+      ko: "잘 먹었습니다"
+    gender: null
+    plural: null
+    notes:
+      en: "Said after a meal; shows gratitude"
+      ko: "식사 후에 하는 인사"
+  - korean: 건배
+    reading: null
+    translation:
+      en: "cheers (toast)"
+      ko: "건배"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 乾杯"
+      ko: "한자어: 乾杯"
+  - korean: 맛있게 드세요
+    reading: null
+    translation:
+      en: "enjoy your meal"
+      ko: "맛있게 드세요"
+    gender: null
+    plural: null
+    notes:
+      en: "Said by the host or server"
+      ko: "주인이나 종업원이 하는 말"
+  - korean: 배부르다
+    reading: null
+    translation:
+      en: "to be full (stomach)"
+      ko: "배부르다"
+    gender: null
+    plural: null
+    notes:
+      en: "배 (stomach) + 부르다 (to be full)"
+      ko: "배 + 부르다"
+  - korean: 배고프다
+    reading: null
+    translation:
+      en: "to be hungry"
+      ko: "배고프다"
+    gender: null
+    plural: null
+    notes:
+      en: "배 (stomach) + 고프다 (to be empty)"
+      ko: "배 + 고프다"
+  - korean: 목마르다
+    reading: null
+    translation:
+      en: "to be thirsty"
+      ko: "목마르다"
+    gender: null
+    plural: null
+    notes:
+      en: "목 (throat) + 마르다 (to be dry)"
+      ko: "목 + 마르다"
+  - korean: 서비스
+    reading: null
+    translation:
+      en: "complimentary, on the house"
+      ko: "서비스"
+    gender: null
+    plural: null
+    notes:
+      en: "Free extra given by the restaurant"
+      ko: "식당에서 무료로 주는 것"
+  - korean: 웨이터
+    reading: null
+    translation:
+      en: "waiter, server"
+      ko: "웨이터"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword; 종업원 is more common"
+      ko: "외래어; 종업원이 더 일반적"
+  - korean: 종업원
+    reading: null
+    translation:
+      en: "employee, server"
+      ko: "종업원"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 從業員"
+      ko: "한자어: 從業員"
+  - korean: 예약석
+    reading: null
+    translation:
+      en: "reserved seat"
+      ko: "예약석"
+    gender: null
+    plural: null
+    notes:
+      en: "예약 (reservation) + 석 (seat)"
+      ko: "예약 + 석(席)"
+  - korean: 자리
+    reading: null
+    translation:
+      en: "seat, spot"
+      ko: "자리"
+    gender: null
+    plural: null
+    notes:
+      en: "자리 있어요? = Is there a seat?"
+      ko: "자리 있어요?"
