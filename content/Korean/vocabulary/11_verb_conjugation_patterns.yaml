@@ -1,0 +1,687 @@
+lesson: 11_Verb_Conjugation_Patterns
+lesson_number: 11
+topik: TOPIK_II_3
+
+categories:
+- id: irregular_verb_examples
+  label:
+    en: Irregular Verb Examples
+    ko: 불규칙 동사 예시
+  type: vocabulary
+  words:
+  - korean: 듣다
+    reading: null
+    translation:
+      en: to listen / to hear
+      ko: 듣다
+    gender: null
+    plural: null
+    notes:
+      en: "ㄷ irregular: 듣다 → 들어요"
+      ko: "ㄷ 불규칙: 듣다 → 들어요"
+  - korean: 걷다
+    reading: null
+    translation:
+      en: to walk
+      ko: 걷다
+    gender: null
+    plural: null
+    notes:
+      en: "ㄷ irregular: 걷다 → 걸어요"
+      ko: "ㄷ 불규칙: 걷다 → 걸어요"
+  - korean: 묻다
+    reading: null
+    translation:
+      en: to ask
+      ko: 묻다
+    gender: null
+    plural: null
+    notes:
+      en: "ㄷ irregular: 묻다 → 물어요"
+      ko: "ㄷ 불규칙: 묻다 → 물어요"
+  - korean: 돕다
+    reading: null
+    translation:
+      en: to help
+      ko: 돕다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 돕다 → 도와요"
+      ko: "ㅂ 불규칙: 돕다 → 도와요"
+  - korean: 춥다
+    reading: null
+    translation:
+      en: to be cold (weather)
+      ko: 춥다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 춥다 → 추워요"
+      ko: "ㅂ 불규칙: 춥다 → 추워요"
+  - korean: 덥다
+    reading: null
+    translation:
+      en: to be hot (weather)
+      ko: 덥다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 덥다 → 더워요"
+      ko: "ㅂ 불규칙: 덥다 → 더워요"
+  - korean: 어렵다
+    reading: null
+    translation:
+      en: to be difficult
+      ko: 어렵다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 어렵다 → 어려워요"
+      ko: "ㅂ 불규칙: 어렵다 → 어려워요"
+  - korean: 쉽다
+    reading: null
+    translation:
+      en: to be easy
+      ko: 쉽다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 쉽다 → 쉬워요"
+      ko: "ㅂ 불규칙: 쉽다 → 쉬워요"
+  - korean: 짓다
+    reading: null
+    translation:
+      en: to build / to make
+      ko: 짓다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅅ irregular: 짓다 → 지어요"
+      ko: "ㅅ 불규칙: 짓다 → 지어요"
+  - korean: 낫다
+    reading: null
+    translation:
+      en: to be better / to recover
+      ko: 낫다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅅ irregular: 낫다 → 나아요"
+      ko: "ㅅ 불규칙: 낫다 → 나아요"
+  - korean: 잇다
+    reading: null
+    translation:
+      en: to connect / to continue
+      ko: 잇다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅅ irregular: 잇다 → 이어요"
+      ko: "ㅅ 불규칙: 잇다 → 이어요"
+  - korean: 빠르다
+    reading: null
+    translation:
+      en: to be fast
+      ko: 빠르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 빠르다 → 빨라요"
+      ko: "르 불규칙: 빠르다 → 빨라요"
+  - korean: 모르다
+    reading: null
+    translation:
+      en: to not know
+      ko: 모르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 모르다 → 몰라요"
+      ko: "르 불규칙: 모르다 → 몰라요"
+  - korean: 다르다
+    reading: null
+    translation:
+      en: to be different
+      ko: 다르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 다르다 → 달라요"
+      ko: "르 불규칙: 다르다 → 달라요"
+  - korean: 부르다
+    reading: null
+    translation:
+      en: to call / to sing
+      ko: 부르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 부르다 → 불러요"
+      ko: "르 불규칙: 부르다 → 불러요"
+  - korean: 자르다
+    reading: null
+    translation:
+      en: to cut
+      ko: 자르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 자르다 → 잘라요"
+      ko: "르 불규칙: 자르다 → 잘라요"
+  - korean: 하얗다
+    reading: null
+    translation:
+      en: to be white
+      ko: 하얗다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅎ irregular: 하얗다 → 하얘요"
+      ko: "ㅎ 불규칙: 하얗다 → 하얘요"
+  - korean: 그렇다
+    reading: null
+    translation:
+      en: to be so / to be like that
+      ko: 그렇다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅎ irregular: 그렇다 → 그래요"
+      ko: "ㅎ 불규칙: 그렇다 → 그래요"
+
+- id: passive_verbs
+  label:
+    en: Passive Verbs
+    ko: 피동사
+  type: vocabulary
+  words:
+  - korean: 보이다
+    reading: null
+    translation:
+      en: to be seen / to be visible
+      ko: 보다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 보다 (to see)"
+      ko: "보다의 피동사"
+  - korean: 들리다
+    reading: null
+    translation:
+      en: to be heard
+      ko: 듣다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 듣다 (to hear)"
+      ko: "듣다의 피동사"
+  - korean: 잡히다
+    reading: null
+    translation:
+      en: to be caught
+      ko: 잡다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 잡다 (to catch)"
+      ko: "잡다의 피동사"
+  - korean: 열리다
+    reading: null
+    translation:
+      en: to be opened
+      ko: 열다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 열다 (to open)"
+      ko: "열다의 피동사"
+  - korean: 닫히다
+    reading: null
+    translation:
+      en: to be closed
+      ko: 닫다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 닫다 (to close)"
+      ko: "닫다의 피동사"
+  - korean: 읽히다
+    reading: null
+    translation:
+      en: to be read
+      ko: 읽다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 읽다 (to read)"
+      ko: "읽다의 피동사"
+  - korean: 풀리다
+    reading: null
+    translation:
+      en: to be untied / to be solved
+      ko: 풀다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 풀다 (to untie/solve)"
+      ko: "풀다의 피동사"
+  - korean: 팔리다
+    reading: null
+    translation:
+      en: to be sold
+      ko: 팔다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 팔다 (to sell)"
+      ko: "팔다의 피동사"
+  - korean: 밀리다
+    reading: null
+    translation:
+      en: to be pushed
+      ko: 밀다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 밀다 (to push)"
+      ko: "밀다의 피동사"
+  - korean: 놓이다
+    reading: null
+    translation:
+      en: to be placed
+      ko: 놓다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 놓다 (to place)"
+      ko: "놓다의 피동사"
+  - korean: 쌓이다
+    reading: null
+    translation:
+      en: to be piled up
+      ko: 쌓다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 쌓다 (to pile up)"
+      ko: "쌓다의 피동사"
+  - korean: 막히다
+    reading: null
+    translation:
+      en: to be blocked / to be congested
+      ko: 막다의 피동형
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 막다 (to block); 길이 막히다 = traffic jam"
+      ko: "막다의 피동사; 길이 막히다 = 교통 체증"
+
+- id: causative_verbs
+  label:
+    en: Causative Verbs
+    ko: 사동사
+  type: vocabulary
+  words:
+  - korean: 먹이다
+    reading: null
+    translation:
+      en: to feed (make someone eat)
+      ko: 먹다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 먹다 (to eat)"
+      ko: "먹다의 사동사"
+  - korean: 살리다
+    reading: null
+    translation:
+      en: to save / to keep alive
+      ko: 살다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 살다 (to live)"
+      ko: "살다의 사동사"
+  - korean: 재우다
+    reading: null
+    translation:
+      en: to put someone to sleep
+      ko: 자다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 자다 (to sleep)"
+      ko: "자다의 사동사"
+  - korean: 웃기다
+    reading: null
+    translation:
+      en: to make someone laugh
+      ko: 웃다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 웃다 (to laugh)"
+      ko: "웃다의 사동사"
+  - korean: 울리다
+    reading: null
+    translation:
+      en: to make someone cry
+      ko: 울다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 울다 (to cry)"
+      ko: "울다의 사동사"
+  - korean: 입히다
+    reading: null
+    translation:
+      en: to dress someone
+      ko: 입다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 입다 (to wear)"
+      ko: "입다의 사동사"
+  - korean: 앉히다
+    reading: null
+    translation:
+      en: to seat someone
+      ko: 앉다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 앉다 (to sit)"
+      ko: "앉다의 사동사"
+  - korean: 눕히다
+    reading: null
+    translation:
+      en: to lay someone down
+      ko: 눕다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 눕다 (to lie down)"
+      ko: "눕다의 사동사"
+  - korean: 태우다
+    reading: null
+    translation:
+      en: to give someone a ride / to burn
+      ko: 타다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 타다 (to ride/burn)"
+      ko: "타다의 사동사"
+  - korean: 녹이다
+    reading: null
+    translation:
+      en: to melt (something)
+      ko: 녹다의 사동형
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 녹다 (to melt)"
+      ko: "녹다의 사동사"
+
+- id: conjugation_terms
+  label:
+    en: Conjugation Terminology
+    ko: 활용 용어
+  type: vocabulary
+  words:
+  - korean: 활용
+    reading: null
+    translation:
+      en: conjugation / inflection
+      ko: 어미가 변하는 것
+    gender: null
+    plural: null
+  - korean: 어간
+    reading: null
+    translation:
+      en: verb stem
+      ko: 동사에서 어미를 뺀 부분
+    gender: null
+    plural: null
+  - korean: 어미
+    reading: null
+    translation:
+      en: verb ending
+      ko: 동사의 끝에 붙는 부분
+    gender: null
+    plural: null
+  - korean: 불규칙
+    reading: null
+    translation:
+      en: irregular
+      ko: 규칙에 맞지 않는
+    gender: null
+    plural: null
+  - korean: 규칙
+    reading: null
+    translation:
+      en: regular / rule
+      ko: 일정한 법칙
+    gender: null
+    plural: null
+  - korean: 피동
+    reading: null
+    translation:
+      en: passive voice
+      ko: 남의 행동에 의해 되는 것
+    gender: null
+    plural: null
+  - korean: 사동
+    reading: null
+    translation:
+      en: causative voice
+      ko: 남에게 시키는 것
+    gender: null
+    plural: null
+  - korean: 동사
+    reading: null
+    translation:
+      en: verb
+      ko: 움직임이나 작용을 나타내는 말
+    gender: null
+    plural: null
+  - korean: 형용사
+    reading: null
+    translation:
+      en: adjective (descriptive verb)
+      ko: 상태나 성질을 나타내는 말
+    gender: null
+    plural: null
+  - korean: 접미사
+    reading: null
+    translation:
+      en: suffix
+      ko: 단어 뒤에 붙는 말
+    gender: null
+    plural: null
+  - korean: 변환
+    reading: null
+    translation:
+      en: transformation / conversion
+      ko: 형태가 바뀌는 것
+    gender: null
+    plural: null
+  - korean: 원형
+    reading: null
+    translation:
+      en: base form / dictionary form
+      ko: 사전에 실린 기본 형태
+    gender: null
+    plural: null
+  - korean: 탈락
+    reading: null
+    translation:
+      en: deletion / dropping
+      ko: 소리나 글자가 없어짐
+    gender: null
+    plural: null
+    notes:
+      en: "E.g., ㅡ 탈락: 쓰다 → 써요"
+      ko: "예: ㅡ 탈락: 쓰다 → 써요"
+  - korean: 축약
+    reading: null
+    translation:
+      en: contraction
+      ko: 줄여서 합침
+    gender: null
+    plural: null
+  - korean: 교체
+    reading: null
+    translation:
+      en: replacement / alternation
+      ko: 다른 것으로 바뀜
+    gender: null
+    plural: null
+  - korean: 첨가
+    reading: null
+    translation:
+      en: addition / insertion
+      ko: 더해짐
+    gender: null
+    plural: null
+  - korean: 쓰다
+    reading: null
+    translation:
+      en: to write / to use
+      ko: 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ deletion: 쓰다 → 써요"
+      ko: "ㅡ 탈락: 쓰다 → 써요"
+  - korean: 크다
+    reading: null
+    translation:
+      en: to be big
+      ko: 크다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ deletion: 크다 → 커요"
+      ko: "ㅡ 탈락: 크다 → 커요"
+  - korean: 아프다
+    reading: null
+    translation:
+      en: to be sick / to hurt
+      ko: 아프다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular ㅡ deletion: 아프다 → 아파요"
+      ko: "규칙 ㅡ 탈락: 아프다 → 아파요"
+  - korean: 예쁘다
+    reading: null
+    translation:
+      en: to be pretty
+      ko: 예쁘다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ deletion: 예쁘다 → 예뻐요"
+      ko: "ㅡ 탈락: 예쁘다 → 예뻐요"
+  - korean: 누르다
+    reading: null
+    translation:
+      en: to press
+      ko: 누르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 누르다 → 눌러요"
+      ko: "르 불규칙: 누르다 → 눌러요"
+  - korean: 이르다
+    reading: null
+    translation:
+      en: to be early / to reach
+      ko: 이르다
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular: 이르다 → 일러요"
+      ko: "르 불규칙: 이르다 → 일러요"
+  - korean: 굽다
+    reading: null
+    translation:
+      en: to bake / to roast
+      ko: 굽다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 굽다 → 구워요"
+      ko: "ㅂ 불규칙: 굽다 → 구워요"
+  - korean: 눕다
+    reading: null
+    translation:
+      en: to lie down
+      ko: 눕다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular: 눕다 → 누워요"
+      ko: "ㅂ 불규칙: 눕다 → 누워요"
+  - korean: 싣다
+    reading: null
+    translation:
+      en: to load / to publish
+      ko: 싣다
+    gender: null
+    plural: null
+    notes:
+      en: "ㄷ irregular: 싣다 → 실어요"
+      ko: "ㄷ 불규칙: 싣다 → 실어요"
+  - korean: 잠그다
+    reading: null
+    translation:
+      en: to lock
+      ko: 잠그다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ deletion: 잠그다 → 잠가요"
+      ko: "ㅡ 탈락: 잠그다 → 잠가요"
+  - korean: 담그다
+    reading: null
+    translation:
+      en: to soak / to pickle
+      ko: 담그다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ deletion: 담그다 → 담가요"
+      ko: "ㅡ 탈락: 담그다 → 담가요"
+  - korean: 노랗다
+    reading: null
+    translation:
+      en: to be yellow
+      ko: 노랗다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅎ irregular: 노랗다 → 노래요"
+      ko: "ㅎ 불규칙: 노랗다 → 노래요"
+  - korean: 빨갛다
+    reading: null
+    translation:
+      en: to be red
+      ko: 빨갛다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅎ irregular: 빨갛다 → 빨개요"
+      ko: "ㅎ 불규칙: 빨갛다 → 빨개요"
+  - korean: 파랗다
+    reading: null
+    translation:
+      en: to be blue
+      ko: 파랗다
+    gender: null
+    plural: null
+    notes:
+      en: "ㅎ irregular: 파랗다 → 파래요"
+      ko: "ㅎ 불규칙: 파랗다 → 파래요"
