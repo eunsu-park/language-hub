@@ -1,0 +1,428 @@
+lesson: 22_Reading_Latin_Poetry
+lesson_number: 22
+cefr: C1
+categories:
+- id: 221_poetic_terminology
+  label:
+    en: 22.1 Poetic Terminology
+    ko: 22.1 시적 용어
+  type: vocabulary
+  words:
+  - latin: carmen
+    translation:
+      en: poem, song, incantation
+      ko: 시, 노래, 주문
+    gender: n
+    notes:
+      en: "Gen. carminis; the most general Latin word for poem"
+      ko: "속격 carminis; 시를 뜻하는 가장 일반적인 라틴어 단어"
+  - latin: versus
+    translation:
+      en: verse, line of poetry
+      ko: 시행, 시구
+    gender: m
+    notes:
+      en: "4th decl.; literally 'a turning' (of the plow, then the pen)"
+      ko: "제4변화; 문자 그대로 '돌림' (쟁기의, 그 다음 펜의)"
+  - latin: poeta
+    translation:
+      en: poet
+      ko: 시인
+    gender: m
+    notes:
+      en: "1st decl. masculine; from Greek poietes (maker)"
+      ko: "제1변화 남성; 그리스어 poietes(만드는 사람)에서 유래"
+  - latin: musa
+    translation:
+      en: muse
+      ko: 뮤즈, 시의 여신
+    gender: f
+    notes:
+      en: "The nine Muses inspired all arts; poets invoke them for inspiration"
+      ko: "아홉 뮤즈가 모든 예술에 영감을 줌; 시인들이 영감을 위해 기원"
+  - latin: poesis
+    translation:
+      en: poetry, poetic art
+      ko: 시, 시예술
+    gender: f
+    notes:
+      en: "Greek loanword; 3rd decl. (gen. poesis)"
+      ko: "그리스어 차용어; 제3변화 (속격 poesis)"
+  - latin: vates
+    translation:
+      en: prophet, bard, inspired poet
+      ko: 예언자, 음유시인, 영감받은 시인
+    gender: m
+    notes:
+      en: "Elevated synonym for poeta; suggests divine inspiration"
+      ko: "poeta의 격조 높은 동의어; 신적 영감을 암시"
+  - latin: lyricus
+    translation:
+      en: lyric (adj.)
+      ko: 서정적인
+    gender: m
+    notes:
+      en: "Lyric poetry: Horace, Catullus; accompanied by the lyre"
+      ko: "서정시: 호라티우스, 카툴루스; 리라 반주에 맞춤"
+  - latin: elegeia
+    translation:
+      en: elegy
+      ko: 비가, 엘레지
+    gender: f
+    notes:
+      en: "Elegiac couplets: hexameter + pentameter; Ovid, Tibullus, Propertius"
+      ko: "비가 대구: 헥사메터 + 펜타메터; 오비디우스, 티불루스, 프로페르티우스"
+  - latin: epigramma
+    translation:
+      en: epigram, inscription
+      ko: 경구, 비문
+    gender: n
+    notes:
+      en: "Short, witty poem; Martial is the great Latin epigrammatist"
+      ko: "짧고 재치 있는 시; 마르티알리스가 위대한 라틴 경구 시인"
+  - latin: bucolicum
+    translation:
+      en: pastoral poetry
+      ko: 목가시
+    gender: n
+    notes:
+      en: "Virgil's Eclogues are the model of Latin pastoral"
+      ko: "베르길리우스의 목가가 라틴 전원시의 모범"
+  - latin: satira
+    translation:
+      en: satire
+      ko: 풍자시
+    gender: f
+    notes:
+      en: "Satura tota nostra est — Quintilian claimed satire as uniquely Roman"
+      ko: "Satura tota nostra est — 퀸틸리아누스는 풍자가 순수 로마적이라 주장"
+  - latin: epicum
+    translation:
+      en: epic (poetry)
+      ko: 서사시
+    gender: n
+    notes:
+      en: "Virgil's Aeneid is the supreme Latin epic"
+      ko: "베르길리우스의 아이네이스가 라틴 서사시의 최고봉"
+- id: 222_metrical_terms
+  label:
+    en: 22.2 Metrical Terms
+    ko: 22.2 운율 용어
+  type: vocabulary
+  words:
+  - latin: pes
+    translation:
+      en: metrical foot
+      ko: 음보, 시각(詩脚)
+    gender: m
+    notes:
+      en: "Gen. pedis; the basic rhythmic unit of Latin verse"
+      ko: "속격 pedis; 라틴 시의 기본 리듬 단위"
+  - latin: dactylus
+    translation:
+      en: dactyl (long-short-short)
+      ko: 장단단격
+    gender: m
+    notes:
+      en: "From Greek daktylos (finger); — ∪ ∪ pattern"
+      ko: "그리스어 daktylos(손가락)에서 유래; — ∪ ∪ 패턴"
+  - latin: spondeus
+    translation:
+      en: spondee (long-long)
+      ko: 장장격
+    gender: m
+    notes:
+      en: "— — pattern; may substitute for a dactyl in hexameter"
+      ko: "— — 패턴; 헥사메터에서 장단단격을 대체할 수 있음"
+  - latin: hexameter
+    translation:
+      en: hexameter (six-foot line)
+      ko: 헥사메터 (6음보 행)
+    gender: m
+    notes:
+      en: "The meter of epic poetry; Virgil's Aeneid, Ovid's Metamorphoses"
+      ko: "서사시의 운율; 베르길리우스의 아이네이스, 오비디우스의 변신이야기"
+  - latin: pentameter
+    translation:
+      en: pentameter (five-foot line)
+      ko: 펜타메터 (5음보 행)
+    gender: m
+    notes:
+      en: "Paired with hexameter in elegiac couplets"
+      ko: "비가 대구에서 헥사메터와 쌍을 이룸"
+  - latin: caesura
+    translation:
+      en: caesura, pause within a line
+      ko: 휴지, 행 내의 끊김
+    gender: f
+    notes:
+      en: "From caedere (to cut); a natural pause in the verse line"
+      ko: "caedere(자르다)에서 유래; 시행 내의 자연스러운 휴지"
+  - latin: elisio
+    translation:
+      en: elision
+      ko: 모음 탈락
+    gender: f
+    notes:
+      en: "Suppression of a final vowel before an initial vowel in the next word"
+      ko: "다음 단어의 첫 모음 앞에서 마지막 모음이 탈락하는 현상"
+  - latin: synaloepha
+    translation:
+      en: synaloepha, vowel merging
+      ko: 모음 융합
+    gender: f
+    notes:
+      en: "Greek term for the blending of vowels across word boundaries"
+      ko: "단어 경계에서 모음이 융합되는 현상의 그리스어 용어"
+  - latin: iambus
+    translation:
+      en: iamb (short-long)
+      ko: 단장격
+    gender: m
+    notes:
+      en: "∪ — pattern; used in Horatian Epodes and dramatic verse"
+      ko: "∪ — 패턴; 호라티우스 에포데스와 극시에서 사용"
+  - latin: trochaeus
+    translation:
+      en: trochee (long-short)
+      ko: 장단격
+    gender: m
+    notes:
+      en: "— ∪ pattern; the reverse of an iamb"
+      ko: "— ∪ 패턴; 단장격의 역"
+  - latin: metrum
+    translation:
+      en: meter, measure
+      ko: 운율, 박자
+    gender: n
+    notes:
+      en: "The overall rhythmic pattern governing a poem"
+      ko: "시를 지배하는 전체적인 리듬 패턴"
+  - latin: scansio
+    translation:
+      en: scansion
+      ko: 시의 운율 분석
+    gender: f
+    notes:
+      en: "The process of analyzing metrical patterns in verse"
+      ko: "시의 운율 패턴을 분석하는 과정"
+- id: 223_figures_of_speech
+  label:
+    en: 22.3 Figures of Speech
+    ko: 22.3 수사법
+  type: vocabulary
+  words:
+  - latin: metaphora
+    translation:
+      en: metaphor
+      ko: 은유
+    gender: f
+    notes:
+      en: "Greek loanword; implicit comparison without 'like' or 'as'"
+      ko: "그리스어 차용어; '~처럼'이나 '~같은' 없는 암묵적 비교"
+  - latin: similitudo
+    translation:
+      en: simile, comparison
+      ko: 직유, 비유
+    gender: f
+    notes:
+      en: "Explicit comparison using velut, quasi, tamquam"
+      ko: "velut, quasi, tamquam을 사용한 명시적 비교"
+  - latin: hyperbaton
+    translation:
+      en: hyperbaton, word-order disruption
+      ko: 도치법
+    gender: n
+    notes:
+      en: "Deliberate separation of words that belong together; very common in poetry"
+      ko: "함께 속하는 단어들의 의도적 분리; 시에서 매우 흔함"
+  - latin: anaphora
+    translation:
+      en: anaphora, repetition at start
+      ko: 수사적 반복, 행두 반복
+    gender: f
+    notes:
+      en: "Repetition of a word at the beginning of successive clauses"
+      ko: "연속 절의 시작에 같은 단어를 반복하는 것"
+  - latin: alliteratio
+    translation:
+      en: alliteration
+      ko: 두운
+    gender: f
+    notes:
+      en: "Repetition of initial consonant sounds; beloved by Ennius and Virgil"
+      ko: "첫 자음 소리의 반복; 엔니우스와 베르길리우스가 애용"
+  - latin: synecdoche
+    translation:
+      en: synecdoche
+      ko: 제유법
+    gender: f
+    notes:
+      en: "A part for the whole (e.g., puppis for navis) or whole for part"
+      ko: "부분으로 전체를 표현(예: puppis로 navis를) 또는 그 반대"
+  - latin: apostrophe
+    translation:
+      en: apostrophe, direct address
+      ko: 돈호법, 직접 호격
+    gender: f
+    notes:
+      en: "Turning from the audience to address an absent person or thing"
+      ko: "청중에게서 돌아서 부재하는 사람이나 사물에게 직접 말하기"
+  - latin: enjambement
+    translation:
+      en: enjambment
+      ko: 행 걸침
+    gender: n
+    notes:
+      en: "Continuation of a sentence beyond the end of a verse line"
+      ko: "시행의 끝을 넘어 문장이 계속되는 것"
+- id: 224_mythological_vocabulary
+  label:
+    en: 22.4 Mythological Vocabulary
+    ko: 22.4 신화 어휘
+  type: vocabulary
+  words:
+  - latin: arma
+    translation:
+      en: arms, weapons
+      ko: 무기
+    gender: n
+    notes:
+      en: "Arma virumque cano — the opening words of Virgil's Aeneid"
+      ko: "Arma virumque cano — 베르길리우스 아이네이스의 첫 단어"
+  - latin: cano
+    translation:
+      en: I sing, I celebrate (in verse)
+      ko: 노래하다, (시로) 찬양하다
+    gender: null
+    notes:
+      en: "The traditional opening verb of epic poetry"
+      ko: "서사시의 전통적인 첫 동사"
+  - latin: fatum
+    translation:
+      en: fate, destiny, doom
+      ko: 운명, 숙명, 파멸
+    gender: n
+    notes:
+      en: "From fari (to speak); what has been decreed by the gods"
+      ko: "fari(말하다)에서 유래; 신들이 정한 것"
+  - latin: nympha
+    translation:
+      en: nymph
+      ko: 님프
+    gender: f
+    notes:
+      en: "Minor nature goddess; naiads (water), dryads (trees), oreads (mountains)"
+      ko: "하위 자연 여신; 나이아드(물), 드리아드(나무), 오레아드(산)"
+  - latin: Olympus
+    translation:
+      en: Mount Olympus, heaven
+      ko: 올림포스 산, 천상
+    gender: m
+    notes:
+      en: "Home of the gods; used poetically for 'heaven'"
+      ko: "신들의 거처; 시적으로 '천상'을 의미"
+  - latin: heros
+    translation:
+      en: hero, demigod
+      ko: 영웅, 반신
+    gender: m
+    notes:
+      en: "Greek loanword; gen. herois; Aeneas, Achilles, Odysseus"
+      ko: "그리스어 차용어; 속격 herois; 아이네아스, 아킬레우스, 오뒷세우스"
+  - latin: Tartarus
+    translation:
+      en: Tartarus, underworld
+      ko: 타르타로스, 지하세계
+    gender: m
+    notes:
+      en: "The deepest region of the underworld; place of punishment"
+      ko: "지하세계의 가장 깊은 곳; 형벌의 장소"
+  - latin: Elysium
+    translation:
+      en: Elysium, paradise
+      ko: 엘리시움, 낙원
+    gender: n
+    notes:
+      en: "The blessed afterlife for heroes and the virtuous"
+      ko: "영웅과 덕있는 자들을 위한 축복받은 내세"
+  - latin: furor
+    translation:
+      en: madness, frenzy, rage
+      ko: 광기, 격분, 분노
+    gender: m
+    notes:
+      en: "A central theme in the Aeneid; divine madness and human passion"
+      ko: "아이네이스의 핵심 주제; 신적 광기와 인간의 열정"
+  - latin: pietas
+    translation:
+      en: piety, devotion, duty
+      ko: 경건함, 헌신, 의무
+    gender: f
+    notes:
+      en: "Aeneas's defining virtue; duty to gods, family, and country"
+      ko: "아이네아스의 핵심 덕목; 신, 가족, 조국에 대한 의무"
+  - latin: invocare
+    translation:
+      en: to invoke, to call upon
+      ko: 기원하다, 부르다
+    gender: null
+    notes:
+      en: "Poets invoke the Muse at the start of an epic"
+      ko: "시인들이 서사시 시작에 뮤즈를 부름"
+  - latin: canere
+    translation:
+      en: to sing, to chant, to prophesy
+      ko: 노래하다, 읊다, 예언하다
+    gender: null
+    notes:
+      en: "Infinitive of cano; the fundamental act of the poet"
+      ko: "cano의 부정사; 시인의 근본적인 행위"
+  - latin: Aeneas
+    translation:
+      en: Aeneas
+      ko: 아이네아스
+    gender: m
+    notes:
+      en: "Trojan hero and protagonist of Virgil's Aeneid; legendary founder of Rome"
+      ko: "트로이 영웅이자 베르길리우스 아이네이스의 주인공; 로마의 전설적 시조"
+  - latin: Dido
+    translation:
+      en: Dido
+      ko: 디도
+    gender: f
+    notes:
+      en: "Queen of Carthage; her tragic love for Aeneas is told in Aeneid Book IV"
+      ko: "카르타고의 여왕; 아이네아스를 향한 비극적 사랑이 아이네이스 4권에 서술됨"
+  - latin: metamorphosis
+    translation:
+      en: transformation, metamorphosis
+      ko: 변신, 변형
+    gender: f
+    notes:
+      en: "Greek loanword; Ovid's Metamorphoses tells myths of transformation"
+      ko: "그리스어 차용어; 오비디우스의 변신이야기는 변형 신화를 서술"
+  - latin: lacrimae
+    translation:
+      en: tears
+      ko: 눈물
+    gender: f
+    notes:
+      en: "Sunt lacrimae rerum — Virgil's famous phrase: 'there are tears for things'"
+      ko: "Sunt lacrimae rerum — 베르길리우스의 유명한 구절: '사물에 대한 눈물이 있다'"
+  - latin: amor
+    translation:
+      en: love
+      ko: 사랑
+    gender: m
+    notes:
+      en: "Omnia vincit Amor — Love conquers all (Virgil, Eclogues 10.69)"
+      ko: "Omnia vincit Amor — 사랑은 모든 것을 이긴다 (베르길리우스, 목가 10.69)"
+  - latin: ira
+    translation:
+      en: wrath, anger
+      ko: 분노
+    gender: f
+    notes:
+      en: "The Aeneid opens with Juno's ira against the Trojans"
+      ko: "아이네이스는 트로이인들에 대한 유노의 분노로 시작"
