@@ -1,0 +1,1128 @@
+lesson: "sup_B1_Agriculture_and_Farming"
+lesson_number: 117
+cefr: B1
+type: supplementary
+topic: "Agriculture and Farming"
+categories:
+- id: farming
+  label:
+    en: "Farming and Tools"
+    ko: "농업과 도구"
+  type: vocabulary
+  words:
+  - latin: "ager"
+    translation:
+      en: "field, farmland"
+      ko: "밭, 농지"
+    gender: m
+    notes:
+      en: "gen. agrī; 2nd decl."
+      ko: "속격 agrī; 제2변화"
+  - latin: "fundus"
+    translation:
+      en: "farm, estate"
+      ko: "농장, 토지"
+    gender: m
+    notes:
+      en: "gen. fundī; 2nd decl."
+      ko: "속격 fundī; 제2변화"
+  - latin: "villa"
+    translation:
+      en: "country house, farm estate"
+      ko: "시골 저택, 농장"
+    gender: f
+    notes:
+      en: "gen. villae; 1st decl.; villa rustica = working farm"
+      ko: "속격 villae; 제1변화; villa rustica = 농업용 농장"
+  - latin: "aratrum"
+    translation:
+      en: "plow"
+      ko: "쟁기"
+    gender: n
+    notes:
+      en: "gen. arātrī; 2nd decl. neuter"
+      ko: "속격 arātrī; 제2변화 중성"
+  - latin: "falx"
+    translation:
+      en: "sickle, scythe"
+      ko: "낫"
+    gender: f
+    notes:
+      en: "gen. falcis; 3rd decl."
+      ko: "속격 falcis; 제3변화"
+  - latin: "rastrum"
+    translation:
+      en: "rake, hoe"
+      ko: "갈퀴, 괭이"
+    gender: n
+    notes:
+      en: "gen. rāstrī; 2nd decl. neuter; often pl. rāstra"
+      ko: "속격 rāstrī; 제2변화 중성; 흔히 복수 rāstra"
+  - latin: "iugum"
+    translation:
+      en: "yoke"
+      ko: "멍에"
+    gender: n
+    notes:
+      en: "gen. iugī; 2nd decl. neuter; also means 'ridge' or 'bondage'"
+      ko: "속격 iugī; 제2변화 중성; '산등성이' 또는 '속박'의 뜻도 있음"
+  - latin: "sarculum"
+    translation:
+      en: "hoe, weeding tool"
+      ko: "호미, 김매기 도구"
+    gender: n
+    notes:
+      en: "gen. sarculī; 2nd decl. neuter"
+      ko: "속격 sarculī; 제2변화 중성"
+  - latin: "ligo"
+    translation:
+      en: "mattock, hoe"
+      ko: "곡괭이"
+    gender: m
+    notes:
+      en: "gen. ligōnis; 3rd decl."
+      ko: "속격 ligōnis; 제3변화"
+  - latin: "plaustrum"
+    translation:
+      en: "wagon, cart"
+      ko: "수레, 짐수레"
+    gender: n
+    notes:
+      en: "gen. plaustrī; 2nd decl. neuter"
+      ko: "속격 plaustrī; 제2변화 중성"
+  - latin: "horreum"
+    translation:
+      en: "granary, storehouse"
+      ko: "곡물 창고"
+    gender: n
+    notes:
+      en: "gen. horreī; 2nd decl. neuter"
+      ko: "속격 horreī; 제2변화 중성"
+  - latin: "irrigatio"
+    translation:
+      en: "irrigation"
+      ko: "관개"
+    gender: f
+    notes:
+      en: "gen. irrigātiōnis; 3rd decl."
+      ko: "속격 irrigātiōnis; 제3변화"
+- id: crops
+  label:
+    en: "Crops and Plants"
+    ko: "작물과 식물"
+  type: vocabulary
+  words:
+  - latin: "messis"
+    translation:
+      en: "harvest, crop"
+      ko: "수확, 작물"
+    gender: f
+    notes:
+      en: "gen. messis; 3rd decl. (i-stem)"
+      ko: "속격 messis; 제3변화 (i-어간)"
+  - latin: "semen"
+    translation:
+      en: "seed"
+      ko: "씨앗"
+    gender: n
+    notes:
+      en: "gen. sēminis; 3rd decl."
+      ko: "속격 sēminis; 제3변화"
+  - latin: "frumentum"
+    translation:
+      en: "grain, wheat"
+      ko: "곡물, 밀"
+    gender: n
+    notes:
+      en: "gen. frūmentī; 2nd decl. neuter"
+      ko: "속격 frūmentī; 제2변화 중성"
+  - latin: "triticum"
+    translation:
+      en: "wheat"
+      ko: "밀"
+    gender: n
+    notes:
+      en: "gen. trīticī; 2nd decl. neuter"
+      ko: "속격 trīticī; 제2변화 중성"
+  - latin: "hordeum"
+    translation:
+      en: "barley"
+      ko: "보리"
+    gender: n
+    notes:
+      en: "gen. hordeī; 2nd decl. neuter; fed to gladiators and soldiers"
+      ko: "속격 hordeī; 제2변화 중성; 검투사와 병사에게 지급"
+  - latin: "avena"
+    translation:
+      en: "oats"
+      ko: "귀리"
+    gender: f
+    notes:
+      en: "gen. avēnae; 1st decl."
+      ko: "속격 avēnae; 제1변화"
+  - latin: "faba"
+    translation:
+      en: "bean"
+      ko: "콩"
+    gender: f
+    notes:
+      en: "gen. fabae; 1st decl."
+      ko: "속격 fabae; 제1변화"
+  - latin: "vinea"
+    translation:
+      en: "vineyard, vine"
+      ko: "포도밭, 포도나무"
+    gender: f
+    notes:
+      en: "gen. vīneae; 1st decl."
+      ko: "속격 vīneae; 제1변화"
+  - latin: "vitis"
+    translation:
+      en: "grapevine"
+      ko: "포도 덩굴"
+    gender: f
+    notes:
+      en: "gen. vītis; 3rd decl. (i-stem)"
+      ko: "속격 vītis; 제3변화 (i-어간)"
+  - latin: "uva"
+    translation:
+      en: "grape"
+      ko: "포도"
+    gender: f
+    notes:
+      en: "gen. ūvae; 1st decl."
+      ko: "속격 ūvae; 제1변화"
+  - latin: "oliva"
+    translation:
+      en: "olive"
+      ko: "올리브"
+    gender: f
+    notes:
+      en: "gen. olīvae; 1st decl."
+      ko: "속격 olīvae; 제1변화"
+  - latin: "olea"
+    translation:
+      en: "olive tree"
+      ko: "올리브 나무"
+    gender: f
+    notes:
+      en: "gen. oleae; 1st decl."
+      ko: "속격 oleae; 제1변화"
+  - latin: "ficus"
+    translation:
+      en: "fig, fig tree"
+      ko: "무화과, 무화과나무"
+    gender: f
+    notes:
+      en: "gen. ficūs; 4th decl. (sometimes 2nd decl. ficī)"
+      ko: "속격 ficūs; 제4변화 (때로 제2변화 ficī)"
+  - latin: "malum"
+    translation:
+      en: "apple, fruit"
+      ko: "사과, 과일"
+    gender: n
+    notes:
+      en: "gen. mālī; 2nd decl. neuter; not to be confused with malum (evil)"
+      ko: "속격 mālī; 제2변화 중성; malum (악)과 혼동 주의"
+  - latin: "seges"
+    translation:
+      en: "cornfield, crop (growing)"
+      ko: "곡물밭, 작물 (재배 중)"
+    gender: f
+    notes:
+      en: "gen. segetis; 3rd decl."
+      ko: "속격 segetis; 제3변화"
+- id: livestock
+  label:
+    en: "Livestock and Animals"
+    ko: "가축과 동물"
+  type: vocabulary
+  words:
+  - latin: "bos"
+    translation:
+      en: "ox, cow"
+      ko: "소"
+    gender: m
+    notes:
+      en: "gen. bovis; 3rd decl.; irregular; m/f"
+      ko: "속격 bovis; 제3변화; 불규칙; 남성/여성"
+  - latin: "vacca"
+    translation:
+      en: "cow"
+      ko: "암소"
+    gender: f
+    notes:
+      en: "gen. vaccae; 1st decl."
+      ko: "속격 vaccae; 제1변화"
+  - latin: "taurus"
+    translation:
+      en: "bull"
+      ko: "황소"
+    gender: m
+    notes:
+      en: "gen. taurī; 2nd decl."
+      ko: "속격 taurī; 제2변화"
+  - latin: "ovis"
+    translation:
+      en: "sheep"
+      ko: "양"
+    gender: f
+    notes:
+      en: "gen. ovis; 3rd decl. (i-stem)"
+      ko: "속격 ovis; 제3변화 (i-어간)"
+  - latin: "capra"
+    translation:
+      en: "goat (female)"
+      ko: "염소 (암컷)"
+    gender: f
+    notes:
+      en: "gen. caprae; 1st decl."
+      ko: "속격 caprae; 제1변화"
+  - latin: "caper"
+    translation:
+      en: "goat (male)"
+      ko: "염소 (수컷)"
+    gender: m
+    notes:
+      en: "gen. caprī; 2nd decl."
+      ko: "속격 caprī; 제2변화"
+  - latin: "sus"
+    translation:
+      en: "pig, swine"
+      ko: "돼지"
+    gender: m
+    notes:
+      en: "gen. suis; 3rd decl.; m/f"
+      ko: "속격 suis; 제3변화; 남성/여성"
+  - latin: "porcus"
+    translation:
+      en: "pig (domestic)"
+      ko: "돼지 (가축)"
+    gender: m
+    notes:
+      en: "gen. porcī; 2nd decl."
+      ko: "속격 porcī; 제2변화"
+  - latin: "equus"
+    translation:
+      en: "horse"
+      ko: "말"
+    gender: m
+    notes:
+      en: "gen. equī; 2nd decl."
+      ko: "속격 equī; 제2변화"
+  - latin: "asinus"
+    translation:
+      en: "donkey"
+      ko: "당나귀"
+    gender: m
+    notes:
+      en: "gen. asinī; 2nd decl."
+      ko: "속격 asinī; 제2변화"
+  - latin: "mulus"
+    translation:
+      en: "mule"
+      ko: "노새"
+    gender: m
+    notes:
+      en: "gen. mūlī; 2nd decl."
+      ko: "속격 mūlī; 제2변화"
+  - latin: "gallina"
+    translation:
+      en: "hen, chicken"
+      ko: "암탉"
+    gender: f
+    notes:
+      en: "gen. gallīnae; 1st decl."
+      ko: "속격 gallīnae; 제1변화"
+  - latin: "gallus"
+    translation:
+      en: "rooster"
+      ko: "수탉"
+    gender: m
+    notes:
+      en: "gen. gallī; 2nd decl.; also 'Gaul (person)'"
+      ko: "속격 gallī; 제2변화; '갈리아인'이라는 뜻도 있음"
+  - latin: "pecus"
+    translation:
+      en: "cattle, livestock"
+      ko: "가축"
+    gender: n
+    notes:
+      en: "gen. pecoris; 3rd decl.; collective term"
+      ko: "속격 pecoris; 제3변화; 집합 명사"
+  - latin: "grex"
+    translation:
+      en: "flock, herd"
+      ko: "무리, 떼"
+    gender: m
+    notes:
+      en: "gen. gregis; 3rd decl."
+      ko: "속격 gregis; 제3변화"
+- id: rural_life
+  label:
+    en: "Rural Life"
+    ko: "시골 생활"
+  type: vocabulary
+  words:
+  - latin: "colonus"
+    translation:
+      en: "farmer, tenant farmer"
+      ko: "농부, 소작농"
+    gender: m
+    notes:
+      en: "gen. colōnī; 2nd decl."
+      ko: "속격 colōnī; 제2변화"
+  - latin: "agricola"
+    translation:
+      en: "farmer"
+      ko: "농부"
+    gender: m
+    notes:
+      en: "gen. agricolae; 1st decl.; masculine despite -a ending"
+      ko: "속격 agricolae; 제1변화; -a 어미지만 남성"
+  - latin: "pastor"
+    translation:
+      en: "shepherd"
+      ko: "양치기, 목자"
+    gender: m
+    notes:
+      en: "gen. pāstōris; 3rd decl."
+      ko: "속격 pāstōris; 제3변화"
+  - latin: "arator"
+    translation:
+      en: "plowman"
+      ko: "쟁기꾼"
+    gender: m
+    notes:
+      en: "gen. arātōris; 3rd decl."
+      ko: "속격 arātōris; 제3변화"
+  - latin: "servus"
+    translation:
+      en: "slave"
+      ko: "노예"
+    gender: m
+    notes:
+      en: "gen. servī; 2nd decl.; major agricultural labor force"
+      ko: "속격 servī; 제2변화; 주요 농업 노동력"
+  - latin: "latifundium"
+    translation:
+      en: "large estate, plantation"
+      ko: "대농장, 라티푼디움"
+    gender: n
+    notes:
+      en: "gen. latifundiī; 2nd decl. neuter; large estates worked by slaves"
+      ko: "속격 latifundiī; 제2변화 중성; 노예가 경작하는 대규모 농장"
+  - latin: "rus"
+    translation:
+      en: "countryside, rural area"
+      ko: "시골, 농촌"
+    gender: n
+    notes:
+      en: "gen. rūris; 3rd decl."
+      ko: "속격 rūris; 제3변화"
+  - latin: "pratum"
+    translation:
+      en: "meadow, pasture"
+      ko: "초원, 목초지"
+    gender: n
+    notes:
+      en: "gen. prātī; 2nd decl. neuter"
+      ko: "속격 prātī; 제2변화 중성"
+  - latin: "pascuum"
+    translation:
+      en: "pasture, grazing land"
+      ko: "목초지, 방목지"
+    gender: n
+    notes:
+      en: "gen. pascuī; 2nd decl. neuter"
+      ko: "속격 pascuī; 제2변화 중성"
+  - latin: "vindemia"
+    translation:
+      en: "grape harvest, vintage"
+      ko: "포도 수확"
+    gender: f
+    notes:
+      en: "gen. vindēmiae; 1st decl."
+      ko: "속격 vindēmiae; 제1변화"
+  - latin: "aratura"
+    translation:
+      en: "plowing"
+      ko: "경작, 쟁기질"
+    gender: f
+    notes:
+      en: "gen. arātūrae; 1st decl."
+      ko: "속격 arātūrae; 제1변화"
+  - latin: "cultura"
+    translation:
+      en: "cultivation, farming"
+      ko: "경작, 재배"
+    gender: f
+    notes:
+      en: "gen. cultūrae; 1st decl.; agricultura = 'farming'"
+      ko: "속격 cultūrae; 제1변화; agricultura = '농업'"
+  - latin: "vilicus"
+    translation:
+      en: "farm overseer, bailiff"
+      ko: "농장 감독관"
+    gender: m
+    notes:
+      en: "gen. vilicī; 2nd decl.; usually a slave"
+      ko: "속격 vilicī; 제2변화; 보통 노예"
+  - latin: "mercenarius"
+    translation:
+      en: "hired laborer, mercenary"
+      ko: "고용 노동자, 용병"
+    gender: m
+    notes:
+      en: "gen. mercēnāriī; 2nd decl."
+      ko: "속격 mercēnāriī; 제2변화"
+  - latin: "stabulum"
+    translation:
+      en: "stable, barn"
+      ko: "마구간, 헛간"
+    gender: n
+    notes:
+      en: "gen. stabulī; 2nd decl. neuter"
+      ko: "속격 stabulī; 제2변화 중성"
+  - latin: "puteus"
+    translation:
+      en: "well (for water)"
+      ko: "우물"
+    gender: m
+    notes:
+      en: "gen. puteī; 2nd decl."
+      ko: "속격 puteī; 제2변화"
+  - latin: "torcular"
+    translation:
+      en: "wine press, oil press"
+      ko: "포도주 압착기, 기름 압착기"
+    gender: n
+    notes:
+      en: "gen. torculāris; 3rd decl."
+      ko: "속격 torculāris; 제3변화"
+- id: farming_verbs
+  label:
+    en: "Farming Verbs"
+    ko: "농업 동사"
+  type: vocabulary
+  words:
+  - latin: "arare"
+    translation:
+      en: "to plow"
+      ko: "쟁기질하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "serere"
+    translation:
+      en: "to sow, to plant"
+      ko: "씨 뿌리다, 심다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. sēvī"
+      ko: "제3활용; 완료 sēvī"
+  - latin: "metere"
+    translation:
+      en: "to reap, to harvest"
+      ko: "수확하다, 거두다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. messuī"
+      ko: "제3활용; 완료 messuī"
+  - latin: "colere"
+    translation:
+      en: "to cultivate, to tend"
+      ko: "경작하다, 돌보다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. coluī; also 'to worship, to inhabit'"
+      ko: "제3활용; 완료 coluī; '숭배하다, 거주하다'의 뜻도 있음"
+  - latin: "irrigare"
+    translation:
+      en: "to irrigate, to water"
+      ko: "관개하다, 물을 대다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "pascere"
+    translation:
+      en: "to feed, to graze"
+      ko: "먹이다, 방목하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. pāvī"
+      ko: "제3활용; 완료 pāvī"
+  - latin: "mulgere"
+    translation:
+      en: "to milk"
+      ko: "젖을 짜다"
+    gender: n
+    notes:
+      en: "2nd conj.; perf. mulsī"
+      ko: "제2활용; 완료 mulsī"
+  - latin: "tondere"
+    translation:
+      en: "to shear (sheep)"
+      ko: "털을 깎다 (양)"
+    gender: n
+    notes:
+      en: "2nd conj.; perf. totondī"
+      ko: "제2활용; 완료 totondī"
+  - latin: "plantare"
+    translation:
+      en: "to plant"
+      ko: "심다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "putare"
+    translation:
+      en: "to prune, to trim"
+      ko: "가지치기하다"
+    gender: n
+    notes:
+      en: "1st conj.; also 'to think, to reckon'"
+      ko: "제1활용; '생각하다, 여기다'의 뜻도 있음"
+  - latin: "fodere"
+    translation:
+      en: "to dig"
+      ko: "파다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. fōdī"
+      ko: "제3활용 (i-어간); 완료 fōdī"
+  - latin: "terere"
+    translation:
+      en: "to thresh, to grind"
+      ko: "타작하다, 갈다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. trīvī"
+      ko: "제3활용; 완료 trīvī"
+- id: crops_extended
+  label:
+    en: "Additional Crops and Products"
+    ko: "추가 작물과 생산품"
+  type: vocabulary
+  words:
+  - latin: "vinum"
+    translation:
+      en: "wine"
+      ko: "포도주"
+    gender: n
+    notes:
+      en: "gen. vīnī; 2nd decl. neuter"
+      ko: "속격 vīnī; 제2변화 중성"
+  - latin: "oleum"
+    translation:
+      en: "olive oil"
+      ko: "올리브유"
+    gender: n
+    notes:
+      en: "gen. oleī; 2nd decl. neuter; essential Roman product"
+      ko: "속격 oleī; 제2변화 중성; 필수 로마 생산품"
+  - latin: "mel"
+    translation:
+      en: "honey"
+      ko: "꿀"
+    gender: n
+    notes:
+      en: "gen. mellis; 3rd decl.; main sweetener before sugar"
+      ko: "속격 mellis; 제3변화; 설탕 이전의 주요 감미료"
+  - latin: "lac"
+    translation:
+      en: "milk"
+      ko: "우유"
+    gender: n
+    notes:
+      en: "gen. lactis; 3rd decl."
+      ko: "속격 lactis; 제3변화"
+  - latin: "caseus"
+    translation:
+      en: "cheese"
+      ko: "치즈"
+    gender: m
+    notes:
+      en: "gen. cāseī; 2nd decl."
+      ko: "속격 cāseī; 제2변화"
+  - latin: "lana"
+    translation:
+      en: "wool"
+      ko: "양모"
+    gender: f
+    notes:
+      en: "gen. lānae; 1st decl."
+      ko: "속격 lānae; 제1변화"
+  - latin: "linum"
+    translation:
+      en: "flax, linen"
+      ko: "아마, 리넨"
+    gender: n
+    notes:
+      en: "gen. līnī; 2nd decl. neuter"
+      ko: "속격 līnī; 제2변화 중성"
+  - latin: "panis"
+    translation:
+      en: "bread"
+      ko: "빵"
+    gender: m
+    notes:
+      en: "gen. pānis; 3rd decl.; panem et circenses = 'bread and circuses'"
+      ko: "속격 pānis; 제3변화; panem et circenses = '빵과 서커스'"
+  - latin: "farina"
+    translation:
+      en: "flour, meal"
+      ko: "밀가루"
+    gender: f
+    notes:
+      en: "gen. farīnae; 1st decl."
+      ko: "속격 farīnae; 제1변화"
+  - latin: "pirum"
+    translation:
+      en: "pear"
+      ko: "배 (과일)"
+    gender: n
+    notes:
+      en: "gen. pirī; 2nd decl. neuter"
+      ko: "속격 pirī; 제2변화 중성"
+  - latin: "prunum"
+    translation:
+      en: "plum"
+      ko: "자두"
+    gender: n
+    notes:
+      en: "gen. prūnī; 2nd decl. neuter"
+      ko: "속격 prūnī; 제2변화 중성"
+  - latin: "nux"
+    translation:
+      en: "nut, walnut"
+      ko: "견과, 호두"
+    gender: f
+    notes:
+      en: "gen. nucis; 3rd decl."
+      ko: "속격 nucis; 제3변화"
+  - latin: "apis"
+    translation:
+      en: "bee"
+      ko: "벌"
+    gender: f
+    notes:
+      en: "gen. apis; 3rd decl.; beekeeping was important in Roman agriculture"
+      ko: "속격 apis; 제3변화; 양봉은 로마 농업에서 중요"
+  - latin: "alveare"
+    translation:
+      en: "beehive"
+      ko: "벌통"
+    gender: n
+    notes:
+      en: "gen. alveāris; 3rd decl."
+      ko: "속격 alveāris; 제3변화"
+  - latin: "stercus"
+    translation:
+      en: "manure, dung"
+      ko: "거름, 분뇨"
+    gender: n
+    notes:
+      en: "gen. stercoris; 3rd decl.; used as fertilizer"
+      ko: "속격 stercoris; 제3변화; 비료로 사용"
+  - latin: "sulcus"
+    translation:
+      en: "furrow"
+      ko: "고랑"
+    gender: m
+    notes:
+      en: "gen. sulcī; 2nd decl."
+      ko: "속격 sulcī; 제2변화"
+  - latin: "herba"
+    translation:
+      en: "herb, grass, plant"
+      ko: "풀, 약초, 식물"
+    gender: f
+    notes:
+      en: "gen. herbae; 1st decl."
+      ko: "속격 herbae; 제1변화"
+  - latin: "arbor"
+    translation:
+      en: "tree"
+      ko: "나무"
+    gender: f
+    notes:
+      en: "gen. arboris; 3rd decl."
+      ko: "속격 arboris; 제3변화"
+  - latin: "radix"
+    translation:
+      en: "root"
+      ko: "뿌리"
+    gender: f
+    notes:
+      en: "gen. rādīcis; 3rd decl."
+      ko: "속격 rādīcis; 제3변화"
+  - latin: "fructus"
+    translation:
+      en: "fruit, produce, profit"
+      ko: "열매, 생산물, 이익"
+    gender: m
+    notes:
+      en: "gen. frūctūs; 4th decl."
+      ko: "속격 frūctūs; 제4변화"
+  - latin: "annona"
+    translation:
+      en: "grain supply, harvest yield"
+      ko: "곡물 공급, 수확량"
+    gender: f
+    notes:
+      en: "gen. annōnae; 1st decl.; annona publica = state grain supply"
+      ko: "속격 annōnae; 제1변화; annona publica = 국가 곡물 공급"
+  - latin: "cibus"
+    translation:
+      en: "food, fodder"
+      ko: "음식, 사료"
+    gender: m
+    notes:
+      en: "gen. cibī; 2nd decl."
+      ko: "속격 cibī; 제2변화"
+- id: seasons_weather
+  label:
+    en: "Seasons, Weather, and the Agricultural Calendar"
+    ko: "계절, 날씨, 농업 달력"
+  type: vocabulary
+  words:
+  - latin: "ver"
+    translation:
+      en: "spring"
+      ko: "봄"
+    gender: n
+    notes:
+      en: "gen. vēris; 3rd decl.; plowing and planting season"
+      ko: "속격 vēris; 제3변화; 쟁기질과 파종 시기"
+  - latin: "aestas"
+    translation:
+      en: "summer"
+      ko: "여름"
+    gender: f
+    notes:
+      en: "gen. aestātis; 3rd decl.; growing season"
+      ko: "속격 aestātis; 제3변화; 성장 시기"
+  - latin: "autumnus"
+    translation:
+      en: "autumn, fall"
+      ko: "가을"
+    gender: m
+    notes:
+      en: "gen. autumnī; 2nd decl.; harvest season"
+      ko: "속격 autumnī; 제2변화; 수확 시기"
+  - latin: "hiems"
+    translation:
+      en: "winter"
+      ko: "겨울"
+    gender: f
+    notes:
+      en: "gen. hiemis; 3rd decl.; rest period for fields"
+      ko: "속격 hiemis; 제3변화; 농지 휴경기"
+  - latin: "pluvia"
+    translation:
+      en: "rain"
+      ko: "비"
+    gender: f
+    notes:
+      en: "gen. pluviae; 1st decl."
+      ko: "속격 pluviae; 제1변화"
+  - latin: "siccitas"
+    translation:
+      en: "drought, dryness"
+      ko: "가뭄, 건조"
+    gender: f
+    notes:
+      en: "gen. siccitātis; 3rd decl."
+      ko: "속격 siccitātis; 제3변화"
+  - latin: "tempestas"
+    translation:
+      en: "storm, weather"
+      ko: "폭풍, 날씨"
+    gender: f
+    notes:
+      en: "gen. tempestātis; 3rd decl."
+      ko: "속격 tempestātis; 제3변화"
+  - latin: "ros"
+    translation:
+      en: "dew"
+      ko: "이슬"
+    gender: m
+    notes:
+      en: "gen. rōris; 3rd decl."
+      ko: "속격 rōris; 제3변화"
+  - latin: "pruina"
+    translation:
+      en: "frost"
+      ko: "서리"
+    gender: f
+    notes:
+      en: "gen. pruīnae; 1st decl."
+      ko: "속격 pruīnae; 제1변화"
+  - latin: "nix"
+    translation:
+      en: "snow"
+      ko: "눈"
+    gender: f
+    notes:
+      en: "gen. nivis; 3rd decl."
+      ko: "속격 nivis; 제3변화"
+  - latin: "sol"
+    translation:
+      en: "sun"
+      ko: "태양"
+    gender: m
+    notes:
+      en: "gen. sōlis; 3rd decl."
+      ko: "속격 sōlis; 제3변화"
+  - latin: "luna"
+    translation:
+      en: "moon"
+      ko: "달"
+    gender: f
+    notes:
+      en: "gen. lūnae; 1st decl.; farming activities often tied to lunar phases"
+      ko: "속격 lūnae; 제1변화; 농사 활동이 종종 달 위상에 연결"
+  - latin: "calendae"
+    translation:
+      en: "Kalends (first day of month)"
+      ko: "칼렌다이 (월의 첫날)"
+    gender: f
+    notes:
+      en: "gen. calendārum; 1st decl. plural"
+      ko: "속격 calendārum; 제1변화 복수"
+  - latin: "fames"
+    translation:
+      en: "famine, hunger"
+      ko: "기근, 굶주림"
+    gender: f
+    notes:
+      en: "gen. famis; 3rd decl."
+      ko: "속격 famis; 제3변화"
+  - latin: "copia"
+    translation:
+      en: "abundance, plenty"
+      ko: "풍요, 풍부"
+    gender: f
+    notes:
+      en: "gen. cōpiae; 1st decl.; cornucopia = 'horn of plenty'"
+      ko: "속격 cōpiae; 제1변화; cornucopia = '풍요의 뿔'"
+  - latin: "fertilitas"
+    translation:
+      en: "fertility, fruitfulness"
+      ko: "비옥, 다산"
+    gender: f
+    notes:
+      en: "gen. fertilitātis; 3rd decl."
+      ko: "속격 fertilitātis; 제3변화"
+  - latin: "sterilitas"
+    translation:
+      en: "barrenness, infertility"
+      ko: "불모, 불임"
+    gender: f
+    notes:
+      en: "gen. sterilitātis; 3rd decl."
+      ko: "속격 sterilitātis; 제3변화"
+  - latin: "pestis"
+    translation:
+      en: "plague, pest, blight"
+      ko: "전염병, 해충, 역병"
+    gender: f
+    notes:
+      en: "gen. pestis; 3rd decl."
+      ko: "속격 pestis; 제3변화"
+  - latin: "locusta"
+    translation:
+      en: "locust"
+      ko: "메뚜기"
+    gender: f
+    notes:
+      en: "gen. locustae; 1st decl.; devastated crops"
+      ko: "속격 locustae; 제1변화; 농작물을 초토화"
+  - latin: "humus"
+    translation:
+      en: "ground, soil, earth"
+      ko: "흙, 토양, 대지"
+    gender: f
+    notes:
+      en: "gen. humī; 2nd decl."
+      ko: "속격 humī; 제2변화"
+  - latin: "aqua"
+    translation:
+      en: "water"
+      ko: "물"
+    gender: f
+    notes:
+      en: "gen. aquae; 1st decl."
+      ko: "속격 aquae; 제1변화"
+  - latin: "rivus"
+    translation:
+      en: "stream, brook"
+      ko: "시내, 개울"
+    gender: m
+    notes:
+      en: "gen. rīvī; 2nd decl.; used for irrigation"
+      ko: "속격 rīvī; 제2변화; 관개에 사용"
+  - latin: "palmes"
+    translation:
+      en: "vine shoot, branch"
+      ko: "포도 가지, 순"
+    gender: m
+    notes:
+      en: "gen. palmitis; 3rd decl."
+      ko: "속격 palmitis; 제3변화"
+  - latin: "propagatio"
+    translation:
+      en: "propagation (of plants)"
+      ko: "번식 (식물의)"
+    gender: f
+    notes:
+      en: "gen. propāgātiōnis; 3rd decl."
+      ko: "속격 propāgātiōnis; 제3변화"
+  - latin: "silva caedua"
+    translation:
+      en: "coppiced forest"
+      ko: "벌채림"
+    gender: f
+    notes:
+      en: "1st decl. + adj.; forest managed for wood"
+      ko: "제1변화 + 형용사; 목재용으로 관리되는 숲"
+  - latin: "iumenta"
+    translation:
+      en: "draft animals, beasts of burden"
+      ko: "역축, 짐승"
+    gender: n
+    notes:
+      en: "gen. iūmentōrum; 2nd decl. neuter plural"
+      ko: "속격 iūmentōrum; 제2변화 중성 복수"
+  - latin: "pabulum"
+    translation:
+      en: "fodder, animal feed"
+      ko: "사료, 가축 먹이"
+    gender: n
+    notes:
+      en: "gen. pābulī; 2nd decl. neuter"
+      ko: "속격 pābulī; 제2변화 중성"
+  - latin: "faenum"
+    translation:
+      en: "hay"
+      ko: "건초"
+    gender: n
+    notes:
+      en: "gen. faenī; 2nd decl. neuter"
+      ko: "속격 faenī; 제2변화 중성"
+  - latin: "cella vinaria"
+    translation:
+      en: "wine cellar"
+      ko: "와인 저장고"
+    gender: f
+    notes:
+      en: "1st decl. + adj."
+      ko: "제1변화 + 형용사"
+  - latin: "cella olearia"
+    translation:
+      en: "oil storage room"
+      ko: "기름 저장실"
+    gender: f
+    notes:
+      en: "1st decl. + adj."
+      ko: "제1변화 + 형용사"
+  - latin: "dolia"
+    translation:
+      en: "large storage jars (for wine/oil)"
+      ko: "대형 저장 항아리 (포도주/기름용)"
+    gender: n
+    notes:
+      en: "gen. doliōrum; 2nd decl. neuter plural; buried in ground"
+      ko: "속격 doliōrum; 제2변화 중성 복수; 땅에 묻음"
+  - latin: "area"
+    translation:
+      en: "threshing floor"
+      ko: "타작마당"
+    gender: f
+    notes:
+      en: "gen. āreae; 1st decl.; open space for threshing grain"
+      ko: "속격 āreae; 제1변화; 곡물 타작을 위한 개방 공간"
+  - latin: "mola"
+    translation:
+      en: "millstone, mill"
+      ko: "맷돌, 방앗간"
+    gender: f
+    notes:
+      en: "gen. molae; 1st decl.; for grinding grain"
+      ko: "속격 molae; 제1변화; 곡물을 갈기 위한"
+  - latin: "pistrinum"
+    translation:
+      en: "bakery, flour mill"
+      ko: "제빵소, 제분소"
+    gender: n
+    notes:
+      en: "gen. pistrīnī; 2nd decl. neuter; often worked by slaves"
+      ko: "속격 pistrīnī; 제2변화 중성; 종종 노예가 작업"
+  - latin: "venatio"
+    translation:
+      en: "hunting"
+      ko: "사냥"
+    gender: f
+    notes:
+      en: "gen. vēnātiōnis; 3rd decl."
+      ko: "속격 vēnātiōnis; 제3변화"
+  - latin: "piscatio"
+    translation:
+      en: "fishing"
+      ko: "낚시, 어업"
+    gender: f
+    notes:
+      en: "gen. piscātiōnis; 3rd decl."
+      ko: "속격 piscātiōnis; 제3변화"
+  - latin: "insitio"
+    translation:
+      en: "grafting (of plants)"
+      ko: "접목 (식물의)"
+    gender: f
+    notes:
+      en: "gen. īnsītiōnis; 3rd decl.; key horticultural technique"
+      ko: "속격 īnsītiōnis; 제3변화; 핵심 원예 기술"
+  - latin: "stiva"
+    translation:
+      en: "plow handle"
+      ko: "쟁기 손잡이"
+    gender: f
+    notes:
+      en: "gen. stīvae; 1st decl."
+      ko: "속격 stīvae; 제1변화"
+  - latin: "vomer"
+    translation:
+      en: "plowshare"
+      ko: "보습"
+    gender: m
+    notes:
+      en: "gen. vōmeris; 3rd decl.; iron blade of the plow"
+      ko: "속격 vōmeris; 제3변화; 쟁기의 철제 날"
+  - latin: "buris"
+    translation:
+      en: "plow beam"
+      ko: "쟁기 대"
+    gender: f
+    notes:
+      en: "gen. būris; 3rd decl."
+      ko: "속격 būris; 제3변화"
+  - latin: "mergere"
+    translation:
+      en: "to dip, to immerse (plants)"
+      ko: "담그다, (식물을) 침수시키다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. mersī"
+      ko: "제3활용; 완료 mersī"
+  - latin: "inserere"
+    translation:
+      en: "to graft, to insert"
+      ko: "접목하다, 끼우다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. insēvī; key technique in Georgics"
+      ko: "제3활용; 완료 insēvī; 농경시의 핵심 기술"
