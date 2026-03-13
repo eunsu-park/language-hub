@@ -1,0 +1,529 @@
+lesson: 03_Basic_Sentence_Structure
+lesson_number: 3
+topik: TOPIK_I_1
+
+categories:
+- id: particles_basic
+  label:
+    en: Basic Particles
+    ko: 기본 조사
+  type: vocabulary
+  words:
+  - korean: 은
+    reading: null
+    translation:
+      en: topic particle (after consonant)
+      ko: 자음 뒤에 오는 주제 조사
+    gender: null
+    plural: null
+  - korean: 는
+    reading: null
+    translation:
+      en: topic particle (after vowel)
+      ko: 모음 뒤에 오는 주제 조사
+    gender: null
+    plural: null
+  - korean: 이
+    reading: null
+    translation:
+      en: subject particle (after consonant)
+      ko: 자음 뒤에 오는 주어 조사
+    gender: null
+    plural: null
+  - korean: 가
+    reading: null
+    translation:
+      en: subject particle (after vowel)
+      ko: 모음 뒤에 오는 주어 조사
+    gender: null
+    plural: null
+  - korean: 을
+    reading: null
+    translation:
+      en: object particle (after consonant)
+      ko: 자음 뒤에 오는 목적어 조사
+    gender: null
+    plural: null
+  - korean: 를
+    reading: null
+    translation:
+      en: object particle (after vowel)
+      ko: 모음 뒤에 오는 목적어 조사
+    gender: null
+    plural: null
+  - korean: 의
+    reading: null
+    translation:
+      en: possessive particle (of)
+      ko: 소유를 나타내는 조사
+    gender: null
+    plural: null
+  - korean: 도
+    reading: null
+    translation:
+      en: also, too (particle)
+      ko: 역시, 또한을 나타내는 조사
+    gender: null
+    plural: null
+
+- id: demonstratives
+  label:
+    en: Demonstratives
+    ko: 지시어
+  type: vocabulary
+  words:
+  - korean: 이것
+    reading: null
+    translation:
+      en: this (thing)
+      ko: 가까이 있는 것
+    gender: null
+    plural: null
+  - korean: 그것
+    reading: null
+    translation:
+      en: that (thing, near listener)
+      ko: 듣는 사람 가까이 있는 것
+    gender: null
+    plural: null
+  - korean: 저것
+    reading: null
+    translation:
+      en: that (thing, far away)
+      ko: 멀리 있는 것
+    gender: null
+    plural: null
+  - korean: 이
+    reading: null
+    translation:
+      en: this (modifier)
+      ko: 가까이 있는 (관형사)
+    gender: null
+    plural: null
+  - korean: 그
+    reading: null
+    translation:
+      en: that (modifier, near listener)
+      ko: 듣는 사람 가까이 있는 (관형사)
+    gender: null
+    plural: null
+  - korean: 저
+    reading: null
+    translation:
+      en: that (modifier, far away)
+      ko: 멀리 있는 (관형사)
+    gender: null
+    plural: null
+  - korean: 여기
+    reading: null
+    translation:
+      en: here
+      ko: 이곳
+    gender: null
+    plural: null
+  - korean: 거기
+    reading: null
+    translation:
+      en: there (near listener)
+      ko: 그곳
+    gender: null
+    plural: null
+  - korean: 저기
+    reading: null
+    translation:
+      en: over there (far away)
+      ko: 먼 곳
+    gender: null
+    plural: null
+  - korean: 이쪽
+    reading: null
+    translation:
+      en: this side, this way
+      ko: 이 방향
+    gender: null
+    plural: null
+  - korean: 그쪽
+    reading: null
+    translation:
+      en: that side, that way
+      ko: 그 방향
+    gender: null
+    plural: null
+  - korean: 저쪽
+    reading: null
+    translation:
+      en: that side over there
+      ko: 저 방향
+    gender: null
+    plural: null
+
+- id: question_words
+  label:
+    en: Question Words
+    ko: 의문사
+  type: vocabulary
+  words:
+  - korean: 뭐
+    reading: null
+    translation:
+      en: what (casual)
+      ko: 무엇의 줄임말
+    gender: null
+    plural: null
+  - korean: 무엇
+    reading: null
+    translation:
+      en: what (formal)
+      ko: 모르는 사물이나 내용을 물을 때
+    gender: null
+    plural: null
+  - korean: 누구
+    reading: null
+    translation:
+      en: who
+      ko: 모르는 사람을 물을 때
+    gender: null
+    plural: null
+  - korean: 어디
+    reading: null
+    translation:
+      en: where
+      ko: 모르는 장소를 물을 때
+    gender: null
+    plural: null
+  - korean: 언제
+    reading: null
+    translation:
+      en: when
+      ko: 모르는 시간을 물을 때
+    gender: null
+    plural: null
+  - korean: 왜
+    reading: null
+    translation:
+      en: why
+      ko: 이유를 물을 때
+    gender: null
+    plural: null
+  - korean: 어떻게
+    reading: null
+    translation:
+      en: how
+      ko: 방법이나 상태를 물을 때
+    gender: null
+    plural: null
+  - korean: 얼마
+    reading: null
+    translation:
+      en: how much
+      ko: 수량이나 가격을 물을 때
+    gender: null
+    plural: null
+  - korean: 몇
+    reading: null
+    translation:
+      en: how many
+      ko: 수를 물을 때
+    gender: null
+    plural: null
+  - korean: 어느
+    reading: null
+    translation:
+      en: which
+      ko: 여러 가운데 하나를 물을 때
+    gender: null
+    plural: null
+  - korean: 어떤
+    reading: null
+    translation:
+      en: what kind of
+      ko: 성질이나 종류를 물을 때
+    gender: null
+    plural: null
+
+- id: existence_possession
+  label:
+    en: Existence and Possession
+    ko: 존재와 소유
+  type: vocabulary
+  words:
+  - korean: 있다
+    reading: null
+    translation:
+      en: to exist, to have
+      ko: 존재하다, 가지다
+    gender: null
+    plural: null
+  - korean: 없다
+    reading: null
+    translation:
+      en: to not exist, to not have
+      ko: 존재하지 않다, 가지지 않다
+    gender: null
+    plural: null
+  - korean: 이다
+    reading: null
+    translation:
+      en: to be (copula)
+      ko: 주어와 보어가 같음을 나타내는 서술격 조사
+    gender: null
+    plural: null
+  - korean: 아니다
+    reading: null
+    translation:
+      en: to not be
+      ko: 주어와 보어가 같지 않음을 나타내는 형용사
+    gender: null
+    plural: null
+  - korean: 되다
+    reading: null
+    translation:
+      en: to become
+      ko: 어떤 상태로 바뀌다
+    gender: null
+    plural: null
+  - korean: 많다
+    reading: null
+    translation:
+      en: to be many, much
+      ko: 수나 양이 크다
+    gender: null
+    plural: null
+  - korean: 적다
+    reading: null
+    translation:
+      en: to be few, little
+      ko: 수나 양이 작다
+    gender: null
+    plural: null
+
+- id: basic_nouns
+  label:
+    en: Basic Nouns
+    ko: 기본 명사
+  type: vocabulary
+  words:
+  - korean: 사람
+    reading: null
+    translation:
+      en: person, people
+      ko: 인간
+    gender: null
+    plural: null
+  - korean: 것
+    reading: null
+    translation:
+      en: thing
+      ko: 사물이나 대상
+    gender: null
+    plural: null
+  - korean: 집
+    reading: null
+    translation:
+      en: house, home
+      ko: 사람이 사는 곳
+    gender: null
+    plural: null
+  - korean: 학교
+    reading: null
+    translation:
+      en: school
+      ko: 공부하는 곳
+    gender: null
+    plural: null
+  - korean: 회사
+    reading: null
+    translation:
+      en: company, office
+      ko: 일하는 곳
+    gender: null
+    plural: null
+  - korean: 방
+    reading: null
+    translation:
+      en: room
+      ko: 벽으로 둘러싸인 공간
+    gender: null
+    plural: null
+  - korean: 책
+    reading: null
+    translation:
+      en: book
+      ko: 읽는 것
+    gender: null
+    plural: null
+  - korean: 물
+    reading: null
+    translation:
+      en: water
+      ko: 마시는 액체
+    gender: null
+    plural: null
+  - korean: 말
+    reading: null
+    translation:
+      en: word, language, speech
+      ko: 의사소통의 수단
+    gender: null
+    plural: null
+  - korean: 일
+    reading: null
+    translation:
+      en: work, matter, thing
+      ko: 해야 할 것
+    gender: null
+    plural: null
+  - korean: 시간
+    reading: null
+    translation:
+      en: time, hour
+      ko: 때, 동안
+    gender: null
+    plural: null
+  - korean: 곳
+    reading: null
+    translation:
+      en: place
+      ko: 장소
+    gender: null
+    plural: null
+  - korean: 문
+    reading: null
+    translation:
+      en: door
+      ko: 출입하는 곳
+    gender: null
+    plural: null
+  - korean: 의자
+    reading: null
+    translation:
+      en: chair
+      ko: 앉는 가구
+    gender: null
+    plural: null
+  - korean: 책상
+    reading: null
+    translation:
+      en: desk
+      ko: 공부나 일을 할 때 쓰는 가구
+    gender: null
+    plural: null
+  - korean: 창문
+    reading: null
+    translation:
+      en: window
+      ko: 빛이나 공기가 들어오는 곳
+    gender: null
+    plural: null
+  - korean: 전화
+    reading: null
+    translation:
+      en: telephone, phone call
+      ko: 말을 전하는 기계
+    gender: null
+    plural: null
+  - korean: 컴퓨터
+    reading: null
+    translation:
+      en: computer
+      ko: 전자 계산기
+    gender: null
+    plural: null
+  - korean: 가방
+    reading: null
+    translation:
+      en: bag
+      ko: 물건을 넣어 들고 다니는 것
+    gender: null
+    plural: null
+  - korean: 돈
+    reading: null
+    translation:
+      en: money
+      ko: 물건을 살 때 쓰는 것
+    gender: null
+    plural: null
+  - korean: 음식
+    reading: null
+    translation:
+      en: food
+      ko: 먹을 수 있는 것
+    gender: null
+    plural: null
+  - korean: 영화
+    reading: null
+    translation:
+      en: movie
+      ko: 화면으로 보는 이야기
+    gender: null
+    plural: null
+  - korean: 음악
+    reading: null
+    translation:
+      en: music
+      ko: 소리로 이루어진 예술
+    gender: null
+    plural: null
+  - korean: 나무
+    reading: null
+    translation:
+      en: tree
+      ko: 크게 자라는 식물
+    gender: null
+    plural: null
+  - korean: 꽃
+    reading: null
+    translation:
+      en: flower
+      ko: 식물에서 피는 아름다운 부분
+    gender: null
+    plural: null
+  - korean: 동물
+    reading: null
+    translation:
+      en: animal
+      ko: 살아 움직이는 생물
+    gender: null
+    plural: null
+  - korean: 고양이
+    reading: null
+    translation:
+      en: cat
+      ko: 작은 포유동물
+    gender: null
+    plural: null
+  - korean: 개
+    reading: null
+    translation:
+      en: dog
+      ko: 사람과 함께 사는 동물
+    gender: null
+    plural: null
+  - korean: 차
+    reading: null
+    translation:
+      en: car, tea
+      ko: 자동차 또는 마시는 차
+    gender: null
+    plural: null
+  - korean: 신문
+    reading: null
+    translation:
+      en: newspaper
+      ko: 새로운 소식을 적은 종이
+    gender: null
+    plural: null
+  - korean: 사진
+    reading: null
+    translation:
+      en: photo, picture
+      ko: 카메라로 찍은 것
+    gender: null
+    plural: null
+  - korean: 우산
+    reading: null
+    translation:
+      en: umbrella
+      ko: 비를 막는 도구
+    gender: null
+    plural: null
