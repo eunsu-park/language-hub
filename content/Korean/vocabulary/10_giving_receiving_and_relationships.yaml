@@ -1,0 +1,562 @@
+lesson: 10_Giving_Receiving_and_Relationships
+lesson_number: 10
+topik: TOPIK_I_2
+
+categories:
+- id: giving_receiving_verbs
+  label:
+    en: Giving and Receiving Verbs
+    ko: 주고받기 동사
+  type: vocabulary
+  words:
+  - korean: 주다
+    reading: null
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+    plural: null
+    notes:
+      en: "Basic verb for giving"
+      ko: "주는 행위의 기본 동사"
+  - korean: 받다
+    reading: null
+    translation:
+      en: to receive
+      ko: 받다
+    gender: null
+    plural: null
+  - korean: 드리다
+    reading: null
+    translation:
+      en: to give (humble/honorific)
+      ko: 주다의 높임말
+    gender: null
+    plural: null
+    notes:
+      en: "Used when giving to someone of higher status"
+      ko: "윗사람에게 줄 때 사용"
+  - korean: 받아들이다
+    reading: null
+    translation:
+      en: to accept
+      ko: 받아들이다
+    gender: null
+    plural: null
+  - korean: 선물하다
+    reading: null
+    translation:
+      en: to give a gift
+      ko: 선물을 주다
+    gender: null
+    plural: null
+  - korean: 선물
+    reading: null
+    translation:
+      en: gift / present
+      ko: 선물
+    gender: null
+    plural: null
+  - korean: 빌려주다
+    reading: null
+    translation:
+      en: to lend
+      ko: 빌려주다
+    gender: null
+    plural: null
+  - korean: 빌리다
+    reading: null
+    translation:
+      en: to borrow
+      ko: 빌리다
+    gender: null
+    plural: null
+  - korean: 나누다
+    reading: null
+    translation:
+      en: to share / to divide
+      ko: 나누다
+    gender: null
+    plural: null
+  - korean: 돌려주다
+    reading: null
+    translation:
+      en: to return (something)
+      ko: 돌려주다
+    gender: null
+    plural: null
+  - korean: 전해 주다
+    reading: null
+    translation:
+      en: to pass along / to deliver
+      ko: 전해 주다
+    gender: null
+    plural: null
+  - korean: 보내다
+    reading: null
+    translation:
+      en: to send
+      ko: 보내다
+    gender: null
+    plural: null
+
+- id: social_hierarchy
+  label:
+    en: Social Hierarchy Terms
+    ko: 사회적 서열 용어
+  type: vocabulary
+  words:
+  - korean: 선배
+    reading: null
+    translation:
+      en: senior (at school/work)
+      ko: 학교나 직장에서 먼저 들어온 사람
+    gender: null
+    plural: null
+    notes:
+      en: "Someone who entered before you"
+      ko: "자신보다 먼저 입학하거나 입사한 사람"
+  - korean: 후배
+    reading: null
+    translation:
+      en: junior (at school/work)
+      ko: 학교나 직장에서 나중에 들어온 사람
+    gender: null
+    plural: null
+  - korean: 동기
+    reading: null
+    translation:
+      en: peer / same-year colleague
+      ko: 같은 해에 입학하거나 입사한 사람
+    gender: null
+    plural: null
+  - korean: 상사
+    reading: null
+    translation:
+      en: superior / boss
+      ko: 직장에서 윗사람
+    gender: null
+    plural: null
+  - korean: 부하
+    reading: null
+    translation:
+      en: subordinate
+      ko: 직장에서 아랫사람
+    gender: null
+    plural: null
+  - korean: 동료
+    reading: null
+    translation:
+      en: colleague / coworker
+      ko: 같이 일하는 사람
+    gender: null
+    plural: null
+  - korean: 윗사람
+    reading: null
+    translation:
+      en: elder / person of higher status
+      ko: 나이나 지위가 높은 사람
+    gender: null
+    plural: null
+  - korean: 아랫사람
+    reading: null
+    translation:
+      en: younger / person of lower status
+      ko: 나이나 지위가 낮은 사람
+    gender: null
+    plural: null
+
+- id: family_terms_extended
+  label:
+    en: Extended Family Terms
+    ko: 확대 가족 호칭
+  type: vocabulary
+  words:
+  - korean: 형
+    reading: null
+    translation:
+      en: older brother (male speaker)
+      ko: 남자가 부르는 손위 남자 형제
+    gender: null
+    plural: null
+  - korean: 오빠
+    reading: null
+    translation:
+      en: older brother (female speaker)
+      ko: 여자가 부르는 손위 남자 형제
+    gender: null
+    plural: null
+  - korean: 누나
+    reading: null
+    translation:
+      en: older sister (male speaker)
+      ko: 남자가 부르는 손위 여자 형제
+    gender: null
+    plural: null
+  - korean: 언니
+    reading: null
+    translation:
+      en: older sister (female speaker)
+      ko: 여자가 부르는 손위 여자 형제
+    gender: null
+    plural: null
+  - korean: 동생
+    reading: null
+    translation:
+      en: younger sibling
+      ko: 나이가 어린 형제자매
+    gender: null
+    plural: null
+  - korean: 남동생
+    reading: null
+    translation:
+      en: younger brother
+      ko: 나이가 어린 남자 형제
+    gender: null
+    plural: null
+  - korean: 여동생
+    reading: null
+    translation:
+      en: younger sister
+      ko: 나이가 어린 여자 형제
+    gender: null
+    plural: null
+  - korean: 할아버지
+    reading: null
+    translation:
+      en: grandfather
+      ko: 아버지의 아버지 또는 어머니의 아버지
+    gender: null
+    plural: null
+  - korean: 할머니
+    reading: null
+    translation:
+      en: grandmother
+      ko: 아버지의 어머니 또는 어머니의 어머니
+    gender: null
+    plural: null
+  - korean: 삼촌
+    reading: null
+    translation:
+      en: uncle (father's brother)
+      ko: 아버지의 형제
+    gender: null
+    plural: null
+  - korean: 이모
+    reading: null
+    translation:
+      en: aunt (mother's sister)
+      ko: 어머니의 자매
+    gender: null
+    plural: null
+  - korean: 고모
+    reading: null
+    translation:
+      en: aunt (father's sister)
+      ko: 아버지의 자매
+    gender: null
+    plural: null
+  - korean: 사촌
+    reading: null
+    translation:
+      en: cousin
+      ko: 부모의 형제자매의 자녀
+    gender: null
+    plural: null
+  - korean: 조카
+    reading: null
+    translation:
+      en: nephew / niece
+      ko: 형제자매의 자녀
+    gender: null
+    plural: null
+  - korean: 며느리
+    reading: null
+    translation:
+      en: daughter-in-law
+      ko: 아들의 아내
+    gender: null
+    plural: null
+  - korean: 사위
+    reading: null
+    translation:
+      en: son-in-law
+      ko: 딸의 남편
+    gender: null
+    plural: null
+
+- id: titles_address
+  label:
+    en: Titles and Forms of Address
+    ko: 호칭과 경칭
+  type: vocabulary
+  words:
+  - korean: -씨
+    reading: null
+    translation:
+      en: Mr./Ms. (polite suffix)
+      ko: 이름 뒤에 붙이는 존칭 접미사
+    gender: null
+    plural: null
+    notes:
+      en: "Attached to full name or first name; polite but not very formal"
+      ko: "이름 뒤에 붙임; 정중하지만 격식체는 아님"
+  - korean: -님
+    reading: null
+    translation:
+      en: honorific suffix (respectful)
+      ko: 높임의 접미사
+    gender: null
+    plural: null
+    notes:
+      en: "Higher respect than -씨; used with titles"
+      ko: "-씨보다 높은 존칭; 직함에 붙여 사용"
+  - korean: 선생님
+    reading: null
+    translation:
+      en: teacher / Mr./Ms. (respectful)
+      ko: 교사, 또는 존경의 호칭
+    gender: null
+    plural: null
+  - korean: 사장님
+    reading: null
+    translation:
+      en: company president (honorific)
+      ko: 회사 대표에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 부장님
+    reading: null
+    translation:
+      en: department head (honorific)
+      ko: 부서장에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 과장님
+    reading: null
+    translation:
+      en: section chief (honorific)
+      ko: 과의 장에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 교수님
+    reading: null
+    translation:
+      en: professor (honorific)
+      ko: 대학 교수에 대한 존칭
+    gender: null
+    plural: null
+  - korean: 아저씨
+    reading: null
+    translation:
+      en: middle-aged man / mister (informal)
+      ko: 중년 남성에 대한 비격식 호칭
+    gender: null
+    plural: null
+  - korean: 아줌마
+    reading: null
+    translation:
+      en: middle-aged woman / ma'am (informal)
+      ko: 중년 여성에 대한 비격식 호칭
+    gender: null
+    plural: null
+  - korean: 아가씨
+    reading: null
+    translation:
+      en: young lady / miss
+      ko: 젊은 여성에 대한 호칭
+    gender: null
+    plural: null
+
+- id: relationship_phrases
+  label:
+    en: Relationship Phrases and Expressions
+    ko: 관계 관련 표현
+  type: vocabulary
+  words:
+  - korean: 존댓말
+    reading: null
+    translation:
+      en: formal/polite speech
+      ko: 높임의 말투
+    gender: null
+    plural: null
+    notes:
+      en: "Speech style used with elders, strangers, and superiors"
+      ko: "어른, 모르는 사람, 윗사람에게 사용하는 말투"
+  - korean: 반말
+    reading: null
+    translation:
+      en: informal/casual speech
+      ko: 격식을 차리지 않는 말투
+    gender: null
+    plural: null
+    notes:
+      en: "Used with close friends and younger people"
+      ko: "친한 친구나 아랫사람에게 사용"
+  - korean: 친구
+    reading: null
+    translation:
+      en: friend
+      ko: 친구
+    gender: null
+    plural: null
+    notes:
+      en: "In Korean culture, true 친구 are same-age friends"
+      ko: "한국 문화에서 친구는 같은 나이의 사람"
+  - korean: 사이
+    reading: null
+    translation:
+      en: relationship / between
+      ko: 관계, 사이
+    gender: null
+    plural: null
+  - korean: 사귀다
+    reading: null
+    translation:
+      en: to date / to make friends
+      ko: 교제하다
+    gender: null
+    plural: null
+  - korean: 인사하다
+    reading: null
+    translation:
+      en: to greet
+      ko: 인사하다
+    gender: null
+    plural: null
+  - korean: 소개하다
+    reading: null
+    translation:
+      en: to introduce
+      ko: 소개하다
+    gender: null
+    plural: null
+  - korean: 돌보다
+    reading: null
+    translation:
+      en: to take care of
+      ko: 보살피다
+    gender: null
+    plural: null
+  - korean: 존경하다
+    reading: null
+    translation:
+      en: to respect
+      ko: 높이 받들어 공경하다
+    gender: null
+    plural: null
+  - korean: 감사하다
+    reading: null
+    translation:
+      en: to be grateful / to thank
+      ko: 고마워하다
+    gender: null
+    plural: null
+  - korean: 축하하다
+    reading: null
+    translation:
+      en: to congratulate
+      ko: 축하하다
+    gender: null
+    plural: null
+  - korean: 어울리다
+    reading: null
+    translation:
+      en: to get along / to suit
+      ko: 잘 맞다, 함께하다
+    gender: null
+    plural: null
+  - korean: 정
+    reading: null
+    translation:
+      en: affection / emotional bond
+      ko: 사람 사이의 따뜻한 감정
+    gender: null
+    plural: null
+    notes:
+      en: "Core Korean cultural concept of deep emotional attachment"
+      ko: "한국 문화의 핵심적인 정서적 유대 개념"
+  - korean: 효도
+    reading: null
+    translation:
+      en: filial piety
+      ko: 부모에 대한 공경과 봉양
+    gender: null
+    plural: null
+    notes:
+      en: "Deeply valued virtue in Korean society"
+      ko: "한국 사회에서 매우 중요한 덕목"
+  - korean: 배려
+    reading: null
+    translation:
+      en: consideration / thoughtfulness
+      ko: 남을 생각하여 도와주거나 보살핌
+    gender: null
+    plural: null
+  - korean: 신뢰
+    reading: null
+    translation:
+      en: trust
+      ko: 굳게 믿음
+    gender: null
+    plural: null
+  - korean: 우정
+    reading: null
+    translation:
+      en: friendship
+      ko: 친구 사이의 정
+    gender: null
+    plural: null
+  - korean: 사랑
+    reading: null
+    translation:
+      en: love
+      ko: 깊이 좋아하는 마음
+    gender: null
+    plural: null
+  - korean: 결혼하다
+    reading: null
+    translation:
+      en: to marry
+      ko: 부부가 되다
+    gender: null
+    plural: null
+  - korean: 이웃
+    reading: null
+    translation:
+      en: neighbor
+      ko: 가까이 사는 사람
+    gender: null
+    plural: null
+  - korean: 어른
+    reading: null
+    translation:
+      en: adult / elder
+      ko: 나이가 많거나 지위가 높은 사람
+    gender: null
+    plural: null
+  - korean: 아이
+    reading: null
+    translation:
+      en: child
+      ko: 어린 사람
+    gender: null
+    plural: null
+  - korean: 세대
+    reading: null
+    translation:
+      en: generation
+      ko: 같은 시대에 태어난 사람들
+    gender: null
+    plural: null
+  - korean: 나이
+    reading: null
+    translation:
+      en: age
+      ko: 살아온 해의 수
+    gender: null
+    plural: null
+    notes:
+      en: "Age is extremely important in Korean social relationships"
+      ko: "나이는 한국 사회관계에서 매우 중요한 요소"
