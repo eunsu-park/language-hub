@@ -1,0 +1,764 @@
+lesson: supplementary
+lesson_number: 104
+topik: TOPIK_I_1
+type: supplementary
+topic: "Body and Health"
+
+categories:
+- id: body_parts
+  label:
+    en: "Body Parts"
+    ko: "신체 부위"
+  type: vocabulary
+  words:
+  - korean: 머리
+    reading: null
+    translation:
+      en: "head, hair"
+      ko: "머리"
+    gender: null
+    plural: null
+    notes:
+      en: "Refers to both head and hair"
+      ko: "머리와 머리카락 모두를 가리킴"
+  - korean: 눈
+    reading: null
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'snow'"
+      ko: "'눈(雪)'이라는 뜻도 있음"
+  - korean: 코
+    reading: null
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: null
+    plural: null
+    notes:
+      en: "Used in many idiomatic expressions"
+      ko: "많은 관용 표현에 사용됨"
+  - korean: 입
+    reading: null
+    translation:
+      en: "mouth"
+      ko: "입"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'entrance' in some contexts"
+      ko: "문맥에 따라 '입구'를 뜻하기도 함"
+  - korean: 귀
+    reading: null
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'precious, noble' in compounds"
+      ko: "합성어에서 '귀(貴)하다'의 뜻도 있음"
+  - korean: 얼굴
+    reading: null
+    translation:
+      en: "face"
+      ko: "얼굴"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 목
+    reading: null
+    translation:
+      en: "neck, throat"
+      ko: "목"
+    gender: null
+    plural: null
+    notes:
+      en: "Includes both neck and throat"
+      ko: "목과 목구멍 모두를 포함"
+  - korean: 어깨
+    reading: null
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: null
+    plural: null
+    notes:
+      en: "Often stiff from sitting (어깨 결림)"
+      ko: "오래 앉으면 뻣뻣해짐 (어깨 결림)"
+  - korean: 팔
+    reading: null
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: null
+    plural: null
+    notes:
+      en: "Also the number 8 in pure Korean"
+      ko: "고유어 숫자 8이기도 함"
+  - korean: 손
+    reading: null
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: null
+    plural: null
+    notes:
+      en: "Used in many compound words"
+      ko: "많은 합성어에 사용됨"
+  - korean: 손가락
+    reading: null
+    translation:
+      en: "finger"
+      ko: "손가락"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'hand branch'"
+      ko: "손 + 가락"
+  - korean: 가슴
+    reading: null
+    translation:
+      en: "chest, breast"
+      ko: "가슴"
+    gender: null
+    plural: null
+    notes:
+      en: "Also used figuratively for 'heart/feelings'"
+      ko: "비유적으로 '마음'을 뜻하기도 함"
+  - korean: 배
+    reading: null
+    translation:
+      en: "stomach, belly"
+      ko: "배"
+    gender: null
+    plural: null
+    notes:
+      en: "Multiple meanings: stomach, ship, pear, double"
+      ko: "다의어: 복부, 배(船), 배(梨), 배수"
+  - korean: 등
+    reading: null
+    translation:
+      en: "back (body part)"
+      ko: "등"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'etc.' and 'lamp'"
+      ko: "'등등'이나 '등불'의 뜻도 있음"
+  - korean: 허리
+    reading: null
+    translation:
+      en: "waist, lower back"
+      ko: "허리"
+    gender: null
+    plural: null
+    notes:
+      en: "Common area for back pain"
+      ko: "요통이 흔한 부위"
+  - korean: 다리
+    reading: null
+    translation:
+      en: "leg"
+      ko: "다리"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'bridge'"
+      ko: "'다리(橋)'라는 뜻도 있음"
+  - korean: 발
+    reading: null
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 발가락
+    reading: null
+    translation:
+      en: "toe"
+      ko: "발가락"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'foot branch'"
+      ko: "발 + 가락"
+  - korean: 무릎
+    reading: null
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: null
+    plural: null
+    notes:
+      en: "Pronounced [무릅]"
+      ko: "[무릅]으로 발음"
+  - korean: 팔꿈치
+    reading: null
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: null
+    plural: null
+    notes:
+      en: "팔 (arm) + 꿈치 (joint)"
+      ko: "팔 + 꿈치"
+  - korean: 이마
+    reading: null
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: null
+    plural: null
+    notes:
+      en: "Upper part of the face"
+      ko: "얼굴 윗부분"
+  - korean: 뺨
+    reading: null
+    translation:
+      en: "cheek"
+      ko: "뺨"
+    gender: null
+    plural: null
+    notes:
+      en: "Also used in 뺨을 맞다 (to be slapped)"
+      ko: "뺨을 맞다라는 표현에도 사용"
+  - korean: 턱
+    reading: null
+    translation:
+      en: "chin, jaw"
+      ko: "턱"
+    gender: null
+    plural: null
+    notes:
+      en: "Lower part of the face"
+      ko: "얼굴 아랫부분"
+  - korean: 혀
+    reading: null
+    translation:
+      en: "tongue"
+      ko: "혀"
+    gender: null
+    plural: null
+    notes:
+      en: "Organ of taste"
+      ko: "미각 기관"
+  - korean: 이빨
+    reading: null
+    translation:
+      en: "tooth, teeth"
+      ko: "이빨"
+    gender: null
+    plural: null
+    notes:
+      en: "Colloquial; formal form is 이 or 치아"
+      ko: "구어체; 격식체는 이 또는 치아"
+  - korean: 피부
+    reading: null
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 皮膚"
+      ko: "한자어: 皮膚"
+  - korean: 뼈
+    reading: null
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: null
+    plural: null
+    notes:
+      en: "Also used figuratively for 'core' or 'essence'"
+      ko: "비유적으로 '핵심'을 뜻하기도 함"
+  - korean: 피
+    reading: null
+    translation:
+      en: "blood"
+      ko: "피"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 심장
+    reading: null
+    translation:
+      en: "heart (organ)"
+      ko: "심장"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 心臟; the physical organ"
+      ko: "한자어: 心臟; 물리적 장기"
+  - korean: 뇌
+    reading: null
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 腦"
+      ko: "한자어: 腦"
+  - korean: 폐
+    reading: null
+    translation:
+      en: "lungs"
+      ko: "폐"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 肺"
+      ko: "한자어: 肺"
+
+- id: health_conditions
+  label:
+    en: "Health Conditions"
+    ko: "건강 상태"
+  type: vocabulary
+  words:
+  - korean: 아프다
+    reading: null
+    translation:
+      en: "to be sick, to hurt"
+      ko: "아프다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅡ irregular adjective"
+      ko: "ㅡ 불규칙 형용사"
+  - korean: 감기
+    reading: null
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: null
+    plural: null
+    notes:
+      en: "감기에 걸리다 = to catch a cold"
+      ko: "감기에 걸리다"
+  - korean: 열
+    reading: null
+    translation:
+      en: "fever, heat"
+      ko: "열"
+    gender: null
+    plural: null
+    notes:
+      en: "열이 나다 = to have a fever"
+      ko: "열이 나다"
+  - korean: 기침
+    reading: null
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: null
+    plural: null
+    notes:
+      en: "기침을 하다 = to cough"
+      ko: "기침을 하다"
+  - korean: 콧물
+    reading: null
+    translation:
+      en: "runny nose"
+      ko: "콧물"
+    gender: null
+    plural: null
+    notes:
+      en: "코 (nose) + ㅅ + 물 (water)"
+      ko: "코 + 물의 합성어"
+  - korean: 두통
+    reading: null
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 頭痛"
+      ko: "한자어: 頭痛"
+  - korean: 배탈
+    reading: null
+    translation:
+      en: "stomachache, upset stomach"
+      ko: "배탈"
+    gender: null
+    plural: null
+    notes:
+      en: "배탈이 나다 = to have an upset stomach"
+      ko: "배탈이 나다"
+  - korean: 다치다
+    reading: null
+    translation:
+      en: "to get hurt, to be injured"
+      ko: "다치다"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for injuries"
+      ko: "부상의 일반적 표현"
+  - korean: 피곤하다
+    reading: null
+    translation:
+      en: "to be tired"
+      ko: "피곤하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 疲困"
+      ko: "한자어: 疲困"
+  - korean: 어지럽다
+    reading: null
+    translation:
+      en: "to be dizzy"
+      ko: "어지럽다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular adjective"
+      ko: "ㅂ 불규칙 형용사"
+  - korean: 알레르기
+    reading: null
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from German/English"
+      ko: "독일어/영어에서 온 외래어"
+  - korean: 상처
+    reading: null
+    translation:
+      en: "wound, injury"
+      ko: "상처"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means emotional hurt"
+      ko: "정신적 상처도 뜻함"
+  - korean: 붓다
+    reading: null
+    translation:
+      en: "to swell"
+      ko: "붓다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to pour'"
+      ko: "'붓다(따르다)'라는 뜻도 있음"
+  - korean: 토하다
+    reading: null
+    translation:
+      en: "to vomit"
+      ko: "토하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 吐"
+      ko: "한자어: 吐"
+  - korean: 재채기
+    reading: null
+    translation:
+      en: "sneeze"
+      ko: "재채기"
+    gender: null
+    plural: null
+    notes:
+      en: "재채기를 하다 = to sneeze"
+      ko: "재채기를 하다"
+
+- id: medical
+  label:
+    en: "Medical"
+    ko: "의료"
+  type: vocabulary
+  words:
+  - korean: 약
+    reading: null
+    translation:
+      en: "medicine, drug"
+      ko: "약"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'promise' (약속)"
+      ko: "약속의 약과 같은 글자"
+  - korean: 병원
+    reading: null
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 病院"
+      ko: "한자어: 病院"
+  - korean: 의사
+    reading: null
+    translation:
+      en: "doctor"
+      ko: "의사"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 醫師"
+      ko: "한자어: 醫師"
+  - korean: 간호사
+    reading: null
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 看護師"
+      ko: "한자어: 看護師"
+  - korean: 약국
+    reading: null
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 藥局"
+      ko: "한자어: 藥局"
+  - korean: 주사
+    reading: null
+    translation:
+      en: "injection, shot"
+      ko: "주사"
+    gender: null
+    plural: null
+    notes:
+      en: "주사를 맞다 = to get a shot"
+      ko: "주사를 맞다"
+  - korean: 수술
+    reading: null
+    translation:
+      en: "surgery, operation"
+      ko: "수술"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 手術"
+      ko: "한자어: 手術"
+  - korean: 진찰
+    reading: null
+    translation:
+      en: "medical examination"
+      ko: "진찰"
+    gender: null
+    plural: null
+    notes:
+      en: "진찰을 받다 = to get examined"
+      ko: "진찰을 받다"
+  - korean: 처방전
+    reading: null
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 處方箋"
+      ko: "한자어: 處方箋"
+  - korean: 환자
+    reading: null
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 患者"
+      ko: "한자어: 患者"
+  - korean: 건강
+    reading: null
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 健康"
+      ko: "한자어: 健康"
+  - korean: 치료
+    reading: null
+    translation:
+      en: "treatment, cure"
+      ko: "치료"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 治療"
+      ko: "한자어: 治療"
+  - korean: 검사
+    reading: null
+    translation:
+      en: "examination, test"
+      ko: "검사"
+    gender: null
+    plural: null
+    notes:
+      en: "Medical test; also means 'prosecutor'"
+      ko: "의학 검사; '검찰'의 뜻도 있음"
+  - korean: 입원
+    reading: null
+    translation:
+      en: "hospitalization"
+      ko: "입원"
+    gender: null
+    plural: null
+    notes:
+      en: "입원하다 = to be hospitalized"
+      ko: "입원하다"
+  - korean: 퇴원
+    reading: null
+    translation:
+      en: "discharge from hospital"
+      ko: "퇴원"
+    gender: null
+    plural: null
+    notes:
+      en: "퇴원하다 = to be discharged"
+      ko: "퇴원하다"
+
+- id: basic_actions
+  label:
+    en: "Basic Body Actions"
+    ko: "기본 신체 동작"
+  type: vocabulary
+  words:
+  - korean: 숨쉬다
+    reading: null
+    translation:
+      en: "to breathe"
+      ko: "숨쉬다"
+    gender: null
+    plural: null
+    notes:
+      en: "숨 (breath) + 쉬다 (to rest)"
+      ko: "숨 + 쉬다"
+  - korean: 걷다
+    reading: null
+    translation:
+      en: "to walk"
+      ko: "걷다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㄷ irregular verb"
+      ko: "ㄷ 불규칙 동사"
+  - korean: 뛰다
+    reading: null
+    translation:
+      en: "to run, to jump"
+      ko: "뛰다"
+    gender: null
+    plural: null
+    notes:
+      en: "Can mean both running and jumping"
+      ko: "달리기와 점프 모두를 뜻할 수 있음"
+  - korean: 앉다
+    reading: null
+    translation:
+      en: "to sit"
+      ko: "앉다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pronounced [안따]"
+      ko: "[안따]로 발음"
+  - korean: 서다
+    reading: null
+    translation:
+      en: "to stand"
+      ko: "서다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to stop'"
+      ko: "'멈추다'라는 뜻도 있음"
+  - korean: 눕다
+    reading: null
+    translation:
+      en: "to lie down"
+      ko: "눕다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㅂ irregular verb"
+      ko: "ㅂ 불규칙 동사"
+  - korean: 잡다
+    reading: null
+    translation:
+      en: "to grab, to hold"
+      ko: "잡다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to catch'"
+      ko: "'잡아채다'라는 뜻도 있음"
+  - korean: 던지다
+    reading: null
+    translation:
+      en: "to throw"
+      ko: "던지다"
+    gender: null
+    plural: null
+    notes:
+      en: "Physical throwing action"
+      ko: "물리적 던지기 동작"
+  - korean: 차다
+    reading: null
+    translation:
+      en: "to kick"
+      ko: "차다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to be cold' or 'to wear (watch)'"
+      ko: "'차갑다' 또는 '(시계를) 차다'의 뜻도 있음"
+  - korean: 구부리다
+    reading: null
+    translation:
+      en: "to bend"
+      ko: "구부리다"
+    gender: null
+    plural: null
+    notes:
+      en: "Bending body or objects"
+      ko: "몸이나 물건을 구부리다"
+  - korean: 기다
+    reading: null
+    translation:
+      en: "to crawl"
+      ko: "기다"
+    gender: null
+    plural: null
+    notes:
+      en: "Moving on hands and knees"
+      ko: "손과 무릎으로 이동"
+  - korean: 들다
+    reading: null
+    translation:
+      en: "to lift, to hold up"
+      ko: "들다"
+    gender: null
+    plural: null
+    notes:
+      en: "Multiple meanings: lift, enter, like"
+      ko: "다의어: 들어올리다, 들어가다, 마음에 들다"
