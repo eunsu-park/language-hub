@@ -1,0 +1,1098 @@
+lesson: "sup_B1_Writing_and_Literature"
+lesson_number: 125
+cefr: B1
+type: supplementary
+topic: "Writing and Literature"
+categories:
+- id: writing_materials
+  label:
+    en: "Writing Materials"
+    ko: "필기 재료"
+  type: vocabulary
+  words:
+  - latin: "liber"
+    translation:
+      en: "book, inner bark"
+      ko: "책, 나무 속껍질"
+    gender: m
+    notes:
+      en: "gen. librī; 2nd decl.; originally bark used for writing"
+      ko: "속격 librī; 제2변화; 원래 필기에 사용된 나무껍질"
+  - latin: "volumen"
+    translation:
+      en: "scroll, roll, volume"
+      ko: "두루마리, 권"
+    gender: n
+    notes:
+      en: "gen. volūminis; 3rd decl.; from volvere = 'to roll'"
+      ko: "속격 volūminis; 제3변화; volvere = '말다'에서 파생"
+  - latin: "codex"
+    translation:
+      en: "codex, bound book"
+      ko: "코덱스, 제본된 책"
+    gender: m
+    notes:
+      en: "gen. cōdicis; 3rd decl.; replaced scrolls from 2nd c. AD"
+      ko: "속격 cōdicis; 제3변화; 서기 2세기부터 두루마리를 대체"
+  - latin: "papyrus"
+    translation:
+      en: "papyrus"
+      ko: "파피루스"
+    gender: f
+    notes:
+      en: "gen. papȳrī; 2nd decl.; from Egyptian plant"
+      ko: "속격 papȳrī; 제2변화; 이집트 식물에서 유래"
+  - latin: "pergamena"
+    translation:
+      en: "parchment"
+      ko: "양피지"
+    gender: f
+    notes:
+      en: "gen. pergamēnae; 1st decl.; made from animal skin; from Pergamum"
+      ko: "속격 pergamēnae; 제1변화; 동물 가죽으로 제작; 페르가몬에서 유래"
+  - latin: "calamus"
+    translation:
+      en: "reed pen"
+      ko: "갈대 펜"
+    gender: m
+    notes:
+      en: "gen. calamī; 2nd decl."
+      ko: "속격 calamī; 제2변화"
+  - latin: "stilus"
+    translation:
+      en: "stylus (for wax tablets)"
+      ko: "철필 (밀랍 서판용)"
+    gender: m
+    notes:
+      en: "gen. stilī; 2nd decl.; stilum vertere = 'to erase' (turn the flat end)"
+      ko: "속격 stilī; 제2변화; stilum vertere = '지우다' (납작한 끝을 돌리다)"
+  - latin: "atramentum"
+    translation:
+      en: "ink"
+      ko: "잉크"
+    gender: n
+    notes:
+      en: "gen. ātrāmentī; 2nd decl. neuter; made from soot and gum"
+      ko: "속격 ātrāmentī; 제2변화 중성; 그을음과 수지로 제작"
+  - latin: "tabula"
+    translation:
+      en: "wax tablet"
+      ko: "밀랍 서판"
+    gender: f
+    notes:
+      en: "gen. tabulae; 1st decl.; tabulae ceratae for everyday writing"
+      ko: "속격 tabulae; 제1변화; 일상 필기용 tabulae ceratae"
+  - latin: "charta"
+    translation:
+      en: "paper, sheet (of papyrus)"
+      ko: "종이, (파피루스) 한 장"
+    gender: f
+    notes:
+      en: "gen. chartae; 1st decl.; Greek loanword"
+      ko: "속격 chartae; 제1변화; 그리스어 차용어"
+  - latin: "scrinium"
+    translation:
+      en: "book case, scroll container"
+      ko: "책장, 두루마리 보관함"
+    gender: n
+    notes:
+      en: "gen. scrīniī; 2nd decl. neuter"
+      ko: "속격 scrīniī; 제2변화 중성"
+  - latin: "umbilicus"
+    translation:
+      en: "scroll knob, rod end"
+      ko: "두루마리 손잡이"
+    gender: m
+    notes:
+      en: "gen. umbilīcī; 2nd decl.; decorative end of the scroll rod"
+      ko: "속격 umbilīcī; 제2변화; 두루마리 막대의 장식 끝부분"
+- id: literary_genres
+  label:
+    en: "Literary Genres"
+    ko: "문학 장르"
+  type: vocabulary
+  words:
+  - latin: "carmen"
+    translation:
+      en: "poem, song, verse"
+      ko: "시, 노래, 운문"
+    gender: n
+    notes:
+      en: "gen. carminis; 3rd decl.; also 'incantation, charm'"
+      ko: "속격 carminis; 제3변화; '주문'이라는 뜻도 있음"
+  - latin: "fabula"
+    translation:
+      en: "story, tale, play"
+      ko: "이야기, 설화, 연극"
+    gender: f
+    notes:
+      en: "gen. fābulae; 1st decl."
+      ko: "속격 fābulae; 제1변화"
+  - latin: "historia"
+    translation:
+      en: "history, historical narrative"
+      ko: "역사, 역사 서술"
+    gender: f
+    notes:
+      en: "gen. historiae; 1st decl."
+      ko: "속격 historiae; 제1변화"
+  - latin: "oratio"
+    translation:
+      en: "speech, oration, prose"
+      ko: "연설, 산문"
+    gender: f
+    notes:
+      en: "gen. ōrātiōnis; 3rd decl.; oratio soluta = 'prose' (unbound speech)"
+      ko: "속격 ōrātiōnis; 제3변화; oratio soluta = '산문' (풀린 말)"
+  - latin: "satura"
+    translation:
+      en: "satire"
+      ko: "풍자"
+    gender: f
+    notes:
+      en: "gen. saturae; 1st decl.; 'satura tota nostra est' (Quintilian) = uniquely Roman genre"
+      ko: "속격 saturae; 제1변화; 'satura tota nostra est' (퀸틸리아누스) = 고유 로마 장르"
+  - latin: "epigramma"
+    translation:
+      en: "epigram"
+      ko: "경구시"
+    gender: n
+    notes:
+      en: "gen. epigrammatis; 3rd decl.; short witty poem; Greek loanword"
+      ko: "속격 epigrammatis; 제3변화; 짧고 재치 있는 시; 그리스어 차용어"
+  - latin: "elegia"
+    translation:
+      en: "elegy"
+      ko: "비가, 애가"
+    gender: f
+    notes:
+      en: "gen. elegiae; 1st decl.; written in elegiac couplets"
+      ko: "속격 elegiae; 제1변화; 비가 이행연으로 작성"
+  - latin: "epica"
+    translation:
+      en: "epic poetry"
+      ko: "서사시"
+    gender: f
+    notes:
+      en: "gen. epicae; 1st decl.; poesis epica; grandest genre"
+      ko: "속격 epicae; 제1변화; poesis epica; 가장 위대한 장르"
+  - latin: "comoedia"
+    translation:
+      en: "comedy"
+      ko: "희극"
+    gender: f
+    notes:
+      en: "gen. comoediae; 1st decl.; e.g., Plautus, Terence"
+      ko: "속격 comoediae; 제1변화; 예: 플라우투스, 테렌티우스"
+  - latin: "tragoedia"
+    translation:
+      en: "tragedy"
+      ko: "비극"
+    gender: f
+    notes:
+      en: "gen. tragoediae; 1st decl.; e.g., Seneca"
+      ko: "속격 tragoediae; 제1변화; 예: 세네카"
+  - latin: "epistula"
+    translation:
+      en: "letter, epistle"
+      ko: "편지, 서간"
+    gender: f
+    notes:
+      en: "gen. epistulae; 1st decl.; literary genre (e.g., Cicero, Pliny)"
+      ko: "속격 epistulae; 제1변화; 문학 장르 (예: 키케로, 플리니우스)"
+  - latin: "prosa"
+    translation:
+      en: "prose"
+      ko: "산문"
+    gender: f
+    notes:
+      en: "gen. prōsae; 1st decl.; from prosa oratio = 'straightforward speech'"
+      ko: "속격 prōsae; 제1변화; prosa oratio = '직접적인 말'에서 유래"
+  - latin: "dialogus"
+    translation:
+      en: "dialogue"
+      ko: "대화편"
+    gender: m
+    notes:
+      en: "gen. dialogī; 2nd decl.; philosophical form (e.g., Cicero)"
+      ko: "속격 dialogī; 제2변화; 철학적 형식 (예: 키케로)"
+- id: literary_terms
+  label:
+    en: "Literary Terms"
+    ko: "문학 용어"
+  type: vocabulary
+  words:
+  - latin: "versus"
+    translation:
+      en: "verse, line of poetry"
+      ko: "운문, 시행"
+    gender: m
+    notes:
+      en: "gen. versūs; 4th decl.; from vertere = 'to turn (the plow)'"
+      ko: "속격 versūs; 제4변화; vertere = '(쟁기를) 돌리다'에서 파생"
+  - latin: "metrum"
+    translation:
+      en: "meter, verse measure"
+      ko: "운율, 시의 격"
+    gender: n
+    notes:
+      en: "gen. metrī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 metrī; 제2변화 중성; 그리스어 차용어"
+  - latin: "hexameter"
+    translation:
+      en: "hexameter (six-foot verse)"
+      ko: "헥사메터 (6보격 운문)"
+    gender: m
+    notes:
+      en: "gen. hexametrī; 2nd decl.; meter of epic poetry"
+      ko: "속격 hexametrī; 제2변화; 서사시의 운율"
+  - latin: "pes"
+    translation:
+      en: "foot (metrical unit)"
+      ko: "보 (운율 단위)"
+    gender: m
+    notes:
+      en: "gen. pedis; 3rd decl.; e.g., dactylus, spondeus"
+      ko: "속격 pedis; 제3변화; 예: 장단단격, 장장격"
+  - latin: "musa"
+    translation:
+      en: "Muse, inspiration"
+      ko: "뮤즈, 영감"
+    gender: f
+    notes:
+      en: "gen. mūsae; 1st decl.; nine Muses patronized the arts"
+      ko: "속격 mūsae; 제1변화; 아홉 뮤즈가 예술을 후원"
+  - latin: "fabula"
+    translation:
+      en: "plot, story, fable"
+      ko: "줄거리, 이야기, 우화"
+    gender: f
+    notes:
+      en: "gen. fābulae; 1st decl."
+      ko: "속격 fābulae; 제1변화"
+  - latin: "narratio"
+    translation:
+      en: "narration, narrative"
+      ko: "서술, 이야기"
+    gender: f
+    notes:
+      en: "gen. narrātiōnis; 3rd decl."
+      ko: "속격 narrātiōnis; 제3변화"
+  - latin: "exemplum"
+    translation:
+      en: "example, model, anecdote"
+      ko: "예, 모범, 일화"
+    gender: n
+    notes:
+      en: "gen. exemplī; 2nd decl. neuter"
+      ko: "속격 exemplī; 제2변화 중성"
+  - latin: "prooemium"
+    translation:
+      en: "preface, introduction"
+      ko: "서문, 서론"
+    gender: n
+    notes:
+      en: "gen. prooemiī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 prooemiī; 제2변화 중성; 그리스어 차용어"
+  - latin: "epilogus"
+    translation:
+      en: "epilogue, conclusion"
+      ko: "에필로그, 결론"
+    gender: m
+    notes:
+      en: "gen. epilogī; 2nd decl.; Greek loanword"
+      ko: "속격 epilogī; 제2변화; 그리스어 차용어"
+  - latin: "genus"
+    translation:
+      en: "genre, kind, type"
+      ko: "장르, 종류"
+    gender: n
+    notes:
+      en: "gen. generis; 3rd decl."
+      ko: "속격 generis; 제3변화"
+- id: authors
+  label:
+    en: "Notable Authors"
+    ko: "주요 작가"
+  type: vocabulary
+  words:
+  - latin: "poeta"
+    translation:
+      en: "poet"
+      ko: "시인"
+    gender: m
+    notes:
+      en: "gen. poētae; 1st decl.; masculine despite -a ending; Greek loanword"
+      ko: "속격 poētae; 제1변화; -a 어미지만 남성; 그리스어 차용어"
+  - latin: "scriptor"
+    translation:
+      en: "writer, author"
+      ko: "작가, 저자"
+    gender: m
+    notes:
+      en: "gen. scrīptōris; 3rd decl."
+      ko: "속격 scrīptōris; 제3변화"
+  - latin: "auctor"
+    translation:
+      en: "author, originator"
+      ko: "저자, 창시자"
+    gender: m
+    notes:
+      en: "gen. auctōris; 3rd decl."
+      ko: "속격 auctōris; 제3변화"
+  - latin: "Vergilius"
+    translation:
+      en: "Vergil (epic poet, Aeneid)"
+      ko: "베르길리우스 (서사 시인, 아이네이스)"
+    gender: m
+    notes:
+      en: "gen. Vergiliī; 2nd decl.; 70-19 BC; greatest Roman poet"
+      ko: "속격 Vergiliī; 제2변화; 기원전 70-19; 최고의 로마 시인"
+  - latin: "Horatius"
+    translation:
+      en: "Horace (lyric poet, satirist)"
+      ko: "호라티우스 (서정 시인, 풍자가)"
+    gender: m
+    notes:
+      en: "gen. Horātiī; 2nd decl.; 65-8 BC; Odes, Satires"
+      ko: "속격 Horātiī; 제2변화; 기원전 65-8; 송가, 풍자시"
+  - latin: "Ovidius"
+    translation:
+      en: "Ovid (love poetry, mythology)"
+      ko: "오비디우스 (연애시, 신화)"
+    gender: m
+    notes:
+      en: "gen. Ovidiī; 2nd decl.; 43 BC-17 AD; Metamorphoses"
+      ko: "속격 Ovidiī; 제2변화; 기원전 43-서기 17; 변신이야기"
+  - latin: "Cicero"
+    translation:
+      en: "Cicero (orator, philosopher)"
+      ko: "키케로 (웅변가, 철학자)"
+    gender: m
+    notes:
+      en: "gen. Cicerōnis; 3rd decl.; 106-43 BC; master of Latin prose"
+      ko: "속격 Cicerōnis; 제3변화; 기원전 106-43; 라틴 산문의 대가"
+  - latin: "Caesar"
+    translation:
+      en: "Caesar (general, historian)"
+      ko: "카이사르 (장군, 역사가)"
+    gender: m
+    notes:
+      en: "gen. Caesaris; 3rd decl.; 100-44 BC; De Bello Gallico"
+      ko: "속격 Caesaris; 제3변화; 기원전 100-44; 갈리아 전쟁기"
+  - latin: "Livius"
+    translation:
+      en: "Livy (historian)"
+      ko: "리비우스 (역사가)"
+    gender: m
+    notes:
+      en: "gen. Līviī; 2nd decl.; 59 BC-17 AD; Ab Urbe Condita"
+      ko: "속격 Līviī; 제2변화; 기원전 59-서기 17; 로마 건국사"
+  - latin: "Tacitus"
+    translation:
+      en: "Tacitus (historian)"
+      ko: "타키투스 (역사가)"
+    gender: m
+    notes:
+      en: "gen. Tacitī; 2nd decl.; c. 56-120 AD; Annales, Historiae"
+      ko: "속격 Tacitī; 제2변화; 약 서기 56-120; 연대기, 역사"
+  - latin: "Seneca"
+    translation:
+      en: "Seneca (philosopher, tragedian)"
+      ko: "세네카 (철학자, 비극 작가)"
+    gender: m
+    notes:
+      en: "gen. Senecae; 1st decl.; 4 BC-65 AD; Stoic philosopher"
+      ko: "속격 Senecae; 제1변화; 기원전 4-서기 65; 스토아 철학자"
+  - latin: "Catullus"
+    translation:
+      en: "Catullus (lyric/love poet)"
+      ko: "카툴루스 (서정/연애 시인)"
+    gender: m
+    notes:
+      en: "gen. Catullī; 2nd decl.; c. 84-54 BC"
+      ko: "속격 Catullī; 제2변화; 약 기원전 84-54"
+  - latin: "Lucretius"
+    translation:
+      en: "Lucretius (philosophical poet)"
+      ko: "루크레티우스 (철학 시인)"
+    gender: m
+    notes:
+      en: "gen. Lucrētiī; 2nd decl.; c. 99-55 BC; De Rerum Natura"
+      ko: "속격 Lucrētiī; 제2변화; 약 기원전 99-55; 사물의 본성에 관하여"
+  - latin: "lector"
+    translation:
+      en: "reader"
+      ko: "독자"
+    gender: m
+    notes:
+      en: "gen. lectōris; 3rd decl.; also 'slave who reads aloud'"
+      ko: "속격 lectōris; 제3변화; '낭독하는 노예'의 뜻도 있음"
+  - latin: "bibliotheca"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+    notes:
+      en: "gen. bibliothēcae; 1st decl.; Greek loanword"
+      ko: "속격 bibliothēcae; 제1변화; 그리스어 차용어"
+  - latin: "recitatio"
+    translation:
+      en: "recitation, public reading"
+      ko: "낭독, 공개 낭송"
+    gender: f
+    notes:
+      en: "gen. recitātiōnis; 3rd decl.; public readings were social events"
+      ko: "속격 recitātiōnis; 제3변화; 공개 낭독은 사교 행사였음"
+  - latin: "editio"
+    translation:
+      en: "edition, publication"
+      ko: "판, 출판"
+    gender: f
+    notes:
+      en: "gen. ēditiōnis; 3rd decl."
+      ko: "속격 ēditiōnis; 제3변화"
+  - latin: "librarius"
+    translation:
+      en: "copyist, bookseller"
+      ko: "필사자, 서적상"
+    gender: m
+    notes:
+      en: "gen. librāriī; 2nd decl.; slave who copied books"
+      ko: "속격 librāriī; 제2변화; 책을 필사하는 노예"
+  - latin: "scriptorium"
+    translation:
+      en: "writing room"
+      ko: "필사실"
+    gender: n
+    notes:
+      en: "gen. scrīptōriī; 2nd decl. neuter"
+      ko: "속격 scrīptōriī; 제2변화 중성"
+  - latin: "patronus"
+    translation:
+      en: "patron (of literature)"
+      ko: "후원자 (문학의)"
+    gender: m
+    notes:
+      en: "gen. patrōnī; 2nd decl.; e.g., Maecenas for Vergil and Horace"
+      ko: "속격 patrōnī; 제2변화; 예: 베르길리우스와 호라티우스의 후원자 마이케나스"
+- id: writing_verbs
+  label:
+    en: "Writing and Literary Verbs"
+    ko: "집필과 문학 동사"
+  type: vocabulary
+  words:
+  - latin: "scribere"
+    translation:
+      en: "to write"
+      ko: "쓰다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. scrīpsī"
+      ko: "제3활용; 완료 scrīpsī"
+  - latin: "legere"
+    translation:
+      en: "to read"
+      ko: "읽다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. lēgī"
+      ko: "제3활용; 완료 lēgī"
+  - latin: "recitare"
+    translation:
+      en: "to recite, to read aloud"
+      ko: "낭독하다"
+    gender: n
+    notes:
+      en: "1st conj.; recitatio = public reading event"
+      ko: "제1활용; recitatio = 공개 낭독 행사"
+  - latin: "componere"
+    translation:
+      en: "to compose, to put together"
+      ko: "작곡하다, 구성하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. composuī; carmen componere = 'to compose a poem'"
+      ko: "제3활용; 완료 composuī; carmen componere = '시를 짓다'"
+  - latin: "edere"
+    translation:
+      en: "to publish, to put forth"
+      ko: "출판하다, 내놓다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. ēdidī; librum edere = 'to publish a book'"
+      ko: "제3활용; 완료 ēdidī; librum edere = '책을 출판하다'"
+  - latin: "describere"
+    translation:
+      en: "to copy, to transcribe"
+      ko: "필사하다, 베끼다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. dēscrīpsī"
+      ko: "제3활용; 완료 dēscrīpsī"
+  - latin: "dictare"
+    translation:
+      en: "to dictate"
+      ko: "받아쓰게 하다"
+    gender: n
+    notes:
+      en: "1st conj.; authors often dictated to slaves"
+      ko: "제1활용; 저자가 흔히 노예에게 구술"
+  - latin: "emendare"
+    translation:
+      en: "to correct, to emend"
+      ko: "교정하다, 수정하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "delere"
+    translation:
+      en: "to erase, to destroy"
+      ko: "지우다, 파괴하다"
+    gender: n
+    notes:
+      en: "2nd conj.; perf. dēlēvī"
+      ko: "제2활용; 완료 dēlēvī"
+  - latin: "narrare"
+    translation:
+      en: "to narrate, to tell"
+      ko: "이야기하다, 서술하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "fingere"
+    translation:
+      en: "to invent, to compose (fiction)"
+      ko: "꾸미다, 창작하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. fīnxī; also 'to mold, to shape'"
+      ko: "제3활용; 완료 fīnxī; '빚다, 형성하다'의 뜻도 있음"
+  - latin: "canere"
+    translation:
+      en: "to sing, to recite (poetry)"
+      ko: "노래하다, (시를) 읊다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. cecinī; arma virumque cano (Aeneid)"
+      ko: "제3활용; 완료 cecinī; arma virumque cano (아이네이스)"
+  - latin: "celebrare"
+    translation:
+      en: "to celebrate, to make famous"
+      ko: "기리다, 유명하게 하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "laudare"
+    translation:
+      en: "to praise, to extol"
+      ko: "칭찬하다, 찬양하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "imitari"
+    translation:
+      en: "to imitate (literary models)"
+      ko: "모방하다 (문학 모범)"
+    gender: n
+    notes:
+      en: "1st conj. deponent; imitatio = 'imitation' (key literary concept)"
+      ko: "제1활용 이형태 동사; imitatio = '모방' (핵심 문학 개념)"
+  - latin: "interpretari"
+    translation:
+      en: "to interpret, to explain"
+      ko: "해석하다, 설명하다"
+    gender: n
+    notes:
+      en: "1st conj. deponent"
+      ko: "제1활용 이형태 동사"
+- id: literary_concepts
+  label:
+    en: "Literary Concepts"
+    ko: "문학 개념"
+  type: vocabulary
+  words:
+  - latin: "imitatio"
+    translation:
+      en: "imitation (of literary models)"
+      ko: "모방 (문학 모범의)"
+    gender: f
+    notes:
+      en: "gen. imitātiōnis; 3rd decl.; central to Roman literary theory"
+      ko: "속격 imitātiōnis; 제3변화; 로마 문학 이론의 핵심"
+  - latin: "aemulatio"
+    translation:
+      en: "rivalry, emulation"
+      ko: "경쟁, 모범 추구"
+    gender: f
+    notes:
+      en: "gen. aemulātiōnis; 3rd decl.; competing with predecessors"
+      ko: "속격 aemulātiōnis; 제3변화; 선배와의 경쟁"
+  - latin: "decorum"
+    translation:
+      en: "propriety, what is fitting"
+      ko: "적절함, 예의"
+    gender: n
+    notes:
+      en: "gen. decōrī; 2nd decl. neuter; matching style to content"
+      ko: "속격 decōrī; 제2변화 중성; 내용에 문체를 맞춤"
+  - latin: "ingenium"
+    translation:
+      en: "talent, natural ability"
+      ko: "재능, 천부적 능력"
+    gender: n
+    notes:
+      en: "gen. ingeniī; 2nd decl. neuter"
+      ko: "속격 ingeniī; 제2변화 중성"
+  - latin: "doctus"
+    translation:
+      en: "learned, scholarly (poet)"
+      ko: "박학한, 학식 있는 (시인)"
+    gender: m
+    notes:
+      en: "Adj. used as noun; poeta doctus = 'learned poet' (Catullus)"
+      ko: "형용사의 명사적 용법; poeta doctus = '박학한 시인' (카툴루스)"
+  - latin: "fama"
+    translation:
+      en: "fame, reputation, rumor"
+      ko: "명성, 평판, 소문"
+    gender: f
+    notes:
+      en: "gen. fāmae; 1st decl."
+      ko: "속격 fāmae; 제1변화"
+  - latin: "posteritas"
+    translation:
+      en: "posterity, future generations"
+      ko: "후세, 미래 세대"
+    gender: f
+    notes:
+      en: "gen. posteritātis; 3rd decl."
+      ko: "속격 posteritātis; 제3변화"
+  - latin: "monumentum"
+    translation:
+      en: "monument, memorial (literary work)"
+      ko: "기념비, 기념물 (문학 작품)"
+    gender: n
+    notes:
+      en: "gen. monumentī; 2nd decl. neuter; exegi monumentum aere perennius (Horace)"
+      ko: "속격 monumentī; 제2변화 중성; exegi monumentum aere perennius (호라티우스)"
+  - latin: "otium"
+    translation:
+      en: "leisure (for literary pursuits)"
+      ko: "여가 (문학 활동을 위한)"
+    gender: n
+    notes:
+      en: "gen. ōtiī; 2nd decl. neuter; opposite of negotium"
+      ko: "속격 ōtiī; 제2변화 중성; negotium의 반의어"
+  - latin: "negotium"
+    translation:
+      en: "business, public affairs"
+      ko: "업무, 공무"
+    gender: n
+    notes:
+      en: "gen. negōtiī; 2nd decl. neuter; nec + otium = 'not leisure'"
+      ko: "속격 negōtiī; 제2변화 중성; nec + otium = '여가가 아닌'"
+  - latin: "commentarius"
+    translation:
+      en: "commentary, notes, memoir"
+      ko: "주석, 비망록, 회고록"
+    gender: m
+    notes:
+      en: "gen. commentāriī; 2nd decl.; Caesar's Commentarii"
+      ko: "속격 commentāriī; 제2변화; 카이사르의 주석서"
+  - latin: "annales"
+    translation:
+      en: "annals, yearly records"
+      ko: "연대기, 연차 기록"
+    gender: m
+    notes:
+      en: "gen. annālium; 3rd decl. plural"
+      ko: "속격 annālium; 제3변화 복수"
+  - latin: "acta"
+    translation:
+      en: "official records, proceedings"
+      ko: "공식 기록, 의사록"
+    gender: n
+    notes:
+      en: "gen. āctōrum; 2nd decl. neuter plural; acta diurna = 'daily gazette'"
+      ko: "속격 āctōrum; 제2변화 중성 복수; acta diurna = '일간 관보'"
+  - latin: "Plautus"
+    translation:
+      en: "Plautus (comic playwright)"
+      ko: "플라우투스 (희극 작가)"
+    gender: m
+    notes:
+      en: "gen. Plautī; 2nd decl.; c. 254-184 BC; master of Roman comedy"
+      ko: "속격 Plautī; 제2변화; 약 기원전 254-184; 로마 희극의 대가"
+  - latin: "Terentius"
+    translation:
+      en: "Terence (comic playwright)"
+      ko: "테렌티우스 (희극 작가)"
+    gender: m
+    notes:
+      en: "gen. Terentiī; 2nd decl.; c. 185-159 BC"
+      ko: "속격 Terentiī; 제2변화; 약 기원전 185-159"
+  - latin: "Sallustius"
+    translation:
+      en: "Sallust (historian)"
+      ko: "살루스티우스 (역사가)"
+    gender: m
+    notes:
+      en: "gen. Sallūstiī; 2nd decl.; 86-35 BC; Bellum Catilinae"
+      ko: "속격 Sallūstiī; 제2변화; 기원전 86-35; 카틸리나 전쟁기"
+  - latin: "Plinius"
+    translation:
+      en: "Pliny (naturalist/letter writer)"
+      ko: "플리니우스 (자연학자/서간 작가)"
+    gender: m
+    notes:
+      en: "gen. Plīniī; 2nd decl.; Elder (Naturalis Historia) and Younger (Letters)"
+      ko: "속격 Plīniī; 제2변화; 대(박물지)와 소(서한집)"
+  - latin: "Martialis"
+    translation:
+      en: "Martial (epigrammatist)"
+      ko: "마르티알리스 (경구시인)"
+    gender: m
+    notes:
+      en: "gen. Martiālis; 3rd decl.; c. 38-104 AD"
+      ko: "속격 Martiālis; 제3변화; 약 서기 38-104"
+  - latin: "Iuvenalis"
+    translation:
+      en: "Juvenal (satirist)"
+      ko: "유베날리스 (풍자시인)"
+    gender: m
+    notes:
+      en: "gen. Iuvenālis; 3rd decl.; c. 55-130 AD; panem et circenses"
+      ko: "속격 Iuvenālis; 제3변화; 약 서기 55-130; 빵과 서커스"
+  - latin: "Quintilianus"
+    translation:
+      en: "Quintilian (rhetoric teacher)"
+      ko: "퀸틸리아누스 (수사학 교사)"
+    gender: m
+    notes:
+      en: "gen. Quintiliānī; 2nd decl.; c. 35-100 AD; Institutio Oratoria"
+      ko: "속격 Quintiliānī; 제2변화; 약 서기 35-100; 웅변 교육론"
+  - latin: "Propertius"
+    translation:
+      en: "Propertius (elegiac poet)"
+      ko: "프로페르티우스 (비가 시인)"
+    gender: m
+    notes:
+      en: "gen. Propertiī; 2nd decl.; c. 50-15 BC"
+      ko: "속격 Propertiī; 제2변화; 약 기원전 50-15"
+  - latin: "Tibullus"
+    translation:
+      en: "Tibullus (elegiac poet)"
+      ko: "티불루스 (비가 시인)"
+    gender: m
+    notes:
+      en: "gen. Tibullī; 2nd decl.; c. 55-19 BC"
+      ko: "속격 Tibullī; 제2변화; 약 기원전 55-19"
+  - latin: "praefatio"
+    translation:
+      en: "preface"
+      ko: "서문"
+    gender: f
+    notes:
+      en: "gen. praefātiōnis; 3rd decl."
+      ko: "속격 praefātiōnis; 제3변화"
+  - latin: "dedicatio"
+    translation:
+      en: "dedication (of a work)"
+      ko: "헌정 (작품의)"
+    gender: f
+    notes:
+      en: "gen. dēdicātiōnis; 3rd decl."
+      ko: "속격 dēdicātiōnis; 제3변화"
+  - latin: "laus"
+    translation:
+      en: "praise, fame"
+      ko: "칭찬, 명성"
+    gender: f
+    notes:
+      en: "gen. laudis; 3rd decl."
+      ko: "속격 laudis; 제3변화"
+  - latin: "vituperatio"
+    translation:
+      en: "blame, criticism"
+      ko: "비난, 비평"
+    gender: f
+    notes:
+      en: "gen. vituperātiōnis; 3rd decl."
+      ko: "속격 vituperātiōnis; 제3변화"
+  - latin: "strophae"
+    translation:
+      en: "stanza, strophe"
+      ko: "연, 스트로페"
+    gender: f
+    notes:
+      en: "gen. strophārum; 1st decl. plural; Greek loanword"
+      ko: "속격 strophārum; 제1변화 복수; 그리스어 차용어"
+  - latin: "syllaba"
+    translation:
+      en: "syllable"
+      ko: "음절"
+    gender: f
+    notes:
+      en: "gen. syllabae; 1st decl.; longa / brevis = 'long / short'"
+      ko: "속격 syllabae; 제1변화; longa / brevis = '장 / 단'"
+  - latin: "caesura"
+    translation:
+      en: "caesura (break within a verse)"
+      ko: "쉼표 (시행 내의 끊김)"
+    gender: f
+    notes:
+      en: "gen. caesūrae; 1st decl."
+      ko: "속격 caesūrae; 제1변화"
+  - latin: "elision"
+    translation:
+      en: "elision (omission of vowel)"
+      ko: "모음 탈락"
+    gender: f
+    notes:
+      en: "gen. ēlīsiōnis; 3rd decl."
+      ko: "속격 ēlīsiōnis; 제3변화"
+  - latin: "licentia"
+    translation:
+      en: "poetic license"
+      ko: "시적 자유"
+    gender: f
+    notes:
+      en: "gen. licentiae; 1st decl.; licentia poetica"
+      ko: "속격 licentiae; 제1변화; licentia poetica"
+  - latin: "ecphrasis"
+    translation:
+      en: "ecphrasis (vivid description)"
+      ko: "에크프라시스 (생생한 묘사)"
+    gender: f
+    notes:
+      en: "gen. ecphrasis; 3rd decl.; Greek loanword; description of artwork"
+      ko: "속격 ecphrasis; 제3변화; 그리스어 차용어; 예술 작품의 묘사"
+  - latin: "apostrophe"
+    translation:
+      en: "apostrophe (rhetorical address)"
+      ko: "돌림말 (수사적 호소)"
+    gender: f
+    notes:
+      en: "gen. apostrophēs; 1st decl."
+      ko: "속격 apostrophēs; 제1변화"
+  - latin: "invocatio"
+    translation:
+      en: "invocation (of the Muse)"
+      ko: "기원 (뮤즈에 대한)"
+    gender: f
+    notes:
+      en: "gen. invocātiōnis; 3rd decl.; traditional opening of epic poetry"
+      ko: "속격 invocātiōnis; 제3변화; 서사시의 전통적 시작"
+  - latin: "simile"
+    translation:
+      en: "simile, comparison"
+      ko: "직유, 비유"
+    gender: n
+    notes:
+      en: "gen. similis; 3rd decl.; extended similes common in epic"
+      ko: "속격 similis; 제3변화; 확장된 직유가 서사시에서 일반적"
+  - latin: "epithetum"
+    translation:
+      en: "epithet, descriptive title"
+      ko: "수식어, 형용 칭호"
+    gender: n
+    notes:
+      en: "gen. epithetī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 epithetī; 제2변화 중성; 그리스어 차용어"
+  - latin: "catalogus"
+    translation:
+      en: "catalogue (list of heroes, ships)"
+      ko: "목록 (영웅, 선박의)"
+    gender: m
+    notes:
+      en: "gen. catalogī; 2nd decl.; common epic device"
+      ko: "속격 catalogī; 제2변화; 일반적 서사시 기법"
+  - latin: "manuscriptum"
+    translation:
+      en: "manuscript, handwritten text"
+      ko: "필사본, 수기 문서"
+    gender: n
+    notes:
+      en: "gen. manuscrīptī; 2nd decl. neuter; manu scriptum = 'written by hand'"
+      ko: "속격 manuscrīptī; 제2변화 중성; manu scriptum = '손으로 쓰인'"
+  - latin: "palimpsestus"
+    translation:
+      en: "palimpsest (reused parchment)"
+      ko: "팔림프세스트 (재사용 양피지)"
+    gender: m
+    notes:
+      en: "gen. palimpsestī; 2nd decl.; scraped and rewritten"
+      ko: "속격 palimpsestī; 제2변화; 긁어내고 다시 쓴"
+  - latin: "subscriptio"
+    translation:
+      en: "colophon, subscription note"
+      ko: "판권지, 기록 말미"
+    gender: f
+    notes:
+      en: "gen. subscrīptiōnis; 3rd decl.; note at end of manuscript"
+      ko: "속격 subscrīptiōnis; 제3변화; 필사본 끝의 기록"
+  - latin: "bucolicа"
+    translation:
+      en: "pastoral poetry"
+      ko: "목가시"
+    gender: f
+    notes:
+      en: "gen. bucolicae; 1st decl.; poesis bucolica; Vergil's Eclogues"
+      ko: "속격 bucolicae; 제1변화; poesis bucolica; 베르길리우스의 전원시"
+  - latin: "didascalica"
+    translation:
+      en: "didactic poetry"
+      ko: "교훈시"
+    gender: f
+    notes:
+      en: "gen. didascalicae; 1st decl.; e.g., Lucretius, Vergil's Georgics"
+      ko: "속격 didascalicae; 제1변화; 예: 루크레티우스, 베르길리우스의 농경시"
+  - latin: "panegyricus"
+    translation:
+      en: "panegyric (praise speech)"
+      ko: "찬사, 칭송 연설"
+    gender: m
+    notes:
+      en: "gen. panēgyricī; 2nd decl.; formal public praise"
+      ko: "속격 panēgyricī; 제2변화; 공식 공개 찬사"
+  - latin: "scholium"
+    translation:
+      en: "scholarly note, annotation"
+      ko: "주석, 학술적 해설"
+    gender: n
+    notes:
+      en: "gen. scholiī; 2nd decl. neuter; marginal annotations"
+      ko: "속격 scholiī; 제2변화 중성; 여백의 주석"
+  - latin: "glossarium"
+    translation:
+      en: "glossary, word list"
+      ko: "용어집, 어휘 목록"
+    gender: n
+    notes:
+      en: "gen. glossāriī; 2nd decl. neuter"
+      ko: "속격 glossāriī; 제2변화 중성"
+  - latin: "anthologia"
+    translation:
+      en: "anthology, collection of poems"
+      ko: "선집, 시 모음집"
+    gender: f
+    notes:
+      en: "gen. anthologiae; 1st decl.; Greek loanword"
+      ko: "속격 anthologiae; 제1변화; 그리스어 차용어"
+  - latin: "plagium"
+    translation:
+      en: "plagiarism, literary theft"
+      ko: "표절, 문학적 도용"
+    gender: n
+    notes:
+      en: "gen. plagiī; 2nd decl. neuter; originally 'kidnapping'"
+      ko: "속격 plagiī; 제2변화 중성; 원래 '납치'"
+  - latin: "expurgare"
+    translation:
+      en: "to revise, to purge (a text)"
+      ko: "수정하다, (본문을) 정화하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "adnotare"
+    translation:
+      en: "to annotate, to make notes"
+      ko: "주석을 달다, 메모하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "compilare"
+    translation:
+      en: "to compile, to plunder (texts)"
+      ko: "편찬하다, (텍스트를) 도용하다"
+    gender: n
+    notes:
+      en: "1st conj.; compilatio = 'compilation'"
+      ko: "제1활용; compilatio = '편찬'"
+  - latin: "subscribere"
+    translation:
+      en: "to sign, to write below"
+      ko: "서명하다, 아래에 쓰다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. subscrīpsī"
+      ko: "제3활용; 완료 subscrīpsī"
+  - latin: "declamare"
+    translation:
+      en: "to declaim, to practice oratory"
+      ko: "낭송하다, 웅변을 연습하다"
+    gender: n
+    notes:
+      en: "1st conj.; declamatio = school exercise in oratory"
+      ko: "제1활용; declamatio = 수사학 학교 연습"
+  - latin: "interpolatio"
+    translation:
+      en: "interpolation, textual insertion"
+      ko: "삽입, 본문 추가"
+    gender: f
+    notes:
+      en: "gen. interpolātiōnis; 3rd decl.; later addition to a text"
+      ko: "속격 interpolātiōnis; 제3변화; 본문에 대한 후대 추가"
+  - latin: "archetypum"
+    translation:
+      en: "archetype, original copy"
+      ko: "원형, 원본"
+    gender: n
+    notes:
+      en: "gen. archetypī; 2nd decl. neuter; the original from which copies are made"
+      ko: "속격 archetypī; 제2변화 중성; 사본의 원본"
+  - latin: "apographum"
+    translation:
+      en: "copy, transcript"
+      ko: "사본, 필사"
+    gender: n
+    notes:
+      en: "gen. apographī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 apographī; 제2변화 중성; 그리스어 차용어"
+  - latin: "epyllion"
+    translation:
+      en: "epyllion (short epic poem)"
+      ko: "에필리온 (짧은 서사시)"
+    gender: n
+    notes:
+      en: "gen. epylliī; 2nd decl. neuter; Greek diminutive of epos"
+      ko: "속격 epylliī; 제2변화 중성; 그리스어 epos의 축소형"
+  - latin: "Ennius"
+    translation:
+      en: "Ennius (father of Roman poetry)"
+      ko: "엔니우스 (로마 시의 아버지)"
+    gender: m
+    notes:
+      en: "gen. Enniī; 2nd decl.; 239-169 BC; Annales"
+      ko: "속격 Enniī; 제2변화; 기원전 239-169; 연대기"
+  - latin: "Apuleius"
+    translation:
+      en: "Apuleius (novelist)"
+      ko: "아풀레이우스 (소설가)"
+    gender: m
+    notes:
+      en: "gen. Āpuleiī; 2nd decl.; c. 124-170 AD; Metamorphoses (The Golden Ass)"
+      ko: "속격 Āpuleiī; 제2변화; 약 서기 124-170; 변신이야기 (황금 당나귀)"
+  - latin: "Petronius"
+    translation:
+      en: "Petronius (satirical novelist)"
+      ko: "페트로니우스 (풍자 소설가)"
+    gender: m
+    notes:
+      en: "gen. Petrōniī; 2nd decl.; d. 66 AD; Satyricon"
+      ko: "속격 Petrōniī; 제2변화; 서기 66년 사망; 사티리콘"
+  - latin: "Augustinus"
+    translation:
+      en: "Augustine (Church Father, author)"
+      ko: "아우구스티누스 (교부, 저자)"
+    gender: m
+    notes:
+      en: "gen. Augustīnī; 2nd decl.; 354-430 AD; Confessiones"
+      ko: "속격 Augustīnī; 제2변화; 서기 354-430; 고백록"
