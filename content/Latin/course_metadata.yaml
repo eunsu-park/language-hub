@@ -1,0 +1,67 @@
+language:
+  code: la
+  name:
+    en: Latin
+    ko: 라틴어
+    native: Lingua Latina
+  writing_system: latin
+  script_direction: ltr
+  proficiency_framework: cefr
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: false
+  has_gendered_nouns: true
+  word_key: latin              # vocabulary YAML의 단어 필드명
+  tts_locale: null             # 사어 — TTS 불가
+  accent_chars: []             # 마크론은 선택적 표기
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    cefr: A1
+    label:
+      en: "Foundations"
+      ko: "기초"
+    description:
+      en: "Alphabet, pronunciation, basic phrases, 1st-2nd declension, essential verbs, present tense"
+      ko: "알파벳, 발음, 기본 구문, 1-2변화, 필수 동사, 현재 시제"
+
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    cefr: A2
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "All five declensions, pronouns, prepositions, imperfect/future tenses, numbers"
+      ko: "5가지 변화 전체, 대명사, 전치사, 미완료/미래 시제, 숫자"
+
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    cefr: B1
+    label:
+      en: "Intermediate Grammar"
+      ko: "중급 문법"
+    description:
+      en: "Perfect system, passive voice, participles, subjunctive mood, deponent verbs"
+      ko: "완료 체계, 수동태, 분사, 접속법, 이형태 동사"
+
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    cefr: B2
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Subordinate clauses, indirect discourse, conditions, ablative absolute, vocabulary expansion"
+      ko: "종속절, 간접화법, 조건문, 탈격 독립, 어휘 확장"
+
+  - id: mastery
+    lessons: ["21", "22", "23", "24", "25"]
+    cefr: C1
+    label:
+      en: "Classical Mastery"
+      ko: "고전 완성"
+    description:
+      en: "Reading classical prose and poetry, Roman civilization, philosophical/legal Latin, Latin legacy"
+      ko: "고전 산문과 시 읽기, 로마 문명, 철학적/법적 라틴어, 라틴어 유산"
