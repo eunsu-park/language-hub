@@ -1,0 +1,628 @@
+lesson: 10_Numbers_Time_and_Daily_Life
+lesson_number: 10
+cefr: A2
+categories:
+- id: 101_cardinal_numbers
+  label:
+    en: 10.1 Cardinal Numbers
+    ko: 10.1 기수
+  type: vocabulary
+  words:
+  - latin: unus
+    translation:
+      en: one
+      ko: 하나
+    gender: m
+    notes:
+      en: "unus/una/unum; declines like pronominal adj."
+      ko: "unus/una/unum; 대명사적 형용사처럼 변화"
+  - latin: duo
+    translation:
+      en: two
+      ko: 둘
+    gender: m
+    notes:
+      en: "duo/duae/duo; irregular declension"
+      ko: "duo/duae/duo; 불규칙 변화"
+  - latin: tres
+    translation:
+      en: three
+      ko: 셋
+    gender: m
+    notes:
+      en: "tres/tres/tria; i-stem 3rd decl. adj."
+      ko: "tres/tres/tria; i-어간 제3변화 형용사"
+  - latin: quattuor
+    translation:
+      en: four
+      ko: 넷
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: quinque
+    translation:
+      en: five
+      ko: 다섯
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: sex
+    translation:
+      en: six
+      ko: 여섯
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: septem
+    translation:
+      en: seven
+      ko: 일곱
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: octo
+    translation:
+      en: eight
+      ko: 여덟
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: novem
+    translation:
+      en: nine
+      ko: 아홉
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: decem
+    translation:
+      en: ten
+      ko: 열
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: undecim
+    translation:
+      en: eleven
+      ko: 열하나
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: duodecim
+    translation:
+      en: twelve
+      ko: 열둘
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: viginti
+    translation:
+      en: twenty
+      ko: 스물
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: quinquaginta
+    translation:
+      en: fifty
+      ko: 쉰
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: centum
+    translation:
+      en: one hundred
+      ko: 백
+    gender: null
+    notes:
+      en: "indeclinable"
+      ko: "불변화"
+  - latin: mille
+    translation:
+      en: one thousand
+      ko: 천
+    gender: null
+    notes:
+      en: "indecl. adj. sing.; pl. milia (n.) + gen."
+      ko: "단수 불변화 형용사; 복수 milia (중성) + 속격"
+- id: 102_ordinal_numbers
+  label:
+    en: 10.2 Ordinal Numbers
+    ko: 10.2 서수
+  type: vocabulary
+  words:
+  - latin: primus
+    translation:
+      en: first
+      ko: 첫 번째
+    gender: m
+    notes:
+      en: "primus/prima/primum; 1st/2nd decl. adj."
+      ko: "primus/prima/primum; 제1·2변화 형용사"
+  - latin: secundus
+    translation:
+      en: second
+      ko: 두 번째
+    gender: m
+    notes:
+      en: "secundus/secunda/secundum; also 'favorable'"
+      ko: "secundus/secunda/secundum; '순조로운'의 뜻도"
+  - latin: tertius
+    translation:
+      en: third
+      ko: 세 번째
+    gender: m
+    notes:
+      en: "tertius/tertia/tertium"
+      ko: "tertius/tertia/tertium"
+  - latin: quartus
+    translation:
+      en: fourth
+      ko: 네 번째
+    gender: m
+    notes:
+      en: "quartus/quarta/quartum"
+      ko: "quartus/quarta/quartum"
+  - latin: quintus
+    translation:
+      en: fifth
+      ko: 다섯 번째
+    gender: m
+    notes:
+      en: "quintus/quinta/quintum"
+      ko: "quintus/quinta/quintum"
+  - latin: sextus
+    translation:
+      en: sixth
+      ko: 여섯 번째
+    gender: m
+    notes:
+      en: "sextus/sexta/sextum"
+      ko: "sextus/sexta/sextum"
+  - latin: septimus
+    translation:
+      en: seventh
+      ko: 일곱 번째
+    gender: m
+    notes:
+      en: "septimus/septima/septimum"
+      ko: "septimus/septima/septimum"
+  - latin: octavus
+    translation:
+      en: eighth
+      ko: 여덟 번째
+    gender: m
+    notes:
+      en: "octavus/octava/octavum"
+      ko: "octavus/octava/octavum"
+  - latin: nonus
+    translation:
+      en: ninth
+      ko: 아홉 번째
+    gender: m
+    notes:
+      en: "nonus/nona/nonum"
+      ko: "nonus/nona/nonum"
+  - latin: decimus
+    translation:
+      en: tenth
+      ko: 열 번째
+    gender: m
+    notes:
+      en: "decimus/decima/decimum"
+      ko: "decimus/decima/decimum"
+  - latin: ultimus
+    translation:
+      en: last, farthest
+      ko: 마지막, 가장 먼
+    gender: m
+    notes:
+      en: "ultimus/ultima/ultimum; superl. of ultra"
+      ko: "ultimus/ultima/ultimum; ultra의 최상급"
+- id: 103_roman_calendar
+  label:
+    en: 10.3 Roman Calendar
+    ko: 10.3 로마 달력
+  type: vocabulary
+  words:
+  - latin: Kalendae
+    translation:
+      en: Kalends (1st of the month)
+      ko: 칼렌다이 (매월 1일)
+    gender: f
+    notes:
+      en: "pl. only; abl. Kalendis; abbreviated Kal."
+      ko: "복수만 사용; 탈격 Kalendis; 약어 Kal."
+  - latin: Nonae
+    translation:
+      en: Nones (5th or 7th of the month)
+      ko: 노나이 (매월 5일 또는 7일)
+    gender: f
+    notes:
+      en: "pl. only; 7th in March, May, July, October"
+      ko: "복수만 사용; 3·5·7·10월에는 7일"
+  - latin: Idus
+    translation:
+      en: Ides (13th or 15th of the month)
+      ko: 이두스 (매월 13일 또는 15일)
+    gender: f
+    notes:
+      en: "pl. only; 4th decl.; 15th in Mar, May, Jul, Oct"
+      ko: "복수만 사용; 제4변화; 3·5·7·10월에는 15일"
+  - latin: mensis
+    translation:
+      en: month
+      ko: 달, 월
+    gender: m
+    notes:
+      en: "gen. mensis; 3rd decl. i-stem"
+      ko: "속격 mensis; 제3변화 i-어간"
+  - latin: annus
+    translation:
+      en: year
+      ko: 해, 년
+    gender: m
+    notes:
+      en: "gen. anni; 2nd decl."
+      ko: "속격 anni; 제2변화"
+  - latin: hora
+    translation:
+      en: hour
+      ko: 시간
+    gender: f
+    notes:
+      en: "gen. horae; 1st decl."
+      ko: "속격 horae; 제1변화"
+  - latin: Januarius
+    translation:
+      en: January
+      ko: 1월
+    gender: m
+    notes:
+      en: "adj. modifying mensis; from Janus"
+      ko: "mensis를 수식하는 형용사; 야누스에서 유래"
+  - latin: Februarius
+    translation:
+      en: February
+      ko: 2월
+    gender: m
+    notes:
+      en: "from februa (purification rites)"
+      ko: "februa (정화 의식)에서 유래"
+  - latin: Martius
+    translation:
+      en: March
+      ko: 3월
+    gender: m
+    notes:
+      en: "from Mars; originally the first month"
+      ko: "마르스에서 유래; 원래 첫 번째 달"
+  - latin: Aprilis
+    translation:
+      en: April
+      ko: 4월
+    gender: m
+    notes:
+      en: "etymology uncertain; possibly aperire (to open)"
+      ko: "어원 불확실; aperire (열다)에서 유래 가능"
+  - latin: Maius
+    translation:
+      en: May
+      ko: 5월
+    gender: m
+    notes:
+      en: "from Maia (goddess of growth)"
+      ko: "마이아 (성장의 여신)에서 유래"
+  - latin: Junius
+    translation:
+      en: June
+      ko: 6월
+    gender: m
+    notes:
+      en: "from Juno or gens Junia"
+      ko: "유노 또는 유니우스 씨족에서 유래"
+- id: 104_daily_life
+  label:
+    en: 10.4 Daily Life
+    ko: 10.4 일상생활
+  type: vocabulary
+  words:
+  - latin: cibus
+    translation:
+      en: food
+      ko: 음식
+    gender: m
+    notes:
+      en: "gen. cibi; 2nd decl."
+      ko: "속격 cibi; 제2변화"
+  - latin: vinum
+    translation:
+      en: wine
+      ko: 포도주
+    gender: n
+    notes:
+      en: "gen. vini; 2nd decl."
+      ko: "속격 vini; 제2변화"
+  - latin: panis
+    translation:
+      en: bread
+      ko: 빵
+    gender: m
+    notes:
+      en: "gen. panis; 3rd decl."
+      ko: "속격 panis; 제3변화"
+  - latin: aqua
+    translation:
+      en: water
+      ko: 물
+    gender: f
+    notes:
+      en: "gen. aquae; 1st decl."
+      ko: "속격 aquae; 제1변화"
+  - latin: familia
+    translation:
+      en: family, household
+      ko: 가족, 가정
+    gender: f
+    notes:
+      en: "gen. familiae; 1st decl.; includes slaves"
+      ko: "속격 familiae; 제1변화; 노예 포함"
+  - latin: cena
+    translation:
+      en: dinner, main meal
+      ko: 저녁 식사, 주된 식사
+    gender: f
+    notes:
+      en: "gen. cenae; 1st decl.; eaten in late afternoon"
+      ko: "속격 cenae; 제1변화; 오후 늦게 식사"
+  - latin: toga
+    translation:
+      en: toga
+      ko: 토가
+    gender: f
+    notes:
+      en: "gen. togae; 1st decl.; formal Roman garment"
+      ko: "속격 togae; 제1변화; 로마 공식 의복"
+  - latin: lectus
+    translation:
+      en: bed, couch
+      ko: 침대, 소파
+    gender: m
+    notes:
+      en: "gen. lecti; 2nd decl.; also dining couch"
+      ko: "속격 lecti; 제2변화; 식사용 소파도 포함"
+  - latin: vestis
+    translation:
+      en: clothing, garment
+      ko: 옷, 의복
+    gender: f
+    notes:
+      en: "gen. vestis; 3rd decl."
+      ko: "속격 vestis; 제3변화"
+  - latin: janua
+    translation:
+      en: door
+      ko: 문
+    gender: f
+    notes:
+      en: "gen. januae; 1st decl.; from Janus"
+      ko: "속격 januae; 제1변화; 야누스에서 유래"
+  - latin: mensa
+    translation:
+      en: table
+      ko: 식탁
+    gender: f
+    notes:
+      en: "gen. mensae; 1st decl."
+      ko: "속격 mensae; 제1변화"
+  - latin: forum
+    translation:
+      en: marketplace, public square
+      ko: 시장, 광장
+    gender: n
+    notes:
+      en: "gen. fori; 2nd decl.; center of Roman life"
+      ko: "속격 fori; 제2변화; 로마 생활의 중심"
+  - latin: thermae
+    translation:
+      en: public baths
+      ko: 공중목욕탕
+    gender: f
+    notes:
+      en: "pl. only; gen. thermarum; 1st decl."
+      ko: "복수만 사용; 속격 thermarum; 제1변화"
+  - latin: ludus
+    translation:
+      en: school, game, play
+      ko: 학교, 놀이, 경기
+    gender: m
+    notes:
+      en: "gen. ludi; 2nd decl."
+      ko: "속격 ludi; 제2변화"
+  - latin: taberna
+    translation:
+      en: shop, tavern
+      ko: 가게, 선술집
+    gender: f
+    notes:
+      en: "gen. tabernae; 1st decl."
+      ko: "속격 tabernae; 제1변화"
+  - latin: via
+    translation:
+      en: road, way, street
+      ko: 길, 도로
+    gender: f
+    notes:
+      en: "gen. viae; 1st decl."
+      ko: "속격 viae; 제1변화"
+  - latin: atrium
+    translation:
+      en: entrance hall
+      ko: 현관 홀
+    gender: n
+    notes:
+      en: "gen. atrii; 2nd decl.; central room of Roman house"
+      ko: "속격 atrii; 제2변화; 로마 가옥의 중심 공간"
+  - latin: culina
+    translation:
+      en: kitchen
+      ko: 부엌
+    gender: f
+    notes:
+      en: "gen. culinae; 1st decl."
+      ko: "속격 culinae; 제1변화"
+  - latin: hortus
+    translation:
+      en: garden
+      ko: 정원
+    gender: m
+    notes:
+      en: "gen. horti; 2nd decl."
+      ko: "속격 horti; 제2변화"
+  - latin: servus
+    translation:
+      en: slave, servant
+      ko: 노예, 하인
+    gender: m
+    notes:
+      en: "gen. servi; 2nd decl."
+      ko: "속격 servi; 제2변화"
+  - latin: dominus
+    translation:
+      en: master, lord
+      ko: 주인
+    gender: m
+    notes:
+      en: "gen. domini; 2nd decl."
+      ko: "속격 domini; 제2변화"
+  - latin: patronus
+    translation:
+      en: patron, protector
+      ko: 후원자, 보호자
+    gender: m
+    notes:
+      en: "gen. patroni; 2nd decl.; patron-client system"
+      ko: "속격 patroni; 제2변화; 보호자-피보호자 제도"
+  - latin: cliens
+    translation:
+      en: client, dependent
+      ko: 피보호자
+    gender: m
+    notes:
+      en: "gen. clientis; 3rd decl."
+      ko: "속격 clientis; 제3변화"
+  - latin: cubiculum
+    translation:
+      en: bedroom
+      ko: 침실
+    gender: n
+    notes:
+      en: "gen. cubiculi; 2nd decl."
+      ko: "속격 cubiculi; 제2변화"
+  - latin: triclinium
+    translation:
+      en: dining room
+      ko: 식당
+    gender: n
+    notes:
+      en: "gen. triclinii; 2nd decl.; three dining couches"
+      ko: "속격 triclinii; 제2변화; 세 개의 식사용 소파"
+  - latin: impluvium
+    translation:
+      en: rain basin (in atrium)
+      ko: 빗물 받이 (현관 홀의)
+    gender: n
+    notes:
+      en: "gen. impluvii; 2nd decl."
+      ko: "속격 impluvii; 제2변화"
+  - latin: oleum
+    translation:
+      en: oil, olive oil
+      ko: 기름, 올리브유
+    gender: n
+    notes:
+      en: "gen. olei; 2nd decl."
+      ko: "속격 olei; 제2변화"
+  - latin: prandium
+    translation:
+      en: lunch, midday meal
+      ko: 점심
+    gender: n
+    notes:
+      en: "gen. prandii; 2nd decl."
+      ko: "속격 prandii; 제2변화"
+  - latin: jentaculum
+    translation:
+      en: breakfast
+      ko: 아침 식사
+    gender: n
+    notes:
+      en: "gen. jentaculi; 2nd decl.; light meal"
+      ko: "속격 jentaculi; 제2변화; 가벼운 식사"
+  - latin: mercator
+    translation:
+      en: merchant, trader
+      ko: 상인
+    gender: m
+    notes:
+      en: "gen. mercatoris; 3rd decl."
+      ko: "속격 mercatoris; 제3변화"
+  - latin: faber
+    translation:
+      en: craftsman, smith
+      ko: 장인, 대장장이
+    gender: m
+    notes:
+      en: "gen. fabri; 2nd decl."
+      ko: "속격 fabri; 제2변화"
+  - latin: medicus
+    translation:
+      en: doctor, physician
+      ko: 의사
+    gender: m
+    notes:
+      en: "gen. medici; 2nd decl."
+      ko: "속격 medici; 제2변화"
+  - latin: artifex
+    translation:
+      en: artist, craftsman
+      ko: 예술가, 장인
+    gender: m
+    notes:
+      en: "gen. artificis; 3rd decl."
+      ko: "속격 artificis; 제3변화"
+  - latin: liber
+    translation:
+      en: book
+      ko: 책
+    gender: m
+    notes:
+      en: "gen. libri; 2nd decl.; not to confuse with liber (free)"
+      ko: "속격 libri; 제2변화; liber (자유로운)과 혼동 주의"
+  - latin: stilus
+    translation:
+      en: stylus, pen
+      ko: 첨필, 펜
+    gender: m
+    notes:
+      en: "gen. stili; 2nd decl.; for writing on wax tablets"
+      ko: "속격 stili; 제2변화; 밀랍판에 쓰기 위한 도구"
+  - latin: lucerna
+    translation:
+      en: lamp, oil lamp
+      ko: 등잔, 기름 등잔
+    gender: f
+    notes:
+      en: "gen. lucernae; 1st decl."
+      ko: "속격 lucernae; 제1변화"
