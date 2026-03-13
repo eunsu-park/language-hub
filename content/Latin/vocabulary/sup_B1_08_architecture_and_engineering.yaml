@@ -1,0 +1,1124 @@
+lesson: "sup_B1_Architecture_and_Engineering"
+lesson_number: 122
+cefr: B1
+type: supplementary
+topic: "Architecture and Engineering"
+categories:
+- id: buildings
+  label:
+    en: "Buildings and Public Spaces"
+    ko: "건물과 공공 장소"
+  type: vocabulary
+  words:
+  - latin: "forum"
+    translation:
+      en: "forum, public square, marketplace"
+      ko: "포럼, 광장, 시장"
+    gender: n
+    notes:
+      en: "gen. forī; 2nd decl. neuter; center of Roman public life"
+      ko: "속격 forī; 제2변화 중성; 로마 공적 생활의 중심"
+  - latin: "basilica"
+    translation:
+      en: "basilica (public hall)"
+      ko: "바실리카 (공공 회관)"
+    gender: f
+    notes:
+      en: "gen. basilicae; 1st decl.; used for courts and commerce"
+      ko: "속격 basilicae; 제1변화; 법정과 상업에 사용"
+  - latin: "templum"
+    translation:
+      en: "temple"
+      ko: "신전"
+    gender: n
+    notes:
+      en: "gen. templī; 2nd decl. neuter"
+      ko: "속격 templī; 제2변화 중성"
+  - latin: "amphitheatrum"
+    translation:
+      en: "amphitheater"
+      ko: "원형 경기장"
+    gender: n
+    notes:
+      en: "gen. amphitheātrī; 2nd decl. neuter; e.g., the Colosseum"
+      ko: "속격 amphitheātrī; 제2변화 중성; 예: 콜로세움"
+  - latin: "circus"
+    translation:
+      en: "circus (racetrack)"
+      ko: "경마장"
+    gender: m
+    notes:
+      en: "gen. circī; 2nd decl.; Circus Maximus = largest venue"
+      ko: "속격 circī; 제2변화; Circus Maximus = 최대 경기장"
+  - latin: "theatrum"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: n
+    notes:
+      en: "gen. theātrī; 2nd decl. neuter"
+      ko: "속격 theātrī; 제2변화 중성"
+  - latin: "thermae"
+    translation:
+      en: "public baths"
+      ko: "공중 목욕탕"
+    gender: f
+    notes:
+      en: "gen. thermārum; 1st decl. plural; always plural"
+      ko: "속격 thermārum; 제1변화 복수; 항상 복수형"
+  - latin: "balneum"
+    translation:
+      en: "bath, bathhouse"
+      ko: "목욕탕"
+    gender: n
+    notes:
+      en: "gen. balneī; 2nd decl. neuter; pl. balnea"
+      ko: "속격 balneī; 제2변화 중성; 복수 balnea"
+  - latin: "domus"
+    translation:
+      en: "house, home (of the wealthy)"
+      ko: "집, 저택 (부유층의)"
+    gender: f
+    notes:
+      en: "gen. domūs; 4th decl. (irregular)"
+      ko: "속격 domūs; 제4변화 (불규칙)"
+  - latin: "insula"
+    translation:
+      en: "apartment block"
+      ko: "공동 주택 건물"
+    gender: f
+    notes:
+      en: "gen. insulae; 1st decl.; multi-story housing for common people"
+      ko: "속격 insulae; 제1변화; 서민을 위한 다층 주거"
+  - latin: "taberna"
+    translation:
+      en: "shop, tavern"
+      ko: "가게, 선술집"
+    gender: f
+    notes:
+      en: "gen. tabernae; 1st decl."
+      ko: "속격 tabernae; 제1변화"
+  - latin: "macellum"
+    translation:
+      en: "food market"
+      ko: "식품 시장"
+    gender: n
+    notes:
+      en: "gen. macellī; 2nd decl. neuter"
+      ko: "속격 macellī; 제2변화 중성"
+- id: construction
+  label:
+    en: "Construction Materials and Techniques"
+    ko: "건축 재료와 기술"
+  type: vocabulary
+  words:
+  - latin: "opus caementicium"
+    translation:
+      en: "Roman concrete"
+      ko: "로마 콘크리트"
+    gender: n
+    notes:
+      en: "Revolutionary building material using volcanic ash (pozzolana)"
+      ko: "화산재(포졸라나)를 사용한 혁신적 건축 자재"
+  - latin: "lapis"
+    translation:
+      en: "stone"
+      ko: "돌"
+    gender: m
+    notes:
+      en: "gen. lapidis; 3rd decl."
+      ko: "속격 lapidis; 제3변화"
+  - latin: "marmor"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: n
+    notes:
+      en: "gen. marmoris; 3rd decl."
+      ko: "속격 marmoris; 제3변화"
+  - latin: "later"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: m
+    notes:
+      en: "gen. lateris; 3rd decl."
+      ko: "속격 lateris; 제3변화"
+  - latin: "tegula"
+    translation:
+      en: "roof tile"
+      ko: "기와"
+    gender: f
+    notes:
+      en: "gen. tegulae; 1st decl."
+      ko: "속격 tegulae; 제1변화"
+  - latin: "lignum"
+    translation:
+      en: "wood, timber"
+      ko: "목재, 나무"
+    gender: n
+    notes:
+      en: "gen. lignī; 2nd decl. neuter"
+      ko: "속격 lignī; 제2변화 중성"
+  - latin: "calx"
+    translation:
+      en: "lime, limestone"
+      ko: "석회, 석회석"
+    gender: f
+    notes:
+      en: "gen. calcis; 3rd decl.; used in mortar"
+      ko: "속격 calcis; 제3변화; 모르타르에 사용"
+  - latin: "arena"
+    translation:
+      en: "sand, arena"
+      ko: "모래, 경기장"
+    gender: f
+    notes:
+      en: "gen. arēnae; 1st decl.; also harena"
+      ko: "속격 arēnae; 제1변화; harena로도 표기"
+  - latin: "tectum"
+    translation:
+      en: "roof, ceiling"
+      ko: "지붕, 천장"
+    gender: n
+    notes:
+      en: "gen. tēctī; 2nd decl. neuter"
+      ko: "속격 tēctī; 제2변화 중성"
+  - latin: "fundamentum"
+    translation:
+      en: "foundation"
+      ko: "기초, 토대"
+    gender: n
+    notes:
+      en: "gen. fundāmentī; 2nd decl. neuter"
+      ko: "속격 fundāmentī; 제2변화 중성"
+  - latin: "pavimentum"
+    translation:
+      en: "pavement, floor"
+      ko: "포장, 바닥"
+    gender: n
+    notes:
+      en: "gen. pavīmentī; 2nd decl. neuter"
+      ko: "속격 pavīmentī; 제2변화 중성"
+- id: engineering
+  label:
+    en: "Engineering Works"
+    ko: "토목 공학"
+  type: vocabulary
+  words:
+  - latin: "aqueductus"
+    translation:
+      en: "aqueduct"
+      ko: "수도교"
+    gender: m
+    notes:
+      en: "gen. aqueductūs; 4th decl.; brought water to cities"
+      ko: "속격 aqueductūs; 제4변화; 도시로 물을 공급"
+  - latin: "via"
+    translation:
+      en: "road, way"
+      ko: "도로, 길"
+    gender: f
+    notes:
+      en: "gen. viae; 1st decl.; Via Appia = oldest Roman road"
+      ko: "속격 viae; 제1변화; Via Appia = 가장 오래된 로마 도로"
+  - latin: "pons"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: m
+    notes:
+      en: "gen. pontis; 3rd decl."
+      ko: "속격 pontis; 제3변화"
+  - latin: "cloaca"
+    translation:
+      en: "sewer, drain"
+      ko: "하수도"
+    gender: f
+    notes:
+      en: "gen. cloacae; 1st decl.; Cloaca Maxima = Rome's great sewer"
+      ko: "속격 cloacae; 제1변화; Cloaca Maxima = 로마의 대하수도"
+  - latin: "fistula"
+    translation:
+      en: "water pipe"
+      ko: "수도관"
+    gender: f
+    notes:
+      en: "gen. fistulae; 1st decl.; often made of lead (plumbum)"
+      ko: "속격 fistulae; 제1변화; 흔히 납(plumbum)으로 제작"
+  - latin: "cisterna"
+    translation:
+      en: "cistern, water tank"
+      ko: "수조, 물탱크"
+    gender: f
+    notes:
+      en: "gen. cisternae; 1st decl."
+      ko: "속격 cisternae; 제1변화"
+  - latin: "canalis"
+    translation:
+      en: "channel, canal"
+      ko: "수로, 운하"
+    gender: m
+    notes:
+      en: "gen. canālis; 3rd decl."
+      ko: "속격 canālis; 제3변화"
+  - latin: "machina"
+    translation:
+      en: "machine, crane, engine"
+      ko: "기계, 기중기"
+    gender: f
+    notes:
+      en: "gen. machinae; 1st decl.; Greek loanword"
+      ko: "속격 machinae; 제1변화; 그리스어 차용어"
+- id: monuments
+  label:
+    en: "Monuments and Decorative Elements"
+    ko: "기념물과 장식 요소"
+  type: vocabulary
+  words:
+  - latin: "arcus"
+    translation:
+      en: "arch, triumphal arch"
+      ko: "아치, 개선문"
+    gender: m
+    notes:
+      en: "gen. arcūs; 4th decl.; arcus triumphalis"
+      ko: "속격 arcūs; 제4변화; arcus triumphalis"
+  - latin: "columna"
+    translation:
+      en: "column, pillar"
+      ko: "기둥, 원주"
+    gender: f
+    notes:
+      en: "gen. columnae; 1st decl."
+      ko: "속격 columnae; 제1변화"
+  - latin: "fornix"
+    translation:
+      en: "arch, vault"
+      ko: "아치, 궁륭"
+    gender: m
+    notes:
+      en: "gen. fornicis; 3rd decl."
+      ko: "속격 fornicis; 제3변화"
+  - latin: "statua"
+    translation:
+      en: "statue"
+      ko: "조각상"
+    gender: f
+    notes:
+      en: "gen. statuae; 1st decl."
+      ko: "속격 statuae; 제1변화"
+  - latin: "obeliscus"
+    translation:
+      en: "obelisk"
+      ko: "오벨리스크"
+    gender: m
+    notes:
+      en: "gen. obeliscī; 2nd decl.; brought from Egypt"
+      ko: "속격 obeliscī; 제2변화; 이집트에서 가져옴"
+  - latin: "mosaicum"
+    translation:
+      en: "mosaic"
+      ko: "모자이크"
+    gender: n
+    notes:
+      en: "gen. mosaicī; 2nd decl. neuter; opus musivum in classical Latin"
+      ko: "속격 mosaicī; 제2변화 중성; 고전 라틴어로 opus musivum"
+  - latin: "inscriptio"
+    translation:
+      en: "inscription"
+      ko: "비문"
+    gender: f
+    notes:
+      en: "gen. inscriptiōnis; 3rd decl."
+      ko: "속격 inscriptiōnis; 제3변화"
+  - latin: "ara"
+    translation:
+      en: "altar"
+      ko: "제단"
+    gender: f
+    notes:
+      en: "gen. ārae; 1st decl.; Ara Pacis = 'Altar of Peace'"
+      ko: "속격 ārae; 제1변화; Ara Pacis = '평화의 제단'"
+  - latin: "mausoleum"
+    translation:
+      en: "mausoleum, tomb"
+      ko: "영묘, 무덤"
+    gender: n
+    notes:
+      en: "gen. mausōleī; 2nd decl. neuter"
+      ko: "속격 mausōleī; 제2변화 중성"
+  - latin: "monumentum"
+    translation:
+      en: "monument, memorial"
+      ko: "기념물"
+    gender: n
+    notes:
+      en: "gen. monumentī; 2nd decl. neuter"
+      ko: "속격 monumentī; 제2변화 중성"
+  - latin: "pyramis"
+    translation:
+      en: "pyramid"
+      ko: "피라미드"
+    gender: f
+    notes:
+      en: "gen. pȳramidis; 3rd decl."
+      ko: "속격 pȳramidis; 제3변화"
+  - latin: "sepulcrum"
+    translation:
+      en: "tomb, sepulcher"
+      ko: "무덤, 묘"
+    gender: n
+    notes:
+      en: "gen. sepulcrī; 2nd decl. neuter"
+      ko: "속격 sepulcrī; 제2변화 중성"
+- id: rooms_spaces
+  label:
+    en: "Rooms and Interior Spaces"
+    ko: "방과 실내 공간"
+  type: vocabulary
+  words:
+  - latin: "atrium"
+    translation:
+      en: "atrium (entrance hall)"
+      ko: "아트리움 (현관 홀)"
+    gender: n
+    notes:
+      en: "gen. ātriī; 2nd decl. neuter; central room of Roman house"
+      ko: "속격 ātriī; 제2변화 중성; 로마 주택의 중심 공간"
+  - latin: "tablinum"
+    translation:
+      en: "tablinum (study, office)"
+      ko: "타블리눔 (서재, 사무실)"
+    gender: n
+    notes:
+      en: "gen. tablīnī; 2nd decl. neuter; office of pater familias"
+      ko: "속격 tablīnī; 제2변화 중성; 가장의 서재"
+  - latin: "triclinium"
+    translation:
+      en: "dining room"
+      ko: "식당"
+    gender: n
+    notes:
+      en: "gen. triclīniī; 2nd decl. neuter; with three reclining couches"
+      ko: "속격 triclīniī; 제2변화 중성; 세 개의 비스듬한 침상이 있음"
+  - latin: "cubiculum"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: n
+    notes:
+      en: "gen. cubiculī; 2nd decl. neuter"
+      ko: "속격 cubiculī; 제2변화 중성"
+  - latin: "culina"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: f
+    notes:
+      en: "gen. culīnae; 1st decl."
+      ko: "속격 culīnae; 제1변화"
+  - latin: "peristylium"
+    translation:
+      en: "peristyle (columned garden)"
+      ko: "열주 정원"
+    gender: n
+    notes:
+      en: "gen. peristȳliī; 2nd decl. neuter; open garden with colonnade"
+      ko: "속격 peristȳliī; 제2변화 중성; 주랑이 있는 개방형 정원"
+  - latin: "hortus"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+    notes:
+      en: "gen. hortī; 2nd decl."
+      ko: "속격 hortī; 제2변화"
+  - latin: "impluvium"
+    translation:
+      en: "impluvium (rainwater basin)"
+      ko: "임플루비움 (빗물 수집 분지)"
+    gender: n
+    notes:
+      en: "gen. impluviī; 2nd decl. neuter; in the center of the atrium"
+      ko: "속격 impluviī; 제2변화 중성; 아트리움 중앙에 위치"
+  - latin: "compluvium"
+    translation:
+      en: "compluvium (roof opening)"
+      ko: "콤플루비움 (지붕 개구부)"
+    gender: n
+    notes:
+      en: "gen. compluviī; 2nd decl. neuter; opening above impluvium"
+      ko: "속격 compluviī; 제2변화 중성; 임플루비움 위의 개구부"
+  - latin: "vestibulum"
+    translation:
+      en: "vestibule, entrance"
+      ko: "현관, 입구"
+    gender: n
+    notes:
+      en: "gen. vestibulī; 2nd decl. neuter"
+      ko: "속격 vestibulī; 제2변화 중성"
+  - latin: "latrina"
+    translation:
+      en: "latrine, toilet"
+      ko: "화장실"
+    gender: f
+    notes:
+      en: "gen. latrīnae; 1st decl.; public latrines were communal"
+      ko: "속격 latrīnae; 제1변화; 공중 화장실은 공동 사용"
+  - latin: "fenestra"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+    notes:
+      en: "gen. fenestrae; 1st decl."
+      ko: "속격 fenestrae; 제1변화"
+  - latin: "ianua"
+    translation:
+      en: "door (exterior)"
+      ko: "문 (외부)"
+    gender: f
+    notes:
+      en: "gen. iānuae; 1st decl.; named after Janus"
+      ko: "속격 iānuae; 제1변화; 야누스의 이름에서 유래"
+  - latin: "ostium"
+    translation:
+      en: "doorway, entrance"
+      ko: "출입구"
+    gender: n
+    notes:
+      en: "gen. ōstiī; 2nd decl. neuter"
+      ko: "속격 ōstiī; 제2변화 중성"
+  - latin: "scala"
+    translation:
+      en: "stairs, ladder"
+      ko: "계단, 사다리"
+    gender: f
+    notes:
+      en: "gen. scālae; 1st decl.; usually pl. scālae"
+      ko: "속격 scālae; 제1변화; 보통 복수 scālae"
+- id: construction_verbs
+  label:
+    en: "Construction Verbs"
+    ko: "건설 동사"
+  type: vocabulary
+  words:
+  - latin: "aedificare"
+    translation:
+      en: "to build, to construct"
+      ko: "건설하다, 짓다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "struere"
+    translation:
+      en: "to build, to pile up"
+      ko: "건축하다, 쌓다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. strūxī"
+      ko: "제3활용; 완료 strūxī"
+  - latin: "demoliri"
+    translation:
+      en: "to demolish, to tear down"
+      ko: "철거하다, 허물다"
+    gender: n
+    notes:
+      en: "4th conj. deponent"
+      ko: "제4활용 이형태 동사"
+  - latin: "reficere"
+    translation:
+      en: "to repair, to restore"
+      ko: "수리하다, 복원하다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. refēcī"
+      ko: "제3활용 (i-어간); 완료 refēcī"
+  - latin: "dedicare"
+    translation:
+      en: "to dedicate, to consecrate"
+      ko: "봉헌하다, 축성하다"
+    gender: n
+    notes:
+      en: "1st conj.; templum dedicare = 'to dedicate a temple'"
+      ko: "제1활용; templum dedicare = '신전을 봉헌하다'"
+  - latin: "ornare"
+    translation:
+      en: "to decorate, to adorn"
+      ko: "장식하다, 꾸미다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "excavare"
+    translation:
+      en: "to excavate, to hollow out"
+      ko: "발굴하다, 파내다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "caementum"
+    translation:
+      en: "rubble stone, aggregate"
+      ko: "잡석, 골재"
+    gender: n
+    notes:
+      en: "gen. caementī; 2nd decl. neuter; used in concrete"
+      ko: "속격 caementī; 제2변화 중성; 콘크리트에 사용"
+  - latin: "opus"
+    translation:
+      en: "work, construction, masterpiece"
+      ko: "작품, 건설, 걸작"
+    gender: n
+    notes:
+      en: "gen. operis; 3rd decl."
+      ko: "속격 operis; 제3변화"
+  - latin: "architectus"
+    translation:
+      en: "architect"
+      ko: "건축가"
+    gender: m
+    notes:
+      en: "gen. architectī; 2nd decl.; Greek loanword"
+      ko: "속격 architectī; 제2변화; 그리스어 차용어"
+  - latin: "faber"
+    translation:
+      en: "craftsman, builder"
+      ko: "장인, 건축가"
+    gender: m
+    notes:
+      en: "gen. fabrī; 2nd decl."
+      ko: "속격 fabrī; 제2변화"
+  - latin: "pictor"
+    translation:
+      en: "painter"
+      ko: "화가"
+    gender: m
+    notes:
+      en: "gen. pictōris; 3rd decl."
+      ko: "속격 pictōris; 제3변화"
+  - latin: "sculptor"
+    translation:
+      en: "sculptor, carver"
+      ko: "조각가"
+    gender: m
+    notes:
+      en: "gen. sculptōris; 3rd decl."
+      ko: "속격 sculptōris; 제3변화"
+  - latin: "structor"
+    translation:
+      en: "builder, mason"
+      ko: "건축가, 석공"
+    gender: m
+    notes:
+      en: "gen. strūctōris; 3rd decl."
+      ko: "속격 strūctōris; 제3변화"
+  - latin: "caementarius"
+    translation:
+      en: "mason, cement worker"
+      ko: "석공, 시멘트 작업자"
+    gender: m
+    notes:
+      en: "gen. caementāriī; 2nd decl."
+      ko: "속격 caementāriī; 제2변화"
+- id: water_systems
+  label:
+    en: "Water Systems and Infrastructure"
+    ko: "수도 시설과 인프라"
+  type: vocabulary
+  words:
+  - latin: "castellum aquae"
+    translation:
+      en: "water distribution tank"
+      ko: "배수 탱크"
+    gender: n
+    notes:
+      en: "Receiving and distributing water from aqueducts"
+      ko: "수도교에서 물을 받아 배분"
+  - latin: "puteus"
+    translation:
+      en: "well (for water)"
+      ko: "우물"
+    gender: m
+    notes:
+      en: "gen. puteī; 2nd decl."
+      ko: "속격 puteī; 제2변화"
+  - latin: "lacus"
+    translation:
+      en: "basin, trough, reservoir"
+      ko: "수조, 저수지"
+    gender: m
+    notes:
+      en: "gen. lacūs; 4th decl.; public water basins"
+      ko: "속격 lacūs; 제4변화; 공공 수조"
+  - latin: "plumbum"
+    translation:
+      en: "lead (metal)"
+      ko: "납"
+    gender: n
+    notes:
+      en: "gen. plumbī; 2nd decl. neuter; used for pipes"
+      ko: "속격 plumbī; 제2변화 중성; 관에 사용"
+  - latin: "plumbarius"
+    translation:
+      en: "plumber, lead worker"
+      ko: "배관공, 납 작업자"
+    gender: m
+    notes:
+      en: "gen. plumbāriī; 2nd decl."
+      ko: "속격 plumbāriī; 제2변화"
+  - latin: "hypocaustum"
+    translation:
+      en: "hypocaust (underfloor heating)"
+      ko: "하이포카우스트 (바닥 난방)"
+    gender: n
+    notes:
+      en: "gen. hypocaustī; 2nd decl. neuter; heated floors in baths and villas"
+      ko: "속격 hypocaustī; 제2변화 중성; 목욕탕과 빌라의 바닥 난방"
+  - latin: "praefurnium"
+    translation:
+      en: "furnace room (for hypocaust)"
+      ko: "화실 (하이포카우스트용)"
+    gender: n
+    notes:
+      en: "gen. praefurniī; 2nd decl. neuter"
+      ko: "속격 praefurniī; 제2변화 중성"
+  - latin: "suspensura"
+    translation:
+      en: "suspended floor (of hypocaust)"
+      ko: "떠 있는 바닥 (하이포카우스트의)"
+    gender: f
+    notes:
+      en: "gen. suspensūrae; 1st decl.; floor raised on pilae"
+      ko: "속격 suspensūrae; 제1변화; pilae 위에 올려진 바닥"
+  - latin: "pila"
+    translation:
+      en: "pillar, pier (supporting hypocaust)"
+      ko: "기둥 (하이포카우스트 지지)"
+    gender: f
+    notes:
+      en: "gen. pilae; 1st decl.; small brick pillars"
+      ko: "속격 pilae; 제1변화; 작은 벽돌 기둥"
+  - latin: "frigidarium"
+    translation:
+      en: "cold room (in baths)"
+      ko: "냉탕 (목욕탕의)"
+    gender: n
+    notes:
+      en: "gen. frigidāriī; 2nd decl. neuter"
+      ko: "속격 frigidāriī; 제2변화 중성"
+  - latin: "tepidarium"
+    translation:
+      en: "warm room (in baths)"
+      ko: "미온탕 (목욕탕의)"
+    gender: n
+    notes:
+      en: "gen. tepidāriī; 2nd decl. neuter"
+      ko: "속격 tepidāriī; 제2변화 중성"
+  - latin: "caldarium"
+    translation:
+      en: "hot room (in baths)"
+      ko: "열탕 (목욕탕의)"
+    gender: n
+    notes:
+      en: "gen. caldāriī; 2nd decl. neuter"
+      ko: "속격 caldāriī; 제2변화 중성"
+  - latin: "natatio"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: f
+    notes:
+      en: "gen. natātiōnis; 3rd decl."
+      ko: "속격 natātiōnis; 제3변화"
+  - latin: "palaestra"
+    translation:
+      en: "exercise yard, gymnasium"
+      ko: "운동장, 체육관"
+    gender: f
+    notes:
+      en: "gen. palaestrae; 1st decl.; Greek loanword"
+      ko: "속격 palaestrae; 제1변화; 그리스어 차용어"
+  - latin: "sudatorium"
+    translation:
+      en: "steam room, sauna"
+      ko: "한증실, 사우나"
+    gender: n
+    notes:
+      en: "gen. sūdātōriī; 2nd decl. neuter"
+      ko: "속격 sūdātōriī; 제2변화 중성"
+  - latin: "apodyterium"
+    translation:
+      en: "changing room"
+      ko: "탈의실"
+    gender: n
+    notes:
+      en: "gen. apodytēriī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 apodytēriī; 제2변화 중성; 그리스어 차용어"
+- id: road_construction
+  label:
+    en: "Roads and Road Construction"
+    ko: "도로와 도로 건설"
+  type: vocabulary
+  words:
+  - latin: "via publica"
+    translation:
+      en: "public road"
+      ko: "공도"
+    gender: f
+    notes:
+      en: "1st decl.; state-maintained road"
+      ko: "제1변화; 국가 유지 도로"
+  - latin: "via strata"
+    translation:
+      en: "paved road"
+      ko: "포장 도로"
+    gender: f
+    notes:
+      en: "1st decl.; origin of English 'street'"
+      ko: "제1변화; 영어 'street'의 어원"
+  - latin: "semita"
+    translation:
+      en: "footpath, lane"
+      ko: "오솔길, 보도"
+    gender: f
+    notes:
+      en: "gen. sēmitae; 1st decl."
+      ko: "속격 sēmitae; 제1변화"
+  - latin: "miliarium"
+    translation:
+      en: "milestone"
+      ko: "이정표"
+    gender: n
+    notes:
+      en: "gen. mīliāriī; 2nd decl. neuter; every Roman mile (~1.5 km)"
+      ko: "속격 mīliāriī; 제2변화 중성; 매 로마 마일(약 1.5 km)마다"
+  - latin: "crepido"
+    translation:
+      en: "curb, raised sidewalk"
+      ko: "연석, 높은 보도"
+    gender: f
+    notes:
+      en: "gen. crepidinis; 3rd decl."
+      ko: "속격 crepidinis; 제3변화"
+  - latin: "glarea"
+    translation:
+      en: "gravel"
+      ko: "자갈"
+    gender: f
+    notes:
+      en: "gen. glāreae; 1st decl.; used in road foundations"
+      ko: "속격 glāreae; 제1변화; 도로 기초에 사용"
+  - latin: "saxum"
+    translation:
+      en: "rock, stone (large)"
+      ko: "바위, 돌 (큰)"
+    gender: n
+    notes:
+      en: "gen. saxī; 2nd decl. neuter"
+      ko: "속격 saxī; 제2변화 중성"
+  - latin: "silex"
+    translation:
+      en: "flint, paving stone"
+      ko: "부싯돌, 포장석"
+    gender: m
+    notes:
+      en: "gen. silicis; 3rd decl.; used for road surfaces"
+      ko: "속격 silicis; 제3변화; 도로 표면에 사용"
+  - latin: "ponticulus"
+    translation:
+      en: "small bridge"
+      ko: "작은 다리"
+    gender: m
+    notes:
+      en: "gen. ponticulī; 2nd decl.; diminutive of pons"
+      ko: "속격 ponticulī; 제2변화; pons의 축소형"
+  - latin: "iter"
+    translation:
+      en: "road, journey, route"
+      ko: "도로, 여행, 경로"
+    gender: n
+    notes:
+      en: "gen. itineris; 3rd decl.; iter facere = 'to travel'"
+      ko: "속격 itineris; 제3변화; iter facere = '여행하다'"
+- id: architectural_orders
+  label:
+    en: "Architectural Orders and Decoration"
+    ko: "건축 양식과 장식"
+  type: vocabulary
+  words:
+  - latin: "ordo"
+    translation:
+      en: "order (architectural style)"
+      ko: "양식 (건축 스타일)"
+    gender: m
+    notes:
+      en: "gen. ōrdinis; 3rd decl.; Doric, Ionic, Corinthian"
+      ko: "속격 ōrdinis; 제3변화; 도리스, 이오니아, 코린트"
+  - latin: "capitulum"
+    translation:
+      en: "capital (top of column)"
+      ko: "주두 (기둥 상부)"
+    gender: n
+    notes:
+      en: "gen. capitulī; 2nd decl. neuter"
+      ko: "속격 capitulī; 제2변화 중성"
+  - latin: "basis"
+    translation:
+      en: "base (of a column)"
+      ko: "기단 (기둥의)"
+    gender: f
+    notes:
+      en: "gen. basis; 3rd decl.; Greek loanword"
+      ko: "속격 basis; 제3변화; 그리스어 차용어"
+  - latin: "epistylium"
+    translation:
+      en: "architrave (beam above columns)"
+      ko: "아키트레이브 (기둥 위 보)"
+    gender: n
+    notes:
+      en: "gen. epistȳliī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 epistȳliī; 제2변화 중성; 그리스어 차용어"
+  - latin: "fronton"
+    translation:
+      en: "pediment, gable"
+      ko: "박공, 삼각 지붕"
+    gender: n
+    notes:
+      en: "gen. frontōnis; 3rd decl.; triangular end of a temple roof"
+      ko: "속격 frontōnis; 제3변화; 신전 지붕의 삼각형 끝부분"
+  - latin: "fastigium"
+    translation:
+      en: "gable, summit, peak"
+      ko: "박공, 정상, 꼭대기"
+    gender: n
+    notes:
+      en: "gen. fastīgiī; 2nd decl. neuter"
+      ko: "속격 fastīgiī; 제2변화 중성"
+  - latin: "absis"
+    translation:
+      en: "apse, vaulted recess"
+      ko: "압스, 아치형 벽감"
+    gender: f
+    notes:
+      en: "gen. absidis; 3rd decl.; semicircular end of a building"
+      ko: "속격 absidis; 제3변화; 건물의 반원형 끝부분"
+  - latin: "camera"
+    translation:
+      en: "vault, arched ceiling"
+      ko: "아치형 천장, 궁륭"
+    gender: f
+    notes:
+      en: "gen. camerae; 1st decl."
+      ko: "속격 camerae; 제1변화"
+  - latin: "testudo"
+    translation:
+      en: "dome, vaulted roof"
+      ko: "돔, 아치형 지붕"
+    gender: f
+    notes:
+      en: "gen. testūdinis; 3rd decl.; also 'tortoise'"
+      ko: "속격 testūdinis; 제3변화; '거북이'라는 뜻도 있음"
+  - latin: "stucco"
+    translation:
+      en: "stucco, plaster decoration"
+      ko: "치장 벽토"
+    gender: n
+    notes:
+      en: "Decorative plaster coating on walls"
+      ko: "벽의 장식용 회반죽 코팅"
+  - latin: "pictūra"
+    translation:
+      en: "painting, fresco"
+      ko: "그림, 프레스코"
+    gender: f
+    notes:
+      en: "gen. pictūrae; 1st decl.; wall painting in Roman houses"
+      ko: "속격 pictūrae; 제1변화; 로마 주택의 벽화"
+  - latin: "tessera"
+    translation:
+      en: "mosaic tile"
+      ko: "모자이크 타일"
+    gender: f
+    notes:
+      en: "gen. tesserae; 1st decl.; small cube for mosaics"
+      ko: "속격 tesserae; 제1변화; 모자이크용 작은 정육면체"
+  - latin: "scaena"
+    translation:
+      en: "stage building, backdrop"
+      ko: "무대 건물, 배경"
+    gender: f
+    notes:
+      en: "gen. scaenae; 1st decl.; permanent backdrop of a theater"
+      ko: "속격 scaenae; 제1변화; 극장의 고정 배경"
+  - latin: "cavea"
+    translation:
+      en: "seating area (of theater/amphitheater)"
+      ko: "관람석 (극장/원형경기장의)"
+    gender: f
+    notes:
+      en: "gen. caveae; 1st decl.; semicircular seating tiers"
+      ko: "속격 caveae; 제1변화; 반원형 좌석 단"
+  - latin: "orchestra"
+    translation:
+      en: "orchestra (semicircular area)"
+      ko: "오케스트라 (반원형 구역)"
+    gender: f
+    notes:
+      en: "gen. orchestrae; 1st decl.; seating for senators in Roman theater"
+      ko: "속격 orchestrae; 제1변화; 로마 극장에서 원로원 의원 좌석"
+  - latin: "porticus"
+    translation:
+      en: "portico, covered walkway"
+      ko: "포르티코, 지붕 있는 보도"
+    gender: f
+    notes:
+      en: "gen. porticūs; 4th decl."
+      ko: "속격 porticūs; 제4변화"
+  - latin: "nymphaeum"
+    translation:
+      en: "nymphaeum (ornamental fountain)"
+      ko: "님파에움 (장식 분수)"
+    gender: n
+    notes:
+      en: "gen. nymphaeī; 2nd decl. neuter; monumental fountain building"
+      ko: "속격 nymphaeī; 제2변화 중성; 기념비적 분수 건물"
+  - latin: "granum"
+    translation:
+      en: "grain (of stone), granule"
+      ko: "입자 (돌의), 알갱이"
+    gender: n
+    notes:
+      en: "gen. grānī; 2nd decl. neuter"
+      ko: "속격 grānī; 제2변화 중성"
+  - latin: "cementum"
+    translation:
+      en: "mortar, binding material"
+      ko: "모르타르, 접합 재료"
+    gender: n
+    notes:
+      en: "gen. cementī; 2nd decl. neuter"
+      ko: "속격 cementī; 제2변화 중성"
+  - latin: "trabes"
+    translation:
+      en: "beam, timber"
+      ko: "대들보, 목재"
+    gender: f
+    notes:
+      en: "gen. trabis; 3rd decl."
+      ko: "속격 trabis; 제3변화"
+  - latin: "claustra"
+    translation:
+      en: "lock, bolt, barrier"
+      ko: "자물쇠, 빗장, 차단물"
+    gender: n
+    notes:
+      en: "gen. claustrōrum; 2nd decl. neuter plural"
+      ko: "속격 claustrōrum; 제2변화 중성 복수"
+  - latin: "exstruere"
+    translation:
+      en: "to build up, to erect"
+      ko: "세우다, 건립하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. exstrūxī"
+      ko: "제3활용; 완료 exstrūxī"
+  - latin: "instaurare"
+    translation:
+      en: "to restore, to renew"
+      ko: "복원하다, 새로 짓다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "operarius"
+    translation:
+      en: "laborer, worker"
+      ko: "노동자, 일꾼"
+    gender: m
+    notes:
+      en: "gen. operāriī; 2nd decl."
+      ko: "속격 operāriī; 제2변화"
+  - latin: "tectorium"
+    translation:
+      en: "plaster, stucco coating"
+      ko: "회반죽, 치장 벽토"
+    gender: n
+    notes:
+      en: "gen. tectōriī; 2nd decl. neuter"
+      ko: "속격 tectōriī; 제2변화 중성"
+  - latin: "podium"
+    translation:
+      en: "podium, raised platform"
+      ko: "연단, 높은 플랫폼"
+    gender: n
+    notes:
+      en: "gen. podiī; 2nd decl. neuter; base of a temple"
+      ko: "속격 podiī; 제2변화 중성; 신전의 기단"
+  - latin: "gradus"
+    translation:
+      en: "step, stair"
+      ko: "계단, 단"
+    gender: m
+    notes:
+      en: "gen. gradūs; 4th decl."
+      ko: "속격 gradūs; 제4변화"
+  - latin: "crepidoma"
+    translation:
+      en: "stepped platform (of temple)"
+      ko: "계단식 기단 (신전의)"
+    gender: n
+    notes:
+      en: "gen. crepidōmatis; 3rd decl.; Greek loanword"
+      ko: "속격 crepidōmatis; 제3변화; 그리스어 차용어"
+  - latin: "paries"
+    translation:
+      en: "wall (interior)"
+      ko: "벽 (내부)"
+    gender: m
+    notes:
+      en: "gen. parietis; 3rd decl."
+      ko: "속격 parietis; 제3변화"
+  - latin: "solarium"
+    translation:
+      en: "sundial, sun terrace"
+      ko: "해시계, 일광 테라스"
+    gender: n
+    notes:
+      en: "gen. solāriī; 2nd decl. neuter"
+      ko: "속격 solāriī; 제2변화 중성"
+  - latin: "limen"
+    translation:
+      en: "threshold, doorstep"
+      ko: "문턱, 입구"
+    gender: n
+    notes:
+      en: "gen. līminis; 3rd decl."
+      ko: "속격 līminis; 제3변화"
+  - latin: "cenaculum"
+    translation:
+      en: "upper story room, garret"
+      ko: "윗층 방, 다락방"
+    gender: n
+    notes:
+      en: "gen. cēnāculī; 2nd decl. neuter; rented rooms in insulae"
+      ko: "속격 cēnāculī; 제2변화 중성; 인술라에서 임대하는 방"
+  - latin: "cryptoporticus"
+    translation:
+      en: "covered underground gallery"
+      ko: "지하 복도"
+    gender: f
+    notes:
+      en: "gen. cryptoporticūs; 4th decl.; partially underground corridor"
+      ko: "속격 cryptoporticūs; 제4변화; 부분적으로 지하인 복도"
+  - latin: "concameratio"
+    translation:
+      en: "vaulting, arched construction"
+      ko: "궁륭 구조, 아치 건설"
+    gender: f
+    notes:
+      en: "gen. concamerātiōnis; 3rd decl."
+      ko: "속격 concamerātiōnis; 제3변화"
