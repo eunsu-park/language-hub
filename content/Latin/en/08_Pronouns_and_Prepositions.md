@@ -139,19 +139,16 @@ This is the **most common** demonstrative and serves as the standard third perso
 
 ### Demonstrative Summary
 
-```
-DEMONSTRATIVE DISTANCE
-┌──────────────────────────────────────────┐
-│ hic  = THIS (near speaker)     → 이     │
-│ iste = THAT (near listener)    → 그     │
-│ ille = THAT (far from both)    → 저     │
-│ is   = he/she/it (neutral)     → 그/그녀│
-│                                          │
-│ Shared pattern in gen./dat. sg.:         │
-│   Gen. sg.: -īus (all genders)          │
-│   Dat. sg.: -ī (all genders)            │
-└──────────────────────────────────────────┘
-```
+> **DEMONSTRATIVE DISTANCE**
+>
+> - hic  = THIS (near speaker)     → 이
+> - iste = THAT (near listener)    → 그
+> - ille = THAT (far from both)    → 저
+> - is   = he/she/it (neutral)     → 그/그녀
+>
+> Shared pattern in gen./dat. sg.:
+> - Gen. sg.: -īus (all genders)
+> - Dat. sg.: -ī (all genders)
 
 ### Example Sentences
 
@@ -179,20 +176,17 @@ The relative pronoun **quī, quae, quod** introduces relative clauses. It agrees
 
 ### How Relative Clauses Work
 
-```
-RELATIVE CLAUSE AGREEMENT
-┌───────────────────────────────────────────────┐
-│ Gender & Number → from the ANTECEDENT         │
-│ Case → from the pronoun's role IN ITS CLAUSE  │
-│                                               │
-│ Example:                                      │
-│ Vir quem vidēs est senātor.                   │
-│ (The man whom you see is a senator.)          │
-│                                               │
-│ quem = masc. sg. (agrees with vir)            │
-│      = accusative (object of vidēs)           │
-└───────────────────────────────────────────────┘
-```
+> **RELATIVE CLAUSE AGREEMENT**
+>
+> Gender & Number → from the ANTECEDENT
+> Case → from the pronoun's role IN ITS CLAUSE
+>
+> Example:
+> Vir quem vidēs est senātor.
+> (The man whom you see is a senator.)
+>
+> quem = masc. sg. (agrees with vir)
+>      = accusative (object of vidēs)
 
 ### Example Sentences
 
@@ -273,22 +267,16 @@ Prepositions governing the **ablative** generally express **location**, **separa
 
 ### The Dual Prepositions: in and sub
 
-```
-IN + ACCUSATIVE vs. IN + ABLATIVE
-┌─────────────────────────────────────────────┐
-│ in + ACC = motion INTO / ONTO               │
-│   In urbem ambulat. (He walks into the city)│
-│                                             │
-│ in + ABL = location IN / ON                 │
-│   In urbe habitat. (He lives in the city)   │
-│                                             │
-│ sub + ACC = motion UNDER                    │
-│   Sub aquam mersit. (He plunged under water)│
-│                                             │
-│ sub + ABL = location UNDER                  │
-│   Sub aquā nātat. (He swims under water)    │
-└─────────────────────────────────────────────┘
-```
+> **IN + ACCUSATIVE vs. IN + ABLATIVE**
+>
+> - in + ACC = motion INTO / ONTO
+>   In urbem ambulat. (He walks into the city)
+> - in + ABL = location IN / ON
+>   In urbe habitat. (He lives in the city)
+> - sub + ACC = motion UNDER
+>   Sub aquam mersit. (He plunged under water)
+> - sub + ABL = location UNDER
+>   Sub aquā nātat. (He swims under water)
 
 > **한국어 화자 참고**: This is similar to how Korean uses different particles for location (에서) vs. direction (으로/에). The Latin case (accusative vs. ablative) serves the same function as these Korean particles.
 
