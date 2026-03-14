@@ -27,30 +27,29 @@
 
 영어에는 **12가지 시제**가 있으며, 시간(과거/현재/미래)과 양상(단순/진행/완료/완료진행)으로 구분됩니다.
 
-```
-┌──────────────────┬───────────────┬───────────────┬──────────────────┐
-│                  │    과거       │   현재        │    미래           │
-│                  │    PAST       │   PRESENT     │    FUTURE        │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ 단순             │ worked        │ work(s)       │ will work        │
-│ SIMPLE           │ ate           │ eat(s)        │ will eat         │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ 진행             │ was working   │ am/is/are     │ will be          │
-│ CONTINUOUS       │ were eating   │ working       │ working          │
-│                  │               │ am/is/are     │ will be          │
-│                  │               │ eating        │ eating           │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ 완료             │ had worked    │ have/has      │ will have        │
-│ PERFECT          │ had eaten     │ worked        │ worked           │
-│                  │               │ have/has      │ will have        │
-│                  │               │ eaten         │ eaten            │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ 완료진행         │ had been      │ have/has been │ will have been   │
-│ PERFECT          │ working       │ working       │ working          │
-│ CONTINUOUS       │ had been      │ have/has been │ will have been   │
-│                  │ eating        │ eating        │ eating           │
-└──────────────────┴───────────────┴───────────────┴──────────────────┘
-```
+> **│    과거       │   현재        │    미래**
+>
+> | PAST | PRESENT | FUTURE |
+> |---|---|---|
+> | 단순 | worked | work(s) | will work |
+> | SIMPLE | ate | eat(s) | will eat |
+> | 진행 | was working | am/is/are | will be |
+> | CONTINUOUS | were eating | working | working |
+> | am/is/are | will be |  |
+> | eating | eating |  |
+> | 완료 | had worked | have/has | will have |
+> | PERFECT | had eaten | worked | worked |
+> | have/has | will have |  |
+> | eaten | eaten |  |
+> | 완료진행 | had been | have/has been | will have been |
+> | PERFECT | working | working | working |
+> | CONTINUOUS | had been | have/has been | will have been |
+> | eating | eating | eating |
+>
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
 
 ### 1.2 양상(Aspect) 이해
 
@@ -77,18 +76,15 @@
 
 ### 2.1 단순 현재 (Simple Present)
 
+> 형태: 기본형 동사 (he/she/it에는 +s/es)
+> I work          We work
+> You work        You work
+> He/She works    They work
+> 부정:  do not (don't) + 기본형 동사
+> does not (doesn't) + 기본형 동사 (he/she/it)
+> 의문:  Do/Does + 주어 + 기본형 동사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: 기본형 동사 (he/she/it에는 +s/es)                        │
-│                                                                 │
-│   I work          We work                                       │
-│   You work        You work                                      │
-│   He/She works    They work                                     │
-│                                                                 │
-│   부정:  do not (don't) + 기본형 동사                             │
-│          does not (doesn't) + 기본형 동사 (he/she/it)            │
-│   의문:  Do/Does + 주어 + 기본형 동사?                            │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 습관과 일과:             "I drink coffee every morning."
@@ -103,17 +99,14 @@
 
 ### 2.2 현재 진행 (Present Continuous)
 
+> 형태: am/is/are + 동사-ing
+> I am working         We are working
+> You are working      You are working
+> He/She is working    They are working
+> 부정:  am/is/are + not + 동사-ing
+> 의문:  Am/Is/Are + 주어 + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: am/is/are + 동사-ing                                     │
-│                                                                 │
-│   I am working         We are working                           │
-│   You are working      You are working                          │
-│   He/She is working    They are working                         │
-│                                                                 │
-│   부정:  am/is/are + not + 동사-ing                              │
-│   의문:  Am/Is/Are + 주어 + 동사-ing?                            │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 지금 일어나고 있는 행동:      "I am reading a book."
@@ -137,17 +130,14 @@
 
 ### 2.3 현재 완료 (Present Perfect)
 
+> 형태: have/has + 과거분사
+> I have worked         We have worked
+> You have worked       You have worked
+> He/She has worked     They have worked
+> 부정:  have/has + not + 과거분사
+> 의문:  Have/Has + 주어 + 과거분사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: have/has + 과거분사                                      │
-│                                                                 │
-│   I have worked         We have worked                          │
-│   You have worked       You have worked                         │
-│   He/She has worked     They have worked                        │
-│                                                                 │
-│   부정:  have/has + not + 과거분사                                │
-│   의문:  Have/Has + 주어 + 과거분사?                              │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 인생 경험 (ever/never):
@@ -171,17 +161,14 @@
 
 ### 2.4 현재 완료 진행 (Present Perfect Continuous)
 
+> 형태: have/has + been + 동사-ing
+> I have been working         We have been working
+> You have been working       You have been working
+> He/She has been working     They have been working
+> 부정:  have/has + not + been + 동사-ing
+> 의문:  Have/Has + 주어 + been + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: have/has + been + 동사-ing                               │
-│                                                                 │
-│   I have been working         We have been working              │
-│   You have been working       You have been working             │
-│   He/She has been working     They have been working            │
-│                                                                 │
-│   부정:  have/has + not + been + 동사-ing                        │
-│   의문:  Have/Has + 주어 + been + 동사-ing?                      │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 진행 중인 활동의 기간 (얼마나 오래 했는지 강조):
@@ -207,17 +194,14 @@
 
 ### 3.1 단순 과거 (Simple Past)
 
+> 형태: 동사 + -ed (규칙) 또는 불규칙 형태
+> I worked / ate        We worked / ate
+> You worked / ate      You worked / ate
+> He/She worked / ate   They worked / ate
+> 부정:  did not (didn't) + 기본형 동사
+> 의문:  Did + 주어 + 기본형 동사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: 동사 + -ed (규칙) 또는 불규칙 형태                        │
-│                                                                 │
-│   I worked / ate        We worked / ate                         │
-│   You worked / ate      You worked / ate                        │
-│   He/She worked / ate   They worked / ate                       │
-│                                                                 │
-│   부정:  did not (didn't) + 기본형 동사                           │
-│   의문:  Did + 주어 + 기본형 동사?                                │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 특정 시점에 완료된 행동:
@@ -238,17 +222,14 @@
 
 ### 3.2 과거 진행 (Past Continuous)
 
+> 형태: was/were + 동사-ing
+> I was working         We were working
+> You were working      You were working
+> He/She was working    They were working
+> 부정:  was/were + not + 동사-ing
+> 의문:  Was/Were + 주어 + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: was/were + 동사-ing                                      │
-│                                                                 │
-│   I was working         We were working                         │
-│   You were working      You were working                        │
-│   He/She was working    They were working                       │
-│                                                                 │
-│   부정:  was/were + not + 동사-ing                               │
-│   의문:  Was/Were + 주어 + 동사-ing?                             │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 과거 특정 시점에 진행 중이던 행동:
@@ -269,17 +250,14 @@
 
 ### 3.3 과거 완료 (Past Perfect)
 
+> 형태: had + 과거분사
+> I had worked         We had worked
+> You had worked       You had worked
+> He/She had worked    They had worked
+> 부정:  had not (hadn't) + 과거분사
+> 의문:  Had + 주어 + 과거분사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: had + 과거분사                                           │
-│                                                                 │
-│   I had worked         We had worked                            │
-│   You had worked       You had worked                           │
-│   He/She had worked    They had worked                          │
-│                                                                 │
-│   부정:  had not (hadn't) + 과거분사                              │
-│   의문:  Had + 주어 + 과거분사?                                   │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 다른 과거 행동보다 먼저 완료된 행동:
@@ -300,17 +278,14 @@
 
 ### 3.4 과거 완료 진행 (Past Perfect Continuous)
 
+> 형태: had + been + 동사-ing
+> I had been working         We had been working
+> You had been working       You had been working
+> He/She had been working    They had been working
+> 부정:  had not (hadn't) + been + 동사-ing
+> 의문:  Had + 주어 + been + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: had + been + 동사-ing                                    │
-│                                                                 │
-│   I had been working         We had been working                │
-│   You had been working       You had been working               │
-│   He/She had been working    They had been working              │
-│                                                                 │
-│   부정:  had not (hadn't) + been + 동사-ing                      │
-│   의문:  Had + 주어 + been + 동사-ing?                           │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 다른 과거 행동 이전의 활동 기간:
@@ -332,22 +307,19 @@
 
 ### 4.1 단순 미래 (Simple Future)
 
+> 형태:
+> (a) will + 기본형 동사 (예측, 결정, 약속)
+> (b) am/is/are going to + 기본형 동사 (계획, 증거가 있는 예측)
+> will:
+> I will work         We will work
+> 부정: will not (won't) + 기본형 동사
+> 의문: Will + 주어 + 기본형 동사?
+> going to:
+> I am going to work  We are going to work
+> 부정: am/is/are + not + going to + 기본형 동사
+> 의문: Am/Is/Are + 주어 + going to + 기본형 동사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태:                                                         │
-│   (a) will + 기본형 동사 (예측, 결정, 약속)                       │
-│   (b) am/is/are going to + 기본형 동사 (계획, 증거가 있는 예측)   │
-│                                                                 │
-│   will:                                                        │
-│   I will work         We will work                              │
-│   부정: will not (won't) + 기본형 동사                            │
-│   의문: Will + 주어 + 기본형 동사?                                │
-│                                                                 │
-│   going to:                                                    │
-│   I am going to work  We are going to work                     │
-│   부정: am/is/are + not + going to + 기본형 동사                  │
-│   의문: Am/Is/Are + 주어 + going to + 기본형 동사?                │
-└─────────────────────────────────────────────────────────────────┘
 
 will vs going to:
   즉흥적 결정:        "I'll have the pasta." (지금 결정)
@@ -363,17 +335,14 @@ will vs going to:
 
 ### 4.2 미래 진행 (Future Continuous)
 
+> 형태: will be + 동사-ing
+> I will be working         We will be working
+> You will be working       You will be working
+> He/She will be working    They will be working
+> 부정:  will not (won't) be + 동사-ing
+> 의문:  Will + 주어 + be + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: will be + 동사-ing                                       │
-│                                                                 │
-│   I will be working         We will be working                  │
-│   You will be working       You will be working                 │
-│   He/She will be working    They will be working                │
-│                                                                 │
-│   부정:  will not (won't) be + 동사-ing                          │
-│   의문:  Will + 주어 + be + 동사-ing?                            │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 미래의 특정 시점에 진행 중인 행동:
@@ -391,17 +360,14 @@ will vs going to:
 
 ### 4.3 미래 완료 (Future Perfect)
 
+> 형태: will have + 과거분사
+> I will have worked         We will have worked
+> You will have worked       You will have worked
+> He/She will have worked    They will have worked
+> 부정:  will not (won't) have + 과거분사
+> 의문:  Will + 주어 + have + 과거분사?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: will have + 과거분사                                     │
-│                                                                 │
-│   I will have worked         We will have worked                │
-│   You will have worked       You will have worked               │
-│   He/She will have worked    They will have worked              │
-│                                                                 │
-│   부정:  will not (won't) have + 과거분사                        │
-│   의문:  Will + 주어 + have + 과거분사?                          │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 미래 시점 이전에 완료될 행동:
@@ -416,17 +382,14 @@ will vs going to:
 
 ### 4.4 미래 완료 진행 (Future Perfect Continuous)
 
+> 형태: will have been + 동사-ing
+> I will have been working        We will have been working
+> You will have been working      You will have been working
+> He/She will have been working   They will have been working
+> 부정:  will not have been + 동사-ing
+> 의문:  Will + 주어 + have been + 동사-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   형태: will have been + 동사-ing                                │
-│                                                                 │
-│   I will have been working        We will have been working     │
-│   You will have been working      You will have been working    │
-│   He/She will have been working   They will have been working   │
-│                                                                 │
-│   부정:  will not have been + 동사-ing                           │
-│   의문:  Will + 주어 + have been + 동사-ing?                     │
-└─────────────────────────────────────────────────────────────────┘
 
 용법:
   1. 미래 시점까지의 활동 기간 (얼마나 오래 했는지 강조):
@@ -518,31 +481,24 @@ will vs going to:
 
 ### 6.1 의사결정 흐름도
 
-```
-┌─ 행동이 과거, 현재, 미래 중 언제인가? ──────────────────────────┐
-│                                                                 │
-├─ 현재 ────────────────────────────────────────────────────────┤
-│  ├─ 습관/사실/일과?            → 단순 현재                     │
-│  ├─ 지금 일어나고 있는 중?      → 현재 진행                     │
-│  ├─ 과거 행동이 현재와 연결?    → 현재 완료                     │
-│  │  (결과가 중요)                                              │
-│  └─ 현재까지의 기간?           → 현재 완료 진행                 │
-│     (얼마나 오래?)                                              │
-│                                                                 │
-├─ 과거 ────────────────────────────────────────────────────────┤
-│  ├─ 특정 과거 시점에 완료?      → 단순 과거                     │
-│  ├─ 과거 시점에 진행 중?        → 과거 진행                     │
-│  ├─ 다른 과거 사건 이전?        → 과거 완료                     │
-│  └─ 다른 과거 사건 이전의       → 과거 완료 진행                │
-│     기간?                                                      │
-│                                                                 │
-├─ 미래 ────────────────────────────────────────────────────────┤
-│  ├─ 예측/계획/약속?            → 단순 미래                     │
-│  ├─ 미래 시점에 진행 중?        → 미래 진행                     │
-│  ├─ 미래 마감 이전에 완료?      → 미래 완료                     │
-│  └─ 미래 시점까지의 기간?       → 미래 완료 진행                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> ├─ 현재 ────────────────────────────────────────────────────────┤
+> ├─ 습관/사실/일과?            → 단순 현재
+> ├─ 지금 일어나고 있는 중?      → 현재 진행
+> ├─ 과거 행동이 현재와 연결?    → 현재 완료
+> │  (결과가 중요)
+> └─ 현재까지의 기간?           → 현재 완료 진행
+> (얼마나 오래?)
+> ├─ 과거 ────────────────────────────────────────────────────────┤
+> ├─ 특정 과거 시점에 완료?      → 단순 과거
+> ├─ 과거 시점에 진행 중?        → 과거 진행
+> ├─ 다른 과거 사건 이전?        → 과거 완료
+> └─ 다른 과거 사건 이전의       → 과거 완료 진행
+> 기간?
+> ├─ 미래 ────────────────────────────────────────────────────────┤
+> ├─ 예측/계획/약속?            → 단순 미래
+> ├─ 미래 시점에 진행 중?        → 미래 진행
+> ├─ 미래 마감 이전에 완료?      → 미래 완료
+> └─ 미래 시점까지의 기간?       → 미래 완료 진행
 
 ### 6.2 빠른 참조 질문표
 
@@ -635,47 +591,43 @@ Going to (계획, 증거에 기반한 예측):
 
 ## 8. 시제별 신호 단어
 
-```
-┌────────────────────────┬────────────────────────────────────────┐
-│ 시제                    │ 신호 단어                               │
-├────────────────────────┼────────────────────────────────────────┤
-│ 단순 현재               │ always, usually, often, sometimes,     │
-│ Simple Present         │ rarely, never, every day/week          │
-├────────────────────────┼────────────────────────────────────────┤
-│ 현재 진행               │ now, right now, at the moment,         │
-│ Present Continuous     │ currently, today, this week            │
-├────────────────────────┼────────────────────────────────────────┤
-│ 현재 완료               │ already, yet, just, ever, never,       │
-│ Present Perfect        │ recently, since, for, so far           │
-├────────────────────────┼────────────────────────────────────────┤
-│ 현재 완료 진행           │ for, since, all day/morning,           │
-│ Present Perfect Cont.  │ how long, recently, lately             │
-├────────────────────────┼────────────────────────────────────────┤
-│ 단순 과거               │ yesterday, last week/month/year,       │
-│ Simple Past            │ ago, in 2020, when I was young         │
-├────────────────────────┼────────────────────────────────────────┤
-│ 과거 진행               │ while, when, as, at that time,         │
-│ Past Continuous        │ at 3 o'clock, all day yesterday        │
-├────────────────────────┼────────────────────────────────────────┤
-│ 과거 완료               │ before, after, by the time,            │
-│ Past Perfect           │ already, just, never (before)          │
-├────────────────────────┼────────────────────────────────────────┤
-│ 과거 완료 진행           │ for, since, all day, how long,         │
-│ Past Perfect Cont.     │ before, by the time                    │
-├────────────────────────┼────────────────────────────────────────┤
-│ 단순 미래               │ tomorrow, next week, soon, later,      │
-│ Simple Future          │ in the future, tonight                 │
-├────────────────────────┼────────────────────────────────────────┤
-│ 미래 진행               │ at this time tomorrow, at 8 PM,        │
-│ Future Continuous      │ all day tomorrow                       │
-├────────────────────────┼────────────────────────────────────────┤
-│ 미래 완료               │ by + 미래 시점, by the time,            │
-│ Future Perfect         │ before, by next week                   │
-├────────────────────────┼────────────────────────────────────────┤
-│ 미래 완료 진행           │ by, by the time, for, since            │
-│ Future Perfect Cont.   │ (미래 참조와 함께)                       │
-└────────────────────────┴────────────────────────────────────────┘
-```
+> 시제                    │ 신호 단어
+> ├────────────────────────┼────────────────────────────────────────┤
+> 단순 현재               │ always, usually, often, sometimes,
+> Simple Present         │ rarely, never, every day/week
+> ├────────────────────────┼────────────────────────────────────────┤
+> 현재 진행               │ now, right now, at the moment,
+> Present Continuous     │ currently, today, this week
+> ├────────────────────────┼────────────────────────────────────────┤
+> 현재 완료               │ already, yet, just, ever, never,
+> Present Perfect        │ recently, since, for, so far
+> ├────────────────────────┼────────────────────────────────────────┤
+> 현재 완료 진행           │ for, since, all day/morning,
+> Present Perfect Cont.  │ how long, recently, lately
+> ├────────────────────────┼────────────────────────────────────────┤
+> 단순 과거               │ yesterday, last week/month/year,
+> Simple Past            │ ago, in 2020, when I was young
+> ├────────────────────────┼────────────────────────────────────────┤
+> 과거 진행               │ while, when, as, at that time,
+> Past Continuous        │ at 3 o'clock, all day yesterday
+> ├────────────────────────┼────────────────────────────────────────┤
+> 과거 완료               │ before, after, by the time,
+> Past Perfect           │ already, just, never (before)
+> ├────────────────────────┼────────────────────────────────────────┤
+> 과거 완료 진행           │ for, since, all day, how long,
+> Past Perfect Cont.     │ before, by the time
+> ├────────────────────────┼────────────────────────────────────────┤
+> 단순 미래               │ tomorrow, next week, soon, later,
+> Simple Future          │ in the future, tonight
+> ├────────────────────────┼────────────────────────────────────────┤
+> 미래 진행               │ at this time tomorrow, at 8 PM,
+> Future Continuous      │ all day tomorrow
+> ├────────────────────────┼────────────────────────────────────────┤
+> 미래 완료               │ by + 미래 시점, by the time,
+> Future Perfect         │ before, by next week
+> ├────────────────────────┼────────────────────────────────────────┤
+> 미래 완료 진행           │ by, by the time, for, since
+> Future Perfect Cont.   │ (미래 참조와 함께)
 
 ---
 
@@ -683,25 +635,18 @@ Going to (계획, 증거에 기반한 예측):
 
 ### 9.1 한국어에는 영어와 같은 시제 표지가 없다
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 시제 체계는 훨씬 단순합니다:                               │
-│                                                                 │
-│   한국어는 3가지 기본 시제만 있습니다:                               │
-│   • 현재: -ㄴ다/-는다  (간다, 먹는다)                               │
-│   • 과거: -았/-었        (갔다, 먹었다)                             │
-│   • 미래: -겠-/-ㄹ 것이다 (가겠다, 먹을 것이다)                     │
-│                                                                 │
-│   영어에는 12가지 시제가 있습니다!                                   │
-│   한국어에 없는 것들:                                               │
-│   • 진행 양상 (am/is/are + -ing)                                   │
-│   • 완료 양상 (have/has + 과거분사)                                 │
-│   • 완료 진행                                                      │
-│                                                                 │
-│   이것이 한국어 화자들이 영어에서 종종 단순 시제만 사용하고,           │
-│   진행형과 완료형을 무시하는 이유입니다.                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어 시제 체계는 훨씬 단순합니다:
+> 한국어는 3가지 기본 시제만 있습니다:
+> • 현재: -ㄴ다/-는다  (간다, 먹는다)
+> • 과거: -았/-었        (갔다, 먹었다)
+> • 미래: -겠-/-ㄹ 것이다 (가겠다, 먹을 것이다)
+> 영어에는 12가지 시제가 있습니다!
+> 한국어에 없는 것들:
+> • 진행 양상 (am/is/are + -ing)
+> • 완료 양상 (have/has + 과거분사)
+> • 완료 진행
+> 이것이 한국어 화자들이 영어에서 종종 단순 시제만 사용하고,
+> 진행형과 완료형을 무시하는 이유입니다.
 
 ### 9.2 가장 흔한 10가지 오류
 
@@ -869,29 +814,26 @@ checked (과거 완료 — 이전에 하지 않았던 일) there before!
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    12가지 영어 시제                               │
-│                    The 12 English Tenses                        │
-│                                                                 │
-│   현재 PRESENT     │ 과거 PAST          │ 미래 FUTURE            │
-│   ─────────────────┼───────────────────┼─────────────────────  │
-│   work(s)          │ worked            │ will work             │
-│   am/is/are        │ was/were          │ will be               │
-│     working        │   working         │   working             │
-│   have/has         │ had               │ will have             │
-│     worked         │   worked          │   worked              │
-│   have/has been    │ had been          │ will have been        │
-│     working        │   working         │   working             │
-│                                                                 │
-│   한국어 화자를 위한 핵심 팁:                                      │
-│   1. since/for에는 현재 완료 사용 (단순 현재 아님)                  │
-│   2. 상태 동사에는 진행형 사용 금지                                 │
-│   3. 특정 과거 시점에는 단순 과거 사용                               │
-│   4. 시간절(when, before, after, until)에 "will" 사용 금지         │
-│   5. 두 과거 사건 중 더 앞선 것에는 과거 완료 사용                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **12가지 영어 시제**
+>
+> The 12 English Tenses
+> | 현재 PRESENT | 과거 PAST | 미래 FUTURE |
+> |---|---|---|
+> | work(s) | worked | will work |
+> | am/is/are | was/were | will be |
+> | working | working | working |
+> | have/has | had | will have |
+> | worked | worked | worked |
+> | have/has been | had been | will have been |
+> | working | working | working |
+>
+> ─────────────────┼───────────────────┼─────────────────────
+> 한국어 화자를 위한 핵심 팁:
+> 1. since/for에는 현재 완료 사용 (단순 현재 아님)
+> 2. 상태 동사에는 진행형 사용 금지
+> 3. 특정 과거 시점에는 단순 과거 사용
+> 4. 시간절(when, before, after, until)에 "will" 사용 금지
+> 5. 두 과거 사건 중 더 앞선 것에는 과거 완료 사용
 
 ---
 
