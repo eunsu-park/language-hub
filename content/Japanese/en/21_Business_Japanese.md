@@ -35,28 +35,23 @@ Business Japanese demands a level of politeness that goes far beyond the classro
 covered in Lesson 14. In the corporate world, incorrect keigo can damage relationships
 and create the impression of incompetence.
 
-```
-+----------------------------------------------------------+
-|          BUSINESS KEIGO HIERARCHY                         |
-+----------------------------------------------------------+
-|                                                          |
-|  Level 1: 丁寧語 (Polite language)                       |
-|  └── です / ます forms                                    |
-|  └── Used with peers and familiar colleagues             |
-|                                                          |
-|  Level 2: 尊敬語 (Respectful language)                    |
-|  └── Elevates the OTHER person's actions                 |
-|  └── Used for superiors, clients, external contacts      |
-|                                                          |
-|  Level 3: 謙譲語 (Humble language)                       |
-|  └── Lowers YOUR OWN actions                             |
-|  └── Used when speaking about yourself to superiors      |
-|                                                          |
-|  Level 4: ビジネス敬語 (Business honorifics)              |
-|  └── Fixed set phrases and ultra-formal expressions      |
-|  └── Required for client-facing communication            |
-+----------------------------------------------------------+
-```
+> **BUSINESS KEIGO HIERARCHY**
+>
+> - **Level 1**: 丁寧語 (Polite language)
+>   - です / ます forms
+>   - Used with peers and familiar colleagues
+>
+> - **Level 2**: 尊敬語 (Respectful language)
+>   - Elevates the OTHER person's actions
+>   - Used for superiors, clients, external contacts
+>
+> - **Level 3**: 謙譲語 (Humble language)
+>   - Lowers YOUR OWN actions
+>   - Used when speaking about yourself to superiors
+>
+> - **Level 4**: ビジネス敬語 (Business honorifics)
+>   - Fixed set phrases and ultra-formal expressions
+>   - Required for client-facing communication
 
 ### 1.1 Upgrading Common Verbs to Business Level
 
@@ -135,27 +130,22 @@ A frequent mistake in business settings is stacking honorifics:
 
 ### 2.2 Apology Expressions (Ranked by Formality)
 
-```
-+----------------------------------------------------------+
-|           APOLOGY FORMALITY SCALE                        |
-+----------------------------------------------------------+
-|                                                          |
-|  Casual ──────────────────────────────── Ultra-formal    |
-|                                                          |
-|  すみません                                               |
-|    ↓                                                     |
-|  申し訳ありません                                          |
-|    ↓                                                     |
-|  申し訳ございません                                        |
-|    ↓                                                     |
-|  大変申し訳ございません                                     |
-|    ↓                                                     |
-|  誠に申し訳ございませんでした                                |
-|    ↓                                                     |
-|  深くお詫び申し上げます                                     |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **APOLOGY FORMALITY SCALE**
+>
+> Casual ──────────────────────────────── Ultra-formal
+>
+> すみません
+> ↓
+> 申し訳ありません
+> ↓
+> 申し訳ございません
+> ↓
+> 大変申し訳ございません
+> ↓
+> 誠に申し訳ございませんでした
+> ↓
+> 深くお詫び申し上げます
+>
 
 ### 2.3 Requesting and Declining
 
@@ -185,41 +175,36 @@ A frequent mistake in business settings is stacking honorifics:
 
 ### 3.1 Email Structure
 
-```
-+----------------------------------------------------------+
-|  JAPANESE BUSINESS EMAIL STRUCTURE                       |
-+----------------------------------------------------------+
-|                                                          |
-|  件名 (Subject line)                                     |
-|  ├── Clear and specific                                  |
-|  └── Example: 【ご確認】3月度会議の議題について             |
-|                                                          |
-|  宛名 (Addressee)                                        |
-|  ├── 株式会社○○                                          |
-|  ├── ○○部 ○○課                                          |
-|  └── ○○様                                               |
-|                                                          |
-|  挨拶 (Greeting)                                         |
-|  ├── External: お世話になっております                      |
-|  └── Internal: お疲れ様です                               |
-|                                                          |
-|  自己紹介 (Self-introduction)                             |
-|  └── ○○株式会社の○○でございます                           |
-|                                                          |
-|  本文 (Body)                                             |
-|  └── State purpose, details, and requests                |
-|                                                          |
-|  結び (Closing)                                          |
-|  ├── 何卒よろしくお願い申し上げます                         |
-|  └── ご確認のほど、よろしくお願いいたします                  |
-|                                                          |
-|  署名 (Signature block)                                  |
-|  ├── Company name, department                            |
-|  ├── Full name                                           |
-|  ├── Phone, fax, email                                   |
-|  └── Company address                                     |
-+----------------------------------------------------------+
-```
+> **JAPANESE BUSINESS EMAIL STRUCTURE**
+>
+> **件名 (Subject line)**
+> - Clear and specific
+> - Example: 【ご確認】3月度会議の議題について
+>
+> **宛名 (Addressee)**
+> - 株式会社○○
+> - ○○部 ○○課
+> - ○○様
+>
+> **挨拶 (Greeting)**
+> - External: お世話になっております
+> - Internal: お疲れ様です
+>
+> **自己紹介 (Self-introduction)**
+> - ○○株式会社の○○でございます
+>
+> **本文 (Body)**
+> - State purpose, details, and requests
+>
+> **結び (Closing)**
+> - 何卒よろしくお願い申し上げます
+> - ご確認のほど、よろしくお願いいたします
+>
+> **署名 (Signature block)**
+> - Company name, department
+> - Full name
+> - Phone, fax, email
+> - Company address
 
 ### 3.2 Subject Line Conventions
 
@@ -558,31 +543,23 @@ A card represents the person; mishandling it is equivalent to disrespecting the 
 
 ### 7.2 内 (Uchi) vs 外 (Soto) in Business
 
-```
-+----------------------------------------------------------+
-|       UCHI / SOTO DYNAMIC IN BUSINESS                    |
-+----------------------------------------------------------+
-|                                                          |
-|  When talking TO an outsider ABOUT your company:         |
-|  ┌───────────────────────────────────────────────┐       |
-|  │  YOUR company = UCHI (humble)                 │       |
-|  │  • 弊社 (へいしゃ) = our company (humble)      │       |
-|  │  • Drop titles for your own people            │       |
-|  │  • Use 謙譲語 for your company's actions       │       |
-|  │                                               │       |
-|  │  THEIR company = SOTO (respectful)            │       |
-|  │  • 御社 (おんしゃ) = your company (spoken)     │       |
-|  │  • 貴社 (きしゃ) = your company (written)      │       |
-|  │  • Use 尊敬語 for their actions                │       |
-|  └───────────────────────────────────────────────┘       |
-|                                                          |
-|  When talking TO your own superior:                      |
-|  ┌───────────────────────────────────────────────┐       |
-|  │  Use standard keigo (尊敬語/謙譲語)            │       |
-|  │  Address by title: ○○部長, ○○課長              │       |
-|  └───────────────────────────────────────────────┘       |
-+----------------------------------------------------------+
-```
+> **UCHI / SOTO DYNAMIC IN BUSINESS**
+>
+> **When talking TO an outsider ABOUT your company:**
+>
+> YOUR company = UCHI (humble)
+> - 弊社 (へいしゃ) = our company (humble)
+> - Drop titles for your own people
+> - Use 謙譲語 for your company's actions
+>
+> THEIR company = SOTO (respectful)
+> - 御社 (おんしゃ) = your company (spoken)
+> - 貴社 (きしゃ) = your company (written)
+> - Use 尊敬語 for their actions
+>
+> **When talking TO your own superior:**
+> - Use standard keigo (尊敬語/謙譲語)
+> - Address by title: ○○部長, ○○課長
 
 ### 7.3 報告・連絡・相談 (Horenso)
 
