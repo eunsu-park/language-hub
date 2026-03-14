@@ -27,24 +27,16 @@
 
 In English, word order tells you who does what: "The dog bites the man" vs. "The man bites the dog." In Latin, **case endings** on nouns serve this function. The ending of a noun tells you its role in the sentence, regardless of word order.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                The Six Latin Cases                                │
-│                                                                 │
-│   Case          Function               Korean Parallel          │
-│   ──────────    ─────────────────────   ─────────────           │
-│   Nominative    Subject                 이/가                    │
-│   Genitive      Possession ("of")       의                       │
-│   Dative        Indirect object ("to")  에게/한테                │
-│   Accusative    Direct object           을/를                    │
-│   Ablative      Various ("by/with/in")  으로/에서                │
-│   Vocative      Direct address          아/야                    │
-│                                                                 │
-│   ※ The parallel to Korean particles (조사) is remarkably       │
-│     close. Both languages use endings/particles instead of      │
-│     relying on word order alone.                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Six Latin Cases**
+>
+> - **Nominative**: Subject (Korean: 이/가)
+> - **Genitive**: Possession, "of" (Korean: 의)
+> - **Dative**: Indirect object, "to" (Korean: 에게/한테)
+> - **Accusative**: Direct object (Korean: 을/를)
+> - **Ablative**: Various, "by/with/in" (Korean: 으로/에서)
+> - **Vocative**: Direct address (Korean: 아/야)
+>
+> ※ The parallel to Korean particles (조사) is remarkably close. Both languages use endings/particles instead of relying on word order alone.
 
 ### 1.2 Case Functions in Detail
 
@@ -86,32 +78,28 @@ Every noun form has both a case AND a number (singular or plural). This means ea
 
 Latin has three grammatical genders: **masculine**, **feminine**, and **neuter**.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Latin Grammatical Gender                         │
-│                                                                 │
-│   Masculine (M):  servus (slave), amīcus (friend), puer (boy)  │
-│   Feminine (F):   puella (girl), rosa (rose), terra (earth)     │
-│   Neuter (N):     bellum (war), dōnum (gift), templum (temple)  │
-│                                                                 │
-│   Gender is partly semantic, partly arbitrary:                   │
-│                                                                 │
-│   Semantic (logical):                                           │
-│     Male beings → masculine: vir (man), fīlius (son)            │
-│     Female beings → feminine: fēmina (woman), fīlia (daughter)  │
-│                                                                 │
-│   Arbitrary (grammatical):                                      │
-│     Why is mūrus (wall) masculine?                              │
-│     Why is via (road) feminine?                                 │
-│     Why is bellum (war) neuter?                                 │
-│     → No logical reason; you must memorize the gender.          │
-│                                                                 │
-│   The DECLENSION helps predict gender:                          │
-│     1st Declension (-a) → mostly feminine                       │
-│     2nd Declension (-us, -er) → mostly masculine                │
-│     2nd Declension (-um) → always neuter                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Grammatical Gender**
+>
+> - **Masculine (M)**: servus (slave), amīcus (friend), puer (boy)
+> - **Feminine (F)**: puella (girl), rosa (rose), terra (earth)
+> - **Neuter (N)**: bellum (war), dōnum (gift), templum (temple)
+>
+> Gender is partly semantic, partly arbitrary:
+>
+> Semantic (logical):
+> - Male beings → masculine: vir (man), fīlius (son)
+> - Female beings → feminine: fēmina (woman), fīlia (daughter)
+>
+> Arbitrary (grammatical):
+> - Why is mūrus (wall) masculine?
+> - Why is via (road) feminine?
+> - Why is bellum (war) neuter?
+> - → No logical reason; you must memorize the gender.
+>
+> The DECLENSION helps predict gender:
+> - 1st Declension (-a) → mostly feminine
+> - 2nd Declension (-us, -er) → mostly masculine
+> - 2nd Declension (-um) → always neuter
 
 ### 2.2 Why Gender Matters
 
@@ -149,24 +137,21 @@ Dictionary entry: puella, -ae, f. (girl)
 | Ablative | puell**ā** | puell**īs** | "by/with/from/in" |
 | Vocative | puell**a** | puell**ae** | Direct address |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          First Declension Endings (memorize these!)              │
-│                                                                 │
-│              Singular    Plural                                  │
-│   Nom.        -a          -ae                                   │
-│   Gen.        -ae         -ārum                                 │
-│   Dat.        -ae         -īs                                   │
-│   Acc.        -am         -ās                                   │
-│   Abl.        -ā          -īs                                   │
-│   Voc.        -a          -ae                                   │
-│                                                                 │
-│   ※ Nom. sg. and Voc. sg. are identical (-a)                   │
-│   ※ Gen. sg., Dat. sg., Nom. pl., and Voc. pl. are all -ae    │
-│   ※ Dat. pl. and Abl. pl. are identical (-īs)                  │
-│   ※ Abl. sg. (-ā) has a LONG vowel (distinguishes from nom.)  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **First Declension Endings (memorize these!)**
+>
+> | | Singular | Plural |
+> |---|---|---|
+> | Nom. | -a | -ae |
+> | Gen. | -ae | -ārum |
+> | Dat. | -ae | -īs |
+> | Acc. | -am | -ās |
+> | Abl. | -ā | -īs |
+> | Voc. | -a | -ae |
+>
+> ※ Nom. sg. and Voc. sg. are identical (-a)
+> ※ Gen. sg., Dat. sg., Nom. pl., and Voc. pl. are all -ae
+> ※ Dat. pl. and Abl. pl. are identical (-īs)
+> ※ Abl. sg. (-ā) has a LONG vowel (distinguishes from nom.)
 
 ### 3.3 Common First Declension Nouns
 
@@ -251,26 +236,22 @@ Full paradigm: **amīcus, -ī, m.** (friend)
 | Ablative | amīc**ō** | amīc**īs** | "by/with/from/in" |
 | Vocative | amīc**e** | amīc**ī** | Direct address |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        Second Declension -us Endings (memorize these!)           │
-│                                                                 │
-│              Singular    Plural                                  │
-│   Nom.        -us         -ī                                    │
-│   Gen.        -ī          -ōrum                                 │
-│   Dat.        -ō          -īs                                   │
-│   Acc.        -um         -ōs                                   │
-│   Abl.        -ō          -īs                                   │
-│   Voc.        -e          -ī                                    │
-│                                                                 │
-│   ※ Gen. sg., Nom. pl., and Voc. pl. are all -ī                │
-│   ※ Dat. sg. and Abl. sg. are identical (-ō)                   │
-│   ※ Dat. pl. and Abl. pl. are identical (-īs)                  │
-│   ※ Voc. sg. is -e (unique among declensions!)                  │
-│   ※ Special: nouns in -ius have Voc. sg. in -ī:                │
-│     fīlius → fīlī (O son!)                                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Second Declension -us Endings (memorize these!)**
+>
+> | | Singular | Plural |
+> |---|---|---|
+> | Nom. | -us | -ī |
+> | Gen. | -ī | -ōrum |
+> | Dat. | -ō | -īs |
+> | Acc. | -um | -ōs |
+> | Abl. | -ō | -īs |
+> | Voc. | -e | -ī |
+>
+> ※ Gen. sg., Nom. pl., and Voc. pl. are all -ī
+> ※ Dat. sg. and Abl. sg. are identical (-ō)
+> ※ Dat. pl. and Abl. pl. are identical (-īs)
+> ※ Voc. sg. is -e (unique among declensions!)
+> ※ Special: nouns in -ius have Voc. sg. in -ī: fīlius → fīlī (O son!)
 
 ### 4.3 Type 2: -er Nouns
 
@@ -298,25 +279,17 @@ Some 2nd declension masculine nouns end in **-er** in the nominative. There are 
 | Abl. | agr**ō** | agr**īs** |
 | Voc. | ag**er** | agr**ī** |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   How to tell which -er subtype? Check the GENITIVE SINGULAR.   │
-│                                                                 │
-│   puer, puerī → stem = puer- (keeps -e-)                       │
-│   ager, agrī  → stem = agr-  (drops -e-)                       │
-│                                                                 │
-│   The genitive singular (the second form in a dictionary        │
-│   entry) reveals the true stem. Always learn nouns with         │
-│   their genitive!                                               │
-│                                                                 │
-│   Keeps -e-:  puer (boy), socer (father-in-law),               │
-│               līber (free — as adjective), vir* (man)           │
-│   Drops -e-:  ager (field), liber (book), magister (teacher),   │
-│               minister (servant)                                │
-│                                                                 │
-│   *vir, virī is slightly irregular (2nd decl., not -er type)   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **How to tell which -er subtype? Check the GENITIVE SINGULAR.**
+>
+> - puer, puerī → stem = puer- (keeps -e-)
+> - ager, agrī → stem = agr- (drops -e-)
+>
+> The genitive singular (the second form in a dictionary entry) reveals the true stem. Always learn nouns with their genitive!
+>
+> - **Keeps -e-**: puer (boy), socer (father-in-law), līber (free — as adjective), vir\* (man)
+> - **Drops -e-**: ager (field), liber (book), magister (teacher), minister (servant)
+>
+> \*vir, virī is slightly irregular (2nd decl., not -er type)
 
 ### 4.4 Common Second Declension Masculine Nouns
 
@@ -360,29 +333,26 @@ Second Declension neuter nouns end in **-um** in the nominative singular. They f
 | Ablative | bell**ō** | bell**īs** | "by/with/from/in" |
 | Vocative | bell**um** | bell**a** | Direct address |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          The NEUTER RULE (applies to ALL declensions!)            │
-│                                                                 │
-│   In ALL neuter nouns, across ALL five declensions:             │
-│                                                                 │
-│   1. Nominative = Accusative = Vocative (always identical)      │
-│      Singular: -um = -um = -um                                  │
-│      Plural:   -a  = -a  = -a                                   │
-│                                                                 │
-│   2. Nominative/Accusative PLURAL always ends in -a             │
-│                                                                 │
-│   This is one of the most reliable rules in Latin grammar.      │
-│   Memorize it now — it will save you many times.                │
-│                                                                 │
-│   Compare masculine vs neuter:                                  │
-│               Masculine (-us)    Neuter (-um)                   │
-│   Nom. sg.    amīcus             bellum                         │
-│   Acc. sg.    amīcum             bellum      ← same as nom.    │
-│   Nom. pl.    amīcī              bella       ← ends in -a      │
-│   Acc. pl.    amīcōs             bella       ← same as nom.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The NEUTER RULE (applies to ALL declensions!)**
+>
+> In ALL neuter nouns, across ALL five declensions:
+>
+> 1. Nominative = Accusative = Vocative (always identical)
+>    - Singular: -um = -um = -um
+>    - Plural: -a = -a = -a
+>
+> 2. Nominative/Accusative PLURAL always ends in -a
+>
+> This is one of the most reliable rules in Latin grammar. Memorize it now — it will save you many times.
+>
+> Compare masculine vs neuter:
+>
+> | | Masculine (-us) | Neuter (-um) |
+> |---|---|---|
+> | Nom. sg. | amīcus | bellum |
+> | Acc. sg. | amīcum | bellum (same as nom.) |
+> | Nom. pl. | amīcī | bella (ends in -a) |
+> | Acc. pl. | amīcōs | bella (same as nom.) |
 
 ### 5.3 Common Second Declension Neuter Nouns
 
@@ -410,37 +380,33 @@ Second Declension neuter nouns end in **-um** in the nominative singular. They f
 
 ### 6.1 Complete Function Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Case Functions — Summary with Examples                  │
-│                                                                 │
-│   NOMINATIVE — Subject / Predicate Nominative                    │
-│     Puella cantat.          The girl sings.                      │
-│     Puella est poēta.       The girl is a poet.                 │
-│                                                                 │
-│   GENITIVE — Possession / "of" / Partitive                      │
-│     Fīlia agricolae         The daughter of the farmer           │
-│     Magna pars populī       A great part of the people          │
-│                                                                 │
-│   DATIVE — Indirect Object / "to, for"                          │
-│     Puerō librum dat.       He gives a book to the boy.         │
-│     Patriae labōrat.        He works for the country.           │
-│                                                                 │
-│   ACCUSATIVE — Direct Object / Motion Toward                    │
-│     Puellam videt.          He sees the girl.                   │
-│     Ad Italiam nāvigat.     He sails to Italy.                 │
-│                                                                 │
-│   ABLATIVE — Means / Manner / Accompaniment / Place / Time      │
-│     Gladiō pugnat.          He fights with a sword. (means)    │
-│     Cum amīcō ambulat.     He walks with a friend. (accomp.)  │
-│     In Italiā habitat.      He lives in Italy. (place)         │
-│     Prīmō annō             In the first year (time)           │
-│                                                                 │
-│   VOCATIVE — Direct Address                                     │
-│     Mārce, venī!            Marcus, come!                       │
-│     Ō amīcī, audīte!       O friends, listen!                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Case Functions — Summary with Examples**
+>
+> **NOMINATIVE** — Subject / Predicate Nominative
+> - Puella cantat. — The girl sings.
+> - Puella est poēta. — The girl is a poet.
+>
+> **GENITIVE** — Possession / "of" / Partitive
+> - Fīlia agricolae — The daughter of the farmer
+> - Magna pars populī — A great part of the people
+>
+> **DATIVE** — Indirect Object / "to, for"
+> - Puerō librum dat. — He gives a book to the boy.
+> - Patriae labōrat. — He works for the country.
+>
+> **ACCUSATIVE** — Direct Object / Motion Toward
+> - Puellam videt. — He sees the girl.
+> - Ad Italiam nāvigat. — He sails to Italy.
+>
+> **ABLATIVE** — Means / Manner / Accompaniment / Place / Time
+> - Gladiō pugnat. — He fights with a sword. (means)
+> - Cum amīcō ambulat. — He walks with a friend. (accomp.)
+> - In Italiā habitat. — He lives in Italy. (place)
+> - Prīmō annō — In the first year (time)
+>
+> **VOCATIVE** — Direct Address
+> - Mārce, venī! — Marcus, come!
+> - Ō amīcī, audīte! — O friends, listen!
 
 ### 6.2 Prepositions with Cases
 
@@ -812,35 +778,35 @@ For each underlined noun, name its case and explain its grammatical function.
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          First and Second Declension Quick Reference              │
-│                                                                 │
-│   1ST DECLENSION (-a stems, mostly feminine):                    │
-│              Sg.     Pl.                                        │
-│   Nom.       -a      -ae         Gen.  -ae     -ārum           │
-│   Dat.       -ae     -īs         Acc.  -am     -ās             │
-│   Abl.       -ā      -īs         Voc.  -a      -ae             │
-│                                                                 │
-│   2ND DECLENSION MASC (-us / -er):                              │
-│              Sg.     Pl.                                        │
-│   Nom.       -us     -ī          Gen.  -ī      -ōrum           │
-│   Dat.       -ō      -īs         Acc.  -um     -ōs             │
-│   Abl.       -ō      -īs         Voc.  -e      -ī              │
-│                                                                 │
-│   2ND DECLENSION NEUTER (-um):                                   │
-│              Sg.     Pl.                                        │
-│   Nom.       -um     -a          Gen.  -ī      -ōrum           │
-│   Dat.       -ō      -īs         Acc.  -um     -a              │
-│   Abl.       -ō      -īs         Voc.  -um     -a              │
-│                                                                 │
-│   NEUTER RULE: Nom. = Acc. = Voc. (always!)                     │
-│                Plural Nom./Acc./Voc. always end in -a           │
-│                                                                 │
-│   SIX CASES: Nom. (subject), Gen. (of), Dat. (to/for),         │
-│              Acc. (object), Abl. (by/with/in), Voc. (address)  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **First and Second Declension Quick Reference**
+>
+> **1ST DECLENSION** (-a stems, mostly feminine):
+>
+> | | Sg. | Pl. | | Sg. | Pl. |
+> |---|---|---|---|---|---|
+> | Nom. | -a | -ae | Gen. | -ae | -ārum |
+> | Dat. | -ae | -īs | Acc. | -am | -ās |
+> | Abl. | -ā | -īs | Voc. | -a | -ae |
+>
+> **2ND DECLENSION MASC** (-us / -er):
+>
+> | | Sg. | Pl. | | Sg. | Pl. |
+> |---|---|---|---|---|---|
+> | Nom. | -us | -ī | Gen. | -ī | -ōrum |
+> | Dat. | -ō | -īs | Acc. | -um | -ōs |
+> | Abl. | -ō | -īs | Voc. | -e | -ī |
+>
+> **2ND DECLENSION NEUTER** (-um):
+>
+> | | Sg. | Pl. | | Sg. | Pl. |
+> |---|---|---|---|---|---|
+> | Nom. | -um | -a | Gen. | -ī | -ōrum |
+> | Dat. | -ō | -īs | Acc. | -um | -a |
+> | Abl. | -ō | -īs | Voc. | -um | -a |
+>
+> **NEUTER RULE**: Nom. = Acc. = Voc. (always!) / Plural Nom./Acc./Voc. always end in -a
+>
+> **SIX CASES**: Nom. (subject), Gen. (of), Dat. (to/for), Acc. (object), Abl. (by/with/in), Voc. (address)
 
 ---
 
