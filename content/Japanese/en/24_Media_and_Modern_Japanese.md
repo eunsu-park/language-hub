@@ -308,26 +308,21 @@ Some words have dramatically changed meaning in youth usage:
 
 ### 5.2 Online Community Culture
 
-```
-+----------------------------------------------------------+
-|       JAPANESE INTERNET CULTURE LANDMARKS                |
-+----------------------------------------------------------+
-|                                                          |
-|  2ちゃんねる / 5ちゃんねる (Anonymous forums)             |
-|  ├── Enormous influence on Japanese net culture           |
-|  ├── Created the anonymous posting culture                |
-|  ├── Origin of many internet memes and slang             |
-|  └── Board categories: ニュー速, VIP, なんJ              |
-|                                                          |
-|  ニコニコ動画 (Video sharing)                             |
-|  ├── Comments scroll across the video (弾幕 / danmaku)   |
-|  ├── Birthplace of Vocaloid culture                      |
-|  └── Live streaming culture (生放送)                     |
-|                                                          |
-|  Note: Japan's internet culture tends toward anonymity,  |
-|  unlike Western social media's emphasis on real identity. |
-+----------------------------------------------------------+
-```
+> **JAPANESE INTERNET CULTURE LANDMARKS**
+>
+> 2ちゃんねる / 5ちゃんねる (Anonymous forums)
+> - Enormous influence on Japanese net culture
+> - Created the anonymous posting culture
+> - Origin of many internet memes and slang
+> - **Board categories**: ニュー速, VIP, なんJ
+>
+> ニコニコ動画 (Video sharing)
+> - Comments scroll across the video (弾幕 / danmaku)
+> - Birthplace of Vocaloid culture
+> - Live streaming culture (生放送)
+>
+> - **Note**: Japan's internet culture tends toward anonymity,
+> unlike Western social media's emphasis on real identity.
 
 ### 5.3 Viral Content Types
 
