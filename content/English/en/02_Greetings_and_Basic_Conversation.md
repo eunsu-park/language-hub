@@ -26,27 +26,21 @@
 
 ### 1.1 Basic Greetings
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    English Greetings                             │
-│                                                                 │
-│   Formal / Neutral:                                             │
-│   "Hello."             /həˈloʊ/       안녕하세요                  │
-│   "Good morning."      /gʊd ˈmɔːrnɪŋ/ 좋은 아침이에요             │
-│   "Good afternoon."    /gʊd æftərˈnuːn/ 좋은 오후예요             │
-│   "Good evening."      /gʊd ˈiːvnɪŋ/  좋은 저녁이에요             │
-│                                                                 │
-│   Informal / Casual:                                            │
-│   "Hi."                /haɪ/          안녕                       │
-│   "Hey."               /heɪ/          야, 안녕                   │
-│   "Hey there."         /heɪ ðer/      안녕                       │
-│   "What's up?"         /wɒts ʌp/      뭐 해? / 별일 없어?         │
-│   "How's it going?"    /haʊz ɪt goʊɪŋ/ 잘 지내?                 │
-│                                                                 │
-│   ※ "Good night" is a FAREWELL, not a greeting!                │
-│     You say it when LEAVING, not when arriving.                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Greetings**
+>
+> Formal / Neutral:
+> "Hello."             /həˈloʊ/       안녕하세요
+> "Good morning."      /gʊd ˈmɔːrnɪŋ/ 좋은 아침이에요
+> "Good afternoon."    /gʊd æftərˈnuːn/ 좋은 오후예요
+> "Good evening."      /gʊd ˈiːvnɪŋ/  좋은 저녁이에요
+> Informal / Casual:
+> "Hi."                /haɪ/          안녕
+> "Hey."               /heɪ/          야, 안녕
+> "Hey there."         /heɪ ðer/      안녕
+> "What's up?"         /wɒts ʌp/      뭐 해? / 별일 없어?
+> "How's it going?"    /haʊz ɪt goʊɪŋ/ 잘 지내?
+> ※ "Good night" is a FAREWELL, not a greeting!
+> You say it when LEAVING, not when arriving.
 
 ### 1.2 "How are you?" and Responses
 
@@ -139,30 +133,22 @@ Informal:
 
 ### 3.3 Name Conventions
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean vs English Name Order                                   │
-│                                                                 │
-│   Korean: 성 + 이름 (Family name first)                          │
-│   김민준 = Kim (성) + Minjun (이름)                               │
-│                                                                 │
-│   English: First name + Last name (Given name first)            │
-│   John Smith = John (first/given) + Smith (last/family)         │
-│                                                                 │
-│   In English contexts, use Western order:                       │
-│   "My name is Minjun Kim." (given name first)                   │
-│                                                                 │
-│   Forms of address:                                             │
-│   Mr. Kim (남성 + 성)          Mr. + last name                   │
-│   Ms. Park (여성 + 성)         Ms. + last name (marital neutral) │
-│   Mrs. Lee (기혼 여성 + 성)    Mrs. + last name (married)        │
-│   Dr. Choi (박사/의사 + 성)    Dr. + last name                   │
-│                                                                 │
-│   ※ In casual settings, Americans use FIRST names quickly.     │
-│     "Call me John." = You can use my first name.                │
-│     This is NOT rude — it's normal in English culture.          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Korean vs English Name Order**
+>
+> Korean: 성 + 이름 (Family name first)
+> 김민준 = Kim (성) + Minjun (이름)
+> English: First name + Last name (Given name first)
+> John Smith = John (first/given) + Smith (last/family)
+> In English contexts, use Western order:
+> "My name is Minjun Kim." (given name first)
+> Forms of address:
+> Mr. Kim (남성 + 성)          Mr. + last name
+> Ms. Park (여성 + 성)         Ms. + last name (marital neutral)
+> Mrs. Lee (기혼 여성 + 성)    Mrs. + last name (married)
+> Dr. Choi (박사/의사 + 성)    Dr. + last name
+> ※ In casual settings, Americans use FIRST names quickly.
+> "Call me John." = You can use my first name.
+> This is NOT rude — it's normal in English culture.
 
 ---
 
@@ -170,26 +156,20 @@ Informal:
 
 ### 4.1 The 7 Subject Pronouns
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              English Subject Pronouns                            │
-│                                                                 │
-│   Singular:                                                     │
-│   I     /aɪ/     나, 저           (1st person)                   │
-│   you   /juː/    너, 당신, 여러분  (2nd person)                   │
-│   he    /hiː/    그 (남성)        (3rd person, male)             │
-│   she   /ʃiː/    그녀 (여성)      (3rd person, female)           │
-│   it    /ɪt/     그것             (3rd person, thing/animal)     │
-│                                                                 │
-│   Plural:                                                       │
-│   we    /wiː/    우리             (1st person plural)            │
-│   they  /ðeɪ/    그들, 그것들      (3rd person plural)            │
-│                                                                 │
-│   ※ "you" = both singular AND plural (same word!)              │
-│   ※ "you" = both formal AND informal (same word!)              │
-│   ※ "I" is ALWAYS capitalized, even in the middle of a sentence│
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Subject Pronouns**
+>
+> Singular:
+> I     /aɪ/     나, 저           (1st person)
+> you   /juː/    너, 당신, 여러분  (2nd person)
+> he    /hiː/    그 (남성)        (3rd person, male)
+> she   /ʃiː/    그녀 (여성)      (3rd person, female)
+> it    /ɪt/     그것             (3rd person, thing/animal)
+> Plural:
+> we    /wiː/    우리             (1st person plural)
+> they  /ðeɪ/    그들, 그것들      (3rd person plural)
+> ※ "you" = both singular AND plural (same word!)
+> ※ "you" = both formal AND informal (same word!)
+> ※ "I" is ALWAYS capitalized, even in the middle of a sentence
 
 ### 4.2 Critical Differences from Korean
 
@@ -232,25 +212,19 @@ You and Sarah are tall.  → You are tall. (still "you" for plural)
 
 ### 5.1 Conjugation
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              The BE Verb — Present Tense                         │
-│                                                                 │
-│   I          am      (I'm)        나는 ~이다                     │
-│   you        are     (you're)     너는/당신은 ~이다               │
-│   he/she/it  is      (he's/she's/it's)  그/그녀/그것은 ~이다      │
-│   we         are     (we're)      우리는 ~이다                   │
-│   they       are     (they're)    그들은 ~이다                   │
-│                                                                 │
-│   Full form:  I am a student.    (formal/written)               │
-│   Contracted: I'm a student.     (spoken/informal)              │
-│                                                                 │
-│   ※ Korean "이다" is a particle attached to the noun.           │
-│     English "be" is a separate word BEFORE the complement.      │
-│     Korean: 학생이다 (student + is)                               │
-│     English: am a student (is + a + student)                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The BE Verb — Present Tense**
+>
+> I          am      (I'm)        나는 ~이다
+> you        are     (you're)     너는/당신은 ~이다
+> he/she/it  is      (he's/she's/it's)  그/그녀/그것은 ~이다
+> we         are     (we're)      우리는 ~이다
+> they       are     (they're)    그들은 ~이다
+> Full form:  I am a student.    (formal/written)
+> Contracted: I'm a student.     (spoken/informal)
+> ※ Korean "이다" is a particle attached to the noun.
+> English "be" is a separate word BEFORE the complement.
+> Korean: 학생이다 (student + is)
+> English: am a student (is + a + student)
 
 ### 5.2 Uses of BE
 
@@ -322,22 +296,16 @@ Are they ready?      → Yes, they are. / No, they aren't.
 
 ### 6.1 English Sentence Structure
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean: SOV (Subject + Object + Verb)                         │
-│   나는    사과를    먹는다.                                       │
-│   I      apple    eat                                           │
-│                                                                 │
-│   English: SVO (Subject + Verb + Object)                        │
-│   I       eat     an apple.                                     │
-│   주어     동사     목적어                                        │
-│                                                                 │
-│   ※ The verb comes BEFORE the object in English!               │
-│     This is the OPPOSITE of Korean word order.                  │
-│     Korean: 나는 영어를 공부한다                                   │
-│     English: I study English (NOT "I English study")            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean: SOV (Subject + Object + Verb)
+> 나는    사과를    먹는다.
+> I      apple    eat
+> English: SVO (Subject + Verb + Object)
+> I       eat     an apple.
+> 주어     동사     목적어
+> ※ The verb comes BEFORE the object in English!
+> This is the OPPOSITE of Korean word order.
+> Korean: 나는 영어를 공부한다
+> English: I study English (NOT "I English study")
 
 ### 6.2 Simple SVO Examples
 
@@ -418,28 +386,21 @@ Responding to thanks (응답):
 
 ### 8.1 Korean Has 7 Speech Levels — English Has ~2-3
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean Speech Levels (7단계):                                  │
-│   하십시오체, 해요체, 하오체, 하게체, 해체, 해라체, etc.              │
-│   → Verb endings change dramatically                            │
-│   → 먹다: 드십시오, 드세요, 먹어요, 먹어, 먹어라...                 │
-│                                                                 │
-│   English "Formality" (2-3 levels):                             │
-│   Formal:    "Could you please provide the document?"           │
-│   Neutral:   "Can you give me the document?"                    │
-│   Informal:  "Give me the document."                            │
-│                                                                 │
-│   ※ English does NOT change verb forms for politeness!          │
-│     "eat" is "eat" whether talking to a child or a president.  │
-│     Politeness comes from: word choice, "please/could/would",  │
-│     and tone of voice — NOT verb endings.                       │
-│                                                                 │
-│   This is LIBERATING for Korean speakers but also CONFUSING:    │
-│   You might sound "too casual" by forgetting "please/could"    │
-│   or "too formal" by being overly polite in casual situations.  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean Speech Levels (7단계):
+> 하십시오체, 해요체, 하오체, 하게체, 해체, 해라체, etc.
+> → Verb endings change dramatically
+> → 먹다: 드십시오, 드세요, 먹어요, 먹어, 먹어라...
+> English "Formality" (2-3 levels):
+> Formal:    "Could you please provide the document?"
+> Neutral:   "Can you give me the document?"
+> Informal:  "Give me the document."
+> ※ English does NOT change verb forms for politeness!
+> "eat" is "eat" whether talking to a child or a president.
+> Politeness comes from: word choice, "please/could/would",
+> and tone of voice — NOT verb endings.
+> This is LIBERATING for Korean speakers but also CONFUSING:
+> You might sound "too casual" by forgetting "please/could"
+> or "too formal" by being overly polite in casual situations.
 
 ### 8.2 How English Shows Politeness
 
@@ -715,26 +676,18 @@ A: You too. See you later!
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Greetings & BE Verb Quick Guide                     │
-│                                                                 │
-│   Greetings: Hello / Hi / Good morning / Good afternoon         │
-│   Farewells: Goodbye / Bye / See you later / Good night         │
-│                                                                 │
-│   Subject pronouns: I / you / he / she / it / we / they         │
-│   ※ Subject is REQUIRED in English (unlike Korean)             │
-│                                                                 │
-│   BE verb: I am / you are / he·she·it is / we are / they are   │
-│   Negative: I'm not / isn't / aren't                            │
-│   Question: move BE before subject → Are you...? Is she...?    │
-│                                                                 │
-│   SVO order: I + eat + an apple  (NOT "I apple eat")            │
-│                                                                 │
-│   Politeness: "please", "could you", "would you mind"           │
-│   ※ English has NO verb-ending honorifics like Korean 존댓말    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Greetings & BE Verb Quick Guide**
+>
+> Greetings: Hello / Hi / Good morning / Good afternoon
+> Farewells: Goodbye / Bye / See you later / Good night
+> Subject pronouns: I / you / he / she / it / we / they
+> ※ Subject is REQUIRED in English (unlike Korean)
+> BE verb: I am / you are / he·she·it is / we are / they are
+> Negative: I'm not / isn't / aren't
+> Question: move BE before subject → Are you...? Is she...?
+> SVO order: I + eat + an apple  (NOT "I apple eat")
+> Politeness: "please", "could you", "would you mind"
+> ※ English has NO verb-ending honorifics like Korean 존댓말
 
 ---
 
