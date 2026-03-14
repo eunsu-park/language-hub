@@ -25,32 +25,22 @@
 
 ### 1.1 특별한 특성
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   조동사(Modal verbs)는 고유한 규칙을 가진 특별한 보조동사입니다:  │
-│                                                                 │
-│   1. 뒤에 동사 원형이 옴 ("to" 없이):                            │
-│      "She can swim." ✓     "She can to swim." ✗                │
-│      "He must go." ✓       "He must to go." ✗                  │
-│                                                                 │
-│   2. 3인칭 단수에도 -s가 붙지 않음:                               │
-│      "She can swim." ✓     "She cans swim." ✗                  │
-│      "He must go." ✓       "He musts go." ✗                    │
-│                                                                 │
-│   3. 의문문/부정문에서 do를 사용하지 않음:                         │
-│      "Can you swim?" ✓     "Do you can swim?" ✗                │
-│      "I can't swim." ✓     "I don't can swim." ✗               │
-│                                                                 │
-│   4. to부정사나 -ing 형태가 없음:                                 │
-│      "to can" ✗  "canning" ✗  "to must" ✗  "musting" ✗        │
-│                                                                 │
-│   9개 핵심 조동사:                                               │
-│   can, could, may, might, must, shall, should, will, would     │
-│                                                                 │
-│   준조동사(Semi-modals, 일부 규칙만 따름):                        │
-│   have to, need to, ought to, be able to, be going to          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 조동사(Modal verbs)는 고유한 규칙을 가진 특별한 보조동사입니다:
+> 1. 뒤에 동사 원형이 옴 ("to" 없이):
+> "She can swim." ✓     "She can to swim." ✗
+> "He must go." ✓       "He must to go." ✗
+> 2. 3인칭 단수에도 -s가 붙지 않음:
+> "She can swim." ✓     "She cans swim." ✗
+> "He must go." ✓       "He musts go." ✗
+> 3. 의문문/부정문에서 do를 사용하지 않음:
+> "Can you swim?" ✓     "Do you can swim?" ✗
+> "I can't swim." ✓     "I don't can swim." ✗
+> 4. to부정사나 -ing 형태가 없음:
+> "to can" ✗  "canning" ✗  "to must" ✗  "musting" ✗
+> 9개 핵심 조동사:
+> can, could, may, might, must, shall, should, will, would
+> 준조동사(Semi-modals, 일부 규칙만 따름):
+> have to, need to, ought to, be able to, be going to
 
 ### 1.2 한국어와의 비교
 
@@ -184,17 +174,14 @@ be able to = 모든 시제 (더 유연함)
 
 ### 3.3 확률 척도
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   100%  It will rain.           (확실)                          │
-│    95%  It must be raining.     (거의 확실한 추론)               │
-│    75%  It should rain.         (예상/기대)                     │
-│    50%  It may rain.            (반반 가능성)                   │
-│    30%  It might/could rain.    (약한 가능성)                   │
-│     0%  It can't/couldn't rain. (불가능)                        │
-│         It won't rain.          (확실히 아님)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **100%  It will rain.           (확실)**
+>
+> 95%  It must be raining.     (거의 확실한 추론)
+> 75%  It should rain.         (예상/기대)
+> 50%  It may rain.            (반반 가능성)
+> 30%  It might/could rain.    (약한 가능성)
+> 0%  It can't/couldn't rain. (불가능)
+> It won't rain.          (확실히 아님)
 
 ---
 
@@ -238,31 +225,23 @@ be able to = 모든 시제 (더 유연함)
 
 ### 4.3 must vs have to
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   must = 내적 의무 (화자의 권위/느낌)                             │
-│   "I must study harder."  (내가 스스로 그래야 한다고 느낌)        │
-│                                                                 │
-│   have to = 외적 의무 (규칙, 상황)                               │
-│   "I have to wear a uniform." (회사 규정 때문에)                 │
-│                                                                 │
-│   실제로 두 표현은 종종 호환 가능합니다.                           │
-│   하지만 부정형은 의미가 매우 다릅니다:                            │
-│                                                                 │
-│   must not (mustn't) = 금지 (금지 — 하면 안 된다!)              │
-│   "You mustn't steal."    훔치면 안 된다!                       │
-│   "You mustn't be late."  늦으면 안 된다!                       │
-│                                                                 │
-│   don't have to = 불필요 (불필요 — 안 해도 된다)                 │
-│   "You don't have to come." 안 와도 돼.                        │
-│   "She doesn't have to work today." 오늘 일 안 해도 돼.         │
-│                                                                 │
-│   ※ mustn't ≠ don't have to !!!                               │
-│     mustn't = 하지 마! (금지!)                                  │
-│     don't have to = 할 필요 없어 (선택 사항)                     │
-│     이 구별은 매우 중요합니다!                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **must = 내적 의무 (화자의 권위/느낌)**
+>
+> "I must study harder."  (내가 스스로 그래야 한다고 느낌)
+> have to = 외적 의무 (규칙, 상황)
+> "I have to wear a uniform." (회사 규정 때문에)
+> 실제로 두 표현은 종종 호환 가능합니다.
+> 하지만 부정형은 의미가 매우 다릅니다:
+> must not (mustn't) = 금지 (금지 — 하면 안 된다!)
+> "You mustn't steal."    훔치면 안 된다!
+> "You mustn't be late."  늦으면 안 된다!
+> don't have to = 불필요 (불필요 — 안 해도 된다)
+> "You don't have to come." 안 와도 돼.
+> "She doesn't have to work today." 오늘 일 안 해도 돼.
+> ※ mustn't ≠ don't have to !!!
+> mustn't = 하지 마! (금지!)
+> don't have to = 할 필요 없어 (선택 사항)
+> 이 구별은 매우 중요합니다!
 
 ---
 
@@ -421,19 +400,15 @@ be able to = 모든 시제 (더 유연함)
 
 ### 8.1 과거 조동사 개요
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   조동사 + have + 과거분사 = 과거에 대한 조동사 의미              │
-│                                                                 │
-│   must have + pp    = 과거 추론 (~했음에 틀림없다)               │
-│   may/might have + pp = 과거 가능성 (~했을 수도 있다)            │
-│   could have + pp   = 과거 가능성 / 미실현 가능성                │
-│   should have + pp  = 과거 후회 (~했어야 했는데)                 │
-│   would have + pp   = 과거 가정 (~했을 텐데)                    │
-│   can't have + pp   = 과거 불가능 (~했을 리가 없다)              │
-│   needn't have + pp = 불필요한 과거 행동 (~할 필요 없었는데 했다) │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **조동사 + have + 과거분사 = 과거에 대한 조동사 의미**
+>
+> must have + pp    = 과거 추론 (~했음에 틀림없다)
+> may/might have + pp = 과거 가능성 (~했을 수도 있다)
+> could have + pp   = 과거 가능성 / 미실현 가능성
+> should have + pp  = 과거 후회 (~했어야 했는데)
+> would have + pp   = 과거 가정 (~했을 텐데)
+> can't have + pp   = 과거 불가능 (~했을 리가 없다)
+> needn't have + pp = 불필요한 과거 행동 (~할 필요 없었는데 했다)
 
 ### 8.2 must have + 과거분사 (과거 확신 추론)
 
@@ -512,27 +487,23 @@ be able to = 모든 시제 (더 유연함)
 
 ## 9. 조동사 요약표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   기능        현재/미래                과거                       │
-│   ────────    ──────────────          ────                      │
-│   능력        can / be able to        could / was able to       │
-│   허락        can / may               could (과거 맥락)          │
-│   요청        can/could/would you?    —                         │
-│   가능성      may / might / could     may/might/could have + pp │
-│   추론        must (95%)              must have + pp            │
-│   불가능      can't (95% 아님)        can't/couldn't have + pp  │
-│   의무        must / have to          had to                    │
-│   금지        mustn't                 —                         │
-│   불필요      don't have to / needn't didn't have to /          │
-│                                       needn't have + pp         │
-│   조언        should / ought to       should have + pp (후회)    │
-│   경고        had better              —                         │
-│   제안        shall I? (영국 영어)     —                         │
-│   과거 습관   —                       would / used to           │
-│   가정        would                   would have + pp           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **기능        현재/미래                과거**
+>
+> 능력        can / be able to        could / was able to
+> 허락        can / may               could (과거 맥락)
+> 요청        can/could/would you?    —
+> 가능성      may / might / could     may/might/could have + pp
+> 추론        must (95%)              must have + pp
+> 불가능      can't (95% 아님)        can't/couldn't have + pp
+> 의무        must / have to          had to
+> 금지        mustn't                 —
+> 불필요      don't have to / needn't didn't have to /
+> needn't have + pp
+> 조언        should / ought to       should have + pp (후회)
+> 경고        had better              —
+> 제안        shall I? (영국 영어)     —
+> 과거 습관   —                       would / used to
+> 가정        would                   would have + pp
 
 ---
 
@@ -680,32 +651,26 @@ e. "I wonder if you could open the window."  (극히 공손/간접적)
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              조동사 빠른 가이드                                    │
-│                                                                 │
-│   능력:       can / could / be able to                         │
-│   허락:       can (비격식) / may (격식) / could (공손)           │
-│   의무:       must / have to                                   │
-│   금지:       mustn't (하지 마!)  ≠  don't have to (필요 없어)  │
-│   조언:       should / ought to / had better (더 강함)          │
-│   가능성:     may (50%) > might/could (30%)                    │
-│   추론:       must (95% 맞음) / can't (95% 아님)               │
-│   공손:       could you / would you / would you mind           │
-│                                                                 │
-│   과거 조동사 (modal + have + 과거분사):                         │
-│   must have + pp     = ~했음에 틀림없다                          │
-│   should have + pp   = ~했어야 했는데 (후회)                     │
-│   could have + pp    = ~할 수 있었는데 (안 했다)                 │
-│   might have + pp    = ~했을 수도 있다                           │
-│   would have + pp    = ~했을 텐데 (가정)                        │
-│   can't have + pp    = ~했을 리가 없다                          │
-│                                                                 │
-│   규칙: -s 없음 (he can ✓, he cans ✗)                          │
-│         조동사 뒤 원형 (can swim ✓, can to swim ✗)              │
-│         do 불필요 (can you? ✓, do you can? ✗)                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **조동사 빠른 가이드**
+>
+> 능력:       can / could / be able to
+> 허락:       can (비격식) / may (격식) / could (공손)
+> 의무:       must / have to
+> 금지:       mustn't (하지 마!)  ≠  don't have to (필요 없어)
+> 조언:       should / ought to / had better (더 강함)
+> 가능성:     may (50%) > might/could (30%)
+> 추론:       must (95% 맞음) / can't (95% 아님)
+> 공손:       could you / would you / would you mind
+> 과거 조동사 (modal + have + 과거분사):
+> must have + pp     = ~했음에 틀림없다
+> should have + pp   = ~했어야 했는데 (후회)
+> could have + pp    = ~할 수 있었는데 (안 했다)
+> might have + pp    = ~했을 수도 있다
+> would have + pp    = ~했을 텐데 (가정)
+> can't have + pp    = ~했을 리가 없다
+> 규칙: -s 없음 (he can ✓, he cans ✗)
+> 조동사 뒤 원형 (can swim ✓, can to swim ✗)
+> do 불필요 (can you? ✓, do you can? ✗)
 
 ---
 
