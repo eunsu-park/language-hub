@@ -30,28 +30,19 @@
 
 독일어에는 "you"를 말하는 두 가지 방식이 있으며 — 잘못 선택하면 심각한 사회적 실수가 될 수 있습니다. 이 구분은 영어보다 독일 문화에서 훨씬 더 중요합니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 du vs Sie — Choosing Correctly                   │
-│                                                                 │
-│   du (informal, lowercase)           Sie (formal, CAPITALIZED)  │
-│   ─────────────────────              ──────────────────────     │
-│   Friends                            Strangers (adults)         │
-│   Family members                     Colleagues (often)         │
-│   Children (among themselves)        Officials, police          │
-│   Fellow students                    Shopkeepers, waiters       │
-│   Close colleagues                   Professors, doctors        │
-│   Pets/animals                       Anyone you don't know well │
-│   God (in prayer)                    Elderly people             │
-│                                                                 │
-│   ※ When in doubt, ALWAYS use Sie. It is never offensive       │
-│     to be too formal. Being too informal can be rude.           │
-│                                                                 │
-│   ※ The shift from Sie to du is called "das Duzen."            │
-│     The older or higher-ranking person offers it first:         │
-│     "Wir können uns duzen." (We can use du with each other.)   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **du vs Sie — Choosing Correctly**
+>
+> du (informal, lowercase) / Sie (formal, CAPITALIZED)
+>
+> - **du**: Friends, Family members, Children (among themselves), Fellow students, Close colleagues, Pets/animals, God (in prayer)
+> - **Sie**: Strangers (adults), Colleagues (often), Officials/police, Shopkeepers/waiters, Professors/doctors, Anyone you don't know well, Elderly people
+>
+> When in doubt, ALWAYS use Sie. It is never offensive
+> to be too formal. Being too informal can be rude.
+>
+> The shift from Sie to du is called "das Duzen."
+> The older or higher-ranking person offers it first:
+> "Wir können uns duzen." (We can use du with each other.)
 
 ### 1.2 du와 Sie에 따른 동사 형태
 
@@ -267,29 +258,26 @@ Informal:
 
 ### 5.2 "Wie geht es Ihnen/dir?"에 대답하기
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Positive responses:                                           │
-│   Sehr gut, danke!          Very well, thank you!               │
-│   Gut, danke.               Good, thanks.                       │
-│   Mir geht es gut.          I'm doing well.                     │
-│   Prima!                    Great!                               │
-│   Super!                    Super!                               │
-│   Ausgezeichnet!            Excellent!                           │
-│                                                                 │
-│   Neutral responses:                                            │
-│   Es geht.                  It's okay. / So-so.                 │
-│   Ganz gut.                 Pretty good.                        │
-│   Nicht schlecht.            Not bad.                            │
-│                                                                 │
-│   Negative responses:                                           │
-│   Nicht so gut.             Not so good.                        │
-│   Schlecht.                 Bad.                                 │
-│   Es geht mir nicht gut.   I'm not doing well.                  │
-│                                                                 │
-│   Always add: Und Ihnen? (formal) / Und dir? (informal)        │
-│   = And you?                                                    │
-└─────────────────────────────────────────────────────────────────┘
+> **Positive responses:**
+> Sehr gut, danke! — Very well, thank you!
+> Gut, danke. — Good, thanks.
+> Mir geht es gut. — I'm doing well.
+> Prima! — Great!
+> Super! — Super!
+> Ausgezeichnet! — Excellent!
+>
+> **Neutral responses:**
+> Es geht. — It's okay. / So-so.
+> Ganz gut. — Pretty good.
+> Nicht schlecht. — Not bad.
+>
+> **Negative responses:**
+> Nicht so gut. — Not so good.
+> Schlecht. — Bad.
+> Es geht mir nicht gut. — I'm not doing well.
+>
+> Always add: Und Ihnen? (formal) / Und dir? (informal)
+> = And you?
 ```
 
 ### 5.3 예시 대화 — 격식체
