@@ -25,20 +25,14 @@
 
 Every Spanish noun has a grammatical gender: **masculine** or **feminine**. This is NOT about biological sex — even objects like "table" (la mesa, feminine) and "book" (el libro, masculine) have grammatical gender.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   English: "the book", "the table", "the house"                │
-│   (same article regardless of noun)                             │
-│                                                                 │
-│   Spanish: "el libro", "la mesa", "la casa"                    │
-│   (article changes to match noun gender)                        │
-│                                                                 │
-│   Why it matters:                                               │
-│   • Articles must agree: el libro / la mesa                     │
-│   • Adjectives must agree: libro nuevo / mesa nueva             │
-│   • Pronouns must agree: lo compré / la compré                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English**: "the book", "the table", "the house" (same article regardless of noun)
+>
+> **Spanish**: "el libro", "la mesa", "la casa" (article changes to match noun gender)
+>
+> Why it matters:
+> - Articles must agree: el libro / la mesa
+> - Adjectives must agree: libro nuevo / mesa nueva
+> - Pronouns must agree: lo compre / la compre
 
 > **For Korean speakers**: Korean nouns don't have grammatical gender (책, 탁자 are gender-neutral). In Spanish, you must memorize the gender of every noun along with its article. Always learn **el libro** not just "libro."
 
@@ -76,25 +70,16 @@ Typically feminine:
 
 ### 2.3 Important Exceptions
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Masculine words ending in -a (memorize these!):               │
-│   el día (day)        el mapa (map)       el problema (problem) │
-│   el programa          el sistema          el clima (climate)    │
-│   el tema (topic)      el idioma (language) el drama             │
-│   el planeta           el poema            el diploma            │
-│                                                                 │
-│   ※ Many -ma words from Greek are masculine                    │
-│                                                                 │
-│   Feminine words ending in -o (memorize these!):                │
-│   la mano (hand)      la foto (photo)     la moto (motorcycle)  │
-│   la radio (radio)                                              │
-│                                                                 │
-│   Gender-neutral (same form, article changes):                  │
-│   el/la estudiante    el/la artista       el/la turista         │
-│   el/la periodista    el/la pianista      el/la dentista        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Masculine words ending in -a** (memorize these!):
+> el dia (day), el mapa (map), el problema (problem), el programa, el sistema, el clima (climate), el tema (topic), el idioma (language), el drama, el planeta, el poema, el diploma
+>
+> ※ Many -ma words from Greek are masculine
+>
+> **Feminine words ending in -o** (memorize these!):
+> la mano (hand), la foto (photo), la moto (motorcycle), la radio (radio)
+>
+> **Gender-neutral** (same form, article changes):
+> el/la estudiante, el/la artista, el/la turista, el/la periodista, el/la pianista, el/la dentista
 
 ---
 
@@ -192,23 +177,17 @@ After tener in negation:
 
 ### 5.1 Three Rules
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Rule 1: Ends in vowel → add -s                               │
-│   libro → libros        casa → casas       estudiante → estudiantes │
-│                                                                 │
-│   Rule 2: Ends in consonant → add -es                           │
-│   papel → papeles       ciudad → ciudades   profesor → profesores │
-│                                                                 │
-│   Rule 3: Ends in -z → change z to c, add -es                  │
-│   lápiz → lápices       vez → veces         pez → peces         │
-│                                                                 │
-│   Special cases:                                                │
-│   Words ending in -s (unstressed) → no change                   │
-│   el lunes → los lunes     la crisis → las crisis               │
-│   el paraguas → los paraguas                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Rule 1**: Ends in vowel → add -s
+> libro → libros, casa → casas, estudiante → estudiantes
+>
+> **Rule 2**: Ends in consonant → add -es
+> papel → papeles, ciudad → ciudades, profesor → profesores
+>
+> **Rule 3**: Ends in -z → change z to c, add -es
+> lapiz → lapices, vez → veces, pez → peces
+>
+> **Special cases**: Words ending in -s (unstressed) → no change
+> el lunes → los lunes, la crisis → las crisis, el paraguas → los paraguas
 
 ---
 
@@ -413,24 +392,13 @@ Create sentences using the nouns and articles learned.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ARTICLES          Masculine    Feminine                       │
-│   Definite (the)    el / los     la / las                       │
-│   Indefinite (a)    un / unos    una / unas                     │
-│                                                                 │
-│   GENDER CLUES                                                  │
-│   Masculine: -o, -or, -aje, Greek -ma                           │
-│   Feminine:  -a, -ción, -sión, -dad, -tad, -ez, -eza           │
-│   Exceptions: el día, el mapa, la mano, la foto                │
-│                                                                 │
-│   PLURALS                                                       │
-│   Vowel → +s    Consonant → +es    -z → -ces                   │
-│                                                                 │
-│   CONTRACTIONS                                                  │
-│   a + el = al          de + el = del                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ARTICLES** — Masculine: el / los (definite), un / unos (indefinite) — Feminine: la / las (definite), una / unas (indefinite)
+>
+> **GENDER CLUES** — Masculine: -o, -or, -aje, Greek -ma — Feminine: -a, -cion, -sion, -dad, -tad, -ez, -eza — Exceptions: el dia, el mapa, la mano, la foto
+>
+> **PLURALS** — Vowel → +s, Consonant → +es, -z → -ces
+>
+> **CONTRACTIONS** — a + el = al, de + el = del
 
 ---
 
