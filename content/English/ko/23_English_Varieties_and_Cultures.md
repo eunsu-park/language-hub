@@ -26,29 +26,23 @@
 
 ### 1.1 세계 언어로서의 영어
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    세계의 영어                                    │
-│                                                                 │
-│   원어민 화자:      ~4억 명                                       │
-│   제2언어 화자:     ~7억 5천만 명                                  │
-│   제3언어+ 화자:    ~6억 명                                       │
-│   합계:            전 세계 ~17억 5천만 명의 화자                     │
-│                                                                 │
-│   공식 언어:       ~60개국                                        │
-│   UN 공식 언어:    예 (6개 중 하나)                                │
-│                                                                 │
-│   주요 변종:                                                     │
-│   • 미국 영어 (AmE) — ~3억 3천만 명                               │
-│   • 영국 영어 (BrE) — ~6,700만 명                                 │
-│   • 호주 영어 (AuE) — ~2,600만 명                                 │
-│   • 캐나다 영어 (CaE) — ~3,800만 명                               │
-│   • 인도 영어 (InE) — ~1억 2,500만 명 (L2)                        │
-│   • 남아공 영어 — ~500만 명                                       │
-│   • 필리핀 영어 — ~7,000만 명 (L2)                                │
-│   • 나이지리아 영어 — ~8,000만 명 (L2)                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **세계의 영어**
+>
+> 원어민 화자:      ~4억 명
+> 제2언어 화자:     ~7억 5천만 명
+> 제3언어+ 화자:    ~6억 명
+> 합계:            전 세계 ~17억 5천만 명의 화자
+> 공식 언어:       ~60개국
+> UN 공식 언어:    예 (6개 중 하나)
+> 주요 변종:
+> • 미국 영어 (AmE) — ~3억 3천만 명
+> • 영국 영어 (BrE) — ~6,700만 명
+> • 호주 영어 (AuE) — ~2,600만 명
+> • 캐나다 영어 (CaE) — ~3,800만 명
+> • 인도 영어 (InE) — ~1억 2,500만 명 (L2)
+> • 남아공 영어 — ~500만 명
+> • 필리핀 영어 — ~7,000만 명 (L2)
+> • 나이지리아 영어 — ~8,000만 명 (L2)
 
 ### 1.2 "올바른" 영어는 없다
 
@@ -74,53 +68,51 @@
 
 ### 2.1 체계적 차이
 
-```
-┌────────────┬──────────────────┬──────────────────┐
-│ 패턴       │ 미국식 (AmE)     │ 영국식 (BrE)     │
-├────────────┼──────────────────┼──────────────────┤
-│ -or / -our │ color            │ colour           │
-│            │ honor            │ honour           │
-│            │ favor            │ favour           │
-│            │ neighbor         │ neighbour        │
-│            │ labor            │ labour           │
-│            │ behavior         │ behaviour        │
-├────────────┼──────────────────┼──────────────────┤
-│ -ize / -ise│ organize         │ organise*        │
-│            │ realize          │ realise*         │
-│            │ recognize        │ recognise*       │
-│            │ apologize        │ apologise*       │
-│            │ *참고: -ize도 BrE에서 허용됨         │
-├────────────┼──────────────────┼──────────────────┤
-│ -er / -re  │ center           │ centre           │
-│            │ theater          │ theatre          │
-│            │ meter            │ metre            │
-│            │ fiber            │ fibre            │
-│            │ liter            │ litre            │
-├────────────┼──────────────────┼──────────────────┤
-│ -ense/-ence│ defense          │ defence          │
-│            │ offense          │ offence          │
-│            │ license (명&동)  │ licence(명)/     │
-│            │                  │ license(동)      │
-├────────────┼──────────────────┼──────────────────┤
-│ -og / -ogue│ catalog          │ catalogue        │
-│            │ dialog           │ dialogue         │
-│            │ analog           │ analogue         │
-├────────────┼──────────────────┼──────────────────┤
-│ -l / -ll   │ traveling        │ travelling       │
-│            │ canceled         │ cancelled        │
-│            │ modeled          │ modelled         │
-│            │ (AmE는 l 하나)   │ (BrE는 l 두 개)  │
-├────────────┼──────────────────┼──────────────────┤
-│ 기타       │ gray             │ grey             │
-│            │ tire             │ tyre             │
-│            │ airplane         │ aeroplane        │
-│            │ program          │ programme*       │
-│            │ check            │ cheque (수표)    │
-│            │ pajamas          │ pyjamas          │
-│            │ donut            │ doughnut         │
-│            │ *컴퓨터 용어는 양쪽 다 "program"     │
-└────────────┴──────────────────┴──────────────────┘
-```
+> | 패턴 | 미국식 (AmE) | 영국식 (BrE) |
+> |---|---|---|
+> | -or / -our | color | colour |
+> | honor | honour |  |
+> | favor | favour |  |
+> | neighbor | neighbour |  |
+> | labor | labour |  |
+> | behavior | behaviour |  |
+> | -ize / -ise | organize | organise* |
+> | realize | realise* |  |
+> | recognize | recognise* |  |
+> | apologize | apologise* |  |
+> | -er / -re | center | centre |
+> | theater | theatre |  |
+> | meter | metre |  |
+> | fiber | fibre |  |
+> | liter | litre |  |
+> | -ense/-ence | defense | defence |
+> | offense | offence |  |
+> | license (명&동) | licence(명)/ |  |
+> | license(동) |  |  |
+> | -og / -ogue | catalog | catalogue |
+> | dialog | dialogue |  |
+> | analog | analogue |  |
+> | -l / -ll | traveling | travelling |
+> | canceled | cancelled |  |
+> | modeled | modelled |  |
+> | (AmE는 l 하나) | (BrE는 l 두 개) |  |
+> | 기타 | gray | grey |
+> | tire | tyre |  |
+> | airplane | aeroplane |  |
+> | program | programme* |  |
+> | check | cheque (수표) |  |
+> | pajamas | pyjamas |  |
+> | donut | doughnut |  |
+>
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> │ *참고: -ize도 BrE에서 허용됨
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> │ *컴퓨터 용어는 양쪽 다 "program"
 
 ---
 
@@ -128,66 +120,64 @@
 
 ### 3.1 일상 단어
 
-```
-┌──────────────────┬──────────────────┬──────────────────┐
-│ 의미             │ 미국식 (AmE)     │ 영국식 (BrE)     │
-├──────────────────┼──────────────────┼──────────────────┤
-│ 음식             │                  │                  │
-│ 얇은 감자튀김    │ (French) fries   │ chips            │
-│ 두꺼운 감자칩    │ chips            │ crisps           │
-│ 사탕             │ candy            │ sweets           │
-│ 쿠키             │ cookie           │ biscuit          │
-│ 가지             │ eggplant         │ aubergine        │
-│ 애호박           │ zucchini         │ courgette        │
-│ 탄산음료         │ soda             │ fizzy drink      │
-├──────────────────┼──────────────────┼──────────────────┤
-│ 교통             │                  │                  │
-│ 자동차 트렁크    │ trunk            │ boot             │
-│ 자동차 보닛      │ hood             │ bonnet           │
-│ 휘발유           │ gas              │ petrol           │
-│ 고속도로         │ highway/freeway  │ motorway         │
-│ 인도             │ sidewalk         │ pavement         │
-│ 주차장           │ parking lot      │ car park         │
-│ 지하철           │ subway           │ underground/tube │
-│ 왕복             │ round trip       │ return (ticket)  │
-│ 편도             │ one way          │ single (ticket)  │
-│ 트럭             │ truck            │ lorry            │
-├──────────────────┼──────────────────┼──────────────────┤
-│ 의류             │                  │                  │
-│ 바지             │ pants            │ trousers         │
-│ 속옷             │ underwear        │ pants/knickers   │
-│ 운동화           │ sneakers         │ trainers         │
-│ 스웨터           │ sweater          │ jumper           │
-│ 조끼             │ vest             │ waistcoat        │
-│ 런닝셔츠         │ undershirt       │ vest             │
-├──────────────────┼──────────────────┼──────────────────┤
-│ 집               │                  │                  │
-│ 아파트           │ apartment        │ flat             │
-│ 엘리베이터       │ elevator         │ lift             │
-│ 1층              │ first floor      │ ground floor     │
-│ 2층              │ second floor     │ first floor      │
-│ 쓰레기통         │ trash can        │ bin/dustbin      │
-│ 수도꼭지         │ faucet           │ tap              │
-│ 마당             │ yard             │ garden           │
-│ 옷장             │ closet           │ wardrobe/cupboard│
-├──────────────────┼──────────────────┼──────────────────┤
-│ 기타             │                  │                  │
-│ 휴가             │ vacation         │ holiday          │
-│ 휴대전화         │ cell phone       │ mobile (phone)   │
-│ 줄               │ line             │ queue            │
-│ 계산서           │ check            │ bill             │
-│ 약국             │ pharmacy/        │ chemist's        │
-│                  │ drugstore        │                  │
-│ 영화             │ movie            │ film             │
-│ 축구             │ soccer           │ football         │
-│ 우편             │ mail             │ post             │
-│ 가을             │ fall             │ autumn           │
-│ 이력서           │ resume           │ CV               │
-│ 지우개           │ eraser           │ rubber           │
-│ 수학             │ math             │ maths            │
-│ 마침표           │ period           │ full stop        │
-└──────────────────┴──────────────────┴──────────────────┘
-```
+> | 의미 | 미국식 (AmE) | 영국식 (BrE) |
+> |---|---|---|
+> | 음식 |  |  |
+> | 얇은 감자튀김 | (French) fries | chips |
+> | 두꺼운 감자칩 | chips | crisps |
+> | 사탕 | candy | sweets |
+> | 쿠키 | cookie | biscuit |
+> | 가지 | eggplant | aubergine |
+> | 애호박 | zucchini | courgette |
+> | 탄산음료 | soda | fizzy drink |
+> | 교통 |  |  |
+> | 자동차 트렁크 | trunk | boot |
+> | 자동차 보닛 | hood | bonnet |
+> | 휘발유 | gas | petrol |
+> | 고속도로 | highway/freeway | motorway |
+> | 인도 | sidewalk | pavement |
+> | 주차장 | parking lot | car park |
+> | 지하철 | subway | underground/tube |
+> | 왕복 | round trip | return (ticket) |
+> | 편도 | one way | single (ticket) |
+> | 트럭 | truck | lorry |
+> | 의류 |  |  |
+> | 바지 | pants | trousers |
+> | 속옷 | underwear | pants/knickers |
+> | 운동화 | sneakers | trainers |
+> | 스웨터 | sweater | jumper |
+> | 조끼 | vest | waistcoat |
+> | 런닝셔츠 | undershirt | vest |
+> | 집 |  |  |
+> | 아파트 | apartment | flat |
+> | 엘리베이터 | elevator | lift |
+> | 1층 | first floor | ground floor |
+> | 2층 | second floor | first floor |
+> | 쓰레기통 | trash can | bin/dustbin |
+> | 수도꼭지 | faucet | tap |
+> | 마당 | yard | garden |
+> | 옷장 | closet | wardrobe/cupboard |
+> | 기타 |  |  |
+> | 휴가 | vacation | holiday |
+> | 휴대전화 | cell phone | mobile (phone) |
+> | 줄 | line | queue |
+> | 계산서 | check | bill |
+> | 약국 | pharmacy/ | chemist's |
+> | drugstore |  |  |
+> | 영화 | movie | film |
+> | 축구 | soccer | football |
+> | 우편 | mail | post |
+> | 가을 | fall | autumn |
+> | 이력서 | resume | CV |
+> | 지우개 | eraser | rubber |
+> | 수학 | math | maths |
+> | 마침표 | period | full stop |
+>
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
 
 ---
 
@@ -195,52 +185,34 @@
 
 ### 4.1 주요 문법 차이
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. 현재완료 vs 단순과거                                         │
-│                                                                 │
-│   BrE: "I've just eaten." / "Have you seen the news?"          │
-│   AmE: "I just ate."      / "Did you see the news?"            │
-│                                                                 │
-│   미국 영어는 영국 영어가 현재완료를 쓰는 곳에서                    │
-│   단순과거를 더 자주 사용합니다.                                   │
-│                                                                 │
-│   2. 집합명사                                                    │
-│                                                                 │
-│   BrE: "The team are playing well." (복수 동사 가능)             │
-│   AmE: "The team is playing well." (단수 동사)                   │
-│                                                                 │
-│   영국 영어는 집합명사를 복수로 취급할 수 있습니다.                  │
-│   미국 영어는 단수로 취급합니다.                                   │
-│                                                                 │
-│   3. "GOT" vs "GOTTEN"                                         │
-│                                                                 │
-│   BrE: "I've got a car." (소유)                                 │
-│   AmE: "I've gotten better." (되다/얻다)                         │
-│   AmE: "I've got a car." (소유에도 사용)                          │
-│                                                                 │
-│   "Gotten"은 미국식만 해당. 영국 영어는 모든 의미에                │
-│   "got"을 사용합니다.                                             │
-│                                                                 │
-│   4. "SHALL" vs "WILL"                                         │
-│                                                                 │
-│   BrE: "Shall we go?" (제안 — 흔히 사용)                         │
-│   AmE: "Should we go?" 또는 "Do you want to go?"               │
-│         (미국 영어에서 "shall"은 드물게 사용)                      │
-│                                                                 │
-│   5. 본동사로서의 "HAVE"                                          │
-│                                                                 │
-│   BrE: "Have you got a pen?"   / "I haven't got time."         │
-│   AmE: "Do you have a pen?"    / "I don't have time."          │
-│                                                                 │
-│   6. 전치사                                                      │
-│                                                                 │
-│   AmE: "on the weekend"        BrE: "at the weekend"           │
-│   AmE: "Monday through Friday" BrE: "Monday to Friday"         │
-│   AmE: "different from/than"   BrE: "different from/to"        │
-│   AmE: "write (someone)"      BrE: "write to (someone)"       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. 현재완료 vs 단순과거
+> BrE: "I've just eaten." / "Have you seen the news?"
+> AmE: "I just ate."      / "Did you see the news?"
+> 미국 영어는 영국 영어가 현재완료를 쓰는 곳에서
+> 단순과거를 더 자주 사용합니다.
+> 2. 집합명사
+> BrE: "The team are playing well." (복수 동사 가능)
+> AmE: "The team is playing well." (단수 동사)
+> 영국 영어는 집합명사를 복수로 취급할 수 있습니다.
+> 미국 영어는 단수로 취급합니다.
+> 3. "GOT" vs "GOTTEN"
+> BrE: "I've got a car." (소유)
+> AmE: "I've gotten better." (되다/얻다)
+> AmE: "I've got a car." (소유에도 사용)
+> "Gotten"은 미국식만 해당. 영국 영어는 모든 의미에
+> "got"을 사용합니다.
+> 4. "SHALL" vs "WILL"
+> BrE: "Shall we go?" (제안 — 흔히 사용)
+> AmE: "Should we go?" 또는 "Do you want to go?"
+> (미국 영어에서 "shall"은 드물게 사용)
+> 5. 본동사로서의 "HAVE"
+> BrE: "Have you got a pen?"   / "I haven't got time."
+> AmE: "Do you have a pen?"    / "I don't have time."
+> 6. 전치사
+> AmE: "on the weekend"        BrE: "at the weekend"
+> AmE: "Monday through Friday" BrE: "Monday to Friday"
+> AmE: "different from/than"   BrE: "different from/to"
+> AmE: "write (someone)"      BrE: "write to (someone)"
 
 ---
 
@@ -380,26 +352,20 @@
 
 ### 9.1 고맥락 vs 저맥락 의사소통
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   고맥락 (한국, 일본, 중국):                                      │
-│   • 의미가 직접 진술되지 않고 암시됨                                │
-│   • 맥락, 어조, 관계가 말보다 중요                                 │
-│   • "눈치"가 중요                                                 │
-│   • 간접적 거절: "그건 좀 어려울 수도..."                           │
-│                                                                 │
-│   저맥락 (미국, 독일, 호주):                                       │
-│   • 의미가 명시적으로 진술됨                                       │
-│   • 말이 직접 메시지를 전달                                        │
-│   • "Say what you mean, mean what you say"                      │
-│   • 직접적 거절: "No, I can't do that."                           │
-│                                                                 │
-│   중간 맥락 (영국):                                                │
-│   • 미국보다 간접적이지만 한국보다는 직접적                          │
-│   • 공손 전략과 완곡 표현 사용                                     │
-│   • "That's an interesting idea"는 "동의하지 않아"일 수 있음        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 고맥락 (한국, 일본, 중국):
+> • 의미가 직접 진술되지 않고 암시됨
+> • 맥락, 어조, 관계가 말보다 중요
+> • "눈치"가 중요
+> • 간접적 거절: "그건 좀 어려울 수도..."
+> 저맥락 (미국, 독일, 호주):
+> • 의미가 명시적으로 진술됨
+> • 말이 직접 메시지를 전달
+> • "Say what you mean, mean what you say"
+> • 직접적 거절: "No, I can't do that."
+> 중간 맥락 (영국):
+> • 미국보다 간접적이지만 한국보다는 직접적
+> • 공손 전략과 완곡 표현 사용
+> • "That's an interesting idea"는 "동의하지 않아"일 수 있음
 
 ### 9.2 국가별 문화 팁
 
@@ -594,32 +560,24 @@
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              영어 변종 빠른 가이드                                 │
-│                                                                 │
-│   철자: AmE -or (color) vs BrE -our (colour)                    │
-│         AmE -er (center) vs BrE -re (centre)                    │
-│         AmE -ize (realize) vs BrE -ise (realise)                │
-│                                                                 │
-│   어휘: AmE apartment/BrE flat, AmE truck/BrE lorry,            │
-│   AmE elevator/BrE lift, AmE vacation/BrE holiday               │
-│                                                                 │
-│   문법: AmE는 단순과거 선호, BrE는 현재완료를 더 사용;             │
-│   BrE는 집합명사 + 복수 동사 가능                                  │
-│                                                                 │
-│   문화:                                                          │
-│   미국식 = 직접적, 긍정적 피드백, 이름(first name) 기반            │
-│   영국식 = 완곡 표현, 간접적, 공손한 완화 표현                      │
-│   호주식 = 캐주얼, 비격식, 자기 비하 유머                          │
-│                                                                 │
-│   한국어 화자를 위한 팁:                                           │
-│   • 일관성 유지 (한 글에서 AmE와 BrE를 섞지 말 것)                 │
-│   • "아니요"를 더 명확히 — 모호함은 혼란을 야기                     │
-│   • "How are you?" = 인사, 진짜 질문 아님                         │
-│   • 과도한 사과 피하기 — 때때로 "thank you"로 대체                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **영어 변종 빠른 가이드**
+>
+> 철자: AmE -or (color) vs BrE -our (colour)
+> AmE -er (center) vs BrE -re (centre)
+> AmE -ize (realize) vs BrE -ise (realise)
+> 어휘: AmE apartment/BrE flat, AmE truck/BrE lorry,
+> AmE elevator/BrE lift, AmE vacation/BrE holiday
+> 문법: AmE는 단순과거 선호, BrE는 현재완료를 더 사용;
+> BrE는 집합명사 + 복수 동사 가능
+> 문화:
+> 미국식 = 직접적, 긍정적 피드백, 이름(first name) 기반
+> 영국식 = 완곡 표현, 간접적, 공손한 완화 표현
+> 호주식 = 캐주얼, 비격식, 자기 비하 유머
+> 한국어 화자를 위한 팁:
+> • 일관성 유지 (한 글에서 AmE와 BrE를 섞지 말 것)
+> • "아니요"를 더 명확히 — 모호함은 혼란을 야기
+> • "How are you?" = 인사, 진짜 질문 아님
+> • 과도한 사과 피하기 — 때때로 "thank you"로 대체
 
 ---
 
