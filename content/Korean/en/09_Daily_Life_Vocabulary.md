@@ -119,36 +119,32 @@
 
 ### 2.1 Essential Restaurant Phrases
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           Restaurant Survival Phrases (식당 필수 표현)           │
-│                                                               │
-│  Entering:                                                    │
-│  여기요! / 저기요!          Excuse me! (calling staff)          │
-│  몇 명이세요?              How many people? (staff asks)       │
-│  두 명이요.                Two people.                         │
-│                                                               │
-│  Ordering:                                                    │
-│  메뉴판 주세요.            Please give me the menu.            │
-│  이것 주세요.              Please give me this.                │
-│  _____ 하나 주세요.        One _____, please.                  │
-│  _____ 두 개 주세요.       Two _____, please.                  │
-│  추천 메뉴가 뭐예요?       What do you recommend?              │
-│                                                               │
-│  During the meal:                                             │
-│  물 좀 주세요.             Water, please.                      │
-│  반찬 더 주세요.           More side dishes, please.           │
-│  맵지 않게 해 주세요.      Please make it not spicy.           │
-│  맛있어요!                 It's delicious!                     │
-│                                                               │
-│  Paying:                                                      │
-│  계산해 주세요.            Check, please.                      │
-│  카드로 계산해 주세요.      I'll pay by card.                   │
-│  현금으로 계산할게요.       I'll pay with cash.                 │
-│  영수증 주세요.            Receipt, please.                    │
-│  잘 먹었습니다.            Thank you for the meal.             │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Restaurant Survival Phrases (식당 필수 표현)**
+>
+> **Entering:**
+> - 여기요! / 저기요! — Excuse me! (calling staff)
+> - 몇 명이세요? — How many people? (staff asks)
+> - 두 명이요. — Two people.
+>
+> **Ordering:**
+> - 메뉴판 주세요. — Please give me the menu.
+> - 이것 주세요. — Please give me this.
+> - _____ 하나 주세요. — One _____, please.
+> - _____ 두 개 주세요. — Two _____, please.
+> - 추천 메뉴가 뭐예요? — What do you recommend?
+>
+> **During the meal:**
+> - 물 좀 주세요. — Water, please.
+> - 반찬 더 주세요. — More side dishes, please.
+> - 맵지 않게 해 주세요. — Please make it not spicy.
+> - 맛있어요! — It's delicious!
+>
+> **Paying:**
+> - 계산해 주세요. — Check, please.
+> - 카드로 계산해 주세요. — I'll pay by card.
+> - 현금으로 계산할게요. — I'll pay with cash.
+> - 영수증 주세요. — Receipt, please.
+> - 잘 먹었습니다. — Thank you for the meal.
 
 ### 2.2 Ordering Dialogue
 
@@ -278,25 +274,21 @@ You:    잘 먹었습니다!
 
 ### 4.4 Seoul Subway
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│             Seoul Subway Quick Facts                          │
-│                                                               │
-│  Total lines: 23 lines (numbered + named lines)               │
-│  Numbering: Lines 1-9, plus Shinbundang, Gyeongui, etc.      │
-│                                                               │
-│  Key stations:                                                │
-│  서울역 (Seoul Station) — Line 1, 4, KTX                      │
-│  강남역 (Gangnam Station) — Line 2                             │
-│  홍대입구역 (Hongdae Station) — Line 2, Airport Express        │
-│  명동역 (Myeongdong Station) — Line 4                         │
-│  동대문역사문화공원역 (DDP) — Line 2, 4, 5                     │
-│                                                               │
-│  Payment: T-money card (교통카드) — tap on/off                 │
-│  Transfers: Free within 30 minutes                            │
-│  Announcements: Korean, English, Chinese, Japanese            │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Seoul Subway Quick Facts**
+>
+> - Total lines: 23 lines (numbered + named lines)
+> - Numbering: Lines 1-9, plus Shinbundang, Gyeongui, etc.
+>
+> **Key stations:**
+> - 서울역 (Seoul Station) — Line 1, 4, KTX
+> - 강남역 (Gangnam Station) — Line 2
+> - 홍대입구역 (Hongdae Station) — Line 2, Airport Express
+> - 명동역 (Myeongdong Station) — Line 4
+> - 동대문역사문화공원역 (DDP) — Line 2, 4, 5
+>
+> - Payment: T-money card (교통카드) — tap on/off
+> - Transfers: Free within 30 minutes
+> - Announcements: Korean, English, Chinese, Japanese
 
 ---
 
@@ -364,29 +356,21 @@ Korean has distinct family terms depending on the speaker's gender and the relat
 
 ### 6.2 Sibling Terms (Gender-Dependent)
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           Korean Sibling Terms (형제/자매 호칭)                  │
-│                                                               │
-│  Speaker is MALE:                                             │
-│  ┌────────────────────────────────────────────────┐           │
-│  │  형 (hyeong)    — older brother                │           │
-│  │  누나 (nuna)    — older sister                 │           │
-│  │  남동생         — younger brother              │           │
-│  │  여동생         — younger sister               │           │
-│  └────────────────────────────────────────────────┘           │
-│                                                               │
-│  Speaker is FEMALE:                                           │
-│  ┌────────────────────────────────────────────────┐           │
-│  │  오빠 (oppa)    — older brother                │           │
-│  │  언니 (eonni)   — older sister                 │           │
-│  │  남동생         — younger brother              │           │
-│  │  여동생         — younger sister               │           │
-│  └────────────────────────────────────────────────┘           │
-│                                                               │
-│  동생 (dongsaeng) = younger sibling (gender-neutral)          │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Korean Sibling Terms (형제/자매 호칭)**
+>
+> **Speaker is MALE:**
+> - 형 (hyeong) — older brother
+> - 누나 (nuna) — older sister
+> - 남동생 — younger brother
+> - 여동생 — younger sister
+>
+> **Speaker is FEMALE:**
+> - 오빠 (oppa) — older brother
+> - 언니 (eonni) — older sister
+> - 남동생 — younger brother
+> - 여동생 — younger sister
+>
+> 동생 (dongsaeng) = younger sibling (gender-neutral)
 
 > **Important**: 형, 누나, 오빠, 언니 are also used with close non-family members who are slightly older.
 
