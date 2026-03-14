@@ -29,20 +29,15 @@
 
 A relative clause is a type of subordinate clause that modifies a noun. It gives extra information about the noun and starts with a relative pronoun (who, which, that, whose, where, when).
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Main clause:     "I met the woman."                          │
-│   Relative clause: "who lives next door"                       │
-│   Combined:        "I met the woman who lives next door."      │
-│                                  └──────────────────┘          │
-│                                  relative clause               │
-│                                  (modifies "woman")            │
-│                                                                 │
-│   The noun modified by the relative clause is called           │
-│   the ANTECEDENT.                                              │
-│   Antecedent: "the woman"                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Main clause:     "I met the woman."
+> Relative clause: "who lives next door"
+> Combined:        "I met the woman who lives next door."
+> └──────────────────┘
+> relative clause
+> (modifies "woman")
+> The noun modified by the relative clause is called
+> the ANTECEDENT.
+> Antecedent: "the woman"
 
 ### 1.2 Two Types of Relative Clauses
 
@@ -105,23 +100,17 @@ For THINGS:
 
 ### 3.1 Characteristics
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Defining Relative Clauses:                                   │
-│                                                                 │
-│   • NO commas                                                  │
-│   • Essential information — identifies the noun                │
-│   • Can use who, which, that, whose, where, when              │
-│   • "that" can replace "who" or "which"                        │
-│   • Relative pronoun can be omitted when it's the OBJECT       │
-│   • Removing the clause changes the meaning                    │
-│                                                                 │
-│   "The man who stole my car was arrested."                     │
-│   → Which man? The one who stole my car.                       │
-│   → Without the clause: "The man was arrested."                │
-│     (Which man? We don't know!)                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Defining Relative Clauses:
+> • NO commas
+> • Essential information — identifies the noun
+> • Can use who, which, that, whose, where, when
+> • "that" can replace "who" or "which"
+> • Relative pronoun can be omitted when it's the OBJECT
+> • Removing the clause changes the meaning
+> "The man who stole my car was arrested."
+> → Which man? The one who stole my car.
+> → Without the clause: "The man was arrested."
+> (Which man? We don't know!)
 
 ### 3.2 Subject vs Object Relative Clauses
 
@@ -160,22 +149,16 @@ Note: In object relative clauses, the pronoun is often omitted
 
 ### 4.1 Characteristics
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Non-Defining Relative Clauses:                               │
-│                                                                 │
-│   • USE commas (before and after the clause)                   │
-│   • Extra information — NOT essential for identification       │
-│   • Can use who, which, whose, where, when                    │
-│   • CANNOT use "that"                                          │
-│   • Relative pronoun CANNOT be omitted                         │
-│   • Removing the clause does NOT change core meaning           │
-│                                                                 │
-│   "My mother, who is 60 years old, still works."               │
-│   → I have only one mother — "who is 60" adds info            │
-│   → Without: "My mother still works." (Still makes sense)      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Non-Defining Relative Clauses:
+> • USE commas (before and after the clause)
+> • Extra information — NOT essential for identification
+> • Can use who, which, whose, where, when
+> • CANNOT use "that"
+> • Relative pronoun CANNOT be omitted
+> • Removing the clause does NOT change core meaning
+> "My mother, who is 60 years old, still works."
+> → I have only one mother — "who is 60" adds info
+> → Without: "My mother still works." (Still makes sense)
 
 ### 4.2 Common Uses
 
@@ -213,26 +196,18 @@ In non-defining clauses, **which** can refer to an entire previous statement:
 
 ### 5.1 When Can You Omit?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   You can OMIT the relative pronoun when:                      │
-│                                                                 │
-│   1. It is the OBJECT of the relative clause                   │
-│   2. It is in a DEFINING clause                                │
-│                                                                 │
-│   Object (CAN omit):                                           │
-│   "The book (that/which) I read was great."                    │
-│   "The person (who/whom) she married is Korean."               │
-│                                                                 │
-│   Subject (CANNOT omit):                                       │
-│   ✗ "The man ___ lives here is nice."                          │
-│   ✓ "The man who lives here is nice."                          │
-│                                                                 │
-│   Non-defining (CANNOT omit):                                  │
-│   ✗ "My sister, ___ is a doctor, called me."                   │
-│   ✓ "My sister, who is a doctor, called me."                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> You can OMIT the relative pronoun when:
+> 1. It is the OBJECT of the relative clause
+> 2. It is in a DEFINING clause
+> Object (CAN omit):
+> "The book (that/which) I read was great."
+> "The person (who/whom) she married is Korean."
+> Subject (CANNOT omit):
+> ✗ "The man ___ lives here is nice."
+> ✓ "The man who lives here is nice."
+> Non-defining (CANNOT omit):
+> ✗ "My sister, ___ is a doctor, called me."
+> ✓ "My sister, who is a doctor, called me."
 
 ### 5.2 How to Determine Subject vs Object
 
@@ -461,21 +436,14 @@ Note: "that" is often omitted in informal speech:
 
 ### 10.1 The Fundamental Difference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean: PRE-MODIFYING (modifier comes BEFORE the noun)       │
-│   English: POST-MODIFYING (relative clause comes AFTER noun)   │
-│                                                                 │
-│   Korean:  [어제 내가 산] 책이 재미있다.                          │
-│            [yesterday I bought] book is interesting             │
-│            └──modifier──┘ └noun┘                                │
-│                                                                 │
-│   English: The book [that I bought yesterday] is interesting.  │
-│            └noun┘  └───────modifier────────┘                    │
-│                                                                 │
-│   The modifier and noun positions are REVERSED!                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean: PRE-MODIFYING (modifier comes BEFORE the noun)
+> English: POST-MODIFYING (relative clause comes AFTER noun)
+> Korean:  [어제 내가 산] 책이 재미있다.
+> [yesterday I bought] book is interesting
+> └──modifier──┘ └noun┘
+> English: The book [that I bought yesterday] is interesting.
+> └noun┘  └───────modifier────────┘
+> The modifier and noun positions are REVERSED!
 
 ### 10.2 Practical Examples
 
@@ -676,34 +644,26 @@ Translate these Korean sentences into English using relative clauses.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Relative Clauses Quick Guide                       │
-│                                                                 │
-│   DEFINING (no commas, essential info):                        │
-│   • who/that (people), which/that (things)                     │
-│   • Object pronoun can be omitted                              │
-│   • "that" allowed                                             │
-│                                                                 │
-│   NON-DEFINING (commas, extra info):                           │
-│   • who (people), which (things)                               │
-│   • Pronoun CANNOT be omitted                                  │
-│   • "that" NOT allowed                                         │
-│                                                                 │
-│   SPECIAL PRONOUNS:                                            │
-│   whose = possession    where = place                          │
-│   when = time           why = reason (after "the reason")      │
-│                                                                 │
-│   REDUCING:                                                    │
-│   Active: -ing phrase    "The man standing..." (=who is)       │
-│   Passive: -ed phrase    "The book written..." (=which was)    │
-│   Ordinal/superlative: to-infinitive "the first to arrive"    │
-│                                                                 │
-│   KOREAN CONTRAST: Korean pre-modifies, English post-modifies  │
-│   Korean: [modifier] + noun                                   │
-│   English: noun + [relative clause]                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Relative Clauses Quick Guide**
+>
+> DEFINING (no commas, essential info):
+> • who/that (people), which/that (things)
+> • Object pronoun can be omitted
+> • "that" allowed
+> NON-DEFINING (commas, extra info):
+> • who (people), which (things)
+> • Pronoun CANNOT be omitted
+> • "that" NOT allowed
+> SPECIAL PRONOUNS:
+> whose = possession    where = place
+> when = time           why = reason (after "the reason")
+> REDUCING:
+> Active: -ing phrase    "The man standing..." (=who is)
+> Passive: -ed phrase    "The book written..." (=which was)
+> Ordinal/superlative: to-infinitive "the first to arrive"
+> KOREAN CONTRAST: Korean pre-modifies, English post-modifies
+> Korean: [modifier] + noun
+> English: noun + [relative clause]
 
 ---
 
