@@ -31,17 +31,11 @@
 
 The passato prossimo (present perfect) is the most common past tense in spoken Italian. It describes **completed** actions in the past.
 
-```
-+----------------------------------------------------------+
-|  PASSATO PROSSIMO = AUXILIARY + PAST PARTICIPLE           |
-|                                                          |
-|  auxiliary: presente of AVERE or ESSERE                   |
-|  + participio passato                                    |
-|                                                          |
-|  Ho mangiato.    (I ate / I have eaten.)                 |
-|  Sono andato/a.  (I went / I have gone.)                 |
-+----------------------------------------------------------+
-```
+> **PASSATO PROSSIMO = AUXILIARY + PAST PARTICIPLE**
+>
+> - auxiliary: presente of AVERE or ESSERE + participio passato
+> - Ho mangiato. (I ate / I have eaten.)
+> - Sono andato/a. (I went / I have gone.)
 
 ### Auxiliary Verbs in the Present Tense
 
@@ -124,19 +118,17 @@ Many common Italian verbs have **irregular** past participles. These must be mem
 
 ### Pattern Groups
 
-```
-+----------------------------------------------------------+
-|  -ITTO pattern:  scrivere → scritto, friggere → fritto   |
-|  -ETTO pattern:  dire → detto, fare → fatto               |
-|  -OSTO pattern:  rispondere → risposto, porre → posto     |
-|  -ESTO pattern:  chiedere → chiesto, rimanere → rimasto   |
-|  -ESO pattern:   prendere → preso, accendere → acceso     |
-|  -USO pattern:   chiudere → chiuso                        |
-|  -ERTO pattern:  aprire → aperto, offrire → offerto       |
-|  -OLTO pattern:  scegliere → scelto, togliere → tolto     |
-|  -INTO pattern:  vincere → vinto, dipingere → dipinto     |
-+----------------------------------------------------------+
-```
+> **Irregular Past Participle Patterns**
+>
+> - **-ITTO**: scrivere → scritto, friggere → fritto
+> - **-ETTO**: dire → detto, fare → fatto
+> - **-OSTO**: rispondere → risposto, porre → posto
+> - **-ESTO**: chiedere → chiesto, rimanere → rimasto
+> - **-ESO**: prendere → preso, accendere → acceso
+> - **-USO**: chiudere → chiuso
+> - **-ERTO**: aprire → aperto, offrire → offerto
+> - **-OLTO**: scegliere → scelto, togliere → tolto
+> - **-INTO**: vincere → vinto, dipingere → dipinto
 
 ---
 
@@ -159,24 +151,20 @@ Choosing the correct auxiliary is crucial in Italian.
 
 ### Quick Decision Chart
 
-```
-+----------------------------------------------------------+
-|  Does the verb take a direct object?                      |
-|    YES → Use AVERE                                        |
-|    NO  → Check the list below:                            |
-|                                                          |
-|  Is it a reflexive verb? (mi lavo, si veste...)          |
-|    YES → Use ESSERE                                       |
-|                                                          |
-|  Is it a verb of motion/change?                          |
-|    YES → Usually ESSERE                                   |
-|    NO  → Usually AVERE                                    |
-|                                                          |
-|  Exception: Some verbs use both depending on meaning!     |
-|  - Ho corso per un'ora. (I ran for an hour — activity)   |
-|  - Sono corso a casa. (I ran home — destination)          |
-+----------------------------------------------------------+
-```
+> **Does the verb take a direct object?**
+> - YES → Use AVERE
+> - NO → Check the list below:
+>
+> **Is it a reflexive verb?** (mi lavo, si veste...)
+> - YES → Use ESSERE
+>
+> **Is it a verb of motion/change?**
+> - YES → Usually ESSERE
+> - NO → Usually AVERE
+>
+> **Exception**: Some verbs use both depending on meaning!
+> - Ho corso per un'ora. (I ran for an hour — activity)
+> - Sono corso a casa. (I ran home — destination)
 
 ---
 
