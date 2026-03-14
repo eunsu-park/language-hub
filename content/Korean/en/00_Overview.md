@@ -37,21 +37,17 @@ Stage 5: Practical Application (21-25) — TOPIK II-5/6
 
 ## TOPIK Level Reference
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                TOPIK (Test of Proficiency in Korean)              │
-│                                                                  │
-│   TOPIK I-1 (Beginner)           ~800 vocabulary        ≈ A1    │
-│   TOPIK I-2 (Elementary)         ~1,500-2,000 vocabulary ≈ A2   │
-│   TOPIK II-3 (Intermediate)      ~3,000-4,000 vocabulary ≈ B1   │
-│   TOPIK II-4 (Upper-Inter.)      ~5,000-6,000 vocabulary ≈ B2   │
-│   TOPIK II-5 (Advanced)          ~8,000+ vocabulary      ≈ C1   │
-│   TOPIK II-6 (Mastery)           ~10,000+ vocabulary     ≈ C2   │
-│                                                                  │
-│   TOPIK I: Listening + Reading (100 min)                         │
-│   TOPIK II: Listening + Writing + Reading (180 min)              │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **TOPIK (Test of Proficiency in Korean)**
+>
+> - **TOPIK I-1 (Beginner)**: ~800 vocabulary ≈ A1
+> - **TOPIK I-2 (Elementary)**: ~1,500-2,000 vocabulary ≈ A2
+> - **TOPIK II-3 (Intermediate)**: ~3,000-4,000 vocabulary ≈ B1
+> - **TOPIK II-4 (Upper-Inter.)**: ~5,000-6,000 vocabulary ≈ B2
+> - **TOPIK II-5 (Advanced)**: ~8,000+ vocabulary ≈ C1
+> - **TOPIK II-6 (Mastery)**: ~10,000+ vocabulary ≈ C2
+>
+> - **TOPIK I**: Listening + Reading (100 min)
+> - **TOPIK II**: Listening + Writing + Reading (180 min)
 
 ## Lessons
 
