@@ -1,0 +1,354 @@
+lesson: sup_L2_Philosophy_and_Logic
+lesson_number: 123
+hanja_level: L2
+type: supplementary
+topic: Philosophy and Logic
+categories:
+- id: philosophical_concepts
+  label:
+    en: Philosophical Concepts
+    ko: 철학 개념
+  type: vocabulary
+  words:
+  - classical_chinese: 哲
+    reading: 철
+    meaning_kun: 밝을
+    translation:
+      en: wise; sagacious; philosophy
+      ko: "밝은; 현명한; 철학"
+    gender: null
+    plural: null
+    notes:
+      en: "折 + 口. Clear discernment. 哲學 = philosophy."
+      ko: "折 + 口. 명확한 분별. 哲學 = 철학."
+  - classical_chinese: 形
+    reading: 형
+    meaning_kun: 모양
+    translation:
+      en: form; shape; body
+      ko: "형상; 모양; 몸"
+    gender: null
+    plural: null
+    notes:
+      en: "开 + 彡. Physical form. 形而上 = metaphysical."
+      ko: "开 + 彡. 물리적 형상. 形而上 = 형이상."
+  - classical_chinese: 質
+    reading: 질
+    meaning_kun: 바탕
+    translation:
+      en: substance; nature; matter; quality
+      ko: "바탕; 본질; 물질; 질"
+    gender: null
+    plural: null
+    notes:
+      en: "斤 + 貝. Essential nature of things. 本質 = essence."
+      ko: "斤 + 貝. 사물의 본질. 本質 = 본질."
+  - classical_chinese: 體
+    reading: 체
+    meaning_kun: 몸
+    translation:
+      en: body; substance; system
+      ko: "몸; 본체; 체계"
+    gender: null
+    plural: null
+    notes:
+      en: "骨 + 豊. Bodily form. 體用 = substance and function."
+      ko: "骨 + 豊. 몸의 형태. 體用 = 체용(본체와 작용)."
+  - classical_chinese: 用
+    reading: 용
+    meaning_kun: 쓸
+    translation:
+      en: function; use; to employ
+      ko: "쓰다; 작용; 용도"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a bronze vessel. 體用 = substance and function."
+      ko: "청동 그릇의 상형자. 體用 = 체용."
+  - classical_chinese: 本
+    reading: 본
+    meaning_kun: 근본
+    translation:
+      en: root; origin; fundamental
+      ko: "근본; 본래; 기본"
+    gender: null
+    plural: null
+    notes:
+      en: "木 + dot at base. Root of a tree. 根本 = fundamental."
+      ko: "木 + 아래 점. 나무의 뿌리. 根本 = 근본."
+  - classical_chinese: 末
+    reading: 말
+    meaning_kun: 끝
+    translation:
+      en: end; tip; trivial; branch
+      ko: "끝; 말단; 사소한"
+    gender: null
+    plural: null
+    notes:
+      en: "木 + dot at top. Tip of a tree. Opposite of 本. 本末 = root and branch."
+      ko: "木 + 위 점. 나무의 끝. 本의 반대. 本末 = 본말."
+  - classical_chinese: 因
+    reading: 인
+    meaning_kun: 인할
+    translation:
+      en: cause; reason; because of
+      ko: "원인; 이유; 인하여"
+    gender: null
+    plural: null
+    notes:
+      en: "大 in enclosure (囗). 因果 = cause and effect."
+      ko: "에워쌀(囗) 안의 大. 因果 = 인과."
+  - classical_chinese: 果
+    reading: 과
+    meaning_kun: 과실
+    translation:
+      en: result; fruit; effect; indeed
+      ko: "결과; 과일; 효과; 과연"
+    gender: null
+    plural: null
+    notes:
+      en: "Fruit on tree. 因果 = causality."
+      ko: "나무 위의 열매. 因果 = 인과."
+  - classical_chinese: 辨
+    reading: 변
+    meaning_kun: 분별할
+    translation:
+      en: to distinguish; to discriminate
+      ko: "분별하다; 구별하다; 판별"
+    gender: null
+    plural: null
+    notes:
+      en: "辡 + knife (刂). To cut apart differences. 辨別 = distinction."
+      ko: "辡 + 칼(刂). 차이를 잘라 나누다. 辨別 = 판별."
+- id: logic_argumentation
+  label:
+    en: Logic and Argumentation
+    ko: 논리와 논증
+  type: vocabulary
+  words:
+  - classical_chinese: 理
+    reading: 리
+    meaning_kun: 다스릴
+    translation:
+      en: reason; principle; logic
+      ko: "이치; 원리; 논리"
+    gender: null
+    plural: null
+    notes:
+      en: "Jade (玉) + 里. 道理 = reason/logic."
+      ko: "옥(玉) + 里. 道理 = 도리."
+  - classical_chinese: 然
+    reading: 연
+    meaning_kun: 그러할
+    translation:
+      en: so; thus; correct; -ly (suffix)
+      ko: "그렇다; 그러한; ~답게"
+    gender: null
+    plural: null
+    notes:
+      en: "肉 + 犬 + 灬. To affirm. 當然 = of course."
+      ko: "肉 + 犬 + 灬. 긍정. 當然 = 당연."
+  - classical_chinese: 否
+    reading: 부
+    meaning_kun: 아닐
+    translation:
+      en: no; not; negative; bad fortune
+      ko: "아니다; 부정; 비(否, 괘)"
+    gender: null
+    plural: null
+    notes:
+      en: "不 + 口. Negation. Also I Ching hexagram (stagnation)."
+      ko: "不 + 口. 부정. 주역의 비괘(정체)이기도."
+  - classical_chinese: 假
+    reading: 가
+    meaning_kun: 거짓
+    translation:
+      en: false; hypothetical; to borrow; if
+      ko: "거짓; 가정; 빌리다; 만약"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 叚. 假設 = hypothesis."
+      ko: "사람(亻) + 叚. 假設 = 가설."
+  - classical_chinese: 眞
+    reading: 진
+    meaning_kun: 참
+    translation:
+      en: true; real; genuine
+      ko: "참; 진실; 진짜"
+    gender: null
+    plural: null
+    notes:
+      en: "匕 + 目 + 八 + 土. 眞理 = truth."
+      ko: "匕 + 目 + 八 + 土. 眞理 = 진리."
+  - classical_chinese: 僞
+    reading: 위
+    meaning_kun: 거짓
+    translation:
+      en: false; fake; artificial
+      ko: "거짓; 위조; 인위적"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 爲. Human-made = artificial. Opposite of 眞."
+      ko: "사람(亻) + 爲. 사람이 만든 = 인위적. 眞의 반대."
+  - classical_chinese: 推
+    reading: 추
+    meaning_kun: 밀
+    translation:
+      en: to infer; to deduce; to push
+      ko: "추론하다; 밀다; 추리"
+    gender: null
+    plural: null
+    notes:
+      en: "Hand (扌) + 隹. To push reasoning forward. 推論 = inference."
+      ko: "손(扌) + 隹. 논리를 밀어 나가다. 推論 = 추론."
+  - classical_chinese: 歸
+    reading: 귀
+    meaning_kun: 돌아갈
+    translation:
+      en: to conclude; to attribute; to return
+      ko: "귀결하다; 돌아가다"
+    gender: null
+    plural: null
+    notes:
+      en: "帚 + 止. 歸納 = induction."
+      ko: "帚 + 止. 歸納 = 귀납."
+  - classical_chinese: 演
+    reading: 연
+    meaning_kun: 펼
+    translation:
+      en: to deduce; to develop; to perform
+      ko: "연역하다; 펼치다; 연기하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 寅. To expand/unfold. 演繹 = deduction."
+      ko: "물(氵) + 寅. 펼쳐 나가다. 演繹 = 연역."
+  - classical_chinese: 矛盾
+    reading: 모순
+    meaning_kun: 모순
+    translation:
+      en: contradiction; paradox
+      ko: "모순; 자기 모순"
+    gender: null
+    plural: null
+    notes:
+      en: "矛 (spear) + 盾 (shield). From 韓非子: can this spear pierce this shield?"
+      ko: "矛(창) + 盾(방패). 한비자에서: 이 창이 이 방패를 뚫을 수 있는가?"
+- id: philosophical_schools
+  label:
+    en: Schools of Thought
+    ko: 학파
+  type: vocabulary
+  words:
+  - classical_chinese: 儒
+    reading: 유
+    meaning_kun: 선비
+    translation:
+      en: Confucian; scholar; learned
+      ko: "유가; 선비; 학자"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 需 (need). Scholar needed by society. 儒家 = Confucianism."
+      ko: "사람(亻) + 需(필요). 사회에 필요한 학자. 儒家 = 유가."
+  - classical_chinese: 墨
+    reading: 묵
+    meaning_kun: 먹
+    translation:
+      en: Mohist; ink; dark
+      ko: "묵가; 먹; 검은"
+    gender: null
+    plural: null
+    notes:
+      en: "黑 + 土. 墨家 = Mohism. 墨子 advocated universal love."
+      ko: "黑 + 土. 墨家 = 묵가. 묵자는 겸애를 주장."
+  - classical_chinese: 法
+    reading: 법
+    meaning_kun: 법
+    translation:
+      en: Legalist; law; method
+      ko: "법가; 법; 방법"
+    gender: null
+    plural: null
+    notes:
+      en: "水 + 去. 法家 = Legalism. Rule by strict law."
+      ko: "水 + 去. 法家 = 법가. 엄격한 법에 의한 통치."
+  - classical_chinese: 名
+    reading: 명
+    meaning_kun: 이름
+    translation:
+      en: name; fame; School of Names
+      ko: "이름; 명성; 명가"
+    gender: null
+    plural: null
+    notes:
+      en: "夕 + 口. 名家 = School of Names (logicians). 名實 = name and reality."
+      ko: "夕 + 口. 名家 = 명가(논리학파). 名實 = 명실."
+  - classical_chinese: 兼
+    reading: 겸
+    meaning_kun: 겸할
+    translation:
+      en: to combine; universal; simultaneously
+      ko: "겸하다; 보편적; 동시에"
+    gender: null
+    plural: null
+    notes:
+      en: "Two 禾 held together. 兼愛 = Mohist universal love."
+      ko: "두 禾를 함께 잡음. 兼愛 = 겸애(묵가의 보편적 사랑)."
+  - classical_chinese: 辯
+    reading: 변
+    meaning_kun: 말잘할
+    translation:
+      en: to debate; dialectics; eloquence
+      ko: "변론; 논쟁; 말재주"
+    gender: null
+    plural: null
+    notes:
+      en: "辡 + 言. Skilled argumentation. 辯證 = dialectics."
+      ko: "辡 + 言. 능숙한 논변. 辯證 = 변증."
+  - classical_chinese: 勢
+    reading: 세
+    meaning_kun: 형세
+    translation:
+      en: power; influence; tendency; strategic advantage
+      ko: "세력; 형세; 기세"
+    gender: null
+    plural: null
+    notes:
+      en: "埶 + 力. Positional power. Key Legalist concept (法術勢)."
+      ko: "埶 + 力. 위치적 권력. 법가 핵심 개념(법술세)."
+  - classical_chinese: 術
+    reading: 술
+    meaning_kun: 재주
+    translation:
+      en: technique; art; method; statecraft
+      ko: "술; 기법; 방법"
+    gender: null
+    plural: null
+    notes:
+      en: "彳 + 朮. Administrative techniques. 法家: 法·術·勢."
+      ko: "彳 + 朮. 행정 기술. 법가: 법·술·세."
+  - classical_chinese: 權
+    reading: 권
+    meaning_kun: 권세
+    translation:
+      en: power; right; expediency; to weigh
+      ko: "권력; 권리; 권도; 저울질"
+    gender: null
+    plural: null
+    notes:
+      en: "Wood (木) + 雚. A weighing device. 權變 = adaptability."
+      ko: "나무(木) + 雚. 저울 도구. 權變 = 권변(상황에 맞는 변통)."
+  - classical_chinese: 經權
+    reading: 경권
+    meaning_kun: 경권
+    translation:
+      en: principle and expediency
+      ko: "경(원칙)과 권(변통)"
+    gender: null
+    plural: null
+    notes:
+      en: "經 (constant principle) + 權 (expedient). Balancing rules with flexibility."
+      ko: "經(불변의 원칙) + 權(변통). 규칙과 유연성의 균형."
