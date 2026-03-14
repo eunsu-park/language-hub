@@ -35,22 +35,16 @@
 
 ### 1.1 English vs Japanese Word Order
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              English (SVO) vs Japanese (SOV)                      │
-│                                                                  │
-│   English:  I     eat    sushi.                                  │
-│             S     V      O                                       │
-│                                                                  │
-│   Japanese: 私は   すしを  食べます。                                │
-│             S(は)  O(を)   V                                      │
-│             Watashi wa  sushi wo  tabemasu.                       │
-│                                                                  │
-│   Key rule: The VERB always comes at the END.                    │
-│   Everything else can be somewhat flexible in order,             │
-│   as long as the verb stays last.                                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **English (SVO) vs Japanese (SOV)**
+>
+> English: I eat sushi. (S V O)
+>
+> Japanese: 私は すしを 食べます。 (S(は) O(を) V)
+> Watashi wa sushi wo tabemasu.
+>
+> Key rule: The VERB always comes at the END.
+> Everything else can be somewhat flexible in order,
+> as long as the verb stays last.
 
 ### 1.2 Core Rules
 
@@ -140,24 +134,19 @@ A wa B desu ka.
 
 ### 3.1 What Does は Do?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              は — The Topic Marker                                │
-│                                                                  │
-│   Written: は (the hiragana "ha")                                │
-│   Read as: wa (when used as a particle)                          │
-│   Function: Marks the TOPIC of the sentence                      │
-│             "As for [topic], ..."                                 │
-│                                                                  │
-│   私は田中です。                                                   │
-│   Watashi wa Tanaka desu.                                        │
-│   "As for me, I am Tanaka." → "I am Tanaka."                    │
-│                                                                  │
-│   東京は大きいです。                                                │
-│   Toukyou wa ookii desu.                                         │
-│   "As for Tokyo, it is big." → "Tokyo is big."                   │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **は — The Topic Marker**
+>
+> - **Written**: は (the hiragana "ha")
+> - **Read as**: wa (when used as a particle)
+> - **Function**: Marks the TOPIC of the sentence — "As for [topic], ..."
+>
+> 私は田中です。
+> Watashi wa Tanaka desu.
+> "As for me, I am Tanaka." → "I am Tanaka."
+>
+> 東京は大きいです。
+> Toukyou wa ookii desu.
+> "As for Tokyo, it is big." → "Tokyo is big."
 
 ### 3.2 Topic vs Subject
 
@@ -185,18 +174,14 @@ The topic (は) is what the sentence is **about**. It is NOT always the grammati
 
 ### 4.1 What Does が Do?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              が — The Subject Marker                              │
-│                                                                  │
-│   Function: Marks the grammatical SUBJECT                        │
-│   Key uses:                                                      │
-│     1. Answers "who/what" questions                              │
-│     2. Introduces NEW information                                │
-│     3. Used with certain verbs/adjectives                        │
-│     4. Marks the subject in relative clauses                     │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **が — The Subject Marker**
+>
+> - **Function**: Marks the grammatical SUBJECT
+> **Key uses**:
+>   1. Answers "who/what" questions
+>   2. Introduces NEW information
+>   3. Used with certain verbs/adjectives
+>   4. Marks the subject in relative clauses
 
 ### 4.2 は vs が: The Core Difference
 
@@ -237,20 +222,15 @@ When a question word (who, what) is the subject, always use が:
 
 ### 5.1 What Does を Do?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              を — The Object Marker                               │
-│                                                                  │
-│   Written: を (hiragana "wo")                                    │
-│   Read as: o (the "w" is silent in modern Japanese)              │
-│   Function: Marks the DIRECT OBJECT of a verb                    │
-│             (the thing being acted upon)                         │
-│                                                                  │
-│   すし を 食べます。                                               │
-│   Sushi o tabemasu.                                              │
-│   "I eat sushi." (sushi = the thing being eaten)                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **を — The Object Marker**
+>
+> - **Written**: を (hiragana "wo")
+> - **Read as**: o (the "w" is silent in modern Japanese)
+> - **Function**: Marks the DIRECT OBJECT of a verb (the thing being acted upon)
+>
+> すし を 食べます。
+> Sushi o tabemasu.
+> "I eat sushi." (sushi = the thing being eaten)
 
 ### 5.2 Examples
 
@@ -281,23 +261,16 @@ When a question word (who, what) is the subject, always use が:
 
 に is one of the most versatile particles. For N5 level, focus on these three uses:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              に — Direction / Time / Location                      │
-│                                                                  │
-│   1. Direction/Goal: "to" a place                                │
-│      学校に行きます。 (Gakkou ni ikimasu.)                         │
-│      "I go to school."                                           │
-│                                                                  │
-│   2. Time: "at" a specific time                                  │
-│      七時に起きます。 (Shichiji ni okimasu.)                       │
-│      "I wake up at 7 o'clock."                                   │
-│                                                                  │
-│   3. Location of existence: "in/at" (with いる/ある)              │
-│      部屋にいます。 (Heya ni imasu.)                               │
-│      "I am in the room."                                         │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **に — Direction / Time / Location**
+>
+> 1. **Direction/Goal**: "to" a place
+>    学校に行きます。 (Gakkou ni ikimasu.) — "I go to school."
+>
+> 2. **Time**: "at" a specific time
+>    七時に起きます。 (Shichiji ni okimasu.) — "I wake up at 7 o'clock."
+>
+> 3. **Location of existence**: "in/at" (with いる/ある)
+>    部屋にいます。 (Heya ni imasu.) — "I am in the room."
 
 ### 6.2 に for Direction ("to")
 
@@ -333,19 +306,13 @@ Used with いる (animate) and ある (inanimate):
 
 ### 7.1 Two Main Uses of で
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              で — Place of Action / Means                          │
-│                                                                  │
-│   1. Place of action: "at/in" (where an action happens)          │
-│      図書館で勉強します。 (Toshokan de benkyou shimasu.)           │
-│      "I study at the library."                                   │
-│                                                                  │
-│   2. Means/Method: "by/with/using"                               │
-│      バスで行きます。 (Basu de ikimasu.)                           │
-│      "I go by bus."                                              │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **で — Place of Action / Means**
+>
+> 1. **Place of action**: "at/in" (where an action happens)
+>    図書館で勉強します。 (Toshokan de benkyou shimasu.) — "I study at the library."
+>
+> 2. **Means/Method**: "by/with/using"
+>    バスで行きます。 (Basu de ikimasu.) — "I go by bus."
 
 ### 7.2 で for Place of Action
 
@@ -388,20 +355,13 @@ Think of it this way:
 
 ### 8.1 Forming Questions
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              か — The Question Particle                            │
-│                                                                  │
-│   Rule: Add か to the end of any statement to make it a question │
-│   No word order change needed!                                   │
-│                                                                  │
-│   Statement: これは本です。    (Kore wa hon desu.)                │
-│              "This is a book."                                   │
-│                                                                  │
-│   Question:  これは本ですか。  (Kore wa hon desu ka.)             │
-│              "Is this a book?"                                   │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **か — The Question Particle**
+>
+> Rule: Add か to the end of any statement to make it a question.
+> No word order change needed!
+>
+> - **Statement**: これは本です。 (Kore wa hon desu.) — "This is a book."
+> - **Question**: これは本ですか。 (Kore wa hon desu ka.) — "Is this a book?"
 
 ### 8.2 Yes/No Questions
 
@@ -449,23 +409,16 @@ Think of it this way:
 
 Japanese demonstratives are organized into a neat system based on distance from the speaker:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              こそあど — Distance System                            │
-│                                                                  │
-│   こ (ko-) = Close to SPEAKER ("this")                           │
-│   そ (so-) = Close to LISTENER ("that near you")                 │
-│   あ (a-)  = Far from BOTH ("that over there")                   │
-│   ど (do-) = Question ("which?")                                 │
-│                                                                  │
-│        Speaker          Listener         Far Away               │
-│          ↓                 ↓                ↓                    │
-│        こ (ko)           そ (so)          あ (a)                  │
-│        "this"          "that"        "that over there"           │
-│                                                                  │
-│                        ど (do) = "which?"                         │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **こそあど — Distance System**
+>
+> - **こ (ko-)**: Close to SPEAKER ("this")
+> - **そ (so-)**: Close to LISTENER ("that near you")
+> - **あ (a-)**: Far from BOTH ("that over there")
+> - **ど (do-)**: Question ("which?")
+>
+> Speaker → こ (ko) "this" | Listener → そ (so) "that" | Far Away → あ (a) "that over there"
+>
+> ど (do) = "which?"
 
 ### 9.2 Complete こそあど Table
 
