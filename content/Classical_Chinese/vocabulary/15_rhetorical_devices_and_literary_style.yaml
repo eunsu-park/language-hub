@@ -1,0 +1,387 @@
+lesson: "15_Rhetorical_Devices_and_Literary_Style"
+lesson_number: 15
+hanja_level: L3
+categories:
+  - id: rhetoric_terms
+    label:
+      en: "Rhetorical Devices"
+      ko: "수사법 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 對
+        reading: 대
+        meaning_kun: 대할
+        translation:
+          en: to face, parallel; antithesis
+          ko: 대하다, 대구
+        gender: null
+        plural: null
+        notes:
+          en: "To face or oppose. In rhetoric, refers to parallelism (對句)."
+          ko: "대하다. 수사법에서 대구(對句)를 뜻함."
+      - classical_chinese: 典
+        reading: 전
+        meaning_kun: 법
+        translation:
+          en: canon, classic; allusion
+          ko: 법전, 전고
+        gender: null
+        plural: null
+        notes:
+          en: "Canon or classic. In rhetoric, 典故 means literary allusion."
+          ko: "법전, 전범. 수사법에서 典故는 전고(고사 인용)를 뜻함."
+      - classical_chinese: 故
+        reading: 고
+        meaning_kun: 옛
+        translation:
+          en: old, reason; allusion source
+          ko: 옛, 이유; 고사
+        gender: null
+        plural: null
+        notes:
+          en: "Old or reason. 典故 (allusion) uses classical stories."
+          ko: "옛것, 이유. 典故(전고)는 고전 이야기를 인용하는 것."
+      - classical_chinese: 比
+        reading: 비
+        meaning_kun: 견줄
+        translation:
+          en: to compare; simile, analogy
+          ko: 비교하다; 비유
+        gender: null
+        plural: null
+        notes:
+          en: "To compare. One of the six principles of the Book of Songs (詩經六義)."
+          ko: "비교하다. 시경 육의(詩經六義) 중 하나인 '비'."
+      - classical_chinese: 喻
+        reading: 유
+        meaning_kun: 깨우칠
+        translation:
+          en: metaphor, to explain by analogy
+          ko: 비유, 깨우치다
+        gender: null
+        plural: null
+        notes:
+          en: "Metaphor. 比喻 together means simile or metaphor."
+          ko: "비유. 比喻는 함께 쓰여 직유나 은유를 뜻함."
+      - classical_chinese: 誇
+        reading: 과
+        meaning_kun: 자랑할
+        translation:
+          en: to exaggerate, to boast
+          ko: 자랑하다, 과장하다
+        gender: null
+        plural: null
+        notes:
+          en: "To exaggerate. 誇張 means hyperbole in rhetoric."
+          ko: "과장하다. 誇張은 수사법에서 과장법을 뜻함."
+      - classical_chinese: 張
+        reading: 장
+        meaning_kun: 베풀
+        translation:
+          en: to stretch, to expand
+          ko: 베풀다, 펼치다
+        gender: null
+        plural: null
+        notes:
+          en: "To stretch or expand. 弓 (bow) + 長 (long)."
+          ko: "베풀다, 펼치다. 弓(활 궁) + 長(긴 장)."
+      - classical_chinese: 興
+        reading: 흥
+        meaning_kun: 일어날
+        translation:
+          en: to rise; evocative imagery
+          ko: 일어나다; 흥
+        gender: null
+        plural: null
+        notes:
+          en: "To rise. In poetry, 興 is evocative imagery that introduces a theme."
+          ko: "일어나다. 시에서 興은 주제를 환기하는 비흥(比興) 기법."
+      - classical_chinese: 賦
+        reading: 부
+        meaning_kun: 읊을
+        translation:
+          en: narration; rhapsody
+          ko: 서술하다; 부
+        gender: null
+        plural: null
+        notes:
+          en: "Direct narration. One of the six principles of the Book of Songs."
+          ko: "직접 서술. 시경 육의(詩經六義) 중 하나."
+      - classical_chinese: 反
+        reading: 반
+        meaning_kun: 되돌릴
+        translation:
+          en: to reverse, opposite; irony
+          ko: 되돌리다, 반대; 반어
+        gender: null
+        plural: null
+        notes:
+          en: "To reverse. 反語 means irony or rhetorical question."
+          ko: "되돌리다. 反語는 반어법을 뜻함."
+      - classical_chinese: 語
+        reading: 어
+        meaning_kun: 말씀
+        translation:
+          en: language, speech, words
+          ko: 말, 언어
+        gender: null
+        plural: null
+        notes:
+          en: "Language or words. 言 (speech) + 吾 (I). Used in compounds like 反語."
+          ko: "말, 언어. 言(말씀 언) + 吾(나 오). 反語 등의 합성어에 쓰임."
+      - classical_chinese: 擬
+        reading: 의
+        meaning_kun: 본뜰
+        translation:
+          en: to imitate, to emulate
+          ko: 본뜨다, 모방하다
+        gender: null
+        plural: null
+        notes:
+          en: "To imitate. 擬人 means personification in rhetoric."
+          ko: "본뜨다. 擬人은 수사법에서 의인법을 뜻함."
+      - classical_chinese: 借
+        reading: 차
+        meaning_kun: 빌릴
+        translation:
+          en: to borrow; metonymy
+          ko: 빌리다; 차용
+        gender: null
+        plural: null
+        notes:
+          en: "To borrow. 借代 means metonymy or substitution."
+          ko: "빌리다. 借代는 대유법(환유)을 뜻함."
+      - classical_chinese: 排
+        reading: 배
+        meaning_kun: 밀칠
+        translation:
+          en: to arrange in order; parallelism
+          ko: 밀다, 배열하다
+        gender: null
+        plural: null
+        notes:
+          en: "To arrange. 排比 means parallelism in rhetoric."
+          ko: "배열하다. 排比는 수사법에서 배비(병렬법)를 뜻함."
+
+  - id: literary_style
+    label:
+      en: "Literary Style"
+      ko: "문체"
+    type: vocabulary
+    words:
+      - classical_chinese: 文
+        reading: 문
+        meaning_kun: 글
+        translation:
+          en: writing, literature, pattern
+          ko: 글, 문학, 무늬
+        gender: null
+        plural: null
+        notes:
+          en: "Writing or literature. Pictograph of a person with tattoo patterns."
+          ko: "글, 문학. 무늬가 있는 사람의 상형자."
+      - classical_chinese: 體
+        reading: 체
+        meaning_kun: 몸
+        translation:
+          en: body; style, form
+          ko: 몸; 체, 양식
+        gender: null
+        plural: null
+        notes:
+          en: "Body or style. 文體 means literary style or genre."
+          ko: "몸, 양식. 文體는 문체(문학의 형식)를 뜻함."
+      - classical_chinese: 散
+        reading: 산
+        meaning_kun: 흩을
+        translation:
+          en: to scatter; prose (unrhymed)
+          ko: 흩다; 산문
+        gender: null
+        plural: null
+        notes:
+          en: "To scatter. 散文 means prose, writing without strict meter."
+          ko: "흩다. 散文은 운율에 구애받지 않는 산문을 뜻함."
+      - classical_chinese: 韻
+        reading: 운
+        meaning_kun: 운
+        translation:
+          en: rhyme; rhymed prose
+          ko: 운; 운문
+        gender: null
+        plural: null
+        notes:
+          en: "Rhyme. 韻文 means rhymed or metrical writing."
+          ko: "운. 韻文은 운율이 있는 운문을 뜻함."
+      - classical_chinese: 章
+        reading: 장
+        meaning_kun: 글
+        translation:
+          en: chapter, passage, composition
+          ko: 장, 글
+        gender: null
+        plural: null
+        notes:
+          en: "A chapter or passage. 文章 means a literary composition."
+          ko: "장이나 글. 文章은 문장(글)을 뜻함."
+      - classical_chinese: 辭
+        reading: 사
+        meaning_kun: 말씀
+        translation:
+          en: diction, rhetoric; Chu Ci form
+          ko: 말, 수사; 초사
+        gender: null
+        plural: null
+        notes:
+          en: "Diction or rhetoric. Also refers to the Chu Ci (楚辭) poetry form."
+          ko: "말, 수사. 초사(楚辭) 시 형식을 가리키기도 함."
+      - classical_chinese: 論
+        reading: 론
+        meaning_kun: 논할
+        translation:
+          en: to discuss; essay, treatise
+          ko: 논하다; 논문
+        gender: null
+        plural: null
+        notes:
+          en: "To discuss. 論 is also a genre of argumentative prose."
+          ko: "논하다. 論은 논설문의 한 장르이기도 함."
+      - classical_chinese: 說
+        reading: 설
+        meaning_kun: 말씀
+        translation:
+          en: to explain; expository essay
+          ko: 말하다; 설명문
+        gender: null
+        plural: null
+        notes:
+          en: "To explain. 說 is a genre of expository or persuasive writing."
+          ko: "말하다. 說은 설명이나 설득하는 글의 장르."
+
+  - id: descriptive_words
+    label:
+      en: "Descriptive and Aesthetic Terms"
+      ko: "묘사 및 미학 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 華
+        reading: 화
+        meaning_kun: 빛날
+        translation:
+          en: splendid, flowery, magnificent
+          ko: 빛나다, 화려한
+        gender: null
+        plural: null
+        notes:
+          en: "Splendid or flowery. Describes ornate literary style."
+          ko: "빛나다, 화려하다. 화려한 문체를 묘사."
+      - classical_chinese: 麗
+        reading: 려
+        meaning_kun: 고울
+        translation:
+          en: beautiful, elegant
+          ko: 고운, 아름다운
+        gender: null
+        plural: null
+        notes:
+          en: "Beautiful. 華麗 means splendid and beautiful."
+          ko: "곱다. 華麗는 화려하고 아름답다는 뜻."
+      - classical_chinese: 質
+        reading: 질
+        meaning_kun: 바탕
+        translation:
+          en: substance, nature; plain
+          ko: 바탕, 질박한
+        gender: null
+        plural: null
+        notes:
+          en: "Substance or nature. Describes plain, unadorned style."
+          ko: "바탕. 꾸미지 않은 질박한 문체를 묘사."
+      - classical_chinese: 朴
+        reading: 박
+        meaning_kun: 순박할
+        translation:
+          en: simple, unadorned, plain
+          ko: 순박한, 소박한
+        gender: null
+        plural: null
+        notes:
+          en: "Simple and unadorned. 質朴 means plain and simple."
+          ko: "순박하다. 質朴은 소박하고 꾸밈없다는 뜻."
+      - classical_chinese: 雄
+        reading: 웅
+        meaning_kun: 수컷
+        translation:
+          en: heroic, grand, powerful
+          ko: 수컷, 웅장한
+        gender: null
+        plural: null
+        notes:
+          en: "Heroic or grand. 雄渾 describes a powerful, majestic style."
+          ko: "웅장하다. 雄渾은 힘차고 웅장한 문체를 묘사."
+      - classical_chinese: 渾
+        reading: 혼
+        meaning_kun: 온통
+        translation:
+          en: whole, turbid; integrated
+          ko: 온통, 통째의
+        gender: null
+        plural: null
+        notes:
+          en: "Whole or integrated. 雄渾 means grand and full-bodied."
+          ko: "온통. 雄渾은 웅장하고 혼연일체인 느낌."
+      - classical_chinese: 雅
+        reading: 아
+        meaning_kun: 맑을
+        translation:
+          en: elegant, refined, classical
+          ko: 우아한, 고상한
+        gender: null
+        plural: null
+        notes:
+          en: "Elegant and refined. Also a section of the Book of Songs (詩經)."
+          ko: "우아하다. 시경(詩經)의 한 부분이기도 함."
+      - classical_chinese: 俗
+        reading: 속
+        meaning_kun: 풍속
+        translation:
+          en: vulgar, common, popular
+          ko: 풍속, 속된
+        gender: null
+        plural: null
+        notes:
+          en: "Common or vulgar. Opposite of 雅 (elegant)."
+          ko: "속되다. 雅(우아한)의 반대."
+      - classical_chinese: 簡
+        reading: 간
+        meaning_kun: 간략할
+        translation:
+          en: simple, concise, bamboo strip
+          ko: 간략한, 대쪽
+        gender: null
+        plural: null
+        notes:
+          en: "Simple or concise. Also refers to bamboo writing strips."
+          ko: "간략하다. 대나무 서사 도구를 뜻하기도 함."
+      - classical_chinese: 潔
+        reading: 결
+        meaning_kun: 깨끗할
+        translation:
+          en: clean, pure, concise
+          ko: 깨끗한, 결백한
+        gender: null
+        plural: null
+        notes:
+          en: "Clean or pure. 簡潔 means concise and clean."
+          ko: "깨끗하다. 簡潔은 간결하고 깔끔하다는 뜻."
+      - classical_chinese: 典
+        reading: 전
+        meaning_kun: 법
+        translation:
+          en: classic; classical elegance
+          ko: 법전; 전아한
+        gender: null
+        plural: null
+        notes:
+          en: "Classic. 典雅 means classically elegant writing style."
+          ko: "법전. 典雅는 전아한(고전적으로 우아한) 문체."
