@@ -1,0 +1,407 @@
+lesson: 07_Sentence_Patterns_I_Statements
+lesson_number: 7
+hanja_level: L4
+categories:
+- id: basic_verbs
+  label:
+    en: Basic Verbs
+    ko: 기본 동사
+  type: vocabulary
+  words:
+  - classical_chinese: 出
+    reading: 출
+    meaning_kun: 날
+    translation:
+      en: to go out; to exit
+      ko: 나가다; 나오다
+    gender: null
+    plural: null
+    notes:
+      en: "Foot (止) emerging from an enclosure. To go out."
+      ko: "울타리에서 발(止)이 나오는 모양. 나가다."
+  - classical_chinese: 入
+    reading: 입
+    meaning_kun: 들
+    translation:
+      en: to enter
+      ko: 들어가다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of entering. Opposite of 出."
+      ko: "들어가는 모양의 상형자. 出의 반대."
+  - classical_chinese: 來
+    reading: 래
+    meaning_kun: 올
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted wheat; borrowed for 'to come'. Opposite of 去."
+      ko: "원래 보리를 나타냈으나 '오다'로 가차됨. 去의 반대."
+  - classical_chinese: 去
+    reading: 거
+    meaning_kun: 갈
+    translation:
+      en: to go; to leave; to depart
+      ko: 가다; 떠나다
+    gender: null
+    plural: null
+    notes:
+      en: "Person (大) leaving a place (口). To go away."
+      ko: "사람(大)이 장소(口)를 떠나는 모양. 가다."
+  - classical_chinese: 生
+    reading: 생
+    meaning_kun: 날
+    translation:
+      en: to be born; to live; life
+      ko: 나다; 살다; 삶
+    gender: null
+    plural: null
+    notes:
+      en: "Plant sprouting from the earth. Life; birth; to live."
+      ko: "땅에서 식물이 싹트는 모양. 생명; 탄생; 살다."
+  - classical_chinese: 死
+    reading: 사
+    meaning_kun: 죽을
+    translation:
+      en: to die; death
+      ko: 죽다; 죽음
+    gender: null
+    plural: null
+    notes:
+      en: "Bone fragments (歹) + person (匕). Death. Opposite of 生."
+      ko: "뼈 조각(歹) + 사람(匕). 죽음. 生의 반대."
+  - classical_chinese: 起
+    reading: 기
+    meaning_kun: 일어날
+    translation:
+      en: to rise; to get up; to start
+      ko: 일어나다; 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk radical (走) + 己 (sound). To rise up or begin."
+      ko: "달릴 부수(走) + 己(음). 일어나거나 시작하다."
+  - classical_chinese: 止
+    reading: 지
+    meaning_kun: 그칠
+    translation:
+      en: to stop; to cease
+      ko: 그치다; 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a foot at rest. To stop; to cease."
+      ko: "쉬고 있는 발의 상형자. 멈추다; 그치다."
+  - classical_chinese: 與
+    reading: 여
+    meaning_kun: 줄
+    translation:
+      en: to give; with; and
+      ko: 주다; ~와 함께
+    gender: null
+    plural: null
+    notes:
+      en: "Four hands cooperating. To give; 'with'; 'and'."
+      ko: "네 손이 협력하는 모양. 주다; '~와'; '그리고'."
+  - classical_chinese: 受
+    reading: 수
+    meaning_kun: 받을
+    translation:
+      en: to receive; to accept
+      ko: 받다
+    gender: null
+    plural: null
+    notes:
+      en: "Hands passing something. To receive from above."
+      ko: "무언가를 전달하는 손들의 모양. 위에서 받다."
+  - classical_chinese: 得
+    reading: 득
+    meaning_kun: 얻을
+    translation:
+      en: to get; to obtain; to be able
+      ko: 얻다; ~할 수 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk radical (彳) + 貝 (shell/money) + hand. To obtain something valuable."
+      ko: "걸을 부수(彳) + 貝(조개/돈) + 손. 귀한 것을 얻다."
+  - classical_chinese: 失
+    reading: 실
+    meaning_kun: 잃을
+    translation:
+      en: to lose; to miss
+      ko: 잃다; 놓치다
+    gender: null
+    plural: null
+    notes:
+      en: "Hand (手) dropping something. To lose. Opposite of 得."
+      ko: "손(手)에서 무언가 떨어지는 모양. 잃다. 得의 반대."
+  - classical_chinese: 用
+    reading: 용
+    meaning_kun: 쓸
+    translation:
+      en: to use; to employ
+      ko: 쓰다; 사용하다
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted a bronze vessel. To use; to employ."
+      ko: "원래 청동기를 나타냈음. 쓰다; 사용하다."
+  - classical_chinese: 成
+    reading: 성
+    meaning_kun: 이를
+    translation:
+      en: to accomplish; to complete; to become
+      ko: 이루다; 완성하다; 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Halberd (戈) + 丁. To accomplish; to bring to completion."
+      ko: "창(戈) + 丁. 이루다; 완성하다."
+- id: descriptive_words
+  label:
+    en: Descriptive Words
+    ko: 서술어
+  type: vocabulary
+  words:
+  - classical_chinese: 明
+    reading: 명
+    meaning_kun: 밝을
+    translation:
+      en: bright; clear; to understand
+      ko: 밝다; 분명하다; 밝히다
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + moon (月). Bright; clear; to illuminate."
+      ko: "해(日) + 달(月). 밝다; 분명하다; 밝히다."
+  - classical_chinese: 暗
+    reading: 암
+    meaning_kun: 어두울
+    translation:
+      en: dark; dim; secret
+      ko: 어둡다; 은밀하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sun radical (日) + 音 (sound). The sun obscured; dark. Opposite of 明."
+      ko: "해 부수(日) + 音(음). 해가 가려진 상태; 어둡다. 明의 반대."
+  - classical_chinese: 強
+    reading: 강
+    meaning_kun: 강할
+    translation:
+      en: strong; powerful
+      ko: 강하다; 힘세다
+    gender: null
+    plural: null
+    notes:
+      en: "Bow (弓) + insect (虫) + 口. A hard-shelled insect; strong."
+      ko: "활(弓) + 벌레(虫) + 口. 딱딱한 껍질의 벌레; 강하다."
+  - classical_chinese: 弱
+    reading: 약
+    meaning_kun: 약할
+    translation:
+      en: weak; feeble
+      ko: 약하다
+    gender: null
+    plural: null
+    notes:
+      en: "Two bows (弓弓) decorated, suggesting ornamental rather than functional; weak."
+      ko: "활 두 개(弓弓)에 장식이 달린 모양. 실용적이지 않아 약함을 나타냄."
+  - classical_chinese: 輕
+    reading: 경
+    meaning_kun: 가벼울
+    translation:
+      en: light (weight); slight
+      ko: 가볍다
+    gender: null
+    plural: null
+    notes:
+      en: "Cart radical (車) + 巠 (sound). A lightly loaded cart."
+      ko: "수레 부수(車) + 巠(음). 가볍게 실린 수레."
+  - classical_chinese: 重
+    reading: 중
+    meaning_kun: 무거울
+    translation:
+      en: heavy; important; to repeat
+      ko: 무겁다; 중요하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person carrying a heavy load. Heavy; important. Also read 중 for 'to repeat'."
+      ko: "무거운 짐을 진 사람의 모양. 무겁다; 중요하다."
+  - classical_chinese: 深
+    reading: 심
+    meaning_kun: 깊을
+    translation:
+      en: deep; profound
+      ko: 깊다
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 罙 (sound). Deep water; profound."
+      ko: "물 부수(氵) + 罙(음). 깊은 물; 심오하다."
+  - classical_chinese: 淺
+    reading: 천
+    meaning_kun: 얕을
+    translation:
+      en: shallow; superficial
+      ko: 얕다
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 戔 (sound). Shallow water. Opposite of 深."
+      ko: "물 부수(氵) + 戔(음). 얕은 물. 深의 반대."
+- id: adverbs
+  label:
+    en: Adverbs
+    ko: 부사
+  type: vocabulary
+  words:
+  - classical_chinese: 皆
+    reading: 개
+    meaning_kun: 다
+    translation:
+      en: all; everyone
+      ko: 모두; 다
+    gender: null
+    plural: null
+    notes:
+      en: "All together. Universal quantifier meaning 'all/everyone'."
+      ko: "모두 함께. '모두/다'의 뜻을 가진 전칭 부사."
+  - classical_chinese: 亦
+    reading: 역
+    meaning_kun: 또
+    translation:
+      en: also; too; likewise
+      ko: 또한; 역시
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of armpits (both sides). 'Also' = on both sides."
+      ko: "겨드랑이(양쪽)의 상형자. '또한' = 양쪽 모두."
+  - classical_chinese: 甚
+    reading: 심
+    meaning_kun: 심할
+    translation:
+      en: very; extreme; excessively
+      ko: 심하다; 매우
+    gender: null
+    plural: null
+    notes:
+      en: "Intensifier adverb meaning 'very/extremely'."
+      ko: "강조 부사로 '매우/몹시'의 뜻."
+  - classical_chinese: 最
+    reading: 최
+    meaning_kun: 가장
+    translation:
+      en: most; -est (superlative)
+      ko: 가장; 최고로
+    gender: null
+    plural: null
+    notes:
+      en: "Superlative adverb. 最善 = the best; 最大 = the biggest."
+      ko: "최상급 부사. 最善 = 가장 좋은; 最大 = 가장 큰."
+  - classical_chinese: 必
+    reading: 필
+    meaning_kun: 반드시
+    translation:
+      en: must; certainly; necessarily
+      ko: 반드시; 꼭
+    gender: null
+    plural: null
+    notes:
+      en: "A weapon handle firmly gripped. Certainty; necessity."
+      ko: "무기 자루를 단단히 잡은 모양. 확실함; 필연."
+  - classical_chinese: 常
+    reading: 상
+    meaning_kun: 항상
+    translation:
+      en: always; often; constant
+      ko: 항상; 늘; 떳떳하다
+    gender: null
+    plural: null
+    notes:
+      en: "Cloth radical (巾) below. Something that remains constant; always."
+      ko: "천 부수(巾)가 아래에. 변하지 않는 것; 항상."
+  - classical_chinese: 已
+    reading: 이
+    meaning_kun: 이미
+    translation:
+      en: already; to stop; finished
+      ko: 이미; 그치다
+    gender: null
+    plural: null
+    notes:
+      en: "Depicts completion. 'Already' or 'to have finished'."
+      ko: "완료를 나타냄. '이미' 또는 '마치다'."
+  - classical_chinese: 猶
+    reading: 유
+    meaning_kun: 오히려
+    translation:
+      en: still; yet; like; as if
+      ko: 오히려; 여전히; ~같다
+    gender: null
+    plural: null
+    notes:
+      en: "Dog radical (犭) + 酋. Like a hesitant monkey; 'still/yet' or 'like'."
+      ko: "개 부수(犭) + 酋. 망설이는 원숭이처럼; '오히려/여전히' 또는 '~같다'."
+  - classical_chinese: 尙
+    reading: 상
+    meaning_kun: 오히려
+    translation:
+      en: still; yet; to esteem
+      ko: 오히려; 숭상하다
+    gender: null
+    plural: null
+    notes:
+      en: "To esteem or value. As adverb: 'still/yet', implying 'even more so'."
+      ko: "숭상하다, 귀하게 여기다. 부사로: '오히려', '하물며'의 뉘앙스."
+  - classical_chinese: 相
+    reading: 상
+    meaning_kun: 서로
+    translation:
+      en: mutually; each other; to look at
+      ko: 서로; 보다
+    gender: null
+    plural: null
+    notes:
+      en: "Eye (目) looking at a tree (木). Mutual; reciprocal. Also means 'appearance'."
+      ko: "눈(目)으로 나무(木)를 보는 모양. 서로; 상호적. '모습'이라는 뜻도 있음."
+  - classical_chinese: 自
+    reading: 자
+    meaning_kun: 스스로
+    translation:
+      en: self; from; since
+      ko: 스스로; ~부터; ~에서
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a nose. 'Self' (people point to their nose). Also 'from/since'."
+      ko: "코의 상형자. '스스로'(사람들이 코를 가리킴). '~부터'의 뜻도 있음."
+  - classical_chinese: 初
+    reading: 초
+    meaning_kun: 처음
+    translation:
+      en: beginning; first; initially
+      ko: 처음; 초
+    gender: null
+    plural: null
+    notes:
+      en: "Clothes radical (衤) + knife (刀). First cut of cloth; the beginning."
+      ko: "옷 부수(衤) + 칼(刀). 천을 처음 자르는 것; 시작."
+  - classical_chinese: 終
+    reading: 종
+    meaning_kun: 마칠
+    translation:
+      en: end; final; to finish
+      ko: 마치다; 끝
+    gender: null
+    plural: null
+    notes:
+      en: "Thread radical (糸) + 冬 (winter/end). The end of a thread; to finish."
+      ko: "실 부수(糸) + 冬(겨울/끝). 실의 끝; 마치다."
