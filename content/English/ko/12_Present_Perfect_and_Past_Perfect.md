@@ -24,30 +24,22 @@
 
 ## 1. 현재완료가 한국어 화자에게 어려운 이유
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 화자에게 가장 어려운 시제                                 │
-│                                                                 │
-│   한국어에는 현재완료 시제가 없습니다.                             │
-│   한국어 과거시제 (-었-)가 두 가지를 모두 포함합니다:              │
-│     "I ate lunch." (단순과거)                                    │
-│     "I have eaten lunch." (현재완료)                              │
-│   둘 다 한국어로 나는 점심을 먹었다!                              │
-│                                                                 │
-│   하지만 영어에서는 다릅니다:                                     │
-│                                                                 │
-│   "I ate lunch."          (단순과거)                              │
-│   → 과거 사건에 초점, 완료됨, 구체적인 과거 시점                  │
-│   → 나는 점심을 먹었다 (과거 사건에 초점)                         │
-│                                                                 │
-│   "I have eaten lunch."   (현재완료)                              │
-│   → 과거 행동의 현재 결과에 초점                                  │
-│   → 나는 점심을 먹은 상태이다 (현재 결과에 초점 — 배가 안 고프다) │
-│                                                                 │
-│   핵심 개념: 현재완료는 과거와 현재를 연결합니다.                  │
-│   행동은 과거에 일어났지만, 그 결과나 관련성이 현재에 있습니다.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **한국어 화자에게 가장 어려운 시제**
+>
+> 한국어에는 현재완료 시제가 없습니다.
+> 한국어 과거시제 (-었-)가 두 가지를 모두 포함합니다:
+> "I ate lunch." (단순과거)
+> "I have eaten lunch." (현재완료)
+> 둘 다 한국어로 나는 점심을 먹었다!
+> 하지만 영어에서는 다릅니다:
+> "I ate lunch."          (단순과거)
+> → 과거 사건에 초점, 완료됨, 구체적인 과거 시점
+> → 나는 점심을 먹었다 (과거 사건에 초점)
+> "I have eaten lunch."   (현재완료)
+> → 과거 행동의 현재 결과에 초점
+> → 나는 점심을 먹은 상태이다 (현재 결과에 초점 — 배가 안 고프다)
+> 핵심 개념: 현재완료는 과거와 현재를 연결합니다.
+> 행동은 과거에 일어났지만, 그 결과나 관련성이 현재에 있습니다.
 
 ---
 
@@ -193,35 +185,24 @@ write       wrote       written
 
 ### 4.1 핵심 구분
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   단순과거                       현재완료                        │
-│   ───────────                    ────────────────                │
-│   완료된 과거 시간               현재와의 연결                    │
-│   yesterday, last week, in 2020  today, this week, ever, never  │
-│                                                                 │
-│   "I ate lunch."                 "I've eaten lunch."            │
-│   (언제? 아마 정오에)            (결과: 지금 배부르다)            │
-│                                                                 │
-│   "She went to Paris."           "She's been to Paris."         │
-│   (과거의 구체적 여행)            (경험: 파리를 알고 있다)        │
-│                                                                 │
-│   "I lost my keys."              "I've lost my keys."           │
-│   (과거 사건, 찾았을 수도)       (결과: 지금 없다)               │
-│                                                                 │
-│   "He lived in Seoul for 3 years." "He has lived in Seoul for   │
-│   (더 이상 살지 않음)              3 years." (아직도 산다)       │
-│                                                                 │
-│   구체적 시간 → 단순과거          비구체적 시간 → 현재완료        │
-│   yesterday, last week,          ever, never, already, yet,    │
-│   in 2020, when I was young      just, so far, recently        │
-│                                                                 │
-│   ※ 현재완료를 구체적 과거 시간과 절대 함께 쓰지 마세요:        │
-│     "I have eaten lunch yesterday." ✗✗✗                        │
-│     "I ate lunch yesterday." ✓                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **단순과거                       현재완료**
+>
+> 완료된 과거 시간               현재와의 연결
+> yesterday, last week, in 2020  today, this week, ever, never
+> "I ate lunch."                 "I've eaten lunch."
+> (언제? 아마 정오에)            (결과: 지금 배부르다)
+> "She went to Paris."           "She's been to Paris."
+> (과거의 구체적 여행)            (경험: 파리를 알고 있다)
+> "I lost my keys."              "I've lost my keys."
+> (과거 사건, 찾았을 수도)       (결과: 지금 없다)
+> "He lived in Seoul for 3 years." "He has lived in Seoul for
+> (더 이상 살지 않음)              3 years." (아직도 산다)
+> 구체적 시간 → 단순과거          비구체적 시간 → 현재완료
+> yesterday, last week,          ever, never, already, yet,
+> in 2020, when I was young      just, so far, recently
+> ※ 현재완료를 구체적 과거 시간과 절대 함께 쓰지 마세요:
+> "I have eaten lunch yesterday." ✗✗✗
+> "I ate lunch yesterday." ✓
 
 ### 4.2 시간 표지 규칙
 
@@ -263,25 +244,19 @@ B: "I visited Seoul and Busan."       (단순과거)
 
 ### 5.1 차이점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   since + 시점                     for + 기간                    │
-│   ──────────────────────────       ─────────────────────         │
-│   since 2020                       for 4 years                  │
-│   since Monday                     for 3 days                   │
-│   since January                    for 6 months                 │
-│   since 9 AM                       for 5 hours                  │
-│   since I was a child              for a long time              │
-│   since she arrived                for ages                     │
-│   since last summer                for 2 weeks                  │
-│                                                                 │
-│   since = 시작 시점 (부터)          for = 기간 길이 (동안)        │
-│                                                                 │
-│   "I've lived here since 2020."    = 2020년부터                 │
-│   "I've lived here for 4 years."   = 4년 동안                   │
-│   → 같은 의미, 다른 표현!                                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **since + 시점                     for + 기간**
+>
+> since 2020                       for 4 years
+> since Monday                     for 3 days
+> since January                    for 6 months
+> since 9 AM                       for 5 hours
+> since I was a child              for a long time
+> since she arrived                for ages
+> since last summer                for 2 weeks
+> since = 시작 시점 (부터)          for = 기간 길이 (동안)
+> "I've lived here since 2020."    = 2020년부터
+> "I've lived here for 4 years."   = 4년 동안
+> → 같은 의미, 다른 표현!
 
 ### 5.2 흔한 오류
 
@@ -419,28 +394,22 @@ they had eaten        (they'd eaten)
 
 ### 8.2 과거완료를 사용하는 경우
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   과거완료 = "과거의 과거"                                        │
-│   과거에 대해 이야기하면서 그보다 더 이전에                        │
-│   일어난 일을 언급할 때 사용합니다.                               │
-│                                                                 │
-│   시간순:                                                        │
-│   ──────────────X──────────────X──────────── 현재               │
-│              과거완료          단순과거                            │
-│              (더 이전)         (더 나중)                          │
-│                                                                 │
-│   "When I arrived, the movie had already started."              │
-│   (내가 도착했을 때, 영화는 이미 시작한 상태였다.)                │
-│   1번째: 영화 시작 (과거완료 — 더 이전)                          │
-│   2번째: 내가 도착 (단순과거 — 더 나중)                          │
-│                                                                 │
-│   "She told me she had been to Korea."                          │
-│   (그녀는 한국에 가 본 적 있다고 나에게 말했다.)                  │
-│   1번째: 한국에 감 (과거완료 — 더 이전)                          │
-│   2번째: 나에게 말함 (단순과거 — 더 나중)                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **과거완료 = "과거의 과거"**
+>
+> 과거에 대해 이야기하면서 그보다 더 이전에
+> 일어난 일을 언급할 때 사용합니다.
+> 시간순:
+> ──────────────X──────────────X──────────── 현재
+> 과거완료          단순과거
+> (더 이전)         (더 나중)
+> "When I arrived, the movie had already started."
+> (내가 도착했을 때, 영화는 이미 시작한 상태였다.)
+> 1번째: 영화 시작 (과거완료 — 더 이전)
+> 2번째: 내가 도착 (단순과거 — 더 나중)
+> "She told me she had been to Korea."
+> (그녀는 한국에 가 본 적 있다고 나에게 말했다.)
+> 1번째: 한국에 감 (과거완료 — 더 이전)
+> 2번째: 나에게 말함 (단순과거 — 더 나중)
 
 ### 8.3 과거완료 예시
 
@@ -492,37 +461,27 @@ they had eaten        (they'd eaten)
 
 ### 9.1 오류 차트
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   오류                             올바른 표현                    │
-│   ─────                          ───────                        │
-│   "I have been to Japan          "I went to Japan               │
-│    last year."                    last year."                   │
-│   (구체적 시간 → 단순과거)                                       │
-│                                                                 │
-│   "I lost my keys."              "I've lost my keys."           │
-│   (현재 결과가 중요할 때)          (아직 없다)                    │
-│                                                                 │
-│   "I live here since 2020."      "I've lived here since 2020." │
-│   (since/for → 현재완료)                                         │
-│                                                                 │
-│   "Did you ever eat sushi?"      "Have you ever eaten sushi?"  │
-│   (인생 경험 → 현재완료)                                         │
-│                                                                 │
-│   "I have eaten lunch             "I ate lunch yesterday."      │
-│    yesterday."                    (구체적 시간 → 단순과거)       │
-│   ✗✗✗ 가장 흔한 오류                                            │
-│                                                                 │
-│   "I didn't eat yet."            "I haven't eaten yet."         │
-│   (yet → 현재완료)                (표준/격식)                    │
-│                                                                 │
-│   "I have lived in Seoul          "I lived in Seoul             │
-│    for 3 years."                   for 3 years."               │
-│   (더 이상 살지 않는 경우)         (더 이상 살지 않음)            │
-│   ※ 아직도 그곳에 산다면: "I have lived" ✓                      │
-│     더 이상 살지 않는다면: "I lived" ✓                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **오류                             올바른 표현**
+>
+> "I have been to Japan          "I went to Japan
+> last year."                    last year."
+> (구체적 시간 → 단순과거)
+> "I lost my keys."              "I've lost my keys."
+> (현재 결과가 중요할 때)          (아직 없다)
+> "I live here since 2020."      "I've lived here since 2020."
+> (since/for → 현재완료)
+> "Did you ever eat sushi?"      "Have you ever eaten sushi?"
+> (인생 경험 → 현재완료)
+> "I have eaten lunch             "I ate lunch yesterday."
+> yesterday."                    (구체적 시간 → 단순과거)
+> ✗✗✗ 가장 흔한 오류
+> "I didn't eat yet."            "I haven't eaten yet."
+> (yet → 현재완료)                (표준/격식)
+> "I have lived in Seoul          "I lived in Seoul
+> for 3 years."                   for 3 years."
+> (더 이상 살지 않는 경우)         (더 이상 살지 않음)
+> ※ 아직도 그곳에 산다면: "I have lived" ✓
+> 더 이상 살지 않는다면: "I lived" ✓
 
 ---
 
@@ -673,33 +632,25 @@ they had eaten        (they'd eaten)
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         현재완료 & 과거완료 빠른 가이드                            │
-│                                                                 │
-│   현재완료: have/has + 과거분사                                   │
-│   용법: 경험(ever/never), 결과(아직 관련 있음),                  │
-│         끝나지 않은 기간(today/this year), 기간(since/for)       │
-│                                                                 │
-│   ※ 구체적 과거 시간과 절대 함께 쓰지 않음 (yesterday, in 2020, ago) │
-│   ※ 단순과거 = 구체적 시간의 완료된 과거 사건                    │
-│   ※ 현재완료 = 현재와의 연결                                     │
-│                                                                 │
-│   since + 시점:  since 2020, since Monday, since 3 PM           │
-│   for + 기간:    for 5 years, for 3 days, for a long time       │
-│                                                                 │
-│   already (이미) → 긍정: "I've already finished."                │
-│   yet (아직) → 부정/의문: "Haven't finished yet."               │
-│   just (방금) → 최근: "I've just eaten."                         │
-│   still (아직도) → 좌절감: "I still haven't finished."           │
-│   ever (한번이라도) → 의문: "Have you ever been?"                │
-│   never (한번도 없다) → 부정: "I've never been."                 │
-│                                                                 │
-│   과거완료: had + 과거분사                                        │
-│   = 두 과거 사건 중 더 이전의 것                                  │
-│   "When I arrived, she had already left."                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **현재완료 & 과거완료 빠른 가이드**
+>
+> 현재완료: have/has + 과거분사
+> 용법: 경험(ever/never), 결과(아직 관련 있음),
+> 끝나지 않은 기간(today/this year), 기간(since/for)
+> ※ 구체적 과거 시간과 절대 함께 쓰지 않음 (yesterday, in 2020, ago)
+> ※ 단순과거 = 구체적 시간의 완료된 과거 사건
+> ※ 현재완료 = 현재와의 연결
+> since + 시점:  since 2020, since Monday, since 3 PM
+> for + 기간:    for 5 years, for 3 days, for a long time
+> already (이미) → 긍정: "I've already finished."
+> yet (아직) → 부정/의문: "Haven't finished yet."
+> just (방금) → 최근: "I've just eaten."
+> still (아직도) → 좌절감: "I still haven't finished."
+> ever (한번이라도) → 의문: "Have you ever been?"
+> never (한번도 없다) → 부정: "I've never been."
+> 과거완료: had + 과거분사
+> = 두 과거 사건 중 더 이전의 것
+> "When I arrived, she had already left."
 
 ---
 
