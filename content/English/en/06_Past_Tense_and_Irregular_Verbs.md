@@ -26,31 +26,23 @@
 
 ### 1.1 When to Use Simple Past
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Simple Past = completed actions in the past                   │
-│   A finished event at a specific (or implied) past time         │
-│                                                                 │
-│   1. Completed actions:                                         │
-│      "I ate lunch."              나는 점심을 먹었다.              │
-│      "She went to school."       그녀는 학교에 갔다.             │
-│                                                                 │
-│   2. Past states:                                               │
-│      "I was happy."              나는 행복했다.                   │
-│      "They were tired."          그들은 피곤했다.                 │
-│                                                                 │
-│   3. Past habits (used to):                                     │
-│      "I walked to school every day." 나는 매일 학교에 걸어갔다.    │
-│                                                                 │
-│   4. Sequences of past events:                                  │
-│      "I woke up, ate breakfast, and went to work."              │
-│      나는 일어나서, 아침을 먹고, 출근했다.                         │
-│                                                                 │
-│   ※ Korean past tense: verb stem + 었/았/였                     │
-│     먹다 → 먹었다    가다 → 갔다    하다 → 했다                   │
-│     English: add -ed (regular) or change form (irregular)       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Simple Past = completed actions in the past**
+>
+> A finished event at a specific (or implied) past time
+> 1. Completed actions:
+> "I ate lunch."              나는 점심을 먹었다.
+> "She went to school."       그녀는 학교에 갔다.
+> 2. Past states:
+> "I was happy."              나는 행복했다.
+> "They were tired."          그들은 피곤했다.
+> 3. Past habits (used to):
+> "I walked to school every day." 나는 매일 학교에 걸어갔다.
+> 4. Sequences of past events:
+> "I woke up, ate breakfast, and went to work."
+> 나는 일어나서, 아침을 먹고, 출근했다.
+> ※ Korean past tense: verb stem + 었/았/였
+> 먹다 → 먹었다    가다 → 갔다    하다 → 했다
+> English: add -ed (regular) or change form (irregular)
 
 ### 1.2 Key Difference from Korean
 
@@ -102,30 +94,22 @@ Rule 4: Short verbs (CVC pattern) → double final consonant + -ed
 
 ### 3.1 The Three Sounds
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   The -ed ending has THREE pronunciations:                      │
-│                                                                 │
-│   /t/ — after voiceless consonants: /p/, /k/, /f/, /s/, /ʃ/,  │
-│          /tʃ/                                                   │
-│   walked /wɔːkt/     cooked /kʊkt/     laughed /læft/           │
-│   passed /pæst/      washed /wɒʃt/     watched /wɒtʃt/         │
-│                                                                 │
-│   /d/ — after voiced consonants and vowels: /b/, /g/, /v/,     │
-│          /z/, /m/, /n/, /l/, vowels                              │
-│   played /pleɪd/     lived /lɪvd/      opened /ˈoʊpənd/        │
-│   called /kɔːld/     rained /reɪnd/    studied /ˈstʌdid/       │
-│                                                                 │
-│   /ɪd/ — after /t/ and /d/ only (adds a syllable!)             │
-│   wanted /ˈwɒntɪd/   needed /ˈniːdɪd/  started /ˈstɑːrtɪd/    │
-│   decided /dɪˈsaɪdɪd/ waited /ˈweɪtɪd/ visited /ˈvɪzɪtɪd/    │
-│                                                                 │
-│   ※ Korean speakers often pronounce all -ed as /ɪd/:          │
-│     "walked" is ONE syllable /wɔːkt/, NOT "walk-ed" /wɔːkɪd/  │
-│     "played" is ONE syllable /pleɪd/, NOT "play-ed" /pleɪɪd/  │
-│     Only /ɪd/ after /t/ and /d/ adds a syllable!              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> The -ed ending has THREE pronunciations:
+> /t/ — after voiceless consonants: /p/, /k/, /f/, /s/, /ʃ/,
+> /tʃ/
+> walked /wɔːkt/     cooked /kʊkt/     laughed /læft/
+> passed /pæst/      washed /wɒʃt/     watched /wɒtʃt/
+> /d/ — after voiced consonants and vowels: /b/, /g/, /v/,
+> /z/, /m/, /n/, /l/, vowels
+> played /pleɪd/     lived /lɪvd/      opened /ˈoʊpənd/
+> called /kɔːld/     rained /reɪnd/    studied /ˈstʌdid/
+> /ɪd/ — after /t/ and /d/ only (adds a syllable!)
+> wanted /ˈwɒntɪd/   needed /ˈniːdɪd/  started /ˈstɑːrtɪd/
+> decided /dɪˈsaɪdɪd/ waited /ˈweɪtɪd/ visited /ˈvɪzɪtɪd/
+> ※ Korean speakers often pronounce all -ed as /ɪd/:
+> "walked" is ONE syllable /wɔːkt/, NOT "walk-ed" /wɔːkɪd/
+> "played" is ONE syllable /pleɪd/, NOT "play-ed" /pleɪɪd/
+> Only /ɪd/ after /t/ and /d/ adds a syllable!
 
 ### 3.2 Practice Sets
 
@@ -265,32 +249,23 @@ write       wrote       written            쓰다
 
 ### 4.4 Memory Tips
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Patterns to help memorize irregular verbs:                    │
-│                                                                 │
-│   Pattern: -ought/-aught                                        │
-│   buy→bought  bring→brought  think→thought                      │
-│   catch→caught  teach→taught  fight→fought                      │
-│                                                                 │
-│   Pattern: vowel → e → o (i/a → e → o)                         │
-│   speak→spoke→spoken  break→broke→broken                        │
-│   choose→chose→chosen  freeze→froze→frozen                      │
-│   steal→stole→stolen  wake→woke→woken                           │
-│                                                                 │
-│   Pattern: -ew / -own                                           │
-│   blow→blew→blown  grow→grew→grown  know→knew→known            │
-│   throw→threw→thrown  fly→flew→flown  draw→drew→drawn           │
-│                                                                 │
-│   Pattern: -ang / -ung                                          │
-│   sing→sang→sung  ring→rang→rung  drink→drank→drunk            │
-│   swim→swam→swum  begin→began→begun                             │
-│                                                                 │
-│   Pattern: -ept / -elt / -eft / -ent                            │
-│   keep→kept  sleep→slept  feel→felt  leave→left                 │
-│   send→sent  spend→spent  lend→lent  build→built               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Patterns to help memorize irregular verbs:
+> Pattern: -ought/-aught
+> buy→bought  bring→brought  think→thought
+> catch→caught  teach→taught  fight→fought
+> Pattern: vowel → e → o (i/a → e → o)
+> speak→spoke→spoken  break→broke→broken
+> choose→chose→chosen  freeze→froze→frozen
+> steal→stole→stolen  wake→woke→woken
+> Pattern: -ew / -own
+> blow→blew→blown  grow→grew→grown  know→knew→known
+> throw→threw→thrown  fly→flew→flown  draw→drew→drawn
+> Pattern: -ang / -ung
+> sing→sang→sung  ring→rang→rung  drink→drank→drunk
+> swim→swam→swum  begin→began→begun
+> Pattern: -ept / -elt / -eft / -ent
+> keep→kept  sleep→slept  feel→felt  leave→left
+> send→sent  spend→spent  lend→lent  build→built
 
 ---
 
@@ -445,35 +420,24 @@ Also OK at the BEGINNING (for emphasis):
 
 ### 9.1 Error Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Error                          Correct                        │
-│   ─────                          ───────                        │
-│   "I goed to school."            "I went to school."            │
-│   (regularizing irregular verb)                                 │
-│                                                                 │
-│   "Did she went home?"           "Did she go home?"             │
-│   (past tense after did)                                        │
-│                                                                 │
-│   "She didn't came."             "She didn't come."             │
-│   (past tense after didn't)                                     │
-│                                                                 │
-│   "I was go to school."          "I went to school."            │
-│   (using was + base verb for past)                              │
-│                                                                 │
-│   "I am born in Seoul."          "I was born in Seoul."         │
-│   (present tense for birth)                                     │
-│                                                                 │
-│   "Yesterday I am happy."        "Yesterday I was happy."       │
-│   (present tense with past time)                                │
-│                                                                 │
-│   "I was walked home."           "I walked home."               │
-│   (incorrect passive form)                                      │
-│                                                                 │
-│   "Before 3 years"               "3 years ago" / "3 years before│
-│   (Korean 전 translation error)    that" (in narrative)          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Error                          Correct**
+>
+> "I goed to school."            "I went to school."
+> (regularizing irregular verb)
+> "Did she went home?"           "Did she go home?"
+> (past tense after did)
+> "She didn't came."             "She didn't come."
+> (past tense after didn't)
+> "I was go to school."          "I went to school."
+> (using was + base verb for past)
+> "I am born in Seoul."          "I was born in Seoul."
+> (present tense for birth)
+> "Yesterday I am happy."        "Yesterday I was happy."
+> (present tense with past time)
+> "I was walked home."           "I walked home."
+> (incorrect passive form)
+> "Before 3 years"               "3 years ago" / "3 years before
+> (Korean 전 translation error)    that" (in narrative)
 
 ---
 
@@ -645,30 +609,22 @@ early. It (12)___ (be) a good day.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│               Past Tense Quick Guide                             │
-│                                                                 │
-│   Regular: base + -ed (walked, played, studied, stopped)        │
-│   -ed pronunciation: /t/ after voiceless, /d/ after voiced,    │
-│                      /ɪd/ after /t/ and /d/ only               │
-│                                                                 │
-│   BE past: was (I/he/she/it) / were (you/we/they)              │
-│                                                                 │
-│   Questions: Did + S + base verb?  (Did she eat? ✓)            │
-│   Negatives: S + didn't + base verb (She didn't eat ✓)         │
-│   ※ NEVER use past form after did/didn't!                      │
-│     Did she went? ✗ → Did she go? ✓                            │
-│                                                                 │
-│   Top irregular groups:                                         │
-│   Same: cut-cut, put-put, hit-hit, cost-cost                   │
-│   -ought: buy-bought, bring-brought, think-thought              │
-│   -ew/-own: know-knew-known, grow-grew-grown                   │
-│   -ept/-elt: keep-kept, sleep-slept, feel-felt                 │
-│                                                                 │
-│   Time markers: yesterday, last week, 2 days ago, in 2020      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Past Tense Quick Guide**
+>
+> Regular: base + -ed (walked, played, studied, stopped)
+> -ed pronunciation: /t/ after voiceless, /d/ after voiced,
+> /ɪd/ after /t/ and /d/ only
+> BE past: was (I/he/she/it) / were (you/we/they)
+> Questions: Did + S + base verb?  (Did she eat? ✓)
+> Negatives: S + didn't + base verb (She didn't eat ✓)
+> ※ NEVER use past form after did/didn't!
+> Did she went? ✗ → Did she go? ✓
+> Top irregular groups:
+> Same: cut-cut, put-put, hit-hit, cost-cost
+> -ought: buy-bought, bring-brought, think-thought
+> -ew/-own: know-knew-known, grow-grew-grown
+> -ept/-elt: keep-kept, sleep-slept, feel-felt
+> Time markers: yesterday, last week, 2 days ago, in 2020
 
 ---
 
