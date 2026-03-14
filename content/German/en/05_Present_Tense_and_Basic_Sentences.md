@@ -30,29 +30,25 @@
 
 German regular (weak) verbs follow a predictable pattern. Take the infinitive, remove the **-en** ending to get the stem, then add the personal endings:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Regular Verb Conjugation Pattern                    │
-│                                                                 │
-│   Step 1: Find the infinitive          → machen (to do/make)   │
-│   Step 2: Remove -en to get the stem   → mach-                 │
-│   Step 3: Add personal endings:                                 │
-│                                                                 │
-│   ich     mach + e    = mache     (I do/make)                   │
-│   du      mach + st   = machst    (you do/make)                 │
-│   er/sie  mach + t    = macht     (he/she does/makes)           │
-│   wir     mach + en   = machen    (we do/make)                  │
-│   ihr     mach + t    = macht     (you all do/make)             │
-│   sie/Sie mach + en   = machen    (they/you formal do/make)     │
-│                                                                 │
-│   The six endings: -e, -st, -t, -en, -t, -en                   │
-│                                                                 │
-│   Notice:                                                       │
-│   - wir and sie/Sie forms = same as infinitive (machen)        │
-│   - er/sie/es and ihr share the same ending (-t)               │
-│   - Only 4 unique endings to learn: -e, -st, -t, -en           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Regular Verb Conjugation Pattern**
+>
+> Step 1: Find the infinitive → machen (to do/make)
+> Step 2: Remove -en to get the stem → mach-
+> Step 3: Add personal endings:
+>
+> ich mach + e = mache (I do/make)
+> du mach + st = machst (you do/make)
+> er/sie mach + t = macht (he/she does/makes)
+> wir mach + en = machen (we do/make)
+> ihr mach + t = macht (you all do/make)
+> sie/Sie mach + en = machen (they/you formal do/make)
+>
+> The six endings: -e, -st, -t, -en, -t, -en
+>
+> Notice:
+> - wir and sie/Sie forms = same as infinitive (machen)
+> - er/sie/es and ihr share the same ending (-t)
+> - Only 4 unique endings to learn: -e, -st, -t, -en
 
 ### 1.2 The Six Personal Endings
 
@@ -142,28 +138,24 @@ fotografieren → ich fotografiere, du fotografierst, er fotografiert
 
 When the verb stem ends in **-t** or **-d**, the endings -st and -t would be difficult to pronounce. German inserts an extra **-e-** to make pronunciation smooth:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   arbeiten (to work) — stem: arbeit-                             │
-│                                                                 │
-│   ich     arbeite          (normal -e ending)                   │
-│   du      arbeitest        (extra -e-: arbeit-e-st)             │
-│   er/sie  arbeitet         (extra -e-: arbeit-e-t)              │
-│   wir     arbeiten         (normal -en ending)                  │
-│   ihr     arbeitet         (extra -e-: arbeit-e-t)              │
-│   sie/Sie arbeiten         (normal -en ending)                  │
-│                                                                 │
-│   Compare:                                                      │
-│   lernen:  du lernst, er lernt    (no extra -e-)               │
-│   finden:  du findest, er findet  (extra -e- needed!)           │
-│                                                                 │
-│   Also applies to stems ending in -chn, -ffn, -tm, -gn:        │
-│   öffnen:  du öffnest, er öffnet                               │
-│   rechnen: du rechnest, er rechnet                              │
-│   atmen:   du atmest, er atmet                                  │
-│   regnen:  es regnet                                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **arbeiten (to work) — stem: arbeit-**
+>
+> ich arbeite (normal -e ending)
+> du arbeitest (extra -e-: arbeit-e-st)
+> er/sie arbeitet (extra -e-: arbeit-e-t)
+> wir arbeiten (normal -en ending)
+> ihr arbeitet (extra -e-: arbeit-e-t)
+> sie/Sie arbeiten (normal -en ending)
+>
+> Compare:
+> lernen: du lernst, er lernt (no extra -e-)
+> finden: du findest, er findet (extra -e- needed!)
+>
+> Also applies to stems ending in -chn, -ffn, -tm, -gn:
+> öffnen: du öffnest, er öffnet
+> rechnen: du rechnest, er rechnet
+> atmen: du atmest, er atmet
+> regnen: es regnet
 
 **Common -t/-d stem verbs:**
 
@@ -231,24 +223,20 @@ Examples:
 
 Some common German verbs change their stem vowel in the **du** and **er/sie/es** forms only. The other forms (ich, wir, ihr, sie/Sie) keep the original vowel. These verbs are also called "strong verbs."
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Three Types of Stem-Vowel Changes                      │
-│                                                                 │
-│   Type 1: a → ä     fahren  → du fährst, er fährt              │
-│   Type 2: e → i     sprechen → du sprichst, er spricht         │
-│   Type 3: e → ie    lesen   → du liest, er liest               │
-│                                                                 │
-│   CRITICAL: Only du and er/sie/es change!                       │
-│   ich, wir, ihr, sie/Sie keep the original vowel.              │
-│                                                                 │
-│   fahren: ich fahre / du fährst / er fährt / wir fahren        │
-│           ↑ normal    ↑ changed   ↑ changed  ↑ normal          │
-│                                                                 │
-│   You must memorize which verbs have stem changes.              │
-│   Dictionaries mark them: fahren (ä), sprechen (i), lesen (ie) │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Three Types of Stem-Vowel Changes**
+>
+> - **Type 1**: a → ä — fahren → du fährst, er fährt
+> - **Type 2**: e → i — sprechen → du sprichst, er spricht
+> - **Type 3**: e → ie — lesen → du liest, er liest
+>
+> CRITICAL: Only du and er/sie/es change!
+> ich, wir, ihr, sie/Sie keep the original vowel.
+>
+> fahren: ich fahre / du fährst / er fährt / wir fahren
+> (normal / changed / changed / normal)
+>
+> You must memorize which verbs have stem changes.
+> Dictionaries mark them: fahren (ä), sprechen (i), lesen (ie)
 
 ### 3.2 Type 1: a → ä
 
@@ -330,26 +318,20 @@ Examples:
 
 ### 3.5 Stem-Change Summary Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Stem Changes: ONLY in du and er/sie/es!                        │
-│                                                                 │
-│   a → ä:  fahren, schlafen, tragen, waschen, laufen, fallen,   │
-│           halten, lassen, fangen                                │
-│                                                                 │
-│   e → i:  sprechen, helfen, treffen, geben, nehmen, essen,      │
-│           vergessen, werfen, sterben                             │
-│                                                                 │
-│   e → ie: lesen, sehen, empfehlen, stehlen, befehlen           │
-│                                                                 │
-│   How to tell e→i from e→ie? No reliable rule — memorize each. │
-│   Hint: e→ie verbs tend to have a long /eː/ in the infinitive │
-│   (lesen, sehen), while e→i verbs tend to have short /ɛ/       │
-│   (sprechen, helfen). But this is not always reliable.          │
-│                                                                 │
-│   ich, wir, ihr, sie/Sie — ALWAYS use the original stem vowel  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Stem Changes: ONLY in du and er/sie/es!**
+>
+> - **a → ä**: fahren, schlafen, tragen, waschen, laufen, fallen, halten, lassen, fangen
+>
+> - **e → i**: sprechen, helfen, treffen, geben, nehmen, essen, vergessen, werfen, sterben
+>
+> - **e → ie**: lesen, sehen, empfehlen, stehlen, befehlen
+>
+> How to tell e→i from e→ie? No reliable rule — memorize each.
+> Hint: e→ie verbs tend to have a long /eː/ in the infinitive
+> (lesen, sehen), while e→i verbs tend to have short /ɛ/
+> (sprechen, helfen). But this is not always reliable.
+>
+> ich, wir, ihr, sie/Sie — ALWAYS use the original stem vowel
 
 ---
 
@@ -407,28 +389,24 @@ Long phrase in position 1 — INVERSION:
 
 When a non-subject element starts the sentence, the subject and verb swap positions. The verb ALWAYS stays in position 2:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Normal order:   Subject + Verb + Rest                          │
-│   Inverted order: Other + Verb + Subject + Rest                  │
-│                                                                 │
-│   Normal:     Ich spiele heute Fußball.                          │
-│   Inverted:   Heute spiele ich Fußball.                          │
-│               ↑ time in pos. 1, verb stays pos. 2               │
-│                                                                 │
-│   Normal:     Wir gehen morgen ins Kino.                         │
-│   Inverted:   Morgen gehen wir ins Kino.                         │
-│                                                                 │
-│   Normal:     Er arbeitet in München.                            │
-│   Inverted:   In München arbeitet er.                            │
-│                                                                 │
-│   Normal:     Sie kommt leider nicht.                            │
-│   Inverted:   Leider kommt sie nicht.                            │
-│                                                                 │
-│   The verb is like a FIXED ANCHOR in position 2.                │
-│   Everything else can move around it.                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Normal order:** Subject + Verb + Rest
+> **Inverted order:** Other + Verb + Subject + Rest
+>
+> Normal: Ich spiele heute Fußball.
+> Inverted: Heute spiele ich Fußball.
+> (time in pos. 1, verb stays pos. 2)
+>
+> Normal: Wir gehen morgen ins Kino.
+> Inverted: Morgen gehen wir ins Kino.
+>
+> Normal: Er arbeitet in München.
+> Inverted: In München arbeitet er.
+>
+> Normal: Sie kommt leider nicht.
+> Inverted: Leider kommt sie nicht.
+>
+> The verb is like a FIXED ANCHOR in position 2.
+> Everything else can move around it.
 
 ### 4.4 Common Mistakes by English Speakers
 
@@ -505,30 +483,26 @@ Place usually comes at the end:
 
 When a sentence has multiple adverbial elements, German prefers this order: **Te**mporal (when) — **Ka**usal (why) — **Mo**dal (how) — **Lo**kal (where).
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   TMP / TeKaMoLo Order                                           │
-│                                                                 │
-│   Te (Temporal/when):  morgen, heute, oft, manchmal, immer      │
-│   Ka (Kausal/why):     deshalb, wegen des Regens                │
-│   Mo (Modal/how):      gern, schnell, gut, leise                │
-│   Lo (Lokal/where):    in Berlin, nach Hause, hier              │
-│                                                                 │
-│   Subject + Verb + [Time] + [Manner] + [Place]                  │
-│                                                                 │
-│   Ich fahre morgen gern nach Berlin.                            │
-│             [Te]   [Mo]    [Lo]                                 │
-│   (I am happily driving to Berlin tomorrow.)                    │
-│                                                                 │
-│   Er arbeitet jeden Tag fleißig in München.                      │
-│               [Te]       [Mo]     [Lo]                          │
-│   (He works hard in Munich every day.)                          │
-│                                                                 │
-│   Wir gehen heute Abend gern ins Kino.                          │
-│              [Te]        [Mo]   [Lo]                            │
-│   (We like going to the cinema this evening.)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **TMP / TeKaMoLo Order**
+>
+> - **Te (Temporal/when)**: morgen, heute, oft, manchmal, immer
+> - **Ka (Kausal/why)**: deshalb, wegen des Regens
+> - **Mo (Modal/how)**: gern, schnell, gut, leise
+> - **Lo (Lokal/where)**: in Berlin, nach Hause, hier
+>
+> Subject + Verb + [Time] + [Manner] + [Place]
+>
+> Ich fahre morgen gern nach Berlin.
+> [Te] [Mo] [Lo]
+> (I am happily driving to Berlin tomorrow.)
+>
+> Er arbeitet jeden Tag fleißig in München.
+> [Te] [Mo] [Lo]
+> (He works hard in Munich every day.)
+>
+> Wir gehen heute Abend gern ins Kino.
+> [Te] [Mo] [Lo]
+> (We like going to the cinema this evening.)
 
 ---
 
@@ -657,25 +631,20 @@ Position:  [1]           [2]         [3...]
 
 These three question words all relate to location, but they ask different things:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   wo     = where (static location — where something IS)          │
-│     Wo wohnst du?                   Where do you live?           │
-│     Wo ist die Toilette?            Where is the toilet?         │
-│     Wo arbeitest du?                Where do you work?           │
-│                                                                 │
-│   woher  = where from (origin — where something COMES FROM)     │
-│     Woher kommst du?                Where do you come from?      │
-│     Woher weißt du das?            How do you know that?         │
-│                                                                 │
-│   wohin  = where to (destination — where something IS GOING)    │
-│     Wohin gehst du?                 Where are you going?         │
-│     Wohin fährst du im Urlaub?     Where are you going on       │
-│                                     vacation?                    │
-│                                                                 │
-│   Think of it as: wo = AT, woher = FROM, wohin = TO            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **wo** = where (static location — where something IS)
+> Wo wohnst du? — Where do you live?
+> Wo ist die Toilette? — Where is the toilet?
+> Wo arbeitest du? — Where do you work?
+>
+> **woher** = where from (origin — where something COMES FROM)
+> Woher kommst du? — Where do you come from?
+> Woher weißt du das? — How do you know that?
+>
+> **wohin** = where to (destination — where something IS GOING)
+> Wohin gehst du? — Where are you going?
+> Wohin fährst du im Urlaub? — Where are you going on vacation?
+>
+> Think of it as: wo = AT, woher = FROM, wohin = TO
 
 ### 7.4 Common W-Question Patterns
 
@@ -708,33 +677,29 @@ Preferences:
 
 The position of *nicht* depends on what is being negated:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Where to Place "nicht"                                 │
-│                                                                 │
-│   1. Before predicative adjectives:                              │
-│      Das ist nicht gut.         (That is not good.)              │
-│      Er ist nicht krank.        (He is not sick.)                │
-│                                                                 │
-│   2. Before prepositional phrases:                               │
-│      Ich komme nicht aus Berlin. (I don't come from Berlin.)     │
-│      Er geht nicht ins Kino.    (He's not going to the cinema.) │
-│                                                                 │
-│   3. Before adverbs:                                             │
-│      Er singt nicht gut.        (He doesn't sing well.)          │
-│      Sie kommt nicht oft.       (She doesn't come often.)        │
-│                                                                 │
-│   4. At the END if negating the entire action:                   │
-│      Ich komme nicht.           (I'm not coming.)                │
-│      Er schläft nicht.          (He is not sleeping.)            │
-│      Sie arbeitet heute nicht.  (She is not working today.)      │
-│                                                                 │
-│   5. Before the specific element being contrasted:               │
-│      Nicht ich, sondern er.     (Not I, but he.)                 │
-│      Er kommt nicht heute, sondern morgen.                       │
-│      (He's coming not today, but tomorrow.)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Where to Place "nicht"**
+>
+> 1. Before predicative adjectives:
+>    Das ist nicht gut. (That is not good.)
+>    Er ist nicht krank. (He is not sick.)
+>
+> 2. Before prepositional phrases:
+>    Ich komme nicht aus Berlin. (I don't come from Berlin.)
+>    Er geht nicht ins Kino. (He's not going to the cinema.)
+>
+> 3. Before adverbs:
+>    Er singt nicht gut. (He doesn't sing well.)
+>    Sie kommt nicht oft. (She doesn't come often.)
+>
+> 4. At the END if negating the entire action:
+>    Ich komme nicht. (I'm not coming.)
+>    Er schläft nicht. (He is not sleeping.)
+>    Sie arbeitet heute nicht. (She is not working today.)
+>
+> 5. Before the specific element being contrasted:
+>    Nicht ich, sondern er. (Not I, but he.)
+>    Er kommt nicht heute, sondern morgen.
+>    (He's coming not today, but tomorrow.)
 
 ### 8.2 Using kein in Full Sentences
 
@@ -840,26 +805,22 @@ Sie liest gern Bücher.             (She likes to read books.)
 
 German commonly uses the present tense for future actions when the context (especially a time expression) makes the future meaning clear:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Present tense + time expression = future meaning               │
-│                                                                 │
-│   Morgen fahre ich nach Berlin.                                 │
-│   (Tomorrow I drive to Berlin. = Tomorrow I WILL drive to B.)  │
-│                                                                 │
-│   Nächste Woche fliegen wir nach Japan.                        │
-│   (Next week we fly to Japan. = Next week we WILL fly to J.)  │
-│                                                                 │
-│   Heute Abend koche ich.                                        │
-│   (This evening I cook. = This evening I WILL cook.)            │
-│                                                                 │
-│   Er kommt am Freitag.                                          │
-│   (He comes on Friday. = He WILL come on Friday.)               │
-│                                                                 │
-│   This is more common in everyday German than using             │
-│   "werden + infinitive" (formal future tense).                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Present tense + time expression = future meaning**
+>
+> Morgen fahre ich nach Berlin.
+> (Tomorrow I drive to Berlin. = Tomorrow I WILL drive to B.)
+>
+> Nächste Woche fliegen wir nach Japan.
+> (Next week we fly to Japan. = Next week we WILL fly to J.)
+>
+> Heute Abend koche ich.
+> (This evening I cook. = This evening I WILL cook.)
+>
+> Er kommt am Freitag.
+> (He comes on Friday. = He WILL come on Friday.)
+>
+> This is more common in everyday German than using
+> "werden + infinitive" (formal future tense).
 
 ### 9.4 Common Time Expressions
 
@@ -1091,38 +1052,34 @@ For each statement, do two things: (a) form a yes/no question, (b) negate the st
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          Present Tense and Basic Sentences Quick Guide            │
-│                                                                 │
-│   Regular conjugation: stem + -e, -st, -t, -en, -t, -en        │
-│                                                                 │
-│   Special stems:                                                │
-│     -t/-d stems: add -e- before -st/-t (du arbeitest)          │
-│     -s/-ß/-z stems: du-form loses -s (du heißt, du tanzt)     │
-│                                                                 │
-│   Stem changes (du and er/sie/es ONLY):                         │
-│     a → ä:  fahren → fährst/fährt                              │
-│     e → i:  sprechen → sprichst/spricht                        │
-│     e → ie: lesen → liest/liest                                │
-│                                                                 │
-│   Word order:                                                   │
-│     Statements: V2 (verb always in position 2)                  │
-│     Yes/No Qs:  V1 (verb first): Sprichst du Deutsch?          │
-│     W-Questions: W-word + V2: Was machst du?                    │
-│                                                                 │
-│   Inversion: When time/place starts the sentence,               │
-│   subject moves after the verb: Morgen fahre ich.               │
-│                                                                 │
-│   Negation:                                                     │
-│     nicht → verbs, adjectives, definite nouns, possessives      │
-│     kein  → indefinite nouns (ein→kein), zero-article nouns     │
-│                                                                 │
-│   Present tense = current + habitual + future (with time word)  │
-│     Ich lese.        (I read / I am reading.)                   │
-│     Morgen fahre ich. (Tomorrow I will drive.)                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Present Tense and Basic Sentences Quick Guide**
+>
+> **Regular conjugation:** stem + -e, -st, -t, -en, -t, -en
+>
+> **Special stems:**
+> - -t/-d stems: add -e- before -st/-t (du arbeitest)
+> - -s/-ß/-z stems: du-form loses -s (du heißt, du tanzt)
+>
+> **Stem changes (du and er/sie/es ONLY):**
+> - a → ä: fahren → fährst/fährt
+> - e → i: sprechen → sprichst/spricht
+> - e → ie: lesen → liest/liest
+>
+> **Word order:**
+> - Statements: V2 (verb always in position 2)
+> - Yes/No Qs: V1 (verb first): Sprichst du Deutsch?
+> - W-Questions: W-word + V2: Was machst du?
+>
+> **Inversion:** When time/place starts the sentence,
+> subject moves after the verb: Morgen fahre ich.
+>
+> **Negation:**
+> - nicht → verbs, adjectives, definite nouns, possessives
+> - kein → indefinite nouns (ein→kein), zero-article nouns
+>
+> **Present tense** = current + habitual + future (with time word)
+> Ich lese. (I read / I am reading.)
+> Morgen fahre ich. (Tomorrow I will drive.)
 
 ---
 
