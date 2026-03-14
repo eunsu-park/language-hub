@@ -26,27 +26,19 @@
 
 ### 1.1 핵심 대비
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어: SOV (주어 + 목적어 + 동사)                              │
-│   나는     사과를      먹는다                                     │
-│   S        O          V                                         │
-│   I        apple      eat                                       │
-│                                                                 │
-│   영어: SVO (주어 + 동사 + 목적어)                                │
-│   I        eat        an apple                                  │
-│   S        V          O                                         │
-│                                                                 │
-│   동사가 끝에서 중간으로 이동합니다.                               │
-│   동사 뒤의 모든 것이 재배열됩니다.                                │
-│                                                                 │
-│   한국어: 나는 [어제] [학교에서] [영어를] [공부했다]                 │
-│           S    시간    장소       목적어    동사                   │
-│                                                                 │
-│   영어: I [studied] [English] [at school] [yesterday]            │
-│          S  동사      목적어    장소        시간                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어: SOV (주어 + 목적어 + 동사)
+> 나는     사과를      먹는다
+> S        O          V
+> I        apple      eat
+> 영어: SVO (주어 + 동사 + 목적어)
+> I        eat        an apple
+> S        V          O
+> 동사가 끝에서 중간으로 이동합니다.
+> 동사 뒤의 모든 것이 재배열됩니다.
+> 한국어: 나는 [어제] [학교에서] [영어를] [공부했다]
+> S    시간    장소       목적어    동사
+> 영어: I [studied] [English] [at school] [yesterday]
+> S  동사      목적어    장소        시간
 
 ### 1.2 왜 영어에서 어순이 더 중요한가
 
@@ -115,21 +107,16 @@
 
 ### 2.2 영어는 고정된 위치를 가진다
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   위치 1    위치 2    위치 3    위치 4    위치 5    위치 6        │
-│   (시간)    주어      동사      목적어     장소      시간         │
-│                                                                 │
-│   Yesterday  I        met       Tom       at school              │
-│              She      drinks    coffee    in the cafe  daily     │
-│   Every day  he       walks                to work               │
-│              They     play      soccer    in the park  on Sun.   │
-│                                                                 │
-│   ※ 주어-동사-목적어는 평서문에서 절대 순서가 바뀌지 않습니다.     │
-│     "Coffee she drinks" ✗ (표준 영어가 아님)                     │
-│     "She drinks coffee" ✓                                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **위치 1    위치 2    위치 3    위치 4    위치 5    위치 6**
+>
+> (시간)    주어      동사      목적어     장소      시간
+> Yesterday  I        met       Tom       at school
+> She      drinks    coffee    in the cafe  daily
+> Every day  he       walks                to work
+> They     play      soccer    in the park  on Sun.
+> ※ 주어-동사-목적어는 평서문에서 절대 순서가 바뀌지 않습니다.
+> "Coffee she drinks" ✗ (표준 영어가 아님)
+> "She drinks coffee" ✓
 
 ---
 
@@ -250,30 +237,24 @@ How many books do you have?   몇 권의 책이 있니?
 
 ### 4.4 부정 단어
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   영어 부정 단어                                                 │
-│                                                                 │
-│   no        = 아니 / 없는      "I have no money."               │
-│   not       = ~않다            "I do not know."                  │
-│   never     = 절대 ~않다       "I never smoke."                  │
-│   nothing   = 아무것도 ~않다   "I know nothing." / "I don't      │
-│                                 know anything."                  │
-│   nobody    = 아무도 ~않다     "Nobody came."                     │
-│   no one    = 아무도 ~않다     "No one knows."                    │
-│   nowhere   = 아무 데도 ~않다  "I have nowhere to go."           │
-│   neither   = 둘 다 ~않다      "Neither answer is correct."      │
-│                                                                 │
-│   ※ 핵심 규칙: 영어는 한 절에 부정어를 하나만 허용합니다!          │
-│     "I don't know nothing."  ✗ (이중 부정 = 오류)                │
-│     "I don't know anything." ✓                                  │
-│     "I know nothing."        ✓                                  │
-│                                                                 │
-│     한국어는 이중/삼중 부정이 허용됩니다:                          │
-│     "나는 아무것도 안 먹지 않았다" (다중 부정 가능)                  │
-│     영어: 한 절에 부정어 하나만!                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **영어 부정 단어**
+>
+> no        = 아니 / 없는      "I have no money."
+> not       = ~않다            "I do not know."
+> never     = 절대 ~않다       "I never smoke."
+> nothing   = 아무것도 ~않다   "I know nothing." / "I don't
+> know anything."
+> nobody    = 아무도 ~않다     "Nobody came."
+> no one    = 아무도 ~않다     "No one knows."
+> nowhere   = 아무 데도 ~않다  "I have nowhere to go."
+> neither   = 둘 다 ~않다      "Neither answer is correct."
+> ※ 핵심 규칙: 영어는 한 절에 부정어를 하나만 허용합니다!
+> "I don't know nothing."  ✗ (이중 부정 = 오류)
+> "I don't know anything." ✓
+> "I know nothing."        ✓
+> 한국어는 이중/삼중 부정이 허용됩니다:
+> "나는 아무것도 안 먹지 않았다" (다중 부정 가능)
+> 영어: 한 절에 부정어 하나만!
 
 ---
 
@@ -338,33 +319,26 @@ There are + 복수명사:     There are three books on the table.
 
 ### 6.1 형태
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   명령문 = 동사원형 (주어 불필요!)                                │
-│                                                                 │
-│   긍정:                                                         │
-│   "Sit down."                앉아. / 앉으세요.                    │
-│   "Open the door."           문을 열어.                           │
-│   "Be quiet."                조용히 해.                           │
-│   "Come here."               여기로 와.                           │
-│   "Listen to me."            내 말을 들어.                        │
-│                                                                 │
-│   부정 (Don't + 동사원형):                                       │
-│   "Don't sit down."          앉지 마.                            │
-│   "Don't open the door."     문을 열지 마.                        │
-│   "Don't be late."           늦지 마.                            │
-│   "Don't worry."             걱정하지 마.                         │
-│                                                                 │
-│   공손한 명령문 ("please" 추가):                                  │
-│   "Please sit down."         앉아 주세요.                        │
-│   "Don't run, please."       뛰지 말아 주세요.                    │
-│                                                                 │
-│   ※ 영어 명령문에는 주어 "you"가 없습니다:                        │
-│     "You sit down!" — 화난/강조하는 느낌!                         │
-│     "Sit down." — 일반적 명령                                    │
-│     "Sit down, please." — 공손한 명령                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **명령문 = 동사원형 (주어 불필요!)**
+>
+> 긍정:
+> "Sit down."                앉아. / 앉으세요.
+> "Open the door."           문을 열어.
+> "Be quiet."                조용히 해.
+> "Come here."               여기로 와.
+> "Listen to me."            내 말을 들어.
+> 부정 (Don't + 동사원형):
+> "Don't sit down."          앉지 마.
+> "Don't open the door."     문을 열지 마.
+> "Don't be late."           늦지 마.
+> "Don't worry."             걱정하지 마.
+> 공손한 명령문 ("please" 추가):
+> "Please sit down."         앉아 주세요.
+> "Don't run, please."       뛰지 말아 주세요.
+> ※ 영어 명령문에는 주어 "you"가 없습니다:
+> "You sit down!" — 화난/강조하는 느낌!
+> "Sit down." — 일반적 명령
+> "Sit down, please." — 공손한 명령
 
 ### 6.2 특별한 명령문: Let's
 
@@ -464,35 +438,24 @@ How + 형용사/부사 + (S + V)!
 
 ### 9.1 오류 모음
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   오류 (한국어 순서)                  올바른 표현 (영어 순서)       │
-│   ───────────────────               ─────────────────────       │
-│   "I English study."               "I study English."          │
-│   (SOV → SVO여야 함)                                            │
-│                                                                 │
-│   "Yesterday I to school went."    "Yesterday I went to school."│
-│   (동사가 끝에 → 동사는 중간에)                                   │
-│                                                                 │
-│   "She very is pretty."            "She is very pretty."        │
-│   (부사가 be 앞에 → be 뒤에)                                     │
-│                                                                 │
-│   "You what eat?"                  "What do you eat?"           │
-│   (한국어 의문문 순서)                                            │
-│                                                                 │
-│   "I tomorrow will go."            "I will go tomorrow."        │
-│   (시간이 중간에 → 시간은 끝에)                                   │
-│                                                                 │
-│   "In Seoul I live."               "I live in Seoul."           │
-│   (장소가 먼저 → 장소는 동사 뒤에)                                │
-│                                                                 │
-│   "Coffee to me please give."      "Please give me coffee."    │
-│   (완전한 한국어 순서)                                            │
-│                                                                 │
-│   "Don't late be."                 "Don't be late."             │
-│   (한국어 순서: 늦지 마)                                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **오류 (한국어 순서)                  올바른 표현 (영어 순서)**
+>
+> "I English study."               "I study English."
+> (SOV → SVO여야 함)
+> "Yesterday I to school went."    "Yesterday I went to school."
+> (동사가 끝에 → 동사는 중간에)
+> "She very is pretty."            "She is very pretty."
+> (부사가 be 앞에 → be 뒤에)
+> "You what eat?"                  "What do you eat?"
+> (한국어 의문문 순서)
+> "I tomorrow will go."            "I will go tomorrow."
+> (시간이 중간에 → 시간은 끝에)
+> "In Seoul I live."               "I live in Seoul."
+> (장소가 먼저 → 장소는 동사 뒤에)
+> "Coffee to me please give."      "Please give me coffee."
+> (완전한 한국어 순서)
+> "Don't late be."                 "Don't be late."
+> (한국어 순서: 늦지 마)
 
 ### 9.2 주어 생략 문제
 
@@ -694,27 +657,22 @@ How + 형용사/부사 + (S + V)!
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              어순 빠른 가이드                                     │
-│                                                                 │
-│   평서문:  S + V + O + (방법) + (장소) + (시간)                   │
-│   의문문:  의문사 + do/does/be/조동사 + S + V + O?                │
-│   부정문:  S + don't/doesn't/be+not/조동사+not + V               │
-│   존재:    There is/are + 명사 + 장소                             │
-│   명령:    동사원형 + O    / Don't + 동사원형 + O                  │
-│   제안:    Let's + 동사원형                                       │
-│   감탄:    What a + 형 + 명! / How + 형!                          │
-│                                                                 │
-│   한국어 → 영어 변환:                                             │
-│   SOV → SVO (동사를 목적어 앞으로)                                │
-│   시간 먼저 → 시간 마지막 (또는 앞에 + 쉼표)                      │
-│   장소 먼저 → 장소는 동사 뒤에                                    │
-│   의문문: 어미 변화 → 어순 변화                                   │
-│   주어 생략 → 주어 필수 (항상!)                                   │
-│   이중 부정 가능 → 부정어 하나만                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **어순 빠른 가이드**
+>
+> 평서문:  S + V + O + (방법) + (장소) + (시간)
+> 의문문:  의문사 + do/does/be/조동사 + S + V + O?
+> 부정문:  S + don't/doesn't/be+not/조동사+not + V
+> 존재:    There is/are + 명사 + 장소
+> 명령:    동사원형 + O    / Don't + 동사원형 + O
+> 제안:    Let's + 동사원형
+> 감탄:    What a + 형 + 명! / How + 형!
+> 한국어 → 영어 변환:
+> SOV → SVO (동사를 목적어 앞으로)
+> 시간 먼저 → 시간 마지막 (또는 앞에 + 쉼표)
+> 장소 먼저 → 장소는 동사 뒤에
+> 의문문: 어미 변화 → 어순 변화
+> 주어 생략 → 주어 필수 (항상!)
+> 이중 부정 가능 → 부정어 하나만
 
 ---
 
