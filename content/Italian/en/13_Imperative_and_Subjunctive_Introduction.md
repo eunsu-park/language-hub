@@ -30,20 +30,15 @@
 
 The imperativo (imperative) is used for commands, requests, instructions, and suggestions. Italian has imperative forms for four persons:
 
-```
-+----------------------------------------------------------+
-|  IMPERATIVE PERSONS                                       |
-|                                                          |
-|  tu    — informal singular (friends, family)              |
-|  Lei   — formal singular (strangers, superiors)           |
-|  noi   — inclusive "let's" (noi)                          |
-|  voi   — plural (group address)                           |
-|                                                          |
-|  Note: The "Lei" form borrows from the subjunctive.       |
-|  Note: There is NO imperative for io or loro in modern    |
-|        standard Italian.                                  |
-+----------------------------------------------------------+
-```
+> **IMPERATIVE PERSONS**
+>
+> - **tu** — informal singular (friends, family)
+> - **Lei** — formal singular (strangers, superiors)
+> - **noi** — inclusive "let's" (noi)
+> - **voi** — plural (group address)
+>
+> Note: The "Lei" form borrows from the subjunctive.
+> Note: There is NO imperative for io or loro in modern standard Italian.
 
 ---
 
