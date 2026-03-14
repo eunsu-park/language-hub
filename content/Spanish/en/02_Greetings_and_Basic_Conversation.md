@@ -23,19 +23,14 @@
 
 ## 1. Greetings by Time of Day
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Greetings by Time                             │
-│                                                                 │
-│   06:00 ─────── 12:00 ─────── 20:00 ─────── 06:00              │
-│   │  Buenos días  │ Buenas tardes │ Buenas noches  │            │
-│   │  (Good morning)│(Good afternoon)│(Good evening/  │           │
-│   │               │               │  Good night)   │            │
-│                                                                 │
-│   ※ Buenas noches serves as both greeting AND farewell         │
-│   ※ Informal shortcut: ¡Buenas! (works any time)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Greetings by Time**
+>
+> - 06:00–12:00: **Buenos dias** (Good morning)
+> - 12:00–20:00: **Buenas tardes** (Good afternoon)
+> - 20:00–06:00: **Buenas noches** (Good evening / Good night)
+>
+> ※ Buenas noches serves as both greeting AND farewell
+> ※ Informal shortcut: ¡Buenas! (works any time)
 
 | Time | Greeting | Usage |
 |------|----------|-------|
@@ -77,25 +72,17 @@
 
 ### 3.1 The Two "You"s
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   TÚ (informal "you")              USTED (formal "you")        │
-│   ├── Friends & peers               ├── Strangers               │
-│   ├── Family members                 ├── Elderly people          │
-│   ├── Children                       ├── Bosses / superiors      │
-│   ├── Same-age classmates            ├── Officials / police      │
-│   └── Informal situations            └── Formal situations       │
-│                                                                 │
-│   Verb: 2nd person singular          Verb: 3rd person singular  │
-│   ¿Cómo estás? (How are you?)       ¿Cómo está? (How are you?) │
-│   ¿Tienes tiempo? (Do you have      ¿Tiene tiempo?              │
-│    time?)                                                       │
-│                                                                 │
-│   ※ When in doubt, use USTED — it's always respectful.        │
-│   ※ In Latin America, usted is used more broadly.             │
-│   ※ In Spain, tú is used more casually.                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **TU** (informal "you") — Friends & peers, Family members, Children, Same-age classmates, Informal situations
+>
+> **USTED** (formal "you") — Strangers, Elderly people, Bosses / superiors, Officials / police, Formal situations
+>
+> - **Verb**: TU uses 2nd person singular; USTED uses 3rd person singular
+> - ¿Cómo **estas**? (TU) vs ¿Cómo **esta**? (USTED)
+> - ¿**Tienes** tiempo? (TU) vs ¿**Tiene** tiempo? (USTED)
+>
+> ※ When in doubt, use USTED — it's always respectful.
+> ※ In Latin America, usted is used more broadly.
+> ※ In Spain, tu is used more casually.
 
 ### 3.2 Quick Verb Form Comparison
 
@@ -210,23 +197,15 @@ B: Bien, gracias. ¿Y usted? → Fine, thanks. And you?
 
 ## 6. Farewells
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formal Farewells              Informal Farewells              │
-│   ─────────────────             ──────────────────              │
-│   Adiós.                        ¡Chao! / ¡Chau!                │
-│   Hasta luego.                  ¡Nos vemos!                     │
-│   Hasta pronto.                 ¡Cuídate!                       │
-│   Que tenga un buen día.        ¡Que te vaya bien!              │
-│   Que le vaya bien.             ¡Hasta luego!                   │
-│                                                                 │
-│   Time-Specific:                                                │
-│   Hasta mañana.    (See you tomorrow.)                          │
-│   Hasta el lunes.  (See you Monday.)                            │
-│   Hasta la próxima. (Until next time.)                          │
-│   Buenas noches.   (Good night. — also a greeting)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Formal Farewells**: Adios. / Hasta luego. / Hasta pronto. / Que tenga un buen dia. / Que le vaya bien.
+>
+> **Informal Farewells**: ¡Chao! / ¡Chau! / ¡Nos vemos! / ¡Cuidate! / ¡Que te vaya bien! / ¡Hasta luego!
+>
+> **Time-Specific**:
+> - Hasta mañana. (See you tomorrow.)
+> - Hasta el lunes. (See you Monday.)
+> - Hasta la proxima. (Until next time.)
+> - Buenas noches. (Good night. — also a greeting)
 
 ---
 
@@ -249,24 +228,20 @@ B: Bien, gracias. ¿Y usted? → Fine, thanks. And you?
 
 ### 7.2 Apologizing
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Perdón / Perdona (tú) / Perdone (Ud.)                        │
-│   → Sorry / Excuse me (minor things, getting attention)         │
-│                                                                 │
-│   Lo siento (mucho).                                            │
-│   → I'm (very) sorry. (genuine apology, expressing sympathy)   │
-│                                                                 │
-│   Disculpa (tú) / Disculpe (Ud.)                                │
-│   → Excuse me. (interrupting, passing through)                  │
-│                                                                 │
-│   Con permiso.                                                   │
-│   → Excuse me. (asking to pass, leave a room)                   │
-│                                                                 │
-│   Fue mi culpa. → It was my fault.                              │
-│   No fue mi intención. → It wasn't my intention.                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Perdon / Perdona (tu) / Perdone (Ud.)**
+> → Sorry / Excuse me (minor things, getting attention)
+>
+> **Lo siento (mucho).**
+> → I'm (very) sorry. (genuine apology, expressing sympathy)
+>
+> **Disculpa (tu) / Disculpe (Ud.)**
+> → Excuse me. (interrupting, passing through)
+>
+> **Con permiso.**
+> → Excuse me. (asking to pass, leave a room)
+>
+> - Fue mi culpa. → It was my fault.
+> - No fue mi intencion. → It wasn't my intention.
 
 **Responses to apologies:**
 - No pasa nada. — It's okay. / No big deal.
@@ -328,27 +303,23 @@ B: ¡Gracias! Todos son muy amables.
 
 ### 9.1 Survival Phrases
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Essential Phrases for Day One                                  │
-│                                                                 │
-│   Por favor.                    → Please.                        │
-│   Gracias.                      → Thank you.                     │
-│   Sí. / No.                    → Yes. / No.                     │
-│   No entiendo.                  → I don't understand.            │
-│   ¿Puede repetir, por favor?   → Can you repeat, please?        │
-│   ¿Cómo se dice ___ en español? → How do you say ___ in Spanish?│
-│   ¿Qué significa ___?          → What does ___ mean?            │
-│   Más despacio, por favor.      → More slowly, please.          │
-│   No hablo español (muy bien).  → I don't speak Spanish (well). │
-│   Hablo un poco de español.     → I speak a little Spanish.     │
-│   ¿Habla inglés?               → Do you speak English?          │
-│   ¿Dónde está el baño?         → Where is the bathroom?         │
-│   ¿Cuánto cuesta?              → How much does it cost?         │
-│   La cuenta, por favor.         → The check, please.            │
-│   ¡Ayuda!                       → Help!                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Essential Phrases for Day One**
+>
+> - Por favor. → Please.
+> - Gracias. → Thank you.
+> - Si. / No. → Yes. / No.
+> - No entiendo. → I don't understand.
+> - ¿Puede repetir, por favor? → Can you repeat, please?
+> - ¿Como se dice ___ en español? → How do you say ___ in Spanish?
+> - ¿Que significa ___? → What does ___ mean?
+> - Mas despacio, por favor. → More slowly, please.
+> - No hablo español (muy bien). → I don't speak Spanish (well).
+> - Hablo un poco de español. → I speak a little Spanish.
+> - ¿Habla ingles? → Do you speak English?
+> - ¿Donde esta el baño? → Where is the bathroom?
+> - ¿Cuanto cuesta? → How much does it cost?
+> - La cuenta, por favor. → The check, please.
+> - ¡Ayuda! → Help!
 
 ### 9.2 At the Train Station
 
@@ -443,24 +414,15 @@ la cuenta, gracias, adiós
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   GREETINGS              FAREWELLS            POLITE            │
-│   ¡Hola!                 ¡Adiós!              Por favor.        │
-│   ¡Buenos días!          ¡Hasta luego!        Gracias.          │
-│   ¡Buenas tardes!        ¡Nos vemos!          De nada.          │
-│   ¡Buenas noches!        ¡Cuídate!            Lo siento.        │
-│   ¿Qué tal?              ¡Chao!               Perdón.           │
-│   ¿Cómo estás?           ¡Hasta mañana!       Con permiso.      │
-│                                                                 │
-│   INTRODUCTION           SURVIVAL                               │
-│   Me llamo...            No entiendo.                           │
-│   Soy de...              ¿Puede repetir?                        │
-│   Tengo ... años.        Más despacio, por favor.               │
-│   Mucho gusto.           ¿Dónde está...?                        │
-│   Igualmente.            ¿Cuánto cuesta?                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **GREETINGS**: ¡Hola! / ¡Buenos dias! / ¡Buenas tardes! / ¡Buenas noches! / ¿Que tal? / ¿Como estas?
+>
+> **FAREWELLS**: ¡Adios! / ¡Hasta luego! / ¡Nos vemos! / ¡Cuidate! / ¡Chao! / ¡Hasta mañana!
+>
+> **POLITE**: Por favor. / Gracias. / De nada. / Lo siento. / Perdon. / Con permiso.
+>
+> **INTRODUCTION**: Me llamo... / Soy de... / Tengo ... años. / Mucho gusto. / Igualmente.
+>
+> **SURVIVAL**: No entiendo. / ¿Puede repetir? / Mas despacio, por favor. / ¿Donde esta...? / ¿Cuanto cuesta?
 
 ---
 
