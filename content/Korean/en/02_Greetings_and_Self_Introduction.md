@@ -31,24 +31,18 @@
 
 ### 1.1 The Universal Greeting: 안녕하세요
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                     안녕하세요                                     │
-│               (annyeonghaseyo)                                   │
-│                                                                  │
-│   Literal meaning: "Are you at peace?"                           │
-│   Usage: Hello / Hi / Good morning / Good afternoon / Good       │
-│          evening — used at ANY time of day                       │
-│   Formality: Polite (존댓말) — safe for nearly all situations    │
-│                                                                  │
-│   Breakdown:                                                     │
-│     안녕 (annyeong) = peace, well-being                          │
-│     하 (ha)         = to do/be (verb stem of 하다)               │
-│     세요 (seyo)     = honorific polite ending                    │
-│                                                                  │
-│   Literally: "Do you do peace?" = "Are you well?"               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **안녕하세요 (annyeonghaseyo)**
+>
+> - **Literal meaning**: "Are you at peace?"
+> - **Usage**: Hello / Hi / Good morning / Good afternoon / Good evening — used at ANY time of day
+> - **Formality**: Polite (존댓말) — safe for nearly all situations
+>
+> - **Breakdown**:
+>   - 안녕 (annyeong) = peace, well-being
+>   - 하 (ha) = to do/be (verb stem of 하다)
+>   - 세요 (seyo) = honorific polite ending
+>
+> Literally: "Do you do peace?" = "Are you well?"
 
 | Situation | Expression | Romanization | Formality |
 |-----------|-----------|-------------|-----------|
@@ -92,24 +86,20 @@
 
 ### 2.1 The Basic Template
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Korean Self-Introduction Template                    │
-│                                                                  │
-│   안녕하세요.                        Hello.                       │
-│   저는 [Name]입니다.                 I am [Name].                 │
-│   [Country]에서 왔습니다.            I came from [Country].       │
-│   [Job/Occupation]입니다.            I am a [Job].                │
-│   만나서 반갑습니다.                 Nice to meet you.             │
-│                                                                  │
-│   Example:                                                       │
-│   안녕하세요.                                                     │
-│   저는 마이클입니다.                 I am Michael.                │
-│   미국에서 왔습니다.                 I came from America.          │
-│   학생입니다.                        I am a student.              │
-│   만나서 반갑습니다.                                              │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Self-Introduction Template**
+>
+> - 안녕하세요. — Hello.
+> - 저는 [Name]입니다. — I am [Name].
+> - [Country]에서 왔습니다. — I came from [Country].
+> - [Job/Occupation]입니다. — I am a [Job].
+> - 만나서 반갑습니다. — Nice to meet you.
+>
+> **Example:**
+> - 안녕하세요.
+> - 저는 마이클입니다. — I am Michael.
+> - 미국에서 왔습니다. — I came from America.
+> - 학생입니다. — I am a student.
+> - 만나서 반갑습니다.
 
 ### 2.2 Key Vocabulary for Self-Introduction
 
@@ -170,26 +160,22 @@
 
 Korean has multiple speech levels. The **합쇼체** (hapssyoche) is the **formal polite** level — the highest level of politeness used in everyday conversation.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│           Speech Level Quick Reference (Preview)                  │
-│                                                                  │
-│   합쇼체 (Formal polite):  -ㅂ니다 / -습니다                     │
-│     → News, business, military, first meetings, public speech    │
-│     → "I am a student" = 학생입니다                               │
-│                                                                  │
-│   해요체 (Informal polite): -아/어요                              │
-│     → Everyday conversation with strangers, coworkers, shops     │
-│     → "I am a student" = 학생이에요                               │
-│                                                                  │
-│   해체 (Casual):           -아/어 (no 요)                        │
-│     → Close friends of same age, children, intimate relationships│
-│     → "I am a student" = 학생이야                                 │
-│                                                                  │
-│   For beginners: Master 합쇼체 and 해요체 first.                  │
-│   Using 합쇼체 is NEVER wrong — it's always safe.                 │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Speech Level Quick Reference (Preview)**
+>
+> **합쇼체 (Formal polite)**: -ㅂ니다 / -습니다
+> → News, business, military, first meetings, public speech
+> → "I am a student" = 학생입니다
+>
+> **해요체 (Informal polite)**: -아/어요
+> → Everyday conversation with strangers, coworkers, shops
+> → "I am a student" = 학생이에요
+>
+> **해체 (Casual)**: -아/어 (no 요)
+> → Close friends of same age, children, intimate relationships
+> → "I am a student" = 학생이야
+>
+> For beginners: Master 합쇼체 and 해요체 first.
+> Using 합쇼체 is NEVER wrong — it's always safe.
 
 ### 3.2 합쇼체 Patterns for Self-Introduction
 
@@ -250,27 +236,23 @@ B: 감사합니다.                          Thank you.
 
 Korean has different goodbye expressions depending on **who is leaving and who is staying**.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                  Korean Goodbye Expressions                       │
-│                                                                  │
-│   Situation 1: You are LEAVING, the other person STAYS           │
-│   → 안녕히 계세요. (annyeonghi gyeseyo)                          │
-│     Literal: "Stay in peace." (Please be well while staying.)    │
-│                                                                  │
-│   Situation 2: The other person is LEAVING, you STAY             │
-│   → 안녕히 가세요. (annyeonghi gaseyo)                           │
-│     Literal: "Go in peace." (Please travel well.)                │
-│                                                                  │
-│   Situation 3: BOTH people are leaving                           │
-│   → 안녕히 가세요. (both say this to each other)                  │
-│                                                                  │
-│   Casual (friends):                                              │
-│   → 잘 가. (jal ga) = "Go well."                                │
-│   → 잘 있어. (jal isseo) = "Stay well."                         │
-│   → 안녕. (annyeong) = Bye. (same word as casual "hello")       │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Goodbye Expressions**
+>
+> **Situation 1**: You are LEAVING, the other person STAYS
+> → 안녕히 계세요. (annyeonghi gyeseyo)
+> Literal: "Stay in peace." (Please be well while staying.)
+>
+> **Situation 2**: The other person is LEAVING, you STAY
+> → 안녕히 가세요. (annyeonghi gaseyo)
+> Literal: "Go in peace." (Please travel well.)
+>
+> **Situation 3**: BOTH people are leaving
+> → 안녕히 가세요. (both say this to each other)
+>
+> **Casual (friends)**:
+> → 잘 가. (jal ga) = "Go well."
+> → 잘 있어. (jal isseo) = "Stay well."
+> → 안녕. (annyeong) = Bye. (same word as casual "hello")
 
 ### 5.1 Other Parting Expressions
 
@@ -326,29 +308,14 @@ Korean has different goodbye expressions depending on **who is leaving and who i
 
 ### 7.1 Bowing (인사)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Korean Bowing Etiquette                         │
-│                                                                  │
-│   Casual nod (목례, mongnye):                                    │
-│     ~15° angle — casual greetings, peers                         │
-│                                                                  │
-│   Standard bow (보통례, botongnyе):                               │
-│     ~30° angle — general polite greeting                         │
-│                                                                  │
-│   Deep bow (정중례, jeongjongnye):                                │
-│     ~45° angle — showing great respect (elders, first meeting    │
-│     with someone important)                                      │
-│                                                                  │
-│   Full bow (큰절, keunjeol):                                     │
-│     Kneeling, forehead to floor — formal occasions (New Year's,  │
-│     weddings, to grandparents)                                   │
-│                                                                  │
-│   Note: When greeting, say 안녕하세요 while bowing. Do NOT bow   │
-│   while shaking hands — do one or the other (or bow slightly     │
-│   while shaking hands in business settings).                     │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Bowing Etiquette**
+>
+> - **Casual nod (목례, mongnye)**: ~15° angle — casual greetings, peers
+> - **Standard bow (보통례, botongnyе)**: ~30° angle — general polite greeting
+> - **Deep bow (정중례, jeongjongnye)**: ~45° angle — showing great respect (elders, first meeting with someone important)
+> - **Full bow (큰절, keunjeol)**: Kneeling, forehead to floor — formal occasions (New Year's, weddings, to grandparents)
+>
+> Note: When greeting, say 안녕하세요 while bowing. Do NOT bow while shaking hands — do one or the other (or bow slightly while shaking hands in business settings).
 
 ### 7.2 Titles and Address
 
