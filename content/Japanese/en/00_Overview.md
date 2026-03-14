@@ -37,20 +37,16 @@ Stage 5: Practical Application (21-25) — JLPT N2/N1
 
 ## JLPT Level Reference
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│               JLPT (Japanese-Language Proficiency Test)          │
-│                                                                  │
-│   N5 (Beginner)       ~800 vocabulary, ~100 kanji, basic grammar │
-│   N4 (Elementary)     ~1,500 vocabulary, ~300 kanji              │
-│   N3 (Intermediate)   ~3,750 vocabulary, ~650 kanji              │
-│   N2 (Upper-Inter.)   ~6,000 vocabulary, ~1,000 kanji            │
-│   N1 (Advanced)       ~10,000 vocabulary, ~2,000 kanji           │
-│                                                                  │
-│   CEFR approximate mapping:                                      │
-│   N5 ≈ A1, N4 ≈ A2, N3 ≈ B1, N2 ≈ B2, N1 ≈ C1                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **JLPT (Japanese-Language Proficiency Test)**
+>
+> - **N5 (Beginner)**: ~800 vocabulary, ~100 kanji, basic grammar
+> - **N4 (Elementary)**: ~1,500 vocabulary, ~300 kanji
+> - **N3 (Intermediate)**: ~3,750 vocabulary, ~650 kanji
+> - **N2 (Upper-Inter.)**: ~6,000 vocabulary, ~1,000 kanji
+> - **N1 (Advanced)**: ~10,000 vocabulary, ~2,000 kanji
+>
+> CEFR approximate mapping:
+> N5 ≈ A1, N4 ≈ A2, N3 ≈ B1, N2 ≈ B2, N1 ≈ C1
 
 ## Lessons
 
