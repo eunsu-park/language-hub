@@ -34,19 +34,16 @@ The fourth declension is characterized by the stem vowel **-u-**. Most nouns are
 - Notable feminine exceptions: **manus** (hand), **domus** (house), **porticus** (colonnade), **tribus** (tribe)
 - Only a handful of **neuter** nouns exist
 
-```
-FOURTH DECLENSION IDENTIFICATION
-┌────────────────────────────────────┐
-│ Nom. sg.: -us (m./f.) or -ū (n.) │
-│ Gen. sg.: -ūs                     │
-│                                    │
-│ Compare with 2nd declension:       │
-│   2nd: -us, gen. -ī               │
-│   4th: -us, gen. -ūs              │
-│                                    │
-│ Always check the genitive!         │
-└────────────────────────────────────┘
-```
+> **FOURTH DECLENSION IDENTIFICATION**
+>
+> - Nom. sg.: -us (m./f.) or -ū (n.)
+> - Gen. sg.: -ūs
+>
+> Compare with 2nd declension:
+> - 2nd: -us, gen. -ī
+> - 4th: -us, gen. -ūs
+>
+> Always check the genitive!
 
 ---
 
@@ -251,20 +248,16 @@ This shows the historical connection between the -ē- stem and the -ā- stem dec
 | Acc. | -ās | -ōs | -a | -ēs | -ūs | -ua | -ēs |
 | Abl. | -īs | -īs | -īs | -ibus | -ibus | -ibus | -ēbus |
 
-```
-HOW TO IDENTIFY THE DECLENSION
-┌──────────────────────────────────┐
-│ Look at the GENITIVE SINGULAR:  │
-│                                  │
-│   -ae   → 1st declension        │
-│   -ī    → 2nd declension        │
-│   -is   → 3rd declension        │
-│   -ūs   → 4th declension        │
-│   -eī   → 5th declension        │
-│                                  │
-│ The genitive NEVER lies!         │
-└──────────────────────────────────┘
-```
+> **HOW TO IDENTIFY THE DECLENSION**
+>
+> Look at the GENITIVE SINGULAR:
+> - -ae   → 1st declension
+> - -ī    → 2nd declension
+> - -is   → 3rd declension
+> - -ūs   → 4th declension
+> - -eī   → 5th declension
+>
+> The genitive NEVER lies!
 
 ---
 
