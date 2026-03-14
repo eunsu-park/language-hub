@@ -26,24 +26,17 @@
 
 ### 1.1 Why Reading Strategies Matter
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean speakers reading in English often:                    │
-│                                                                 │
-│   ✗ Try to understand every single word                        │
-│   ✗ Mentally translate to Korean word by word                  │
-│   ✗ Read at the same speed regardless of purpose               │
-│   ✗ Give up when encountering unknown vocabulary               │
-│                                                                 │
-│   Effective readers:                                           │
-│                                                                 │
-│   ✓ Adjust reading speed to match their purpose               │
-│   ✓ Use context clues to guess unknown words                  │
-│   ✓ Skim for main ideas before reading in detail              │
-│   ✓ Make predictions and inferences as they read              │
-│   ✓ Identify text structure to navigate efficiently            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean speakers reading in English often:
+> ✗ Try to understand every single word
+> ✗ Mentally translate to Korean word by word
+> ✗ Read at the same speed regardless of purpose
+> ✗ Give up when encountering unknown vocabulary
+> Effective readers:
+> ✓ Adjust reading speed to match their purpose
+> ✓ Use context clues to guess unknown words
+> ✓ Skim for main ideas before reading in detail
+> ✓ Make predictions and inferences as they read
+> ✓ Identify text structure to navigate efficiently
 
 ### 1.2 Three Core Strategies
 
@@ -150,17 +143,19 @@ Active Reading Markers:
 ```
 Most English paragraphs follow this structure:
 
-  ┌─ Topic sentence (main idea) ──────────────────────┐
-  │  "Social media has transformed how we communicate." │
-  ├─ Supporting details ──────────────────────────────┤
-  │  "For example, platforms like Twitter allow instant │
-  │   information sharing across the globe."           │
-  │  "Furthermore, Facebook has connected over 2       │
-  │   billion users worldwide."                        │
-  ├─ Concluding sentence (optional) ──────────────────┤
-  │  "Clearly, social media has become an integral     │
-  │   part of modern communication."                   │
-  └───────────────────────────────────────────────────┘
+```
+
+> "Social media has transformed how we communicate."
+> ├─ Supporting details ──────────────────────────────┤
+> "For example, platforms like Twitter allow instant
+> information sharing across the globe."
+> "Furthermore, Facebook has connected over 2
+> billion users worldwide."
+> ├─ Concluding sentence (optional) ──────────────────┤
+> "Clearly, social media has become an integral
+> part of modern communication."
+
+```
 
   Tip: The topic sentence is usually the FIRST sentence
   of the paragraph. Look there for the main idea!
@@ -225,26 +220,22 @@ On tests, be careful to distinguish these three!
 
 ### 6.1 Common Text Types
 
-```
-┌──────────────┬──────────────────────────────────────────────────┐
-│ Text Type    │ Characteristics                                  │
-├──────────────┼──────────────────────────────────────────────────┤
-│ Narrative    │ Tells a story; has characters, setting, plot;   │
-│              │ uses past tenses; chronological order            │
-├──────────────┼──────────────────────────────────────────────────┤
-│ Descriptive  │ Describes a person/place/thing; uses adjectives │
-│              │ and sensory details; creates mental images       │
-├──────────────┼──────────────────────────────────────────────────┤
-│ Expository   │ Explains or informs; presents facts; uses       │
-│              │ definitions, examples, and data                  │
-├──────────────┼──────────────────────────────────────────────────┤
-│ Persuasive / │ Argues a point; uses evidence and reasoning;    │
-│ Argumentative│ has thesis, supporting arguments, counterpoint   │
-├──────────────┼──────────────────────────────────────────────────┤
-│ Instructional│ Gives directions; uses imperatives and          │
-│              │ numbered steps; recipes, manuals                 │
-└──────────────┴──────────────────────────────────────────────────┘
-```
+> Text Type    │ Characteristics
+> ├──────────────┼──────────────────────────────────────────────────┤
+> Narrative    │ Tells a story; has characters, setting, plot;
+> │ uses past tenses; chronological order
+> ├──────────────┼──────────────────────────────────────────────────┤
+> Descriptive  │ Describes a person/place/thing; uses adjectives
+> │ and sensory details; creates mental images
+> ├──────────────┼──────────────────────────────────────────────────┤
+> Expository   │ Explains or informs; presents facts; uses
+> │ definitions, examples, and data
+> ├──────────────┼──────────────────────────────────────────────────┤
+> Persuasive / │ Argues a point; uses evidence and reasoning;
+> Argumentative│ has thesis, supporting arguments, counterpoint
+> ├──────────────┼──────────────────────────────────────────────────┤
+> Instructional│ Gives directions; uses imperatives and
+> │ numbered steps; recipes, manuals
 
 ### 6.2 Organizational Patterns
 
@@ -314,58 +305,56 @@ When you encounter an unknown word:
 
 Korean speakers often encounter English words that exist in Korean (Konglish) but have different meanings. These "false friends" cause confusion.
 
-```
-┌─────────────────┬──────────────────┬────────────────────────────┐
-│ Konglish        │ Korean Meaning   │ Actual English Meaning     │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ eye shopping    │ 아이쇼핑 (구경)    │ ✗ Not used in English      │
-│                 │                  │ ✓ window shopping          │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ fighting!       │ 파이팅! (화이팅!)  │ ✗ Means physical combat    │
-│                 │                  │ ✓ "Go for it!" / "You've   │
-│                 │                  │   got this!" / "Good luck!" │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ cunning         │ 커닝 (부정행위)    │ ✗ English: clever/sly      │
-│                 │                  │ ✓ cheating (on an exam)    │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ handle          │ 핸들 (운전대)      │ ✗ English: a door handle   │
-│                 │                  │ ✓ steering wheel           │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ skin ship       │ 스킨십 (스킨쉽)    │ ✗ Not used in English      │
-│                 │                  │ ✓ physical affection /     │
-│                 │                  │   physical intimacy        │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ one piece       │ 원피스 (드레스)    │ ✗ English: a single piece  │
-│                 │                  │ ✓ dress                    │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ consent         │ 콘센트 (전기 콘센트)│ ✗ English: permission      │
-│                 │                  │ ✓ outlet / power socket    │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ sign            │ 사인 (서명)       │ ✓ Partially correct        │
-│                 │                  │ ✓ signature (for autograph)│
-│                 │                  │ ✓ sign (a road sign, etc.) │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ meeting         │ 미팅 (소개팅)      │ ✗ Korean: group blind date │
-│                 │                  │ ✓ English: a business/     │
-│                 │                  │   formal meeting           │
-│                 │                  │ ✓ blind date (for dating)  │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ talent          │ 탤런트 (TV 배우)   │ ✗ Korean: TV actor         │
-│                 │                  │ ✓ English: natural ability │
-│                 │                  │ ✓ TV actor / actress       │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ apart           │ 아파트 (아파트)    │ ✗ English: separated       │
-│ (apartment)     │                  │ ✓ apartment / flat         │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ glamour         │ 글래머 (풍만한 몸매)│ ✗ Korean: curvy body       │
-│                 │                  │ ✓ English: beauty,         │
-│                 │                  │   attractiveness, elegance │
-├─────────────────┼──────────────────┼────────────────────────────┤
-│ hotdog          │ 핫도그            │ ✓ Same in both (food)      │
-│ (corn dog)      │ (핫도그=corn dog) │ Note: Korean "hotdog" is   │
-│                 │                  │ often a corn dog            │
-└─────────────────┴──────────────────┴────────────────────────────┘
-```
+> | Konglish | Korean Meaning | Actual English Meaning |
+> |---|---|---|
+> | eye shopping | 아이쇼핑 (구경) | ✗ Not used in English |
+> | ✓ window shopping |  |  |
+> | fighting! | 파이팅! (화이팅!) | ✗ Means physical combat |
+> | ✓ "Go for it!" / "You've |  |  |
+> | got this!" / "Good luck!" |  |  |
+> | cunning | 커닝 (부정행위) | ✗ English: clever/sly |
+> | ✓ cheating (on an exam) |  |  |
+> | handle | 핸들 (운전대) | ✗ English: a door handle |
+> | ✓ steering wheel |  |  |
+> | skin ship | 스킨십 (스킨쉽) | ✗ Not used in English |
+> | ✓ physical affection / |  |  |
+> | physical intimacy |  |  |
+> | one piece | 원피스 (드레스) | ✗ English: a single piece |
+> | ✓ dress |  |  |
+> | consent | 콘센트 (전기 콘센트) | ✗ English: permission |
+> | ✓ outlet / power socket |  |  |
+> | sign | 사인 (서명) | ✓ Partially correct |
+> | ✓ signature (for autograph) |  |  |
+> | ✓ sign (a road sign, etc.) |  |  |
+> | meeting | 미팅 (소개팅) | ✗ Korean: group blind date |
+> | ✓ English: a business/ |  |  |
+> | formal meeting |  |  |
+> | ✓ blind date (for dating) |  |  |
+> | talent | 탤런트 (TV 배우) | ✗ Korean: TV actor |
+> | ✓ English: natural ability |  |  |
+> | ✓ TV actor / actress |  |  |
+> | apart | 아파트 (아파트) | ✗ English: separated |
+> | (apartment) | ✓ apartment / flat |  |
+> | glamour | 글래머 (풍만한 몸매) | ✗ Korean: curvy body |
+> | ✓ English: beauty, |  |  |
+> | attractiveness, elegance |  |  |
+> | hotdog | 핫도그 | ✓ Same in both (food) |
+> | (corn dog) | (핫도그=corn dog) | Note: Korean "hotdog" is |
+> | often a corn dog |  |  |
+>
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
+> ├─────────────────┼──────────────────┼────────────────────────────┤
 
 ---
 
@@ -433,24 +422,16 @@ AD HOMINEM:       Attacking the person instead of the argument
 
 ### 10.1 Common Speed Blockers
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. Subvocalization (reading every word aloud in your head)   │
-│      → Practice reading groups of words, not individual ones   │
-│                                                                 │
-│   2. Regression (going back to re-read)                        │
-│      → Use a finger or pointer to keep moving forward          │
-│                                                                 │
-│   3. Word-by-word translation to Korean                        │
-│      → Try to understand meaning in English directly           │
-│                                                                 │
-│   4. Stopping at every unknown word                            │
-│      → Use context clues; look up words later                  │
-│                                                                 │
-│   5. Lack of vocabulary                                        │
-│      → Build vocabulary systematically (see Lesson 20)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. Subvocalization (reading every word aloud in your head)
+> → Practice reading groups of words, not individual ones
+> 2. Regression (going back to re-read)
+> → Use a finger or pointer to keep moving forward
+> 3. Word-by-word translation to Korean
+> → Try to understand meaning in English directly
+> 4. Stopping at every unknown word
+> → Use context clues; look up words later
+> 5. Lack of vocabulary
+> → Build vocabulary systematically (see Lesson 20)
 
 ### 10.2 Speed Improvement Techniques
 
@@ -502,19 +483,17 @@ Read the following passage in 30 seconds, then answer the questions.
 
 Scan the table below to answer the questions as quickly as possible.
 
-```
-┌──────────┬────────────┬───────────┬──────────┐
-│ City     │ Population │ Country   │ Founded  │
-├──────────┼────────────┼───────────┼──────────┤
-│ Seoul    │ 9.7M       │ S. Korea  │ 18 BCE   │
-│ Tokyo    │ 13.9M      │ Japan     │ 1457     │
-│ London   │ 8.8M       │ UK        │ 43 AD    │
-│ New York │ 8.3M       │ USA       │ 1624     │
-│ Paris    │ 2.1M       │ France    │ 3rd c. BCE│
-│ Sydney   │ 5.3M       │ Australia │ 1788     │
-│ Beijing  │ 21.5M      │ China     │ 1045 BCE │
-└──────────┴────────────┴───────────┴──────────┘
-```
+> | City | Population | Country | Founded |
+> |---|---|---|---|
+> | Seoul | 9.7M | S. Korea | 18 BCE |
+> | Tokyo | 13.9M | Japan | 1457 |
+> | London | 8.8M | UK | 43 AD |
+> | New York | 8.3M | USA | 1624 |
+> | Paris | 2.1M | France | 3rd c. BCE |
+> | Sydney | 5.3M | Australia | 1788 |
+> | Beijing | 21.5M | China | 1045 BCE |
+>
+> ├──────────┼────────────┼───────────┼──────────┤
 
 1. Which city has the largest population?
 2. When was Sydney founded?
@@ -614,32 +593,22 @@ Choose the correct English expression.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Reading Comprehension Quick Guide                  │
-│                                                                 │
-│   SKIMMING: Read title, first/last paragraphs, first          │
-│   sentences of each paragraph → get main idea                  │
-│                                                                 │
-│   SCANNING: Know what you're looking for → move eyes           │
-│   quickly → look for visual clues → stop at target             │
-│                                                                 │
-│   INFERENCE: Text evidence + background knowledge = conclusion │
-│                                                                 │
-│   CONTEXT CLUES: Definition, synonym, antonym, example, logic  │
-│   → Don't stop at every unknown word!                          │
-│                                                                 │
-│   CRITICAL READING: Who wrote it? Why? What evidence?          │
-│   What's missing? Any bias?                                    │
-│                                                                 │
-│   KONGLISH TRAPS: window shopping (not eye shopping),          │
-│   cheating (not cunning), steering wheel (not handle),         │
-│   You've got this! (not Fighting!)                             │
-│                                                                 │
-│   SPEED: Read in chunks, avoid regression, use context         │
-│   clues, read extensively in English                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Reading Comprehension Quick Guide**
+>
+> SKIMMING: Read title, first/last paragraphs, first
+> sentences of each paragraph → get main idea
+> SCANNING: Know what you're looking for → move eyes
+> quickly → look for visual clues → stop at target
+> INFERENCE: Text evidence + background knowledge = conclusion
+> CONTEXT CLUES: Definition, synonym, antonym, example, logic
+> → Don't stop at every unknown word!
+> CRITICAL READING: Who wrote it? Why? What evidence?
+> What's missing? Any bias?
+> KONGLISH TRAPS: window shopping (not eye shopping),
+> cheating (not cunning), steering wheel (not handle),
+> You've got this! (not Fighting!)
+> SPEED: Read in chunks, avoid regression, use context
+> clues, read extensively in English
 
 ---
 
