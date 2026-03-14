@@ -40,28 +40,19 @@
 
 Japanese adjectives fall into two distinct categories. Unlike English, where all adjectives behave the same way, Japanese adjectives follow different conjugation rules depending on their type.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Japanese Adjective Types (形容詞の種類)                │
-│                                                                 │
-│   い-adjectives (i-keiyōshi)       な-adjectives (na-keiyōshi)  │
-│   ──────────────────────────       ──────────────────────────── │
-│   End in い (i) in dictionary      Do NOT end in い typically    │
-│   form                             (with exceptions)            │
-│                                                                 │
-│   Conjugate by changing the        Use だ/です after the         │
-│   ending い                        adjective stem                │
-│                                                                 │
-│   Examples:                        Examples:                    │
-│   大きい (ōkii) — big              静か (shizuka) — quiet       │
-│   小さい (chiisai) — small         きれい (kirei) — pretty      │
-│   高い (takai) — tall/expensive    元気 (genki) — healthy       │
-│   新しい (atarashii) — new         好き (suki) — liked          │
-│                                                                 │
-│   ※ WARNING: きれい and 嫌い look like い-adjectives            │
-│     but are actually な-adjectives! You must memorize these.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Japanese Adjective Types (形容詞の種類)**
+>
+> **い-adjectives (i-keiyōshi)**
+> - End in い (i) in dictionary form
+> - Conjugate by changing the ending い
+> - Examples: 大きい (ōkii) — big, 小さい (chiisai) — small, 高い (takai) — tall/expensive, 新しい (atarashii) — new
+>
+> **な-adjectives (na-keiyōshi)**
+> - Do NOT end in い typically (with exceptions)
+> - Use だ/です after the adjective stem
+> - Examples: 静か (shizuka) — quiet, きれい (kirei) — pretty, 元気 (genki) — healthy, 好き (suki) — liked
+>
+> WARNING: きれい and 嫌い look like い-adjectives but are actually な-adjectives! You must memorize these.
 
 ### 1.1 How to Tell Them Apart
 
@@ -101,23 +92,16 @@ Using 高い (takai — tall, expensive) as the model:
 
 ### 2.2 The Pattern
 
-```
-┌──────────────────────────────────────────────────────────┐
-│        い-Adjective Conjugation Pattern                    │
-│                                                          │
-│   Stem = adjective minus final い                        │
-│                                                          │
-│   Present (+):  stem + い          高い                   │
-│   Present (-):  stem + くない      高くない               │
-│   Past (+):     stem + かった      高かった               │
-│   Past (-):     stem + くなかった  高くなかった           │
-│                                                          │
-│        高  →  stem                                       │
-│        高い  →  present (+)                              │
-│        高く  →  negative/adverb stem                     │
-│        高か  →  past stem                                │
-└──────────────────────────────────────────────────────────┘
-```
+> **い-Adjective Conjugation Pattern**
+>
+> Stem = adjective minus final い
+>
+> - **Present (+)**: stem + い — 高い
+> - **Present (-)**: stem + くない — 高くない
+> - **Past (+)**: stem + かった — 高かった
+> - **Past (-)**: stem + くなかった — 高くなかった
+>
+> 高 → stem | 高い → present (+) | 高く → negative/adverb stem | 高か → past stem
 
 ### 2.3 Examples with Common い-Adjectives
 
@@ -165,21 +149,16 @@ Using 静か (shizuka — quiet) as the model:
 
 ### 3.2 The Pattern
 
-```
-┌──────────────────────────────────────────────────────────┐
-│        な-Adjective Conjugation Pattern                    │
-│                                                          │
-│   Present (+):  stem + だ/です                           │
-│   Present (-):  stem + じゃない / ではない                │
-│   Past (+):     stem + だった / でした                    │
-│   Past (-):     stem + じゃなかった / ではなかった        │
-│                                                          │
-│   Before nouns: stem + な + noun                         │
-│     静かな部屋 (a quiet room)                            │
-│                                                          │
-│   ※ じゃ is the casual contraction of では               │
-└──────────────────────────────────────────────────────────┘
-```
+> **な-Adjective Conjugation Pattern**
+>
+> - **Present (+)**: stem + だ/です
+> - **Present (-)**: stem + じゃない / ではない
+> - **Past (+)**: stem + だった / でした
+> - **Past (-)**: stem + じゃなかった / ではなかった
+>
+> Before nouns: stem + な + noun — 静かな部屋 (a quiet room)
+>
+> ※ じゃ is the casual contraction of では
 
 ### 3.3 Examples with Common な-Adjectives
 
@@ -406,22 +385,17 @@ Tanaka-san is energetic and kind.
 
 ### 7.4 Summary of Connecting Forms
 
-```
-┌──────────────────────────────────────────────────────┐
-│         Adjective Connecting Forms                    │
-│                                                      │
-│   い-adjective:  drop い → add くて                  │
-│     大きい → 大きくて                                │
-│     おいしい → おいしくて                            │
-│                                                      │
-│   な-adjective:  stem + で                           │
-│     静か → 静かで                                    │
-│     きれい → きれいで                                │
-│                                                      │
-│   Exception:                                         │
-│     いい (good) → よくて (NOT いくて)                │
-└──────────────────────────────────────────────────────┘
-```
+> **Adjective Connecting Forms**
+>
+> **い-adjective**: drop い → add くて
+> - 大きい → 大きくて
+> - おいしい → おいしくて
+>
+> **な-adjective**: stem + で
+> - 静か → 静かで
+> - きれい → きれいで
+>
+> **Exception**: いい (good) → よくて (NOT いくて)
 
 ---
 
@@ -682,38 +656,31 @@ Translate the following sentences using polite (です) form.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           ADJECTIVE CHEAT SHEET (形容詞まとめ)                │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  い-ADJECTIVES                                               │
-│  Present (+): 〜い          高い                             │
-│  Present (-): 〜くない      高くない                         │
-│  Past (+):    〜かった      高かった                         │
-│  Past (-):    〜くなかった  高くなかった                     │
-│  Before noun: 〜い + noun   高い山                           │
-│  Connecting:  〜くて        高くて                           │
-│                                                              │
-│  な-ADJECTIVES                                               │
-│  Present (+): 〜だ/です       静かだ                         │
-│  Present (-): 〜じゃない      静かじゃない                   │
-│  Past (+):    〜だった/でした 静かだった                     │
-│  Past (-):    〜じゃなかった  静かじゃなかった               │
-│  Before noun: 〜な + noun     静かな部屋                     │
-│  Connecting:  〜で            静かで                         │
-│                                                              │
-│  EXCEPTIONS                                                  │
-│  いい → よくない / よかった / よくなかった                   │
-│  きれい, 嫌い → な-adjectives (despite ending in い)         │
-│  大きな, 小さな → attributive-only variants                  │
-│                                                              │
-│  DEGREE ADVERBS                                              │
-│  とても (very) / あまり〜ない (not very) / 全然〜ない (not   │
-│  at all) / ちょっと (a bit) / すごく (incredibly)            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **ADJECTIVE CHEAT SHEET (形容詞まとめ)**
+>
+> **い-ADJECTIVES**
+> - **Present (+)**: 〜い — 高い
+> - **Present (-)**: 〜くない — 高くない
+> - **Past (+)**: 〜かった — 高かった
+> - **Past (-)**: 〜くなかった — 高くなかった
+> - **Before noun**: 〜い + noun — 高い山
+> - **Connecting**: 〜くて — 高くて
+>
+> **な-ADJECTIVES**
+> - **Present (+)**: 〜だ/です — 静かだ
+> - **Present (-)**: 〜じゃない — 静かじゃない
+> - **Past (+)**: 〜だった/でした — 静かだった
+> - **Past (-)**: 〜じゃなかった — 静かじゃなかった
+> - **Before noun**: 〜な + noun — 静かな部屋
+> - **Connecting**: 〜で — 静かで
+>
+> **EXCEPTIONS**
+> - いい → よくない / よかった / よくなかった
+> - きれい, 嫌い → な-adjectives (despite ending in い)
+> - 大きな, 小さな → attributive-only variants
+>
+> **DEGREE ADVERBS**
+> - とても (very) / あまり〜ない (not very) / 全然〜ない (not at all) / ちょっと (a bit) / すごく (incredibly)
 
 ---
 
