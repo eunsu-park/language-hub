@@ -21,22 +21,14 @@
 
 ## 1. 왜 이 네 가지 동사인가?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   이 네 가지 동사는 거의 모든 스페인어 문장에 등장합니다.        │
-│   이것들을 마스터하면 대부분의 기본 아이디어를 표현할 수 있습니다.│
-│                                                                 │
-│   SER    → 정체성, 출신, 특성       (영구적 "~이다")            │
-│   ESTAR  → 위치, 상태, 감정         (일시적 "~이다")            │
-│   TENER  → 소유, 나이, 많은 관용표현 ("가지다")                 │
-│   HABER  → 존재 (hay), 완료 시제    ("가지다" 조동사)           │
-│                                                                 │
-│   영어 화자를 위한 도전:                                        │
-│   영어 "to be" → SER 또는 ESTAR (반드시 선택해야 합니다!)       │
-│   영어 "to be" → 때때로 TENER (tener hambre = "배고프다",       │
-│                  "배고픔을 가지다"가 아님)                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 이 네 가지 동사는 거의 모든 스페인어 문장에 등장합니다. 이것들을 마스터하면 대부분의 기본 아이디어를 표현할 수 있습니다.
+>
+> - **SER** → 정체성, 출신, 특성 (영구적 "~이다")
+> - **ESTAR** → 위치, 상태, 감정 (일시적 "~이다")
+> - **TENER** → 소유, 나이, 많은 관용표현 ("가지다")
+> - **HABER** → 존재 (hay), 완료 시제 ("가지다" 조동사)
+>
+> **영어 화자를 위한 도전**: 영어 "to be" → SER 또는 ESTAR (반드시 선택해야 합니다!). 영어 "to be" → 때때로 TENER (tener hambre = "배고프다", "배고픔을 가지다"가 아님)
 
 ---
 
@@ -55,35 +47,23 @@
 
 ### 2.2 SER의 용법 — DOCTOR 기억법(Mnemonic)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   D - Description 묘사 (외모/성격적 특성)                       │
-│       Ella es alta y simpática.                                 │
-│       (그녀는 키가 크고 친절하다.)                               │
-│                                                                 │
-│   O - Occupation 직업                                           │
-│       Soy ingeniero. (나는 엔지니어이다.)                       │
-│       Es profesora. (그녀는 교사이다.)                          │
-│                                                                 │
-│   C - Characteristic 특성 (본질적 성질)                         │
-│       El hielo es frío. (얼음은 차갑다.)                        │
-│       La nieve es blanca. (눈은 하얗다.)                        │
-│                                                                 │
-│   T - Time 시간 (시각, 날짜)                                    │
-│       Son las dos. (2시이다.)                                   │
-│       Hoy es lunes. (오늘은 월요일이다.)                        │
-│       Es el 15 de marzo. (3월 15일이다.)                        │
-│                                                                 │
-│   O - Origin 출신 (어디에서 왔는지)                             │
-│       Soy de Corea. (나는 한국 출신이다.)                       │
-│       El café es de Colombia. (이 커피는 콜롬비아산이다.)       │
-│                                                                 │
-│   R - Relationship 관계 (소유, 재질)                            │
-│       Es mi libro. (그것은 내 책이다.)                          │
-│       La mesa es de madera. (그 탁자는 나무로 만들어졌다.)      │
-│       La fiesta es en mi casa. (파티는 내 집에서 열린다.)       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **D - Description 묘사** (외모/성격적 특성)
+> Ella es alta y simpatica. (그녀는 키가 크고 친절하다.)
+>
+> **O - Occupation 직업**
+> Soy ingeniero. (나는 엔지니어이다.) / Es profesora. (그녀는 교사이다.)
+>
+> **C - Characteristic 특성** (본질적 성질)
+> El hielo es frio. (얼음은 차갑다.) / La nieve es blanca. (눈은 하얗다.)
+>
+> **T - Time 시간** (시각, 날짜)
+> Son las dos. (2시이다.) / Hoy es lunes. (오늘은 월요일이다.) / Es el 15 de marzo. (3월 15일이다.)
+>
+> **O - Origin 출신** (어디에서 왔는지)
+> Soy de Corea. (나는 한국 출신이다.) / El cafe es de Colombia. (이 커피는 콜롬비아산이다.)
+>
+> **R - Relationship 관계** (소유, 재질)
+> Es mi libro. (그것은 내 책이다.) / La mesa es de madera. (그 탁자는 나무로 만들어졌다.) / La fiesta es en mi casa. (파티는 내 집에서 열린다.)
 
 ### 2.3 SER 추가 예문
 
@@ -116,31 +96,20 @@ Events:        La reunión es a las tres. (회의는 3시에 열린다.)
 
 ### 3.2 ESTAR의 용법 — PLACE 기억법(Mnemonic)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   P - Position/Place 위치/장소                                  │
-│       Estoy en la oficina. (나는 사무실에 있다.)                │
-│       Madrid está en España. (마드리드는 스페인에 있다.)        │
-│                                                                 │
-│   L - Looks/Appears 외관 (지금 어떻게 보이는지)                 │
-│       Estás muy guapa hoy. (오늘 정말 예쁘다.)                  │
-│       La comida está deliciosa. (음식이 맛있다.)                │
-│                                                                 │
-│   A - Action 진행 중인 동작 (-ando/-iendo)                      │
-│       Estoy estudiando. (나는 공부하고 있다.)                   │
-│       Están comiendo. (그들은 먹고 있다.)                       │
-│                                                                 │
-│   C - Condition 상태 (일시적 상태, 변화의 결과)                 │
-│       Estoy cansado. (나는 피곤하다.)                           │
-│       La puerta está abierta. (문이 열려 있다.)                 │
-│       El café está frío. (커피가 식었다.)                       │
-│                                                                 │
-│   E - Emotion 감정 (지금 느끼는 감정)                           │
-│       Estoy feliz. (나는 지금 행복하다.)                        │
-│       Está triste. (그/그녀는 슬프다.)                          │
-│       Estamos nerviosos. (우리는 긴장된다.)                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **P - Position/Place 위치/장소**
+> Estoy en la oficina. (나는 사무실에 있다.) / Madrid esta en España. (마드리드는 스페인에 있다.)
+>
+> **L - Looks/Appears 외관** (지금 어떻게 보이는지)
+> Estas muy guapa hoy. (오늘 정말 예쁘다.) / La comida esta deliciosa. (음식이 맛있다.)
+>
+> **A - Action 진행 중인 동작** (-ando/-iendo)
+> Estoy estudiando. (나는 공부하고 있다.) / Estan comiendo. (그들은 먹고 있다.)
+>
+> **C - Condition 상태** (일시적 상태, 변화의 결과)
+> Estoy cansado. (나는 피곤하다.) / La puerta esta abierta. (문이 열려 있다.) / El cafe esta frio. (커피가 식었다.)
+>
+> **E - Emotion 감정** (지금 느끼는 감정)
+> Estoy feliz. (나는 지금 행복하다.) / Esta triste. (그/그녀는 슬프다.) / Estamos nerviosos. (우리는 긴장된다.)
 
 ---
 
@@ -217,31 +186,27 @@ Age:           Tengo veinticinco años. (나는 25살이다.)
 
 ### 5.3 TENER 관용 표현 (영어에서 "to be"를 사용하는 경우)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   신체적 감각:                                                  │
-│   tener hambre       → 배고프다       (직역: 배고픔을 가지다)   │
-│   tener sed          → 목마르다       (직역: 갈증을 가지다)     │
-│   tener frío         → 춥다           (직역: 추위를 가지다)     │
-│   tener calor        → 덥다           (직역: 더위를 가지다)     │
-│   tener sueño        → 졸리다         (직역: 졸음을 가지다)     │
-│                                                                 │
-│   감정 상태:                                                    │
-│   tener miedo (de)   → 두렵다         (직역: 두려움을 가지다)   │
-│   tener vergüenza    → 부끄럽다       (직역: 수치를 가지다)     │
-│   tener cuidado      → 조심하다       (직역: 주의를 가지다)     │
-│   tener paciencia    → 인내심 있다    (직역: 인내를 가지다)     │
-│                                                                 │
-│   기타 주요 관용 표현:                                          │
-│   tener razón        → 맞다           (직역: 이유를 가지다)     │
-│   tener prisa        → 서두르다       (직역: 서두름을 가지다)   │
-│   tener suerte       → 운이 좋다      (직역: 행운을 가지다)     │
-│   tener éxito        → 성공하다       (직역: 성공을 가지다)     │
-│   tener sentido      → 말이 되다      (직역: 의미를 가지다)     │
-│   tener lugar        → 개최되다       (직역: 장소를 가지다)     │
-│   tener ganas de     → ~하고 싶다     (직역: ~의 욕구를 가지다) │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **신체적 감각**:
+> - tener hambre → 배고프다 (직역: 배고픔을 가지다)
+> - tener sed → 목마르다 (직역: 갈증을 가지다)
+> - tener frio → 춥다 (직역: 추위를 가지다)
+> - tener calor → 덥다 (직역: 더위를 가지다)
+> - tener sueño → 졸리다 (직역: 졸음을 가지다)
+>
+> **감정 상태**:
+> - tener miedo (de) → 두렵다 (직역: 두려움을 가지다)
+> - tener verguenza → 부끄럽다 (직역: 수치를 가지다)
+> - tener cuidado → 조심하다 (직역: 주의를 가지다)
+> - tener paciencia → 인내심 있다 (직역: 인내를 가지다)
+>
+> **기타 주요 관용 표현**:
+> - tener razon → 맞다 (직역: 이유를 가지다)
+> - tener prisa → 서두르다 (직역: 서두름을 가지다)
+> - tener suerte → 운이 좋다 (직역: 행운을 가지다)
+> - tener exito → 성공하다 (직역: 성공을 가지다)
+> - tener sentido → 말이 되다 (직역: 의미를 가지다)
+> - tener lugar → 개최되다 (직역: 장소를 가지다)
+> - tener ganas de → ~하고 싶다 (직역: ~의 욕구를 가지다)
 
 ### 5.4 TENER QUE + 부정사(Infinitive) (의무 표현)
 
@@ -260,23 +225,18 @@ Tenemos que ir.            → 우리는 가야 한다.
 
 ### 6.1 비인칭(Impersonal) HAY (~이 있다)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   hay = ~이 있다 (현재 시제, 비인칭)                            │
-│                                                                 │
-│   Hay un libro en la mesa.        → 탁자 위에 책이 한 권 있다. │
-│   Hay muchos estudiantes.         → 학생이 많이 있다.           │
-│   ¿Hay un banco cerca?            → 근처에 은행이 있나요?       │
-│   No hay problema.                → 문제없다.                   │
-│   Hay que estudiar.               → 공부해야 한다. (비인칭)     │
-│                                                                 │
-│   과거:   había (~이 있었다)                                    │
-│   미래:   habrá (~이 있을 것이다)                               │
-│                                                                 │
-│   ※ HAY는 복수형에서도 변하지 않습니다!                        │
-│   Hay un gato.   Hay tres gatos.  ("han tres gatos"가 아님)    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **hay** = ~이 있다 (현재 시제, 비인칭)
+>
+> - Hay un libro en la mesa. → 탁자 위에 책이 한 권 있다.
+> - Hay muchos estudiantes. → 학생이 많이 있다.
+> - ¿Hay un banco cerca? → 근처에 은행이 있나요?
+> - No hay problema. → 문제없다.
+> - Hay que estudiar. → 공부해야 한다. (비인칭)
+>
+> - **과거**: habia (~이 있었다)
+> - **미래**: habra (~이 있을 것이다)
+>
+> ※ HAY는 복수형에서도 변하지 않습니다! Hay un gato. Hay tres gatos. ("han tres gatos"가 아님)
 
 ### 6.2 HAY vs ESTAR (위치 표현)
 
@@ -424,22 +384,15 @@ TENER를 사용하여 스페인어로 번역하세요.
 
 ## 빠른 참조표(Quick Reference)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SER (DOCTOR)                  ESTAR (PLACE)                   │
-│   soy   somos                   estoy   estamos                 │
-│   eres  sois                    estás   estáis                  │
-│   es    son                     está    están                   │
-│                                                                 │
-│   TENER                         HABER                           │
-│   tengo  tenemos                hay (~이 있다)                  │
-│   tienes tenéis                 he, has, ha (조동사)            │
-│   tiene  tienen                 hemos, habéis, han              │
-│                                                                 │
-│   주요 TENER 관용표현: hambre, sed, frío, calor, sueño,        │
-│   miedo, razón, prisa, suerte, ... años                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SER** (DOCTOR): soy, eres, es, somos, sois, son
+>
+> **ESTAR** (PLACE): estoy, estas, esta, estamos, estais, estan
+>
+> **TENER**: tengo, tienes, tiene, tenemos, teneis, tienen
+>
+> **HABER**: hay (~이 있다) / he, has, ha, hemos, habeis, han (조동사)
+>
+> **주요 TENER 관용표현**: hambre, sed, frio, calor, sueño, miedo, razon, prisa, suerte, ... años
 
 ---
 
