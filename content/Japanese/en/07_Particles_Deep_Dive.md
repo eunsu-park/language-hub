@@ -54,34 +54,30 @@ Japanese particles (助詞 / joshi) are small words that follow nouns, verbs, or
 
 ### 1.2 Particle Map
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                    PARTICLE FUNCTION MAP                       │
-│                                                                │
-│   WHO/WHAT                                                     │
-│   は  topic ("as for X...")                                    │
-│   が  subject (new info / focus / existence)                   │
-│   を  direct object                                            │
-│                                                                │
-│   WHERE / WHEN                                                 │
-│   に  point in time, target, location of existence             │
-│   で  place of ACTION, means, material                        │
-│   へ  direction of movement                                    │
-│                                                                │
-│   RANGE                                                        │
-│   から  starting point (from)                                  │
-│   まで  ending point (to, until)                               │
-│                                                                │
-│   CONNECTIONS                                                  │
-│   と  exhaustive "and", "with", quotation                     │
-│   や  non-exhaustive "and" (and things like...)               │
-│   も  "also", "even"                                          │
-│                                                                │
-│   MODIFICATION                                                 │
-│   の  possession, noun modification, nominalization            │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+> **PARTICLE FUNCTION MAP**
+>
+> WHO/WHAT
+> は  topic ("as for X...")
+> が  subject (new info / focus / existence)
+> を  direct object
+>
+> WHERE / WHEN
+> に  point in time, target, location of existence
+> で  place of ACTION, means, material
+> へ  direction of movement
+>
+> RANGE
+> から  starting point (from)
+> まで  ending point (to, until)
+>
+> CONNECTIONS
+> と  exhaustive "and", "with", quotation
+> や  non-exhaustive "and" (and things like...)
+> も  "also", "even"
+>
+> MODIFICATION
+> の  possession, noun modification, nominalization
+>
 
 ---
 
@@ -109,20 +105,16 @@ I play in the park.
 
 **Compare に and で:**
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│          に (existence/state)  vs  で (action)               │
-│                                                              │
-│   図書館に いる。     I am at the library. (existence)       │
-│   図書館で 勉強する。 I study at the library. (action)       │
-│                                                              │
-│   家に ある。         It is at home. (existence)             │
-│   家で 作る。         I make it at home. (action)            │
-│                                                              │
-│   Rule: いる/ある → に                                      │
-│         action verbs → で                                    │
-└──────────────────────────────────────────────────────────────┘
-```
+> **に (existence/state)  vs  で (action)**
+>
+> 図書館に いる。     I am at the library. (existence)
+> 図書館で 勉強する。 I study at the library. (action)
+>
+> 家に ある。         It is at home. (existence)
+> 家で 作る。         I make it at home. (action)
+>
+> - **Rule**: いる/ある → に
+> action verbs → で
 
 ### 2.2 Means, Tool, or Method
 
@@ -260,20 +252,16 @@ I go from Tokyo to Osaka by bullet train.
 
 までに indicates a deadline — something must be done **by** a certain time.
 
-```
-┌──────────────────────────────────────────────────────────┐
-│          まで (until) vs までに (by)                      │
-│                                                          │
-│   五時まで働く。                                         │
-│   I work UNTIL 5:00. (continuous action up to 5:00)      │
-│                                                          │
-│   五時までに帰る。                                       │
-│   I will return BY 5:00. (before the deadline of 5:00)   │
-│                                                          │
-│   まで = duration continues until that point             │
-│   までに = action happens before that point              │
-└──────────────────────────────────────────────────────────┘
-```
+> **まで (until) vs までに (by)**
+>
+> 五時まで働く。
+> I work UNTIL 5:00. (continuous action up to 5:00)
+>
+> 五時までに帰る。
+> I will return BY 5:00. (before the deadline of 5:00)
+>
+> まで = duration continues until that point
+> までに = action happens before that point
 
 ---
 
@@ -408,23 +396,19 @@ I don't even have 100 yen.
 
 When combined with question words in negative sentences, も creates "nothing/nobody/nowhere" meanings.
 
-```
-┌──────────────────────────────────────────────────────────┐
-│        Question Word + も + Negative                      │
-│                                                          │
-│   何 (nani) + も + neg     = nothing                     │
-│   何も食べなかった。  I didn't eat anything.              │
-│                                                          │
-│   誰 (dare) + も + neg    = nobody                       │
-│   誰もいなかった。    Nobody was there.                   │
-│                                                          │
-│   どこ (doko) + も + neg  = nowhere                      │
-│   どこにも行かなかった。I didn't go anywhere.            │
-│                                                          │
-│   いつ (itsu) + も        = always (affirmative)         │
-│   いつも元気です。    I am always well.                   │
-└──────────────────────────────────────────────────────────┘
-```
+> **Question Word + も + Negative**
+>
+> 何 (nani) + も + neg     = nothing
+> 何も食べなかった。  I didn't eat anything.
+>
+> 誰 (dare) + も + neg    = nobody
+> 誰もいなかった。    Nobody was there.
+>
+> どこ (doko) + も + neg  = nowhere
+> どこにも行かなかった。I didn't go anywhere.
+>
+> いつ (itsu) + も        = always (affirmative)
+> いつも元気です。    I am always well.
 
 ---
 
@@ -446,23 +430,19 @@ I read books, magazines, (etc.).
 
 ### 6.2 と vs や
 
-```
-┌──────────────────────────────────────────────────────────┐
-│              と (exhaustive) vs や (non-exhaustive)       │
-│                                                          │
-│   犬と猫がいる。                                         │
-│   There are a dog and a cat. (only these two)            │
-│                                                          │
-│   犬や猫がいる。                                         │
-│   There are dogs, cats, (and other animals).             │
-│                                                          │
-│   コーヒーとお茶を飲む。                                 │
-│   I drink coffee and tea. (just these two)               │
-│                                                          │
-│   コーヒーやお茶を飲む。                                 │
-│   I drink coffee, tea, (and other things).               │
-└──────────────────────────────────────────────────────────┘
-```
+> **と (exhaustive) vs や (non-exhaustive)**
+>
+> 犬と猫がいる。
+> There are a dog and a cat. (only these two)
+>
+> 犬や猫がいる。
+> There are dogs, cats, (and other animals).
+>
+> コーヒーとお茶を飲む。
+> I drink coffee and tea. (just these two)
+>
+> コーヒーやお茶を飲む。
+> I drink coffee, tea, (and other things).
 
 ### 6.3 や...など Pattern
 
@@ -537,23 +517,19 @@ Ashita tesuto ga aru n desu.
 (You see,) there's a test tomorrow.
 ```
 
-```
-┌──────────────────────────────────────────────────────────┐
-│         Plain vs Explanatory                              │
-│                                                          │
-│   行きます。      I will go. (simple statement)          │
-│   行くんです。    I'm going. (there's a reason/context)  │
-│                                                          │
-│   食べません。    I won't eat. (simple statement)        │
-│   食べないんです。I won't eat. (let me explain why...)   │
-│                                                          │
-│   Used for:                                              │
-│   - Explaining reasons                                   │
-│   - Asking "what's going on?"                            │
-│   - Providing background information                     │
-│   - Showing emotional involvement                        │
-└──────────────────────────────────────────────────────────┘
-```
+> **Plain vs Explanatory**
+>
+> 行きます。      I will go. (simple statement)
+> 行くんです。    I'm going. (there's a reason/context)
+>
+> 食べません。    I won't eat. (simple statement)
+> 食べないんです。I won't eat. (let me explain why...)
+>
+> Used for:
+> - Explaining reasons
+> - Asking "what's going on?"
+> - Providing background information
+> - Showing emotional involvement
 
 ---
 
@@ -573,24 +549,20 @@ Ashita tesuto ga aru n desu.
 
 ### 8.2 Particle Stacking Rules
 
-```
-┌──────────────────────────────────────────────────────────┐
-│              Particle Stacking Rules                      │
-│                                                          │
-│   は, が, を  →  REPLACED by も                          │
-│     私は → 私も   (I also)                               │
-│     本を → 本も   (book also)                            │
-│                                                          │
-│   に, で, と, から, まで  →  KEPT before は/も           │
-│     学校に → 学校にも  (also at school)                  │
-│     バスで → バスでは  (as for by bus)                   │
-│     友達と → 友達とも  (also with friend)                │
-│     東京から → 東京からも (also from Tokyo)              │
-│                                                          │
-│   CANNOT combine:                                        │
-│     ✗ はが  ✗ がは  ✗ をが  ✗ はを                     │
-└──────────────────────────────────────────────────────────┘
-```
+> **Particle Stacking Rules**
+>
+> は, が, を  →  REPLACED by も
+> 私は → 私も   (I also)
+> 本を → 本も   (book also)
+>
+> に, で, と, から, まで  →  KEPT before は/も
+> 学校に → 学校にも  (also at school)
+> バスで → バスでは  (as for by bus)
+> 友達と → 友達とも  (also with friend)
+> 東京から → 東京からも (also from Tokyo)
+>
+> CANNOT combine:
+> ✗ はが  ✗ がは  ✗ をが  ✗ はを
 
 ---
 
@@ -809,42 +781,38 @@ Find and correct the particle error in each sentence.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              PARTICLE CHEAT SHEET (助詞まとめ)                │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  で  Place of action:  図書館で勉強する                      │
-│      Means/tool:       バスで行く                            │
-│      Reason:           病気で休む                            │
-│      Material:         木で作る                              │
-│                                                              │
-│  から Starting point:  九時から (from 9:00)                  │
-│       Reason (clause): 暑いから (because it's hot)           │
-│  まで Ending point:    五時まで (until 5:00)                 │
-│  までに Deadline:      五時までに (by 5:00)                  │
-│                                                              │
-│  と  Exhaustive "and": 犬と猫 (dog and cat — only these)    │
-│      "With":           友達と行く (go with a friend)         │
-│      Quotation:        面白いと思う (I think it's fun)       │
-│                                                              │
-│  も  Also:             私も (I also)                         │
-│      Even:             子供でも (even a child)               │
-│      Q-word + neg:     何も〜ない (nothing)                  │
-│                                                              │
-│  や  Non-exhaustive:   りんごやみかん (apples, oranges, etc.)│
-│      Often with など:  〜や〜など (such as... and so on)     │
-│                                                              │
-│  の  Possession:       私の本 (my book)                      │
-│      Modification:     英語の先生 (English teacher)          │
-│      Nominalization:   読むのが好き (I like reading)         │
-│      Explanatory:      〜んです (you see, the thing is...)   │
-│                                                              │
-│  STACKING: は/が/を → replaced by も                        │
-│            に/で/と/から/まで → kept before は/も            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **PARTICLE CHEAT SHEET (助詞まとめ)**
+> ├──────────────────────────────────────────────────────────────┤
+>
+> - **で  Place of action**: 図書館で勉強する
+> - **Means/tool**: バスで行く
+> - **Reason**: 病気で休む
+> - **Material**: 木で作る
+>
+> - **から Starting point**: 九時から (from 9:00)
+> - **Reason (clause)**: 暑いから (because it's hot)
+> - **まで Ending point**: 五時まで (until 5:00)
+> - **までに Deadline**: 五時までに (by 5:00)
+>
+> - **と  Exhaustive "and"**: 犬と猫 (dog and cat — only these)
+> - **"With"**: 友達と行く (go with a friend)
+> - **Quotation**: 面白いと思う (I think it's fun)
+>
+> - **も  Also**: 私も (I also)
+> - **Even**: 子供でも (even a child)
+> - **Q-word + neg**: 何も〜ない (nothing)
+>
+> - **や  Non-exhaustive**: りんごやみかん (apples, oranges, etc.)
+> - **Often with など**: 〜や〜など (such as... and so on)
+>
+> - **の  Possession**: 私の本 (my book)
+> - **Modification**: 英語の先生 (English teacher)
+> - **Nominalization**: 読むのが好き (I like reading)
+> - **Explanatory**: 〜んです (you see, the thing is...)
+>
+> - **STACKING**: は/が/を → replaced by も
+> に/で/と/から/まで → kept before は/も
+>
 
 ---
 
