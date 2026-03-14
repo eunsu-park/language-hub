@@ -26,21 +26,18 @@
 
 Latin has a rich system of verbal forms that function as nouns or adjectives while retaining verbal qualities (taking objects, being modified by adverbs).
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│   VERBAL ADJECTIVES (agree with nouns in gender/number/case):     │
-│                                                                    │
-│   Present Active Participle   amāns      "loving"                  │
-│   Perfect Passive Participle  amātus     "having been loved"       │
-│   Future Active Participle    amātūrus   "about to love"           │
-│   Gerundive                   amandus    "needing to be loved"     │
-│                                                                    │
-│   VERBAL NOUNS:                                                    │
-│   Infinitive                  amāre      "to love"                 │
-│   Gerund                      amandum    "the act of loving"       │
-│   Supine                      amātum     "(in order) to love"      │
-└────────────────────────────────────────────────────────────────────┘
-```
+> **Verbal Adjectives** (agree with nouns in gender/number/case):
+>
+> - **Present Active Participle**: amāns — "loving"
+> - **Perfect Passive Participle**: amātus — "having been loved"
+> - **Future Active Participle**: amātūrus — "about to love"
+> - **Gerundive**: amandus — "needing to be loved"
+>
+> **Verbal Nouns:**
+>
+> - **Infinitive**: amāre — "to love"
+> - **Gerund**: amandum — "the act of loving"
+> - **Supine**: amātum — "(in order) to love"
 
 > Note: Latin has **no present passive participle** and **no perfect active participle**. This is a gap that deponent verbs partially fill (their PPP is active in meaning).
 
@@ -146,16 +143,13 @@ Expresses **intention, imminence, or destiny**:
 
 ### 4.3 Summary of All Three Participles
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    ACTIVE           PASSIVE                   │
-│                                                              │
-│   Present:    amāns (loving)       ———                       │
-│   Perfect:    ———                  amātus (having been loved) │
-│   Future:     amātūrus (about      ———                       │
-│               to love)              (gerundive fills gap)    │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Participle Overview**
+>
+> |  | Active | Passive |
+> |---|---|---|
+> | **Present** | amāns (loving) | ——— |
+> | **Perfect** | ——— | amātus (having been loved) |
+> | **Future** | amātūrus (about to love) | ——— (gerundive fills gap) |
 
 ---
 
@@ -426,29 +420,25 @@ Translate into Latin, choosing the correct construction.
 
 ## Quick Reference Card
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│   PARTICIPLES                                                    │
-│   Present Active:    stem + -ns, -ntis  (3rd decl.)              │
-│   Perfect Passive:   4th PP (-us, -a, -um)  (1st/2nd decl.)     │
-│   Future Active:     PPP stem + -ūrus, -a, -um  (1st/2nd decl.) │
-│                                                                  │
-│   INFINITIVES                                                    │
-│   Pres. Act.:   -āre / -ēre / -ere / -īre                       │
-│   Pres. Pass.:  -ārī / -ērī / -ī / -īrī                         │
-│   Perf. Act.:   perfect stem + -isse                             │
-│   Perf. Pass.:  PPP + esse                                       │
-│   Fut. Act.:    fut. act. participle + esse                      │
-│   Fut. Pass.:   supine + īrī (rare)                              │
-│                                                                  │
-│   GERUND:     present stem + -ndī/-ndō/-ndum  (neut. sg. noun)   │
-│   GERUNDIVE:  present stem + -ndus/-nda/-ndum  (adjective)       │
-│                                                                  │
-│   PERIPHRASTIC                                                   │
-│   Active:   fut. act. participle + esse  → "about to ___"       │
-│   Passive:  gerundive + esse  → "must be ___ed"                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **PARTICIPLES**
+> - **Present Active**: stem + -ns, -ntis (3rd decl.)
+> - **Perfect Passive**: 4th PP (-us, -a, -um) (1st/2nd decl.)
+> - **Future Active**: PPP stem + -ūrus, -a, -um (1st/2nd decl.)
+>
+> **INFINITIVES**
+> - **Pres. Act.**: -āre / -ēre / -ere / -īre
+> - **Pres. Pass.**: -ārī / -ērī / -ī / -īrī
+> - **Perf. Act.**: perfect stem + -isse
+> - **Perf. Pass.**: PPP + esse
+> - **Fut. Act.**: fut. act. participle + esse
+> - **Fut. Pass.**: supine + īrī (rare)
+>
+> - **GERUND**: present stem + -ndī/-ndō/-ndum (neut. sg. noun)
+> - **GERUNDIVE**: present stem + -ndus/-nda/-ndum (adjective)
+>
+> **PERIPHRASTIC**
+> - **Active**: fut. act. participle + esse — "about to ___"
+> - **Passive**: gerundive + esse — "must be ___ed"
 
 ## Navigation
 - Previous: [12. Passive Voice](12_Passive_Voice.md)
