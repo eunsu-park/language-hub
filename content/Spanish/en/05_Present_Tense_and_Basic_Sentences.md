@@ -28,25 +28,20 @@
 
 Every Spanish verb has an infinitive form ending in **-ar**, **-er**, or **-ir**:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Group 1: -AR verbs (~75% of all verbs — the largest group)   │
-│   hablar (to speak), estudiar (to study), trabajar (to work)   │
-│                                                                 │
-│   Group 2: -ER verbs (~15%)                                     │
-│   comer (to eat), beber (to drink), leer (to read)             │
-│                                                                 │
-│   Group 3: -IR verbs (~10%)                                     │
-│   vivir (to live), escribir (to write), abrir (to open)        │
-│                                                                 │
-│   To conjugate: remove the ending (-ar/-er/-ir) to get the     │
-│   stem, then add the appropriate person/number ending.          │
-│                                                                 │
-│   hablar → habl- + -o = hablo (I speak)                        │
-│   comer  → com-  + -o = como (I eat)                           │
-│   vivir  → viv-  + -o = vivo (I live)                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Group 1: -AR verbs** (~75% of all verbs — the largest group)
+> hablar (to speak), estudiar (to study), trabajar (to work)
+>
+> **Group 2: -ER verbs** (~15%)
+> comer (to eat), beber (to drink), leer (to read)
+>
+> **Group 3: -IR verbs** (~10%)
+> vivir (to live), escribir (to write), abrir (to open)
+>
+> To conjugate: remove the ending (-ar/-er/-ir) to get the stem, then add the appropriate person/number ending.
+>
+> - hablar → habl- + -o = hablo (I speak)
+> - comer → com- + -o = como (I eat)
+> - vivir → viv- + -o = vivo (I live)
 
 ### 1.2 Subject Pronouns
 
@@ -188,23 +183,19 @@ Escriben mensajes.                → They write messages.
 
 ### 5.1 Word Order: Subject-Verb-Object (SVO)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Basic pattern: Subject + Verb + Object/Complement             │
-│                                                                 │
-│   (Yo) estudio español.        → I study Spanish.               │
-│   María come una manzana.      → María eats an apple.           │
-│   (Nosotros) vivimos en Madrid. → We live in Madrid.            │
-│                                                                 │
-│   ※ Subject pronouns are usually omitted (pro-drop):           │
-│   Hablo español. = I speak Spanish. (yo is implied)             │
-│   Estudia medicina. = He/She studies medicine.                  │
-│                                                                 │
-│   ※ Spanish word order is more flexible than English:           │
-│   Leo un libro. = Un libro leo. (emphasis on "a book")          │
-│   Both are grammatically correct.                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Basic pattern**: Subject + Verb + Object/Complement
+>
+> - (Yo) estudio español. → I study Spanish.
+> - Maria come una manzana. → Maria eats an apple.
+> - (Nosotros) vivimos en Madrid. → We live in Madrid.
+>
+> ※ Subject pronouns are usually omitted (pro-drop):
+> Hablo español. = I speak Spanish. (yo is implied)
+> Estudia medicina. = He/She studies medicine.
+>
+> ※ Spanish word order is more flexible than English:
+> Leo un libro. = Un libro leo. (emphasis on "a book")
+> Both are grammatically correct.
 
 ### 5.2 Adding Details
 
@@ -297,24 +288,19 @@ No es mi libro.      → It's not my book.
 
 ### 7.3 Double Negatives (Correct in Spanish!)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Unlike English, double negatives are REQUIRED in Spanish.     │
-│                                                                 │
-│   No tengo nada.       → I don't have anything. (lit: not nothing)│
-│   No veo a nadie.      → I don't see anyone.                   │
-│   No como nunca carne. → I never eat meat.                      │
-│   No quiero ni café ni té. → I want neither coffee nor tea.    │
-│                                                                 │
-│   Alternative (negative word before verb, no "no"):             │
-│   Nunca como carne.     → I never eat meat.                     │
-│   Nadie habla.          → Nobody speaks.                        │
-│   Nada funciona.        → Nothing works.                        │
-│                                                                 │
-│   Both patterns are correct:                                    │
-│   No viene nunca. = Nunca viene. (He/She never comes.)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Unlike English, double negatives are **REQUIRED** in Spanish.
+>
+> - No tengo nada. → I don't have anything. (lit: not nothing)
+> - No veo a nadie. → I don't see anyone.
+> - No como nunca carne. → I never eat meat.
+> - No quiero ni cafe ni te. → I want neither coffee nor tea.
+>
+> **Alternative** (negative word before verb, no "no"):
+> - Nunca como carne. → I never eat meat.
+> - Nadie habla. → Nobody speaks.
+> - Nada funciona. → Nothing works.
+>
+> Both patterns are correct: No viene nunca. = Nunca viene. (He/She never comes.)
 
 ---
 
@@ -348,25 +334,20 @@ The Spanish present tense covers several English tenses:
 
 ## 9. Summary: Three Groups Compared
 
-```
-┌────────┬──────────┬──────────┬──────────┐
-│ Person │ -AR      │ -ER      │ -IR      │
-│        │ (hablar) │ (comer)  │ (vivir)  │
-├────────┼──────────┼──────────┼──────────┤
-│ yo     │ habl-o   │ com-o    │ viv-o    │
-│ tú     │ habl-as  │ com-es   │ viv-es   │
-│ él     │ habl-a   │ com-e    │ viv-e    │
-│ nos.   │ habl-amos│ com-emos │ viv-imos │
-│ vos.   │ habl-áis │ com-éis  │ viv-ís   │
-│ ellos  │ habl-an  │ com-en   │ viv-en   │
-├────────┴──────────┴──────────┴──────────┤
-│ Pattern:                                 │
-│ • "yo" always ends in -o                │
-│ • -AR: a-themed vowels (a, as, amos)    │
-│ • -ER/-IR: e-themed vowels (es, e, en)  │
-│ • -ER vs -IR differ only in nos. & vos. │
-└──────────────────────────────────────────┘
-```
+| Person | -AR (hablar) | -ER (comer) | -IR (vivir) |
+|--------|-------------|-------------|-------------|
+| yo | habl-o | com-o | viv-o |
+| tu | habl-as | com-es | viv-es |
+| el | habl-a | com-e | viv-e |
+| nos. | habl-amos | com-emos | viv-imos |
+| vos. | habl-ais | com-eis | viv-is |
+| ellos | habl-an | com-en | viv-en |
+
+> **Pattern**:
+> - "yo" always ends in -o
+> - -AR: a-themed vowels (a, as, amos)
+> - -ER/-IR: e-themed vowels (es, e, en)
+> - -ER vs -IR differ only in nos. & vos.
 
 ---
 
@@ -495,21 +476,11 @@ Translate to Spanish.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ENDINGS        -AR         -ER         -IR                    │
-│   yo             -o          -o          -o                     │
-│   tú             -as         -es         -es                    │
-│   él/ella/Ud.    -a          -e          -e                     │
-│   nosotros       -amos       -emos       -imos                  │
-│   vosotros       -áis        -éis        -ís                    │
-│   ellos/Uds.     -an         -en         -en                    │
-│                                                                 │
-│   NEGATION: no + verb (double negatives OK!)                    │
-│   QUESTIONS: ¿...? + rising intonation or inverted order        │
-│   PRO-DROP: subject pronouns often omitted                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ENDINGS**: yo (-o, -o, -o), tu (-as, -es, -es), el/ella/Ud. (-a, -e, -e), nosotros (-amos, -emos, -imos), vosotros (-ais, -eis, -is), ellos/Uds. (-an, -en, -en)
+>
+> - **NEGATION**: no + verb (double negatives OK!)
+> - **QUESTIONS**: ¿...? + rising intonation or inverted order
+> - **PRO-DROP**: subject pronouns often omitted
 
 ---
 
