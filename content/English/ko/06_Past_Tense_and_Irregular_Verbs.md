@@ -26,31 +26,23 @@
 
 ### 1.1 단순 과거를 사용하는 경우
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   단순 과거 = 과거에 완료된 동작                                  │
-│   특정(또는 암시된) 과거 시점에 끝난 사건                          │
-│                                                                 │
-│   1. 완료된 동작:                                                │
-│      "I ate lunch."              나는 점심을 먹었다.              │
-│      "She went to school."       그녀는 학교에 갔다.             │
-│                                                                 │
-│   2. 과거 상태:                                                  │
-│      "I was happy."              나는 행복했다.                   │
-│      "They were tired."          그들은 피곤했다.                 │
-│                                                                 │
-│   3. 과거 습관 (used to):                                        │
-│      "I walked to school every day." 나는 매일 학교에 걸어갔다.    │
-│                                                                 │
-│   4. 과거 사건의 연속:                                            │
-│      "I woke up, ate breakfast, and went to work."              │
-│      나는 일어나서, 아침을 먹고, 출근했다.                         │
-│                                                                 │
-│   ※ 한국어 과거 시제: 동사 어간 + 었/았/였                        │
-│     먹다 → 먹었다    가다 → 갔다    하다 → 했다                   │
-│     영어: -ed 추가 (규칙) 또는 형태 변경 (불규칙)                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **단순 과거 = 과거에 완료된 동작**
+>
+> 특정(또는 암시된) 과거 시점에 끝난 사건
+> 1. 완료된 동작:
+> "I ate lunch."              나는 점심을 먹었다.
+> "She went to school."       그녀는 학교에 갔다.
+> 2. 과거 상태:
+> "I was happy."              나는 행복했다.
+> "They were tired."          그들은 피곤했다.
+> 3. 과거 습관 (used to):
+> "I walked to school every day." 나는 매일 학교에 걸어갔다.
+> 4. 과거 사건의 연속:
+> "I woke up, ate breakfast, and went to work."
+> 나는 일어나서, 아침을 먹고, 출근했다.
+> ※ 한국어 과거 시제: 동사 어간 + 었/았/였
+> 먹다 → 먹었다    가다 → 갔다    하다 → 했다
+> 영어: -ed 추가 (규칙) 또는 형태 변경 (불규칙)
 
 ### 1.2 한국어와의 핵심 차이
 
@@ -102,29 +94,21 @@
 
 ### 3.1 세 가지 소리
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   -ed 어미는 3가지 발음이 있습니다:                               │
-│                                                                 │
-│   /t/ — 무성 자음 뒤: /p/, /k/, /f/, /s/, /ʃ/, /tʃ/            │
-│   walked /wɔːkt/     cooked /kʊkt/     laughed /læft/           │
-│   passed /pæst/      washed /wɒʃt/     watched /wɒtʃt/         │
-│                                                                 │
-│   /d/ — 유성 자음과 모음 뒤: /b/, /g/, /v/, /z/, /m/, /n/,      │
-│          /l/, 모음                                               │
-│   played /pleɪd/     lived /lɪvd/      opened /ˈoʊpənd/        │
-│   called /kɔːld/     rained /reɪnd/    studied /ˈstʌdid/       │
-│                                                                 │
-│   /ɪd/ — /t/와 /d/ 뒤만 (음절이 추가됨!)                        │
-│   wanted /ˈwɒntɪd/   needed /ˈniːdɪd/  started /ˈstɑːrtɪd/    │
-│   decided /dɪˈsaɪdɪd/ waited /ˈweɪtɪd/ visited /ˈvɪzɪtɪd/    │
-│                                                                 │
-│   ※ 한국어 화자는 모든 -ed를 /ɪd/로 발음하는 경향이 있습니다:    │
-│     "walked"는 1음절 /wɔːkt/이지, "walk-ed" /wɔːkɪd/가 아님     │
-│     "played"는 1음절 /pleɪd/이지, "play-ed" /pleɪɪd/가 아님     │
-│     /ɪd/는 /t/와 /d/ 뒤에서만 음절을 추가합니다!                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> -ed 어미는 3가지 발음이 있습니다:
+> /t/ — 무성 자음 뒤: /p/, /k/, /f/, /s/, /ʃ/, /tʃ/
+> walked /wɔːkt/     cooked /kʊkt/     laughed /læft/
+> passed /pæst/      washed /wɒʃt/     watched /wɒtʃt/
+> /d/ — 유성 자음과 모음 뒤: /b/, /g/, /v/, /z/, /m/, /n/,
+> /l/, 모음
+> played /pleɪd/     lived /lɪvd/      opened /ˈoʊpənd/
+> called /kɔːld/     rained /reɪnd/    studied /ˈstʌdid/
+> /ɪd/ — /t/와 /d/ 뒤만 (음절이 추가됨!)
+> wanted /ˈwɒntɪd/   needed /ˈniːdɪd/  started /ˈstɑːrtɪd/
+> decided /dɪˈsaɪdɪd/ waited /ˈweɪtɪd/ visited /ˈvɪzɪtɪd/
+> ※ 한국어 화자는 모든 -ed를 /ɪd/로 발음하는 경향이 있습니다:
+> "walked"는 1음절 /wɔːkt/이지, "walk-ed" /wɔːkɪd/가 아님
+> "played"는 1음절 /pleɪd/이지, "play-ed" /pleɪɪd/가 아님
+> /ɪd/는 /t/와 /d/ 뒤에서만 음절을 추가합니다!
 
 ### 3.2 연습 세트
 
@@ -264,32 +248,23 @@ write       wrote       written        쓰다
 
 ### 4.4 암기 팁
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   불규칙 동사 암기를 돕는 패턴:                                   │
-│                                                                 │
-│   패턴: -ought/-aught                                            │
-│   buy→bought  bring→brought  think→thought                      │
-│   catch→caught  teach→taught  fight→fought                      │
-│                                                                 │
-│   패턴: 모음 → e → o (i/a → e → o)                               │
-│   speak→spoke→spoken  break→broke→broken                        │
-│   choose→chose→chosen  freeze→froze→frozen                      │
-│   steal→stole→stolen  wake→woke→woken                           │
-│                                                                 │
-│   패턴: -ew / -own                                               │
-│   blow→blew→blown  grow→grew→grown  know→knew→known            │
-│   throw→threw→thrown  fly→flew→flown  draw→drew→drawn           │
-│                                                                 │
-│   패턴: -ang / -ung                                              │
-│   sing→sang→sung  ring→rang→rung  drink→drank→drunk            │
-│   swim→swam→swum  begin→began→begun                             │
-│                                                                 │
-│   패턴: -ept / -elt / -eft / -ent                                │
-│   keep→kept  sleep→slept  feel→felt  leave→left                 │
-│   send→sent  spend→spent  lend→lent  build→built               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 불규칙 동사 암기를 돕는 패턴:
+> 패턴: -ought/-aught
+> buy→bought  bring→brought  think→thought
+> catch→caught  teach→taught  fight→fought
+> 패턴: 모음 → e → o (i/a → e → o)
+> speak→spoke→spoken  break→broke→broken
+> choose→chose→chosen  freeze→froze→frozen
+> steal→stole→stolen  wake→woke→woken
+> 패턴: -ew / -own
+> blow→blew→blown  grow→grew→grown  know→knew→known
+> throw→threw→thrown  fly→flew→flown  draw→drew→drawn
+> 패턴: -ang / -ung
+> sing→sang→sung  ring→rang→rung  drink→drank→drunk
+> swim→swam→swum  begin→began→begun
+> 패턴: -ept / -elt / -eft / -ent
+> keep→kept  sleep→slept  feel→felt  leave→left
+> send→sent  spend→spent  lend→lent  build→built
 
 ---
 
@@ -444,35 +419,24 @@ once upon a time                    옛날 옛적에
 
 ### 9.1 오류표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   오류                              올바른 표현                   │
-│   ─────                             ───────                     │
-│   "I goed to school."               "I went to school."         │
-│   (불규칙 동사를 규칙화)                                          │
-│                                                                 │
-│   "Did she went home?"              "Did she go home?"          │
-│   (did 뒤에 과거형 사용)                                          │
-│                                                                 │
-│   "She didn't came."                "She didn't come."          │
-│   (didn't 뒤에 과거형 사용)                                       │
-│                                                                 │
-│   "I was go to school."             "I went to school."         │
-│   (과거에 was + 동사원형 사용)                                    │
-│                                                                 │
-│   "I am born in Seoul."             "I was born in Seoul."      │
-│   (출생에 현재 시제 사용)                                         │
-│                                                                 │
-│   "Yesterday I am happy."           "Yesterday I was happy."    │
-│   (과거 시간에 현재 시제 사용)                                    │
-│                                                                 │
-│   "I was walked home."              "I walked home."            │
-│   (잘못된 수동태 형태)                                            │
-│                                                                 │
-│   "Before 3 years"                  "3 years ago" / "3 years    │
-│   (한국어 '전' 번역 오류)             before that" (서술에서)      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **오류                              올바른 표현**
+>
+> "I goed to school."               "I went to school."
+> (불규칙 동사를 규칙화)
+> "Did she went home?"              "Did she go home?"
+> (did 뒤에 과거형 사용)
+> "She didn't came."                "She didn't come."
+> (didn't 뒤에 과거형 사용)
+> "I was go to school."             "I went to school."
+> (과거에 was + 동사원형 사용)
+> "I am born in Seoul."             "I was born in Seoul."
+> (출생에 현재 시제 사용)
+> "Yesterday I am happy."           "Yesterday I was happy."
+> (과거 시간에 현재 시제 사용)
+> "I was walked home."              "I walked home."
+> (잘못된 수동태 형태)
+> "Before 3 years"                  "3 years ago" / "3 years
+> (한국어 '전' 번역 오류)             before that" (서술에서)
 
 ---
 
@@ -644,30 +608,22 @@ early. It (12)___ (be) a good day.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│               과거 시제 빠른 가이드                                │
-│                                                                 │
-│   규칙: 원형 + -ed (walked, played, studied, stopped)            │
-│   -ed 발음: /t/ 무성 뒤, /d/ 유성 뒤,                           │
-│             /ɪd/ /t/와 /d/ 뒤만                                  │
-│                                                                 │
-│   BE 과거: was (I/he/she/it) / were (you/we/they)               │
-│                                                                 │
-│   의문문: Did + S + 동사원형?  (Did she eat? ✓)                   │
-│   부정문: S + didn't + 동사원형 (She didn't eat ✓)                │
-│   ※ did/didn't 뒤에 절대 과거형 쓰지 않기!                       │
-│     Did she went? ✗ → Did she go? ✓                             │
-│                                                                 │
-│   주요 불규칙 그룹:                                               │
-│   동형: cut-cut, put-put, hit-hit, cost-cost                    │
-│   -ought: buy-bought, bring-brought, think-thought               │
-│   -ew/-own: know-knew-known, grow-grew-grown                    │
-│   -ept/-elt: keep-kept, sleep-slept, feel-felt                  │
-│                                                                 │
-│   시간 표지: yesterday, last week, 2 days ago, in 2020           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **과거 시제 빠른 가이드**
+>
+> 규칙: 원형 + -ed (walked, played, studied, stopped)
+> -ed 발음: /t/ 무성 뒤, /d/ 유성 뒤,
+> /ɪd/ /t/와 /d/ 뒤만
+> BE 과거: was (I/he/she/it) / were (you/we/they)
+> 의문문: Did + S + 동사원형?  (Did she eat? ✓)
+> 부정문: S + didn't + 동사원형 (She didn't eat ✓)
+> ※ did/didn't 뒤에 절대 과거형 쓰지 않기!
+> Did she went? ✗ → Did she go? ✓
+> 주요 불규칙 그룹:
+> 동형: cut-cut, put-put, hit-hit, cost-cost
+> -ought: buy-bought, bring-brought, think-thought
+> -ew/-own: know-knew-known, grow-grew-grown
+> -ept/-elt: keep-kept, sleep-slept, feel-felt
+> 시간 표지: yesterday, last week, 2 days ago, in 2020
 
 ---
 
