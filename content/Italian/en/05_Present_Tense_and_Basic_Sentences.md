@@ -30,29 +30,19 @@
 
 Every Italian verb has an infinitive form ending in **-are**, **-ere**, or **-ire**:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Group 1: -ARE verbs (~60% of all verbs — the largest group)  │
-│   parlare (to speak), studiare (to study), lavorare (to work)  │
-│                                                                 │
-│   Group 2: -ERE verbs (~25%)                                    │
-│   credere (to believe), vendere (to sell), leggere (to read)   │
-│                                                                 │
-│   Group 3a: -IRE verbs — regular (~15%)                        │
-│   dormire (to sleep), partire (to leave), aprire (to open)     │
-│                                                                 │
-│   Group 3b: -IRE verbs — with -ISC- infix                      │
-│   capire (to understand), finire (to finish), preferire (to prefer)│
-│                                                                 │
-│   To conjugate: remove the ending (-are/-ere/-ire) to get the  │
-│   stem, then add the appropriate person/number ending.          │
-│                                                                 │
-│   parlare → parl- + -o = parlo (I speak)                       │
-│   credere → cred- + -o = credo (I believe)                     │
-│   dormire → dorm- + -o = dormo (I sleep)                       │
-│   capire  → cap-  + -isc- + -o = capisco (I understand)        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Italian Verb Groups**
+>
+> - **Group 1: -ARE verbs** (~60% of all verbs — the largest group): parlare, studiare, lavorare
+> - **Group 2: -ERE verbs** (~25%): credere, vendere, leggere
+> - **Group 3a: -IRE verbs — regular** (~15%): dormire, partire, aprire
+> - **Group 3b: -IRE verbs — with -ISC- infix**: capire, finire, preferire
+>
+> To conjugate: remove the ending (-are/-ere/-ire) to get the stem, then add the appropriate person/number ending.
+>
+> - parlare → parl- + -o = parlo (I speak)
+> - credere → cred- + -o = credo (I believe)
+> - dormire → dorm- + -o = dormo (I sleep)
+> - capire → cap- + -isc- + -o = capisco (I understand)
 
 ### 1.2 Subject Pronouns
 
@@ -303,24 +293,16 @@ CONOSCERE = to know/be acquainted with people, places, things
 
 ### 7.1 Word Order: Subject-Verb-Object (SVO)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Basic pattern: Subject + Verb + Object/Complement             │
-│                                                                 │
-│   (Io) studio italiano.        → I study Italian.               │
-│   Maria mangia una mela.       → Maria eats an apple.           │
-│   (Noi) viviamo a Roma.        → We live in Rome.               │
-│                                                                 │
-│   ※ Subject pronouns are usually omitted (pro-drop):           │
-│   Parlo italiano. = I speak Italian. (io is implied)            │
-│   Studia medicina. = He/She studies medicine.                   │
-│                                                                 │
-│   ※ Italian word order is flexible for emphasis:                │
-│   Leggo un libro. = Un libro leggo. (emphasis on "a book")     │
-│   L'italiano, lo studio. (Italian, I study it — topicalization)│
-│   Both are grammatically correct.                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Word Order: Subject-Verb-Object (SVO)**
+>
+> Basic pattern: Subject + Verb + Object/Complement
+> - (Io) studio italiano. → I study Italian.
+> - Maria mangia una mela. → Maria eats an apple.
+> - (Noi) viviamo a Roma. → We live in Rome.
+>
+> - Subject pronouns are usually omitted (pro-drop): Parlo italiano. = I speak Italian. (io is implied)
+> - Italian word order is flexible for emphasis: Leggo un libro. = Un libro leggo. (emphasis on "a book")
+> - L'italiano, lo studio. (Italian, I study it — topicalization). Both are grammatically correct.
 
 ### 7.2 Adding Details
 
@@ -412,29 +394,25 @@ Non è il mio libro.   → It's not my book.
 
 ### 9.3 Double Negatives (Correct in Italian!)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Like Spanish, double negatives are REQUIRED in Italian        │
-│   when the negative word comes after the verb.                  │
-│                                                                 │
-│   Non ho niente.         → I don't have anything. (lit: not nothing)│
-│   Non vedo nessuno.      → I don't see anyone.                 │
-│   Non mangio mai carne.  → I never eat meat.                    │
-│   Non voglio né caffè né tè. → I want neither coffee nor tea. │
-│                                                                 │
-│   Alternative (negative word before verb — no "non"):           │
-│   Mai mangio carne.      → I never eat meat.                    │
-│   Nessuno parla.         → Nobody speaks.                       │
-│   Niente funziona.       → Nothing works.                       │
-│                                                                 │
-│   Both patterns are correct:                                    │
-│   Non viene mai. = Mai viene. (He/She never comes.)            │
-│                                                                 │
-│   Neanche / Nemmeno / Neppure (not even / neither):            │
-│   Non parlo neanche inglese. (I don't even speak English.)     │
-│   Nemmeno io! (Neither do I! / Me neither!)                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Double Negatives (Correct in Italian!)**
+>
+> Like Spanish, double negatives are REQUIRED in Italian when the negative word comes after the verb.
+>
+> - Non ho niente. → I don't have anything. (lit: not nothing)
+> - Non vedo nessuno. → I don't see anyone.
+> - Non mangio mai carne. → I never eat meat.
+> - Non voglio né caffè né tè. → I want neither coffee nor tea.
+>
+> Alternative (negative word before verb — no "non"):
+> - Mai mangio carne. → I never eat meat.
+> - Nessuno parla. → Nobody speaks.
+> - Niente funziona. → Nothing works.
+>
+> Both patterns are correct: Non viene mai. = Mai viene.
+>
+> - Neanche / Nemmeno / Neppure (not even / neither):
+> - Non parlo neanche inglese. (I don't even speak English.)
+> - Nemmeno io! (Neither do I! / Me neither!)
 
 ---
 
@@ -476,27 +454,23 @@ The Italian present tense covers several English tenses:
 
 ## 11. Summary: All Groups Compared
 
-```
-┌────────┬──────────┬──────────┬──────────┬──────────┐
-│ Person │ -ARE     │ -ERE     │ -IRE     │ -IRE     │
-│        │ (parlare)│ (credere)│ (dormire)│ (capire) │
-├────────┼──────────┼──────────┼──────────┼──────────┤
-│ io     │ parl-o   │ cred-o   │ dorm-o   │ cap-isco │
-│ tu     │ parl-i   │ cred-i   │ dorm-i   │ cap-isci │
-│ lui    │ parl-a   │ cred-e   │ dorm-e   │ cap-isce │
-│ noi    │ parl-iamo│ cred-iamo│ dorm-iamo│ cap-iamo │
-│ voi    │ parl-ate │ cred-ete │ dorm-ite │ cap-ite  │
-│ loro   │ parl-ano │ cred-ono │ dorm-ono │ cap-iscono│
-├────────┴──────────┴──────────┴──────────┴──────────┤
-│ Patterns:                                           │
-│ • "io" always ends in -o (or -isco)                │
-│ • "noi" always ends in -iamo                       │
-│ • -ARE: a-themed (a, i, a, iamo, ate, ano)         │
-│ • -ERE: e-themed (o, i, e, iamo, ete, ono)         │
-│ • -IRE: same as -ERE except voi (-ite vs -ete)     │
-│ • -ISC-: adds -isc- in io, tu, lui, loro only      │
-└─────────────────────────────────────────────────────┘
-```
+> **All Groups Compared**
+>
+> | Person | -ARE (parlare) | -ERE (credere) | -IRE (dormire) | -IRE (capire) |
+> | io | parl-o | cred-o | dorm-o | cap-isco |
+> | tu | parl-i | cred-i | dorm-i | cap-isci |
+> | lui | parl-a | cred-e | dorm-e | cap-isce |
+> | noi | parl-iamo | cred-iamo | dorm-iamo | cap-iamo |
+> | voi | parl-ate | cred-ete | dorm-ite | cap-ite |
+> | loro | parl-ano | cred-ono | dorm-ono | cap-iscono |
+>
+> Patterns:
+> - "io" always ends in -o (or -isco)
+> - "noi" always ends in -iamo
+> - -ARE: a-themed (a, i, a, iamo, ate, ano)
+> - -ERE: e-themed (o, i, e, iamo, ete, ono)
+> - -IRE: same as -ERE except voi (-ite vs -ete)
+> - -ISC-: adds -isc- in io, tu, lui, loro only
 
 ---
 
@@ -650,25 +624,22 @@ Translate to Italian.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ENDINGS        -ARE         -ERE         -IRE      -IRE(isc) │
-│   io             -o           -o           -o        -isco      │
-│   tu             -i           -i           -i        -isci      │
-│   lui/lei        -a           -e           -e        -isce      │
-│   noi            -iamo        -iamo        -iamo     -iamo      │
-│   voi            -ate         -ete         -ite      -ite       │
-│   loro           -ano         -ono         -ono      -iscono    │
-│                                                                 │
-│   MODALS: potere (can), volere (want), dovere (must)           │
-│   KNOW:  sapere (facts/how to) vs conoscere (people/places)   │
-│                                                                 │
-│   NEGATION: non + verb (double negatives OK!)                   │
-│   QUESTIONS: rising intonation, or question word + verb         │
-│   PRO-DROP: subject pronouns often omitted                      │
-│   -CARE/-GARE: add h before i (cerchi, paghi, giochiamo)      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference**
+>
+> | Endings | -ARE | -ERE | -IRE | -IRE(isc) |
+> | io | -o | -o | -o | -isco |
+> | tu | -i | -i | -i | -isci |
+> | lui/lei | -a | -e | -e | -isce |
+> | noi | -iamo | -iamo | -iamo | -iamo |
+> | voi | -ate | -ete | -ite | -ite |
+> | loro | -ano | -ono | -ono | -iscono |
+>
+> - **MODALS**: potere (can), volere (want), dovere (must)
+> - **KNOW**: sapere (facts/how to) vs conoscere (people/places)
+> - **NEGATION**: non + verb (double negatives OK!)
+> - **QUESTIONS**: rising intonation, or question word + verb
+> - **PRO-DROP**: subject pronouns often omitted
+> - **-CARE/-GARE**: add h before i (cerchi, paghi, giochiamo)
 
 ---
 
