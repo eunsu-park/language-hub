@@ -125,35 +125,31 @@ Meeting someone:
 
 ### 3.1 Phrases Everyone Should Know
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Essential Latin Phrases                              │
-│                                                                 │
-│   Carpe diem.           /ˈkar.pɛ ˈdɪ.ɛm/                     │
-│   "Seize the day."       — Horace, Odes I.11                   │
-│                                                                 │
-│   Vēnī, vīdī, vīcī.   /ˈweː.niː ˈwiː.diː ˈwiː.kiː/       │
-│   "I came, I saw, I conquered."  — Julius Caesar               │
-│                                                                 │
-│   Cogitō ergō sum.     /ˈkɔ.gɪ.toː ˈɛr.goː sʊm/            │
-│   "I think, therefore I am."  — Descartes (Neo-Latin)          │
-│                                                                 │
-│   E plūribus ūnum.     /eː ˈpluː.rɪ.bʊs ˈuː.nʊm/           │
-│   "Out of many, one."   — Motto of the United States           │
-│                                                                 │
-│   Alea iacta est.       /ˈaː.lɛ.a ˈjak.ta ɛst/               │
-│   "The die is cast."    — Julius Caesar (crossing the Rubicon) │
-│                                                                 │
-│   Memento morī.         /mɛ.ˈmɛn.toː ˈmɔ.riː/               │
-│   "Remember that you will die."  — Roman proverb               │
-│                                                                 │
-│   Tempus fugit.         /ˈtɛm.pʊs ˈfʊ.gɪt/                   │
-│   "Time flies."          — Virgil, Georgics III.284             │
-│                                                                 │
-│   In vīnō vēritās.     /ɪn ˈwiː.noː ˈweː.rɪ.taːs/          │
-│   "In wine there is truth."  — Pliny the Elder                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Essential Latin Phrases**
+>
+> Carpe diem. /ˈkar.pɛ ˈdɪ.ɛm/
+> "Seize the day." — Horace, Odes I.11
+>
+> Vēnī, vīdī, vīcī. /ˈweː.niː ˈwiː.diː ˈwiː.kiː/
+> "I came, I saw, I conquered." — Julius Caesar
+>
+> Cogitō ergō sum. /ˈkɔ.gɪ.toː ˈɛr.goː sʊm/
+> "I think, therefore I am." — Descartes (Neo-Latin)
+>
+> E plūribus ūnum. /eː ˈpluː.rɪ.bʊs ˈuː.nʊm/
+> "Out of many, one." — Motto of the United States
+>
+> Alea iacta est. /ˈaː.lɛ.a ˈjak.ta ɛst/
+> "The die is cast." — Julius Caesar (crossing the Rubicon)
+>
+> Memento morī. /mɛ.ˈmɛn.toː ˈmɔ.riː/
+> "Remember that you will die." — Roman proverb
+>
+> Tempus fugit. /ˈtɛm.pʊs ˈfʊ.gɪt/
+> "Time flies." — Virgil, Georgics III.284
+>
+> In vīnō vēritās. /ɪn ˈwiː.noː ˈweː.rɪ.taːs/
+> "In wine there is truth." — Pliny the Elder
 
 ### 3.2 More Famous Phrases
 
@@ -193,26 +189,18 @@ Common Latin expressions in daily use:
 
 ### 4.1 SPQR and Political Abbreviations
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        S · P · Q · R                             │
-│                                                                 │
-│   S(enātus) P(opulus)Q(ue) R(ōmānus)                           │
-│   /sɛ.ˈnaː.tʊs pɔ.pʊ.ˈlʊs.kwɛ roː.ˈmaː.nʊs/              │
-│                                                                 │
-│   "The Senate and People of Rome"                               │
-│                                                                 │
-│   This was the official emblem of the Roman Republic and        │
-│   Empire. It appeared on standards, buildings, coins, and       │
-│   official documents. It remains the symbol of the city of      │
-│   Rome today — you can see it on manhole covers and public      │
-│   buildings throughout the modern city.                          │
-│                                                                 │
-│   -que = "and" (enclitic, attached to the second word)          │
-│   Compare: et = "and" (separate word)                           │
-│   Senātus et Populus = Senātus Populusque                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **S . P . Q . R**
+>
+> S(enātus) P(opulus)Q(ue) R(ōmānus)
+> /sɛ.ˈnaː.tʊs pɔ.pʊ.ˈlʊs.kwɛ roː.ˈmaː.nʊs/
+>
+> "The Senate and People of Rome"
+>
+> This was the official emblem of the Roman Republic and Empire. It appeared on standards, buildings, coins, and official documents. It remains the symbol of the city of Rome today — you can see it on manhole covers and public buildings throughout the modern city.
+>
+> -que = "and" (enclitic, attached to the second word)
+> Compare: et = "and" (separate word)
+> Senātus et Populus = Senātus Populusque
 
 ### 4.2 Common Inscription Abbreviations
 
@@ -355,30 +343,22 @@ Chemical/astronomical terms:
 
 ### 6.1 Basic Word Order: Subject-Object-Verb (SOV)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│             Latin Default Word Order: SOV                         │
-│                                                                 │
-│   Latin's default word order is Subject-Object-Verb (SOV),      │
-│   the same as Korean and Japanese!                               │
-│                                                                 │
-│   Korean:  마르쿠스가   율리아를    사랑한다.                       │
-│   Latin:   Mārcus      Iūliam     amat.                         │
-│   English: Marcus      loves      Julia.                        │
-│            (S)          (O)        (V)                           │
-│                                                                 │
-│   However, because Latin uses case endings (not word order)     │
-│   to show grammatical function, word order is flexible.         │
-│   All of these mean the same thing:                             │
-│     Mārcus Iūliam amat.    (SOV — default)                     │
-│     Mārcus amat Iūliam.    (SVO)                                │
-│     Iūliam Mārcus amat.    (OSV)                                │
-│     Amat Mārcus Iūliam.    (VSO)                                │
-│                                                                 │
-│   The case endings (-us = subject, -am = object) tell you       │
-│   WHO does WHAT regardless of word position.                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Default Word Order: SOV**
+>
+> Latin's default word order is Subject-Object-Verb (SOV), the same as Korean and Japanese!
+>
+> - Korean: 마르쿠스가 율리아를 사랑한다.
+> - Latin: Mārcus Iūliam amat.
+> - English: Marcus loves Julia.
+> - (S) (O) (V)
+>
+> However, because Latin uses case endings (not word order) to show grammatical function, word order is flexible. All of these mean the same thing:
+> - Mārcus Iūliam amat. (SOV — default)
+> - Mārcus amat Iūliam. (SVO)
+> - Iūliam Mārcus amat. (OSV)
+> - Amat Mārcus Iūliam. (VSO)
+>
+> The case endings (-us = subject, -am = object) tell you WHO does WHAT regardless of word position.
 
 ### 6.2 Pattern 1: Subject + Verb
 
@@ -632,38 +612,34 @@ Read each phrase aloud using classical pronunciation. Pay special attention to C
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Basic Latin Phrases Quick Reference                  │
-│                                                                 │
-│   GREETINGS:                                                    │
-│     Salvē / Salvēte     = Hello (sg. / pl.)                    │
-│     Avē / Avēte         = Hail (sg. / pl.)                     │
-│     Quid agis?           = How are you?                         │
-│     Bene!                = Well!                                │
-│                                                                 │
-│   FAREWELLS:                                                    │
-│     Valē / Valēte       = Farewell (sg. / pl.)                 │
-│                                                                 │
-│   ESSENTIAL:                                                    │
-│     Grātiās tibi agō    = Thank you                            │
-│     Quaesō               = Please                              │
-│     Ita / Minimē        = Yes / No                              │
-│     Ignōsce mihi         = Excuse me                            │
-│                                                                 │
-│   FAMOUS PHRASES:                                               │
-│     Carpe diem           = Seize the day                        │
-│     Vēnī, vīdī, vīcī   = I came, I saw, I conquered           │
-│     Cogitō ergō sum     = I think, therefore I am               │
-│     Tempus fugit         = Time flies                           │
-│                                                                 │
-│   SENTENCE PATTERNS:                                            │
-│     S + V:         Puella cantat.  (The girl sings.)            │
-│     S + est + C:   Rōma est magna. (Rome is great.)            │
-│     S + O + V:     Puer rosam videt. (The boy sees the rose.)  │
-│     Default order: SOV (like Korean!)                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Basic Latin Phrases Quick Reference**
+>
+> **GREETINGS:**
+> - Salvē / Salvēte = Hello (sg. / pl.)
+> - Avē / Avēte = Hail (sg. / pl.)
+> - Quid agis? = How are you?
+> - Bene! = Well!
+>
+> **FAREWELLS:**
+> - Valē / Valēte = Farewell (sg. / pl.)
+>
+> **ESSENTIAL:**
+> - Grātiās tibi agō = Thank you
+> - Quaesō = Please
+> - Ita / Minimē = Yes / No
+> - Ignōsce mihi = Excuse me
+>
+> **FAMOUS PHRASES:**
+> - Carpe diem = Seize the day
+> - Vēnī, vīdī, vīcī = I came, I saw, I conquered
+> - Cogitō ergō sum = I think, therefore I am
+> - Tempus fugit = Time flies
+>
+> **SENTENCE PATTERNS:**
+> - S + V: Puella cantat. (The girl sings.)
+> - S + est + C: Rōma est magna. (Rome is great.)
+> - S + O + V: Puer rosam videt. (The boy sees the rose.)
+> - Default order: SOV (like Korean!)
 
 ---
 
