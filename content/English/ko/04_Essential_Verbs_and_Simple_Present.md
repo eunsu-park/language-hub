@@ -25,26 +25,18 @@
 
 ### 1.1 핵심 차이점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 동사                      영어 동사                      │
-│   ─────────────                   ─────────────                  │
-│   문장 끝에 위치                    주어 뒤에 위치                  │
-│   나는 사과를 먹는다                I eat an apple                 │
-│                                                                 │
-│   공손함에 따라 형태 변화           공손함에 따라 변화 안 함         │
-│   먹는다/먹어요/드십니다             eat/eat/eat                    │
-│                                                                 │
-│   인칭에 따라 변화 안 함            3인칭에서 변화 (he -s)          │
-│   나는 먹는다/그는 먹는다            I eat / he eatS               │
-│                                                                 │
-│   주어 생략 가능                    주어 필수                      │
-│   (나는) 먹는다                     I eat ("I" 생략 불가)           │
-│                                                                 │
-│   do-support 없음                  의문문/부정문에 "do" 필요        │
-│   먹니? / 안 먹는다                 Do you eat? / I don't eat     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **한국어 동사                      영어 동사**
+>
+> 문장 끝에 위치                    주어 뒤에 위치
+> 나는 사과를 먹는다                I eat an apple
+> 공손함에 따라 형태 변화           공손함에 따라 변화 안 함
+> 먹는다/먹어요/드십니다             eat/eat/eat
+> 인칭에 따라 변화 안 함            3인칭에서 변화 (he -s)
+> 나는 먹는다/그는 먹는다            I eat / he eatS
+> 주어 생략 가능                    주어 필수
+> (나는) 먹는다                     I eat ("I" 생략 불가)
+> do-support 없음                  의문문/부정문에 "do" 필요
+> 먹니? / 안 먹는다                 Do you eat? / I don't eat
 
 ### 1.2 동사 형태 개요
 
@@ -88,29 +80,21 @@ BE 동사의 완전한 활용은 02과를 참조하세요.
 
 ### 2.2 HAVE — 가지다/있다
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   현재: have / has (3인칭)                                       │
-│   과거: had                                                      │
-│                                                                 │
-│   의미 1: 소유 (Possession)                                      │
-│   I have a car.              나는 차가 있다.                      │
-│   She has two children.      그녀는 아이가 둘 있다.               │
-│                                                                 │
-│   의미 2: 경험/행동 (Experience/Action)                           │
-│   I have breakfast at 7.     나는 7시에 아침을 먹는다.            │
-│   She has a shower.          그녀는 샤워를 한다.                  │
-│   We have a meeting.         우리는 회의가 있다.                  │
-│                                                                 │
-│   의미 3: 조동사 (완료 시제용)                                    │
-│   I have eaten lunch.        나는 점심을 먹었다. (현재완료)        │
-│                                                                 │
-│   ※ "have" vs "있다":                                           │
-│     한국어 있다 = "have"(소유)와 "exist/be located"(존재/위치) 둘 다 │
-│     "I have a book" (소유) — HAVE 사용                           │
-│     "The book is on the table" (위치) — BE 사용, HAVE 아님!       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 현재: have / has (3인칭)
+> 과거: had
+> 의미 1: 소유 (Possession)
+> I have a car.              나는 차가 있다.
+> She has two children.      그녀는 아이가 둘 있다.
+> 의미 2: 경험/행동 (Experience/Action)
+> I have breakfast at 7.     나는 7시에 아침을 먹는다.
+> She has a shower.          그녀는 샤워를 한다.
+> We have a meeting.         우리는 회의가 있다.
+> 의미 3: 조동사 (완료 시제용)
+> I have eaten lunch.        나는 점심을 먹었다. (현재완료)
+> ※ "have" vs "있다":
+> 한국어 있다 = "have"(소유)와 "exist/be located"(존재/위치) 둘 다
+> "I have a book" (소유) — HAVE 사용
+> "The book is on the table" (위치) — BE 사용, HAVE 아님!
 
 ### 2.3 DO — 하다
 
@@ -244,21 +228,16 @@ BE 동사의 완전한 활용은 02과를 참조하세요.
 
 ### 3.1 형태
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           단순 현재 시제 — 형태                                   │
-│                                                                 │
-│   I          eat                                                │
-│   you        eat                                                │
-│   he/she/it  eatS    ← 유일한 변화! 3인칭 단수에 -s 추가          │
-│   we         eat                                                │
-│   they       eat                                                │
-│                                                                 │
-│   ※ 한국어 동사는 인칭에 따라 변하지 않습니다:                     │
-│     나는 먹는다 / 그는 먹는다 / 우리는 먹는다 (같은 먹는다)         │
-│     I eat / he eatS / we eat ("he/she/it"에서만 다름)             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **단순 현재 시제 — 형태**
+>
+> I          eat
+> you        eat
+> he/she/it  eatS    ← 유일한 변화! 3인칭 단수에 -s 추가
+> we         eat
+> they       eat
+> ※ 한국어 동사는 인칭에 따라 변하지 않습니다:
+> 나는 먹는다 / 그는 먹는다 / 우리는 먹는다 (같은 먹는다)
+> I eat / he eatS / we eat ("he/she/it"에서만 다름)
 
 ### 3.2 단순 현재 시제의 사용 시점
 
@@ -326,22 +305,15 @@ BE 동사의 완전한 활용은 02과를 참조하세요.
 
 ### 5.1 Do-Support 체계
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어는 동사 어미를 바꿔서 의문문을 만듭니다:                    │
-│   먹는다 (평서문) → 먹니? / 먹습니까? (의문문)                     │
-│                                                                 │
-│   영어는 일반 동사의 의문문에 "DO"가 필요합니다:                    │
-│   You eat pizza. → Do you eat pizza?                            │
-│                                                                 │
-│   왜? 영어 의문문은 도치(동사가 주어 앞에)가 필요하지만,            │
-│   일반 동사는 이동할 수 없습니다. 그래서 영어는                     │
-│   "do/does"를 도치를 담당하는 도우미로 추가합니다.                  │
-│                                                                 │
-│   ※ BE 동사는 do-support가 필요 없습니다!                        │
-│     "Are you Korean?" ("Do you are Korean?"이 아님)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어는 동사 어미를 바꿔서 의문문을 만듭니다:
+> 먹는다 (평서문) → 먹니? / 먹습니까? (의문문)
+> 영어는 일반 동사의 의문문에 "DO"가 필요합니다:
+> You eat pizza. → Do you eat pizza?
+> 왜? 영어 의문문은 도치(동사가 주어 앞에)가 필요하지만,
+> 일반 동사는 이동할 수 없습니다. 그래서 영어는
+> "do/does"를 도치를 담당하는 도우미로 추가합니다.
+> ※ BE 동사는 do-support가 필요 없습니다!
+> "Are you Korean?" ("Do you are Korean?"이 아님)
 
 ### 5.2 예/아니오 의문문
 
@@ -439,18 +411,15 @@ They play tennis.       → They do not play tennis.  / They don't play tennis.
 
 ### 7.1 빈도 척도
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   always       (항상)           100%   ████████████████████     │
-│   usually      (보통)            90%   ██████████████████       │
-│   often        (자주)            70%   ████████████████         │
-│   sometimes    (가끔)            50%   ████████████             │
-│   occasionally (때때로)           30%   ████████                 │
-│   rarely       (거의 안)          10%   ████                     │
-│   seldom       (좀처럼 안)        10%   ████                     │
-│   never        (절대 안)           0%   (없음)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **always       (항상)           100%   ████████████████████**
+>
+> usually      (보통)            90%   ██████████████████
+> often        (자주)            70%   ████████████████
+> sometimes    (가끔)            50%   ████████████
+> occasionally (때때로)           30%   ████████
+> rarely       (거의 안)          10%   ████
+> seldom       (좀처럼 안)        10%   ████
+> never        (절대 안)           0%   (없음)
 
 ### 7.2 문장에서의 위치
 
@@ -500,38 +469,26 @@ BE 동사 뒤:
 
 ### 9.1 오류표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   오류                              올바른 표현                   │
-│   ─────                             ───────                     │
-│   "He eat lunch."                   "He eats lunch."            │
-│   (3인칭 -s 누락)                                                │
-│                                                                 │
-│   "Does she eats lunch?"            "Does she eat lunch?"       │
-│   (does와 -s 이중 표시)                                          │
-│                                                                 │
-│   "She doesn't eats."              "She doesn't eat."           │
-│   (같은 문제 — doesn't가 이미 3인칭을 표시)                       │
-│                                                                 │
-│   "Do you are Korean?"             "Are you Korean?"            │
-│   (BE 동사에 do-support 사용)                                    │
-│                                                                 │
-│   "I am have a car."               "I have a car."              │
-│   (BE + HAVE를 함께 사용)                                        │
-│                                                                 │
-│   "She go to school."              "She goes to school."        │
-│   (-s 누락)                                                      │
-│                                                                 │
-│   "He don't like fish."            "He doesn't like fish."      │
-│   (틀린 형태: don't → he/she/it에는 doesn't)                     │
-│                                                                 │
-│   "I am like music."               "I like music."              │
-│   (한국어 좋아하다 ≠ "am like")                                   │
-│                                                                 │
-│   "Eat breakfast every day."        "I eat breakfast every day." │
-│   (주어 생략 — 한국어에서는 가능, 영어에서는 불가)                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **오류                              올바른 표현**
+>
+> "He eat lunch."                   "He eats lunch."
+> (3인칭 -s 누락)
+> "Does she eats lunch?"            "Does she eat lunch?"
+> (does와 -s 이중 표시)
+> "She doesn't eats."              "She doesn't eat."
+> (같은 문제 — doesn't가 이미 3인칭을 표시)
+> "Do you are Korean?"             "Are you Korean?"
+> (BE 동사에 do-support 사용)
+> "I am have a car."               "I have a car."
+> (BE + HAVE를 함께 사용)
+> "She go to school."              "She goes to school."
+> (-s 누락)
+> "He don't like fish."            "He doesn't like fish."
+> (틀린 형태: don't → he/she/it에는 doesn't)
+> "I am like music."               "I like music."
+> (한국어 좋아하다 ≠ "am like")
+> "Eat breakfast every day."        "I eat breakfast every day."
+> (주어 생략 — 한국어에서는 가능, 영어에서는 불가)
 
 ---
 
@@ -717,31 +674,23 @@ BE 동사 뒤:
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            단순 현재 시제 빠른 가이드                              │
-│                                                                 │
-│   형태: I/you/we/they + 동사원형                                 │
-│         he/she/it + 동사원형 + S                                 │
-│                                                                 │
-│   -s 규칙: 대부분 → +s, -sh/-ch/-x/-ss/-o → +es,               │
-│            자음+y → ies, have → has                              │
-│                                                                 │
-│   의문문: Do/Does + 주어 + 동사원형?                              │
-│   부정문: 주어 + don't/doesn't + 동사원형                         │
-│   ※ does/doesn't 뒤에는 동사원형 (-s 없음!)                      │
-│                                                                 │
-│   용법: 습관, 사실, 일정, 항구적 상태                              │
-│   ※ 지금 일어나는 동작에는 사용 안 함 (→ 현재 진행형)              │
-│                                                                 │
-│   핵심 연어:                                                     │
-│   make: breakfast, money, decision, friends, mistake             │
-│   do: homework, dishes, laundry, research, exercise              │
-│   take: shower, photo, break, test, medicine, notes              │
-│   have: breakfast, meeting, headache, fun                        │
-│   get: up, ready, married, lost, better, home                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **단순 현재 시제 빠른 가이드**
+>
+> 형태: I/you/we/they + 동사원형
+> he/she/it + 동사원형 + S
+> -s 규칙: 대부분 → +s, -sh/-ch/-x/-ss/-o → +es,
+> 자음+y → ies, have → has
+> 의문문: Do/Does + 주어 + 동사원형?
+> 부정문: 주어 + don't/doesn't + 동사원형
+> ※ does/doesn't 뒤에는 동사원형 (-s 없음!)
+> 용법: 습관, 사실, 일정, 항구적 상태
+> ※ 지금 일어나는 동작에는 사용 안 함 (→ 현재 진행형)
+> 핵심 연어:
+> make: breakfast, money, decision, friends, mistake
+> do: homework, dishes, laundry, research, exercise
+> take: shower, photo, break, test, medicine, notes
+> have: breakfast, meeting, headache, fun
+> get: up, ready, married, lost, better, home
 
 ---
 
