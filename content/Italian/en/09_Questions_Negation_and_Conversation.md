@@ -45,22 +45,16 @@ Italian interrogative words do not carry written accent marks (unlike Spanish). 
 
 ### Che? vs. Quale?
 
-```
-+----------------------------------------------------------+
-|  CHE / CHE COSA / COSA = asks for DEFINITION or GENERAL  |
-|  Che cos'è?  (What is it? — asking what it IS)           |
-|  Che ora è? / Che ore sono?  (What time is it?)          |
-|                                                          |
-|  QUALE = asks for a CHOICE / SELECTION from a set        |
-|  Qual è il tuo nome?  (What is your name? — selection)   |
-|  Quale libro vuoi?    (Which book do you want?)          |
-|                                                          |
-|  Unlike Spanish, QUALE can precede a noun:               |
-|  Quale film hai visto?  (Which film did you see?)        |
-|                                                          |
-|  QUAL È (no apostrophe) — standard spelling              |
-+----------------------------------------------------------+
-```
+> **CHE vs. QUALE**
+>
+> **CHE / CHE COSA / COSA** = asks for DEFINITION or GENERAL:
+> Che cos'è? (What is it? — asking what it IS) / Che ora è? / Che ore sono? (What time is it?)
+>
+> **QUALE** = asks for a CHOICE / SELECTION from a set:
+> Qual è il tuo nome? (What is your name? — selection) / Quale libro vuoi? (Which book do you want?)
+>
+> - Unlike Spanish, QUALE can precede a noun: Quale film hai visto?
+> - QUAL È (no apostrophe) — standard spelling
 
 ### Compound Interrogatives
 
@@ -270,22 +264,17 @@ Italian allows stacking multiple negatives:
 
 ### Italian Meal Structure
 
-```
-+----------------------------------------------------------+
-|  ITALIAN MEAL COURSES (Portate)                           |
-|                                                          |
-|  1. Antipasto   — Starter (bruschetta, affettati)        |
-|  2. Primo       — First course (pasta, risotto, zuppa)   |
-|  3. Secondo     — Main course (carne, pesce)             |
-|  4. Contorno    — Side dish (insalata, verdure)           |
-|  5. Dolce       — Dessert (tiramisù, gelato)             |
-|  6. Caffè       — Coffee (espresso, macchiato)           |
-|  7. Digestivo   — After-dinner drink (limoncello, grappa)|
-|                                                          |
-|  Il coperto = cover charge (bread, table setting)         |
-|  Not a tip — it's standard in Italy.                     |
-+----------------------------------------------------------+
-```
+> **Italian Meal Courses (Portate)**
+>
+> 1. **Antipasto** — Starter (bruschetta, affettati)
+> 2. **Primo** — First course (pasta, risotto, zuppa)
+> 3. **Secondo** — Main course (carne, pesce)
+> 4. **Contorno** — Side dish (insalata, verdure)
+> 5. **Dolce** — Dessert (tiramisù, gelato)
+> 6. **Caffè** — Coffee (espresso, macchiato)
+> 7. **Digestivo** — After-dinner drink (limoncello, grappa)
+>
+> Il coperto = cover charge (bread, table setting). Not a tip — it's standard in Italy.
 
 ### Sample Restaurant Dialogue
 
