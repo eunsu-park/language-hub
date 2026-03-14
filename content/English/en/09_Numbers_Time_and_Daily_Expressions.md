@@ -45,34 +45,27 @@
 
 ### 1.2 Large Numbers
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   100         one hundred / a hundred                           │
-│   1,000       one thousand / a thousand                         │
-│   10,000      ten thousand                                      │
-│   100,000     one hundred thousand / a hundred thousand         │
-│   1,000,000   one million / a million                           │
-│   1,000,000,000  one billion / a billion                        │
-│                                                                 │
-│   ※ Korean uses 만 (10,000) as a base unit:                   │
-│     1만 = 10,000    10만 = 100,000    100만 = 1,000,000         │
-│                                                                 │
-│   English uses thousand as a base unit:                         │
-│     10,000 = "ten thousand" (NOT "one man/만")                  │
-│     50,000 = "fifty thousand"                                   │
-│     100,000 = "one hundred thousand"                            │
-│                                                                 │
-│   Commas separate every 3 digits: 1,000  10,000  1,000,000     │
-│   Korean separates every 4 digits: 1만  10만  100만             │
-│   This difference causes MANY conversion errors!               │
-│                                                                 │
-│   Examples:                                                     │
-│   5,432 = five thousand four hundred (and) thirty-two           │
-│   23,100 = twenty-three thousand one hundred                    │
-│   1,500,000 = one million five hundred thousand                 │
-│              / one and a half million                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **100         one hundred / a hundred**
+>
+> 1,000       one thousand / a thousand
+> 10,000      ten thousand
+> 100,000     one hundred thousand / a hundred thousand
+> 1,000,000   one million / a million
+> 1,000,000,000  one billion / a billion
+> ※ Korean uses 만 (10,000) as a base unit:
+> 1만 = 10,000    10만 = 100,000    100만 = 1,000,000
+> English uses thousand as a base unit:
+> 10,000 = "ten thousand" (NOT "one man/만")
+> 50,000 = "fifty thousand"
+> 100,000 = "one hundred thousand"
+> Commas separate every 3 digits: 1,000  10,000  1,000,000
+> Korean separates every 4 digits: 1만  10만  100만
+> This difference causes MANY conversion errors!
+> Examples:
+> 5,432 = five thousand four hundred (and) thirty-two
+> 23,100 = twenty-three thousand one hundred
+> 1,500,000 = one million five hundred thousand
+> / one and a half million
 
 ### 1.3 Number Pronunciation Tips
 
@@ -139,32 +132,25 @@ Fractions:
 
 ### 3.1 Three Formats
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Format 1: Digital (hours + minutes) — MOST COMMON in AmE     │
-│   3:00  "three o'clock" / "three"                               │
-│   3:15  "three fifteen"                                         │
-│   3:30  "three thirty"                                          │
-│   3:45  "three forty-five"                                      │
-│   3:05  "three oh five"  (oh = zero)                            │
-│                                                                 │
-│   Format 2: Traditional (past/to) — COMMON in BrE              │
-│   3:00  "three o'clock"                                         │
-│   3:15  "quarter past three"  (a quarter after three)           │
-│   3:30  "half past three"                                       │
-│   3:45  "quarter to four"     (15 minutes before 4)             │
-│   3:10  "ten past three"      (10 minutes after 3)              │
-│   3:50  "ten to four"         (10 minutes before 4)             │
-│                                                                 │
-│   Format 3: 24-hour (military/formal)                           │
-│   15:00  "fifteen hundred" / "fifteen hundred hours"            │
-│   08:30  "oh eight thirty"                                      │
-│   23:45  "twenty-three forty-five"                              │
-│                                                                 │
-│   ※ Korean: 3시 15분 (시 + 분 — very straightforward)           │
-│     English: multiple formats — "three fifteen" is safest       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Format 1: Digital (hours + minutes) — MOST COMMON in AmE
+> 3:00  "three o'clock" / "three"
+> 3:15  "three fifteen"
+> 3:30  "three thirty"
+> 3:45  "three forty-five"
+> 3:05  "three oh five"  (oh = zero)
+> Format 2: Traditional (past/to) — COMMON in BrE
+> 3:00  "three o'clock"
+> 3:15  "quarter past three"  (a quarter after three)
+> 3:30  "half past three"
+> 3:45  "quarter to four"     (15 minutes before 4)
+> 3:10  "ten past three"      (10 minutes after 3)
+> 3:50  "ten to four"         (10 minutes before 4)
+> Format 3: 24-hour (military/formal)
+> 15:00  "fifteen hundred" / "fifteen hundred hours"
+> 08:30  "oh eight thirty"
+> 23:45  "twenty-three forty-five"
+> ※ Korean: 3시 15분 (시 + 분 — very straightforward)
+> English: multiple formats — "three fifteen" is safest
 
 ### 3.2 AM and PM
 
@@ -272,26 +258,19 @@ December   /dɪˈsembər/   12월   (Dec.)
 
 ### 5.2 Writing Dates
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   American format: Month Day, Year                              │
-│   Written:  March 5, 2024       OR   3/5/2024                   │
-│   Spoken:   "March fifth, twenty twenty-four"                   │
-│                                                                 │
-│   British format: Day Month Year                                │
-│   Written:  5 March 2024        OR   5/3/2024                   │
-│   Spoken:   "the fifth of March, twenty twenty-four"            │
-│                                                                 │
-│   ※ DANGER: 3/5/2024                                          │
-│     American: March 5, 2024                                     │
-│     British: 5 March 2024 (= May 3, 2024 in American!)         │
-│     Always write out the month name to avoid confusion!         │
-│                                                                 │
-│   Korean format: Year.Month.Day                                 │
-│   2024년 3월 5일  →  March 5, 2024 (American)                   │
-│                       5 March 2024 (British)                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> American format: Month Day, Year
+> Written:  March 5, 2024       OR   3/5/2024
+> Spoken:   "March fifth, twenty twenty-four"
+> British format: Day Month Year
+> Written:  5 March 2024        OR   5/3/2024
+> Spoken:   "the fifth of March, twenty twenty-four"
+> ※ DANGER: 3/5/2024
+> American: March 5, 2024
+> British: 5 March 2024 (= May 3, 2024 in American!)
+> Always write out the month name to avoid confusion!
+> Korean format: Year.Month.Day
+> 2024년 3월 5일  →  March 5, 2024 (American)
+> 5 March 2024 (British)
 
 ### 5.3 Years
 
@@ -631,32 +610,23 @@ Write how to SAY these dates.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Numbers & Time Quick Guide                            │
-│                                                                 │
-│   13 vs 30: thirTEEN (stress 2nd) vs THIRty (stress 1st)      │
-│   Korean 만 → English thousand (different base units!)          │
-│                                                                 │
-│   Time: "three fifteen" (safest), "quarter past three" (BrE)  │
-│   AM/PM: 12 AM = midnight, 12 PM = noon                       │
-│                                                                 │
-│   Days: Mon/Tue/Wed/Thu/Fri/Sat/Sun — ALWAYS capitalized       │
-│   Months: Jan-Dec — ALWAYS capitalized                         │
-│   Seasons: spring/summer/fall/winter — NOT capitalized          │
-│                                                                 │
-│   Date format: March 5, 2024 (AmE) / 5 March 2024 (BrE)       │
-│   Prepositions: AT + time, ON + day/date, IN + month/year      │
-│                                                                 │
-│   Frequency: always/usually/often/sometimes/rarely/never       │
-│   Position: before main verb, after BE                          │
-│                                                                 │
-│   for + duration (for 2 hours)                                  │
-│   during + event (during the meeting)                           │
-│   since + start point (since 2020)                              │
-│   ago + after time (2 days ago)                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Numbers & Time Quick Guide**
+>
+> 13 vs 30: thirTEEN (stress 2nd) vs THIRty (stress 1st)
+> Korean 만 → English thousand (different base units!)
+> Time: "three fifteen" (safest), "quarter past three" (BrE)
+> AM/PM: 12 AM = midnight, 12 PM = noon
+> Days: Mon/Tue/Wed/Thu/Fri/Sat/Sun — ALWAYS capitalized
+> Months: Jan-Dec — ALWAYS capitalized
+> Seasons: spring/summer/fall/winter — NOT capitalized
+> Date format: March 5, 2024 (AmE) / 5 March 2024 (BrE)
+> Prepositions: AT + time, ON + day/date, IN + month/year
+> Frequency: always/usually/often/sometimes/rarely/never
+> Position: before main verb, after BE
+> for + duration (for 2 hours)
+> during + event (during the meeting)
+> since + start point (since 2020)
+> ago + after time (2 days ago)
 
 ---
 
