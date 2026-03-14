@@ -60,21 +60,12 @@ Kanji are logographic characters borrowed from Chinese. Each character carries *
 
 ### 1.2 Kanji Components
 
-```
-┌─────────────────────────────────────────┐
-│              漢字 (Kanji)                │
-│                                         │
-│    ┌──────────┐    ┌──────────────┐     │
-│    │  部首     │    │  音符         │     │
-│    │ (Radical) │    │ (Phonetic)   │     │
-│    │ = meaning │    │ = sound hint │     │
-│    │  category │    │              │     │
-│    └──────────┘    └──────────────┘     │
-│                                         │
-│    Example: 語 (language/word)          │
-│    言 (speech radical) + 吾 (phonetic)  │
-└─────────────────────────────────────────┘
-```
+> **漢字 (Kanji)**
+>
+> - **部首 (Radical)**: meaning category
+> - **音符 (Phonetic)**: sound hint
+>
+> - **Example**: 語 (language/word) = 言 (speech radical) + 吾 (phonetic)
 
 ---
 
@@ -86,19 +77,15 @@ Every kanji has exactly **one official radical** (部首) used for dictionary cl
 
 Radicals appear in specific positions within a kanji:
 
-```
-┌───────────────────────────────────────────┐
-│  Position        Name        Example      │
-├───────────────────────────────────────────┤
-│  Left side       へん (偏)    氵(水)→ 海   │
-│  Right side      つくり (旁)  刂(刀)→ 割   │
-│  Top             かんむり (冠) 宀 → 家     │
-│  Bottom          あし (脚)    灬(火)→ 熱   │
-│  Enclosure       かまえ (構)  門 → 間      │
-│  Left+bottom     にょう (繞)  辶 → 道      │
-│  Top-left        たれ (垂)    广 → 店      │
-└───────────────────────────────────────────┘
-```
+> **Position        Name        Example**
+> ├───────────────────────────────────────────┤
+> Left side       へん (偏)    氵(水)→ 海
+> Right side      つくり (旁)  刂(刀)→ 割
+> Top             かんむり (冠) 宀 → 家
+> Bottom          あし (脚)    灬(火)→ 熱
+> Enclosure       かまえ (構)  門 → 間
+> Left+bottom     にょう (繞)  辶 → 道
+> Top-left        たれ (垂)    广 → 店
 
 ---
 
@@ -392,22 +379,18 @@ Step 4: Predict new kanji    汚 (dirty) → water + ? → polluted water?
 
 **Strategy:** Write each new kanji with the following information:
 
-```
-┌──────────────────────────────────────┐
-│  Kanji: 経                           │
-│  Radical: 糸 (thread)               │
-│  On: ケイ / キョウ                   │
-│  Kun: へ(る) / た(つ)               │
-│  Meaning: pass through, experience  │
-│  Compounds: 経験 (experience)        │
-│             経済 (economy)           │
-│             経営 (management)        │
-│  Sentence: この経験を通じて学んだ。  │
-│  (I learned through this experience)│
-│  Mnemonic: Thread (糸) going        │
-│  through a loom — passing through   │
-└──────────────────────────────────────┘
-```
+> - **Kanji**: 経
+> - **Radical**: 糸 (thread)
+> - **On**: ケイ / キョウ
+> - **Kun**: へ(る) / た(つ)
+> - **Meaning**: pass through, experience
+> - **Compounds**: 経験 (experience)
+> 経済 (economy)
+> 経営 (management)
+> - **Sentence**: この経験を通じて学んだ。
+> (I learned through this experience)
+> - **Mnemonic**: Thread (糸) going
+> through a loom — passing through
 
 ---
 
