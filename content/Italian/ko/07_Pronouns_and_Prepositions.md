@@ -122,29 +122,23 @@
 
 간접목적어와 직접목적어 대명사가 함께 나타날 때:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         이중 대명사 순서와 형태                                   │
-│                                                              │
-│  간접목적어 (IO)가 항상 직접목적어 (DO) 앞에 옵니다               │
-│                                                              │
-│  IO + DO:   lo      la      li      le      ne              │
-│  ─────────────────────────────────────────────────           │
-│  mi →       me lo   me la   me li   me le   me ne           │
-│  ti →       te lo   te la   te li   te le   te ne           │
-│  gli/le →   glielo  gliela  glieli  gliele  gliene          │
-│  ci →       ce lo   ce la   ce li   ce le   ce ne           │
-│  vi →       ve lo   ve la   ve li   ve le   ve ne           │
-│  gli →      glielo  gliela  glieli  gliele  gliene          │
-│  (그들에게)                                                    │
-│                                                              │
-│  주요 변화:                                                    │
-│  • mi → me, ti → te, ci → ce, vi → ve (lo/la 등 앞)         │
-│  • gli/le → glie- (직접목적어에 부착되어 한 단어로)               │
-│  • gli (그들에게) → glie- (gli = 그에게와 같은 형태)             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **이중 대명사 순서와 형태**
+>
+> 간접목적어 (IO)가 항상 직접목적어 (DO) 앞에 옵니다
+>
+> | IO + DO | lo | la | li | le | ne |
+> |---|---|---|---|---|---|
+> | mi → | me lo | me la | me li | me le | me ne |
+> | ti → | te lo | te la | te li | te le | te ne |
+> | gli/le → | glielo | gliela | glieli | gliele | gliene |
+> | ci → | ce lo | ce la | ce li | ce le | ce ne |
+> | vi → | ve lo | ve la | ve li | ve le | ve ne |
+> | gli (그들에게) → | glielo | gliela | glieli | gliele | gliene |
+>
+> 주요 변화:
+> - mi → me, ti → te, ci → ce, vi → ve (lo/la 등 앞)
+> - gli/le → glie- (직접목적어에 부착되어 한 단어로)
+> - gli (그들에게) → glie- (gli = 그에게와 같은 형태)
 
 **예시:**
 - Mi dai il libro? → **Me lo** dai? (그것을 나에게 줄래?)
@@ -193,40 +187,25 @@
 
 **CI**는 이탈리아어에서 가장 다용도인 소사 중 하나입니다. 여러 의미를 가집니다:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. CI = "거기" (장소를 대체)                                     │
-│      Vai a Roma? — Sì, ci vado domani.                         │
-│      (로마에 가니? — 응, 내일 거기에 가.)                           │
-│      Sei stato in Italia? — Sì, ci sono stato.                 │
-│      (이탈리아에 가봤니? — 응, 거기에 가봤어.)                       │
-│                                                                 │
-│   2. CI → C'È / CI SONO = "~이 있다"                            │
-│      C'è un problema. (문제가 있다.)                              │
-│      Ci sono molti studenti. (많은 학생들이 있다.)                 │
-│                                                                 │
-│   3. CI = "우리를" (직접/간접/재귀 대명사)                          │
-│      Ci vede. (그가 우리를 본다.)                                  │
-│      Ci parla. (그가 우리에게 말한다.)                              │
-│      Ci divertiamo. (우리는 즐긴다.)                              │
-│                                                                 │
-│   4. CI = "그것에 대해 / 그것에" (a + 명사를 대체)                  │
-│      Credi a questa storia? — No, non ci credo.                │
-│      (이 이야기를 믿니? — 아니, 안 믿어.)                          │
-│      Pensi al futuro? — Sì, ci penso spesso.                  │
-│      (미래에 대해 생각하니? — 응, 자주 생각해.)                      │
-│                                                                 │
-│   5. CI 관용 표현:                                               │
-│      volerci = (시간/노력이) 걸리다                                │
-│      Ci vogliono due ore. (2시간이 걸린다.)                       │
-│      metterci = (개인적으로) 걸리다                                │
-│      Ci metto un'ora. (나는 1시간이 걸린다.)                       │
-│      entrarci = ~와 관계가 있다                                    │
-│      Non c'entra. (그것은 관계없다.)                              │
-│      farcela = 해내다                                             │
-│      Ce la faccio! (할 수 있어!)                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **1. CI = "거기"** (장소를 대체)
+> - Vai a Roma? — Sì, ci vado domani. (로마에 가니? — 응, 내일 거기에 가.)
+> - Sei stato in Italia? — Sì, ci sono stato.
+>
+> **2. CI → C'È / CI SONO** = "~이 있다"
+> - C'è un problema. / Ci sono molti studenti.
+>
+> **3. CI = "우리를"** (직접/간접/재귀 대명사)
+> - Ci vede. (그가 우리를 본다.) / Ci parla. / Ci divertiamo.
+>
+> **4. CI = "그것에 대해 / 그것에"** (a + 명사를 대체)
+> - Credi a questa storia? — No, non ci credo.
+> - Pensi al futuro? — Sì, ci penso spesso.
+>
+> **5. CI 관용 표현:**
+> - volerci = (시간/노력이) 걸리다: Ci vogliono due ore.
+> - metterci = (개인적으로) 걸리다: Ci metto un'ora.
+> - entrarci = ~와 관계가 있다: Non c'entra.
+> - farcela = 해내다: Ce la faccio!
 
 ---
 
@@ -234,34 +213,23 @@
 
 **NE**는 "그것의/그들의," "약간," 또는 "그것에 대해"를 대체합니다:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. NE = "그것의/그들의" (di + 명사, 부분을 대체)                  │
-│      Vuoi del pane? — Sì, ne voglio un po'.                   │
-│      (빵 좀 원하니? — 응, 좀 원해.)                               │
-│      Quanti libri hai? — Ne ho tre.                            │
-│      (책이 몇 권 있니? — 세 권 있어.)                              │
-│                                                                 │
-│   2. NE = "그것에 대해" (di + 주제를 대체)                         │
-│      Parli del film? — Sì, ne parlo.                           │
-│      (영화에 대해 말하니? — 응, 그것에 대해 말하고 있어.)              │
-│                                                                 │
-│   3. NE = "거기에서" (da + 장소를 대체)                            │
-│      Vieni dall'ufficio? — Sì, ne vengo ora.                   │
-│      (사무실에서 오니? — 응, 지금 거기에서 와.)                      │
-│                                                                 │
-│   4. NE 관용 표현:                                               │
-│      andarsene = 떠나다 / 가버리다                                │
-│      Me ne vado. (나는 떠난다.)                                   │
-│      Non ne posso più. (더 이상 못 참겠다.)                       │
-│      Che ne pensi? (그것에 대해 어떻게 생각하니?)                   │
-│                                                                 │
-│   ※ NE가 근과거와 함께 쓰일 때, 과거분사가                          │
-│     수량에 일치합니다:                                             │
-│     Quante mele hai comprato? — Ne ho comprate tre.            │
-│     (사과를 몇 개 샀니? — 세 개 샀어.)                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **1. NE = "그것의/그들의"** (di + 명사, 부분을 대체)
+> - Vuoi del pane? — Sì, ne voglio un po'. (빵 좀 원하니? — 응, 좀 원해.)
+> - Quanti libri hai? — Ne ho tre. (책이 몇 권 있니? — 세 권 있어.)
+>
+> **2. NE = "그것에 대해"** (di + 주제를 대체)
+> - Parli del film? — Sì, ne parlo.
+>
+> **3. NE = "거기에서"** (da + 장소를 대체)
+> - Vieni dall'ufficio? — Sì, ne vengo ora.
+>
+> **4. NE 관용 표현:**
+> - andarsene = 떠나다: Me ne vado.
+> - Non ne posso più. (더 이상 못 참겠다.)
+> - Che ne pensi? (그것에 대해 어떻게 생각하니?)
+>
+> NE가 근과거와 함께 쓰일 때, 과거분사가 수량에 일치합니다:
+> Quante mele hai comprato? — Ne ho comprate tre.
 
 ---
 
@@ -366,34 +334,16 @@ di, a, da, in, su는 정관사와 결합합니다 (전체 표는 3과 참조):
 
 ### 11.4 A vs IN vs DA — 이동과 위치
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   A = ~에/~으로 (도시, 특정 장소)                                  │
-│   Vado a Roma. (로마에 간다.)                                    │
-│   Vado a scuola. (학교에 간다.)                                  │
-│   Sono a casa. (집에 있다.)                                      │
-│   Vado al cinema. (영화관에 간다.)                                │
-│                                                                 │
-│   IN = ~안에/~으로 (나라, 지역, 교통수단,                           │
-│                    불특정 장소)                                    │
-│   Vado in Italia. (이탈리아에 간다.)                               │
-│   Vado in Toscana. (토스카나에 간다.)                              │
-│   Vado in macchina. (차로 간다.)                                  │
-│   Sono in ufficio. (사무실에 있다.)                                │
-│   Vado in banca. (은행에 간다.)                                   │
-│                                                                 │
-│   DA = ~에서 / ~의 집에 / ~에 의해                                 │
-│   Vengo da Roma. (로마에서 왔다.)                                 │
-│   Vado dal dottore. (의사에게 간다.)                               │
-│   Vado da Marco. (Marco의 집에 간다.)                             │
-│   È stato fatto da lui. (그에 의해 만들어졌다.)                     │
-│   Abito qui da tre anni. (여기에 3년째 살고 있다.)                  │
-│                                                                 │
-│   ※ 참고: "da"는 기간 표현 (영어 "for/since"):                    │
-│     Studio italiano da sei mesi.                               │
-│     (이탈리아어를 6개월째 공부하고 있다.)                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **A** = ~에/~으로 (도시, 특정 장소)
+> - Vado a Roma. / Vado a scuola. / Sono a casa. / Vado al cinema.
+>
+> **IN** = ~안에/~으로 (나라, 지역, 교통수단, 불특정 장소)
+> - Vado in Italia. / Vado in Toscana. / Vado in macchina. / Sono in ufficio. / Vado in banca.
+>
+> **DA** = ~에서 / ~의 집에 / ~에 의해
+> - Vengo da Roma. / Vado dal dottore. / Vado da Marco. / È stato fatto da lui. / Abito qui da tre anni.
+>
+> "da"는 기간 표현 (영어 "for/since"): Studio italiano da sei mesi. (이탈리아어를 6개월째 공부하고 있다.)
 
 ---
 
@@ -516,28 +466,18 @@ di, a, da, in, su는 정관사와 결합합니다 (전체 표는 3과 참조):
 
 ## 빠른 참조
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   직접목적어            간접목적어           재귀               │
-│   mi    ci              mi    ci             mi    ci        │
-│   ti    vi              ti    vi             ti    vi        │
-│   lo/la li/le           gli/le  gli          si    si        │
-│                                                              │
-│   CI = 거기, 우리를, ~에 대해 (a + 명사)                       │
-│   NE = 그것의, 약간, ~에 대해 (di + 명사), 거기에서             │
-│                                                              │
-│   결합: 간접 → 직접 순서                                       │
-│   mi→me, ti→te, ci→ce, vi→ve + lo/la/li/le/ne              │
-│   gli/le → glie + lo/la/li/le/ne (한 단어)                   │
-│                                                              │
-│   소유형: 관사 + mio/tuo/suo/nostro/vostro/loro              │
-│   예외: 가족 단수에는 관사 없음                                 │
-│                                                              │
-│   전치사: a (도시), in (나라/교통수단),                         │
-│   da (~에서/~의 집에/기간), di (~의), con (~와),              │
-│   su (~위에), per (~을 위해), tra/fra (~사이에/~후에)          │
-└──────────────────────────────────────────────────────────────┘
-```
+> **직접목적어**: mi/ti/lo/la/ci/vi/li/le
+> **간접목적어**: mi/ti/gli/le/ci/vi/gli
+> **재귀**: mi/ti/si/ci/vi/si
+>
+> - **CI** = 거기, 우리를, ~에 대해 (a + 명사)
+> - **NE** = 그것의, 약간, ~에 대해 (di + 명사), 거기에서
+>
+> **결합**: 간접 → 직접 순서 / mi→me, ti→te, ci→ce, vi→ve + lo/la/li/le/ne / gli/le → glie + lo/la/li/le/ne (한 단어)
+>
+> **소유형**: 관사 + mio/tuo/suo/nostro/vostro/loro / 예외: 가족 단수에는 관사 없음
+>
+> **전치사**: a (도시), in (나라/교통수단), da (~에서/~의 집에/기간), di (~의), con (~와), su (~위에), per (~을 위해), tra/fra (~사이에/~후에)
 
 ---
 
