@@ -182,25 +182,17 @@ Some third declension nouns have stems ending in **-i-**. These nouns show sligh
 
 ### 3.1 How to Identify I-Stems
 
-```
-Rules for Identifying I-Stem Nouns:
-┌─────────────────────────────────────────────────┐
-│ MASCULINE / FEMININE I-STEMS                    │
-│                                                 │
-│ 1. Parisyllabic: same number of syllables in    │
-│    nom. sg. and gen. sg.                        │
-│    e.g., cīvis / cīv-is (2 / 2 syllables)      │
-│                                                 │
-│ 2. Stem ends in two consonants before -is       │
-│    e.g., urbs / urb-is, mors / mort-is          │
-│                                                 │
-│ NEUTER I-STEMS                                  │
-│                                                 │
-│ 3. Nom. sg. ends in -e, -al, or -ar            │
-│    e.g., mare / mar-is, animal / animāl-is,     │
-│          calcar / calcār-is                      │
-└─────────────────────────────────────────────────┘
-```
+> **Rules for Identifying I-Stem Nouns**
+>
+> **MASCULINE / FEMININE I-STEMS:**
+> 1. Parisyllabic: same number of syllables in nom. sg. and gen. sg.
+>    e.g., cīvis / cīv-is (2 / 2 syllables)
+> 2. Stem ends in two consonants before -is
+>    e.g., urbs / urb-is, mors / mort-is
+>
+> **NEUTER I-STEMS:**
+> 3. Nom. sg. ends in -e, -al, or -ar
+>    e.g., mare / mar-is, animal / animāl-is, calcar / calcār-is
 
 ### 3.2 I-Stem Endings vs. Consonant-Stem Endings
 
@@ -282,20 +274,12 @@ Other neuter i-stems:
 
 The **neuter rule** is one of the most important principles in Latin grammar. It applies across **all** declensions.
 
-```
-THE NEUTER RULE (Rēgula Neutrōrum)
-┌──────────────────────────────────────────────┐
-│ 1. Nom. = Acc. (always, singular and plural) │
-│                                              │
-│ 2. Nom./Acc. plural always ends in -a        │
-│    (2nd decl: -a, 3rd cons: -a, 3rd i: -ia)  │
-│                                              │
-│ 3. Neuter plural subject takes a             │
-│    SINGULAR verb                             │
-│    e.g., Bella longa sunt. BUT also:         │
-│    Arma virumque canō.                       │
-└──────────────────────────────────────────────┘
-```
+> **THE NEUTER RULE (Rēgula Neutrōrum)**
+>
+> 1. Nom. = Acc. (always, singular and plural)
+> 2. Nom./Acc. plural always ends in -a (2nd decl: -a, 3rd cons: -a, 3rd i: -ia)
+> 3. Neuter plural subject takes a SINGULAR verb
+>    e.g., Bella longa sunt. BUT also: Arma virumque canō.
 
 ### Examples Across Declensions
 
@@ -330,24 +314,21 @@ THE NEUTER RULE (Rēgula Neutrōrum)
 
 ### Gender Tendencies in the Third Declension
 
-```
-GENDER PATTERNS (3rd Declension)
-┌─────────────────────────────────────────┐
-│ MASCULINE tend to be:                   │
-│   - Agents: mīles, rēx, dux, homō      │
-│   - Rivers: some proper nouns           │
-│                                         │
-│ FEMININE tend to be:                    │
-│   - Abstract nouns: virtūs, pāx, lēx    │
-│   - Trees: arbor (but this is f.)       │
-│   - -tās, -tūs, -tiō endings           │
-│                                         │
-│ NEUTER tend to be:                      │
-│   - -us/-oris: corpus, tempus, genus    │
-│   - -en/-inis: nōmen, flūmen, carmen    │
-│   - -e, -al, -ar: mare, animal, calcar │
-└─────────────────────────────────────────┘
-```
+> **GENDER PATTERNS (3rd Declension)**
+>
+> **MASCULINE** tend to be:
+> - Agents: mīles, rēx, dux, homō
+> - Rivers: some proper nouns
+>
+> **FEMININE** tend to be:
+> - Abstract nouns: virtūs, pāx, lēx
+> - Trees: arbor (but this is f.)
+> - -tās, -tūs, -tiō endings
+>
+> **NEUTER** tend to be:
+> - -us/-oris: corpus, tempus, genus
+> - -en/-inis: nōmen, flūmen, carmen
+> - -e, -al, -ar: mare, animal, calcar
 
 ---
 
