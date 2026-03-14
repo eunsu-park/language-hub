@@ -122,29 +122,22 @@ Two equally correct options:
 
 When both indirect and direct object pronouns appear together:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         DOUBLE PRONOUN ORDER AND FORMS                       │
-│                                                              │
-│  Indirect Object (IO) always comes BEFORE Direct Object (DO)│
-│                                                              │
-│  IO + DO:   lo      la      li      le      ne              │
-│  ─────────────────────────────────────────────────           │
-│  mi →       me lo   me la   me li   me le   me ne           │
-│  ti →       te lo   te la   te li   te le   te ne           │
-│  gli/le →   glielo  gliela  glieli  gliele  gliene          │
-│  ci →       ce lo   ce la   ce li   ce le   ce ne           │
-│  vi →       ve lo   ve la   ve li   ve le   ve ne           │
-│  gli →      glielo  gliela  glieli  gliele  gliene          │
-│  (to them)                                                   │
-│                                                              │
-│  Key changes:                                                │
-│  • mi → me, ti → te, ci → ce, vi → ve (before lo/la/etc.)  │
-│  • gli/le → glie- (attached to direct object as one word)   │
-│  • gli (to them) → glie- (same form as gli = to him)       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Double Pronoun Order and Forms**
+>
+> Indirect Object (IO) always comes BEFORE Direct Object (DO)
+>
+> | IO + DO | lo | la | li | le | ne |
+> | mi → | me lo | me la | me li | me le | me ne |
+> | ti → | te lo | te la | te li | te le | te ne |
+> | gli/le → | glielo | gliela | glieli | gliele | gliene |
+> | ci → | ce lo | ce la | ce li | ce le | ce ne |
+> | vi → | ve lo | ve la | ve li | ve le | ve ne |
+> | gli (to them) → | glielo | gliela | glieli | gliele | gliene |
+>
+> Key changes:
+> - mi → me, ti → te, ci → ce, vi → ve (before lo/la/etc.)
+> - gli/le → glie- (attached to direct object as one word)
+> - gli (to them) → glie- (same form as gli = to him)
 
 **Examples:**
 - Mi dai il libro? → **Me lo** dai? (Will you give it to me?)
@@ -193,40 +186,13 @@ Reflexive pronouns also express reciprocal actions ("each other"):
 
 **CI** is one of Italian's most versatile particles. It has multiple meanings:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. CI = "there" (replaces a place)                            │
-│      Vai a Roma? — Sì, ci vado domani.                         │
-│      (Are you going to Rome? — Yes, I'm going there tomorrow.) │
-│      Sei stato in Italia? — Sì, ci sono stato.                 │
-│      (Have you been to Italy? — Yes, I've been there.)         │
-│                                                                 │
-│   2. CI in C'È / CI SONO = "there is/are"                     │
-│      C'è un problema. (There is a problem.)                    │
-│      Ci sono molti studenti. (There are many students.)        │
-│                                                                 │
-│   3. CI = "us" (direct/indirect/reflexive pronoun)             │
-│      Ci vede. (He sees us.)                                    │
-│      Ci parla. (He speaks to us.)                              │
-│      Ci divertiamo. (We enjoy ourselves.)                      │
-│                                                                 │
-│   4. CI = "about it / to it / on it" (replaces a + noun)      │
-│      Credi a questa storia? — No, non ci credo.                │
-│      (Do you believe this story? — No, I don't believe it.)    │
-│      Pensi al futuro? — Sì, ci penso spesso.                  │
-│      (Do you think about the future? — Yes, I think about it.) │
-│                                                                 │
-│   5. CI in fixed expressions:                                   │
-│      volerci = to take (time/effort)                           │
-│      Ci vogliono due ore. (It takes two hours.)                │
-│      metterci = to take (personal time)                        │
-│      Ci metto un'ora. (It takes me an hour.)                   │
-│      entrarci = to have to do with                             │
-│      Non c'entra. (It has nothing to do with it.)              │
-│      farcela = to manage                                       │
-│      Ce la faccio! (I can do it!)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Particle CI**
+>
+> 1. **CI = "there"** (replaces a place): Vai a Roma? — Sì, ci vado domani. / Sei stato in Italia? — Sì, ci sono stato.
+> 2. **CI in C'È / CI SONO** = "there is/are": C'è un problema. / Ci sono molti studenti.
+> 3. **CI = "us"** (direct/indirect/reflexive pronoun): Ci vede. / Ci parla. / Ci divertiamo.
+> 4. **CI = "about it / to it / on it"** (replaces a + noun): Credi a questa storia? — No, non ci credo. / Pensi al futuro? — Sì, ci penso spesso.
+> 5. **CI in fixed expressions**: volerci (Ci vogliono due ore), metterci (Ci metto un'ora), entrarci (Non c'entra), farcela (Ce la faccio!)
 
 ---
 
@@ -234,36 +200,14 @@ Reflexive pronouns also express reciprocal actions ("each other"):
 
 **NE** replaces "of it/them," "some," or "about it":
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. NE = "of it/them" (replaces di + noun, partitive)         │
-│      Vuoi del pane? — Sì, ne voglio un po'.                   │
-│      (Do you want bread? — Yes, I want some [of it].)          │
-│      Quanti libri hai? — Ne ho tre.                            │
-│      (How many books do you have? — I have three [of them].)   │
-│                                                                 │
-│   2. NE = "about it" (replaces di + topic)                     │
-│      Parli del film? — Sì, ne parlo.                           │
-│      (Are you talking about the film? — Yes, I'm talking       │
-│       about it.)                                                │
-│                                                                 │
-│   3. NE = "from there" (replaces da + place)                   │
-│      Vieni dall'ufficio? — Sì, ne vengo ora.                   │
-│      (Are you coming from the office? — Yes, I'm coming        │
-│       from there now.)                                          │
-│                                                                 │
-│   4. NE in expressions:                                         │
-│      andarsene = to leave / to go away                         │
-│      Me ne vado. (I'm leaving.)                                │
-│      Non ne posso più. (I can't take it anymore.)              │
-│      Che ne pensi? (What do you think about it?)               │
-│                                                                 │
-│   ※ When NE is used with passato prossimo, the past            │
-│     participle agrees with the quantity:                        │
-│     Quante mele hai comprato? — Ne ho comprate tre.            │
-│     (How many apples did you buy? — I bought three [of them].) │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Particle NE**
+>
+> 1. **NE = "of it/them"** (replaces di + noun, partitive): Vuoi del pane? — Sì, ne voglio un po'. / Quanti libri hai? — Ne ho tre.
+> 2. **NE = "about it"** (replaces di + topic): Parli del film? — Sì, ne parlo.
+> 3. **NE = "from there"** (replaces da + place): Vieni dall'ufficio? — Sì, ne vengo ora.
+> 4. **NE in expressions**: andarsene (Me ne vado.), Non ne posso più., Che ne pensi?
+>
+> - When NE is used with passato prossimo, the past participle agrees with the quantity: Quante mele hai comprato? — Ne ho comprate tre.
 
 ---
 
@@ -368,34 +312,18 @@ di, a, da, in, su combine with definite articles (see Lesson 03 for full table):
 
 ### 11.4 A vs IN vs DA — Movement and Location
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   A = to/at (cities, specific places)                           │
-│   Vado a Roma. (I go to Rome.)                                 │
-│   Vado a scuola. (I go to school.)                             │
-│   Sono a casa. (I'm at home.)                                  │
-│   Vado al cinema. (I go to the movies.)                        │
-│                                                                 │
-│   IN = in/to (countries, regions, means of transport,          │
-│               unspecified locations)                             │
-│   Vado in Italia. (I go to Italy.)                             │
-│   Vado in Toscana. (I go to Tuscany.)                          │
-│   Vado in macchina. (I go by car.)                             │
-│   Sono in ufficio. (I'm at the office.)                        │
-│   Vado in banca. (I go to the bank.)                           │
-│                                                                 │
-│   DA = from / to (someone's place) / by (agent)               │
-│   Vengo da Roma. (I come from Rome.)                           │
-│   Vado dal dottore. (I go to the doctor.)                      │
-│   Vado da Marco. (I go to Marco's place.)                      │
-│   È stato fatto da lui. (It was done by him.)                  │
-│   Abito qui da tre anni. (I've lived here for three years.)    │
-│                                                                 │
-│   ※ Note: "da" for duration of time (English "for/since"):    │
-│     Studio italiano da sei mesi.                               │
-│     (I've been studying Italian for six months.)               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **A vs IN vs DA — Movement and Location**
+>
+> **A** = to/at (cities, specific places):
+> Vado a Roma. / Vado a scuola. / Sono a casa. / Vado al cinema.
+>
+> **IN** = in/to (countries, regions, means of transport, unspecified locations):
+> Vado in Italia. / Vado in Toscana. / Vado in macchina. / Sono in ufficio. / Vado in banca.
+>
+> **DA** = from / to (someone's place) / by (agent):
+> Vengo da Roma. / Vado dal dottore. / Vado da Marco. / È stato fatto da lui. / Abito qui da tre anni.
+>
+> - Note: "da" for duration of time (English "for/since"): Studio italiano da sei mesi.
 
 ---
 
@@ -518,28 +446,20 @@ Rewrite using double pronouns.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   DIRECT OBJECT         INDIRECT OBJECT      REFLEXIVE       │
-│   mi    ci              mi    ci             mi    ci        │
-│   ti    vi              ti    vi             ti    vi        │
-│   lo/la li/le           gli/le  gli          si    si        │
-│                                                              │
-│   CI = there, us, about it (a + noun)                       │
-│   NE = of it/them, some, about it (di + noun), from there   │
-│                                                              │
-│   COMBINED: IO before DO                                     │
-│   mi→me, ti→te, ci→ce, vi→ve + lo/la/li/le/ne              │
-│   gli/le → glie + lo/la/li/le/ne (one word)                │
-│                                                              │
-│   POSSESSIVES: article + mio/tuo/suo/nostro/vostro/loro     │
-│   Exception: no article with singular family members         │
-│                                                              │
-│   PREPOSITIONS: a (to/at cities), in (countries/transport),  │
-│   da (from/at someone's/duration), di (of), con (with),    │
-│   su (on), per (for), tra/fra (between/in time)            │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference**
+>
+> DIRECT OBJECT: mi/ti/lo/la/ci/vi/li/le
+> INDIRECT OBJECT: mi/ti/gli/le/ci/vi/gli
+> REFLEXIVE: mi/ti/si/ci/vi/si
+>
+> - **CI** = there, us, about it (a + noun)
+> - **NE** = of it/them, some, about it (di + noun), from there
+>
+> COMBINED: IO before DO — mi→me, ti→te, ci→ce, vi→ve + lo/la/li/le/ne; gli/le → glie + lo/la/li/le/ne (one word)
+>
+> POSSESSIVES: article + mio/tuo/suo/nostro/vostro/loro. Exception: no article with singular family members
+>
+> PREPOSITIONS: a (to/at cities), in (countries/transport), da (from/at someone's/duration), di (of), con (with), su (on), per (for), tra/fra (between/in time)
 
 ---
 
