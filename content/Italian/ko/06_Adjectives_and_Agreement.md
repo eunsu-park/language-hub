@@ -115,26 +115,14 @@
 
 ## 3. 완전한 일치 패턴
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              형용사 일치 요약                                    │
-│                                                              │
-│  형용사 유형          남.단   여.단    남.복     여.복            │
-│  ────────────────   ─────  ─────   ──────   ──────          │
-│  4형 (-o/-a)        -o     -a      -i       -e              │
-│   (alto)            alto   alta    alti     alte             │
-│                                                              │
-│  2형 (-e)           -e     -e      -i       -i              │
-│   (grande)          grande grande  grandi   grandi           │
-│                                                              │
-│  -co/-ca            -co    -ca     -chi     -che             │
-│   (bianco)          bianco bianca  bianchi  bianche          │
-│                                                              │
-│  -go/-ga            -go    -ga     -ghi     -ghe             │
-│   (lungo)           lungo  lunga   lunghi   lunghe           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **형용사 일치 요약**
+>
+> | 형용사 유형 | 남.단 | 여.단 | 남.복 | 여.복 |
+> |---|---|---|---|---|
+> | 4형 -o/-a (alto) | -o | -a | -i | -e |
+> | 2형 -e (grande) | -e | -e | -i | -i |
+> | -co/-ca (bianco) | -co | -ca | -chi | -che |
+> | -go/-ga (lungo) | -go | -ga | -ghi | -ghe |
 
 ### 혼합 성별 그룹
 
@@ -290,21 +278,16 @@ QUELLO는 정관사 형태를 정확히 반영합니다 (BELLO와 동일):
 - Ci sono **più** turisti a Roma **che** a Napoli. (나폴리보다 로마에 관광객이 더 많다.)
 - È **più facile** parlare **che** scrivere. (쓰는 것보다 말하는 것이 더 쉽다.)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   DI 아니면 CHE?                                                 │
-│                                                                 │
-│   PIÙ...DI = 두 개의 명사/대명사 비교 (같은 특성)                    │
-│   Maria è più alta DI Giovanni.                                │
-│   Questo è più caro DI quello.                                 │
-│                                                                 │
-│   PIÙ...CHE = 두 가지 특성 비교 (같은 주어)                        │
-│             = 전치사, 부정사, 부사 앞                               │
-│   È più bello CHE intelligente.                                │
-│   Studia più a casa CHE in biblioteca.                         │
-│   È più facile leggere CHE scrivere.                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **DI 아니면 CHE?**
+>
+> **PIÙ...DI** = 두 개의 명사/대명사 비교 (같은 특성)
+> - Maria è più alta DI Giovanni.
+> - Questo è più caro DI quello.
+>
+> **PIÙ...CHE** = 두 가지 특성 비교 (같은 주어) / 전치사, 부정사, 부사 앞
+> - È più bello CHE intelligente.
+> - Studia più a casa CHE in biblioteca.
+> - È più facile leggere CHE scrivere.
 
 ### 7.2 ~보다 덜 (meno... di / meno... che)
 
@@ -567,24 +550,18 @@ MAGGIORE / MINORE (형/누나 / 동생 — 형제/나이 비교):
 
 ## 빠른 참조
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         형용사 일치 요약표                                       │
-│                                                              │
-│  1. 성 (남/여)과 수 (단/복) 일치                                │
-│  2. 4형: -o/-a/-i/-e                                         │
-│  3. 2형: -e/-i (남/여 동일)                                    │
-│  4. 기본 위치: 명사 뒤                                          │
-│  5. 명사 앞: 양, 순서, 미, 크기, 나이                            │
-│  6. BELLO/QUELLO: 정관사 형태를 반영                             │
-│  7. BUONO: 부정관사 형태를 반영 (단수)                            │
-│  8. 비교급: più/meno...di (명사), che (특성)                    │
-│  9. 최상급: il/la più/meno...di, -issimo/a                    │
-│  10. 불규칙: migliore/peggiore/maggiore/minore                │
-│              ottimo/pessimo/massimo/minimo                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **형용사 일치 요약표**
+>
+> 1. 성 (남/여)과 수 (단/복) 일치
+> 2. 4형: -o/-a/-i/-e
+> 3. 2형: -e/-i (남/여 동일)
+> 4. 기본 위치: 명사 뒤
+> 5. 명사 앞: 양, 순서, 미, 크기, 나이
+> 6. BELLO/QUELLO: 정관사 형태를 반영
+> 7. BUONO: 부정관사 형태를 반영 (단수)
+> 8. 비교급: più/meno...di (명사), che (특성)
+> 9. 최상급: il/la più/meno...di, -issimo/a
+> 10. 불규칙: migliore/peggiore/maggiore/minore / ottimo/pessimo/massimo/minimo
 
 ---
 
