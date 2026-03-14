@@ -40,24 +40,17 @@
 
 Unlike English, where adjectives are a separate part of speech (e.g., "The house is **big**"), Korean adjectives are a type of verb called **descriptive verbs** (형용사, hyeong-yong-sa). They conjugate just like action verbs.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│         Korean Adjectives vs. English Adjectives                  │
-│                                                                   │
-│  English:   "The house is big."                                   │
-│             noun + be-verb + adjective                             │
-│                                                                   │
-│  Korean:    "집이 커요." (jib-i keo-yo)                            │
-│             noun + particle + descriptive verb                     │
-│                                                                   │
-│  Key insight: 크다 (keuda, "to be big") IS the adjective.         │
-│  There is no separate "is" — the adjective already contains it.   │
-│                                                                   │
-│  Dictionary form:  크다 (to be big)                                │
-│  Conjugated:       커요 (is big — polite)                          │
-│  Attributive:      큰 + noun (big [noun])                          │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Adjectives vs. English Adjectives**
+>
+> - **English:** "The house is big." — noun + be-verb + adjective
+> - **Korean:** "집이 커요." (jib-i keo-yo) — noun + particle + descriptive verb
+>
+> Key insight: 크다 (keuda, "to be big") IS the adjective.
+> There is no separate "is" -- the adjective already contains it.
+>
+> - Dictionary form: 크다 (to be big)
+> - Conjugated: 커요 (is big -- polite)
+> - Attributive: 큰 + noun (big [noun])
 
 This means:
 
@@ -126,19 +119,14 @@ Korean adjectives follow the same vowel harmony rules as action verbs for the po
 
 ### 3.1 Basic Conjugation Rules
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           Adjective Conjugation Rules (해요체)                 │
-│                                                               │
-│  Step 1: Remove 다 from dictionary form → get the STEM        │
-│  Step 2: Look at the LAST VOWEL of the stem                   │
-│  Step 3: Apply vowel harmony                                  │
-│                                                               │
-│  Last vowel is ㅏ or ㅗ  →  stem + 아요                        │
-│  Last vowel is anything else  →  stem + 어요                   │
-│  Stem ends in 하  →  stem + 여요 (= 해요)                      │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Adjective Conjugation Rules (해요체)**
+>
+> 1. Remove 다 from dictionary form → get the STEM
+> 2. Look at the LAST VOWEL of the stem
+> 3. Apply vowel harmony:
+>    - Last vowel is ㅏ or ㅗ → stem + 아요
+>    - Last vowel is anything else → stem + 어요
+>    - Stem ends in 하 → stem + 여요 (= 해요)
 
 ### 3.2 Conjugation Examples
 
@@ -177,20 +165,11 @@ When an adjective directly modifies a noun (e.g., "big house"), Korean uses the 
 
 ### 4.1 Formation Rule
 
-```
-┌──────────────────────────────────────────────────────────┐
-│       Attributive Form of Adjectives (-ㄴ/은)              │
-│                                                           │
-│  Stem ends in VOWEL  →  stem + ㄴ                          │
-│    크 → 큰,  싸 → 싼,  예쁘 → 예쁜                          │
-│                                                           │
-│  Stem ends in CONSONANT  →  stem + 은                      │
-│    작 → 작은,  많 → 많은,  좋 → 좋은                         │
-│                                                           │
-│  ㅂ-irregular: ㅂ → 우 + ㄴ = 운                             │
-│    덥 → 더운,  춥 → 추운,  새롭 → 새로운                     │
-└──────────────────────────────────────────────────────────┘
-```
+> **Attributive Form of Adjectives (-ㄴ/은)**
+>
+> - Stem ends in **VOWEL** → stem + ㄴ: 크 → 큰, 싸 → 싼, 예쁘 → 예쁜
+> - Stem ends in **CONSONANT** → stem + 은: 작 → 작은, 많 → 많은, 좋 → 좋은
+> - **ㅂ-irregular**: ㅂ → 우 + ㄴ = 운: 덥 → 더운, 춥 → 추운, 새롭 → 새로운
 
 ### 4.2 Examples
 
@@ -237,20 +216,15 @@ Korean comparatives use the structure: **더 (deo, "more") + adjective + 보다 
 
 ### 5.1 Basic Comparative: A가 B보다 더 [adjective]
 
-```
-┌──────────────────────────────────────────────────────────┐
-│              Comparative Structure                         │
-│                                                           │
-│   A가/이   B보다   더   [adjective]                         │
-│   (subj)  (than)  (more) (descriptive verb)               │
-│                                                           │
-│   Example:                                                │
-│   사과가 배보다 더 커요.                                     │
-│   sagwa-ga bae-boda deo keoyo.                            │
-│   Apples are bigger than pears.                           │
-│   (apple [subj] pear [than] more is-big)                  │
-└──────────────────────────────────────────────────────────┘
-```
+> **Comparative Structure**
+>
+> A가/이 B보다 더 [adjective]
+> (subj) (than) (more) (descriptive verb)
+>
+> Example: 사과가 배보다 더 커요.
+> (sagwa-ga bae-boda deo keoyo)
+> Apples are bigger than pears.
+> (apple [subj] pear [than] more is-big)
 
 ### 5.2 Comparative Examples
 
