@@ -71,26 +71,21 @@ Sino-Korean numbers are built systematically with place-value markers:
 | 100,000 | 십만 | 10 × 10000 |
 | 1,000,000 | 백만 | 100 × 10000 |
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│         Korean Number System: The 만 (10,000) Unit                │
-│                                                                  │
-│   Korean groups numbers by 10,000 (만), NOT by 1,000.            │
-│   This is the biggest difference from English counting.          │
-│                                                                  │
-│   English:        Korean:                                        │
-│   10          →   십                                             │
-│   100         →   백                                             │
-│   1,000       →   천                                             │
-│   10,000      →   만          ← NEW unit (no English equivalent)│
-│   100,000     →   십만        (10 × 만)                          │
-│   1,000,000   →   백만        (100 × 만)                         │
-│   10,000,000  →   천만        (1000 × 만)                        │
-│   100,000,000 →   억          ← NEW unit                        │
-│                                                                  │
-│   Example: 350,000 = 35 × 만 = 삼십오만 (NOT 삼백오십천)          │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Number System: The 만 (10,000) Unit**
+>
+> Korean groups numbers by 10,000 (만), NOT by 1,000.
+> This is the biggest difference from English counting.
+>
+> - 10 → 십
+> - 100 → 백
+> - 1,000 → 천
+> - 10,000 → 만 (NEW unit, no English equivalent)
+> - 100,000 → 십만 (10 x 만)
+> - 1,000,000 → 백만 (100 x 만)
+> - 10,000,000 → 천만 (1000 x 만)
+> - 100,000,000 → 억 (NEW unit)
+>
+> Example: 350,000 = 35 x 만 = 삼십오만 (NOT 삼백오십천)
 
 ### 1.3 Phone Numbers
 
@@ -159,27 +154,21 @@ When 하나, 둘, 셋, 넷, and 스물 appear **before a counter**, they shorten
 
 ## 3. When to Use Which System
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│        Sino-Korean (일, 이, 삼)    vs    Native Korean (하나, 둘, 셋) │
-│                                                                  │
-│   Sino-Korean:                    Native Korean:                 │
-│   ✓ Dates (년/월/일)              ✓ Counting objects (+ counter) │
-│   ✓ Money (원)                    ✓ Age (살)                     │
-│   ✓ Phone numbers                 ✓ Hours (시)                   │
-│   ✓ Minutes (분) and seconds (초)  ✓ Number of items (1-99)      │
-│   ✓ Addresses                     ✓ Quantity words               │
-│   ✓ Months (월)                                                  │
-│   ✓ Numbers 100 and above                                       │
-│   ✓ Math, science, statistics                                   │
-│   ✓ Floor numbers (층)                                          │
-│   ✓ Years (년)                                                  │
-│                                                                  │
-│   HYBRID — Telling time:                                         │
-│   [Native Korean] 시 [Sino-Korean] 분                            │
-│   두 시 삼십 분 = 2:30                                           │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Sino-Korean (일, 이, 삼) vs Native Korean (하나, 둘, 셋)**
+>
+> **Sino-Korean:**
+> - Dates (년/월/일), Money (원), Phone numbers
+> - Minutes (분) and seconds (초), Addresses, Months (월)
+> - Numbers 100 and above, Math/science/statistics
+> - Floor numbers (층), Years (년)
+>
+> **Native Korean:**
+> - Counting objects (+ counter), Age (살)
+> - Hours (시), Number of items (1-99), Quantity words
+>
+> **HYBRID -- Telling time:**
+> - [Native Korean] 시 [Sino-Korean] 분
+> - 두 시 삼십 분 = 2:30
 
 ---
 
@@ -248,26 +237,22 @@ Korean tells time using a **hybrid** of both number systems:
 - **Minutes**: Sino-Korean numbers + 분 (bun)
 - **Seconds**: Sino-Korean numbers + 초 (cho)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Telling Time in Korean                          │
-│                                                                  │
-│   [Native Korean] 시  [Sino-Korean] 분  [Sino-Korean] 초         │
-│        hours            minutes            seconds               │
-│                                                                  │
-│   3:30   →  세 시 삼십 분      (se si samsip bun)                │
-│   7:15   →  일곱 시 십오 분    (ilgop si sibo bun)               │
-│   12:00  →  열두 시            (yeoldu si)                       │
-│   1:45   →  한 시 사십오 분    (han si sasibo bun)               │
-│                                                                  │
-│   "What time is it?"  →  지금 몇 시예요?                         │
-│   "It's 3 o'clock."   →  세 시예요.                              │
-│                                                                  │
-│   AM  →  오전 (ojeon)                                            │
-│   PM  →  오후 (ohu)                                              │
-│   오후 두 시 = 2:00 PM                                           │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Telling Time in Korean**
+>
+> [Native Korean] 시 [Sino-Korean] 분 [Sino-Korean] 초
+> (hours) (minutes) (seconds)
+>
+> - 3:30 → 세 시 삼십 분 (se si samsip bun)
+> - 7:15 → 일곱 시 십오 분 (ilgop si sibo bun)
+> - 12:00 → 열두 시 (yeoldu si)
+> - 1:45 → 한 시 사십오 분 (han si sasibo bun)
+>
+> - "What time is it?" → 지금 몇 시예요?
+> - "It's 3 o'clock." → 세 시예요.
+>
+> - AM → 오전 (ojeon)
+> - PM → 오후 (ohu)
+> - 오후 두 시 = 2:00 PM
 
 ### 5.2 Hours (시)
 
@@ -430,22 +415,16 @@ Money uses **Sino-Korean numbers** + 원 (won):
 | 현금으로 할게요. | I'll pay in cash. |
 | 영수증 주세요. | Please give me a receipt. |
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Korean Currency Quick Reference                      │
-│                                                                  │
-│   Coins:   ₩10, ₩50, ₩100, ₩500                                │
-│   Bills:   ₩1,000 (천 원), ₩5,000 (오천 원),                    │
-│            ₩10,000 (만 원), ₩50,000 (오만 원)                    │
-│                                                                  │
-│   Approximate exchange rate (reference only):                    │
-│   ₩1,000 ≈ $0.75 USD                                            │
-│                                                                  │
-│   A typical coffee: 4,000-6,000원 (사천~육천 원)                  │
-│   A meal: 8,000-15,000원 (팔천~만오천 원)                         │
-│   Subway ride: 1,400원 (천사백 원)                                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Currency Quick Reference**
+>
+> - **Coins:** ₩10, ₩50, ₩100, ₩500
+> - **Bills:** ₩1,000 (천 원), ₩5,000 (오천 원), ₩10,000 (만 원), ₩50,000 (오만 원)
+>
+> Approximate exchange rate (reference only): ₩1,000 ≈ $0.75 USD
+>
+> - A typical coffee: 4,000-6,000원 (사천~육천 원)
+> - A meal: 8,000-15,000원 (팔천~만오천 원)
+> - Subway ride: 1,400원 (천사백 원)
 
 ---
 
