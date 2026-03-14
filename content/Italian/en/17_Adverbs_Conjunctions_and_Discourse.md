@@ -170,29 +170,13 @@ Some adjectives are used as adverbs without any change:
 
 ### General Rules
 
-```
-+----------------------------------------------------------+
-|  ADVERB POSITION GUIDELINES                               |
-|                                                          |
-|  1. Manner adverbs: AFTER the verb                        |
-|     Parla bene l'italiano.                               |
-|                                                          |
-|  2. Time/frequency: FLEXIBLE (beginning, after verb,      |
-|     or end of sentence)                                  |
-|     Sempre vado al bar. / Vado sempre al bar.            |
-|                                                          |
-|  3. Degree adverbs: BEFORE adjective/adverb they modify   |
-|     È molto bello. / Parla troppo velocemente.           |
-|                                                          |
-|  4. In compound tenses: usually BETWEEN auxiliary          |
-|     and past participle                                  |
-|     Ho già mangiato. / Non ho mai visto.                 |
-|                                                          |
-|  5. Negative adverbs: NON before verb, negative word      |
-|     usually after verb or between auxiliary and pp        |
-|     Non vado mai. / Non ho mai capito.                   |
-+----------------------------------------------------------+
-```
+> **ADVERB POSITION GUIDELINES**
+>
+> 1. **Manner adverbs**: AFTER the verb — Parla bene l'italiano.
+> 2. **Time/frequency**: FLEXIBLE (beginning, after verb, or end of sentence) — Sempre vado al bar. / Vado sempre al bar.
+> 3. **Degree adverbs**: BEFORE adjective/adverb they modify — È molto bello. / Parla troppo velocemente.
+> 4. **In compound tenses**: usually BETWEEN auxiliary and past participle — Ho già mangiato. / Non ho mai visto.
+> 5. **Negative adverbs**: NON before verb, negative word usually after verb or between auxiliary and pp — Non vado mai. / Non ho mai capito.
 
 ### Position in Compound Tenses
 
