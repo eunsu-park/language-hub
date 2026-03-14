@@ -33,25 +33,21 @@
 
 ### 1.1 The Importance of Greetings in Japanese Culture
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Greetings in Japanese Culture                        │
-│                                                                  │
-│   Japanese greetings (挨拶 / あいさつ / aisatsu) are deeply       │
-│   embedded in daily life and social interactions.                 │
-│                                                                  │
-│   Key principles:                                                │
-│   • Greetings show respect and social awareness                  │
-│   • The form of greeting depends on:                             │
-│     - Time of day                                                │
-│     - Relationship (close friend vs boss vs stranger)            │
-│     - Formality of the situation                                 │
-│     - Whether meeting for the first time or regularly            │
-│   • Bowing (お辞儀 / おじぎ / ojigi) accompanies greetings       │
-│   • Japanese people greet more frequently than in Western culture│
-│     (e.g., greeting coworkers each morning is expected)          │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Greetings in Japanese Culture**
+>
+> Japanese greetings (挨拶 / あいさつ / aisatsu) are deeply
+> embedded in daily life and social interactions.
+>
+> Key principles:
+> - Greetings show respect and social awareness
+> - The form of greeting depends on:
+>   - Time of day
+>   - Relationship (close friend vs boss vs stranger)
+>   - Formality of the situation
+>   - Whether meeting for the first time or regularly
+> - Bowing (お辞儀 / おじぎ / ojigi) accompanies greetings
+> - Japanese people greet more frequently than in Western culture
+>   (e.g., greeting coworkers each morning is expected)
 
 ### 1.2 Bowing Basics
 
@@ -76,14 +72,12 @@
 | こんにちは | konnichiwa | Hello / Good afternoon | ~10 AM - ~6 PM | Neutral |
 | こんばんは | konbanwa | Good evening | After ~6 PM | Neutral |
 
-```
-Timeline:
-  ─────────────────────────────────────────────────
-  Morning          Afternoon         Evening/Night
-  おはようございます  こんにちは         こんばんは
-  (~until 10 AM)   (~10 AM - 6 PM)   (~after 6 PM)
-  ─────────────────────────────────────────────────
-```
+> **Timeline:**
+> ─────────────────────────────────────────────────
+> Morning          Afternoon         Evening/Night
+> おはようございます  こんにちは         こんばんは
+> (~until 10 AM)   (~10 AM - 6 PM)   (~after 6 PM)
+> ─────────────────────────────────────────────────
 
 > **Important spelling note**: こんにち**は** and こんばん**は** — the final character は is the particle は (read "wa"), NOT わ. This is a historical spelling convention.
 
@@ -153,35 +147,31 @@ Person at home:    おかえりなさい！ (Okaerinasai!)
 
 A standard Japanese self-introduction follows a predictable pattern:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Basic Self-Introduction Template                     │
-│                                                                  │
-│   はじめまして。                                                   │
-│   (Hajimemashite.)                                               │
-│   "Nice to meet you."                                            │
-│                                                                  │
-│   [名前]と申します / [名前]です。                                    │
-│   ([Name] to moushimasu / [Name] desu.)                          │
-│   "My name is [Name]." / "I am [Name]."                         │
-│                                                                  │
-│   [国]から来ました。                                               │
-│   ([Country] kara kimashita.)                                    │
-│   "I came from [Country]."                                       │
-│                                                                  │
-│   [職業/身分]です。                                                │
-│   ([Occupation/Status] desu.)                                    │
-│   "I am a [occupation]."                                         │
-│                                                                  │
-│   [年齢]歳です。                                                   │
-│   ([Age]-sai desu.)                                              │
-│   "I am [age] years old."                                        │
-│                                                                  │
-│   どうぞよろしくおねがいします。                                      │
-│   (Douzo yoroshiku onegaishimasu.)                               │
-│   "Please treat me well."                                        │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Basic Self-Introduction Template**
+>
+> はじめまして。
+> (Hajimemashite.)
+> "Nice to meet you."
+>
+> [名前]と申します / [名前]です。
+> ([Name] to moushimasu / [Name] desu.)
+> "My name is [Name]." / "I am [Name]."
+>
+> [国]から来ました。
+> ([Country] kara kimashita.)
+> "I came from [Country]."
+>
+> [職業/身分]です。
+> ([Occupation/Status] desu.)
+> "I am a [occupation]."
+>
+> [年齢]歳です。
+> ([Age]-sai desu.)
+> "I am [age] years old."
+>
+> どうぞよろしくおねがいします。
+> (Douzo yoroshiku onegaishimasu.)
+> "Please treat me well."
 
 ### 4.2 Key Patterns
 
@@ -279,23 +269,19 @@ Please treat me well."
 
 ### 5.1 What is です/ます Form?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│               です/ます — The Polite Form                         │
-│                                                                  │
-│   です (desu) — polite copula ("is/am/are")                      │
-│   ます (masu) — polite verb ending                               │
-│                                                                  │
-│   This is the STANDARD form for:                                 │
-│   • Speaking to strangers                                        │
-│   • Speaking to colleagues                                       │
-│   • Speaking to anyone you don't know well                       │
-│   • Any situation where you want to be polite                    │
-│                                                                  │
-│   As a beginner, ALWAYS use です/ます form.                       │
-│   It is never wrong to be polite in Japanese.                    │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **です/ます — The Polite Form**
+>
+> - **です (desu)**: polite copula ("is/am/are")
+> - **ます (masu)**: polite verb ending
+>
+> This is the STANDARD form for:
+> - Speaking to strangers
+> - Speaking to colleagues
+> - Speaking to anyone you don't know well
+> - Any situation where you want to be polite
+>
+> As a beginner, ALWAYS use です/ます form.
+> It is never wrong to be polite in Japanese.
 
 ### 5.2 です (desu) — The Polite Copula
 
@@ -451,21 +437,17 @@ Golden rule: When in doubt, use polite form.
 
 ### 9.1 Business Card Exchange (名刺交換 / めいしこうかん)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│          Business Card Exchange Etiquette                         │
-│                                                                  │
-│   1. Hold your card with both hands, text facing the recipient   │
-│   2. Present at chest height with a slight bow                   │
-│   3. Receive the other person's card with both hands             │
-│   4. Read it carefully — never write on it or put it in a pocket │
-│   5. Place it on the table during the meeting                    │
-│   6. Store it respectfully in a card case afterward              │
-│                                                                  │
-│   Say: "頂戴いたします" (choudai itashimasu)                      │
-│        = "I humbly receive this" when accepting                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Business Card Exchange Etiquette**
+>
+> 1. Hold your card with both hands, text facing the recipient
+> 2. Present at chest height with a slight bow
+> 3. Receive the other person's card with both hands
+> 4. Read it carefully — never write on it or put it in a pocket
+> 5. Place it on the table during the meeting
+> 6. Store it respectfully in a card case afterward
+>
+> Say: "頂戴いたします" (choudai itashimasu)
+> = "I humbly receive this" when accepting
 
 ### 9.2 Seasonal Greetings
 
