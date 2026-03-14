@@ -28,21 +28,17 @@
 
 ## 1. The Four Subjunctive Tenses: Overview
 
-```
-+----------------------------------------------------------+
-|  THE FOUR SUBJUNCTIVE TENSES                              |
-|                                                          |
-|  SIMPLE TENSES:                                          |
-|  1. Congiuntivo presente  — present/future subjunctive   |
-|  2. Congiuntivo imperfetto — past subjunctive             |
-|                                                          |
-|  COMPOUND TENSES:                                        |
-|  3. Congiuntivo passato   — present perfect subjunctive  |
-|  4. Congiuntivo trapassato — past perfect subjunctive    |
-|                                                          |
-|  Compound = subjunctive of avere/essere + past participle|
-+----------------------------------------------------------+
-```
+> **THE FOUR SUBJUNCTIVE TENSES**
+>
+> **SIMPLE TENSES:**
+> 1. Congiuntivo presente — present/future subjunctive
+> 2. Congiuntivo imperfetto — past subjunctive
+>
+> **COMPOUND TENSES:**
+> 3. Congiuntivo passato — present perfect subjunctive
+> 4. Congiuntivo trapassato — past perfect subjunctive
+>
+> Compound = subjunctive of avere/essere + past participle
 
 ### Quick Reference: parlare (with avere)
 
@@ -215,22 +211,13 @@ The tense in the main clause determines which subjunctive tense to use in the de
 
 Type 1 conditional sentences express **real or likely** conditions.
 
-```
-+----------------------------------------------------------+
-|  TYPE 1: REALITY / HIGH PROBABILITY                       |
-|                                                          |
-|  SE + PRESENTE → PRESENTE / FUTURO / IMPERATIVO          |
-|                                                          |
-|  Se piove, resto a casa.                                 |
-|  (If it rains, I stay home.)                             |
-|                                                          |
-|  Se pioverà, resteremo a casa.                           |
-|  (If it rains, we'll stay home.)                         |
-|                                                          |
-|  Se hai fame, mangia qualcosa!                           |
-|  (If you're hungry, eat something!)                      |
-+----------------------------------------------------------+
-```
+> **TYPE 1: REALITY / HIGH PROBABILITY**
+>
+> SE + PRESENTE → PRESENTE / FUTURO / IMPERATIVO
+>
+> - Se piove, resto a casa. (If it rains, I stay home.)
+> - Se pioverà, resteremo a casa. (If it rains, we'll stay home.)
+> - Se hai fame, mangia qualcosa! (If you're hungry, eat something!)
 
 ### Examples
 
@@ -248,19 +235,12 @@ Type 1 conditional sentences express **real or likely** conditions.
 
 Type 2 conditional sentences express **hypothetical or unlikely** conditions in the present/future.
 
-```
-+----------------------------------------------------------+
-|  TYPE 2: POSSIBILITY / UNLIKELY / HYPOTHETICAL            |
-|                                                          |
-|  SE + CONGIUNTIVO IMPERFETTO → CONDIZIONALE PRESENTE     |
-|                                                          |
-|  Se avessi tempo, viaggerei di più.                      |
-|  (If I had time, I would travel more.)                   |
-|                                                          |
-|  Se fossi ricco, comprerei una villa.                    |
-|  (If I were rich, I would buy a villa.)                  |
-+----------------------------------------------------------+
-```
+> **TYPE 2: POSSIBILITY / UNLIKELY / HYPOTHETICAL**
+>
+> SE + CONGIUNTIVO IMPERFETTO → CONDIZIONALE PRESENTE
+>
+> - Se avessi tempo, viaggerei di più. (If I had time, I would travel more.)
+> - Se fossi ricco, comprerei una villa. (If I were rich, I would buy a villa.)
 
 ### Examples
 
@@ -279,19 +259,12 @@ Type 2 conditional sentences express **hypothetical or unlikely** conditions in 
 
 Type 3 conditional sentences express **impossible or counterfactual** conditions about the past.
 
-```
-+----------------------------------------------------------+
-|  TYPE 3: IMPOSSIBILITY / COUNTERFACTUAL (PAST)            |
-|                                                          |
-|  SE + CONGIUNTIVO TRAPASSATO → CONDIZIONALE PASSATO      |
-|                                                          |
-|  Se avessi studiato, avrei superato l'esame.             |
-|  (If I had studied, I would have passed the exam.)       |
-|                                                          |
-|  Se fossi partito prima, saresti arrivato in tempo.      |
-|  (If you had left earlier, you would have arrived on time.)|
-+----------------------------------------------------------+
-```
+> **TYPE 3: IMPOSSIBILITY / COUNTERFACTUAL (PAST)**
+>
+> SE + CONGIUNTIVO TRAPASSATO → CONDIZIONALE PASSATO
+>
+> - Se avessi studiato, avrei superato l'esame. (If I had studied, I would have passed the exam.)
+> - Se fossi partito prima, saresti arrivato in tempo. (If you had left earlier, you would have arrived on time.)
 
 ### Examples
 
