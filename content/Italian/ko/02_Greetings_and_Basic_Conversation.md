@@ -23,22 +23,17 @@
 
 ## 1. 시간대별 인사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     시간대별 인사                                  │
-│                                                                 │
-│   06:00 ─────── 13:00 ─────── 18:00 ─────── 06:00              │
-│   │ Buongiorno  │ Buon pomeriggio│ Buonasera     │             │
-│   │(좋은 아침)   │(좋은 오후)      │(좋은 저녁)    │              │
-│   │             │  (덜 흔함)      │               │              │
-│                                                                 │
-│   Buonanotte = 안녕히 주무세요 (잠자리에 들 때 작별 인사만)          │
-│                                                                 │
-│   ※ Buongiorno는 이른 오후까지 광범위하게 사용됩니다                 │
-│   ※ Buonasera는 오후 5-6시경 시작 (지역에 따라 다름)               │
-│   ※ Ciao!는 언제든 가능 (비격식만)                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **시간대별 인사**
+>
+> 06:00 — 13:00: Buongiorno (좋은 아침)
+> 13:00 — 18:00: Buon pomeriggio (좋은 오후, 덜 흔함)
+> 18:00 — 06:00: Buonasera (좋은 저녁)
+>
+> Buonanotte = 안녕히 주무세요 (잠자리에 들 때 작별 인사만)
+>
+> - Buongiorno는 이른 오후까지 광범위하게 사용됩니다
+> - Buonasera는 오후 5-6시경 시작 (지역에 따라 다름)
+> - Ciao!는 언제든 가능 (비격식만)
 
 | 시간 | 인사 | 사용법 |
 |------|------|--------|
@@ -85,27 +80,16 @@
 
 ### 3.1 두 가지 "당신"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   TU (비격식 "너/당신")          LEI (격식 "당신")                 │
-│   ├── 친구 & 동료                ├── 모르는 사람                   │
-│   ├── 가족                      ├── 어르신                       │
-│   ├── 어린이                     ├── 상사 / 윗사람                 │
-│   ├── 같은 나이 급우              ├── 공무원 / 경찰                 │
-│   └── 비격식 상황                 └── 격식 상황                    │
-│                                                                 │
-│   동사: 2인칭 단수                동사: 3인칭 단수                  │
-│   Come stai? (어떻게 지내?)       Come sta? (어떻게 지내십니까?)     │
-│   Hai tempo? (시간 있어?)         Ha tempo?                       │
-│                                                                 │
-│   ※ Lei는 글에서 lei (그녀)와 구별하기 위해 항상 대문자로 씁니다.     │
-│     이것은 이탈리아어 고유의 관습입니다.                              │
-│   ※ 확실하지 않으면 LEI를 사용하세요 — tu로 전환하는 것을              │
-│     "dare del tu"라 하며 보통 상호 합의가 필요합니다.                 │
-│   ※ Voi (너희/여러분)는 격식·비격식 모두에서 복수로 사용됩니다.        │
-│     Loro (격식 복수 "당신들")는 존재하지만 드뭅니다.                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **TU (비격식 "너/당신")** — 친구 & 동료, 가족, 어린이, 같은 나이 급우, 비격식 상황
+> **LEI (격식 "당신")** — 모르는 사람, 어르신, 상사 / 윗사람, 공무원 / 경찰, 격식 상황
+>
+> - **동사**: TU = 2인칭 단수 / LEI = 3인칭 단수
+> - Come stai? (어떻게 지내?) / Come sta? (어떻게 지내십니까?)
+> - Hai tempo? (시간 있어?) / Ha tempo?
+>
+> - Lei는 글에서 lei (그녀)와 구별하기 위해 항상 대문자로 씁니다. 이것은 이탈리아어 고유의 관습입니다.
+> - 확실하지 않으면 LEI를 사용하세요 — tu로 전환하는 것을 "dare del tu"라 하며 보통 상호 합의가 필요합니다.
+> - Voi (너희/여러분)는 격식·비격식 모두에서 복수로 사용됩니다. Loro (격식 복수 "당신들")는 존재하지만 드뭅니다.
 
 ### 3.2 빠른 동사 형태 비교
 
@@ -259,27 +243,18 @@ A: Tutto bene!                → 다 좋아!
 
 ## 6. 작별 인사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   격식 작별                       비격식 작별                      │
-│   ─────────────────              ──────────────────              │
-│   Arrivederci.                   Ciao!                           │
-│   ArrivederLa. (매우 격식)        Ci vediamo!                     │
-│   A presto.                      A dopo!                         │
-│   Buona giornata.                Stammi bene!                    │
-│   Buona serata.                  A presto!                       │
-│                                                                 │
-│   시간별:                                                        │
-│   A domani.       (내일 봐요.)                                   │
-│   A lunedì.       (월요일에 봐요.)                                │
-│   Alla prossima.  (다음에 또요.)                                  │
-│   Buonanotte.     (안녕히 주무세요. — 잠자리 작별만)                │
-│                                                                 │
-│   ※ Ciao는 인사와 작별 모두에 사용 (비격식)                        │
-│   ※ Arrivederci는 격식/중립 작별에 항상 안전                       │
-│   ※ ArrivederLa는 극존칭 (Lei 형태)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **격식 작별**: Arrivederci. / ArrivederLa. (매우 격식) / A presto. / Buona giornata. / Buona serata.
+> **비격식 작별**: Ciao! / Ci vediamo! / A dopo! / Stammi bene! / A presto!
+>
+> **시간별**:
+> - A domani. (내일 봐요.)
+> - A lunedì. (월요일에 봐요.)
+> - Alla prossima. (다음에 또요.)
+> - Buonanotte. (안녕히 주무세요. — 잠자리 작별만)
+>
+> - Ciao는 인사와 작별 모두에 사용 (비격식)
+> - Arrivederci는 격식/중립 작별에 항상 안전
+> - ArrivederLa는 극존칭 (Lei 형태)
 
 ---
 
@@ -306,27 +281,13 @@ A: Tutto bene!                → 다 좋아!
 
 ### 7.2 사과 표현
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Scusa (tu) / Scusi (Lei)                                      │
-│   → 미안해요 / 실례합니다 (관심 끌기, 사소한 일)                    │
-│                                                                 │
-│   Mi scusi (Lei) / Scusami (tu)                                 │
-│   → 실례합니다 (더 정중/개인적)                                    │
-│                                                                 │
-│   Mi dispiace (molto).                                          │
-│   → (매우) 죄송합니다. (진심 어린 사과, 동정 표현)                   │
-│                                                                 │
-│   Chiedo scusa.                                                 │
-│   → 사과드립니다. (더 격식)                                       │
-│                                                                 │
-│   Permesso.                                                     │
-│   → 실례합니다. (지나갈 때, 방/엘리베이터에 들어갈 때)               │
-│                                                                 │
-│   È stata colpa mia. → 제 잘못이었습니다.                         │
-│   Non era mia intenzione. → 의도한 것이 아니었습니다.              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> - **Scusa (tu) / Scusi (Lei)** → 미안해요 / 실례합니다 (관심 끌기, 사소한 일)
+> - **Mi scusi (Lei) / Scusami (tu)** → 실례합니다 (더 정중/개인적)
+> - **Mi dispiace (molto).** → (매우) 죄송합니다. (진심 어린 사과, 동정 표현)
+> - **Chiedo scusa.** → 사과드립니다. (더 격식)
+> - **Permesso.** → 실례합니다. (지나갈 때, 방/엘리베이터에 들어갈 때)
+> - **È stata colpa mia.** → 제 잘못이었습니다.
+> - **Non era mia intenzione.** → 의도한 것이 아니었습니다.
 
 **사과에 대한 응답:**
 - **Non fa niente.** — 아무것도 아니에요.
@@ -406,30 +367,26 @@ B: Grazie! Tutti sono molto gentili.
 
 ### 9.1 생존 표현
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   첫날을 위한 필수 표현                                           │
-│                                                                 │
-│   Per favore.                     → 부탁합니다.                   │
-│   Grazie.                         → 감사합니다.                   │
-│   Prego.                          → 천만에요.                     │
-│   Sì. / No.                      → 네. / 아니오.                 │
-│   Non capisco.                    → 이해하지 못합니다.              │
-│   Può ripetere, per favore?      → 다시 말씀해 주시겠어요?         │
-│   Come si dice ___ in italiano?   → 이탈리아어로 ___을 뭐라 하나요? │
-│   Che cosa significa ___?         → ___은 무슨 뜻인가요?           │
-│   Più lentamente, per favore.    → 더 천천히요, 부탁합니다.        │
-│   Non parlo (bene) l'italiano.   → 이탈리아어를 (잘) 못합니다.     │
-│   Parlo un po' di italiano.      → 이탈리아어를 조금 합니다.       │
-│   Parla inglese?                  → 영어 하시나요?                │
-│   Dov'è il bagno?                → 화장실이 어디인가요?            │
-│   Quanto costa?                   → 얼마인가요?                   │
-│   Il conto, per favore.          → 계산서 부탁합니다.              │
-│   Aiuto!                          → 도와주세요!                   │
-│   Mi sono perso/a.               → 길을 잃었습니다. (남/여)        │
-│   Posso avere...?                → ~을 받을 수 있을까요?           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **첫날을 위한 필수 표현**
+>
+> - **Per favore.** → 부탁합니다.
+> - **Grazie.** → 감사합니다.
+> - **Prego.** → 천만에요.
+> - **Sì. / No.** → 네. / 아니오.
+> - **Non capisco.** → 이해하지 못합니다.
+> - **Può ripetere, per favore?** → 다시 말씀해 주시겠어요?
+> - **Come si dice ___ in italiano?** → 이탈리아어로 ___을 뭐라 하나요?
+> - **Che cosa significa ___?** → ___은 무슨 뜻인가요?
+> - **Più lentamente, per favore.** → 더 천천히요, 부탁합니다.
+> - **Non parlo (bene) l'italiano.** → 이탈리아어를 (잘) 못합니다.
+> - **Parlo un po' di italiano.** → 이탈리아어를 조금 합니다.
+> - **Parla inglese?** → 영어 하시나요?
+> - **Dov'è il bagno?** → 화장실이 어디인가요?
+> - **Quanto costa?** → 얼마인가요?
+> - **Il conto, per favore.** → 계산서 부탁합니다.
+> - **Aiuto!** → 도와주세요!
+> - **Mi sono perso/a.** → 길을 잃었습니다. (남/여)
+> - **Posso avere...?** → ~을 받을 수 있을까요?
 
 ### 9.2 기차역에서
 
@@ -580,24 +537,12 @@ quanto costa, grazie, arrivederci
 
 ## 빠른 참조 카드
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   인사                 작별                  공손한 표현          │
-│   Ciao!               Ciao!                Per favore.         │
-│   Buongiorno!         Arrivederci!         Grazie.             │
-│   Buonasera!          Ci vediamo!          Prego.              │
-│   Salve!              A presto!            Mi scusi.           │
-│   Come stai/sta?      A domani!            Mi dispiace.        │
-│   Come va?            Buonanotte!          Permesso.           │
-│                                                                 │
-│   자기소개              생존 표현                                 │
-│   Mi chiamo...        Non capisco.                              │
-│   Sono di...          Può ripetere?                             │
-│   Ho ... anni.        Più lentamente, per favore.               │
-│   Piacere!            Dov'è...?                                 │
-│   Piacere mio.        Quanto costa?                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **인사**: Ciao! / Buongiorno! / Buonasera! / Salve! / Come stai/sta? / Come va?
+> **작별**: Ciao! / Arrivederci! / Ci vediamo! / A presto! / A domani! / Buonanotte!
+> **공손한 표현**: Per favore. / Grazie. / Prego. / Mi scusi. / Mi dispiace. / Permesso.
+>
+> **자기소개**: Mi chiamo... / Sono di... / Ho ... anni. / Piacere! / Piacere mio.
+> **생존 표현**: Non capisco. / Può ripetere? / Più lentamente, per favore. / Dov'è...? / Quanto costa?
 
 ---
 
