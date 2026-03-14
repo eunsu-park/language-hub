@@ -1,0 +1,451 @@
+lesson: 12_Mencius_and_Confucian_Classics
+lesson_number: 12
+hanja_level: L3
+categories:
+- id: mencius_vocabulary
+  label:
+    en: Mencius Core Vocabulary
+    ko: 맹자 핵심 어휘
+  type: vocabulary
+  words:
+  - classical_chinese: 性
+    reading: 성
+    meaning_kun: 성품
+    translation:
+      en: human nature; innate character
+      ko: 성품; 본성
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + birth (生). Mencius argued human nature is inherently good (性善)."
+      ko: "마음(忄) + 나다(生). 맹자는 인간 본성이 본래 선하다고 주장함(性善)."
+  - classical_chinese: 善
+    reading: 선
+    meaning_kun: 착할
+    translation:
+      en: good; virtuous; to be skilled at
+      ko: 착하다; 선하다; 잘하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + 言. Goodness. 性善說 = theory of innate goodness of human nature."
+      ko: "양(羊) + 言. 착함. 性善說 = 인간 본성이 선하다는 학설."
+  - classical_chinese: 惻
+    reading: 측
+    meaning_kun: 슬플
+    translation:
+      en: compassion; sympathy; pity
+      ko: 측은하다; 불쌍히 여기다
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + 則. Feeling of pity. 惻隱之心 = heart of compassion."
+      ko: "마음(忄) + 則. 불쌍한 마음. 惻隱之心 = 측은지심."
+  - classical_chinese: 隱
+    reading: 은
+    meaning_kun: 숨을
+    translation:
+      en: to hide; to feel pity; hidden
+      ko: 숨다; 측은히 여기다
+    gender: null
+    plural: null
+    notes:
+      en: "To conceal. In 惻隱: feeling hidden pain for others; compassion."
+      ko: "감추다. 惻隱에서: 남의 아픔을 숨기지 못하는 마음; 동정심."
+  - classical_chinese: 羞
+    reading: 수
+    meaning_kun: 부끄러울
+    translation:
+      en: shame; to feel ashamed; to offer
+      ko: 부끄러워하다; 바치다
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + 丑. Feeling shame. 羞惡之心 = heart of shame and dislike."
+      ko: "양(羊) + 丑. 부끄러움. 羞惡之心 = 수오지심."
+  - classical_chinese: 惡
+    reading: 오
+    meaning_kun: 미워할
+    translation:
+      en: to hate; to dislike (read 오)
+      ko: 미워하다; 싫어하다
+    gender: null
+    plural: null
+    notes:
+      en: "Read 오 as verb 'to hate/dislike'. (Read 악 as adjective 'evil'.) 羞惡之心."
+      ko: "동사 '미워하다'로 읽으면 '오'. (형용사 '악하다'로 읽으면 '악'.) 羞惡之心."
+  - classical_chinese: 辭
+    reading: 사
+    meaning_kun: 말씀
+    translation:
+      en: to decline; words; to resign
+      ko: 사양하다; 말; 물러나다
+    gender: null
+    plural: null
+    notes:
+      en: "To decline politely; words/speech. 辭讓之心 = heart of deference."
+      ko: "겸손히 사양하다; 말. 辭讓之心 = 사양지심."
+  - classical_chinese: 讓
+    reading: 양
+    meaning_kun: 사양할
+    translation:
+      en: to yield; to defer; to concede
+      ko: 사양하다; 양보하다
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 襄. To yield to others; deference. 辭讓之心."
+      ko: "말(言) + 襄. 남에게 양보하다; 겸양. 辭讓之心."
+  - classical_chinese: 是
+    reading: 시
+    meaning_kun: 이
+    translation:
+      en: this; right; correct
+      ko: 이것; 옳다; 바르다
+    gender: null
+    plural: null
+    notes:
+      en: "Correct; right. 是非之心 = heart of right and wrong (moral judgment)."
+      ko: "옳다; 바르다. 是非之心 = 시비지심(도덕적 판단)."
+  - classical_chinese: 端
+    reading: 단
+    meaning_kun: 끝
+    translation:
+      en: beginning; sprout; clue; upright
+      ko: 단서; 싹; 바르다
+    gender: null
+    plural: null
+    notes:
+      en: "Four Beginnings (四端): 惻隱, 羞惡, 辭讓, 是非. Sprouts of virtue."
+      ko: "사단(四端): 惻隱, 羞惡, 辭讓, 是非. 덕의 싹."
+  - classical_chinese: 養
+    reading: 양
+    meaning_kun: 기를
+    translation:
+      en: to nurture; to cultivate; to raise
+      ko: 기르다; 기르다; 양육하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + food (食). To nurture. 養氣 = cultivating one's vital energy."
+      ko: "양(羊) + 먹이(食). 기르다. 養氣 = 기를 기르다."
+  - classical_chinese: 氣
+    reading: 기
+    meaning_kun: 기운
+    translation:
+      en: vital energy; spirit; breath
+      ko: 기운; 정기; 호흡
+    gender: null
+    plural: null
+    notes:
+      en: "Steam rising from rice. Vital energy. 浩然之氣 = vast, flowing vital energy."
+      ko: "밥에서 김이 오르는 모양. 기운. 浩然之氣 = 호연지기."
+  - classical_chinese: 浩
+    reading: 호
+    meaning_kun: 넓을
+    translation:
+      en: vast; grand; immense
+      ko: 넓다; 크다; 호탕하다
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 告. Vast like water. 浩然之氣 = vast, overflowing spirit."
+      ko: "물(氵) + 告. 물처럼 넓다. 浩然之氣 = 호연지기."
+  - classical_chinese: 民
+    reading: 민
+    meaning_kun: 백성
+    translation:
+      en: the people; citizens
+      ko: 백성
+    gender: null
+    plural: null
+    notes:
+      en: "The common people. Mencius: 民爲貴 = the people are the most important."
+      ko: "일반 백성. 맹자: 民爲貴 = 백성이 가장 귀하다."
+  - classical_chinese: 貴
+    reading: 귀
+    meaning_kun: 귀할
+    translation:
+      en: precious; noble; expensive
+      ko: 귀하다; 존귀하다
+    gender: null
+    plural: null
+    notes:
+      en: "Shell/money (貝) + 臾. Precious; valued. 民爲貴 = the people are most precious."
+      ko: "조개/돈(貝) + 臾. 귀하다; 소중하다. 民爲貴 = 백성이 가장 귀하다."
+  - classical_chinese: 輕
+    reading: 경
+    meaning_kun: 가벼울
+    translation:
+      en: light; to slight; to disregard
+      ko: 가볍다; 가볍게 여기다
+    gender: null
+    plural: null
+    notes:
+      en: "Cart (車) + 巠. Light in weight. 社稷次之君爲輕 = the ruler is the least important."
+      ko: "수레(車) + 巠. 가볍다. 社稷次之君爲輕 = 임금이 가장 가볍다."
+- id: four_books_terms
+  label:
+    en: Four Books Terminology
+    ko: 사서(四書) 용어
+  type: vocabulary
+  words:
+  - classical_chinese: 大學
+    reading: 대학
+    meaning_kun: 큰 배울
+    translation:
+      en: Great Learning (Confucian classic)
+      ko: 대학 (유교 경전)
+    gender: null
+    plural: null
+    notes:
+      en: "大 + 學. One of the Four Books. Teaches 修身齊家治國平天下."
+      ko: "大 + 學. 사서(四書)의 하나. 修身齊家治國平天下를 가르침."
+  - classical_chinese: 中庸
+    reading: 중용
+    meaning_kun: 가운데 떳떳할
+    translation:
+      en: Doctrine of the Mean (Confucian classic)
+      ko: 중용 (유교 경전)
+    gender: null
+    plural: null
+    notes:
+      en: "中 (center) + 庸 (constant). The balanced mean; moderation as a virtue."
+      ko: "中(가운데) + 庸(떳떳하다). 치우치지 않는 중도; 덕으로서의 절제."
+  - classical_chinese: 修
+    reading: 수
+    meaning_kun: 닦을
+    translation:
+      en: to cultivate; to repair; to practice
+      ko: 닦다; 수양하다; 수리하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 攸. To cultivate oneself. 修身 = self-cultivation."
+      ko: "사람(亻) + 攸. 자신을 수양하다. 修身 = 수신."
+  - classical_chinese: 身
+    reading: 신
+    meaning_kun: 몸
+    translation:
+      en: body; self; oneself
+      ko: 몸; 자신
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a pregnant body. The self. 修身 = cultivating oneself."
+      ko: "임신한 몸의 상형자. 자신. 修身 = 자신을 수양하다."
+  - classical_chinese: 齊
+    reading: 제
+    meaning_kun: 가지런할
+    translation:
+      en: to regulate; orderly; even; equal
+      ko: 가지런하다; 고르다; 정돈하다
+    gender: null
+    plural: null
+    notes:
+      en: "Grain growing evenly. 齊家 = regulating one's family."
+      ko: "곡식이 고르게 자란 모양. 齊家 = 가정을 바로잡다."
+  - classical_chinese: 家
+    reading: 가
+    meaning_kun: 집
+    translation:
+      en: family; household; home
+      ko: 집; 가정
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + pig (豕). Home where livestock is kept. 齊家 = ordering the family."
+      ko: "지붕(宀) + 돼지(豕). 가축을 기르는 집. 齊家 = 집안을 다스리다."
+  - classical_chinese: 國
+    reading: 국
+    meaning_kun: 나라
+    translation:
+      en: country; nation; state
+      ko: 나라
+    gender: null
+    plural: null
+    notes:
+      en: "Enclosure (囗) + 或 (territory). A nation-state. 治國 = governing the state."
+      ko: "울타리(囗) + 或(영토). 국가. 治國 = 나라를 다스리다."
+  - classical_chinese: 平
+    reading: 평
+    meaning_kun: 평평할
+    translation:
+      en: peace; level; equal; to pacify
+      ko: 평화; 평평하다; 고르다
+    gender: null
+    plural: null
+    notes:
+      en: "Level; even; peaceful. 平天下 = bringing peace to the world."
+      ko: "평평하다; 고르다; 평화롭다. 平天下 = 천하를 평정하다."
+  - classical_chinese: 格
+    reading: 격
+    meaning_kun: 격식
+    translation:
+      en: to investigate; pattern; standard
+      ko: 궁구하다; 격식; 표준
+    gender: null
+    plural: null
+    notes:
+      en: "Tree (木) + 各. To arrive at; to investigate. 格物 = investigating things."
+      ko: "나무(木) + 各. 이르다; 궁구하다. 格物 = 사물을 연구하다."
+  - classical_chinese: 物
+    reading: 물
+    meaning_kun: 만물
+    translation:
+      en: things; objects; the myriad things
+      ko: 물건; 사물; 만물
+    gender: null
+    plural: null
+    notes:
+      en: "Ox (牛) + 勿. Things; objects. 格物致知 = investigate things to extend knowledge."
+      ko: "소(牛) + 勿. 사물; 물건. 格物致知 = 사물을 궁구하여 앎에 이르다."
+  - classical_chinese: 致
+    reading: 치
+    meaning_kun: 이를
+    translation:
+      en: to reach; to extend; to cause
+      ko: 이르다; 이르게 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (至) + 攵. To cause to arrive; to extend. 致知 = extending knowledge."
+      ko: "이르다(至) + 攵. 이르게 하다; 확장하다. 致知 = 앎에 이르다."
+  - classical_chinese: 誠
+    reading: 성
+    meaning_kun: 정성
+    translation:
+      en: sincerity; truthfulness
+      ko: 정성; 성실; 진실함
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 成 (complete). Complete truthfulness. 誠意 = making thoughts sincere."
+      ko: "말(言) + 成(이루다). 완전한 진실함. 誠意 = 뜻을 정성스럽게 하다."
+- id: five_relations
+  label:
+    en: Five Human Relations (五倫)
+    ko: 오륜(五倫)
+  type: vocabulary
+  words:
+  - classical_chinese: 父子
+    reading: 부자
+    meaning_kun: 아비 아들
+    translation:
+      en: father and son
+      ko: 아버지와 아들
+    gender: null
+    plural: null
+    notes:
+      en: "First relation: 父子有親 = between father and son there is affection."
+      ko: "제1 관계: 父子有親 = 아버지와 아들 사이에는 친함이 있다."
+  - classical_chinese: 親
+    reading: 친
+    meaning_kun: 친할
+    translation:
+      en: closeness; affection; parents
+      ko: 친하다; 사랑; 어버이
+    gender: null
+    plural: null
+    notes:
+      en: "To be close; affection. 父子有親 = between parent and child there is affection."
+      ko: "친하다; 친애. 父子有親 = 부자 간에 친함이 있다."
+  - classical_chinese: 君臣
+    reading: 군신
+    meaning_kun: 임금 신하
+    translation:
+      en: ruler and minister
+      ko: 임금과 신하
+    gender: null
+    plural: null
+    notes:
+      en: "Second relation: 君臣有義 = between ruler and minister there is righteousness."
+      ko: "제2 관계: 君臣有義 = 임금과 신하 사이에는 의리가 있다."
+  - classical_chinese: 夫婦
+    reading: 부부
+    meaning_kun: 지아비 지어미
+    translation:
+      en: husband and wife
+      ko: 남편과 아내
+    gender: null
+    plural: null
+    notes:
+      en: "Third relation: 夫婦有別 = between husband and wife there is distinction."
+      ko: "제3 관계: 夫婦有別 = 남편과 아내 사이에는 분별이 있다."
+  - classical_chinese: 別
+    reading: 별
+    meaning_kun: 나눌
+    translation:
+      en: distinction; to separate; different
+      ko: 나누다; 분별; 다르다
+    gender: null
+    plural: null
+    notes:
+      en: "Knife (刂) + 另. To separate; to distinguish. 夫婦有別."
+      ko: "칼(刂) + 另. 나누다; 구별하다. 夫婦有別."
+  - classical_chinese: 長幼
+    reading: 장유
+    meaning_kun: 어른 어릴
+    translation:
+      en: elder and younger
+      ko: 어른과 아이
+    gender: null
+    plural: null
+    notes:
+      en: "Fourth relation: 長幼有序 = between elder and younger there is order."
+      ko: "제4 관계: 長幼有序 = 어른과 아이 사이에는 차례가 있다."
+  - classical_chinese: 序
+    reading: 서
+    meaning_kun: 차례
+    translation:
+      en: order; sequence; preface
+      ko: 차례; 순서; 서문
+    gender: null
+    plural: null
+    notes:
+      en: "Building (广) + 予. A hall with proper order; sequence. 長幼有序."
+      ko: "집(广) + 予. 질서가 있는 건물; 차례. 長幼有序."
+  - classical_chinese: 朋友
+    reading: 붕우
+    meaning_kun: 벗 벗
+    translation:
+      en: friends
+      ko: 벗; 친구
+    gender: null
+    plural: null
+    notes:
+      en: "Fifth relation: 朋友有信 = between friends there is trust."
+      ko: "제5 관계: 朋友有信 = 친구 사이에는 신의가 있다."
+  - classical_chinese: 倫
+    reading: 륜
+    meaning_kun: 인륜
+    translation:
+      en: human relations; ethics; order
+      ko: 인륜; 윤리; 질서
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 侖 (order). Human ethical relationships. 五倫 = Five Relations."
+      ko: "사람(亻) + 侖(순서). 인간의 윤리적 관계. 五倫 = 오륜."
+  - classical_chinese: 婦
+    reading: 부
+    meaning_kun: 지어미
+    translation:
+      en: wife; married woman
+      ko: 아내; 부인
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + broom (帚). A woman managing the household."
+      ko: "여인(女) + 빗자루(帚). 집안을 관리하는 여인."
+  - classical_chinese: 幼
+    reading: 유
+    meaning_kun: 어릴
+    translation:
+      en: young; immature; child
+      ko: 어리다; 어린아이
+    gender: null
+    plural: null
+    notes:
+      en: "Thread (幺) + strength (力). Small and weak; young. 長幼有序."
+      ko: "실(幺) + 힘(力). 작고 약한; 어린. 長幼有序."
