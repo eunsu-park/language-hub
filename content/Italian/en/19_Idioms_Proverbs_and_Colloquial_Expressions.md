@@ -325,59 +325,27 @@ Italian communication is famously rich in gestures. These are not random; they h
 
 ### 10.1 Essential Italian Gestures
 
-```
-+----------------------------------------------------------+
-|          ITALIAN GESTURE GUIDE                            |
-+----------------------------------------------------------+
-|                                                          |
-|  1. "MA CHE VUOI?" (What do you want?)                  |
-|     Fingers bunched together, tips pointing up,          |
-|     hand moves up and down repeatedly.                   |
-|     → The most iconic Italian gesture.                   |
-|     → Expresses: confusion, frustration, "What?!"        |
-|                                                          |
-|  2. "PERFETTO" (Perfect)                                 |
-|     Thumb and index finger form a circle (OK sign),      |
-|     other fingers extended.                              |
-|     → Means: delicious, excellent, perfect               |
-|                                                          |
-|  3. "NON ME NE FREGA" (I don't care)                    |
-|     Flicking the chin outward with the back of           |
-|     the fingers.                                         |
-|     → Means: I don't care / It's not my problem          |
-|                                                          |
-|  4. "FURBETTO" (Sly one)                                |
-|     Index finger pulling down the lower eyelid.          |
-|     → Means: Be careful / Watch out / I see you          |
-|                                                          |
-|  5. "PAURA" (Fear)                                       |
-|     Hands shaking in front of the body.                  |
-|     → Means: I'm scared / It's scary / Wow               |
-|                                                          |
-|  6. "HO FAME" (I'm hungry)                              |
-|     Hand flat, edge hitting the stomach repeatedly.      |
-|     → Means: I'm hungry                                  |
-|                                                          |
-|  7. "ANDIAMO!" (Let's go!)                               |
-|     Hand flat, palm up, waving toward oneself.           |
-|     → Means: Come on / Let's go                          |
-|                                                          |
-|  8. "BASTA!" (Enough!)                                   |
-|     Both hands palms down, pushing downward.             |
-|     → Means: Stop / Enough / Calm down                   |
-|                                                          |
-|  9. "LE CORNA" (The horns)                               |
-|     Index and pinky fingers extended, middle and         |
-|     ring fingers folded (like rock horns).               |
-|     → Means: Warding off bad luck (superstition)         |
-|     → Also: "Your partner is cheating" (directed         |
-|       at someone)                                        |
-|                                                          |
-|  10. "CHE BARBA!" (How boring!)                          |
-|      Hand stroking an imaginary beard.                   |
-|      → Means: How boring / What a drag                   |
-+----------------------------------------------------------+
-```
+> **ITALIAN GESTURE GUIDE**
+>
+> 1. **"MA CHE VUOI?"** (What do you want?) — Fingers bunched together, tips pointing up, hand moves up and down repeatedly. The most iconic Italian gesture. Expresses: confusion, frustration, "What?!"
+>
+> 2. **"PERFETTO"** (Perfect) — Thumb and index finger form a circle (OK sign), other fingers extended. Means: delicious, excellent, perfect
+>
+> 3. **"NON ME NE FREGA"** (I don't care) — Flicking the chin outward with the back of the fingers. Means: I don't care / It's not my problem
+>
+> 4. **"FURBETTO"** (Sly one) — Index finger pulling down the lower eyelid. Means: Be careful / Watch out / I see you
+>
+> 5. **"PAURA"** (Fear) — Hands shaking in front of the body. Means: I'm scared / It's scary / Wow
+>
+> 6. **"HO FAME"** (I'm hungry) — Hand flat, edge hitting the stomach repeatedly. Means: I'm hungry
+>
+> 7. **"ANDIAMO!"** (Let's go!) — Hand flat, palm up, waving toward oneself. Means: Come on / Let's go
+>
+> 8. **"BASTA!"** (Enough!) — Both hands palms down, pushing downward. Means: Stop / Enough / Calm down
+>
+> 9. **"LE CORNA"** (The horns) — Index and pinky fingers extended, middle and ring fingers folded (like rock horns). Means: Warding off bad luck (superstition). Also: "Your partner is cheating" (directed at someone)
+>
+> 10. **"CHE BARBA!"** (How boring!) — Hand stroking an imaginary beard. Means: How boring / What a drag
 
 ### 10.2 Gesture Usage in Context
 
