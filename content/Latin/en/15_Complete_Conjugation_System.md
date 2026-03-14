@@ -335,27 +335,25 @@ Below is the complete paradigm for **amō, amāre, amāvī, amātum** (1st conju
 
 ### 7.1 Tense Sign / Mood Sign Quick Finder
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│   INDICATIVE                                                     │
-│   Present:     stem + personal endings                           │
-│   Imperfect:   stem + -bā- (1st/2nd) / -ēbā- (3rd/4th)         │
-│   Future:      stem + -bi- (1st/2nd) / -a-/-ē- (3rd/4th)        │
-│   Perfect:     perf. stem + -ī/-istī/-it/-imus/-istis/-ērunt     │
-│   Pluperfect:  perf. stem + -era- + endings                     │
-│   Fut. Perf.:  perf. stem + -eri- + endings                     │
-│                                                                  │
-│   SUBJUNCTIVE                                                    │
-│   Present:     vowel change (ē/eā/ā/iā) + endings               │
-│   Imperfect:   infinitive + endings                              │
-│   Perfect:     perf. stem + -erī- + endings                      │
-│   Pluperfect:  perf. stem + -issē- + endings                    │
-│                                                                  │
-│   IMPERATIVE                                                     │
-│   Present:     sg. = stem; pl. = stem + -te                      │
-│   Future:      stem + -tō (sg.) / -tōte, -ntō (pl.)             │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Tense Sign / Mood Sign Quick Finder**
+>
+> **Indicative**
+> - **Present**: stem + personal endings
+> - **Imperfect**: stem + -bā- (1st/2nd) / -ēbā- (3rd/4th)
+> - **Future**: stem + -bi- (1st/2nd) / -a-/-ē- (3rd/4th)
+> - **Perfect**: perf. stem + -ī/-istī/-it/-imus/-istis/-ērunt
+> - **Pluperfect**: perf. stem + -era- + endings
+> - **Fut. Perf.**: perf. stem + -eri- + endings
+>
+> **Subjunctive**
+> - **Present**: vowel change (ē/eā/ā/iā) + endings
+> - **Imperfect**: infinitive + endings
+> - **Perfect**: perf. stem + -erī- + endings
+> - **Pluperfect**: perf. stem + -issē- + endings
+>
+> **Imperative**
+> - **Present**: sg. = stem; pl. = stem + -te
+> - **Future**: stem + -tō (sg.) / -tōte, -ntō (pl.)
 
 ### 7.2 All Active Personal Endings
 
@@ -376,22 +374,19 @@ Below is the complete paradigm for **amō, amāre, amāvī, amātum** (1st conju
 
 Every finite Latin verb form encodes five properties:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   1. PERSON:       1st, 2nd, 3rd                             │
-│   2. NUMBER:       singular, plural                          │
-│   3. TENSE:        present, imperfect, future,               │
-│                    perfect, pluperfect, future perfect        │
-│   4. VOICE:        active, passive                           │
-│   5. MOOD:         indicative, subjunctive, imperative       │
-│                                                              │
-│   Total possible forms per verb:                             │
-│   3 × 2 × 6 × 2 × 2 = 144 finite forms                     │
-│   + imperative (4) + infinitives (6) + participles (3-4)     │
-│   + gerund (4 cases) + gerundive + supine (2)                │
-│   ≈ 165+ distinct forms per verb                             │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Five Properties of Every Finite Latin Verb Form**
+>
+> 1. **PERSON**: 1st, 2nd, 3rd
+> 2. **NUMBER**: singular, plural
+> 3. **TENSE**: present, imperfect, future, perfect, pluperfect, future perfect
+> 4. **VOICE**: active, passive
+> 5. **MOOD**: indicative, subjunctive, imperative
+>
+> Total possible forms per verb:
+> 3 x 2 x 6 x 2 x 2 = 144 finite forms
+> \+ imperative (4) + infinitives (6) + participles (3-4)
+> \+ gerund (4 cases) + gerundive + supine (2)
+> ≈ 165+ distinct forms per verb
 
 ---
 
@@ -495,26 +490,24 @@ For each form, give: person, number, tense, mood, voice.
 
 ## Quick Reference Card
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│   PERFECT SUBJUNCTIVE ACTIVE:   perf. stem + -erim/-erīs/...   │
-│   PLUPERFECT SUBJ. ACTIVE:     perf. stem + -issem/-issēs/...  │
-│   PERFECT SUBJ. PASSIVE:       PPP + sim/sīs/sit...            │
-│   PLUPERFECT SUBJ. PASSIVE:    PPP + essem/essēs/esset...      │
-│                                                                  │
-│   DEPONENTS: passive form → active meaning (all tenses/moods)   │
-│   sequor, loquor, morior, patior, ūtor, proficīscor             │
-│   PPP is ACTIVE: secūtus = "having followed"                    │
-│                                                                  │
-│   SEMI-DEPONENTS: active present system, deponent perfect system │
-│   audeō (ausus sum), gaudeō (gāvīsus sum), soleō (solitus sum) │
-│                                                                  │
-│   IMPERATIVE:                                                    │
-│   Positive: amā/amāte, monē/monēte, dūc/dūcite, audī/audīte    │
-│   Negative: nōlī/nōlīte + infinitive                            │
-│   Irregular sg.: dīc, dūc, fac, fer                              │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference Card**
+>
+> - **PERFECT SUBJUNCTIVE ACTIVE**: perf. stem + -erim/-erīs/...
+> - **PLUPERFECT SUBJ. ACTIVE**: perf. stem + -issem/-issēs/...
+> - **PERFECT SUBJ. PASSIVE**: PPP + sim/sīs/sit...
+> - **PLUPERFECT SUBJ. PASSIVE**: PPP + essem/essēs/esset...
+>
+> **Deponents:** passive form — active meaning (all tenses/moods)
+> sequor, loquor, morior, patior, ūtor, proficīscor
+> PPP is ACTIVE: secūtus = "having followed"
+>
+> **Semi-Deponents:** active present system, deponent perfect system
+> audeō (ausus sum), gaudeō (gāvīsus sum), soleō (solitus sum)
+>
+> **Imperative:**
+> - **Positive**: amā/amāte, monē/monēte, dūc/dūcite, audī/audīte
+> - **Negative**: nōlī/nōlīte + infinitive
+> - **Irregular sg.**: dīc, dūc, fac, fer
 
 ## Navigation
 - Previous: [14. Subjunctive Mood Introduction](14_Subjunctive_Mood_Introduction.md)
