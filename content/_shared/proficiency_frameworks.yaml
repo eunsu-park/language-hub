@@ -20,11 +20,17 @@ frameworks:
     levels: [HSK1, HSK2, HSK3, HSK4, HSK5, HSK6]
     applies_to: [Chinese]
 
+  hanja_level:
+    full_name: "Korean Hanja Proficiency Test"
+    levels: [L5, L4, L3, L2, L1]
+    applies_to: [Classical_Chinese]
+    note: "L5 is easiest (500 characters), L1 is hardest (3000+ characters)"
+
 # Approximate cross-framework mapping
 approximate_mapping:
-  A1: { jlpt: N5, topik: TOPIK_I_1, hsk: HSK1 }
-  A2: { jlpt: N4, topik: TOPIK_I_2, hsk: HSK2 }
-  B1: { jlpt: N3, topik: TOPIK_II_3, hsk: HSK3 }
-  B2: { jlpt: N2, topik: TOPIK_II_4, hsk: HSK4 }
-  C1: { jlpt: N1, topik: TOPIK_II_5, hsk: HSK5 }
-  C2: { jlpt: N1, topik: TOPIK_II_6, hsk: HSK6 }
+  A1: { jlpt: N5, topik: TOPIK_I_1, hsk: HSK1, hanja_level: L5 }
+  A2: { jlpt: N4, topik: TOPIK_I_2, hsk: HSK2, hanja_level: L4 }
+  B1: { jlpt: N3, topik: TOPIK_II_3, hsk: HSK3, hanja_level: L3 }
+  B2: { jlpt: N2, topik: TOPIK_II_4, hsk: HSK4, hanja_level: L2 }
+  C1: { jlpt: N1, topik: TOPIK_II_5, hsk: HSK5, hanja_level: L1 }
+  C2: { jlpt: N1, topik: TOPIK_II_6, hsk: HSK6, hanja_level: L1 }
