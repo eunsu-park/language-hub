@@ -37,34 +37,29 @@ The tea ceremony, also called 茶の湯 (ちゃのゆ), embodies the aesthetic p
 一期一会 (いちごいちえ — "one time, one meeting"), treating each encounter as a
 once-in-a-lifetime event.
 
-```
-+----------------------------------------------------------+
-|         TEA CEREMONY OVERVIEW (茶道)                      |
-+----------------------------------------------------------+
-|                                                          |
-|  Philosophy: 和敬清寂 (わけいせいじゃく)                    |
-|  ├── 和 (wa) — Harmony                                   |
-|  ├── 敬 (kei) — Respect                                  |
-|  ├── 清 (sei) — Purity                                   |
-|  └── 寂 (jaku) — Tranquility                             |
-|                                                          |
-|  Major Schools:                                           |
-|  ├── 表千家 (おもてせんけ) — Omotesenke                    |
-|  ├── 裏千家 (うらせんけ) — Urasenke (most common)         |
-|  └── 武者小路千家 (むしゃこうじせんけ)                      |
-|                                                          |
-|  Key Equipment:                                           |
-|  ├── 茶碗 (ちゃわん) — Tea bowl                           |
-|  ├── 茶筅 (ちゃせん) — Bamboo whisk                       |
-|  ├── 茶杓 (ちゃしゃく) — Tea scoop                        |
-|  ├── 棗 (なつめ) — Tea caddy                              |
-|  └── 釜 (かま) — Iron kettle                              |
-|                                                          |
-|  Types of Tea:                                            |
-|  ├── 薄茶 (うすちゃ) — Thin tea (everyday)                |
-|  └── 濃茶 (こいちゃ) — Thick tea (formal)                 |
-+----------------------------------------------------------+
-```
+> **TEA CEREMONY OVERVIEW (茶道)**
+>
+> - **Philosophy**: 和敬清寂 (わけいせいじゃく)
+> - 和 (wa) — Harmony
+> - 敬 (kei) — Respect
+> - 清 (sei) — Purity
+> - 寂 (jaku) — Tranquility
+>
+> **Major Schools**:
+> - 表千家 (おもてせんけ) — Omotesenke
+> - 裏千家 (うらせんけ) — Urasenke (most common)
+> - 武者小路千家 (むしゃこうじせんけ)
+>
+> **Key Equipment**:
+> - 茶碗 (ちゃわん) — Tea bowl
+> - 茶筅 (ちゃせん) — Bamboo whisk
+> - 茶杓 (ちゃしゃく) — Tea scoop
+> - 棗 (なつめ) — Tea caddy
+> - 釜 (かま) — Iron kettle
+>
+> **Types of Tea**:
+> - 薄茶 (うすちゃ) — Thin tea (everyday)
+> - 濃茶 (こいちゃ) — Thick tea (formal)
 
 **Basic tea ceremony etiquette for guests**:
 
@@ -100,29 +95,24 @@ through carefully composed arrangements.
 
 ### 1.3 Calligraphy (書道 / しょどう)
 
-```
-+----------------------------------------------------------+
-|         CALLIGRAPHY OVERVIEW (書道)                       |
-+----------------------------------------------------------+
-|                                                          |
-|  Tools (文房四宝 — ぶんぼうしほう):                        |
-|  ├── 筆 (ふで) — Brush                                   |
-|  ├── 墨 (すみ) — Ink stick                               |
-|  ├── 硯 (すずり) — Inkstone                               |
-|  └── 紙 (かみ) — Paper (和紙 / washi)                    |
-|                                                          |
-|  Styles:                                                  |
-|  ├── 楷書 (かいしょ) — Regular/block script               |
-|  ├── 行書 (ぎょうしょ) — Semi-cursive                     |
-|  ├── 草書 (そうしょ) — Cursive                            |
-|  └── 仮名 (かな) — Japanese kana calligraphy             |
-|                                                          |
-|  Common occasions:                                        |
-|  ├── 年賀状 (ねんがじょう) — New Year cards               |
-|  ├── 書き初め (かきぞめ) — First writing of the year      |
-|  └── Students practice as school subject from age 8      |
-+----------------------------------------------------------+
-```
+> **CALLIGRAPHY OVERVIEW (書道)**
+>
+> **Tools (文房四宝 — ぶんぼうしほう)**:
+> - 筆 (ふで) — Brush
+> - 墨 (すみ) — Ink stick
+> - 硯 (すずり) — Inkstone
+> - 紙 (かみ) — Paper (和紙 / washi)
+>
+> **Styles**:
+> - 楷書 (かいしょ) — Regular/block script
+> - 行書 (ぎょうしょ) — Semi-cursive
+> - 草書 (そうしょ) — Cursive
+> - 仮名 (かな) — Japanese kana calligraphy
+>
+> **Common occasions**:
+> - 年賀状 (ねんがじょう) — New Year cards
+> - 書き初め (かきぞめ) — First writing of the year
+> - Students practice as school subject from age 8
 
 ### 1.4 Traditional Performing Arts
 
@@ -184,32 +174,27 @@ The seven virtues of Bushido that continue to influence modern Japanese values:
 
 ### 3.1 Anime and Manga (アニメ・マンガ)
 
-```
-+----------------------------------------------------------+
-|       ANIME AND MANGA CULTURE                            |
-+----------------------------------------------------------+
-|                                                          |
-|  Manga Demographics (target audience):                   |
-|  ├── 少年漫画 (しょうねん) — Boys                         |
-|  │   Examples: ONE PIECE, 鬼滅の刃, 呪術廻戦             |
-|  ├── 少女漫画 (しょうじょ) — Girls                        |
-|  │   Examples: フルーツバスケット, 花より男子              |
-|  ├── 青年漫画 (せいねん) — Young men                      |
-|  │   Examples: ベルセルク, MONSTER                        |
-|  ├── 女性漫画 (じょせい) — Young women                    |
-|  │   Examples: のだめカンタービレ, ハチミツとクローバー      |
-|  └── 一般漫画 (いっぱん) — General audience               |
-|                                                          |
-|  Key Industry Terms:                                      |
-|  ├── 連載 (れんさい) — Serialization                      |
-|  ├── 単行本 (たんこうぼん) — Collected volume             |
-|  ├── 声優 (せいゆう) — Voice actor                        |
-|  ├── コスプレ — Cosplay (costume play)                    |
-|  ├── 同人誌 (どうじんし) — Fan-made publications          |
-|  └── コミケ — Comic Market (Comiket)                     |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **ANIME AND MANGA CULTURE**
+>
+> **Manga Demographics (target audience)**:
+> - 少年漫画 (しょうねん) — Boys
+> - **│   Examples**: ONE PIECE, 鬼滅の刃, 呪術廻戦
+> - 少女漫画 (しょうじょ) — Girls
+> - **│   Examples**: フルーツバスケット, 花より男子
+> - 青年漫画 (せいねん) — Young men
+> - **│   Examples**: ベルセルク, MONSTER
+> - 女性漫画 (じょせい) — Young women
+> - **│   Examples**: のだめカンタービレ, ハチミツとクローバー
+> - 一般漫画 (いっぱん) — General audience
+>
+> **Key Industry Terms**:
+> - 連載 (れんさい) — Serialization
+> - 単行本 (たんこうぼん) — Collected volume
+> - 声優 (せいゆう) — Voice actor
+> - コスプレ — Cosplay (costume play)
+> - 同人誌 (どうじんし) — Fan-made publications
+> - コミケ — Comic Market (Comiket)
+>
 
 ### 3.2 Gaming Culture (ゲーム文化)
 
@@ -253,31 +238,26 @@ Japan is a global leader in video game development:
 
 ### 4.1 Bowing (お辞儀 / おじぎ)
 
-```
-+----------------------------------------------------------+
-|         TYPES OF BOWS                                    |
-+----------------------------------------------------------+
-|                                                          |
-|  会釈 (えしゃく) — Slight bow (15°)                       |
-|  ├── Casual greeting, passing colleagues                 |
-|  └── Quick nod of acknowledgment                        |
-|                                                          |
-|  敬礼 (けいれい) — Standard bow (30°)                     |
-|  ├── General greeting, meeting clients                   |
-|  └── Most common business bow                           |
-|                                                          |
-|  最敬礼 (さいけいれい) — Deep bow (45°)                   |
-|  ├── Sincere apology, deep gratitude                     |
-|  └── Meeting someone very important                      |
-|                                                          |
-|  Rules:                                                  |
-|  • Back straight, bend from the waist                    |
-|  • Hands at sides (men) or overlapping in front (women)  |
-|  • Eye contact before and after, not during              |
-|  • Duration: 1-3 seconds depending on depth              |
-|  • The lower-ranking person bows deeper and longer       |
-+----------------------------------------------------------+
-```
+> **TYPES OF BOWS**
+>
+> 会釈 (えしゃく) — Slight bow (15°)
+> - Casual greeting, passing colleagues
+> - Quick nod of acknowledgment
+>
+> 敬礼 (けいれい) — Standard bow (30°)
+> - General greeting, meeting clients
+> - Most common business bow
+>
+> 最敬礼 (さいけいれい) — Deep bow (45°)
+> - Sincere apology, deep gratitude
+> - Meeting someone very important
+>
+> **Rules**:
+> - Back straight, bend from the waist
+> - Hands at sides (men) or overlapping in front (women)
+> - Eye contact before and after, not during
+> - **• Duration**: 1-3 seconds depending on depth
+> - The lower-ranking person bows deeper and longer
 
 ### 4.2 Gift-Giving (贈り物 / おくりもの)
 
@@ -328,34 +308,29 @@ Gift-giving in Japan is highly ritualized with specific seasonal obligations:
 Japan's cultural identity is deeply intertwined with the four seasons (四季 / しき).
 Seasonal awareness (季節感 / きせつかん) permeates language, food, fashion, and daily life.
 
-```
-+----------------------------------------------------------+
-|         THE JAPANESE YEAR                                |
-+----------------------------------------------------------+
-|                                                          |
-|  春 (はる) — Spring (March - May)                        |
-|  ├── 花見 (はなみ) — Cherry blossom viewing               |
-|  ├── 入学式 (にゅうがくしき) — School entrance ceremony   |
-|  └── ゴールデンウィーク — Golden Week holidays             |
-|                                                          |
-|  夏 (なつ) — Summer (June - August)                      |
-|  ├── 梅雨 (つゆ) — Rainy season                          |
-|  ├── 花火大会 (はなびたいかい) — Fireworks festivals       |
-|  ├── お盆 (おぼん) — Festival of the Dead                 |
-|  └── 夏祭り (なつまつり) — Summer festivals               |
-|                                                          |
-|  秋 (あき) — Autumn (September - November)               |
-|  ├── 紅葉 (こうよう) — Autumn leaf viewing                |
-|  ├── 七五三 (しちごさん) — Children's growth celebration   |
-|  └── 運動会 (うんどうかい) — Sports day                   |
-|                                                          |
-|  冬 (ふゆ) — Winter (December - February)                |
-|  ├── 大掃除 (おおそうじ) — Year-end cleaning              |
-|  ├── 正月 (しょうがつ) — New Year                         |
-|  ├── 節分 (せつぶん) — Bean-throwing day                  |
-|  └── バレンタインデー — Valentine's Day                   |
-+----------------------------------------------------------+
-```
+> **THE JAPANESE YEAR**
+>
+> 春 (はる) — Spring (March - May)
+> - 花見 (はなみ) — Cherry blossom viewing
+> - 入学式 (にゅうがくしき) — School entrance ceremony
+> - ゴールデンウィーク — Golden Week holidays
+>
+> 夏 (なつ) — Summer (June - August)
+> - 梅雨 (つゆ) — Rainy season
+> - 花火大会 (はなびたいかい) — Fireworks festivals
+> - お盆 (おぼん) — Festival of the Dead
+> - 夏祭り (なつまつり) — Summer festivals
+>
+> 秋 (あき) — Autumn (September - November)
+> - 紅葉 (こうよう) — Autumn leaf viewing
+> - 七五三 (しちごさん) — Children's growth celebration
+> - 運動会 (うんどうかい) — Sports day
+>
+> 冬 (ふゆ) — Winter (December - February)
+> - 大掃除 (おおそうじ) — Year-end cleaning
+> - 正月 (しょうがつ) — New Year
+> - 節分 (せつぶん) — Bean-throwing day
+> - バレンタインデー — Valentine's Day
 
 ### 5.2 Major Annual Events
 
@@ -444,32 +419,27 @@ is a defining feature of Japanese society.
 
 Japan uniquely blends two major religious traditions:
 
-```
-+----------------------------------------------------------+
-|       SHINTO (神道) vs BUDDHISM (仏教)                    |
-+----------------------------------------------------------+
-|                                                          |
-|  神道 (Shinto):                                          |
-|  ├── Indigenous Japanese religion                        |
-|  ├── Focus: Nature spirits (神 / かみ)                   |
-|  ├── Place of worship: 神社 (じんじゃ / shrine)           |
-|  ├── Gate: 鳥居 (とりい / torii)                          |
-|  ├── Rituals: 祭り, お祓い, 初詣                          |
-|  └── Life events: Birth, marriage, festivals             |
-|                                                          |
-|  仏教 (Buddhism):                                        |
-|  ├── Arrived from China/Korea (6th century)              |
-|  ├── Focus: Enlightenment, cycles of rebirth             |
-|  ├── Place of worship: 寺 (てら / temple)                 |
-|  ├── Gate: 山門 (さんもん)                                |
-|  ├── Rituals: Meditation, sutra chanting                 |
-|  └── Life events: Funerals, memorial services            |
-|                                                          |
-|  Common saying: 「日本人は生まれたときは神道、              |
-|  死んだときは仏教」                                       |
-|  (Japanese are Shinto at birth, Buddhist at death.)      |
-+----------------------------------------------------------+
-```
+> **SHINTO (神道) vs BUDDHISM (仏教)**
+>
+> **神道 (Shinto)**:
+> - Indigenous Japanese religion
+> - **Focus**: Nature spirits (神 / かみ)
+> - **Place of worship**: 神社 (じんじゃ / shrine)
+> - **Gate**: 鳥居 (とりい / torii)
+> - **Rituals**: 祭り, お祓い, 初詣
+> - **Life events**: Birth, marriage, festivals
+>
+> **仏教 (Buddhism)**:
+> - Arrived from China/Korea (6th century)
+> - **Focus**: Enlightenment, cycles of rebirth
+> - **Place of worship**: 寺 (てら / temple)
+> - **Gate**: 山門 (さんもん)
+> - **Rituals**: Meditation, sutra chanting
+> - **Life events**: Funerals, memorial services
+>
+> - **Common saying**: 「日本人は生まれたときは神道、
+> 死んだときは仏教」
+> (Japanese are Shinto at birth, Buddhist at death.)
 
 ### 7.2 Shrine vs Temple Etiquette
 
