@@ -25,20 +25,14 @@
 
 모든 스페인어 명사에는 문법적 성(Grammatical Gender)이 있습니다: **남성(masculino)** 또는 **여성(femenino)**. 이것은 생물학적 성별과는 관계가 없습니다 — "탁자"(la mesa, 여성)나 "책"(el libro, 남성)과 같은 사물에도 문법적 성이 있습니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   English: "the book", "the table", "the house"                │
-│   (명사에 관계없이 동일한 관사 사용)                                │
-│                                                                 │
-│   Spanish: "el libro", "la mesa", "la casa"                    │
-│   (명사의 성에 맞게 관사가 바뀜)                                   │
-│                                                                 │
-│   왜 중요한가:                                                    │
-│   • 관사가 일치해야 함: el libro / la mesa                        │
-│   • 형용사가 일치해야 함: libro nuevo / mesa nueva                 │
-│   • 대명사가 일치해야 함: lo compré / la compré                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English**: "the book", "the table", "the house" (명사에 관계없이 동일한 관사 사용)
+>
+> **Spanish**: "el libro", "la mesa", "la casa" (명사의 성에 맞게 관사가 바뀜)
+>
+> 왜 중요한가:
+> - 관사가 일치해야 함: el libro / la mesa
+> - 형용사가 일치해야 함: libro nuevo / mesa nueva
+> - 대명사가 일치해야 함: lo compre / la compre
 
 > **한국어 화자를 위한 참고**: 한국어 명사에는 문법적 성이 없습니다 (책, 탁자는 성 중립입니다). 스페인어에서는 모든 명사의 성을 관사와 함께 외워야 합니다. 단순히 "libro"가 아니라 **el libro**로 학습하세요.
 
@@ -76,25 +70,16 @@
 
 ### 2.3 중요한 예외
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   -a로 끝나지만 남성인 단어 (외워야 합니다!):                        │
-│   el día (날)          el mapa (지도)      el problema (문제)    │
-│   el programa          el sistema          el clima (기후)       │
-│   el tema (주제)       el idioma (언어)     el drama              │
-│   el planeta           el poema            el diploma            │
-│                                                                 │
-│   ※ 그리스어에서 온 -ma 단어 다수가 남성입니다                       │
-│                                                                 │
-│   -o로 끝나지만 여성인 단어 (외워야 합니다!):                        │
-│   la mano (손)         la foto (사진)      la moto (오토바이)     │
-│   la radio (라디오)                                              │
-│                                                                 │
-│   성 중립 (형태는 같고 관사만 변경):                                 │
-│   el/la estudiante    el/la artista       el/la turista         │
-│   el/la periodista    el/la pianista      el/la dentista        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **-a로 끝나지만 남성인 단어** (외워야 합니다!):
+> el dia (날), el mapa (지도), el problema (문제), el programa, el sistema, el clima (기후), el tema (주제), el idioma (언어), el drama, el planeta, el poema, el diploma
+>
+> ※ 그리스어에서 온 -ma 단어 다수가 남성입니다
+>
+> **-o로 끝나지만 여성인 단어** (외워야 합니다!):
+> la mano (손), la foto (사진), la moto (오토바이), la radio (라디오)
+>
+> **성 중립** (형태는 같고 관사만 변경):
+> el/la estudiante, el/la artista, el/la turista, el/la periodista, el/la pianista, el/la dentista
 
 ---
 
@@ -192,23 +177,17 @@ tener 부정문에서:
 
 ### 5.1 세 가지 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   규칙 1: 모음으로 끝나면 → -s 추가                                │
-│   libro → libros        casa → casas       estudiante → estudiantes │
-│                                                                 │
-│   규칙 2: 자음으로 끝나면 → -es 추가                               │
-│   papel → papeles       ciudad → ciudades   profesor → profesores │
-│                                                                 │
-│   규칙 3: -z로 끝나면 → z를 c로 바꾸고 -es 추가                    │
-│   lápiz → lápices       vez → veces         pez → peces         │
-│                                                                 │
-│   특수한 경우:                                                    │
-│   비강세 -s로 끝나는 단어 → 변화 없음                               │
-│   el lunes → los lunes     la crisis → las crisis               │
-│   el paraguas → los paraguas                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **규칙 1**: 모음으로 끝나면 → -s 추가
+> libro → libros, casa → casas, estudiante → estudiantes
+>
+> **규칙 2**: 자음으로 끝나면 → -es 추가
+> papel → papeles, ciudad → ciudades, profesor → profesores
+>
+> **규칙 3**: -z로 끝나면 → z를 c로 바꾸고 -es 추가
+> lapiz → lapices, vez → veces, pez → peces
+>
+> **특수한 경우**: 비강세 -s로 끝나는 단어 → 변화 없음
+> el lunes → los lunes, la crisis → las crisis, el paraguas → los paraguas
 
 ---
 
@@ -413,24 +392,13 @@ tener 부정문에서:
 
 ## 빠른 참조표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   관사(ARTICLES)     남성(Masculine)  여성(Feminine)              │
-│   정관사 (the)       el / los         la / las                   │
-│   부정관사 (a)       un / unos        una / unas                 │
-│                                                                 │
-│   성 판별 단서 (GENDER CLUES)                                     │
-│   남성: -o, -or, -aje, 그리스어 -ma                               │
-│   여성: -a, -ción, -sión, -dad, -tad, -ez, -eza                 │
-│   예외: el día, el mapa, la mano, la foto                       │
-│                                                                 │
-│   복수형 (PLURALS)                                                │
-│   모음 → +s    자음 → +es    -z → -ces                           │
-│                                                                 │
-│   축약형 (CONTRACTIONS)                                           │
-│   a + el = al          de + el = del                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **관사(ARTICLES)** — 남성: el / los (정관사), un / unos (부정관사) — 여성: la / las (정관사), una / unas (부정관사)
+>
+> **성 판별 단서(GENDER CLUES)** — 남성: -o, -or, -aje, 그리스어 -ma — 여성: -a, -cion, -sion, -dad, -tad, -ez, -eza — 예외: el dia, el mapa, la mano, la foto
+>
+> **복수형(PLURALS)** — 모음 → +s, 자음 → +es, -z → -ces
+>
+> **축약형(CONTRACTIONS)** — a + el = al, de + el = del
 
 ---
 
