@@ -83,13 +83,9 @@ In Japanese, the **verb always comes at the end** of a clause. This means the mo
 3. Focus on the **final verb** for the core meaning
 4. Check for negation (ない, ません) at the very end
 
-```
-┌─────────┬─────────────────┬──────────────┐
-│ Topic/  │    Objects,     │  VERB        │
-│ Subject │    Modifiers    │  (key info)  │
-│ は/が   │    を/に/で/と   │  ⬅ READ THIS │
-└─────────┴─────────────────┴──────────────┘
-```
+> **Topic/  │    Objects,     │  VERB**
+> Subject │    Modifiers    │  (key info)
+> は/が   │    を/に/で/と   │  ⬅ READ THIS
 
 ### 1.2 Connector Words (接続詞)
 
@@ -155,17 +151,13 @@ Understanding how the three scripts function in text helps with reading speed an
 
 Japanese newspaper articles follow an **inverted pyramid** structure, similar to Western journalism but with specific vocabulary conventions.
 
-```
-┌──────────────────────────────────────┐
-│           見出し (Headline)           │  ← Short, kanji-heavy, often omits particles
-├──────────────────────────────────────┤
-│         リード文 (Lead sentence)      │  ← Who, What, When, Where in 1-2 sentences
-├──────────────────────────────────────┤
-│         本文 (Body)                  │  ← Details, background, quotes
-├──────────────────────────────────────┤
-│         背景・補足 (Context)          │  ← Additional context, related info
-└──────────────────────────────────────┘
-```
+> **見出し (Headline)           │  ← Short, kanji-heavy, often omits particles**
+> ├──────────────────────────────────────┤
+> リード文 (Lead sentence)      │  ← Who, What, When, Where in 1-2 sentences
+> ├──────────────────────────────────────┤
+> 本文 (Body)                  │  ← Details, background, quotes
+> ├──────────────────────────────────────┤
+> 背景・補足 (Context)          │  ← Additional context, related info
 
 ### 3.2 Headline Vocabulary
 
@@ -289,28 +281,24 @@ Look for these opinion markers:
 
 ### 5.2 Business Email Structure
 
-```
-┌──────────────────────────────────────────┐
-│  宛名: ○○株式会社 △△部 □□様            │  ← Addressee (company, dept, name + 様)
-│                                          │
-│  件名: ご注文の確認について              │  ← Subject line
-│                                          │
-│  ○○様                                   │  ← Greeting
-│                                          │
-│  いつもお世話になっております。           │  ← Set opening phrase
-│  ○○株式会社の△△でございます。           │  ← Self-introduction
-│                                          │
-│  本文 (Body)                             │  ← Main content
-│                                          │
-│  ご確認のほど、よろしくお願いいたします。 │  ← Closing request
-│                                          │
-│  敬具                                    │  ← Formal closing
-│  ○○株式会社 △△部                       │  ← Signature block
-│  氏名                                    │
-│  電話: xxx-xxxx-xxxx                     │
-│  メール: name@company.co.jp              │
-└──────────────────────────────────────────┘
-```
+> - **宛名**: ○○株式会社 △△部 □□様            │  ← Addressee (company, dept, name + 様)
+>
+> - **件名**: ご注文の確認について              │  ← Subject line
+>
+> ○○様                                   │  ← Greeting
+>
+> いつもお世話になっております。           │  ← Set opening phrase
+> ○○株式会社の△△でございます。           │  ← Self-introduction
+>
+> 本文 (Body)                             │  ← Main content
+>
+> ご確認のほど、よろしくお願いいたします。 │  ← Closing request
+>
+> 敬具                                    │  ← Formal closing
+> ○○株式会社 △△部                       │  ← Signature block
+> 氏名
+> - **電話**: xxx-xxxx-xxxx
+> - **メール**: name@company.co.jp
 
 ### 5.3 Essential Business Phrases
 
