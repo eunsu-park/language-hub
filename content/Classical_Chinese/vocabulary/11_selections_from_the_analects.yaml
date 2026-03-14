@@ -1,0 +1,407 @@
+lesson: 11_Selections_from_the_Analects
+lesson_number: 11
+hanja_level: L3
+categories:
+- id: analects_vocabulary
+  label:
+    en: Analects Core Vocabulary
+    ko: 논어 핵심 어휘
+  type: vocabulary
+  words:
+  - classical_chinese: 學
+    reading: 학
+    meaning_kun: 배울
+    translation:
+      en: to learn; to study
+      ko: 배우다
+    gender: null
+    plural: null
+    notes:
+      en: "Opening word of the Analerta: 學而時習之. To learn through study and practice."
+      ko: "논어의 첫 글자: 學而時習之. 공부와 실천을 통해 배우다."
+  - classical_chinese: 習
+    reading: 습
+    meaning_kun: 익힐
+    translation:
+      en: to practice; to review; habit
+      ko: 익히다; 복습하다; 습관
+    gender: null
+    plural: null
+    notes:
+      en: "Feather (羽) + 白. A young bird practicing flight repeatedly."
+      ko: "깃(羽) + 白. 어린 새가 반복하여 나는 연습을 하는 모양."
+  - classical_chinese: 朋
+    reading: 붕
+    meaning_kun: 벗
+    translation:
+      en: friend; companion
+      ko: 벗; 친구
+    gender: null
+    plural: null
+    notes:
+      en: "Two strings of jade. Companions of similar learning. 有朋自遠方來."
+      ko: "두 줄의 옥. 같은 배움의 동반자. 有朋自遠方來."
+  - classical_chinese: 友
+    reading: 우
+    meaning_kun: 벗
+    translation:
+      en: friend
+      ko: 벗; 친구
+    gender: null
+    plural: null
+    notes:
+      en: "Two right hands together. Friend who works alongside. 朋友 = friends."
+      ko: "두 오른손이 함께하는 모양. 함께하는 벗. 朋友 = 친구."
+  - classical_chinese: 君子
+    reading: 군자
+    meaning_kun: 임금 아들
+    translation:
+      en: exemplary person; gentleman
+      ko: 군자; 덕 있는 사람
+    gender: null
+    plural: null
+    notes:
+      en: "君 (ruler) + 子 (son). Confucian ideal of a morally cultivated person."
+      ko: "君(임금) + 子(아들). 도덕적으로 수양된 사람의 유교적 이상."
+  - classical_chinese: 小人
+    reading: 소인
+    meaning_kun: 작을 사람
+    translation:
+      en: petty person; small-minded person
+      ko: 소인; 소인배
+    gender: null
+    plural: null
+    notes:
+      en: "小 (small) + 人 (person). Opposite of 君子. Morally undeveloped person."
+      ko: "小(작다) + 人(사람). 君子의 반대. 도덕적으로 미숙한 사람."
+  - classical_chinese: 說
+    reading: 열
+    meaning_kun: 기쁠
+    translation:
+      en: to be pleased; to delight
+      ko: 기쁘다; 기뻐하다
+    gender: null
+    plural: null
+    notes:
+      en: "Read 열 (=悅) in Analects: 學而時習之不亦說乎. Also read 설 = to speak."
+      ko: "논어에서 열(=悅)로 읽음: 學而時習之不亦說乎. 설 = 말하다."
+  - classical_chinese: 樂
+    reading: 락
+    meaning_kun: 즐길
+    translation:
+      en: joy; happiness; to enjoy
+      ko: 즐기다; 기쁨
+    gender: null
+    plural: null
+    notes:
+      en: "Read 락 for 'joy'. 有朋自遠方來不亦樂乎. Also 악 = music."
+      ko: "'기쁨'으로 락으로 읽음. 有朋自遠方來不亦樂乎. 악 = 음악."
+  - classical_chinese: 溫
+    reading: 온
+    meaning_kun: 따뜻할
+    translation:
+      en: warm; to review; gentle
+      ko: 따뜻하다; 복습하다; 온화하다
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 昷. Warm. 溫故知新 = review the old to know the new."
+      ko: "물(氵) + 昷. 따뜻하다. 溫故知新 = 옛것을 복습하여 새것을 앎."
+  - classical_chinese: 故
+    reading: 고
+    meaning_kun: 예
+    translation:
+      en: old; reason; therefore
+      ko: 옛; 까닭; 그러므로
+    gender: null
+    plural: null
+    notes:
+      en: "Old; previous. 溫故知新 = reviewing the old to learn the new."
+      ko: "옛; 이전의. 溫故知新 = 옛것을 익혀 새것을 앎."
+  - classical_chinese: 新
+    reading: 신
+    meaning_kun: 새
+    translation:
+      en: new; fresh
+      ko: 새롭다
+    gender: null
+    plural: null
+    notes:
+      en: "Freshly cut wood. New. 溫故知新 = reviewing the old, knowing the new."
+      ko: "갓 벤 나무. 새롭다. 溫故知新 = 옛것을 익히고 새것을 앎."
+  - classical_chinese: 過
+    reading: 과
+    meaning_kun: 지날
+    translation:
+      en: to pass; to err; fault; excessive
+      ko: 지나다; 잘못하다; 허물
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (辶) + 咼. To pass by; to err. 過則勿憚改 = when you err, do not fear to correct."
+      ko: "갈(辶) + 咼. 지나가다; 잘못하다. 過則勿憚改 = 잘못하면 고치기를 꺼리지 마라."
+  - classical_chinese: 改
+    reading: 개
+    meaning_kun: 고칠
+    translation:
+      en: to change; to correct; to reform
+      ko: 고치다; 개정하다
+    gender: null
+    plural: null
+    notes:
+      en: "Self (己) + 攵 (strike). To strike oneself to correct; to reform."
+      ko: "자기(己) + 攵(치다). 자신을 때려 고치다; 개혁하다."
+  - classical_chinese: 孝
+    reading: 효
+    meaning_kun: 효도
+    translation:
+      en: filial piety; devotion to parents
+      ko: 효도
+    gender: null
+    plural: null
+    notes:
+      en: "Old person (老 top) + child (子 bottom). A child supporting an elder."
+      ko: "노인(老 위) + 아이(子 아래). 아이가 어른을 받드는 모양."
+  - classical_chinese: 悌
+    reading: 제
+    meaning_kun: 공경할
+    translation:
+      en: brotherly love; respect for elders
+      ko: 형을 공경함; 우애
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + 弟 (younger brother). Respect from younger to older siblings."
+      ko: "마음(忄) + 弟(아우). 아우가 형을 공경하는 마음."
+  - classical_chinese: 忠
+    reading: 충
+    meaning_kun: 충성
+    translation:
+      en: loyalty; faithfulness
+      ko: 충성; 충직함
+    gender: null
+    plural: null
+    notes:
+      en: "Center (中) + heart (心). Heart centered on duty; loyalty."
+      ko: "가운데(中) + 마음(心). 마음이 중심에 있는 것; 충성."
+  - classical_chinese: 恕
+    reading: 서
+    meaning_kun: 용서할
+    translation:
+      en: reciprocity; forgiveness; empathy
+      ko: 서; 용서; 남의 마음을 헤아림
+    gender: null
+    plural: null
+    notes:
+      en: "Like (如) + heart (心). Feeling as others feel; Confucian reciprocity."
+      ko: "같다(如) + 마음(心). 남의 마음처럼 느끼기; 유교의 서(恕)."
+- id: confucian_values
+  label:
+    en: Confucian Values (Five Constants)
+    ko: 유교 가치 (오상)
+  type: vocabulary
+  words:
+  - classical_chinese: 仁
+    reading: 인
+    meaning_kun: 어질
+    translation:
+      en: benevolence; humaneness; love
+      ko: 어질다; 인; 사랑
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + two (二). Two people = human relationship. The highest Confucian virtue."
+      ko: "사람(亻) + 둘(二). 두 사람 = 인간관계. 유교의 최고 덕목."
+  - classical_chinese: 義
+    reading: 의
+    meaning_kun: 옳을
+    translation:
+      en: righteousness; justice; duty
+      ko: 의로움; 정의; 도리
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + self (我). Acting rightly. Second of the Five Constants."
+      ko: "양(羊) + 나(我). 올바르게 행하기. 오상(五常)의 둘째."
+  - classical_chinese: 禮
+    reading: 례
+    meaning_kun: 예도
+    translation:
+      en: ritual; propriety; courtesy
+      ko: 예; 예절; 예의
+    gender: null
+    plural: null
+    notes:
+      en: "Altar (示) + 豊 (ritual vessel). Proper ritual conduct; social propriety."
+      ko: "제단(示) + 豊(제기). 올바른 예식; 사회적 예의범절."
+  - classical_chinese: 智
+    reading: 지
+    meaning_kun: 슬기로울
+    translation:
+      en: wisdom; intelligence
+      ko: 지혜; 슬기
+    gender: null
+    plural: null
+    notes:
+      en: "Know (知) + sun (日). Bright knowledge; wisdom. Fourth of the Five Constants."
+      ko: "알다(知) + 해(日). 밝은 앎; 지혜. 오상(五常)의 넷째."
+  - classical_chinese: 信
+    reading: 신
+    meaning_kun: 믿을
+    translation:
+      en: trust; faithfulness; to believe
+      ko: 믿다; 신의; 신뢰
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + words (言). A person true to their word. Fifth of the Five Constants."
+      ko: "사람(亻) + 말(言). 말에 진실한 사람. 오상(五常)의 다섯째."
+  - classical_chinese: 德
+    reading: 덕
+    meaning_kun: 큰
+    translation:
+      en: virtue; moral power
+      ko: 덕; 큰 덕
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (彳) + 直 + heart (心). Walking with an upright heart; virtue."
+      ko: "걸을(彳) + 直 + 마음(心). 올곧은 마음으로 걷기; 덕."
+  - classical_chinese: 敬
+    reading: 경
+    meaning_kun: 공경할
+    translation:
+      en: respect; reverence; to be attentive
+      ko: 공경하다; 삼가다
+    gender: null
+    plural: null
+    notes:
+      en: "茍 + 攵 (strike/act). Careful, attentive action; respect."
+      ko: "茍 + 攵(치다/행하다). 조심스럽고 주의 깊은 행위; 공경."
+  - classical_chinese: 和
+    reading: 화
+    meaning_kun: 화할
+    translation:
+      en: harmony; peace; gentle
+      ko: 화합; 평화; 온화하다
+    gender: null
+    plural: null
+    notes:
+      en: "Grain (禾) + mouth (口). Harmony like rice growing; peace."
+      ko: "벼(禾) + 입(口). 벼가 자라듯 조화로운 것; 평화."
+- id: analects_key_terms
+  label:
+    en: Analects Key Terms
+    ko: 논어 핵심 개념어
+  type: vocabulary
+  words:
+  - classical_chinese: 道
+    reading: 도
+    meaning_kun: 길
+    translation:
+      en: the Way; path; principle; to speak
+      ko: 도; 길; 원리; 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (辶) + head (首). The Way one should follow; the Confucian moral path."
+      ko: "갈(辶) + 머리(首). 따라야 할 길; 유교의 도덕적 길."
+  - classical_chinese: 文
+    reading: 문
+    meaning_kun: 글월
+    translation:
+      en: culture; literature; refinement
+      ko: 글; 문화; 교양
+    gender: null
+    plural: null
+    notes:
+      en: "Refinement through learning. 文質彬彬 = balance of refinement and substance."
+      ko: "배움을 통한 세련됨. 文質彬彬 = 교양과 본바탕의 조화."
+  - classical_chinese: 質
+    reading: 질
+    meaning_kun: 바탕
+    translation:
+      en: substance; nature; quality
+      ko: 바탕; 본질; 질
+    gender: null
+    plural: null
+    notes:
+      en: "Natural substance or character. 文質彬彬 = balanced refinement and substance."
+      ko: "자연적 바탕이나 성격. 文質彬彬 = 교양과 바탕의 조화."
+  - classical_chinese: 武
+    reading: 무
+    meaning_kun: 호반
+    translation:
+      en: martial; military; valor
+      ko: 무; 군사; 용맹
+    gender: null
+    plural: null
+    notes:
+      en: "Halberd (戈) + stop (止). To stop weapons = true martial valor."
+      ko: "창(戈) + 멈추다(止). 무기를 멈추는 것 = 진정한 무용."
+  - classical_chinese: 政
+    reading: 정
+    meaning_kun: 정사
+    translation:
+      en: government; politics; to govern
+      ko: 정치; 정사; 다스리다
+    gender: null
+    plural: null
+    notes:
+      en: "Correct (正) + 攵 (act). To act correctly; governance. 爲政以德 = govern by virtue."
+      ko: "바를(正) + 攵(행하다). 올바르게 행하기; 정치. 爲政以德 = 덕으로 정치하다."
+  - classical_chinese: 治
+    reading: 치
+    meaning_kun: 다스릴
+    translation:
+      en: to govern; to manage; to cure
+      ko: 다스리다; 관리하다; 치료하다
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 台. To manage water flow; to govern; to bring order."
+      ko: "물(氵) + 台. 물의 흐름을 관리하다; 다스리다; 질서를 세우다."
+  - classical_chinese: 命
+    reading: 명
+    meaning_kun: 목숨
+    translation:
+      en: mandate; fate; life; to order
+      ko: 명; 운명; 목숨; 명하다
+    gender: null
+    plural: null
+    notes:
+      en: "Mouth giving orders (口 + 令). Mandate of Heaven; fate; life."
+      ko: "입이 명령하는 모양(口 + 令). 천명; 운명; 목숨."
+  - classical_chinese: 天命
+    reading: 천명
+    meaning_kun: 하늘 목숨
+    translation:
+      en: Mandate of Heaven; destiny
+      ko: 천명; 하늘의 명
+    gender: null
+    plural: null
+    notes:
+      en: "天 (heaven) + 命 (mandate). Heaven's will. 五十而知天命."
+      ko: "天(하늘) + 命(명). 하늘의 뜻. 五十而知天命."
+  - classical_chinese: 性
+    reading: 성
+    meaning_kun: 성품
+    translation:
+      en: nature; character; disposition
+      ko: 성품; 본성
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + birth (生). Innate nature; inborn character."
+      ko: "마음(忄) + 나다(生). 타고난 성품; 선천적 성격."
+  - classical_chinese: 志
+    reading: 지
+    meaning_kun: 뜻
+    translation:
+      en: will; aspiration; ambition
+      ko: 뜻; 뜻을 세우다
+    gender: null
+    plural: null
+    notes:
+      en: "Scholar (士) + heart (心). Heart of a scholar; ambition. 志於道."
+      ko: "선비(士) + 마음(心). 선비의 마음; 뜻. 志於道."
