@@ -23,19 +23,14 @@
 
 ## 1. 시간대별 인사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    시간대별 인사                                   │
-│                                                                 │
-│   06:00 ─────── 12:00 ─────── 20:00 ─────── 06:00              │
-│   │  Buenos días  │ Buenas tardes │ Buenas noches  │            │
-│   │  (좋은 아침)   │(좋은 오후)     │(좋은 저녁/     │            │
-│   │               │               │  안녕히 주무세요)│            │
-│                                                                 │
-│   ※ Buenas noches는 인사와 작별 인사 모두로 사용됨               │
-│   ※ 비격식 줄임말: ¡Buenas! (아무 때나 사용 가능)                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **시간대별 인사**
+>
+> - 06:00–12:00: **Buenos dias** (좋은 아침)
+> - 12:00–20:00: **Buenas tardes** (좋은 오후)
+> - 20:00–06:00: **Buenas noches** (좋은 저녁 / 안녕히 주무세요)
+>
+> ※ Buenas noches는 인사와 작별 인사 모두로 사용됨
+> ※ 비격식 줄임말: ¡Buenas! (아무 때나 사용 가능)
 
 | 시간대 | 인사 | 용법 |
 |------|----------|-------|
@@ -77,24 +72,17 @@
 
 ### 3.1 두 가지 "당신"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   TÚ (비격식 "너")                 USTED (격식 "당신")            │
-│   ├── 친구 및 또래                  ├── 낯선 사람                  │
-│   ├── 가족 구성원                   ├── 어르신                     │
-│   ├── 어린이                        ├── 상사 / 윗사람              │
-│   ├── 같은 나이 급우                ├── 공무원 / 경찰              │
-│   └── 비격식 상황                   └── 격식 상황                  │
-│                                                                 │
-│   동사: 2인칭 단수                   동사: 3인칭 단수              │
-│   ¿Cómo estás? (어떻게 지내?)      ¿Cómo está? (어떻게 지내세요?)  │
-│   ¿Tienes tiempo? (시간 있어?)     ¿Tiene tiempo? (시간 있으세요?) │
-│                                                                 │
-│   ※ 확신이 없으면 USTED를 사용하세요 — 항상 예의 바릅니다.        │
-│   ※ 라틴아메리카에서는 usted를 더 폭넓게 사용합니다.             │
-│   ※ 스페인에서는 tú를 더 쉽게 사용합니다.                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **TU** (비격식 "너") — 친구 및 또래, 가족 구성원, 어린이, 같은 나이 급우, 비격식 상황
+>
+> **USTED** (격식 "당신") — 낯선 사람, 어르신, 상사 / 윗사람, 공무원 / 경찰, 격식 상황
+>
+> - **동사**: TU는 2인칭 단수; USTED는 3인칭 단수
+> - ¿Cómo **estás**? (어떻게 지내?) vs ¿Cómo **está**? (어떻게 지내세요?)
+> - ¿**Tienes** tiempo? (시간 있어?) vs ¿**Tiene** tiempo? (시간 있으세요?)
+>
+> ※ 확신이 없으면 USTED를 사용하세요 — 항상 예의 바릅니다.
+> ※ 라틴아메리카에서는 usted를 더 폭넓게 사용합니다.
+> ※ 스페인에서는 tú를 더 쉽게 사용합니다.
 
 ### 3.2 동사 형태 빠른 비교
 
@@ -209,23 +197,15 @@ B: Bien, gracias. ¿Y usted? → 잘 지내요, 감사합니다. 당신은요?
 
 ## 6. 작별 인사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   격식 작별 인사                비격식 작별 인사                   │
-│   ─────────────────             ──────────────────              │
-│   Adiós.                        ¡Chao! / ¡Chau!                │
-│   Hasta luego.                  ¡Nos vemos!                     │
-│   Hasta pronto.                 ¡Cuídate!                       │
-│   Que tenga un buen día.        ¡Que te vaya bien!              │
-│   Que le vaya bien.             ¡Hasta luego!                   │
-│                                                                 │
-│   시간 특정:                                                      │
-│   Hasta mañana.    (내일 봐요.)                                  │
-│   Hasta el lunes.  (월요일에 봐요.)                               │
-│   Hasta la próxima. (다음에 봐요.)                                │
-│   Buenas noches.   (안녕히 주무세요. — 인사로도 사용)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **격식 작별 인사**: Adios. / Hasta luego. / Hasta pronto. / Que tenga un buen dia. / Que le vaya bien.
+>
+> **비격식 작별 인사**: ¡Chao! / ¡Chau! / ¡Nos vemos! / ¡Cuidate! / ¡Que te vaya bien! / ¡Hasta luego!
+>
+> **시간 특정**:
+> - Hasta mañana. (내일 봐요.)
+> - Hasta el lunes. (월요일에 봐요.)
+> - Hasta la proxima. (다음에 봐요.)
+> - Buenas noches. (안녕히 주무세요. — 인사로도 사용)
 
 ---
 
@@ -248,24 +228,20 @@ B: Bien, gracias. ¿Y usted? → 잘 지내요, 감사합니다. 당신은요?
 
 ### 7.2 사과
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Perdón / Perdona (tú) / Perdone (Ud.)                        │
-│   → 죄송합니다 / 실례합니다 (사소한 일, 주의를 끌 때)            │
-│                                                                 │
-│   Lo siento (mucho).                                            │
-│   → (정말) 죄송합니다. (진심 어린 사과, 공감 표현)               │
-│                                                                 │
-│   Disculpa (tú) / Disculpe (Ud.)                                │
-│   → 실례합니다. (대화 중 끼어들기, 지나갈 때)                    │
-│                                                                 │
-│   Con permiso.                                                   │
-│   → 실례합니다. (지나가거나 방을 나갈 때)                        │
-│                                                                 │
-│   Fue mi culpa. → 제 잘못이었습니다.                             │
-│   No fue mi intención. → 의도한 것이 아니었습니다.                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Perdon / Perdona (tu) / Perdone (Ud.)**
+> → 죄송합니다 / 실례합니다 (사소한 일, 주의를 끌 때)
+>
+> **Lo siento (mucho).**
+> → (정말) 죄송합니다. (진심 어린 사과, 공감 표현)
+>
+> **Disculpa (tu) / Disculpe (Ud.)**
+> → 실례합니다. (대화 중 끼어들기, 지나갈 때)
+>
+> **Con permiso.**
+> → 실례합니다. (지나가거나 방을 나갈 때)
+>
+> - Fue mi culpa. → 제 잘못이었습니다.
+> - No fue mi intencion. → 의도한 것이 아니었습니다.
 
 **사과에 대한 응답:**
 - No pasa nada. — 괜찮아요. / 별일 아니에요.
@@ -327,27 +303,23 @@ B: ¡Gracias! Todos son muy amables.
 
 ### 9.1 생존 표현
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   첫날을 위한 필수 표현                                           │
-│                                                                 │
-│   Por favor.                    → 부탁합니다.                    │
-│   Gracias.                      → 감사합니다.                    │
-│   Sí. / No.                    → 네. / 아니요.                  │
-│   No entiendo.                  → 이해하지 못합니다.              │
-│   ¿Puede repetir, por favor?   → 다시 말씀해 주시겠어요?         │
-│   ¿Cómo se dice ___ en español? → ___를 스페인어로 어떻게 말해요? │
-│   ¿Qué significa ___?          → ___는 무슨 뜻이에요?            │
-│   Más despacio, por favor.      → 더 천천히 말씀해 주세요.        │
-│   No hablo español (muy bien).  → 스페인어를 (잘) 못합니다.      │
-│   Hablo un poco de español.     → 스페인어를 조금 합니다.         │
-│   ¿Habla inglés?               → 영어 하세요?                   │
-│   ¿Dónde está el baño?         → 화장실이 어디에요?              │
-│   ¿Cuánto cuesta?              → 얼마에요?                      │
-│   La cuenta, por favor.         → 계산서 주세요.                 │
-│   ¡Ayuda!                       → 도와주세요!                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **첫날을 위한 필수 표현**
+>
+> - Por favor. → 부탁합니다.
+> - Gracias. → 감사합니다.
+> - Si. / No. → 네. / 아니요.
+> - No entiendo. → 이해하지 못합니다.
+> - ¿Puede repetir, por favor? → 다시 말씀해 주시겠어요?
+> - ¿Como se dice ___ en español? → ___를 스페인어로 어떻게 말해요?
+> - ¿Que significa ___? → ___는 무슨 뜻이에요?
+> - Mas despacio, por favor. → 더 천천히 말씀해 주세요.
+> - No hablo español (muy bien). → 스페인어를 (잘) 못합니다.
+> - Hablo un poco de español. → 스페인어를 조금 합니다.
+> - ¿Habla ingles? → 영어 하세요?
+> - ¿Donde esta el baño? → 화장실이 어디에요?
+> - ¿Cuanto cuesta? → 얼마에요?
+> - La cuenta, por favor. → 계산서 주세요.
+> - ¡Ayuda! → 도와주세요!
 
 ### 9.2 기차역에서
 
@@ -442,24 +414,15 @@ la cuenta, gracias, adiós
 
 ## 빠른 참조 카드
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   인사                   작별 인사              예의 표현         │
-│   ¡Hola!                 ¡Adiós!              Por favor.        │
-│   ¡Buenos días!          ¡Hasta luego!        Gracias.          │
-│   ¡Buenas tardes!        ¡Nos vemos!          De nada.          │
-│   ¡Buenas noches!        ¡Cuídate!            Lo siento.        │
-│   ¿Qué tal?              ¡Chao!               Perdón.           │
-│   ¿Cómo estás?           ¡Hasta mañana!       Con permiso.      │
-│                                                                 │
-│   자기소개               생존 표현                                │
-│   Me llamo...            No entiendo.                           │
-│   Soy de...              ¿Puede repetir?                        │
-│   Tengo ... años.        Más despacio, por favor.               │
-│   Mucho gusto.           ¿Dónde está...?                        │
-│   Igualmente.            ¿Cuánto cuesta?                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **인사**: ¡Hola! / ¡Buenos dias! / ¡Buenas tardes! / ¡Buenas noches! / ¿Que tal? / ¿Como estas?
+>
+> **작별 인사**: ¡Adios! / ¡Hasta luego! / ¡Nos vemos! / ¡Cuidate! / ¡Chao! / ¡Hasta mañana!
+>
+> **예의 표현**: Por favor. / Gracias. / De nada. / Lo siento. / Perdon. / Con permiso.
+>
+> **자기소개**: Me llamo... / Soy de... / Tengo ... años. / Mucho gusto. / Igualmente.
+>
+> **생존 표현**: No entiendo. / ¿Puede repetir? / Mas despacio, por favor. / ¿Donde esta...? / ¿Cuanto cuesta?
 
 ---
 
