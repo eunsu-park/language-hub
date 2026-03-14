@@ -26,27 +26,19 @@
 
 ### 1.1 The Core Contrast
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean: SOV (Subject + Object + Verb)                         │
-│   나는     사과를      먹는다                                     │
-│   S        O          V                                         │
-│   I        apple      eat                                       │
-│                                                                 │
-│   English: SVO (Subject + Verb + Object)                        │
-│   I        eat        an apple                                  │
-│   S        V          O                                         │
-│                                                                 │
-│   The VERB moves from the END to the MIDDLE.                    │
-│   Everything after the verb is rearranged.                      │
-│                                                                 │
-│   Korean: 나는 [어제] [학교에서] [영어를] [공부했다]                 │
-│           S    Time    Place     Object   Verb                   │
-│                                                                 │
-│   English: I [studied] [English] [at school] [yesterday]        │
-│            S  Verb     Object    Place       Time                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean: SOV (Subject + Object + Verb)
+> 나는     사과를      먹는다
+> S        O          V
+> I        apple      eat
+> English: SVO (Subject + Verb + Object)
+> I        eat        an apple
+> S        V          O
+> The VERB moves from the END to the MIDDLE.
+> Everything after the verb is rearranged.
+> Korean: 나는 [어제] [학교에서] [영어를] [공부했다]
+> S    Time    Place     Object   Verb
+> English: I [studied] [English] [at school] [yesterday]
+> S  Verb     Object    Place       Time
 
 ### 1.2 Why Word Order Matters More in English
 
@@ -115,21 +107,16 @@ Pattern 5: S + V + O + C (Subject + Verb + Object + Complement)
 
 ### 2.2 English Has Fixed Slots
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Slot 1    Slot 2    Slot 3    Slot 4    Slot 5    Slot 6     │
-│   (Time)    Subject   Verb      Object    Place     Time       │
-│                                                                 │
-│   Yesterday  I        met       Tom       at school             │
-│              She      drinks    coffee    in the cafe  daily    │
-│   Every day  he       walks                to work              │
-│              They     play      soccer    in the park  on Sun.  │
-│                                                                 │
-│   ※ Subject-Verb-Object is NEVER reordered in statements.     │
-│     "Coffee she drinks" ✗ (not standard English)                │
-│     "She drinks coffee" ✓                                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Slot 1    Slot 2    Slot 3    Slot 4    Slot 5    Slot 6**
+>
+> (Time)    Subject   Verb      Object    Place     Time
+> Yesterday  I        met       Tom       at school
+> She      drinks    coffee    in the cafe  daily
+> Every day  he       walks                to work
+> They     play      soccer    in the park  on Sun.
+> ※ Subject-Verb-Object is NEVER reordered in statements.
+> "Coffee she drinks" ✗ (not standard English)
+> "She drinks coffee" ✓
 
 ---
 
@@ -250,30 +237,24 @@ Subject + auxiliary + not:
 
 ### 4.4 Negative Words
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   English Negative Words                                        │
-│                                                                 │
-│   no        = 아니 / 없는      "I have no money."               │
-│   not       = ~않다            "I do not know."                  │
-│   never     = 절대 ~않다       "I never smoke."                  │
-│   nothing   = 아무것도 ~않다   "I know nothing." / "I don't      │
-│                                 know anything."                  │
-│   nobody    = 아무도 ~않다     "Nobody came."                     │
-│   no one    = 아무도 ~않다     "No one knows."                    │
-│   nowhere   = 아무 데도 ~않다  "I have nowhere to go."           │
-│   neither   = 둘 다 ~않다      "Neither answer is correct."      │
-│                                                                 │
-│   ※ CRITICAL RULE: English allows only ONE negative per clause!│
-│     "I don't know nothing."  ✗ (double negative = WRONG)        │
-│     "I don't know anything." ✓                                  │
-│     "I know nothing."        ✓                                  │
-│                                                                 │
-│     Korean allows double/triple negatives:                      │
-│     "나는 아무것도 안 먹지 않았다" (multiple negatives OK)          │
-│     English: ONE negative per clause only!                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Negative Words**
+>
+> no        = 아니 / 없는      "I have no money."
+> not       = ~않다            "I do not know."
+> never     = 절대 ~않다       "I never smoke."
+> nothing   = 아무것도 ~않다   "I know nothing." / "I don't
+> know anything."
+> nobody    = 아무도 ~않다     "Nobody came."
+> no one    = 아무도 ~않다     "No one knows."
+> nowhere   = 아무 데도 ~않다  "I have nowhere to go."
+> neither   = 둘 다 ~않다      "Neither answer is correct."
+> ※ CRITICAL RULE: English allows only ONE negative per clause!
+> "I don't know nothing."  ✗ (double negative = WRONG)
+> "I don't know anything." ✓
+> "I know nothing."        ✓
+> Korean allows double/triple negatives:
+> "나는 아무것도 안 먹지 않았다" (multiple negatives OK)
+> English: ONE negative per clause only!
 
 ---
 
@@ -338,33 +319,26 @@ Short answers:
 
 ### 6.1 Formation
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Imperatives = base verb (no subject needed!)                  │
-│                                                                 │
-│   Positive:                                                     │
-│   "Sit down."                앉아. / 앉으세요.                    │
-│   "Open the door."           문을 열어.                           │
-│   "Be quiet."                조용히 해.                           │
-│   "Come here."               여기로 와.                           │
-│   "Listen to me."            내 말을 들어.                        │
-│                                                                 │
-│   Negative (Don't + base verb):                                 │
-│   "Don't sit down."          앉지 마.                            │
-│   "Don't open the door."     문을 열지 마.                        │
-│   "Don't be late."           늦지 마.                            │
-│   "Don't worry."             걱정하지 마.                         │
-│                                                                 │
-│   Polite imperative (add "please"):                             │
-│   "Please sit down."         앉아 주세요.                        │
-│   "Don't run, please."       뛰지 말아 주세요.                    │
-│                                                                 │
-│   ※ English imperatives have NO subject "you":                 │
-│     "You sit down!" — This sounds angry/emphatic!               │
-│     "Sit down." — Normal command                                │
-│     "Sit down, please." — Polite command                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Imperatives = base verb (no subject needed!)**
+>
+> Positive:
+> "Sit down."                앉아. / 앉으세요.
+> "Open the door."           문을 열어.
+> "Be quiet."                조용히 해.
+> "Come here."               여기로 와.
+> "Listen to me."            내 말을 들어.
+> Negative (Don't + base verb):
+> "Don't sit down."          앉지 마.
+> "Don't open the door."     문을 열지 마.
+> "Don't be late."           늦지 마.
+> "Don't worry."             걱정하지 마.
+> Polite imperative (add "please"):
+> "Please sit down."         앉아 주세요.
+> "Don't run, please."       뛰지 말아 주세요.
+> ※ English imperatives have NO subject "you":
+> "You sit down!" — This sounds angry/emphatic!
+> "Sit down." — Normal command
+> "Sit down, please." — Polite command
 
 ### 6.2 Special Imperative: Let's
 
@@ -464,35 +438,24 @@ Full sentence order: Subject + Verb + Object + Manner + Place + Time
 
 ### 9.1 Error Collection
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Error (Korean order)              Correct (English order)     │
-│   ───────────────────               ─────────────────────       │
-│   "I English study."               "I study English."          │
-│   (SOV → should be SVO)                                        │
-│                                                                 │
-│   "Yesterday I to school went."    "Yesterday I went to school."│
-│   (verb at end → verb in middle)                                │
-│                                                                 │
-│   "She very is pretty."            "She is very pretty."        │
-│   (adverb before be → after be)                                │
-│                                                                 │
-│   "You what eat?"                  "What do you eat?"           │
-│   (Korean question order)                                       │
-│                                                                 │
-│   "I tomorrow will go."            "I will go tomorrow."        │
-│   (time in middle → time at end)                                │
-│                                                                 │
-│   "In Seoul I live."               "I live in Seoul."           │
-│   (place first → place after verb)                              │
-│                                                                 │
-│   "Coffee to me please give."      "Please give me coffee."    │
-│   (full Korean order)                                           │
-│                                                                 │
-│   "Don't late be."                 "Don't be late."             │
-│   (Korean order: 늦지 마)                                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Error (Korean order)              Correct (English order)**
+>
+> "I English study."               "I study English."
+> (SOV → should be SVO)
+> "Yesterday I to school went."    "Yesterday I went to school."
+> (verb at end → verb in middle)
+> "She very is pretty."            "She is very pretty."
+> (adverb before be → after be)
+> "You what eat?"                  "What do you eat?"
+> (Korean question order)
+> "I tomorrow will go."            "I will go tomorrow."
+> (time in middle → time at end)
+> "In Seoul I live."               "I live in Seoul."
+> (place first → place after verb)
+> "Coffee to me please give."      "Please give me coffee."
+> (full Korean order)
+> "Don't late be."                 "Don't be late."
+> (Korean order: 늦지 마)
 
 ### 9.2 The Subject-Drop Problem
 
@@ -694,27 +657,22 @@ Fix the word order errors.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Word Order Quick Guide                              │
-│                                                                 │
-│   Statements: S + V + O + (Manner) + (Place) + (Time)          │
-│   Questions:  Wh + do/does/be/aux + S + V + O?                 │
-│   Negatives:  S + don't/doesn't/be+not/aux+not + V             │
-│   Existence:  There is/are + noun + place                       │
-│   Commands:   Base verb + O    / Don't + base verb + O          │
-│   Suggest:    Let's + base verb                                 │
-│   Exclam:     What a + adj + noun! / How + adj!                 │
-│                                                                 │
-│   Korean → English conversion:                                  │
-│   SOV → SVO (move verb before object)                           │
-│   Time first → Time last (or at front, comma)                   │
-│   Place first → Place after verb                                │
-│   Question: ending change → word order change                   │
-│   Subject drop → Subject required (always!)                     │
-│   Double negative OK → Single negative only                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Word Order Quick Guide**
+>
+> Statements: S + V + O + (Manner) + (Place) + (Time)
+> Questions:  Wh + do/does/be/aux + S + V + O?
+> Negatives:  S + don't/doesn't/be+not/aux+not + V
+> Existence:  There is/are + noun + place
+> Commands:   Base verb + O    / Don't + base verb + O
+> Suggest:    Let's + base verb
+> Exclam:     What a + adj + noun! / How + adj!
+> Korean → English conversion:
+> SOV → SVO (move verb before object)
+> Time first → Time last (or at front, comma)
+> Place first → Place after verb
+> Question: ending change → word order change
+> Subject drop → Subject required (always!)
+> Double negative OK → Single negative only
 
 ---
 
