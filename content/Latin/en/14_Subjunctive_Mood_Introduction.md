@@ -25,21 +25,16 @@
 
 Latin has three moods:
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│   INDICATIVE   → states facts, asks direct questions           │
-│                  "Caesar conquered Gaul."                       │
-│                                                                │
-│   SUBJUNCTIVE  → expresses possibility, wish, purpose,         │
-│                  doubt, command (indirect/soft), condition      │
-│                  "May Caesar conquer Gaul."                     │
-│                  "Let us conquer Gaul."                         │
-│                  "...so that Caesar might conquer Gaul."        │
-│                                                                │
-│   IMPERATIVE   → gives direct commands                         │
-│                  "Conquer Gaul!"                                │
-└────────────────────────────────────────────────────────────────┘
-```
+> **Three Moods of Latin**
+>
+> - **INDICATIVE** — states facts, asks direct questions
+>   "Caesar conquered Gaul."
+>
+> - **SUBJUNCTIVE** — expresses possibility, wish, purpose, doubt, command (indirect/soft), condition
+>   "May Caesar conquer Gaul." / "Let us conquer Gaul." / "...so that Caesar might conquer Gaul."
+>
+> - **IMPERATIVE** — gives direct commands
+>   "Conquer Gaul!"
 
 The subjunctive is **extremely common** in Latin — far more so than in English. It appears in:
 - Independent (main) clauses: wishes, gentle commands, possibilities
@@ -313,16 +308,13 @@ Often paired with **tamen** ("nevertheless") in the main clause:
 
 ### 7.4 Identifying Which Cum
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│   CUM + INDICATIVE  → purely temporal ("when/at the time")    │
-│   CUM + SUBJUNCTIVE → check context:                          │
-│                                                                │
-│   1. "tamen" in main clause?  → CONCESSIVE (although)         │
-│   2. Explains WHY?            → CAUSAL (since)                │
-│   3. Sets the scene/time?     → TEMPORAL (when)               │
-└────────────────────────────────────────────────────────────────┘
-```
+> **Identifying Which Cum**
+>
+> - **CUM + INDICATIVE** — purely temporal ("when/at the time")
+> - **CUM + SUBJUNCTIVE** — check context:
+>   1. "tamen" in main clause? — CONCESSIVE (although)
+>   2. Explains WHY? — CAUSAL (since)
+>   3. Sets the scene/time? — TEMPORAL (when)
 
 > Note: *Cum* + indicative is used for present/future time or repeated actions (*Cum tacent, clāmant.* — When they are silent, they cry out). *Cum* + subjunctive is the norm for past-time narrative.
 
@@ -422,30 +414,26 @@ Translate and identify the type (temporal, causal, or concessive).
 
 ## Quick Reference Card
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│   SUBJUNCTIVE FORMATION                                          │
-│                                                                  │
-│   PRESENT:  "wE bEAt A lIAr"                                    │
-│   1st: a→ē   2nd: +eā   3rd: +ā   3rd-iō: +iā   4th: +iā      │
-│   esse: sim, sīs, sit, sīmus, sītis, sint                       │
-│                                                                  │
-│   IMPERFECT: infinitive + personal endings (-m, -s, -t...)       │
-│   amārem, monērem, dūcerem, caperem, audīrem, essem             │
-│                                                                  │
-│   INDEPENDENT USES                                               │
-│   Hortatory:    1pl pres. — "Let us..."      neg: nē             │
-│   Jussive:      3rd pres. — "Let him..."     neg: nē             │
-│   Optative:     utinam + subj. — "May/If only..."  neg: nē       │
-│   Deliberative: 1st question — "Should I...?"  neg: nōn          │
-│   Potential:    any — "Would/might..."       neg: nōn             │
-│                                                                  │
-│   DEPENDENT USES                                                 │
-│   Purpose:  ut + subj. / nē + subj.                              │
-│   Result:   (tam/tantus...) ut + subj. / ut nōn + subj.          │
-│   Cum:      temporal / causal / concessive + subj.               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **SUBJUNCTIVE FORMATION**
+>
+> **Present:** "wE bEAt A lIAr"
+> 1st: a→ē | 2nd: +eā | 3rd: +ā | 3rd-iō: +iā | 4th: +iā
+> esse: sim, sīs, sit, sīmus, sītis, sint
+>
+> **Imperfect:** infinitive + personal endings (-m, -s, -t...)
+> amārem, monērem, dūcerem, caperem, audīrem, essem
+>
+> **Independent Uses**
+> - **Hortatory**: 1pl pres. — "Let us..." (neg: nē)
+> - **Jussive**: 3rd pres. — "Let him..." (neg: nē)
+> - **Optative**: utinam + subj. — "May/If only..." (neg: nē)
+> - **Deliberative**: 1st question — "Should I...?" (neg: nōn)
+> - **Potential**: any — "Would/might..." (neg: nōn)
+>
+> **Dependent Uses**
+> - **Purpose**: ut + subj. / nē + subj.
+> - **Result**: (tam/tantus...) ut + subj. / ut nōn + subj.
+> - **Cum**: temporal / causal / concessive + subj.
 
 ## Navigation
 - Previous: [13. Participles, Infinitives, and Gerunds](13_Participles_Infinitives_and_Gerunds.md)
