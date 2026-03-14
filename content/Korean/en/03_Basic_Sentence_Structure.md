@@ -37,25 +37,13 @@
 
 English follows **SVO** (Subject-Verb-Object) order. Korean follows **SOV** (Subject-Object-Verb) order. The verb ALWAYS comes at the end.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              English (SVO) vs Korean (SOV)                         │
-│                                                                  │
-│   English:   I       eat     an apple.                           │
-│              [S]     [V]     [O]                                 │
-│                                                                  │
-│   Korean:    저는    사과를    먹어요.                              │
-│              [S]     [O]      [V]                                 │
-│              I       apple    eat                                │
-│                                                                  │
-│   English:   She     studies  Korean.                            │
-│              [S]     [V]      [O]                                │
-│                                                                  │
-│   Korean:    그녀는   한국어를   공부해요.                           │
-│              [S]      [O]       [V]                               │
-│              She      Korean    studies                           │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **English (SVO) vs Korean (SOV)**
+>
+> English: I [S] eat [V] an apple [O].
+> Korean: 저는 [S] 사과를 [O] 먹어요 [V]. (I — apple — eat)
+>
+> English: She [S] studies [V] Korean [O].
+> Korean: 그녀는 [S] 한국어를 [O] 공부해요 [V]. (She — Korean — studies)
 
 ### 1.2 Key Principles of Korean Word Order
 
@@ -93,19 +81,12 @@ The topic (주제, juje) is what the sentence is "about." Korean explicitly mark
 - **은** after a consonant: 학생**은** (because 생 ends in ㅇ consonant)
 - **는** after a vowel: 저**는** (because 저 ends in ㅓ vowel)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Topic Marker 은/는                              │
-│                                                                  │
-│   Rule:  Consonant ending + 은     저는 → impossible (저 ends    │
-│          Vowel ending + 는          in vowel, so 는)              │
-│                                                                  │
-│   Consonant ending:                Vowel ending:                 │
-│     학생 → 학생은 (student)          저 → 저는 (I)                │
-│     선생님 → 선생님은 (teacher)      사과 → 사과는 (apple)         │
-│     한국 → 한국은 (Korea)            커피 → 커피는 (coffee)        │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Topic Marker 은/는**
+>
+> - **Rule**: Consonant ending + 은, Vowel ending + 는
+>
+> - **Consonant ending**: 학생 → 학생은 (student), 선생님 → 선생님은 (teacher), 한국 → 한국은 (Korea)
+> - **Vowel ending**: 저 → 저는 (I), 사과 → 사과는 (apple), 커피 → 커피는 (coffee)
 
 ### 2.2 Functions of 은/는
 
@@ -137,30 +118,22 @@ The subject marker **이/가** identifies the subject of the sentence, often int
 
 ### 3.2 은/는 vs 이/가 — The Key Difference
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│               은/는 (Topic) vs 이/가 (Subject)                    │
-│                                                                  │
-│   은/는 marks KNOWN information (the topic being discussed):     │
-│     "Speaking of X..."                                           │
-│                                                                  │
-│   이/가 marks NEW information (what's being asserted):           │
-│     "It is X that..."                                            │
-│                                                                  │
-│   Example conversation:                                          │
-│   Q: 누가 학생이에요?       "WHO is the student?"                 │
-│   A: 민수가 학생이에요.     "MINSU is the student." (new info)    │
-│                                                                  │
-│   Q: 민수는 뭐예요?        "What about Minsu? (What is he?)"     │
-│   A: 민수는 학생이에요.     "Minsu is a student." (topic=Minsu)   │
-│                                                                  │
-│   Same sentence, different particles, different nuance:          │
-│     민수가 학생이에요 = It's MINSU who is the student (focus on   │
-│                        who)                                      │
-│     민수는 학생이에요 = As for Minsu, he is a student (topic      │
-│                        already established)                      │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **은/는 (Topic) vs 이/가 (Subject)**
+>
+> 은/는 marks KNOWN information (the topic being discussed): "Speaking of X..."
+>
+> 이/가 marks NEW information (what's being asserted): "It is X that..."
+>
+> Example conversation:
+> - Q: 누가 학생이에요? — "WHO is the student?"
+> - A: 민수가 학생이에요. — "MINSU is the student." (new info)
+>
+> - Q: 민수는 뭐예요? — "What about Minsu? (What is he?)"
+> - A: 민수는 학생이에요. — "Minsu is a student." (topic=Minsu)
+>
+> Same sentence, different particles, different nuance:
+> - 민수**가** 학생이에요 = It's MINSU who is the student (focus on who)
+> - 민수**는** 학생이에요 = As for Minsu, he is a student (topic already established)
 
 ### 3.3 Special Cases for 이/가
 
@@ -221,23 +194,19 @@ The copula 이다 (ida) means "to be" and attaches directly to a noun (no space)
 
 ### 4.3 Summary Comparison
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│            이다 vs 아니다 — Quick Reference                       │
-│                                                                  │
-│   Affirmative:                                                   │
-│     저는 학생입니다.            I am a student.                    │
-│     이것은 펜이에요.            This is a pen.                     │
-│                                                                  │
-│   Negative:                                                      │
-│     저는 학생이 아닙니다.       I am not a student.                │
-│     이것은 펜이 아니에요.       This is not a pen.                 │
-│                                                                  │
-│   Note the structural difference:                                │
-│     이다: [Noun]입니다         (noun + copula, no space)          │
-│     아니다: [Noun]이/가 아닙니다 (noun + 이/가 + negative copula) │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **이다 vs 아니다 — Quick Reference**
+>
+> **Affirmative:**
+> - 저는 학생입니다. — I am a student.
+> - 이것은 펜이에요. — This is a pen.
+>
+> **Negative:**
+> - 저는 학생이 아닙니다. — I am not a student.
+> - 이것은 펜이 아니에요. — This is not a pen.
+>
+> Note the structural difference:
+> - **이다**: [Noun]입니다 (noun + copula, no space)
+> - **아니다**: [Noun]이/가 아닙니다 (noun + 이/가 + negative copula)
 
 ---
 
@@ -253,23 +222,15 @@ Korean has a three-way demonstrative system based on distance from speaker and l
 | 그 (geu) | That | Close to the **listener** / known/mentioned |
 | 저 (jeo) | That (over there) | Far from **both** speaker and listener |
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Three-Way Demonstrative System                       │
-│                                                                  │
-│                                                                  │
-│    Speaker          Listener          Far away                   │
-│      ●                ●                                          │
-│     [이]             [그]              [저]                       │
-│     this             that              that over there            │
-│   (near me)       (near you /       (far from both               │
-│                    mentioned)         of us)                      │
-│                                                                  │
-│   이 책 = this book (I'm holding it)                             │
-│   그 책 = that book (you're holding / we talked about)           │
-│   저 책 = that book (over there on the shelf)                    │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Three-Way Demonstrative System**
+>
+> - **이** (this) — near the speaker (near me)
+> - **그** (that) — near the listener / mentioned
+> - **저** (that over there) — far from both of us
+>
+> - 이 책 = this book (I'm holding it)
+> - 그 책 = that book (you're holding / we talked about)
+> - 저 책 = that book (over there on the shelf)
 
 ### 5.2 Demonstrative Series
 
@@ -307,27 +268,21 @@ Korean has a three-way demonstrative system based on distance from speaker and l
 
 **있다** (itta) and **없다** (eoptta) are among the most frequently used words in Korean. They have two main meanings:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                   있다 / 없다                                     │
-│                                                                  │
-│   Meaning 1: EXISTENCE                                           │
-│     있다 = to exist, there is/are                                │
-│     없다 = to not exist, there is/are not                        │
-│                                                                  │
-│     고양이가 있어요.       There is a cat. / A cat exists.        │
-│     고양이가 없어요.       There is no cat.                       │
-│                                                                  │
-│   Meaning 2: POSSESSION (to have / not have)                     │
-│     있다 = to have                                               │
-│     없다 = to not have                                           │
-│                                                                  │
-│     저는 차가 있어요.      I have a car.                          │
-│     저는 차가 없어요.      I don't have a car.                    │
-│                                                                  │
-│   Note: The thing that exists/is possessed takes 이/가 (not 을/를)│
-└──────────────────────────────────────────────────────────────────┘
-```
+> **있다 / 없다**
+>
+> **Meaning 1: EXISTENCE**
+> - 있다 = to exist, there is/are
+> - 없다 = to not exist, there is/are not
+> - 고양이가 있어요. — There is a cat. / A cat exists.
+> - 고양이가 없어요. — There is no cat.
+>
+> **Meaning 2: POSSESSION** (to have / not have)
+> - 있다 = to have
+> - 없다 = to not have
+> - 저는 차가 있어요. — I have a car.
+> - 저는 차가 없어요. — I don't have a car.
+>
+> Note: The thing that exists/is possessed takes 이/가 (not 을/를)
 
 ### 6.2 Conjugation
 
@@ -414,27 +369,23 @@ When 누구 (who) is used as a subject, it becomes **누가** (not 누구가):
 
 Korean question formation is remarkably simple — much simpler than English (no do/does/did, no subject-verb inversion).
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Korean Question Formation                            │
-│                                                                  │
-│   Method 1: Rising intonation (informal polite — 해요체)         │
-│     Statement:  학생이에요.↘     (is a student)                   │
-│     Question:   학생이에요?↗     (is [someone] a student?)        │
-│     → Just raise the intonation at the end!                      │
-│                                                                  │
-│   Method 2: Formal question ending (합쇼체)                      │
-│     Statement:  학생입니다.      (is a student)                   │
-│     Question:   학생입니까?      (is [someone] a student?)        │
-│     → Change -ㅂ니다 to -ㅂ니까                                   │
-│                                                                  │
-│   Method 3: Question word + sentence                             │
-│     뭐예요?               What is it?                            │
-│     어디에 가요?           Where are you going?                   │
-│     언제 와요?             When are you coming?                   │
-│     → No word order change needed — just add the question word   │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Question Formation**
+>
+> **Method 1**: Rising intonation (informal polite — 해요체)
+> - Statement: 학생이에요.↘ (is a student)
+> - Question: 학생이에요?↗ (is [someone] a student?)
+> → Just raise the intonation at the end!
+>
+> **Method 2**: Formal question ending (합쇼체)
+> - Statement: 학생입니다. (is a student)
+> - Question: 학생입니까? (is [someone] a student?)
+> → Change -ㅂ니다 to -ㅂ니까
+>
+> **Method 3**: Question word + sentence
+> - 뭐예요? — What is it?
+> - 어디에 가요? — Where are you going?
+> - 언제 와요? — When are you coming?
+> → No word order change needed — just add the question word
 
 ### 8.2 Yes/No Questions
 
