@@ -25,24 +25,18 @@
 
 ### 1.1 Why Business English Matters
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Business English is the language of:                         │
-│                                                                 │
-│   • International commerce and trade                           │
-│   • Multinational corporations                                 │
-│   • Global conferences and summits                             │
-│   • International job markets                                  │
-│   • Scientific and academic collaboration                      │
-│                                                                 │
-│   Key principles:                                              │
-│   1. Clarity — Be direct and specific                          │
-│   2. Politeness — Use appropriate tone                         │
-│   3. Professionalism — Avoid slang and casual language          │
-│   4. Conciseness — Respect people's time                       │
-│   5. Cultural awareness — Adapt to your audience               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Business English is the language of:
+> • International commerce and trade
+> • Multinational corporations
+> • Global conferences and summits
+> • International job markets
+> • Scientific and academic collaboration
+> Key principles:
+> 1. Clarity — Be direct and specific
+> 2. Politeness — Use appropriate tone
+> 3. Professionalism — Avoid slang and casual language
+> 4. Conciseness — Respect people's time
+> 5. Cultural awareness — Adapt to your audience
 
 ---
 
@@ -193,15 +187,11 @@ CLOSING:
 
 ### 4.1 Structure
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. OPENING (Hook + Self-intro + Overview)                    │
-│   2. BODY (Main points with evidence)                          │
-│   3. SUMMARY (Key takeaways)                                   │
-│   4. Q&A (Questions and answers)                               │
-│   5. CLOSING (Thank audience)                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. OPENING (Hook + Self-intro + Overview)
+> 2. BODY (Main points with evidence)
+> 3. SUMMARY (Key takeaways)
+> 4. Q&A (Questions and answers)
+> 5. CLOSING (Thank audience)
 
 ### 4.2 Useful Phrases
 
@@ -357,27 +347,21 @@ CLOSING THE DEAL:
 
 ### 6.2 STAR Method for Behavioral Questions
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   S — Situation:  Set the context                              │
-│   T — Task:       Describe your responsibility                 │
-│   A — Action:     Explain what YOU did                         │
-│   R — Result:     Share the outcome (with numbers if possible) │
-│                                                                 │
-│   Example:                                                     │
-│   Q: "Tell me about a time you solved a difficult problem."    │
-│                                                                 │
-│   S: "At my previous company, we had a client complaint       │
-│       about delayed deliveries."                               │
-│   T: "As project manager, I was responsible for identifying    │
-│       the cause and fixing it."                                │
-│   A: "I analyzed our supply chain and found that a particular  │
-│       supplier was consistently late. I negotiated new terms   │
-│       and set up a backup supplier."                           │
-│   R: "As a result, on-time delivery improved from 78% to 96%, │
-│       and client satisfaction increased by 25%."               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> S — Situation:  Set the context
+> T — Task:       Describe your responsibility
+> A — Action:     Explain what YOU did
+> R — Result:     Share the outcome (with numbers if possible)
+> Example:
+> Q: "Tell me about a time you solved a difficult problem."
+> S: "At my previous company, we had a client complaint
+> about delayed deliveries."
+> T: "As project manager, I was responsible for identifying
+> the cause and fixing it."
+> A: "I analyzed our supply chain and found that a particular
+> supplier was consistently late. I negotiated new terms
+> and set up a backup supplier."
+> R: "As a result, on-time delivery improved from 78% to 96%,
+> and client satisfaction increased by 25%."
 
 ---
 
@@ -502,38 +486,36 @@ EXITING GRACEFULLY:
 
 ### 9.1 Key Differences
 
-```
-┌────────────────┬─────────────────────┬─────────────────────────┐
-│ Aspect         │ Korean (한국)        │ Western (English-speaking)│
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Hierarchy      │ Very important;     │ Less rigid; first-name  │
-│                │ 존댓말 required      │ basis common            │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Business cards │ Given/received with │ Less ceremonial;        │
-│                │ two hands; studied  │ often digital exchange   │
-│                │ carefully           │                         │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Decision-making│ Top-down; consensus │ Individual initiative   │
-│                │ building (회의)     │ valued; debate welcomed  │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Saying "no"    │ Indirect; implies   │ More direct; "no" is   │
-│                │ through silence or  │ acceptable              │
-│                │ hesitation          │                         │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ After-work     │ 회식 (team dinners) │ Optional socializing;   │
-│ socializing    │ are expected        │ personal time valued    │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Punctuality    │ Important           │ Very important in most  │
-│                │                     │ English-speaking        │
-│                │                     │ countries               │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Email tone     │ More formal;        │ Professional but often  │
-│                │ respectful language │ more concise and direct │
-├────────────────┼─────────────────────┼─────────────────────────┤
-│ Feedback       │ Indirect; face-     │ More direct; considered│
-│                │ saving important    │ constructive            │
-└────────────────┴─────────────────────┴─────────────────────────┘
-```
+> | Aspect | Korean (한국) | Western (English-speaking) |
+> |---|---|---|
+> | Hierarchy | Very important; | Less rigid; first-name |
+> | 존댓말 required | basis common |  |
+> | Business cards | Given/received with | Less ceremonial; |
+> | two hands; studied | often digital exchange |  |
+> | carefully |  |  |
+> | Decision-making | Top-down; consensus | Individual initiative |
+> | building (회의) | valued; debate welcomed |  |
+> | Saying "no" | Indirect; implies | More direct; "no" is |
+> | through silence or | acceptable |  |
+> | hesitation |  |  |
+> | After-work | 회식 (team dinners) | Optional socializing; |
+> | socializing | are expected | personal time valued |
+> | Punctuality | Important | Very important in most |
+> | English-speaking |  |  |
+> | countries |  |  |
+> | Email tone | More formal; | Professional but often |
+> | respectful language | more concise and direct |  |
+> | Feedback | Indirect; face- | More direct; considered |
+> | saving important | constructive |  |
+>
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
+> ├────────────────┼─────────────────────┼─────────────────────────┤
 
 ### 9.2 Tips for Korean Speakers in Western Business Settings
 
@@ -690,29 +672,21 @@ Practice these phone call situations.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                Business English Quick Guide                    │
-│                                                                 │
-│   EMAILS: Subject → Greeting → Purpose → Details → Close      │
-│   Request: "Could you please..." / "I would appreciate if..."  │
-│   Bad news: "I regret to inform you..." / "Unfortunately..."  │
-│                                                                 │
-│   MEETINGS: "Let's get started" → "What are your thoughts?"   │
-│   Disagree: "I see your point, but..." / "With respect,..."   │
-│   Close: "To sum up..." / "Key action items are..."           │
-│                                                                 │
-│   INTERVIEWS: Use STAR method (Situation-Task-Action-Result)   │
-│   "Tell me about yourself" → Present → Past → Future          │
-│                                                                 │
-│   PHONE: "This is [Name] from [Company]."                     │
-│   Hold: "Could you hold for a moment?"                         │
-│   Problems: "Could you repeat that?" / "The line is bad."     │
-│                                                                 │
-│   KOREAN SPEAKERS: Be more direct, use first names when        │
-│   invited, speak up in meetings, maintain eye contact          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Business English Quick Guide**
+>
+> EMAILS: Subject → Greeting → Purpose → Details → Close
+> Request: "Could you please..." / "I would appreciate if..."
+> Bad news: "I regret to inform you..." / "Unfortunately..."
+> MEETINGS: "Let's get started" → "What are your thoughts?"
+> Disagree: "I see your point, but..." / "With respect,..."
+> Close: "To sum up..." / "Key action items are..."
+> INTERVIEWS: Use STAR method (Situation-Task-Action-Result)
+> "Tell me about yourself" → Present → Past → Future
+> PHONE: "This is [Name] from [Company]."
+> Hold: "Could you hold for a moment?"
+> Problems: "Could you repeat that?" / "The line is bad."
+> KOREAN SPEAKERS: Be more direct, use first names when
+> invited, speak up in meetings, maintain eye contact
 
 ---
 
