@@ -28,21 +28,17 @@
 
 ## 1. 네 가지 접속법 시제: 개요
 
-```
-+----------------------------------------------------------+
-|  네 가지 접속법 시제                                       |
-|                                                          |
-|  단순 시제:                                               |
-|  1. Congiuntivo presente  — 현재/미래 접속법               |
-|  2. Congiuntivo imperfetto — 과거 접속법                   |
-|                                                          |
-|  복합 시제:                                               |
-|  3. Congiuntivo passato   — 현재 완료 접속법               |
-|  4. Congiuntivo trapassato — 대과거 접속법                 |
-|                                                          |
-|  복합 = avere/essere의 접속법 + 과거 분사                  |
-+----------------------------------------------------------+
-```
+> **네 가지 접속법 시제**
+>
+> 단순 시제:
+> - **1. Congiuntivo presente** — 현재/미래 접속법
+> - **2. Congiuntivo imperfetto** — 과거 접속법
+>
+> 복합 시제:
+> - **3. Congiuntivo passato** — 현재 완료 접속법
+> - **4. Congiuntivo trapassato** — 대과거 접속법
+>
+> 복합 = avere/essere의 접속법 + 과거 분사
 
 ### 빠른 참조: parlare (avere 사용)
 
@@ -215,22 +211,13 @@ avere/essere의 congiuntivo imperfetto + participio passato
 
 제1유형 조건문은 **현실적이거나 가능성이 높은** 조건을 표현합니다.
 
-```
-+----------------------------------------------------------+
-|  제1유형: 현실 / 높은 가능성                                |
-|                                                          |
-|  SE + PRESENTE → PRESENTE / FUTURO / IMPERATIVO          |
-|                                                          |
-|  Se piove, resto a casa.                                 |
-|  (비가 오면 집에 있겠다.)                                  |
-|                                                          |
-|  Se pioverà, resteremo a casa.                           |
-|  (비가 오면 집에 있을 것이다.)                              |
-|                                                          |
-|  Se hai fame, mangia qualcosa!                           |
-|  (배고프면 뭔가 먹어!)                                    |
-+----------------------------------------------------------+
-```
+> **제1유형: 현실 / 높은 가능성**
+>
+> SE + PRESENTE → PRESENTE / FUTURO / IMPERATIVO
+>
+> - Se piove, resto a casa. (비가 오면 집에 있겠다.)
+> - Se pioverà, resteremo a casa. (비가 오면 집에 있을 것이다.)
+> - Se hai fame, mangia qualcosa! (배고프면 뭔가 먹어!)
 
 ### 예시
 
@@ -248,19 +235,12 @@ avere/essere의 congiuntivo imperfetto + participio passato
 
 제2유형 조건문은 현재/미래에서 **가정적이거나 가능성이 낮은** 조건을 표현합니다.
 
-```
-+----------------------------------------------------------+
-|  제2유형: 가능성 / 가능성 낮음 / 가정                       |
-|                                                          |
-|  SE + CONGIUNTIVO IMPERFETTO → CONDIZIONALE PRESENTE     |
-|                                                          |
-|  Se avessi tempo, viaggerei di più.                      |
-|  (시간이 있다면 더 많이 여행할 텐데.)                       |
-|                                                          |
-|  Se fossi ricco, comprerei una villa.                    |
-|  (부자라면 별장을 살 텐데.)                                |
-+----------------------------------------------------------+
-```
+> **제2유형: 가능성 / 가능성 낮음 / 가정**
+>
+> SE + CONGIUNTIVO IMPERFETTO → CONDIZIONALE PRESENTE
+>
+> - Se avessi tempo, viaggerei di più. (시간이 있다면 더 많이 여행할 텐데.)
+> - Se fossi ricco, comprerei una villa. (부자라면 별장을 살 텐데.)
 
 ### 예시
 
@@ -279,19 +259,12 @@ avere/essere의 congiuntivo imperfetto + participio passato
 
 제3유형 조건문은 과거에 대한 **불가능하거나 반사실적인** 조건을 표현합니다.
 
-```
-+----------------------------------------------------------+
-|  제3유형: 불가능 / 반사실적 (과거)                           |
-|                                                          |
-|  SE + CONGIUNTIVO TRAPASSATO → CONDIZIONALE PASSATO      |
-|                                                          |
-|  Se avessi studiato, avrei superato l'esame.             |
-|  (공부했더라면 시험에 합격했을 텐데.)                       |
-|                                                          |
-|  Se fossi partito prima, saresti arrivato in tempo.      |
-|  (더 일찍 떠났더라면 제시간에 도착했을 텐데.)               |
-+----------------------------------------------------------+
-```
+> **제3유형: 불가능 / 반사실적 (과거)**
+>
+> SE + CONGIUNTIVO TRAPASSATO → CONDIZIONALE PASSATO
+>
+> - Se avessi studiato, avrei superato l'esame. (공부했더라면 시험에 합격했을 텐데.)
+> - Se fossi partito prima, saresti arrivato in tempo. (더 일찍 떠났더라면 제시간에 도착했을 텐데.)
 
 ### 예시
 
