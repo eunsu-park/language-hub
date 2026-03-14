@@ -41,21 +41,17 @@
 
 The て-form (te-kei) is one of the most versatile and frequently used verb forms in Japanese. By itself, it does not express tense or politeness. Instead, it serves as a **connector** that attaches to helper verbs and expressions to create new meanings.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           The て-form is a Swiss Army knife                  │
-│                                                              │
-│   て + ください      → please do...                         │
-│   て + いる          → is doing... / has done...             │
-│   て + もいい        → may I...? / it's okay to...          │
-│   て + はいけない    → must not...                           │
-│   て + ある          → something has been done (state)       │
-│   て + て + て...    → did X, then Y, then Z...             │
-│                                                              │
-│   The て-form is THE key to unlocking intermediate Japanese. │
-│   Master it, and dozens of grammar patterns become available.│
-└──────────────────────────────────────────────────────────────┘
-```
+> **The て-form is a Swiss Army knife**
+>
+> て + ください      → please do...
+> て + いる          → is doing... / has done...
+> て + もいい        → may I...? / it's okay to...
+> て + はいけない    → must not...
+> て + ある          → something has been done (state)
+> て + て + て...    → did X, then Y, then Z...
+>
+> The て-form is THE key to unlocking intermediate Japanese.
+> Master it, and dozens of grammar patterns become available.
 
 ---
 
@@ -95,25 +91,21 @@ The ending changes based on the final kana of the dictionary form. This is where
 
 A mnemonic to remember the godan て-form rules:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│               て-FORM SONG                                    │
-│                                                              │
-│   ♪ う、つ、る → って  って  って                             │
-│     (u, tsu, ru → tte)                                       │
-│                                                              │
-│   ♪ む、ぶ、ぬ → んで  んで  んで                             │
-│     (mu, bu, nu → nde)                                       │
-│                                                              │
-│   ♪ く → いて     ぐ → いで                                  │
-│     (ku → ite)    (gu → ide)                                 │
-│                                                              │
-│   ♪ す → して                                                │
-│     (su → shite)                                             │
-│                                                              │
-│   Sing it, memorize it, love it.                             │
-└──────────────────────────────────────────────────────────────┘
-```
+> **て-FORM SONG**
+>
+> ♪ う、つ、る → って  って  って
+> (u, tsu, ru → tte)
+>
+> ♪ む、ぶ、ぬ → んで  んで  んで
+> (mu, bu, nu → nde)
+>
+> ♪ く → いて     ぐ → いで
+> (ku → ite)    (gu → ide)
+>
+> ♪ す → して
+> (su → shite)
+>
+> Sing it, memorize it, love it.
 
 ### 2.4 Group 3: Irregular Verbs
 
@@ -133,26 +125,22 @@ iku → itte     (NOT iite)
 
 ### 2.6 Complete Reference Table
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                  て-FORM COMPLETE CHART                       │
-├──────────────┬────────────────┬───────────────────────────────┤
-│ Group        │ Rule           │ Example                       │
-├──────────────┼────────────────┼───────────────────────────────┤
-│ Ichidan (G2) │ る → て        │ 食べる → 食べて              │
-├──────────────┼────────────────┼───────────────────────────────┤
-│ Godan う/つ/る│ → って         │ 買う → 買って               │
-│ Godan む/ぶ/ぬ│ → んで        │ 読む → 読んで               │
-│ Godan く     │ → いて         │ 書く → 書いて               │
-│ Godan ぐ     │ → いで         │ 泳ぐ → 泳いで               │
-│ Godan す     │ → して         │ 話す → 話して               │
-├──────────────┼────────────────┼───────────────────────────────┤
-│ Exception    │ 行く → 行って  │ (NOT 行いて)                 │
-├──────────────┼────────────────┼───────────────────────────────┤
-│ Irregular    │ する → して    │ 勉強する → 勉強して         │
-│              │ 来る → 来て    │ (kuru → kite)                │
-└──────────────┴────────────────┴───────────────────────────────┘
-```
+> **て-FORM COMPLETE CHART**
+> ├──────────────┬────────────────┬───────────────────────────────┤
+> Group        │ Rule           │ Example
+> ├──────────────┼────────────────┼───────────────────────────────┤
+> Ichidan (G2) │ る → て        │ 食べる → 食べて
+> ├──────────────┼────────────────┼───────────────────────────────┤
+> Godan う/つ/る│ → って         │ 買う → 買って
+> Godan む/ぶ/ぬ│ → んで        │ 読む → 読んで
+> Godan く     │ → いて         │ 書く → 書いて
+> Godan ぐ     │ → いで         │ 泳ぐ → 泳いで
+> Godan す     │ → して         │ 話す → 話して
+> ├──────────────┼────────────────┼───────────────────────────────┤
+> Exception    │ 行く → 行って  │ (NOT 行いて)
+> ├──────────────┼────────────────┼───────────────────────────────┤
+> Irregular    │ する → して    │ 勉強する → 勉強して
+> │ 来る → 来て    │ (kuru → kite)
 
 ---
 
@@ -204,18 +192,14 @@ Please don't take photos here.
 
 ### 3.3 Politeness Levels
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│          Request Politeness Levels                            │
-│                                                              │
-│   待って。                Very casual (between close friends) │
-│   待ってください。        Polite (standard)                   │
-│   待っていただけますか。  Very polite / humble                │
-│   お待ちください。        Formal / honorific                  │
-│                                                              │
-│   For now, master ください. The others come in Lesson 14.    │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Request Politeness Levels**
+>
+> 待って。                Very casual (between close friends)
+> 待ってください。        Polite (standard)
+> 待っていただけますか。  Very polite / humble
+> お待ちください。        Formal / honorific
+>
+> For now, master ください. The others come in Lesson 14.
 
 ---
 
@@ -375,26 +359,22 @@ You must not tell lies.
 
 ### 6.2 Permission vs Prohibition Summary
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│        PERMISSION vs PROHIBITION                              │
-│                                                              │
-│   て + もいいですか         May I ...?                       │
-│   て + もいいですよ         You may ... / It's okay to ...   │
-│                                                              │
-│   て + はいけません         You must not ...                  │
-│   て + はだめです           You must not ... (slightly casual)│
-│                                                              │
-│   Example pair:                                              │
-│   Q: ここで食べてもいいですか。  May I eat here?             │
-│   A: はい、食べてもいいですよ。  Yes, you may eat here.      │
-│   A: いいえ、食べてはいけません。No, you must not eat here.  │
-│                                                              │
-│   ※ だめ (dame) is a more colloquial alternative to         │
-│     いけない for prohibition.                                │
-│     食べてはだめです。= You must not eat.                    │
-└──────────────────────────────────────────────────────────────┘
-```
+> **PERMISSION vs PROHIBITION**
+>
+> て + もいいですか         May I ...?
+> て + もいいですよ         You may ... / It's okay to ...
+>
+> て + はいけません         You must not ...
+> て + はだめです           You must not ... (slightly casual)
+>
+> Example pair:
+> - **Q**: ここで食べてもいいですか。  May I eat here?
+> - **A**: はい、食べてもいいですよ。  Yes, you may eat here.
+> - **A**: いいえ、食べてはいけません。No, you must not eat here.
+>
+> ※ だめ (dame) is a more colloquial alternative to
+> いけない for prohibition.
+> 食べてはだめです。= You must not eat.
 
 ---
 
@@ -420,23 +400,19 @@ A painting has been hung on the wall.
 
 ### 7.2 ている vs てある
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           ている vs てある                                    │
-│                                                              │
-│   窓が開いている。                                           │
-│   The window is open. (describes the state, no agent)        │
-│   Uses intransitive verb: 開く (aku — to open by itself)     │
-│                                                              │
-│   窓が開けてある。                                           │
-│   The window has been opened. (someone did it on purpose)    │
-│   Uses transitive verb: 開ける (akeru — to open something)  │
-│                                                              │
-│   Key difference:                                            │
-│   ている = state (natural or otherwise)                      │
-│   てある = state resulting from someone's INTENTIONAL action │
-└──────────────────────────────────────────────────────────────┘
-```
+> **ている vs てある**
+>
+> 窓が開いている。
+> The window is open. (describes the state, no agent)
+> - **Uses intransitive verb**: 開く (aku — to open by itself)
+>
+> 窓が開けてある。
+> The window has been opened. (someone did it on purpose)
+> - **Uses transitive verb**: 開ける (akeru — to open something)
+>
+> Key difference:
+> ている = state (natural or otherwise)
+> てある = state resulting from someone's INTENTIONAL action
 
 ### 7.3 More Examples
 
@@ -783,36 +759,32 @@ Use the appropriate て-form grammar for each sentence.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│           て-FORM CHEAT SHEET (て形まとめ)                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  FORMATION                                                   │
-│  Ichidan:    る → て         食べる → 食べて                │
-│  Godan う/つ/る: → って      買う → 買って                  │
-│  Godan む/ぶ/ぬ: → んで     読む → 読んで                  │
-│  Godan く:  → いて           書く → 書いて                  │
-│  Godan ぐ:  → いで           泳ぐ → 泳いで                  │
-│  Godan す:  → して           話す → 話して                  │
-│  Exception: 行く → 行って                                    │
-│  Irregular: する → して  /  来る → 来て                     │
-│                                                              │
-│  GRAMMAR PATTERNS                                            │
-│  て + ください        Please do...  (待ってください)         │
-│  ないで + ください    Please don't... (触らないでください)    │
-│  て + いる            Ongoing/state/habit (読んでいる)        │
-│  て + もいいですか    May I...? (撮ってもいいですか)         │
-│  て + はいけない      Must not... (走ってはいけない)          │
-│  て + ある            Resultant state (書いてある)            │
-│  て + て + て...      Chain actions (起きて、食べて...)       │
-│                                                              │
-│  SPECIAL NOTES                                               │
-│  知っている → 知らない (not 知っていない)                     │
-│  ている → てる (casual contraction)                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **て-FORM CHEAT SHEET (て形まとめ)**
+> ├──────────────────────────────────────────────────────────────┤
+>
+> FORMATION
+> - **Ichidan**: る → て         食べる → 食べて
+> - **Godan う/つ/る**: → って      買う → 買って
+> - **Godan む/ぶ/ぬ**: → んで     読む → 読んで
+> - **Godan く**: → いて           書く → 書いて
+> - **Godan ぐ**: → いで           泳ぐ → 泳いで
+> - **Godan す**: → して           話す → 話して
+> - **Exception**: 行く → 行って
+> - **Irregular**: する → して  /  来る → 来て
+>
+> GRAMMAR PATTERNS
+> て + ください        Please do...  (待ってください)
+> ないで + ください    Please don't... (触らないでください)
+> て + いる            Ongoing/state/habit (読んでいる)
+> て + もいいですか    May I...? (撮ってもいいですか)
+> て + はいけない      Must not... (走ってはいけない)
+> て + ある            Resultant state (書いてある)
+> て + て + て...      Chain actions (起きて、食べて...)
+>
+> SPECIAL NOTES
+> 知っている → 知らない (not 知っていない)
+> ている → てる (casual contraction)
+>
 
 ---
 
