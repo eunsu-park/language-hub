@@ -29,30 +29,29 @@
 
 ## 1. Italian Verb System Overview
 
-```
-+----------------------------------------------------------+
-|           ITALIAN VERB CLASSIFICATION                     |
-+----------------------------------------------------------+
-|                                                          |
-|  By ending:   -ARE (most common: ~60% of verbs)          |
-|               -ERE (second largest group)                 |
-|               -IRE (two sub-groups: regular + -isc-)      |
-|                                                          |
-|  By regularity:  Regular                                 |
-|                   Irregular (unique stems/patterns)        |
-|                   -ISC- verbs (capire, finire, preferire) |
-|                   Reflexive (-si ending: lavarsi)          |
-|                                                          |
-|  By mood:  Indicativo (facts, certainty)                  |
-|            Congiuntivo (subjectivity, doubt)              |
-|            Condizionale (hypothetical, polite)            |
-|            Imperativo (commands)                          |
-|                                                          |
-|  Non-finite forms:  Infinito (parlare)                    |
-|                     Gerundio (parlando)                   |
-|                     Participio (parlato, parlante)        |
-+----------------------------------------------------------+
-```
+> **ITALIAN VERB CLASSIFICATION**
+>
+> **By ending:**
+> - -ARE (most common: ~60% of verbs)
+> - -ERE (second largest group)
+> - -IRE (two sub-groups: regular + -isc-)
+>
+> **By regularity:**
+> - Regular
+> - Irregular (unique stems/patterns)
+> - -ISC- verbs (capire, finire, preferire)
+> - Reflexive (-si ending: lavarsi)
+>
+> **By mood:**
+> - Indicativo (facts, certainty)
+> - Congiuntivo (subjectivity, doubt)
+> - Condizionale (hypothetical, polite)
+> - Imperativo (commands)
+>
+> **Non-finite forms:**
+> - Infinito (parlare)
+> - Gerundio (parlando)
+> - Participio (parlato, parlante)
 
 ### Indicative Tenses at a Glance
 
