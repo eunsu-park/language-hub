@@ -26,19 +26,15 @@
 
 ### 1.1 German in the World
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  German: A Major European Language               │
-│                                                                 │
-│   Native speakers: ~100 million                                 │
-│   Total speakers:  ~130 million (including L2)                  │
-│   Official in:     6 countries + EU official language            │
-│   Most spoken native language in the EU                         │
-│                                                                 │
-│   Language family: Indo-European → Germanic → West Germanic     │
-│   Closest relatives: Dutch, English, Luxembourgish, Yiddish     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **German: A Major European Language**
+>
+> - **Native speakers**: ~100 million
+> - **Total speakers**: ~130 million (including L2)
+> - **Official in**: 6 countries + EU official language
+> Most spoken native language in the EU
+>
+> - **Language family**: Indo-European → Germanic → West Germanic
+> - **Closest relatives**: Dutch, English, Luxembourgish, Yiddish
 
 ### 1.2 German-Speaking Countries (DACH + More)
 
@@ -136,24 +132,20 @@ German uses the 26 Latin letters plus three umlauted vowels (ä, ö, ü) and the
 
 German distinguishes between short and long vowels. This distinction changes word meaning and is one of the most important features of German pronunciation.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                German Vowel Chart (Simplified)                   │
-│                                                                 │
-│           Front          Central         Back                   │
-│                                                                 │
-│   High    i /iː/  ü /yː/               u /uː/    (long)      │
-│           ɪ /ɪ/   ʏ /ʏ/                 ʊ /ʊ/     (short)     │
-│                                                                 │
-│   Mid     e /eː/  ö /øː/               o /oː/    (long)      │
-│           ɛ /ɛ/   œ /œ/     ə /ə/      ɔ /ɔ/     (short)     │
-│                                                                 │
-│   Low                      a /aː/                  (long)      │
-│                            a /a/                    (short)     │
-│                                                                 │
-│   Key rule: Long vowels are tense; short vowels are lax.       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **German Vowel Chart (Simplified)**
+>
+> Front / Central / Back
+>
+> - **High**: i /iː/ ü /yː/ — u /uː/ (long)
+> - **High**: ɪ /ɪ/ ʏ /ʏ/ — ʊ /ʊ/ (short)
+>
+> - **Mid**: e /eː/ ö /øː/ — o /oː/ (long)
+> - **Mid**: ɛ /ɛ/ œ /œ/ ə /ə/ — ɔ /ɔ/ (short)
+>
+> - **Low**: a /aː/ (long)
+> - **Low**: a /a/ (short)
+>
+> Key rule: Long vowels are tense; short vowels are lax.
 
 ### 3.2 How to Tell if a Vowel is Long or Short
 
@@ -243,33 +235,29 @@ Important: ei and ie are different!
 
 The most distinctive German consonant. It has two variants depending on the preceding vowel:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ich-Laut /ç/ — after front vowels (i, e, ä, ö, ü)           │
-│   and after consonants (l, n, r) and in -chen diminutive       │
-│                                                                 │
-│   ich [ɪç] (I)              Milch [mɪlç] (milk)               │
-│   echt [ɛçt] (real)         Mädchen [mɛːtçən] (girl)          │
-│   möchte [mœçtə] (would like) Bücher [byːçɐ] (books)         │
-│   Kirche [kɪʁçə] (church)  Chemie [çemiː] (chemistry)        │
-│                                                                 │
-│   Pronunciation: like a whispered "y" — tongue near palate,    │
-│   air flows through a narrow gap. Similar to "h" in English    │
-│   "hue" or "human" but more friction.                          │
-│                                                                 │
-│   ─────────────────────────────────────────────────────────     │
-│                                                                 │
-│   ach-Laut /x/ — after back vowels (a, o, u) and diphthong au │
-│                                                                 │
-│   ach [ax] (oh)             Buch [buːx] (book)                 │
-│   doch [dɔx] (yet)         Bauch [baʊx] (belly)               │
-│   Koch [kɔx] (cook)        Tochter [tɔxtɐ] (daughter)         │
-│   Nacht [naxt] (night)     Sprache [ʃpʁaːxə] (language)       │
-│                                                                 │
-│   Pronunciation: like Scottish "loch" — friction at the        │
-│   back of the mouth/soft palate. Never like English "k"!       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ich-Laut /ç/ — after front vowels (i, e, ä, ö, ü)**
+> and after consonants (l, n, r) and in -chen diminutive
+>
+> ich [ɪç] (I) / Milch [mɪlç] (milk)
+> echt [ɛçt] (real) / Mädchen [mɛːtçən] (girl)
+> möchte [mœçtə] (would like) / Bücher [byːçɐ] (books)
+> Kirche [kɪʁçə] (church) / Chemie [çemiː] (chemistry)
+>
+> Pronunciation: like a whispered "y" — tongue near palate,
+> air flows through a narrow gap. Similar to "h" in English
+> "hue" or "human" but more friction.
+>
+> ---
+>
+> **ach-Laut /x/ — after back vowels (a, o, u) and diphthong au**
+>
+> ach [ax] (oh) / Buch [buːx] (book)
+> doch [dɔx] (yet) / Bauch [baʊx] (belly)
+> Koch [kɔx] (cook) / Tochter [tɔxtɐ] (daughter)
+> Nacht [naxt] (night) / Sprache [ʃpʁaːxə] (language)
+>
+> Pronunciation: like Scottish "loch" — friction at the
+> back of the mouth/soft palate. Never like English "k"!
 
 ### 4.2 SCH, SP, and ST
 
@@ -345,28 +333,24 @@ ss = /s/ (voiceless, after short vowel):
 
 German has two main pronunciations of R, depending on dialect and position:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Uvular R /ʁ/ — Standard (Hochdeutsch)                        │
-│   Produced at the back of the throat (uvula vibrates)           │
-│   Used at the beginning of syllables:                           │
-│   rot [ʁoːt] (red)           Regen [ʁeːɡən] (rain)            │
-│   Brücke [bʁʏkə] (bridge)   grün [ɡʁyːn] (green)             │
-│                                                                 │
-│   Vocalized R /ɐ/ — Standard in certain positions               │
-│   R becomes a vowel-like sound (similar to British "uh")        │
-│   After long vowels: Uhr [uːɐ] (clock), Tür [tyːɐ] (door)     │
-│   In unstressed -er: Vater [faːtɐ] (father),                   │
-│                      Kinder [kɪndɐ] (children)                  │
-│   In prefix er-: erzählen [ɛɐˈtsɛːlən] (to tell)               │
-│                                                                 │
-│   Alveolar R /r/ — Regional (Bavaria, Austria, Switzerland)     │
-│   Tongue-tip trill, similar to Spanish or Italian R             │
-│   rot [roːt], Brücke [brʏkə]                                   │
-│                                                                 │
-│   Both pronunciations are correct and widely understood.        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Uvular R /ʁ/ — Standard (Hochdeutsch)**
+> Produced at the back of the throat (uvula vibrates)
+> Used at the beginning of syllables:
+> rot [ʁoːt] (red) / Regen [ʁeːɡən] (rain)
+> Brücke [bʁʏkə] (bridge) / grün [ɡʁyːn] (green)
+>
+> **Vocalized R /ɐ/ — Standard in certain positions**
+> R becomes a vowel-like sound (similar to British "uh")
+> After long vowels: Uhr [uːɐ] (clock), Tür [tyːɐ] (door)
+> In unstressed -er: Vater [faːtɐ] (father),
+> Kinder [kɪndɐ] (children)
+> In prefix er-: erzählen [ɛɐˈtsɛːlən] (to tell)
+>
+> **Alveolar R /r/ — Regional (Bavaria, Austria, Switzerland)**
+> Tongue-tip trill, similar to Spanish or Italian R
+> rot [roːt], Brücke [brʏkə]
+>
+> Both pronunciations are correct and widely understood.
 
 ### 4.7 The J Sound
 
@@ -454,39 +438,35 @@ German allows complex consonant clusters:
 
 ### 6.1 Default Stress Patterns
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Rule 1: Simple German words — stress the FIRST syllable       │
-│                                                                 │
-│   'Arbeit (work)        'Wasser (water)                         │
-│   'Liebe (love)         'Kinder (children)                      │
-│   'Abend (evening)      'Morgen (morning)                       │
-│   'Freiheit (freedom)   'Zeitung (newspaper)                    │
-│                                                                 │
-│   Rule 2: Separable verb prefixes — stress the PREFIX           │
-│                                                                 │
-│   'anfangen (to begin)    'aufstehen (to stand up)              │
-│   'mitkommen (to come along) 'einkaufen (to shop)              │
-│                                                                 │
-│   Rule 3: Inseparable prefixes — stress the STEM (not prefix)  │
-│   Prefixes: be-, emp-, ent-, er-, ge-, miss-, ver-, zer-        │
-│                                                                 │
-│   be'suchen (to visit)    ver'stehen (to understand)            │
-│   er'zählen (to tell)     ent'schuldigen (to excuse)            │
-│   ge'fallen (to please)   zer'stören (to destroy)               │
-│                                                                 │
-│   Rule 4: Foreign/loan words — often stress the LAST syllable  │
-│                                                                 │
-│   Stu'dent (student)      Uni'versität (university)             │
-│   Mu'sik (music)          Tele'fon (telephone)                  │
-│   Compu'ter (computer)    Restau'rant (restaurant)              │
-│                                                                 │
-│   Rule 5: Words ending in -tion, -ieren, -ität — stress suffix │
-│                                                                 │
-│   Informa'tion            stu'dieren (to study)                 │
-│   Nati'on                 Universi'tät                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Rule 1: Simple German words — stress the FIRST syllable**
+>
+> 'Arbeit (work) / 'Wasser (water)
+> 'Liebe (love) / 'Kinder (children)
+> 'Abend (evening) / 'Morgen (morning)
+> 'Freiheit (freedom) / 'Zeitung (newspaper)
+>
+> **Rule 2: Separable verb prefixes — stress the PREFIX**
+>
+> 'anfangen (to begin) / 'aufstehen (to stand up)
+> 'mitkommen (to come along) / 'einkaufen (to shop)
+>
+> **Rule 3: Inseparable prefixes — stress the STEM (not prefix)**
+> Prefixes: be-, emp-, ent-, er-, ge-, miss-, ver-, zer-
+>
+> be'suchen (to visit) / ver'stehen (to understand)
+> er'zählen (to tell) / ent'schuldigen (to excuse)
+> ge'fallen (to please) / zer'stören (to destroy)
+>
+> **Rule 4: Foreign/loan words — often stress the LAST syllable**
+>
+> Stu'dent (student) / Uni'versität (university)
+> Mu'sik (music) / Tele'fon (telephone)
+> Compu'ter (computer) / Restau'rant (restaurant)
+>
+> **Rule 5: Words ending in -tion, -ieren, -ität — stress suffix**
+>
+> Informa'tion / stu'dieren (to study)
+> Nati'on / Universi'tät
 
 ### 6.2 Stress in Compound Words
 
@@ -726,30 +706,26 @@ Write how each underlined consonant at the end of the word is actually pronounce
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Pronunciation Quick Guide                       │
-│                                                                 │
-│   Vowels: short vs long — length changes meaning               │
-│   ä = /ɛ/ or /ɛː/, ö = /œ/ or /øː/, ü = /ʏ/ or /yː/        │
-│   ei = /aɪ/ (like "eye"), ie = /iː/ (like "ee")               │
-│   eu/äu = /ɔʏ/ (like "oy"), au = /aʊ/ (like "ow")            │
-│                                                                 │
-│   ch = /ç/ after front vowels (ich-Laut)                       │
-│   ch = /x/ after back vowels (ach-Laut)                        │
-│   sch = /ʃ/ (always "sh")                                      │
-│   sp/st (word-initial) = /ʃp/, /ʃt/                            │
-│   z = /ts/ (always)                                            │
-│   w = /v/, j = /j/, v = /f/ (usually)                          │
-│   pf = /pf/ (both sounds!)                                     │
-│   ß = /s/ (after long vowels); ss = /s/ (after short vowels)  │
-│   R = /ʁ/ or /ɐ/ (vocalized in endings/after long vowels)     │
-│                                                                 │
-│   Final consonant devoicing: b→p, d→t, g→k at word end        │
-│   Stress: first syllable (native), stem (inseparable prefix),  │
-│           prefix (separable), last syllable (many loan words)  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Pronunciation Quick Guide**
+>
+> Vowels: short vs long — length changes meaning
+> ä = /ɛ/ or /ɛː/, ö = /œ/ or /øː/, ü = /ʏ/ or /yː/
+> ei = /aɪ/ (like "eye"), ie = /iː/ (like "ee")
+> eu/äu = /ɔʏ/ (like "oy"), au = /aʊ/ (like "ow")
+>
+> ch = /ç/ after front vowels (ich-Laut)
+> ch = /x/ after back vowels (ach-Laut)
+> sch = /ʃ/ (always "sh")
+> sp/st (word-initial) = /ʃp/, /ʃt/
+> z = /ts/ (always)
+> w = /v/, j = /j/, v = /f/ (usually)
+> pf = /pf/ (both sounds!)
+> ß = /s/ (after long vowels); ss = /s/ (after short vowels)
+> R = /ʁ/ or /ɐ/ (vocalized in endings/after long vowels)
+>
+> Final consonant devoicing: b→p, d→t, g→k at word end
+> Stress: first syllable (native), stem (inseparable prefix),
+> prefix (separable), last syllable (many loan words)
 
 ---
 
