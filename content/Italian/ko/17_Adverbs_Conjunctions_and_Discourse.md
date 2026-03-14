@@ -170,27 +170,22 @@
 
 ### 일반 규칙
 
-```
-+----------------------------------------------------------+
-|  부사 위치 가이드라인                                        |
-|                                                          |
-|  1. 양태 부사: 동사 뒤                                     |
-|     Parla bene l'italiano.                               |
-|                                                          |
-|  2. 시간/빈도: 유동적 (문장 처음, 동사 뒤, 문장 끝)          |
-|     Sempre vado al bar. / Vado sempre al bar.            |
-|                                                          |
-|  3. 정도 부사: 수식하는 형용사/부사 앞                       |
-|     È molto bello. / Parla troppo velocemente.           |
-|                                                          |
-|  4. 복합 시제에서: 보통 조동사와 과거 분사 사이                |
-|     Ho già mangiato. / Non ho mai visto.                 |
-|                                                          |
-|  5. 부정 부사: NON은 동사 앞, 부정어는 보통                  |
-|     동사 뒤 또는 조동사와 과거 분사 사이                     |
-|     Non vado mai. / Non ho mai capito.                   |
-+----------------------------------------------------------+
-```
+> **부사 위치 가이드라인**
+>
+> 1. **양태 부사**: 동사 뒤
+>    - Parla bene l'italiano.
+>
+> 2. **시간/빈도**: 유동적 (문장 처음, 동사 뒤, 문장 끝)
+>    - Sempre vado al bar. / Vado sempre al bar.
+>
+> 3. **정도 부사**: 수식하는 형용사/부사 앞
+>    - È molto bello. / Parla troppo velocemente.
+>
+> 4. **복합 시제에서**: 보통 조동사와 과거 분사 사이
+>    - Ho già mangiato. / Non ho mai visto.
+>
+> 5. **부정 부사**: NON은 동사 앞, 부정어는 보통 동사 뒤 또는 조동사와 과거 분사 사이
+>    - Non vado mai. / Non ho mai capito.
 
 ### 복합 시제에서의 위치
 
