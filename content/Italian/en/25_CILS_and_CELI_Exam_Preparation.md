@@ -31,32 +31,20 @@
 
 ## 1. Overview of Italian Proficiency Exams
 
-```
-+----------------------------------------------------------+
-|     ITALIAN LANGUAGE PROFICIENCY EXAMS                    |
-+----------------------------------------------------------+
-|                                                          |
-|  Three main internationally recognized exams:            |
-|                                                          |
-|  1. CILS — Certificazione di Italiano come              |
-|            Lingua Straniera                              |
-|     Issuing body: Università per Stranieri di Siena      |
-|                                                          |
-|  2. CELI — Certificato di Conoscenza della              |
-|            Lingua Italiana                               |
-|     Issuing body: Università per Stranieri di Perugia    |
-|                                                          |
-|  3. PLIDA — Progetto Lingua Italiana Dante Alighieri    |
-|     Issuing body: Società Dante Alighieri                |
-|                                                          |
-|  All three are:                                          |
-|    - Recognized by the Italian Ministry of Education     |
-|    - Aligned with CEFR (A1-C2)                          |
-|    - Valid for Italian citizenship applications (B1+)    |
-|    - Accepted by Italian universities (B2+)             |
-|    - Offered worldwide at authorized centers             |
-+----------------------------------------------------------+
-```
+> **ITALIAN LANGUAGE PROFICIENCY EXAMS**
+>
+> Three main internationally recognized exams:
+>
+> 1. **CILS** — Certificazione di Italiano come Lingua Straniera (Università per Stranieri di Siena)
+> 2. **CELI** — Certificato di Conoscenza della Lingua Italiana (Università per Stranieri di Perugia)
+> 3. **PLIDA** — Progetto Lingua Italiana Dante Alighieri (Società Dante Alighieri)
+>
+> All three are:
+> - Recognized by the Italian Ministry of Education
+> - Aligned with CEFR (A1-C2)
+> - Valid for Italian citizenship applications (B1+)
+> - Accepted by Italian universities (B2+)
+> - Offered worldwide at authorized centers
 
 ### CEFR Level Descriptions
 
@@ -75,33 +63,23 @@
 
 ### 2.1 Overview
 
-```
-+----------------------------------------------------------+
-|  CILS — Certificazione di Italiano come Lingua Straniera |
-+----------------------------------------------------------+
-|                                                          |
-|  Issuing body: Università per Stranieri di Siena         |
-|  Recognition: Italian Ministry of Education (MIUR)       |
-|  Validity: Lifetime (no expiration)                      |
-|  Levels: A1, A2, B1 (Uno), B2 (Due), C1 (Tre),        |
-|          C2 (Quattro)                                    |
-|  Special versions: CILS A1/A2 Integrazione              |
-|    (for immigrants seeking Italian residency)            |
-|                                                          |
-|  Exam sessions: June and December                        |
-|  (Some levels also in April and October)                 |
-|                                                          |
-|  SECTIONS (5 sections):                                  |
-|  1. Ascolto (Listening)                                  |
-|  2. Comprensione della lettura (Reading)                 |
-|  3. Analisi delle strutture di comunicazione (Grammar)   |
-|  4. Produzione scritta (Writing)                         |
-|  5. Produzione orale (Speaking)                          |
-|                                                          |
-|  PASSING: Minimum score of 11/20 per section (55%)      |
-|  You can retake individual failed sections.              |
-+----------------------------------------------------------+
-```
+> **CILS — Certificazione di Italiano come Lingua Straniera**
+>
+> - **Issuing body**: Università per Stranieri di Siena
+> - **Recognition**: Italian Ministry of Education (MIUR)
+> - **Validity**: Lifetime (no expiration)
+> - **Levels**: A1, A2, B1 (Uno), B2 (Due), C1 (Tre), C2 (Quattro)
+> - **Special versions**: CILS A1/A2 Integrazione (for immigrants seeking Italian residency)
+> - **Exam sessions**: June and December (some levels also in April and October)
+>
+> **SECTIONS (5 sections):**
+> 1. Ascolto (Listening)
+> 2. Comprensione della lettura (Reading)
+> 3. Analisi delle strutture di comunicazione (Grammar)
+> 4. Produzione scritta (Writing)
+> 5. Produzione orale (Speaking)
+>
+> **PASSING**: Minimum score of 11/20 per section (55%). You can retake individual failed sections.
 
 ### 2.2 CILS Exam Duration by Level
 
@@ -130,36 +108,21 @@
 
 ### 3.1 Overview
 
-```
-+----------------------------------------------------------+
-|  CELI — Certificato di Conoscenza della Lingua Italiana  |
-+----------------------------------------------------------+
-|                                                          |
-|  Issuing body: Università per Stranieri di Perugia       |
-|  Recognition: Italian Ministry of Education (MIUR)       |
-|  Validity: Lifetime (no expiration)                      |
-|  Levels:                                                 |
-|    CELI Impatto (A1)                                     |
-|    CELI 1 (A2)                                           |
-|    CELI 2 (B1)                                           |
-|    CELI 3 (B2)                                           |
-|    CELI 4 (C1)                                           |
-|    CELI 5 (C2)                                           |
-|                                                          |
-|  Exam sessions: June and November                        |
-|  (CELI Impatto and CELI 1 also in March)                 |
-|                                                          |
-|  SECTIONS (4 sections):                                  |
-|  Section A: Reading Comprehension + Grammar              |
-|  Section B: Written Production                           |
-|  Section C: Listening Comprehension                      |
-|  Section D: Oral Production                              |
-|                                                          |
-|  PASSING: Each section scored separately.                |
-|  Pass each section with minimum required score.          |
-|  Failed sections can be retaken individually.            |
-+----------------------------------------------------------+
-```
+> **CELI — Certificato di Conoscenza della Lingua Italiana**
+>
+> - **Issuing body**: Università per Stranieri di Perugia
+> - **Recognition**: Italian Ministry of Education (MIUR)
+> - **Validity**: Lifetime (no expiration)
+> - **Levels**: CELI Impatto (A1), CELI 1 (A2), CELI 2 (B1), CELI 3 (B2), CELI 4 (C1), CELI 5 (C2)
+> - **Exam sessions**: June and November (CELI Impatto and CELI 1 also in March)
+>
+> **SECTIONS (4 sections):**
+> - Section A: Reading Comprehension + Grammar
+> - Section B: Written Production
+> - Section C: Listening Comprehension
+> - Section D: Oral Production
+>
+> **PASSING**: Each section scored separately. Pass each section with minimum required score. Failed sections can be retaken individually.
 
 ### 3.2 CELI Exam Duration by Level
 
@@ -187,32 +150,22 @@
 
 ### 4.1 Overview
 
-```
-+----------------------------------------------------------+
-|  PLIDA — Progetto Lingua Italiana Dante Alighieri        |
-+----------------------------------------------------------+
-|                                                          |
-|  Issuing body: Società Dante Alighieri                   |
-|  Recognition: Italian Ministry of Education (MIUR)       |
-|                Italian Ministry of Foreign Affairs        |
-|  Validity: Lifetime (no expiration)                      |
-|  Levels: A1, A2, B1, B2, C1, C2                         |
-|                                                          |
-|  Exam sessions: Multiple per year (varies by center)     |
-|  Typically: May, June, November                          |
-|                                                          |
-|  SECTIONS (4 sections):                                  |
-|  1. Ascoltare (Listening)                                |
-|  2. Leggere (Reading)                                    |
-|  3. Scrivere (Writing)                                   |
-|  4. Parlare (Speaking)                                   |
-|                                                          |
-|  PASSING: Minimum 18/30 per section (60%)                |
-|  Failed sections can be retaken within 18 months.        |
-|                                                          |
-|  Special: PLIDA Juniores (for ages 13-18)                |
-+----------------------------------------------------------+
-```
+> **PLIDA — Progetto Lingua Italiana Dante Alighieri**
+>
+> - **Issuing body**: Società Dante Alighieri
+> - **Recognition**: Italian Ministry of Education (MIUR), Italian Ministry of Foreign Affairs
+> - **Validity**: Lifetime (no expiration)
+> - **Levels**: A1, A2, B1, B2, C1, C2
+> - **Exam sessions**: Multiple per year (varies by center) — typically May, June, November
+> - **Special**: PLIDA Juniores (for ages 13-18)
+>
+> **SECTIONS (4 sections):**
+> 1. Ascoltare (Listening)
+> 2. Leggere (Reading)
+> 3. Scrivere (Writing)
+> 4. Parlare (Speaking)
+>
+> **PASSING**: Minimum 18/30 per section (60%). Failed sections can be retaken within 18 months.
 
 ---
 
@@ -238,32 +191,24 @@
 
 ### 6.1 Requirements
 
-```
-+----------------------------------------------------------+
-|     LANGUAGE REQUIREMENT FOR ITALIAN CITIZENSHIP          |
-+----------------------------------------------------------+
-|                                                          |
-|  Since December 2018 (Decreto Sicurezza):                |
-|                                                          |
-|  Minimum level: B1 (CEFR)                               |
-|                                                          |
-|  Accepted certificates:                                  |
-|    - CILS B1 (Uno) or higher                             |
-|    - CELI 2 (B1) or higher                               |
-|    - PLIDA B1 or higher                                  |
-|    - Certificate from an Italian university              |
-|      (with B1+ level courses)                            |
-|                                                          |
-|  Exemptions:                                             |
-|    - Holders of an Italian education qualification       |
-|    - Signatories of an "accordo di integrazione" who     |
-|      have obtained the relevant credits                  |
-|    - Holders of an Italian long-term residence permit    |
-|      (permesso di soggiorno di lungo periodo)            |
-|                                                          |
-|  Cost: Varies by exam center (typically €50-€150)        |
-+----------------------------------------------------------+
-```
+> **LANGUAGE REQUIREMENT FOR ITALIAN CITIZENSHIP**
+>
+> Since December 2018 (Decreto Sicurezza):
+>
+> **Minimum level**: B1 (CEFR)
+>
+> **Accepted certificates:**
+> - CILS B1 (Uno) or higher
+> - CELI 2 (B1) or higher
+> - PLIDA B1 or higher
+> - Certificate from an Italian university (with B1+ level courses)
+>
+> **Exemptions:**
+> - Holders of an Italian education qualification
+> - Signatories of an "accordo di integrazione" who have obtained the relevant credits
+> - Holders of an Italian long-term residence permit (permesso di soggiorno di lungo periodo)
+>
+> **Cost**: Varies by exam center (typically 50-150 EUR)
 
 ### 6.2 What B1 Level Means
 
