@@ -26,24 +26,20 @@
 
 Latin adjectives must **agree** with the nouns they modify in three ways: **gender**, **number**, and **case**. The most common adjective type uses First Declension endings for the feminine and Second Declension endings for the masculine and neuter.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         First/Second Declension Adjective Pattern                │
-│                                                                 │
-│   Dictionary entry: bonus, -a, -um (good)                       │
-│                     ↑       ↑   ↑                               │
-│                     masc.  fem. neut.                            │
-│                     (2nd)  (1st) (2nd)                           │
-│                                                                 │
-│   Masculine forms → follow 2nd declension (-us/-er pattern)     │
-│   Feminine forms  → follow 1st declension (-a pattern)          │
-│   Neuter forms    → follow 2nd declension (-um pattern)         │
-│                                                                 │
-│   You already know all these endings from Lessons 03!           │
-│   The adjective simply picks the right set of endings           │
-│   based on the gender of the noun it modifies.                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **First/Second Declension Adjective Pattern**
+>
+> Dictionary entry: bonus, -a, -um (good)
+>                   ↑       ↑   ↑
+>                   masc.  fem. neut.
+>                   (2nd)  (1st) (2nd)
+>
+> - Masculine forms → follow 2nd declension (-us/-er pattern)
+> - Feminine forms  → follow 1st declension (-a pattern)
+> - Neuter forms    → follow 2nd declension (-um pattern)
+>
+> You already know all these endings from Lessons 03!
+> The adjective simply picks the right set of endings
+> based on the gender of the noun it modifies.
 
 ### 1.2 Full Paradigm: bonus, -a, -um (good)
 
@@ -101,20 +97,16 @@ Some adjectives have a masculine nominative singular in **-er**, just like *puer
 | Nom. sg. | līber | līber**a** | līber**um** |
 | Gen. sg. | līber**ī** | līber**ae** | līber**ī** |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   How to tell? Check the FEMININE form in the dictionary.        │
-│                                                                 │
-│   Drops -e-:  pulcher, pulchra, pulchrum  (stem = pulchr-)     │
-│               miser, misera, miserum      (stem = miser-)       │
-│               noster, nostra, nostrum     (stem = nostr-)       │
-│                                                                 │
-│   Keeps -e-:  līber, lībera, līberum     (stem = līber-)       │
-│               tener, tenera, tenerum      (stem = tener-)       │
-│                                                                 │
-│   ※ The -er adjectives that KEEP -e- are rare. Most drop it.   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **How to tell? Check the FEMININE form in the dictionary.**
+>
+> Drops -e-:  pulcher, pulchra, pulchrum  (stem = pulchr-)
+>             miser, misera, miserum      (stem = miser-)
+>             noster, nostra, nostrum     (stem = nostr-)
+>
+> Keeps -e-:  līber, lībera, līberum     (stem = līber-)
+>             tener, tenera, tenerum      (stem = tener-)
+>
+> ※ The -er adjectives that KEEP -e- are rare. Most drop it.
 
 ### 1.4 Common First/Second Declension Adjectives
 
@@ -153,31 +145,27 @@ Some adjectives have a masculine nominative singular in **-er**, just like *puer
 
 ### 2.1 The Golden Rule
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          ADJECTIVE-NOUN AGREEMENT: The Golden Rule               │
-│                                                                 │
-│   An adjective must agree with its noun in:                      │
-│     1. GENDER  (masculine, feminine, or neuter)                  │
-│     2. NUMBER  (singular or plural)                              │
-│     3. CASE    (nominative, genitive, dative, etc.)             │
-│                                                                 │
-│   BUT the adjective does NOT need to be in the same             │
-│   DECLENSION as the noun!                                        │
-│                                                                 │
-│   Example:                                                       │
-│     agricola bonus    (good farmer)                              │
-│     ↑         ↑                                                  │
-│     1st decl. 2nd decl.  ← different declensions!               │
-│     masc.     masc.      ← same gender ✓                       │
-│     sg.       sg.        ← same number ✓                       │
-│     nom.      nom.       ← same case ✓                         │
-│                                                                 │
-│   The ENDINGS may look different, but gender/number/case        │
-│   must match. Adjective follows the noun's GENDER, not its     │
-│   declension.                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ADJECTIVE-NOUN AGREEMENT: The Golden Rule**
+>
+> An adjective must agree with its noun in:
+> 1. GENDER  (masculine, feminine, or neuter)
+> 2. NUMBER  (singular or plural)
+> 3. CASE    (nominative, genitive, dative, etc.)
+>
+> BUT the adjective does NOT need to be in the same
+> DECLENSION as the noun!
+>
+> Example:
+>   agricola bonus    (good farmer)
+>   ↑         ↑
+>   1st decl. 2nd decl.  -- different declensions!
+>   masc.     masc.      -- same gender
+>   sg.       sg.        -- same number
+>   nom.      nom.       -- same case
+>
+> The ENDINGS may look different, but gender/number/case
+> must match. Adjective follows the noun's GENDER, not its
+> declension.
 
 ### 2.2 Agreement Examples by Gender
 
@@ -221,26 +209,24 @@ Vocative:    Ō puella bona!            O good girl!
 
 When a noun is 1st declension but masculine (like *agricola*), the adjective must use **masculine** (2nd declension) forms:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   agricola bonus (the good farmer) — NOT *agricola bona        │
-│                                                                 │
-│   Nom:  agricola bonus         agricolae bonī                  │
-│   Gen:  agricolae bonī         agricolārum bonōrum             │
-│   Dat:  agricolae bonō         agricolīs bonīs                │
-│   Acc:  agricolam bonum        agricolās bonōs                 │
-│   Abl:  agricolā bonō          agricolīs bonīs                │
-│                                                                 │
-│   ※ The noun endings look feminine (-a, -ae, -am, -ā)          │
-│     but the adjective endings are masculine (-us, -ī, -um, -ō) │
-│     because agricola is a MASCULINE noun.                       │
-│                                                                 │
-│   Similarly:                                                    │
-│     nauta bonus    (good sailor)                                │
-│     poēta magnus   (great poet)                                 │
-│     pīrāta malus   (bad pirate)                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **agricola bonus (the good farmer) — NOT *agricola bona**
+>
+> | Case | Singular | Plural |
+> |---|---|---|
+> | Nom. | agricola bonus | agricolae bonī |
+> | Gen. | agricolae bonī | agricolārum bonōrum |
+> | Dat. | agricolae bonō | agricolīs bonīs |
+> | Acc. | agricolam bonum | agricolās bonōs |
+> | Abl. | agricolā bonō | agricolīs bonīs |
+>
+> ※ The noun endings look feminine (-a, -ae, -am, -ā)
+> but the adjective endings are masculine (-us, -ī, -um, -ō)
+> because agricola is a MASCULINE noun.
+>
+> Similarly:
+> - nauta bonus    (good sailor)
+> - poēta magnus   (great poet)
+> - pīrāta malus   (bad pirate)
 
 > **For Korean speakers**: This is a concept without a direct Korean parallel. In Korean, adjectives (관형사/형용사) don't change form based on the noun they modify. In Latin, you must always mentally check: "What gender is this noun? What case is it in? What number?" and then use the matching adjective form.
 
@@ -252,29 +238,25 @@ When a noun is 1st declension but masculine (like *agricola*), the adjective mus
 
 In Latin, adjectives can stand alone as nouns (called "substantive" use). The gender tells you what kind of entity is meant:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Substantive Adjectives                               │
-│                                                                 │
-│   Masculine → refers to men/male persons:                       │
-│     bonī = "the good (men)" / "good people"                    │
-│     malī = "the bad (men)" / "evil people"                     │
-│     multī = "many (people)"                                     │
-│     Rōmānī = "the Romans" (Roman men/people)                   │
-│                                                                 │
-│   Feminine → refers to women or can be abstract:                │
-│     bonae = "the good (women)"                                  │
-│     Rōmānae = "the Roman women"                                │
-│                                                                 │
-│   Neuter → refers to things, concepts, abstractions:            │
-│     bonum = "the good" / "a good thing"                         │
-│     bona = "good things" / "goods, possessions"                 │
-│     malum = "evil" / "a bad thing"                              │
-│     magna = "great things"                                      │
-│     multa = "many things"                                       │
-│     vera = "true things" / "the truth"                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Substantive Adjectives**
+>
+> Masculine → refers to men/male persons:
+> - bonī = "the good (men)" / "good people"
+> - malī = "the bad (men)" / "evil people"
+> - multī = "many (people)"
+> - Rōmānī = "the Romans" (Roman men/people)
+>
+> Feminine → refers to women or can be abstract:
+> - bonae = "the good (women)"
+> - Rōmānae = "the Roman women"
+>
+> Neuter → refers to things, concepts, abstractions:
+> - bonum = "the good" / "a good thing"
+> - bona = "good things" / "goods, possessions"
+> - malum = "evil" / "a bad thing"
+> - magna = "great things"
+> - multa = "many things"
+> - vera = "true things" / "the truth"
 
 ### 3.2 Examples in Sentences
 
@@ -303,29 +285,25 @@ Bona et mala in vītā sunt.
 
 Latin adjectives appear in two main roles:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        ATTRIBUTIVE vs PREDICATE Adjectives                       │
-│                                                                 │
-│   ATTRIBUTIVE — directly modifies the noun (no linking verb):   │
-│     Puella bona cantat.       The good girl sings.              │
-│     Bonus agricola labōrat.   The good farmer works.            │
-│     In magnō perīculō sumus. We are in great danger.           │
-│                                                                 │
-│   PREDICATE — linked to the subject via esse (or similar):      │
-│     Puella est bona.          The girl is good.                 │
-│     Perīculum est magnum.     The danger is great.              │
-│     Agrī sunt magnī.          The fields are large.             │
-│                                                                 │
-│   Key difference:                                                │
-│     Attributive: adjective + noun together (no esse)            │
-│     Predicate: subject + esse + adjective                        │
-│                                                                 │
-│   Compare English:                                               │
-│     "The tall man walks." (attributive — "tall" modifies "man") │
-│     "The man is tall." (predicate — "tall" linked by "is")     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ATTRIBUTIVE vs PREDICATE Adjectives**
+>
+> ATTRIBUTIVE — directly modifies the noun (no linking verb):
+> - Puella bona cantat.       The good girl sings.
+> - Bonus agricola labōrat.   The good farmer works.
+> - In magnō perīculō sumus. We are in great danger.
+>
+> PREDICATE — linked to the subject via esse (or similar):
+> - Puella est bona.          The girl is good.
+> - Perīculum est magnum.     The danger is great.
+> - Agrī sunt magnī.          The fields are large.
+>
+> Key difference:
+> - Attributive: adjective + noun together (no esse)
+> - Predicate: subject + esse + adjective
+>
+> Compare English:
+> - "The tall man walks." (attributive -- "tall" modifies "man")
+> - "The man is tall." (predicate -- "tall" linked by "is")
 
 ### 4.2 Position of Attributive Adjectives
 
@@ -370,32 +348,27 @@ bonus → bonus (nom. masc. sg.) agrees with dominus (nom. masc. sg.)
 
 ### 5.1 Default SOV and Variations
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Latin Word Order Principles                          │
-│                                                                 │
-│   1. DEFAULT ORDER: Subject — Object — Verb (SOV)               │
-│      Puella rosam amat.    The girl loves a rose.               │
-│      Same as Korean and Japanese default order.                  │
-│                                                                 │
-│   2. VERB tends to come LAST in the clause                      │
-│      This is the most consistent feature of Latin prose.        │
-│                                                                 │
-│   3. MODIFIERS tend to PRECEDE what they modify:                │
-│      Genitive before noun:  populī Rōmānī lēgēs               │
-│                              ("of the Roman people the laws")   │
-│      Adjective before noun: bonus vir (good man)                │
-│      BUT adjective after noun is also very common               │
-│                                                                 │
-│   4. FIRST and LAST positions in a sentence carry EMPHASIS      │
-│      Rosam puella amat.     (emphasis on rose — IT'S A ROSE)   │
-│      Puella amat rosam.     (emphasis on amat — she LOVES it)  │
-│                                                                 │
-│   5. PREPOSITIONS come BEFORE their objects (like English)      │
-│      in agrō, cum amīcō, ad Italiam                           │
-│      Exception: -cum with pronouns → mēcum, tēcum, nōbīscum  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Word Order Principles**
+>
+> 1. DEFAULT ORDER: Subject — Object — Verb (SOV)
+>    Puella rosam amat.    The girl loves a rose.
+>    Same as Korean and Japanese default order.
+>
+> 2. VERB tends to come LAST in the clause
+>    This is the most consistent feature of Latin prose.
+>
+> 3. MODIFIERS tend to PRECEDE what they modify:
+>    Genitive before noun:  populī Rōmānī lēgēs ("of the Roman people the laws")
+>    Adjective before noun: bonus vir (good man)
+>    BUT adjective after noun is also very common
+>
+> 4. FIRST and LAST positions in a sentence carry EMPHASIS
+>    Rosam puella amat.     (emphasis on rose -- IT'S A ROSE)
+>    Puella amat rosam.     (emphasis on amat -- she LOVES it)
+>
+> 5. PREPOSITIONS come BEFORE their objects (like English)
+>    in agrō, cum amīcō, ad Italiam
+>    Exception: -cum with pronouns → mēcum, tēcum, nōbīscum
 
 ### 5.2 Practical Word Order Guidelines
 
@@ -438,29 +411,21 @@ Korean has similar flexibility with particles:
 
 Latin has several words for connecting words, phrases, and clauses:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Coordinating Conjunctions                            │
-│                                                                 │
-│   et        /ɛt/          "and"                                 │
-│   -que      /kwɛ/         "and" (enclitic, attached to 2nd     │
-│                            word)                                │
-│   atque/ac  /ˈat.kwɛ/     "and" (emphatic: "and also")         │
-│                                                                 │
-│   sed       /sɛd/         "but"                                 │
-│   at        /at/          "but" (milder contrast)               │
-│                                                                 │
-│   aut       /au̯t/         "or" (exclusive: one or the other)   │
-│   vel       /wɛl/         "or" (inclusive: either or both)      │
-│   -ve       /wɛ/          "or" (enclitic)                       │
-│                                                                 │
-│   neque/nec /ˈnɛ.kwɛ/    "and not" / "nor" / "neither"        │
-│                                                                 │
-│   nam       /nam/         "for" (giving reason)                 │
-│   enim      /ˈɛ.nɪm/     "for, indeed" (postpositive:         │
-│                            comes 2nd in its clause)             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Coordinating Conjunctions**
+>
+> | Conjunction | Pronunciation | Meaning |
+> |---|---|---|
+> | et | /ɛt/ | "and" |
+> | -que | /kwɛ/ | "and" (enclitic, attached to 2nd word) |
+> | atque/ac | /ˈat.kwɛ/ | "and" (emphatic: "and also") |
+> | sed | /sɛd/ | "but" |
+> | at | /at/ | "but" (milder contrast) |
+> | aut | /au̯t/ | "or" (exclusive: one or the other) |
+> | vel | /wɛl/ | "or" (inclusive: either or both) |
+> | -ve | /wɛ/ | "or" (enclitic) |
+> | neque/nec | /ˈnɛ.kwɛ/ | "and not" / "nor" / "neither" |
+> | nam | /nam/ | "for" (giving reason) |
+> | enim | /ˈɛ.nɪm/ | "for, indeed" (postpositive: comes 2nd in its clause) |
 
 ### 6.2 ET — "And"
 
@@ -896,42 +861,38 @@ they remain in the field."
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        Adjectives and Sentence Structure Quick Reference          │
-│                                                                 │
-│   1ST/2ND DECLENSION ADJECTIVES (bonus, -a, -um):               │
-│     Masc. = 2nd decl. (bonus, bonī, bonō, bonum, bonō, bone)  │
-│     Fem.  = 1st decl. (bona, bonae, bonae, bonam, bonā, bona) │
-│     Neut. = 2nd decl. (bonum, bonī, bonō, bonum, bonō, bonum)│
-│                                                                 │
-│   AGREEMENT RULE:                                                │
-│     Adjective matches noun in GENDER + NUMBER + CASE            │
-│     (NOT necessarily in declension!)                             │
-│     agricola bonus = good farmer (1st decl. noun + 2nd adj.)   │
-│                                                                 │
-│   ADJECTIVE POSITION:                                            │
-│     After noun (normal): puella bona                            │
-│     Before noun (emphatic): bona puella                         │
-│     Predicate: Puella est bona.                                 │
-│                                                                 │
-│   SUBSTANTIVE ADJECTIVES:                                        │
-│     Masc. pl. = people:  bonī (the good people)                 │
-│     Neut. sg. = thing:   bonum (the good / a good thing)       │
-│     Neut. pl. = things:  bona (good things)                     │
-│                                                                 │
-│   CONJUNCTIONS:                                                  │
-│     et / -que  = and       sed     = but                        │
-│     aut        = or        neque   = and not, nor               │
-│     aut...aut  = either...or                                    │
-│     neque...neque = neither...nor                                │
-│                                                                 │
-│   WORD ORDER:                                                    │
-│     Default: S — O — V (verb last)                              │
-│     Flexible — case endings determine function                  │
-│     First/last position = emphasis                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Adjectives and Sentence Structure Quick Reference**
+>
+> **1ST/2ND DECLENSION ADJECTIVES (bonus, -a, -um):**
+> Masc. = 2nd decl. (bonus, bonī, bonō, bonum, bonō, bone)
+> Fem.  = 1st decl. (bona, bonae, bonae, bonam, bonā, bona)
+> Neut. = 2nd decl. (bonum, bonī, bonō, bonum, bonō, bonum)
+>
+> **AGREEMENT RULE:**
+> Adjective matches noun in GENDER + NUMBER + CASE
+> (NOT necessarily in declension!)
+> agricola bonus = good farmer (1st decl. noun + 2nd adj.)
+>
+> **ADJECTIVE POSITION:**
+> After noun (normal): puella bona
+> Before noun (emphatic): bona puella
+> Predicate: Puella est bona.
+>
+> **SUBSTANTIVE ADJECTIVES:**
+> Masc. pl. = people:  bonī (the good people)
+> Neut. sg. = thing:   bonum (the good / a good thing)
+> Neut. pl. = things:  bona (good things)
+>
+> **CONJUNCTIONS:**
+> et / -que  = and       sed     = but
+> aut        = or        neque   = and not, nor
+> aut...aut  = either...or
+> neque...neque = neither...nor
+>
+> **WORD ORDER:**
+> Default: S — O — V (verb last)
+> Flexible — case endings determine function
+> First/last position = emphasis
 
 ---
 
