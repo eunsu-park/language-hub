@@ -24,19 +24,15 @@
 
 ### 1.1 세계 속의 스페인어
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                Spanish: A Global Language                        │
-│                                                                 │
-│   Native speakers: ~500 million (4th worldwide)                 │
-│   Total speakers:  ~600 million (including L2)                  │
-│   Official in:     21 countries                                 │
-│   UN official language: Yes (1 of 6)                            │
-│                                                                 │
-│   Language family: Indo-European → Romance → Ibero-Romance      │
-│   Closest relatives: Portuguese, Catalan, Italian               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Spanish: A Global Language**
+>
+> - **Native speakers**: ~500 million (4th worldwide)
+> - **Total speakers**: ~600 million (including L2)
+> - **Official in**: 21 countries
+> - **UN official language**: Yes (1 of 6)
+>
+> - **Language family**: Indo-European → Romance → Ibero-Romance
+> - **Closest relatives**: Portuguese, Catalan, Italian
 
 ### 1.2 스페인어 사용 국가
 
@@ -115,21 +111,16 @@ Africa: Equatorial Guinea
 
 스페인어는 주요 세계 언어 중 가장 단순한 모음 체계를 가지고 있습니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Spanish Vowel Triangle                        │
-│                                                                 │
-│           Front         Central         Back                    │
-│   High     i /i/                        u /u/                   │
-│   Mid      e /e/                        o /o/                   │
-│   Low                   a /a/                                   │
-│                                                                 │
-│   All vowels are:                                               │
-│   • Pure (no glide/diphthong)                                   │
-│   • Short (consistent length)                                   │
-│   • Clear (never reduced to schwa)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Spanish Vowel Triangle**
+>
+> - **High**: i /i/ (Front) — u /u/ (Back)
+> - **Mid**: e /e/ (Front) — o /o/ (Back)
+> - **Low**: a /a/ (Central)
+>
+> All vowels are:
+> - Pure (no glide/diphthong)
+> - Short (consistent length)
+> - Clear (never reduced to schwa)
 
 | 모음 | IPA | 영어 유사 발음 | 한국어 유사 발음 | 예시 |
 |-------|-----|-------------------|-------------------|---------|
@@ -200,24 +191,19 @@ Between vowels or after other consonants: [β] (soft, lips don't fully close)
 
 ### 4.2 C, Z, S — *Distinción*(구별 발음) vs *Seseo*(세세오)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Spain (most regions): Distinción                              │
-│   c + e/i = /θ/ (like English "th" in "think")                  │
-│   z       = /θ/                                                 │
-│   s       = /s/                                                 │
-│   cena = [ˈθe.na]    zapato = [θa.ˈpa.to]    sol = [sol]       │
-│                                                                 │
-│   Latin America & southern Spain: Seseo                         │
-│   c + e/i = /s/                                                 │
-│   z       = /s/                                                 │
-│   s       = /s/                                                 │
-│   cena = [ˈse.na]    zapato = [sa.ˈpa.to]    sol = [sol]       │
-│                                                                 │
-│   ※ Both pronunciations are correct and standard.              │
-│   ※ Seseo is used by far more speakers worldwide.              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Spain (most regions): Distincion**
+>
+> c + e/i = /θ/ (like English "th" in "think")
+> z = /θ/ — s = /s/
+> cena = [ˈθe.na] — zapato = [θa.ˈpa.to] — sol = [sol]
+>
+> **Latin America & southern Spain: Seseo**
+>
+> c + e/i = /s/ — z = /s/ — s = /s/
+> cena = [ˈse.na] — zapato = [sa.ˈpa.to] — sol = [sol]
+>
+> ※ Both pronunciations are correct and standard.
+> ※ Seseo is used by far more speakers worldwide.
 
 기타 C 발음:
 - c + a/o/u = /k/: casa, comer, cubo
@@ -302,30 +288,24 @@ Similar to Korean ㄴ + ㅣ combination (냐, 녀, 뇨, 뉴)
 
 ### 4.8 R과 RR — 탄설음(Tap) vs 전동음(Trill)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Single R /ɾ/ (tap — tongue briefly touches ridge once):      │
-│   Between vowels: pero [ˈpe.ɾo] (but)                          │
-│   After consonant: tres [tɾes] (three)                          │
-│   End of word: hablar [a.ˈβlaɾ] (to speak)                     │
-│                                                                 │
-│   RR /r/ (trill — tongue vibrates multiple times):              │
-│   Written rr: perro [ˈpe.ro] (dog)                              │
-│                carro [ˈka.ro] (car)                              │
-│                correr [ko.ˈrer] (to run)                        │
-│                                                                 │
-│   Single R pronounced as trill /r/:                             │
-│   Word-initial: rosa [ˈro.sa]    rey [ˈrej]                    │
-│   After n: Enrique [en.ˈri.ke]                                  │
-│   After l: alrededor [al.re.ðe.ˈðoɾ]                           │
-│   After s: Israel [is.ra.ˈel]                                   │
-│                                                                 │
-│   ※ Minimal pairs:                                             │
-│   pero (but)  vs  perro (dog)                                   │
-│   caro (expensive) vs carro (car)                               │
-│   coral (coral) vs corral (pen/yard)                            │
-│└─────────────────────────────────────────────────────────────────┘
-```
+> **Single R** /ɾ/ (tap — tongue briefly touches ridge once):
+> - Between vowels: pero [ˈpe.ɾo] (but)
+> - After consonant: tres [tɾes] (three)
+> - End of word: hablar [a.ˈβlaɾ] (to speak)
+>
+> **RR** /r/ (trill — tongue vibrates multiple times):
+> - Written rr: perro [ˈpe.ro] (dog), carro [ˈka.ro] (car), correr [ko.ˈrer] (to run)
+>
+> **Single R pronounced as trill** /r/:
+> - Word-initial: rosa [ˈro.sa], rey [ˈrej]
+> - After n: Enrique [en.ˈri.ke]
+> - After l: alrededor [al.re.ðe.ˈðoɾ]
+> - After s: Israel [is.ra.ˈel]
+>
+> ※ Minimal pairs:
+> - pero (but) vs perro (dog)
+> - caro (expensive) vs carro (car)
+> - coral (coral) vs corral (pen/yard)
 
 ---
 
@@ -371,23 +351,19 @@ Most common syllable patterns:
 
 ### 6.1 두 가지 기본 강세 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Rule 1: Words ending in vowel, -n, or -s                     │
-│   → Stress falls on the SECOND-TO-LAST syllable                │
-│                                                                 │
-│   ca-SA          (house)         ha-BLAN       (they speak)    │
-│   me-SA          (table)         li-BROS       (books)         │
-│   es-TU-dian-TE  (student)       co-MEN        (they eat)      │
-│                                                                 │
-│   Rule 2: Words ending in any other consonant                   │
-│   → Stress falls on the LAST syllable                           │
-│                                                                 │
-│   ha-BLAR   (to speak)      ciu-DAD   (city)                   │
-│   co-MER    (to eat)        es-pa-ÑOL (Spanish)                │
-│   vi-VIR    (to live)       pa-PEL    (paper)                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Rule 1**: Words ending in vowel, -n, or -s
+> → Stress falls on the SECOND-TO-LAST syllable
+>
+> ca-SA (house), ha-BLAN (they speak),
+> me-SA (table), li-BROS (books),
+> es-TU-dian-TE (student), co-MEN (they eat)
+>
+> **Rule 2**: Words ending in any other consonant
+> → Stress falls on the LAST syllable
+>
+> ha-BLAR (to speak), ciu-DAD (city),
+> co-MER (to eat), es-pa-ÑOL (Spanish),
+> vi-VIR (to live), pa-PEL (paper)
 
 ### 6.2 악센트 부호 (Tilde)
 
@@ -582,27 +558,23 @@ u: uno, mucho, punto, nunca, fruta
 
 ## 빠른 참조표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Pronunciation Quick Guide                       │
-│                                                                 │
-│   5 vowels: a /a/, e /e/, i /i/, o /o/, u /u/ — always pure   │
-│   b = v (identical sound)                                       │
-│   c + e/i = /θ/ (Spain) or /s/ (Latin America)                 │
-│   g + e/i = /x/ (guttural)                                     │
-│   h = always silent                                             │
-│   j = always /x/ (guttural)                                    │
-│   ll = /ʝ/ (like y) for most speakers                          │
-│   ñ = /ɲ/ (palatalized n, like "ny" in canyon)                 │
-│   r = /ɾ/ tap (between vowels), /r/ trill (word-initial, rr)  │
-│   z = /θ/ (Spain) or /s/ (Latin America)                       │
-│                                                                 │
-│   Stress rules:                                                 │
-│   Vowel/n/s ending → second-to-last syllable                   │
-│   Other consonant ending → last syllable                        │
-│   Accent mark (´) → overrides default rules                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Pronunciation Quick Guide**
+>
+> - 5 vowels: a /a/, e /e/, i /i/, o /o/, u /u/ — always pure
+> - b = v (identical sound)
+> - c + e/i = /θ/ (Spain) or /s/ (Latin America)
+> - g + e/i = /x/ (guttural)
+> - h = always silent
+> - j = always /x/ (guttural)
+> - ll = /ʝ/ (like y) for most speakers
+> - ñ = /ɲ/ (palatalized n, like "ny" in canyon)
+> - r = /ɾ/ tap (between vowels), /r/ trill (word-initial, rr)
+> - z = /θ/ (Spain) or /s/ (Latin America)
+>
+> **Stress rules**:
+> - Vowel/n/s ending → second-to-last syllable
+> - Other consonant ending → last syllable
+> - Accent mark (´) → overrides default rules
 
 ---
 
