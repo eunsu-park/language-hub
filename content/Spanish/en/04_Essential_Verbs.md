@@ -21,22 +21,14 @@
 
 ## 1. Why These Four Verbs?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   These four verbs appear in almost every Spanish sentence.     │
-│   Master them and you can express most basic ideas.             │
-│                                                                 │
-│   SER    → identity, origin, traits       (permanent "to be")  │
-│   ESTAR  → location, condition, feelings  (temporary "to be")  │
-│   TENER  → possession, age, many idioms   ("to have")          │
-│   HABER  → existence (hay), perfect tenses ("to have" aux.)    │
-│                                                                 │
-│   Challenge for English speakers:                               │
-│   English "to be" → SER or ESTAR (you must choose!)            │
-│   English "to be" → sometimes TENER (tener hambre = "to be     │
-│                     hungry", not "to have hunger")              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> These four verbs appear in almost every Spanish sentence. Master them and you can express most basic ideas.
+>
+> - **SER** → identity, origin, traits (permanent "to be")
+> - **ESTAR** → location, condition, feelings (temporary "to be")
+> - **TENER** → possession, age, many idioms ("to have")
+> - **HABER** → existence (hay), perfect tenses ("to have" aux.)
+>
+> **Challenge for English speakers**: English "to be" → SER or ESTAR (you must choose!). English "to be" → sometimes TENER (tener hambre = "to be hungry", not "to have hunger")
 
 ---
 
@@ -55,35 +47,23 @@
 
 ### 2.2 Uses of SER — DOCTOR Mnemonic
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   D - Description (physical/personality traits)                 │
-│       Ella es alta y simpática.                                 │
-│       (She is tall and friendly.)                               │
-│                                                                 │
-│   O - Occupation (profession)                                   │
-│       Soy ingeniero. (I'm an engineer.)                         │
-│       Es profesora. (She's a teacher.)                          │
-│                                                                 │
-│   C - Characteristic (inherent quality)                         │
-│       El hielo es frío. (Ice is cold.)                          │
-│       La nieve es blanca. (Snow is white.)                      │
-│                                                                 │
-│   T - Time (clock time, dates)                                  │
-│       Son las dos. (It's two o'clock.)                          │
-│       Hoy es lunes. (Today is Monday.)                          │
-│       Es el 15 de marzo. (It's March 15th.)                    │
-│                                                                 │
-│   O - Origin (where someone/something is from)                  │
-│       Soy de Corea. (I'm from Korea.)                           │
-│       El café es de Colombia. (The coffee is from Colombia.)    │
-│                                                                 │
-│   R - Relationship (possession, material)                       │
-│       Es mi libro. (It's my book.)                              │
-│       La mesa es de madera. (The table is made of wood.)        │
-│       La fiesta es en mi casa. (The party is at my house.)      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **D - Description** (physical/personality traits)
+> Ella es alta y simpatica. (She is tall and friendly.)
+>
+> **O - Occupation** (profession)
+> Soy ingeniero. (I'm an engineer.) / Es profesora. (She's a teacher.)
+>
+> **C - Characteristic** (inherent quality)
+> El hielo es frio. (Ice is cold.) / La nieve es blanca. (Snow is white.)
+>
+> **T - Time** (clock time, dates)
+> Son las dos. (It's two o'clock.) / Hoy es lunes. (Today is Monday.) / Es el 15 de marzo. (It's March 15th.)
+>
+> **O - Origin** (where someone/something is from)
+> Soy de Corea. (I'm from Korea.) / El cafe es de Colombia. (The coffee is from Colombia.)
+>
+> **R - Relationship** (possession, material)
+> Es mi libro. (It's my book.) / La mesa es de madera. (The table is made of wood.) / La fiesta es en mi casa. (The party is at my house.)
 
 ### 2.3 More SER Examples
 
@@ -116,31 +96,20 @@ Events:        La reunión es a las tres. (The meeting is at three.)
 
 ### 3.2 Uses of ESTAR — PLACE Mnemonic
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   P - Position/Place (location)                                 │
-│       Estoy en la oficina. (I'm at the office.)                 │
-│       Madrid está en España. (Madrid is in Spain.)              │
-│                                                                 │
-│   L - Looks/Appears (how something looks right now)             │
-│       Estás muy guapa hoy. (You look very pretty today.)        │
-│       La comida está deliciosa. (The food is/tastes delicious.) │
-│                                                                 │
-│   A - Action in progress (-ando/-iendo)                         │
-│       Estoy estudiando. (I'm studying.)                         │
-│       Están comiendo. (They're eating.)                         │
-│                                                                 │
-│   C - Condition (temporary state, result of change)             │
-│       Estoy cansado. (I'm tired.)                               │
-│       La puerta está abierta. (The door is open.)               │
-│       El café está frío. (The coffee is cold.)                  │
-│                                                                 │
-│   E - Emotion (how someone feels right now)                     │
-│       Estoy feliz. (I'm happy right now.)                       │
-│       Está triste. (He/She is sad.)                             │
-│       Estamos nerviosos. (We're nervous.)                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **P - Position/Place** (location)
+> Estoy en la oficina. (I'm at the office.) / Madrid esta en España. (Madrid is in Spain.)
+>
+> **L - Looks/Appears** (how something looks right now)
+> Estas muy guapa hoy. (You look very pretty today.) / La comida esta deliciosa. (The food is/tastes delicious.)
+>
+> **A - Action in progress** (-ando/-iendo)
+> Estoy estudiando. (I'm studying.) / Estan comiendo. (They're eating.)
+>
+> **C - Condition** (temporary state, result of change)
+> Estoy cansado. (I'm tired.) / La puerta esta abierta. (The door is open.) / El cafe esta frio. (The coffee is cold.)
+>
+> **E - Emotion** (how someone feels right now)
+> Estoy feliz. (I'm happy right now.) / Esta triste. (He/She is sad.) / Estamos nerviosos. (We're nervous.)
 
 ---
 
@@ -216,31 +185,27 @@ Age:           Tengo veinticinco años. (I'm 25 years old.)
 
 ### 5.3 TENER Idioms (Where English uses "to be")
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Physical sensations:                                          │
-│   tener hambre       → to be hungry     (lit: have hunger)      │
-│   tener sed          → to be thirsty    (lit: have thirst)      │
-│   tener frío         → to be cold       (lit: have cold)        │
-│   tener calor        → to be hot        (lit: have heat)        │
-│   tener sueño        → to be sleepy     (lit: have sleep)       │
-│                                                                 │
-│   Emotional states:                                             │
-│   tener miedo (de)   → to be afraid (of) (lit: have fear)      │
-│   tener vergüenza    → to be embarrassed (lit: have shame)     │
-│   tener cuidado      → to be careful    (lit: have care)        │
-│   tener paciencia    → to be patient    (lit: have patience)    │
-│                                                                 │
-│   Other common idioms:                                          │
-│   tener razón        → to be right      (lit: have reason)      │
-│   tener prisa        → to be in a hurry (lit: have hurry)      │
-│   tener suerte       → to be lucky      (lit: have luck)        │
-│   tener éxito        → to be successful (lit: have success)     │
-│   tener sentido      → to make sense    (lit: have sense)       │
-│   tener lugar        → to take place    (lit: have place)       │
-│   tener ganas de     → to feel like     (lit: have desire of)   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Physical sensations**:
+> - tener hambre → to be hungry (lit: have hunger)
+> - tener sed → to be thirsty (lit: have thirst)
+> - tener frio → to be cold (lit: have cold)
+> - tener calor → to be hot (lit: have heat)
+> - tener sueño → to be sleepy (lit: have sleep)
+>
+> **Emotional states**:
+> - tener miedo (de) → to be afraid (of) (lit: have fear)
+> - tener verguenza → to be embarrassed (lit: have shame)
+> - tener cuidado → to be careful (lit: have care)
+> - tener paciencia → to be patient (lit: have patience)
+>
+> **Other common idioms**:
+> - tener razon → to be right (lit: have reason)
+> - tener prisa → to be in a hurry (lit: have hurry)
+> - tener suerte → to be lucky (lit: have luck)
+> - tener exito → to be successful (lit: have success)
+> - tener sentido → to make sense (lit: have sense)
+> - tener lugar → to take place (lit: have place)
+> - tener ganas de → to feel like (lit: have desire of)
 
 ### 5.4 TENER QUE + Infinitive (Obligation)
 
@@ -259,24 +224,18 @@ Tenemos que ir.            → We have to go.
 
 ### 6.1 Impersonal HAY (There is / There are)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   hay = there is / there are (present tense, impersonal)        │
-│                                                                 │
-│   Hay un libro en la mesa.        → There is a book on the table.│
-│   Hay muchos estudiantes.         → There are many students.    │
-│   ¿Hay un banco cerca?            → Is there a bank nearby?     │
-│   No hay problema.                → There's no problem.         │
-│   Hay que estudiar.               → One must study. / You have  │
-│                                      to study. (impersonal)     │
-│                                                                 │
-│   Past:   había (there was/were)                                │
-│   Future: habrá (there will be)                                 │
-│                                                                 │
-│   ※ HAY never changes for plural!                              │
-│   Hay un gato.   Hay tres gatos.  (NOT "han tres gatos")       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **hay** = there is / there are (present tense, impersonal)
+>
+> - Hay un libro en la mesa. → There is a book on the table.
+> - Hay muchos estudiantes. → There are many students.
+> - ¿Hay un banco cerca? → Is there a bank nearby?
+> - No hay problema. → There's no problem.
+> - Hay que estudiar. → One must study. / You have to study. (impersonal)
+>
+> - **Past**: habia (there was/were)
+> - **Future**: habra (there will be)
+>
+> ※ HAY never changes for plural! Hay un gato. Hay tres gatos. (NOT "han tres gatos")
 
 ### 6.2 HAY vs ESTAR for Location
 
@@ -424,22 +383,15 @@ Translate to Spanish.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SER (DOCTOR)                  ESTAR (PLACE)                   │
-│   soy   somos                   estoy   estamos                 │
-│   eres  sois                    estás   estáis                  │
-│   es    son                     está    están                   │
-│                                                                 │
-│   TENER                         HABER                           │
-│   tengo  tenemos                hay (there is/are)              │
-│   tienes tenéis                 he, has, ha (auxiliary)          │
-│   tiene  tienen                 hemos, habéis, han              │
-│                                                                 │
-│   KEY TENER IDIOMS: hambre, sed, frío, calor, sueño,           │
-│   miedo, razón, prisa, suerte, ... años                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SER** (DOCTOR): soy, eres, es, somos, sois, son
+>
+> **ESTAR** (PLACE): estoy, estas, esta, estamos, estais, estan
+>
+> **TENER**: tengo, tienes, tiene, tenemos, teneis, tienen
+>
+> **HABER**: hay (there is/are) / he, has, ha, hemos, habeis, han (auxiliary)
+>
+> **KEY TENER IDIOMS**: hambre, sed, frio, calor, sueño, miedo, razon, prisa, suerte, ... años
 
 ---
 
