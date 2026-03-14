@@ -77,21 +77,17 @@ I                  can                 well                swim.
 
 화법조동사와 부정사는 문장의 중간을 감싸는 "괄호"를 형성한다:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                       SATZKLAMMER                                │
-│                                                                  │
-│  Subject ──► [MODAL VERB] ──── middle field ──── [INFINITIVE]    │
-│              (conjugated)                        (unchanged)     │
-│                                                                  │
-│  Ich         kann              Deutsch             sprechen.     │
-│  Wir         müssen            heute Abend          arbeiten.    │
-│  Du          darfst            hier nicht            rauchen.    │
-│  Er          will              ein neues Buch        lesen.      │
-│  Sie         soll              den Arzt              anrufen.    │
-│  Ich         möchte            einen Kaffee          trinken.    │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **SATZKLAMMER**
+>
+> Subject → [MODAL VERB] — middle field — [INFINITIVE]
+> (conjugated) / (unchanged)
+>
+> Ich **kann** Deutsch **sprechen**.
+> Wir **müssen** heute Abend **arbeiten**.
+> Du **darfst** hier nicht **rauchen**.
+> Er **will** ein neues Buch **lesen**.
+> Sie **soll** den Arzt **anrufen**.
+> Ich **möchte** einen Kaffee **trinken**.
 
 ### 2.2 평서문 예시
 
@@ -557,21 +553,17 @@ müssen과 sollen은 때때로 영어에서 "should"나 "must"로 번역될 수 
 | Du **musst** es **nicht** machen. | You **don't have to** do it. | 의무 없음 (하고 싶으면 해도 됨) |
 | Du **darfst** es **nicht** machen. | You **must not** do it. | 금지 (금지되어 있다) |
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  CRITICAL DIFFERENCE:                                               │
-│                                                                     │
-│  English "must not" = German "dürfen ... nicht"   (PROHIBITION)     │
-│  English "don't have to" = German "müssen ... nicht" (OPTIONAL)     │
-│                                                                     │
-│  Examples:                                                          │
-│  Du musst nicht kommen.   = You don't have to come. (your choice)   │
-│  Du darfst nicht kommen.  = You must not come. (it is forbidden!)   │
-│                                                                     │
-│  This is the OPPOSITE of what English speakers expect!              │
-│  "nicht müssen" is WEAKER than "nicht dürfen"                       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+> **CRITICAL DIFFERENCE:**
+>
+> English "must not" = German "dürfen ... nicht" (PROHIBITION)
+> English "don't have to" = German "müssen ... nicht" (OPTIONAL)
+>
+> Examples:
+> Du musst nicht kommen. = You don't have to come. (your choice)
+> Du darfst nicht kommen. = You must not come. (it is forbidden!)
+>
+> This is the OPPOSITE of what English speakers expect!
+> "nicht müssen" is WEAKER than "nicht dürfen"
 
 ### 11.3 구별에 대한 추가 예시
 
@@ -794,43 +786,35 @@ Er         wollte           ein neues Buch         kaufen.
 
 ### 15.3 화법조동사 요약 시트
 
-```
-+──────────────────────────────────────────────────────────────────+
-│              MODAL VERBS CHEAT SHEET                             │
-+──────────────────────────────────────────────────────────────────+
-│                                                                  │
-│  können  = ability/possibility     "can, am able to"             │
-│  müssen  = necessity/compulsion    "must, have to"               │
-│  dürfen  = permission              "may, am allowed to"          │
-│  sollen  = external obligation     "should, am supposed to"      │
-│  wollen  = desire/intention        "want to"                     │
-│  mögen   = general liking          "like" (usually without inf.) │
-│  möchten = polite wish             "would like (to)"             │
-│                                                                  │
-│  SENTENCE STRUCTURE (Satzklammer):                               │
-│  ┌────────────────────────────────────────────────────────┐      │
-│  │ Main:  Subject + [MODAL] + middle + [INFINITIVE]      │      │
-│  │        Ich       kann      gut       sprechen.        │      │
-│  │                                                        │      │
-│  │ Sub:   ..., dass + middle + [INFINITIVE] + [MODAL]    │      │
-│  │        ..., dass ich gut   sprechen        kann.      │      │
-│  └────────────────────────────────────────────────────────┘      │
-│                                                                  │
-│  KEY DISTINCTIONS:                                               │
-│  - können = ability  vs.  dürfen = permission                    │
-│  - müssen = must     vs.  sollen = should                        │
-│  - mögen  = like     vs.  möchten = would like                   │
-│  - wollen = want (NOT English "will"!)                           │
-│                                                                  │
-│  NEGATION TRAP:                                                  │
-│  - nicht müssen = don't have to  (optional)                      │
-│  - nicht dürfen = must not       (forbidden)                     │
-│                                                                  │
-│  PAST TENSE: Use Präteritum (not Perfekt):                       │
-│  konnte, musste, durfte, sollte, wollte, mochte                  │
-│                                                                  │
-+──────────────────────────────────────────────────────────────────+
-```
+> **MODAL VERBS CHEAT SHEET**
+>
+> - **können** = ability/possibility — "can, am able to"
+> - **müssen** = necessity/compulsion — "must, have to"
+> - **dürfen** = permission — "may, am allowed to"
+> - **sollen** = external obligation — "should, am supposed to"
+> - **wollen** = desire/intention — "want to"
+> - **mögen** = general liking — "like" (usually without inf.)
+> - **möchten** = polite wish — "would like (to)"
+>
+> **SENTENCE STRUCTURE (Satzklammer):**
+> Main: Subject + [MODAL] + middle + [INFINITIVE]
+> Ich kann gut sprechen.
+>
+> Sub: ..., dass + middle + [INFINITIVE] + [MODAL]
+> ..., dass ich gut sprechen kann.
+>
+> **KEY DISTINCTIONS:**
+> - können = ability vs. dürfen = permission
+> - müssen = must vs. sollen = should
+> - mögen = like vs. möchten = would like
+> - wollen = want (NOT English "will"!)
+>
+> **NEGATION TRAP:**
+> - nicht müssen = don't have to (optional)
+> - nicht dürfen = must not (forbidden)
+>
+> **PAST TENSE:** Use Präteritum (not Perfekt):
+> konnte, musste, durfte, sollte, wollte, mochte
 
 ---
 
@@ -963,31 +947,25 @@ Er         wollte           ein neues Buch         kaufen.
 
 ## 빠른 참조
 
-```
-+----------------------------------------------------------+
-|         MODAL VERBS CHEAT SHEET                           |
-+----------------------------------------------------------+
-|                                                          |
-|  können  = can, ability         müssen = must, have to   |
-|  dürfen  = may, allowed to      sollen = should, supposed|
-|  wollen  = want to              mögen  = to like         |
-|  möchte  = would like (polite)                           |
-|                                                          |
-|  SENTENCE STRUCTURE (Satzklammer):                       |
-|    Main: Modal (V2) + ... + Infinitive (END)             |
-|    Sub:  ... + Infinitive + Modal (END)                  |
-|                                                          |
-|  CRITICAL DISTINCTION:                                   |
-|    must not (forbidden) = dürfen + nicht                  |
-|    don't have to (no obligation) = müssen + nicht         |
-|                                                          |
-|  POLITENESS: möchte > wollen                             |
-|    Ich möchte... (polite)  vs.  Ich will... (blunt)      |
-|                                                          |
-|  PAST: konnte, musste, durfte, sollte, wollte, mochte    |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **MODAL VERBS CHEAT SHEET**
+>
+> - **können** = can, ability / **müssen** = must, have to
+> - **dürfen** = may, allowed to / **sollen** = should, supposed
+> - **wollen** = want to / **mögen** = to like
+> - **möchte** = would like (polite)
+>
+> **SENTENCE STRUCTURE (Satzklammer):**
+> Main: Modal (V2) + ... + Infinitive (END)
+> Sub: ... + Infinitive + Modal (END)
+>
+> **CRITICAL DISTINCTION:**
+> must not (forbidden) = dürfen + nicht
+> don't have to (no obligation) = müssen + nicht
+>
+> **POLITENESS:** möchte > wollen
+> Ich möchte... (polite) vs. Ich will... (blunt)
+>
+> **PAST:** konnte, musste, durfte, sollte, wollte, mochte
 
 ---
 
