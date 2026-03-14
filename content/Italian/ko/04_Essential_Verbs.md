@@ -24,26 +24,19 @@
 
 ## 1. 왜 이 네 동사인가?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   이 네 동사는 거의 모든 이탈리아어 문장에 나타납니다.                │
-│   이것들을 정복하면 대부분의 기본 아이디어를 표현할 수 있습니다.       │
-│                                                                 │
-│   ESSERE  → 정체성, 출신, 특성, 시간       ("~이다")              │
-│   AVERE   → 소유, 나이, 많은 관용어         ("가지다")             │
-│   FARE    → 행동, 날씨, 표현               ("하다/만들다")         │
-│   ANDARE  → 이동, 의도                     ("가다")              │
-│                                                                 │
-│   + STARE  → 건강, 진행형, 위치            ("~이다/머무르다")       │
-│   + C'È/CI SONO  → 존재                   ("~이 있다")           │
-│                                                                 │
-│   영어 화자를 위한 과제:                                           │
-│   영어 "to be" → ESSERE 또는 STARE (선택해야 함!)                 │
-│   영어 "to be" → 때로는 AVERE (avere fame = "배고프다",            │
-│                  "배고픔을 가지다"가 아님)                          │
-│   영어 "to do/make" → 이탈리아어에서는 한 동사: FARE               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 이 네 동사는 거의 모든 이탈리아어 문장에 나타납니다. 이것들을 정복하면 대부분의 기본 아이디어를 표현할 수 있습니다.
+>
+> - **ESSERE** → 정체성, 출신, 특성, 시간 ("~이다")
+> - **AVERE** → 소유, 나이, 많은 관용어 ("가지다")
+> - **FARE** → 행동, 날씨, 표현 ("하다/만들다")
+> - **ANDARE** → 이동, 의도 ("가다")
+> - **STARE** → 건강, 진행형, 위치 ("~이다/머무르다")
+> - **C'È/CI SONO** → 존재 ("~이 있다")
+>
+> 영어 화자를 위한 과제:
+> - 영어 "to be" → ESSERE 또는 STARE (선택해야 함!)
+> - 영어 "to be" → 때로는 AVERE (avere fame = "배고프다", "배고픔을 가지다"가 아님)
+> - 영어 "to do/make" → 이탈리아어에서는 한 동사: FARE
 
 ---
 
@@ -64,47 +57,15 @@
 
 ### 2.2 ESSERE의 용법
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. 정체성과 묘사                                                │
-│      Sono Maria. (나는 Maria이다.)                                │
-│      Lei è alta e simpatica. (그녀는 키가 크고 다정하다.)           │
-│                                                                 │
-│   2. 직업 (관사 없이!)                                           │
-│      Sono ingegnere. (나는 엔지니어이다.)                          │
-│      È professoressa. (그녀는 교수이다.)                           │
-│                                                                 │
-│   3. 국적과 출신                                                  │
-│      Sono coreano. (나는 한국인이다.)                              │
-│      Siamo di Seoul. (우리는 서울 출신이다.)                        │
-│      Il caffè è di Colombia. (그 커피는 콜롬비아산이다.)            │
-│                                                                 │
-│   4. 시간과 날짜                                                  │
-│      Sono le due. (2시이다.)                                      │
-│      È lunedì. (월요일이다.)                                      │
-│      È il 15 marzo. (3월 15일이다.)                               │
-│                                                                 │
-│   5. 특성 (본질적 성질)                                           │
-│      Il ghiaccio è freddo. (얼음은 차갑다.)                       │
-│      La neve è bianca. (눈은 하얗다.)                             │
-│                                                                 │
-│   6. 재료 / 구성                                                  │
-│      L'anello è d'oro. (그 반지는 금이다.)                        │
-│      Il tavolo è di legno. (그 테이블은 나무이다.)                  │
-│                                                                 │
-│   7. 행사의 장소                                                  │
-│      La festa è a casa mia. (파티는 우리 집에서이다.)               │
-│      Il concerto è al teatro. (콘서트는 극장에서이다.)              │
-│                                                                 │
-│   8. 소유                                                        │
-│      È il mio libro. (그것은 내 책이다.)                           │
-│      Di chi è questa borsa? (이 가방은 누구 것인가?)               │
-│                                                                 │
-│   9. 조동사 (특정 동사의 passato prossimo에서)                     │
-│      Sono andato a Roma. (로마에 갔다.)                           │
-│      È arrivata ieri. (그녀는 어제 도착했다.)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **1. 정체성과 묘사**: Sono Maria. / Lei è alta e simpatica.
+> **2. 직업 (관사 없이!)**: Sono ingegnere. / È professoressa.
+> **3. 국적과 출신**: Sono coreano. / Siamo di Seoul. / Il caffè è di Colombia.
+> **4. 시간과 날짜**: Sono le due. / È lunedì. / È il 15 marzo.
+> **5. 특성 (본질적 성질)**: Il ghiaccio è freddo. / La neve è bianca.
+> **6. 재료 / 구성**: L'anello è d'oro. / Il tavolo è di legno.
+> **7. 행사의 장소**: La festa è a casa mia. / Il concerto è al teatro.
+> **8. 소유**: È il mio libro. / Di chi è questa borsa?
+> **9. 조동사**: Sono andato a Roma. / È arrivata ieri.
 
 ---
 
@@ -123,33 +84,11 @@
 
 ### 3.2 STARE의 용법
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. 건강 / 기분                                                 │
-│      Come stai? — Sto bene, grazie. (어떻게 지내? — 잘 지내, 고마워.)│
-│      Non sto molto bene. (별로 안 좋아요.)                        │
-│                                                                 │
-│   2. 진행형 (stare + 현재분사)                                    │
-│      Sto mangiando. (먹고 있는 중이다.)                           │
-│      Stanno studiando. (그들은 공부하고 있다.)                     │
-│      Cosa stai facendo? (뭐 하고 있어?)                           │
-│                                                                 │
-│   3. 머무르다 / 남아 있다                                         │
-│      Stasera sto a casa. (오늘 밤 집에 있을 거예요.)               │
-│      Sta' fermo! (가만히 있어!)                                   │
-│                                                                 │
-│   4. ~하려는 참이다 (stare per + 부정사)                           │
-│      Sto per uscire. (나가려는 참이다.)                           │
-│      Sta per piovere. (비가 오려는 참이다.)                        │
-│                                                                 │
-│   5. 고정 표현                                                    │
-│      Stare attento (조심하다/주의하다)                             │
-│      Stare zitto (조용히 하다)                                    │
-│      Stare tranquillo (진정하다)                                  │
-│      Stare in piedi (서 있다)                                    │
-│      Stare seduto (앉아 있다)                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **1. 건강 / 기분**: Come stai? — Sto bene, grazie. / Non sto molto bene.
+> **2. 진행형 (stare + 현재분사)**: Sto mangiando. / Stanno studiando. / Cosa stai facendo?
+> **3. 머무르다 / 남아 있다**: Stasera sto a casa. / Sta' fermo!
+> **4. ~하려는 참이다 (stare per + 부정사)**: Sto per uscire. / Sta per piovere.
+> **5. 고정 표현**: Stare attento, Stare zitto, Stare tranquillo, Stare in piedi, Stare seduto
 
 ---
 
@@ -225,36 +164,30 @@ STARE = 어떻게 ~인가 (현재 상태, 건강, 일시적 위치)
 
 ### 5.3 AVERE 관용어 (영어에서는 "to be"를 쓰는 곳)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   신체 감각:                                                     │
-│   avere fame         → 배고프다        (직역: 배고픔을 가지다)     │
-│   avere sete         → 목마르다        (직역: 갈증을 가지다)      │
-│   avere freddo       → 춥다           (직역: 추위를 가지다)       │
-│   avere caldo        → 덥다           (직역: 더위를 가지다)       │
-│   avere sonno        → 졸리다         (직역: 졸음을 가지다)       │
-│                                                                 │
-│   감정 상태:                                                     │
-│   avere paura (di)   → 두렵다         (직역: 두려움을 가지다)     │
-│   avere vergogna     → 부끄럽다       (직역: 수치를 가지다)       │
-│   avere pazienza     → 참을성이 있다   (직역: 인내를 가지다)       │
-│   avere fretta       → 급하다         (직역: 서두름을 가지다)     │
-│                                                                 │
-│   기타 흔한 관용어:                                               │
-│   avere ragione      → 맞다           (직역: 이유를 가지다)       │
-│   avere torto        → 틀리다         (직역: 잘못을 가지다)       │
-│   avere fortuna      → 운이 좋다      (직역: 행운을 가지다)       │
-│   avere bisogno di   → ~이 필요하다   (직역: 필요를 가지다)       │
-│   avere voglia di    → ~하고 싶다     (직역: 욕구를 가지다)       │
-│   avere luogo        → 일어나다       (직역: 장소를 가지다)       │
-│   avere senso        → 말이 되다      (직역: 의미를 가지다)       │
-│   avere a che fare con → ~와 관련 있다                           │
-│                                                                 │
-│   ※ 스페인어와 달리, 이탈리아어는 "avere anni"만으로는              │
-│     사용하지 않습니다 — 숫자를 반드시 포함해야 합니다:               │
-│     Ho trent'anni. (30살이다.)                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **신체 감각:**
+> - avere fame → 배고프다 (직역: 배고픔을 가지다)
+> - avere sete → 목마르다 (직역: 갈증을 가지다)
+> - avere freddo → 춥다 (직역: 추위를 가지다)
+> - avere caldo → 덥다 (직역: 더위를 가지다)
+> - avere sonno → 졸리다 (직역: 졸음을 가지다)
+>
+> **감정 상태:**
+> - avere paura (di) → 두렵다 (직역: 두려움을 가지다)
+> - avere vergogna → 부끄럽다 (직역: 수치를 가지다)
+> - avere pazienza → 참을성이 있다 (직역: 인내를 가지다)
+> - avere fretta → 급하다 (직역: 서두름을 가지다)
+>
+> **기타 흔한 관용어:**
+> - avere ragione → 맞다 (직역: 이유를 가지다)
+> - avere torto → 틀리다 (직역: 잘못을 가지다)
+> - avere fortuna → 운이 좋다 (직역: 행운을 가지다)
+> - avere bisogno di → ~이 필요하다 (직역: 필요를 가지다)
+> - avere voglia di → ~하고 싶다 (직역: 욕구를 가지다)
+> - avere luogo → 일어나다 (직역: 장소를 가지다)
+> - avere senso → 말이 되다 (직역: 의미를 가지다)
+> - avere a che fare con → ~와 관련 있다
+>
+> 스페인어와 달리, 이탈리아어는 "avere anni"만으로는 사용하지 않습니다 — 숫자를 반드시 포함해야 합니다: Ho trent'anni. (30살이다.)
 
 ### 5.4 조동사로서의 AVERE (복합 시제 미리보기)
 
@@ -289,43 +222,38 @@ AVERE (활용형) + 과거분사 = 복합 시제
 
 ### 6.2 FARE 표현
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   일상 활동:                                                     │
-│   fare colazione        → 아침을 먹다                             │
-│   fare pranzo/cena      → 점심/저녁을 먹다                        │
-│   fare la spesa         → 식료품 쇼핑하다                         │
-│   fare le compere/gli acquisti → 쇼핑하다                        │
-│   fare una passeggiata  → 산책하다                                │
-│   fare il bagno/la doccia → 목욕/샤워하다                         │
-│   fare i compiti        → 숙제하다                                │
-│   fare le valigie       → 짐을 싸다                               │
-│   fare la fila/la coda  → 줄 서다                                │
-│                                                                 │
-│   날씨 (비인칭 — 항상 "fa"):                                      │
-│   fa caldo              → 덥다                                    │
-│   fa freddo             → 춥다                                    │
-│   fa bel tempo          → 날씨가 좋다                             │
-│   fa brutto tempo       → 날씨가 나쁘다                           │
-│                                                                 │
-│   기타 표현:                                                     │
-│   fare una domanda      → 질문하다                                │
-│   fare attenzione       → 주의하다                                │
-│   fare un viaggio       → 여행하다                                │
-│   fare un regalo        → 선물하다                                │
-│   fare una foto         → 사진 찍다                               │
-│   fare tardi            → 늦다                                    │
-│   fare in fretta        → 서두르다                                │
-│   fare parte di         → ~의 일부이다                            │
-│   fare finta di         → ~인 척하다                              │
-│   fare un favore        → 부탁을 들어주다                          │
-│   farcela               → 해내다                                  │
-│   farsi male            → 다치다                                  │
-│                                                                 │
-│   ※ FARE는 이탈리아어에서 가장 다용도인 동사 중 하나입니다.           │
-│     영어는 "to do"와 "to make"를 나누지만 — 이탈리아어는 하나.      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **일상 활동:**
+> - fare colazione → 아침을 먹다
+> - fare pranzo/cena → 점심/저녁을 먹다
+> - fare la spesa → 식료품 쇼핑하다
+> - fare le compere/gli acquisti → 쇼핑하다
+> - fare una passeggiata → 산책하다
+> - fare il bagno/la doccia → 목욕/샤워하다
+> - fare i compiti → 숙제하다
+> - fare le valigie → 짐을 싸다
+> - fare la fila/la coda → 줄 서다
+>
+> **날씨 (비인칭 — 항상 "fa"):**
+> - fa caldo → 덥다
+> - fa freddo → 춥다
+> - fa bel tempo → 날씨가 좋다
+> - fa brutto tempo → 날씨가 나쁘다
+>
+> **기타 표현:**
+> - fare una domanda → 질문하다
+> - fare attenzione → 주의하다
+> - fare un viaggio → 여행하다
+> - fare un regalo → 선물하다
+> - fare una foto → 사진 찍다
+> - fare tardi → 늦다
+> - fare in fretta → 서두르다
+> - fare parte di → ~의 일부이다
+> - fare finta di → ~인 척하다
+> - fare un favore → 부탁을 들어주다
+> - farcela → 해내다
+> - farsi male → 다치다
+>
+> FARE는 이탈리아어에서 가장 다용도인 동사 중 하나입니다. 영어는 "to do"와 "to make"를 나누지만 — 이탈리아어는 하나.
 
 ---
 
@@ -388,32 +316,23 @@ VENIRE = 오다 (화자 쪽으로)
 
 ## 8. C'È와 CI SONO — "~이 있다"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   c'è = ~이 있다 (단수 — ci + è)                                 │
-│   ci sono = ~이 있다 (복수)                                      │
-│                                                                 │
-│   C'è un libro sul tavolo.        → 테이블 위에 책이 있다.         │
-│   Ci sono molti studenti.         → 학생이 많이 있다.             │
-│   C'è un bar qui vicino?          → 근처에 바가 있나요?           │
-│   Non c'è problema.               → 문제없어요.                  │
-│   Ci sono tre camere.             → 방이 세 개 있다.             │
-│                                                                 │
-│   과거: c'era (~이 있었다), c'erano (~들이 있었다)                 │
-│   미래: ci sarà (~이 있을 것이다), ci saranno (~들이 있을 것이다)   │
-│                                                                 │
-│   C'È vs 장소를 나타내는 ESSERE:                                  │
-│   C'è un banco in via Roma.      → Via Roma에 은행이 있다.        │
-│   (존재를 소개 — 비한정)                                          │
-│   La banca è in via Roma.        → 그 은행은 Via Roma에 있다.     │
-│   (알려진 것의 위치를 명시 — 한정)                                 │
-│                                                                 │
-│   ※ C'è/Ci sono는 명사에 맞게 변하지 않습니다.                     │
-│   ※ C'è/Ci sono 뒤에는 비한정 관사/형용사를 사용:                  │
-│     C'è un gatto.   Ci sono tre gatti.                           │
-│     (C'è il gatto 안 됨 — 대신 "il gatto è..." 사용)             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **c'è** = ~이 있다 (단수 — ci + è) / **ci sono** = ~이 있다 (복수)
+>
+> - C'è un libro sul tavolo. → 테이블 위에 책이 있다.
+> - Ci sono molti studenti. → 학생이 많이 있다.
+> - C'è un bar qui vicino? → 근처에 바가 있나요?
+> - Non c'è problema. → 문제없어요.
+> - Ci sono tre camere. → 방이 세 개 있다.
+>
+> - **과거**: c'era (~이 있었다), c'erano (~들이 있었다)
+> - **미래**: ci sarà (~이 있을 것이다), ci saranno (~들이 있을 것이다)
+>
+> **C'È vs 장소를 나타내는 ESSERE:**
+> - C'è un banco in via Roma. → Via Roma에 은행이 있다. (존재를 소개 — 비한정)
+> - La banca è in via Roma. → 그 은행은 Via Roma에 있다. (알려진 것의 위치를 명시 — 한정)
+>
+> - C'è/Ci sono는 명사에 맞게 변하지 않습니다.
+> - C'è/Ci sono 뒤에는 비한정 관사/형용사를 사용: C'è un gatto. Ci sono tre gatti. (C'è il gatto 안 됨 — 대신 "il gatto è..." 사용)
 
 ---
 
@@ -593,30 +512,14 @@ FARE의 올바른 형태를 넣으세요.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ESSERE                          STARE                         │
-│   sono   siamo                    sto     stiamo                │
-│   sei    siete                    stai    state                 │
-│   è      sono                     sta     stanno                │
-│                                                                 │
-│   AVERE                           FARE                          │
-│   ho     abbiamo                  faccio  facciamo              │
-│   hai    avete                    fai     fate                  │
-│   ha     hanno                    fa      fanno                 │
-│                                                                 │
-│   ANDARE                          C'È / CI SONO                │
-│   vado   andiamo                  c'è (~이 있다)                │
-│   vai    andate                   ci sono (~들이 있다)           │
-│   va     vanno                                                  │
-│                                                                 │
-│   ESSERE: 정체성, 위치, 시간, 특성, 행사                          │
-│   STARE:  건강, 진행형, ~하려는 참, 머무르다, 고정 표현             │
-│   AVERE 관용어: fame, sete, freddo, caldo, sonno,              │
-│     paura, ragione, torto, fretta, bisogno, voglia, ... anni   │
-│   FARE: colazione, la spesa, un viaggio, caldo/freddo 등        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ESSERE**: sono/sei/è/siamo/siete/sono — **STARE**: sto/stai/sta/stiamo/state/stanno
+> **AVERE**: ho/hai/ha/abbiamo/avete/hanno — **FARE**: faccio/fai/fa/facciamo/fate/fanno
+> **ANDARE**: vado/vai/va/andiamo/andate/vanno — **C'È / CI SONO**: c'è (~이 있다) / ci sono (~들이 있다)
+>
+> - **ESSERE**: 정체성, 위치, 시간, 특성, 행사
+> - **STARE**: 건강, 진행형, ~하려는 참, 머무르다, 고정 표현
+> - **AVERE 관용어**: fame, sete, freddo, caldo, sonno, paura, ragione, torto, fretta, bisogno, voglia, ... anni
+> - **FARE**: colazione, la spesa, un viaggio, caldo/freddo 등
 
 ---
 
