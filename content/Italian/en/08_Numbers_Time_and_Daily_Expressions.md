@@ -179,28 +179,21 @@ In compound numbers, *-uno* can optionally drop -o before a noun:
 
 ### 4.1 Basic Structure
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              TELLING TIME IN ITALIAN                         │
-│                                                              │
-│  1:00  È l'una.            (singular: "è l'una")           │
-│  2:00  Sono le due.        (plural: "sono le")              │
-│  3:15  Sono le tre e un quarto.                             │
-│        (= Sono le tre e quindici.)                          │
-│  4:30  Sono le quattro e mezza.                             │
-│        (= Sono le quattro e trenta.)                        │
-│  5:45  Sono le sei meno un quarto.                          │
-│        (= Sono le cinque e quarantacinque.)                 │
-│  6:10  Sono le sei e dieci.                                 │
-│  7:50  Sono le otto meno dieci.                             │
-│  12:00 È mezzogiorno. (noon)                                │
-│  00:00 È mezzanotte. (midnight)                             │
-│                                                              │
-│  ※ "È" for 1:00, noon, midnight; "Sono" for all others    │
-│  ※ "Meno" = minus (for minutes before the next hour)       │
-│  ※ 24-hour clock is common in formal/written contexts       │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Telling Time in Italian**
+>
+> - 1:00 → È l'una. (singular: "è l'una")
+> - 2:00 → Sono le due. (plural: "sono le")
+> - 3:15 → Sono le tre e un quarto. (= Sono le tre e quindici.)
+> - 4:30 → Sono le quattro e mezza. (= Sono le quattro e trenta.)
+> - 5:45 → Sono le sei meno un quarto. (= Sono le cinque e quarantacinque.)
+> - 6:10 → Sono le sei e dieci.
+> - 7:50 → Sono le otto meno dieci.
+> - 12:00 → È mezzogiorno. (noon)
+> - 00:00 → È mezzanotte. (midnight)
+>
+> - "È" for 1:00, noon, midnight; "Sono" for all others
+> - "Meno" = minus (for minutes before the next hour)
+> - 24-hour clock is common in formal/written contexts
 
 ### 4.2 Time of Day
 
@@ -586,28 +579,14 @@ Translate to Italian.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   NUMBERS: 0-10 (memorize), 11-19 (unique/dici-),          │
-│   20-99 (tens+units as one word, drop vowel before 1/8)     │
-│   100=cento, 1000=mille/mila, 1M=milione(di), 1B=miliardo  │
-│                                                              │
-│   TIME: È l'una / Sono le [due-dodici]                      │
-│   + e [minuti] / meno [minuti] / e un quarto / e mezza     │
-│   A che ora? → Alle [ore] / All'una                         │
-│                                                              │
-│   DAYS: lunedì-venerdì (end in -dì), sabato, domenica      │
-│   Not capitalized. Il lunedì = on Mondays.                  │
-│                                                              │
-│   DATES: il + number + month (+ year)                        │
-│   Exception: il primo (1st of month)                         │
-│                                                              │
-│   ORDINALS: 1°-10° (unique), 11°+ = cardinal + -esimo      │
-│                                                              │
-│   KEY PHRASES: Quanto costa? Dov'è...? Che tempo fa?        │
-│   Buon appetito! Salute! In bocca al lupo! — Crepi!        │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference**
+>
+> - **NUMBERS**: 0-10 (memorize), 11-19 (unique/dici-), 20-99 (tens+units as one word, drop vowel before 1/8). 100=cento, 1000=mille/mila, 1M=milione(di), 1B=miliardo
+> - **TIME**: È l'una / Sono le [due-dodici] + e [minuti] / meno [minuti] / e un quarto / e mezza. A che ora? → Alle [ore] / All'una
+> - **DAYS**: lunedì-venerdì (end in -dì), sabato, domenica. Not capitalized. Il lunedì = on Mondays.
+> - **DATES**: il + number + month (+ year). Exception: il primo (1st of month)
+> - **ORDINALS**: 1°-10° (unique), 11°+ = cardinal + -esimo
+> - **KEY PHRASES**: Quanto costa? Dov'è...? Che tempo fa? Buon appetito! Salute! In bocca al lupo! — Crepi!
 
 ---
 
