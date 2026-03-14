@@ -25,32 +25,22 @@
 
 ### 1.1 Special Properties
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Modal verbs are SPECIAL auxiliary verbs with unique rules:    │
-│                                                                 │
-│   1. Followed by BASE FORM (no "to"):                          │
-│      "She can swim." ✓     "She can to swim." ✗                │
-│      "He must go." ✓       "He must to go." ✗                  │
-│                                                                 │
-│   2. No -s for third person:                                    │
-│      "She can swim." ✓     "She cans swim." ✗                  │
-│      "He must go." ✓       "He musts go." ✗                    │
-│                                                                 │
-│   3. No do-support for questions/negatives:                     │
-│      "Can you swim?" ✓     "Do you can swim?" ✗                │
-│      "I can't swim." ✓     "I don't can swim." ✗               │
-│                                                                 │
-│   4. No infinitive or -ing form:                                │
-│      "to can" ✗  "canning" ✗  "to must" ✗  "musting" ✗        │
-│                                                                 │
-│   The 9 core modals:                                            │
-│   can, could, may, might, must, shall, should, will, would     │
-│                                                                 │
-│   Semi-modals (follow some rules):                              │
-│   have to, need to, ought to, be able to, be going to          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Modal verbs are SPECIAL auxiliary verbs with unique rules:
+> 1. Followed by BASE FORM (no "to"):
+> "She can swim." ✓     "She can to swim." ✗
+> "He must go." ✓       "He must to go." ✗
+> 2. No -s for third person:
+> "She can swim." ✓     "She cans swim." ✗
+> "He must go." ✓       "He musts go." ✗
+> 3. No do-support for questions/negatives:
+> "Can you swim?" ✓     "Do you can swim?" ✗
+> "I can't swim." ✓     "I don't can swim." ✗
+> 4. No infinitive or -ing form:
+> "to can" ✗  "canning" ✗  "to must" ✗  "musting" ✗
+> The 9 core modals:
+> can, could, may, might, must, shall, should, will, would
+> Semi-modals (follow some rules):
+> have to, need to, ought to, be able to, be going to
 
 ### 1.2 Korean Comparison
 
@@ -184,17 +174,14 @@ Possibility (더 약한 가능성 — ~일지도 모른다):
 
 ### 3.3 Probability Scale
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   100%  It will rain.           (확실)                          │
-│    95%  It must be raining.     (거의 확실한 추론)               │
-│    75%  It should rain.         (예상/기대)                     │
-│    50%  It may rain.            (반반 가능성)                   │
-│    30%  It might/could rain.    (약한 가능성)                   │
-│     0%  It can't/couldn't rain. (불가능)                        │
-│         It won't rain.          (확실히 아님)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **100%  It will rain.           (확실)**
+>
+> 95%  It must be raining.     (거의 확실한 추론)
+> 75%  It should rain.         (예상/기대)
+> 50%  It may rain.            (반반 가능성)
+> 30%  It might/could rain.    (약한 가능성)
+> 0%  It can't/couldn't rain. (불가능)
+> It won't rain.          (확실히 아님)
 
 ---
 
@@ -238,31 +225,23 @@ Future:  will have to + base verb
 
 ### 4.3 must vs have to
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   must = internal obligation (speaker's authority/feeling)      │
-│   "I must study harder."  (내가 스스로 그래야 한다고 느낌)        │
-│                                                                 │
-│   have to = external obligation (rules, circumstances)          │
-│   "I have to wear a uniform." (회사 규정 때문에)                 │
-│                                                                 │
-│   In practice, they are often interchangeable.                  │
-│   BUT their NEGATIVES are very different:                       │
-│                                                                 │
-│   must not (mustn't) = PROHIBITION (금지 — 하면 안 된다!)       │
-│   "You mustn't steal."    훔치면 안 된다!                       │
-│   "You mustn't be late."  늦으면 안 된다!                       │
-│                                                                 │
-│   don't have to = NO OBLIGATION (불필요 — 안 해도 된다)         │
-│   "You don't have to come." 안 와도 돼.                        │
-│   "She doesn't have to work today." 오늘 일 안 해도 돼.         │
-│                                                                 │
-│   ※ mustn't ≠ don't have to !!!                               │
-│     mustn't = DO NOT DO THIS (forbidden!)                      │
-│     don't have to = you don't need to (optional)               │
-│     This is a CRITICAL distinction!                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **must = internal obligation (speaker's authority/feeling)**
+>
+> "I must study harder."  (내가 스스로 그래야 한다고 느낌)
+> have to = external obligation (rules, circumstances)
+> "I have to wear a uniform." (회사 규정 때문에)
+> In practice, they are often interchangeable.
+> BUT their NEGATIVES are very different:
+> must not (mustn't) = PROHIBITION (금지 — 하면 안 된다!)
+> "You mustn't steal."    훔치면 안 된다!
+> "You mustn't be late."  늦으면 안 된다!
+> don't have to = NO OBLIGATION (불필요 — 안 해도 된다)
+> "You don't have to come." 안 와도 돼.
+> "She doesn't have to work today." 오늘 일 안 해도 돼.
+> ※ mustn't ≠ don't have to !!!
+> mustn't = DO NOT DO THIS (forbidden!)
+> don't have to = you don't need to (optional)
+> This is a CRITICAL distinction!
 
 ---
 
@@ -421,19 +400,15 @@ As a regular verb (more common):
 
 ### 8.1 Past Modals Overview
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   modal + have + past participle = modal meaning in the PAST   │
-│                                                                 │
-│   must have + pp    = 과거 추론 (~했음에 틀림없다)               │
-│   may/might have + pp = 과거 가능성 (~했을 수도 있다)            │
-│   could have + pp   = 과거 가능성 / 미실현 가능성                │
-│   should have + pp  = 과거 후회 (~했어야 했는데)                 │
-│   would have + pp   = 과거 가정 (~했을 텐데)                    │
-│   can't have + pp   = 과거 불가능 (~했을 리가 없다)              │
-│   needn't have + pp = 불필요한 과거 행동 (~할 필요 없었는데 했다) │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **modal + have + past participle = modal meaning in the PAST**
+>
+> must have + pp    = 과거 추론 (~했음에 틀림없다)
+> may/might have + pp = 과거 가능성 (~했을 수도 있다)
+> could have + pp   = 과거 가능성 / 미실현 가능성
+> should have + pp  = 과거 후회 (~했어야 했는데)
+> would have + pp   = 과거 가정 (~했을 텐데)
+> can't have + pp   = 과거 불가능 (~했을 리가 없다)
+> needn't have + pp = 불필요한 과거 행동 (~할 필요 없었는데 했다)
 
 ### 8.2 must have + past participle (과거 확신 추론)
 
@@ -512,27 +487,23 @@ As a regular verb (more common):
 
 ## 9. Modal Verbs Summary Table
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Function    Present/Future          Past                      │
-│   ────────    ──────────────          ────                      │
-│   Ability     can / be able to        could / was able to       │
-│   Permission  can / may               could (past context)      │
-│   Request     can/could/would you?    —                         │
-│   Possibility may / might / could     may/might/could have + pp │
-│   Deduction   must (95%)              must have + pp            │
-│   Impossibility can't (95% not)       can't/couldn't have + pp  │
-│   Obligation  must / have to          had to                    │
-│   Prohibition mustn't                 —                         │
-│   No need     don't have to / needn't didn't have to /          │
-│                                       needn't have + pp         │
-│   Advice      should / ought to       should have + pp (regret) │
-│   Warning     had better              —                         │
-│   Offer       shall I? (BrE)          —                         │
-│   Past habit  —                       would / used to           │
-│   Hypothetical would                  would have + pp           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Function    Present/Future          Past**
+>
+> Ability     can / be able to        could / was able to
+> Permission  can / may               could (past context)
+> Request     can/could/would you?    —
+> Possibility may / might / could     may/might/could have + pp
+> Deduction   must (95%)              must have + pp
+> Impossibility can't (95% not)       can't/couldn't have + pp
+> Obligation  must / have to          had to
+> Prohibition mustn't                 —
+> No need     don't have to / needn't didn't have to /
+> needn't have + pp
+> Advice      should / ought to       should have + pp (regret)
+> Warning     had better              —
+> Offer       shall I? (BrE)          —
+> Past habit  —                       would / used to
+> Hypothetical would                  would have + pp
 
 ---
 
@@ -680,32 +651,26 @@ e. "I wonder if you could open the window."  (extremely polite/indirect)
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Modal Verbs Quick Guide                             │
-│                                                                 │
-│   Ability:     can / could / be able to                         │
-│   Permission:  can (informal) / may (formal) / could (polite)  │
-│   Obligation:  must / have to                                   │
-│   Prohibition: mustn't (DON'T!)  ≠  don't have to (no need)   │
-│   Advice:      should / ought to / had better (stronger)        │
-│   Possibility: may (50%) > might/could (30%)                    │
-│   Deduction:   must (95% yes) / can't (95% no)                │
-│   Polite:      could you / would you / would you mind           │
-│                                                                 │
-│   Past modals (modal + have + past participle):                 │
-│   must have + pp     = ~했음에 틀림없다                          │
-│   should have + pp   = ~했어야 했는데 (후회)                     │
-│   could have + pp    = ~할 수 있었는데 (안 했다)                 │
-│   might have + pp    = ~했을 수도 있다                           │
-│   would have + pp    = ~했을 텐데 (가정)                        │
-│   can't have + pp    = ~했을 리가 없다                          │
-│                                                                 │
-│   Rules: no -s (he can ✓, he cans ✗)                           │
-│          base form after modal (can swim ✓, can to swim ✗)     │
-│          no do-support (can you? ✓, do you can? ✗)             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Modal Verbs Quick Guide**
+>
+> Ability:     can / could / be able to
+> Permission:  can (informal) / may (formal) / could (polite)
+> Obligation:  must / have to
+> Prohibition: mustn't (DON'T!)  ≠  don't have to (no need)
+> Advice:      should / ought to / had better (stronger)
+> Possibility: may (50%) > might/could (30%)
+> Deduction:   must (95% yes) / can't (95% no)
+> Polite:      could you / would you / would you mind
+> Past modals (modal + have + past participle):
+> must have + pp     = ~했음에 틀림없다
+> should have + pp   = ~했어야 했는데 (후회)
+> could have + pp    = ~할 수 있었는데 (안 했다)
+> might have + pp    = ~했을 수도 있다
+> would have + pp    = ~했을 텐데 (가정)
+> can't have + pp    = ~했을 리가 없다
+> Rules: no -s (he can ✓, he cans ✗)
+> base form after modal (can swim ✓, can to swim ✗)
+> no do-support (can you? ✓, do you can? ✗)
 
 ---
 
