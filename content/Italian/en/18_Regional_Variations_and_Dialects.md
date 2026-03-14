@@ -30,28 +30,22 @@
 
 ## 1. Standard Italian and Its Tuscan Base
 
-```
-+----------------------------------------------------------+
-|        STANDARD ITALIAN — L'ITALIANO STANDARD             |
-+----------------------------------------------------------+
-|                                                          |
-|  Based on: 14th-century literary Tuscan (fiorentino)     |
-|  Key authors: Dante, Petrarca, Boccaccio (le tre corone) |
-|                                                          |
-|  Codified by:                                            |
-|    Pietro Bembo — "Prose della volgar lingua" (1525)     |
-|    Accademia della Crusca — Founded 1583                 |
-|    (First Italian dictionary, "Vocabolario" — 1612)      |
-|                                                          |
-|  At unification (1861):                                  |
-|    Only ~2.5% of Italians spoke standard Italian         |
-|    The rest spoke local dialects as their first language  |
-|                                                          |
-|  Today:                                                  |
-|    ~95% of Italians speak standard Italian               |
-|    ~50% still use dialect regularly (ISTAT surveys)      |
-+----------------------------------------------------------+
-```
+> **STANDARD ITALIAN — L'ITALIANO STANDARD**
+>
+> - **Based on**: 14th-century literary Tuscan (fiorentino)
+> - **Key authors**: Dante, Petrarca, Boccaccio (le tre corone)
+>
+> Codified by:
+> - Pietro Bembo — "Prose della volgar lingua" (1525)
+> - Accademia della Crusca — Founded 1583 (First Italian dictionary, "Vocabolario" — 1612)
+>
+> At unification (1861):
+> - Only ~2.5% of Italians spoke standard Italian
+> - The rest spoke local dialects as their first language
+>
+> Today:
+> - ~95% of Italians speak standard Italian
+> - ~50% still use dialect regularly (ISTAT surveys)
 
 ### Why Tuscan?
 
@@ -69,43 +63,21 @@ The prestige of the Tuscan literary tradition, especially the works of:
 
 ## 2. Map of Italian Dialect Groups
 
-```
-+----------------------------------------------------------+
-|           DIALECT GROUPS OF ITALY                         |
-+----------------------------------------------------------+
-|                                                          |
-|  SETTENTRIONALE (Northern)                               |
-|    ┌─────────────────────────────────┐                   |
-|    │ Piemontese  Lombardo  Ligure    │                   |
-|    │ Emiliano-Romagnolo  Veneto      │                   |
-|    └─────────────────────────────────┘                   |
-|                                                          |
-|  ── La Spezia–Rimini Line ──────────────────             |
-|                                                          |
-|  CENTRALE (Central)                                      |
-|    ┌─────────────────────────────────┐                   |
-|    │ Toscano  Romano  Marchigiano    │                   |
-|    │ Umbro  Laziale                  │                   |
-|    └─────────────────────────────────┘                   |
-|                                                          |
-|  ── Roma–Ancona Line ───────────────────                 |
-|                                                          |
-|  MERIDIONALE (Southern)                                  |
-|    ┌─────────────────────────────────┐                   |
-|    │ Napoletano  Abruzzese  Pugliese │                   |
-|    │ Calabrese  Lucano  Salentino    │                   |
-|    └─────────────────────────────────┘                   |
-|                                                          |
-|  INSULARE (Insular)                                      |
-|    ┌─────────────────────────────────┐                   |
-|    │ Siciliano  Sardo (Sardinian)    │                   |
-|    └─────────────────────────────────┘                   |
-|                                                          |
-|  NOTE: "Dialect" in Italian linguistics does NOT         |
-|  mean "broken Italian." These are separate Romance       |
-|  languages with their own grammar and vocabulary.        |
-+----------------------------------------------------------+
-```
+> **DIALECT GROUPS OF ITALY**
+>
+> **SETTENTRIONALE (Northern)**: Piemontese, Lombardo, Ligure, Emiliano-Romagnolo, Veneto
+>
+> — La Spezia-Rimini Line —
+>
+> **CENTRALE (Central)**: Toscano, Romano, Marchigiano, Umbro, Laziale
+>
+> — Roma-Ancona Line —
+>
+> **MERIDIONALE (Southern)**: Napoletano, Abruzzese, Pugliese, Calabrese, Lucano, Salentino
+>
+> **INSULARE (Insular)**: Siciliano, Sardo (Sardinian)
+>
+> NOTE: "Dialect" in Italian linguistics does NOT mean "broken Italian." These are separate Romance languages with their own grammar and vocabulary.
 
 ### Isoglosses: The Lines That Divide
 
@@ -387,23 +359,17 @@ Food names vary dramatically across Italy:
 
 ### 9.1 Swiss Italian (Italiano svizzero)
 
-```
-+----------------------------------------------------------+
-|           ITALIAN IN SWITZERLAND                          |
-+----------------------------------------------------------+
-|                                                          |
-|  Region: Canton Ticino + parts of Graubünden            |
-|  Speakers: ~700,000 (official language)                  |
-|  Status: One of four national languages of Switzerland   |
-|                                                          |
-|  Features:                                               |
-|    - Based on Lombard dialects (not Tuscan)              |
-|    - German/French loanwords: Natel (cellulare)          |
-|    - Different terms: azione (sale), autosilo (parking)  |
-|    - Political vocabulary: Consiglio Federale,           |
-|      Cancelleria federale                                |
-+----------------------------------------------------------+
-```
+> **ITALIAN IN SWITZERLAND**
+>
+> - **Region**: Canton Ticino + parts of Graubünden
+> - **Speakers**: ~700,000 (official language)
+> - **Status**: One of four national languages of Switzerland
+>
+> Features:
+> - Based on Lombard dialects (not Tuscan)
+> - German/French loanwords: Natel (cellulare)
+> - Different terms: azione (sale), autosilo (parking)
+> - Political vocabulary: Consiglio Federale, Cancelleria federale
 
 | Swiss Italian | Italian Italian | English |
 |--------------|----------------|---------|
@@ -511,27 +477,18 @@ The centuries-long debate about what form of Italian should become the national 
 
 ### 11.3 Role of Television
 
-```
-+----------------------------------------------------------+
-|     THE ROLE OF RAI TV IN LANGUAGE UNIFICATION            |
-+----------------------------------------------------------+
-|                                                          |
-|  1954: RAI begins broadcasting                           |
-|  1960: "Non è mai troppo tardi" (Alberto Manzi)          |
-|        — TV literacy program that taught ~1.5 million    |
-|          illiterate adults to read and write Italian      |
-|                                                          |
-|  Effect:                                                 |
-|    - First time most Italians heard standard Italian     |
-|      spoken daily in their homes                         |
-|    - News anchors used a neutral "broadcast Italian"     |
-|    - Entertainment programs spread a common vocabulary   |
-|    - Advertising created shared cultural references      |
-|                                                          |
-|  Result: TV did more for Italian standardization in      |
-|  30 years than schools had done in 90 years.             |
-+----------------------------------------------------------+
-```
+> **THE ROLE OF RAI TV IN LANGUAGE UNIFICATION**
+>
+> - 1954: RAI begins broadcasting
+> - 1960: "Non è mai troppo tardi" (Alberto Manzi) — TV literacy program that taught ~1.5 million illiterate adults to read and write Italian
+>
+> Effect:
+> - First time most Italians heard standard Italian spoken daily in their homes
+> - News anchors used a neutral "broadcast Italian"
+> - Entertainment programs spread a common vocabulary
+> - Advertising created shared cultural references
+>
+> Result: TV did more for Italian standardization in 30 years than schools had done in 90 years.
 
 ---
 
