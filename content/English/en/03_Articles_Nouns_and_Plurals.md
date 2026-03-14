@@ -24,27 +24,19 @@
 
 ## 1. Why Articles Are So Hard for Korean Speakers
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   THE #1 HARDEST GRAMMAR POINT FOR KOREAN SPEAKERS              │
-│                                                                 │
-│   Korean has NO articles at all:                                │
-│   "나는 사과를 먹는다" → I eat apple? an apple? the apple?         │
-│                                                                 │
-│   In Korean, 사과 (apple) is always just 사과.                   │
-│   In English, you MUST choose:                                  │
-│                                                                 │
-│   a/an  → "I eat AN apple."    (any apple, first mention)       │
-│   the   → "I eat THE apple."   (specific apple, we know which)  │
-│   (none)→ "I eat apples."      (apples in general)              │
-│                                                                 │
-│   Native English speakers make this choice AUTOMATICALLY        │
-│   hundreds of times per day. Korean speakers must LEARN it.     │
-│                                                                 │
-│   ※ Even advanced Korean speakers make article errors.         │
-│     This lesson is the MOST IMPORTANT lesson for accuracy.     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **THE #1 HARDEST GRAMMAR POINT FOR KOREAN SPEAKERS**
+>
+> Korean has NO articles at all:
+> "나는 사과를 먹는다" → I eat apple? an apple? the apple?
+> In Korean, 사과 (apple) is always just 사과.
+> In English, you MUST choose:
+> a/an  → "I eat AN apple."    (any apple, first mention)
+> the   → "I eat THE apple."   (specific apple, we know which)
+> (none)→ "I eat apples."      (apples in general)
+> Native English speakers make this choice AUTOMATICALLY
+> hundreds of times per day. Korean speakers must LEARN it.
+> ※ Even advanced Korean speakers make article errors.
+> This lesson is the MOST IMPORTANT lesson for accuracy.
 
 ---
 
@@ -74,32 +66,25 @@ Use a/an when:
 
 ### 2.2 a vs an
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   a  → before CONSONANT SOUNDS                                  │
-│   an → before VOWEL SOUNDS                                      │
-│                                                                 │
-│   ※ Based on SOUND, not spelling!                              │
-│                                                                 │
-│   a book        (b = consonant sound)                           │
-│   a car         (c = consonant sound)                           │
-│   a dog         (d = consonant sound)                           │
-│   a university  (u = /juː/ starts with consonant /j/ sound!)   │
-│   a European    (E = /jʊ/ starts with consonant /j/ sound!)    │
-│   a one-way     (o = /wʌ/ starts with consonant /w/ sound!)    │
-│                                                                 │
-│   an apple      (a = vowel sound)                               │
-│   an egg        (e = vowel sound)                               │
-│   an hour       (h is silent! /aʊər/ starts with vowel)        │
-│   an honest man (h is silent! /ˈɒnɪst/ starts with vowel)     │
-│   an MBA        (M = /em/ starts with vowel /e/ sound!)        │
-│   an X-ray      (X = /eks/ starts with vowel /e/ sound!)       │
-│                                                                 │
-│   ※ Common Korean speaker mistake:                             │
-│     "a umbrella" ✗ → "an umbrella" ✓                            │
-│     "an university" ✗ → "a university" ✓                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **a  → before CONSONANT SOUNDS**
+>
+> an → before VOWEL SOUNDS
+> ※ Based on SOUND, not spelling!
+> a book        (b = consonant sound)
+> a car         (c = consonant sound)
+> a dog         (d = consonant sound)
+> a university  (u = /juː/ starts with consonant /j/ sound!)
+> a European    (E = /jʊ/ starts with consonant /j/ sound!)
+> a one-way     (o = /wʌ/ starts with consonant /w/ sound!)
+> an apple      (a = vowel sound)
+> an egg        (e = vowel sound)
+> an hour       (h is silent! /aʊər/ starts with vowel)
+> an honest man (h is silent! /ˈɒnɪst/ starts with vowel)
+> an MBA        (M = /em/ starts with vowel /e/ sound!)
+> an X-ray      (X = /eks/ starts with vowel /e/ sound!)
+> ※ Common Korean speaker mistake:
+> "a umbrella" ✗ → "an umbrella" ✓
+> "an university" ✗ → "a university" ✓
 
 ### 2.3 a/an with Jobs and Identity
 
@@ -232,36 +217,23 @@ Rules of thumb:
 
 ### 5.1 The Master Decision Tree
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    ARTICLE DECISION TREE                         │
-│                                                                 │
-│   Is the noun COUNTABLE?                                        │
-│   │                                                             │
-│   ├── YES (countable)                                           │
-│   │   │                                                         │
-│   │   ├── SINGULAR?                                             │
-│   │   │   │                                                     │
-│   │   │   ├── Known to listener? ──YES──→ THE book              │
-│   │   │   │                                                     │
-│   │   │   └── Unknown/first mention? ──→ A/AN book              │
-│   │   │                                                         │
-│   │   └── PLURAL?                                               │
-│   │       │                                                     │
-│   │       ├── Specific group? ──YES──→ THE books (on the table) │
-│   │       │                                                     │
-│   │       └── General/all? ──→ ∅ books (Books are great.)       │
-│   │                                                             │
-│   └── NO (uncountable)                                          │
-│       │                                                         │
-│       ├── Specific? ──YES──→ THE water (in the glass)           │
-│       │                                                         │
-│       └── General? ──→ ∅ water (Water is essential.)            │
-│                                                                 │
-│   NEVER: a/an + uncountable   (a water ✗, an information ✗)    │
-│   NEVER: a/an + plural        (a books ✗, an apples ✗)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ARTICLE DECISION TREE**
+>
+> Is the noun COUNTABLE?
+> ├── YES (countable)
+> │   ├── SINGULAR?
+> | ├── Known to listener? ──YES──→ THE book |
+> |---|
+> | └── Unknown/first mention? ──→ A/AN book |
+>
+> │   └── PLURAL?
+> │       ├── Specific group? ──YES──→ THE books (on the table)
+> │       └── General/all? ──→ ∅ books (Books are great.)
+> └── NO (uncountable)
+> ├── Specific? ──YES──→ THE water (in the glass)
+> └── General? ──→ ∅ water (Water is essential.)
+> NEVER: a/an + uncountable   (a water ✗, an information ✗)
+> NEVER: a/an + plural        (a books ✗, an apples ✗)
 
 ### 5.2 Quick Examples
 
@@ -280,24 +252,18 @@ Rules of thumb:
 
 ### 6.1 The Concept
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Countable nouns (셀 수 있는 명사):                              │
-│   Can be counted: one book, two books, three books              │
-│   Have singular AND plural forms                                │
-│   Can use a/an: a book, an apple                                │
-│                                                                 │
-│   Uncountable nouns (셀 수 없는 명사):                            │
-│   Cannot be counted individually                                │
-│   Have NO plural form                                           │
-│   Cannot use a/an                                               │
-│                                                                 │
-│   ※ Korean does not have this distinction!                     │
-│     물 can be 물 한 잔, 물 두 잔 (using counters 잔)              │
-│     English: water (uncountable) — NO "two waters"              │
-│     Instead: "two glasses of water"                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Countable nouns (셀 수 있는 명사):
+> Can be counted: one book, two books, three books
+> Have singular AND plural forms
+> Can use a/an: a book, an apple
+> Uncountable nouns (셀 수 없는 명사):
+> Cannot be counted individually
+> Have NO plural form
+> Cannot use a/an
+> ※ Korean does not have this distinction!
+> 물 can be 물 한 잔, 물 두 잔 (using counters 잔)
+> English: water (uncountable) — NO "two waters"
+> Instead: "two glasses of water"
 
 ### 6.2 Common Uncountable Nouns
 
@@ -358,31 +324,23 @@ hair (머리카락 — 전체)              a hair (머리카락 한 올)
 
 ### 7.1 Basic Rules
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Plural Formation Rules                          │
-│                                                                 │
-│   Rule 1: Most nouns → add -s                                   │
-│   book → books    cat → cats    dog → dogs    table → tables    │
-│                                                                 │
-│   Rule 2: Ends in -s, -ss, -sh, -ch, -x, -z → add -es         │
-│   bus → buses     class → classes    dish → dishes              │
-│   watch → watches  box → boxes       quiz → quizzes             │
-│                                                                 │
-│   Rule 3: Ends in consonant + y → change y to -ies             │
-│   city → cities   baby → babies    story → stories              │
-│   ※ Vowel + y → just add -s: boy → boys, day → days            │
-│                                                                 │
-│   Rule 4: Ends in -f/-fe → change to -ves (many exceptions)    │
-│   knife → knives   wife → wives    leaf → leaves                │
-│   life → lives     wolf → wolves   half → halves                │
-│   ※ Exceptions: roof → roofs, chief → chiefs, belief → beliefs │
-│                                                                 │
-│   Rule 5: Ends in -o → add -es (some) or -s (some)             │
-│   tomato → tomatoes  potato → potatoes  hero → heroes           │
-│   ※ Music/foreign: piano → pianos, photo → photos              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Plural Formation Rules**
+>
+> Rule 1: Most nouns → add -s
+> book → books    cat → cats    dog → dogs    table → tables
+> Rule 2: Ends in -s, -ss, -sh, -ch, -x, -z → add -es
+> bus → buses     class → classes    dish → dishes
+> watch → watches  box → boxes       quiz → quizzes
+> Rule 3: Ends in consonant + y → change y to -ies
+> city → cities   baby → babies    story → stories
+> ※ Vowel + y → just add -s: boy → boys, day → days
+> Rule 4: Ends in -f/-fe → change to -ves (many exceptions)
+> knife → knives   wife → wives    leaf → leaves
+> life → lives     wolf → wolves   half → halves
+> ※ Exceptions: roof → roofs, chief → chiefs, belief → beliefs
+> Rule 5: Ends in -o → add -es (some) or -s (some)
+> tomato → tomatoes  potato → potatoes  hero → heroes
+> ※ Music/foreign: piano → pianos, photo → photos
 
 ### 7.2 Pronunciation of -s/-es Plural
 
@@ -464,30 +422,23 @@ Other always-plural:
 
 ### 9.1 The Four Demonstratives
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Demonstratives                                      │
-│                                                                 │
-│              Singular         Plural                             │
-│   Near       this (이것)      these (이것들)                      │
-│   Far        that (저것)      those (저것들)                      │
-│                                                                 │
-│   "This" / "These" = near the speaker (가까이)                   │
-│   "That" / "Those" = far from the speaker (멀리)                 │
-│                                                                 │
-│   As pronouns:                                                  │
-│   "This is my book."           이것은 내 책이다                   │
-│   "That is your bag."          저것은 네 가방이다                  │
-│   "These are my friends."      이 사람들은 내 친구들이다           │
-│   "Those are expensive."       저것들은 비싸다                    │
-│                                                                 │
-│   As adjectives (before noun):                                  │
-│   "This book is mine."         이 책은 내 것이다                  │
-│   "That car is fast."          저 차는 빠르다                    │
-│   "These shoes are new."       이 신발들은 새것이다               │
-│   "Those people are Korean."   저 사람들은 한국인이다              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Demonstratives**
+>
+> Singular         Plural
+> Near       this (이것)      these (이것들)
+> Far        that (저것)      those (저것들)
+> "This" / "These" = near the speaker (가까이)
+> "That" / "Those" = far from the speaker (멀리)
+> As pronouns:
+> "This is my book."           이것은 내 책이다
+> "That is your bag."          저것은 네 가방이다
+> "These are my friends."      이 사람들은 내 친구들이다
+> "Those are expensive."       저것들은 비싸다
+> As adjectives (before noun):
+> "This book is mine."         이 책은 내 것이다
+> "That car is fast."          저 차는 빠르다
+> "These shoes are new."       이 신발들은 새것이다
+> "Those people are Korean."   저 사람들은 한국인이다
 
 ### 9.2 this/that in Time
 
@@ -731,30 +682,22 @@ Translate, paying special attention to articles.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Articles & Plurals Quick Guide                        │
-│                                                                 │
-│   a/an  = first mention, any one, classification                │
-│           a + consonant SOUND / an + vowel SOUND                │
-│   the   = known to listener, unique, specific, superlative      │
-│   ∅     = general plural, general uncountable, meals, sports    │
-│                                                                 │
-│   Countable: can count (a book, two books)                      │
-│   Uncountable: cannot count (water, information, furniture)     │
-│   ※ Uncountable nouns: NO a/an, NO plural -s                  │
-│                                                                 │
-│   Plurals: -s (books), -es (boxes), -ies (cities)              │
-│   Irregular: man→men, child→children, tooth→teeth, sheep→sheep │
-│                                                                 │
-│   Demonstratives:                                               │
-│   Near: this (singular) / these (plural)                        │
-│   Far:  that (singular) / those (plural)                        │
-│                                                                 │
-│   ※ #1 Korean speaker error: forgetting articles entirely      │
-│     Always ask: "Do I need a/an, the, or nothing?"             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Articles & Plurals Quick Guide**
+>
+> a/an  = first mention, any one, classification
+> a + consonant SOUND / an + vowel SOUND
+> the   = known to listener, unique, specific, superlative
+> ∅     = general plural, general uncountable, meals, sports
+> Countable: can count (a book, two books)
+> Uncountable: cannot count (water, information, furniture)
+> ※ Uncountable nouns: NO a/an, NO plural -s
+> Plurals: -s (books), -es (boxes), -ies (cities)
+> Irregular: man→men, child→children, tooth→teeth, sheep→sheep
+> Demonstratives:
+> Near: this (singular) / these (plural)
+> Far:  that (singular) / those (plural)
+> ※ #1 Korean speaker error: forgetting articles entirely
+> Always ask: "Do I need a/an, the, or nothing?"
 
 ---
 
