@@ -25,26 +25,18 @@
 
 ### 1.1 Key Differences
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean Verbs                    English Verbs                  │
-│   ─────────────                   ─────────────                  │
-│   Come at END of sentence         Come AFTER subject             │
-│   나는 사과를 먹는다                I eat an apple                 │
-│                                                                 │
-│   Change form for politeness      DON'T change for politeness   │
-│   먹는다/먹어요/드십니다             eat/eat/eat                    │
-│                                                                 │
-│   DON'T change for person         Change for 3rd person (he -s) │
-│   나는 먹는다/그는 먹는다            I eat / he eatS               │
-│                                                                 │
-│   Subject can be dropped          Subject is REQUIRED            │
-│   (나는) 먹는다                     I eat (cannot drop "I")        │
-│                                                                 │
-│   No do-support                   Need "do" for questions/neg   │
-│   먹니? / 안 먹는다                 Do you eat? / I don't eat     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Korean Verbs                    English Verbs**
+>
+> Come at END of sentence         Come AFTER subject
+> 나는 사과를 먹는다                I eat an apple
+> Change form for politeness      DON'T change for politeness
+> 먹는다/먹어요/드십니다             eat/eat/eat
+> DON'T change for person         Change for 3rd person (he -s)
+> 나는 먹는다/그는 먹는다            I eat / he eatS
+> Subject can be dropped          Subject is REQUIRED
+> (나는) 먹는다                     I eat (cannot drop "I")
+> No do-support                   Need "do" for questions/neg
+> 먹니? / 안 먹는다                 Do you eat? / I don't eat
 
 ### 1.2 Verb Forms Overview
 
@@ -88,29 +80,21 @@ Uses:    identity, description, location, state
 
 ### 2.2 HAVE — 가지다/있다
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Present: have / has (3rd person)                               │
-│   Past:    had                                                   │
-│                                                                 │
-│   Meaning 1: Possession (소유)                                   │
-│   I have a car.              나는 차가 있다.                      │
-│   She has two children.      그녀는 아이가 둘 있다.               │
-│                                                                 │
-│   Meaning 2: Experience/Action (경험/행동)                        │
-│   I have breakfast at 7.     나는 7시에 아침을 먹는다.            │
-│   She has a shower.          그녀는 샤워를 한다.                  │
-│   We have a meeting.         우리는 회의가 있다.                  │
-│                                                                 │
-│   Meaning 3: Auxiliary verb (조동사 — for perfect tenses)        │
-│   I have eaten lunch.        나는 점심을 먹었다. (현재완료)        │
-│                                                                 │
-│   ※ "have" vs "있다":                                           │
-│     Korean 있다 = both "have" and "exist/be located"            │
-│     "I have a book" (소유) — use HAVE                           │
-│     "The book is on the table" (위치) — use BE, not HAVE!       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Present: have / has (3rd person)
+> Past:    had
+> Meaning 1: Possession (소유)
+> I have a car.              나는 차가 있다.
+> She has two children.      그녀는 아이가 둘 있다.
+> Meaning 2: Experience/Action (경험/행동)
+> I have breakfast at 7.     나는 7시에 아침을 먹는다.
+> She has a shower.          그녀는 샤워를 한다.
+> We have a meeting.         우리는 회의가 있다.
+> Meaning 3: Auxiliary verb (조동사 — for perfect tenses)
+> I have eaten lunch.        나는 점심을 먹었다. (현재완료)
+> ※ "have" vs "있다":
+> Korean 있다 = both "have" and "exist/be located"
+> "I have a book" (소유) — use HAVE
+> "The book is on the table" (위치) — use BE, not HAVE!
 
 ### 2.3 DO — 하다
 
@@ -244,21 +228,16 @@ Common "give" collocations:
 
 ### 3.1 Formation
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Simple Present Tense — Formation                      │
-│                                                                 │
-│   I          eat                                                │
-│   you        eat                                                │
-│   he/she/it  eatS    ← only change! Add -s for 3rd person sg  │
-│   we         eat                                                │
-│   they       eat                                                │
-│                                                                 │
-│   ※ Korean verbs don't change for person:                      │
-│     나는 먹는다 / 그는 먹는다 / 우리는 먹는다 (same 먹는다)         │
-│     I eat / he eatS / we eat (different for "he/she/it")        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Simple Present Tense — Formation**
+>
+> I          eat
+> you        eat
+> he/she/it  eatS    ← only change! Add -s for 3rd person sg
+> we         eat
+> they       eat
+> ※ Korean verbs don't change for person:
+> 나는 먹는다 / 그는 먹는다 / 우리는 먹는다 (same 먹는다)
+> I eat / he eatS / we eat (different for "he/she/it")
 
 ### 3.2 When to Use Simple Present
 
@@ -326,22 +305,15 @@ Same 3 rules as plural nouns:
 
 ### 5.1 The Do-Support System
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean makes questions by changing the verb ending:            │
-│   먹는다 (statement) → 먹니? / 먹습니까? (question)               │
-│                                                                 │
-│   English needs "DO" to make questions with regular verbs:      │
-│   You eat pizza. → Do you eat pizza?                            │
-│                                                                 │
-│   Why? Because English questions need INVERSION (verb before    │
-│   subject), but regular verbs can't move. So English adds       │
-│   "do/does" as a helper to carry the inversion.                 │
-│                                                                 │
-│   ※ BE verb does NOT need do-support!                          │
-│     "Are you Korean?" (NOT "Do you are Korean?")                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean makes questions by changing the verb ending:
+> 먹는다 (statement) → 먹니? / 먹습니까? (question)
+> English needs "DO" to make questions with regular verbs:
+> You eat pizza. → Do you eat pizza?
+> Why? Because English questions need INVERSION (verb before
+> subject), but regular verbs can't move. So English adds
+> "do/does" as a helper to carry the inversion.
+> ※ BE verb does NOT need do-support!
+> "Are you Korean?" (NOT "Do you are Korean?")
 
 ### 5.2 Yes/No Questions
 
@@ -439,18 +411,15 @@ English negation: subject + don't/doesn't + base verb
 
 ### 7.1 Frequency Scale
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   always       (항상)           100%   ████████████████████     │
-│   usually      (보통)            90%   ██████████████████       │
-│   often        (자주)            70%   ████████████████         │
-│   sometimes    (가끔)            50%   ████████████             │
-│   occasionally (때때로)           30%   ████████                 │
-│   rarely       (거의 안)          10%   ████                     │
-│   seldom       (좀처럼 안)        10%   ████                     │
-│   never        (절대 안)           0%   (none)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **always       (항상)           100%   ████████████████████**
+>
+> usually      (보통)            90%   ██████████████████
+> often        (자주)            70%   ████████████████
+> sometimes    (가끔)            50%   ████████████
+> occasionally (때때로)           30%   ████████
+> rarely       (거의 안)          10%   ████
+> seldom       (좀처럼 안)        10%   ████
+> never        (절대 안)           0%   (none)
 
 ### 7.2 Position in Sentence
 
@@ -500,38 +469,26 @@ After BE verb:
 
 ### 9.1 Error Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Error                          Correct                        │
-│   ─────                          ───────                        │
-│   "He eat lunch."                "He eats lunch."               │
-│   (forgetting 3rd person -s)                                    │
-│                                                                 │
-│   "Does she eats lunch?"         "Does she eat lunch?"          │
-│   (double marking with does + -s)                               │
-│                                                                 │
-│   "She doesn't eats."            "She doesn't eat."             │
-│   (same — doesn't already marks 3rd person)                     │
-│                                                                 │
-│   "Do you are Korean?"           "Are you Korean?"              │
-│   (using do-support with BE)                                    │
-│                                                                 │
-│   "I am have a car."             "I have a car."                │
-│   (using BE + HAVE together)                                    │
-│                                                                 │
-│   "She go to school."            "She goes to school."          │
-│   (forgetting -s)                                               │
-│                                                                 │
-│   "He don't like fish."          "He doesn't like fish."        │
-│   (wrong form: don't → doesn't for he/she/it)                  │
-│                                                                 │
-│   "I am like music."             "I like music."                │
-│   (Korean 좋아하다 ≠ "am like")                                  │
-│                                                                 │
-│   "Eat breakfast every day."      "I eat breakfast every day."  │
-│   (dropping subject — OK in Korean, NOT in English)             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Error                          Correct**
+>
+> "He eat lunch."                "He eats lunch."
+> (forgetting 3rd person -s)
+> "Does she eats lunch?"         "Does she eat lunch?"
+> (double marking with does + -s)
+> "She doesn't eats."            "She doesn't eat."
+> (same — doesn't already marks 3rd person)
+> "Do you are Korean?"           "Are you Korean?"
+> (using do-support with BE)
+> "I am have a car."             "I have a car."
+> (using BE + HAVE together)
+> "She go to school."            "She goes to school."
+> (forgetting -s)
+> "He don't like fish."          "He doesn't like fish."
+> (wrong form: don't → doesn't for he/she/it)
+> "I am like music."             "I like music."
+> (Korean 좋아하다 ≠ "am like")
+> "Eat breakfast every day."      "I eat breakfast every day."
+> (dropping subject — OK in Korean, NOT in English)
 
 ---
 
@@ -717,31 +674,23 @@ Choose the correct verb.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Simple Present Quick Guide                            │
-│                                                                 │
-│   Form: I/you/we/they + base verb                               │
-│         he/she/it + base verb + S                               │
-│                                                                 │
-│   -s rules: most → +s, -sh/-ch/-x/-ss/-o → +es,               │
-│             consonant+y → ies, have → has                       │
-│                                                                 │
-│   Questions: Do/Does + subject + base verb?                     │
-│   Negatives: Subject + don't/doesn't + base verb               │
-│   ※ After does/doesn't → base verb (NO -s!)                   │
-│                                                                 │
-│   Uses: habits, facts, schedules, permanent states              │
-│   ※ NOT for actions happening right now (→ present continuous) │
-│                                                                 │
-│   Key collocations:                                             │
-│   make: breakfast, money, decision, friends, mistake            │
-│   do: homework, dishes, laundry, research, exercise             │
-│   take: shower, photo, break, test, medicine, notes             │
-│   have: breakfast, meeting, headache, fun                       │
-│   get: up, ready, married, lost, better, home                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Simple Present Quick Guide**
+>
+> Form: I/you/we/they + base verb
+> he/she/it + base verb + S
+> -s rules: most → +s, -sh/-ch/-x/-ss/-o → +es,
+> consonant+y → ies, have → has
+> Questions: Do/Does + subject + base verb?
+> Negatives: Subject + don't/doesn't + base verb
+> ※ After does/doesn't → base verb (NO -s!)
+> Uses: habits, facts, schedules, permanent states
+> ※ NOT for actions happening right now (→ present continuous)
+> Key collocations:
+> make: breakfast, money, decision, friends, mistake
+> do: homework, dishes, laundry, research, exercise
+> take: shower, photo, break, test, medicine, notes
+> have: breakfast, meeting, headache, fun
+> get: up, ready, married, lost, better, home
 
 ---
 
