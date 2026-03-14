@@ -1,0 +1,50 @@
+framework: hanja_level
+full_name:
+  en: "Korean Hanja Proficiency Test"
+  ko: "한자능력검정시험"
+
+levels:
+  L5:
+    label:
+      en: "Beginner"
+      ko: "입문"
+    description:
+      en: "Can recognize ~500 basic Hanja characters. Understands simple compounds and everyday Sino-Korean vocabulary."
+      ko: "기본 한자 약 500자를 인식할 수 있다. 간단한 한자어와 일상적인 한자 어휘를 이해한다."
+    color: "#28a745"
+
+  L4:
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Can recognize ~1,000 Hanja characters. Reads basic Classical Chinese sentences and common four-character idioms."
+      ko: "한자 약 1,000자를 인식할 수 있다. 기본적인 한문 문장과 상용 사자성어를 읽을 수 있다."
+    color: "#5cb85c"
+
+  L3:
+    label:
+      en: "Intermediate"
+      ko: "중급"
+    description:
+      en: "Can recognize ~1,500 Hanja characters. Reads classical texts with annotation and understands major grammatical patterns."
+      ko: "한자 약 1,500자를 인식할 수 있다. 주석이 있는 고전 원문을 읽고 주요 문법 패턴을 이해한다."
+    color: "#f0ad4e"
+
+  L2:
+    label:
+      en: "Upper Intermediate"
+      ko: "중상급"
+    description:
+      en: "Can recognize ~2,000 Hanja characters. Reads unannotated classical texts and appreciates literary style and rhetoric."
+      ko: "한자 약 2,000자를 인식할 수 있다. 주석 없이 고전 원문을 읽고 문체와 수사법을 이해한다."
+    color: "#ff8c00"
+
+  L1:
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Can recognize 3,000+ Hanja characters. Reads complex philosophical and literary texts. Capable of Classical Chinese composition."
+      ko: "한자 3,000자 이상을 인식할 수 있다. 복잡한 철학·문학 원문을 읽고 한문 작문이 가능하다."
+    color: "#d9534f"
