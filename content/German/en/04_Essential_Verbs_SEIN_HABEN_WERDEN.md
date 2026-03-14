@@ -28,82 +28,71 @@
 
 Every German verb has an infinitive form, which is the "dictionary form." Almost all German infinitives end in **-en**:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  German Infinitive Forms                         │
-│                                                                 │
-│   Standard ending: -en                                          │
-│     kommen     (to come)        gehen      (to go)              │
-│     sprechen   (to speak)       machen     (to do/make)         │
-│     spielen    (to play)        lernen     (to learn)           │
-│     wohnen     (to live)        arbeiten   (to work)            │
-│     lesen      (to read)        schreiben  (to write)           │
-│                                                                 │
-│   Less common ending: -n (instead of -en)                       │
-│     sein       (to be)          tun        (to do)              │
-│     wandern    (to hike)        ändern     (to change)          │
-│     sammeln    (to collect)     klingeln   (to ring)            │
-│                                                                 │
-│   The infinitive has two parts:                                 │
-│     STEM + ENDING                                               │
-│     komm + en  →  kommen                                        │
-│     lern + en  →  lernen                                        │
-│     spiel + en →  spielen                                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **German Infinitive Forms**
+>
+> **Standard ending: -en**
+> kommen (to come) / gehen (to go)
+> sprechen (to speak) / machen (to do/make)
+> spielen (to play) / lernen (to learn)
+> wohnen (to live) / arbeiten (to work)
+> lesen (to read) / schreiben (to write)
+>
+> **Less common ending: -n (instead of -en)**
+> sein (to be) / tun (to do)
+> wandern (to hike) / ändern (to change)
+> sammeln (to collect) / klingeln (to ring)
+>
+> The infinitive has two parts:
+> STEM + ENDING
+> komm + en → kommen
+> lern + en → lernen
+> spiel + en → spielen
 
 ### 1.2 What is Conjugation?
 
 Conjugation means changing the verb form to match the subject. In English, conjugation is minimal: "I speak, you speak, he speak**s**." In German, the verb ending changes for every person:
 
-```
-Infinitive: kommen (to come)
-Stem: komm-
-
-  ich komm-e       (I come)
-  du komm-st       (you come)
-  er/sie/es komm-t (he/she/it comes)
-  wir komm-en      (we come)
-  ihr komm-t       (you all come)
-  sie/Sie komm-en  (they/you formal come)
-
-Regular conjugation endings:
-  ┌──────────┬──────────┐
-  │ Singular │ Plural   │
-  ├──────────┼──────────┤
-  │ -e       │ -en      │
-  │ -st      │ -t       │
-  │ -t       │ -en      │
-  └──────────┴──────────┘
-```
+> **Infinitive: kommen (to come)**
+> Stem: komm-
+>
+> ich komm-e (I come)
+> du komm-st (you come)
+> er/sie/es komm-t (he/she/it comes)
+> wir komm-en (we come)
+> ihr komm-t (you all come)
+> sie/Sie komm-en (they/you formal come)
+>
+> **Regular conjugation endings:**
+>
+> | Singular | Plural |
+> |----------|--------|
+> | -e | -en |
+> | -st | -t |
+> | -t | -en |
 
 ### 1.3 Why SEIN, HABEN, and WERDEN Are Special
 
 These three verbs are the foundation of German:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Why These Three Verbs Matter                                   │
-│                                                                 │
-│   1. Most frequently used verbs in German                       │
-│   2. Highly irregular — do NOT follow regular conjugation       │
-│   3. Auxiliary verbs — help form other tenses:                  │
-│                                                                 │
-│      sein    → Perfekt tense (movement/state verbs)             │
-│               "Ich bin gekommen." (I have come.)                │
-│                                                                 │
-│      haben   → Perfekt tense (most other verbs)                 │
-│               "Ich habe gegessen." (I have eaten.)              │
-│                                                                 │
-│      werden  → Futur I (future tense)                           │
-│               "Ich werde kommen." (I will come.)                │
-│               → Passiv (passive voice)                          │
-│               "Das Haus wird gebaut." (The house is built.)     │
-│                                                                 │
-│   4. Essential from day one — you cannot form basic sentences   │
-│      without them                                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Why These Three Verbs Matter**
+>
+> 1. Most frequently used verbs in German
+> 2. Highly irregular — do NOT follow regular conjugation
+> 3. Auxiliary verbs — help form other tenses:
+>
+> - **sein** → Perfekt tense (movement/state verbs)
+>   "Ich bin gekommen." (I have come.)
+>
+> - **haben** → Perfekt tense (most other verbs)
+>   "Ich habe gegessen." (I have eaten.)
+>
+> - **werden** → Futur I (future tense)
+>   "Ich werde kommen." (I will come.)
+>   → Passiv (passive voice)
+>   "Das Haus wird gebaut." (The house is built.)
+>
+> 4. Essential from day one — you cannot form basic sentences
+>    without them
 
 ---
 
@@ -125,30 +114,26 @@ These three verbs are the foundation of German:
 
 ### 2.2 The du/ihr vs Sie Distinction
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Informal (du/ihr) vs Formal (Sie)                              │
-│                                                                 │
-│   Use DU (singular) / IHR (plural) with:                        │
-│     - Friends and family                                        │
-│     - Children and young people                                 │
-│     - Fellow students                                           │
-│     - People who offer "du" (Duzen)                             │
-│     - Animals                                                   │
-│     - God (in prayers)                                          │
-│                                                                 │
-│   Use SIE with:                                                 │
-│     - Strangers and acquaintances                               │
-│     - In professional/business settings                         │
-│     - With older people (until they offer "du")                 │
-│     - Authority figures                                         │
-│     - Customer service                                          │
-│                                                                 │
-│   Rule of thumb: When in doubt, use Sie. The other person      │
-│   will offer "du" if they prefer it.                            │
-│   "Wollen wir uns duzen?" = Shall we use du with each other?   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Informal (du/ihr) vs Formal (Sie)**
+>
+> **Use DU (singular) / IHR (plural) with:**
+> - Friends and family
+> - Children and young people
+> - Fellow students
+> - People who offer "du" (Duzen)
+> - Animals
+> - God (in prayers)
+>
+> **Use SIE with:**
+> - Strangers and acquaintances
+> - In professional/business settings
+> - With older people (until they offer "du")
+> - Authority figures
+> - Customer service
+>
+> Rule of thumb: When in doubt, use Sie. The other person
+> will offer "du" if they prefer it.
+> "Wollen wir uns duzen?" = Shall we use du with each other?
 
 ### 2.3 Three Words That Look the Same: sie / sie / Sie
 
@@ -201,28 +186,23 @@ Note: das Mädchen (girl) → es (not sie!), because the noun is neuter.
 | ihr | **seid** | you all are | [zaɪt] |
 | sie/Sie | **sind** | they are / you are (formal) | [zɪnt] |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SEIN Conjugation — Memorize This!                              │
-│                                                                 │
-│        Singular              Plural                             │
-│   ┌──────────────────┬──────────────────┐                       │
-│   │ ich    bin       │ wir    sind      │                       │
-│   │ du     bist      │ ihr    seid      │                       │
-│   │ er/sie/es ist    │ sie/Sie sind     │                       │
-│   └──────────────────┴──────────────────┘                       │
-│                                                                 │
-│   Compare with English:                                         │
-│     I am        → ich bin                                       │
-│     you are     → du bist / Sie sind                            │
-│     he/she/it is → er/sie/es ist                                │
-│     we are      → wir sind                                      │
-│     they are    → sie sind                                      │
-│                                                                 │
-│   Every form is different — there is no pattern to derive       │
-│   one from another. Pure memorization required!                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SEIN Conjugation — Memorize This!**
+>
+> | Singular | Plural |
+> |----------|--------|
+> | ich bin | wir sind |
+> | du bist | ihr seid |
+> | er/sie/es ist | sie/Sie sind |
+>
+> Compare with English:
+> I am → ich bin
+> you are → du bist / Sie sind
+> he/she/it is → er/sie/es ist
+> we are → wir sind
+> they are → sie sind
+>
+> Every form is different — there is no pattern to derive
+> one from another. Pure memorization required!
 
 ### 3.2 Using SEIN for Identity
 
@@ -355,24 +335,19 @@ W-questions (question word + verb):
 | ihr | **habt** | you all have | [haːpt] |
 | sie/Sie | **haben** | they have / you have (formal) | [haːbən] |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   HABEN Conjugation                                              │
-│                                                                 │
-│        Singular              Plural                             │
-│   ┌──────────────────┬──────────────────┐                       │
-│   │ ich    habe      │ wir    haben     │                       │
-│   │ du     hast      │ ihr    habt      │                       │
-│   │ er/sie/es hat    │ sie/Sie haben    │                       │
-│   └──────────────────┴──────────────────┘                       │
-│                                                                 │
-│   Note the irregular forms:                                     │
-│     haben → du hast  (not *habst — the b drops)                │
-│     haben → er hat   (not *habt  — the b drops)                │
-│                                                                 │
-│   The stem changes: hab- → ha- in du and er/sie/es forms       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **HABEN Conjugation**
+>
+> | Singular | Plural |
+> |----------|--------|
+> | ich habe | wir haben |
+> | du hast | ihr habt |
+> | er/sie/es hat | sie/Sie haben |
+>
+> Note the irregular forms:
+> haben → du hast (not *habst — the b drops)
+> haben → er hat (not *habt — the b drops)
+>
+> The stem changes: hab- → ha- in du and er/sie/es forms
 
 ### 4.2 Using HABEN for Possession
 
@@ -434,27 +409,23 @@ Many expressions that use "to be" in English use "haben" in German:
 | Ich habe Heimweh. | I have home-pain. | I am homesick. |
 | Ich habe Langeweile. | I have boredom. | I am bored. |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Key Difference from English                                    │
-│                                                                 │
-│   English: I AM hungry/thirsty/afraid/right/lucky               │
-│   German:  Ich HABE Hunger/Durst/Angst/Recht/Glück             │
-│                                                                 │
-│   Think: "I HAVE hunger" not "I AM hungry"                      │
-│                                                                 │
-│   Both "Ich habe Hunger" and "Ich bin hungrig" are correct,    │
-│   but the HABEN version is much more natural and common         │
-│   in everyday German speech.                                    │
-│                                                                 │
-│   More examples:                                                │
-│     Hast du Hunger?              Are you hungry?                │
-│     Wir haben großen Durst.      We are very thirsty.           │
-│     Sie hat Angst vor Spinnen.   She is afraid of spiders.      │
-│     Du hast Recht!               You are right!                 │
-│     Ich habe heute Geburtstag.   It is my birthday today.       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Key Difference from English**
+>
+> English: I AM hungry/thirsty/afraid/right/lucky
+> German: Ich HABE Hunger/Durst/Angst/Recht/Gluck
+>
+> Think: "I HAVE hunger" not "I AM hungry"
+>
+> Both "Ich habe Hunger" and "Ich bin hungrig" are correct,
+> but the HABEN version is much more natural and common
+> in everyday German speech.
+>
+> More examples:
+> Hast du Hunger? — Are you hungry?
+> Wir haben großen Durst. — We are very thirsty.
+> Sie hat Angst vor Spinnen. — She is afraid of spiders.
+> Du hast Recht! — You are right!
+> Ich habe heute Geburtstag. — It is my birthday today.
 
 ### 4.5 Questions with HABEN
 
@@ -490,27 +461,22 @@ W-questions:
 | ihr | **werdet** | you all become / will | [veːɐdət] |
 | sie/Sie | **werden** | they/you (formal) become / will | [veːɐdən] |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   WERDEN Conjugation                                             │
-│                                                                 │
-│        Singular              Plural                             │
-│   ┌──────────────────┬──────────────────┐                       │
-│   │ ich    werde     │ wir    werden    │                       │
-│   │ du     wirst     │ ihr    werdet    │                       │
-│   │ er/sie/es wird   │ sie/Sie werden   │                       │
-│   └──────────────────┴──────────────────┘                       │
-│                                                                 │
-│   Note the stem changes:                                        │
-│     werden → du wirst  (e → i, d drops)                        │
-│     werden → er wird   (e → i, e drops)                        │
-│                                                                 │
-│   Three main uses:                                              │
-│     1. "to become" (main verb)                                  │
-│     2. Future tense auxiliary (werden + infinitive)              │
-│     3. Passive voice auxiliary (werden + past participle)        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **WERDEN Conjugation**
+>
+> | Singular | Plural |
+> |----------|--------|
+> | ich werde | wir werden |
+> | du wirst | ihr werdet |
+> | er/sie/es wird | sie/Sie werden |
+>
+> Note the stem changes:
+> werden → du wirst (e → i, d drops)
+> werden → er wird (e → i, e drops)
+>
+> Three main uses:
+> 1. "to become" (main verb)
+> 2. Future tense auxiliary (werden + infinitive)
+> 3. Passive voice auxiliary (werden + past participle)
 
 ### 5.2 WERDEN as "to become" — Change of State
 
@@ -587,20 +553,16 @@ Structure: werden (conjugated) + past participle
 
 ### 5.6 WERDEN vs English "become" / "get"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   "Werden" covers multiple English words:                        │
-│                                                                 │
-│   "become":  Sie wird Lehrerin.    She is becoming a teacher.   │
-│   "get":     Es wird kalt.        It is getting cold.           │
-│   "grow":    Er wird alt.         He is growing old.            │
-│   "turn":    Sie wird rot.        She is turning red.           │
-│   "will":    Ich werde kommen.    I will come.                  │
-│   "be" (passive): Es wird gebaut. It is being built.            │
-│                                                                 │
-│   German "werden" is one of the most versatile verbs!           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **"Werden" covers multiple English words:**
+>
+> "become": Sie wird Lehrerin. — She is becoming a teacher.
+> "get": Es wird kalt. — It is getting cold.
+> "grow": Er wird alt. — He is growing old.
+> "turn": Sie wird rot. — She is turning red.
+> "will": Ich werde kommen. — I will come.
+> "be" (passive): Es wird gebaut. — It is being built.
+>
+> German "werden" is one of the most versatile verbs!
 
 ---
 
@@ -619,33 +581,29 @@ Structure: werden (conjugated) + past participle
 
 ### 6.2 When to Use Which Verb
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SEIN (to be) — Use for:                                        │
-│   - Identity:    Ich bin Anna.                                   │
-│   - Profession:  Er ist Lehrer. (no article!)                   │
-│   - Nationality: Sie ist Deutsche.                               │
-│   - Description: Das Haus ist groß.                              │
-│   - Location:    Wir sind in Berlin.                             │
-│   - Origin:      Sie ist aus Japan.                              │
-│   - Time:        Es ist 3 Uhr.                                  │
-│   - Age:         Ich bin 25 Jahre alt.                           │
-│                                                                 │
-│   HABEN (to have) — Use for:                                     │
-│   - Possession:  Ich habe ein Auto.                              │
-│   - Physical states: Ich habe Hunger/Durst/Angst.                │
-│   - Being right: Du hast Recht.                                  │
-│   - Luck:        Ich habe Glück.                                 │
-│   - Quantity:    Er hat drei Kinder.                              │
-│                                                                 │
-│   WERDEN (to become) — Use for:                                  │
-│   - Change of state: Es wird kalt.                               │
-│   - Future career:   Sie wird Ärztin.                            │
-│   - Getting/growing: Er wird alt.                                │
-│   - Future tense:    Ich werde kommen.                           │
-│   - Passive voice:   Das Haus wird gebaut.                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SEIN (to be) — Use for:**
+> - Identity: Ich bin Anna.
+> - Profession: Er ist Lehrer. (no article!)
+> - Nationality: Sie ist Deutsche.
+> - Description: Das Haus ist groß.
+> - Location: Wir sind in Berlin.
+> - Origin: Sie ist aus Japan.
+> - Time: Es ist 3 Uhr.
+> - Age: Ich bin 25 Jahre alt.
+>
+> **HABEN (to have) — Use for:**
+> - Possession: Ich habe ein Auto.
+> - Physical states: Ich habe Hunger/Durst/Angst.
+> - Being right: Du hast Recht.
+> - Luck: Ich habe Glück.
+> - Quantity: Er hat drei Kinder.
+>
+> **WERDEN (to become) — Use for:**
+> - Change of state: Es wird kalt.
+> - Future career: Sie wird Ärztin.
+> - Getting/growing: Er wird alt.
+> - Future tense: Ich werde kommen.
+> - Passive voice: Das Haus wird gebaut.
 
 ### 6.3 Sein vs Haben — Tricky Cases
 
@@ -735,25 +693,20 @@ With no article (plural/uncountable → kein):
 
 ### 7.3 nicht vs kein — Decision Guide
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Use KEIN when:                                                 │
-│   - Negating a noun with ein/eine:  ein Buch → kein Buch       │
-│   - Negating a noun with no article: Geld → kein Geld          │
-│                                                                 │
-│   Use NICHT when:                                                │
-│   - Negating a verb:          Ich komme nicht.                   │
-│   - Negating an adjective:    Er ist nicht groß.                 │
-│   - Negating a noun with definite article:                       │
-│     Das ist nicht der Lehrer. (NOT *kein der Lehrer*)            │
-│   - Negating a possessive:    Das ist nicht mein Buch.           │
-│   - Negating a specific element: nicht hier, nicht morgen        │
-│                                                                 │
-│   Simple test:                                                   │
-│   Can you replace the word with "kein/keine"?                    │
-│   Yes → use kein.  No → use nicht.                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Use KEIN when:**
+> - Negating a noun with ein/eine: ein Buch → kein Buch
+> - Negating a noun with no article: Geld → kein Geld
+>
+> **Use NICHT when:**
+> - Negating a verb: Ich komme nicht.
+> - Negating an adjective: Er ist nicht groß.
+> - Negating a noun with definite article: Das ist nicht der Lehrer. (NOT *kein der Lehrer*)
+> - Negating a possessive: Das ist nicht mein Buch.
+> - Negating a specific element: nicht hier, nicht morgen
+>
+> **Simple test:**
+> Can you replace the word with "kein/keine"?
+> Yes → use kein. No → use nicht.
 
 ### 7.4 kein Declension (Nominative)
 
@@ -931,33 +884,27 @@ Use the correct verb (sein, haben, or werden) and the correct form.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Essential Verbs Quick Guide                          │
-│                                                                 │
-│   SEIN (to be):       HABEN (to have):   WERDEN (to become):   │
-│   ich bin             ich habe           ich werde              │
-│   du bist             du hast            du wirst               │
-│   er/sie/es ist       er/sie/es hat      er/sie/es wird         │
-│   wir sind            wir haben          wir werden             │
-│   ihr seid            ihr habt           ihr werdet             │
-│   sie/Sie sind        sie/Sie haben      sie/Sie werden         │
-│                                                                 │
-│   SEIN → identity, profession, nationality, description,        │
-│          location, time, age                                    │
-│   HABEN → possession, physical states (Hunger, Durst, Angst),  │
-│           being right/wrong, luck                               │
-│   WERDEN → change of state, becoming, future (+ infinitive),    │
-│            passive voice (+ past participle)                    │
-│                                                                 │
-│   Negation:                                                     │
-│     nicht → verbs, adjectives, definite nouns, possessives      │
-│     kein  → indefinite nouns, nouns without articles             │
-│                                                                 │
-│   Remember: Ich HABE Hunger (not Ich BIN Hunger)                │
-│   Remember: Er WIRD alt (getting old) vs Er IST alt (is old)    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Essential Verbs Quick Guide**
+>
+> | | SEIN (to be) | HABEN (to have) | WERDEN (to become) |
+> |---|---|---|---|
+> | ich | bin | habe | werde |
+> | du | bist | hast | wirst |
+> | er/sie/es | ist | hat | wird |
+> | wir | sind | haben | werden |
+> | ihr | seid | habt | werdet |
+> | sie/Sie | sind | haben | werden |
+>
+> - **SEIN** → identity, profession, nationality, description, location, time, age
+> - **HABEN** → possession, physical states (Hunger, Durst, Angst), being right/wrong, luck
+> - **WERDEN** → change of state, becoming, future (+ infinitive), passive voice (+ past participle)
+>
+> **Negation:**
+> - **nicht** → verbs, adjectives, definite nouns, possessives
+> - **kein** → indefinite nouns, nouns without articles
+>
+> Remember: Ich HABE Hunger (not Ich BIN Hunger)
+> Remember: Er WIRD alt (getting old) vs Er IST alt (is old)
 
 ---
 
