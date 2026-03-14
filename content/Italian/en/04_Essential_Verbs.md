@@ -24,26 +24,21 @@
 
 ## 1. Why These Four Verbs?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   These four verbs appear in almost every Italian sentence.     │
-│   Master them and you can express most basic ideas.             │
-│                                                                 │
-│   ESSERE  → identity, origin, traits, time     ("to be")       │
-│   AVERE   → possession, age, many idioms       ("to have")     │
-│   FARE    → actions, weather, expressions       ("to do/make")  │
-│   ANDARE  → movement, intentions               ("to go")       │
-│                                                                 │
-│   + STARE  → health, progressive, position     ("to be/stay")  │
-│   + C'È/CI SONO  → existence                  ("there is/are") │
-│                                                                 │
-│   Challenge for English speakers:                               │
-│   English "to be" → ESSERE or STARE (you must choose!)         │
-│   English "to be" → sometimes AVERE (avere fame = "to be       │
-│                     hungry", not "to have hunger")              │
-│   English "to do/make" → one verb in Italian: FARE             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Why These Four Verbs?**
+>
+> These four verbs appear in almost every Italian sentence. Master them and you can express most basic ideas.
+>
+> - **ESSERE** → identity, origin, traits, time ("to be")
+> - **AVERE** → possession, age, many idioms ("to have")
+> - **FARE** → actions, weather, expressions ("to do/make")
+> - **ANDARE** → movement, intentions ("to go")
+> - **STARE** → health, progressive, position ("to be/stay")
+> - **C'È/CI SONO** → existence ("there is/are")
+>
+> Challenge for English speakers:
+> - English "to be" → ESSERE or STARE (you must choose!)
+> - English "to be" → sometimes AVERE (avere fame = "to be hungry", not "to have hunger")
+> - English "to do/make" → one verb in Italian: FARE
 
 ---
 
@@ -64,47 +59,17 @@
 
 ### 2.2 Uses of ESSERE
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. Identity and Description                                    │
-│      Sono Maria. (I'm Maria.)                                   │
-│      Lei è alta e simpatica. (She is tall and friendly.)        │
-│                                                                 │
-│   2. Occupation (no article!)                                   │
-│      Sono ingegnere. (I'm an engineer.)                         │
-│      È professoressa. (She's a professor.)                      │
-│                                                                 │
-│   3. Nationality and Origin                                     │
-│      Sono coreano. (I'm Korean.)                                │
-│      Siamo di Seoul. (We're from Seoul.)                        │
-│      Il caffè è di Colombia. (The coffee is from Colombia.)    │
-│                                                                 │
-│   4. Time and Dates                                             │
-│      Sono le due. (It's two o'clock.)                           │
-│      È lunedì. (It's Monday.)                                  │
-│      È il 15 marzo. (It's March 15.)                           │
-│                                                                 │
-│   5. Characteristics (inherent qualities)                       │
-│      Il ghiaccio è freddo. (Ice is cold.)                      │
-│      La neve è bianca. (Snow is white.)                        │
-│                                                                 │
-│   6. Material / Composition                                     │
-│      L'anello è d'oro. (The ring is gold.)                     │
-│      Il tavolo è di legno. (The table is wooden.)              │
-│                                                                 │
-│   7. Location of events                                         │
-│      La festa è a casa mia. (The party is at my house.)        │
-│      Il concerto è al teatro. (The concert is at the theater.) │
-│                                                                 │
-│   8. Possession                                                 │
-│      È il mio libro. (It's my book.)                           │
-│      Di chi è questa borsa? (Whose bag is this?)               │
-│                                                                 │
-│   9. Auxiliary verb (for passato prossimo with certain verbs)   │
-│      Sono andato a Roma. (I went to Rome.)                     │
-│      È arrivata ieri. (She arrived yesterday.)                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Uses of ESSERE**
+>
+> 1. **Identity and Description**: Sono Maria. / Lei è alta e simpatica.
+> 2. **Occupation** (no article!): Sono ingegnere. / È professoressa.
+> 3. **Nationality and Origin**: Sono coreano. / Siamo di Seoul. / Il caffè è di Colombia.
+> 4. **Time and Dates**: Sono le due. / È lunedì. / È il 15 marzo.
+> 5. **Characteristics** (inherent qualities): Il ghiaccio è freddo. / La neve è bianca.
+> 6. **Material / Composition**: L'anello è d'oro. / Il tavolo è di legno.
+> 7. **Location of events**: La festa è a casa mia. / Il concerto è al teatro.
+> 8. **Possession**: È il mio libro. / Di chi è questa borsa?
+> 9. **Auxiliary verb** (passato prossimo with certain verbs): Sono andato a Roma. / È arrivata ieri.
 
 ---
 
@@ -123,33 +88,13 @@
 
 ### 3.2 Uses of STARE
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. Health / How someone is feeling                            │
-│      Come stai? — Sto bene, grazie. (How are you? — I'm fine.) │
-│      Non sto molto bene. (I'm not doing very well.)            │
-│                                                                 │
-│   2. Progressive form (stare + gerund)                          │
-│      Sto mangiando. (I'm eating.)                              │
-│      Stanno studiando. (They're studying.)                     │
-│      Cosa stai facendo? (What are you doing?)                  │
-│                                                                 │
-│   3. Staying / Remaining                                        │
-│      Stasera sto a casa. (Tonight I'm staying home.)           │
-│      Sta' fermo! (Stay still!)                                 │
-│                                                                 │
-│   4. Being about to (stare per + infinitive)                   │
-│      Sto per uscire. (I'm about to go out.)                    │
-│      Sta per piovere. (It's about to rain.)                    │
-│                                                                 │
-│   5. Fixed expressions                                          │
-│      Stare attento (to be careful/pay attention)               │
-│      Stare zitto (to be quiet)                                 │
-│      Stare tranquillo (to be calm)                             │
-│      Stare in piedi (to be standing)                           │
-│      Stare seduto (to be sitting)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Uses of STARE**
+>
+> 1. **Health / How someone is feeling**: Come stai? — Sto bene, grazie. / Non sto molto bene.
+> 2. **Progressive form** (stare + gerund): Sto mangiando. / Stanno studiando. / Cosa stai facendo?
+> 3. **Staying / Remaining**: Stasera sto a casa. / Sta' fermo!
+> 4. **Being about to** (stare per + infinitive): Sto per uscire. / Sta per piovere.
+> 5. **Fixed expressions**: Stare attento, Stare zitto, Stare tranquillo, Stare in piedi, Stare seduto
 
 ---
 
@@ -225,36 +170,32 @@ Age:           Ho venticinque anni. (I'm 25 years old.)
 
 ### 5.3 AVERE Idioms (Where English uses "to be")
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Physical sensations:                                          │
-│   avere fame         → to be hungry     (lit: have hunger)      │
-│   avere sete         → to be thirsty    (lit: have thirst)      │
-│   avere freddo       → to be cold       (lit: have cold)        │
-│   avere caldo        → to be hot        (lit: have heat)        │
-│   avere sonno        → to be sleepy     (lit: have sleep)       │
-│                                                                 │
-│   Emotional states:                                             │
-│   avere paura (di)   → to be afraid (of) (lit: have fear)      │
-│   avere vergogna     → to be ashamed    (lit: have shame)       │
-│   avere pazienza     → to be patient    (lit: have patience)    │
-│   avere fretta       → to be in a hurry (lit: have hurry)       │
-│                                                                 │
-│   Other common idioms:                                          │
-│   avere ragione      → to be right      (lit: have reason)      │
-│   avere torto        → to be wrong      (lit: have wrong)       │
-│   avere fortuna      → to be lucky      (lit: have luck)        │
-│   avere bisogno di   → to need          (lit: have need of)     │
-│   avere voglia di    → to feel like     (lit: have desire of)   │
-│   avere luogo        → to take place    (lit: have place)       │
-│   avere senso        → to make sense    (lit: have sense)       │
-│   avere a che fare con → to have to do with                     │
-│                                                                 │
-│   ※ Unlike Spanish, Italian does NOT say "avere anni"          │
-│     alone — you must include the number:                        │
-│     Ho trent'anni. (I'm 30 years old.)                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **AVERE Idioms (Where English uses "to be")**
+>
+> Physical sensations:
+> - **avere fame** → to be hungry (lit: have hunger)
+> - **avere sete** → to be thirsty (lit: have thirst)
+> - **avere freddo** → to be cold (lit: have cold)
+> - **avere caldo** → to be hot (lit: have heat)
+> - **avere sonno** → to be sleepy (lit: have sleep)
+>
+> Emotional states:
+> - **avere paura (di)** → to be afraid (of) (lit: have fear)
+> - **avere vergogna** → to be ashamed (lit: have shame)
+> - **avere pazienza** → to be patient (lit: have patience)
+> - **avere fretta** → to be in a hurry (lit: have hurry)
+>
+> Other common idioms:
+> - **avere ragione** → to be right (lit: have reason)
+> - **avere torto** → to be wrong (lit: have wrong)
+> - **avere fortuna** → to be lucky (lit: have luck)
+> - **avere bisogno di** → to need (lit: have need of)
+> - **avere voglia di** → to feel like (lit: have desire of)
+> - **avere luogo** → to take place (lit: have place)
+> - **avere senso** → to make sense (lit: have sense)
+> - **avere a che fare con** → to have to do with
+>
+> - Unlike Spanish, Italian does NOT say "avere anni" alone — you must include the number: Ho trent'anni. (I'm 30 years old.)
 
 ### 5.4 AVERE as Auxiliary (Compound Tenses Preview)
 
@@ -289,43 +230,40 @@ Present perfect (passato prossimo):
 
 ### 6.2 FARE Expressions
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Daily activities:                                             │
-│   fare colazione        → to have breakfast                     │
-│   fare pranzo/cena      → to have lunch/dinner                  │
-│   fare la spesa         → to do grocery shopping                │
-│   fare le compere/gli acquisti → to go shopping                 │
-│   fare una passeggiata  → to take a walk                        │
-│   fare il bagno/la doccia → to take a bath/shower              │
-│   fare i compiti        → to do homework                        │
-│   fare le valigie       → to pack (suitcases)                  │
-│   fare la fila/la coda  → to stand in line                     │
-│                                                                 │
-│   Weather (impersonal — always "fa"):                           │
-│   fa caldo              → it's hot                              │
-│   fa freddo             → it's cold                             │
-│   fa bel tempo          → the weather is nice                   │
-│   fa brutto tempo       → the weather is bad                    │
-│                                                                 │
-│   Other expressions:                                            │
-│   fare una domanda      → to ask a question                     │
-│   fare attenzione       → to pay attention                      │
-│   fare un viaggio       → to take a trip                        │
-│   fare un regalo        → to give a gift                        │
-│   fare una foto         → to take a photo                       │
-│   fare tardi            → to be late                            │
-│   fare in fretta        → to hurry                              │
-│   fare parte di         → to be part of                         │
-│   fare finta di         → to pretend                            │
-│   fare un favore        → to do a favor                         │
-│   farcela               → to manage / to make it                │
-│   farsi male            → to hurt oneself                       │
-│                                                                 │
-│   ※ FARE is one of the most versatile verbs in Italian.        │
-│     English splits "to do" and "to make" — Italian uses one.   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **FARE Expressions**
+>
+> Daily activities:
+> - **fare colazione** → to have breakfast
+> - **fare pranzo/cena** → to have lunch/dinner
+> - **fare la spesa** → to do grocery shopping
+> - **fare le compere/gli acquisti** → to go shopping
+> - **fare una passeggiata** → to take a walk
+> - **fare il bagno/la doccia** → to take a bath/shower
+> - **fare i compiti** → to do homework
+> - **fare le valigie** → to pack (suitcases)
+> - **fare la fila/la coda** → to stand in line
+>
+> Weather (impersonal — always "fa"):
+> - **fa caldo** → it's hot
+> - **fa freddo** → it's cold
+> - **fa bel tempo** → the weather is nice
+> - **fa brutto tempo** → the weather is bad
+>
+> Other expressions:
+> - **fare una domanda** → to ask a question
+> - **fare attenzione** → to pay attention
+> - **fare un viaggio** → to take a trip
+> - **fare un regalo** → to give a gift
+> - **fare una foto** → to take a photo
+> - **fare tardi** → to be late
+> - **fare in fretta** → to hurry
+> - **fare parte di** → to be part of
+> - **fare finta di** → to pretend
+> - **fare un favore** → to do a favor
+> - **farcela** → to manage / to make it
+> - **farsi male** → to hurt oneself
+>
+> - FARE is one of the most versatile verbs in Italian. English splits "to do" and "to make" — Italian uses one.
 
 ---
 
@@ -388,32 +326,26 @@ VENIRE = to come (toward the speaker)
 
 ## 8. C'È and CI SONO — "There Is/Are"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   c'è = there is (singular — ci + è)                           │
-│   ci sono = there are (plural)                                  │
-│                                                                 │
-│   C'è un libro sul tavolo.        → There is a book on the table.│
-│   Ci sono molti studenti.         → There are many students.   │
-│   C'è un bar qui vicino?          → Is there a bar nearby?     │
-│   Non c'è problema.               → There's no problem.        │
-│   Ci sono tre camere.             → There are three rooms.     │
-│                                                                 │
-│   Past:   c'era (there was), c'erano (there were)              │
-│   Future: ci sarà (there will be), ci saranno (there will be)  │
-│                                                                 │
-│   C'È vs ESSERE for location:                                  │
-│   C'è un banco in via Roma.      → There's a bank on via Roma. │
-│   (introduces existence — indefinite)                           │
-│   La banca è in via Roma.        → The bank is on via Roma.    │
-│   (specifies location of known thing — definite)               │
-│                                                                 │
-│   ※ C'è/Ci sono NEVER changes to agree with the noun.         │
-│   ※ Use indefinite articles/adjectives after c'è/ci sono:     │
-│     C'è un gatto.   Ci sono tre gatti.                         │
-│     (NOT: C'è il gatto — use "il gatto è..." instead)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **C'È and CI SONO — "There Is/Are"**
+>
+> - **c'è** = there is (singular — ci + è)
+> - **ci sono** = there are (plural)
+>
+> - C'è un libro sul tavolo. → There is a book on the table.
+> - Ci sono molti studenti. → There are many students.
+> - C'è un bar qui vicino? → Is there a bar nearby?
+> - Non c'è problema. → There's no problem.
+> - Ci sono tre camere. → There are three rooms.
+>
+> - **Past**: c'era (there was), c'erano (there were)
+> - **Future**: ci sarà (there will be), ci saranno (there will be)
+>
+> C'È vs ESSERE for location:
+> - C'è un banco in via Roma. → introduces existence (indefinite)
+> - La banca è in via Roma. → specifies location of known thing (definite)
+>
+> - C'è/Ci sono NEVER changes to agree with the noun.
+> - Use indefinite articles/adjectives after c'è/ci sono: C'è un gatto. Ci sono tre gatti. (NOT: C'è il gatto — use "il gatto è..." instead)
 
 ---
 
@@ -593,30 +525,16 @@ Translate to Italian.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   ESSERE                          STARE                         │
-│   sono   siamo                    sto     stiamo                │
-│   sei    siete                    stai    state                 │
-│   è      sono                     sta     stanno                │
-│                                                                 │
-│   AVERE                           FARE                          │
-│   ho     abbiamo                  faccio  facciamo              │
-│   hai    avete                    fai     fate                  │
-│   ha     hanno                    fa      fanno                 │
-│                                                                 │
-│   ANDARE                          C'È / CI SONO                │
-│   vado   andiamo                  c'è (there is)               │
-│   vai    andate                   ci sono (there are)           │
-│   va     vanno                                                  │
-│                                                                 │
-│   ESSERE: identity, location, time, qualities, events           │
-│   STARE:  health, progressive, about to, staying, fixed expr.  │
-│   AVERE IDIOMS: fame, sete, freddo, caldo, sonno,             │
-│     paura, ragione, torto, fretta, bisogno, voglia, ... anni   │
-│   FARE: colazione, la spesa, un viaggio, caldo/freddo, ecc.   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference**
+>
+> ESSERE: sono/sei/è/siamo/siete/sono — STARE: sto/stai/sta/stiamo/state/stanno
+> AVERE: ho/hai/ha/abbiamo/avete/hanno — FARE: faccio/fai/fa/facciamo/fate/fanno
+> ANDARE: vado/vai/va/andiamo/andate/vanno — C'È (there is) / CI SONO (there are)
+>
+> - **ESSERE**: identity, location, time, qualities, events
+> - **STARE**: health, progressive, about to, staying, fixed expr.
+> - **AVERE IDIOMS**: fame, sete, freddo, caldo, sonno, paura, ragione, torto, fretta, bisogno, voglia, ... anni
+> - **FARE**: colazione, la spesa, un viaggio, caldo/freddo, ecc.
 
 ---
 
