@@ -1,0 +1,354 @@
+lesson: sup_L5_Family_and_Kinship
+lesson_number: 105
+hanja_level: L5
+type: supplementary
+topic: Family and Kinship
+categories:
+- id: immediate_family
+  label:
+    en: Immediate Family
+    ko: 직계 가족
+  type: vocabulary
+  words:
+  - classical_chinese: 父
+    reading: 부
+    meaning_kun: 아비
+    translation:
+      en: father
+      ko: 아버지
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a hand holding a stone axe. Authority figure."
+      ko: "돌도끼를 든 손의 상형자. 권위를 가진 사람."
+  - classical_chinese: 母
+    reading: 모
+    meaning_kun: 어미
+    translation:
+      en: mother
+      ko: 어머니
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a woman (女) with two dots for breasts."
+      ko: "여자(女)에 점 두 개(젖)를 더한 상형자."
+  - classical_chinese: 兄
+    reading: 형
+    meaning_kun: 맏
+    translation:
+      en: elder brother
+      ko: 형; 오빠
+    gender: null
+    plural: null
+    notes:
+      en: "Mouth (口) + person (儿). One who speaks with authority."
+      ko: "입(口) + 사람(儿). 말로 가르치는 사람."
+  - classical_chinese: 弟
+    reading: 제
+    meaning_kun: 아우
+    translation:
+      en: younger brother
+      ko: 아우; 동생
+    gender: null
+    plural: null
+    notes:
+      en: "弓 (bow) + strokes indicating sequence. Younger in order."
+      ko: "弓(활) + 순서를 나타내는 획. 차례에서 아래."
+  - classical_chinese: 姉
+    reading: 자
+    meaning_kun: 언니
+    translation:
+      en: elder sister
+      ko: 언니; 누나
+    gender: null
+    plural: null
+    notes:
+      en: "Woman radical (女) + 市. Also written as 姊."
+      ko: "여자(女) 부수 + 市. 姊로도 씀."
+  - classical_chinese: 妹
+    reading: 매
+    meaning_kun: 누이
+    translation:
+      en: younger sister
+      ko: 여동생
+    gender: null
+    plural: null
+    notes:
+      en: "Woman radical (女) + 未 (not yet). The younger female sibling."
+      ko: "여자(女) 부수 + 未(아직). 아래의 여자 형제."
+  - classical_chinese: 夫
+    reading: 부
+    meaning_kun: 지아비
+    translation:
+      en: husband; man
+      ko: 남편; 사나이
+    gender: null
+    plural: null
+    notes:
+      en: "大 (big) + a hairpin (一). Adult man with hairpin."
+      ko: "大(클 대) + 비녀(一). 비녀를 꽂은 성인 남자."
+  - classical_chinese: 妻
+    reading: 처
+    meaning_kun: 아내
+    translation:
+      en: wife
+      ko: 아내
+    gender: null
+    plural: null
+    notes:
+      en: "Hand seizing a woman (女). Historical marriage customs."
+      ko: "손으로 여자(女)를 잡는 모양. 고대 혼인 풍습."
+  - classical_chinese: 子
+    reading: 자
+    meaning_kun: 아들
+    translation:
+      en: son; child; master
+      ko: "아들; 아이; 선생"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a baby with outstretched arms. Also honorific suffix."
+      ko: "팔을 벌린 아기의 상형자. 존칭 접미사로도 사용."
+  - classical_chinese: 女
+    reading: 녀
+    meaning_kun: 계집
+    translation:
+      en: woman; daughter
+      ko: "여자; 딸"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a kneeling woman. Radical #38."
+      ko: "무릎을 꿇은 여자의 상형자. 부수 제38번."
+- id: extended_family
+  label:
+    en: Extended Family
+    ko: 확대 가족
+  type: vocabulary
+  words:
+  - classical_chinese: 祖
+    reading: 조
+    meaning_kun: 할아비
+    translation:
+      en: grandfather; ancestor
+      ko: "할아버지; 조상"
+    gender: null
+    plural: null
+    notes:
+      en: "Altar radical (示) + 且. Ancestral altar. 祖先 = ancestors."
+      ko: "제단(示) 부수 + 且. 조상의 제단. 祖先 = 조상."
+  - classical_chinese: 孫
+    reading: 손
+    meaning_kun: 손자
+    translation:
+      en: grandchild; descendant
+      ko: "손자; 후손"
+    gender: null
+    plural: null
+    notes:
+      en: "Child (子) + 系 (lineage). Continuation of the line."
+      ko: "아들(子) + 系(이을 계). 혈통의 계승."
+  - classical_chinese: 伯
+    reading: 백
+    meaning_kun: 맏
+    translation:
+      en: eldest uncle; count (title)
+      ko: "맏이; 백작"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 白. Father's eldest brother. Also noble title."
+      ko: "사람(亻) + 白. 아버지의 맏형. 귀족 작위이기도 함."
+  - classical_chinese: 叔
+    reading: 숙
+    meaning_kun: 아재비
+    translation:
+      en: uncle (father's younger brother)
+      ko: 삼촌; 아저씨
+    gender: null
+    plural: null
+    notes:
+      en: "尗 + 又. Father's younger brother. Also means 'harvest.'"
+      ko: "尗 + 又. 아버지의 아우. '거두다'의 뜻도 있음."
+  - classical_chinese: 姑
+    reading: 고
+    meaning_kun: 시어미
+    translation:
+      en: paternal aunt; mother-in-law
+      ko: "고모; 시어머니"
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 古. Father's sister or husband's mother."
+      ko: "여자(女) + 古. 아버지의 누이 또는 남편의 어머니."
+  - classical_chinese: 舅
+    reading: 구
+    meaning_kun: 시아비
+    translation:
+      en: maternal uncle; father-in-law
+      ko: "외삼촌; 시아버지"
+    gender: null
+    plural: null
+    notes:
+      en: "臼 + 男. Mother's brother or husband's father."
+      ko: "臼 + 男. 어머니의 오빠 또는 남편의 아버지."
+  - classical_chinese: 甥
+    reading: 생
+    meaning_kun: 생질
+    translation:
+      en: nephew (sister's son)
+      ko: "생질; 외조카"
+    gender: null
+    plural: null
+    notes:
+      en: "生 (birth) + 男 variant. Sister's or daughter's son."
+      ko: "生(날 생) + 男 변형. 누이 또는 딸의 아들."
+  - classical_chinese: 嫂
+    reading: 수
+    meaning_kun: 형수
+    translation:
+      en: elder brother's wife; sister-in-law
+      ko: 형수
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 叟 (old man). Wife of elder brother."
+      ko: "여자(女) + 叟(늙은이). 형의 아내."
+  - classical_chinese: 嫡
+    reading: 적
+    meaning_kun: 맏
+    translation:
+      en: legitimate; primary wife's child
+      ko: "적통; 정실의 자녀"
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 啇. Legitimate heir. Opposite of 庶 (concubine's child)."
+      ko: "여자(女) + 啇. 정통 후계자. 庶(서자)의 반대."
+  - classical_chinese: 庶
+    reading: 서
+    meaning_kun: 여러
+    translation:
+      en: concubine's child; common; many
+      ko: "서자; 여러; 서민"
+    gender: null
+    plural: null
+    notes:
+      en: "广 + 灬 (fire). Secondary wife's offspring. Also 'common people.'"
+      ko: "广 + 灬(불). 첩의 자녀. '서민'의 뜻도 있음."
+- id: kinship_terms
+  label:
+    en: Kinship and Social Terms
+    ko: 친족 및 사회 용어
+  type: vocabulary
+  words:
+  - classical_chinese: 親
+    reading: 친
+    meaning_kun: 친할
+    translation:
+      en: parent; close; to be intimate
+      ko: "어버이; 가까운; 친하다"
+    gender: null
+    plural: null
+    notes:
+      en: "辛 + 木 + 見 (to see). Family members who see each other."
+      ko: "辛 + 木 + 見(볼 견). 서로 만나는 가족."
+  - classical_chinese: 族
+    reading: 족
+    meaning_kun: 겨레
+    translation:
+      en: clan; tribe; family
+      ko: "겨레; 종족; 가문"
+    gender: null
+    plural: null
+    notes:
+      en: "Flag (方) + arrow (矢). Clan united under one banner."
+      ko: "깃발(方) + 화살(矢). 하나의 깃발 아래 뭉친 씨족."
+  - classical_chinese: 宗
+    reading: 종
+    meaning_kun: 마루
+    translation:
+      en: ancestor; clan; sect
+      ko: "조상; 종파; 마루"
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + altar (示). Ancestral shrine under a roof."
+      ko: "지붕(宀) + 제단(示). 지붕 아래의 조상 사당."
+  - classical_chinese: 姓
+    reading: 성
+    meaning_kun: 성
+    translation:
+      en: surname; family name
+      ko: 성; 성씨
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 生 (birth). Matrilineal origin of surnames."
+      ko: "여자(女) + 生(날 생). 성씨의 모계 기원."
+  - classical_chinese: 氏
+    reading: 씨
+    meaning_kun: 성
+    translation:
+      en: clan name; Mr./Ms.
+      ko: "씨; 성"
+    gender: null
+    plural: null
+    notes:
+      en: "Originally a branch of a 姓 clan. Later used as honorific."
+      ko: "원래 姓에서 갈라진 분파. 후에 존칭으로 사용."
+  - classical_chinese: 婚
+    reading: 혼
+    meaning_kun: 혼인할
+    translation:
+      en: marriage; to marry
+      ko: "혼인; 결혼하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 昏 (dusk). Weddings held at dusk in ancient times."
+      ko: "여자(女) + 昏(어두울 혼). 고대에 결혼식은 저녁에 거행."
+  - classical_chinese: 嫁
+    reading: 가
+    meaning_kun: 시집갈
+    translation:
+      en: to marry (of a woman); to wed
+      ko: 시집가다
+    gender: null
+    plural: null
+    notes:
+      en: "Woman (女) + 家 (home). A woman going to her husband's home."
+      ko: "여자(女) + 家(집). 여자가 남편의 집으로 감."
+  - classical_chinese: 孝
+    reading: 효
+    meaning_kun: 효도
+    translation:
+      en: filial piety; devotion to parents
+      ko: "효도; 효행"
+    gender: null
+    plural: null
+    notes:
+      en: "Old (老 top) + child (子). Child supporting the elderly. Core Confucian virtue."
+      ko: "늙을(老 윗부분) + 아들(子). 아이가 노인을 받듦. 유교 핵심 덕목."
+  - classical_chinese: 慈
+    reading: 자
+    meaning_kun: 사랑할
+    translation:
+      en: compassion; parental love
+      ko: "사랑; 자애"
+    gender: null
+    plural: null
+    notes:
+      en: "兹 + heart (心). Parental love and tenderness."
+      ko: "兹 + 마음(心). 부모의 사랑과 자상함."
+  - classical_chinese: 養
+    reading: 양
+    meaning_kun: 기를
+    translation:
+      en: to raise; to nourish; to support
+      ko: "기르다; 양육하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Food (食) + 羊 (sheep). To feed and raise. 養育 = nurture."
+      ko: "음식(食) + 羊(양). 먹여 기르다. 養育 = 양육."
