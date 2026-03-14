@@ -208,33 +208,28 @@
 
 ### 4.1 편지 구조
 
-```
-+----------------------------------------------------------+
-|          격식 이탈리아어 편지 구조                          |
-+----------------------------------------------------------+
-|                                                          |
-|  [도시], [일] [월] [연도]                                 |
-|  Milano, 15 marzo 2026                                   |
-|                                                          |
-|  [수신인]                                                 |
-|  Spettabile [회사/기관]                                   |
-|  [주소]                                                   |
-|                                                          |
-|  Oggetto: [제목]                                          |
-|                                                          |
-|  [인사말],                                                |
-|  Egregio/Gentile [직함 + 이름],                           |
-|                                                          |
-|  [도입 문단]                                              |
-|  [본문 문단]                                              |
-|  [마무리 문단]                                             |
-|                                                          |
-|  [맺음말],                                                |
-|                                                          |
-|  [서명]                                                   |
-|  [연락처]                                                 |
-+----------------------------------------------------------+
-```
+> **격식 이탈리아어 편지 구조**
+>
+> [도시], [일] [월] [연도]
+> Milano, 15 marzo 2026
+>
+> [수신인]
+> Spettabile [회사/기관]
+> [주소]
+>
+> Oggetto: [제목]
+>
+> [인사말],
+> Egregio/Gentile [직함 + 이름],
+>
+> [도입 문단]
+> [본문 문단]
+> [마무리 문단]
+>
+> [맺음말],
+>
+> [서명]
+> [연락처]
 
 ### 4.2 격식 인사말 (Intestazione)
 
@@ -360,31 +355,26 @@ P.S. Ho invitato anche Sara e il suo ragazzo.
 
 ### 6.1 이탈리아어 에세이 형식 (Tema / Saggio)
 
-```
-+----------------------------------------------------------+
-|          이탈리아어 에세이 구조                              |
-+----------------------------------------------------------+
-|                                                          |
-|  INTRODUZIONE (서론)                                      |
-|    - 주제 제시                                             |
-|    - 논지 또는 주요 논점 진술                                |
-|    - 에세이에서 다룰 내용 개요                               |
-|    - 전체 분량의 ~15%                                      |
-|                                                          |
-|  SVOLGIMENTO (본론 / 전개)                                 |
-|    - 증거를 들어 논점 전개                                   |
-|    - 각 문단 = 하나의 주요 아이디어                           |
-|    - 문단 간 접속사 사용                                    |
-|    - 해당되는 경우 반론 제시                                  |
-|    - 전체 분량의 ~70%                                      |
-|                                                          |
-|  CONCLUSIONE (결론)                                       |
-|    - 핵심 요점 요약                                        |
-|    - 증거에 비추어 논지 재진술                                |
-|    - 최종 성찰 또는 향후 전망 제시                            |
-|    - 전체 분량의 ~15%                                      |
-+----------------------------------------------------------+
-```
+> **이탈리아어 에세이 구조**
+>
+> INTRODUZIONE (서론)
+> - 주제 제시
+> - 논지 또는 주요 논점 진술
+> - 에세이에서 다룰 내용 개요
+> - 전체 분량의 ~15%
+>
+> SVOLGIMENTO (본론 / 전개)
+> - 증거를 들어 논점 전개
+> - 각 문단 = 하나의 주요 아이디어
+> - 문단 간 접속사 사용
+> - 해당되는 경우 반론 제시
+> - 전체 분량의 ~70%
+>
+> CONCLUSIONE (결론)
+> - 핵심 요점 요약
+> - 증거에 비추어 논지 재진술
+> - 최종 성찰 또는 향후 전망 제시
+> - 전체 분량의 ~15%
 
 ### 6.2 유용한 에세이 표현
 
@@ -467,42 +457,37 @@ P.S. Ho invitato anche Sara e il suo ragazzo.
 
 표준 이탈리아 이력서는 EU 전역에서 널리 사용되는 **Europass** 형식을 따릅니다:
 
-```
-+----------------------------------------------------------+
-|          CURRICULUM VITAE (FORMATO EUROPASS)               |
-+----------------------------------------------------------+
-|                                                          |
-|  INFORMAZIONI PERSONALI                                  |
-|    Nome e cognome: Maria Rossi                           |
-|    Indirizzo: Via Roma 15, 20121 Milano                  |
-|    Telefono: +39 02 1234567                              |
-|    Email: maria.rossi@email.it                           |
-|    Data di nascita: 15/03/1990                           |
-|    Nazionalità: Italiana                                 |
-|                                                          |
-|  ESPERIENZA PROFESSIONALE                                |
-|    [Date] — [Job title] presso [Company]                 |
-|    - Descrizione delle responsabilità                    |
-|    - Risultati ottenuti                                  |
-|                                                          |
-|  ISTRUZIONE E FORMAZIONE                                 |
-|    [Date] — [Degree] presso [University/School]          |
-|    - Votazione: 110/110 e lode                           |
-|                                                          |
-|  COMPETENZE LINGUISTICHE                                 |
-|    Italiano: Madrelingua                                 |
-|    Inglese: C1 (IELTS 7.5)                              |
-|                                                          |
-|  COMPETENZE INFORMATICHE                                 |
-|    MS Office, Python, HTML/CSS                           |
-|                                                          |
-|  INTERESSI                                               |
-|    Viaggi, fotografia, volontariato                      |
-|                                                          |
-|  AUTORIZZO il trattamento dei miei dati personali        |
-|  ai sensi del D.Lgs. 196/2003 e del GDPR (UE) 2016/679 |
-+----------------------------------------------------------+
-```
+> **CURRICULUM VITAE (FORMATO EUROPASS)**
+>
+> INFORMAZIONI PERSONALI
+> - **Nome e cognome**: Maria Rossi
+> - **Indirizzo**: Via Roma 15, 20121 Milano
+> - **Telefono**: +39 02 1234567
+> - **Email**: maria.rossi@email.it
+> - **Data di nascita**: 15/03/1990
+> - **Nazionalità**: Italiana
+>
+> ESPERIENZA PROFESSIONALE
+> [Date] — [Job title] presso [Company]
+> - Descrizione delle responsabilità
+> - Risultati ottenuti
+>
+> ISTRUZIONE E FORMAZIONE
+> [Date] — [Degree] presso [University/School]
+> - Votazione: 110/110 e lode
+>
+> COMPETENZE LINGUISTICHE
+> - **Italiano**: Madrelingua
+> - **Inglese**: C1 (IELTS 7.5)
+>
+> COMPETENZE INFORMATICHE
+> MS Office, Python, HTML/CSS
+>
+> INTERESSI
+> Viaggi, fotografia, volontariato
+>
+> AUTORIZZO il trattamento dei miei dati personali
+> ai sensi del D.Lgs. 196/2003 e del GDPR (UE) 2016/679
 
 ### 8.2 이력서 어휘
 
