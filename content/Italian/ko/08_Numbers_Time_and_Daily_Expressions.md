@@ -179,28 +179,21 @@
 
 ### 4.1 기본 구조
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              이탈리아어 시간 표현                                 │
-│                                                              │
-│  1:00  È l'una.            (단수: "è l'una")                 │
-│  2:00  Sono le due.        (복수: "sono le")                  │
-│  3:15  Sono le tre e un quarto.                             │
-│        (= Sono le tre e quindici.)                          │
-│  4:30  Sono le quattro e mezza.                             │
-│        (= Sono le quattro e trenta.)                        │
-│  5:45  Sono le sei meno un quarto.                          │
-│        (= Sono le cinque e quarantacinque.)                 │
-│  6:10  Sono le sei e dieci.                                 │
-│  7:50  Sono le otto meno dieci.                             │
-│  12:00 È mezzogiorno. (정오)                                  │
-│  00:00 È mezzanotte. (자정)                                   │
-│                                                              │
-│  ※ 1시, 정오, 자정에는 "È"; 나머지는 모두 "Sono"              │
-│  ※ "Meno" = 빼기 (다음 시간 전 분)                            │
-│  ※ 격식/문어에서는 24시간제가 일반적                             │
-└──────────────────────────────────────────────────────────────┘
-```
+> **이탈리아어 시간 표현**
+>
+> - 1:00 — È l'una. (단수: "è l'una")
+> - 2:00 — Sono le due. (복수: "sono le")
+> - 3:15 — Sono le tre e un quarto. (= Sono le tre e quindici.)
+> - 4:30 — Sono le quattro e mezza. (= Sono le quattro e trenta.)
+> - 5:45 — Sono le sei meno un quarto. (= Sono le cinque e quarantacinque.)
+> - 6:10 — Sono le sei e dieci.
+> - 7:50 — Sono le otto meno dieci.
+> - 12:00 — È mezzogiorno. (정오)
+> - 00:00 — È mezzanotte. (자정)
+>
+> - 1시, 정오, 자정에는 "È"; 나머지는 모두 "Sono"
+> - "Meno" = 빼기 (다음 시간 전 분)
+> - 격식/문어에서는 24시간제가 일반적
 
 ### 4.2 시간대
 
@@ -586,28 +579,13 @@ Che caldo! / Che freddo!      → 정말 덥다! / 정말 춥다!
 
 ## 빠른 참조
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   숫자: 0-10 (암기), 11-19 (고유/dici-),                      │
-│   20-99 (십의 자리+단위를 한 단어로, 1/8 앞에서 모음 탈락)        │
-│   100=cento, 1000=mille/mila, 1M=milione(di), 1B=miliardo   │
-│                                                              │
-│   시간: È l'una / Sono le [due-dodici]                       │
-│   + e [분] / meno [분] / e un quarto / e mezza               │
-│   A che ora? → Alle [시] / All'una                           │
-│                                                              │
-│   요일: lunedì-venerdì (-dì로 끝남), sabato, domenica        │
-│   대문자 아님. Il lunedì = 매주 월요일마다.                      │
-│                                                              │
-│   날짜: il + 숫자 + 월 (+ 연도)                                │
-│   예외: il primo (매월 1일)                                    │
-│                                                              │
-│   서수: 1°-10° (고유), 11°+ = 기수 + -esimo                  │
-│                                                              │
-│   핵심 표현: Quanto costa? Dov'è...? Che tempo fa?           │
-│   Buon appetito! Salute! In bocca al lupo! — Crepi!         │
-└──────────────────────────────────────────────────────────────┘
-```
+> - **숫자**: 0-10 (암기), 11-19 (고유/dici-), 20-99 (십의 자리+단위를 한 단어로, 1/8 앞에서 모음 탈락)
+> - 100=cento, 1000=mille/mila, 1M=milione(di), 1B=miliardo
+> - **시간**: È l'una / Sono le [due-dodici] + e [분] / meno [분] / e un quarto / e mezza / A che ora? → Alle [시] / All'una
+> - **요일**: lunedì-venerdì (-dì로 끝남), sabato, domenica / 대문자 아님. Il lunedì = 매주 월요일마다.
+> - **날짜**: il + 숫자 + 월 (+ 연도) / 예외: il primo (매월 1일)
+> - **서수**: 1°-10° (고유), 11°+ = 기수 + -esimo
+> - **핵심 표현**: Quanto costa? Dov'è...? Che tempo fa? Buon appetito! Salute! In bocca al lupo! — Crepi!
 
 ---
 
