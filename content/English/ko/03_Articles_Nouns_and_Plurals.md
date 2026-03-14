@@ -24,27 +24,19 @@
 
 ## 1. 왜 관사가 한국어 화자에게 어려운가
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 화자에게 가장 어려운 문법 포인트 1위                      │
-│                                                                 │
-│   한국어에는 관사가 전혀 없습니다:                                │
-│   "나는 사과를 먹는다" → I eat apple? an apple? the apple?         │
-│                                                                 │
-│   한국어에서 사과는 항상 그냥 사과입니다.                          │
-│   영어에서는 반드시 선택해야 합니다:                               │
-│                                                                 │
-│   a/an  → "I eat AN apple."    (아무 사과, 처음 언급)             │
-│   the   → "I eat THE apple."   (특정 사과, 어떤 것인지 앎)         │
-│   (없음)→ "I eat apples."      (사과 일반)                        │
-│                                                                 │
-│   영어 원어민은 이 선택을 하루에 수백 번 자동으로 합니다.            │
-│   한국어 화자는 이것을 배워야 합니다.                              │
-│                                                                 │
-│   ※ 고급 수준의 한국어 화자도 관사 실수를 합니다.                 │
-│     이 레슨은 정확도를 위한 가장 중요한 레슨입니다.                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **한국어 화자에게 가장 어려운 문법 포인트 1위**
+>
+> 한국어에는 관사가 전혀 없습니다:
+> "나는 사과를 먹는다" → I eat apple? an apple? the apple?
+> 한국어에서 사과는 항상 그냥 사과입니다.
+> 영어에서는 반드시 선택해야 합니다:
+> a/an  → "I eat AN apple."    (아무 사과, 처음 언급)
+> the   → "I eat THE apple."   (특정 사과, 어떤 것인지 앎)
+> (없음)→ "I eat apples."      (사과 일반)
+> 영어 원어민은 이 선택을 하루에 수백 번 자동으로 합니다.
+> 한국어 화자는 이것을 배워야 합니다.
+> ※ 고급 수준의 한국어 화자도 관사 실수를 합니다.
+> 이 레슨은 정확도를 위한 가장 중요한 레슨입니다.
 
 ---
 
@@ -74,32 +66,25 @@ a/an을 사용하는 경우:
 
 ### 2.2 a vs an
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   a  → 자음 소리 앞에                                           │
-│   an → 모음 소리 앞에                                           │
-│                                                                 │
-│   ※ 철자가 아니라 소리에 따라 결정!                              │
-│                                                                 │
-│   a book        (b = 자음 소리)                                  │
-│   a car         (c = 자음 소리)                                  │
-│   a dog         (d = 자음 소리)                                  │
-│   a university  (u = /juː/ 자음 /j/ 소리로 시작!)                │
-│   a European    (E = /jʊ/ 자음 /j/ 소리로 시작!)                 │
-│   a one-way     (o = /wʌ/ 자음 /w/ 소리로 시작!)                 │
-│                                                                 │
-│   an apple      (a = 모음 소리)                                  │
-│   an egg        (e = 모음 소리)                                  │
-│   an hour       (h가 묵음! /aʊər/ 모음으로 시작)                  │
-│   an honest man (h가 묵음! /ˈɒnɪst/ 모음으로 시작)               │
-│   an MBA        (M = /em/ 모음 /e/ 소리로 시작!)                  │
-│   an X-ray      (X = /eks/ 모음 /e/ 소리로 시작!)                 │
-│                                                                 │
-│   ※ 한국어 화자의 흔한 실수:                                     │
-│     "a umbrella" ✗ → "an umbrella" ✓                            │
-│     "an university" ✗ → "a university" ✓                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **a  → 자음 소리 앞에**
+>
+> an → 모음 소리 앞에
+> ※ 철자가 아니라 소리에 따라 결정!
+> a book        (b = 자음 소리)
+> a car         (c = 자음 소리)
+> a dog         (d = 자음 소리)
+> a university  (u = /juː/ 자음 /j/ 소리로 시작!)
+> a European    (E = /jʊ/ 자음 /j/ 소리로 시작!)
+> a one-way     (o = /wʌ/ 자음 /w/ 소리로 시작!)
+> an apple      (a = 모음 소리)
+> an egg        (e = 모음 소리)
+> an hour       (h가 묵음! /aʊər/ 모음으로 시작)
+> an honest man (h가 묵음! /ˈɒnɪst/ 모음으로 시작)
+> an MBA        (M = /em/ 모음 /e/ 소리로 시작!)
+> an X-ray      (X = /eks/ 모음 /e/ 소리로 시작!)
+> ※ 한국어 화자의 흔한 실수:
+> "a umbrella" ✗ → "an umbrella" ✓
+> "an university" ✗ → "a university" ✓
 
 ### 2.3 직업과 신분에 a/an 사용
 
@@ -232,36 +217,23 @@ a/an을 사용하는 경우:
 
 ### 5.1 마스터 결정 트리
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    관사 결정 트리                                  │
-│                                                                 │
-│   명사가 가산명사인가?                                            │
-│   │                                                             │
-│   ├── 예 (가산)                                                  │
-│   │   │                                                         │
-│   │   ├── 단수?                                                  │
-│   │   │   │                                                     │
-│   │   │   ├── 청자가 아는가? ──예──→ THE book                    │
-│   │   │   │                                                     │
-│   │   │   └── 모르거나 처음 언급? ──→ A/AN book                  │
-│   │   │                                                         │
-│   │   └── 복수?                                                  │
-│   │       │                                                     │
-│   │       ├── 특정 그룹? ──예──→ THE books (on the table)        │
-│   │       │                                                     │
-│   │       └── 일반적/전체? ──→ ∅ books (Books are great.)        │
-│   │                                                             │
-│   └── 아니오 (불가산)                                            │
-│       │                                                         │
-│       ├── 특정? ──예──→ THE water (in the glass)                 │
-│       │                                                         │
-│       └── 일반적? ──→ ∅ water (Water is essential.)              │
-│                                                                 │
-│   절대 안 됨: a/an + 불가산   (a water ✗, an information ✗)      │
-│   절대 안 됨: a/an + 복수     (a books ✗, an apples ✗)           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **관사 결정 트리**
+>
+> 명사가 가산명사인가?
+> ├── 예 (가산)
+> │   ├── 단수?
+> | ├── 청자가 아는가? ──예──→ THE book |
+> |---|
+> | └── 모르거나 처음 언급? ──→ A/AN book |
+>
+> │   └── 복수?
+> │       ├── 특정 그룹? ──예──→ THE books (on the table)
+> │       └── 일반적/전체? ──→ ∅ books (Books are great.)
+> └── 아니오 (불가산)
+> ├── 특정? ──예──→ THE water (in the glass)
+> └── 일반적? ──→ ∅ water (Water is essential.)
+> 절대 안 됨: a/an + 불가산   (a water ✗, an information ✗)
+> 절대 안 됨: a/an + 복수     (a books ✗, an apples ✗)
 
 ### 5.2 빠른 예시
 
@@ -280,24 +252,18 @@ a/an을 사용하는 경우:
 
 ### 6.1 개념
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   가산명사 (셀 수 있는 명사):                                     │
-│   셀 수 있음: one book, two books, three books                   │
-│   단수형과 복수형 있음                                            │
-│   a/an 사용 가능: a book, an apple                               │
-│                                                                 │
-│   불가산명사 (셀 수 없는 명사):                                   │
-│   개별적으로 셀 수 없음                                           │
-│   복수형 없음                                                    │
-│   a/an 사용 불가                                                 │
-│                                                                 │
-│   ※ 한국어에는 이 구분이 없습니다!                               │
-│     물은 물 한 잔, 물 두 잔 (수량사 '잔' 사용)으로 셀 수 있지만    │
-│     영어: water (불가산) — "two waters" 불가                      │
-│     대신: "two glasses of water"                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 가산명사 (셀 수 있는 명사):
+> 셀 수 있음: one book, two books, three books
+> 단수형과 복수형 있음
+> a/an 사용 가능: a book, an apple
+> 불가산명사 (셀 수 없는 명사):
+> 개별적으로 셀 수 없음
+> 복수형 없음
+> a/an 사용 불가
+> ※ 한국어에는 이 구분이 없습니다!
+> 물은 물 한 잔, 물 두 잔 (수량사 '잔' 사용)으로 셀 수 있지만
+> 영어: water (불가산) — "two waters" 불가
+> 대신: "two glasses of water"
 
 ### 6.2 흔한 불가산명사
 
@@ -358,31 +324,23 @@ hair (머리카락 — 전체)              a hair (머리카락 한 올)
 
 ### 7.1 기본 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  복수형 만들기 규칙                                │
-│                                                                 │
-│   규칙 1: 대부분의 명사 → -s 추가                                │
-│   book → books    cat → cats    dog → dogs    table → tables    │
-│                                                                 │
-│   규칙 2: -s, -ss, -sh, -ch, -x, -z로 끝나면 → -es 추가        │
-│   bus → buses     class → classes    dish → dishes              │
-│   watch → watches  box → boxes       quiz → quizzes             │
-│                                                                 │
-│   규칙 3: 자음 + y로 끝나면 → y를 -ies로 변경                    │
-│   city → cities   baby → babies    story → stories              │
-│   ※ 모음 + y → 그냥 -s 추가: boy → boys, day → days             │
-│                                                                 │
-│   규칙 4: -f/-fe로 끝나면 → -ves로 변경 (예외 많음)              │
-│   knife → knives   wife → wives    leaf → leaves                │
-│   life → lives     wolf → wolves   half → halves                │
-│   ※ 예외: roof → roofs, chief → chiefs, belief → beliefs        │
-│                                                                 │
-│   규칙 5: -o로 끝나면 → -es 추가(일부) 또는 -s 추가(일부)        │
-│   tomato → tomatoes  potato → potatoes  hero → heroes           │
-│   ※ 음악/외래어: piano → pianos, photo → photos                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **복수형 만들기 규칙**
+>
+> 규칙 1: 대부분의 명사 → -s 추가
+> book → books    cat → cats    dog → dogs    table → tables
+> 규칙 2: -s, -ss, -sh, -ch, -x, -z로 끝나면 → -es 추가
+> bus → buses     class → classes    dish → dishes
+> watch → watches  box → boxes       quiz → quizzes
+> 규칙 3: 자음 + y로 끝나면 → y를 -ies로 변경
+> city → cities   baby → babies    story → stories
+> ※ 모음 + y → 그냥 -s 추가: boy → boys, day → days
+> 규칙 4: -f/-fe로 끝나면 → -ves로 변경 (예외 많음)
+> knife → knives   wife → wives    leaf → leaves
+> life → lives     wolf → wolves   half → halves
+> ※ 예외: roof → roofs, chief → chiefs, belief → beliefs
+> 규칙 5: -o로 끝나면 → -es 추가(일부) 또는 -s 추가(일부)
+> tomato → tomatoes  potato → potatoes  hero → heroes
+> ※ 음악/외래어: piano → pianos, photo → photos
 
 ### 7.2 -s/-es 복수형의 발음
 
@@ -464,30 +422,23 @@ hair (머리카락 — 전체)              a hair (머리카락 한 올)
 
 ### 9.1 네 가지 지시대명사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              지시대명사                                           │
-│                                                                 │
-│              단수              복수                               │
-│   가까이     this (이것)       these (이것들)                     │
-│   멀리       that (저것)       those (저것들)                     │
-│                                                                 │
-│   "This" / "These" = 화자에게 가까이                              │
-│   "That" / "Those" = 화자에서 멀리                                │
-│                                                                 │
-│   대명사로 사용:                                                  │
-│   "This is my book."           이것은 내 책이다                   │
-│   "That is your bag."          저것은 네 가방이다                  │
-│   "These are my friends."      이 사람들은 내 친구들이다           │
-│   "Those are expensive."       저것들은 비싸다                    │
-│                                                                 │
-│   형용사로 사용 (명사 앞):                                        │
-│   "This book is mine."         이 책은 내 것이다                  │
-│   "That car is fast."          저 차는 빠르다                    │
-│   "These shoes are new."       이 신발들은 새것이다               │
-│   "Those people are Korean."   저 사람들은 한국인이다              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **지시대명사**
+>
+> 단수              복수
+> 가까이     this (이것)       these (이것들)
+> 멀리       that (저것)       those (저것들)
+> "This" / "These" = 화자에게 가까이
+> "That" / "Those" = 화자에서 멀리
+> 대명사로 사용:
+> "This is my book."           이것은 내 책이다
+> "That is your bag."          저것은 네 가방이다
+> "These are my friends."      이 사람들은 내 친구들이다
+> "Those are expensive."       저것들은 비싸다
+> 형용사로 사용 (명사 앞):
+> "This book is mine."         이 책은 내 것이다
+> "That car is fast."          저 차는 빠르다
+> "These shoes are new."       이 신발들은 새것이다
+> "Those people are Korean."   저 사람들은 한국인이다
 
 ### 9.2 시간에서의 this/that
 
@@ -731,30 +682,22 @@ that = 과거 또는 먼:
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            관사 & 복수형 빠른 가이드                               │
-│                                                                 │
-│   a/an  = 처음 언급, 아무 하나, 분류                              │
-│           a + 자음 소리 / an + 모음 소리                          │
-│   the   = 청자가 아는 것, 유일한 것, 특정, 최상급                  │
-│   ∅     = 일반적 복수, 일반적 불가산, 식사, 스포츠                  │
-│                                                                 │
-│   가산: 셀 수 있음 (a book, two books)                            │
-│   불가산: 셀 수 없음 (water, information, furniture)               │
-│   ※ 불가산명사: a/an 불가, 복수형 -s 불가                         │
-│                                                                 │
-│   복수형: -s (books), -es (boxes), -ies (cities)                 │
-│   불규칙: man→men, child→children, tooth→teeth, sheep→sheep      │
-│                                                                 │
-│   지시대명사:                                                     │
-│   가까이: this (단수) / these (복수)                               │
-│   멀리:   that (단수) / those (복수)                               │
-│                                                                 │
-│   ※ 한국어 화자 오류 1위: 관사를 완전히 빠뜨리기                   │
-│     항상 물어보세요: "a/an, the, 또는 없음 중 어떤 것이 필요한가?"  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **관사 & 복수형 빠른 가이드**
+>
+> a/an  = 처음 언급, 아무 하나, 분류
+> a + 자음 소리 / an + 모음 소리
+> the   = 청자가 아는 것, 유일한 것, 특정, 최상급
+> ∅     = 일반적 복수, 일반적 불가산, 식사, 스포츠
+> 가산: 셀 수 있음 (a book, two books)
+> 불가산: 셀 수 없음 (water, information, furniture)
+> ※ 불가산명사: a/an 불가, 복수형 -s 불가
+> 복수형: -s (books), -es (boxes), -ies (cities)
+> 불규칙: man→men, child→children, tooth→teeth, sheep→sheep
+> 지시대명사:
+> 가까이: this (단수) / these (복수)
+> 멀리:   that (단수) / those (복수)
+> ※ 한국어 화자 오류 1위: 관사를 완전히 빠뜨리기
+> 항상 물어보세요: "a/an, the, 또는 없음 중 어떤 것이 필요한가?"
 
 ---
 
