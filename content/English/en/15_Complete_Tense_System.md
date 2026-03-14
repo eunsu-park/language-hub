@@ -27,29 +27,28 @@
 
 English has **12 tenses** organized by time (past/present/future) and aspect (simple/continuous/perfect/perfect continuous).
 
-```
-┌──────────────────┬───────────────┬───────────────┬──────────────────┐
-│                  │    PAST       │   PRESENT     │    FUTURE        │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ SIMPLE           │ worked        │ work(s)       │ will work        │
-│                  │ ate           │ eat(s)        │ will eat         │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ CONTINUOUS       │ was working   │ am/is/are     │ will be          │
-│                  │ were eating   │ working       │ working          │
-│                  │               │ am/is/are     │ will be          │
-│                  │               │ eating        │ eating           │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ PERFECT          │ had worked    │ have/has      │ will have        │
-│                  │ had eaten     │ worked        │ worked           │
-│                  │               │ have/has      │ will have        │
-│                  │               │ eaten         │ eaten            │
-├──────────────────┼───────────────┼───────────────┼──────────────────┤
-│ PERFECT          │ had been      │ have/has been │ will have been   │
-│ CONTINUOUS       │ working       │ working       │ working          │
-│                  │ had been      │ have/has been │ will have been   │
-│                  │ eating        │ eating        │ eating           │
-└──────────────────┴───────────────┴───────────────┴──────────────────┘
-```
+> **│    PAST       │   PRESENT     │    FUTURE**
+>
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> | SIMPLE | worked | work(s) | will work |
+> |---|---|---|---|
+> | ate | eat(s) | will eat |  |
+> | CONTINUOUS | was working | am/is/are | will be |
+> | were eating | working | working |  |
+> | am/is/are | will be |  |  |
+> | eating | eating |  |  |
+> | PERFECT | had worked | have/has | will have |
+> | had eaten | worked | worked |  |
+> | have/has | will have |  |  |
+> | eaten | eaten |  |  |
+> | PERFECT | had been | have/has been | will have been |
+> | CONTINUOUS | working | working | working |
+> | had been | have/has been | will have been |  |
+> | eating | eating | eating |  |
+>
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
+> ├──────────────────┼───────────────┼───────────────┼──────────────────┤
 
 ### 1.2 Understanding Aspect
 
@@ -76,18 +75,15 @@ PERFECT CONTINUOUS: Action started before a reference point,
 
 ### 2.1 Simple Present
 
+> Formation: base verb (+s/es for he/she/it)
+> I work          We work
+> You work        You work
+> He/She works    They work
+> Negative:  do not (don't) + base verb
+> does not (doesn't) + base verb (he/she/it)
+> Question:  Do/Does + subject + base verb?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: base verb (+s/es for he/she/it)                   │
-│                                                                 │
-│   I work          We work                                       │
-│   You work        You work                                      │
-│   He/She works    They work                                     │
-│                                                                 │
-│   Negative:  do not (don't) + base verb                        │
-│              does not (doesn't) + base verb (he/she/it)        │
-│   Question:  Do/Does + subject + base verb?                    │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Habits and routines:     "I drink coffee every morning."
@@ -102,17 +98,14 @@ Signal words: always, usually, often, sometimes, rarely, never,
 
 ### 2.2 Present Continuous
 
+> Formation: am/is/are + verb-ing
+> I am working         We are working
+> You are working      You are working
+> He/She is working    They are working
+> Negative:  am/is/are + not + verb-ing
+> Question:  Am/Is/Are + subject + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: am/is/are + verb-ing                              │
-│                                                                 │
-│   I am working         We are working                           │
-│   You are working      You are working                          │
-│   He/She is working    They are working                         │
-│                                                                 │
-│   Negative:  am/is/are + not + verb-ing                        │
-│   Question:  Am/Is/Are + subject + verb-ing?                   │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Action happening right now:   "I am reading a book."
@@ -136,17 +129,14 @@ Non-continuous (stative) verbs — do NOT use in continuous:
 
 ### 2.3 Present Perfect
 
+> Formation: have/has + past participle
+> I have worked         We have worked
+> You have worked       You have worked
+> He/She has worked     They have worked
+> Negative:  have/has + not + past participle
+> Question:  Have/Has + subject + past participle?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: have/has + past participle                        │
-│                                                                 │
-│   I have worked         We have worked                          │
-│   You have worked       You have worked                         │
-│   He/She has worked     They have worked                        │
-│                                                                 │
-│   Negative:  have/has + not + past participle                  │
-│   Question:  Have/Has + subject + past participle?             │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Life experience (ever/never):
@@ -170,17 +160,14 @@ Signal words: already, yet, just, ever, never, recently, so far,
 
 ### 2.4 Present Perfect Continuous
 
+> Formation: have/has + been + verb-ing
+> I have been working         We have been working
+> You have been working       You have been working
+> He/She has been working     They have been working
+> Negative:  have/has + not + been + verb-ing
+> Question:  Have/Has + subject + been + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: have/has + been + verb-ing                        │
-│                                                                 │
-│   I have been working         We have been working              │
-│   You have been working       You have been working             │
-│   He/She has been working     They have been working            │
-│                                                                 │
-│   Negative:  have/has + not + been + verb-ing                  │
-│   Question:  Have/Has + subject + been + verb-ing?             │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Duration of an ongoing activity (emphasis on how long):
@@ -206,17 +193,14 @@ Present Perfect vs Present Perfect Continuous:
 
 ### 3.1 Simple Past
 
+> Formation: verb + -ed (regular) or irregular form
+> I worked / ate        We worked / ate
+> You worked / ate      You worked / ate
+> He/She worked / ate   They worked / ate
+> Negative:  did not (didn't) + base verb
+> Question:  Did + subject + base verb?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: verb + -ed (regular) or irregular form            │
-│                                                                 │
-│   I worked / ate        We worked / ate                         │
-│   You worked / ate      You worked / ate                        │
-│   He/She worked / ate   They worked / ate                       │
-│                                                                 │
-│   Negative:  did not (didn't) + base verb                      │
-│   Question:  Did + subject + base verb?                        │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Completed actions at a specific time:
@@ -237,17 +221,14 @@ Signal words: yesterday, last week/month/year, ago, in 2020,
 
 ### 3.2 Past Continuous
 
+> Formation: was/were + verb-ing
+> I was working         We were working
+> You were working      You were working
+> He/She was working    They were working
+> Negative:  was/were + not + verb-ing
+> Question:  Was/Were + subject + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: was/were + verb-ing                               │
-│                                                                 │
-│   I was working         We were working                         │
-│   You were working      You were working                        │
-│   He/She was working    They were working                       │
-│                                                                 │
-│   Negative:  was/were + not + verb-ing                         │
-│   Question:  Was/Were + subject + verb-ing?                    │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Action in progress at a specific past time:
@@ -268,17 +249,14 @@ Signal words: while, when, as, at that time, at 3 o'clock,
 
 ### 3.3 Past Perfect
 
+> Formation: had + past participle
+> I had worked         We had worked
+> You had worked       You had worked
+> He/She had worked    They had worked
+> Negative:  had not (hadn't) + past participle
+> Question:  Had + subject + past participle?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: had + past participle                             │
-│                                                                 │
-│   I had worked         We had worked                            │
-│   You had worked       You had worked                           │
-│   He/She had worked    They had worked                          │
-│                                                                 │
-│   Negative:  had not (hadn't) + past participle                │
-│   Question:  Had + subject + past participle?                  │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Action completed BEFORE another past action:
@@ -299,17 +277,14 @@ Signal words: before, after, by the time, already, just,
 
 ### 3.4 Past Perfect Continuous
 
+> Formation: had + been + verb-ing
+> I had been working         We had been working
+> You had been working       You had been working
+> He/She had been working    They had been working
+> Negative:  had not (hadn't) + been + verb-ing
+> Question:  Had + subject + been + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: had + been + verb-ing                             │
-│                                                                 │
-│   I had been working         We had been working                │
-│   You had been working       You had been working               │
-│   He/She had been working    They had been working              │
-│                                                                 │
-│   Negative:  had not (hadn't) + been + verb-ing                │
-│   Question:  Had + subject + been + verb-ing?                  │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Duration of an activity before another past action:
@@ -331,23 +306,20 @@ Signal words: for, since, all day, before, when, by the time,
 
 ### 4.1 Simple Future
 
+> Formation:
+> (a) will + base verb (predictions, decisions, promises)
+> (b) am/is/are going to + base verb (plans, predictions
+> with evidence)
+> will:
+> I will work         We will work
+> Negative: will not (won't) + base verb
+> Question: Will + subject + base verb?
+> going to:
+> I am going to work  We are going to work
+> Negative: am/is/are + not + going to + base verb
+> Question: Am/Is/Are + subject + going to + base verb?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation:                                                   │
-│   (a) will + base verb (predictions, decisions, promises)      │
-│   (b) am/is/are going to + base verb (plans, predictions       │
-│       with evidence)                                            │
-│                                                                 │
-│   will:                                                        │
-│   I will work         We will work                              │
-│   Negative: will not (won't) + base verb                       │
-│   Question: Will + subject + base verb?                        │
-│                                                                 │
-│   going to:                                                    │
-│   I am going to work  We are going to work                     │
-│   Negative: am/is/are + not + going to + base verb             │
-│   Question: Am/Is/Are + subject + going to + base verb?        │
-└─────────────────────────────────────────────────────────────────┘
 
 will vs going to:
   Spontaneous decision:    "I'll have the pasta." (decided now)
@@ -363,17 +335,14 @@ Signal words: tomorrow, next week/month/year, in the future,
 
 ### 4.2 Future Continuous
 
+> Formation: will be + verb-ing
+> I will be working         We will be working
+> You will be working       You will be working
+> He/She will be working    They will be working
+> Negative:  will not (won't) be + verb-ing
+> Question:  Will + subject + be + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: will be + verb-ing                                │
-│                                                                 │
-│   I will be working         We will be working                  │
-│   You will be working       You will be working                 │
-│   He/She will be working    They will be working                │
-│                                                                 │
-│   Negative:  will not (won't) be + verb-ing                    │
-│   Question:  Will + subject + be + verb-ing?                   │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Action in progress at a future time:
@@ -391,17 +360,14 @@ Signal words: at this time tomorrow, at 8 PM, all day tomorrow,
 
 ### 4.3 Future Perfect
 
+> Formation: will have + past participle
+> I will have worked         We will have worked
+> You will have worked       You will have worked
+> He/She will have worked    They will have worked
+> Negative:  will not (won't) have + past participle
+> Question:  Will + subject + have + past participle?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: will have + past participle                       │
-│                                                                 │
-│   I will have worked         We will have worked                │
-│   You will have worked       You will have worked               │
-│   He/She will have worked    They will have worked              │
-│                                                                 │
-│   Negative:  will not (won't) have + past participle           │
-│   Question:  Will + subject + have + past participle?          │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Action completed before a future time:
@@ -416,17 +382,14 @@ Signal words: by (+ future time), by the time, before,
 
 ### 4.4 Future Perfect Continuous
 
+> Formation: will have been + verb-ing
+> I will have been working        We will have been working
+> You will have been working      You will have been working
+> He/She will have been working   They will have been working
+> Negative:  will not have been + verb-ing
+> Question:  Will + subject + have been + verb-ing?
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formation: will have been + verb-ing                         │
-│                                                                 │
-│   I will have been working        We will have been working     │
-│   You will have been working      You will have been working    │
-│   He/She will have been working   They will have been working   │
-│                                                                 │
-│   Negative:  will not have been + verb-ing                     │
-│   Question:  Will + subject + have been + verb-ing?            │
-└─────────────────────────────────────────────────────────────────┘
 
 Uses:
   1. Duration of an action up to a future point (emphasis on how long):
@@ -519,37 +482,30 @@ Signal words: by, by the time, for, since (with future reference)
 
 ### 6.1 Decision Flowchart
 
-```
-┌─ Is the action in the PAST, PRESENT, or FUTURE? ─┐
-│                                                     │
-├─ PRESENT ──────────────────────────────────────────┤
-│  ├─ Habit/fact/routine?      → Simple Present      │
-│  ├─ Happening right now?     → Present Continuous   │
-│  ├─ Past action connected    → Present Perfect      │
-│  │  to now? (result matters)                        │
-│  └─ Duration up to now?      → Pres. Perf. Cont.   │
-│     (how long?)                                     │
-│                                                     │
-├─ PAST ─────────────────────────────────────────────┤
-│  ├─ Completed at specific    → Simple Past          │
-│  │  past time?                                      │
-│  ├─ In progress at a past    → Past Continuous      │
-│  │  time?                                           │
-│  ├─ Before another past      → Past Perfect         │
-│  │  event?                                          │
-│  └─ Duration before another  → Past Perf. Cont.    │
-│     past event?                                     │
-│                                                     │
-├─ FUTURE ───────────────────────────────────────────┤
-│  ├─ Prediction/plan/promise? → Simple Future        │
-│  ├─ In progress at future    → Future Continuous    │
-│  │  time?                                           │
-│  ├─ Completed before future  → Future Perfect       │
-│  │  deadline?                                       │
-│  └─ Duration up to future    → Fut. Perf. Cont.    │
-│     point?                                          │
-└─────────────────────────────────────────────────────┘
-```
+> ├─ PRESENT ──────────────────────────────────────────┤
+> ├─ Habit/fact/routine?      → Simple Present
+> ├─ Happening right now?     → Present Continuous
+> ├─ Past action connected    → Present Perfect
+> │  to now? (result matters)
+> └─ Duration up to now?      → Pres. Perf. Cont.
+> (how long?)
+> ├─ PAST ─────────────────────────────────────────────┤
+> ├─ Completed at specific    → Simple Past
+> │  past time?
+> ├─ In progress at a past    → Past Continuous
+> │  time?
+> ├─ Before another past      → Past Perfect
+> │  event?
+> └─ Duration before another  → Past Perf. Cont.
+> past event?
+> ├─ FUTURE ───────────────────────────────────────────┤
+> ├─ Prediction/plan/promise? → Simple Future
+> ├─ In progress at future    → Future Continuous
+> │  time?
+> ├─ Completed before future  → Future Perfect
+> │  deadline?
+> └─ Duration up to future    → Fut. Perf. Cont.
+> point?
 
 ### 6.2 Quick Reference Questions
 
@@ -642,47 +598,43 @@ Past Continuous (background, interrupted action):
 
 ## 8. Signal Words by Tense
 
-```
-┌────────────────────────┬────────────────────────────────────────┐
-│ TENSE                  │ SIGNAL WORDS                           │
-├────────────────────────┼────────────────────────────────────────┤
-│ Simple Present         │ always, usually, often, sometimes,     │
-│                        │ rarely, never, every day/week          │
-├────────────────────────┼────────────────────────────────────────┤
-│ Present Continuous     │ now, right now, at the moment,         │
-│                        │ currently, today, this week            │
-├────────────────────────┼────────────────────────────────────────┤
-│ Present Perfect        │ already, yet, just, ever, never,       │
-│                        │ recently, since, for, so far           │
-├────────────────────────┼────────────────────────────────────────┤
-│ Present Perfect Cont.  │ for, since, all day/morning,           │
-│                        │ how long, recently, lately             │
-├────────────────────────┼────────────────────────────────────────┤
-│ Simple Past            │ yesterday, last week/month/year,       │
-│                        │ ago, in 2020, when I was young         │
-├────────────────────────┼────────────────────────────────────────┤
-│ Past Continuous        │ while, when, as, at that time,         │
-│                        │ at 3 o'clock, all day yesterday        │
-├────────────────────────┼────────────────────────────────────────┤
-│ Past Perfect           │ before, after, by the time,            │
-│                        │ already, just, never (before)          │
-├────────────────────────┼────────────────────────────────────────┤
-│ Past Perfect Cont.     │ for, since, all day, how long,         │
-│                        │ before, by the time                    │
-├────────────────────────┼────────────────────────────────────────┤
-│ Simple Future          │ tomorrow, next week, soon, later,      │
-│                        │ in the future, tonight                 │
-├────────────────────────┼────────────────────────────────────────┤
-│ Future Continuous      │ at this time tomorrow, at 8 PM,        │
-│                        │ all day tomorrow                       │
-├────────────────────────┼────────────────────────────────────────┤
-│ Future Perfect         │ by + future time, by the time,         │
-│                        │ before, by next week                   │
-├────────────────────────┼────────────────────────────────────────┤
-│ Future Perfect Cont.   │ by, by the time, for, since            │
-│                        │ (with future reference)                │
-└────────────────────────┴────────────────────────────────────────┘
-```
+> TENSE                  │ SIGNAL WORDS
+> ├────────────────────────┼────────────────────────────────────────┤
+> Simple Present         │ always, usually, often, sometimes,
+> │ rarely, never, every day/week
+> ├────────────────────────┼────────────────────────────────────────┤
+> Present Continuous     │ now, right now, at the moment,
+> │ currently, today, this week
+> ├────────────────────────┼────────────────────────────────────────┤
+> Present Perfect        │ already, yet, just, ever, never,
+> │ recently, since, for, so far
+> ├────────────────────────┼────────────────────────────────────────┤
+> Present Perfect Cont.  │ for, since, all day/morning,
+> │ how long, recently, lately
+> ├────────────────────────┼────────────────────────────────────────┤
+> Simple Past            │ yesterday, last week/month/year,
+> │ ago, in 2020, when I was young
+> ├────────────────────────┼────────────────────────────────────────┤
+> Past Continuous        │ while, when, as, at that time,
+> │ at 3 o'clock, all day yesterday
+> ├────────────────────────┼────────────────────────────────────────┤
+> Past Perfect           │ before, after, by the time,
+> │ already, just, never (before)
+> ├────────────────────────┼────────────────────────────────────────┤
+> Past Perfect Cont.     │ for, since, all day, how long,
+> │ before, by the time
+> ├────────────────────────┼────────────────────────────────────────┤
+> Simple Future          │ tomorrow, next week, soon, later,
+> │ in the future, tonight
+> ├────────────────────────┼────────────────────────────────────────┤
+> Future Continuous      │ at this time tomorrow, at 8 PM,
+> │ all day tomorrow
+> ├────────────────────────┼────────────────────────────────────────┤
+> Future Perfect         │ by + future time, by the time,
+> │ before, by next week
+> ├────────────────────────┼────────────────────────────────────────┤
+> Future Perfect Cont.   │ by, by the time, for, since
+> │ (with future reference)
 
 ---
 
@@ -690,25 +642,18 @@ Past Continuous (background, interrupted action):
 
 ### 9.1 Korean Has No Tense Marking Like English
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean tense system is much simpler:                         │
-│                                                                 │
-│   Korean has 3 main tenses:                                    │
-│   • Present: -ㄴ다/-는다  (간다, 먹는다)                         │
-│   • Past: -았/-었        (갔다, 먹었다)                          │
-│   • Future: -겠-/-ㄹ 것이다 (가겠다, 먹을 것이다)                 │
-│                                                                 │
-│   English has 12 tenses!                                       │
-│   Korean does NOT have:                                        │
-│   • Continuous aspect (am/is/are + -ing)                       │
-│   • Perfect aspect (have/has + past participle)                │
-│   • Perfect continuous                                         │
-│                                                                 │
-│   This is why Korean speakers often default to Simple tenses   │
-│   in English, ignoring continuous and perfect forms.            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean tense system is much simpler:
+> Korean has 3 main tenses:
+> • Present: -ㄴ다/-는다  (간다, 먹는다)
+> • Past: -았/-었        (갔다, 먹었다)
+> • Future: -겠-/-ㄹ 것이다 (가겠다, 먹을 것이다)
+> English has 12 tenses!
+> Korean does NOT have:
+> • Continuous aspect (am/is/are + -ing)
+> • Perfect aspect (have/has + past participle)
+> • Perfect continuous
+> This is why Korean speakers often default to Simple tenses
+> in English, ignoring continuous and perfect forms.
 
 ### 9.2 Top 10 Errors
 
@@ -877,28 +822,25 @@ checked (past perfect — she hadn't done this before) there before!
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    The 12 English Tenses                        │
-│                                                                 │
-│   PRESENT          │ PAST              │ FUTURE                │
-│   ─────────────────┼───────────────────┼─────────────────────  │
-│   work(s)          │ worked            │ will work             │
-│   am/is/are        │ was/were          │ will be               │
-│     working        │   working         │   working             │
-│   have/has         │ had               │ will have             │
-│     worked         │   worked          │   worked              │
-│   have/has been    │ had been          │ will have been        │
-│     working        │   working         │   working             │
-│                                                                 │
-│   Key Korean Speaker Tips:                                     │
-│   1. Use Present Perfect with since/for (not Simple Present)   │
-│   2. Don't use continuous with stative verbs                   │
-│   3. Use Simple Past with specific past times                  │
-│   4. No "will" in time clauses (when, before, after, until)    │
-│   5. Use Past Perfect for the earlier of two past events       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The 12 English Tenses**
+>
+> | PRESENT | PAST | FUTURE |
+> |---|---|---|
+> | work(s) | worked | will work |
+> | am/is/are | was/were | will be |
+> | working | working | working |
+> | have/has | had | will have |
+> | worked | worked | worked |
+> | have/has been | had been | will have been |
+> | working | working | working |
+>
+> ─────────────────┼───────────────────┼─────────────────────
+> Key Korean Speaker Tips:
+> 1. Use Present Perfect with since/for (not Simple Present)
+> 2. Don't use continuous with stative verbs
+> 3. Use Simple Past with specific past times
+> 4. No "will" in time clauses (when, before, after, until)
+> 5. Use Past Perfect for the earlier of two past events
 
 ---
 
