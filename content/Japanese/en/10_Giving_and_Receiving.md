@@ -42,29 +42,25 @@
 
 English has one word for "give" and one for "receive." Japanese has **three verbs** that encode not only the action of giving and receiving, but also the **direction** of the action relative to the speaker and the **social relationship** between the people involved.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│          THE JAPANESE GIVING/RECEIVING SYSTEM                 │
-│                                                              │
-│   English: "give" / "receive"  — 2 verbs, direction-neutral │
-│                                                              │
-│   Japanese: 3 verbs that encode PERSPECTIVE                  │
-│                                                              │
-│   あげる (ageru)  — I/someone gives TO someone else          │
-│                     Direction: speaker → other               │
-│                     (or: third party → third party)          │
-│                                                              │
-│   もらう (morau)  — I/someone receives FROM someone          │
-│                     Direction: other → speaker               │
-│                                                              │
-│   くれる (kureru) — Someone gives TO me/my in-group          │
-│                     Direction: other → speaker               │
-│                     (emphasizes the GIVER's action)          │
-│                                                              │
-│   ※ This system reflects Japanese cultural awareness of      │
-│     social positioning and gratitude.                        │
-└──────────────────────────────────────────────────────────────┘
-```
+> **THE JAPANESE GIVING/RECEIVING SYSTEM**
+>
+> - **English**: "give" / "receive"  — 2 verbs, direction-neutral
+>
+> - **Japanese**: 3 verbs that encode PERSPECTIVE
+>
+> あげる (ageru)  — I/someone gives TO someone else
+> - **Direction**: speaker → other
+> - **(or**: third party → third party)
+>
+> もらう (morau)  — I/someone receives FROM someone
+> - **Direction**: other → speaker
+>
+> くれる (kureru) — Someone gives TO me/my in-group
+> - **Direction**: other → speaker
+> (emphasizes the GIVER's action)
+>
+> ※ This system reflects Japanese cultural awareness of
+> social positioning and gratitude.
 
 ---
 
@@ -196,26 +192,22 @@ The teacher gave my younger sister a dictionary.
 
 ### 4.3 あげる vs くれる — The Key Difference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│            あげる vs くれる                                    │
-│                                                              │
-│   Same event seen from different perspectives:               │
-│                                                              │
-│   私は田中さんに本をあげた。                                 │
-│   I gave Tanaka-san a book. (I am the giver → あげる)       │
-│                                                              │
-│   田中さんは私に本をくれた。                                 │
-│   Tanaka-san gave me a book. (I am the receiver → くれる)   │
-│                                                              │
-│   Think of it as:                                            │
-│   あげる = giving AWAY from me  ←── me ──→ (outward)        │
-│   くれる = giving TOWARD me     (inward) ──→ me             │
-│                                                              │
-│   ※ NEVER say: 田中さんは私に本をあげた。                   │
-│     (This is grammatically odd — it should be くれた.)       │
-└──────────────────────────────────────────────────────────────┘
-```
+> **あげる vs くれる**
+>
+> Same event seen from different perspectives:
+>
+> 私は田中さんに本をあげた。
+> I gave Tanaka-san a book. (I am the giver → あげる)
+>
+> 田中さんは私に本をくれた。
+> Tanaka-san gave me a book. (I am the receiver → くれる)
+>
+> Think of it as:
+> あげる = giving AWAY from me  ←── me ──→ (outward)
+> くれる = giving TOWARD me     (inward) ──→ me
+>
+> - **※ NEVER say**: 田中さんは私に本をあげた。
+> (This is grammatically odd — it should be くれた.)
 
 ---
 
@@ -223,24 +215,19 @@ The teacher gave my younger sister a dictionary.
 
 ### 5.1 The Triangle Model
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                    SPEAKER (私)                               │
-│                   /          \                                │
-│        くれる   /              \   あげる                     │
-│        (to me)/                \  (from me)                  │
-│              /                  \                             │
-│            ↓                    ↓                             │
-│        OTHER PERSON  ────────→  OTHER PERSON                 │
-│                       あげる                                  │
-│                   (third party to third party)               │
-│                                                              │
-│        もらう: always RECEIVER is the subject                │
-│        (I receive / someone receives)                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **SPEAKER (私)**
+> /          \
+> くれる   /              \   あげる
+> (to me)/                \  (from me)
+> /                  \
+> ↓                    ↓
+> OTHER PERSON  ────────→  OTHER PERSON
+> あげる
+> (third party to third party)
+>
+> - **もらう**: always RECEIVER is the subject
+> (I receive / someone receives)
+>
 
 ### 5.2 Same Situation, Three Ways to Say It
 
@@ -262,24 +249,20 @@ NOT possible:
 
 ### 5.3 Decision Flowchart
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         WHICH VERB SHOULD I USE?                              │
-│                                                              │
-│   Am I (or my in-group) the RECEIVER?                        │
-│     ├── YES → Is the focus on the GIVER's kindness?         │
-│     │         ├── YES → くれる                               │
-│     │         └── NO  → もらう                               │
-│     │                                                        │
-│     └── NO → Am I (or my in-group) the GIVER?               │
-│              ├── YES → あげる                                │
-│              └── NO  → あげる (third party → third party)   │
-│                                                              │
-│   Simple version:                                            │
-│   Giving outward  → あげる                                   │
-│   Getting inward  → もらう / くれる                          │
-└──────────────────────────────────────────────────────────────┘
-```
+> **WHICH VERB SHOULD I USE?**
+>
+> Am I (or my in-group) the RECEIVER?
+> ├── YES → Is the focus on the GIVER's kindness?
+> │         ├── YES → くれる
+> │         └── NO  → もらう
+> │
+> └── NO → Am I (or my in-group) the GIVER?
+> ├── YES → あげる
+> └── NO  → あげる (third party → third party)
+>
+> Simple version:
+> Giving outward  → あげる
+> Getting inward  → もらう / くれる
 
 ---
 
@@ -394,26 +377,22 @@ Tanaka-san lent me a book.
 
 Both express that someone did something beneficial for the speaker, but from different angles:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│          てくれる vs てもらう                                  │
-│                                                              │
-│   友達が手伝ってくれた。                                     │
-│   My friend helped me. (Focus on friend's kind ACTION)       │
-│   Subject: 友達 (the doer)                                   │
-│                                                              │
-│   友達に手伝ってもらった。                                   │
-│   I had my friend help me. (Focus on MY receiving benefit)   │
-│   Subject: 私 (the beneficiary)                              │
-│                                                              │
-│   Both express gratitude. The difference is PERSPECTIVE:     │
-│   てくれる → "They did it FOR me" (praising the doer)        │
-│   てもらう → "I got them to do it" (focus on my benefit)     │
-│                                                              │
-│   In daily conversation, てくれる is slightly more common    │
-│   when simply expressing gratitude.                          │
-└──────────────────────────────────────────────────────────────┘
-```
+> **てくれる vs てもらう**
+>
+> 友達が手伝ってくれた。
+> My friend helped me. (Focus on friend's kind ACTION)
+> - **Subject**: 友達 (the doer)
+>
+> 友達に手伝ってもらった。
+> I had my friend help me. (Focus on MY receiving benefit)
+> - **Subject**: 私 (the beneficiary)
+>
+> Both express gratitude. The difference is PERSPECTIVE:
+> てくれる → "They did it FOR me" (praising the doer)
+> てもらう → "I got them to do it" (focus on my benefit)
+>
+> In daily conversation, てくれる is slightly more common
+> when simply expressing gratitude.
 
 ---
 
@@ -447,24 +426,20 @@ I gave it to the department head. (humble あげる)
 
 ### 9.2 Social Hierarchy and Verb Choice
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         SOCIAL FLOW OF GIVING                                │
-│                                                              │
-│   Higher status → Lower status:  くださる / くれる           │
-│   (teacher → student, boss → employee)                       │
-│                                                              │
-│   Lower status → Higher status:  さしあげる / あげる         │
-│   (student → teacher, employee → boss)                       │
-│                                                              │
-│   Equal status: あげる / もらう / くれる (standard forms)    │
-│                                                              │
-│   ※ Using あげる toward a superior can sound presumptuous.   │
-│     Use さしあげる in formal contexts.                       │
-│   ※ Using くれる about a superior's action is fine casually, │
-│     but use くださる in formal contexts.                     │
-└──────────────────────────────────────────────────────────────┘
-```
+> **SOCIAL FLOW OF GIVING**
+>
+> - **Higher status → Lower status**: くださる / くれる
+> (teacher → student, boss → employee)
+>
+> - **Lower status → Higher status**: さしあげる / あげる
+> (student → teacher, employee → boss)
+>
+> - **Equal status**: あげる / もらう / くれる (standard forms)
+>
+> ※ Using あげる toward a superior can sound presumptuous.
+> Use さしあげる in formal contexts.
+> ※ Using くれる about a superior's action is fine casually,
+> but use くださる in formal contexts.
 
 ### 9.3 Common Mistakes by Learners
 
@@ -703,45 +678,41 @@ For each scenario, write a Japanese sentence using the appropriate giving/receiv
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│       GIVING & RECEIVING CHEAT SHEET (授受表現まとめ)         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  BASIC VERBS                                                 │
-│  あげる  I/someone gives TO someone (outward)                │
-│          私は田中さんに本をあげた。                          │
-│  もらう  I/someone receives FROM someone                     │
-│          私は田中さんに本をもらった。                        │
-│  くれる  Someone gives TO me/my in-group (inward)            │
-│          田中さんが私に本をくれた。                          │
-│                                                              │
-│  TE-FORM EXTENSIONS (favors)                                 │
-│  てあげる  I do a favor FOR someone                          │
-│            教えてあげた (I taught them)                       │
-│  てもらう  I have/get someone to do FOR me                   │
-│            教えてもらった (I got them to teach me)            │
-│  てくれる  Someone does a favor FOR me                       │
-│            教えてくれた (They taught me — grateful)           │
-│                                                              │
-│  POLITE REQUEST: てもらえますか (Could you do... for me?)    │
-│                                                              │
-│  DIRECTION RULE                                              │
-│  Speaker → Other:  あげる / てあげる                         │
-│  Other → Speaker:  くれる / てくれる / もらう / てもらう     │
-│                                                              │
-│  COMMON MISTAKES                                             │
-│  ✗ 田中さんが私にあげた → ✓ くれた (giving TO me)           │
-│  ✗ 私が友達にてくれた → ✓ てあげた (I do for someone)       │
-│  ✗ Animals にくれた → ✓ にあげた (giving to animals)        │
-│                                                              │
-│  FORMAL VERSIONS (Lesson 14)                                 │
-│  あげる → さしあげる (humble)                                │
-│  もらう → いただく (humble)                                  │
-│  くれる → くださる (honorific)                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **GIVING & RECEIVING CHEAT SHEET (授受表現まとめ)**
+> ├──────────────────────────────────────────────────────────────┤
+>
+> BASIC VERBS
+> あげる  I/someone gives TO someone (outward)
+> 私は田中さんに本をあげた。
+> もらう  I/someone receives FROM someone
+> 私は田中さんに本をもらった。
+> くれる  Someone gives TO me/my in-group (inward)
+> 田中さんが私に本をくれた。
+>
+> TE-FORM EXTENSIONS (favors)
+> てあげる  I do a favor FOR someone
+> 教えてあげた (I taught them)
+> てもらう  I have/get someone to do FOR me
+> 教えてもらった (I got them to teach me)
+> てくれる  Someone does a favor FOR me
+> 教えてくれた (They taught me — grateful)
+>
+> - **POLITE REQUEST**: てもらえますか (Could you do... for me?)
+>
+> DIRECTION RULE
+> - **Speaker → Other**: あげる / てあげる
+> - **Other → Speaker**: くれる / てくれる / もらう / てもらう
+>
+> COMMON MISTAKES
+> ✗ 田中さんが私にあげた → ✓ くれた (giving TO me)
+> ✗ 私が友達にてくれた → ✓ てあげた (I do for someone)
+> ✗ Animals にくれた → ✓ にあげた (giving to animals)
+>
+> FORMAL VERSIONS (Lesson 14)
+> あげる → さしあげる (humble)
+> もらう → いただく (humble)
+> くれる → くださる (honorific)
+>
 
 ---
 
