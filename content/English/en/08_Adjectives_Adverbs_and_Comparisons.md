@@ -25,25 +25,18 @@
 
 ### 1.1 Key Differences
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean adjectives BEHAVE LIKE VERBS:                          │
-│   크다 (to be big), 작다 (to be small), 빠르다 (to be fast)     │
-│   They conjugate: 크다, 큰, 컸다, 클 것이다                      │
-│                                                                 │
-│   English adjectives are SEPARATE WORDS (no conjugation):       │
-│   big, small, fast — they NEVER change form for tense           │
-│   "She is big." "She was big." "She will be big."              │
-│   → "big" stays "big" in all tenses!                           │
-│                                                                 │
-│   Korean: 큰 집 (adjective modifies noun with ㄴ/은)             │
-│   English: a big house (adjective goes directly before noun)    │
-│                                                                 │
-│   Korean: 그 집은 크다 (adjective acts as the main verb)         │
-│   English: The house IS big. (adjective needs BE verb)          │
-│   ※ "The house big." ✗ — MUST have a linking verb!            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean adjectives BEHAVE LIKE VERBS:
+> 크다 (to be big), 작다 (to be small), 빠르다 (to be fast)
+> They conjugate: 크다, 큰, 컸다, 클 것이다
+> English adjectives are SEPARATE WORDS (no conjugation):
+> big, small, fast — they NEVER change form for tense
+> "She is big." "She was big." "She will be big."
+> → "big" stays "big" in all tenses!
+> Korean: 큰 집 (adjective modifies noun with ㄴ/은)
+> English: a big house (adjective goes directly before noun)
+> Korean: 그 집은 크다 (adjective acts as the main verb)
+> English: The house IS big. (adjective needs BE verb)
+> ※ "The house big." ✗ — MUST have a linking verb!
 
 ---
 
@@ -101,33 +94,26 @@ Only AFTER verb (predicative only):
 
 ### 3.1 The OSASCOMP Rule
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   When multiple adjectives come before a noun, they follow      │
-│   a specific order (native speakers do this intuitively):       │
-│                                                                 │
-│   O - Opinion    (beautiful, nice, ugly, delicious)             │
-│   S - Size       (big, small, tall, short, long)                │
-│   A - Age        (old, young, new, ancient)                     │
-│   S - Shape      (round, square, flat, wide)                    │
-│   C - Color      (red, blue, green, dark)                       │
-│   O - Origin     (Korean, American, Japanese, French)           │
-│   M - Material   (wooden, metal, cotton, plastic)               │
-│   P - Purpose    (sleeping [bag], running [shoes])              │
-│                                                                 │
-│   Examples:                                                     │
-│   "a beautiful big old round red Korean wooden dining table"    │
-│    Opinion  Size Age Shape Color Origin Material Purpose Noun   │
-│                                                                 │
-│   In practice, you rarely use more than 2-3 adjectives:        │
-│   "a beautiful old house"      (Opinion + Age)                  │
-│   "a small red car"            (Size + Color)                   │
-│   "a tall young Korean man"    (Size + Age + Origin)            │
-│                                                                 │
-│   ※ Korean: 아름다운 큰 오래된 빨간 한국의 나무 식탁              │
-│     Korean order is more flexible, but English order is fixed!  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **When multiple adjectives come before a noun, they follow**
+>
+> a specific order (native speakers do this intuitively):
+> O - Opinion    (beautiful, nice, ugly, delicious)
+> S - Size       (big, small, tall, short, long)
+> A - Age        (old, young, new, ancient)
+> S - Shape      (round, square, flat, wide)
+> C - Color      (red, blue, green, dark)
+> O - Origin     (Korean, American, Japanese, French)
+> M - Material   (wooden, metal, cotton, plastic)
+> P - Purpose    (sleeping [bag], running [shoes])
+> Examples:
+> "a beautiful big old round red Korean wooden dining table"
+> Opinion  Size Age Shape Color Origin Material Purpose Noun
+> In practice, you rarely use more than 2-3 adjectives:
+> "a beautiful old house"      (Opinion + Age)
+> "a small red car"            (Size + Color)
+> "a tall young Korean man"    (Size + Age + Origin)
+> ※ Korean: 아름다운 큰 오래된 빨간 한국의 나무 식탁
+> Korean order is more flexible, but English order is fixed!
 
 ### 3.2 Quick Examples
 
@@ -148,31 +134,23 @@ Only AFTER verb (predicative only):
 
 ### 4.1 Rules for Forming Comparatives
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   One-syllable adjectives → add -er:                            │
-│   tall → taller     old → older     fast → faster               │
-│   cheap → cheaper   long → longer   young → younger             │
-│                                                                 │
-│   One-syllable ending CVC → double + -er:                       │
-│   big → bigger      hot → hotter    thin → thinner              │
-│   fat → fatter      wet → wetter    sad → sadder                │
-│                                                                 │
-│   Two-syllable ending -y → change to -ier:                      │
-│   happy → happier   easy → easier   busy → busier               │
-│   early → earlier   heavy → heavier  funny → funnier            │
-│                                                                 │
-│   Two+ syllable adjectives → more + adjective:                  │
-│   beautiful → more beautiful                                    │
-│   expensive → more expensive                                    │
-│   important → more important                                    │
-│   interesting → more interesting                                │
-│   comfortable → more comfortable                                │
-│                                                                 │
-│   ※ NEVER double: "more bigger" ✗ "more taller" ✗             │
-│     Use EITHER -er OR more, NEVER both!                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> One-syllable adjectives → add -er:
+> tall → taller     old → older     fast → faster
+> cheap → cheaper   long → longer   young → younger
+> One-syllable ending CVC → double + -er:
+> big → bigger      hot → hotter    thin → thinner
+> fat → fatter      wet → wetter    sad → sadder
+> Two-syllable ending -y → change to -ier:
+> happy → happier   easy → easier   busy → busier
+> early → earlier   heavy → heavier  funny → funnier
+> Two+ syllable adjectives → more + adjective:
+> beautiful → more beautiful
+> expensive → more expensive
+> important → more important
+> interesting → more interesting
+> comfortable → more comfortable
+> ※ NEVER double: "more bigger" ✗ "more taller" ✗
+> Use EITHER -er OR more, NEVER both!
 
 ### 4.2 Using Comparatives
 
@@ -267,26 +245,20 @@ Pattern: the + adjective-est / the most + adjective + (in/of)
 
 ### 6.1 The Irregulars
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Adjective    Comparative    Superlative                       │
-│   ─────────    ───────────    ───────────                       │
-│   good         better         the best                          │
-│   bad          worse          the worst                         │
-│   far          farther/further the farthest/furthest            │
-│   little       less           the least                         │
-│   much/many    more           the most                          │
-│   old          older/elder    the oldest/eldest                  │
-│                                                                 │
-│   ※ "gooder" ✗  "badder" ✗  "more good" ✗  "more bad" ✗      │
-│     These are ALWAYS irregular — memorize them!                │
-│                                                                 │
-│   farther = physical distance: "Seoul is farther than Suwon."  │
-│   further = additional/more:   "We need further information."  │
-│   elder = family members:      "my elder brother" (형/언니)      │
-│   older = general:             "She is older than me."         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Adjective    Comparative    Superlative**
+>
+> good         better         the best
+> bad          worse          the worst
+> far          farther/further the farthest/furthest
+> little       less           the least
+> much/many    more           the most
+> old          older/elder    the oldest/eldest
+> ※ "gooder" ✗  "badder" ✗  "more good" ✗  "more bad" ✗
+> These are ALWAYS irregular — memorize them!
+> farther = physical distance: "Seoul is farther than Suwon."
+> further = additional/more:   "We need further information."
+> elder = family members:      "my elder brother" (형/언니)
+> older = general:             "She is older than me."
 
 ---
 
@@ -357,28 +329,21 @@ Spelling changes:
 
 ### 8.2 Irregular Adverbs
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Adjective → Adverb (same form or irregular):                  │
-│                                                                 │
-│   good → well         "She speaks English well."                │
-│   fast → fast         "He runs fast."  (NOT "fastly")          │
-│   hard → hard         "She works hard." (NOT "hardly")         │
-│   late → late         "He arrived late."                        │
-│   early → early       "She woke up early."                     │
-│   straight → straight "Go straight."                           │
-│                                                                 │
-│   ※ hard vs hardly:                                            │
-│     "She works hard."    = 열심히 일한다 (diligently)            │
-│     "She hardly works."  = 거의 일 안 한다 (barely)              │
-│     These mean OPPOSITE things!                                │
-│                                                                 │
-│   ※ late vs lately:                                            │
-│     "He arrived late."   = 늦게 도착했다 (not on time)           │
-│     "I've been busy lately." = 최근에 바빴다 (recently)          │
-│     Different meanings!                                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Adjective → Adverb (same form or irregular):
+> good → well         "She speaks English well."
+> fast → fast         "He runs fast."  (NOT "fastly")
+> hard → hard         "She works hard." (NOT "hardly")
+> late → late         "He arrived late."
+> early → early       "She woke up early."
+> straight → straight "Go straight."
+> ※ hard vs hardly:
+> "She works hard."    = 열심히 일한다 (diligently)
+> "She hardly works."  = 거의 일 안 한다 (barely)
+> These mean OPPOSITE things!
+> ※ late vs lately:
+> "He arrived late."   = 늦게 도착했다 (not on time)
+> "I've been busy lately." = 최근에 바빴다 (recently)
+> Different meanings!
 
 ### 8.3 Adverb Position
 
@@ -614,29 +579,22 @@ Put the adjectives in the correct order.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          Adjectives & Adverbs Quick Guide                       │
-│                                                                 │
-│   Adjective position: before noun / after linking verb          │
-│   Multiple adj order: Opinion-Size-Age-Shape-Color-Origin-      │
-│                       Material-Purpose (OSASCOMP)              │
-│                                                                 │
-│   Comparative: short adj → -er + than / long adj → more + than │
-│   Superlative: short adj → the -est / long adj → the most      │
-│   Irregular: good-better-best, bad-worse-worst                 │
-│   ※ NEVER "more better" or "most best"!                       │
-│                                                                 │
-│   Adverbs: adjective + -ly (slowly, carefully, beautifully)    │
-│   Irregular: good→well, fast→fast, hard→hard                   │
-│   ※ hard ≠ hardly, late ≠ lately                              │
-│                                                                 │
-│   as...as = same degree    not as...as = less degree            │
-│   enough: adj + enough / enough + noun                         │
-│   too: too + adj (excessive, negative meaning)                  │
-│   ※ English "too" ≠ Korean 너무 (너무 is often positive)       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Adjectives & Adverbs Quick Guide**
+>
+> Adjective position: before noun / after linking verb
+> Multiple adj order: Opinion-Size-Age-Shape-Color-Origin-
+> Material-Purpose (OSASCOMP)
+> Comparative: short adj → -er + than / long adj → more + than
+> Superlative: short adj → the -est / long adj → the most
+> Irregular: good-better-best, bad-worse-worst
+> ※ NEVER "more better" or "most best"!
+> Adverbs: adjective + -ly (slowly, carefully, beautifully)
+> Irregular: good→well, fast→fast, hard→hard
+> ※ hard ≠ hardly, late ≠ lately
+> as...as = same degree    not as...as = less degree
+> enough: adj + enough / enough + noun
+> too: too + adj (excessive, negative meaning)
+> ※ English "too" ≠ Korean 너무 (너무 is often positive)
 
 ---
 
