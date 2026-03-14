@@ -62,22 +62,17 @@
 
 When giving to someone of higher status, use **드리다** instead of 주다:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              Giving: 주다 vs. 드리다                            │
-│                                                               │
-│  주다 — Standard "to give"                                     │
-│  Used when giving to: peers, younger people, animals          │
-│  친구에게 선물을 줬어요.    (I gave a friend a present.)         │
-│                                                               │
-│  드리다 — Humble/Honorific "to give"                           │
-│  Used when giving to: elders, teachers, bosses, parents       │
-│  선생님께 선물을 드렸어요.  (I gave the teacher a present.)     │
-│                                                               │
-│  Key: Use 드리다 when you want to show respect to the          │
-│  recipient. It humbles the giver (you).                       │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Giving: 주다 vs. 드리다**
+>
+> **주다** — Standard "to give"
+> - Used when giving to: peers, younger people, animals
+> - 친구에게 선물을 줬어요. (I gave a friend a present.)
+>
+> **드리다** — Humble/Honorific "to give"
+> - Used when giving to: elders, teachers, bosses, parents
+> - 선생님께 선물을 드렸어요. (I gave the teacher a present.)
+>
+> Key: Use 드리다 when you want to show respect to the recipient. It humbles the giver (you).
 
 | Neutral | Honorific | Meaning |
 |---------|----------|---------|
@@ -171,25 +166,19 @@ Korean society places great importance on social hierarchy, and the language ref
 | 선배 | seonbae | senior | School or workplace — someone who entered before you |
 | 후배 | hubae | junior | School or workplace — someone who entered after you |
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              선배 / 후배 System                                 │
-│                                                               │
-│  This is NOT about age — it's about when you entered          │
-│  an organization (school, company, club).                     │
-│                                                               │
-│  Example at university:                                       │
-│  2022 입학 (enrolled 2022) → 선배 to 2023/2024 students       │
-│  2024 입학 (enrolled 2024) → 후배 to 2022/2023 students       │
-│                                                               │
-│  A 25-year-old who enrolled in 2024 would call                │
-│  a 22-year-old who enrolled in 2023 "선배."                    │
-│                                                               │
-│  Usage: 선배(님), used as a title or term of address           │
-│  "김 선배" = Senior Kim                                        │
-│  후배 is used to refer to juniors, not to address them.       │
-└──────────────────────────────────────────────────────────────┘
-```
+> **선배 / 후배 System**
+>
+> This is NOT about age -- it's about when you entered an organization (school, company, club).
+>
+> Example at university:
+> - 2022 입학 (enrolled 2022) → 선배 to 2023/2024 students
+> - 2024 입학 (enrolled 2024) → 후배 to 2022/2023 students
+>
+> A 25-year-old who enrolled in 2024 would call a 22-year-old who enrolled in 2023 "선배."
+>
+> - Usage: 선배(님), used as a title or term of address
+> - "김 선배" = Senior Kim
+> - 후배 is used to refer to juniors, not to address them.
 
 ### 3.2 Sibling Terms Used Socially
 
@@ -230,25 +219,19 @@ The sibling terms (형, 오빠, 누나, 언니) extend far beyond family:
 
 Korea traditionally used a unique age system, though it officially adopted the international system (만 나이) in June 2023.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              Korean Age Systems                                │
-│                                                               │
-│  만 나이 (International age) — NOW OFFICIAL                    │
-│  Your age based on your birthday                              │
-│  Born: 2000-06-15 → In March 2026 = 25 years old             │
-│                                                               │
-│  한국 나이 (Korean age) — TRADITIONAL (still used casually)    │
-│  You are 1 at birth, +1 every January 1st                     │
-│  Born: 2000-06-15 → In March 2026 = 27 years old             │
-│                                                               │
-│  Formula: 한국 나이 = Current year - Birth year + 1            │
-│                                                               │
-│  Since June 2023, 만 나이 is used for all legal/official      │
-│  purposes. But many Koreans still reference 한국 나이 in       │
-│  casual conversation.                                         │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Korean Age Systems**
+>
+> **만 나이 (International age) -- NOW OFFICIAL**
+> - Your age based on your birthday
+> - Born: 2000-06-15 → In March 2026 = 25 years old
+>
+> **한국 나이 (Korean age) -- TRADITIONAL (still used casually)**
+> - You are 1 at birth, +1 every January 1st
+> - Born: 2000-06-15 → In March 2026 = 27 years old
+>
+> Formula: 한국 나이 = Current year - Birth year + 1
+>
+> Since June 2023, 만 나이 is used for all legal/official purposes. But many Koreans still reference 한국 나이 in casual conversation.
 
 ### 4.2 Asking About Age
 
@@ -287,33 +270,26 @@ In Korea, your **birth year (년생, nyeonsaeng)** is as important as your name 
 
 ### 5.2 How to Address People
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              Korean Forms of Address                           │
-│                                                               │
-│  FORMAL / WORKPLACE:                                          │
-│  [Last name] + [Title]님                                      │
-│  김 부장님 (Department Head Kim)                               │
-│  박 교수님 (Professor Park)                                    │
-│                                                               │
-│  POLITE / GENERAL:                                            │
-│  [Full name] + 씨                                              │
-│  김민수 씨 (Mr./Ms. Kim Minsu)                                │
-│  ※ Using 씨 with LAST NAME ONLY is rude.                      │
-│  ✗ 김 씨 (rude)  ✓ 김민수 씨 (polite)                         │
-│                                                               │
-│  CASUAL / CLOSE:                                              │
-│  [First name] + 아/야                                          │
-│  Vowel ending: 민수야!  Consonant ending: 민정아!              │
-│  Used among close same-age friends (반말 relationship)         │
-│                                                               │
-│  STRANGERS / SERVICE:                                         │
-│  아저씨 (middle-aged man)                                      │
-│  아줌마 / 이모 (middle-aged woman)                              │
-│  학생 (student — used by adults to address young people)       │
-│  사장님 (shop owner, regardless of actual position)            │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Korean Forms of Address**
+>
+> **FORMAL / WORKPLACE:**
+> - [Last name] + [Title]님
+> - 김 부장님 (Department Head Kim), 박 교수님 (Professor Park)
+>
+> **POLITE / GENERAL:**
+> - [Full name] + 씨: 김민수 씨 (Mr./Ms. Kim Minsu)
+> - Using 씨 with LAST NAME ONLY is rude: 김 씨 (rude) vs. 김민수 씨 (polite)
+>
+> **CASUAL / CLOSE:**
+> - [First name] + 아/야
+> - Vowel ending: 민수야! / Consonant ending: 민정아!
+> - Used among close same-age friends (반말 relationship)
+>
+> **STRANGERS / SERVICE:**
+> - 아저씨 (middle-aged man)
+> - 아줌마 / 이모 (middle-aged woman)
+> - 학생 (student -- used by adults to address young people)
+> - 사장님 (shop owner, regardless of actual position)
 
 ### 5.3 -씨 Rules
 
@@ -351,30 +327,24 @@ Korean has a fundamental division between formal/polite speech (존댓말) and c
 
 ### 6.3 When to Use Which
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              When to Use 존댓말 vs. 반말                        │
-│                                                               │
-│  ALWAYS USE 존댓말:                                            │
-│  ✓ Meeting someone for the first time                         │
-│  ✓ Speaking to anyone older than you                          │
-│  ✓ Speaking to teachers, bosses, customers                    │
-│  ✓ Public/formal situations                                   │
-│  ✓ When in doubt                                              │
-│                                                               │
-│  YOU MAY USE 반말:                                             │
-│  ✓ With close friends born the same year (동갑)               │
-│  ✓ With people younger than you (after establishing rapport)  │
-│  ✓ With children                                              │
-│  ✓ After the older person says "말 놓으세요" (feel free to     │
-│    speak casually) or "반말해도 돼요" (you can use 반말)       │
-│                                                               │
-│  SWITCHING TO 반말:                                            │
-│  Common phrase: "우리 말 놓을까요?"                              │
-│  (Shall we speak casually to each other?)                     │
-│  This is a social agreement — both parties should consent.    │
-└──────────────────────────────────────────────────────────────┘
-```
+> **When to Use 존댓말 vs. 반말**
+>
+> **ALWAYS USE 존댓말:**
+> - Meeting someone for the first time
+> - Speaking to anyone older than you
+> - Speaking to teachers, bosses, customers
+> - Public/formal situations
+> - When in doubt
+>
+> **YOU MAY USE 반말:**
+> - With close friends born the same year (동갑)
+> - With people younger than you (after establishing rapport)
+> - With children
+> - After the older person says "말 놓으세요" (feel free to speak casually) or "반말해도 돼요" (you can use 반말)
+>
+> **SWITCHING TO 반말:**
+> - Common phrase: "우리 말 놓을까요?" (Shall we speak casually to each other?)
+> - This is a social agreement -- both parties should consent.
 
 ### 6.4 Social Consequences
 
