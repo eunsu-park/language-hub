@@ -31,17 +31,13 @@
 
 Passato prossimo(근과거)는 구어 이탈리아어에서 가장 흔한 과거 시제입니다. 과거의 **완료된** 동작을 설명합니다.
 
-```
-+----------------------------------------------------------+
-|  PASSATO PROSSIMO = 조동사 + 과거 분사                     |
-|                                                          |
-|  조동사: AVERE 또는 ESSERE의 현재형                        |
-|  + participio passato                                    |
-|                                                          |
-|  Ho mangiato.    (나는 먹었다.)                           |
-|  Sono andato/a.  (나는 갔다.)                             |
-+----------------------------------------------------------+
-```
+> **PASSATO PROSSIMO** = 조동사 + 과거 분사
+>
+> - **조동사**: AVERE 또는 ESSERE의 현재형
+> - \+ participio passato
+>
+> - Ho mangiato. (나는 먹었다.)
+> - Sono andato/a. (나는 갔다.)
 
 ### 현재 시제의 조동사
 
@@ -124,19 +120,15 @@ Passato prossimo(근과거)는 구어 이탈리아어에서 가장 흔한 과거
 
 ### 패턴 그룹
 
-```
-+----------------------------------------------------------+
-|  -ITTO 패턴:  scrivere → scritto, friggere → fritto       |
-|  -ETTO 패턴:  dire → detto, fare → fatto                  |
-|  -OSTO 패턴:  rispondere → risposto, porre → posto        |
-|  -ESTO 패턴:  chiedere → chiesto, rimanere → rimasto      |
-|  -ESO 패턴:   prendere → preso, accendere → acceso        |
-|  -USO 패턴:   chiudere → chiuso                           |
-|  -ERTO 패턴:  aprire → aperto, offrire → offerto          |
-|  -OLTO 패턴:  scegliere → scelto, togliere → tolto        |
-|  -INTO 패턴:  vincere → vinto, dipingere → dipinto        |
-+----------------------------------------------------------+
-```
+> - **-ITTO 패턴**: scrivere → scritto, friggere → fritto
+> - **-ETTO 패턴**: dire → detto, fare → fatto
+> - **-OSTO 패턴**: rispondere → risposto, porre → posto
+> - **-ESTO 패턴**: chiedere → chiesto, rimanere → rimasto
+> - **-ESO 패턴**: prendere → preso, accendere → acceso
+> - **-USO 패턴**: chiudere → chiuso
+> - **-ERTO 패턴**: aprire → aperto, offrire → offerto
+> - **-OLTO 패턴**: scegliere → scelto, togliere → tolto
+> - **-INTO 패턴**: vincere → vinto, dipingere → dipinto
 
 ---
 
@@ -159,24 +151,20 @@ Passato prossimo(근과거)는 구어 이탈리아어에서 가장 흔한 과거
 
 ### 빠른 판단 도표
 
-```
-+----------------------------------------------------------+
-|  동사가 직접 목적어를 취하는가?                              |
-|    예 → AVERE 사용                                        |
-|    아니오 → 아래 목록 확인:                                |
-|                                                          |
-|  재귀 동사인가? (mi lavo, si veste...)                    |
-|    예 → ESSERE 사용                                       |
-|                                                          |
-|  이동/변화 동사인가?                                      |
-|    예 → 보통 ESSERE                                       |
-|    아니오 → 보통 AVERE                                    |
-|                                                          |
-|  예외: 일부 동사는 의미에 따라 둘 다 사용!                  |
-|  - Ho corso per un'ora. (한 시간 동안 달렸다 — 활동)       |
-|  - Sono corso a casa. (집으로 달려갔다 — 목적지)           |
-+----------------------------------------------------------+
-```
+> 동사가 직접 목적어를 취하는가?
+> - 예 → AVERE 사용
+> - 아니오 → 아래 목록 확인:
+>
+> 재귀 동사인가? (mi lavo, si veste...)
+> - 예 → ESSERE 사용
+>
+> 이동/변화 동사인가?
+> - 예 → 보통 ESSERE
+> - 아니오 → 보통 AVERE
+>
+> **예외**: 일부 동사는 의미에 따라 둘 다 사용!
+> - Ho corso per un'ora. (한 시간 동안 달렸다 — 활동)
+> - Sono corso a casa. (집으로 달려갔다 — 목적지)
 
 ---
 
