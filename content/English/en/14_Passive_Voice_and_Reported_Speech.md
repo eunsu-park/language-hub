@@ -29,23 +29,17 @@
 
 ### 1.1 What is Voice?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Active vs Passive Voice                       │
-│                                                                 │
-│   Active Voice:  The subject PERFORMS the action                │
-│   → "The chef cooked the meal."                                 │
-│     Subject (chef) → Action (cooked) → Object (meal)           │
-│                                                                 │
-│   Passive Voice: The subject RECEIVES the action               │
-│   → "The meal was cooked by the chef."                          │
-│     Subject (meal) ← Action (was cooked) ← Agent (chef)        │
-│                                                                 │
-│   Korean Comparison:                                            │
-│   Active:  요리사가 음식을 요리했다.                                │
-│   Passive: 음식이 (요리사에 의해) 요리되었다.                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Active vs Passive Voice**
+>
+> Active Voice:  The subject PERFORMS the action
+> → "The chef cooked the meal."
+> Subject (chef) → Action (cooked) → Object (meal)
+> Passive Voice: The subject RECEIVES the action
+> → "The meal was cooked by the chef."
+> Subject (meal) ← Action (was cooked) ← Agent (chef)
+> Korean Comparison:
+> Active:  요리사가 음식을 요리했다.
+> Passive: 음식이 (요리사에 의해) 요리되었다.
 
 ### 1.2 Why Use the Passive Voice?
 
@@ -75,23 +69,17 @@ Avoiding blame:   "Mistakes were made."
 
 ### 2.1 The Basic Formula
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Passive Voice = BE + Past Participle (PP)             │
-│                                                                 │
-│   Subject + BE (conjugated) + Past Participle (+ by agent)     │
-│                                                                 │
-│   "The letter   was          written       by Maria."           │
-│    └─subject─┘  └─BE─┘       └──PP──┘     └─agent─┘            │
-│                                                                 │
-│   The form of BE changes to match the tense:                   │
-│   • Present:  am/is/are + PP                                   │
-│   • Past:     was/were + PP                                    │
-│   • Future:   will be + PP                                     │
-│   • Perfect:  have/has been + PP                               │
-│   • Modal:    can/must/should be + PP                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Passive Voice = BE + Past Participle (PP)**
+>
+> Subject + BE (conjugated) + Past Participle (+ by agent)
+> "The letter   was          written       by Maria."
+> └─subject─┘  └─BE─┘       └──PP──┘     └─agent─┘
+> The form of BE changes to match the tense:
+> • Present:  am/is/are + PP
+> • Past:     was/were + PP
+> • Future:   will be + PP
+> • Perfect:  have/has been + PP
+> • Modal:    can/must/should be + PP
 
 ### 2.2 Regular and Irregular Past Participles
 
@@ -168,42 +156,27 @@ Can be passive (transitive verbs):
 
 ### 4.1 When to Include the Agent
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     Include "by + agent" when:                  │
-│                                                                 │
-│   1. The agent provides NEW or IMPORTANT information           │
-│      "The Mona Lisa was painted by Leonardo da Vinci."         │
-│                                                                 │
-│   2. The identity of the agent is SURPRISING                   │
-│      "The window was broken by the teacher!"                   │
-│                                                                 │
-│   3. You need to SPECIFY who is responsible                    │
-│      "This report was written by the marketing team."          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Include "by + agent" when:
+> 1. The agent provides NEW or IMPORTANT information
+> "The Mona Lisa was painted by Leonardo da Vinci."
+> 2. The identity of the agent is SURPRISING
+> "The window was broken by the teacher!"
+> 3. You need to SPECIFY who is responsible
+> "This report was written by the marketing team."
 
 ### 4.2 When to Omit the Agent
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     Omit "by + agent" when:                     │
-│                                                                 │
-│   1. The agent is UNKNOWN                                      │
-│      "My wallet was stolen." (by someone unknown)              │
-│                                                                 │
-│   2. The agent is OBVIOUS                                      │
-│      "He was arrested." (obviously by police)                  │
-│                                                                 │
-│   3. The agent is UNIMPORTANT / GENERAL                        │
-│      "English is spoken in many countries."                    │
-│      (by people — too general to matter)                       │
-│                                                                 │
-│   4. The agent is "people," "someone," "they" (generic)        │
-│      "The building was constructed in 1990."                   │
-│      (by construction workers — obvious)                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Omit "by + agent" when:
+> 1. The agent is UNKNOWN
+> "My wallet was stolen." (by someone unknown)
+> 2. The agent is OBVIOUS
+> "He was arrested." (obviously by police)
+> 3. The agent is UNIMPORTANT / GENERAL
+> "English is spoken in many countries."
+> (by people — too general to matter)
+> 4. The agent is "people," "someone," "they" (generic)
+> "The building was constructed in 1990."
+> (by construction workers — obvious)
 
 ---
 
@@ -269,25 +242,19 @@ Common "get" passives:
 
 Used when you **arrange for someone else** to do something for you.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   have + object + past participle                               │
-│   get  + object + past participle                               │
-│                                                                 │
-│   "I had my hair cut."                                          │
-│   = I arranged for someone to cut my hair.                     │
-│   ≠ I cut my own hair.                                         │
-│                                                                 │
-│   "She got her car repaired."                                   │
-│   = She arranged for someone to repair her car.                │
-│                                                                 │
-│   More examples:                                               │
-│   "I need to have my eyes tested."                              │
-│   "We had the house painted last summer."                      │
-│   "You should get your teeth checked."                         │
-│   "He's getting his suit dry-cleaned."                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **have + object + past participle**
+>
+> get  + object + past participle
+> "I had my hair cut."
+> = I arranged for someone to cut my hair.
+> ≠ I cut my own hair.
+> "She got her car repaired."
+> = She arranged for someone to repair her car.
+> More examples:
+> "I need to have my eyes tested."
+> "We had the house painted last summer."
+> "You should get your teeth checked."
+> "He's getting his suit dry-cleaned."
 
 ### 6.3 It is said that... / He is said to...
 
@@ -317,22 +284,16 @@ Reporting what people say/believe (formal):
 
 ### 7.1 Direct vs Reported (Indirect) Speech
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Direct Speech:   Exact words inside quotation marks          │
-│   → She said, "I am tired."                                    │
-│                                                                 │
-│   Reported Speech: Restating someone's words without quotes    │
-│   → She said (that) she was tired.                              │
-│                                                                 │
-│   Key Changes:                                                  │
-│   1. Quotation marks are removed                               │
-│   2. Pronouns change (I → she)                                 │
-│   3. Tenses shift back (am → was) — "backshifting"             │
-│   4. Time/place words may change (today → that day)            │
-│   5. "That" is optional but common                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Direct Speech:   Exact words inside quotation marks
+> → She said, "I am tired."
+> Reported Speech: Restating someone's words without quotes
+> → She said (that) she was tired.
+> Key Changes:
+> 1. Quotation marks are removed
+> 2. Pronouns change (I → she)
+> 3. Tenses shift back (am → was) — "backshifting"
+> 4. Time/place words may change (today → that day)
+> 5. "That" is optional but common
 
 ### 7.2 Why Reported Speech Matters
 
@@ -350,41 +311,38 @@ Reported speech is essential for:
 
 When the reporting verb is in the **past tense** (said, told, asked), the tenses in the reported clause shift back:
 
-```
-┌───────────────────────────┬──────────────────────────────────┐
-│   Direct Speech            │   Reported Speech               │
-├───────────────────────────┼──────────────────────────────────┤
-│ Present Simple             │ Past Simple                      │
-│ "I like coffee."           │ She said she liked coffee.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ Present Continuous         │ Past Continuous                  │
-│ "I am studying."           │ He said he was studying.         │
-├───────────────────────────┼──────────────────────────────────┤
-│ Present Perfect            │ Past Perfect                     │
-│ "I have finished."         │ She said she had finished.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ Past Simple                │ Past Perfect                     │
-│ "I went to Seoul."         │ He said he had gone to Seoul.    │
-├───────────────────────────┼──────────────────────────────────┤
-│ Past Continuous            │ Past Perfect Continuous          │
-│ "I was reading."           │ She said she had been reading.   │
-├───────────────────────────┼──────────────────────────────────┤
-│ will                       │ would                            │
-│ "I will call you."         │ He said he would call me.        │
-├───────────────────────────┼──────────────────────────────────┤
-│ can                        │ could                            │
-│ "I can help."              │ She said she could help.         │
-├───────────────────────────┼──────────────────────────────────┤
-│ may                        │ might                            │
-│ "I may come."              │ He said he might come.           │
-├───────────────────────────┼──────────────────────────────────┤
-│ must                       │ had to                           │
-│ "I must leave."            │ She said she had to leave.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ shall                      │ should / would                   │
-│ "Shall I open it?"         │ He asked if he should open it.   │
-└───────────────────────────┴──────────────────────────────────┘
-```
+> **Direct Speech            │   Reported Speech**
+>
+> ├───────────────────────────┼──────────────────────────────────┤
+> Present Simple             │ Past Simple
+> "I like coffee."           │ She said she liked coffee.
+> ├───────────────────────────┼──────────────────────────────────┤
+> Present Continuous         │ Past Continuous
+> "I am studying."           │ He said he was studying.
+> ├───────────────────────────┼──────────────────────────────────┤
+> Present Perfect            │ Past Perfect
+> "I have finished."         │ She said she had finished.
+> ├───────────────────────────┼──────────────────────────────────┤
+> Past Simple                │ Past Perfect
+> "I went to Seoul."         │ He said he had gone to Seoul.
+> ├───────────────────────────┼──────────────────────────────────┤
+> Past Continuous            │ Past Perfect Continuous
+> "I was reading."           │ She said she had been reading.
+> ├───────────────────────────┼──────────────────────────────────┤
+> will                       │ would
+> "I will call you."         │ He said he would call me.
+> ├───────────────────────────┼──────────────────────────────────┤
+> can                        │ could
+> "I can help."              │ She said she could help.
+> ├───────────────────────────┼──────────────────────────────────┤
+> may                        │ might
+> "I may come."              │ He said he might come.
+> ├───────────────────────────┼──────────────────────────────────┤
+> must                       │ had to
+> "I must leave."            │ She said she had to leave.
+> ├───────────────────────────┼──────────────────────────────────┤
+> shall                      │ should / would
+> "Shall I open it?"         │ He asked if he should open it.
 
 ### 8.2 No Backshifting (Exceptions)
 
@@ -521,23 +479,18 @@ Advice:
 
 ### 10.1 Key Differences
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SAY                          │   TELL                         │
-│                                │                                │
-│   • No indirect object needed  │   • Needs an indirect object   │
-│   • say (that)...              │   • tell + person + (that)...  │
-│   • say + direct speech        │   • Cannot use with direct     │
-│                                │     speech quotes              │
-│                                │                                │
-│   ✓ He said (that) he was      │   ✓ He told me (that) he was   │
-│     tired.                     │     tired.                     │
-│   ✓ He said, "I'm tired."     │   ✗ He told, "I'm tired."      │
-│   ✗ He said me that...        │   ✓ He told me that...          │
-│   ✓ He said to me that...     │                                │
-│     (possible but less common) │                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SAY                          │   TELL**
+>
+> • No indirect object needed  │   • Needs an indirect object
+> • say (that)...              │   • tell + person + (that)...
+> • say + direct speech        │   • Cannot use with direct
+> │     speech quotes
+> ✓ He said (that) he was      │   ✓ He told me (that) he was
+> tired.                     │     tired.
+> ✓ He said, "I'm tired."     │   ✗ He told, "I'm tired."
+> ✗ He said me that...        │   ✓ He told me that...
+> ✓ He said to me that...     │
+> (possible but less common) │
 
 ### 10.2 Summary Rules
 
@@ -618,33 +571,24 @@ warn       He warned me not to be late.
 
 ### 12.1 Passive Voice Comparison
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean uses different passive constructions:                  │
-│                                                                 │
-│   1. -되다 (doeda) attached to Sino-Korean nouns:              │
-│      건설되다 (to be constructed), 발견되다 (to be discovered)    │
-│                                                                 │
-│   2. -받다 (batda) "receive" passive:                           │
-│      사랑받다 (to be loved), 존경받다 (to be respected)           │
-│                                                                 │
-│   3. Verb suffix passive (-이/-히/-리/-기):                     │
-│      잡다 → 잡히다 (catch → be caught)                          │
-│      열다 → 열리다 (open → be opened)                           │
-│                                                                 │
-│   Key Differences:                                             │
-│   • Korean passive is less common than in English              │
-│   • Korean speakers often overuse active voice in English      │
-│   • English passive is more structured (be + PP) and          │
-│     can be applied to almost any transitive verb               │
-│   • Korean word order (SOV) vs English passive (SVO)           │
-│     makes conversion tricky                                    │
-│                                                                 │
-│   Common Error:                                                │
-│   ✗ "The meeting was held" written as "The meeting held"       │
-│   ✓ Always include the BE verb in English passive!             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean uses different passive constructions:
+> 1. -되다 (doeda) attached to Sino-Korean nouns:
+> 건설되다 (to be constructed), 발견되다 (to be discovered)
+> 2. -받다 (batda) "receive" passive:
+> 사랑받다 (to be loved), 존경받다 (to be respected)
+> 3. Verb suffix passive (-이/-히/-리/-기):
+> 잡다 → 잡히다 (catch → be caught)
+> 열다 → 열리다 (open → be opened)
+> Key Differences:
+> • Korean passive is less common than in English
+> • Korean speakers often overuse active voice in English
+> • English passive is more structured (be + PP) and
+> can be applied to almost any transitive verb
+> • Korean word order (SOV) vs English passive (SVO)
+> makes conversion tricky
+> Common Error:
+> ✗ "The meeting was held" written as "The meeting held"
+> ✓ Always include the BE verb in English passive!
 
 ### 12.2 Reported Speech Comparison
 
@@ -837,31 +781,24 @@ Change to reported speech, choosing the correct form.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                Passive Voice & Reported Speech                  │
-│                                                                 │
-│   PASSIVE VOICE:                                               │
-│   Formula: Subject + BE (conjugated) + Past Participle         │
-│   Present:  is/are + PP    Past:  was/were + PP                │
-│   Perfect:  has/have been + PP   Future: will be + PP          │
-│   Modal:    can/must/should be + PP                            │
-│   Omit "by" when agent is unknown, obvious, or unimportant    │
-│                                                                 │
-│   REPORTED SPEECH:                                             │
-│   Statements: said (that) / told + person + (that)             │
-│   Questions:  asked + if/whether (yes/no)                      │
-│               asked + wh-word (wh-questions)                   │
-│   Commands:   told/asked + person + (not) to + infinitive      │
-│                                                                 │
-│   BACKSHIFTING: present→past, past→past perfect,               │
-│   will→would, can→could, may→might, must→had to               │
-│                                                                 │
-│   SAY vs TELL:                                                 │
-│   say — no person needed: "He said he was happy."              │
-│   tell — person required: "He told me he was happy."           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Passive Voice & Reported Speech**
+>
+> PASSIVE VOICE:
+> Formula: Subject + BE (conjugated) + Past Participle
+> Present:  is/are + PP    Past:  was/were + PP
+> Perfect:  has/have been + PP   Future: will be + PP
+> Modal:    can/must/should be + PP
+> Omit "by" when agent is unknown, obvious, or unimportant
+> REPORTED SPEECH:
+> Statements: said (that) / told + person + (that)
+> Questions:  asked + if/whether (yes/no)
+> asked + wh-word (wh-questions)
+> Commands:   told/asked + person + (not) to + infinitive
+> BACKSHIFTING: present→past, past→past perfect,
+> will→would, can→could, may→might, must→had to
+> SAY vs TELL:
+> say — no person needed: "He said he was happy."
+> tell — person required: "He told me he was happy."
 
 ---
 
