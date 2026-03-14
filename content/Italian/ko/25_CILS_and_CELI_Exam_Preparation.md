@@ -31,32 +31,25 @@
 
 ## 1. 이탈리아어 능력 시험 개요
 
-```
-+----------------------------------------------------------+
-|     이탈리아어 능력 시험                                     |
-+----------------------------------------------------------+
-|                                                          |
-|  국제적으로 인정되는 세 가지 주요 시험:                       |
-|                                                          |
-|  1. CILS — Certificazione di Italiano come              |
-|            Lingua Straniera                              |
-|     시행 기관: Università per Stranieri di Siena          |
-|                                                          |
-|  2. CELI — Certificato di Conoscenza della              |
-|            Lingua Italiana                               |
-|     시행 기관: Università per Stranieri di Perugia        |
-|                                                          |
-|  3. PLIDA — Progetto Lingua Italiana Dante Alighieri    |
-|     시행 기관: Società Dante Alighieri                    |
-|                                                          |
-|  세 시험 모두:                                             |
-|    - 이탈리아 교육부 인정                                   |
-|    - CEFR (A1-C2) 기준 부합                               |
-|    - 이탈리아 시민권 신청에 유효 (B1+)                       |
-|    - 이탈리아 대학에서 인정 (B2+)                            |
-|    - 전 세계 공인 센터에서 시행                              |
-+----------------------------------------------------------+
-```
+> **이탈리아어 능력 시험**
+>
+> 국제적으로 인정되는 세 가지 주요 시험:
+>
+> 1. **CILS** — Certificazione di Italiano come Lingua Straniera
+>    시행 기관: Università per Stranieri di Siena
+>
+> 2. **CELI** — Certificato di Conoscenza della Lingua Italiana
+>    시행 기관: Università per Stranieri di Perugia
+>
+> 3. **PLIDA** — Progetto Lingua Italiana Dante Alighieri
+>    시행 기관: Società Dante Alighieri
+>
+> 세 시험 모두:
+> - 이탈리아 교육부 인정
+> - CEFR (A1-C2) 기준 부합
+> - 이탈리아 시민권 신청에 유효 (B1+)
+> - 이탈리아 대학에서 인정 (B2+)
+> - 전 세계 공인 센터에서 시행
 
 ### CEFR 레벨 설명
 
@@ -75,33 +68,25 @@
 
 ### 2.1 개요
 
-```
-+----------------------------------------------------------+
-|  CILS — Certificazione di Italiano come Lingua Straniera |
-+----------------------------------------------------------+
-|                                                          |
-|  시행 기관: Università per Stranieri di Siena             |
-|  인정: 이탈리아 교육부 (MIUR)                              |
-|  유효기간: 평생 (만료 없음)                                 |
-|  레벨: A1, A2, B1 (Uno), B2 (Due), C1 (Tre),            |
-|        C2 (Quattro)                                      |
-|  특별 버전: CILS A1/A2 Integrazione                       |
-|    (이탈리아 체류 허가를 위한 이민자용)                       |
-|                                                          |
-|  시험 회차: 6월과 12월                                     |
-|  (일부 레벨은 4월과 10월에도 가능)                           |
-|                                                          |
-|  섹션 (5개 섹션):                                          |
-|  1. Ascolto (듣기)                                        |
-|  2. Comprensione della lettura (읽기)                     |
-|  3. Analisi delle strutture di comunicazione (문법)       |
-|  4. Produzione scritta (쓰기)                             |
-|  5. Produzione orale (말하기)                              |
-|                                                          |
-|  합격: 섹션별 최소 11/20점 (55%)                           |
-|  불합격 섹션만 재시험 가능.                                  |
-+----------------------------------------------------------+
-```
+> **CILS — Certificazione di Italiano come Lingua Straniera**
+>
+> - **시행 기관**: Università per Stranieri di Siena
+> - **인정**: 이탈리아 교육부 (MIUR)
+> - **유효기간**: 평생 (만료 없음)
+> - **레벨**: A1, A2, B1 (Uno), B2 (Due), C1 (Tre), C2 (Quattro)
+> - **특별 버전**: CILS A1/A2 Integrazione (이탈리아 체류 허가를 위한 이민자용)
+>
+> - **시험 회차**: 6월과 12월 (일부 레벨은 4월과 10월에도 가능)
+>
+> 섹션 (5개 섹션):
+> 1. Ascolto (듣기)
+> 2. Comprensione della lettura (읽기)
+> 3. Analisi delle strutture di comunicazione (문법)
+> 4. Produzione scritta (쓰기)
+> 5. Produzione orale (말하기)
+>
+> - **합격**: 섹션별 최소 11/20점 (55%)
+> - 불합격 섹션만 재시험 가능.
 
 ### 2.2 CILS 시험 시간 (레벨별)
 
@@ -130,36 +115,23 @@
 
 ### 3.1 개요
 
-```
-+----------------------------------------------------------+
-|  CELI — Certificato di Conoscenza della Lingua Italiana  |
-+----------------------------------------------------------+
-|                                                          |
-|  시행 기관: Università per Stranieri di Perugia           |
-|  인정: 이탈리아 교육부 (MIUR)                              |
-|  유효기간: 평생 (만료 없음)                                 |
-|  레벨:                                                    |
-|    CELI Impatto (A1)                                     |
-|    CELI 1 (A2)                                           |
-|    CELI 2 (B1)                                           |
-|    CELI 3 (B2)                                           |
-|    CELI 4 (C1)                                           |
-|    CELI 5 (C2)                                           |
-|                                                          |
-|  시험 회차: 6월과 11월                                     |
-|  (CELI Impatto와 CELI 1은 3월에도 가능)                    |
-|                                                          |
-|  섹션 (4개 섹션):                                          |
-|  섹션 A: 읽기 이해 + 문법                                  |
-|  섹션 B: 작문                                             |
-|  섹션 C: 듣기 이해                                        |
-|  섹션 D: 구술                                             |
-|                                                          |
-|  합격: 각 섹션 별도 채점.                                   |
-|  최소 점수로 각 섹션 합격.                                  |
-|  불합격 섹션은 개별 재시험 가능.                              |
-+----------------------------------------------------------+
-```
+> **CELI — Certificato di Conoscenza della Lingua Italiana**
+>
+> - **시행 기관**: Università per Stranieri di Perugia
+> - **인정**: 이탈리아 교육부 (MIUR)
+> - **유효기간**: 평생 (만료 없음)
+> - **레벨**: CELI Impatto (A1), CELI 1 (A2), CELI 2 (B1), CELI 3 (B2), CELI 4 (C1), CELI 5 (C2)
+>
+> - **시험 회차**: 6월과 11월 (CELI Impatto와 CELI 1은 3월에도 가능)
+>
+> 섹션 (4개 섹션):
+> - 섹션 A: 읽기 이해 + 문법
+> - 섹션 B: 작문
+> - 섹션 C: 듣기 이해
+> - 섹션 D: 구술
+>
+> - **합격**: 각 섹션 별도 채점. 최소 점수로 각 섹션 합격.
+> - 불합격 섹션은 개별 재시험 가능.
 
 ### 3.2 CELI 시험 시간 (레벨별)
 
@@ -187,32 +159,24 @@
 
 ### 4.1 개요
 
-```
-+----------------------------------------------------------+
-|  PLIDA — Progetto Lingua Italiana Dante Alighieri        |
-+----------------------------------------------------------+
-|                                                          |
-|  시행 기관: Società Dante Alighieri                        |
-|  인정: 이탈리아 교육부 (MIUR)                              |
-|        이탈리아 외무부                                     |
-|  유효기간: 평생 (만료 없음)                                 |
-|  레벨: A1, A2, B1, B2, C1, C2                            |
-|                                                          |
-|  시험 회차: 연간 여러 회 (센터에 따라 다름)                   |
-|  일반적으로: 5월, 6월, 11월                                |
-|                                                          |
-|  섹션 (4개 섹션):                                          |
-|  1. Ascoltare (듣기)                                      |
-|  2. Leggere (읽기)                                        |
-|  3. Scrivere (쓰기)                                       |
-|  4. Parlare (말하기)                                       |
-|                                                          |
-|  합격: 섹션별 최소 18/30점 (60%)                           |
-|  불합격 섹션은 18개월 이내 재시험 가능.                       |
-|                                                          |
-|  특별: PLIDA Juniores (13-18세용)                         |
-+----------------------------------------------------------+
-```
+> **PLIDA — Progetto Lingua Italiana Dante Alighieri**
+>
+> - **시행 기관**: Società Dante Alighieri
+> - **인정**: 이탈리아 교육부 (MIUR), 이탈리아 외무부
+> - **유효기간**: 평생 (만료 없음)
+> - **레벨**: A1, A2, B1, B2, C1, C2
+>
+> - **시험 회차**: 연간 여러 회 (센터에 따라 다름), 일반적으로 5월, 6월, 11월
+>
+> 섹션 (4개 섹션):
+> 1. Ascoltare (듣기)
+> 2. Leggere (읽기)
+> 3. Scrivere (쓰기)
+> 4. Parlare (말하기)
+>
+> - **합격**: 섹션별 최소 18/30점 (60%)
+> - 불합격 섹션은 18개월 이내 재시험 가능.
+> - **특별**: PLIDA Juniores (13-18세용)
 
 ---
 
@@ -238,32 +202,24 @@
 
 ### 6.1 요건
 
-```
-+----------------------------------------------------------+
-|     이탈리아 시민권을 위한 언어 요건                          |
-+----------------------------------------------------------+
-|                                                          |
-|  2018년 12월부터 (Decreto Sicurezza):                     |
-|                                                          |
-|  최소 레벨: B1 (CEFR)                                     |
-|                                                          |
-|  인정되는 자격증:                                           |
-|    - CILS B1 (Uno) 이상                                   |
-|    - CELI 2 (B1) 이상                                     |
-|    - PLIDA B1 이상                                        |
-|    - 이탈리아 대학 수료증                                   |
-|      (B1+ 레벨 과정 포함)                                  |
-|                                                          |
-|  면제:                                                    |
-|    - 이탈리아 교육 자격증 소지자                             |
-|    - "accordo di integrazione" 서명 후                    |
-|      관련 학점을 취득한 자                                  |
-|    - 이탈리아 장기 체류 허가                                |
-|      (permesso di soggiorno di lungo periodo) 소지자      |
-|                                                          |
-|  비용: 시험 센터에 따라 다름 (일반적으로 €50-€150)           |
-+----------------------------------------------------------+
-```
+> **이탈리아 시민권을 위한 언어 요건**
+>
+> 2018년 12월부터 (Decreto Sicurezza):
+>
+> - **최소 레벨**: B1 (CEFR)
+>
+> **인정되는 자격증:**
+> - CILS B1 (Uno) 이상
+> - CELI 2 (B1) 이상
+> - PLIDA B1 이상
+> - 이탈리아 대학 수료증 (B1+ 레벨 과정 포함)
+>
+> **면제:**
+> - 이탈리아 교육 자격증 소지자
+> - "accordo di integrazione" 서명 후 관련 학점을 취득한 자
+> - 이탈리아 장기 체류 허가 (permesso di soggiorno di lungo periodo) 소지자
+>
+> - **비용**: 시험 센터에 따라 다름 (일반적으로 €50-€150)
 
 ### 6.2 B1 레벨의 의미
 
