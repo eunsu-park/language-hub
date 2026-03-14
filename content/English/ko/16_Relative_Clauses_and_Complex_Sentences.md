@@ -29,20 +29,15 @@
 
 관계절은 명사를 수식하는 종속절의 한 종류입니다. 명사에 대한 추가 정보를 제공하며, 관계대명사(who, which, that, whose, where, when)로 시작합니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   주절:       "I met the woman."                                │
-│   관계절:     "who lives next door"                              │
-│   결합:       "I met the woman who lives next door."             │
-│                                └──────────────────┘             │
-│                                관계절                            │
-│                                ("woman"을 수식)                   │
-│                                                                 │
-│   관계절에 의해 수식되는 명사를                                     │
-│   선행사(ANTECEDENT)라고 합니다.                                   │
-│   선행사: "the woman"                                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 주절:       "I met the woman."
+> 관계절:     "who lives next door"
+> 결합:       "I met the woman who lives next door."
+> └──────────────────┘
+> 관계절
+> ("woman"을 수식)
+> 관계절에 의해 수식되는 명사를
+> 선행사(ANTECEDENT)라고 합니다.
+> 선행사: "the woman"
 
 ### 1.2 관계절의 두 가지 유형
 
@@ -105,23 +100,17 @@
 
 ### 3.1 특성
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한정적 관계절 (Defining Relative Clauses):                      │
-│                                                                 │
-│   • 쉼표 없음                                                    │
-│   • 필수 정보 — 명사를 특정                                       │
-│   • who, which, that, whose, where, when 사용 가능               │
-│   • "that"가 "who"나 "which"를 대체 가능                          │
-│   • 관계대명사가 목적어일 때 생략 가능                               │
-│   • 절을 제거하면 의미가 바뀜                                      │
-│                                                                 │
-│   "The man who stole my car was arrested."                      │
-│   → 어떤 남자? 내 차를 훔친 남자.                                  │
-│   → 관계절 없이: "The man was arrested."                          │
-│     (어떤 남자? 알 수 없음!)                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한정적 관계절 (Defining Relative Clauses):
+> • 쉼표 없음
+> • 필수 정보 — 명사를 특정
+> • who, which, that, whose, where, when 사용 가능
+> • "that"가 "who"나 "which"를 대체 가능
+> • 관계대명사가 목적어일 때 생략 가능
+> • 절을 제거하면 의미가 바뀜
+> "The man who stole my car was arrested."
+> → 어떤 남자? 내 차를 훔친 남자.
+> → 관계절 없이: "The man was arrested."
+> (어떤 남자? 알 수 없음!)
 
 ### 3.2 주격 관계절 vs 목적격 관계절
 
@@ -160,22 +149,16 @@
 
 ### 4.1 특성
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   비한정적 관계절 (Non-Defining Relative Clauses):                │
-│                                                                 │
-│   • 쉼표 사용 (절 앞뒤에)                                        │
-│   • 추가 정보 — 특정을 위해 필수적이지 않음                         │
-│   • who, which, whose, where, when 사용 가능                    │
-│   • "that" 사용 불가                                             │
-│   • 관계대명사 생략 불가                                           │
-│   • 절을 제거해도 핵심 의미 변하지 않음                              │
-│                                                                 │
-│   "My mother, who is 60 years old, still works."                │
-│   → 어머니는 한 분 — "who is 60"은 추가 정보                      │
-│   → 절 없이: "My mother still works." (여전히 의미 통함)           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 비한정적 관계절 (Non-Defining Relative Clauses):
+> • 쉼표 사용 (절 앞뒤에)
+> • 추가 정보 — 특정을 위해 필수적이지 않음
+> • who, which, whose, where, when 사용 가능
+> • "that" 사용 불가
+> • 관계대명사 생략 불가
+> • 절을 제거해도 핵심 의미 변하지 않음
+> "My mother, who is 60 years old, still works."
+> → 어머니는 한 분 — "who is 60"은 추가 정보
+> → 절 없이: "My mother still works." (여전히 의미 통함)
 
 ### 4.2 일반적인 용법
 
@@ -213,26 +196,18 @@
 
 ### 5.1 언제 생략할 수 있는가?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   관계대명사를 생략할 수 있는 조건:                                 │
-│                                                                 │
-│   1. 관계절의 목적어일 때                                          │
-│   2. 한정적 관계절일 때                                            │
-│                                                                 │
-│   목적어 (생략 가능):                                              │
-│   "The book (that/which) I read was great."                      │
-│   "The person (who/whom) she married is Korean."                 │
-│                                                                 │
-│   주어 (생략 불가):                                                │
-│   ✗ "The man ___ lives here is nice."                            │
-│   ✓ "The man who lives here is nice."                            │
-│                                                                 │
-│   비한정적 (생략 불가):                                            │
-│   ✗ "My sister, ___ is a doctor, called me."                     │
-│   ✓ "My sister, who is a doctor, called me."                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 관계대명사를 생략할 수 있는 조건:
+> 1. 관계절의 목적어일 때
+> 2. 한정적 관계절일 때
+> 목적어 (생략 가능):
+> "The book (that/which) I read was great."
+> "The person (who/whom) she married is Korean."
+> 주어 (생략 불가):
+> ✗ "The man ___ lives here is nice."
+> ✓ "The man who lives here is nice."
+> 비한정적 (생략 불가):
+> ✗ "My sister, ___ is a doctor, called me."
+> ✓ "My sister, who is a doctor, called me."
 
 ### 5.2 주격과 목적격 구별법
 
@@ -461,21 +436,14 @@ why:        "Explain why you were late."
 
 ### 10.1 근본적인 차이
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어: 전치수식 (수식어가 명사 앞에)                              │
-│   영어: 후치수식 (관계절이 명사 뒤에)                                │
-│                                                                 │
-│   한국어:  [어제 내가 산] 책이 재미있다.                             │
-│            [yesterday I bought] book is interesting              │
-│            └──수식어──┘ └명사┘                                    │
-│                                                                 │
-│   영어: The book [that I bought yesterday] is interesting.       │
-│         └명사┘  └───────수식어────────┘                           │
-│                                                                 │
-│   수식어와 명사의 위치가 정반대입니다!                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어: 전치수식 (수식어가 명사 앞에)
+> 영어: 후치수식 (관계절이 명사 뒤에)
+> 한국어:  [어제 내가 산] 책이 재미있다.
+> [yesterday I bought] book is interesting
+> └──수식어──┘ └명사┘
+> 영어: The book [that I bought yesterday] is interesting.
+> └명사┘  └───────수식어────────┘
+> 수식어와 명사의 위치가 정반대입니다!
 
 ### 10.2 실용 예문
 
@@ -675,35 +643,27 @@ who, which, that, whose, where, when 중에서 선택하세요.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              관계절 빠른 가이드                                    │
-│              Relative Clauses Quick Guide                       │
-│                                                                 │
-│   한정적 (쉼표 없음, 필수 정보):                                   │
-│   • who/that (사람), which/that (사물)                            │
-│   • 목적격 대명사 생략 가능                                        │
-│   • "that" 사용 허용                                             │
-│                                                                 │
-│   비한정적 (쉼표 있음, 추가 정보):                                  │
-│   • who (사람), which (사물)                                     │
-│   • 대명사 생략 불가                                               │
-│   • "that" 사용 불가                                              │
-│                                                                 │
-│   특수 대명사:                                                    │
-│   whose = 소유        where = 장소                               │
-│   when = 시간         why = 이유 ("the reason" 뒤에)              │
-│                                                                 │
-│   축약:                                                          │
-│   능동: -ing 구문    "The man standing..." (=who is)              │
-│   수동: -ed 구문    "The book written..." (=which was)            │
-│   서수/최상급: to 부정사 "the first to arrive"                     │
-│                                                                 │
-│   한국어 대조: 한국어는 전치수식, 영어는 후치수식                     │
-│   한국어: [수식어] + 명사                                         │
-│   영어: 명사 + [관계절]                                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **관계절 빠른 가이드**
+>
+> Relative Clauses Quick Guide
+> 한정적 (쉼표 없음, 필수 정보):
+> • who/that (사람), which/that (사물)
+> • 목적격 대명사 생략 가능
+> • "that" 사용 허용
+> 비한정적 (쉼표 있음, 추가 정보):
+> • who (사람), which (사물)
+> • 대명사 생략 불가
+> • "that" 사용 불가
+> 특수 대명사:
+> whose = 소유        where = 장소
+> when = 시간         why = 이유 ("the reason" 뒤에)
+> 축약:
+> 능동: -ing 구문    "The man standing..." (=who is)
+> 수동: -ed 구문    "The book written..." (=which was)
+> 서수/최상급: to 부정사 "the first to arrive"
+> 한국어 대조: 한국어는 전치수식, 영어는 후치수식
+> 한국어: [수식어] + 명사
+> 영어: 명사 + [관계절]
 
 ---
 
