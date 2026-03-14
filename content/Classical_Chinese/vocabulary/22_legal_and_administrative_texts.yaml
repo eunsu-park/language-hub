@@ -1,0 +1,464 @@
+lesson: "22_Legal_and_Administrative_Texts"
+lesson_number: 22
+hanja_level: L1
+categories:
+  - id: legal_terms
+    label:
+      en: "Legal Terms"
+      ko: "법률 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 律
+        reading: 율
+        meaning_kun: 법칙
+        translation:
+          en: statute, law code
+          ko: 율, 법률
+        gender: null
+        plural: null
+        notes:
+          en: "Statute or law code. The primary criminal code in traditional East Asian law."
+          ko: "율(법전). 전통 동아시아 법의 기본 형법전."
+      - classical_chinese: 令
+        reading: 령
+        meaning_kun: 하여금
+        translation:
+          en: ordinance, decree, to command
+          ko: 명령, 칙령
+        gender: null
+        plural: null
+        notes:
+          en: "Ordinance or decree. 律令 = statutes and ordinances (the legal system)."
+          ko: "명령, 칙령. 律令 = 율령(법률 체계)."
+      - classical_chinese: 格
+        reading: 격
+        meaning_kun: 격식
+        translation:
+          en: regulations, standards
+          ko: 격식, 규정
+        gender: null
+        plural: null
+        notes:
+          en: "Supplementary regulations amending the 律令. Part of 律令格式."
+          ko: "율령을 보완하는 규정. 律令格式의 일부."
+      - classical_chinese: 式
+        reading: 식
+        meaning_kun: 법
+        translation:
+          en: procedural rules, format
+          ko: 방식, 절차
+        gender: null
+        plural: null
+        notes:
+          en: "Procedural rules and forms. 律令格式 = the four pillars of legal codes."
+          ko: "절차와 양식. 律令格式 = 법전의 네 기둥."
+      - classical_chinese: 刑
+        reading: 형
+        meaning_kun: 형벌
+        translation:
+          en: punishment, penalty
+          ko: 형벌
+        gender: null
+        plural: null
+        notes:
+          en: "Punishment. 五刑 = five punishments (beating, caning, penal servitude, exile, death)."
+          ko: "형벌. 五刑 = 오형(태, 장, 도, 유, 사)."
+      - classical_chinese: 罰
+        reading: 벌
+        meaning_kun: 벌줄
+        translation:
+          en: to punish, penalty
+          ko: 벌주다
+        gender: null
+        plural: null
+        notes:
+          en: "To punish. 刑罰 = punishment and penalty."
+          ko: "벌주다. 刑罰 = 형벌."
+      - classical_chinese: 罪
+        reading: 죄
+        meaning_kun: 허물
+        translation:
+          en: crime, guilt, offense
+          ko: 죄
+        gender: null
+        plural: null
+        notes:
+          en: "Crime or guilt. 罪人 = criminal. 有罪 = guilty."
+          ko: "죄. 罪人 = 죄인. 有罪 = 유죄."
+      - classical_chinese: 獄
+        reading: 옥
+        meaning_kun: 감옥
+        translation:
+          en: prison, lawsuit
+          ko: 감옥, 옥사
+        gender: null
+        plural: null
+        notes:
+          en: "Prison or legal case. 犬 (dogs) on both sides of 言 (speech) = litigation."
+          ko: "감옥, 옥사. 犬(개)이 言(말씀) 양쪽에 = 소송."
+      - classical_chinese: 禁
+        reading: 금
+        meaning_kun: 금할
+        translation:
+          en: to prohibit, taboo
+          ko: 금하다
+        gender: null
+        plural: null
+        notes:
+          en: "To prohibit. 禁令 = prohibition order."
+          ko: "금하다. 禁令 = 금령(금지 명령)."
+      - classical_chinese: 訟
+        reading: 송
+        meaning_kun: 소송
+        translation:
+          en: lawsuit, litigation
+          ko: 소송
+        gender: null
+        plural: null
+        notes:
+          en: "Lawsuit. 訴訟 = litigation, legal proceedings."
+          ko: "소송. 訴訟 = 소송(법적 절차)."
+      - classical_chinese: 訴
+        reading: 소
+        meaning_kun: 하소연할
+        translation:
+          en: to accuse, to appeal
+          ko: 호소하다
+        gender: null
+        plural: null
+        notes:
+          en: "To accuse or appeal. 訴訟 = lawsuit."
+          ko: "호소하다. 訴訟 = 소송."
+      - classical_chinese: 赦
+        reading: 사
+        meaning_kun: 용서할
+        translation:
+          en: to pardon, amnesty
+          ko: 용서하다, 사면
+        gender: null
+        plural: null
+        notes:
+          en: "To pardon. 大赦 = general amnesty."
+          ko: "용서하다. 大赦 = 대사(일반 사면)."
+      - classical_chinese: 判
+        reading: 판
+        meaning_kun: 판단할
+        translation:
+          en: to judge, to decide
+          ko: 판단하다
+        gender: null
+        plural: null
+        notes:
+          en: "To judge. 判決 = verdict, judgment."
+          ko: "판단하다. 判決 = 판결."
+      - classical_chinese: 議
+        reading: 의
+        meaning_kun: 의논할
+        translation:
+          en: to discuss, deliberation
+          ko: 의논하다
+        gender: null
+        plural: null
+        notes:
+          en: "To deliberate. 八議 = eight considerations for commutation of punishment."
+          ko: "의논하다. 八議 = 팔의(형벌 감면의 여덟 가지 고려)."
+      - classical_chinese: 徒
+        reading: 도
+        meaning_kun: 무리
+        translation:
+          en: penal servitude; follower
+          ko: 도형(유배노동); 무리
+        gender: null
+        plural: null
+        notes:
+          en: "Penal servitude. One of the five punishments (五刑)."
+          ko: "도형. 오형(五刑) 중 하나."
+      - classical_chinese: 流
+        reading: 류
+        meaning_kun: 흐를
+        translation:
+          en: exile, banishment; to flow
+          ko: 유배; 흐르다
+        gender: null
+        plural: null
+        notes:
+          en: "Exile. One of the five punishments. 流刑 = exile punishment."
+          ko: "유배. 오형 중 하나. 流刑 = 유형(유배형)."
+
+  - id: administrative_terms
+    label:
+      en: "Administrative Terms"
+      ko: "행정 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 吏
+        reading: 리
+        meaning_kun: 관리
+        translation:
+          en: official, clerk
+          ko: 관리, 아전
+        gender: null
+        plural: null
+        notes:
+          en: "Government official or clerk. Lower-ranking functionary."
+          ko: "관리, 아전. 하급 관리."
+      - classical_chinese: 官
+        reading: 관
+        meaning_kun: 벼슬
+        translation:
+          en: official, government post
+          ko: 관리, 벼슬
+        gender: null
+        plural: null
+        notes:
+          en: "Official or government post. 官吏 = government officials."
+          ko: "관리, 벼슬. 官吏 = 관리들."
+      - classical_chinese: 府
+        reading: 부
+        meaning_kun: 관청
+        translation:
+          en: government office, prefecture
+          ko: 관청, 부
+        gender: null
+        plural: null
+        notes:
+          en: "Government office. 官府 = government authorities."
+          ko: "관청. 官府 = 관부(정부 기관)."
+      - classical_chinese: 州
+        reading: 주
+        meaning_kun: 고을
+        translation:
+          en: province, prefecture
+          ko: 주, 고을
+        gender: null
+        plural: null
+        notes:
+          en: "Province or prefecture. Major administrative division."
+          ko: "주. 주요 행정 구역."
+      - classical_chinese: 縣
+        reading: 현
+        meaning_kun: 고을
+        translation:
+          en: county, district
+          ko: 현, 고을
+        gender: null
+        plural: null
+        notes:
+          en: "County. The basic unit of local government. 縣令 = county magistrate."
+          ko: "현. 지방 행정의 기본 단위. 縣令 = 현령."
+      - classical_chinese: 郡
+        reading: 군
+        meaning_kun: 고을
+        translation:
+          en: commandery, county
+          ko: 군
+        gender: null
+        plural: null
+        notes:
+          en: "Commandery or county. Administrative unit between province and county."
+          ko: "군. 주와 현 사이의 행정 단위."
+      - classical_chinese: 臣
+        reading: 신
+        meaning_kun: 신하
+        translation:
+          en: minister, subject, servant
+          ko: 신하
+        gender: null
+        plural: null
+        notes:
+          en: "Minister or subject. 臣下 = subordinate officials."
+          ko: "신하. 臣下 = 신하들."
+      - classical_chinese: 民
+        reading: 민
+        meaning_kun: 백성
+        translation:
+          en: people, citizens
+          ko: 백성
+        gender: null
+        plural: null
+        notes:
+          en: "The people. 民 = common people. 官民 = officials and people."
+          ko: "백성. 官民 = 관리와 백성."
+      - classical_chinese: 貢
+        reading: 공
+        meaning_kun: 바칠
+        translation:
+          en: tribute, to offer
+          ko: 공물, 바치다
+        gender: null
+        plural: null
+        notes:
+          en: "Tribute. 朝貢 = tributary system. 貢物 = tribute goods."
+          ko: "공물. 朝貢 = 조공 체계. 貢物 = 공물."
+      - classical_chinese: 稅
+        reading: 세
+        meaning_kun: 세금
+        translation:
+          en: tax, levy
+          ko: 세금
+        gender: null
+        plural: null
+        notes:
+          en: "Tax. 租稅 = taxation (land tax and levies)."
+          ko: "세금. 租稅 = 조세."
+      - classical_chinese: 牧
+        reading: 목
+        meaning_kun: 칠
+        translation:
+          en: to govern, to shepherd; governor
+          ko: 다스리다, 기르다; 목사
+        gender: null
+        plural: null
+        notes:
+          en: "To govern (shepherd the people). 牧民 = governing the people. 牧使 = governor."
+          ko: "다스리다(백성을 기르다). 牧民 = 목민. 牧使 = 목사(지방관)."
+      - classical_chinese: 守
+        reading: 수
+        meaning_kun: 지킬
+        translation:
+          en: to guard, to defend; prefect
+          ko: 지키다; 수령
+        gender: null
+        plural: null
+        notes:
+          en: "To guard. 太守 = prefect, governor of a commandery."
+          ko: "지키다. 太守 = 태수(군의 수령)."
+
+  - id: document_vocabulary
+    label:
+      en: "Document Vocabulary"
+      ko: "문서 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 詔
+        reading: 조
+        meaning_kun: 조서
+        translation:
+          en: imperial edict
+          ko: 조서
+        gender: null
+        plural: null
+        notes:
+          en: "Imperial edict. Issued by the emperor. 下詔 = to issue an edict."
+          ko: "조서. 황제가 내림. 下詔 = 조서를 내리다."
+      - classical_chinese: 勅
+        reading: 칙
+        meaning_kun: 칙서
+        translation:
+          en: imperial command, decree
+          ko: 칙서, 칙명
+        gender: null
+        plural: null
+        notes:
+          en: "Imperial command. 勅令 = imperial decree."
+          ko: "칙서. 勅令 = 칙령."
+      - classical_chinese: 旨
+        reading: 지
+        meaning_kun: 뜻
+        translation:
+          en: imperial will, purpose
+          ko: 뜻, 성지
+        gender: null
+        plural: null
+        notes:
+          en: "Imperial will. 聖旨 = sacred decree. Also means purpose."
+          ko: "뜻. 聖旨 = 성지(임금의 뜻)."
+      - classical_chinese: 敎
+        reading: 교
+        meaning_kun: 가르칠
+        translation:
+          en: royal instruction; to teach
+          ko: 교서; 가르치다
+        gender: null
+        plural: null
+        notes:
+          en: "Royal instruction. In Joseon, 敎書 = king's instruction document."
+          ko: "교서. 조선에서 敎書 = 왕의 교시 문서."
+      - classical_chinese: 冊
+        reading: 책
+        meaning_kun: 책
+        translation:
+          en: book, investiture document
+          ko: 책, 책봉문
+        gender: null
+        plural: null
+        notes:
+          en: "Book or investiture. 冊封 = investiture (formal appointment of rulers)."
+          ko: "책, 책봉문. 冊封 = 책봉(공식적 왕위 수여)."
+      - classical_chinese: 奏
+        reading: 주
+        meaning_kun: 아뢸
+        translation:
+          en: to memorialize, to report to throne
+          ko: 아뢰다
+        gender: null
+        plural: null
+        notes:
+          en: "To memorialize the emperor. 上奏 = to submit a memorial."
+          ko: "임금에게 아뢰다. 上奏 = 상주(표문을 올리다)."
+      - classical_chinese: 啓
+        reading: 계
+        meaning_kun: 열
+        translation:
+          en: to report, to open
+          ko: 아뢰다, 열다
+        gender: null
+        plural: null
+        notes:
+          en: "To report to a superior. 啓稟 = to report and request."
+          ko: "윗사람에게 아뢰다. 啓稟 = 계품(보고하고 청하다)."
+      - classical_chinese: 批
+        reading: 비
+        meaning_kun: 칠
+        translation:
+          en: to comment, to approve; rescript
+          ko: 비평하다; 비답
+        gender: null
+        plural: null
+        notes:
+          en: "To comment or approve. 批答 = royal rescript (king's response to a memorial)."
+          ko: "비평하다. 批答 = 비답(상소에 대한 왕의 답)."
+      - classical_chinese: 符
+        reading: 부
+        meaning_kun: 부절
+        translation:
+          en: tally, token of authority
+          ko: 부절, 부신
+        gender: null
+        plural: null
+        notes:
+          en: "Tally or token. Split wooden tallies used to verify authority."
+          ko: "부절. 권한을 확인하는 데 쓰인 나무 부절."
+      - classical_chinese: 印
+        reading: 인
+        meaning_kun: 도장
+        translation:
+          en: seal, stamp
+          ko: 도장
+        gender: null
+        plural: null
+        notes:
+          en: "Official seal. 印章 = seal of authority. 印綬 = seal and ribbon of office."
+          ko: "도장. 印章 = 인장. 印綬 = 인수(관인과 끈)."
+      - classical_chinese: 簿
+        reading: 부
+        meaning_kun: 장부
+        translation:
+          en: register, ledger, record book
+          ko: 장부
+        gender: null
+        plural: null
+        notes:
+          en: "Register. 簿記 = bookkeeping. 戶簿 = household register."
+          ko: "장부. 簿記 = 부기. 戶簿 = 호적부."
+      - classical_chinese: 籍
+        reading: 적
+        meaning_kun: 문서
+        translation:
+          en: register, census; books
+          ko: 호적, 문서
+        gender: null
+        plural: null
+        notes:
+          en: "Register or census. 戶籍 = household register. 典籍 = classic books."
+          ko: "호적, 문서. 戶籍 = 호적. 典籍 = 전적(고전 서적)."
