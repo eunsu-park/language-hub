@@ -32,27 +32,19 @@
 
 In Italian business contexts, **Lei** (formal "you") is always used unless explicitly invited to switch to **tu** (informal):
 
-```
-+----------------------------------------------------------+
-|          FORMAL vs. INFORMAL ADDRESS                      |
-+----------------------------------------------------------+
-|                                                          |
-|  FORMAL (Lei) — Used in business:                        |
-|    Lei parla italiano? (Do you speak Italian?)           |
-|    Come sta, Dottore? (How are you, Doctor?)             |
-|    Le presento il mio collega. (Let me introduce...)     |
-|                                                          |
-|  INFORMAL (tu) — Used among close colleagues:            |
-|    Tu parli italiano? (Do you speak Italian?)            |
-|    Come stai? (How are you?)                             |
-|    Ti presento il mio collega. (Let me introduce...)     |
-|                                                          |
-|  SWITCHING: "Possiamo darci del tu?"                     |
-|  (Can we switch to informal?)                            |
-|  — Only the senior/higher-ranking person should suggest  |
-|    this switch.                                          |
-+----------------------------------------------------------+
-```
+> **FORMAL vs. INFORMAL ADDRESS**
+>
+> **FORMAL (Lei)** — Used in business:
+> - Lei parla italiano? (Do you speak Italian?)
+> - Come sta, Dottore? (How are you, Doctor?)
+> - Le presento il mio collega. (Let me introduce...)
+>
+> **INFORMAL (tu)** — Used among close colleagues:
+> - Tu parli italiano? (Do you speak Italian?)
+> - Come stai? (How are you?)
+> - Ti presento il mio collega. (Let me introduce...)
+>
+> **SWITCHING:** "Possiamo darci del tu?" (Can we switch to informal?) — Only the senior/higher-ranking person should suggest this switch.
 
 ### 1.2 Professional Titles
 
@@ -311,37 +303,29 @@ Luogo: Sala Riunioni, 3° piano
 
 ### 6.1 Standard Telephone Formulas
 
-```
-+----------------------------------------------------------+
-|          ITALIAN TELEPHONE ETIQUETTE                      |
-+----------------------------------------------------------+
-|                                                          |
-|  ANSWERING:                                              |
-|    "Pronto?" (Hello?)                                    |
-|    "[Company name], buongiorno." (formal)                |
-|                                                          |
-|  IDENTIFYING:                                            |
-|    "Sono [Name] della [Company]."                        |
-|    (I am [Name] from [Company].)                         |
-|                                                          |
-|  ASKING TO SPEAK TO SOMEONE:                             |
-|    "Vorrei parlare con il Dott. Rossi, per cortesia."   |
-|    (I would like to speak with Dr. Rossi, please.)      |
-|                                                          |
-|  ASKING WHO'S CALLING:                                   |
-|    "Chi parla?" (Who is speaking?)                       |
-|    "Da parte di chi?" (On behalf of whom?)               |
-|                                                          |
-|  TRANSFERRING:                                           |
-|    "Glielo/Gliela passo." (I'll put you through.)       |
-|    "Attenda in linea, per favore." (Please hold.)        |
-|                                                          |
-|  PERSON UNAVAILABLE:                                     |
-|    "Mi dispiace, il Dott. Rossi è in riunione."         |
-|    "Vuole lasciare un messaggio?"                        |
-|    (Would you like to leave a message?)                  |
-+----------------------------------------------------------+
-```
+> **ITALIAN TELEPHONE ETIQUETTE**
+>
+> **ANSWERING:**
+> - "Pronto?" (Hello?)
+> - "[Company name], buongiorno." (formal)
+>
+> **IDENTIFYING:**
+> - "Sono [Name] della [Company]." (I am [Name] from [Company].)
+>
+> **ASKING TO SPEAK TO SOMEONE:**
+> - "Vorrei parlare con il Dott. Rossi, per cortesia." (I would like to speak with Dr. Rossi, please.)
+>
+> **ASKING WHO'S CALLING:**
+> - "Chi parla?" (Who is speaking?)
+> - "Da parte di chi?" (On behalf of whom?)
+>
+> **TRANSFERRING:**
+> - "Glielo/Gliela passo." (I'll put you through.)
+> - "Attenda in linea, per favore." (Please hold.)
+>
+> **PERSON UNAVAILABLE:**
+> - "Mi dispiace, il Dott. Rossi è in riunione."
+> - "Vuole lasciare un messaggio?" (Would you like to leave a message?)
 
 ### 6.2 Telephone Phrase Table
 
@@ -409,37 +393,29 @@ Luogo: Sala Riunioni, 3° piano
 
 ### 8.1 Italian Business Culture
 
-```
-+----------------------------------------------------------+
-|          ITALIAN BUSINESS CULTURE KEY POINTS              |
-+----------------------------------------------------------+
-|                                                          |
-|  RELATIONSHIPS:                                          |
-|    - Personal relationships are CRUCIAL in business      |
-|    - Trust is built over time (meals, events, rapport)   |
-|    - "Fare affari" (doing business) starts with          |
-|      "fare amicizia" (making friends)                    |
-|                                                          |
-|  HIERARCHY:                                              |
-|    - Italian companies tend to be hierarchical           |
-|    - Decisions often come from the top                   |
-|    - Titles and respect for seniority matter             |
-|    - Always address seniors by title                     |
-|                                                          |
-|  COMMUNICATION STYLE:                                    |
-|    - Expressive and animated (gestures are normal)       |
-|    - Indirect disagreement is preferred                  |
-|    - Eloquence is valued                                 |
-|    - Interrupting can be normal (sign of engagement)     |
-|                                                          |
-|  TIME:                                                   |
-|    - Meetings may start 10-15 min late (especially       |
-|      in Central/Southern Italy)                          |
-|    - Northern Italy (Milan, Turin) tends to be           |
-|      more punctual                                       |
-|    - However, being late yourself is NOT recommended     |
-+----------------------------------------------------------+
-```
+> **ITALIAN BUSINESS CULTURE KEY POINTS**
+>
+> **RELATIONSHIPS:**
+> - Personal relationships are CRUCIAL in business
+> - Trust is built over time (meals, events, rapport)
+> - "Fare affari" (doing business) starts with "fare amicizia" (making friends)
+>
+> **HIERARCHY:**
+> - Italian companies tend to be hierarchical
+> - Decisions often come from the top
+> - Titles and respect for seniority matter
+> - Always address seniors by title
+>
+> **COMMUNICATION STYLE:**
+> - Expressive and animated (gestures are normal)
+> - Indirect disagreement is preferred
+> - Eloquence is valued
+> - Interrupting can be normal (sign of engagement)
+>
+> **TIME:**
+> - Meetings may start 10-15 min late (especially in Central/Southern Italy)
+> - Northern Italy (Milan, Turin) tends to be more punctual
+> - However, being late yourself is NOT recommended
 
 ### 8.2 Business Meal Etiquette
 
