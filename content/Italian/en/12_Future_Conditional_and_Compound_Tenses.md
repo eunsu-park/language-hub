@@ -84,22 +84,18 @@ Irregular future verbs have a shortened or modified stem but use the same regula
 
 ### Pattern Groups
 
-```
-+----------------------------------------------------------+
-|  DROP vowel before -r:                                    |
-|  avere → avr-   dovere → dovr-   potere → potr-          |
-|  sapere → sapr-  vedere → vedr-   vivere → vivr-          |
-|  andare → andr-                                           |
-|                                                          |
-|  DOUBLE the -r:                                           |
-|  venire → verr-   volere → vorr-   rimanere → rimarr-    |
-|  tenere → terr-   bere → berr-                            |
-|                                                          |
-|  SPECIAL stems:                                           |
-|  essere → sar-    fare → far-    dare → dar-              |
-|  stare → star-                                            |
-+----------------------------------------------------------+
-```
+> **DROP vowel before -r:**
+> - avere → avr-   dovere → dovr-   potere → potr-
+> - sapere → sapr-  vedere → vedr-   vivere → vivr-
+> - andare → andr-
+>
+> **DOUBLE the -r:**
+> - venire → verr-   volere → vorr-   rimanere → rimarr-
+> - tenere → terr-   bere → berr-
+>
+> **SPECIAL stems:**
+> - essere → sar-    fare → far-    dare → dar-
+> - stare → star-
 
 ---
 
@@ -187,18 +183,13 @@ The irregular conditional uses **exactly the same stems** as the irregular futur
 
 The trapassato prossimo (past perfect / pluperfect) describes an action that happened **before** another past action.
 
-```
-+----------------------------------------------------------+
-|  TRAPASSATO PROSSIMO = IMPERFETTO of avere/essere         |
-|                       + PARTICIPIO PASSATO                |
-|                                                          |
-|  Avevo già mangiato quando è arrivato.                   |
-|  (I had already eaten when he arrived.)                   |
-|                                                          |
-|  Timeline:  [mangiato] -----> [arrivato] -----> NOW       |
-|             (earlier)         (later past)                |
-+----------------------------------------------------------+
-```
+> **TRAPASSATO PROSSIMO** = IMPERFETTO of avere/essere + PARTICIPIO PASSATO
+>
+> Avevo già mangiato quando è arrivato.
+> (I had already eaten when he arrived.)
+>
+> Timeline:  [mangiato] -----> [arrivato] -----> NOW
+> (earlier)         (later past)
 
 ### Formation
 
@@ -227,17 +218,12 @@ The trapassato prossimo (past perfect / pluperfect) describes an action that hap
 
 The futuro anteriore (future perfect) describes an action that **will have been completed** before another future action.
 
-```
-+----------------------------------------------------------+
-|  FUTURO ANTERIORE = FUTURO of avere/essere                |
-|                    + PARTICIPIO PASSATO                   |
-|                                                          |
-|  Quando arriverai, avrò già mangiato.                    |
-|  (When you arrive, I will have already eaten.)            |
-|                                                          |
-|  Timeline:  NOW -----> [mangiato] -----> [arriverai]      |
-+----------------------------------------------------------+
-```
+> **FUTURO ANTERIORE** = FUTURO of avere/essere + PARTICIPIO PASSATO
+>
+> Quando arriverai, avrò già mangiato.
+> (When you arrive, I will have already eaten.)
+>
+> Timeline:  NOW -----> [mangiato] -----> [arriverai]
 
 ### Formation
 
@@ -274,15 +260,10 @@ The futuro anteriore can also express probability about the past:
 
 The condizionale passato (past conditional) expresses what **would have happened**.
 
-```
-+----------------------------------------------------------+
-|  CONDIZIONALE PASSATO = CONDIZIONALE of avere/essere      |
-|                        + PARTICIPIO PASSATO               |
-|                                                          |
-|  Avrei mangiato, ma non avevo fame.                      |
-|  (I would have eaten, but I wasn't hungry.)               |
-+----------------------------------------------------------+
-```
+> **CONDIZIONALE PASSATO** = CONDIZIONALE of avere/essere + PARTICIPIO PASSATO
+>
+> Avrei mangiato, ma non avevo fame.
+> (I would have eaten, but I wasn't hungry.)
 
 ### Formation
 
