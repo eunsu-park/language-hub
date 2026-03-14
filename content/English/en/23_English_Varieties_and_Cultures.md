@@ -26,29 +26,23 @@
 
 ### 1.1 English as a Global Language
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   English Around the World                      │
-│                                                                 │
-│   Native speakers:    ~400 million                              │
-│   L2 speakers:        ~750 million                              │
-│   L3+ speakers:       ~600 million                              │
-│   Total:              ~1.75 billion speakers worldwide          │
-│                                                                 │
-│   Official language in: ~60 countries                           │
-│   UN official language: Yes (1 of 6)                            │
-│                                                                 │
-│   Major varieties:                                              │
-│   • American English (AmE) — ~330 million                      │
-│   • British English (BrE) — ~67 million                        │
-│   • Australian English (AuE) — ~26 million                     │
-│   • Canadian English (CaE) — ~38 million                       │
-│   • Indian English (InE) — ~125 million L2                     │
-│   • South African English — ~5 million                         │
-│   • Philippine English — ~70 million L2                        │
-│   • Nigerian English — ~80 million L2                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Around the World**
+>
+> Native speakers:    ~400 million
+> L2 speakers:        ~750 million
+> L3+ speakers:       ~600 million
+> Total:              ~1.75 billion speakers worldwide
+> Official language in: ~60 countries
+> UN official language: Yes (1 of 6)
+> Major varieties:
+> • American English (AmE) — ~330 million
+> • British English (BrE) — ~67 million
+> • Australian English (AuE) — ~26 million
+> • Canadian English (CaE) — ~38 million
+> • Indian English (InE) — ~125 million L2
+> • South African English — ~5 million
+> • Philippine English — ~70 million L2
+> • Nigerian English — ~80 million L2
 
 ### 1.2 No "Right" English
 
@@ -74,53 +68,51 @@ However:
 
 ### 2.1 Systematic Differences
 
-```
-┌────────────┬──────────────────┬──────────────────┐
-│ Pattern    │ American (AmE)   │ British (BrE)    │
-├────────────┼──────────────────┼──────────────────┤
-│ -or / -our │ color            │ colour           │
-│            │ honor            │ honour           │
-│            │ favor            │ favour           │
-│            │ neighbor         │ neighbour        │
-│            │ labor            │ labour           │
-│            │ behavior         │ behaviour        │
-├────────────┼──────────────────┼──────────────────┤
-│ -ize / -ise│ organize         │ organise*        │
-│            │ realize          │ realise*         │
-│            │ recognize        │ recognise*       │
-│            │ apologize        │ apologise*       │
-│            │ *Note: -ize is also accepted in BrE │
-├────────────┼──────────────────┼──────────────────┤
-│ -er / -re  │ center           │ centre           │
-│            │ theater          │ theatre          │
-│            │ meter            │ metre            │
-│            │ fiber            │ fibre            │
-│            │ liter            │ litre            │
-├────────────┼──────────────────┼──────────────────┤
-│ -ense/-ence│ defense          │ defence          │
-│            │ offense          │ offence          │
-│            │ license (n&v)    │ licence(n)/      │
-│            │                  │ license(v)       │
-├────────────┼──────────────────┼──────────────────┤
-│ -og / -ogue│ catalog          │ catalogue        │
-│            │ dialog           │ dialogue         │
-│            │ analog           │ analogue         │
-├────────────┼──────────────────┼──────────────────┤
-│ -l / -ll   │ traveling        │ travelling       │
-│            │ canceled         │ cancelled        │
-│            │ modeled          │ modelled         │
-│            │ (single l in AmE)│ (double l in BrE)│
-├────────────┼──────────────────┼──────────────────┤
-│ Other      │ gray             │ grey             │
-│            │ tire             │ tyre             │
-│            │ airplane         │ aeroplane        │
-│            │ program          │ programme*       │
-│            │ check            │ cheque (money)   │
-│            │ pajamas          │ pyjamas          │
-│            │ donut            │ doughnut         │
-│            │ *"program" for computing in both     │
-└────────────┴──────────────────┴──────────────────┘
-```
+> | Pattern | American (AmE) | British (BrE) |
+> |---|---|---|
+> | -or / -our | color | colour |
+> | honor | honour |  |
+> | favor | favour |  |
+> | neighbor | neighbour |  |
+> | labor | labour |  |
+> | behavior | behaviour |  |
+> | -ize / -ise | organize | organise* |
+> | realize | realise* |  |
+> | recognize | recognise* |  |
+> | apologize | apologise* |  |
+> | -er / -re | center | centre |
+> | theater | theatre |  |
+> | meter | metre |  |
+> | fiber | fibre |  |
+> | liter | litre |  |
+> | -ense/-ence | defense | defence |
+> | offense | offence |  |
+> | license (n&v) | licence(n)/ |  |
+> | license(v) |  |  |
+> | -og / -ogue | catalog | catalogue |
+> | dialog | dialogue |  |
+> | analog | analogue |  |
+> | -l / -ll | traveling | travelling |
+> | canceled | cancelled |  |
+> | modeled | modelled |  |
+> | (single l in AmE) | (double l in BrE) |  |
+> | Other | gray | grey |
+> | tire | tyre |  |
+> | airplane | aeroplane |  |
+> | program | programme* |  |
+> | check | cheque (money) |  |
+> | pajamas | pyjamas |  |
+> | donut | doughnut |  |
+>
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> │ *Note: -ize is also accepted in BrE
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> ├────────────┼──────────────────┼──────────────────┤
+> │ *"program" for computing in both
 
 ---
 
@@ -128,66 +120,64 @@ However:
 
 ### 3.1 Everyday Words
 
-```
-┌──────────────────┬──────────────────┬──────────────────┐
-│ Meaning          │ American (AmE)   │ British (BrE)    │
-├──────────────────┼──────────────────┼──────────────────┤
-│ FOOD             │                  │                  │
-│ thin fried potato│ (French) fries   │ chips            │
-│ thick fried potato│ chips           │ crisps           │
-│ candy            │ candy            │ sweets           │
-│ cookie           │ cookie           │ biscuit          │
-│ eggplant         │ eggplant         │ aubergine        │
-│ zucchini         │ zucchini         │ courgette        │
-│ soda/pop         │ soda             │ fizzy drink      │
-├──────────────────┼──────────────────┼──────────────────┤
-│ TRANSPORT        │                  │                  │
-│ car trunk        │ trunk            │ boot             │
-│ car hood         │ hood             │ bonnet           │
-│ gas(oline)       │ gas              │ petrol           │
-│ highway          │ highway/freeway  │ motorway         │
-│ sidewalk         │ sidewalk         │ pavement         │
-│ parking lot      │ parking lot      │ car park         │
-│ subway           │ subway           │ underground/tube │
-│ round trip       │ round trip       │ return (ticket)  │
-│ one way          │ one way          │ single (ticket)  │
-│ truck            │ truck            │ lorry            │
-├──────────────────┼──────────────────┼──────────────────┤
-│ CLOTHING         │                  │                  │
-│ pants            │ pants            │ trousers         │
-│ underwear        │ underwear        │ pants/knickers   │
-│ sneakers         │ sneakers         │ trainers         │
-│ sweater          │ sweater          │ jumper           │
-│ vest             │ vest             │ waistcoat        │
-│ undershirt       │ undershirt       │ vest             │
-├──────────────────┼──────────────────┼──────────────────┤
-│ HOME             │                  │                  │
-│ apartment        │ apartment        │ flat             │
-│ elevator         │ elevator         │ lift             │
-│ first floor      │ first floor      │ ground floor     │
-│ second floor     │ second floor     │ first floor      │
-│ trash can        │ trash can        │ bin/dustbin      │
-│ faucet           │ faucet           │ tap              │
-│ yard             │ yard             │ garden           │
-│ closet           │ closet           │ wardrobe/cupboard│
-├──────────────────┼──────────────────┼──────────────────┤
-│ OTHER            │                  │                  │
-│ vacation         │ vacation         │ holiday          │
-│ cell phone       │ cell phone       │ mobile (phone)   │
-│ line (queue)     │ line             │ queue            │
-│ check (bill)     │ check            │ bill             │
-│ pharmacy         │ pharmacy/        │ chemist's        │
-│                  │ drugstore        │                  │
-│ movie            │ movie            │ film             │
-│ soccer           │ soccer           │ football         │
-│ mail             │ mail             │ post             │
-│ fall (season)    │ fall             │ autumn           │
-│ resume           │ resume           │ CV               │
-│ eraser           │ eraser           │ rubber           │
-│ math             │ math             │ maths            │
-│ period (.)       │ period           │ full stop        │
-└──────────────────┴──────────────────┴──────────────────┘
-```
+> | Meaning | American (AmE) | British (BrE) |
+> |---|---|---|
+> | FOOD |  |  |
+> | thin fried potato | (French) fries | chips |
+> | thick fried potato | chips | crisps |
+> | candy | candy | sweets |
+> | cookie | cookie | biscuit |
+> | eggplant | eggplant | aubergine |
+> | zucchini | zucchini | courgette |
+> | soda/pop | soda | fizzy drink |
+> | TRANSPORT |  |  |
+> | car trunk | trunk | boot |
+> | car hood | hood | bonnet |
+> | gas(oline) | gas | petrol |
+> | highway | highway/freeway | motorway |
+> | sidewalk | sidewalk | pavement |
+> | parking lot | parking lot | car park |
+> | subway | subway | underground/tube |
+> | round trip | round trip | return (ticket) |
+> | one way | one way | single (ticket) |
+> | truck | truck | lorry |
+> | CLOTHING |  |  |
+> | pants | pants | trousers |
+> | underwear | underwear | pants/knickers |
+> | sneakers | sneakers | trainers |
+> | sweater | sweater | jumper |
+> | vest | vest | waistcoat |
+> | undershirt | undershirt | vest |
+> | HOME |  |  |
+> | apartment | apartment | flat |
+> | elevator | elevator | lift |
+> | first floor | first floor | ground floor |
+> | second floor | second floor | first floor |
+> | trash can | trash can | bin/dustbin |
+> | faucet | faucet | tap |
+> | yard | yard | garden |
+> | closet | closet | wardrobe/cupboard |
+> | OTHER |  |  |
+> | vacation | vacation | holiday |
+> | cell phone | cell phone | mobile (phone) |
+> | line (queue) | line | queue |
+> | check (bill) | check | bill |
+> | pharmacy | pharmacy/ | chemist's |
+> | drugstore |  |  |
+> | movie | movie | film |
+> | soccer | soccer | football |
+> | mail | mail | post |
+> | fall (season) | fall | autumn |
+> | resume | resume | CV |
+> | eraser | eraser | rubber |
+> | math | math | maths |
+> | period (.) | period | full stop |
+>
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
+> ├──────────────────┼──────────────────┼──────────────────┤
 
 ---
 
@@ -195,52 +185,34 @@ However:
 
 ### 4.1 Key Grammar Differences
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. PRESENT PERFECT vs SIMPLE PAST                            │
-│                                                                 │
-│   BrE: "I've just eaten." / "Have you seen the news?"          │
-│   AmE: "I just ate."      / "Did you see the news?"            │
-│                                                                 │
-│   American English uses Simple Past more often where            │
-│   British English uses Present Perfect.                         │
-│                                                                 │
-│   2. COLLECTIVE NOUNS                                          │
-│                                                                 │
-│   BrE: "The team are playing well." (plural verb OK)           │
-│   AmE: "The team is playing well." (singular verb)             │
-│                                                                 │
-│   British English can treat collective nouns as plural.         │
-│   American English treats them as singular.                     │
-│                                                                 │
-│   3. "GOT" vs "GOTTEN"                                         │
-│                                                                 │
-│   BrE: "I've got a car." (have/possess)                        │
-│   AmE: "I've gotten better." (become/obtained)                  │
-│   AmE: "I've got a car." (also used for possession)            │
-│                                                                 │
-│   "Gotten" is American only. British English uses "got"         │
-│   for all meanings.                                             │
-│                                                                 │
-│   4. "SHALL" vs "WILL"                                         │
-│                                                                 │
-│   BrE: "Shall we go?" (suggestion — common)                   │
-│   AmE: "Should we go?" or "Do you want to go?"                │
-│         ("Shall" is rare in American English)                   │
-│                                                                 │
-│   5. "HAVE" as a main verb                                     │
-│                                                                 │
-│   BrE: "Have you got a pen?"   / "I haven't got time."        │
-│   AmE: "Do you have a pen?"    / "I don't have time."         │
-│                                                                 │
-│   6. PREPOSITIONS                                              │
-│                                                                 │
-│   AmE: "on the weekend"        BrE: "at the weekend"          │
-│   AmE: "Monday through Friday" BrE: "Monday to Friday"        │
-│   AmE: "different from/than"   BrE: "different from/to"       │
-│   AmE: "write (someone)"      BrE: "write to (someone)"      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. PRESENT PERFECT vs SIMPLE PAST
+> BrE: "I've just eaten." / "Have you seen the news?"
+> AmE: "I just ate."      / "Did you see the news?"
+> American English uses Simple Past more often where
+> British English uses Present Perfect.
+> 2. COLLECTIVE NOUNS
+> BrE: "The team are playing well." (plural verb OK)
+> AmE: "The team is playing well." (singular verb)
+> British English can treat collective nouns as plural.
+> American English treats them as singular.
+> 3. "GOT" vs "GOTTEN"
+> BrE: "I've got a car." (have/possess)
+> AmE: "I've gotten better." (become/obtained)
+> AmE: "I've got a car." (also used for possession)
+> "Gotten" is American only. British English uses "got"
+> for all meanings.
+> 4. "SHALL" vs "WILL"
+> BrE: "Shall we go?" (suggestion — common)
+> AmE: "Should we go?" or "Do you want to go?"
+> ("Shall" is rare in American English)
+> 5. "HAVE" as a main verb
+> BrE: "Have you got a pen?"   / "I haven't got time."
+> AmE: "Do you have a pen?"    / "I don't have time."
+> 6. PREPOSITIONS
+> AmE: "on the weekend"        BrE: "at the weekend"
+> AmE: "Monday through Friday" BrE: "Monday to Friday"
+> AmE: "different from/than"   BrE: "different from/to"
+> AmE: "write (someone)"      BrE: "write to (someone)"
 
 ---
 
@@ -378,26 +350,20 @@ Grammar features:
 
 ### 9.1 High-Context vs Low-Context Communication
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   HIGH-CONTEXT (Korean, Japanese, Chinese):                    │
-│   • Meaning is implied, not directly stated                    │
-│   • Context, tone, and relationship matter more than words     │
-│   • "Reading the air" (눈치) is important                      │
-│   • Indirect refusals: "That might be difficult..."            │
-│                                                                 │
-│   LOW-CONTEXT (American, German, Australian):                  │
-│   • Meaning is explicitly stated                               │
-│   • Words carry the message directly                           │
-│   • "Say what you mean, mean what you say"                     │
-│   • Direct refusals: "No, I can't do that."                    │
-│                                                                 │
-│   MEDIUM-CONTEXT (British):                                    │
-│   • More indirect than American but more direct than Korean    │
-│   • Uses politeness strategies and understatement              │
-│   • "That's an interesting idea" may mean "I disagree"         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> HIGH-CONTEXT (Korean, Japanese, Chinese):
+> • Meaning is implied, not directly stated
+> • Context, tone, and relationship matter more than words
+> • "Reading the air" (눈치) is important
+> • Indirect refusals: "That might be difficult..."
+> LOW-CONTEXT (American, German, Australian):
+> • Meaning is explicitly stated
+> • Words carry the message directly
+> • "Say what you mean, mean what you say"
+> • Direct refusals: "No, I can't do that."
+> MEDIUM-CONTEXT (British):
+> • More indirect than American but more direct than Korean
+> • Uses politeness strategies and understatement
+> • "That's an interesting idea" may mean "I disagree"
 
 ### 9.2 Cultural Tips by Country
 
@@ -591,32 +557,24 @@ Choose the most appropriate response for the cultural context.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            English Varieties Quick Guide                        │
-│                                                                 │
-│   SPELLING: AmE -or (color) vs BrE -our (colour)              │
-│            AmE -er (center) vs BrE -re (centre)               │
-│            AmE -ize (realize) vs BrE -ise (realise)           │
-│                                                                 │
-│   VOCABULARY: AmE apartment/BrE flat, AmE truck/BrE lorry,    │
-│   AmE elevator/BrE lift, AmE vacation/BrE holiday             │
-│                                                                 │
-│   GRAMMAR: AmE prefers Simple Past, BrE uses Present Perfect  │
-│   more; BrE has collective nouns + plural verbs                │
-│                                                                 │
-│   CULTURE:                                                     │
-│   American = direct, positive feedback, first-name basis       │
-│   British = understatement, indirect, polite hedging           │
-│   Australian = casual, informal, self-deprecating humor        │
-│                                                                 │
-│   FOR KOREAN SPEAKERS:                                         │
-│   • Be consistent (don't mix AmE and BrE in one text)         │
-│   • Be clearer when saying "no" — vagueness confuses          │
-│   • "How are you?" = greeting, not a real question             │
-│   • Don't over-apologize — say "thank you" instead sometimes  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Varieties Quick Guide**
+>
+> SPELLING: AmE -or (color) vs BrE -our (colour)
+> AmE -er (center) vs BrE -re (centre)
+> AmE -ize (realize) vs BrE -ise (realise)
+> VOCABULARY: AmE apartment/BrE flat, AmE truck/BrE lorry,
+> AmE elevator/BrE lift, AmE vacation/BrE holiday
+> GRAMMAR: AmE prefers Simple Past, BrE uses Present Perfect
+> more; BrE has collective nouns + plural verbs
+> CULTURE:
+> American = direct, positive feedback, first-name basis
+> British = understatement, indirect, polite hedging
+> Australian = casual, informal, self-deprecating humor
+> FOR KOREAN SPEAKERS:
+> • Be consistent (don't mix AmE and BrE in one text)
+> • Be clearer when saying "no" — vagueness confuses
+> • "How are you?" = greeting, not a real question
+> • Don't over-apologize — say "thank you" instead sometimes
 
 ---
 
