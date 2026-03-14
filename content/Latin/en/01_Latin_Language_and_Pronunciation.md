@@ -27,30 +27,24 @@
 
 ### 1.1 Latin in History
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 Latin: The Eternal Language                       │
-│                                                                 │
-│   Period of use:    c. 700 BCE – present (in specialized use)   │
-│   Native speakers:  None living (classical language)             │
-│   Official status:  Vatican City (co-official)                   │
-│                                                                 │
-│   Language family:  Indo-European → Italic → Latino-Faliscan    │
-│   Daughter languages: Italian, Spanish, Portuguese, French,      │
-│                       Romanian, Catalan, and more                │
-│                                                                 │
-│   Cultural reach:   Law, medicine, science, theology,            │
-│                     philosophy, literature, academic tradition    │
-│                                                                 │
-│   Historical periods:                                            │
-│     Old Latin       (700–100 BCE)                                │
-│     Classical Latin  (100 BCE–200 CE)  ← our focus              │
-│     Late Latin       (200–700 CE)                                │
-│     Medieval Latin   (700–1400 CE)                               │
-│     Renaissance Latin (1400–1600 CE)                             │
-│     New Latin        (1600–present)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin: The Eternal Language**
+>
+> - **Period of use**: c. 700 BCE -- present (in specialized use)
+> - **Native speakers**: None living (classical language)
+> - **Official status**: Vatican City (co-official)
+>
+> - **Language family**: Indo-European -> Italic -> Latino-Faliscan
+> - **Daughter languages**: Italian, Spanish, Portuguese, French, Romanian, Catalan, and more
+>
+> - **Cultural reach**: Law, medicine, science, theology, philosophy, literature, academic tradition
+>
+> **Historical periods:**
+> - Old Latin (700--100 BCE)
+> - Classical Latin (100 BCE--200 CE) -- our focus
+> - Late Latin (200--700 CE)
+> - Medieval Latin (700--1400 CE)
+> - Renaissance Latin (1400--1600 CE)
+> - New Latin (1600--present)
 
 ### 1.2 Why Study Latin?
 
@@ -125,31 +119,27 @@ Classical Latin used 23 letters. The letters J, U, and W did not exist as separa
 
 ### 2.2 Notes on Letters
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     Key Alphabet Notes                            │
-│                                                                 │
-│   • C is ALWAYS hard /k/ in classical Latin.                    │
-│     Caesar = /ˈkae̯.sar/ not "SEE-zer"                          │
-│                                                                 │
-│   • G is ALWAYS hard /g/ in classical Latin.                    │
-│     genus = /ˈgɛ.nus/ not "JEE-nus"                            │
-│                                                                 │
-│   • V represents both vowel /u/ and consonant /w/.              │
-│     Modern textbooks often write U for the vowel, V for /w/.    │
-│     VINUM → uīnum /ˈwiː.num/                                   │
-│                                                                 │
-│   • I represents both vowel /i/ and consonant /j/.              │
-│     Modern textbooks sometimes write J for /j/.                 │
-│     IAM → iam /jam/ (now, already)                              │
-│                                                                 │
-│   • K is rare — used mainly in Kalendae and a few loanwords.    │
-│                                                                 │
-│   • Y and Z appear only in Greek loanwords.                     │
-│     Y = /y/ (like German ü or French u)                         │
-│     Z = /dz/                                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Key Alphabet Notes**
+>
+> - C is ALWAYS hard /k/ in classical Latin.
+>   Caesar = /ˈkae̯.sar/ not "SEE-zer"
+>
+> - G is ALWAYS hard /g/ in classical Latin.
+>   genus = /ˈgɛ.nus/ not "JEE-nus"
+>
+> - V represents both vowel /u/ and consonant /w/.
+>   Modern textbooks often write U for the vowel, V for /w/.
+>   VINUM → uīnum /ˈwiː.num/
+>
+> - I represents both vowel /i/ and consonant /j/.
+>   Modern textbooks sometimes write J for /j/.
+>   IAM → iam /jam/ (now, already)
+>
+> - K is rare — used mainly in Kalendae and a few loanwords.
+>
+> - Y and Z appear only in Greek loanwords.
+>   Y = /y/ (like German ü or French u)
+>   Z = /dz/
 
 ### 2.3 Modern Conventions
 
@@ -172,25 +162,21 @@ In modern Latin textbooks and editions, you will commonly see:
 
 Latin has 10 vowel phonemes — 5 short and 5 long. Vowel length (quantity) is distinctive and can change word meaning.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   Latin Vowel System                              │
-│                                                                 │
-│           Front         Central         Back                    │
-│   High     ĭ /ɪ/  ī /iː/              ŭ /ʊ/  ū /uː/         │
-│   Mid      ĕ /ɛ/  ē /eː/              ŏ /ɔ/  ō /oː/         │
-│   Low                  ă /a/  ā /aː/                           │
-│                                                                 │
-│   Short vowels (ă, ĕ, ĭ, ŏ, ŭ):                              │
-│     Shorter in duration AND more open in quality                │
-│                                                                 │
-│   Long vowels (ā, ē, ī, ō, ū):                                │
-│     Longer in duration AND more closed in quality               │
-│                                                                 │
-│   Macron (ˉ) marks long vowels: ā ē ī ō ū                    │
-│   Breve (˘) marks short vowels: ă ĕ ĭ ŏ ŭ (optional)        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Vowel System**
+>
+> Front / Central / Back:
+> - High: ĭ /ɪ/, ī /iː/ / ŭ /ʊ/, ū /uː/
+> - Mid: ĕ /ɛ/, ē /eː/ / ŏ /ɔ/, ō /oː/
+> - Low: ă /a/, ā /aː/
+>
+> Short vowels (ă, ĕ, ĭ, ŏ, ŭ):
+> Shorter in duration AND more open in quality
+>
+> Long vowels (ā, ē, ī, ō, ū):
+> Longer in duration AND more closed in quality
+>
+> Macron (ˉ) marks long vowels: ā ē ī ō ū
+> Breve (˘) marks short vowels: ă ĕ ĭ ŏ ŭ (optional)
 
 | Vowel | IPA | Duration | Similar to English | Similar to Korean | Example |
 |-------|-----|----------|-------------------|-------------------|---------|
@@ -225,23 +211,19 @@ Latin has 10 vowel phonemes — 5 short and 5 long. Vowel length (quantity) is d
 
 Latin has six diphthongs, of which three are common and three are rare.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Latin Diphthongs                               │
-│                                                                 │
-│   Common diphthongs:                                            │
-│     ae  /ae̯/  → like "eye" (not "ee")                          │
-│     au  /au̯/  → like "ow" in "cow"                             │
-│     oe  /oe̯/  → like "oi" in "oil"                             │
-│                                                                 │
-│   Rare diphthongs:                                              │
-│     ei  /ei̯/  → like "ay" in "day"                             │
-│     eu  /eu̯/  → e + u (no English equivalent)                  │
-│     ui  /ui̯/  → like "we" (only in huic, cui, hui)             │
-│                                                                 │
-│   All diphthongs count as LONG for stress and meter.            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Diphthongs**
+>
+> Common diphthongs:
+> - ae /ae̯/ → like "eye" (not "ee")
+> - au /au̯/ → like "ow" in "cow"
+> - oe /oe̯/ → like "oi" in "oil"
+>
+> Rare diphthongs:
+> - ei /ei̯/ → like "ay" in "day"
+> - eu /eu̯/ → e + u (no English equivalent)
+> - ui /ui̯/ → like "we" (only in huic, cui, hui)
+>
+> All diphthongs count as LONG for stress and meter.
 
 | Diphthong | IPA | Pronunciation | Example |
 |-----------|-----|---------------|---------|
@@ -283,40 +265,36 @@ Classical → Ecclesiastical → English:
 
 ### 5.2 Key Consonant Rules (Classical Pronunciation)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Classical Latin Consonant Rules                      │
-│                                                                 │
-│   C = ALWAYS /k/, never /s/ or /tʃ/                            │
-│     Cicerō = /ˈkɪ.kɛ.roː/ NOT "SIS-uh-roh"                   │
-│     centum = /ˈkɛn.tum/ NOT "SEN-tum"                          │
-│                                                                 │
-│   G = ALWAYS /g/, never /dʒ/                                    │
-│     genus = /ˈgɛ.nʊs/ NOT "JEE-nus"                            │
-│     gerō = /ˈgɛ.roː/                                           │
-│                                                                 │
-│   V = /w/ when consonantal                                      │
-│     vīnum = /ˈwiː.nʊm/ (wine)                                  │
-│     via = /ˈwɪ.a/ (road)                                        │
-│                                                                 │
-│   I = /j/ when consonantal (before a vowel)                     │
-│     iam = /jam/ (now, already)                                   │
-│     iūs = /juːs/ (law, right)                                   │
-│                                                                 │
-│   S = ALWAYS voiceless /s/, never /z/                           │
-│     rosa = /ˈrɔ.sa/ NOT /ˈrɔ.za/                               │
-│                                                                 │
-│   R = trilled /r/ (tongue tip trill, like Italian or Spanish)   │
-│     rēx = /reːks/ (king)                                        │
-│                                                                 │
-│   H = /h/ — a real sound in classical Latin (later lost)        │
-│     homō = /ˈhɔ.moː/ (man, person)                             │
-│                                                                 │
-│   T = ALWAYS /t/, even before i + vowel                         │
-│     nātiō = /ˈnaː.tɪ.oː/ NOT "NAY-shee-oh"                   │
-│     ratiō = /ˈra.tɪ.oː/ NOT "RAY-shee-oh"                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Classical Latin Consonant Rules**
+>
+> - **C** = ALWAYS /k/, never /s/ or /tʃ/
+>   Cicerō = /ˈkɪ.kɛ.roː/ NOT "SIS-uh-roh"
+>   centum = /ˈkɛn.tum/ NOT "SEN-tum"
+>
+> - **G** = ALWAYS /g/, never /dʒ/
+>   genus = /ˈgɛ.nʊs/ NOT "JEE-nus"
+>   gerō = /ˈgɛ.roː/
+>
+> - **V** = /w/ when consonantal
+>   vīnum = /ˈwiː.nʊm/ (wine)
+>   via = /ˈwɪ.a/ (road)
+>
+> - **I** = /j/ when consonantal (before a vowel)
+>   iam = /jam/ (now, already)
+>   iūs = /juːs/ (law, right)
+>
+> - **S** = ALWAYS voiceless /s/, never /z/
+>   rosa = /ˈrɔ.sa/ NOT /ˈrɔ.za/
+>
+> - **R** = trilled /r/ (tongue tip trill, like Italian or Spanish)
+>   rēx = /reːks/ (king)
+>
+> - **H** = /h/ — a real sound in classical Latin (later lost)
+>   homō = /ˈhɔ.moː/ (man, person)
+>
+> - **T** = ALWAYS /t/, even before i + vowel
+>   nātiō = /ˈnaː.tɪ.oː/ NOT "NAY-shee-oh"
+>   ratiō = /ˈra.tɪ.oː/ NOT "RAY-shee-oh"
 
 ### 5.3 Double Consonants (Gemination)
 
@@ -372,27 +350,22 @@ Examples of geminate consonants:
 
 Syllable quantity is crucial for stress placement and poetry (meter).
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Syllable Weight (Quantity)                           │
-│                                                                 │
-│   LIGHT syllable (syllaba brevis):                              │
-│     Contains a short vowel + open syllable (no closing          │
-│     consonant)                                                  │
-│     Examples: ă-mō (ă is light), dŏ-mi-nus (dŏ is light)      │
-│                                                                 │
-│   HEAVY syllable (syllaba longa):                               │
-│     Either:                                                     │
-│       (a) Contains a long vowel or diphthong                    │
-│           Examples: Rō-ma (Rō is heavy), Cae-sar (Cae heavy)   │
-│       (b) Ends in a consonant (closed syllable)                 │
-│           Examples: mag-nus (mag is heavy), ter-ra (ter heavy)  │
-│                                                                 │
-│   Rule of thumb:                                                │
-│     LIGHT = short vowel + nothing                               │
-│     HEAVY = long vowel, OR diphthong, OR short vowel + cons.   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Syllable Weight (Quantity)**
+>
+> **LIGHT syllable** (syllaba brevis):
+> Contains a short vowel + open syllable (no closing consonant)
+> Examples: ă-mō (ă is light), dŏ-mi-nus (dŏ is light)
+>
+> **HEAVY syllable** (syllaba longa):
+> Either:
+> - (a) Contains a long vowel or diphthong
+>   Examples: Rō-ma (Rō is heavy), Cae-sar (Cae heavy)
+> - (b) Ends in a consonant (closed syllable)
+>   Examples: mag-nus (mag is heavy), ter-ra (ter heavy)
+>
+> **Rule of thumb:**
+> - LIGHT = short vowel + nothing
+> - HEAVY = long vowel, OR diphthong, OR short vowel + cons.
 
 ### 6.3 Why Quantity Matters
 
@@ -408,35 +381,31 @@ Syllable quantity is crucial for stress placement and poetry (meter).
 
 Latin stress is entirely predictable from syllable quantity:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Latin Stress Rules                               │
-│                                                                 │
-│   Rule 1: Monosyllables                                         │
-│     One-syllable words are stressed on that syllable.           │
-│     rēx, lūx, nōn, et                                          │
-│                                                                 │
-│   Rule 2: Two-syllable words                                    │
-│     Always stressed on the FIRST syllable.                      │
-│     RO-sa, MA-ter, A-mō, TER-ra                                │
-│                                                                 │
-│   Rule 3: Words of three or more syllables                      │
-│     Look at the PENULTIMATE (second-to-last) syllable:          │
-│                                                                 │
-│     (a) If the penult is HEAVY → stress the PENULT              │
-│         a-MĪ-cus (mī is long vowel → heavy → stressed)         │
-│         ma-GIS-ter (gis ends in consonant → heavy → stressed)   │
-│         for-TŪ-na (tū is long vowel → heavy → stressed)        │
-│                                                                 │
-│     (b) If the penult is LIGHT → stress the ANTEPENULT          │
-│         DO-mi-nus (mi is short + open → light → stress DO)      │
-│         LIT-te-ra (te is short + open → light → stress LIT)     │
-│         FE-mi-na (mi is short + open → light → stress FE)       │
-│                                                                 │
-│   ※ Latin NEVER stresses the last syllable (unlike French).     │
-│   ※ Latin NEVER stresses before the antepenult.                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Stress Rules**
+>
+> **Rule 1: Monosyllables**
+> One-syllable words are stressed on that syllable.
+> rēx, lūx, nōn, et
+>
+> **Rule 2: Two-syllable words**
+> Always stressed on the FIRST syllable.
+> RO-sa, MA-ter, A-mō, TER-ra
+>
+> **Rule 3: Words of three or more syllables**
+> Look at the PENULTIMATE (second-to-last) syllable:
+>
+> - (a) If the penult is HEAVY → stress the PENULT
+>   a-MĪ-cus (mī is long vowel → heavy → stressed)
+>   ma-GIS-ter (gis ends in consonant → heavy → stressed)
+>   for-TŪ-na (tū is long vowel → heavy → stressed)
+>
+> - (b) If the penult is LIGHT → stress the ANTEPENULT
+>   DO-mi-nus (mi is short + open → light → stress DO)
+>   LIT-te-ra (te is short + open → light → stress LIT)
+>   FE-mi-na (mi is short + open → light → stress FE)
+>
+> ※ Latin NEVER stresses the last syllable (unlike French).
+> ※ Latin NEVER stresses before the antepenult.
 
 ### 7.2 Stress Examples
 
@@ -660,37 +629,33 @@ How would each word be pronounced in classical vs ecclesiastical Latin?
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Latin Pronunciation Quick Reference                  │
-│                                                                 │
-│   VOWELS (10 phonemes):                                         │
-│     Short: ă /a/, ĕ /ɛ/, ĭ /ɪ/, ŏ /ɔ/, ŭ /ʊ/               │
-│     Long:  ā /aː/, ē /eː/, ī /iː/, ō /oː/, ū /uː/         │
-│     Macron (ˉ) = long vowel marker                              │
-│                                                                 │
-│   DIPHTHONGS: ae /ae̯/, au /au̯/, oe /oe̯/                      │
-│     ae = "eye", au = "ow", oe = "oi"                           │
-│                                                                 │
-│   KEY CONSONANTS (Classical):                                    │
-│     C = ALWAYS /k/         G = ALWAYS /g/                       │
-│     V = /w/ (consonant)    I = /j/ (before vowel)              │
-│     S = ALWAYS /s/         H = /h/ (pronounced!)               │
-│     R = trilled /r/        T = ALWAYS /t/                       │
-│     QU = /kw/              X = /ks/                             │
-│                                                                 │
-│   STRESS RULES:                                                 │
-│     2 syllables → stress first                                  │
-│     3+ syllables → check penult:                                │
-│       Heavy penult → stress penult                              │
-│       Light penult → stress antepenult                          │
-│     Never stress the final syllable                             │
-│                                                                 │
-│   SYLLABLE WEIGHT:                                              │
-│     Heavy = long vowel OR diphthong OR closed syllable          │
-│     Light = short vowel + open syllable                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Pronunciation Quick Reference**
+>
+> **VOWELS** (10 phonemes):
+> - Short: ă /a/, ĕ /ɛ/, ĭ /ɪ/, ŏ /ɔ/, ŭ /ʊ/
+> - Long: ā /aː/, ē /eː/, ī /iː/, ō /oː/, ū /uː/
+> - Macron (ˉ) = long vowel marker
+>
+> **DIPHTHONGS**: ae /ae̯/, au /au̯/, oe /oe̯/
+> - ae = "eye", au = "ow", oe = "oi"
+>
+> **KEY CONSONANTS** (Classical):
+> - C = ALWAYS /k/ / G = ALWAYS /g/
+> - V = /w/ (consonant) / I = /j/ (before vowel)
+> - S = ALWAYS /s/ / H = /h/ (pronounced!)
+> - R = trilled /r/ / T = ALWAYS /t/
+> - QU = /kw/ / X = /ks/
+>
+> **STRESS RULES:**
+> - 2 syllables → stress first
+> - 3+ syllables → check penult:
+>   - Heavy penult → stress penult
+>   - Light penult → stress antepenult
+> - Never stress the final syllable
+>
+> **SYLLABLE WEIGHT:**
+> - Heavy = long vowel OR diphthong OR closed syllable
+> - Light = short vowel + open syllable
 
 ---
 
