@@ -28,36 +28,28 @@
 
 조건문은 **조건**(if절)과 그 **결과**(주절) 간의 관계를 표현합니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   조건문의 구조                                    │
-│                                                                 │
-│   IF절 (조건)              +    주절 (결과)                       │
-│   "If it rains,"               "I will stay home."              │
-│                                                                 │
-│   순서를 바꿀 수 있습니다:                                         │
-│   주절 + IF절 (쉼표 불필요)                                       │
-│   "I will stay home if it rains."                               │
-│                                                                 │
-│   쉼표 규칙:                                                     │
-│   If + 절, 주절.    ← if절 뒤에 쉼표                              │
-│   주절 if + 절.     ← 쉼표 없음                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **조건문의 구조**
+>
+> IF절 (조건)              +    주절 (결과)
+> "If it rains,"               "I will stay home."
+> 순서를 바꿀 수 있습니다:
+> 주절 + IF절 (쉼표 불필요)
+> "I will stay home if it rains."
+> 쉼표 규칙:
+> If + 절, 주절.    ← if절 뒤에 쉼표
+> 주절 if + 절.     ← 쉼표 없음
 
 ### 1.2 조건문 유형 총괄표
 
-```
-┌────────┬──────────────────┬──────────────────┬─────────────────┐
-│ 유형   │ If절              │ 주절              │ 의미             │
-├────────┼──────────────────┼──────────────────┼─────────────────┤
-│ 제로   │ 현재 단순         │ 현재 단순         │ 항상 참인 사실    │
-│ 제1    │ 현재 단순         │ will + 기본형     │ 현실적/가능한     │
-│ 제2    │ 과거 단순         │ would + 기본형    │ 비현실 현재      │
-│ 제3    │ 과거 완료         │ would have + PP   │ 비현실 과거      │
-│ 혼합   │ (조합)            │ (조합)            │ 혼합 시간        │
-└────────┴──────────────────┴──────────────────┴─────────────────┘
-```
+> | 유형 | If절 | 주절 | 의미 |
+> |---|---|---|---|
+> | 제로 | 현재 단순 | 현재 단순 | 항상 참인 사실 |
+> | 제1 | 현재 단순 | will + 기본형 | 현실적/가능한 |
+> | 제2 | 과거 단순 | would + 기본형 | 비현실 현재 |
+> | 제3 | 과거 완료 | would have + PP | 비현실 과거 |
+> | 혼합 | (조합) | (조합) | 혼합 시간 |
+>
+> ├────────┼──────────────────┼──────────────────┼─────────────────┤
 
 ---
 
@@ -154,21 +146,15 @@ If + 현재 단순, will + 기본형 동사
 
 ### 3.4 중요한 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   if절에서 "will"을 절대 사용하지 마세요!                          │
-│                                                                 │
-│   ✗ "If it will rain, I will stay home."                        │
-│   ✓ "If it rains, I will stay home."                            │
-│                                                                 │
-│   ✗ "If you will study, you will pass."                         │
-│   ✓ "If you study, you will pass."                              │
-│                                                                 │
-│   예외: 의지/요청을 나타낼 때 if절에 "will" 가능:                   │
-│   ✓ "If you will wait a moment, I'll check for you."           │
-│     (= 잠시 기다려 주실 의향이 있다면)                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **if절에서 "will"을 절대 사용하지 마세요!**
+>
+> ✗ "If it will rain, I will stay home."
+> ✓ "If it rains, I will stay home."
+> ✗ "If you will study, you will pass."
+> ✓ "If you study, you will pass."
+> 예외: 의지/요청을 나타낼 때 if절에 "will" 가능:
+> ✓ "If you will wait a moment, I'll check for you."
+> (= 잠시 기다려 주실 의향이 있다면)
 
 ---
 
@@ -210,22 +196,15 @@ If + 과거 단순, would + 기본형 동사
 
 ### 4.3 제2 조건문에서 "Were" vs "Was"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   격식적으로는 모든 주어에 "were" 사용 (가정법):                     │
-│                                                                 │
-│   "If I were rich, I would donate to charity."                  │
-│   "If she were here, she would know what to do."                │
-│   "If he were taller, he could play basketball."                │
-│                                                                 │
-│   비격식 영어에서는 I/he/she/it에 "was"도 흔합니다:                 │
-│   "If I was rich..." (비격식이지만 널리 수용됨)                     │
-│                                                                 │
-│   "If I were you" 구문에서는 항상 "were":                         │
-│   ✓ "If I were you, I would study harder."                      │
-│   ✗ "If I was you, I would study harder." (피하세요)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 격식적으로는 모든 주어에 "were" 사용 (가정법):
+> "If I were rich, I would donate to charity."
+> "If she were here, she would know what to do."
+> "If he were taller, he could play basketball."
+> 비격식 영어에서는 I/he/she/it에 "was"도 흔합니다:
+> "If I was rich..." (비격식이지만 널리 수용됨)
+> "If I were you" 구문에서는 항상 "were":
+> ✓ "If I were you, I would study harder."
+> ✗ "If I was you, I would study harder." (피하세요)
 
 ### 4.4 제1 조건문 vs 제2 조건문 대조
 
@@ -347,19 +326,14 @@ If + 과거 단순, would have + 과거분사
 
 ### 6.3 요약
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   혼합 조건문                                                    │
-│                                                                 │
-│   유형 1: 과거 → 현재                                            │
-│   If + had + PP, ... would + 기본형 동사                          │
-│   "If I had saved money, I would be rich now."                  │
-│                                                                 │
-│   유형 2: 현재 → 과거                                            │
-│   If + 과거 단순, ... would have + PP                             │
-│   "If I were taller, I would have played basketball."           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **혼합 조건문**
+>
+> 유형 1: 과거 → 현재
+> If + had + PP, ... would + 기본형 동사
+> "If I had saved money, I would be rich now."
+> 유형 2: 현재 → 과거
+> If + 과거 단순, ... would have + PP
+> "If I were taller, I would have played basketball."
 
 ---
 
@@ -556,29 +530,20 @@ If + 과거 단순, would have + 과거분사
 
 ### 10.1 주요 차이점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 조건문은 -(으)면을 사용합니다:                              │
-│                                                                 │
-│   비가 오면, 집에 있을 거야.                                       │
-│   "If it rains, I will stay home."                              │
-│                                                                 │
-│   한국어는 가정적 조건에서 시제를 바꾸지 않습니다:                     │
-│   내가 부자면, 여행을 갈 텐데.                                      │
-│   "If I were rich, I would travel." (한국어에는 과거 시제 없음)     │
-│                                                                 │
-│   이것이 한국어 화자들이 다음과 같은 오류를 범하는 이유입니다:          │
-│                                                                 │
-│   ✗ "If I am rich, I would travel."                             │
-│     (제1과 제2 조건문 혼용)                                       │
-│   ✓ "If I were rich, I would travel."                           │
-│                                                                 │
-│   ✗ "If I study harder, I would pass."                          │
-│     (제1과 제2 조건문 혼용)                                       │
-│   ✓ "If I studied harder, I would pass." (가정)                  │
-│   ✓ "If I study harder, I will pass." (현실적 가능성)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어 조건문은 -(으)면을 사용합니다:
+> 비가 오면, 집에 있을 거야.
+> "If it rains, I will stay home."
+> 한국어는 가정적 조건에서 시제를 바꾸지 않습니다:
+> 내가 부자면, 여행을 갈 텐데.
+> "If I were rich, I would travel." (한국어에는 과거 시제 없음)
+> 이것이 한국어 화자들이 다음과 같은 오류를 범하는 이유입니다:
+> ✗ "If I am rich, I would travel."
+> (제1과 제2 조건문 혼용)
+> ✓ "If I were rich, I would travel."
+> ✗ "If I study harder, I would pass."
+> (제1과 제2 조건문 혼용)
+> ✓ "If I studied harder, I would pass." (가정)
+> ✓ "If I study harder, I will pass." (현실적 가능성)
 
 ### 10.2 한국어 화자의 흔한 오류
 
@@ -752,31 +717,24 @@ If + 과거 단순, would have + 과거분사
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  조건문 빠른 가이드                                │
-│                  Conditionals Quick Guide                       │
-│                                                                 │
-│   제로:  If + 현재, 현재              (항상 참)                   │
-│   제1:   If + 현재, will + 기본형     (현실적/가능한)              │
-│   제2:   If + 과거, would + 기본형    (비현실 현재)               │
-│   제3:   If + 과거 완료, would have + PP (비현실 과거)            │
-│   혼합:  제2와 제3의 조합                                        │
-│                                                                 │
-│   WISH:                                                        │
-│   현재: wish + 과거 단순    "I wish I knew"                      │
-│   과거: wish + 과거 완료    "I wish I had known"                 │
-│   변화: wish + would       "I wish he would stop"               │
-│                                                                 │
-│   대체 표현:                                                     │
-│   unless = if not                                               │
-│   provided that / as long as = ~라는 조건에서                     │
-│   even if = ~에도 불구하고                                       │
-│   in case = 만일을 위해                                          │
-│                                                                 │
-│   if절에서 "will"이나 "would"를 절대 사용하지 마세요!               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **조건문 빠른 가이드**
+>
+> Conditionals Quick Guide
+> 제로:  If + 현재, 현재              (항상 참)
+> 제1:   If + 현재, will + 기본형     (현실적/가능한)
+> 제2:   If + 과거, would + 기본형    (비현실 현재)
+> 제3:   If + 과거 완료, would have + PP (비현실 과거)
+> 혼합:  제2와 제3의 조합
+> WISH:
+> 현재: wish + 과거 단순    "I wish I knew"
+> 과거: wish + 과거 완료    "I wish I had known"
+> 변화: wish + would       "I wish he would stop"
+> 대체 표현:
+> unless = if not
+> provided that / as long as = ~라는 조건에서
+> even if = ~에도 불구하고
+> in case = 만일을 위해
+> if절에서 "will"이나 "would"를 절대 사용하지 마세요!
 
 ---
 
