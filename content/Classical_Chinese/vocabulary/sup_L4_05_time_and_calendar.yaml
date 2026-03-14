@@ -1,0 +1,354 @@
+lesson: sup_L4_Time_and_Calendar
+lesson_number: 111
+hanja_level: L4
+type: supplementary
+topic: Time and Calendar
+categories:
+- id: heavenly_stems
+  label:
+    en: Heavenly Stems (天干)
+    ko: 천간(天干)
+  type: vocabulary
+  words:
+  - classical_chinese: 甲
+    reading: 갑
+    meaning_kun: 갑옷
+    translation:
+      en: first (heavenly stem); armor; shell
+      ko: "첫째 천간; 갑옷; 껍데기"
+    gender: null
+    plural: null
+    notes:
+      en: "1st Heavenly Stem. Also means 'armor' or 'first-rank.'"
+      ko: "제1천간. '갑옷' 또는 '으뜸'의 뜻도."
+  - classical_chinese: 乙
+    reading: 을
+    meaning_kun: 새
+    translation:
+      en: second (heavenly stem); second
+      ko: "둘째 천간; 둘째"
+    gender: null
+    plural: null
+    notes:
+      en: "2nd Heavenly Stem. Curved shape like a sprout."
+      ko: "제2천간. 싹이 구부러진 모양."
+  - classical_chinese: 丙
+    reading: 병
+    meaning_kun: 남녘
+    translation:
+      en: third (heavenly stem); bright
+      ko: "셋째 천간; 밝은"
+    gender: null
+    plural: null
+    notes:
+      en: "3rd Heavenly Stem. Associated with fire and south."
+      ko: "제3천간. 불과 남쪽에 배속."
+  - classical_chinese: 丁
+    reading: 정
+    meaning_kun: 고무래
+    translation:
+      en: fourth (heavenly stem); male adult
+      ko: "넷째 천간; 장정"
+    gender: null
+    plural: null
+    notes:
+      en: "4th Heavenly Stem. Also means 'male adult' or 'robust.'"
+      ko: "제4천간. '장정' 또는 '건장한'의 뜻도."
+  - classical_chinese: 戊
+    reading: 무
+    meaning_kun: 다섯째
+    translation:
+      en: fifth (heavenly stem)
+      ko: 다섯째 천간
+    gender: null
+    plural: null
+    notes:
+      en: "5th Heavenly Stem. Associated with earth and center."
+      ko: "제5천간. 흙과 중앙에 배속."
+  - classical_chinese: 己
+    reading: 기
+    meaning_kun: 자기
+    translation:
+      en: sixth (heavenly stem); self
+      ko: "여섯째 천간; 자기"
+    gender: null
+    plural: null
+    notes:
+      en: "6th Heavenly Stem. Also means 'oneself.' Distinguished from 已 and 巳."
+      ko: "제6천간. '자기'의 뜻도. 已, 巳와 구별."
+  - classical_chinese: 庚
+    reading: 경
+    meaning_kun: 나이
+    translation:
+      en: seventh (heavenly stem); age
+      ko: "일곱째 천간; 나이"
+    gender: null
+    plural: null
+    notes:
+      en: "7th Heavenly Stem. Associated with metal and west."
+      ko: "제7천간. 쇠와 서쪽에 배속."
+  - classical_chinese: 辛
+    reading: 신
+    meaning_kun: 매울
+    translation:
+      en: eighth (heavenly stem); spicy; bitter
+      ko: "여덟째 천간; 매운; 괴로운"
+    gender: null
+    plural: null
+    notes:
+      en: "8th Heavenly Stem. Pungent taste. 辛苦 = hardship."
+      ko: "제8천간. 매운맛. 辛苦 = 신고."
+  - classical_chinese: 壬
+    reading: 임
+    meaning_kun: 아홉째
+    translation:
+      en: ninth (heavenly stem)
+      ko: 아홉째 천간
+    gender: null
+    plural: null
+    notes:
+      en: "9th Heavenly Stem. Associated with water and north."
+      ko: "제9천간. 물과 북쪽에 배속."
+  - classical_chinese: 癸
+    reading: 계
+    meaning_kun: 열째
+    translation:
+      en: tenth (heavenly stem)
+      ko: 열째 천간
+    gender: null
+    plural: null
+    notes:
+      en: "10th Heavenly Stem. Last of the stems, associated with water."
+      ko: "제10천간. 천간의 마지막, 물에 배속."
+- id: earthly_branches
+  label:
+    en: Earthly Branches (地支)
+    ko: 지지(地支)
+  type: vocabulary
+  words:
+  - classical_chinese: 子
+    reading: 자
+    meaning_kun: 아들
+    translation:
+      en: 1st branch (Rat); midnight
+      ko: "제1지지(쥐); 자시(밤 11-1시)"
+    gender: null
+    plural: null
+    notes:
+      en: "1st Earthly Branch. Zodiac: Rat (鼠). Time: 11pm-1am."
+      ko: "제1지지. 띠: 쥐(鼠). 시간: 밤 11시-새벽 1시."
+  - classical_chinese: 丑
+    reading: 축
+    meaning_kun: 소
+    translation:
+      en: 2nd branch (Ox); early morning
+      ko: "제2지지(소); 축시(새벽 1-3시)"
+    gender: null
+    plural: null
+    notes:
+      en: "2nd Earthly Branch. Zodiac: Ox (牛). Time: 1-3am."
+      ko: "제2지지. 띠: 소(牛). 시간: 새벽 1-3시."
+  - classical_chinese: 寅
+    reading: 인
+    meaning_kun: 범
+    translation:
+      en: 3rd branch (Tiger); dawn
+      ko: "제3지지(호랑이); 인시(새벽 3-5시)"
+    gender: null
+    plural: null
+    notes:
+      en: "3rd Earthly Branch. Zodiac: Tiger (虎). Time: 3-5am."
+      ko: "제3지지. 띠: 호랑이(虎). 시간: 새벽 3-5시."
+  - classical_chinese: 卯
+    reading: 묘
+    meaning_kun: 토끼
+    translation:
+      en: 4th branch (Rabbit); sunrise
+      ko: "제4지지(토끼); 묘시(오전 5-7시)"
+    gender: null
+    plural: null
+    notes:
+      en: "4th Earthly Branch. Zodiac: Rabbit (兔). Time: 5-7am."
+      ko: "제4지지. 띠: 토끼(兔). 시간: 오전 5-7시."
+  - classical_chinese: 辰
+    reading: 진
+    meaning_kun: 별
+    translation:
+      en: 5th branch (Dragon); morning
+      ko: "제5지지(용); 진시(오전 7-9시)"
+    gender: null
+    plural: null
+    notes:
+      en: "5th Earthly Branch. Zodiac: Dragon (龍). Time: 7-9am."
+      ko: "제5지지. 띠: 용(龍). 시간: 오전 7-9시."
+  - classical_chinese: 巳
+    reading: 사
+    meaning_kun: 뱀
+    translation:
+      en: 6th branch (Snake); late morning
+      ko: "제6지지(뱀); 사시(오전 9-11시)"
+    gender: null
+    plural: null
+    notes:
+      en: "6th Earthly Branch. Zodiac: Snake (蛇). Distinguished from 已 and 己."
+      ko: "제6지지. 띠: 뱀(蛇). 已, 己와 구별."
+  - classical_chinese: 午
+    reading: 오
+    meaning_kun: 낮
+    translation:
+      en: 7th branch (Horse); noon
+      ko: "제7지지(말); 오시(낮 11-1시)"
+    gender: null
+    plural: null
+    notes:
+      en: "7th Earthly Branch. Zodiac: Horse (馬). 正午 = noon."
+      ko: "제7지지. 띠: 말(馬). 正午 = 정오."
+  - classical_chinese: 未
+    reading: 미
+    meaning_kun: 아닐
+    translation:
+      en: 8th branch (Sheep); afternoon
+      ko: "제8지지(양); 미시(오후 1-3시)"
+    gender: null
+    plural: null
+    notes:
+      en: "8th Earthly Branch. Zodiac: Sheep (羊). Also 'not yet.'"
+      ko: "제8지지. 띠: 양(羊). '아직 ~않다'의 뜻도."
+  - classical_chinese: 申
+    reading: 신
+    meaning_kun: 원숭이
+    translation:
+      en: 9th branch (Monkey); late afternoon
+      ko: "제9지지(원숭이); 신시(오후 3-5시)"
+    gender: null
+    plural: null
+    notes:
+      en: "9th Earthly Branch. Zodiac: Monkey (猴). Also 'to state.'"
+      ko: "제9지지. 띠: 원숭이(猴). '아뢰다'의 뜻도."
+  - classical_chinese: 酉
+    reading: 유
+    meaning_kun: 닭
+    translation:
+      en: 10th branch (Rooster); evening
+      ko: "제10지지(닭); 유시(오후 5-7시)"
+    gender: null
+    plural: null
+    notes:
+      en: "10th Earthly Branch. Zodiac: Rooster (鷄). Also means 'wine jar.'"
+      ko: "제10지지. 띠: 닭(鷄). '술독'의 뜻도."
+  - classical_chinese: 戌
+    reading: 술
+    meaning_kun: 개
+    translation:
+      en: 11th branch (Dog); night
+      ko: "제11지지(개); 술시(저녁 7-9시)"
+    gender: null
+    plural: null
+    notes:
+      en: "11th Earthly Branch. Zodiac: Dog (犬). Time: 7-9pm."
+      ko: "제11지지. 띠: 개(犬). 시간: 저녁 7-9시."
+  - classical_chinese: 亥
+    reading: 해
+    meaning_kun: 돼지
+    translation:
+      en: 12th branch (Pig); late night
+      ko: "제12지지(돼지); 해시(밤 9-11시)"
+    gender: null
+    plural: null
+    notes:
+      en: "12th Earthly Branch. Zodiac: Pig (豬). Time: 9-11pm."
+      ko: "제12지지. 띠: 돼지(豬). 시간: 밤 9-11시."
+- id: time_expressions
+  label:
+    en: Time Expressions
+    ko: 시간 표현
+  type: vocabulary
+  words:
+  - classical_chinese: 曆
+    reading: 력
+    meaning_kun: 책력
+    translation:
+      en: calendar; almanac
+      ko: "역법; 책력"
+    gender: null
+    plural: null
+    notes:
+      en: "厂 + 禾 + 日. Record of astronomical cycles."
+      ko: "厂 + 禾 + 日. 천문 주기의 기록."
+  - classical_chinese: 紀
+    reading: 기
+    meaning_kun: 기록할
+    translation:
+      en: era; to record; discipline
+      ko: "기원; 기록하다; 기강"
+    gender: null
+    plural: null
+    notes:
+      en: "Silk (糸) + 己. Thread of time. 世紀 = century."
+      ko: "실(糸) + 己. 시간의 실. 世紀 = 세기."
+  - classical_chinese: 昔
+    reading: 석
+    meaning_kun: 옛
+    translation:
+      en: past; former times; long ago
+      ko: "옛날; 예전"
+    gender: null
+    plural: null
+    notes:
+      en: "共 (together) + 日 (sun). Accumulated days. The past."
+      ko: "共 + 日(해). 쌓인 날들. 과거."
+  - classical_chinese: 今
+    reading: 금
+    meaning_kun: 이제
+    translation:
+      en: now; present; today
+      ko: "지금; 현재; 오늘"
+    gender: null
+    plural: null
+    notes:
+      en: "Variant of a mouth giving commands. The present moment."
+      ko: "명령하는 입의 변형. 현재의 순간."
+  - classical_chinese: 古
+    reading: 고
+    meaning_kun: 옛
+    translation:
+      en: ancient; old; former
+      ko: "옛; 고대의"
+    gender: null
+    plural: null
+    notes:
+      en: "十 (ten) + 口 (mouth). Passed through ten mouths (generations)."
+      ko: "十(열) + 口(입). 열 입(세대)을 거친."
+  - classical_chinese: 永
+    reading: 영
+    meaning_kun: 길
+    translation:
+      en: eternal; forever; long
+      ko: "영원한; 길다"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of water flowing long. 永遠 = eternity."
+      ko: "길게 흐르는 물의 상형자. 永遠 = 영원."
+  - classical_chinese: 瞬
+    reading: 순
+    meaning_kun: 눈깜짝할
+    translation:
+      en: instant; blink; moment
+      ko: "순간; 눈 깜짝할 사이"
+    gender: null
+    plural: null
+    notes:
+      en: "Eye (目) + 舜. A blink of an eye. 瞬間 = instant."
+      ko: "눈(目) + 舜. 눈 깜짝할 사이. 瞬間 = 순간."
+  - classical_chinese: 刻
+    reading: 각
+    meaning_kun: 새길
+    translation:
+      en: quarter hour; to carve; moment
+      ko: "각(15분); 새기다; 순간"
+    gender: null
+    plural: null
+    notes:
+      en: "亥 + knife (刂). To carve marks for time-keeping."
+      ko: "亥 + 칼(刂). 시간 표시를 새기다."
