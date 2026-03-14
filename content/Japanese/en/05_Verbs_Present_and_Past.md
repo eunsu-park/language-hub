@@ -35,21 +35,16 @@
 
 ### 1.1 How Japanese Verbs Differ from English
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Japanese Verb Key Facts                              │
-│                                                                  │
-│   • Verbs always come at the END of the sentence                 │
-│   • Verbs do NOT change for person/number                        │
-│     (no "I eat" vs "he eats" distinction)                        │
-│   • Verbs conjugate for: tense, politeness, mood                 │
-│   • Dictionary form always ends in an -u sound                   │
-│   • Two politeness levels: plain (casual) and polite (です/ます)  │
-│                                                                  │
-│   食べる (taberu) = "to eat"                                      │
-│   Same form for: I eat, you eat, he/she eats, we eat, they eat  │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Japanese Verb Key Facts**
+>
+> - Verbs always come at the END of the sentence
+> - Verbs do NOT change for person/number (no "I eat" vs "he eats" distinction)
+> - Verbs conjugate for: tense, politeness, mood
+> - Dictionary form always ends in an -u sound
+> - Two politeness levels: plain (casual) and polite (です/ます)
+>
+> 食べる (taberu) = "to eat"
+> Same form for: I eat, you eat, he/she eats, we eat, they eat
 
 ### 1.2 Dictionary Form (辞書形 / じしょけい)
 
@@ -73,26 +68,21 @@ The **dictionary form** (also called plain present affirmative) is the basic for
 
 ### 2.1 Overview
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              The Three Verb Groups                                │
-│                                                                  │
-│   Group 1: Ichidan verbs (一段動詞) — "ru-verbs"                  │
-│     End in -iru or -eru                                          │
-│     Drop る, add conjugation ending                              │
-│     Examples: 食べる, 見る, 起きる                                  │
-│                                                                  │
-│   Group 2: Godan verbs (五段動詞) — "u-verbs"                     │
-│     End in -u, -ku, -gu, -su, -tsu, -nu, -bu, -mu, -ru          │
-│     Change the final vowel, then add ending                      │
-│     Examples: 書く, 話す, 読む, 買う                                │
-│                                                                  │
-│   Group 3: Irregular verbs (不規則動詞)                            │
-│     Only TWO verbs:                                              │
-│     する (suru, to do) and 来る (kuru, to come)                   │
-│     Must be memorized individually                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The Three Verb Groups**
+>
+> **Group 1: Ichidan verbs (一段動詞) — "ru-verbs"**
+> - End in -iru or -eru
+> - Drop る, add conjugation ending
+> - Examples: 食べる, 見る, 起きる
+>
+> **Group 2: Godan verbs (五段動詞) — "u-verbs"**
+> - End in -u, -ku, -gu, -su, -tsu, -nu, -bu, -mu, -ru
+> - Change the final vowel, then add ending
+> - Examples: 書く, 話す, 読む, 買う
+>
+> **Group 3: Irregular verbs (不規則動詞)**
+> - Only TWO verbs: する (suru, to do) and 来る (kuru, to come)
+> - Must be memorized individually
 
 ### 2.2 Group 1: Ichidan Verbs (る-Verbs)
 
@@ -178,23 +168,19 @@ Only two verbs are truly irregular:
 
 The ます form is the standard polite form. It expresses present tense, future tense, and habitual actions:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              How to Make ます Form                                │
-│                                                                  │
-│   Group 1 (Ichidan): Drop る → add ます                          │
-│     食べる → 食べ + ます → 食べます                                  │
-│                                                                  │
-│   Group 2 (Godan): Change final -u to -i → add ます              │
-│     書く → 書き + ます → 書きます  (ku → ki)                       │
-│     話す → 話し + ます → 話します  (su → shi)                      │
-│     読む → 読み + ます → 読みます  (mu → mi)                      │
-│                                                                  │
-│   Group 3 (Irregular): Memorize                                  │
-│     する → します                                                  │
-│     来る → 来ます (きます)                                         │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **How to Make ます Form**
+>
+> **Group 1 (Ichidan)**: Drop る → add ます
+> - 食べる → 食べ + ます → 食べます
+>
+> **Group 2 (Godan)**: Change final -u to -i → add ます
+> - 書く → 書き + ます → 書きます (ku → ki)
+> - 話す → 話し + ます → 話します (su → shi)
+> - 読む → 読み + ます → 読みます (mu → mi)
+>
+> **Group 3 (Irregular)**: Memorize
+> - する → します
+> - 来る → 来ます (きます)
 
 ### 3.2 Group 2 (Godan) Stem Changes
 
@@ -284,23 +270,18 @@ The final kana changes according to the vowel shift (u → i):
 
 ### 5.1 Why て Form Matters
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              The て Form — Most Versatile Conjugation             │
-│                                                                  │
-│   The て form is used for:                                       │
-│   • Connecting sentences ("eat and drink")                       │
-│   • Requests (食べてください — "please eat")                       │
-│   • Progressive (食べている — "is eating")                        │
-│   • Permission (食べてもいい — "may eat")                          │
-│   • Prohibition (食べてはいけない — "must not eat")                │
-│   • Sequence of actions ("I went and ate")                       │
-│                                                                  │
-│   It is NOT a tense — it is a CONNECTING form.                   │
-│   Learning て form is one of the most important milestones       │
-│   in Japanese grammar.                                           │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The て Form — Most Versatile Conjugation**
+>
+> The て form is used for:
+> - Connecting sentences ("eat and drink")
+> - Requests (食べてください — "please eat")
+> - Progressive (食べている — "is eating")
+> - Permission (食べてもいい — "may eat")
+> - Prohibition (食べてはいけない — "must not eat")
+> - Sequence of actions ("I went and ate")
+>
+> It is NOT a tense — it is a CONNECTING form.
+> Learning て form is one of the most important milestones in Japanese grammar.
 
 ### 5.2 て Form Rules by Group
 
@@ -325,19 +306,15 @@ The final kana changes according to the vowel shift (u → i):
 
 Many learners memorize the て form rules as a song (to the tune of "Santa Claus Is Coming to Town"):
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              The て Form Song for Godan Verbs                     │
-│                                                                  │
-│   う、つ、る → って      (u, tsu, ru → tte)                      │
-│   む、ぶ、ぬ → んで     (mu, bu, nu → nde)                      │
-│   く → いて              (ku → ite)                              │
-│   ぐ → いで              (gu → ide)                              │
-│   す → して              (su → shite)                            │
-│                                                                  │
-│   Exception: 行く → 行って (itte, NOT いいて)                     │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The て Form Song for Godan Verbs**
+>
+> - う、つ、る → って (u, tsu, ru → tte)
+> - む、ぶ、ぬ → んで (mu, bu, nu → nde)
+> - く → いて (ku → ite)
+> - ぐ → いで (gu → ide)
+> - す → して (su → shite)
+>
+> Exception: 行く → 行って (itte, NOT いいて)
 
 ### 5.4 Godan て Form Detailed Table
 
@@ -445,28 +422,22 @@ Simply replace ます with ません:
 
 The plain negative is formed differently for each group:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              ない Form (Plain Negative)                            │
-│                                                                  │
-│   Group 1 (Ichidan): Drop る → add ない                          │
-│     食べる → 食べない (tabenai)                                    │
-│                                                                  │
-│   Group 2 (Godan): Change -u to -a → add ない                   │
-│     書く → 書かない (kakanai)  (ku → ka)                          │
-│     話す → 話さない (hanasanai) (su → sa)                         │
-│     読む → 読まない (yomanai) (mu → ma)                           │
-│                                                                  │
-│     Special: -う verbs → -わない (NOT -あない)                     │
-│     買う → 買わない (kawanai)                                      │
-│                                                                  │
-│   Group 3 (Irregular): Memorize                                  │
-│     する → しない (shinai)                                        │
-│     来る → 来ない (こない, konai)                                  │
-│                                                                  │
-│   Special: ある → ない (NOT あらない)                              │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **ない Form (Plain Negative)**
+>
+> **Group 1 (Ichidan)**: Drop る → add ない
+> - 食べる → 食べない (tabenai)
+>
+> **Group 2 (Godan)**: Change -u to -a → add ない
+> - 書く → 書かない (kakanai) (ku → ka)
+> - 話す → 話さない (hanasanai) (su → sa)
+> - 読む → 読まない (yomanai) (mu → ma)
+> - Special: -う verbs → -わない (NOT -あない) — 買う → 買わない (kawanai)
+>
+> **Group 3 (Irregular)**: Memorize
+> - する → しない (shinai)
+> - 来る → 来ない (こない, konai)
+>
+> Special: ある → ない (NOT あらない)
 
 ### 7.4 Godan ない Form: Vowel Shift (u → a)
 
