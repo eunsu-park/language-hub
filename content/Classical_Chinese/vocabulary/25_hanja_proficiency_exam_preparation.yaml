@@ -1,0 +1,442 @@
+lesson: "25_Hanja_Proficiency_Exam_Preparation"
+lesson_number: 25
+hanja_level: L1
+categories:
+  - id: exam_terms
+    label:
+      en: "Exam-Related Terms"
+      ko: "시험 관련 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 試
+        reading: 시
+        meaning_kun: 시험
+        translation:
+          en: test, examination
+          ko: 시험
+        gender: null
+        plural: null
+        notes:
+          en: "Test. 試驗 = examination. 言 (speech) + 式 (style/method)."
+          ko: "시험. 試驗 = 시험."
+      - classical_chinese: 驗
+        reading: 험
+        meaning_kun: 시험할
+        translation:
+          en: to test, to verify
+          ko: 시험하다, 검증하다
+        gender: null
+        plural: null
+        notes:
+          en: "To verify or test. 試驗 = examination."
+          ko: "시험하다. 試驗 = 시험."
+      - classical_chinese: 級
+        reading: 급
+        meaning_kun: 등급
+        translation:
+          en: grade, level, rank
+          ko: 등급
+        gender: null
+        plural: null
+        notes:
+          en: "Grade or level. 級數 = proficiency level/grade number."
+          ko: "등급. 級數 = 급수(숙련도 등급)."
+      - classical_chinese: 數
+        reading: 수
+        meaning_kun: 셀
+        translation:
+          en: number, to count
+          ko: 수, 세다
+        gender: null
+        plural: null
+        notes:
+          en: "Number. 級數 = grade number. 數字 = numeral."
+          ko: "수. 級數 = 급수. 數字 = 숫자."
+      - classical_chinese: 合
+        reading: 합
+        meaning_kun: 합할
+        translation:
+          en: to pass, to combine
+          ko: 합하다, 합격하다
+        gender: null
+        plural: null
+        notes:
+          en: "To combine/pass. 合格 = to pass (an exam)."
+          ko: "합하다. 合格 = 합격."
+      - classical_chinese: 格
+        reading: 격
+        meaning_kun: 격식
+        translation:
+          en: standard; to pass
+          ko: 격식; 합격하다
+        gender: null
+        plural: null
+        notes:
+          en: "Standard. 合格 = to meet the standard, to pass."
+          ko: "격식. 合格 = 기준에 맞다, 합격하다."
+      - classical_chinese: 題
+        reading: 제
+        meaning_kun: 제목
+        translation:
+          en: question, topic, problem
+          ko: 문제, 제목
+        gender: null
+        plural: null
+        notes:
+          en: "Question or problem. 出題 = to set questions. 問題 = question/problem."
+          ko: "문제. 出題 = 출제. 問題 = 문제."
+      - classical_chinese: 答
+        reading: 답
+        meaning_kun: 대답할
+        translation:
+          en: to answer, answer
+          ko: 대답하다
+        gender: null
+        plural: null
+        notes:
+          en: "Answer. 答案 = answer key. 問答 = question and answer."
+          ko: "대답하다. 答案 = 답안. 問答 = 문답."
+      - classical_chinese: 解
+        reading: 해
+        meaning_kun: 풀
+        translation:
+          en: to solve, to explain
+          ko: 풀다, 해석하다
+        gender: null
+        plural: null
+        notes:
+          en: "To solve. 解答 = to solve a problem. 解釋 = to interpret."
+          ko: "풀다. 解答 = 해답. 解釋 = 해석."
+      - classical_chinese: 點
+        reading: 점
+        meaning_kun: 점
+        translation:
+          en: point, score, dot
+          ko: 점, 점수
+        gender: null
+        plural: null
+        notes:
+          en: "Point or score. 滿點 = full marks. 得點 = to score."
+          ko: "점. 滿點 = 만점. 得點 = 득점."
+      - classical_chinese: 讀
+        reading: 독
+        meaning_kun: 읽을
+        translation:
+          en: to read
+          ko: 읽다
+        gender: null
+        plural: null
+        notes:
+          en: "To read. 音讀 = reading by sound. 訓讀 = reading by meaning."
+          ko: "읽다. 音讀 = 음독. 訓讀 = 훈독."
+      - classical_chinese: 寫
+        reading: 사
+        meaning_kun: 베낄
+        translation:
+          en: to write, to copy
+          ko: 쓰다, 베끼다
+        gender: null
+        plural: null
+        notes:
+          en: "To write. 書寫 = to write out. 寫字 = writing characters."
+          ko: "쓰다. 書寫 = 서사. 寫字 = 글자 쓰기."
+
+  - id: high_level_characters
+    label:
+      en: "High-Level Characters"
+      ko: "고급 한자"
+    type: vocabulary
+    words:
+      - classical_chinese: 鑑
+        reading: 감
+        meaning_kun: 거울
+        translation:
+          en: mirror, to examine, model
+          ko: 거울, 감별하다
+        gender: null
+        plural: null
+        notes:
+          en: "Mirror or model. 鑑別 = to discern. 鑑賞 = to appreciate."
+          ko: "거울, 모범. 鑑別 = 감별. 鑑賞 = 감상."
+      - classical_chinese: 彙
+        reading: 휘
+        meaning_kun: 모을
+        translation:
+          en: to collect, to compile; category
+          ko: 모으다; 종류
+        gender: null
+        plural: null
+        notes:
+          en: "To collect. 語彙 = vocabulary. 字彙 = character dictionary."
+          ko: "모으다. 語彙 = 어휘. 字彙 = 자휘(한자 사전)."
+      - classical_chinese: 纂
+        reading: 찬
+        meaning_kun: 모을
+        translation:
+          en: to compile, to edit
+          ko: 편찬하다
+        gender: null
+        plural: null
+        notes:
+          en: "To compile. 編纂 = to compile and edit. Used for encyclopedias."
+          ko: "편찬하다. 編纂 = 편찬. 백과사전 등에 쓰임."
+      - classical_chinese: 篆
+        reading: 전
+        meaning_kun: 전서
+        translation:
+          en: seal script (ancient writing style)
+          ko: 전서(고대 서체)
+        gender: null
+        plural: null
+        notes:
+          en: "Seal script. 篆書 = seal script, used in official seals and ancient texts."
+          ko: "전서. 篆書 = 전서(인장과 고대 문헌에 쓰인 서체)."
+      - classical_chinese: 隸
+        reading: 례
+        meaning_kun: 종
+        translation:
+          en: clerical script; subordinate
+          ko: 예서(서체); 종
+        gender: null
+        plural: null
+        notes:
+          en: "Clerical script. 隸書 = clerical script, developed from seal script."
+          ko: "예서. 隸書 = 예서(전서에서 발전한 서체)."
+      - classical_chinese: 楷
+        reading: 해
+        meaning_kun: 법
+        translation:
+          en: standard script; model
+          ko: 해서(서체); 모범
+        gender: null
+        plural: null
+        notes:
+          en: "Standard script. 楷書 = regular/standard script, the most common style today."
+          ko: "해서. 楷書 = 해서(현재 가장 보편적인 서체)."
+      - classical_chinese: 草
+        reading: 초
+        meaning_kun: 풀
+        translation:
+          en: grass; cursive script
+          ko: 풀; 초서
+        gender: null
+        plural: null
+        notes:
+          en: "Grass. 草書 = cursive script, highly abbreviated and flowing."
+          ko: "풀. 草書 = 초서(매우 약화되고 유려한 서체)."
+      - classical_chinese: 翰
+        reading: 한
+        meaning_kun: 붓
+        translation:
+          en: writing brush, literary
+          ko: 붓, 문필
+        gender: null
+        plural: null
+        notes:
+          en: "Writing brush. 翰林 = Hanlin Academy (elite scholarly institution)."
+          ko: "붓. 翰林 = 한림(한림원, 정예 학술 기관)."
+      - classical_chinese: 墨
+        reading: 묵
+        meaning_kun: 먹
+        translation:
+          en: ink, ink stick
+          ko: 먹
+        gender: null
+        plural: null
+        notes:
+          en: "Ink. 文房四寶: 筆墨紙硯 = brush, ink, paper, inkstone (four treasures)."
+          ko: "먹. 문방사우: 筆墨紙硯 = 붓, 먹, 종이, 벼루."
+      - classical_chinese: 硯
+        reading: 연
+        meaning_kun: 벼루
+        translation:
+          en: inkstone
+          ko: 벼루
+        gender: null
+        plural: null
+        notes:
+          en: "Inkstone. One of the four treasures of the study (文房四寶)."
+          ko: "벼루. 문방사우(文房四寶) 중 하나."
+
+  - id: review_compounds
+    label:
+      en: "Review Compounds and Study Terms"
+      ko: "복습 한자어 및 학습 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 常
+        reading: 상
+        meaning_kun: 항상
+        translation:
+          en: common, constant, always
+          ko: 항상, 보통의
+        gender: null
+        plural: null
+        notes:
+          en: "Common. 常用漢字 = commonly used Chinese characters."
+          ko: "보통의. 常用漢字 = 상용한자."
+      - classical_chinese: 用
+        reading: 용
+        meaning_kun: 쓸
+        translation:
+          en: to use
+          ko: 쓰다
+        gender: null
+        plural: null
+        notes:
+          en: "To use. 常用 = commonly used. 用例 = usage example."
+          ko: "쓰다. 常用 = 상용. 用例 = 용례."
+      - classical_chinese: 漢
+        reading: 한
+        meaning_kun: 한나라
+        translation:
+          en: Han dynasty; Chinese
+          ko: 한나라; 한
+        gender: null
+        plural: null
+        notes:
+          en: "Han. 漢字 = Chinese characters (Hanja). 漢文 = Classical Chinese."
+          ko: "한. 漢字 = 한자. 漢文 = 한문."
+      - classical_chinese: 字
+        reading: 자
+        meaning_kun: 글자
+        translation:
+          en: character, letter
+          ko: 글자
+        gender: null
+        plural: null
+        notes:
+          en: "Character. 漢字 = Chinese character. 字典 = character dictionary."
+          ko: "글자. 漢字 = 한자. 字典 = 자전(한자 사전)."
+      - classical_chinese: 部
+        reading: 부
+        meaning_kun: 떼
+        translation:
+          en: section, part; radical category
+          ko: 부분; 부수
+        gender: null
+        plural: null
+        notes:
+          en: "Section. 部首 = radical (the classifying component of a character)."
+          ko: "부분. 部首 = 부수(한자를 분류하는 구성 요소)."
+      - classical_chinese: 首
+        reading: 수
+        meaning_kun: 머리
+        translation:
+          en: head, chief; radical
+          ko: 머리; 부수
+        gender: null
+        plural: null
+        notes:
+          en: "Head. 部首 = radical. 214 Kangxi radicals organize all Chinese characters."
+          ko: "머리. 部首 = 부수. 214개 강희자전 부수로 모든 한자를 정리."
+      - classical_chinese: 音
+        reading: 음
+        meaning_kun: 소리
+        translation:
+          en: sound, pronunciation
+          ko: 소리
+        gender: null
+        plural: null
+        notes:
+          en: "Sound. 音讀 = reading by pronunciation (on-reading). 音訓 = pronunciation and meaning."
+          ko: "소리. 音讀 = 음독. 音訓 = 음훈(음과 훈)."
+      - classical_chinese: 訓
+        reading: 훈
+        meaning_kun: 가르칠
+        translation:
+          en: meaning reading; to instruct
+          ko: 훈독; 가르치다
+        gender: null
+        plural: null
+        notes:
+          en: "Meaning reading. 訓讀 = reading by meaning (kun-reading). 音訓 = pronunciation and meaning."
+          ko: "훈독. 訓讀 = 훈독(뜻으로 읽기). 音訓 = 음훈."
+      - classical_chinese: 義
+        reading: 의
+        meaning_kun: 옳을
+        translation:
+          en: meaning, righteousness
+          ko: 뜻, 의로움
+        gender: null
+        plural: null
+        notes:
+          en: "Meaning. 字義 = meaning of a character. Also means righteousness."
+          ko: "뜻. 字義 = 자의(글자의 뜻). 의로움의 뜻도 있음."
+      - classical_chinese: 形
+        reading: 형
+        meaning_kun: 모양
+        translation:
+          en: shape, form
+          ko: 모양
+        gender: null
+        plural: null
+        notes:
+          en: "Shape. 形聲 = phonosemantic compound (most common character type)."
+          ko: "모양. 形聲 = 형성(가장 흔한 한자 유형)."
+      - classical_chinese: 會
+        reading: 회
+        meaning_kun: 모을
+        translation:
+          en: to meet; compound ideograph
+          ko: 모이다; 회의
+        gender: null
+        plural: null
+        notes:
+          en: "To meet. 會意 = compound ideograph (meaning from combined elements)."
+          ko: "모이다. 會意 = 회의(결합된 요소에서 의미를 도출하는 한자 유형)."
+      - classical_chinese: 象
+        reading: 상
+        meaning_kun: 코끼리
+        translation:
+          en: elephant; image, pictograph
+          ko: 코끼리; 형상
+        gender: null
+        plural: null
+        notes:
+          en: "Image. 象形 = pictograph (character depicting an object's shape)."
+          ko: "형상. 象形 = 상형(사물의 모양을 본뜬 한자)."
+      - classical_chinese: 指
+        reading: 지
+        meaning_kun: 가리킬
+        translation:
+          en: to point; ideograph
+          ko: 가리키다; 지사
+        gender: null
+        plural: null
+        notes:
+          en: "To point. 指事 = simple ideograph (abstract concepts like 上, 下)."
+          ko: "가리키다. 指事 = 지사(上, 下 같은 추상 개념의 한자)."
+      - classical_chinese: 事
+        reading: 사
+        meaning_kun: 일
+        translation:
+          en: matter, affair, thing
+          ko: 일
+        gender: null
+        plural: null
+        notes:
+          en: "Matter. 指事 = indicative character. 事物 = things."
+          ko: "일. 指事 = 지사(지시 문자). 事物 = 사물."
+      - classical_chinese: 假
+        reading: 가
+        meaning_kun: 빌릴
+        translation:
+          en: to borrow; phonetic loan
+          ko: 빌리다; 가차
+        gender: null
+        plural: null
+        notes:
+          en: "To borrow. 假借 = phonetic loan (borrowing a character for its sound)."
+          ko: "빌리다. 假借 = 가차(소리를 빌려 쓰는 한자 용법)."
+      - classical_chinese: 轉
+        reading: 전
+        meaning_kun: 구를
+        translation:
+          en: to turn; derivative cognate
+          ko: 구르다; 전주
+        gender: null
+        plural: null
+        notes:
+          en: "To turn. 轉注 = derivative cognate (mutually explanatory characters)."
+          ko: "구르다. 轉注 = 전주(서로 뜻을 설명하는 한자)."
