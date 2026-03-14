@@ -28,28 +28,16 @@
 
 The verb *esse* (to be) is the most important and most irregular verb in Latin — just as "to be" is irregular in English (am, is, are), German (bin, bist, ist), Korean (이다), and nearly every Indo-European language.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    ESSE — To Be                                  │
-│              Present Tense (Tempus Praesens)                     │
-│                                                                 │
-│   Person      Singular          Plural                          │
-│   ──────      ─────────         ──────                          │
-│   1st         sum               sumus                           │
-│               /sʊm/             /ˈsʊ.mʊs/                      │
-│               "I am"            "we are"                        │
-│                                                                 │
-│   2nd         es                estis                           │
-│               /ɛs/              /ˈɛs.tɪs/                       │
-│               "you are"         "you (pl.) are"                 │
-│                                                                 │
-│   3rd         est               sunt                            │
-│               /ɛst/             /sʊnt/                           │
-│               "he/she/it is"    "they are"                      │
-│                                                                 │
-│   Infinitive: esse /ˈɛs.sɛ/ "to be"                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **ESSE — To Be**
+> Present Tense (Tempus Praesens)
+>
+> | Person | Singular | Plural |
+> |---|---|---|
+> | 1st | sum /sʊm/ "I am" | sumus /ˈsʊ.mʊs/ "we are" |
+> | 2nd | es /ɛs/ "you are" | estis /ˈɛs.tɪs/ "you (pl.) are" |
+> | 3rd | est /ɛst/ "he/she/it is" | sunt /sʊnt/ "they are" |
+>
+> Infinitive: esse /ˈɛs.sɛ/ "to be"
 
 ### 1.2 Comparison with Other Languages
 
@@ -83,26 +71,22 @@ Sunt in Italiā.              They are in Italy.
 
 When *esse* links the subject to a noun, that noun is in the **nominative** case (not the accusative). This noun is called the **predicate nominative**.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Predicate Nominative Rule                            │
-│                                                                 │
-│   Subject (Nom.) + esse + Noun (Nom.)                           │
-│                                                                 │
-│   Mārcus est poēta.        Marcus is a poet.                   │
-│   (nom.)     (nom.)        NOT *poētam (acc.)                  │
-│                                                                 │
-│   Iūlia est fēmina.        Julia is a woman.                   │
-│   (nom.)    (nom.)                                              │
-│                                                                 │
-│   Puerī sunt discipulī.    The boys are students.              │
-│   (nom.pl.) (nom.pl.)                                          │
-│                                                                 │
-│   ※ Think of it this way: esse is like an equals sign (=).     │
-│     Both sides must be in the same case (nominative).           │
-│     Mārcus = poēta → both nominative                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Predicate Nominative Rule**
+>
+> Subject (Nom.) + esse + Noun (Nom.)
+>
+> Mārcus est poēta.        Marcus is a poet.
+> (nom.)     (nom.)        NOT *poētam (acc.)
+>
+> Iūlia est fēmina.        Julia is a woman.
+> (nom.)    (nom.)
+>
+> Puerī sunt discipulī.    The boys are students.
+> (nom.pl.) (nom.pl.)
+>
+> ※ Think of it this way: esse is like an equals sign (=).
+> Both sides must be in the same case (nominative).
+> Mārcus = poēta → both nominative
 
 ### 2.2 Predicate Adjective
 
@@ -153,27 +137,23 @@ Predicate adjective agreement:
 
 Latin regular verbs are organized into **four conjugations**, identified by the vowel at the end of the present stem:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  The Four Latin Conjugations                     │
-│                                                                 │
-│   Conjugation   Stem vowel   Infinitive ending   Example        │
-│   ───────────   ──────────   ─────────────────   ───────        │
-│   1st           -ā-          -āre                amāre (love)   │
-│   2nd           -ē-          -ēre                monēre (warn)  │
-│   3rd           -ĕ-          -ĕre                dūcere (lead)  │
-│   4th           -ī-          -īre                audīre (hear)  │
-│                                                                 │
-│   In this lesson we cover the 1st and 2nd conjugations.         │
-│   The 3rd and 4th will come in later lessons.                    │
-│                                                                 │
-│   Dictionary form (4 principal parts):                          │
-│   amō, amāre, amāvī, amātum                                   │
-│   ↑    ↑       ↑       ↑                                        │
-│   1sg  infin.  perf.   supine                                   │
-│   pres. pres.  1sg     (for now, just learn the first two)     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Four Latin Conjugations**
+>
+> | Conjugation | Stem vowel | Infinitive ending | Example |
+> |---|---|---|---|
+> | 1st | -ā- | -āre | amāre (love) |
+> | 2nd | -ē- | -ēre | monēre (warn) |
+> | 3rd | -ĕ- | -ĕre | dūcere (lead) |
+> | 4th | -ī- | -īre | audīre (hear) |
+>
+> In this lesson we cover the 1st and 2nd conjugations.
+> The 3rd and 4th will come in later lessons.
+>
+> Dictionary form (4 principal parts):
+> amō, amāre, amāvī, amātum
+> ↑    ↑       ↑       ↑
+> 1sg  infin.  perf.   supine
+> pres. pres.  1sg     (for now, just learn the first two)
 
 ### 3.2 Person and Number
 
@@ -212,24 +192,21 @@ monēre    →    monē-    (2nd conjugation)
 | 2nd | amā**s** /ˈa.maːs/ | amā**tis** /a.ˈmaː.tɪs/ |
 | 3rd | ama**t** /ˈa.mat/ | ama**nt** /ˈa.mant/ |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        First Conjugation Present Active Formation                │
-│                                                                 │
-│   Stem: amā- (from amāre, drop -re)                            │
-│                                                                 │
-│              Stem + Ending = Form                                │
-│   1sg:       amā + ō = amō     (ā absorbed into ō)             │
-│   2sg:       amā + s = amās                                     │
-│   3sg:       amā + t = amat    (ā shortens before final -t)    │
-│   1pl:       amā + mus = amāmus                                 │
-│   2pl:       amā + tis = amātis                                 │
-│   3pl:       amā + nt = amant  (ā shortens before -nt)         │
-│                                                                 │
-│   ※ The 1sg ending -ō "swallows" the stem vowel -ā.           │
-│   ※ The stem vowel shortens before -t and -nt.                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **First Conjugation Present Active Formation**
+>
+> Stem: amā- (from amāre, drop -re)
+>
+> | | Stem + Ending | = Form | Note |
+> |---|---|---|---|
+> | 1sg | amā + ō | amō | ā absorbed into ō |
+> | 2sg | amā + s | amās | |
+> | 3sg | amā + t | amat | ā shortens before final -t |
+> | 1pl | amā + mus | amāmus | |
+> | 2pl | amā + tis | amātis | |
+> | 3pl | amā + nt | amant | ā shortens before -nt |
+>
+> ※ The 1sg ending -ō "swallows" the stem vowel -ā.
+> ※ The stem vowel shortens before -t and -nt.
 
 ### 4.2 Common First Conjugation Verbs
 
@@ -276,25 +253,22 @@ Puerōs et puellās vocāmus.  We call the boys and girls.
 | 2nd | mon**ēs** /ˈmɔ.neːs/ | mon**ētis** /mɔ.ˈneː.tɪs/ |
 | 3rd | mon**et** /ˈmɔ.nɛt/ | mon**ent** /ˈmɔ.nɛnt/ |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        Second Conjugation Present Active Formation               │
-│                                                                 │
-│   Stem: monē- (from monēre, drop -re)                          │
-│                                                                 │
-│              Stem + Ending = Form                                │
-│   1sg:       monē + ō = moneō    (ē shortens before ō)        │
-│   2sg:       monē + s = monēs                                   │
-│   3sg:       monē + t = monet    (ē shortens before -t)        │
-│   1pl:       monē + mus = monēmus                               │
-│   2pl:       monē + tis = monētis                               │
-│   3pl:       monē + nt = monent  (ē shortens before -nt)       │
-│                                                                 │
-│   ※ Same personal endings as 1st conjugation!                  │
-│   ※ The stem vowel -ē- shortens before -ō, -t, and -nt.       │
-│   ※ The key difference from 1st conj.: stem vowel ē not ā.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Second Conjugation Present Active Formation**
+>
+> Stem: monē- (from monēre, drop -re)
+>
+> | | Stem + Ending | = Form | Note |
+> |---|---|---|---|
+> | 1sg | monē + ō | moneō | ē shortens before ō |
+> | 2sg | monē + s | monēs | |
+> | 3sg | monē + t | monet | ē shortens before -t |
+> | 1pl | monē + mus | monēmus | |
+> | 2pl | monē + tis | monētis | |
+> | 3pl | monē + nt | monent | ē shortens before -nt |
+>
+> ※ Same personal endings as 1st conjugation!
+> ※ The stem vowel -ē- shortens before -ō, -t, and -nt.
+> ※ The key difference from 1st conj.: stem vowel ē not ā.
 
 ### 5.2 Common Second Conjugation Verbs
 
@@ -347,31 +321,27 @@ Dēbēmus patriam servāre.     We ought to save our country.
 
 In Latin, the verb must agree with its subject in **person** and **number**.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Subject-Verb Agreement                               │
-│                                                                 │
-│   Singular subject → singular verb                               │
-│   Puella cantat.        The girl sings.                          │
-│   Servus labōrat.       The slave works.                        │
-│                                                                 │
-│   Plural subject → plural verb                                   │
-│   Puellae cantant.      The girls sing.                         │
-│   Servī labōrant.       The slaves work.                        │
-│                                                                 │
-│   Compound subjects → plural verb                                │
-│   Mārcus et Iūlia ambulant.   Marcus and Julia walk.            │
-│   Puer et puella rīdent.      The boy and girl laugh.           │
-│                                                                 │
-│   Dropped subject — the verb ending tells you who:               │
-│   Labōrō.         I work.        (1sg: -ō → "I")              │
-│   Labōrās.        You work.      (2sg: -s → "you")            │
-│   Labōrat.        He/she works.  (3sg: -t → "he/she/it")      │
-│   Labōrāmus.     We work.       (1pl: -mus → "we")            │
-│   Labōrātis.     You all work.  (2pl: -tis → "you pl.")       │
-│   Labōrant.      They work.     (3pl: -nt → "they")           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Subject-Verb Agreement**
+>
+> Singular subject → singular verb
+> Puella cantat.        The girl sings.
+> Servus labōrat.       The slave works.
+>
+> Plural subject → plural verb
+> Puellae cantant.      The girls sing.
+> Servī labōrant.       The slaves work.
+>
+> Compound subjects → plural verb
+> Mārcus et Iūlia ambulant.   Marcus and Julia walk.
+> Puer et puella rīdent.      The boy and girl laugh.
+>
+> Dropped subject — the verb ending tells you who:
+> Labōrō.         I work.        (1sg: -ō → "I")
+> Labōrās.        You work.      (2sg: -s → "you")
+> Labōrat.        He/she works.  (3sg: -t → "he/she/it")
+> Labōrāmus.     We work.       (1pl: -mus → "we")
+> Labōrātis.     You all work.  (2pl: -tis → "you pl.")
+> Labōrant.      They work.     (3pl: -nt → "they")
 
 ### 6.2 Important Notes
 
@@ -388,31 +358,27 @@ In Latin, the verb must agree with its subject in **person** and **number**.
 
 ### 7.1 SOV Word Order
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Latin Default Word Order: S — O — V                    │
-│                                                                 │
-│   Latin default:   Mārcus    rosam     portat.                  │
-│                    (S)       (O)       (V)                       │
-│                                                                 │
-│   Korean parallel: 마르쿠스가  장미를    운반한다.                    │
-│                    (S)       (O)       (V)                       │
-│                                                                 │
-│   English:         Marcus    carries   a rose.                  │
-│                    (S)       (V)       (O)                       │
-│                                                                 │
-│   However, Latin word order is FLEXIBLE because case            │
-│   endings indicate grammatical function.                         │
-│                                                                 │
-│   Typical patterns:                                              │
-│   • SOV — neutral, default                                      │
-│   • Verb at end — most common in prose                          │
-│   • Verb first — emphasis on action, or in questions            │
-│   • Object first — emphasis on the object                       │
-│   • Genitive before its noun: populī Rōmānī arma               │
-│   • Adjective after its noun (but can precede for emphasis)     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Latin Default Word Order: S — O — V**
+>
+> Latin default:   Mārcus    rosam     portat.
+>                  (S)       (O)       (V)
+>
+> Korean parallel: 마르쿠스가  장미를    운반한다.
+>                  (S)       (O)       (V)
+>
+> English:         Marcus    carries   a rose.
+>                  (S)       (V)       (O)
+>
+> However, Latin word order is FLEXIBLE because case
+> endings indicate grammatical function.
+>
+> Typical patterns:
+> - SOV — neutral, default
+> - Verb at end — most common in prose
+> - Verb first — emphasis on action, or in questions
+> - Object first — emphasis on the object
+> - Genitive before its noun: populī Rōmānī arma
+> - Adjective after its noun (but can precede for emphasis)
 
 ### 7.2 Common Sentence Patterns
 
@@ -458,26 +424,22 @@ Emphasis S:  Rosam portat Mārcus.          It's MARCUS who carries the rose.
 
 To negate a Latin sentence, place **nōn** directly before the verb.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Negation with NŌN                             │
-│                                                                 │
-│   Affirmative:              Negative:                           │
-│   Puella cantat.            Puella nōn cantat.                  │
-│   The girl sings.           The girl does not sing.             │
-│                                                                 │
-│   Sum laetus.               Nōn sum laetus.                     │
-│   I am happy.               I am not happy.                     │
-│                                                                 │
-│   Pecūniam habēmus.        Pecūniam nōn habēmus.              │
-│   We have money.            We do not have money.               │
-│                                                                 │
-│   ※ NŌN goes directly before the verb (or the word negated).  │
-│   ※ There is no equivalent of English "do not" — just nōn.    │
-│   ※ Compare Korean: ~하지 않는다 (verb + 않다)                    │
-│     Latin is simpler: nōn + verb                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Negation with NON**
+>
+> Affirmative:              Negative:
+> Puella cantat.            Puella non cantat.
+> The girl sings.           The girl does not sing.
+>
+> Sum laetus.               Non sum laetus.
+> I am happy.               I am not happy.
+>
+> Pecuniam habemus.        Pecuniam non habemus.
+> We have money.            We do not have money.
+>
+> ※ NON goes directly before the verb (or the word negated).
+> ※ There is no equivalent of English "do not" — just non.
+> ※ Compare Korean: ~하지 않는다 (verb + 않다)
+> Latin is simpler: non + verb
 
 ### 8.2 Negation Examples
 
@@ -812,38 +774,34 @@ Combine the given elements into correct Latin sentences (use SOV order).
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Verbs: ESSE and Present Tense Quick Reference           │
-│                                                                 │
-│   ESSE (to be):                                                  │
-│     sum, es, est, sumus, estis, sunt                            │
-│     Takes NOMINATIVE (not accusative) for complement            │
-│                                                                 │
-│   1ST CONJUGATION (-āre):          2ND CONJUGATION (-ēre):      │
-│     -ō     -āmus                    -eō    -ēmus                │
-│     -ās    -ātis                    -ēs    -ētis                │
-│     -at    -ant                     -et    -ent                  │
-│                                                                 │
-│   PERSONAL ENDINGS (same for both):                              │
-│     1sg: -ō/-m     1pl: -mus                                    │
-│     2sg: -s        2pl: -tis                                    │
-│     3sg: -t        3pl: -nt                                     │
-│                                                                 │
-│   NEGATION: nōn + verb                                          │
-│     Nōn amō. = I do not love.                                   │
-│     Nōn est bonus. = He is not good.                            │
-│                                                                 │
-│   WORD ORDER: SOV default (flexible)                             │
-│     S + O + V:  Puella rosam amat.                              │
-│     S + V:      Puella cantat.                                  │
-│     S + esse + Nom: Puella est bona.                            │
-│                                                                 │
-│   AGREEMENT:                                                     │
-│     Subject-verb: same person and number                        │
-│     Predicate adj: same gender, number, case as subject         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Verbs: ESSE and Present Tense Quick Reference**
+>
+> **ESSE (to be):**
+> sum, es, est, sumus, estis, sunt
+> Takes NOMINATIVE (not accusative) for complement
+>
+> **1ST CONJUGATION (-āre)** / **2ND CONJUGATION (-ēre):**
+> -ō  -āmus  /  -eō  -ēmus
+> -ās  -ātis  /  -ēs  -ētis
+> -at  -ant   /  -et  -ent
+>
+> **PERSONAL ENDINGS (same for both):**
+> 1sg: -ō/-m     1pl: -mus
+> 2sg: -s        2pl: -tis
+> 3sg: -t        3pl: -nt
+>
+> **NEGATION:** nōn + verb
+> Nōn amō. = I do not love.
+> Nōn est bonus. = He is not good.
+>
+> **WORD ORDER:** SOV default (flexible)
+> S + O + V:  Puella rosam amat.
+> S + V:      Puella cantat.
+> S + esse + Nom: Puella est bona.
+>
+> **AGREEMENT:**
+> Subject-verb: same person and number
+> Predicate adj: same gender, number, case as subject
 
 ---
 
