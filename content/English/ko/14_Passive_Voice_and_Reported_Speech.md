@@ -29,23 +29,17 @@
 
 ### 1.1 태(Voice)란 무엇인가?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    능동태 vs 수동태 (Active vs Passive Voice)     │
-│                                                                 │
-│   능동태 (Active Voice): 주어가 행동을 수행                       │
-│   → "The chef cooked the meal."                                 │
-│     주어(chef) → 행동(cooked) → 목적어(meal)                     │
-│                                                                 │
-│   수동태 (Passive Voice): 주어가 행동을 받음                      │
-│   → "The meal was cooked by the chef."                          │
-│     주어(meal) ← 행동(was cooked) ← 행위자(chef)                 │
-│                                                                 │
-│   한국어 비교:                                                    │
-│   능동: 요리사가 음식을 요리했다.                                   │
-│   수동: 음식이 (요리사에 의해) 요리되었다.                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **능동태 vs 수동태 (Active vs Passive Voice)**
+>
+> 능동태 (Active Voice): 주어가 행동을 수행
+> → "The chef cooked the meal."
+> 주어(chef) → 행동(cooked) → 목적어(meal)
+> 수동태 (Passive Voice): 주어가 행동을 받음
+> → "The meal was cooked by the chef."
+> 주어(meal) ← 행동(was cooked) ← 행위자(chef)
+> 한국어 비교:
+> 능동: 요리사가 음식을 요리했다.
+> 수동: 음식이 (요리사에 의해) 요리되었다.
 
 ### 1.2 수동태를 사용하는 이유
 
@@ -75,23 +69,17 @@
 
 ### 2.1 기본 공식
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           수동태 = BE + 과거분사 (Past Participle, PP)            │
-│                                                                 │
-│   주어 + BE (시제에 따라 활용) + 과거분사 (+ by 행위자)            │
-│                                                                 │
-│   "The letter   was          written       by Maria."           │
-│    └─주어──┘    └─BE─┘       └──PP──┘      └─행위자─┘            │
-│                                                                 │
-│   BE 동사의 형태는 시제에 따라 변합니다:                            │
-│   • 현재:  am/is/are + PP                                       │
-│   • 과거:  was/were + PP                                        │
-│   • 미래:  will be + PP                                         │
-│   • 완료:  have/has been + PP                                   │
-│   • 조동사: can/must/should be + PP                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **수동태 = BE + 과거분사 (Past Participle, PP)**
+>
+> 주어 + BE (시제에 따라 활용) + 과거분사 (+ by 행위자)
+> "The letter   was          written       by Maria."
+> └─주어──┘    └─BE─┘       └──PP──┘      └─행위자─┘
+> BE 동사의 형태는 시제에 따라 변합니다:
+> • 현재:  am/is/are + PP
+> • 과거:  was/were + PP
+> • 미래:  will be + PP
+> • 완료:  have/has been + PP
+> • 조동사: can/must/should be + PP
 
 ### 2.2 규칙 및 불규칙 과거분사
 
@@ -168,42 +156,27 @@
 
 ### 4.1 행위자를 포함하는 경우
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  "by + 행위자"를 포함하는 경우:                    │
-│                                                                 │
-│   1. 행위자가 새롭거나 중요한 정보를 제공할 때                      │
-│      "The Mona Lisa was painted by Leonardo da Vinci."          │
-│                                                                 │
-│   2. 행위자의 정체가 놀라운 경우                                   │
-│      "The window was broken by the teacher!"                    │
-│                                                                 │
-│   3. 누가 책임인지 명시해야 할 때                                  │
-│      "This report was written by the marketing team."           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> "by + 행위자"를 포함하는 경우:
+> 1. 행위자가 새롭거나 중요한 정보를 제공할 때
+> "The Mona Lisa was painted by Leonardo da Vinci."
+> 2. 행위자의 정체가 놀라운 경우
+> "The window was broken by the teacher!"
+> 3. 누가 책임인지 명시해야 할 때
+> "This report was written by the marketing team."
 
 ### 4.2 행위자를 생략하는 경우
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  "by + 행위자"를 생략하는 경우:                    │
-│                                                                 │
-│   1. 행위자를 모르는 경우                                         │
-│      "My wallet was stolen." (누군지 모르는 사람에 의해)           │
-│                                                                 │
-│   2. 행위자가 자명한 경우                                         │
-│      "He was arrested." (당연히 경찰에 의해)                      │
-│                                                                 │
-│   3. 행위자가 중요하지 않거나 일반적인 경우                         │
-│      "English is spoken in many countries."                      │
-│      (사람들에 의해 — 너무 일반적이라 불필요)                       │
-│                                                                 │
-│   4. 행위자가 "people," "someone," "they" (일반적) 인 경우        │
-│      "The building was constructed in 1990."                    │
-│      (건설 노동자들에 의해 — 자명함)                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> "by + 행위자"를 생략하는 경우:
+> 1. 행위자를 모르는 경우
+> "My wallet was stolen." (누군지 모르는 사람에 의해)
+> 2. 행위자가 자명한 경우
+> "He was arrested." (당연히 경찰에 의해)
+> 3. 행위자가 중요하지 않거나 일반적인 경우
+> "English is spoken in many countries."
+> (사람들에 의해 — 너무 일반적이라 불필요)
+> 4. 행위자가 "people," "someone," "they" (일반적) 인 경우
+> "The building was constructed in 1990."
+> (건설 노동자들에 의해 — 자명함)
 
 ---
 
@@ -269,25 +242,19 @@
 
 **다른 사람에게 어떤 일을 하도록 시키는** 경우에 사용됩니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   have + 목적어 + 과거분사                                       │
-│   get  + 목적어 + 과거분사                                       │
-│                                                                 │
-│   "I had my hair cut."                                          │
-│   = 누군가에게 머리를 잘라달라고 부탁했다.                          │
-│   ≠ 내가 직접 머리를 잘랐다.                                      │
-│                                                                 │
-│   "She got her car repaired."                                   │
-│   = 누군가에게 차를 수리해달라고 부탁했다.                          │
-│                                                                 │
-│   추가 예시:                                                     │
-│   "I need to have my eyes tested."                              │
-│   "We had the house painted last summer."                       │
-│   "You should get your teeth checked."                          │
-│   "He's getting his suit dry-cleaned."                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **have + 목적어 + 과거분사**
+>
+> get  + 목적어 + 과거분사
+> "I had my hair cut."
+> = 누군가에게 머리를 잘라달라고 부탁했다.
+> ≠ 내가 직접 머리를 잘랐다.
+> "She got her car repaired."
+> = 누군가에게 차를 수리해달라고 부탁했다.
+> 추가 예시:
+> "I need to have my eyes tested."
+> "We had the house painted last summer."
+> "You should get your teeth checked."
+> "He's getting his suit dry-cleaned."
 
 ### 6.3 It is said that... / He is said to...
 
@@ -317,22 +284,16 @@
 
 ### 7.1 직접화법 vs 간접화법
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   직접화법 (Direct Speech): 인용부호 안에 정확한 말 그대로         │
-│   → She said, "I am tired."                                     │
-│                                                                 │
-│   간접화법 (Reported Speech): 인용부호 없이 다른 사람의 말을 전달  │
-│   → She said (that) she was tired.                              │
-│                                                                 │
-│   주요 변화:                                                     │
-│   1. 인용부호가 제거됨                                            │
-│   2. 대명사가 변함 (I → she)                                     │
-│   3. 시제가 한 단계 과거로 후퇴 (am → was) — "시제 후퇴"          │
-│   4. 시간/장소 표현이 바뀔 수 있음 (today → that day)             │
-│   5. "That"은 선택 사항이지만 일반적으로 사용                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 직접화법 (Direct Speech): 인용부호 안에 정확한 말 그대로
+> → She said, "I am tired."
+> 간접화법 (Reported Speech): 인용부호 없이 다른 사람의 말을 전달
+> → She said (that) she was tired.
+> 주요 변화:
+> 1. 인용부호가 제거됨
+> 2. 대명사가 변함 (I → she)
+> 3. 시제가 한 단계 과거로 후퇴 (am → was) — "시제 후퇴"
+> 4. 시간/장소 표현이 바뀔 수 있음 (today → that day)
+> 5. "That"은 선택 사항이지만 일반적으로 사용
 
 ### 7.2 간접화법이 중요한 이유
 
@@ -350,41 +311,38 @@
 
 전달 동사가 **과거 시제**(said, told, asked)인 경우, 간접절의 시제가 한 단계 과거로 후퇴합니다:
 
-```
-┌───────────────────────────┬──────────────────────────────────┐
-│   직접화법                 │   간접화법                        │
-├───────────────────────────┼──────────────────────────────────┤
-│ 현재 단순                  │ 과거 단순                         │
-│ "I like coffee."           │ She said she liked coffee.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ 현재 진행                  │ 과거 진행                         │
-│ "I am studying."           │ He said he was studying.         │
-├───────────────────────────┼──────────────────────────────────┤
-│ 현재 완료                  │ 과거 완료                         │
-│ "I have finished."         │ She said she had finished.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ 과거 단순                  │ 과거 완료                         │
-│ "I went to Seoul."         │ He said he had gone to Seoul.    │
-├───────────────────────────┼──────────────────────────────────┤
-│ 과거 진행                  │ 과거 완료 진행                    │
-│ "I was reading."           │ She said she had been reading.   │
-├───────────────────────────┼──────────────────────────────────┤
-│ will                       │ would                            │
-│ "I will call you."         │ He said he would call me.        │
-├───────────────────────────┼──────────────────────────────────┤
-│ can                        │ could                            │
-│ "I can help."              │ She said she could help.         │
-├───────────────────────────┼──────────────────────────────────┤
-│ may                        │ might                            │
-│ "I may come."              │ He said he might come.           │
-├───────────────────────────┼──────────────────────────────────┤
-│ must                       │ had to                           │
-│ "I must leave."            │ She said she had to leave.       │
-├───────────────────────────┼──────────────────────────────────┤
-│ shall                      │ should / would                   │
-│ "Shall I open it?"         │ He asked if he should open it.   │
-└───────────────────────────┴──────────────────────────────────┘
-```
+> **직접화법                 │   간접화법**
+>
+> ├───────────────────────────┼──────────────────────────────────┤
+> 현재 단순                  │ 과거 단순
+> "I like coffee."           │ She said she liked coffee.
+> ├───────────────────────────┼──────────────────────────────────┤
+> 현재 진행                  │ 과거 진행
+> "I am studying."           │ He said he was studying.
+> ├───────────────────────────┼──────────────────────────────────┤
+> 현재 완료                  │ 과거 완료
+> "I have finished."         │ She said she had finished.
+> ├───────────────────────────┼──────────────────────────────────┤
+> 과거 단순                  │ 과거 완료
+> "I went to Seoul."         │ He said he had gone to Seoul.
+> ├───────────────────────────┼──────────────────────────────────┤
+> 과거 진행                  │ 과거 완료 진행
+> "I was reading."           │ She said she had been reading.
+> ├───────────────────────────┼──────────────────────────────────┤
+> will                       │ would
+> "I will call you."         │ He said he would call me.
+> ├───────────────────────────┼──────────────────────────────────┤
+> can                        │ could
+> "I can help."              │ She said she could help.
+> ├───────────────────────────┼──────────────────────────────────┤
+> may                        │ might
+> "I may come."              │ He said he might come.
+> ├───────────────────────────┼──────────────────────────────────┤
+> must                       │ had to
+> "I must leave."            │ She said she had to leave.
+> ├───────────────────────────┼──────────────────────────────────┤
+> shall                      │ should / would
+> "Shall I open it?"         │ He asked if he should open it.
 
 ### 8.2 시제 후퇴 예외
 
@@ -521,22 +479,17 @@
 
 ### 10.1 주요 차이점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   SAY                          │   TELL                         │
-│                                │                                │
-│   • 간접 목적어 불필요           │   • 간접 목적어 필요             │
-│   • say (that)...              │   • tell + 사람 + (that)...    │
-│   • say + 직접화법 가능          │   • 직접화법 인용 불가           │
-│                                │                                │
-│   ✓ He said (that) he was      │   ✓ He told me (that) he was   │
-│     tired.                     │     tired.                     │
-│   ✓ He said, "I'm tired."     │   ✗ He told, "I'm tired."      │
-│   ✗ He said me that...        │   ✓ He told me that...          │
-│   ✓ He said to me that...     │                                │
-│     (가능하지만 덜 일반적)       │                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SAY                          │   TELL**
+>
+> • 간접 목적어 불필요           │   • 간접 목적어 필요
+> • say (that)...              │   • tell + 사람 + (that)...
+> • say + 직접화법 가능          │   • 직접화법 인용 불가
+> ✓ He said (that) he was      │   ✓ He told me (that) he was
+> tired.                     │     tired.
+> ✓ He said, "I'm tired."     │   ✗ He told, "I'm tired."
+> ✗ He said me that...        │   ✓ He told me that...
+> ✓ He said to me that...     │
+> (가능하지만 덜 일반적)       │
 
 ### 10.2 요약 규칙
 
@@ -617,33 +570,24 @@ warn       He warned me not to be late.        경고하다
 
 ### 12.1 수동태 비교
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어는 다양한 수동 구문을 사용합니다:                           │
-│                                                                 │
-│   1. -되다 한자어 명사에 붙음:                                    │
-│      건설되다 (to be constructed), 발견되다 (to be discovered)    │
-│                                                                 │
-│   2. -받다 "받다" 수동:                                          │
-│      사랑받다 (to be loved), 존경받다 (to be respected)           │
-│                                                                 │
-│   3. 동사 접미사 수동 (-이/-히/-리/-기):                           │
-│      잡다 → 잡히다 (catch → be caught)                           │
-│      열다 → 열리다 (open → be opened)                            │
-│                                                                 │
-│   주요 차이점:                                                    │
-│   • 한국어 수동태는 영어보다 덜 자주 사용됨                        │
-│   • 한국어 화자는 영어에서 능동태를 과도하게 사용하는 경향           │
-│   • 영어 수동태는 더 체계적 (be + PP)이며                         │
-│     거의 모든 타동사에 적용 가능                                   │
-│   • 한국어 어순 (SOV) vs 영어 수동태 (SVO)                       │
-│     전환이 까다로움                                               │
-│                                                                 │
-│   흔한 오류:                                                     │
-│   ✗ "The meeting was held" → "The meeting held"로 쓰는 경우     │
-│   ✓ 영어 수동태에서는 반드시 BE 동사를 포함해야 합니다!             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어는 다양한 수동 구문을 사용합니다:
+> 1. -되다 한자어 명사에 붙음:
+> 건설되다 (to be constructed), 발견되다 (to be discovered)
+> 2. -받다 "받다" 수동:
+> 사랑받다 (to be loved), 존경받다 (to be respected)
+> 3. 동사 접미사 수동 (-이/-히/-리/-기):
+> 잡다 → 잡히다 (catch → be caught)
+> 열다 → 열리다 (open → be opened)
+> 주요 차이점:
+> • 한국어 수동태는 영어보다 덜 자주 사용됨
+> • 한국어 화자는 영어에서 능동태를 과도하게 사용하는 경향
+> • 영어 수동태는 더 체계적 (be + PP)이며
+> 거의 모든 타동사에 적용 가능
+> • 한국어 어순 (SOV) vs 영어 수동태 (SVO)
+> 전환이 까다로움
+> 흔한 오류:
+> ✗ "The meeting was held" → "The meeting held"로 쓰는 경우
+> ✓ 영어 수동태에서는 반드시 BE 동사를 포함해야 합니다!
 
 ### 12.2 간접화법 비교
 
@@ -836,31 +780,24 @@ warn       He warned me not to be late.        경고하다
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                수동태 & 간접화법 빠른 가이드                       │
-│                                                                 │
-│   수동태:                                                        │
-│   공식: 주어 + BE (활용) + 과거분사                                │
-│   현재: is/are + PP    과거: was/were + PP                       │
-│   완료: has/have been + PP   미래: will be + PP                  │
-│   조동사: can/must/should be + PP                                │
-│   행위자가 불명, 자명, 불필요한 경우 "by" 생략                     │
-│                                                                 │
-│   간접화법:                                                      │
-│   서술문: said (that) / told + 사람 + (that)                     │
-│   의문문: asked + if/whether (예/아니오)                          │
-│           asked + 의문사 (wh-의문문)                              │
-│   명령문: told/asked + 사람 + (not) to + 원형                    │
-│                                                                 │
-│   시제 후퇴: present→past, past→past perfect,                    │
-│   will→would, can→could, may→might, must→had to                │
-│                                                                 │
-│   SAY vs TELL:                                                  │
-│   say — 사람 불필요: "He said he was happy."                     │
-│   tell — 사람 필요: "He told me he was happy."                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **수동태 & 간접화법 빠른 가이드**
+>
+> 수동태:
+> 공식: 주어 + BE (활용) + 과거분사
+> 현재: is/are + PP    과거: was/were + PP
+> 완료: has/have been + PP   미래: will be + PP
+> 조동사: can/must/should be + PP
+> 행위자가 불명, 자명, 불필요한 경우 "by" 생략
+> 간접화법:
+> 서술문: said (that) / told + 사람 + (that)
+> 의문문: asked + if/whether (예/아니오)
+> asked + 의문사 (wh-의문문)
+> 명령문: told/asked + 사람 + (not) to + 원형
+> 시제 후퇴: present→past, past→past perfect,
+> will→would, can→could, may→might, must→had to
+> SAY vs TELL:
+> say — 사람 불필요: "He said he was happy."
+> tell — 사람 필요: "He told me he was happy."
 
 ---
 
