@@ -24,34 +24,28 @@
 
 ### 1.1 직계 가족
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   영어               한국어        비고                          │
-│   ─────────         ──────        ─────                         │
-│   father / dad      아버지 / 아빠  "dad" = 비격식                │
-│   mother / mom      어머니 / 엄마  "mom" (미국식), "mum" (영국식) │
-│   parents           부모님                                       │
-│   son               아들                                        │
-│   daughter           딸                                         │
-│   brother            형/오빠/남동생  ※ 한국어에는 4개 단어!       │
-│   sister             언니/누나/여동생 ※ 한국어에는 4개 단어!       │
-│   husband            남편                                       │
-│   wife               아내                                       │
-│   children           자녀/아이들                                  │
-│                                                                 │
-│   ※ 한국어는 나이 많고 적음과 화자의 성별을 구분합니다:           │
-│     형 (손윗 남자 형제, 남자 화자)                                │
-│     오빠 (손윗 남자 형제, 여자 화자)                               │
-│     누나 (손윗 여자 형제, 남자 화자)                               │
-│     언니 (손윗 여자 형제, 여자 화자)                               │
-│     남동생 (손아랫 남자 형제)                                     │
-│     여동생 (손아랫 여자 형제)                                     │
-│                                                                 │
-│   영어에는 brother, sister만 있음 (+ older/younger/big/little)   │
-│     "my older brother" 또는 "my big brother"                    │
-│     "my younger sister" 또는 "my little sister"                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **영어               한국어        비고**
+>
+> father / dad      아버지 / 아빠  "dad" = 비격식
+> mother / mom      어머니 / 엄마  "mom" (미국식), "mum" (영국식)
+> parents           부모님
+> son               아들
+> daughter           딸
+> brother            형/오빠/남동생  ※ 한국어에는 4개 단어!
+> sister             언니/누나/여동생 ※ 한국어에는 4개 단어!
+> husband            남편
+> wife               아내
+> children           자녀/아이들
+> ※ 한국어는 나이 많고 적음과 화자의 성별을 구분합니다:
+> 형 (손윗 남자 형제, 남자 화자)
+> 오빠 (손윗 남자 형제, 여자 화자)
+> 누나 (손윗 여자 형제, 남자 화자)
+> 언니 (손윗 여자 형제, 여자 화자)
+> 남동생 (손아랫 남자 형제)
+> 여동생 (손아랫 여자 형제)
+> 영어에는 brother, sister만 있음 (+ older/younger/big/little)
+> "my older brother" 또는 "my big brother"
+> "my younger sister" 또는 "my little sister"
 
 ### 1.2 친척
 
@@ -308,23 +302,19 @@ truck     트럭       ambulance    구급차
 
 ### 6.2 교통 동사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   drive a car        차를 운전하다    (자가용)                    │
-│   ride a bicycle     자전거를 타다    (올라타는 것)                │
-│   take the bus       버스를 타다      (대중교통)                  │
-│   get on / get off   타다 / 내리다    (대중교통)                  │
-│   get in / get out   타다 / 내리다    (택시, 승용차)              │
-│   catch a train      기차를 타다      (시간에 맞춰)               │
-│   miss the bus       버스를 놓치다                                │
-│   park the car       차를 주차하다                                │
-│                                                                 │
-│   ※ get ON/OFF = 큰 교통수단 (bus, train, plane, ship)          │
-│     get IN/OUT OF = 작은 교통수단 (car, taxi)                    │
-│     "Get on the bus." ✓    "Get in the bus." ✗                  │
-│     "Get in the car." ✓    "Get on the car." ✗                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **drive a car        차를 운전하다    (자가용)**
+>
+> ride a bicycle     자전거를 타다    (올라타는 것)
+> take the bus       버스를 타다      (대중교통)
+> get on / get off   타다 / 내리다    (대중교통)
+> get in / get out   타다 / 내리다    (택시, 승용차)
+> catch a train      기차를 타다      (시간에 맞춰)
+> miss the bus       버스를 놓치다
+> park the car       차를 주차하다
+> ※ get ON/OFF = 큰 교통수단 (bus, train, plane, ship)
+> get IN/OUT OF = 작은 교통수단 (car, taxi)
+> "Get on the bus." ✓    "Get in the bus." ✗
+> "Get in the car." ✓    "Get on the car." ✗
 
 ### 6.3 길 안내
 
@@ -471,26 +461,21 @@ have a look                    한 번 보다
 
 ### 8.5 make vs do 빠른 가이드
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   MAKE = 새로운 것을 창조/생산                                    │
-│   (결과물이 있는 것: 만들다)                                      │
-│   make breakfast (아침을 만들다)                                  │
-│   make a decision (결정을 만들다)                                 │
-│   make money (돈을 만들다/벌다)                                   │
-│                                                                 │
-│   DO = 활동/작업을 수행                                           │
-│   (활동을 수행하는 것: 하다)                                      │
-│   do homework (숙제를 하다)                                      │
-│   do the dishes (설거지를 하다)                                   │
-│   do exercise (운동을 하다)                                      │
-│                                                                 │
-│   ※ "make homework" ✗ → "do homework" ✓                       │
-│   ※ "do a mistake" ✗ → "make a mistake" ✓                     │
-│   ※ "make the dishes" ✗ → "do the dishes" ✓                   │
-│   이것들은 외워야 합니다 — 완벽한 규칙은 없습니다!                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **MAKE = 새로운 것을 창조/생산**
+>
+> (결과물이 있는 것: 만들다)
+> make breakfast (아침을 만들다)
+> make a decision (결정을 만들다)
+> make money (돈을 만들다/벌다)
+> DO = 활동/작업을 수행
+> (활동을 수행하는 것: 하다)
+> do homework (숙제를 하다)
+> do the dishes (설거지를 하다)
+> do exercise (운동을 하다)
+> ※ "make homework" ✗ → "do homework" ✓
+> ※ "do a mistake" ✗ → "make a mistake" ✓
+> ※ "make the dishes" ✗ → "do the dishes" ✓
+> 이것들은 외워야 합니다 — 완벽한 규칙은 없습니다!
 
 ---
 
@@ -655,29 +640,21 @@ I go to bed at 11 PM.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           일상생활 어휘 빠른 가이드                                │
-│                                                                 │
-│   가족: father/mother, brother/sister (연령/성별 구분 없음)       │
-│   ※ 한국어는 1개의 영어 단어에 4개 이상 (형/오빠/누나/언니)       │
-│                                                                 │
-│   음식: boil, fry, bake, grill, steam, roast                    │
-│   맛: sweet, sour, salty, bitter, spicy                          │
-│                                                                 │
-│   의류: put on (입다), take off (벗다), wear (입고 있다)          │
-│   ※ "pants" = 바지 (미국식) 하지만 속옷 (영국식)!               │
-│                                                                 │
-│   교통: get ON/OFF bus/train, get IN/OUT OF car/taxi            │
-│   날씨: "It's + 날씨 형용사" — "it"은 필수!                      │
-│                                                                 │
-│   주요 연어:                                                     │
-│   MAKE: breakfast, mistake, decision, money, friends            │
-│   DO: homework, dishes, laundry, exercise, research             │
-│   TAKE: shower, photo, break, test, medicine, notes             │
-│   HAVE: breakfast, fun, meeting, problem, headache              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **일상생활 어휘 빠른 가이드**
+>
+> 가족: father/mother, brother/sister (연령/성별 구분 없음)
+> ※ 한국어는 1개의 영어 단어에 4개 이상 (형/오빠/누나/언니)
+> 음식: boil, fry, bake, grill, steam, roast
+> 맛: sweet, sour, salty, bitter, spicy
+> 의류: put on (입다), take off (벗다), wear (입고 있다)
+> ※ "pants" = 바지 (미국식) 하지만 속옷 (영국식)!
+> 교통: get ON/OFF bus/train, get IN/OUT OF car/taxi
+> 날씨: "It's + 날씨 형용사" — "it"은 필수!
+> 주요 연어:
+> MAKE: breakfast, mistake, decision, money, friends
+> DO: homework, dishes, laundry, exercise, research
+> TAKE: shower, photo, break, test, medicine, notes
+> HAVE: breakfast, fun, meeting, problem, headache
 
 ---
 
