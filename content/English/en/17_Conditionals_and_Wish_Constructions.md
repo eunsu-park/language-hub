@@ -28,36 +28,28 @@
 
 Conditionals express the relationship between a **condition** (if-clause) and its **result** (main clause).
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   Structure of Conditionals                     │
-│                                                                 │
-│   IF-CLAUSE (condition)    +    MAIN CLAUSE (result)           │
-│   "If it rains,"               "I will stay home."             │
-│                                                                 │
-│   The order can be reversed:                                   │
-│   MAIN CLAUSE + IF-CLAUSE (no comma needed)                    │
-│   "I will stay home if it rains."                              │
-│                                                                 │
-│   Comma rule:                                                  │
-│   If + clause, main clause.    ← comma after if-clause         │
-│   Main clause if + clause.     ← no comma                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Structure of Conditionals**
+>
+> IF-CLAUSE (condition)    +    MAIN CLAUSE (result)
+> "If it rains,"               "I will stay home."
+> The order can be reversed:
+> MAIN CLAUSE + IF-CLAUSE (no comma needed)
+> "I will stay home if it rains."
+> Comma rule:
+> If + clause, main clause.    ← comma after if-clause
+> Main clause if + clause.     ← no comma
 
 ### 1.2 Overview of All Conditional Types
 
-```
-┌────────┬──────────────────┬──────────────────┬─────────────────┐
-│ Type   │ If-clause        │ Main clause      │ Meaning         │
-├────────┼──────────────────┼──────────────────┼─────────────────┤
-│ Zero   │ present simple   │ present simple   │ always true     │
-│ First  │ present simple   │ will + base      │ real/possible   │
-│ Second │ past simple      │ would + base     │ unreal present  │
-│ Third  │ past perfect     │ would have + PP  │ unreal past     │
-│ Mixed  │ (combinations)   │ (combinations)   │ mixed time      │
-└────────┴──────────────────┴──────────────────┴─────────────────┘
-```
+> | Type | If-clause | Main clause | Meaning |
+> |---|---|---|---|
+> | Zero | present simple | present simple | always true |
+> | First | present simple | will + base | real/possible |
+> | Second | past simple | would + base | unreal present |
+> | Third | past perfect | would have + PP | unreal past |
+> | Mixed | (combinations) | (combinations) | mixed time |
+>
+> ├────────┼──────────────────┼──────────────────┼─────────────────┤
 
 ---
 
@@ -154,21 +146,15 @@ The main clause doesn't always use "will":
 
 ### 3.4 Important Rule
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   NEVER use "will" in the if-clause!                           │
-│                                                                 │
-│   ✗ "If it will rain, I will stay home."                       │
-│   ✓ "If it rains, I will stay home."                           │
-│                                                                 │
-│   ✗ "If you will study, you will pass."                        │
-│   ✓ "If you study, you will pass."                             │
-│                                                                 │
-│   Exception: "will" in if-clause for willingness/requests:     │
-│   ✓ "If you will wait a moment, I'll check for you."          │
-│     (= if you are willing to wait)                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **NEVER use "will" in the if-clause!**
+>
+> ✗ "If it will rain, I will stay home."
+> ✓ "If it rains, I will stay home."
+> ✗ "If you will study, you will pass."
+> ✓ "If you study, you will pass."
+> Exception: "will" in if-clause for willingness/requests:
+> ✓ "If you will wait a moment, I'll check for you."
+> (= if you are willing to wait)
 
 ---
 
@@ -210,22 +196,15 @@ Dreams:
 
 ### 4.3 "Were" vs "Was" in Second Conditional
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formally, use "were" for ALL subjects (subjunctive mood):    │
-│                                                                 │
-│   "If I were rich, I would donate to charity."                 │
-│   "If she were here, she would know what to do."               │
-│   "If he were taller, he could play basketball."               │
-│                                                                 │
-│   In informal English, "was" is common with I/he/she/it:      │
-│   "If I was rich..." (informal but widely accepted)            │
-│                                                                 │
-│   The phrase "If I were you" is ALWAYS "were":                 │
-│   ✓ "If I were you, I would study harder."                     │
-│   ✗ "If I was you, I would study harder." (avoid)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Formally, use "were" for ALL subjects (subjunctive mood):
+> "If I were rich, I would donate to charity."
+> "If she were here, she would know what to do."
+> "If he were taller, he could play basketball."
+> In informal English, "was" is common with I/he/she/it:
+> "If I was rich..." (informal but widely accepted)
+> The phrase "If I were you" is ALWAYS "were":
+> ✓ "If I were you, I would study harder."
+> ✗ "If I was you, I would study harder." (avoid)
 
 ### 4.4 First vs Second Conditional Contrast
 
@@ -347,19 +326,14 @@ Meaning: A general/permanent condition affected a past event.
 
 ### 6.3 Summary
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   MIXED CONDITIONALS                                           │
-│                                                                 │
-│   Type 1: Past → Present                                      │
-│   If + had + PP, ... would + base verb                         │
-│   "If I had saved money, I would be rich now."                 │
-│                                                                 │
-│   Type 2: Present → Past                                      │
-│   If + past simple, ... would have + PP                        │
-│   "If I were taller, I would have played basketball."          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **MIXED CONDITIONALS**
+>
+> Type 1: Past → Present
+> If + had + PP, ... would + base verb
+> "If I had saved money, I would be rich now."
+> Type 2: Present → Past
+> If + past simple, ... would have + PP
+> "If I were taller, I would have played basketball."
 
 ---
 
@@ -556,29 +530,20 @@ Second conditional for polite requests:
 
 ### 10.1 Key Differences
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean conditionals use -(으)면:                              │
-│                                                                 │
-│   비가 오면, 집에 있을 거야.                                      │
-│   "If it rains, I will stay home."                              │
-│                                                                 │
-│   Korean does NOT change tense for hypothetical conditions:    │
-│   내가 부자면, 여행을 갈 텐데.                                     │
-│   "If I were rich, I would travel." (no past tense in Korean)  │
-│                                                                 │
-│   This is why Korean speakers often make these errors:         │
-│                                                                 │
-│   ✗ "If I am rich, I would travel."                            │
-│     (mixing first and second conditional)                      │
-│   ✓ "If I were rich, I would travel."                          │
-│                                                                 │
-│   ✗ "If I study harder, I would pass."                         │
-│     (mixing first and second conditional)                      │
-│   ✓ "If I studied harder, I would pass." (hypothetical)        │
-│   ✓ "If I study harder, I will pass." (real possibility)       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean conditionals use -(으)면:
+> 비가 오면, 집에 있을 거야.
+> "If it rains, I will stay home."
+> Korean does NOT change tense for hypothetical conditions:
+> 내가 부자면, 여행을 갈 텐데.
+> "If I were rich, I would travel." (no past tense in Korean)
+> This is why Korean speakers often make these errors:
+> ✗ "If I am rich, I would travel."
+> (mixing first and second conditional)
+> ✓ "If I were rich, I would travel."
+> ✗ "If I study harder, I would pass."
+> (mixing first and second conditional)
+> ✓ "If I studied harder, I would pass." (hypothetical)
+> ✓ "If I study harder, I will pass." (real possibility)
 
 ### 10.2 Common Korean Speaker Errors
 
@@ -752,30 +717,23 @@ Complete with the correct verb forms.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Conditionals Quick Guide                       │
-│                                                                 │
-│   Zero:  If + present, present         (always true)           │
-│   1st:   If + present, will + base     (real/possible)         │
-│   2nd:   If + past, would + base       (unreal present)        │
-│   3rd:   If + past perfect, would have + PP (unreal past)      │
-│   Mixed: Combinations of 2nd and 3rd                           │
-│                                                                 │
-│   WISH:                                                        │
-│   Present: wish + past simple   "I wish I knew"               │
-│   Past:    wish + past perfect  "I wish I had known"           │
-│   Change:  wish + would         "I wish he would stop"         │
-│                                                                 │
-│   ALTERNATIVES:                                                │
-│   unless = if not                                              │
-│   provided that / as long as = on the condition that           │
-│   even if = regardless                                         │
-│   in case = as a precaution                                    │
-│                                                                 │
-│   NEVER use "will" or "would" in the if-clause!                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Conditionals Quick Guide**
+>
+> Zero:  If + present, present         (always true)
+> 1st:   If + present, will + base     (real/possible)
+> 2nd:   If + past, would + base       (unreal present)
+> 3rd:   If + past perfect, would have + PP (unreal past)
+> Mixed: Combinations of 2nd and 3rd
+> WISH:
+> Present: wish + past simple   "I wish I knew"
+> Past:    wish + past perfect  "I wish I had known"
+> Change:  wish + would         "I wish he would stop"
+> ALTERNATIVES:
+> unless = if not
+> provided that / as long as = on the condition that
+> even if = regardless
+> in case = as a precaution
+> NEVER use "will" or "would" in the if-clause!
 
 ---
 
