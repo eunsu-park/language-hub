@@ -45,22 +45,18 @@
 
 ### Che? vs. Quale?
 
-```
-+----------------------------------------------------------+
-|  CHE / CHE COSA / COSA = 정의나 일반적인 것을 물을 때     |
-|  Che cos'è?  (이것은 무엇인가? — 그것이 무엇인지 물음)   |
-|  Che ora è? / Che ore sono?  (몇 시예요?)                 |
-|                                                          |
-|  QUALE = 선택지 중에서 고르는 것을 물을 때                |
-|  Qual è il tuo nome?  (이름이 뭐예요? — 선택)            |
-|  Quale libro vuoi?    (어떤 책을 원해?)                   |
-|                                                          |
-|  스페인어와 달리 QUALE는 명사 앞에 올 수 있음:            |
-|  Quale film hai visto?  (어떤 영화를 봤어?)               |
-|                                                          |
-|  QUAL È (아포스트로피 없음) — 표준 철자법                 |
-+----------------------------------------------------------+
-```
+> **CHE / CHE COSA / COSA** = 정의나 일반적인 것을 물을 때
+> - Che cos'è? (이것은 무엇인가? — 그것이 무엇인지 물음)
+> - Che ora è? / Che ore sono? (몇 시예요?)
+>
+> **QUALE** = 선택지 중에서 고르는 것을 물을 때
+> - Qual è il tuo nome? (이름이 뭐예요? — 선택)
+> - Quale libro vuoi? (어떤 책을 원해?)
+>
+> 스페인어와 달리 QUALE는 명사 앞에 올 수 있음:
+> - Quale film hai visto? (어떤 영화를 봤어?)
+>
+> QUAL È (아포스트로피 없음) — 표준 철자법
 
 ### 복합 의문사
 
@@ -270,22 +266,18 @@
 
 ### 이탈리아 식사 구성
 
-```
-+----------------------------------------------------------+
-|  이탈리아 식사 코스 (Portate)                              |
-|                                                          |
-|  1. Antipasto   — 전채 (bruschetta, affettati)            |
-|  2. Primo       — 첫 번째 코스 (pasta, risotto, zuppa)    |
-|  3. Secondo     — 메인 코스 (carne, pesce)                |
-|  4. Contorno    — 사이드 디시 (insalata, verdure)          |
-|  5. Dolce       — 디저트 (tiramisù, gelato)               |
-|  6. Caffè       — 커피 (espresso, macchiato)              |
-|  7. Digestivo   — 식후주 (limoncello, grappa)             |
-|                                                          |
-|  Il coperto = 자릿세 (빵, 테이블 세팅)                     |
-|  팁이 아닙니다 — 이탈리아에서는 표준입니다.                |
-+----------------------------------------------------------+
-```
+> **이탈리아 식사 코스 (Portate)**
+>
+> - **1. Antipasto** — 전채 (bruschetta, affettati)
+> - **2. Primo** — 첫 번째 코스 (pasta, risotto, zuppa)
+> - **3. Secondo** — 메인 코스 (carne, pesce)
+> - **4. Contorno** — 사이드 디시 (insalata, verdure)
+> - **5. Dolce** — 디저트 (tiramisù, gelato)
+> - **6. Caffè** — 커피 (espresso, macchiato)
+> - **7. Digestivo** — 식후주 (limoncello, grappa)
+>
+> Il coperto = 자릿세 (빵, 테이블 세팅)
+> 팁이 아닙니다 — 이탈리아에서는 표준입니다.
 
 ### 레스토랑 대화 예시
 
