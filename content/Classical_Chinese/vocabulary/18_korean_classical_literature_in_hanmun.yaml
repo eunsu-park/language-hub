@@ -1,0 +1,398 @@
+lesson: "18_Korean_Classical_Literature_in_Hanmun"
+lesson_number: 18
+hanja_level: L2
+categories:
+  - id: korean_literary_terms
+    label:
+      en: "Korean Literary Terms"
+      ko: "한국 문학 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 集
+        reading: 집
+        meaning_kun: 모을
+        translation:
+          en: collection, anthology
+          ko: 모음, 문집
+        gender: null
+        plural: null
+        notes:
+          en: "Collection. 文集 = collected works of an author."
+          ko: "모음. 文集 = 저자의 문집."
+      - classical_chinese: 序
+        reading: 서
+        meaning_kun: 차례
+        translation:
+          en: preface, introduction, order
+          ko: 서문, 차례
+        gender: null
+        plural: null
+        notes:
+          en: "Preface or foreword to a literary work. Also means order or sequence."
+          ko: "문학 작품의 서문. 차례, 순서의 뜻도 있음."
+      - classical_chinese: 跋
+        reading: 발
+        meaning_kun: 밟을
+        translation:
+          en: postscript, epilogue
+          ko: 발문
+        gender: null
+        plural: null
+        notes:
+          en: "Postscript or afterword at the end of a book. Opposite of 序 (preface)."
+          ko: "책 끝의 발문. 序(서문)의 반대."
+      - classical_chinese: 記
+        reading: 기
+        meaning_kun: 기록할
+        translation:
+          en: record, account, essay
+          ko: 기록, 기문
+        gender: null
+        plural: null
+        notes:
+          en: "A record or essay genre. 遊記 = travel essay. 記文 = commemorative essay."
+          ko: "기록이나 기문 장르. 遊記 = 기행문. 記文 = 기념 글."
+      - classical_chinese: 傳
+        reading: 전
+        meaning_kun: 전할
+        translation:
+          en: biography, to transmit
+          ko: 전기, 전하다
+        gender: null
+        plural: null
+        notes:
+          en: "Biography genre. 列傳 = collected biographies in histories."
+          ko: "전기 장르. 列傳 = 역사서의 열전."
+      - classical_chinese: 詩
+        reading: 시
+        meaning_kun: 시
+        translation:
+          en: poetry
+          ko: 시
+        gender: null
+        plural: null
+        notes:
+          en: "Poetry. Korean hanmun poetry follows Tang regulated verse forms."
+          ko: "시. 한국 한시는 당나라 율시 형식을 따름."
+      - classical_chinese: 賦
+        reading: 부
+        meaning_kun: 읊을
+        translation:
+          en: rhapsody, poetic essay
+          ko: 부, 읊다
+        gender: null
+        plural: null
+        notes:
+          en: "A literary form blending prose and poetry, popular in Korean hanmun."
+          ko: "산문과 시를 결합한 문학 형식. 한국 한문에서 유행."
+      - classical_chinese: 書
+        reading: 서
+        meaning_kun: 글
+        translation:
+          en: letter, book, writing
+          ko: 글, 서신, 책
+        gender: null
+        plural: null
+        notes:
+          en: "Letter or writing. 上書 = memorial to the throne."
+          ko: "글, 서신. 上書 = 임금에게 올리는 상소."
+      - classical_chinese: 銘
+        reading: 명
+        meaning_kun: 새길
+        translation:
+          en: inscription, motto
+          ko: 명문, 새기다
+        gender: null
+        plural: null
+        notes:
+          en: "Inscription genre. 墓誌銘 = epitaph. Short commemorative text."
+          ko: "명문(명) 장르. 墓誌銘 = 묘지명. 짧은 기념 글."
+
+  - id: famous_authors
+    label:
+      en: "Famous Korean Authors"
+      ko: "한국 유명 저자"
+    type: vocabulary
+    words:
+      - classical_chinese: 崔
+        reading: 최
+        meaning_kun: 높을
+        translation:
+          en: lofty; surname Choe
+          ko: 높다; 성씨 최
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Choe Chiwon (崔致遠), greatest Silla-era hanmun writer."
+          ko: "최치원(崔致遠)의 성. 신라 최고의 한문 문장가."
+      - classical_chinese: 致
+        reading: 치
+        meaning_kun: 이를
+        translation:
+          en: to reach, to convey
+          ko: 이르다, 보내다
+        gender: null
+        plural: null
+        notes:
+          en: "To reach. Part of Choe Chiwon's given name (致遠)."
+          ko: "이르다. 최치원의 이름(致遠)의 일부."
+      - classical_chinese: 遠
+        reading: 원
+        meaning_kun: 멀
+        translation:
+          en: far, distant
+          ko: 먼
+        gender: null
+        plural: null
+        notes:
+          en: "Far. 致遠 = 'reaching far,' Choe Chiwon's given name."
+          ko: "멀다. 致遠 = '멀리 이르다,' 최치원의 이름."
+      - classical_chinese: 丁
+        reading: 정
+        meaning_kun: 고무래
+        translation:
+          en: nail; surname Jeong
+          ko: 못; 성씨 정
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Jeong Yagyong (丁若鏞), great Joseon silhak scholar."
+          ko: "정약용(丁若鏞)의 성. 조선 실학의 대가."
+      - classical_chinese: 若
+        reading: 약
+        meaning_kun: 같을
+        translation:
+          en: like; Yak (in given name)
+          ko: 같다; 약(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "Part of Jeong Yagyong's given name (若鏞)."
+          ko: "정약용의 이름(若鏞)의 일부."
+      - classical_chinese: 鏞
+        reading: 용
+        meaning_kun: 큰 종
+        translation:
+          en: large bell; Yong (in given name)
+          ko: 큰 종; 용(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "Large bell. Part of Jeong Yagyong's given name. Pen name: Dasan (茶山)."
+          ko: "큰 종. 정약용의 이름. 호: 다산(茶山)."
+      - classical_chinese: 李
+        reading: 이
+        meaning_kun: 오얏
+        translation:
+          en: plum; surname Yi/Lee
+          ko: 오얏나무; 성씨 이
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Yi Hwang (李滉, Toegye) and Yi I (李珥, Yulgok)."
+          ko: "이황(李滉, 퇴계)과 이이(李珥, 율곡)의 성."
+      - classical_chinese: 滉
+        reading: 황
+        meaning_kun: 넓을
+        translation:
+          en: vast, expansive (water)
+          ko: 넓다 (물이)
+        gender: null
+        plural: null
+        notes:
+          en: "Vast water. Given name of Yi Hwang (李滉), pen name Toegye (退溪)."
+          ko: "넓은 물. 이황(李滉)의 이름. 호: 퇴계(退溪)."
+      - classical_chinese: 珥
+        reading: 이
+        meaning_kun: 귀걸이
+        translation:
+          en: earring, jade ornament
+          ko: 귀걸이
+        gender: null
+        plural: null
+        notes:
+          en: "Jade earring. Given name of Yi I (李珥), pen name Yulgok (栗谷)."
+          ko: "옥 귀걸이. 이이(李珥)의 이름. 호: 율곡(栗谷)."
+      - classical_chinese: 退
+        reading: 퇴
+        meaning_kun: 물러날
+        translation:
+          en: to retreat, to withdraw
+          ko: 물러나다
+        gender: null
+        plural: null
+        notes:
+          en: "To retreat. Part of Toegye (退溪), pen name of Yi Hwang."
+          ko: "물러나다. 퇴계(退溪)의 일부. 이황의 호."
+      - classical_chinese: 溪
+        reading: 계
+        meaning_kun: 시내
+        translation:
+          en: mountain stream, valley
+          ko: 시내
+        gender: null
+        plural: null
+        notes:
+          en: "Mountain stream. Part of Toegye (退溪), meaning 'retired stream.'"
+          ko: "시내. 퇴계(退溪)의 일부. '물러난 시내'의 뜻."
+      - classical_chinese: 栗
+        reading: 율
+        meaning_kun: 밤
+        translation:
+          en: chestnut
+          ko: 밤
+        gender: null
+        plural: null
+        notes:
+          en: "Chestnut. Part of Yulgok (栗谷), pen name of Yi I."
+          ko: "밤. 율곡(栗谷)의 일부. 이이의 호."
+      - classical_chinese: 谷
+        reading: 곡
+        meaning_kun: 골짜기
+        translation:
+          en: valley
+          ko: 골짜기
+        gender: null
+        plural: null
+        notes:
+          en: "Valley. Part of Yulgok (栗谷), meaning 'chestnut valley.'"
+          ko: "골짜기. 율곡(栗谷)의 일부. '밤 골짜기'의 뜻."
+
+  - id: document_types
+    label:
+      en: "Document Types"
+      ko: "문서 유형"
+    type: vocabulary
+    words:
+      - classical_chinese: 上
+        reading: 상
+        meaning_kun: 윗
+        translation:
+          en: above, upper; to present to the throne
+          ko: 위; 올리다
+        gender: null
+        plural: null
+        notes:
+          en: "Above. 上疏 = memorial to the king. 上書 = to present a letter."
+          ko: "위. 上疏 = 상소. 上書 = 임금에게 글을 올리다."
+      - classical_chinese: 疏
+        reading: 소
+        meaning_kun: 성길
+        translation:
+          en: memorial, petition; sparse
+          ko: 상소, 소; 성기다
+        gender: null
+        plural: null
+        notes:
+          en: "Memorial to the throne. 上疏 = to submit a petition to the king."
+          ko: "상소. 上疏 = 임금에게 상소를 올리다."
+      - classical_chinese: 檄
+        reading: 격
+        meaning_kun: 격문
+        translation:
+          en: manifesto, call to arms
+          ko: 격문
+        gender: null
+        plural: null
+        notes:
+          en: "Official proclamation calling people to action. 檄文 = manifesto."
+          ko: "사람들의 행동을 촉구하는 공식 선언. 檄文 = 격문."
+      - classical_chinese: 表
+        reading: 표
+        meaning_kun: 겉
+        translation:
+          en: memorial to emperor; surface
+          ko: 표문; 겉
+        gender: null
+        plural: null
+        notes:
+          en: "Formal memorial to the emperor or king. Also means surface."
+          ko: "황제나 왕에게 올리는 공식 표문. 겉의 뜻도 있음."
+      - classical_chinese: 箋
+        reading: 전
+        meaning_kun: 편지
+        translation:
+          en: letter paper, annotation, note
+          ko: 편지, 주석
+        gender: null
+        plural: null
+        notes:
+          en: "Letter paper or annotation. Also a type of formal document."
+          ko: "편지지, 주석. 공식 문서의 한 유형이기도 함."
+      - classical_chinese: 狀
+        reading: 장
+        meaning_kun: 형상
+        translation:
+          en: report, petition; shape
+          ko: 장계, 탄원; 형상
+        gender: null
+        plural: null
+        notes:
+          en: "Official report or petition. 狀啓 = official report to superiors."
+          ko: "공식 보고나 탄원. 狀啓 = 상급자에 대한 장계."
+      - classical_chinese: 牒
+        reading: 첩
+        meaning_kun: 문서
+        translation:
+          en: official document, certificate
+          ko: 문서, 첩
+        gender: null
+        plural: null
+        notes:
+          en: "Official document. 牒報 = official report between government offices."
+          ko: "공식 문서. 牒報 = 관청 간의 공식 보고."
+      - classical_chinese: 告
+        reading: 고
+        meaning_kun: 알릴
+        translation:
+          en: to announce, to inform; edict
+          ko: 알리다; 고시
+        gender: null
+        plural: null
+        notes:
+          en: "To announce. 告示 = public notice. 告身 = official appointment."
+          ko: "알리다. 告示 = 고시. 告身 = 고신(관리 임명장)."
+      - classical_chinese: 誌
+        reading: 지
+        meaning_kun: 기록할
+        translation:
+          en: record, annals; epitaph
+          ko: 기록, 지; 묘지
+        gender: null
+        plural: null
+        notes:
+          en: "Record. 墓誌 = tomb record. 誌文 = commemorative essay."
+          ko: "기록. 墓誌 = 묘지. 誌文 = 기념문."
+      - classical_chinese: 碑
+        reading: 비
+        meaning_kun: 비석
+        translation:
+          en: stele, stone monument
+          ko: 비석
+        gender: null
+        plural: null
+        notes:
+          en: "Stone monument with inscriptions. 碑文 = inscription on a stele."
+          ko: "글이 새겨진 비석. 碑文 = 비문."
+      - classical_chinese: 策
+        reading: 책
+        meaning_kun: 꾀
+        translation:
+          en: policy essay, plan; bamboo book
+          ko: 책문, 계책
+        gender: null
+        plural: null
+        notes:
+          en: "Policy essay in the civil service exam. Also means plan or strategy."
+          ko: "과거 시험의 책문. 계책, 전략의 뜻도 있음."
+      - classical_chinese: 論
+        reading: 론
+        meaning_kun: 논할
+        translation:
+          en: essay, treatise, to discuss
+          ko: 논문, 논하다
+        gender: null
+        plural: null
+        notes:
+          en: "Argumentative essay genre. Important in Korean civil service exams."
+          ko: "논설문 장르. 한국 과거 시험에서 중요."
