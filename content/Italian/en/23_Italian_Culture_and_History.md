@@ -31,35 +31,30 @@
 
 ### 1.1 Timeline
 
-```
-+----------------------------------------------------------+
-|           MAJOR PERIODS OF ITALIAN HISTORY                |
-+----------------------------------------------------------+
-|                                                          |
-|  753 BC    Legendary founding of Rome                    |
-|  509 BC    Roman Republic established                    |
-|  27 BC     Roman Empire begins (Augustus)                |
-|  476 AD    Fall of Western Roman Empire                   |
-|                                                          |
-|  500-1000  Early Middle Ages (invasions, feudalism)      |
-|  1000-1300 Rise of city-states (comuni)                  |
-|  1300-1600 RENAISSANCE (Rinascimento)                    |
-|  1500-1700 Foreign domination (Spain, Austria, France)   |
-|                                                          |
-|  1815      Congress of Vienna (Italian states restored)  |
-|  1848-1861 RISORGIMENTO (Italian unification movement)   |
-|  1861      KINGDOM OF ITALY proclaimed                   |
-|  1870      Rome becomes capital                          |
-|                                                          |
-|  1915-1918 World War I (Italy joins Allied Powers)       |
-|  1922-1943 Fascism under Mussolini                       |
-|  1940-1945 World War II                                  |
-|  1946      ITALIAN REPUBLIC (via referendum)             |
-|  1957      Founding member of EEC (now EU)               |
-|  1958-1963 "Miracolo economico" (Economic Miracle)       |
-|  2002      Euro adopted as currency                      |
-+----------------------------------------------------------+
-```
+> **MAJOR PERIODS OF ITALIAN HISTORY**
+>
+> - 753 BC — Legendary founding of Rome
+> - 509 BC — Roman Republic established
+> - 27 BC — Roman Empire begins (Augustus)
+> - 476 AD — Fall of Western Roman Empire
+>
+> - 500-1000 — Early Middle Ages (invasions, feudalism)
+> - 1000-1300 — Rise of city-states (comuni)
+> - 1300-1600 — RENAISSANCE (Rinascimento)
+> - 1500-1700 — Foreign domination (Spain, Austria, France)
+>
+> - 1815 — Congress of Vienna (Italian states restored)
+> - 1848-1861 — RISORGIMENTO (Italian unification movement)
+> - 1861 — KINGDOM OF ITALY proclaimed
+> - 1870 — Rome becomes capital
+>
+> - 1915-1918 — World War I (Italy joins Allied Powers)
+> - 1922-1943 — Fascism under Mussolini
+> - 1940-1945 — World War II
+> - 1946 — ITALIAN REPUBLIC (via referendum)
+> - 1957 — Founding member of EEC (now EU)
+> - 1958-1963 — "Miracolo economico" (Economic Miracle)
+> - 2002 — Euro adopted as currency
 
 ### 1.2 Key Historical Periods
 
@@ -87,31 +82,21 @@
 
 ### 2.1 Overview Map
 
-```
-+----------------------------------------------------------+
-|           20 REGIONS OF ITALY                             |
-+----------------------------------------------------------+
-|                                                          |
-|  NORTH (Nord):                                           |
-|    Valle d'Aosta, Piemonte, Liguria, Lombardia,          |
-|    Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia,   |
-|    Emilia-Romagna                                        |
-|                                                          |
-|  CENTER (Centro):                                        |
-|    Toscana, Umbria, Marche, Lazio                        |
-|                                                          |
-|  SOUTH (Sud / Mezzogiorno):                              |
-|    Abruzzo, Molise, Campania, Puglia,                    |
-|    Basilicata, Calabria                                  |
-|                                                          |
-|  ISLANDS (Isole):                                        |
-|    Sicilia, Sardegna                                     |
-|                                                          |
-|  * 5 Regions have special autonomy status:               |
-|    Valle d'Aosta, Trentino-Alto Adige,                   |
-|    Friuli-Venezia Giulia, Sicilia, Sardegna              |
-+----------------------------------------------------------+
-```
+> **20 REGIONS OF ITALY**
+>
+> **NORTH (Nord):**
+> Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-Romagna
+>
+> **CENTER (Centro):**
+> Toscana, Umbria, Marche, Lazio
+>
+> **SOUTH (Sud / Mezzogiorno):**
+> Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria
+>
+> **ISLANDS (Isole):**
+> Sicilia, Sardegna
+>
+> *5 Regions have special autonomy status: Valle d'Aosta, Trentino-Alto Adige, Friuli-Venezia Giulia, Sicilia, Sardegna
 
 ### 2.2 Regions Table
 
