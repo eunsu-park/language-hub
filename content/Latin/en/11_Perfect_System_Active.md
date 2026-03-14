@@ -25,20 +25,14 @@
 
 Every Latin verb has **four principal parts** from which all tenses are formed. You must memorize them for every new verb.
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│   1st PP         2nd PP        3rd PP         4th PP               │
-│   1st sg.        Present       1st sg.        Perfect Passive      │
-│   Present        Infinitive    Perfect        Participle (PPP)     │
-│   Active                       Active                              │
-│                                                                    │
-│   amō            amāre         amāvī          amātum               │
-│   "I love"       "to love"     "I loved"      "having been loved"  │
-│                                                                    │
-│   PRESENT STEM ←──┘            PERFECT STEM ←──┘                   │
-│   (amā-)                       (amāv-)                             │
-└────────────────────────────────────────────────────────────────────┘
-```
+> **Principal Parts Overview**
+>
+> | 1st PP | 2nd PP | 3rd PP | 4th PP |
+> |---|---|---|---|
+> | 1st sg. Present Active | Present Infinitive | 1st sg. Perfect Active | Perfect Passive Participle (PPP) |
+> | amō "I love" | amāre "to love" | amāvī "I loved" | amātum "having been loved" |
+>
+> PRESENT STEM (amā-) from 2nd PP; PERFECT STEM (amāv-) from 3rd PP
 
 ### 1.1 How Stems Are Derived
 
@@ -138,16 +132,12 @@ Many high-frequency verbs form their perfects irregularly. These must be memoriz
 
 ### 3.3 Mnemonic for Sigmatic Perfects
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│   When a stem ends in b, g, or c before -sī:                │
-│                                                              │
-│   b + s → ps:  scrībō  → scrīp-sī                           │
-│   g + s → x:   dīcō    → dīx-ī  (= dīc-s-ī)               │
-│   c + s → x:   dūcō    → dūx-ī  (= dūc-s-ī)               │
-│   t + s → ss:  mittō   → mīs-ī  (= mitt-s-ī, simplified)  │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Consonant Changes Before -sī**
+>
+> - b + s → ps:  scrībō  → scrīp-sī
+> - g + s → x:   dīcō    → dīx-ī  (= dīc-s-ī)
+> - c + s → x:   dūcō    → dūx-ī  (= dūc-s-ī)
+> - t + s → ss:  mittō   → mīs-ī  (= mitt-s-ī, simplified)
 
 ---
 
@@ -246,19 +236,14 @@ Common in temporal and conditional clauses:
 
 ### 6.4 Summary of Temporal Relations
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   Past ←──────────────────────────────────── → Future          │
-│                                                                │
-│   Pluperfect    Perfect / Imperfect    Future Perfect  Future  │
-│   (had done)    (did / was doing)      (will have)    (will)   │
-│                                                                │
-│   ──────────────────┤────────────────────┤──────────────┤      │
-│   amāveram          amāvī / amābam      amāverō    amābō      │
-│                     ↑ NOW                                      │
-└────────────────────────────────────────────────────────────────┘
-```
+> **Tense Timeline**
+>
+> Past ←──────────────────────────── → Future
+>
+> Pluperfect → Perfect / Imperfect → Future Perfect → Future
+> (had done)    (did / was doing)     (will have)      (will)
+>
+> amāveram → amāvī / amābam → amāverō → amābō
 
 ---
 
@@ -364,26 +349,19 @@ Conjugate fully (all 6 persons) in the perfect active indicative.
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│   PERFECT SYSTEM ACTIVE — FORMATION SUMMARY                │
-│                                                             │
-│   PERFECT:         perf. stem + -ī/-istī/-it               │
-│                                  -imus/-istis/-ērunt        │
-│                                                             │
-│   PLUPERFECT:      perf. stem + -eram/-erās/-erat           │
-│                                  -erāmus/-erātis/-erant     │
-│                                                             │
-│   FUTURE PERFECT:  perf. stem + -erō/-eris/-erit            │
-│                                  -erimus/-eritis/-erint     │
-│                                                             │
-│   PRINCIPAL PARTS:  1st    2nd      3rd       4th           │
-│                     amō    amāre    amāvī     amātum        │
-│                     ↓      ↓        ↓         ↓             │
-│                     pres.  pres.    perfect   passive       │
-│                     stem   infin.   stem      participle    │
-└─────────────────────────────────────────────────────────────┘
-```
+> **PERFECT SYSTEM ACTIVE -- FORMATION SUMMARY**
+>
+> **PERFECT:** perf. stem + -ī/-istī/-it/-imus/-istis/-ērunt
+>
+> **PLUPERFECT:** perf. stem + -eram/-erās/-erat/-erāmus/-erātis/-erant
+>
+> **FUTURE PERFECT:** perf. stem + -erō/-eris/-erit/-erimus/-eritis/-erint
+>
+> **PRINCIPAL PARTS:**
+> | 1st | 2nd | 3rd | 4th |
+> |---|---|---|---|
+> | amō | amāre | amāvī | amātum |
+> | pres. stem | pres. infin. | perfect stem | passive participle |
 
 ## Navigation
 - Previous: [10. Numbers, Time, and Daily Life](10_Numbers_Time_and_Daily_Life.md)
