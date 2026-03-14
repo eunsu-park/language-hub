@@ -24,34 +24,28 @@
 
 ### 1.1 Immediate Family
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   English           Korean        Notes                         │
-│   ─────────         ──────        ─────                         │
-│   father / dad      아버지 / 아빠  "dad" = informal              │
-│   mother / mom      어머니 / 엄마  "mom" (AmE), "mum" (BrE)     │
-│   parents           부모님                                       │
-│   son               아들                                        │
-│   daughter           딸                                         │
-│   brother            형/오빠/남동생  ※ Korean has 4 words!       │
-│   sister             언니/누나/여동생 ※ Korean has 4 words!       │
-│   husband            남편                                       │
-│   wife               아내                                       │
-│   children           자녀/아이들                                  │
-│                                                                 │
-│   ※ Korean distinguishes older/younger AND speaker's gender:   │
-│     형 (older brother, male speaker)                            │
-│     오빠 (older brother, female speaker)                         │
-│     누나 (older sister, male speaker)                            │
-│     언니 (older sister, female speaker)                          │
-│     남동생 (younger brother)                                     │
-│     여동생 (younger sister)                                      │
-│                                                                 │
-│   English has only: brother, sister (+ older/younger/big/little)│
-│     "my older brother" or "my big brother"                      │
-│     "my younger sister" or "my little sister"                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English           Korean        Notes**
+>
+> father / dad      아버지 / 아빠  "dad" = informal
+> mother / mom      어머니 / 엄마  "mom" (AmE), "mum" (BrE)
+> parents           부모님
+> son               아들
+> daughter           딸
+> brother            형/오빠/남동생  ※ Korean has 4 words!
+> sister             언니/누나/여동생 ※ Korean has 4 words!
+> husband            남편
+> wife               아내
+> children           자녀/아이들
+> ※ Korean distinguishes older/younger AND speaker's gender:
+> 형 (older brother, male speaker)
+> 오빠 (older brother, female speaker)
+> 누나 (older sister, male speaker)
+> 언니 (older sister, female speaker)
+> 남동생 (younger brother)
+> 여동생 (younger sister)
+> English has only: brother, sister (+ older/younger/big/little)
+> "my older brother" or "my big brother"
+> "my younger sister" or "my little sister"
 
 ### 1.2 Extended Family
 
@@ -308,23 +302,19 @@ truck     트럭       ambulance    구급차
 
 ### 6.2 Transportation Verbs
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   drive a car        차를 운전하다    (자가용)                    │
-│   ride a bicycle     자전거를 타다    (올라타는 것)                │
-│   take the bus       버스를 타다      (대중교통)                  │
-│   get on / get off   타다 / 내리다    (대중교통)                  │
-│   get in / get out   타다 / 내리다    (택시, 승용차)              │
-│   catch a train      기차를 타다      (시간에 맞춰)               │
-│   miss the bus       버스를 놓치다                                │
-│   park the car       차를 주차하다                                │
-│                                                                 │
-│   ※ get ON/OFF = large vehicles (bus, train, plane, ship)      │
-│     get IN/OUT OF = small vehicles (car, taxi)                  │
-│     "Get on the bus." ✓    "Get in the bus." ✗                  │
-│     "Get in the car." ✓    "Get on the car." ✗                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **drive a car        차를 운전하다    (자가용)**
+>
+> ride a bicycle     자전거를 타다    (올라타는 것)
+> take the bus       버스를 타다      (대중교통)
+> get on / get off   타다 / 내리다    (대중교통)
+> get in / get out   타다 / 내리다    (택시, 승용차)
+> catch a train      기차를 타다      (시간에 맞춰)
+> miss the bus       버스를 놓치다
+> park the car       차를 주차하다
+> ※ get ON/OFF = large vehicles (bus, train, plane, ship)
+> get IN/OUT OF = small vehicles (car, taxi)
+> "Get on the bus." ✓    "Get in the bus." ✗
+> "Get in the car." ✓    "Get on the car." ✗
 
 ### 6.3 Directions
 
@@ -471,26 +461,21 @@ have a look                    한 번 보다
 
 ### 8.5 make vs do Quick Guide
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   MAKE = create / produce something new                         │
-│   (결과물이 있는 것: 만들다)                                      │
-│   make breakfast (아침을 만들다)                                  │
-│   make a decision (결정을 만들다)                                 │
-│   make money (돈을 만들다/벌다)                                   │
-│                                                                 │
-│   DO = perform an activity / task                               │
-│   (활동을 수행하는 것: 하다)                                      │
-│   do homework (숙제를 하다)                                      │
-│   do the dishes (설거지를 하다)                                   │
-│   do exercise (운동을 하다)                                      │
-│                                                                 │
-│   ※ "make homework" ✗ → "do homework" ✓                       │
-│   ※ "do a mistake" ✗ → "make a mistake" ✓                     │
-│   ※ "make the dishes" ✗ → "do the dishes" ✓                   │
-│   These must be memorized — there is no perfect rule!          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **MAKE = create / produce something new**
+>
+> (결과물이 있는 것: 만들다)
+> make breakfast (아침을 만들다)
+> make a decision (결정을 만들다)
+> make money (돈을 만들다/벌다)
+> DO = perform an activity / task
+> (활동을 수행하는 것: 하다)
+> do homework (숙제를 하다)
+> do the dishes (설거지를 하다)
+> do exercise (운동을 하다)
+> ※ "make homework" ✗ → "do homework" ✓
+> ※ "do a mistake" ✗ → "make a mistake" ✓
+> ※ "make the dishes" ✗ → "do the dishes" ✓
+> These must be memorized — there is no perfect rule!
 
 ---
 
@@ -655,29 +640,21 @@ I go to bed at 11 PM.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Daily Life Vocabulary Quick Guide                     │
-│                                                                 │
-│   Family: father/mother, brother/sister (no age/gender split)  │
-│   ※ Korean has 4+ words where English has 1 (형/오빠/누나/언니)  │
-│                                                                 │
-│   Food: boil, fry, bake, grill, steam, roast                   │
-│   Taste: sweet, sour, salty, bitter, spicy                      │
-│                                                                 │
-│   Clothing: put on (입다), take off (벗다), wear (입고 있다)     │
-│   ※ "pants" = trousers (AmE) but underwear (BrE)!             │
-│                                                                 │
-│   Transport: get ON/OFF bus/train, get IN/OUT OF car/taxi      │
-│   Weather: "It's + weather adj." — "it" is required!            │
-│                                                                 │
-│   Key collocations:                                             │
-│   MAKE: breakfast, mistake, decision, money, friends            │
-│   DO: homework, dishes, laundry, exercise, research             │
-│   TAKE: shower, photo, break, test, medicine, notes             │
-│   HAVE: breakfast, fun, meeting, problem, headache              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Daily Life Vocabulary Quick Guide**
+>
+> Family: father/mother, brother/sister (no age/gender split)
+> ※ Korean has 4+ words where English has 1 (형/오빠/누나/언니)
+> Food: boil, fry, bake, grill, steam, roast
+> Taste: sweet, sour, salty, bitter, spicy
+> Clothing: put on (입다), take off (벗다), wear (입고 있다)
+> ※ "pants" = trousers (AmE) but underwear (BrE)!
+> Transport: get ON/OFF bus/train, get IN/OUT OF car/taxi
+> Weather: "It's + weather adj." — "it" is required!
+> Key collocations:
+> MAKE: breakfast, mistake, decision, money, friends
+> DO: homework, dishes, laundry, exercise, research
+> TAKE: shower, photo, break, test, medicine, notes
+> HAVE: breakfast, fun, meeting, problem, headache
 
 ---
 
