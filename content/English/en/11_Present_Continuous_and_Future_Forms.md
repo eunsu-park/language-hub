@@ -25,27 +25,20 @@
 
 ### 1.1 Structure
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Present Continuous = BE (am/is/are) + verb-ING               │
-│                                                                 │
-│   I          am eating      (I'm eating)                        │
-│   you        are eating     (you're eating)                     │
-│   he/she/it  is eating      (he's/she's/it's eating)           │
-│   we         are eating     (we're eating)                      │
-│   they       are eating     (they're eating)                    │
-│                                                                 │
-│   Negative: am/is/are + NOT + verb-ing                         │
-│   I'm not eating.    She isn't eating.    They aren't eating.  │
-│                                                                 │
-│   Question: Am/Is/Are + subject + verb-ing?                    │
-│   Are you eating?    Is she eating?    What are they eating?   │
-│                                                                 │
-│   ※ Korean has -고 있다 (하고 있다, 먹고 있다) for continuous,   │
-│     but Korean speakers use it less frequently than English.    │
-│     English REQUIRES present continuous for ongoing actions.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Present Continuous = BE (am/is/are) + verb-ING**
+>
+> I          am eating      (I'm eating)
+> you        are eating     (you're eating)
+> he/she/it  is eating      (he's/she's/it's eating)
+> we         are eating     (we're eating)
+> they       are eating     (they're eating)
+> Negative: am/is/are + NOT + verb-ing
+> I'm not eating.    She isn't eating.    They aren't eating.
+> Question: Am/Is/Are + subject + verb-ing?
+> Are you eating?    Is she eating?    What are they eating?
+> ※ Korean has -고 있다 (하고 있다, 먹고 있다) for continuous,
+> but Korean speakers use it less frequently than English.
+> English REQUIRES present continuous for ongoing actions.
 
 ### 1.2 Spelling Rules for -ing
 
@@ -127,38 +120,27 @@ Rule 5: Verbs ending in -c → add -king
 
 ### 3.1 State Verbs (NOT used with -ing)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   These verbs describe STATES, not actions.                     │
-│   They are NOT normally used in present continuous.             │
-│                                                                 │
-│   Mental states:                                                │
-│   know, believe, think (=believe), understand, remember,        │
-│   forget, imagine, suppose, mean, realize, recognize            │
-│                                                                 │
-│   Emotions:                                                     │
-│   like, love, hate, want, need, prefer, wish, care              │
-│                                                                 │
-│   Senses (involuntary):                                         │
-│   see, hear, smell, taste, feel (=have the feeling)             │
-│                                                                 │
-│   Possession:                                                   │
-│   have (=possess), own, belong to, possess, contain, include    │
-│                                                                 │
-│   Other:                                                        │
-│   be, seem, appear, cost, weigh, measure, exist, matter,       │
-│   depend, deserve, fit, owe                                     │
-│                                                                 │
-│   ✓ "I know the answer."       (simple present)                │
-│   ✗ "I'm knowing the answer."  (WRONG)                         │
-│                                                                 │
-│   ✓ "She likes coffee."        (simple present)                │
-│   ✗ "She's liking coffee."     (WRONG)                         │
-│                                                                 │
-│   ✓ "I have a car."            (simple present — possession)   │
-│   ✗ "I'm having a car."        (WRONG)                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **These verbs describe STATES, not actions.**
+>
+> They are NOT normally used in present continuous.
+> Mental states:
+> know, believe, think (=believe), understand, remember,
+> forget, imagine, suppose, mean, realize, recognize
+> Emotions:
+> like, love, hate, want, need, prefer, wish, care
+> Senses (involuntary):
+> see, hear, smell, taste, feel (=have the feeling)
+> Possession:
+> have (=possess), own, belong to, possess, contain, include
+> Other:
+> be, seem, appear, cost, weigh, measure, exist, matter,
+> depend, deserve, fit, owe
+> ✓ "I know the answer."       (simple present)
+> ✗ "I'm knowing the answer."  (WRONG)
+> ✓ "She likes coffee."        (simple present)
+> ✗ "She's liking coffee."     (WRONG)
+> ✓ "I have a car."            (simple present — possession)
+> ✗ "I'm having a car."        (WRONG)
 
 ### 3.2 Verbs with BOTH State and Action Meanings
 
@@ -200,28 +182,20 @@ weigh:
 
 ### 4.1 The Key Distinction
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Simple Present          vs    Present Continuous               │
-│   ──────────────                ────────────────────             │
-│   Habits/routines               Actions happening NOW           │
-│   "I eat lunch at noon."       "I'm eating lunch (right now)."  │
-│                                                                 │
-│   Permanent situations          Temporary situations            │
-│   "I live in Seoul."           "I'm living in Seoul (this month)│
-│                                                                 │
-│   General facts                 Current changes                 │
-│   "Water boils at 100°C."     "The water is boiling!"          │
-│                                                                 │
-│   Scheduled events              Annoying habits                 │
-│   "The train leaves at 9."    "She's always leaving late!"     │
-│                                                                 │
-│   ※ Korean often doesn't distinguish these clearly:            │
-│     "나는 밥을 먹는다" = both "I eat rice" (habit) AND           │
-│                         "I'm eating rice" (now)                 │
-│     English REQUIRES the distinction!                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Simple Present          vs    Present Continuous**
+>
+> Habits/routines               Actions happening NOW
+> "I eat lunch at noon."       "I'm eating lunch (right now)."
+> Permanent situations          Temporary situations
+> "I live in Seoul."           "I'm living in Seoul (this month)
+> General facts                 Current changes
+> "Water boils at 100°C."     "The water is boiling!"
+> Scheduled events              Annoying habits
+> "The train leaves at 9."    "She's always leaving late!"
+> ※ Korean often doesn't distinguish these clearly:
+> "나는 밥을 먹는다" = both "I eat rice" (habit) AND
+> "I'm eating rice" (now)
+> English REQUIRES the distinction!
 
 ### 4.2 Examples Side by Side
 
@@ -368,32 +342,22 @@ For SCHEDULED events (timetables, programs):
 
 ### 8.1 Decision Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              FUTURE FORM DECISION CHART                         │
-│                                                                 │
-│   Is it a scheduled timetable?                                  │
-│   YES → Simple Present: "The train leaves at 9."               │
-│                                                                 │
-│   Is it already arranged (with people, places set)?             │
-│   YES → Present Continuous: "I'm meeting Tom at 3."            │
-│                                                                 │
-│   Is it a pre-planned intention?                                │
-│   YES → going to: "I'm going to study abroad."                 │
-│                                                                 │
-│   Is it a spontaneous decision (decided NOW)?                   │
-│   YES → will: "I'll have the pasta." (at a restaurant)         │
-│                                                                 │
-│   Is it a prediction based on evidence?                         │
-│   YES → going to: "Look! It's going to rain."                  │
-│                                                                 │
-│   Is it a prediction based on opinion/belief?                   │
-│   YES → will: "I think she'll win."                             │
-│                                                                 │
-│   Is it a promise, offer, or threat?                            │
-│   YES → will: "I'll help you." / "I won't forget."             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **FUTURE FORM DECISION CHART**
+>
+> Is it a scheduled timetable?
+> YES → Simple Present: "The train leaves at 9."
+> Is it already arranged (with people, places set)?
+> YES → Present Continuous: "I'm meeting Tom at 3."
+> Is it a pre-planned intention?
+> YES → going to: "I'm going to study abroad."
+> Is it a spontaneous decision (decided NOW)?
+> YES → will: "I'll have the pasta." (at a restaurant)
+> Is it a prediction based on evidence?
+> YES → going to: "Look! It's going to rain."
+> Is it a prediction based on opinion/belief?
+> YES → will: "I think she'll win."
+> Is it a promise, offer, or threat?
+> YES → will: "I'll help you." / "I won't forget."
 
 ### 8.2 Same Situation, Different Nuances
 
@@ -413,25 +377,19 @@ For SCHEDULED events (timetables, programs):
 
 ### 8.3 Korean Comparison
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean future:                                                │
-│   ~할 것이다    (formal intention/prediction)                     │
-│   ~할 거야     (informal intention/prediction)                   │
-│   ~하겠다      (intention/willingness)                           │
-│   ~할 예정이다  (scheduled/planned)                               │
-│   ~하기로 했다  (arranged/decided)                                │
-│                                                                 │
-│   English future:                                               │
-│   will = spontaneous decision, prediction, promise              │
-│   going to = pre-planned intention, evidence-based prediction  │
-│   present continuous = fixed arrangement                        │
-│   simple present = timetable/schedule                           │
-│                                                                 │
-│   ※ Korean speakers tend to overuse "will" for everything.    │
-│     Learn to use "going to" and present continuous too!        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean future:
+> ~할 것이다    (formal intention/prediction)
+> ~할 거야     (informal intention/prediction)
+> ~하겠다      (intention/willingness)
+> ~할 예정이다  (scheduled/planned)
+> ~하기로 했다  (arranged/decided)
+> English future:
+> will = spontaneous decision, prediction, promise
+> going to = pre-planned intention, evidence-based prediction
+> present continuous = fixed arrangement
+> simple present = timetable/schedule
+> ※ Korean speakers tend to overuse "will" for everything.
+> Learn to use "going to" and present continuous too!
 
 ---
 
@@ -579,28 +537,22 @@ Choose the correct form.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         Present Continuous & Future Quick Guide                  │
-│                                                                 │
-│   Present Continuous: am/is/are + verb-ing                      │
-│   Uses: happening now, temporary, changing, annoying (+always)  │
-│   ※ NOT with state verbs: know, like, want, have (possess)    │
-│                                                                 │
-│   Future forms:                                                 │
-│   will + base verb:                                             │
-│     → spontaneous decision, prediction (opinion), promise       │
-│   be + going to + base verb:                                    │
-│     → pre-planned intention, prediction (evidence)              │
-│   present continuous (be + -ing):                               │
-│     → fixed arrangement (people, time, place decided)           │
-│   simple present:                                               │
-│     → timetable/schedule (train leaves at 9)                    │
-│                                                                 │
-│   ※ Korean speakers overuse "will" — practice "going to"      │
-│     and present continuous for planned/arranged futures!        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Present Continuous & Future Quick Guide**
+>
+> Present Continuous: am/is/are + verb-ing
+> Uses: happening now, temporary, changing, annoying (+always)
+> ※ NOT with state verbs: know, like, want, have (possess)
+> Future forms:
+> will + base verb:
+> → spontaneous decision, prediction (opinion), promise
+> be + going to + base verb:
+> → pre-planned intention, prediction (evidence)
+> present continuous (be + -ing):
+> → fixed arrangement (people, time, place decided)
+> simple present:
+> → timetable/schedule (train leaves at 9)
+> ※ Korean speakers overuse "will" — practice "going to"
+> and present continuous for planned/arranged futures!
 
 ---
 
