@@ -25,26 +25,19 @@
 
 ### 1.1 Korean vs English Writing Style
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean Writing Pattern (기-승-전-결):                          │
-│   Introduction → Development → Turn → Conclusion               │
-│   Indirect approach: background first, main point at the end   │
-│                                                                 │
-│   English Writing Pattern:                                     │
-│   Main point first → Support → Details → Conclusion            │
-│   Direct approach: thesis statement up front                   │
-│                                                                 │
-│   KEY DIFFERENCE:                                              │
-│   Korean readers expect the main point LATER                   │
-│   English readers expect the main point FIRST                  │
-│                                                                 │
-│   Korean: "The weather was bad, and traffic was terrible,      │
-│            and many people were affected, so I was late."       │
-│   English: "I was late because of bad weather and traffic."    │
-│            (Main point first, reasons after)                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean Writing Pattern (기-승-전-결):
+> Introduction → Development → Turn → Conclusion
+> Indirect approach: background first, main point at the end
+> English Writing Pattern:
+> Main point first → Support → Details → Conclusion
+> Direct approach: thesis statement up front
+> KEY DIFFERENCE:
+> Korean readers expect the main point LATER
+> English readers expect the main point FIRST
+> Korean: "The weather was bad, and traffic was terrible,
+> and many people were affected, so I was late."
+> English: "I was late because of bad weather and traffic."
+> (Main point first, reasons after)
 
 ---
 
@@ -52,24 +45,15 @@
 
 ### 2.1 Email Format
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   To:      recipient@email.com                                  │
-│   Cc:      copied.person@email.com                              │
-│   Subject: Clear, specific subject line                        │
-│                                                                 │
-│   Greeting,                                                    │
-│                                                                 │
-│   Opening line (purpose of the email).                         │
-│                                                                 │
-│   Body paragraphs (details, requests, information).            │
-│                                                                 │
-│   Closing line (action items, thanks, next steps).             │
-│                                                                 │
-│   Sign-off,                                                    │
-│   Your Name                                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> To:      recipient@email.com
+> Cc:      copied.person@email.com
+> Subject: Clear, specific subject line
+> Greeting,
+> Opening line (purpose of the email).
+> Body paragraphs (details, requests, information).
+> Closing line (action items, thanks, next steps).
+> Sign-off,
+> Your Name
 
 ### 2.2 Formal Email Example
 
@@ -184,34 +168,26 @@ CLOSING:
 
 ### 3.1 The Five-Paragraph Essay
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Paragraph 1: INTRODUCTION                                   │
-│   • Hook (attention-grabbing opening)                          │
-│   • Background information                                    │
-│   • Thesis statement (main argument — last sentence)          │
-│                                                                 │
-│   Paragraph 2: BODY PARAGRAPH 1                               │
-│   • Topic sentence (first supporting point)                   │
-│   • Evidence / examples                                       │
-│   • Analysis / explanation                                    │
-│                                                                 │
-│   Paragraph 3: BODY PARAGRAPH 2                               │
-│   • Topic sentence (second supporting point)                  │
-│   • Evidence / examples                                       │
-│   • Analysis / explanation                                    │
-│                                                                 │
-│   Paragraph 4: BODY PARAGRAPH 3                               │
-│   • Topic sentence (third supporting point)                   │
-│   • Evidence / examples                                       │
-│   • Analysis / explanation                                    │
-│                                                                 │
-│   Paragraph 5: CONCLUSION                                     │
-│   • Restate thesis (in different words)                       │
-│   • Summarize key points                                      │
-│   • Final thought / call to action / broader implication      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Paragraph 1: INTRODUCTION
+> • Hook (attention-grabbing opening)
+> • Background information
+> • Thesis statement (main argument — last sentence)
+> Paragraph 2: BODY PARAGRAPH 1
+> • Topic sentence (first supporting point)
+> • Evidence / examples
+> • Analysis / explanation
+> Paragraph 3: BODY PARAGRAPH 2
+> • Topic sentence (second supporting point)
+> • Evidence / examples
+> • Analysis / explanation
+> Paragraph 4: BODY PARAGRAPH 3
+> • Topic sentence (third supporting point)
+> • Evidence / examples
+> • Analysis / explanation
+> Paragraph 5: CONCLUSION
+> • Restate thesis (in different words)
+> • Summarize key points
+> • Final thought / call to action / broader implication
 
 ### 3.2 Writing a Strong Thesis Statement
 
@@ -741,31 +717,23 @@ mental and physical health.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 Writing Quick Guide                             │
-│                                                                 │
-│   ESSAY: Introduction (hook + thesis) → Body (evidence) →     │
-│          Conclusion (restate + broader implication)             │
-│                                                                 │
-│   EMAIL: Greeting → Purpose → Details → Closing → Sign-off    │
-│                                                                 │
-│   PARAGRAPHS: Topic sentence → Evidence → Explanation → Link  │
-│                                                                 │
-│   KEY PUNCTUATION:                                             │
-│   Comma: lists, introductory phrases, non-essential info       │
-│   Semicolon: join related clauses, before however/therefore    │
-│   Apostrophe: contractions (it's) and possession (John's)     │
-│   its = possessive / it's = it is                              │
-│                                                                 │
-│   TOP KOREAN-SPEAKER FIXES:                                    │
-│   1. Add articles (a/an/the)                                  │
-│   2. Use SVO word order                                       │
-│   3. State main point FIRST, not last                         │
-│   4. Check subject-verb agreement                             │
-│   5. Use correct prepositions                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Writing Quick Guide**
+>
+> ESSAY: Introduction (hook + thesis) → Body (evidence) →
+> Conclusion (restate + broader implication)
+> EMAIL: Greeting → Purpose → Details → Closing → Sign-off
+> PARAGRAPHS: Topic sentence → Evidence → Explanation → Link
+> KEY PUNCTUATION:
+> Comma: lists, introductory phrases, non-essential info
+> Semicolon: join related clauses, before however/therefore
+> Apostrophe: contractions (it's) and possession (John's)
+> its = possessive / it's = it is
+> TOP KOREAN-SPEAKER FIXES:
+> 1. Add articles (a/an/the)
+> 2. Use SVO word order
+> 3. State main point FIRST, not last
+> 4. Check subject-verb agreement
+> 5. Use correct prepositions
 
 ---
 
