@@ -36,25 +36,21 @@
 
 Japanese is unique among major world languages in using three distinct writing systems simultaneously. A single sentence may contain all three:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│            The Three Japanese Writing Systems                     │
-│                                                                  │
-│   ひらがな  Hiragana   — Native Japanese words, grammar          │
-│   カタカナ  Katakana   — Foreign loanwords, emphasis, names      │
-│   漢字      Kanji      — Chinese-origin characters for meaning   │
-│                                                                  │
-│   Example sentence using all three:                              │
-│   田中さんは コーヒー を 飲みました。                                │
-│   (Tanaka-san wa koohii o nomimashita.)                          │
-│   "Mr. Tanaka drank coffee."                                     │
-│                                                                  │
-│   田中 = kanji (name)                                             │
-│   さんは...を...ました = hiragana (grammar/particles)              │
-│   コーヒー = katakana (foreign word: "coffee")                    │
-│   飲み = kanji (verb stem: "drink")                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The Three Japanese Writing Systems**
+>
+> - **ひらがな Hiragana**: Native Japanese words, grammar
+> - **カタカナ Katakana**: Foreign loanwords, emphasis, names
+> - **漢字 Kanji**: Chinese-origin characters for meaning
+>
+> Example sentence using all three:
+> 田中さんは コーヒー を 飲みました。
+> (Tanaka-san wa koohii o nomimashita.)
+> "Mr. Tanaka drank coffee."
+>
+> - **田中**: kanji (name)
+> - **さんは...を...ました**: hiragana (grammar/particles)
+> - **コーヒー**: katakana (foreign word: "coffee")
+> - **飲み**: kanji (verb stem: "drink")
 
 ### 1.2 When to Use Each Script
 
@@ -84,19 +80,15 @@ Step 4: Build kanji knowledge continuously
 
 Hiragana is a **syllabary** — each character represents a syllable (a consonant + vowel combination), not a single sound like in English. There are 46 basic characters.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Hiragana Key Facts                             │
-│                                                                  │
-│   Characters: 46 basic + 25 voiced + 33 combo = 104 total       │
-│   Shape: Rounded, flowing, cursive-like                          │
-│   Origin: Simplified from kanji by women in the Heian period     │
-│   Used for: Grammar, native words, furigana (kanji readings)     │
-│                                                                  │
-│   Each character = one syllable (mora)                           │
-│   Example: さくら (sa-ku-ra) = 3 characters = 3 syllables        │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Hiragana Key Facts**
+>
+> - **Characters**: 46 basic + 25 voiced + 33 combo = 104 total
+> - **Shape**: Rounded, flowing, cursive-like
+> - **Origin**: Simplified from kanji by women in the Heian period
+> - **Used for**: Grammar, native words, furigana (kanji readings)
+>
+> Each character = one syllable (mora)
+> Example: さくら (sa-ku-ra) = 3 characters = 3 syllables
 
 ### 2.2 The Japanese Sound System
 
@@ -275,23 +267,19 @@ A small や, ゆ, or よ after certain characters creates combination sounds:
 
 Katakana is the second syllabary. It represents the **exact same sounds** as hiragana but is used in different contexts.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Katakana Key Facts                             │
-│                                                                  │
-│   Characters: 46 basic (same sounds as hiragana)                 │
-│   Shape: Angular, sharp, geometric                               │
-│   Origin: Simplified from parts of kanji by monks                │
-│   Used for:                                                      │
-│     • Foreign loanwords (コンピュータ = computer)                  │
-│     • Foreign names (マイケル = Michael)                           │
-│     • Country names (アメリカ = America)                           │
-│     • Onomatopoeia (ドキドキ = heart beating)                     │
-│     • Emphasis (like CAPS or italics in English)                  │
-│     • Scientific/technical terms                                  │
-│     • Company/brand names                                        │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Katakana Key Facts**
+>
+> - **Characters**: 46 basic (same sounds as hiragana)
+> - **Shape**: Angular, sharp, geometric
+> - **Origin**: Simplified from parts of kanji by monks
+> **Used for**:
+>   - Foreign loanwords (コンピュータ = computer)
+>   - Foreign names (マイケル = Michael)
+>   - Country names (アメリカ = America)
+>   - Onomatopoeia (ドキドキ = heart beating)
+>   - Emphasis (like CAPS or italics in English)
+>   - Scientific/technical terms
+>   - Company/brand names
 
 ### 5.2 Hiragana vs Katakana Comparison
 
@@ -362,24 +350,20 @@ Modern Japanese uses special katakana combinations for sounds that do not exist 
 
 ### 7.1 What are Kanji?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Kanji Key Facts                                │
-│                                                                  │
-│   Origin: Borrowed from Chinese characters                       │
-│   Total existing: ~50,000+                                       │
-│   Jouyou kanji (常用漢字): 2,136 (official "daily use" set)      │
-│   JLPT N5 kanji: ~100                                            │
-│   JLPT N1 kanji: ~2,000                                          │
-│                                                                  │
-│   Each kanji has:                                                │
-│     • Meaning(s)                                                 │
-│     • On'yomi (音読み) — Chinese-derived reading                  │
-│     • Kun'yomi (訓読み) — Native Japanese reading                 │
-│     • Stroke order — must be written in correct order             │
-│     • Radical(s) — component parts                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Kanji Key Facts**
+>
+> - **Origin**: Borrowed from Chinese characters
+> - **Total existing**: ~50,000+
+> - **Jouyou kanji (常用漢字)**: 2,136 (official "daily use" set)
+> - **JLPT N5 kanji**: ~100
+> - **JLPT N1 kanji**: ~2,000
+>
+> Each kanji has:
+> - Meaning(s)
+> - On'yomi (音読み) — Chinese-derived reading
+> - Kun'yomi (訓読み) — Native Japanese reading
+> - Stroke order — must be written in correct order
+> - Radical(s) — component parts
 
 ### 7.2 Examples of Basic Kanji
 
@@ -435,19 +419,15 @@ Radicals (部首, bushu) are the component parts that make up kanji. Think of th
 
 Radicals appear in specific positions within a kanji:
 
-```
-┌──────────────────────────────────────────────────────┐
-│            Radical Positions in Kanji                  │
-│                                                       │
-│   偏 (hen)  — Left side     亻 in 休                  │
-│   旁 (tsukuri) — Right side  力 in 動                  │
-│   冠 (kanmuri) — Top        雨 in 雪                  │
-│   脚 (ashi) — Bottom        心 in 思                   │
-│   構 (kamae) — Enclosure    門 in 間                   │
-│   垂 (tare) — Top-left drape 广 in 店                  │
-│   繞 (nyou) — Bottom-left wrap 辶 in 道               │
-└──────────────────────────────────────────────────────┘
-```
+> **Radical Positions in Kanji**
+>
+> - **偏 (hen)**: Left side — 亻 in 休
+> - **旁 (tsukuri)**: Right side — 力 in 動
+> - **冠 (kanmuri)**: Top — 雨 in 雪
+> - **脚 (ashi)**: Bottom — 心 in 思
+> - **構 (kamae)**: Enclosure — 門 in 間
+> - **垂 (tare)**: Top-left drape — 广 in 店
+> - **繞 (nyou)**: Bottom-left wrap — 辶 in 道
 
 ---
 
@@ -457,23 +437,19 @@ Radicals appear in specific positions within a kanji:
 
 Every kanji has at least two ways to read it — sometimes many more. This is the single most challenging aspect of kanji.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                On'yomi vs Kun'yomi                                │
-│                                                                  │
-│   On'yomi (音読み) — "Sound reading"                              │
-│     • Chinese-derived pronunciation                              │
-│     • Used in compound words (jukugo)                            │
-│     • Written in katakana in dictionaries                        │
-│     • Example: 山 = サン (SAN)  → 山脈 (sanmyaku, mountain range)│
-│                                                                  │
-│   Kun'yomi (訓読み) — "Meaning reading"                           │
-│     • Native Japanese pronunciation                              │
-│     • Used when kanji stands alone or with hiragana endings      │
-│     • Written in hiragana in dictionaries                        │
-│     • Example: 山 = やま (yama) → 山 (yama, mountain)            │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **On'yomi vs Kun'yomi**
+>
+> **On'yomi (音読み) — "Sound reading"**
+> - Chinese-derived pronunciation
+> - Used in compound words (jukugo)
+> - Written in katakana in dictionaries
+> - Example: 山 = サン (SAN) → 山脈 (sanmyaku, mountain range)
+>
+> **Kun'yomi (訓読み) — "Meaning reading"**
+> - Native Japanese pronunciation
+> - Used when kanji stands alone or with hiragana endings
+> - Written in hiragana in dictionaries
+> - Example: 山 = やま (yama) → 山 (yama, mountain)
 
 ### 9.2 When to Use Which Reading
 
@@ -517,31 +493,26 @@ Rule 4: Outside before inside       Rule 8: Bottom closing stroke last
 
 ### 10.2 Practice Strategy
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Recommended Practice Schedule                        │
-│                                                                  │
-│   Week 1-2: Hiragana                                             │
-│     • Learn 5-10 characters per day                              │
-│     • Write each character 10+ times                             │
-│     • Use flashcards for recognition                             │
-│     • Practice reading simple words                              │
-│                                                                  │
-│   Week 3-4: Katakana                                             │
-│     • Same approach as hiragana                                  │
-│     • Practice with loanwords you know                           │
-│     • Compare similar-looking pairs                              │
-│                                                                  │
-│   Week 5+: Begin Kanji                                           │
-│     • Learn 3-5 new kanji per day                                │
-│     • Always learn in context (with vocabulary)                  │
-│     • Review using spaced repetition                             │
-│     • Pay attention to radicals                                  │
-│                                                                  │
-│   Tools: Grid paper (genkouyoushi 原稿用紙), flashcard apps      │
-│          (Anki), writing practice sheets                          │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Recommended Practice Schedule**
+>
+> **Week 1-2: Hiragana**
+> - Learn 5-10 characters per day
+> - Write each character 10+ times
+> - Use flashcards for recognition
+> - Practice reading simple words
+>
+> **Week 3-4: Katakana**
+> - Same approach as hiragana
+> - Practice with loanwords you know
+> - Compare similar-looking pairs
+>
+> **Week 5+: Begin Kanji**
+> - Learn 3-5 new kanji per day
+> - Always learn in context (with vocabulary)
+> - Review using spaced repetition
+> - Pay attention to radicals
+>
+> **Tools**: Grid paper (genkouyoushi 原稿用紙), flashcard apps (Anki), writing practice sheets
 
 ### 10.3 Common Beginner Mistakes
 
