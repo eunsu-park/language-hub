@@ -25,25 +25,18 @@
 
 ### 1.1 핵심 차이점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 형용사는 동사처럼 행동합니다:                              │
-│   크다 (to be big), 작다 (to be small), 빠르다 (to be fast)     │
-│   활용됨: 크다, 큰, 컸다, 클 것이다                                │
-│                                                                 │
-│   영어 형용사는 별개의 단어입니다 (활용 없음):                      │
-│   big, small, fast — 시제에 따라 절대 형태가 변하지 않음            │
-│   "She is big." "She was big." "She will be big."              │
-│   → "big"은 모든 시제에서 "big"!                                  │
-│                                                                 │
-│   한국어: 큰 집 (형용사가 ㄴ/은으로 명사를 수식)                    │
-│   영어: a big house (형용사가 명사 바로 앞에)                      │
-│                                                                 │
-│   한국어: 그 집은 크다 (형용사가 서술어 역할)                       │
-│   영어: The house IS big. (형용사에 BE 동사 필요)                  │
-│   ※ "The house big." ✗ — 연결동사가 반드시 있어야 합니다!          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어 형용사는 동사처럼 행동합니다:
+> 크다 (to be big), 작다 (to be small), 빠르다 (to be fast)
+> 활용됨: 크다, 큰, 컸다, 클 것이다
+> 영어 형용사는 별개의 단어입니다 (활용 없음):
+> big, small, fast — 시제에 따라 절대 형태가 변하지 않음
+> "She is big." "She was big." "She will be big."
+> → "big"은 모든 시제에서 "big"!
+> 한국어: 큰 집 (형용사가 ㄴ/은으로 명사를 수식)
+> 영어: a big house (형용사가 명사 바로 앞에)
+> 한국어: 그 집은 크다 (형용사가 서술어 역할)
+> 영어: The house IS big. (형용사에 BE 동사 필요)
+> ※ "The house big." ✗ — 연결동사가 반드시 있어야 합니다!
 
 ---
 
@@ -101,33 +94,26 @@
 
 ### 3.1 OSASCOMP 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   명사 앞에 여러 형용사가 올 때 특정 순서를 따릅니다               │
-│   (원어민은 직감적으로 이 순서를 지킵니다):                        │
-│                                                                 │
-│   O - 의견 (Opinion)     (beautiful, nice, ugly, delicious)     │
-│   S - 크기 (Size)        (big, small, tall, short, long)        │
-│   A - 나이 (Age)         (old, young, new, ancient)             │
-│   S - 모양 (Shape)       (round, square, flat, wide)            │
-│   C - 색깔 (Color)       (red, blue, green, dark)               │
-│   O - 출신 (Origin)      (Korean, American, Japanese, French)   │
-│   M - 재료 (Material)    (wooden, metal, cotton, plastic)       │
-│   P - 목적 (Purpose)     (sleeping [bag], running [shoes])      │
-│                                                                 │
-│   예시:                                                         │
-│   "a beautiful big old round red Korean wooden dining table"    │
-│    의견    크기 나이 모양  색깔 출신   재료    목적    명사       │
-│                                                                 │
-│   실제로는 2-3개 이상의 형용사를 잘 쓰지 않습니다:                 │
-│   "a beautiful old house"      (의견 + 나이)                     │
-│   "a small red car"            (크기 + 색깔)                     │
-│   "a tall young Korean man"    (크기 + 나이 + 출신)               │
-│                                                                 │
-│   ※ 한국어: 아름다운 큰 오래된 빨간 한국의 나무 식탁               │
-│     한국어 순서는 더 유연하지만, 영어 순서는 고정!                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **명사 앞에 여러 형용사가 올 때 특정 순서를 따릅니다**
+>
+> (원어민은 직감적으로 이 순서를 지킵니다):
+> O - 의견 (Opinion)     (beautiful, nice, ugly, delicious)
+> S - 크기 (Size)        (big, small, tall, short, long)
+> A - 나이 (Age)         (old, young, new, ancient)
+> S - 모양 (Shape)       (round, square, flat, wide)
+> C - 색깔 (Color)       (red, blue, green, dark)
+> O - 출신 (Origin)      (Korean, American, Japanese, French)
+> M - 재료 (Material)    (wooden, metal, cotton, plastic)
+> P - 목적 (Purpose)     (sleeping [bag], running [shoes])
+> 예시:
+> "a beautiful big old round red Korean wooden dining table"
+> 의견    크기 나이 모양  색깔 출신   재료    목적    명사
+> 실제로는 2-3개 이상의 형용사를 잘 쓰지 않습니다:
+> "a beautiful old house"      (의견 + 나이)
+> "a small red car"            (크기 + 색깔)
+> "a tall young Korean man"    (크기 + 나이 + 출신)
+> ※ 한국어: 아름다운 큰 오래된 빨간 한국의 나무 식탁
+> 한국어 순서는 더 유연하지만, 영어 순서는 고정!
 
 ### 3.2 빠른 예시
 
@@ -148,31 +134,23 @@
 
 ### 4.1 비교급 만들기 규칙
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1음절 형용사 → -er 추가:                                       │
-│   tall → taller     old → older     fast → faster               │
-│   cheap → cheaper   long → longer   young → younger             │
-│                                                                 │
-│   1음절, CVC로 끝나면 → 자음 두 배 + -er:                        │
-│   big → bigger      hot → hotter    thin → thinner              │
-│   fat → fatter      wet → wetter    sad → sadder                │
-│                                                                 │
-│   2음절, -y로 끝나면 → y를 -ier로 변경:                           │
-│   happy → happier   easy → easier   busy → busier               │
-│   early → earlier   heavy → heavier  funny → funnier            │
-│                                                                 │
-│   2음절 이상 형용사 → more + 형용사:                              │
-│   beautiful → more beautiful                                    │
-│   expensive → more expensive                                    │
-│   important → more important                                    │
-│   interesting → more interesting                                │
-│   comfortable → more comfortable                                │
-│                                                                 │
-│   ※ 절대 이중 사용 금지: "more bigger" ✗ "more taller" ✗        │
-│     -er 또는 more 중 하나만, 절대 둘 다 쓰지 마세요!              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1음절 형용사 → -er 추가:
+> tall → taller     old → older     fast → faster
+> cheap → cheaper   long → longer   young → younger
+> 1음절, CVC로 끝나면 → 자음 두 배 + -er:
+> big → bigger      hot → hotter    thin → thinner
+> fat → fatter      wet → wetter    sad → sadder
+> 2음절, -y로 끝나면 → y를 -ier로 변경:
+> happy → happier   easy → easier   busy → busier
+> early → earlier   heavy → heavier  funny → funnier
+> 2음절 이상 형용사 → more + 형용사:
+> beautiful → more beautiful
+> expensive → more expensive
+> important → more important
+> interesting → more interesting
+> comfortable → more comfortable
+> ※ 절대 이중 사용 금지: "more bigger" ✗ "more taller" ✗
+> -er 또는 more 중 하나만, 절대 둘 다 쓰지 마세요!
 
 ### 4.2 비교급 사용하기
 
@@ -267,26 +245,20 @@ even + 비교급 (심지어, 더욱):
 
 ### 6.1 불규칙 형태
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   형용사       비교급          최상급                              │
-│   ─────────   ───────────    ───────────                        │
-│   good        better         the best                           │
-│   bad         worse          the worst                          │
-│   far         farther/further the farthest/furthest              │
-│   little      less           the least                          │
-│   much/many   more           the most                           │
-│   old         older/elder    the oldest/eldest                   │
-│                                                                 │
-│   ※ "gooder" ✗  "badder" ✗  "more good" ✗  "more bad" ✗      │
-│     이것들은 항상 불규칙 — 외우세요!                              │
-│                                                                 │
-│   farther = 물리적 거리: "Seoul is farther than Suwon."         │
-│   further = 추가적/더: "We need further information."           │
-│   elder = 가족: "my elder brother" (형/언니)                     │
-│   older = 일반적: "She is older than me."                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **형용사       비교급          최상급**
+>
+> good        better         the best
+> bad         worse          the worst
+> far         farther/further the farthest/furthest
+> little      less           the least
+> much/many   more           the most
+> old         older/elder    the oldest/eldest
+> ※ "gooder" ✗  "badder" ✗  "more good" ✗  "more bad" ✗
+> 이것들은 항상 불규칙 — 외우세요!
+> farther = 물리적 거리: "Seoul is farther than Suwon."
+> further = 추가적/더: "We need further information."
+> elder = 가족: "my elder brother" (형/언니)
+> older = 일반적: "She is older than me."
 
 ---
 
@@ -357,28 +329,21 @@ as cold as ice                 얼음처럼 차가운
 
 ### 8.2 불규칙 부사
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   형용사 → 부사 (동일 형태 또는 불규칙):                          │
-│                                                                 │
-│   good → well         "She speaks English well."                │
-│   fast → fast         "He runs fast."  ("fastly"가 아님)        │
-│   hard → hard         "She works hard." ("hardly"가 아님)       │
-│   late → late         "He arrived late."                        │
-│   early → early       "She woke up early."                     │
-│   straight → straight "Go straight."                           │
-│                                                                 │
-│   ※ hard vs hardly:                                            │
-│     "She works hard."    = 열심히 일한다 (성실하게)               │
-│     "She hardly works."  = 거의 일 안 한다 (겨우)                │
-│     이 두 가지는 반대 의미!                                      │
-│                                                                 │
-│   ※ late vs lately:                                            │
-│     "He arrived late."   = 늦게 도착했다 (정시가 아님)            │
-│     "I've been busy lately." = 최근에 바빴다 (요즘)              │
-│     다른 의미!                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 형용사 → 부사 (동일 형태 또는 불규칙):
+> good → well         "She speaks English well."
+> fast → fast         "He runs fast."  ("fastly"가 아님)
+> hard → hard         "She works hard." ("hardly"가 아님)
+> late → late         "He arrived late."
+> early → early       "She woke up early."
+> straight → straight "Go straight."
+> ※ hard vs hardly:
+> "She works hard."    = 열심히 일한다 (성실하게)
+> "She hardly works."  = 거의 일 안 한다 (겨우)
+> 이 두 가지는 반대 의미!
+> ※ late vs lately:
+> "He arrived late."   = 늦게 도착했다 (정시가 아님)
+> "I've been busy lately." = 최근에 바빴다 (요즘)
+> 다른 의미!
 
 ### 8.3 부사 위치
 
@@ -614,29 +579,22 @@ as...as로 완성하세요.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          형용사 & 부사 빠른 가이드                                │
-│                                                                 │
-│   형용사 위치: 명사 앞 / 연결동사 뒤                              │
-│   복수 형용사 순서: 의견-크기-나이-모양-색깔-출신-                  │
-│                    재료-목적 (OSASCOMP)                          │
-│                                                                 │
-│   비교급: 짧은 형 → -er + than / 긴 형 → more + than            │
-│   최상급: 짧은 형 → the -est / 긴 형 → the most                 │
-│   불규칙: good-better-best, bad-worse-worst                     │
-│   ※ 절대 "more better"나 "most best" 쓰지 마세요!               │
-│                                                                 │
-│   부사: 형용사 + -ly (slowly, carefully, beautifully)            │
-│   불규칙: good→well, fast→fast, hard→hard                       │
-│   ※ hard ≠ hardly, late ≠ lately                               │
-│                                                                 │
-│   as...as = 같은 정도    not as...as = 덜한 정도                 │
-│   enough: 형 + enough / enough + 명사                           │
-│   too: too + 형 (지나침, 부정적 의미)                             │
-│   ※ 영어 "too" ≠ 한국어 너무 (너무는 종종 긍정적)                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **형용사 & 부사 빠른 가이드**
+>
+> 형용사 위치: 명사 앞 / 연결동사 뒤
+> 복수 형용사 순서: 의견-크기-나이-모양-색깔-출신-
+> 재료-목적 (OSASCOMP)
+> 비교급: 짧은 형 → -er + than / 긴 형 → more + than
+> 최상급: 짧은 형 → the -est / 긴 형 → the most
+> 불규칙: good-better-best, bad-worse-worst
+> ※ 절대 "more better"나 "most best" 쓰지 마세요!
+> 부사: 형용사 + -ly (slowly, carefully, beautifully)
+> 불규칙: good→well, fast→fast, hard→hard
+> ※ hard ≠ hardly, late ≠ lately
+> as...as = 같은 정도    not as...as = 덜한 정도
+> enough: 형 + enough / enough + 명사
+> too: too + 형 (지나침, 부정적 의미)
+> ※ 영어 "too" ≠ 한국어 너무 (너무는 종종 긍정적)
 
 ---
 
