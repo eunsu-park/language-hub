@@ -24,31 +24,23 @@
 
 ## 1. Why Present Perfect is So Hard for Korean Speakers
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   THE HARDEST TENSE FOR KOREAN SPEAKERS                         │
-│                                                                 │
-│   Korean has NO present perfect tense.                          │
-│   Korean past tense (-었-) covers both:                         │
-│     "I ate lunch." (simple past)                                │
-│     "I have eaten lunch." (present perfect)                     │
-│   Both = 나는 점심을 먹었다 in Korean!                            │
-│                                                                 │
-│   But in English, they are DIFFERENT:                           │
-│                                                                 │
-│   "I ate lunch."          (Simple Past)                         │
-│   → Focus on PAST event, FINISHED, specific past time          │
-│   → 나는 점심을 먹었다 (과거 사건에 초점)                          │
-│                                                                 │
-│   "I have eaten lunch."   (Present Perfect)                     │
-│   → Focus on PRESENT result of past action                     │
-│   → 나는 점심을 먹은 상태이다 (현재 결과에 초점 — 배가 안 고프다)  │
-│                                                                 │
-│   The KEY concept: Present perfect CONNECTS past to present.   │
-│   The action happened in the past, but the RESULT or           │
-│   RELEVANCE is in the PRESENT.                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **THE HARDEST TENSE FOR KOREAN SPEAKERS**
+>
+> Korean has NO present perfect tense.
+> Korean past tense (-었-) covers both:
+> "I ate lunch." (simple past)
+> "I have eaten lunch." (present perfect)
+> Both = 나는 점심을 먹었다 in Korean!
+> But in English, they are DIFFERENT:
+> "I ate lunch."          (Simple Past)
+> → Focus on PAST event, FINISHED, specific past time
+> → 나는 점심을 먹었다 (과거 사건에 초점)
+> "I have eaten lunch."   (Present Perfect)
+> → Focus on PRESENT result of past action
+> → 나는 점심을 먹은 상태이다 (현재 결과에 초점 — 배가 안 고프다)
+> The KEY concept: Present perfect CONNECTS past to present.
+> The action happened in the past, but the RESULT or
+> RELEVANCE is in the PRESENT.
 
 ---
 
@@ -194,36 +186,25 @@ Compare:
 
 ### 4.1 The Critical Distinction
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   Simple Past                    Present Perfect                │
-│   ───────────                    ────────────────                │
-│   FINISHED past time             CONNECTION to present          │
-│   yesterday, last week, in 2020  today, this week, ever, never  │
-│                                                                 │
-│   "I ate lunch."                 "I've eaten lunch."            │
-│   (when? maybe at noon)          (result: I'm full now)         │
-│                                                                 │
-│   "She went to Paris."           "She's been to Paris."         │
-│   (specific trip in the past)    (experience: she knows Paris)  │
-│                                                                 │
-│   "I lost my keys."              "I've lost my keys."           │
-│   (past event, maybe found them) (result: I don't have them NOW)│
-│                                                                 │
-│   "He lived in Seoul for 3 years." "He has lived in Seoul for   │
-│   (he doesn't live there now)      3 years." (he STILL lives   │
-│                                     there)                      │
-│                                                                 │
-│   SPECIFIC TIME → Simple Past    NO SPECIFIC TIME → Pres. Perf.│
-│   yesterday, last week,          ever, never, already, yet,    │
-│   in 2020, when I was young      just, so far, recently        │
-│                                                                 │
-│   ※ NEVER use present perfect with specific past times:       │
-│     "I have eaten lunch yesterday." ✗✗✗                        │
-│     "I ate lunch yesterday." ✓                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Simple Past                    Present Perfect**
+>
+> FINISHED past time             CONNECTION to present
+> yesterday, last week, in 2020  today, this week, ever, never
+> "I ate lunch."                 "I've eaten lunch."
+> (when? maybe at noon)          (result: I'm full now)
+> "She went to Paris."           "She's been to Paris."
+> (specific trip in the past)    (experience: she knows Paris)
+> "I lost my keys."              "I've lost my keys."
+> (past event, maybe found them) (result: I don't have them NOW)
+> "He lived in Seoul for 3 years." "He has lived in Seoul for
+> (he doesn't live there now)      3 years." (he STILL lives
+> there)
+> SPECIFIC TIME → Simple Past    NO SPECIFIC TIME → Pres. Perf.
+> yesterday, last week,          ever, never, already, yet,
+> in 2020, when I was young      just, so far, recently
+> ※ NEVER use present perfect with specific past times:
+> "I have eaten lunch yesterday." ✗✗✗
+> "I ate lunch yesterday." ✓
 
 ### 4.2 Time Marker Rules
 
@@ -265,25 +246,19 @@ B: "I visited Seoul and Busan."       (simple past)
 
 ### 5.1 The Difference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   since + POINT IN TIME (시점)     for + DURATION (기간)         │
-│   ──────────────────────────       ─────────────────────         │
-│   since 2020                       for 4 years                  │
-│   since Monday                     for 3 days                   │
-│   since January                    for 6 months                 │
-│   since 9 AM                       for 5 hours                  │
-│   since I was a child              for a long time              │
-│   since she arrived                for ages                     │
-│   since last summer                for 2 weeks                  │
-│                                                                 │
-│   since = starting point (부터)    for = duration length (동안)  │
-│                                                                 │
-│   "I've lived here since 2020."    = 2020년부터                 │
-│   "I've lived here for 4 years."   = 4년 동안                   │
-│   → Same meaning, different expression!                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **since + POINT IN TIME (시점)     for + DURATION (기간)**
+>
+> since 2020                       for 4 years
+> since Monday                     for 3 days
+> since January                    for 6 months
+> since 9 AM                       for 5 hours
+> since I was a child              for a long time
+> since she arrived                for ages
+> since last summer                for 2 weeks
+> since = starting point (부터)    for = duration length (동안)
+> "I've lived here since 2020."    = 2020년부터
+> "I've lived here for 4 years."   = 4년 동안
+> → Same meaning, different expression!
 
 ### 5.2 Common Errors
 
@@ -421,28 +396,22 @@ Question: Had + subject + past participle?
 
 ### 8.2 When to Use Past Perfect
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Past Perfect = "the past of the past"                         │
-│   When you're talking about the past and want to mention        │
-│   something that happened EVEN EARLIER.                         │
-│                                                                 │
-│   Timeline:                                                     │
-│   ──────────────X──────────────X──────────── NOW               │
-│              past perfect    simple past                        │
-│              (earlier)       (later)                             │
-│                                                                 │
-│   "When I arrived, the movie had already started."              │
-│   (내가 도착했을 때, 영화는 이미 시작한 상태였다.)                  │
-│   1st: movie started (past perfect — earlier)                   │
-│   2nd: I arrived (simple past — later)                          │
-│                                                                 │
-│   "She told me she had been to Korea."                          │
-│   (그녀는 한국에 가 본 적 있다고 나에게 말했다.)                    │
-│   1st: she went to Korea (past perfect — earlier)               │
-│   2nd: she told me (simple past — later)                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Past Perfect = "the past of the past"**
+>
+> When you're talking about the past and want to mention
+> something that happened EVEN EARLIER.
+> Timeline:
+> ──────────────X──────────────X──────────── NOW
+> past perfect    simple past
+> (earlier)       (later)
+> "When I arrived, the movie had already started."
+> (내가 도착했을 때, 영화는 이미 시작한 상태였다.)
+> 1st: movie started (past perfect — earlier)
+> 2nd: I arrived (simple past — later)
+> "She told me she had been to Korea."
+> (그녀는 한국에 가 본 적 있다고 나에게 말했다.)
+> 1st: she went to Korea (past perfect — earlier)
+> 2nd: she told me (simple past — later)
 
 ### 8.3 Past Perfect Examples
 
@@ -495,37 +464,27 @@ When the sequence might be AMBIGUOUS, past perfect helps:
 
 ### 9.1 Error Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Error                          Correct                        │
-│   ─────                          ───────                        │
-│   "I have been to Japan          "I went to Japan               │
-│    last year."                    last year."                   │
-│   (specific time → simple past)                                 │
-│                                                                 │
-│   "I lost my keys."              "I've lost my keys."           │
-│   (when result matters NOW)       (I still don't have them)     │
-│                                                                 │
-│   "I live here since 2020."      "I've lived here since 2020." │
-│   (since/for → present perfect)                                 │
-│                                                                 │
-│   "Did you ever eat sushi?"      "Have you ever eaten sushi?"  │
-│   (life experience → pres perf)                                 │
-│                                                                 │
-│   "I have eaten lunch             "I ate lunch yesterday."      │
-│    yesterday."                    (specific time → simple past) │
-│   ✗✗✗ MOST COMMON ERROR                                        │
-│                                                                 │
-│   "I didn't eat yet."            "I haven't eaten yet."         │
-│   (yet → present perfect)         (standard/formal)             │
-│                                                                 │
-│   "I have lived in Seoul          "I lived in Seoul             │
-│    for 3 years."                   for 3 years."               │
-│   (if you DON'T live there now)  (no longer living there)       │
-│   ※ If you STILL live there: "I have lived" ✓                 │
-│     If you NO LONGER live there: "I lived" ✓                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Error                          Correct**
+>
+> "I have been to Japan          "I went to Japan
+> last year."                    last year."
+> (specific time → simple past)
+> "I lost my keys."              "I've lost my keys."
+> (when result matters NOW)       (I still don't have them)
+> "I live here since 2020."      "I've lived here since 2020."
+> (since/for → present perfect)
+> "Did you ever eat sushi?"      "Have you ever eaten sushi?"
+> (life experience → pres perf)
+> "I have eaten lunch             "I ate lunch yesterday."
+> yesterday."                    (specific time → simple past)
+> ✗✗✗ MOST COMMON ERROR
+> "I didn't eat yet."            "I haven't eaten yet."
+> (yet → present perfect)         (standard/formal)
+> "I have lived in Seoul          "I lived in Seoul
+> for 3 years."                   for 3 years."
+> (if you DON'T live there now)  (no longer living there)
+> ※ If you STILL live there: "I have lived" ✓
+> If you NO LONGER live there: "I lived" ✓
 
 ---
 
@@ -676,33 +635,25 @@ Complete with simple past or past perfect.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         Present Perfect & Past Perfect Quick Guide               │
-│                                                                 │
-│   Present Perfect: have/has + past participle                   │
-│   Uses: experience (ever/never), result (still relevant now),  │
-│         unfinished time (today/this year), duration (since/for) │
-│                                                                 │
-│   ※ NEVER with specific past time (yesterday, in 2020, ago)  │
-│   ※ Simple past = finished past event at specific time        │
-│   ※ Present perfect = connection to present                    │
-│                                                                 │
-│   since + point:  since 2020, since Monday, since 3 PM         │
-│   for + duration: for 5 years, for 3 days, for a long time     │
-│                                                                 │
-│   already (이미) → positive: "I've already finished."           │
-│   yet (아직) → negative/question: "Haven't finished yet."      │
-│   just (방금) → recent: "I've just eaten."                      │
-│   still (아직도) → frustration: "I still haven't finished."     │
-│   ever (한번이라도) → question: "Have you ever been?"           │
-│   never (한번도 없다) → negative: "I've never been."            │
-│                                                                 │
-│   Past Perfect: had + past participle                           │
-│   = the EARLIER of two past events                              │
-│   "When I arrived, she had already left."                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Present Perfect & Past Perfect Quick Guide**
+>
+> Present Perfect: have/has + past participle
+> Uses: experience (ever/never), result (still relevant now),
+> unfinished time (today/this year), duration (since/for)
+> ※ NEVER with specific past time (yesterday, in 2020, ago)
+> ※ Simple past = finished past event at specific time
+> ※ Present perfect = connection to present
+> since + point:  since 2020, since Monday, since 3 PM
+> for + duration: for 5 years, for 3 days, for a long time
+> already (이미) → positive: "I've already finished."
+> yet (아직) → negative/question: "Haven't finished yet."
+> just (방금) → recent: "I've just eaten."
+> still (아직도) → frustration: "I still haven't finished."
+> ever (한번이라도) → question: "Have you ever been?"
+> never (한번도 없다) → negative: "I've never been."
+> Past Perfect: had + past participle
+> = the EARLIER of two past events
+> "When I arrived, she had already left."
 
 ---
 
