@@ -30,29 +30,16 @@
 
 모든 이탈리아어 동사는 **-are**, **-ere**, 또는 **-ire**로 끝나는 부정사를 갖습니다:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   그룹 1: -ARE 동사 (~전체의 60% — 가장 큰 그룹)                   │
-│   parlare (말하다), studiare (공부하다), lavorare (일하다)          │
-│                                                                 │
-│   그룹 2: -ERE 동사 (~25%)                                       │
-│   credere (믿다), vendere (팔다), leggere (읽다)                  │
-│                                                                 │
-│   그룹 3a: -IRE 동사 — 규칙 (~15%)                               │
-│   dormire (자다), partire (떠나다), aprire (열다)                  │
-│                                                                 │
-│   그룹 3b: -IRE 동사 — -ISC- 삽입형                               │
-│   capire (이해하다), finire (끝내다), preferire (선호하다)          │
-│                                                                 │
-│   활용법: 어미(-are/-ere/-ire)를 제거하여 어간을 얻은 후,           │
-│   적절한 인칭/수 어미를 붙입니다.                                   │
-│                                                                 │
-│   parlare → parl- + -o = parlo (나는 말한다)                      │
-│   credere → cred- + -o = credo (나는 믿는다)                      │
-│   dormire → dorm- + -o = dormo (나는 잔다)                        │
-│   capire  → cap-  + -isc- + -o = capisco (나는 이해한다)          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> - **그룹 1: -ARE 동사** (~전체의 60% — 가장 큰 그룹): parlare, studiare, lavorare
+> - **그룹 2: -ERE 동사** (~25%): credere, vendere, leggere
+> - **그룹 3a: -IRE 동사 — 규칙** (~15%): dormire, partire, aprire
+> - **그룹 3b: -IRE 동사 — -ISC- 삽입형**: capire, finire, preferire
+>
+> 활용법: 어미(-are/-ere/-ire)를 제거하여 어간을 얻은 후, 적절한 인칭/수 어미를 붙입니다.
+> - parlare → parl- + -o = parlo (나는 말한다)
+> - credere → cred- + -o = credo (나는 믿는다)
+> - dormire → dorm- + -o = dormo (나는 잔다)
+> - capire → cap- + -isc- + -o = capisco (나는 이해한다)
 
 ### 1.2 주어 대명사
 
@@ -303,24 +290,15 @@ CONOSCERE = 사람, 장소, 사물을 알다/친숙하다
 
 ### 7.1 어순: 주어-동사-목적어 (SVO)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   기본 패턴: 주어 + 동사 + 목적어/보어                              │
-│                                                                 │
-│   (Io) studio italiano.        → 이탈리아어를 공부한다.             │
-│   Maria mangia una mela.       → Maria는 사과를 먹는다.           │
-│   (Noi) viviamo a Roma.        → 로마에 산다.                     │
-│                                                                 │
-│   ※ 주어 대명사는 보통 생략 (pro-drop):                            │
-│   Parlo italiano. = 이탈리아어를 한다. (io 암시)                    │
-│   Studia medicina. = 의학을 공부한다.                              │
-│                                                                 │
-│   ※ 이탈리아어 어순은 강조를 위해 유연합니다:                        │
-│   Leggo un libro. = Un libro leggo. ("책을"에 강조)               │
-│   L'italiano, lo studio. (이탈리아어, 그걸 공부한다 — 주제화)       │
-│   둘 다 문법적으로 올바릅니다.                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **기본 패턴**: 주어 + 동사 + 목적어/보어
+>
+> - (Io) studio italiano. → 이탈리아어를 공부한다.
+> - Maria mangia una mela. → Maria는 사과를 먹는다.
+> - (Noi) viviamo a Roma. → 로마에 산다.
+>
+> - 주어 대명사는 보통 생략 (pro-drop): Parlo italiano. = 이탈리아어를 한다. (io 암시)
+> - 이탈리아어 어순은 강조를 위해 유연합니다: Leggo un libro. = Un libro leggo. ("책을"에 강조)
+> - L'italiano, lo studio. (이탈리아어, 그걸 공부한다 — 주제화) — 둘 다 문법적으로 올바릅니다.
 
 ### 7.2 세부사항 추가
 
@@ -412,29 +390,23 @@ Non è il mio libro.   → 내 책이 아니다.
 
 ### 9.3 이중 부정 (이탈리아어에서는 올바름!)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   스페인어처럼, 부정어가 동사 뒤에 올 때                             │
-│   이중 부정이 필수입니다.                                          │
-│                                                                 │
-│   Non ho niente.         → 아무것도 없다. (직역: 아무것도 안 가졌다)│
-│   Non vedo nessuno.      → 아무도 안 보인다.                      │
-│   Non mangio mai carne.  → 결코 고기를 먹지 않는다.                │
-│   Non voglio né caffè né tè. → 커피도 차도 원하지 않는다.         │
-│                                                                 │
-│   대안 (부정어가 동사 앞 — "non" 없이):                            │
-│   Mai mangio carne.      → 결코 고기를 먹지 않는다.                │
-│   Nessuno parla.         → 아무도 말하지 않는다.                   │
-│   Niente funziona.       → 아무것도 작동하지 않는다.               │
-│                                                                 │
-│   두 패턴 모두 올바름:                                             │
-│   Non viene mai. = Mai viene. (그/그녀는 결코 오지 않는다.)        │
-│                                                                 │
-│   Neanche / Nemmeno / Neppure (~도 아닌 / ~조차 아닌):           │
-│   Non parlo neanche inglese. (영어조차 못 한다.)                  │
-│   Nemmeno io! (나도 아니야! / 나도 마찬가지!)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 스페인어처럼, 부정어가 동사 뒤에 올 때 이중 부정이 필수입니다.
+>
+> - Non ho niente. → 아무것도 없다.
+> - Non vedo nessuno. → 아무도 안 보인다.
+> - Non mangio mai carne. → 결코 고기를 먹지 않는다.
+> - Non voglio né caffè né tè. → 커피도 차도 원하지 않는다.
+>
+> 대안 (부정어가 동사 앞 — "non" 없이):
+> - Mai mangio carne. → 결코 고기를 먹지 않는다.
+> - Nessuno parla. → 아무도 말하지 않는다.
+> - Niente funziona. → 아무것도 작동하지 않는다.
+>
+> 두 패턴 모두 올바름: Non viene mai. = Mai viene.
+>
+> **Neanche / Nemmeno / Neppure** (~도 아닌 / ~조차 아닌):
+> - Non parlo neanche inglese. (영어조차 못 한다.)
+> - Nemmeno io! (나도 아니야!)
 
 ---
 
@@ -476,27 +448,22 @@ Non è il mio libro.   → 내 책이 아니다.
 
 ## 11. 요약: 모든 그룹 비교
 
-```
-┌────────┬──────────┬──────────┬──────────┬──────────┐
-│ 인칭   │ -ARE     │ -ERE     │ -IRE     │ -IRE     │
-│        │ (parlare)│ (credere)│ (dormire)│ (capire) │
-├────────┼──────────┼──────────┼──────────┼──────────┤
-│ io     │ parl-o   │ cred-o   │ dorm-o   │ cap-isco │
-│ tu     │ parl-i   │ cred-i   │ dorm-i   │ cap-isci │
-│ lui    │ parl-a   │ cred-e   │ dorm-e   │ cap-isce │
-│ noi    │ parl-iamo│ cred-iamo│ dorm-iamo│ cap-iamo │
-│ voi    │ parl-ate │ cred-ete │ dorm-ite │ cap-ite  │
-│ loro   │ parl-ano │ cred-ono │ dorm-ono │ cap-iscono│
-├────────┴──────────┴──────────┴──────────┴──────────┤
-│ 패턴:                                               │
-│ • "io"는 항상 -o로 끝남 (또는 -isco)                  │
-│ • "noi"는 항상 -iamo로 끝남                          │
-│ • -ARE: a 주제 (a, i, a, iamo, ate, ano)            │
-│ • -ERE: e 주제 (o, i, e, iamo, ete, ono)            │
-│ • -IRE: -ERE와 동일하나 voi에서 다름 (-ite vs -ete)   │
-│ • -ISC-: io, tu, lui, loro에서만 -isc- 추가           │
-└─────────────────────────────────────────────────────┘
-```
+> | 인칭 | -ARE (parlare) | -ERE (credere) | -IRE (dormire) | -IRE (capire) |
+> |---|---|---|---|---|
+> | io | parl-o | cred-o | dorm-o | cap-isco |
+> | tu | parl-i | cred-i | dorm-i | cap-isci |
+> | lui | parl-a | cred-e | dorm-e | cap-isce |
+> | noi | parl-iamo | cred-iamo | dorm-iamo | cap-iamo |
+> | voi | parl-ate | cred-ete | dorm-ite | cap-ite |
+> | loro | parl-ano | cred-ono | dorm-ono | cap-iscono |
+>
+> 패턴:
+> - "io"는 항상 -o로 끝남 (또는 -isco)
+> - "noi"는 항상 -iamo로 끝남
+> - -ARE: a 주제 (a, i, a, iamo, ate, ano)
+> - -ERE: e 주제 (o, i, e, iamo, ete, ono)
+> - -IRE: -ERE와 동일하나 voi에서 다름 (-ite vs -ete)
+> - -ISC-: io, tu, lui, loro에서만 -isc- 추가
 
 ---
 
@@ -650,25 +617,21 @@ potere, volere, dovere, 또는 sapere의 올바른 형태를 넣으세요.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   어미           -ARE         -ERE         -IRE      -IRE(isc) │
-│   io             -o           -o           -o        -isco      │
-│   tu             -i           -i           -i        -isci      │
-│   lui/lei        -a           -e           -e        -isce      │
-│   noi            -iamo        -iamo        -iamo     -iamo      │
-│   voi            -ate         -ete         -ite      -ite       │
-│   loro           -ano         -ono         -ono      -iscono    │
-│                                                                 │
-│   조동사: potere (할 수 있다), volere (원하다), dovere (해야 하다) │
-│   알다: sapere (사실/방법) vs conoscere (사람/장소)               │
-│                                                                 │
-│   부정: non + 동사 (이중 부정 가능!)                               │
-│   의문: 올리는 억양, 또는 의문사 + 동사                             │
-│   PRO-DROP: 주어 대명사 자주 생략                                  │
-│   -CARE/-GARE: i 앞에 h 추가 (cerchi, paghi, giochiamo)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> | 어미 | -ARE | -ERE | -IRE | -IRE(isc) |
+> |---|---|---|---|---|
+> | io | -o | -o | -o | -isco |
+> | tu | -i | -i | -i | -isci |
+> | lui/lei | -a | -e | -e | -isce |
+> | noi | -iamo | -iamo | -iamo | -iamo |
+> | voi | -ate | -ete | -ite | -ite |
+> | loro | -ano | -ono | -ono | -iscono |
+>
+> - **조동사**: potere (할 수 있다), volere (원하다), dovere (해야 하다)
+> - **알다**: sapere (사실/방법) vs conoscere (사람/장소)
+> - **부정**: non + 동사 (이중 부정 가능!)
+> - **의문**: 올리는 억양, 또는 의문사 + 동사
+> - **PRO-DROP**: 주어 대명사 자주 생략
+> - **-CARE/-GARE**: i 앞에 h 추가 (cerchi, paghi, giochiamo)
 
 ---
 
