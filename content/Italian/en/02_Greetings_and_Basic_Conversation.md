@@ -23,22 +23,17 @@
 
 ## 1. Greetings by Time of Day
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Greetings by Time                             │
-│                                                                 │
-│   06:00 ─────── 13:00 ─────── 18:00 ─────── 06:00              │
-│   │ Buongiorno  │ Buon pomeriggio│ Buonasera     │             │
-│   │(Good morning)│(Good afternoon)│(Good evening) │             │
-│   │             │  (less common) │               │              │
-│                                                                 │
-│   Buonanotte = Good night (farewell only, when going to bed)    │
-│                                                                 │
-│   ※ Buongiorno is used broadly until early afternoon           │
-│   ※ Buonasera starts around 5-6 PM (varies by region)         │
-│   ※ Ciao! works any time (informal only)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Greetings by Time**
+>
+> 06:00 — 13:00: Buongiorno (Good morning)
+> 13:00 — 18:00: Buon pomeriggio (Good afternoon, less common)
+> 18:00 — 06:00: Buonasera (Good evening)
+>
+> Buonanotte = Good night (farewell only, when going to bed)
+>
+> - Buongiorno is used broadly until early afternoon
+> - Buonasera starts around 5-6 PM (varies by region)
+> - Ciao! works any time (informal only)
 
 | Time | Greeting | Usage |
 |------|----------|-------|
@@ -85,27 +80,18 @@
 
 ### 3.1 The Two "You"s
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   TU (informal "you")              LEI (formal "you")           │
-│   ├── Friends & peers               ├── Strangers                │
-│   ├── Family members                 ├── Elderly people           │
-│   ├── Children                       ├── Bosses / superiors       │
-│   ├── Same-age classmates            ├── Officials / police       │
-│   └── Informal situations            └── Formal situations        │
-│                                                                 │
-│   Verb: 2nd person singular          Verb: 3rd person singular   │
-│   Come stai? (How are you?)         Come sta? (How are you?)     │
-│   Hai tempo? (Do you have time?)    Ha tempo?                    │
-│                                                                 │
-│   ※ Lei is ALWAYS capitalized in writing to distinguish         │
-│     from lei (she). This is a uniquely Italian convention.      │
-│   ※ When in doubt, use LEI — switching to tu is called          │
-│     "dare del tu" and usually requires mutual agreement.        │
-│   ※ Voi (you plural) is used for groups, both formal and       │
-│     informal. Loro (formal plural "you") exists but is rare.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **TU (informal "you") vs LEI (formal "you")**
+>
+> TU: Friends & peers, Family members, Children, Same-age classmates, Informal situations
+> LEI: Strangers, Elderly people, Bosses / superiors, Officials / police, Formal situations
+>
+> - **Verb**: TU = 2nd person singular / LEI = 3rd person singular
+> - Come stai? (How are you? — tu) vs Come sta? (How are you? — Lei)
+> - Hai tempo? (Do you have time? — tu) vs Ha tempo? (Lei)
+>
+> - Lei is ALWAYS capitalized in writing to distinguish from lei (she). This is a uniquely Italian convention.
+> - When in doubt, use LEI — switching to tu is called "dare del tu" and usually requires mutual agreement.
+> - Voi (you plural) is used for groups, both formal and informal. Loro (formal plural "you") exists but is rare.
 
 ### 3.2 Quick Verb Form Comparison
 
@@ -259,27 +245,20 @@ A: Tutto bene!                → All good!
 
 ## 6. Farewells
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Formal Farewells              Informal Farewells              │
-│   ─────────────────             ──────────────────              │
-│   Arrivederci.                  Ciao!                           │
-│   ArrivederLa. (very formal)    Ci vediamo!                     │
-│   A presto.                     A dopo!                         │
-│   Buona giornata.               Stammi bene!                    │
-│   Buona serata.                 A presto!                       │
-│                                                                 │
-│   Time-Specific:                                                │
-│   A domani.       (See you tomorrow.)                           │
-│   A lunedì.       (See you Monday.)                             │
-│   Alla prossima.  (Until next time.)                            │
-│   Buonanotte.     (Good night. — farewell only, at bedtime)     │
-│                                                                 │
-│   ※ Ciao is used for BOTH hello and goodbye (informal)         │
-│   ※ Arrivederci is always safe for formal/neutral goodbyes    │
-│   ※ ArrivederLa is extra formal (Lei form)                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Farewells**
+>
+> Formal: Arrivederci, ArrivederLa (very formal), A presto, Buona giornata, Buona serata
+> Informal: Ciao!, Ci vediamo!, A dopo!, Stammi bene!, A presto!
+>
+> Time-Specific:
+> - **A domani**: See you tomorrow.
+> - **A lunedì**: See you Monday.
+> - **Alla prossima**: Until next time.
+> - **Buonanotte**: Good night (farewell only, at bedtime)
+>
+> - Ciao is used for BOTH hello and goodbye (informal)
+> - Arrivederci is always safe for formal/neutral goodbyes
+> - ArrivederLa is extra formal (Lei form)
 
 ---
 
@@ -306,27 +285,15 @@ A: Tutto bene!                → All good!
 
 ### 7.2 Apologizing
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Scusa (tu) / Scusi (Lei)                                      │
-│   → Sorry / Excuse me (getting attention, minor things)          │
-│                                                                 │
-│   Mi scusi (Lei) / Scusami (tu)                                 │
-│   → Excuse me (more polite/personal)                            │
-│                                                                 │
-│   Mi dispiace (molto).                                          │
-│   → I'm (very) sorry. (genuine apology, expressing sympathy)   │
-│                                                                 │
-│   Chiedo scusa.                                                 │
-│   → I apologize. (more formal)                                  │
-│                                                                 │
-│   Permesso.                                                     │
-│   → Excuse me. (passing through, entering a room/elevator)      │
-│                                                                 │
-│   È stata colpa mia. → It was my fault.                        │
-│   Non era mia intenzione. → It wasn't my intention.            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Apologizing**
+>
+> - **Scusa (tu) / Scusi (Lei)**: Sorry / Excuse me (getting attention, minor things)
+> - **Mi scusi (Lei) / Scusami (tu)**: Excuse me (more polite/personal)
+> - **Mi dispiace (molto)**: I'm (very) sorry (genuine apology, expressing sympathy)
+> - **Chiedo scusa**: I apologize (more formal)
+> - **Permesso**: Excuse me (passing through, entering a room/elevator)
+> - **È stata colpa mia**: It was my fault.
+> - **Non era mia intenzione**: It wasn't my intention.
 
 **Responses to apologies:**
 - **Non fa niente.** — It's nothing.
@@ -406,30 +373,26 @@ Leaving a message: Posso lasciare un messaggio? (Can I leave a message?)
 
 ### 9.1 Survival Phrases
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Essential Phrases for Day One                                  │
-│                                                                 │
-│   Per favore.                     → Please.                      │
-│   Grazie.                         → Thank you.                   │
-│   Prego.                          → You're welcome.              │
-│   Sì. / No.                      → Yes. / No.                   │
-│   Non capisco.                    → I don't understand.          │
-│   Può ripetere, per favore?      → Can you repeat, please?      │
-│   Come si dice ___ in italiano?   → How do you say ___ in Italian?│
-│   Che cosa significa ___?         → What does ___ mean?          │
-│   Più lentamente, per favore.    → More slowly, please.         │
-│   Non parlo (bene) l'italiano.   → I don't speak Italian (well).│
-│   Parlo un po' di italiano.      → I speak a little Italian.    │
-│   Parla inglese?                  → Do you speak English?        │
-│   Dov'è il bagno?                → Where is the bathroom?       │
-│   Quanto costa?                   → How much does it cost?       │
-│   Il conto, per favore.          → The check, please.           │
-│   Aiuto!                          → Help!                        │
-│   Mi sono perso/a.               → I'm lost. (m/f)              │
-│   Posso avere...?                → Can I have...?                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Essential Phrases for Day One**
+>
+> - **Per favore** → Please.
+> - **Grazie** → Thank you.
+> - **Prego** → You're welcome.
+> - **Sì / No** → Yes. / No.
+> - **Non capisco** → I don't understand.
+> - **Può ripetere, per favore?** → Can you repeat, please?
+> - **Come si dice ___ in italiano?** → How do you say ___ in Italian?
+> - **Che cosa significa ___?** → What does ___ mean?
+> - **Più lentamente, per favore** → More slowly, please.
+> - **Non parlo (bene) l'italiano** → I don't speak Italian (well).
+> - **Parlo un po' di italiano** → I speak a little Italian.
+> - **Parla inglese?** → Do you speak English?
+> - **Dov'è il bagno?** → Where is the bathroom?
+> - **Quanto costa?** → How much does it cost?
+> - **Il conto, per favore** → The check, please.
+> - **Aiuto!** → Help!
+> - **Mi sono perso/a** → I'm lost. (m/f)
+> - **Posso avere...?** → Can I have...?
 
 ### 9.2 At the Train Station
 
@@ -580,24 +543,14 @@ quanto costa, grazie, arrivederci
 
 ## Quick Reference Card
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   GREETINGS              FAREWELLS            POLITE            │
-│   Ciao!                  Ciao!                Per favore.       │
-│   Buongiorno!            Arrivederci!         Grazie.           │
-│   Buonasera!             Ci vediamo!          Prego.            │
-│   Salve!                 A presto!            Mi scusi.         │
-│   Come stai/sta?         A domani!            Mi dispiace.      │
-│   Come va?               Buonanotte!          Permesso.         │
-│                                                                 │
-│   INTRODUCTION           SURVIVAL                               │
-│   Mi chiamo...           Non capisco.                           │
-│   Sono di...             Può ripetere?                          │
-│   Ho ... anni.           Più lentamente, per favore.            │
-│   Piacere!               Dov'è...?                              │
-│   Piacere mio.           Quanto costa?                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference Card**
+>
+> GREETINGS: Ciao!, Buongiorno!, Buonasera!, Salve!, Come stai/sta?, Come va?
+> FAREWELLS: Ciao!, Arrivederci!, Ci vediamo!, A presto!, A domani!, Buonanotte!
+> POLITE: Per favore, Grazie, Prego, Mi scusi, Mi dispiace, Permesso
+>
+> INTRODUCTION: Mi chiamo..., Sono di..., Ho ... anni, Piacere!, Piacere mio
+> SURVIVAL: Non capisco, Può ripetere?, Più lentamente per favore, Dov'è...?, Quanto costa?
 
 ---
 
