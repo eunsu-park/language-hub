@@ -18,7 +18,8 @@ language-hub/
 │   │   ├── cefr_levels.yaml           # CEFR A1-C2 level definitions
 │   │   ├── jlpt_levels.yaml           # JLPT N5-N1 level definitions
 │   │   ├── topik_levels.yaml          # TOPIK I-1→II-6 level definitions
-│   │   └── proficiency_frameworks.yaml  # CEFR/JLPT/TOPIK/HSK mapping
+│   │   ├── hanja_level_levels.yaml    # 한자능력등급 L5-L1 level definitions
+│   │   └── proficiency_frameworks.yaml  # CEFR/JLPT/TOPIK/HSK/hanja_level mapping
 │   │
 │   ├── Spanish/                       # Spanish course (A1→C1 CEFR)
 │   │   ├── course_metadata.yaml       # Language config, CEFR stage definitions
@@ -97,6 +98,18 @@ language-hub/
 │   │       ├── grammar_rules.yaml     # 7 rule types
 │   │       ├── tense_rules.yaml       # 16 tense rules
 │   │       ├── declensions.yaml       # 7 declension paradigms
+│   │       └── _index.yaml            # Grammar index metadata
+│   │
+│   ├── Classical_Chinese/             # Classical Chinese course (L5→L1 한자능력등급)
+│   │   ├── course_metadata.yaml       # Language config, hanja_level stage definitions
+│   │   ├── en/                        # Lessons in English (26 files)
+│   │   ├── ko/                        # Lessons in Korean (26 files)
+│   │   ├── vocabulary/                # Structured vocabulary YAML (56 files, 913+ words)
+│   │   │   ├── 01_*.yaml ... 25_*.yaml  # Lesson vocabulary (25 files)
+│   │   │   └── sup_*.yaml               # Supplementary packs by level (30 files)
+│   │   └── grammar/                   # Structured grammar YAML
+│   │       ├── grammar_rules.yaml     # 7 rule types (function words, patterns, rhetoric)
+│   │       ├── tense_rules.yaml       # 10 sentence structure types
 │   │       └── _index.yaml            # Grammar index metadata
 │   │
 │   └── Korean/                        # Korean course (TOPIK I-1→II-5)
@@ -245,6 +258,24 @@ language-hub/
 - 69 vocabulary YAML files (5,294 words)
 - 20 verbs × 7 forms (conjugation tables)
 - 7 grammar rule types, 14 tense rules
+
+### Classical Chinese (한문)
+
+25-lesson progressive course from L5 to L1 (한자능력검정시험). A classical language course focused on reading Literary Chinese (文言文) with Korean Hanja reading methods.
+
+| Stage | Level | Lessons | Focus |
+|-------|-------|---------|-------|
+| Foundations / 기초 | L5 | 01-05 | Hanja origins, radicals, basic characters, compounds, simple sentences |
+| Elementary / 초급 | L4 | 06-10 | Function words (虛詞), sentence patterns, negation, questions, Korean reading |
+| Intermediate / 중급 | L3 | 11-15 | Analects, Mencius, historical texts, Tang poetry, rhetorical devices |
+| Advanced / 고급 | L2 | 16-20 | Advanced syntax, Buddhist/Daoist texts, Korean hanmun, idioms, poetry |
+| Mastery / 전문 | L1 | 21-25 | Philosophy, legal texts, comparative reading, composition, exam prep |
+
+**Content stats:**
+- 26 lesson files per language (en + ko)
+- 56 vocabulary YAML files (913+ words)
+- 7 grammar rule types, 10 sentence structure types
+- No conjugation (Classical Chinese is analytic/isolating)
 
 ## Companion Viewer / 뷰어
 
