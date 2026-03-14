@@ -29,19 +29,13 @@
 
 Connectors (also called linking words, transition words, or discourse markers) are words and phrases that show the **logical relationship** between ideas.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Without connectors (choppy):                                 │
-│   "I studied hard. I failed the exam. I was disappointed."     │
-│                                                                 │
-│   With connectors (smooth):                                    │
-│   "Although I studied hard, I failed the exam.                 │
-│    Consequently, I was very disappointed."                     │
-│                                                                 │
-│   Connectors create COHESION — they make your writing and      │
-│   speaking flow logically and smoothly.                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Without connectors (choppy):
+> "I studied hard. I failed the exam. I was disappointed."
+> With connectors (smooth):
+> "Although I studied hard, I failed the exam.
+> Consequently, I was very disappointed."
+> Connectors create COHESION — they make your writing and
+> speaking flow logically and smoothly.
 
 ### 1.2 Types of Connectors
 
@@ -78,27 +72,25 @@ Prepositions (before nouns/gerunds):
 
 ### 2.1 Adding Similar Ideas
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ Connector            │ Register  │ Example                      │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ and                  │ neutral   │ "She sings and dances."      │
-│ also                 │ neutral   │ "He also speaks French."     │
-│ too                  │ informal  │ "I like it too."             │
-│ as well              │ informal  │ "She's coming as well."      │
-│ in addition          │ formal    │ "In addition, the study      │
-│                      │           │  found that..."              │
-│ moreover             │ formal    │ "Moreover, the data          │
-│                      │           │  suggests..."                │
-│ furthermore          │ formal    │ "Furthermore, we must        │
-│                      │           │  consider..."                │
-│ besides              │ neutral   │ "Besides, it's too expensive."│
-│ what's more          │ informal  │ "What's more, she's smart."  │
-│ on top of that       │ informal  │ "On top of that, he lied."   │
-│ not only...but also  │ neutral   │ "Not only is she smart,      │
-│                      │           │  but she's also kind."       │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | Connector | Register | Example |
+> |---|---|---|
+> | and | neutral | "She sings and dances." |
+> | also | neutral | "He also speaks French." |
+> | too | informal | "I like it too." |
+> | as well | informal | "She's coming as well." |
+> | in addition | formal | "In addition, the study |
+> | found that..." |  |  |
+> | moreover | formal | "Moreover, the data |
+> | suggests..." |  |  |
+> | furthermore | formal | "Furthermore, we must |
+> | consider..." |  |  |
+> | besides | neutral | "Besides, it's too expensive." |
+> | what's more | informal | "What's more, she's smart." |
+> | on top of that | informal | "On top of that, he lied." |
+> | not only...but also | neutral | "Not only is she smart, |
+> | but she's also kind." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 2.2 Punctuation with Adverbial Connectors
 
@@ -126,58 +118,49 @@ with just a comma.
 
 ### 3.1 Showing Contrast
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ Connector            │ Register  │ Example                      │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ but                  │ neutral   │ "It's old but reliable."     │
-│ yet                  │ neutral   │ "She's young, yet wise."     │
-│ however              │ formal    │ "However, the results        │
-│                      │           │  were inconclusive."         │
-│ nevertheless         │ formal    │ "Nevertheless, we must       │
-│                      │           │  proceed."                   │
-│ nonetheless          │ formal    │ "Nonetheless, the study      │
-│                      │           │  has limitations."           │
-│ on the other hand    │ neutral   │ "On the other hand,          │
-│                      │           │  some disagree."             │
-│ in contrast          │ formal    │ "In contrast, Group B        │
-│                      │           │  showed no improvement."     │
-│ on the contrary      │ formal    │ "On the contrary, the        │
-│                      │           │  results were positive."     │
-│ while / whereas      │ neutral   │ "While he prefers tea,       │
-│                      │           │  she prefers coffee."        │
-│ instead              │ neutral   │ "Let's walk instead."        │
-│ still                │ neutral   │ "It was hard. Still, I       │
-│                      │           │  managed."                   │
-│ even so              │ neutral   │ "It rained. Even so, we      │
-│                      │           │  went out."                  │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | Connector | Register | Example |
+> |---|---|---|
+> | but | neutral | "It's old but reliable." |
+> | yet | neutral | "She's young, yet wise." |
+> | however | formal | "However, the results |
+> | were inconclusive." |  |  |
+> | nevertheless | formal | "Nevertheless, we must |
+> | proceed." |  |  |
+> | nonetheless | formal | "Nonetheless, the study |
+> | has limitations." |  |  |
+> | on the other hand | neutral | "On the other hand, |
+> | some disagree." |  |  |
+> | in contrast | formal | "In contrast, Group B |
+> | showed no improvement." |  |  |
+> | on the contrary | formal | "On the contrary, the |
+> | results were positive." |  |  |
+> | while / whereas | neutral | "While he prefers tea, |
+> | she prefers coffee." |  |  |
+> | instead | neutral | "Let's walk instead." |
+> | still | neutral | "It was hard. Still, I |
+> | managed." |  |  |
+> | even so | neutral | "It rained. Even so, we |
+> | went out." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 3.2 Concession (Despite / Although)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   CONCESSION: acknowledging a point but stating the opposite   │
-│                                                                 │
-│   Conjunctions (+ clause):                                     │
-│   although / even though / though + subject + verb             │
-│   "Although it was raining, we went for a walk."               │
-│   "Even though she was tired, she kept working."               │
-│   "I enjoyed it, though it was long." (informal, end position) │
-│                                                                 │
-│   Prepositions (+ noun/gerund):                                │
-│   despite / in spite of + noun/-ing                            │
-│   "Despite the rain, we went for a walk."                      │
-│   "In spite of being tired, she kept working."                 │
-│                                                                 │
-│   Common Error:                                                │
-│   ✗ "Despite she was tired..." (NOT followed by a clause)      │
-│   ✓ "Despite being tired..." (followed by noun/gerund)         │
-│   ✓ "Despite the fact that she was tired..." (workaround)      │
-│   ✓ "Although she was tired..." (use conjunction for clause)   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> CONCESSION: acknowledging a point but stating the opposite
+> Conjunctions (+ clause):
+> although / even though / though + subject + verb
+> "Although it was raining, we went for a walk."
+> "Even though she was tired, she kept working."
+> "I enjoyed it, though it was long." (informal, end position)
+> Prepositions (+ noun/gerund):
+> despite / in spite of + noun/-ing
+> "Despite the rain, we went for a walk."
+> "In spite of being tired, she kept working."
+> Common Error:
+> ✗ "Despite she was tired..." (NOT followed by a clause)
+> ✓ "Despite being tired..." (followed by noun/gerund)
+> ✓ "Despite the fact that she was tired..." (workaround)
+> ✓ "Although she was tired..." (use conjunction for clause)
 
 ---
 
@@ -185,32 +168,30 @@ with just a comma.
 
 ### 4.1 Showing Cause
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ Connector            │ Register  │ Example                      │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ because              │ neutral   │ "I stayed home because it    │
-│                      │           │  was raining."               │
-│ since                │ neutral/  │ "Since you're here, let's    │
-│                      │ formal    │  start."                     │
-│ as                   │ neutral/  │ "As it was late, we left."   │
-│                      │ formal    │                              │
-│ because of           │ neutral   │ "Because of the traffic,     │
-│                      │           │  I was late."                │
-│ due to               │ formal    │ "Due to the pandemic,        │
-│                      │           │  classes moved online."      │
-│ owing to             │ formal    │ "Owing to the delay, we      │
-│                      │           │  missed our flight."         │
-│ on account of        │ formal    │ "On account of his age, he   │
-│                      │           │  retired."                   │
-│ thanks to            │ neutral   │ "Thanks to her help, I       │
-│                      │           │  passed."                    │
-│ for (conjunction)    │ formal/   │ "We must act quickly, for    │
-│                      │ literary  │  time is running out."       │
-│ seeing that /        │ informal  │ "Seeing that everyone is     │
-│ seeing as            │           │  here, let's begin."         │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | Connector | Register | Example |
+> |---|---|---|
+> | because | neutral | "I stayed home because it |
+> | was raining." |  |  |
+> | since | neutral/ | "Since you're here, let's |
+> | formal | start." |  |
+> | as | neutral/ | "As it was late, we left." |
+> | formal |  |  |
+> | because of | neutral | "Because of the traffic, |
+> | I was late." |  |  |
+> | due to | formal | "Due to the pandemic, |
+> | classes moved online." |  |  |
+> | owing to | formal | "Owing to the delay, we |
+> | missed our flight." |  |  |
+> | on account of | formal | "On account of his age, he |
+> | retired." |  |  |
+> | thanks to | neutral | "Thanks to her help, I |
+> | passed." |  |  |
+> | for (conjunction) | formal/ | "We must act quickly, for |
+> | literary | time is running out." |  |
+> | seeing that / | informal | "Seeing that everyone is |
+> | seeing as | here, let's begin." |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 4.2 "Because" vs "Because of"
 
@@ -234,33 +215,31 @@ Same distinction applies to:
 
 ### 5.1 Showing Result
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ Connector            │ Register  │ Example                      │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ so                   │ neutral   │ "It rained, so we stayed     │
-│                      │           │  inside."                    │
-│ therefore            │ formal    │ "Therefore, we can conclude  │
-│                      │           │  that..."                    │
-│ consequently         │ formal    │ "Consequently, the project   │
-│                      │           │  was delayed."               │
-│ as a result          │ formal    │ "As a result, sales dropped  │
-│                      │           │  by 20%."                    │
-│ thus                 │ formal    │ "Thus, the hypothesis was    │
-│                      │           │  confirmed."                 │
-│ hence                │ formal    │ "Hence, further research     │
-│                      │           │  is needed."                 │
-│ accordingly          │ formal    │ "Accordingly, the budget     │
-│                      │           │  was increased."             │
-│ for this reason      │ neutral   │ "For this reason, I declined │
-│                      │           │  the offer."                 │
-│ that's why           │ informal  │ "That's why I was late."     │
-│ so...that            │ neutral   │ "It was so cold that the     │
-│                      │           │  pipes froze."               │
-│ such...that          │ neutral   │ "It was such a good movie    │
-│                      │           │  that I watched it twice."   │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | Connector | Register | Example |
+> |---|---|---|
+> | so | neutral | "It rained, so we stayed |
+> | inside." |  |  |
+> | therefore | formal | "Therefore, we can conclude |
+> | that..." |  |  |
+> | consequently | formal | "Consequently, the project |
+> | was delayed." |  |  |
+> | as a result | formal | "As a result, sales dropped |
+> | by 20%." |  |  |
+> | thus | formal | "Thus, the hypothesis was |
+> | confirmed." |  |  |
+> | hence | formal | "Hence, further research |
+> | is needed." |  |  |
+> | accordingly | formal | "Accordingly, the budget |
+> | was increased." |  |  |
+> | for this reason | neutral | "For this reason, I declined |
+> | the offer." |  |  |
+> | that's why | informal | "That's why I was late." |
+> | so...that | neutral | "It was so cold that the |
+> | pipes froze." |  |  |
+> | such...that | neutral | "It was such a good movie |
+> | that I watched it twice." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ---
 
@@ -341,20 +320,15 @@ for the purpose of    "For the purpose of this study, we
 
 ### 8.1 What Is Register?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Register = the level of formality in language                │
-│                                                                 │
-│   FORMAL:   Academic papers, business emails, official docs    │
-│   NEUTRAL:  News articles, general writing, workplace          │
-│   INFORMAL: Casual conversation, texting, social media         │
-│                                                                 │
-│   Choosing the wrong register can make you sound:              │
-│   • Too stiff (formal language in casual chat)                 │
-│   • Too casual (informal language in a business email)         │
-│   • Inappropriate (slang in an academic paper)                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Register = the level of formality in language**
+>
+> FORMAL:   Academic papers, business emails, official docs
+> NEUTRAL:  News articles, general writing, workplace
+> INFORMAL: Casual conversation, texting, social media
+> Choosing the wrong register can make you sound:
+> • Too stiff (formal language in casual chat)
+> • Too casual (informal language in a business email)
+> • Inappropriate (slang in an academic paper)
 
 ### 8.2 Formal vs Informal Vocabulary
 
@@ -432,22 +406,16 @@ Rule: Avoid contractions in formal writing (academic papers,
 
 Hedging means using cautious, tentative language to avoid making absolute claims. It is essential in academic and professional communication.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Without hedging (too strong):                                │
-│   "Social media causes depression."                            │
-│                                                                 │
-│   With hedging (appropriately cautious):                       │
-│   "Social media may contribute to depression."                 │
-│   "Research suggests that social media could be linked to      │
-│    depression."                                                │
-│   "It appears that excessive social media use is associated    │
-│    with higher rates of depression."                           │
-│                                                                 │
-│   Korean academic writing tends to be more direct.             │
-│   English academic writing expects hedging!                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Without hedging (too strong):
+> "Social media causes depression."
+> With hedging (appropriately cautious):
+> "Social media may contribute to depression."
+> "Research suggests that social media could be linked to
+> depression."
+> "It appears that excessive social media use is associated
+> with higher rates of depression."
+> Korean academic writing tends to be more direct.
+> English academic writing expects hedging!
 
 ### 9.2 Hedging Devices
 
@@ -557,31 +525,23 @@ Disagreeing with a source:
 
 ### 11.1 Common Issues
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. Overusing "and" and "but"                                 │
-│      Korean speakers tend to connect everything with 그리고/하지만 │
-│      English has many more varied connectors!                  │
-│                                                                 │
-│   2. Formal register confusion                                │
-│      Korean has clear formal levels (존댓말/반말)                │
-│      English formality is more about word choice than grammar  │
-│                                                                 │
-│   3. Missing hedging in academic writing                       │
-│      Korean academic style can be more direct                  │
-│      English academic writing requires hedging                 │
-│                                                                 │
-│   4. Comma splices                                             │
-│      ✗ "I was tired, however I kept working."                  │
-│      ✓ "I was tired; however, I kept working."                 │
-│      ✓ "I was tired. However, I kept working."                 │
-│                                                                 │
-│   5. Confusing despite/although                                │
-│      ✗ "Despite I was tired, I kept working."                  │
-│      ✓ "Despite being tired, I kept working."                  │
-│      ✓ "Although I was tired, I kept working."                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. Overusing "and" and "but"
+> Korean speakers tend to connect everything with 그리고/하지만
+> English has many more varied connectors!
+> 2. Formal register confusion
+> Korean has clear formal levels (존댓말/반말)
+> English formality is more about word choice than grammar
+> 3. Missing hedging in academic writing
+> Korean academic style can be more direct
+> English academic writing requires hedging
+> 4. Comma splices
+> ✗ "I was tired, however I kept working."
+> ✓ "I was tired; however, I kept working."
+> ✓ "I was tired. However, I kept working."
+> 5. Confusing despite/although
+> ✗ "Despite I was tired, I kept working."
+> ✓ "Despite being tired, I kept working."
+> ✓ "Although I was tired, I kept working."
 
 ### 11.2 Korean Connector Equivalents
 
@@ -736,32 +696,25 @@ to maintain its growth.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Connectors & Register Quick Guide                  │
-│                                                                 │
-│   ADDITION:    and, also, moreover, furthermore, in addition   │
-│   CONTRAST:    but, however, nevertheless, although, despite   │
-│   CAUSE:       because, since, due to, owing to               │
-│   RESULT:      so, therefore, consequently, as a result       │
-│   TIME:        when, while, before, after, then, finally      │
-│                                                                 │
-│   GRAMMAR RULES:                                               │
-│   • Conjunctions join clauses: because, although, while        │
-│   • Adverbs modify sentences: however, therefore, moreover     │
-│   • Prepositions + noun/gerund: despite, because of, due to   │
-│   • No comma splices with adverbs!                             │
-│     ✗ "I'm tired, however I'll stay."                          │
-│     ✓ "I'm tired; however, I'll stay."                         │
-│                                                                 │
-│   REGISTER:                                                    │
-│   Formal: moreover, nevertheless, consequently, furthermore    │
-│   Informal: also, but, so, and, plus, anyway                  │
-│                                                                 │
-│   HEDGING: may, might, could, seems, suggests, appears,       │
-│   tends to, it is possible that, to some extent               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Connectors & Register Quick Guide**
+>
+> ADDITION:    and, also, moreover, furthermore, in addition
+> CONTRAST:    but, however, nevertheless, although, despite
+> CAUSE:       because, since, due to, owing to
+> RESULT:      so, therefore, consequently, as a result
+> TIME:        when, while, before, after, then, finally
+> GRAMMAR RULES:
+> • Conjunctions join clauses: because, although, while
+> • Adverbs modify sentences: however, therefore, moreover
+> • Prepositions + noun/gerund: despite, because of, due to
+> • No comma splices with adverbs!
+> ✗ "I'm tired, however I'll stay."
+> ✓ "I'm tired; however, I'll stay."
+> REGISTER:
+> Formal: moreover, nevertheless, consequently, furthermore
+> Informal: also, but, so, and, plus, anyway
+> HEDGING: may, might, could, seems, suggests, appears,
+> tends to, it is possible that, to some extent
 
 ---
 
