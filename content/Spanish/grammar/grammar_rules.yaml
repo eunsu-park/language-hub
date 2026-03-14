@@ -700,27 +700,13 @@ rules:
         형태들은 활용표에서 시각적으로 부츠/신발 모양을 형성.
     boot_pattern:
       en: |
-        ┌─────────┬─────────┐
-        │ yo      │nosotros │
-        │ CHANGES │ no change│
-        ├─────────┼─────────┤
-        │ tú      │vosotros │
-        │ CHANGES │ no change│
-        ├─────────┼─────────┤
-        │ él      │ ellos   │
-        │ CHANGES │ CHANGES │
-        └─────────┴─────────┘
+        yo: CHANGES      | nosotros: no change
+        tu: CHANGES      | vosotros: no change
+        el: CHANGES      | ellos: CHANGES
       ko: |
-        ┌──────────┬──────────┐
-        │ yo       │nosotros  │
-        │ 변화     │ 변화 없음│
-        ├──────────┼──────────┤
-        │ tú       │vosotros  │
-        │ 변화     │ 변화 없음│
-        ├──────────┼──────────┤
-        │ él       │ ellos    │
-        │ 변화     │ 변화     │
-        └──────────┴──────────┘
+        yo: 변화         | nosotros: 변화 없음
+        tu: 변화         | vosotros: 변화 없음
+        el: 변화         | ellos: 변화
     types:
       - change: "e→ie"
         description:
