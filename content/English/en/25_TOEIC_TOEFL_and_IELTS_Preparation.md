@@ -26,49 +26,49 @@
 
 ### 1.1 Which Exam Should I Take?
 
-```
-┌────────────┬───────────────┬───────────────┬───────────────────┐
-│            │ TOEIC         │ TOEFL iBT     │ IELTS             │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Purpose    │ Business /    │ Academic      │ Academic or       │
-│            │ Workplace     │ (university)  │ General (immigr.) │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Popular in │ Korea, Japan, │ USA, Canada   │ UK, Australia,    │
-│            │ Europe        │               │ NZ, Europe, Canada│
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Sections   │ Listening +   │ Reading +     │ Listening +       │
-│            │ Reading       │ Listening +   │ Reading +         │
-│            │ (+ Speaking & │ Speaking +    │ Writing +         │
-│            │ Writing       │ Writing       │ Speaking          │
-│            │ optional)     │               │                   │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Duration   │ ~2 hours (L&R)│ ~3 hours      │ ~2 hrs 45 min     │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Score range│ 10-990 (L&R)  │ 0-120         │ 0-9 (band score)  │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Format     │ Paper or      │ Internet-based│ Paper or computer │
-│            │ computer      │ (computer)    │                   │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ Valid for  │ 2 years       │ 2 years       │ 2 years           │
-├────────────┼───────────────┼───────────────┼───────────────────┤
-│ English    │ American      │ American      │ British, American,│
-│ variety    │               │ (mainly)      │ Australian mix    │
-└────────────┴───────────────┴───────────────┴───────────────────┘
-```
+> **│ TOEIC         │ TOEFL iBT     │ IELTS**
+>
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> | Purpose | Business / | Academic | Academic or |
+> |---|---|---|---|
+> | Workplace | (university) | General (immigr.) |  |
+> | Popular in | Korea, Japan, | USA, Canada | UK, Australia, |
+> | Europe | NZ, Europe, Canada |  |  |
+> | Sections | Listening + | Reading + | Listening + |
+> | Reading | Listening + | Reading + |  |
+> | (+ Speaking & | Speaking + | Writing + |  |
+> | Writing | Writing | Speaking |  |
+> | optional) |  |  |  |
+> | Duration | ~2 hours (L&R) | ~3 hours | ~2 hrs 45 min |
+> | Score range | 10-990 (L&R) | 0-120 | 0-9 (band score) |
+> | Format | Paper or | Internet-based | Paper or computer |
+> | computer | (computer) |  |  |
+> | Valid for | 2 years | 2 years | 2 years |
+> | English | American | American | British, American, |
+> | variety | (mainly) | Australian mix |  |
+>
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
+> ├────────────┼───────────────┼───────────────┼───────────────────┤
 
 ### 1.2 Score Comparison (Approximate)
 
+> | CEFR | TOEIC L&R | TOEFL iBT | IELTS |
+> |---|---|---|---|
+> | C2 | — | — | 8.5-9.0 |
+> | C1 | 945-990 | 95-120 | 7.0-8.0 |
+> | B2 | 785-944 | 72-94 | 5.5-6.5 |
+> | B1 | 550-784 | 42-71 | 4.0-5.0 |
+> | A2 | 225-549 | — | 3.0-3.5 |
+> | A1 | 120-224 | — | 2.0-2.5 |
+>
+> ├──────────┼──────────┼──────────┼──────────────────┤
+
 ```
-┌──────────┬──────────┬──────────┬──────────────────┐
-│ CEFR     │ TOEIC L&R│ TOEFL iBT│ IELTS            │
-├──────────┼──────────┼──────────┼──────────────────┤
-│ C2       │ —        │ —        │ 8.5-9.0          │
-│ C1       │ 945-990  │ 95-120   │ 7.0-8.0          │
-│ B2       │ 785-944  │ 72-94    │ 5.5-6.5          │
-│ B1       │ 550-784  │ 42-71    │ 4.0-5.0          │
-│ A2       │ 225-549  │ —        │ 3.0-3.5          │
-│ A1       │ 120-224  │ —        │ 2.0-2.5          │
-└──────────┴──────────┴──────────┴──────────────────┘
 
 Common requirements:
   Korean companies (Samsung, LG, etc.): TOEIC 700-900
@@ -261,30 +261,29 @@ Common text types:
 
 ### 5.1 Four Sections
 
+> READING (35 minutes)
+> • 2 passages (~700 words each)
+> • 10 questions per passage = 20 questions total
+> • Academic topics: science, history, social science, arts
+> ├────────────────────────────────────────────────────────────────┤
+> LISTENING (36 minutes)
+> • 3 lectures (6 questions each) = 18 questions
+> • 2 conversations (5 questions each) = 10 questions
+> • Total: 28 questions
+> • Note-taking allowed
+> ├────────────────────────────────────────────────────────────────┤
+> SPEAKING (16 minutes)
+> • 4 tasks
+> • Task 1: Independent (give opinion) — 45 seconds
+> • Tasks 2-4: Integrated (read/listen + speak) — 60 sec each
+> • Scored 0-30
+> ├────────────────────────────────────────────────────────────────┤
+> WRITING (29 minutes)
+> • Task 1: Integrated (read + listen + write) — 20 minutes
+> • Task 2: Academic Discussion — 10 minutes
+> • Scored 0-30
+
 ```
-┌────────────────────────────────────────────────────────────────┐
-│ READING (35 minutes)                                          │
-│ • 2 passages (~700 words each)                                │
-│ • 10 questions per passage = 20 questions total               │
-│ • Academic topics: science, history, social science, arts     │
-├────────────────────────────────────────────────────────────────┤
-│ LISTENING (36 minutes)                                        │
-│ • 3 lectures (6 questions each) = 18 questions                │
-│ • 2 conversations (5 questions each) = 10 questions           │
-│ • Total: 28 questions                                         │
-│ • Note-taking allowed                                         │
-├────────────────────────────────────────────────────────────────┤
-│ SPEAKING (16 minutes)                                         │
-│ • 4 tasks                                                     │
-│ • Task 1: Independent (give opinion) — 45 seconds             │
-│ • Tasks 2-4: Integrated (read/listen + speak) — 60 sec each  │
-│ • Scored 0-30                                                 │
-├────────────────────────────────────────────────────────────────┤
-│ WRITING (29 minutes)                                          │
-│ • Task 1: Integrated (read + listen + write) — 20 minutes     │
-│ • Task 2: Academic Discussion — 10 minutes                    │
-│ • Scored 0-30                                                 │
-└────────────────────────────────────────────────────────────────┘
 
 Total score: 0-120 (30 per section)
 Total time: ~2 hours
@@ -389,31 +388,30 @@ Reading and Writing sections differ.
 
 ### 7.2 Four Sections
 
+> LISTENING (30 minutes + 10 min transfer time)
+> • 4 sections, 40 questions total
+> • Section 1: Social conversation (2 speakers)
+> • Section 2: Social monologue (1 speaker)
+> • Section 3: Academic conversation (2-4 speakers)
+> • Section 4: Academic lecture (1 speaker)
+> • Each recording played ONCE only
+> ├────────────────────────────────────────────────────────────────┤
+> READING (60 minutes)
+> • 3 passages, 40 questions total
+> • Academic: journals, magazines, books
+> • General: everyday texts, work-related, general interest
+> ├────────────────────────────────────────────────────────────────┤
+> WRITING (60 minutes)
+> • Task 1 (20 min): Academic = describe chart/graph/diagram
+> General = write a letter
+> • Task 2 (40 min): Both = essay (250+ words)
+> ├────────────────────────────────────────────────────────────────┤
+> SPEAKING (11-14 minutes, face-to-face with examiner)
+> • Part 1: Introduction + general questions (4-5 min)
+> • Part 2: Long turn — speak for 2 minutes on a topic (3-4 min)
+> • Part 3: Discussion — abstract/complex questions (4-5 min)
+
 ```
-┌────────────────────────────────────────────────────────────────┐
-│ LISTENING (30 minutes + 10 min transfer time)                 │
-│ • 4 sections, 40 questions total                              │
-│ • Section 1: Social conversation (2 speakers)                 │
-│ • Section 2: Social monologue (1 speaker)                     │
-│ • Section 3: Academic conversation (2-4 speakers)             │
-│ • Section 4: Academic lecture (1 speaker)                     │
-│ • Each recording played ONCE only                             │
-├────────────────────────────────────────────────────────────────┤
-│ READING (60 minutes)                                          │
-│ • 3 passages, 40 questions total                              │
-│ • Academic: journals, magazines, books                        │
-│ • General: everyday texts, work-related, general interest     │
-├────────────────────────────────────────────────────────────────┤
-│ WRITING (60 minutes)                                          │
-│ • Task 1 (20 min): Academic = describe chart/graph/diagram    │
-│                     General = write a letter                   │
-│ • Task 2 (40 min): Both = essay (250+ words)                  │
-├────────────────────────────────────────────────────────────────┤
-│ SPEAKING (11-14 minutes, face-to-face with examiner)          │
-│ • Part 1: Introduction + general questions (4-5 min)          │
-│ • Part 2: Long turn — speak for 2 minutes on a topic (3-4 min)│
-│ • Part 3: Discussion — abstract/complex questions (4-5 min)   │
-└────────────────────────────────────────────────────────────────┘
 
 Band score: 0-9 (each section + overall band)
 ```
@@ -578,24 +576,19 @@ projected    예상된        substantial   상당한
 
 ### 10.1 General Study Plan
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   12-WEEK STUDY PLAN                                           │
-│                                                                 │
-│   Weeks 1-2:  Diagnostic test + identify weaknesses            │
-│   Weeks 3-4:  Focus on weakest section (intensive practice)    │
-│   Weeks 5-6:  Vocabulary building + grammar review             │
-│   Weeks 7-8:  Full practice tests + timed sections             │
-│   Weeks 9-10: Focus on test-taking strategies                  │
-│   Weeks 11-12: Full mock exams under test conditions           │
-│                                                                 │
-│   Daily routine (1.5-2 hours):                                 │
-│   • 30 min: Vocabulary study (flashcards, apps)                │
-│   • 30 min: Section practice (rotate daily)                    │
-│   • 30 min: Review mistakes and learn from them                │
-│   • Weekend: Full-length practice test (every 2 weeks)         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **12-WEEK STUDY PLAN**
+>
+> Weeks 1-2:  Diagnostic test + identify weaknesses
+> Weeks 3-4:  Focus on weakest section (intensive practice)
+> Weeks 5-6:  Vocabulary building + grammar review
+> Weeks 7-8:  Full practice tests + timed sections
+> Weeks 9-10: Focus on test-taking strategies
+> Weeks 11-12: Full mock exams under test conditions
+> Daily routine (1.5-2 hours):
+> • 30 min: Vocabulary study (flashcards, apps)
+> • 30 min: Section practice (rotate daily)
+> • 30 min: Review mistakes and learn from them
+> • Weekend: Full-length practice test (every 2 weeks)
 
 ### 10.2 Universal Tips
 
@@ -787,34 +780,27 @@ Choose the best word to complete each sentence.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Exam Preparation Quick Guide                        │
-│                                                                 │
-│   TOEIC (Business, Korea): Listening 495 + Reading 495 = 990  │
-│   • Part 5: Grammar/vocab — identify what's tested            │
-│   • Part 7: Read questions first, then scan                   │
-│   • Time trap: Part 7 is the longest — manage time!           │
-│                                                                 │
-│   TOEFL iBT (Academic, US): 4 sections, 120 points total      │
-│   • Take notes during listening                                │
-│   • Speaking: use templates, practice with timer               │
-│   • Writing: follow the integrated task format                 │
-│                                                                 │
-│   IELTS (Academic/General, UK/AU): Band score 0-9             │
-│   • True/False/Not Given: know the difference                  │
-│   • Writing Task 2: clear thesis, developed paragraphs         │
-│   • Speaking: extend answers, don't give one-word replies      │
-│                                                                 │
-│   UNIVERSAL TIPS:                                              │
-│   1. Diagnostic test first                                     │
-│   2. Focus on weakest areas                                    │
-│   3. Practice under timed conditions                           │
-│   4. Review mistakes — understand WHY                          │
-│   5. Build vocabulary daily                                    │
-│   6. Take full practice tests regularly                        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Exam Preparation Quick Guide**
+>
+> TOEIC (Business, Korea): Listening 495 + Reading 495 = 990
+> • Part 5: Grammar/vocab — identify what's tested
+> • Part 7: Read questions first, then scan
+> • Time trap: Part 7 is the longest — manage time!
+> TOEFL iBT (Academic, US): 4 sections, 120 points total
+> • Take notes during listening
+> • Speaking: use templates, practice with timer
+> • Writing: follow the integrated task format
+> IELTS (Academic/General, UK/AU): Band score 0-9
+> • True/False/Not Given: know the difference
+> • Writing Task 2: clear thesis, developed paragraphs
+> • Speaking: extend answers, don't give one-word replies
+> UNIVERSAL TIPS:
+> 1. Diagnostic test first
+> 2. Focus on weakest areas
+> 3. Practice under timed conditions
+> 4. Review mistakes — understand WHY
+> 5. Build vocabulary daily
+> 6. Take full practice tests regularly
 
 ---
 
