@@ -29,30 +29,29 @@
 
 ## 1. 이탈리아어 동사 체계 개요
 
-```
-+----------------------------------------------------------+
-|           이탈리아어 동사 분류                               |
-+----------------------------------------------------------+
-|                                                          |
-|  어미별:   -ARE (가장 흔함: 동사의 ~60%)                    |
-|            -ERE (두 번째로 큰 그룹)                         |
-|            -IRE (두 하위 그룹: 규칙 + -isc-)               |
-|                                                          |
-|  규칙성별:  규칙                                           |
-|             불규칙 (고유 어간/패턴)                          |
-|             -ISC- 동사 (capire, finire, preferire)         |
-|             재귀 동사 (-si 어미: lavarsi)                   |
-|                                                          |
-|  법별:     Indicativo (사실, 확실성)                        |
-|            Congiuntivo (주관성, 의심)                       |
-|            Condizionale (가정, 공손)                        |
-|            Imperativo (명령)                               |
-|                                                          |
-|  비정형:   Infinito (parlare)                              |
-|            Gerundio (parlando)                             |
-|            Participio (parlato, parlante)                  |
-+----------------------------------------------------------+
-```
+> **이탈리아어 동사 분류**
+>
+> **어미별**:
+> - -ARE (가장 흔함: 동사의 ~60%)
+> - -ERE (두 번째로 큰 그룹)
+> - -IRE (두 하위 그룹: 규칙 + -isc-)
+>
+> **규칙성별**:
+> - 규칙
+> - 불규칙 (고유 어간/패턴)
+> - -ISC- 동사 (capire, finire, preferire)
+> - 재귀 동사 (-si 어미: lavarsi)
+>
+> **법별**:
+> - Indicativo (사실, 확실성)
+> - Congiuntivo (주관성, 의심)
+> - Condizionale (가정, 공손)
+> - Imperativo (명령)
+>
+> **비정형**:
+> - Infinito (parlare)
+> - Gerundio (parlando)
+> - Participio (parlato, parlante)
 
 ### 직설법 시제 한눈에 보기
 
