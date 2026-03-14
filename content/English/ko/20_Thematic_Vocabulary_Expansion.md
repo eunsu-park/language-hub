@@ -26,25 +26,19 @@
 
 ### 1.1 체계적 어휘 학습이 중요한 이유
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   영어 원어민은 약 20,000~35,000개의 단어군을 알고 있습니다.         │
-│                                                                 │
-│   효과적인 의사소통을 위해 학습자에게 필요한 것:                      │
-│   • 일상 대화를 위한 약 3,000개 단어군                              │
-│   • 뉴스와 미디어 이해를 위한 약 5,000~6,000개                      │
-│   • 원본 텍스트 읽기를 위한 약 8,000~9,000개                        │
-│   • 학술 및 전문적 맥락을 위한 약 10,000개 이상                      │
-│                                                                 │
-│   전략: 고립된 단어-번역 쌍을 외우지 말고                            │
-│   문맥과 단어군을 통해 학습하세요.                                   │
-│                                                                 │
-│   단어군 예시:                                                    │
-│   employ → employer, employee, employment, unemployment,         │
-│           employable, unemployable, self-employed                 │
-│   하나의 어근 = 7개 이상의 단어 학습!                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **영어 원어민은 약 20,000~35,000개의 단어군을 알고 있습니다.**
+>
+> 효과적인 의사소통을 위해 학습자에게 필요한 것:
+> • 일상 대화를 위한 약 3,000개 단어군
+> • 뉴스와 미디어 이해를 위한 약 5,000~6,000개
+> • 원본 텍스트 읽기를 위한 약 8,000~9,000개
+> • 학술 및 전문적 맥락을 위한 약 10,000개 이상
+> 전략: 고립된 단어-번역 쌍을 외우지 말고
+> 문맥과 단어군을 통해 학습하세요.
+> 단어군 예시:
+> employ → employer, employee, employment, unemployment,
+> employable, unemployable, self-employed
+> 하나의 어근 = 7개 이상의 단어 학습!
 
 ---
 
@@ -52,34 +46,32 @@
 
 ### 2.1 핵심 기술 용어
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ 영어            │ 한국어        │ 예문                            │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ algorithm      │ 알고리즘      │ "The search algorithm ranks    │
-│                │              │  results by relevance."        │
-│ artificial     │ 인공지능      │ "AI is transforming many       │
-│ intelligence   │ (AI)         │  industries."                  │
-│ bandwidth      │ 대역폭       │ "We need more bandwidth."      │
-│ cloud computing│ 클라우드 컴퓨팅│ "Data is stored in the cloud." │
-│ cybersecurity  │ 사이버 보안    │ "Cybersecurity threats are     │
-│                │              │  increasing."                  │
-│ database       │ 데이터베이스   │ "The database stores customer  │
-│                │              │  records."                     │
-│ debug          │ 디버그하다    │ "I need to debug this code."   │
-│ encrypt        │ 암호화하다    │ "All data should be encrypted."│
-│ firewall       │ 방화벽       │ "The firewall blocks attacks." │
-│ hardware       │ 하드웨어      │ "We upgraded our hardware."    │
-│ interface      │ 인터페이스    │ "The user interface is simple."│
-│ malware        │ 악성코드      │ "Malware infected the system." │
-│ open source    │ 오픈소스      │ "Linux is open-source."        │
-│ server         │ 서버         │ "The server crashed."          │
-│ software       │ 소프트웨어    │ "Install the latest software." │
-│ virtual reality│ 가상현실      │ "VR creates immersive          │
-│ (VR)           │ (VR)         │  experiences."                 │
-│ wireless       │ 무선         │ "Connect via wireless."        │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | 영어 | 한국어 | 예문 |
+> |---|---|---|
+> | algorithm | 알고리즘 | "The search algorithm ranks |
+> | results by relevance." |  |  |
+> | artificial | 인공지능 | "AI is transforming many |
+> | intelligence | (AI) | industries." |
+> | bandwidth | 대역폭 | "We need more bandwidth." |
+> | cloud computing | 클라우드 컴퓨팅 | "Data is stored in the cloud." |
+> | cybersecurity | 사이버 보안 | "Cybersecurity threats are |
+> | increasing." |  |  |
+> | database | 데이터베이스 | "The database stores customer |
+> | records." |  |  |
+> | debug | 디버그하다 | "I need to debug this code." |
+> | encrypt | 암호화하다 | "All data should be encrypted." |
+> | firewall | 방화벽 | "The firewall blocks attacks." |
+> | hardware | 하드웨어 | "We upgraded our hardware." |
+> | interface | 인터페이스 | "The user interface is simple." |
+> | malware | 악성코드 | "Malware infected the system." |
+> | open source | 오픈소스 | "Linux is open-source." |
+> | server | 서버 | "The server crashed." |
+> | software | 소프트웨어 | "Install the latest software." |
+> | virtual reality | 가상현실 | "VR creates immersive |
+> | (VR) | (VR) | experiences." |
+> | wireless | 무선 | "Connect via wireless." |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ### 2.2 기술 분야 동사
 
@@ -102,38 +94,36 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 3.1 핵심 환경 용어
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ 영어            │ 한국어        │ 예문                            │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ biodiversity   │ 생물다양성    │ "Biodiversity is declining     │
-│                │              │  rapidly."                     │
-│ carbon footprint│ 탄소발자국   │ "Reduce your carbon footprint."│
-│ climate change │ 기후변화      │ "Climate change affects us all."│
-│ conservation   │ 보전         │ "Wildlife conservation is      │
-│                │              │  essential."                   │
-│ deforestation  │ 삼림벌채      │ "Deforestation destroys        │
-│                │              │  habitats."                    │
-│ ecosystem      │ 생태계       │ "The ecosystem is fragile."    │
-│ emission       │ 배출(물)     │ "We must cut carbon emissions."│
-│ endangered     │ 멸종위기의    │ "Tigers are an endangered      │
-│                │              │  species."                     │
-│ fossil fuel    │ 화석연료      │ "Fossil fuels cause pollution."│
-│ global warming │ 지구온난화    │ "Global warming raises sea     │
-│                │              │  levels."                      │
-│ greenhouse     │ 온실효과      │ "CO2 contributes to the        │
-│ effect         │              │  greenhouse effect."           │
-│ pollution      │ 오염         │ "Air pollution is a major      │
-│                │              │  health risk."                 │
-│ recycle        │ 재활용하다    │ "Recycle plastic and paper."   │
-│ renewable      │ 재생가능한    │ "Solar is a renewable energy   │
-│ energy         │ 에너지       │  source."                      │
-│ sustainability │ 지속가능성    │ "Sustainability is key to our  │
-│                │              │  future."                      │
-│ waste          │ 폐기물       │ "Reduce waste wherever          │
-│                │              │  possible."                    │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | 영어 | 한국어 | 예문 |
+> |---|---|---|
+> | biodiversity | 생물다양성 | "Biodiversity is declining |
+> | rapidly." |  |  |
+> | carbon footprint | 탄소발자국 | "Reduce your carbon footprint." |
+> | climate change | 기후변화 | "Climate change affects us all." |
+> | conservation | 보전 | "Wildlife conservation is |
+> | essential." |  |  |
+> | deforestation | 삼림벌채 | "Deforestation destroys |
+> | habitats." |  |  |
+> | ecosystem | 생태계 | "The ecosystem is fragile." |
+> | emission | 배출(물) | "We must cut carbon emissions." |
+> | endangered | 멸종위기의 | "Tigers are an endangered |
+> | species." |  |  |
+> | fossil fuel | 화석연료 | "Fossil fuels cause pollution." |
+> | global warming | 지구온난화 | "Global warming raises sea |
+> | levels." |  |  |
+> | greenhouse | 온실효과 | "CO2 contributes to the |
+> | effect | greenhouse effect." |  |
+> | pollution | 오염 | "Air pollution is a major |
+> | health risk." |  |  |
+> | recycle | 재활용하다 | "Recycle plastic and paper." |
+> | renewable | 재생가능한 | "Solar is a renewable energy |
+> | energy | 에너지 | source." |
+> | sustainability | 지속가능성 | "Sustainability is key to our |
+> | future." |  |  |
+> | waste | 폐기물 | "Reduce waste wherever |
+> | possible." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -141,35 +131,33 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 4.1 핵심 건강 용어
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ 영어            │ 한국어        │ 예문                            │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ antibiotic     │ 항생제       │ "The doctor prescribed         │
-│                │              │  antibiotics."                 │
-│ chronic        │ 만성적인      │ "She suffers from chronic      │
-│                │              │  back pain."                   │
-│ contagious     │ 전염성 있는   │ "The flu is highly contagious."│
-│ diagnosis      │ 진단         │ "The diagnosis was diabetes."  │
-│ dosage         │ 복용량       │ "Follow the correct dosage."   │
-│ immune system  │ 면역체계      │ "Exercise strengthens the      │
-│                │              │  immune system."               │
-│ infection      │ 감염         │ "The wound got infected."      │
-│ mental health  │ 정신건강      │ "Mental health matters."       │
-│ nutrition      │ 영양         │ "Good nutrition prevents       │
-│                │              │  disease."                     │
-│ pandemic       │ 팬데믹       │ "The COVID-19 pandemic         │
-│                │              │  changed the world."           │
-│ prescription   │ 처방전       │ "You need a prescription."     │
-│ symptom        │ 증상         │ "Common symptoms include       │
-│                │              │  fever and cough."             │
-│ therapy        │ 치료; 요법    │ "She started physical therapy."│
-│ vaccination    │ 예방접종      │ "Get your annual flu           │
-│                │              │  vaccination."                 │
-│ well-being     │ 웰빙; 안녕    │ "Focus on your overall         │
-│                │              │  well-being."                  │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | 영어 | 한국어 | 예문 |
+> |---|---|---|
+> | antibiotic | 항생제 | "The doctor prescribed |
+> | antibiotics." |  |  |
+> | chronic | 만성적인 | "She suffers from chronic |
+> | back pain." |  |  |
+> | contagious | 전염성 있는 | "The flu is highly contagious." |
+> | diagnosis | 진단 | "The diagnosis was diabetes." |
+> | dosage | 복용량 | "Follow the correct dosage." |
+> | immune system | 면역체계 | "Exercise strengthens the |
+> | immune system." |  |  |
+> | infection | 감염 | "The wound got infected." |
+> | mental health | 정신건강 | "Mental health matters." |
+> | nutrition | 영양 | "Good nutrition prevents |
+> | disease." |  |  |
+> | pandemic | 팬데믹 | "The COVID-19 pandemic |
+> | changed the world." |  |  |
+> | prescription | 처방전 | "You need a prescription." |
+> | symptom | 증상 | "Common symptoms include |
+> | fever and cough." |  |  |
+> | therapy | 치료; 요법 | "She started physical therapy." |
+> | vaccination | 예방접종 | "Get your annual flu |
+> | vaccination." |  |  |
+> | well-being | 웰빙; 안녕 | "Focus on your overall |
+> | well-being." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -177,31 +165,29 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 5.1 핵심 교육 용어
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ 영어            │ 한국어        │ 예문                            │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ curriculum     │ 교육과정      │ "The curriculum was updated."  │
-│ enrollment     │ 등록; 재학    │ "Enrollment has increased."    │
-│ extracurricular│ 과외활동의    │ "Join extracurricular          │
-│                │              │  activities."                  │
-│ graduate       │ 졸업하다      │ "She graduated from SNU."      │
-│ literacy       │ 문해력       │ "Digital literacy is essential."│
-│ plagiarism     │ 표절         │ "Plagiarism is a serious       │
-│                │              │  offense."                     │
-│ scholarship    │ 장학금       │ "She won a full scholarship."  │
-│ semester       │ 학기         │ "The spring semester starts    │
-│                │              │  in March."                    │
-│ syllabus       │ 강의계획서    │ "Check the syllabus for        │
-│                │              │  deadlines."                   │
-│ thesis         │ 논문         │ "She submitted her thesis."    │
-│ tuition        │ 등록금       │ "Tuition fees are rising."     │
-│ undergraduate  │ 학부생       │ "He's an undergraduate         │
-│                │              │  student."                     │
-│ vocational     │ 직업의       │ "Vocational training is        │
-│                │              │  valuable."                    │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | 영어 | 한국어 | 예문 |
+> |---|---|---|
+> | curriculum | 교육과정 | "The curriculum was updated." |
+> | enrollment | 등록; 재학 | "Enrollment has increased." |
+> | extracurricular | 과외활동의 | "Join extracurricular |
+> | activities." |  |  |
+> | graduate | 졸업하다 | "She graduated from SNU." |
+> | literacy | 문해력 | "Digital literacy is essential." |
+> | plagiarism | 표절 | "Plagiarism is a serious |
+> | offense." |  |  |
+> | scholarship | 장학금 | "She won a full scholarship." |
+> | semester | 학기 | "The spring semester starts |
+> | in March." |  |  |
+> | syllabus | 강의계획서 | "Check the syllabus for |
+> | deadlines." |  |  |
+> | thesis | 논문 | "She submitted her thesis." |
+> | tuition | 등록금 | "Tuition fees are rising." |
+> | undergraduate | 학부생 | "He's an undergraduate |
+> | student." |  |  |
+> | vocational | 직업의 | "Vocational training is |
+> | valuable." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -396,50 +382,46 @@ auto-  (스스로)          automatic, autobiography, autonomous
 
 ### 8.1 일반적인 라틴어 어근
 
-```
-┌──────────┬────────────────┬─────────────────────────────────────┐
-│ 어근      │ 의미            │ 영어 단어                            │
-├──────────┼────────────────┼─────────────────────────────────────┤
-│ aud      │ 듣다            │ audio, audience, auditorium         │
-│ bene     │ 좋은            │ benefit, benevolent, beneficial     │
-│ dict     │ 말하다          │ dictionary, predict, contradict     │
-│ duc/duct │ 이끌다          │ produce, conduct, introduce, reduce │
-│ fact     │ 만들다, 하다    │ factory, manufacture, artifact      │
-│ ject     │ 던지다          │ project, reject, inject, object     │
-│ mal      │ 나쁜            │ malware, malfunction, malpractice   │
-│ port     │ 운반하다        │ transport, export, import, report   │
-│ scrib    │ 쓰다            │ describe, prescribe, subscribe      │
-│ spec     │ 보다            │ inspect, spectacle, perspective     │
-│ struct   │ 짓다            │ construct, instruct, structure      │
-│ ven/vent │ 오다            │ invent, prevent, convention, event  │
-│ vid/vis  │ 보다            │ video, visible, vision, evidence    │
-│ voc/vok  │ 부르다, 목소리  │ vocabulary, invoke, advocate        │
-└──────────┴────────────────┴─────────────────────────────────────┘
-```
+> | 어근 | 의미 | 영어 단어 |
+> |---|---|---|
+> | aud | 듣다 | audio, audience, auditorium |
+> | bene | 좋은 | benefit, benevolent, beneficial |
+> | dict | 말하다 | dictionary, predict, contradict |
+> | duc/duct | 이끌다 | produce, conduct, introduce, reduce |
+> | fact | 만들다, 하다 | factory, manufacture, artifact |
+> | ject | 던지다 | project, reject, inject, object |
+> | mal | 나쁜 | malware, malfunction, malpractice |
+> | port | 운반하다 | transport, export, import, report |
+> | scrib | 쓰다 | describe, prescribe, subscribe |
+> | spec | 보다 | inspect, spectacle, perspective |
+> | struct | 짓다 | construct, instruct, structure |
+> | ven/vent | 오다 | invent, prevent, convention, event |
+> | vid/vis | 보다 | video, visible, vision, evidence |
+> | voc/vok | 부르다, 목소리 | vocabulary, invoke, advocate |
+>
+> ├──────────┼────────────────┼─────────────────────────────────────┤
 
 ### 8.2 일반적인 그리스어 어근
 
-```
-┌──────────┬────────────────┬─────────────────────────────────────┐
-│ 어근      │ 의미            │ 영어 단어                            │
-├──────────┼────────────────┼─────────────────────────────────────┤
-│ auto     │ 스스로          │ automatic, automobile, autonomous   │
-│ bio      │ 생명            │ biology, biography, biodiversity    │
-│ chron    │ 시간            │ chronological, chronic, synchronize │
-│ dem      │ 사람들          │ democracy, demographic, epidemic    │
-│ geo      │ 땅              │ geography, geology, geometry        │
-│ graph    │ 쓰다, 기록      │ photograph, biography, autograph    │
-│ log/logy │ 학문, 말        │ biology, technology, psychology     │
-│ micro    │ 작은            │ microscope, microphone, microchip   │
-│ path     │ 느낌, 고통      │ sympathy, empathy, pathology        │
-│ phil     │ 사랑            │ philosophy, philanthropist          │
-│ phon     │ 소리            │ telephone, microphone, phonetics    │
-│ poly     │ 많은            │ polygon, polyglot, polyphonic       │
-│ psych    │ 마음            │ psychology, psychiatry, psychic     │
-│ tele     │ 먼, 멀리       │ telephone, television, telescope    │
-│ therm    │ 열              │ thermometer, thermal, thermostat    │
-└──────────┴────────────────┴─────────────────────────────────────┘
-```
+> | 어근 | 의미 | 영어 단어 |
+> |---|---|---|
+> | auto | 스스로 | automatic, automobile, autonomous |
+> | bio | 생명 | biology, biography, biodiversity |
+> | chron | 시간 | chronological, chronic, synchronize |
+> | dem | 사람들 | democracy, demographic, epidemic |
+> | geo | 땅 | geography, geology, geometry |
+> | graph | 쓰다, 기록 | photograph, biography, autograph |
+> | log/logy | 학문, 말 | biology, technology, psychology |
+> | micro | 작은 | microscope, microphone, microchip |
+> | path | 느낌, 고통 | sympathy, empathy, pathology |
+> | phil | 사랑 | philosophy, philanthropist |
+> | phon | 소리 | telephone, microphone, phonetics |
+> | poly | 많은 | polygon, polyglot, polyphonic |
+> | psych | 마음 | psychology, psychiatry, psychic |
+> | tele | 먼, 멀리 | telephone, television, telescope |
+> | therm | 열 | thermometer, thermal, thermostat |
+>
+> ├──────────┼────────────────┼─────────────────────────────────────┤
 
 ### 8.3 모르는 단어 해독하는 법
 
@@ -714,28 +696,21 @@ photo     = photograph
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              어휘 확장 빠른 가이드                                 │
-│              Vocabulary Expansion Quick Guide                   │
-│                                                                 │
-│   부정 접두사: un-, in-(il-/im-/ir-), dis-, non-, mis-          │
-│   방향: re-(다시), pre-(이전), post-(이후),                      │
-│         over-(과다), under-(과소)                                │
-│   크기: super-, sub-, semi-, multi-, mono-, bi-, tri-           │
-│   관계: inter-(사이), trans-(가로질러), co-(함께)                 │
-│                                                                 │
-│   명사 접미사: -tion, -ment, -ness, -ity, -er/-or, -ist        │
-│   형용사 접미사: -able/-ible, -ful, -less, -ous, -al, -ive     │
-│   동사 접미사: -ize, -ify, -en                                  │
-│   부사 접미사: -ly                                               │
-│                                                                 │
-│   라틴어 어근: dict(말하다), duc(이끌다), port(나르다), spec(보다)  │
-│   그리스어 어근: bio(생명), graph(쓰다), log(학문), tele(먼)      │
-│                                                                 │
-│   전략: 고립된 번역이 아니라 단어군과 문맥으로 학습하세요!            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **어휘 확장 빠른 가이드**
+>
+> Vocabulary Expansion Quick Guide
+> 부정 접두사: un-, in-(il-/im-/ir-), dis-, non-, mis-
+> 방향: re-(다시), pre-(이전), post-(이후),
+> over-(과다), under-(과소)
+> 크기: super-, sub-, semi-, multi-, mono-, bi-, tri-
+> 관계: inter-(사이), trans-(가로질러), co-(함께)
+> 명사 접미사: -tion, -ment, -ness, -ity, -er/-or, -ist
+> 형용사 접미사: -able/-ible, -ful, -less, -ous, -al, -ive
+> 동사 접미사: -ize, -ify, -en
+> 부사 접미사: -ly
+> 라틴어 어근: dict(말하다), duc(이끌다), port(나르다), spec(보다)
+> 그리스어 어근: bio(생명), graph(쓰다), log(학문), tele(먼)
+> 전략: 고립된 번역이 아니라 단어군과 문맥으로 학습하세요!
 
 ---
 
