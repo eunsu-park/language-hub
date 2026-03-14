@@ -34,44 +34,31 @@
 
 ### 1.1 What is the JLPT?
 
-```
-+----------------------------------------------------------+
-|  JLPT — Japanese Language Proficiency Test               |
-|  (日本語能力試験 / にほんごのうりょくしけん)                 |
-+----------------------------------------------------------+
-|                                                          |
-|  Administering body: Japan Foundation +                   |
-|                      Japan Educational Exchanges and     |
-|                      Services (JEES)                     |
-|  Recognition: International, no expiration               |
-|  Levels: N5 (easiest) → N1 (hardest)                    |
-|  Test dates: July and December (twice per year)          |
-|  Locations: ~90 countries worldwide                      |
-|                                                          |
-|  SECTIONS:                                               |
-|  ┌─────────────────────────────────────────────┐         |
-|  │  N5-N4:                                     │         |
-|  │  1. 言語知識（文字・語彙）                     │         |
-|  │     Language Knowledge (Characters/Vocab)    │         |
-|  │  2. 言語知識（文法）・読解                     │         |
-|  │     Language Knowledge (Grammar) + Reading   │         |
-|  │  3. 聴解                                    │         |
-|  │     Listening                               │         |
-|  ├─────────────────────────────────────────────┤         |
-|  │  N3-N1:                                     │         |
-|  │  1. 言語知識（文字・語彙・文法）・読解          │         |
-|  │     Language Knowledge + Reading             │         |
-|  │  2. 聴解                                    │         |
-|  │     Listening                               │         |
-|  └─────────────────────────────────────────────┘         |
-|                                                          |
-|  SCORING:                                                |
-|  • Each section scored separately                        |
-|  • Must reach minimum score in EACH section              |
-|  • AND reach the total passing score                     |
-|  • All questions are multiple choice                     |
-+----------------------------------------------------------+
-```
+> **JLPT — Japanese Language Proficiency Test**
+> **(日本語能力試験 / にほんごのうりょくしけん)**
+>
+> - **Administering body**: Japan Foundation + Japan Educational Exchanges and Services (JEES)
+> - **Recognition**: International, no expiration
+> - **Levels**: N5 (easiest) → N1 (hardest)
+> - **Test dates**: July and December (twice per year)
+> - **Locations**: ~90 countries worldwide
+>
+> **SECTIONS:**
+>
+> **N5-N4:**
+> 1. 言語知識（文字・語彙） — Language Knowledge (Characters/Vocab)
+> 2. 言語知識（文法）・読解 — Language Knowledge (Grammar) + Reading
+> 3. 聴解 — Listening
+>
+> **N3-N1:**
+> 1. 言語知識（文字・語彙・文法）・読解 — Language Knowledge + Reading
+> 2. 聴解 — Listening
+>
+> **SCORING:**
+> - Each section scored separately
+> - Must reach minimum score in EACH section
+> - AND reach the total passing score
+> - All questions are multiple choice
 
 ### 1.2 Scoring System
 
@@ -102,42 +89,37 @@
 
 ### 2.1 Level Summary
 
-```
-+----------------------------------------------------------+
-|         JLPT LEVELS AT A GLANCE                          |
-+----------------------------------------------------------+
-|                                                          |
-|  N5 — Basic Japanese                                     |
-|  ├── ~100 kanji, ~800 vocabulary                         |
-|  ├── Hiragana, katakana, basic kanji                     |
-|  ├── Basic grammar (です/ます, particles)                 |
-|  └── Simple everyday conversations                       |
-|                                                          |
-|  N4 — Elementary Japanese                                |
-|  ├── ~300 kanji, ~1,500 vocabulary                       |
-|  ├── Basic conversations about daily topics              |
-|  ├── て-form, potential, ～たい, basic conjunctions        |
-|  └── Read simple passages                                |
-|                                                          |
-|  N3 — Intermediate Japanese                              |
-|  ├── ~650 kanji, ~3,700 vocabulary                       |
-|  ├── Everyday situations + some abstract topics          |
-|  ├── Conditional, passive, causative, honorific basics   |
-|  └── Read newspaper headlines, simple articles           |
-|                                                          |
-|  N2 — Upper Intermediate                                 |
-|  ├── ~1,000 kanji, ~6,000 vocabulary                    |
-|  ├── Understand most everyday and some specialized        |
-|  ├── Complex grammar, nuanced expressions                |
-|  └── Read newspapers, follow lectures                    |
-|                                                          |
-|  N1 — Advanced Japanese                                  |
-|  ├── ~2,000 kanji, ~10,000 vocabulary                   |
-|  ├── Understand Japanese in virtually all situations      |
-|  ├── Complex, abstract, and specialized topics           |
-|  └── Read editorials, literature, academic texts         |
-+----------------------------------------------------------+
-```
+> **JLPT LEVELS AT A GLANCE**
+>
+> N5 — Basic Japanese
+> - ~100 kanji, ~800 vocabulary
+> - Hiragana, katakana, basic kanji
+> - Basic grammar (です/ます, particles)
+> - Simple everyday conversations
+>
+> N4 — Elementary Japanese
+> - ~300 kanji, ~1,500 vocabulary
+> - Basic conversations about daily topics
+> - て-form, potential, ～たい, basic conjunctions
+> - Read simple passages
+>
+> N3 — Intermediate Japanese
+> - ~650 kanji, ~3,700 vocabulary
+> - Everyday situations + some abstract topics
+> - Conditional, passive, causative, honorific basics
+> - Read newspaper headlines, simple articles
+>
+> N2 — Upper Intermediate
+> - ~1,000 kanji, ~6,000 vocabulary
+> - Understand most everyday and some specialized
+> - Complex grammar, nuanced expressions
+> - Read newspapers, follow lectures
+>
+> N1 — Advanced Japanese
+> - ~2,000 kanji, ~10,000 vocabulary
+> - Understand Japanese in virtually all situations
+> - Complex, abstract, and specialized topics
+> - Read editorials, literature, academic texts
 
 ### 2.2 Corresponding Course Lessons
 
@@ -649,30 +631,25 @@ Read the following and answer the question:
 
 ### 9.2 Daily Study Plan (Sample for N2)
 
-```
-+----------------------------------------------------------+
-|         DAILY STUDY PLAN (2-3 hours/day)                 |
-+----------------------------------------------------------+
-|                                                          |
-|  Morning (30 min):                                       |
-|  ├── Kanji review (Anki flashcards) — 15 min            |
-|  └── Vocabulary review (Anki) — 15 min                  |
-|                                                          |
-|  Afternoon (60 min):                                     |
-|  ├── Grammar study (textbook + exercises) — 30 min      |
-|  └── Reading practice (one passage + questions) — 30 min |
-|                                                          |
-|  Evening (30-60 min):                                    |
-|  ├── Listening practice — 20 min                         |
-|  ├── Review mistakes from the day — 10 min              |
-|  └── (Optional) Watch Japanese content — 30 min          |
-|                                                          |
-|  Weekend:                                                |
-|  ├── Full practice test section (timed)                  |
-|  └── Review and analyze mistakes                         |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **DAILY STUDY PLAN (2-3 hours/day)**
+>
+> **Morning (30 min)**:
+> - Kanji review (Anki flashcards) — 15 min
+> - Vocabulary review (Anki) — 15 min
+>
+> **Afternoon (60 min)**:
+> - Grammar study (textbook + exercises) — 30 min
+> - Reading practice (one passage + questions) — 30 min
+>
+> **Evening (30-60 min)**:
+> - Listening practice — 20 min
+> - Review mistakes from the day — 10 min
+> - (Optional) Watch Japanese content — 30 min
+>
+> **Weekend**:
+> - Full practice test section (timed)
+> - Review and analyze mistakes
+>
 
 ### 9.3 Recommended Resources by Level
 
