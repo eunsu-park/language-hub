@@ -100,20 +100,16 @@ A softer proposal in question form — "Shall we...?"
 
 ## 2. Imperative: Commands and Requests
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              Imperative Forms (명령형)                          │
-│                                                               │
-│  Politeness Level     Form              Example               │
-│  ─────────────────    ──────────        ────────              │
-│  Polite request       -(으)세요          앉으세요 (Please sit)  │
-│  Casual/Plain         -아/어라           앉아라 (Sit down)      │
-│  Soft/Friendly        -아/어             앉아 (Sit)             │
-│  Very formal          -(으)십시오        앉으십시오 (Please sit) │
-│                                                               │
-│  Most commonly used in daily life: -(으)세요                   │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Imperative Forms (명령형)**
+>
+> | Politeness Level | Form | Example |
+> |-----------------|------|---------|
+> | Polite request | -(으)세요 | 앉으세요 (Please sit) |
+> | Casual/Plain | -아/어라 | 앉아라 (Sit down) |
+> | Soft/Friendly | -아/어 | 앉아 (Sit) |
+> | Very formal | -(으)십시오 | 앉으십시오 (Please sit) |
+>
+> Most commonly used in daily life: -(으)세요
 
 ### 2.1 Polite Request: -(으)세요
 
@@ -322,19 +318,15 @@ Use **-(으)면 안 되다** to express prohibition ("must not," "may not").
 
 ### 7.3 Common Prohibition Signs
 
-```
-┌─────────────────────────────────────────────────────────┐
-│         Common Prohibition Expressions                    │
-│                                                           │
-│  촬영 금지          No photography                        │
-│  주차 금지          No parking                            │
-│  흡연 금지          No smoking                            │
-│  출입 금지          No entry                              │
-│  음식물 반입 금지    No outside food                       │
-│  만지지 마세요      Please do not touch                    │
-│  뛰지 마세요        Please do not run                     │
-└─────────────────────────────────────────────────────────┘
-```
+> **Common Prohibition Expressions**
+>
+> - 촬영 금지 — No photography
+> - 주차 금지 — No parking
+> - 흡연 금지 — No smoking
+> - 출입 금지 — No entry
+> - 음식물 반입 금지 — No outside food
+> - 만지지 마세요 — Please do not touch
+> - 뛰지 마세요 — Please do not run
 
 ---
 
@@ -387,36 +379,25 @@ I can't go today. (circumstances prevent me)
 
 ## 9. Verb Ending Summary
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                 Verb Ending Quick Reference                       │
-│                                                                   │
-│  CATEGORY          FORM                  EXAMPLE                  │
-│  ────────          ──────                ────────                  │
-│  Propositive       -자 (casual)          가자! (Let's go!)         │
-│  (Let's...)        -(으)ㅂ시다 (formal)   갑시다 (Let's go)         │
-│                    -(으)ㄹ까요? (soft)    갈까요? (Shall we go?)    │
-│                                                                   │
-│  Imperative        -(으)세요 (polite)     가세요 (Please go)        │
-│  (Do...)           -아/어라 (casual)      가라 (Go!)               │
-│                    -지 마세요 (don't)      가지 마세요 (Don't go)    │
-│                                                                   │
-│  Desire            -고 싶다              가고 싶어요 (want to go)    │
-│                    -고 싶어하다           가고 싶어해요 (wants to go) │
-│                                                                   │
-│  Try               -아/어 보다            가 보세요 (try going)      │
-│                                                                   │
-│  Progressive       -고 있다              가고 있어요 (is going)      │
-│                                                                   │
-│  Permission        -아/어도 되다          가도 돼요 (may go)         │
-│                                                                   │
-│  Prohibition       -(으)면 안 되다        가면 안 돼요 (must not go) │
-│                                                                   │
-│  Ability           -(으)ㄹ 수 있다        갈 수 있어요 (can go)      │
-│  Inability         -(으)ㄹ 수 없다        갈 수 없어요 (can't go)   │
-│                    못 + verb             못 가요 (can't go)         │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Verb Ending Quick Reference**
+>
+> | Category | Form | Example |
+> |----------|------|---------|
+> | Propositive (Let's...) | -자 (casual) | 가자! (Let's go!) |
+> |  | -(으)ㅂ시다 (formal) | 갑시다 (Let's go) |
+> |  | -(으)ㄹ까요? (soft) | 갈까요? (Shall we go?) |
+> | Imperative (Do...) | -(으)세요 (polite) | 가세요 (Please go) |
+> |  | -아/어라 (casual) | 가라 (Go!) |
+> |  | -지 마세요 (don't) | 가지 마세요 (Don't go) |
+> | Desire | -고 싶다 | 가고 싶어요 (want to go) |
+> |  | -고 싶어하다 | 가고 싶어해요 (wants to go) |
+> | Try | -아/어 보다 | 가 보세요 (try going) |
+> | Progressive | -고 있다 | 가고 있어요 (is going) |
+> | Permission | -아/어도 되다 | 가도 돼요 (may go) |
+> | Prohibition | -(으)면 안 되다 | 가면 안 돼요 (must not go) |
+> | Ability | -(으)ㄹ 수 있다 | 갈 수 있어요 (can go) |
+> | Inability | -(으)ㄹ 수 없다 | 갈 수 없어요 (can't go) |
+> |  | 못 + verb | 못 가요 (can't go) |
 
 ---
 
