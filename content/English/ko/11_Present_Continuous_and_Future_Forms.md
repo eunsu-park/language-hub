@@ -25,27 +25,20 @@
 
 ### 1.1 구조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   현재진행형 = BE (am/is/are) + 동사-ING                         │
-│                                                                 │
-│   I          am eating      (I'm eating)                        │
-│   you        are eating     (you're eating)                     │
-│   he/she/it  is eating      (he's/she's/it's eating)           │
-│   we         are eating     (we're eating)                      │
-│   they       are eating     (they're eating)                    │
-│                                                                 │
-│   부정문: am/is/are + NOT + 동사-ing                             │
-│   I'm not eating.    She isn't eating.    They aren't eating.  │
-│                                                                 │
-│   의문문: Am/Is/Are + 주어 + 동사-ing?                           │
-│   Are you eating?    Is she eating?    What are they eating?   │
-│                                                                 │
-│   ※ 한국어에는 -고 있다 (하고 있다, 먹고 있다)가 진행형이지만,   │
-│     한국어 화자는 영어보다 덜 자주 사용합니다.                    │
-│     영어에서는 진행 중인 행동에 현재진행형이 반드시 필요합니다.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **현재진행형 = BE (am/is/are) + 동사-ING**
+>
+> I          am eating      (I'm eating)
+> you        are eating     (you're eating)
+> he/she/it  is eating      (he's/she's/it's eating)
+> we         are eating     (we're eating)
+> they       are eating     (they're eating)
+> 부정문: am/is/are + NOT + 동사-ing
+> I'm not eating.    She isn't eating.    They aren't eating.
+> 의문문: Am/Is/Are + 주어 + 동사-ing?
+> Are you eating?    Is she eating?    What are they eating?
+> ※ 한국어에는 -고 있다 (하고 있다, 먹고 있다)가 진행형이지만,
+> 한국어 화자는 영어보다 덜 자주 사용합니다.
+> 영어에서는 진행 중인 행동에 현재진행형이 반드시 필요합니다.
 
 ### 1.2 -ing 철자 규칙
 
@@ -127,38 +120,27 @@
 
 ### 3.1 상태 동사 (-ing와 함께 사용하지 않음)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   이 동사들은 행동이 아닌 상태를 나타냅니다.                      │
-│   보통 현재진행형으로 사용하지 않습니다.                          │
-│                                                                 │
-│   정신 상태:                                                     │
-│   know, believe, think (=believe), understand, remember,        │
-│   forget, imagine, suppose, mean, realize, recognize            │
-│                                                                 │
-│   감정:                                                          │
-│   like, love, hate, want, need, prefer, wish, care              │
-│                                                                 │
-│   감각 (비자발적):                                                │
-│   see, hear, smell, taste, feel (=느낌이 있다)                   │
-│                                                                 │
-│   소유:                                                          │
-│   have (=소유하다), own, belong to, possess, contain, include    │
-│                                                                 │
-│   기타:                                                          │
-│   be, seem, appear, cost, weigh, measure, exist, matter,       │
-│   depend, deserve, fit, owe                                     │
-│                                                                 │
-│   ✓ "I know the answer."       (단순현재)                       │
-│   ✗ "I'm knowing the answer."  (틀림)                           │
-│                                                                 │
-│   ✓ "She likes coffee."        (단순현재)                       │
-│   ✗ "She's liking coffee."     (틀림)                           │
-│                                                                 │
-│   ✓ "I have a car."            (단순현재 — 소유)                │
-│   ✗ "I'm having a car."        (틀림)                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **이 동사들은 행동이 아닌 상태를 나타냅니다.**
+>
+> 보통 현재진행형으로 사용하지 않습니다.
+> 정신 상태:
+> know, believe, think (=believe), understand, remember,
+> forget, imagine, suppose, mean, realize, recognize
+> 감정:
+> like, love, hate, want, need, prefer, wish, care
+> 감각 (비자발적):
+> see, hear, smell, taste, feel (=느낌이 있다)
+> 소유:
+> have (=소유하다), own, belong to, possess, contain, include
+> 기타:
+> be, seem, appear, cost, weigh, measure, exist, matter,
+> depend, deserve, fit, owe
+> ✓ "I know the answer."       (단순현재)
+> ✗ "I'm knowing the answer."  (틀림)
+> ✓ "She likes coffee."        (단순현재)
+> ✗ "She's liking coffee."     (틀림)
+> ✓ "I have a car."            (단순현재 — 소유)
+> ✗ "I'm having a car."        (틀림)
 
 ### 3.2 상태 의미와 동작 의미를 모두 가진 동사
 
@@ -200,28 +182,20 @@ weigh:
 
 ### 4.1 핵심 차이
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   단순현재                  vs    현재진행형                       │
-│   ──────────────                ────────────────────             │
-│   습관/일상                      지금 일어나는 행동               │
-│   "I eat lunch at noon."       "I'm eating lunch (right now)."  │
-│                                                                 │
-│   영구적 상황                    일시적 상황                      │
-│   "I live in Seoul."           "I'm living in Seoul (this month)│
-│                                                                 │
-│   일반적 사실                    현재 변화                        │
-│   "Water boils at 100°C."     "The water is boiling!"          │
-│                                                                 │
-│   예정된 일정                    짜증나는 습관                    │
-│   "The train leaves at 9."    "She's always leaving late!"     │
-│                                                                 │
-│   ※ 한국어에서는 이 구분이 명확하지 않은 경우가 많습니다:        │
-│     "나는 밥을 먹는다" = "I eat rice" (습관)과                   │
-│                         "I'm eating rice" (지금) 둘 다          │
-│     영어에서는 이 구분이 반드시 필요합니다!                       │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **단순현재                  vs    현재진행형**
+>
+> 습관/일상                      지금 일어나는 행동
+> "I eat lunch at noon."       "I'm eating lunch (right now)."
+> 영구적 상황                    일시적 상황
+> "I live in Seoul."           "I'm living in Seoul (this month)
+> 일반적 사실                    현재 변화
+> "Water boils at 100°C."     "The water is boiling!"
+> 예정된 일정                    짜증나는 습관
+> "The train leaves at 9."    "She's always leaving late!"
+> ※ 한국어에서는 이 구분이 명확하지 않은 경우가 많습니다:
+> "나는 밥을 먹는다" = "I eat rice" (습관)과
+> "I'm eating rice" (지금) 둘 다
+> 영어에서는 이 구분이 반드시 필요합니다!
 
 ### 4.2 비교 예시
 
@@ -368,32 +342,22 @@ weigh:
 
 ### 8.1 결정 차트
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              미래 형태 결정 차트                                   │
-│                                                                 │
-│   예정된 시간표인가?                                              │
-│   예 → 단순현재: "The train leaves at 9."                        │
-│                                                                 │
-│   이미 약속/예정된 것인가 (사람, 장소가 정해진)?                   │
-│   예 → 현재진행형: "I'm meeting Tom at 3."                       │
-│                                                                 │
-│   미리 계획한 의도인가?                                           │
-│   예 → going to: "I'm going to study abroad."                   │
-│                                                                 │
-│   즉석 결정인가 (지금 결정한)?                                    │
-│   예 → will: "I'll have the pasta." (식당에서)                   │
-│                                                                 │
-│   증거에 기반한 예측인가?                                         │
-│   예 → going to: "Look! It's going to rain."                    │
-│                                                                 │
-│   의견/믿음에 기반한 예측인가?                                    │
-│   예 → will: "I think she'll win."                               │
-│                                                                 │
-│   약속, 제안, 또는 위협인가?                                      │
-│   예 → will: "I'll help you." / "I won't forget."               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **미래 형태 결정 차트**
+>
+> 예정된 시간표인가?
+> 예 → 단순현재: "The train leaves at 9."
+> 이미 약속/예정된 것인가 (사람, 장소가 정해진)?
+> 예 → 현재진행형: "I'm meeting Tom at 3."
+> 미리 계획한 의도인가?
+> 예 → going to: "I'm going to study abroad."
+> 즉석 결정인가 (지금 결정한)?
+> 예 → will: "I'll have the pasta." (식당에서)
+> 증거에 기반한 예측인가?
+> 예 → going to: "Look! It's going to rain."
+> 의견/믿음에 기반한 예측인가?
+> 예 → will: "I think she'll win."
+> 약속, 제안, 또는 위협인가?
+> 예 → will: "I'll help you." / "I won't forget."
 
 ### 8.2 같은 상황, 다른 뉘앙스
 
@@ -413,25 +377,19 @@ weigh:
 
 ### 8.3 한국어 비교
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 미래:                                                    │
-│   ~할 것이다    (격식적 의도/예측)                                 │
-│   ~할 거야     (비격식 의도/예측)                                  │
-│   ~하겠다      (의도/의지)                                        │
-│   ~할 예정이다  (예정/계획된)                                      │
-│   ~하기로 했다  (약속/결정된)                                      │
-│                                                                 │
-│   영어 미래:                                                      │
-│   will = 즉석 결정, 예측, 약속                                    │
-│   going to = 미리 계획한 의도, 증거 기반 예측                     │
-│   현재진행형 = 확정된 약속/예정                                    │
-│   단순현재 = 시간표/일정                                          │
-│                                                                 │
-│   ※ 한국어 화자는 모든 것에 "will"을 과도하게 사용하는 경향.      │
-│     "going to"와 현재진행형도 사용하는 법을 배우세요!              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어 미래:
+> ~할 것이다    (격식적 의도/예측)
+> ~할 거야     (비격식 의도/예측)
+> ~하겠다      (의도/의지)
+> ~할 예정이다  (예정/계획된)
+> ~하기로 했다  (약속/결정된)
+> 영어 미래:
+> will = 즉석 결정, 예측, 약속
+> going to = 미리 계획한 의도, 증거 기반 예측
+> 현재진행형 = 확정된 약속/예정
+> 단순현재 = 시간표/일정
+> ※ 한국어 화자는 모든 것에 "will"을 과도하게 사용하는 경향.
+> "going to"와 현재진행형도 사용하는 법을 배우세요!
 
 ---
 
@@ -579,28 +537,22 @@ the day after tomorrow    모레
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         현재진행형 & 미래 빠른 가이드                              │
-│                                                                 │
-│   현재진행형: am/is/are + 동사-ing                                │
-│   용법: 지금 일어나는 일, 일시적, 변화 중, 짜증(+always)          │
-│   ※ 상태 동사와 사용 불가: know, like, want, have (소유)         │
-│                                                                 │
-│   미래 형태:                                                      │
-│   will + 동사원형:                                                │
-│     → 즉석 결정, 예측 (의견), 약속                                │
-│   be + going to + 동사원형:                                       │
-│     → 미리 계획한 의도, 예측 (증거)                               │
-│   현재진행형 (be + -ing):                                         │
-│     → 확정된 약속/예정 (사람, 시간, 장소 결정)                    │
-│   단순현재:                                                       │
-│     → 시간표/일정 (기차는 9시에 출발)                              │
-│                                                                 │
-│   ※ 한국어 화자는 "will"을 과도하게 사용 — "going to"와           │
-│     현재진행형으로 계획된/예정된 미래를 연습하세요!                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **현재진행형 & 미래 빠른 가이드**
+>
+> 현재진행형: am/is/are + 동사-ing
+> 용법: 지금 일어나는 일, 일시적, 변화 중, 짜증(+always)
+> ※ 상태 동사와 사용 불가: know, like, want, have (소유)
+> 미래 형태:
+> will + 동사원형:
+> → 즉석 결정, 예측 (의견), 약속
+> be + going to + 동사원형:
+> → 미리 계획한 의도, 예측 (증거)
+> 현재진행형 (be + -ing):
+> → 확정된 약속/예정 (사람, 시간, 장소 결정)
+> 단순현재:
+> → 시간표/일정 (기차는 9시에 출발)
+> ※ 한국어 화자는 "will"을 과도하게 사용 — "going to"와
+> 현재진행형으로 계획된/예정된 미래를 연습하세요!
 
 ---
 
