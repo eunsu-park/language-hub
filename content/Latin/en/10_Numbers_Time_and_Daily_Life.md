@@ -94,22 +94,16 @@
 
 ### Mīlle vs. Mīlia
 
-```
-MĪLLE: A SPECIAL NUMBER
-┌──────────────────────────────────────────────┐
-│ Singular: mīlle = indeclinable ADJECTIVE     │
-│   mīlle mīlitēs = a thousand soldiers        │
-│   mīlle passūs = a thousand paces (= 1 mile) │
-│                                              │
-│ Plural: mīlia = declinable NEUTER NOUN       │
-│   (3rd decl. i-stem neuter)                  │
-│   mīlia, mīlium, mīlibus, mīlia, mīlibus   │
-│                                              │
-│   tria mīlia mīlitum =                       │
-│   three thousands OF soldiers (+ gen.)        │
-│   = three thousand soldiers                   │
-└──────────────────────────────────────────────┘
-```
+> **MĪLLE: A SPECIAL NUMBER**
+>
+> Singular: mīlle = indeclinable ADJECTIVE
+> - mīlle mīlitēs = a thousand soldiers
+> - mīlle passūs = a thousand paces (= 1 mile)
+>
+> Plural: mīlia = declinable NEUTER NOUN (3rd decl. i-stem neuter)
+> mīlia, mīlium, mīlibus, mīlia, mīlibus
+>
+> tria mīlia mīlitum = three thousands OF soldiers (+ gen.) = three thousand soldiers
 
 ### Example Sentences
 
@@ -171,27 +165,18 @@ The Roman calendar was fundamentally different from our modern one. Dates were c
 
 Romans counted **backward inclusively** from the next reference point:
 
-```
-ROMAN DATE CALCULATION
-┌──────────────────────────────────────────────────┐
-│ 1. If the date IS a reference point:             │
-│    Kalendīs Iānuāriīs = On the Kalends of Jan.  │
-│    (= January 1st)                               │
-│                                                  │
-│ 2. If the day BEFORE a reference point:           │
-│    Prīdiē Kalendās Februāriās                    │
-│    = The day before the Kalends of Feb.           │
-│    (= January 31st)                              │
-│                                                  │
-│ 3. Otherwise, count BACKWARD (inclusive):         │
-│    ante diem [number] [reference] [month]         │
-│                                                  │
-│    ante diem III Nōnās Iānuāriās                  │
-│    = 3rd day before the Nones of January          │
-│    Nones = Jan. 5th; counting back: 5,4,3         │
-│    = January 3rd                                  │
-└──────────────────────────────────────────────────┘
-```
+> **ROMAN DATE CALCULATION**
+>
+> 1. If the date IS a reference point:
+>    Kalendīs Iānuāriīs = On the Kalends of Jan. (= January 1st)
+>
+> 2. If the day BEFORE a reference point:
+>    Prīdiē Kalendās Februāriās = The day before the Kalends of Feb. (= January 31st)
+>
+> 3. Otherwise, count BACKWARD (inclusive):
+>    ante diem [number] [reference] [month]
+>    ante diem III Nōnās Iānuāriās = 3rd day before the Nones of January
+>    Nones = Jan. 5th; counting back: 5,4,3 = January 3rd
 
 ### Declension of Calendar Terms
 
@@ -237,25 +222,20 @@ ROMAN DATE CALCULATION
 
 Romans divided daylight into **12 equal hours** (hōrae) and nighttime into **4 watches** (vigiliae). Since the hours were proportional to available daylight, their length varied by season.
 
-```
-THE ROMAN DAY
-┌──────────────────────────────────────────┐
-│ DAYLIGHT: 12 hōrae (sunrise to sunset)  │
-│                                          │
-│ Hōra prīma    ≈ 6:00 AM (sunrise)       │
-│ Hōra tertia   ≈ 9:00 AM                 │
-│ Hōra sexta    ≈ 12:00 PM (noon)          │
-│ Hōra nōna     ≈ 3:00 PM                 │
-│ Hōra duodecima ≈ 6:00 PM (sunset)        │
-│                                          │
-│ NIGHTTIME: 4 vigiliae (watches)          │
-│                                          │
-│ Vigilia prīma  ≈ 6 PM - 9 PM            │
-│ Vigilia secunda ≈ 9 PM - 12 AM           │
-│ Vigilia tertia  ≈ 12 AM - 3 AM           │
-│ Vigilia quārta  ≈ 3 AM - 6 AM            │
-└──────────────────────────────────────────┘
-```
+> **THE ROMAN DAY**
+>
+> **DAYLIGHT:** 12 hōrae (sunrise to sunset)
+> - Hōra prīma    ≈ 6:00 AM (sunrise)
+> - Hōra tertia   ≈ 9:00 AM
+> - Hōra sexta    ≈ 12:00 PM (noon)
+> - Hōra nōna     ≈ 3:00 PM
+> - Hōra duodecima ≈ 6:00 PM (sunset)
+>
+> **NIGHTTIME:** 4 vigiliae (watches)
+> - Vigilia prīma  ≈ 6 PM - 9 PM
+> - Vigilia secunda ≈ 9 PM - 12 AM
+> - Vigilia tertia  ≈ 12 AM - 3 AM
+> - Vigilia quārta  ≈ 3 AM - 6 AM
 
 ### Key Time Vocabulary
 
