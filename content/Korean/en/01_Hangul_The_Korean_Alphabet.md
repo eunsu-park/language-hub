@@ -35,23 +35,15 @@
 
 ### 1.1 The Creation of Hangul
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                  The Birth of Hangul                              │
-│                                                                  │
-│   Creator:  King Sejong the Great (세종대왕)                      │
-│   Year:     1443 (invented), 1446 (promulgated)                  │
-│   Document: Hunminjeongeum (훈민정음, "Correct Sounds for         │
-│             the Instruction of the People")                      │
-│                                                                  │
-│   Purpose:  Enable all Korean people — including commoners —     │
-│             to read and write, replacing reliance on Chinese      │
-│             characters (漢字/한자) that only the elite knew       │
-│                                                                  │
-│   UNESCO:   Hunminjeongeum registered as Memory of the World     │
-│             (1997). Hangul Day: October 9 (한글날)                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The Birth of Hangul**
+>
+> - **Creator**: King Sejong the Great (세종대왕)
+> - **Year**: 1443 (invented), 1446 (promulgated)
+> - **Document**: Hunminjeongeum (훈민정음, "Correct Sounds for the Instruction of the People")
+>
+> - **Purpose**: Enable all Korean people — including commoners — to read and write, replacing reliance on Chinese characters (漢字/한자) that only the elite knew
+>
+> - **UNESCO**: Hunminjeongeum registered as Memory of the World (1997). Hangul Day: October 9 (한글날)
 
 Before Hangul, Koreans used Chinese characters (Hanja) for writing. Since Chinese characters are logographic and their grammar differs fundamentally from Korean, only the aristocratic class (양반, yangban) could read and write. The vast majority of the population was illiterate.
 
@@ -68,24 +60,20 @@ Hangul is often praised by linguists as one of the most scientifically designed 
 3. **Systematic expansion**: Related sounds are derived by adding strokes to base shapes
 4. **Featural alphabet**: Consonants that share the same place of articulation share the same base shape
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│           Consonant Design: Articulatory Basis                    │
-│                                                                  │
-│   ㄱ (g/k) — shape of the tongue touching the back of the mouth │
-│   ㄴ (n)   — shape of the tongue touching the front palate      │
-│   ㅁ (m)   — shape of the mouth (lips closed)                   │
-│   ㅅ (s)   — shape of a tooth                                   │
-│   ㅇ (ng)  — shape of the throat (circle = open)                │
-│                                                                  │
-│   These 5 base shapes generate all other consonants by adding   │
-│   strokes:  ㄱ → ㅋ (add stroke)  →  ㄲ (double)                │
-│             ㄴ → ㄷ → ㅌ (add strokes)                           │
-│             ㅁ → ㅂ → ㅍ (add strokes)                           │
-│             ㅅ → ㅈ → ㅊ (add strokes)                           │
-│             ㅇ → ㅎ (add strokes)                                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Consonant Design: Articulatory Basis**
+>
+> - **ㄱ (g/k)**: shape of the tongue touching the back of the mouth
+> - **ㄴ (n)**: shape of the tongue touching the front palate
+> - **ㅁ (m)**: shape of the mouth (lips closed)
+> - **ㅅ (s)**: shape of a tooth
+> - **ㅇ (ng)**: shape of the throat (circle = open)
+>
+> These 5 base shapes generate all other consonants by adding strokes:
+> - ㄱ → ㅋ (add stroke) → ㄲ (double)
+> - ㄴ → ㄷ → ㅌ (add strokes)
+> - ㅁ → ㅂ → ㅍ (add strokes)
+> - ㅅ → ㅈ → ㅊ (add strokes)
+> - ㅇ → ㅎ (add strokes)
 
 ---
 
@@ -114,23 +102,19 @@ Korean has 14 basic consonants (자음, jaeum). Each consonant has an initial so
 
 A key concept in Korean consonants is the **three-way contrast** among stop consonants. English has two (voiced/voiceless), but Korean has three:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Korean Three-Way Stop Contrast                       │
-│                                                                  │
-│   Plain (Lax)     Aspirated         Tense (Double)               │
-│   ───────────     ─────────         ───────────────              │
-│   ㄱ /k/          ㅋ /kʰ/           ㄲ /k͈/                      │
-│   ㄷ /t/          ㅌ /tʰ/           ㄸ /t͈/                      │
-│   ㅂ /p/          ㅍ /pʰ/           ㅃ /p͈/                      │
-│   ㅈ /tɕ/         ㅊ /tɕʰ/          ㅉ /t͈ɕ/                     │
-│   ㅅ /s/          —                 ㅆ /s͈/                      │
-│                                                                  │
-│   Plain:     Low aspiration, can voice between voiced sounds     │
-│   Aspirated: Strong puff of air (hold paper in front of mouth)  │
-│   Tense:     Stiff vocal cords, no aspiration, "pressed" sound  │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Three-Way Stop Contrast**
+>
+> | Plain (Lax) | Aspirated | Tense (Double) |
+> |---|---|---|
+> | ㄱ /k/ | ㅋ /kʰ/ | ㄲ /k͈/ |
+> | ㄷ /t/ | ㅌ /tʰ/ | ㄸ /t͈/ |
+> | ㅂ /p/ | ㅍ /pʰ/ | ㅃ /p͈/ |
+> | ㅈ /tɕ/ | ㅊ /tɕʰ/ | ㅉ /t͈ɕ/ |
+> | ㅅ /s/ | — | ㅆ /s͈/ |
+>
+> - **Plain**: Low aspiration, can voice between voiced sounds
+> - **Aspirated**: Strong puff of air (hold paper in front of mouth)
+> - **Tense**: Stiff vocal cords, no aspiration, "pressed" sound
 
 > **Tip**: Place your hand in front of your mouth. For ㅋ (aspirated), you should feel a strong puff of air. For ㄱ (plain) and ㄲ (tense), you should feel little to no air. The difference between plain and tense is in throat tension — tense consonants feel "squeezed."
 
@@ -167,28 +151,24 @@ Korean has 10 basic vowels (모음, moeum). They are organized around two princi
 1. **Dot/stroke position** relative to the vertical or horizontal base line
 2. **Yin-Yang contrast**: bright vowels (양성모음: ㅏ, ㅗ, ㅑ, ㅛ) vs. dark vowels (음성모음: ㅓ, ㅜ, ㅕ, ㅠ) vs. neutral (ㅡ, ㅣ)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                  Hangul Vowel Design Principle                    │
-│                                                                  │
-│   Three cosmological elements:                                   │
-│                                                                  │
-│     ● (dot/short stroke) = Heaven (하늘, ㆍ — archaic vowel)    │
-│     ─ (horizontal line)  = Earth (땅, ㅡ)                        │
-│     │ (vertical line)     = Human (사람, ㅣ)                      │
-│                                                                  │
-│   Combinations of ● with ─ or │ produce the basic vowels:       │
-│                                                                  │
-│     Bright (양성):           Dark (음성):                         │
-│     ㅏ  (│+ ● right)        ㅓ  (● left + │)                     │
-│     ㅗ  (● above + ─)       ㅜ  (─ + ● below)                    │
-│     ㅑ  (│+ ●● right)       ㅕ  (●● left + │)                    │
-│     ㅛ  (●● above + ─)      ㅠ  (─ + ●● below)                   │
-│                                                                  │
-│   Neutral:                                                       │
-│     ㅡ  (─)                 ㅣ  (│)                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Hangul Vowel Design Principle**
+>
+> Three cosmological elements:
+>
+> - ● (dot/short stroke) = Heaven (하늘, ㆍ — archaic vowel)
+> - ─ (horizontal line) = Earth (땅, ㅡ)
+> - │ (vertical line) = Human (사람, ㅣ)
+>
+> Combinations of ● with ─ or │ produce the basic vowels:
+>
+> | Bright (양성) | Dark (음성) |
+> |---|---|
+> | ㅏ (│+ ● right) | ㅓ (● left + │) |
+> | ㅗ (● above + ─) | ㅜ (─ + ● below) |
+> | ㅑ (│+ ●● right) | ㅕ (●● left + │) |
+> | ㅛ (●● above + ─) | ㅠ (─ + ●● below) |
+>
+> - **Neutral**: ㅡ (─), ㅣ (│)
 
 | Letter | Name | Romanization | IPA | Pronunciation Guide |
 |--------|------|-------------|-----|-------------------|
@@ -243,28 +223,11 @@ Compound vowels (이중 모음, ijung moeum) are formed by combining basic vowel
 
 Unlike alphabets where letters are written linearly (e.g., "han"), Korean groups letters into **syllable blocks** (음절 블록). Each block represents one syllable and occupies one character space.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                  Syllable Block Patterns                          │
-│                                                                  │
-│   Type 1: CV (Consonant + Vowel)                                 │
-│   ┌───┐    ┌───┬───┐    Example: 가 (ga)                        │
-│   │ C V│    │ ㄱ│ ㅏ│    ㄱ (g) + ㅏ (a) = 가                   │
-│   └───┘    └───┴───┘                                             │
-│                                                                  │
-│   Type 2: CVC (Consonant + Vowel + Consonant)                   │
-│   ┌───┐    ┌───┬───┐    Example: 한 (han)                       │
-│   │ C V│    │ ㅎ│ ㅏ│    ㅎ (h) + ㅏ (a) + ㄴ (n) = 한          │
-│   │ C  │    │  ㄴ  │                                             │
-│   └───┘    └─────┘                                               │
-│                                                                  │
-│   Type 3: CVCC (Consonant + Vowel + 2 Consonants)               │
-│   ┌───┐    ┌───┬───┐    Example: 삶 (salm → sam)                │
-│   │ C V│    │ ㅅ│ ㅏ│    ㅅ (s) + ㅏ (a) + ㄹㅁ (lm) = 삶       │
-│   │ CC │    │ ㄹㅁ │                                             │
-│   └───┘    └─────┘                                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Syllable Block Patterns**
+>
+> - **Type 1: CV** (Consonant + Vowel) — Example: 가 (ga) = ㄱ (g) + ㅏ (a)
+> - **Type 2: CVC** (Consonant + Vowel + Consonant) — Example: 한 (han) = ㅎ (h) + ㅏ (a) + ㄴ (n)
+> - **Type 3: CVCC** (Consonant + Vowel + 2 Consonants) — Example: 삶 (salm → sam) = ㅅ (s) + ㅏ (a) + ㄹㅁ (lm)
 
 ### 6.2 Block Layout Rules
 
@@ -321,21 +284,17 @@ Compound vowels (ㅘ ㅙ ㅚ ㅝ ㅞ ㅟ ㅢ):
 
 받침 (batchim, literally "support") refers to the consonant(s) at the bottom of a syllable block. While 19 consonants and 11 consonant clusters can appear as 받침, they are all pronounced as one of **only 7 representative sounds**:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              The 7 받침 Representative Sounds                     │
-│                                                                  │
-│   Sound [k̚]:  ㄱ ㅋ ㄲ ㄳ ㄺ                                    │
-│   Sound [n]:   ㄴ ㄵ ㄶ                                          │
-│   Sound [t̚]:  ㄷ ㅌ ㅅ ㅆ ㅈ ㅊ ㅎ                               │
-│   Sound [l]:   ㄹ ㄼ ㄽ ㄾ ㅀ                                    │
-│   Sound [m]:   ㅁ ㄻ                                             │
-│   Sound [p̚]:  ㅂ ㅍ ㄿ ㅄ                                       │
-│   Sound [ŋ]:   ㅇ                                                │
-│                                                                  │
-│   ̚ = unreleased (the sound stops but air is not released)       │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The 7 받침 Representative Sounds**
+>
+> - **Sound [k̚]**: ㄱ ㅋ ㄲ ㄳ ㄺ
+> - **Sound [n]**: ㄴ ㄵ ㄶ
+> - **Sound [t̚]**: ㄷ ㅌ ㅅ ㅆ ㅈ ㅊ ㅎ
+> - **Sound [l]**: ㄹ ㄼ ㄽ ㄾ ㅀ
+> - **Sound [m]**: ㅁ ㄻ
+> - **Sound [p̚]**: ㅂ ㅍ ㄿ ㅄ
+> - **Sound [ŋ]**: ㅇ
+>
+> ̚ = unreleased (the sound stops but air is not released)
 
 ### 7.2 Double 받침 (겹받침)
 
