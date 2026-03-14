@@ -115,26 +115,13 @@ These adjectives have the **same form** for masculine and feminine. They only ch
 
 ## 3. Complete Agreement Pattern
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              ADJECTIVE AGREEMENT SUMMARY                     │
-│                                                              │
-│  Adjective Type     M.sg   F.sg    M.pl     F.pl            │
-│  ────────────────   ─────  ─────   ──────   ──────          │
-│  4-form (-o/-a)     -o     -a      -i       -e              │
-│   (alto)            alto   alta    alti     alte             │
-│                                                              │
-│  2-form (-e)        -e     -e      -i       -i              │
-│   (grande)          grande grande  grandi   grandi           │
-│                                                              │
-│  -co/-ca            -co    -ca     -chi     -che             │
-│   (bianco)          bianco bianca  bianchi  bianche          │
-│                                                              │
-│  -go/-ga            -go    -ga     -ghi     -ghe             │
-│   (lungo)           lungo  lunga   lunghi   lunghe           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Adjective Agreement Summary**
+>
+> | Type | M.sg | F.sg | M.pl | F.pl |
+> | 4-form (-o/-a) | -o (alto) | -a (alta) | -i (alti) | -e (alte) |
+> | 2-form (-e) | -e (grande) | -e (grande) | -i (grandi) | -i (grandi) |
+> | -co/-ca | -co (bianco) | -ca (bianca) | -chi (bianchi) | -che (bianche) |
+> | -go/-ga | -go (lungo) | -ga (lunga) | -ghi (lunghi) | -ghe (lunghe) |
 
 ### Mixed-Gender Groups
 
@@ -290,21 +277,10 @@ Some adjectives change meaning depending on whether they come before or after th
 - Ci sono **più** turisti a Roma **che** a Napoli. (There are more tourists in Rome than in Naples.)
 - È **più facile** parlare **che** scrivere. (It's easier to speak than to write.)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   DI or CHE?                                                    │
-│                                                                 │
-│   PIÙ...DI = comparing TWO NOUNS/PRONOUNS (same quality)      │
-│   Maria è più alta DI Giovanni.                                │
-│   Questo è più caro DI quello.                                 │
-│                                                                 │
-│   PIÙ...CHE = comparing TWO QUALITIES (same subject)           │
-│             = before PREPOSITIONS, INFINITIVES, ADVERBS        │
-│   È più bello CHE intelligente.                                │
-│   Studia più a casa CHE in biblioteca.                         │
-│   È più facile leggere CHE scrivere.                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **DI or CHE?**
+>
+> - **PIÙ...DI** = comparing TWO NOUNS/PRONOUNS (same quality): Maria è più alta DI Giovanni. / Questo è più caro DI quello.
+> - **PIÙ...CHE** = comparing TWO QUALITIES (same subject), or before PREPOSITIONS, INFINITIVES, ADVERBS: È più bello CHE intelligente. / Studia più a casa CHE in biblioteca. / È più facile leggere CHE scrivere.
 
 ### 7.2 Less than (meno... di / meno... che)
 
@@ -567,24 +543,18 @@ Translate each pair, paying attention to adjective position.
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         ADJECTIVE AGREEMENT CHEAT SHEET                      │
-│                                                              │
-│  1. Match GENDER (masc/fem) and NUMBER (sg/pl)               │
-│  2. 4-form: -o/-a/-i/-e                                      │
-│  3. 2-form: -e/-i (same for m/f)                             │
-│  4. Default position: AFTER the noun                         │
-│  5. Before noun: quantity, order, beauty, size, age          │
-│  6. BELLO/QUELLO: mirror definite article forms              │
-│  7. BUONO: mirrors indefinite article forms (singular)       │
-│  8. Comparatives: più/meno...di (nouns), che (qualities)    │
-│  9. Superlative: il/la più/meno...di, -issimo/a             │
-│  10. Irregular: migliore/peggiore/maggiore/minore            │
-│                ottimo/pessimo/massimo/minimo                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **Adjective Agreement Cheat Sheet**
+>
+> 1. Match GENDER (masc/fem) and NUMBER (sg/pl)
+> 2. 4-form: -o/-a/-i/-e
+> 3. 2-form: -e/-i (same for m/f)
+> 4. Default position: AFTER the noun
+> 5. Before noun: quantity, order, beauty, size, age
+> 6. BELLO/QUELLO: mirror definite article forms
+> 7. BUONO: mirrors indefinite article forms (singular)
+> 8. Comparatives: più/meno...di (nouns), che (qualities)
+> 9. Superlative: il/la più/meno...di, -issimo/a
+> 10. Irregular: migliore/peggiore/maggiore/minore, ottimo/pessimo/massimo/minimo
 
 ---
 
