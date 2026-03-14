@@ -1,0 +1,462 @@
+lesson: 03_People_Body_and_Actions
+lesson_number: 3
+hanja_level: L5
+categories:
+- id: people_characters
+  label:
+    en: People Characters
+    ko: 사람 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 人
+    reading: 인
+    meaning_kun: 사람
+    translation:
+      en: person
+      ko: 사람
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a person standing sideways."
+      ko: "옆으로 선 사람의 상형자."
+  - classical_chinese: 女
+    reading: 녀
+    meaning_kun: 계집
+    translation:
+      en: woman
+      ko: 여자
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a kneeling woman with crossed arms."
+      ko: "팔을 교차하고 무릎 꿇은 여인의 상형자."
+  - classical_chinese: 子
+    reading: 자
+    meaning_kun: 아들
+    translation:
+      en: child; son
+      ko: 아들; 아이
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of an infant. Also an honorific suffix for philosophers."
+      ko: "아기의 상형자. 철학자에 대한 존칭 접미사로도 사용."
+  - classical_chinese: 父
+    reading: 부
+    meaning_kun: 아비
+    translation:
+      en: father
+      ko: 아버지
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a hand holding a stone axe, symbolizing paternal authority."
+      ko: "돌도끼를 든 손의 상형자로, 아버지의 권위를 상징."
+  - classical_chinese: 母
+    reading: 모
+    meaning_kun: 어미
+    translation:
+      en: mother
+      ko: 어머니
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a woman (女) with dots indicating breasts. Nurturing mother."
+      ko: "여인(女)에 젖가슴을 나타내는 점을 더한 상형자."
+  - classical_chinese: 兄
+    reading: 형
+    meaning_kun: 맏
+    translation:
+      en: elder brother
+      ko: 형
+    gender: null
+    plural: null
+    notes:
+      en: "Person with a large mouth (口) on top, symbolizing one who speaks with authority."
+      ko: "큰 입(口)이 위에 있는 사람. 권위를 가지고 말하는 사람을 상징."
+  - classical_chinese: 弟
+    reading: 제
+    meaning_kun: 아우
+    translation:
+      en: younger brother
+      ko: 아우; 동생
+    gender: null
+    plural: null
+    notes:
+      en: "Depicts a thread wound around a spool, implying sequence and subordination."
+      ko: "실패에 감긴 실을 나타내어, 순서와 아래 지위를 암시."
+  - classical_chinese: 王
+    reading: 왕
+    meaning_kun: 임금
+    translation:
+      en: king; ruler
+      ko: 임금; 왕
+    gender: null
+    plural: null
+    notes:
+      en: "Three horizontal strokes (heaven, earth, mankind) connected by a vertical stroke."
+      ko: "세 가로획(하늘, 땅, 사람)을 세로획으로 연결한 글자."
+  - classical_chinese: 臣
+    reading: 신
+    meaning_kun: 신하
+    translation:
+      en: minister; subject
+      ko: 신하
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of an eye looking downward, symbolizing submission."
+      ko: "아래를 보는 눈의 상형자로, 복종을 상징."
+  - classical_chinese: 民
+    reading: 민
+    meaning_kun: 백성
+    translation:
+      en: people; citizens
+      ko: 백성
+    gender: null
+    plural: null
+    notes:
+      en: "Depicts the common people. Originally may have shown an eye being pierced (slave)."
+      ko: "일반 백성을 나타냄. 원래 눈이 찔리는 모양(노예)이었을 수 있음."
+  - classical_chinese: 夫
+    reading: 부
+    meaning_kun: 지아비
+    translation:
+      en: husband; man
+      ko: 남편; 장부
+    gender: null
+    plural: null
+    notes:
+      en: "Adult man (大) with a hairpin (一) on top, indicating adulthood."
+      ko: "성인 남자(大) 위에 비녀(一)를 꽂은 모양. 성인임을 나타냄."
+  - classical_chinese: 友
+    reading: 우
+    meaning_kun: 벗
+    translation:
+      en: friend
+      ko: 벗; 친구
+    gender: null
+    plural: null
+    notes:
+      en: "Two right hands (又) together, symbolizing cooperation and friendship."
+      ko: "두 오른손(又)이 함께하는 모양. 협력과 우정을 상징."
+  - classical_chinese: 師
+    reading: 사
+    meaning_kun: 스승
+    translation:
+      en: teacher; master
+      ko: 스승
+    gender: null
+    plural: null
+    notes:
+      en: "Originally meant an army division; extended to mean 'teacher' or 'master'."
+      ko: "원래 군대를 뜻했으나 '스승'의 뜻으로 확장됨."
+- id: body_characters
+  label:
+    en: Body Characters
+    ko: 신체 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 口
+    reading: 구
+    meaning_kun: 입
+    translation:
+      en: mouth
+      ko: 입
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of an open mouth."
+      ko: "벌린 입의 상형자."
+  - classical_chinese: 手
+    reading: 수
+    meaning_kun: 손
+    translation:
+      en: hand
+      ko: 손
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a hand with five fingers."
+      ko: "다섯 손가락이 있는 손의 상형자."
+  - classical_chinese: 足
+    reading: 족
+    meaning_kun: 발
+    translation:
+      en: foot; leg
+      ko: 발
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a leg and foot. Also means 'sufficient'."
+      ko: "다리와 발의 상형자. '충분하다'는 뜻도 있음."
+  - classical_chinese: 目
+    reading: 목
+    meaning_kun: 눈
+    translation:
+      en: eye
+      ko: 눈
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of an eye turned vertically."
+      ko: "세로로 세운 눈의 상형자."
+  - classical_chinese: 耳
+    reading: 이
+    meaning_kun: 귀
+    translation:
+      en: ear
+      ko: 귀
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of an ear."
+      ko: "귀의 상형자."
+  - classical_chinese: 心
+    reading: 심
+    meaning_kun: 마음
+    translation:
+      en: heart; mind
+      ko: 마음
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a heart. Represents both the physical organ and the mind."
+      ko: "심장의 상형자. 신체 기관과 정신을 모두 나타냄."
+  - classical_chinese: 頭
+    reading: 두
+    meaning_kun: 머리
+    translation:
+      en: head
+      ko: 머리
+    gender: null
+    plural: null
+    notes:
+      en: "Page radical (頁) + 豆 (sound). The head of the body."
+      ko: "머리 부수(頁) + 豆(음). 신체의 머리."
+  - classical_chinese: 身
+    reading: 신
+    meaning_kun: 몸
+    translation:
+      en: body; self
+      ko: 몸
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a pregnant woman, representing the body."
+      ko: "임신한 여인의 상형자로, 몸을 나타냄."
+  - classical_chinese: 面
+    reading: 면
+    meaning_kun: 낯
+    translation:
+      en: face; surface
+      ko: 얼굴; 면
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a face with an eye in the center."
+      ko: "가운데에 눈이 있는 얼굴의 상형자."
+  - classical_chinese: 骨
+    reading: 골
+    meaning_kun: 뼈
+    translation:
+      en: bone
+      ko: 뼈
+    gender: null
+    plural: null
+    notes:
+      en: "Depicts bones. The lower part (月/肉) relates to flesh."
+      ko: "뼈를 나타냄. 아랫부분(月/肉)은 살과 관련됨."
+  - classical_chinese: 血
+    reading: 혈
+    meaning_kun: 피
+    translation:
+      en: blood
+      ko: 피
+    gender: null
+    plural: null
+    notes:
+      en: "A vessel (皿) containing a drop of blood. Represents blood."
+      ko: "그릇(皿)에 핏방울이 담긴 모양. 피를 나타냄."
+- id: action_characters
+  label:
+    en: Action Characters
+    ko: 동작 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 行
+    reading: 행
+    meaning_kun: 다닐
+    translation:
+      en: to go; to walk; to act
+      ko: 가다; 다니다; 행하다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a crossroads. Means 'to go' or 'to act'."
+      ko: "사거리의 상형자. '가다' 또는 '행하다'를 뜻함."
+  - classical_chinese: 走
+    reading: 주
+    meaning_kun: 달릴
+    translation:
+      en: to run
+      ko: 달리다
+    gender: null
+    plural: null
+    notes:
+      en: "Person (大) running with feet (止) below."
+      ko: "사람(大)이 발(止)로 달리는 모양."
+  - classical_chinese: 立
+    reading: 립
+    meaning_kun: 설
+    translation:
+      en: to stand
+      ko: 서다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a person standing on the ground."
+      ko: "땅 위에 선 사람의 상형자."
+  - classical_chinese: 坐
+    reading: 좌
+    meaning_kun: 앉을
+    translation:
+      en: to sit
+      ko: 앉다
+    gender: null
+    plural: null
+    notes:
+      en: "Two people (人人) sitting on the earth (土)."
+      ko: "두 사람(人人)이 땅(土) 위에 앉아 있는 모양."
+  - classical_chinese: 食
+    reading: 식
+    meaning_kun: 밥
+    translation:
+      en: to eat; food
+      ko: 먹다; 음식
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a vessel of food with a lid. Means 'food' or 'to eat'."
+      ko: "뚜껑이 있는 음식 그릇의 상형자. '음식' 또는 '먹다'를 뜻함."
+  - classical_chinese: 飲
+    reading: 음
+    meaning_kun: 마실
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    plural: null
+    notes:
+      en: "Food radical (食) + 欠 (yawning/mouth open). Opening mouth to drink."
+      ko: "음식 부수(食) + 欠(입 벌리다). 입을 벌려 마시는 모양."
+  - classical_chinese: 見
+    reading: 견
+    meaning_kun: 볼
+    translation:
+      en: to see; to appear
+      ko: 보다; 나타나다
+    gender: null
+    plural: null
+    notes:
+      en: "Eye (目) on legs (儿). A person looking."
+      ko: "눈(目)에 다리(儿)가 달린 모양. 사람이 보는 것."
+  - classical_chinese: 聞
+    reading: 문
+    meaning_kun: 들을
+    translation:
+      en: to hear; to learn
+      ko: 듣다; 배우다
+    gender: null
+    plural: null
+    notes:
+      en: "Ear (耳) at a gate (門). Listening at the gate."
+      ko: "문(門)에서 귀(耳)를 기울이는 모양."
+  - classical_chinese: 言
+    reading: 언
+    meaning_kun: 말씀
+    translation:
+      en: to speak; words
+      ko: 말하다; 말
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a tongue with words coming from a mouth."
+      ko: "입에서 말이 나오는 혀의 상형자."
+  - classical_chinese: 書
+    reading: 서
+    meaning_kun: 글
+    translation:
+      en: to write; book
+      ko: 쓰다; 책
+    gender: null
+    plural: null
+    notes:
+      en: "Hand holding a brush (聿) + mouth (曰). Writing down words."
+      ko: "붓을 든 손(聿) + 입(曰). 말을 기록하는 것."
+  - classical_chinese: 讀
+    reading: 독
+    meaning_kun: 읽을
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "Words radical (言) + 賣 (sound). To read aloud."
+      ko: "말씀 부수(言) + 賣(음). 소리 내어 읽다."
+  - classical_chinese: 寫
+    reading: 사
+    meaning_kun: 베낄
+    translation:
+      en: to copy; to write
+      ko: 베끼다; 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "Roof radical (宀) + 舄. Originally meant 'to pour out'; extended to 'to copy/write'."
+      ko: "지붕 부수(宀) + 舄. 원래 '쏟아내다'를 뜻했으나 '베끼다/쓰다'로 확장됨."
+  - classical_chinese: 學
+    reading: 학
+    meaning_kun: 배울
+    translation:
+      en: to learn; to study
+      ko: 배우다
+    gender: null
+    plural: null
+    notes:
+      en: "Hands manipulating counting rods (爻) over a child (子). Learning."
+      ko: "아이(子) 위에서 산대(爻)를 다루는 손의 모양. 배움."
+  - classical_chinese: 敎
+    reading: 교
+    meaning_kun: 가르칠
+    translation:
+      en: to teach
+      ko: 가르치다
+    gender: null
+    plural: null
+    notes:
+      en: "Child learning (孝) + striking hand (攵). Teaching by guidance."
+      ko: "아이가 배우는 모양(孝) + 치는 손(攵). 지도하여 가르침."
+  - classical_chinese: 打
+    reading: 타
+    meaning_kun: 칠
+    translation:
+      en: to hit; to strike
+      ko: 치다; 때리다
+    gender: null
+    plural: null
+    notes:
+      en: "Hand radical (扌) + 丁 (sound). To strike with the hand."
+      ko: "손 부수(扌) + 丁(음). 손으로 치다."
+  - classical_chinese: 作
+    reading: 작
+    meaning_kun: 지을
+    translation:
+      en: to make; to do
+      ko: 짓다; 만들다
+    gender: null
+    plural: null
+    notes:
+      en: "Person radical (亻) + 乍 (sound). A person making something."
+      ko: "사람 부수(亻) + 乍(음). 사람이 무언가를 만드는 것."
