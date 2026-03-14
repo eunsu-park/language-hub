@@ -29,19 +29,13 @@
 
 접속사(연결어, 전환어, 담화 표지라고도 함)는 아이디어 간의 **논리적 관계**를 보여주는 단어와 구문입니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   접속사 없이 (끊어지는 느낌):                                     │
-│   "I studied hard. I failed the exam. I was disappointed."      │
-│                                                                 │
-│   접속사 사용 (매끄러운 흐름):                                     │
-│   "Although I studied hard, I failed the exam.                  │
-│    Consequently, I was very disappointed."                      │
-│                                                                 │
-│   접속사는 응집성(COHESION)을 만듭니다 — 글과 말이                   │
-│   논리적이고 자연스럽게 흘러가게 합니다.                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 접속사 없이 (끊어지는 느낌):
+> "I studied hard. I failed the exam. I was disappointed."
+> 접속사 사용 (매끄러운 흐름):
+> "Although I studied hard, I failed the exam.
+> Consequently, I was very disappointed."
+> 접속사는 응집성(COHESION)을 만듭니다 — 글과 말이
+> 논리적이고 자연스럽게 흘러가게 합니다.
 
 ### 1.2 접속사의 유형
 
@@ -78,27 +72,25 @@
 
 ### 2.1 유사한 아이디어 추가하기
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ 접속사                │ 격식 수준  │ 예문                          │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ and                  │ 중립      │ "She sings and dances."      │
-│ also                 │ 중립      │ "He also speaks French."     │
-│ too                  │ 비격식    │ "I like it too."             │
-│ as well              │ 비격식    │ "She's coming as well."      │
-│ in addition          │ 격식      │ "In addition, the study      │
-│                      │           │  found that..."              │
-│ moreover             │ 격식      │ "Moreover, the data          │
-│                      │           │  suggests..."                │
-│ furthermore          │ 격식      │ "Furthermore, we must        │
-│                      │           │  consider..."                │
-│ besides              │ 중립      │ "Besides, it's too expensive."│
-│ what's more          │ 비격식    │ "What's more, she's smart."  │
-│ on top of that       │ 비격식    │ "On top of that, he lied."   │
-│ not only...but also  │ 중립      │ "Not only is she smart,      │
-│                      │           │  but she's also kind."       │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | 접속사 | 격식 수준 | 예문 |
+> |---|---|---|
+> | and | 중립 | "She sings and dances." |
+> | also | 중립 | "He also speaks French." |
+> | too | 비격식 | "I like it too." |
+> | as well | 비격식 | "She's coming as well." |
+> | in addition | 격식 | "In addition, the study |
+> | found that..." |  |  |
+> | moreover | 격식 | "Moreover, the data |
+> | suggests..." |  |  |
+> | furthermore | 격식 | "Furthermore, we must |
+> | consider..." |  |  |
+> | besides | 중립 | "Besides, it's too expensive." |
+> | what's more | 비격식 | "What's more, she's smart." |
+> | on top of that | 비격식 | "On top of that, he lied." |
+> | not only...but also | 중립 | "Not only is she smart, |
+> | but she's also kind." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 2.2 부사적 접속사의 구두점
 
@@ -125,58 +117,49 @@
 
 ### 3.1 대조 표현
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ 접속사                │ 격식 수준  │ 예문                          │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ but                  │ 중립      │ "It's old but reliable."     │
-│ yet                  │ 중립      │ "She's young, yet wise."     │
-│ however              │ 격식      │ "However, the results        │
-│                      │           │  were inconclusive."         │
-│ nevertheless         │ 격식      │ "Nevertheless, we must       │
-│                      │           │  proceed."                   │
-│ nonetheless          │ 격식      │ "Nonetheless, the study      │
-│                      │           │  has limitations."           │
-│ on the other hand    │ 중립      │ "On the other hand,          │
-│                      │           │  some disagree."             │
-│ in contrast          │ 격식      │ "In contrast, Group B        │
-│                      │           │  showed no improvement."     │
-│ on the contrary      │ 격식      │ "On the contrary, the        │
-│                      │           │  results were positive."     │
-│ while / whereas      │ 중립      │ "While he prefers tea,       │
-│                      │           │  she prefers coffee."        │
-│ instead              │ 중립      │ "Let's walk instead."        │
-│ still                │ 중립      │ "It was hard. Still, I       │
-│                      │           │  managed."                   │
-│ even so              │ 중립      │ "It rained. Even so, we      │
-│                      │           │  went out."                  │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | 접속사 | 격식 수준 | 예문 |
+> |---|---|---|
+> | but | 중립 | "It's old but reliable." |
+> | yet | 중립 | "She's young, yet wise." |
+> | however | 격식 | "However, the results |
+> | were inconclusive." |  |  |
+> | nevertheless | 격식 | "Nevertheless, we must |
+> | proceed." |  |  |
+> | nonetheless | 격식 | "Nonetheless, the study |
+> | has limitations." |  |  |
+> | on the other hand | 중립 | "On the other hand, |
+> | some disagree." |  |  |
+> | in contrast | 격식 | "In contrast, Group B |
+> | showed no improvement." |  |  |
+> | on the contrary | 격식 | "On the contrary, the |
+> | results were positive." |  |  |
+> | while / whereas | 중립 | "While he prefers tea, |
+> | she prefers coffee." |  |  |
+> | instead | 중립 | "Let's walk instead." |
+> | still | 중립 | "It was hard. Still, I |
+> | managed." |  |  |
+> | even so | 중립 | "It rained. Even so, we |
+> | went out." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 3.2 양보 (Despite / Although)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   양보: 한 점을 인정하면서도 반대되는 것을 진술                      │
-│                                                                 │
-│   접속사 (+ 절):                                                  │
-│   although / even though / though + 주어 + 동사                   │
-│   "Although it was raining, we went for a walk."                │
-│   "Even though she was tired, she kept working."                │
-│   "I enjoyed it, though it was long." (비격식, 끝 위치)          │
-│                                                                 │
-│   전치사 (+ 명사/동명사):                                         │
-│   despite / in spite of + 명사/-ing                              │
-│   "Despite the rain, we went for a walk."                       │
-│   "In spite of being tired, she kept working."                  │
-│                                                                 │
-│   흔한 오류:                                                     │
-│   ✗ "Despite she was tired..." (절이 따라올 수 없음)              │
-│   ✓ "Despite being tired..." (명사/동명사가 따라와야 함)           │
-│   ✓ "Despite the fact that she was tired..." (우회 표현)          │
-│   ✓ "Although she was tired..." (절에는 접속사 사용)               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 양보: 한 점을 인정하면서도 반대되는 것을 진술
+> 접속사 (+ 절):
+> although / even though / though + 주어 + 동사
+> "Although it was raining, we went for a walk."
+> "Even though she was tired, she kept working."
+> "I enjoyed it, though it was long." (비격식, 끝 위치)
+> 전치사 (+ 명사/동명사):
+> despite / in spite of + 명사/-ing
+> "Despite the rain, we went for a walk."
+> "In spite of being tired, she kept working."
+> 흔한 오류:
+> ✗ "Despite she was tired..." (절이 따라올 수 없음)
+> ✓ "Despite being tired..." (명사/동명사가 따라와야 함)
+> ✓ "Despite the fact that she was tired..." (우회 표현)
+> ✓ "Although she was tired..." (절에는 접속사 사용)
 
 ---
 
@@ -184,31 +167,29 @@
 
 ### 4.1 원인 표현
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ 접속사                │ 격식 수준  │ 예문                          │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ because              │ 중립      │ "I stayed home because it    │
-│                      │           │  was raining."               │
-│ since                │ 중립/격식  │ "Since you're here, let's    │
-│                      │           │  start."                     │
-│ as                   │ 중립/격식  │ "As it was late, we left."   │
-│ because of           │ 중립      │ "Because of the traffic,     │
-│                      │           │  I was late."                │
-│ due to               │ 격식      │ "Due to the pandemic,        │
-│                      │           │  classes moved online."      │
-│ owing to             │ 격식      │ "Owing to the delay, we      │
-│                      │           │  missed our flight."         │
-│ on account of        │ 격식      │ "On account of his age, he   │
-│                      │           │  retired."                   │
-│ thanks to            │ 중립      │ "Thanks to her help, I       │
-│                      │           │  passed."                    │
-│ for (접속사)          │ 격식/문어  │ "We must act quickly, for    │
-│                      │           │  time is running out."       │
-│ seeing that /        │ 비격식    │ "Seeing that everyone is     │
-│ seeing as            │           │  here, let's begin."         │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | 접속사 | 격식 수준 | 예문 |
+> |---|---|---|
+> | because | 중립 | "I stayed home because it |
+> | was raining." |  |  |
+> | since | 중립/격식 | "Since you're here, let's |
+> | start." |  |  |
+> | as | 중립/격식 | "As it was late, we left." |
+> | because of | 중립 | "Because of the traffic, |
+> | I was late." |  |  |
+> | due to | 격식 | "Due to the pandemic, |
+> | classes moved online." |  |  |
+> | owing to | 격식 | "Owing to the delay, we |
+> | missed our flight." |  |  |
+> | on account of | 격식 | "On account of his age, he |
+> | retired." |  |  |
+> | thanks to | 중립 | "Thanks to her help, I |
+> | passed." |  |  |
+> | for (접속사) | 격식/문어 | "We must act quickly, for |
+> | time is running out." |  |  |
+> | seeing that / | 비격식 | "Seeing that everyone is |
+> | seeing as | here, let's begin." |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ### 4.2 "Because" vs "Because of"
 
@@ -232,33 +213,31 @@ because of + 명사 / 명사구 / 동명사:
 
 ### 5.1 결과 표현
 
-```
-┌──────────────────────┬───────────┬──────────────────────────────┐
-│ 접속사                │ 격식 수준  │ 예문                          │
-├──────────────────────┼───────────┼──────────────────────────────┤
-│ so                   │ 중립      │ "It rained, so we stayed     │
-│                      │           │  inside."                    │
-│ therefore            │ 격식      │ "Therefore, we can conclude  │
-│                      │           │  that..."                    │
-│ consequently         │ 격식      │ "Consequently, the project   │
-│                      │           │  was delayed."               │
-│ as a result          │ 격식      │ "As a result, sales dropped  │
-│                      │           │  by 20%."                    │
-│ thus                 │ 격식      │ "Thus, the hypothesis was    │
-│                      │           │  confirmed."                 │
-│ hence                │ 격식      │ "Hence, further research     │
-│                      │           │  is needed."                 │
-│ accordingly          │ 격식      │ "Accordingly, the budget     │
-│                      │           │  was increased."             │
-│ for this reason      │ 중립      │ "For this reason, I declined │
-│                      │           │  the offer."                 │
-│ that's why           │ 비격식    │ "That's why I was late."     │
-│ so...that            │ 중립      │ "It was so cold that the     │
-│                      │           │  pipes froze."               │
-│ such...that          │ 중립      │ "It was such a good movie    │
-│                      │           │  that I watched it twice."   │
-└──────────────────────┴───────────┴──────────────────────────────┘
-```
+> | 접속사 | 격식 수준 | 예문 |
+> |---|---|---|
+> | so | 중립 | "It rained, so we stayed |
+> | inside." |  |  |
+> | therefore | 격식 | "Therefore, we can conclude |
+> | that..." |  |  |
+> | consequently | 격식 | "Consequently, the project |
+> | was delayed." |  |  |
+> | as a result | 격식 | "As a result, sales dropped |
+> | by 20%." |  |  |
+> | thus | 격식 | "Thus, the hypothesis was |
+> | confirmed." |  |  |
+> | hence | 격식 | "Hence, further research |
+> | is needed." |  |  |
+> | accordingly | 격식 | "Accordingly, the budget |
+> | was increased." |  |  |
+> | for this reason | 중립 | "For this reason, I declined |
+> | the offer." |  |  |
+> | that's why | 비격식 | "That's why I was late." |
+> | so...that | 중립 | "It was so cold that the |
+> | pipes froze." |  |  |
+> | such...that | 중립 | "It was such a good movie |
+> | that I watched it twice." |  |  |
+>
+> ├──────────────────────┼───────────┼──────────────────────────────┤
 
 ---
 
@@ -339,20 +318,15 @@ for the purpose of    "For the purpose of this study, we
 
 ### 8.1 격식(Register)이란?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   격식(Register) = 언어의 공식성 수준                              │
-│                                                                 │
-│   격식체:  학술 논문, 비즈니스 이메일, 공식 문서                     │
-│   중립체:  뉴스 기사, 일반 글쓰기, 직장                            │
-│   비격식체: 일상 대화, 문자, 소셜 미디어                            │
-│                                                                 │
-│   잘못된 격식 수준을 선택하면:                                      │
-│   • 너무 딱딱함 (일상 대화에서 격식체)                               │
-│   • 너무 가벼움 (비즈니스 이메일에서 비격식체)                        │
-│   • 부적절함 (학술 논문에서 속어)                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **격식(Register) = 언어의 공식성 수준**
+>
+> 격식체:  학술 논문, 비즈니스 이메일, 공식 문서
+> 중립체:  뉴스 기사, 일반 글쓰기, 직장
+> 비격식체: 일상 대화, 문자, 소셜 미디어
+> 잘못된 격식 수준을 선택하면:
+> • 너무 딱딱함 (일상 대화에서 격식체)
+> • 너무 가벼움 (비즈니스 이메일에서 비격식체)
+> • 부적절함 (학술 논문에서 속어)
 
 ### 8.2 격식체 vs 비격식체 어휘
 
@@ -430,22 +404,16 @@ for the purpose of    "For the purpose of this study, we
 
 완화 표현은 절대적 주장을 피하기 위해 신중하고 조심스러운 언어를 사용하는 것입니다. 학술 및 전문적 의사소통에서 필수적입니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   완화 표현 없이 (너무 강함):                                      │
-│   "Social media causes depression."                             │
-│                                                                 │
-│   완화 표현 사용 (적절히 조심스러움):                                │
-│   "Social media may contribute to depression."                  │
-│   "Research suggests that social media could be linked to       │
-│    depression."                                                 │
-│   "It appears that excessive social media use is associated     │
-│    with higher rates of depression."                            │
-│                                                                 │
-│   한국어 학술 글쓰기는 더 직접적인 경향이 있습니다.                   │
-│   영어 학술 글쓰기에서는 완화 표현이 기대됩니다!                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 완화 표현 없이 (너무 강함):
+> "Social media causes depression."
+> 완화 표현 사용 (적절히 조심스러움):
+> "Social media may contribute to depression."
+> "Research suggests that social media could be linked to
+> depression."
+> "It appears that excessive social media use is associated
+> with higher rates of depression."
+> 한국어 학술 글쓰기는 더 직접적인 경향이 있습니다.
+> 영어 학술 글쓰기에서는 완화 표현이 기대됩니다!
 
 ### 9.2 완화 표현 도구
 
@@ -555,31 +523,23 @@ for the purpose of    "For the purpose of this study, we
 
 ### 11.1 흔한 문제점
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. "and"와 "but"의 과다 사용                                    │
-│      한국어 화자는 모든 것을 그리고/하지만으로 연결하는 경향           │
-│      영어에는 훨씬 다양한 접속사가 있습니다!                         │
-│                                                                 │
-│   2. 격식 수준 혼동                                               │
-│      한국어에는 명확한 격식 수준이 있음 (존댓말/반말)                  │
-│      영어의 격식은 문법보다 단어 선택에 더 관련됨                     │
-│                                                                 │
-│   3. 학술 글쓰기에서 완화 표현 누락                                 │
-│      한국어 학술 스타일은 더 직접적일 수 있음                         │
-│      영어 학술 글쓰기에는 완화 표현이 필요                           │
-│                                                                 │
-│   4. 쉼표 접합 오류                                               │
-│      ✗ "I was tired, however I kept working."                    │
-│      ✓ "I was tired; however, I kept working."                   │
-│      ✓ "I was tired. However, I kept working."                   │
-│                                                                 │
-│   5. despite/although 혼동                                       │
-│      ✗ "Despite I was tired, I kept working."                    │
-│      ✓ "Despite being tired, I kept working."                    │
-│      ✓ "Although I was tired, I kept working."                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 1. "and"와 "but"의 과다 사용
+> 한국어 화자는 모든 것을 그리고/하지만으로 연결하는 경향
+> 영어에는 훨씬 다양한 접속사가 있습니다!
+> 2. 격식 수준 혼동
+> 한국어에는 명확한 격식 수준이 있음 (존댓말/반말)
+> 영어의 격식은 문법보다 단어 선택에 더 관련됨
+> 3. 학술 글쓰기에서 완화 표현 누락
+> 한국어 학술 스타일은 더 직접적일 수 있음
+> 영어 학술 글쓰기에는 완화 표현이 필요
+> 4. 쉼표 접합 오류
+> ✗ "I was tired, however I kept working."
+> ✓ "I was tired; however, I kept working."
+> ✓ "I was tired. However, I kept working."
+> 5. despite/although 혼동
+> ✗ "Despite I was tired, I kept working."
+> ✓ "Despite being tired, I kept working."
+> ✓ "Although I was tired, I kept working."
 
 ### 11.2 한국어 접속사 대응 표현
 
@@ -734,33 +694,26 @@ to maintain its growth.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              접속사와 격식 빠른 가이드                              │
-│              Connectors & Register Quick Guide                  │
-│                                                                 │
-│   추가:     and, also, moreover, furthermore, in addition       │
-│   대조:     but, however, nevertheless, although, despite       │
-│   원인:     because, since, due to, owing to                    │
-│   결과:     so, therefore, consequently, as a result            │
-│   시간:     when, while, before, after, then, finally           │
-│                                                                 │
-│   문법 규칙:                                                     │
-│   • 접속사는 절을 연결: because, although, while                  │
-│   • 부사는 문장을 수식: however, therefore, moreover              │
-│   • 전치사 + 명사/동명사: despite, because of, due to            │
-│   • 부사로 쉼표 접합 금지!                                        │
-│     ✗ "I'm tired, however I'll stay."                           │
-│     ✓ "I'm tired; however, I'll stay."                          │
-│                                                                 │
-│   격식 수준:                                                     │
-│   격식: moreover, nevertheless, consequently, furthermore       │
-│   비격식: also, but, so, and, plus, anyway                      │
-│                                                                 │
-│   완화 표현: may, might, could, seems, suggests, appears,       │
-│   tends to, it is possible that, to some extent                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **접속사와 격식 빠른 가이드**
+>
+> Connectors & Register Quick Guide
+> 추가:     and, also, moreover, furthermore, in addition
+> 대조:     but, however, nevertheless, although, despite
+> 원인:     because, since, due to, owing to
+> 결과:     so, therefore, consequently, as a result
+> 시간:     when, while, before, after, then, finally
+> 문법 규칙:
+> • 접속사는 절을 연결: because, although, while
+> • 부사는 문장을 수식: however, therefore, moreover
+> • 전치사 + 명사/동명사: despite, because of, due to
+> • 부사로 쉼표 접합 금지!
+> ✗ "I'm tired, however I'll stay."
+> ✓ "I'm tired; however, I'll stay."
+> 격식 수준:
+> 격식: moreover, nevertheless, consequently, furthermore
+> 비격식: also, but, so, and, plus, anyway
+> 완화 표현: may, might, could, seems, suggests, appears,
+> tends to, it is possible that, to some extent
 
 ---
 
