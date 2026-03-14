@@ -25,27 +25,20 @@
 
 ### 1.1 근본적 차이
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어: 후치사 (조사) — 명사 뒤에 위치                          │
-│   학교에    학교에서    학교로    학교까지                          │
-│   school+에  school+에서  school+으로  school+까지                │
-│                                                                 │
-│   영어: 전치사 — 명사 앞에 위치                                   │
-│   at school   in school   to school   from school               │
-│   AT+school   IN+school   TO+school   FROM+school               │
-│                                                                 │
-│   한국어: 명사 + 조사 (학교 + 에)                                 │
-│   영어: 전치사 + 명사 (at + school)                               │
-│   → 순서가 반대!                                                 │
-│                                                                 │
-│   ※ 한국어의 하나의 조사가 여러 영어 전치사에 대응됩니다:          │
-│     에 → at, in, on, to (맥락에 따라 다름!)                      │
-│     에서 → at, in, from (맥락에 따라 다름!)                       │
-│     으로 → to, by, with, as (맥락에 따라 다름!)                   │
-│     이것이 한국어 화자에게 전치사가 어려운 이유입니다.              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어: 후치사 (조사) — 명사 뒤에 위치
+> 학교에    학교에서    학교로    학교까지
+> school+에  school+에서  school+으로  school+까지
+> 영어: 전치사 — 명사 앞에 위치
+> at school   in school   to school   from school
+> AT+school   IN+school   TO+school   FROM+school
+> 한국어: 명사 + 조사 (학교 + 에)
+> 영어: 전치사 + 명사 (at + school)
+> → 순서가 반대!
+> ※ 한국어의 하나의 조사가 여러 영어 전치사에 대응됩니다:
+> 에 → at, in, on, to (맥락에 따라 다름!)
+> 에서 → at, in, from (맥락에 따라 다름!)
+> 으로 → to, by, with, as (맥락에 따라 다름!)
+> 이것이 한국어 화자에게 전치사가 어려운 이유입니다.
 
 ---
 
@@ -53,23 +46,17 @@
 
 ### 2.1 in/on/at 장소 체계
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   at → 특정 지점 (점)                                            │
-│   "at the bus stop"  "at the door"  "at school"                 │
-│                                                                 │
-│   on → 표면 (면)                                                 │
-│   "on the table"  "on the wall"  "on the floor"                 │
-│                                                                 │
-│   in → 닫힌 공간 (안)                                            │
-│   "in the room"  "in the box"  "in the car"                     │
-│                                                                 │
-│   다음과 같이 생각하세요:                                         │
-│   at = 점 •           (가장 좁은 개념)                            │
-│   on = 표면 ▬         (면 위에)                                   │
-│   in = 용기 □         (안에)                                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **at → 특정 지점 (점)**
+>
+> "at the bus stop"  "at the door"  "at school"
+> on → 표면 (면)
+> "on the table"  "on the wall"  "on the floor"
+> in → 닫힌 공간 (안)
+> "in the room"  "in the box"  "in the car"
+> 다음과 같이 생각하세요:
+> at = 점 •           (가장 좁은 개념)
+> on = 표면 ▬         (면 위에)
+> in = 용기 □         (안에)
 
 ### 2.2 at — 특정 지점
 
@@ -178,22 +165,16 @@ in + 기타:
 
 ### 3.1 시간 체계
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   at → 특정 시점 (시점)                                          │
-│   "at 3 o'clock"  "at noon"  "at midnight"  "at night"          │
-│                                                                 │
-│   on → 특정 날 또는 날짜 (날)                                     │
-│   "on Monday"  "on March 5th"  "on Christmas Day"               │
-│                                                                 │
-│   in → 더 긴 기간 (기간)                                         │
-│   "in March"  "in 2024"  "in summer"  "in the morning"          │
-│                                                                 │
-│   at = 시점  •                                                   │
-│   on = 날    ●                                                   │
-│   in = 기간  ━━━━━                                               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **at → 특정 시점 (시점)**
+>
+> "at 3 o'clock"  "at noon"  "at midnight"  "at night"
+> on → 특정 날 또는 날짜 (날)
+> "on Monday"  "on March 5th"  "on Christmas Day"
+> in → 더 긴 기간 (기간)
+> "in March"  "in 2024"  "in summer"  "in the morning"
+> at = 시점  •
+> on = 날    ●
+> in = 기간  ━━━━━
 
 ### 3.2 at — 시점
 
@@ -321,29 +302,21 @@ toward(s) = 방향, 도착 보장 없음:
 
 ### 4.3 한국어 조사와의 대응
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   한국어 에:                                                     │
-│   학교에 간다    → go TO school     (방향/목적지)                 │
-│   학교에 있다    → be AT/IN school  (위치)                        │
-│                                                                 │
-│   한국어 에서:                                                   │
-│   학교에서 공부한다 → study AT/IN school  (행동의 장소)            │
-│   서울에서 왔다    → come FROM Seoul     (출발점)                 │
-│                                                                 │
-│   한국어 으로/로:                                                │
-│   학교로 간다     → go TO school      (방향)                     │
-│   버스로 간다     → go BY bus         (수단)                      │
-│   한국어로 말한다  → speak IN Korean   (언어)                     │
-│                                                                 │
-│   한국어 까지:                                                   │
-│   학교까지 걸었다  → walked TO school  (종점)                     │
-│   3시까지        → BY 3 o'clock / UNTIL 3 o'clock               │
-│                                                                 │
-│   ※ 한국어의 하나의 조사가 여러 영어 전치사에 대응됩니다!          │
-│     각 맥락에 맞는 영어 전치사를 배워야 합니다.                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 한국어 에:
+> 학교에 간다    → go TO school     (방향/목적지)
+> 학교에 있다    → be AT/IN school  (위치)
+> 한국어 에서:
+> 학교에서 공부한다 → study AT/IN school  (행동의 장소)
+> 서울에서 왔다    → come FROM Seoul     (출발점)
+> 한국어 으로/로:
+> 학교로 간다     → go TO school      (방향)
+> 버스로 간다     → go BY bus         (수단)
+> 한국어로 말한다  → speak IN Korean   (언어)
+> 한국어 까지:
+> 학교까지 걸었다  → walked TO school  (종점)
+> 3시까지        → BY 3 o'clock / UNTIL 3 o'clock
+> ※ 한국어의 하나의 조사가 여러 영어 전치사에 대응됩니다!
+> 각 맥락에 맞는 영어 전치사를 배워야 합니다.
 
 ---
 
@@ -512,41 +485,28 @@ wait for               ~를 기다리다     I'm waiting for the bus.
 
 ### 9.1 오류표
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   오류                              올바른 표현                   │
-│   ─────                             ───────                     │
-│   "I go to home."                   "I go home."                │
-│   (home에는 "to" 불필요)             ※ home = 여기서 부사         │
-│                                                                 │
-│   "I arrive to Seoul."              "I arrive in Seoul."        │
-│   (arrive는 in/at 사용, to 아님)                                 │
-│                                                                 │
-│   "I arrived at Seoul."             "I arrived in Seoul."       │
-│   (도시 = in, 지점/건물 = at)                                    │
-│                                                                 │
-│   "in last Monday"                  "last Monday"               │
-│   (last/next/this에는 전치사 없음)                                │
-│                                                                 │
-│   "I'm interested about..."         "I'm interested in..."     │
-│   (interested + in, about 아님)                                  │
-│                                                                 │
-│   "She married with him."           "She married him."          │
-│   (marry는 타동사 — 전치사 불필요)                                │
-│                                                                 │
-│   "I listen the music."             "I listen to the music."    │
-│   (listen에는 "to" 필요)                                         │
-│                                                                 │
-│   "Discuss about the problem."      "Discuss the problem."      │
-│   (discuss는 타동사 — "about" 불필요)                             │
-│                                                                 │
-│   "I go to there."                  "I go there."               │
-│   (there/here는 부사 — "to" 불필요)                               │
-│                                                                 │
-│   "She is good in cooking."         "She is good at cooking."   │
-│   (good at, in 아님)                                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **오류                              올바른 표현**
+>
+> "I go to home."                   "I go home."
+> (home에는 "to" 불필요)             ※ home = 여기서 부사
+> "I arrive to Seoul."              "I arrive in Seoul."
+> (arrive는 in/at 사용, to 아님)
+> "I arrived at Seoul."             "I arrived in Seoul."
+> (도시 = in, 지점/건물 = at)
+> "in last Monday"                  "last Monday"
+> (last/next/this에는 전치사 없음)
+> "I'm interested about..."         "I'm interested in..."
+> (interested + in, about 아님)
+> "She married with him."           "She married him."
+> (marry는 타동사 — 전치사 불필요)
+> "I listen the music."             "I listen to the music."
+> (listen에는 "to" 필요)
+> "Discuss about the problem."      "Discuss the problem."
+> (discuss는 타동사 — "about" 불필요)
+> "I go to there."                  "I go there."
+> (there/here는 부사 — "to" 불필요)
+> "She is good in cooking."         "She is good at cooking."
+> (good at, in 아님)
 
 ---
 
@@ -708,30 +668,22 @@ wait for               ~를 기다리다     I'm waiting for the bus.
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              전치사 빠른 가이드                                    │
-│                                                                 │
-│   장소: at (지점) / on (표면) / in (닫힌 공간)                    │
-│   시간: at (시점) / on (날/날짜) / in (기간)                      │
-│   ※ 예외: at night ("in the night"이 아님)                      │
-│   ※ 전치사 없음: last/next/this/every + 시간                     │
-│                                                                 │
-│   방향: to (목적지), from (출발점),                               │
-│         into (진입), out of (퇴출), through, across              │
-│                                                                 │
-│   수단: by bus/car/train, on foot, with a knife                 │
-│   기간: for 2 hours, during the meeting, until 5 PM             │
-│                                                                 │
-│   한국어 대응:                                                   │
-│   에 → at/in/on/to (맥락에 따라!)                                │
-│   에서 → at/in/from (맥락에 따라!)                                │
-│   으로 → to/by/with/in (맥락에 따라!)                             │
-│                                                                 │
-│   흔한 연어: interested IN, good AT, afraid OF,                  │
-│   famous FOR, listen TO, wait FOR, arrive AT/IN                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **전치사 빠른 가이드**
+>
+> 장소: at (지점) / on (표면) / in (닫힌 공간)
+> 시간: at (시점) / on (날/날짜) / in (기간)
+> ※ 예외: at night ("in the night"이 아님)
+> ※ 전치사 없음: last/next/this/every + 시간
+> 방향: to (목적지), from (출발점),
+> into (진입), out of (퇴출), through, across
+> 수단: by bus/car/train, on foot, with a knife
+> 기간: for 2 hours, during the meeting, until 5 PM
+> 한국어 대응:
+> 에 → at/in/on/to (맥락에 따라!)
+> 에서 → at/in/from (맥락에 따라!)
+> 으로 → to/by/with/in (맥락에 따라!)
+> 흔한 연어: interested IN, good AT, afraid OF,
+> famous FOR, listen TO, wait FOR, arrive AT/IN
 
 ---
 
