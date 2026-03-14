@@ -26,25 +26,19 @@
 
 ### 1.1 Why Systematic Vocabulary Learning?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Native English speakers know ~20,000-35,000 word families.   │
-│                                                                 │
-│   For effective communication, learners need:                  │
-│   • ~3,000 word families for everyday conversation             │
-│   • ~5,000-6,000 for understanding news and media              │
-│   • ~8,000-9,000 for reading authentic texts                   │
-│   • ~10,000+ for academic and professional contexts            │
-│                                                                 │
-│   Strategy: Learn words in CONTEXT and through WORD FAMILIES   │
-│   instead of memorizing isolated word-translation pairs.       │
-│                                                                 │
-│   Example word family:                                         │
-│   employ → employer, employee, employment, unemployment,       │
-│           employable, unemployable, self-employed               │
-│   One root = 7+ words learned!                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Native English speakers know ~20,000-35,000 word families.**
+>
+> For effective communication, learners need:
+> • ~3,000 word families for everyday conversation
+> • ~5,000-6,000 for understanding news and media
+> • ~8,000-9,000 for reading authentic texts
+> • ~10,000+ for academic and professional contexts
+> Strategy: Learn words in CONTEXT and through WORD FAMILIES
+> instead of memorizing isolated word-translation pairs.
+> Example word family:
+> employ → employer, employee, employment, unemployment,
+> employable, unemployable, self-employed
+> One root = 7+ words learned!
 
 ---
 
@@ -52,34 +46,32 @@
 
 ### 2.1 Core Technology Terms
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ English        │ Korean       │ Example Sentence               │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ algorithm      │ 알고리즘      │ "The search algorithm ranks    │
-│                │              │  results by relevance."        │
-│ artificial     │ 인공지능      │ "AI is transforming many       │
-│ intelligence   │ (AI)         │  industries."                  │
-│ bandwidth      │ 대역폭       │ "We need more bandwidth."      │
-│ cloud computing│ 클라우드 컴퓨팅│ "Data is stored in the cloud." │
-│ cybersecurity  │ 사이버 보안    │ "Cybersecurity threats are     │
-│                │              │  increasing."                  │
-│ database       │ 데이터베이스   │ "The database stores customer  │
-│                │              │  records."                     │
-│ debug          │ 디버그하다    │ "I need to debug this code."   │
-│ encrypt        │ 암호화하다    │ "All data should be encrypted."│
-│ firewall       │ 방화벽       │ "The firewall blocks attacks." │
-│ hardware       │ 하드웨어      │ "We upgraded our hardware."    │
-│ interface      │ 인터페이스    │ "The user interface is simple."│
-│ malware        │ 악성코드      │ "Malware infected the system." │
-│ open source    │ 오픈소스      │ "Linux is open-source."        │
-│ server         │ 서버         │ "The server crashed."          │
-│ software       │ 소프트웨어    │ "Install the latest software." │
-│ virtual reality│ 가상현실      │ "VR creates immersive          │
-│ (VR)           │ (VR)         │  experiences."                 │
-│ wireless       │ 무선         │ "Connect via wireless."        │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | English | Korean | Example Sentence |
+> |---|---|---|
+> | algorithm | 알고리즘 | "The search algorithm ranks |
+> | results by relevance." |  |  |
+> | artificial | 인공지능 | "AI is transforming many |
+> | intelligence | (AI) | industries." |
+> | bandwidth | 대역폭 | "We need more bandwidth." |
+> | cloud computing | 클라우드 컴퓨팅 | "Data is stored in the cloud." |
+> | cybersecurity | 사이버 보안 | "Cybersecurity threats are |
+> | increasing." |  |  |
+> | database | 데이터베이스 | "The database stores customer |
+> | records." |  |  |
+> | debug | 디버그하다 | "I need to debug this code." |
+> | encrypt | 암호화하다 | "All data should be encrypted." |
+> | firewall | 방화벽 | "The firewall blocks attacks." |
+> | hardware | 하드웨어 | "We upgraded our hardware." |
+> | interface | 인터페이스 | "The user interface is simple." |
+> | malware | 악성코드 | "Malware infected the system." |
+> | open source | 오픈소스 | "Linux is open-source." |
+> | server | 서버 | "The server crashed." |
+> | software | 소프트웨어 | "Install the latest software." |
+> | virtual reality | 가상현실 | "VR creates immersive |
+> | (VR) | (VR) | experiences." |
+> | wireless | 무선 | "Connect via wireless." |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ### 2.2 Verbs in Technology
 
@@ -102,38 +94,36 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 3.1 Core Environment Terms
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ English        │ Korean       │ Example Sentence               │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ biodiversity   │ 생물다양성    │ "Biodiversity is declining     │
-│                │              │  rapidly."                     │
-│ carbon footprint│ 탄소발자국   │ "Reduce your carbon footprint."│
-│ climate change │ 기후변화      │ "Climate change affects us all."│
-│ conservation   │ 보전         │ "Wildlife conservation is      │
-│                │              │  essential."                   │
-│ deforestation  │ 삼림벌채      │ "Deforestation destroys        │
-│                │              │  habitats."                    │
-│ ecosystem      │ 생태계       │ "The ecosystem is fragile."    │
-│ emission       │ 배출(물)     │ "We must cut carbon emissions."│
-│ endangered     │ 멸종위기의    │ "Tigers are an endangered      │
-│                │              │  species."                     │
-│ fossil fuel    │ 화석연료      │ "Fossil fuels cause pollution."│
-│ global warming │ 지구온난화    │ "Global warming raises sea     │
-│                │              │  levels."                      │
-│ greenhouse     │ 온실효과      │ "CO2 contributes to the        │
-│ effect         │              │  greenhouse effect."           │
-│ pollution      │ 오염         │ "Air pollution is a major      │
-│                │              │  health risk."                 │
-│ recycle        │ 재활용하다    │ "Recycle plastic and paper."   │
-│ renewable      │ 재생가능한    │ "Solar is a renewable energy   │
-│ energy         │ 에너지       │  source."                      │
-│ sustainability │ 지속가능성    │ "Sustainability is key to our  │
-│                │              │  future."                      │
-│ waste          │ 폐기물       │ "Reduce waste wherever          │
-│                │              │  possible."                    │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | English | Korean | Example Sentence |
+> |---|---|---|
+> | biodiversity | 생물다양성 | "Biodiversity is declining |
+> | rapidly." |  |  |
+> | carbon footprint | 탄소발자국 | "Reduce your carbon footprint." |
+> | climate change | 기후변화 | "Climate change affects us all." |
+> | conservation | 보전 | "Wildlife conservation is |
+> | essential." |  |  |
+> | deforestation | 삼림벌채 | "Deforestation destroys |
+> | habitats." |  |  |
+> | ecosystem | 생태계 | "The ecosystem is fragile." |
+> | emission | 배출(물) | "We must cut carbon emissions." |
+> | endangered | 멸종위기의 | "Tigers are an endangered |
+> | species." |  |  |
+> | fossil fuel | 화석연료 | "Fossil fuels cause pollution." |
+> | global warming | 지구온난화 | "Global warming raises sea |
+> | levels." |  |  |
+> | greenhouse | 온실효과 | "CO2 contributes to the |
+> | effect | greenhouse effect." |  |
+> | pollution | 오염 | "Air pollution is a major |
+> | health risk." |  |  |
+> | recycle | 재활용하다 | "Recycle plastic and paper." |
+> | renewable | 재생가능한 | "Solar is a renewable energy |
+> | energy | 에너지 | source." |
+> | sustainability | 지속가능성 | "Sustainability is key to our |
+> | future." |  |  |
+> | waste | 폐기물 | "Reduce waste wherever |
+> | possible." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -141,35 +131,33 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 4.1 Core Health Terms
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ English        │ Korean       │ Example Sentence               │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ antibiotic     │ 항생제       │ "The doctor prescribed         │
-│                │              │  antibiotics."                 │
-│ chronic        │ 만성적인      │ "She suffers from chronic      │
-│                │              │  back pain."                   │
-│ contagious     │ 전염성 있는   │ "The flu is highly contagious."│
-│ diagnosis      │ 진단         │ "The diagnosis was diabetes."  │
-│ dosage         │ 복용량       │ "Follow the correct dosage."   │
-│ immune system  │ 면역체계      │ "Exercise strengthens the      │
-│                │              │  immune system."               │
-│ infection      │ 감염         │ "The wound got infected."      │
-│ mental health  │ 정신건강      │ "Mental health matters."       │
-│ nutrition      │ 영양         │ "Good nutrition prevents       │
-│                │              │  disease."                     │
-│ pandemic       │ 팬데믹       │ "The COVID-19 pandemic         │
-│                │              │  changed the world."           │
-│ prescription   │ 처방전       │ "You need a prescription."     │
-│ symptom        │ 증상         │ "Common symptoms include       │
-│                │              │  fever and cough."             │
-│ therapy        │ 치료; 요법    │ "She started physical therapy."│
-│ vaccination    │ 예방접종      │ "Get your annual flu           │
-│                │              │  vaccination."                 │
-│ well-being     │ 웰빙; 안녕    │ "Focus on your overall         │
-│                │              │  well-being."                  │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | English | Korean | Example Sentence |
+> |---|---|---|
+> | antibiotic | 항생제 | "The doctor prescribed |
+> | antibiotics." |  |  |
+> | chronic | 만성적인 | "She suffers from chronic |
+> | back pain." |  |  |
+> | contagious | 전염성 있는 | "The flu is highly contagious." |
+> | diagnosis | 진단 | "The diagnosis was diabetes." |
+> | dosage | 복용량 | "Follow the correct dosage." |
+> | immune system | 면역체계 | "Exercise strengthens the |
+> | immune system." |  |  |
+> | infection | 감염 | "The wound got infected." |
+> | mental health | 정신건강 | "Mental health matters." |
+> | nutrition | 영양 | "Good nutrition prevents |
+> | disease." |  |  |
+> | pandemic | 팬데믹 | "The COVID-19 pandemic |
+> | changed the world." |  |  |
+> | prescription | 처방전 | "You need a prescription." |
+> | symptom | 증상 | "Common symptoms include |
+> | fever and cough." |  |  |
+> | therapy | 치료; 요법 | "She started physical therapy." |
+> | vaccination | 예방접종 | "Get your annual flu |
+> | vaccination." |  |  |
+> | well-being | 웰빙; 안녕 | "Focus on your overall |
+> | well-being." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -177,31 +165,29 @@ log in/out    로그인/아웃하다  "Log in to your account."
 
 ### 5.1 Core Education Terms
 
-```
-┌────────────────┬──────────────┬────────────────────────────────┐
-│ English        │ Korean       │ Example Sentence               │
-├────────────────┼──────────────┼────────────────────────────────┤
-│ curriculum     │ 교육과정      │ "The curriculum was updated."  │
-│ enrollment     │ 등록; 재학    │ "Enrollment has increased."    │
-│ extracurricular│ 과외활동의    │ "Join extracurricular          │
-│                │              │  activities."                  │
-│ graduate       │ 졸업하다      │ "She graduated from SNU."      │
-│ literacy       │ 문해력       │ "Digital literacy is essential."│
-│ plagiarism     │ 표절         │ "Plagiarism is a serious       │
-│                │              │  offense."                     │
-│ scholarship    │ 장학금       │ "She won a full scholarship."  │
-│ semester       │ 학기         │ "The spring semester starts    │
-│                │              │  in March."                    │
-│ syllabus       │ 강의계획서    │ "Check the syllabus for        │
-│                │              │  deadlines."                   │
-│ thesis         │ 논문         │ "She submitted her thesis."    │
-│ tuition        │ 등록금       │ "Tuition fees are rising."     │
-│ undergraduate  │ 학부생       │ "He's an undergraduate         │
-│                │              │  student."                     │
-│ vocational     │ 직업의       │ "Vocational training is        │
-│                │              │  valuable."                    │
-└────────────────┴──────────────┴────────────────────────────────┘
-```
+> | English | Korean | Example Sentence |
+> |---|---|---|
+> | curriculum | 교육과정 | "The curriculum was updated." |
+> | enrollment | 등록; 재학 | "Enrollment has increased." |
+> | extracurricular | 과외활동의 | "Join extracurricular |
+> | activities." |  |  |
+> | graduate | 졸업하다 | "She graduated from SNU." |
+> | literacy | 문해력 | "Digital literacy is essential." |
+> | plagiarism | 표절 | "Plagiarism is a serious |
+> | offense." |  |  |
+> | scholarship | 장학금 | "She won a full scholarship." |
+> | semester | 학기 | "The spring semester starts |
+> | in March." |  |  |
+> | syllabus | 강의계획서 | "Check the syllabus for |
+> | deadlines." |  |  |
+> | thesis | 논문 | "She submitted her thesis." |
+> | tuition | 등록금 | "Tuition fees are rising." |
+> | undergraduate | 학부생 | "He's an undergraduate |
+> | student." |  |  |
+> | vocational | 직업의 | "Vocational training is |
+> | valuable." |  |  |
+>
+> ├────────────────┼──────────────┼────────────────────────────────┤
 
 ---
 
@@ -396,50 +382,46 @@ auto-  (self)             automatic, autobiography, autonomous
 
 ### 8.1 Common Latin Roots
 
-```
-┌──────────┬────────────────┬─────────────────────────────────────┐
-│ Root     │ Meaning        │ English Words                       │
-├──────────┼────────────────┼─────────────────────────────────────┤
-│ aud      │ hear           │ audio, audience, auditorium         │
-│ bene     │ good           │ benefit, benevolent, beneficial     │
-│ dict     │ say, speak     │ dictionary, predict, contradict     │
-│ duc/duct │ lead           │ produce, conduct, introduce, reduce │
-│ fact     │ make, do       │ factory, manufacture, artifact      │
-│ ject     │ throw          │ project, reject, inject, object     │
-│ mal      │ bad            │ malware, malfunction, malpractice   │
-│ port     │ carry          │ transport, export, import, report   │
-│ scrib    │ write          │ describe, prescribe, subscribe      │
-│ spec     │ see, look      │ inspect, spectacle, perspective     │
-│ struct   │ build          │ construct, instruct, structure      │
-│ ven/vent │ come           │ invent, prevent, convention, event  │
-│ vid/vis  │ see            │ video, visible, vision, evidence    │
-│ voc/vok  │ call, voice    │ vocabulary, invoke, advocate        │
-└──────────┴────────────────┴─────────────────────────────────────┘
-```
+> | Root | Meaning | English Words |
+> |---|---|---|
+> | aud | hear | audio, audience, auditorium |
+> | bene | good | benefit, benevolent, beneficial |
+> | dict | say, speak | dictionary, predict, contradict |
+> | duc/duct | lead | produce, conduct, introduce, reduce |
+> | fact | make, do | factory, manufacture, artifact |
+> | ject | throw | project, reject, inject, object |
+> | mal | bad | malware, malfunction, malpractice |
+> | port | carry | transport, export, import, report |
+> | scrib | write | describe, prescribe, subscribe |
+> | spec | see, look | inspect, spectacle, perspective |
+> | struct | build | construct, instruct, structure |
+> | ven/vent | come | invent, prevent, convention, event |
+> | vid/vis | see | video, visible, vision, evidence |
+> | voc/vok | call, voice | vocabulary, invoke, advocate |
+>
+> ├──────────┼────────────────┼─────────────────────────────────────┤
 
 ### 8.2 Common Greek Roots
 
-```
-┌──────────┬────────────────┬─────────────────────────────────────┐
-│ Root     │ Meaning        │ English Words                       │
-├──────────┼────────────────┼─────────────────────────────────────┤
-│ auto     │ self           │ automatic, automobile, autonomous   │
-│ bio      │ life           │ biology, biography, biodiversity    │
-│ chron    │ time           │ chronological, chronic, synchronize │
-│ dem      │ people         │ democracy, demographic, epidemic    │
-│ geo      │ earth          │ geography, geology, geometry        │
-│ graph    │ write, record  │ photograph, biography, autograph    │
-│ log/logy │ study, word    │ biology, technology, psychology     │
-│ micro    │ small          │ microscope, microphone, microchip   │
-│ path     │ feeling, suffer│ sympathy, empathy, pathology        │
-│ phil     │ love           │ philosophy, philanthropist          │
-│ phon     │ sound          │ telephone, microphone, phonetics    │
-│ poly     │ many           │ polygon, polyglot, polyphonic       │
-│ psych    │ mind           │ psychology, psychiatry, psychic     │
-│ tele     │ far, distant   │ telephone, television, telescope    │
-│ therm    │ heat           │ thermometer, thermal, thermostat    │
-└──────────┴────────────────┴─────────────────────────────────────┘
-```
+> | Root | Meaning | English Words |
+> |---|---|---|
+> | auto | self | automatic, automobile, autonomous |
+> | bio | life | biology, biography, biodiversity |
+> | chron | time | chronological, chronic, synchronize |
+> | dem | people | democracy, demographic, epidemic |
+> | geo | earth | geography, geology, geometry |
+> | graph | write, record | photograph, biography, autograph |
+> | log/logy | study, word | biology, technology, psychology |
+> | micro | small | microscope, microphone, microchip |
+> | path | feeling, suffer | sympathy, empathy, pathology |
+> | phil | love | philosophy, philanthropist |
+> | phon | sound | telephone, microphone, phonetics |
+> | poly | many | polygon, polyglot, polyphonic |
+> | psych | mind | psychology, psychiatry, psychic |
+> | tele | far, distant | telephone, television, telescope |
+> | therm | heat | thermometer, thermal, thermostat |
+>
+> ├──────────┼────────────────┼─────────────────────────────────────┤
 
 ### 8.3 How to Decode Unknown Words
 
@@ -714,28 +696,21 @@ Fill in the blanks with vocabulary from this lesson.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Vocabulary Expansion Quick Guide                   │
-│                                                                 │
-│   NEGATIVE PREFIXES: un-, in-(il-/im-/ir-), dis-, non-, mis-  │
-│   DIRECTION: re-(again), pre-(before), post-(after),           │
-│              over-(too much), under-(too little)                │
-│   SIZE: super-, sub-, semi-, multi-, mono-, bi-, tri-          │
-│   RELATION: inter-(between), trans-(across), co-(together)     │
-│                                                                 │
-│   NOUN SUFFIXES: -tion, -ment, -ness, -ity, -er/-or, -ist    │
-│   ADJ SUFFIXES:  -able/-ible, -ful, -less, -ous, -al, -ive   │
-│   VERB SUFFIXES: -ize, -ify, -en                              │
-│   ADVERB SUFFIX: -ly                                          │
-│                                                                 │
-│   LATIN ROOTS: dict(say), duc(lead), port(carry), spec(see)   │
-│   GREEK ROOTS: bio(life), graph(write), log(study), tele(far) │
-│                                                                 │
-│   STRATEGY: Learn words in families and through context,       │
-│   not as isolated translations!                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Vocabulary Expansion Quick Guide**
+>
+> NEGATIVE PREFIXES: un-, in-(il-/im-/ir-), dis-, non-, mis-
+> DIRECTION: re-(again), pre-(before), post-(after),
+> over-(too much), under-(too little)
+> SIZE: super-, sub-, semi-, multi-, mono-, bi-, tri-
+> RELATION: inter-(between), trans-(across), co-(together)
+> NOUN SUFFIXES: -tion, -ment, -ness, -ity, -er/-or, -ist
+> ADJ SUFFIXES:  -able/-ible, -ful, -less, -ous, -al, -ive
+> VERB SUFFIXES: -ize, -ify, -en
+> ADVERB SUFFIX: -ly
+> LATIN ROOTS: dict(say), duc(lead), port(carry), spec(see)
+> GREEK ROOTS: bio(life), graph(write), log(study), tele(far)
+> STRATEGY: Learn words in families and through context,
+> not as isolated translations!
 
 ---
 
