@@ -1,0 +1,297 @@
+lesson: 08_Sentence_Patterns_II_Negation
+lesson_number: 8
+hanja_level: L4
+categories:
+- id: negation_words
+  label:
+    en: Negation Words
+    ko: 부정어
+  type: vocabulary
+  words:
+  - classical_chinese: 不
+    reading: 불
+    meaning_kun: 아니
+    translation:
+      en: not (general negation)
+      ko: 아니; ~하지 않다
+    gender: null
+    plural: null
+    notes:
+      en: "Most common negation. Negates verbs and adjectives: 不知 = does not know."
+      ko: "가장 흔한 부정어. 동사·형용사를 부정: 不知 = 알지 못하다."
+  - classical_chinese: 非
+    reading: 비
+    meaning_kun: 아닐
+    translation:
+      en: is not; wrong; to oppose
+      ko: ~이 아니다; 그르다
+    gender: null
+    plural: null
+    notes:
+      en: "Negates identity/classification: 非人 = not a person. Stronger than 不."
+      ko: "정체/분류를 부정: 非人 = 사람이 아니다. 不보다 강함."
+  - classical_chinese: 無
+    reading: 무
+    meaning_kun: 없을
+    translation:
+      en: not have; there is no; without
+      ko: 없다; ~이 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Negates existence or possession. Opposite of 有. 無道 = without the Way."
+      ko: "존재나 소유를 부정. 有의 반대. 無道 = 도가 없다."
+  - classical_chinese: 未
+    reading: 미
+    meaning_kun: 아직
+    translation:
+      en: not yet; have not yet
+      ko: 아직 ~하지 않다
+    gender: null
+    plural: null
+    notes:
+      en: "Temporal negation: action not yet occurred. 未知 = do not yet know."
+      ko: "시간적 부정: 아직 일어나지 않은 행위. 未知 = 아직 알지 못하다."
+  - classical_chinese: 莫
+    reading: 막
+    meaning_kun: 없을
+    translation:
+      en: no one; nothing; do not (prohibitive)
+      ko: ~하는 이 없다; ~하지 마라
+    gender: null
+    plural: null
+    notes:
+      en: "Indefinite negation: 'no one/nothing'. Also prohibitive: 'do not'."
+      ko: "부정 대명사: '아무도 ~않다'. 금지: '~하지 마라'."
+  - classical_chinese: 勿
+    reading: 물
+    meaning_kun: 말
+    translation:
+      en: do not (prohibition)
+      ko: ~하지 마라
+    gender: null
+    plural: null
+    notes:
+      en: "Prohibitive negation addressed to others: 'do not ~'. 勿忘 = do not forget."
+      ko: "타인에게 하는 금지 부정: '~하지 마라'. 勿忘 = 잊지 마라."
+  - classical_chinese: 弗
+    reading: 불
+    meaning_kun: 아니
+    translation:
+      en: not (negating transitive verbs)
+      ko: ~하지 않다
+    gender: null
+    plural: null
+    notes:
+      en: "Variant of 不 used specifically before transitive verbs. Less common."
+      ko: "타동사 앞에 쓰이는 不의 변형. 비교적 드묾."
+  - classical_chinese: 匪
+    reading: 비
+    meaning_kun: 아닐
+    translation:
+      en: not; it is not
+      ko: ~이 아니다
+    gender: null
+    plural: null
+    notes:
+      en: "Variant of 非, found mainly in the Book of Odes (詩經)."
+      ko: "非의 변형. 주로 시경(詩經)에서 발견됨."
+- id: verbs_for_practice
+  label:
+    en: Verbs for Negation Practice
+    ko: 부정 연습용 동사
+  type: vocabulary
+  words:
+  - classical_chinese: 能
+    reading: 능
+    meaning_kun: 능할
+    translation:
+      en: can; to be able to; ability
+      ko: 능하다; ~할 수 있다
+    gender: null
+    plural: null
+    notes:
+      en: "A bear-like animal (能). Ability; capability. 不能 = cannot."
+      ko: "곰 같은 동물(能). 능력. 不能 = ~할 수 없다."
+  - classical_chinese: 知
+    reading: 지
+    meaning_kun: 알
+    translation:
+      en: to know; wisdom
+      ko: 알다; 지혜
+    gender: null
+    plural: null
+    notes:
+      en: "Arrow (矢) + mouth (口). Precise knowledge. 不知 = do not know."
+      ko: "화살(矢) + 입(口). 정확한 앎. 不知 = 알지 못하다."
+  - classical_chinese: 見
+    reading: 견
+    meaning_kun: 볼
+    translation:
+      en: to see; to perceive
+      ko: 보다; 알현하다
+    gender: null
+    plural: null
+    notes:
+      en: "Eye (目) on legs (儿). To see or perceive. 不見 = cannot see."
+      ko: "눈(目)에 다리(儿). 보다. 不見 = 보이지 않다."
+  - classical_chinese: 得
+    reading: 득
+    meaning_kun: 얻을
+    translation:
+      en: to get; to be able
+      ko: 얻다; ~할 수 있다
+    gender: null
+    plural: null
+    notes:
+      en: "To obtain; also auxiliary 'to be able'. 不得 = cannot / may not."
+      ko: "얻다; 보조 동사 '~할 수 있다'. 不得 = ~할 수 없다."
+  - classical_chinese: 有
+    reading: 유
+    meaning_kun: 있을
+    translation:
+      en: to have; there is
+      ko: 있다; 가지다
+    gender: null
+    plural: null
+    notes:
+      en: "To possess; to exist. Negated by 無: 無有 = there is none."
+      ko: "소유하다; 존재하다. 無로 부정: 無有 = 없다."
+  - classical_chinese: 欲
+    reading: 욕
+    meaning_kun: 하고자할
+    translation:
+      en: to desire; to want; about to
+      ko: 하고자 하다; 바라다
+    gender: null
+    plural: null
+    notes:
+      en: "谷 + 欠 (yawning). Desire; wanting. 不欲 = do not want."
+      ko: "谷 + 欠(하품). 욕망; 바람. 不欲 = 원하지 않다."
+  - classical_chinese: 可
+    reading: 가
+    meaning_kun: 옳을
+    translation:
+      en: can; may; acceptable
+      ko: 가하다; ~할 수 있다; 옳다
+    gender: null
+    plural: null
+    notes:
+      en: "To be acceptable; permissible. 不可 = unacceptable / must not."
+      ko: "가능하다; 허용되다. 不可 = 불가하다 / ~해서는 안 된다."
+  - classical_chinese: 敢
+    reading: 감
+    meaning_kun: 감히
+    translation:
+      en: to dare; boldly
+      ko: 감히 ~하다
+    gender: null
+    plural: null
+    notes:
+      en: "To dare; boldness. 不敢 = dare not. Often used in humble speech."
+      ko: "감히 하다; 대담함. 不敢 = 감히 ~하지 못하다. 겸양어에 자주 사용."
+  - classical_chinese: 足
+    reading: 족
+    meaning_kun: 족할
+    translation:
+      en: sufficient; enough; foot
+      ko: 족하다; 충분하다; 발
+    gender: null
+    plural: null
+    notes:
+      en: "Sufficient; enough. 不足 = insufficient / not worth."
+      ko: "충분하다. 不足 = 부족하다 / ~할 가치가 없다."
+  - classical_chinese: 當
+    reading: 당
+    meaning_kun: 마땅할
+    translation:
+      en: should; ought to; appropriate
+      ko: 마땅하다; ~해야 한다
+    gender: null
+    plural: null
+    notes:
+      en: "Appropriate; fitting. 不當 = inappropriate / should not."
+      ko: "마땅하다; 합당하다. 不當 = 부당하다 / ~해서는 안 된다."
+- id: double_negation_examples
+  label:
+    en: Double Negation Examples
+    ko: 이중 부정 예시
+  type: vocabulary
+  words:
+  - classical_chinese: 不可不
+    reading: 불가불
+    meaning_kun: 아니할 수 없을
+    translation:
+      en: cannot not; must (emphatic)
+      ko: ~하지 않을 수 없다; 반드시 ~해야 한다
+    gender: null
+    plural: null
+    notes:
+      en: "Double negation = strong affirmation. 不可不學 = must study (cannot not study)."
+      ko: "이중 부정 = 강한 긍정. 不可不學 = 반드시 배워야 한다."
+  - classical_chinese: 未嘗不
+    reading: 미상불
+    meaning_kun: 일찍이 않은 적 없을
+    translation:
+      en: have never not; always (emphatic)
+      ko: 일찍이 ~하지 않은 적이 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Double negation with temporal nuance. 'There has never been a time when not ~'."
+      ko: "시간적 뉘앙스의 이중 부정. '~하지 않은 때가 없다'."
+  - classical_chinese: 無不
+    reading: 무불
+    meaning_kun: 않는 것 없을
+    translation:
+      en: nothing that is not; all without exception
+      ko: ~하지 않는 것이 없다; 모두
+    gender: null
+    plural: null
+    notes:
+      en: "Universal affirmation through double negation. 無不知 = knows everything."
+      ko: "이중 부정에 의한 전칭 긍정. 無不知 = 모르는 것이 없다."
+  - classical_chinese: 非不
+    reading: 비불
+    meaning_kun: 아니한 것이 아닐
+    translation:
+      en: it is not that one does not
+      ko: ~하지 않는 것이 아니다
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive double negation. 非不知 = it's not that I don't know (but...)."
+      ko: "양보적 이중 부정. 非不知 = 알지 못하는 것이 아니라(그러나...)."
+  - classical_chinese: 莫不
+    reading: 막불
+    meaning_kun: 않는 이 없을
+    translation:
+      en: no one does not; everyone
+      ko: ~하지 않는 사람이 없다; 모두가
+    gender: null
+    plural: null
+    notes:
+      en: "Everyone without exception. 莫不歡 = everyone rejoices."
+      ko: "예외 없이 모두. 莫不歡 = 모두 기뻐하다."
+  - classical_chinese: 不得不
+    reading: 부득불
+    meaning_kun: 얻지 않을 수 없을
+    translation:
+      en: cannot but; have no choice but to
+      ko: ~하지 않을 수 없다; 부득이 ~하다
+    gender: null
+    plural: null
+    notes:
+      en: "Necessity through double negation. 不得不去 = have no choice but to leave."
+      ko: "이중 부정에 의한 필연. 不得不去 = 가지 않을 수 없다."
+  - classical_chinese: 不能不
+    reading: 불능불
+    meaning_kun: 능히 않을 수 없을
+    translation:
+      en: cannot help but; cannot not
+      ko: ~하지 않을 수 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Inability to avoid doing. 不能不感 = cannot help but be moved."
+      ko: "피할 수 없는 행위. 不能不感 = 감동하지 않을 수 없다."
