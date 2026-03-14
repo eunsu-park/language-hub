@@ -29,19 +29,13 @@
 
 ### 1.1 English as a Global Language
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  English: A Global Language                      │
-│                                                                 │
-│   Native speakers: ~400 million                                 │
-│   Total speakers:  ~1.5 billion (including L2)                  │
-│   Official in:     67 countries                                 │
-│   UN official language: Yes (1 of 6)                            │
-│                                                                 │
-│   Language family: Indo-European → Germanic → West Germanic     │
-│   Major varieties: American (AmE), British (BrE), Australian    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> English: A Global Language
+> Native speakers: ~400 million
+> Total speakers:  ~1.5 billion (including L2)
+> Official in:     67 countries
+> UN official language: Yes (1 of 6)
+> Language family: Indo-European → Germanic → West Germanic
+> Major varieties: American (AmE), British (BrE), Australian
 
 ### 1.2 Why English Pronunciation is Hard for Korean Speakers
 
@@ -129,23 +123,17 @@ Consonant letters (21): B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X,
 
 English has 12 monophthong vowels — more than double Korean's basic vowels. They differ in tongue position AND length.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  English Vowel Chart (RP/GA)                    │
-│                                                                 │
-│            Front        Central        Back                     │
-│   High     iː (seat)                   uː (food)               │
-│            ɪ  (sit)                     ʊ  (book)               │
-│   Mid      e  (bed)     ə  (about)     ɔː (law)                │
-│                          ʌ  (cup)                               │
-│   Low      æ  (cat)     ɑː (father)   ɒ  (lot, BrE)           │
-│                                                                 │
-│   Short vowels: ɪ, e, æ, ʌ, ɒ, ʊ, ə                           │
-│   Long vowels:  iː, ɑː, ɔː, uː, ɜː (nurse)                  │
-│                                                                 │
-│   ※ Length matters! "ship" /ʃɪp/ ≠ "sheep" /ʃiːp/              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Vowel Chart (RP/GA)**
+>
+> Front        Central        Back
+> High     iː (seat)                   uː (food)
+> ɪ  (sit)                     ʊ  (book)
+> Mid      e  (bed)     ə  (about)     ɔː (law)
+> ʌ  (cup)
+> Low      æ  (cat)     ɑː (father)   ɒ  (lot, BrE)
+> Short vowels: ɪ, e, æ, ʌ, ɒ, ʊ, ə
+> Long vowels:  iː, ɑː, ɔː, uː, ɜː (nurse)
+> ※ Length matters! "ship" /ʃɪp/ ≠ "sheep" /ʃiːp/
 
 ### 3.2 Short Vowels
 
@@ -171,25 +159,19 @@ English has 12 monophthong vowels — more than double Korean's basic vowels. Th
 
 ### 3.4 The Schwa /ə/ — Most Important Sound in English
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   The Schwa /ə/ — The Most Frequent English Sound               │
-│                                                                 │
-│   What: A short, weak, neutral "uh" sound                       │
-│   When: In UNSTRESSED syllables                                 │
-│   Why important: Appears in almost every English word            │
-│                                                                 │
-│   Examples (schwa underlined):                                  │
-│   a-BOUT   /ə.ˈbaʊt/     (첫 음절이 약하게 "어")                 │
-│   ba-NA-na  /bə.ˈnæ.nə/  (1번째, 3번째 음절 모두 schwa)          │
-│   TO-day    /tə.ˈdeɪ/     (첫 음절이 약하게 "터")                 │
-│   po-LICE   /pə.ˈliːs/   (첫 음절이 약하게 "퍼")                 │
-│                                                                 │
-│   ※ Korean speakers tend to pronounce every syllable clearly.  │
-│     In English, unstressed syllables REDUCE to schwa.           │
-│     This is essential for natural-sounding English.             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Schwa /ə/ — The Most Frequent English Sound**
+>
+> What: A short, weak, neutral "uh" sound
+> When: In UNSTRESSED syllables
+> Why important: Appears in almost every English word
+> Examples (schwa underlined):
+> a-BOUT   /ə.ˈbaʊt/     (첫 음절이 약하게 "어")
+> ba-NA-na  /bə.ˈnæ.nə/  (1번째, 3번째 음절 모두 schwa)
+> TO-day    /tə.ˈdeɪ/     (첫 음절이 약하게 "터")
+> po-LICE   /pə.ˈliːs/   (첫 음절이 약하게 "퍼")
+> ※ Korean speakers tend to pronounce every syllable clearly.
+> In English, unstressed syllables REDUCE to schwa.
+> This is essential for natural-sounding English.
 
 ---
 
@@ -236,21 +218,16 @@ Pairs Korean speakers confuse:
 
 English has 24 consonant phonemes. Most map well to Korean, but several do not.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              English Consonant Phonemes (24)                     │
-│                                                                 │
-│   Stops:       /p/ /b/ /t/ /d/ /k/ /g/                         │
-│   Fricatives:  /f/ /v/ /θ/ /ð/ /s/ /z/ /ʃ/ /ʒ/ /h/            │
-│   Affricates:  /tʃ/ /dʒ/                                       │
-│   Nasals:      /m/ /n/ /ŋ/                                      │
-│   Liquids:     /l/ /r/                                          │
-│   Glides:      /w/ /j/                                          │
-│                                                                 │
-│   ★ Sounds NOT in Korean: /f/ /v/ /θ/ /ð/ /z/ /ʒ/ /r/         │
-│     These need special practice!                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Consonant Phonemes (24)**
+>
+> Stops:       /p/ /b/ /t/ /d/ /k/ /g/
+> Fricatives:  /f/ /v/ /θ/ /ð/ /s/ /z/ /ʃ/ /ʒ/ /h/
+> Affricates:  /tʃ/ /dʒ/
+> Nasals:      /m/ /n/ /ŋ/
+> Liquids:     /l/ /r/
+> Glides:      /w/ /j/
+> ★ Sounds NOT in Korean: /f/ /v/ /θ/ /ð/ /z/ /ʒ/ /r/
+> These need special practice!
 
 ### 5.2 Stops (Plosives)
 
@@ -299,62 +276,47 @@ English has 24 consonant phonemes. Most map well to Korean, but several do not.
 
 ### 6.1 R vs L — The #1 Challenge (R/L 구분)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              R /r/ vs L /l/ — Critical Distinction               │
-│                                                                 │
-│   Korean ㄹ = ONE sound (a tap/flap, like Spanish "r")          │
-│   English = TWO completely different sounds                     │
-│                                                                 │
-│   /l/ (lateral):                                                │
-│   • Tongue TIP touches the ridge behind upper teeth             │
-│   • Air flows over the SIDES of the tongue                      │
-│   • "light" /laɪt/    "bell" /bel/    "play" /pleɪ/            │
-│                                                                 │
-│   /r/ (approximant):                                            │
-│   • Tongue tip curls BACK, does NOT touch anything              │
-│   • Tongue sides touch upper molars                             │
-│   • "right" /raɪt/    "car" /kɑːr/    "pray" /preɪ/            │
-│                                                                 │
-│   Minimal pairs:                                                │
-│   right /raɪt/  vs  light /laɪt/                                │
-│   road /roʊd/   vs  load /loʊd/                                 │
-│   read /riːd/   vs  lead /liːd/                                 │
-│   row /roʊ/     vs  low /loʊ/                                   │
-│   rock /rɒk/    vs  lock /lɒk/                                  │
-│   pray /preɪ/   vs  play /pleɪ/                                 │
-│   fry /fraɪ/    vs  fly /flaɪ/                                  │
-│   grow /groʊ/   vs  glow /gloʊ/                                 │
-│                                                                 │
-│   ※ Practice: Say "la la la" (tongue touches ridge)            │
-│     Then "ra ra ra" (tongue curls back, touches NOTHING)        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **R /r/ vs L /l/ — Critical Distinction**
+>
+> Korean ㄹ = ONE sound (a tap/flap, like Spanish "r")
+> English = TWO completely different sounds
+> /l/ (lateral):
+> • Tongue TIP touches the ridge behind upper teeth
+> • Air flows over the SIDES of the tongue
+> • "light" /laɪt/    "bell" /bel/    "play" /pleɪ/
+> /r/ (approximant):
+> • Tongue tip curls BACK, does NOT touch anything
+> • Tongue sides touch upper molars
+> • "right" /raɪt/    "car" /kɑːr/    "pray" /preɪ/
+> Minimal pairs:
+> right /raɪt/  vs  light /laɪt/
+> road /roʊd/   vs  load /loʊd/
+> read /riːd/   vs  lead /liːd/
+> row /roʊ/     vs  low /loʊ/
+> rock /rɒk/    vs  lock /lɒk/
+> pray /preɪ/   vs  play /pleɪ/
+> fry /fraɪ/    vs  fly /flaɪ/
+> grow /groʊ/   vs  glow /gloʊ/
+> ※ Practice: Say "la la la" (tongue touches ridge)
+> Then "ra ra ra" (tongue curls back, touches NOTHING)
 
 ### 6.2 /θ/ and /ð/ — The "th" Sounds
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Voiceless th /θ/:  think, three, bath, math, tooth            │
-│   • Tongue tip between teeth, blow air (no voice)               │
-│   • Korean speakers say ㅅ → "sink" instead of "think"          │
-│                                                                 │
-│   Voiced th /ð/:     this, that, the, mother, breathe           │
-│   • Tongue tip between teeth, blow air WITH voice               │
-│   • Korean speakers say ㄷ → "dis" instead of "this"            │
-│                                                                 │
-│   Minimal pairs:                                                │
-│   think /θɪŋk/ vs sink /sɪŋk/ (th vs s)                        │
-│   three /θriː/ vs tree /triː/ (th vs t)                        │
-│   path /pæθ/   vs pass /pæs/  (th vs s)                         │
-│   then /ðen/   vs den /den/   (th vs d)                         │
-│   they /ðeɪ/   vs day /deɪ/   (th vs d)                         │
-│                                                                 │
-│   ※ Practice: Stick tongue out slightly between teeth.         │
-│     Feel air blow over tongue. This sound does NOT exist        │
-│     in Korean, so it requires dedicated practice.               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Voiceless th /θ/:  think, three, bath, math, tooth
+> • Tongue tip between teeth, blow air (no voice)
+> • Korean speakers say ㅅ → "sink" instead of "think"
+> Voiced th /ð/:     this, that, the, mother, breathe
+> • Tongue tip between teeth, blow air WITH voice
+> • Korean speakers say ㄷ → "dis" instead of "this"
+> Minimal pairs:
+> think /θɪŋk/ vs sink /sɪŋk/ (th vs s)
+> three /θriː/ vs tree /triː/ (th vs t)
+> path /pæθ/   vs pass /pæs/  (th vs s)
+> then /ðen/   vs den /den/   (th vs d)
+> they /ðeɪ/   vs day /deɪ/   (th vs d)
+> ※ Practice: Stick tongue out slightly between teeth.
+> Feel air blow over tongue. This sound does NOT exist
+> in Korean, so it requires dedicated practice.
 
 ### 6.3 /f/ and /v/ — Lip-Teeth Sounds
 
@@ -405,24 +367,18 @@ Minimal pairs:
 
 ### 7.1 What is Word Stress?
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              English Word Stress — Key Concept                   │
-│                                                                 │
-│   Every English word of 2+ syllables has ONE stressed syllable  │
-│   The stressed syllable is: LOUDER, LONGER, HIGHER in pitch     │
-│                                                                 │
-│   ba-NA-na    /bə.ˈnæ.nə/     (2nd syllable stressed)          │
-│   COM-pu-ter  /kəm.ˈpjuː.tər/ (2nd syllable stressed)         │
-│   BEAU-ti-ful /ˈbjuː.tɪ.fəl/  (1st syllable stressed)         │
-│                                                                 │
-│   ※ Korean is a syllable-timed language (each syllable has     │
-│     roughly equal weight). English is stress-timed (stressed    │
-│     syllables are louder/longer, unstressed syllables are       │
-│     compressed). This is WHY English sounds "uneven" to         │
-│     Korean ears.                                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English Word Stress — Key Concept**
+>
+> Every English word of 2+ syllables has ONE stressed syllable
+> The stressed syllable is: LOUDER, LONGER, HIGHER in pitch
+> ba-NA-na    /bə.ˈnæ.nə/     (2nd syllable stressed)
+> COM-pu-ter  /kəm.ˈpjuː.tər/ (2nd syllable stressed)
+> BEAU-ti-ful /ˈbjuː.tɪ.fəl/  (1st syllable stressed)
+> ※ Korean is a syllable-timed language (each syllable has
+> roughly equal weight). English is stress-timed (stressed
+> syllables are louder/longer, unstressed syllables are
+> compressed). This is WHY English sounds "uneven" to
+> Korean ears.
 
 ### 7.2 Stress Patterns by Word Type
 
@@ -465,29 +421,23 @@ Suffixes that DON'T change stress:
 
 ### 8.1 Content Words vs Function Words
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Content words (STRESSED) — carry meaning:                     │
-│   Nouns:      DOG, TABLE, KOREA                                 │
-│   Main verbs: EAT, STUDY, WANT                                 │
-│   Adjectives: BIG, HAPPY, FAST                                  │
-│   Adverbs:    QUICKLY, ALWAYS, VERY                             │
-│   Negatives:  NOT, NEVER, NO                                    │
-│   Wh-words:   WHAT, WHERE, WHO                                  │
-│                                                                 │
-│   Function words (unstressed) — grammar glue:                   │
-│   Articles:    a, an, the                                       │
-│   Pronouns:    I, you, he, she, it, we, they                    │
-│   Prepositions: in, on, at, to, for, of                         │
-│   Auxiliaries:  am, is, are, was, do, have, can, will            │
-│   Conjunctions: and, but, or, that                              │
-│                                                                 │
-│   Example:                                                      │
-│   "I want to GO to the STORE and BUY some BREAD."               │
-│    ·  ····  ·  ··  ·  ···  ····  ···  ···  ····  ····           │
-│    weak     weak  STRONG weak STRONG weak  STRONG                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Content words (STRESSED) — carry meaning:
+> Nouns:      DOG, TABLE, KOREA
+> Main verbs: EAT, STUDY, WANT
+> Adjectives: BIG, HAPPY, FAST
+> Adverbs:    QUICKLY, ALWAYS, VERY
+> Negatives:  NOT, NEVER, NO
+> Wh-words:   WHAT, WHERE, WHO
+> Function words (unstressed) — grammar glue:
+> Articles:    a, an, the
+> Pronouns:    I, you, he, she, it, we, they
+> Prepositions: in, on, at, to, for, of
+> Auxiliaries:  am, is, are, was, do, have, can, will
+> Conjunctions: and, but, or, that
+> Example:
+> "I want to GO to the STORE and BUY some BREAD."
+> ·  ····  ·  ··  ·  ···  ····  ···  ···  ····  ····
+> weak     weak  STRONG weak STRONG weak  STRONG
 
 ### 8.2 Stress-Timed Rhythm
 
@@ -635,29 +585,22 @@ Used for: uncertainty, politeness, contrast, "but..."
 
 ### 11.2 Final Consonant Release
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean consonant rules at syllable end (받침):                │
-│   • Only 7 sounds allowed: ㄱ,ㄴ,ㄷ,ㄹ,ㅁ,ㅂ,ㅇ                  │
-│   • Consonants are unreleased (no burst of air)                 │
-│                                                                 │
-│   English consonant rules at word end:                          │
-│   • ANY consonant can end a word                                │
-│   • Consonants CAN be released (with air burst)                 │
-│   • Consonant CLUSTERS are common: texts /teksts/               │
-│                                                                 │
-│   Common Korean speaker errors:                                 │
-│   "dog" → "dok" (devoicing final /g/ to /k/)                   │
-│   "bed" → "bet" (devoicing final /d/ to /t/)                   │
-│   "five" → "paibeu" (adding vowel, changing /f/ to /p/)        │
-│   "bus" → "beoseu" (adding vowels)                              │
-│                                                                 │
-│   ※ Practice releasing final consonants:                       │
-│     "cat" — let the /t/ pop out with air                        │
-│     "dog" — keep the /g/ voiced at the end                      │
-│     "love" — end with /v/ (teeth on lip), don't add 으          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean consonant rules at syllable end (받침):
+> • Only 7 sounds allowed: ㄱ,ㄴ,ㄷ,ㄹ,ㅁ,ㅂ,ㅇ
+> • Consonants are unreleased (no burst of air)
+> English consonant rules at word end:
+> • ANY consonant can end a word
+> • Consonants CAN be released (with air burst)
+> • Consonant CLUSTERS are common: texts /teksts/
+> Common Korean speaker errors:
+> "dog" → "dok" (devoicing final /g/ to /k/)
+> "bed" → "bet" (devoicing final /d/ to /t/)
+> "five" → "paibeu" (adding vowel, changing /f/ to /p/)
+> "bus" → "beoseu" (adding vowels)
+> ※ Practice releasing final consonants:
+> "cat" — let the /t/ pop out with air
+> "dog" — keep the /g/ voiced at the end
+> "love" — end with /v/ (teeth on lip), don't add 으
 
 ### 11.3 Consonant Clusters
 
@@ -785,29 +728,23 @@ Pairs:  fan vs van    fine vs vine    few vs view
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│               Pronunciation Quick Guide for Korean Speakers     │
-│                                                                 │
-│   Sounds NOT in Korean (special practice needed):               │
-│   /f/  = upper teeth on lower lip, no voice (≠ ㅍ)              │
-│   /v/  = upper teeth on lower lip, WITH voice (≠ ㅂ)            │
-│   /θ/  = tongue between teeth, no voice (≠ ㅅ)                  │
-│   /ð/  = tongue between teeth, WITH voice (≠ ㄷ)                │
-│   /z/  = like /s/ but WITH voice (≠ ㅈ)                         │
-│   /r/  = tongue curls back, touches NOTHING (≠ ㄹ)              │
-│   /l/  = tongue tip touches ridge behind teeth (≠ ㄹ)           │
-│                                                                 │
-│   Vowel system: 12 monophthongs + 8 diphthongs = 20 sounds    │
-│   Key: vowel LENGTH matters (ship ≠ sheep)                     │
-│   Key: schwa /ə/ is the most common sound (unstressed "uh")   │
-│                                                                 │
-│   Stress: English is stress-timed, not syllable-timed           │
-│   Content words = STRESSED, function words = unstressed         │
-│   Don't add vowels between consonant clusters!                  │
-│   Don't add vowels after final consonants!                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Pronunciation Quick Guide for Korean Speakers**
+>
+> Sounds NOT in Korean (special practice needed):
+> /f/  = upper teeth on lower lip, no voice (≠ ㅍ)
+> /v/  = upper teeth on lower lip, WITH voice (≠ ㅂ)
+> /θ/  = tongue between teeth, no voice (≠ ㅅ)
+> /ð/  = tongue between teeth, WITH voice (≠ ㄷ)
+> /z/  = like /s/ but WITH voice (≠ ㅈ)
+> /r/  = tongue curls back, touches NOTHING (≠ ㄹ)
+> /l/  = tongue tip touches ridge behind teeth (≠ ㄹ)
+> Vowel system: 12 monophthongs + 8 diphthongs = 20 sounds
+> Key: vowel LENGTH matters (ship ≠ sheep)
+> Key: schwa /ə/ is the most common sound (unstressed "uh")
+> Stress: English is stress-timed, not syllable-timed
+> Content words = STRESSED, function words = unstressed
+> Don't add vowels between consonant clusters!
+> Don't add vowels after final consonants!
 
 ---
 
