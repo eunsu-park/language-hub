@@ -208,33 +208,28 @@ Italian titles only capitalize the **first word** and **proper nouns**, unlike E
 
 ### 4.1 Letter Structure
 
-```
-+----------------------------------------------------------+
-|          FORMAL ITALIAN LETTER STRUCTURE                  |
-+----------------------------------------------------------+
-|                                                          |
-|  [City], [Day] [Month] [Year]                            |
-|  Milano, 15 marzo 2026                                   |
-|                                                          |
-|  [Recipient]                                             |
-|  Spettabile [Company/Institution]                        |
-|  [Address]                                               |
-|                                                          |
-|  Oggetto: [Subject]                                      |
-|                                                          |
-|  [Greeting],                                             |
-|  Egregio/Gentile [Title + Name],                         |
-|                                                          |
-|  [Opening paragraph]                                     |
-|  [Body paragraph(s)]                                     |
-|  [Closing paragraph]                                     |
-|                                                          |
-|  [Closing formula],                                      |
-|                                                          |
-|  [Signature]                                             |
-|  [Contact information]                                   |
-+----------------------------------------------------------+
-```
+> **FORMAL ITALIAN LETTER STRUCTURE**
+>
+> [City], [Day] [Month] [Year]
+> Milano, 15 marzo 2026
+>
+> [Recipient]
+> Spettabile [Company/Institution]
+> [Address]
+>
+> Oggetto: [Subject]
+>
+> [Greeting],
+> Egregio/Gentile [Title + Name],
+>
+> [Opening paragraph]
+> [Body paragraph(s)]
+> [Closing paragraph]
+>
+> [Closing formula],
+>
+> [Signature]
+> [Contact information]
 
 ### 4.2 Formal Greetings (Intestazione)
 
@@ -360,31 +355,23 @@ P.S. Ho invitato anche Sara e il suo ragazzo.
 
 ### 6.1 Italian Essay Format (Tema / Saggio)
 
-```
-+----------------------------------------------------------+
-|          ITALIAN ESSAY STRUCTURE                          |
-+----------------------------------------------------------+
-|                                                          |
-|  INTRODUZIONE (Introduction)                             |
-|    - Present the topic                                   |
-|    - State your thesis or main argument                  |
-|    - Outline what the essay will cover                   |
-|    - ~15% of total length                                |
-|                                                          |
-|  SVOLGIMENTO (Body / Development)                        |
-|    - Develop your arguments with evidence                |
-|    - Each paragraph = one main idea                      |
-|    - Use connectors between paragraphs                   |
-|    - Present counterarguments if applicable              |
-|    - ~70% of total length                                |
-|                                                          |
-|  CONCLUSIONE (Conclusion)                                |
-|    - Summarize key points                                |
-|    - Restate thesis in light of evidence                 |
-|    - Offer final reflection or future outlook            |
-|    - ~15% of total length                                |
-+----------------------------------------------------------+
-```
+> **ITALIAN ESSAY STRUCTURE**
+>
+> **INTRODUZIONE (Introduction)** — ~15% of total length
+> - Present the topic
+> - State your thesis or main argument
+> - Outline what the essay will cover
+>
+> **SVOLGIMENTO (Body / Development)** — ~70% of total length
+> - Develop your arguments with evidence
+> - Each paragraph = one main idea
+> - Use connectors between paragraphs
+> - Present counterarguments if applicable
+>
+> **CONCLUSIONE (Conclusion)** — ~15% of total length
+> - Summarize key points
+> - Restate thesis in light of evidence
+> - Offer final reflection or future outlook
 
 ### 6.2 Useful Essay Phrases
 
@@ -467,42 +454,36 @@ P.S. Ho invitato anche Sara e il suo ragazzo.
 
 The standard Italian CV follows the **Europass** format, widely used across the EU:
 
-```
-+----------------------------------------------------------+
-|          CURRICULUM VITAE (FORMATO EUROPASS)               |
-+----------------------------------------------------------+
-|                                                          |
-|  INFORMAZIONI PERSONALI                                  |
-|    Nome e cognome: Maria Rossi                           |
-|    Indirizzo: Via Roma 15, 20121 Milano                  |
-|    Telefono: +39 02 1234567                              |
-|    Email: maria.rossi@email.it                           |
-|    Data di nascita: 15/03/1990                           |
-|    Nazionalità: Italiana                                 |
-|                                                          |
-|  ESPERIENZA PROFESSIONALE                                |
-|    [Date] — [Job title] presso [Company]                 |
-|    - Descrizione delle responsabilità                    |
-|    - Risultati ottenuti                                  |
-|                                                          |
-|  ISTRUZIONE E FORMAZIONE                                 |
-|    [Date] — [Degree] presso [University/School]          |
-|    - Votazione: 110/110 e lode                           |
-|                                                          |
-|  COMPETENZE LINGUISTICHE                                 |
-|    Italiano: Madrelingua                                 |
-|    Inglese: C1 (IELTS 7.5)                              |
-|                                                          |
-|  COMPETENZE INFORMATICHE                                 |
-|    MS Office, Python, HTML/CSS                           |
-|                                                          |
-|  INTERESSI                                               |
-|    Viaggi, fotografia, volontariato                      |
-|                                                          |
-|  AUTORIZZO il trattamento dei miei dati personali        |
-|  ai sensi del D.Lgs. 196/2003 e del GDPR (UE) 2016/679 |
-+----------------------------------------------------------+
-```
+> **CURRICULUM VITAE (FORMATO EUROPASS)**
+>
+> **INFORMAZIONI PERSONALI**
+> - Nome e cognome: Maria Rossi
+> - Indirizzo: Via Roma 15, 20121 Milano
+> - Telefono: +39 02 1234567
+> - Email: maria.rossi@email.it
+> - Data di nascita: 15/03/1990
+> - Nazionalità: Italiana
+>
+> **ESPERIENZA PROFESSIONALE**
+> - [Date] — [Job title] presso [Company]
+> - Descrizione delle responsabilità
+> - Risultati ottenuti
+>
+> **ISTRUZIONE E FORMAZIONE**
+> - [Date] — [Degree] presso [University/School]
+> - Votazione: 110/110 e lode
+>
+> **COMPETENZE LINGUISTICHE**
+> - Italiano: Madrelingua
+> - Inglese: C1 (IELTS 7.5)
+>
+> **COMPETENZE INFORMATICHE**
+> - MS Office, Python, HTML/CSS
+>
+> **INTERESSI**
+> - Viaggi, fotografia, volontariato
+>
+> AUTORIZZO il trattamento dei miei dati personali ai sensi del D.Lgs. 196/2003 e del GDPR (UE) 2016/679
 
 ### 8.2 CV Vocabulary
 
