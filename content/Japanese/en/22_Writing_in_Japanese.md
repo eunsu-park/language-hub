@@ -148,31 +148,26 @@ follows strict rules:
 
 Japanese essays follow a clear three-part pattern:
 
-```
-+----------------------------------------------------------+
-|         JAPANESE ESSAY STRUCTURE                         |
-+----------------------------------------------------------+
-|                                                          |
-|  序論 (じょろん) — Introduction                           |
-|  ├── State the topic / issue                             |
-|  ├── Provide brief background                            |
-|  └── Present your thesis / main argument                 |
-|      Phrase: ～について論じる / ～を考察する                |
-|                                                          |
-|  本論 (ほんろん) — Main Body                              |
-|  ├── Point 1 + evidence / examples                       |
-|  ├── Point 2 + evidence / examples                       |
-|  ├── Counterargument + rebuttal (optional)               |
-|  └── Phrase: まず... / 次に... / さらに...                |
-|                                                          |
-|  結論 (けつろん) — Conclusion                              |
-|  ├── Summarize main points                               |
-|  ├── Restate thesis                                      |
-|  └── Final thought / future outlook                      |
-|      Phrase: 以上のことから... / 結論として...              |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **JAPANESE ESSAY STRUCTURE**
+>
+> 序論 (じょろん) — Introduction
+> - State the topic / issue
+> - Provide brief background
+> - Present your thesis / main argument
+> - **Phrase**: ～について論じる / ～を考察する
+>
+> 本論 (ほんろん) — Main Body
+> - Point 1 + evidence / examples
+> - Point 2 + evidence / examples
+> - Counterargument + rebuttal (optional)
+> - **Phrase**: まず... / 次に... / さらに...
+>
+> 結論 (けつろん) — Conclusion
+> - Summarize main points
+> - Restate thesis
+> - Final thought / future outlook
+> - **Phrase**: 以上のことから... / 結論として...
+>
 
 ### 3.2 Alternative Structure: 起承転結
 
@@ -228,31 +223,26 @@ A traditional Japanese structure often used in shorter pieces:
 
 Japanese formal letters follow a highly prescribed format:
 
-```
-+----------------------------------------------------------+
-|        FORMAL LETTER STRUCTURE (手紙の構成)               |
-+----------------------------------------------------------+
-|                                                          |
-|  ① 前文 (Opening section)                                |
-|     ├── 頭語 (Opening salutation): 拝啓                   |
-|     ├── 時候の挨拶 (Seasonal greeting)                    |
-|     └── 安否の挨拶 (Well-wishing phrase)                  |
-|                                                          |
-|  ② 主文 (Main body)                                      |
-|     ├── 起こし言葉: さて、 / ところで、                    |
-|     └── Main content                                     |
-|                                                          |
-|  ③ 末文 (Closing section)                                |
-|     ├── 結びの挨拶 (Closing wishes)                       |
-|     └── 結語 (Closing salutation): 敬具                   |
-|                                                          |
-|  ④ 後付け (Postscript info)                               |
-|     ├── 日付 (Date)                                      |
-|     ├── 差出人名 (Sender name)                            |
-|     └── 宛名 (Recipient name + 様)                       |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **FORMAL LETTER STRUCTURE (手紙の構成)**
+>
+> ① 前文 (Opening section)
+> - **頭語 (Opening salutation)**: 拝啓
+> - 時候の挨拶 (Seasonal greeting)
+> - 安否の挨拶 (Well-wishing phrase)
+>
+> ② 主文 (Main body)
+> - **起こし言葉**: さて、 / ところで、
+> - Main content
+>
+> ③ 末文 (Closing section)
+> - 結びの挨拶 (Closing wishes)
+> - **結語 (Closing salutation)**: 敬具
+>
+> ④ 後付け (Postscript info)
+> - 日付 (Date)
+> - 差出人名 (Sender name)
+> - 宛名 (Recipient name + 様)
+>
 
 ### 4.2 Opening and Closing Pairs (頭語 / 結語)
 
@@ -318,43 +308,35 @@ Each month has traditional seasonal greetings:
 The Japanese 履歴書 follows an extremely standardized format, very different from
 Western-style resumes:
 
-```
-+----------------------------------------------------------+
-|         日本式履歴書 (JAPANESE RESUME)                     |
-+----------------------------------------------------------+
-|                                                          |
-|  DATE: 令和○年○月○日現在                                 |
-|                                                          |
-|  PHOTO: Passport-style, 3cm x 4cm, glued upper right    |
-|                                                          |
-|  ┌──────────────────────────────────────────┐            |
-|  │ ふりがな:  やまだ たろう                    │            |
-|  │ 氏名:     山田 太郎                        │            |
-|  │ 生年月日:  令和○年○月○日生（○歳）          │            |
-|  │ 性別:     男                               │            |
-|  │ 住所:     〒___-____ ○○県○○市...          │            |
-|  │ 電話:     090-XXXX-XXXX                   │            |
-|  │ E-mail:   xxxxxx@xxx.com                  │            |
-|  └──────────────────────────────────────────┘            |
-|                                                          |
-|  学歴・職歴 (Education & Work History)                    |
-|  ├── Listed in CHRONOLOGICAL order                       |
-|  ├── 学歴 header, then education entries                 |
-|  ├── 職歴 header, then work entries                      |
-|  └── End with 以上 (That is all)                         |
-|                                                          |
-|  免許・資格 (Licenses & Qualifications)                   |
-|  ├── JLPT, driver's license, etc.                        |
-|  └── Most recent first or most relevant                  |
-|                                                          |
-|  志望動機 (Reason for Application)                        |
-|  └── 3-5 sentences explaining why this company            |
-|                                                          |
-|  本人希望記入欄 (Personal Requests)                       |
-|  └── 「貴社の規定に従います」 if no special requests      |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **日本式履歴書 (JAPANESE RESUME)**
+>
+> - **DATE**: 令和○年○月○日現在
+> - **PHOTO**: Passport-style, 3cm x 4cm, glued upper right
+>
+> **Personal Information:**
+> - **ふりがな**: やまだ たろう
+> - **氏名**: 山田 太郎
+> - **生年月日**: 令和○年○月○日生（○歳）
+> - **性別**: 男
+> - **住所**: 〒___-____ ○○県○○市...
+> - **電話**: 090-XXXX-XXXX
+> - **E-mail**: xxxxxx@xxx.com
+>
+> **学歴・職歴 (Education & Work History)**
+> - Listed in CHRONOLOGICAL order
+> - 学歴 header, then education entries
+> - 職歴 header, then work entries
+> - End with 以上 (That is all)
+>
+> **免許・資格 (Licenses & Qualifications)**
+> - JLPT, driver's license, etc.
+> - Most recent first or most relevant
+>
+> **志望動機 (Reason for Application)**
+> - 3-5 sentences explaining why this company
+>
+> **本人希望記入欄 (Personal Requests)**
+> - 「貴社の規定に従います」 if no special requests
 
 ### 5.2 Key Differences from Western Resumes
 
@@ -399,38 +381,33 @@ Western-style resumes:
 
 Academic and business reports follow this structure:
 
-```
-+----------------------------------------------------------+
-|         REPORT STRUCTURE (レポートの構成)                  |
-+----------------------------------------------------------+
-|                                                          |
-|  表紙 (Cover page)                                       |
-|  ├── Title                                               |
-|  ├── Course/department name                              |
-|  ├── Author name and student/employee number             |
-|  └── Date                                                |
-|                                                          |
-|  目次 (Table of Contents)                                |
-|  └── Section headings with page numbers                  |
-|                                                          |
-|  はじめに / 序論 (Introduction)                            |
-|  ├── Background and purpose                              |
-|  └── Scope of the report                                 |
-|                                                          |
-|  本文 (Body)                                              |
-|  ├── 第1章: First main section                           |
-|  ├── 第2章: Second main section                          |
-|  └── Evidence, data, analysis                            |
-|                                                          |
-|  結論 / おわりに (Conclusion)                              |
-|  ├── Summary of findings                                 |
-|  └── Future considerations                               |
-|                                                          |
-|  参考文献 (References / Bibliography)                     |
-|  └── Listed in order of citation                         |
-|                                                          |
-+----------------------------------------------------------+
-```
+> **REPORT STRUCTURE (レポートの構成)**
+>
+> 表紙 (Cover page)
+> - Title
+> - Course/department name
+> - Author name and student/employee number
+> - Date
+>
+> 目次 (Table of Contents)
+> - Section headings with page numbers
+>
+> はじめに / 序論 (Introduction)
+> - Background and purpose
+> - Scope of the report
+>
+> 本文 (Body)
+> - **第1章**: First main section
+> - **第2章**: Second main section
+> - Evidence, data, analysis
+>
+> 結論 / おわりに (Conclusion)
+> - Summary of findings
+> - Future considerations
+>
+> 参考文献 (References / Bibliography)
+> - Listed in order of citation
+>
 
 ### 6.2 Report Writing Style
 
