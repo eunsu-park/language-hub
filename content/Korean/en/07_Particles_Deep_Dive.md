@@ -43,20 +43,13 @@
 
 The object marker identifies the **direct object** — the thing being acted upon by the verb.
 
-```
-┌──────────────────────────────────────────────────────────┐
-│              Object Marker: 을/를                          │
-│                                                           │
-│  Noun ends in CONSONANT  →  noun + 을                      │
-│    밥을 (rice), 책을 (book), 물을 (water)                    │
-│                                                           │
-│  Noun ends in VOWEL  →  noun + 를                           │
-│    커피를 (coffee), 우유를 (milk), 사과를 (apple)              │
-│                                                           │
-│  Pattern: [subject]이/가 [object]을/를 [verb]               │
-│  저는 밥을 먹어요. (I eat rice.)                              │
-└──────────────────────────────────────────────────────────┘
-```
+> **Object Marker: 을/를**
+>
+> - Noun ends in **CONSONANT** → noun + 을: 밥을 (rice), 책을 (book), 물을 (water)
+> - Noun ends in **VOWEL** → noun + 를: 커피를 (coffee), 우유를 (milk), 사과를 (apple)
+>
+> Pattern: [subject]이/가 [object]을/를 [verb]
+> 저는 밥을 먹어요. (I eat rice.)
 
 ### 1.1 Examples
 
@@ -133,26 +126,19 @@ The particle **에** has three main uses:
 
 ### 2.3 에 vs. 에서 — The Critical Difference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    에 vs. 에서                                 │
-│                                                               │
-│  에                              에서                          │
-│  ──                              ────                          │
-│  Static location (있다/없다)      Location of ACTION            │
-│  Destination (가다/오다)          Where something HAPPENS        │
-│  Time point                      Starting point ("from")       │
-│                                                               │
-│  학교에 있어요.                    학교에서 공부해요.               │
-│  (I am at school.)              (I study at school.)           │
-│                                                               │
-│  집에 가요.                       집에서 쉬어요.                   │
-│  (I go home.)                   (I rest at home.)              │
-│                                                               │
-│  Key test: Is there an ACTION happening at the location?       │
-│  YES → 에서    NO (just existing/going) → 에                   │
-└──────────────────────────────────────────────────────────────┘
-```
+> **에 vs. 에서**
+>
+> | 에 | 에서 |
+> |---|------|
+> | Static location (있다/없다) | Location of ACTION |
+> | Destination (가다/오다) | Where something HAPPENS |
+> | Time point | Starting point ("from") |
+>
+> - 학교에 있어요. (I am at school.) vs. 학교에서 공부해요. (I study at school.)
+> - 집에 가요. (I go home.) vs. 집에서 쉬어요. (I rest at home.)
+>
+> **Key test:** Is there an ACTION happening at the location?
+> YES → 에서 / NO (just existing/going) → 에
 
 ### 2.4 에서 as "From" (Starting Point)
 
@@ -414,39 +400,35 @@ I drove from Seoul all the way to Busan.
 
 ## 9. Particle Summary Chart
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                     Korean Particle Quick Reference                 │
-│                                                                     │
-│  CASE PARTICLES (문법 조사)                                          │
-│  은/는  — Topic marker        ("as for X...")                        │
-│  이/가  — Subject marker      ("X does...")                          │
-│  을/를  — Object marker       ("...does X to Y")                    │
-│                                                                     │
-│  LOCATION & DIRECTION (장소/방향)                                     │
-│  에     — Location/destination/time  ("at, to, on")                  │
-│  에서   — Action location / from     ("at [doing], from")            │
-│  으로/로 — Direction/means           ("toward, by")                   │
-│                                                                     │
-│  SOCIAL (대상)                                                       │
-│  에게/한테    — To (person)          ("to someone")                   │
-│  에게서/한테서 — From (person)        ("from someone")                │
-│  께/께서      — Honorific to/from                                    │
-│  와/과, 하고, (이)랑 — With/and      ("with, and")                   │
-│                                                                     │
-│  RANGE (범위)                                                        │
-│  부터   — From (starting point)                                      │
-│  까지   — Until, to (ending point)                                   │
-│                                                                     │
-│  AUXILIARY (보조사)                                                   │
-│  도     — Also, too, even                                            │
-│  만     — Only, just                                                 │
-│  밖에   — Only (+ negative verb)                                     │
-│  의     — Possessive ('s, of)                                        │
-│  처럼   — Like, similar to                                           │
-│  보다   — Than (comparison)                                          │
-└────────────────────────────────────────────────────────────────────┘
-```
+> **Korean Particle Quick Reference**
+>
+> **CASE PARTICLES (문법 조사)**
+> - **은/는** — Topic marker ("as for X...")
+> - **이/가** — Subject marker ("X does...")
+> - **을/를** — Object marker ("...does X to Y")
+>
+> **LOCATION & DIRECTION (장소/방향)**
+> - **에** — Location/destination/time ("at, to, on")
+> - **에서** — Action location / from ("at [doing], from")
+> - **으로/로** — Direction/means ("toward, by")
+>
+> **SOCIAL (대상)**
+> - **에게/한테** — To (person) ("to someone")
+> - **에게서/한테서** — From (person) ("from someone")
+> - **께/께서** — Honorific to/from
+> - **와/과, 하고, (이)랑** — With/and ("with, and")
+>
+> **RANGE (범위)**
+> - **부터** — From (starting point)
+> - **까지** — Until, to (ending point)
+>
+> **AUXILIARY (보조사)**
+> - **도** — Also, too, even
+> - **만** — Only, just
+> - **밖에** — Only (+ negative verb)
+> - **의** — Possessive ('s, of)
+> - **처럼** — Like, similar to
+> - **보다** — Than (comparison)
 
 ---
 
