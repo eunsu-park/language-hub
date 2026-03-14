@@ -38,25 +38,21 @@
 
 Every Korean verb in its base (dictionary) form ends in **-다** (da). To conjugate a verb, you remove -다 to get the **verb stem**, then add the appropriate ending.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                Korean Verb Structure                              │
-│                                                                  │
-│   Dictionary Form = Verb Stem + 다                               │
-│                                                                  │
-│   가다 (to go)      →  가 (stem) + 다                            │
-│   먹다 (to eat)     →  먹 (stem) + 다                            │
-│   공부하다 (to study) →  공부하 (stem) + 다                       │
-│   읽다 (to read)    →  읽 (stem) + 다                            │
-│                                                                  │
-│   Conjugation = Stem + Ending                                    │
-│                                                                  │
-│   가 + -아요 → 가요     (go — polite)                            │
-│   먹 + -어요 → 먹어요   (eat — polite)                           │
-│   가 + -ㅂ니다 → 갑니다  (go — formal)                            │
-│   먹 + -습니다 → 먹습니다 (eat — formal)                          │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Korean Verb Structure**
+>
+> Dictionary Form = Verb Stem + 다
+>
+> - 가다 (to go) → 가 (stem) + 다
+> - 먹다 (to eat) → 먹 (stem) + 다
+> - 공부하다 (to study) → 공부하 (stem) + 다
+> - 읽다 (to read) → 읽 (stem) + 다
+>
+> Conjugation = Stem + Ending
+>
+> - 가 + -아요 → 가요 (go -- polite)
+> - 먹 + -어요 → 먹어요 (eat -- polite)
+> - 가 + -ㅂ니다 → 갑니다 (go -- formal)
+> - 먹 + -습니다 → 먹습니다 (eat -- formal)
 
 ### 1.2 Key Properties of Korean Verbs
 
@@ -85,25 +81,21 @@ Korean has two types of "verbs":
 
 Vowel harmony (모음 조화, moeum joha) determines whether you add **-아** or **-어** endings. Look at the **last vowel** of the verb stem:
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                    Vowel Harmony Rule                              │
-│                                                                  │
-│   If the last vowel of the stem is ㅏ or ㅗ (bright/양성모음):   │
-│     → Use -아 endings                                            │
-│                                                                  │
-│   If the last vowel is ANYTHING ELSE (dark/음성모음):            │
-│     → Use -어 endings                                            │
-│                                                                  │
-│   Special case: 하다 verbs                                       │
-│     → 하 + 여 → 해 (하다 contracts to 해)                        │
-│                                                                  │
-│   Summary:                                                       │
-│     ㅏ, ㅗ        → -아  (가다 → 가 + 아요, 오다 → 오 + 아요)     │
-│     Everything else → -어  (먹다 → 먹 + 어요, 마시다 → 마시 + 어요)│
-│     하다          → -해  (공부하다 → 공부해요)                     │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Vowel Harmony Rule**
+>
+> If the last vowel of the stem is ㅏ or ㅗ (bright/양성모음):
+> → Use -아 endings
+>
+> If the last vowel is ANYTHING ELSE (dark/음성모음):
+> → Use -어 endings
+>
+> Special case: 하다 verbs
+> → 하 + 여 → 해 (하다 contracts to 해)
+>
+> **Summary:**
+> - ㅏ, ㅗ → -아 (가다 → 가 + 아요, 오다 → 오 + 아요)
+> - Everything else → -어 (먹다 → 먹 + 어요, 마시다 → 마시 + 어요)
+> - 하다 → -해 (공부하다 → 공부해요)
 
 ### 2.2 Contraction Rules
 
@@ -171,21 +163,17 @@ Step 5: Result = 마셔요
 
 The **합쇼체** (formal polite) is used in formal situations, news, presentations, and with strangers.
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│           Formal Polite Present Tense (-ㅂ니다 / -습니다)         │
-│                                                                  │
-│   If stem ends in a VOWEL:   stem + ㅂ니다                       │
-│     가 → 갑니다     (ㅂ attaches to 가 → 갑)                     │
-│     하 → 합니다                                                  │
-│     마시 → 마십니다                                               │
-│                                                                  │
-│   If stem ends in a CONSONANT:  stem + 습니다                    │
-│     먹 → 먹습니다                                                │
-│     읽 → 읽습니다                                                │
-│     있 → 있습니다                                                │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Formal Polite Present Tense (-ㅂ니다 / -습니다)**
+>
+> If stem ends in a **VOWEL**: stem + ㅂ니다
+> - 가 → 갑니다 (ㅂ attaches to 가 → 갑)
+> - 하 → 합니다
+> - 마시 → 마십니다
+>
+> If stem ends in a **CONSONANT**: stem + 습니다
+> - 먹 → 먹습니다
+> - 읽 → 읽습니다
+> - 있 → 있습니다
 
 ### 4.2 Conjugation Examples
 
@@ -287,30 +275,29 @@ Stem + 았/었 + 습니다
 
 ### 6.3 Complete Tense/Formality Chart
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│          Complete Conjugation Chart: 먹다 (to eat)                │
-│                                                                  │
-│              Present              Past                           │
-│   Formal:    먹습니다             먹었습니다                      │
-│   Polite:    먹어요               먹었어요                        │
-│   Casual:    먹어                 먹었어                          │
-│                                                                  │
-│          Complete Conjugation Chart: 가다 (to go)                │
-│                                                                  │
-│              Present              Past                           │
-│   Formal:    갑니다               갔습니다                        │
-│   Polite:    가요                 갔어요                          │
-│   Casual:    가                   갔어                            │
-│                                                                  │
-│          Complete Conjugation Chart: 하다 (to do)                │
-│                                                                  │
-│              Present              Past                           │
-│   Formal:    합니다               했습니다                        │
-│   Polite:    해요                 했어요                          │
-│   Casual:    해                   했어                            │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Complete Conjugation Chart: 먹다 (to eat)**
+>
+> |  | Present | Past |
+> |---|---------|------|
+> | Formal | 먹습니다 | 먹었습니다 |
+> | Polite | 먹어요 | 먹었어요 |
+> | Casual | 먹어 | 먹었어 |
+>
+> **Complete Conjugation Chart: 가다 (to go)**
+>
+> |  | Present | Past |
+> |---|---------|------|
+> | Formal | 갑니다 | 갔습니다 |
+> | Polite | 가요 | 갔어요 |
+> | Casual | 가 | 갔어 |
+>
+> **Complete Conjugation Chart: 하다 (to do)**
+>
+> |  | Present | Past |
+> |---|---------|------|
+> | Formal | 합니다 | 했습니다 |
+> | Polite | 해요 | 했어요 |
+> | Casual | 해 | 했어 |
 
 ---
 
