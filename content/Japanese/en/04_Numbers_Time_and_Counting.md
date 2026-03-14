@@ -51,26 +51,22 @@ Japanese has two counting systems: a native Japanese system (和語 / wago) and 
 | 9 | 九 | きゅう / く (kyuu / ku) | ここのつ (kokonotsu) |
 | 10 | 十 | じゅう (juu) | とお (too) |
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              When to Use Which System                             │
-│                                                                  │
-│   Kango (いち、に、さん...):                                      │
-│     • With specific counters (一本、二人、三台)                     │
-│     • Phone numbers, addresses, math                             │
-│     • Numbers above 10                                           │
-│                                                                  │
-│   Wago (ひとつ、ふたつ、みっつ...):                                 │
-│     • Counting things without a specific counter                 │
-│     • Age of young children (informal)                           │
-│     • Only goes up to 10                                         │
-│                                                                  │
-│   Note on 4, 7, 9:                                               │
-│     4 = し (shi) sounds like 死 (death) → よん (yon) preferred   │
-│     7 = しち (shichi) → なな (nana) often preferred              │
-│     9 = く (ku) sounds like 苦 (suffering) → きゅう preferred     │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **When to Use Which System**
+>
+> **Kango (いち、に、さん...)**:
+> - With specific counters (一本、二人、三台)
+> - Phone numbers, addresses, math
+> - Numbers above 10
+>
+> **Wago (ひとつ、ふたつ、みっつ...)**:
+> - Counting things without a specific counter
+> - Age of young children (informal)
+> - Only goes up to 10
+>
+> **Note on 4, 7, 9**:
+> - 4 = し (shi) sounds like 死 (death) → よん (yon) preferred
+> - 7 = しち (shichi) → なな (nana) often preferred
+> - 9 = く (ku) sounds like 苦 (suffering) → きゅう preferred
 
 ### 1.2 Zero
 
@@ -171,23 +167,19 @@ Note the sound changes for 3,000 and 8,000:
 |--------|----------|--------|
 | 10,000 | いちまん | ichi-man |
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              Japanese Large Number Units                          │
-│                                                                  │
-│   English groups by 3 digits: thousand, million, billion         │
-│   Japanese groups by 4 digits: 万 (man), 億 (oku), 兆 (chou)    │
-│                                                                  │
-│   1,0000 → いちまん (ichiman)         = 10,000                   │
-│   10,0000 → じゅうまん (juuman)        = 100,000                  │
-│   100,0000 → ひゃくまん (hyakuman)     = 1,000,000               │
-│   1000,0000 → いっせんまん (issenman)  = 10,000,000              │
-│   1,0000,0000 → いちおく (ichioku)     = 100,000,000             │
-│                                                                  │
-│   This 4-digit grouping is one of the trickiest parts of        │
-│   Japanese numbers for English speakers.                         │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **Japanese Large Number Units**
+>
+> English groups by 3 digits: thousand, million, billion
+> Japanese groups by 4 digits: 万 (man), 億 (oku), 兆 (chou)
+>
+> - 1,0000 → いちまん (ichiman) = 10,000
+> - 10,0000 → じゅうまん (juuman) = 100,000
+> - 100,0000 → ひゃくまん (hyakuman) = 1,000,000
+> - 1000,0000 → いっせんまん (issenman) = 10,000,000
+> - 1,0000,0000 → いちおく (ichioku) = 100,000,000
+>
+> This 4-digit grouping is one of the trickiest parts of
+> Japanese numbers for English speakers.
 
 ### 3.4 Compound Examples
 
@@ -205,27 +197,17 @@ Note the sound changes for 3,000 and 8,000:
 
 ### 4.1 What are Counters?
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│              The Japanese Counter System                          │
-│                                                                  │
-│   In English: "three books", "two cats", "one cup"               │
-│   In Japanese: You MUST add a counter word between the           │
-│                number and the noun.                               │
-│                                                                  │
-│   English:  "3 books"                                            │
-│   Japanese: 本を 三冊 ください。                                    │
-│             Hon o san-satsu kudasai.                              │
-│             "Please give me 3 books."                            │
-│             (三 = 3, 冊 = counter for books)                      │
-│                                                                  │
-│   There are 100+ counters in Japanese, but you only need         │
-│   about 10-15 for daily conversation.                            │
-│                                                                  │
-│   If you don't know the right counter, use the generic           │
-│   Japanese counter: ひとつ、ふたつ、みっつ...                       │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **The Japanese Counter System**
+>
+> In English: "three books", "two cats", "one cup"
+> In Japanese: You MUST add a counter word between the number and the noun.
+>
+> - **English**: "3 books"
+> - **Japanese**: 本を 三冊 ください。 (Hon o san-satsu kudasai.) — "Please give me 3 books." (三 = 3, 冊 = counter for books)
+>
+> There are 100+ counters in Japanese, but you only need about 10-15 for daily conversation.
+>
+> If you don't know the right counter, use the generic Japanese counter: ひとつ、ふたつ、みっつ...
 
 ### 4.2 Counter Word Order
 
