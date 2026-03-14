@@ -216,30 +216,26 @@ The check, please.
 
 Japan uses yen (円). There are no smaller units in practical use.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│              JAPANESE CURRENCY (日本の通貨)                    │
-│                                                              │
-│   COINS (硬貨 / kōka)                                       │
-│   一円     (ichi-en)      ¥1    — aluminum, light           │
-│   五円     (go-en)        ¥5    — brass, hole in center     │
-│   十円     (jū-en)        ¥10   — bronze                    │
-│   五十円   (gojū-en)      ¥50   — nickel, hole in center    │
-│   百円     (hyaku-en)     ¥100  — nickel                    │
-│   五百円   (gohyaku-en)   ¥500  — bimetal                   │
-│                                                              │
-│   BILLS (紙幣 / shihei)                                     │
-│   千円     (sen-en)       ¥1,000                            │
-│   二千円   (nisen-en)     ¥2,000  — rare                    │
-│   五千円   (gosen-en)     ¥5,000                            │
-│   一万円   (ichiman-en)   ¥10,000                           │
-│                                                              │
-│   Reading prices:                                            │
-│   ¥350 → 三百五十円 (sanbyaku gojū en)                      │
-│   ¥1,200 → 千二百円 (sen nihyaku en)                        │
-│   ¥4,980 → 四千九百八十円 (yonsen kyūhyaku hachijū en)      │
-└──────────────────────────────────────────────────────────────┘
-```
+> **JAPANESE CURRENCY (日本の通貨)**
+>
+> COINS (硬貨 / kōka)
+> 一円     (ichi-en)      ¥1    — aluminum, light
+> 五円     (go-en)        ¥5    — brass, hole in center
+> 十円     (jū-en)        ¥10   — bronze
+> 五十円   (gojū-en)      ¥50   — nickel, hole in center
+> 百円     (hyaku-en)     ¥100  — nickel
+> 五百円   (gohyaku-en)   ¥500  — bimetal
+>
+> BILLS (紙幣 / shihei)
+> 千円     (sen-en)       ¥1,000
+> 二千円   (nisen-en)     ¥2,000  — rare
+> 五千円   (gosen-en)     ¥5,000
+> 一万円   (ichiman-en)   ¥10,000
+>
+> Reading prices:
+> ¥350 → 三百五十円 (sanbyaku gojū en)
+> ¥1,200 → 千二百円 (sen nihyaku en)
+> ¥4,980 → 四千九百八十円 (yonsen kyūhyaku hachijū en)
 
 ### 3.3 Shopping Phrases
 
@@ -349,28 +345,24 @@ Excuse me, is this train bound for Tokyo?
 
 ### 4.4 Train Station Diagram
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                   TRAIN STATION LAYOUT                        │
-│                                                              │
-│   入口 (iriguchi)                                            │
-│     ↓                                                        │
-│   切符売り場 (kippu uriba) — ticket counter                  │
-│   券売機 (kenbaiki) — ticket machine                         │
-│     ↓                                                        │
-│   改札口 (kaisatsuguchi) — ticket gate                       │
-│   [ICカードをタッチ — touch your IC card]                    │
-│     ↓                                                        │
-│   ホーム (hōmu) — platform                                   │
-│   1番線、2番線... (ichi-bansen, ni-bansen — track 1, 2...)   │
-│     ↓                                                        │
-│   電車に乗る (densha ni noru — board the train)              │
-│     ↓                                                        │
-│   電車を降りる (densha o oriru — get off the train)          │
-│     ↓                                                        │
-│   改札口 → 出口 (deguchi) — exit                            │
-└──────────────────────────────────────────────────────────────┘
-```
+> **TRAIN STATION LAYOUT**
+>
+> 入口 (iriguchi)
+> ↓
+> 切符売り場 (kippu uriba) — ticket counter
+> 券売機 (kenbaiki) — ticket machine
+> ↓
+> 改札口 (kaisatsuguchi) — ticket gate
+> [ICカードをタッチ — touch your IC card]
+> ↓
+> ホーム (hōmu) — platform
+> 1番線、2番線... (ichi-bansen, ni-bansen — track 1, 2...)
+> ↓
+> 電車に乗る (densha ni noru — board the train)
+> ↓
+> 電車を降りる (densha o oriru — get off the train)
+> ↓
+> 改札口 → 出口 (deguchi) — exit
 
 ---
 
@@ -396,31 +388,27 @@ Japanese has two sets of family terms: one for **your own family** (humble) and 
 
 ### 5.2 When to Use Which
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│          YOUR FAMILY vs SOMEONE ELSE'S FAMILY                │
-│                                                              │
-│   Talking about YOUR family to others:                       │
-│   「母は先生です。」                                         │
-│   Haha wa sensei desu.                                       │
-│   My mother is a teacher.                                    │
-│                                                              │
-│   Asking about SOMEONE ELSE'S family:                        │
-│   「お母さんはお元気ですか。」                               │
-│   Okāsan wa ogenki desu ka.                                  │
-│   Is your mother well?                                       │
-│                                                              │
-│   Talking TO your own family (at home):                      │
-│   「お母さん、ご飯まだ？」                                   │
-│   Okāsan, gohan mada?                                        │
-│   Mom, is dinner ready yet?                                  │
-│   (You USE the respectful form when addressing them directly)│
-│                                                              │
-│   RULE: Humble when talking ABOUT your family to outsiders.  │
-│         Respectful when referring to OTHERS' family members.  │
-│         Respectful when ADDRESSING your own family directly. │
-└──────────────────────────────────────────────────────────────┘
-```
+> **YOUR FAMILY vs SOMEONE ELSE'S FAMILY**
+>
+> Talking about YOUR family to others:
+> 「母は先生です。」
+> Haha wa sensei desu.
+> My mother is a teacher.
+>
+> Asking about SOMEONE ELSE'S family:
+> 「お母さんはお元気ですか。」
+> Okāsan wa ogenki desu ka.
+> Is your mother well?
+>
+> Talking TO your own family (at home):
+> 「お母さん、ご飯まだ？」
+> Okāsan, gohan mada?
+> Mom, is dinner ready yet?
+> (You USE the respectful form when addressing them directly)
+>
+> - **RULE**: Humble when talking ABOUT your family to outsiders.
+> Respectful when referring to OTHERS' family members.
+> Respectful when ADDRESSING your own family directly.
 
 ### 5.3 Example Sentences
 
@@ -675,28 +663,24 @@ Used for general objects, especially when no specific counter exists.
 
 ### 9.4 Sound Change Rules for 本/杯/匹
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│        COUNTER SOUND CHANGES (本・杯・匹)                    │
-│                                                              │
-│   Number │  本 (hon)  │  杯 (hai)  │  匹 (hiki)            │
-│   ───────┼────────────┼────────────┼────────────             │
-│   1      │ いっぽん   │ いっぱい   │ いっぴき               │
-│   2      │ にほん     │ にはい     │ にひき                 │
-│   3      │ さんぼん   │ さんばい   │ さんびき               │
-│   4      │ よんほん   │ よんはい   │ よんひき               │
-│   5      │ ごほん     │ ごはい     │ ごひき                 │
-│   6      │ ろっぽん   │ ろっぱい   │ ろっぴき               │
-│   7      │ ななほん   │ ななはい   │ ななひき               │
-│   8      │ はっぽん   │ はっぱい   │ はっぴき               │
-│   9      │ きゅうほん │ きゅうはい │ きゅうひき             │
-│   10     │ じゅっぽん │ じゅっぱい │ じゅっぴき             │
-│                                                              │
-│   Pattern: 1, 6, 8, 10 → double consonant + p-sound         │
-│            3 → b-sound                                       │
-│            Others → h-sound (unchanged)                      │
-└──────────────────────────────────────────────────────────────┘
-```
+> **COUNTER SOUND CHANGES (本・杯・匹)**
+>
+> Number │  本 (hon)  │  杯 (hai)  │  匹 (hiki)
+> ───────┼────────────┼────────────┼────────────
+> 1      │ いっぽん   │ いっぱい   │ いっぴき
+> 2      │ にほん     │ にはい     │ にひき
+> 3      │ さんぼん   │ さんばい   │ さんびき
+> 4      │ よんほん   │ よんはい   │ よんひき
+> 5      │ ごほん     │ ごはい     │ ごひき
+> 6      │ ろっぽん   │ ろっぱい   │ ろっぴき
+> 7      │ ななほん   │ ななはい   │ ななひき
+> 8      │ はっぽん   │ はっぱい   │ はっぴき
+> 9      │ きゅうほん │ きゅうはい │ きゅうひき
+> 10     │ じゅっぽん │ じゅっぱい │ じゅっぴき
+>
+> - **Pattern**: 1, 6, 8, 10 → double consonant + p-sound
+> 3 → b-sound
+> Others → h-sound (unchanged)
 
 ---
 
@@ -897,38 +881,34 @@ You:    いいえ、大丈夫です。ありがとうございます。
 
 ## Quick Reference
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│         DAILY LIFE CHEAT SHEET (日常生活まとめ)               │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  MEALS:  朝ご飯 (breakfast) 昼ご飯 (lunch) 晩ご飯 (dinner) │
-│  BEFORE: いただきます  AFTER: ごちそうさまでした             │
-│                                                              │
-│  SHOPPING:                                                   │
-│  いくらですか (how much?) / 〜をください (I'll take ~)       │
-│  高い (expensive) / 安い (cheap)                             │
-│  カードで / 現金で (by card / cash)                          │
-│                                                              │
-│  TRANSPORT:                                                  │
-│  電車 (train) / バス (bus) / タクシー (taxi) / 歩いて (walk) │
-│  〜で行く (go by ~) / 乗る (board) / 降りる (get off)       │
-│  乗り換え (transfer) / 切符 (ticket)                        │
-│                                                              │
-│  FAMILY:                                                     │
-│  Your own: 父/母/兄/姉/弟/妹                               │
-│  Others':  お父さん/お母さん/お兄さん/お姉さん/弟さん/妹さん │
-│                                                              │
-│  HOME/LEAVING/RETURNING:                                     │
-│  いってきます → いってらっしゃい                             │
-│  ただいま → おかえりなさい                                   │
-│                                                              │
-│  COUNTERS:                                                   │
-│  つ (general) / 人 (people) / 個 (small obj) / 本 (long)    │
-│  枚 (flat) / 杯 (cups) / 匹 (animals) / 冊 (books)         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **DAILY LIFE CHEAT SHEET (日常生活まとめ)**
+> ├──────────────────────────────────────────────────────────────┤
+>
+> - **MEALS**: 朝ご飯 (breakfast) 昼ご飯 (lunch) 晩ご飯 (dinner)
+> - **BEFORE**: いただきます  AFTER: ごちそうさまでした
+>
+> SHOPPING:
+> いくらですか (how much?) / 〜をください (I'll take ~)
+> 高い (expensive) / 安い (cheap)
+> カードで / 現金で (by card / cash)
+>
+> TRANSPORT:
+> 電車 (train) / バス (bus) / タクシー (taxi) / 歩いて (walk)
+> 〜で行く (go by ~) / 乗る (board) / 降りる (get off)
+> 乗り換え (transfer) / 切符 (ticket)
+>
+> FAMILY:
+> - **Your own**: 父/母/兄/姉/弟/妹
+> - **Others'**: お父さん/お母さん/お兄さん/お姉さん/弟さん/妹さん
+>
+> HOME/LEAVING/RETURNING:
+> いってきます → いってらっしゃい
+> ただいま → おかえりなさい
+>
+> COUNTERS:
+> つ (general) / 人 (people) / 個 (small obj) / 本 (long)
+> 枚 (flat) / 杯 (cups) / 匹 (animals) / 冊 (books)
+>
 
 ---
 
