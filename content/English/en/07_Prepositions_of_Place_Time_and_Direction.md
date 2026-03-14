@@ -25,27 +25,20 @@
 
 ### 1.1 The Fundamental Difference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean: POSTPOSITIONS (조사) — come AFTER the noun            │
-│   학교에    학교에서    학교로    학교까지                          │
-│   school+에  school+에서  school+으로  school+까지                │
-│                                                                 │
-│   English: PREPOSITIONS — come BEFORE the noun                  │
-│   at school   in school   to school   from school               │
-│   AT+school   IN+school   TO+school   FROM+school               │
-│                                                                 │
-│   Korean: noun + particle (학교 + 에)                            │
-│   English: preposition + noun (at + school)                     │
-│   → The order is REVERSED!                                     │
-│                                                                 │
-│   ※ Korean particles map to multiple English prepositions:     │
-│     에 → at, in, on, to (depends on context!)                  │
-│     에서 → at, in, from (depends on context!)                   │
-│     으로 → to, by, with, as (depends on context!)               │
-│     This is WHY prepositions are so hard for Korean speakers.  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean: POSTPOSITIONS (조사) — come AFTER the noun
+> 학교에    학교에서    학교로    학교까지
+> school+에  school+에서  school+으로  school+까지
+> English: PREPOSITIONS — come BEFORE the noun
+> at school   in school   to school   from school
+> AT+school   IN+school   TO+school   FROM+school
+> Korean: noun + particle (학교 + 에)
+> English: preposition + noun (at + school)
+> → The order is REVERSED!
+> ※ Korean particles map to multiple English prepositions:
+> 에 → at, in, on, to (depends on context!)
+> 에서 → at, in, from (depends on context!)
+> 으로 → to, by, with, as (depends on context!)
+> This is WHY prepositions are so hard for Korean speakers.
 
 ---
 
@@ -53,23 +46,17 @@
 
 ### 2.1 The in/on/at Place Hierarchy
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   at → specific POINT (점)                                      │
-│   "at the bus stop"  "at the door"  "at school"                 │
-│                                                                 │
-│   on → SURFACE (면)                                              │
-│   "on the table"  "on the wall"  "on the floor"                 │
-│                                                                 │
-│   in → ENCLOSED SPACE (안)                                       │
-│   "in the room"  "in the box"  "in the car"                     │
-│                                                                 │
-│   Think of it as:                                               │
-│   at = a dot •           (가장 좁은 개념)                        │
-│   on = a surface ▬       (면 위에)                               │
-│   in = a container □     (안에)                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **at → specific POINT (점)**
+>
+> "at the bus stop"  "at the door"  "at school"
+> on → SURFACE (면)
+> "on the table"  "on the wall"  "on the floor"
+> in → ENCLOSED SPACE (안)
+> "in the room"  "in the box"  "in the car"
+> Think of it as:
+> at = a dot •           (가장 좁은 개념)
+> on = a surface ▬       (면 위에)
+> in = a container □     (안에)
 
 ### 2.2 at — Specific Points
 
@@ -178,22 +165,16 @@ in + other:
 
 ### 3.1 The Time Hierarchy
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   at → specific TIME POINT (시점)                                │
-│   "at 3 o'clock"  "at noon"  "at midnight"  "at night"          │
-│                                                                 │
-│   on → specific DAY or DATE (날)                                 │
-│   "on Monday"  "on March 5th"  "on Christmas Day"               │
-│                                                                 │
-│   in → LONGER PERIODS (기간)                                     │
-│   "in March"  "in 2024"  "in summer"  "in the morning"          │
-│                                                                 │
-│   at = point of time  •                                         │
-│   on = day           ●                                          │
-│   in = period        ━━━━━                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **at → specific TIME POINT (시점)**
+>
+> "at 3 o'clock"  "at noon"  "at midnight"  "at night"
+> on → specific DAY or DATE (날)
+> "on Monday"  "on March 5th"  "on Christmas Day"
+> in → LONGER PERIODS (기간)
+> "in March"  "in 2024"  "in summer"  "in the morning"
+> at = point of time  •
+> on = day           ●
+> in = period        ━━━━━
 
 ### 3.2 at — Time Points
 
@@ -321,29 +302,21 @@ toward(s) = direction, no guarantee of arrival:
 
 ### 4.3 Korean Postposition Mapping
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Korean 에:                                                     │
-│   학교에 간다    → go TO school     (direction/목적지)            │
-│   학교에 있다    → be AT/IN school  (location/위치)               │
-│                                                                 │
-│   Korean 에서:                                                   │
-│   학교에서 공부한다 → study AT/IN school  (location of action)    │
-│   서울에서 왔다    → come FROM Seoul     (origin/출발점)          │
-│                                                                 │
-│   Korean 으로/로:                                                │
-│   학교로 간다     → go TO school      (direction)                │
-│   버스로 간다     → go BY bus         (means)                     │
-│   한국어로 말한다  → speak IN Korean   (language)                 │
-│                                                                 │
-│   Korean 까지:                                                   │
-│   학교까지 걸었다  → walked TO school  (endpoint)                 │
-│   3시까지        → BY 3 o'clock / UNTIL 3 o'clock               │
-│                                                                 │
-│   ※ One Korean particle maps to MANY English prepositions!    │
-│     You must learn which English preposition fits each context. │
-└─────────────────────────────────────────────────────────────────┘
-```
+> Korean 에:
+> 학교에 간다    → go TO school     (direction/목적지)
+> 학교에 있다    → be AT/IN school  (location/위치)
+> Korean 에서:
+> 학교에서 공부한다 → study AT/IN school  (location of action)
+> 서울에서 왔다    → come FROM Seoul     (origin/출발점)
+> Korean 으로/로:
+> 학교로 간다     → go TO school      (direction)
+> 버스로 간다     → go BY bus         (means)
+> 한국어로 말한다  → speak IN Korean   (language)
+> Korean 까지:
+> 학교까지 걸었다  → walked TO school  (endpoint)
+> 3시까지        → BY 3 o'clock / UNTIL 3 o'clock
+> ※ One Korean particle maps to MANY English prepositions!
+> You must learn which English preposition fits each context.
 
 ---
 
@@ -512,41 +485,28 @@ wait for                ~를 기다리다     I'm waiting for the bus.
 
 ### 9.1 Error Chart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Error                          Correct                        │
-│   ─────                          ───────                        │
-│   "I go to home."                "I go home."                   │
-│   (home doesn't need "to")       ※ home = adverb here          │
-│                                                                 │
-│   "I arrive to Seoul."           "I arrive in Seoul."           │
-│   (arrive uses in/at, not to)                                   │
-│                                                                 │
-│   "I arrived at Seoul."          "I arrived in Seoul."          │
-│   (city = in, point/building = at)                              │
-│                                                                 │
-│   "in last Monday"               "last Monday"                  │
-│   (no preposition with last/next/this)                          │
-│                                                                 │
-│   "I'm interested about..."      "I'm interested in..."        │
-│   (interested + in, not about)                                  │
-│                                                                 │
-│   "She married with him."        "She married him."             │
-│   (marry is transitive — no preposition)                        │
-│                                                                 │
-│   "I listen the music."          "I listen to the music."       │
-│   (listen requires "to")                                        │
-│                                                                 │
-│   "Discuss about the problem."   "Discuss the problem."         │
-│   (discuss is transitive — no "about")                          │
-│                                                                 │
-│   "I go to there."               "I go there."                  │
-│   (there/here are adverbs — no "to")                            │
-│                                                                 │
-│   "She is good in cooking."      "She is good at cooking."      │
-│   (good at, not in)                                             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Error                          Correct**
+>
+> "I go to home."                "I go home."
+> (home doesn't need "to")       ※ home = adverb here
+> "I arrive to Seoul."           "I arrive in Seoul."
+> (arrive uses in/at, not to)
+> "I arrived at Seoul."          "I arrived in Seoul."
+> (city = in, point/building = at)
+> "in last Monday"               "last Monday"
+> (no preposition with last/next/this)
+> "I'm interested about..."      "I'm interested in..."
+> (interested + in, not about)
+> "She married with him."        "She married him."
+> (marry is transitive — no preposition)
+> "I listen the music."          "I listen to the music."
+> (listen requires "to")
+> "Discuss about the problem."   "Discuss the problem."
+> (discuss is transitive — no "about")
+> "I go to there."               "I go there."
+> (there/here are adverbs — no "to")
+> "She is good in cooking."      "She is good at cooking."
+> (good at, not in)
 
 ---
 
@@ -708,30 +668,22 @@ wait for                ~를 기다리다     I'm waiting for the bus.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Preposition Quick Guide                             │
-│                                                                 │
-│   Place: at (point) / on (surface) / in (enclosed)             │
-│   Time:  at (time point) / on (day/date) / in (period)         │
-│   ※ Exception: at night (NOT "in the night")                  │
-│   ※ No preposition: last/next/this/every + time               │
-│                                                                 │
-│   Direction: to (destination), from (origin),                   │
-│              into (enter), out of (exit), through, across       │
-│                                                                 │
-│   Means: by bus/car/train, on foot, with a knife               │
-│   Duration: for 2 hours, during the meeting, until 5 PM        │
-│                                                                 │
-│   Korean mapping:                                               │
-│   에 → at/in/on/to (context-dependent!)                        │
-│   에서 → at/in/from (context-dependent!)                        │
-│   으로 → to/by/with/in (context-dependent!)                     │
-│                                                                 │
-│   Common collocations: interested IN, good AT, afraid OF,      │
-│   famous FOR, listen TO, wait FOR, arrive AT/IN                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Preposition Quick Guide**
+>
+> Place: at (point) / on (surface) / in (enclosed)
+> Time:  at (time point) / on (day/date) / in (period)
+> ※ Exception: at night (NOT "in the night")
+> ※ No preposition: last/next/this/every + time
+> Direction: to (destination), from (origin),
+> into (enter), out of (exit), through, across
+> Means: by bus/car/train, on foot, with a knife
+> Duration: for 2 hours, during the meeting, until 5 PM
+> Korean mapping:
+> 에 → at/in/on/to (context-dependent!)
+> 에서 → at/in/from (context-dependent!)
+> 으로 → to/by/with/in (context-dependent!)
+> Common collocations: interested IN, good AT, afraid OF,
+> famous FOR, listen TO, wait FOR, arrive AT/IN
 
 ---
 
