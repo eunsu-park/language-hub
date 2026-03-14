@@ -27,24 +27,17 @@
 
 ### 1.1 Italian in the World
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                Italian: A Language of Culture                     │
-│                                                                 │
-│   Native speakers: ~65 million                                  │
-│   Total speakers:  ~85 million (including L2)                   │
-│   Official in:     Italy, Switzerland (Ticino), San Marino,     │
-│                    Vatican City                                  │
-│   Recognized in:   Slovenia, Croatia (Istria)                   │
-│                                                                 │
-│   Language family: Indo-European → Romance → Italo-Dalmatian    │
-│   Closest relatives: Sicilian, Neapolitan, Sardinian,           │
-│                      (then) Spanish, Portuguese, French          │
-│                                                                 │
-│   Cultural reach:  Opera, music terminology, art, architecture, │
-│                    cuisine, fashion, design, cinema              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Italian: A Language of Culture**
+>
+> - **Native speakers**: ~65 million
+> - **Total speakers**: ~85 million (including L2)
+> - **Official in**: Italy, Switzerland (Ticino), San Marino, Vatican City
+> - **Recognized in**: Slovenia, Croatia (Istria)
+>
+> - **Language family**: Indo-European → Romance → Italo-Dalmatian
+> - **Closest relatives**: Sicilian, Neapolitan, Sardinian, (then) Spanish, Portuguese, French
+>
+> - **Cultural reach**: Opera, music terminology, art, architecture, cuisine, fashion, design, cinema
 
 ### 1.2 Where Italian Is Spoken
 
@@ -137,25 +130,20 @@ These appear only in borrowed words:
 
 Italian has 7 distinct vowel phonemes — 5 letters but 7 sounds. The letters **e** and **o** each have an open and a closed variant.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Italian Vowel Trapezoid                        │
-│                                                                 │
-│           Front         Central         Back                    │
-│   High     i /i/                        u /u/                   │
-│   Close-mid e /e/                       o /o/                   │
-│   Open-mid  è /ɛ/                       ò /ɔ/                   │
-│   Low                   a /a/                                   │
-│                                                                 │
-│   7 phonemes:  /i/, /e/, /ɛ/, /a/, /ɔ/, /o/, /u/              │
-│                                                                 │
-│   Key feature:                                                  │
-│   • Open è /ɛ/ vs closed é /e/                                 │
-│   • Open ò /ɔ/ vs closed ó /o/                                 │
-│   • This distinction is phonemic in standard Italian            │
-│     (Tuscan-based pronunciation)                                │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Italian Vowel Trapezoid**
+>
+> Front / Central / Back
+> - **High**: i /i/ — u /u/
+> - **Close-mid**: e /e/ — o /o/
+> - **Open-mid**: è /ɛ/ — ò /ɔ/
+> - **Low**: a /a/
+>
+> 7 phonemes: /i/, /e/, /ɛ/, /a/, /ɔ/, /o/, /u/
+>
+> Key feature:
+> - Open è /ɛ/ vs closed é /e/
+> - Open ò /ɔ/ vs closed ó /o/
+> - This distinction is phonemic in standard Italian (Tuscan-based pronunciation)
 
 | Vowel | IPA | Similar to English | Similar to Korean | Example |
 |-------|-----|-------------------|-------------------|---------|
@@ -231,30 +219,25 @@ V = /v/ (labiodental fricative — lower lip touches upper teeth):
 
 ### 4.2 C and G — Hard and Soft
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   C before a, o, u = /k/ (hard)                                │
-│   casa [ˈkaːza] (house)   come [ˈkome] (how)                   │
-│   cuore [ˈkwɔːre] (heart)                                      │
-│                                                                 │
-│   C before e, i = /tʃ/ (soft, like English "ch" in "church")   │
-│   cena [ˈtʃeːna] (dinner)  cinema [ˈtʃiːnema] (cinema)        │
-│   cielo [ˈtʃɛːlo] (sky)                                        │
-│                                                                 │
-│   CH before e, i = /k/ (hard sound restored)                   │
-│   che [ke] (what/that)   chi [ki] (who)                         │
-│   chiave [ˈkjaːve] (key)  perché [perˈke] (why/because)        │
-│                                                                 │
-│   G before a, o, u = /g/ (hard)                                │
-│   gatto [ˈgatːo] (cat)   grande [ˈgrande] (big)                │
-│                                                                 │
-│   G before e, i = /dʒ/ (soft, like English "j" in "judge")     │
-│   gente [ˈdʒɛnte] (people)  giorno [ˈdʒorno] (day)            │
-│                                                                 │
-│   GH before e, i = /g/ (hard sound restored)                   │
-│   spaghetti [spaˈgetːi]  ghiaccio [ˈgjattʃo] (ice)            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **C and G — Hard and Soft Rules**
+>
+> C before a, o, u = /k/ (hard)
+> casa [ˈkaːza] (house), come [ˈkome] (how), cuore [ˈkwɔːre] (heart)
+>
+> C before e, i = /tʃ/ (soft, like English "ch" in "church")
+> cena [ˈtʃeːna] (dinner), cinema [ˈtʃiːnema] (cinema), cielo [ˈtʃɛːlo] (sky)
+>
+> CH before e, i = /k/ (hard sound restored)
+> che [ke] (what/that), chi [ki] (who), chiave [ˈkjaːve] (key), perché [perˈke] (why/because)
+>
+> G before a, o, u = /g/ (hard)
+> gatto [ˈgatːo] (cat), grande [ˈgrande] (big)
+>
+> G before e, i = /dʒ/ (soft, like English "j" in "judge")
+> gente [ˈdʒɛnte] (people), giorno [ˈdʒorno] (day)
+>
+> GH before e, i = /g/ (hard sound restored)
+> spaghetti [spaˈgetːi], ghiaccio [ˈgjattʃo] (ice)
 
 ### 4.3 S — Voiced and Voiceless
 
@@ -339,30 +322,26 @@ H is completely silent in Italian. It serves only as a spelling device:
 
 Double consonants (geminate consonants) are one of the most distinctive features of Italian pronunciation. They are held longer than single consonants, and the distinction is meaningful — it changes word meaning.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                SINGLE vs. DOUBLE CONSONANTS                      │
-│                                                                 │
-│   Single consonant:        Double consonant:                     │
-│   Short, quick             Held longer, more forceful            │
-│                                                                 │
-│   Minimal pairs:                                                │
-│   casa [ˈkaːza] (house)   cassa [ˈkasːa] (cashier/crate)      │
-│   pala [ˈpaːla] (shovel)  palla [ˈpalːa] (ball)               │
-│   caro [ˈkaːro] (dear)    carro [ˈkarːo] (cart)               │
-│   papa [ˈpaːpa] (pope)    pappa [ˈpapːa] (baby food)          │
-│   note [ˈnɔːte] (notes)   notte [ˈnɔtːe] (night)             │
-│   pena [ˈpeːna] (sorrow)  penna [ˈpenːa] (pen)               │
-│   sete [ˈseːte] (thirst)  sette [ˈsɛtːe] (seven)             │
-│   fato [ˈfaːto] (fate)    fatto [ˈfatːo] (fact/done)          │
-│   sono [ˈsɔːno] (I am)    sonno [ˈsonːo] (sleep)             │
-│   tono [ˈtɔːno] (tone)    tonno [ˈtonːo] (tuna)              │
-│                                                                 │
-│   ※ All consonants can be doubled except h and q.              │
-│   ※ Before a double consonant, the vowel is short.             │
-│   ※ Before a single consonant, the vowel is long.              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **SINGLE vs. DOUBLE CONSONANTS**
+>
+> - **Single consonant**: Short, quick
+> - **Double consonant**: Held longer, more forceful
+>
+> Minimal pairs:
+> - casa [ˈkaːza] (house) vs cassa [ˈkasːa] (cashier/crate)
+> - pala [ˈpaːla] (shovel) vs palla [ˈpalːa] (ball)
+> - caro [ˈkaːro] (dear) vs carro [ˈkarːo] (cart)
+> - papa [ˈpaːpa] (pope) vs pappa [ˈpapːa] (baby food)
+> - note [ˈnɔːte] (notes) vs notte [ˈnɔtːe] (night)
+> - pena [ˈpeːna] (sorrow) vs penna [ˈpenːa] (pen)
+> - sete [ˈseːte] (thirst) vs sette [ˈsɛtːe] (seven)
+> - fato [ˈfaːto] (fate) vs fatto [ˈfatːo] (fact/done)
+> - sono [ˈsɔːno] (I am) vs sonno [ˈsonːo] (sleep)
+> - tono [ˈtɔːno] (tone) vs tonno [ˈtonːo] (tuna)
+>
+> - All consonants can be doubled except h and q.
+> - Before a double consonant, the vowel is short.
+> - Before a single consonant, the vowel is long.
 
 ### 5.2 How to Pronounce Double Consonants
 
@@ -444,27 +423,24 @@ sch + e/i = /sk/ — hard sound before e/i
 
 ### 6.4 Summary Table of C/G Combinations
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Before a, o, u:       Before e, i:       Hard before e, i:   │
-│   ──────────────         ──────────────     ─────────────────   │
-│   ca /ka/ casa           ce /tʃe/ cena     che /ke/ che         │
-│   co /ko/ come           ci /tʃi/ cinema   chi /ki/ chi         │
-│   cu /ku/ cuore          cia /tʃa/ ciao                         │
-│                          cio /tʃo/ cioccolato                   │
-│                          ciu /tʃu/ ciuffo                       │
-│                                                                 │
-│   ga /ga/ gatto          ge /dʒe/ gente    ghe /ge/ spaghetti  │
-│   go /go/ gola           gi /dʒi/ giro     ghi /gi/ ghiaccio   │
-│   gu /gu/ gusto          gia /dʒa/ giacca                      │
-│                          gio /dʒo/ giorno                       │
-│                          giu /dʒu/ giugno                       │
-│                                                                 │
-│   sca /ska/ scarpa       sce /ʃe/ scena    sche /ske/ schema   │
-│   sco /sko/ scoprire     sci /ʃi/ sciare   schi /ski/ schiena  │
-│   scu /sku/ scuola                                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Summary Table of C/G Combinations**
+>
+> Before a, o, u | Before e, i | Hard before e, i
+> ca /ka/ casa | ce /tʃe/ cena | che /ke/ che
+> co /ko/ come | ci /tʃi/ cinema | chi /ki/ chi
+> cu /ku/ cuore | cia /tʃa/ ciao |
+> — | cio /tʃo/ cioccolato |
+> — | ciu /tʃu/ ciuffo |
+>
+> ga /ga/ gatto | ge /dʒe/ gente | ghe /ge/ spaghetti
+> go /go/ gola | gi /dʒi/ giro | ghi /gi/ ghiaccio
+> gu /gu/ gusto | gia /dʒa/ giacca |
+> — | gio /dʒo/ giorno |
+> — | giu /dʒu/ giugno |
+>
+> sca /ska/ scarpa | sce /ʃe/ scena | sche /ske/ schema
+> sco /sko/ scoprire | sci /ʃi/ sciare | schi /ski/ schiena
+> scu /sku/ scuola | — | —
 
 ---
 
@@ -515,33 +491,23 @@ Most common syllable patterns:
 
 Italian words are classified by where the stress falls:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   1. Parole piane (penultimate stress) — MOST COMMON (~75%)    │
-│   Stress on SECOND-TO-LAST syllable                             │
-│   ca-SA (house)        ita-LIA-no (Italian)                     │
-│   pa-RO-la (word)      stu-DEN-te (student)                     │
-│   bam-BI-no (child)    la-VO-ro (work)                          │
-│                                                                 │
-│   2. Parole tronche (final stress) — written accent required    │
-│   Stress on LAST syllable — always marked with accent           │
-│   cit-TÀ (city)        per-CHÉ (why/because)                   │
-│   ca-FFÈ (coffee)      u-ni-ver-si-TÀ (university)             │
-│   gio-VEN-TÙ (youth)   vir-TÙ (virtue)                         │
-│                                                                 │
-│   3. Parole sdrucciole (antepenultimate stress)                 │
-│   Stress on THIRD-TO-LAST syllable                              │
-│   TA-vo-la (table)     FAB-bri-ca (factory)                     │
-│   MU-si-ca (music)     te-LE-fo-no (telephone)                  │
-│   ME-di-co (doctor)    DO-me-ni-ca (Sunday)                     │
-│                                                                 │
-│   4. Parole bisdrucciole (pre-antepenultimate stress) — rare    │
-│   Stress on FOURTH-TO-LAST syllable (verb + pronoun combos)     │
-│   DI-te-me-lo (tell it to me)                                   │
-│   MAN-da-glie-lo (send it to him)                               │
-│   TE-le-fo-na-mi (call me)                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Four Types of Stress Position**
+>
+> 1. Parole piane (penultimate stress) — MOST COMMON (~75%)
+> Stress on SECOND-TO-LAST syllable
+> ca-SA (house), ita-LIA-no (Italian), pa-RO-la (word), stu-DEN-te (student), bam-BI-no (child), la-VO-ro (work)
+>
+> 2. Parole tronche (final stress) — written accent required
+> Stress on LAST syllable — always marked with accent
+> cit-TÀ (city), per-CHÉ (why/because), ca-FFÈ (coffee), u-ni-ver-si-TÀ (university), gio-VEN-TÙ (youth), vir-TÙ (virtue)
+>
+> 3. Parole sdrucciole (antepenultimate stress)
+> Stress on THIRD-TO-LAST syllable
+> TA-vo-la (table), FAB-bri-ca (factory), MU-si-ca (music), te-LE-fo-no (telephone), ME-di-co (doctor), DO-me-ni-ca (Sunday)
+>
+> 4. Parole bisdrucciole (pre-antepenultimate stress) — rare
+> Stress on FOURTH-TO-LAST syllable (verb + pronoun combos)
+> DI-te-me-lo (tell it to me), MAN-da-glie-lo (send it to him), TE-le-fo-na-mi (call me)
 
 ### 8.2 Written Accents in Italian
 
@@ -791,28 +757,24 @@ Divide these words into syllables.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  Pronunciation Quick Guide                       │
-│                                                                 │
-│   7 vowels: a /a/, e /e/ or /ɛ/, i /i/, o /o/ or /ɔ/, u /u/  │
-│   All vowels pure — never glide or reduce to schwa              │
-│                                                                 │
-│   C + e/i = /tʃ/ (like "ch")    G + e/i = /dʒ/ (like "j")    │
-│   CH + e/i = /k/ (hard c)       GH + e/i = /g/ (hard g)       │
-│   SC + e/i = /ʃ/ (like "sh")    SCH + e/i = /sk/              │
-│   GLI = /ʎ/ (palatal l)         GN = /ɲ/ (palatal n)          │
-│                                                                 │
-│   Double consonants: hold longer, shorten preceding vowel       │
-│   R = alveolar trill (always)                                   │
-│   H = always silent                                             │
-│   B ≠ V (Italian distinguishes them, unlike Spanish)           │
-│   Z = /ts/ or /dz/ (depends on word)                           │
-│                                                                 │
-│   Stress: ~75% penultimate; accent mark = final syllable        │
-│   Accents: grave (è, à, ò, ù) and acute (é only)              │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Pronunciation Quick Guide**
+>
+> 7 vowels: a /a/, e /e/ or /ɛ/, i /i/, o /o/ or /ɔ/, u /u/
+> All vowels pure — never glide or reduce to schwa
+>
+> - C + e/i = /tʃ/ (like "ch") | G + e/i = /dʒ/ (like "j")
+> - CH + e/i = /k/ (hard c) | GH + e/i = /g/ (hard g)
+> - SC + e/i = /ʃ/ (like "sh") | SCH + e/i = /sk/
+> - GLI = /ʎ/ (palatal l) | GN = /ɲ/ (palatal n)
+>
+> - Double consonants: hold longer, shorten preceding vowel
+> - R = alveolar trill (always)
+> - H = always silent
+> - B ≠ V (Italian distinguishes them, unlike Spanish)
+> - Z = /ts/ or /dz/ (depends on word)
+>
+> - Stress: ~75% penultimate; accent mark = final syllable
+> - Accents: grave (è, à, ò, ù) and acute (é only)
 
 ---
 
