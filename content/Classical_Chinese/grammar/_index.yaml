@@ -1,0 +1,48 @@
+# Classical Chinese (漢文) Grammar — Index
+# Directory: language-hub/content/Classical_Chinese/grammar/
+
+course: Classical_Chinese
+section: grammar
+label:
+  en: "Classical Chinese Grammar Reference"
+  ko: "한문 문법 참고서"
+
+files:
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules including function words, sentence patterns, negation, questions, rhetorical devices, classical text patterns, and composition rules"
+      ko: "허사, 문형, 부정, 의문, 수사법, 고문 문형, 작문 규칙 등 문법 규칙"
+    rule_count: 7
+    categories:
+      - particles
+      - syntax
+      - negation
+      - interrogative
+      - rhetoric
+      - advanced_syntax
+      - writing
+    rules_included:
+      - function_words
+      - sentence_patterns
+      - negation_patterns
+      - question_patterns
+      - rhetorical_devices
+      - classical_text_patterns
+      - composition_rules
+
+  - file: tense_rules.yaml
+    description:
+      en: "Sentence structure types for Classical Chinese (declarative, negative, interrogative, imperative, exclamatory, passive, causative, conditional, comparative, concessive)"
+      ko: "한문 문장 구조 유형 (평서문, 부정문, 의문문, 명령문, 감탄문, 피동문, 사역문, 조건문, 비교문, 양보문)"
+    structure_count: 10
+    structures_included:
+      - declarative
+      - negative
+      - interrogative
+      - imperative
+      - exclamatory
+      - passive
+      - causative
+      - conditional
+      - comparative
+      - concessive
