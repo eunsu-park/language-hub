@@ -113,17 +113,13 @@ The perfect passive system works **completely differently** from the present pas
 
 ### 4.1 Formation
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│   PERFECT PASSIVE = PPP + present tense of ESSE               │
-│   PLUPERFECT PASSIVE = PPP + imperfect tense of ESSE          │
-│   FUTURE PERFECT PASSIVE = PPP + future tense of ESSE         │
-│                                                                │
-│   The PPP is the 4th principal part and behaves as a           │
-│   1st/2nd declension adjective: it AGREES with the subject    │
-│   in gender, number, and case.                                 │
-└────────────────────────────────────────────────────────────────┘
-```
+> **Perfect Passive Formation**
+>
+> - **PERFECT PASSIVE** = PPP + present tense of ESSE
+> - **PLUPERFECT PASSIVE** = PPP + imperfect tense of ESSE
+> - **FUTURE PERFECT PASSIVE** = PPP + future tense of ESSE
+>
+> The PPP is the 4th principal part and behaves as a 1st/2nd declension adjective: it AGREES with the subject in gender, number, and case.
 
 ### 4.2 Perfect Passive Indicative: amō (PPP: amātus, -a, -um)
 
@@ -363,28 +359,23 @@ Fill in the blank with the correct construction (with or without *ā/ab*):
 
 ## Quick Reference Card
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│   PASSIVE VOICE — FORMATION SUMMARY                             │
-│                                                                  │
-│   PRESENT SYSTEM PASSIVE:                                        │
-│   Same stem as active + passive endings:                         │
-│   -or, -ris, -tur, -mur, -minī, -ntur                           │
-│                                                                  │
-│   PERFECT SYSTEM PASSIVE:                                        │
-│   PPP (4th principal part, declined) + forms of ESSE             │
-│                                                                  │
-│   Perfect:        PPP + sum, es, est, sumus, estis, sunt         │
-│   Pluperfect:     PPP + eram, erās, erat, erāmus, erātis, erant │
-│   Future Perfect: PPP + erō, eris, erit, erimus, eritis, erunt  │
-│                                                                  │
-│   AGENT:  ā/ab + ablative  (persons)                             │
-│   MEANS:  ablative alone   (things)                              │
-│                                                                  │
-│   DEPONENT VERBS: passive form, active meaning                   │
-│   cōnor, sequor, loquor, morior, patior, ūtor                   │
-└──────────────────────────────────────────────────────────────────┘
-```
+> **PASSIVE VOICE — FORMATION SUMMARY**
+>
+> **Present System Passive:**
+> Same stem as active + passive endings: -or, -ris, -tur, -mur, -minī, -ntur
+>
+> **Perfect System Passive:**
+> PPP (4th principal part, declined) + forms of ESSE
+>
+> - **Perfect**: PPP + sum, es, est, sumus, estis, sunt
+> - **Pluperfect**: PPP + eram, erās, erat, erāmus, erātis, erant
+> - **Future Perfect**: PPP + erō, eris, erit, erimus, eritis, erunt
+>
+> - **AGENT**: ā/ab + ablative (persons)
+> - **MEANS**: ablative alone (things)
+>
+> **Deponent Verbs:** passive form, active meaning
+> cōnor, sequor, loquor, morior, patior, ūtor
 
 ## Navigation
 - Previous: [11. Perfect System Active](11_Perfect_System_Active.md)
