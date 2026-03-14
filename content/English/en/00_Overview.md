@@ -19,26 +19,18 @@ English is spoken by approximately 1.5 billion people worldwide, making it the m
 
 ## Why English is Challenging for Korean Speakers (한국어 화자가 영어를 어려워하는 이유)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           Top 5 Challenges for Korean Speakers                  │
-│                                                                 │
-│   1. Word Order: Korean SOV → English SVO                       │
-│      나는 사과를 먹는다 → I eat an apple                          │
-│                                                                 │
-│   2. Articles (a/an/the): Korean has NO articles                │
-│      This is the #1 hardest grammar point                       │
-│                                                                 │
-│   3. Pronunciation: R/L, th, f/v, stress patterns               │
-│      Sounds that don't exist in Korean                          │
-│                                                                 │
-│   4. Tense System: 12 tenses vs Korean 3                        │
-│      Present perfect is especially difficult                    │
-│                                                                 │
-│   5. Prepositions: in/on/at vs Korean postpositions             │
-│      에, 에서, 으로 don't map 1:1 to English                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Top 5 Challenges for Korean Speakers**
+>
+> 1. Word Order: Korean SOV → English SVO
+> 나는 사과를 먹는다 → I eat an apple
+> 2. Articles (a/an/the): Korean has NO articles
+> This is the #1 hardest grammar point
+> 3. Pronunciation: R/L, th, f/v, stress patterns
+> Sounds that don't exist in Korean
+> 4. Tense System: 12 tenses vs Korean 3
+> Present perfect is especially difficult
+> 5. Prepositions: in/on/at vs Korean postpositions
+> 에, 에서, 으로 don't map 1:1 to English
 
 ## Learning Path
 
@@ -122,22 +114,19 @@ Stage 5: Practical Application (21-25)  [CEFR B2-C1]
 
 ## Korean-English Quick Comparison (한국어-영어 빠른 비교)
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│   Feature          │ Korean (한국어)         │ English              │
-│────────────────────│────────────────────────│──────────────────────│
-│   Word Order       │ SOV (주어-목적어-동사)   │ SVO (주어-동사-목적어)│
-│   Articles         │ None (없음)            │ a/an/the (관사)       │
-│   Plurals          │ Usually unmarked       │ -s/-es required       │
-│   Verb Tenses      │ ~3 basic tenses        │ 12 tenses             │
-│   Prepositions     │ Postpositions (조사)    │ Prepositions          │
-│   Honorifics       │ Complex (존댓말)        │ Minimal               │
-│   Subject Pronouns │ Often dropped          │ Required              │
-│   Relative Clauses │ Before noun            │ After noun            │
-│   Adjectives       │ Before noun + 한/ㄴ     │ Before noun           │
-│   Question Form    │ Add -까/-니 to verb     │ Invert / do-support   │
-└────────────────────────────────────────────────────────────────────┘
-```
+> **Feature          │ Korean (한국어)         │ English**
+>
+> | Word Order | SOV (주어-목적어-동사) | SVO (주어-동사-목적어) |
+> |---|---|---|
+> | Articles | None (없음) | a/an/the (관사) |
+> | Plurals | Usually unmarked | -s/-es required |
+> | Verb Tenses | ~3 basic tenses | 12 tenses |
+> | Prepositions | Postpositions (조사) | Prepositions |
+> | Honorifics | Complex (존댓말) | Minimal |
+> | Subject Pronouns | Often dropped | Required |
+> | Relative Clauses | Before noun | After noun |
+> | Adjectives | Before noun + 한/ㄴ | Before noun |
+> | Question Form | Add -까/-니 to verb | Invert / do-support |
 
 ## References
 
