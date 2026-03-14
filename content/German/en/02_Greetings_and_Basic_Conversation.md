@@ -30,28 +30,19 @@
 
 German has two ways to say "you" — and choosing the wrong one can be a serious social misstep. This distinction is far more important in German culture than in English.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                 du vs Sie — Choosing Correctly                   │
-│                                                                 │
-│   du (informal, lowercase)           Sie (formal, CAPITALIZED)  │
-│   ─────────────────────              ──────────────────────     │
-│   Friends                            Strangers (adults)         │
-│   Family members                     Colleagues (often)         │
-│   Children (among themselves)        Officials, police          │
-│   Fellow students                    Shopkeepers, waiters       │
-│   Close colleagues                   Professors, doctors        │
-│   Pets/animals                       Anyone you don't know well │
-│   God (in prayer)                    Elderly people             │
-│                                                                 │
-│   ※ When in doubt, ALWAYS use Sie. It is never offensive       │
-│     to be too formal. Being too informal can be rude.           │
-│                                                                 │
-│   ※ The shift from Sie to du is called "das Duzen."            │
-│     The older or higher-ranking person offers it first:         │
-│     "Wir können uns duzen." (We can use du with each other.)   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **du vs Sie — Choosing Correctly**
+>
+> du (informal, lowercase) / Sie (formal, CAPITALIZED)
+>
+> - **du**: Friends, Family members, Children (among themselves), Fellow students, Close colleagues, Pets/animals, God (in prayer)
+> - **Sie**: Strangers (adults), Colleagues (often), Officials/police, Shopkeepers/waiters, Professors/doctors, Anyone you don't know well, Elderly people
+>
+> When in doubt, ALWAYS use Sie. It is never offensive
+> to be too formal. Being too informal can be rude.
+>
+> The shift from Sie to du is called "das Duzen."
+> The older or higher-ranking person offers it first:
+> "Wir können uns duzen." (We can use du with each other.)
 
 ### 1.2 Verb Forms with du and Sie
 
@@ -267,30 +258,26 @@ Informal:
 
 ### 5.2 Answering "Wie geht es Ihnen/dir?"
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Positive responses:                                           │
-│   Sehr gut, danke!          Very well, thank you!               │
-│   Gut, danke.               Good, thanks.                       │
-│   Mir geht es gut.          I'm doing well.                     │
-│   Prima!                    Great!                               │
-│   Super!                    Super!                               │
-│   Ausgezeichnet!            Excellent!                           │
-│                                                                 │
-│   Neutral responses:                                            │
-│   Es geht.                  It's okay. / So-so.                 │
-│   Ganz gut.                 Pretty good.                        │
-│   Nicht schlecht.            Not bad.                            │
-│                                                                 │
-│   Negative responses:                                           │
-│   Nicht so gut.             Not so good.                        │
-│   Schlecht.                 Bad.                                 │
-│   Es geht mir nicht gut.   I'm not doing well.                  │
-│                                                                 │
-│   Always add: Und Ihnen? (formal) / Und dir? (informal)        │
-│   = And you?                                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Positive responses:**
+> Sehr gut, danke! — Very well, thank you!
+> Gut, danke. — Good, thanks.
+> Mir geht es gut. — I'm doing well.
+> Prima! — Great!
+> Super! — Super!
+> Ausgezeichnet! — Excellent!
+>
+> **Neutral responses:**
+> Es geht. — It's okay. / So-so.
+> Ganz gut. — Pretty good.
+> Nicht schlecht. — Not bad.
+>
+> **Negative responses:**
+> Nicht so gut. — Not so good.
+> Schlecht. — Bad.
+> Es geht mir nicht gut. — I'm not doing well.
+>
+> Always add: Und Ihnen? (formal) / Und dir? (informal)
+> = And you?
 
 ### 5.3 Sample Conversation — Formal
 
