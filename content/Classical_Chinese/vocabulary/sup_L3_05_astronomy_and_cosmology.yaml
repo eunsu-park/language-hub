@@ -1,0 +1,332 @@
+lesson: sup_L3_Astronomy_and_Cosmology
+lesson_number: 117
+hanja_level: L3
+type: supplementary
+topic: Astronomy and Cosmology
+categories:
+- id: celestial_bodies
+  label:
+    en: Celestial Bodies
+    ko: 천체
+  type: vocabulary
+  words:
+  - classical_chinese: 天
+    reading: 천
+    meaning_kun: 하늘
+    translation:
+      en: heaven; sky; nature
+      ko: "하늘; 천; 자연"
+    gender: null
+    plural: null
+    notes:
+      en: "一 (one) + 大 (great). The great above. 天地 = heaven and earth."
+      ko: "一(하나) + 大(큰). 위대한 위. 天地 = 천지."
+  - classical_chinese: 日
+    reading: 일
+    meaning_kun: 날
+    translation:
+      en: sun; day; daily
+      ko: "해; 날; 매일"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of the sun. Radical #72. 日月 = sun and moon."
+      ko: "해의 상형자. 부수 제72번. 日月 = 일월."
+  - classical_chinese: 月
+    reading: 월
+    meaning_kun: 달
+    translation:
+      en: moon; month
+      ko: "달; 월"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a crescent moon. Radical #74."
+      ko: "초승달의 상형자. 부수 제74번."
+  - classical_chinese: 星
+    reading: 성
+    meaning_kun: 별
+    translation:
+      en: star; planet
+      ko: "별; 성(星)"
+    gender: null
+    plural: null
+    notes:
+      en: "日 (sun) + 生 (birth). Heavenly bodies that appear at night."
+      ko: "日(해) + 生(날 생). 밤에 나타나는 천체."
+  - classical_chinese: 辰
+    reading: 신
+    meaning_kun: 별
+    translation:
+      en: celestial body; time; zodiac sign
+      ko: "별; 때; 진(별자리)"
+    gender: null
+    plural: null
+    notes:
+      en: "Also an Earthly Branch. 星辰 = stars and celestial bodies."
+      ko: "지지(地支)이기도 함. 星辰 = 성신."
+  - classical_chinese: 宿
+    reading: 수
+    meaning_kun: 별자리
+    translation:
+      en: constellation; mansion; lodge
+      ko: "별자리; 숙소; 묵다"
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + 人 + 百. 二十八宿 = 28 lunar mansions."
+      ko: "지붕(宀) + 人 + 百. 二十八宿 = 28수."
+  - classical_chinese: 曜
+    reading: 요
+    meaning_kun: 빛날
+    translation:
+      en: luminary; day of week; brilliant
+      ko: "빛나다; 요일; 광체"
+    gender: null
+    plural: null
+    notes:
+      en: "日 (sun) + 翟. Seven luminaries (七曜): sun, moon, five planets."
+      ko: "日(해) + 翟. 칠요(七曜): 해, 달, 오행성."
+  - classical_chinese: 蝕
+    reading: 식
+    meaning_kun: 좀먹을
+    translation:
+      en: eclipse; to erode
+      ko: "일식/월식; 좀먹다"
+    gender: null
+    plural: null
+    notes:
+      en: "虫 (insect) + 食 (eat). Eclipse: something eating the sun/moon."
+      ko: "벌레(虫) + 食(먹다). 해/달을 먹는 것: 일식/월식."
+  - classical_chinese: 彗
+    reading: 혜
+    meaning_kun: 혜성
+    translation:
+      en: comet; broom star
+      ko: "혜성; 살별"
+    gender: null
+    plural: null
+    notes:
+      en: "彐 + 彐 + 丰. Broom-like tail. 彗星 = comet."
+      ko: "彐 + 彐 + 丰. 빗자루 같은 꼬리. 彗星 = 혜성."
+  - classical_chinese: 斗
+    reading: 두
+    meaning_kun: 말
+    translation:
+      en: Big Dipper; measure; ladle
+      ko: "북두; 말(용량); 국자"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a ladle. 北斗 = Big Dipper."
+      ko: "국자의 상형자. 北斗 = 북두칠성."
+- id: cosmological_concepts
+  label:
+    en: Cosmological Concepts
+    ko: 우주관
+  type: vocabulary
+  words:
+  - classical_chinese: 乾
+    reading: 건
+    meaning_kun: 하늘
+    translation:
+      en: heaven; creative; yang principle
+      ko: "하늘; 건(괘); 양의 원리"
+    gender: null
+    plural: null
+    notes:
+      en: "First hexagram of I Ching (☰). Pure yang. Creative force."
+      ko: "주역의 첫 번째 괘(☰). 순양. 창조의 힘."
+  - classical_chinese: 坤
+    reading: 곤
+    meaning_kun: 땅
+    translation:
+      en: earth; receptive; yin principle
+      ko: "땅; 곤(괘); 음의 원리"
+    gender: null
+    plural: null
+    notes:
+      en: "Second hexagram of I Ching (☷). Pure yin. Receptive force."
+      ko: "주역의 두 번째 괘(☷). 순음. 수용의 힘."
+  - classical_chinese: 陰
+    reading: 음
+    meaning_kun: 그늘
+    translation:
+      en: yin; shade; dark; female principle
+      ko: "음; 그늘; 어두운; 음의 원리"
+    gender: null
+    plural: null
+    notes:
+      en: "Hill (阝) + cloud/shade. Passive cosmic principle."
+      ko: "언덕(阝) + 구름/그늘. 수동적 우주 원리."
+  - classical_chinese: 陽
+    reading: 양
+    meaning_kun: 볕
+    translation:
+      en: yang; sunlight; bright; male principle
+      ko: "양; 햇빛; 밝은; 양의 원리"
+    gender: null
+    plural: null
+    notes:
+      en: "Hill (阝) + 昜 (sun rising). Active cosmic principle."
+      ko: "언덕(阝) + 昜(해 뜨는). 능동적 우주 원리."
+  - classical_chinese: 卦
+    reading: 괘
+    meaning_kun: 점괘
+    translation:
+      en: trigram; hexagram; divination sign
+      ko: "괘; 점괘; 점치는 기호"
+    gender: null
+    plural: null
+    notes:
+      en: "圭 + 卜 (divination). Eight trigrams (八卦) of I Ching."
+      ko: "圭 + 卜(점). 주역의 팔괘(八卦)."
+  - classical_chinese: 易
+    reading: 역
+    meaning_kun: 바꿀
+    translation:
+      en: change; I Ching; easy
+      ko: "변화; 주역; 쉬운"
+    gender: null
+    plural: null
+    notes:
+      en: "Sun + moon (lizard). 周易 = Book of Changes."
+      ko: "해 + 달(도마뱀). 周易 = 주역."
+  - classical_chinese: 太極
+    reading: 태극
+    meaning_kun: 태극
+    translation:
+      en: Supreme Ultimate; Great Polarity
+      ko: "태극; 지극한 원리"
+    gender: null
+    plural: null
+    notes:
+      en: "太 (great) + 極 (ultimate). Origin of yin and yang."
+      ko: "太(클 태) + 極(다할 극). 음양의 근원."
+  - classical_chinese: 混沌
+    reading: 혼돈
+    meaning_kun: 혼돈
+    translation:
+      en: chaos; primordial state
+      ko: "혼돈; 원초적 상태"
+    gender: null
+    plural: null
+    notes:
+      en: "混 (mix) + 沌 (turbid). State before heaven and earth separated."
+      ko: "混(섞일 혼) + 沌(흐릴 돈). 천지가 나뉘기 전의 상태."
+- id: five_elements
+  label:
+    en: Five Elements (五行)
+    ko: 오행(五行)
+  type: vocabulary
+  words:
+  - classical_chinese: 行
+    reading: 행
+    meaning_kun: 다닐
+    translation:
+      en: element; phase; to walk; to act
+      ko: "행; 다니다; 실행하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Crossroads. 五行 = five phases (wood, fire, earth, metal, water)."
+      ko: "사거리. 五行 = 오행(목, 화, 토, 금, 수)."
+  - classical_chinese: 木
+    reading: 목
+    meaning_kun: 나무
+    translation:
+      en: wood (element); tree; east
+      ko: "목(원소); 나무; 동쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Wood element. Direction: east. Season: spring. Color: green."
+      ko: "목(木) 원소. 방위: 동. 계절: 봄. 색: 청."
+  - classical_chinese: 火
+    reading: 화
+    meaning_kun: 불
+    translation:
+      en: fire (element); flame; south
+      ko: "화(원소); 불; 남쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Fire element. Direction: south. Season: summer. Color: red."
+      ko: "화(火) 원소. 방위: 남. 계절: 여름. 색: 적."
+  - classical_chinese: 土
+    reading: 토
+    meaning_kun: 흙
+    translation:
+      en: earth (element); soil; center
+      ko: "토(원소); 흙; 중앙"
+    gender: null
+    plural: null
+    notes:
+      en: "Earth element. Direction: center. Season: between seasons. Color: yellow."
+      ko: "토(土) 원소. 방위: 중앙. 계절: 사이. 색: 황."
+  - classical_chinese: 金
+    reading: 금
+    meaning_kun: 쇠
+    translation:
+      en: metal (element); gold; west
+      ko: "금(원소); 쇠; 서쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Metal element. Direction: west. Season: autumn. Color: white."
+      ko: "금(金) 원소. 방위: 서. 계절: 가을. 색: 백."
+  - classical_chinese: 水
+    reading: 수
+    meaning_kun: 물
+    translation:
+      en: water (element); liquid; north
+      ko: "수(원소); 물; 북쪽"
+    gender: null
+    plural: null
+    notes:
+      en: "Water element. Direction: north. Season: winter. Color: black."
+      ko: "수(水) 원소. 방위: 북. 계절: 겨울. 색: 흑."
+  - classical_chinese: 相生
+    reading: 상생
+    meaning_kun: 상생
+    translation:
+      en: mutual generation; productive cycle
+      ko: "상생; 서로 낳음"
+    gender: null
+    plural: null
+    notes:
+      en: "Wood→Fire→Earth→Metal→Water→Wood. Creative cycle."
+      ko: "木→火→土→金→水→木. 생성의 순환."
+  - classical_chinese: 相剋
+    reading: 상극
+    meaning_kun: 상극
+    translation:
+      en: mutual overcoming; destructive cycle
+      ko: "상극; 서로 이김"
+    gender: null
+    plural: null
+    notes:
+      en: "Wood→Earth→Water→Fire→Metal→Wood. Controlling cycle."
+      ko: "木→土→水→火→金→木. 제어의 순환."
+  - classical_chinese: 運
+    reading: 운
+    meaning_kun: 돌
+    translation:
+      en: movement; fate; to revolve
+      ko: "운행; 운명; 돌다"
+    gender: null
+    plural: null
+    notes:
+      en: "辶 + 軍. Celestial movement. 運命 = destiny."
+      ko: "辶 + 軍. 천체의 운행. 運命 = 운명."
+  - classical_chinese: 曆
+    reading: 력
+    meaning_kun: 책력
+    translation:
+      en: calendar; astronomical system
+      ko: "역법; 책력; 천문 체계"
+    gender: null
+    plural: null
+    notes:
+      en: "厂 + 禾 + 日. Astronomical calendar. 農曆 = lunar calendar."
+      ko: "厂 + 禾 + 日. 천문 역법. 農曆 = 음력."
