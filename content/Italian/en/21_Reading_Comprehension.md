@@ -32,29 +32,24 @@
 
 ### 1.1 Overview of Strategies
 
-```
-+----------------------------------------------------------+
-|          READING STRATEGIES FOR ITALIAN                   |
-+----------------------------------------------------------+
-|                                                          |
-|  BEFORE READING                                          |
-|  1. Look at the title, headings, and images              |
-|  2. Predict content based on text type                   |
-|  3. Activate background knowledge about the topic        |
-|                                                          |
-|  DURING READING                                          |
-|  4. Skimming: Read quickly for the general idea          |
-|  5. Scanning: Search for specific information            |
-|  6. Contextual guessing: Infer word meanings             |
-|  7. Use cognates to unlock meaning                       |
-|  8. Don't stop at every unknown word                     |
-|                                                          |
-|  AFTER READING                                           |
-|  9. Summarize the main ideas                             |
-|  10. Check comprehension with questions                  |
-|  11. Note new vocabulary in context                      |
-+----------------------------------------------------------+
-```
+> **READING STRATEGIES FOR ITALIAN**
+>
+> **BEFORE READING**
+> 1. Look at the title, headings, and images
+> 2. Predict content based on text type
+> 3. Activate background knowledge about the topic
+>
+> **DURING READING**
+> 4. Skimming: Read quickly for the general idea
+> 5. Scanning: Search for specific information
+> 6. Contextual guessing: Infer word meanings
+> 7. Use cognates to unlock meaning
+> 8. Don't stop at every unknown word
+>
+> **AFTER READING**
+> 9. Summarize the main ideas
+> 10. Check comprehension with questions
+> 11. Note new vocabulary in context
 
 ### 1.2 Skimming vs. Scanning
 
@@ -497,22 +492,16 @@ These words look like English words but mean something different:
 
 When you encounter an unknown word while reading, follow this process:
 
-```
-+----------------------------------------------------------+
-|    VOCABULARY BUILDING PROCESS                            |
-+----------------------------------------------------------+
-|                                                          |
-|  Step 1: DON'T look it up immediately                    |
-|  Step 2: Read the full sentence and paragraph            |
-|  Step 3: Check if it's a cognate (English/Spanish/other) |
-|  Step 4: Analyze word formation (prefix + root + suffix) |
-|  Step 5: Guess the meaning from context                  |
-|  Step 6: Continue reading to see if meaning confirms     |
-|  Step 7: After finishing the text, verify with a         |
-|          dictionary                                      |
-|  Step 8: Record the word with its context sentence       |
-+----------------------------------------------------------+
-```
+> **VOCABULARY BUILDING PROCESS**
+>
+> - Step 1: DON'T look it up immediately
+> - Step 2: Read the full sentence and paragraph
+> - Step 3: Check if it's a cognate (English/Spanish/other)
+> - Step 4: Analyze word formation (prefix + root + suffix)
+> - Step 5: Guess the meaning from context
+> - Step 6: Continue reading to see if meaning confirms
+> - Step 7: After finishing the text, verify with a dictionary
+> - Step 8: Record the word with its context sentence
 
 ### 11.2 Example: Deconstructing Unknown Words
 
