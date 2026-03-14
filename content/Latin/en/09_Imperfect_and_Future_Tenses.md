@@ -28,19 +28,15 @@ The imperfect tense describes **ongoing, repeated, or habitual** actions in the 
 
 ### Formation Formula
 
-```
-IMPERFECT TENSE FORMULA
-┌──────────────────────────────────────────┐
-│ Present Stem + -bā- + Personal Endings  │
-│                                          │
-│ Personal Endings (active):               │
-│   -m, -s, -t, -mus, -tis, -nt           │
-│                                          │
-│ Combined with -bā-:                      │
-│   -bam, -bās, -bat, -bāmus, -bātis,     │
-│   -bant                                  │
-└──────────────────────────────────────────┘
-```
+> **IMPERFECT TENSE FORMULA**
+>
+> Present Stem + -bā- + Personal Endings
+>
+> Personal Endings (active):
+> -m, -s, -t, -mus, -tis, -nt
+>
+> Combined with -bā-:
+> -bam, -bās, -bat, -bāmus, -bātis, -bant
 
 ### 1st Conjugation: amō, amāre (to love) — stem: amā-
 
@@ -96,20 +92,16 @@ The imperfect of **sum** is completely regular, built on the stem **er-**:
 
 ### Summary: Recognizing the Imperfect
 
-```
-IMPERFECT RECOGNITION
-┌──────────────────────────────────────┐
-│ Look for -BA- in the verb:           │
-│                                      │
-│ amā-BA-m    = I was loving           │
-│ monē-BA-t   = he/she was warning     │
-│ dūcē-BA-mus = we were leading        │
-│ audiē-BA-nt  = they were hearing     │
-│                                      │
-│ ESSE: er- + personal endings         │
-│ eram, erās, erat, erāmus...          │
-└──────────────────────────────────────┘
-```
+> **IMPERFECT RECOGNITION**
+>
+> Look for -BA- in the verb:
+> - amā-BA-m    = I was loving
+> - monē-BA-t   = he/she was warning
+> - dūcē-BA-mus = we were leading
+> - audiē-BA-nt  = they were hearing
+>
+> ESSE: er- + personal endings
+> eram, erās, erat, erāmus...
 
 ---
 
@@ -208,23 +200,21 @@ The future of 3rd and 4th conjugation verbs uses **-am, -ēs, -et, -ēmus, -ēti
 
 ### Comparison: Two Future Systems
 
-```
-FUTURE TENSE SYSTEMS
-┌──────────────────────────────────────────────┐
-│ 1st/2nd CONJUGATION        3rd/4th CONJUGATION│
-│ (the -bō system)          (the -am system)   │
-│                                              │
-│ -bō    -bimus             -am    -ēmus       │
-│ -bis   -bitis             -ēs    -ētis       │
-│ -bit   -bunt              -et    -ent         │
-│                                              │
-│ amābō = I will love       dūcam = I will lead│
-│ monēbit = he will warn    audiet = he'll hear│
-│                                              │
-│ ⚠ 3rd/4th future 1st sg. -am looks like      │
-│   present subjunctive — context resolves it!  │
-└──────────────────────────────────────────────┘
-```
+> **FUTURE TENSE SYSTEMS**
+>
+> | | 1st/2nd CONJUGATION (-bō system) | 3rd/4th CONJUGATION (-am system) |
+> |---|---|---|
+> | 1sg | -bō | -am |
+> | 2sg | -bis | -ēs |
+> | 3sg | -bit | -et |
+> | 1pl | -bimus | -ēmus |
+> | 2pl | -bitis | -ētis |
+> | 3pl | -bunt | -ent |
+>
+> amābō = I will love       dūcam = I will lead
+> monēbit = he will warn    audiet = he'll hear
+>
+> Note: 3rd/4th future 1st sg. -am looks like present subjunctive -- context resolves it!
 
 ---
 
@@ -298,19 +288,15 @@ With the **indicative** (factual) or **subjunctive** (anticipated):
 
 ### Temporal Clause Summary
 
-```
-TEMPORAL CONJUNCTIONS
-┌──────────────────────────────────────────┐
-│ dum + present     = while (even in past) │
-│ cum + impf./plpf. = when/since/although  │
-│ postquam + perfect = after               │
-│ antequam + indic.  = before (factual)    │
-│ antequam + subj.   = before (anticipated)│
-│                                          │
-│ ubi + perfect      = when (single event) │
-│ simul atque + perf. = as soon as         │
-└──────────────────────────────────────────┘
-```
+> **TEMPORAL CONJUNCTIONS**
+>
+> - dum + present     = while (even in past)
+> - cum + impf./plpf. = when/since/although
+> - postquam + perfect = after
+> - antequam + indic.  = before (factual)
+> - antequam + subj.   = before (anticipated)
+> - ubi + perfect      = when (single event)
+> - simul atque + perf. = as soon as
 
 ---
 
