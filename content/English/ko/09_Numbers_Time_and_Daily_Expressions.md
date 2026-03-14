@@ -45,34 +45,27 @@
 
 ### 1.2 큰 수
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   100         one hundred / a hundred                           │
-│   1,000       one thousand / a thousand                         │
-│   10,000      ten thousand                                      │
-│   100,000     one hundred thousand / a hundred thousand         │
-│   1,000,000   one million / a million                           │
-│   1,000,000,000  one billion / a billion                        │
-│                                                                 │
-│   ※ 한국어는 만(10,000)을 기본 단위로 사용:                     │
-│     1만 = 10,000    10만 = 100,000    100만 = 1,000,000         │
-│                                                                 │
-│   영어는 thousand를 기본 단위로 사용:                             │
-│     10,000 = "ten thousand" (NOT "one man/만")                  │
-│     50,000 = "fifty thousand"                                   │
-│     100,000 = "one hundred thousand"                            │
-│                                                                 │
-│   쉼표는 3자리마다 구분: 1,000  10,000  1,000,000               │
-│   한국어는 4자리마다 구분: 1만  10만  100만                       │
-│   이 차이 때문에 변환 실수가 매우 많이 발생합니다!                │
-│                                                                 │
-│   예시:                                                         │
-│   5,432 = five thousand four hundred (and) thirty-two           │
-│   23,100 = twenty-three thousand one hundred                    │
-│   1,500,000 = one million five hundred thousand                 │
-│              / one and a half million                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **100         one hundred / a hundred**
+>
+> 1,000       one thousand / a thousand
+> 10,000      ten thousand
+> 100,000     one hundred thousand / a hundred thousand
+> 1,000,000   one million / a million
+> 1,000,000,000  one billion / a billion
+> ※ 한국어는 만(10,000)을 기본 단위로 사용:
+> 1만 = 10,000    10만 = 100,000    100만 = 1,000,000
+> 영어는 thousand를 기본 단위로 사용:
+> 10,000 = "ten thousand" (NOT "one man/만")
+> 50,000 = "fifty thousand"
+> 100,000 = "one hundred thousand"
+> 쉼표는 3자리마다 구분: 1,000  10,000  1,000,000
+> 한국어는 4자리마다 구분: 1만  10만  100만
+> 이 차이 때문에 변환 실수가 매우 많이 발생합니다!
+> 예시:
+> 5,432 = five thousand four hundred (and) thirty-two
+> 23,100 = twenty-three thousand one hundred
+> 1,500,000 = one million five hundred thousand
+> / one and a half million
 
 ### 1.3 숫자 발음 팁
 
@@ -139,32 +132,25 @@
 
 ### 3.1 세 가지 형식
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   형식 1: 디지털 (시 + 분) — 미국식에서 가장 일반적               │
-│   3:00  "three o'clock" / "three"                               │
-│   3:15  "three fifteen"                                         │
-│   3:30  "three thirty"                                          │
-│   3:45  "three forty-five"                                      │
-│   3:05  "three oh five"  (oh = zero)                            │
-│                                                                 │
-│   형식 2: 전통적 (past/to) — 영국식에서 일반적                    │
-│   3:00  "three o'clock"                                         │
-│   3:15  "quarter past three"  (a quarter after three)           │
-│   3:30  "half past three"                                       │
-│   3:45  "quarter to four"     (4시 15분 전)                      │
-│   3:10  "ten past three"      (3시 10분 지남)                    │
-│   3:50  "ten to four"         (4시 10분 전)                      │
-│                                                                 │
-│   형식 3: 24시간제 (군대/공식)                                    │
-│   15:00  "fifteen hundred" / "fifteen hundred hours"            │
-│   08:30  "oh eight thirty"                                      │
-│   23:45  "twenty-three forty-five"                              │
-│                                                                 │
-│   ※ 한국어: 3시 15분 (시 + 분 — 매우 단순)                      │
-│     영어: 여러 형식 — "three fifteen"이 가장 안전                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 형식 1: 디지털 (시 + 분) — 미국식에서 가장 일반적
+> 3:00  "three o'clock" / "three"
+> 3:15  "three fifteen"
+> 3:30  "three thirty"
+> 3:45  "three forty-five"
+> 3:05  "three oh five"  (oh = zero)
+> 형식 2: 전통적 (past/to) — 영국식에서 일반적
+> 3:00  "three o'clock"
+> 3:15  "quarter past three"  (a quarter after three)
+> 3:30  "half past three"
+> 3:45  "quarter to four"     (4시 15분 전)
+> 3:10  "ten past three"      (3시 10분 지남)
+> 3:50  "ten to four"         (4시 10분 전)
+> 형식 3: 24시간제 (군대/공식)
+> 15:00  "fifteen hundred" / "fifteen hundred hours"
+> 08:30  "oh eight thirty"
+> 23:45  "twenty-three forty-five"
+> ※ 한국어: 3시 15분 (시 + 분 — 매우 단순)
+> 영어: 여러 형식 — "three fifteen"이 가장 안전
 
 ### 3.2 AM과 PM
 
@@ -272,26 +258,19 @@ December   /dɪˈsembər/   12월   (Dec.)
 
 ### 5.2 날짜 쓰기
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   미국식 형식: Month Day, Year                                   │
-│   표기:  March 5, 2024       또는   3/5/2024                    │
-│   발음:  "March fifth, twenty twenty-four"                      │
-│                                                                 │
-│   영국식 형식: Day Month Year                                    │
-│   표기:  5 March 2024        또는   5/3/2024                    │
-│   발음:  "the fifth of March, twenty twenty-four"               │
-│                                                                 │
-│   ※ 주의: 3/5/2024                                             │
-│     미국식: March 5, 2024 (3월 5일)                              │
-│     영국식: 5 March 2024 (= 미국식으로는 May 3, 2024!)           │
-│     혼동을 피하려면 항상 월 이름을 쓰세요!                        │
-│                                                                 │
-│   한국식 형식: Year.Month.Day                                    │
-│   2024년 3월 5일  →  March 5, 2024 (미국식)                      │
-│                       5 March 2024 (영국식)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+> 미국식 형식: Month Day, Year
+> 표기:  March 5, 2024       또는   3/5/2024
+> 발음:  "March fifth, twenty twenty-four"
+> 영국식 형식: Day Month Year
+> 표기:  5 March 2024        또는   5/3/2024
+> 발음:  "the fifth of March, twenty twenty-four"
+> ※ 주의: 3/5/2024
+> 미국식: March 5, 2024 (3월 5일)
+> 영국식: 5 March 2024 (= 미국식으로는 May 3, 2024!)
+> 혼동을 피하려면 항상 월 이름을 쓰세요!
+> 한국식 형식: Year.Month.Day
+> 2024년 3월 5일  →  March 5, 2024 (미국식)
+> 5 March 2024 (영국식)
 
 ### 5.3 연도
 
@@ -631,32 +610,23 @@ $0.50   "fifty cents"
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            숫자 & 시간 빠른 가이드                                │
-│                                                                 │
-│   13 vs 30: thirTEEN (2음절 강세) vs THIRty (1음절 강세)        │
-│   한국어 만 → 영어 thousand (단위 체계가 다름!)                  │
-│                                                                 │
-│   시간: "three fifteen" (가장 안전), "quarter past three" (BrE)  │
-│   AM/PM: 12 AM = 자정, 12 PM = 정오                             │
-│                                                                 │
-│   요일: Mon/Tue/Wed/Thu/Fri/Sat/Sun — 항상 대문자               │
-│   월: Jan-Dec — 항상 대문자                                      │
-│   계절: spring/summer/fall/winter — 대문자 아님                  │
-│                                                                 │
-│   날짜 형식: March 5, 2024 (미국식) / 5 March 2024 (영국식)      │
-│   전치사: AT + 시간, ON + 요일/날짜, IN + 월/연도               │
-│                                                                 │
-│   빈도: always/usually/often/sometimes/rarely/never             │
-│   위치: 일반 동사 앞, BE 동사 뒤                                 │
-│                                                                 │
-│   for + 기간 (for 2 hours)                                      │
-│   during + 사건 (during the meeting)                             │
-│   since + 시작 시점 (since 2020)                                 │
-│   ago + 시간 뒤 (2 days ago)                                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **숫자 & 시간 빠른 가이드**
+>
+> 13 vs 30: thirTEEN (2음절 강세) vs THIRty (1음절 강세)
+> 한국어 만 → 영어 thousand (단위 체계가 다름!)
+> 시간: "three fifteen" (가장 안전), "quarter past three" (BrE)
+> AM/PM: 12 AM = 자정, 12 PM = 정오
+> 요일: Mon/Tue/Wed/Thu/Fri/Sat/Sun — 항상 대문자
+> 월: Jan-Dec — 항상 대문자
+> 계절: spring/summer/fall/winter — 대문자 아님
+> 날짜 형식: March 5, 2024 (미국식) / 5 March 2024 (영국식)
+> 전치사: AT + 시간, ON + 요일/날짜, IN + 월/연도
+> 빈도: always/usually/often/sometimes/rarely/never
+> 위치: 일반 동사 앞, BE 동사 뒤
+> for + 기간 (for 2 hours)
+> during + 사건 (during the meeting)
+> since + 시작 시점 (since 2020)
+> ago + 시간 뒤 (2 days ago)
 
 ---
 
