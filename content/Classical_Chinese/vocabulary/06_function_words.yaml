@@ -1,0 +1,286 @@
+lesson: 06_Function_Words
+lesson_number: 6
+hanja_level: L4
+categories:
+- id: structural_particles
+  label:
+    en: Structural Particles
+    ko: 구조 조사
+  type: vocabulary
+  words:
+  - classical_chinese: 之
+    reading: 지
+    meaning_kun: 갈
+    translation:
+      en: (possessive/object particle); of; to go
+      ko: ~의; ~을; 가다
+    gender: null
+    plural: null
+    notes:
+      en: "The most frequent word in classical Chinese. As a particle: possessive (A之B = A's B) or object marker."
+      ko: "한문에서 가장 빈번히 쓰이는 글자. 조사로서: 관형격(A之B = A의 B) 또는 목적격 표지."
+  - classical_chinese: 乎
+    reading: 호
+    meaning_kun: 어조사
+    translation:
+      en: (question/exclamation particle)
+      ko: ~인가? ~이여!
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-final particle for questions. Also used for exclamation or comparison (~에)."
+      ko: "의문문 문말 조사. 감탄이나 비교(~에)로도 사용됨."
+  - classical_chinese: 者
+    reading: 자
+    meaning_kun: 놈
+    translation:
+      en: one who; that which
+      ko: ~하는 자; ~하는 것
+    gender: null
+    plural: null
+    notes:
+      en: "Nominalizer. V+者 = 'one who V'. Used in definitions: A者B也 = 'A is B'."
+      ko: "명사화 조사. V+者 = 'V하는 자'. 정의문에 사용: A者B也 = 'A는 B이다'."
+  - classical_chinese: 也
+    reading: 야
+    meaning_kun: 어조사
+    translation:
+      en: (assertive/declarative particle)
+      ko: ~이다 (단정 어조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Declarative sentence-final particle. Asserts identity or fact."
+      ko: "서술문 문말 조사. 정체나 사실을 단정함."
+  - classical_chinese: 所
+    reading: 소
+    meaning_kun: 바
+    translation:
+      en: that which; place
+      ko: 바; 곳
+    gender: null
+    plural: null
+    notes:
+      en: "Pre-verbal nominalizer. 所+V = 'that which is V-ed'. 所見 = what was seen."
+      ko: "동사 앞 명사화 조사. 所+V = 'V된 바'. 所見 = 본 바."
+  - classical_chinese: 於
+    reading: 어
+    meaning_kun: 어조사
+    translation:
+      en: at; in; from; than
+      ko: ~에서; ~에; ~보다
+    gender: null
+    plural: null
+    notes:
+      en: "Versatile preposition: locative (at/in), source (from), comparative (than)."
+      ko: "다용도 전치사: 장소(~에서), 출처(~에서), 비교(~보다)."
+  - classical_chinese: 與
+    reading: 여
+    meaning_kun: 더불
+    translation:
+      en: with; and; to give
+      ko: ~와; ~과; 주다
+    gender: null
+    plural: null
+    notes:
+      en: "Preposition 'with/and'. Also a verb meaning 'to give' or a question particle."
+      ko: "전치사 '~와/과'. 동사 '주다' 또는 의문 조사로도 사용됨."
+  - classical_chinese: 爲
+    reading: 위
+    meaning_kun: 할
+    translation:
+      en: to do; to be; for the sake of
+      ko: 하다; ~이 되다; ~을 위하여
+    gender: null
+    plural: null
+    notes:
+      en: "Extremely versatile. As a verb: 'to do/make/be'. As preposition: 'for'. Read 위 in most senses."
+      ko: "매우 다용도. 동사: '하다/만들다/되다'. 전치사: '~을 위해'. 대부분 '위'로 읽음."
+- id: mood_particles
+  label:
+    en: Mood Particles
+    ko: 어기 조사
+  type: vocabulary
+  words:
+  - classical_chinese: 矣
+    reading: 의
+    meaning_kun: 어조사
+    translation:
+      en: (completion/change particle)
+      ko: ~하였다; ~하게 되었다
+    gender: null
+    plural: null
+    notes:
+      en: "Indicates completed action or change of state. Similar to 'already' or 'now'."
+      ko: "완료된 행위나 상태 변화를 나타냄. '이미' 또는 '이제'와 유사."
+  - classical_chinese: 焉
+    reading: 언
+    meaning_kun: 어조사
+    translation:
+      en: (locative/emphatic particle); there; how
+      ko: 거기에; 어찌; (어조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Combines 於+之 (at it/there). Also used as question word 'how/where'."
+      ko: "於+之(거기에)의 합음. 의문사 '어찌/어디'로도 사용됨."
+  - classical_chinese: 哉
+    reading: 재
+    meaning_kun: 어조사
+    translation:
+      en: (exclamatory particle)
+      ko: ~이로다! ~인저!
+    gender: null
+    plural: null
+    notes:
+      en: "Strong exclamation particle. Expresses admiration, sorrow, or rhetorical emphasis."
+      ko: "강한 감탄 조사. 감탄, 슬픔, 수사적 강조를 표현."
+  - classical_chinese: 夫
+    reading: 부
+    meaning_kun: 어조사
+    translation:
+      en: (introductory particle); that; indeed
+      ko: 대저; 무릇
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-initial particle introducing a topic or general statement. Read 부."
+      ko: "화제나 일반적 진술을 도입하는 문두 조사. '부'로 읽음."
+  - classical_chinese: 耳
+    reading: 이
+    meaning_kun: 어조사
+    translation:
+      en: (limiting particle); only; that's all
+      ko: ~일 뿐이다
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-final particle meaning 'that is all' or 'merely'. Limits the scope."
+      ko: "문말 조사로 '~일 뿐이다', '단지 ~이다'의 뜻. 범위를 한정함."
+  - classical_chinese: 歟
+    reading: 여
+    meaning_kun: 어조사
+    translation:
+      en: (question/doubt particle)
+      ko: ~인가? ~이랴?
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-final particle expressing doubt or gentle questioning."
+      ko: "의심이나 부드러운 의문을 나타내는 문말 조사."
+  - classical_chinese: 兮
+    reading: 혜
+    meaning_kun: 어조사
+    translation:
+      en: (poetic exclamation particle)
+      ko: ~이여 (시가의 감탄사)
+    gender: null
+    plural: null
+    notes:
+      en: "Poetic particle used in Chu Ci (楚辭) and other verse. Rhythmic pause or exclamation."
+      ko: "초사(楚辭) 등 시가에 쓰이는 조사. 운율적 쉼 또는 감탄."
+- id: connectives
+  label:
+    en: Connective Words
+    ko: 접속사
+  type: vocabulary
+  words:
+  - classical_chinese: 而
+    reading: 이
+    meaning_kun: 말이을
+    translation:
+      en: and; but; yet; while
+      ko: 그리고; 그러나; ~하면서
+    gender: null
+    plural: null
+    notes:
+      en: "Most common connective. Sequential (and), adversative (but), or simultaneous (while)."
+      ko: "가장 흔한 접속사. 순접(그리고), 역접(그러나), 동시(~하면서)."
+  - classical_chinese: 則
+    reading: 즉
+    meaning_kun: 곧
+    translation:
+      en: then; in that case; if...then
+      ko: 곧; ~이면 곧
+    gender: null
+    plural: null
+    notes:
+      en: "Conditional or sequential connective. 'If A, then B' or 'A, and so B'."
+      ko: "조건이나 순서의 접속사. 'A이면 곧 B' 또는 'A, 그러면 B'."
+  - classical_chinese: 以
+    reading: 이
+    meaning_kun: 써
+    translation:
+      en: with; by means of; in order to; because
+      ko: ~으로써; ~하기 위해; ~때문에
+    gender: null
+    plural: null
+    notes:
+      en: "Instrumental: 'by means of'. Purpose: 'in order to'. Causal: 'because of'."
+      ko: "수단: '~으로써'. 목적: '~하기 위해'. 원인: '~때문에'."
+  - classical_chinese: 故
+    reading: 고
+    meaning_kun: 예
+    translation:
+      en: therefore; reason; old
+      ko: 그러므로; 까닭; 옛
+    gender: null
+    plural: null
+    notes:
+      en: "As connective: 'therefore/so'. As noun: 'reason/cause'. Also means 'old'."
+      ko: "접속사: '그러므로'. 명사: '까닭/이유'. '옛'이라는 뜻도 있음."
+  - classical_chinese: 且
+    reading: 차
+    meaning_kun: 또
+    translation:
+      en: moreover; also; and; about to
+      ko: 또한; 게다가; 장차
+    gender: null
+    plural: null
+    notes:
+      en: "Additive connective 'moreover/also'. Also temporal: 'about to'."
+      ko: "첨가 접속사 '또한/게다가'. 시간: '장차'."
+  - classical_chinese: 然
+    reading: 연
+    meaning_kun: 그러할
+    translation:
+      en: so; thus; like that; correct
+      ko: 그러하다; 그렇다; 옳다
+    gender: null
+    plural: null
+    notes:
+      en: "Means 'so/thus'. 然則 = 'if so, then'. 雖然 = 'although'."
+      ko: "'그러하다'의 뜻. 然則 = '그렇다면'. 雖然 = '비록 그러하나'."
+  - classical_chinese: 雖
+    reading: 수
+    meaning_kun: 비록
+    translation:
+      en: although; even though
+      ko: 비록 ~이지만
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive connective 'although/even though'. Often paired with 然."
+      ko: "양보 접속사 '비록 ~이지만'. 然과 자주 짝을 이룸."
+  - classical_chinese: 若
+    reading: 약
+    meaning_kun: 같을
+    translation:
+      en: if; like; as if; you
+      ko: 만약; 같다; 너
+    gender: null
+    plural: null
+    notes:
+      en: "Conditional 'if'. Comparative 'like/as if'. Also a second-person pronoun."
+      ko: "조건 '만약'. 비교 '~같다/~처럼'. 2인칭 대명사로도 사용."
+  - classical_chinese: 蓋
+    reading: 개
+    meaning_kun: 대개
+    translation:
+      en: generally; probably; for (because)
+      ko: 대개; 아마; 대저
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-initial particle meaning 'generally/probably'. Also causal: 'for/because'."
+      ko: "문두 조사로 '대개/아마'. 원인: '왜냐하면'."
