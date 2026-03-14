@@ -1,0 +1,321 @@
+lesson: sup_L5_Weather_and_Seasons
+lesson_number: 104
+hanja_level: L5
+type: supplementary
+topic: Weather and Seasons
+categories:
+- id: seasons
+  label:
+    en: Four Seasons
+    ko: 사계절
+  type: vocabulary
+  words:
+  - classical_chinese: 春
+    reading: 춘
+    meaning_kun: 봄
+    translation:
+      en: spring
+      ko: 봄
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + sprouting plants. Season of growth and renewal."
+      ko: "해(日) + 싹트는 식물. 성장과 갱신의 계절."
+  - classical_chinese: 夏
+    reading: 하
+    meaning_kun: 여름
+    translation:
+      en: summer
+      ko: 여름
+    gender: null
+    plural: null
+    notes:
+      en: "Also refers to the Xia Dynasty, China's first dynasty."
+      ko: "중국 최초의 왕조인 하(夏)나라를 가리키기도 함."
+  - classical_chinese: 秋
+    reading: 추
+    meaning_kun: 가을
+    translation:
+      en: autumn; fall
+      ko: 가을
+    gender: null
+    plural: null
+    notes:
+      en: "Grain (禾) + fire (火). Harvest time. Symbol of melancholy in poetry."
+      ko: "벼(禾) + 불(火). 수확의 때. 시문에서 비애의 상징."
+  - classical_chinese: 冬
+    reading: 동
+    meaning_kun: 겨울
+    translation:
+      en: winter
+      ko: 겨울
+    gender: null
+    plural: null
+    notes:
+      en: "End of the year. Ice (冫) at bottom indicates cold."
+      ko: "한 해의 끝. 아래의 얼음(冫)이 추위를 나타냄."
+  - classical_chinese: 歲
+    reading: 세
+    meaning_kun: 해
+    translation:
+      en: year; age
+      ko: "해; 나이"
+    gender: null
+    plural: null
+    notes:
+      en: "Step (步) + 戌. One full cycle of seasons. Also means 'age.'"
+      ko: "걸음(步) + 戌. 계절의 한 순환. '나이'의 뜻도 있음."
+  - classical_chinese: 節
+    reading: 절
+    meaning_kun: 마디
+    translation:
+      en: season; festival; integrity
+      ko: "마디; 절기; 절개"
+    gender: null
+    plural: null
+    notes:
+      en: "Bamboo (竹) + 即. Joints of bamboo. 節氣 = solar terms."
+      ko: "대(竹) + 即. 대나무의 마디. 節氣 = 절기."
+- id: weather
+  label:
+    en: Weather
+    ko: 날씨
+  type: vocabulary
+  words:
+  - classical_chinese: 晴
+    reading: 청
+    meaning_kun: 갤
+    translation:
+      en: clear sky; sunny
+      ko: "맑은 하늘; 맑음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + 青 (blue/green). Blue sky with sun."
+      ko: "해(日) + 靑(푸를 청). 해가 비치는 푸른 하늘."
+  - classical_chinese: 陰
+    reading: 음
+    meaning_kun: 그늘
+    translation:
+      en: cloudy; shade; yin
+      ko: "흐린; 그늘; 음"
+    gender: null
+    plural: null
+    notes:
+      en: "Hill radical (阝) + 侌. Shady side of a hill. Part of 陰陽 (yin-yang)."
+      ko: "언덕(阝) 부수 + 侌. 언덕의 그늘진 면. 陰陽(음양)의 구성."
+  - classical_chinese: 雨
+    reading: 우
+    meaning_kun: 비
+    translation:
+      en: rain
+      ko: 비
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of raindrops falling from clouds. Radical #173."
+      ko: "구름에서 빗방울이 떨어지는 상형자. 부수 제173번."
+  - classical_chinese: 晝
+    reading: 주
+    meaning_kun: 낮
+    translation:
+      en: daytime; noon
+      ko: 낮
+    gender: null
+    plural: null
+    notes:
+      en: "聿 (writing brush) + 日 (sun). Daylight hours."
+      ko: "聿(붓) + 日(해). 해가 떠 있는 시간."
+  - classical_chinese: 夜
+    reading: 야
+    meaning_kun: 밤
+    translation:
+      en: night
+      ko: 밤
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) under a roof at night. Darkness."
+      ko: "밤에 지붕 아래의 사람(亻). 어둠."
+  - classical_chinese: 暑
+    reading: 서
+    meaning_kun: 더울
+    translation:
+      en: hot; heat; summer heat
+      ko: "더운; 더위"
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + 者. Intense summer heat."
+      ko: "해(日) + 者. 강렬한 여름 더위."
+  - classical_chinese: 寒
+    reading: 한
+    meaning_kun: 찰
+    translation:
+      en: cold; frigid
+      ko: "찬; 추운"
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + person + ice (冫). Person shivering in a cold house."
+      ko: "지붕(宀) + 사람 + 얼음(冫). 추운 집에서 떠는 사람."
+  - classical_chinese: 溫
+    reading: 온
+    meaning_kun: 따뜻할
+    translation:
+      en: warm; mild
+      ko: "따뜻한; 온화한"
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 昷. Warm water. 溫故知新 = review old, learn new."
+      ko: "물(氵) + 昷. 따뜻한 물. 溫故知新 = 옛것을 익혀 새것을 앎."
+  - classical_chinese: 涼
+    reading: 량
+    meaning_kun: 서늘할
+    translation:
+      en: cool; refreshing
+      ko: "서늘한; 시원한"
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 京. Cool water. Pleasant coolness."
+      ko: "물(氵) + 京. 시원한 물. 쾌적한 서늘함."
+  - classical_chinese: 旱
+    reading: 한
+    meaning_kun: 가물
+    translation:
+      en: drought; dry
+      ko: "가뭄; 건조한"
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + 干 (dry). Extended sunshine causing drought."
+      ko: "해(日) + 干(마를 간). 오래 비가 오지 않아 생긴 가뭄."
+  - classical_chinese: 洪
+    reading: 홍
+    meaning_kun: 넓을
+    translation:
+      en: flood; vast
+      ko: "홍수; 넓은"
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 共. Great flood. 洪水 = flood."
+      ko: "물(氵) + 共. 큰 홍수. 洪水 = 홍수."
+- id: climate_terms
+  label:
+    en: Climate and Calendar Terms
+    ko: 기후와 역법
+  type: vocabulary
+  words:
+  - classical_chinese: 朔
+    reading: 삭
+    meaning_kun: 초하루
+    translation:
+      en: first day of lunar month; new moon
+      ko: "음력 초하루; 그믐"
+    gender: null
+    plural: null
+    notes:
+      en: "Moon radical. The day when moon is not visible."
+      ko: "달 부수. 달이 보이지 않는 날."
+  - classical_chinese: 望
+    reading: 망
+    meaning_kun: 바랄
+    translation:
+      en: full moon; 15th day; to gaze
+      ko: "보름; 바라보다"
+    gender: null
+    plural: null
+    notes:
+      en: "Person gazing at the moon. 15th day of lunar month. Also 'hope.'"
+      ko: "달을 바라보는 사람. 음력 15일. '바라다'의 뜻도 있음."
+  - classical_chinese: 潮
+    reading: 조
+    meaning_kun: 조수
+    translation:
+      en: tide; trend
+      ko: "조수; 밀물"
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 朝 (morning). Morning tide."
+      ko: "물(氵) + 朝(아침). 아침의 밀물."
+  - classical_chinese: 嵐
+    reading: 람
+    meaning_kun: 남기
+    translation:
+      en: mountain mist; haze
+      ko: "산안개; 남기"
+    gender: null
+    plural: null
+    notes:
+      en: "Mountain (山) + wind (風). Mist rising from mountains."
+      ko: "산(山) + 바람(風). 산에서 피어오르는 안개."
+  - classical_chinese: 虹
+    reading: 홍
+    meaning_kun: 무지개
+    translation:
+      en: rainbow
+      ko: 무지개
+    gender: null
+    plural: null
+    notes:
+      en: "Insect radical (虫) + 工. Ancients saw rainbows as serpent-like creatures."
+      ko: "벌레(虫) + 工. 옛사람들은 무지개를 뱀 같은 생물로 봄."
+  - classical_chinese: 霞
+    reading: 하
+    meaning_kun: 노을
+    translation:
+      en: rosy clouds; sunset glow
+      ko: "노을; 놀"
+    gender: null
+    plural: null
+    notes:
+      en: "Rain radical (雨) + 叚. Colorful clouds at sunrise or sunset."
+      ko: "비(雨) + 叚. 해 뜨거나 질 때의 붉은 구름."
+  - classical_chinese: 曉
+    reading: 효
+    meaning_kun: 새벽
+    translation:
+      en: dawn; daybreak
+      ko: 새벽
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) + 堯. The moment when day breaks."
+      ko: "해(日) + 堯. 날이 밝아 오는 순간."
+  - classical_chinese: 暮
+    reading: 모
+    meaning_kun: 저물
+    translation:
+      en: dusk; evening; late
+      ko: "저녁; 해질녘"
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) among grass (莫). Sun setting behind vegetation."
+      ko: "풀(莫) 사이로 해(日)가 지는 모양."
+  - classical_chinese: 凍
+    reading: 동
+    meaning_kun: 얼
+    translation:
+      en: to freeze; frozen
+      ko: "얼다; 얼어붙은"
+    gender: null
+    plural: null
+    notes:
+      en: "Ice radical (冫) + 東. Water freezing in cold."
+      ko: "얼음(冫) + 東. 추위에 물이 어는 것."
+  - classical_chinese: 融
+    reading: 융
+    meaning_kun: 녹을
+    translation:
+      en: to melt; to blend
+      ko: "녹다; 융합하다"
+    gender: null
+    plural: null
+    notes:
+      en: "鬲 (cauldron) + 虫. Ice melting. Also 'fusion' or 'harmony.'"
+      ko: "鬲(솥) + 虫. 얼음이 녹음. '융합,' '조화'의 뜻도 있음."
