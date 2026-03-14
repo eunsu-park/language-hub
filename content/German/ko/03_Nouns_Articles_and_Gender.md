@@ -29,28 +29,24 @@
 
 문법적 성을 대부분 폐기한 영어와 달리, 독일어는 모든 명사에 **남성**(maskulin), **여성**(feminin), **중성**(neutrum)의 세 가지 성 중 하나를 부여합니다. 이것은 독일어 문법에서 가장 중요하면서도 어려운 부분 중 하나입니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              The Three Genders of German Nouns                   │
-│                                                                 │
-│   Masculine (maskulin)       → der      der Mann (the man)      │
-│   Feminine (feminin)         → die      die Frau (the woman)    │
-│   Neuter (neutral/sächlich)  → das      das Kind (the child)    │
-│                                                                 │
-│   More examples:                                                │
-│   der Tisch (table)    die Lampe (lamp)    das Buch (book)      │
-│   der Mond (moon)      die Sonne (sun)     das Fenster (window) │
-│   der Apfel (apple)    die Blume (flower)  das Haus (house)     │
-│                                                                 │
-│   IMPORTANT: Gender is a property of the NOUN, not the         │
-│   object it refers to. A table is not inherently "male" —      │
-│   der Tisch is simply how German categorizes this word.         │
-│                                                                 │
-│   ※ ALWAYS learn a noun WITH its article!                      │
-│     Don't memorize "Tisch = table"                              │
-│     Memorize "der Tisch = the table"                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Three Genders of German Nouns**
+>
+> - **Masculine (maskulin)**: der — der Mann (the man)
+> - **Feminine (feminin)**: die — die Frau (the woman)
+> - **Neuter (neutral/sächlich)**: das — das Kind (the child)
+>
+> More examples:
+> der Tisch (table) / die Lampe (lamp) / das Buch (book)
+> der Mond (moon) / die Sonne (sun) / das Fenster (window)
+> der Apfel (apple) / die Blume (flower) / das Haus (house)
+>
+> IMPORTANT: Gender is a property of the NOUN, not the
+> object it refers to. A table is not inherently "male" —
+> der Tisch is simply how German categorizes this word.
+>
+> ALWAYS learn a noun WITH its article!
+> Don't memorize "Tisch = table"
+> Memorize "der Tisch = the table"
 
 ### 1.2 성이 중요한 이유
 
@@ -85,25 +81,21 @@ But guessing is a last resort — learn the patterns and rules below!
 
 ### 1.4 영어와의 비교
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              English vs German Gender System                     │
-│                                                                 │
-│   English:                                                      │
-│     - Natural gender only (he/she for people, it for things)    │
-│     - "the" works for all nouns (no gender marking)             │
-│     - "a/an" based on sound, not gender                         │
-│                                                                 │
-│   German:                                                       │
-│     - Grammatical gender for ALL nouns (people, things, ideas)  │
-│     - "der/die/das" changes based on gender                     │
-│     - Articles change further with case (nom, acc, dat, gen)    │
-│     - "ein/eine" changes based on gender                        │
-│                                                                 │
-│   English: "the table, the lamp, the book"  (all "the")        │
-│   German:  "der Tisch, die Lampe, das Buch" (three forms!)     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **English vs German Gender System**
+>
+> **English:**
+> - Natural gender only (he/she for people, it for things)
+> - "the" works for all nouns (no gender marking)
+> - "a/an" based on sound, not gender
+>
+> **German:**
+> - Grammatical gender for ALL nouns (people, things, ideas)
+> - "der/die/das" changes based on gender
+> - Articles change further with case (nom, acc, dat, gen)
+> - "ein/eine" changes based on gender
+>
+> English: "the table, the lamp, the book" (all "the")
+> German: "der Tisch, die Lampe, das Buch" (three forms!)
 
 ---
 
@@ -280,23 +272,18 @@ Usage comparison:
 
 성은 대부분 외워야 하지만, 신뢰할 수 있는 패턴이 있습니다:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Masculine Gender Patterns (der)                     │
-│                                                                 │
-│   By MEANING (semantic categories):                             │
-│     Male persons:     der Mann, der Vater, der Bruder           │
-│     Days of the week: der Montag, der Dienstag, der Mittwoch    │
-│     Months:           der Januar, der Februar, der März          │
-│     Seasons:          der Frühling, der Sommer, der Herbst      │
-│     Cardinal directions: der Norden, der Süden, der Osten       │
-│     Weather elements: der Regen, der Schnee, der Wind           │
-│     Car brands:       der BMW, der Mercedes, der Audi           │
-│     Alcoholic drinks: der Wein, der Whisky, der Wodka           │
-│       (Exception: das Bier!)                                    │
-│     Minerals/rocks:   der Diamant, der Quarz, der Granit        │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Masculine Gender Patterns (der)**
+>
+> By MEANING (semantic categories):
+> - **Male persons**: der Mann, der Vater, der Bruder
+> - **Days of the week**: der Montag, der Dienstag, der Mittwoch
+> - **Months**: der Januar, der Februar, der März
+> - **Seasons**: der Frühling, der Sommer, der Herbst
+> - **Cardinal directions**: der Norden, der Süden, der Osten
+> - **Weather elements**: der Regen, der Schnee, der Wind
+> - **Car brands**: der BMW, der Mercedes, der Audi
+> - **Alcoholic drinks**: der Wein, der Whisky, der Wodka (Exception: das Bier!)
+> - **Minerals/rocks**: der Diamant, der Quarz, der Granit
 
 **남성 명사 어미:**
 
@@ -313,22 +300,17 @@ Usage comparison:
 
 ### 4.2 여성 명사 패턴 (die)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Feminine Gender Patterns (die)                      │
-│                                                                 │
-│   By MEANING (semantic categories):                             │
-│     Female persons:   die Frau, die Mutter, die Schwester       │
-│     Trees:            die Eiche (oak), die Birke (birch)        │
-│     Flowers:          die Rose, die Tulpe, die Lilie             │
-│     Numbers as nouns: die Eins, die Zwei, die Drei              │
-│     Rivers (German):  die Elbe, die Donau, die Mosel            │
-│       (Exception: der Rhein, der Main, der Neckar)              │
-│     Ships:            die Titanic, die Europa                   │
-│     Airplanes:        die Boeing, die Cessna                    │
-│     Motorbikes:       die Harley, die Vespa                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Feminine Gender Patterns (die)**
+>
+> By MEANING (semantic categories):
+> - **Female persons**: die Frau, die Mutter, die Schwester
+> - **Trees**: die Eiche (oak), die Birke (birch)
+> - **Flowers**: die Rose, die Tulpe, die Lilie
+> - **Numbers as nouns**: die Eins, die Zwei, die Drei
+> - **Rivers (German)**: die Elbe, die Donau, die Mosel (Exception: der Rhein, der Main, der Neckar)
+> - **Ships**: die Titanic, die Europa
+> - **Airplanes**: die Boeing, die Cessna
+> - **Motorbikes**: die Harley, die Vespa
 
 **여성 명사 어미** (독일어에서 가장 신뢰할 수 있는 패턴입니다!):
 
@@ -354,25 +336,20 @@ Usage comparison:
 
 ### 4.3 중성 명사 패턴 (das)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Neuter Gender Patterns (das)                        │
-│                                                                 │
-│   By MEANING (semantic categories):                             │
-│     Diminutives:      das Mädchen (girl), das Brötchen (roll)   │
-│     Letters:          das A, das B, das C                        │
-│     Colors as nouns:  das Blau, das Rot, das Grün               │
-│     Metals:           das Gold, das Silber, das Eisen            │
-│     Scientific units: das Kilogramm, das Prozent                 │
-│     Continents:       (das) Europa, (das) Asien                  │
-│     Countries (most): (das) Deutschland, (das) Frankreich        │
-│       (Exception: die Schweiz, die Türkei, die USA [pl.])       │
-│     Cities:           (das) Berlin, (das) München                │
-│     Languages:        das Deutsch, das Englisch                  │
-│     Infinitives as nouns: das Essen (food), das Schwimmen        │
-│     Hotels/cinemas:   das Hilton, das Marriott                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Neuter Gender Patterns (das)**
+>
+> By MEANING (semantic categories):
+> - **Diminutives**: das Mädchen (girl), das Brötchen (roll)
+> - **Letters**: das A, das B, das C
+> - **Colors as nouns**: das Blau, das Rot, das Grün
+> - **Metals**: das Gold, das Silber, das Eisen
+> - **Scientific units**: das Kilogramm, das Prozent
+> - **Continents**: (das) Europa, (das) Asien
+> - **Countries (most)**: (das) Deutschland, (das) Frankreich (Exception: die Schweiz, die Türkei, die USA [pl.])
+> - **Cities**: (das) Berlin, (das) München
+> - **Languages**: das Deutsch, das Englisch
+> - **Infinitives as nouns**: das Essen (food), das Schwimmen
+> - **Hotels/cinemas**: das Hilton, das Marriott
 
 **중성 명사 어미:**
 
@@ -391,25 +368,21 @@ Usage comparison:
 
 ### 4.4 빠른 참조: 어미별 성
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│          Quick Reference: Most Reliable Gender Rules             │
-│                                                                 │
-│   ALWAYS masculine (der):                                       │
-│     -ismus, -ist, -ling, -or, -ant/-ent                         │
-│     Days, months, seasons, compass directions                   │
-│                                                                 │
-│   ALWAYS feminine (die):                                        │
-│     -ung, -heit, -keit, -schaft, -tion, -tät/-ität, -in        │
-│                                                                 │
-│   ALWAYS neuter (das):                                          │
-│     -chen, -lein (diminutives), -ment, -um                      │
-│                                                                 │
-│   LEARN INDIVIDUALLY:                                           │
-│     Many -e nouns, -er nouns (agent vs other), -el nouns        │
-│     Common everyday nouns: der Stuhl, die Tür, das Bett         │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference: Most Reliable Gender Rules**
+>
+> **ALWAYS masculine (der):**
+> -ismus, -ist, -ling, -or, -ant/-ent
+> Days, months, seasons, compass directions
+>
+> **ALWAYS feminine (die):**
+> -ung, -heit, -keit, -schaft, -tion, -tät/-ität, -in
+>
+> **ALWAYS neuter (das):**
+> -chen, -lein (diminutives), -ment, -um
+>
+> **LEARN INDIVIDUALLY:**
+> Many -e nouns, -er nouns (agent vs other), -el nouns
+> Common everyday nouns: der Stuhl, die Tür, das Bett
 
 ---
 
@@ -493,24 +466,20 @@ das Messer (knife) — neuter
 
 보통 -s나 -es만 붙이면 되는 영어와 달리, 독일어는 복수를 만드는 5가지 주요 방법이 있습니다. 하나의 규칙은 없으며, 복수형은 명사에 따라 달라집니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              The Five Plural Types in German                     │
-│                                                                 │
-│   Type 1:  -e         der Tisch → die Tische                   │
-│   Type 2:  -er        das Kind → die Kinder                    │
-│   Type 3:  -en / -n   die Frau → die Frauen                    │
-│   Type 4:  -s         das Auto → die Autos                     │
-│   Type 5:  — (none)   das Fenster → die Fenster                │
-│                                                                 │
-│   + Many plurals add an UMLAUT to the stem vowel:              │
-│     der Mann → die Männer (a → ä)                              │
-│     der Apfel → die Äpfel (no suffix, but Umlaut)              │
-│     das Haus → die Häuser (-er + Umlaut)                       │
-│                                                                 │
-│   Remember: ALL plural nouns use the article "die"             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **The Five Plural Types in German**
+>
+> - **Type 1**: -e — der Tisch → die Tische
+> - **Type 2**: -er — das Kind → die Kinder
+> - **Type 3**: -en / -n — die Frau → die Frauen
+> - **Type 4**: -s — das Auto → die Autos
+> - **Type 5**: — (none) — das Fenster → die Fenster
+>
+> Many plurals add an UMLAUT to the stem vowel:
+> der Mann → die Männer (a → ä)
+> der Apfel → die Äpfel (no suffix, but Umlaut)
+> das Haus → die Häuser (-er + Umlaut)
+>
+> Remember: ALL plural nouns use the article "die"
 
 ### 6.2 유형 1: -e 복수형
 
@@ -692,27 +661,23 @@ Most reliable patterns:
 
 독일어는 기존 명사를 결합하여 새로운 단어를 만드는 능력으로 유명합니다. 이 복합명사(Komposita)는 매우 길 수 있지만, 명확한 규칙을 따릅니다.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            Compound Noun Rule                                    │
-│                                                                 │
-│   The LAST word determines:                                     │
-│   1. The gender (article)                                       │
-│   2. The plural form                                            │
-│   3. The basic meaning                                          │
-│                                                                 │
-│   Earlier words modify or specify the meaning.                  │
-│                                                                 │
-│   das Haus + die Tür = die Haustür                              │
-│   (house)   (door)    (front door) — feminine because Tür is f. │
-│                                                                 │
-│   der Hand + der Schuh = der Handschuh                          │
-│   (hand)    (shoe)      (glove) — masculine because Schuh is m. │
-│                                                                 │
-│   das Kind + das Zimmer = das Kinderzimmer                      │
-│   (child)   (room)       (children's room) — neuter             │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Compound Noun Rule**
+>
+> The LAST word determines:
+> 1. The gender (article)
+> 2. The plural form
+> 3. The basic meaning
+>
+> Earlier words modify or specify the meaning.
+>
+> das Haus + die Tür = die Haustür
+> (house) + (door) = (front door) — feminine because Tür is f.
+>
+> der Hand + der Schuh = der Handschuh
+> (hand) + (shoe) = (glove) — masculine because Schuh is m.
+>
+> das Kind + das Zimmer = das Kinderzimmer
+> (child) + (room) = (children's room) — neuter
 
 ### 7.2 복합명사 예시
 
@@ -868,27 +833,23 @@ Subject (nominative) + sein + Predicate (also nominative)
 
 ### 8.4 명사 대문자 표기
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   In German, ALL nouns are capitalized — not just proper nouns. │
-│                                                                 │
-│   English: I have a book and a cat.                             │
-│   German:  Ich habe ein Buch und eine Katze.                    │
-│                                                                 │
-│   English: The teacher reads the newspaper in the morning.      │
-│   German:  Der Lehrer liest die Zeitung am Morgen.              │
-│                                                                 │
-│   This includes:                                                │
-│   - Common nouns: der Tisch, die Lampe, das Buch                │
-│   - Abstract nouns: die Liebe, die Freiheit, das Glück          │
-│   - Nominalized verbs: das Essen (the eating/food)              │
-│   - Nominalized adjectives: der Alte (the old man)              │
-│   - Proper nouns: Berlin, Goethe, Deutschland                   │
-│                                                                 │
-│   ※ This is a helpful clue: capitalization tells you            │
-│     something is a noun when reading German text!               │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **In German, ALL nouns are capitalized — not just proper nouns.**
+>
+> English: I have a book and a cat.
+> German: Ich habe ein Buch und eine Katze.
+>
+> English: The teacher reads the newspaper in the morning.
+> German: Der Lehrer liest die Zeitung am Morgen.
+>
+> This includes:
+> - Common nouns: der Tisch, die Lampe, das Buch
+> - Abstract nouns: die Liebe, die Freiheit, das Glück
+> - Nominalized verbs: das Essen (the eating/food)
+> - Nominalized adjectives: der Alte (the old man)
+> - Proper nouns: Berlin, Goethe, Deutschland
+>
+> This is a helpful clue: capitalization tells you
+> something is a noun when reading German text!
 
 ---
 
@@ -1104,38 +1065,34 @@ der Tourismus (-ismus)   die Gesundheit (-heit)     das Museum (-um)
 
 ## 빠른 참조
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              Nouns, Articles, and Gender Quick Guide              │
-│                                                                 │
-│   Three Genders:                                                │
-│     der (masculine)  die (feminine)  das (neuter)               │
-│     ein (m/n)        eine (f)        ein (m/n)                  │
-│                                                                 │
-│   Reliable Masculine Endings:                                   │
-│     -ismus, -ist, -ling, -or, -ant/-ent, -ig, -ich             │
-│                                                                 │
-│   Reliable Feminine Endings:                                    │
-│     -ung, -heit, -keit, -schaft, -tion, -tät, -ie, -ik, -in   │
-│                                                                 │
-│   Reliable Neuter Endings:                                      │
-│     -chen, -lein, -ment, -um, -tum, Ge- (collective)           │
-│                                                                 │
-│   Plural Types:                                                 │
-│     1. -e (often + Umlaut)     der Tisch → die Tische          │
-│     2. -er (usually + Umlaut)  das Kind → die Kinder           │
-│     3. -en/-n (never Umlaut)   die Frau → die Frauen           │
-│     4. -s (foreign words)      das Auto → die Autos            │
-│     5. no change               das Fenster → die Fenster       │
-│                                                                 │
-│   Compound Nouns:                                               │
-│     Last element determines gender and plural form              │
-│     Haus + Tür → die Haustür (die, from die Tür)               │
-│                                                                 │
-│   Golden Rule: Always learn a noun WITH its article!            │
-│     Not "Tisch" but "der Tisch"                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Nouns, Articles, and Gender Quick Guide**
+>
+> **Three Genders:**
+> der (masculine) / die (feminine) / das (neuter)
+> ein (m/n) / eine (f) / ein (m/n)
+>
+> **Reliable Masculine Endings:**
+> -ismus, -ist, -ling, -or, -ant/-ent, -ig, -ich
+>
+> **Reliable Feminine Endings:**
+> -ung, -heit, -keit, -schaft, -tion, -tät, -ie, -ik, -in
+>
+> **Reliable Neuter Endings:**
+> -chen, -lein, -ment, -um, -tum, Ge- (collective)
+>
+> **Plural Types:**
+> 1. -e (often + Umlaut) — der Tisch → die Tische
+> 2. -er (usually + Umlaut) — das Kind → die Kinder
+> 3. -en/-n (never Umlaut) — die Frau → die Frauen
+> 4. -s (foreign words) — das Auto → die Autos
+> 5. no change — das Fenster → die Fenster
+>
+> **Compound Nouns:**
+> Last element determines gender and plural form
+> Haus + Tür → die Haustür (die, from die Tür)
+>
+> **Golden Rule:** Always learn a noun WITH its article!
+> Not "Tisch" but "der Tisch"
 
 ---
 
