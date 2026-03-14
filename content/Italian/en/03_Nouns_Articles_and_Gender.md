@@ -26,21 +26,16 @@
 
 Every Italian noun has a grammatical gender: **masculine** or **feminine**. This affects articles, adjectives, and pronouns that accompany the noun.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   English: "the book", "the table", "the house"                │
-│   (same article regardless of noun)                             │
-│                                                                 │
-│   Italian: "il libro", "la tavola", "la casa"                  │
-│   (article changes to match noun gender AND initial sound)      │
-│                                                                 │
-│   Why it matters:                                               │
-│   • Articles must agree: il libro / la tavola                   │
-│   • Adjectives must agree: libro nuovo / tavola nuova           │
-│   • Pronouns must agree: lo compro / la compro                  │
-│   • Italian has 7 different definite articles (not just 2!)     │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Grammatical Gender in Italian**
+>
+> English: "the book", "the table", "the house" (same article regardless of noun)
+> Italian: "il libro", "la tavola", "la casa" (article changes to match noun gender AND initial sound)
+>
+> Why it matters:
+> - Articles must agree: il libro / la tavola
+> - Adjectives must agree: libro nuovo / tavola nuova
+> - Pronouns must agree: lo compro / la compro
+> - Italian has 7 different definite articles (not just 2!)
 
 > **For Korean speakers**: Korean nouns don't have grammatical gender (책, 탁자 are gender-neutral). In Italian, you must memorize the gender of every noun along with its article. Always learn **il libro** not just "libro."
 
@@ -79,24 +74,15 @@ Typically feminine:
 
 ### 2.3 Nouns Ending in -E (Either Gender — Must Memorize)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Masculine -e nouns:                                           │
-│   il pane (bread)         il nome (name)                        │
-│   il giornale (newspaper) il mare (sea)                         │
-│   il pesce (fish)         il fiore (flower)                     │
-│   il sole (sun)           il ponte (bridge)                     │
-│                                                                 │
-│   Feminine -e nouns:                                            │
-│   la notte (night)        la chiave (key)                       │
-│   la classe (class)       la gente (people)                     │
-│   la mente (mind)         la madre (mother)                     │
-│   la canzone (song)       la legge (law)                        │
-│                                                                 │
-│   ※ There is no reliable rule — you must learn the gender      │
-│     of -e nouns individually. Learn with the article!           │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Nouns Ending in -E (Either Gender)**
+>
+> Masculine -e nouns:
+> il pane (bread), il nome (name), il giornale (newspaper), il mare (sea), il pesce (fish), il fiore (flower), il sole (sun), il ponte (bridge)
+>
+> Feminine -e nouns:
+> la notte (night), la chiave (key), la classe (class), la gente (people), la mente (mind), la madre (mother), la canzone (song), la legge (law)
+>
+> - There is no reliable rule — you must learn the gender of -e nouns individually. Learn with the article!
 
 ### 2.4 Important Exceptions
 
@@ -256,27 +242,21 @@ The partitive article is formed by **di + definite article**:
 
 ### 5.1 Regular Plurals
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   Masculine nouns:                                              │
-│   -o → -i     il libro → i libri    il gatto → i gatti         │
-│   -e → -i     il fiore → i fiori    il pesce → i pesci         │
-│                                                                 │
-│   Feminine nouns:                                               │
-│   -a → -e     la casa → le case     la donna → le donne        │
-│   -e → -i     la notte → le notti   la chiave → le chiavi      │
-│                                                                 │
-│   Summary:                                                      │
-│   ┌─────────┬───────────┬───────────┐                          │
-│   │ Ending  │ Singular  │ Plural    │                          │
-│   ├─────────┼───────────┼───────────┤                          │
-│   │ Masc -o │ libro     │ libr-i    │                          │
-│   │ Fem  -a │ casa      │ cas-e     │                          │
-│   │ M/F  -e │ fiore (m) │ fior-i    │                          │
-│   │         │ notte (f) │ nott-i    │                          │
-│   └─────────┴───────────┴───────────┘                          │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Regular Plurals**
+>
+> Masculine nouns:
+> - -o → -i: il libro → i libri, il gatto → i gatti
+> - -e → -i: il fiore → i fiori, il pesce → i pesci
+>
+> Feminine nouns:
+> - -a → -e: la casa → le case, la donna → le donne
+> - -e → -i: la notte → le notti, la chiave → le chiavi
+>
+> Summary:
+> | Ending | Singular | Plural |
+> | Masc -o | libro | libr-i |
+> | Fem -a | casa | cas-e |
+> | M/F -e | fiore (m) / notte (f) | fior-i / nott-i |
 
 ### 5.2 Spelling Changes in Plurals
 
@@ -630,34 +610,28 @@ Create sentences using the nouns and articles learned.
 
 ## Quick Reference
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   DEFINITE ARTICLES (7 forms)                                   │
-│                  Masc.sg    Fem.sg    Masc.pl   Fem.pl          │
-│   Most cons.     il         la        i         le              │
-│   s+cons/z/gn    lo         la        gli       le              │
-│   Vowel          l'         l'        gli       le              │
-│                                                                 │
-│   INDEFINITE ARTICLES                                           │
-│   Most cons.     un         una                                 │
-│   s+cons/z/gn    uno        una                                 │
-│   Vowel          un         un'                                 │
-│                                                                 │
-│   GENDER CLUES                                                  │
-│   Masculine: -o, -ore, -iere, Greek -ma                         │
-│   Feminine:  -a, -zione, -sione, -tà, -tù, -ezza, -ura        │
-│   -e nouns: memorize individually                               │
-│   Exceptions: il problema, la mano, la foto                    │
-│                                                                 │
-│   PLURALS                                                       │
-│   -o → -i    -a → -e    -e → -i                               │
-│   Accented/foreign words: invariable                            │
-│                                                                 │
-│   ARTICULATED PREPOSITIONS                                      │
-│   di+art, a+art, da+art, in+art, su+art → combine             │
-│   con, per, tra/fra → stay separate                            │
-└─────────────────────────────────────────────────────────────────┘
-```
+> **Quick Reference**
+>
+> DEFINITE ARTICLES (7 forms):
+> | — | Masc.sg | Fem.sg | Masc.pl | Fem.pl |
+> | Most cons. | il | la | i | le |
+> | s+cons/z/gn | lo | la | gli | le |
+> | Vowel | l' | l' | gli | le |
+>
+> INDEFINITE ARTICLES:
+> | Most cons. | un | una |
+> | s+cons/z/gn | uno | una |
+> | Vowel | un | un' |
+>
+> GENDER CLUES:
+> - Masculine: -o, -ore, -iere, Greek -ma
+> - Feminine: -a, -zione, -sione, -tà, -tù, -ezza, -ura
+> - -e nouns: memorize individually
+> - Exceptions: il problema, la mano, la foto
+>
+> PLURALS: -o → -i, -a → -e, -e → -i. Accented/foreign words: invariable
+>
+> ARTICULATED PREPOSITIONS: di+art, a+art, da+art, in+art, su+art → combine. con, per, tra/fra → stay separate
 
 ---
 
