@@ -1,0 +1,506 @@
+lesson: 13_Historical_Texts
+lesson_number: 13
+hanja_level: L3
+categories:
+- id: historical_vocabulary
+  label:
+    en: Historical Vocabulary
+    ko: 역사 어휘
+  type: vocabulary
+  words:
+  - classical_chinese: 王
+    reading: 왕
+    meaning_kun: 임금
+    translation:
+      en: king; ruler
+      ko: 임금; 왕
+    gender: null
+    plural: null
+    notes:
+      en: "Three lines (heaven, man, earth) connected. The ruler who unites all three."
+      ko: "세 줄(하늘, 사람, 땅)을 연결한 글자. 셋을 하나로 잇는 통치자."
+  - classical_chinese: 帝
+    reading: 제
+    meaning_kun: 임금
+    translation:
+      en: emperor; supreme ruler
+      ko: 황제; 제왕
+    gender: null
+    plural: null
+    notes:
+      en: "Originally a sacrificial altar. Supreme ruler; emperor (higher than 王)."
+      ko: "원래 제사 제단. 최고 통치자; 황제(王보다 높음)."
+  - classical_chinese: 皇
+    reading: 황
+    meaning_kun: 임금
+    translation:
+      en: emperor; august; sovereign
+      ko: 황제; 빛나다
+    gender: null
+    plural: null
+    notes:
+      en: "White (白) + king (王). Shining ruler. 皇帝 = emperor (first used by Qin Shi Huang)."
+      ko: "흰(白) + 왕(王). 빛나는 통치자. 皇帝 = 황제(진시황이 처음 사용)."
+  - classical_chinese: 臣
+    reading: 신
+    meaning_kun: 신하
+    translation:
+      en: minister; subject; servant
+      ko: 신하; 하인
+    gender: null
+    plural: null
+    notes:
+      en: "Eye looking downward in submission. A minister serving the ruler."
+      ko: "복종하여 아래를 보는 눈. 군주를 섬기는 신하."
+  - classical_chinese: 將
+    reading: 장
+    meaning_kun: 장수
+    translation:
+      en: general; commander; about to
+      ko: 장군; 장차 ~하려 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + hand + 寸. Leading troops. Military commander; also 'about to'."
+      ko: "고기(月) + 손 + 寸. 병사를 이끄는 것. 장군; '장차'의 뜻도 있음."
+  - classical_chinese: 兵
+    reading: 병
+    meaning_kun: 군사
+    translation:
+      en: soldier; weapon; military
+      ko: 군사; 병사; 무기
+    gender: null
+    plural: null
+    notes:
+      en: "Hands holding a weapon (斤). Soldiers; weapons; military force."
+      ko: "손이 무기(斤)를 잡은 모양. 군사; 무기; 군사력."
+  - classical_chinese: 戰
+    reading: 전
+    meaning_kun: 싸울
+    translation:
+      en: battle; war; to fight
+      ko: 전쟁; 싸우다
+    gender: null
+    plural: null
+    notes:
+      en: "Simple (單) + halberd (戈). To fight with weapons; battle."
+      ko: "홑(單) + 창(戈). 무기로 싸우다; 전투."
+  - classical_chinese: 國
+    reading: 국
+    meaning_kun: 나라
+    translation:
+      en: country; state; kingdom
+      ko: 나라
+    gender: null
+    plural: null
+    notes:
+      en: "Enclosure + weapon + territory. A defended territory; a state."
+      ko: "울타리 + 무기 + 영토. 방어되는 영토; 국가."
+  - classical_chinese: 朝
+    reading: 조
+    meaning_kun: 아침
+    translation:
+      en: dynasty; court; morning
+      ko: 왕조; 조정; 아침
+    gender: null
+    plural: null
+    notes:
+      en: "Sun rising among plants. Morning; imperial court; dynasty."
+      ko: "식물 사이로 해가 뜨는 모양. 아침; 조정; 왕조."
+  - classical_chinese: 代
+    reading: 대
+    meaning_kun: 대신할
+    translation:
+      en: generation; dynasty; to substitute
+      ko: 대; 시대; 대신하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 弋. To replace one generation with another; era."
+      ko: "사람(亻) + 弋. 세대를 바꾸다; 시대."
+  - classical_chinese: 史
+    reading: 사
+    meaning_kun: 사기
+    translation:
+      en: history; historian; records
+      ko: 역사; 사관; 기록
+    gender: null
+    plural: null
+    notes:
+      en: "Hand holding a writing instrument. Historian; historical records."
+      ko: "손에 필기구를 잡은 모양. 사관; 역사 기록."
+  - classical_chinese: 世
+    reading: 세
+    meaning_kun: 인간
+    translation:
+      en: generation; world; era
+      ko: 세대; 세상; 시대
+    gender: null
+    plural: null
+    notes:
+      en: "Three tens (十) stacked. Thirty years = one generation; the world."
+      ko: "열(十) 세 개를 쌓은 모양. 30년 = 한 세대; 세상."
+  - classical_chinese: 侯
+    reading: 후
+    meaning_kun: 제후
+    translation:
+      en: marquis; feudal lord
+      ko: 제후; 후작
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + arrow + target. A lord who hits the mark; feudal lord."
+      ko: "사람(亻) + 화살 + 과녁. 과녁을 맞히는 군주; 제후."
+  - classical_chinese: 封
+    reading: 봉
+    meaning_kun: 봉할
+    translation:
+      en: to enfeoff; to seal; feudal grant
+      ko: 봉하다; 봉인하다; 봉토
+    gender: null
+    plural: null
+    notes:
+      en: "Earth (土) + tree + 寸. Planting trees to mark territory; feudal grant."
+      ko: "흙(土) + 나무 + 寸. 나무를 심어 영토를 표시; 봉토."
+  - classical_chinese: 諸
+    reading: 제
+    meaning_kun: 모든
+    translation:
+      en: all; various; (= 之於)
+      ko: 모든; 여러; (= 之於의 합음)
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 者. Various; all. 諸侯 = various feudal lords. Also contraction of 之於."
+      ko: "말(言) + 者. 여러; 모든. 諸侯 = 제후들. 之於의 축약형이기도 함."
+- id: shiji_terms
+  label:
+    en: Shiji (Records of the Grand Historian) Terms
+    ko: 사기(史記) 용어
+  type: vocabulary
+  words:
+  - classical_chinese: 本紀
+    reading: 본기
+    meaning_kun: 근본 기록
+    translation:
+      en: basic annals (of emperors)
+      ko: 본기 (황제의 기록)
+    gender: null
+    plural: null
+    notes:
+      en: "本 (root) + 紀 (record). Imperial chronicles in Sima Qian's Records of the Grand Historian."
+      ko: "本(근본) + 紀(기록). 사마천의 사기에서 황제의 연대기."
+  - classical_chinese: 世家
+    reading: 세가
+    meaning_kun: 인간 집
+    translation:
+      en: hereditary houses (of feudal lords)
+      ko: 세가 (제후의 기록)
+    gender: null
+    plural: null
+    notes:
+      en: "世 (generation) + 家 (house). Records of hereditary feudal houses in the Shiji."
+      ko: "世(세대) + 家(집). 사기에서 세습 제후 가문의 기록."
+  - classical_chinese: 列傳
+    reading: 열전
+    meaning_kun: 벌일 전할
+    translation:
+      en: categorized biographies
+      ko: 열전 (인물 전기)
+    gender: null
+    plural: null
+    notes:
+      en: "列 (arrange) + 傳 (biography). Biographies of notable people in the Shiji."
+      ko: "列(배열) + 傳(전기). 사기에서 주목할 인물들의 전기."
+  - classical_chinese: 紀
+    reading: 기
+    meaning_kun: 기록
+    translation:
+      en: record; annals; discipline
+      ko: 기록; 연대기; 기강
+    gender: null
+    plural: null
+    notes:
+      en: "Thread (糸) + 己. Thread of events; chronological record."
+      ko: "실(糸) + 己. 사건의 실타래; 연대순 기록."
+  - classical_chinese: 傳
+    reading: 전
+    meaning_kun: 전할
+    translation:
+      en: biography; to transmit; legend
+      ko: 전기; 전하다; 전설
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 專. To pass down; biography. Also read 전 as 'to transmit'."
+      ko: "사람(亻) + 專. 전해주다; 전기. '전하다'로도 읽음."
+  - classical_chinese: 表
+    reading: 표
+    meaning_kun: 겉
+    translation:
+      en: table; chronological chart; to express
+      ko: 표; 연표; 나타내다
+    gender: null
+    plural: null
+    notes:
+      en: "Clothes (衣) + 毛. The outside surface; a chronological table in the Shiji."
+      ko: "옷(衣) + 毛. 겉면; 사기의 연표."
+  - classical_chinese: 志
+    reading: 지
+    meaning_kun: 기록
+    translation:
+      en: treatise; record; to record
+      ko: 지; 기록하다
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (心) + scholar (士). In historical texts: topical treatises (e.g., 天文志)."
+      ko: "마음(心) + 선비(士). 역사서에서: 주제별 논문(예: 天文志)."
+  - classical_chinese: 書
+    reading: 서
+    meaning_kun: 글
+    translation:
+      en: book; treatise; to write
+      ko: 책; 서(書); 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "In Shiji: 書 = topical treatises (8 chapters on rites, music, etc.)."
+      ko: "사기에서: 書 = 주제별 논문(예악 등 8편)."
+  - classical_chinese: 記
+    reading: 기
+    meaning_kun: 기록할
+    translation:
+      en: to record; account; memoir
+      ko: 기록하다; 기
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 己. To record events. 史記 = Records of the Grand Historian."
+      ko: "말(言) + 己. 사건을 기록하다. 史記 = 사기."
+  - classical_chinese: 太
+    reading: 태
+    meaning_kun: 클
+    translation:
+      en: great; supreme; too
+      ko: 크다; 지극하다; 너무
+    gender: null
+    plural: null
+    notes:
+      en: "大 (big) with a dot. Even bigger than big; supreme. 太史公 = Grand Historian."
+      ko: "大(크다)에 점을 더한 글자. 大보다 더 큰; 지극한. 太史公 = 태사공."
+- id: narrative_verbs
+  label:
+    en: Narrative Verbs
+    ko: 서사 동사
+  type: vocabulary
+  words:
+  - classical_chinese: 征
+    reading: 정
+    meaning_kun: 칠
+    translation:
+      en: to campaign; to punish; to levy
+      ko: 정벌하다; 치다; 징수하다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (彳) + correct (正). A righteous military campaign; to punish rebels."
+      ko: "걸을(彳) + 바르다(正). 정의로운 군사 원정; 반역자를 징벌하다."
+  - classical_chinese: 伐
+    reading: 벌
+    meaning_kun: 칠
+    translation:
+      en: to attack; to strike; to boast
+      ko: 치다; 정벌하다; 자랑하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + halberd (戈). To attack with declared cause (more justified than 侵)."
+      ko: "사람(亻) + 창(戈). 명분을 내세워 치다(侵보다 정당함)."
+  - classical_chinese: 攻
+    reading: 공
+    meaning_kun: 칠
+    translation:
+      en: to attack; to assault; to study diligently
+      ko: 공격하다; 치다
+    gender: null
+    plural: null
+    notes:
+      en: "Work (工) + strike (攵). To apply force against; to attack."
+      ko: "일(工) + 치다(攵). 힘을 가해 치다; 공격하다."
+  - classical_chinese: 守
+    reading: 수
+    meaning_kun: 지킬
+    translation:
+      en: to defend; to guard; to keep
+      ko: 지키다; 수비하다
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + 寸 (hand). Hand guarding a house; to defend."
+      ko: "지붕(宀) + 寸(손). 손으로 집을 지키다; 방어하다."
+  - classical_chinese: 敗
+    reading: 패
+    meaning_kun: 질
+    translation:
+      en: to defeat; to be defeated; to fail
+      ko: 패하다; 지다; 실패하다
+    gender: null
+    plural: null
+    notes:
+      en: "Shell (貝) + strike (攵). To smash valuables; to defeat/be defeated."
+      ko: "조개(貝) + 치다(攵). 보물을 부수다; 패하다."
+  - classical_chinese: 降
+    reading: 항
+    meaning_kun: 항복할
+    translation:
+      en: to surrender; to descend; to submit
+      ko: 항복하다; 내려가다
+    gender: null
+    plural: null
+    notes:
+      en: "Hill (阝) + 夅. To descend a hill; to surrender. Read 항 for 'surrender', 강 for 'descend'."
+      ko: "언덕(阝) + 夅. 언덕을 내려가다; 항복하다. '항복'은 항, '내리다'는 강으로 읽음."
+  - classical_chinese: 勝
+    reading: 승
+    meaning_kun: 이길
+    translation:
+      en: to win; to conquer; to surpass
+      ko: 이기다; 승리하다
+    gender: null
+    plural: null
+    notes:
+      en: "Strength (力) + 朕. To overcome by force; to win a battle."
+      ko: "힘(力) + 朕. 힘으로 이겨내다; 전투에서 승리하다."
+  - classical_chinese: 亡
+    reading: 망
+    meaning_kun: 망할
+    translation:
+      en: to perish; to die; to flee; to lose
+      ko: 망하다; 죽다; 달아나다; 잃다
+    gender: null
+    plural: null
+    notes:
+      en: "A person hiding behind an obstacle. To flee; to perish; to be lost."
+      ko: "장애물 뒤에 숨은 사람. 달아나다; 망하다; 잃다."
+  - classical_chinese: 興
+    reading: 흥
+    meaning_kun: 일어날
+    translation:
+      en: to rise; to prosper; to start
+      ko: 일어나다; 흥하다; 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Four hands lifting together. To rise; to prosper. Opposite of 亡."
+      ko: "네 손이 함께 들어올리는 모양. 일어나다; 흥하다. 亡의 반대."
+  - classical_chinese: 滅
+    reading: 멸
+    meaning_kun: 멸할
+    translation:
+      en: to destroy; to extinguish; to annihilate
+      ko: 멸하다; 없애다
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 烕 (fire extinguished). To put out fire; to destroy utterly."
+      ko: "물(氵) + 烕(꺼진 불). 불을 끄다; 완전히 멸하다."
+  - classical_chinese: 侵
+    reading: 침
+    meaning_kun: 침노할
+    translation:
+      en: to invade; to encroach; to trespass
+      ko: 침범하다; 침입하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person + broom + hand. Sneaking in with a broom; unjustified invasion."
+      ko: "사람 + 빗자루 + 손. 빗자루를 들고 몰래 들어가다; 부당한 침략."
+  - classical_chinese: 圍
+    reading: 위
+    meaning_kun: 에워쌀
+    translation:
+      en: to surround; to besiege; siege
+      ko: 에워싸다; 포위하다
+    gender: null
+    plural: null
+    notes:
+      en: "Enclosure (囗) + 韋. To encircle completely; to besiege a city."
+      ko: "울타리(囗) + 韋. 완전히 둘러싸다; 성을 포위하다."
+  - classical_chinese: 破
+    reading: 파
+    meaning_kun: 깨뜨릴
+    translation:
+      en: to break; to defeat; to breach
+      ko: 깨뜨리다; 격파하다
+    gender: null
+    plural: null
+    notes:
+      en: "Stone (石) + skin (皮). To crack a stone; to break through; to defeat."
+      ko: "돌(石) + 가죽(皮). 돌을 깨다; 돌파하다; 격파하다."
+  - classical_chinese: 立
+    reading: 립
+    meaning_kun: 설
+    translation:
+      en: to establish; to stand; to enthrone
+      ko: 세우다; 서다; 즉위시키다
+    gender: null
+    plural: null
+    notes:
+      en: "A person standing on the ground. To stand; to establish a state or dynasty."
+      ko: "땅 위에 선 사람. 서다; 국가나 왕조를 세우다."
+  - classical_chinese: 遷
+    reading: 천
+    meaning_kun: 옮길
+    translation:
+      en: to move; to transfer; to relocate
+      ko: 옮기다; 이전하다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk (辶) + 㚇. To relocate. 遷都 = to move the capital."
+      ko: "갈(辶) + 㚇. 옮기다. 遷都 = 수도를 옮기다."
+  - classical_chinese: 封
+    reading: 봉
+    meaning_kun: 봉할
+    translation:
+      en: to enfeoff; to grant a fief
+      ko: 봉하다; 봉토를 주다
+    gender: null
+    plural: null
+    notes:
+      en: "Earth + tree + hand. Planting trees as boundary markers; granting feudal territory."
+      ko: "흙 + 나무 + 손. 나무를 심어 경계를 표시; 봉토를 내리다."
+  - classical_chinese: 謀
+    reading: 모
+    meaning_kun: 꾀할
+    translation:
+      en: to plan; to scheme; strategy
+      ko: 꾀하다; 모의하다; 계략
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 某. To discuss plans; to strategize."
+      ko: "말(言) + 某. 계획을 논의하다; 전략을 짜다."
+  - classical_chinese: 奏
+    reading: 주
+    meaning_kun: 아뢸
+    translation:
+      en: to report to the throne; to memorialize
+      ko: 아뢰다; 상주하다
+    gender: null
+    plural: null
+    notes:
+      en: "Hands presenting offerings upward. To present a memorial to the emperor."
+      ko: "손이 물건을 위로 바치는 모양. 황제에게 상주하다."
+  - classical_chinese: 詔
+    reading: 조
+    meaning_kun: 조서
+    translation:
+      en: imperial edict; to decree
+      ko: 조서; 칙령을 내리다
+    gender: null
+    plural: null
+    notes:
+      en: "Words (言) + 召 (call). The emperor's call; an imperial decree."
+      ko: "말(言) + 召(부르다). 황제의 부름; 칙령."

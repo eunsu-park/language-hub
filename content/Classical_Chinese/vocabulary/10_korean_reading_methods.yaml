@@ -1,0 +1,341 @@
+lesson: 10_Korean_Reading_Methods
+lesson_number: 10
+hanja_level: L4
+categories:
+- id: reading_terminology
+  label:
+    en: Reading Terminology
+    ko: 독법 용어
+  type: vocabulary
+  words:
+  - classical_chinese: 訓
+    reading: 훈
+    meaning_kun: 가르칠
+    translation:
+      en: meaning reading; instruction
+      ko: 훈독; 가르침
+    gender: null
+    plural: null
+    notes:
+      en: "Words radical (言) + 川. Instruction; the native Korean meaning of a Hanja character."
+      ko: "말씀 부수(言) + 川. 가르침; 한자의 한국어 뜻(훈)."
+  - classical_chinese: 讀
+    reading: 독
+    meaning_kun: 읽을
+    translation:
+      en: to read; reading
+      ko: 읽다; 독법
+    gender: null
+    plural: null
+    notes:
+      en: "To read. In context of Hanja: 音讀 = sound reading, 訓讀 = meaning reading."
+      ko: "읽다. 한자 문맥에서: 音讀 = 음독, 訓讀 = 훈독."
+  - classical_chinese: 音
+    reading: 음
+    meaning_kun: 소리
+    translation:
+      en: sound; pronunciation
+      ko: 소리; 음
+    gender: null
+    plural: null
+    notes:
+      en: "Sound/pronunciation. 音讀 = reading by Sino-Korean pronunciation."
+      ko: "소리/발음. 音讀 = 한자음으로 읽기."
+  - classical_chinese: 懸
+    reading: 현
+    meaning_kun: 매달
+    translation:
+      en: to hang; to suspend
+      ko: 매달다; 걸다
+    gender: null
+    plural: null
+    notes:
+      en: "To hang/suspend. 懸吐 = attaching Korean grammatical markers to classical Chinese text."
+      ko: "매달다. 懸吐 = 한문 원문에 한국어 문법 표지를 다는 것."
+  - classical_chinese: 吐
+    reading: 토
+    meaning_kun: 뱉을
+    translation:
+      en: to spit out; grammatical markers
+      ko: 뱉다; 토(문법 표지)
+    gender: null
+    plural: null
+    notes:
+      en: "To spit. In 懸吐: Korean particles/endings added between Hanja for Korean reading."
+      ko: "뱉다. 懸吐에서: 한문 사이에 넣는 한국어 조사/어미."
+  - classical_chinese: 釋
+    reading: 석
+    meaning_kun: 풀
+    translation:
+      en: to explain; to interpret; to release
+      ko: 풀다; 해석하다; 놓다
+    gender: null
+    plural: null
+    notes:
+      en: "To explain/interpret. 釋讀 = interpretive reading of classical Chinese into Korean."
+      ko: "설명하다/해석하다. 釋讀 = 한문을 한국어로 풀어 읽기."
+  - classical_chinese: 解
+    reading: 해
+    meaning_kun: 풀
+    translation:
+      en: to understand; to untie; to explain
+      ko: 풀다; 이해하다; 해석하다
+    gender: null
+    plural: null
+    notes:
+      en: "Horn (角) + knife (刀) + ox (牛). To dissect/untie; to understand."
+      ko: "뿔(角) + 칼(刀) + 소(牛). 해부하다/풀다; 이해하다."
+  - classical_chinese: 義
+    reading: 의
+    meaning_kun: 옳을
+    translation:
+      en: meaning; righteousness; justice
+      ko: 뜻; 의로움; 정의
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + self (我). Righteous; just. Also: the meaning of a word."
+      ko: "양(羊) + 나(我). 의로운; 정의로운. 또한: 단어의 뜻."
+  - classical_chinese: 句
+    reading: 구
+    meaning_kun: 글귀
+    translation:
+      en: sentence; phrase; verse
+      ko: 글귀; 구절
+    gender: null
+    plural: null
+    notes:
+      en: "Mouth (口) + hook (勹). A bent phrase; a sentence or clause."
+      ko: "입(口) + 갈고리(勹). 구부러진 구절; 문장이나 절."
+  - classical_chinese: 節
+    reading: 절
+    meaning_kun: 마디
+    translation:
+      en: section; joint; festival; moderation
+      ko: 마디; 절; 절기; 절제
+    gender: null
+    plural: null
+    notes:
+      en: "Bamboo (竹) + 即. Joint of bamboo; a section or passage."
+      ko: "대나무(竹) + 即. 대나무 마디; 단락이나 구절."
+  - classical_chinese: 章
+    reading: 장
+    meaning_kun: 글
+    translation:
+      en: chapter; section; composition
+      ko: 글; 장; 문장
+    gender: null
+    plural: null
+    notes:
+      en: "Music (音) + ten (十). A complete musical composition; a chapter."
+      ko: "음악(音) + 열(十). 완성된 악곡; 장(章)."
+  - classical_chinese: 文
+    reading: 문
+    meaning_kun: 글월
+    translation:
+      en: writing; literature; pattern
+      ko: 글; 문학; 무늬
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of crossed lines/tattoo. Writing; literature; pattern."
+      ko: "교차된 선/문신의 상형자. 글; 문학; 무늬."
+- id: grammatical_particles_hanto
+  label:
+    en: Grammatical Particles for Hanto (懸吐)
+    ko: 현토용 문법 조사
+  type: vocabulary
+  words:
+  - classical_chinese: 之
+    reading: 지
+    meaning_kun: 갈
+    translation:
+      en: (possessive/object marker)
+      ko: ~의; ~을/를
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: marks possession (의) or object. Key particle for Korean reordering."
+      ko: "현토에서: 소유격(의) 또는 목적격을 표시. 한국어 어순 변환의 핵심 조사."
+  - classical_chinese: 於
+    reading: 어
+    meaning_kun: 어조사
+    translation:
+      en: at; in; from; than
+      ko: ~에서; ~에; ~보다
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: marks location (에서), comparison (보다). Read as part of Korean syntax."
+      ko: "현토에서: 장소(에서), 비교(보다)를 표시. 한국어 구문의 일부로 읽힘."
+  - classical_chinese: 而
+    reading: 이
+    meaning_kun: 말이을
+    translation:
+      en: and; but; while
+      ko: ~하고; ~하나; ~하면서
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: connecting particle. Often read with Korean endings like ~하고, ~하여."
+      ko: "현토에서: 연결 조사. ~하고, ~하여 등 한국어 어미와 함께 읽힘."
+  - classical_chinese: 以
+    reading: 이
+    meaning_kun: 써
+    translation:
+      en: with; by means of
+      ko: ~으로써; ~을 가지고
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: instrumental marker. Corresponds to Korean ~(으)로."
+      ko: "현토에서: 도구격 표지. 한국어 ~(으)로에 대응."
+  - classical_chinese: 爲
+    reading: 위
+    meaning_kun: 할
+    translation:
+      en: to do; for; as
+      ko: 하다; ~을 위하여
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: versatile verb/preposition. 爲A = for A's sake."
+      ko: "현토에서: 다용도 동사/전치사. 爲A = A를 위하여."
+  - classical_chinese: 者
+    reading: 자
+    meaning_kun: 놈
+    translation:
+      en: one who; that which
+      ko: ~하는 자; ~한 것
+    gender: null
+    plural: null
+    notes:
+      en: "In 懸吐: nominalizer. Read ~하는 자(는) in Korean reordered text."
+      ko: "현토에서: 명사화 조사. 한국어 변환문에서 ~하는 자(는)으로 읽힘."
+- id: practice_passage_words
+  label:
+    en: Practice Passage Words
+    ko: 연습 지문 어휘
+  type: vocabulary
+  words:
+  - classical_chinese: 天
+    reading: 천
+    meaning_kun: 하늘
+    translation:
+      en: heaven; sky
+      ko: 하늘
+    gender: null
+    plural: null
+    notes:
+      en: "Used in 千字文 opening: 天地玄黃 (Heaven and Earth, dark and yellow)."
+      ko: "천자문(千字文) 서두에 사용: 天地玄黃(하늘과 땅, 검고 누렇다)."
+  - classical_chinese: 玄
+    reading: 현
+    meaning_kun: 검을
+    translation:
+      en: dark; mysterious; profound
+      ko: 검다; 오묘하다; 깊다
+    gender: null
+    plural: null
+    notes:
+      en: "Thread twisted and dark. Mysterious; profound. 天地玄黃."
+      ko: "실이 꼬여 어두운 모양. 신비로운; 심오한. 天地玄黃."
+  - classical_chinese: 黃
+    reading: 황
+    meaning_kun: 누를
+    translation:
+      en: yellow
+      ko: 누렇다; 노란
+    gender: null
+    plural: null
+    notes:
+      en: "The color yellow. Earth is yellow. 天地玄黃."
+      ko: "노란색. 땅은 누렇다. 天地玄黃."
+  - classical_chinese: 宇
+    reading: 우
+    meaning_kun: 집
+    translation:
+      en: space; universe; eaves
+      ko: 우주; 집; 처마
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + 于. The space under a roof; extended to mean 'universe' in 宇宙."
+      ko: "지붕(宀) + 于. 지붕 아래 공간; 宇宙에서 '우주'로 확장."
+  - classical_chinese: 宙
+    reading: 주
+    meaning_kun: 집
+    translation:
+      en: time; eternity; universe
+      ko: 우주; 시간
+    gender: null
+    plural: null
+    notes:
+      en: "Roof (宀) + 由. Time/eternity. 宇宙 = universe (space + time)."
+      ko: "지붕(宀) + 由. 시간/영원. 宇宙 = 우주(공간 + 시간)."
+  - classical_chinese: 洪
+    reading: 홍
+    meaning_kun: 넓을
+    translation:
+      en: vast; flood; great
+      ko: 넓다; 홍수; 크다
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 共. Vast flood; great. 洪水 = great flood."
+      ko: "물(氵) + 共. 거대한 물; 크다. 洪水 = 대홍수."
+  - classical_chinese: 荒
+    reading: 황
+    meaning_kun: 거칠
+    translation:
+      en: wild; desolate; wasteland
+      ko: 거칠다; 황무지
+    gender: null
+    plural: null
+    notes:
+      en: "Grass (艹) + 巟. Wild grass growing on desolate land."
+      ko: "풀(艹) + 巟. 황무지에 자라는 잡풀."
+  - classical_chinese: 辰
+    reading: 진
+    meaning_kun: 별
+    translation:
+      en: celestial body; time; the Dragon (zodiac)
+      ko: 별; 때; 용(십이지)
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a clam/shell tool. Celestial marker; one of the 12 Earthly Branches."
+      ko: "조개/조가비 도구의 상형자. 천체 표지; 십이지의 하나."
+  - classical_chinese: 列
+    reading: 렬
+    meaning_kun: 벌일
+    translation:
+      en: to arrange; row; series
+      ko: 벌이다; 줄; 열
+    gender: null
+    plural: null
+    notes:
+      en: "Knife (刂) + 歹. To cut in rows; to arrange in order."
+      ko: "칼(刂) + 歹. 줄지어 자르다; 차례로 배열하다."
+  - classical_chinese: 張
+    reading: 장
+    meaning_kun: 베풀
+    translation:
+      en: to spread; to stretch; a sheet (counter)
+      ko: 펴다; 베풀다; 장(세는 단위)
+    gender: null
+    plural: null
+    notes:
+      en: "Bow (弓) + 長 (long). To stretch a bowstring; to spread out."
+      ko: "활(弓) + 長(길다). 활시위를 당기다; 펼치다."
+  - classical_chinese: 寒
+    reading: 한
+    meaning_kun: 찰
+    translation:
+      en: cold; frigid; poor
+      ko: 차다; 춥다; 가난하다
+    gender: null
+    plural: null
+    notes:
+      en: "Person in a house with ice below. Cold weather; poverty."
+      ko: "집 안에 사람이 있고 아래에 얼음이 있는 모양. 추위; 가난."

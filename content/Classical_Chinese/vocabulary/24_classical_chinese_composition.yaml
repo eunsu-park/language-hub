@@ -1,0 +1,398 @@
+lesson: "24_Classical_Chinese_Composition"
+lesson_number: 24
+hanja_level: L1
+categories:
+  - id: composition_terms
+    label:
+      en: "Composition Terms"
+      ko: "작문 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 作
+        reading: 작
+        meaning_kun: 지을
+        translation:
+          en: to compose, to create
+          ko: 짓다
+        gender: null
+        plural: null
+        notes:
+          en: "To compose. 作文 = composition, essay writing."
+          ko: "짓다. 作文 = 작문(글쓰기)."
+      - classical_chinese: 文
+        reading: 문
+        meaning_kun: 글
+        translation:
+          en: writing, literature, essay
+          ko: 글
+        gender: null
+        plural: null
+        notes:
+          en: "Writing. 作文 = to compose an essay. 文章 = composition."
+          ko: "글. 作文 = 글을 짓다. 文章 = 문장."
+      - classical_chinese: 起
+        reading: 기
+        meaning_kun: 일어날
+        translation:
+          en: to rise; opening section
+          ko: 일어나다; 서두
+        gender: null
+        plural: null
+        notes:
+          en: "Opening. 起承轉結: the four-part essay structure."
+          ko: "서두. 起承轉結: 사단 구성법."
+      - classical_chinese: 承
+        reading: 승
+        meaning_kun: 이을
+        translation:
+          en: to continue; development section
+          ko: 잇다; 전개부
+        gender: null
+        plural: null
+        notes:
+          en: "Development. Continues and elaborates the opening theme."
+          ko: "전개. 서두의 주제를 이어 발전시키는 부분."
+      - classical_chinese: 轉
+        reading: 전
+        meaning_kun: 구를
+        translation:
+          en: to turn; turning section
+          ko: 구르다; 전환부
+        gender: null
+        plural: null
+        notes:
+          en: "Turn. Introduces a new perspective or contrasting idea."
+          ko: "전환. 새로운 관점이나 대조적 생각을 도입."
+      - classical_chinese: 結
+        reading: 결
+        meaning_kun: 맺을
+        translation:
+          en: to tie; conclusion
+          ko: 맺다; 결론
+        gender: null
+        plural: null
+        notes:
+          en: "Conclusion. Wraps up and summarizes the composition."
+          ko: "결론. 글을 마무리하고 요약."
+      - classical_chinese: 序
+        reading: 서
+        meaning_kun: 차례
+        translation:
+          en: introduction, preface
+          ko: 서론, 서문
+        gender: null
+        plural: null
+        notes:
+          en: "Introduction. 序論 = introduction section of an essay."
+          ko: "서론. 序論 = 글의 도입부."
+      - classical_chinese: 論
+        reading: 론
+        meaning_kun: 논할
+        translation:
+          en: discussion, argument
+          ko: 논하다, 논문
+        gender: null
+        plural: null
+        notes:
+          en: "Discussion. 序論 = introduction. 本論 = main body. 結論 = conclusion."
+          ko: "논하다. 序論 = 서론. 本論 = 본론. 結論 = 결론."
+      - classical_chinese: 本
+        reading: 본
+        meaning_kun: 뿌리
+        translation:
+          en: root, main; main body
+          ko: 근본; 본론
+        gender: null
+        plural: null
+        notes:
+          en: "Main. 本論 = main body of an essay. 本文 = main text."
+          ko: "근본. 本論 = 본론. 本文 = 본문."
+      - classical_chinese: 題
+        reading: 제
+        meaning_kun: 제목
+        translation:
+          en: topic, title, subject
+          ko: 제목, 주제
+        gender: null
+        plural: null
+        notes:
+          en: "Topic or title. 主題 = theme. 題目 = title."
+          ko: "제목. 主題 = 주제. 題目 = 제목."
+      - classical_chinese: 旨
+        reading: 지
+        meaning_kun: 뜻
+        translation:
+          en: gist, main idea, purpose
+          ko: 뜻, 요지
+        gender: null
+        plural: null
+        notes:
+          en: "Main idea. 要旨 = gist, essential point. 宗旨 = purpose."
+          ko: "뜻. 要旨 = 요지. 宗旨 = 종지(목적)."
+      - classical_chinese: 段
+        reading: 단
+        meaning_kun: 끊을
+        translation:
+          en: paragraph, section
+          ko: 단락
+        gender: null
+        plural: null
+        notes:
+          en: "Paragraph. 段落 = paragraph, section of an essay."
+          ko: "단락. 段落 = 단락."
+      - classical_chinese: 落
+        reading: 락
+        meaning_kun: 떨어질
+        translation:
+          en: to fall; paragraph ending
+          ko: 떨어지다; 단락
+        gender: null
+        plural: null
+        notes:
+          en: "To fall. 段落 = paragraph, passage."
+          ko: "떨어지다. 段落 = 단락."
+
+  - id: writing_techniques
+    label:
+      en: "Writing Techniques and Style"
+      ko: "작문 기법과 문체"
+    type: vocabulary
+    words:
+      - classical_chinese: 簡
+        reading: 간
+        meaning_kun: 간략할
+        translation:
+          en: simple, concise
+          ko: 간략한
+        gender: null
+        plural: null
+        notes:
+          en: "Concise. 簡潔 = concise and clean. A valued quality in classical prose."
+          ko: "간략하다. 簡潔 = 간결. 고전 산문에서 중시되는 자질."
+      - classical_chinese: 潔
+        reading: 결
+        meaning_kun: 깨끗할
+        translation:
+          en: clean, pure
+          ko: 깨끗한
+        gender: null
+        plural: null
+        notes:
+          en: "Clean. 簡潔 = conciseness. Removing unnecessary words."
+          ko: "깨끗하다. 簡潔 = 간결함. 불필요한 말을 제거."
+      - classical_chinese: 雄
+        reading: 웅
+        meaning_kun: 수컷
+        translation:
+          en: heroic, grand
+          ko: 웅장한
+        gender: null
+        plural: null
+        notes:
+          en: "Heroic or grand. 雄渾 = powerful and full-bodied writing style."
+          ko: "웅장하다. 雄渾 = 힘차고 혼연한 문체."
+      - classical_chinese: 渾
+        reading: 혼
+        meaning_kun: 온통
+        translation:
+          en: integrated, full-bodied
+          ko: 온통, 혼연한
+        gender: null
+        plural: null
+        notes:
+          en: "Integrated. 雄渾 = a style that is grand and seamlessly flowing."
+          ko: "혼연한. 雄渾 = 웅장하고 물 흐르듯 유려한 문체."
+      - classical_chinese: 典
+        reading: 전
+        meaning_kun: 법
+        translation:
+          en: classical, canonical
+          ko: 전범의
+        gender: null
+        plural: null
+        notes:
+          en: "Classical. 典雅 = classically elegant. Emulating ancient models."
+          ko: "전범의. 典雅 = 전아한(고전적으로 우아한). 고대 모범을 본받음."
+      - classical_chinese: 雅
+        reading: 아
+        meaning_kun: 맑을
+        translation:
+          en: elegant, refined
+          ko: 우아한
+        gender: null
+        plural: null
+        notes:
+          en: "Elegant. 典雅 = classically elegant. Opposite of 俗 (vulgar)."
+          ko: "우아하다. 典雅 = 전아. 俗(속된)의 반대."
+      - classical_chinese: 暢
+        reading: 창
+        meaning_kun: 통할
+        translation:
+          en: fluent, flowing, smooth
+          ko: 유창한, 통하는
+        gender: null
+        plural: null
+        notes:
+          en: "Fluent. 暢達 = smooth and lucid writing. 流暢 = fluent."
+          ko: "유창하다. 暢達 = 매끄럽고 명쾌한 글. 流暢 = 유창."
+      - classical_chinese: 達
+        reading: 달
+        meaning_kun: 통달할
+        translation:
+          en: to reach, to convey clearly
+          ko: 통달하다, 전달하다
+        gender: null
+        plural: null
+        notes:
+          en: "To convey clearly. 辭達而已: words need only convey the meaning (Analects)."
+          ko: "전달하다. 辭達而已: 말은 뜻을 전하면 될 뿐이다(논어)."
+      - classical_chinese: 精
+        reading: 정
+        meaning_kun: 정할
+        translation:
+          en: refined, precise, essence
+          ko: 정밀한, 정수
+        gender: null
+        plural: null
+        notes:
+          en: "Refined or precise. 精練 = polished and refined. 精密 = meticulous."
+          ko: "정밀한. 精練 = 정련된. 精密 = 정밀한."
+      - classical_chinese: 練
+        reading: 련
+        meaning_kun: 익힐
+        translation:
+          en: to refine, to practice
+          ko: 익히다, 연마하다
+        gender: null
+        plural: null
+        notes:
+          en: "To refine. 精練 = polished writing. 練字 = refining word choice."
+          ko: "연마하다. 精練 = 정련된 글. 練字 = 자구 다듬기."
+
+  - id: prose_types
+    label:
+      en: "Prose Types"
+      ko: "산문 유형"
+    type: vocabulary
+    words:
+      - classical_chinese: 論
+        reading: 론
+        meaning_kun: 논할
+        translation:
+          en: treatise, argumentative essay
+          ko: 논, 논설문
+        gender: null
+        plural: null
+        notes:
+          en: "Argumentative essay. 論 presents a position and argues for it."
+          ko: "논설문. 論은 입장을 제시하고 논증하는 글."
+      - classical_chinese: 說
+        reading: 설
+        meaning_kun: 말씀
+        translation:
+          en: expository essay, to explain
+          ko: 설, 설명문
+        gender: null
+        plural: null
+        notes:
+          en: "Expository essay. 說 explains a principle or concept."
+          ko: "설명문. 說은 원리나 개념을 설명하는 글."
+      - classical_chinese: 記
+        reading: 기
+        meaning_kun: 기록할
+        translation:
+          en: record, memoir, descriptive essay
+          ko: 기, 기문
+        gender: null
+        plural: null
+        notes:
+          en: "Descriptive essay or record. 記 describes events, places, or objects."
+          ko: "기문. 記는 사건, 장소, 사물을 서술하는 글."
+      - classical_chinese: 序
+        reading: 서
+        meaning_kun: 차례
+        translation:
+          en: preface, foreword
+          ko: 서, 서문
+        gender: null
+        plural: null
+        notes:
+          en: "Preface. 序 introduces and contextualizes a work."
+          ko: "서문. 序는 작품을 소개하고 맥락을 제공."
+      - classical_chinese: 傳
+        reading: 전
+        meaning_kun: 전할
+        translation:
+          en: biography
+          ko: 전, 전기
+        gender: null
+        plural: null
+        notes:
+          en: "Biography. 傳 narrates the life and deeds of a person."
+          ko: "전기. 傳은 사람의 삶과 행적을 서술하는 글."
+      - classical_chinese: 碑
+        reading: 비
+        meaning_kun: 비석
+        translation:
+          en: stele inscription
+          ko: 비, 비문
+        gender: null
+        plural: null
+        notes:
+          en: "Stele inscription. 碑文 = inscription carved on stone monuments."
+          ko: "비문. 碑文 = 비석에 새긴 글."
+      - classical_chinese: 銘
+        reading: 명
+        meaning_kun: 새길
+        translation:
+          en: inscription, motto, epitaph
+          ko: 명, 명문
+        gender: null
+        plural: null
+        notes:
+          en: "Inscription. 銘 is a short commemorative or admonitory text."
+          ko: "명문. 銘은 짧은 기념 또는 경계의 글."
+      - classical_chinese: 書
+        reading: 서
+        meaning_kun: 글
+        translation:
+          en: letter, epistle
+          ko: 서, 서신
+        gender: null
+        plural: null
+        notes:
+          en: "Letter. 書 is the genre of formal letters and epistles."
+          ko: "서신. 書는 공식적 서신의 장르."
+      - classical_chinese: 賦
+        reading: 부
+        meaning_kun: 읊을
+        translation:
+          en: rhapsody, poetic prose
+          ko: 부
+        gender: null
+        plural: null
+        notes:
+          en: "Rhapsody. 賦 blends prose and verse, often descriptive and elaborate."
+          ko: "부. 賦는 산문과 운문을 결합한 묘사적이고 정교한 글."
+      - classical_chinese: 箴
+        reading: 잠
+        meaning_kun: 경계할
+        translation:
+          en: admonition, maxim
+          ko: 잠(경계의 글)
+        gender: null
+        plural: null
+        notes:
+          en: "Admonition. 箴 is a genre of cautionary or advisory writing."
+          ko: "경계의 글. 箴은 경계나 충고의 글 장르."
+      - classical_chinese: 頌
+        reading: 송
+        meaning_kun: 기릴
+        translation:
+          en: eulogy, ode of praise
+          ko: 송, 기리는 글
+        gender: null
+        plural: null
+        notes:
+          en: "Eulogy. 頌 is a genre of praise writing, celebrating virtues or achievements."
+          ko: "송. 頌은 덕이나 업적을 기리는 칭송의 글."

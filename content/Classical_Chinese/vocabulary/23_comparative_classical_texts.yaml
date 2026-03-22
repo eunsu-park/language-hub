@@ -1,0 +1,398 @@
+lesson: "23_Comparative_Classical_Texts"
+lesson_number: 23
+hanja_level: L1
+categories:
+  - id: textual_criticism_terms
+    label:
+      en: "Textual Criticism Terms"
+      ko: "교감학 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 校
+        reading: 교
+        meaning_kun: 견줄
+        translation:
+          en: to collate, to proofread
+          ko: 교정하다, 대조하다
+        gender: null
+        plural: null
+        notes:
+          en: "To collate or proofread texts. 校勘 = textual criticism."
+          ko: "문헌을 대조하거나 교정하다. 校勘 = 교감."
+      - classical_chinese: 勘
+        reading: 감
+        meaning_kun: 살필
+        translation:
+          en: to examine, to investigate
+          ko: 살피다, 조사하다
+        gender: null
+        plural: null
+        notes:
+          en: "To examine carefully. 校勘 = textual collation and criticism."
+          ko: "자세히 살피다. 校勘 = 교감(문헌 대조 비평)."
+      - classical_chinese: 版
+        reading: 판
+        meaning_kun: 판
+        translation:
+          en: edition, printing block
+          ko: 판, 판본
+        gender: null
+        plural: null
+        notes:
+          en: "Edition. 版本 = edition, version of a text."
+          ko: "판. 版本 = 판본(텍스트의 판)."
+      - classical_chinese: 本
+        reading: 본
+        meaning_kun: 뿌리
+        translation:
+          en: root, origin; edition, copy
+          ko: 근본; 판본
+        gender: null
+        plural: null
+        notes:
+          en: "Origin or copy. 版本 = edition. 底本 = base text. 善本 = good edition."
+          ko: "근본, 판본. 版本 = 판본. 底本 = 저본. 善本 = 선본(양질의 판본)."
+      - classical_chinese: 異
+        reading: 이
+        meaning_kun: 다를
+        translation:
+          en: different, variant
+          ko: 다른
+        gender: null
+        plural: null
+        notes:
+          en: "Different. 異文 = variant reading (differences between editions)."
+          ko: "다르다. 異文 = 이문(판본 간의 차이)."
+      - classical_chinese: 脫
+        reading: 탈
+        meaning_kun: 벗을
+        translation:
+          en: to omit, to drop; omission
+          ko: 빠지다; 탈락
+        gender: null
+        plural: null
+        notes:
+          en: "Omission. 脫字 = dropped character (accidental omission in copying)."
+          ko: "빠지다. 脫字 = 탈자(필사 중 빠진 글자)."
+      - classical_chinese: 字
+        reading: 자
+        meaning_kun: 글자
+        translation:
+          en: character, letter
+          ko: 글자
+        gender: null
+        plural: null
+        notes:
+          en: "Character. 脫字 = dropped character. 衍字 = superfluous character."
+          ko: "글자. 脫字 = 탈자. 衍字 = 연자(잘못 더해진 글자)."
+      - classical_chinese: 衍
+        reading: 연
+        meaning_kun: 넘칠
+        translation:
+          en: superfluous, excess; to overflow
+          ko: 넘치다; 잉여
+        gender: null
+        plural: null
+        notes:
+          en: "Superfluous. 衍文/衍字 = superfluous text/character (accidental addition)."
+          ko: "넘치다. 衍文/衍字 = 연문/연자(잘못 추가된 글/글자)."
+      - classical_chinese: 訛
+        reading: 와
+        meaning_kun: 그릇될
+        translation:
+          en: error, corruption (in text)
+          ko: 오류, 와전
+        gender: null
+        plural: null
+        notes:
+          en: "Textual error. 訛字 = corrupt character (copying error)."
+          ko: "오류. 訛字 = 와자(필사 오류로 인한 잘못된 글자)."
+      - classical_chinese: 注
+        reading: 주
+        meaning_kun: 부을
+        translation:
+          en: annotation, commentary
+          ko: 주석, 주
+        gender: null
+        plural: null
+        notes:
+          en: "Annotation. 注釋 = commentary and explanation."
+          ko: "주석. 注釋 = 주석(해설)."
+      - classical_chinese: 釋
+        reading: 석
+        meaning_kun: 풀
+        translation:
+          en: to explain, to interpret
+          ko: 풀다, 해석하다
+        gender: null
+        plural: null
+        notes:
+          en: "To explain. 注釋 = annotation. 解釋 = interpretation."
+          ko: "풀다. 注釋 = 주석. 解釋 = 해석."
+      - classical_chinese: 疏
+        reading: 소
+        meaning_kun: 성길
+        translation:
+          en: sub-commentary; sparse
+          ko: 소(주석의 주석); 성기다
+        gender: null
+        plural: null
+        notes:
+          en: "Sub-commentary: commentary on a commentary. 注疏 = annotations and sub-commentaries."
+          ko: "소: 주석에 대한 주석. 注疏 = 주소(주석과 그 해설)."
+      - classical_chinese: 考
+        reading: 고
+        meaning_kun: 상고할
+        translation:
+          en: to examine, to investigate
+          ko: 상고하다, 고찰하다
+        gender: null
+        plural: null
+        notes:
+          en: "To examine. 考證 = textual research and verification."
+          ko: "상고하다. 考證 = 고증(문헌 연구와 검증)."
+      - classical_chinese: 證
+        reading: 증
+        meaning_kun: 증거
+        translation:
+          en: evidence, proof; to verify
+          ko: 증거; 증명하다
+        gender: null
+        plural: null
+        notes:
+          en: "Evidence. 考證 = evidential research, a method of textual criticism."
+          ko: "증거. 考證 = 고증(실증적 연구, 문헌 비평 방법)."
+
+  - id: historiography_terms
+    label:
+      en: "Historiography Terms"
+      ko: "역사 서술 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 正
+        reading: 정
+        meaning_kun: 바를
+        translation:
+          en: correct, orthodox; official
+          ko: 바르다; 정식의
+        gender: null
+        plural: null
+        notes:
+          en: "Orthodox. 正史 = official/standard history (e.g., the Twenty-Four Histories)."
+          ko: "정통의. 正史 = 정사(예: 이십사사)."
+      - classical_chinese: 史
+        reading: 사
+        meaning_kun: 역사
+        translation:
+          en: history, historian
+          ko: 역사
+        gender: null
+        plural: null
+        notes:
+          en: "History. 正史 = official history. 史官 = court historian."
+          ko: "역사. 正史 = 정사. 史官 = 사관."
+      - classical_chinese: 野
+        reading: 야
+        meaning_kun: 들
+        translation:
+          en: field, wild; unofficial
+          ko: 들, 야외; 비공식의
+        gender: null
+        plural: null
+        notes:
+          en: "Wild or unofficial. 野史 = unofficial history, private accounts."
+          ko: "들, 비공식의. 野史 = 야사(비공식 역사, 사적 기록)."
+      - classical_chinese: 編
+        reading: 편
+        meaning_kun: 엮을
+        translation:
+          en: to compile, to weave; chronicle
+          ko: 엮다; 편년
+        gender: null
+        plural: null
+        notes:
+          en: "To compile. 編年 = annalistic/chronological history format."
+          ko: "엮다. 編年 = 편년(연대기적 역사 서술 형식)."
+      - classical_chinese: 年
+        reading: 년
+        meaning_kun: 해
+        translation:
+          en: year
+          ko: 해, 년
+        gender: null
+        plural: null
+        notes:
+          en: "Year. 編年體 = annalistic format (events recorded by year)."
+          ko: "해. 編年體 = 편년체(사건을 연도별로 기록하는 형식)."
+      - classical_chinese: 紀
+        reading: 기
+        meaning_kun: 벼리
+        translation:
+          en: record, annals; era
+          ko: 기록; 기
+        gender: null
+        plural: null
+        notes:
+          en: "Annals. 紀傳體 = biographical-annalistic format (used in official histories)."
+          ko: "기록. 紀傳體 = 기전체(정사에서 사용되는 형식)."
+      - classical_chinese: 傳
+        reading: 전
+        meaning_kun: 전할
+        translation:
+          en: biography, to transmit
+          ko: 전기, 전하다
+        gender: null
+        plural: null
+        notes:
+          en: "Biography. 紀傳 = annals and biographies. The format of Sima Qian's Shiji."
+          ko: "전기. 紀傳 = 기전(연대기와 열전). 사마천 사기의 형식."
+      - classical_chinese: 志
+        reading: 지
+        meaning_kun: 뜻
+        translation:
+          en: treatise, monograph; will
+          ko: 지(논문); 뜻
+        gender: null
+        plural: null
+        notes:
+          en: "Treatise. One of the sections of official histories (e.g., 地理志)."
+          ko: "지. 정사의 한 부분(예: 地理志 = 지리지)."
+      - classical_chinese: 鑑
+        reading: 감
+        meaning_kun: 거울
+        translation:
+          en: mirror, model; to reflect on
+          ko: 거울, 감계
+        gender: null
+        plural: null
+        notes:
+          en: "Mirror. 資治通鑑 = Comprehensive Mirror to Aid in Government."
+          ko: "거울. 資治通鑑 = 자치통감(정치에 도움이 되는 포괄적 거울)."
+      - classical_chinese: 通
+        reading: 통
+        meaning_kun: 통할
+        translation:
+          en: to penetrate, comprehensive
+          ko: 통하다, 포괄적인
+        gender: null
+        plural: null
+        notes:
+          en: "Comprehensive. 通史 = comprehensive history. 通鑑 = comprehensive mirror."
+          ko: "포괄적. 通史 = 통사. 通鑑 = 통감."
+
+  - id: comparison_vocabulary
+    label:
+      en: "Comparison Vocabulary"
+      ko: "비교 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 同
+        reading: 동
+        meaning_kun: 같을
+        translation:
+          en: same, identical
+          ko: 같은
+        gender: null
+        plural: null
+        notes:
+          en: "Same. 同異 = similarities and differences."
+          ko: "같다. 同異 = 같고 다름."
+      - classical_chinese: 異
+        reading: 이
+        meaning_kun: 다를
+        translation:
+          en: different, divergent
+          ko: 다른
+        gender: null
+        plural: null
+        notes:
+          en: "Different. Opposite of 同. 大同小異 = mostly the same, slightly different."
+          ko: "다르다. 同의 반대. 大同小異 = 대동소이."
+      - classical_chinese: 類
+        reading: 류
+        meaning_kun: 무리
+        translation:
+          en: category, kind; similar
+          ko: 종류; 유사한
+        gender: null
+        plural: null
+        notes:
+          en: "Kind or category. 類似 = similar. 分類 = classification."
+          ko: "종류. 類似 = 유사. 分類 = 분류."
+      - classical_chinese: 似
+        reading: 사
+        meaning_kun: 닮을
+        translation:
+          en: to resemble, similar
+          ko: 닮다, 유사한
+        gender: null
+        plural: null
+        notes:
+          en: "To resemble. 類似 = similar. 相似 = mutually resembling."
+          ko: "닮다. 類似 = 유사. 相似 = 서로 닮은."
+      - classical_chinese: 相
+        reading: 상
+        meaning_kun: 서로
+        translation:
+          en: mutual, each other
+          ko: 서로
+        gender: null
+        plural: null
+        notes:
+          en: "Mutual. 相違 = mutual difference, discrepancy."
+          ko: "서로. 相違 = 상위(서로 다름)."
+      - classical_chinese: 違
+        reading: 위
+        meaning_kun: 어길
+        translation:
+          en: to differ, to violate
+          ko: 어기다, 다르다
+        gender: null
+        plural: null
+        notes:
+          en: "To differ or violate. 相違 = discrepancy. 違反 = violation."
+          ko: "어기다. 相違 = 상위(차이). 違反 = 위반."
+      - classical_chinese: 較
+        reading: 교
+        meaning_kun: 견줄
+        translation:
+          en: to compare; comparatively
+          ko: 견주다; 비교적
+        gender: null
+        plural: null
+        notes:
+          en: "To compare. 比較 = comparison."
+          ko: "견주다. 比較 = 비교."
+      - classical_chinese: 別
+        reading: 별
+        meaning_kun: 나눌
+        translation:
+          en: to separate, to distinguish; different
+          ko: 나누다, 구별하다
+        gender: null
+        plural: null
+        notes:
+          en: "To distinguish. 區別 = distinction. 差別 = difference."
+          ko: "나누다. 區別 = 구별. 差別 = 차별."
+      - classical_chinese: 辨
+        reading: 변
+        meaning_kun: 분별할
+        translation:
+          en: to distinguish, to discern
+          ko: 분별하다
+        gender: null
+        plural: null
+        notes:
+          en: "To discern or distinguish. 辨別 = to differentiate."
+          ko: "분별하다. 辨別 = 변별(구분하다)."
+      - classical_chinese: 合
+        reading: 합
+        meaning_kun: 합할
+        translation:
+          en: to combine, to match
+          ko: 합하다, 맞다
+        gender: null
+        plural: null
+        notes:
+          en: "To combine or match. 符合 = to accord with, to match."
+          ko: "합하다. 符合 = 부합(일치하다)."

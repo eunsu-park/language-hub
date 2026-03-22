@@ -1,0 +1,354 @@
+lesson: "16_Advanced_Function_Words_and_Syntax"
+lesson_number: 16
+hanja_level: L2
+categories:
+  - id: advanced_particles
+    label:
+      en: "Advanced Particles"
+      ko: "고급 허사"
+    type: vocabulary
+    words:
+      - classical_chinese: 所
+        reading: 소
+        meaning_kun: 바
+        translation:
+          en: that which, place
+          ko: 바, 곳
+        gender: null
+        plural: null
+        notes:
+          en: "Nominalizer: 'that which.' 所見 = what is seen."
+          ko: "명사화 허사: '~하는 바.' 所見 = 보는 바."
+      - classical_chinese: 以
+        reading: 이
+        meaning_kun: 써
+        translation:
+          en: by means of, with, because
+          ko: ~으로써, ~때문에
+        gender: null
+        plural: null
+        notes:
+          en: "Preposition meaning 'by means of' or 'because of.'"
+          ko: "전치사로 '~으로써' 또는 '~때문에'의 뜻."
+      - classical_chinese: 於
+        reading: 어
+        meaning_kun: 어조사
+        translation:
+          en: at, in, from, than
+          ko: ~에, ~에서, ~보다
+        gender: null
+        plural: null
+        notes:
+          en: "Preposition indicating location, comparison, or source."
+          ko: "위치, 비교, 출처를 나타내는 전치사."
+      - classical_chinese: 爲
+        reading: 위
+        meaning_kun: 할
+        translation:
+          en: to do, to be, for the sake of
+          ko: 하다, ~이다, ~을 위하여
+        gender: null
+        plural: null
+        notes:
+          en: "Versatile word: verb 'to do/be,' preposition 'for.' Read 위 as preposition."
+          ko: "다용도 글자: 동사 '하다/이다,' 전치사 '~을 위하여.' 전치사일 때 '위'로 읽음."
+      - classical_chinese: 則
+        reading: 칙
+        meaning_kun: 법칙
+        translation:
+          en: then, in that case; rule
+          ko: 곧, 그러면; 법칙
+        gender: null
+        plural: null
+        notes:
+          en: "Connective: 'then' or 'in that case.' Also means rule or law."
+          ko: "접속사: '곧' 또는 '그러면.' 법칙의 뜻도 있음."
+      - classical_chinese: 乃
+        reading: 내
+        meaning_kun: 이에
+        translation:
+          en: thereupon, then, only then
+          ko: 이에, 곧
+        gender: null
+        plural: null
+        notes:
+          en: "Adverb: 'thereupon' or 'then.' Indicates sequence or realization."
+          ko: "부사: '이에' 또는 '곧.' 순서나 깨달음을 나타냄."
+      - classical_chinese: 其
+        reading: 기
+        meaning_kun: 그
+        translation:
+          en: his, her, its, that
+          ko: 그, 그것의
+        gender: null
+        plural: null
+        notes:
+          en: "Third-person pronoun or demonstrative. Also used as modal particle."
+          ko: "3인칭 대명사 또는 지시사. 어기사로도 쓰임."
+      - classical_chinese: 者
+        reading: 자
+        meaning_kun: 놈
+        translation:
+          en: one who, the thing that
+          ko: ~하는 자, ~하는 것
+        gender: null
+        plural: null
+        notes:
+          en: "Nominalizer: 'one who' or 'that which.' 學者 = one who studies."
+          ko: "명사화 허사: '~하는 자.' 學者 = 배우는 자."
+      - classical_chinese: 也
+        reading: 야
+        meaning_kun: 어조사
+        translation:
+          en: (sentence-final particle) indeed, is
+          ko: ~이다, ~이니라
+        gender: null
+        plural: null
+        notes:
+          en: "Sentence-final particle indicating assertion or explanation."
+          ko: "문장 끝에서 단정이나 설명을 나타내는 어기사."
+      - classical_chinese: 矣
+        reading: 의
+        meaning_kun: 어조사
+        translation:
+          en: (particle) indicates completion or change
+          ko: ~하였다, ~이로다
+        gender: null
+        plural: null
+        notes:
+          en: "Sentence-final particle indicating completed action or new state."
+          ko: "완료된 동작이나 새로운 상태를 나타내는 어기사."
+      - classical_chinese: 焉
+        reading: 언
+        meaning_kun: 어찌
+        translation:
+          en: where, how; in it, at this
+          ko: 어찌; 여기에, 거기서
+        gender: null
+        plural: null
+        notes:
+          en: "Pronoun + preposition combined: 'in it.' Also interrogative 'how.'"
+          ko: "대명사와 전치사의 결합: '거기에.' 의문사 '어찌'로도 쓰임."
+      - classical_chinese: 哉
+        reading: 재
+        meaning_kun: 어조사
+        translation:
+          en: (exclamatory particle) indeed! how!
+          ko: ~이로다! ~인저!
+        gender: null
+        plural: null
+        notes:
+          en: "Exclamatory particle expressing wonder, admiration, or rhetorical question."
+          ko: "감탄이나 수사 의문을 나타내는 어기사."
+
+  - id: complex_connectives
+    label:
+      en: "Complex Connectives"
+      ko: "복합 접속사"
+    type: vocabulary
+    words:
+      - classical_chinese: 雖
+        reading: 수
+        meaning_kun: 비록
+        translation:
+          en: although, even though
+          ko: 비록 ~일지라도
+        gender: null
+        plural: null
+        notes:
+          en: "Concessive: 'although.' Often paired with 然 or 而."
+          ko: "양보 접속사: '비록 ~일지라도.' 然이나 而와 짝을 이룸."
+      - classical_chinese: 然
+        reading: 연
+        meaning_kun: 그러할
+        translation:
+          en: so, thus, -ly; but
+          ko: 그러하다; 그러나
+        gender: null
+        plural: null
+        notes:
+          en: "Adverbial suffix '-ly.' 雖然 = although. 自然 = naturally."
+          ko: "부사 접미사 '~하게.' 雖然 = 비록 그러하나. 自然 = 자연히."
+      - classical_chinese: 而
+        reading: 이
+        meaning_kun: 말이을
+        translation:
+          en: and, but, yet; and then
+          ko: ~하고, ~하나, 그리고
+        gender: null
+        plural: null
+        notes:
+          en: "Connective: 'and' or 'but.' Context determines adversative or additive."
+          ko: "접속사: '~하고' 또는 '~하나.' 문맥에 따라 순접·역접."
+      - classical_chinese: 已
+        reading: 이
+        meaning_kun: 이미
+        translation:
+          en: already; to stop
+          ko: 이미; 그치다
+        gender: null
+        plural: null
+        notes:
+          en: "Already. 而已 = 'that is all' (restrictive particle)."
+          ko: "이미. 而已 = '~뿐이다' (제한 어기사)."
+      - classical_chinese: 况
+        reading: 황
+        meaning_kun: 하물며
+        translation:
+          en: how much more, let alone
+          ko: 하물며
+        gender: null
+        plural: null
+        notes:
+          en: "Rhetorical escalation: 'how much more so.' 况且 = moreover."
+          ko: "수사적 강조: '하물며.' 况且 = 더구나."
+      - classical_chinese: 且
+        reading: 차
+        meaning_kun: 또
+        translation:
+          en: moreover, and also; temporarily
+          ko: 또, 게다가; 우선
+        gender: null
+        plural: null
+        notes:
+          en: "Moreover or temporarily. 况且 = moreover, furthermore."
+          ko: "또한, 게다가. 况且 = 더구나."
+      - classical_chinese: 故
+        reading: 고
+        meaning_kun: 옛
+        translation:
+          en: therefore, for this reason
+          ko: 그러므로
+        gender: null
+        plural: null
+        notes:
+          en: "As connective: 'therefore.' 是故 = for this reason."
+          ko: "접속사로 쓰일 때: '그러므로.' 是故 = 이런 까닭에."
+      - classical_chinese: 若
+        reading: 약
+        meaning_kun: 같을
+        translation:
+          en: if, like, as if
+          ko: 만약, 같다
+        gender: null
+        plural: null
+        notes:
+          en: "Conditional: 'if.' Also comparative: 'like.' 若夫 = as for."
+          ko: "조건: '만약.' 비교: '~같다.' 若夫 = ~에 대하여."
+      - classical_chinese: 蓋
+        reading: 개
+        meaning_kun: 덮을
+        translation:
+          en: for, because; probably; a cover
+          ko: 대개, 아마; 덮다
+        gender: null
+        plural: null
+        notes:
+          en: "Sentence-initial: 'for' or 'probably.' Indicates explanation."
+          ko: "문두에서: '대개' 또는 '아마.' 설명을 나타냄."
+      - classical_chinese: 夫
+        reading: 부
+        meaning_kun: 지아비
+        translation:
+          en: (sentence opener) now, as for
+          ko: 대저, ~에 대하여
+        gender: null
+        plural: null
+        notes:
+          en: "Sentence-initial particle: 'now then' or 'as for.' Read 부."
+          ko: "문두 어기사: '대저,' '무릇.' 부로 읽음."
+
+  - id: clause_markers
+    label:
+      en: "Clause Markers and Constructions"
+      ko: "절 표지 및 구문"
+    type: vocabulary
+    words:
+      - classical_chinese: 之
+        reading: 지
+        meaning_kun: 갈
+        translation:
+          en: possessive marker; it, of
+          ko: ~의; 가다
+        gender: null
+        plural: null
+        notes:
+          en: "Most common function word. Possessive 'of,' object pronoun, or clause marker."
+          ko: "가장 흔한 허사. 소유격 '~의,' 목적격 대명사, 또는 절 표지."
+      - classical_chinese: 是
+        reading: 시
+        meaning_kun: 이
+        translation:
+          en: this, it is; to be
+          ko: 이것, ~이다
+        gender: null
+        plural: null
+        notes:
+          en: "Demonstrative or copula. 是以 / 是故 = therefore."
+          ko: "지시사 또는 계사. 是以 / 是故 = 그러므로."
+      - classical_chinese: 豈
+        reading: 기
+        meaning_kun: 어찌
+        translation:
+          en: how could, is it possible that
+          ko: 어찌 ~하겠는가
+        gender: null
+        plural: null
+        notes:
+          en: "Rhetorical question marker: 'how could it be that...?'"
+          ko: "수사 의문 표지: '어찌 ~하겠는가?'"
+      - classical_chinese: 莫
+        reading: 막
+        meaning_kun: 없을
+        translation:
+          en: do not; no one, nothing
+          ko: ~하지 마라; 없다
+        gender: null
+        plural: null
+        notes:
+          en: "Prohibitive: 'do not.' Also indefinite pronoun: 'no one.'"
+          ko: "금지: '~하지 마라.' 부정 대명사: '아무도 ~않다.'"
+      - classical_chinese: 惟
+        reading: 유
+        meaning_kun: 오직
+        translation:
+          en: only, merely; to think
+          ko: 오직; 생각하다
+        gender: null
+        plural: null
+        notes:
+          en: "Restrictive adverb: 'only.' Also sentence-initial filler."
+          ko: "제한 부사: '오직.' 문두 어기사로도 쓰임."
+      - classical_chinese: 遂
+        reading: 수
+        meaning_kun: 드디어
+        translation:
+          en: thereupon, then, finally
+          ko: 드디어, 마침내
+        gender: null
+        plural: null
+        notes:
+          en: "Sequential connective: 'thereupon' or 'finally.'"
+          ko: "순서 접속사: '드디어' 또는 '마침내.'"
+      - classical_chinese: 皆
+        reading: 개
+        meaning_kun: 다
+        translation:
+          en: all, everyone
+          ko: 다, 모두
+        gender: null
+        plural: null
+        notes:
+          en: "Universal adverb: 'all.' 皆曰 = all said."
+          ko: "전칭 부사: '다, 모두.' 皆曰 = 모두 말하기를."
+      - classical_chinese: 猶
+        reading: 유
+        meaning_kun: 오히려
+        translation:
+          en: still, yet; like, as if
+          ko: 오히려; ~과 같다
+        gender: null
+        plural: null
+        notes:
+          en: "Adverb: 'still.' Also comparative: 'like.' 猶如 = just like."
+          ko: "부사: '오히려.' 비교: '~과 같다.' 猶如 = 마치 ~같다."

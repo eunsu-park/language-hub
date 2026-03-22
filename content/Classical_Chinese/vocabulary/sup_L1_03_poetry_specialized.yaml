@@ -1,0 +1,354 @@
+lesson: sup_L1_Poetry_Specialized
+lesson_number: 127
+hanja_level: L1
+type: supplementary
+topic: Poetry Specialized
+categories:
+- id: prosody
+  label:
+    en: Prosody and Meter
+    ko: 운율과 성률
+  type: vocabulary
+  words:
+  - classical_chinese: 平
+    reading: 평
+    meaning_kun: 평평할
+    translation:
+      en: level tone; even pitch
+      ko: "평성; 고른 음조"
+    gender: null
+    plural: null
+    notes:
+      en: "One of four tones. 平仄 = tonal pattern in regulated verse."
+      ko: "사성(四聲) 중 하나. 平仄 = 근체시의 성률."
+  - classical_chinese: 仄
+    reading: 측
+    meaning_kun: 기울
+    translation:
+      en: oblique tone; deflected pitch
+      ko: "측성; 기울어진 음조"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (人) + 側 variant. Non-level tones (上去入)."
+      ko: "사람(人) + 側 변형. 비평성(상성, 거성, 입성)."
+  - classical_chinese: 韻
+    reading: 운
+    meaning_kun: 운
+    translation:
+      en: rhyme; final sound
+      ko: "운; 각운; 운자"
+    gender: null
+    plural: null
+    notes:
+      en: "音 + 員. End rhyme. 韻腳 = rhyming foot."
+      ko: "音 + 員. 끝운. 韻腳 = 운각."
+  - classical_chinese: 律
+    reading: 률
+    meaning_kun: 법칙
+    translation:
+      en: regulated verse; rule
+      ko: "율시; 법칙; 율"
+    gender: null
+    plural: null
+    notes:
+      en: "律詩 = regulated verse (8 lines). 七言律詩 = 7-character regulated verse."
+      ko: "律詩 = 율시(8구). 七言律詩 = 칠언율시."
+  - classical_chinese: 絕
+    reading: 절
+    meaning_kun: 끊을
+    translation:
+      en: quatrain; to cut off; extreme
+      ko: "절구; 끊다; 극단적"
+    gender: null
+    plural: null
+    notes:
+      en: "絕句 = quatrain (4 lines). Cut-short form of 律詩."
+      ko: "絕句 = 절구(4구). 율시의 축약 형식."
+  - classical_chinese: 聯
+    reading: 련
+    meaning_kun: 잇닿을
+    translation:
+      en: couplet; pair of lines; to connect
+      ko: "연; 대련; 잇다"
+    gender: null
+    plural: null
+    notes:
+      en: "Ear (耳) + 關 variant. Pair of matched lines. 對聯 = antithetical couplet."
+      ko: "귀(耳) + 關 변형. 짝 맞는 두 행. 對聯 = 대련."
+  - classical_chinese: 頷
+    reading: 함
+    meaning_kun: 턱
+    translation:
+      en: chin; jaw; second couplet
+      ko: "턱; 함련(율시의 두 번째 연)"
+    gender: null
+    plural: null
+    notes:
+      en: "頁 (head) + 含. 頷聯 = second couplet (lines 3-4) in 律詩."
+      ko: "頁(머리) + 含. 頷聯 = 율시의 둘째 연(3-4구)."
+  - classical_chinese: 頸
+    reading: 경
+    meaning_kun: 목
+    translation:
+      en: neck; third couplet
+      ko: "목; 경련(율시의 세 번째 연)"
+    gender: null
+    plural: null
+    notes:
+      en: "頁 + 巠. 頸聯 = third couplet (lines 5-6) in 律詩."
+      ko: "頁 + 巠. 頸聯 = 율시의 셋째 연(5-6구)."
+  - classical_chinese: 古
+    reading: 고
+    meaning_kun: 옛
+    translation:
+      en: ancient; old-style (poetry)
+      ko: "옛; 고체시(古體詩)"
+    gender: null
+    plural: null
+    notes:
+      en: "古體詩 = old-style verse. Freer in form than 律詩."
+      ko: "古體詩 = 고체시. 율시보다 형식이 자유로운."
+  - classical_chinese: 排
+    reading: 배
+    meaning_kun: 밀
+    translation:
+      en: extended; to arrange; to push
+      ko: "배율; 배열하다; 밀다"
+    gender: null
+    plural: null
+    notes:
+      en: "Hand (扌) + 非. 排律 = extended regulated verse (>8 lines)."
+      ko: "손(扌) + 非. 排律 = 배율(8구 이상의 율시)."
+- id: poetic_imagery
+  label:
+    en: Poetic Imagery
+    ko: 시적 이미지
+  type: vocabulary
+  words:
+  - classical_chinese: 殘
+    reading: 잔
+    meaning_kun: 남을
+    translation:
+      en: remaining; fading; cruel
+      ko: "남은; 스러져 가는; 잔인한"
+    gender: null
+    plural: null
+    notes:
+      en: "歹 + 戔. 殘月 = waning moon. 殘花 = wilting flowers."
+      ko: "歹 + 戔. 殘月 = 잔월(이지러진 달). 殘花 = 잔화(지는 꽃)."
+  - classical_chinese: 蕭
+    reading: 소
+    meaning_kun: 쓸쓸할
+    translation:
+      en: desolate; dreary; bleak
+      ko: "쓸쓸한; 적막한; 황량한"
+    gender: null
+    plural: null
+    notes:
+      en: "Grass (艹) + 肅. 蕭條 = desolate. Autumnal melancholy."
+      ko: "초(艹) + 肅. 蕭條 = 소조(적막). 가을의 비애."
+  - classical_chinese: 悠
+    reading: 유
+    meaning_kun: 멀
+    translation:
+      en: distant; leisurely; long
+      ko: "아득한; 한가로운; 오래된"
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + 攸. 悠悠 = far and long. Contemplative mood."
+      ko: "마음(忄) + 攸. 悠悠 = 유유(아득하고 오래된). 명상적 분위기."
+  - classical_chinese: 渺
+    reading: 묘
+    meaning_kun: 아득할
+    translation:
+      en: vast and misty; distant
+      ko: "아득한; 멀고 흐릿한"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 眇. 渺茫 = vast and indistinct."
+      ko: "물(氵) + 眇. 渺茫 = 묘망(아득하고 막연한)."
+  - classical_chinese: 浩
+    reading: 호
+    meaning_kun: 넓을
+    translation:
+      en: vast; grand; immense
+      ko: "넓은; 호탕한; 광대한"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 告. 浩蕩 = vast and mighty. 浩然之氣."
+      ko: "물(氵) + 告. 浩蕩 = 호탕. 浩然之氣 = 호연지기."
+  - classical_chinese: 蒼
+    reading: 창
+    meaning_kun: 푸를
+    translation:
+      en: dark blue-green; gray; aged
+      ko: "짙은 푸른; 회색; 늙은"
+    gender: null
+    plural: null
+    notes:
+      en: "Grass (艹) + 倉. 蒼茫 = vast grayish expanse."
+      ko: "초(艹) + 倉. 蒼茫 = 창망(아득히 넓은)."
+  - classical_chinese: 凄
+    reading: 처
+    meaning_kun: 서늘할
+    translation:
+      en: mournful; cold; desolate
+      ko: "처량한; 서늘한; 쓸쓸한"
+    gender: null
+    plural: null
+    notes:
+      en: "Ice (冫) + 妻. Cold sadness. 凄涼 = desolate and cold."
+      ko: "얼음(冫) + 妻. 찬 슬픔. 凄涼 = 처량."
+  - classical_chinese: 翠
+    reading: 취
+    meaning_kun: 비취
+    translation:
+      en: jade-green; emerald; kingfisher
+      ko: "비취색; 초록; 물총새"
+    gender: null
+    plural: null
+    notes:
+      en: "羽 (feather) + 卒. Kingfisher green. Vivid nature imagery."
+      ko: "깃(羽) + 卒. 물총새의 초록. 생생한 자연 이미지."
+  - classical_chinese: 斜
+    reading: 사
+    meaning_kun: 비낄
+    translation:
+      en: slanting; oblique; setting (sun)
+      ko: "비스듬한; 기울어진; 지는(해)"
+    gender: null
+    plural: null
+    notes:
+      en: "余 + 斗. 夕陽斜照 = setting sun's slanting rays."
+      ko: "余 + 斗. 夕陽斜照 = 석양의 비낀 빛."
+  - classical_chinese: 遙
+    reading: 요
+    meaning_kun: 멀
+    translation:
+      en: distant; remote; far away
+      ko: "멀리; 아득한; 먼"
+    gender: null
+    plural: null
+    notes:
+      en: "辶 + 搖 variant. 遙望 = to gaze into the distance."
+      ko: "辶 + 搖 변형. 遙望 = 멀리 바라보다."
+- id: poetic_techniques
+  label:
+    en: Poetic Techniques and Forms
+    ko: 시적 기법과 형식
+  type: vocabulary
+  words:
+  - classical_chinese: 疊
+    reading: 첩
+    meaning_kun: 겹칠
+    translation:
+      en: to overlap; reduplication; layers
+      ko: "겹치다; 첩어; 겹겹이"
+    gender: null
+    plural: null
+    notes:
+      en: "疊字 = reduplicated characters (e.g., 蒼蒼, 悠悠)."
+      ko: "疊字 = 첩자(예: 蒼蒼, 悠悠)."
+  - classical_chinese: 倒
+    reading: 도
+    meaning_kun: 넘어질
+    translation:
+      en: to invert; reversed; to fall
+      ko: "뒤집다; 거꾸로; 넘어지다"
+    gender: null
+    plural: null
+    notes:
+      en: "Person (亻) + 到. 倒裝 = syntactic inversion in poetry."
+      ko: "사람(亻) + 到. 倒裝 = 시에서의 도치."
+  - classical_chinese: 省
+    reading: 생
+    meaning_kun: 덜
+    translation:
+      en: to omit; to reduce; to inspect
+      ko: "생략하다; 줄이다; 살피다"
+    gender: null
+    plural: null
+    notes:
+      en: "少 + 目. 省略 = ellipsis. Common in compressed poetic style."
+      ko: "少 + 目. 省略 = 생략. 압축적 시 문체에서 흔함."
+  - classical_chinese: 藏
+    reading: 장
+    meaning_kun: 감출
+    translation:
+      en: to hide; to store; canon
+      ko: "감추다; 저장; 경장"
+    gender: null
+    plural: null
+    notes:
+      en: "艹 + 臧. 藏鋒 = concealing the point. Implicit meaning."
+      ko: "艹 + 臧. 藏鋒 = 봉우리를 감춤. 은유적 의미."
+  - classical_chinese: 含
+    reading: 함
+    meaning_kun: 머금을
+    translation:
+      en: to contain; to hold in mouth; implicit
+      ko: "머금다; 함축하다; 암시적"
+    gender: null
+    plural: null
+    notes:
+      en: "今 + 口. 含蓄 = implicit, suggestive. Leaving meaning unstated."
+      ko: "今 + 口. 含蓄 = 함축. 뜻을 드러내지 않고 남김."
+  - classical_chinese: 蓄
+    reading: 축
+    meaning_kun: 쌓을
+    translation:
+      en: to store; to accumulate; latent
+      ko: "쌓다; 축적; 잠재적"
+    gender: null
+    plural: null
+    notes:
+      en: "Grass (艹) + 畜. 含蓄 = suggestive restraint."
+      ko: "초(艹) + 畜. 含蓄 = 함축(은근한 절제)."
+  - classical_chinese: 詠
+    reading: 영
+    meaning_kun: 읊을
+    translation:
+      en: to chant; to compose poetry about
+      ko: "읊다; ~을 시로 노래하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Speech (言) + 永. 詠物詩 = poetry about objects."
+      ko: "말씀(言) + 永. 詠物詩 = 영물시."
+  - classical_chinese: 懷
+    reading: 회
+    meaning_kun: 품을
+    translation:
+      en: to cherish; to embrace; nostalgic
+      ko: "품다; 그리워하다; 회포"
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (忄) + 褱. 懷古詩 = poems on historical sites."
+      ko: "마음(忄) + 褱. 懷古詩 = 회고시."
+  - classical_chinese: 送
+    reading: 송
+    meaning_kun: 보낼
+    translation:
+      en: to send off; to bid farewell
+      ko: "보내다; 전송하다; 이별하다"
+    gender: null
+    plural: null
+    notes:
+      en: "辶 + 关. 送別詩 = farewell poems. Major Tang poetry genre."
+      ko: "辶 + 关. 送別詩 = 송별시. 당시의 주요 장르."
+  - classical_chinese: 閨
+    reading: 규
+    meaning_kun: 규방
+    translation:
+      en: inner chamber; boudoir; women's quarters
+      ko: "규방; 여자의 방; 안방"
+    gender: null
+    plural: null
+    notes:
+      en: "Gate (門) + 圭. 閨怨詩 = boudoir lament poems."
+      ko: "문(門) + 圭. 閨怨詩 = 규원시(규방의 원한 시)."

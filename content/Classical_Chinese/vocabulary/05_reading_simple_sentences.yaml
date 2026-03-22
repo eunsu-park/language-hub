@@ -1,0 +1,396 @@
+lesson: 05_Reading_Simple_Sentences
+lesson_number: 5
+hanja_level: L5
+categories:
+- id: sentence_structure_words
+  label:
+    en: Sentence Structure Words
+    ko: 문장 구조어
+  type: vocabulary
+  words:
+  - classical_chinese: 者
+    reading: 자
+    meaning_kun: 놈
+    translation:
+      en: one who; that which (nominalizer)
+      ko: ~하는 자; ~하는 것
+    gender: null
+    plural: null
+    notes:
+      en: "Nominalizer particle. Turns a verb/clause into a noun: 'one who ~'."
+      ko: "명사화 조사. 동사/절을 명사로 만듦: '~하는 자'."
+  - classical_chinese: 之
+    reading: 지
+    meaning_kun: 갈
+    translation:
+      en: (possessive particle); of; to go
+      ko: ~의; 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Most common classical Chinese particle. Functions as possessive ('of') or object marker."
+      ko: "가장 흔한 한문 조사. 소유격('~의') 또는 목적어 표지로 사용."
+  - classical_chinese: 也
+    reading: 야
+    meaning_kun: 어조사
+    translation:
+      en: (sentence-final assertion particle)
+      ko: ~이다 (단정의 어조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Sentence-final particle indicating assertion or definition. A也 = 'A is'."
+      ko: "단정이나 정의를 나타내는 문말 조사. A也 = 'A이다'."
+  - classical_chinese: 乎
+    reading: 호
+    meaning_kun: 어조사
+    translation:
+      en: (question particle)
+      ko: ~인가? (의문 어조사)
+    gender: null
+    plural: null
+    notes:
+      en: "Question particle placed at the end of a sentence."
+      ko: "문장 끝에 놓이는 의문 어조사."
+  - classical_chinese: 所
+    reading: 소
+    meaning_kun: 바
+    translation:
+      en: place; that which
+      ko: 바; 곳
+    gender: null
+    plural: null
+    notes:
+      en: "Used before a verb to create a noun phrase: 所見 = 'what is seen'."
+      ko: "동사 앞에 써서 명사구를 만듦: 所見 = '본 바/보이는 것'."
+  - classical_chinese: 而
+    reading: 이
+    meaning_kun: 말이을
+    translation:
+      en: and; but; while
+      ko: 그리고; 그러나
+    gender: null
+    plural: null
+    notes:
+      en: "Connective particle joining clauses. Can mean 'and', 'but', or 'while'."
+      ko: "절을 연결하는 접속 조사. '그리고', '그러나', '~하면서' 등의 뜻."
+  - classical_chinese: 以
+    reading: 이
+    meaning_kun: 써
+    translation:
+      en: with; by means of; because of
+      ko: ~으로써; ~때문에
+    gender: null
+    plural: null
+    notes:
+      en: "Instrumental preposition meaning 'with' or 'by means of'."
+      ko: "도구·수단의 전치사. '~으로써'의 뜻."
+  - classical_chinese: 於
+    reading: 어
+    meaning_kun: 어조사
+    translation:
+      en: in; at; from; than
+      ko: ~에서; ~보다
+    gender: null
+    plural: null
+    notes:
+      en: "Locative/comparative preposition. Indicates place, time, or comparison."
+      ko: "장소·비교의 전치사. 장소, 시간, 비교를 나타냄."
+  - classical_chinese: 是
+    reading: 시
+    meaning_kun: 이
+    translation:
+      en: this; to be (copula)
+      ko: 이것; ~이다
+    gender: null
+    plural: null
+    notes:
+      en: "Demonstrative pronoun 'this'; later developed into copula 'to be'."
+      ko: "지시대명사 '이것'; 후에 계사 '~이다'로 발전."
+  - classical_chinese: 其
+    reading: 기
+    meaning_kun: 그
+    translation:
+      en: his; her; its; that
+      ko: 그; 그의
+    gender: null
+    plural: null
+    notes:
+      en: "Third-person possessive pronoun or demonstrative."
+      ko: "3인칭 소유 대명사 또는 지시사."
+  - classical_chinese: 此
+    reading: 차
+    meaning_kun: 이
+    translation:
+      en: this
+      ko: 이것
+    gender: null
+    plural: null
+    notes:
+      en: "Proximal demonstrative pronoun meaning 'this'."
+      ko: "근칭 지시대명사 '이것'."
+  - classical_chinese: 彼
+    reading: 피
+    meaning_kun: 저
+    translation:
+      en: that; those
+      ko: 저것; 저
+    gender: null
+    plural: null
+    notes:
+      en: "Distal demonstrative pronoun meaning 'that'."
+      ko: "원칭 지시대명사 '저것'."
+- id: basic_verbs
+  label:
+    en: Basic Verbs for Sentences
+    ko: 기본 문장 동사
+  type: vocabulary
+  words:
+  - classical_chinese: 學
+    reading: 학
+    meaning_kun: 배울
+    translation:
+      en: to learn; to study
+      ko: 배우다
+    gender: null
+    plural: null
+    notes:
+      en: "One of the most fundamental verbs in classical texts. 學而時習之 (Learn and practice)."
+      ko: "고전에서 가장 기본적인 동사 중 하나. 學而時習之(배우고 때때로 익히다)."
+  - classical_chinese: 讀
+    reading: 독
+    meaning_kun: 읽을
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "To read aloud. Reading was traditionally done by reciting."
+      ko: "소리 내어 읽다. 전통적으로 독서는 낭독하는 것이었음."
+  - classical_chinese: 書
+    reading: 서
+    meaning_kun: 글
+    translation:
+      en: to write; book
+      ko: 쓰다; 책
+    gender: null
+    plural: null
+    notes:
+      en: "Both a verb (to write) and a noun (book/writing)."
+      ko: "동사(쓰다)와 명사(책/글) 모두로 사용됨."
+  - classical_chinese: 寫
+    reading: 사
+    meaning_kun: 베낄
+    translation:
+      en: to copy; to write
+      ko: 베끼다; 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "To copy or transcribe. Distinct from 書 (compose/write)."
+      ko: "베끼다, 전사하다. 書(짓다/쓰다)와 구별됨."
+  - classical_chinese: 知
+    reading: 지
+    meaning_kun: 알
+    translation:
+      en: to know; to understand
+      ko: 알다
+    gender: null
+    plural: null
+    notes:
+      en: "Arrow (矢) + mouth (口). To know precisely, like an arrow hitting its target."
+      ko: "화살(矢) + 입(口). 화살이 과녁을 맞히듯 정확히 아는 것."
+  - classical_chinese: 思
+    reading: 사
+    meaning_kun: 생각할
+    translation:
+      en: to think; to contemplate
+      ko: 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Field (田) + heart (心). Thinking with the mind/heart."
+      ko: "밭(田) + 마음(心). 마음으로 생각하는 것."
+  - classical_chinese: 有
+    reading: 유
+    meaning_kun: 있을
+    translation:
+      en: to have; there is
+      ko: 있다; 가지다
+    gender: null
+    plural: null
+    notes:
+      en: "Hand (又) holding meat (月/肉). To possess; to exist."
+      ko: "손(又)이 고기(月/肉)를 잡은 모양. 소유하다; 존재하다."
+  - classical_chinese: 無
+    reading: 무
+    meaning_kun: 없을
+    translation:
+      en: to not have; there is not
+      ko: 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Negation of existence. Opposite of 有."
+      ko: "존재의 부정. 有의 반대."
+- id: basic_adjectives
+  label:
+    en: Basic Adjectives
+    ko: 기본 형용사
+  type: vocabulary
+  words:
+  - classical_chinese: 高
+    reading: 고
+    meaning_kun: 높을
+    translation:
+      en: high; tall
+      ko: 높다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a tall building or tower."
+      ko: "높은 건물이나 탑의 상형자."
+  - classical_chinese: 大
+    reading: 대
+    meaning_kun: 큰
+    translation:
+      en: big; great
+      ko: 크다
+    gender: null
+    plural: null
+    notes:
+      en: "Person with arms outstretched, indicating greatness."
+      ko: "팔을 벌린 사람 모양으로, 큼을 나타냄."
+  - classical_chinese: 長
+    reading: 장
+    meaning_kun: 긴
+    translation:
+      en: long; senior
+      ko: 길다; 어른
+    gender: null
+    plural: null
+    notes:
+      en: "Person with long hair. Long in length or senior in age."
+      ko: "긴 머리의 사람. 길이가 길거나 나이가 많은 것."
+  - classical_chinese: 短
+    reading: 단
+    meaning_kun: 짧을
+    translation:
+      en: short (length)
+      ko: 짧다
+    gender: null
+    plural: null
+    notes:
+      en: "Arrow (矢) + 豆. Short like an arrow compared to a spear."
+      ko: "화살(矢) + 豆. 창에 비해 화살처럼 짧은 것."
+  - classical_chinese: 善
+    reading: 선
+    meaning_kun: 착할
+    translation:
+      en: good; virtuous
+      ko: 착하다; 선하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) on top, representing goodness and virtue."
+      ko: "양(羊)이 위에 있어, 선함과 덕을 나타냄."
+  - classical_chinese: 惡
+    reading: 악
+    meaning_kun: 악할
+    translation:
+      en: evil; bad
+      ko: 악하다; 나쁘다
+    gender: null
+    plural: null
+    notes:
+      en: "Heart (心) + 亞. Evil in the heart. Also read 오 meaning 'to hate'."
+      ko: "마음(心) + 亞. 마음속의 악. '오'로 읽으면 '미워하다'의 뜻."
+  - classical_chinese: 美
+    reading: 미
+    meaning_kun: 아름다울
+    translation:
+      en: beautiful; good
+      ko: 아름답다
+    gender: null
+    plural: null
+    notes:
+      en: "Sheep (羊) + big (大). A big, fat sheep is beautiful/good."
+      ko: "양(羊) + 크다(大). 크고 살찐 양이 아름다운 것."
+  - classical_chinese: 新
+    reading: 신
+    meaning_kun: 새
+    translation:
+      en: new
+      ko: 새롭다
+    gender: null
+    plural: null
+    notes:
+      en: "Tree (木) + axe (斤) + 辛. Freshly cut wood is new."
+      ko: "나무(木) + 도끼(斤) + 辛. 갓 벤 나무가 새로운 것."
+  - classical_chinese: 古
+    reading: 고
+    meaning_kun: 예
+    translation:
+      en: old; ancient
+      ko: 예; 옛날
+    gender: null
+    plural: null
+    notes:
+      en: "Ten (十) + mouth (口). Passed down through ten generations."
+      ko: "열(十) + 입(口). 열 세대를 걸쳐 전해진 것."
+  - classical_chinese: 多
+    reading: 다
+    meaning_kun: 많을
+    translation:
+      en: many; much
+      ko: 많다
+    gender: null
+    plural: null
+    notes:
+      en: "Two pieces of meat (夕夕), indicating abundance."
+      ko: "고기(夕) 두 개가 겹쳐, 풍부함을 나타냄."
+  - classical_chinese: 少
+    reading: 소
+    meaning_kun: 적을
+    translation:
+      en: few; little
+      ko: 적다
+    gender: null
+    plural: null
+    notes:
+      en: "Small (小) with a stroke removed, indicating even less."
+      ko: "작다(小)에서 획을 줄인 모양. 더욱 적은 것."
+  - classical_chinese: 白
+    reading: 백
+    meaning_kun: 흰
+    translation:
+      en: white; blank
+      ko: 희다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of the sun beginning to shine. White light."
+      ko: "해가 비치기 시작하는 모양의 상형자. 흰 빛."
+  - classical_chinese: 黑
+    reading: 흑
+    meaning_kun: 검을
+    translation:
+      en: black; dark
+      ko: 검다
+    gender: null
+    plural: null
+    notes:
+      en: "Soot marks from fire. Represents the color black."
+      ko: "불에서 나온 그을음 자국. 검은색을 나타냄."
+  - classical_chinese: 正
+    reading: 정
+    meaning_kun: 바를
+    translation:
+      en: correct; straight; upright
+      ko: 바르다; 정직하다
+    gender: null
+    plural: null
+    notes:
+      en: "Foot (止) heading toward a mark (一). Moving in the right direction."
+      ko: "발(止)이 표시(一)를 향해 가는 모양. 올바른 방향으로 나아감."

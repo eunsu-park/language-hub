@@ -1,0 +1,493 @@
+lesson: "14_Classical_Poetry_I_Tang_Poetry"
+lesson_number: 14
+hanja_level: L3
+categories:
+  - id: poetry_forms
+    label:
+      en: "Poetry Forms"
+      ko: "시의 형식"
+    type: vocabulary
+    words:
+      - classical_chinese: 詩
+        reading: 시
+        meaning_kun: 시
+        translation:
+          en: poetry, poem
+          ko: 시
+        gender: null
+        plural: null
+        notes:
+          en: "The character for poetry. 言 (speech) + 寺 (phonetic)."
+          ko: "시를 뜻하는 한자. 言(말씀 언) + 寺(절 사, 음부)."
+      - classical_chinese: 歌
+        reading: 가
+        meaning_kun: 노래
+        translation:
+          en: song, to sing
+          ko: 노래
+        gender: null
+        plural: null
+        notes:
+          en: "Song or singing. 哥 (phonetic) + 欠 (yawn/breath)."
+          ko: "노래를 뜻하는 한자. 哥(음부) + 欠(하품 흠)."
+      - classical_chinese: 律
+        reading: 율
+        meaning_kun: 법칙
+        translation:
+          en: regulated verse, law
+          ko: 율시, 법칙
+        gender: null
+        plural: null
+        notes:
+          en: "Refers to regulated verse (律詩) with strict tonal rules."
+          ko: "율시(律詩)에서 엄격한 성률 규칙을 가진 시 형식."
+      - classical_chinese: 絕
+        reading: 절
+        meaning_kun: 끊을
+        translation:
+          en: cut off; quatrain
+          ko: 끊다; 절구
+        gender: null
+        plural: null
+        notes:
+          en: "In poetry, refers to quatrain (絕句), a four-line poem."
+          ko: "시에서 절구(絕句), 4행으로 된 시를 뜻함."
+      - classical_chinese: 句
+        reading: 구
+        meaning_kun: 글귀
+        translation:
+          en: sentence, verse line
+          ko: 글귀, 시구
+        gender: null
+        plural: null
+        notes:
+          en: "A sentence or line of verse. 口 (mouth) + 丩 (hook)."
+          ko: "문장이나 시의 한 행. 口(입 구) + 丩(갈고리)."
+      - classical_chinese: 韻
+        reading: 운
+        meaning_kun: 운
+        translation:
+          en: rhyme
+          ko: 운, 운율
+        gender: null
+        plural: null
+        notes:
+          en: "Rhyme in poetry. 音 (sound) + 員 (phonetic)."
+          ko: "시의 운율. 音(소리 음) + 員(인원 원, 음부)."
+      - classical_chinese: 賦
+        reading: 부
+        meaning_kun: 읊을
+        translation:
+          en: rhapsody, to recite
+          ko: 부, 읊다
+        gender: null
+        plural: null
+        notes:
+          en: "A literary form combining prose and verse. Also means to bestow."
+          ko: "산문과 운문을 결합한 문학 형식. 부여하다의 뜻도 있음."
+      - classical_chinese: 吟
+        reading: 음
+        meaning_kun: 읊을
+        translation:
+          en: to chant, to recite poetry
+          ko: 읊다, 시를 읊조리다
+        gender: null
+        plural: null
+        notes:
+          en: "To recite or chant poetry aloud. 口 (mouth) + 今 (now)."
+          ko: "시를 소리 내어 읊다. 口(입 구) + 今(이제 금)."
+      - classical_chinese: 詠
+        reading: 영
+        meaning_kun: 읊을
+        translation:
+          en: to recite, to compose poetry
+          ko: 읊다, 시를 짓다
+        gender: null
+        plural: null
+        notes:
+          en: "To compose or recite poetry. 言 (speech) + 永 (eternal)."
+          ko: "시를 짓거나 읊다. 言(말씀 언) + 永(영원할 영)."
+      - classical_chinese: 頌
+        reading: 송
+        meaning_kun: 기릴
+        translation:
+          en: ode, hymn, to praise
+          ko: 송시, 기리다
+        gender: null
+        plural: null
+        notes:
+          en: "An ode or hymn of praise. One of the sections of the Book of Songs."
+          ko: "칭송의 시. 시경(詩經)의 한 부분."
+      - classical_chinese: 篇
+        reading: 편
+        meaning_kun: 편
+        translation:
+          en: chapter, piece of writing
+          ko: 편, 글
+        gender: null
+        plural: null
+        notes:
+          en: "A chapter or piece of writing. 竹 (bamboo) + 扁 (flat)."
+          ko: "편이나 글. 竹(대나무 죽) + 扁(넓적할 편)."
+      - classical_chinese: 聯
+        reading: 련
+        meaning_kun: 이을
+        translation:
+          en: couplet, to link
+          ko: 련구, 잇다
+        gender: null
+        plural: null
+        notes:
+          en: "A couplet in regulated verse. Two paired lines."
+          ko: "율시에서 대구를 이루는 두 행. 련구."
+
+  - id: poetic_vocabulary
+    label:
+      en: "Poetic Imagery"
+      ko: "시적 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 月
+        reading: 월
+        meaning_kun: 달
+        translation:
+          en: moon
+          ko: 달
+        gender: null
+        plural: null
+        notes:
+          en: "The moon. One of the most common images in Tang poetry."
+          ko: "달. 당시(唐詩)에서 가장 흔한 이미지 중 하나."
+      - classical_chinese: 風
+        reading: 풍
+        meaning_kun: 바람
+        translation:
+          en: wind
+          ko: 바람
+        gender: null
+        plural: null
+        notes:
+          en: "Wind. Also means custom or style (風俗)."
+          ko: "바람. 풍속(風俗)의 뜻도 있음."
+      - classical_chinese: 花
+        reading: 화
+        meaning_kun: 꽃
+        translation:
+          en: flower
+          ko: 꽃
+        gender: null
+        plural: null
+        notes:
+          en: "Flower. Symbol of beauty and transience in poetry."
+          ko: "꽃. 시에서 아름다움과 덧없음의 상징."
+      - classical_chinese: 雪
+        reading: 설
+        meaning_kun: 눈
+        translation:
+          en: snow
+          ko: 눈
+        gender: null
+        plural: null
+        notes:
+          en: "Snow. 雨 (rain) + 彗 (broom). Symbolizes purity."
+          ko: "눈. 雨(비 우) + 彗(빗자루). 순결을 상징함."
+      - classical_chinese: 雲
+        reading: 운
+        meaning_kun: 구름
+        translation:
+          en: cloud
+          ko: 구름
+        gender: null
+        plural: null
+        notes:
+          en: "Cloud. Often evokes solitude and freedom in poetry."
+          ko: "구름. 시에서 고독과 자유를 환기하는 이미지."
+      - classical_chinese: 霞
+        reading: 하
+        meaning_kun: 노을
+        translation:
+          en: rosy clouds, sunset glow
+          ko: 노을
+        gender: null
+        plural: null
+        notes:
+          en: "Rosy clouds at dawn or sunset. 雨 (rain) + 叚 (phonetic)."
+          ko: "아침이나 저녁의 노을. 雨(비 우) + 叚(음부)."
+      - classical_chinese: 春
+        reading: 춘
+        meaning_kun: 봄
+        translation:
+          en: spring
+          ko: 봄
+        gender: null
+        plural: null
+        notes:
+          en: "Spring season. Symbolizes renewal and youth in poetry."
+          ko: "봄. 시에서 새로움과 젊음을 상징."
+      - classical_chinese: 秋
+        reading: 추
+        meaning_kun: 가을
+        translation:
+          en: autumn
+          ko: 가을
+        gender: null
+        plural: null
+        notes:
+          en: "Autumn. Often evokes melancholy and longing in Tang poetry."
+          ko: "가을. 당시에서 멜랑콜리와 그리움을 환기."
+      - classical_chinese: 酒
+        reading: 주
+        meaning_kun: 술
+        translation:
+          en: wine, alcohol
+          ko: 술
+        gender: null
+        plural: null
+        notes:
+          en: "Wine. Central motif in Li Bai's poetry."
+          ko: "술. 이백(李白) 시에서 핵심적인 소재."
+      - classical_chinese: 夢
+        reading: 몽
+        meaning_kun: 꿈
+        translation:
+          en: dream
+          ko: 꿈
+        gender: null
+        plural: null
+        notes:
+          en: "Dream. Represents longing, illusion, and memory."
+          ko: "꿈. 그리움, 환상, 기억을 나타냄."
+      - classical_chinese: 愁
+        reading: 수
+        meaning_kun: 근심
+        translation:
+          en: sorrow, melancholy
+          ko: 근심, 시름
+        gender: null
+        plural: null
+        notes:
+          en: "Sorrow or melancholy. 秋 (autumn) + 心 (heart)."
+          ko: "근심, 시름. 秋(가을 추) + 心(마음 심)."
+      - classical_chinese: 鶴
+        reading: 학
+        meaning_kun: 학
+        translation:
+          en: crane (bird)
+          ko: 학, 두루미
+        gender: null
+        plural: null
+        notes:
+          en: "Crane. Symbol of longevity and elegance in East Asian poetry."
+          ko: "학. 동아시아 시에서 장수와 고아함의 상징."
+
+  - id: poet_names
+    label:
+      en: "Poet Names and Titles"
+      ko: "시인 이름과 칭호"
+    type: vocabulary
+    words:
+      - classical_chinese: 李
+        reading: 이
+        meaning_kun: 오얏
+        translation:
+          en: plum; surname Li
+          ko: 오얏나무; 성씨 이
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Li Bai (李白). Also means plum tree."
+          ko: "이백(李白)의 성. 오얏나무의 뜻도 있음."
+      - classical_chinese: 白
+        reading: 백
+        meaning_kun: 흰
+        translation:
+          en: white; Bai (given name)
+          ko: 흰; 백(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "White. Given name of the great Tang poet Li Bai (李白)."
+          ko: "흰색. 위대한 당나라 시인 이백(李白)의 이름."
+      - classical_chinese: 杜
+        reading: 두
+        meaning_kun: 막을
+        translation:
+          en: birch-leaf pear; surname Du
+          ko: 막다; 성씨 두
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Du Fu (杜甫), the 'Poet-Sage' of Tang dynasty."
+          ko: "두보(杜甫)의 성. 두보는 당나라의 '시성(詩聖)'."
+      - classical_chinese: 甫
+        reading: 보
+        meaning_kun: 클
+        translation:
+          en: just, begin; Fu (given name)
+          ko: 크다; 보(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "Given name of Du Fu (杜甫). Also an honorific suffix for men."
+          ko: "두보(杜甫)의 이름. 남자의 존칭 접미사이기도 함."
+      - classical_chinese: 王
+        reading: 왕
+        meaning_kun: 임금
+        translation:
+          en: king; surname Wang
+          ko: 임금; 성씨 왕
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Wang Wei (王維), the painter-poet."
+          ko: "왕유(王維)의 성. 왕유는 화가이자 시인."
+      - classical_chinese: 維
+        reading: 유
+        meaning_kun: 벼리
+        translation:
+          en: to maintain; Wei (given name)
+          ko: 벼리; 유(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "Given name of Wang Wei (王維). Means 'to maintain' or 'rope'."
+          ko: "왕유(王維)의 이름. '유지하다' 또는 '벼리'의 뜻."
+      - classical_chinese: 仙
+        reading: 선
+        meaning_kun: 신선
+        translation:
+          en: immortal, celestial being
+          ko: 신선
+        gender: null
+        plural: null
+        notes:
+          en: "Immortal. Li Bai was called 'Poetry Immortal' (詩仙)."
+          ko: "신선. 이백은 '시선(詩仙)'으로 불림."
+      - classical_chinese: 聖
+        reading: 성
+        meaning_kun: 성인
+        translation:
+          en: sage, holy
+          ko: 성인, 거룩한
+        gender: null
+        plural: null
+        notes:
+          en: "Sage. Du Fu was called 'Poetry Sage' (詩聖)."
+          ko: "성인. 두보는 '시성(詩聖)'으로 불림."
+
+  - id: imagery_words
+    label:
+      en: "Imagery and Contrast"
+      ko: "이미지와 대비"
+    type: vocabulary
+    words:
+      - classical_chinese: 明
+        reading: 명
+        meaning_kun: 밝을
+        translation:
+          en: bright, clear
+          ko: 밝은
+        gender: null
+        plural: null
+        notes:
+          en: "Bright. 日 (sun) + 月 (moon) = brightness."
+          ko: "밝다. 日(해 일) + 月(달 월) = 밝음."
+      - classical_chinese: 暗
+        reading: 암
+        meaning_kun: 어두울
+        translation:
+          en: dark, dim
+          ko: 어두운
+        gender: null
+        plural: null
+        notes:
+          en: "Dark. 日 (sun) + 音 (sound/phonetic). Opposite of 明."
+          ko: "어둡다. 日(해 일) + 音(소리 음, 음부). 明의 반대."
+      - classical_chinese: 高
+        reading: 고
+        meaning_kun: 높을
+        translation:
+          en: high, tall
+          ko: 높은
+        gender: null
+        plural: null
+        notes:
+          en: "High or tall. Pictograph of a tall building."
+          ko: "높다. 높은 건물의 상형자."
+      - classical_chinese: 低
+        reading: 저
+        meaning_kun: 낮을
+        translation:
+          en: low
+          ko: 낮은
+        gender: null
+        plural: null
+        notes:
+          en: "Low. 亻(person) + 氐 (bottom). Opposite of 高."
+          ko: "낮다. 亻(사람 인) + 氐(밑 저). 高의 반대."
+      - classical_chinese: 遠
+        reading: 원
+        meaning_kun: 멀
+        translation:
+          en: far, distant
+          ko: 먼
+        gender: null
+        plural: null
+        notes:
+          en: "Far or distant. 辶 (walk) + 袁 (phonetic)."
+          ko: "멀다. 辶(쉬엄쉬엄 갈 착) + 袁(음부)."
+      - classical_chinese: 近
+        reading: 근
+        meaning_kun: 가까울
+        translation:
+          en: near, close
+          ko: 가까운
+        gender: null
+        plural: null
+        notes:
+          en: "Near. 辶 (walk) + 斤 (axe/phonetic). Opposite of 遠."
+          ko: "가깝다. 辶(쉬엄쉬엄 갈 착) + 斤(도끼 근). 遠의 반대."
+      - classical_chinese: 深
+        reading: 심
+        meaning_kun: 깊을
+        translation:
+          en: deep, profound
+          ko: 깊은
+        gender: null
+        plural: null
+        notes:
+          en: "Deep. 氵(water) + 罙 (to probe). Also means profound."
+          ko: "깊다. 氵(물 수) + 罙(깊을). 심오하다의 뜻도 있음."
+      - classical_chinese: 淺
+        reading: 천
+        meaning_kun: 얕을
+        translation:
+          en: shallow
+          ko: 얕은
+        gender: null
+        plural: null
+        notes:
+          en: "Shallow. 氵(water) + 戔 (small). Opposite of 深."
+          ko: "얕다. 氵(물 수) + 戔(작을 잔). 深의 반대."
+      - classical_chinese: 靜
+        reading: 정
+        meaning_kun: 고요할
+        translation:
+          en: quiet, still
+          ko: 고요한
+        gender: null
+        plural: null
+        notes:
+          en: "Quiet, still. 青 (blue) + 爭 (contend). Key concept in Wang Wei's poetry."
+          ko: "고요하다. 青(푸를 청) + 爭(다툴 쟁). 왕유 시의 핵심 개념."
+      - classical_chinese: 空
+        reading: 공
+        meaning_kun: 빌
+        translation:
+          en: empty, void
+          ko: 빈, 텅 빈
+        gender: null
+        plural: null
+        notes:
+          en: "Empty. 穴 (cave) + 工 (work). Both physical and philosophical emptiness."
+          ko: "비다. 穴(구멍 혈) + 工(장인 공). 물리적·철학적 공허."

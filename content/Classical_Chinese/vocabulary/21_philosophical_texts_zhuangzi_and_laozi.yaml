@@ -1,0 +1,464 @@
+lesson: "21_Philosophical_Texts_Zhuangzi_and_Laozi"
+lesson_number: 21
+hanja_level: L1
+categories:
+  - id: zhuangzi_vocabulary
+    label:
+      en: "Zhuangzi Vocabulary"
+      ko: "장자 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 逍
+        reading: 소
+        meaning_kun: 노닐
+        translation:
+          en: to wander freely
+          ko: 한가로이 노닐다
+        gender: null
+        plural: null
+        notes:
+          en: "Free wandering. 逍遙遊: 'Free and Easy Wandering,' first chapter of Zhuangzi."
+          ko: "한가로이 노닐다. 逍遙遊: '소요유,' 장자의 첫 번째 편."
+      - classical_chinese: 遙
+        reading: 요
+        meaning_kun: 멀
+        translation:
+          en: distant, far; to roam
+          ko: 먼, 아득한
+        gender: null
+        plural: null
+        notes:
+          en: "Far or roaming. 逍遙 = free and easy wandering, spiritual freedom."
+          ko: "먼, 아득한. 逍遙 = 소요(자유로운 거닐음), 정신적 자유."
+      - classical_chinese: 齊
+        reading: 제
+        meaning_kun: 가지런할
+        translation:
+          en: to equalize; uniform
+          ko: 가지런히 하다
+        gender: null
+        plural: null
+        notes:
+          en: "To equalize. 齊物論: 'On the Equality of Things,' second chapter of Zhuangzi."
+          ko: "가지런히 하다. 齊物論: '제물론,' 장자의 두 번째 편."
+      - classical_chinese: 物
+        reading: 물
+        meaning_kun: 만물
+        translation:
+          en: thing, object, being
+          ko: 물건, 만물
+        gender: null
+        plural: null
+        notes:
+          en: "Things. 齊物 = equalizing things, seeing all things as equal."
+          ko: "사물. 齊物 = 만물을 가지런히 함, 만물을 평등하게 봄."
+      - classical_chinese: 鯤
+        reading: 곤
+        meaning_kun: 큰 물고기
+        translation:
+          en: giant fish (mythical)
+          ko: 큰 물고기(신화적)
+        gender: null
+        plural: null
+        notes:
+          en: "A mythical giant fish that transforms into the 鵬 bird. From Zhuangzi ch. 1."
+          ko: "붕새로 변하는 신화적 거대 물고기. 장자 제1편에서."
+      - classical_chinese: 鵬
+        reading: 붕
+        meaning_kun: 큰 새
+        translation:
+          en: Peng bird, roc (mythical)
+          ko: 붕새(신화적 거대 새)
+        gender: null
+        plural: null
+        notes:
+          en: "A mythical giant bird. The 鯤 fish transforms into 鵬 and flies 90,000 li."
+          ko: "신화적 거대 새. 곤어(鯤魚)가 변하여 9만 리를 날아감."
+      - classical_chinese: 蝶
+        reading: 접
+        meaning_kun: 나비
+        translation:
+          en: butterfly
+          ko: 나비
+        gender: null
+        plural: null
+        notes:
+          en: "Butterfly. Zhuangzi's butterfly dream: am I a man dreaming of a butterfly?"
+          ko: "나비. 장자의 호접몽: 내가 나비 꿈을 꾸는 것인가?"
+      - classical_chinese: 夢
+        reading: 몽
+        meaning_kun: 꿈
+        translation:
+          en: dream
+          ko: 꿈
+        gender: null
+        plural: null
+        notes:
+          en: "Dream. 蝶夢 / 莊周夢蝶: Zhuangzi's butterfly dream paradox."
+          ko: "꿈. 蝶夢 / 莊周夢蝶: 장자의 호접지몽."
+      - classical_chinese: 莊
+        reading: 장
+        meaning_kun: 마을
+        translation:
+          en: solemn, dignified; Zhuang (surname)
+          ko: 장엄한; 장(성씨)
+        gender: null
+        plural: null
+        notes:
+          en: "Surname of Zhuangzi (莊子). Also means solemn or village."
+          ko: "장자(莊子)의 성. 장엄한, 마을의 뜻도 있음."
+      - classical_chinese: 周
+        reading: 주
+        meaning_kun: 두루
+        translation:
+          en: complete, all around; Zhou (given name)
+          ko: 두루; 주(이름)
+        gender: null
+        plural: null
+        notes:
+          en: "Given name of Zhuangzi (莊周). Also means all around, complete."
+          ko: "장자(莊周)의 이름. 두루, 완전한의 뜻도 있음."
+      - classical_chinese: 遊
+        reading: 유
+        meaning_kun: 놀
+        translation:
+          en: to wander, to travel, to roam
+          ko: 노닐다
+        gender: null
+        plural: null
+        notes:
+          en: "To wander freely. 逍遙遊 = free and easy wandering."
+          ko: "노닐다. 逍遙遊 = 소요유(자유로운 거닐음)."
+      - classical_chinese: 化
+        reading: 화
+        meaning_kun: 될
+        translation:
+          en: to transform, to change
+          ko: 변하다
+        gender: null
+        plural: null
+        notes:
+          en: "To transform. Key Zhuangzi concept: all things undergo transformation."
+          ko: "변하다. 장자의 핵심 개념: 만물은 변화를 겪는다."
+      - classical_chinese: 忘
+        reading: 망
+        meaning_kun: 잊을
+        translation:
+          en: to forget
+          ko: 잊다
+        gender: null
+        plural: null
+        notes:
+          en: "To forget. 坐忘 = 'sitting and forgetting' (meditative self-forgetting)."
+          ko: "잊다. 坐忘 = '좌망' (명상적 자기 망각)."
+      - classical_chinese: 適
+        reading: 적
+        meaning_kun: 갈
+        translation:
+          en: to go to; suitable, at ease
+          ko: 가다; 적합한
+        gender: null
+        plural: null
+        notes:
+          en: "Suitable or at ease. In Zhuangzi: being at ease with one's nature."
+          ko: "적합한. 장자에서: 자기 본성에 편안한 것."
+      - classical_chinese: 樂
+        reading: 락
+        meaning_kun: 즐길
+        translation:
+          en: joy, happiness
+          ko: 즐거움
+        gender: null
+        plural: null
+        notes:
+          en: "Joy. 知魚之樂: 'knowing the joy of fish' (Zhuangzi's debate with Huizi)."
+          ko: "즐거움. 知魚之樂: '물고기의 즐거움을 알다' (장자와 혜자의 논쟁)."
+      - classical_chinese: 魚
+        reading: 어
+        meaning_kun: 물고기
+        translation:
+          en: fish
+          ko: 물고기
+        gender: null
+        plural: null
+        notes:
+          en: "Fish. Central image in Zhuangzi: the joy of fish, the giant 鯤 fish."
+          ko: "물고기. 장자의 핵심 이미지: 물고기의 즐거움, 거대한 곤어."
+      - classical_chinese: 辯
+        reading: 변
+        meaning_kun: 분별할
+        translation:
+          en: to debate, to distinguish
+          ko: 분별하다, 논쟁하다
+        gender: null
+        plural: null
+        notes:
+          en: "To debate. Zhuangzi questioned the value of distinctions and debate."
+          ko: "분별하다. 장자는 분별과 논쟁의 가치에 의문을 제기."
+
+  - id: laozi_vocabulary
+    label:
+      en: "Laozi Vocabulary"
+      ko: "노자 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 柔
+        reading: 유
+        meaning_kun: 부드러울
+        translation:
+          en: soft, supple, gentle
+          ko: 부드러운
+        gender: null
+        plural: null
+        notes:
+          en: "Soft. 柔弱勝剛強: the soft and weak overcome the hard and strong."
+          ko: "부드러운. 柔弱勝剛強: 부드럽고 약한 것이 딱딱하고 강한 것을 이긴다."
+      - classical_chinese: 弱
+        reading: 약
+        meaning_kun: 약할
+        translation:
+          en: weak, yielding
+          ko: 약한
+        gender: null
+        plural: null
+        notes:
+          en: "Weak. Laozi valued weakness as paradoxically powerful."
+          ko: "약하다. 노자는 약함이 역설적으로 강하다고 보았음."
+      - classical_chinese: 剛
+        reading: 강
+        meaning_kun: 굳셀
+        translation:
+          en: hard, firm, unyielding
+          ko: 굳센
+        gender: null
+        plural: null
+        notes:
+          en: "Hard or rigid. 剛強 = hard and strong, but brittle."
+          ko: "굳세다. 剛強 = 딱딱하고 강하지만, 부러지기 쉬움."
+      - classical_chinese: 強
+        reading: 강
+        meaning_kun: 강할
+        translation:
+          en: strong, forceful
+          ko: 강한
+        gender: null
+        plural: null
+        notes:
+          en: "Strong. Laozi: 'the stiff and hard are companions of death.'"
+          ko: "강하다. 노자: '뻣뻣하고 단단한 것은 죽음의 무리이다.'"
+      - classical_chinese: 虛
+        reading: 허
+        meaning_kun: 빌
+        translation:
+          en: empty, void
+          ko: 비다, 허무
+        gender: null
+        plural: null
+        notes:
+          en: "Empty. 虛其心: empty the mind. Laozi valued emptiness as potential."
+          ko: "비다. 虛其心: 마음을 비우다. 노자는 비움을 잠재력으로 봄."
+      - classical_chinese: 實
+        reading: 실
+        meaning_kun: 열매
+        translation:
+          en: solid, real, fruit
+          ko: 열매, 실제의
+        gender: null
+        plural: null
+        notes:
+          en: "Solid or real. 虛實 = empty and solid, a fundamental duality."
+          ko: "실제의. 虛實 = 허와 실, 근본적 이중성."
+      - classical_chinese: 樸
+        reading: 박
+        meaning_kun: 통나무
+        translation:
+          en: uncarved block, simplicity
+          ko: 통나무, 소박함
+        gender: null
+        plural: null
+        notes:
+          en: "Uncarved block. Key Laozi image: the natural, unprocessed state."
+          ko: "통나무. 노자의 핵심 이미지: 자연스럽고 가공되지 않은 상태."
+      - classical_chinese: 谷
+        reading: 곡
+        meaning_kun: 골짜기
+        translation:
+          en: valley
+          ko: 골짜기
+        gender: null
+        plural: null
+        notes:
+          en: "Valley. 谷神: the valley spirit. Valleys represent receptive emptiness."
+          ko: "골짜기. 谷神: 곡신(골짜기의 신). 골짜기는 수용적 비움을 상징."
+      - classical_chinese: 嬰
+        reading: 영
+        meaning_kun: 갓난아이
+        translation:
+          en: infant, baby
+          ko: 갓난아이
+        gender: null
+        plural: null
+        notes:
+          en: "Infant. Laozi's ideal: return to the state of an infant (嬰兒)."
+          ko: "갓난아이. 노자의 이상: 영아(嬰兒)의 상태로 돌아감."
+      - classical_chinese: 牝
+        reading: 빈
+        meaning_kun: 암컷
+        translation:
+          en: female; feminine principle
+          ko: 암컷
+        gender: null
+        plural: null
+        notes:
+          en: "Female. 玄牝: the mysterious female. Laozi valued the feminine principle."
+          ko: "암컷. 玄牝: 현빈(신비로운 암컷). 노자는 여성적 원리를 중시."
+
+  - id: philosophical_concepts
+    label:
+      en: "Philosophical Concepts"
+      ko: "철학 개념"
+    type: vocabulary
+    words:
+      - classical_chinese: 無
+        reading: 무
+        meaning_kun: 없을
+        translation:
+          en: without, non-being
+          ko: 없다, 무
+        gender: null
+        plural: null
+        notes:
+          en: "Non-being. 無爲 = non-action. 'From being comes all things; being comes from non-being.'"
+          ko: "무. 無爲 = 무위. '유에서 만물이 나오고, 유는 무에서 나온다.'"
+      - classical_chinese: 爲
+        reading: 위
+        meaning_kun: 할
+        translation:
+          en: to act, to do
+          ko: 하다
+        gender: null
+        plural: null
+        notes:
+          en: "To act. 無爲 = non-action, acting without forcing."
+          ko: "하다. 無爲 = 무위(억지로 행하지 않음)."
+      - classical_chinese: 天
+        reading: 천
+        meaning_kun: 하늘
+        translation:
+          en: heaven, sky, nature
+          ko: 하늘
+        gender: null
+        plural: null
+        notes:
+          en: "Heaven. 天道 = the Way of Heaven, natural order."
+          ko: "하늘. 天道 = 천도(하늘의 도, 자연의 질서)."
+      - classical_chinese: 道
+        reading: 도
+        meaning_kun: 길
+        translation:
+          en: the Way, Dao
+          ko: 도, 길
+        gender: null
+        plural: null
+        notes:
+          en: "The Way. 天道 = the Way of Heaven. 人道 = the Way of humans."
+          ko: "도. 天道 = 천도. 人道 = 인도(사람의 도)."
+      - classical_chinese: 萬
+        reading: 만
+        meaning_kun: 일만
+        translation:
+          en: ten thousand, myriad
+          ko: 만, 일만
+        gender: null
+        plural: null
+        notes:
+          en: "Ten thousand. 萬物 = all things, the myriad creatures."
+          ko: "만. 萬物 = 만물(모든 것)."
+      - classical_chinese: 常
+        reading: 상
+        meaning_kun: 항상
+        translation:
+          en: constant, eternal; always
+          ko: 항상, 영원한
+        gender: null
+        plural: null
+        notes:
+          en: "Constant. 非常道: not the constant/eternal Way (Laozi ch. 1)."
+          ko: "항상. 非常道: 항상된 도가 아니다(노자 제1장)."
+      - classical_chinese: 反
+        reading: 반
+        meaning_kun: 되돌릴
+        translation:
+          en: to return, reversal
+          ko: 되돌리다, 반대
+        gender: null
+        plural: null
+        notes:
+          en: "Reversal. 反者道之動: reversal is the movement of the Dao (ch. 40)."
+          ko: "되돌림. 反者道之動: 되돌아감이 도의 움직임이다(제40장)."
+      - classical_chinese: 歸
+        reading: 귀
+        meaning_kun: 돌아갈
+        translation:
+          en: to return, to go back
+          ko: 돌아가다
+        gender: null
+        plural: null
+        notes:
+          en: "To return. 歸根 = returning to the root (Laozi ch. 16)."
+          ko: "돌아가다. 歸根 = 근본으로 돌아감(노자 제16장)."
+      - classical_chinese: 根
+        reading: 근
+        meaning_kun: 뿌리
+        translation:
+          en: root, origin
+          ko: 뿌리
+        gender: null
+        plural: null
+        notes:
+          en: "Root. 歸根曰靜: returning to the root is called stillness."
+          ko: "뿌리. 歸根曰靜: 뿌리로 돌아감을 고요함이라 한다."
+      - classical_chinese: 素
+        reading: 소
+        meaning_kun: 흰
+        translation:
+          en: plain, unadorned, raw silk
+          ko: 소박한, 흰
+        gender: null
+        plural: null
+        notes:
+          en: "Plain or unadorned. 見素抱樸: see simplicity, embrace the uncarved."
+          ko: "소박한. 見素抱樸: 소박함을 보이고 통나무를 품다."
+      - classical_chinese: 抱
+        reading: 포
+        meaning_kun: 안을
+        translation:
+          en: to embrace, to hold
+          ko: 안다, 품다
+        gender: null
+        plural: null
+        notes:
+          en: "To embrace. 抱一: to embrace oneness. 見素抱樸: embrace simplicity."
+          ko: "안다. 抱一: 하나를 품다. 見素抱樸: 소박함을 품다."
+      - classical_chinese: 損
+        reading: 손
+        meaning_kun: 덜
+        translation:
+          en: to diminish, to reduce
+          ko: 덜다
+        gender: null
+        plural: null
+        notes:
+          en: "To reduce. 爲學日益爲道日損: study daily increases, the Way daily diminishes."
+          ko: "덜다. 爲學日益爲道日損: 학문은 날로 더하고, 도는 날로 덜어낸다."
+      - classical_chinese: 益
+        reading: 익
+        meaning_kun: 더할
+        translation:
+          en: to increase, benefit
+          ko: 더하다, 이익
+        gender: null
+        plural: null
+        notes:
+          en: "To increase. 損 and 益 form a key paradox in Laozi."
+          ko: "더하다. 損과 益은 노자에서 핵심적인 역설을 이룸."

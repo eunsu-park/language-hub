@@ -1,0 +1,572 @@
+lesson: 02_Basic_Characters_Nature_and_Numbers
+lesson_number: 2
+hanja_level: L5
+categories:
+- id: nature_characters
+  label:
+    en: Nature Characters
+    ko: 자연 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 天
+    reading: 천
+    meaning_kun: 하늘
+    translation:
+      en: heaven; sky
+      ko: 하늘
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a person with an emphasis on the head (top), representing the sky above."
+      ko: "사람 위를 강조한 상형자로, 머리 위의 하늘을 나타냄."
+  - classical_chinese: 地
+    reading: 지
+    meaning_kun: 땅
+    translation:
+      en: earth; ground
+      ko: 땅
+    gender: null
+    plural: null
+    notes:
+      en: "Phono-semantic compound. Earth radical (土) + 也 (sound)."
+      ko: "형성자. 흙 부수(土) + 也(음)."
+  - classical_chinese: 日
+    reading: 일
+    meaning_kun: 날
+    translation:
+      en: sun; day
+      ko: 해; 날
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of the sun. Also means 'day'."
+      ko: "해의 상형자. '날'이라는 뜻도 있음."
+  - classical_chinese: 月
+    reading: 월
+    meaning_kun: 달
+    translation:
+      en: moon; month
+      ko: 달
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of the crescent moon. Also means 'month'."
+      ko: "초승달의 상형자. '월(개월)'이라는 뜻도 있음."
+  - classical_chinese: 山
+    reading: 산
+    meaning_kun: 메
+    translation:
+      en: mountain
+      ko: 산
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of three mountain peaks."
+      ko: "산봉우리 세 개를 본뜬 상형자."
+  - classical_chinese: 水
+    reading: 수
+    meaning_kun: 물
+    translation:
+      en: water
+      ko: 물
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of flowing water."
+      ko: "흐르는 물의 상형자."
+  - classical_chinese: 火
+    reading: 화
+    meaning_kun: 불
+    translation:
+      en: fire
+      ko: 불
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of flames rising."
+      ko: "솟아오르는 불꽃의 상형자."
+  - classical_chinese: 木
+    reading: 목
+    meaning_kun: 나무
+    translation:
+      en: tree; wood
+      ko: 나무
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a tree with branches above and roots below."
+      ko: "위에 가지, 아래에 뿌리가 있는 나무의 상형자."
+  - classical_chinese: 金
+    reading: 금
+    meaning_kun: 쇠
+    translation:
+      en: metal; gold
+      ko: 쇠; 금
+    gender: null
+    plural: null
+    notes:
+      en: "Represents metal or gold. One of the Five Elements (五行)."
+      ko: "금속이나 금을 나타냄. 오행(五行)의 하나."
+  - classical_chinese: 土
+    reading: 토
+    meaning_kun: 흙
+    translation:
+      en: earth; soil
+      ko: 흙
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a mound of earth. One of the Five Elements (五行)."
+      ko: "흙더미의 상형자. 오행(五行)의 하나."
+  - classical_chinese: 風
+    reading: 풍
+    meaning_kun: 바람
+    translation:
+      en: wind
+      ko: 바람
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted an insect carried by wind. Represents wind."
+      ko: "원래 바람에 실려 가는 벌레를 나타냄. 바람을 뜻함."
+  - classical_chinese: 雨
+    reading: 우
+    meaning_kun: 비
+    translation:
+      en: rain
+      ko: 비
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of raindrops falling from clouds."
+      ko: "구름에서 빗방울이 떨어지는 상형자."
+  - classical_chinese: 雪
+    reading: 설
+    meaning_kun: 눈
+    translation:
+      en: snow
+      ko: 눈
+    gender: null
+    plural: null
+    notes:
+      en: "Rain radical (雨) + 彐. Snow falling from the sky."
+      ko: "비 부수(雨) + 彐. 하늘에서 내리는 눈."
+  - classical_chinese: 雲
+    reading: 운
+    meaning_kun: 구름
+    translation:
+      en: cloud
+      ko: 구름
+    gender: null
+    plural: null
+    notes:
+      en: "Rain radical (雨) + 云 (sound). Clouds in the sky."
+      ko: "비 부수(雨) + 云(음). 하늘의 구름."
+  - classical_chinese: 星
+    reading: 성
+    meaning_kun: 별
+    translation:
+      en: star
+      ko: 별
+    gender: null
+    plural: null
+    notes:
+      en: "Sun radical (日) + 生 (sound). Celestial body that shines."
+      ko: "해 부수(日) + 生(음). 빛나는 천체."
+  - classical_chinese: 石
+    reading: 석
+    meaning_kun: 돌
+    translation:
+      en: stone; rock
+      ko: 돌
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a stone beneath a cliff."
+      ko: "절벽 아래의 돌을 나타낸 상형자."
+  - classical_chinese: 川
+    reading: 천
+    meaning_kun: 내
+    translation:
+      en: stream; river
+      ko: 내; 시내
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of flowing water between banks."
+      ko: "둑 사이로 흐르는 물의 상형자."
+  - classical_chinese: 海
+    reading: 해
+    meaning_kun: 바다
+    translation:
+      en: sea; ocean
+      ko: 바다
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 每 (sound). Large body of water."
+      ko: "물 부수(氵) + 每(음). 큰 물."
+- id: number_characters
+  label:
+    en: Number Characters
+    ko: 숫자 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 一
+    reading: 일
+    meaning_kun: 한
+    translation:
+      en: one
+      ko: 하나
+    gender: null
+    plural: null
+    notes:
+      en: "A single horizontal stroke represents the number one."
+      ko: "하나의 가로획으로 숫자 1을 나타냄."
+  - classical_chinese: 二
+    reading: 이
+    meaning_kun: 두
+    translation:
+      en: two
+      ko: 둘
+    gender: null
+    plural: null
+    notes:
+      en: "Two horizontal strokes represent the number two."
+      ko: "두 개의 가로획으로 숫자 2를 나타냄."
+  - classical_chinese: 三
+    reading: 삼
+    meaning_kun: 석
+    translation:
+      en: three
+      ko: 셋
+    gender: null
+    plural: null
+    notes:
+      en: "Three horizontal strokes represent the number three."
+      ko: "세 개의 가로획으로 숫자 3을 나타냄."
+  - classical_chinese: 四
+    reading: 사
+    meaning_kun: 넉
+    translation:
+      en: four
+      ko: 넷
+    gender: null
+    plural: null
+    notes:
+      en: "Originally a pictograph; the modern form is a phonetic loan."
+      ko: "원래는 상형자였으나, 현재 형태는 가차자."
+  - classical_chinese: 五
+    reading: 오
+    meaning_kun: 다섯
+    translation:
+      en: five
+      ko: 다섯
+    gender: null
+    plural: null
+    notes:
+      en: "Represents the five elements (五行) intersection of heaven and earth."
+      ko: "천지 교차를 나타내며 오행(五行)을 상징."
+  - classical_chinese: 六
+    reading: 육
+    meaning_kun: 여섯
+    translation:
+      en: six
+      ko: 여섯
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted a shelter; borrowed for the number six."
+      ko: "원래 집을 나타냈으나 숫자 6으로 가차됨."
+  - classical_chinese: 七
+    reading: 칠
+    meaning_kun: 일곱
+    translation:
+      en: seven
+      ko: 일곱
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted cutting; borrowed for the number seven."
+      ko: "원래 자르다를 뜻했으나 숫자 7로 가차됨."
+  - classical_chinese: 八
+    reading: 팔
+    meaning_kun: 여덟
+    translation:
+      en: eight
+      ko: 여덟
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of dividing; two strokes separating."
+      ko: "나누는 모양의 상형자. 두 획이 갈라지는 형태."
+  - classical_chinese: 九
+    reading: 구
+    meaning_kun: 아홉
+    translation:
+      en: nine
+      ko: 아홉
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a bent arm. Borrowed for the number nine."
+      ko: "구부린 팔의 상형자. 숫자 9로 가차됨."
+  - classical_chinese: 十
+    reading: 십
+    meaning_kun: 열
+    translation:
+      en: ten
+      ko: 열
+    gender: null
+    plural: null
+    notes:
+      en: "A cross shape representing completeness; the number ten."
+      ko: "완전함을 나타내는 십자 모양. 숫자 10."
+  - classical_chinese: 百
+    reading: 백
+    meaning_kun: 온
+    translation:
+      en: hundred
+      ko: 백
+    gender: null
+    plural: null
+    notes:
+      en: "One (一) on top of 白. Represents one hundred."
+      ko: "一이 白 위에 있는 형태. 백(100)을 나타냄."
+  - classical_chinese: 千
+    reading: 천
+    meaning_kun: 즈믄
+    translation:
+      en: thousand
+      ko: 천
+    gender: null
+    plural: null
+    notes:
+      en: "Person (人) with a horizontal stroke. Represents one thousand."
+      ko: "사람(人)에 가로획을 더한 형태. 천(1000)을 나타냄."
+  - classical_chinese: 萬
+    reading: 만
+    meaning_kun: 일만
+    translation:
+      en: ten thousand
+      ko: 만
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted a scorpion; borrowed for 'ten thousand'."
+      ko: "원래 전갈을 나타냈으나 '만(10000)'으로 가차됨."
+- id: directional_characters
+  label:
+    en: Directional Characters
+    ko: 방향 한자
+  type: vocabulary
+  words:
+  - classical_chinese: 上
+    reading: 상
+    meaning_kun: 윗
+    translation:
+      en: above; upper
+      ko: 위
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character. A mark above a baseline means 'up'."
+      ko: "지사자. 기준선 위의 표시가 '위'를 나타냄."
+  - classical_chinese: 下
+    reading: 하
+    meaning_kun: 아래
+    translation:
+      en: below; lower
+      ko: 아래
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character. A mark below a baseline means 'down'."
+      ko: "지사자. 기준선 아래의 표시가 '아래'를 나타냄."
+  - classical_chinese: 中
+    reading: 중
+    meaning_kun: 가운데
+    translation:
+      en: middle; center
+      ko: 가운데
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a flagpole through the center of a frame."
+      ko: "틀 가운데를 관통하는 깃대의 상형자."
+  - classical_chinese: 大
+    reading: 대
+    meaning_kun: 큰
+    translation:
+      en: big; great
+      ko: 크다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a person with arms outstretched, indicating 'big'."
+      ko: "팔을 벌린 사람의 상형자로, '크다'를 나타냄."
+  - classical_chinese: 小
+    reading: 소
+    meaning_kun: 작을
+    translation:
+      en: small; little
+      ko: 작다
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of something divided into small pieces."
+      ko: "작은 조각으로 나뉜 모양의 상형자."
+  - classical_chinese: 左
+    reading: 좌
+    meaning_kun: 왼
+    translation:
+      en: left
+      ko: 왼쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Left hand + work (工). The left hand assists."
+      ko: "왼손 + 工(일). 왼손이 돕는 모양."
+  - classical_chinese: 右
+    reading: 우
+    meaning_kun: 오른
+    translation:
+      en: right
+      ko: 오른쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Right hand + mouth (口). The right hand eats."
+      ko: "오른손 + 口(입). 오른손으로 먹는 모양."
+  - classical_chinese: 東
+    reading: 동
+    meaning_kun: 동녘
+    translation:
+      en: east
+      ko: 동쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Sun (日) rising through a tree (木). The direction of sunrise."
+      ko: "나무(木) 사이로 해(日)가 뜨는 모양. 해 뜨는 방향."
+  - classical_chinese: 西
+    reading: 서
+    meaning_kun: 서녘
+    translation:
+      en: west
+      ko: 서쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a bird nesting at sunset. The direction of sunset."
+      ko: "해질 무렵 새가 둥지에 앉는 상형자. 해 지는 방향."
+  - classical_chinese: 南
+    reading: 남
+    meaning_kun: 남녘
+    translation:
+      en: south
+      ko: 남쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Originally depicted a musical instrument; borrowed for 'south'."
+      ko: "원래 악기를 나타냈으나 '남쪽'으로 가차됨."
+  - classical_chinese: 北
+    reading: 북
+    meaning_kun: 북녘
+    translation:
+      en: north
+      ko: 북쪽
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of two people back-to-back. Original meaning was 'back'; borrowed for 'north'."
+      ko: "두 사람이 등을 맞댄 상형자. 본래 '등'을 뜻했으나 '북쪽'으로 가차됨."
+  - classical_chinese: 前
+    reading: 전
+    meaning_kun: 앞
+    translation:
+      en: front; before
+      ko: 앞
+    gender: null
+    plural: null
+    notes:
+      en: "Foot (止) advancing + knife (刂). Moving forward."
+      ko: "발(止)이 나아가는 모양 + 刂. 앞으로 나아감."
+  - classical_chinese: 後
+    reading: 후
+    meaning_kun: 뒤
+    translation:
+      en: behind; after
+      ko: 뒤
+    gender: null
+    plural: null
+    notes:
+      en: "Walk radical (彳) + 幺 + 夊 (slow foot). Falling behind."
+      ko: "걸을 부수(彳) + 幺 + 夊(느린 발). 뒤처지는 모양."
+  - classical_chinese: 內
+    reading: 내
+    meaning_kun: 안
+    translation:
+      en: inside; inner
+      ko: 안
+    gender: null
+    plural: null
+    notes:
+      en: "Entering (入) a space (冂). Inside."
+      ko: "공간(冂) 안으로 들어가는(入) 모양. 안쪽."
+  - classical_chinese: 外
+    reading: 외
+    meaning_kun: 바깥
+    translation:
+      en: outside; outer
+      ko: 바깥
+    gender: null
+    plural: null
+    notes:
+      en: "Evening (夕) + divination (卜). Fortune-telling done outside at night."
+      ko: "저녁(夕) + 점(卜). 밤에 밖에서 점치는 모양."
+  - classical_chinese: 長
+    reading: 장
+    meaning_kun: 긴
+    translation:
+      en: long; elder
+      ko: 길다; 어른
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a person with long hair. Means 'long' or 'elder'."
+      ko: "긴 머리카락을 가진 사람의 상형자. '길다' 또는 '어른'을 뜻함."
+  - classical_chinese: 短
+    reading: 단
+    meaning_kun: 짧을
+    translation:
+      en: short
+      ko: 짧다
+    gender: null
+    plural: null
+    notes:
+      en: "Arrow radical (矢) + 豆 (sound). An arrow is short compared to a spear."
+      ko: "화살 부수(矢) + 豆(음). 창에 비해 화살이 짧다는 뜻."
+  - classical_chinese: 遠
+    reading: 원
+    meaning_kun: 멀
+    translation:
+      en: far; distant
+      ko: 멀다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk radical (辶) + 袁 (sound). Walking a great distance."
+      ko: "갈 부수(辶) + 袁(음). 먼 거리를 걷는 모양."
+  - classical_chinese: 近
+    reading: 근
+    meaning_kun: 가까울
+    translation:
+      en: near; close
+      ko: 가깝다
+    gender: null
+    plural: null
+    notes:
+      en: "Walk radical (辶) + 斤 (sound). A short distance."
+      ko: "갈 부수(辶) + 斤(음). 가까운 거리."

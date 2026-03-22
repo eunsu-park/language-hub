@@ -1,0 +1,456 @@
+lesson: 01_Introduction_to_Hanja_and_Radicals
+lesson_number: 1
+hanja_level: L5
+categories:
+- id: basic_radicals
+  label:
+    en: Basic Radicals (20 Major Radicals)
+    ko: 기본 부수 (주요 20부수)
+  type: vocabulary
+  words:
+  - classical_chinese: 人
+    reading: 인
+    meaning_kun: 사람
+    translation:
+      en: person
+      ko: 사람
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #9. Pictograph of a person standing sideways."
+      ko: "부수 제9번. 사람이 옆으로 선 모양의 상형자."
+  - classical_chinese: 口
+    reading: 구
+    meaning_kun: 입
+    translation:
+      en: mouth
+      ko: 입
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #30. Pictograph of an open mouth."
+      ko: "부수 제30번. 입을 벌린 모양의 상형자."
+  - classical_chinese: 山
+    reading: 산
+    meaning_kun: 메
+    translation:
+      en: mountain
+      ko: 산
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #46. Pictograph of three mountain peaks."
+      ko: "부수 제46번. 산봉우리 세 개를 본뜬 상형자."
+  - classical_chinese: 水
+    reading: 수
+    meaning_kun: 물
+    translation:
+      en: water
+      ko: 물
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #85. Pictograph of flowing water. As a left radical, written as 氵."
+      ko: "부수 제85번. 흐르는 물의 상형자. 왼쪽 부수로 쓰일 때는 氵."
+  - classical_chinese: 火
+    reading: 화
+    meaning_kun: 불
+    translation:
+      en: fire
+      ko: 불
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #86. Pictograph of flames. As a bottom radical, written as 灬."
+      ko: "부수 제86번. 불꽃의 상형자. 아래 부수로 쓰일 때는 灬."
+  - classical_chinese: 木
+    reading: 목
+    meaning_kun: 나무
+    translation:
+      en: tree; wood
+      ko: 나무
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #75. Pictograph of a tree with branches and roots."
+      ko: "부수 제75번. 가지와 뿌리가 있는 나무의 상형자."
+  - classical_chinese: 金
+    reading: 금
+    meaning_kun: 쇠
+    translation:
+      en: metal; gold
+      ko: 쇠; 금
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #167. Represents metal or gold."
+      ko: "부수 제167번. 금속이나 금을 나타냄."
+  - classical_chinese: 土
+    reading: 토
+    meaning_kun: 흙
+    translation:
+      en: earth; soil
+      ko: 흙
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #32. Pictograph of a mound of earth."
+      ko: "부수 제32번. 흙더미의 상형자."
+  - classical_chinese: 日
+    reading: 일
+    meaning_kun: 날
+    translation:
+      en: sun; day
+      ko: 해; 날
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #72. Pictograph of the sun."
+      ko: "부수 제72번. 해의 상형자."
+  - classical_chinese: 月
+    reading: 월
+    meaning_kun: 달
+    translation:
+      en: moon; month
+      ko: 달
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #74. Pictograph of the crescent moon."
+      ko: "부수 제74번. 초승달의 상형자."
+  - classical_chinese: 心
+    reading: 심
+    meaning_kun: 마음
+    translation:
+      en: heart; mind
+      ko: 마음
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #61. Pictograph of a heart. As a left radical, written as 忄."
+      ko: "부수 제61번. 심장의 상형자. 왼쪽 부수로 쓰일 때는 忄."
+  - classical_chinese: 手
+    reading: 수
+    meaning_kun: 손
+    translation:
+      en: hand
+      ko: 손
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #64. Pictograph of a hand with fingers. As a left radical, written as 扌."
+      ko: "부수 제64번. 손가락이 있는 손의 상형자. 왼쪽 부수로 쓰일 때는 扌."
+  - classical_chinese: 目
+    reading: 목
+    meaning_kun: 눈
+    translation:
+      en: eye
+      ko: 눈
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #109. Pictograph of an eye turned vertically."
+      ko: "부수 제109번. 눈을 세로로 세운 상형자."
+  - classical_chinese: 女
+    reading: 녀
+    meaning_kun: 계집
+    translation:
+      en: woman
+      ko: 여자
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #38. Pictograph of a kneeling woman."
+      ko: "부수 제38번. 무릎 꿇은 여인의 상형자."
+  - classical_chinese: 子
+    reading: 자
+    meaning_kun: 아들
+    translation:
+      en: child; son
+      ko: 아들; 아이
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #39. Pictograph of an infant with arms outstretched."
+      ko: "부수 제39번. 팔을 벌린 아기의 상형자."
+  - classical_chinese: 言
+    reading: 언
+    meaning_kun: 말씀
+    translation:
+      en: speech; words
+      ko: 말
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #149. Represents spoken words."
+      ko: "부수 제149번. 말을 나타냄."
+  - classical_chinese: 刀
+    reading: 도
+    meaning_kun: 칼
+    translation:
+      en: knife; blade
+      ko: 칼
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #18. Pictograph of a knife. As a right radical, written as 刂."
+      ko: "부수 제18번. 칼의 상형자. 오른쪽 부수로 쓰일 때는 刂."
+  - classical_chinese: 力
+    reading: 력
+    meaning_kun: 힘
+    translation:
+      en: power; strength
+      ko: 힘
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #19. Pictograph of a muscular arm or plow."
+      ko: "부수 제19번. 근육이 있는 팔 또는 쟁기의 상형자."
+  - classical_chinese: 門
+    reading: 문
+    meaning_kun: 문
+    translation:
+      en: gate; door
+      ko: 문
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #169. Pictograph of a double-leaf door."
+      ko: "부수 제169번. 두 짝 문의 상형자."
+  - classical_chinese: 田
+    reading: 전
+    meaning_kun: 밭
+    translation:
+      en: field; rice paddy
+      ko: 밭
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #102. Pictograph of divided farmland."
+      ko: "부수 제102번. 구획된 농지의 상형자."
+- id: character_types
+  label:
+    en: Six Categories of Characters (六書 Examples)
+    ko: 육서(六書) 예시
+  type: vocabulary
+  words:
+  - classical_chinese: 象
+    reading: 상
+    meaning_kun: 코끼리
+    translation:
+      en: elephant; image
+      ko: 코끼리; 형상
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph (象形). Originally depicted an elephant."
+      ko: "상형(象形)의 예. 원래 코끼리를 본뜬 글자."
+  - classical_chinese: 上
+    reading: 상
+    meaning_kun: 윗
+    translation:
+      en: above; upper
+      ko: 위
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character (指事). A mark above a baseline indicates 'up'."
+      ko: "지사(指事)의 예. 기준선 위의 표시가 '위'를 나타냄."
+  - classical_chinese: 下
+    reading: 하
+    meaning_kun: 아래
+    translation:
+      en: below; lower
+      ko: 아래
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character (指事). A mark below a baseline indicates 'down'."
+      ko: "지사(指事)의 예. 기준선 아래의 표시가 '아래'를 나타냄."
+  - classical_chinese: 林
+    reading: 림
+    meaning_kun: 수풀
+    translation:
+      en: forest; grove
+      ko: 수풀
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Two trees (木) together represent a grove."
+      ko: "회의(會意)의 예. 나무(木) 둘이 합쳐져 수풀을 나타냄."
+  - classical_chinese: 森
+    reading: 삼
+    meaning_kun: 빽빽할
+    translation:
+      en: dense forest
+      ko: 빽빽한 숲
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Three trees (木) represent a dense forest."
+      ko: "회의(會意)의 예. 나무(木) 셋이 합쳐져 울창한 숲을 나타냄."
+  - classical_chinese: 江
+    reading: 강
+    meaning_kun: 강
+    translation:
+      en: river
+      ko: 강
+    gender: null
+    plural: null
+    notes:
+      en: "Phono-semantic compound (形聲). Water radical (氵) + 工 (gong sound)."
+      ko: "형성(形聲)의 예. 물 부수(氵) + 工(공 음)."
+  - classical_chinese: 河
+    reading: 하
+    meaning_kun: 물
+    translation:
+      en: river (Yellow River)
+      ko: 강; 황하
+    gender: null
+    plural: null
+    notes:
+      en: "Phono-semantic compound (形聲). Water radical (氵) + 可 (ha sound)."
+      ko: "형성(形聲)의 예. 물 부수(氵) + 可(하 음)."
+  - classical_chinese: 花
+    reading: 화
+    meaning_kun: 꽃
+    translation:
+      en: flower
+      ko: 꽃
+    gender: null
+    plural: null
+    notes:
+      en: "Phono-semantic compound (形聲). Grass radical (艹) + 化 (hwa sound)."
+      ko: "형성(形聲)의 예. 풀 부수(艹) + 化(화 음)."
+  - classical_chinese: 樂
+    reading: 악
+    meaning_kun: 풍류
+    translation:
+      en: music; joy
+      ko: 음악; 즐거움
+    gender: null
+    plural: null
+    notes:
+      en: "Polysemous character (轉注). Read 악 for 'music', 락 for 'joy'."
+      ko: "전주(轉注)의 예. '음악'은 악, '즐거움'은 락으로 읽음."
+  - classical_chinese: 老
+    reading: 로
+    meaning_kun: 늙을
+    translation:
+      en: old; aged
+      ko: 늙은
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character. Depicts an elderly person with a cane. Radical #125."
+      ko: "지사자. 지팡이를 짚은 노인의 모습. 부수 제125번."
+  - classical_chinese: 考
+    reading: 고
+    meaning_kun: 상고할
+    translation:
+      en: to examine; to consider
+      ko: 상고하다; 살피다
+    gender: null
+    plural: null
+    notes:
+      en: "Mutual explanation (轉注) with 老. Shares the concept of age/examination."
+      ko: "老와 전주(轉注) 관계. 오래된 것을 살핀다는 뜻을 공유."
+  - classical_chinese: 令
+    reading: 령
+    meaning_kun: 하여금
+    translation:
+      en: order; command
+      ko: 명령; 하여금
+    gender: null
+    plural: null
+    notes:
+      en: "Phonetic loan (假借). Originally meant 'to order', borrowed for other uses."
+      ko: "가차(假借)의 예. 본래 '명령'의 뜻이나 다른 용도로 차용됨."
+  - classical_chinese: 來
+    reading: 래
+    meaning_kun: 올
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+    notes:
+      en: "Phonetic loan (假借). Originally depicted wheat (麥), borrowed for 'come'."
+      ko: "가차(假借)의 예. 원래 보리(麥) 모양이나 '오다'로 차용됨."
+  - classical_chinese: 明
+    reading: 명
+    meaning_kun: 밝을
+    translation:
+      en: bright; clear
+      ko: 밝다
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Sun (日) + Moon (月) = bright."
+      ko: "회의(會意)의 예. 해(日) + 달(月) = 밝다."
+  - classical_chinese: 休
+    reading: 휴
+    meaning_kun: 쉴
+    translation:
+      en: to rest
+      ko: 쉬다
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Person (人) leaning on a tree (木) = rest."
+      ko: "회의(會意)의 예. 사람(人)이 나무(木)에 기대는 모습 = 쉬다."
+  - classical_chinese: 本
+    reading: 본
+    meaning_kun: 근본
+    translation:
+      en: root; origin; basis
+      ko: 근본; 뿌리
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character (指事). A mark at the base of a tree (木) indicates 'root'."
+      ko: "지사(指事)의 예. 나무(木) 밑에 표시하여 '뿌리'를 나타냄."
+  - classical_chinese: 末
+    reading: 말
+    meaning_kun: 끝
+    translation:
+      en: end; tip
+      ko: 끝
+    gender: null
+    plural: null
+    notes:
+      en: "Indicative character (指事). A mark at the top of a tree (木) indicates 'tip'."
+      ko: "지사(指事)의 예. 나무(木) 위에 표시하여 '끝'을 나타냄."
+  - classical_chinese: 信
+    reading: 신
+    meaning_kun: 믿을
+    translation:
+      en: trust; believe
+      ko: 믿다
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Person (人) + words (言) = trust."
+      ko: "회의(會意)의 예. 사람(人) + 말(言) = 믿다."
+  - classical_chinese: 男
+    reading: 남
+    meaning_kun: 사내
+    translation:
+      en: man; male
+      ko: 남자
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Field (田) + strength (力) = man who works the field."
+      ko: "회의(會意)의 예. 밭(田) + 힘(力) = 밭에서 일하는 남자."
+  - classical_chinese: 好
+    reading: 호
+    meaning_kun: 좋을
+    translation:
+      en: good; to like
+      ko: 좋다
+    gender: null
+    plural: null
+    notes:
+      en: "Compound ideograph (會意). Woman (女) + child (子) = good."
+      ko: "회의(會意)의 예. 여자(女) + 아이(子) = 좋다."

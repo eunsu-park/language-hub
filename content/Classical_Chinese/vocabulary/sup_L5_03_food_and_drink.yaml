@@ -1,0 +1,354 @@
+lesson: sup_L5_Food_and_Drink
+lesson_number: 103
+hanja_level: L5
+type: supplementary
+topic: Food and Drink
+categories:
+- id: grains_and_staples
+  label:
+    en: Grains and Staples
+    ko: 곡물과 주식
+  type: vocabulary
+  words:
+  - classical_chinese: 米
+    reading: 미
+    meaning_kun: 쌀
+    translation:
+      en: rice (uncooked)
+      ko: 쌀
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of rice grains. Radical #119."
+      ko: "쌀알의 상형자. 부수 제119번."
+  - classical_chinese: 飯
+    reading: 반
+    meaning_kun: 밥
+    translation:
+      en: cooked rice; meal
+      ko: 밥; 식사
+    gender: null
+    plural: null
+    notes:
+      en: "Food radical (飠) + 反. Cooked rice, also 'meal' in general."
+      ko: "음식(飠) 부수 + 反. 지은 밥, 일반적으로 '식사'도 의미."
+  - classical_chinese: 麥
+    reading: 맥
+    meaning_kun: 보리
+    translation:
+      en: wheat; barley
+      ko: 보리; 밀
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of wheat plant. Radical #199."
+      ko: "보리 이삭의 상형자. 부수 제199번."
+  - classical_chinese: 粟
+    reading: 속
+    meaning_kun: 조
+    translation:
+      en: millet
+      ko: 조
+    gender: null
+    plural: null
+    notes:
+      en: "One of the five grains (五穀). A major crop in ancient China."
+      ko: "오곡(五穀) 중 하나. 고대 중국의 주요 작물."
+  - classical_chinese: 穀
+    reading: 곡
+    meaning_kun: 곡식
+    translation:
+      en: grain; cereal
+      ko: 곡식
+    gender: null
+    plural: null
+    notes:
+      en: "General term for grain crops. 五穀 = five grains."
+      ko: "곡식의 총칭. 五穀 = 다섯 가지 곡식."
+  - classical_chinese: 豆
+    reading: 두
+    meaning_kun: 콩
+    translation:
+      en: bean; ritual vessel
+      ko: 콩; 제기
+    gender: null
+    plural: null
+    notes:
+      en: "Originally a ritual food vessel; later came to mean 'bean.'"
+      ko: "원래 제사용 그릇; 후에 '콩'을 의미하게 됨."
+  - classical_chinese: 麻
+    reading: 마
+    meaning_kun: 삼
+    translation:
+      en: hemp; flax
+      ko: 삼; 마
+    gender: null
+    plural: null
+    notes:
+      en: "Hemp plant. Used for cloth and oil. Part of the five grains."
+      ko: "삼 식물. 천과 기름에 사용. 오곡의 하나."
+  - classical_chinese: 麵
+    reading: 면
+    meaning_kun: 밀가루
+    translation:
+      en: flour; noodles
+      ko: 밀가루; 국수
+    gender: null
+    plural: null
+    notes:
+      en: "Wheat radical (麥) + 面 (face/surface). Ground wheat."
+      ko: "보리(麥) 부수 + 面(면). 갈아 만든 밀."
+- id: food_and_cooking
+  label:
+    en: Food and Cooking
+    ko: 음식과 조리
+  type: vocabulary
+  words:
+  - classical_chinese: 食
+    reading: 식
+    meaning_kun: 먹을
+    translation:
+      en: food; to eat
+      ko: 음식; 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #184. Pictograph of a vessel with food and lid."
+      ko: "부수 제184번. 뚜껑이 있는 음식 그릇의 상형자."
+  - classical_chinese: 肉
+    reading: 육
+    meaning_kun: 고기
+    translation:
+      en: meat; flesh
+      ko: 고기; 살
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #130. As a radical written as 月 (meat-moon)."
+      ko: "부수 제130번. 부수로 쓰일 때 月(육달월)로 씀."
+  - classical_chinese: 鹽
+    reading: 염
+    meaning_kun: 소금
+    translation:
+      en: salt
+      ko: 소금
+    gender: null
+    plural: null
+    notes:
+      en: "Complex character. Salt was a government monopoly in ancient China."
+      ko: "복잡한 글자. 고대 중국에서 소금은 국가 전매품이었음."
+  - classical_chinese: 醬
+    reading: 장
+    meaning_kun: 장
+    translation:
+      en: sauce; paste; fermented condiment
+      ko: 장; 된장
+    gender: null
+    plural: null
+    notes:
+      en: "酉 (liquor) radical. Fermented bean paste or soy sauce."
+      ko: "酉(술) 부수. 발효된 콩 장 또는 간장."
+  - classical_chinese: 醋
+    reading: 초
+    meaning_kun: 초
+    translation:
+      en: vinegar
+      ko: 식초
+    gender: null
+    plural: null
+    notes:
+      en: "酉 (liquor) radical + 昔. Fermented sour liquid."
+      ko: "酉(술) 부수 + 昔. 발효된 신 액체."
+  - classical_chinese: 菜
+    reading: 채
+    meaning_kun: 나물
+    translation:
+      en: vegetable; greens
+      ko: 나물; 채소
+    gender: null
+    plural: null
+    notes:
+      en: "Grass radical (艹) + 采 (to pick). Picked herbs for eating."
+      ko: "초(艹) + 采(캘 채). 뜯어서 먹는 풀."
+  - classical_chinese: 果
+    reading: 과
+    meaning_kun: 과실
+    translation:
+      en: fruit; result
+      ko: 과일; 결과
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of fruit on a tree. Also means 'result' or 'indeed.'"
+      ko: "나무 위의 열매 상형자. '결과' 또는 '과연'의 뜻도 있음."
+  - classical_chinese: 蜜
+    reading: 밀
+    meaning_kun: 꿀
+    translation:
+      en: honey
+      ko: 꿀
+    gender: null
+    plural: null
+    notes:
+      en: "Insect radical (虫) + 宓. Sweet substance from bees."
+      ko: "벌레(虫) 부수 + 宓. 벌에서 나오는 달콤한 물질."
+  - classical_chinese: 煮
+    reading: 자
+    meaning_kun: 삶을
+    translation:
+      en: to boil; to cook
+      ko: 삶다; 끓이다
+    gender: null
+    plural: null
+    notes:
+      en: "者 + fire (灬). To cook in boiling water."
+      ko: "者 + 불(灬). 끓는 물에 삶다."
+  - classical_chinese: 炒
+    reading: 초
+    meaning_kun: 볶을
+    translation:
+      en: to stir-fry; to roast
+      ko: 볶다
+    gender: null
+    plural: null
+    notes:
+      en: "Fire radical (火) + 少. To cook over high heat."
+      ko: "불(火) 부수 + 少. 센 불에 볶다."
+- id: drinks
+  label:
+    en: Drinks
+    ko: 음료
+  type: vocabulary
+  words:
+  - classical_chinese: 酒
+    reading: 주
+    meaning_kun: 술
+    translation:
+      en: wine; alcohol; liquor
+      ko: 술
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 酉. Fermented beverage. Ubiquitous in poetry."
+      ko: "물(氵) + 酉(술통). 발효 음료. 시문에서 자주 등장."
+  - classical_chinese: 茶
+    reading: 다
+    meaning_kun: 차
+    translation:
+      en: tea
+      ko: 차
+    gender: null
+    plural: null
+    notes:
+      en: "Grass radical (艹) + 余 variant. Tea culture originated in China."
+      ko: "초(艹) + 余 변형. 차 문화는 중국에서 유래."
+  - classical_chinese: 湯
+    reading: 탕
+    meaning_kun: 끓일
+    translation:
+      en: hot water; soup; broth
+      ko: "끓는 물; 국; 탕"
+    gender: null
+    plural: null
+    notes:
+      en: "Water radical (氵) + 昜. Hot liquid. Also a dynasty founder's name."
+      ko: "물(氵) + 昜. 뜨거운 액체. 상나라 건국자의 이름이기도 함."
+  - classical_chinese: 飮
+    reading: 음
+    meaning_kun: 마실
+    translation:
+      en: to drink; beverage
+      ko: 마시다; 음료
+    gender: null
+    plural: null
+    notes:
+      en: "Food radical (飠) + 欠 (yawn/mouth). To take liquid into the mouth."
+      ko: "음식(飠) + 欠(하품). 입으로 액체를 삼키다."
+  - classical_chinese: 泉
+    reading: 천
+    meaning_kun: 샘
+    translation:
+      en: spring water; fountain
+      ko: 샘물; 원천
+    gender: null
+    plural: null
+    notes:
+      en: "Natural water source. 甘泉 = sweet spring."
+      ko: "자연의 수원. 甘泉 = 단 샘."
+  - classical_chinese: 乳
+    reading: 유
+    meaning_kun: 젖
+    translation:
+      en: milk; breast
+      ko: 젖; 우유
+    gender: null
+    plural: null
+    notes:
+      en: "Child (子) suckling. Also means 'to nurse.'"
+      ko: "아이(子)가 젖을 빠는 모양. '젖먹이다'의 뜻도 있음."
+  - classical_chinese: 甘
+    reading: 감
+    meaning_kun: 달
+    translation:
+      en: sweet; pleasant
+      ko: 달다; 달콤한
+    gender: null
+    plural: null
+    notes:
+      en: "Mouth (口) with a dash inside indicating something in the mouth. Sweet taste."
+      ko: "입(口) 안에 무언가 있는 모양. 달콤한 맛."
+  - classical_chinese: 苦
+    reading: 고
+    meaning_kun: 쓸
+    translation:
+      en: bitter; suffering
+      ko: "쓰다; 고통"
+    gender: null
+    plural: null
+    notes:
+      en: "Grass radical (艹) + 古. Bitter herb. Also means 'hardship.'"
+      ko: "초(艹) + 古. 쓴 풀. '고생'의 뜻도 있음."
+  - classical_chinese: 辛
+    reading: 신
+    meaning_kun: 매울
+    translation:
+      en: spicy; pungent; bitter
+      ko: "매운; 괴로운"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a chisel. Also means 'hardship' or 'toil.'"
+      ko: "끌(정)의 상형자. '신고,' '수고'의 뜻도 있음."
+  - classical_chinese: 酸
+    reading: 산
+    meaning_kun: 실
+    translation:
+      en: sour; acid
+      ko: "시다; 신"
+    gender: null
+    plural: null
+    notes:
+      en: "酉 (liquor) radical + 夋. Sour like spoiled wine."
+      ko: "酉(술) 부수 + 夋. 상한 술처럼 신."
+  - classical_chinese: 鼎
+    reading: 정
+    meaning_kun: 솥
+    translation:
+      en: tripod cauldron; vessel
+      ko: "솥; 세발 솥"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of a three-legged bronze cooking vessel. Symbol of power."
+      ko: "세 다리가 있는 청동 솥의 상형자. 권력의 상징."
+  - classical_chinese: 器
+    reading: 기
+    meaning_kun: 그릇
+    translation:
+      en: vessel; utensil; talent
+      ko: "그릇; 기구; 재능"
+    gender: null
+    plural: null
+    notes:
+      en: "Four mouths (口) + 犬. Container. Also means 'talent' or 'capacity.'"
+      ko: "네 개의 입(口) + 犬. 용기. '재능,' '도량'의 뜻도 있음."

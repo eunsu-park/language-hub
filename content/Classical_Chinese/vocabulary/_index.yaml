@@ -1,0 +1,475 @@
+course: Classical_Chinese
+total_words: 1783
+files:
+- file: 01_introduction_to_hanja_and_radicals.yaml
+  lesson: 01_Introduction_to_Hanja_and_Radicals
+  word_count: 40
+  categories:
+  - basic_radicals
+  - character_types
+- file: 02_basic_characters_nature_and_numbers.yaml
+  lesson: 02_Basic_Characters_Nature_and_Numbers
+  word_count: 50
+  categories:
+  - nature_characters
+  - number_characters
+  - directional_characters
+- file: 03_people_body_and_actions.yaml
+  lesson: 03_People_Body_and_Actions
+  word_count: 40
+  categories:
+  - people_characters
+  - body_characters
+  - action_characters
+- file: 04_common_compounds_and_sino_korean_words.yaml
+  lesson: 04_Common_Compounds_and_Sino_Korean_Words
+  word_count: 43
+  categories:
+  - education_compounds
+  - society_compounds
+  - nature_compounds
+  - daily_compounds
+- file: 05_reading_simple_sentences.yaml
+  lesson: 05_Reading_Simple_Sentences
+  word_count: 34
+  categories:
+  - sentence_structure_words
+  - basic_verbs
+  - basic_adjectives
+- file: 06_function_words.yaml
+  lesson: 06_Function_Words
+  word_count: 24
+  categories:
+  - structural_particles
+  - mood_particles
+  - connectives
+- file: 07_sentence_patterns_i_statements.yaml
+  lesson: 07_Sentence_Patterns_I_Statements
+  word_count: 35
+  categories:
+  - basic_verbs
+  - descriptive_words
+  - adverbs
+- file: 08_sentence_patterns_ii_negation.yaml
+  lesson: 08_Sentence_Patterns_II_Negation
+  word_count: 25
+  categories:
+  - negation_words
+  - verbs_for_practice
+  - double_negation_examples
+- file: 09_sentence_patterns_iii_questions.yaml
+  lesson: 09_Sentence_Patterns_III_Questions
+  word_count: 24
+  categories:
+  - interrogative_words
+  - question_markers
+  - response_words
+- file: 10_korean_reading_methods.yaml
+  lesson: 10_Korean_Reading_Methods
+  word_count: 29
+  categories:
+  - reading_terminology
+  - grammatical_particles_hanto
+  - practice_passage_words
+- file: 11_selections_from_the_analects.yaml
+  lesson: 11_Selections_from_the_Analects
+  word_count: 35
+  categories:
+  - analects_vocabulary
+  - confucian_values
+  - analects_key_terms
+- file: 12_mencius_and_confucian_classics.yaml
+  lesson: 12_Mencius_and_Confucian_Classics
+  word_count: 39
+  categories:
+  - mencius_vocabulary
+  - four_books_terms
+  - five_relations
+- file: 13_historical_texts.yaml
+  lesson: 13_Historical_Texts
+  word_count: 44
+  categories:
+  - historical_vocabulary
+  - shiji_terms
+  - narrative_verbs
+- file: 14_classical_poetry_i_tang_poetry.yaml
+  lesson: 14_Classical_Poetry_I_Tang_Poetry
+  word_count: 42
+  categories:
+  - poetry_forms
+  - poetic_vocabulary
+  - poet_names
+  - imagery_words
+- file: 15_rhetorical_devices_and_literary_style.yaml
+  lesson: 15_Rhetorical_Devices_and_Literary_Style
+  word_count: 33
+  categories:
+  - rhetoric_terms
+  - literary_style
+  - descriptive_words
+- file: 16_advanced_function_words_and_syntax.yaml
+  lesson: 16_Advanced_Function_Words_and_Syntax
+  word_count: 30
+  categories:
+  - advanced_particles
+  - complex_connectives
+  - clause_markers
+- file: 17_buddhist_and_daoist_texts.yaml
+  lesson: 17_Buddhist_and_Daoist_Texts
+  word_count: 41
+  categories:
+  - buddhist_vocabulary
+  - daoist_vocabulary
+  - philosophical_terms
+- file: 18_korean_classical_literature_in_hanmun.yaml
+  lesson: 18_Korean_Classical_Literature_in_Hanmun
+  word_count: 34
+  categories:
+  - korean_literary_terms
+  - famous_authors
+  - document_types
+- file: 19_four_character_idioms.yaml
+  lesson: 19_Four_Character_Idioms
+  word_count: 49
+  categories:
+  - learning_idioms
+  - character_idioms
+  - nature_idioms
+  - adversity_idioms
+- file: 20_classical_poetry_ii_advanced.yaml
+  lesson: 20_Classical_Poetry_II_Advanced
+  word_count: 36
+  categories:
+  - advanced_poetry_terms
+  - prosody_terms
+  - ci_form_terms
+  - poetic_techniques
+- file: 21_philosophical_texts_zhuangzi_and_laozi.yaml
+  lesson: 21_Philosophical_Texts_Zhuangzi_and_Laozi
+  word_count: 40
+  categories:
+  - zhuangzi_vocabulary
+  - laozi_vocabulary
+  - philosophical_concepts
+- file: 22_legal_and_administrative_texts.yaml
+  lesson: 22_Legal_and_Administrative_Texts
+  word_count: 40
+  categories:
+  - legal_terms
+  - administrative_terms
+  - document_vocabulary
+- file: 23_comparative_classical_texts.yaml
+  lesson: 23_Comparative_Classical_Texts
+  word_count: 34
+  categories:
+  - textual_criticism_terms
+  - historiography_terms
+  - comparison_vocabulary
+- file: 24_classical_chinese_composition.yaml
+  lesson: 24_Classical_Chinese_Composition
+  word_count: 34
+  categories:
+  - composition_terms
+  - writing_techniques
+  - prose_types
+- file: 25_hanja_proficiency_exam_preparation.yaml
+  lesson: 25_Hanja_Proficiency_Exam_Preparation
+  word_count: 38
+  categories:
+  - exam_terms
+  - high_level_characters
+  - review_compounds
+- file: sup_L1_01_rare_characters.yaml
+  lesson: sup_L1_Rare_Characters
+  word_count: 30
+  type: supplementary
+  topic: Rare Characters
+  cefr: L1
+  categories:
+  - rare_nouns
+  - rare_verbs_adjectives
+  - rare_abstract
+- file: sup_L1_02_archaic_expressions.yaml
+  lesson: sup_L1_Archaic_Expressions
+  word_count: 30
+  type: supplementary
+  topic: Archaic Expressions
+  cefr: L1
+  categories:
+  - archaic_pronouns
+  - archaic_verbs
+  - archaic_connectives
+- file: sup_L1_03_poetry_specialized.yaml
+  lesson: sup_L1_Poetry_Specialized
+  word_count: 30
+  type: supplementary
+  topic: Poetry Specialized
+  cefr: L1
+  categories:
+  - prosody
+  - poetic_imagery
+  - poetic_techniques
+- file: sup_L1_04_historical_institutions.yaml
+  lesson: sup_L1_Historical_Institutions
+  word_count: 26
+  type: supplementary
+  topic: Historical Institutions
+  cefr: L1
+  categories:
+  - central_government
+  - examination_system
+  - historical_systems
+- file: sup_L1_05_scientific_and_technical.yaml
+  lesson: sup_L1_Scientific_and_Technical
+  word_count: 27
+  type: supplementary
+  topic: Scientific and Technical
+  cefr: L1
+  categories:
+  - mathematics
+  - technology
+  - natural_sciences
+- file: sup_L1_06_exam_advanced_characters.yaml
+  lesson: sup_L1_Exam_Advanced_Characters
+  word_count: 30
+  type: supplementary
+  topic: Exam Advanced Characters
+  cefr: L1
+  categories:
+  - high_frequency_exam
+  - compound_characters
+  - exam_differentiation
+- file: sup_L2_01_buddhist_terminology.yaml
+  lesson: sup_L2_Buddhist_Terminology
+  word_count: 30
+  type: supplementary
+  topic: Buddhist Terminology
+  cefr: L2
+  categories:
+  - core_buddhist
+  - buddhist_practice
+  - buddhist_institutions
+- file: sup_L2_02_daoist_terminology.yaml
+  lesson: sup_L2_Daoist_Terminology
+  word_count: 30
+  type: supplementary
+  topic: Daoist Terminology
+  cefr: L2
+  categories:
+  - core_daoist
+  - daoist_practice
+  - daoist_cosmology
+- file: sup_L2_03_legal_terminology.yaml
+  lesson: sup_L2_Legal_Terminology
+  word_count: 26
+  type: supplementary
+  topic: Legal Terminology
+  cefr: L2
+  categories:
+  - legal_system
+  - crimes_offenses
+  - punishments
+- file: sup_L2_04_diplomacy_and_foreign_relations.yaml
+  lesson: sup_L2_Diplomacy_and_Foreign_Relations
+  word_count: 29
+  type: supplementary
+  topic: Diplomacy and Foreign Relations
+  cefr: L2
+  categories:
+  - diplomacy
+  - foreign_relations
+- file: sup_L2_05_philosophy_and_logic.yaml
+  lesson: sup_L2_Philosophy_and_Logic
+  word_count: 30
+  type: supplementary
+  topic: Philosophy and Logic
+  cefr: L2
+  categories:
+  - philosophical_concepts
+  - logic_argumentation
+  - philosophical_schools
+- file: sup_L2_06_classical_allusions.yaml
+  lesson: sup_L2_Classical_Allusions
+  word_count: 30
+  type: supplementary
+  topic: Classical Allusions
+  cefr: L2
+  categories:
+  - idioms_from_history
+  - idioms_from_classics
+  - proverbial_expressions
+- file: sup_L3_01_confucian_terminology.yaml
+  lesson: sup_L3_Confucian_Terminology
+  word_count: 26
+  type: supplementary
+  topic: Confucian Terminology
+  cefr: L3
+  categories:
+  - core_concepts
+  - five_relationships
+  - self_cultivation
+- file: sup_L3_02_literary_expressions.yaml
+  lesson: sup_L3_Literary_Expressions
+  word_count: 30
+  type: supplementary
+  topic: Literary Expressions
+  cefr: L3
+  categories:
+  - literary_vocabulary
+  - stylistic_terms
+  - rhetorical_devices
+- file: sup_L3_03_music_and_arts.yaml
+  lesson: sup_L3_Music_and_Arts
+  word_count: 26
+  type: supplementary
+  topic: Music and Arts
+  cefr: L3
+  categories:
+  - music
+  - visual_arts
+  - aesthetic_concepts
+- file: sup_L3_04_medicine_and_health.yaml
+  lesson: sup_L3_Medicine_and_Health
+  word_count: 28
+  type: supplementary
+  topic: Medicine and Health
+  cefr: L3
+  categories:
+  - body_organs
+  - diseases_symptoms
+  - treatment
+- file: sup_L3_05_astronomy_and_cosmology.yaml
+  lesson: sup_L3_Astronomy_and_Cosmology
+  word_count: 28
+  type: supplementary
+  topic: Astronomy and Cosmology
+  cefr: L3
+  categories:
+  - celestial_bodies
+  - cosmological_concepts
+  - five_elements
+- file: sup_L3_06_agriculture_and_economy.yaml
+  lesson: sup_L3_Agriculture_and_Economy
+  word_count: 30
+  type: supplementary
+  topic: Agriculture and Economy
+  cefr: L3
+  categories:
+  - agriculture
+  - economy_trade
+- file: sup_L4_01_government_and_society.yaml
+  lesson: sup_L4_Government_and_Society
+  word_count: 30
+  type: supplementary
+  topic: Government and Society
+  cefr: L4
+  categories:
+  - government_titles
+  - social_structure
+  - governance
+- file: sup_L4_02_emotions_and_virtues.yaml
+  lesson: sup_L4_Emotions_and_Virtues
+  word_count: 30
+  type: supplementary
+  topic: Emotions and Virtues
+  cefr: L4
+  categories:
+  - emotions
+  - virtues
+- file: sup_L4_03_education_and_scholarship.yaml
+  lesson: sup_L4_Education_and_Scholarship
+  word_count: 30
+  type: supplementary
+  topic: Education and Scholarship
+  cefr: L4
+  categories:
+  - education
+  - scholarship
+- file: sup_L4_04_geography_and_places.yaml
+  lesson: sup_L4_Geography_and_Places
+  word_count: 27
+  type: supplementary
+  topic: Geography and Places
+  cefr: L4
+  categories:
+  - landforms
+  - water_features
+  - places_and_structures
+- file: sup_L4_05_time_and_calendar.yaml
+  lesson: sup_L4_Time_and_Calendar
+  word_count: 30
+  type: supplementary
+  topic: Time and Calendar
+  cefr: L4
+  categories:
+  - heavenly_stems
+  - earthly_branches
+  - time_expressions
+- file: sup_L4_06_warfare_and_military.yaml
+  lesson: sup_L4_Warfare_and_Military
+  word_count: 30
+  type: supplementary
+  topic: Warfare and Military
+  cefr: L4
+  categories:
+  - military_ranks
+  - warfare
+  - weapons_fortifications
+- file: sup_L5_01_animals_and_nature.yaml
+  lesson: sup_L5_Animals_and_Nature
+  word_count: 30
+  type: supplementary
+  topic: Animals and Nature
+  cefr: L5
+  categories:
+  - animals
+  - plants
+  - natural_phenomena
+- file: sup_L5_02_colors_and_shapes.yaml
+  lesson: sup_L5_Colors_and_Shapes
+  word_count: 30
+  type: supplementary
+  topic: Colors and Shapes
+  cefr: L5
+  categories:
+  - colors
+  - shapes_and_forms
+- file: sup_L5_03_food_and_drink.yaml
+  lesson: sup_L5_Food_and_Drink
+  word_count: 30
+  type: supplementary
+  topic: Food and Drink
+  cefr: L5
+  categories:
+  - grains_and_staples
+  - food_and_cooking
+  - drinks
+- file: sup_L5_04_weather_and_seasons.yaml
+  lesson: sup_L5_Weather_and_Seasons
+  word_count: 27
+  type: supplementary
+  topic: Weather and Seasons
+  cefr: L5
+  categories:
+  - seasons
+  - weather
+  - climate_terms
+- file: sup_L5_05_family_and_kinship.yaml
+  lesson: sup_L5_Family_and_Kinship
+  word_count: 30
+  type: supplementary
+  topic: Family and Kinship
+  cefr: L5
+  categories:
+  - immediate_family
+  - extended_family
+  - kinship_terms
+- file: sup_L5_06_basic_tools_and_objects.yaml
+  lesson: sup_L5_Basic_Tools_and_Objects
+  word_count: 30
+  type: supplementary
+  topic: Basic Tools and Objects
+  cefr: L5
+  categories:
+  - tools
+  - household_objects

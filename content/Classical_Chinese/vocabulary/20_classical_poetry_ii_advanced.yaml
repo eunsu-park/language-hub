@@ -1,0 +1,427 @@
+lesson: "20_Classical_Poetry_II_Advanced"
+lesson_number: 20
+hanja_level: L2
+categories:
+  - id: advanced_poetry_terms
+    label:
+      en: "Advanced Poetry Forms"
+      ko: "고급 시 형식"
+    type: vocabulary
+    words:
+      - classical_chinese: 律
+        reading: 율
+        meaning_kun: 법칙
+        translation:
+          en: regulated; regulated verse
+          ko: 율, 법칙
+        gender: null
+        plural: null
+        notes:
+          en: "Regulated. 律詩 = regulated verse (8-line poem with strict tonal rules)."
+          ko: "율. 律詩 = 율시(엄격한 성률 규칙의 8행시)."
+      - classical_chinese: 排
+        reading: 배
+        meaning_kun: 밀칠
+        translation:
+          en: to arrange; extended regulated verse
+          ko: 배열하다; 배율
+        gender: null
+        plural: null
+        notes:
+          en: "To arrange. 排律 = extended regulated verse (more than 8 lines)."
+          ko: "배열하다. 排律 = 배율(8행 이상의 율시)."
+      - classical_chinese: 古
+        reading: 고
+        meaning_kun: 옛
+        translation:
+          en: old, ancient
+          ko: 옛
+        gender: null
+        plural: null
+        notes:
+          en: "Old. 古體 = old-style poetry (free from tonal regulations)."
+          ko: "옛. 古體 = 고체시(성률 규정에서 자유로운 시)."
+      - classical_chinese: 體
+        reading: 체
+        meaning_kun: 몸
+        translation:
+          en: body, form, style
+          ko: 몸, 체
+        gender: null
+        plural: null
+        notes:
+          en: "Form or style. 古體詩 = old-style poetry. 近體詩 = regulated poetry."
+          ko: "형식. 古體詩 = 고체시. 近體詩 = 근체시."
+      - classical_chinese: 近
+        reading: 근
+        meaning_kun: 가까울
+        translation:
+          en: near, recent
+          ko: 가까운
+        gender: null
+        plural: null
+        notes:
+          en: "Near/recent. 近體 = 'recent form,' i.e., regulated verse (developed in Tang)."
+          ko: "가깝다. 近體 = '근체,' 즉 율시(당나라에서 발전)."
+      - classical_chinese: 五
+        reading: 오
+        meaning_kun: 다섯
+        translation:
+          en: five
+          ko: 다섯
+        gender: null
+        plural: null
+        notes:
+          en: "Five. 五言 = pentasyllabic verse (5 characters per line)."
+          ko: "다섯. 五言 = 오언시(한 행에 5자)."
+      - classical_chinese: 七
+        reading: 칠
+        meaning_kun: 일곱
+        translation:
+          en: seven
+          ko: 일곱
+        gender: null
+        plural: null
+        notes:
+          en: "Seven. 七言 = heptasyllabic verse (7 characters per line)."
+          ko: "일곱. 七言 = 칠언시(한 행에 7자)."
+      - classical_chinese: 絕
+        reading: 절
+        meaning_kun: 끊을
+        translation:
+          en: to cut; quatrain
+          ko: 끊다; 절구
+        gender: null
+        plural: null
+        notes:
+          en: "Quatrain. 五言絕句 = pentasyllabic quatrain. 七言絕句 = heptasyllabic quatrain."
+          ko: "절구. 五言絕句 = 오언절구. 七言絕句 = 칠언절구."
+      - classical_chinese: 樂
+        reading: 악
+        meaning_kun: 풍류
+        translation:
+          en: music; joy (read 락)
+          ko: 음악; 즐거움(락)
+        gender: null
+        plural: null
+        notes:
+          en: "Music (read 악). 樂府 = Music Bureau poetry, a folk-influenced genre."
+          ko: "음악(악으로 읽음). 樂府 = 악부시, 민간 영향의 장르."
+      - classical_chinese: 府
+        reading: 부
+        meaning_kun: 관청
+        translation:
+          en: government office, storehouse
+          ko: 관청
+        gender: null
+        plural: null
+        notes:
+          en: "Government office. 樂府 = Music Bureau. 樂府詩 = Music Bureau poetry."
+          ko: "관청. 樂府 = 악부(음악 관청). 樂府詩 = 악부시."
+
+  - id: prosody_terms
+    label:
+      en: "Prosody Terms"
+      ko: "운율 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 平
+        reading: 평
+        meaning_kun: 평평할
+        translation:
+          en: level tone; flat, even
+          ko: 평성; 평평한
+        gender: null
+        plural: null
+        notes:
+          en: "Level tone. 平仄 = tonal pattern (level vs. oblique) in regulated verse."
+          ko: "평성. 平仄 = 율시의 성률 체계(평성 대 측성)."
+      - classical_chinese: 仄
+        reading: 측
+        meaning_kun: 기울
+        translation:
+          en: oblique tone; slanted
+          ko: 측성; 기울다
+        gender: null
+        plural: null
+        notes:
+          en: "Oblique tone. Includes rising (上), departing (去), and entering (入) tones."
+          ko: "측성. 상성(上), 거성(去), 입성(入)을 포함."
+      - classical_chinese: 押
+        reading: 압
+        meaning_kun: 누를
+        translation:
+          en: to press; to use rhyme
+          ko: 누르다; 운을 달다
+        gender: null
+        plural: null
+        notes:
+          en: "To press. 押韻 = to rhyme (placing rhyming characters at line ends)."
+          ko: "누르다. 押韻 = 압운(행 끝에 운자를 배치)."
+      - classical_chinese: 韻
+        reading: 운
+        meaning_kun: 운
+        translation:
+          en: rhyme
+          ko: 운
+        gender: null
+        plural: null
+        notes:
+          en: "Rhyme. 押韻 = rhyming. 韻書 = rhyme dictionary."
+          ko: "운. 押韻 = 압운. 韻書 = 운서(운 사전)."
+      - classical_chinese: 對
+        reading: 대
+        meaning_kun: 대할
+        translation:
+          en: to match; parallel couplet
+          ko: 대하다; 대구
+        gender: null
+        plural: null
+        notes:
+          en: "To match. 對仗 = parallelism (matching structure in couplets)."
+          ko: "대하다. 對仗 = 대장(대구에서 구조를 맞추는 것)."
+      - classical_chinese: 仗
+        reading: 장
+        meaning_kun: 지팡이
+        translation:
+          en: staff; to rely on; matching
+          ko: 지팡이; 의지하다
+        gender: null
+        plural: null
+        notes:
+          en: "Staff. 對仗 = tonal and structural parallelism in regulated verse."
+          ko: "지팡이. 對仗 = 율시에서의 성률적·구조적 대장."
+      - classical_chinese: 聲
+        reading: 성
+        meaning_kun: 소리
+        translation:
+          en: sound, tone, voice
+          ko: 소리
+        gender: null
+        plural: null
+        notes:
+          en: "Sound or tone. 四聲 = four tones of Middle Chinese."
+          ko: "소리. 四聲 = 중국 중고음의 사성."
+      - classical_chinese: 調
+        reading: 조
+        meaning_kun: 고를
+        translation:
+          en: tone, tune, melody; to adjust
+          ko: 곡조; 고르다
+        gender: null
+        plural: null
+        notes:
+          en: "Tone or melody. 聲調 = tonal system. Also used in 詞調 (ci melody)."
+          ko: "곡조. 聲調 = 성조 체계. 詞調(사조)에도 쓰임."
+      - classical_chinese: 格
+        reading: 격
+        meaning_kun: 격식
+        translation:
+          en: pattern, standard, form
+          ko: 격식
+        gender: null
+        plural: null
+        notes:
+          en: "Pattern or standard. 格律 = metrical rules of regulated verse."
+          ko: "격식. 格律 = 율시의 격률(운율 규칙)."
+      - classical_chinese: 拗
+        reading: 요
+        meaning_kun: 어그러질
+        translation:
+          en: deviation from tonal rules
+          ko: 어그러지다
+        gender: null
+        plural: null
+        notes:
+          en: "Tonal deviation. 拗救 = deviation and rescue (tonal compensation)."
+          ko: "어그러짐. 拗救 = 요구(성률 일탈과 보상)."
+
+  - id: ci_form_terms
+    label:
+      en: "Ci (Lyric) Form Terms"
+      ko: "사(詞) 형식 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 詞
+        reading: 사
+        meaning_kun: 말씀
+        translation:
+          en: ci poetry, lyric; words
+          ko: 사(시 형식); 말
+        gender: null
+        plural: null
+        notes:
+          en: "Ci: a lyric poetry form sung to melodies. Irregular line lengths."
+          ko: "사: 곡조에 맞춰 부르는 시 형식. 행의 길이가 불규칙."
+      - classical_chinese: 牌
+        reading: 패
+        meaning_kun: 패
+        translation:
+          en: tablet, placard; tune name marker
+          ko: 패; 패명
+        gender: null
+        plural: null
+        notes:
+          en: "Tablet. 詞牌 / 牌名 = tune name (cipai) that determines a ci's structure."
+          ko: "패. 詞牌 / 牌名 = 사의 구조를 결정하는 곡조 이름(사패)."
+      - classical_chinese: 名
+        reading: 명
+        meaning_kun: 이름
+        translation:
+          en: name, title
+          ko: 이름
+        gender: null
+        plural: null
+        notes:
+          en: "Name. 牌名 = tune name. Each cipai has fixed prosodic requirements."
+          ko: "이름. 牌名 = 패명(곡조 이름). 각 사패는 고정된 운율 요건."
+      - classical_chinese: 令
+        reading: 령
+        meaning_kun: 하여금
+        translation:
+          en: short ci form; to command
+          ko: 소령(짧은 사); 명령하다
+        gender: null
+        plural: null
+        notes:
+          en: "Short ci form. 小令 = short ci (under 58 characters)."
+          ko: "짧은 사 형식. 小令 = 소령(58자 이하의 사)."
+      - classical_chinese: 慢
+        reading: 만
+        meaning_kun: 느릴
+        translation:
+          en: slow; long ci form
+          ko: 느린; 만사
+        gender: null
+        plural: null
+        notes:
+          en: "Slow. 慢詞 = long ci form (over 91 characters). Slow, extended melodies."
+          ko: "느리다. 慢詞 = 만사(91자 이상의 긴 사). 느리고 긴 선율."
+      - classical_chinese: 闋
+        reading: 궐
+        meaning_kun: 다할
+        translation:
+          en: stanza of ci; to complete
+          ko: 단락(사의 절); 다하다
+        gender: null
+        plural: null
+        notes:
+          en: "Stanza. Ci poems have 上闋 (first stanza) and 下闋 (second stanza)."
+          ko: "단락. 사는 上闋(상궐)과 下闋(하궐)로 나뉨."
+      - classical_chinese: 曲
+        reading: 곡
+        meaning_kun: 굽을
+        translation:
+          en: tune, song; qu poetry
+          ko: 곡, 노래
+        gender: null
+        plural: null
+        notes:
+          en: "Tune. 曲 (qu) is a later song form from Yuan dynasty, more colloquial than ci."
+          ko: "곡. 曲(곡)은 원나라의 노래 형식으로 사보다 구어적."
+
+  - id: poetic_techniques
+    label:
+      en: "Poetic Techniques"
+      ko: "시적 기법"
+    type: vocabulary
+    words:
+      - classical_chinese: 起
+        reading: 기
+        meaning_kun: 일어날
+        translation:
+          en: to rise; opening (of a poem)
+          ko: 일어나다; 기(시의 시작)
+        gender: null
+        plural: null
+        notes:
+          en: "Opening. 起承轉結: opening, development, turn, conclusion."
+          ko: "시작. 起承轉結: 기(시작), 승(전개), 전(전환), 결(결론)."
+      - classical_chinese: 承
+        reading: 승
+        meaning_kun: 이을
+        translation:
+          en: to continue; development
+          ko: 잇다; 승(전개)
+        gender: null
+        plural: null
+        notes:
+          en: "Development. The second phase that continues the opening theme."
+          ko: "전개. 시작 주제를 이어가는 두 번째 단계."
+      - classical_chinese: 轉
+        reading: 전
+        meaning_kun: 구를
+        translation:
+          en: to turn; turn, pivot
+          ko: 구르다; 전(전환)
+        gender: null
+        plural: null
+        notes:
+          en: "Turn. The third phase that introduces a shift or contrast."
+          ko: "전환. 변화나 대비를 도입하는 세 번째 단계."
+      - classical_chinese: 結
+        reading: 결
+        meaning_kun: 맺을
+        translation:
+          en: to tie; conclusion
+          ko: 맺다; 결(결론)
+        gender: null
+        plural: null
+        notes:
+          en: "Conclusion. The final phase that resolves the poem."
+          ko: "결론. 시를 마무리하는 마지막 단계."
+      - classical_chinese: 用
+        reading: 용
+        meaning_kun: 쓸
+        translation:
+          en: to use; usage
+          ko: 쓰다
+        gender: null
+        plural: null
+        notes:
+          en: "To use. 用典 = using literary allusions in poetry."
+          ko: "쓰다. 用典 = 시에서 전고(고사)를 사용하는 것."
+      - classical_chinese: 景
+        reading: 경
+        meaning_kun: 볕
+        translation:
+          en: scenery, scene
+          ko: 경치
+        gender: null
+        plural: null
+        notes:
+          en: "Scenery. 寫景 = describing scenery. 借景抒情 = using scenery to express emotion."
+          ko: "경치. 寫景 = 경치 묘사. 借景抒情 = 경치를 빌려 감정을 표현."
+      - classical_chinese: 情
+        reading: 정
+        meaning_kun: 뜻
+        translation:
+          en: emotion, feeling
+          ko: 정, 감정
+        gender: null
+        plural: null
+        notes:
+          en: "Emotion. 抒情 = expressing emotion. 情景交融 = blending emotion and scenery."
+          ko: "감정. 抒情 = 서정. 情景交融 = 감정과 경치의 융합."
+      - classical_chinese: 意
+        reading: 의
+        meaning_kun: 뜻
+        translation:
+          en: meaning, intent
+          ko: 뜻, 의미
+        gender: null
+        plural: null
+        notes:
+          en: "Meaning or intent. 意境 = artistic conception, the mood of a poem."
+          ko: "뜻. 意境 = 의경(시의 예술적 분위기)."
+      - classical_chinese: 境
+        reading: 경
+        meaning_kun: 지경
+        translation:
+          en: realm, state, boundary
+          ko: 경지, 지경
+        gender: null
+        plural: null
+        notes:
+          en: "Realm. 意境 = the artistic realm created by the fusion of emotion and scene."
+          ko: "경지. 意境 = 감정과 장면의 융합으로 만들어진 예술적 경지."

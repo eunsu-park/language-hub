@@ -1,0 +1,475 @@
+lesson: "17_Buddhist_and_Daoist_Texts"
+lesson_number: 17
+hanja_level: L2
+categories:
+  - id: buddhist_vocabulary
+    label:
+      en: "Buddhist Vocabulary"
+      ko: "불교 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 佛
+        reading: 불
+        meaning_kun: 부처
+        translation:
+          en: Buddha
+          ko: 부처
+        gender: null
+        plural: null
+        notes:
+          en: "Buddha. Transliteration of Sanskrit 'Buddha.' 亻(person) + 弗 (phonetic)."
+          ko: "부처. 산스크리트어 'Buddha'의 음역. 亻(사람 인) + 弗(음부)."
+      - classical_chinese: 法
+        reading: 법
+        meaning_kun: 법
+        translation:
+          en: dharma, law, method
+          ko: 법, 진리
+        gender: null
+        plural: null
+        notes:
+          en: "Dharma: the teachings of Buddha. Also means law or method."
+          ko: "법(다르마): 부처의 가르침. 법률이나 방법의 뜻도 있음."
+      - classical_chinese: 僧
+        reading: 승
+        meaning_kun: 중
+        translation:
+          en: monk, sangha
+          ko: 승려
+        gender: null
+        plural: null
+        notes:
+          en: "Buddhist monk. From Sanskrit 'sangha.' 佛法僧 = Three Jewels."
+          ko: "승려. 산스크리트어 'sangha'에서 유래. 佛法僧 = 삼보."
+      - classical_chinese: 空
+        reading: 공
+        meaning_kun: 빌
+        translation:
+          en: emptiness, void (sunyata)
+          ko: 공, 비다
+        gender: null
+        plural: null
+        notes:
+          en: "Sunyata: the Buddhist concept of emptiness. All phenomena lack inherent existence."
+          ko: "공(수냐타): 불교의 공 개념. 모든 현상에 고유한 실체가 없음."
+      - classical_chinese: 般
+        reading: 반
+        meaning_kun: 나를
+        translation:
+          en: prajna (transcendent wisdom)
+          ko: 반야
+        gender: null
+        plural: null
+        notes:
+          en: "Used in 般若 (prajna), transcendent wisdom. Transliteration from Sanskrit."
+          ko: "般若(반야, 지혜)에 쓰임. 산스크리트어 음역."
+      - classical_chinese: 若
+        reading: 야
+        meaning_kun: 같을
+        translation:
+          en: (in 般若) prajna; like
+          ko: (般若에서) 반야; 같다
+        gender: null
+        plural: null
+        notes:
+          en: "In Buddhist context, part of 般若 (prajna). Normal reading: 약."
+          ko: "불교 문맥에서 般若(반야)의 일부. 일반 독음: 약."
+      - classical_chinese: 菩
+        reading: 보
+        meaning_kun: 보리
+        translation:
+          en: bodhi (in 菩薩 bodhisattva)
+          ko: 보리 (菩薩에서)
+        gender: null
+        plural: null
+        notes:
+          en: "Part of 菩薩 (bodhisattva). Transliteration from Sanskrit."
+          ko: "菩薩(보살)의 일부. 산스크리트어 음역."
+      - classical_chinese: 薩
+        reading: 살
+        meaning_kun: 보살
+        translation:
+          en: sattva (in 菩薩 bodhisattva)
+          ko: 살 (菩薩에서)
+        gender: null
+        plural: null
+        notes:
+          en: "Part of 菩薩 (bodhisattva), an enlightened being who helps others."
+          ko: "菩薩(보살)의 일부. 다른 존재를 돕는 깨달은 자."
+      - classical_chinese: 涅
+        reading: 열
+        meaning_kun: 물들일
+        translation:
+          en: nirvana (in 涅槃)
+          ko: 열 (涅槃에서)
+        gender: null
+        plural: null
+        notes:
+          en: "Part of 涅槃 (nirvana), the cessation of suffering."
+          ko: "涅槃(열반)의 일부. 고통의 소멸."
+      - classical_chinese: 槃
+        reading: 반
+        meaning_kun: 소반
+        translation:
+          en: (in 涅槃) nirvana
+          ko: 반 (涅槃에서)
+        gender: null
+        plural: null
+        notes:
+          en: "Part of 涅槃 (nirvana). Transliteration of Sanskrit 'nirvana.'"
+          ko: "涅槃(열반)의 일부. 산스크리트어 'nirvana' 음역."
+      - classical_chinese: 禪
+        reading: 선
+        meaning_kun: 선
+        translation:
+          en: Chan/Zen, meditation
+          ko: 선, 참선
+        gender: null
+        plural: null
+        notes:
+          en: "Chan meditation. From Sanskrit 'dhyana.' Foundation of Zen Buddhism."
+          ko: "선(참선). 산스크리트어 'dhyana'에서 유래. 선종의 기초."
+      - classical_chinese: 經
+        reading: 경
+        meaning_kun: 글
+        translation:
+          en: sutra, scripture, classic text
+          ko: 경전, 경
+        gender: null
+        plural: null
+        notes:
+          en: "Sutra or scripture. 佛經 = Buddhist scripture."
+          ko: "경전. 佛經 = 불경."
+      - classical_chinese: 寺
+        reading: 사
+        meaning_kun: 절
+        translation:
+          en: temple, monastery
+          ko: 절
+        gender: null
+        plural: null
+        notes:
+          en: "Buddhist temple. Originally meant government office."
+          ko: "절(사찰). 원래는 관청을 뜻했음."
+      - classical_chinese: 悟
+        reading: 오
+        meaning_kun: 깨달을
+        translation:
+          en: to awaken, to realize
+          ko: 깨닫다
+        gender: null
+        plural: null
+        notes:
+          en: "To awaken or realize truth. 忄(heart) + 吾 (I). 覺悟 = enlightenment."
+          ko: "진리를 깨닫다. 忄(마음 심) + 吾(나 오). 覺悟 = 깨달음."
+      - classical_chinese: 覺
+        reading: 각
+        meaning_kun: 깨달을
+        translation:
+          en: to awaken, enlightenment
+          ko: 깨달음
+        gender: null
+        plural: null
+        notes:
+          en: "Awakening. 覺悟 = enlightenment. The Buddha is 'the Awakened One.'"
+          ko: "깨달음. 覺悟 = 깨달음. 부처는 '깨달은 자.'"
+      - classical_chinese: 苦
+        reading: 고
+        meaning_kun: 쓸
+        translation:
+          en: suffering, bitter
+          ko: 고통, 쓰다
+        gender: null
+        plural: null
+        notes:
+          en: "Suffering. First of the Four Noble Truths (四諦). 苦海 = sea of suffering."
+          ko: "고통. 사성제(四諦)의 첫 번째. 苦海 = 고해."
+      - classical_chinese: 輪
+        reading: 륜
+        meaning_kun: 바퀴
+        translation:
+          en: wheel; cycle of rebirth
+          ko: 바퀴; 윤회
+        gender: null
+        plural: null
+        notes:
+          en: "Wheel. 輪迴 = samsara, the cycle of rebirth."
+          ko: "바퀴. 輪迴 = 윤회, 생사의 순환."
+      - classical_chinese: 迴
+        reading: 회
+        meaning_kun: 돌
+        translation:
+          en: to revolve, to return
+          ko: 돌다, 돌아오다
+        gender: null
+        plural: null
+        notes:
+          en: "To revolve. 輪迴 = samsara, cycle of birth and death."
+          ko: "돌다. 輪迴 = 윤회."
+
+  - id: daoist_vocabulary
+    label:
+      en: "Daoist Vocabulary"
+      ko: "도교 어휘"
+    type: vocabulary
+    words:
+      - classical_chinese: 道
+        reading: 도
+        meaning_kun: 길
+        translation:
+          en: the Way, Dao, path
+          ko: 도, 길
+        gender: null
+        plural: null
+        notes:
+          en: "The Way (Dao). Central concept of Daoism. 'The Dao that can be told is not the eternal Dao.'"
+          ko: "도(道). 도교의 핵심 개념. '도가도비상도(道可道非常道).'"
+      - classical_chinese: 德
+        reading: 덕
+        meaning_kun: 덕
+        translation:
+          en: virtue, power, moral force
+          ko: 덕
+        gender: null
+        plural: null
+        notes:
+          en: "Virtue or moral power. 道德經 = Dao De Jing (Classic of the Way and Virtue)."
+          ko: "덕. 道德經 = 도덕경(도와 덕의 경전)."
+      - classical_chinese: 無
+        reading: 무
+        meaning_kun: 없을
+        translation:
+          en: without, nothingness, non-being
+          ko: 없다, 무
+        gender: null
+        plural: null
+        notes:
+          en: "Non-being. Key Daoist concept. 無爲 = non-action (wu wei)."
+          ko: "없음. 도교의 핵심 개념. 無爲 = 무위(자연스러운 행위)."
+      - classical_chinese: 自
+        reading: 자
+        meaning_kun: 스스로
+        translation:
+          en: self, from, naturally
+          ko: 스스로, ~부터
+        gender: null
+        plural: null
+        notes:
+          en: "Self. 自然 = nature, spontaneity. Pictograph of a nose (pointing to self)."
+          ko: "스스로. 自然 = 자연. 코의 상형자(자신을 가리킴)."
+      - classical_chinese: 陰
+        reading: 음
+        meaning_kun: 그늘
+        translation:
+          en: yin, shade, dark, feminine
+          ko: 음, 그늘
+        gender: null
+        plural: null
+        notes:
+          en: "Yin: the dark, receptive, feminine principle. 陰陽 = yin and yang."
+          ko: "음: 어둡고 수용적이며 여성적인 원리. 陰陽 = 음양."
+      - classical_chinese: 陽
+        reading: 양
+        meaning_kun: 볕
+        translation:
+          en: yang, sun, bright, masculine
+          ko: 양, 볕
+        gender: null
+        plural: null
+        notes:
+          en: "Yang: the bright, active, masculine principle. Complement of 陰."
+          ko: "양: 밝고 능동적이며 남성적인 원리. 陰의 보완."
+      - classical_chinese: 氣
+        reading: 기
+        meaning_kun: 기운
+        translation:
+          en: qi, vital energy, breath
+          ko: 기, 기운
+        gender: null
+        plural: null
+        notes:
+          en: "Qi: vital energy or life force. Fundamental concept in Chinese philosophy."
+          ko: "기: 생명 에너지. 중국 철학의 근본 개념."
+      - classical_chinese: 玄
+        reading: 현
+        meaning_kun: 검을
+        translation:
+          en: dark, mysterious, profound
+          ko: 검다, 현묘한
+        gender: null
+        plural: null
+        notes:
+          en: "Mysterious and profound. 玄妙 = abstruse and subtle."
+          ko: "현묘하다. 玄妙 = 깊고 미묘하다."
+      - classical_chinese: 虛
+        reading: 허
+        meaning_kun: 빌
+        translation:
+          en: empty, void, humble
+          ko: 비다, 허무
+        gender: null
+        plural: null
+        notes:
+          en: "Empty or void. Daoist ideal state of the mind: emptied of desire."
+          ko: "비다. 도교에서 이상적 마음 상태: 욕망을 비운 것."
+      - classical_chinese: 靜
+        reading: 정
+        meaning_kun: 고요할
+        translation:
+          en: still, quiet, tranquil
+          ko: 고요한, 정적인
+        gender: null
+        plural: null
+        notes:
+          en: "Stillness. Daoist cultivation: returning to quietude. 淸靜 = pure and still."
+          ko: "고요함. 도교 수양: 고요함으로 돌아감. 淸靜 = 청정."
+      - classical_chinese: 仙
+        reading: 선
+        meaning_kun: 신선
+        translation:
+          en: immortal, transcendent being
+          ko: 신선
+        gender: null
+        plural: null
+        notes:
+          en: "Daoist immortal. 亻(person) + 山 (mountain). One who dwells in mountains."
+          ko: "도교의 신선. 亻(사람 인) + 山(뫼 산). 산에 사는 존재."
+      - classical_chinese: 丹
+        reading: 단
+        meaning_kun: 붉을
+        translation:
+          en: cinnabar, elixir, red
+          ko: 단사, 붉은
+        gender: null
+        plural: null
+        notes:
+          en: "Cinnabar. 煉丹 = alchemy (refining the elixir of immortality)."
+          ko: "단사(진사). 煉丹 = 연단술(불로불사의 영약을 만드는 술)."
+
+  - id: philosophical_terms
+    label:
+      en: "Philosophical Terms"
+      ko: "철학 용어"
+    type: vocabulary
+    words:
+      - classical_chinese: 色
+        reading: 색
+        meaning_kun: 빛
+        translation:
+          en: form, appearance, color
+          ko: 색, 형상
+        gender: null
+        plural: null
+        notes:
+          en: "Form or material appearance. 色卽是空 = form is emptiness (Heart Sutra)."
+          ko: "형상. 色卽是空 = 색즉시공(반야심경)."
+      - classical_chinese: 有
+        reading: 유
+        meaning_kun: 있을
+        translation:
+          en: to have, being, existence
+          ko: 있다, 유
+        gender: null
+        plural: null
+        notes:
+          en: "Being or existence. Contrasted with 無 (non-being) in both Buddhist and Daoist thought."
+          ko: "있음, 유. 불교와 도교에서 無(무)와 대비됨."
+      - classical_chinese: 生
+        reading: 생
+        meaning_kun: 날
+        translation:
+          en: life, to be born, to arise
+          ko: 나다, 생명
+        gender: null
+        plural: null
+        notes:
+          en: "Life or to arise. 生滅 = arising and ceasing (Buddhist impermanence)."
+          ko: "나다, 생명. 生滅 = 생멸(불교의 무상)."
+      - classical_chinese: 滅
+        reading: 멸
+        meaning_kun: 멸할
+        translation:
+          en: to extinguish, to cease
+          ko: 멸하다, 소멸
+        gender: null
+        plural: null
+        notes:
+          en: "To extinguish. 滅 is cessation of suffering in Buddhism. 生滅 = arising and ceasing."
+          ko: "멸하다. 불교에서 고통의 소멸. 生滅 = 생멸."
+      - classical_chinese: 心
+        reading: 심
+        meaning_kun: 마음
+        translation:
+          en: heart, mind
+          ko: 마음
+        gender: null
+        plural: null
+        notes:
+          en: "Heart-mind. Central to both Buddhist and Daoist practice. 心經 = Heart Sutra."
+          ko: "마음. 불교와 도교 수행의 중심. 心經 = 반야심경."
+      - classical_chinese: 性
+        reading: 성
+        meaning_kun: 성품
+        translation:
+          en: nature, innate character
+          ko: 성품, 본성
+        gender: null
+        plural: null
+        notes:
+          en: "Innate nature. 佛性 = Buddha-nature. 心性 = mind-nature."
+          ko: "본성. 佛性 = 불성. 心性 = 심성."
+      - classical_chinese: 眞
+        reading: 진
+        meaning_kun: 참
+        translation:
+          en: true, genuine, real
+          ko: 참, 진실한
+        gender: null
+        plural: null
+        notes:
+          en: "True or genuine. 眞理 = truth. 眞如 = suchness (Buddhist term)."
+          ko: "참. 眞理 = 진리. 眞如 = 진여(불교 용어)."
+      - classical_chinese: 妙
+        reading: 묘
+        meaning_kun: 묘할
+        translation:
+          en: wonderful, subtle, mysterious
+          ko: 묘하다, 미묘한
+        gender: null
+        plural: null
+        notes:
+          en: "Wonderful or subtle. 玄妙 = profound and subtle. 妙法 = wondrous dharma."
+          ko: "묘하다. 玄妙 = 현묘. 妙法 = 묘법."
+      - classical_chinese: 淨
+        reading: 정
+        meaning_kun: 깨끗할
+        translation:
+          en: pure, clean, purified
+          ko: 깨끗한
+        gender: null
+        plural: null
+        notes:
+          en: "Pure. 淨土 = Pure Land (Buddhist paradise). 淸淨 = pure and clean."
+          ko: "깨끗하다. 淨土 = 정토(극락). 淸淨 = 청정."
+      - classical_chinese: 慈
+        reading: 자
+        meaning_kun: 사랑
+        translation:
+          en: compassion, benevolence, loving
+          ko: 자비, 사랑
+        gender: null
+        plural: null
+        notes:
+          en: "Compassion. 慈悲 = compassion (Buddhist virtue). 慈母 = loving mother."
+          ko: "자비. 慈悲 = 자비(불교의 덕). 慈母 = 자모(자애로운 어머니)."
+      - classical_chinese: 悲
+        reading: 비
+        meaning_kun: 슬플
+        translation:
+          en: sorrow, compassion (Buddhist)
+          ko: 슬픔, 비(자비)
+        gender: null
+        plural: null
+        notes:
+          en: "Sorrow. In Buddhism, 慈悲 = compassion (loving-kindness + empathic sorrow)."
+          ko: "슬픔. 불교에서 慈悲 = 자비(사랑 + 공감하는 슬픔)."

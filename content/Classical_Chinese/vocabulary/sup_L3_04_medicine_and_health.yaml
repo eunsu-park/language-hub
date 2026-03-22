@@ -1,0 +1,332 @@
+lesson: sup_L3_Medicine_and_Health
+lesson_number: 116
+hanja_level: L3
+type: supplementary
+topic: Medicine and Health
+categories:
+- id: body_organs
+  label:
+    en: Body and Organs
+    ko: 신체와 장기
+  type: vocabulary
+  words:
+  - classical_chinese: 臟
+    reading: 장
+    meaning_kun: 오장
+    translation:
+      en: internal organ; viscera
+      ko: "내장; 오장"
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 藏. Internal organs. 五臟 = five viscera."
+      ko: "고기(月) + 藏. 내부 장기. 五臟 = 오장."
+  - classical_chinese: 腑
+    reading: 부
+    meaning_kun: 육부
+    translation:
+      en: hollow organ; bowels
+      ko: "육부; 부(속이 빈 장기)"
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 府. Six hollow organs. 六腑 = six bowels."
+      ko: "고기(月) + 府. 여섯 빈 장기. 六腑 = 육부."
+  - classical_chinese: 肝
+    reading: 간
+    meaning_kun: 간
+    translation:
+      en: liver
+      ko: 간
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 干. Liver. Associated with wood element."
+      ko: "고기(月) + 干. 간. 목(木) 기운에 배속."
+  - classical_chinese: 肺
+    reading: 폐
+    meaning_kun: 허파
+    translation:
+      en: lungs
+      ko: 폐; 허파
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 巿. Lungs. Associated with metal element."
+      ko: "고기(月) + 巿. 폐. 금(金) 기운에 배속."
+  - classical_chinese: 腎
+    reading: 신
+    meaning_kun: 콩팥
+    translation:
+      en: kidneys
+      ko: 콩팥; 신장
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 臣 + 又. Kidneys. Associated with water element."
+      ko: "고기(月) + 臣 + 又. 신장. 수(水) 기운에 배속."
+  - classical_chinese: 脈
+    reading: 맥
+    meaning_kun: 줄기
+    translation:
+      en: pulse; vein; lineage
+      ko: "맥; 혈관; 맥박"
+    gender: null
+    plural: null
+    notes:
+      en: "Meat (月) + 派 variant. Blood vessels. 診脈 = to take the pulse."
+      ko: "고기(月) + 派 변형. 혈관. 診脈 = 진맥."
+  - classical_chinese: 血
+    reading: 혈
+    meaning_kun: 피
+    translation:
+      en: blood
+      ko: 피; 혈액
+    gender: null
+    plural: null
+    notes:
+      en: "Dish (皿) with a drop of blood. Radical #143."
+      ko: "그릇(皿) 위의 핏방울. 부수 제143번."
+  - classical_chinese: 骨
+    reading: 골
+    meaning_kun: 뼈
+    translation:
+      en: bone; skeleton; framework
+      ko: "뼈; 골격"
+    gender: null
+    plural: null
+    notes:
+      en: "Pictograph of bones in flesh (月). Radical #188."
+      ko: "살(月) 안의 뼈 상형자. 부수 제188번."
+- id: diseases_symptoms
+  label:
+    en: Diseases and Symptoms
+    ko: 질병과 증상
+  type: vocabulary
+  words:
+  - classical_chinese: 疾
+    reading: 질
+    meaning_kun: 병
+    translation:
+      en: illness; disease; fast
+      ko: "병; 질병; 빠른"
+    gender: null
+    plural: null
+    notes:
+      en: "Sickness radical (疒) + 矢 (arrow). Struck by disease like an arrow."
+      ko: "병(疒) + 矢(화살). 화살처럼 병에 맞음."
+  - classical_chinese: 病
+    reading: 병
+    meaning_kun: 병
+    translation:
+      en: illness; sickness; defect
+      ko: "병; 질병; 결함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sickness radical (疒) + 丙. More severe than 疾."
+      ko: "병(疒) + 丙. 疾보다 더 심한 병."
+  - classical_chinese: 痛
+    reading: 통
+    meaning_kun: 아플
+    translation:
+      en: pain; ache; grief
+      ko: "아프다; 고통; 비통"
+    gender: null
+    plural: null
+    notes:
+      en: "Sickness radical (疒) + 甬. Physical or emotional pain."
+      ko: "병(疒) + 甬. 육체적 또는 정서적 고통."
+  - classical_chinese: 瘡
+    reading: 창
+    meaning_kun: 부스럼
+    translation:
+      en: sore; wound; ulcer
+      ko: "부스럼; 상처; 창(종기)"
+    gender: null
+    plural: null
+    notes:
+      en: "Sickness radical (疒) + 倉. Open sore. 瘡痍 = wounds and scars."
+      ko: "병(疒) + 倉. 헌데. 瘡痍 = 창이(상처)."
+  - classical_chinese: 毒
+    reading: 독
+    meaning_kun: 독
+    translation:
+      en: poison; venom; toxic
+      ko: "독; 독약; 해로운"
+    gender: null
+    plural: null
+    notes:
+      en: "生 variant + 母. Poisonous substance. 解毒 = detoxify."
+      ko: "生 변형 + 母. 독성 물질. 解毒 = 해독."
+  - classical_chinese: 熱
+    reading: 열
+    meaning_kun: 더울
+    translation:
+      en: heat; fever; passion
+      ko: "열; 더운; 열정"
+    gender: null
+    plural: null
+    notes:
+      en: "埶 + fire (灬). Body heat. 發熱 = to have a fever."
+      ko: "埶 + 불(灬). 체열. 發熱 = 발열."
+  - classical_chinese: 寒
+    reading: 한
+    meaning_kun: 찰
+    translation:
+      en: cold; chill (medical)
+      ko: "한; 추위; 한기"
+    gender: null
+    plural: null
+    notes:
+      en: "Cold pathogen in traditional medicine. 傷寒 = typhoid/cold damage."
+      ko: "전통 의학의 한(寒) 사기. 傷寒 = 상한."
+  - classical_chinese: 濕
+    reading: 습
+    meaning_kun: 축축할
+    translation:
+      en: damp; moisture; humid
+      ko: "축축한; 습기; 습한"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 顯 variant. Dampness as a pathogen."
+      ko: "물(氵) + 顯 변형. 병인(病因)으로서의 습기."
+- id: treatment
+  label:
+    en: Treatment and Medicine
+    ko: 치료와 약
+  type: vocabulary
+  words:
+  - classical_chinese: 醫
+    reading: 의
+    meaning_kun: 의원
+    translation:
+      en: medicine; doctor; to cure
+      ko: "의술; 의사; 치료하다"
+    gender: null
+    plural: null
+    notes:
+      en: "匸 + 矢 + 殳 + 酉. Arrows removed with alcohol. 醫術 = medical art."
+      ko: "匸 + 矢 + 殳 + 酉. 술로 화살을 빼냄. 醫術 = 의술."
+  - classical_chinese: 藥
+    reading: 약
+    meaning_kun: 약
+    translation:
+      en: medicine; drug; herb
+      ko: "약; 약초"
+    gender: null
+    plural: null
+    notes:
+      en: "Grass (艹) + 樂. Herbal medicine. 本草 = materia medica."
+      ko: "초(艹) + 樂. 약초. 本草 = 본초."
+  - classical_chinese: 針
+    reading: 침
+    meaning_kun: 바늘
+    translation:
+      en: acupuncture needle; needle
+      ko: "침; 바늘; 침술"
+    gender: null
+    plural: null
+    notes:
+      en: "Metal (金) + 十. Acupuncture needle. 鍼灸 = acupuncture and moxibustion."
+      ko: "쇠(金) + 十. 침술 바늘. 鍼灸 = 침구."
+  - classical_chinese: 灸
+    reading: 구
+    meaning_kun: 뜸
+    translation:
+      en: moxibustion; to cauterize
+      ko: "뜸; 쑥뜸"
+    gender: null
+    plural: null
+    notes:
+      en: "久 (long) + fire (灬). Burning moxa on acupuncture points."
+      ko: "久(오랠 구) + 불(灬). 경혈에 쑥을 태움."
+  - classical_chinese: 湯
+    reading: 탕
+    meaning_kun: 끓일
+    translation:
+      en: decoction; medicinal broth
+      ko: "탕약; 달인 약"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 昜. Herbal decoction. 處方 = prescription."
+      ko: "물(氵) + 昜. 약초 달인 물. 處方 = 처방."
+  - classical_chinese: 丸
+    reading: 환
+    meaning_kun: 알약
+    translation:
+      en: pill; ball; pellet
+      ko: "환약; 알약; 둥근 것"
+    gender: null
+    plural: null
+    notes:
+      en: "九 + dot. Round medicinal pill."
+      ko: "九 + 점. 둥근 약알."
+  - classical_chinese: 散
+    reading: 산
+    meaning_kun: 흩을
+    translation:
+      en: powder (medicine); to scatter
+      ko: "산제(가루약); 흩다"
+    gender: null
+    plural: null
+    notes:
+      en: "月 + 攵. Medicinal powder. 散藥 = powdered medicine."
+      ko: "月 + 攵. 약 가루. 散藥 = 산약."
+  - classical_chinese: 穴
+    reading: 혈
+    meaning_kun: 구멍
+    translation:
+      en: acupoint; cave; hole
+      ko: "혈자리; 동굴; 구멍"
+    gender: null
+    plural: null
+    notes:
+      en: "Radical #116. Acupuncture point on the body."
+      ko: "부수 제116번. 몸의 침 놓는 자리."
+  - classical_chinese: 補
+    reading: 보
+    meaning_kun: 기울
+    translation:
+      en: to supplement; to tonify; to mend
+      ko: "보하다; 보충하다; 기우다"
+    gender: null
+    plural: null
+    notes:
+      en: "Clothing (衤) + 甫. To patch/strengthen. 補藥 = tonic medicine."
+      ko: "옷(衤) + 甫. 기우다/보강하다. 補藥 = 보약."
+  - classical_chinese: 瀉
+    reading: 사
+    meaning_kun: 쏟을
+    translation:
+      en: to purge; to drain; diarrhea
+      ko: "쏟다; 사하다; 설사"
+    gender: null
+    plural: null
+    notes:
+      en: "Water (氵) + 寫. To drain excess. Opposite of 補 in medicine."
+      ko: "물(氵) + 寫. 과한 것을 빼냄. 의학에서 補의 반대."
+  - classical_chinese: 養
+    reading: 양
+    meaning_kun: 기를
+    translation:
+      en: to nourish; to nurture; health
+      ko: "기르다; 양생하다; 건강"
+    gender: null
+    plural: null
+    notes:
+      en: "Food (食) + 羊. 養生 = nourishing life/health cultivation."
+      ko: "음식(食) + 羊. 養生 = 양생."
+  - classical_chinese: 壽
+    reading: 수
+    meaning_kun: 목숨
+    translation:
+      en: longevity; long life; birthday
+      ko: "장수; 수명; 생일"
+    gender: null
+    plural: null
+    notes:
+      en: "Long life. 長壽 = longevity. One of five blessings (五福)."
+      ko: "오래 삶. 長壽 = 장수. 오복(五福) 중 하나."
