@@ -18,6 +18,7 @@ A language learning content repository. Publishes structured vocabulary, grammar
 | EN Content | English content exists and is high quality / 영문 콘텐츠가 존재하고 양질인지 |
 | KO Translation | Korean translation is correct / 한글 번역이 올바른지 |
 | Vocabulary Count | Vocabulary word count is sufficient / 단어의 수가 충분한지 |
+| Grammar Data | Grammar data exists and is non-empty / Grammar 데이터 존재 및 비어있지 않은지 |
 
 ---
 
