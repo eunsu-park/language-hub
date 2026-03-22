@@ -1,0 +1,1220 @@
+# Classical Chinese (漢文) Grammar Rules
+# Function words, sentence patterns, negation, questions, rhetorical devices,
+# classical text patterns, and composition rules
+
+rules:
+  # ============================================================
+  # 1. FUNCTION WORDS (虛詞)
+  # ============================================================
+  function_words:
+    id: function_words
+    label:
+      en: "Function Words (虛詞)"
+      ko: "허사 (虛詞)"
+    category: particles
+    hanja_level: L4
+    description:
+      en: "Classical Chinese function words (虛詞/허사) are grammatical particles that indicate relationships between content words. Unlike content words (實詞), function words carry no independent lexical meaning but serve essential syntactic roles: marking possession, signaling sentence type, connecting clauses, and indicating mood or aspect."
+      ko: "한문의 허사(虛詞)는 실사(實詞) 간의 문법적 관계를 나타내는 조사로, 독립적인 어휘적 의미 없이 소유 표시, 문장 유형 신호, 절 연결, 어기·상(相) 표시 등 필수적인 통사적 역할을 수행한다."
+    particles:
+      - particle: 之
+        reading: 지
+        functions:
+          - label:
+              en: "Possessive marker"
+              ko: "관형격 조사"
+            example:
+              sentence: "孔子之道"
+              reading: "공자지도"
+              translation:
+                en: "the Way of Confucius"
+                ko: "공자의 도"
+          - label:
+              en: "Object pronoun (it, him, them)"
+              ko: "목적격 대명사 (그것을)"
+            example:
+              sentence: "學而時習之"
+              reading: "학이시습지"
+              translation:
+                en: "Study and regularly practice it"
+                ko: "배우고 때때로 익히다"
+          - label:
+              en: "Structural particle (between subject and predicate for emphasis)"
+              ko: "구조 조사 (주어와 술어 사이 강조)"
+            example:
+              sentence: "大道之行也"
+              reading: "대도지행야"
+              translation:
+                en: "When the Great Way is practiced"
+                ko: "대도가 행해질 때"
+        notes:
+          en: "之 is the most versatile function word in Classical Chinese. Its meaning depends entirely on context: possessive ('s/of), pronoun (it/him/them), or structural filler."
+          ko: "之는 한문에서 가장 다용도인 허사이다. 의미는 전적으로 문맥에 따라 달라진다: 관형격(~의), 대명사(그것을), 또는 구조적 충전사."
+
+      - particle: 乎
+        reading: 호
+        functions:
+          - label:
+              en: "Interrogative sentence-final particle"
+              ko: "의문 어기사"
+            example:
+              sentence: "不亦樂乎"
+              reading: "불역락호"
+              translation:
+                en: "Is it not also joyful?"
+                ko: "또한 즐겁지 아니한가?"
+          - label:
+              en: "Exclamatory particle"
+              ko: "감탄 어기사"
+            example:
+              sentence: "善哉乎"
+              reading: "선재호"
+              translation:
+                en: "How excellent!"
+                ko: "훌륭하도다!"
+          - label:
+              en: "Preposition (at, in, from)"
+              ko: "전치사 (~에, ~에서)"
+            example:
+              sentence: "生乎吾前"
+              reading: "생호오전"
+              translation:
+                en: "Born before me"
+                ko: "나보다 먼저 태어난"
+        notes:
+          en: "When used as a preposition, 乎 is interchangeable with 於/于. As a sentence-final particle, it signals a question or rhetorical exclamation."
+          ko: "전치사로 쓰일 때 乎는 於/于와 호환된다. 문말 조사로는 의문 또는 수사적 감탄을 나타낸다."
+
+      - particle: 者
+        reading: 자
+        functions:
+          - label:
+              en: "Nominalizer (one who, that which)"
+              ko: "명사화 조사 (~하는 자, ~하는 것)"
+            example:
+              sentence: "仁者愛人"
+              reading: "인자애인"
+              translation:
+                en: "The benevolent one loves others"
+                ko: "어진 자는 남을 사랑한다"
+          - label:
+              en: "Topic marker in A者B也 pattern"
+              ko: "주제 표시 (A者B也 구문)"
+            example:
+              sentence: "學者覺也"
+              reading: "학자각야"
+              translation:
+                en: "Learning is awakening"
+                ko: "배움이란 깨달음이다"
+        notes:
+          en: "者 after a verb creates a noun phrase meaning 'one who does X'. In the A者B也 copular pattern, it marks the topic/subject."
+          ko: "동사 뒤의 者는 'X하는 자'라는 명사구를 만든다. A者B也 판단문 구조에서는 주제/주어를 표시한다."
+
+      - particle: 也
+        reading: 야
+        functions:
+          - label:
+              en: "Declarative sentence-final particle"
+              ko: "서술 어기사"
+            example:
+              sentence: "孔子聖人也"
+              reading: "공자성인야"
+              translation:
+                en: "Confucius is a sage"
+                ko: "공자는 성인이다"
+          - label:
+              en: "Copular marker in judgmental sentences"
+              ko: "판단문 계사"
+            example:
+              sentence: "政者正也"
+              reading: "정자정야"
+              translation:
+                en: "Governance is rectification"
+                ko: "정치란 바로잡음이다"
+        notes:
+          en: "也 functions as a copula ('is/am/are') in Classical Chinese. It typically appears at the end of declarative or judgmental sentences."
+          ko: "也는 한문에서 계사('~이다') 역할을 한다. 보통 서술문이나 판단문의 끝에 나타난다."
+
+      - particle: 矣
+        reading: 의
+        functions:
+          - label:
+              en: "Perfective/change-of-state particle"
+              ko: "완료/변화 어기사"
+            example:
+              sentence: "吾知之矣"
+              reading: "오지지의"
+              translation:
+                en: "I now understand it"
+                ko: "나는 이제 그것을 안다"
+          - label:
+              en: "Emphatic assertion"
+              ko: "강조 단정"
+            example:
+              sentence: "甚矣吾衰也"
+              reading: "심의오쇠야"
+              translation:
+                en: "How greatly I have declined!"
+                ko: "내가 심히 쇠하였구나!"
+        notes:
+          en: "矣 indicates a completed action or a change of state, similar to the modern Chinese 了. It marks that something has happened or is now the case."
+          ko: "矣는 완료된 행위나 상태 변화를 나타내며, 현대 중국어의 了와 유사하다. 무언가 이미 일어났거나 현재 그러함을 표시한다."
+
+      - particle: 焉
+        reading: 언
+        functions:
+          - label:
+              en: "Locative pronoun (there, in it)"
+              ko: "장소 대명사 (거기에, 그 안에)"
+            example:
+              sentence: "心不在焉"
+              reading: "심부재언"
+              translation:
+                en: "The mind is not present there (absent-minded)"
+                ko: "마음이 거기에 있지 않다 (방심하다)"
+          - label:
+              en: "Sentence-final particle (affirmation)"
+              ko: "문말 어기사 (긍정)"
+            example:
+              sentence: "寡人之於國也盡心焉耳矣"
+              reading: "과인지어국야진심언이의"
+              translation:
+                en: "I have devoted my heart fully to the state"
+                ko: "과인은 나라에 대해 마음을 다하였다"
+        notes:
+          en: "焉 combines the functions of 於 (preposition) + 之 (pronoun), meaning 'in/at/to it/there'. It also serves as a mild assertive sentence-final particle."
+          ko: "焉은 於(전치사) + 之(대명사)의 기능을 합쳐 '거기에/그것에'를 뜻한다. 가벼운 단정의 문말 어기사로도 쓰인다."
+
+      - particle: 哉
+        reading: 재
+        functions:
+          - label:
+              en: "Exclamatory particle"
+              ko: "감탄 어기사"
+            example:
+              sentence: "善哉"
+              reading: "선재"
+              translation:
+                en: "Excellent! / How good!"
+                ko: "훌륭하도다!"
+          - label:
+              en: "Rhetorical question particle"
+              ko: "수사 의문 어기사"
+            example:
+              sentence: "何足道哉"
+              reading: "하족도재"
+              translation:
+                en: "How is that worth mentioning?"
+                ko: "어찌 말할 가치가 있겠는가?"
+        notes:
+          en: "哉 expresses strong emotion — either admiration or indignation. In rhetorical questions, it conveys that the answer is obvious."
+          ko: "哉는 감탄이나 분개 등 강한 감정을 표현한다. 수사 의문에서는 답이 자명함을 전달한다."
+
+      - particle: 夫
+        reading: 부
+        functions:
+          - label:
+              en: "Discourse opener (now, well)"
+              ko: "발어사 (대저, 무릇)"
+            example:
+              sentence: "夫天地者萬物之逆旅也"
+              reading: "부천지자만물지역려야"
+              translation:
+                en: "Now, heaven and earth are an inn for all things"
+                ko: "무릇 천지는 만물의 여관이다"
+          - label:
+              en: "Demonstrative pronoun (that)"
+              ko: "지시 대명사 (그)"
+            example:
+              sentence: "夫人不言"
+              reading: "부인불언"
+              translation:
+                en: "That person does not speak"
+                ko: "그 사람이 말하지 않다"
+        notes:
+          en: "As a discourse opener, 夫 (read 부) introduces a general statement or philosophical observation. Not to be confused with 夫 (부) meaning 'husband' or 'man'."
+          ko: "발어사로서 夫(부)는 일반적 진술이나 철학적 관찰을 도입한다. '남편' 뜻의 夫(부)와 혼동하지 말 것."
+
+      - particle: 而
+        reading: 이
+        functions:
+          - label:
+              en: "Conjunctive (and, and then)"
+              ko: "순접 접속사 (~하고, ~하며)"
+            example:
+              sentence: "學而時習之"
+              reading: "학이시습지"
+              translation:
+                en: "Study and regularly practice it"
+                ko: "배우고 때때로 익히다"
+          - label:
+              en: "Adversative (but, yet)"
+              ko: "역접 접속사 (~하나, ~하지만)"
+            example:
+              sentence: "學而不思則罔"
+              reading: "학이불사즉망"
+              translation:
+                en: "To study but not think is futile"
+                ko: "배우고 생각하지 않으면 어둡다"
+        notes:
+          en: "而 is the primary clause connector. Its meaning (sequential 'and' vs. adversative 'but') depends on the semantic relationship between clauses."
+          ko: "而는 주요 절 연결사이다. 의미(순접 '~하고' vs. 역접 '~하지만')는 절 간의 의미적 관계에 따라 달라진다."
+
+      - particle: 則
+        reading: 즉
+        functions:
+          - label:
+              en: "Conditional connector (then, in that case)"
+              ko: "조건 접속사 (~하면, ~이면)"
+            example:
+              sentence: "學而不思則罔"
+              reading: "학이불사즉망"
+              translation:
+                en: "If one studies but does not think, then one is deluded"
+                ko: "배우고 생각하지 않으면 어둡다"
+          - label:
+              en: "Contrastive connector (whereas, on the other hand)"
+              ko: "대조 접속사 (~는, 반면에)"
+            example:
+              sentence: "君子喩於義小人喩於利"
+              reading: "군자유어의소인유어리"
+              translation:
+                en: "The gentleman understands righteousness; the petty man understands profit"
+                ko: "군자는 의에 밝고, 소인은 이에 밝다"
+        notes:
+          en: "則 often pairs with conditional or contrastive clauses. In paired structures, it highlights contrast between two subjects or situations."
+          ko: "則은 조건절이나 대조절과 짝을 이룬다. 대구 구조에서 두 주체나 상황의 대비를 부각한다."
+
+      - particle: 以
+        reading: 이
+        functions:
+          - label:
+              en: "Instrumental (with, by means of)"
+              ko: "수단 전치사 (~으로, ~을 가지고)"
+            example:
+              sentence: "以德報怨"
+              reading: "이덕보원"
+              translation:
+                en: "Repay resentment with virtue"
+                ko: "덕으로 원한을 갚다"
+          - label:
+              en: "Causal (because, on account of)"
+              ko: "원인 접속사 (~때문에)"
+            example:
+              sentence: "不以物喜不以己悲"
+              reading: "불이물희불이기비"
+              translation:
+                en: "Do not rejoice because of things, do not grieve because of self"
+                ko: "사물로 기뻐하지 않고, 자신 때문에 슬퍼하지 않다"
+          - label:
+              en: "Purpose (in order to)"
+              ko: "목적 접속사 (~하기 위해)"
+            example:
+              sentence: "殺身以成仁"
+              reading: "살신이성인"
+              translation:
+                en: "Sacrifice one's life in order to achieve benevolence"
+                ko: "몸을 죽여 인을 이루다"
+        notes:
+          en: "以 is extremely versatile: it can be a preposition (with/by), conjunction (because/in order to), or verb (to use/to consider). Context is key."
+          ko: "以는 매우 다용도이다: 전치사(~으로), 접속사(~때문에/~하기 위해), 또는 동사(사용하다/여기다)로 쓰일 수 있다."
+
+      - particle: 於
+        reading: 어
+        functions:
+          - label:
+              en: "Locative preposition (at, in)"
+              ko: "장소 전치사 (~에, ~에서)"
+            example:
+              sentence: "子在齊聞韶樂於齊"
+              reading: "자재제문소악어제"
+              translation:
+                en: "The Master, while in Qi, heard the Shao music in Qi"
+                ko: "공자께서 제나라에서 소악을 들으셨다"
+          - label:
+              en: "Comparative preposition (than)"
+              ko: "비교 전치사 (~보다)"
+            example:
+              sentence: "青出於藍而勝於藍"
+              reading: "청출어람이승어람"
+              translation:
+                en: "Blue comes from indigo yet surpasses indigo"
+                ko: "청은 남에서 나왔으나 남보다 낫다"
+          - label:
+              en: "Passive agent marker (by)"
+              ko: "피동 행위자 표시 (~에 의해)"
+            example:
+              sentence: "困於心"
+              reading: "곤어심"
+              translation:
+                en: "Troubled in the mind"
+                ko: "마음에 곤궁하다"
+        notes:
+          en: "於 (also written 于) marks spatial, temporal, and comparative relationships. It is the most common preposition in Classical Chinese."
+          ko: "於(于로도 쓰임)는 공간적, 시간적, 비교적 관계를 표시한다. 한문에서 가장 흔한 전치사이다."
+
+      - particle: 所
+        reading: 소
+        functions:
+          - label:
+              en: "Relative clause marker (that which, what)"
+              ko: "관계절 표지 (~하는 바, ~하는 것)"
+            example:
+              sentence: "己所不欲勿施於人"
+              reading: "기소불욕물시어인"
+              translation:
+                en: "What you do not desire for yourself, do not impose on others"
+                ko: "자기가 원하지 않는 바를 남에게 베풀지 말라"
+          - label:
+              en: "Passive construction (所 + V + 於/爲)"
+              ko: "피동 구문 (소 + 동사 + 어/위)"
+            example:
+              sentence: "爲人所笑"
+              reading: "위인소소"
+              translation:
+                en: "Laughed at by people"
+                ko: "사람들에게 비웃음을 당하다"
+        notes:
+          en: "所 nominalizes the verb phrase that follows it. 所+V creates a noun meaning 'what is V-ed' or 'the thing that is V-ed'."
+          ko: "所는 뒤따르는 동사구를 명사화한다. 所+동사는 '~되는 바' 또는 '~하는 것'이라는 명사를 만든다."
+
+      - particle: 其
+        reading: 기
+        functions:
+          - label:
+              en: "Third-person possessive (his, her, its, their)"
+              ko: "3인칭 소유격 (그의, 그것의)"
+            example:
+              sentence: "人不知而不慍不亦君子乎"
+              reading: "인부지이불온불역군자호"
+              translation:
+                en: "Others do not know him yet he is not resentful — is he not a gentleman?"
+                ko: "남이 알아주지 않아도 노여워하지 않으니 또한 군자가 아닌가?"
+          - label:
+              en: "Speculative/imperative mood marker"
+              ko: "추측/명령 어기사"
+            example:
+              sentence: "其此之謂乎"
+              reading: "기차지위호"
+              translation:
+                en: "Perhaps this is what it means?"
+                ko: "아마 이것을 두고 한 말이 아닌가?"
+        notes:
+          en: "其 as a pronoun means 'his/her/its/their'. As a mood particle, it adds speculation (perhaps), command (should), or rhetorical force."
+          ko: "其는 대명사로 '그의/그것의'를 뜻한다. 어기 조사로는 추측(아마), 명령(마땅히), 또는 수사적 힘을 더한다."
+
+  # ============================================================
+  # 2. SENTENCE PATTERNS (文型)
+  # ============================================================
+  sentence_patterns:
+    id: sentence_patterns
+    label:
+      en: "Sentence Patterns (文型)"
+      ko: "문형 (文型)"
+    category: syntax
+    hanja_level: L4
+    description:
+      en: "Classical Chinese follows a basic Subject-Verb-Object (SVO) word order, similar to modern Chinese but with several distinctive patterns. Understanding these core sentence structures is essential for reading classical texts."
+      ko: "한문은 기본적으로 주어-동사-목적어(SVO) 어순을 따르며, 현대 중국어와 유사하지만 고유한 구조들이 있다. 이 핵심 문형을 이해하는 것이 고전 독해의 기초이다."
+    patterns:
+      - id: subject_predicate
+        label:
+          en: "Subject-Predicate (主述構造)"
+          ko: "주술 구조 (主述構造)"
+        formula: "S + V"
+        description:
+          en: "The simplest sentence type: a subject followed by a verbal or adjectival predicate."
+          ko: "가장 단순한 문장 유형: 주어 뒤에 동사 또는 형용사 술어가 온다."
+        examples:
+          - sentence: "日出"
+            reading: "일출"
+            translation:
+              en: "The sun rises"
+              ko: "해가 뜬다"
+          - sentence: "花落"
+            reading: "화락"
+            translation:
+              en: "Flowers fall"
+              ko: "꽃이 진다"
+          - sentence: "山高"
+            reading: "산고"
+            translation:
+              en: "The mountain is high"
+              ko: "산이 높다"
+
+      - id: subject_verb_object
+        label:
+          en: "Subject-Verb-Object (主動賓構造)"
+          ko: "주동빈 구조 (主動賓構造)"
+        formula: "S + V + O"
+        description:
+          en: "The standard transitive sentence: subject performs an action on an object."
+          ko: "표준 타동 문장: 주어가 목적어에 대해 동작을 수행한다."
+        examples:
+          - sentence: "孔子學禮"
+            reading: "공자학례"
+            translation:
+              en: "Confucius studied ritual"
+              ko: "공자가 예를 배우다"
+          - sentence: "民畏其威"
+            reading: "민외기위"
+            translation:
+              en: "The people fear his power"
+              ko: "백성이 그 위엄을 두려워하다"
+
+      - id: topic_comment
+        label:
+          en: "Topic-Comment / Copular (A者B也)"
+          ko: "주제-설명 / 판단문 (A者B也)"
+        formula: "A + 者 + B + 也"
+        description:
+          en: "The defining copular sentence of Classical Chinese. A者 marks the topic; B也 provides the predicate/definition. Functions as 'A is B'."
+          ko: "한문의 대표적 판단문 구조. A者가 주제를 표시하고 B也가 술어/정의를 제공한다. 'A는 B이다'의 기능."
+        examples:
+          - sentence: "學者覺也"
+            reading: "학자각야"
+            translation:
+              en: "Learning is awakening"
+              ko: "배움은 깨달음이다"
+          - sentence: "仁者人也"
+            reading: "인자인야"
+            translation:
+              en: "Benevolence is the essence of being human"
+              ko: "인(仁)이란 사람다움이다"
+          - sentence: "政者正也"
+            reading: "정자정야"
+            translation:
+              en: "Governance is rectification"
+              ko: "정치란 바로잡음이다"
+
+      - id: adverbial_modification
+        label:
+          en: "Adverbially Modified (狀語修飾)"
+          ko: "부사어 수식 구조 (狀語修飾)"
+        formula: "S + Adv + V"
+        description:
+          en: "An adverb or adverbial phrase modifies the verb, placed between subject and verb."
+          ko: "부사 또는 부사구가 동사를 수식하며, 주어와 동사 사이에 놓인다."
+        examples:
+          - sentence: "子獨不聞"
+            reading: "자독불문"
+            translation:
+              en: "Have you alone not heard?"
+              ko: "그대만 듣지 못했는가?"
+          - sentence: "民皆歸之"
+            reading: "민개귀지"
+            translation:
+              en: "The people all return to him"
+              ko: "백성이 모두 그에게 돌아가다"
+
+      - id: serial_verb
+        label:
+          en: "Serial Verb / Compound Predicate (連動構造)"
+          ko: "연동 구조 (連動構造)"
+        formula: "S + V₁ + V₂ (+ O)"
+        description:
+          en: "Two or more verbs share the same subject and occur in sequence, describing consecutive or purposive actions."
+          ko: "둘 이상의 동사가 같은 주어를 공유하며 연속적이거나 목적적인 행위를 기술한다."
+        examples:
+          - sentence: "孟嘗君出行國"
+            reading: "맹상군출행국"
+            translation:
+              en: "Lord Mengchang went out and traveled the state"
+              ko: "맹상군이 나가 나라를 돌아다니다"
+          - sentence: "入門而問諱"
+            reading: "입문이문휘"
+            translation:
+              en: "Enter the gate and ask about taboo names"
+              ko: "문에 들어가 휘(이름)를 묻다"
+
+      - id: object_fronting
+        label:
+          en: "Object Fronting / Inversion (賓語前置)"
+          ko: "목적어 전치 (賓語前置)"
+        formula: "O + S + V or 何 + V"
+        description:
+          en: "The object moves before the verb for emphasis, in questions, or in negative sentences with pronoun objects."
+          ko: "강조, 의문문, 대명사 목적어가 있는 부정문에서 목적어가 동사 앞으로 이동한다."
+        examples:
+          - sentence: "何謂也"
+            reading: "하위야"
+            translation:
+              en: "What does this mean?"
+              ko: "무엇을 말하는 것인가?"
+          - sentence: "未之有也"
+            reading: "미지유야"
+            translation:
+              en: "There has never been such a thing"
+              ko: "아직 그런 일이 있은 적이 없다"
+          - sentence: "唯利是圖"
+            reading: "유리시도"
+            translation:
+              en: "Only profit is pursued"
+              ko: "오직 이익만을 도모하다"
+
+  # ============================================================
+  # 3. NEGATION PATTERNS (否定)
+  # ============================================================
+  negation_patterns:
+    id: negation_patterns
+    label:
+      en: "Negation Patterns (否定)"
+      ko: "부정 표현 (否定)"
+    category: negation
+    hanja_level: L4
+    description:
+      en: "Classical Chinese uses distinct negation words depending on the type of negation: general negation, existential negation, tense-related negation, and prohibitive negation. Each negator has a specific semantic scope."
+      ko: "한문은 부정의 유형에 따라 구별되는 부정어를 사용한다: 일반 부정, 존재 부정, 시제 관련 부정, 금지 부정. 각 부정어는 특정 의미 범위를 가진다."
+    negators:
+      - negator: 不
+        reading: 불/부
+        label:
+          en: "General negation (not)"
+          ko: "일반 부정 (~아니하다)"
+        usage:
+          en: "Negates verbs and adjectives. The most common negation word in Classical Chinese. Read 불 before most consonants, 부 before ㄷ and ㅈ sounds."
+          ko: "동사와 형용사를 부정한다. 한문에서 가장 흔한 부정어. 대부분 자음 앞에서 '불', ㄷ·ㅈ 계열 앞에서 '부'로 읽는다."
+        examples:
+          - sentence: "學而不思則罔"
+            reading: "학이불사즉망"
+            translation:
+              en: "To study and not think leads to confusion"
+              ko: "배우고 생각하지 않으면 어둡다"
+          - sentence: "不知命無以爲君子也"
+            reading: "부지명무이위군자야"
+            translation:
+              en: "Without knowing fate, one cannot be a gentleman"
+              ko: "명(命)을 알지 못하면 군자가 될 수 없다"
+
+      - negator: 非
+        reading: 비
+        label:
+          en: "Copular negation (is not)"
+          ko: "판단 부정 (~이 아니다)"
+        usage:
+          en: "Negates nouns and nominal predicates. Functions as 'is not' or 'it is not the case that'. Often used in judgmental sentences."
+          ko: "명사와 명사 술어를 부정한다. '~이 아니다' 또는 '~한 것이 아니다'의 기능. 판단문에 자주 쓰인다."
+        examples:
+          - sentence: "人非生而知之者"
+            reading: "인비생이지지자"
+            translation:
+              en: "People are not those who know from birth"
+              ko: "사람은 태어나면서 아는 자가 아니다"
+          - sentence: "非禮勿視"
+            reading: "비례물시"
+            translation:
+              en: "If it is not proper ritual, do not look at it"
+              ko: "예가 아니면 보지 말라"
+
+      - negator: 無
+        reading: 무
+        label:
+          en: "Existential negation (there is not, without)"
+          ko: "존재 부정 (없다, ~이 없다)"
+        usage:
+          en: "Negates existence. Means 'there is no', 'to lack', or 'without'. Opposite of 有 (to have/exist)."
+          ko: "존재를 부정한다. '~이 없다', '~이 부족하다'를 뜻한다. 有(있다)의 반대."
+        examples:
+          - sentence: "天下無道"
+            reading: "천하무도"
+            translation:
+              en: "The world lacks the Way"
+              ko: "천하에 도가 없다"
+          - sentence: "無友不如己者"
+            reading: "무우불여기자"
+            translation:
+              en: "Do not befriend those who are not your equal"
+              ko: "자기만 못한 자를 벗하지 말라"
+
+      - negator: 未
+        reading: 미
+        label:
+          en: "Temporal negation (not yet)"
+          ko: "시간 부정 (아직 ~않다)"
+        usage:
+          en: "Negates with temporal meaning: 'not yet', 'has not yet'. Implies the action may happen in the future."
+          ko: "시간적 의미의 부정: '아직 ~않다'. 미래에 행위가 일어날 수 있음을 암시한다."
+        examples:
+          - sentence: "未之有也"
+            reading: "미지유야"
+            translation:
+              en: "There has not yet been such a case"
+              ko: "아직 그런 일이 있은 적이 없다"
+          - sentence: "未知生焉知死"
+            reading: "미지생언지사"
+            translation:
+              en: "Not yet understanding life, how can one understand death?"
+              ko: "삶도 아직 알지 못하는데 어찌 죽음을 알겠는가?"
+
+      - negator: 莫
+        reading: 막
+        label:
+          en: "Universal negation (no one, nothing, do not)"
+          ko: "전칭 부정 (아무도 ~않다, 아무것도 ~않다)"
+        usage:
+          en: "Indefinite pronoun + negation: 'no one', 'nothing', 'none'. Can also function as a prohibitive (do not)."
+          ko: "부정 대명사 + 부정: '아무도 ~않다', '아무것도 ~않다'. 금지(~하지 말라)로도 기능한다."
+        examples:
+          - sentence: "莫我知也"
+            reading: "막아지야"
+            translation:
+              en: "No one understands me"
+              ko: "아무도 나를 알아주지 않는다"
+          - sentence: "莫見乎隱莫顯乎微"
+            reading: "막견호은막현호미"
+            translation:
+              en: "Nothing is more visible than the hidden, nothing more manifest than the subtle"
+              ko: "숨은 것보다 더 잘 보이는 것은 없고, 미세한 것보다 더 드러나는 것은 없다"
+
+      - negator: 勿
+        reading: 물
+        label:
+          en: "Prohibitive negation (do not)"
+          ko: "금지 부정 (~하지 말라)"
+        usage:
+          en: "Prohibitive: 'do not', 'must not'. Stronger than 莫 as prohibition. Used in commands and instructions."
+          ko: "금지: '~하지 말라'. 莫보다 강한 금지. 명령과 지시에 사용된다."
+        examples:
+          - sentence: "己所不欲勿施於人"
+            reading: "기소불욕물시어인"
+            translation:
+              en: "What you do not desire, do not impose on others"
+              ko: "자기가 원하지 않는 바를 남에게 베풀지 말라"
+          - sentence: "非禮勿視非禮勿聽"
+            reading: "비례물시비례물청"
+            translation:
+              en: "Do not look at what is not proper; do not listen to what is not proper"
+              ko: "예가 아니면 보지 말고, 예가 아니면 듣지 말라"
+
+  # ============================================================
+  # 4. QUESTION PATTERNS (疑問)
+  # ============================================================
+  question_patterns:
+    id: question_patterns
+    label:
+      en: "Question Patterns (疑問)"
+      ko: "의문 표현 (疑問)"
+    category: interrogative
+    hanja_level: L4
+    description:
+      en: "Classical Chinese forms questions using interrogative pronouns, sentence-final particles, or both. Questions can be genuine inquiries or rhetorical devices used for emphasis."
+      ko: "한문은 의문 대명사, 문말 어기사, 또는 둘 다를 사용하여 의문문을 만든다. 의문문은 진정한 질문이거나 강조를 위한 수사적 장치일 수 있다."
+    interrogatives:
+      - word: 何
+        reading: 하
+        meaning:
+          en: "what, why, how"
+          ko: "무엇, 왜, 어찌"
+        usage:
+          en: "The most common interrogative word. Can ask about things (what), reasons (why/何故), and manner (how/何如)."
+          ko: "가장 흔한 의문사. 사물(무엇), 이유(왜/何故), 방식(어찌/何如)을 묻는다."
+        examples:
+          - sentence: "何謂也"
+            reading: "하위야"
+            translation:
+              en: "What does this mean?"
+              ko: "무엇을 말하는가?"
+          - sentence: "何以報德"
+            reading: "하이보덕"
+            translation:
+              en: "With what should one repay virtue?"
+              ko: "무엇으로 덕에 보답하겠는가?"
+          - sentence: "何故而去"
+            reading: "하고이거"
+            translation:
+              en: "For what reason did you leave?"
+              ko: "무슨 까닭으로 떠났는가?"
+
+      - word: 誰
+        reading: 수
+        meaning:
+          en: "who"
+          ko: "누구"
+        usage:
+          en: "Asks about a person. Can function as subject or object."
+          ko: "사람을 묻는다. 주어 또는 목적어로 기능한다."
+        examples:
+          - sentence: "誰能出不由戶"
+            reading: "수능출불유호"
+            translation:
+              en: "Who can go out without using the door?"
+              ko: "누가 문을 거치지 않고 나갈 수 있는가?"
+          - sentence: "吾誰欺"
+            reading: "오수기"
+            translation:
+              en: "Whom would I deceive?"
+              ko: "내가 누구를 속이겠는가?"
+
+      - word: 孰
+        reading: 숙
+        meaning:
+          en: "which (of two or more), who"
+          ko: "어느 것, 누가 (둘 이상 중)"
+        usage:
+          en: "Used for choosing between alternatives. Often in comparative constructions: A與B孰C (which is more C, A or B?)."
+          ko: "대안 간의 선택에 사용된다. 비교 구문에 자주 쓰인다: A與B孰C (A와 B 중 어느 것이 더 C한가?)."
+        examples:
+          - sentence: "孰謂汝多知乎"
+            reading: "숙위여다지호"
+            translation:
+              en: "Who says you are very knowledgeable?"
+              ko: "누가 너를 많이 안다고 하였는가?"
+          - sentence: "禮與食孰重"
+            reading: "예여식숙중"
+            translation:
+              en: "Which is more important, ritual or food?"
+              ko: "예와 음식 중 어느 것이 더 중요한가?"
+
+      - word: 安
+        reading: 안
+        meaning:
+          en: "where, how, why"
+          ko: "어디, 어찌, 왜"
+        usage:
+          en: "Asks about location (where), manner (how), or reason (why). Often interchangeable with 焉 in locative usage."
+          ko: "장소(어디), 방식(어찌), 이유(왜)를 묻는다. 장소 용법에서 焉과 호환되기도 한다."
+        examples:
+          - sentence: "安得廣廈千萬間"
+            reading: "안득광하천만간"
+            translation:
+              en: "How can I obtain millions of spacious houses?"
+              ko: "어찌 넓은 집 천만 간을 얻겠는가?"
+          - sentence: "燕雀安知鴻鵠之志哉"
+            reading: "연작안지홍곡지지재"
+            translation:
+              en: "How can sparrows and swallows know the ambitions of a swan?"
+              ko: "참새와 제비가 어찌 큰 기러기의 뜻을 알겠는가?"
+
+      - word: 乎
+        reading: 호
+        meaning:
+          en: "question particle (sentence-final)"
+          ko: "의문 어기사 (문말)"
+        usage:
+          en: "Placed at the end of a sentence to form a yes/no question. Can also turn statements into rhetorical questions."
+          ko: "문장 끝에 놓여 예/아니오 의문문을 만든다. 서술문을 수사 의문으로 바꿀 수도 있다."
+        examples:
+          - sentence: "有朋自遠方來不亦樂乎"
+            reading: "유붕자원방래불역락호"
+            translation:
+              en: "When friends come from afar, is it not also joyful?"
+              ko: "벗이 먼 곳에서 오면 또한 즐겁지 아니한가?"
+          - sentence: "學而時習之不亦說乎"
+            reading: "학이시습지불역열호"
+            translation:
+              en: "To study and practice regularly, is it not also pleasant?"
+              ko: "배우고 때때로 익히면 또한 기쁘지 아니한가?"
+
+      - word: 邪
+        reading: 야/사
+        meaning:
+          en: "question particle (doubt, skepticism)"
+          ko: "의문 어기사 (의심, 회의)"
+        usage:
+          en: "Sentence-final particle expressing doubt or seeking confirmation. Also written 耶. Carries a more skeptical tone than 乎."
+          ko: "의심을 표현하거나 확인을 구하는 문말 어기사. 耶로도 쓴다. 乎보다 회의적 어조를 담는다."
+        examples:
+          - sentence: "天之蒼蒼其正色邪"
+            reading: "천지창창기정색야"
+            translation:
+              en: "Is the deep blue of the sky its true color?"
+              ko: "하늘의 푸르름이 그 본래 색인가?"
+          - sentence: "是邪非邪"
+            reading: "시야비야"
+            translation:
+              en: "Is it right or wrong?"
+              ko: "옳은 것인가 그른 것인가?"
+
+      - word: 豈
+        reading: 기
+        meaning:
+          en: "rhetorical negation (how could, surely not)"
+          ko: "반어 부정 (어찌 ~하겠는가)"
+        usage:
+          en: "Forms strong rhetorical questions expecting a negative answer. 'How could...?' or 'Surely... not?' Adds emphasis and indignation."
+          ko: "부정적 대답을 기대하는 강한 반어 의문을 만든다. '어찌 ~하겠는가?' 강조와 분개를 더한다."
+        examples:
+          - sentence: "豈不知乎"
+            reading: "기불지호"
+            translation:
+              en: "How could one not know?"
+              ko: "어찌 알지 못하겠는가?"
+          - sentence: "燕雀安知鴻鵠之志哉"
+            reading: "연작안지홍곡지지재"
+            translation:
+              en: "How could a sparrow know the ambition of a great swan?"
+              ko: "참새가 어찌 큰 기러기의 뜻을 알겠는가?"
+          - sentence: "豈若匹夫匹婦之爲諒也"
+            reading: "기약필부필부지위량야"
+            translation:
+              en: "How could it be like the petty faithfulness of ordinary men and women?"
+              ko: "어찌 보통 남녀의 소신과 같겠는가?"
+
+  # ============================================================
+  # 5. RHETORICAL DEVICES (修辭)
+  # ============================================================
+  rhetorical_devices:
+    id: rhetorical_devices
+    label:
+      en: "Rhetorical Devices (修辭)"
+      ko: "수사법 (修辭)"
+    category: rhetoric
+    hanja_level: L3
+    description:
+      en: "Classical Chinese literature employs sophisticated rhetorical techniques to enhance expression, create aesthetic beauty, and convey deeper meaning. These devices are fundamental to poetry, prose, and philosophical writing."
+      ko: "한문 문학은 표현을 강화하고 미적 아름다움을 창출하며 깊은 의미를 전달하기 위해 정교한 수사 기법을 사용한다. 이 장치들은 시, 산문, 철학적 글쓰기의 근간이다."
+    devices:
+      - id: parallelism
+        label:
+          en: "Parallelism (對句)"
+          ko: "대구 (對句)"
+        description:
+          en: "Two or more lines with matching grammatical structure, word class, tone pattern, and meaning relationship. The hallmark of classical prose and regulated verse."
+          ko: "문법 구조, 품사, 성조 패턴, 의미 관계가 대응하는 두 줄 이상의 구문. 고전 산문과 율시의 특징."
+        examples:
+          - sentence: "天高地厚"
+            reading: "천고지후"
+            translation:
+              en: "Heaven is high, earth is thick"
+              ko: "하늘은 높고 땅은 두텁다"
+          - sentence: "海內存知己天涯若比鄰"
+            reading: "해내존지기천애약비린"
+            translation:
+              en: "If a true friend exists within the seas, the far corners of the world are like neighbors"
+              ko: "사해 안에 나를 아는 벗이 있으면, 하늘 끝도 이웃과 같다"
+          - sentence: "落霞與孤鶩齊飛秋水共長天一色"
+            reading: "낙하여고목제비추수공장천일색"
+            translation:
+              en: "Setting clouds and a lone duck fly together; autumn waters and the vast sky share one color"
+              ko: "지는 노을과 외로운 오리가 함께 날고, 가을 물과 긴 하늘이 한 빛이다"
+
+      - id: allusion
+        label:
+          en: "Allusion (典故)"
+          ko: "전고 (典故)"
+        description:
+          en: "References to historical events, classical texts, or well-known stories to enrich meaning. The reader must know the source to fully appreciate the allusion."
+          ko: "역사적 사건, 고전 문헌, 유명한 이야기를 인용하여 의미를 풍부하게 한다. 독자는 전고의 출전을 알아야 완전히 이해할 수 있다."
+        examples:
+          - sentence: "莊周夢蝶"
+            reading: "장주몽접"
+            translation:
+              en: "Zhuangzi dreamed of being a butterfly"
+              ko: "장자가 나비 꿈을 꾸다"
+            source:
+              en: "From Zhuangzi — questions the boundary between dream and reality"
+              ko: "장자에서 — 꿈과 현실의 경계를 묻다"
+          - sentence: "刻舟求劍"
+            reading: "각주구검"
+            translation:
+              en: "Mark the boat to seek the sword"
+              ko: "배에 새겨 칼을 찾다"
+            source:
+              en: "From Lü's Spring and Autumn — clinging to outdated methods"
+              ko: "여씨춘추에서 — 시대에 뒤처진 방법을 고수하다"
+
+      - id: metaphor
+        label:
+          en: "Metaphor (比喻)"
+          ko: "비유 (比喻)"
+        description:
+          en: "Using one thing to represent another, either directly (明喻, simile with 如/若/猶) or implicitly (暗喻, without comparison markers)."
+          ko: "한 사물로 다른 것을 나타내는 것. 직유(明喻, 如/若/猶 사용) 또는 은유(暗喻, 비교 표지 없이)로 나뉜다."
+        examples:
+          - sentence: "君子之交淡如水"
+            reading: "군자지교담여수"
+            translation:
+              en: "The friendship of the virtuous is plain as water"
+              ko: "군자의 사귐은 물처럼 담백하다"
+          - sentence: "人生如夢"
+            reading: "인생여몽"
+            translation:
+              en: "Life is like a dream"
+              ko: "인생은 꿈과 같다"
+          - sentence: "猛虎在山百獸震恐"
+            reading: "맹호재산백수진공"
+            translation:
+              en: "A fierce tiger in the mountains — all beasts tremble in fear"
+              ko: "맹호가 산에 있으면 온갖 짐승이 두려워 떤다"
+
+      - id: hyperbole
+        label:
+          en: "Hyperbole (誇張)"
+          ko: "과장 (誇張)"
+        description:
+          en: "Deliberate exaggeration for emphasis or dramatic effect. Common in poetry and descriptive prose."
+          ko: "강조나 극적 효과를 위한 의도적 과장. 시와 묘사적 산문에 흔하다."
+        examples:
+          - sentence: "白髮三千丈"
+            reading: "백발삼천장"
+            translation:
+              en: "White hair three thousand yards long"
+              ko: "흰 머리카락이 삼천 길이나 되다"
+          - sentence: "飛流直下三千尺"
+            reading: "비류직하삼천척"
+            translation:
+              en: "The waterfall plunges straight down three thousand feet"
+              ko: "폭포가 곧바로 삼천 척을 떨어지다"
+          - sentence: "危樓高百尺手可摘星辰"
+            reading: "위루고백척수가적성신"
+            translation:
+              en: "The perilous tower is a hundred feet high; one can reach out and pluck the stars"
+              ko: "위태로운 누각이 백 척 높아, 손으로 별을 딸 수 있다"
+
+      - id: antithesis
+        label:
+          en: "Antithesis (對比)"
+          ko: "대비 (對比)"
+        description:
+          en: "Contrasting two opposing ideas, characters, or situations to highlight differences and deepen insight."
+          ko: "두 가지 대립되는 생각, 인물, 상황을 대조하여 차이를 부각하고 통찰을 심화한다."
+        examples:
+          - sentence: "君子坦蕩蕩小人長戚戚"
+            reading: "군자탄탕탕소인장척척"
+            translation:
+              en: "The gentleman is calm and open; the petty man is always anxious"
+              ko: "군자는 평탄하고 넓으며, 소인은 항상 근심한다"
+          - sentence: "生於憂患死於安樂"
+            reading: "생어우환사어안락"
+            translation:
+              en: "One thrives in adversity and perishes in comfort"
+              ko: "근심과 환란에서 살아나고, 안락에서 죽는다"
+          - sentence: "塞翁失馬焉知非福"
+            reading: "새옹실마언지비복"
+            translation:
+              en: "When the old man at the border lost his horse, how could he know it was not a blessing?"
+              ko: "변방 노인이 말을 잃었으나 어찌 복이 아닌 줄 알겠는가?"
+
+  # ============================================================
+  # 6. CLASSICAL TEXT PATTERNS (古文 文型)
+  # ============================================================
+  classical_text_patterns:
+    id: classical_text_patterns
+    label:
+      en: "Classical Text Patterns (古文 文型)"
+      ko: "고문 문형 (古文 文型)"
+    category: advanced_syntax
+    hanja_level: L2
+    description:
+      en: "Advanced syntactic patterns found in canonical texts such as the Analerta (論語), Mencius (孟子), Records of the Grand Historian (史記), and other classical works. These patterns are essential for reading original classical texts."
+      ko: "논어(論語), 맹자(孟子), 사기(史記) 등 정전(正典)에 나타나는 고급 통사 구조. 이 문형들은 원전 독해에 필수적이다."
+    patterns:
+      - id: double_object
+        label:
+          en: "Double Object Construction (雙賓語構造)"
+          ko: "이중 목적어 구문 (雙賓語構造)"
+        formula: "S + V + IO + DO"
+        description:
+          en: "Verbs like 與 (give), 謂 (tell/call), 問 (ask) take two objects: an indirect object (person) and a direct object (thing)."
+          ko: "與(주다), 謂(이르다/칭하다), 問(묻다) 등의 동사가 간접 목적어(사람)와 직접 목적어(사물) 두 개를 취한다."
+        examples:
+          - sentence: "公賜之食"
+            reading: "공사지식"
+            translation:
+              en: "The duke bestowed food upon him"
+              ko: "공이 그에게 음식을 내리다"
+          - sentence: "孔子謂季氏八佾舞於庭"
+            reading: "공자위계씨팔일무어정"
+            translation:
+              en: "Confucius said of the Ji clan: 'Eight rows of dancers in the courtyard'"
+              ko: "공자가 계씨에 대해 말씀하셨다: '팔일무를 뜰에서 추다니'"
+
+      - id: pivotal_construction
+        label:
+          en: "Pivotal Construction (兼語構造)"
+          ko: "겸어 구문 (兼語構造)"
+        formula: "S₁ + V₁ + S₂/O₁ + V₂"
+        description:
+          en: "A noun serves simultaneously as the object of V₁ and the subject of V₂. Common with causative verbs (使, 令, 命) and perceptive verbs (見, 聞)."
+          ko: "한 명사가 V₁의 목적어이자 V₂의 주어 역할을 동시에 한다. 사역 동사(使, 令, 命)와 지각 동사(見, 聞)에 흔하다."
+        examples:
+          - sentence: "使民以時"
+            reading: "사민이시"
+            translation:
+              en: "Employ the people according to the proper seasons"
+              ko: "백성을 때에 맞추어 부리다"
+          - sentence: "令尹子文三仕爲令尹"
+            reading: "영윤자문삼사위영윤"
+            translation:
+              en: "Ziwen served three times as Prime Minister"
+              ko: "자문이 세 차례 영윤이 되다"
+
+      - id: topic_fronting
+        label:
+          en: "Topic Fronting (主題前置)"
+          ko: "주제 전치 (主題前置)"
+        formula: "Topic + Comment clause"
+        description:
+          en: "A topic noun or phrase is placed at the beginning of the sentence, followed by a comment clause. The topic may not have a direct grammatical role in the comment."
+          ko: "주제 명사(구)가 문장 앞에 놓이고 설명절이 뒤따른다. 주제가 설명절에서 직접적인 문법적 역할을 하지 않을 수도 있다."
+        examples:
+          - sentence: "仁遠乎哉"
+            reading: "인원호재"
+            translation:
+              en: "Is benevolence far away?"
+              ko: "인(仁)이 먼 것인가?"
+          - sentence: "鄙夫可與事君也與哉"
+            reading: "비부가여사군야여재"
+            translation:
+              en: "Can a vulgar man serve the ruler together with us?"
+              ko: "비루한 사람과 함께 임금을 섬길 수 있겠는가?"
+
+      - id: passive_bei_wei
+        label:
+          en: "Passive with 被/爲...所 (被動構造)"
+          ko: "피동 구문 (被/爲...所)"
+        formula: "S + 被/爲 + Agent + (所) + V"
+        description:
+          en: "Classical Chinese passives use 被, 爲, 見, or 爲...所 to mark the subject as the receiver of the action."
+          ko: "한문 피동문은 被, 爲, 見, 또는 爲...所를 사용하여 주어가 동작의 대상임을 표시한다."
+        examples:
+          - sentence: "信而見疑忠而被謗"
+            reading: "신이견의충이피방"
+            translation:
+              en: "Trusted yet suspected, loyal yet slandered"
+              ko: "신의가 있으되 의심받고, 충성하되 비방당하다"
+          - sentence: "爲人所笑"
+            reading: "위인소소"
+            translation:
+              en: "Laughed at by people"
+              ko: "사람들에게 비웃음을 당하다"
+          - sentence: "身死人手爲天下笑"
+            reading: "신사인수위천하소"
+            translation:
+              en: "Died at the hands of others and was laughed at by all under heaven"
+              ko: "남의 손에 죽어 천하의 웃음거리가 되다"
+
+      - id: resultative_compound
+        label:
+          en: "Resultative Compound (結果補語)"
+          ko: "결과 보어 (結果補語)"
+        formula: "V + Resultative"
+        description:
+          en: "A secondary verb or adjective follows the main verb to express the result or outcome of the action."
+          ko: "주동사 뒤에 보조 동사나 형용사가 와서 동작의 결과를 표현한다."
+        examples:
+          - sentence: "學而知之"
+            reading: "학이지지"
+            translation:
+              en: "Study and thereby come to know it"
+              ko: "배워서 알게 되다"
+          - sentence: "殺人盈野"
+            reading: "살인영야"
+            translation:
+              en: "Killed people until the fields were filled"
+              ko: "사람을 죽여 들판을 가득 채우다"
+
+  # ============================================================
+  # 7. COMPOSITION RULES (作文 規則)
+  # ============================================================
+  composition_rules:
+    id: composition_rules
+    label:
+      en: "Composition Rules (作文 規則)"
+      ko: "작문 규칙 (作文 規則)"
+    category: writing
+    hanja_level: L1
+    description:
+      en: "Rules and principles for composing Classical Chinese texts, including prose (散文), parallel prose (駢文), and regulated verse (律詩). Mastery of these rules enables original composition in Classical Chinese."
+      ko: "산문(散文), 변려문(駢文), 율시(律詩) 등 한문 작문의 규칙과 원리. 이 규칙의 숙달은 한문 원작 작문을 가능하게 한다."
+    rules:
+      - id: conciseness
+        label:
+          en: "Conciseness (簡潔)"
+          ko: "간결 (簡潔)"
+        principle:
+          en: "Classical Chinese prizes brevity. Omit subjects, objects, and connectives when recoverable from context. Every character should carry weight."
+          ko: "한문은 간결함을 중시한다. 문맥에서 회복 가능한 주어, 목적어, 접속사를 생략한다. 모든 글자가 무게를 가져야 한다."
+        examples:
+          - sentence: "溫故知新"
+            reading: "온고지신"
+            translation:
+              en: "Review the old, know the new"
+              ko: "옛것을 익혀 새것을 알다"
+            analysis:
+              en: "Four characters express a complete philosophical idea. Subject is implied."
+              ko: "네 글자로 완전한 철학적 사상을 표현. 주어는 암시됨."
+
+      - id: four_character_idiom
+        label:
+          en: "Four-Character Idiom Form (四字成語)"
+          ko: "사자성어 형식 (四字成語)"
+        principle:
+          en: "Four-character phrases (成語) are the most iconic unit of Classical Chinese. They follow patterns like V+O+V+O, Adj+N+Adj+N, or S+V+S+V."
+          ko: "사자성어(四字成語)는 한문의 가장 상징적인 단위이다. V+O+V+O, 형+명+형+명, 주+술+주+술 등의 패턴을 따른다."
+        examples:
+          - sentence: "臥薪嘗膽"
+            reading: "와신상담"
+            translation:
+              en: "Sleep on brushwood and taste gall — endure hardship for future revenge"
+              ko: "섶 위에 눕고 쓸개를 맛보다 — 와신상담"
+          - sentence: "畫龍點睛"
+            reading: "화룡점정"
+            translation:
+              en: "Paint a dragon and dot the eyes — add the finishing touch"
+              ko: "용을 그리고 눈을 찍다 — 화룡점정"
+
+      - id: parallel_prose_rules
+        label:
+          en: "Parallel Prose Rules (駢文法則)"
+          ko: "변려문 규칙 (駢文法則)"
+        principle:
+          en: "Parallel prose (駢文) requires matching pairs of sentences with equal length, corresponding word classes, and complementary tones (平/仄). Lines typically come in groups of 4+4 or 6+6 characters."
+          ko: "변려문(駢文)은 같은 길이, 대응하는 품사, 상보적 성조(平/仄)를 가진 대구 쌍을 요구한다. 행은 보통 4+4 또는 6+6 글자 묶음으로 구성된다."
+        examples:
+          - sentence: "落霞與孤鶩齊飛秋水共長天一色"
+            reading: "낙하여고목제비추수공장천일색"
+            translation:
+              en: "Setting clouds and a lone duck fly together; autumn waters and the vast sky share one color"
+              ko: "지는 노을과 외로운 오리가 함께 날고, 가을 물과 긴 하늘이 한 빛이다"
+            analysis:
+              en: "Two 7-character lines with matched structure: Noun+Conj+Adj+Noun+Adv+Verb // Adj+Noun+Adv+Adj+Noun+Num+Noun"
+              ko: "대응 구조의 7자 두 행: 명+접+형+명+부+동 // 형+명+부+형+명+수+명"
+
+      - id: regulated_verse
+        label:
+          en: "Regulated Verse Rules (律詩法則)"
+          ko: "율시 규칙 (律詩法則)"
+        principle:
+          en: "Regulated verse (律詩) has strict rules: 8 lines of 5 or 7 characters, prescribed tone patterns (平仄), rhyming on even-numbered lines, and parallelism required in the middle two couplets (lines 3-4 and 5-6)."
+          ko: "율시(律詩)는 엄격한 규칙을 따른다: 5언 또는 7언 8행, 규정된 성조 배열(평측), 짝수 행의 압운, 중간 두 연(3-4행, 5-6행)의 대구 필수."
+        structure:
+          en: |
+            Line 1-2: Opening couplet (首聯) — sets theme, no parallelism required
+            Line 3-4: Second couplet (頷聯) — parallelism required
+            Line 5-6: Third couplet (頸聯) — parallelism required
+            Line 7-8: Closing couplet (尾聯) — conclusion, no parallelism required
+          ko: |
+            1-2행: 수련(首聯) — 주제 설정, 대구 불필요
+            3-4행: 함련(頷聯) — 대구 필수
+            5-6행: 경련(頸聯) — 대구 필수
+            7-8행: 미련(尾聯) — 결론, 대구 불필요
+
+      - id: essay_structure
+        label:
+          en: "Classical Essay Structure (起承轉結)"
+          ko: "기승전결 구조 (起承轉結)"
+        principle:
+          en: "The four-part essay structure: 起 (introduction/opening), 承 (development/continuation), 轉 (turn/twist), 結 (conclusion/resolution). This structure underlies both prose and poetry."
+          ko: "4단 구성 구조: 기(起, 도입), 승(承, 전개), 전(轉, 전환), 결(結, 결론). 이 구조는 산문과 시 모두에 적용된다."
+        stages:
+          - stage: 起
+            reading: 기
+            function:
+              en: "Introduce the topic or set the scene"
+              ko: "주제를 소개하거나 장면을 설정"
+          - stage: 承
+            reading: 승
+            function:
+              en: "Develop the theme, add supporting details"
+              ko: "주제를 전개하고 뒷받침 세부사항을 추가"
+          - stage: 轉
+            reading: 전
+            function:
+              en: "Introduce a turn, contrast, or new perspective"
+              ko: "전환, 대비, 또는 새로운 관점을 도입"
+          - stage: 結
+            reading: 결
+            function:
+              en: "Conclude with insight, emotion, or resolution"
+              ko: "통찰, 감정, 또는 해결로 결론"

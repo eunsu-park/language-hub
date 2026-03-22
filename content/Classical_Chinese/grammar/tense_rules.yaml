@@ -1,0 +1,616 @@
+# Sentence Structures for Classical Chinese (漢文)
+# Classical Chinese does not have tense morphology; aspect and time
+# are determined by context, adverbs, and sentence-final particles.
+
+structures:
+  # ============================================================
+  # 1. DECLARATIVE SENTENCES (平敍文)
+  # ============================================================
+  declarative:
+    id: declarative
+    label:
+      en: "Declarative Sentences (平敍文)"
+      ko: "평서문 (平敍文)"
+    hanja_level: L5
+    formation:
+      en: "Basic subject-predicate or topic-comment structure. Declarative sentences state facts, judgments, or descriptions. The sentence-final particle 也 often marks judgmental declarations, while 矣 marks completed states."
+      ko: "기본 주술 구조 또는 주제-설명 구조. 평서문은 사실, 판단, 묘사를 진술한다. 문말 어기사 也는 판단 서술을, 矣는 완료 상태를 표시한다."
+    patterns:
+      basic:
+        formula: "S + V"
+        example:
+          sentence: "日出"
+          reading: "일출"
+          translation:
+            en: "The sun rises"
+            ko: "해가 뜬다"
+      with_object:
+        formula: "S + V + O"
+        example:
+          sentence: "孔子學禮"
+          reading: "공자학례"
+          translation:
+            en: "Confucius studied ritual"
+            ko: "공자가 예를 배우다"
+      copular:
+        formula: "A + 者 + B + 也"
+        example:
+          sentence: "學者覺也"
+          reading: "학자각야"
+          translation:
+            en: "Learning is awakening"
+            ko: "배움은 깨달음이다"
+    uses:
+      - en: "State facts and describe events"
+        ko: "사실을 진술하고 사건을 묘사"
+        example:
+          sentence: "天高地厚"
+          reading: "천고지후"
+          translation:
+            en: "Heaven is high and earth is thick"
+            ko: "하늘은 높고 땅은 두텁다"
+      - en: "Express judgments and definitions"
+        ko: "판단과 정의를 표현"
+        example:
+          sentence: "政者正也"
+          reading: "정자정야"
+          translation:
+            en: "Governance is rectification"
+            ko: "정치란 바로잡음이다"
+      - en: "Report completed states with 矣"
+        ko: "矣로 완료 상태를 보고"
+        example:
+          sentence: "吾知之矣"
+          reading: "오지지의"
+          translation:
+            en: "I now understand it"
+            ko: "나는 이제 그것을 안다"
+    notes:
+      en: "Classical Chinese has no tense morphology. Time reference is inferred from context, temporal adverbs (昔/今/後), and sentence-final particles (矣 for change of state, 也 for timeless judgment)."
+      ko: "한문에는 시제 형태론이 없다. 시간 참조는 문맥, 시간 부사(昔/今/後), 문말 어기사(矣는 상태 변화, 也는 시간을 초월한 판단)에서 추론된다."
+
+  # ============================================================
+  # 2. NEGATIVE SENTENCES (否定文)
+  # ============================================================
+  negative:
+    id: negative
+    label:
+      en: "Negative Sentences (否定文)"
+      ko: "부정문 (否定文)"
+    hanja_level: L5
+    formation:
+      en: "Place a negation word (不, 非, 無, 未, 莫, 勿) before the verb or predicate. Each negator has a distinct semantic scope: 不 (general), 非 (copular), 無 (existential), 未 (not yet), 莫 (no one/nothing), 勿 (prohibitive)."
+      ko: "부정어(不, 非, 無, 未, 莫, 勿)를 동사 또는 술어 앞에 놓는다. 각 부정어는 고유한 의미 범위를 가진다: 不(일반), 非(판단), 無(존재), 未(미완), 莫(전칭), 勿(금지)."
+    patterns:
+      general:
+        formula: "S + 不 + V"
+        example:
+          sentence: "人不知而不慍"
+          reading: "인부지이불온"
+          translation:
+            en: "Others do not know him yet he is not resentful"
+            ko: "남이 알아주지 않아도 노여워하지 않다"
+      copular:
+        formula: "S + 非 + N"
+        example:
+          sentence: "人非生而知之者"
+          reading: "인비생이지지자"
+          translation:
+            en: "People are not those who know from birth"
+            ko: "사람은 나면서부터 아는 자가 아니다"
+      existential:
+        formula: "無 + N / 無 + V"
+        example:
+          sentence: "天下無道"
+          reading: "천하무도"
+          translation:
+            en: "The world is without the Way"
+            ko: "천하에 도가 없다"
+      temporal:
+        formula: "S + 未 + V"
+        example:
+          sentence: "未知生焉知死"
+          reading: "미지생언지사"
+          translation:
+            en: "Not yet knowing life, how can one know death?"
+            ko: "삶도 아직 모르는데 어찌 죽음을 알겠는가?"
+    uses:
+      - en: "Negate actions and states (不)"
+        ko: "행동과 상태를 부정 (不)"
+        example:
+          sentence: "學而不思則罔"
+          reading: "학이불사즉망"
+          translation:
+            en: "To study but not think leads to confusion"
+            ko: "배우고 생각하지 않으면 어둡다"
+      - en: "Deny identity or classification (非)"
+        ko: "정체 또는 분류를 부정 (非)"
+        example:
+          sentence: "非禮勿視"
+          reading: "비례물시"
+          translation:
+            en: "If it is not proper ritual, do not look"
+            ko: "예가 아니면 보지 말라"
+      - en: "Express absence or lack (無)"
+        ko: "부재 또는 결핍을 표현 (無)"
+        example:
+          sentence: "無友不如己者"
+          reading: "무우불여기자"
+          translation:
+            en: "Have no friends who are not your equal"
+            ko: "자기만 못한 자를 벗하지 말라"
+    notes:
+      en: "In negative sentences with pronoun objects, the object often moves before the verb: 未之有也 (not 未有之也). This is a key Classical Chinese word order rule."
+      ko: "대명사 목적어가 있는 부정문에서 목적어가 동사 앞으로 이동하는 경우가 많다: 未之有也 (未有之也가 아님). 이것은 한문의 핵심 어순 규칙이다."
+
+  # ============================================================
+  # 3. INTERROGATIVE SENTENCES (疑問文)
+  # ============================================================
+  interrogative:
+    id: interrogative
+    label:
+      en: "Interrogative Sentences (疑問文)"
+      ko: "의문문 (疑問文)"
+    hanja_level: L4
+    formation:
+      en: "Questions are formed by: (1) adding sentence-final particles 乎/邪/歟, (2) using interrogative pronouns 何/誰/孰/安/焉, or (3) combining both methods. Rhetorical questions use 豈...乎 or 不亦...乎 patterns."
+      ko: "의문문은 다음으로 형성된다: (1) 문말 어기사 乎/邪/歟 추가, (2) 의문 대명사 何/誰/孰/安/焉 사용, (3) 두 방법의 결합. 반어 의문은 豈...乎 또는 不亦...乎 패턴을 사용한다."
+    patterns:
+      yes_no:
+        formula: "Statement + 乎"
+        example:
+          sentence: "有朋自遠方來不亦樂乎"
+          reading: "유붕자원방래불역락호"
+          translation:
+            en: "When friends come from afar, is it not also joyful?"
+            ko: "벗이 먼 곳에서 오면 또한 즐겁지 아니한가?"
+      wh_question:
+        formula: "何/誰/孰 + V (+ O)"
+        example:
+          sentence: "何以報德"
+          reading: "하이보덕"
+          translation:
+            en: "With what should one repay virtue?"
+            ko: "무엇으로 덕에 보답하겠는가?"
+      rhetorical:
+        formula: "豈 + V + 乎/哉"
+        example:
+          sentence: "豈不知乎"
+          reading: "기불지호"
+          translation:
+            en: "How could one not know?"
+            ko: "어찌 알지 못하겠는가?"
+    uses:
+      - en: "Ask genuine questions about facts"
+        ko: "사실에 대한 진정한 질문"
+        example:
+          sentence: "孰謂汝多知乎"
+          reading: "숙위여다지호"
+          translation:
+            en: "Who says you are very knowledgeable?"
+            ko: "누가 너를 많이 안다고 하였는가?"
+      - en: "Form rhetorical questions for emphasis"
+        ko: "강조를 위한 반어 의문"
+        example:
+          sentence: "燕雀安知鴻鵠之志哉"
+          reading: "연작안지홍곡지지재"
+          translation:
+            en: "How can sparrows know the ambitions of a swan?"
+            ko: "참새가 어찌 큰 기러기의 뜻을 알겠는가?"
+      - en: "Express doubt or seek confirmation (邪/耶)"
+        ko: "의심 표현 또는 확인 요청 (邪/耶)"
+        example:
+          sentence: "天之蒼蒼其正色邪"
+          reading: "천지창창기정색야"
+          translation:
+            en: "Is the deep blue of the sky its true color?"
+            ko: "하늘의 푸르름이 그 본래 색인가?"
+    notes:
+      en: "Interrogative pronouns serve as the object when placed before the verb in questions: 何謂 (what does it mean?), 誰能 (who can?). This fronting is standard, not emphatic."
+      ko: "의문 대명사는 의문문에서 동사 앞에 놓여 목적어 역할을 한다: 何謂 (무슨 뜻인가?), 誰能 (누가 할 수 있는가?). 이 전치는 강조가 아닌 표준 어순이다."
+
+  # ============================================================
+  # 4. IMPERATIVE SENTENCES (命令文)
+  # ============================================================
+  imperative:
+    id: imperative
+    label:
+      en: "Imperative Sentences (命令文)"
+      ko: "명령문 (命令文)"
+    hanja_level: L4
+    formation:
+      en: "Commands are expressed by: (1) bare verb without subject, (2) prohibitives 勿/莫/毋 + V, or (3) particles 其/宜/當 for softer suggestions. The subject (you) is typically omitted."
+      ko: "명령은 다음으로 표현된다: (1) 주어 없는 동사 단독, (2) 금지사 勿/莫/毋 + 동사, (3) 완곡한 제안을 위한 其/宜/當. 주어(너)는 보통 생략된다."
+    patterns:
+      direct_command:
+        formula: "(S) + V + (O)"
+        example:
+          sentence: "三省吾身"
+          reading: "삼성오신"
+          translation:
+            en: "Examine yourself three times (daily)"
+            ko: "하루에 세 번 자신을 반성하라"
+      prohibition:
+        formula: "勿/莫 + V"
+        example:
+          sentence: "己所不欲勿施於人"
+          reading: "기소불욕물시어인"
+          translation:
+            en: "What you do not desire, do not impose on others"
+            ko: "자기가 원하지 않는 바를 남에게 베풀지 말라"
+      suggestion:
+        formula: "宜/當 + V"
+        example:
+          sentence: "當仁不讓於師"
+          reading: "당인불양어사"
+          translation:
+            en: "When it comes to benevolence, do not yield even to your teacher"
+            ko: "인(仁)에 관해서는 스승에게도 양보하지 말라"
+    uses:
+      - en: "Issue direct commands"
+        ko: "직접 명령"
+        example:
+          sentence: "去之"
+          reading: "거지"
+          translation:
+            en: "Leave! / Go away!"
+            ko: "떠나라!"
+      - en: "Express prohibitions"
+        ko: "금지 표현"
+        example:
+          sentence: "非禮勿視非禮勿聽非禮勿言非禮勿動"
+          reading: "비례물시비례물청비례물언비례물동"
+          translation:
+            en: "Do not look, listen, speak, or act contrary to ritual"
+            ko: "예가 아니면 보지 말고, 듣지 말고, 말하지 말고, 행하지 말라"
+    notes:
+      en: "勿 and 莫 differ in tone: 勿 is a firm prohibition (must not), while 莫 can be either a prohibition (do not) or a negation (no one/nothing does)."
+      ko: "勿과 莫은 어조가 다르다: 勿은 단호한 금지(~해서는 안 된다), 莫은 금지(~하지 말라) 또는 전칭 부정(아무도 ~않다) 모두 가능하다."
+
+  # ============================================================
+  # 5. EXCLAMATORY SENTENCES (感嘆文)
+  # ============================================================
+  exclamatory:
+    id: exclamatory
+    label:
+      en: "Exclamatory Sentences (感嘆文)"
+      ko: "감탄문 (感嘆文)"
+    hanja_level: L4
+    formation:
+      en: "Exclamations use sentence-final particles 哉, 乎, 夫, or 矣 to express strong emotion — admiration, sorrow, indignation, or surprise. Often combined with exclamatory adverbs 甚/何/善."
+      ko: "감탄문은 문말 어기사 哉, 乎, 夫, 矣를 사용하여 감탄, 슬픔, 분개, 놀라움 등 강한 감정을 표현한다. 감탄 부사 甚/何/善과 결합하기도 한다."
+    patterns:
+      admiration:
+        formula: "善哉 / 美哉 + N"
+        example:
+          sentence: "善哉言乎"
+          reading: "선재언호"
+          translation:
+            en: "How excellent are these words!"
+            ko: "참으로 훌륭한 말이로다!"
+      sorrow:
+        formula: "悲夫 / 哀哉"
+        example:
+          sentence: "甚矣吾衰也"
+          reading: "심의오쇠야"
+          translation:
+            en: "How greatly I have declined!"
+            ko: "내가 심히 쇠하였구나!"
+      wonder:
+        formula: "何 + Adj + 哉/也"
+        example:
+          sentence: "何其壯也"
+          reading: "하기장야"
+          translation:
+            en: "How magnificent it is!"
+            ko: "얼마나 장대한가!"
+    uses:
+      - en: "Express admiration or praise"
+        ko: "감탄이나 찬사를 표현"
+        example:
+          sentence: "大哉堯之爲君也"
+          reading: "대재요지위군야"
+          translation:
+            en: "How great was Yao as a ruler!"
+            ko: "위대하도다, 요임금의 군주 됨이여!"
+      - en: "Express sorrow or lament"
+        ko: "슬픔이나 탄식을 표현"
+        example:
+          sentence: "逝者如斯夫不舍晝夜"
+          reading: "서자여사부불사주야"
+          translation:
+            en: "What passes is like this — it does not stop day or night!"
+            ko: "가는 것이 이와 같구나! 밤낮으로 쉬지 않는다!"
+    notes:
+      en: "The particle 哉 is primarily exclamatory, while 乎 can be either interrogative or exclamatory depending on context. 夫 as a sentence-final particle signals emotional commentary."
+      ko: "哉는 주로 감탄이고, 乎는 문맥에 따라 의문 또는 감탄이 된다. 문말의 夫는 감정적 논평을 신호한다."
+
+  # ============================================================
+  # 6. PASSIVE SENTENCES (被動文)
+  # ============================================================
+  passive:
+    id: passive
+    label:
+      en: "Passive Sentences (被動文)"
+      ko: "피동문 (被動文)"
+    hanja_level: L3
+    formation:
+      en: "Passive voice is expressed through: (1) 被 + V (suffered/underwent), (2) 爲...所 + V (was V-ed by), (3) 見 + V (was V-ed), or (4) 於 marking the agent. Classical Chinese passives often carry a negative connotation of being adversely affected."
+      ko: "피동은 다음으로 표현된다: (1) 被 + 동사 (당하다), (2) 爲...所 + 동사 (~에 의해 ~되다), (3) 見 + 동사 (~되다), (4) 於로 행위자 표시. 한문 피동은 흔히 불이익을 당하는 부정적 함의를 담는다."
+    patterns:
+      bei_passive:
+        formula: "S + 被 + (Agent) + V"
+        example:
+          sentence: "信而見疑忠而被謗"
+          reading: "신이견의충이피방"
+          translation:
+            en: "Trusted yet suspected, loyal yet slandered"
+            ko: "믿음직하되 의심받고, 충성하되 비방당하다"
+      wei_suo_passive:
+        formula: "S + 爲 + Agent + 所 + V"
+        example:
+          sentence: "爲人所笑"
+          reading: "위인소소"
+          translation:
+            en: "Laughed at by people"
+            ko: "사람들에게 비웃음을 당하다"
+      jian_passive:
+        formula: "S + 見 + V + (於 + Agent)"
+        example:
+          sentence: "百姓見棄"
+          reading: "백성견기"
+          translation:
+            en: "The people were abandoned"
+            ko: "백성이 버림을 당하다"
+    uses:
+      - en: "Describe being adversely affected by an action"
+        ko: "행위에 의해 부정적 영향을 받음을 기술"
+        example:
+          sentence: "身死人手爲天下笑"
+          reading: "신사인수위천하소"
+          translation:
+            en: "Died at the hands of others and was laughed at by all under heaven"
+            ko: "남의 손에 죽어 천하의 웃음거리가 되다"
+      - en: "Indicate the subject receives an action (neutral)"
+        ko: "주어가 행위를 받음을 표시 (중립)"
+        example:
+          sentence: "受制於人"
+          reading: "수제어인"
+          translation:
+            en: "Controlled by others"
+            ko: "남에게 제어를 받다"
+    notes:
+      en: "In early Classical Chinese, passives were often implied without markers — the context revealed who acts and who is acted upon. Explicit passive markers became more common in later texts."
+      ko: "초기 한문에서 피동은 표지 없이 암시되는 경우가 많았다 — 문맥이 행위자와 피행위자를 드러냈다. 명시적 피동 표지는 후대 문헌에서 더 흔해졌다."
+
+  # ============================================================
+  # 7. CAUSATIVE SENTENCES (使動文)
+  # ============================================================
+  causative:
+    id: causative
+    label:
+      en: "Causative Sentences (使動文)"
+      ko: "사역문 (使動文)"
+    hanja_level: L3
+    formation:
+      en: "Causative meaning is expressed through: (1) 使/令/命 + Person + V (make/order someone to do), or (2) causative usage of ordinary verbs where a transitive reading implies 'cause to V'. The latter is a distinctive feature of Classical Chinese."
+      ko: "사역의 의미는 다음으로 표현된다: (1) 使/令/命 + 사람 + 동사 (시키다/명하다), (2) 일반 동사의 사역 용법으로 타동적 독해가 '~하게 하다'를 암시. 후자는 한문의 독특한 특징이다."
+    patterns:
+      explicit_causative:
+        formula: "S + 使/令 + O + V"
+        example:
+          sentence: "使民以時"
+          reading: "사민이시"
+          translation:
+            en: "Employ the people according to the proper seasons"
+            ko: "백성을 때에 맞추어 부리다"
+      implicit_causative:
+        formula: "S + V(causative) + O"
+        example:
+          sentence: "富國強兵"
+          reading: "부국강병"
+          translation:
+            en: "Enrich the state and strengthen the army"
+            ko: "나라를 부유하게 하고 군대를 강하게 하다"
+      command_causative:
+        formula: "S + 命 + O + V"
+        example:
+          sentence: "王命將軍征伐"
+          reading: "왕명장군정벌"
+          translation:
+            en: "The king commanded the general to launch a campaign"
+            ko: "왕이 장군에게 정벌을 명하다"
+    uses:
+      - en: "Order or direct someone to act"
+        ko: "누군가에게 행동을 명하다"
+        example:
+          sentence: "令尹子文三仕爲令尹"
+          reading: "영윤자문삼사위영윤"
+          translation:
+            en: "Ziwen was appointed as Prime Minister three times"
+            ko: "자문이 세 차례 영윤으로 임명되다"
+      - en: "Express causing a change of state (implicit)"
+        ko: "상태 변화를 야기함을 표현 (암묵적)"
+        example:
+          sentence: "正其衣冠"
+          reading: "정기의관"
+          translation:
+            en: "Straighten one's clothes and cap"
+            ko: "그 의관을 바르게 하다"
+    notes:
+      en: "Implicit causatives are one of the hardest aspects of Classical Chinese. The same character can be intransitive (the state is rich) or causative (make the state rich), depending on context."
+      ko: "암묵적 사역은 한문에서 가장 어려운 부분 중 하나이다. 같은 글자가 문맥에 따라 자동사(나라가 부유하다) 또는 사역(나라를 부유하게 하다)이 될 수 있다."
+
+  # ============================================================
+  # 8. CONDITIONAL SENTENCES (假定文)
+  # ============================================================
+  conditional:
+    id: conditional
+    label:
+      en: "Conditional Sentences (假定文)"
+      ko: "조건문 (假定文)"
+    hanja_level: L3
+    formation:
+      en: "Conditions are marked by: (1) 若/如/苟 (if) in the protasis, (2) 則 (then) in the apodosis, or (3) combined 若...則 pattern. Some conditionals are implied without explicit markers."
+      ko: "조건은 다음으로 표시된다: (1) 조건절에 若/如/苟 (만약), (2) 귀결절에 則 (그러면), (3) 若...則 결합 패턴. 일부 조건문은 명시적 표지 없이 암시된다."
+    patterns:
+      ruo_ze:
+        formula: "若/如 + Condition + 則 + Result"
+        example:
+          sentence: "如不仁則不能有天下"
+          reading: "여불인즉불능유천하"
+          translation:
+            en: "If one is not benevolent, then one cannot possess the world"
+            ko: "인하지 않으면 천하를 가질 수 없다"
+      gou_ze:
+        formula: "苟 + Condition + 則 + Result"
+        example:
+          sentence: "苟日新日日新又日新"
+          reading: "구일신일일신우일신"
+          translation:
+            en: "If one day you renew yourself, renew daily, and renew again daily"
+            ko: "진실로 하루를 새롭게 하면, 날마다 새롭게 하고, 또 날마다 새롭게 하라"
+      implicit:
+        formula: "Condition + 則 + Result (no 若/如)"
+        example:
+          sentence: "學而不思則罔思而不學則殆"
+          reading: "학이불사즉망사이불학즉태"
+          translation:
+            en: "Study without thought leads to confusion; thought without study leads to peril"
+            ko: "배우고 생각하지 않으면 어둡고, 생각하고 배우지 않으면 위태롭다"
+    uses:
+      - en: "State hypothetical conditions"
+        ko: "가정적 조건을 진술"
+        example:
+          sentence: "若使天下兼相愛"
+          reading: "약사천하겸상애"
+          translation:
+            en: "If the world were to love one another universally"
+            ko: "만약 천하로 하여금 서로 두루 사랑하게 한다면"
+      - en: "Express general truths as conditions"
+        ko: "일반적 진리를 조건으로 표현"
+        example:
+          sentence: "水至清則無魚"
+          reading: "수지청즉무어"
+          translation:
+            en: "When water is too clear, there are no fish"
+            ko: "물이 너무 맑으면 고기가 없다"
+    notes:
+      en: "若 and 如 are largely interchangeable. 苟 adds a tone of 'if truly' or 'if indeed'. Many conditional sentences in Classical Chinese rely on 則 alone, without an explicit conditional marker."
+      ko: "若과 如는 대체로 호환된다. 苟는 '진실로 ~한다면'의 어조를 더한다. 한문의 많은 조건문은 명시적 조건 표지 없이 則만으로 조건 관계를 나타낸다."
+
+  # ============================================================
+  # 9. COMPARATIVE SENTENCES (比較文)
+  # ============================================================
+  comparative:
+    id: comparative
+    label:
+      en: "Comparative Sentences (比較文)"
+      ko: "비교문 (比較文)"
+    hanja_level: L3
+    formation:
+      en: "Comparisons are expressed through: (1) 猶...也 (is like...), (2) 不如 (is not as good as), (3) 於 as a comparative marker (than), or (4) 勝/愈 (surpass/better than)."
+      ko: "비교는 다음으로 표현된다: (1) 猶...也 (~와 같다), (2) 不如 (~만 못하다), (3) 於를 비교 표지로 (~보다), (4) 勝/愈 (~보다 낫다)."
+    patterns:
+      simile:
+        formula: "A + 猶 + B + 也"
+        example:
+          sentence: "過猶不及"
+          reading: "과유불급"
+          translation:
+            en: "Excess is just like deficiency"
+            ko: "지나침은 미치지 못함과 같다"
+      inferiority:
+        formula: "A + 不如 + B"
+        example:
+          sentence: "百聞不如一見"
+          reading: "백문불여일견"
+          translation:
+            en: "Hearing a hundred times is not as good as seeing once"
+            ko: "백 번 듣는 것이 한 번 보는 것만 못하다"
+      superiority:
+        formula: "A + 勝/愈 + 於 + B"
+        example:
+          sentence: "青出於藍而勝於藍"
+          reading: "청출어람이승어람"
+          translation:
+            en: "Blue comes from indigo yet surpasses indigo"
+            ko: "청은 남에서 나왔으나 남보다 낫다"
+    uses:
+      - en: "Draw analogies between situations"
+        ko: "상황 간의 유추를 그리다"
+        example:
+          sentence: "民之於仁也猶水之就下"
+          reading: "민지어인야유수지취하"
+          translation:
+            en: "The people's tendency toward benevolence is like water flowing downward"
+            ko: "백성이 인(仁)을 향하는 것은 물이 아래로 흐르는 것과 같다"
+      - en: "Express preference or ranking"
+        ko: "선호 또는 서열을 표현"
+        example:
+          sentence: "知之者不如好之者好之者不如樂之者"
+          reading: "지지자불여호지자호지자불여락지자"
+          translation:
+            en: "One who knows is not as good as one who loves; one who loves is not as good as one who delights"
+            ko: "아는 자는 좋아하는 자만 못하고, 좋아하는 자는 즐기는 자만 못하다"
+    notes:
+      en: "The A與B孰C pattern is used for comparative questions: 禮與食孰重 (Which is more important, ritual or food?). See question_patterns in grammar_rules.yaml for more details."
+      ko: "A與B孰C 패턴은 비교 의문에 사용된다: 禮與食孰重 (예와 음식 중 어느 것이 더 중요한가?). 상세는 grammar_rules.yaml의 question_patterns 참조."
+
+  # ============================================================
+  # 10. CONCESSIVE SENTENCES (讓步文)
+  # ============================================================
+  concessive:
+    id: concessive
+    label:
+      en: "Concessive Sentences (讓步文)"
+      ko: "양보문 (讓步文)"
+    hanja_level: L2
+    formation:
+      en: "Concessive constructions use: (1) 雖 (although/even though) + 然/而/猶 (yet/still), (2) 縱/縱使 (even if), or (3) 即/即使 (even if) for hypothetical concessions."
+      ko: "양보 구문은 다음을 사용한다: (1) 雖 (비록 ~할지라도) + 然/而/猶 (그러나/여전히), (2) 縱/縱使 (설령 ~할지라도), (3) 즉/即使 (설령) — 가정적 양보."
+    patterns:
+      factual:
+        formula: "雖 + Fact + 然/而 + Contrast"
+        example:
+          sentence: "雖有嘉餚弗食不知其旨也"
+          reading: "수유가효불식부지기지야"
+          translation:
+            en: "Although there are fine dishes, if one does not eat them, one does not know their taste"
+            ko: "비록 좋은 음식이 있어도, 먹지 않으면 그 맛을 알지 못한다"
+      hypothetical:
+        formula: "縱/縱使 + Hypothetical + 亦/猶 + Result"
+        example:
+          sentence: "縱使前路荊棘吾亦往矣"
+          reading: "종사전로형극오역왕의"
+          translation:
+            en: "Even if the road ahead is full of thorns, I shall still go"
+            ko: "설령 앞길에 가시덤불이 있더라도 나는 여전히 갈 것이다"
+      sui_ran:
+        formula: "雖然 + Main clause"
+        example:
+          sentence: "雖然豈不大丈夫哉"
+          reading: "수연기불대장부재"
+          translation:
+            en: "Even so, is he not a great man?"
+            ko: "그렇더라도, 어찌 대장부가 아니겠는가?"
+    uses:
+      - en: "Acknowledge a fact while asserting a contrasting point"
+        ko: "사실을 인정하면서 대조되는 요점을 주장"
+        example:
+          sentence: "雖千萬人吾往矣"
+          reading: "수천만인오왕의"
+          translation:
+            en: "Even if there are tens of millions against me, I shall go"
+            ko: "비록 천만 명이 막더라도 나는 갈 것이다"
+      - en: "Present hypothetical concessions"
+        ko: "가정적 양보를 제시"
+        example:
+          sentence: "雖不能至然心嚮往之"
+          reading: "수불능지연심향왕지"
+          translation:
+            en: "Although I cannot reach it, my heart yearns for it"
+            ko: "비록 이르지 못하나 마음은 그것을 향해 간다"
+    notes:
+      en: "雖 introduces a factual concession ('although it is true that...'), while 縱/縱使 introduces a hypothetical one ('even if it were the case that...'). Both can be followed by 然, 而, or 猶 to mark the contrasting clause."
+      ko: "雖는 사실적 양보('비록 ~이지만')를 도입하고, 縱/縱使는 가정적 양보('설령 ~할지라도')를 도입한다. 둘 다 然, 而, 猶로 대조절을 표시할 수 있다."
