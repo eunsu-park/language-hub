@@ -1,0 +1,67 @@
+language:
+  code: es
+  name:
+    en: Spanish
+    ko: 스페인어
+    native: Español
+  writing_system: latin
+  script_direction: ltr
+  proficiency_framework: cefr
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: false
+  has_gendered_nouns: true
+  word_key: spanish          # vocabulary YAML의 단어 필드명
+  tts_locale: es-ES          # Web Speech API locale
+  accent_chars: [á, é, í, ó, ú, ñ, ü]  # input helper characters
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    cefr: A1
+    label:
+      en: "Foundations"
+      ko: "기초"
+    description:
+      en: "Alphabet, greetings, nouns, essential verbs, present tense"
+      ko: "알파벳, 인사, 명사, 필수 동사, 현재 시제"
+
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    cefr: A2
+    label:
+      en: "Elementary"
+      ko: "초급"
+    description:
+      en: "Adjectives, pronouns, numbers, conversation, daily vocabulary"
+      ko: "형용사, 대명사, 숫자, 대화, 일상 어휘"
+
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    cefr: B1
+    label:
+      en: "Intermediate Grammar"
+      ko: "중급 문법"
+    description:
+      en: "Past tenses, future, subjunctive, full conjugation system"
+      ko: "과거 시제, 미래, 접속법, 전체 활용 체계"
+
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    cefr: B2
+    label:
+      en: "Advanced"
+      ko: "고급"
+    description:
+      en: "Complex sentences, discourse markers, regional variations, idioms"
+      ko: "복합문, 담화 표지, 지역 변이, 관용구"
+
+  - id: practical
+    lessons: ["21", "22", "23", "24", "25"]
+    cefr: B2-C1
+    label:
+      en: "Practical Application"
+      ko: "실전 적용"
+    description:
+      en: "Reading, writing, culture, business, exam prep"
+      ko: "독해, 작문, 문화, 비즈니스, 시험 준비"
