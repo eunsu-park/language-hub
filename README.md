@@ -38,6 +38,7 @@ language-hub/
 | Language / 언어 | Framework | Lessons | Words | Status |
 |---|---|---|---|---|
 | [Spanish / 스페인어](./content/Spanish/en/00_Overview.md) | CEFR A1→C1 | 25 | 9,917 | Published |
+| [Classical Chinese / 한문](./content/Classical_Chinese/en/00_Overview.md) | 한자능력등급 L5→L1 | 25 | 1,783 | Published |
 
 ---
 
