@@ -1,0 +1,1002 @@
+lesson: "sup_B1_Technology_and_Internet"
+lesson_number: 143
+cefr: B1
+type: supplementary
+topic: "Technology and Internet"
+categories:
+- id: devices
+  label:
+    en: "Devices"
+    ko: "기기"
+  type: vocabulary
+  words:
+  - spanish: "el teléfono inteligente"
+    translation:
+      en: "smartphone"
+      ko: "스마트폰"
+    gender: m
+    notes:
+      en: "Commonly just el smartphone"
+      ko: "일반적으로 그냥 el smartphone이라고도 함"
+  - spanish: "la tableta"
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: f
+  - spanish: "el portátil"
+    translation:
+      en: "laptop"
+      ko: "노트북 컴퓨터"
+    gender: m
+  - spanish: "el ordenador de sobremesa"
+    translation:
+      en: "desktop computer"
+      ko: "데스크톱 컴퓨터"
+    gender: m
+  - spanish: "el disco duro"
+    translation:
+      en: "hard drive"
+      ko: "하드 드라이브"
+    gender: m
+  - spanish: "la memoria USB"
+    translation:
+      en: "USB flash drive"
+      ko: "USB 메모리"
+    gender: f
+    notes:
+      en: "Also: el pendrive, el USB"
+      ko: "동의어: el pendrive, el USB"
+  - spanish: "los auriculares"
+    translation:
+      en: "headphones / earphones"
+      ko: "이어폰 / 헤드폰"
+    gender: m
+  - spanish: "el altavoz"
+    translation:
+      en: "speaker"
+      ko: "스피커"
+    gender: m
+  - spanish: "el cargador"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: m
+  - spanish: "la batería"
+    translation:
+      en: "battery"
+      ko: "배터리"
+    gender: f
+  - spanish: "el cable"
+    translation:
+      en: "cable / cord"
+      ko: "케이블 / 전선"
+    gender: m
+  - spanish: "la cámara web"
+    translation:
+      en: "webcam"
+      ko: "웹캠"
+    gender: f
+  - spanish: "el micrófono"
+    translation:
+      en: "microphone"
+      ko: "마이크"
+    gender: m
+  - spanish: "el ratón inalámbrico"
+    translation:
+      en: "wireless mouse"
+      ko: "무선 마우스"
+    gender: m
+  - spanish: "la tarjeta de memoria"
+    translation:
+      en: "memory card"
+      ko: "메모리 카드"
+    gender: f
+  - spanish: "el reloj inteligente"
+    translation:
+      en: "smartwatch"
+      ko: "스마트워치"
+    gender: m
+  - spanish: "el router"
+    translation:
+      en: "router"
+      ko: "라우터"
+    gender: m
+  - spanish: "el adaptador"
+    translation:
+      en: "adapter"
+      ko: "어댑터"
+    gender: m
+  - spanish: "la consola"
+    translation:
+      en: "gaming console"
+      ko: "게임 콘솔"
+    gender: f
+  - spanish: "el drone"
+    translation:
+      en: "drone"
+      ko: "드론"
+    gender: m
+  - spanish: "la realidad virtual"
+    translation:
+      en: "virtual reality (VR)"
+      ko: "가상현실 (VR)"
+    gender: f
+  - spanish: "el procesador"
+    translation:
+      en: "processor / CPU"
+      ko: "프로세서"
+    gender: m
+  - spanish: "la memoria RAM"
+    translation:
+      en: "RAM memory"
+      ko: "RAM 메모리"
+    gender: f
+  - spanish: "la tarjeta gráfica"
+    translation:
+      en: "graphics card"
+      ko: "그래픽 카드"
+    gender: f
+  - spanish: "el altavoz inteligente"
+    translation:
+      en: "smart speaker"
+      ko: "스마트 스피커"
+    gender: m
+  - spanish: "la impresora 3D"
+    translation:
+      en: "3D printer"
+      ko: "3D 프린터"
+    gender: f
+  - spanish: "el lector de libros electrónicos"
+    translation:
+      en: "e-reader"
+      ko: "전자책 리더기"
+    gender: m
+  - spanish: "la realidad aumentada"
+    translation:
+      en: "augmented reality (AR)"
+      ko: "증강현실 (AR)"
+    gender: f
+  - spanish: "el dispositivo"
+    translation:
+      en: "device"
+      ko: "기기 / 장치"
+    gender: m
+  - spanish: "inalámbrico"
+    translation:
+      en: "wireless"
+      ko: "무선의"
+    gender: null
+  - spanish: "portátil"
+    translation:
+      en: "portable"
+      ko: "휴대용의"
+    gender: null
+  - spanish: "táctil"
+    translation:
+      en: "touchscreen / tactile"
+      ko: "터치스크린의"
+    gender: null
+  - spanish: "la resolución"
+    translation:
+      en: "resolution (screen)"
+      ko: "해상도"
+    gender: f
+- id: internet_and_social_media
+  label:
+    en: "Internet and Social Media"
+    ko: "인터넷 및 소셜 미디어"
+  type: vocabulary
+  words:
+  - spanish: "la red"
+    translation:
+      en: "network / the web"
+      ko: "네트워크 / 인터넷"
+    gender: f
+  - spanish: "la página web"
+    translation:
+      en: "web page"
+      ko: "웹 페이지"
+    gender: f
+  - spanish: "el sitio web"
+    translation:
+      en: "website"
+      ko: "웹사이트"
+    gender: m
+  - spanish: "el navegador"
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: m
+  - spanish: "el buscador"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: m
+  - spanish: "el enlace"
+    translation:
+      en: "link"
+      ko: "링크"
+    gender: m
+  - spanish: "la contraseña"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: f
+  - spanish: "el nombre de usuario"
+    translation:
+      en: "username"
+      ko: "사용자 이름"
+    gender: m
+  - spanish: "el perfil"
+    translation:
+      en: "profile"
+      ko: "프로필"
+    gender: m
+  - spanish: "la cuenta"
+    translation:
+      en: "account"
+      ko: "계정"
+    gender: f
+  - spanish: "el seguidor"
+    translation:
+      en: "follower"
+      ko: "팔로워"
+    gender: m
+  - spanish: "la publicación"
+    translation:
+      en: "post / publication"
+      ko: "게시물 / 포스팅"
+    gender: f
+  - spanish: "el comentario"
+    translation:
+      en: "comment"
+      ko: "댓글"
+    gender: m
+  - spanish: "el me gusta"
+    translation:
+      en: "like (social media)"
+      ko: "좋아요"
+    gender: m
+  - spanish: "compartir"
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+  - spanish: "seguir"
+    translation:
+      en: "to follow (on social media)"
+      ko: "팔로우하다"
+    gender: null
+  - spanish: "etiquetar"
+    translation:
+      en: "to tag"
+      ko: "태그하다"
+    gender: null
+  - spanish: "la etiqueta"
+    translation:
+      en: "tag / hashtag"
+      ko: "태그 / 해시태그"
+    gender: f
+  - spanish: "el blog"
+    translation:
+      en: "blog"
+      ko: "블로그"
+    gender: m
+  - spanish: "el podcast"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+  - spanish: "la transmisión en vivo"
+    translation:
+      en: "live stream"
+      ko: "라이브 방송"
+    gender: f
+  - spanish: "el influenciador"
+    translation:
+      en: "influencer"
+      ko: "인플루언서"
+    gender: m
+    notes:
+      en: "Also commonly: el influencer"
+      ko: "동의어로 자주 쓰임: el influencer"
+  - spanish: "la notificación"
+    translation:
+      en: "notification"
+      ko: "알림"
+    gender: f
+  - spanish: "hacerse viral"
+    translation:
+      en: "to go viral"
+      ko: "바이럴이 되다"
+    gender: null
+  - spanish: "el contenido"
+    translation:
+      en: "content"
+      ko: "콘텐츠"
+    gender: m
+  - spanish: "el meme"
+    translation:
+      en: "meme"
+      ko: "밈"
+    gender: m
+  - spanish: "la historia"
+    translation:
+      en: "story (social media)"
+      ko: "스토리 (소셜 미디어)"
+    gender: f
+    notes:
+      en: "Same word as history; context clarifies meaning"
+      ko: "'역사'와 같은 단어; 맥락으로 의미 구분"
+  - spanish: "el troll"
+    translation:
+      en: "troll (internet)"
+      ko: "트롤 (인터넷)"
+    gender: m
+  - spanish: "la red social"
+    translation:
+      en: "social network"
+      ko: "소셜 네트워크"
+    gender: f
+  - spanish: "el foro"
+    translation:
+      en: "forum"
+      ko: "포럼 / 게시판"
+    gender: m
+  - spanish: "la comunidad en línea"
+    translation:
+      en: "online community"
+      ko: "온라인 커뮤니티"
+    gender: f
+  - spanish: "el algoritmo"
+    translation:
+      en: "algorithm (social media)"
+      ko: "알고리즘"
+    gender: m
+  - spanish: "suscribirse"
+    translation:
+      en: "to subscribe"
+      ko: "구독하다"
+    gender: null
+  - spanish: "darse de baja"
+    translation:
+      en: "to unsubscribe"
+      ko: "구독을 취소하다"
+    gender: null
+  - spanish: "el tutorial"
+    translation:
+      en: "tutorial"
+      ko: "튜토리얼"
+    gender: m
+  - spanish: "el canal"
+    translation:
+      en: "channel (online)"
+      ko: "채널"
+    gender: m
+- id: software
+  label:
+    en: "Software"
+    ko: "소프트웨어"
+  type: vocabulary
+  words:
+  - spanish: "el programa"
+    translation:
+      en: "program / software"
+      ko: "프로그램 / 소프트웨어"
+    gender: m
+  - spanish: "la aplicación"
+    translation:
+      en: "application / app"
+      ko: "앱 / 어플리케이션"
+    gender: f
+    notes:
+      en: "Informal: la app"
+      ko: "줄임말: la app"
+  - spanish: "el sistema operativo"
+    translation:
+      en: "operating system"
+      ko: "운영 체제"
+    gender: m
+  - spanish: "la actualización"
+    translation:
+      en: "update"
+      ko: "업데이트"
+    gender: f
+  - spanish: "el virus"
+    translation:
+      en: "virus (computer)"
+      ko: "바이러스 (컴퓨터)"
+    gender: m
+  - spanish: "el antivirus"
+    translation:
+      en: "antivirus software"
+      ko: "백신 프로그램"
+    gender: m
+  - spanish: "el archivo"
+    translation:
+      en: "file"
+      ko: "파일"
+    gender: m
+  - spanish: "la carpeta"
+    translation:
+      en: "folder"
+      ko: "폴더"
+    gender: f
+  - spanish: "la nube"
+    translation:
+      en: "cloud (computing)"
+      ko: "클라우드"
+    gender: f
+  - spanish: "el almacenamiento"
+    translation:
+      en: "storage"
+      ko: "저장 공간"
+    gender: m
+  - spanish: "la copia de seguridad"
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: f
+  - spanish: "la base de datos"
+    translation:
+      en: "database"
+      ko: "데이터베이스"
+    gender: f
+  - spanish: "la hoja de cálculo"
+    translation:
+      en: "spreadsheet"
+      ko: "스프레드시트"
+    gender: f
+  - spanish: "el procesador de textos"
+    translation:
+      en: "word processor"
+      ko: "워드 프로세서"
+    gender: m
+  - spanish: "la inteligencia artificial"
+    translation:
+      en: "artificial intelligence (AI)"
+      ko: "인공지능 (AI)"
+    gender: f
+  - spanish: "el software libre"
+    translation:
+      en: "open-source software"
+      ko: "오픈소스 소프트웨어"
+    gender: m
+  - spanish: "el cortafuegos"
+    translation:
+      en: "firewall"
+      ko: "방화벽"
+    gender: m
+  - spanish: "la extensión"
+    translation:
+      en: "extension / plugin"
+      ko: "확장 프로그램"
+    gender: f
+  - spanish: "el formato"
+    translation:
+      en: "format"
+      ko: "형식 / 포맷"
+    gender: m
+  - spanish: "comprimir"
+    translation:
+      en: "to compress (a file)"
+      ko: "압축하다"
+    gender: null
+  - spanish: "el enlace de descarga"
+    translation:
+      en: "download link"
+      ko: "다운로드 링크"
+    gender: m
+- id: tech_verbs
+  label:
+    en: "Tech Verbs"
+    ko: "기술 동사"
+  type: vocabulary
+  words:
+  - spanish: "descargar"
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+  - spanish: "subir"
+    translation:
+      en: "to upload"
+      ko: "업로드하다"
+    gender: null
+  - spanish: "instalar"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+  - spanish: "desinstalar"
+    translation:
+      en: "to uninstall"
+      ko: "제거하다"
+    gender: null
+  - spanish: "actualizar"
+    translation:
+      en: "to update"
+      ko: "업데이트하다"
+    gender: null
+  - spanish: "reiniciar"
+    translation:
+      en: "to restart / to reboot"
+      ko: "재시작하다"
+    gender: null
+  - spanish: "apagar"
+    translation:
+      en: "to turn off / to shut down"
+      ko: "끄다"
+    gender: null
+  - spanish: "encender"
+    translation:
+      en: "to turn on"
+      ko: "켜다"
+    gender: null
+  - spanish: "conectar"
+    translation:
+      en: "to connect"
+      ko: "연결하다"
+    gender: null
+  - spanish: "desconectar"
+    translation:
+      en: "to disconnect"
+      ko: "연결을 끊다"
+    gender: null
+  - spanish: "guardar"
+    translation:
+      en: "to save (a file)"
+      ko: "저장하다"
+    gender: null
+  - spanish: "borrar"
+    translation:
+      en: "to delete / to erase"
+      ko: "삭제하다"
+    gender: null
+  - spanish: "copiar"
+    translation:
+      en: "to copy"
+      ko: "복사하다"
+    gender: null
+  - spanish: "pegar"
+    translation:
+      en: "to paste"
+      ko: "붙여넣다"
+    gender: null
+  - spanish: "buscar"
+    translation:
+      en: "to search"
+      ko: "검색하다"
+    gender: null
+  - spanish: "navegar"
+    translation:
+      en: "to browse / to surf (the web)"
+      ko: "인터넷을 둘러보다"
+    gender: null
+  - spanish: "hacer clic"
+    translation:
+      en: "to click"
+      ko: "클릭하다"
+    gender: null
+  - spanish: "iniciar sesión"
+    translation:
+      en: "to log in"
+      ko: "로그인하다"
+    gender: null
+  - spanish: "cerrar sesión"
+    translation:
+      en: "to log out"
+      ko: "로그아웃하다"
+    gender: null
+  - spanish: "cargar"
+    translation:
+      en: "to charge / to load"
+      ko: "충전하다 / 로딩하다"
+    gender: null
+  - spanish: "configurar"
+    translation:
+      en: "to configure / to set up"
+      ko: "설정하다"
+    gender: null
+  - spanish: "programar"
+    translation:
+      en: "to program / to code"
+      ko: "프로그래밍하다"
+    gender: null
+  - spanish: "hackear"
+    translation:
+      en: "to hack"
+      ko: "해킹하다"
+    gender: null
+  - spanish: "cifrar"
+    translation:
+      en: "to encrypt"
+      ko: "암호화하다"
+    gender: null
+  - spanish: "sincronizar"
+    translation:
+      en: "to sync"
+      ko: "동기화하다"
+    gender: null
+  - spanish: "escanear"
+    translation:
+      en: "to scan"
+      ko: "스캔하다"
+    gender: null
+  - spanish: "formatear"
+    translation:
+      en: "to format"
+      ko: "포맷하다"
+    gender: null
+  - spanish: "vincular"
+    translation:
+      en: "to link / to pair"
+      ko: "연결하다 / 페어링하다"
+    gender: null
+  - spanish: "deslizar"
+    translation:
+      en: "to swipe"
+      ko: "스와이프하다"
+    gender: null
+  - spanish: "ampliar"
+    translation:
+      en: "to zoom in"
+      ko: "확대하다"
+    gender: null
+  - spanish: "reducir"
+    translation:
+      en: "to zoom out"
+      ko: "축소하다"
+    gender: null
+- id: digital_communication
+  label:
+    en: "Digital Communication"
+    ko: "디지털 통신"
+  type: vocabulary
+  words:
+  - spanish: "el correo electrónico"
+    translation:
+      en: "email"
+      ko: "이메일"
+    gender: m
+    notes:
+      en: "Also: el email, el e-mail"
+      ko: "동의어: el email, el e-mail"
+  - spanish: "la bandeja de entrada"
+    translation:
+      en: "inbox"
+      ko: "받은 편지함"
+    gender: f
+  - spanish: "el mensaje"
+    translation:
+      en: "message"
+      ko: "메시지"
+    gender: m
+  - spanish: "el mensaje de texto"
+    translation:
+      en: "text message"
+      ko: "문자 메시지"
+    gender: m
+  - spanish: "el chat"
+    translation:
+      en: "chat"
+      ko: "채팅"
+    gender: m
+  - spanish: "la videollamada"
+    translation:
+      en: "video call"
+      ko: "영상 통화"
+    gender: f
+  - spanish: "el emoji"
+    translation:
+      en: "emoji"
+      ko: "이모지"
+    gender: m
+  - spanish: "el archivo adjunto"
+    translation:
+      en: "attachment"
+      ko: "첨부 파일"
+    gender: m
+  - spanish: "adjuntar"
+    translation:
+      en: "to attach (a file)"
+      ko: "첨부하다"
+    gender: null
+  - spanish: "reenviar"
+    translation:
+      en: "to forward (email)"
+      ko: "전달하다"
+    gender: null
+  - spanish: "responder"
+    translation:
+      en: "to reply"
+      ko: "답장하다"
+    gender: null
+  - spanish: "el spam"
+    translation:
+      en: "spam"
+      ko: "스팸"
+    gender: m
+  - spanish: "bloquear"
+    translation:
+      en: "to block (user)"
+      ko: "차단하다"
+    gender: null
+  - spanish: "la privacidad"
+    translation:
+      en: "privacy"
+      ko: "개인 정보 보호"
+    gender: f
+  - spanish: "los datos personales"
+    translation:
+      en: "personal data"
+      ko: "개인 정보"
+    gender: m
+  - spanish: "la ciberseguridad"
+    translation:
+      en: "cybersecurity"
+      ko: "사이버 보안"
+    gender: f
+  - spanish: "la señal"
+    translation:
+      en: "signal / reception"
+      ko: "신호 / 수신"
+    gender: f
+  - spanish: "la cobertura"
+    translation:
+      en: "coverage (mobile)"
+      ko: "통신 범위"
+    gender: f
+  - spanish: "la banda ancha"
+    translation:
+      en: "broadband"
+      ko: "광대역 통신"
+    gender: f
+  - spanish: "el wifi"
+    translation:
+      en: "wifi"
+      ko: "와이파이"
+    gender: m
+  - spanish: "la fibra óptica"
+    translation:
+      en: "fiber optic"
+      ko: "광섬유"
+    gender: f
+  - spanish: "la firma digital"
+    translation:
+      en: "digital signature"
+      ko: "전자 서명"
+    gender: f
+  - spanish: "la verificación en dos pasos"
+    translation:
+      en: "two-factor authentication"
+      ko: "2단계 인증"
+    gender: f
+  - spanish: "la cookie"
+    translation:
+      en: "cookie (web)"
+      ko: "쿠키 (웹)"
+    gender: f
+  - spanish: "los datos móviles"
+    translation:
+      en: "mobile data"
+      ko: "모바일 데이터"
+    gender: m
+  - spanish: "la tarifa plana"
+    translation:
+      en: "flat rate / unlimited plan"
+      ko: "정액제 / 무제한 요금제"
+    gender: f
+  - spanish: "el proveedor de internet"
+    translation:
+      en: "internet service provider"
+      ko: "인터넷 서비스 제공자"
+    gender: m
+  - spanish: "el phishing"
+    translation:
+      en: "phishing"
+      ko: "피싱"
+    gender: m
+  - spanish: "el malware"
+    translation:
+      en: "malware"
+      ko: "멀웨어"
+    gender: m
+  - spanish: "la contraseña segura"
+    translation:
+      en: "strong password"
+      ko: "강력한 비밀번호"
+    gender: f
+  - spanish: "el servidor"
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: m
+  - spanish: "el dominio"
+    translation:
+      en: "domain (web)"
+      ko: "도메인"
+    gender: m
+  - spanish: "el hosting"
+    translation:
+      en: "web hosting"
+      ko: "웹 호스팅"
+    gender: m
+  - spanish: "la dirección IP"
+    translation:
+      en: "IP address"
+      ko: "IP 주소"
+    gender: f
+  - spanish: "el VPN"
+    translation:
+      en: "VPN (virtual private network)"
+      ko: "VPN (가상 사설 네트워크)"
+    gender: m
+  - spanish: "la nube pública"
+    translation:
+      en: "public cloud"
+      ko: "퍼블릭 클라우드"
+    gender: f
+  - spanish: "el almacenamiento en la nube"
+    translation:
+      en: "cloud storage"
+      ko: "클라우드 저장소"
+    gender: m
+  - spanish: "la autenticación"
+    translation:
+      en: "authentication"
+      ko: "인증"
+    gender: f
+  - spanish: "el código QR"
+    translation:
+      en: "QR code"
+      ko: "QR 코드"
+    gender: m
+  - spanish: "el chatbot"
+    translation:
+      en: "chatbot"
+      ko: "챗봇"
+    gender: m
+  - spanish: "la aplicación web"
+    translation:
+      en: "web application"
+      ko: "웹 어플리케이션"
+    gender: f
+  - spanish: "el ancho de banda"
+    translation:
+      en: "bandwidth"
+      ko: "대역폭"
+    gender: m
+  - spanish: "la latencia"
+    translation:
+      en: "latency"
+      ko: "지연 시간"
+    gender: f
+  - spanish: "el megabyte"
+    translation:
+      en: "megabyte"
+      ko: "메가바이트"
+    gender: m
+  - spanish: "el gigabyte"
+    translation:
+      en: "gigabyte"
+      ko: "기가바이트"
+    gender: m
+  - spanish: "la velocidad de conexión"
+    translation:
+      en: "connection speed"
+      ko: "접속 속도"
+    gender: f
+  - spanish: "el navegador privado"
+    translation:
+      en: "private browser / incognito mode"
+      ko: "시크릿 모드 / 프라이빗 브라우저"
+    gender: m
+  - spanish: "la pestaña"
+    translation:
+      en: "tab (browser)"
+      ko: "탭 (브라우저)"
+    gender: f
+  - spanish: "el marcador"
+    translation:
+      en: "bookmark"
+      ko: "북마크"
+    gender: m
+  - spanish: "el historial"
+    translation:
+      en: "browsing history"
+      ko: "방문 기록"
+    gender: m
+  - spanish: "la caché"
+    translation:
+      en: "cache"
+      ko: "캐시"
+    gender: f
+  - spanish: "la ventana emergente"
+    translation:
+      en: "pop-up window"
+      ko: "팝업 창"
+    gender: f
+  - spanish: "el bloqueador de anuncios"
+    translation:
+      en: "ad blocker"
+      ko: "광고 차단기"
+    gender: m
+  - spanish: "el ransomware"
+    translation:
+      en: "ransomware"
+      ko: "랜섬웨어"
+    gender: m
+  - spanish: "la brecha de seguridad"
+    translation:
+      en: "security breach"
+      ko: "보안 침해"
+    gender: f
+  - spanish: "el Internet de las cosas"
+    translation:
+      en: "Internet of Things (IoT)"
+      ko: "사물인터넷 (IoT)"
+    gender: m
+  - spanish: "la automatización"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: f
+  - spanish: "el aprendizaje automático"
+    translation:
+      en: "machine learning"
+      ko: "머신러닝"
+    gender: m
+  - spanish: "los macrodatos"
+    translation:
+      en: "big data"
+      ko: "빅데이터"
+    gender: m
+    notes:
+      en: "Also commonly: el big data"
+      ko: "동의어: el big data"
+  - spanish: "la cadena de bloques"
+    translation:
+      en: "blockchain"
+      ko: "블록체인"
+    gender: f
+  - spanish: "el almacenamiento externo"
+    translation:
+      en: "external storage"
+      ko: "외장 저장 장치"
+    gender: m
+  - spanish: "la impresora"
+    translation:
+      en: "printer"
+      ko: "프린터"
+    gender: f
+  - spanish: "el escáner"
+    translation:
+      en: "scanner"
+      ko: "스캐너"
+    gender: m
+  - spanish: "el píxel"
+    translation:
+      en: "pixel"
+      ko: "픽셀"
+    gender: m
+  - spanish: "la pantalla"
+    translation:
+      en: "screen / display"
+      ko: "화면 / 디스플레이"
+    gender: f
+  - spanish: "el teclado"
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: m
+  - spanish: "el ratón"
+    translation:
+      en: "mouse (computer)"
+      ko: "마우스"
+    gender: m
+  - spanish: "el puerto USB"
+    translation:
+      en: "USB port"
+      ko: "USB 포트"
+    gender: m

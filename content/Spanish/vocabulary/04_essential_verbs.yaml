@@ -1,0 +1,652 @@
+lesson: 04_Essential_Verbs
+lesson_number: 4
+cefr: A1
+categories:
+- id: 21_present_tense_conjugation
+  label:
+    en: 2.1 Present Tense Conjugation
+    ko: 2.1 현재 시제 활용(Conjugation)
+  type: conjugation
+  verb: ser
+  tense: present
+  entries:
+  - subject: yo
+    form: soy
+    example:
+      es: Soy estudiante.
+      en: I'm a student.
+  - subject: tú
+    form: eres
+    example:
+      es: Eres inteligente.
+      en: You're smart.
+  - subject: él/ella/usted
+    form: es
+    example:
+      es: Es profesor.
+      en: He's a teacher.
+  - subject: nosotros/as
+    form: somos
+    example:
+      es: Somos coreanos.
+      en: We're Korean.
+  - subject: vosotros/as
+    form: sois
+    example:
+      es: Sois amigos.
+      en: You all are friends.
+  - subject: ellos/ellas/ustedes
+    form: son
+    example:
+      es: Son las tres.
+      en: It's three o'clock.
+- id: 31_present_tense_conjugation
+  label:
+    en: 3.1 Present Tense Conjugation
+    ko: 3.1 현재 시제 활용(Conjugation)
+  type: conjugation
+  verb: estar
+  tense: present
+  entries:
+  - subject: yo
+    form: estoy
+    example:
+      es: Estoy en casa.
+      en: I'm at home.
+  - subject: tú
+    form: estás
+    example:
+      es: ¿Cómo estás?
+      en: How are you?
+  - subject: él/ella/usted
+    form: está
+    example:
+      es: Está contento.
+      en: He's happy.
+  - subject: nosotros/as
+    form: estamos
+    example:
+      es: Estamos cansados.
+      en: We're tired.
+  - subject: vosotros/as
+    form: estáis
+    example:
+      es: ¿Estáis listos?
+      en: Are you all ready?
+  - subject: ellos/ellas/ustedes
+    form: están
+    example:
+      es: Están en Madrid.
+      en: They're in Madrid.
+- id: 51_present_tense_conjugation
+  label:
+    en: 5.1 Present Tense Conjugation
+    ko: 5.1 현재 시제 활용(Conjugation)
+  type: conjugation
+  verb: tener
+  tense: present
+  entries:
+  - subject: yo
+    form: tengo
+    example:
+      es: Tengo un gato.
+      en: I have a cat.
+  - subject: tú
+    form: tienes
+    example:
+      es: ¿Tienes tiempo?
+      en: Do you have time?
+  - subject: él/ella/usted
+    form: tiene
+    example:
+      es: Tiene 30 años.
+      en: He's 30 years old.
+  - subject: nosotros/as
+    form: tenemos
+    example:
+      es: Tenemos clase.
+      en: We have class.
+  - subject: vosotros/as
+    form: tenéis
+    example:
+      es: ¿Tenéis hambre?
+      en: Are you hungry?
+  - subject: ellos/ellas/ustedes
+    form: tienen
+    example:
+      es: Tienen dos hijos.
+      en: They have two children.
+- id: ser_estar_expressions
+  label:
+    en: Ser & Estar Expressions
+    ko: Ser와 Estar 표현
+  type: vocabulary
+  words:
+  - spanish: ser de
+    translation:
+      en: to be from
+      ko: ~출신이다
+    gender: null
+    notes:
+      en: "Soy de Corea. — I'm from Korea."
+      ko: "Soy de Corea. — 나는 한국 출신이다."
+  - spanish: es importante
+    translation:
+      en: it is important
+      ko: 중요하다
+    gender: null
+  - spanish: es necesario
+    translation:
+      en: it is necessary
+      ko: 필요하다
+    gender: null
+  - spanish: es posible
+    translation:
+      en: it is possible
+      ko: 가능하다
+    gender: null
+  - spanish: es imposible
+    translation:
+      en: it is impossible
+      ko: 불가능하다
+    gender: null
+  - spanish: es fácil
+    translation:
+      en: it is easy
+      ko: 쉽다
+    gender: null
+  - spanish: es difícil
+    translation:
+      en: it is difficult
+      ko: 어렵다
+    gender: null
+  - spanish: es verdad
+    translation:
+      en: it is true
+      ko: 사실이다
+    gender: null
+  - spanish: estar de acuerdo
+    translation:
+      en: to agree
+      ko: 동의하다
+    gender: null
+    notes:
+      en: "Estoy de acuerdo contigo. — I agree with you."
+      ko: "Estoy de acuerdo contigo. — 너와 동의해."
+  - spanish: estar listo/a
+    translation:
+      en: to be ready
+      ko: 준비가 되다
+    gender: null
+    notes:
+      en: With estar = ready; with ser = clever
+      ko: estar와 쓰면 = 준비된; ser와 쓰면 = 영리한
+  - spanish: estar ocupado/a
+    translation:
+      en: to be busy
+      ko: 바쁘다
+    gender: null
+  - spanish: estar seguro/a
+    translation:
+      en: to be sure
+      ko: 확신하다
+    gender: null
+  - spanish: estar bien
+    translation:
+      en: to be fine / okay
+      ko: 괜찮다
+    gender: null
+  - spanish: estar mal
+    translation:
+      en: to be unwell / wrong
+      ko: 좋지 않다
+    gender: null
+  - spanish: estar contento/a
+    translation:
+      en: to be happy
+      ko: 기쁘다
+    gender: null
+  - spanish: estar cansado/a
+    translation:
+      en: to be tired
+      ko: 피곤하다
+    gender: null
+  - spanish: estar enfermo/a
+    translation:
+      en: to be sick
+      ko: 아프다
+    gender: null
+  - spanish: estar de vacaciones
+    translation:
+      en: to be on vacation
+      ko: 휴가 중이다
+    gender: null
+  - spanish: estar de buen humor
+    translation:
+      en: to be in a good mood
+      ko: 기분이 좋다
+    gender: null
+  - spanish: estar de mal humor
+    translation:
+      en: to be in a bad mood
+      ko: 기분이 나쁘다
+    gender: null
+- id: haber_expressions
+  label:
+    en: Haber Expressions
+    ko: Haber 표현
+  type: vocabulary
+  words:
+  - spanish: hay
+    translation:
+      en: there is / there are
+      ko: ~이 있다
+    gender: null
+    notes:
+      en: Impersonal form of haber; invariable for singular/plural
+      ko: haber의 비인칭형; 단수/복수 동일
+  - spanish: hay que
+    translation:
+      en: one must / it is necessary to
+      ko: ~해야 한다
+    gender: null
+    notes:
+      en: "Hay que estudiar. — One must study."
+      ko: "Hay que estudiar. — 공부해야 한다."
+  - spanish: no hay
+    translation:
+      en: there is not / there are not
+      ko: ~이 없다
+    gender: null
+  - spanish: ¿Hay...?
+    translation:
+      en: Is there...? / Are there...?
+      ko: ~이 있나요?
+    gender: null
+  - spanish: hay mucho/a
+    translation:
+      en: there is a lot of
+      ko: 많이 있다
+    gender: null
+  - spanish: hay poco/a
+    translation:
+      en: there is little of
+      ko: 적게 있다
+    gender: null
+  - spanish: hay demasiado/a
+    translation:
+      en: there is too much
+      ko: 너무 많이 있다
+    gender: null
+  - spanish: hay suficiente
+    translation:
+      en: there is enough
+      ko: 충분히 있다
+    gender: null
+  - spanish: no hay nada
+    translation:
+      en: there is nothing
+      ko: 아무것도 없다
+    gender: null
+  - spanish: no hay nadie
+    translation:
+      en: there is nobody
+      ko: 아무도 없다
+    gender: null
+- id: other_essential_verbs
+  label:
+    en: Other Essential Verbs
+    ko: 기타 필수 동사
+  type: vocabulary
+  words:
+  - spanish: hacer
+    translation:
+      en: to do / to make
+      ko: 하다 / 만들다
+    gender: null
+    notes:
+      en: Irregular; yo form = hago
+      ko: 불규칙; yo 형태 = hago
+  - spanish: poder
+    translation:
+      en: to be able to / can
+      ko: ~할 수 있다
+    gender: null
+    notes:
+      en: Stem-changing (o→ue); puedo, puedes...
+      ko: 어간 변화 (o→ue); puedo, puedes...
+  - spanish: querer
+    translation:
+      en: to want / to love
+      ko: 원하다 / 사랑하다
+    gender: null
+    notes:
+      en: Stem-changing (e→ie); quiero, quieres...
+      ko: 어간 변화 (e→ie); quiero, quieres...
+  - spanish: saber
+    translation:
+      en: to know (facts/how to)
+      ko: 알다 (사실/방법)
+    gender: null
+    notes:
+      en: "Sé nadar. — I know how to swim."
+      ko: "Sé nadar. — 수영할 줄 안다."
+  - spanish: conocer
+    translation:
+      en: to know (people/places)
+      ko: 알다 (사람/장소)
+    gender: null
+    notes:
+      en: "Conozco Madrid. — I know Madrid."
+      ko: "Conozco Madrid. — 마드리드를 안다."
+  - spanish: decir
+    translation:
+      en: to say / to tell
+      ko: 말하다
+    gender: null
+    notes:
+      en: Irregular; yo form = digo
+      ko: 불규칙; yo 형태 = digo
+  - spanish: dar
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+    notes:
+      en: Irregular; yo form = doy
+      ko: 불규칙; yo 형태 = doy
+  - spanish: poner
+    translation:
+      en: to put / to place
+      ko: 놓다
+    gender: null
+    notes:
+      en: Irregular; yo form = pongo
+      ko: 불규칙; yo 형태 = pongo
+  - spanish: traer
+    translation:
+      en: to bring
+      ko: 가져오다
+    gender: null
+    notes:
+      en: Irregular; yo form = traigo
+      ko: 불규칙; yo 형태 = traigo
+  - spanish: necesitar
+    translation:
+      en: to need
+      ko: 필요하다
+    gender: null
+  - spanish: pensar
+    translation:
+      en: to think
+      ko: 생각하다
+    gender: null
+    notes:
+      en: Stem-changing (e→ie); pienso, piensas...
+      ko: 어간 변화 (e→ie); pienso, piensas...
+  - spanish: creer
+    translation:
+      en: to believe
+      ko: 믿다
+    gender: null
+  - spanish: deber
+    translation:
+      en: to must / to owe
+      ko: ~해야 하다 / 빚지다
+    gender: null
+    notes:
+      en: "Debes estudiar. — You must study."
+      ko: "Debes estudiar. — 공부해야 해."
+  - spanish: gustar
+    translation:
+      en: to like / to please
+      ko: 좋아하다 / 마음에 들다
+    gender: null
+    notes:
+      en: "Me gusta el café. — I like coffee. (lit: Coffee pleases me.)"
+      ko: "Me gusta el café. — 커피를 좋아한다. (직역: 커피가 나를 기쁘게 한다.)"
+  - spanish: parecer
+    translation:
+      en: to seem / to appear
+      ko: ~인 것 같다
+    gender: null
+    notes:
+      en: "Me parece bien. — It seems fine to me."
+      ko: "Me parece bien. — 괜찮은 것 같아요."
+  - spanish: llamar
+    translation:
+      en: to call
+      ko: 부르다 / 전화하다
+    gender: null
+  - spanish: esperar
+    translation:
+      en: to wait / to hope
+      ko: 기다리다 / 바라다
+    gender: null
+  - spanish: buscar
+    translation:
+      en: to look for / to search
+      ko: 찾다
+    gender: null
+  - spanish: encontrar
+    translation:
+      en: to find
+      ko: 찾다 / 발견하다
+    gender: null
+    notes:
+      en: Stem-changing (o→ue); encuentro, encuentras...
+      ko: 어간 변화 (o→ue); encuentro, encuentras...
+  - spanish: usar
+    translation:
+      en: to use
+      ko: 사용하다
+    gender: null
+  - spanish: trabajar
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+  - spanish: vivir
+    translation:
+      en: to live
+      ko: 살다
+    gender: null
+  - spanish: abrir
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+  - spanish: cerrar
+    translation:
+      en: to close
+      ko: 닫다
+    gender: null
+    notes:
+      en: Stem-changing (e→ie); cierro, cierras...
+      ko: 어간 변화 (e→ie); cierro, cierras...
+  - spanish: comenzar
+    translation:
+      en: to begin / to start
+      ko: 시작하다
+    gender: null
+    notes:
+      en: Stem-changing (e→ie); comienzo, comienzas...
+      ko: 어간 변화 (e→ie); comienzo, comienzas...
+  - spanish: terminar
+    translation:
+      en: to finish / to end
+      ko: 끝내다
+    gender: null
+  - spanish: sentir
+    translation:
+      en: to feel / to be sorry
+      ko: 느끼다 / 유감이다
+    gender: null
+    notes:
+      en: Stem-changing (e→ie); siento, sientes...
+      ko: 어간 변화 (e→ie); siento, sientes...
+  - spanish: dormir
+    translation:
+      en: to sleep
+      ko: 자다
+    gender: null
+    notes:
+      en: Stem-changing (o→ue); duermo, duermes...
+      ko: 어간 변화 (o→ue); duermo, duermes...
+  - spanish: jugar
+    translation:
+      en: to play
+      ko: 놀다 / (게임을) 하다
+    gender: null
+    notes:
+      en: Stem-changing (u→ue); juego, juegas...
+      ko: 어간 변화 (u→ue); juego, juegas...
+  - spanish: pedir
+    translation:
+      en: to ask for / to order
+      ko: 요청하다 / 주문하다
+    gender: null
+    notes:
+      en: Stem-changing (e→i); pido, pides...
+      ko: 어간 변화 (e→i); pido, pides...
+- id: motion_verbs
+  label:
+    en: Motion Verbs
+    ko: 이동 동사
+  type: vocabulary
+  words:
+  - spanish: ir
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    notes:
+      en: Highly irregular; voy, vas, va, vamos, vais, van
+      ko: 매우 불규칙; voy, vas, va, vamos, vais, van
+  - spanish: venir
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    notes:
+      en: Irregular; yo form = vengo; stem-changing (e→ie)
+      ko: 불규칙; yo 형태 = vengo; 어간 변화 (e→ie)
+  - spanish: ir a
+    translation:
+      en: to be going to (future)
+      ko: ~할 예정이다
+    gender: null
+    notes:
+      en: "Voy a comer. — I'm going to eat."
+      ko: "Voy a comer. — 먹을 예정이다."
+  - spanish: salir
+    translation:
+      en: to leave / to go out
+      ko: 나가다 / 출발하다
+    gender: null
+    notes:
+      en: Irregular; yo form = salgo
+      ko: 불규칙; yo 형태 = salgo
+  - spanish: llegar
+    translation:
+      en: to arrive
+      ko: 도착하다
+    gender: null
+  - spanish: volver
+    translation:
+      en: to return / to come back
+      ko: 돌아오다
+    gender: null
+    notes:
+      en: Stem-changing (o→ue); vuelvo, vuelves...
+      ko: 어간 변화 (o→ue); vuelvo, vuelves...
+  - spanish: entrar
+    translation:
+      en: to enter
+      ko: 들어가다
+    gender: null
+  - spanish: subir
+    translation:
+      en: to go up / to climb
+      ko: 올라가다
+    gender: null
+  - spanish: bajar
+    translation:
+      en: to go down / to descend
+      ko: 내려가다
+    gender: null
+  - spanish: caminar
+    translation:
+      en: to walk
+      ko: 걷다
+    gender: null
+  - spanish: correr
+    translation:
+      en: to run
+      ko: 달리다
+    gender: null
+  - spanish: seguir
+    translation:
+      en: to follow / to continue
+      ko: 따라가다 / 계속하다
+    gender: null
+    notes:
+      en: Stem-changing (e→i); sigo, sigues...
+      ko: 어간 변화 (e→i); sigo, sigues...
+  - spanish: pasar
+    translation:
+      en: to pass / to happen
+      ko: 지나가다 / 일어나다
+    gender: null
+  - spanish: cruzar
+    translation:
+      en: to cross
+      ko: 건너다
+    gender: null
+  - spanish: conducir
+    translation:
+      en: to drive
+      ko: 운전하다
+    gender: null
+    notes:
+      en: Irregular; yo form = conduzco
+      ko: 불규칙; yo 형태 = conduzco
+  - spanish: viajar
+    translation:
+      en: to travel
+      ko: 여행하다
+    gender: null
+  - spanish: caer
+    translation:
+      en: to fall
+      ko: 떨어지다
+    gender: null
+    notes:
+      en: Irregular; yo form = caigo
+      ko: 불규칙; yo 형태 = caigo
+  - spanish: mover
+    translation:
+      en: to move
+      ko: 움직이다
+    gender: null
+    notes:
+      en: Stem-changing (o→ue); muevo, mueves...
+      ko: 어간 변화 (o→ue); muevo, mueves...
+  - spanish: parar
+    translation:
+      en: to stop
+      ko: 멈추다
+    gender: null
+  - spanish: regresar
+    translation:
+      en: to return / to go back
+      ko: 돌아가다
+    gender: null
+  - spanish: huir
+    translation:
+      en: to flee / to escape
+      ko: 도망치다
+    gender: null
+    notes:
+      en: Adds y in conjugation; huyo, huyes...
+      ko: 활용 시 y 추가; huyo, huyes...

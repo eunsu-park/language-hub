@@ -1,0 +1,798 @@
+course: Spanish
+total_words: 9917
+files:
+- file: 01_spanish_language_and_pronunciation.yaml
+  lesson: 01_Spanish_Language_and_Pronunciation
+  word_count: 80
+  categories:
+  - 11_alphabet_basics
+  - 13_pronunciation_concepts
+  - 14_classroom_language
+  - 12_first_words
+- file: 02_greetings_and_basic_conversation.yaml
+  lesson: 02_Greetings_and_Basic_Conversation
+  word_count: 80
+  categories:
+  - 21_common_informal_greetings
+  - 22_regional_informal_greetings
+  - 23_formal_greetings
+  - 24_introductions
+  - 25_farewells
+  - 26_nationalities
+  - 42_common_professions
+  - 27_responding_to_greetings
+  - 71_thanking
+  - 73_making_requests
+- file: 03_nouns_articles_and_gender.yaml
+  lesson: 03_Nouns_Articles_and_Gender
+  word_count: 82
+  categories:
+  - 6_essential_nouns_family
+  - 7_essential_nouns_body
+  - 8_essential_nouns_house
+  - 9_essential_nouns_places
+- file: 04_essential_verbs.yaml
+  lesson: 04_Essential_Verbs
+  word_count: 81
+  categories:
+  - 21_present_tense_conjugation
+  - 31_present_tense_conjugation
+  - 51_present_tense_conjugation
+  - ser_estar_expressions
+  - haber_expressions
+  - other_essential_verbs
+  - motion_verbs
+- file: 05_present_tense_and_basic_sentences.yaml
+  lesson: 05_Present_Tense_and_Basic_Sentences
+  word_count: 80
+  categories:
+  - 21_pattern_hablar_to_speak
+  - 31_pattern_comer_to_eat
+  - 41_pattern_vivir_to_live
+  - 61_question_words_interrogatives
+  - 62_regular_ar_verbs
+  - 63_regular_er_ir_verbs
+  - 64_stem_changing_verbs
+  - 65_reflexive_verbs
+  - 66_question_patterns
+  - 67_sentence_connectors
+- file: 06_adjectives_and_agreement.yaml
+  lesson: 06_Adjectives_and_Agreement
+  word_count: 80
+  categories:
+  - default_after_the_noun
+  - colors
+  - size_and_shape
+  - quality_adjectives
+  - personality
+  - emotions_and_states
+- file: 07_pronouns_and_prepositions.yaml
+  lesson: 07_Pronouns_and_Prepositions
+  word_count: 80
+  categories:
+  - 1_subject_pronouns
+  - 2_direct_object_pronouns
+  - 3_indirect_object_pronouns
+  - 6_reflexive_pronouns
+  - common_reflexive_verbs
+  - demonstrative_pronouns
+  - indefinite_pronouns
+  - pronoun_usage_examples
+  - preposition_examples
+  - relative_pronouns
+  - possessive_adjectives_before_the_noun
+  - possessive_pronouns_replace_noun
+  - simple_prepositions
+  - compound_prepositions
+- file: 08_numbers_time_and_daily_expressions.yaml
+  lesson: 08_Numbers_Time_and_Daily_Expressions
+  word_count: 80
+  categories:
+  - time_of_day
+  - 5_days_of_the_week
+  - months
+  - seasons
+  - weather_expressions
+  - time_vocabulary
+  - 8_common_daily_expressions
+  - 9_expressing_frequency
+- file: 09_questions_negation_and_conversation.yaml
+  lesson: 09_Questions_Negation_and_Conversation
+  word_count: 80
+  categories:
+  - 4_double_negatives
+  - 5_negation_words
+  - 55_conversational_fillers
+  - 56_expressing_opinions
+  - 6_phone_expressions
+  - useful_phrases
+  - 8_shopping_scenarios
+  - 9_asking_for_directions
+  - 10_emergency_and_help
+- file: 10_daily_life_vocabulary.yaml
+  lesson: 10_Daily_Life_Vocabulary
+  word_count: 169
+  categories:
+  - 1_family
+  - fruits_las_frutas
+  - vegetables_las_verduras
+  - meat_and_seafood
+  - beverages
+  - 3_clothing
+  - rooms_las_habitaciones
+  - furniture_and_objects
+  - 5_body_parts
+  - 6_transportation
+  - travel_vocabulary
+  - weather_expressions
+  - nature
+  - 8_daily_routine_with_reflexive_verbs
+- file: 11_past_tenses_preterite_vs_imperfect.yaml
+  lesson: 11_Past_Tenses_Preterite_vs_Imperfect
+  word_count: 80
+  categories:
+  - dar_ver_short_irregulars
+  - 3_preterite_spelling_changes
+  - 5_imperfect_the_only_three_irregulars
+  - irregular_preterite_verbs
+  - preterite_time_expressions
+  - imperfect_time_expressions
+  - preterite_vs_imperfect_signal_words
+  - past_tense_example_phrases
+- file: 12_future_conditional_and_compound_tenses.yaml
+  lesson: 12_Future_Conditional_and_Compound_Tenses
+  word_count: 80
+  categories:
+  - 5_present_perfect
+  - 6_pluperfect_past_perfect
+  - future_expressions
+  - conditional_expressions
+  - compound_tense_vocabulary
+  - common_past_participles
+  - future_conditional_example_phrases
+- file: 13_imperative_and_subjunctive_introduction.yaml
+  lesson: 13_Imperative_and_Subjunctive_Introduction
+  word_count: 80
+  categories:
+  - 4_negative_commands
+  - imperative_expressions
+  - subjunctive_trigger_words
+  - subjunctive_expressions
+  - command_phrases
+- file: 14_advanced_subjunctive.yaml
+  lesson: 14_Advanced_Subjunctive
+  word_count: 80
+  categories:
+  - full_conjugation_ra_form_more_common
+  - 8_subjunctive_vs_indicative_tricky_cases
+  - subjunctive_conjunctions
+  - emotion_expressions
+  - doubt_expressions
+  - subjunctive_phrases
+  - imperfect_subjunctive_expressions
+- file: 15_register_and_style.yaml
+  lesson: 15_Register_and_Style
+  word_count: 80
+  categories:
+  - 1_formal_expressions
+  - 2_informal_expressions
+  - 3_academic_professional_register
+  - 4_colloquial_idioms_and_fillers
+  - 5_written_vs_spoken_style
+  - 6_register_switching_examples
+- file: 16_complex_sentences_and_advanced_grammar.yaml
+  lesson: 16_Complex_Sentences_and_Advanced_Grammar
+  word_count: 80
+  categories:
+  - 1_relative_clauses_with_que
+  - 3_lo_que_what_that_which
+  - 5_passive_se
+  - 8_como_si_subjunctive
+  - relative_pronouns
+  - conjunctions_and_connectors
+  - subordinate_clause_connectors
+  - passive_voice_vocabulary
+  - complex_sentence_examples
+- file: 17_adverbs_conjunctions_and_discourse.yaml
+  lesson: 17_Adverbs_Conjunctions_and_Discourse
+  word_count: 96
+  categories:
+  - 1_adverbs_of_time
+  - 2_adverbs_of_place
+  - 3_adverbs_of_manner
+  - 4_adverbs_of_quantity
+  - introduction
+  - sequencing
+  - conclusion
+  - adding_information
+  - contrasting
+  - clarifying
+  - buying_time
+  - seeking_confirmation
+  - changing_subject
+- file: 18_regional_variations_and_dialects.yaml
+  lesson: 18_Regional_Variations_and_Dialects
+  word_count: 80
+  categories:
+  - mexican_expressions
+  - argentine_expressions_lunfardo
+  - caribbean_expressions
+  - chilean_expressions
+  - colombian_expressions
+  - peninsular_spanish_expressions
+  - three_key_phenomena
+  - regional_vocabulary_differences
+- file: 19_false_friends_and_tricky_words.yaml
+  lesson: 19_False_Friends_and_Tricky_Words
+  word_count: 80
+  categories:
+  - 1_false_friends
+  - 2_commonly_confused_pairs
+  - 3_words_that_change_meaning_with_gender
+  - 4_tricky_prepositions
+  - 5_deceptive_cognates
+- file: 20_thematic_vocabulary_expansion.yaml
+  lesson: 20_Thematic_Vocabulary_Expansion
+  word_count: 149
+  categories:
+  - 1_technology_and_digital_world
+  - 2_social_media
+  - 3_environment_and_sustainability
+  - 4_health_and_wellness
+  - at_the_doctor
+  - 5_work_and_business
+  - common_suffixes_for_nouns
+- file: 21_reading_comprehension.yaml
+  lesson: 21_Reading_Comprehension
+  word_count: 80
+  categories:
+  - cognates_cognados
+  - vocabulary_from_the_text
+  - formal_email_vocabulary
+  - reading_strategy_vocabulary
+  - text_structure_and_connectors
+  - text_types_and_genres
+- file: 22_writing_in_spanish.yaml
+  lesson: 22_Writing_in_Spanish
+  word_count: 80
+  categories:
+  - numbers_and_dates
+  - spelling_errors
+  - letter_and_email_vocabulary
+  - essay_structure_words
+  - linking_words_conectores
+  - formal_expressions
+  - punctuation_and_formatting
+  - writing_process_vocabulary
+- file: 23_hispanic_culture_and_history.yaml
+  lesson: 23_Hispanic_Culture_and_History
+  word_count: 80
+  categories:
+  - capital_cities
+  - shared_across_many_countries
+  - countryspecific_celebrations
+  - notable_musicians
+  - major_artists
+  - useful_cultural_vocabulary
+  - other_popular_sports
+  - notable_writers
+  - traditional_cuisine
+  - historical_terms
+- file: 24_business_spanish.yaml
+  lesson: 24_Business_Spanish
+  word_count: 114
+  categories:
+  - key_formal_expressions
+  - attachments_and_references
+  - meeting_vocabulary
+  - presentation_vocabulary
+  - negotiation_vocabulary
+  - common_interview_questions
+  - jobrelated_vocabulary
+  - finance_finanzas
+  - marketing
+  - technology_tecnologa
+  - financial_figures
+  - percentages_and_trends
+- file: 25_dele_and_siele_preparation.yaml
+  lesson: 25_DELE_and_SIELE_Preparation
+  word_count: 80
+  categories:
+  - 1_exam_terminology
+  - 2_academic_spanish
+  - 3_discourse_markers
+  - 4_formal_register_vocabulary
+  - 5_exam_task_instructions
+  - 6_opinion_and_argumentation
+  - 7_text_types_for_exams
+- file: sup_A1_01_animals_and_nature.yaml
+  lesson: sup_A1_Animals_and_Nature
+  word_count: 173
+  categories:
+  - domestic_animals
+  - wild_animals
+  - insects_and_small_creatures
+  - plants_and_trees
+  - nature_and_landscape
+  type: supplementary
+  topic: Animals and Nature
+  cefr: A1
+- file: sup_A1_02_food_drinks_and_cooking.yaml
+  lesson: sup_A1_Food_Drinks_and_Cooking
+  word_count: 169
+  categories:
+  - fruits
+  - vegetables
+  - meats_and_proteins
+  - beverages
+  - cooking_and_kitchen
+  type: supplementary
+  topic: Food, Drinks, and Cooking
+  cefr: A1
+- file: sup_A1_03_household_and_rooms.yaml
+  lesson: sup_A1_Household_and_Rooms
+  word_count: 163
+  categories:
+  - rooms_of_house
+  - furniture
+  - kitchen_items
+  - bathroom_items
+  - cleaning_and_maintenance
+  type: supplementary
+  topic: Household and Rooms
+  cefr: A1
+- file: sup_A1_04_body_health_and_clothing.yaml
+  lesson: sup_A1_Body_Health_and_Clothing
+  word_count: 168
+  categories:
+  - body_parts
+  - common_ailments_and_health
+  - clothing_items
+  - accessories
+  - personal_care
+  type: supplementary
+  topic: Body, Health, and Clothing
+  cefr: A1
+- file: sup_A1_05_colors_shapes_and_materials.yaml
+  lesson: sup_A1_Colors_Shapes_and_Materials
+  word_count: 162
+  categories:
+  - colors_extended
+  - shapes
+  - materials_and_textures
+  - sizes_and_measurements
+  type: supplementary
+  topic: Colors, Shapes, and Materials
+  cefr: A1
+- file: sup_A1_06_weather_seasons_and_time.yaml
+  lesson: sup_A1_Weather_Seasons_and_Time
+  word_count: 172
+  categories:
+  - weather_conditions
+  - seasons_and_months
+  - time_of_day
+  - frequency_adverbs
+  - calendar_and_dates
+  type: supplementary
+  topic: Weather, Seasons, and Time
+  cefr: A1
+- file: sup_A2_01_travel_and_transportation.yaml
+  lesson: sup_A2_Travel_and_Transportation
+  word_count: 190
+  categories:
+  - airport_and_travel
+  - vehicles
+  - directions
+  - accommodation
+  - tourist_activities
+  type: supplementary
+  topic: Travel and Transportation
+  cefr: A2
+- file: sup_A2_02_shopping_and_money.yaml
+  lesson: sup_A2_Shopping_and_Money
+  word_count: 190
+  categories:
+  - stores_and_shops
+  - money_and_payment
+  - shopping_verbs
+  - sizes_and_quantities
+  - online_shopping
+  type: supplementary
+  topic: Shopping and Money
+  cefr: A2
+- file: sup_A2_03_restaurant_and_cuisine.yaml
+  lesson: sup_A2_Restaurant_and_Cuisine
+  word_count: 189
+  categories:
+  - restaurant_vocabulary
+  - ordering_food
+  - dishes_and_courses
+  - cooking_methods
+  - dietary_needs
+  type: supplementary
+  topic: Restaurant and Cuisine
+  cefr: A2
+- file: sup_A2_04_sports_and_fitness.yaml
+  lesson: sup_A2_Sports_and_Fitness
+  word_count: 189
+  categories:
+  - popular_sports
+  - fitness_and_exercise
+  - equipment
+  - competitions
+  - sport_verbs
+  type: supplementary
+  topic: Sports and Fitness
+  cefr: A2
+- file: sup_A2_05_hobbies_and_leisure.yaml
+  lesson: sup_A2_Hobbies_and_Leisure
+  word_count: 189
+  categories:
+  - indoor_hobbies
+  - outdoor_activities
+  - music_and_art
+  - games_and_entertainment
+  - social_activities
+  type: supplementary
+  topic: Hobbies and Leisure
+  cefr: A2
+- file: sup_A2_06_health_and_doctor.yaml
+  lesson: sup_A2_Health_and_Doctor
+  word_count: 189
+  categories:
+  - symptoms_and_illnesses
+  - at_the_doctor
+  - pharmacy_and_medicine
+  - hospital
+  - healthy_habits
+  type: supplementary
+  topic: Health and Doctor
+  cefr: A2
+- file: sup_A2_07_city_and_navigation.yaml
+  lesson: sup_A2_City_and_Navigation
+  word_count: 190
+  categories:
+  - city_places
+  - public_transport
+  - giving_directions
+  - urban_life
+  - emergency_services
+  type: supplementary
+  topic: City and Navigation
+  cefr: A2
+- file: sup_A2_08_celebrations_and_traditions.yaml
+  lesson: sup_A2_Celebrations_and_Traditions
+  word_count: 189
+  categories:
+  - holidays_and_festivals
+  - party_and_celebration
+  - gifts_and_decorations
+  - life_events
+  - religious_and_cultural
+  type: supplementary
+  topic: Celebrations and Traditions
+  cefr: A2
+- file: sup_B1_01_education_and_university.yaml
+  lesson: sup_B1_Education_and_University
+  word_count: 189
+  categories:
+  - academic_subjects
+  - campus_life
+  - study_verbs
+  - degrees_and_qualifications
+  - student_life
+  type: supplementary
+  topic: Education and University
+  cefr: B1
+- file: sup_B1_02_workplace_and_office.yaml
+  lesson: sup_B1_Workplace_and_Office
+  word_count: 189
+  categories:
+  - job_titles
+  - office_equipment
+  - work_verbs
+  - meetings_and_presentations
+  - work_conditions
+  type: supplementary
+  topic: Workplace and Office
+  cefr: B1
+- file: sup_B1_03_technology_and_internet.yaml
+  lesson: sup_B1_Technology_and_Internet
+  word_count: 189
+  categories:
+  - devices
+  - internet_and_social_media
+  - software
+  - tech_verbs
+  - digital_communication
+  type: supplementary
+  topic: Technology and Internet
+  cefr: B1
+- file: sup_B1_04_news_and_media.yaml
+  lesson: sup_B1_News_and_Media
+  word_count: 189
+  categories:
+  - news_types
+  - journalism
+  - opinion_words
+  - media_verbs
+  - current_events
+  type: supplementary
+  topic: News and Media
+  cefr: B1
+- file: sup_B1_05_environment_and_nature.yaml
+  lesson: sup_B1_Environment_and_Nature
+  word_count: 189
+  categories:
+  - ecosystems
+  - pollution
+  - conservation
+  - climate
+  - environmental_actions
+  type: supplementary
+  topic: Environment and Nature
+  cefr: B1
+- file: sup_B1_06_emotions_and_psychology.yaml
+  lesson: sup_B1_Emotions_and_Psychology
+  word_count: 189
+  categories:
+  - emotions
+  - personality_traits
+  - mental_health
+  - relationships
+  - psychological_verbs
+  type: supplementary
+  topic: Emotions and Psychology
+  cefr: B1
+- file: sup_B1_07_banking_and_finance.yaml
+  lesson: sup_B1_Banking_and_Finance
+  word_count: 188
+  categories:
+  - bank_services
+  - money_management
+  - insurance
+  - investments
+  - financial_verbs
+  type: supplementary
+  topic: Banking and Finance
+  cefr: B1
+- file: sup_B1_08_cooking_and_recipes.yaml
+  lesson: sup_B1_Cooking_and_Recipes
+  word_count: 187
+  categories:
+  - cooking_techniques
+  - ingredients
+  - kitchen_tools
+  - recipe_verbs
+  - tastes_and_textures
+  type: supplementary
+  topic: Cooking and Recipes
+  cefr: B1
+- file: sup_B1_09_housing_and_real_estate.yaml
+  lesson: sup_B1_Housing_and_Real_Estate
+  word_count: 189
+  categories:
+  - property_types
+  - house_features
+  - renting
+  - buying
+  - home_improvement
+  type: supplementary
+  topic: Housing and Real Estate
+  cefr: B1
+- file: sup_B1_10_law_and_rights.yaml
+  lesson: sup_B1_Law_and_Rights
+  word_count: 189
+  categories:
+  - legal_basics
+  - rights_and_duties
+  - crime
+  - court
+  - legal_verbs
+  type: supplementary
+  topic: Law and Rights
+  cefr: B1
+- file: sup_B1_11_social_issues.yaml
+  lesson: sup_B1_Social_Issues
+  word_count: 188
+  categories:
+  - society
+  - immigration
+  - equality
+  - poverty
+  - debate_and_opinion_verbs
+  type: supplementary
+  topic: Social Issues
+  cefr: B1
+- file: sup_B2_01_science_and_research.yaml
+  lesson: sup_B2_Science_and_Research
+  word_count: 180
+  categories:
+  - scientific_method
+  - biology_basics
+  - chemistry_basics
+  - physics_basics
+  - research_vocabulary
+  type: supplementary
+  topic: Science and Research
+  cefr: B2
+- file: sup_B2_02_politics_and_government.yaml
+  lesson: sup_B2_Politics_and_Government
+  word_count: 179
+  categories:
+  - political_systems
+  - elections
+  - government_bodies
+  - political_ideologies
+  - international_relations
+  type: supplementary
+  topic: Politics and Government
+  cefr: B2
+- file: sup_B2_03_arts_and_literature.yaml
+  lesson: sup_B2_Arts_and_Literature
+  word_count: 199
+  categories:
+  - visual_arts
+  - literature_genres
+  - music_terms
+  - theater_cinema
+  - artistic_criticism
+  type: supplementary
+  topic: Arts and Literature
+  cefr: B2
+- file: sup_B2_04_law_and_justice.yaml
+  lesson: sup_B2_Law_and_Justice
+  word_count: 184
+  categories:
+  - criminal_law
+  - civil_law
+  - human_rights
+  - legal_procedures
+  - punishment_rehabilitation
+  type: supplementary
+  topic: Law and Justice
+  cefr: B2
+- file: sup_B2_05_medicine_and_health.yaml
+  lesson: sup_B2_Medicine_and_Health
+  word_count: 197
+  categories:
+  - anatomy
+  - diseases
+  - treatments
+  - mental_health
+  - medical_professionals
+  type: supplementary
+  topic: Medicine and Health
+  cefr: B2
+- file: sup_B2_06_economics_and_business.yaml
+  lesson: sup_B2_Economics_and_Business
+  word_count: 188
+  categories:
+  - macroeconomics
+  - business_operations
+  - marketing
+  - trade
+  - entrepreneurship
+  type: supplementary
+  topic: Economics and Business
+  cefr: B2
+- file: sup_B2_07_philosophy_and_ethics.yaml
+  lesson: sup_B2_Philosophy_and_Ethics
+  word_count: 201
+  categories:
+  - philosophical_concepts
+  - ethical_theories
+  - logic
+  - existentialism
+  - debate
+  type: supplementary
+  topic: Philosophy and Ethics
+  cefr: B2
+- file: sup_B2_08_architecture_and_urban_planning.yaml
+  lesson: sup_B2_Architecture_and_Urban_Planning
+  word_count: 199
+  categories:
+  - building_types
+  - architectural_styles
+  - construction
+  - urban_planning
+  - sustainability
+  type: supplementary
+  topic: Architecture and Urban Planning
+  cefr: B2
+- file: sup_B2_09_psychology_and_behavior.yaml
+  lesson: sup_B2_Psychology_and_Behavior
+  word_count: 183
+  categories:
+  - cognitive_psychology
+  - developmental_psychology
+  - social_psychology
+  - therapy
+  - behavioral_science
+  type: supplementary
+  topic: Psychology and Behavior
+  cefr: B2
+- file: sup_B2_10_history_and_civilization.yaml
+  lesson: sup_B2_History_and_Civilization
+  word_count: 199
+  categories:
+  - historical_periods
+  - ancient_civilizations
+  - modern_history
+  - historical_figures
+  - historiography
+  type: supplementary
+  topic: History and Civilization
+  cefr: B2
+- file: sup_C1_01_academic_discourse.yaml
+  lesson: sup_C1_Academic_Discourse
+  word_count: 201
+  categories:
+  - academic_writing
+  - argumentation
+  - research_terms
+  - presenting_data
+  - hedging_and_qualifying
+  type: supplementary
+  topic: Academic Discourse
+  cefr: C1
+- file: sup_C1_02_advanced_business.yaml
+  lesson: sup_C1_Advanced_Business
+  word_count: 203
+  categories:
+  - corporate_governance
+  - mergers_and_acquisitions
+  - financial_analysis
+  - leadership
+  - negotiations
+  type: supplementary
+  topic: Advanced Business
+  cefr: C1
+- file: sup_C1_03_legal_terminology.yaml
+  lesson: sup_C1_Legal_Terminology
+  word_count: 199
+  categories:
+  - constitutional_law
+  - contract_law
+  - intellectual_property
+  - international_law
+  - legal_latin_terms
+  type: supplementary
+  topic: Legal Terminology
+  cefr: C1
+- file: sup_C1_04_journalism_and_media.yaml
+  lesson: sup_C1_Journalism_and_Media
+  word_count: 197
+  categories:
+  - investigative_journalism
+  - editorial_writing
+  - media_ethics
+  - broadcast_terminology
+  - press_relations
+  type: supplementary
+  topic: Journalism and Media
+  cefr: C1
+- file: sup_C1_05_linguistics_and_language.yaml
+  lesson: sup_C1_Linguistics_and_Language
+  word_count: 199
+  categories:
+  - phonology
+  - syntax_and_grammar
+  - semantics
+  - sociolinguistics
+  - translation_theory
+  type: supplementary
+  topic: Linguistics and Language
+  cefr: C1
+- file: sup_C1_06_abstract_concepts.yaml
+  lesson: sup_C1_Abstract_Concepts
+  word_count: 201
+  categories:
+  - philosophical_abstractions
+  - social_theory
+  - cognitive_concepts
+  - metaphysical_terms
+  - epistemology
+  type: supplementary
+  topic: Abstract Concepts
+  cefr: C1

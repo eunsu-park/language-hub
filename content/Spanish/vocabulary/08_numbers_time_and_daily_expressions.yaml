@@ -1,0 +1,458 @@
+lesson: 08_Numbers_Time_and_Daily_Expressions
+lesson_number: 8
+cefr: A2
+categories:
+- id: time_of_day
+  label:
+    en: Time of Day
+    ko: 시간대
+  type: vocabulary
+  words:
+  - spanish: de la mañana
+    translation:
+      en: in the morning (AM)
+      ko: 아침에 (AM)
+    gender: null
+  - spanish: de la tarde
+    translation:
+      en: in the afternoon (PM, ~1-7)
+      ko: 오후에 (PM, ~1-7시)
+    gender: null
+  - spanish: de la noche
+    translation:
+      en: in the evening/night (PM, ~8-12)
+      ko: 저녁/밤에 (PM, ~8-12시)
+    gender: null
+  - spanish: del mediodía
+    translation:
+      en: at noon
+      ko: 정오에
+    gender: null
+  - spanish: de la medianoche
+    translation:
+      en: at midnight
+      ko: 자정에
+    gender: null
+- id: 5_days_of_the_week
+  label:
+    en: 5. Days of the Week
+    ko: 5. 요일
+  type: vocabulary
+  words:
+  - spanish: lunes
+    translation:
+      en: Monday
+      ko: 월요일
+    gender: null
+  - spanish: martes
+    translation:
+      en: Tuesday
+      ko: 화요일
+    gender: null
+  - spanish: miércoles
+    translation:
+      en: Wednesday
+      ko: 수요일
+    gender: null
+  - spanish: jueves
+    translation:
+      en: Thursday
+      ko: 목요일
+    gender: null
+  - spanish: viernes
+    translation:
+      en: Friday
+      ko: 금요일
+    gender: null
+  - spanish: sábado
+    translation:
+      en: Saturday
+      ko: 토요일
+    gender: null
+  - spanish: domingo
+    translation:
+      en: Sunday
+      ko: 일요일
+    gender: null
+- id: months
+  label:
+    en: Months
+    ko: 월
+  type: vocabulary
+  words:
+  - spanish: enero
+    translation:
+      en: January
+      ko: 1월
+    gender: null
+  - spanish: julio
+    translation:
+      en: July
+      ko: 7월
+    gender: null
+  - spanish: febrero
+    translation:
+      en: February
+      ko: 2월
+    gender: null
+  - spanish: agosto
+    translation:
+      en: August
+      ko: 8월
+    gender: null
+  - spanish: marzo
+    translation:
+      en: March
+      ko: 3월
+    gender: null
+  - spanish: septiembre
+    translation:
+      en: September
+      ko: 9월
+    gender: null
+  - spanish: abril
+    translation:
+      en: April
+      ko: 4월
+    gender: null
+  - spanish: octubre
+    translation:
+      en: October
+      ko: 10월
+    gender: null
+  - spanish: mayo
+    translation:
+      en: May
+      ko: 5월
+    gender: null
+  - spanish: noviembre
+    translation:
+      en: November
+      ko: 11월
+    gender: null
+  - spanish: junio
+    translation:
+      en: June
+      ko: 6월
+    gender: null
+  - spanish: diciembre
+    translation:
+      en: December
+      ko: 12월
+    gender: null
+- id: seasons
+  label:
+    en: Seasons
+    ko: 계절
+  type: vocabulary
+  words:
+  - spanish: la primavera
+    translation:
+      en: spring
+      ko: 봄
+    gender: null
+  - spanish: el verano
+    translation:
+      en: summer
+      ko: 여름
+    gender: null
+  - spanish: el otoño
+    translation:
+      en: autumn/fall
+      ko: 가을
+    gender: null
+  - spanish: el invierno
+    translation:
+      en: winter
+      ko: 겨울
+    gender: null
+- id: weather_expressions
+  label:
+    en: Weather Expressions
+    ko: 날씨 표현
+  type: vocabulary
+  words:
+  - spanish: Hace sol.
+    translation:
+      en: It's sunny.
+      ko: 날씨가 맑다.
+    gender: null
+    notes:
+      en: "Literally: It makes sun."
+      ko: "직역: 해를 만든다."
+  - spanish: Hace calor.
+    translation:
+      en: It's hot.
+      ko: 덥다.
+    gender: null
+  - spanish: Hace frío.
+    translation:
+      en: It's cold.
+      ko: 춥다.
+    gender: null
+  - spanish: Hace viento.
+    translation:
+      en: It's windy.
+      ko: 바람이 분다.
+    gender: null
+  - spanish: Hace buen tiempo.
+    translation:
+      en: The weather is nice.
+      ko: 날씨가 좋다.
+    gender: null
+  - spanish: Hace mal tiempo.
+    translation:
+      en: The weather is bad.
+      ko: 날씨가 나쁘다.
+    gender: null
+  - spanish: Llueve. / Está lloviendo.
+    translation:
+      en: It's raining.
+      ko: 비가 온다.
+    gender: null
+  - spanish: Nieva. / Está nevando.
+    translation:
+      en: It's snowing.
+      ko: 눈이 온다.
+    gender: null
+  - spanish: Está nublado.
+    translation:
+      en: It's cloudy.
+      ko: 흐리다.
+    gender: null
+  - spanish: la temperatura
+    translation:
+      en: the temperature
+      ko: 기온
+    gender: f
+  - spanish: el pronóstico
+    translation:
+      en: the forecast
+      ko: 예보
+    gender: m
+  - spanish: la lluvia
+    translation:
+      en: the rain
+      ko: 비
+    gender: f
+  - spanish: la nieve
+    translation:
+      en: the snow
+      ko: 눈
+    gender: f
+- id: time_vocabulary
+  label:
+    en: Time Vocabulary
+    ko: 시간 어휘
+  type: vocabulary
+  words:
+  - spanish: hoy
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+  - spanish: ayer
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - spanish: mañana
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+    notes:
+      en: Also means 'morning' (la mañana)
+      ko: "'아침' (la mañana)이라는 뜻도 있음"
+  - spanish: ahora
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+  - spanish: luego
+    translation:
+      en: later / then
+      ko: 나중에 / 그런 다음
+    gender: null
+  - spanish: pronto
+    translation:
+      en: soon
+      ko: 곧
+    gender: null
+  - spanish: tarde
+    translation:
+      en: late
+      ko: 늦게
+    gender: null
+  - spanish: temprano
+    translation:
+      en: early
+      ko: 일찍
+    gender: null
+  - spanish: ya
+    translation:
+      en: already / now
+      ko: 이미 / 벌써
+    gender: null
+  - spanish: todavía
+    translation:
+      en: still / yet
+      ko: 아직
+    gender: null
+- id: 8_common_daily_expressions
+  label:
+    en: 8. Common Daily Expressions
+    ko: 8. 일상 표현
+  type: vocabulary
+  words:
+  - spanish: ¡Buenos días!
+    translation:
+      en: Good morning!
+      ko: 좋은 아침이에요!
+    gender: null
+  - spanish: ¡Buenas tardes!
+    translation:
+      en: Good afternoon!
+      ko: 좋은 오후예요!
+    gender: null
+  - spanish: ¡Buenas noches!
+    translation:
+      en: Good evening/night!
+      ko: 좋은 저녁이에요! / 안녕히 주무세요!
+    gender: null
+  - spanish: ¡Que tengas un buen día!
+    translation:
+      en: Have a nice day!
+      ko: 좋은 하루 보내세요!
+    gender: null
+  - spanish: ¡Que descanses!
+    translation:
+      en: Rest well!
+      ko: 푹 쉬세요!
+    gender: null
+  - spanish: ¡Buen provecho!
+    translation:
+      en: Enjoy your meal!
+      ko: 맛있게 드세요!
+    gender: null
+  - spanish: ¡Salud!
+    translation:
+      en: Cheers! / Bless you!
+      ko: 건배! / 건강하세요!
+    gender: null
+  - spanish: Con permiso.
+    translation:
+      en: Excuse me.
+      ko: 실례합니다.
+    gender: null
+  - spanish: Perdón. / Disculpe.
+    translation:
+      en: Sorry. / Excuse me.
+      ko: 죄송합니다. / 실례합니다.
+    gender: null
+  - spanish: ¡Felicidades!
+    translation:
+      en: Congratulations!
+      ko: 축하합니다!
+    gender: null
+  - spanish: ¡Feliz cumpleaños!
+    translation:
+      en: Happy birthday!
+      ko: 생일 축하합니다!
+    gender: null
+  - spanish: ¡Buena suerte!
+    translation:
+      en: Good luck!
+      ko: 행운을 빕니다!
+    gender: null
+  - spanish: ¡Que te vaya bien!
+    translation:
+      en: May it go well!
+      ko: 잘 되길 바랍니다!
+    gender: null
+  - spanish: ¡Cuídate!
+    translation:
+      en: Take care!
+      ko: 몸 조심하세요!
+    gender: null
+  - spanish: No te preocupes.
+    translation:
+      en: Don't worry.
+      ko: 걱정하지 마세요.
+    gender: null
+  - spanish: Lo siento.
+    translation:
+      en: I'm sorry.
+      ko: 유감입니다.
+    gender: null
+  - spanish: No hay de qué.
+    translation:
+      en: You're welcome.
+      ko: 천만에요.
+    gender: null
+  - spanish: De nada.
+    translation:
+      en: You're welcome.
+      ko: 천만에요.
+    gender: null
+  - spanish: Con mucho gusto.
+    translation:
+      en: With pleasure.
+      ko: 기꺼이요.
+    gender: null
+  - spanish: No importa.
+    translation:
+      en: It doesn't matter.
+      ko: 상관없어요.
+    gender: null
+- id: 9_expressing_frequency
+  label:
+    en: 9. Expressing Frequency
+    ko: 9. 빈도 표현하기
+  type: vocabulary
+  words:
+  - spanish: siempre
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+  - spanish: casi siempre
+    translation:
+      en: almost always
+      ko: 거의 항상
+    gender: null
+  - spanish: todos los días
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+  - spanish: a menudo / frecuentemente
+    translation:
+      en: often / frequently
+      ko: 자주
+    gender: null
+  - spanish: a veces
+    translation:
+      en: sometimes
+      ko: 가끔
+    gender: null
+  - spanish: de vez en cuando
+    translation:
+      en: once in a while
+      ko: 때때로
+    gender: null
+  - spanish: pocas veces / raramente
+    translation:
+      en: rarely
+      ko: 드물게
+    gender: null
+  - spanish: casi nunca
+    translation:
+      en: almost never
+      ko: 거의 ~않다
+    gender: null
+  - spanish: nunca / jamás
+    translation:
+      en: never
+      ko: 절대 ~않다
+    gender: null

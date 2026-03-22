@@ -1,0 +1,509 @@
+lesson: 01_Spanish_Language_and_Pronunciation
+lesson_number: 1
+cefr: A1
+categories:
+- id: 11_alphabet_basics
+  label:
+    en: 1.1 Alphabet Basics
+    ko: 1.1 알파벳 기초
+  type: vocabulary
+  words:
+  - spanish: el alfabeto
+    translation:
+      en: the alphabet
+      ko: 알파벳
+    gender: null
+    notes:
+      en: 27 letters in Spanish
+      ko: 스페인어에는 27개의 글자가 있음
+  - spanish: la letra
+    translation:
+      en: the letter
+      ko: 글자
+    gender: null
+    notes:
+      en: A single character
+      ko: 하나의 문자
+  - spanish: la vocal
+    translation:
+      en: the vowel
+      ko: 모음
+    gender: null
+    notes:
+      en: 'a, e, i, o, u'
+      ko: 'a, e, i, o, u'
+  - spanish: la consonante
+    translation:
+      en: the consonant
+      ko: 자음
+    gender: null
+  - spanish: la tilde
+    translation:
+      en: the tilde / accent mark
+      ko: 틸데 / 악센트 부호
+    gender: null
+    notes:
+      en: The ~ mark on ñ, or the acute accent (´)
+      ko: ñ 위의 ~ 기호 또는 양음 악센트 (´)
+  - spanish: la ñ
+    translation:
+      en: the letter ñ
+      ko: ñ 글자
+    gender: null
+    notes:
+      en: "Unique to Spanish, sounds like 'ny'"
+      ko: "스페인어 고유 글자, 'ny' 발음"
+  - spanish: la sílaba
+    translation:
+      en: the syllable
+      ko: 음절
+    gender: null
+  - spanish: la pronunciación
+    translation:
+      en: the pronunciation
+      ko: 발음
+    gender: null
+  - spanish: el acento
+    translation:
+      en: the accent / stress
+      ko: 악센트 / 강세
+    gender: null
+    notes:
+      en: Stress on a syllable or written accent mark
+      ko: 음절의 강세 또는 악센트 부호
+  - spanish: la mayúscula
+    translation:
+      en: the capital letter
+      ko: 대문자
+    gender: null
+  - spanish: la minúscula
+    translation:
+      en: the lowercase letter
+      ko: 소문자
+    gender: null
+  - spanish: la palabra
+    translation:
+      en: the word
+      ko: 단어
+    gender: f
+    notes:
+      en: Basic unit of language
+      ko: 언어의 기본 단위
+  - spanish: la frase
+    translation:
+      en: the sentence / phrase
+      ko: 문장 / 구
+    gender: f
+  - spanish: la oración
+    translation:
+      en: the sentence (grammatical)
+      ko: 문장 (문법적)
+    gender: f
+    notes:
+      en: More formal than 'frase' for a complete sentence
+      ko: 완전한 문장을 가리킬 때 'frase'보다 격식체
+  - spanish: el sonido
+    translation:
+      en: the sound
+      ko: 소리
+    gender: m
+  - spanish: el idioma
+    translation:
+      en: the language
+      ko: 언어
+    gender: m
+    notes:
+      en: Synonym of 'la lengua'
+      ko: "'la lengua'의 동의어"
+  - spanish: la lengua
+    translation:
+      en: the language / tongue
+      ko: 언어 / 혀
+    gender: f
+    notes:
+      en: Means both 'language' and 'tongue'
+      ko: "'언어'와 '혀' 두 가지 뜻"
+  - spanish: el español
+    translation:
+      en: Spanish (language)
+      ko: 스페인어
+    gender: m
+  - spanish: el diccionario
+    translation:
+      en: the dictionary
+      ko: 사전
+    gender: m
+  - spanish: la gramática
+    translation:
+      en: the grammar
+      ko: 문법
+    gender: f
+  - spanish: el vocabulario
+    translation:
+      en: the vocabulary
+      ko: 어휘
+    gender: m
+  - spanish: el significado
+    translation:
+      en: the meaning
+      ko: 의미
+    gender: m
+  - spanish: el ejemplo
+    translation:
+      en: the example
+      ko: 예시
+    gender: m
+  - spanish: la regla
+    translation:
+      en: the rule
+      ko: 규칙
+    gender: f
+    notes:
+      en: Grammar rule or general rule
+      ko: 문법 규칙 또는 일반 규칙
+  - spanish: el punto
+    translation:
+      en: the period / point
+      ko: 마침표 / 점
+    gender: m
+  - spanish: la coma
+    translation:
+      en: the comma
+      ko: 쉼표
+    gender: f
+  - spanish: el signo de exclamación
+    translation:
+      en: the exclamation mark
+      ko: 느낌표
+    gender: m
+    notes:
+      en: Spanish uses both opening (¡) and closing (!) marks
+      ko: 스페인어는 여는 부호(¡)와 닫는 부호(!) 둘 다 사용
+  - spanish: el signo de interrogación
+    translation:
+      en: the question mark
+      ko: 물음표
+    gender: m
+    notes:
+      en: Spanish uses both opening (¿) and closing (?) marks
+      ko: 스페인어는 여는 부호(¿)와 닫는 부호(?) 둘 다 사용
+- id: 13_pronunciation_concepts
+  label:
+    en: 1.3 Pronunciation Concepts
+    ko: 1.3 발음 개념
+  type: vocabulary
+  words:
+  - spanish: el diptongo
+    translation:
+      en: the diphthong
+      ko: 이중모음
+    gender: m
+    notes:
+      en: Two vowels in one syllable (e.g., ai, ei, ue)
+      ko: 한 음절에 두 개의 모음 (예 ai, ei, ue)
+  - spanish: el hiato
+    translation:
+      en: the hiatus
+      ko: 모음 분리
+    gender: m
+    notes:
+      en: Two vowels pronounced in separate syllables
+      ko: 두 모음이 각각 다른 음절로 발음됨
+  - spanish: la entonación
+    translation:
+      en: the intonation
+      ko: 억양
+    gender: f
+  - spanish: el ritmo
+    translation:
+      en: the rhythm
+      ko: 리듬
+    gender: m
+  - spanish: la pausa
+    translation:
+      en: the pause
+      ko: 멈춤
+    gender: f
+  - spanish: el tono
+    translation:
+      en: the tone
+      ko: 음조
+    gender: m
+  - spanish: la voz
+    translation:
+      en: the voice
+      ko: 목소리
+    gender: f
+  - spanish: deletrear
+    translation:
+      en: to spell
+      ko: 철자하다
+    gender: null
+    notes:
+      en: "¿Cómo se deletrea? — How do you spell it?"
+      ko: "¿Cómo se deletrea? — 어떻게 철자하나요?"
+  - spanish: pronunciar
+    translation:
+      en: to pronounce
+      ko: 발음하다
+    gender: null
+  - spanish: repetir
+    translation:
+      en: to repeat
+      ko: 반복하다
+    gender: null
+    notes:
+      en: "¿Puede repetir? — Can you repeat?"
+      ko: "¿Puede repetir? — 반복해 주실 수 있나요?"
+- id: 14_classroom_language
+  label:
+    en: 1.4 Classroom Language
+    ko: 1.4 교실 표현
+  type: vocabulary
+  words:
+  - spanish: la clase
+    translation:
+      en: the class
+      ko: 수업
+    gender: f
+  - spanish: el profesor
+    translation:
+      en: the teacher (m)
+      ko: 선생님 (남)
+    gender: m
+  - spanish: la profesora
+    translation:
+      en: the teacher (f)
+      ko: 선생님 (여)
+    gender: f
+  - spanish: el alumno
+    translation:
+      en: the student (m)
+      ko: 학생 (남)
+    gender: m
+  - spanish: la alumna
+    translation:
+      en: the student (f)
+      ko: 학생 (여)
+    gender: f
+  - spanish: el libro
+    translation:
+      en: the book
+      ko: 책
+    gender: m
+  - spanish: el cuaderno
+    translation:
+      en: the notebook
+      ko: 공책
+    gender: m
+  - spanish: el bolígrafo
+    translation:
+      en: the pen
+      ko: 볼펜
+    gender: m
+  - spanish: el lápiz
+    translation:
+      en: the pencil
+      ko: 연필
+    gender: m
+  - spanish: la página
+    translation:
+      en: the page
+      ko: 페이지
+    gender: f
+  - spanish: la pregunta
+    translation:
+      en: the question
+      ko: 질문
+    gender: f
+  - spanish: la respuesta
+    translation:
+      en: the answer
+      ko: 대답
+    gender: f
+  - spanish: el ejercicio
+    translation:
+      en: the exercise
+      ko: 연습 문제
+    gender: m
+  - spanish: la tarea
+    translation:
+      en: the homework
+      ko: 숙제
+    gender: f
+  - spanish: el examen
+    translation:
+      en: the exam
+      ko: 시험
+    gender: m
+  - spanish: la pizarra
+    translation:
+      en: the blackboard / whiteboard
+      ko: 칠판 / 화이트보드
+    gender: f
+  - spanish: escribir
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+  - spanish: leer
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+  - spanish: escuchar
+    translation:
+      en: to listen
+      ko: 듣다
+    gender: null
+  - spanish: entender
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    notes:
+      en: "No entiendo. — I don't understand."
+      ko: "No entiendo. — 이해하지 못하겠어요."
+  - spanish: aprender
+    translation:
+      en: to learn
+      ko: 배우다
+    gender: null
+  - spanish: practicar
+    translation:
+      en: to practice
+      ko: 연습하다
+    gender: null
+  - spanish: traducir
+    translation:
+      en: to translate
+      ko: 번역하다
+    gender: null
+    notes:
+      en: Irregular; yo form = traduzco
+      ko: 불규칙; yo 형태 = traduzco
+- id: 12_first_words
+  label:
+    en: 1.2 First Words
+    ko: 1.2 첫 번째 단어들
+  type: vocabulary
+  words:
+  - spanish: sí
+    translation:
+      en: yes
+      ko: 네
+    gender: null
+    notes:
+      en: "Written with accent to distinguish from 'si' (if)"
+      ko: "'si'(만약)와 구별하기 위해 악센트를 붙임"
+  - spanish: no
+    translation:
+      en: no
+      ko: 아니요
+    gender: null
+    notes:
+      en: Also used to negate verbs
+      ko: 동사 부정에도 사용
+  - spanish: por favor
+    translation:
+      en: please
+      ko: 부탁합니다
+    gender: null
+    notes:
+      en: Essential polite expression
+      ko: 필수적인 공손한 표현
+  - spanish: gracias
+    translation:
+      en: thank you
+      ko: 감사합니다
+    gender: null
+  - spanish: de nada
+    translation:
+      en: you're welcome
+      ko: 천만에요
+    gender: null
+    notes:
+      en: Literally 'of nothing'
+      ko: 직역하면 '아무것도 아닌'
+  - spanish: perdón
+    translation:
+      en: excuse me / pardon
+      ko: 실례합니다
+    gender: null
+    notes:
+      en: Used to get attention or for minor apologies
+      ko: 주의를 끌거나 가벼운 사과에 사용
+  - spanish: lo siento
+    translation:
+      en: I'm sorry
+      ko: 죄송합니다
+    gender: null
+    notes:
+      en: Literally 'I feel it'; for sincere apologies
+      ko: 직역하면 '그것을 느낍니다'; 진심 어린 사과에 사용
+  - spanish: hola
+    translation:
+      en: hello
+      ko: 안녕하세요
+    gender: null
+    notes:
+      en: Universal greeting, any time of day
+      ko: 시간에 관계없이 사용하는 보편적 인사
+  - spanish: adiós
+    translation:
+      en: goodbye
+      ko: 안녕히 가세요
+    gender: null
+    notes:
+      en: Standard farewell
+      ko: 표준 작별 인사
+  - spanish: bien
+    translation:
+      en: well / good
+      ko: 잘 / 좋은
+    gender: null
+  - spanish: mal
+    translation:
+      en: bad / badly
+      ko: 나쁜 / 나쁘게
+    gender: null
+  - spanish: más
+    translation:
+      en: more
+      ko: 더
+    gender: null
+  - spanish: menos
+    translation:
+      en: less
+      ko: 덜
+    gender: null
+  - spanish: muy
+    translation:
+      en: very
+      ko: 매우
+    gender: null
+  - spanish: también
+    translation:
+      en: also / too
+      ko: 또한 / ~도
+    gender: null
+  - spanish: aquí
+    translation:
+      en: here
+      ko: 여기
+    gender: null
+  - spanish: allí
+    translation:
+      en: there
+      ko: 거기
+    gender: null
+  - spanish: y
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+  - spanish: o
+    translation:
+      en: or
+      ko: 또는
+    gender: null

@@ -1,0 +1,1038 @@
+lesson: "sup_B1_News_and_Media"
+lesson_number: 144
+cefr: B1
+type: supplementary
+topic: "News and Media"
+categories:
+- id: news_types
+  label:
+    en: "News Types"
+    ko: "뉴스 유형"
+  type: vocabulary
+  words:
+  - spanish: "las noticias"
+    translation:
+      en: "news"
+      ko: "뉴스"
+    gender: f
+    notes:
+      en: "Usually plural in Spanish"
+      ko: "스페인어에서 보통 복수형으로 사용"
+  - spanish: "la noticia"
+    translation:
+      en: "a piece of news"
+      ko: "뉴스 한 건"
+    gender: f
+  - spanish: "la noticia de última hora"
+    translation:
+      en: "breaking news"
+      ko: "속보"
+    gender: f
+  - spanish: "el titular"
+    translation:
+      en: "headline"
+      ko: "헤드라인 / 제목"
+    gender: m
+  - spanish: "el artículo"
+    translation:
+      en: "article"
+      ko: "기사"
+    gender: m
+  - spanish: "la crónica"
+    translation:
+      en: "chronicle / news report"
+      ko: "르포 / 연대기"
+    gender: f
+  - spanish: "el reportaje"
+    translation:
+      en: "report / feature story"
+      ko: "르포르타주 / 심층 보도"
+    gender: m
+  - spanish: "la entrevista"
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: f
+  - spanish: "el editorial"
+    translation:
+      en: "editorial"
+      ko: "사설"
+    gender: m
+  - spanish: "la columna"
+    translation:
+      en: "column (opinion)"
+      ko: "칼럼"
+    gender: f
+  - spanish: "el comunicado de prensa"
+    translation:
+      en: "press release"
+      ko: "보도 자료"
+    gender: m
+  - spanish: "la rueda de prensa"
+    translation:
+      en: "press conference"
+      ko: "기자 회견"
+    gender: f
+  - spanish: "el boletín informativo"
+    translation:
+      en: "news bulletin / newsletter"
+      ko: "뉴스 속보 / 뉴스레터"
+    gender: m
+  - spanish: "la portada"
+    translation:
+      en: "front page / cover"
+      ko: "1면 / 표지"
+    gender: f
+  - spanish: "la sección"
+    translation:
+      en: "section (of newspaper)"
+      ko: "섹션 / 지면"
+    gender: f
+  - spanish: "la sección de deportes"
+    translation:
+      en: "sports section"
+      ko: "스포츠 섹션"
+    gender: f
+  - spanish: "la sección de economía"
+    translation:
+      en: "business section"
+      ko: "경제 섹션"
+    gender: f
+  - spanish: "la sección de cultura"
+    translation:
+      en: "culture section"
+      ko: "문화 섹션"
+    gender: f
+  - spanish: "la sección de internacional"
+    translation:
+      en: "international section"
+      ko: "국제 섹션"
+    gender: f
+  - spanish: "el suceso"
+    translation:
+      en: "event / incident"
+      ko: "사건"
+    gender: m
+  - spanish: "el resumen"
+    translation:
+      en: "summary"
+      ko: "요약"
+    gender: m
+- id: journalism
+  label:
+    en: "Journalism"
+    ko: "저널리즘"
+  type: vocabulary
+  words:
+  - spanish: "el periodista"
+    translation:
+      en: "journalist"
+      ko: "기자"
+    gender: m
+    notes:
+      en: "la periodista for female"
+      ko: "여성형은 la periodista"
+  - spanish: "el reportero"
+    translation:
+      en: "reporter"
+      ko: "리포터"
+    gender: m
+    notes:
+      en: "la reportera for female"
+      ko: "여성형은 la reportera"
+  - spanish: "el corresponsal"
+    translation:
+      en: "correspondent"
+      ko: "특파원"
+    gender: m
+  - spanish: "el editor"
+    translation:
+      en: "editor"
+      ko: "편집자"
+    gender: m
+    notes:
+      en: "la editora for female"
+      ko: "여성형은 la editora"
+  - spanish: "el redactor"
+    translation:
+      en: "writer / editorial staff"
+      ko: "기자 / 편집 기자"
+    gender: m
+    notes:
+      en: "la redactora for female"
+      ko: "여성형은 la redactora"
+  - spanish: "el fotógrafo"
+    translation:
+      en: "photographer"
+      ko: "사진기자 / 사진작가"
+    gender: m
+    notes:
+      en: "la fotógrafa for female"
+      ko: "여성형은 la fotógrafa"
+  - spanish: "el presentador"
+    translation:
+      en: "presenter / anchor"
+      ko: "진행자 / 앵커"
+    gender: m
+    notes:
+      en: "la presentadora for female"
+      ko: "여성형은 la presentadora"
+  - spanish: "la redacción"
+    translation:
+      en: "newsroom / editorial office"
+      ko: "편집실 / 보도국"
+    gender: f
+  - spanish: "la fuente"
+    translation:
+      en: "source (news)"
+      ko: "취재원 / 출처"
+    gender: f
+  - spanish: "la exclusiva"
+    translation:
+      en: "exclusive / scoop"
+      ko: "독점 보도 / 특종"
+    gender: f
+  - spanish: "la censura"
+    translation:
+      en: "censorship"
+      ko: "검열"
+    gender: f
+  - spanish: "la libertad de prensa"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+  - spanish: "el periódico"
+    translation:
+      en: "newspaper"
+      ko: "신문"
+    gender: m
+  - spanish: "la revista"
+    translation:
+      en: "magazine"
+      ko: "잡지"
+    gender: f
+  - spanish: "el medio de comunicación"
+    translation:
+      en: "media outlet"
+      ko: "미디어 / 언론 매체"
+    gender: m
+  - spanish: "la emisora"
+    translation:
+      en: "radio/TV station"
+      ko: "방송국"
+    gender: f
+  - spanish: "el telediario"
+    translation:
+      en: "TV news program"
+      ko: "TV 뉴스"
+    gender: m
+  - spanish: "el programa de radio"
+    translation:
+      en: "radio program"
+      ko: "라디오 프로그램"
+    gender: m
+  - spanish: "la prensa"
+    translation:
+      en: "the press / media"
+      ko: "언론 / 신문"
+    gender: f
+  - spanish: "la prensa digital"
+    translation:
+      en: "digital media / online press"
+      ko: "디지털 미디어 / 온라인 언론"
+    gender: f
+- id: opinion_words
+  label:
+    en: "Opinion Words"
+    ko: "의견 표현"
+  type: vocabulary
+  words:
+  - spanish: "la opinión"
+    translation:
+      en: "opinion"
+      ko: "의견"
+    gender: f
+  - spanish: "el punto de vista"
+    translation:
+      en: "point of view"
+      ko: "관점"
+    gender: m
+  - spanish: "el argumento"
+    translation:
+      en: "argument / reasoning"
+      ko: "논거 / 주장"
+    gender: m
+  - spanish: "la postura"
+    translation:
+      en: "stance / position"
+      ko: "입장"
+    gender: f
+  - spanish: "el debate"
+    translation:
+      en: "debate"
+      ko: "토론"
+    gender: m
+  - spanish: "la polémica"
+    translation:
+      en: "controversy"
+      ko: "논쟁"
+    gender: f
+  - spanish: "la crítica"
+    translation:
+      en: "criticism / review"
+      ko: "비평 / 비판"
+    gender: f
+  - spanish: "el acuerdo"
+    translation:
+      en: "agreement"
+      ko: "동의 / 합의"
+    gender: m
+  - spanish: "el desacuerdo"
+    translation:
+      en: "disagreement"
+      ko: "불일치 / 의견 차이"
+    gender: m
+  - spanish: "a favor de"
+    translation:
+      en: "in favor of"
+      ko: "~에 찬성하여"
+    gender: null
+  - spanish: "en contra de"
+    translation:
+      en: "against"
+      ko: "~에 반대하여"
+    gender: null
+  - spanish: "según"
+    translation:
+      en: "according to"
+      ko: "~에 따르면"
+    gender: null
+  - spanish: "en mi opinión"
+    translation:
+      en: "in my opinion"
+      ko: "내 의견으로는"
+    gender: null
+  - spanish: "desde mi punto de vista"
+    translation:
+      en: "from my point of view"
+      ko: "나의 관점에서"
+    gender: null
+  - spanish: "por un lado... por otro lado"
+    translation:
+      en: "on the one hand... on the other hand"
+      ko: "한편으로는... 다른 한편으로는"
+    gender: null
+  - spanish: "sin embargo"
+    translation:
+      en: "however / nevertheless"
+      ko: "그러나 / 하지만"
+    gender: null
+  - spanish: "no obstante"
+    translation:
+      en: "nevertheless / notwithstanding"
+      ko: "그럼에도 불구하고"
+    gender: null
+  - spanish: "es evidente que"
+    translation:
+      en: "it is evident that"
+      ko: "~은 명백하다"
+    gender: null
+  - spanish: "cabe destacar que"
+    translation:
+      en: "it is worth noting that"
+      ko: "~을 강조할 만하다"
+    gender: null
+  - spanish: "objetivamente"
+    translation:
+      en: "objectively"
+      ko: "객관적으로"
+    gender: null
+  - spanish: "subjetivamente"
+    translation:
+      en: "subjectively"
+      ko: "주관적으로"
+    gender: null
+- id: media_verbs
+  label:
+    en: "Media Verbs"
+    ko: "미디어 동사"
+  type: vocabulary
+  words:
+  - spanish: "informar"
+    translation:
+      en: "to inform / to report"
+      ko: "보도하다 / 알리다"
+    gender: null
+  - spanish: "publicar"
+    translation:
+      en: "to publish"
+      ko: "게재하다 / 출판하다"
+    gender: null
+  - spanish: "difundir"
+    translation:
+      en: "to broadcast / to spread"
+      ko: "방송하다 / 퍼뜨리다"
+    gender: null
+  - spanish: "emitir"
+    translation:
+      en: "to broadcast / to emit"
+      ko: "방송하다 / 송출하다"
+    gender: null
+  - spanish: "entrevistar"
+    translation:
+      en: "to interview"
+      ko: "인터뷰하다"
+    gender: null
+  - spanish: "investigar"
+    translation:
+      en: "to investigate"
+      ko: "조사하다"
+    gender: null
+  - spanish: "denunciar"
+    translation:
+      en: "to denounce / to report"
+      ko: "고발하다 / 신고하다"
+    gender: null
+  - spanish: "opinar"
+    translation:
+      en: "to opine / to give an opinion"
+      ko: "의견을 말하다"
+    gender: null
+  - spanish: "argumentar"
+    translation:
+      en: "to argue / to make an argument"
+      ko: "주장하다 / 논증하다"
+    gender: null
+  - spanish: "criticar"
+    translation:
+      en: "to criticize"
+      ko: "비판하다"
+    gender: null
+  - spanish: "censurar"
+    translation:
+      en: "to censor"
+      ko: "검열하다"
+    gender: null
+  - spanish: "suscribirse"
+    translation:
+      en: "to subscribe"
+      ko: "구독하다"
+    gender: null
+  - spanish: "retransmitir"
+    translation:
+      en: "to rebroadcast / to relay"
+      ko: "재방송하다 / 중계하다"
+    gender: null
+  - spanish: "verificar"
+    translation:
+      en: "to verify / to fact-check"
+      ko: "검증하다 / 팩트체크하다"
+    gender: null
+  - spanish: "manipular"
+    translation:
+      en: "to manipulate"
+      ko: "조작하다"
+    gender: null
+  - spanish: "desinformar"
+    translation:
+      en: "to misinform"
+      ko: "허위 정보를 퍼뜨리다"
+    gender: null
+- id: current_events
+  label:
+    en: "Current Events"
+    ko: "시사"
+  type: vocabulary
+  words:
+  - spanish: "la actualidad"
+    translation:
+      en: "current affairs / the present"
+      ko: "시사 / 현재"
+    gender: f
+  - spanish: "la elección"
+    translation:
+      en: "election"
+      ko: "선거"
+    gender: f
+  - spanish: "las elecciones generales"
+    translation:
+      en: "general elections"
+      ko: "총선"
+    gender: f
+  - spanish: "el candidato"
+    translation:
+      en: "candidate"
+      ko: "후보자"
+    gender: m
+    notes:
+      en: "la candidata for female"
+      ko: "여성형은 la candidata"
+  - spanish: "el partido político"
+    translation:
+      en: "political party"
+      ko: "정당"
+    gender: m
+  - spanish: "el gobierno"
+    translation:
+      en: "government"
+      ko: "정부"
+    gender: m
+  - spanish: "el presidente"
+    translation:
+      en: "president"
+      ko: "대통령"
+    gender: m
+    notes:
+      en: "la presidenta for female"
+      ko: "여성형은 la presidenta"
+  - spanish: "la crisis"
+    translation:
+      en: "crisis"
+      ko: "위기"
+    gender: f
+    notes:
+      en: "Invariable: la/las crisis"
+      ko: "단수/복수 형태 동일: la/las crisis"
+  - spanish: "la pandemia"
+    translation:
+      en: "pandemic"
+      ko: "팬데믹"
+    gender: f
+  - spanish: "el conflicto"
+    translation:
+      en: "conflict"
+      ko: "분쟁 / 갈등"
+    gender: m
+  - spanish: "la manifestación"
+    translation:
+      en: "demonstration / protest"
+      ko: "시위"
+    gender: f
+  - spanish: "la reforma"
+    translation:
+      en: "reform"
+      ko: "개혁"
+    gender: f
+  - spanish: "la ley"
+    translation:
+      en: "law"
+      ko: "법률"
+    gender: f
+  - spanish: "el escándalo"
+    translation:
+      en: "scandal"
+      ko: "스캔들"
+    gender: m
+  - spanish: "la corrupción"
+    translation:
+      en: "corruption"
+      ko: "부패"
+    gender: f
+  - spanish: "el acuerdo de paz"
+    translation:
+      en: "peace agreement"
+      ko: "평화 협정"
+    gender: m
+  - spanish: "la cumbre"
+    translation:
+      en: "summit (political)"
+      ko: "정상 회담"
+    gender: f
+  - spanish: "las fake news"
+    translation:
+      en: "fake news"
+      ko: "가짜 뉴스"
+    gender: f
+    notes:
+      en: "Also: las noticias falsas"
+      ko: "동의어: las noticias falsas"
+  - spanish: "la desinformación"
+    translation:
+      en: "disinformation / misinformation"
+      ko: "허위 정보"
+    gender: f
+  - spanish: "el cambio climático"
+    translation:
+      en: "climate change"
+      ko: "기후 변화"
+    gender: m
+  - spanish: "la inmigración"
+    translation:
+      en: "immigration"
+      ko: "이민"
+    gender: f
+  - spanish: "el referéndum"
+    translation:
+      en: "referendum"
+      ko: "국민투표"
+    gender: m
+  - spanish: "la encuesta"
+    translation:
+      en: "poll / survey"
+      ko: "여론 조사"
+    gender: f
+  - spanish: "el resultado"
+    translation:
+      en: "result"
+      ko: "결과"
+    gender: m
+  - spanish: "la tendencia"
+    translation:
+      en: "trend"
+      ko: "추세 / 경향"
+    gender: f
+  - spanish: "la democracia"
+    translation:
+      en: "democracy"
+      ko: "민주주의"
+    gender: f
+  - spanish: "la dictadura"
+    translation:
+      en: "dictatorship"
+      ko: "독재"
+    gender: f
+  - spanish: "el golpe de estado"
+    translation:
+      en: "coup d'etat"
+      ko: "쿠데타"
+    gender: m
+  - spanish: "el tratado"
+    translation:
+      en: "treaty"
+      ko: "조약"
+    gender: m
+  - spanish: "la sanción"
+    translation:
+      en: "sanction"
+      ko: "제재"
+    gender: f
+  - spanish: "el terrorismo"
+    translation:
+      en: "terrorism"
+      ko: "테러리즘"
+    gender: m
+  - spanish: "la recesión"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+  - spanish: "la desigualdad"
+    translation:
+      en: "inequality"
+      ko: "불평등"
+    gender: f
+  - spanish: "el debate político"
+    translation:
+      en: "political debate"
+      ko: "정치 토론"
+    gender: m
+  - spanish: "la oposición"
+    translation:
+      en: "opposition"
+      ko: "야당 / 반대"
+    gender: f
+  - spanish: "el parlamento"
+    translation:
+      en: "parliament"
+      ko: "의회"
+    gender: m
+  - spanish: "el congreso"
+    translation:
+      en: "congress"
+      ko: "국회"
+    gender: m
+  - spanish: "el senado"
+    translation:
+      en: "senate"
+      ko: "상원"
+    gender: m
+  - spanish: "el diputado"
+    translation:
+      en: "deputy / member of parliament"
+      ko: "국회의원"
+    gender: m
+    notes:
+      en: "la diputada for female"
+      ko: "여성형은 la diputada"
+  - spanish: "el ministro"
+    translation:
+      en: "minister"
+      ko: "장관"
+    gender: m
+    notes:
+      en: "la ministra for female"
+      ko: "여성형은 la ministra"
+  - spanish: "la monarquía"
+    translation:
+      en: "monarchy"
+      ko: "군주제"
+    gender: f
+  - spanish: "la república"
+    translation:
+      en: "republic"
+      ko: "공화국"
+    gender: f
+  - spanish: "la negociación"
+    translation:
+      en: "negotiation"
+      ko: "협상"
+    gender: f
+  - spanish: "el acuerdo internacional"
+    translation:
+      en: "international agreement"
+      ko: "국제 협정"
+    gender: m
+  - spanish: "la diplomacia"
+    translation:
+      en: "diplomacy"
+      ko: "외교"
+    gender: f
+  - spanish: "el embajador"
+    translation:
+      en: "ambassador"
+      ko: "대사"
+    gender: m
+    notes:
+      en: "la embajadora for female"
+      ko: "여성형은 la embajadora"
+  - spanish: "la ONU"
+    translation:
+      en: "United Nations (UN)"
+      ko: "유엔 (UN)"
+    gender: f
+    notes:
+      en: "Organización de las Naciones Unidas"
+      ko: "Organización de las Naciones Unidas의 약어"
+  - spanish: "la Unión Europea"
+    translation:
+      en: "European Union (EU)"
+      ko: "유럽 연합 (EU)"
+    gender: f
+  - spanish: "votar"
+    translation:
+      en: "to vote"
+      ko: "투표하다"
+    gender: null
+  - spanish: "la abstención"
+    translation:
+      en: "abstention"
+      ko: "기권"
+    gender: f
+  - spanish: "la campaña electoral"
+    translation:
+      en: "election campaign"
+      ko: "선거 운동"
+    gender: f
+  - spanish: "el escaño"
+    translation:
+      en: "parliamentary seat"
+      ko: "의석"
+    gender: m
+  - spanish: "la mayoría"
+    translation:
+      en: "majority"
+      ko: "과반수"
+    gender: f
+  - spanish: "la minoría"
+    translation:
+      en: "minority"
+      ko: "소수"
+    gender: f
+  - spanish: "el sondeo"
+    translation:
+      en: "opinion poll"
+      ko: "여론 조사"
+    gender: m
+  - spanish: "la audiencia"
+    translation:
+      en: "audience / ratings"
+      ko: "시청률 / 청중"
+    gender: f
+  - spanish: "el suplemento"
+    translation:
+      en: "supplement (newspaper)"
+      ko: "부록"
+    gender: m
+  - spanish: "la tirada"
+    translation:
+      en: "print run / circulation"
+      ko: "발행 부수"
+    gender: f
+  - spanish: "la suscripción"
+    translation:
+      en: "subscription"
+      ko: "구독"
+    gender: f
+  - spanish: "la cabecera"
+    translation:
+      en: "masthead / newspaper name"
+      ko: "신문 제호"
+    gender: f
+  - spanish: "el anuncio"
+    translation:
+      en: "advertisement / ad"
+      ko: "광고"
+    gender: m
+  - spanish: "la publicidad"
+    translation:
+      en: "advertising"
+      ko: "광고 (업계)"
+    gender: f
+  - spanish: "el patrocinador"
+    translation:
+      en: "sponsor"
+      ko: "후원자 / 스폰서"
+    gender: m
+  - spanish: "el telespectador"
+    translation:
+      en: "TV viewer"
+      ko: "TV 시청자"
+    gender: m
+  - spanish: "el oyente"
+    translation:
+      en: "listener"
+      ko: "청취자"
+    gender: m
+  - spanish: "el lector"
+    translation:
+      en: "reader"
+      ko: "독자"
+    gender: m
+    notes:
+      en: "la lectora for female"
+      ko: "여성형은 la lectora"
+  - spanish: "el documental"
+    translation:
+      en: "documentary"
+      ko: "다큐멘터리"
+    gender: m
+  - spanish: "la tertulia"
+    translation:
+      en: "talk show / panel discussion"
+      ko: "토론 프로그램"
+    gender: f
+    notes:
+      en: "Common format on Spanish TV and radio"
+      ko: "스페인 TV와 라디오에서 흔한 형식"
+  - spanish: "el tertuliano"
+    translation:
+      en: "panelist / pundit"
+      ko: "패널리스트"
+    gender: m
+    notes:
+      en: "la tertuliana for female"
+      ko: "여성형은 la tertuliana"
+  - spanish: "la crónica deportiva"
+    translation:
+      en: "sports report"
+      ko: "스포츠 보도"
+    gender: f
+  - spanish: "la nota de prensa"
+    translation:
+      en: "press release"
+      ko: "보도 자료"
+    gender: f
+  - spanish: "la agencia de noticias"
+    translation:
+      en: "news agency"
+      ko: "통신사"
+    gender: f
+  - spanish: "el corresponsal de guerra"
+    translation:
+      en: "war correspondent"
+      ko: "전쟁 특파원"
+    gender: m
+  - spanish: "la objetividad"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: f
+  - spanish: "la parcialidad"
+    translation:
+      en: "bias / partiality"
+      ko: "편향성"
+    gender: f
+  - spanish: "la imparcialidad"
+    translation:
+      en: "impartiality"
+      ko: "공정성"
+    gender: f
+  - spanish: "el derecho a la información"
+    translation:
+      en: "right to information"
+      ko: "알 권리"
+    gender: m
+  - spanish: "la ética periodística"
+    translation:
+      en: "journalistic ethics"
+      ko: "언론 윤리"
+    gender: f
+  - spanish: "la fuente anónima"
+    translation:
+      en: "anonymous source"
+      ko: "익명의 취재원"
+    gender: f
+  - spanish: "el titular sensacionalista"
+    translation:
+      en: "clickbait / sensational headline"
+      ko: "자극적 제목 / 낚시 기사"
+    gender: m
+  - spanish: "la prensa amarilla"
+    translation:
+      en: "tabloid press / yellow journalism"
+      ko: "황색 언론"
+    gender: f
+  - spanish: "la crónica negra"
+    translation:
+      en: "crime report"
+      ko: "사건 보도"
+    gender: f
+  - spanish: "la primera plana"
+    translation:
+      en: "front page"
+      ko: "1면"
+    gender: f
+  - spanish: "el cierre de edición"
+    translation:
+      en: "press deadline"
+      ko: "마감 시한"
+    gender: m
+  - spanish: "la tirada digital"
+    translation:
+      en: "digital circulation"
+      ko: "디지털 발행 부수"
+    gender: f
+  - spanish: "el medio digital"
+    translation:
+      en: "digital media outlet"
+      ko: "디지털 매체"
+    gender: m
+  - spanish: "la infografía"
+    translation:
+      en: "infographic"
+      ko: "인포그래픽"
+    gender: f
+  - spanish: "el clickbait"
+    translation:
+      en: "clickbait"
+      ko: "클릭 유도 기사"
+    gender: m
+  - spanish: "la viralidad"
+    translation:
+      en: "virality"
+      ko: "바이럴성"
+    gender: f
+  - spanish: "el periodismo de investigación"
+    translation:
+      en: "investigative journalism"
+      ko: "탐사 보도"
+    gender: m
+  - spanish: "el periodismo ciudadano"
+    translation:
+      en: "citizen journalism"
+      ko: "시민 언론"
+    gender: m
+  - spanish: "la fuente fiable"
+    translation:
+      en: "reliable source"
+      ko: "신뢰할 수 있는 출처"
+    gender: f
+  - spanish: "el bulo"
+    translation:
+      en: "hoax / fake news"
+      ko: "허위 뉴스 / 가짜 정보"
+    gender: m
+    notes:
+      en: "Colloquial Spanish for internet hoax"
+      ko: "인터넷 허위 정보에 대한 구어적 표현"
+  - spanish: "el fact-checking"
+    translation:
+      en: "fact-checking"
+      ko: "팩트체크"
+    gender: m
+  - spanish: "el muro de pago"
+    translation:
+      en: "paywall"
+      ko: "유료화 장벽"
+    gender: m
+  - spanish: "el medio independiente"
+    translation:
+      en: "independent media"
+      ko: "독립 매체"
+    gender: m
+  - spanish: "la opinión pública"
+    translation:
+      en: "public opinion"
+      ko: "여론"
+    gender: f
+  - spanish: "la propaganda"
+    translation:
+      en: "propaganda"
+      ko: "선전"
+    gender: f
+  - spanish: "el sesgo"
+    translation:
+      en: "bias"
+      ko: "편향"
+    gender: m
+  - spanish: "el sesgo de confirmación"
+    translation:
+      en: "confirmation bias"
+      ko: "확증 편향"
+    gender: m
+  - spanish: "la cámara de eco"
+    translation:
+      en: "echo chamber"
+      ko: "에코 챔버"
+    gender: f
+  - spanish: "la polarización"
+    translation:
+      en: "polarization"
+      ko: "양극화"
+    gender: f
+  - spanish: "el debate televisivo"
+    translation:
+      en: "televised debate"
+      ko: "TV 토론"
+    gender: m
+  - spanish: "la tribuna"
+    translation:
+      en: "tribune / op-ed section"
+      ko: "기고란"
+    gender: f
+  - spanish: "la cobertura mediática"
+    translation:
+      en: "media coverage"
+      ko: "언론 보도"
+    gender: f
+  - spanish: "la cadena de televisión"
+    translation:
+      en: "television network"
+      ko: "TV 방송 채널"
+    gender: f
+  - spanish: "el corresponsal extranjero"
+    translation:
+      en: "foreign correspondent"
+      ko: "해외 특파원"
+    gender: m
+  - spanish: "la redacción digital"
+    translation:
+      en: "digital newsroom"
+      ko: "디지털 편집실"
+    gender: f
+  - spanish: "el periodismo de datos"
+    translation:
+      en: "data journalism"
+      ko: "데이터 저널리즘"
+    gender: m
+  - spanish: "la verificación de hechos"
+    translation:
+      en: "fact verification"
+      ko: "사실 확인"
+    gender: f
+  - spanish: "la transparencia"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f

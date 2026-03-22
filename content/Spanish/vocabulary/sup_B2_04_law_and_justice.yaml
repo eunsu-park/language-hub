@@ -1,0 +1,992 @@
+lesson: "sup_B2_Law_and_Justice"
+lesson_number: 164
+cefr: B2
+type: supplementary
+topic: "Law and Justice"
+categories:
+- id: criminal_law
+  label:
+    en: "Criminal Law"
+    ko: "형법"
+  type: vocabulary
+  words:
+  - spanish: "el delito"
+    translation:
+      en: "crime / offense"
+      ko: "범죄"
+    gender: m
+  - spanish: "el crimen"
+    translation:
+      en: "serious crime"
+      ko: "중범죄"
+    gender: m
+  - spanish: "la falta"
+    translation:
+      en: "misdemeanor / minor offense"
+      ko: "경범죄"
+    gender: f
+  - spanish: "el homicidio"
+    translation:
+      en: "homicide"
+      ko: "살인"
+    gender: m
+  - spanish: "el asesinato"
+    translation:
+      en: "murder"
+      ko: "살인 (고의)"
+    gender: m
+    notes:
+      en: "Premeditated killing; homicidio is broader"
+      ko: "계획적 살인; homicidio가 더 넓은 의미"
+  - spanish: "el robo"
+    translation:
+      en: "robbery / theft"
+      ko: "강도 / 절도"
+    gender: m
+  - spanish: "el hurto"
+    translation:
+      en: "theft (without violence)"
+      ko: "절도 (비폭력)"
+    gender: m
+    notes:
+      en: "Theft without force; robo involves force or intimidation"
+      ko: "폭력 없는 절도; robo는 폭력이나 위협이 수반됨"
+  - spanish: "el fraude"
+    translation:
+      en: "fraud"
+      ko: "사기"
+    gender: m
+  - spanish: "la estafa"
+    translation:
+      en: "scam / swindle"
+      ko: "사기 / 기만"
+    gender: f
+  - spanish: "el soborno"
+    translation:
+      en: "bribery"
+      ko: "뇌물"
+    gender: m
+  - spanish: "la corrupción"
+    translation:
+      en: "corruption"
+      ko: "부패"
+    gender: f
+  - spanish: "el blanqueo de dinero"
+    translation:
+      en: "money laundering"
+      ko: "돈세탁"
+    gender: m
+  - spanish: "el tráfico de drogas"
+    translation:
+      en: "drug trafficking"
+      ko: "마약 밀매"
+    gender: m
+  - spanish: "la agresión"
+    translation:
+      en: "assault / aggression"
+      ko: "폭행"
+    gender: f
+  - spanish: "el secuestro"
+    translation:
+      en: "kidnapping"
+      ko: "납치"
+    gender: m
+  - spanish: "la extorsión"
+    translation:
+      en: "extortion"
+      ko: "갈취 / 협박"
+    gender: f
+  - spanish: "el acoso"
+    translation:
+      en: "harassment"
+      ko: "괴롭힘"
+    gender: m
+  - spanish: "la violencia de género"
+    translation:
+      en: "gender-based violence"
+      ko: "성별 기반 폭력"
+    gender: f
+  - spanish: "el terrorismo"
+    translation:
+      en: "terrorism"
+      ko: "테러리즘"
+    gender: m
+  - spanish: "la reincidencia"
+    translation:
+      en: "recidivism"
+      ko: "재범"
+    gender: f
+  - spanish: "el cómplice"
+    translation:
+      en: "accomplice"
+      ko: "공범"
+    gender: m
+  - spanish: "el encubrimiento"
+    translation:
+      en: "cover-up / concealment"
+      ko: "은폐"
+    gender: m
+  - spanish: "la tentativa"
+    translation:
+      en: "attempt (criminal)"
+      ko: "미수"
+    gender: f
+  - spanish: "la premeditación"
+    translation:
+      en: "premeditation"
+      ko: "계획 / 사전모의"
+    gender: f
+  - spanish: "el delincuente"
+    translation:
+      en: "criminal / offender"
+      ko: "범죄자"
+    gender: m
+  - spanish: "la víctima"
+    translation:
+      en: "victim"
+      ko: "피해자"
+    gender: f
+  - spanish: "el sospechoso"
+    translation:
+      en: "suspect"
+      ko: "용의자"
+    gender: m
+  - spanish: "delinquir"
+    translation:
+      en: "to commit a crime"
+      ko: "범죄를 저지르다"
+    gender: null
+  - spanish: "denunciar"
+    translation:
+      en: "to report (a crime)"
+      ko: "신고하다 / 고발하다"
+    gender: null
+  - spanish: "detener"
+    translation:
+      en: "to arrest / to detain"
+      ko: "체포하다"
+    gender: null
+  - spanish: "el código penal"
+    translation:
+      en: "penal code"
+      ko: "형법전"
+    gender: m
+  - spanish: "la pena"
+    translation:
+      en: "sentence / penalty"
+      ko: "형벌"
+    gender: f
+  - spanish: "el antecedente penal"
+    translation:
+      en: "criminal record"
+      ko: "범죄 기록"
+    gender: m
+  - spanish: "la confesión"
+    translation:
+      en: "confession"
+      ko: "자백"
+    gender: f
+  - spanish: "la coartada"
+    translation:
+      en: "alibi"
+      ko: "알리바이"
+    gender: f
+- id: civil_law
+  label:
+    en: "Civil Law"
+    ko: "민법"
+  type: vocabulary
+  words:
+  - spanish: "el contrato"
+    translation:
+      en: "contract"
+      ko: "계약"
+    gender: m
+  - spanish: "la demanda"
+    translation:
+      en: "lawsuit / claim"
+      ko: "소송"
+    gender: f
+  - spanish: "demandar"
+    translation:
+      en: "to sue"
+      ko: "소송을 제기하다"
+    gender: null
+  - spanish: "el demandante"
+    translation:
+      en: "plaintiff"
+      ko: "원고"
+    gender: m
+  - spanish: "el demandado"
+    translation:
+      en: "defendant (civil)"
+      ko: "피고"
+    gender: m
+  - spanish: "la herencia"
+    translation:
+      en: "inheritance"
+      ko: "상속"
+    gender: f
+  - spanish: "el testamento"
+    translation:
+      en: "will / testament"
+      ko: "유언장"
+    gender: m
+  - spanish: "el divorcio"
+    translation:
+      en: "divorce"
+      ko: "이혼"
+    gender: m
+  - spanish: "la custodia"
+    translation:
+      en: "custody"
+      ko: "양육권"
+    gender: f
+  - spanish: "la pensión alimenticia"
+    translation:
+      en: "alimony / child support"
+      ko: "양육비 / 부양비"
+    gender: f
+  - spanish: "la propiedad"
+    translation:
+      en: "property / ownership"
+      ko: "소유권 / 재산"
+    gender: f
+  - spanish: "el arrendamiento"
+    translation:
+      en: "lease / rental"
+      ko: "임대"
+    gender: m
+  - spanish: "la hipoteca"
+    translation:
+      en: "mortgage"
+      ko: "담보 대출"
+    gender: f
+  - spanish: "la indemnización"
+    translation:
+      en: "compensation / indemnity"
+      ko: "배상금"
+    gender: f
+  - spanish: "la negligencia"
+    translation:
+      en: "negligence"
+      ko: "과실"
+    gender: f
+  - spanish: "la responsabilidad civil"
+    translation:
+      en: "civil liability"
+      ko: "민사 책임"
+    gender: f
+  - spanish: "la patria potestad"
+    translation:
+      en: "parental authority"
+      ko: "친권"
+    gender: f
+  - spanish: "la tutela"
+    translation:
+      en: "guardianship"
+      ko: "후견"
+    gender: f
+  - spanish: "el patrimonio"
+    translation:
+      en: "estate / assets"
+      ko: "자산 / 재산"
+    gender: m
+  - spanish: "la escritura"
+    translation:
+      en: "deed / legal document"
+      ko: "증서"
+    gender: f
+  - spanish: "el notario"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: m
+    notes:
+      en: "la notaria for female"
+      ko: "여성형은 la notaria"
+  - spanish: "la cláusula"
+    translation:
+      en: "clause"
+      ko: "조항"
+    gender: f
+  - spanish: "el incumplimiento"
+    translation:
+      en: "breach (of contract)"
+      ko: "위반 / 불이행"
+    gender: m
+  - spanish: "la reclamación"
+    translation:
+      en: "claim / complaint"
+      ko: "청구 / 이의제기"
+    gender: f
+  - spanish: "el litigio"
+    translation:
+      en: "litigation"
+      ko: "소송"
+    gender: m
+  - spanish: "la mediación"
+    translation:
+      en: "mediation"
+      ko: "중재"
+    gender: f
+  - spanish: "el arbitraje"
+    translation:
+      en: "arbitration"
+      ko: "중재 재판"
+    gender: m
+  - spanish: "la conciliación"
+    translation:
+      en: "conciliation"
+      ko: "조정"
+    gender: f
+- id: human_rights
+  label:
+    en: "Human Rights"
+    ko: "인권"
+  type: vocabulary
+  words:
+  - spanish: "los derechos humanos"
+    translation:
+      en: "human rights"
+      ko: "인권"
+    gender: m
+  - spanish: "la Declaración Universal de los Derechos Humanos"
+    translation:
+      en: "Universal Declaration of Human Rights"
+      ko: "세계 인권 선언"
+    gender: f
+  - spanish: "la libertad de expresión"
+    translation:
+      en: "freedom of expression"
+      ko: "표현의 자유"
+    gender: f
+  - spanish: "la libertad de prensa"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+  - spanish: "la libertad de reunión"
+    translation:
+      en: "freedom of assembly"
+      ko: "집회의 자유"
+    gender: f
+  - spanish: "la igualdad"
+    translation:
+      en: "equality"
+      ko: "평등"
+    gender: f
+  - spanish: "la dignidad"
+    translation:
+      en: "dignity"
+      ko: "존엄성"
+    gender: f
+  - spanish: "la discriminación"
+    translation:
+      en: "discrimination"
+      ko: "차별"
+    gender: f
+  - spanish: "el racismo"
+    translation:
+      en: "racism"
+      ko: "인종주의"
+    gender: m
+  - spanish: "la xenofobia"
+    translation:
+      en: "xenophobia"
+      ko: "외국인 혐오"
+    gender: f
+  - spanish: "la tortura"
+    translation:
+      en: "torture"
+      ko: "고문"
+    gender: f
+  - spanish: "la esclavitud"
+    translation:
+      en: "slavery"
+      ko: "노예제"
+    gender: f
+  - spanish: "el asilo"
+    translation:
+      en: "asylum"
+      ko: "망명"
+    gender: m
+  - spanish: "la presunción de inocencia"
+    translation:
+      en: "presumption of innocence"
+      ko: "무죄 추정"
+    gender: f
+  - spanish: "el debido proceso"
+    translation:
+      en: "due process"
+      ko: "적법 절차"
+    gender: m
+  - spanish: "la privacidad"
+    translation:
+      en: "privacy"
+      ko: "사생활"
+    gender: f
+  - spanish: "la protección de datos"
+    translation:
+      en: "data protection"
+      ko: "개인정보 보호"
+    gender: f
+  - spanish: "el sufragio"
+    translation:
+      en: "suffrage / right to vote"
+      ko: "선거권"
+    gender: m
+  - spanish: "la amnistía"
+    translation:
+      en: "amnesty"
+      ko: "사면"
+    gender: f
+  - spanish: "el indulto"
+    translation:
+      en: "pardon"
+      ko: "특별 사면"
+    gender: m
+  - spanish: "vulnerar"
+    translation:
+      en: "to violate (rights)"
+      ko: "침해하다"
+    gender: null
+  - spanish: "reivindicar"
+    translation:
+      en: "to claim / to demand (rights)"
+      ko: "권리를 주장하다"
+    gender: null
+  - spanish: "el defensor del pueblo"
+    translation:
+      en: "ombudsman"
+      ko: "국민 권익 옹호관"
+    gender: m
+    notes:
+      en: "Spain's public defender institution"
+      ko: "스페인의 국민 권익 보호 기관"
+- id: legal_procedures
+  label:
+    en: "Legal Procedures"
+    ko: "법적 절차"
+  type: vocabulary
+  words:
+  - spanish: "el juicio"
+    translation:
+      en: "trial"
+      ko: "재판"
+    gender: m
+  - spanish: "el tribunal"
+    translation:
+      en: "court"
+      ko: "법원"
+    gender: m
+  - spanish: "el juzgado"
+    translation:
+      en: "court (lower level)"
+      ko: "법원 (하급)"
+    gender: m
+  - spanish: "el juez"
+    translation:
+      en: "judge"
+      ko: "판사"
+    gender: m
+    notes:
+      en: "la jueza for female"
+      ko: "여성형은 la jueza"
+  - spanish: "el fiscal"
+    translation:
+      en: "prosecutor"
+      ko: "검사"
+    gender: m
+    notes:
+      en: "la fiscal for female"
+      ko: "여성형은 la fiscal"
+  - spanish: "el abogado"
+    translation:
+      en: "lawyer"
+      ko: "변호사"
+    gender: m
+    notes:
+      en: "la abogada for female"
+      ko: "여성형은 la abogada"
+  - spanish: "el abogado defensor"
+    translation:
+      en: "defense attorney"
+      ko: "변호인"
+    gender: m
+  - spanish: "el acusado"
+    translation:
+      en: "defendant / accused"
+      ko: "피고인"
+    gender: m
+  - spanish: "el testigo"
+    translation:
+      en: "witness"
+      ko: "증인"
+    gender: m
+  - spanish: "la prueba"
+    translation:
+      en: "evidence / proof"
+      ko: "증거"
+    gender: f
+  - spanish: "el testimonio"
+    translation:
+      en: "testimony"
+      ko: "증언"
+    gender: m
+  - spanish: "la sentencia"
+    translation:
+      en: "sentence / verdict"
+      ko: "판결"
+    gender: f
+  - spanish: "el veredicto"
+    translation:
+      en: "verdict"
+      ko: "평결"
+    gender: m
+  - spanish: "el recurso"
+    translation:
+      en: "appeal"
+      ko: "항소"
+    gender: m
+  - spanish: "la apelación"
+    translation:
+      en: "appeal"
+      ko: "상고"
+    gender: f
+  - spanish: "la citación"
+    translation:
+      en: "summons / subpoena"
+      ko: "소환장"
+    gender: f
+  - spanish: "la declaración"
+    translation:
+      en: "statement / declaration"
+      ko: "진술"
+    gender: f
+  - spanish: "la vista oral"
+    translation:
+      en: "oral hearing"
+      ko: "구두 심리"
+    gender: f
+  - spanish: "el jurado"
+    translation:
+      en: "jury"
+      ko: "배심원단"
+    gender: m
+  - spanish: "la absolución"
+    translation:
+      en: "acquittal"
+      ko: "무죄 선고"
+    gender: f
+  - spanish: "la condena"
+    translation:
+      en: "conviction / sentence"
+      ko: "유죄 판결"
+    gender: f
+  - spanish: "absolver"
+    translation:
+      en: "to acquit"
+      ko: "무죄를 선고하다"
+    gender: null
+  - spanish: "condenar"
+    translation:
+      en: "to convict / to sentence"
+      ko: "유죄를 선고하다"
+    gender: null
+  - spanish: "apelar"
+    translation:
+      en: "to appeal"
+      ko: "항소하다"
+    gender: null
+  - spanish: "testificar"
+    translation:
+      en: "to testify"
+      ko: "증언하다"
+    gender: null
+  - spanish: "la fianza"
+    translation:
+      en: "bail / bond"
+      ko: "보석금"
+    gender: f
+  - spanish: "la orden judicial"
+    translation:
+      en: "court order"
+      ko: "법원 명령"
+    gender: f
+  - spanish: "la prescripción"
+    translation:
+      en: "statute of limitations"
+      ko: "공소시효"
+    gender: f
+  - spanish: "el expediente"
+    translation:
+      en: "case file / record"
+      ko: "사건 기록"
+    gender: m
+  - spanish: "la jurisprudencia"
+    translation:
+      en: "jurisprudence / case law"
+      ko: "판례법"
+    gender: f
+- id: punishment_rehabilitation
+  label:
+    en: "Punishment and Rehabilitation"
+    ko: "처벌과 재활"
+  type: vocabulary
+  words:
+  - spanish: "la prisión"
+    translation:
+      en: "prison"
+      ko: "교도소"
+    gender: f
+  - spanish: "la cárcel"
+    translation:
+      en: "jail / prison"
+      ko: "감옥"
+    gender: f
+  - spanish: "el preso"
+    translation:
+      en: "prisoner / inmate"
+      ko: "수감자"
+    gender: m
+    notes:
+      en: "la presa for female"
+      ko: "여성형은 la presa"
+  - spanish: "la cadena perpetua"
+    translation:
+      en: "life sentence"
+      ko: "무기 징역"
+    gender: f
+  - spanish: "la pena de muerte"
+    translation:
+      en: "death penalty"
+      ko: "사형"
+    gender: f
+    notes:
+      en: "Abolished in Spain since 1978"
+      ko: "스페인에서 1978년 이후 폐지됨"
+  - spanish: "la multa"
+    translation:
+      en: "fine"
+      ko: "벌금"
+    gender: f
+  - spanish: "la libertad condicional"
+    translation:
+      en: "parole"
+      ko: "가석방"
+    gender: f
+  - spanish: "la libertad provisional"
+    translation:
+      en: "bail / provisional release"
+      ko: "보석"
+    gender: f
+  - spanish: "los servicios comunitarios"
+    translation:
+      en: "community service"
+      ko: "사회봉사"
+    gender: m
+  - spanish: "la reinserción social"
+    translation:
+      en: "social reintegration"
+      ko: "사회 복귀"
+    gender: f
+  - spanish: "la rehabilitación"
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: f
+  - spanish: "la orden de alejamiento"
+    translation:
+      en: "restraining order"
+      ko: "접근 금지 명령"
+    gender: f
+  - spanish: "la suspensión de empleo"
+    translation:
+      en: "suspension from work"
+      ko: "직무 정지"
+    gender: f
+  - spanish: "la inhabilitación"
+    translation:
+      en: "disqualification (from office)"
+      ko: "자격 박탈"
+    gender: f
+  - spanish: "el arresto domiciliario"
+    translation:
+      en: "house arrest"
+      ko: "가택 연금"
+    gender: m
+  - spanish: "la reclusión"
+    translation:
+      en: "imprisonment / confinement"
+      ko: "구금"
+    gender: f
+  - spanish: "el indulto"
+    translation:
+      en: "pardon"
+      ko: "사면"
+    gender: m
+  - spanish: "la reducción de condena"
+    translation:
+      en: "sentence reduction"
+      ko: "감형"
+    gender: f
+  - spanish: "el tercer grado"
+    translation:
+      en: "open regime (prison)"
+      ko: "개방 수감 제도"
+    gender: m
+    notes:
+      en: "Spanish prison system: allows leaving during the day"
+      ko: "스페인 교도소 제도: 주간에 외출이 허용됨"
+  - spanish: "cumplir condena"
+    translation:
+      en: "to serve a sentence"
+      ko: "형을 살다"
+    gender: null
+  - spanish: "encarcelar"
+    translation:
+      en: "to imprison"
+      ko: "투옥하다"
+    gender: null
+  - spanish: "excarcelar"
+    translation:
+      en: "to release (from prison)"
+      ko: "석방하다"
+    gender: null
+  - spanish: "la prevención del delito"
+    translation:
+      en: "crime prevention"
+      ko: "범죄 예방"
+    gender: f
+  - spanish: "la justicia restaurativa"
+    translation:
+      en: "restorative justice"
+      ko: "회복적 사법"
+    gender: f
+  - spanish: "la reincorporación"
+    translation:
+      en: "reintegration"
+      ko: "사회 재편입"
+    gender: f
+  - spanish: "el trabajo social"
+    translation:
+      en: "social work"
+      ko: "사회복지"
+    gender: m
+  - spanish: "el centro penitenciario"
+    translation:
+      en: "penitentiary / correctional facility"
+      ko: "교정 시설"
+    gender: m
+  - spanish: "el régimen penitenciario"
+    translation:
+      en: "prison regime"
+      ko: "교도소 제도"
+    gender: m
+  - spanish: "la vigilancia"
+    translation:
+      en: "surveillance"
+      ko: "감시"
+    gender: f
+  - spanish: "la tobillera electrónica"
+    translation:
+      en: "electronic ankle monitor"
+      ko: "전자 발찌"
+    gender: f
+  - spanish: "el indulto parcial"
+    translation:
+      en: "partial pardon"
+      ko: "부분 사면"
+    gender: m
+  - spanish: "la pena alternativa"
+    translation:
+      en: "alternative sentence"
+      ko: "대체 형벌"
+    gender: f
+  - spanish: "la justicia transicional"
+    translation:
+      en: "transitional justice"
+      ko: "전환기 정의"
+    gender: f
+  - spanish: "el código civil"
+    translation:
+      en: "civil code"
+      ko: "민법전"
+    gender: m
+  - spanish: "la jurista"
+    translation:
+      en: "jurist"
+      ko: "법학자"
+    gender: f
+  - spanish: "el letrado"
+    translation:
+      en: "counsel / legal advisor"
+      ko: "법률 고문"
+    gender: m
+  - spanish: "el procurador"
+    translation:
+      en: "solicitor / legal representative"
+      ko: "법률 대리인"
+    gender: m
+    notes:
+      en: "la procuradora for female"
+      ko: "여성형은 la procuradora"
+  - spanish: "el bufete de abogados"
+    translation:
+      en: "law firm"
+      ko: "법률 사무소"
+    gender: m
+  - spanish: "la asesoría jurídica"
+    translation:
+      en: "legal advice"
+      ko: "법률 자문"
+    gender: f
+  - spanish: "el derecho laboral"
+    translation:
+      en: "labor law"
+      ko: "노동법"
+    gender: m
+  - spanish: "el derecho mercantil"
+    translation:
+      en: "commercial law"
+      ko: "상법"
+    gender: m
+  - spanish: "el derecho administrativo"
+    translation:
+      en: "administrative law"
+      ko: "행정법"
+    gender: m
+  - spanish: "el derecho constitucional"
+    translation:
+      en: "constitutional law"
+      ko: "헌법학"
+    gender: m
+  - spanish: "la normativa"
+    translation:
+      en: "regulations / legal framework"
+      ko: "규범 / 법규"
+    gender: f
+  - spanish: "el reglamento"
+    translation:
+      en: "regulation"
+      ko: "규정"
+    gender: m
+  - spanish: "la ordenanza"
+    translation:
+      en: "ordinance"
+      ko: "조례"
+    gender: f
+  - spanish: "el auto judicial"
+    translation:
+      en: "judicial order / ruling"
+      ko: "법원 결정"
+    gender: m
+  - spanish: "la providencia"
+    translation:
+      en: "procedural order"
+      ko: "절차 명령"
+    gender: f
+  - spanish: "el peritaje"
+    translation:
+      en: "expert assessment"
+      ko: "감정"
+    gender: m
+  - spanish: "el perito"
+    translation:
+      en: "expert witness"
+      ko: "감정인"
+    gender: m
+  - spanish: "la prueba pericial"
+    translation:
+      en: "expert evidence"
+      ko: "감정 증거"
+    gender: f
+  - spanish: "la prueba documental"
+    translation:
+      en: "documentary evidence"
+      ko: "서면 증거"
+    gender: f
+  - spanish: "la prueba testifical"
+    translation:
+      en: "testimonial evidence"
+      ko: "증인 증거"
+    gender: f
+  - spanish: "la instrucción"
+    translation:
+      en: "investigation phase (criminal)"
+      ko: "수사 단계"
+    gender: f
+  - spanish: "el juez de instrucción"
+    translation:
+      en: "investigating judge"
+      ko: "수사 판사"
+    gender: m
+  - spanish: "la acusación"
+    translation:
+      en: "prosecution / accusation"
+      ko: "기소 / 고발"
+    gender: f
+  - spanish: "la imputación"
+    translation:
+      en: "indictment / charge"
+      ko: "기소"
+    gender: f
+  - spanish: "la libertad de expresión"
+    translation:
+      en: "freedom of expression"
+      ko: "표현의 자유"
+    gender: f
+  - spanish: "el habeas corpus"
+    translation:
+      en: "habeas corpus"
+      ko: "인신보호영장"
+    gender: m
+  - spanish: "la tutela judicial"
+    translation:
+      en: "judicial protection"
+      ko: "사법적 보호"
+    gender: f
+  - spanish: "interponer una demanda"
+    translation:
+      en: "to file a lawsuit"
+      ko: "소송을 제기하다"
+    gender: null
+  - spanish: "dictar sentencia"
+    translation:
+      en: "to pass sentence"
+      ko: "판결을 선고하다"
+    gender: null
+  - spanish: "recurrir"
+    translation:
+      en: "to appeal"
+      ko: "항소하다"
+    gender: null
+  - spanish: "comparecer"
+    translation:
+      en: "to appear (in court)"
+      ko: "출두하다"
+    gender: null
+  - spanish: "la vista previa"
+    translation:
+      en: "preliminary hearing"
+      ko: "예비 심문"
+    gender: f
+  - spanish: "el acta"
+    translation:
+      en: "record / minutes"
+      ko: "기록 / 조서"
+    gender: f
+    notes:
+      en: "Feminine but uses el in singular: el acta"
+      ko: "여성 명사이지만 단수에서 el 사용: el acta"
+  - spanish: "la jurisdicción"
+    translation:
+      en: "jurisdiction"
+      ko: "관할권"
+    gender: f
+  - spanish: "la competencia judicial"
+    translation:
+      en: "judicial competence"
+      ko: "사법 관할"
+    gender: f

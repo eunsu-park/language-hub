@@ -1,0 +1,468 @@
+lesson: 22_Writing_in_Spanish
+lesson_number: 22
+cefr: B2-C1
+categories:
+- id: numbers_and_dates
+  label:
+    en: Numbers and Dates
+    ko: 숫자와 날짜
+  type: vocabulary
+  words:
+  - spanish: 3,5 (comma)
+    translation:
+      en: 3.5 (period)
+    gender: null
+  - spanish: 1.000 (period)
+    translation:
+      en: 1,000 (comma)
+    gender: null
+  - spanish: 15/10/2024 (dd/mm/yyyy)
+    translation:
+      en: 10/15/2024 (mm/dd/yyyy)
+    gender: null
+  - spanish: 29,99 € (after number)
+    translation:
+      en: $29.99 (before number)
+    gender: null
+- id: spelling_errors
+  label:
+    en: Spelling Errors
+    ko: 철자 오류
+  type: vocabulary
+  words:
+  - spanish: Missing ñ
+    translation:
+      en: espanol
+    gender: null
+    notes:
+      en: español
+  - spanish: Missing accents
+    translation:
+      en: cafe
+    gender: null
+    notes:
+      en: café
+  - spanish: b/v confusion
+    translation:
+      en: aver
+    gender: null
+    notes:
+      en: a ver
+  - spanish: h errors
+    translation:
+      en: aver (to see)
+    gender: null
+    notes:
+      en: a ver / haber
+  - spanish: ll vs y
+    translation:
+      en: —
+    gender: null
+    notes:
+      en: Regional variation
+- id: letter_and_email_vocabulary
+  label:
+    en: Letter and Email Vocabulary
+    ko: 편지 및 이메일 어휘
+  type: vocabulary
+  words:
+  - spanish: Estimado/a señor/a
+    translation:
+      en: Dear Sir/Madam
+      ko: 존경하는 선생님께
+    gender: null
+    notes:
+      en: Formal letter/email opening
+      ko: 공식 편지/이메일 서두
+  - spanish: Muy señor mío
+    translation:
+      en: Dear Sir (very formal)
+      ko: 존경하는 귀하 (매우 격식체)
+    gender: null
+  - spanish: Querido/a
+    translation:
+      en: Dear (informal)
+      ko: 친애하는 (비격식)
+    gender: null
+  - spanish: Me dirijo a usted
+    translation:
+      en: I am writing to you (formal)
+      ko: 귀하께 서신을 드립니다
+    gender: null
+  - spanish: Le escribo con motivo de
+    translation:
+      en: I am writing regarding
+      ko: ~에 관하여 서신을 드립니다
+    gender: null
+  - spanish: En relación con
+    translation:
+      en: In relation to / Regarding
+      ko: ~에 관하여
+    gender: null
+  - spanish: Adjunto le envío
+    translation:
+      en: I am attaching / Please find attached
+      ko: 첨부하여 보내드립니다
+    gender: null
+  - spanish: Quedo a su disposición
+    translation:
+      en: I remain at your disposal
+      ko: 언제든지 연락 주십시오
+    gender: null
+  - spanish: Le saluda atentamente
+    translation:
+      en: Yours sincerely / Yours faithfully
+      ko: 경의를 표하며
+    gender: null
+  - spanish: Un cordial saludo
+    translation:
+      en: Kind regards
+      ko: 친절한 인사를 드리며
+    gender: null
+  - spanish: Un abrazo
+    translation:
+      en: A hug (warm informal closing)
+      ko: 포옹 (따뜻한 비격식 맺음)
+    gender: m
+  - spanish: Besos
+    translation:
+      en: Kisses (very informal closing)
+      ko: 키스 (매우 비격식 맺음)
+    gender: null
+  - spanish: el destinatario
+    translation:
+      en: the recipient / addressee
+      ko: 수신인
+    gender: m
+  - spanish: el remitente
+    translation:
+      en: the sender
+      ko: 발신인
+    gender: m
+  - spanish: el asunto
+    translation:
+      en: the subject (of email)
+      ko: 제목 (이메일)
+    gender: m
+- id: essay_structure_words
+  label:
+    en: Essay Structure Words
+    ko: 에세이 구조 어휘
+  type: vocabulary
+  words:
+  - spanish: la introducción
+    translation:
+      en: introduction
+      ko: 서론
+    gender: f
+  - spanish: el desarrollo
+    translation:
+      en: development / body (of essay)
+      ko: 전개 / 본론
+    gender: m
+  - spanish: la conclusión
+    translation:
+      en: conclusion
+      ko: 결론
+    gender: f
+  - spanish: la tesis
+    translation:
+      en: thesis / main argument
+      ko: 논제 / 주장
+    gender: f
+  - spanish: el argumento
+    translation:
+      en: argument / reasoning
+      ko: 논거 / 주장
+    gender: m
+  - spanish: el ejemplo
+    translation:
+      en: example
+      ko: 예시
+    gender: m
+  - spanish: la cita
+    translation:
+      en: quote / citation
+      ko: 인용 / 인용문
+    gender: f
+  - spanish: la referencia
+    translation:
+      en: reference
+      ko: 참고 / 참조
+    gender: f
+  - spanish: el planteamiento
+    translation:
+      en: approach / statement (of a problem)
+      ko: 접근법 / 문제 제기
+    gender: m
+  - spanish: el análisis
+    translation:
+      en: analysis
+      ko: 분석
+    gender: m
+  - spanish: la síntesis
+    translation:
+      en: synthesis / summary
+      ko: 종합 / 요약
+    gender: f
+  - spanish: el borrador
+    translation:
+      en: draft
+      ko: 초안
+    gender: m
+- id: linking_words_conectores
+  label:
+    en: Linking Words (Conectores)
+    ko: 접속어 (Conectores)
+  type: vocabulary
+  words:
+  - spanish: además
+    translation:
+      en: furthermore / moreover
+      ko: 게다가 / 더욱이
+    gender: null
+  - spanish: sin embargo
+    translation:
+      en: however / nevertheless
+      ko: 그러나 / 그럼에도 불구하고
+    gender: null
+  - spanish: por lo tanto
+    translation:
+      en: therefore
+      ko: 그러므로
+    gender: null
+  - spanish: en primer lugar
+    translation:
+      en: firstly / in the first place
+      ko: 첫째로 / 우선
+    gender: null
+  - spanish: en segundo lugar
+    translation:
+      en: secondly
+      ko: 둘째로
+    gender: null
+  - spanish: por último
+    translation:
+      en: lastly / finally
+      ko: 마지막으로
+    gender: null
+  - spanish: no obstante
+    translation:
+      en: nevertheless / notwithstanding
+      ko: 그럼에도 불구하고
+    gender: null
+  - spanish: en cambio
+    translation:
+      en: on the other hand / instead
+      ko: 반면에 / 대신에
+    gender: null
+  - spanish: por ejemplo
+    translation:
+      en: for example
+      ko: 예를 들어
+    gender: null
+  - spanish: es decir
+    translation:
+      en: that is to say / in other words
+      ko: 즉 / 다시 말해
+    gender: null
+  - spanish: en resumen
+    translation:
+      en: in summary
+      ko: 요약하면
+    gender: null
+  - spanish: a pesar de que
+    translation:
+      en: despite the fact that
+      ko: ~임에도 불구하고
+    gender: null
+  - spanish: dado que
+    translation:
+      en: given that / since
+      ko: ~을 고려하면 / ~이므로
+    gender: null
+  - spanish: con el fin de
+    translation:
+      en: in order to / with the aim of
+      ko: ~을 위하여 / ~할 목적으로
+    gender: null
+  - spanish: en definitiva
+    translation:
+      en: in short / ultimately
+      ko: 결국 / 요컨대
+    gender: null
+- id: formal_expressions
+  label:
+    en: Formal Expressions
+    ko: 격식 표현
+  type: vocabulary
+  words:
+  - spanish: Cabe destacar que
+    translation:
+      en: It is worth noting that
+      ko: 주목할 만한 것은 ~이다
+    gender: null
+  - spanish: Conviene señalar que
+    translation:
+      en: It is advisable to point out that
+      ko: ~을 지적하는 것이 좋다
+    gender: null
+  - spanish: En lo que respecta a
+    translation:
+      en: With regard to / As for
+      ko: ~에 관해서는
+    gender: null
+  - spanish: Desde mi punto de vista
+    translation:
+      en: From my point of view
+      ko: 내 관점에서
+    gender: null
+  - spanish: A mi parecer
+    translation:
+      en: In my opinion
+      ko: 내 생각으로는
+    gender: null
+  - spanish: Tal y como se ha mencionado
+    translation:
+      en: As has been mentioned
+      ko: 언급된 바와 같이
+    gender: null
+  - spanish: En cuanto a
+    translation:
+      en: As for / Regarding
+      ko: ~에 관해서는
+    gender: null
+  - spanish: Huelga decir que
+    translation:
+      en: It goes without saying that
+      ko: 말할 필요도 없이
+    gender: null
+    notes:
+      en: Very formal / literary expression
+      ko: 매우 격식적 / 문학적 표현
+  - spanish: Dicho de otro modo
+    translation:
+      en: In other words / Put differently
+      ko: 다시 말해서
+    gender: null
+  - spanish: A modo de conclusión
+    translation:
+      en: By way of conclusion
+      ko: 결론으로서
+    gender: null
+- id: punctuation_and_formatting
+  label:
+    en: Punctuation and Formatting
+    ko: 구두점과 서식
+  type: vocabulary
+  words:
+  - spanish: el punto
+    translation:
+      en: period / full stop
+      ko: 마침표
+    gender: m
+  - spanish: la coma
+    translation:
+      en: comma
+      ko: 쉼표
+    gender: f
+  - spanish: el punto y coma
+    translation:
+      en: semicolon
+      ko: 세미콜론
+    gender: m
+  - spanish: los dos puntos
+    translation:
+      en: colon
+      ko: 콜론 / 쌍점
+    gender: null
+  - spanish: los puntos suspensivos
+    translation:
+      en: ellipsis (...)
+      ko: 줄임표 (...)
+    gender: null
+  - spanish: el signo de exclamación
+    translation:
+      en: exclamation mark (¡!)
+      ko: 느낌표 (¡!)
+    gender: m
+    notes:
+      en: Spanish uses opening and closing marks (¡...!)
+      ko: 스페인어는 시작과 끝 부호를 모두 사용 (¡...!)
+  - spanish: el signo de interrogación
+    translation:
+      en: question mark (¿?)
+      ko: 물음표 (¿?)
+    gender: m
+    notes:
+      en: Spanish uses opening and closing marks (¿...?)
+      ko: 스페인어는 시작과 끝 부호를 모두 사용 (¿...?)
+  - spanish: las comillas
+    translation:
+      en: quotation marks
+      ko: 따옴표
+    gender: null
+  - spanish: el guion
+    translation:
+      en: hyphen
+      ko: 붙임표
+    gender: m
+  - spanish: la raya
+    translation:
+      en: dash (em dash)
+      ko: 줄표 (긴 대시)
+    gender: f
+    notes:
+      en: Used in Spanish for dialogue instead of quotation marks
+      ko: 스페인어에서 따옴표 대신 대화에 사용
+- id: writing_process_vocabulary
+  label:
+    en: Writing Process Vocabulary
+    ko: 작문 과정 어휘
+  type: vocabulary
+  words:
+  - spanish: redactar
+    translation:
+      en: to write / to compose (formal)
+      ko: 작성하다 / 기술하다
+    gender: null
+  - spanish: revisar
+    translation:
+      en: to revise / to review
+      ko: 수정하다 / 검토하다
+    gender: null
+  - spanish: corregir
+    translation:
+      en: to correct / to proofread
+      ko: 교정하다 / 바로잡다
+    gender: null
+  - spanish: resumir
+    translation:
+      en: to summarize
+      ko: 요약하다
+    gender: null
+  - spanish: ampliar
+    translation:
+      en: to expand / to elaborate
+      ko: 확장하다 / 상세히 설명하다
+    gender: null
+  - spanish: parafrasear
+    translation:
+      en: to paraphrase
+      ko: 바꿔 말하다
+    gender: null
+  - spanish: el esquema
+    translation:
+      en: outline / diagram
+      ko: 개요 / 도식
+    gender: m
+  - spanish: la corrección
+    translation:
+      en: correction / proofreading
+      ko: 교정 / 수정
+    gender: f
+  - spanish: el registro formal
+    translation:
+      en: formal register
+      ko: 격식체
+    gender: m

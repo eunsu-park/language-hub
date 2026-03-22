@@ -1,0 +1,562 @@
+lesson: 17_Adverbs_Conjunctions_and_Discourse
+lesson_number: 17
+cefr: B2
+categories:
+- id: 1_adverbs_of_time
+  label:
+    en: 1. Adverbs of Time
+    ko: 1. 시간 부사
+  type: vocabulary
+  words:
+  - spanish: ahora
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+  - spanish: todavía / aún
+    translation:
+      en: still, yet
+      ko: 아직, 여전히
+    gender: null
+  - spanish: hoy
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+  - spanish: ya
+    translation:
+      en: already
+      ko: 이미
+    gender: null
+  - spanish: ayer
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - spanish: luego
+    translation:
+      en: later/then
+      ko: 나중에/그 다음에
+    gender: null
+  - spanish: mañana
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+  - spanish: después
+    translation:
+      en: after, later
+      ko: ~후에, 나중에
+    gender: null
+  - spanish: siempre
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+  - spanish: antes
+    translation:
+      en: before
+      ko: ~전에
+    gender: null
+  - spanish: nunca / jamás
+    translation:
+      en: never
+      ko: 절대 ~않다
+    gender: null
+  - spanish: pronto
+    translation:
+      en: soon
+      ko: 곧
+    gender: null
+  - spanish: a veces
+    translation:
+      en: sometimes
+      ko: 가끔
+    gender: null
+  - spanish: temprano
+    translation:
+      en: early
+      ko: 일찍
+    gender: null
+  - spanish: a menudo
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+  - spanish: tarde
+    translation:
+      en: late
+      ko: 늦게
+    gender: null
+  - spanish: mientras
+    translation:
+      en: meanwhile
+      ko: 그 동안에
+    gender: null
+  - spanish: entonces
+    translation:
+      en: then
+      ko: 그때, 그러면
+    gender: null
+  - spanish: de repente
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+  - spanish: enseguida
+    translation:
+      en: immediately
+      ko: 즉시
+    gender: null
+- id: 2_adverbs_of_place
+  label:
+    en: 2. Adverbs of Place
+    ko: 2. 장소 부사
+  type: vocabulary
+  words:
+  - spanish: aquí / acá
+    translation:
+      en: here
+      ko: 여기
+    gender: null
+  - spanish: dentro
+    translation:
+      en: inside
+      ko: 안에
+    gender: null
+  - spanish: ahí
+    translation:
+      en: there (near you)
+      ko: 거기 (상대방 근처)
+    gender: null
+  - spanish: fuera
+    translation:
+      en: outside
+      ko: 밖에
+    gender: null
+  - spanish: allí / allá
+    translation:
+      en: there (far)
+      ko: 저기 (먼 곳)
+    gender: null
+  - spanish: cerca
+    translation:
+      en: near
+      ko: 가까이
+    gender: null
+  - spanish: arriba
+    translation:
+      en: up, upstairs
+      ko: 위에, 위층에
+    gender: null
+  - spanish: lejos
+    translation:
+      en: far
+      ko: 멀리
+    gender: null
+  - spanish: abajo
+    translation:
+      en: down, downstairs
+      ko: 아래에, 아래층에
+    gender: null
+  - spanish: enfrente
+    translation:
+      en: opposite
+      ko: 맞은편에
+    gender: null
+  - spanish: adelante
+    translation:
+      en: forward
+      ko: 앞으로
+    gender: null
+  - spanish: alrededor
+    translation:
+      en: around
+      ko: 주위에
+    gender: null
+  - spanish: atrás
+    translation:
+      en: behind, back
+      ko: 뒤에, 뒤로
+    gender: null
+- id: 3_adverbs_of_manner
+  label:
+    en: 3. Adverbs of Manner
+    ko: 3. 방법 부사
+  type: vocabulary
+  words:
+  - spanish: bien
+    translation:
+      en: well
+      ko: 잘
+    gender: null
+  - spanish: mal
+    translation:
+      en: badly
+      ko: 나쁘게, 못
+    gender: null
+  - spanish: así
+    translation:
+      en: so, like this
+      ko: 이렇게, 그렇게
+    gender: null
+  - spanish: despacio
+    translation:
+      en: slowly
+      ko: 천천히
+    gender: null
+  - spanish: rápido
+    translation:
+      en: quickly (also adj.)
+      ko: 빠르게 (형용사로도 사용)
+    gender: null
+  - spanish: mejor
+    translation:
+      en: better
+      ko: 더 잘
+    gender: null
+  - spanish: peor
+    translation:
+      en: worse
+      ko: 더 나쁘게
+    gender: null
+- id: 4_adverbs_of_quantity
+  label:
+    en: 4. Adverbs of Quantity
+    ko: 4. 수량 부사
+  type: vocabulary
+  words:
+  - spanish: muy
+    translation:
+      en: very
+      ko: 매우
+    gender: null
+  - spanish: más
+    translation:
+      en: more
+      ko: 더
+    gender: null
+  - spanish: mucho
+    translation:
+      en: much, a lot
+      ko: 많이
+    gender: null
+  - spanish: menos
+    translation:
+      en: less
+      ko: 덜, 더 적게
+    gender: null
+  - spanish: poco
+    translation:
+      en: little
+      ko: 조금
+    gender: null
+  - spanish: casi
+    translation:
+      en: almost
+      ko: 거의
+    gender: null
+  - spanish: bastante
+    translation:
+      en: quite, enough
+      ko: 꽤, 충분히
+    gender: null
+  - spanish: apenas
+    translation:
+      en: barely
+      ko: 겨우, 간신히
+    gender: null
+  - spanish: demasiado
+    translation:
+      en: too much
+      ko: 너무 많이
+    gender: null
+  - spanish: nada
+    translation:
+      en: not at all
+      ko: 전혀 (~않다)
+    gender: null
+  - spanish: tan
+    translation:
+      en: so
+      ko: 그렇게, 그토록
+    gender: null
+  - spanish: tanto
+    translation:
+      en: so much
+      ko: 그만큼 많이
+    gender: null
+- id: introduction
+  label:
+    en: Introduction
+    ko: 도입 (Introduction)
+  type: vocabulary
+  words:
+  - spanish: En primer lugar
+    translation:
+      en: First of all
+      ko: 우선, 첫째로
+    gender: null
+  - spanish: Para empezar
+    translation:
+      en: To begin with
+      ko: 시작하자면
+    gender: null
+  - spanish: Ante todo
+    translation:
+      en: First and foremost
+      ko: 무엇보다도
+    gender: null
+- id: sequencing
+  label:
+    en: Sequencing
+    ko: 순서 (Sequencing)
+  type: vocabulary
+  words:
+  - spanish: En segundo lugar
+    translation:
+      en: Secondly
+      ko: 둘째로
+    gender: null
+  - spanish: A continuación
+    translation:
+      en: Next
+      ko: 다음으로
+    gender: null
+  - spanish: Luego / Después
+    translation:
+      en: Then / After that
+      ko: 그 다음에 / 그 후에
+    gender: null
+  - spanish: Por último
+    translation:
+      en: Lastly
+      ko: 마지막으로
+    gender: null
+  - spanish: Finalmente
+    translation:
+      en: Finally
+      ko: 최종적으로
+    gender: null
+- id: conclusion
+  label:
+    en: Conclusion
+    ko: 결론 (Conclusion)
+  type: vocabulary
+  words:
+  - spanish: En resumen
+    translation:
+      en: In summary
+      ko: 요약하면
+    gender: null
+  - spanish: En conclusión
+    translation:
+      en: In conclusion
+      ko: 결론적으로
+    gender: null
+  - spanish: Para terminar
+    translation:
+      en: To finish
+      ko: 마무리하자면
+    gender: null
+  - spanish: En definitiva
+    translation:
+      en: Ultimately
+      ko: 결국
+    gender: null
+  - spanish: Al fin y al cabo
+    translation:
+      en: After all
+      ko: 어쨌든, 결국에는
+    gender: null
+- id: adding_information
+  label:
+    en: Adding Information
+    ko: 정보 추가 (Adding Information)
+  type: vocabulary
+  words:
+  - spanish: Además
+    translation:
+      en: Furthermore
+      ko: 게다가
+    gender: null
+  - spanish: También
+    translation:
+      en: Also
+      ko: 또한
+    gender: null
+  - spanish: Es más
+    translation:
+      en: What's more
+      ko: 더 나아가
+    gender: null
+  - spanish: Incluso
+    translation:
+      en: Even
+      ko: 심지어
+    gender: null
+  - spanish: Por cierto
+    translation:
+      en: By the way
+      ko: 그런데, 참고로
+    gender: null
+  - spanish: Encima
+    translation:
+      en: On top of that
+      ko: 게다가, 그 위에
+    gender: null
+- id: contrasting
+  label:
+    en: Contrasting
+    ko: 대조 (Contrasting)
+  type: vocabulary
+  words:
+  - spanish: Sin embargo
+    translation:
+      en: However
+      ko: 그러나, 하지만
+    gender: null
+  - spanish: No obstante
+    translation:
+      en: Nevertheless
+      ko: 그럼에도 불구하고
+    gender: null
+  - spanish: En cambio
+    translation:
+      en: On the other hand
+      ko: 반면에
+    gender: null
+  - spanish: Por el contrario
+    translation:
+      en: On the contrary
+      ko: 반대로
+    gender: null
+  - spanish: A pesar de (que)
+    translation:
+      en: Despite
+      ko: ~에도 불구하고
+    gender: null
+  - spanish: De todos modos
+    translation:
+      en: Anyway
+      ko: 어쨌든
+    gender: null
+- id: clarifying
+  label:
+    en: Clarifying
+    ko: 명확화 (Clarifying)
+  type: vocabulary
+  words:
+  - spanish: Por ejemplo
+    translation:
+      en: For example
+      ko: 예를 들어
+    gender: null
+  - spanish: Es decir
+    translation:
+      en: That is
+      ko: 즉
+    gender: null
+  - spanish: O sea
+    translation:
+      en: In other words
+      ko: 다시 말해서
+    gender: null
+  - spanish: En otras palabras
+    translation:
+      en: In other words
+      ko: 다른 말로 하면
+    gender: null
+  - spanish: Concretamente
+    translation:
+      en: Specifically
+      ko: 구체적으로
+    gender: null
+- id: buying_time
+  label:
+    en: Buying Time
+    ko: 시간 벌기 (Buying Time)
+  type: vocabulary
+  words:
+  - spanish: Pues...
+    translation:
+      en: Well...
+      ko: 글쎄...
+    gender: null
+  - spanish: Bueno...
+    translation:
+      en: Well...
+      ko: 음...
+    gender: null
+  - spanish: A ver...
+    translation:
+      en: Let's see...
+      ko: 어디 보자...
+    gender: null
+  - spanish: Es que...
+    translation:
+      en: The thing is...
+      ko: 사실은...
+    gender: null
+  - spanish: O sea...
+    translation:
+      en: I mean...
+      ko: 그러니까...
+    gender: null
+- id: seeking_confirmation
+  label:
+    en: Seeking Confirmation
+    ko: 확인 구하기 (Seeking Confirmation)
+  type: vocabulary
+  words:
+  - spanish: ¿Vale?
+    translation:
+      en: OK? (Spain)
+      ko: 알겠지? (스페인)
+    gender: null
+  - spanish: ¿Verdad?
+    translation:
+      en: Right?
+      ko: 그렇지?
+    gender: null
+  - spanish: ¿No?
+    translation:
+      en: Right? / Don't you think?
+      ko: 그렇지? / 아닌가?
+    gender: null
+  - spanish: ¿Sabes?
+    translation:
+      en: You know?
+      ko: 알지?
+    gender: null
+  - spanish: ¿Entiendes?
+    translation:
+      en: Do you understand?
+      ko: 이해하겠지?
+    gender: null
+- id: changing_subject
+  label:
+    en: Changing Subject
+    ko: 화제 전환 (Changing Subject)
+  type: vocabulary
+  words:
+  - spanish: Bueno, ...
+    translation:
+      en: Well, ...
+      ko: 그래, ...
+    gender: null
+  - spanish: Cambiando de tema...
+    translation:
+      en: Changing the subject...
+      ko: 화제를 바꾸면...
+    gender: null
+  - spanish: A todo esto...
+    translation:
+      en: By the way...
+      ko: 그런데 말이야...
+    gender: null
+  - spanish: Hablando de otra cosa...
+    translation:
+      en: Speaking of something else...
+      ko: 다른 얘기인데...
+    gender: null

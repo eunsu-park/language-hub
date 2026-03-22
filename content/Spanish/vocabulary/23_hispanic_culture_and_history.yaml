@@ -1,0 +1,618 @@
+lesson: 23_Hispanic_Culture_and_History
+lesson_number: 23
+cefr: B2-C1
+categories:
+- id: capital_cities
+  label:
+    en: Capital Cities
+    ko: 스페인어를 공용어로 사용하는 21개국
+  type: vocabulary
+  words:
+  - spanish: España
+    translation:
+      en: Madrid
+    gender: null
+    notes:
+      en: Colombia
+  - spanish: México
+    translation:
+      en: Ciudad de México
+    gender: null
+    notes:
+      en: Venezuela
+  - spanish: Argentina
+    translation:
+      en: Buenos Aires
+    gender: null
+    notes:
+      en: Perú
+  - spanish: Chile
+    translation:
+      en: Santiago
+    gender: null
+    notes:
+      en: Ecuador
+  - spanish: Cuba
+    translation:
+      en: La Habana
+    gender: null
+    notes:
+      en: Bolivia
+  - spanish: Guatemala
+    translation:
+      en: Ciudad de Guatemala
+    gender: null
+    notes:
+      en: Paraguay
+  - spanish: Costa Rica
+    translation:
+      en: San José
+    gender: null
+    notes:
+      en: Uruguay
+- id: shared_across_many_countries
+  label:
+    en: Shared Across Many Countries
+    ko: 여러 국가에서 공유하는 명절
+  type: vocabulary
+  words:
+  - spanish: Año Nuevo
+    translation:
+      en: January 1
+      ko: 1월 1일
+    gender: null
+    notes:
+      en: 'New Year''s — Spain: eat 12 grapes at midnight (las doce uvas)'
+      ko: '새해 — 스페인: 자정에 포도 12알 먹기 (las doce uvas)'
+  - spanish: Semana Santa
+    translation:
+      en: March/April
+      ko: 3월/4월
+    gender: null
+    notes:
+      en: Holy Week — processions, religious celebrations
+      ko: 성주간(Holy Week) — 행렬, 종교 축제
+  - spanish: Día del Trabajo
+    translation:
+      en: May 1
+      ko: 5월 1일
+    gender: null
+    notes:
+      en: Labor Day
+      ko: 노동절(Labor Day)
+  - spanish: Navidad
+    translation:
+      en: December 25
+      ko: 12월 25일
+    gender: null
+    notes:
+      en: Christmas
+      ko: 크리스마스(Christmas)
+  - spanish: Nochebuena
+    translation:
+      en: December 24
+      ko: 12월 24일
+    gender: null
+    notes:
+      en: Christmas Eve — the main family celebration in most countries
+      ko: 크리스마스 이브 — 대부분의 나라에서 주요 가족 행사
+  - spanish: Día de Reyes
+    translation:
+      en: January 6
+      ko: 1월 6일
+    gender: null
+    notes:
+      en: Three Kings' Day — gift-giving day in Spain and many L.A. countries
+      ko: 동방박사의 날(Three Kings' Day) — 스페인과 많은 라틴아메리카 국가의 선물 교환일
+- id: countryspecific_celebrations
+  label:
+    en: Country-Specific Celebrations
+    ko: 국가별 축제
+  type: vocabulary
+  words:
+  - spanish: Día de los Muertos
+    translation:
+      en: Mexico (Nov 1-2)
+      ko: 멕시코(México) (11월 1-2일)
+    gender: null
+    notes:
+      en: Day of the Dead — honoring deceased loved ones with altars (ofrendas), marigold flowers, sugar skulls
+      ko: 죽은 자의 날 — 제단(ofrendas), 금잔화, 설탕 해골로 고인을 추모
+  - spanish: San Fermín
+    translation:
+      en: Spain (July 6-14)
+      ko: 스페인(España) (7월 6-14일)
+    gender: null
+    notes:
+      en: Running of the bulls in Pamplona
+      ko: 팜플로나(Pamplona)의 소몰이 축제
+  - spanish: Las Fallas
+    translation:
+      en: Spain (March 15-19)
+      ko: 스페인(España) (3월 15-19일)
+    gender: null
+    notes:
+      en: Valencia's festival of giant sculptures burned on the final night
+      ko: 발렌시아(Valencia)의 거대 조형물 축제 — 마지막 밤에 불태움
+  - spanish: La Tomatina
+    translation:
+      en: Spain (August)
+      ko: 스페인(España) (8월)
+    gender: null
+    notes:
+      en: Tomato-throwing festival in Buñol, Valencia
+      ko: 부뇰(Buñol, Valencia)의 토마토 던지기 축제
+  - spanish: Carnaval
+    translation:
+      en: Many countries (Feb/Mar)
+      ko: 여러 국가 (2월/3월)
+    gender: null
+    notes:
+      en: Pre-Lenten celebration — especially famous in Barranquilla (Colombia), Cádiz (Spain)
+      ko: 사순절 전 축제 — 바랑키야(Barranquilla, 콜롬비아), 카디스(Cádiz, 스페인)가 특히 유명
+  - spanish: Inti Raymi
+    translation:
+      en: Peru (June 24)
+      ko: 페루(Perú) (6월 24일)
+    gender: null
+    notes:
+      en: Inca Sun Festival in Cusco
+      ko: 쿠스코(Cusco)에서 열리는 잉카 태양 축제
+  - spanish: Día de la Independencia
+    translation:
+      en: Mexico (Sept 16)
+      ko: 멕시코(México) (9월 16일)
+    gender: null
+    notes:
+      en: El Grito — the president reenacts Hidalgo's cry for independence
+      ko: El Grito — 대통령이 이달고(Hidalgo)의 독립 외침을 재현
+  - spanish: Quinceañera
+    translation:
+      en: Mexico, C.A.
+      ko: 멕시코, 중미
+    gender: null
+    notes:
+      en: Girl's 15th birthday celebration marking transition to womanhood
+      ko: 소녀의 15번째 생일 축하 — 성인 여성으로의 전환을 기념
+- id: notable_musicians
+  label:
+    en: Notable Musicians
+    ko: 주요 음악가
+  type: vocabulary
+  words:
+  - spanish: Paco de Lucía
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Flamenco guitar
+      ko: 플라멩코(Flamenco) 기타
+  - spanish: Carlos Gardel
+    translation:
+      en: Argentina/Uruguay
+      ko: 아르헨티나(Argentina)/우루과이(Uruguay)
+    gender: null
+    notes:
+      en: Tango
+      ko: 탱고(Tango)
+  - spanish: Celia Cruz
+    translation:
+      en: Cuba
+      ko: 쿠바(Cuba)
+    gender: null
+    notes:
+      en: Salsa ("La Reina de la Salsa")
+      ko: 살사(Salsa) ("La Reina de la Salsa")
+  - spanish: Shakira
+    translation:
+      en: Colombia
+      ko: 콜롬비아(Colombia)
+    gender: null
+    notes:
+      en: Pop/Latin
+      ko: 팝(Pop)/라틴(Latin)
+  - spanish: Bad Bunny
+    translation:
+      en: Puerto Rico
+      ko: 푸에르토리코(Puerto Rico)
+    gender: null
+    notes:
+      en: Reggaetón/Latin trap
+      ko: 레게톤(Reggaetón)/라틴 트랩(Latin trap)
+  - spanish: Rosalía
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Flamenco fusion
+      ko: 플라멩코(Flamenco) 퓨전
+  - spanish: Juan Luis Guerra
+    translation:
+      en: Dominican Republic
+      ko: 도미니카 공화국(República Dominicana)
+    gender: null
+    notes:
+      en: Merengue/Bachata
+      ko: 메렝게(Merengue)/바차타(Bachata)
+- id: major_artists
+  label:
+    en: Major Artists
+    ko: 주요 예술가
+  type: vocabulary
+  words:
+  - spanish: Diego Velázquez
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Baroque (1600s)
+      ko: 바로크(Baroque, 1600년대)
+  - spanish: Francisco de Goya
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Romantic (1700-1800s)
+      ko: 낭만주의(Romantic, 1700-1800년대)
+  - spanish: Pablo Picasso
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Cubism (1900s)
+      ko: 입체주의(Cubism, 1900년대)
+  - spanish: Salvador Dalí
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Surrealism (1900s)
+      ko: 초현실주의(Surrealism, 1900년대)
+  - spanish: Frida Kahlo
+    translation:
+      en: Mexico
+      ko: 멕시코(México)
+    gender: null
+    notes:
+      en: Surrealism/Folk (1900s)
+      ko: 초현실주의/민속(Surrealism/Folk, 1900년대)
+  - spanish: Diego Rivera
+    translation:
+      en: Mexico
+      ko: 멕시코(México)
+    gender: null
+    notes:
+      en: Muralism (1900s)
+      ko: 벽화주의(Muralism, 1900년대)
+  - spanish: Fernando Botero
+    translation:
+      en: Colombia
+      ko: 콜롬비아(Colombia)
+    gender: null
+    notes:
+      en: Figurative (1900s-2000s)
+      ko: 구상미술(Figurative, 1900-2000년대)
+- id: useful_cultural_vocabulary
+  label:
+    en: Useful Cultural Vocabulary
+    ko: 유용한 문화 어휘
+  type: vocabulary
+  words:
+  - spanish: la tertulia
+    translation:
+      en: regular social gathering for conversation
+      ko: 대화를 위한 정기적인 사교 모임
+    gender: null
+  - spanish: el piropo
+    translation:
+      en: street compliment (controversial tradition)
+      ko: 길거리 칭찬 (논란이 있는 전통)
+    gender: null
+  - spanish: el paseo
+    translation:
+      en: evening stroll (common in towns/cities)
+      ko: 저녁 산책 (마을/도시에서 흔한 관습)
+    gender: null
+  - spanish: las tapas
+    translation:
+      en: small dishes shared socially (Spain)
+      ko: 함께 나눠 먹는 소량의 요리 (스페인)
+    gender: null
+  - spanish: la quinceañera
+    translation:
+      en: 15th birthday celebration
+      ko: 15번째 생일 축하
+    gender: null
+  - spanish: el compadrazgo
+    translation:
+      en: godparent system (social bonds)
+      ko: 대부모 제도 (사회적 유대 관계)
+    gender: null
+  - spanish: la siesta
+    translation:
+      en: afternoon nap
+      ko: 낮잠 (오후 휴식)
+    gender: f
+    notes:
+      en: Traditional midday rest, declining in modern urban Spain
+      ko: 전통적인 점심 후 휴식, 현대 스페인 도시에서는 줄어드는 추세
+  - spanish: la sobremesa
+    translation:
+      en: after-meal conversation time
+      ko: 식후 대화 시간
+    gender: f
+    notes:
+      en: Lingering at the table after a meal to talk; important social tradition
+      ko: 식사 후 테이블에 남아 대화하는 시간; 중요한 사회적 전통
+  - spanish: el flamenco
+    translation:
+      en: flamenco (music/dance)
+      ko: 플라멩코 (음악/무용)
+    gender: m
+    notes:
+      en: Originated in Andalusia; UNESCO Intangible Cultural Heritage
+      ko: 안달루시아에서 기원; 유네스코 무형문화유산
+  - spanish: la corrida de toros
+    translation:
+      en: bullfight
+      ko: 투우
+    gender: f
+    notes:
+      en: Controversial tradition; banned in Catalonia and Canary Islands
+      ko: 논란이 있는 전통; 카탈루냐와 카나리아 제도에서 금지됨
+  - spanish: el mariachi
+    translation:
+      en: mariachi (Mexican music ensemble)
+      ko: 마리아치 (멕시코 음악 앙상블)
+    gender: m
+  - spanish: el tango
+    translation:
+      en: tango (dance/music)
+      ko: 탱고 (무용/음악)
+    gender: m
+    notes:
+      en: Originated in Buenos Aires and Montevideo
+      ko: 부에노스아이레스와 몬테비데오에서 기원
+- id: other_popular_sports
+  label:
+    en: Other Popular Sports
+    ko: 기타 인기 스포츠
+  type: vocabulary
+  words:
+  - spanish: Baseball (béisbol)
+    translation:
+      en: Cuba, DR, Venezuela, Puerto Rico
+    gender: null
+  - spanish: Basketball (baloncesto)
+    translation:
+      en: Spain, Argentina
+    gender: null
+  - spanish: Boxing (boxeo)
+    translation:
+      en: Mexico, Cuba, Puerto Rico
+    gender: null
+  - spanish: Tennis (tenis)
+    translation:
+      en: Spain (Rafael Nadal)
+    gender: null
+  - spanish: Rugby
+    translation:
+      en: Argentina (Los Pumas)
+    gender: null
+  - spanish: Pelota / Jai alai
+    translation:
+      en: Basque Country (Spain)
+    gender: null
+- id: notable_writers
+  label:
+    en: Notable Writers
+    ko: 주요 작가
+  type: vocabulary
+  words:
+  - spanish: Miguel de Cervantes
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: "Author of 'Don Quijote' (1605); considered the first modern novel"
+      ko: "'돈 키호테(Don Quijote)' 저자 (1605); 최초의 근대 소설로 평가됨"
+  - spanish: Gabriel García Márquez
+    translation:
+      en: Colombia
+      ko: 콜롬비아(Colombia)
+    gender: null
+    notes:
+      en: Nobel Prize 1982; 'Cien años de soledad' (magical realism)
+      ko: 1982 노벨상; '백년의 고독(Cien años de soledad)' (마술적 사실주의)
+  - spanish: Pablo Neruda
+    translation:
+      en: Chile
+      ko: 칠레(Chile)
+    gender: null
+    notes:
+      en: Nobel Prize 1971; renowned poet
+      ko: 1971 노벨상; 저명한 시인
+  - spanish: Jorge Luis Borges
+    translation:
+      en: Argentina
+      ko: 아르헨티나(Argentina)
+    gender: null
+    notes:
+      en: Master of short fiction and essays
+      ko: 단편소설과 에세이의 거장
+  - spanish: Isabel Allende
+    translation:
+      en: Chile
+      ko: 칠레(Chile)
+    gender: null
+    notes:
+      en: "'La casa de los espíritus'; most widely read Spanish-language author alive"
+      ko: "'영혼의 집(La casa de los espíritus)'; 현존 가장 널리 읽히는 스페인어 작가"
+  - spanish: Octavio Paz
+    translation:
+      en: Mexico
+      ko: 멕시코(México)
+    gender: null
+    notes:
+      en: Nobel Prize 1990; poet and essayist
+      ko: 1990 노벨상; 시인이자 수필가
+  - spanish: Federico García Lorca
+    translation:
+      en: Spain
+      ko: 스페인(España)
+    gender: null
+    notes:
+      en: Poet and playwright; killed in the Spanish Civil War (1936)
+      ko: 시인이자 극작가; 스페인 내전에서 사망 (1936)
+  - spanish: Mario Vargas Llosa
+    translation:
+      en: Peru
+      ko: 페루(Perú)
+    gender: null
+    notes:
+      en: Nobel Prize 2010; novelist and essayist
+      ko: 2010 노벨상; 소설가이자 수필가
+- id: traditional_cuisine
+  label:
+    en: Traditional Cuisine
+    ko: 전통 요리
+  type: vocabulary
+  words:
+  - spanish: la paella
+    translation:
+      en: paella (rice dish from Valencia)
+      ko: 파에야 (발렌시아 쌀 요리)
+    gender: f
+  - spanish: el taco
+    translation:
+      en: taco (Mexican filled tortilla)
+      ko: 타코 (멕시코 속을 채운 토르티야)
+    gender: m
+  - spanish: el ceviche
+    translation:
+      en: ceviche (raw fish cured in citrus)
+      ko: 세비체 (감귤류에 절인 생선)
+    gender: m
+    notes:
+      en: Peru and coastal Latin America
+      ko: 페루와 라틴아메리카 해안 지역
+  - spanish: las empanadas
+    translation:
+      en: empanadas (stuffed pastries)
+      ko: 엠파나다 (속을 채운 패스트리)
+    gender: f
+    notes:
+      en: Found across Latin America; fillings vary by country
+      ko: 라틴아메리카 전역에서 발견; 속재료는 나라마다 다름
+  - spanish: la tortilla española
+    translation:
+      en: Spanish omelette (potato omelette)
+      ko: 스페인식 오믈렛 (감자 오믈렛)
+    gender: f
+  - spanish: el mole
+    translation:
+      en: mole (Mexican sauce with chili and chocolate)
+      ko: 몰레 (칠리와 초콜릿이 들어간 멕시코 소스)
+    gender: m
+  - spanish: el asado
+    translation:
+      en: barbecue (Argentine/Uruguayan style)
+      ko: 아사도 (아르헨티나/우루과이식 바비큐)
+    gender: m
+  - spanish: el gazpacho
+    translation:
+      en: gazpacho (cold tomato soup)
+      ko: 가스파초 (차가운 토마토 수프)
+    gender: m
+    notes:
+      en: Traditional Andalusian summer dish
+      ko: 전통적인 안달루시아 여름 요리
+- id: historical_terms
+  label:
+    en: Historical Terms
+    ko: 역사 용어
+  type: vocabulary
+  words:
+  - spanish: la Reconquista
+    translation:
+      en: the Reconquista (711-1492)
+      ko: 레콩키스타 (711-1492)
+    gender: f
+    notes:
+      en: Christian kingdoms' reconquest of the Iberian Peninsula from Muslim rule
+      ko: 기독교 왕국들이 이슬람 지배로부터 이베리아 반도를 재정복한 과정
+  - spanish: la Conquista
+    translation:
+      en: the Conquest (of the Americas)
+      ko: 정복 (아메리카 대륙)
+    gender: f
+  - spanish: el mestizaje
+    translation:
+      en: racial/cultural mixing
+      ko: 혼혈 / 문화 혼합
+    gender: m
+    notes:
+      en: Central concept in Latin American identity
+      ko: 라틴아메리카 정체성의 핵심 개념
+  - spanish: la Guerra Civil Española
+    translation:
+      en: the Spanish Civil War (1936-1939)
+      ko: 스페인 내전 (1936-1939)
+    gender: f
+  - spanish: el Siglo de Oro
+    translation:
+      en: the Golden Age (16th-17th c. Spain)
+      ko: 황금세기 (16-17세기 스페인)
+    gender: m
+    notes:
+      en: Peak of Spanish art, literature, and imperial power
+      ko: 스페인 예술, 문학, 제국 권력의 전성기
+  - spanish: las civilizaciones precolombinas
+    translation:
+      en: pre-Columbian civilizations
+      ko: 콜럼버스 이전 문명
+    gender: f
+    notes:
+      en: Maya, Aztec, Inca and others
+      ko: 마야, 아즈텍, 잉카 등
+  - spanish: la independencia
+    translation:
+      en: independence
+      ko: 독립
+    gender: f
+    notes:
+      en: Most Latin American countries gained independence in early 1800s
+      ko: 대부분의 라틴아메리카 국가들이 1800년대 초에 독립
+  - spanish: el colonialismo
+    translation:
+      en: colonialism
+      ko: 식민주의
+    gender: m
+  - spanish: el virreinato
+    translation:
+      en: viceroyalty
+      ko: 부왕령
+    gender: m
+    notes:
+      en: Spanish colonial administrative divisions (e.g., Virreinato de Nueva España)
+      ko: "스페인 식민지 행정 구역 (예: 누에바에스파냐 부왕령)"
+  - spanish: la dictadura
+    translation:
+      en: dictatorship
+      ko: 독재 정치
+    gender: f
+    notes:
+      en: Many Latin American countries experienced military dictatorships in 20th century
+      ko: 많은 라틴아메리카 국가들이 20세기에 군사 독재를 경험
+  - spanish: la democracia
+    translation:
+      en: democracy
+      ko: 민주주의
+    gender: f

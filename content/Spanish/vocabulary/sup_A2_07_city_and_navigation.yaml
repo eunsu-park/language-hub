@@ -1,0 +1,1001 @@
+lesson: "sup_A2_City_and_Navigation"
+lesson_number: 127
+cefr: A2
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: city_places
+  label:
+    en: "City Places"
+    ko: "도시 장소"
+  type: vocabulary
+  words:
+  - spanish: "la ciudad"
+    translation:
+      en: "city"
+      ko: "도시"
+    gender: f
+  - spanish: "el pueblo"
+    translation:
+      en: "town / village"
+      ko: "마을"
+    gender: m
+  - spanish: "el barrio"
+    translation:
+      en: "neighborhood"
+      ko: "동네"
+    gender: m
+  - spanish: "la plaza"
+    translation:
+      en: "square / plaza"
+      ko: "광장"
+    gender: f
+  - spanish: "la calle"
+    translation:
+      en: "street"
+      ko: "거리"
+    gender: f
+  - spanish: "la avenida"
+    translation:
+      en: "avenue"
+      ko: "대로"
+    gender: f
+  - spanish: "el puente"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: m
+  - spanish: "la fuente"
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: f
+  - spanish: "la estatua"
+    translation:
+      en: "statue"
+      ko: "동상"
+    gender: f
+  - spanish: "el parque"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: m
+  - spanish: "el jardín público"
+    translation:
+      en: "public garden"
+      ko: "공공 정원"
+    gender: m
+  - spanish: "la iglesia"
+    translation:
+      en: "church"
+      ko: "교회 / 성당"
+    gender: f
+  - spanish: "la catedral"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: f
+  - spanish: "el ayuntamiento"
+    translation:
+      en: "city hall / town hall"
+      ko: "시청"
+    gender: m
+  - spanish: "la biblioteca"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+  - spanish: "el museo"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: m
+  - spanish: "el teatro"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: m
+  - spanish: "el cine"
+    translation:
+      en: "cinema"
+      ko: "영화관"
+    gender: m
+  - spanish: "el hospital"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - spanish: "la comisaría"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: f
+  - spanish: "la oficina de correos"
+    translation:
+      en: "post office"
+      ko: "우체국"
+    gender: f
+  - spanish: "el banco"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: m
+  - spanish: "el colegio"
+    translation:
+      en: "school"
+      ko: "학교"
+    gender: m
+  - spanish: "la universidad"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+  - spanish: "el estadio"
+    translation:
+      en: "stadium"
+      ko: "경기장"
+    gender: m
+  - spanish: "el cementerio"
+    translation:
+      en: "cemetery"
+      ko: "묘지"
+    gender: m
+  - spanish: "la embajada"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: f
+  - spanish: "el consulado"
+    translation:
+      en: "consulate"
+      ko: "영사관"
+    gender: m
+  - spanish: "el rascacielos"
+    translation:
+      en: "skyscraper"
+      ko: "초고층 건물"
+    gender: m
+    notes:
+      en: "Invariable: el/los rascacielos"
+      ko: "단수/복수 형태 동일: el/los rascacielos"
+  - spanish: "el centro"
+    translation:
+      en: "downtown / center"
+      ko: "시내 / 중심부"
+    gender: m
+  - spanish: "el casco antiguo"
+    translation:
+      en: "old town"
+      ko: "구시가지"
+    gender: m
+  - spanish: "las afueras"
+    translation:
+      en: "outskirts / suburbs"
+      ko: "교외"
+    gender: f
+  - spanish: "la zona peatonal"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 구역"
+    gender: f
+  - spanish: "el polígono industrial"
+    translation:
+      en: "industrial area"
+      ko: "공업 단지"
+    gender: m
+  - spanish: "la zona residencial"
+    translation:
+      en: "residential area"
+      ko: "주거 지역"
+    gender: f
+  - spanish: "el aparcamiento"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: m
+  - spanish: "la acera"
+    translation:
+      en: "sidewalk"
+      ko: "인도 / 보도"
+    gender: f
+  - spanish: "el paso de cebra"
+    translation:
+      en: "zebra crossing"
+      ko: "횡단보도"
+    gender: m
+  - spanish: "el semáforo"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: m
+- id: public_transport
+  label:
+    en: "Public Transport"
+    ko: "대중교통"
+  type: vocabulary
+  words:
+  - spanish: "el transporte público"
+    translation:
+      en: "public transport"
+      ko: "대중교통"
+    gender: m
+  - spanish: "la parada de autobús"
+    translation:
+      en: "bus stop"
+      ko: "버스 정류장"
+    gender: f
+  - spanish: "la estación de metro"
+    translation:
+      en: "metro station"
+      ko: "지하철역"
+    gender: f
+  - spanish: "la estación de tren"
+    translation:
+      en: "train station"
+      ko: "기차역"
+    gender: f
+  - spanish: "la parada de taxi"
+    translation:
+      en: "taxi stand"
+      ko: "택시 정류장"
+    gender: f
+  - spanish: "el andén"
+    translation:
+      en: "platform"
+      ko: "플랫폼 / 승강장"
+    gender: m
+  - spanish: "la vía"
+    translation:
+      en: "track / rail"
+      ko: "선로"
+    gender: f
+  - spanish: "la línea"
+    translation:
+      en: "line (metro/bus)"
+      ko: "노선"
+    gender: f
+  - spanish: "el abono"
+    translation:
+      en: "transport pass"
+      ko: "교통 정기권"
+    gender: m
+  - spanish: "el billete sencillo"
+    translation:
+      en: "single ticket"
+      ko: "편도 티켓"
+    gender: m
+  - spanish: "el billete de ida y vuelta"
+    translation:
+      en: "round trip ticket"
+      ko: "왕복 티켓"
+    gender: m
+  - spanish: "la taquilla"
+    translation:
+      en: "ticket booth"
+      ko: "매표소"
+    gender: f
+  - spanish: "la máquina expendedora"
+    translation:
+      en: "ticket machine"
+      ko: "자동 발매기"
+    gender: f
+  - spanish: "validar"
+    translation:
+      en: "to validate (ticket)"
+      ko: "개찰하다 / 찍다"
+    gender: null
+  - spanish: "transbordar"
+    translation:
+      en: "to transfer (transport)"
+      ko: "환승하다"
+    gender: null
+  - spanish: "el transbordo"
+    translation:
+      en: "transfer (transport)"
+      ko: "환승"
+    gender: m
+  - spanish: "la próxima parada"
+    translation:
+      en: "next stop"
+      ko: "다음 정류장"
+    gender: f
+  - spanish: "la última parada"
+    translation:
+      en: "last stop / terminus"
+      ko: "종점"
+    gender: f
+  - spanish: "bajarse"
+    translation:
+      en: "to get off"
+      ko: "내리다"
+    gender: null
+  - spanish: "subirse"
+    translation:
+      en: "to get on"
+      ko: "타다"
+    gender: null
+  - spanish: "la frecuencia"
+    translation:
+      en: "frequency"
+      ko: "배차 간격"
+    gender: f
+  - spanish: "el horario"
+    translation:
+      en: "schedule / timetable"
+      ko: "시간표"
+    gender: m
+  - spanish: "el plano del metro"
+    translation:
+      en: "metro map"
+      ko: "지하철 노선도"
+    gender: m
+  - spanish: "el carril bici"
+    translation:
+      en: "bike lane"
+      ko: "자전거 도로"
+    gender: m
+  - spanish: "el patinete eléctrico"
+    translation:
+      en: "electric scooter"
+      ko: "전동 킥보드"
+    gender: m
+  - spanish: "el taxi compartido"
+    translation:
+      en: "shared taxi / ride share"
+      ko: "합승 택시"
+    gender: m
+  - spanish: "la hora punta"
+    translation:
+      en: "rush hour"
+      ko: "출퇴근 시간"
+    gender: f
+  - spanish: "lleno"
+    translation:
+      en: "full / crowded"
+      ko: "가득 찬 / 만원인"
+    gender: null
+  - spanish: "vacío"
+    translation:
+      en: "empty"
+      ko: "비어 있는"
+    gender: null
+  - spanish: "puntual"
+    translation:
+      en: "on time / punctual"
+      ko: "정시의 / 시간을 잘 지키는"
+    gender: null
+- id: giving_directions
+  label:
+    en: "Giving Directions"
+    ko: "길 안내하기"
+  type: vocabulary
+  words:
+  - spanish: "a la derecha"
+    translation:
+      en: "to the right"
+      ko: "오른쪽으로"
+    gender: null
+  - spanish: "a la izquierda"
+    translation:
+      en: "to the left"
+      ko: "왼쪽으로"
+    gender: null
+  - spanish: "todo recto"
+    translation:
+      en: "straight ahead"
+      ko: "직진"
+    gender: null
+  - spanish: "girar a la derecha"
+    translation:
+      en: "to turn right"
+      ko: "오른쪽으로 돌다"
+    gender: null
+  - spanish: "girar a la izquierda"
+    translation:
+      en: "to turn left"
+      ko: "왼쪽으로 돌다"
+    gender: null
+  - spanish: "seguir todo recto"
+    translation:
+      en: "to continue straight"
+      ko: "직진하다"
+    gender: null
+  - spanish: "cruzar la calle"
+    translation:
+      en: "to cross the street"
+      ko: "거리를 건너다"
+    gender: null
+  - spanish: "en la esquina"
+    translation:
+      en: "on the corner"
+      ko: "모퉁이에"
+    gender: null
+  - spanish: "al final de"
+    translation:
+      en: "at the end of"
+      ko: "끝에"
+    gender: null
+  - spanish: "a dos manzanas"
+    translation:
+      en: "two blocks away"
+      ko: "두 블록 떨어진"
+    gender: null
+  - spanish: "a cinco minutos a pie"
+    translation:
+      en: "five minutes on foot"
+      ko: "도보 5분"
+    gender: null
+  - spanish: "Siga todo recto."
+    translation:
+      en: "Go straight ahead. (formal)"
+      ko: "직진하세요. (존칭)"
+    gender: null
+  - spanish: "Gire a la derecha."
+    translation:
+      en: "Turn right. (formal)"
+      ko: "오른쪽으로 도세요. (존칭)"
+    gender: null
+  - spanish: "Cruce el puente."
+    translation:
+      en: "Cross the bridge. (formal)"
+      ko: "다리를 건너세요. (존칭)"
+    gender: null
+  - spanish: "Está al lado del banco."
+    translation:
+      en: "It's next to the bank."
+      ko: "은행 옆에 있습니다."
+    gender: null
+  - spanish: "Está enfrente de la iglesia."
+    translation:
+      en: "It's across from the church."
+      ko: "교회 맞은편에 있습니다."
+    gender: null
+  - spanish: "Está entre el cine y la farmacia."
+    translation:
+      en: "It's between the cinema and the pharmacy."
+      ko: "영화관과 약국 사이에 있습니다."
+    gender: null
+  - spanish: "¿Puede indicarme cómo llegar?"
+    translation:
+      en: "Can you show me how to get there?"
+      ko: "어떻게 가는지 알려 주시겠어요?"
+    gender: null
+  - spanish: "¿Hay un metro cerca?"
+    translation:
+      en: "Is there a metro nearby?"
+      ko: "근처에 지하철역이 있나요?"
+    gender: null
+  - spanish: "Lo siento, no soy de aquí."
+    translation:
+      en: "I'm sorry, I'm not from here."
+      ko: "죄송합니다, 저는 이 근처 사람이 아닙니다."
+    gender: null
+  - spanish: "la dirección"
+    translation:
+      en: "address / direction"
+      ko: "주소 / 방향"
+    gender: f
+  - spanish: "el código postal"
+    translation:
+      en: "postal code / ZIP code"
+      ko: "우편번호"
+    gender: m
+  - spanish: "la glorieta"
+    translation:
+      en: "roundabout"
+      ko: "회전교차로"
+    gender: f
+  - spanish: "el callejón"
+    translation:
+      en: "alley"
+      ko: "골목"
+    gender: m
+  - spanish: "el atajo"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: m
+  - spanish: "perderse"
+    translation:
+      en: "to get lost"
+      ko: "길을 잃다"
+    gender: null
+  - spanish: "orientarse"
+    translation:
+      en: "to find one's way"
+      ko: "방향을 잡다"
+    gender: null
+- id: urban_life
+  label:
+    en: "Urban Life"
+    ko: "도시 생활"
+  type: vocabulary
+  words:
+  - spanish: "el edificio"
+    translation:
+      en: "building"
+      ko: "건물"
+    gender: m
+  - spanish: "el piso"
+    translation:
+      en: "floor / apartment"
+      ko: "층 / 아파트"
+    gender: m
+    notes:
+      en: "In Spain, piso = apartment; in Latin America: departamento"
+      ko: "스페인에서 piso = 아파트; 라틴아메리카: departamento"
+  - spanish: "el portal"
+    translation:
+      en: "entrance (building)"
+      ko: "건물 입구"
+    gender: m
+  - spanish: "el ascensor"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+  - spanish: "las escaleras"
+    translation:
+      en: "stairs"
+      ko: "계단"
+    gender: f
+  - spanish: "el tráfico"
+    translation:
+      en: "traffic"
+      ko: "교통"
+    gender: m
+  - spanish: "el ruido"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: m
+  - spanish: "ruidoso"
+    translation:
+      en: "noisy"
+      ko: "시끄러운"
+    gender: null
+  - spanish: "tranquilo"
+    translation:
+      en: "quiet / calm"
+      ko: "조용한 / 평온한"
+    gender: null
+  - spanish: "la contaminación"
+    translation:
+      en: "pollution"
+      ko: "오염"
+    gender: f
+  - spanish: "el peatón"
+    translation:
+      en: "pedestrian"
+      ko: "보행자"
+    gender: m
+  - spanish: "el conductor"
+    translation:
+      en: "driver"
+      ko: "운전자"
+    gender: m
+  - spanish: "el ciudadano"
+    translation:
+      en: "citizen"
+      ko: "시민"
+    gender: m
+  - spanish: "el vecino"
+    translation:
+      en: "neighbor"
+      ko: "이웃"
+    gender: m
+  - spanish: "la comunidad"
+    translation:
+      en: "community"
+      ko: "공동체 / 커뮤니티"
+    gender: f
+  - spanish: "el alquiler"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: m
+  - spanish: "alquilar"
+    translation:
+      en: "to rent"
+      ko: "임대하다"
+    gender: null
+  - spanish: "mudarse"
+    translation:
+      en: "to move (house)"
+      ko: "이사하다"
+    gender: null
+  - spanish: "la basura"
+    translation:
+      en: "trash / garbage"
+      ko: "쓰레기"
+    gender: f
+  - spanish: "el contenedor"
+    translation:
+      en: "bin / container"
+      ko: "분리수거함 / 컨테이너"
+    gender: m
+  - spanish: "reciclar"
+    translation:
+      en: "to recycle"
+      ko: "재활용하다"
+    gender: null
+  - spanish: "el reciclaje"
+    translation:
+      en: "recycling"
+      ko: "재활용"
+    gender: m
+  - spanish: "la obra"
+    translation:
+      en: "construction work"
+      ko: "공사"
+    gender: f
+  - spanish: "el parquímetro"
+    translation:
+      en: "parking meter"
+      ko: "주차 미터기"
+    gender: m
+  - spanish: "la multa"
+    translation:
+      en: "fine / ticket"
+      ko: "벌금 / 과태료"
+    gender: f
+  - spanish: "la acera"
+    translation:
+      en: "sidewalk"
+      ko: "인도"
+    gender: f
+  - spanish: "el paso subterráneo"
+    translation:
+      en: "underpass"
+      ko: "지하도"
+    gender: m
+  - spanish: "el paso elevado"
+    translation:
+      en: "overpass"
+      ko: "육교"
+    gender: m
+  - spanish: "la farola"
+    translation:
+      en: "street lamp"
+      ko: "가로등"
+    gender: f
+  - spanish: "el buzón"
+    translation:
+      en: "mailbox"
+      ko: "우체통"
+    gender: m
+  - spanish: "el cajero automático"
+    translation:
+      en: "ATM"
+      ko: "현금 인출기"
+    gender: m
+  - spanish: "la cabina telefónica"
+    translation:
+      en: "phone booth"
+      ko: "공중전화 부스"
+    gender: f
+  - spanish: "el banco"
+    translation:
+      en: "bench (park)"
+      ko: "벤치"
+    gender: m
+    notes:
+      en: "Same word as bank (financial); context determines meaning"
+      ko: "은행과 같은 단어; 맥락에 따라 의미가 달라짐"
+  - spanish: "la papelera"
+    translation:
+      en: "trash can (public)"
+      ko: "쓰레기통 (공공)"
+    gender: f
+  - spanish: "seguro"
+    translation:
+      en: "safe"
+      ko: "안전한"
+    gender: null
+  - spanish: "peligroso"
+    translation:
+      en: "dangerous"
+      ko: "위험한"
+    gender: null
+- id: emergency_services
+  label:
+    en: "Emergency Services"
+    ko: "긴급 서비스"
+  type: vocabulary
+  words:
+  - spanish: "la emergencia"
+    translation:
+      en: "emergency"
+      ko: "응급 상황"
+    gender: f
+  - spanish: "el número de emergencia"
+    translation:
+      en: "emergency number"
+      ko: "긴급 전화번호"
+    gender: m
+    notes:
+      en: "112 in Spain and EU; varies in Latin America"
+      ko: "스페인과 EU: 112; 라틴아메리카는 국가마다 다름"
+  - spanish: "la policía"
+    translation:
+      en: "police"
+      ko: "경찰"
+    gender: f
+  - spanish: "el policía"
+    translation:
+      en: "police officer"
+      ko: "경찰관"
+    gender: m
+  - spanish: "llamar a la policía"
+    translation:
+      en: "to call the police"
+      ko: "경찰에 전화하다"
+    gender: null
+  - spanish: "los bomberos"
+    translation:
+      en: "firefighters"
+      ko: "소방관"
+    gender: m
+  - spanish: "el camión de bomberos"
+    translation:
+      en: "fire truck"
+      ko: "소방차"
+    gender: m
+  - spanish: "el incendio"
+    translation:
+      en: "fire (building)"
+      ko: "화재"
+    gender: m
+  - spanish: "el accidente"
+    translation:
+      en: "accident"
+      ko: "사고"
+    gender: m
+  - spanish: "el robo"
+    translation:
+      en: "robbery / theft"
+      ko: "도난 / 절도"
+    gender: m
+  - spanish: "robar"
+    translation:
+      en: "to rob / to steal"
+      ko: "훔치다"
+    gender: null
+  - spanish: "¡Socorro!"
+    translation:
+      en: "Help!"
+      ko: "도와주세요!"
+    gender: null
+  - spanish: "¡Ayuda!"
+    translation:
+      en: "Help!"
+      ko: "도와주세요!"
+    gender: null
+  - spanish: "¡Fuego!"
+    translation:
+      en: "Fire!"
+      ko: "불이야!"
+    gender: null
+  - spanish: "¡Cuidado!"
+    translation:
+      en: "Watch out! / Be careful!"
+      ko: "조심하세요!"
+    gender: null
+  - spanish: "la denuncia"
+    translation:
+      en: "police report"
+      ko: "신고 / 고소"
+    gender: f
+  - spanish: "poner una denuncia"
+    translation:
+      en: "to file a police report"
+      ko: "신고하다"
+    gender: null
+  - spanish: "el ladrón"
+    translation:
+      en: "thief"
+      ko: "도둑"
+    gender: m
+  - spanish: "el testigo"
+    translation:
+      en: "witness"
+      ko: "목격자"
+    gender: m
+  - spanish: "la víctima"
+    translation:
+      en: "victim"
+      ko: "피해자"
+    gender: f
+  - spanish: "el extintor"
+    translation:
+      en: "fire extinguisher"
+      ko: "소화기"
+    gender: m
+  - spanish: "la salida de emergencia"
+    translation:
+      en: "emergency exit"
+      ko: "비상구"
+    gender: f
+  - spanish: "el chaleco salvavidas"
+    translation:
+      en: "life jacket"
+      ko: "구명조끼"
+    gender: m
+  - spanish: "la alarma"
+    translation:
+      en: "alarm"
+      ko: "경보기 / 알람"
+    gender: f
+  - spanish: "la sirena"
+    translation:
+      en: "siren"
+      ko: "사이렌"
+    gender: f
+  - spanish: "protegerse"
+    translation:
+      en: "to protect oneself"
+      ko: "자신을 보호하다"
+    gender: null
+  - spanish: "evacuar"
+    translation:
+      en: "to evacuate"
+      ko: "대피하다"
+    gender: null
+  - spanish: "rescatar"
+    translation:
+      en: "to rescue"
+      ko: "구출하다"
+    gender: null
+  - spanish: "el rescate"
+    translation:
+      en: "rescue"
+      ko: "구출 / 구조"
+    gender: m
+  - spanish: "la seguridad"
+    translation:
+      en: "safety / security"
+      ko: "안전 / 보안"
+    gender: f
+  - spanish: "la guardia civil"
+    translation:
+      en: "Civil Guard (Spanish police)"
+      ko: "시민 경비대 (스페인 경찰)"
+    gender: f
+    notes:
+      en: "Spain's national law enforcement corps"
+      ko: "스페인의 국가 치안 기관"
+  - spanish: "la protección civil"
+    translation:
+      en: "civil protection"
+      ko: "시민 보호"
+    gender: f
+  - spanish: "el terremoto"
+    translation:
+      en: "earthquake"
+      ko: "지진"
+    gender: m
+  - spanish: "la inundación"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: f
+  - spanish: "el corte de luz"
+    translation:
+      en: "power outage"
+      ko: "정전"
+    gender: m
+  - spanish: "la grúa"
+    translation:
+      en: "tow truck / crane"
+      ko: "견인차 / 크레인"
+    gender: f
+  - spanish: "el accidente de tráfico"
+    translation:
+      en: "traffic accident"
+      ko: "교통사고"
+    gender: m
+  - spanish: "el seguro del coche"
+    translation:
+      en: "car insurance"
+      ko: "자동차 보험"
+    gender: m
+  - spanish: "el parte de accidente"
+    translation:
+      en: "accident report"
+      ko: "사고 보고서"
+    gender: m
+  - spanish: "la infraestructura"
+    translation:
+      en: "infrastructure"
+      ko: "인프라"
+    gender: f
+  - spanish: "la acera peatonal"
+    translation:
+      en: "pedestrian sidewalk"
+      ko: "보행자 전용 보도"
+    gender: f
+  - spanish: "el parque infantil"
+    translation:
+      en: "playground"
+      ko: "놀이터"
+    gender: m
+  - spanish: "la pista de patinaje"
+    translation:
+      en: "skating rink"
+      ko: "스케이트장"
+    gender: f
+  - spanish: "el centro deportivo"
+    translation:
+      en: "sports center"
+      ko: "체육관 / 스포츠 센터"
+    gender: m
+  - spanish: "el centro cultural"
+    translation:
+      en: "cultural center"
+      ko: "문화 센터"
+    gender: m
+  - spanish: "la residencia"
+    translation:
+      en: "residence / apartment complex"
+      ko: "주거 단지"
+    gender: f
+  - spanish: "el bloque de pisos"
+    translation:
+      en: "apartment block"
+      ko: "아파트 단지"
+    gender: m
+  - spanish: "la urbanización"
+    translation:
+      en: "housing development"
+      ko: "주택 단지"
+    gender: f
+  - spanish: "el casco urbano"
+    translation:
+      en: "urban area"
+      ko: "도심 지역"
+    gender: m
+  - spanish: "la periferia"
+    translation:
+      en: "periphery / outskirts"
+      ko: "외곽 / 변두리"
+    gender: f
+  - spanish: "el mercadillo"
+    translation:
+      en: "flea market / street market"
+      ko: "벼룩시장 / 노점시장"
+    gender: m
+  - spanish: "la lavandería"
+    translation:
+      en: "laundromat"
+      ko: "세탁소"
+    gender: f
+  - spanish: "la guardería"
+    translation:
+      en: "daycare / nursery"
+      ko: "어린이집"
+    gender: f
+  - spanish: "la residencia de ancianos"
+    translation:
+      en: "nursing home"
+      ko: "요양원"
+    gender: f
+  - spanish: "el juzgado"
+    translation:
+      en: "courthouse"
+      ko: "법원"
+    gender: m
+  - spanish: "la notaría"
+    translation:
+      en: "notary office"
+      ko: "공증 사무소"
+    gender: f
+  - spanish: "el taller mecánico"
+    translation:
+      en: "auto repair shop"
+      ko: "정비소"
+    gender: m
+  - spanish: "la gasolinera"
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: f

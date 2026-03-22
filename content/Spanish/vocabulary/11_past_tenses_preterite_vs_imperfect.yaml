@@ -1,0 +1,613 @@
+lesson: 11_Past_Tenses_Preterite_vs_Imperfect
+lesson_number: 11
+cefr: B1
+categories:
+- id: dar_ver_short_irregulars
+  label:
+    en: DAR, VER (Short Irregulars)
+    ko: DAR, VER (단음절 불규칙 동사)
+  type: conjugation
+  verb: ir
+  tense: preterite
+  entries:
+  - subject: yo
+    form: di
+  - subject: tú
+    form: diste
+  - subject: él/ella
+    form: dio
+  - subject: nosotros
+    form: dimos
+  - subject: ellos
+    form: dieron
+- id: 3_preterite_spelling_changes
+  label:
+    en: '3. Preterite: Spelling Changes'
+    ko: '3. 점과거: 철자 변화'
+  type: vocabulary
+  words:
+  - spanish: c → qu (before -é)
+    translation:
+      en: buscar, tocar, sacar
+    gender: null
+    notes:
+      en: busqué
+  - spanish: g → gu (before -é)
+    translation:
+      en: llegar, pagar, jugar
+    gender: null
+    notes:
+      en: llegué
+  - spanish: z → c (before -é)
+    translation:
+      en: empezar, almorzar
+    gender: null
+    notes:
+      en: empecé
+- id: 5_imperfect_the_only_three_irregulars
+  label:
+    en: '5. Imperfect: The Only Three Irregulars'
+    ko: '5. 불완료 과거: 단 세 개의 불규칙 동사'
+  type: conjugation
+  verb: ir
+  tense: imperfect
+  entries:
+  - subject: yo
+    form: era
+  - subject: tú
+    form: eras
+  - subject: él/ella
+    form: era
+  - subject: nosotros
+    form: éramos
+  - subject: vosotros
+    form: erais
+  - subject: ellos
+    form: eran
+- id: irregular_preterite_verbs
+  label:
+    en: Irregular Preterite Verbs
+    ko: 불규칙 점과거 동사
+  type: vocabulary
+  words:
+  - spanish: tener (tuve)
+    translation:
+      en: to have (I had)
+      ko: 가지다 (나는 가졌다)
+    gender: null
+    notes:
+      en: Irregular stem 'tuv-' in preterite
+      ko: 점과거에서 불규칙 어간 'tuv-'
+  - spanish: estar (estuve)
+    translation:
+      en: to be (I was)
+      ko: 있다/~이다 (나는 있었다)
+    gender: null
+    notes:
+      en: Irregular stem 'estuv-' in preterite
+      ko: 점과거에서 불규칙 어간 'estuv-'
+  - spanish: poder (pude)
+    translation:
+      en: to be able to (I could)
+      ko: 할 수 있다 (나는 할 수 있었다)
+    gender: null
+    notes:
+      en: Irregular stem 'pud-' in preterite
+      ko: 점과거에서 불규칙 어간 'pud-'
+  - spanish: poner (puse)
+    translation:
+      en: to put (I put)
+      ko: 놓다 (나는 놓았다)
+    gender: null
+    notes:
+      en: Irregular stem 'pus-' in preterite
+      ko: 점과거에서 불규칙 어간 'pus-'
+  - spanish: saber (supe)
+    translation:
+      en: to know (I found out)
+      ko: 알다 (나는 알게 되었다)
+    gender: null
+    notes:
+      en: In preterite means 'found out'; stem 'sup-'
+      ko: 점과거에서는 '알게 되다'의 의미; 어간 'sup-'
+  - spanish: hacer (hice)
+    translation:
+      en: to do/make (I did)
+      ko: 하다/만들다 (나는 했다)
+    gender: null
+    notes:
+      en: Irregular stem 'hic-'; third person 'hizo'
+      ko: 불규칙 어간 'hic-'; 3인칭 'hizo'
+  - spanish: venir (vine)
+    translation:
+      en: to come (I came)
+      ko: 오다 (나는 왔다)
+    gender: null
+    notes:
+      en: Irregular stem 'vin-' in preterite
+      ko: 점과거에서 불규칙 어간 'vin-'
+  - spanish: querer (quise)
+    translation:
+      en: to want (I wanted/tried)
+      ko: 원하다 (나는 원했다/시도했다)
+    gender: null
+    notes:
+      en: In preterite means 'tried to'; stem 'quis-'
+      ko: 점과거에서는 '시도했다'의 의미; 어간 'quis-'
+  - spanish: decir (dije)
+    translation:
+      en: to say (I said)
+      ko: 말하다 (나는 말했다)
+    gender: null
+    notes:
+      en: Irregular stem 'dij-'; 3rd pl. 'dijeron'
+      ko: 불규칙 어간 'dij-'; 3인칭 복수 'dijeron'
+  - spanish: traer (traje)
+    translation:
+      en: to bring (I brought)
+      ko: 가져오다 (나는 가져왔다)
+    gender: null
+    notes:
+      en: Irregular stem 'traj-'; 3rd pl. 'trajeron'
+      ko: 불규칙 어간 'traj-'; 3인칭 복수 'trajeron'
+  - spanish: conducir (conduje)
+    translation:
+      en: to drive (I drove)
+      ko: 운전하다 (나는 운전했다)
+    gender: null
+    notes:
+      en: All -ducir verbs follow this pattern; stem 'conduj-'
+      ko: 모든 -ducir 동사가 이 패턴을 따름; 어간 'conduj-'
+  - spanish: producir (produje)
+    translation:
+      en: to produce (I produced)
+      ko: 생산하다 (나는 생산했다)
+    gender: null
+    notes:
+      en: Follows -ducir pattern; stem 'produj-'
+      ko: -ducir 패턴을 따름; 어간 'produj-'
+  - spanish: andar (anduve)
+    translation:
+      en: to walk (I walked)
+      ko: 걷다 (나는 걸었다)
+    gender: null
+    notes:
+      en: Irregular stem 'anduv-' in preterite
+      ko: 점과거에서 불규칙 어간 'anduv-'
+  - spanish: caber (cupe)
+    translation:
+      en: to fit (I fit)
+      ko: 들어맞다 (나는 들어맞았다)
+    gender: null
+    notes:
+      en: Irregular stem 'cup-' in preterite
+      ko: 점과거에서 불규칙 어간 'cup-'
+  - spanish: caer (caí)
+    translation:
+      en: to fall (I fell)
+      ko: 넘어지다 (나는 넘어졌다)
+    gender: null
+    notes:
+      en: Spelling change in 3rd person; cayó, cayeron
+      ko: 3인칭에서 철자 변화; cayó, cayeron
+  - spanish: leer (leí)
+    translation:
+      en: to read (I read)
+      ko: 읽다 (나는 읽었다)
+    gender: null
+    notes:
+      en: Spelling change in 3rd person; leyó, leyeron
+      ko: 3인칭에서 철자 변화; leyó, leyeron
+  - spanish: oír (oí)
+    translation:
+      en: to hear (I heard)
+      ko: 듣다 (나는 들었다)
+    gender: null
+    notes:
+      en: Spelling change in 3rd person; oyó, oyeron
+      ko: 3인칭에서 철자 변화; oyó, oyeron
+  - spanish: dormir (dormí)
+    translation:
+      en: to sleep (I slept)
+      ko: 자다 (나는 잤다)
+    gender: null
+    notes:
+      en: Stem change o→u in 3rd person; durmió, durmieron
+      ko: 3인칭에서 어간 변화 o→u; durmió, durmieron
+  - spanish: pedir (pedí)
+    translation:
+      en: to ask for (I asked for)
+      ko: 요청하다 (나는 요청했다)
+    gender: null
+    notes:
+      en: Stem change e→i in 3rd person; pidió, pidieron
+      ko: 3인칭에서 어간 변화 e→i; pidió, pidieron
+  - spanish: sentir (sentí)
+    translation:
+      en: to feel (I felt)
+      ko: 느끼다 (나는 느꼈다)
+    gender: null
+    notes:
+      en: Stem change e→i in 3rd person; sintió, sintieron
+      ko: 3인칭에서 어간 변화 e→i; sintió, sintieron
+- id: preterite_time_expressions
+  label:
+    en: Preterite Time Expressions
+    ko: 점과거 시간 표현
+  type: vocabulary
+  words:
+  - spanish: ayer
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - spanish: anteayer
+    translation:
+      en: the day before yesterday
+      ko: 그저께
+    gender: null
+  - spanish: anoche
+    translation:
+      en: last night
+      ko: 어젯밤
+    gender: null
+  - spanish: la semana pasada
+    translation:
+      en: last week
+      ko: 지난주
+    gender: f
+  - spanish: el mes pasado
+    translation:
+      en: last month
+      ko: 지난달
+    gender: m
+  - spanish: el año pasado
+    translation:
+      en: last year
+      ko: 작년
+    gender: m
+  - spanish: hace dos días
+    translation:
+      en: two days ago
+      ko: 이틀 전
+    gender: null
+  - spanish: una vez
+    translation:
+      en: once / one time
+      ko: 한 번
+    gender: f
+  - spanish: de repente
+    translation:
+      en: suddenly
+      ko: 갑자기
+    gender: null
+  - spanish: en ese momento
+    translation:
+      en: at that moment
+      ko: 그 순간에
+    gender: null
+  - spanish: por primera vez
+    translation:
+      en: for the first time
+      ko: 처음으로
+    gender: null
+  - spanish: entonces
+    translation:
+      en: then / at that point
+      ko: 그때 / 그러고 나서
+    gender: null
+  - spanish: finalmente
+    translation:
+      en: finally
+      ko: 마침내
+    gender: null
+  - spanish: por fin
+    translation:
+      en: at last
+      ko: 드디어
+    gender: null
+  - spanish: enseguida
+    translation:
+      en: right away / immediately
+      ko: 즉시 / 곧바로
+    gender: null
+- id: imperfect_time_expressions
+  label:
+    en: Imperfect Time Expressions
+    ko: 불완료 과거 시간 표현
+  type: vocabulary
+  words:
+  - spanish: siempre
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+  - spanish: a menudo
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+  - spanish: frecuentemente
+    translation:
+      en: frequently
+      ko: 빈번하게
+    gender: null
+  - spanish: todos los días
+    translation:
+      en: every day
+      ko: 매일
+    gender: null
+  - spanish: cada semana
+    translation:
+      en: every week
+      ko: 매주
+    gender: null
+  - spanish: generalmente
+    translation:
+      en: generally
+      ko: 보통 / 일반적으로
+    gender: null
+  - spanish: normalmente
+    translation:
+      en: normally
+      ko: 보통
+    gender: null
+  - spanish: de niño/a
+    translation:
+      en: as a child
+      ko: 어렸을 때
+    gender: null
+  - spanish: en aquella época
+    translation:
+      en: in that era / at that time
+      ko: 그 시절에
+    gender: null
+  - spanish: mientras
+    translation:
+      en: while
+      ko: ~하는 동안
+    gender: null
+    notes:
+      en: Key imperfect trigger; describes simultaneous actions
+      ko: 불완료 과거의 핵심 키워드; 동시 동작을 설명
+  - spanish: de vez en cuando
+    translation:
+      en: from time to time
+      ko: 때때로
+    gender: null
+  - spanish: a veces
+    translation:
+      en: sometimes
+      ko: 때때로 / 가끔
+    gender: null
+  - spanish: todavía
+    translation:
+      en: still / yet
+      ko: 여전히 / 아직
+    gender: null
+  - spanish: ya
+    translation:
+      en: already / yet
+      ko: 이미 / 벌써
+    gender: null
+  - spanish: en aquel entonces
+    translation:
+      en: back then
+      ko: 그 당시에
+    gender: null
+- id: preterite_vs_imperfect_signal_words
+  label:
+    en: Preterite vs. Imperfect Signal Words
+    ko: 점과거 vs. 불완료 과거 신호 단어
+  type: vocabulary
+  words:
+  - spanish: cuando
+    translation:
+      en: when
+      ko: ~할 때
+    gender: null
+    notes:
+      en: Can trigger either tense depending on context
+      ko: 문맥에 따라 점과거나 불완료 과거 모두 가능
+  - spanish: porque
+    translation:
+      en: because
+      ko: 왜냐하면
+    gender: null
+  - spanish: como
+    translation:
+      en: as / since
+      ko: ~이므로 / ~처럼
+    gender: null
+    notes:
+      en: Often triggers imperfect for background description
+      ko: 배경 설명에서 주로 불완료 과거를 유발
+  - spanish: después
+    translation:
+      en: after / afterwards
+      ko: 나중에 / 그 후에
+    gender: null
+    notes:
+      en: Usually triggers preterite for sequential actions
+      ko: 순차적 행동에서 주로 점과거를 유발
+  - spanish: luego
+    translation:
+      en: then / later
+      ko: 그 다음에 / 나중에
+    gender: null
+    notes:
+      en: Sequence marker; usually preterite
+      ko: 순서 표지; 주로 점과거
+  - spanish: antes
+    translation:
+      en: before
+      ko: 이전에
+    gender: null
+  - spanish: primero
+    translation:
+      en: first
+      ko: 먼저 / 첫째
+    gender: null
+    notes:
+      en: Sequence marker; usually preterite
+      ko: 순서 표지; 주로 점과거
+  - spanish: al final
+    translation:
+      en: in the end
+      ko: 결국
+    gender: null
+  - spanish: de pronto
+    translation:
+      en: suddenly / all of a sudden
+      ko: 갑자기
+    gender: null
+    notes:
+      en: Interruption marker; triggers preterite
+      ko: 중단 표지; 점과거를 유발
+  - spanish: durante
+    translation:
+      en: during
+      ko: ~동안
+    gender: null
+- id: past_tense_example_phrases
+  label:
+    en: Past Tense Example Phrases
+    ko: 과거 시제 예문
+  type: vocabulary
+  words:
+  - spanish: Ayer fui al cine.
+    translation:
+      en: Yesterday I went to the cinema.
+      ko: 어제 영화관에 갔다.
+    gender: null
+    notes:
+      en: Preterite — completed action with specific time
+      ko: 점과거 — 특정 시점의 완료된 행동
+  - spanish: Cuando era niño, jugaba mucho.
+    translation:
+      en: When I was a child, I used to play a lot.
+      ko: 어렸을 때 많이 놀곤 했다.
+    gender: null
+    notes:
+      en: Imperfect — habitual past action
+      ko: 불완료 과거 — 습관적 과거 행동
+  - spanish: Llovía cuando salí de casa.
+    translation:
+      en: It was raining when I left the house.
+      ko: 내가 집을 나섰을 때 비가 오고 있었다.
+    gender: null
+    notes:
+      en: Imperfect (background) + preterite (interruption)
+      ko: 불완료 과거 (배경) + 점과거 (중단)
+  - spanish: Conocí a mi esposa en 2010.
+    translation:
+      en: I met my wife in 2010.
+      ko: 2010년에 아내를 만났다.
+    gender: null
+    notes:
+      en: Preterite — 'conocer' in preterite means 'met'
+      ko: 점과거 — 'conocer'의 점과거는 '만나다'
+  - spanish: No quise hacerlo.
+    translation:
+      en: I refused to do it.
+      ko: 나는 그것을 하기를 거부했다.
+    gender: null
+    notes:
+      en: Preterite of 'querer' in negative = refused
+      ko: "'querer'의 점과거 부정형 = 거부했다"
+  - spanish: Sabía la verdad.
+    translation:
+      en: I knew the truth.
+      ko: 나는 진실을 알고 있었다.
+    gender: null
+    notes:
+      en: Imperfect — ongoing state of knowledge
+      ko: 불완료 과거 — 지속적인 앎의 상태
+  - spanish: Supe la verdad.
+    translation:
+      en: I found out the truth.
+      ko: 나는 진실을 알게 되었다.
+    gender: null
+    notes:
+      en: Preterite — moment of discovery
+      ko: 점과거 — 알게 된 순간
+  - spanish: Eran las tres cuando llegó.
+    translation:
+      en: It was three o'clock when he arrived.
+      ko: 그가 도착했을 때 세 시였다.
+    gender: null
+    notes:
+      en: Imperfect for time + preterite for event
+      ko: 시간은 불완료 과거 + 사건은 점과거
+  - spanish: Vivíamos en Madrid antes.
+    translation:
+      en: We used to live in Madrid before.
+      ko: 우리는 전에 마드리드에 살았다.
+    gender: null
+    notes:
+      en: Imperfect — description of past living situation
+      ko: 불완료 과거 — 과거 거주 상황 설명
+  - spanish: Me desperté y desayuné.
+    translation:
+      en: I woke up and had breakfast.
+      ko: 나는 일어나서 아침을 먹었다.
+    gender: null
+    notes:
+      en: Preterite — chain of completed actions
+      ko: 점과거 — 완료된 행동의 연쇄
+  - spanish: Hacía calor y el sol brillaba.
+    translation:
+      en: It was hot and the sun was shining.
+      ko: 날씨가 덥고 해가 빛나고 있었다.
+    gender: null
+    notes:
+      en: Imperfect — setting/weather description
+      ko: 불완료 과거 — 배경/날씨 묘사
+  - spanish: De repente, sonó el teléfono.
+    translation:
+      en: Suddenly, the phone rang.
+      ko: 갑자기 전화가 울렸다.
+    gender: null
+    notes:
+      en: Preterite — sudden interrupting event
+      ko: 점과거 — 갑작스러운 중단 사건
+  - spanish: Todos los veranos íbamos a la playa.
+    translation:
+      en: Every summer we used to go to the beach.
+      ko: 매 여름마다 해변에 가곤 했다.
+    gender: null
+    notes:
+      en: Imperfect — recurring past action
+      ko: 불완료 과거 — 반복적 과거 행동
+  - spanish: Ella tenía miedo pero lo hizo.
+    translation:
+      en: She was afraid but she did it.
+      ko: 그녀는 무서웠지만 해냈다.
+    gender: null
+    notes:
+      en: Imperfect (emotion) + preterite (action)
+      ko: 불완료 과거 (감정) + 점과거 (행동)
+  - spanish: Mientras estudiaba, llegó mi amigo.
+    translation:
+      en: While I was studying, my friend arrived.
+      ko: 내가 공부하는 동안 친구가 왔다.
+    gender: null
+    notes:
+      en: Imperfect (ongoing) interrupted by preterite
+      ko: 불완료 과거 (진행) 중 점과거로 중단
+  - spanish: Podía nadar bien de joven.
+    translation:
+      en: I could swim well when young.
+      ko: 젊었을 때 수영을 잘할 수 있었다.
+    gender: null
+    notes:
+      en: Imperfect — ongoing ability in the past
+      ko: 불완료 과거 — 과거의 지속적인 능력
+  - spanish: No pude encontrar las llaves.
+    translation:
+      en: I couldn't find the keys.
+      ko: 열쇠를 찾을 수 없었다.
+    gender: null
+    notes:
+      en: Preterite — failed attempt at a specific moment
+      ko: 점과거 — 특정 순간의 실패한 시도
