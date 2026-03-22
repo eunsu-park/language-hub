@@ -9,19 +9,6 @@ A language learning content repository. Publishes structured vocabulary, grammar
 
 ---
 
-## Quality Criteria / 품질 기준
-
-콘텐츠가 이 레포지토리에 게시되려면 다음 검사를 모두 통과해야 합니다:
-
-| Check / 검사 항목 | Description / 설명 |
-|---|---|
-| EN Content | English content exists and is high quality / 영문 콘텐츠가 존재하고 양질인지 |
-| KO Translation | Korean translation is correct / 한글 번역이 올바른지 |
-| Vocabulary Count | Vocabulary word count is sufficient / 단어의 수가 충분한지 |
-| Grammar Data | Grammar data exists and is non-empty / Grammar 데이터 존재 및 비어있지 않은지 |
-
----
-
 ## Project Structure / 프로젝트 구조
 
 ```
