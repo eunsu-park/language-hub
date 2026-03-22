@@ -1,0 +1,613 @@
+# Spanish Tense Formation Rules and Usage
+# Simple tenses + Compound tenses (with HABER)
+
+tenses:
+  # ============================================================
+  # SIMPLE TENSES
+  # ============================================================
+  present:
+    id: present
+    label:
+      en: "Present Tense"
+      ko: "현재 시제"
+    cefr: A1
+    formation:
+      en: "Remove infinitive ending (-ar/-er/-ir) and add present tense endings"
+      ko: "부정사 어미(-ar/-er/-ir)를 제거하고 현재 시제 어미를 추가"
+    endings:
+      "-AR":
+        yo: "-o"
+        tú: "-as"
+        él: "-a"
+        nosotros: "-amos"
+        vosotros: "-áis"
+        ellos: "-an"
+      "-ER":
+        yo: "-o"
+        tú: "-es"
+        él: "-e"
+        nosotros: "-emos"
+        vosotros: "-éis"
+        ellos: "-en"
+      "-IR":
+        yo: "-o"
+        tú: "-es"
+        él: "-e"
+        nosotros: "-imos"
+        vosotros: "-ís"
+        ellos: "-en"
+    uses:
+      - en: "Habitual actions"
+        ko: "습관적 행동"
+        example: "Estudio español todos los días."
+      - en: "Current truths / states"
+        ko: "현재의 사실 / 상태"
+        example: "Vivo en Madrid."
+      - en: "Actions happening now"
+        ko: "지금 일어나고 있는 행동"
+        example: "¿Qué haces?"
+      - en: "Near future (scheduled)"
+        ko: "가까운 미래 (예정된)"
+        example: "Mañana salgo a las ocho."
+      - en: "Timeless facts"
+        ko: "불변의 사실"
+        example: "El agua hierve a cien grados."
+    trigger_words: [siempre, todos los días, normalmente, a menudo, generalmente, ahora, hoy, a veces, nunca, cada]
+
+  preterite:
+    id: preterite
+    label:
+      en: "Preterite (Simple Past)"
+      ko: "단순 과거 (점과거)"
+    cefr: A2
+    formation:
+      en: "Remove infinitive ending and add preterite endings. Many common verbs have irregular preterite stems."
+      ko: "부정사 어미를 제거하고 과거 어미를 추가. 많은 일반 동사가 불규칙 과거 어간을 가짐."
+    endings:
+      "-AR":
+        yo: "-é"
+        tú: "-aste"
+        él: "-ó"
+        nosotros: "-amos"
+        vosotros: "-asteis"
+        ellos: "-aron"
+      "-ER/-IR":
+        yo: "-í"
+        tú: "-iste"
+        él: "-ió"
+        nosotros: "-imos"
+        vosotros: "-isteis"
+        ellos: "-ieron"
+    irregular_stems:
+      en: "Irregular preterite verbs use a special stem with unstressed endings (-e, -iste, -o, -imos, -isteis, -ieron)"
+      ko: "불규칙 과거형 동사는 특별한 어간에 비강세 어미(-e, -iste, -o, -imos, -isteis, -ieron)를 사용"
+      examples:
+        tener: tuv-
+        estar: estuv-
+        poder: pud-
+        poner: pus-
+        saber: sup-
+        hacer: hic-/hiz-
+        querer: quis-
+        venir: vin-
+        decir: dij-
+    uses:
+      - en: "Completed actions with defined beginning/end"
+        ko: "시작/끝이 정해진 완료된 행동"
+        example: "Ayer comí en un restaurante."
+      - en: "Actions that occurred a specific number of times"
+        ko: "특정 횟수로 발생한 행동"
+        example: "Fui tres veces al cine."
+      - en: "A chain of completed events"
+        ko: "연속된 완료 사건"
+        example: "Me desperté, desayuné y salí."
+      - en: "Sudden changes in state or condition"
+        ko: "상태나 조건의 갑작스러운 변화"
+        example: "De repente, se puso triste."
+    trigger_words: [ayer, anoche, la semana pasada, el año pasado, una vez, de repente, hace dos días, en 2020, aquel día]
+
+  imperfect:
+    id: imperfect
+    label:
+      en: "Imperfect (Past Habitual/Ongoing)"
+      ko: "불완료 과거 (선과거)"
+    cefr: A2
+    formation:
+      en: "Remove infinitive ending and add imperfect endings. Only 3 irregular verbs: ser, ir, ver."
+      ko: "부정사 어미를 제거하고 불완료 어미를 추가. 불규칙 동사 3개만: ser, ir, ver."
+    endings:
+      "-AR":
+        yo: "-aba"
+        tú: "-abas"
+        él: "-aba"
+        nosotros: "-ábamos"
+        vosotros: "-abais"
+        ellos: "-aban"
+      "-ER/-IR":
+        yo: "-ía"
+        tú: "-ías"
+        él: "-ía"
+        nosotros: "-íamos"
+        vosotros: "-íais"
+        ellos: "-ían"
+    irregular_verbs:
+      ser: {yo: era, tú: eras, él: era, nosotros: éramos, vosotros: erais, ellos: eran}
+      ir: {yo: iba, tú: ibas, él: iba, nosotros: íbamos, vosotros: ibais, ellos: iban}
+      ver: {yo: veía, tú: veías, él: veía, nosotros: veíamos, vosotros: veíais, ellos: veían}
+    uses:
+      - en: "Habitual/repeated past actions"
+        ko: "습관적/반복적 과거 행동"
+        example: "De niño, jugaba en el parque."
+      - en: "Background descriptions / setting the scene"
+        ko: "배경 묘사 / 장면 설정"
+        example: "Hacía sol y los pájaros cantaban."
+      - en: "Ongoing actions interrupted by another event"
+        ko: "다른 사건에 의해 중단된 진행 중인 행동"
+        example: "Leía cuando sonó el teléfono."
+      - en: "Age, time, weather in the past"
+        ko: "과거의 나이, 시간, 날씨"
+        example: "Tenía diez años. Eran las tres."
+      - en: "Emotional/mental/physical states in the past"
+        ko: "과거의 감정/정신/신체 상태"
+        example: "Estaba cansado y quería dormir."
+    trigger_words: [siempre, todos los días, a menudo, de niño, cuando era joven, generalmente, mientras, cada verano, en aquella época, frecuentemente]
+
+  future:
+    id: future
+    label:
+      en: "Future Tense"
+      ko: "미래 시제"
+    cefr: A2
+    formation:
+      en: "Add future endings to the full infinitive. Some verbs have modified infinitive stems."
+      ko: "전체 부정사에 미래 어미를 추가. 일부 동사는 수정된 부정사 어간을 가짐."
+    endings:
+      all_groups:
+        yo: "-é"
+        tú: "-ás"
+        él: "-á"
+        nosotros: "-emos"
+        vosotros: "-éis"
+        ellos: "-án"
+    irregular_stems:
+      en: "These verbs modify the infinitive before adding endings"
+      ko: "이 동사들은 어미 추가 전에 부정사를 수정"
+      examples:
+        tener: tendr-
+        salir: saldr-
+        venir: vendr-
+        poner: pondr-
+        haber: habr-
+        poder: podr-
+        saber: sabr-
+        hacer: har-
+        decir: dir-
+        querer: querr-
+    uses:
+      - en: "Future actions or events"
+        ko: "미래의 행동이나 사건"
+        example: "Mañana iré al médico."
+      - en: "Predictions"
+        ko: "예측"
+        example: "Lloverá esta tarde."
+      - en: "Probability/conjecture about the present"
+        ko: "현재에 대한 추측"
+        example: "¿Dónde estará Juan? (I wonder where Juan is)"
+      - en: "Promises and resolutions"
+        ko: "약속과 결심"
+        example: "Te llamaré esta noche."
+    trigger_words: [mañana, la próxima semana, el año que viene, en el futuro, algún día, pronto, dentro de]
+    notes:
+      en: "The informal future (ir + a + infinitive) is more common in everyday speech: Voy a comer = I'm going to eat."
+      ko: "비공식 미래형 (ir + a + 부정사)이 일상 대화에서 더 자주 사용됨: Voy a comer = 먹을 거야."
+
+  conditional:
+    id: conditional
+    label:
+      en: "Conditional Tense"
+      ko: "조건법"
+    cefr: B1
+    formation:
+      en: "Add conditional endings to the full infinitive. Uses the same irregular stems as the future tense."
+      ko: "전체 부정사에 조건법 어미를 추가. 미래 시제와 같은 불규칙 어간 사용."
+    endings:
+      all_groups:
+        yo: "-ía"
+        tú: "-ías"
+        él: "-ía"
+        nosotros: "-íamos"
+        vosotros: "-íais"
+        ellos: "-ían"
+    irregular_stems:
+      en: "Same irregular stems as future tense"
+      ko: "미래 시제와 동일한 불규칙 어간"
+      examples:
+        tener: tendr-
+        salir: saldr-
+        venir: vendr-
+        poner: pondr-
+        haber: habr-
+        poder: podr-
+        saber: sabr-
+        hacer: har-
+        decir: dir-
+        querer: querr-
+    uses:
+      - en: "Hypothetical situations"
+        ko: "가정적인 상황"
+        example: "Con más tiempo, viajaría por el mundo."
+      - en: "Polite requests"
+        ko: "정중한 요청"
+        example: "¿Podrías ayudarme?"
+      - en: "Probability/conjecture about the past"
+        ko: "과거에 대한 추측"
+        example: "Serían las tres cuando llegó."
+      - en: "Future from a past perspective"
+        ko: "과거 관점에서의 미래"
+        example: "Dijo que vendría."
+      - en: "Advice (with deber, poder)"
+        ko: "조언 (deber, poder와 함께)"
+        example: "Deberías estudiar más."
+    trigger_words: [si (+ imperfect subjunctive), en tu lugar, con más tiempo, me gustaría]
+
+  present_subjunctive:
+    id: present_subjunctive
+    label:
+      en: "Present Subjunctive"
+      ko: "현재 접속법"
+    cefr: B1
+    formation:
+      en: >
+        Start with the yo form of present indicative, drop the -o, and add
+        "opposite" endings: -AR verbs get -ER/-IR endings, -ER/-IR verbs
+        get -AR endings.
+      ko: >
+        직설법 현재형 yo 형태에서 시작하여 -o를 제거하고 "반대" 어미를
+        추가: -AR 동사는 -ER/-IR 어미를, -ER/-IR 동사는 -AR 어미를 받음.
+    endings:
+      "-AR (opposite)":
+        yo: "-e"
+        tú: "-es"
+        él: "-e"
+        nosotros: "-emos"
+        vosotros: "-éis"
+        ellos: "-en"
+      "-ER/-IR (opposite)":
+        yo: "-a"
+        tú: "-as"
+        él: "-a"
+        nosotros: "-amos"
+        vosotros: "-áis"
+        ellos: "-an"
+    irregular_verbs:
+      en: "Verbs with irregular yo forms carry that irregularity into all subjunctive forms. Fully irregular: ser→sea, ir→vaya, haber→haya, saber→sepa, dar→dé, estar→esté."
+      ko: "불규칙 yo 형태를 가진 동사는 모든 접속법 형태에서 그 불규칙성을 유지. 완전 불규칙: ser→sea, ir→vaya, haber→haya, saber→sepa, dar→dé, estar→esté."
+    uses:
+      - en: "Wishes, desires, hopes (querer que, esperar que, desear que)"
+        ko: "바람, 욕구, 희망 (querer que, esperar que, desear que)"
+        example: "Quiero que vengas a la fiesta."
+      - en: "Emotions (alegrarse de que, temer que, sentir que)"
+        ko: "감정 (alegrarse de que, temer que, sentir que)"
+        example: "Me alegro de que estés bien."
+      - en: "Impersonal expressions (es importante que, es necesario que)"
+        ko: "비인칭 표현 (es importante que, es necesario que)"
+        example: "Es importante que estudies."
+      - en: "Doubt/denial (dudar que, no creer que, negar que)"
+        ko: "의심/부정 (dudar que, no creer que, negar que)"
+        example: "Dudo que llueva mañana."
+      - en: "Commands/recommendations (recomendar que, sugerir que)"
+        ko: "명령/권고 (recomendar que, sugerir que)"
+        example: "Te recomiendo que leas este libro."
+      - en: "Purpose clauses (para que, a fin de que)"
+        ko: "목적절 (para que, a fin de que)"
+        example: "Te lo digo para que lo sepas."
+      - en: "Time clauses referring to future (cuando, hasta que, antes de que)"
+        ko: "미래를 가리키는 시간절 (cuando, hasta que, antes de que)"
+        example: "Cuando llegues, llámame."
+    trigger_words: [que, ojalá, quizás, tal vez, para que, antes de que, hasta que, cuando (future), a menos que, sin que, con tal de que, es necesario que, es posible que]
+
+  imperfect_subjunctive:
+    id: imperfect_subjunctive
+    label:
+      en: "Imperfect Subjunctive"
+      ko: "불완료 접속법"
+    cefr: B2
+    formation:
+      en: >
+        Take the ellos form of the preterite, drop -ron, and add -ra endings
+        (or -se endings as alternative). The -ra form is more common in
+        Latin America and spoken Spanish.
+      ko: >
+        과거형의 ellos 형태에서 -ron을 제거하고 -ra 어미를 추가
+        (또는 대안으로 -se 어미). -ra 형태가 라틴아메리카와 구어에서 더 흔함.
+    endings:
+      "-ra form":
+        yo: "-ra"
+        tú: "-ras"
+        él: "-ra"
+        nosotros: "-ramos (accent on antepenultimate syllable)"
+        vosotros: "-rais"
+        ellos: "-ran"
+      "-se form (alternative)":
+        yo: "-se"
+        tú: "-ses"
+        él: "-se"
+        nosotros: "-semos (accent on antepenultimate syllable)"
+        vosotros: "-seis"
+        ellos: "-sen"
+    derivation_examples:
+      hablar: "hablaron → habla- → hablara / hablase"
+      comer: "comieron → comie- → comiera / comiese"
+      tener: "tuvieron → tuvie- → tuviera / tuviese"
+      decir: "dijeron → dije- → dijera / dijese"
+    uses:
+      - en: "Past subjunctive contexts (main verb in past tense)"
+        ko: "과거 접속법 맥락 (주절 동사가 과거형)"
+        example: "Quería que vinieras."
+      - en: "Hypothetical si-clauses (contrary to fact)"
+        ko: "가정법 si절 (사실에 반하는)"
+        example: "Si tuviera dinero, viajaría."
+      - en: "Polite requests with quisiera"
+        ko: "quisiera를 사용한 정중한 요청"
+        example: "Quisiera un café, por favor."
+      - en: "Wishes with ojalá (unlikely/impossible)"
+        ko: "ojalá와 함께 쓰는 소망 (실현 불가능한)"
+        example: "Ojalá pudiera volar."
+      - en: "As if (como si) — always requires imperfect subjunctive"
+        ko: "마치 ~인 것처럼 (como si) — 항상 불완료 접속법 필요"
+        example: "Habla como si supiera todo."
+    trigger_words: [si (hypothetical), como si, ojalá (unlikely), quisiera, quería que, pidió que, era necesario que]
+
+  imperative:
+    id: imperative
+    label:
+      en: "Imperative (Commands)"
+      ko: "명령법"
+    cefr: A2
+    formation:
+      en: >
+        Affirmative tú: use the él/ella present indicative form (drops the -s).
+        Affirmative usted: use the usted present subjunctive form.
+        Negative commands (all persons): use the present subjunctive with no.
+      ko: >
+        긍정 tú: 직설법 현재 él/ella 형태 사용 (-s 제거).
+        긍정 usted: 접속법 현재 usted 형태 사용.
+        부정 명령 (모든 인칭): no + 접속법 현재.
+    forms:
+      affirmative_tú:
+        en: "él/ella present indicative form"
+        ko: "직설법 현재 él/ella 형태"
+        "-AR example": "habla (speak!)"
+        "-ER example": "come (eat!)"
+        "-IR example": "escribe (write!)"
+        irregulars: "See irregular_tú_commands in conjugations.yaml"
+      negative_tú:
+        en: "no + present subjunctive tú form"
+        ko: "no + 접속법 현재 tú 형태"
+        "-AR example": "no hables (don't speak!)"
+        "-ER example": "no comas (don't eat!)"
+        "-IR example": "no escribas (don't write!)"
+      affirmative_usted:
+        en: "present subjunctive usted form"
+        ko: "접속법 현재 usted 형태"
+        "-AR example": "hable (speak!)"
+        "-ER example": "coma (eat!)"
+        "-IR example": "escriba (write!)"
+      negative_usted:
+        en: "no + present subjunctive usted form"
+        ko: "no + 접속법 현재 usted 형태"
+        "-AR example": "no hable (don't speak!)"
+        "-ER example": "no coma (don't eat!)"
+        "-IR example": "no escriba (don't write!)"
+      affirmative_nosotros:
+        en: "present subjunctive nosotros form (let's...)"
+        ko: "접속법 현재 nosotros 형태 (~하자)"
+        example: "hablemos (let's speak!), comamos (let's eat!)"
+      affirmative_vosotros:
+        en: "Replace final -r of infinitive with -d"
+        ko: "부정사의 마지막 -r을 -d로 교체"
+        example: "hablad (speak!), comed (eat!), vivid (live!)"
+    pronoun_placement:
+      en: >
+        Affirmative commands: pronouns attach to the end (háblame, dímelo).
+        Negative commands: pronouns go before the verb (no me hables, no me lo digas).
+        Add accent mark to maintain original stress when attaching pronouns.
+      ko: >
+        긍정 명령: 대명사가 뒤에 붙음 (háblame, dímelo).
+        부정 명령: 대명사가 동사 앞에 위치 (no me hables, no me lo digas).
+        대명사 부착 시 원래 강세를 유지하기 위해 악센트 부호 추가.
+    uses:
+      - en: "Direct commands and instructions"
+        ko: "직접 명령과 지시"
+        example: "¡Abre la puerta!"
+      - en: "Advice and suggestions"
+        ko: "조언과 제안"
+        example: "Come más verduras."
+      - en: "Recipes and directions"
+        ko: "요리법과 길안내"
+        example: "Gire a la derecha."
+
+  # ============================================================
+  # COMPOUND TENSES (formed with HABER + past participle)
+  # ============================================================
+  present_perfect:
+    id: present_perfect
+    label:
+      en: "Present Perfect"
+      ko: "현재 완료"
+    cefr: B1
+    formation:
+      en: "Present tense of HABER + past participle (invariable)"
+      ko: "HABER의 현재형 + 과거분사 (변하지 않음)"
+    haber_conjugation:
+      yo: he
+      tú: has
+      él: ha
+      nosotros: hemos
+      vosotros: habéis
+      ellos: han
+    past_participle_formation:
+      en: "-AR → -ado (hablado), -ER → -ido (comido), -IR → -ido (vivido). See irregular past participles in conjugations.yaml."
+      ko: "-AR → -ado (hablado), -ER → -ido (comido), -IR → -ido (vivido). 불규칙 과거분사는 conjugations.yaml 참조."
+    example: "He comido. Hemos visto la película."
+    uses:
+      - en: "Actions completed recently with present relevance"
+        ko: "현재와 관련있는 최근 완료된 행동"
+        example: "He terminado el trabajo."
+      - en: "Life experiences (ever/never)"
+        ko: "인생 경험 (해본 적 있다/없다)"
+        example: "¿Has viajado a España?"
+      - en: "Actions that started in the past and continue to present"
+        ko: "과거에 시작되어 현재까지 계속되는 행동"
+        example: "Hemos vivido aquí por diez años."
+    trigger_words: [ya, todavía no, alguna vez, nunca, recientemente, hasta ahora, este año, hoy, esta semana]
+    notes:
+      en: "In Spain, present perfect is used more frequently for recent past. In Latin America, the preterite is preferred for the same contexts."
+      ko: "스페인에서는 최근 과거에 현재 완료를 더 자주 사용. 라틴아메리카에서는 같은 맥락에서 과거형을 선호."
+
+  pluperfect:
+    id: pluperfect
+    label:
+      en: "Pluperfect (Past Perfect)"
+      ko: "대과거 (과거 완료)"
+    cefr: B1
+    formation:
+      en: "Imperfect of HABER + past participle"
+      ko: "HABER의 불완료형 + 과거분사"
+    haber_conjugation:
+      yo: había
+      tú: habías
+      él: había
+      nosotros: habíamos
+      vosotros: habíais
+      ellos: habían
+    example: "Había comido antes de salir."
+    uses:
+      - en: "An action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 행동"
+        example: "Cuando llegué, ya habían salido."
+      - en: "Past experience before a reference point in the past"
+        ko: "과거의 기준 시점 이전의 경험"
+        example: "Nunca había visto algo así."
+    trigger_words: [ya, antes de que, cuando, nunca antes, todavía no]
+
+  future_perfect:
+    id: future_perfect
+    label:
+      en: "Future Perfect"
+      ko: "미래 완료"
+    cefr: B2
+    formation:
+      en: "Future of HABER + past participle"
+      ko: "HABER의 미래형 + 과거분사"
+    haber_conjugation:
+      yo: habré
+      tú: habrás
+      él: habrá
+      nosotros: habremos
+      vosotros: habréis
+      ellos: habrán
+    example: "Para las cinco, habré terminado."
+    uses:
+      - en: "An action that will be completed before a future point"
+        ko: "미래 시점 이전에 완료될 행동"
+        example: "Para mañana, habremos llegado."
+      - en: "Conjecture about something that has probably happened"
+        ko: "아마 일어났을 것에 대한 추측"
+        example: "¿Habrá llegado ya? (He's probably arrived already, right?)"
+    trigger_words: [para (+ time), ya, antes de, dentro de]
+
+  conditional_perfect:
+    id: conditional_perfect
+    label:
+      en: "Conditional Perfect"
+      ko: "조건 완료"
+    cefr: B2
+    formation:
+      en: "Conditional of HABER + past participle"
+      ko: "HABER의 조건법 + 과거분사"
+    haber_conjugation:
+      yo: habría
+      tú: habrías
+      él: habría
+      nosotros: habríamos
+      vosotros: habríais
+      ellos: habrían
+    example: "Habría ido, pero estaba enfermo."
+    uses:
+      - en: "Hypothetical past actions (would have done)"
+        ko: "가정적 과거 행동 (~했을 것이다)"
+        example: "Habría viajado, pero no tenía dinero."
+      - en: "Result clause in past contrary-to-fact si-clauses"
+        ko: "과거 반사실적 si절의 결과절"
+        example: "Si hubiera sabido, habría venido."
+      - en: "Conjecture about a past action"
+        ko: "과거 행동에 대한 추측"
+        example: "Habrían sido las tres cuando llegó."
+    trigger_words: [si hubiera/hubiese, habría]
+
+  present_perfect_subjunctive:
+    id: present_perfect_subjunctive
+    label:
+      en: "Present Perfect Subjunctive"
+      ko: "현재 완료 접속법"
+    cefr: B2
+    formation:
+      en: "Present subjunctive of HABER + past participle"
+      ko: "HABER의 현재 접속법 + 과거분사"
+    haber_conjugation:
+      yo: haya
+      tú: hayas
+      él: haya
+      nosotros: hayamos
+      vosotros: hayáis
+      ellos: hayan
+    example: "Espero que hayas terminado."
+    uses:
+      - en: "Subjunctive context referring to a recently completed action"
+        ko: "최근 완료된 행동을 언급하는 접속법 맥락"
+        example: "Me alegro de que hayan llegado bien."
+      - en: "Doubt about whether something has happened"
+        ko: "어떤 일이 일어났는지에 대한 의심"
+        example: "Dudo que haya entendido."
+      - en: "After temporal conjunctions for completed future actions"
+        ko: "완료된 미래 행동에 대한 시간 접속사 뒤"
+        example: "Cuando haya terminado, te llamo."
+    trigger_words: [espero que, dudo que, ojalá, cuando (+ completion), es posible que]
+
+  pluperfect_subjunctive:
+    id: pluperfect_subjunctive
+    label:
+      en: "Pluperfect Subjunctive"
+      ko: "대과거 접속법"
+    cefr: C1
+    formation:
+      en: "Imperfect subjunctive of HABER + past participle"
+      ko: "HABER의 불완료 접속법 + 과거분사"
+    haber_conjugation:
+      "-ra form":
+        yo: hubiera
+        tú: hubieras
+        él: hubiera
+        nosotros: hubiéramos
+        vosotros: hubierais
+        ellos: hubieran
+      "-se form":
+        yo: hubiese
+        tú: hubieses
+        él: hubiese
+        nosotros: hubiésemos
+        vosotros: hubieseis
+        ellos: hubiesen
+    example: "Si hubiera sabido, habría ido."
+    uses:
+      - en: "Si-clauses for past contrary-to-fact conditions"
+        ko: "과거 반사실적 조건의 si절"
+        example: "Si hubieras estudiado, habrías aprobado."
+      - en: "Wishes about the past (ojalá)"
+        ko: "과거에 대한 소망 (ojalá)"
+        example: "Ojalá hubiera ido a la fiesta."
+      - en: "Past subjunctive contexts requiring completion before another past action"
+        ko: "다른 과거 행동 이전의 완료를 요구하는 과거 접속법 맥락"
+        example: "No creía que hubieran terminado."
+    trigger_words: [si hubiera/hubiese, ojalá (past wish), como si hubiera]

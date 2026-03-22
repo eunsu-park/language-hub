@@ -1,0 +1,806 @@
+# Spanish Grammar Rules, Contrasts, and Patterns
+
+rules:
+  # ============================================================
+  # 1. SER vs ESTAR
+  # ============================================================
+  ser_vs_estar:
+    id: ser_vs_estar
+    label:
+      en: "SER vs ESTAR"
+      ko: "SER vs ESTAR"
+    category: verbs
+    cefr: A1
+    description:
+      en: "Both mean 'to be' but are used in fundamentally different contexts. SER for identity/essence, ESTAR for states/conditions/locations."
+      ko: "둘 다 '~이다'를 의미하지만 근본적으로 다른 맥락에서 사용. SER은 정체성/본질, ESTAR은 상태/조건/위치."
+    mnemonics:
+      - name: DOCTOR
+        for: SER
+        description:
+          en: "Use SER for DOCTOR categories"
+          ko: "DOCTOR 범주에 SER 사용"
+        items:
+          - letter: D
+            meaning:
+              en: Description (physical traits, personality)
+              ko: 설명 (신체적 특징, 성격)
+            example: "Es alto y simpático."
+          - letter: O
+            meaning:
+              en: Occupation
+              ko: 직업
+            example: "Es profesora."
+          - letter: C
+            meaning:
+              en: Characteristic (inherent quality)
+              ko: 특성 (고유한 성질)
+            example: "El hielo es frío."
+          - letter: T
+            meaning:
+              en: Time (date, day, season)
+              ko: 시간 (날짜, 요일, 계절)
+            example: "Es lunes. Son las tres."
+          - letter: O
+            meaning:
+              en: Origin (nationality, where from)
+              ko: 출신 (국적, 출신지)
+            example: "Soy de Corea."
+          - letter: R
+            meaning:
+              en: Relationship (family, friendship)
+              ko: 관계 (가족, 우정)
+            example: "Es mi hermano."
+      - name: PLACE
+        for: ESTAR
+        description:
+          en: "Use ESTAR for PLACE categories"
+          ko: "PLACE 범주에 ESTAR 사용"
+        items:
+          - letter: P
+            meaning:
+              en: Position / Place (location)
+              ko: 위치 / 장소
+            example: "Está en la mesa."
+          - letter: L
+            meaning:
+              en: Location (where something/someone is)
+              ko: 위치 (무언가/누군가가 있는 곳)
+            example: "Madrid está en España."
+          - letter: A
+            meaning:
+              en: "Action (progressive tenses: estar + gerund)"
+              ko: "행동 (진행형: estar + 현재분사)"
+            example: "Estoy estudiando."
+          - letter: C
+            meaning:
+              en: Condition (temporary state, emotions, health)
+              ko: 상태 (일시적 상태, 감정, 건강)
+            example: "Estoy cansado."
+          - letter: E
+            meaning:
+              en: Emotion (how someone feels)
+              ko: 감정 (느낌)
+            example: "Está contenta."
+    contrasts:
+      - adjective: aburrido
+        ser:
+          en: "He's boring (personality trait)"
+          ko: "지루한 사람이다 (성격 특성)"
+          example: "Es aburrido — nunca dice nada interesante."
+        estar:
+          en: "He's bored (current feeling)"
+          ko: "지루해 하고 있다 (현재 감정)"
+          example: "Está aburrido porque no hay nada que hacer."
+      - adjective: listo
+        ser:
+          en: "He's clever/smart"
+          ko: "영리하다/똑똑하다"
+          example: "Es muy listo — siempre saca buenas notas."
+        estar:
+          en: "He's ready"
+          ko: "준비되어 있다"
+          example: "¿Estás listo para salir?"
+      - adjective: malo
+        ser:
+          en: "He's bad/evil"
+          ko: "나쁜 사람이다"
+          example: "Ese hombre es malo."
+        estar:
+          en: "He's sick/unwell"
+          ko: "아프다/몸이 안 좋다"
+          example: "Está malo — tiene fiebre."
+      - adjective: bueno
+        ser:
+          en: "He's good (character)"
+          ko: "좋은 사람이다 (성격)"
+          example: "Es buena persona."
+        estar:
+          en: "He looks good / it tastes good"
+          ko: "좋아 보인다 / 맛있다"
+          example: "Esta sopa está muy buena."
+      - adjective: verde
+        ser:
+          en: "It's green (color)"
+          ko: "초록색이다 (색상)"
+          example: "El coche es verde."
+        estar:
+          en: "It's unripe"
+          ko: "덜 익었다"
+          example: "El plátano está verde."
+      - adjective: vivo
+        ser:
+          en: "He's sharp/clever"
+          ko: "영리하다/눈치가 빠르다"
+          example: "Es muy vivo — entiende todo rápido."
+        estar:
+          en: "He's alive"
+          ko: "살아 있다"
+          example: "Está vivo de milagro."
+      - adjective: seguro
+        ser:
+          en: "It's safe"
+          ko: "안전하다"
+          example: "Este barrio es seguro."
+        estar:
+          en: "He's sure/certain"
+          ko: "확신하다"
+          example: "Estoy seguro de que vendrá."
+      - adjective: rico
+        ser:
+          en: "He's rich (wealthy)"
+          ko: "부자이다"
+          example: "Es rico — tiene mucho dinero."
+        estar:
+          en: "It's delicious"
+          ko: "맛있다"
+          example: "Este pastel está rico."
+      - adjective: orgulloso
+        ser:
+          en: "He's arrogant/proud (trait)"
+          ko: "거만하다/자만하다 (성격)"
+          example: "Es muy orgulloso — nunca pide ayuda."
+        estar:
+          en: "He's proud (of something specific)"
+          ko: "자랑스러워하다 (특정 일에 대해)"
+          example: "Estoy orgulloso de mi hijo."
+      - adjective: nuevo
+        ser:
+          en: "It's new (brand new)"
+          ko: "새것이다"
+          example: "El coche es nuevo."
+        estar:
+          en: "It looks/feels new (like new)"
+          ko: "새것 같다"
+          example: "El coche está como nuevo después de lavarlo."
+      - adjective: guapo
+        ser:
+          en: "He's handsome (inherently)"
+          ko: "잘생겼다 (본래)"
+          example: "Es guapo."
+        estar:
+          en: "He looks handsome (right now)"
+          ko: "지금 잘생겨 보인다"
+          example: "Hoy estás muy guapo."
+      - adjective: callado
+        ser:
+          en: "He's quiet (personality)"
+          ko: "과묵하다 (성격)"
+          example: "Es muy callado — nunca habla en clase."
+        estar:
+          en: "He's being quiet (right now)"
+          ko: "지금 조용히 하고 있다"
+          example: "Está callado porque está pensando."
+
+  # ============================================================
+  # 2. PRETERITE vs IMPERFECT
+  # ============================================================
+  preterite_vs_imperfect:
+    id: preterite_vs_imperfect
+    label:
+      en: "Preterite vs Imperfect"
+      ko: "과거형 대 불완료형"
+    category: tenses
+    cefr: A2
+    description:
+      en: "Both describe past events, but preterite focuses on completed actions while imperfect describes ongoing/habitual past states."
+      ko: "둘 다 과거 사건을 묘사하지만, 과거형은 완료된 행동에, 불완료형은 진행 중이거나 습관적인 과거 상태에 초점."
+    comparison:
+      preterite:
+        label:
+          en: "Preterite (completed)"
+          ko: "과거형 (완료)"
+        characteristics:
+          - en: "Completed action with clear beginning/end"
+            ko: "명확한 시작/끝이 있는 완료된 행동"
+          - en: "Specific number of times"
+            ko: "특정 횟수"
+          - en: "Sequence of events (narrative)"
+            ko: "사건의 연속 (내러티브)"
+          - en: "Main action that interrupts"
+            ko: "중단시키는 주요 행동"
+          - en: "Change of state or reaction"
+            ko: "상태 변화 또는 반응"
+      imperfect:
+        label:
+          en: "Imperfect (ongoing/habitual)"
+          ko: "불완료형 (진행 중/습관적)"
+        characteristics:
+          - en: "Habitual or repeated past action"
+            ko: "습관적이거나 반복적인 과거 행동"
+          - en: "Background/scene description"
+            ko: "배경/장면 묘사"
+          - en: "Ongoing action being interrupted"
+            ko: "중단당하는 진행 중인 행동"
+          - en: "Age, time, weather"
+            ko: "나이, 시간, 날씨"
+          - en: "Emotional/physical states"
+            ko: "감정/신체 상태"
+    trigger_words:
+      preterite: [ayer, anoche, el lunes pasado, una vez, de repente, en ese momento, por fin, al final]
+      imperfect: [siempre, todos los días, cada verano, a menudo, mientras, de niño, generalmente, en aquella época]
+    verbs_that_change_meaning:
+      - verb: saber
+        preterite:
+          en: "found out / learned"
+          ko: "알게 되었다"
+          example: "Supe la verdad. (I found out the truth.)"
+        imperfect:
+          en: "knew (already)"
+          ko: "(이미) 알고 있었다"
+          example: "Sabía la respuesta. (I knew the answer.)"
+      - verb: conocer
+        preterite:
+          en: "met (for the first time)"
+          ko: "처음 만났다"
+          example: "Conocí a María en la fiesta. (I met María at the party.)"
+        imperfect:
+          en: "knew / was familiar with"
+          ko: "알고 있었다 / 익숙했다"
+          example: "Conocía bien la ciudad. (I knew the city well.)"
+      - verb: querer
+        preterite:
+          en: "tried to (affirmative) / refused (negative)"
+          ko: "시도했다 (긍정) / 거부했다 (부정)"
+          example: "Quise abrir la puerta. (I tried to open the door.) / No quiso ir. (He refused to go.)"
+        imperfect:
+          en: "wanted"
+          ko: "원했다"
+          example: "Quería ir al cine. (I wanted to go to the movies.)"
+      - verb: poder
+        preterite:
+          en: "managed to / succeeded in"
+          ko: "해낼 수 있었다 / 성공했다"
+          example: "Pude escapar. (I managed to escape.)"
+        imperfect:
+          en: "was able to / could (general ability)"
+          ko: "할 수 있었다 (일반적 능력)"
+          example: "Podía nadar muy bien. (I could swim very well.)"
+      - verb: tener
+        preterite:
+          en: "got / received"
+          ko: "받았다 / 얻었다"
+          example: "Tuve una idea. (I got an idea.)"
+        imperfect:
+          en: "had / used to have"
+          ko: "가지고 있었다"
+          example: "Tenía un perro. (I had a dog.)"
+    narrative_pattern:
+      en: >
+        In storytelling, imperfect sets the scene (background) and preterite
+        advances the plot (foreground). Example: Hacía sol (imperfect — background)
+        cuando de repente empezó a llover (preterite — action).
+      ko: >
+        이야기에서 불완료형은 장면을 설정하고 (배경) 과거형은 줄거리를 진행
+        (전경). 예: Hacía sol (불완료 — 배경) cuando de repente empezó a llover
+        (과거 — 행동).
+
+  # ============================================================
+  # 3. SUBJUNCTIVE TRIGGERS
+  # ============================================================
+  subjunctive_triggers:
+    id: subjunctive_triggers
+    label:
+      en: "Subjunctive Triggers (WEIRDO)"
+      ko: "접속법 트리거 (WEIRDO)"
+    category: mood
+    cefr: B1
+    description:
+      en: "The subjunctive mood is triggered in subordinate clauses by specific categories of expressions in the main clause, remembered by the acronym WEIRDO."
+      ko: "접속법은 주절에 있는 특정 범주의 표현에 의해 종속절에서 발동되며, WEIRDO 약어로 기억."
+    weirdo_categories:
+      - letter: W
+        category:
+          en: Wishes / Wants / Will
+          ko: 바람 / 욕구 / 의지
+        verbs: [querer, desear, esperar, preferir, necesitar, pedir, exigir, insistir en, mandar, ordenar, prohibir, permitir, dejar, aconsejar, recomendar, sugerir, proponer, rogar]
+        examples:
+          - "Quiero que vengas. (I want you to come.)"
+          - "Te pido que me ayudes. (I ask you to help me.)"
+          - "Recomiendo que estudies más. (I recommend you study more.)"
+      - letter: E
+        category:
+          en: Emotions / Feelings
+          ko: 감정 / 느낌
+        verbs: [alegrarse de, sentir, lamentar, temer, tener miedo de, molestar, sorprender, gustar, encantar, odiar, preocuparse de]
+        examples:
+          - "Me alegro de que estés aquí. (I'm glad you're here.)"
+          - "Siento que no puedas venir. (I'm sorry you can't come.)"
+          - "Temo que llueva. (I'm afraid it will rain.)"
+      - letter: I
+        category:
+          en: Impersonal expressions
+          ko: 비인칭 표현
+        expressions: [es importante que, es necesario que, es posible que, es probable que, es mejor que, es una lástima que, es raro que, es increíble que, es urgente que, es bueno que, es malo que, es difícil que, es fácil que, conviene que, basta que, hace falta que]
+        examples:
+          - "Es importante que estudies. (It's important that you study.)"
+          - "Es posible que llueva. (It's possible that it rains.)"
+          - "Es una lástima que no vengas. (It's a shame you're not coming.)"
+        exception:
+          en: "Expressions of certainty do NOT trigger subjunctive: es cierto que, es verdad que, es obvio que, es evidente que, es seguro que, está claro que"
+          ko: "확실성 표현은 접속법을 유발하지 않음: es cierto que, es verdad que, es obvio que, es evidente que, es seguro que, está claro que"
+      - letter: R
+        category:
+          en: Recommendations / Requests
+          ko: 권고 / 요청
+        notes:
+          en: "Overlaps with Wishes category. Includes indirect commands."
+          ko: "바람 범주와 겹침. 간접 명령 포함."
+        examples:
+          - "El médico recomienda que descanse. (The doctor recommends he rest.)"
+          - "Te sugiero que vayas. (I suggest you go.)"
+      - letter: D
+        category:
+          en: Doubt / Denial / Disbelief
+          ko: 의심 / 부정 / 불신
+        verbs: [dudar, no creer, no pensar, no estar seguro de, negar, no parecer]
+        examples:
+          - "Dudo que sepa la respuesta. (I doubt he knows the answer.)"
+          - "No creo que sea verdad. (I don't think it's true.)"
+          - "Niego que haya hecho eso. (I deny that he did that.)"
+        contrast:
+          en: "Creer que + indicative (belief), No creer que + subjunctive (disbelief). Pensar que + indicative, No pensar que + subjunctive."
+          ko: "Creer que + 직설법 (믿음), No creer que + 접속법 (불신). Pensar que + 직설법, No pensar que + 접속법."
+      - letter: O
+        category:
+          en: Ojalá / Hoping
+          ko: "오할라 / 희망"
+        notes:
+          en: "Ojalá always triggers subjunctive. Present subjunctive for possible wishes, imperfect subjunctive for unlikely/impossible wishes."
+          ko: "Ojalá는 항상 접속법을 유발. 가능한 소망에 현재 접속법, 불가능한 소망에 불완료 접속법."
+        examples:
+          - "Ojalá venga. (I hope he comes — possible.)"
+          - "Ojalá pudiera volar. (I wish I could fly — impossible.)"
+    subjunctive_conjunctions:
+      always_subjunctive:
+        label:
+          en: "Always require subjunctive"
+          ko: "항상 접속법 필요"
+        conjunctions:
+          - conjunction: para que
+            meaning: {en: "so that / in order that", ko: "~하기 위해"}
+            example: "Te lo digo para que lo sepas."
+          - conjunction: antes de que
+            meaning: {en: "before", ko: "~하기 전에"}
+            example: "Salimos antes de que llueva."
+          - conjunction: a menos que
+            meaning: {en: "unless", ko: "~하지 않는 한"}
+            example: "Iré a menos que llueva."
+          - conjunction: sin que
+            meaning: {en: "without", ko: "~하지 않고"}
+            example: "Salió sin que nadie lo viera."
+          - conjunction: con tal (de) que
+            meaning: {en: "provided that", ko: "~하는 한"}
+            example: "Iré con tal de que vengas tú también."
+          - conjunction: en caso de que
+            meaning: {en: "in case", ko: "~할 경우에"}
+            example: "Lleva un paraguas en caso de que llueva."
+          - conjunction: a fin de que
+            meaning: {en: "so that / in order that", ko: "~하기 위해"}
+            example: "Estudia a fin de que apruebes."
+      indicative_or_subjunctive:
+        label:
+          en: "Indicative (known/past) or Subjunctive (unknown/future)"
+          ko: "직설법 (알려진/과거) 또는 접속법 (알려지지 않은/미래)"
+        conjunctions:
+          - conjunction: cuando
+            meaning: {en: "when", ko: "~할 때"}
+            indicative: "Cuando llegó, comimos. (When he arrived, we ate.)"
+            subjunctive: "Cuando llegue, comeremos. (When he arrives, we'll eat.)"
+          - conjunction: hasta que
+            meaning: {en: "until", ko: "~할 때까지"}
+            indicative: "Esperé hasta que llegó. (I waited until he arrived.)"
+            subjunctive: "Esperaré hasta que llegue. (I'll wait until he arrives.)"
+          - conjunction: después de que
+            meaning: {en: "after", ko: "~한 후에"}
+            indicative: "Salí después de que terminó. (I left after it ended.)"
+            subjunctive: "Saldré después de que termine. (I'll leave after it ends.)"
+          - conjunction: aunque
+            meaning: {en: "although / even if", ko: "비록 ~이지만 / ~이더라도"}
+            indicative: "Aunque llueve, salgo. (Although it's raining, I'm going out — fact.)"
+            subjunctive: "Aunque llueva, saldré. (Even if it rains, I'll go out — hypothetical.)"
+
+  # ============================================================
+  # 4. SI CLAUSES (Conditional Sentences)
+  # ============================================================
+  si_clauses:
+    id: si_clauses
+    label:
+      en: "SI Clauses (If Clauses)"
+      ko: "SI절 (조건절)"
+    category: conditionals
+    cefr: B1
+    description:
+      en: "Spanish conditional sentences follow strict tense sequences. Never use present subjunctive after SI."
+      ko: "스페인어 조건문은 엄격한 시제 순서를 따름. SI 뒤에 현재 접속법을 절대 사용하지 않음."
+    types:
+      - type: 1
+        name:
+          en: "Real / Possible (Present/Future)"
+          ko: "현실적 / 가능한 (현재/미래)"
+        cefr: A2
+        formula: "Si + present indicative → present / future / imperative"
+        description:
+          en: "For conditions that are likely or possible"
+          ko: "가능하거나 사실적인 조건"
+        examples:
+          - si_clause: "Si llueve"
+            result: "me quedo en casa."
+            translation:
+              en: "If it rains, I stay home."
+              ko: "비가 오면, 집에 있어."
+          - si_clause: "Si estudias"
+            result: "aprobarás."
+            translation:
+              en: "If you study, you'll pass."
+              ko: "공부하면, 합격할 거야."
+          - si_clause: "Si tienes hambre"
+            result: "come algo."
+            translation:
+              en: "If you're hungry, eat something."
+              ko: "배고프면, 뭔가 먹어."
+      - type: 2
+        name:
+          en: "Unreal / Hypothetical (Present)"
+          ko: "비현실적 / 가정적 (현재)"
+        cefr: B2
+        formula: "Si + imperfect subjunctive → conditional"
+        description:
+          en: "For conditions that are unlikely, hypothetical, or contrary to present fact"
+          ko: "가능성이 낮거나, 가정적이거나, 현재 사실에 반하는 조건"
+        examples:
+          - si_clause: "Si tuviera dinero"
+            result: "viajaría por el mundo."
+            translation:
+              en: "If I had money, I would travel the world."
+              ko: "돈이 있으면, 세계 여행을 할 텐데."
+          - si_clause: "Si fuera tú"
+            result: "estudiaría más."
+            translation:
+              en: "If I were you, I would study more."
+              ko: "내가 너라면, 더 공부할 텐데."
+      - type: 3
+        name:
+          en: "Unreal / Impossible (Past)"
+          ko: "비현실적 / 불가능한 (과거)"
+        cefr: C1
+        formula: "Si + pluperfect subjunctive → conditional perfect"
+        description:
+          en: "For conditions that are impossible because they refer to the past"
+          ko: "과거를 언급하기 때문에 불가능한 조건"
+        examples:
+          - si_clause: "Si hubiera estudiado"
+            result: "habría aprobado."
+            translation:
+              en: "If I had studied, I would have passed."
+              ko: "공부했더라면, 합격했을 텐데."
+          - si_clause: "Si hubiera sabido"
+            result: "habría ido."
+            translation:
+              en: "If I had known, I would have gone."
+              ko: "알았더라면, 갔을 텐데."
+    important_rule:
+      en: "NEVER use present subjunctive after SI. This is a common error. Si tengo (correct) NOT Si tenga (wrong). Si tuviera (correct for hypothetical)."
+      ko: "SI 뒤에 현재 접속법을 절대 사용하지 않음. 흔한 오류. Si tengo (맞음) NOT Si tenga (틀림). Si tuviera (가정에 맞음)."
+
+  # ============================================================
+  # 5. POR vs PARA
+  # ============================================================
+  por_vs_para:
+    id: por_vs_para
+    label:
+      en: "POR vs PARA"
+      ko: "POR vs PARA"
+    category: prepositions
+    cefr: A2
+    description:
+      en: "Both can translate as 'for' in English, but they have distinct uses."
+      ko: "둘 다 영어로 'for'로 번역될 수 있지만, 사용법이 다름."
+    por_uses:
+      label:
+        en: "POR — cause, exchange, movement through"
+        ko: "POR — 원인, 교환, 통과"
+      rules:
+        - rule:
+            en: "Cause / Reason / Motive (because of)"
+            ko: "원인 / 이유 / 동기 (~때문에)"
+          example: "Llegué tarde por el tráfico. (I arrived late because of traffic.)"
+        - rule:
+            en: "Duration of time (for a period)"
+            ko: "시간의 지속 (기간 동안)"
+          example: "Estudié por dos horas. (I studied for two hours.)"
+        - rule:
+            en: "Exchange / Substitution"
+            ko: "교환 / 대체"
+          example: "Pagué diez euros por el libro. (I paid ten euros for the book.)"
+        - rule:
+            en: "Movement through / along / around"
+            ko: "통과 / ~를 따라 / 주변"
+          example: "Caminamos por el parque. (We walked through the park.)"
+        - rule:
+            en: "Means of communication / transportation"
+            ko: "통신 / 교통 수단"
+          example: "Te llamo por teléfono. (I'll call you by phone.)"
+        - rule:
+            en: "Per / Rate"
+            ko: "~당 / 비율"
+          example: "Voy tres veces por semana. (I go three times per week.)"
+        - rule:
+            en: "On behalf of / In favor of"
+            ko: "~을 대신하여 / ~을 위해"
+          example: "Voté por ella. (I voted for her.)"
+        - rule:
+            en: "Agent in passive voice (by)"
+            ko: "수동태의 행위자 (~에 의해)"
+          example: "El libro fue escrito por Cervantes. (The book was written by Cervantes.)"
+      fixed_expressions:
+        - "por ejemplo (for example)"
+        - "por eso (that's why)"
+        - "por favor (please)"
+        - "por fin (finally)"
+        - "por lo menos (at least)"
+        - "por supuesto (of course)"
+        - "por lo general (generally)"
+        - "por cierto (by the way)"
+    para_uses:
+      label:
+        en: "PARA — purpose, destination, deadline, recipient"
+        ko: "PARA — 목적, 목적지, 기한, 수령인"
+      rules:
+        - rule:
+            en: "Purpose / Goal (in order to)"
+            ko: "목적 / 목표 (~하기 위해)"
+          example: "Estudio para aprender. (I study in order to learn.)"
+        - rule:
+            en: "Recipient (for someone)"
+            ko: "수령인 (~를 위해)"
+          example: "Este regalo es para ti. (This gift is for you.)"
+        - rule:
+            en: "Destination (toward)"
+            ko: "목적지 (~를 향해)"
+          example: "Salgo para Madrid. (I leave for Madrid.)"
+        - rule:
+            en: "Deadline / Due date (by a certain time)"
+            ko: "마감 / 기한 (~까지)"
+          example: "El informe es para el lunes. (The report is due by Monday.)"
+        - rule:
+            en: "Comparison (for / considering)"
+            ko: "비교 (~에 비해)"
+          example: "Para un niño, habla muy bien. (For a child, he speaks very well.)"
+        - rule:
+            en: "Opinion (for someone / in someone's view)"
+            ko: "의견 (~에게 / ~의 관점에서)"
+          example: "Para mí, es fácil. (For me, it's easy.)"
+        - rule:
+            en: "Employment (to work for)"
+            ko: "고용 (~를 위해 일하다)"
+          example: "Trabajo para una empresa grande. (I work for a big company.)"
+    contrast_examples:
+      - context:
+          en: "FOR (cause vs purpose)"
+          ko: "FOR (원인 vs 목적)"
+        por: "Corro por miedo. (I run because of fear — cause.)"
+        para: "Corro para estar en forma. (I run to stay fit — purpose.)"
+      - context:
+          en: "FOR (exchange vs recipient)"
+          ko: "FOR (교환 vs 수령인)"
+        por: "Cambié mi coche por el tuyo. (I exchanged my car for yours.)"
+        para: "Compré un coche para mi hija. (I bought a car for my daughter.)"
+
+  # ============================================================
+  # 6. PASSIVE VOICE
+  # ============================================================
+  passive_voice:
+    id: passive_voice
+    label:
+      en: "Passive Voice"
+      ko: "수동태"
+    category: voice
+    cefr: B1
+    description:
+      en: "Spanish has two passive constructions: the SER passive (true passive) and the SE passive (more common in everyday speech)."
+      ko: "스페인어에는 두 가지 수동 구문이 있음: SER 수동태 (진정한 수동태)와 SE 수동태 (일상 대화에서 더 흔함)."
+    ser_passive:
+      label:
+        en: "SER Passive (Passive with SER)"
+        ko: "SER 수동태"
+      formation:
+        en: "Subject + SER (conjugated) + past participle (agrees in gender/number with subject) + por + agent"
+        ko: "주어 + SER (활용) + 과거분사 (주어와 성/수 일치) + por + 행위자"
+      gender_number_agreement:
+        en: >
+          The past participle MUST agree with the subject in gender and number:
+          -o (masc. sing.), -a (fem. sing.), -os (masc. pl.), -as (fem. pl.)
+        ko: >
+          과거분사는 주어와 성/수가 반드시 일치해야 함:
+          -o (남성 단수), -a (여성 단수), -os (남성 복수), -as (여성 복수)
+      examples:
+        - active: "Cervantes escribió el libro."
+          passive: "El libro fue escrito por Cervantes."
+          translation:
+            en: "The book was written by Cervantes."
+            ko: "그 책은 세르반테스에 의해 쓰여졌다."
+        - active: "Los estudiantes leyeron las novelas."
+          passive: "Las novelas fueron leídas por los estudiantes."
+          translation:
+            en: "The novels were read by the students."
+            ko: "그 소설들은 학생들에 의해 읽혀졌다."
+      notes:
+        en: "The SER passive is more formal and more common in written Spanish, journalism, and academic texts. Less used in everyday conversation."
+        ko: "SER 수동태는 더 격식체이며 서면 스페인어, 저널리즘, 학술 텍스트에서 더 흔함. 일상 대화에서는 덜 사용."
+    se_passive:
+      label:
+        en: "SE Passive (Passive SE / Impersonal SE)"
+        ko: "SE 수동태 (수동 SE / 비인칭 SE)"
+      formation:
+        en: "SE + verb (3rd person singular or plural, agrees with the grammatical subject)"
+        ko: "SE + 동사 (3인칭 단수 또는 복수, 문법적 주어와 일치)"
+      types:
+        - type:
+            en: "Passive SE (subject is a thing)"
+            ko: "수동 SE (주어가 사물)"
+          formation: "SE + verb (agrees with subject) + subject"
+          examples:
+            - "Se habla español aquí. (Spanish is spoken here.)"
+            - "Se venden coches. (Cars are sold. — plural verb, plural subject.)"
+            - "Se abrió la puerta. (The door was opened.)"
+        - type:
+            en: "Impersonal SE (no specific subject)"
+            ko: "비인칭 SE (특정 주어 없음)"
+          formation: "SE + verb (always 3rd person singular)"
+          examples:
+            - "Se dice que va a llover. (It is said that it's going to rain.)"
+            - "Se puede entrar por aquí. (One can enter through here.)"
+            - "¿Cómo se dice 'hello' en español? (How do you say 'hello' in Spanish?)"
+      notes:
+        en: "SE passive is much more common than SER passive in spoken Spanish. When the subject is a person, use impersonal SE (singular) to avoid ambiguity with reflexive SE."
+        ko: "SE 수동태가 구어 스페인어에서 SER 수동태보다 훨씬 더 흔함. 주어가 사람일 때, 재귀 SE와의 혼동을 피하기 위해 비인칭 SE (단수) 사용."
+
+  # ============================================================
+  # 7. STEM CHANGES
+  # ============================================================
+  stem_changes:
+    id: stem_changes
+    label:
+      en: "Stem-Changing Verbs"
+      ko: "어간 변화 동사"
+    category: verbs
+    cefr: A2
+    description:
+      en: >
+        Certain verbs change their stem vowel when conjugated. The change
+        follows a "boot pattern" (bota) in the present tense: it affects
+        all forms EXCEPT nosotros and vosotros, which retain the original
+        vowel. The affected forms visually form a boot/shoe shape in the
+        conjugation chart.
+      ko: >
+        특정 동사들은 활용 시 어간 모음이 변함. 이 변화는 현재 시제에서
+        "부트 패턴" (bota)을 따름: nosotros와 vosotros를 제외한 모든
+        형태에 영향을 미치며, 이 두 형태는 원래 모음을 유지. 영향받는
+        형태들은 활용표에서 시각적으로 부츠/신발 모양을 형성.
+    boot_pattern:
+      en: |
+        ┌─────────┬─────────┐
+        │ yo      │nosotros │
+        │ CHANGES │ no change│
+        ├─────────┼─────────┤
+        │ tú      │vosotros │
+        │ CHANGES │ no change│
+        ├─────────┼─────────┤
+        │ él      │ ellos   │
+        │ CHANGES │ CHANGES │
+        └─────────┴─────────┘
+      ko: |
+        ┌──────────┬──────────┐
+        │ yo       │nosotros  │
+        │ 변화     │ 변화 없음│
+        ├──────────┼──────────┤
+        │ tú       │vosotros  │
+        │ 변화     │ 변화 없음│
+        ├──────────┼──────────┤
+        │ él       │ ellos    │
+        │ 변화     │ 변화     │
+        └──────────┴──────────┘
+    types:
+      - change: "e→ie"
+        description:
+          en: "The stem vowel 'e' changes to 'ie' under stress"
+          ko: "강세를 받을 때 어간 모음 'e'가 'ie'로 변화"
+        applies_to: ["-AR", "-ER", "-IR"]
+        present_tense_only:
+          en: "For -AR and -ER verbs, stem change occurs ONLY in the present tense (indicative and subjunctive)."
+          ko: "-AR와 -ER 동사의 경우, 어간 변화는 현재 시제 (직설법과 접속법)에서만 발생."
+        common_verbs:
+          - {verb: pensar, meaning: {en: to think, ko: 생각하다}, group: "-AR"}
+          - {verb: cerrar, meaning: {en: to close, ko: 닫다}, group: "-AR"}
+          - {verb: comenzar, meaning: {en: to begin, ko: 시작하다}, group: "-AR"}
+          - {verb: despertar, meaning: {en: to wake up, ko: 깨우다}, group: "-AR"}
+          - {verb: empezar, meaning: {en: to start, ko: 시작하다}, group: "-AR"}
+          - {verb: entender, meaning: {en: to understand, ko: 이해하다}, group: "-ER"}
+          - {verb: perder, meaning: {en: to lose, ko: 잃다}, group: "-ER"}
+          - {verb: querer, meaning: {en: to want/love, ko: 원하다/사랑하다}, group: "-ER"}
+          - {verb: preferir, meaning: {en: to prefer, ko: 선호하다}, group: "-IR"}
+          - {verb: sentir, meaning: {en: to feel, ko: 느끼다}, group: "-IR"}
+          - {verb: mentir, meaning: {en: to lie, ko: 거짓말하다}, group: "-IR"}
+          - {verb: divertir, meaning: {en: to amuse, ko: 즐겁게 하다}, group: "-IR"}
+        ir_verb_note:
+          en: "-IR verbs with e→ie also change e→i in preterite 3rd person (él/ellos), gerund, and all present subjunctive nosotros/vosotros forms."
+          ko: "e→ie -IR 동사는 과거형 3인칭 (él/ellos), 현재분사, 그리고 현재 접속법 nosotros/vosotros에서 e→i 변화도 함."
+
+      - change: "o→ue"
+        description:
+          en: "The stem vowel 'o' changes to 'ue' under stress"
+          ko: "강세를 받을 때 어간 모음 'o'가 'ue'로 변화"
+        applies_to: ["-AR", "-ER", "-IR"]
+        special_case:
+          en: "JUGAR is the only u→ue stem-changing verb: juego, juegas, juega, jugamos, jugáis, juegan."
+          ko: "JUGAR는 유일한 u→ue 어간 변화 동사: juego, juegas, juega, jugamos, jugáis, juegan."
+        common_verbs:
+          - {verb: poder, meaning: {en: to be able to, ko: 할 수 있다}, group: "-ER"}
+          - {verb: volver, meaning: {en: to return, ko: 돌아오다}, group: "-ER"}
+          - {verb: dormir, meaning: {en: to sleep, ko: 자다}, group: "-IR"}
+          - {verb: morir, meaning: {en: to die, ko: 죽다}, group: "-IR"}
+          - {verb: encontrar, meaning: {en: to find, ko: 찾다}, group: "-AR"}
+          - {verb: contar, meaning: {en: to count/tell, ko: 세다/이야기하다}, group: "-AR"}
+          - {verb: costar, meaning: {en: to cost, ko: 비용이 들다}, group: "-AR"}
+          - {verb: recordar, meaning: {en: to remember, ko: 기억하다}, group: "-AR"}
+          - {verb: almorzar, meaning: {en: to have lunch, ko: 점심을 먹다}, group: "-AR"}
+          - {verb: mover, meaning: {en: to move, ko: 움직이다}, group: "-ER"}
+          - {verb: llover, meaning: {en: to rain, ko: 비가 오다}, group: "-ER"}
+        ir_verb_note:
+          en: "-IR verbs with o→ue also change o→u in preterite 3rd person (él/ellos), gerund, and present subjunctive nosotros/vosotros forms."
+          ko: "o→ue -IR 동사는 과거형 3인칭 (él/ellos), 현재분사, 그리고 현재 접속법 nosotros/vosotros에서 o→u 변화도 함."
+
+      - change: "e→i"
+        description:
+          en: "The stem vowel 'e' changes to 'i' under stress"
+          ko: "강세를 받을 때 어간 모음 'e'가 'i'로 변화"
+        applies_to: ["-IR"]
+        note:
+          en: "This pattern occurs ONLY in -IR verbs. The change appears in present boot pattern, preterite 3rd person, gerund, AND all subjunctive forms."
+          ko: "이 패턴은 -IR 동사에서만 발생. 변화는 현재 부트 패턴, 과거형 3인칭, 현재분사, 그리고 모든 접속법 형태에서 나타남."
+        common_verbs:
+          - {verb: pedir, meaning: {en: to ask for, ko: 요청하다}, group: "-IR"}
+          - {verb: servir, meaning: {en: to serve, ko: 봉사하다/서빙하다}, group: "-IR"}
+          - {verb: seguir, meaning: {en: to follow/continue, ko: 따르다/계속하다}, group: "-IR"}
+          - {verb: repetir, meaning: {en: to repeat, ko: 반복하다}, group: "-IR"}
+          - {verb: vestir, meaning: {en: to dress, ko: 옷을 입다}, group: "-IR"}
+          - {verb: competir, meaning: {en: to compete, ko: 경쟁하다}, group: "-IR"}
+          - {verb: conseguir, meaning: {en: to get/obtain, ko: 얻다/획득하다}, group: "-IR"}
+          - {verb: reír, meaning: {en: to laugh, ko: 웃다}, group: "-IR"}
+          - {verb: sonreír, meaning: {en: to smile, ko: 미소짓다}, group: "-IR"}
+    summary_table:
+      en: |
+        Change   | Tenses affected                                      | Verb groups
+        ---------|------------------------------------------------------|------------
+        e→ie     | Present (boot), Subj. present (boot + nos/vos for -IR)| -AR, -ER, -IR
+        o→ue     | Present (boot), Subj. present (boot + nos/vos for -IR)| -AR, -ER, -IR
+        e→i      | Present (boot), Preterite (3rd), Gerund, All Subj.   | -IR only
+        o→u      | Preterite (3rd), Gerund, Subj. nos/vos               | -IR only (dormir, morir)
+      ko: |
+        변화     | 영향받는 시제                                          | 동사 그룹
+        ---------|------------------------------------------------------|------------
+        e→ie     | 현재 (부트), 접속법 현재 (부트 + -IR nos/vos)          | -AR, -ER, -IR
+        o→ue     | 현재 (부트), 접속법 현재 (부트 + -IR nos/vos)          | -AR, -ER, -IR
+        e→i      | 현재 (부트), 과거 (3인칭), 현재분사, 모든 접속법       | -IR만
+        o→u      | 과거 (3인칭), 현재분사, 접속법 nos/vos                 | -IR만 (dormir, morir)
