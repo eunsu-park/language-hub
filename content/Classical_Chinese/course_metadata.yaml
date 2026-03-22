@@ -1,0 +1,64 @@
+language:
+  code: lzh
+  name:
+    en: Classical Chinese
+    ko: 한문
+    native: 漢文
+  writing_system: cjk
+  script_direction: ltr
+  proficiency_framework: hanja_level
+  has_conjugation: false
+  has_tones: false
+  has_character_writing: true
+  has_gendered_nouns: false
+  has_case_system: false
+  word_key: classical_chinese
+  tts_locale: ko-KR
+  accent_chars: []
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    hanja_level: L5
+    label:
+      en: Foundations
+      ko: 기초
+    description:
+      en: "Hanja origins, radicals, stroke order, basic characters, simple compounds"
+      ko: "한자의 기원, 부수, 필순, 기본 한자, 간단한 한자어"
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    hanja_level: L4
+    label:
+      en: Elementary
+      ko: 초급
+    description:
+      en: "Function words, sentence patterns, negation, questions, Korean reading methods"
+      ko: "허사, 문형, 부정문, 의문문, 훈독과 음독"
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    hanja_level: L3
+    label:
+      en: Intermediate
+      ko: 중급
+    description:
+      en: "Classical text reading, Confucian classics, historical texts, Tang poetry, rhetoric"
+      ko: "고전 원문 독해, 유교 경전, 역사서, 당시, 수사법"
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    hanja_level: L2
+    label:
+      en: Advanced
+      ko: 고급
+    description:
+      en: "Advanced syntax, Buddhist and Daoist texts, Korean hanmun literature, idioms, advanced poetry"
+      ko: "고급 구문, 불교·도교 문헌, 한국 한문 문학, 사자성어, 고급 한시"
+  - id: mastery
+    lessons: ["21", "22", "23", "24", "25"]
+    hanja_level: L1
+    label:
+      en: Mastery
+      ko: 전문
+    description:
+      en: "Philosophical texts, legal documents, comparative reading, composition, exam preparation"
+      ko: "철학 원전, 법률·행정 문서, 비교 독해, 한문 작문, 시험 대비"
