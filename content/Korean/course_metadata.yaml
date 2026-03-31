@@ -1,0 +1,64 @@
+language:
+  code: ko
+  name:
+    en: Korean
+    ko: 한국어
+    native: 한국어
+  writing_system: hangul
+  script_direction: ltr
+  proficiency_framework: topik
+  has_conjugation: true
+  has_tones: false
+  has_character_writing: true
+  has_gendered_nouns: false
+  has_case_system: false
+  word_key: korean
+  tts_locale: ko-KR
+  accent_chars: []
+
+stages:
+  - id: foundations
+    lessons: ["01", "02", "03", "04", "05"]
+    topik: TOPIK_I_1
+    label:
+      en: Foundations
+      ko: 기초
+    description:
+      en: "Hangul alphabet, greetings, sentence structure, numbers, present/past tense"
+      ko: "한글, 인사, 문장 구조, 숫자, 현재/과거 시제"
+  - id: elementary
+    lessons: ["06", "07", "08", "09", "10"]
+    topik: TOPIK_I_2
+    label:
+      en: Elementary
+      ko: 초급
+    description:
+      en: "Adjectives, particles, verb endings, daily vocabulary, social relationships"
+      ko: "형용사, 조사, 어미, 일상 어휘, 사회적 관계"
+  - id: intermediate
+    lessons: ["11", "12", "13", "14", "15"]
+    topik: TOPIK_II_3
+    label:
+      en: Intermediate
+      ko: 중급
+    description:
+      en: "Irregular conjugation, connective endings, indirect speech, honorifics, complex sentences"
+      ko: "불규칙 활용, 연결 어미, 간접 화법, 경어, 복합문"
+  - id: advanced
+    lessons: ["16", "17", "18", "19", "20"]
+    topik: TOPIK_II_4
+    label:
+      en: Advanced
+      ko: 고급
+    description:
+      en: "Advanced grammar, reading comprehension, Hanja, idioms, thematic vocabulary"
+      ko: "고급 문법, 독해, 한자, 관용 표현, 주제별 어휘"
+  - id: practical
+    lessons: ["21", "22", "23", "24", "25"]
+    topik: TOPIK_II_5
+    label:
+      en: Practical Application
+      ko: 실전 적용
+    description:
+      en: "Business Korean, writing, culture, media, TOPIK preparation"
+      ko: "비즈니스 한국어, 작문, 문화, 미디어, TOPIK 대비"
