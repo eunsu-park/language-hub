@@ -1,0 +1,699 @@
+lesson: 11_Verb_Forms_and_Conjugation
+lesson_number: 11
+jlpt: N3
+categories:
+- id: potential_verbs
+  label:
+    en: Potential Verbs
+    ko: 가능형 동사
+  type: vocabulary
+  words:
+  - japanese: 読める
+    reading: よめる
+    translation:
+      en: can read (potential form)
+      ko: 읽을 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 読む (yomu). Group 1: む → める"
+      ko: "読む (yomu)의 가능형. 1그룹: む → める"
+  - japanese: 書ける
+    reading: かける
+    translation:
+      en: can write (potential form)
+      ko: 쓸 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 書く (kaku). Group 1: く → ける"
+      ko: "書く (kaku)의 가능형. 1그룹: く → ける"
+  - japanese: 話せる
+    reading: はなせる
+    translation:
+      en: can speak (potential form)
+      ko: 말할 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 話す (hanasu). Group 1: す → せる"
+      ko: "話す (hanasu)의 가능형. 1그룹: す → せる"
+  - japanese: 泳げる
+    reading: およげる
+    translation:
+      en: can swim (potential form)
+      ko: 수영할 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 泳ぐ (oyogu). Group 1: ぐ → げる"
+      ko: "泳ぐ (oyogu)의 가능형. 1그룹: ぐ → げる"
+  - japanese: 食べられる
+    reading: たべられる
+    translation:
+      en: can eat (potential form)
+      ko: 먹을 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 食べる (taberu). Group 2: る → られる. Colloquial: 食べれる (ra-nuki)"
+      ko: "食べる (taberu)의 가능형. 2그룹: る → られる. 구어: 食べれる (ら抜き)"
+  - japanese: 見られる
+    reading: みられる
+    translation:
+      en: can see (potential form)
+      ko: 볼 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 見る (miru). Group 2: る → られる. Colloquial: 見れる (ra-nuki)"
+      ko: "見る (miru)의 가능형. 2그룹: る → られる. 구어: 見れる (ら抜き)"
+  - japanese: 起きられる
+    reading: おきられる
+    translation:
+      en: can wake up (potential form)
+      ko: 일어날 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 起きる (okiru). Group 2: る → られる"
+      ko: "起きる (okiru)의 가능형. 2그룹: る → られる"
+  - japanese: できる
+    reading: null
+    translation:
+      en: can do (potential form of する)
+      ko: 할 수 있다 (する의 가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular potential of する. A completely different word, not a conjugation."
+      ko: "する의 불규칙 가능형. 활용이 아닌 완전히 다른 단어."
+  - japanese: 来られる
+    reading: こられる
+    translation:
+      en: can come (potential form of 来る)
+      ko: 올 수 있다 (来る의 가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular potential of 来る (kuru)."
+      ko: "来る (kuru)의 불규칙 가능형."
+  - japanese: 帰れる
+    reading: かえれる
+    translation:
+      en: can return (potential form)
+      ko: 돌아갈 수 있다 (가능형)
+    gender: null
+    plural: null
+    notes:
+      en: "Potential form of 帰る (kaeru). Disguised Godan verb — Group 1, not Group 2."
+      ko: "帰る (kaeru)의 가능형. 위장 고단 동사 — 2그룹이 아닌 1그룹."
+  - japanese: 飲める
+    reading: のめる
+    translation:
+      en: can drink (potential form)
+      ko: 마실 수 있다 (가능형)
+    gender: null
+    plural: null
+  - japanese: 走れる
+    reading: はしれる
+    translation:
+      en: can run (potential form)
+      ko: 달릴 수 있다 (가능형)
+    gender: null
+    plural: null
+  - japanese: 聞ける
+    reading: きける
+    translation:
+      en: can hear / can ask (potential form)
+      ko: 들을 수 있다 / 물을 수 있다 (가능형)
+    gender: null
+    plural: null
+  - japanese: 立てる
+    reading: たてる
+    translation:
+      en: can stand (potential form of 立つ)
+      ko: 설 수 있다 (立つ의 가능형)
+    gender: null
+    plural: null
+  - japanese: 出られる
+    reading: でられる
+    translation:
+      en: can go out (potential form)
+      ko: 나갈 수 있다 (가능형)
+    gender: null
+    plural: null
+- id: passive_verbs
+  label:
+    en: Passive Verbs
+    ko: 수동형 동사
+  type: vocabulary
+  words:
+  - japanese: 書かれる
+    reading: かかれる
+    translation:
+      en: to be written (passive form)
+      ko: 쓰여지다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 書く (kaku). Group 1: く → かれる"
+      ko: "書く (kaku)의 수동형. 1그룹: く → かれる"
+  - japanese: 読まれる
+    reading: よまれる
+    translation:
+      en: to be read (passive form)
+      ko: 읽혀지다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 読む (yomu). Group 1: む → まれる"
+      ko: "読む (yomu)의 수동형. 1그룹: む → まれる"
+  - japanese: 呼ばれる
+    reading: よばれる
+    translation:
+      en: to be called (passive form)
+      ko: 불려지다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 呼ぶ (yobu). Group 1: ぶ → ばれる"
+      ko: "呼ぶ (yobu)의 수동형. 1그룹: ぶ → ばれる"
+  - japanese: 言われる
+    reading: いわれる
+    translation:
+      en: to be said/told (passive form)
+      ko: 말해지다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 言う (iu). Group 1: う → われる"
+      ko: "言う (iu)의 수동형. 1그룹: う → われる"
+  - japanese: 褒められる
+    reading: ほめられる
+    translation:
+      en: to be praised (passive form)
+      ko: 칭찬받다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 褒める (homeru). Group 2: る → られる"
+      ko: "褒める (homeru)의 수동형. 2그룹: る → られる"
+  - japanese: される
+    reading: null
+    translation:
+      en: to be done (passive form of する)
+      ko: 되다 (する의 수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular passive of する."
+      ko: "する의 불규칙 수동형."
+  - japanese: 盗まれる
+    reading: ぬすまれる
+    translation:
+      en: to be stolen (passive form)
+      ko: 도둑맞다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 盗む (nusumu). Often used with indirect passive (adversity)."
+      ko: "盗む (nusumu)의 수동형. 간접 수동(피해 수동)에 자주 사용."
+  - japanese: 踏まれる
+    reading: ふまれる
+    translation:
+      en: to be stepped on (passive form)
+      ko: 밟히다 (수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 踏む (fumu). Common in indirect passive: 足を踏まれた."
+      ko: "踏む (fumu)의 수동형. 간접 수동에서 자주 사용: 足を踏まれた."
+  - japanese: 尊敬される
+    reading: そんけいされる
+    translation:
+      en: to be respected
+      ko: 존경받다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive of 尊敬する. 彼は皆に尊敬されている (He is respected by everyone)."
+      ko: "尊敬する의 수동형. 彼は皆に尊敬されている (그는 모두에게 존경받고 있다)."
+  - japanese: 降られる
+    reading: ふられる
+    translation:
+      en: to get rained on (adversity passive)
+      ko: 비를 맞다 (피해 수동)
+    gender: null
+    plural: null
+    notes:
+      en: "Indirect passive of 降る (furu). Expresses being negatively affected by rain."
+      ko: "降る (furu)의 간접 수동형. 비에 의한 피해를 표현."
+  - japanese: 怒られる
+    reading: おこられる
+    translation:
+      en: to be scolded (passive form)
+      ko: 혼나다 (수동형)
+    gender: null
+    plural: null
+  - japanese: 壊される
+    reading: こわされる
+    translation:
+      en: to be destroyed (passive form)
+      ko: 부서지다 (수동형)
+    gender: null
+    plural: null
+  - japanese: 叩かれる
+    reading: たたかれる
+    translation:
+      en: to be hit / to be criticized (passive form)
+      ko: 맞다 / 비판받다 (수동형)
+    gender: null
+    plural: null
+  - japanese: 笑われる
+    reading: わらわれる
+    translation:
+      en: to be laughed at (passive form)
+      ko: 웃음거리가 되다 (수동형)
+    gender: null
+    plural: null
+  - japanese: 選ばれる
+    reading: えらばれる
+    translation:
+      en: to be chosen / to be elected (passive form)
+      ko: 선택되다 / 뽑히다 (수동형)
+    gender: null
+    plural: null
+- id: causative_verbs
+  label:
+    en: Causative Verbs
+    ko: 사역형 동사
+  type: vocabulary
+  words:
+  - japanese: 食べさせる
+    reading: たべさせる
+    translation:
+      en: to make/let someone eat (causative form)
+      ko: 먹이다/먹게 하다 (사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 食べる (taberu). Group 2: る → させる"
+      ko: "食べる (taberu)의 사역형. 2그룹: る → させる"
+  - japanese: 書かせる
+    reading: かかせる
+    translation:
+      en: to make/let someone write (causative form)
+      ko: 쓰게 하다 (사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 書く (kaku). Group 1: く → かせる"
+      ko: "書く (kaku)의 사역형. 1그룹: く → かせる"
+  - japanese: 読ませる
+    reading: よませる
+    translation:
+      en: to make/let someone read (causative form)
+      ko: 읽게 하다 (사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 読む (yomu). Group 1: む → ませる"
+      ko: "読む (yomu)의 사역형. 1그룹: む → ませる"
+  - japanese: 待たせる
+    reading: またせる
+    translation:
+      en: to make someone wait (causative form)
+      ko: 기다리게 하다 (사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 待つ (matsu). Group 1: つ → たせる"
+      ko: "待つ (matsu)의 사역형. 1그룹: つ → たせる"
+  - japanese: 走らせる
+    reading: はしらせる
+    translation:
+      en: to make someone run (causative form)
+      ko: 달리게 하다 (사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative of 走る (hashiru). Group 1: る → らせる. Uses を for compulsion."
+      ko: "走る (hashiru)의 사역형. 1그룹: る → らせる. 강제는 を 사용."
+  - japanese: させる
+    reading: null
+    translation:
+      en: to make/let someone do (causative form of する)
+      ko: 시키다/하게 하다 (する의 사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular causative of する."
+      ko: "する의 불규칙 사역형."
+  - japanese: 来させる
+    reading: こさせる
+    translation:
+      en: to make/let someone come (causative form of 来る)
+      ko: 오게 하다 (来る의 사역형)
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular causative of 来る (kuru)."
+      ko: "来る (kuru)의 불규칙 사역형."
+  - japanese: 食べさせられる
+    reading: たべさせられる
+    translation:
+      en: to be made to eat (causative-passive form)
+      ko: 억지로 먹게 되다 (사역수동형)
+    gender: null
+    plural: null
+    notes:
+      en: "Causative-passive of 食べる. Expresses being forced to eat."
+      ko: "食べる의 사역수동형. 억지로 먹게 되는 것을 표현."
+  - japanese: 飲まされる
+    reading: のまされる
+    translation:
+      en: to be made to drink (shortened causative-passive)
+      ko: 억지로 마시게 되다 (사역수동 축약형)
+    gender: null
+    plural: null
+    notes:
+      en: "Shortened causative-passive of 飲む. Full form: 飲ませられる."
+      ko: "飲む의 사역수동 축약형. 전체 형태: 飲ませられる."
+  - japanese: 待たされる
+    reading: またされる
+    translation:
+      en: to be made to wait (shortened causative-passive)
+      ko: 기다리게 되다 (사역수동 축약형)
+    gender: null
+    plural: null
+    notes:
+      en: "Shortened causative-passive of 待つ. Full form: 待たせられる."
+      ko: "待つ의 사역수동 축약형. 전체 형태: 待たせられる."
+  - japanese: させてください
+    reading: null
+    translation:
+      en: please let me (do)
+      ko: ~하게 해 주세요
+    gender: null
+    plural: null
+    notes:
+      en: "Polite request using causative て-form + ください. E.g., 説明させてください."
+      ko: "사역 て형 + ください를 사용한 정중한 요청. 예: 説明させてください."
+  - japanese: 泣かせる
+    reading: なかせる
+    translation:
+      en: to make someone cry (causative form)
+      ko: 울리다 (사역형)
+    gender: null
+    plural: null
+  - japanese: 歌わせる
+    reading: うたわせる
+    translation:
+      en: to make/let someone sing (causative form)
+      ko: 노래하게 하다 (사역형)
+    gender: null
+    plural: null
+  - japanese: 立たせる
+    reading: たたせる
+    translation:
+      en: to make someone stand (causative form)
+      ko: 세우다 (사역형)
+    gender: null
+    plural: null
+  - japanese: 行かせる
+    reading: いかせる
+    translation:
+      en: to make/let someone go (causative form)
+      ko: 가게 하다 (사역형)
+    gender: null
+    plural: null
+  - japanese: 見させる
+    reading: みさせる
+    translation:
+      en: to make/let someone look (causative form)
+      ko: 보게 하다 (사역형)
+    gender: null
+    plural: null
+- id: te_form_patterns
+  label:
+    en: Te-form Patterns
+    ko: て형 패턴
+  type: vocabulary
+  words:
+  - japanese: ている
+    reading: null
+    translation:
+      en: be doing / is in a state of (progressive/resultative)
+      ko: ~하고 있다 / ~해 있다 (진행/결과)
+    gender: null
+    plural: null
+  - japanese: てある
+    reading: null
+    translation:
+      en: has been done (resultative state)
+      ko: ~해 놓았다 (결과 상태)
+    gender: null
+    plural: null
+  - japanese: ておく
+    reading: null
+    translation:
+      en: to do in advance (preparatory action)
+      ko: ~해 놓다 / ~해 두다 (사전 준비)
+    gender: null
+    plural: null
+  - japanese: てしまう
+    reading: null
+    translation:
+      en: to end up doing / to finish completely
+      ko: ~해 버리다 (완료/유감)
+    gender: null
+    plural: null
+  - japanese: てみる
+    reading: null
+    translation:
+      en: to try doing
+      ko: ~해 보다 (시도)
+    gender: null
+    plural: null
+  - japanese: ていく
+    reading: null
+    translation:
+      en: to go on doing / to continue (away from speaker)
+      ko: ~해 가다 (화자로부터 멀어짐)
+    gender: null
+    plural: null
+  - japanese: てくる
+    reading: null
+    translation:
+      en: to come to do / to have been doing (toward speaker)
+      ko: ~해 오다 (화자 쪽으로)
+    gender: null
+    plural: null
+  - japanese: てもいい
+    reading: null
+    translation:
+      en: it's okay to, may
+      ko: ~해도 된다 (허가)
+    gender: null
+    plural: null
+  - japanese: てはいけない
+    reading: null
+    translation:
+      en: must not, may not
+      ko: ~해서는 안 된다 (금지)
+    gender: null
+    plural: null
+  - japanese: てほしい
+    reading: null
+    translation:
+      en: I want someone to do
+      ko: ~해 주었으면 한다 (희망)
+    gender: null
+    plural: null
+- id: volitional_form
+  label:
+    en: Volitional Form
+    ko: 의향형
+  type: vocabulary
+  words:
+  - japanese: 行こう
+    reading: いこう
+    translation:
+      en: let's go (volitional form of 行く)
+      ko: 가자 (行く의 의향형)
+    gender: null
+    plural: null
+  - japanese: 食べよう
+    reading: たべよう
+    translation:
+      en: let's eat (volitional form of 食べる)
+      ko: 먹자 (食べる의 의향형)
+    gender: null
+    plural: null
+  - japanese: しよう
+    reading: null
+    translation:
+      en: let's do (volitional form of する)
+      ko: 하자 (する의 의향형)
+    gender: null
+    plural: null
+  - japanese: 来よう
+    reading: こよう
+    translation:
+      en: let's come (volitional form of 来る)
+      ko: 오자 (来る의 의향형)
+    gender: null
+    plural: null
+  - japanese: ようとする
+    reading: null
+    translation:
+      en: to try to do, to be about to do
+      ko: ~하려고 하다 (시도/직전)
+    gender: null
+    plural: null
+  - japanese: ようと思う
+    reading: null
+    translation:
+      en: I think I will (intention)
+      ko: ~하려고 생각하다 (의도)
+    gender: null
+    plural: null
+  - japanese: ようにしている
+    reading: null
+    translation:
+      en: I make it a point to (habitual effort)
+      ko: ~하도록 하고 있다 (습관적 노력)
+    gender: null
+    plural: null
+  - japanese: ましょう
+    reading: null
+    translation:
+      en: let's (polite volitional)
+      ko: ~합시다 (정중 의향형)
+    gender: null
+    plural: null
+- id: imperative_prohibitive
+  label:
+    en: Imperative and Prohibitive Forms
+    ko: 명령형과 금지형
+  type: vocabulary
+  words:
+  - japanese: 行け
+    reading: いけ
+    translation:
+      en: go! (imperative form of 行く)
+      ko: 가! (行く의 명령형)
+    gender: null
+    plural: null
+  - japanese: 食べろ
+    reading: たべろ
+    translation:
+      en: eat! (imperative form of 食べる)
+      ko: 먹어! (食べる의 명령형)
+    gender: null
+    plural: null
+  - japanese: しろ
+    reading: null
+    translation:
+      en: do it! (imperative form of する)
+      ko: 해! (する의 명령형)
+    gender: null
+    plural: null
+  - japanese: 来い
+    reading: こい
+    translation:
+      en: come! (imperative form of 来る)
+      ko: 와! (来る의 명령형)
+    gender: null
+    plural: null
+  - japanese: 行くな
+    reading: いくな
+    translation:
+      en: don't go! (prohibitive form)
+      ko: 가지 마! (금지형)
+    gender: null
+    plural: null
+  - japanese: 触るな
+    reading: さわるな
+    translation:
+      en: don't touch! (prohibitive form)
+      ko: 만지지 마! (금지형)
+    gender: null
+    plural: null
+  - japanese: なさい
+    reading: null
+    translation:
+      en: do (soft command, parental)
+      ko: ~하렴, ~해라 (부드러운 명령)
+    gender: null
+    plural: null
+  - japanese: ないでください
+    reading: null
+    translation:
+      en: please don't (polite prohibition)
+      ko: ~하지 마세요 (정중한 금지)
+    gender: null
+    plural: null
+- id: transitive_intransitive
+  label:
+    en: Transitive and Intransitive Verb Pairs
+    ko: 자동사와 타동사 쌍
+  type: vocabulary
+  words:
+  - japanese: 開ける
+    reading: あける
+    translation:
+      en: to open (transitive)
+      ko: 열다 (타동사)
+    gender: null
+    plural: null
+  - japanese: 開く
+    reading: あく
+    translation:
+      en: to open (intransitive)
+      ko: 열리다 (자동사)
+    gender: null
+    plural: null
+  - japanese: 閉める
+    reading: しめる
+    translation:
+      en: to close (transitive)
+      ko: 닫다 (타동사)
+    gender: null
+    plural: null
+  - japanese: 閉まる
+    reading: しまる
+    translation:
+      en: to close (intransitive)
+      ko: 닫히다 (자동사)
+    gender: null
+    plural: null
+  - japanese: 壊す
+    reading: こわす
+    translation:
+      en: to break (transitive)
+      ko: 부수다 (타동사)
+    gender: null
+    plural: null
+  - japanese: 壊れる
+    reading: こわれる
+    translation:
+      en: to break (intransitive)
+      ko: 부서지다 (자동사)
+    gender: null
+    plural: null
+  - japanese: 落とす
+    reading: おとす
+    translation:
+      en: to drop (transitive)
+      ko: 떨어뜨리다 (타동사)
+    gender: null
+    plural: null
+  - japanese: 落ちる
+    reading: おちる
+    translation:
+      en: to fall (intransitive)
+      ko: 떨어지다 (자동사)
+    gender: null
+    plural: null

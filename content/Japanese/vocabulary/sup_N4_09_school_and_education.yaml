@@ -1,0 +1,1363 @@
+lesson: "sup_N4_School_and_Education"
+lesson_number: 129
+jlpt: N4
+type: supplementary
+topic: "School and Education"
+categories:
+- id: school_subjects
+  label:
+    en: "School Subjects"
+    ko: "학교 과목"
+  type: vocabulary
+  words:
+  - japanese: "科目"
+    reading: "かもく"
+    translation:
+      en: "school subject"
+      ko: "과목"
+    gender: null
+    notes:
+      en: "department + item"
+      ko: "과 + 목"
+  - japanese: "国語"
+    reading: "こくご"
+    translation:
+      en: "Japanese (language class)"
+      ko: "국어"
+    gender: null
+    notes:
+      en: "country + language; Japanese language arts"
+      ko: "나라 + 말; 일본어 수업"
+  - japanese: "算数"
+    reading: "さんすう"
+    translation:
+      en: "arithmetic (elementary)"
+      ko: "산수"
+    gender: null
+    notes:
+      en: "calculate + number"
+      ko: "계산 + 수"
+  - japanese: "数学"
+    reading: "すうがく"
+    translation:
+      en: "mathematics"
+      ko: "수학"
+    gender: null
+    notes:
+      en: "number + study; used from middle school"
+      ko: "수 + 학; 중학교부터 사용"
+  - japanese: "理科"
+    reading: "りか"
+    translation:
+      en: "science"
+      ko: "이과, 과학"
+    gender: null
+    notes:
+      en: "reason + department"
+      ko: "이 + 과"
+  - japanese: "社会"
+    reading: "しゃかい"
+    translation:
+      en: "social studies"
+      ko: "사회"
+    gender: null
+    notes:
+      en: "society + meeting"
+      ko: "사 + 회"
+  - japanese: "英語"
+    reading: "えいご"
+    translation:
+      en: "English"
+      ko: "영어"
+    gender: null
+    notes:
+      en: "England + language"
+      ko: "영 + 어"
+  - japanese: "歴史"
+    reading: "れきし"
+    translation:
+      en: "history"
+      ko: "역사"
+    gender: null
+    notes:
+      en: "日本史 = Japanese history; 世界史 = world history"
+      ko: "日本史 = 일본사; 世界史 = 세계사"
+  - japanese: "地理"
+    reading: "ちり"
+    translation:
+      en: "geography"
+      ko: "지리"
+    gender: null
+    notes:
+      en: "earth + reason"
+      ko: "지 + 리"
+  - japanese: "体育"
+    reading: "たいいく"
+    translation:
+      en: "physical education"
+      ko: "체육"
+    gender: null
+    notes:
+      en: "body + education"
+      ko: "체 + 육"
+  - japanese: "音楽"
+    reading: "おんがく"
+    translation:
+      en: "music"
+      ko: "음악"
+    gender: null
+    notes:
+      en: "sound + pleasure"
+      ko: "소리 + 즐거움"
+  - japanese: "美術"
+    reading: "びじゅつ"
+    translation:
+      en: "art, fine arts"
+      ko: "미술"
+    gender: null
+    notes:
+      en: "beauty + technique"
+      ko: "아름다움 + 기술"
+  - japanese: "家庭科"
+    reading: "かていか"
+    translation:
+      en: "home economics"
+      ko: "가정과"
+    gender: null
+    notes:
+      en: "home + department"
+      ko: "가정 + 과"
+  - japanese: "技術"
+    reading: "ぎじゅつ"
+    translation:
+      en: "technology, technical arts"
+      ko: "기술"
+    gender: null
+    notes:
+      en: "skill + technique"
+      ko: "기 + 술"
+  - japanese: "道徳"
+    reading: "どうとく"
+    translation:
+      en: "moral education"
+      ko: "도덕"
+    gender: null
+    notes:
+      en: "way + virtue"
+      ko: "도 + 덕"
+  - japanese: "生物"
+    reading: "せいぶつ"
+    translation:
+      en: "biology"
+      ko: "생물"
+    gender: null
+    notes:
+      en: "life + thing"
+      ko: "생 + 물"
+  - japanese: "化学"
+    reading: "かがく"
+    translation:
+      en: "chemistry"
+      ko: "화학"
+    gender: null
+    notes:
+      en: "change + study"
+      ko: "화 + 학"
+  - japanese: "物理"
+    reading: "ぶつり"
+    translation:
+      en: "physics"
+      ko: "물리"
+    gender: null
+    notes:
+      en: "thing + reason"
+      ko: "물 + 리"
+  - japanese: "政治経済"
+    reading: "せいじけいざい"
+    translation:
+      en: "politics and economics"
+      ko: "정치경제"
+    gender: null
+    notes:
+      en: "politics + economy"
+      ko: "정치 + 경제"
+  - japanese: "古文"
+    reading: "こぶん"
+    translation:
+      en: "classical Japanese"
+      ko: "고문"
+    gender: null
+    notes:
+      en: "old + writing"
+      ko: "오래된 + 글"
+  - japanese: "漢文"
+    reading: "かんぶん"
+    translation:
+      en: "classical Chinese"
+      ko: "한문"
+    gender: null
+    notes:
+      en: "Chinese + writing"
+      ko: "한 + 문"
+  - japanese: "情報"
+    reading: "じょうほう"
+    translation:
+      en: "information (IT class)"
+      ko: "정보"
+    gender: null
+    notes:
+      en: "情報の授業 = IT class"
+      ko: "情報の授業 = 정보 수업"
+  - japanese: "保健"
+    reading: "ほけん"
+    translation:
+      en: "health education"
+      ko: "보건"
+    gender: null
+    notes:
+      en: "保健体育 = health and PE"
+      ko: "保健体育 = 보건 체육"
+  - japanese: "選択科目"
+    reading: "せんたくかもく"
+    translation:
+      en: "elective subject"
+      ko: "선택 과목"
+    gender: null
+    notes:
+      en: "choose + subject"
+      ko: "선택 + 과목"
+  - japanese: "必修科目"
+    reading: "ひっしゅうかもく"
+    translation:
+      en: "required subject"
+      ko: "필수 과목"
+    gender: null
+    notes:
+      en: "must + study + subject"
+      ko: "필수 + 과목"
+  - japanese: "総合学習"
+    reading: "そうごうがくしゅう"
+    translation:
+      en: "integrated studies"
+      ko: "종합 학습"
+    gender: null
+    notes:
+      en: "comprehensive + learning"
+      ko: "종합 + 학습"
+  - japanese: "書写"
+    reading: "しょしゃ"
+    translation:
+      en: "penmanship, writing"
+      ko: "서사, 글쓰기"
+    gender: null
+    notes:
+      en: "write + copy; handwriting practice"
+      ko: "쓰다 + 베끼다; 필기 연습"
+  - japanese: "図工"
+    reading: "ずこう"
+    translation:
+      en: "arts and crafts (elementary)"
+      ko: "도공, 미술 공작"
+    gender: null
+    notes:
+      en: "drawing + craft; elementary school subject"
+      ko: "도화 + 공작; 초등학교 과목"
+  - japanese: "外国語"
+    reading: "がいこくご"
+    translation:
+      en: "foreign language"
+      ko: "외국어"
+    gender: null
+    notes:
+      en: "foreign + country + language"
+      ko: "외 + 국 + 어"
+
+- id: school_facilities
+  label:
+    en: "School Facilities"
+    ko: "학교 시설"
+  type: vocabulary
+  words:
+  - japanese: "教室"
+    reading: "きょうしつ"
+    translation:
+      en: "classroom"
+      ko: "교실"
+    gender: null
+    notes:
+      en: "teach + room"
+      ko: "교 + 실"
+  - japanese: "職員室"
+    reading: "しょくいんしつ"
+    translation:
+      en: "staff room, teachers' room"
+      ko: "교무실"
+    gender: null
+    notes:
+      en: "staff + member + room"
+      ko: "직원 + 실"
+  - japanese: "校庭"
+    reading: "こうてい"
+    translation:
+      en: "schoolyard, playground"
+      ko: "교정, 운동장"
+    gender: null
+    notes:
+      en: "school + yard"
+      ko: "교 + 정"
+  - japanese: "体育館"
+    reading: "たいいくかん"
+    translation:
+      en: "gymnasium"
+      ko: "체육관"
+    gender: null
+    notes:
+      en: "PE + building"
+      ko: "체육 + 관"
+  - japanese: "図書室"
+    reading: "としょしつ"
+    translation:
+      en: "school library"
+      ko: "도서실"
+    gender: null
+    notes:
+      en: "books + room"
+      ko: "도서 + 실"
+  - japanese: "理科室"
+    reading: "りかしつ"
+    translation:
+      en: "science lab"
+      ko: "이과실, 과학실"
+    gender: null
+    notes:
+      en: "science + room"
+      ko: "이과 + 실"
+  - japanese: "音楽室"
+    reading: "おんがくしつ"
+    translation:
+      en: "music room"
+      ko: "음악실"
+    gender: null
+    notes:
+      en: "music + room"
+      ko: "음악 + 실"
+  - japanese: "美術室"
+    reading: "びじゅつしつ"
+    translation:
+      en: "art room"
+      ko: "미술실"
+    gender: null
+    notes:
+      en: "art + room"
+      ko: "미술 + 실"
+  - japanese: "保健室"
+    reading: "ほけんしつ"
+    translation:
+      en: "nurse's office, health room"
+      ko: "보건실"
+    gender: null
+    notes:
+      en: "health + room"
+      ko: "보건 + 실"
+  - japanese: "給食室"
+    reading: "きゅうしょくしつ"
+    translation:
+      en: "school lunch room"
+      ko: "급식실"
+    gender: null
+    notes:
+      en: "provide + food + room"
+      ko: "급식 + 실"
+  - japanese: "プール"
+    reading: null
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: null
+    notes:
+      en: "学校のプール = school pool"
+      ko: "学校のプール = 학교 수영장"
+  - japanese: "黒板"
+    reading: "こくばん"
+    translation:
+      en: "blackboard"
+      ko: "칠판"
+    gender: null
+    notes:
+      en: "black + board"
+      ko: "검은 + 판"
+  - japanese: "廊下"
+    reading: "ろうか"
+    translation:
+      en: "hallway, corridor"
+      ko: "복도"
+    gender: null
+    notes:
+      en: "廊下を走らない = don't run in the hallway"
+      ko: "廊下を走らない = 복도에서 뛰지 마세요"
+  - japanese: "下駄箱"
+    reading: "げたばこ"
+    translation:
+      en: "shoe locker"
+      ko: "신발장"
+    gender: null
+    notes:
+      en: "wooden clog + box; shoe storage at entrance"
+      ko: "나막신 + 상자; 입구의 신발 보관함"
+  - japanese: "ロッカー"
+    reading: null
+    translation:
+      en: "locker"
+      ko: "사물함"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "校門"
+    reading: "こうもん"
+    translation:
+      en: "school gate"
+      ko: "교문"
+    gender: null
+    notes:
+      en: "school + gate"
+      ko: "교 + 문"
+  - japanese: "コンピュータ室"
+    reading: "コンピュータしつ"
+    translation:
+      en: "computer room"
+      ko: "컴퓨터실"
+    gender: null
+    notes:
+      en: "computer + room"
+      ko: "컴퓨터 + 실"
+  - japanese: "家庭科室"
+    reading: "かていかしつ"
+    translation:
+      en: "home economics room"
+      ko: "가정과실"
+    gender: null
+    notes:
+      en: "home economics + room"
+      ko: "가정과 + 실"
+  - japanese: "講堂"
+    reading: "こうどう"
+    translation:
+      en: "auditorium"
+      ko: "강당"
+    gender: null
+    notes:
+      en: "lecture + hall"
+      ko: "강 + 당"
+  - japanese: "昇降口"
+    reading: "しょうこうぐち"
+    translation:
+      en: "school entrance"
+      ko: "학교 현관"
+    gender: null
+    notes:
+      en: "rise + descend + entrance; main school entrance"
+      ko: "오르다 + 내리다 + 입구; 학교 정문"
+  - japanese: "屋上"
+    reading: "おくじょう"
+    translation:
+      en: "rooftop"
+      ko: "옥상"
+    gender: null
+    notes:
+      en: "roof + top"
+      ko: "옥 + 상"
+  - japanese: "運動場"
+    reading: "うんどうじょう"
+    translation:
+      en: "sports ground"
+      ko: "운동장"
+    gender: null
+    notes:
+      en: "exercise + place"
+      ko: "운동 + 장"
+  - japanese: "花壇"
+    reading: "かだん"
+    translation:
+      en: "flower bed"
+      ko: "화단"
+    gender: null
+    notes:
+      en: "flower + platform; school garden"
+      ko: "꽃 + 단; 학교 정원"
+  - japanese: "掲示板"
+    reading: "けいじばん"
+    translation:
+      en: "bulletin board"
+      ko: "게시판"
+    gender: null
+    notes:
+      en: "display + board"
+      ko: "게시 + 판"
+  - japanese: "放送室"
+    reading: "ほうそうしつ"
+    translation:
+      en: "broadcasting room"
+      ko: "방송실"
+    gender: null
+    notes:
+      en: "broadcast + room; school PA system"
+      ko: "방송 + 실; 학교 방송 시스템"
+
+- id: stationery
+  label:
+    en: "Stationery"
+    ko: "문구"
+  type: vocabulary
+  words:
+  - japanese: "教科書"
+    reading: "きょうかしょ"
+    translation:
+      en: "textbook"
+      ko: "교과서"
+    gender: null
+    notes:
+      en: "teach + subject + book"
+      ko: "교 + 과 + 서"
+  - japanese: ノート
+    reading: null
+    translation:
+      en: "notebook"
+      ko: "노트"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "鉛筆"
+    reading: "えんぴつ"
+    translation:
+      en: "pencil"
+      ko: "연필"
+    gender: null
+    notes:
+      en: "lead + writing tool"
+      ko: "연 + 필"
+  - japanese: シャーペン
+    reading: null
+    translation:
+      en: "mechanical pencil"
+      ko: "샤프"
+    gender: null
+    notes:
+      en: "abbreviation of シャープペンシル"
+      ko: "シャープペンシル의 줄임말"
+  - japanese: ボールペン
+    reading: null
+    translation:
+      en: "ballpoint pen"
+      ko: "볼펜"
+    gender: null
+    notes:
+      en: "ball + pen"
+      ko: "볼 + 펜"
+  - japanese: "消しゴム"
+    reading: "けしゴム"
+    translation:
+      en: "eraser"
+      ko: "지우개"
+    gender: null
+    notes:
+      en: "erase + rubber"
+      ko: "지우다 + 고무"
+  - japanese: "定規"
+    reading: "じょうぎ"
+    translation:
+      en: "ruler"
+      ko: "자"
+    gender: null
+    notes:
+      en: "ものさし also used"
+      ko: "ものさし도 사용"
+  - japanese: "筆箱"
+    reading: "ふでばこ"
+    translation:
+      en: "pencil case"
+      ko: "필통"
+    gender: null
+    notes:
+      en: "brush + box"
+      ko: "붓 + 상자"
+  - japanese: "下敷き"
+    reading: "したじき"
+    translation:
+      en: "writing board, desk pad"
+      ko: "깔판"
+    gender: null
+    notes:
+      en: "under + spread; placed under paper"
+      ko: "아래 + 깔기; 종이 밑에 놓음"
+  - japanese: "コンパス"
+    reading: null
+    translation:
+      en: "compass (drawing tool)"
+      ko: "컴퍼스"
+    gender: null
+    notes:
+      en: "for drawing circles"
+      ko: "원을 그리는 도구"
+  - japanese: "分度器"
+    reading: "ぶんどき"
+    translation:
+      en: "protractor"
+      ko: "각도기"
+    gender: null
+    notes:
+      en: "divide + degree + tool"
+      ko: "나누다 + 도 + 기"
+  - japanese: "三角定規"
+    reading: "さんかくじょうぎ"
+    translation:
+      en: "set square, triangle ruler"
+      ko: "삼각자"
+    gender: null
+    notes:
+      en: "triangle + ruler"
+      ko: "삼각 + 자"
+  - japanese: "のり"
+    reading: null
+    translation:
+      en: "glue"
+      ko: "풀"
+    gender: null
+    notes:
+      en: "のりで貼る = to stick with glue"
+      ko: "のりで貼る = 풀로 붙이다"
+  - japanese: "はさみ"
+    reading: null
+    translation:
+      en: "scissors"
+      ko: "가위"
+    gender: null
+    notes:
+      en: "はさみで切る = to cut with scissors"
+      ko: "はさみで切る = 가위로 자르다"
+  - japanese: "セロテープ"
+    reading: null
+    translation:
+      en: "cellophane tape"
+      ko: "셀로테이프"
+    gender: null
+    notes:
+      en: "brand name used generically"
+      ko: "일반적으로 사용되는 브랜드명"
+  - japanese: ホチキス
+    reading: null
+    translation:
+      en: "stapler"
+      ko: "스테이플러"
+    gender: null
+    notes:
+      en: "brand name used generically in Japan"
+      ko: "일본에서 일반적으로 사용되는 브랜드명"
+  - japanese: クリップ
+    reading: null
+    translation:
+      en: "paper clip"
+      ko: "클립"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "修正液"
+    reading: "しゅうせいえき"
+    translation:
+      en: "correction fluid"
+      ko: "수정액"
+    gender: null
+    notes:
+      en: "correct + liquid"
+      ko: "수정 + 액"
+  - japanese: "色鉛筆"
+    reading: "いろえんぴつ"
+    translation:
+      en: "colored pencil"
+      ko: "색연필"
+    gender: null
+    notes:
+      en: "color + pencil"
+      ko: "색 + 연필"
+  - japanese: "絵の具"
+    reading: "えのぐ"
+    translation:
+      en: "paint (art supplies)"
+      ko: "물감"
+    gender: null
+    notes:
+      en: "picture + material"
+      ko: "그림 + 재료"
+  - japanese: "クレヨン"
+    reading: null
+    translation:
+      en: "crayon"
+      ko: "크레용"
+    gender: null
+    notes:
+      en: "katakana loanword from French"
+      ko: "프랑스어에서 온 가타카나 외래어"
+  - japanese: ファイル
+    reading: null
+    translation:
+      en: "file, folder"
+      ko: "파일"
+    gender: null
+    notes:
+      en: "クリアファイル = clear file/folder"
+      ko: "クリアファイル = 투명 파일"
+  - japanese: "墨"
+    reading: "すみ"
+    translation:
+      en: "ink (for calligraphy)"
+      ko: "먹"
+    gender: null
+    notes:
+      en: "墨汁 = liquid ink"
+      ko: "墨汁 = 먹물"
+  - japanese: "筆"
+    reading: "ふで"
+    translation:
+      en: "brush (calligraphy)"
+      ko: "붓"
+    gender: null
+    notes:
+      en: "毛筆 = brush pen for calligraphy"
+      ko: "毛筆 = 서예용 붓"
+  - japanese: "画用紙"
+    reading: "がようし"
+    translation:
+      en: "drawing paper"
+      ko: "도화지"
+    gender: null
+    notes:
+      en: "picture + use + paper"
+      ko: "그림 + 용 + 종이"
+  - japanese: "ランドセル"
+    reading: null
+    translation:
+      en: "school backpack"
+      ko: "란도셀 (초등학생 가방)"
+    gender: null
+    notes:
+      en: "from Dutch ransel; iconic elementary school bag"
+      ko: "네덜란드어 ransel에서 유래; 상징적인 초등학교 가방"
+
+- id: exams_and_grades
+  label:
+    en: "Exams and Grades"
+    ko: "시험과 성적"
+  type: vocabulary
+  words:
+  - japanese: "試験"
+    reading: "しけん"
+    translation:
+      en: "exam, test"
+      ko: "시험"
+    gender: null
+    notes:
+      en: "try + examine"
+      ko: "시 + 험"
+  - japanese: テスト
+    reading: null
+    translation:
+      en: "test"
+      ko: "테스트"
+    gender: null
+    notes:
+      en: "テストがある = there is a test"
+      ko: "テストがある = 테스트가 있다"
+  - japanese: "中間試験"
+    reading: "ちゅうかんしけん"
+    translation:
+      en: "midterm exam"
+      ko: "중간고사"
+    gender: null
+    notes:
+      en: "middle + period + exam"
+      ko: "중간 + 시험"
+  - japanese: "期末試験"
+    reading: "きまつしけん"
+    translation:
+      en: "final exam"
+      ko: "기말고사"
+    gender: null
+    notes:
+      en: "period + end + exam"
+      ko: "기말 + 시험"
+  - japanese: "入学試験"
+    reading: "にゅうがくしけん"
+    translation:
+      en: "entrance exam"
+      ko: "입학 시험"
+    gender: null
+    notes:
+      en: "enter + school + exam; often shortened to 入試"
+      ko: "입학 + 시험; 入試로 줄여서 자주 사용"
+  - japanese: "成績"
+    reading: "せいせき"
+    translation:
+      en: "grades, academic record"
+      ko: "성적"
+    gender: null
+    notes:
+      en: "成績がいい = good grades"
+      ko: "成績がいい = 성적이 좋다"
+  - japanese: "点数"
+    reading: "てんすう"
+    translation:
+      en: "score, points"
+      ko: "점수"
+    gender: null
+    notes:
+      en: "point + number"
+      ko: "점 + 수"
+  - japanese: "満点"
+    reading: "まんてん"
+    translation:
+      en: "perfect score"
+      ko: "만점"
+    gender: null
+    notes:
+      en: "full + point"
+      ko: "만 + 점"
+  - japanese: "合格"
+    reading: "ごうかく"
+    translation:
+      en: "passing (exam)"
+      ko: "합격"
+    gender: null
+    notes:
+      en: "合格する = to pass"
+      ko: "合格する = 합격하다"
+  - japanese: "不合格"
+    reading: "ふごうかく"
+    translation:
+      en: "failing (exam)"
+      ko: "불합격"
+    gender: null
+    notes:
+      en: "not + pass"
+      ko: "불 + 합격"
+  - japanese: "受験"
+    reading: "じゅけん"
+    translation:
+      en: "taking an exam"
+      ko: "수험"
+    gender: null
+    notes:
+      en: "受験する = to take an exam"
+      ko: "受験する = 수험하다"
+  - japanese: "通知表"
+    reading: "つうちひょう"
+    translation:
+      en: "report card"
+      ko: "통지표, 성적표"
+    gender: null
+    notes:
+      en: "notice + table"
+      ko: "통지 + 표"
+  - japanese: "答え"
+    reading: "こたえ"
+    translation:
+      en: "answer"
+      ko: "답, 대답"
+    gender: null
+    notes:
+      en: "答えを書く = to write the answer"
+      ko: "答えを書く = 답을 쓰다"
+  - japanese: "問題"
+    reading: "もんだい"
+    translation:
+      en: "question, problem"
+      ko: "문제"
+    gender: null
+    notes:
+      en: "ask + topic"
+      ko: "물 + 제"
+  - japanese: "正解"
+    reading: "せいかい"
+    translation:
+      en: "correct answer"
+      ko: "정답"
+    gender: null
+    notes:
+      en: "correct + solution"
+      ko: "정 + 답"
+  - japanese: "不正解"
+    reading: "ふせいかい"
+    translation:
+      en: "wrong answer"
+      ko: "오답"
+    gender: null
+    notes:
+      en: "not + correct + solution"
+      ko: "불 + 정답"
+  - japanese: "宿題"
+    reading: "しゅくだい"
+    translation:
+      en: "homework"
+      ko: "숙제"
+    gender: null
+    notes:
+      en: "宿題を出す = to assign homework"
+      ko: "宿題を出す = 숙제를 내다"
+  - japanese: "予習"
+    reading: "よしゅう"
+    translation:
+      en: "preparation (studying ahead)"
+      ko: "예습"
+    gender: null
+    notes:
+      en: "beforehand + study"
+      ko: "미리 + 학습"
+  - japanese: "復習"
+    reading: "ふくしゅう"
+    translation:
+      en: "review, revision"
+      ko: "복습"
+    gender: null
+    notes:
+      en: "again + study"
+      ko: "다시 + 학습"
+  - japanese: "暗記"
+    reading: "あんき"
+    translation:
+      en: "memorization"
+      ko: "암기"
+    gender: null
+    notes:
+      en: "暗記する = to memorize"
+      ko: "暗記する = 암기하다"
+  - japanese: "受かる"
+    reading: "うかる"
+    translation:
+      en: "to pass (an exam)"
+      ko: "합격하다"
+    gender: null
+    notes:
+      en: "大学に受かった = I passed the university exam"
+      ko: "大学に受かった = 대학에 합격했다"
+  - japanese: "落ちる"
+    reading: "おちる"
+    translation:
+      en: "to fail (an exam)"
+      ko: "떨어지다, 불합격하다"
+    gender: null
+    notes:
+      en: "試験に落ちた = I failed the exam"
+      ko: "試験に落ちた = 시험에 떨어졌다"
+  - japanese: "偏差値"
+    reading: "へんさち"
+    translation:
+      en: "deviation score"
+      ko: "편차치"
+    gender: null
+    notes:
+      en: "deviation + value; important metric in Japan"
+      ko: "편차 + 값; 일본에서 중요한 지표"
+  - japanese: "卒業論文"
+    reading: "そつぎょうろんぶん"
+    translation:
+      en: "graduation thesis"
+      ko: "졸업 논문"
+    gender: null
+    notes:
+      en: "graduation + thesis; often shortened to 卒論"
+      ko: "졸업 + 논문; 卒論으로 줄여서 자주 사용"
+  - japanese: "レポート"
+    reading: null
+    translation:
+      en: "report, paper"
+      ko: "리포트"
+    gender: null
+    notes:
+      en: "レポートを提出する = to submit a report"
+      ko: "レポートを提出する = 리포트를 제출하다"
+  - japanese: "提出"
+    reading: "ていしゅつ"
+    translation:
+      en: "submission"
+      ko: "제출"
+    gender: null
+    notes:
+      en: "提出する = to submit"
+      ko: "提出する = 제출하다"
+  - japanese: "締め切り"
+    reading: "しめきり"
+    translation:
+      en: "deadline"
+      ko: "마감"
+    gender: null
+    notes:
+      en: "close + cut; 締め切りを守る = to meet the deadline"
+      ko: "마감 + 끊기; 締め切りを守る = 마감을 지키다"
+
+- id: school_life
+  label:
+    en: "School Life"
+    ko: "학교 생활"
+  type: vocabulary
+  words:
+  - japanese: "授業"
+    reading: "じゅぎょう"
+    translation:
+      en: "class, lesson"
+      ko: "수업"
+    gender: null
+    notes:
+      en: "授業を受ける = to take a class"
+      ko: "授業を受ける = 수업을 듣다"
+  - japanese: "先生"
+    reading: "せんせい"
+    translation:
+      en: "teacher"
+      ko: "선생님"
+    gender: null
+    notes:
+      en: "also used for doctors, lawyers, etc."
+      ko: "의사, 변호사 등에도 사용"
+  - japanese: "生徒"
+    reading: "せいと"
+    translation:
+      en: "student (middle/high school)"
+      ko: "학생 (중/고등학교)"
+    gender: null
+    notes:
+      en: "life + disciple"
+      ko: "생 + 도"
+  - japanese: "児童"
+    reading: "じどう"
+    translation:
+      en: "student (elementary)"
+      ko: "아동 (초등학생)"
+    gender: null
+    notes:
+      en: "child + child"
+      ko: "아 + 동"
+  - japanese: "学生"
+    reading: "がくせい"
+    translation:
+      en: "student (college)"
+      ko: "학생 (대학생)"
+    gender: null
+    notes:
+      en: "study + life"
+      ko: "학 + 생"
+  - japanese: "小学校"
+    reading: "しょうがっこう"
+    translation:
+      en: "elementary school"
+      ko: "초등학교"
+    gender: null
+    notes:
+      en: "small + school"
+      ko: "소 + 학교"
+  - japanese: "中学校"
+    reading: "ちゅうがっこう"
+    translation:
+      en: "middle school"
+      ko: "중학교"
+    gender: null
+    notes:
+      en: "middle + school"
+      ko: "중 + 학교"
+  - japanese: "高校"
+    reading: "こうこう"
+    translation:
+      en: "high school"
+      ko: "고등학교"
+    gender: null
+    notes:
+      en: "abbreviation of 高等学校"
+      ko: "高等学校의 줄임말"
+  - japanese: "大学"
+    reading: "だいがく"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: null
+    notes:
+      en: "big + study"
+      ko: "대 + 학"
+  - japanese: "塾"
+    reading: "じゅく"
+    translation:
+      en: "cram school"
+      ko: "학원"
+    gender: null
+    notes:
+      en: "private tutoring school; very common in Japan"
+      ko: "사설 학원; 일본에서 매우 흔함"
+  - japanese: "部活"
+    reading: "ぶかつ"
+    translation:
+      en: "club activities"
+      ko: "동아리 활동"
+    gender: null
+    notes:
+      en: "abbreviation of 部活動; central to school life"
+      ko: "部活動의 줄임말; 학교 생활의 중심"
+  - japanese: "運動部"
+    reading: "うんどうぶ"
+    translation:
+      en: "sports club"
+      ko: "운동부"
+    gender: null
+    notes:
+      en: "exercise + club"
+      ko: "운동 + 부"
+  - japanese: "文化部"
+    reading: "ぶんかぶ"
+    translation:
+      en: "cultural club"
+      ko: "문화부"
+    gender: null
+    notes:
+      en: "culture + club"
+      ko: "문화 + 부"
+  - japanese: "委員会"
+    reading: "いいんかい"
+    translation:
+      en: "committee"
+      ko: "위원회"
+    gender: null
+    notes:
+      en: "committee + meeting; student council"
+      ko: "위원 + 회; 학생 자치회"
+  - japanese: "学級委員"
+    reading: "がっきゅういいん"
+    translation:
+      en: "class representative"
+      ko: "학급 위원"
+    gender: null
+    notes:
+      en: "class + committee member"
+      ko: "학급 + 위원"
+  - japanese: "給食"
+    reading: "きゅうしょく"
+    translation:
+      en: "school lunch"
+      ko: "급식"
+    gender: null
+    notes:
+      en: "provide + meal; served in elementary and middle school"
+      ko: "제공 + 식사; 초등학교와 중학교에서 제공"
+  - japanese: "朝礼"
+    reading: "ちょうれい"
+    translation:
+      en: "morning assembly"
+      ko: "조례"
+    gender: null
+    notes:
+      en: "morning + ceremony"
+      ko: "아침 + 의식"
+  - japanese: "遠足"
+    reading: "えんそく"
+    translation:
+      en: "field trip, excursion"
+      ko: "소풍"
+    gender: null
+    notes:
+      en: "far + foot"
+      ko: "멀리 + 걸음"
+  - japanese: "修学旅行"
+    reading: "しゅうがくりょこう"
+    translation:
+      en: "school trip"
+      ko: "수학여행"
+    gender: null
+    notes:
+      en: "study + travel; usually in middle/high school"
+      ko: "수학 + 여행; 보통 중/고등학교에서"
+  - japanese: "文化祭"
+    reading: "ぶんかさい"
+    translation:
+      en: "school cultural festival"
+      ko: "문화제"
+    gender: null
+    notes:
+      en: "culture + festival; annual school event"
+      ko: "문화 + 제; 연례 학교 행사"
+  - japanese: "体育祭"
+    reading: "たいいくさい"
+    translation:
+      en: "sports day, athletic festival"
+      ko: "체육제, 운동회"
+    gender: null
+    notes:
+      en: "PE + festival; annual school event"
+      ko: "체육 + 제; 연례 학교 행사"
+  - japanese: "学期"
+    reading: "がっき"
+    translation:
+      en: "school term, semester"
+      ko: "학기"
+    gender: null
+    notes:
+      en: "一学期 = first term"
+      ko: "一学期 = 1학기"
+  - japanese: "春休み"
+    reading: "はるやすみ"
+    translation:
+      en: "spring vacation"
+      ko: "봄 방학"
+    gender: null
+    notes:
+      en: "spring + rest"
+      ko: "봄 + 방학"
+  - japanese: "夏休み"
+    reading: "なつやすみ"
+    translation:
+      en: "summer vacation"
+      ko: "여름 방학"
+    gender: null
+    notes:
+      en: "summer + rest; about 40 days"
+      ko: "여름 + 방학; 약 40일"
+  - japanese: "冬休み"
+    reading: "ふゆやすみ"
+    translation:
+      en: "winter vacation"
+      ko: "겨울 방학"
+    gender: null
+    notes:
+      en: "winter + rest; about 2 weeks"
+      ko: "겨울 + 방학; 약 2주"
+  - japanese: "時間割"
+    reading: "じかんわり"
+    translation:
+      en: "class schedule, timetable"
+      ko: "시간표"
+    gender: null
+    notes:
+      en: "time + divide"
+      ko: "시간 + 나누기"
+  - japanese: "出席"
+    reading: "しゅっせき"
+    translation:
+      en: "attendance"
+      ko: "출석"
+    gender: null
+    notes:
+      en: "出席する = to attend"
+      ko: "出席する = 출석하다"
+  - japanese: "欠席"
+    reading: "けっせき"
+    translation:
+      en: "absence"
+      ko: "결석"
+    gender: null
+    notes:
+      en: "欠席する = to be absent"
+      ko: "欠席する = 결석하다"
+  - japanese: "遅刻"
+    reading: "ちこく"
+    translation:
+      en: "being late, tardiness"
+      ko: "지각"
+    gender: null
+    notes:
+      en: "遅刻する = to be late"
+      ko: "遅刻する = 지각하다"
+  - japanese: "早退"
+    reading: "そうたい"
+    translation:
+      en: "leaving early"
+      ko: "조퇴"
+    gender: null
+    notes:
+      en: "early + leave"
+      ko: "일찍 + 퇴근"
+  - japanese: "先輩"
+    reading: "せんぱい"
+    translation:
+      en: "senior (at school/work)"
+      ko: "선배"
+    gender: null
+    notes:
+      en: "先 + 輩; important social concept"
+      ko: "먼저 + 배; 중요한 사회적 개념"
+  - japanese: "後輩"
+    reading: "こうはい"
+    translation:
+      en: "junior (at school/work)"
+      ko: "후배"
+    gender: null
+    notes:
+      en: "後 + 輩; counterpart of 先輩"
+      ko: "뒤 + 배; 先輩의 대응어"
+  - japanese: "同級生"
+    reading: "どうきゅうせい"
+    translation:
+      en: "classmate"
+      ko: "동급생"
+    gender: null
+    notes:
+      en: "same + grade + life"
+      ko: "같은 + 학년 + 생"
+  - japanese: "制服"
+    reading: "せいふく"
+    translation:
+      en: "school uniform"
+      ko: "교복"
+    gender: null
+    notes:
+      en: "system + clothing"
+      ko: "제 + 복"
+  - japanese: "掃除"
+    reading: "そうじ"
+    translation:
+      en: "cleaning"
+      ko: "청소"
+    gender: null
+    notes:
+      en: "students clean their own classrooms in Japan"
+      ko: "일본에서는 학생들이 직접 교실을 청소"
+  - japanese: "いじめ"
+    reading: null
+    translation:
+      en: "bullying"
+      ko: "따돌림, 괴롭힘"
+    gender: null
+    notes:
+      en: "いじめはいけない = bullying is wrong"
+      ko: "いじめはいけない = 따돌림은 안 된다"
+  - japanese: "勉強"
+    reading: "べんきょう"
+    translation:
+      en: "study"
+      ko: "공부"
+    gender: null
+    notes:
+      en: "勉強する = to study"
+      ko: "勉強する = 공부하다"
+  - japanese: "教育"
+    reading: "きょういく"
+    translation:
+      en: "education"
+      ko: "교육"
+    gender: null
+    notes:
+      en: "teach + nurture"
+      ko: "교 + 육"
+  - japanese: "卒業"
+    reading: "そつぎょう"
+    translation:
+      en: "graduation"
+      ko: "졸업"
+    gender: null
+    notes:
+      en: "卒業する = to graduate"
+      ko: "卒業する = 졸업하다"
+  - japanese: "入学"
+    reading: "にゅうがく"
+    translation:
+      en: "enrollment, entering school"
+      ko: "입학"
+    gender: null
+    notes:
+      en: "入学する = to enroll"
+      ko: "入学する = 입학하다"

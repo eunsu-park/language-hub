@@ -1,0 +1,1831 @@
+lesson: "sup_N1_Advanced_Business"
+lesson_number: 182
+jlpt: N1
+type: supplementary
+topic: "Advanced Business"
+categories:
+- id: corporate_governance
+  label:
+    en: "Corporate Governance"
+    ko: "기업 지배구조"
+  type: vocabulary
+  words:
+  - japanese: "株主総会"
+    reading: "かぶぬしそうかい"
+    translation:
+      en: "general shareholders' meeting"
+      ko: "주주총회"
+    gender: null
+    notes:
+      en: "share + owner + general + meeting; the highest decision-making body"
+      ko: "주식 + 주인 + 총 + 회; 최고 의사결정 기관"
+  - japanese: "取締役"
+    reading: "とりしまりやく"
+    translation:
+      en: "director, board member"
+      ko: "이사, 이사회 임원"
+    gender: null
+    notes:
+      en: "manage + role; 取締役会 = board of directors"
+      ko: "단속 + 역할; 取締役会 = 이사회"
+  - japanese: "監査役"
+    reading: "かんさやく"
+    translation:
+      en: "auditor, corporate auditor"
+      ko: "감사역"
+    gender: null
+    notes:
+      en: "supervise + examine + role; 監査役会 = board of auditors"
+      ko: "감독 + 조사 + 역할; 監査役会 = 감사위원회"
+  - japanese: "代表取締役"
+    reading: "だいひょうとりしまりやく"
+    translation:
+      en: "representative director, CEO"
+      ko: "대표이사"
+    gender: null
+    notes:
+      en: "representative + director; the legal representative of the company"
+      ko: "대표 + 이사; 회사의 법적 대표"
+  - japanese: "定款"
+    reading: "ていかん"
+    translation:
+      en: "articles of incorporation"
+      ko: "정관"
+    gender: null
+    notes:
+      en: "fix + section; the constitution of a corporation"
+      ko: "정하다 + 항목; 법인의 기본 규약"
+  - japanese: "内部統制"
+    reading: "ないぶとうせい"
+    translation:
+      en: "internal controls"
+      ko: "내부통제"
+    gender: null
+    notes:
+      en: "internal + govern + control; 内部統制を整備する = to establish internal controls"
+      ko: "내부 + 통 + 제; 内部統制を整備する = 내부통제를 정비하다"
+  - japanese: "透明性"
+    reading: "とうめいせい"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: null
+    notes:
+      en: "transparent + nature; 経営の透明性 = management transparency"
+      ko: "투명 + 성; 経営の透明性 = 경영 투명성"
+  - japanese: "利害関係者"
+    reading: "りがいかんけいしゃ"
+    translation:
+      en: "stakeholder"
+      ko: "이해관계자"
+    gender: null
+    notes:
+      en: "profit + harm + relation + person"
+      ko: "이익 + 손해 + 관계 + 자"
+  - japanese: "議決権"
+    reading: "ぎけつけん"
+    translation:
+      en: "voting rights"
+      ko: "의결권"
+    gender: null
+    notes:
+      en: "deliberate + decide + right; 議決権を行使する = to exercise voting rights"
+      ko: "의논 + 결정 + 권리; 議決権を行使する = 의결권을 행사하다"
+  - japanese: "善管注意義務"
+    reading: "ぜんかんちゅういぎむ"
+    translation:
+      en: "duty of care"
+      ko: "선관주의의무"
+    gender: null
+    notes:
+      en: "good + manage + care + duty; fiduciary obligation"
+      ko: "선량 + 관리 + 주의 + 의무; 신탁상의 의무"
+  - japanese: "忠実義務"
+    reading: "ちゅうじつぎむ"
+    translation:
+      en: "duty of loyalty"
+      ko: "충실의무"
+    gender: null
+    notes:
+      en: "loyalty + duty; directors must act in the company's interest"
+      ko: "충실 + 의무; 이사는 회사의 이익을 위해 행동해야 한다"
+  - japanese: "配当"
+    reading: "はいとう"
+    translation:
+      en: "dividend"
+      ko: "배당"
+    gender: null
+    notes:
+      en: "distribute + assign; 配当金 = dividend payment"
+      ko: "배분 + 해당; 配当金 = 배당금"
+  - japanese: "剰余金"
+    reading: "じょうよきん"
+    translation:
+      en: "surplus, retained earnings"
+      ko: "잉여금"
+    gender: null
+    notes:
+      en: "excess + remaining + money"
+      ko: "남는 + 여분 + 금"
+  - japanese: "委任"
+    reading: "いにん"
+    translation:
+      en: "delegation, mandate"
+      ko: "위임"
+    gender: null
+    notes:
+      en: "entrust + appoint; 委任状 = power of attorney"
+      ko: "맡기다 + 임명; 委任状 = 위임장"
+  - japanese: "解任"
+    reading: "かいにん"
+    translation:
+      en: "dismissal, removal from office"
+      ko: "해임"
+    gender: null
+    notes:
+      en: "dissolve + appoint; 取締役を解任する = to dismiss a director"
+      ko: "풀다 + 임명; 取締役を解任する = 이사를 해임하다"
+  - japanese: "任期"
+    reading: "にんき"
+    translation:
+      en: "term of office"
+      ko: "임기"
+    gender: null
+    notes:
+      en: "appoint + period; 任期満了 = expiration of term"
+      ko: "임명 + 기간; 任期満了 = 임기 만료"
+  - japanese: "報酬"
+    reading: "ほうしゅう"
+    translation:
+      en: "remuneration, compensation"
+      ko: "보수"
+    gender: null
+    notes:
+      en: "reward + repay; 役員報酬 = executive compensation"
+      ko: "보답 + 갚다; 役員報酬 = 임원 보수"
+  - japanese: "背任"
+    reading: "はいにん"
+    translation:
+      en: "breach of trust"
+      ko: "배임"
+    gender: null
+    notes:
+      en: "betray + duty; 背任罪 = crime of breach of trust"
+      ko: "배반 + 임무; 背任罪 = 배임죄"
+  - japanese: "情報開示"
+    reading: "じょうほうかいじ"
+    translation:
+      en: "disclosure"
+      ko: "정보공개"
+    gender: null
+    notes:
+      en: "information + open + show; 情報開示義務 = disclosure obligation"
+      ko: "정보 + 공개; 情報開示義務 = 정보공개 의무"
+  - japanese: "遵守"
+    reading: "じゅんしゅ"
+    translation:
+      en: "compliance, observance"
+      ko: "준수"
+    gender: null
+    notes:
+      en: "follow + protect; 法令遵守 = legal compliance"
+      ko: "따르다 + 지키다; 法令遵守 = 법령 준수"
+  - japanese: "説明責任"
+    reading: "せつめいせきにん"
+    translation:
+      en: "accountability"
+      ko: "설명책임"
+    gender: null
+    notes:
+      en: "explanation + responsibility"
+      ko: "설명 + 책임"
+  - japanese: "利益相反"
+    reading: "りえきそうはん"
+    translation:
+      en: "conflict of interest"
+      ko: "이익상반"
+    gender: null
+    notes:
+      en: "profit + mutual + oppose; 利益相反取引 = conflict-of-interest transaction"
+      ko: "이익 + 서로 + 반대; 利益相反取引 = 이익상반 거래"
+  - japanese: "株式"
+    reading: "かぶしき"
+    translation:
+      en: "stock, shares"
+      ko: "주식"
+    gender: null
+    notes:
+      en: "share + formula; 株式会社 = joint-stock company"
+      ko: "주 + 식; 株式会社 = 주식회사"
+  - japanese: "筆頭株主"
+    reading: "ひっとうかぶぬし"
+    translation:
+      en: "largest shareholder"
+      ko: "필두주주, 최대주주"
+    gender: null
+    notes:
+      en: "head + share + owner"
+      ko: "필두 + 주식 + 주인"
+  - japanese: "社外取締役"
+    reading: "しゃがいとりしまりやく"
+    translation:
+      en: "outside director"
+      ko: "사외이사"
+    gender: null
+    notes:
+      en: "company + outside + director"
+      ko: "회사 + 바깥 + 이사"
+  - japanese: "指名委員会"
+    reading: "しめいいいんかい"
+    translation:
+      en: "nomination committee"
+      ko: "지명위원회"
+    gender: null
+    notes:
+      en: "appoint + name + committee"
+      ko: "지명 + 위원회"
+  - japanese: "報酬委員会"
+    reading: "ほうしゅういいんかい"
+    translation:
+      en: "compensation committee"
+      ko: "보수위원회"
+    gender: null
+    notes:
+      en: "remuneration + committee"
+      ko: "보수 + 위원회"
+  - japanese: "経営陣"
+    reading: "けいえいじん"
+    translation:
+      en: "management team"
+      ko: "경영진"
+    gender: null
+    notes:
+      en: "management + formation; the executive leadership"
+      ko: "경영 + 진영; 경영 리더십"
+  - japanese: "子会社"
+    reading: "こがいしゃ"
+    translation:
+      en: "subsidiary"
+      ko: "자회사"
+    gender: null
+    notes:
+      en: "child + company; opposite: 親会社 (おやがいしゃ) = parent company"
+      ko: "자 + 회사; 반대: 親会社 = 모회사"
+  - japanese: "関連会社"
+    reading: "かんれんがいしゃ"
+    translation:
+      en: "affiliated company, associate"
+      ko: "관련회사"
+    gender: null
+    notes:
+      en: "related + company; 関連会社を含む = including affiliated companies"
+      ko: "관련 + 회사; 関連会社を含む = 관련회사를 포함하여"
+  - japanese: "連結決算"
+    reading: "れんけつけっさん"
+    translation:
+      en: "consolidated financial statements"
+      ko: "연결결산"
+    gender: null
+    notes:
+      en: "link + settle + accounts"
+      ko: "연결 + 결산"
+  - japanese: "持ち株会社"
+    reading: "もちかぶがいしゃ"
+    translation:
+      en: "holding company"
+      ko: "지주회사"
+    gender: null
+    notes:
+      en: "hold + shares + company"
+      ko: "가지다 + 주식 + 회사"
+
+- id: mergers_acquisitions
+  label:
+    en: "Mergers and Acquisitions"
+    ko: "합병 및 인수"
+  type: vocabulary
+  words:
+  - japanese: "合併"
+    reading: "がっぺい"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: null
+    notes:
+      en: "join + combine; 合併する = to merge"
+      ko: "합하다 + 병합; 合併する = 합병하다"
+  - japanese: "買収"
+    reading: "ばいしゅう"
+    translation:
+      en: "acquisition, buyout"
+      ko: "매수, 인수"
+    gender: null
+    notes:
+      en: "buy + collect; 企業買収 = corporate acquisition"
+      ko: "사다 + 거두다; 企業買収 = 기업 인수"
+  - japanese: "吸収合併"
+    reading: "きゅうしゅうがっぺい"
+    translation:
+      en: "absorption merger"
+      ko: "흡수합병"
+    gender: null
+    notes:
+      en: "absorb + merger; one company absorbs another"
+      ko: "흡수 + 합병; 한 회사가 다른 회사를 흡수"
+  - japanese: "対等合併"
+    reading: "たいとうがっぺい"
+    translation:
+      en: "merger of equals"
+      ko: "대등합병"
+    gender: null
+    notes:
+      en: "equal + merger"
+      ko: "대등 + 합병"
+  - japanese: "敵対的買収"
+    reading: "てきたいてきばいしゅう"
+    translation:
+      en: "hostile takeover"
+      ko: "적대적 인수"
+    gender: null
+    notes:
+      en: "hostile + acquisition; opposite: 友好的買収 = friendly acquisition"
+      ko: "적대적 + 매수; 반대: 友好的買収 = 우호적 인수"
+  - japanese: "公開買い付け"
+    reading: "こうかいかいつけ"
+    translation:
+      en: "tender offer, TOB"
+      ko: "공개매수"
+    gender: null
+    notes:
+      en: "public + buying + offer; TOB = take-over bid"
+      ko: "공개 + 매입; TOB = 공개매수"
+  - japanese: "買収防衛策"
+    reading: "ばいしゅうぼうえいさく"
+    translation:
+      en: "anti-takeover measures"
+      ko: "인수방어책"
+    gender: null
+    notes:
+      en: "acquisition + defense + measure"
+      ko: "인수 + 방어 + 책"
+  - japanese: "企業価値"
+    reading: "きぎょうかち"
+    translation:
+      en: "enterprise value"
+      ko: "기업가치"
+    gender: null
+    notes:
+      en: "enterprise + value; 企業価値の向上 = enhancement of enterprise value"
+      ko: "기업 + 가치; 企業価値の向上 = 기업가치 향상"
+  - japanese: "相乗効果"
+    reading: "そうじょうこうか"
+    translation:
+      en: "synergy"
+      ko: "시너지, 상승효과"
+    gender: null
+    notes:
+      en: "mutual + ride + effect; the combined benefit of a merger"
+      ko: "서로 + 타다 + 효과; 합병의 결합 효과"
+  - japanese: "統合"
+    reading: "とうごう"
+    translation:
+      en: "integration, consolidation"
+      ko: "통합"
+    gender: null
+    notes:
+      en: "unify + combine; 経営統合 = management integration"
+      ko: "통일 + 합치다; 経営統合 = 경영 통합"
+  - japanese: "事業譲渡"
+    reading: "じぎょうじょうと"
+    translation:
+      en: "business transfer"
+      ko: "사업양도"
+    gender: null
+    notes:
+      en: "business + transfer; selling off a business division"
+      ko: "사업 + 양도; 사업 부문 매각"
+  - japanese: "会社分割"
+    reading: "かいしゃぶんかつ"
+    translation:
+      en: "corporate split, demerger"
+      ko: "회사분할"
+    gender: null
+    notes:
+      en: "company + divide; splitting a company into parts"
+      ko: "회사 + 분할; 회사를 부분으로 나누기"
+  - japanese: "資産査定"
+    reading: "しさんさてい"
+    translation:
+      en: "asset valuation, due diligence"
+      ko: "자산사정, 실사"
+    gender: null
+    notes:
+      en: "asset + appraisal; evaluation of assets before M&A"
+      ko: "자산 + 사정; M&A 전 자산 평가"
+  - japanese: "株式交換"
+    reading: "かぶしきこうかん"
+    translation:
+      en: "share exchange"
+      ko: "주식교환"
+    gender: null
+    notes:
+      en: "shares + exchange; a method of M&A"
+      ko: "주식 + 교환; M&A의 한 방법"
+  - japanese: "株式移転"
+    reading: "かぶしきいてん"
+    translation:
+      en: "share transfer"
+      ko: "주식이전"
+    gender: null
+    notes:
+      en: "shares + transfer; creating a new holding company"
+      ko: "주식 + 이전; 새로운 지주회사 설립"
+  - japanese: "のれん"
+    reading: null
+    translation:
+      en: "goodwill (accounting)"
+      ko: "영업권"
+    gender: null
+    notes:
+      en: "intangible asset; のれん代 = goodwill premium"
+      ko: "무형자산; のれん代 = 영업권 프리미엄"
+  - japanese: "子会社化"
+    reading: "こがいしゃか"
+    translation:
+      en: "making into a subsidiary"
+      ko: "자회사화"
+    gender: null
+    notes:
+      en: "subsidiary + -ize; 完全子会社化 = making into a wholly-owned subsidiary"
+      ko: "자회사 + 화; 完全子会社化 = 완전 자회사화"
+  - japanese: "増資"
+    reading: "ぞうし"
+    translation:
+      en: "capital increase"
+      ko: "증자"
+    gender: null
+    notes:
+      en: "increase + capital; 第三者割当増資 = third-party allotment"
+      ko: "증가 + 자본; 第三者割当増資 = 제3자 배정 증자"
+  - japanese: "減資"
+    reading: "げんし"
+    translation:
+      en: "capital reduction"
+      ko: "감자"
+    gender: null
+    notes:
+      en: "reduce + capital"
+      ko: "감소 + 자본"
+  - japanese: "清算"
+    reading: "せいさん"
+    translation:
+      en: "liquidation"
+      ko: "청산"
+    gender: null
+    notes:
+      en: "clear + calculate; 会社を清算する = to liquidate a company"
+      ko: "깨끗이 + 계산; 会社を清算する = 회사를 청산하다"
+  - japanese: "上場廃止"
+    reading: "じょうじょうはいし"
+    translation:
+      en: "delisting"
+      ko: "상장폐지"
+    gender: null
+    notes:
+      en: "listing + abolish; removal from the stock exchange"
+      ko: "상장 + 폐지; 증권거래소에서 제거"
+  - japanese: "非公開化"
+    reading: "ひこうかいか"
+    translation:
+      en: "going private"
+      ko: "비공개화"
+    gender: null
+    notes:
+      en: "non + public + -ize; MBOなどで非公開化する = to go private via MBO"
+      ko: "비 + 공개 + 화; MBO 등으로 비공개화하다"
+  - japanese: "独占禁止法"
+    reading: "どくせんきんしほう"
+    translation:
+      en: "antitrust law, antimonopoly act"
+      ko: "독점금지법"
+    gender: null
+    notes:
+      en: "monopoly + prohibition + law"
+      ko: "독점 + 금지 + 법"
+
+- id: financial_analysis
+  label:
+    en: "Financial Analysis"
+    ko: "재무 분석"
+  type: vocabulary
+  words:
+  - japanese: "貸借対照表"
+    reading: "たいしゃくたいしょうひょう"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: null
+    notes:
+      en: "lend + borrow + contrast + table; abbreviated B/S"
+      ko: "빌려주다 + 빌리다 + 대조 + 표; 약칭 B/S"
+  - japanese: "損益計算書"
+    reading: "そんえきけいさんしょ"
+    translation:
+      en: "income statement, profit & loss statement"
+      ko: "손익계산서"
+    gender: null
+    notes:
+      en: "loss + profit + calculation + document; abbreviated P/L"
+      ko: "손실 + 이익 + 계산 + 서; 약칭 P/L"
+  - japanese: "収益"
+    reading: "しゅうえき"
+    translation:
+      en: "revenue, earnings"
+      ko: "수익"
+    gender: null
+    notes:
+      en: "collect + profit; 収益性 = profitability"
+      ko: "거두다 + 이익; 収益性 = 수익성"
+  - japanese: "営業利益"
+    reading: "えいぎょうりえき"
+    translation:
+      en: "operating profit"
+      ko: "영업이익"
+    gender: null
+    notes:
+      en: "business + profit; core business earnings"
+      ko: "영업 + 이익; 핵심 사업 수익"
+  - japanese: "経常利益"
+    reading: "けいじょうりえき"
+    translation:
+      en: "ordinary profit, recurring profit"
+      ko: "경상이익"
+    gender: null
+    notes:
+      en: "regular + normal + profit; includes non-operating income"
+      ko: "경상 + 이익; 영업외 수입 포함"
+  - japanese: "純利益"
+    reading: "じゅんりえき"
+    translation:
+      en: "net profit"
+      ko: "순이익"
+    gender: null
+    notes:
+      en: "pure + profit; the bottom line"
+      ko: "순 + 이익; 최종 손익"
+  - japanese: "粗利益"
+    reading: "あらりえき"
+    translation:
+      en: "gross profit"
+      ko: "매출총이익"
+    gender: null
+    notes:
+      en: "rough + profit; revenue minus cost of goods sold"
+      ko: "거친 + 이익; 매출액에서 매출원가를 뺀 것"
+  - japanese: "減価償却"
+    reading: "げんかしょうきゃく"
+    translation:
+      en: "depreciation"
+      ko: "감가상각"
+    gender: null
+    notes:
+      en: "reduce + price + repay + retire; 減価償却費 = depreciation expense"
+      ko: "감소 + 가격 + 상환 + 소각; 減価償却費 = 감가상각비"
+  - japanese: "償却"
+    reading: "しょうきゃく"
+    translation:
+      en: "amortization, write-off"
+      ko: "상각"
+    gender: null
+    notes:
+      en: "repay + retire; のれんの償却 = amortization of goodwill"
+      ko: "상환 + 소각; のれんの償却 = 영업권 상각"
+  - japanese: "引当金"
+    reading: "ひきあてきん"
+    translation:
+      en: "provision, reserve"
+      ko: "충당금"
+    gender: null
+    notes:
+      en: "draw + allocate + money; 貸倒引当金 = bad debt reserve"
+      ko: "끌다 + 할당 + 금; 貸倒引当金 = 대손충당금"
+  - japanese: "負債"
+    reading: "ふさい"
+    translation:
+      en: "liabilities, debt"
+      ko: "부채"
+    gender: null
+    notes:
+      en: "bear + debt; 負債比率 = debt ratio"
+      ko: "지다 + 빚; 負債比率 = 부채비율"
+  - japanese: "資産"
+    reading: "しさん"
+    translation:
+      en: "assets"
+      ko: "자산"
+    gender: null
+    notes:
+      en: "capital + produce; 固定資産 = fixed assets"
+      ko: "자본 + 낳다; 固定資産 = 고정자산"
+  - japanese: "自己資本"
+    reading: "じこしほん"
+    translation:
+      en: "equity, own capital"
+      ko: "자기자본"
+    gender: null
+    notes:
+      en: "self + capital; 自己資本比率 = equity ratio"
+      ko: "자기 + 자본; 自己資本比率 = 자기자본비율"
+  - japanese: "利益率"
+    reading: "りえきりつ"
+    translation:
+      en: "profit margin"
+      ko: "이익률"
+    gender: null
+    notes:
+      en: "profit + rate; 営業利益率 = operating profit margin"
+      ko: "이익 + 비율; 営業利益率 = 영업이익률"
+  - japanese: "売上高"
+    reading: "うりあげだか"
+    translation:
+      en: "sales revenue, turnover"
+      ko: "매출액"
+    gender: null
+    notes:
+      en: "sell + raise + amount; total revenue from sales"
+      ko: "팔다 + 올리다 + 액; 판매 총수익"
+  - japanese: "原価"
+    reading: "げんか"
+    translation:
+      en: "cost, cost price"
+      ko: "원가"
+    gender: null
+    notes:
+      en: "origin + price; 原価計算 = cost accounting"
+      ko: "근원 + 가격; 原価計算 = 원가계산"
+  - japanese: "キャッシュフロー"
+    reading: null
+    translation:
+      en: "cash flow"
+      ko: "현금흐름"
+    gender: null
+    notes:
+      en: "katakana; キャッシュフロー計算書 = cash flow statement"
+      ko: "외래어; キャッシュフロー計算書 = 현금흐름표"
+  - japanese: "時価総額"
+    reading: "じかそうがく"
+    translation:
+      en: "market capitalization"
+      ko: "시가총액"
+    gender: null
+    notes:
+      en: "market price + total + amount"
+      ko: "시가 + 총 + 액"
+  - japanese: "含み損"
+    reading: "ふくみぞん"
+    translation:
+      en: "unrealized loss"
+      ko: "평가손"
+    gender: null
+    notes:
+      en: "contain + loss; opposite: 含み益 = unrealized gain"
+      ko: "포함 + 손실; 반대: 含み益 = 평가이익"
+  - japanese: "黒字"
+    reading: "くろじ"
+    translation:
+      en: "in the black, profit"
+      ko: "흑자"
+    gender: null
+    notes:
+      en: "black + character; opposite: 赤字 (あかじ) = in the red, deficit"
+      ko: "검정 + 글자; 반대: 赤字 = 적자"
+  - japanese: "赤字"
+    reading: "あかじ"
+    translation:
+      en: "in the red, deficit"
+      ko: "적자"
+    gender: null
+    notes:
+      en: "red + character; 赤字経営 = running at a loss"
+      ko: "빨강 + 글자; 赤字経営 = 적자 경영"
+  - japanese: "連結"
+    reading: "れんけつ"
+    translation:
+      en: "consolidated"
+      ko: "연결"
+    gender: null
+    notes:
+      en: "link + bind; 連結決算 = consolidated financial statements"
+      ko: "연결 + 묶다; 連結決算 = 연결결산"
+  - japanese: "有価証券"
+    reading: "ゆうかしょうけん"
+    translation:
+      en: "securities"
+      ko: "유가증권"
+    gender: null
+    notes:
+      en: "value + have + certificate + ticket"
+      ko: "가치 + 있다 + 증거 + 권"
+  - japanese: "社債"
+    reading: "しゃさい"
+    translation:
+      en: "corporate bond"
+      ko: "사채"
+    gender: null
+    notes:
+      en: "company + debt; 社債を発行する = to issue corporate bonds"
+      ko: "회사 + 빚; 社債を発行する = 사채를 발행하다"
+  - japanese: "不良債権"
+    reading: "ふりょうさいけん"
+    translation:
+      en: "non-performing loan, bad debt"
+      ko: "부실채권"
+    gender: null
+    notes:
+      en: "defective + claim + right; 不良債権処理 = disposal of bad debts"
+      ko: "불량 + 채권; 不良債権処理 = 부실채권 처리"
+  - japanese: "計上"
+    reading: "けいじょう"
+    translation:
+      en: "posting, recording (in accounts)"
+      ko: "계상"
+    gender: null
+    notes:
+      en: "count + load; 利益を計上する = to post a profit"
+      ko: "계산 + 올리다; 利益を計上する = 이익을 계상하다"
+
+- id: leadership
+  label:
+    en: "Leadership"
+    ko: "리더십"
+  type: vocabulary
+  words:
+  - japanese: "統率"
+    reading: "とうそつ"
+    translation:
+      en: "leadership, command"
+      ko: "통솔"
+    gender: null
+    notes:
+      en: "unify + lead; 統率力 = leadership ability"
+      ko: "통일 + 이끌다; 統率力 = 통솔력"
+  - japanese: "牽引"
+    reading: "けんいん"
+    translation:
+      en: "leading, driving"
+      ko: "견인"
+    gender: null
+    notes:
+      en: "pull + draw; 業界を牽引する = to lead the industry"
+      ko: "끌다 + 당기다; 業界を牽引する = 업계를 견인하다"
+  - japanese: "求心力"
+    reading: "きゅうしんりょく"
+    translation:
+      en: "centripetal force, charisma"
+      ko: "구심력"
+    gender: null
+    notes:
+      en: "seek + center + power; ability to draw people together"
+      ko: "구하다 + 중심 + 힘; 사람들을 모으는 능력"
+  - japanese: "裁量"
+    reading: "さいりょう"
+    translation:
+      en: "discretion"
+      ko: "재량"
+    gender: null
+    notes:
+      en: "judge + measure; 裁量権 = discretionary power"
+      ko: "재단 + 헤아리다; 裁量権 = 재량권"
+  - japanese: "采配"
+    reading: "さいはい"
+    translation:
+      en: "command, direction"
+      ko: "지휘"
+    gender: null
+    notes:
+      en: "采配を振る = to take command"
+      ko: "采配を振る = 지휘를 하다"
+  - japanese: "指揮"
+    reading: "しき"
+    translation:
+      en: "command, direction"
+      ko: "지휘"
+    gender: null
+    notes:
+      en: "point + brandish; 指揮を執る = to take command"
+      ko: "가리키다 + 휘두르다; 指揮を執る = 지휘를 맡다"
+  - japanese: "決断"
+    reading: "けつだん"
+    translation:
+      en: "decision, resolution"
+      ko: "결단"
+    gender: null
+    notes:
+      en: "decide + cut; 決断力 = decisiveness"
+      ko: "결정 + 끊다; 決断力 = 결단력"
+  - japanese: "権限"
+    reading: "けんげん"
+    translation:
+      en: "authority, jurisdiction"
+      ko: "권한"
+    gender: null
+    notes:
+      en: "right + limit; 権限委譲 = delegation of authority"
+      ko: "권리 + 한계; 権限委譲 = 권한 위임"
+  - japanese: "委譲"
+    reading: "いじょう"
+    translation:
+      en: "delegation, transfer"
+      ko: "위양, 이양"
+    gender: null
+    notes:
+      en: "entrust + yield; 権限を委譲する = to delegate authority"
+      ko: "맡기다 + 넘기다; 権限を委譲する = 권한을 위양하다"
+  - japanese: "先見"
+    reading: "せんけん"
+    translation:
+      en: "foresight"
+      ko: "선견"
+    gender: null
+    notes:
+      en: "ahead + see; 先見の明 = the gift of foresight"
+      ko: "앞 + 보다; 先見の明 = 선견지명"
+  - japanese: "洞察"
+    reading: "どうさつ"
+    translation:
+      en: "insight, discernment"
+      ko: "통찰"
+    gender: null
+    notes:
+      en: "penetrate + examine; 洞察力 = insight, perceptiveness"
+      ko: "꿰뚫다 + 살피다; 洞察力 = 통찰력"
+  - japanese: "率先"
+    reading: "そっせん"
+    translation:
+      en: "taking the lead, initiative"
+      ko: "솔선"
+    gender: null
+    notes:
+      en: "lead + ahead; 率先垂範 = leading by example"
+      ko: "이끌다 + 앞서다; 率先垂範 = 솔선수범"
+  - japanese: "人望"
+    reading: "じんぼう"
+    translation:
+      en: "popularity, personal prestige"
+      ko: "인망"
+    gender: null
+    notes:
+      en: "person + hope; 人望が厚い = highly regarded by others"
+      ko: "사람 + 바라다; 人望が厚い = 인망이 두텁다"
+  - japanese: "意思決定"
+    reading: "いしけってい"
+    translation:
+      en: "decision-making"
+      ko: "의사결정"
+    gender: null
+    notes:
+      en: "intention + decision; 意思決定プロセス = decision-making process"
+      ko: "의사 + 결정; 意思決定プロセス = 의사결정 과정"
+  - japanese: "企業理念"
+    reading: "きぎょうりねん"
+    translation:
+      en: "corporate philosophy"
+      ko: "기업이념"
+    gender: null
+    notes:
+      en: "enterprise + philosophy; the guiding principles of a company"
+      ko: "기업 + 이념; 회사의 지도 원칙"
+  - japanese: "手腕"
+    reading: "しゅわん"
+    translation:
+      en: "skill, ability (in management)"
+      ko: "수완"
+    gender: null
+    notes:
+      en: "hand + arm; 経営手腕 = management skill"
+      ko: "손 + 팔; 経営手腕 = 경영 수완"
+  - japanese: "刷新"
+    reading: "さっしん"
+    translation:
+      en: "reform, renovation"
+      ko: "쇄신"
+    gender: null
+    notes:
+      en: "print + new; 経営を刷新する = to reform management"
+      ko: "찍다 + 새롭다; 経営を刷新する = 경영을 쇄신하다"
+  - japanese: "抜擢"
+    reading: "ばってき"
+    translation:
+      en: "selection, promotion (to a high position)"
+      ko: "발탁"
+    gender: null
+    notes:
+      en: "pull + select; 若手を抜擢する = to promote a young person"
+      ko: "뽑다 + 고르다; 若手を抜擢する = 젊은 인재를 발탁하다"
+  - japanese: "起用"
+    reading: "きよう"
+    translation:
+      en: "appointment, selection"
+      ko: "기용"
+    gender: null
+    notes:
+      en: "raise + use; 新人を起用する = to appoint a newcomer"
+      ko: "일으키다 + 쓰다; 新人を起用する = 신인을 기용하다"
+  - japanese: "適材適所"
+    reading: "てきざいてきしょ"
+    translation:
+      en: "the right person in the right place"
+      ko: "적재적소"
+    gender: null
+    notes:
+      en: "suitable + material + suitable + place"
+      ko: "적합 + 재능 + 적합 + 장소"
+  - japanese: "後継者"
+    reading: "こうけいしゃ"
+    translation:
+      en: "successor"
+      ko: "후계자"
+    gender: null
+    notes:
+      en: "after + succeed + person; 後継者問題 = succession problem"
+      ko: "뒤 + 잇다 + 자; 後継者問題 = 후계자 문제"
+  - japanese: "事業承継"
+    reading: "じぎょうしょうけい"
+    translation:
+      en: "business succession"
+      ko: "사업승계"
+    gender: null
+    notes:
+      en: "business + inherit; passing a business to the next generation"
+      ko: "사업 + 계승; 다음 세대에 사업 전달"
+
+- id: negotiations
+  label:
+    en: "Negotiations"
+    ko: "협상"
+  type: vocabulary
+  words:
+  - japanese: "交渉"
+    reading: "こうしょう"
+    translation:
+      en: "negotiation"
+      ko: "교섭, 협상"
+    gender: null
+    notes:
+      en: "exchange + wade; 交渉する = to negotiate"
+      ko: "교류 + 건너다; 交渉する = 교섭하다"
+  - japanese: "折衝"
+    reading: "せっしょう"
+    translation:
+      en: "negotiation, bargaining"
+      ko: "절충"
+    gender: null
+    notes:
+      en: "break + clash; more formal than 交渉; 折衝を重ねる = to negotiate repeatedly"
+      ko: "꺾다 + 부딪치다; 交渉보다 격식; 折衝を重ねる = 절충을 거듭하다"
+  - japanese: "妥協"
+    reading: "だきょう"
+    translation:
+      en: "compromise"
+      ko: "타협"
+    gender: null
+    notes:
+      en: "proper + cooperate; 妥協点を見出す = to find a compromise"
+      ko: "적절 + 협력; 妥協点を見出す = 타협점을 찾다"
+  - japanese: "合意"
+    reading: "ごうい"
+    translation:
+      en: "agreement, consensus"
+      ko: "합의"
+    gender: null
+    notes:
+      en: "join + intention; 合意に達する = to reach an agreement"
+      ko: "합하다 + 뜻; 合意に達する = 합의에 도달하다"
+  - japanese: "譲歩"
+    reading: "じょうほ"
+    translation:
+      en: "concession"
+      ko: "양보"
+    gender: null
+    notes:
+      en: "yield + step; 譲歩する = to make a concession"
+      ko: "양보 + 걸음; 譲歩する = 양보하다"
+  - japanese: "提案"
+    reading: "ていあん"
+    translation:
+      en: "proposal, suggestion"
+      ko: "제안"
+    gender: null
+    notes:
+      en: "present + plan; 提案する = to propose"
+      ko: "제시 + 안; 提案する = 제안하다"
+  - japanese: "条件"
+    reading: "じょうけん"
+    translation:
+      en: "conditions, terms"
+      ko: "조건"
+    gender: null
+    notes:
+      en: "article + matter; 条件を提示する = to present conditions"
+      ko: "조항 + 건; 条件を提示する = 조건을 제시하다"
+  - japanese: "締結"
+    reading: "ていけつ"
+    translation:
+      en: "conclusion (of a contract)"
+      ko: "체결"
+    gender: null
+    notes:
+      en: "tighten + bind; 契約を締結する = to conclude a contract"
+      ko: "조이다 + 맺다; 契約を締結する = 계약을 체결하다"
+  - japanese: "覚書"
+    reading: "おぼえがき"
+    translation:
+      en: "memorandum of understanding, MOU"
+      ko: "각서"
+    gender: null
+    notes:
+      en: "remember + writing; a preliminary agreement"
+      ko: "기억 + 글; 예비 합의서"
+  - japanese: "破談"
+    reading: "はだん"
+    translation:
+      en: "breakdown (of negotiations)"
+      ko: "파담"
+    gender: null
+    notes:
+      en: "break + talk; 交渉が破談になる = negotiations break down"
+      ko: "깨다 + 이야기; 交渉が破談になる = 협상이 결렬되다"
+  - japanese: "難航"
+    reading: "なんこう"
+    translation:
+      en: "difficult progress, rough going"
+      ko: "난항"
+    gender: null
+    notes:
+      en: "difficult + navigate; 交渉が難航する = negotiations hit rough waters"
+      ko: "어렵다 + 항해; 交渉が難航する = 교섭이 난항을 겪다"
+  - japanese: "歩み寄り"
+    reading: "あゆみより"
+    translation:
+      en: "compromise, meeting halfway"
+      ko: "타협, 양보"
+    gender: null
+    notes:
+      en: "walk + approach; 歩み寄る = to meet halfway"
+      ko: "걸음 + 다가가다; 歩み寄る = 타협하다"
+  - japanese: "調停"
+    reading: "ちょうてい"
+    translation:
+      en: "mediation, arbitration"
+      ko: "조정"
+    gender: null
+    notes:
+      en: "adjust + decide; 調停する = to mediate"
+      ko: "조절 + 정하다; 調停する = 조정하다"
+  - japanese: "仲裁"
+    reading: "ちゅうさい"
+    translation:
+      en: "arbitration"
+      ko: "중재"
+    gender: null
+    notes:
+      en: "middle + judge; 仲裁人 = arbitrator"
+      ko: "중간 + 재판; 仲裁人 = 중재인"
+  - japanese: "決裂"
+    reading: "けつれつ"
+    translation:
+      en: "breakdown, rupture"
+      ko: "결렬"
+    gender: null
+    notes:
+      en: "decide + split; 交渉が決裂する = negotiations collapse"
+      ko: "결정 + 찢어지다; 交渉が決裂する = 교섭이 결렬되다"
+  - japanese: "打開"
+    reading: "だかい"
+    translation:
+      en: "breakthrough"
+      ko: "타개"
+    gender: null
+    notes:
+      en: "strike + open; 局面を打開する = to break a deadlock"
+      ko: "치다 + 열다; 局面を打開する = 국면을 타개하다"
+  - japanese: "互譲"
+    reading: "ごじょう"
+    translation:
+      en: "mutual concession"
+      ko: "호양"
+    gender: null
+    notes:
+      en: "mutual + yield; 互譲の精神 = spirit of give and take"
+      ko: "서로 + 양보; 互譲の精神 = 상호양보의 정신"
+  - japanese: "紛争"
+    reading: "ふんそう"
+    translation:
+      en: "dispute, conflict"
+      ko: "분쟁"
+    gender: null
+    notes:
+      en: "entangle + conflict; 紛争解決 = dispute resolution"
+      ko: "어지럽다 + 다투다; 紛争解決 = 분쟁 해결"
+  - japanese: "斡旋"
+    reading: "あっせん"
+    translation:
+      en: "mediation, good offices"
+      ko: "알선"
+    gender: null
+    notes:
+      en: "斡旋する = to mediate, to act as go-between"
+      ko: "斡旋する = 알선하다"
+  - japanese: "最終合意"
+    reading: "さいしゅうごうい"
+    translation:
+      en: "final agreement"
+      ko: "최종합의"
+    gender: null
+    notes:
+      en: "final + agreement"
+      ko: "최종 + 합의"
+  - japanese: "白紙撤回"
+    reading: "はくしてっかい"
+    translation:
+      en: "withdrawal, scrapping (going back to square one)"
+      ko: "백지철회"
+    gender: null
+    notes:
+      en: "white paper + withdraw; 提案を白紙撤回する = to scrap a proposal entirely"
+      ko: "백지 + 철회; 提案を白紙撤回する = 제안을 백지철회하다"
+  - japanese: "拘束力"
+    reading: "こうそくりょく"
+    translation:
+      en: "binding force"
+      ko: "구속력"
+    gender: null
+    notes:
+      en: "restrain + power; 法的拘束力 = legally binding force"
+      ko: "구속 + 힘; 法的拘束力 = 법적 구속력"
+  - japanese: "立場"
+    reading: "たちば"
+    translation:
+      en: "position, standpoint"
+      ko: "입장"
+    gender: null
+    notes:
+      en: "stand + place; 立場を明確にする = to clarify one's position"
+      ko: "서다 + 장소; 立場を明確にする = 입장을 명확히 하다"
+  - japanese: "要求"
+    reading: "ようきゅう"
+    translation:
+      en: "demand, request"
+      ko: "요구"
+    gender: null
+    notes:
+      en: "need + seek; 要求を突きつける = to make a strong demand"
+      ko: "필요 + 구하다; 要求を突きつける = 요구를 내밀다"
+  - japanese: "見通し"
+    reading: "みとおし"
+    translation:
+      en: "outlook, prospect"
+      ko: "전망"
+    gender: null
+    notes:
+      en: "see + pass through; 今後の見通し = future outlook"
+      ko: "보다 + 통하다; 今後の見通し = 향후 전망"
+  - japanese: "裁定"
+    reading: "さいてい"
+    translation:
+      en: "ruling, decision"
+      ko: "재정"
+    gender: null
+    notes:
+      en: "judge + decide; 裁定を下す = to hand down a ruling"
+      ko: "재판 + 정하다; 裁定を下す = 재정을 내리다"
+  - japanese: "既成事実"
+    reading: "きせいじじつ"
+    translation:
+      en: "fait accompli, established fact"
+      ko: "기정사실"
+    gender: null
+    notes:
+      en: "already + formed + fact; 既成事実化する = to make it a fait accompli"
+      ko: "이미 + 형성 + 사실; 既成事実化する = 기정사실화하다"
+  - japanese: "根回し"
+    reading: "ねまわし"
+    translation:
+      en: "prior consultation, behind-the-scenes work"
+      ko: "사전 교섭"
+    gender: null
+    notes:
+      en: "root + circulate; preparing consensus before a formal decision"
+      ko: "뿌리 + 돌리다; 공식 결정 전에 합의를 준비하는 것"
+  - japanese: "腹案"
+    reading: "ふくあん"
+    translation:
+      en: "private plan, hidden proposal"
+      ko: "복안"
+    gender: null
+    notes:
+      en: "stomach + plan; 腹案を持つ = to have a plan up one's sleeve"
+      ko: "배 + 안; 腹案を持つ = 복안을 가지다"
+  - japanese: "対案"
+    reading: "たいあん"
+    translation:
+      en: "counter-proposal"
+      ko: "대안"
+    gender: null
+    notes:
+      en: "oppose + plan; 対案を出す = to present a counter-proposal"
+      ko: "대 + 안; 対案を出す = 대안을 내다"
+  - japanese: "暗礁"
+    reading: "あんしょう"
+    translation:
+      en: "reef, deadlock"
+      ko: "암초"
+    gender: null
+    notes:
+      en: "dark + reef; 交渉が暗礁に乗り上げる = negotiations hit a snag"
+      ko: "어둡다 + 암초; 交渉が暗礁に乗り上げる = 교섭이 암초에 걸리다"
+  - japanese: "内部留保"
+    reading: "ないぶりゅうほ"
+    translation:
+      en: "retained earnings, internal reserves"
+      ko: "내부유보"
+    gender: null
+    notes:
+      en: "internal + retain; 内部留保が潤沢 = ample internal reserves"
+      ko: "내부 + 유보; 内部留保が潤沢 = 내부유보가 풍부"
+  - japanese: "粉飾決算"
+    reading: "ふんしょくけっさん"
+    translation:
+      en: "window dressing, accounting fraud"
+      ko: "분식결산"
+    gender: null
+    notes:
+      en: "embellish + settlement; falsifying financial reports"
+      ko: "분식 + 결산; 재무 보고서 위조"
+  - japanese: "上場"
+    reading: "じょうじょう"
+    translation:
+      en: "listing (on a stock exchange)"
+      ko: "상장"
+    gender: null
+    notes:
+      en: "上場する = to go public; 新規上場 = IPO"
+      ko: "上場する = 상장하다; 新規上場 = 신규상장"
+  - japanese: "債務超過"
+    reading: "さいむちょうか"
+    translation:
+      en: "insolvency, excess of liabilities"
+      ko: "채무초과"
+    gender: null
+    notes:
+      en: "debt + excess; liabilities exceeding assets"
+      ko: "채무 + 초과; 부채가 자산을 초과"
+  - japanese: "投資"
+    reading: "とうし"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: null
+    notes:
+      en: "throw + capital; 投資家 = investor"
+      ko: "던지다 + 자본; 投資家 = 투자자"
+  - japanese: "融資"
+    reading: "ゆうし"
+    translation:
+      en: "financing, loan"
+      ko: "융자"
+    gender: null
+    notes:
+      en: "melt + capital; 融資する = to finance"
+      ko: "녹이다 + 자본; 融資する = 융자하다"
+  - japanese: "破綻"
+    reading: "はたん"
+    translation:
+      en: "collapse, failure"
+      ko: "파탄"
+    gender: null
+    notes:
+      en: "break + unravel; 経営破綻 = management failure"
+      ko: "깨다 + 풀리다; 経営破綻 = 경영 파탄"
+  - japanese: "倒産"
+    reading: "とうさん"
+    translation:
+      en: "bankruptcy"
+      ko: "도산"
+    gender: null
+    notes:
+      en: "fall + produce; 倒産する = to go bankrupt"
+      ko: "넘어지다 + 산; 倒産する = 도산하다"
+  - japanese: "民事再生"
+    reading: "みんじさいせい"
+    translation:
+      en: "civil rehabilitation, corporate reorganization"
+      ko: "민사재생"
+    gender: null
+    notes:
+      en: "civil + rehabilitation; 民事再生法 = Civil Rehabilitation Act"
+      ko: "민사 + 재생; 民事再生法 = 민사재생법"
+  - japanese: "利回り"
+    reading: "りまわり"
+    translation:
+      en: "yield, return"
+      ko: "수익률"
+    gender: null
+    notes:
+      en: "profit + turn; 投資利回り = investment yield"
+      ko: "이익 + 돌다; 投資利回り = 투자수익률"
+  - japanese: "為替"
+    reading: "かわせ"
+    translation:
+      en: "exchange (foreign)"
+      ko: "환"
+    gender: null
+    notes:
+      en: "外国為替 = foreign exchange; 為替レート = exchange rate"
+      ko: "外国為替 = 외국환; 為替レート = 환율"
+  - japanese: "監査"
+    reading: "かんさ"
+    translation:
+      en: "audit"
+      ko: "감사"
+    gender: null
+    notes:
+      en: "supervise + investigate; 会計監査 = financial audit"
+      ko: "감독 + 조사; 会計監査 = 회계감사"
+  - japanese: "株価"
+    reading: "かぶか"
+    translation:
+      en: "stock price"
+      ko: "주가"
+    gender: null
+    notes:
+      en: "share + price; 株価が急落する = stock price plunges"
+      ko: "주 + 가; 株価が急落する = 주가가 급락하다"
+  - japanese: "景気"
+    reading: "けいき"
+    translation:
+      en: "business conditions, economy"
+      ko: "경기"
+    gender: null
+    notes:
+      en: "scene + spirit; 景気回復 = economic recovery"
+      ko: "경 + 기; 景気回復 = 경기 회복"
+  - japanese: "不況"
+    reading: "ふきょう"
+    translation:
+      en: "recession, depression"
+      ko: "불황"
+    gender: null
+    notes:
+      en: "not + condition; 不況に陥る = to fall into recession"
+      ko: "불 + 황; 不況に陥る = 불황에 빠지다"
+  - japanese: "好況"
+    reading: "こうきょう"
+    translation:
+      en: "boom, prosperity"
+      ko: "호황"
+    gender: null
+    notes:
+      en: "good + condition; opposite of 不況"
+      ko: "좋다 + 황; 不況의 반대"
+  - japanese: "原資"
+    reading: "げんし"
+    translation:
+      en: "seed money, capital fund"
+      ko: "원자, 자금원"
+    gender: null
+    notes:
+      en: "origin + capital; the original fund for investment"
+      ko: "원 + 자본; 투자를 위한 원래 자금"
+  - japanese: "試算"
+    reading: "しさん"
+    translation:
+      en: "trial calculation, estimate"
+      ko: "시산"
+    gender: null
+    notes:
+      en: "try + calculate; 試算する = to make a rough calculation"
+      ko: "시도 + 계산; 試算する = 시산하다"
+  - japanese: "手形"
+    reading: "てがた"
+    translation:
+      en: "bill, promissory note"
+      ko: "어음"
+    gender: null
+    notes:
+      en: "hand + shape; 約束手形 = promissory note"
+      ko: "손 + 모양; 約束手形 = 약속어음"
+  - japanese: "決算"
+    reading: "けっさん"
+    translation:
+      en: "settlement of accounts"
+      ko: "결산"
+    gender: null
+    notes:
+      en: "settle + calculate; 決算期 = fiscal period"
+      ko: "결 + 산; 決算期 = 결산기"
+  - japanese: "売掛金"
+    reading: "うりかけきん"
+    translation:
+      en: "accounts receivable"
+      ko: "매출채권"
+    gender: null
+    notes:
+      en: "sell + credit + money; amounts owed to the company"
+      ko: "팔다 + 외상 + 금; 회사에 빚진 금액"
+  - japanese: "買掛金"
+    reading: "かいかけきん"
+    translation:
+      en: "accounts payable"
+      ko: "매입채무"
+    gender: null
+    notes:
+      en: "buy + credit + money; amounts owed by the company"
+      ko: "사다 + 외상 + 금; 회사가 빚진 금액"
+  - japanese: "繰越"
+    reading: "くりこし"
+    translation:
+      en: "carryover, carried forward"
+      ko: "이월"
+    gender: null
+    notes:
+      en: "繰越利益 = retained earnings carried forward"
+      ko: "繰越利益 = 이월이익잉여금"
+  - japanese: "損失"
+    reading: "そんしつ"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: null
+    notes:
+      en: "damage + lose; 損失を計上する = to report a loss"
+      ko: "손 + 실; 損失を計上する = 손실을 계상하다"
+  - japanese: "特損"
+    reading: "とくそん"
+    translation:
+      en: "extraordinary loss"
+      ko: "특별손실"
+    gender: null
+    notes:
+      en: "special + loss; short for 特別損失"
+      ko: "특별 + 손실; 特別損失의 약칭"
+  - japanese: "償還"
+    reading: "しょうかん"
+    translation:
+      en: "redemption, repayment"
+      ko: "상환"
+    gender: null
+    notes:
+      en: "repay + return; 社債の償還 = redemption of corporate bonds"
+      ko: "갚다 + 돌려주다; 社債の償還 = 사채 상환"
+  - japanese: "棚卸し"
+    reading: "たなおろし"
+    translation:
+      en: "inventory, stocktaking"
+      ko: "재고조사"
+    gender: null
+    notes:
+      en: "shelf + lower; 棚卸し資産 = inventories"
+      ko: "선반 + 내리다; 棚卸し資産 = 재고자산"
+  - japanese: "督促"
+    reading: "とくそく"
+    translation:
+      en: "demand for payment, dunning"
+      ko: "독촉"
+    gender: null
+    notes:
+      en: "supervise + urge; 督促状 = demand notice"
+      ko: "감독 + 재촉; 督促状 = 독촉장"
+  - japanese: "見積もり"
+    reading: "みつもり"
+    translation:
+      en: "estimate, quotation"
+      ko: "견적"
+    gender: null
+    notes:
+      en: "見積書 = written estimate, quotation"
+      ko: "見積書 = 견적서"
+  - japanese: "損益分岐点"
+    reading: "そんえきぶんきてん"
+    translation:
+      en: "break-even point"
+      ko: "손익분기점"
+    gender: null
+    notes:
+      en: "loss + profit + diverge + point"
+      ko: "손익 + 분기 + 점"
+  - japanese: "減損"
+    reading: "げんそん"
+    translation:
+      en: "impairment"
+      ko: "감손"
+    gender: null
+    notes:
+      en: "reduce + damage; 減損処理 = impairment accounting"
+      ko: "감소 + 손상; 減損処理 = 감손처리"
+  - japanese: "稟議"
+    reading: "りんぎ"
+    translation:
+      en: "approval process (circulating a proposal)"
+      ko: "품의"
+    gender: null
+    notes:
+      en: "稟議書 = proposal form for circulation; a Japanese management practice"
+      ko: "稟議書 = 품의서; 일본 경영 관행"
+  - japanese: "答申"
+    reading: "とうしん"
+    translation:
+      en: "report, recommendation (to superiors)"
+      ko: "답신"
+    gender: null
+    notes:
+      en: "answer + state; 答申書 = advisory report"
+      ko: "답 + 신; 答申書 = 답신서"
+  - japanese: "諮問"
+    reading: "しもん"
+    translation:
+      en: "consultation, advisory inquiry"
+      ko: "자문"
+    gender: null
+    notes:
+      en: "consult + ask; 諮問委員会 = advisory committee"
+      ko: "자문 + 묻다; 諮問委員会 = 자문위원회"
+  - japanese: "供託"
+    reading: "きょうたく"
+    translation:
+      en: "deposit (legal/financial)"
+      ko: "공탁"
+    gender: null
+    notes:
+      en: "offer + entrust; 供託金 = deposit money"
+      ko: "제공 + 맡기다; 供託金 = 공탁금"
+  - japanese: "勘定"
+    reading: "かんじょう"
+    translation:
+      en: "account, reckoning"
+      ko: "계정"
+    gender: null
+    notes:
+      en: "consider + fix; 勘定科目 = account title"
+      ko: "헤아리다 + 정하다; 勘定科目 = 계정과목"
+  - japanese: "簿記"
+    reading: "ぼき"
+    translation:
+      en: "bookkeeping"
+      ko: "부기"
+    gender: null
+    notes:
+      en: "ledger + record; 複式簿記 = double-entry bookkeeping"
+      ko: "장부 + 기; 複式簿記 = 복식부기"
+  - japanese: "控除"
+    reading: "こうじょ"
+    translation:
+      en: "deduction"
+      ko: "공제"
+    gender: null
+    notes:
+      en: "withdraw + remove; 税額控除 = tax deduction"
+      ko: "빼다 + 제거; 税額控除 = 세액공제"
+  - japanese: "仕入れ"
+    reading: "しいれ"
+    translation:
+      en: "procurement, purchasing"
+      ko: "매입"
+    gender: null
+    notes:
+      en: "仕入先 = supplier; 仕入原価 = purchase cost"
+      ko: "仕入先 = 공급업체; 仕入原価 = 매입원가"
+  - japanese: "納入"
+    reading: "のうにゅう"
+    translation:
+      en: "delivery, supply"
+      ko: "납입"
+    gender: null
+    notes:
+      en: "pay + enter; 納入する = to deliver, to supply"
+      ko: "납 + 입; 납입する = 납입하다"
+  - japanese: "年商"
+    reading: "ねんしょう"
+    translation:
+      en: "annual sales"
+      ko: "연간매출"
+    gender: null
+    notes:
+      en: "year + commerce; 年商10億円 = annual sales of 1 billion yen"
+      ko: "연 + 상; 年商10億円 = 연간매출 10억엔"
+  - japanese: "競合"
+    reading: "きょうごう"
+    translation:
+      en: "competition, competitor"
+      ko: "경합, 경쟁"
+    gender: null
+    notes:
+      en: "compete + join; 競合他社 = competing firms"
+      ko: "경 + 합; 競合他社 = 경쟁 기업"
+  - japanese: "寡占"
+    reading: "かせん"
+    translation:
+      en: "oligopoly"
+      ko: "과점"
+    gender: null
+    notes:
+      en: "few + occupy; 寡占市場 = oligopolistic market"
+      ko: "적다 + 차지; 寡占市場 = 과점 시장"
+  - japanese: "独占"
+    reading: "どくせん"
+    translation:
+      en: "monopoly"
+      ko: "독점"
+    gender: null
+    notes:
+      en: "alone + occupy; 市場を独占する = to monopolize the market"
+      ko: "혼자 + 차지; 市場を独占する = 시장을 독점하다"
+  - japanese: "参入"
+    reading: "さんにゅう"
+    translation:
+      en: "entry (into a market)"
+      ko: "참입, 진입"
+    gender: null
+    notes:
+      en: "participate + enter; 新規参入 = new market entry"
+      ko: "참여 + 들어가다; 新規参入 = 신규진입"
+  - japanese: "撤退"
+    reading: "てったい"
+    translation:
+      en: "withdrawal, retreat"
+      ko: "철수"
+    gender: null
+    notes:
+      en: "withdraw + retreat; 市場から撤退する = to withdraw from a market"
+      ko: "철 + 퇴; 市場から撤退する = 시장에서 철수하다"
+  - japanese: "提携"
+    reading: "ていけい"
+    translation:
+      en: "partnership, tie-up"
+      ko: "제휴"
+    gender: null
+    notes:
+      en: "present + carry; 業務提携 = business alliance"
+      ko: "제 + 휴; 業務提携 = 업무제휴"
+  - japanese: "出資"
+    reading: "しゅっし"
+    translation:
+      en: "investment, capital contribution"
+      ko: "출자"
+    gender: null
+    notes:
+      en: "put out + capital; 出資比率 = investment ratio"
+      ko: "내다 + 자본; 出資比率 = 출자비율"
+  - japanese: "収支"
+    reading: "しゅうし"
+    translation:
+      en: "income and expenditure"
+      ko: "수지"
+    gender: null
+    notes:
+      en: "receive + pay; 収支が合う = to break even"
+      ko: "수입 + 지출; 収支が合う = 수지가 맞다"
+  - japanese: "経費"
+    reading: "けいひ"
+    translation:
+      en: "expenses, costs"
+      ko: "경비"
+    gender: null
+    notes:
+      en: "manage + expense; 経費削減 = cost reduction"
+      ko: "경 + 비; 経費削減 = 경비 절감"
+  - japanese: "予算"
+    reading: "よさん"
+    translation:
+      en: "budget"
+      ko: "예산"
+    gender: null
+    notes:
+      en: "pre + calculate; 予算を組む = to draw up a budget"
+      ko: "미리 + 계산; 予算を組む = 예산을 짜다"
+  - japanese: "採算"
+    reading: "さいさん"
+    translation:
+      en: "profitability"
+      ko: "채산"
+    gender: null
+    notes:
+      en: "take + calculate; 採算が取れる = to be profitable"
+      ko: "취 + 산; 採算が取れる = 채산이 맞다"
+  - japanese: "特需"
+    reading: "とくじゅ"
+    translation:
+      en: "special demand, windfall"
+      ko: "특수"
+    gender: null
+    notes:
+      en: "special + demand; 戦争特需 = wartime special demand"
+      ko: "특별 + 수요; 戦争特需 = 전쟁 특수"
+  - japanese: "累積"
+    reading: "るいせき"
+    translation:
+      en: "accumulation"
+      ko: "누적"
+    gender: null
+    notes:
+      en: "pile + accumulate; 累積赤字 = accumulated deficit"
+      ko: "쌓이다 + 쌓다; 累積赤字 = 누적 적자"
+  - japanese: "拠出"
+    reading: "きょしゅつ"
+    translation:
+      en: "contribution (of funds)"
+      ko: "거출"
+    gender: null
+    notes:
+      en: "base + put out; 資金を拠出する = to contribute funds"
+      ko: "근거 + 내다; 資金を拠出する = 자금을 거출하다"
+  - japanese: "源泉徴収"
+    reading: "げんせんちょうしゅう"
+    translation:
+      en: "withholding at source"
+      ko: "원천징수"
+    gender: null
+    notes:
+      en: "source + collect; 源泉徴収票 = withholding slip"
+      ko: "원천 + 징수; 源泉徴収票 = 원천징수영수증"
+  - japanese: "繰延"
+    reading: "くりのべ"
+    translation:
+      en: "deferral, postponement"
+      ko: "이연"
+    gender: null
+    notes:
+      en: "繰延資産 = deferred assets"
+      ko: "繰延資産 = 이연자산"
+  - japanese: "引当金"
+    reading: "ひきあてきん"
+    translation:
+      en: "reserve, provision"
+      ko: "충당금"
+    gender: null
+    notes:
+      en: "draw + allocate + money; 貸倒引当金 = allowance for bad debts"
+      ko: "끌다 + 당 + 금; 貸倒引当金 = 대손충당금"
+  - japanese: "配当"
+    reading: "はいとう"
+    translation:
+      en: "dividend"
+      ko: "배당"
+    gender: null
+    notes:
+      en: "distribute + allot; 配当金 = dividend payment"
+      ko: "배 + 당; 配当金 = 배당금"
+  - japanese: "粉飾"
+    reading: "ふんしょく"
+    translation:
+      en: "window dressing, embellishment"
+      ko: "분식"
+    gender: null
+    notes:
+      en: "powder + decorate; 粉飾決算 = fraudulent financial reporting"
+      ko: "분 + 식; 粉飾決算 = 분식회계"
+  - japanese: "稟議"
+    reading: "りんぎ"
+    translation:
+      en: "request for approval (circular)"
+      ko: "품의"
+    gender: null
+    notes:
+      en: "submit + discuss; 稟議書 = approval request document"
+      ko: "품 + 의; 稟議書 = 품의서"
+  - japanese: "定款"
+    reading: "ていかん"
+    translation:
+      en: "articles of incorporation"
+      ko: "정관"
+    gender: null
+    notes:
+      en: "set + rule; 定款を変更する = to amend the articles"
+      ko: "정 + 관; 定款を変更する = 정관을 변경하다"
+  - japanese: "剰余金"
+    reading: "じょうよきん"
+    translation:
+      en: "surplus, retained earnings"
+      ko: "잉여금"
+    gender: null
+    notes:
+      en: "excess + surplus + money; 利益剰余金 = retained earnings"
+      ko: "잉 + 여 + 금; 利益剰余金 = 이익잉여금"
+  - japanese: "清算"
+    reading: "せいさん"
+    translation:
+      en: "liquidation, settlement"
+      ko: "청산"
+    gender: null
+    notes:
+      en: "clear + calculate; 会社を清算する = to liquidate a company"
+      ko: "청 + 산; 会社を清算する = 회사를 청산하다"
+  - japanese: "賦課"
+    reading: "ふか"
+    translation:
+      en: "levy, assessment"
+      ko: "부과"
+    gender: null
+    notes:
+      en: "bestow + assess; 税金を賦課する = to levy taxes"
+      ko: "부 + 과; 税金を賦課する = 세금을 부과하다"

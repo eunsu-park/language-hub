@@ -1,0 +1,1264 @@
+lesson: "sup_N2_Medicine_and_Health"
+lesson_number: 165
+jlpt: N2
+type: supplementary
+topic: "Medicine and Health"
+categories:
+- id: anatomy
+  label:
+    en: "Anatomy"
+    ko: "해부학"
+  type: vocabulary
+  words:
+  - japanese: "臓器"
+    reading: "ぞうき"
+    translation:
+      en: "organ (internal)"
+      ko: "장기"
+    gender: null
+    notes:
+      en: "臓器移植 = organ transplant"
+      ko: "臓器移植 = 장기 이식"
+  - japanese: "心臓"
+    reading: "しんぞう"
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: null
+    notes:
+      en: "heart + organ"
+      ko: "마음 + 장"
+  - japanese: "肺"
+    reading: "はい"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: null
+    notes:
+      en: "肺炎 = pneumonia"
+      ko: "肺炎 = 폐렴"
+  - japanese: "肝臓"
+    reading: "かんぞう"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: null
+    notes:
+      en: "肝臓病 = liver disease"
+      ko: "肝臓病 = 간 질환"
+  - japanese: "腎臓"
+    reading: "じんぞう"
+    translation:
+      en: "kidney"
+      ko: "신장"
+    gender: null
+    notes:
+      en: "腎臓病 = kidney disease"
+      ko: "腎臓病 = 신장 질환"
+  - japanese: "胃"
+    reading: "い"
+    translation:
+      en: "stomach"
+      ko: "위"
+    gender: null
+    notes:
+      en: "胃腸 = stomach and intestines"
+      ko: "胃腸 = 위장"
+  - japanese: "腸"
+    reading: "ちょう"
+    translation:
+      en: "intestine"
+      ko: "장"
+    gender: null
+    notes:
+      en: "大腸 = large intestine; 小腸 = small intestine"
+      ko: "大腸 = 대장; 小腸 = 소장"
+  - japanese: "脳"
+    reading: "のう"
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: null
+    notes:
+      en: "脳神経 = cranial nerve"
+      ko: "脳神経 = 뇌신경"
+  - japanese: "骨"
+    reading: "ほね"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: null
+    notes:
+      en: "骨折 (こっせつ) = fracture"
+      ko: "骨折 (こっせつ) = 골절"
+  - japanese: "筋肉"
+    reading: "きんにく"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: null
+    notes:
+      en: "tendon + flesh"
+      ko: "힘줄 + 살"
+  - japanese: "血管"
+    reading: "けっかん"
+    translation:
+      en: "blood vessel"
+      ko: "혈관"
+    gender: null
+    notes:
+      en: "動脈 = artery; 静脈 = vein"
+      ko: "動脈 = 동맥; 静脈 = 정맥"
+  - japanese: "動脈"
+    reading: "どうみゃく"
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: null
+    notes:
+      en: "move + pulse"
+      ko: "움직이다 + 맥"
+  - japanese: "静脈"
+    reading: "じょうみゃく"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: null
+    notes:
+      en: "quiet + pulse"
+      ko: "고요한 + 맥"
+  - japanese: "神経"
+    reading: "しんけい"
+    translation:
+      en: "nerve"
+      ko: "신경"
+    gender: null
+    notes:
+      en: "中枢神経 = central nervous system"
+      ko: "中枢神経 = 중추 신경"
+  - japanese: "細胞"
+    reading: "さいぼう"
+    translation:
+      en: "cell"
+      ko: "세포"
+    gender: null
+    notes:
+      en: "赤血球 = red blood cell"
+      ko: "赤血球 = 적혈구"
+  - japanese: "骨髄"
+    reading: "こつずい"
+    translation:
+      en: "bone marrow"
+      ko: "골수"
+    gender: null
+    notes:
+      en: "骨髄移植 = bone marrow transplant"
+      ko: "骨髄移植 = 골수 이식"
+  - japanese: "膵臓"
+    reading: "すいぞう"
+    translation:
+      en: "pancreas"
+      ko: "췌장"
+    gender: null
+    notes:
+      en: "膵臓がん = pancreatic cancer"
+      ko: "膵臓がん = 췌장암"
+  - japanese: "脊髄"
+    reading: "せきずい"
+    translation:
+      en: "spinal cord"
+      ko: "척수"
+    gender: null
+    notes:
+      en: "spine + marrow"
+      ko: "척추 + 수"
+  - japanese: "関節"
+    reading: "かんせつ"
+    translation:
+      en: "joint"
+      ko: "관절"
+    gender: null
+    notes:
+      en: "関節炎 = arthritis"
+      ko: "関節炎 = 관절염"
+  - japanese: "軟骨"
+    reading: "なんこつ"
+    translation:
+      en: "cartilage"
+      ko: "연골"
+    gender: null
+    notes:
+      en: "soft + bone"
+      ko: "부드러운 + 뼈"
+  - japanese: "靭帯"
+    reading: "じんたい"
+    translation:
+      en: "ligament"
+      ko: "인대"
+    gender: null
+    notes:
+      en: "tough + band"
+      ko: "질긴 + 띠"
+  - japanese: "横隔膜"
+    reading: "おうかくまく"
+    translation:
+      en: "diaphragm"
+      ko: "횡격막"
+    gender: null
+    notes:
+      en: "horizontal + barrier + membrane"
+      ko: "가로 + 격 + 막"
+  - japanese: "甲状腺"
+    reading: "こうじょうせん"
+    translation:
+      en: "thyroid gland"
+      ko: "갑상선"
+    gender: null
+    notes:
+      en: "shell + shape + gland"
+      ko: "갑 + 상 + 선"
+  - japanese: "副腎"
+    reading: "ふくじん"
+    translation:
+      en: "adrenal gland"
+      ko: "부신"
+    gender: null
+    notes:
+      en: "secondary + kidney"
+      ko: "부 + 신"
+  - japanese: "粘膜"
+    reading: "ねんまく"
+    translation:
+      en: "mucous membrane"
+      ko: "점막"
+    gender: null
+    notes:
+      en: "sticky + membrane"
+      ko: "끈적 + 막"
+  - japanese: "網膜"
+    reading: "もうまく"
+    translation:
+      en: "retina"
+      ko: "망막"
+    gender: null
+    notes:
+      en: "net + membrane"
+      ko: "그물 + 막"
+  - japanese: "鼓膜"
+    reading: "こまく"
+    translation:
+      en: "eardrum"
+      ko: "고막"
+    gender: null
+    notes:
+      en: "drum + membrane"
+      ko: "북 + 막"
+  - japanese: "食道"
+    reading: "しょくどう"
+    translation:
+      en: "esophagus"
+      ko: "식도"
+    gender: null
+    notes:
+      en: "eat + path"
+      ko: "먹다 + 길"
+  - japanese: "気管"
+    reading: "きかん"
+    translation:
+      en: "trachea, windpipe"
+      ko: "기관"
+    gender: null
+    notes:
+      en: "air + pipe"
+      ko: "공기 + 관"
+  - japanese: "胆嚢"
+    reading: "たんのう"
+    translation:
+      en: "gallbladder"
+      ko: "담낭"
+    gender: null
+    notes:
+      en: "bile + pouch"
+      ko: "담즙 + 주머니"
+  - japanese: "脾臓"
+    reading: "ひぞう"
+    translation:
+      en: "spleen"
+      ko: "비장"
+    gender: null
+    notes:
+      en: "spleen + organ"
+      ko: "비 + 장"
+  - japanese: "リンパ"
+    reading: null
+    translation:
+      en: "lymph"
+      ko: "림프"
+    gender: null
+    notes:
+      en: "リンパ節 = lymph node"
+      ko: "リンパ節 = 림프절"
+  - japanese: "膀胱"
+    reading: "ぼうこう"
+    translation:
+      en: "bladder"
+      ko: "방광"
+    gender: null
+    notes:
+      en: "膀胱炎 = cystitis"
+      ko: "膀胱炎 = 방광염"
+  - japanese: "子宮"
+    reading: "しきゅう"
+    translation:
+      en: "uterus"
+      ko: "자궁"
+    gender: null
+    notes:
+      en: "child + palace"
+      ko: "아이 + 궁"
+  - japanese: "前立腺"
+    reading: "ぜんりつせん"
+    translation:
+      en: "prostate"
+      ko: "전립선"
+    gender: null
+    notes:
+      en: "前立腺がん = prostate cancer"
+      ko: "前立腺がん = 전립선암"
+  - japanese: "血液"
+    reading: "けつえき"
+    translation:
+      en: "blood"
+      ko: "혈액"
+    gender: null
+    notes:
+      en: "血液検査 = blood test"
+      ko: "血液検査 = 혈액 검사"
+  - japanese: "血圧"
+    reading: "けつあつ"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: null
+    notes:
+      en: "高血圧 = high blood pressure"
+      ko: "高血圧 = 고혈압"
+  - japanese: "脈拍"
+    reading: "みゃくはく"
+    translation:
+      en: "pulse"
+      ko: "맥박"
+    gender: null
+    notes:
+      en: "pulse + beat"
+      ko: "맥 + 박"
+
+- id: diseases
+  label:
+    en: "Diseases"
+    ko: "질병"
+  type: vocabulary
+  words:
+  - japanese: "感染症"
+    reading: "かんせんしょう"
+    translation:
+      en: "infectious disease"
+      ko: "감염증"
+    gender: null
+    notes:
+      en: "infection + disease"
+      ko: "감염 + 증"
+  - japanese: "癌"
+    reading: "がん"
+    translation:
+      en: "cancer"
+      ko: "암"
+    gender: null
+    notes:
+      en: "also written がん; 癌細胞 = cancer cell"
+      ko: "がん으로도 씀; 癌細胞 = 암세포"
+  - japanese: "糖尿病"
+    reading: "とうにょうびょう"
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: null
+    notes:
+      en: "sugar + urine + disease"
+      ko: "당 + 뇨 + 병"
+  - japanese: "心筋梗塞"
+    reading: "しんきんこうそく"
+    translation:
+      en: "heart attack, myocardial infarction"
+      ko: "심근경색"
+    gender: null
+    notes:
+      en: "heart + muscle + blockage"
+      ko: "심 + 근 + 경색"
+  - japanese: "脳卒中"
+    reading: "のうそっちゅう"
+    translation:
+      en: "stroke"
+      ko: "뇌졸중"
+    gender: null
+    notes:
+      en: "brain + sudden + hit"
+      ko: "뇌 + 졸 + 중"
+  - japanese: "肺炎"
+    reading: "はいえん"
+    translation:
+      en: "pneumonia"
+      ko: "폐렴"
+    gender: null
+    notes:
+      en: "lung + inflammation"
+      ko: "폐 + 염"
+  - japanese: "結核"
+    reading: "けっかく"
+    translation:
+      en: "tuberculosis"
+      ko: "결핵"
+    gender: null
+    notes:
+      en: "結核菌 = tuberculosis bacteria"
+      ko: "結核菌 = 결핵균"
+  - japanese: "喘息"
+    reading: "ぜんそく"
+    translation:
+      en: "asthma"
+      ko: "천식"
+    gender: null
+    notes:
+      en: "気管支喘息 = bronchial asthma"
+      ko: "気管支喘息 = 기관지 천식"
+  - japanese: "炎症"
+    reading: "えんしょう"
+    translation:
+      en: "inflammation"
+      ko: "염증"
+    gender: null
+    notes:
+      en: "flame + symptom"
+      ko: "염 + 증"
+  - japanese: "腫瘍"
+    reading: "しゅよう"
+    translation:
+      en: "tumor"
+      ko: "종양"
+    gender: null
+    notes:
+      en: "良性腫瘍 = benign; 悪性腫瘍 = malignant"
+      ko: "良性腫瘍 = 양성; 悪性腫瘍 = 악성"
+  - japanese: "高血圧"
+    reading: "こうけつあつ"
+    translation:
+      en: "hypertension"
+      ko: "고혈압"
+    gender: null
+    notes:
+      en: "high + blood pressure"
+      ko: "높은 + 혈압"
+  - japanese: "動脈硬化"
+    reading: "どうみゃくこうか"
+    translation:
+      en: "arteriosclerosis"
+      ko: "동맥경화"
+    gender: null
+    notes:
+      en: "artery + hardening"
+      ko: "동맥 + 경화"
+  - japanese: "貧血"
+    reading: "ひんけつ"
+    translation:
+      en: "anemia"
+      ko: "빈혈"
+    gender: null
+    notes:
+      en: "poor + blood"
+      ko: "가난한 + 혈"
+  - japanese: "骨粗鬆症"
+    reading: "こつそしょうしょう"
+    translation:
+      en: "osteoporosis"
+      ko: "골다공증"
+    gender: null
+    notes:
+      en: "bone + coarse + loose + disease"
+      ko: "뼈 + 거친 + 느슨한 + 증"
+  - japanese: "認知症"
+    reading: "にんちしょう"
+    translation:
+      en: "dementia"
+      ko: "인지증, 치매"
+    gender: null
+    notes:
+      en: "recognition + disease"
+      ko: "인지 + 증"
+  - japanese: "潰瘍"
+    reading: "かいよう"
+    translation:
+      en: "ulcer"
+      ko: "궤양"
+    gender: null
+    notes:
+      en: "胃潰瘍 = stomach ulcer"
+      ko: "胃潰瘍 = 위궤양"
+  - japanese: "白血病"
+    reading: "はっけつびょう"
+    translation:
+      en: "leukemia"
+      ko: "백혈병"
+    gender: null
+    notes:
+      en: "white + blood + disease"
+      ko: "흰 + 혈 + 병"
+  - japanese: "帯状疱疹"
+    reading: "たいじょうほうしん"
+    translation:
+      en: "shingles"
+      ko: "대상포진"
+    gender: null
+    notes:
+      en: "belt + shape + rash"
+      ko: "띠 + 모양 + 포진"
+  - japanese: "痛風"
+    reading: "つうふう"
+    translation:
+      en: "gout"
+      ko: "통풍"
+    gender: null
+    notes:
+      en: "pain + wind"
+      ko: "아프다 + 바람"
+  - japanese: "花粉症"
+    reading: "かふんしょう"
+    translation:
+      en: "hay fever, pollen allergy"
+      ko: "꽃가루 알레르기"
+    gender: null
+    notes:
+      en: "pollen + disease"
+      ko: "꽃가루 + 증"
+  - japanese: "生活習慣病"
+    reading: "せいかつしゅうかんびょう"
+    translation:
+      en: "lifestyle disease"
+      ko: "생활습관병"
+    gender: null
+    notes:
+      en: "lifestyle + habit + disease"
+      ko: "생활 + 습관 + 병"
+  - japanese: "合併症"
+    reading: "がっぺいしょう"
+    translation:
+      en: "complication (medical)"
+      ko: "합병증"
+    gender: null
+    notes:
+      en: "combine + disease"
+      ko: "합병 + 증"
+  - japanese: "後遺症"
+    reading: "こういしょう"
+    translation:
+      en: "aftereffect, sequela"
+      ko: "후유증"
+    gender: null
+    notes:
+      en: "after + remaining + disease"
+      ko: "후 + 남다 + 증"
+  - japanese: "症状"
+    reading: "しょうじょう"
+    translation:
+      en: "symptom"
+      ko: "증상"
+    gender: null
+    notes:
+      en: "disease + state"
+      ko: "증 + 상태"
+  - japanese: "慢性"
+    reading: "まんせい"
+    translation:
+      en: "chronic"
+      ko: "만성"
+    gender: null
+    notes:
+      en: "慢性疾患 = chronic disease"
+      ko: "慢性疾患 = 만성 질환"
+  - japanese: "急性"
+    reading: "きゅうせい"
+    translation:
+      en: "acute"
+      ko: "급성"
+    gender: null
+    notes:
+      en: "急性疾患 = acute disease"
+      ko: "急性疾患 = 급성 질환"
+  - japanese: "感染"
+    reading: "かんせん"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: null
+    notes:
+      en: "感染する = to become infected"
+      ko: "感染する = 감염되다"
+  - japanese: "発症"
+    reading: "はっしょう"
+    translation:
+      en: "onset (of disease)"
+      ko: "발병"
+    gender: null
+    notes:
+      en: "発症する = to develop (a disease)"
+      ko: "発症する = 발병하다"
+  - japanese: "再発"
+    reading: "さいはつ"
+    translation:
+      en: "recurrence, relapse"
+      ko: "재발"
+    gender: null
+    notes:
+      en: "再発する = to recur"
+      ko: "再発する = 재발하다"
+  - japanese: "伝染"
+    reading: "でんせん"
+    translation:
+      en: "contagion"
+      ko: "전염"
+    gender: null
+    notes:
+      en: "伝染する = to spread (disease)"
+      ko: "伝染する = 전염되다"
+
+- id: treatments
+  label:
+    en: "Treatments"
+    ko: "치료"
+  type: vocabulary
+  words:
+  - japanese: "治療"
+    reading: "ちりょう"
+    translation:
+      en: "treatment, therapy"
+      ko: "치료"
+    gender: null
+    notes:
+      en: "治療する = to treat"
+      ko: "治療する = 치료하다"
+  - japanese: "手術"
+    reading: "しゅじゅつ"
+    translation:
+      en: "surgery, operation"
+      ko: "수술"
+    gender: null
+    notes:
+      en: "手術する = to operate"
+      ko: "手術する = 수술하다"
+  - japanese: "投薬"
+    reading: "とうやく"
+    translation:
+      en: "medication, dosing"
+      ko: "투약"
+    gender: null
+    notes:
+      en: "投薬する = to administer medicine"
+      ko: "投薬する = 투약하다"
+  - japanese: "注射"
+    reading: "ちゅうしゃ"
+    translation:
+      en: "injection"
+      ko: "주사"
+    gender: null
+    notes:
+      en: "注射する = to inject"
+      ko: "注射する = 주사하다"
+  - japanese: "予防接種"
+    reading: "よぼうせっしゅ"
+    translation:
+      en: "vaccination"
+      ko: "예방접종"
+    gender: null
+    notes:
+      en: "prevention + inoculation"
+      ko: "예방 + 접종"
+  - japanese: "点滴"
+    reading: "てんてき"
+    translation:
+      en: "IV drip"
+      ko: "점적, 링거"
+    gender: null
+    notes:
+      en: "drop + drip"
+      ko: "점 + 적"
+  - japanese: "麻酔"
+    reading: "ますい"
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: null
+    notes:
+      en: "全身麻酔 = general anesthesia"
+      ko: "全身麻酔 = 전신 마취"
+  - japanese: "輸血"
+    reading: "ゆけつ"
+    translation:
+      en: "blood transfusion"
+      ko: "수혈"
+    gender: null
+    notes:
+      en: "輸血する = to transfuse blood"
+      ko: "輸血する = 수혈하다"
+  - japanese: "移植"
+    reading: "いしょく"
+    translation:
+      en: "transplant"
+      ko: "이식"
+    gender: null
+    notes:
+      en: "臓器移植 = organ transplant"
+      ko: "臓器移植 = 장기 이식"
+  - japanese: "放射線治療"
+    reading: "ほうしゃせんちりょう"
+    translation:
+      en: "radiation therapy"
+      ko: "방사선 치료"
+    gender: null
+    notes:
+      en: "radiation + treatment"
+      ko: "방사선 + 치료"
+  - japanese: "化学療法"
+    reading: "かがくりょうほう"
+    translation:
+      en: "chemotherapy"
+      ko: "화학요법"
+    gender: null
+    notes:
+      en: "chemical + therapy"
+      ko: "화학 + 요법"
+  - japanese: "処方"
+    reading: "しょほう"
+    translation:
+      en: "prescription"
+      ko: "처방"
+    gender: null
+    notes:
+      en: "処方箋 = prescription (document)"
+      ko: "処方箋 = 처방전"
+  - japanese: "副作用"
+    reading: "ふくさよう"
+    translation:
+      en: "side effect"
+      ko: "부작용"
+    gender: null
+    notes:
+      en: "secondary + effect"
+      ko: "부 + 작용"
+  - japanese: "抗生物質"
+    reading: "こうせいぶっしつ"
+    translation:
+      en: "antibiotic"
+      ko: "항생물질"
+    gender: null
+    notes:
+      en: "anti + life + substance"
+      ko: "항 + 생 + 물질"
+  - japanese: "鎮痛剤"
+    reading: "ちんつうざい"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: null
+    notes:
+      en: "suppress + pain + agent"
+      ko: "진 + 통 + 제"
+  - japanese: "解熱剤"
+    reading: "げねつざい"
+    translation:
+      en: "fever reducer"
+      ko: "해열제"
+    gender: null
+    notes:
+      en: "relieve + fever + agent"
+      ko: "해 + 열 + 제"
+  - japanese: "診断"
+    reading: "しんだん"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: null
+    notes:
+      en: "診断する = to diagnose"
+      ko: "診断する = 진단하다"
+  - japanese: "検査"
+    reading: "けんさ"
+    translation:
+      en: "examination, test"
+      ko: "검사"
+    gender: null
+    notes:
+      en: "健康検査 = health checkup"
+      ko: "健康検査 = 건강 검사"
+  - japanese: "入院"
+    reading: "にゅういん"
+    translation:
+      en: "hospitalization"
+      ko: "입원"
+    gender: null
+    notes:
+      en: "入院する = to be hospitalized"
+      ko: "入院する = 입원하다"
+  - japanese: "退院"
+    reading: "たいいん"
+    translation:
+      en: "discharge from hospital"
+      ko: "퇴원"
+    gender: null
+    notes:
+      en: "退院する = to be discharged"
+      ko: "退院する = 퇴원하다"
+  - japanese: "回復"
+    reading: "かいふく"
+    translation:
+      en: "recovery"
+      ko: "회복"
+    gender: null
+    notes:
+      en: "回復する = to recover"
+      ko: "回復する = 회복하다"
+  - japanese: "完治"
+    reading: "かんち"
+    translation:
+      en: "complete recovery"
+      ko: "완치"
+    gender: null
+    notes:
+      en: "完治する = to be completely cured"
+      ko: "完治する = 완치되다"
+  - japanese: "緩和"
+    reading: "かんわ"
+    translation:
+      en: "palliative, relief"
+      ko: "완화"
+    gender: null
+    notes:
+      en: "緩和ケア = palliative care"
+      ko: "緩和ケア = 완화 케어"
+  - japanese: "臨床"
+    reading: "りんしょう"
+    translation:
+      en: "clinical"
+      ko: "임상"
+    gender: null
+    notes:
+      en: "臨床試験 = clinical trial"
+      ko: "臨床試験 = 임상 시험"
+  - japanese: "内視鏡"
+    reading: "ないしきょう"
+    translation:
+      en: "endoscope"
+      ko: "내시경"
+    gender: null
+    notes:
+      en: "内視鏡検査 = endoscopy"
+      ko: "内視鏡検査 = 내시경 검사"
+  - japanese: "リハビリ"
+    reading: null
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: null
+    notes:
+      en: "short for リハビリテーション"
+      ko: "リハビリテーション의 줄임말"
+
+- id: mental_health
+  label:
+    en: "Mental Health"
+    ko: "정신 건강"
+  type: vocabulary
+  words:
+  - japanese: "精神疾患"
+    reading: "せいしんしっかん"
+    translation:
+      en: "mental illness"
+      ko: "정신 질환"
+    gender: null
+    notes:
+      en: "spirit + disease"
+      ko: "정신 + 질환"
+  - japanese: "鬱病"
+    reading: "うつびょう"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: null
+    notes:
+      en: "also written うつ病"
+      ko: "うつ病으로도 씀"
+  - japanese: "不安障害"
+    reading: "ふあんしょうがい"
+    translation:
+      en: "anxiety disorder"
+      ko: "불안 장애"
+    gender: null
+    notes:
+      en: "anxiety + disorder"
+      ko: "불안 + 장애"
+  - japanese: "統合失調症"
+    reading: "とうごうしっちょうしょう"
+    translation:
+      en: "schizophrenia"
+      ko: "통합실조증, 조현병"
+    gender: null
+    notes:
+      en: "integration + loss + regulation + disease"
+      ko: "통합 + 실 + 조 + 증"
+  - japanese: "躁鬱"
+    reading: "そううつ"
+    translation:
+      en: "bipolar, manic-depressive"
+      ko: "조울"
+    gender: null
+    notes:
+      en: "躁鬱病 = bipolar disorder"
+      ko: "躁鬱病 = 조울증"
+  - japanese: "摂食障害"
+    reading: "せっしょくしょうがい"
+    translation:
+      en: "eating disorder"
+      ko: "섭식 장애"
+    gender: null
+    notes:
+      en: "intake + eating + disorder"
+      ko: "섭취 + 식 + 장애"
+  - japanese: "依存症"
+    reading: "いぞんしょう"
+    translation:
+      en: "addiction"
+      ko: "의존증"
+    gender: null
+    notes:
+      en: "アルコール依存症 = alcoholism"
+      ko: "アルコール依存症 = 알코올 의존증"
+  - japanese: "不眠症"
+    reading: "ふみんしょう"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: null
+    notes:
+      en: "not + sleep + disease"
+      ko: "불 + 면 + 증"
+  - japanese: "恐怖症"
+    reading: "きょうふしょう"
+    translation:
+      en: "phobia"
+      ko: "공포증"
+    gender: null
+    notes:
+      en: "閉所恐怖症 = claustrophobia"
+      ko: "閉所恐怖症 = 폐소 공포증"
+  - japanese: "強迫性障害"
+    reading: "きょうはくせいしょうがい"
+    translation:
+      en: "obsessive-compulsive disorder"
+      ko: "강박성 장애"
+    gender: null
+    notes:
+      en: "obsessive + nature + disorder"
+      ko: "강박 + 성 + 장애"
+  - japanese: "ストレス"
+    reading: null
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: null
+    notes:
+      en: "ストレスが溜まる = stress builds up"
+      ko: "ストレスが溜まる = 스트레스가 쌓이다"
+  - japanese: "カウンセリング"
+    reading: null
+    translation:
+      en: "counseling"
+      ko: "카운슬링"
+    gender: null
+    notes:
+      en: "カウンセラー = counselor"
+      ko: "カウンセラー = 카운슬러"
+  - japanese: "自律神経"
+    reading: "じりつしんけい"
+    translation:
+      en: "autonomic nervous system"
+      ko: "자율 신경"
+    gender: null
+    notes:
+      en: "self-governing + nerve"
+      ko: "자율 + 신경"
+  - japanese: "精神科"
+    reading: "せいしんか"
+    translation:
+      en: "psychiatry department"
+      ko: "정신과"
+    gender: null
+    notes:
+      en: "精神科医 = psychiatrist"
+      ko: "精神科医 = 정신과 의사"
+  - japanese: "心療内科"
+    reading: "しんりょうないか"
+    translation:
+      en: "psychosomatic medicine"
+      ko: "심료내과"
+    gender: null
+    notes:
+      en: "heart + treatment + internal medicine"
+      ko: "심 + 료 + 내과"
+  - japanese: "認知行動療法"
+    reading: "にんちこうどうりょうほう"
+    translation:
+      en: "cognitive behavioral therapy"
+      ko: "인지행동치료"
+    gender: null
+    notes:
+      en: "cognition + behavior + therapy"
+      ko: "인지 + 행동 + 치료법"
+  - japanese: "自殺"
+    reading: "じさつ"
+    translation:
+      en: "suicide"
+      ko: "자살"
+    gender: null
+    notes:
+      en: "自殺予防 = suicide prevention"
+      ko: "自殺予防 = 자살 예방"
+  - japanese: "回復期"
+    reading: "かいふくき"
+    translation:
+      en: "recovery period"
+      ko: "회복기"
+    gender: null
+    notes:
+      en: "recovery + period"
+      ko: "회복 + 기"
+  - japanese: "寛解"
+    reading: "かんかい"
+    translation:
+      en: "remission"
+      ko: "관해"
+    gender: null
+    notes:
+      en: "寛解する = to go into remission"
+      ko: "寛解する = 관해되다"
+  - japanese: "偏頭痛"
+    reading: "へんずつう"
+    translation:
+      en: "migraine"
+      ko: "편두통"
+    gender: null
+    notes:
+      en: "biased + headache"
+      ko: "편 + 두통"
+
+- id: medical_professionals
+  label:
+    en: "Medical Professionals"
+    ko: "의료 전문가"
+  type: vocabulary
+  words:
+  - japanese: "医師"
+    reading: "いし"
+    translation:
+      en: "physician, doctor"
+      ko: "의사"
+    gender: null
+    notes:
+      en: "formal term; casual: 医者 (いしゃ)"
+      ko: "격식체; 구어: 医者 (いしゃ)"
+  - japanese: "外科医"
+    reading: "げかい"
+    translation:
+      en: "surgeon"
+      ko: "외과 의사"
+    gender: null
+    notes:
+      en: "外科 = surgery department"
+      ko: "外科 = 외과"
+  - japanese: "内科医"
+    reading: "ないかい"
+    translation:
+      en: "internist"
+      ko: "내과 의사"
+    gender: null
+    notes:
+      en: "内科 = internal medicine"
+      ko: "内科 = 내과"
+  - japanese: "小児科医"
+    reading: "しょうにかい"
+    translation:
+      en: "pediatrician"
+      ko: "소아과 의사"
+    gender: null
+    notes:
+      en: "小児科 = pediatrics"
+      ko: "小児科 = 소아과"
+  - japanese: "眼科医"
+    reading: "がんかい"
+    translation:
+      en: "ophthalmologist"
+      ko: "안과 의사"
+    gender: null
+    notes:
+      en: "眼科 = ophthalmology"
+      ko: "眼科 = 안과"
+  - japanese: "歯科医"
+    reading: "しかい"
+    translation:
+      en: "dentist"
+      ko: "치과 의사"
+    gender: null
+    notes:
+      en: "歯科 = dentistry"
+      ko: "歯科 = 치과"
+  - japanese: "看護師"
+    reading: "かんごし"
+    translation:
+      en: "nurse"
+      ko: "간호사"
+    gender: null
+    notes:
+      en: "看護 = nursing care"
+      ko: "看護 = 간호"
+  - japanese: "薬剤師"
+    reading: "やくざいし"
+    translation:
+      en: "pharmacist"
+      ko: "약사"
+    gender: null
+    notes:
+      en: "medicine + agent + person"
+      ko: "약 + 제 + 사"
+  - japanese: "救急隊員"
+    reading: "きゅうきゅうたいいん"
+    translation:
+      en: "paramedic"
+      ko: "구급대원"
+    gender: null
+    notes:
+      en: "emergency + team member"
+      ko: "구급 + 대원"
+  - japanese: "産婦人科医"
+    reading: "さんふじんかい"
+    translation:
+      en: "obstetrician-gynecologist"
+      ko: "산부인과 의사"
+    gender: null
+    notes:
+      en: "産婦人科 = obstetrics/gynecology"
+      ko: "産婦人科 = 산부인과"
+  - japanese: "放射線技師"
+    reading: "ほうしゃせんぎし"
+    translation:
+      en: "radiologic technologist"
+      ko: "방사선 기사"
+    gender: null
+    notes:
+      en: "radiation + technician"
+      ko: "방사선 + 기사"
+  - japanese: "理学療法士"
+    reading: "りがくりょうほうし"
+    translation:
+      en: "physical therapist"
+      ko: "물리치료사"
+    gender: null
+    notes:
+      en: "physical + therapy + specialist"
+      ko: "이학 + 요법 + 사"
+  - japanese: "臨床検査技師"
+    reading: "りんしょうけんさぎし"
+    translation:
+      en: "clinical laboratory technician"
+      ko: "임상 검사 기사"
+    gender: null
+    notes:
+      en: "clinical + examination + technician"
+      ko: "임상 + 검사 + 기사"
+  - japanese: "主治医"
+    reading: "しゅじい"
+    translation:
+      en: "attending physician"
+      ko: "주치의"
+    gender: null
+    notes:
+      en: "primary + treating + doctor"
+      ko: "주 + 치 + 의"
+  - japanese: "専門医"
+    reading: "せんもんい"
+    translation:
+      en: "specialist"
+      ko: "전문의"
+    gender: null
+    notes:
+      en: "specialist + doctor"
+      ko: "전문 + 의"
+  - japanese: "助産師"
+    reading: "じょさんし"
+    translation:
+      en: "midwife"
+      ko: "조산사"
+    gender: null
+    notes:
+      en: "assist + birth + person"
+      ko: "조 + 산 + 사"
+  - japanese: "患者"
+    reading: "かんじゃ"
+    translation:
+      en: "patient"
+      ko: "환자"
+    gender: null
+    notes:
+      en: "外来患者 = outpatient"
+      ko: "外来患者 = 외래 환자"
+  - japanese: "通院"
+    reading: "つういん"
+    translation:
+      en: "visiting a hospital regularly"
+      ko: "통원"
+    gender: null
+    notes:
+      en: "通院する = to attend hospital"
+      ko: "通院する = 통원하다"
+  - japanese: "往診"
+    reading: "おうしん"
+    translation:
+      en: "house call"
+      ko: "왕진"
+    gender: null
+    notes:
+      en: "往診する = to make a house call"
+      ko: "往診する = 왕진하다"
+  - japanese: "救急車"
+    reading: "きゅうきゅうしゃ"
+    translation:
+      en: "ambulance"
+      ko: "구급차"
+    gender: null
+    notes:
+      en: "emergency + vehicle"
+      ko: "구급 + 차"
+  - japanese: "介護"
+    reading: "かいご"
+    translation:
+      en: "nursing care"
+      ko: "간병, 개호"
+    gender: null
+    notes:
+      en: "介護士 = caregiver"
+      ko: "介護士 = 간병인"
+  - japanese: "診察"
+    reading: "しんさつ"
+    translation:
+      en: "medical examination"
+      ko: "진찰"
+    gender: null
+    notes:
+      en: "診察する = to examine (a patient)"
+      ko: "診察する = 진찰하다"

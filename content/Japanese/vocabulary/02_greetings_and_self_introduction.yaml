@@ -1,0 +1,757 @@
+lesson: 02_Greetings_and_Self_Introduction
+lesson_number: 2
+jlpt: N5
+categories:
+- id: polite_greetings
+  label:
+    en: Polite Greetings
+    ko: 공손한 인사
+  type: vocabulary
+  words:
+  - japanese: おはようございます
+    reading: null
+    translation:
+      en: good morning (polite)
+      ko: 안녕하세요 (아침, 공손)
+    gender: null
+    plural: null
+    notes:
+      en: "Used until about 10 AM"
+      ko: "오전 10시경까지 사용"
+  - japanese: こんにちは
+    reading: null
+    translation:
+      en: hello / good afternoon
+      ko: 안녕하세요 (낮)
+    gender: null
+    plural: null
+    notes:
+      en: "Used from ~10 AM to ~6 PM. The は is the particle (read 'wa')"
+      ko: "오전 10시~오후 6시 사용. は는 조사로 'wa'로 읽음"
+  - japanese: こんばんは
+    reading: null
+    translation:
+      en: good evening
+      ko: 안녕하세요 (저녁)
+    gender: null
+    plural: null
+    notes:
+      en: "Used after ~6 PM. The は is the particle (read 'wa')"
+      ko: "오후 6시 이후 사용. は는 조사로 'wa'로 읽음"
+  - japanese: おやすみなさい
+    reading: null
+    translation:
+      en: good night (polite)
+      ko: 안녕히 주무세요
+    gender: null
+    plural: null
+    notes:
+      en: "Said when someone goes to sleep"
+      ko: "잠자리에 들 때 사용"
+  - japanese: さようなら
+    reading: null
+    translation:
+      en: goodbye (formal)
+      ko: 안녕히 가세요 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Implies a long or possibly final separation"
+      ko: "오랜 혹은 영구적인 이별을 암시"
+
+- id: casual_greetings
+  label:
+    en: Casual Greetings
+    ko: 비격식 인사
+  type: vocabulary
+  words:
+  - japanese: おはよう
+    reading: null
+    translation:
+      en: morning! (casual)
+      ko: 안녕 (아침, 비격식)
+    gender: null
+    plural: null
+  - japanese: おやすみ
+    reading: null
+    translation:
+      en: night! (casual)
+      ko: 잘 자 (비격식)
+    gender: null
+    plural: null
+  - japanese: じゃあね
+    reading: null
+    translation:
+      en: see ya
+      ko: 잘 가 / 또 봐
+    gender: null
+    plural: null
+  - japanese: じゃあ、また
+    reading: null
+    translation:
+      en: see you again
+      ko: 또 만나
+    gender: null
+    plural: null
+  - japanese: また明日
+    reading: またあした
+    translation:
+      en: see you tomorrow
+      ko: 내일 봐
+    gender: null
+    plural: null
+    notes:
+      en: "明日 (ashita) = tomorrow"
+      ko: "明日(아시타) = 내일"
+  - japanese: よろしく
+    reading: null
+    translation:
+      en: nice to meet you (casual)
+      ko: 잘 부탁해 (비격식)
+    gender: null
+    plural: null
+  - japanese: バイバイ
+    reading: null
+    translation:
+      en: bye-bye
+      ko: 바이바이
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English, used casually among friends"
+      ko: "영어 차용어, 친구 사이에서 비격식적으로 사용"
+  - japanese: ひさしぶり
+    reading: null
+    translation:
+      en: long time no see (casual)
+      ko: 오랜만이야 (비격식)
+    gender: null
+    plural: null
+  - japanese: お久しぶりです
+    reading: おひさしぶりです
+    translation:
+      en: long time no see (polite)
+      ko: 오랜만입니다 (공손)
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 久(long time). Polite form with お prefix"
+      ko: "한자: 久(오래). お 접두사가 붙은 공손한 형태"
+  - japanese: 元気
+    reading: げんき
+    translation:
+      en: healthy / energetic / fine
+      ko: 건강한 / 기운찬
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 元(origin) + 気(spirit). Used in お元気ですか (How are you?)"
+      ko: "한자: 元(근원) + 気(기운). お元気ですか(잘 지내세요?)에 사용"
+  - japanese: お元気ですか
+    reading: おげんきですか
+    translation:
+      en: how are you? (polite)
+      ko: 잘 지내세요?
+    gender: null
+    plural: null
+    notes:
+      en: "Less commonly used than in English; often omitted among acquaintances"
+      ko: "영어만큼 자주 사용하지 않음; 아는 사이에서는 종종 생략"
+
+- id: self_introduction
+  label:
+    en: Self-Introduction Phrases
+    ko: 자기소개 표현
+  type: vocabulary
+  words:
+  - japanese: はじめまして
+    reading: null
+    translation:
+      en: nice to meet you (first meeting)
+      ko: 처음 뵙겠습니다
+    gender: null
+    plural: null
+    notes:
+      en: "Used ONLY when meeting someone for the first time"
+      ko: "처음 만나는 사람에게만 사용"
+  - japanese: どうぞよろしくおねがいします
+    reading: null
+    translation:
+      en: please treat me well (very polite)
+      ko: 잘 부탁드립니다 (매우 공손)
+    gender: null
+    plural: null
+    notes:
+      en: "Standard closing phrase for self-introductions"
+      ko: "자기소개의 표준 마무리 표현"
+  - japanese: よろしくおねがいします
+    reading: null
+    translation:
+      en: nice to meet you / please (polite)
+      ko: 잘 부탁합니다
+    gender: null
+    plural: null
+  - japanese: 私
+    reading: わたし
+    translation:
+      en: I / me
+      ko: 나 / 저
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 私. Gender-neutral first-person pronoun"
+      ko: "한자: 私. 성별 중립 1인칭 대명사"
+  - japanese: 名前
+    reading: なまえ
+    translation:
+      en: name
+      ko: 이름
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 名(name) + 前(front)"
+      ko: "한자: 名(이름) + 前(앞)"
+  - japanese: 学生
+    reading: がくせい
+    translation:
+      en: student
+      ko: 학생
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 学(learn) + 生(life)"
+      ko: "한자: 학(배울) + 생(날)"
+  - japanese: 先生
+    reading: せんせい
+    translation:
+      en: teacher
+      ko: 선생님
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 先(before) + 生(life). Also used for doctors, lawyers, etc."
+      ko: "한자: 先(먼저) + 生(날). 의사, 변호사 등에도 사용"
+  - japanese: 会社員
+    reading: かいしゃいん
+    translation:
+      en: office worker / company employee
+      ko: 회사원
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 会社(company) + 員(member)"
+      ko: "한자: 会社(회사) + 員(구성원)"
+  - japanese: 医者
+    reading: いしゃ
+    translation:
+      en: doctor
+      ko: 의사
+    gender: null
+    plural: null
+  - japanese: エンジニア
+    reading: null
+    translation:
+      en: engineer
+      ko: 엔지니어
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어 차용어"
+  - japanese: こちらこそ
+    reading: null
+    translation:
+      en: likewise / it is I who should say that
+      ko: 저야말로
+    gender: null
+    plural: null
+  - japanese: 主婦
+    reading: しゅふ
+    translation:
+      en: housewife / homemaker
+      ko: 주부
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 主(main) + 婦(woman/wife)"
+      ko: "한자: 主(주인) + 婦(아내)"
+  - japanese: 弁護士
+    reading: べんごし
+    translation:
+      en: lawyer
+      ko: 변호사
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 弁(speak) + 護(protect) + 士(person)"
+      ko: "한자: 弁(말) + 護(지킬) + 士(사람)"
+  - japanese: 看護師
+    reading: かんごし
+    translation:
+      en: nurse
+      ko: 간호사
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 看(watch) + 護(protect) + 師(master). Gender-neutral term."
+      ko: "한자: 看(볼) + 護(지킬) + 師(스승). 성별 중립 용어."
+  - japanese: 大学生
+    reading: だいがくせい
+    translation:
+      en: university student
+      ko: 대학생
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 大(big) + 学(study) + 生(life/student)"
+      ko: "한자: 大(큰) + 学(배울) + 生(날)"
+  - japanese: 高校生
+    reading: こうこうせい
+    translation:
+      en: high school student
+      ko: 고등학생
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 高(high) + 校(school) + 生(student)"
+      ko: "한자: 高(높을) + 校(학교) + 生(날)"
+  - japanese: 僕
+    reading: ぼく
+    translation:
+      en: I / me (male, casual)
+      ko: 나 (남성, 비격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Masculine first-person pronoun, softer than 俺"
+      ko: "남성 1인칭 대명사, 俺보다 부드러움"
+  - japanese: 俺
+    reading: おれ
+    translation:
+      en: I / me (male, very casual)
+      ko: 나 (남성, 매우 비격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Very informal masculine pronoun. Not used in polite contexts."
+      ko: "매우 비격식적인 남성 대명사. 공손한 상황에서는 사용하지 않음."
+  - japanese: あなた
+    reading: null
+    translation:
+      en: you
+      ko: 당신 / 너
+    gender: null
+    plural: null
+    notes:
+      en: "Rarely used in Japanese; using the person's name + さん is preferred"
+      ko: "일본어에서는 잘 사용하지 않음; 이름 + さん을 선호"
+  - japanese: 趣味
+    reading: しゅみ
+    translation:
+      en: hobby
+      ko: 취미
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 趣(interest) + 味(taste). Common in self-introductions."
+      ko: "한자: 趣(뜻) + 味(맛). 자기소개에서 자주 사용."
+  - japanese: 出身
+    reading: しゅっしん
+    translation:
+      en: hometown / place of origin
+      ko: 출신
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 出(out) + 身(body). 東京出身です = I'm from Tokyo."
+      ko: "한자: 出(나갈) + 身(몸). 東京出身です = 도쿄 출신입니다."
+  - japanese: 国
+    reading: くに
+    translation:
+      en: country
+      ko: 나라
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 国. On'yomi: コク (koku). Used in 外国 (foreign country)."
+      ko: "한자: 国. 음독: コク. 外国(외국)에 사용됨."
+  - japanese: 歳
+    reading: さい
+    translation:
+      en: years old (counter for age)
+      ko: 살 (나이 조수사)
+    gender: null
+    plural: null
+    notes:
+      en: "二十歳 (はたち/hatachi) is an irregular reading for 20 years old"
+      ko: "二十歳(はたち/하타치)는 20살의 불규칙 읽기"
+
+- id: basic_responses
+  label:
+    en: Basic Responses and Polite Expressions
+    ko: 기본 응답 및 공손한 표현
+  type: vocabulary
+  words:
+  - japanese: はい
+    reading: null
+    translation:
+      en: yes
+      ko: 네
+    gender: null
+    plural: null
+  - japanese: いいえ
+    reading: null
+    translation:
+      en: no
+      ko: 아니요
+    gender: null
+    plural: null
+  - japanese: ありがとうございます
+    reading: null
+    translation:
+      en: thank you (polite)
+      ko: 감사합니다
+    gender: null
+    plural: null
+  - japanese: どうも
+    reading: null
+    translation:
+      en: thanks (very casual)
+      ko: 고마워 (매우 비격식)
+    gender: null
+    plural: null
+  - japanese: すみません
+    reading: null
+    translation:
+      en: excuse me / I'm sorry
+      ko: 실례합니다 / 죄송합니다
+    gender: null
+    plural: null
+    notes:
+      en: "Used for getting attention or making a light apology"
+      ko: "주의를 끌거나 가벼운 사과 시 사용"
+  - japanese: ごめんなさい
+    reading: null
+    translation:
+      en: I'm sorry (apology)
+      ko: 미안합니다
+    gender: null
+    plural: null
+  - japanese: おねがいします
+    reading: null
+    translation:
+      en: please (when requesting)
+      ko: 부탁합니다
+    gender: null
+    plural: null
+  - japanese: どういたしまして
+    reading: null
+    translation:
+      en: you're welcome
+      ko: 천만에요
+    gender: null
+    plural: null
+  - japanese: わかりました
+    reading: null
+    translation:
+      en: I understand / got it
+      ko: 알겠습니다
+    gender: null
+    plural: null
+  - japanese: わかりません
+    reading: null
+    translation:
+      en: I don't understand
+      ko: 모르겠습니다
+    gender: null
+    plural: null
+  - japanese: いただきます
+    reading: null
+    translation:
+      en: I humbly receive (said before eating)
+      ko: 잘 먹겠습니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said before every meal, even when eating alone"
+      ko: "혼자 먹을 때도 매 식사 전에 말함"
+  - japanese: ごちそうさまでした
+    reading: null
+    translation:
+      en: thank you for the meal (said after eating)
+      ko: 잘 먹었습니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said after every meal to express gratitude"
+      ko: "감사를 표하며 매 식사 후에 말함"
+  - japanese: いってきます
+    reading: null
+    translation:
+      en: I'm leaving (and coming back)
+      ko: 다녀오겠습니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said when leaving home"
+      ko: "집을 나설 때 사용"
+  - japanese: いってらっしゃい
+    reading: null
+    translation:
+      en: go and come back safely
+      ko: 다녀오세요
+    gender: null
+    plural: null
+    notes:
+      en: "Response to いってきます"
+      ko: "いってきます에 대한 응답"
+  - japanese: ただいま
+    reading: null
+    translation:
+      en: I'm home!
+      ko: 다녀왔습니다
+    gender: null
+    plural: null
+  - japanese: おかえりなさい
+    reading: null
+    translation:
+      en: welcome back!
+      ko: 어서 오세요
+    gender: null
+    plural: null
+    notes:
+      en: "Response to ただいま"
+      ko: "ただいま에 대한 응답"
+  - japanese: お疲れ様でした
+    reading: おつかれさまでした
+    translation:
+      en: thank you for your hard work
+      ko: 수고하셨습니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said at the end of work or a shared activity"
+      ko: "업무나 공동 활동이 끝날 때 사용"
+  - japanese: 失礼します
+    reading: しつれいします
+    translation:
+      en: excuse me (formal, entering/leaving)
+      ko: 실례합니다
+    gender: null
+    plural: null
+    notes:
+      en: "Used when entering/leaving a room or hanging up the phone"
+      ko: "방에 들어가거나 나갈 때, 또는 전화를 끊을 때 사용"
+  - japanese: ごめん
+    reading: null
+    translation:
+      en: sorry (casual)
+      ko: 미안 (비격식)
+    gender: null
+    plural: null
+  - japanese: 大丈夫
+    reading: だいじょうぶ
+    translation:
+      en: it's okay / are you okay? / no problem
+      ko: 괜찮아요 / 괜찮으세요?
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 大(big) + 丈(length) + 夫(man). Versatile expression."
+      ko: "한자: 大(큰) + 丈(길이) + 夫(사내). 다용도 표현."
+  - japanese: もちろん
+    reading: null
+    translation:
+      en: of course
+      ko: 물론
+    gender: null
+    plural: null
+  - japanese: ちょっと
+    reading: null
+    translation:
+      en: a little / excuse me
+      ko: 조금 / 잠깐
+    gender: null
+    plural: null
+    notes:
+      en: "Also used to soften refusals: ちょっと... = That's a bit... (polite no)"
+      ko: "거절을 부드럽게 할 때도 사용: ちょっと... = 그건 좀... (공손한 거절)"
+  - japanese: そうですか
+    reading: null
+    translation:
+      en: is that so? / I see
+      ko: 그렇습니까? / 그렇군요
+    gender: null
+    plural: null
+  - japanese: そうですね
+    reading: null
+    translation:
+      en: that's right / let me think
+      ko: 그렇네요 / 글쎄요
+    gender: null
+    plural: null
+    notes:
+      en: "Rising intonation = agreement. Drawn-out = thinking/hesitation."
+      ko: "올라가는 억양 = 동의. 길게 늘이면 = 생각/망설임."
+  - japanese: お先に失礼します
+    reading: おさきにしつれいします
+    translation:
+      en: excuse me for leaving first
+      ko: 먼저 실례합니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said when leaving work before others"
+      ko: "다른 사람보다 먼저 퇴근할 때 사용"
+  - japanese: おめでとうございます
+    reading: null
+    translation:
+      en: congratulations (polite)
+      ko: 축하합니다
+    gender: null
+    plural: null
+  - japanese: おめでとう
+    reading: null
+    translation:
+      en: congratulations (casual)
+      ko: 축하해
+    gender: null
+    plural: null
+  - japanese: お邪魔します
+    reading: おじゃまします
+    translation:
+      en: excuse me for intruding (entering someone's home)
+      ko: 실례합니다 (남의 집에 들어갈 때)
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'I'm being a bother'. Said when visiting someone's home."
+      ko: "직역하면 '폐를 끼칩니다'. 남의 집을 방문할 때 사용."
+  - japanese: お大事に
+    reading: おだいじに
+    translation:
+      en: take care / get well soon
+      ko: 몸조심하세요 / 쾌유를 빕니다
+    gender: null
+    plural: null
+    notes:
+      en: "Said to someone who is sick or unwell"
+      ko: "아프거나 몸이 안 좋은 사람에게 사용"
+
+- id: countries_and_nationalities
+  label:
+    en: Countries and Nationalities
+    ko: 나라와 국적
+  type: vocabulary
+  words:
+  - japanese: 日本
+    reading: にほん
+    translation:
+      en: Japan
+      ko: 일본
+    gender: null
+    plural: null
+    notes:
+      en: "Also read にっぽん (nippon) in formal contexts"
+      ko: "격식적 상황에서는 にっぽん(닛폰)으로도 읽음"
+  - japanese: 日本人
+    reading: にほんじん
+    translation:
+      en: Japanese person
+      ko: 일본인
+    gender: null
+    plural: null
+    notes:
+      en: "~人 (jin) suffix = person of that nationality"
+      ko: "~人(진) 접미사 = 해당 국적의 사람"
+  - japanese: アメリカ
+    reading: null
+    translation:
+      en: America / USA
+      ko: 미국
+    gender: null
+    plural: null
+  - japanese: 韓国
+    reading: かんこく
+    translation:
+      en: South Korea
+      ko: 한국
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 韓(Korea) + 国(country)"
+      ko: "한자: 韓(한나라) + 国(나라)"
+  - japanese: 中国
+    reading: ちゅうごく
+    translation:
+      en: China
+      ko: 중국
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 中(middle) + 国(country)"
+      ko: "한자: 中(가운데) + 国(나라)"
+  - japanese: イギリス
+    reading: null
+    translation:
+      en: England / United Kingdom
+      ko: 영국
+    gender: null
+    plural: null
+    notes:
+      en: "From Portuguese 'Inglês' (English)"
+      ko: "포르투갈어 'Inglês'(영어)에서 차용"
+  - japanese: フランス
+    reading: null
+    translation:
+      en: France
+      ko: 프랑스
+    gender: null
+    plural: null
+  - japanese: ドイツ
+    reading: null
+    translation:
+      en: Germany
+      ko: 독일
+    gender: null
+    plural: null
+    notes:
+      en: "From Dutch/German 'Duits/Deutsch'"
+      ko: "네덜란드어/독일어 'Duits/Deutsch'에서 차용"
+  - japanese: オーストラリア
+    reading: null
+    translation:
+      en: Australia
+      ko: 호주
+    gender: null
+    plural: null
+  - japanese: 外国
+    reading: がいこく
+    translation:
+      en: foreign country
+      ko: 외국
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 外(outside) + 国(country)"
+      ko: "한자: 外(바깥) + 国(나라)"
+  - japanese: 外国人
+    reading: がいこくじん
+    translation:
+      en: foreigner
+      ko: 외국인
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 外国(foreign country) + 人(person)"
+      ko: "한자: 外国(외국) + 人(사람)"
+  - japanese: 家族
+    reading: かぞく
+    translation:
+      en: family
+      ko: 가족
+    gender: null
+    plural: null
+    notes:
+      en: "Kanji: 家(house) + 族(clan/tribe)"
+      ko: "한자: 家(집) + 族(겨레)"

@@ -1,0 +1,606 @@
+lesson: 06_Adjectives_and_Descriptions
+lesson_number: 6
+jlpt: N4
+categories:
+- id: i_adjectives
+  label:
+    en: い-Adjectives (i-adjectives)
+    ko: い형용사
+  type: vocabulary
+  words:
+  - japanese: 大きい
+    reading: おおきい
+    translation:
+      en: big, large
+      ko: 크다
+    gender: null
+    plural: null
+  - japanese: 小さい
+    reading: ちいさい
+    translation:
+      en: small, little
+      ko: 작다
+    gender: null
+    plural: null
+  - japanese: 高い
+    reading: たかい
+    translation:
+      en: tall, high, expensive
+      ko: 높다, 비싸다
+    gender: null
+    plural: null
+  - japanese: 低い
+    reading: ひくい
+    translation:
+      en: low, short (height)
+      ko: 낮다
+    gender: null
+    plural: null
+  - japanese: 新しい
+    reading: あたらしい
+    translation:
+      en: new
+      ko: 새롭다
+    gender: null
+    plural: null
+  - japanese: 古い
+    reading: ふるい
+    translation:
+      en: old (things)
+      ko: 오래되다
+    gender: null
+    plural: null
+  - japanese: 長い
+    reading: ながい
+    translation:
+      en: long
+      ko: 길다
+    gender: null
+    plural: null
+  - japanese: 短い
+    reading: みじかい
+    translation:
+      en: short (length)
+      ko: 짧다
+    gender: null
+    plural: null
+  - japanese: 広い
+    reading: ひろい
+    translation:
+      en: wide, spacious
+      ko: 넓다
+    gender: null
+    plural: null
+  - japanese: 狭い
+    reading: せまい
+    translation:
+      en: narrow, cramped
+      ko: 좁다
+    gender: null
+    plural: null
+  - japanese: 太い
+    reading: ふとい
+    translation:
+      en: thick, fat
+      ko: 굵다, 뚱뚱하다
+    gender: null
+    plural: null
+  - japanese: 細い
+    reading: ほそい
+    translation:
+      en: thin, slender
+      ko: 가늘다, 날씬하다
+    gender: null
+    plural: null
+  - japanese: 深い
+    reading: ふかい
+    translation:
+      en: deep
+      ko: 깊다
+    gender: null
+    plural: null
+  - japanese: 浅い
+    reading: あさい
+    translation:
+      en: shallow
+      ko: 얕다
+    gender: null
+    plural: null
+  - japanese: 安い
+    reading: やすい
+    translation:
+      en: cheap, inexpensive
+      ko: 싸다
+    gender: null
+    plural: null
+  - japanese: おいしい
+    reading: null
+    translation:
+      en: delicious, tasty
+      ko: 맛있다
+    gender: null
+    plural: null
+  - japanese: まずい
+    reading: null
+    translation:
+      en: bad-tasting, unappetizing
+      ko: 맛없다
+    gender: null
+    plural: null
+  - japanese: いい
+    reading: null
+    translation:
+      en: good
+      ko: 좋다
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular adjective. Conjugates using よい stem: よくない, よかった, よくなかった"
+      ko: "불규칙 형용사. よい 어간으로 활용: よくない, よかった, よくなかった"
+  - japanese: 悪い
+    reading: わるい
+    translation:
+      en: bad
+      ko: 나쁘다
+    gender: null
+    plural: null
+  - japanese: 強い
+    reading: つよい
+    translation:
+      en: strong
+      ko: 강하다
+    gender: null
+    plural: null
+  - japanese: 弱い
+    reading: よわい
+    translation:
+      en: weak
+      ko: 약하다
+    gender: null
+    plural: null
+  - japanese: 明るい
+    reading: あかるい
+    translation:
+      en: bright
+      ko: 밝다
+    gender: null
+    plural: null
+  - japanese: 暗い
+    reading: くらい
+    translation:
+      en: dark
+      ko: 어둡다
+    gender: null
+    plural: null
+  - japanese: 暑い
+    reading: あつい
+    translation:
+      en: hot (weather)
+      ko: 덥다
+    gender: null
+    plural: null
+  - japanese: 寒い
+    reading: さむい
+    translation:
+      en: cold (weather)
+      ko: 춥다
+    gender: null
+    plural: null
+  - japanese: 熱い
+    reading: あつい
+    translation:
+      en: hot (object/liquid)
+      ko: 뜨겁다
+    gender: null
+    plural: null
+    notes:
+      en: "Same reading as 暑い but different kanji; used for touching hot objects"
+      ko: "暑い와 같은 발음이지만 다른 한자; 뜨거운 물체를 만질 때 사용"
+  - japanese: 冷たい
+    reading: つめたい
+    translation:
+      en: cold (object/liquid)
+      ko: 차갑다
+    gender: null
+    plural: null
+  - japanese: 楽しい
+    reading: たのしい
+    translation:
+      en: fun, enjoyable
+      ko: 즐겁다
+    gender: null
+    plural: null
+  - japanese: 面白い
+    reading: おもしろい
+    translation:
+      en: interesting, funny
+      ko: 재미있다
+    gender: null
+    plural: null
+  - japanese: 汚い
+    reading: きたない
+    translation:
+      en: dirty
+      ko: 더럽다
+    gender: null
+    plural: null
+  - japanese: 嬉しい
+    reading: うれしい
+    translation:
+      en: happy, glad
+      ko: 기쁘다
+    gender: null
+    plural: null
+  - japanese: 悲しい
+    reading: かなしい
+    translation:
+      en: sad
+      ko: 슬프다
+    gender: null
+    plural: null
+  - japanese: 忙しい
+    reading: いそがしい
+    translation:
+      en: busy
+      ko: 바쁘다
+    gender: null
+    plural: null
+  - japanese: 難しい
+    reading: むずかしい
+    translation:
+      en: difficult
+      ko: 어렵다
+    gender: null
+    plural: null
+  - japanese: 若い
+    reading: わかい
+    translation:
+      en: young
+      ko: 젊다
+    gender: null
+    plural: null
+  - japanese: 近い
+    reading: ちかい
+    translation:
+      en: near, close
+      ko: 가깝다
+    gender: null
+    plural: null
+  - japanese: 遠い
+    reading: とおい
+    translation:
+      en: far, distant
+      ko: 멀다
+    gender: null
+    plural: null
+  - japanese: 早い
+    reading: はやい
+    translation:
+      en: early, fast
+      ko: 이르다, 빠르다
+    gender: null
+    plural: null
+  - japanese: 遅い
+    reading: おそい
+    translation:
+      en: late, slow
+      ko: 늦다, 느리다
+    gender: null
+    plural: null
+  - japanese: 重い
+    reading: おもい
+    translation:
+      en: heavy
+      ko: 무겁다
+    gender: null
+    plural: null
+  - japanese: 軽い
+    reading: かるい
+    translation:
+      en: light (weight)
+      ko: 가볍다
+    gender: null
+    plural: null
+  - japanese: 甘い
+    reading: あまい
+    translation:
+      en: sweet
+      ko: 달다
+    gender: null
+    plural: null
+  - japanese: 辛い
+    reading: からい
+    translation:
+      en: spicy, hot
+      ko: 맵다
+    gender: null
+    plural: null
+  - japanese: 痛い
+    reading: いたい
+    translation:
+      en: painful, hurts
+      ko: 아프다
+    gender: null
+    plural: null
+  - japanese: 怖い
+    reading: こわい
+    translation:
+      en: scary, frightening
+      ko: 무섭다
+    gender: null
+    plural: null
+  - japanese: 丸い
+    reading: まるい
+    translation:
+      en: round, circular
+      ko: 둥글다
+    gender: null
+    plural: null
+- id: na_adjectives
+  label:
+    en: な-Adjectives (na-adjectives)
+    ko: な형용사
+  type: vocabulary
+  words:
+  - japanese: 静か
+    reading: しずか
+    translation:
+      en: quiet
+      ko: 조용하다
+    gender: null
+    plural: null
+  - japanese: にぎやか
+    reading: null
+    translation:
+      en: lively, bustling
+      ko: 활기차다, 번화하다
+    gender: null
+    plural: null
+  - japanese: 元気
+    reading: げんき
+    translation:
+      en: healthy, energetic
+      ko: 건강하다, 활기차다
+    gender: null
+    plural: null
+  - japanese: 好き
+    reading: すき
+    translation:
+      en: liked, favorite
+      ko: 좋아하다
+    gender: null
+    plural: null
+  - japanese: 嫌い
+    reading: きらい
+    translation:
+      en: disliked, hated
+      ko: 싫어하다
+    gender: null
+    plural: null
+    notes:
+      en: "な-adjective despite ending in い"
+      ko: "い로 끝나지만 な형용사"
+  - japanese: きれい
+    reading: null
+    translation:
+      en: pretty, clean, beautiful
+      ko: 예쁘다, 깨끗하다
+    gender: null
+    plural: null
+    notes:
+      en: "な-adjective despite ending in い"
+      ko: "い로 끝나지만 な형용사"
+  - japanese: 有名
+    reading: ゆうめい
+    translation:
+      en: famous
+      ko: 유명하다
+    gender: null
+    plural: null
+    notes:
+      en: "な-adjective despite ending in い sound"
+      ko: "い 발음으로 끝나지만 な형용사"
+  - japanese: 便利
+    reading: べんり
+    translation:
+      en: convenient
+      ko: 편리하다
+    gender: null
+    plural: null
+  - japanese: 不便
+    reading: ふべん
+    translation:
+      en: inconvenient
+      ko: 불편하다
+    gender: null
+    plural: null
+  - japanese: 簡単
+    reading: かんたん
+    translation:
+      en: easy, simple
+      ko: 간단하다, 쉽다
+    gender: null
+    plural: null
+  - japanese: 大切
+    reading: たいせつ
+    translation:
+      en: important, precious
+      ko: 소중하다, 중요하다
+    gender: null
+    plural: null
+  - japanese: 親切
+    reading: しんせつ
+    translation:
+      en: kind, friendly
+      ko: 친절하다
+    gender: null
+    plural: null
+  - japanese: 暇
+    reading: ひま
+    translation:
+      en: free (time), idle
+      ko: 한가하다
+    gender: null
+    plural: null
+  - japanese: 病気
+    reading: びょうき
+    translation:
+      en: sick, ill
+      ko: 아프다, 병
+    gender: null
+    plural: null
+  - japanese: 無名
+    reading: むめい
+    translation:
+      en: unknown, obscure
+      ko: 무명의
+    gender: null
+    plural: null
+  - japanese: 丈夫
+    reading: じょうぶ
+    translation:
+      en: sturdy, durable, healthy
+      ko: 튼튼하다, 건강하다
+    gender: null
+    plural: null
+  - japanese: 上手
+    reading: じょうず
+    translation:
+      en: skilled, good at
+      ko: 잘하다, 능숙하다
+    gender: null
+    plural: null
+  - japanese: 下手
+    reading: へた
+    translation:
+      en: unskilled, bad at
+      ko: 못하다, 서투르다
+    gender: null
+    plural: null
+  - japanese: 大変
+    reading: たいへん
+    translation:
+      en: terrible, tough, very
+      ko: 큰일이다, 힘들다
+    gender: null
+    plural: null
+  - japanese: 安全
+    reading: あんぜん
+    translation:
+      en: safe, secure
+      ko: 안전하다
+    gender: null
+    plural: null
+  - japanese: 危険
+    reading: きけん
+    translation:
+      en: dangerous
+      ko: 위험하다
+    gender: null
+    plural: null
+  - japanese: 真面目
+    reading: まじめ
+    translation:
+      en: serious, earnest
+      ko: 성실하다, 진지하다
+    gender: null
+    plural: null
+  - japanese: 特別
+    reading: とくべつ
+    translation:
+      en: special
+      ko: 특별하다
+    gender: null
+    plural: null
+  - japanese: 立派
+    reading: りっぱ
+    translation:
+      en: splendid, admirable
+      ko: 훌륭하다
+    gender: null
+    plural: null
+- id: adjective_expressions
+  label:
+    en: Adjective Degree and Intensity Expressions
+    ko: 형용사 정도 및 강도 표현
+  type: vocabulary
+  words:
+  - japanese: とても
+    reading: null
+    translation:
+      en: very
+      ko: 매우, 아주
+    gender: null
+    plural: null
+  - japanese: すごく
+    reading: null
+    translation:
+      en: incredibly, extremely
+      ko: 엄청나게, 굉장히
+    gender: null
+    plural: null
+  - japanese: かなり
+    reading: null
+    translation:
+      en: fairly, quite
+      ko: 꽤, 상당히
+    gender: null
+    plural: null
+  - japanese: 少し
+    reading: すこし
+    translation:
+      en: a little, slightly
+      ko: 조금
+    gender: null
+    plural: null
+  - japanese: ちょっと
+    reading: null
+    translation:
+      en: a bit, a little
+      ko: 조금, 약간
+    gender: null
+    plural: null
+  - japanese: あまり
+    reading: null
+    translation:
+      en: not very (with negative)
+      ko: 별로 (~않다)
+    gender: null
+    plural: null
+    notes:
+      en: "Must be used with negative form: あまり面白くない (not very interesting)"
+      ko: "부정형과 함께 사용: あまり面白くない (별로 재미없다)"
+  - japanese: 全然
+    reading: ぜんぜん
+    translation:
+      en: not at all (with negative)
+      ko: 전혀 (~않다)
+    gender: null
+    plural: null
+    notes:
+      en: "Must be used with negative form: 全然難しくない (not difficult at all)"
+      ko: "부정형과 함께 사용: 全然難しくない (전혀 어렵지 않다)"
+  - japanese: つまらない
+    reading: null
+    translation:
+      en: boring, dull
+      ko: 지루하다, 재미없다
+    gender: null
+    plural: null
+  - japanese: かっこいい
+    reading: null
+    translation:
+      en: cool, good-looking
+      ko: 멋있다
+    gender: null
+    plural: null
+    notes:
+      en: "Compound of かっこ + いい. Follows いい's irregular conjugation: かっこよくない, かっこよかった"
+      ko: "かっこ + いい의 합성어. いい의 불규칙 활용을 따름: かっこよくない, かっこよかった"
+  - japanese: 最も
+    reading: もっとも
+    translation:
+      en: most, extremely
+      ko: 가장
+    gender: null
+    plural: null

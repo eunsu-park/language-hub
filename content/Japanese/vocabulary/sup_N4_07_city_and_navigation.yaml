@@ -1,0 +1,1246 @@
+lesson: "sup_N4_City_and_Navigation"
+lesson_number: 127
+jlpt: N4
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: city_places
+  label:
+    en: "City Places"
+    ko: "도시 장소"
+  type: vocabulary
+  words:
+  - japanese: "市役所"
+    reading: "しやくしょ"
+    translation:
+      en: "city hall"
+      ko: "시청"
+    gender: null
+    notes:
+      en: "city + office + place"
+      ko: "시 + 역 + 소"
+  - japanese: "区役所"
+    reading: "くやくしょ"
+    translation:
+      en: "ward office"
+      ko: "구청"
+    gender: null
+    notes:
+      en: "ward + office + place"
+      ko: "구 + 역 + 소"
+  - japanese: "図書館"
+    reading: "としょかん"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: null
+    notes:
+      en: "books + building"
+      ko: "도서 + 관"
+  - japanese: "郵便局"
+    reading: "ゆうびんきょく"
+    translation:
+      en: "post office"
+      ko: "우체국"
+    gender: null
+    notes:
+      en: "mail + bureau"
+      ko: "우편 + 국"
+  - japanese: "交番"
+    reading: "こうばん"
+    translation:
+      en: "police box"
+      ko: "파출소"
+    gender: null
+    notes:
+      en: "交番 is unique to Japan"
+      ko: "交番은 일본 특유의 시설"
+  - japanese: "消防署"
+    reading: "しょうぼうしょ"
+    translation:
+      en: "fire station"
+      ko: "소방서"
+    gender: null
+    notes:
+      en: "fire fighting + station"
+      ko: "소방 + 서"
+  - japanese: "警察署"
+    reading: "けいさつしょ"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: null
+    notes:
+      en: "police + station"
+      ko: "경찰 + 서"
+  - japanese: "公園"
+    reading: "こうえん"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: null
+    notes:
+      en: "public + garden"
+      ko: "공 + 원"
+  - japanese: "駅"
+    reading: "えき"
+    translation:
+      en: "train station"
+      ko: "역"
+    gender: null
+    notes:
+      en: "東京駅 = Tokyo Station"
+      ko: "東京駅 = 도쿄역"
+  - japanese: "銀行"
+    reading: "ぎんこう"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: null
+    notes:
+      en: "silver + go"
+      ko: "은 + 행"
+  - japanese: "大使館"
+    reading: "たいしかん"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: null
+    notes:
+      en: "ambassador + building"
+      ko: "대사 + 관"
+  - japanese: "裁判所"
+    reading: "さいばんしょ"
+    translation:
+      en: "courthouse"
+      ko: "법원"
+    gender: null
+    notes:
+      en: "trial + place"
+      ko: "재판 + 소"
+  - japanese: "教会"
+    reading: "きょうかい"
+    translation:
+      en: "church"
+      ko: "교회"
+    gender: null
+    notes:
+      en: "teach + meeting"
+      ko: "교 + 회"
+  - japanese: "墓地"
+    reading: "ぼち"
+    translation:
+      en: "cemetery"
+      ko: "묘지"
+    gender: null
+    notes:
+      en: "grave + land"
+      ko: "묘 + 지"
+  - japanese: "広場"
+    reading: "ひろば"
+    translation:
+      en: "plaza, square"
+      ko: "광장"
+    gender: null
+    notes:
+      en: "wide + place"
+      ko: "넓은 + 곳"
+  - japanese: "噴水"
+    reading: "ふんすい"
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: null
+    notes:
+      en: "spray + water"
+      ko: "뿜다 + 물"
+  - japanese: "駐車場"
+    reading: "ちゅうしゃじょう"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: null
+    notes:
+      en: "stop + vehicle + place"
+      ko: "주차 + 장"
+  - japanese: "遊び場"
+    reading: "あそびば"
+    translation:
+      en: "playground"
+      ko: "놀이터"
+    gender: null
+    notes:
+      en: "play + place"
+      ko: "놀이 + 곳"
+  - japanese: "スタジアム"
+    reading: null
+    translation:
+      en: "stadium"
+      ko: "스타디움"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "映画館"
+    reading: "えいがかん"
+    translation:
+      en: "movie theater"
+      ko: "영화관"
+    gender: null
+    notes:
+      en: "movie + building"
+      ko: "영화 + 관"
+  - japanese: "劇場"
+    reading: "げきじょう"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: null
+    notes:
+      en: "play + place"
+      ko: "극 + 장"
+  - japanese: "美容院"
+    reading: "びよういん"
+    translation:
+      en: "beauty salon, hair salon"
+      ko: "미용실"
+    gender: null
+    notes:
+      en: "beauty + institution; same reading as 病院"
+      ko: "미용 + 원; 病院과 같은 발음"
+  - japanese: "コインランドリー"
+    reading: null
+    translation:
+      en: "coin laundry, laundromat"
+      ko: "빨래방"
+    gender: null
+    notes:
+      en: "coin + laundry"
+      ko: "코인 + 세탁"
+  - japanese: "ガソリンスタンド"
+    reading: null
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: null
+    notes:
+      en: "gasoline + stand"
+      ko: "가솔린 + 스탠드"
+  - japanese: "公民館"
+    reading: "こうみんかん"
+    translation:
+      en: "community center"
+      ko: "공민관, 주민 센터"
+    gender: null
+    notes:
+      en: "public + citizen + building"
+      ko: "공 + 민 + 관"
+  - japanese: "体育館"
+    reading: "たいいくかん"
+    translation:
+      en: "gymnasium"
+      ko: "체육관"
+    gender: null
+    notes:
+      en: "physical education + building"
+      ko: "체육 + 관"
+  - japanese: "市場"
+    reading: "いちば"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+    notes:
+      en: "築地市場 = Tsukiji Market"
+      ko: "築地市場 = 쓰키지 시장"
+  - japanese: "工場"
+    reading: "こうじょう"
+    translation:
+      en: "factory"
+      ko: "공장"
+    gender: null
+    notes:
+      en: "construction + place"
+      ko: "공 + 장"
+  - japanese: "倉庫"
+    reading: "そうこ"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: null
+    notes:
+      en: "store + warehouse"
+      ko: "저장 + 고"
+  - japanese: "歩道橋"
+    reading: "ほどうきょう"
+    translation:
+      en: "pedestrian overpass"
+      ko: "육교"
+    gender: null
+    notes:
+      en: "sidewalk + bridge"
+      ko: "보도 + 다리"
+  - japanese: "地下道"
+    reading: "ちかどう"
+    translation:
+      en: "underground passage"
+      ko: "지하도"
+    gender: null
+    notes:
+      en: "underground + path"
+      ko: "지하 + 길"
+  - japanese: "繁華街"
+    reading: "はんかがい"
+    translation:
+      en: "downtown, entertainment district"
+      ko: "번화가"
+    gender: null
+    notes:
+      en: "prosperous + street"
+      ko: "번화한 + 거리"
+  - japanese: "住宅街"
+    reading: "じゅうたくがい"
+    translation:
+      en: "residential area"
+      ko: "주택가"
+    gender: null
+    notes:
+      en: "residence + street"
+      ko: "주택 + 가"
+
+- id: public_transport
+  label:
+    en: "Public Transportation"
+    ko: "대중교통"
+  type: vocabulary
+  words:
+  - japanese: "路線"
+    reading: "ろせん"
+    translation:
+      en: "route, line"
+      ko: "노선"
+    gender: null
+    notes:
+      en: "路線図 = route map"
+      ko: "路線図 = 노선도"
+  - japanese: "切符"
+    reading: "きっぷ"
+    translation:
+      en: "ticket"
+      ko: "표"
+    gender: null
+    notes:
+      en: "切符を買う = to buy a ticket"
+      ko: "切符を買う = 표를 사다"
+  - japanese: "定期券"
+    reading: "ていきけん"
+    translation:
+      en: "commuter pass"
+      ko: "정기권"
+    gender: null
+    notes:
+      en: "regular + period + ticket"
+      ko: "정기 + 권"
+  - japanese: "改札口"
+    reading: "かいさつぐち"
+    translation:
+      en: "ticket gate"
+      ko: "개찰구"
+    gender: null
+    notes:
+      en: "inspect + ticket + entrance"
+      ko: "검표 + 입구"
+  - japanese: ホーム
+    reading: null
+    translation:
+      en: "platform"
+      ko: "플랫폼"
+    gender: null
+    notes:
+      en: "abbreviation of プラットホーム"
+      ko: "プラットホーム의 줄임말"
+  - japanese: "時刻表"
+    reading: "じこくひょう"
+    translation:
+      en: "timetable, schedule"
+      ko: "시각표"
+    gender: null
+    notes:
+      en: "time + table"
+      ko: "시각 + 표"
+  - japanese: "乗車"
+    reading: "じょうしゃ"
+    translation:
+      en: "boarding"
+      ko: "승차"
+    gender: null
+    notes:
+      en: "乗車する = to board"
+      ko: "乗車する = 승차하다"
+  - japanese: "下車"
+    reading: "げしゃ"
+    translation:
+      en: "getting off"
+      ko: "하차"
+    gender: null
+    notes:
+      en: "下車する = to get off"
+      ko: "下車する = 하차하다"
+  - japanese: "乗り換え"
+    reading: "のりかえ"
+    translation:
+      en: "transfer"
+      ko: "환승"
+    gender: null
+    notes:
+      en: "乗り換える = to transfer"
+      ko: "乗り換える = 환승하다"
+  - japanese: "運賃"
+    reading: "うんちん"
+    translation:
+      en: "fare"
+      ko: "운임, 요금"
+    gender: null
+    notes:
+      en: "transport + fee"
+      ko: "운송 + 요금"
+  - japanese: "遅延"
+    reading: "ちえん"
+    translation:
+      en: "delay"
+      ko: "지연"
+    gender: null
+    notes:
+      en: "電車が遅延している = the train is delayed"
+      ko: "電車が遅延している = 전철이 지연되고 있다"
+  - japanese: "運休"
+    reading: "うんきゅう"
+    translation:
+      en: "service suspension"
+      ko: "운휴"
+    gender: null
+    notes:
+      en: "transport + rest; due to weather, etc."
+      ko: "운행 + 휴식; 날씨 등으로 인해"
+  - japanese: "振替輸送"
+    reading: "ふりかえゆそう"
+    translation:
+      en: "alternative transport"
+      ko: "대체 수송"
+    gender: null
+    notes:
+      en: "substitute + transport"
+      ko: "대체 + 수송"
+  - japanese: "優先席"
+    reading: "ゆうせんせき"
+    translation:
+      en: "priority seat"
+      ko: "우선석"
+    gender: null
+    notes:
+      en: "priority + seat; for elderly, pregnant, etc."
+      ko: "우선 + 좌석; 노인, 임산부 등을 위한"
+  - japanese: "女性専用車両"
+    reading: "じょせいせんようしゃりょう"
+    translation:
+      en: "women-only car"
+      ko: "여성 전용 칸"
+    gender: null
+    notes:
+      en: "women + exclusive + vehicle"
+      ko: "여성 + 전용 + 차량"
+  - japanese: "券売機"
+    reading: "けんばいき"
+    translation:
+      en: "ticket vending machine"
+      ko: "매표기"
+    gender: null
+    notes:
+      en: "ticket + sell + machine"
+      ko: "표 + 판매 + 기"
+  - japanese: ICカード
+    reading: null
+    translation:
+      en: "IC card (Suica, PASMO)"
+      ko: "IC카드 (Suica, PASMO)"
+    gender: null
+    notes:
+      en: "チャージする = to charge/top up"
+      ko: "チャージする = 충전하다"
+  - japanese: "バス停"
+    reading: "バスてい"
+    translation:
+      en: "bus stop"
+      ko: "버스 정류장"
+    gender: null
+    notes:
+      en: "bus + stop"
+      ko: "버스 + 정류장"
+  - japanese: "終点"
+    reading: "しゅうてん"
+    translation:
+      en: "last stop, terminus"
+      ko: "종점"
+    gender: null
+    notes:
+      en: "end + point"
+      ko: "끝 + 점"
+  - japanese: "始点"
+    reading: "してん"
+    translation:
+      en: "starting point"
+      ko: "시점, 기점"
+    gender: null
+    notes:
+      en: "start + point"
+      ko: "시작 + 점"
+  - japanese: "通勤"
+    reading: "つうきん"
+    translation:
+      en: "commuting to work"
+      ko: "통근"
+    gender: null
+    notes:
+      en: "通勤ラッシュ = commuter rush"
+      ko: "通勤ラッシュ = 출퇴근 러시"
+  - japanese: "通学"
+    reading: "つうがく"
+    translation:
+      en: "commuting to school"
+      ko: "통학"
+    gender: null
+    notes:
+      en: "commute + study"
+      ko: "다니다 + 학교"
+  - japanese: "ラッシュアワー"
+    reading: null
+    translation:
+      en: "rush hour"
+      ko: "러시아워"
+    gender: null
+    notes:
+      en: "朝のラッシュアワー = morning rush hour"
+      ko: "朝のラッシュアワー = 아침 러시아워"
+  - japanese: "混雑"
+    reading: "こんざつ"
+    translation:
+      en: "congestion, crowding"
+      ko: "혼잡"
+    gender: null
+    notes:
+      en: "混雑している = it's crowded"
+      ko: "混雑している = 혼잡하다"
+  - japanese: "空いている"
+    reading: "すいている"
+    translation:
+      en: "not crowded, empty"
+      ko: "한산한"
+    gender: null
+    notes:
+      en: "電車が空いている = the train isn't crowded"
+      ko: "電車が空いている = 전철이 한산하다"
+  - japanese: "タクシー乗り場"
+    reading: "タクシーのりば"
+    translation:
+      en: "taxi stand"
+      ko: "택시 승강장"
+    gender: null
+    notes:
+      en: "taxi + boarding place"
+      ko: "택시 + 타는 곳"
+  - japanese: "レンタサイクル"
+    reading: null
+    translation:
+      en: "bicycle rental"
+      ko: "자전거 대여"
+    gender: null
+    notes:
+      en: "rental + cycle"
+      ko: "렌탈 + 자전거"
+
+- id: giving_directions
+  label:
+    en: "Giving Directions"
+    ko: "길 안내"
+  type: vocabulary
+  words:
+  - japanese: "右"
+    reading: "みぎ"
+    translation:
+      en: "right"
+      ko: "오른쪽"
+    gender: null
+    notes:
+      en: "右に曲がってください = please turn right"
+      ko: "右に曲がってください = 오른쪽으로 도세요"
+  - japanese: "左"
+    reading: "ひだり"
+    translation:
+      en: "left"
+      ko: "왼쪽"
+    gender: null
+    notes:
+      en: "左に曲がってください = please turn left"
+      ko: "左に曲がってください = 왼쪽으로 도세요"
+  - japanese: "北"
+    reading: "きた"
+    translation:
+      en: "north"
+      ko: "북쪽"
+    gender: null
+    notes:
+      en: "北口 = north exit"
+      ko: "北口 = 북쪽 출구"
+  - japanese: "南"
+    reading: "みなみ"
+    translation:
+      en: "south"
+      ko: "남쪽"
+    gender: null
+    notes:
+      en: "南口 = south exit"
+      ko: "南口 = 남쪽 출구"
+  - japanese: "東"
+    reading: "ひがし"
+    translation:
+      en: "east"
+      ko: "동쪽"
+    gender: null
+    notes:
+      en: "東口 = east exit"
+      ko: "東口 = 동쪽 출구"
+  - japanese: "西"
+    reading: "にし"
+    translation:
+      en: "west"
+      ko: "서쪽"
+    gender: null
+    notes:
+      en: "西口 = west exit"
+      ko: "西口 = 서쪽 출구"
+  - japanese: "出口"
+    reading: "でぐち"
+    translation:
+      en: "exit"
+      ko: "출구"
+    gender: null
+    notes:
+      en: "out + mouth"
+      ko: "나가다 + 입구"
+  - japanese: "入口"
+    reading: "いりぐち"
+    translation:
+      en: "entrance"
+      ko: "입구"
+    gender: null
+    notes:
+      en: "enter + mouth"
+      ko: "들어가다 + 입구"
+  - japanese: "近く"
+    reading: "ちかく"
+    translation:
+      en: "nearby, close"
+      ko: "근처, 가까이"
+    gender: null
+    notes:
+      en: "この近くに = near here"
+      ko: "この近くに = 이 근처에"
+  - japanese: "遠い"
+    reading: "とおい"
+    translation:
+      en: "far"
+      ko: "먼"
+    gender: null
+    notes:
+      en: "ここから遠いですか = is it far from here?"
+      ko: "ここから遠いですか = 여기서 먼가요?"
+  - japanese: "近い"
+    reading: "ちかい"
+    translation:
+      en: "near, close"
+      ko: "가까운"
+    gender: null
+    notes:
+      en: "駅に近い = close to the station"
+      ko: "駅に近い = 역에서 가깝다"
+  - japanese: "向こう"
+    reading: "むこう"
+    translation:
+      en: "over there, the other side"
+      ko: "저쪽, 건너편"
+    gender: null
+    notes:
+      en: "通りの向こう = across the street"
+      ko: "通りの向こう = 길 건너편"
+  - japanese: "奥"
+    reading: "おく"
+    translation:
+      en: "back, interior"
+      ko: "안쪽, 깊숙한 곳"
+    gender: null
+    notes:
+      en: "奥にあります = it's in the back"
+      ko: "奥にあります = 안쪽에 있습니다"
+  - japanese: "ここ"
+    reading: null
+    translation:
+      en: "here"
+      ko: "여기"
+    gender: null
+    notes:
+      en: "ここはどこですか = where is here?"
+      ko: "ここはどこですか = 여기가 어디인가요?"
+  - japanese: "そこ"
+    reading: null
+    translation:
+      en: "there"
+      ko: "거기"
+    gender: null
+    notes:
+      en: "そこを右に = turn right there"
+      ko: "そこを右に = 거기서 오른쪽으로"
+  - japanese: "あそこ"
+    reading: null
+    translation:
+      en: "over there"
+      ko: "저기"
+    gender: null
+    notes:
+      en: "あそこに見えます = you can see it over there"
+      ko: "あそこに見えます = 저기에 보입니다"
+  - japanese: "中"
+    reading: "なか"
+    translation:
+      en: "inside"
+      ko: "안"
+    gender: null
+    notes:
+      en: "建物の中 = inside the building"
+      ko: "建物の中 = 건물 안"
+  - japanese: "外"
+    reading: "そと"
+    translation:
+      en: "outside"
+      ko: "밖"
+    gender: null
+    notes:
+      en: "建物の外 = outside the building"
+      ko: "建物の外 = 건물 밖"
+  - japanese: "案内板"
+    reading: "あんないばん"
+    translation:
+      en: "information board, signboard"
+      ko: "안내판"
+    gender: null
+    notes:
+      en: "guide + board"
+      ko: "안내 + 판"
+  - japanese: "地図"
+    reading: "ちず"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: null
+    notes:
+      en: "地図を見る = to look at a map"
+      ko: "地図を見る = 지도를 보다"
+  - japanese: ナビ
+    reading: null
+    translation:
+      en: "navigation, GPS"
+      ko: "내비게이션"
+    gender: null
+    notes:
+      en: "abbreviation of ナビゲーション; カーナビ = car navigation"
+      ko: "ナビゲーション의 줄임말; カーナビ = 차량 내비"
+  - japanese: "徒歩"
+    reading: "とほ"
+    translation:
+      en: "on foot"
+      ko: "도보"
+    gender: null
+    notes:
+      en: "駅から徒歩5分 = 5 minutes on foot from the station"
+      ko: "駅から徒歩5分 = 역에서 도보 5분"
+  - japanese: "道順"
+    reading: "みちじゅん"
+    translation:
+      en: "directions, route"
+      ko: "길 안내, 경로"
+    gender: null
+    notes:
+      en: "road + order"
+      ko: "길 + 순서"
+  - japanese: "現在地"
+    reading: "げんざいち"
+    translation:
+      en: "current location"
+      ko: "현재 위치"
+    gender: null
+    notes:
+      en: "present + location"
+      ko: "현재 + 위치"
+  - japanese: "目的地"
+    reading: "もくてきち"
+    translation:
+      en: "destination"
+      ko: "목적지"
+    gender: null
+    notes:
+      en: "目的 + 地"
+      ko: "목적 + 지"
+
+- id: urban_life
+  label:
+    en: "Urban Life"
+    ko: "도시 생활"
+  type: vocabulary
+  words:
+  - japanese: "都会"
+    reading: "とかい"
+    translation:
+      en: "city, urban area"
+      ko: "도시"
+    gender: null
+    notes:
+      en: "opposite of 田舎"
+      ko: "田舎의 반대"
+  - japanese: "田舎"
+    reading: "いなか"
+    translation:
+      en: "countryside, rural area"
+      ko: "시골"
+    gender: null
+    notes:
+      en: "opposite of 都会"
+      ko: "都会의 반대"
+  - japanese: "人口"
+    reading: "じんこう"
+    translation:
+      en: "population"
+      ko: "인구"
+    gender: null
+    notes:
+      en: "people + mouth"
+      ko: "인 + 구"
+  - japanese: "マンション"
+    reading: null
+    translation:
+      en: "apartment building (mid-high rise)"
+      ko: "아파트 (중고층)"
+    gender: null
+    notes:
+      en: "NOT a mansion; Japanese-English"
+      ko: "저택이 아님; 일본식 영어"
+  - japanese: アパート
+    reading: null
+    translation:
+      en: "apartment (low-rise)"
+      ko: "아파트 (저층)"
+    gender: null
+    notes:
+      en: "smaller, wooden or lightweight construction"
+      ko: "작은, 목조 또는 경량 건축"
+  - japanese: "一戸建て"
+    reading: "いっこだて"
+    translation:
+      en: "detached house"
+      ko: "단독 주택"
+    gender: null
+    notes:
+      en: "one + house + build"
+      ko: "한 + 채 + 짓다"
+  - japanese: "家賃"
+    reading: "やちん"
+    translation:
+      en: "rent"
+      ko: "집세"
+    gender: null
+    notes:
+      en: "house + fee"
+      ko: "집 + 비용"
+  - japanese: "引っ越し"
+    reading: "ひっこし"
+    translation:
+      en: "moving (house)"
+      ko: "이사"
+    gender: null
+    notes:
+      en: "引っ越しする = to move"
+      ko: "引っ越しする = 이사하다"
+  - japanese: "近所"
+    reading: "きんじょ"
+    translation:
+      en: "neighborhood"
+      ko: "이웃, 동네"
+    gender: null
+    notes:
+      en: "near + place"
+      ko: "가까운 + 곳"
+  - japanese: "ゴミ収集"
+    reading: "ゴミしゅうしゅう"
+    translation:
+      en: "garbage collection"
+      ko: "쓰레기 수거"
+    gender: null
+    notes:
+      en: "garbage + collection"
+      ko: "쓰레기 + 수거"
+  - japanese: "分別"
+    reading: "ぶんべつ"
+    translation:
+      en: "sorting (garbage)"
+      ko: "분리 (쓰레기)"
+    gender: null
+    notes:
+      en: "ゴミの分別 = garbage sorting"
+      ko: "ゴミの分別 = 쓰레기 분리"
+  - japanese: "騒音"
+    reading: "そうおん"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: null
+    notes:
+      en: "noisy + sound"
+      ko: "시끄러운 + 소리"
+  - japanese: "渋滞"
+    reading: "じゅうたい"
+    translation:
+      en: "traffic jam"
+      ko: "교통 정체"
+    gender: null
+    notes:
+      en: "slow + stagnation"
+      ko: "느린 + 정체"
+  - japanese: "通行止め"
+    reading: "つうこうどめ"
+    translation:
+      en: "road closure"
+      ko: "통행 금지"
+    gender: null
+    notes:
+      en: "pass + stop"
+      ko: "통행 + 금지"
+  - japanese: "工事中"
+    reading: "こうじちゅう"
+    translation:
+      en: "under construction"
+      ko: "공사 중"
+    gender: null
+    notes:
+      en: "construction + during"
+      ko: "공사 + 중"
+  - japanese: "住所"
+    reading: "じゅうしょ"
+    translation:
+      en: "address"
+      ko: "주소"
+    gender: null
+    notes:
+      en: "live + place"
+      ko: "살다 + 곳"
+  - japanese: "町"
+    reading: "まち"
+    translation:
+      en: "town"
+      ko: "마을, 동네"
+    gender: null
+    notes:
+      en: "general term for town"
+      ko: "마을의 일반적인 표현"
+  - japanese: "村"
+    reading: "むら"
+    translation:
+      en: "village"
+      ko: "마을"
+    gender: null
+    notes:
+      en: "smaller than 町"
+      ko: "町보다 작음"
+  - japanese: "県"
+    reading: "けん"
+    translation:
+      en: "prefecture"
+      ko: "현"
+    gender: null
+    notes:
+      en: "東京都, 大阪府, 京都府 are exceptions"
+      ko: "東京都, 大阪府, 京都府는 예외"
+  - japanese: "環境問題"
+    reading: "かんきょうもんだい"
+    translation:
+      en: "environmental issue"
+      ko: "환경 문제"
+    gender: null
+    notes:
+      en: "environment + problem"
+      ko: "환경 + 문제"
+  - japanese: "リサイクル"
+    reading: null
+    translation:
+      en: "recycling"
+      ko: "재활용"
+    gender: null
+    notes:
+      en: "リサイクルする = to recycle"
+      ko: "リサイクルする = 재활용하다"
+  - japanese: "省エネ"
+    reading: "しょうエネ"
+    translation:
+      en: "energy saving"
+      ko: "에너지 절약"
+    gender: null
+    notes:
+      en: "abbreviation of 省エネルギー"
+      ko: "省エネルギー의 줄임말"
+  - japanese: "防犯"
+    reading: "ぼうはん"
+    translation:
+      en: "crime prevention"
+      ko: "방범"
+    gender: null
+    notes:
+      en: "防犯カメラ = security camera"
+      ko: "防犯カメラ = 방범 카메라"
+  - japanese: "歩行者天国"
+    reading: "ほこうしゃてんごく"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 천국"
+    gender: null
+    notes:
+      en: "pedestrian + paradise; car-free zone on weekends"
+      ko: "보행자 + 천국; 주말 차 없는 거리"
+
+- id: emergency_services
+  label:
+    en: "Emergency Services"
+    ko: "긴급 서비스"
+  type: vocabulary
+  words:
+  - japanese: "緊急"
+    reading: "きんきゅう"
+    translation:
+      en: "emergency"
+      ko: "긴급"
+    gender: null
+    notes:
+      en: "緊急事態 = emergency situation"
+      ko: "緊急事態 = 긴급 사태"
+  - japanese: "警察"
+    reading: "けいさつ"
+    translation:
+      en: "police"
+      ko: "경찰"
+    gender: null
+    notes:
+      en: "110番 = police emergency number"
+      ko: "110번 = 경찰 긴급 번호"
+  - japanese: "消防"
+    reading: "しょうぼう"
+    translation:
+      en: "fire department"
+      ko: "소방"
+    gender: null
+    notes:
+      en: "119番 = fire/ambulance number"
+      ko: "119번 = 소방/구급 번호"
+  - japanese: "事故"
+    reading: "じこ"
+    translation:
+      en: "accident"
+      ko: "사고"
+    gender: null
+    notes:
+      en: "交通事故 = traffic accident"
+      ko: "交通事故 = 교통 사고"
+  - japanese: "火事"
+    reading: "かじ"
+    translation:
+      en: "fire (disaster)"
+      ko: "화재"
+    gender: null
+    notes:
+      en: "火事だ！= Fire!"
+      ko: "火事だ！= 불이야!"
+  - japanese: "地震"
+    reading: "じしん"
+    translation:
+      en: "earthquake"
+      ko: "지진"
+    gender: null
+    notes:
+      en: "地震が起きた = an earthquake occurred"
+      ko: "地震が起きた = 지진이 발생했다"
+  - japanese: "台風"
+    reading: "たいふう"
+    translation:
+      en: "typhoon"
+      ko: "태풍"
+    gender: null
+    notes:
+      en: "台風が来る = a typhoon is coming"
+      ko: "台風が来る = 태풍이 온다"
+  - japanese: "避難"
+    reading: "ひなん"
+    translation:
+      en: "evacuation"
+      ko: "대피"
+    gender: null
+    notes:
+      en: "避難する = to evacuate"
+      ko: "避難する = 대피하다"
+  - japanese: "避難所"
+    reading: "ひなんじょ"
+    translation:
+      en: "evacuation shelter"
+      ko: "대피소"
+    gender: null
+    notes:
+      en: "evacuation + place"
+      ko: "대피 + 소"
+  - japanese: "防災"
+    reading: "ぼうさい"
+    translation:
+      en: "disaster prevention"
+      ko: "방재"
+    gender: null
+    notes:
+      en: "防災グッズ = disaster preparedness kit"
+      ko: "防災グッズ = 방재 용품"
+  - japanese: "非常口"
+    reading: "ひじょうぐち"
+    translation:
+      en: "emergency exit"
+      ko: "비상구"
+    gender: null
+    notes:
+      en: "emergency + exit"
+      ko: "비상 + 출구"
+  - japanese: "消火器"
+    reading: "しょうかき"
+    translation:
+      en: "fire extinguisher"
+      ko: "소화기"
+    gender: null
+    notes:
+      en: "extinguish + fire + device"
+      ko: "소화 + 기"
+  - japanese: "助けて"
+    reading: "たすけて"
+    translation:
+      en: "Help!"
+      ko: "도와주세요!"
+    gender: null
+    notes:
+      en: "emergency call for help"
+      ko: "긴급 도움 요청"
+  - japanese: "通報"
+    reading: "つうほう"
+    translation:
+      en: "report (to authorities)"
+      ko: "신고"
+    gender: null
+    notes:
+      en: "通報する = to report"
+      ko: "通報する = 신고하다"
+  - japanese: "泥棒"
+    reading: "どろぼう"
+    translation:
+      en: "thief, burglar"
+      ko: "도둑"
+    gender: null
+    notes:
+      en: "泥棒！= Thief!"
+      ko: "泥棒！= 도둑이야!"
+  - japanese: "落とし物"
+    reading: "おとしもの"
+    translation:
+      en: "lost item"
+      ko: "분실물"
+    gender: null
+    notes:
+      en: "drop + thing; 落とし物センター = lost and found"
+      ko: "떨어뜨리다 + 물건; 落とし物センター = 분실물 센터"
+  - japanese: "忘れ物"
+    reading: "わすれもの"
+    translation:
+      en: "forgotten item"
+      ko: "분실물, 잃어버린 것"
+    gender: null
+    notes:
+      en: "forget + thing"
+      ko: "잊다 + 물건"
+  - japanese: "救助"
+    reading: "きゅうじょ"
+    translation:
+      en: "rescue"
+      ko: "구조"
+    gender: null
+    notes:
+      en: "rescue + help"
+      ko: "구 + 조"
+  - japanese: "洪水"
+    reading: "こうずい"
+    translation:
+      en: "flood"
+      ko: "홍수"
+    gender: null
+    notes:
+      en: "overflow + water"
+      ko: "넘치다 + 물"
+  - japanese: "津波"
+    reading: "つなみ"
+    translation:
+      en: "tsunami"
+      ko: "쓰나미"
+    gender: null
+    notes:
+      en: "harbor + wave; Japanese word used worldwide"
+      ko: "항구 + 파도; 전 세계적으로 사용되는 일본어"
+  - japanese: "停電"
+    reading: "ていでん"
+    translation:
+      en: "power outage"
+      ko: "정전"
+    gender: null
+    notes:
+      en: "stop + electricity"
+      ko: "멈추다 + 전기"
+  - japanese: "断水"
+    reading: "だんすい"
+    translation:
+      en: "water outage"
+      ko: "단수"
+    gender: null
+    notes:
+      en: "cut + water"
+      ko: "끊다 + 물"
+  - japanese: "安全"
+    reading: "あんぜん"
+    translation:
+      en: "safety, safe"
+      ko: "안전"
+    gender: null
+    notes:
+      en: "安全な場所 = safe place"
+      ko: "安全な場所 = 안전한 장소"
+  - japanese: "危険"
+    reading: "きけん"
+    translation:
+      en: "danger, dangerous"
+      ko: "위험"
+    gender: null
+    notes:
+      en: "危険な場所 = dangerous place"
+      ko: "危険な場所 = 위험한 장소"
+  - japanese: "警報"
+    reading: "けいほう"
+    translation:
+      en: "warning, alert"
+      ko: "경보"
+    gender: null
+    notes:
+      en: "大雨警報 = heavy rain warning"
+      ko: "大雨警報 = 폭우 경보"

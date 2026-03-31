@@ -1,0 +1,1651 @@
+lesson: "sup_N3_News_and_Media"
+lesson_number: 144
+jlpt: N3
+type: supplementary
+topic: "News and Media"
+categories:
+- id: news_types
+  label:
+    en: "News Types"
+    ko: "뉴스 유형"
+  type: vocabulary
+  words:
+  - japanese: "報道"
+    reading: "ほうどう"
+    translation:
+      en: "news report, reporting"
+      ko: "보도"
+    gender: null
+    notes:
+      en: "報道する = to report (news)"
+      ko: "報道する = 보도하다"
+  - japanese: "速報"
+    reading: "そくほう"
+    translation:
+      en: "breaking news, flash report"
+      ko: "속보"
+    gender: null
+    notes:
+      en: "fast + report"
+      ko: "빠르다 + 보도"
+  - japanese: "号外"
+    reading: "ごうがい"
+    translation:
+      en: "extra edition (newspaper)"
+      ko: "호외"
+    gender: null
+    notes:
+      en: "issue + outside; special unscheduled edition"
+      ko: "호 + 밖; 긴급 발행 특별판"
+  - japanese: "社説"
+    reading: "しゃせつ"
+    translation:
+      en: "editorial"
+      ko: "사설"
+    gender: null
+    notes:
+      en: "company + opinion"
+      ko: "사 + 설"
+  - japanese: "特集"
+    reading: "とくしゅう"
+    translation:
+      en: "special feature, special report"
+      ko: "특집"
+    gender: null
+    notes:
+      en: "special + collection"
+      ko: "특별 + 모음"
+  - japanese: "記事"
+    reading: "きじ"
+    translation:
+      en: "article"
+      ko: "기사"
+    gender: null
+    notes:
+      en: "record + matter"
+      ko: "기록 + 사건"
+  - japanese: "見出し"
+    reading: "みだし"
+    translation:
+      en: "headline"
+      ko: "헤드라인, 표제"
+    gender: null
+    notes:
+      en: "see + put out; newspaper headline"
+      ko: "보다 + 내다; 신문 제목"
+  - japanese: "連載"
+    reading: "れんさい"
+    translation:
+      en: "serialization"
+      ko: "연재"
+    gender: null
+    notes:
+      en: "連載する = to serialize"
+      ko: "連載する = 연재하다"
+  - japanese: "朝刊"
+    reading: "ちょうかん"
+    translation:
+      en: "morning edition"
+      ko: "조간"
+    gender: null
+    notes:
+      en: "morning + publication; opposite: 夕刊"
+      ko: "아침 + 간행; 반대: 夕刊"
+  - japanese: "夕刊"
+    reading: "ゆうかん"
+    translation:
+      en: "evening edition"
+      ko: "석간"
+    gender: null
+    notes:
+      en: "evening + publication"
+      ko: "저녁 + 간행"
+  - japanese: "国際面"
+    reading: "こくさいめん"
+    translation:
+      en: "international section"
+      ko: "국제면"
+    gender: null
+    notes:
+      en: "international + page/section"
+      ko: "국제 + 면"
+  - japanese: "経済面"
+    reading: "けいざいめん"
+    translation:
+      en: "business section"
+      ko: "경제면"
+    gender: null
+    notes:
+      en: "economy + page/section"
+      ko: "경제 + 면"
+  - japanese: "政治面"
+    reading: "せいじめん"
+    translation:
+      en: "political section"
+      ko: "정치면"
+    gender: null
+    notes:
+      en: "politics + page/section"
+      ko: "정치 + 면"
+  - japanese: "社会面"
+    reading: "しゃかいめん"
+    translation:
+      en: "society section"
+      ko: "사회면"
+    gender: null
+    notes:
+      en: "society + page/section"
+      ko: "사회 + 면"
+  - japanese: "文化面"
+    reading: "ぶんかめん"
+    translation:
+      en: "culture section"
+      ko: "문화면"
+    gender: null
+    notes:
+      en: "culture + page/section"
+      ko: "문화 + 면"
+  - japanese: "スポーツ欄"
+    reading: "スポーツらん"
+    translation:
+      en: "sports section"
+      ko: "스포츠란"
+    gender: null
+    notes:
+      en: "sports + column"
+      ko: "스포츠 + 란"
+  - japanese: "天気予報"
+    reading: "てんきよほう"
+    translation:
+      en: "weather forecast"
+      ko: "일기 예보"
+    gender: null
+    notes:
+      en: "weather + forecast"
+      ko: "날씨 + 예보"
+  - japanese: "情報番組"
+    reading: "じょうほうばんぐみ"
+    translation:
+      en: "information program"
+      ko: "정보 프로그램"
+    gender: null
+    notes:
+      en: "information + program"
+      ko: "정보 + 프로그램"
+  - japanese: ニュース
+    reading: null
+    translation:
+      en: "news"
+      ko: "뉴스"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: ドキュメンタリー
+    reading: null
+    translation:
+      en: "documentary"
+      ko: "다큐멘터리"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "コラム"
+    reading: null
+    translation:
+      en: "column (newspaper)"
+      ko: "칼럼"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+
+- id: journalism
+  label:
+    en: "Journalism"
+    ko: "저널리즘"
+  type: vocabulary
+  words:
+  - japanese: "記者"
+    reading: "きしゃ"
+    translation:
+      en: "reporter, journalist"
+      ko: "기자"
+    gender: null
+    notes:
+      en: "record + person"
+      ko: "기록 + 사람"
+  - japanese: "特派員"
+    reading: "とくはいん"
+    translation:
+      en: "correspondent"
+      ko: "특파원"
+    gender: null
+    notes:
+      en: "special + dispatch + member"
+      ko: "특별 + 파견 + 원"
+  - japanese: "編集者"
+    reading: "へんしゅうしゃ"
+    translation:
+      en: "editor"
+      ko: "편집자"
+    gender: null
+    notes:
+      en: "editing + person"
+      ko: "편집 + 자"
+  - japanese: "取材する"
+    reading: "しゅざいする"
+    translation:
+      en: "to cover (a story), to interview"
+      ko: "취재하다"
+    gender: null
+    notes:
+      en: "取材 = news coverage"
+      ko: "取材 = 취재"
+  - japanese: "報じる"
+    reading: "ほうじる"
+    translation:
+      en: "to report, to inform"
+      ko: "보도하다"
+    gender: null
+    notes:
+      en: "literary/formal reporting verb"
+      ko: "문어체/격식체 보도 동사"
+  - japanese: "放送する"
+    reading: "ほうそうする"
+    translation:
+      en: "to broadcast"
+      ko: "방송하다"
+    gender: null
+    notes:
+      en: "放送 = broadcast"
+      ko: "放送 = 방송"
+  - japanese: "生放送"
+    reading: "なまほうそう"
+    translation:
+      en: "live broadcast"
+      ko: "생방송"
+    gender: null
+    notes:
+      en: "live + broadcast"
+      ko: "생 + 방송"
+  - japanese: "出版する"
+    reading: "しゅっぱんする"
+    translation:
+      en: "to publish"
+      ko: "출판하다"
+    gender: null
+    notes:
+      en: "出版社 = publishing company"
+      ko: "出版社 = 출판사"
+  - japanese: "掲載する"
+    reading: "けいさいする"
+    translation:
+      en: "to publish, to run (an article)"
+      ko: "게재하다"
+    gender: null
+    notes:
+      en: "display + carry"
+      ko: "게시 + 싣다"
+  - japanese: "独占"
+    reading: "どくせん"
+    translation:
+      en: "exclusive (scoop)"
+      ko: "독점"
+    gender: null
+    notes:
+      en: "独占インタビュー = exclusive interview"
+      ko: "独占インタビュー = 독점 인터뷰"
+  - japanese: "情報源"
+    reading: "じょうほうげん"
+    translation:
+      en: "source (of information)"
+      ko: "정보원"
+    gender: null
+    notes:
+      en: "information + source"
+      ko: "정보 + 원천"
+  - japanese: "匿名"
+    reading: "とくめい"
+    translation:
+      en: "anonymous"
+      ko: "익명"
+    gender: null
+    notes:
+      en: "hide + name"
+      ko: "숨기다 + 이름"
+  - japanese: "証言"
+    reading: "しょうげん"
+    translation:
+      en: "testimony"
+      ko: "증언"
+    gender: null
+    notes:
+      en: "証言する = to testify"
+      ko: "証言する = 증언하다"
+  - japanese: "論説"
+    reading: "ろんせつ"
+    translation:
+      en: "editorial commentary"
+      ko: "논설"
+    gender: null
+    notes:
+      en: "argument + explanation"
+      ko: "논 + 설"
+  - japanese: "報道陣"
+    reading: "ほうどうじん"
+    translation:
+      en: "press corps, media"
+      ko: "보도진"
+    gender: null
+    notes:
+      en: "news + team"
+      ko: "보도 + 진"
+  - japanese: "記者会見"
+    reading: "きしゃかいけん"
+    translation:
+      en: "press conference"
+      ko: "기자 회견"
+    gender: null
+    notes:
+      en: "reporter + meeting"
+      ko: "기자 + 회견"
+  - japanese: インタビュー
+    reading: null
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: null
+    notes:
+      en: "インタビューする = to interview"
+      ko: "インタビューする = 인터뷰하다"
+  - japanese: マスコミ
+    reading: null
+    translation:
+      en: "mass media"
+      ko: "매스컴"
+    gender: null
+    notes:
+      en: "short for マスコミュニケーション"
+      ko: "マスコミュニケーション의 줄임말"
+  - japanese: メディア
+    reading: null
+    translation:
+      en: "media"
+      ko: "미디어"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: ジャーナリスト
+    reading: null
+    translation:
+      en: "journalist"
+      ko: "저널리스트"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "新聞社"
+    reading: "しんぶんしゃ"
+    translation:
+      en: "newspaper company"
+      ko: "신문사"
+    gender: null
+    notes:
+      en: "newspaper + company"
+      ko: "신문 + 사"
+  - japanese: "通信社"
+    reading: "つうしんしゃ"
+    translation:
+      en: "news agency"
+      ko: "통신사"
+    gender: null
+    notes:
+      en: "communication + company"
+      ko: "통신 + 사"
+  - japanese: "誤報"
+    reading: "ごほう"
+    translation:
+      en: "false report, misinformation"
+      ko: "오보"
+    gender: null
+    notes:
+      en: "error + report"
+      ko: "오류 + 보도"
+  - japanese: "捏造"
+    reading: "ねつぞう"
+    translation:
+      en: "fabrication"
+      ko: "날조"
+    gender: null
+    notes:
+      en: "捏造する = to fabricate"
+      ko: "捏造する = 날조하다"
+
+- id: opinion_words
+  label:
+    en: "Opinion Words"
+    ko: "의견 표현"
+  type: vocabulary
+  words:
+  - japanese: "意見"
+    reading: "いけん"
+    translation:
+      en: "opinion"
+      ko: "의견"
+    gender: null
+    notes:
+      en: "意見を述べる = to express an opinion"
+      ko: "意見を述べる = 의견을 말하다"
+  - japanese: "主張する"
+    reading: "しゅちょうする"
+    translation:
+      en: "to assert, to claim"
+      ko: "주장하다"
+    gender: null
+    notes:
+      en: "主張 = assertion, claim"
+      ko: "主張 = 주장"
+  - japanese: "批判する"
+    reading: "ひはんする"
+    translation:
+      en: "to criticize"
+      ko: "비판하다"
+    gender: null
+    notes:
+      en: "批判 = criticism"
+      ko: "批判 = 비판"
+  - japanese: "反論する"
+    reading: "はんろんする"
+    translation:
+      en: "to refute, to counter-argue"
+      ko: "반론하다"
+    gender: null
+    notes:
+      en: "反論 = counterargument"
+      ko: "反論 = 반론"
+  - japanese: "支持する"
+    reading: "しじする"
+    translation:
+      en: "to support"
+      ko: "지지하다"
+    gender: null
+    notes:
+      en: "支持 = support"
+      ko: "支持 = 지지"
+  - japanese: "否定する"
+    reading: "ひていする"
+    translation:
+      en: "to deny, to negate"
+      ko: "부정하다"
+    gender: null
+    notes:
+      en: "否定 = denial; opposite: 肯定"
+      ko: "否定 = 부정; 반대: 肯定"
+  - japanese: "肯定する"
+    reading: "こうていする"
+    translation:
+      en: "to affirm"
+      ko: "긍정하다"
+    gender: null
+    notes:
+      en: "肯定 = affirmation"
+      ko: "肯定 = 긍정"
+  - japanese: "指摘する"
+    reading: "してきする"
+    translation:
+      en: "to point out"
+      ko: "지적하다"
+    gender: null
+    notes:
+      en: "指摘 = pointing out"
+      ko: "指摘 = 지적"
+  - japanese: "偏見"
+    reading: "へんけん"
+    translation:
+      en: "prejudice, bias"
+      ko: "편견"
+    gender: null
+    notes:
+      en: "lean + view"
+      ko: "치우치다 + 견해"
+  - japanese: "中立"
+    reading: "ちゅうりつ"
+    translation:
+      en: "neutrality"
+      ko: "중립"
+    gender: null
+    notes:
+      en: "middle + stand"
+      ko: "중간 + 서다"
+  - japanese: "客観的"
+    reading: "きゃっかんてき"
+    translation:
+      en: "objective"
+      ko: "객관적"
+    gender: null
+    notes:
+      en: "opposite: 主観的 (subjective)"
+      ko: "반대: 主観的 (주관적)"
+  - japanese: "主観的"
+    reading: "しゅかんてき"
+    translation:
+      en: "subjective"
+      ko: "주관적"
+    gender: null
+    notes:
+      en: "opposite: 客観的 (objective)"
+      ko: "반대: 客観的 (객관적)"
+  - japanese: "世論"
+    reading: "よろん"
+    translation:
+      en: "public opinion"
+      ko: "여론"
+    gender: null
+    notes:
+      en: "also read せろん; 世論調査 = public opinion poll"
+      ko: "せろん으로도 읽음; 世論調査 = 여론 조사"
+  - japanese: "見解"
+    reading: "けんかい"
+    translation:
+      en: "viewpoint, opinion"
+      ko: "견해"
+    gender: null
+    notes:
+      en: "see + understand"
+      ko: "보다 + 풀다"
+  - japanese: "立場"
+    reading: "たちば"
+    translation:
+      en: "standpoint, position"
+      ko: "입장"
+    gender: null
+    notes:
+      en: "stand + place"
+      ko: "서다 + 장소"
+  - japanese: "矛盾"
+    reading: "むじゅん"
+    translation:
+      en: "contradiction"
+      ko: "모순"
+    gender: null
+    notes:
+      en: "spear + shield; from Chinese fable"
+      ko: "창 + 방패; 중국 우화에서 유래"
+  - japanese: "根拠"
+    reading: "こんきょ"
+    translation:
+      en: "basis, grounds"
+      ko: "근거"
+    gender: null
+    notes:
+      en: "root + base"
+      ko: "뿌리 + 근거"
+  - japanese: "論争"
+    reading: "ろんそう"
+    translation:
+      en: "controversy, debate"
+      ko: "논쟁"
+    gender: null
+    notes:
+      en: "argument + fight"
+      ko: "논 + 다투다"
+
+- id: media_verbs
+  label:
+    en: "Media Verbs"
+    ko: "미디어 동사"
+  type: vocabulary
+  words:
+  - japanese: "発信する"
+    reading: "はっしんする"
+    translation:
+      en: "to transmit, to disseminate"
+      ko: "발신하다"
+    gender: null
+    notes:
+      en: "情報を発信する = to send out information"
+      ko: "情報を発信する = 정보를 발신하다"
+  - japanese: "伝える"
+    reading: "つたえる"
+    translation:
+      en: "to convey, to report"
+      ko: "전하다"
+    gender: null
+    notes:
+      en: "ichidan verb"
+      ko: "1단 동사"
+  - japanese: "公表する"
+    reading: "こうひょうする"
+    translation:
+      en: "to make public, to announce"
+      ko: "공표하다"
+    gender: null
+    notes:
+      en: "公表 = public announcement"
+      ko: "公表 = 공표"
+  - japanese: "暴露する"
+    reading: "ばくろする"
+    translation:
+      en: "to expose, to reveal"
+      ko: "폭로하다"
+    gender: null
+    notes:
+      en: "暴露 = exposure/reveal"
+      ko: "暴露 = 폭로"
+  - japanese: "引用する"
+    reading: "いんようする"
+    translation:
+      en: "to quote, to cite"
+      ko: "인용하다"
+    gender: null
+    notes:
+      en: "引用 = quotation"
+      ko: "引用 = 인용"
+  - japanese: "訂正する"
+    reading: "ていせいする"
+    translation:
+      en: "to correct, to retract"
+      ko: "정정하다"
+    gender: null
+    notes:
+      en: "訂正 = correction"
+      ko: "訂正 = 정정"
+  - japanese: "撤回する"
+    reading: "てっかいする"
+    translation:
+      en: "to retract, to withdraw"
+      ko: "철회하다"
+    gender: null
+    notes:
+      en: "撤回 = retraction"
+      ko: "撤回 = 철회"
+  - japanese: "検閲する"
+    reading: "けんえつする"
+    translation:
+      en: "to censor"
+      ko: "검열하다"
+    gender: null
+    notes:
+      en: "検閲 = censorship"
+      ko: "検閲 = 검열"
+  - japanese: "要約する"
+    reading: "ようやくする"
+    translation:
+      en: "to summarize"
+      ko: "요약하다"
+    gender: null
+    notes:
+      en: "要約 = summary"
+      ko: "要約 = 요약"
+  - japanese: "解説する"
+    reading: "かいせつする"
+    translation:
+      en: "to explain, to comment on"
+      ko: "해설하다"
+    gender: null
+    notes:
+      en: "解説者 = commentator"
+      ko: "解説者 = 해설자"
+  - japanese: "発表する"
+    reading: "はっぴょうする"
+    translation:
+      en: "to announce, to release"
+      ko: "발표하다"
+    gender: null
+    notes:
+      en: "発表 = announcement"
+      ko: "発表 = 발표"
+  - japanese: "録画する"
+    reading: "ろくがする"
+    translation:
+      en: "to record (video)"
+      ko: "녹화하다"
+    gender: null
+    notes:
+      en: "録画 = video recording"
+      ko: "録画 = 녹화"
+  - japanese: "録音する"
+    reading: "ろくおんする"
+    translation:
+      en: "to record (audio)"
+      ko: "녹음하다"
+    gender: null
+    notes:
+      en: "録音 = audio recording"
+      ko: "録音 = 녹음"
+  - japanese: "視聴する"
+    reading: "しちょうする"
+    translation:
+      en: "to watch and listen"
+      ko: "시청하다"
+    gender: null
+    notes:
+      en: "視聴率 = viewership rating"
+      ko: "視聴率 = 시청률"
+  - japanese: "購読する"
+    reading: "こうどくする"
+    translation:
+      en: "to subscribe"
+      ko: "구독하다"
+    gender: null
+    notes:
+      en: "購読 = subscription"
+      ko: "購読 = 구독"
+
+- id: current_events
+  label:
+    en: "Current Events"
+    ko: "시사"
+  type: vocabulary
+  words:
+  - japanese: "事件"
+    reading: "じけん"
+    translation:
+      en: "incident, case"
+      ko: "사건"
+    gender: null
+    notes:
+      en: "matter + case"
+      ko: "일 + 건"
+  - japanese: "事故"
+    reading: "じこ"
+    translation:
+      en: "accident"
+      ko: "사고"
+    gender: null
+    notes:
+      en: "交通事故 = traffic accident"
+      ko: "交通事故 = 교통사고"
+  - japanese: "災害"
+    reading: "さいがい"
+    translation:
+      en: "disaster"
+      ko: "재해"
+    gender: null
+    notes:
+      en: "自然災害 = natural disaster"
+      ko: "自然災害 = 자연재해"
+  - japanese: "選挙"
+    reading: "せんきょ"
+    translation:
+      en: "election"
+      ko: "선거"
+    gender: null
+    notes:
+      en: "選挙する = to hold an election"
+      ko: "選挙する = 선거하다"
+  - japanese: "政策"
+    reading: "せいさく"
+    translation:
+      en: "policy"
+      ko: "정책"
+    gender: null
+    notes:
+      en: "politics + plan"
+      ko: "정치 + 책략"
+  - japanese: "条約"
+    reading: "じょうやく"
+    translation:
+      en: "treaty"
+      ko: "조약"
+    gender: null
+    notes:
+      en: "article + agreement"
+      ko: "조 + 약"
+  - japanese: "外交"
+    reading: "がいこう"
+    translation:
+      en: "diplomacy"
+      ko: "외교"
+    gender: null
+    notes:
+      en: "outside + exchange"
+      ko: "밖 + 교류"
+  - japanese: "紛争"
+    reading: "ふんそう"
+    translation:
+      en: "conflict, dispute"
+      ko: "분쟁"
+    gender: null
+    notes:
+      en: "confusion + fight"
+      ko: "혼란 + 다투다"
+  - japanese: "景気"
+    reading: "けいき"
+    translation:
+      en: "economic conditions, business climate"
+      ko: "경기"
+    gender: null
+    notes:
+      en: "景気が良い/悪い = economy is good/bad"
+      ko: "景気が良い/悪い = 경기가 좋다/나쁘다"
+  - japanese: "不況"
+    reading: "ふきょう"
+    translation:
+      en: "recession, depression"
+      ko: "불황"
+    gender: null
+    notes:
+      en: "not + prosperous; opposite: 好況"
+      ko: "아닌 + 호황; 반대: 好況"
+  - japanese: "汚職"
+    reading: "おしょく"
+    translation:
+      en: "corruption"
+      ko: "부패"
+    gender: null
+    notes:
+      en: "dirty + job"
+      ko: "더럽다 + 직무"
+  - japanese: "改革"
+    reading: "かいかく"
+    translation:
+      en: "reform"
+      ko: "개혁"
+    gender: null
+    notes:
+      en: "改革する = to reform"
+      ko: "改革する = 개혁하다"
+  - japanese: "規制"
+    reading: "きせい"
+    translation:
+      en: "regulation"
+      ko: "규제"
+    gender: null
+    notes:
+      en: "規制する = to regulate"
+      ko: "規制する = 규제하다"
+  - japanese: "国会"
+    reading: "こっかい"
+    translation:
+      en: "National Diet (parliament)"
+      ko: "국회"
+    gender: null
+    notes:
+      en: "country + assembly; Japanese parliament"
+      ko: "나라 + 모임; 일본 의회"
+  - japanese: "内閣"
+    reading: "ないかく"
+    translation:
+      en: "cabinet (government)"
+      ko: "내각"
+    gender: null
+    notes:
+      en: "内閣総理大臣 = Prime Minister"
+      ko: "内閣総理大臣 = 내각 총리 대신"
+  - japanese: "首相"
+    reading: "しゅしょう"
+    translation:
+      en: "prime minister"
+      ko: "수상"
+    gender: null
+    notes:
+      en: "head + minister"
+      ko: "머리 + 재상"
+  - japanese: "大統領"
+    reading: "だいとうりょう"
+    translation:
+      en: "president (of a country)"
+      ko: "대통령"
+    gender: null
+    notes:
+      en: "great + govern + leader"
+      ko: "큰 + 통솔 + 지도자"
+  - japanese: "野党"
+    reading: "やとう"
+    translation:
+      en: "opposition party"
+      ko: "야당"
+    gender: null
+    notes:
+      en: "field + party; opposite: 与党"
+      ko: "들 + 당; 반대: 与党"
+  - japanese: "与党"
+    reading: "よとう"
+    translation:
+      en: "ruling party"
+      ko: "여당"
+    gender: null
+    notes:
+      en: "give + party"
+      ko: "주다 + 당"
+  - japanese: "法案"
+    reading: "ほうあん"
+    translation:
+      en: "bill (legislative)"
+      ko: "법안"
+    gender: null
+    notes:
+      en: "law + plan"
+      ko: "법 + 안"
+  - japanese: "世界情勢"
+    reading: "せかいじょうせい"
+    translation:
+      en: "world affairs, global situation"
+      ko: "세계 정세"
+    gender: null
+    notes:
+      en: "world + situation"
+      ko: "세계 + 정세"
+  - japanese: "難民"
+    reading: "なんみん"
+    translation:
+      en: "refugee"
+      ko: "난민"
+    gender: null
+    notes:
+      en: "difficulty + people"
+      ko: "어려움 + 사람"
+  - japanese: テロ
+    reading: null
+    translation:
+      en: "terrorism"
+      ko: "테러"
+    gender: null
+    notes:
+      en: "short for テロリズム"
+      ko: "テロリズム의 줄임말"
+  - japanese: "治安"
+    reading: "ちあん"
+    translation:
+      en: "public order, security"
+      ko: "치안"
+    gender: null
+    notes:
+      en: "govern + peace"
+      ko: "다스리다 + 평안"
+  - japanese: "被害"
+    reading: "ひがい"
+    translation:
+      en: "damage, harm"
+      ko: "피해"
+    gender: null
+    notes:
+      en: "被害者 = victim"
+      ko: "被害者 = 피해자"
+  - japanese: "犠牲"
+    reading: "ぎせい"
+    translation:
+      en: "sacrifice, casualty"
+      ko: "희생"
+    gender: null
+    notes:
+      en: "犠牲者 = casualty, victim"
+      ko: "犠牲者 = 희생자"
+  - japanese: "復興"
+    reading: "ふっこう"
+    translation:
+      en: "reconstruction, recovery"
+      ko: "부흥"
+    gender: null
+    notes:
+      en: "復興する = to reconstruct"
+      ko: "復興する = 부흥하다"
+  - japanese: "支援"
+    reading: "しえん"
+    translation:
+      en: "support, aid"
+      ko: "지원"
+    gender: null
+    notes:
+      en: "支援する = to support"
+      ko: "支援する = 지원하다"
+  - japanese: "避難する"
+    reading: "ひなんする"
+    translation:
+      en: "to evacuate, to take refuge"
+      ko: "피난하다"
+    gender: null
+    notes:
+      en: "避難所 = shelter, evacuation site"
+      ko: "避難所 = 대피소"
+  - japanese: "暴動"
+    reading: "ぼうどう"
+    translation:
+      en: "riot"
+      ko: "폭동"
+    gender: null
+    notes:
+      en: "violent + move"
+      ko: "폭력 + 움직임"
+  - japanese: "停戦"
+    reading: "ていせん"
+    translation:
+      en: "ceasefire"
+      ko: "정전"
+    gender: null
+    notes:
+      en: "停戦する = to ceasefire"
+      ko: "停戦する = 정전하다"
+  - japanese: "制裁"
+    reading: "せいさい"
+    translation:
+      en: "sanction"
+      ko: "제재"
+    gender: null
+    notes:
+      en: "経済制裁 = economic sanctions"
+      ko: "経済制裁 = 경제 제재"
+  - japanese: "国連"
+    reading: "こくれん"
+    translation:
+      en: "United Nations"
+      ko: "국련, 유엔"
+    gender: null
+    notes:
+      en: "short for 国際連合"
+      ko: "国際連合의 줄임말"
+  - japanese: "会談"
+    reading: "かいだん"
+    translation:
+      en: "talks, conference"
+      ko: "회담"
+    gender: null
+    notes:
+      en: "首脳会談 = summit talks"
+      ko: "首脳会談 = 정상 회담"
+  - japanese: "声明"
+    reading: "せいめい"
+    translation:
+      en: "statement, declaration"
+      ko: "성명"
+    gender: null
+    notes:
+      en: "声明を出す = to issue a statement"
+      ko: "声明を出す = 성명을 내다"
+  - japanese: "抗議"
+    reading: "こうぎ"
+    translation:
+      en: "protest"
+      ko: "항의"
+    gender: null
+    notes:
+      en: "抗議する = to protest"
+      ko: "抗議する = 항의하다"
+  - japanese: "占拠する"
+    reading: "せんきょする"
+    translation:
+      en: "to occupy"
+      ko: "점거하다"
+    gender: null
+    notes:
+      en: "占拠 = occupation"
+      ko: "占拠 = 점거"
+  - japanese: "捜査"
+    reading: "そうさ"
+    translation:
+      en: "investigation (criminal)"
+      ko: "수사"
+    gender: null
+    notes:
+      en: "捜査する = to investigate"
+      ko: "捜査する = 수사하다"
+  - japanese: "逮捕"
+    reading: "たいほ"
+    translation:
+      en: "arrest"
+      ko: "체포"
+    gender: null
+    notes:
+      en: "逮捕する = to arrest"
+      ko: "逮捕する = 체포하다"
+  - japanese: "容疑"
+    reading: "ようぎ"
+    translation:
+      en: "suspicion"
+      ko: "혐의"
+    gender: null
+    notes:
+      en: "殺人容疑 = murder suspicion"
+      ko: "殺人容疑 = 살인 혐의"
+  - japanese: "判明する"
+    reading: "はんめいする"
+    translation:
+      en: "to become clear, to be revealed"
+      ko: "판명되다"
+    gender: null
+    notes:
+      en: "判明 = clarification"
+      ko: "判明 = 판명"
+  - japanese: "発覚する"
+    reading: "はっかくする"
+    translation:
+      en: "to come to light, to be discovered"
+      ko: "발각되다"
+    gender: null
+    notes:
+      en: "不正が発覚する = fraud is discovered"
+      ko: "不正が発覚する = 부정이 발각되다"
+  - japanese: "疑惑"
+    reading: "ぎわく"
+    translation:
+      en: "suspicion, allegations"
+      ko: "의혹"
+    gender: null
+    notes:
+      en: "汚職疑惑 = corruption allegations"
+      ko: "汚職疑惑 = 부패 의혹"
+  - japanese: "告発"
+    reading: "こくはつ"
+    translation:
+      en: "accusation, whistleblowing"
+      ko: "고발"
+    gender: null
+    notes:
+      en: "内部告発 = whistleblowing"
+      ko: "内部告発 = 내부 고발"
+  - japanese: "談話"
+    reading: "だんわ"
+    translation:
+      en: "statement, comment"
+      ko: "담화"
+    gender: null
+    notes:
+      en: "首相談話 = prime minister's statement"
+      ko: "首相談話 = 수상 담화"
+  - japanese: "答弁"
+    reading: "とうべん"
+    translation:
+      en: "answer, reply (in parliament)"
+      ko: "답변"
+    gender: null
+    notes:
+      en: "国会答弁 = parliamentary reply"
+      ko: "国会答弁 = 국회 답변"
+  - japanese: "閣議"
+    reading: "かくぎ"
+    translation:
+      en: "cabinet meeting"
+      ko: "각의"
+    gender: null
+    notes:
+      en: "閣議決定 = cabinet decision"
+      ko: "閣議決定 = 각의 결정"
+  - japanese: "世界遺産"
+    reading: "せかいいさん"
+    translation:
+      en: "World Heritage"
+      ko: "세계 유산"
+    gender: null
+    notes:
+      en: "世界遺産に登録 = registered as World Heritage"
+      ko: "世界遺産に登録 = 세계 유산 등록"
+  - japanese: "物価"
+    reading: "ぶっか"
+    translation:
+      en: "prices, cost of living"
+      ko: "물가"
+    gender: null
+    notes:
+      en: "物価上昇 = rising prices"
+      ko: "物価上昇 = 물가 상승"
+  - japanese: "インフレ"
+    reading: null
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: null
+    notes:
+      en: "short for インフレーション"
+      ko: "インフレーション의 줄임말"
+  - japanese: "デフレ"
+    reading: null
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: null
+    notes:
+      en: "short for デフレーション"
+      ko: "デフレーション의 줄임말"
+  - japanese: "円高"
+    reading: "えんだか"
+    translation:
+      en: "strong yen"
+      ko: "엔고"
+    gender: null
+    notes:
+      en: "yen + high; opposite: 円安"
+      ko: "엔 + 높다; 반대: 円安"
+  - japanese: "円安"
+    reading: "えんやす"
+    translation:
+      en: "weak yen"
+      ko: "엔저"
+    gender: null
+    notes:
+      en: "yen + cheap"
+      ko: "엔 + 싸다"
+  - japanese: "株価"
+    reading: "かぶか"
+    translation:
+      en: "stock price"
+      ko: "주가"
+    gender: null
+    notes:
+      en: "株価が暴落する = stock prices crash"
+      ko: "株価が暴落する = 주가가 폭락하다"
+  - japanese: "増税"
+    reading: "ぞうぜい"
+    translation:
+      en: "tax increase"
+      ko: "증세"
+    gender: null
+    notes:
+      en: "消費税増税 = consumption tax increase"
+      ko: "消費税増税 = 소비세 증세"
+  - japanese: "減税"
+    reading: "げんぜい"
+    translation:
+      en: "tax cut"
+      ko: "감세"
+    gender: null
+    notes:
+      en: "reduce + tax"
+      ko: "줄이다 + 세금"
+  - japanese: "失業率"
+    reading: "しつぎょうりつ"
+    translation:
+      en: "unemployment rate"
+      ko: "실업률"
+    gender: null
+    notes:
+      en: "unemployment + rate"
+      ko: "실업 + 률"
+  - japanese: "賄賂"
+    reading: "わいろ"
+    translation:
+      en: "bribe"
+      ko: "뇌물"
+    gender: null
+    notes:
+      en: "賄賂を受け取る = to accept a bribe"
+      ko: "賄賂を受け取る = 뇌물을 받다"
+  - japanese: "スキャンダル"
+    reading: null
+    translation:
+      en: "scandal"
+      ko: "스캔들"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "報道機関"
+    reading: "ほうどうきかん"
+    translation:
+      en: "news organization, press"
+      ko: "보도 기관"
+    gender: null
+    notes:
+      en: "news + organization"
+      ko: "보도 + 기관"
+  - japanese: "言論"
+    reading: "げんろん"
+    translation:
+      en: "speech, press"
+      ko: "언론"
+    gender: null
+    notes:
+      en: "言論の自由 = freedom of the press"
+      ko: "言論の自由 = 언론의 자유"
+  - japanese: "世論調査"
+    reading: "よろんちょうさ"
+    translation:
+      en: "public opinion poll"
+      ko: "여론 조사"
+    gender: null
+    notes:
+      en: "public opinion + survey"
+      ko: "여론 + 조사"
+  - japanese: "支持率"
+    reading: "しじりつ"
+    translation:
+      en: "approval rating"
+      ko: "지지율"
+    gender: null
+    notes:
+      en: "内閣支持率 = cabinet approval rating"
+      ko: "内閣支持率 = 내각 지지율"
+  - japanese: "投票率"
+    reading: "とうひょうりつ"
+    translation:
+      en: "voter turnout"
+      ko: "투표율"
+    gender: null
+    notes:
+      en: "voting + rate"
+      ko: "투표 + 율"
+  - japanese: "当選する"
+    reading: "とうせんする"
+    translation:
+      en: "to win an election"
+      ko: "당선하다"
+    gender: null
+    notes:
+      en: "当選 = election win; opposite: 落選"
+      ko: "当選 = 당선; 반대: 落選"
+  - japanese: "落選する"
+    reading: "らくせんする"
+    translation:
+      en: "to lose an election"
+      ko: "낙선하다"
+    gender: null
+    notes:
+      en: "落選 = election loss"
+      ko: "落選 = 낙선"
+  - japanese: "立候補する"
+    reading: "りっこうほする"
+    translation:
+      en: "to run for office"
+      ko: "입후보하다"
+    gender: null
+    notes:
+      en: "立候補 = candidacy"
+      ko: "立候補 = 입후보"
+  - japanese: "公約"
+    reading: "こうやく"
+    translation:
+      en: "campaign pledge"
+      ko: "공약"
+    gender: null
+    notes:
+      en: "選挙公約 = election promise"
+      ko: "選挙公約 = 선거 공약"
+  - japanese: "議席"
+    reading: "ぎせき"
+    translation:
+      en: "parliamentary seat"
+      ko: "의석"
+    gender: null
+    notes:
+      en: "議席を獲得する = to win a seat"
+      ko: "議席を獲得する = 의석을 획득하다"
+  - japanese: "国民投票"
+    reading: "こくみんとうひょう"
+    translation:
+      en: "referendum"
+      ko: "국민 투표"
+    gender: null
+    notes:
+      en: "national + voting"
+      ko: "국민 + 투표"
+  - japanese: "解散"
+    reading: "かいさん"
+    translation:
+      en: "dissolution (of parliament)"
+      ko: "해산"
+    gender: null
+    notes:
+      en: "衆議院解散 = dissolution of the House"
+      ko: "衆議院解散 = 중의원 해산"
+  - japanese: "予算案"
+    reading: "よさんあん"
+    translation:
+      en: "budget proposal"
+      ko: "예산안"
+    gender: null
+    notes:
+      en: "budget + proposal"
+      ko: "예산 + 안"
+  - japanese: "審議"
+    reading: "しんぎ"
+    translation:
+      en: "deliberation"
+      ko: "심의"
+    gender: null
+    notes:
+      en: "審議する = to deliberate"
+      ko: "審議する = 심의하다"
+  - japanese: "可決する"
+    reading: "かけつする"
+    translation:
+      en: "to pass (a bill)"
+      ko: "가결하다"
+    gender: null
+    notes:
+      en: "可決 = passage; opposite: 否決"
+      ko: "可決 = 가결; 반대: 否決"
+  - japanese: "否決する"
+    reading: "ひけつする"
+    translation:
+      en: "to reject (a bill)"
+      ko: "부결하다"
+    gender: null
+    notes:
+      en: "否決 = rejection"
+      ko: "否決 = 부결"
+  - japanese: "施行"
+    reading: "しこう"
+    translation:
+      en: "enforcement, implementation"
+      ko: "시행"
+    gender: null
+    notes:
+      en: "法律が施行される = a law takes effect"
+      ko: "法律が施行される = 법률이 시행되다"
+  - japanese: "少数派"
+    reading: "しょうすうは"
+    translation:
+      en: "minority (political)"
+      ko: "소수파"
+    gender: null
+    notes:
+      en: "few + faction; opposite: 多数派"
+      ko: "소수 + 파; 반대: 多数派"
+  - japanese: "多数派"
+    reading: "たすうは"
+    translation:
+      en: "majority (political)"
+      ko: "다수파"
+    gender: null
+    notes:
+      en: "many + faction"
+      ko: "다수 + 파"
+  - japanese: "連立"
+    reading: "れんりつ"
+    translation:
+      en: "coalition"
+      ko: "연립"
+    gender: null
+    notes:
+      en: "連立政権 = coalition government"
+      ko: "連立政権 = 연립 정권"
+  - japanese: "閣僚"
+    reading: "かくりょう"
+    translation:
+      en: "cabinet minister"
+      ko: "각료"
+    gender: null
+    notes:
+      en: "cabinet + colleague"
+      ko: "내각 + 동료"
+  - japanese: "辞任する"
+    reading: "じにんする"
+    translation:
+      en: "to resign (from office)"
+      ko: "사임하다"
+    gender: null
+    notes:
+      en: "辞任 = resignation"
+      ko: "辞任 = 사임"
+  - japanese: "任命する"
+    reading: "にんめいする"
+    translation:
+      en: "to appoint"
+      ko: "임명하다"
+    gender: null
+    notes:
+      en: "大臣を任命する = to appoint a minister"
+      ko: "大臣を任命する = 대신을 임명하다"
+  - japanese: "就任する"
+    reading: "しゅうにんする"
+    translation:
+      en: "to assume office"
+      ko: "취임하다"
+    gender: null
+    notes:
+      en: "就任 = inauguration"
+      ko: "就任 = 취임"
+  - japanese: "弾劾"
+    reading: "だんがい"
+    translation:
+      en: "impeachment"
+      ko: "탄핵"
+    gender: null
+    notes:
+      en: "弾劾する = to impeach"
+      ko: "弾劾する = 탄핵하다"
+  - japanese: "救援"
+    reading: "きゅうえん"
+    translation:
+      en: "rescue, relief"
+      ko: "구원"
+    gender: null
+    notes:
+      en: "救援活動 = rescue operations"
+      ko: "救援活動 = 구원 활동"
+  - japanese: "義援金"
+    reading: "ぎえんきん"
+    translation:
+      en: "relief fund, donations"
+      ko: "의연금"
+    gender: null
+    notes:
+      en: "義援金を集める = to collect relief funds"
+      ko: "義援金を集める = 의연금을 모으다"
+  - japanese: "仮設住宅"
+    reading: "かせつじゅうたく"
+    translation:
+      en: "temporary housing"
+      ko: "가설 주택"
+    gender: null
+    notes:
+      en: "temporary + housing"
+      ko: "가설 + 주택"
+  - japanese: "死傷者"
+    reading: "ししょうしゃ"
+    translation:
+      en: "casualties"
+      ko: "사상자"
+    gender: null
+    notes:
+      en: "dead + injured + person"
+      ko: "사망 + 부상 + 자"
+  - japanese: "行方不明"
+    reading: "ゆくえふめい"
+    translation:
+      en: "missing, unaccounted for"
+      ko: "행방불명"
+    gender: null
+    notes:
+      en: "whereabouts + unknown"
+      ko: "행방 + 불명"
+  - japanese: "安否"
+    reading: "あんぴ"
+    translation:
+      en: "safety, well-being"
+      ko: "안부"
+    gender: null
+    notes:
+      en: "安否確認 = safety confirmation"
+      ko: "安否確認 = 안부 확인"
+  - japanese: "警報"
+    reading: "けいほう"
+    translation:
+      en: "warning, alert"
+      ko: "경보"
+    gender: null
+    notes:
+      en: "津波警報 = tsunami warning"
+      ko: "津波警報 = 쓰나미 경보"
+  - japanese: "注意報"
+    reading: "ちゅういほう"
+    translation:
+      en: "advisory, watch"
+      ko: "주의보"
+    gender: null
+    notes:
+      en: "caution + report"
+      ko: "주의 + 보"
+  - japanese: "発令する"
+    reading: "はつれいする"
+    translation:
+      en: "to issue (an order/warning)"
+      ko: "발령하다"
+    gender: null
+    notes:
+      en: "避難命令を発令する = to issue an evacuation order"
+      ko: "避難命令を発令する = 피난 명령을 발령하다"
+  - japanese: "憶測"
+    reading: "おくそく"
+    translation:
+      en: "speculation, conjecture"
+      ko: "억측"
+    gender: null
+    notes:
+      en: "憶測が飛び交う = speculation runs rampant"
+      ko: "憶測が飛び交う = 억측이 난무하다"
+  - japanese: "真相"
+    reading: "しんそう"
+    translation:
+      en: "truth, the real story"
+      ko: "진상"
+    gender: null
+    notes:
+      en: "真相を究明する = to find out the truth"
+      ko: "真相を究明する = 진상을 규명하다"
+  - japanese: "関係者"
+    reading: "かんけいしゃ"
+    translation:
+      en: "person involved, stakeholder"
+      ko: "관계자"
+    gender: null
+    notes:
+      en: "関係者によると = according to those involved"
+      ko: "関係者によると = 관계자에 따르면"
+  - japanese: "当局"
+    reading: "とうきょく"
+    translation:
+      en: "authorities"
+      ko: "당국"
+    gender: null
+    notes:
+      en: "当局者 = official/authority"
+      ko: "当局者 = 당국자"
+  - japanese: "概要"
+    reading: "がいよう"
+    translation:
+      en: "summary, outline"
+      ko: "개요"
+    gender: null
+    notes:
+      en: "事件の概要 = outline of the case"
+      ko: "事件の概要 = 사건의 개요"
+  - japanese: "詳細"
+    reading: "しょうさい"
+    translation:
+      en: "details"
+      ko: "상세"
+    gender: null
+    notes:
+      en: "詳細は不明 = details are unknown"
+      ko: "詳細は不明 = 상세 내용은 불명"
+  - japanese: "経緯"
+    reading: "けいい"
+    translation:
+      en: "circumstances, background"
+      ko: "경위"
+    gender: null
+    notes:
+      en: "事件の経緯 = circumstances of the case"
+      ko: "事件の経緯 = 사건의 경위"
+  - japanese: "背景"
+    reading: "はいけい"
+    translation:
+      en: "background"
+      ko: "배경"
+    gender: null
+    notes:
+      en: "事件の背景 = background of the incident"
+      ko: "事件の背景 = 사건의 배경"

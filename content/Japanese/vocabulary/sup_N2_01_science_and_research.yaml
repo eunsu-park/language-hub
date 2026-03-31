@@ -1,0 +1,1750 @@
+lesson: "sup_N2_Science_and_Research"
+lesson_number: 161
+jlpt: N2
+type: supplementary
+topic: "Science and Research"
+categories:
+- id: scientific_method
+  label:
+    en: "Scientific Method"
+    ko: "과학적 방법"
+  type: vocabulary
+  words:
+  - japanese: "仮説"
+    reading: "かせつ"
+    translation:
+      en: "hypothesis"
+      ko: "가설"
+    gender: null
+    notes:
+      en: "temporary + theory; 仮説を立てる = to form a hypothesis"
+      ko: "임시 + 이론; 仮説を立てる = 가설을 세우다"
+  - japanese: "実証"
+    reading: "じっしょう"
+    translation:
+      en: "empirical proof, verification"
+      ko: "실증"
+    gender: null
+    notes:
+      en: "actual + proof; 実証する = to prove empirically"
+      ko: "실제 + 증명; 実証する = 실증하다"
+  - japanese: "検証"
+    reading: "けんしょう"
+    translation:
+      en: "verification, validation"
+      ko: "검증"
+    gender: null
+    notes:
+      en: "examine + proof; 検証する = to verify"
+      ko: "검사 + 증명; 検証する = 검증하다"
+  - japanese: "観察"
+    reading: "かんさつ"
+    translation:
+      en: "observation"
+      ko: "관찰"
+    gender: null
+    notes:
+      en: "view + examine; 観察する = to observe"
+      ko: "보다 + 살피다; 観察する = 관찰하다"
+  - japanese: "測定"
+    reading: "そくてい"
+    translation:
+      en: "measurement"
+      ko: "측정"
+    gender: null
+    notes:
+      en: "measure + determine; 測定する = to measure"
+      ko: "재다 + 정하다; 測定する = 측정하다"
+  - japanese: "変数"
+    reading: "へんすう"
+    translation:
+      en: "variable"
+      ko: "변수"
+    gender: null
+    notes:
+      en: "change + number"
+      ko: "변하다 + 수"
+  - japanese: "定数"
+    reading: "ていすう"
+    translation:
+      en: "constant"
+      ko: "상수"
+    gender: null
+    notes:
+      en: "fixed + number"
+      ko: "정하다 + 수"
+  - japanese: "対照"
+    reading: "たいしょう"
+    translation:
+      en: "control (group), contrast"
+      ko: "대조"
+    gender: null
+    notes:
+      en: "対照実験 = controlled experiment"
+      ko: "対照実験 = 대조 실험"
+  - japanese: "標本"
+    reading: "ひょうほん"
+    translation:
+      en: "specimen, sample"
+      ko: "표본"
+    gender: null
+    notes:
+      en: "mark + base"
+      ko: "표시 + 근본"
+  - japanese: "誤差"
+    reading: "ごさ"
+    translation:
+      en: "error, margin of error"
+      ko: "오차"
+    gender: null
+    notes:
+      en: "mistake + difference"
+      ko: "오류 + 차이"
+  - japanese: "客観的"
+    reading: "きゃっかんてき"
+    translation:
+      en: "objective"
+      ko: "객관적"
+    gender: null
+    notes:
+      en: "opposite: 主観的 (しゅかんてき) = subjective"
+      ko: "반대: 主観的 (しゅかんてき) = 주관적"
+  - japanese: "主観的"
+    reading: "しゅかんてき"
+    translation:
+      en: "subjective"
+      ko: "주관적"
+    gender: null
+    notes:
+      en: "main + view + adjectival suffix"
+      ko: "주 + 관점 + 형용사 접미사"
+  - japanese: "帰納"
+    reading: "きのう"
+    translation:
+      en: "induction"
+      ko: "귀납"
+    gender: null
+    notes:
+      en: "帰納法 = inductive method"
+      ko: "帰納法 = 귀납법"
+  - japanese: "演繹"
+    reading: "えんえき"
+    translation:
+      en: "deduction"
+      ko: "연역"
+    gender: null
+    notes:
+      en: "演繹法 = deductive method"
+      ko: "演繹法 = 연역법"
+  - japanese: "法則"
+    reading: "ほうそく"
+    translation:
+      en: "law, rule (scientific)"
+      ko: "법칙"
+    gender: null
+    notes:
+      en: "自然法則 = law of nature"
+      ko: "自然法則 = 자연 법칙"
+  - japanese: "理論"
+    reading: "りろん"
+    translation:
+      en: "theory"
+      ko: "이론"
+    gender: null
+    notes:
+      en: "reason + discussion"
+      ko: "이치 + 논의"
+  - japanese: "定理"
+    reading: "ていり"
+    translation:
+      en: "theorem"
+      ko: "정리"
+    gender: null
+    notes:
+      en: "fixed + reason"
+      ko: "정하다 + 이치"
+  - japanese: "原理"
+    reading: "げんり"
+    translation:
+      en: "principle"
+      ko: "원리"
+    gender: null
+    notes:
+      en: "origin + reason"
+      ko: "근원 + 이치"
+  - japanese: "因果関係"
+    reading: "いんがかんけい"
+    translation:
+      en: "causal relationship"
+      ko: "인과관계"
+    gender: null
+    notes:
+      en: "cause + effect + relation"
+      ko: "원인 + 결과 + 관계"
+  - japanese: "相関"
+    reading: "そうかん"
+    translation:
+      en: "correlation"
+      ko: "상관"
+    gender: null
+    notes:
+      en: "相関関係 = correlation"
+      ko: "相関関係 = 상관관계"
+  - japanese: "再現性"
+    reading: "さいげんせい"
+    translation:
+      en: "reproducibility"
+      ko: "재현성"
+    gender: null
+    notes:
+      en: "再現する = to reproduce"
+      ko: "再現する = 재현하다"
+  - japanese: "精度"
+    reading: "せいど"
+    translation:
+      en: "precision, accuracy"
+      ko: "정밀도"
+    gender: null
+    notes:
+      en: "high 精度 = high precision"
+      ko: "높은 精度 = 높은 정밀도"
+  - japanese: "妥当性"
+    reading: "だとうせい"
+    translation:
+      en: "validity"
+      ko: "타당성"
+    gender: null
+    notes:
+      en: "appropriateness + quality"
+      ko: "적절함 + 성질"
+  - japanese: "統制"
+    reading: "とうせい"
+    translation:
+      en: "control (experimental)"
+      ko: "통제"
+    gender: null
+    notes:
+      en: "統制群 = control group"
+      ko: "統制群 = 통제군"
+  - japanese: "被験者"
+    reading: "ひけんしゃ"
+    translation:
+      en: "test subject, participant"
+      ko: "피험자"
+    gender: null
+    notes:
+      en: "receive + test + person"
+      ko: "받다 + 실험 + 사람"
+  - japanese: "条件"
+    reading: "じょうけん"
+    translation:
+      en: "condition"
+      ko: "조건"
+    gender: null
+    notes:
+      en: "実験条件 = experimental conditions"
+      ko: "実験条件 = 실험 조건"
+  - japanese: "手順"
+    reading: "てじゅん"
+    translation:
+      en: "procedure, steps"
+      ko: "절차"
+    gender: null
+    notes:
+      en: "hand + order"
+      ko: "손 + 순서"
+  - japanese: "試料"
+    reading: "しりょう"
+    translation:
+      en: "test sample, specimen"
+      ko: "시료"
+    gender: null
+    notes:
+      en: "test + material"
+      ko: "시험 + 재료"
+  - japanese: "概念"
+    reading: "がいねん"
+    translation:
+      en: "concept"
+      ko: "개념"
+    gender: null
+    notes:
+      en: "general + thought"
+      ko: "대략 + 생각"
+  - japanese: "矛盾"
+    reading: "むじゅん"
+    translation:
+      en: "contradiction"
+      ko: "모순"
+    gender: null
+    notes:
+      en: "spear + shield; from classical Chinese parable"
+      ko: "창 + 방패; 중국 고전 우화에서 유래"
+  - japanese: "前提"
+    reading: "ぜんてい"
+    translation:
+      en: "premise, prerequisite"
+      ko: "전제"
+    gender: null
+    notes:
+      en: "before + present"
+      ko: "앞 + 내놓다"
+  - japanese: "推論"
+    reading: "すいろん"
+    translation:
+      en: "inference, reasoning"
+      ko: "추론"
+    gender: null
+    notes:
+      en: "push + discuss; 推論する = to infer"
+      ko: "밀다 + 논의; 推論する = 추론하다"
+  - japanese: "反証"
+    reading: "はんしょう"
+    translation:
+      en: "disproof, counter-evidence"
+      ko: "반증"
+    gender: null
+    notes:
+      en: "反証する = to disprove"
+      ko: "反証する = 반증하다"
+  - japanese: "普遍的"
+    reading: "ふへんてき"
+    translation:
+      en: "universal"
+      ko: "보편적"
+    gender: null
+    notes:
+      en: "widespread + adjectival suffix"
+      ko: "보편 + 형용사 접미사"
+  - japanese: "実験"
+    reading: "じっけん"
+    translation:
+      en: "experiment"
+      ko: "실험"
+    gender: null
+    notes:
+      en: "practice + verify"
+      ko: "실제 + 검증"
+  - japanese: "現象"
+    reading: "げんしょう"
+    translation:
+      en: "phenomenon"
+      ko: "현상"
+    gender: null
+    notes:
+      en: "appear + shape"
+      ko: "나타나다 + 형상"
+  - japanese: "根拠"
+    reading: "こんきょ"
+    translation:
+      en: "basis, grounds, evidence"
+      ko: "근거"
+    gender: null
+    notes:
+      en: "root + base"
+      ko: "뿌리 + 근거"
+  - japanese: "分類"
+    reading: "ぶんるい"
+    translation:
+      en: "classification"
+      ko: "분류"
+    gender: null
+    notes:
+      en: "divide + type; 分類する = to classify"
+      ko: "나누다 + 종류; 分類する = 분류하다"
+
+- id: biology
+  label:
+    en: "Biology"
+    ko: "생물학"
+  type: vocabulary
+  words:
+  - japanese: "細胞"
+    reading: "さいぼう"
+    translation:
+      en: "cell"
+      ko: "세포"
+    gender: null
+    notes:
+      en: "fine + enclosure"
+      ko: "가는 + 주머니"
+  - japanese: "遺伝子"
+    reading: "いでんし"
+    translation:
+      en: "gene"
+      ko: "유전자"
+    gender: null
+    notes:
+      en: "heredity + child"
+      ko: "유전 + 자"
+  - japanese: "遺伝"
+    reading: "いでん"
+    translation:
+      en: "heredity, genetics"
+      ko: "유전"
+    gender: null
+    notes:
+      en: "leave behind + transmit"
+      ko: "남기다 + 전하다"
+  - japanese: "染色体"
+    reading: "せんしょくたい"
+    translation:
+      en: "chromosome"
+      ko: "염색체"
+    gender: null
+    notes:
+      en: "dye + color + body"
+      ko: "염색 + 색 + 체"
+  - japanese: "突然変異"
+    reading: "とつぜんへんい"
+    translation:
+      en: "mutation"
+      ko: "돌연변이"
+    gender: null
+    notes:
+      en: "sudden + change"
+      ko: "갑자기 + 변이"
+  - japanese: "進化"
+    reading: "しんか"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: null
+    notes:
+      en: "advance + change; 進化する = to evolve"
+      ko: "나아가다 + 변하다; 進化する = 진화하다"
+  - japanese: "生態系"
+    reading: "せいたいけい"
+    translation:
+      en: "ecosystem"
+      ko: "생태계"
+    gender: null
+    notes:
+      en: "life + state + system"
+      ko: "생명 + 상태 + 계"
+  - japanese: "光合成"
+    reading: "こうごうせい"
+    translation:
+      en: "photosynthesis"
+      ko: "광합성"
+    gender: null
+    notes:
+      en: "light + combine + create"
+      ko: "빛 + 합하다 + 만들다"
+  - japanese: "微生物"
+    reading: "びせいぶつ"
+    translation:
+      en: "microorganism"
+      ko: "미생물"
+    gender: null
+    notes:
+      en: "micro + living thing"
+      ko: "미세 + 생물"
+  - japanese: "免疫"
+    reading: "めんえき"
+    translation:
+      en: "immunity"
+      ko: "면역"
+    gender: null
+    notes:
+      en: "exempt + plague"
+      ko: "면하다 + 역병"
+  - japanese: "代謝"
+    reading: "たいしゃ"
+    translation:
+      en: "metabolism"
+      ko: "대사"
+    gender: null
+    notes:
+      en: "新陳代謝 = metabolism (full form)"
+      ko: "新陳代謝 = 신진대사 (전체 형태)"
+  - japanese: "酵素"
+    reading: "こうそ"
+    translation:
+      en: "enzyme"
+      ko: "효소"
+    gender: null
+    notes:
+      en: "ferment + element"
+      ko: "발효 + 소"
+  - japanese: "繁殖"
+    reading: "はんしょく"
+    translation:
+      en: "reproduction, breeding"
+      ko: "번식"
+    gender: null
+    notes:
+      en: "繁殖する = to reproduce/breed"
+      ko: "繁殖する = 번식하다"
+  - japanese: "絶滅"
+    reading: "ぜつめつ"
+    translation:
+      en: "extinction"
+      ko: "절멸, 멸종"
+    gender: null
+    notes:
+      en: "cease + destroy; 絶滅危惧種 = endangered species"
+      ko: "끊다 + 멸하다; 絶滅危惧種 = 멸종 위기종"
+  - japanese: "有機体"
+    reading: "ゆうきたい"
+    translation:
+      en: "organism"
+      ko: "유기체"
+    gender: null
+    notes:
+      en: "organic + body"
+      ko: "유기 + 체"
+  - japanese: "種"
+    reading: "しゅ"
+    translation:
+      en: "species"
+      ko: "종"
+    gender: null
+    notes:
+      en: "生物種 = biological species"
+      ko: "生物種 = 생물종"
+  - japanese: "適応"
+    reading: "てきおう"
+    translation:
+      en: "adaptation"
+      ko: "적응"
+    gender: null
+    notes:
+      en: "適応する = to adapt"
+      ko: "適応する = 적응하다"
+  - japanese: "淘汰"
+    reading: "とうた"
+    translation:
+      en: "selection (natural)"
+      ko: "도태"
+    gender: null
+    notes:
+      en: "自然淘汰 = natural selection"
+      ko: "自然淘汰 = 자연 도태"
+  - japanese: "組織"
+    reading: "そしき"
+    translation:
+      en: "tissue (biological)"
+      ko: "조직"
+    gender: null
+    notes:
+      en: "also means organization"
+      ko: "조직(기관)이라는 뜻도 있음"
+  - japanese: "器官"
+    reading: "きかん"
+    translation:
+      en: "organ"
+      ko: "기관"
+    gender: null
+    notes:
+      en: "instrument + function"
+      ko: "기구 + 관"
+  - japanese: "栄養"
+    reading: "えいよう"
+    translation:
+      en: "nutrition"
+      ko: "영양"
+    gender: null
+    notes:
+      en: "glory + nourish"
+      ko: "영화 + 양분"
+  - japanese: "呼吸"
+    reading: "こきゅう"
+    translation:
+      en: "respiration"
+      ko: "호흡"
+    gender: null
+    notes:
+      en: "exhale + inhale"
+      ko: "내쉬다 + 들이쉬다"
+  - japanese: "分裂"
+    reading: "ぶんれつ"
+    translation:
+      en: "cell division, fission"
+      ko: "분열"
+    gender: null
+    notes:
+      en: "細胞分裂 = cell division"
+      ko: "細胞分裂 = 세포 분열"
+  - japanese: "生息"
+    reading: "せいそく"
+    translation:
+      en: "inhabiting, habitat"
+      ko: "서식"
+    gender: null
+    notes:
+      en: "生息地 = habitat"
+      ko: "生息地 = 서식지"
+  - japanese: "捕食"
+    reading: "ほしょく"
+    translation:
+      en: "predation"
+      ko: "포식"
+    gender: null
+    notes:
+      en: "捕食者 = predator"
+      ko: "捕食者 = 포식자"
+  - japanese: "共生"
+    reading: "きょうせい"
+    translation:
+      en: "symbiosis"
+      ko: "공생"
+    gender: null
+    notes:
+      en: "together + live"
+      ko: "함께 + 살다"
+  - japanese: "寄生"
+    reading: "きせい"
+    translation:
+      en: "parasitism"
+      ko: "기생"
+    gender: null
+    notes:
+      en: "寄生虫 = parasite"
+      ko: "寄生虫 = 기생충"
+  - japanese: "食物連鎖"
+    reading: "しょくもつれんさ"
+    translation:
+      en: "food chain"
+      ko: "먹이 사슬"
+    gender: null
+    notes:
+      en: "food + chain"
+      ko: "식물 + 연쇄"
+  - japanese: "胚"
+    reading: "はい"
+    translation:
+      en: "embryo"
+      ko: "배아"
+    gender: null
+    notes:
+      en: "胚発生 = embryonic development"
+      ko: "胚発生 = 배 발생"
+  - japanese: "幹細胞"
+    reading: "かんさいぼう"
+    translation:
+      en: "stem cell"
+      ko: "줄기세포"
+    gender: null
+    notes:
+      en: "trunk + cell"
+      ko: "줄기 + 세포"
+  - japanese: "抗体"
+    reading: "こうたい"
+    translation:
+      en: "antibody"
+      ko: "항체"
+    gender: null
+    notes:
+      en: "against + body"
+      ko: "대항 + 체"
+  - japanese: "病原体"
+    reading: "びょうげんたい"
+    translation:
+      en: "pathogen"
+      ko: "병원체"
+    gender: null
+    notes:
+      en: "disease + origin + body"
+      ko: "병 + 원인 + 체"
+  - japanese: "生態"
+    reading: "せいたい"
+    translation:
+      en: "ecology, mode of life"
+      ko: "생태"
+    gender: null
+    notes:
+      en: "life + state"
+      ko: "생명 + 상태"
+  - japanese: "多様性"
+    reading: "たようせい"
+    translation:
+      en: "diversity, biodiversity"
+      ko: "다양성"
+    gender: null
+    notes:
+      en: "生物多様性 = biodiversity"
+      ko: "生物多様性 = 생물다양성"
+  - japanese: "個体"
+    reading: "こたい"
+    translation:
+      en: "individual (organism)"
+      ko: "개체"
+    gender: null
+    notes:
+      en: "single + body"
+      ko: "개별 + 체"
+  - japanese: "群集"
+    reading: "ぐんしゅう"
+    translation:
+      en: "community (ecological)"
+      ko: "군집"
+    gender: null
+    notes:
+      en: "group + gather"
+      ko: "무리 + 모이다"
+  - japanese: "受粉"
+    reading: "じゅふん"
+    translation:
+      en: "pollination"
+      ko: "수분"
+    gender: null
+    notes:
+      en: "receive + pollen"
+      ko: "받다 + 꽃가루"
+  - japanese: "葉緑素"
+    reading: "ようりょくそ"
+    translation:
+      en: "chlorophyll"
+      ko: "엽록소"
+    gender: null
+    notes:
+      en: "leaf + green + element"
+      ko: "잎 + 녹색 + 소"
+
+- id: chemistry
+  label:
+    en: "Chemistry"
+    ko: "화학"
+  type: vocabulary
+  words:
+  - japanese: "元素"
+    reading: "げんそ"
+    translation:
+      en: "element"
+      ko: "원소"
+    gender: null
+    notes:
+      en: "origin + element"
+      ko: "근원 + 소"
+  - japanese: "分子"
+    reading: "ぶんし"
+    translation:
+      en: "molecule"
+      ko: "분자"
+    gender: null
+    notes:
+      en: "divide + child"
+      ko: "나누다 + 자"
+  - japanese: "原子"
+    reading: "げんし"
+    translation:
+      en: "atom"
+      ko: "원자"
+    gender: null
+    notes:
+      en: "origin + child"
+      ko: "근원 + 자"
+  - japanese: "化合物"
+    reading: "かごうぶつ"
+    translation:
+      en: "compound"
+      ko: "화합물"
+    gender: null
+    notes:
+      en: "change + combine + thing"
+      ko: "변화 + 결합 + 물질"
+  - japanese: "反応"
+    reading: "はんのう"
+    translation:
+      en: "reaction"
+      ko: "반응"
+    gender: null
+    notes:
+      en: "化学反応 = chemical reaction"
+      ko: "化学反応 = 화학 반응"
+  - japanese: "触媒"
+    reading: "しょくばい"
+    translation:
+      en: "catalyst"
+      ko: "촉매"
+    gender: null
+    notes:
+      en: "touch + intermediary"
+      ko: "접촉 + 매개"
+  - japanese: "溶液"
+    reading: "ようえき"
+    translation:
+      en: "solution (liquid)"
+      ko: "용액"
+    gender: null
+    notes:
+      en: "dissolve + liquid"
+      ko: "녹이다 + 액체"
+  - japanese: "濃度"
+    reading: "のうど"
+    translation:
+      en: "concentration"
+      ko: "농도"
+    gender: null
+    notes:
+      en: "thick + degree"
+      ko: "진하다 + 도"
+  - japanese: "酸化"
+    reading: "さんか"
+    translation:
+      en: "oxidation"
+      ko: "산화"
+    gender: null
+    notes:
+      en: "acid + change; 酸化する = to oxidize"
+      ko: "산 + 변화; 酸化する = 산화하다"
+  - japanese: "還元"
+    reading: "かんげん"
+    translation:
+      en: "reduction (chemical)"
+      ko: "환원"
+    gender: null
+    notes:
+      en: "return + origin"
+      ko: "돌아가다 + 원래"
+  - japanese: "結合"
+    reading: "けつごう"
+    translation:
+      en: "bond, bonding"
+      ko: "결합"
+    gender: null
+    notes:
+      en: "化学結合 = chemical bond"
+      ko: "化学結合 = 화학 결합"
+  - japanese: "周期表"
+    reading: "しゅうきひょう"
+    translation:
+      en: "periodic table"
+      ko: "주기율표"
+    gender: null
+    notes:
+      en: "period + table"
+      ko: "주기 + 표"
+  - japanese: "合成"
+    reading: "ごうせい"
+    translation:
+      en: "synthesis"
+      ko: "합성"
+    gender: null
+    notes:
+      en: "combine + create; 合成する = to synthesize"
+      ko: "합하다 + 만들다; 合成する = 합성하다"
+  - japanese: "蒸留"
+    reading: "じょうりゅう"
+    translation:
+      en: "distillation"
+      ko: "증류"
+    gender: null
+    notes:
+      en: "steam + flow"
+      ko: "증기 + 흐르다"
+  - japanese: "飽和"
+    reading: "ほうわ"
+    translation:
+      en: "saturation"
+      ko: "포화"
+    gender: null
+    notes:
+      en: "full + harmonize"
+      ko: "가득 + 화합"
+  - japanese: "沈殿"
+    reading: "ちんでん"
+    translation:
+      en: "precipitation, sediment"
+      ko: "침전"
+    gender: null
+    notes:
+      en: "sink + deposit"
+      ko: "가라앉다 + 쌓이다"
+  - japanese: "溶媒"
+    reading: "ようばい"
+    translation:
+      en: "solvent"
+      ko: "용매"
+    gender: null
+    notes:
+      en: "dissolve + intermediary"
+      ko: "녹이다 + 매개"
+  - japanese: "溶質"
+    reading: "ようしつ"
+    translation:
+      en: "solute"
+      ko: "용질"
+    gender: null
+    notes:
+      en: "dissolve + substance"
+      ko: "녹이다 + 질"
+  - japanese: "水素"
+    reading: "すいそ"
+    translation:
+      en: "hydrogen"
+      ko: "수소"
+    gender: null
+    notes:
+      en: "water + element"
+      ko: "물 + 소"
+  - japanese: "酸素"
+    reading: "さんそ"
+    translation:
+      en: "oxygen"
+      ko: "산소"
+    gender: null
+    notes:
+      en: "acid + element"
+      ko: "산 + 소"
+  - japanese: "窒素"
+    reading: "ちっそ"
+    translation:
+      en: "nitrogen"
+      ko: "질소"
+    gender: null
+    notes:
+      en: "suffocate + element"
+      ko: "질식 + 소"
+  - japanese: "炭素"
+    reading: "たんそ"
+    translation:
+      en: "carbon"
+      ko: "탄소"
+    gender: null
+    notes:
+      en: "charcoal + element"
+      ko: "숯 + 소"
+  - japanese: "有機"
+    reading: "ゆうき"
+    translation:
+      en: "organic"
+      ko: "유기"
+    gender: null
+    notes:
+      en: "有機化学 = organic chemistry"
+      ko: "有機化学 = 유기 화학"
+  - japanese: "無機"
+    reading: "むき"
+    translation:
+      en: "inorganic"
+      ko: "무기"
+    gender: null
+    notes:
+      en: "無機化学 = inorganic chemistry"
+      ko: "無機化学 = 무기 화학"
+  - japanese: "電子"
+    reading: "でんし"
+    translation:
+      en: "electron"
+      ko: "전자"
+    gender: null
+    notes:
+      en: "electricity + child"
+      ko: "전기 + 자"
+  - japanese: "陽子"
+    reading: "ようし"
+    translation:
+      en: "proton"
+      ko: "양자"
+    gender: null
+    notes:
+      en: "positive + child"
+      ko: "양 + 자"
+  - japanese: "中性子"
+    reading: "ちゅうせいし"
+    translation:
+      en: "neutron"
+      ko: "중성자"
+    gender: null
+    notes:
+      en: "neutral + child"
+      ko: "중성 + 자"
+  - japanese: "同位体"
+    reading: "どういたい"
+    translation:
+      en: "isotope"
+      ko: "동위원소"
+    gender: null
+    notes:
+      en: "same + position + body"
+      ko: "같은 + 위치 + 체"
+  - japanese: "融点"
+    reading: "ゆうてん"
+    translation:
+      en: "melting point"
+      ko: "융점"
+    gender: null
+    notes:
+      en: "melt + point"
+      ko: "녹다 + 점"
+  - japanese: "沸点"
+    reading: "ふってん"
+    translation:
+      en: "boiling point"
+      ko: "끓는점"
+    gender: null
+    notes:
+      en: "boil + point"
+      ko: "끓다 + 점"
+  - japanese: "蒸発"
+    reading: "じょうはつ"
+    translation:
+      en: "evaporation"
+      ko: "증발"
+    gender: null
+    notes:
+      en: "steam + emit; 蒸発する = to evaporate"
+      ko: "증기 + 발하다; 蒸発する = 증발하다"
+  - japanese: "凝縮"
+    reading: "ぎょうしゅく"
+    translation:
+      en: "condensation"
+      ko: "응축"
+    gender: null
+    notes:
+      en: "congeal + shrink"
+      ko: "응고 + 줄이다"
+  - japanese: "酸"
+    reading: "さん"
+    translation:
+      en: "acid"
+      ko: "산"
+    gender: null
+    notes:
+      en: "酸性 = acidity"
+      ko: "酸性 = 산성"
+  - japanese: "塩基"
+    reading: "えんき"
+    translation:
+      en: "base (chemical)"
+      ko: "염기"
+    gender: null
+    notes:
+      en: "salt + base"
+      ko: "소금 + 기"
+  - japanese: "中和"
+    reading: "ちゅうわ"
+    translation:
+      en: "neutralization"
+      ko: "중화"
+    gender: null
+    notes:
+      en: "middle + harmonize; 中和する = to neutralize"
+      ko: "가운데 + 조화; 中和する = 중화하다"
+  - japanese: "結晶"
+    reading: "けっしょう"
+    translation:
+      en: "crystal"
+      ko: "결정"
+    gender: null
+    notes:
+      en: "bind + clear"
+      ko: "맺다 + 맑다"
+  - japanese: "混合物"
+    reading: "こんごうぶつ"
+    translation:
+      en: "mixture"
+      ko: "혼합물"
+    gender: null
+    notes:
+      en: "mix + combine + thing"
+      ko: "섞다 + 합하다 + 물질"
+  - japanese: "純粋"
+    reading: "じゅんすい"
+    translation:
+      en: "pure"
+      ko: "순수"
+    gender: null
+    notes:
+      en: "pure + pure"
+      ko: "순 + 수"
+
+- id: physics
+  label:
+    en: "Physics"
+    ko: "물리학"
+  type: vocabulary
+  words:
+  - japanese: "重力"
+    reading: "じゅうりょく"
+    translation:
+      en: "gravity"
+      ko: "중력"
+    gender: null
+    notes:
+      en: "heavy + force"
+      ko: "무겁다 + 힘"
+  - japanese: "引力"
+    reading: "いんりょく"
+    translation:
+      en: "gravitational pull, attraction"
+      ko: "인력"
+    gender: null
+    notes:
+      en: "pull + force"
+      ko: "끌다 + 힘"
+  - japanese: "摩擦"
+    reading: "まさつ"
+    translation:
+      en: "friction"
+      ko: "마찰"
+    gender: null
+    notes:
+      en: "rub + rub"
+      ko: "갈다 + 갈다"
+  - japanese: "慣性"
+    reading: "かんせい"
+    translation:
+      en: "inertia"
+      ko: "관성"
+    gender: null
+    notes:
+      en: "慣性の法則 = law of inertia"
+      ko: "慣性の法則 = 관성의 법칙"
+  - japanese: "加速度"
+    reading: "かそくど"
+    translation:
+      en: "acceleration"
+      ko: "가속도"
+    gender: null
+    notes:
+      en: "add + speed + degree"
+      ko: "더하다 + 속도 + 도"
+  - japanese: "速度"
+    reading: "そくど"
+    translation:
+      en: "velocity, speed"
+      ko: "속도"
+    gender: null
+    notes:
+      en: "speed + degree"
+      ko: "빠르다 + 도"
+  - japanese: "運動"
+    reading: "うんどう"
+    translation:
+      en: "motion, movement"
+      ko: "운동"
+    gender: null
+    notes:
+      en: "運動量 = momentum"
+      ko: "運動量 = 운동량"
+  - japanese: "振動"
+    reading: "しんどう"
+    translation:
+      en: "vibration, oscillation"
+      ko: "진동"
+    gender: null
+    notes:
+      en: "shake + move"
+      ko: "흔들다 + 움직이다"
+  - japanese: "波長"
+    reading: "はちょう"
+    translation:
+      en: "wavelength"
+      ko: "파장"
+    gender: null
+    notes:
+      en: "wave + length"
+      ko: "파 + 길이"
+  - japanese: "周波数"
+    reading: "しゅうはすう"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: null
+    notes:
+      en: "cycle + wave + number"
+      ko: "주기 + 파 + 수"
+  - japanese: "磁場"
+    reading: "じば"
+    translation:
+      en: "magnetic field"
+      ko: "자기장"
+    gender: null
+    notes:
+      en: "magnet + field"
+      ko: "자석 + 장"
+  - japanese: "電場"
+    reading: "でんば"
+    translation:
+      en: "electric field"
+      ko: "전기장"
+    gender: null
+    notes:
+      en: "electricity + field"
+      ko: "전기 + 장"
+  - japanese: "質量"
+    reading: "しつりょう"
+    translation:
+      en: "mass"
+      ko: "질량"
+    gender: null
+    notes:
+      en: "substance + quantity"
+      ko: "물질 + 양"
+  - japanese: "密度"
+    reading: "みつど"
+    translation:
+      en: "density"
+      ko: "밀도"
+    gender: null
+    notes:
+      en: "dense + degree"
+      ko: "빽빽하다 + 도"
+  - japanese: "圧力"
+    reading: "あつりょく"
+    translation:
+      en: "pressure"
+      ko: "압력"
+    gender: null
+    notes:
+      en: "press + force"
+      ko: "누르다 + 힘"
+  - japanese: "抵抗"
+    reading: "ていこう"
+    translation:
+      en: "resistance"
+      ko: "저항"
+    gender: null
+    notes:
+      en: "電気抵抗 = electrical resistance"
+      ko: "電気抵抗 = 전기 저항"
+  - japanese: "電圧"
+    reading: "でんあつ"
+    translation:
+      en: "voltage"
+      ko: "전압"
+    gender: null
+    notes:
+      en: "electricity + pressure"
+      ko: "전기 + 압력"
+  - japanese: "電流"
+    reading: "でんりゅう"
+    translation:
+      en: "electric current"
+      ko: "전류"
+    gender: null
+    notes:
+      en: "electricity + flow"
+      ko: "전기 + 흐름"
+  - japanese: "熱量"
+    reading: "ねつりょう"
+    translation:
+      en: "heat quantity, caloric value"
+      ko: "열량"
+    gender: null
+    notes:
+      en: "heat + quantity"
+      ko: "열 + 양"
+  - japanese: "弾性"
+    reading: "だんせい"
+    translation:
+      en: "elasticity"
+      ko: "탄성"
+    gender: null
+    notes:
+      en: "bounce + nature"
+      ko: "튀다 + 성질"
+  - japanese: "屈折"
+    reading: "くっせつ"
+    translation:
+      en: "refraction"
+      ko: "굴절"
+    gender: null
+    notes:
+      en: "bend + break"
+      ko: "구부리다 + 꺾다"
+  - japanese: "反射"
+    reading: "はんしゃ"
+    translation:
+      en: "reflection"
+      ko: "반사"
+    gender: null
+    notes:
+      en: "return + shoot"
+      ko: "반 + 쏘다"
+  - japanese: "放射"
+    reading: "ほうしゃ"
+    translation:
+      en: "radiation"
+      ko: "방사"
+    gender: null
+    notes:
+      en: "放射線 = radioactive rays"
+      ko: "放射線 = 방사선"
+  - japanese: "素粒子"
+    reading: "そりゅうし"
+    translation:
+      en: "elementary particle"
+      ko: "소립자"
+    gender: null
+    notes:
+      en: "element + particle + child"
+      ko: "소 + 입자 + 자"
+  - japanese: "量子"
+    reading: "りょうし"
+    translation:
+      en: "quantum"
+      ko: "양자"
+    gender: null
+    notes:
+      en: "量子力学 = quantum mechanics"
+      ko: "量子力学 = 양자역학"
+  - japanese: "相対性"
+    reading: "そうたいせい"
+    translation:
+      en: "relativity"
+      ko: "상대성"
+    gender: null
+    notes:
+      en: "相対性理論 = theory of relativity"
+      ko: "相対性理論 = 상대성 이론"
+  - japanese: "真空"
+    reading: "しんくう"
+    translation:
+      en: "vacuum"
+      ko: "진공"
+    gender: null
+    notes:
+      en: "true + empty"
+      ko: "참 + 비다"
+  - japanese: "力学"
+    reading: "りきがく"
+    translation:
+      en: "mechanics, dynamics"
+      ko: "역학"
+    gender: null
+    notes:
+      en: "force + study"
+      ko: "힘 + 학문"
+  - japanese: "回路"
+    reading: "かいろ"
+    translation:
+      en: "circuit"
+      ko: "회로"
+    gender: null
+    notes:
+      en: "rotate + path; 電気回路 = electric circuit"
+      ko: "돌다 + 길; 電気回路 = 전기 회로"
+  - japanese: "導体"
+    reading: "どうたい"
+    translation:
+      en: "conductor"
+      ko: "도체"
+    gender: null
+    notes:
+      en: "guide + body"
+      ko: "인도 + 체"
+  - japanese: "絶縁"
+    reading: "ぜつえん"
+    translation:
+      en: "insulation"
+      ko: "절연"
+    gender: null
+    notes:
+      en: "sever + connection"
+      ko: "끊다 + 연결"
+  - japanese: "半導体"
+    reading: "はんどうたい"
+    translation:
+      en: "semiconductor"
+      ko: "반도체"
+    gender: null
+    notes:
+      en: "half + conductor"
+      ko: "반 + 도체"
+  - japanese: "電磁波"
+    reading: "でんじは"
+    translation:
+      en: "electromagnetic wave"
+      ko: "전자파"
+    gender: null
+    notes:
+      en: "electricity + magnet + wave"
+      ko: "전기 + 자석 + 파"
+  - japanese: "熱力学"
+    reading: "ねつりきがく"
+    translation:
+      en: "thermodynamics"
+      ko: "열역학"
+    gender: null
+    notes:
+      en: "heat + force + study"
+      ko: "열 + 역 + 학"
+  - japanese: "流体"
+    reading: "りゅうたい"
+    translation:
+      en: "fluid"
+      ko: "유체"
+    gender: null
+    notes:
+      en: "flow + body; 流体力学 = fluid dynamics"
+      ko: "흐르다 + 체; 流体力学 = 유체역학"
+  - japanese: "浮力"
+    reading: "ふりょく"
+    translation:
+      en: "buoyancy"
+      ko: "부력"
+    gender: null
+    notes:
+      en: "float + force"
+      ko: "뜨다 + 힘"
+  - japanese: "張力"
+    reading: "ちょうりょく"
+    translation:
+      en: "tension"
+      ko: "장력"
+    gender: null
+    notes:
+      en: "stretch + force"
+      ko: "당기다 + 힘"
+  - japanese: "仕事"
+    reading: "しごと"
+    translation:
+      en: "work (physics)"
+      ko: "일 (물리)"
+    gender: null
+    notes:
+      en: "in physics: W = F × d"
+      ko: "물리에서: W = F × d"
+
+- id: research_vocabulary
+  label:
+    en: "Research Vocabulary"
+    ko: "연구 어휘"
+  type: vocabulary
+  words:
+  - japanese: "論文"
+    reading: "ろんぶん"
+    translation:
+      en: "academic paper, thesis"
+      ko: "논문"
+    gender: null
+    notes:
+      en: "論文を発表する = to publish a paper"
+      ko: "論文を発表する = 논문을 발표하다"
+  - japanese: "学術誌"
+    reading: "がくじゅつし"
+    translation:
+      en: "academic journal"
+      ko: "학술지"
+    gender: null
+    notes:
+      en: "academic + magazine"
+      ko: "학술 + 잡지"
+  - japanese: "研究成果"
+    reading: "けんきゅうせいか"
+    translation:
+      en: "research results"
+      ko: "연구 성과"
+    gender: null
+    notes:
+      en: "research + achievement"
+      ko: "연구 + 성과"
+  - japanese: "先行研究"
+    reading: "せんこうけんきゅう"
+    translation:
+      en: "previous research"
+      ko: "선행 연구"
+    gender: null
+    notes:
+      en: "prior + research"
+      ko: "선행 + 연구"
+  - japanese: "文献"
+    reading: "ぶんけん"
+    translation:
+      en: "literature, references"
+      ko: "문헌"
+    gender: null
+    notes:
+      en: "参考文献 = bibliography"
+      ko: "参考文献 = 참고 문헌"
+  - japanese: "調査"
+    reading: "ちょうさ"
+    translation:
+      en: "survey, investigation"
+      ko: "조사"
+    gender: null
+    notes:
+      en: "調査する = to investigate/survey"
+      ko: "調査する = 조사하다"
+  - japanese: "統計"
+    reading: "とうけい"
+    translation:
+      en: "statistics"
+      ko: "통계"
+    gender: null
+    notes:
+      en: "統計データ = statistical data"
+      ko: "統計データ = 통계 데이터"
+  - japanese: "平均"
+    reading: "へいきん"
+    translation:
+      en: "average, mean"
+      ko: "평균"
+    gender: null
+    notes:
+      en: "平均値 = average value"
+      ko: "平均値 = 평균값"
+  - japanese: "偏差"
+    reading: "へんさ"
+    translation:
+      en: "deviation"
+      ko: "편차"
+    gender: null
+    notes:
+      en: "標準偏差 = standard deviation"
+      ko: "標準偏差 = 표준 편차"
+  - japanese: "割合"
+    reading: "わりあい"
+    translation:
+      en: "proportion, ratio"
+      ko: "비율"
+    gender: null
+    notes:
+      en: "divide + combine"
+      ko: "나누다 + 합하다"
+  - japanese: "比較"
+    reading: "ひかく"
+    translation:
+      en: "comparison"
+      ko: "비교"
+    gender: null
+    notes:
+      en: "比較する = to compare"
+      ko: "比較する = 비교하다"
+  - japanese: "結論"
+    reading: "けつろん"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: null
+    notes:
+      en: "結論を出す = to draw a conclusion"
+      ko: "結論を出す = 결론을 내다"
+  - japanese: "考察"
+    reading: "こうさつ"
+    translation:
+      en: "discussion, consideration"
+      ko: "고찰"
+    gender: null
+    notes:
+      en: "think + examine"
+      ko: "생각 + 살피다"
+  - japanese: "要旨"
+    reading: "ようし"
+    translation:
+      en: "abstract, summary"
+      ko: "요지"
+    gender: null
+    notes:
+      en: "essential + purpose"
+      ko: "중요 + 뜻"
+  - japanese: "図表"
+    reading: "ずひょう"
+    translation:
+      en: "chart, diagram"
+      ko: "도표"
+    gender: null
+    notes:
+      en: "figure + table"
+      ko: "그림 + 표"
+  - japanese: "脚注"
+    reading: "きゃくちゅう"
+    translation:
+      en: "footnote"
+      ko: "각주"
+    gender: null
+    notes:
+      en: "foot + note"
+      ko: "발 + 주석"
+  - japanese: "索引"
+    reading: "さくいん"
+    translation:
+      en: "index"
+      ko: "색인"
+    gender: null
+    notes:
+      en: "search + lead"
+      ko: "찾다 + 이끌다"
+  - japanese: "付録"
+    reading: "ふろく"
+    translation:
+      en: "appendix"
+      ko: "부록"
+    gender: null
+    notes:
+      en: "attach + record"
+      ko: "붙이다 + 기록"
+  - japanese: "実験データ"
+    reading: "じっけんデータ"
+    translation:
+      en: "experimental data"
+      ko: "실험 데이터"
+    gender: null
+    notes:
+      en: "experiment + data"
+      ko: "실험 + 데이터"
+  - japanese: "学説"
+    reading: "がくせつ"
+    translation:
+      en: "academic theory"
+      ko: "학설"
+    gender: null
+    notes:
+      en: "study + theory"
+      ko: "학문 + 설"
+  - japanese: "応用"
+    reading: "おうよう"
+    translation:
+      en: "application"
+      ko: "응용"
+    gender: null
+    notes:
+      en: "応用科学 = applied science"
+      ko: "応用科学 = 응용 과학"
+  - japanese: "基礎"
+    reading: "きそ"
+    translation:
+      en: "foundation, basics"
+      ko: "기초"
+    gender: null
+    notes:
+      en: "基礎研究 = basic research"
+      ko: "基礎研究 = 기초 연구"
+  - japanese: "発見"
+    reading: "はっけん"
+    translation:
+      en: "discovery"
+      ko: "발견"
+    gender: null
+    notes:
+      en: "発見する = to discover"
+      ko: "発見する = 발견하다"
+  - japanese: "発明"
+    reading: "はつめい"
+    translation:
+      en: "invention"
+      ko: "발명"
+    gender: null
+    notes:
+      en: "発明する = to invent"
+      ko: "発明する = 발명하다"
+  - japanese: "特許"
+    reading: "とっきょ"
+    translation:
+      en: "patent"
+      ko: "특허"
+    gender: null
+    notes:
+      en: "特許を取得する = to obtain a patent"
+      ko: "特許を取得する = 특허를 취득하다"
+  - japanese: "試行錯誤"
+    reading: "しこうさくご"
+    translation:
+      en: "trial and error"
+      ko: "시행착오"
+    gender: null
+    notes:
+      en: "attempt + mistake"
+      ko: "시행 + 착오"
+  - japanese: "学際的"
+    reading: "がくさいてき"
+    translation:
+      en: "interdisciplinary"
+      ko: "학제적"
+    gender: null
+    notes:
+      en: "study + boundary + adjectival"
+      ko: "학문 + 경계 + 형용사 접미사"
+  - japanese: "画期的"
+    reading: "かっきてき"
+    translation:
+      en: "groundbreaking, epoch-making"
+      ko: "획기적"
+    gender: null
+    notes:
+      en: "epoch + boundary + adjectival"
+      ko: "구획 + 시기 + 형용사 접미사"
+  - japanese: "革新的"
+    reading: "かくしんてき"
+    translation:
+      en: "innovative"
+      ko: "혁신적"
+    gender: null
+    notes:
+      en: "reform + new + adjectival"
+      ko: "혁명 + 새로움 + 형용사 접미사"
+  - japanese: "科学者"
+    reading: "かがくしゃ"
+    translation:
+      en: "scientist"
+      ko: "과학자"
+    gender: null
+    notes:
+      en: "science + person"
+      ko: "과학 + 자"
+  - japanese: "研究員"
+    reading: "けんきゅういん"
+    translation:
+      en: "researcher, research fellow"
+      ko: "연구원"
+    gender: null
+    notes:
+      en: "research + member"
+      ko: "연구 + 원"
+  - japanese: "博士課程"
+    reading: "はかせかてい"
+    translation:
+      en: "doctoral program"
+      ko: "박사 과정"
+    gender: null
+    notes:
+      en: "doctorate + course"
+      ko: "박사 + 과정"
+  - japanese: "助成"
+    reading: "じょせい"
+    translation:
+      en: "grant, funding"
+      ko: "조성, 보조"
+    gender: null
+    notes:
+      en: "研究助成 = research grant"
+      ko: "研究助成 = 연구 보조금"
+  - japanese: "倫理"
+    reading: "りんり"
+    translation:
+      en: "ethics"
+      ko: "윤리"
+    gender: null
+    notes:
+      en: "研究倫理 = research ethics"
+      ko: "研究倫理 = 연구 윤리"
+  - japanese: "査読"
+    reading: "さどく"
+    translation:
+      en: "peer review"
+      ko: "심사, 동료 평가"
+    gender: null
+    notes:
+      en: "査読付き = peer-reviewed"
+      ko: "査読付き = 동료 심사된"
+  - japanese: "共著"
+    reading: "きょうちょ"
+    translation:
+      en: "co-authorship"
+      ko: "공저"
+    gender: null
+    notes:
+      en: "共著者 = co-author"
+      ko: "共著者 = 공저자"
+  - japanese: "被引用数"
+    reading: "ひいんようすう"
+    translation:
+      en: "citation count"
+      ko: "피인용수"
+    gender: null
+    notes:
+      en: "passive + citation + number"
+      ko: "피 + 인용 + 수"
+  - japanese: "追試"
+    reading: "ついし"
+    translation:
+      en: "replication study"
+      ko: "추시, 재현 연구"
+    gender: null
+    notes:
+      en: "follow + test"
+      ko: "뒤따르다 + 시험"

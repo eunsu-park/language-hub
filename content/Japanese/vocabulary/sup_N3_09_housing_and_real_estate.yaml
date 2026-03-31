@@ -1,0 +1,1651 @@
+lesson: "sup_N3_Housing_and_Real_Estate"
+lesson_number: 149
+jlpt: N3
+type: supplementary
+topic: "Housing and Real Estate"
+categories:
+- id: property_types
+  label:
+    en: "Property Types"
+    ko: "부동산 유형"
+  type: vocabulary
+  words:
+  - japanese: "一戸建て"
+    reading: "いっこだて"
+    translation:
+      en: "detached house"
+      ko: "단독 주택"
+    gender: null
+    notes:
+      en: "one + house + build"
+      ko: "하나 + 집 + 세우다"
+  - japanese: マンション
+    reading: null
+    translation:
+      en: "apartment building, condominium"
+      ko: "맨션, 아파트"
+    gender: null
+    notes:
+      en: "in Japan, refers to a concrete apartment building"
+      ko: "일본에서는 철근 콘크리트 아파트를 의미"
+  - japanese: アパート
+    reading: null
+    translation:
+      en: "apartment (smaller, wooden)"
+      ko: "아파트 (소규모)"
+    gender: null
+    notes:
+      en: "smaller/cheaper than マンション"
+      ko: "マンション보다 작고 저렴한"
+  - japanese: "団地"
+    reading: "だんち"
+    translation:
+      en: "housing complex"
+      ko: "단지"
+    gender: null
+    notes:
+      en: "group + land; public housing estate"
+      ko: "단 + 지; 공영 주택 단지"
+  - japanese: "分譲"
+    reading: "ぶんじょう"
+    translation:
+      en: "subdivision sale, for-sale unit"
+      ko: "분양"
+    gender: null
+    notes:
+      en: "分譲マンション = condominium for sale"
+      ko: "分譲マンション = 분양 아파트"
+  - japanese: "賃貸"
+    reading: "ちんたい"
+    translation:
+      en: "rental"
+      ko: "임대"
+    gender: null
+    notes:
+      en: "賃貸マンション = rental apartment"
+      ko: "賃貸マンション = 임대 아파트"
+  - japanese: "物件"
+    reading: "ぶっけん"
+    translation:
+      en: "property, listing"
+      ko: "물건, 매물"
+    gender: null
+    notes:
+      en: "賃貸物件 = rental property"
+      ko: "賃貸物件 = 임대 물건"
+  - japanese: "中古"
+    reading: "ちゅうこ"
+    translation:
+      en: "used, second-hand"
+      ko: "중고"
+    gender: null
+    notes:
+      en: "中古住宅 = used house; opposite: 新築"
+      ko: "中古住宅 = 중고 주택; 반대: 新築"
+  - japanese: "新築"
+    reading: "しんちく"
+    translation:
+      en: "newly built"
+      ko: "신축"
+    gender: null
+    notes:
+      en: "new + build"
+      ko: "새 + 짓다"
+  - japanese: "築年数"
+    reading: "ちくねんすう"
+    translation:
+      en: "building age"
+      ko: "건축 연수"
+    gender: null
+    notes:
+      en: "build + years + number"
+      ko: "건축 + 해 + 수"
+  - japanese: "住宅"
+    reading: "じゅうたく"
+    translation:
+      en: "housing, residence"
+      ko: "주택"
+    gender: null
+    notes:
+      en: "live + house"
+      ko: "살다 + 집"
+  - japanese: "別荘"
+    reading: "べっそう"
+    translation:
+      en: "vacation home, villa"
+      ko: "별장"
+    gender: null
+    notes:
+      en: "separate + estate"
+      ko: "별 + 장"
+  - japanese: "土地"
+    reading: "とち"
+    translation:
+      en: "land, plot"
+      ko: "토지"
+    gender: null
+    notes:
+      en: "earth + ground"
+      ko: "흙 + 땅"
+  - japanese: "敷地"
+    reading: "しきち"
+    translation:
+      en: "site, grounds"
+      ko: "부지"
+    gender: null
+    notes:
+      en: "spread + ground"
+      ko: "펼치다 + 땅"
+  - japanese: "建物"
+    reading: "たてもの"
+    translation:
+      en: "building"
+      ko: "건물"
+    gender: null
+    notes:
+      en: "build + thing"
+      ko: "세우다 + 물건"
+  - japanese: タワーマンション
+    reading: null
+    translation:
+      en: "high-rise apartment"
+      ko: "타워 맨션"
+    gender: null
+    notes:
+      en: "abbreviated as タワマン; luxury high-rise"
+      ko: "줄여서 タワマン; 고급 고층 아파트"
+  - japanese: "平屋"
+    reading: "ひらや"
+    translation:
+      en: "single-story house"
+      ko: "단층집"
+    gender: null
+    notes:
+      en: "flat + house"
+      ko: "평평한 + 집"
+
+- id: house_features
+  label:
+    en: "House Features"
+    ko: "주택 특징"
+  type: vocabulary
+  words:
+  - japanese: "間取り"
+    reading: "まどり"
+    translation:
+      en: "floor plan, layout"
+      ko: "구조, 평면도"
+    gender: null
+    notes:
+      en: "room + arrangement; e.g., 2LDK"
+      ko: "방 + 배치; 예: 2LDK"
+  - japanese: "和室"
+    reading: "わしつ"
+    translation:
+      en: "Japanese-style room"
+      ko: "일본식 방"
+    gender: null
+    notes:
+      en: "Japanese + room; with tatami"
+      ko: "일본 + 실; 다다미가 있는"
+  - japanese: "洋室"
+    reading: "ようしつ"
+    translation:
+      en: "Western-style room"
+      ko: "서양식 방"
+    gender: null
+    notes:
+      en: "Western + room; with flooring"
+      ko: "서양 + 실; 마루바닥"
+  - japanese: "畳"
+    reading: "たたみ"
+    translation:
+      en: "tatami mat"
+      ko: "다다미"
+    gender: null
+    notes:
+      en: "also used as unit of room size: 六畳 = 6 tatami"
+      ko: "방 크기 단위로도 사용: 六畳 = 6다다미"
+  - japanese: "台所"
+    reading: "だいどころ"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: null
+    notes:
+      en: "also キッチン"
+      ko: "キッチン이라고도 함"
+  - japanese: "風呂"
+    reading: "ふろ"
+    translation:
+      en: "bath, bathroom"
+      ko: "목욕, 욕실"
+    gender: null
+    notes:
+      en: "お風呂 = bath (polite)"
+      ko: "お風呂 = 목욕 (존댓말)"
+  - japanese: "玄関"
+    reading: "げんかん"
+    translation:
+      en: "entrance, foyer"
+      ko: "현관"
+    gender: null
+    notes:
+      en: "entrance + barrier; remove shoes here"
+      ko: "입구 + 관; 여기서 신발을 벗음"
+  - japanese: "廊下"
+    reading: "ろうか"
+    translation:
+      en: "hallway, corridor"
+      ko: "복도"
+    gender: null
+    notes:
+      en: "corridor + below"
+      ko: "복도 + 아래"
+  - japanese: "押し入れ"
+    reading: "おしいれ"
+    translation:
+      en: "Japanese-style closet"
+      ko: "오시이레, 벽장"
+    gender: null
+    notes:
+      en: "push + put in; for futons"
+      ko: "밀다 + 넣다; 이불 수납용"
+  - japanese: クローゼット
+    reading: null
+    translation:
+      en: "closet"
+      ko: "옷장"
+    gender: null
+    notes:
+      en: "Western-style closet"
+      ko: "서양식 옷장"
+  - japanese: ベランダ
+    reading: null
+    translation:
+      en: "veranda, balcony"
+      ko: "베란다"
+    gender: null
+    notes:
+      en: "typically for hanging laundry"
+      ko: "보통 빨래 건조에 사용"
+  - japanese: バルコニー
+    reading: null
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "天井"
+    reading: "てんじょう"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: null
+    notes:
+      en: "heaven + well"
+      ko: "하늘 + 우물"
+  - japanese: "床"
+    reading: "ゆか"
+    translation:
+      en: "floor"
+      ko: "바닥"
+    gender: null
+    notes:
+      en: "フローリング = wooden flooring"
+      ko: "フローリング = 나무 바닥"
+  - japanese: "壁"
+    reading: "かべ"
+    translation:
+      en: "wall"
+      ko: "벽"
+    gender: null
+    notes:
+      en: "壁紙 = wallpaper"
+      ko: "壁紙 = 벽지"
+  - japanese: "柱"
+    reading: "はしら"
+    translation:
+      en: "pillar, column"
+      ko: "기둥"
+    gender: null
+    notes:
+      en: "structural pillar"
+      ko: "구조 기둥"
+  - japanese: "階段"
+    reading: "かいだん"
+    translation:
+      en: "stairs, staircase"
+      ko: "계단"
+    gender: null
+    notes:
+      en: "floor + step"
+      ko: "층 + 단"
+  - japanese: "屋根"
+    reading: "やね"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: null
+    notes:
+      en: "house + root"
+      ko: "집 + 뿌리"
+  - japanese: "庭"
+    reading: "にわ"
+    translation:
+      en: "garden, yard"
+      ko: "정원"
+    gender: null
+    notes:
+      en: "日本庭園 = Japanese garden"
+      ko: "日本庭園 = 일본 정원"
+  - japanese: "駐車場"
+    reading: "ちゅうしゃじょう"
+    translation:
+      en: "parking lot"
+      ko: "주차장"
+    gender: null
+    notes:
+      en: "parking + place"
+      ko: "주차 + 장"
+  - japanese: "面積"
+    reading: "めんせき"
+    translation:
+      en: "area, floor space"
+      ko: "면적"
+    gender: null
+    notes:
+      en: "surface + area"
+      ko: "면 + 적"
+  - japanese: "坪"
+    reading: "つぼ"
+    translation:
+      en: "tsubo (Japanese area unit, ~3.3m2)"
+      ko: "쓰보 (일본 면적 단위, ~3.3m2)"
+    gender: null
+    notes:
+      en: "traditional Japanese unit of area"
+      ko: "일본 전통 면적 단위"
+  - japanese: "日当たり"
+    reading: "ひあたり"
+    translation:
+      en: "sun exposure, sunlight"
+      ko: "일조, 햇볕"
+    gender: null
+    notes:
+      en: "日当たりが良い = good sunlight"
+      ko: "日当たりが良い = 햇볕이 잘 드는"
+  - japanese: "南向き"
+    reading: "みなみむき"
+    translation:
+      en: "south-facing"
+      ko: "남향"
+    gender: null
+    notes:
+      en: "preferred orientation in Japan"
+      ko: "일본에서 선호하는 방향"
+
+- id: renting
+  label:
+    en: "Renting"
+    ko: "임대"
+  type: vocabulary
+  words:
+  - japanese: "家賃"
+    reading: "やちん"
+    translation:
+      en: "rent"
+      ko: "집세"
+    gender: null
+    notes:
+      en: "house + fee"
+      ko: "집 + 요금"
+  - japanese: "敷金"
+    reading: "しききん"
+    translation:
+      en: "security deposit"
+      ko: "보증금"
+    gender: null
+    notes:
+      en: "spread + money; refundable deposit"
+      ko: "펼치다 + 돈; 환불 가능 보증금"
+  - japanese: "礼金"
+    reading: "れいきん"
+    translation:
+      en: "key money (non-refundable)"
+      ko: "사례금"
+    gender: null
+    notes:
+      en: "gratitude + money; unique to Japan"
+      ko: "감사 + 돈; 일본 특유의 제도"
+  - japanese: "管理費"
+    reading: "かんりひ"
+    translation:
+      en: "management fee, maintenance fee"
+      ko: "관리비"
+    gender: null
+    notes:
+      en: "management + fee"
+      ko: "관리 + 비"
+  - japanese: "共益費"
+    reading: "きょうえきひ"
+    translation:
+      en: "common area maintenance fee"
+      ko: "공익비"
+    gender: null
+    notes:
+      en: "common + benefit + fee"
+      ko: "공통 + 이익 + 비"
+  - japanese: "更新料"
+    reading: "こうしんりょう"
+    translation:
+      en: "renewal fee"
+      ko: "갱신료"
+    gender: null
+    notes:
+      en: "renewal + fee; paid when renewing lease"
+      ko: "갱신 + 요금; 임대 계약 갱신 시 지불"
+  - japanese: "仲介手数料"
+    reading: "ちゅうかいてすうりょう"
+    translation:
+      en: "brokerage fee"
+      ko: "중개 수수료"
+    gender: null
+    notes:
+      en: "mediation + handling fee"
+      ko: "중개 + 수수료"
+  - japanese: "大家"
+    reading: "おおや"
+    translation:
+      en: "landlord"
+      ko: "집주인"
+    gender: null
+    notes:
+      en: "big + house"
+      ko: "큰 + 집"
+  - japanese: "入居する"
+    reading: "にゅうきょする"
+    translation:
+      en: "to move in"
+      ko: "입주하다"
+    gender: null
+    notes:
+      en: "入居 = moving in; opposite: 退去"
+      ko: "入居 = 입주; 반대: 退去"
+  - japanese: "退去する"
+    reading: "たいきょする"
+    translation:
+      en: "to move out"
+      ko: "퇴거하다"
+    gender: null
+    notes:
+      en: "退去 = moving out"
+      ko: "退去 = 퇴거"
+  - japanese: "原状回復"
+    reading: "げんじょうかいふく"
+    translation:
+      en: "restoration to original condition"
+      ko: "원상 회복"
+    gender: null
+    notes:
+      en: "required when leaving a rental"
+      ko: "임대 퇴거 시 필요"
+  - japanese: "契約期間"
+    reading: "けいやくきかん"
+    translation:
+      en: "contract period, lease term"
+      ko: "계약 기간"
+    gender: null
+    notes:
+      en: "contract + period"
+      ko: "계약 + 기간"
+  - japanese: "保証人"
+    reading: "ほしょうにん"
+    translation:
+      en: "guarantor"
+      ko: "보증인"
+    gender: null
+    notes:
+      en: "連帯保証人 = joint guarantor"
+      ko: "連帯保証人 = 연대 보증인"
+  - japanese: "不動産屋"
+    reading: "ふどうさんや"
+    translation:
+      en: "real estate agency"
+      ko: "부동산 중개소"
+    gender: null
+    notes:
+      en: "real estate + shop"
+      ko: "부동산 + 가게"
+  - japanese: "内覧"
+    reading: "ないらん"
+    translation:
+      en: "property viewing"
+      ko: "내람, 집 보기"
+    gender: null
+    notes:
+      en: "内覧する = to view a property"
+      ko: "内覧する = 집을 보다"
+  - japanese: "空室"
+    reading: "くうしつ"
+    translation:
+      en: "vacant room"
+      ko: "빈방"
+    gender: null
+    notes:
+      en: "empty + room; opposite: 満室"
+      ko: "비다 + 방; 반대: 満室"
+
+- id: buying
+  label:
+    en: "Buying"
+    ko: "매매"
+  type: vocabulary
+  words:
+  - japanese: "購入する"
+    reading: "こうにゅうする"
+    translation:
+      en: "to purchase"
+      ko: "구입하다"
+    gender: null
+    notes:
+      en: "購入 = purchase"
+      ko: "購入 = 구입"
+  - japanese: "売買"
+    reading: "ばいばい"
+    translation:
+      en: "buying and selling, transaction"
+      ko: "매매"
+    gender: null
+    notes:
+      en: "sell + buy"
+      ko: "팔다 + 사다"
+  - japanese: "住宅ローン"
+    reading: "じゅうたくローン"
+    translation:
+      en: "housing loan, mortgage"
+      ko: "주택 대출"
+    gender: null
+    notes:
+      en: "housing + loan"
+      ko: "주택 + 대출"
+  - japanese: "頭金"
+    reading: "あたまきん"
+    translation:
+      en: "down payment"
+      ko: "계약금, 착수금"
+    gender: null
+    notes:
+      en: "head + money"
+      ko: "머리 + 돈"
+  - japanese: "登記"
+    reading: "とうき"
+    translation:
+      en: "property registration"
+      ko: "등기"
+    gender: null
+    notes:
+      en: "登記する = to register (property)"
+      ko: "登記する = 등기하다"
+  - japanese: "固定資産税"
+    reading: "こていしさんぜい"
+    translation:
+      en: "property tax"
+      ko: "고정 자산세"
+    gender: null
+    notes:
+      en: "fixed + assets + tax"
+      ko: "고정 + 자산 + 세금"
+  - japanese: "査定"
+    reading: "さてい"
+    translation:
+      en: "appraisal, assessment"
+      ko: "사정, 평가"
+    gender: null
+    notes:
+      en: "査定する = to appraise"
+      ko: "査定する = 사정하다"
+  - japanese: "坪単価"
+    reading: "つぼたんか"
+    translation:
+      en: "price per tsubo"
+      ko: "평당 가격"
+    gender: null
+    notes:
+      en: "tsubo + unit price"
+      ko: "쓰보 + 단가"
+  - japanese: "相場"
+    reading: "そうば"
+    translation:
+      en: "market price"
+      ko: "시세"
+    gender: null
+    notes:
+      en: "mutual + place; market rate"
+      ko: "서로 + 장소; 시장 가격"
+  - japanese: "契約金"
+    reading: "けいやくきん"
+    translation:
+      en: "contract money, deposit"
+      ko: "계약금"
+    gender: null
+    notes:
+      en: "contract + money"
+      ko: "계약 + 금"
+  - japanese: "仲介"
+    reading: "ちゅうかい"
+    translation:
+      en: "brokerage, mediation"
+      ko: "중개"
+    gender: null
+    notes:
+      en: "仲介業者 = real estate broker"
+      ko: "仲介業者 = 부동산 중개업자"
+  - japanese: "競売"
+    reading: "きょうばい"
+    translation:
+      en: "auction"
+      ko: "경매"
+    gender: null
+    notes:
+      en: "compete + sell"
+      ko: "경쟁 + 팔다"
+  - japanese: "値下げ"
+    reading: "ねさげ"
+    translation:
+      en: "price reduction"
+      ko: "가격 인하"
+    gender: null
+    notes:
+      en: "price + lower; opposite: 値上げ"
+      ko: "가격 + 내리다; 반대: 値上げ"
+
+- id: home_improvement
+  label:
+    en: "Home Improvement"
+    ko: "주택 개량"
+  type: vocabulary
+  words:
+  - japanese: "リフォーム"
+    reading: null
+    translation:
+      en: "renovation, remodeling"
+      ko: "리폼, 리모델링"
+    gender: null
+    notes:
+      en: "Japanese English; リフォームする = to renovate"
+      ko: "일본식 영어; リフォームする = 리모델링하다"
+  - japanese: リノベーション
+    reading: null
+    translation:
+      en: "renovation (large-scale)"
+      ko: "리노베이션"
+    gender: null
+    notes:
+      en: "larger scale than リフォーム"
+      ko: "リフォーム보다 대규모"
+  - japanese: "修繕"
+    reading: "しゅうぜん"
+    translation:
+      en: "repair, maintenance"
+      ko: "수선"
+    gender: null
+    notes:
+      en: "修繕する = to repair"
+      ko: "修繕する = 수선하다"
+  - japanese: "増築"
+    reading: "ぞうちく"
+    translation:
+      en: "extension, addition"
+      ko: "증축"
+    gender: null
+    notes:
+      en: "add + build"
+      ko: "늘리다 + 짓다"
+  - japanese: "解体"
+    reading: "かいたい"
+    translation:
+      en: "demolition"
+      ko: "해체"
+    gender: null
+    notes:
+      en: "解体する = to demolish"
+      ko: "解体する = 해체하다"
+  - japanese: "耐震"
+    reading: "たいしん"
+    translation:
+      en: "earthquake-resistant"
+      ko: "내진"
+    gender: null
+    notes:
+      en: "耐震構造 = earthquake-resistant structure"
+      ko: "耐震構造 = 내진 구조"
+  - japanese: "断熱"
+    reading: "だんねつ"
+    translation:
+      en: "heat insulation"
+      ko: "단열"
+    gender: null
+    notes:
+      en: "断熱材 = insulation material"
+      ko: "断熱材 = 단열재"
+  - japanese: "防音"
+    reading: "ぼうおん"
+    translation:
+      en: "soundproofing"
+      ko: "방음"
+    gender: null
+    notes:
+      en: "防音対策 = soundproofing measures"
+      ko: "防音対策 = 방음 대책"
+  - japanese: "塗装"
+    reading: "とそう"
+    translation:
+      en: "painting (walls)"
+      ko: "도장"
+    gender: null
+    notes:
+      en: "塗装する = to paint"
+      ko: "塗装する = 도장하다"
+  - japanese: "配管"
+    reading: "はいかん"
+    translation:
+      en: "plumbing, piping"
+      ko: "배관"
+    gender: null
+    notes:
+      en: "distribute + pipe"
+      ko: "배 + 관"
+  - japanese: "電気工事"
+    reading: "でんきこうじ"
+    translation:
+      en: "electrical work"
+      ko: "전기 공사"
+    gender: null
+    notes:
+      en: "electricity + construction"
+      ko: "전기 + 공사"
+  - japanese: "水回り"
+    reading: "みずまわり"
+    translation:
+      en: "water facilities (kitchen, bath, toilet)"
+      ko: "수도 관련 시설"
+    gender: null
+    notes:
+      en: "water + around; kitchen/bath/toilet area"
+      ko: "물 + 주변; 주방/욕실/화장실 영역"
+  - japanese: "内装"
+    reading: "ないそう"
+    translation:
+      en: "interior finishing"
+      ko: "내장, 인테리어"
+    gender: null
+    notes:
+      en: "inside + equip; opposite: 外装"
+      ko: "안 + 장비; 반대: 外装"
+  - japanese: "外壁"
+    reading: "がいへき"
+    translation:
+      en: "exterior wall"
+      ko: "외벽"
+    gender: null
+    notes:
+      en: "outside + wall"
+      ko: "밖 + 벽"
+  - japanese: "間仕切り"
+    reading: "まじきり"
+    translation:
+      en: "partition"
+      ko: "칸막이"
+    gender: null
+    notes:
+      en: "space + divide"
+      ko: "사이 + 구분"
+  - japanese: "引っ越し"
+    reading: "ひっこし"
+    translation:
+      en: "moving (house)"
+      ko: "이사"
+    gender: null
+    notes:
+      en: "引っ越す = to move (house)"
+      ko: "引っ越す = 이사하다"
+  - japanese: "建て替え"
+    reading: "たてかえ"
+    translation:
+      en: "rebuilding"
+      ko: "재건축"
+    gender: null
+    notes:
+      en: "build + replace"
+      ko: "세우다 + 바꾸다"
+  - japanese: バリアフリー
+    reading: null
+    translation:
+      en: "barrier-free, accessible"
+      ko: "무장애, 배리어프리"
+    gender: null
+    notes:
+      en: "accessibility modifications"
+      ko: "접근성 개조"
+  - japanese: "設備"
+    reading: "せつび"
+    translation:
+      en: "equipment, facilities"
+      ko: "설비"
+    gender: null
+    notes:
+      en: "設備が整っている = well-equipped"
+      ko: "設備が整っている = 설비가 갖추어진"
+  - japanese: "老朽化"
+    reading: "ろうきゅうか"
+    translation:
+      en: "deterioration, aging"
+      ko: "노후화"
+    gender: null
+    notes:
+      en: "old + decay + -ization"
+      ko: "늙다 + 썩다 + 화"
+  - japanese: "雨漏り"
+    reading: "あまもり"
+    translation:
+      en: "roof leak"
+      ko: "비새기, 누수"
+    gender: null
+    notes:
+      en: "rain + leak"
+      ko: "비 + 새다"
+  - japanese: "結露"
+    reading: "けつろ"
+    translation:
+      en: "condensation"
+      ko: "결로"
+    gender: null
+    notes:
+      en: "結露対策 = condensation prevention"
+      ko: "結露対策 = 결로 대책"
+  - japanese: "換気"
+    reading: "かんき"
+    translation:
+      en: "ventilation"
+      ko: "환기"
+    gender: null
+    notes:
+      en: "換気する = to ventilate"
+      ko: "換気する = 환기하다"
+  - japanese: "収納"
+    reading: "しゅうのう"
+    translation:
+      en: "storage, closet space"
+      ko: "수납"
+    gender: null
+    notes:
+      en: "収納スペース = storage space"
+      ko: "収納スペース = 수납 공간"
+  - japanese: "給湯器"
+    reading: "きゅうとうき"
+    translation:
+      en: "water heater"
+      ko: "급탕기"
+    gender: null
+    notes:
+      en: "supply + hot water + device"
+      ko: "급 + 탕 + 기"
+  - japanese: エアコン
+    reading: null
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: null
+    notes:
+      en: "short for エアコンディショナー"
+      ko: "エアコンディショナー의 줄임말"
+  - japanese: "床暖房"
+    reading: "ゆかだんぼう"
+    translation:
+      en: "underfloor heating"
+      ko: "바닥 난방"
+    gender: null
+    notes:
+      en: "floor + heating"
+      ko: "바닥 + 난방"
+  - japanese: "宅配ボックス"
+    reading: "たくはいボックス"
+    translation:
+      en: "delivery box, parcel locker"
+      ko: "택배 보관함"
+    gender: null
+    notes:
+      en: "home delivery + box"
+      ko: "택배 + 상자"
+  - japanese: オートロック
+    reading: null
+    translation:
+      en: "auto-lock (entrance)"
+      ko: "오토록"
+    gender: null
+    notes:
+      en: "automatic lock system at building entrance"
+      ko: "건물 입구 자동 잠금 시스템"
+  - japanese: "防犯カメラ"
+    reading: "ぼうはんカメラ"
+    translation:
+      en: "security camera"
+      ko: "방범 카메라"
+    gender: null
+    notes:
+      en: "crime prevention + camera"
+      ko: "방범 + 카메라"
+  - japanese: "共用部分"
+    reading: "きょうようぶぶん"
+    translation:
+      en: "common area"
+      ko: "공용 부분"
+    gender: null
+    notes:
+      en: "shared + area"
+      ko: "공용 + 부분"
+  - japanese: "管理組合"
+    reading: "かんりくみあい"
+    translation:
+      en: "management association"
+      ko: "관리 조합"
+    gender: null
+    notes:
+      en: "マンション管理組合 = condo association"
+      ko: "マンション管理組合 = 아파트 관리 조합"
+  - japanese: "修繕積立金"
+    reading: "しゅうぜんつみたてきん"
+    translation:
+      en: "repair reserve fund"
+      ko: "수선 적립금"
+    gender: null
+    notes:
+      en: "repair + savings + money"
+      ko: "수선 + 적립 + 금"
+  - japanese: "専有面積"
+    reading: "せんゆうめんせき"
+    translation:
+      en: "exclusive floor area"
+      ko: "전유 면적"
+    gender: null
+    notes:
+      en: "exclusive + area"
+      ko: "전유 + 면적"
+  - japanese: "角部屋"
+    reading: "かどべや"
+    translation:
+      en: "corner room/unit"
+      ko: "코너 방"
+    gender: null
+    notes:
+      en: "corner + room; more sunlight"
+      ko: "모퉁이 + 방; 햇빛이 더 잘 듦"
+  - japanese: "最上階"
+    reading: "さいじょうかい"
+    translation:
+      en: "top floor"
+      ko: "최상층"
+    gender: null
+    notes:
+      en: "highest + floor"
+      ko: "가장 높은 + 층"
+  - japanese: "地下室"
+    reading: "ちかしつ"
+    translation:
+      en: "basement"
+      ko: "지하실"
+    gender: null
+    notes:
+      en: "underground + room"
+      ko: "지하 + 실"
+  - japanese: "ロフト"
+    reading: null
+    translation:
+      en: "loft"
+      ko: "로프트"
+    gender: null
+    notes:
+      en: "elevated storage/sleeping space"
+      ko: "높은 곳의 수납/취침 공간"
+  - japanese: "メゾネット"
+    reading: null
+    translation:
+      en: "maisonette, duplex unit"
+      ko: "메조넷"
+    gender: null
+    notes:
+      en: "two-story apartment unit"
+      ko: "2층 구조 아파트"
+  - japanese: "ワンルーム"
+    reading: null
+    translation:
+      en: "studio apartment"
+      ko: "원룸"
+    gender: null
+    notes:
+      en: "one room; smallest apartment type"
+      ko: "방 하나; 가장 작은 아파트 유형"
+  - japanese: 1LDK
+    reading: null
+    translation:
+      en: "1 bedroom + living/dining/kitchen"
+      ko: "1LDK (침실1+거실/식당/주방)"
+    gender: null
+    notes:
+      en: "read as ワンエルディーケー; L=Living, D=Dining, K=Kitchen"
+      ko: "ワンエルディーケー로 읽음; L=거실, D=식당, K=주방"
+  - japanese: "家具付き"
+    reading: "かぐつき"
+    translation:
+      en: "furnished"
+      ko: "가구 포함"
+    gender: null
+    notes:
+      en: "furniture + attached"
+      ko: "가구 + 달린"
+  - japanese: "ペット可"
+    reading: "ペットか"
+    translation:
+      en: "pets allowed"
+      ko: "반려동물 허용"
+    gender: null
+    notes:
+      en: "pet + allowed; ペット不可 = no pets"
+      ko: "반려동물 + 가능; ペット不可 = 반려동물 불가"
+  - japanese: "防災"
+    reading: "ぼうさい"
+    translation:
+      en: "disaster prevention"
+      ko: "방재"
+    gender: null
+    notes:
+      en: "防災グッズ = emergency supplies"
+      ko: "防災グッズ = 방재 용품"
+  - japanese: "避難経路"
+    reading: "ひなんけいろ"
+    translation:
+      en: "evacuation route"
+      ko: "대피 경로"
+    gender: null
+    notes:
+      en: "evacuation + route"
+      ko: "피난 + 경로"
+  - japanese: "消防設備"
+    reading: "しょうぼうせつび"
+    translation:
+      en: "fire prevention equipment"
+      ko: "소방 설비"
+    gender: null
+    notes:
+      en: "firefighting + equipment"
+      ko: "소방 + 설비"
+  - japanese: "地盤"
+    reading: "じばん"
+    translation:
+      en: "ground, foundation"
+      ko: "지반"
+    gender: null
+    notes:
+      en: "地盤調査 = ground survey"
+      ko: "地盤調査 = 지반 조사"
+  - japanese: "基礎"
+    reading: "きそ"
+    translation:
+      en: "foundation (of building)"
+      ko: "기초"
+    gender: null
+    notes:
+      en: "基礎工事 = foundation work"
+      ko: "基礎工事 = 기초 공사"
+  - japanese: "鉄筋コンクリート"
+    reading: "てっきんコンクリート"
+    translation:
+      en: "reinforced concrete"
+      ko: "철근 콘크리트"
+    gender: null
+    notes:
+      en: "RC造 = reinforced concrete structure"
+      ko: "RC造 = 철근 콘크리트 구조"
+  - japanese: "木造"
+    reading: "もくぞう"
+    translation:
+      en: "wooden structure"
+      ko: "목조"
+    gender: null
+    notes:
+      en: "wood + build"
+      ko: "나무 + 구조"
+  - japanese: "鉄骨"
+    reading: "てっこつ"
+    translation:
+      en: "steel frame"
+      ko: "철골"
+    gender: null
+    notes:
+      en: "鉄骨造 = steel-frame structure"
+      ko: "鉄骨造 = 철골 구조"
+  - japanese: "建ぺい率"
+    reading: "けんぺいりつ"
+    translation:
+      en: "building coverage ratio"
+      ko: "건폐율"
+    gender: null
+    notes:
+      en: "building area / land area ratio"
+      ko: "건물 면적 / 토지 면적 비율"
+  - japanese: "容積率"
+    reading: "ようせきりつ"
+    translation:
+      en: "floor area ratio"
+      ko: "용적률"
+    gender: null
+    notes:
+      en: "total floor area / land area ratio"
+      ko: "총 바닥 면적 / 토지 면적 비율"
+  - japanese: "用途地域"
+    reading: "ようとちいき"
+    translation:
+      en: "zoning district"
+      ko: "용도 지역"
+    gender: null
+    notes:
+      en: "use + area; urban planning zone"
+      ko: "용도 + 지역; 도시 계획 구역"
+  - japanese: "住宅地"
+    reading: "じゅうたくち"
+    translation:
+      en: "residential area"
+      ko: "주택지"
+    gender: null
+    notes:
+      en: "housing + land"
+      ko: "주택 + 지"
+  - japanese: "商業地"
+    reading: "しょうぎょうち"
+    translation:
+      en: "commercial area"
+      ko: "상업지"
+    gender: null
+    notes:
+      en: "commerce + land"
+      ko: "상업 + 지"
+  - japanese: "建築確認"
+    reading: "けんちくかくにん"
+    translation:
+      en: "building permit"
+      ko: "건축 확인"
+    gender: null
+    notes:
+      en: "construction + confirmation"
+      ko: "건축 + 확인"
+  - japanese: "設計"
+    reading: "せっけい"
+    translation:
+      en: "design, planning"
+      ko: "설계"
+    gender: null
+    notes:
+      en: "設計図 = blueprint"
+      ko: "設計図 = 설계도"
+  - japanese: "施工"
+    reading: "せこう"
+    translation:
+      en: "construction, execution"
+      ko: "시공"
+    gender: null
+    notes:
+      en: "施工業者 = construction company"
+      ko: "施工業者 = 시공 업체"
+  - japanese: "竣工"
+    reading: "しゅんこう"
+    translation:
+      en: "completion (of construction)"
+      ko: "준공"
+    gender: null
+    notes:
+      en: "竣工する = to complete construction"
+      ko: "竣工する = 준공하다"
+  - japanese: "入居者"
+    reading: "にゅうきょしゃ"
+    translation:
+      en: "tenant, occupant"
+      ko: "입주자"
+    gender: null
+    notes:
+      en: "move-in + person"
+      ko: "입주 + 자"
+  - japanese: "居住者"
+    reading: "きょじゅうしゃ"
+    translation:
+      en: "resident"
+      ko: "거주자"
+    gender: null
+    notes:
+      en: "reside + person"
+      ko: "거주 + 자"
+  - japanese: "住所変更"
+    reading: "じゅうしょへんこう"
+    translation:
+      en: "change of address"
+      ko: "주소 변경"
+    gender: null
+    notes:
+      en: "address + change"
+      ko: "주소 + 변경"
+  - japanese: "転居届"
+    reading: "てんきょとどけ"
+    translation:
+      en: "change of address notification"
+      ko: "전입 신고"
+    gender: null
+    notes:
+      en: "move + notification"
+      ko: "이사 + 신고"
+  - japanese: "近隣"
+    reading: "きんりん"
+    translation:
+      en: "neighborhood, vicinity"
+      ko: "근린, 이웃"
+    gender: null
+    notes:
+      en: "近隣トラブル = neighbor trouble"
+      ko: "近隣トラブル = 이웃 분쟁"
+  - japanese: "騒音"
+    reading: "そうおん"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: null
+    notes:
+      en: "騒音問題 = noise problem"
+      ko: "騒音問題 = 소음 문제"
+  - japanese: "立ち退き"
+    reading: "たちのき"
+    translation:
+      en: "eviction"
+      ko: "퇴거"
+    gender: null
+    notes:
+      en: "立ち退き要求 = eviction demand"
+      ko: "立ち退き要求 = 퇴거 요구"
+  - japanese: "瑕疵"
+    reading: "かし"
+    translation:
+      en: "defect, flaw"
+      ko: "하자"
+    gender: null
+    notes:
+      en: "瑕疵担保責任 = defect warranty liability"
+      ko: "瑕疵担保責任 = 하자 담보 책임"
+  - japanese: "省エネ"
+    reading: "しょうエネ"
+    translation:
+      en: "energy saving"
+      ko: "에너지 절약"
+    gender: null
+    notes:
+      en: "short for 省エネルギー"
+      ko: "省エネルギー의 줄임말"
+  - japanese: "太陽光発電"
+    reading: "たいようこうはつでん"
+    translation:
+      en: "solar power generation"
+      ko: "태양광 발전"
+    gender: null
+    notes:
+      en: "solar + power generation"
+      ko: "태양광 + 발전"
+  - japanese: "蓄電池"
+    reading: "ちくでんち"
+    translation:
+      en: "storage battery"
+      ko: "축전지"
+    gender: null
+    notes:
+      en: "store + electricity + battery"
+      ko: "축적 + 전기 + 지"
+  - japanese: "中古物件"
+    reading: "ちゅうこぶっけん"
+    translation:
+      en: "pre-owned property"
+      ko: "중고 물건"
+    gender: null
+    notes:
+      en: "used + property"
+      ko: "중고 + 물건"
+  - japanese: "空き家"
+    reading: "あきや"
+    translation:
+      en: "vacant house"
+      ko: "빈집"
+    gender: null
+    notes:
+      en: "空き家問題 = vacant house problem"
+      ko: "空き家問題 = 빈집 문제"
+  - japanese: "住み替え"
+    reading: "すみかえ"
+    translation:
+      en: "moving to a new home"
+      ko: "이사, 주거 이전"
+    gender: null
+    notes:
+      en: "live + change"
+      ko: "살다 + 바꾸다"
+  - japanese: "重要事項説明"
+    reading: "じゅうようじこうせつめい"
+    translation:
+      en: "important matter explanation"
+      ko: "중요 사항 설명"
+    gender: null
+    notes:
+      en: "mandatory pre-contract explanation by agent"
+      ko: "계약 전 중개사의 필수 설명"
+  - japanese: "手付金"
+    reading: "てつけきん"
+    translation:
+      en: "earnest money, deposit"
+      ko: "계약금"
+    gender: null
+    notes:
+      en: "hand + attach + money"
+      ko: "손 + 붙이다 + 돈"
+  - japanese: "抵当権"
+    reading: "ていとうけん"
+    translation:
+      en: "mortgage right"
+      ko: "저당권"
+    gender: null
+    notes:
+      en: "pledge + right"
+      ko: "저당 + 권"
+  - japanese: "測量"
+    reading: "そくりょう"
+    translation:
+      en: "surveying"
+      ko: "측량"
+    gender: null
+    notes:
+      en: "測量する = to survey (land)"
+      ko: "測量する = 측량하다"
+  - japanese: "境界"
+    reading: "きょうかい"
+    translation:
+      en: "boundary"
+      ko: "경계"
+    gender: null
+    notes:
+      en: "隣地境界 = neighbor boundary"
+      ko: "隣地境界 = 인접 경계"
+  - japanese: "地目"
+    reading: "ちもく"
+    translation:
+      en: "land category"
+      ko: "지목"
+    gender: null
+    notes:
+      en: "land classification: 宅地, 田, 畑 etc."
+      ko: "토지 분류: 택지, 논, 밭 등"
+  - japanese: "接道"
+    reading: "せつどう"
+    translation:
+      en: "road frontage"
+      ko: "접도"
+    gender: null
+    notes:
+      en: "接道条件 = road frontage condition"
+      ko: "接道条件 = 접도 조건"
+  - japanese: "公示価格"
+    reading: "こうじかかく"
+    translation:
+      en: "officially published land price"
+      ko: "공시 가격"
+    gender: null
+    notes:
+      en: "official + price"
+      ko: "공시 + 가격"
+  - japanese: "路線価"
+    reading: "ろせんか"
+    translation:
+      en: "roadside land value"
+      ko: "노선가"
+    gender: null
+    notes:
+      en: "route + price; used for tax calculation"
+      ko: "노선 + 가격; 세금 계산에 사용"
+  - japanese: "地価"
+    reading: "ちか"
+    translation:
+      en: "land price"
+      ko: "지가"
+    gender: null
+    notes:
+      en: "地価が上がる = land prices rise"
+      ko: "地価が上がる = 지가가 오르다"
+  - japanese: "家屋"
+    reading: "かおく"
+    translation:
+      en: "house, building"
+      ko: "가옥"
+    gender: null
+    notes:
+      en: "house + roof"
+      ko: "집 + 지붕"
+  - japanese: "間口"
+    reading: "まぐち"
+    translation:
+      en: "frontage (width)"
+      ko: "전면 폭"
+    gender: null
+    notes:
+      en: "space + entrance; building front width"
+      ko: "사이 + 입구; 건물 전면 폭"
+  - japanese: "奥行き"
+    reading: "おくゆき"
+    translation:
+      en: "depth (of lot)"
+      ko: "안쪽 깊이"
+    gender: null
+    notes:
+      en: "inner + going"
+      ko: "안 + 가다"
+  - japanese: "建築家"
+    reading: "けんちくか"
+    translation:
+      en: "architect"
+      ko: "건축가"
+    gender: null
+    notes:
+      en: "construction + house + person"
+      ko: "건축 + 가"
+  - japanese: "工務店"
+    reading: "こうむてん"
+    translation:
+      en: "construction firm, builder"
+      ko: "공무점, 건축 업체"
+    gender: null
+    notes:
+      en: "construction + affairs + shop"
+      ko: "공사 + 무 + 점"
+  - japanese: "ハウスメーカー"
+    reading: null
+    translation:
+      en: "house builder, housing manufacturer"
+      ko: "하우스메이커"
+    gender: null
+    notes:
+      en: "large-scale residential construction company"
+      ko: "대규모 주택 건설 회사"
+  - japanese: インテリア
+    reading: null
+    translation:
+      en: "interior, interior design"
+      ko: "인테리어"
+    gender: null
+    notes:
+      en: "katakana loanword; interior decoration"
+      ko: "가타카나 외래어; 실내 장식"
+  - japanese: "照明"
+    reading: "しょうめい"
+    translation:
+      en: "lighting"
+      ko: "조명"
+    gender: null
+    notes:
+      en: "LED照明 = LED lighting"
+      ko: "LED照明 = LED 조명"
+  - japanese: "カーテン"
+    reading: null
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: null
+    notes:
+      en: "遮光カーテン = blackout curtain"
+      ko: "遮光カーテン = 차광 커튼"
+  - japanese: "網戸"
+    reading: "あみど"
+    translation:
+      en: "screen door/window"
+      ko: "방충망"
+    gender: null
+    notes:
+      en: "net + door; insect screen"
+      ko: "망 + 문; 방충망"
+  - japanese: "雨戸"
+    reading: "あまど"
+    translation:
+      en: "storm shutter"
+      ko: "덧문, 빗장"
+    gender: null
+    notes:
+      en: "rain + door; protects from storms"
+      ko: "비 + 문; 폭풍으로부터 보호"
+  - japanese: "シャッター"
+    reading: null
+    translation:
+      en: "shutter (security/garage)"
+      ko: "셔터"
+    gender: null
+    notes:
+      en: "シャッター付き = with shutters"
+      ko: "シャッター付き = 셔터 포함"
+  - japanese: "表札"
+    reading: "ひょうさつ"
+    translation:
+      en: "nameplate (at entrance)"
+      ko: "표찰, 명패"
+    gender: null
+    notes:
+      en: "display + plate"
+      ko: "표시 + 찰"
+  - japanese: "郵便受け"
+    reading: "ゆうびんうけ"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: null
+    notes:
+      en: "mail + receive"
+      ko: "우편 + 받다"
+  - japanese: "門"
+    reading: "もん"
+    translation:
+      en: "gate"
+      ko: "문, 대문"
+    gender: null
+    notes:
+      en: "正門 = main gate"
+      ko: "正門 = 정문"
+  - japanese: "塀"
+    reading: "へい"
+    translation:
+      en: "wall, fence"
+      ko: "담, 울타리"
+    gender: null
+    notes:
+      en: "ブロック塀 = concrete block wall"
+      ko: "ブロック塀 = 콘크리트 블록 담"
+  - japanese: "生け垣"
+    reading: "いけがき"
+    translation:
+      en: "hedge"
+      ko: "울타리, 생울타리"
+    gender: null
+    notes:
+      en: "living + fence"
+      ko: "살아 있는 + 울타리"
+  - japanese: "物置"
+    reading: "ものおき"
+    translation:
+      en: "storage shed"
+      ko: "창고"
+    gender: null
+    notes:
+      en: "thing + place"
+      ko: "물건 + 놓다"
+  - japanese: "ガレージ"
+    reading: null
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: null
+    notes:
+      en: "katakana loanword"
+      ko: "가타카나 외래어"
+  - japanese: "固定資産"
+    reading: "こていしさん"
+    translation:
+      en: "fixed assets, real property"
+      ko: "고정 자산"
+    gender: null
+    notes:
+      en: "fixed + assets"
+      ko: "고정 + 자산"
+  - japanese: "不動産投資"
+    reading: "ふどうさんとうし"
+    translation:
+      en: "real estate investment"
+      ko: "부동산 투자"
+    gender: null
+    notes:
+      en: "real estate + investment"
+      ko: "부동산 + 투자"
+  - japanese: "利回り"
+    reading: "りまわり"
+    translation:
+      en: "yield, return"
+      ko: "수익률"
+    gender: null
+    notes:
+      en: "利回りが高い = high yield"
+      ko: "利回りが高い = 수익률이 높다"
+  - japanese: "家賃収入"
+    reading: "やちんしゅうにゅう"
+    translation:
+      en: "rental income"
+      ko: "임대 수입"
+    gender: null
+    notes:
+      en: "rent + income"
+      ko: "집세 + 수입"
+  - japanese: "空室率"
+    reading: "くうしつりつ"
+    translation:
+      en: "vacancy rate"
+      ko: "공실률"
+    gender: null
+    notes:
+      en: "empty room + rate"
+      ko: "빈방 + 비율"
+  - japanese: "管理会社"
+    reading: "かんりがいしゃ"
+    translation:
+      en: "property management company"
+      ko: "관리 회사"
+    gender: null
+    notes:
+      en: "management + company"
+      ko: "관리 + 회사"

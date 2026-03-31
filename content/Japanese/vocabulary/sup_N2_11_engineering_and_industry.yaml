@@ -1,0 +1,1129 @@
+lesson: "sup_N2_Engineering_and_Industry"
+lesson_number: 171
+jlpt: N2
+type: supplementary
+topic: "Engineering and Industry"
+categories:
+- id: mechanical_engineering
+  label:
+    en: "Mechanical Engineering"
+    ko: "기계 공학"
+  type: vocabulary
+  words:
+  - japanese: "機械"
+    reading: "きかい"
+    translation:
+      en: "machine, machinery"
+      ko: "기계"
+    gender: null
+    notes:
+      en: "機械工学 = mechanical engineering"
+      ko: "機械工学 = 기계 공학"
+  - japanese: "歯車"
+    reading: "はぐるま"
+    translation:
+      en: "gear"
+      ko: "톱니바퀴"
+    gender: null
+    notes:
+      en: "tooth + wheel"
+      ko: "이 + 바퀴"
+  - japanese: "軸"
+    reading: "じく"
+    translation:
+      en: "axis, shaft"
+      ko: "축"
+    gender: null
+    notes:
+      en: "回転軸 = axis of rotation"
+      ko: "回転軸 = 회전축"
+  - japanese: "軸受"
+    reading: "じくうけ"
+    translation:
+      en: "bearing"
+      ko: "베어링"
+    gender: null
+    notes:
+      en: "shaft + receive"
+      ko: "축 + 받다"
+  - japanese: "ピストン"
+    reading: null
+    translation:
+      en: "piston"
+      ko: "피스톤"
+    gender: null
+    notes:
+      en: "ピストン運動 = reciprocating motion"
+      ko: "ピストン運動 = 왕복 운동"
+  - japanese: "タービン"
+    reading: null
+    translation:
+      en: "turbine"
+      ko: "터빈"
+    gender: null
+    notes:
+      en: "蒸気タービン = steam turbine"
+      ko: "蒸気タービン = 증기 터빈"
+  - japanese: "エンジン"
+    reading: null
+    translation:
+      en: "engine"
+      ko: "엔진"
+    gender: null
+    notes:
+      en: "内燃機関 = internal combustion engine"
+      ko: "内燃機関 = 내연 기관"
+  - japanese: "摩擦"
+    reading: "まさつ"
+    translation:
+      en: "friction"
+      ko: "마찰"
+    gender: null
+    notes:
+      en: "摩擦力 = frictional force"
+      ko: "摩擦力 = 마찰력"
+  - japanese: "潤滑"
+    reading: "じゅんかつ"
+    translation:
+      en: "lubrication"
+      ko: "윤활"
+    gender: null
+    notes:
+      en: "潤滑油 = lubricant"
+      ko: "潤滑油 = 윤활유"
+  - japanese: "振動"
+    reading: "しんどう"
+    translation:
+      en: "vibration"
+      ko: "진동"
+    gender: null
+    notes:
+      en: "振動制御 = vibration control"
+      ko: "振動制御 = 진동 제어"
+  - japanese: "応力"
+    reading: "おうりょく"
+    translation:
+      en: "stress (mechanical)"
+      ko: "응력"
+    gender: null
+    notes:
+      en: "response + force"
+      ko: "응 + 력"
+  - japanese: "歪み"
+    reading: "ひずみ"
+    translation:
+      en: "strain, distortion"
+      ko: "변형, 왜곡"
+    gender: null
+    notes:
+      en: "応力と歪み = stress and strain"
+      ko: "応力と歪み = 응력과 변형"
+  - japanese: "疲労"
+    reading: "ひろう"
+    translation:
+      en: "fatigue (material)"
+      ko: "피로"
+    gender: null
+    notes:
+      en: "金属疲労 = metal fatigue"
+      ko: "金属疲労 = 금속 피로"
+  - japanese: "溶接"
+    reading: "ようせつ"
+    translation:
+      en: "welding"
+      ko: "용접"
+    gender: null
+    notes:
+      en: "溶接する = to weld"
+      ko: "溶接する = 용접하다"
+  - japanese: "鍛造"
+    reading: "たんぞう"
+    translation:
+      en: "forging"
+      ko: "단조"
+    gender: null
+    notes:
+      en: "forge + create"
+      ko: "단련 + 만들다"
+  - japanese: "鋳造"
+    reading: "ちゅうぞう"
+    translation:
+      en: "casting"
+      ko: "주조"
+    gender: null
+    notes:
+      en: "cast + create"
+      ko: "주 + 조"
+  - japanese: "旋盤"
+    reading: "せんばん"
+    translation:
+      en: "lathe"
+      ko: "선반"
+    gender: null
+    notes:
+      en: "rotate + board"
+      ko: "돌다 + 판"
+  - japanese: "切削"
+    reading: "せっさく"
+    translation:
+      en: "cutting, machining"
+      ko: "절삭"
+    gender: null
+    notes:
+      en: "切削加工 = cutting process"
+      ko: "切削加工 = 절삭 가공"
+  - japanese: "研磨"
+    reading: "けんま"
+    translation:
+      en: "polishing, grinding"
+      ko: "연마"
+    gender: null
+    notes:
+      en: "研磨する = to polish"
+      ko: "研磨する = 연마하다"
+  - japanese: "合金"
+    reading: "ごうきん"
+    translation:
+      en: "alloy"
+      ko: "합금"
+    gender: null
+    notes:
+      en: "combine + metal"
+      ko: "합 + 금"
+  - japanese: "強度"
+    reading: "きょうど"
+    translation:
+      en: "strength (material)"
+      ko: "강도"
+    gender: null
+    notes:
+      en: "引張強度 = tensile strength"
+      ko: "引張強度 = 인장 강도"
+  - japanese: "硬度"
+    reading: "こうど"
+    translation:
+      en: "hardness"
+      ko: "경도"
+    gender: null
+    notes:
+      en: "hard + degree"
+      ko: "단단하다 + 도"
+  - japanese: "靭性"
+    reading: "じんせい"
+    translation:
+      en: "toughness"
+      ko: "인성"
+    gender: null
+    notes:
+      en: "tough + nature"
+      ko: "질긴 + 성질"
+  - japanese: "圧縮"
+    reading: "あっしゅく"
+    translation:
+      en: "compression"
+      ko: "압축"
+    gender: null
+    notes:
+      en: "圧縮する = to compress"
+      ko: "圧縮する = 압축하다"
+  - japanese: "引張"
+    reading: "いんちょう"
+    translation:
+      en: "tension, pulling"
+      ko: "인장"
+    gender: null
+    notes:
+      en: "引張試験 = tensile test"
+      ko: "引張試験 = 인장 시험"
+  - japanese: "剛性"
+    reading: "ごうせい"
+    translation:
+      en: "rigidity"
+      ko: "강성"
+    gender: null
+    notes:
+      en: "rigid + nature"
+      ko: "강한 + 성질"
+  - japanese: "熱処理"
+    reading: "ねつしょり"
+    translation:
+      en: "heat treatment"
+      ko: "열처리"
+    gender: null
+    notes:
+      en: "焼き入れ = quenching; 焼き戻し = tempering"
+      ko: "焼き入れ = 담금질; 焼き戻し = 뜨임"
+  - japanese: "金型"
+    reading: "かながた"
+    translation:
+      en: "mold, die"
+      ko: "금형"
+    gender: null
+    notes:
+      en: "metal + mold"
+      ko: "금속 + 형"
+  - japanese: "プレス"
+    reading: null
+    translation:
+      en: "press (machine)"
+      ko: "프레스"
+    gender: null
+    notes:
+      en: "プレス加工 = press working"
+      ko: "プレス加工 = 프레스 가공"
+  - japanese: "部品"
+    reading: "ぶひん"
+    translation:
+      en: "component, part"
+      ko: "부품"
+    gender: null
+    notes:
+      en: "部品交換 = parts replacement"
+      ko: "部品交換 = 부품 교환"
+  - japanese: "組立"
+    reading: "くみたて"
+    translation:
+      en: "assembly"
+      ko: "조립"
+    gender: null
+    notes:
+      en: "組み立てる = to assemble"
+      ko: "組み立てる = 조립하다"
+  - japanese: "設計図"
+    reading: "せっけいず"
+    translation:
+      en: "blueprint, design drawing"
+      ko: "설계도"
+    gender: null
+    notes:
+      en: "design + diagram"
+      ko: "설계 + 도"
+  - japanese: "試作"
+    reading: "しさく"
+    translation:
+      en: "prototype, trial production"
+      ko: "시작"
+    gender: null
+    notes:
+      en: "試作品 = prototype"
+      ko: "試作品 = 시작품"
+  - japanese: "精密"
+    reading: "せいみつ"
+    translation:
+      en: "precision"
+      ko: "정밀"
+    gender: null
+    notes:
+      en: "精密機械 = precision machinery"
+      ko: "精密機械 = 정밀 기계"
+  - japanese: "耐久性"
+    reading: "たいきゅうせい"
+    translation:
+      en: "durability"
+      ko: "내구성"
+    gender: null
+    notes:
+      en: "endurance + quality"
+      ko: "내구 + 성"
+  - japanese: "摩耗"
+    reading: "まもう"
+    translation:
+      en: "wear, abrasion"
+      ko: "마모"
+    gender: null
+    notes:
+      en: "摩耗する = to wear down"
+      ko: "摩耗する = 마모되다"
+  - japanese: "腐食"
+    reading: "ふしょく"
+    translation:
+      en: "corrosion"
+      ko: "부식"
+    gender: null
+    notes:
+      en: "防食 = corrosion prevention"
+      ko: "防食 = 방식"
+  - japanese: "塗装"
+    reading: "とそう"
+    translation:
+      en: "coating, painting"
+      ko: "도장"
+    gender: null
+    notes:
+      en: "塗装する = to coat/paint"
+      ko: "塗装する = 도장하다"
+  - japanese: "めっき"
+    reading: null
+    translation:
+      en: "plating"
+      ko: "도금"
+    gender: null
+    notes:
+      en: "クロムめっき = chrome plating"
+      ko: "クロムめっき = 크롬 도금"
+
+- id: electrical_engineering
+  label:
+    en: "Electrical Engineering"
+    ko: "전기 공학"
+  type: vocabulary
+  words:
+  - japanese: "電気工学"
+    reading: "でんきこうがく"
+    translation:
+      en: "electrical engineering"
+      ko: "전기 공학"
+    gender: null
+    notes:
+      en: "electricity + engineering"
+      ko: "전기 + 공학"
+  - japanese: "回路"
+    reading: "かいろ"
+    translation:
+      en: "circuit"
+      ko: "회로"
+    gender: null
+    notes:
+      en: "集積回路 = integrated circuit"
+      ko: "集積回路 = 집적 회로"
+  - japanese: "電源"
+    reading: "でんげん"
+    translation:
+      en: "power supply"
+      ko: "전원"
+    gender: null
+    notes:
+      en: "electricity + source"
+      ko: "전기 + 원"
+  - japanese: "変圧器"
+    reading: "へんあつき"
+    translation:
+      en: "transformer"
+      ko: "변압기"
+    gender: null
+    notes:
+      en: "change + pressure + device"
+      ko: "변 + 압 + 기"
+  - japanese: "発電機"
+    reading: "はつでんき"
+    translation:
+      en: "generator"
+      ko: "발전기"
+    gender: null
+    notes:
+      en: "generate + electricity + machine"
+      ko: "발 + 전 + 기"
+  - japanese: "電動機"
+    reading: "でんどうき"
+    translation:
+      en: "electric motor"
+      ko: "전동기"
+    gender: null
+    notes:
+      en: "also モーター"
+      ko: "モーター라고도 함"
+  - japanese: "蓄電池"
+    reading: "ちくでんち"
+    translation:
+      en: "rechargeable battery"
+      ko: "축전지"
+    gender: null
+    notes:
+      en: "store + electricity + cell"
+      ko: "축적 + 전기 + 지"
+  - japanese: "配電"
+    reading: "はいでん"
+    translation:
+      en: "power distribution"
+      ko: "배전"
+    gender: null
+    notes:
+      en: "配電盤 = distribution board"
+      ko: "配電盤 = 배전반"
+  - japanese: "送電"
+    reading: "そうでん"
+    translation:
+      en: "power transmission"
+      ko: "송전"
+    gender: null
+    notes:
+      en: "送電線 = power line"
+      ko: "送電線 = 송전선"
+  - japanese: "交流"
+    reading: "こうりゅう"
+    translation:
+      en: "alternating current (AC)"
+      ko: "교류"
+    gender: null
+    notes:
+      en: "交流電源 = AC power"
+      ko: "交流電源 = 교류 전원"
+  - japanese: "直流"
+    reading: "ちょくりゅう"
+    translation:
+      en: "direct current (DC)"
+      ko: "직류"
+    gender: null
+    notes:
+      en: "直流電源 = DC power"
+      ko: "直流電源 = 직류 전원"
+  - japanese: "絶縁体"
+    reading: "ぜつえんたい"
+    translation:
+      en: "insulator"
+      ko: "절연체"
+    gender: null
+    notes:
+      en: "insulation + body"
+      ko: "절연 + 체"
+  - japanese: "導体"
+    reading: "どうたい"
+    translation:
+      en: "conductor"
+      ko: "도체"
+    gender: null
+    notes:
+      en: "guide + body"
+      ko: "인도 + 체"
+  - japanese: "半導体"
+    reading: "はんどうたい"
+    translation:
+      en: "semiconductor"
+      ko: "반도체"
+    gender: null
+    notes:
+      en: "半導体産業 = semiconductor industry"
+      ko: "半導体産業 = 반도체 산업"
+  - japanese: "電子回路"
+    reading: "でんしかいろ"
+    translation:
+      en: "electronic circuit"
+      ko: "전자 회로"
+    gender: null
+    notes:
+      en: "electron + circuit"
+      ko: "전자 + 회로"
+  - japanese: "基板"
+    reading: "きばん"
+    translation:
+      en: "circuit board"
+      ko: "기판"
+    gender: null
+    notes:
+      en: "プリント基板 = printed circuit board"
+      ko: "プリント基板 = 인쇄 회로 기판"
+  - japanese: "増幅器"
+    reading: "ぞうふくき"
+    translation:
+      en: "amplifier"
+      ko: "증폭기"
+    gender: null
+    notes:
+      en: "increase + amplitude + device"
+      ko: "증 + 폭 + 기"
+  - japanese: "センサー"
+    reading: null
+    translation:
+      en: "sensor"
+      ko: "센서"
+    gender: null
+    notes:
+      en: "温度センサー = temperature sensor"
+      ko: "温度センサー = 온도 센서"
+  - japanese: "制御"
+    reading: "せいぎょ"
+    translation:
+      en: "control"
+      ko: "제어"
+    gender: null
+    notes:
+      en: "制御する = to control"
+      ko: "制御する = 제어하다"
+  - japanese: "漏電"
+    reading: "ろうでん"
+    translation:
+      en: "electric leakage"
+      ko: "누전"
+    gender: null
+    notes:
+      en: "leak + electricity"
+      ko: "누 + 전"
+  - japanese: "短絡"
+    reading: "たんらく"
+    translation:
+      en: "short circuit"
+      ko: "단락"
+    gender: null
+    notes:
+      en: "short + circuit"
+      ko: "짧다 + 연결"
+  - japanese: "過負荷"
+    reading: "かふか"
+    translation:
+      en: "overload"
+      ko: "과부하"
+    gender: null
+    notes:
+      en: "over + load"
+      ko: "과 + 부하"
+  - japanese: "周波数"
+    reading: "しゅうはすう"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: null
+    notes:
+      en: "cycle + wave + number"
+      ko: "주기 + 파 + 수"
+
+- id: production
+  label:
+    en: "Production"
+    ko: "생산"
+  type: vocabulary
+  words:
+  - japanese: "製造"
+    reading: "せいぞう"
+    translation:
+      en: "manufacturing"
+      ko: "제조"
+    gender: null
+    notes:
+      en: "製造業 = manufacturing industry"
+      ko: "製造業 = 제조업"
+  - japanese: "生産"
+    reading: "せいさん"
+    translation:
+      en: "production"
+      ko: "생산"
+    gender: null
+    notes:
+      en: "大量生産 = mass production"
+      ko: "大量生産 = 대량 생산"
+  - japanese: "工程"
+    reading: "こうてい"
+    translation:
+      en: "process, step"
+      ko: "공정"
+    gender: null
+    notes:
+      en: "製造工程 = manufacturing process"
+      ko: "製造工程 = 제조 공정"
+  - japanese: "原材料"
+    reading: "げんざいりょう"
+    translation:
+      en: "raw materials"
+      ko: "원자재"
+    gender: null
+    notes:
+      en: "原 + material"
+      ko: "원 + 자재"
+  - japanese: "在庫"
+    reading: "ざいこ"
+    translation:
+      en: "inventory, stock"
+      ko: "재고"
+    gender: null
+    notes:
+      en: "在庫管理 = inventory management"
+      ko: "在庫管理 = 재고 관리"
+  - japanese: "納期"
+    reading: "のうき"
+    translation:
+      en: "delivery date"
+      ko: "납기"
+    gender: null
+    notes:
+      en: "納期を守る = to meet a deadline"
+      ko: "納期を守る = 납기를 지키다"
+  - japanese: "効率"
+    reading: "こうりつ"
+    translation:
+      en: "efficiency"
+      ko: "효율"
+    gender: null
+    notes:
+      en: "生産効率 = production efficiency"
+      ko: "生産効率 = 생산 효율"
+  - japanese: "歩留まり"
+    reading: "ぶどまり"
+    translation:
+      en: "yield rate"
+      ko: "수율"
+    gender: null
+    notes:
+      en: "歩留まりを上げる = to improve yield"
+      ko: "歩留まりを上げる = 수율을 높이다"
+  - japanese: "不良品"
+    reading: "ふりょうひん"
+    translation:
+      en: "defective product"
+      ko: "불량품"
+    gender: null
+    notes:
+      en: "不良品率 = defect rate"
+      ko: "不良品率 = 불량률"
+  - japanese: "ライン"
+    reading: null
+    translation:
+      en: "production line"
+      ko: "라인"
+    gender: null
+    notes:
+      en: "組立ライン = assembly line"
+      ko: "組立ライン = 조립 라인"
+  - japanese: "金属加工"
+    reading: "きんぞくかこう"
+    translation:
+      en: "metalworking"
+      ko: "금속 가공"
+    gender: null
+    notes:
+      en: "metal + processing"
+      ko: "금속 + 가공"
+  - japanese: "鋼"
+    reading: "はがね"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: null
+    notes:
+      en: "鉄鋼 (てっこう) = iron and steel"
+      ko: "鉄鋼 (てっこう) = 철강"
+  - japanese: "樹脂"
+    reading: "じゅし"
+    translation:
+      en: "resin, plastic"
+      ko: "수지"
+    gender: null
+    notes:
+      en: "合成樹脂 = synthetic resin"
+      ko: "合成樹脂 = 합성 수지"
+  - japanese: "繊維"
+    reading: "せんい"
+    translation:
+      en: "fiber"
+      ko: "섬유"
+    gender: null
+    notes:
+      en: "炭素繊維 = carbon fiber"
+      ko: "炭素繊維 = 탄소 섬유"
+  - japanese: "セラミックス"
+    reading: null
+    translation:
+      en: "ceramics"
+      ko: "세라믹스"
+    gender: null
+    notes:
+      en: "ファインセラミックス = fine ceramics"
+      ko: "ファインセラミックス = 파인 세라믹스"
+  - japanese: "コスト削減"
+    reading: "コストさくげん"
+    translation:
+      en: "cost reduction"
+      ko: "비용 절감"
+    gender: null
+    notes:
+      en: "cost + reduction"
+      ko: "비용 + 삭감"
+  - japanese: "量産"
+    reading: "りょうさん"
+    translation:
+      en: "mass production"
+      ko: "양산"
+    gender: null
+    notes:
+      en: "量産する = to mass-produce"
+      ko: "量産する = 양산하다"
+  - japanese: "受注"
+    reading: "じゅちゅう"
+    translation:
+      en: "receiving an order"
+      ko: "수주"
+    gender: null
+    notes:
+      en: "受注生産 = made-to-order"
+      ko: "受注生産 = 주문 생산"
+  - japanese: "出荷"
+    reading: "しゅっか"
+    translation:
+      en: "shipping, delivery"
+      ko: "출하"
+    gender: null
+    notes:
+      en: "出荷する = to ship"
+      ko: "出荷する = 출하하다"
+  - japanese: "稼働率"
+    reading: "かどうりつ"
+    translation:
+      en: "operating rate"
+      ko: "가동률"
+    gender: null
+    notes:
+      en: "operation + rate"
+      ko: "가동 + 률"
+
+- id: quality_control
+  label:
+    en: "Quality Control"
+    ko: "품질 관리"
+  type: vocabulary
+  words:
+  - japanese: "品質管理"
+    reading: "ひんしつかんり"
+    translation:
+      en: "quality control"
+      ko: "품질 관리"
+    gender: null
+    notes:
+      en: "quality + management"
+      ko: "품질 + 관리"
+  - japanese: "検査"
+    reading: "けんさ"
+    translation:
+      en: "inspection"
+      ko: "검사"
+    gender: null
+    notes:
+      en: "品質検査 = quality inspection"
+      ko: "品質検査 = 품질 검사"
+  - japanese: "規格"
+    reading: "きかく"
+    translation:
+      en: "standard, specification"
+      ko: "규격"
+    gender: null
+    notes:
+      en: "工業規格 = industrial standard"
+      ko: "工業規格 = 공업 규격"
+  - japanese: "基準"
+    reading: "きじゅん"
+    translation:
+      en: "standard, criterion"
+      ko: "기준"
+    gender: null
+    notes:
+      en: "品質基準 = quality standard"
+      ko: "品質基準 = 품질 기준"
+  - japanese: "許容範囲"
+    reading: "きょようはんい"
+    translation:
+      en: "tolerance range"
+      ko: "허용 범위"
+    gender: null
+    notes:
+      en: "tolerance + range"
+      ko: "허용 + 범위"
+  - japanese: "欠陥"
+    reading: "けっかん"
+    translation:
+      en: "defect, flaw"
+      ko: "결함"
+    gender: null
+    notes:
+      en: "欠陥品 = defective product"
+      ko: "欠陥品 = 결함 제품"
+  - japanese: "品質保証"
+    reading: "ひんしつほしょう"
+    translation:
+      en: "quality assurance"
+      ko: "품질 보증"
+    gender: null
+    notes:
+      en: "quality + guarantee"
+      ko: "품질 + 보증"
+  - japanese: "改善"
+    reading: "かいぜん"
+    translation:
+      en: "improvement, kaizen"
+      ko: "개선"
+    gender: null
+    notes:
+      en: "continuous improvement philosophy"
+      ko: "지속적 개선 철학"
+  - japanese: "安全性"
+    reading: "あんぜんせい"
+    translation:
+      en: "safety"
+      ko: "안전성"
+    gender: null
+    notes:
+      en: "安全基準 = safety standard"
+      ko: "安全基準 = 안전 기준"
+  - japanese: "信頼性"
+    reading: "しんらいせい"
+    translation:
+      en: "reliability"
+      ko: "신뢰성"
+    gender: null
+    notes:
+      en: "信頼性試験 = reliability test"
+      ko: "信頼性試験 = 신뢰성 시험"
+  - japanese: "耐久試験"
+    reading: "たいきゅうしけん"
+    translation:
+      en: "durability test"
+      ko: "내구 시험"
+    gender: null
+    notes:
+      en: "endurance + test"
+      ko: "내구 + 시험"
+  - japanese: "抜き取り検査"
+    reading: "ぬきとりけんさ"
+    translation:
+      en: "sampling inspection"
+      ko: "발취 검사"
+    gender: null
+    notes:
+      en: "sampling + inspection"
+      ko: "발취 + 검사"
+  - japanese: "全数検査"
+    reading: "ぜんすうけんさ"
+    translation:
+      en: "100% inspection"
+      ko: "전수 검사"
+    gender: null
+    notes:
+      en: "all + number + inspection"
+      ko: "전 + 수 + 검사"
+  - japanese: "リコール"
+    reading: null
+    translation:
+      en: "recall (product)"
+      ko: "리콜"
+    gender: null
+    notes:
+      en: "製品リコール = product recall"
+      ko: "製品リコール = 제품 리콜"
+  - japanese: "寸法"
+    reading: "すんぽう"
+    translation:
+      en: "dimension, measurement"
+      ko: "치수"
+    gender: null
+    notes:
+      en: "寸法精度 = dimensional accuracy"
+      ko: "寸法精度 = 치수 정도"
+  - japanese: "測定器"
+    reading: "そくていき"
+    translation:
+      en: "measuring instrument"
+      ko: "측정기"
+    gender: null
+    notes:
+      en: "measure + device"
+      ko: "측정 + 기"
+  - japanese: "較正"
+    reading: "こうせい"
+    translation:
+      en: "calibration"
+      ko: "교정"
+    gender: null
+    notes:
+      en: "較正する = to calibrate"
+      ko: "較正する = 교정하다"
+  - japanese: "トレーサビリティ"
+    reading: null
+    translation:
+      en: "traceability"
+      ko: "추적성"
+    gender: null
+    notes:
+      en: "製品のトレーサビリティ = product traceability"
+      ko: "製品のトレーサビリティ = 제품 추적성"
+
+- id: automation
+  label:
+    en: "Automation"
+    ko: "자동화"
+  type: vocabulary
+  words:
+  - japanese: "自動化"
+    reading: "じどうか"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: null
+    notes:
+      en: "工場自動化 = factory automation"
+      ko: "工場自動化 = 공장 자동화"
+  - japanese: "ロボット"
+    reading: null
+    translation:
+      en: "robot"
+      ko: "로봇"
+    gender: null
+    notes:
+      en: "産業用ロボット = industrial robot"
+      ko: "産業用ロボット = 산업용 로봇"
+  - japanese: "人工知能"
+    reading: "じんこうちのう"
+    translation:
+      en: "artificial intelligence (AI)"
+      ko: "인공지능"
+    gender: null
+    notes:
+      en: "artificial + intelligence"
+      ko: "인공 + 지능"
+  - japanese: "プログラム"
+    reading: null
+    translation:
+      en: "program"
+      ko: "프로그램"
+    gender: null
+    notes:
+      en: "制御プログラム = control program"
+      ko: "制御プログラム = 제어 프로그램"
+  - japanese: "数値制御"
+    reading: "すうちせいぎょ"
+    translation:
+      en: "numerical control (NC)"
+      ko: "수치 제어"
+    gender: null
+    notes:
+      en: "CNC = computer numerical control"
+      ko: "CNC = 컴퓨터 수치 제어"
+  - japanese: "フィードバック"
+    reading: null
+    translation:
+      en: "feedback"
+      ko: "피드백"
+    gender: null
+    notes:
+      en: "フィードバック制御 = feedback control"
+      ko: "フィードバック制御 = 피드백 제어"
+  - japanese: "省力化"
+    reading: "しょうりょくか"
+    translation:
+      en: "labor-saving"
+      ko: "생력화"
+    gender: null
+    notes:
+      en: "省力化する = to reduce labor"
+      ko: "省力化する = 생력화하다"
+  - japanese: "無人化"
+    reading: "むじんか"
+    translation:
+      en: "unmanned operation"
+      ko: "무인화"
+    gender: null
+    notes:
+      en: "無人工場 = unmanned factory"
+      ko: "無人工場 = 무인 공장"
+  - japanese: "遠隔操作"
+    reading: "えんかくそうさ"
+    translation:
+      en: "remote control"
+      ko: "원격 조작"
+    gender: null
+    notes:
+      en: "遠隔操作する = to operate remotely"
+      ko: "遠隔操作する = 원격 조작하다"
+  - japanese: "組み込み"
+    reading: "くみこみ"
+    translation:
+      en: "embedded"
+      ko: "임베디드"
+    gender: null
+    notes:
+      en: "組み込みシステム = embedded system"
+      ko: "組み込みシステム = 임베디드 시스템"
+  - japanese: "ベルトコンベヤー"
+    reading: null
+    translation:
+      en: "belt conveyor"
+      ko: "벨트 컨베이어"
+    gender: null
+    notes:
+      en: "搬送用ベルトコンベヤー = transport conveyor"
+      ko: "搬送用ベルトコンベヤー = 운반용 컨베이어"
+  - japanese: "油圧"
+    reading: "ゆあつ"
+    translation:
+      en: "hydraulic pressure"
+      ko: "유압"
+    gender: null
+    notes:
+      en: "油圧シリンダー = hydraulic cylinder"
+      ko: "油圧シリンダー = 유압 실린더"
+  - japanese: "空圧"
+    reading: "くうあつ"
+    translation:
+      en: "pneumatic pressure"
+      ko: "공압"
+    gender: null
+    notes:
+      en: "空圧機器 = pneumatic equipment"
+      ko: "空圧機器 = 공압 기기"
+  - japanese: "保守"
+    reading: "ほしゅ"
+    translation:
+      en: "maintenance"
+      ko: "보수"
+    gender: null
+    notes:
+      en: "保守点検 = maintenance inspection"
+      ko: "保守点検 = 보수 점검"
+  - japanese: "稼働"
+    reading: "かどう"
+    translation:
+      en: "operation, running"
+      ko: "가동"
+    gender: null
+    notes:
+      en: "稼働する = to operate"
+      ko: "稼働する = 가동하다"
+  - japanese: "故障"
+    reading: "こしょう"
+    translation:
+      en: "breakdown, malfunction"
+      ko: "고장"
+    gender: null
+    notes:
+      en: "故障する = to break down"
+      ko: "故障する = 고장나다"
+  - japanese: "停止"
+    reading: "ていし"
+    translation:
+      en: "shutdown, stop"
+      ko: "정지"
+    gender: null
+    notes:
+      en: "緊急停止 = emergency stop"
+      ko: "緊急停止 = 긴급 정지"
+  - japanese: "作動"
+    reading: "さどう"
+    translation:
+      en: "operation, functioning"
+      ko: "작동"
+    gender: null
+    notes:
+      en: "作動する = to operate"
+      ko: "作動する = 작동하다"
+  - japanese: "IoT"
+    reading: null
+    translation:
+      en: "Internet of Things"
+      ko: "사물인터넷"
+    gender: null
+    notes:
+      en: "IoT技術 = IoT technology"
+      ko: "IoT技術 = IoT 기술"
+  - japanese: "デジタル化"
+    reading: "デジタルか"
+    translation:
+      en: "digitalization"
+      ko: "디지털화"
+    gender: null
+    notes:
+      en: "製造業のデジタル化 = digitalization of manufacturing"
+      ko: "製造業のデジタル化 = 제조업의 디지털화"
+  - japanese: "スマート工場"
+    reading: "スマートこうじょう"
+    translation:
+      en: "smart factory"
+      ko: "스마트 공장"
+    gender: null
+    notes:
+      en: "smart + factory"
+      ko: "스마트 + 공장"

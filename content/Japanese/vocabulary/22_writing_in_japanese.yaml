@@ -1,0 +1,638 @@
+lesson: 22_Writing_in_Japanese
+lesson_number: 22
+jlpt: N1
+categories:
+- id: essay_terms
+  label:
+    en: Essay Structure Terms
+    ko: 에세이 구조 용어
+  type: vocabulary
+  words:
+  - japanese: 序論
+    reading: じょろん
+    translation:
+      en: introduction (essay)
+      ko: 서론
+    gender: null
+    plural: null
+  - japanese: 本論
+    reading: ほんろん
+    translation:
+      en: main body (essay)
+      ko: 본론
+    gender: null
+    plural: null
+  - japanese: 結論
+    reading: けつろん
+    translation:
+      en: conclusion (essay)
+      ko: 결론
+    gender: null
+    plural: null
+  - japanese: 起承転結
+    reading: きしょうてんけつ
+    translation:
+      en: four-part essay structure (intro-development-twist-conclusion)
+      ko: 기승전결
+    gender: null
+    plural: null
+    notes:
+      en: "Traditional Japanese/Chinese essay structure"
+      ko: "전통적인 일중 에세이 구조"
+  - japanese: 論じる
+    reading: ろんじる
+    translation:
+      en: to discuss, argue (academic)
+      ko: 논하다
+    gender: null
+    plural: null
+  - japanese: 考察する
+    reading: こうさつする
+    translation:
+      en: to examine, consider (academic)
+      ko: 고찰하다
+    gender: null
+    plural: null
+  - japanese: 参考文献
+    reading: さんこうぶんけん
+    translation:
+      en: references, bibliography
+      ko: 참고 문헌
+    gender: null
+    plural: null
+  - japanese: 原稿用紙
+    reading: げんこうようし
+    translation:
+      en: manuscript paper (400-character grid)
+      ko: 원고지
+    gender: null
+    plural: null
+    notes:
+      en: "Traditional Japanese writing paper with 20x20 character grid"
+      ko: "20x20 글자 칸이 있는 일본 전통 글쓰기 용지"
+  - japanese: 段落
+    reading: だんらく
+    translation:
+      en: paragraph
+      ko: 단락
+    gender: null
+    plural: null
+  - japanese: 要旨
+    reading: ようし
+    translation:
+      en: summary, gist
+      ko: 요지
+    gender: null
+    plural: null
+  - japanese: 論文
+    reading: ろんぶん
+    translation:
+      en: thesis, academic paper
+      ko: 논문
+    gender: null
+    plural: null
+  - japanese: 小論文
+    reading: しょうろんぶん
+    translation:
+      en: short essay
+      ko: 소논문
+    gender: null
+    plural: null
+  - japanese: 主張
+    reading: しゅちょう
+    translation:
+      en: claim, assertion
+      ko: 주장
+    gender: null
+    plural: null
+  - japanese: 根拠
+    reading: こんきょ
+    translation:
+      en: basis, evidence
+      ko: 근거
+    gender: null
+    plural: null
+  - japanese: 反論
+    reading: はんろん
+    translation:
+      en: counterargument
+      ko: 반론
+    gender: null
+    plural: null
+  - japanese: 引用
+    reading: いんよう
+    translation:
+      en: quotation, citation
+      ko: 인용
+    gender: null
+    plural: null
+  - japanese: 脚注
+    reading: きゃくちゅう
+    translation:
+      en: footnote
+      ko: 각주
+    gender: null
+    plural: null
+
+- id: letter_vocabulary
+  label:
+    en: Letter Writing Vocabulary
+    ko: 편지 쓰기 어휘
+  type: vocabulary
+  words:
+  - japanese: 拝啓
+    reading: はいけい
+    translation:
+      en: Dear Sir/Madam (formal letter opening)
+      ko: 배계 (격식 있는 편지 머리말)
+    gender: null
+    plural: null
+    notes:
+      en: "Must be paired with closing 敬具 (keigu)"
+      ko: "반드시 맺음말 敬具와 쌍으로 사용"
+  - japanese: 敬具
+    reading: けいぐ
+    translation:
+      en: Sincerely (formal letter closing)
+      ko: 경구 (격식 있는 편지 맺음말)
+    gender: null
+    plural: null
+  - japanese: 謹啓
+    reading: きんけい
+    translation:
+      en: Dear Sir/Madam (very formal letter opening)
+      ko: 근계 (매우 격식 있는 편지 머리말)
+    gender: null
+    plural: null
+    notes:
+      en: "Paired with 謹白 (kinpaku); more formal than 拝啓"
+      ko: "謹白와 쌍으로 사용; 拝啓보다 더 격식 있음"
+  - japanese: 前略
+    reading: ぜんりゃく
+    translation:
+      en: informal letter opening (skipping formalities)
+      ko: 전략 (격식 생략 편지 머리말)
+    gender: null
+    plural: null
+    notes:
+      en: "Used when skipping seasonal greetings; paired with 草々"
+      ko: "계절 인사를 생략할 때 사용; 草々와 쌍으로 사용"
+  - japanese: 時候の挨拶
+    reading: じこうのあいさつ
+    translation:
+      en: seasonal greeting (in letters)
+      ko: 시후의 인사 (편지에서)
+    gender: null
+    plural: null
+    notes:
+      en: "Each month has traditional seasonal greetings"
+      ko: "매달 전통적인 계절 인사가 있음"
+  - japanese: 履歴書
+    reading: りれきしょ
+    translation:
+      en: resume, CV
+      ko: 이력서
+    gender: null
+    plural: null
+  - japanese: 志望動機
+    reading: しぼうどうき
+    translation:
+      en: reason for application
+      ko: 지원 동기
+    gender: null
+    plural: null
+    notes:
+      en: "Mandatory section in Japanese resumes"
+      ko: "일본 이력서의 필수 항목"
+  - japanese: 謹白
+    reading: きんぱく
+    translation:
+      en: very formal letter closing (paired with 謹啓)
+      ko: 근백 (謹啓와 쌍으로 사용하는 매우 격식 있는 맺음말)
+    gender: null
+    plural: null
+  - japanese: 草々
+    reading: そうそう
+    translation:
+      en: informal letter closing (paired with 前略)
+      ko: 초초 (前略과 쌍으로 사용하는 비격식 맺음말)
+    gender: null
+    plural: null
+  - japanese: 宛名
+    reading: あてな
+    translation:
+      en: addressee name
+      ko: 수신인
+    gender: null
+    plural: null
+  - japanese: 差出人
+    reading: さしだしにん
+    translation:
+      en: sender
+      ko: 발신인
+    gender: null
+    plural: null
+  - japanese: 封筒
+    reading: ふうとう
+    translation:
+      en: envelope
+      ko: 봉투
+    gender: null
+    plural: null
+  - japanese: 年賀状
+    reading: ねんがじょう
+    translation:
+      en: New Year greeting card
+      ko: 연하장
+    gender: null
+    plural: null
+  - japanese: 暑中見舞い
+    reading: しょちゅうみまい
+    translation:
+      en: summer greeting card
+      ko: 하계 안부 편지
+    gender: null
+    plural: null
+
+- id: connectors
+  label:
+    en: Connectors and Transitions
+    ko: 접속사 및 전환어
+  type: vocabulary
+  words:
+  - japanese: しかし
+    reading: null
+    translation:
+      en: however
+      ko: 그러나
+    gender: null
+    plural: null
+  - japanese: しかしながら
+    reading: null
+    translation:
+      en: nevertheless (formal)
+      ko: 그럼에도 불구하고 (격식)
+    gender: null
+    plural: null
+  - japanese: したがって
+    reading: null
+    translation:
+      en: therefore
+      ko: 따라서
+    gender: null
+    plural: null
+  - japanese: さらに
+    reading: null
+    translation:
+      en: furthermore
+      ko: 게다가
+    gender: null
+    plural: null
+  - japanese: 一方
+    reading: いっぽう
+    translation:
+      en: on the other hand
+      ko: 한편
+    gender: null
+    plural: null
+  - japanese: すなわち
+    reading: null
+    translation:
+      en: namely, in other words
+      ko: 즉
+    gender: null
+    plural: null
+  - japanese: 以上のことから
+    reading: いじょうのことから
+    translation:
+      en: from the above
+      ko: 이상의 것으로부터
+    gender: null
+    plural: null
+  - japanese: 要するに
+    reading: ようするに
+    translation:
+      en: in summary
+      ko: 요컨대
+    gender: null
+    plural: null
+  - japanese: つまり
+    reading: null
+    translation:
+      en: in other words, that is to say
+      ko: 즉, 다시 말해
+    gender: null
+    plural: null
+  - japanese: それに対して
+    reading: それにたいして
+    translation:
+      en: in contrast to that
+      ko: 그에 반해
+    gender: null
+    plural: null
+  - japanese: なぜなら
+    reading: null
+    translation:
+      en: because
+      ko: 왜냐하면
+    gender: null
+    plural: null
+  - japanese: もっとも
+    reading: null
+    translation:
+      en: although, however (formal)
+      ko: 물론, 그렇긴 하지만
+    gender: null
+    plural: null
+  - japanese: 換言すれば
+    reading: かんげんすれば
+    translation:
+      en: in other words (formal)
+      ko: 환언하면
+    gender: null
+    plural: null
+  - japanese: 結果として
+    reading: けっかとして
+    translation:
+      en: as a result
+      ko: 결과적으로
+    gender: null
+    plural: null
+  - japanese: 前述の通り
+    reading: ぜんじゅつのとおり
+    translation:
+      en: as mentioned above
+      ko: 전술한 바와 같이
+    gender: null
+    plural: null
+
+- id: writing_style_terms
+  label:
+    en: Writing Style Terms
+    ko: 문체 용어
+  type: vocabulary
+  words:
+  - japanese: 敬体
+    reading: けいたい
+    translation:
+      en: polite style (です/ます)
+      ko: 경체 (です/ます체)
+    gender: null
+    plural: null
+    notes:
+      en: "Used in letters, emails, business documents"
+      ko: "편지, 이메일, 비즈니스 문서에 사용"
+  - japanese: 常体
+    reading: じょうたい
+    translation:
+      en: plain style (だ/である)
+      ko: 상체 (だ/である체)
+    gender: null
+    plural: null
+    notes:
+      en: "Used in essays, reports, newspaper articles"
+      ko: "에세이, 보고서, 신문 기사에 사용"
+  - japanese: 書き言葉
+    reading: かきことば
+    translation:
+      en: written language
+      ko: 문어체
+    gender: null
+    plural: null
+  - japanese: 話し言葉
+    reading: はなしことば
+    translation:
+      en: spoken language
+      ko: 구어체
+    gender: null
+    plural: null
+  - japanese: 句点
+    reading: くてん
+    translation:
+      en: period (。)
+      ko: 구점 (마침표)
+    gender: null
+    plural: null
+  - japanese: 読点
+    reading: とうてん
+    translation:
+      en: comma (、)
+      ko: 독점 (쉼표)
+    gender: null
+    plural: null
+  - japanese: 鉤括弧
+    reading: かぎかっこ
+    translation:
+      en: quotation marks (「」)
+      ko: 갈고리 괄호 (인용부호)
+    gender: null
+    plural: null
+  - japanese: 二重鉤括弧
+    reading: にじゅうかぎかっこ
+    translation:
+      en: double quotation marks (『』)
+      ko: 이중 갈고리 괄호
+    gender: null
+    plural: null
+    notes:
+      en: "Used for titles of books, newspapers within text"
+      ko: "본문 속 책이나 신문 제목에 사용"
+  - japanese: 感嘆符
+    reading: かんたんふ
+    translation:
+      en: exclamation mark (!)
+      ko: 느낌표
+    gender: null
+    plural: null
+  - japanese: 疑問符
+    reading: ぎもんふ
+    translation:
+      en: question mark (?)
+      ko: 물음표
+    gender: null
+    plural: null
+  - japanese: 文体
+    reading: ぶんたい
+    translation:
+      en: writing style
+      ko: 문체
+    gender: null
+    plural: null
+  - japanese: 語調
+    reading: ごちょう
+    translation:
+      en: tone (of writing)
+      ko: 어조
+    gender: null
+    plural: null
+
+- id: editing_terms
+  label:
+    en: Editing and Proofreading
+    ko: 편집 및 교정
+  type: vocabulary
+  words:
+  - japanese: 推敲
+    reading: すいこう
+    translation:
+      en: polishing one's writing
+      ko: 퇴고
+    gender: null
+    plural: null
+    notes:
+      en: "From a Chinese anecdote about choosing between 推 and 敲"
+      ko: "推와 敲 중 고민한 중국 고사에서 유래"
+  - japanese: 校正
+    reading: こうせい
+    translation:
+      en: proofreading
+      ko: 교정
+    gender: null
+    plural: null
+  - japanese: 添削
+    reading: てんさく
+    translation:
+      en: correction, revision (by a teacher)
+      ko: 첨삭
+    gender: null
+    plural: null
+  - japanese: 誤字
+    reading: ごじ
+    translation:
+      en: wrong character (typo)
+      ko: 오자
+    gender: null
+    plural: null
+  - japanese: 脱字
+    reading: だつじ
+    translation:
+      en: omitted character
+      ko: 탈자
+    gender: null
+    plural: null
+  - japanese: 字数制限
+    reading: じすうせいげん
+    translation:
+      en: character limit
+      ko: 글자 수 제한
+    gender: null
+    plural: null
+  - japanese: 下書き
+    reading: したがき
+    translation:
+      en: draft
+      ko: 초안
+    gender: null
+    plural: null
+  - japanese: 清書
+    reading: せいしょ
+    translation:
+      en: fair copy, final draft
+      ko: 정서 (깨끗하게 옮겨 쓰기)
+    gender: null
+    plural: null
+  - japanese: 書き直す
+    reading: かきなおす
+    translation:
+      en: to rewrite
+      ko: 다시 쓰다
+    gender: null
+    plural: null
+  - japanese: 要約
+    reading: ようやく
+    translation:
+      en: summary, abstract
+      ko: 요약
+    gender: null
+    plural: null
+  - japanese: 原稿
+    reading: げんこう
+    translation:
+      en: manuscript
+      ko: 원고
+    gender: null
+    plural: null
+
+- id: report_writing
+  label:
+    en: Report and Document Writing
+    ko: 보고서 및 문서 작성
+  type: vocabulary
+  words:
+  - japanese: 報告書
+    reading: ほうこくしょ
+    translation:
+      en: written report
+      ko: 보고서
+    gender: null
+    plural: null
+  - japanese: 企画書
+    reading: きかくしょ
+    translation:
+      en: project proposal document
+      ko: 기획서
+    gender: null
+    plural: null
+  - japanese: 議事録
+    reading: ぎじろく
+    translation:
+      en: meeting minutes
+      ko: 회의록
+    gender: null
+    plural: null
+  - japanese: 概要
+    reading: がいよう
+    translation:
+      en: overview, outline
+      ko: 개요
+    gender: null
+    plural: null
+  - japanese: 箇条書き
+    reading: かじょうがき
+    translation:
+      en: bullet points, itemized list
+      ko: 항목별 기재
+    gender: null
+    plural: null
+  - japanese: 図表
+    reading: ずひょう
+    translation:
+      en: charts and tables
+      ko: 도표
+    gender: null
+    plural: null
+  - japanese: 表題
+    reading: ひょうだい
+    translation:
+      en: title, heading
+      ko: 표제
+    gender: null
+    plural: null
+  - japanese: 見出し
+    reading: みだし
+    translation:
+      en: heading, subheading
+      ko: 제목 (소제목)
+    gender: null
+    plural: null
+  - japanese: 付録
+    reading: ふろく
+    translation:
+      en: appendix
+      ko: 부록
+    gender: null
+    plural: null
+  - japanese: 目次
+    reading: もくじ
+    translation:
+      en: table of contents
+      ko: 목차
+    gender: null
+    plural: null
+  - japanese: 注釈
+    reading: ちゅうしゃく
+    translation:
+      en: annotation, commentary
+      ko: 주석
+    gender: null
+    plural: null

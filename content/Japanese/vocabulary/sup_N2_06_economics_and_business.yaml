@@ -1,0 +1,1039 @@
+lesson: "sup_N2_Economics_and_Business"
+lesson_number: 166
+jlpt: N2
+type: supplementary
+topic: "Economics and Business"
+categories:
+- id: macroeconomics
+  label:
+    en: "Macroeconomics"
+    ko: "거시경제학"
+  type: vocabulary
+  words:
+  - japanese: "景気"
+    reading: "けいき"
+    translation:
+      en: "economic conditions, business climate"
+      ko: "경기"
+    gender: null
+    notes:
+      en: "景気が良い/悪い = economy is good/bad"
+      ko: "景気が良い/悪い = 경기가 좋다/나쁘다"
+  - japanese: "不況"
+    reading: "ふきょう"
+    translation:
+      en: "recession, depression"
+      ko: "불황"
+    gender: null
+    notes:
+      en: "大不況 = great depression"
+      ko: "大不況 = 대불황"
+  - japanese: "好況"
+    reading: "こうきょう"
+    translation:
+      en: "economic boom"
+      ko: "호황"
+    gender: null
+    notes:
+      en: "good + situation"
+      ko: "좋다 + 상황"
+  - japanese: "国内総生産"
+    reading: "こくないそうせいさん"
+    translation:
+      en: "gross domestic product (GDP)"
+      ko: "국내총생산"
+    gender: null
+    notes:
+      en: "abbreviated as GDP"
+      ko: "GDP로 줄여 씀"
+  - japanese: "経済成長"
+    reading: "けいざいせいちょう"
+    translation:
+      en: "economic growth"
+      ko: "경제 성장"
+    gender: null
+    notes:
+      en: "経済成長率 = economic growth rate"
+      ko: "経済成長率 = 경제 성장률"
+  - japanese: "物価"
+    reading: "ぶっか"
+    translation:
+      en: "prices (general)"
+      ko: "물가"
+    gender: null
+    notes:
+      en: "物価上昇 = price increase"
+      ko: "物価上昇 = 물가 상승"
+  - japanese: "インフレ"
+    reading: null
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: null
+    notes:
+      en: "short for インフレーション"
+      ko: "インフレーション의 줄임말"
+  - japanese: "デフレ"
+    reading: null
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: null
+    notes:
+      en: "short for デフレーション"
+      ko: "デフレーション의 줄임말"
+  - japanese: "金利"
+    reading: "きんり"
+    translation:
+      en: "interest rate"
+      ko: "금리"
+    gender: null
+    notes:
+      en: "金利が上がる/下がる = interest rate rises/falls"
+      ko: "金利が上がる/下がる = 금리가 오르다/내리다"
+  - japanese: "為替"
+    reading: "かわせ"
+    translation:
+      en: "exchange (foreign currency)"
+      ko: "환율"
+    gender: null
+    notes:
+      en: "為替レート = exchange rate"
+      ko: "為替レート = 환율"
+  - japanese: "円高"
+    reading: "えんだか"
+    translation:
+      en: "strong yen"
+      ko: "엔고"
+    gender: null
+    notes:
+      en: "yen + high"
+      ko: "엔 + 높다"
+  - japanese: "円安"
+    reading: "えんやす"
+    translation:
+      en: "weak yen"
+      ko: "엔저"
+    gender: null
+    notes:
+      en: "yen + low"
+      ko: "엔 + 낮다"
+  - japanese: "財政政策"
+    reading: "ざいせいせいさく"
+    translation:
+      en: "fiscal policy"
+      ko: "재정 정책"
+    gender: null
+    notes:
+      en: "finance + policy"
+      ko: "재정 + 정책"
+  - japanese: "金融政策"
+    reading: "きんゆうせいさく"
+    translation:
+      en: "monetary policy"
+      ko: "금융 정책"
+    gender: null
+    notes:
+      en: "金融 + policy"
+      ko: "금융 + 정책"
+  - japanese: "需要"
+    reading: "じゅよう"
+    translation:
+      en: "demand"
+      ko: "수요"
+    gender: null
+    notes:
+      en: "需要と供給 = supply and demand"
+      ko: "需要と供給 = 수요와 공급"
+  - japanese: "供給"
+    reading: "きょうきゅう"
+    translation:
+      en: "supply"
+      ko: "공급"
+    gender: null
+    notes:
+      en: "provide + give"
+      ko: "제공 + 주다"
+  - japanese: "国債"
+    reading: "こくさい"
+    translation:
+      en: "government bond"
+      ko: "국채"
+    gender: null
+    notes:
+      en: "国 + bond"
+      ko: "국 + 채"
+  - japanese: "赤字"
+    reading: "あかじ"
+    translation:
+      en: "deficit, red ink"
+      ko: "적자"
+    gender: null
+    notes:
+      en: "財政赤字 = fiscal deficit"
+      ko: "財政赤字 = 재정 적자"
+  - japanese: "黒字"
+    reading: "くろじ"
+    translation:
+      en: "surplus, in the black"
+      ko: "흑자"
+    gender: null
+    notes:
+      en: "貿易黒字 = trade surplus"
+      ko: "貿易黒字 = 무역 흑자"
+  - japanese: "失業率"
+    reading: "しつぎょうりつ"
+    translation:
+      en: "unemployment rate"
+      ko: "실업률"
+    gender: null
+    notes:
+      en: "失業 + rate"
+      ko: "실업 + 률"
+  - japanese: "消費税"
+    reading: "しょうひぜい"
+    translation:
+      en: "consumption tax"
+      ko: "소비세"
+    gender: null
+    notes:
+      en: "consumption + tax"
+      ko: "소비 + 세"
+  - japanese: "所得税"
+    reading: "しょとくぜい"
+    translation:
+      en: "income tax"
+      ko: "소득세"
+    gender: null
+    notes:
+      en: "income + tax"
+      ko: "소득 + 세"
+  - japanese: "法人税"
+    reading: "ほうじんぜい"
+    translation:
+      en: "corporate tax"
+      ko: "법인세"
+    gender: null
+    notes:
+      en: "legal person + tax"
+      ko: "법인 + 세"
+  - japanese: "市場経済"
+    reading: "しじょうけいざい"
+    translation:
+      en: "market economy"
+      ko: "시장 경제"
+    gender: null
+    notes:
+      en: "market + economy"
+      ko: "시장 + 경제"
+  - japanese: "独占"
+    reading: "どくせん"
+    translation:
+      en: "monopoly"
+      ko: "독점"
+    gender: null
+    notes:
+      en: "独占禁止法 = antitrust law"
+      ko: "独占禁止法 = 독점금지법"
+  - japanese: "格差"
+    reading: "かくさ"
+    translation:
+      en: "disparity, gap"
+      ko: "격차"
+    gender: null
+    notes:
+      en: "経済格差 = economic disparity"
+      ko: "経済格差 = 경제 격차"
+  - japanese: "規制緩和"
+    reading: "きせいかんわ"
+    translation:
+      en: "deregulation"
+      ko: "규제 완화"
+    gender: null
+    notes:
+      en: "regulation + easing"
+      ko: "규제 + 완화"
+  - japanese: "民営化"
+    reading: "みんえいか"
+    translation:
+      en: "privatization"
+      ko: "민영화"
+    gender: null
+    notes:
+      en: "people + manage + -ization"
+      ko: "민 + 영 + 화"
+  - japanese: "国有化"
+    reading: "こくゆうか"
+    translation:
+      en: "nationalization"
+      ko: "국유화"
+    gender: null
+    notes:
+      en: "nation + own + -ization"
+      ko: "국 + 유 + 화"
+  - japanese: "補助金"
+    reading: "ほじょきん"
+    translation:
+      en: "subsidy"
+      ko: "보조금"
+    gender: null
+    notes:
+      en: "assist + money"
+      ko: "보조 + 금"
+  - japanese: "通貨"
+    reading: "つうか"
+    translation:
+      en: "currency"
+      ko: "통화"
+    gender: null
+    notes:
+      en: "通貨危機 = currency crisis"
+      ko: "通貨危機 = 통화 위기"
+  - japanese: "中央銀行"
+    reading: "ちゅうおうぎんこう"
+    translation:
+      en: "central bank"
+      ko: "중앙은행"
+    gender: null
+    notes:
+      en: "日本銀行 = Bank of Japan"
+      ko: "日本銀行 = 일본은행"
+  - japanese: "恐慌"
+    reading: "きょうこう"
+    translation:
+      en: "financial panic, crisis"
+      ko: "공황"
+    gender: null
+    notes:
+      en: "金融恐慌 = financial crisis"
+      ko: "金融恐慌 = 금융 공황"
+  - japanese: "バブル"
+    reading: null
+    translation:
+      en: "bubble (economic)"
+      ko: "버블"
+    gender: null
+    notes:
+      en: "バブル崩壊 = bubble burst"
+      ko: "バブル崩壊 = 버블 붕괴"
+  - japanese: "景気回復"
+    reading: "けいきかいふく"
+    translation:
+      en: "economic recovery"
+      ko: "경기 회복"
+    gender: null
+    notes:
+      en: "business conditions + recovery"
+      ko: "경기 + 회복"
+  - japanese: "景気後退"
+    reading: "けいきこうたい"
+    translation:
+      en: "economic downturn"
+      ko: "경기 후퇴"
+    gender: null
+    notes:
+      en: "business conditions + retreat"
+      ko: "경기 + 후퇴"
+  - japanese: "所得"
+    reading: "しょとく"
+    translation:
+      en: "income"
+      ko: "소득"
+    gender: null
+    notes:
+      en: "国民所得 = national income"
+      ko: "国民所得 = 국민 소득"
+  - japanese: "消費者"
+    reading: "しょうひしゃ"
+    translation:
+      en: "consumer"
+      ko: "소비자"
+    gender: null
+    notes:
+      en: "消費者物価指数 = consumer price index"
+      ko: "消費者物価指数 = 소비자물가지수"
+
+- id: business_operations
+  label:
+    en: "Business Operations"
+    ko: "사업 운영"
+  type: vocabulary
+  words:
+  - japanese: "経営"
+    reading: "けいえい"
+    translation:
+      en: "management, administration"
+      ko: "경영"
+    gender: null
+    notes:
+      en: "経営する = to manage"
+      ko: "経営する = 경영하다"
+  - japanese: "企業"
+    reading: "きぎょう"
+    translation:
+      en: "enterprise, company"
+      ko: "기업"
+    gender: null
+    notes:
+      en: "大企業 = large corporation; 中小企業 = SME"
+      ko: "大企業 = 대기업; 中小企業 = 중소기업"
+  - japanese: "株式会社"
+    reading: "かぶしきがいしゃ"
+    translation:
+      en: "corporation, stock company"
+      ko: "주식회사"
+    gender: null
+    notes:
+      en: "abbreviated as 株"
+      ko: "株로 줄여 씀"
+  - japanese: "取締役"
+    reading: "とりしまりやく"
+    translation:
+      en: "director (board member)"
+      ko: "이사"
+    gender: null
+    notes:
+      en: "取締役会 = board of directors"
+      ko: "取締役会 = 이사회"
+  - japanese: "株主"
+    reading: "かぶぬし"
+    translation:
+      en: "shareholder"
+      ko: "주주"
+    gender: null
+    notes:
+      en: "株主総会 = shareholders' meeting"
+      ko: "株主総会 = 주주 총회"
+  - japanese: "収益"
+    reading: "しゅうえき"
+    translation:
+      en: "revenue, profit"
+      ko: "수익"
+    gender: null
+    notes:
+      en: "receive + benefit"
+      ko: "거두다 + 이익"
+  - japanese: "利益"
+    reading: "りえき"
+    translation:
+      en: "profit"
+      ko: "이익"
+    gender: null
+    notes:
+      en: "純利益 = net profit"
+      ko: "純利益 = 순이익"
+  - japanese: "損失"
+    reading: "そんしつ"
+    translation:
+      en: "loss"
+      ko: "손실"
+    gender: null
+    notes:
+      en: "損益 = profit and loss"
+      ko: "損益 = 손익"
+  - japanese: "売上"
+    reading: "うりあげ"
+    translation:
+      en: "sales, revenue"
+      ko: "매출"
+    gender: null
+    notes:
+      en: "売上高 = total sales"
+      ko: "売上高 = 매출액"
+  - japanese: "決算"
+    reading: "けっさん"
+    translation:
+      en: "settlement of accounts"
+      ko: "결산"
+    gender: null
+    notes:
+      en: "決算報告 = financial report"
+      ko: "決算報告 = 결산 보고"
+  - japanese: "合併"
+    reading: "がっぺい"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: null
+    notes:
+      en: "合併する = to merge"
+      ko: "合併する = 합병하다"
+  - japanese: "買収"
+    reading: "ばいしゅう"
+    translation:
+      en: "acquisition, buyout"
+      ko: "매수, 인수"
+    gender: null
+    notes:
+      en: "企業買収 = corporate acquisition"
+      ko: "企業買収 = 기업 인수"
+  - japanese: "倒産"
+    reading: "とうさん"
+    translation:
+      en: "bankruptcy (business)"
+      ko: "도산"
+    gender: null
+    notes:
+      en: "倒産する = to go bankrupt"
+      ko: "倒産する = 도산하다"
+  - japanese: "債務超過"
+    reading: "さいむちょうか"
+    translation:
+      en: "insolvency"
+      ko: "채무 초과"
+    gender: null
+    notes:
+      en: "debt + excess"
+      ko: "채무 + 초과"
+  - japanese: "業績"
+    reading: "ぎょうせき"
+    translation:
+      en: "business results"
+      ko: "업적"
+    gender: null
+    notes:
+      en: "業績が好調 = business is doing well"
+      ko: "業績が好調 = 업적이 호조"
+  - japanese: "人事"
+    reading: "じんじ"
+    translation:
+      en: "personnel, HR"
+      ko: "인사"
+    gender: null
+    notes:
+      en: "人事部 = HR department"
+      ko: "人事部 = 인사부"
+  - japanese: "雇用"
+    reading: "こよう"
+    translation:
+      en: "employment"
+      ko: "고용"
+    gender: null
+    notes:
+      en: "雇用する = to employ"
+      ko: "雇用する = 고용하다"
+  - japanese: "解雇"
+    reading: "かいこ"
+    translation:
+      en: "dismissal, firing"
+      ko: "해고"
+    gender: null
+    notes:
+      en: "解雇する = to fire"
+      ko: "解雇する = 해고하다"
+  - japanese: "福利厚生"
+    reading: "ふくりこうせい"
+    translation:
+      en: "employee benefits"
+      ko: "복리후생"
+    gender: null
+    notes:
+      en: "welfare + benefits"
+      ko: "복리 + 후생"
+  - japanese: "年功序列"
+    reading: "ねんこうじょれつ"
+    translation:
+      en: "seniority system"
+      ko: "연공서열"
+    gender: null
+    notes:
+      en: "age + merit + order"
+      ko: "연 + 공 + 서열"
+  - japanese: "成果主義"
+    reading: "せいかしゅぎ"
+    translation:
+      en: "merit-based system"
+      ko: "성과주의"
+    gender: null
+    notes:
+      en: "results + -ism"
+      ko: "성과 + 주의"
+
+- id: marketing
+  label:
+    en: "Marketing"
+    ko: "마케팅"
+  type: vocabulary
+  words:
+  - japanese: "販売"
+    reading: "はんばい"
+    translation:
+      en: "sales"
+      ko: "판매"
+    gender: null
+    notes:
+      en: "販売する = to sell"
+      ko: "販売する = 판매하다"
+  - japanese: "広告"
+    reading: "こうこく"
+    translation:
+      en: "advertisement"
+      ko: "광고"
+    gender: null
+    notes:
+      en: "広告代理店 = advertising agency"
+      ko: "広告代理店 = 광고 대행사"
+  - japanese: "宣伝"
+    reading: "せんでん"
+    translation:
+      en: "promotion, publicity"
+      ko: "선전"
+    gender: null
+    notes:
+      en: "宣伝する = to promote"
+      ko: "宣伝する = 선전하다"
+  - japanese: "市場"
+    reading: "しじょう"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+    notes:
+      en: "市場調査 = market research"
+      ko: "市場調査 = 시장 조사"
+  - japanese: "競争"
+    reading: "きょうそう"
+    translation:
+      en: "competition"
+      ko: "경쟁"
+    gender: null
+    notes:
+      en: "競争相手 = competitor"
+      ko: "競争相手 = 경쟁 상대"
+  - japanese: "顧客"
+    reading: "こきゃく"
+    translation:
+      en: "customer, client"
+      ko: "고객"
+    gender: null
+    notes:
+      en: "顧客満足 = customer satisfaction"
+      ko: "顧客満足 = 고객 만족"
+  - japanese: "需要予測"
+    reading: "じゅようよそく"
+    translation:
+      en: "demand forecast"
+      ko: "수요 예측"
+    gender: null
+    notes:
+      en: "demand + prediction"
+      ko: "수요 + 예측"
+  - japanese: "商品"
+    reading: "しょうひん"
+    translation:
+      en: "product, merchandise"
+      ko: "상품"
+    gender: null
+    notes:
+      en: "商品開発 = product development"
+      ko: "商品開発 = 상품 개발"
+  - japanese: "ブランド"
+    reading: null
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: null
+    notes:
+      en: "ブランド戦略 = brand strategy"
+      ko: "ブランド戦略 = 브랜드 전략"
+  - japanese: "戦略"
+    reading: "せんりゃく"
+    translation:
+      en: "strategy"
+      ko: "전략"
+    gender: null
+    notes:
+      en: "マーケティング戦略 = marketing strategy"
+      ko: "マーケティング戦略 = 마케팅 전략"
+  - japanese: "価格"
+    reading: "かかく"
+    translation:
+      en: "price"
+      ko: "가격"
+    gender: null
+    notes:
+      en: "価格競争 = price competition"
+      ko: "価格競争 = 가격 경쟁"
+  - japanese: "流通"
+    reading: "りゅうつう"
+    translation:
+      en: "distribution"
+      ko: "유통"
+    gender: null
+    notes:
+      en: "流通経路 = distribution channel"
+      ko: "流通経路 = 유통 경로"
+  - japanese: "卸売"
+    reading: "おろしうり"
+    translation:
+      en: "wholesale"
+      ko: "도매"
+    gender: null
+    notes:
+      en: "卸売業 = wholesale business"
+      ko: "卸売業 = 도매업"
+  - japanese: "小売"
+    reading: "こうり"
+    translation:
+      en: "retail"
+      ko: "소매"
+    gender: null
+    notes:
+      en: "小売業 = retail business"
+      ko: "小売業 = 소매업"
+  - japanese: "市場占有率"
+    reading: "しじょうせんゆうりつ"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: null
+    notes:
+      en: "market + share + rate"
+      ko: "시장 + 점유 + 율"
+  - japanese: "消費者行動"
+    reading: "しょうひしゃこうどう"
+    translation:
+      en: "consumer behavior"
+      ko: "소비자 행동"
+    gender: null
+    notes:
+      en: "consumer + behavior"
+      ko: "소비자 + 행동"
+  - japanese: "差別化"
+    reading: "さべつか"
+    translation:
+      en: "differentiation"
+      ko: "차별화"
+    gender: null
+    notes:
+      en: "商品の差別化 = product differentiation"
+      ko: "商品の差別化 = 상품 차별화"
+  - japanese: "販路"
+    reading: "はんろ"
+    translation:
+      en: "sales channel"
+      ko: "판로"
+    gender: null
+    notes:
+      en: "販路拡大 = expanding sales channels"
+      ko: "販路拡大 = 판로 확대"
+
+- id: trade
+  label:
+    en: "Trade"
+    ko: "무역"
+  type: vocabulary
+  words:
+  - japanese: "輸出"
+    reading: "ゆしゅつ"
+    translation:
+      en: "export"
+      ko: "수출"
+    gender: null
+    notes:
+      en: "輸出する = to export"
+      ko: "輸出する = 수출하다"
+  - japanese: "輸入"
+    reading: "ゆにゅう"
+    translation:
+      en: "import"
+      ko: "수입"
+    gender: null
+    notes:
+      en: "輸入する = to import"
+      ko: "輸入する = 수입하다"
+  - japanese: "貿易収支"
+    reading: "ぼうえきしゅうし"
+    translation:
+      en: "trade balance"
+      ko: "무역 수지"
+    gender: null
+    notes:
+      en: "trade + income/expenditure"
+      ko: "무역 + 수지"
+  - japanese: "関税障壁"
+    reading: "かんぜいしょうへき"
+    translation:
+      en: "tariff barrier"
+      ko: "관세 장벽"
+    gender: null
+    notes:
+      en: "tariff + barrier"
+      ko: "관세 + 장벽"
+  - japanese: "自由貿易"
+    reading: "じゆうぼうえき"
+    translation:
+      en: "free trade"
+      ko: "자유 무역"
+    gender: null
+    notes:
+      en: "自由貿易協定 = free trade agreement"
+      ko: "自由貿易協定 = 자유 무역 협정"
+  - japanese: "保護貿易"
+    reading: "ほごぼうえき"
+    translation:
+      en: "protectionism"
+      ko: "보호 무역"
+    gender: null
+    notes:
+      en: "protection + trade"
+      ko: "보호 + 무역"
+  - japanese: "通関"
+    reading: "つうかん"
+    translation:
+      en: "customs clearance"
+      ko: "통관"
+    gender: null
+    notes:
+      en: "通関手続き = customs procedures"
+      ko: "通関手続き = 통관 절차"
+  - japanese: "外資"
+    reading: "がいし"
+    translation:
+      en: "foreign capital"
+      ko: "외자"
+    gender: null
+    notes:
+      en: "外資系企業 = foreign-affiliated company"
+      ko: "外資系企業 = 외자계 기업"
+  - japanese: "投資"
+    reading: "とうし"
+    translation:
+      en: "investment"
+      ko: "투자"
+    gender: null
+    notes:
+      en: "投資する = to invest"
+      ko: "投資する = 투자하다"
+  - japanese: "株式"
+    reading: "かぶしき"
+    translation:
+      en: "stocks, shares"
+      ko: "주식"
+    gender: null
+    notes:
+      en: "株式市場 = stock market"
+      ko: "株式市場 = 주식 시장"
+  - japanese: "配当"
+    reading: "はいとう"
+    translation:
+      en: "dividend"
+      ko: "배당"
+    gender: null
+    notes:
+      en: "配当金 = dividend payment"
+      ko: "配当金 = 배당금"
+  - japanese: "証券"
+    reading: "しょうけん"
+    translation:
+      en: "securities"
+      ko: "증권"
+    gender: null
+    notes:
+      en: "証券取引所 = stock exchange"
+      ko: "証券取引所 = 증권 거래소"
+  - japanese: "融資"
+    reading: "ゆうし"
+    translation:
+      en: "financing, loan"
+      ko: "융자"
+    gender: null
+    notes:
+      en: "融資する = to finance"
+      ko: "融資する = 융자하다"
+  - japanese: "為替相場"
+    reading: "かわせそうば"
+    translation:
+      en: "exchange rate"
+      ko: "환율 시세"
+    gender: null
+    notes:
+      en: "exchange + market rate"
+      ko: "환전 + 시세"
+  - japanese: "経常収支"
+    reading: "けいじょうしゅうし"
+    translation:
+      en: "current account balance"
+      ko: "경상 수지"
+    gender: null
+    notes:
+      en: "current + balance"
+      ko: "경상 + 수지"
+  - japanese: "直接投資"
+    reading: "ちょくせつとうし"
+    translation:
+      en: "direct investment"
+      ko: "직접 투자"
+    gender: null
+    notes:
+      en: "海外直接投資 = foreign direct investment"
+      ko: "海外直接投資 = 해외 직접 투자"
+
+- id: entrepreneurship
+  label:
+    en: "Entrepreneurship"
+    ko: "기업가 정신"
+  type: vocabulary
+  words:
+  - japanese: "起業"
+    reading: "きぎょう"
+    translation:
+      en: "starting a business"
+      ko: "창업"
+    gender: null
+    notes:
+      en: "起業する = to start a business"
+      ko: "起業する = 창업하다"
+  - japanese: "起業家"
+    reading: "きぎょうか"
+    translation:
+      en: "entrepreneur"
+      ko: "기업가"
+    gender: null
+    notes:
+      en: "start + business + person"
+      ko: "창 + 업 + 가"
+  - japanese: "ベンチャー"
+    reading: null
+    translation:
+      en: "venture (business)"
+      ko: "벤처"
+    gender: null
+    notes:
+      en: "ベンチャー企業 = venture company"
+      ko: "ベンチャー企業 = 벤처 기업"
+  - japanese: "スタートアップ"
+    reading: null
+    translation:
+      en: "startup"
+      ko: "스타트업"
+    gender: null
+    notes:
+      en: "katakana loanword from English"
+      ko: "영어에서 온 가타카나 외래어"
+  - japanese: "事業計画"
+    reading: "じぎょうけいかく"
+    translation:
+      en: "business plan"
+      ko: "사업 계획"
+    gender: null
+    notes:
+      en: "business + plan"
+      ko: "사업 + 계획"
+  - japanese: "資金調達"
+    reading: "しきんちょうたつ"
+    translation:
+      en: "fundraising"
+      ko: "자금 조달"
+    gender: null
+    notes:
+      en: "capital + procurement"
+      ko: "자금 + 조달"
+  - japanese: "出資"
+    reading: "しゅっし"
+    translation:
+      en: "investment, capital contribution"
+      ko: "출자"
+    gender: null
+    notes:
+      en: "出資する = to invest capital"
+      ko: "出資する = 출자하다"
+  - japanese: "黒字化"
+    reading: "くろじか"
+    translation:
+      en: "becoming profitable"
+      ko: "흑자화"
+    gender: null
+    notes:
+      en: "surplus + -ization"
+      ko: "흑자 + 화"
+  - japanese: "上場"
+    reading: "じょうじょう"
+    translation:
+      en: "listing (stock market)"
+      ko: "상장"
+    gender: null
+    notes:
+      en: "上場する = to go public"
+      ko: "上場する = 상장하다"
+  - japanese: "知的財産"
+    reading: "ちてきざいさん"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산"
+    gender: null
+    notes:
+      en: "intellectual + property"
+      ko: "지적 + 재산"
+  - japanese: "革新"
+    reading: "かくしん"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: null
+    notes:
+      en: "技術革新 = technological innovation"
+      ko: "技術革新 = 기술 혁신"
+  - japanese: "試作品"
+    reading: "しさくひん"
+    translation:
+      en: "prototype"
+      ko: "시작품"
+    gender: null
+    notes:
+      en: "試 + make + product"
+      ko: "시 + 작 + 품"
+  - japanese: "採算"
+    reading: "さいさん"
+    translation:
+      en: "profitability"
+      ko: "채산"
+    gender: null
+    notes:
+      en: "採算が取れる = to be profitable"
+      ko: "採算が取れる = 채산이 맞다"
+  - japanese: "撤退"
+    reading: "てったい"
+    translation:
+      en: "withdrawal (from business)"
+      ko: "철수"
+    gender: null
+    notes:
+      en: "撤退する = to withdraw"
+      ko: "撤退する = 철수하다"
+  - japanese: "多角経営"
+    reading: "たかくけいえい"
+    translation:
+      en: "diversified management"
+      ko: "다각 경영"
+    gender: null
+    notes:
+      en: "multi-angle + management"
+      ko: "다각 + 경영"
+  - japanese: "提携"
+    reading: "ていけい"
+    translation:
+      en: "partnership, alliance"
+      ko: "제휴"
+    gender: null
+    notes:
+      en: "業務提携 = business partnership"
+      ko: "業務提携 = 업무 제휴"
+  - japanese: "下請け"
+    reading: "したうけ"
+    translation:
+      en: "subcontractor"
+      ko: "하청"
+    gender: null
+    notes:
+      en: "下請け業者 = subcontractor"
+      ko: "下請け業者 = 하청업자"
+  - japanese: "商標登録"
+    reading: "しょうひょうとうろく"
+    translation:
+      en: "trademark registration"
+      ko: "상표 등록"
+    gender: null
+    notes:
+      en: "trademark + registration"
+      ko: "상표 + 등록"

@@ -1,0 +1,1840 @@
+lesson: "sup_N1_Abstract_Concepts"
+lesson_number: 186
+jlpt: N1
+type: supplementary
+topic: "Abstract Concepts"
+categories:
+- id: philosophical_abstractions
+  label:
+    en: "Philosophical Abstractions"
+    ko: "철학적 추상"
+  type: vocabulary
+  words:
+  - japanese: "実存"
+    reading: "じつぞん"
+    translation:
+      en: "existence (existential)"
+      ko: "실존"
+    gender: null
+    notes:
+      en: "real + exist; 実存主義 = existentialism"
+      ko: "실제 + 존재; 実存主義 = 실존주의"
+  - japanese: "虚無"
+    reading: "きょむ"
+    translation:
+      en: "nihility, nothingness"
+      ko: "허무"
+    gender: null
+    notes:
+      en: "empty + nothing; 虚無主義 = nihilism"
+      ko: "허 + 무; 虚無主義 = 허무주의"
+  - japanese: "超越"
+    reading: "ちょうえつ"
+    translation:
+      en: "transcendence"
+      ko: "초월"
+    gender: null
+    notes:
+      en: "surpass + exceed; 超越する = to transcend"
+      ko: "초 + 월; 超越する = 초월하다"
+  - japanese: "内在"
+    reading: "ないざい"
+    translation:
+      en: "immanence"
+      ko: "내재"
+    gender: null
+    notes:
+      en: "inside + exist; 内在的 = immanent"
+      ko: "내 + 재; 内在的 = 내재적"
+  - japanese: "普遍"
+    reading: "ふへん"
+    translation:
+      en: "universality"
+      ko: "보편"
+    gender: null
+    notes:
+      en: "universal + change; 普遍的真理 = universal truth"
+      ko: "보편 + 변; 普遍的真理 = 보편적 진리"
+  - japanese: "個別"
+    reading: "こべつ"
+    translation:
+      en: "particular, individual"
+      ko: "개별"
+    gender: null
+    notes:
+      en: "individual + separate; 個別性 = particularity"
+      ko: "개 + 별; 個別性 = 개별성"
+  - japanese: "現象"
+    reading: "げんしょう"
+    translation:
+      en: "phenomenon"
+      ko: "현상"
+    gender: null
+    notes:
+      en: "appear + image; 現象学 = phenomenology"
+      ko: "나타나다 + 상; 現象学 = 현상학"
+  - japanese: "本質"
+    reading: "ほんしつ"
+    translation:
+      en: "essence"
+      ko: "본질"
+    gender: null
+    notes:
+      en: "origin + substance; 本質的 = essential"
+      ko: "본 + 질; 本質的 = 본질적"
+  - japanese: "実体"
+    reading: "じったい"
+    translation:
+      en: "substance, entity"
+      ko: "실체"
+    gender: null
+    notes:
+      en: "real + body; 実体のない = lacking substance"
+      ko: "실 + 체; 実体のない = 실체가 없는"
+  - japanese: "抽象"
+    reading: "ちゅうしょう"
+    translation:
+      en: "abstraction"
+      ko: "추상"
+    gender: null
+    notes:
+      en: "draw out + image; 抽象的 = abstract"
+      ko: "뽑다 + 상; 抽象的 = 추상적"
+  - japanese: "具象"
+    reading: "ぐしょう"
+    translation:
+      en: "concrete representation"
+      ko: "구상"
+    gender: null
+    notes:
+      en: "tool + image; 具象化する = to make concrete"
+      ko: "도구 + 상; 具象化する = 구상화하다"
+  - japanese: "自由意志"
+    reading: "じゆういし"
+    translation:
+      en: "free will"
+      ko: "자유의지"
+    gender: null
+    notes:
+      en: "freedom + will; 自由意志の問題 = the problem of free will"
+      ko: "자유 + 의지; 自由意志の問題 = 자유의지의 문제"
+  - japanese: "決定論"
+    reading: "けっていろん"
+    translation:
+      en: "determinism"
+      ko: "결정론"
+    gender: null
+    notes:
+      en: "decide + theory; the doctrine that all events are determined"
+      ko: "결정 + 론; 모든 사건이 결정되어 있다는 학설"
+  - japanese: "宿命"
+    reading: "しゅくめい"
+    translation:
+      en: "fate, destiny"
+      ko: "숙명"
+    gender: null
+    notes:
+      en: "lodging + fate; 宿命論 = fatalism"
+      ko: "숙 + 명; 宿命論 = 숙명론"
+  - japanese: "必然"
+    reading: "ひつぜん"
+    translation:
+      en: "necessity, inevitability"
+      ko: "필연"
+    gender: null
+    notes:
+      en: "must + so; 必然性 = inevitability"
+      ko: "반드시 + 그렇다; 必然性 = 필연성"
+  - japanese: "偶然"
+    reading: "ぐうぜん"
+    translation:
+      en: "contingency, chance"
+      ko: "우연"
+    gender: null
+    notes:
+      en: "occasional + so; 偶然性 = contingency"
+      ko: "우 + 연; 偶然性 = 우연성"
+  - japanese: "不条理"
+    reading: "ふじょうり"
+    translation:
+      en: "absurdity"
+      ko: "부조리"
+    gender: null
+    notes:
+      en: "not + rational; 不条理な世界 = an absurd world"
+      ko: "불 + 조리; 不条理な世界 = 부조리한 세계"
+  - japanese: "疎外"
+    reading: "そがい"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: null
+    notes:
+      en: "sparse + outside; 社会的疎外 = social alienation"
+      ko: "소 + 외; 社会的疎外 = 사회적 소외"
+  - japanese: "解放"
+    reading: "かいほう"
+    translation:
+      en: "liberation, emancipation"
+      ko: "해방"
+    gender: null
+    notes:
+      en: "dissolve + release; 解放する = to liberate"
+      ko: "풀다 + 놓다; 解放する = 해방하다"
+  - japanese: "自律"
+    reading: "じりつ"
+    translation:
+      en: "autonomy"
+      ko: "자율"
+    gender: null
+    notes:
+      en: "self + rule; 自律性 = autonomy"
+      ko: "자 + 율; 自律性 = 자율성"
+  - japanese: "他律"
+    reading: "たりつ"
+    translation:
+      en: "heteronomy"
+      ko: "타율"
+    gender: null
+    notes:
+      en: "other + rule; governed by external forces"
+      ko: "타 + 율; 외부 힘에 의해 지배됨"
+  - japanese: "悟り"
+    reading: "さとり"
+    translation:
+      en: "enlightenment, satori"
+      ko: "깨달음"
+    gender: null
+    notes:
+      en: "awakening; Buddhist concept of spiritual awakening"
+      ko: "깨달음; 불교의 정신적 각성 개념"
+  - japanese: "無常"
+    reading: "むじょう"
+    translation:
+      en: "impermanence"
+      ko: "무상"
+    gender: null
+    notes:
+      en: "without + permanence; Buddhist concept; 諸行無常 = all things are impermanent"
+      ko: "무 + 상; 불교 개념; 諸行無常 = 만물은 무상"
+  - japanese: "空"
+    reading: "くう"
+    translation:
+      en: "emptiness, void (Buddhist)"
+      ko: "공"
+    gender: null
+    notes:
+      en: "empty; 色即是空 = form is emptiness"
+      ko: "빈; 色即是空 = 색즉시공"
+
+- id: social_theory
+  label:
+    en: "Social Theory"
+    ko: "사회이론"
+  type: vocabulary
+  words:
+  - japanese: "社会構造"
+    reading: "しゃかいこうぞう"
+    translation:
+      en: "social structure"
+      ko: "사회구조"
+    gender: null
+    notes:
+      en: "society + structure"
+      ko: "사회 + 구조"
+  - japanese: "階層"
+    reading: "かいそう"
+    translation:
+      en: "stratum, social class"
+      ko: "계층"
+    gender: null
+    notes:
+      en: "layer + layer; 社会階層 = social stratification"
+      ko: "계 + 층; 社会階層 = 사회계층"
+  - japanese: "格差"
+    reading: "かくさ"
+    translation:
+      en: "disparity, gap"
+      ko: "격차"
+    gender: null
+    notes:
+      en: "status + difference; 経済格差 = economic disparity"
+      ko: "격 + 차; 経済格差 = 경제 격차"
+  - japanese: "階級"
+    reading: "かいきゅう"
+    translation:
+      en: "class (social)"
+      ko: "계급"
+    gender: null
+    notes:
+      en: "rank + rank; 階級闘争 = class struggle"
+      ko: "계 + 급; 階級闘争 = 계급투쟁"
+  - japanese: "規範"
+    reading: "きはん"
+    translation:
+      en: "norm, standard"
+      ko: "규범"
+    gender: null
+    notes:
+      en: "rule + model; 社会規範 = social norm"
+      ko: "규 + 범; 社会規範 = 사회규범"
+  - japanese: "逸脱"
+    reading: "いつだつ"
+    translation:
+      en: "deviance, departure"
+      ko: "일탈"
+    gender: null
+    notes:
+      en: "escape + leave; 規範からの逸脱 = deviance from norms"
+      ko: "벗어나다 + 떠나다; 規範からの逸脱 = 규범으로부터의 일탈"
+  - japanese: "権力"
+    reading: "けんりょく"
+    translation:
+      en: "power"
+      ko: "권력"
+    gender: null
+    notes:
+      en: "right + power; 権力構造 = power structure"
+      ko: "권 + 력; 権力構造 = 권력구조"
+  - japanese: "支配"
+    reading: "しはい"
+    translation:
+      en: "domination, control"
+      ko: "지배"
+    gender: null
+    notes:
+      en: "branch + distribute; 支配する = to dominate"
+      ko: "지 + 배; 支配する = 지배하다"
+  - japanese: "抑圧"
+    reading: "よくあつ"
+    translation:
+      en: "oppression, repression"
+      ko: "억압"
+    gender: null
+    notes:
+      en: "restrain + press; 抑圧する = to oppress"
+      ko: "억 + 압; 抑圧する = 억압하다"
+  - japanese: "連帯"
+    reading: "れんたい"
+    translation:
+      en: "solidarity"
+      ko: "연대"
+    gender: null
+    notes:
+      en: "connect + band; 社会的連帯 = social solidarity"
+      ko: "연결 + 대; 社会的連帯 = 사회적 연대"
+  - japanese: "排除"
+    reading: "はいじょ"
+    translation:
+      en: "exclusion"
+      ko: "배제"
+    gender: null
+    notes:
+      en: "expel + remove; 社会的排除 = social exclusion"
+      ko: "배 + 제; 社会的排除 = 사회적 배제"
+  - japanese: "包摂"
+    reading: "ほうせつ"
+    translation:
+      en: "inclusion"
+      ko: "포섭"
+    gender: null
+    notes:
+      en: "wrap + gather; 社会的包摂 = social inclusion"
+      ko: "포 + 섭; 社会的包摂 = 사회적 포섭"
+  - japanese: "共同体"
+    reading: "きょうどうたい"
+    translation:
+      en: "community"
+      ko: "공동체"
+    gender: null
+    notes:
+      en: "together + same + body; 地域共同体 = local community"
+      ko: "함께 + 같다 + 체; 地域共同体 = 지역공동체"
+  - japanese: "近代化"
+    reading: "きんだいか"
+    translation:
+      en: "modernization"
+      ko: "근대화"
+    gender: null
+    notes:
+      en: "modern + era + -ize; 近代化の過程 = process of modernization"
+      ko: "근대 + 화; 近代化の過程 = 근대화의 과정"
+  - japanese: "合理化"
+    reading: "ごうりか"
+    translation:
+      en: "rationalization"
+      ko: "합리화"
+    gender: null
+    notes:
+      en: "rational + -ize; Weber's concept of rationalization"
+      ko: "합리 + 화; 베버의 합리화 개념"
+  - japanese: "官僚制"
+    reading: "かんりょうせい"
+    translation:
+      en: "bureaucracy"
+      ko: "관료제"
+    gender: null
+    notes:
+      en: "official + system; 官僚制の弊害 = ills of bureaucracy"
+      ko: "관료 + 제; 官僚制の弊害 = 관료제의 폐해"
+  - japanese: "市民社会"
+    reading: "しみんしゃかい"
+    translation:
+      en: "civil society"
+      ko: "시민사회"
+    gender: null
+    notes:
+      en: "citizen + society"
+      ko: "시민 + 사회"
+  - japanese: "公共圏"
+    reading: "こうきょうけん"
+    translation:
+      en: "public sphere"
+      ko: "공공권"
+    gender: null
+    notes:
+      en: "public + sphere; Habermas's concept"
+      ko: "공공 + 권; 하버마스의 개념"
+  - japanese: "再生産"
+    reading: "さいせいさん"
+    translation:
+      en: "reproduction (social)"
+      ko: "재생산"
+    gender: null
+    notes:
+      en: "again + produce; 社会的再生産 = social reproduction"
+      ko: "재 + 생산; 社会的再生産 = 사회적 재생산"
+  - japanese: "正統性"
+    reading: "せいとうせい"
+    translation:
+      en: "legitimacy"
+      ko: "정통성"
+    gender: null
+    notes:
+      en: "orthodox + nature; 権力の正統性 = legitimacy of power"
+      ko: "정통 + 성; 権力の正統性 = 권력의 정통성"
+  - japanese: "覇権"
+    reading: "はけん"
+    translation:
+      en: "hegemony"
+      ko: "패권"
+    gender: null
+    notes:
+      en: "supremacy + right; 文化的覇権 = cultural hegemony"
+      ko: "패 + 권; 文化的覇権 = 문화적 패권"
+  - japanese: "構築"
+    reading: "こうちく"
+    translation:
+      en: "construction"
+      ko: "구축"
+    gender: null
+    notes:
+      en: "construct + build; 社会的構築 = social construction"
+      ko: "구 + 축; 社会的構築 = 사회적 구축"
+  - japanese: "脱構築"
+    reading: "だつこうちく"
+    translation:
+      en: "deconstruction"
+      ko: "탈구축, 해체"
+    gender: null
+    notes:
+      en: "escape + construction; Derrida's philosophical concept"
+      ko: "탈 + 구축; 데리다의 철학적 개념"
+
+- id: cognitive_concepts
+  label:
+    en: "Cognitive Concepts"
+    ko: "인지적 개념"
+  type: vocabulary
+  words:
+  - japanese: "認知"
+    reading: "にんち"
+    translation:
+      en: "cognition, recognition"
+      ko: "인지"
+    gender: null
+    notes:
+      en: "recognize + know; 認知科学 = cognitive science"
+      ko: "인 + 지; 認知科学 = 인지과학"
+  - japanese: "知覚"
+    reading: "ちかく"
+    translation:
+      en: "perception"
+      ko: "지각"
+    gender: null
+    notes:
+      en: "know + sense; 知覚する = to perceive"
+      ko: "지 + 각; 知覚する = 지각하다"
+  - japanese: "意識"
+    reading: "いしき"
+    translation:
+      en: "consciousness"
+      ko: "의식"
+    gender: null
+    notes:
+      en: "meaning + knowledge; 自己意識 = self-consciousness"
+      ko: "의 + 식; 自己意識 = 자기의식"
+  - japanese: "無意識"
+    reading: "むいしき"
+    translation:
+      en: "unconscious"
+      ko: "무의식"
+    gender: null
+    notes:
+      en: "without + consciousness; 集合的無意識 = collective unconscious"
+      ko: "무 + 의식; 集合的無意識 = 집단무의식"
+  - japanese: "潜在意識"
+    reading: "せんざいいしき"
+    translation:
+      en: "subconscious"
+      ko: "잠재의식"
+    gender: null
+    notes:
+      en: "latent + consciousness"
+      ko: "잠재 + 의식"
+  - japanese: "直観"
+    reading: "ちょっかん"
+    translation:
+      en: "intuition"
+      ko: "직관"
+    gender: null
+    notes:
+      en: "direct + view; 直観的 = intuitive"
+      ko: "직 + 관; 直観的 = 직관적"
+  - japanese: "推理"
+    reading: "すいり"
+    translation:
+      en: "reasoning, inference"
+      ko: "추리"
+    gender: null
+    notes:
+      en: "infer + reason; 推理する = to reason, to infer"
+      ko: "추 + 리; 推理する = 추리하다"
+  - japanese: "記憶"
+    reading: "きおく"
+    translation:
+      en: "memory"
+      ko: "기억"
+    gender: null
+    notes:
+      en: "record + remember; 記憶力 = memory capacity"
+      ko: "기 + 억; 記憶力 = 기억력"
+  - japanese: "想像力"
+    reading: "そうぞうりょく"
+    translation:
+      en: "imagination"
+      ko: "상상력"
+    gender: null
+    notes:
+      en: "imagine + power; 想像力を働かせる = to use one's imagination"
+      ko: "상상 + 력; 想像力を働かせる = 상상력을 발휘하다"
+  - japanese: "創造力"
+    reading: "そうぞうりょく"
+    translation:
+      en: "creativity"
+      ko: "창조력"
+    gender: null
+    notes:
+      en: "create + power; different kanji from imagination: 創 vs 想"
+      ko: "창조 + 력; 상상력과 다른 한자: 創 vs 想"
+  - japanese: "判断力"
+    reading: "はんだんりょく"
+    translation:
+      en: "judgment"
+      ko: "판단력"
+    gender: null
+    notes:
+      en: "judge + power; 判断力を養う = to cultivate judgment"
+      ko: "판단 + 력; 判断力を養う = 판단력을 기르다"
+  - japanese: "概念形成"
+    reading: "がいねんけいせい"
+    translation:
+      en: "concept formation"
+      ko: "개념형성"
+    gender: null
+    notes:
+      en: "concept + formation; 概念を形成する = to form a concept"
+      ko: "개념 + 형성; 概念を形成する = 개념을 형성하다"
+  - japanese: "認識"
+    reading: "にんしき"
+    translation:
+      en: "recognition, cognition"
+      ko: "인식"
+    gender: null
+    notes:
+      en: "recognize + know; 認識する = to recognize"
+      ko: "인 + 식; 認識する = 인식하다"
+  - japanese: "思考"
+    reading: "しこう"
+    translation:
+      en: "thought, thinking"
+      ko: "사고"
+    gender: null
+    notes:
+      en: "think + consider; 批判的思考 = critical thinking"
+      ko: "사 + 고; 批判的思考 = 비판적 사고"
+  - japanese: "志向性"
+    reading: "しこうせい"
+    translation:
+      en: "intentionality"
+      ko: "지향성"
+    gender: null
+    notes:
+      en: "aim + nature; consciousness is always consciousness of something"
+      ko: "지향 + 성; 의식은 항상 무언가에 대한 의식"
+  - japanese: "内省"
+    reading: "ないせい"
+    translation:
+      en: "introspection"
+      ko: "내성"
+    gender: null
+    notes:
+      en: "inside + reflect; 内省的 = introspective"
+      ko: "내 + 성; 内省的 = 내성적"
+  - japanese: "帰属"
+    reading: "きぞく"
+    translation:
+      en: "attribution"
+      ko: "귀속"
+    gender: null
+    notes:
+      en: "return + belong; 原因帰属 = causal attribution"
+      ko: "귀 + 속; 原因帰属 = 원인귀속"
+  - japanese: "偏見"
+    reading: "へんけん"
+    translation:
+      en: "prejudice, bias"
+      ko: "편견"
+    gender: null
+    notes:
+      en: "lean + view; 認知的偏見 = cognitive bias"
+      ko: "기울다 + 견; 認知的偏見 = 인지적 편견"
+  - japanese: "先入観"
+    reading: "せんにゅうかん"
+    translation:
+      en: "preconception, prejudice"
+      ko: "선입관"
+    gender: null
+    notes:
+      en: "prior + enter + view; 先入観を捨てる = to discard preconceptions"
+      ko: "먼저 + 들어오다 + 관; 先入観を捨てる = 선입관을 버리다"
+  - japanese: "固定観念"
+    reading: "こていかんねん"
+    translation:
+      en: "fixed idea, stereotype"
+      ko: "고정관념"
+    gender: null
+    notes:
+      en: "fixed + concept; 固定観念を打ち破る = to break stereotypes"
+      ko: "고정 + 관념; 固定観念を打ち破る = 고정관념을 깨다"
+  - japanese: "葛藤"
+    reading: "かっとう"
+    translation:
+      en: "conflict, inner struggle"
+      ko: "갈등"
+    gender: null
+    notes:
+      en: "intertwine + vine; 内的葛藤 = inner conflict"
+      ko: "얽히다 + 등나무; 内的葛藤 = 내적 갈등"
+  - japanese: "自覚"
+    reading: "じかく"
+    translation:
+      en: "self-awareness"
+      ko: "자각"
+    gender: null
+    notes:
+      en: "self + aware; 自覚する = to become aware of"
+      ko: "자 + 각; 自覚する = 자각하다"
+
+- id: metaphysics
+  label:
+    en: "Metaphysics"
+    ko: "형이상학"
+  type: vocabulary
+  words:
+  - japanese: "形而上学"
+    reading: "けいじじょうがく"
+    translation:
+      en: "metaphysics"
+      ko: "형이상학"
+    gender: null
+    notes:
+      en: "form + above + study; the study of the nature of reality"
+      ko: "형 + 이상 + 학; 실재의 본성에 대한 연구"
+  - japanese: "存在論"
+    reading: "そんざいろん"
+    translation:
+      en: "ontology"
+      ko: "존재론"
+    gender: null
+    notes:
+      en: "existence + theory; the study of being"
+      ko: "존재 + 론; 존재에 대한 연구"
+  - japanese: "有"
+    reading: "う"
+    translation:
+      en: "being, existence"
+      ko: "유"
+    gender: null
+    notes:
+      en: "to have/exist; 有と無 = being and nothingness"
+      ko: "있다; 有と無 = 유와 무"
+  - japanese: "無"
+    reading: "む"
+    translation:
+      en: "nothingness, non-being"
+      ko: "무"
+    gender: null
+    notes:
+      en: "without; 無から有へ = from nothing to something"
+      ko: "없다; 無から有へ = 무에서 유로"
+  - japanese: "因果律"
+    reading: "いんがりつ"
+    translation:
+      en: "law of causality"
+      ko: "인과율"
+    gender: null
+    notes:
+      en: "cause + effect + law; every effect has a cause"
+      ko: "인과 + 율; 모든 결과에는 원인이 있다"
+  - japanese: "一元論"
+    reading: "いちげんろん"
+    translation:
+      en: "monism"
+      ko: "일원론"
+    gender: null
+    notes:
+      en: "one + origin + theory; reality consists of one substance"
+      ko: "일 + 원 + 론; 실재는 하나의 실체로 구성"
+  - japanese: "二元論"
+    reading: "にげんろん"
+    translation:
+      en: "dualism"
+      ko: "이원론"
+    gender: null
+    notes:
+      en: "two + origin + theory; mind-body dualism"
+      ko: "이 + 원 + 론; 심신 이원론"
+  - japanese: "多元論"
+    reading: "たげんろん"
+    translation:
+      en: "pluralism"
+      ko: "다원론"
+    gender: null
+    notes:
+      en: "many + origin + theory; reality consists of many substances"
+      ko: "다 + 원 + 론; 실재는 여러 실체로 구성"
+  - japanese: "唯物論"
+    reading: "ゆいぶつろん"
+    translation:
+      en: "materialism"
+      ko: "유물론"
+    gender: null
+    notes:
+      en: "only + matter + theory; 弁証法的唯物論 = dialectical materialism"
+      ko: "오직 + 물질 + 론; 弁証法的唯物論 = 변증법적 유물론"
+  - japanese: "観念論"
+    reading: "かんねんろん"
+    translation:
+      en: "idealism"
+      ko: "관념론"
+    gender: null
+    notes:
+      en: "idea + theory; 客観的観念論 = objective idealism"
+      ko: "관념 + 론; 客観的観念論 = 객관적 관념론"
+  - japanese: "実在論"
+    reading: "じつざいろん"
+    translation:
+      en: "realism"
+      ko: "실재론"
+    gender: null
+    notes:
+      en: "real + existence + theory; universals exist independently"
+      ko: "실 + 재 + 론; 보편자가 독립적으로 존재"
+  - japanese: "唯名論"
+    reading: "ゆいめいろん"
+    translation:
+      en: "nominalism"
+      ko: "유명론"
+    gender: null
+    notes:
+      en: "only + name + theory; universals are merely names"
+      ko: "오직 + 이름 + 론; 보편자는 단지 이름"
+  - japanese: "時空"
+    reading: "じくう"
+    translation:
+      en: "space-time"
+      ko: "시공"
+    gender: null
+    notes:
+      en: "time + space; 時空を超える = to transcend space-time"
+      ko: "시간 + 공간; 時空を超える = 시공을 초월하다"
+  - japanese: "永遠"
+    reading: "えいえん"
+    translation:
+      en: "eternity"
+      ko: "영원"
+    gender: null
+    notes:
+      en: "eternal + distant; 永遠の真理 = eternal truth"
+      ko: "영 + 원; 永遠の真理 = 영원한 진리"
+  - japanese: "可能態"
+    reading: "かのうたい"
+    translation:
+      en: "potentiality"
+      ko: "가능태"
+    gender: null
+    notes:
+      en: "possible + state; Aristotelian concept"
+      ko: "가능 + 태; 아리스토텔레스적 개념"
+  - japanese: "現実態"
+    reading: "げんじつたい"
+    translation:
+      en: "actuality"
+      ko: "현실태"
+    gender: null
+    notes:
+      en: "reality + state; Aristotelian concept"
+      ko: "현실 + 태; 아리스토텔레스적 개념"
+  - japanese: "変化"
+    reading: "へんか"
+    translation:
+      en: "change, transformation"
+      ko: "변화"
+    gender: null
+    notes:
+      en: "change + change; 質的変化 = qualitative change"
+      ko: "변 + 화; 質的変化 = 질적 변화"
+  - japanese: "同一性"
+    reading: "どういつせい"
+    translation:
+      en: "identity"
+      ko: "동일성"
+    gender: null
+    notes:
+      en: "same + one + nature; 自己同一性 = self-identity"
+      ko: "같다 + 하나 + 성; 自己同一性 = 자기 동일성"
+  - japanese: "差異"
+    reading: "さい"
+    translation:
+      en: "difference"
+      ko: "차이"
+    gender: null
+    notes:
+      en: "differ + different; 差異化 = differentiation"
+      ko: "차 + 이; 差異化 = 차이화"
+  - japanese: "生成"
+    reading: "せいせい"
+    translation:
+      en: "becoming, generation"
+      ko: "생성"
+    gender: null
+    notes:
+      en: "produce + become; 生成変化 = becoming and changing"
+      ko: "생 + 성; 生成変化 = 생성변화"
+  - japanese: "消滅"
+    reading: "しょうめつ"
+    translation:
+      en: "extinction, annihilation"
+      ko: "소멸"
+    gender: null
+    notes:
+      en: "extinguish + perish; 消滅する = to perish, to be annihilated"
+      ko: "소 + 멸; 消滅する = 소멸하다"
+  - japanese: "不変"
+    reading: "ふへん"
+    translation:
+      en: "unchanging, immutable"
+      ko: "불변"
+    gender: null
+    notes:
+      en: "not + change; 不変の法則 = immutable law"
+      ko: "불 + 변; 不変の法則 = 불변의 법칙"
+  - japanese: "流転"
+    reading: "るてん"
+    translation:
+      en: "flux, constant change"
+      ko: "유전"
+    gender: null
+    notes:
+      en: "flow + turn; 万物流転 = all things are in flux"
+      ko: "흐르다 + 돌다; 万物流転 = 만물은 유전"
+
+- id: epistemology
+  label:
+    en: "Epistemology"
+    ko: "인식론"
+  type: vocabulary
+  words:
+  - japanese: "認識論"
+    reading: "にんしきろん"
+    translation:
+      en: "epistemology"
+      ko: "인식론"
+    gender: null
+    notes:
+      en: "recognize + theory; the study of knowledge"
+      ko: "인식 + 론; 지식에 대한 연구"
+  - japanese: "知識"
+    reading: "ちしき"
+    translation:
+      en: "knowledge"
+      ko: "지식"
+    gender: null
+    notes:
+      en: "know + recognize; 知識論 = theory of knowledge"
+      ko: "지 + 식; 知識論 = 지식론"
+  - japanese: "信念"
+    reading: "しんねん"
+    translation:
+      en: "belief, conviction"
+      ko: "신념"
+    gender: null
+    notes:
+      en: "believe + thought; 正当化された真なる信念 = justified true belief"
+      ko: "믿다 + 생각; 正当化された真なる信念 = 정당화된 참된 신념"
+  - japanese: "真偽"
+    reading: "しんぎ"
+    translation:
+      en: "truth and falsehood"
+      ko: "진위"
+    gender: null
+    notes:
+      en: "truth + falsehood; 真偽を判定する = to determine truth"
+      ko: "참 + 거짓; 真偽を判定する = 진위를 판정하다"
+  - japanese: "確実性"
+    reading: "かくじつせい"
+    translation:
+      en: "certainty"
+      ko: "확실성"
+    gender: null
+    notes:
+      en: "certain + nature; 確実性の追求 = pursuit of certainty"
+      ko: "확실 + 성; 確実性の追求 = 확실성의 추구"
+  - japanese: "懐疑"
+    reading: "かいぎ"
+    translation:
+      en: "skepticism, doubt"
+      ko: "회의"
+    gender: null
+    notes:
+      en: "harbor + doubt; 懐疑主義 = skepticism"
+      ko: "품다 + 의심; 懐疑主義 = 회의주의"
+  - japanese: "合理"
+    reading: "ごうり"
+    translation:
+      en: "rationality"
+      ko: "합리"
+    gender: null
+    notes:
+      en: "match + reason; 合理主義 = rationalism"
+      ko: "합 + 리; 合理主義 = 합리주의"
+  - japanese: "経験"
+    reading: "けいけん"
+    translation:
+      en: "experience"
+      ko: "경험"
+    gender: null
+    notes:
+      en: "pass through + test; 経験主義 = empiricism"
+      ko: "경 + 험; 経験主義 = 경험주의"
+  - japanese: "先験的"
+    reading: "せんけんてき"
+    translation:
+      en: "a priori, transcendental"
+      ko: "선험적"
+    gender: null
+    notes:
+      en: "before + experience + adjectival; knowledge independent of experience"
+      ko: "먼저 + 경험 + 적; 경험에 의존하지 않는 지식"
+  - japanese: "後験的"
+    reading: "こうけんてき"
+    translation:
+      en: "a posteriori, empirical"
+      ko: "후험적"
+    gender: null
+    notes:
+      en: "after + experience + adjectival; knowledge derived from experience"
+      ko: "뒤 + 경험 + 적; 경험에서 도출된 지식"
+  - japanese: "正当化"
+    reading: "せいとうか"
+    translation:
+      en: "justification"
+      ko: "정당화"
+    gender: null
+    notes:
+      en: "legitimate + -ize; 信念の正当化 = justification of belief"
+      ko: "정당 + 화; 信念の正当化 = 신념의 정당화"
+  - japanese: "相対主義"
+    reading: "そうたいしゅぎ"
+    translation:
+      en: "relativism"
+      ko: "상대주의"
+    gender: null
+    notes:
+      en: "relative + -ism; truth is relative to a framework"
+      ko: "상대 + 주의; 진리는 틀에 상대적"
+  - japanese: "客観主義"
+    reading: "きゃっかんしゅぎ"
+    translation:
+      en: "objectivism"
+      ko: "객관주의"
+    gender: null
+    notes:
+      en: "objective + -ism; truth is independent of perspective"
+      ko: "객관 + 주의; 진리는 관점에 독립적"
+  - japanese: "主観"
+    reading: "しゅかん"
+    translation:
+      en: "subjectivity"
+      ko: "주관"
+    gender: null
+    notes:
+      en: "main + view; 主観性 = subjectivity"
+      ko: "주 + 관; 主観性 = 주관성"
+  - japanese: "客観"
+    reading: "きゃっかん"
+    translation:
+      en: "objectivity"
+      ko: "객관"
+    gender: null
+    notes:
+      en: "guest + view; 客観性 = objectivity"
+      ko: "객 + 관; 客観性 = 객관성"
+  - japanese: "実証主義"
+    reading: "じっしょうしゅぎ"
+    translation:
+      en: "positivism"
+      ko: "실증주의"
+    gender: null
+    notes:
+      en: "prove + -ism; only empirically verifiable knowledge counts"
+      ko: "실증 + 주의; 경험적으로 검증 가능한 지식만 인정"
+  - japanese: "構成主義"
+    reading: "こうせいしゅぎ"
+    translation:
+      en: "constructivism"
+      ko: "구성주의"
+    gender: null
+    notes:
+      en: "construct + -ism; knowledge is actively constructed"
+      ko: "구성 + 주의; 지식은 능동적으로 구성됨"
+  - japanese: "反証"
+    reading: "はんしょう"
+    translation:
+      en: "disproof, falsification"
+      ko: "반증"
+    gender: null
+    notes:
+      en: "oppose + prove; 反証可能性 = falsifiability (Popper)"
+      ko: "반 + 증; 反証可能性 = 반증 가능성 (포퍼)"
+  - japanese: "帰納法"
+    reading: "きのうほう"
+    translation:
+      en: "inductive method"
+      ko: "귀납법"
+    gender: null
+    notes:
+      en: "return + take in + method; reasoning from particular to general"
+      ko: "귀 + 납 + 법; 개별에서 일반으로의 추론"
+  - japanese: "演繹法"
+    reading: "えんえきほう"
+    translation:
+      en: "deductive method"
+      ko: "연역법"
+    gender: null
+    notes:
+      en: "perform + extend + method; reasoning from general to particular"
+      ko: "연 + 역 + 법; 일반에서 개별로의 추론"
+  - japanese: "パラダイム"
+    reading: null
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: null
+    notes:
+      en: "katakana; パラダイムシフト = paradigm shift (Kuhn)"
+      ko: "외래어; パラダイムシフト = 패러다임 전환 (쿤)"
+  - japanese: "解釈学"
+    reading: "かいしゃくがく"
+    translation:
+      en: "hermeneutics"
+      ko: "해석학"
+    gender: null
+    notes:
+      en: "interpret + study; the theory of interpretation"
+      ko: "해석 + 학; 해석의 이론"
+  - japanese: "前理解"
+    reading: "ぜんりかい"
+    translation:
+      en: "pre-understanding"
+      ko: "선이해"
+    gender: null
+    notes:
+      en: "before + understanding; Gadamer's hermeneutic concept"
+      ko: "먼저 + 이해; 가다머의 해석학적 개념"
+  - japanese: "弁証法"
+    reading: "べんしょうほう"
+    translation:
+      en: "dialectic"
+      ko: "변증법"
+    gender: null
+    notes:
+      en: "argue + prove + method; thesis-antithesis-synthesis"
+      ko: "변론 + 증명 + 법; 정-반-합"
+  - japanese: "止揚"
+    reading: "しよう"
+    translation:
+      en: "sublation, Aufhebung"
+      ko: "지양"
+    gender: null
+    notes:
+      en: "stop + raise; Hegelian concept of negation and preservation"
+      ko: "그치다 + 올리다; 헤겔의 부정과 보존 개념"
+  - japanese: "世界観"
+    reading: "せかいかん"
+    translation:
+      en: "worldview"
+      ko: "세계관"
+    gender: null
+    notes:
+      en: "world + view; 世界観を形成する = to form a worldview"
+      ko: "세계 + 관; 世界観を形成する = 세계관을 형성하다"
+  - japanese: "価値観"
+    reading: "かちかん"
+    translation:
+      en: "values, value system"
+      ko: "가치관"
+    gender: null
+    notes:
+      en: "value + view; 価値観の多様性 = diversity of values"
+      ko: "가치 + 관; 価値観の多様性 = 가치관의 다양성"
+  - japanese: "倫理"
+    reading: "りんり"
+    translation:
+      en: "ethics"
+      ko: "윤리"
+    gender: null
+    notes:
+      en: "order + reason; 倫理学 = ethics (as a discipline)"
+      ko: "윤 + 리; 倫理学 = 윤리학"
+  - japanese: "道徳"
+    reading: "どうとく"
+    translation:
+      en: "morality"
+      ko: "도덕"
+    gender: null
+    notes:
+      en: "way + virtue; 道徳的 = moral"
+      ko: "도 + 덕; 道徳的 = 도덕적"
+  - japanese: "功利主義"
+    reading: "こうりしゅぎ"
+    translation:
+      en: "utilitarianism"
+      ko: "공리주의"
+    gender: null
+    notes:
+      en: "merit + benefit + -ism; the greatest good for the greatest number"
+      ko: "공 + 리 + 주의; 최대 다수의 최대 행복"
+  - japanese: "義務論"
+    reading: "ぎむろん"
+    translation:
+      en: "deontology"
+      ko: "의무론"
+    gender: null
+    notes:
+      en: "duty + theory; Kantian ethics based on duty"
+      ko: "의무 + 론; 의무에 기반한 칸트 윤리학"
+  - japanese: "徳倫理学"
+    reading: "とくりんりがく"
+    translation:
+      en: "virtue ethics"
+      ko: "덕윤리학"
+    gender: null
+    notes:
+      en: "virtue + ethics; Aristotelian approach to ethics"
+      ko: "덕 + 윤리학; 아리스토텔레스적 윤리학 접근"
+  - japanese: "善悪"
+    reading: "ぜんあく"
+    translation:
+      en: "good and evil"
+      ko: "선악"
+    gender: null
+    notes:
+      en: "good + evil; 善悪の判断 = judgment of good and evil"
+      ko: "선 + 악; 善悪の判断 = 선악의 판단"
+  - japanese: "正義"
+    reading: "せいぎ"
+    translation:
+      en: "justice"
+      ko: "정의"
+    gender: null
+    notes:
+      en: "correct + righteousness; 社会正義 = social justice"
+      ko: "정 + 의; 社会正義 = 사회정의"
+  - japanese: "公正"
+    reading: "こうせい"
+    translation:
+      en: "fairness"
+      ko: "공정"
+    gender: null
+    notes:
+      en: "public + correct; 公正な社会 = a fair society"
+      ko: "공 + 정; 公正な社会 = 공정한 사회"
+  - japanese: "審美"
+    reading: "しんび"
+    translation:
+      en: "aesthetic appreciation"
+      ko: "심미"
+    gender: null
+    notes:
+      en: "examine + beauty; 審美眼 = aesthetic eye"
+      ko: "심 + 미; 審美眼 = 심미안"
+  - japanese: "美学"
+    reading: "びがく"
+    translation:
+      en: "aesthetics"
+      ko: "미학"
+    gender: null
+    notes:
+      en: "beauty + study; 美学的 = aesthetic"
+      ko: "미 + 학; 美学的 = 미학적"
+  - japanese: "崇高"
+    reading: "すうこう"
+    translation:
+      en: "sublime"
+      ko: "숭고"
+    gender: null
+    notes:
+      en: "revere + high; カントの崇高論 = Kant's theory of the sublime"
+      ko: "숭배 + 높다; カントの崇高論 = 칸트의 숭고론"
+  - japanese: "理念"
+    reading: "りねん"
+    translation:
+      en: "idea, principle"
+      ko: "이념"
+    gender: null
+    notes:
+      en: "reason + thought; 理念を掲げる = to uphold a principle"
+      ko: "이 + 념; 理念を掲げる = 이념을 내세우다"
+  - japanese: "理想"
+    reading: "りそう"
+    translation:
+      en: "ideal"
+      ko: "이상"
+    gender: null
+    notes:
+      en: "reason + thought; 理想主義 = idealism"
+      ko: "이 + 상; 理想主義 = 이상주의"
+  - japanese: "現実"
+    reading: "げんじつ"
+    translation:
+      en: "reality"
+      ko: "현실"
+    gender: null
+    notes:
+      en: "appear + real; 現実主義 = realism"
+      ko: "나타나다 + 실; 現実主義 = 현실주의"
+  - japanese: "虚構"
+    reading: "きょこう"
+    translation:
+      en: "fiction, fabrication"
+      ko: "허구"
+    gender: null
+    notes:
+      en: "empty + construct; 虚構と現実 = fiction and reality"
+      ko: "허 + 구; 虚構と現実 = 허구와 현실"
+  - japanese: "幻想"
+    reading: "げんそう"
+    translation:
+      en: "illusion, fantasy"
+      ko: "환상"
+    gender: null
+    notes:
+      en: "phantasm + thought; 幻想を抱く = to harbor an illusion"
+      ko: "환 + 상; 幻想を抱く = 환상을 품다"
+  - japanese: "象徴"
+    reading: "しょうちょう"
+    translation:
+      en: "symbol"
+      ko: "상징"
+    gender: null
+    notes:
+      en: "image + sign; 象徴する = to symbolize"
+      ko: "상 + 징; 象徴する = 상징하다"
+  - japanese: "隠喩"
+    reading: "いんゆ"
+    translation:
+      en: "metaphor"
+      ko: "은유"
+    gender: null
+    notes:
+      en: "hidden + analogy; 概念的隠喩 = conceptual metaphor"
+      ko: "숨기다 + 비유; 概念的隠喩 = 개념적 은유"
+  - japanese: "逆理"
+    reading: "ぎゃくり"
+    translation:
+      en: "paradox, contradiction"
+      ko: "역리, 패러독스"
+    gender: null
+    notes:
+      en: "reverse + reason; 逆理に満ちた = full of paradoxes"
+      ko: "거꾸로 + 이치; 逆理に満ちた = 패러독스로 가득 찬"
+  - japanese: "矛盾"
+    reading: "むじゅん"
+    translation:
+      en: "contradiction"
+      ko: "모순"
+    gender: null
+    notes:
+      en: "spear + shield; 矛盾を孕む = to contain a contradiction"
+      ko: "창 + 방패; 矛盾を孕む = 모순을 내포하다"
+  - japanese: "両義性"
+    reading: "りょうぎせい"
+    translation:
+      en: "ambiguity, duality of meaning"
+      ko: "양의성"
+    gender: null
+    notes:
+      en: "both + meaning + nature; 両義的 = ambiguous"
+      ko: "양 + 의 + 성; 両義的 = 양의적"
+  - japanese: "主体"
+    reading: "しゅたい"
+    translation:
+      en: "subject, agent"
+      ko: "주체"
+    gender: null
+    notes:
+      en: "main + body; 主体性 = subjectivity, agency"
+      ko: "주 + 체; 主体性 = 주체성"
+  - japanese: "客体"
+    reading: "きゃくたい"
+    translation:
+      en: "object (philosophical)"
+      ko: "객체"
+    gender: null
+    notes:
+      en: "guest + body; 主体と客体 = subject and object"
+      ko: "객 + 체; 主体と客体 = 주체와 객체"
+  - japanese: "相互主観性"
+    reading: "そうごしゅかんせい"
+    translation:
+      en: "intersubjectivity"
+      ko: "상호주관성"
+    gender: null
+    notes:
+      en: "mutual + subjectivity; shared understanding between subjects"
+      ko: "상호 + 주관성; 주체들 간의 공유된 이해"
+  - japanese: "弁証法的"
+    reading: "べんしょうほうてき"
+    translation:
+      en: "dialectical"
+      ko: "변증법적"
+    gender: null
+    notes:
+      en: "dialectic + adjectival; 弁証法的展開 = dialectical development"
+      ko: "변증법 + 적; 弁証法的展開 = 변증법적 전개"
+  - japanese: "自己"
+    reading: "じこ"
+    translation:
+      en: "self"
+      ko: "자기"
+    gender: null
+    notes:
+      en: "self; 自己実現 = self-actualization"
+      ko: "자기; 自己実現 = 자기실현"
+  - japanese: "他者"
+    reading: "たしゃ"
+    translation:
+      en: "the other"
+      ko: "타자"
+    gender: null
+    notes:
+      en: "other + person; 他者認識 = recognition of the other"
+      ko: "타 + 자; 他者認識 = 타자 인식"
+  - japanese: "帰属意識"
+    reading: "きぞくいしき"
+    translation:
+      en: "sense of belonging"
+      ko: "귀속의식"
+    gender: null
+    notes:
+      en: "belong + consciousness"
+      ko: "귀속 + 의식"
+  - japanese: "自己超越"
+    reading: "じこちょうえつ"
+    translation:
+      en: "self-transcendence"
+      ko: "자기초월"
+    gender: null
+    notes:
+      en: "self + transcend; going beyond the limits of self"
+      ko: "자기 + 초월; 자아의 한계를 넘어서는 것"
+  - japanese: "根源"
+    reading: "こんげん"
+    translation:
+      en: "origin, root"
+      ko: "근원"
+    gender: null
+    notes:
+      en: "root + source; 根源的 = fundamental"
+      ko: "뿌리 + 원천; 根源的 = 근원적"
+  - japanese: "究極"
+    reading: "きゅうきょく"
+    translation:
+      en: "ultimate"
+      ko: "궁극"
+    gender: null
+    notes:
+      en: "investigate + extreme; 究極的 = ultimate"
+      ko: "궁구 + 극; 究極的 = 궁극적"
+  - japanese: "不可知"
+    reading: "ふかち"
+    translation:
+      en: "unknowable, agnostic"
+      ko: "불가지"
+    gender: null
+    notes:
+      en: "not + possible + know; 不可知論 = agnosticism"
+      ko: "불 + 가 + 지; 不可知論 = 불가지론"
+  - japanese: "超自然"
+    reading: "ちょうしぜん"
+    translation:
+      en: "supernatural"
+      ko: "초자연"
+    gender: null
+    notes:
+      en: "beyond + nature; 超自然的 = supernatural"
+      ko: "초 + 자연; 超自然的 = 초자연적"
+  - japanese: "意志"
+    reading: "いし"
+    translation:
+      en: "will, volition"
+      ko: "의지"
+    gender: null
+    notes:
+      en: "meaning + aim; 意志の力 = willpower"
+      ko: "의 + 지; 意志の力 = 의지력"
+  - japanese: "情動"
+    reading: "じょうどう"
+    translation:
+      en: "emotion, affect"
+      ko: "정동"
+    gender: null
+    notes:
+      en: "feeling + move; 情動的反応 = emotional reaction"
+      ko: "정 + 동; 情動的反応 = 정동적 반응"
+  - japanese: "共感"
+    reading: "きょうかん"
+    translation:
+      en: "empathy, sympathy"
+      ko: "공감"
+    gender: null
+    notes:
+      en: "together + feel; 共感する = to empathize"
+      ko: "함께 + 느끼다; 共感する = 공감하다"
+  - japanese: "慈悲"
+    reading: "じひ"
+    translation:
+      en: "compassion, mercy"
+      ko: "자비"
+    gender: null
+    notes:
+      en: "mercy + compassion; Buddhist concept"
+      ko: "자 + 비; 불교적 개념"
+  - japanese: "利他"
+    reading: "りた"
+    translation:
+      en: "altruism"
+      ko: "이타"
+    gender: null
+    notes:
+      en: "benefit + other; 利他主義 = altruism"
+      ko: "이롭다 + 타; 利他主義 = 이타주의"
+  - japanese: "利己"
+    reading: "りこ"
+    translation:
+      en: "egoism, selfishness"
+      ko: "이기"
+    gender: null
+    notes:
+      en: "benefit + self; 利己主義 = egoism"
+      ko: "이롭다 + 자기; 利己主義 = 이기주의"
+  - japanese: "禁欲"
+    reading: "きんよく"
+    translation:
+      en: "asceticism, abstinence"
+      ko: "금욕"
+    gender: null
+    notes:
+      en: "prohibit + desire; 禁欲主義 = asceticism"
+      ko: "금하다 + 욕; 禁欲主義 = 금욕주의"
+  - japanese: "快楽"
+    reading: "かいらく"
+    translation:
+      en: "pleasure, hedonism"
+      ko: "쾌락"
+    gender: null
+    notes:
+      en: "pleasant + pleasure; 快楽主義 = hedonism"
+      ko: "쾌 + 락; 快楽主義 = 쾌락주의"
+  - japanese: "無為"
+    reading: "むい"
+    translation:
+      en: "non-action, wu wei"
+      ko: "무위"
+    gender: null
+    notes:
+      en: "without + action; Taoist concept; 無為自然 = natural non-action"
+      ko: "무 + 위; 도가 개념; 無為自然 = 무위자연"
+  - japanese: "実践"
+    reading: "じっせん"
+    translation:
+      en: "practice, praxis"
+      ko: "실천"
+    gender: null
+    notes:
+      en: "real + practice; 実践的 = practical"
+      ko: "실 + 천; 実践的 = 실천적"
+  - japanese: "思弁"
+    reading: "しべん"
+    translation:
+      en: "speculation (philosophical)"
+      ko: "사변"
+    gender: null
+    notes:
+      en: "think + argue; 思弁的 = speculative"
+      ko: "사 + 변; 思弁的 = 사변적"
+  - japanese: "内面"
+    reading: "ないめん"
+    translation:
+      en: "inner aspect, interiority"
+      ko: "내면"
+    gender: null
+    notes:
+      en: "inside + face; 内面性 = interiority"
+      ko: "내 + 면; 内面性 = 내면성"
+  - japanese: "自発性"
+    reading: "じはつせい"
+    translation:
+      en: "spontaneity"
+      ko: "자발성"
+    gender: null
+    notes:
+      en: "self + emit + nature; 自発的 = spontaneous"
+      ko: "자 + 발 + 성; 自発的 = 자발적"
+  - japanese: "意味"
+    reading: "いみ"
+    translation:
+      en: "meaning"
+      ko: "의미"
+    gender: null
+    notes:
+      en: "meaning + taste; 人生の意味 = the meaning of life"
+      ko: "의 + 미; 人生の意味 = 인생의 의미"
+  - japanese: "目的論"
+    reading: "もくてきろん"
+    translation:
+      en: "teleology"
+      ko: "목적론"
+    gender: null
+    notes:
+      en: "purpose + theory; explanation by final causes"
+      ko: "목적 + 론; 최종 원인에 의한 설명"
+  - japanese: "機械論"
+    reading: "きかいろん"
+    translation:
+      en: "mechanism, mechanistic view"
+      ko: "기계론"
+    gender: null
+    notes:
+      en: "machine + theory; explaining by efficient causes"
+      ko: "기계 + 론; 작용인에 의한 설명"
+  - japanese: "還元"
+    reading: "かんげん"
+    translation:
+      en: "reduction"
+      ko: "환원"
+    gender: null
+    notes:
+      en: "return + origin; 還元主義 = reductionism"
+      ko: "돌아가다 + 원; 還元主義 = 환원주의"
+  - japanese: "全体論"
+    reading: "ぜんたいろん"
+    translation:
+      en: "holism"
+      ko: "전체론"
+    gender: null
+    notes:
+      en: "whole + theory; the whole is more than the sum of parts"
+      ko: "전체 + 론; 전체는 부분의 합보다 크다"
+  - japanese: "存在理由"
+    reading: "そんざいりゆう"
+    translation:
+      en: "raison d'etre, reason for being"
+      ko: "존재이유"
+    gender: null
+    notes:
+      en: "existence + reason; the fundamental purpose"
+      ko: "존재 + 이유; 근본적 목적"
+  - japanese: "自明性"
+    reading: "じめいせい"
+    translation:
+      en: "self-evidence"
+      ko: "자명성"
+    gender: null
+    notes:
+      en: "self + clear + nature; what is taken for granted"
+      ko: "자 + 명 + 성; 당연시되는 것"
+  - japanese: "揚棄"
+    reading: "ようき"
+    translation:
+      en: "sublation, Aufhebung"
+      ko: "양기"
+    gender: null
+    notes:
+      en: "raise + abandon; Hegelian term; also written 止揚"
+      ko: "올리다 + 버리다; 헤겔 용어; 止揚이라고도 씀"
+  - japanese: "弁証"
+    reading: "べんしょう"
+    translation:
+      en: "demonstration, justification"
+      ko: "변증"
+    gender: null
+    notes:
+      en: "argue + prove; 弁証する = to demonstrate, to prove"
+      ko: "변론 + 증명; 弁証する = 변증하다"
+  - japanese: "独断"
+    reading: "どくだん"
+    translation:
+      en: "dogmatism, arbitrary judgment"
+      ko: "독단"
+    gender: null
+    notes:
+      en: "alone + judge; 独断的 = dogmatic"
+      ko: "홀로 + 판단; 独断的 = 독단적"
+  - japanese: "批判"
+    reading: "ひはん"
+    translation:
+      en: "critique, criticism"
+      ko: "비판"
+    gender: null
+    notes:
+      en: "criticize + judge; 批判的 = critical"
+      ko: "비 + 판; 批判的 = 비판적"
+  - japanese: "範疇"
+    reading: "はんちゅう"
+    translation:
+      en: "category (philosophical)"
+      ko: "범주"
+    gender: null
+    notes:
+      en: "scope + kind; Aristotle's and Kant's categories"
+      ko: "범위 + 종류; 아리스토텔레스와 칸트의 범주"
+  - japanese: "総合"
+    reading: "そうごう"
+    translation:
+      en: "synthesis"
+      ko: "종합"
+    gender: null
+    notes:
+      en: "general + combine; 総合的判断 = synthetic judgment"
+      ko: "총 + 합; 総合的判断 = 종합적 판단"
+  - japanese: "分析"
+    reading: "ぶんせき"
+    translation:
+      en: "analysis"
+      ko: "분석"
+    gender: null
+    notes:
+      en: "divide + dissolve; 分析的判断 = analytic judgment"
+      ko: "나누다 + 풀다; 分析的判断 = 분석적 판단"
+  - japanese: "悲観"
+    reading: "ひかん"
+    translation:
+      en: "pessimism"
+      ko: "비관"
+    gender: null
+    notes:
+      en: "sad + view; 悲観主義 = pessimism"
+      ko: "슬프다 + 관; 悲観主義 = 비관주의"
+  - japanese: "楽観"
+    reading: "らっかん"
+    translation:
+      en: "optimism"
+      ko: "낙관"
+    gender: null
+    notes:
+      en: "happy + view; 楽観主義 = optimism"
+      ko: "즐겁다 + 관; 楽観主義 = 낙관주의"
+  - japanese: "諦観"
+    reading: "ていかん"
+    translation:
+      en: "resignation, contemplation"
+      ko: "체관"
+    gender: null
+    notes:
+      en: "resign + view; acceptance through philosophical understanding"
+      ko: "체념 + 관; 철학적 이해를 통한 수용"
+  - japanese: "超然"
+    reading: "ちょうぜん"
+    translation:
+      en: "transcendent, detached"
+      ko: "초연"
+    gender: null
+    notes:
+      en: "surpass + so; 超然とした態度 = a detached attitude"
+      ko: "초 + 연; 超然とした態度 = 초연한 태도"
+  - japanese: "無我"
+    reading: "むが"
+    translation:
+      en: "selflessness, anatta"
+      ko: "무아"
+    gender: null
+    notes:
+      en: "without + self; Buddhist concept of no-self"
+      ko: "무 + 아; 불교의 무아 개념"
+  - japanese: "因縁"
+    reading: "いんねん"
+    translation:
+      en: "karma, fate, cause and condition"
+      ko: "인연"
+    gender: null
+    notes:
+      en: "cause + connection; Buddhist concept of causal interconnection"
+      ko: "인 + 연; 불교의 인과적 상호연결 개념"
+  - japanese: "輪廻"
+    reading: "りんね"
+    translation:
+      en: "reincarnation, samsara"
+      ko: "윤회"
+    gender: null
+    notes:
+      en: "wheel + return; 輪廻転生 = transmigration of the soul"
+      ko: "바퀴 + 돌아가다; 輪廻転生 = 영혼의 윤회"
+  - japanese: "解脱"
+    reading: "げだつ"
+    translation:
+      en: "liberation, moksha"
+      ko: "해탈"
+    gender: null
+    notes:
+      en: "dissolve + escape; liberation from the cycle of rebirth"
+      ko: "풀다 + 벗어나다; 윤회로부터의 해방"
+  - japanese: "浄化"
+    reading: "じょうか"
+    translation:
+      en: "purification, catharsis"
+      ko: "정화"
+    gender: null
+    notes:
+      en: "pure + change; 魂の浄化 = purification of the soul"
+      ko: "깨끗 + 변화; 魂の浄化 = 영혼의 정화"
+  - japanese: "覚醒"
+    reading: "かくせい"
+    translation:
+      en: "awakening"
+      ko: "각성"
+    gender: null
+    notes:
+      en: "awake + clear; 精神の覚醒 = spiritual awakening"
+      ko: "깨다 + 맑다; 精神の覚醒 = 정신적 각성"
+  - japanese: "宇宙論"
+    reading: "うちゅうろん"
+    translation:
+      en: "cosmology"
+      ko: "우주론"
+    gender: null
+    notes:
+      en: "cosmos + theory; 宇宙論的 = cosmological"
+      ko: "우주 + 론; 宇宙論的 = 우주론적"
+  - japanese: "有限"
+    reading: "ゆうげん"
+    translation:
+      en: "finite, limited"
+      ko: "유한"
+    gender: null
+    notes:
+      en: "have + limit; 有限性 = finitude"
+      ko: "있다 + 한계; 有限性 = 유한성"
+  - japanese: "無限"
+    reading: "むげん"
+    translation:
+      en: "infinite, limitless"
+      ko: "무한"
+    gender: null
+    notes:
+      en: "without + limit; 無限の可能性 = infinite possibilities"
+      ko: "없다 + 한계; 無限の可能性 = 무한한 가능성"
+  - japanese: "絶対"
+    reading: "ぜったい"
+    translation:
+      en: "absolute"
+      ko: "절대"
+    gender: null
+    notes:
+      en: "cut off + oppose; 絶対者 = the Absolute"
+      ko: "끊다 + 대하다; 絶対者 = 절대자"
+  - japanese: "相対"
+    reading: "そうたい"
+    translation:
+      en: "relative"
+      ko: "상대"
+    gender: null
+    notes:
+      en: "mutual + oppose; 相対化する = to relativize"
+      ko: "서로 + 대하다; 相対化する = 상대화하다"
+  - japanese: "統一"
+    reading: "とういつ"
+    translation:
+      en: "unity, unification"
+      ko: "통일"
+    gender: null
+    notes:
+      en: "govern + one; 統一性 = unity"
+      ko: "통 + 일; 統一性 = 통일성"
+  - japanese: "多様性"
+    reading: "たようせい"
+    translation:
+      en: "diversity"
+      ko: "다양성"
+    gender: null
+    notes:
+      en: "many + forms + nature; 多様性を尊重する = to respect diversity"
+      ko: "다 + 양 + 성; 多様性を尊重する = 다양성을 존중하다"
+  - japanese: "矛盾律"
+    reading: "むじゅんりつ"
+    translation:
+      en: "law of contradiction"
+      ko: "모순율"
+    gender: null
+    notes:
+      en: "contradiction + law; a fundamental principle of logic"
+      ko: "모순 + 율; 논리의 기본 원칙"
+  - japanese: "排中律"
+    reading: "はいちゅうりつ"
+    translation:
+      en: "law of excluded middle"
+      ko: "배중률"
+    gender: null
+    notes:
+      en: "exclude + middle + law; either A or not-A"
+      ko: "배제 + 중간 + 율; A이거나 A가 아니다"
+  - japanese: "同一律"
+    reading: "どういつりつ"
+    translation:
+      en: "law of identity"
+      ko: "동일률"
+    gender: null
+    notes:
+      en: "same + one + law; A is A; a fundamental law of logic"
+      ko: "동 + 일 + 율; A는 A이다; 논리의 기본 법칙"
+  - japanese: "弁証法"
+    reading: "べんしょうほう"
+    translation:
+      en: "dialectics"
+      ko: "변증법"
+    gender: null
+    notes:
+      en: "argue + prove + method; thesis-antithesis-synthesis"
+      ko: "변 + 증 + 법; 정-반-합의 논리"

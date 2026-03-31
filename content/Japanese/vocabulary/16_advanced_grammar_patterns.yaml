@@ -1,0 +1,828 @@
+lesson: 16_Advanced_Grammar_Patterns
+lesson_number: 16
+jlpt: N2
+categories:
+- id: grammar_pattern_words
+  label:
+    en: Grammar Pattern Words
+    ko: 문법 패턴 단어
+  type: vocabulary
+  words:
+  - japanese: ばかり
+    reading: null
+    translation:
+      en: just (did), nothing but, only
+      ko: ~한지 얼마 안 되다, ~만, ~뿐
+    gender: null
+    plural: null
+    notes:
+      en: "Two meanings: たばかり (just did), てばかりいる/noun+ばかり (nothing but)."
+      ko: "두 가지 의미: たばかり (막 ~했다), てばかりいる/명사+ばかり (~만)."
+  - japanese: たばかり
+    reading: null
+    translation:
+      en: just did (recently completed)
+      ko: 막 ~했다 (최근 완료)
+    gender: null
+    plural: null
+    notes:
+      en: "た-form + ばかり. 日本に来たばかりです (I just came to Japan)."
+      ko: "た형 + ばかり. 日本に来たばかりです (일본에 막 왔습니다)."
+  - japanese: っぽい
+    reading: null
+    translation:
+      en: -ish, seems like, tends to
+      ko: ~스럽다, ~같다, ~하기 쉽다
+    gender: null
+    plural: null
+    notes:
+      en: "Noun/verb-stem/adj-stem + っぽい. Conjugates as い-adjective."
+      ko: "명사/동사어간/형용사어간 + っぽい. い형용사로 활용."
+  - japanese: 子供っぽい
+    reading: こどもっぽい
+    translation:
+      en: childish (negative nuance)
+      ko: 유치하다, 어린애 같다 (부정적 뉘앙스)
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + っぽい. Negative impression. Contrast: 子供らしい (positive, child-like)."
+      ko: "명사 + っぽい. 부정적 인상. 비교: 子供らしい (긍정적, 아이답다)."
+  - japanese: 忘れっぽい
+    reading: わすれっぽい
+    translation:
+      en: forgetful (tendency)
+      ko: 잘 잊어버리는 (경향)
+    gender: null
+    plural: null
+    notes:
+      en: "Verb-stem + っぽい. Personality trait: tends to forget."
+      ko: "동사어간 + っぽい. 성격 특성: 잘 잊어버리는."
+  - japanese: 怒りっぽい
+    reading: おこりっぽい
+    translation:
+      en: short-tempered (tendency)
+      ko: 화를 잘 내는 (경향)
+    gender: null
+    plural: null
+    notes:
+      en: "Verb-stem + っぽい. Personality trait: tends to get angry."
+      ko: "동사어간 + っぽい. 성격 특성: 화를 잘 내는."
+  - japanese: 白っぽい
+    reading: しろっぽい
+    translation:
+      en: whitish
+      ko: 희끄무레한
+    gender: null
+    plural: null
+    notes:
+      en: "Adjective-stem + っぽい for approximate color."
+      ko: "형용사어간 + っぽい. 대략적인 색상 표현."
+  - japanese: 安っぽい
+    reading: やすっぽい
+    translation:
+      en: cheap-looking
+      ko: 싸구려 같은
+    gender: null
+    plural: null
+    notes:
+      en: "Adjective-stem + っぽい. Negative quality impression."
+      ko: "형용사어간 + っぽい. 부정적 품질 인상."
+  - japanese: がち
+    reading: null
+    translation:
+      en: tend to (negative tendency)
+      ko: ~하기 쉽다 (부정적 경향)
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem/noun + がち. Negative habitual tendency. Behaves as な-adjective."
+      ko: "ます어간/명사 + がち. 부정적 습관 경향. な형용사로 활용."
+  - japanese: 休みがち
+    reading: やすみがち
+    translation:
+      en: tends to be absent
+      ko: 결석하기 쉬운
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem + がち. 最近学校を休みがちだ."
+      ko: "ます어간 + がち. 最近学校を休みがちだ."
+  - japanese: 遅れがち
+    reading: おくれがち
+    translation:
+      en: tends to be late/behind
+      ko: 늦기 쉬운, 지연되기 쉬운
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem + がち. プロジェクトが遅れがちです."
+      ko: "ます어간 + がち. プロジェクトが遅れがちです."
+- id: formal_expressions
+  label:
+    en: Formal and Written Expressions
+    ko: 격식 및 문어 표현
+  type: vocabulary
+  words:
+  - japanese: 気味
+    reading: ぎみ
+    translation:
+      en: slightly, a touch of (mild degree)
+      ko: ~기미, 약간 ~한 (경미한 정도)
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem/noun + 気味. Often for undesirable conditions. Read ぎみ as suffix."
+      ko: "ます어간/명사 + 気味. 주로 바람직하지 않은 상태. 접미사로 ぎみ로 읽음."
+  - japanese: 風邪気味
+    reading: かぜぎみ
+    translation:
+      en: a touch of a cold
+      ko: 감기 기운
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + 気味. 風邪気味なので早く帰ります."
+      ko: "명사 + 気味. 風邪気味なので早く帰ります."
+  - japanese: 疲れ気味
+    reading: つかれぎみ
+    translation:
+      en: slightly tired
+      ko: 약간 피곤한
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem + 気味. 最近疲れ気味に見える."
+      ko: "ます어간 + 気味. 最近疲れ気味に見える."
+  - japanese: 太り気味
+    reading: ふとりぎみ
+    translation:
+      en: slightly overweight
+      ko: 약간 살이 찐
+    gender: null
+    plural: null
+    notes:
+      en: "Masu-stem + 気味. 最近太り気味だ."
+      ko: "ます어간 + 気味. 最近太り気味だ."
+  - japanese: ずに
+    reading: null
+    translation:
+      en: without doing (formal/written)
+      ko: ~하지 않고 (격식/문어)
+    gender: null
+    plural: null
+    notes:
+      en: "ない-stem + ずに. Literary equivalent of ないで. Exception: する → せずに."
+      ko: "ない어간 + ずに. ないで의 문어적 표현. 예외: する → せずに."
+  - japanese: せずに
+    reading: null
+    translation:
+      en: without doing (irregular ずに form of する)
+      ko: 하지 않고 (する의 불규칙 ずに형)
+    gender: null
+    plural: null
+    notes:
+      en: "する → せずに (NOT しずに). 予習せずに授業に出た."
+      ko: "する → せずに (しずに가 아님). 予習せずに授業に出た."
+  - japanese: にもかかわらず
+    reading: null
+    translation:
+      en: despite, in spite of (very formal)
+      ko: ~에도 불구하고 (매우 격식적)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal written contrast. 雨にもかかわらず試合は続行された."
+      ko: "격식적 문어 대조. 雨にもかかわらず試合は続行された."
+  - japanese: に関して
+    reading: にかんして
+    translation:
+      en: regarding, concerning (formal)
+      ko: ~에 관해서 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal topic marker. More formal than について. に関する + noun (adjectival)."
+      ko: "격식적 주제 표지. について보다 격식적. に関する + 명사 (연체형)."
+  - japanese: に関する
+    reading: にかんする
+    translation:
+      en: concerning, related to (before noun)
+      ko: ~에 관한 (명사 수식)
+    gender: null
+    plural: null
+    notes:
+      en: "Adjectival form: 環境問題に関する研究 (research concerning environmental issues)."
+      ko: "연체형: 環境問題に関する研究 (환경 문제에 관한 연구)."
+- id: nuance_words
+  label:
+    en: Nuance and Register Words
+    ko: 뉘앙스와 격식 관련 어휘
+  type: vocabulary
+  words:
+  - japanese: を通じて
+    reading: をつうじて
+    translation:
+      en: through, throughout (formal)
+      ko: ~을 통해, ~동안 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Means or duration. Slightly more formal than を通して."
+      ko: "수단 또는 기간. を通して보다 약간 더 격식적."
+  - japanese: を通して
+    reading: をとおして
+    translation:
+      en: through, throughout
+      ko: ~을 통해서, ~동안
+    gender: null
+    plural: null
+    notes:
+      en: "Largely interchangeable with を通じて. 留学を通して学んだ."
+      ko: "を通じて와 대체로 교환 가능. 留学を通して学んだ."
+  - japanese: について
+    reading: null
+    translation:
+      en: about, regarding (standard)
+      ko: ~에 대해 (표준)
+    gender: null
+    plural: null
+    notes:
+      en: "Standard topic introduction. Less formal than に関して."
+      ko: "표준 주제 소개. に関して보다 덜 격식적."
+  - japanese: に対して
+    reading: にたいして
+    translation:
+      en: toward, against, in contrast to
+      ko: ~에 대해, ~에 비해
+    gender: null
+    plural: null
+    notes:
+      en: "Direction of action or attitude. 教育に対して批判がある."
+      ko: "행동이나 태도의 방향. 教育に対して批判がある."
+  - japanese: をめぐって
+    reading: null
+    translation:
+      en: surrounding, concerning (debated topic)
+      ko: ~을 둘러싸고 (논란의 주제)
+    gender: null
+    plural: null
+    notes:
+      en: "For controversial/debated topics. 教育をめぐって議論が起きている."
+      ko: "논쟁적/토론적 주제에 사용. 教育をめぐって議論が起きている."
+  - japanese: によって
+    reading: null
+    translation:
+      en: by means of, depending on
+      ko: ~에 의해, ~에 따라
+    gender: null
+    plural: null
+    notes:
+      en: "Method/agent or variation. 方法によって結果が変わる."
+      ko: "방법/행위자 또는 변동. 方法によって結果が変わる."
+  - japanese: 病気がち
+    reading: びょうきがち
+    translation:
+      en: tends to be sickly
+      ko: 병치레가 잦은
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + がち. Habitual negative tendency."
+      ko: "명사 + がち. 습관적 부정 경향."
+  - japanese: 飽きっぽい
+    reading: あきっぽい
+    translation:
+      en: fickle, easily bored
+      ko: 싫증을 잘 내는
+    gender: null
+    plural: null
+    notes:
+      en: "Verb-stem + っぽい. Personality trait: tends to get bored quickly."
+      ko: "동사어간 + っぽい. 성격 특성: 쉽게 싫증을 내는."
+  - japanese: 水っぽい
+    reading: みずっぽい
+    translation:
+      en: watery (too thin)
+      ko: 물 같은, 싱거운
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + っぽい. Describing food/soup that is too watery."
+      ko: "명사 + っぽい. 너무 묽은 음식/국을 묘사."
+  - japanese: 黒っぽい
+    reading: くろっぽい
+    translation:
+      en: darkish, blackish
+      ko: 거무스름한
+    gender: null
+    plural: null
+    notes:
+      en: "Adjective-stem + っぽい for approximate color."
+      ko: "형용사어간 + っぽい. 대략적인 색상 표현."
+  - japanese: 大人っぽい
+    reading: おとなっぽい
+    translation:
+      en: mature-looking, grown-up-ish
+      ko: 어른스러운
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + っぽい. Can be positive unlike 子供っぽい."
+      ko: "명사 + っぽい. 子供っぽい와 달리 긍정적일 수 있음."
+  - japanese: 嘘っぽい
+    reading: うそっぽい
+    translation:
+      en: seems like a lie, fishy
+      ko: 거짓말 같은, 수상한
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + っぽい. あの話は嘘っぽい."
+      ko: "명사 + っぽい. あの話は嘘っぽい."
+  - japanese: 男っぽい
+    reading: おとこっぽい
+    translation:
+      en: masculine, manly
+      ko: 남자다운
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + っぽい. Describes masculine appearance or behavior."
+      ko: "명사 + っぽい. 남성적 외모나 행동을 묘사."
+  - japanese: 曇りがち
+    reading: くもりがち
+    translation:
+      en: tends to be cloudy
+      ko: 흐린 날이 많은
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + がち. 冬は曇りがちだ."
+      ko: "명사 + がち. 冬は曇りがちだ."
+  - japanese: 留守がち
+    reading: るすがち
+    translation:
+      en: tends to be away from home
+      ko: 자주 외출하는, 집을 자주 비우는
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + がち. 最近留守がちだ."
+      ko: "명사 + がち. 最近留守がちだ."
+  - japanese: 不足がち
+    reading: ふそくがち
+    translation:
+      en: tends to be insufficient/lacking
+      ko: 부족하기 쉬운
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + がち. 睡眠が不足がちだ."
+      ko: "명사 + がち. 睡眠が不足がちだ."
+  - japanese: らしい
+    reading: null
+    translation:
+      en: typical of, -like (positive quality)
+      ko: ~답다 (긍정적 특성)
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + らしい. Positive nuance, unlike っぽい. Conjugates as い-adjective."
+      ko: "명사 + らしい. っぽい와 달리 긍정적 뉘앙스. い형용사로 활용."
+  - japanese: 男らしい
+    reading: おとこらしい
+    translation:
+      en: manly, masculine (positive)
+      ko: 남자답다 (긍정적)
+    gender: null
+    plural: null
+    notes:
+      en: "Contrast: 男っぽい (neutral/negative) vs 男らしい (positive)."
+      ko: "비교: 男っぽい (중립/부정) vs 男らしい (긍정)."
+  - japanese: 学生らしい
+    reading: がくせいらしい
+    translation:
+      en: student-like, befitting a student
+      ko: 학생답다
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + らしい. 学生らしい態度."
+      ko: "명사 + らしい. 学生らしい態度."
+  - japanese: 春らしい
+    reading: はるらしい
+    translation:
+      en: spring-like, typical of spring
+      ko: 봄답다
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + らしい. 春らしい天気になった."
+      ko: "명사 + らしい. 春らしい天気になった."
+  - japanese: 自分らしい
+    reading: じぶんらしい
+    translation:
+      en: true to oneself, being yourself
+      ko: 자기답다
+    gender: null
+    plural: null
+    notes:
+      en: "Noun + らしい. 自分らしく生きる (live true to yourself)."
+      ko: "명사 + らしい. 自分らしく生きる (자기답게 살다)."
+  - japanese: わけがない
+    reading: null
+    translation:
+      en: there is no way that, impossible
+      ko: ~할 리가 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Plain form + わけがない. Denies possibility. そんなわけがない."
+      ko: "보통형 + わけがない. 가능성 부정. そんなわけがない."
+  - japanese: わけにはいかない
+    reading: null
+    translation:
+      en: cannot (due to social/moral reasons)
+      ko: ~할 수 없다 (사회적/도덕적 이유로)
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary form + わけにはいかない. 約束したから行かないわけにはいかない."
+      ko: "사전형 + わけにはいかない. 약속했으니 가지 않을 수 없다."
+  - japanese: ことになる
+    reading: null
+    translation:
+      en: it has been decided that, it turns out
+      ko: ~하게 되다, ~하기로 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary/ない form + ことになる. External decision. 来月転勤することになった."
+      ko: "사전형/ない형 + ことになる. 외부적 결정. 来月転勤することになった."
+  - japanese: ことにする
+    reading: null
+    translation:
+      en: to decide to
+      ko: ~하기로 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary/ない form + ことにする. Own decision. 毎日運動することにした."
+      ko: "사전형/ない형 + ことにする. 자신의 결정. 毎日運動することにした."
+  - japanese: ようにする
+    reading: null
+    translation:
+      en: to make an effort to, to try to
+      ko: ~하도록 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary/ない form + ようにする. Habitual effort. 早く寝るようにしている."
+      ko: "사전형/ない형 + ようにする. 습관적 노력. 早く寝るようにしている."
+  - japanese: ようになる
+    reading: null
+    translation:
+      en: to come to, to become able to
+      ko: ~하게 되다 (능력/상태 변화)
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary/ない form + ようになる. Gradual change. 漢字が読めるようになった."
+      ko: "사전형/ない형 + ようになる. 점진적 변화. 漢字が読めるようになった."
+  - japanese: ものだ
+    reading: null
+    translation:
+      en: used to (nostalgia), should (general truth)
+      ko: ~하곤 했다 (향수), ~해야 한다 (일반적 진리)
+    gender: null
+    plural: null
+    notes:
+      en: "Past tense = nostalgia: 子供の頃よく遊んだものだ. Present = general truth."
+      ko: "과거형 = 향수: 子供の頃よく遊んだものだ. 현재형 = 일반적 진리."
+  - japanese: ものではない
+    reading: null
+    translation:
+      en: should not (general admonition)
+      ko: ~해서는 안 된다 (일반적 훈계)
+    gender: null
+    plural: null
+    notes:
+      en: "Dictionary form + ものではない. 人の悪口を言うものではない."
+      ko: "사전형 + ものではない. 人の悪口を言うものではない."
+- id: conditional_expressions
+  label:
+    en: Conditional and Hypothetical Patterns
+    ko: 조건 및 가정 표현
+  type: vocabulary
+  words:
+  - japanese: としたら
+    reading: null
+    translation:
+      en: if we assume that, supposing
+      ko: ~한다면, ~라고 가정하면
+    gender: null
+    plural: null
+    notes:
+      en: "Hypothetical condition. もし宝くじに当たったとしたら."
+      ko: "가정적 조건. もし宝くじに当たったとしたら."
+  - japanese: としても
+    reading: null
+    translation:
+      en: even if, even assuming
+      ko: ~한다 해도, ~라고 해도
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive hypothetical. 失敗したとしても、経験にはなる."
+      ko: "양보 가정. 失敗したとしても、経験にはなる."
+  - japanese: からには
+    reading: null
+    translation:
+      en: since, now that (with resolve)
+      ko: ~하는 이상, ~한 이상
+    gender: null
+    plural: null
+    notes:
+      en: "Strong determination. やると決めたからには最後までやる."
+      ko: "강한 결의. やると決めたからには最後までやる."
+  - japanese: 以上は
+    reading: いじょうは
+    translation:
+      en: now that, since (formal)
+      ko: ~한 이상 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Similar to からには but more formal. 約束した以上は守るべきだ."
+      ko: "からには와 유사하지만 더 격식적. 約束した以上は守るべきだ."
+  - japanese: からこそ
+    reading: null
+    translation:
+      en: precisely because
+      ko: ~이기 때문에야말로
+    gender: null
+    plural: null
+    notes:
+      en: "Emphasizes reason. 好きだからこそ厳しく言う."
+      ko: "이유 강조. 好きだからこそ厳しく言う."
+  - japanese: ばかりか
+    reading: null
+    translation:
+      en: not only ... but also
+      ko: ~뿐만 아니라
+    gender: null
+    plural: null
+    notes:
+      en: "Escalation pattern. 成績が悪いばかりか、欠席も多い."
+      ko: "단계적 상승 패턴. 成績が悪いばかりか、欠席も多い."
+  - japanese: ばかりに
+    reading: null
+    translation:
+      en: just because (with regret)
+      ko: ~했기 때문에 (후회)
+    gender: null
+    plural: null
+    notes:
+      en: "Regret/blame pattern. 遅刻したばかりにチャンスを逃した."
+      ko: "후회/원인 패턴. 遅刻したばかりにチャンスを逃した."
+  - japanese: ないことには
+    reading: null
+    translation:
+      en: unless, without doing
+      ko: ~하지 않으면, ~하지 않고서는
+    gender: null
+    plural: null
+    notes:
+      en: "ない form + ことには. やってみないことには分からない."
+      ko: "ない형 + ことには. やってみないことには分からない."
+  - japanese: どころか
+    reading: null
+    translation:
+      en: far from, let alone
+      ko: ~은커녕, ~은 고사하고
+    gender: null
+    plural: null
+    notes:
+      en: "Exceeds expectation. 休みどころか、残業ばかりだ."
+      ko: "기대를 초과. 休みどころか、残業ばかりだ."
+  - japanese: どころではない
+    reading: null
+    translation:
+      en: in no position to, not the time for
+      ko: ~할 상황이 아니다
+    gender: null
+    plural: null
+    notes:
+      en: "花見どころではない (This is no time for cherry blossom viewing)."
+      ko: "花見どころではない (꽃구경할 상황이 아니다)."
+  - japanese: ものの
+    reading: null
+    translation:
+      en: although, even though (formal)
+      ko: ~하기는 하지만 (격식)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal concession. 買ったものの一度も使っていない."
+      ko: "격식적 양보. 買ったものの一度も使っていない."
+  - japanese: にしても
+    reading: null
+    translation:
+      en: even if, even in the case of
+      ko: ~하더라도, ~라 하더라도
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive. 忙しいにしても連絡くらいはできるだろう."
+      ko: "양보. 忙しいにしても連絡くらいはできるだろう."
+  - japanese: とはいえ
+    reading: null
+    translation:
+      en: having said that, nonetheless
+      ko: 그렇다고는 해도, 그렇지만
+    gender: null
+    plural: null
+    notes:
+      en: "Concessive connector. 安いとはいえ品質は良い."
+      ko: "양보 접속. 安いとはいえ品質は良い."
+  - japanese: かと思うと
+    reading: null
+    translation:
+      en: just when you think, no sooner than
+      ko: ~하는가 싶더니
+    gender: null
+    plural: null
+    notes:
+      en: "Sudden change. 泣いたかと思うと急に笑い出した."
+      ko: "갑작스러운 변화. 泣いたかと思うと急に笑い出した."
+  - japanese: とたん
+    reading: null
+    translation:
+      en: the moment, as soon as
+      ko: ~하자마자
+    gender: null
+    plural: null
+    notes:
+      en: "た form + とたん(に). 立ち上がったとたんに倒れた."
+      ko: "た형 + とたん(に). 立ち上がったとたんに倒れた."
+  - japanese: に限って
+    reading: にかぎって
+    translation:
+      en: only when, it's always the case that (ironic)
+      ko: ~에 한해서 (아이러니)
+    gender: null
+    plural: null
+    notes:
+      en: "Ironic pattern. 傘を持ってない日に限って雨が降る."
+      ko: "아이러니 패턴. 우산을 안 가지고 온 날에 한해서 비가 온다."
+  - japanese: くせに
+    reading: null
+    translation:
+      en: even though, in spite of (critical)
+      ko: ~하면서도, ~주제에 (비판적)
+    gender: null
+    plural: null
+    notes:
+      en: "Critical/blaming tone. 知っているくせに教えてくれない."
+      ko: "비판적/비난 어조. 知っているくせに教えてくれない."
+  - japanese: たところ
+    reading: null
+    translation:
+      en: when I did, upon doing (result)
+      ko: ~했더니 (결과)
+    gender: null
+    plural: null
+    notes:
+      en: "た form + ところ. 調べたところ問題が見つかった."
+      ko: "た형 + ところ. 調べたところ問題が見つかった."
+  - japanese: ところで
+    reading: null
+    translation:
+      en: by the way, even if (two meanings)
+      ko: 그런데 / ~한다 해도
+    gender: null
+    plural: null
+    notes:
+      en: "As connector: changes topic. As grammar: たところで (even if)."
+      ko: "접속사: 화제 전환. 문법: たところで (~한다 해도)."
+  - japanese: にかけては
+    reading: null
+    translation:
+      en: when it comes to (expertise)
+      ko: ~에 관해서는 (전문성)
+    gender: null
+    plural: null
+    notes:
+      en: "Highlights expertise. 料理にかけては誰にも負けない."
+      ko: "전문성 강조. 料理にかけては誰にも負けない."
+  - japanese: 上で
+    reading: うえで
+    translation:
+      en: after doing, upon, in (purpose)
+      ko: ~한 후에, ~하는 데 있어서
+    gender: null
+    plural: null
+    notes:
+      en: "Two uses: た上で (after), dictionary form + 上で (in/for purpose)."
+      ko: "두 가지 용법: た上で (~한 후에), 사전형 + 上で (~하는 데 있어서)."
+  - japanese: に伴って
+    reading: にともなって
+    translation:
+      en: along with, as (accompaniment)
+      ko: ~에 따라, ~와 함께
+    gender: null
+    plural: null
+    notes:
+      en: "Formal. 経済成長に伴って環境問題が増えた."
+      ko: "격식적. 경제 성장에 따라 환경 문제가 늘었다."
+  - japanese: に基づいて
+    reading: にもとづいて
+    translation:
+      en: based on
+      ko: ~에 근거하여, ~를 바탕으로
+    gender: null
+    plural: null
+    notes:
+      en: "Formal. データに基づいて判断する. Also: に基づく + noun."
+      ko: "격식적. 데이터에 근거하여 판단하다. 또한: に基づく + 명사."
+  - japanese: に応じて
+    reading: におうじて
+    translation:
+      en: in response to, according to
+      ko: ~에 따라, ~에 응하여
+    gender: null
+    plural: null
+    notes:
+      en: "Proportional response. 能力に応じて給料が決まる."
+      ko: "비례적 대응. 能力に応じて給料が決まる."
+  - japanese: に沿って
+    reading: にそって
+    translation:
+      en: along, in accordance with
+      ko: ~을 따라, ~에 따라
+    gender: null
+    plural: null
+    notes:
+      en: "Following a plan/path. 計画に沿って進める."
+      ko: "계획/경로를 따름. 計画に沿って進める."
+  - japanese: をはじめ
+    reading: null
+    translation:
+      en: starting with, including
+      ko: ~을 비롯하여
+    gender: null
+    plural: null
+    notes:
+      en: "Lists representative examples. 東京をはじめ大都市で."
+      ko: "대표적 예시 열거. 東京をはじめ大都市で."
+  - japanese: に先立って
+    reading: にさきだって
+    translation:
+      en: prior to, before
+      ko: ~에 앞서
+    gender: null
+    plural: null
+    notes:
+      en: "Formal. 会議に先立って資料を配布した."
+      ko: "격식적. 회의에 앞서 자료를 배포했다."
+  - japanese: 次第
+    reading: しだい
+    translation:
+      en: as soon as, depending on
+      ko: ~하는 대로, ~에 달려 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Two uses: masu-stem + 次第 (as soon as), noun + 次第 (depending on)."
+      ko: "두 용법: ます어간 + 次第 (~하는 대로), 명사 + 次第 (~에 달려 있다)."
+  - japanese: つつある
+    reading: null
+    translation:
+      en: in the process of, gradually
+      ko: ~하고 있다, ~하는 중이다 (점진적)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal progressive. 状況は改善しつつある."
+      ko: "격식적 진행형. 状況は改善しつつある."
+  - japanese: つつも
+    reading: null
+    translation:
+      en: while, although (contradiction)
+      ko: ~하면서도 (모순)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal concessive. 知りつつも何もしなかった."
+      ko: "격식적 양보. 知りつつも何もしなかった."
+  - japanese: を問わず
+    reading: をとわず
+    translation:
+      en: regardless of
+      ko: ~을 불문하고, ~에 관계없이
+    gender: null
+    plural: null
+    notes:
+      en: "Formal. 年齢を問わず参加できる."
+      ko: "격식적. 年齢を問わず参加できる."
