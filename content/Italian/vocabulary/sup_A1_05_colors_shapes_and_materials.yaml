@@ -1,0 +1,841 @@
+lesson: "sup_A1_Colors_Shapes_and_Materials"
+lesson_number: 105
+cefr: A1
+type: supplementary
+topic: "Colors, Shapes, and Materials"
+categories:
+- id: colors
+  label:
+    en: "Colors"
+    ko: "색상"
+  type: vocabulary
+  words:
+  - italian: "rosso"
+    translation:
+      en: "red"
+      ko: "빨간색"
+    gender: null
+    notes:
+      en: "Agrees with noun: rosso/rossa/rossi/rosse"
+      ko: "명사에 따라 변화: rosso/rossa/rossi/rosse"
+  - italian: "arancione"
+    translation:
+      en: "orange"
+      ko: "주황색"
+    gender: null
+    notes:
+      en: "Invariable: does not change with gender/number"
+      ko: "불변: 성/수에 따라 변하지 않음"
+  - italian: "giallo"
+    translation:
+      en: "yellow"
+      ko: "노란색"
+    gender: null
+  - italian: "verde"
+    translation:
+      en: "green"
+      ko: "초록색"
+    gender: null
+  - italian: "blu"
+    translation:
+      en: "blue (dark)"
+      ko: "파란색 (진한)"
+    gender: null
+    notes:
+      en: "Invariable; for lighter blue use azzurro"
+      ko: "불변형; 연한 파란색은 azzurro"
+  - italian: "azzurro"
+    translation:
+      en: "light blue / sky blue"
+      ko: "하늘색"
+    gender: null
+    notes:
+      en: "Color of Italy's national sports teams (gli Azzurri)"
+      ko: "이탈리아 국가대표팀의 색 (gli Azzurri)"
+  - italian: "viola"
+    translation:
+      en: "purple / violet"
+      ko: "보라색"
+    gender: null
+    notes:
+      en: "Invariable when used as a color"
+      ko: "색상으로 쓸 때 불변"
+  - italian: "rosa"
+    translation:
+      en: "pink"
+      ko: "분홍색"
+    gender: null
+    notes:
+      en: "Invariable when used as a color"
+      ko: "색상으로 쓸 때 불변"
+  - italian: "marrone"
+    translation:
+      en: "brown"
+      ko: "갈색"
+    gender: null
+    notes:
+      en: "Invariable; from marrone (chestnut)"
+      ko: "불변형; marrone(밤)에서 유래"
+  - italian: "nero"
+    translation:
+      en: "black"
+      ko: "검은색"
+    gender: null
+  - italian: "bianco"
+    translation:
+      en: "white"
+      ko: "흰색"
+    gender: null
+  - italian: "grigio"
+    translation:
+      en: "gray"
+      ko: "회색"
+    gender: null
+  - italian: "oro"
+    translation:
+      en: "gold"
+      ko: "금색"
+    gender: null
+    notes:
+      en: "Invariable as a color adjective"
+      ko: "색상 형용사로 쓸 때 불변"
+  - italian: "argento"
+    translation:
+      en: "silver"
+      ko: "은색"
+    gender: null
+    notes:
+      en: "Invariable as a color adjective"
+      ko: "색상 형용사로 쓸 때 불변"
+  - italian: "chiaro"
+    translation:
+      en: "light (color)"
+      ko: "밝은"
+    gender: null
+    notes:
+      en: "verde chiaro = light green"
+      ko: "verde chiaro = 연두색"
+  - italian: "scuro"
+    translation:
+      en: "dark (color)"
+      ko: "어두운"
+    gender: null
+    notes:
+      en: "rosso scuro = dark red"
+      ko: "rosso scuro = 진한 빨간색"
+- id: shapes
+  label:
+    en: "Shapes"
+    ko: "도형"
+  type: vocabulary
+  words:
+  - italian: "il cerchio"
+    translation:
+      en: "circle"
+      ko: "원"
+    gender: m
+  - italian: "il quadrato"
+    translation:
+      en: "square"
+      ko: "정사각형"
+    gender: m
+  - italian: "il triangolo"
+    translation:
+      en: "triangle"
+      ko: "삼각형"
+    gender: m
+  - italian: "il rettangolo"
+    translation:
+      en: "rectangle"
+      ko: "직사각형"
+    gender: m
+  - italian: "la stella"
+    translation:
+      en: "star"
+      ko: "별"
+    gender: f
+  - italian: "il cuore"
+    translation:
+      en: "heart"
+      ko: "하트 / 심장"
+    gender: m
+  - italian: "la freccia"
+    translation:
+      en: "arrow"
+      ko: "화살표"
+    gender: f
+  - italian: "la linea"
+    translation:
+      en: "line"
+      ko: "선"
+    gender: f
+  - italian: "il punto"
+    translation:
+      en: "point / dot"
+      ko: "점"
+    gender: m
+  - italian: "la curva"
+    translation:
+      en: "curve"
+      ko: "곡선"
+    gender: f
+  - italian: "la sfera"
+    translation:
+      en: "sphere"
+      ko: "구"
+    gender: f
+  - italian: "il cubo"
+    translation:
+      en: "cube"
+      ko: "정육면체"
+    gender: m
+  - italian: "l'ovale"
+    translation:
+      en: "oval"
+      ko: "타원"
+    gender: m
+  - italian: "il rombo"
+    translation:
+      en: "rhombus / diamond"
+      ko: "마름모"
+    gender: m
+  - italian: "rotondo"
+    translation:
+      en: "round"
+      ko: "둥근"
+    gender: null
+  - italian: "dritto"
+    translation:
+      en: "straight"
+      ko: "곧은"
+    gender: null
+- id: materials
+  label:
+    en: "Materials"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - italian: "il legno"
+    translation:
+      en: "wood"
+      ko: "나무 / 목재"
+    gender: m
+  - italian: "il ferro"
+    translation:
+      en: "iron"
+      ko: "철"
+    gender: m
+  - italian: "l'acciaio"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: m
+  - italian: "il vetro"
+    translation:
+      en: "glass"
+      ko: "유리"
+    gender: m
+  - italian: "la plastica"
+    translation:
+      en: "plastic"
+      ko: "플라스틱"
+    gender: f
+  - italian: "la carta"
+    translation:
+      en: "paper"
+      ko: "종이"
+    gender: f
+    notes:
+      en: "Also means card, map"
+      ko: "카드, 지도라는 뜻도 있음"
+  - italian: "il tessuto"
+    translation:
+      en: "fabric / textile"
+      ko: "직물"
+    gender: m
+  - italian: "il cotone"
+    translation:
+      en: "cotton"
+      ko: "면"
+    gender: m
+  - italian: "la lana"
+    translation:
+      en: "wool"
+      ko: "양모"
+    gender: f
+  - italian: "la seta"
+    translation:
+      en: "silk"
+      ko: "비단"
+    gender: f
+    notes:
+      en: "Italy is historically famous for silk production"
+      ko: "이탈리아는 역사적으로 비단 생산으로 유명"
+  - italian: "la pelle"
+    translation:
+      en: "leather / skin"
+      ko: "가죽 / 피부"
+    gender: f
+    notes:
+      en: "Italian leather goods are world-renowned"
+      ko: "이탈리아 가죽 제품은 세계적으로 유명"
+  - italian: "la pietra"
+    translation:
+      en: "stone"
+      ko: "돌"
+    gender: f
+  - italian: "il cemento"
+    translation:
+      en: "cement / concrete"
+      ko: "시멘트"
+    gender: m
+  - italian: "l'oro"
+    translation:
+      en: "gold (material)"
+      ko: "금"
+    gender: m
+  - italian: "l'argento"
+    translation:
+      en: "silver (material)"
+      ko: "은"
+    gender: m
+  - italian: "il marmo"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: m
+    notes:
+      en: "Carrara marble is world-famous"
+      ko: "카라라 대리석은 세계적으로 유명"
+  - italian: "il rame"
+    translation:
+      en: "copper"
+      ko: "구리"
+    gender: m
+  - italian: "la ceramica"
+    translation:
+      en: "ceramic"
+      ko: "도자기"
+    gender: f
+- id: textures
+  label:
+    en: "Textures and Properties"
+    ko: "질감과 속성"
+  type: vocabulary
+  words:
+  - italian: "liscio"
+    translation:
+      en: "smooth"
+      ko: "매끄러운"
+    gender: null
+  - italian: "ruvido"
+    translation:
+      en: "rough"
+      ko: "거친"
+    gender: null
+  - italian: "morbido"
+    translation:
+      en: "soft"
+      ko: "부드러운"
+    gender: null
+  - italian: "duro"
+    translation:
+      en: "hard"
+      ko: "딱딱한"
+    gender: null
+  - italian: "leggero"
+    translation:
+      en: "light (weight)"
+      ko: "가벼운"
+    gender: null
+  - italian: "pesante"
+    translation:
+      en: "heavy"
+      ko: "무거운"
+    gender: null
+  - italian: "spesso"
+    translation:
+      en: "thick"
+      ko: "두꺼운"
+    gender: null
+    notes:
+      en: "As adverb means 'often'"
+      ko: "부사로는 '자주'라는 뜻"
+  - italian: "sottile"
+    translation:
+      en: "thin"
+      ko: "얇은"
+    gender: null
+  - italian: "bagnato"
+    translation:
+      en: "wet"
+      ko: "젖은"
+    gender: null
+  - italian: "asciutto"
+    translation:
+      en: "dry"
+      ko: "마른"
+    gender: null
+  - italian: "fragile"
+    translation:
+      en: "fragile"
+      ko: "깨지기 쉬운"
+    gender: null
+  - italian: "resistente"
+    translation:
+      en: "resistant / durable"
+      ko: "튼튼한"
+    gender: null
+  - italian: "trasparente"
+    translation:
+      en: "transparent"
+      ko: "투명한"
+    gender: null
+  - italian: "opaco"
+    translation:
+      en: "opaque"
+      ko: "불투명한"
+    gender: null
+  - italian: "elastico"
+    translation:
+      en: "elastic / stretchy"
+      ko: "탄력 있는"
+    gender: null
+  - italian: "rigido"
+    translation:
+      en: "rigid / stiff"
+      ko: "딱딱한 / 경직된"
+    gender: null
+  - italian: "caldo"
+    translation:
+      en: "warm (to touch)"
+      ko: "따뜻한"
+    gender: null
+  - italian: "freddo"
+    translation:
+      en: "cold (to touch)"
+      ko: "차가운"
+    gender: null
+  - italian: "lucido"
+    translation:
+      en: "shiny / glossy"
+      ko: "반짝이는 / 광택이 나는"
+    gender: null
+  - italian: "opaco"
+    translation:
+      en: "matte / dull"
+      ko: "무광의"
+    gender: null
+  - italian: "poroso"
+    translation:
+      en: "porous"
+      ko: "다공성의"
+    gender: null
+  - italian: "impermeabile"
+    translation:
+      en: "waterproof"
+      ko: "방수의"
+    gender: null
+  - italian: "naturale"
+    translation:
+      en: "natural"
+      ko: "자연의"
+    gender: null
+  - italian: "artificiale"
+    translation:
+      en: "artificial / synthetic"
+      ko: "인공의"
+    gender: null
+  - italian: "riciclabile"
+    translation:
+      en: "recyclable"
+      ko: "재활용 가능한"
+    gender: null
+- id: patterns
+  label:
+    en: "Patterns and Designs"
+    ko: "무늬와 디자인"
+  type: vocabulary
+  words:
+  - italian: "a righe"
+    translation:
+      en: "striped"
+      ko: "줄무늬의"
+    gender: null
+  - italian: "a pois"
+    translation:
+      en: "polka-dotted"
+      ko: "물방울무늬의"
+    gender: null
+  - italian: "a quadri"
+    translation:
+      en: "checkered / plaid"
+      ko: "체크무늬의"
+    gender: null
+  - italian: "a fiori"
+    translation:
+      en: "floral"
+      ko: "꽃무늬의"
+    gender: null
+  - italian: "fantasia"
+    translation:
+      en: "patterned"
+      ko: "무늬가 있는"
+    gender: null
+  - italian: "tinta unita"
+    translation:
+      en: "solid color / plain"
+      ko: "단색의"
+    gender: null
+  - italian: "mimetico"
+    translation:
+      en: "camouflage"
+      ko: "위장무늬"
+    gender: null
+  - italian: "stampato"
+    translation:
+      en: "printed"
+      ko: "프린트된"
+    gender: null
+- id: descriptors
+  label:
+    en: "Size, Shape, and General Descriptors"
+    ko: "크기, 형태 및 일반 설명"
+  type: vocabulary
+  words:
+  - italian: "grande"
+    translation:
+      en: "big / large"
+      ko: "큰"
+    gender: null
+  - italian: "piccolo"
+    translation:
+      en: "small"
+      ko: "작은"
+    gender: null
+  - italian: "lungo"
+    translation:
+      en: "long"
+      ko: "긴"
+    gender: null
+  - italian: "corto"
+    translation:
+      en: "short"
+      ko: "짧은"
+    gender: null
+  - italian: "largo"
+    translation:
+      en: "wide"
+      ko: "넓은"
+    gender: null
+  - italian: "stretto"
+    translation:
+      en: "narrow / tight"
+      ko: "좁은"
+    gender: null
+  - italian: "alto"
+    translation:
+      en: "tall / high"
+      ko: "높은 / 키 큰"
+    gender: null
+  - italian: "basso"
+    translation:
+      en: "low / short"
+      ko: "낮은 / 키 작은"
+    gender: null
+  - italian: "profondo"
+    translation:
+      en: "deep"
+      ko: "깊은"
+    gender: null
+  - italian: "piatto"
+    translation:
+      en: "flat"
+      ko: "평평한"
+    gender: null
+  - italian: "vuoto"
+    translation:
+      en: "empty"
+      ko: "빈"
+    gender: null
+  - italian: "pieno"
+    translation:
+      en: "full"
+      ko: "가득 찬"
+    gender: null
+  - italian: "nuovo"
+    translation:
+      en: "new"
+      ko: "새로운"
+    gender: null
+  - italian: "vecchio"
+    translation:
+      en: "old"
+      ko: "오래된"
+    gender: null
+  - italian: "pulito"
+    translation:
+      en: "clean"
+      ko: "깨끗한"
+    gender: null
+  - italian: "sporco"
+    translation:
+      en: "dirty"
+      ko: "더러운"
+    gender: null
+  - italian: "aperto"
+    translation:
+      en: "open"
+      ko: "열린"
+    gender: null
+  - italian: "chiuso"
+    translation:
+      en: "closed"
+      ko: "닫힌"
+    gender: null
+  - italian: "diritto"
+    translation:
+      en: "straight"
+      ko: "곧은"
+    gender: null
+  - italian: "storto"
+    translation:
+      en: "crooked / bent"
+      ko: "구부러진"
+    gender: null
+  - italian: "uguale"
+    translation:
+      en: "equal / same"
+      ko: "같은"
+    gender: null
+  - italian: "diverso"
+    translation:
+      en: "different"
+      ko: "다른"
+    gender: null
+  - italian: "simile"
+    translation:
+      en: "similar"
+      ko: "비슷한"
+    gender: null
+  - italian: "opposto"
+    translation:
+      en: "opposite"
+      ko: "반대의"
+    gender: null
+  - italian: "intero"
+    translation:
+      en: "whole / entire"
+      ko: "전체의"
+    gender: null
+  - italian: "mezzo"
+    translation:
+      en: "half"
+      ko: "반"
+    gender: null
+  - italian: "doppio"
+    translation:
+      en: "double"
+      ko: "두 배의"
+    gender: null
+  - italian: "singolo"
+    translation:
+      en: "single"
+      ko: "단일의"
+    gender: null
+  - italian: "il bronzo"
+    translation:
+      en: "bronze"
+      ko: "청동"
+    gender: m
+  - italian: "lo stagno"
+    translation:
+      en: "tin"
+      ko: "주석"
+    gender: m
+  - italian: "il piombo"
+    translation:
+      en: "lead"
+      ko: "납"
+    gender: m
+  - italian: "l'alluminio"
+    translation:
+      en: "aluminum"
+      ko: "알루미늄"
+    gender: m
+  - italian: "la gomma"
+    translation:
+      en: "rubber / eraser"
+      ko: "고무 / 지우개"
+    gender: f
+  - italian: "il nylon"
+    translation:
+      en: "nylon"
+      ko: "나일론"
+    gender: m
+  - italian: "il lino"
+    translation:
+      en: "linen"
+      ko: "린넨"
+    gender: m
+  - italian: "il velluto"
+    translation:
+      en: "velvet"
+      ko: "벨벳"
+    gender: m
+  - italian: "il denim"
+    translation:
+      en: "denim"
+      ko: "데님"
+    gender: m
+  - italian: "il cristallo"
+    translation:
+      en: "crystal"
+      ko: "크리스탈"
+    gender: m
+  - italian: "la porcellana"
+    translation:
+      en: "porcelain"
+      ko: "도자기"
+    gender: f
+  - italian: "il granito"
+    translation:
+      en: "granite"
+      ko: "화강암"
+    gender: m
+  - italian: "l'ardesia"
+    translation:
+      en: "slate"
+      ko: "슬레이트 / 점판암"
+    gender: f
+  - italian: "il mattone"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: m
+  - italian: "la colla"
+    translation:
+      en: "glue"
+      ko: "풀 / 접착제"
+    gender: f
+  - italian: "la corda"
+    translation:
+      en: "rope / string"
+      ko: "밧줄 / 끈"
+    gender: f
+  - italian: "il filo"
+    translation:
+      en: "thread / wire"
+      ko: "실 / 와이어"
+    gender: m
+  - italian: "il nastro"
+    translation:
+      en: "ribbon / tape"
+      ko: "리본 / 테이프"
+    gender: m
+  - italian: "il cartone"
+    translation:
+      en: "cardboard"
+      ko: "판지"
+    gender: m
+  - italian: "la tela"
+    translation:
+      en: "canvas / cloth"
+      ko: "캔버스 / 천"
+    gender: f
+  - italian: "il cuoio"
+    translation:
+      en: "leather (thick)"
+      ko: "가죽 (두꺼운)"
+    gender: m
+  - italian: "la pelliccia"
+    translation:
+      en: "fur"
+      ko: "모피"
+    gender: f
+  - italian: "la fibra"
+    translation:
+      en: "fiber"
+      ko: "섬유"
+    gender: f
+  - italian: "il poliestere"
+    translation:
+      en: "polyester"
+      ko: "폴리에스터"
+    gender: m
+  - italian: "l'acciaio"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: m
+  - italian: "il cemento"
+    translation:
+      en: "cement / concrete"
+      ko: "시멘트 / 콘크리트"
+    gender: m
+  - italian: "la sabbia"
+    translation:
+      en: "sand"
+      ko: "모래"
+    gender: f
+  - italian: "l'argilla"
+    translation:
+      en: "clay"
+      ko: "점토"
+    gender: f
+  - italian: "il rame"
+    translation:
+      en: "copper"
+      ko: "구리"
+    gender: m
+  - italian: "l'ottone"
+    translation:
+      en: "brass"
+      ko: "황동"
+    gender: m
+  - italian: "il platino"
+    translation:
+      en: "platinum"
+      ko: "백금"
+    gender: m
+  - italian: "il diamante"
+    translation:
+      en: "diamond"
+      ko: "다이아몬드"
+    gender: m
+  - italian: "lo smeraldo"
+    translation:
+      en: "emerald"
+      ko: "에메랄드"
+    gender: m
+  - italian: "il rubino"
+    translation:
+      en: "ruby"
+      ko: "루비"
+    gender: m
+  - italian: "lo zaffiro"
+    translation:
+      en: "sapphire"
+      ko: "사파이어"
+    gender: m
+  - italian: "la perla"
+    translation:
+      en: "pearl"
+      ko: "진주"
+    gender: f
+  - italian: "il corallo"
+    translation:
+      en: "coral"
+      ko: "산호"
+    gender: m
+    notes:
+      en: "Coral jewelry is traditional in Naples and Sardinia"
+      ko: "산호 보석은 나폴리와 사르데냐의 전통"
+  - italian: "il marmo"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: m
+    notes:
+      en: "Italy's Carrara marble is world-famous"
+      ko: "이탈리아 카라라 대리석은 세계적으로 유명"

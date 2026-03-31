@@ -1,0 +1,977 @@
+lesson: "sup_A1_Animals_and_Nature"
+lesson_number: 101
+cefr: A1
+type: supplementary
+topic: "Animals and Nature"
+categories:
+- id: domestic_animals
+  label:
+    en: "Domestic Animals"
+    ko: "가축 및 반려동물"
+  type: vocabulary
+  words:
+  - italian: "il cane"
+    translation:
+      en: "dog"
+      ko: "개"
+    gender: m
+    notes:
+      en: "Most common pet in Italy"
+      ko: "이탈리아에서 가장 흔한 반려동물"
+  - italian: "il gatto"
+    translation:
+      en: "cat"
+      ko: "고양이"
+    gender: m
+    notes:
+      en: "la gatta for female cat"
+      ko: "암컷 고양이는 la gatta"
+  - italian: "il cavallo"
+    translation:
+      en: "horse"
+      ko: "말"
+    gender: m
+  - italian: "la mucca"
+    translation:
+      en: "cow"
+      ko: "소"
+    gender: f
+    notes:
+      en: "il bue for ox, il toro for bull"
+      ko: "황소는 il bue, 수소는 il toro"
+  - italian: "il maiale"
+    translation:
+      en: "pig"
+      ko: "돼지"
+    gender: m
+    notes:
+      en: "Also refers to pork as meat"
+      ko: "고기를 가리킬 때 돼지고기라는 뜻도 됨"
+  - italian: "la pecora"
+    translation:
+      en: "sheep"
+      ko: "양"
+    gender: f
+  - italian: "il coniglio"
+    translation:
+      en: "rabbit"
+      ko: "토끼"
+    gender: m
+  - italian: "la gallina"
+    translation:
+      en: "hen"
+      ko: "암탉"
+    gender: f
+    notes:
+      en: "il gallo for rooster"
+      ko: "수탉은 il gallo"
+  - italian: "l'asino"
+    translation:
+      en: "donkey"
+      ko: "당나귀"
+    gender: m
+    notes:
+      en: "Also used figuratively to mean stubborn person"
+      ko: "비유적으로 고집 센 사람을 뜻하기도 함"
+  - italian: "il gallo"
+    translation:
+      en: "rooster"
+      ko: "수탉"
+    gender: m
+  - italian: "il toro"
+    translation:
+      en: "bull"
+      ko: "황소"
+    gender: m
+  - italian: "la capra"
+    translation:
+      en: "goat"
+      ko: "염소"
+    gender: f
+  - italian: "l'agnello"
+    translation:
+      en: "lamb"
+      ko: "어린 양"
+    gender: m
+  - italian: "il vitello"
+    translation:
+      en: "calf"
+      ko: "송아지"
+    gender: m
+  - italian: "il puledro"
+    translation:
+      en: "foal / colt"
+      ko: "망아지"
+    gender: m
+  - italian: "la giumenta"
+    translation:
+      en: "mare"
+      ko: "암말"
+    gender: f
+  - italian: "il cucciolo"
+    translation:
+      en: "puppy"
+      ko: "강아지"
+    gender: m
+    notes:
+      en: "Also used for any baby animal"
+      ko: "어린 동물 전반에도 사용"
+  - italian: "il gattino"
+    translation:
+      en: "kitten"
+      ko: "새끼 고양이"
+    gender: m
+  - italian: "l'anatra"
+    translation:
+      en: "duck"
+      ko: "오리"
+    gender: f
+  - italian: "l'oca"
+    translation:
+      en: "goose"
+      ko: "거위"
+    gender: f
+  - italian: "il tacchino"
+    translation:
+      en: "turkey"
+      ko: "칠면조"
+    gender: m
+  - italian: "il topo"
+    translation:
+      en: "mouse"
+      ko: "쥐"
+    gender: m
+  - italian: "il criceto"
+    translation:
+      en: "hamster"
+      ko: "햄스터"
+    gender: m
+  - italian: "il porcellino d'India"
+    translation:
+      en: "guinea pig"
+      ko: "기니피그"
+    gender: m
+  - italian: "la tartaruga"
+    translation:
+      en: "turtle / tortoise"
+      ko: "거북이"
+    gender: f
+  - italian: "il pesce rosso"
+    translation:
+      en: "goldfish"
+      ko: "금붕어"
+    gender: m
+  - italian: "l'animale domestico"
+    translation:
+      en: "pet"
+      ko: "반려동물"
+    gender: m
+  - italian: "la gabbia"
+    translation:
+      en: "cage"
+      ko: "우리 / 새장"
+    gender: f
+  - italian: "la stalla"
+    translation:
+      en: "stable / barn"
+      ko: "마구간 / 축사"
+    gender: f
+  - italian: "la fattoria"
+    translation:
+      en: "farm"
+      ko: "농장"
+    gender: f
+  - italian: "la zampa"
+    translation:
+      en: "paw / leg (animal)"
+      ko: "발 / 다리 (동물)"
+    gender: f
+  - italian: "la coda"
+    translation:
+      en: "tail"
+      ko: "꼬리"
+    gender: f
+    notes:
+      en: "Also means queue / line"
+      ko: "줄(대기열)이라는 뜻도 있음"
+  - italian: "il guinzaglio"
+    translation:
+      en: "leash"
+      ko: "목줄"
+    gender: m
+  - italian: "il pelo"
+    translation:
+      en: "fur / hair (animal)"
+      ko: "털"
+    gender: m
+  - italian: "il nido"
+    translation:
+      en: "nest"
+      ko: "둥지"
+    gender: m
+  - italian: "la corna"
+    translation:
+      en: "horn (animal)"
+      ko: "뿔"
+    gender: f
+    notes:
+      en: "Singular: il corno; plural: le corna (irregular)"
+      ko: "단수: il corno; 복수: le corna (불규칙)"
+- id: wild_animals
+  label:
+    en: "Wild Animals"
+    ko: "야생 동물"
+  type: vocabulary
+  words:
+  - italian: "il leone"
+    translation:
+      en: "lion"
+      ko: "사자"
+    gender: m
+    notes:
+      en: "Symbol of Venice (leone di San Marco)"
+      ko: "베네치아의 상징 (산마르코의 사자)"
+  - italian: "la tigre"
+    translation:
+      en: "tiger"
+      ko: "호랑이"
+    gender: f
+  - italian: "l'orso"
+    translation:
+      en: "bear"
+      ko: "곰"
+    gender: m
+  - italian: "il lupo"
+    translation:
+      en: "wolf"
+      ko: "늑대"
+    gender: m
+    notes:
+      en: "Symbol of Rome (la lupa romana)"
+      ko: "로마의 상징 (로마의 암늑대)"
+  - italian: "la volpe"
+    translation:
+      en: "fox"
+      ko: "여우"
+    gender: f
+    notes:
+      en: "Also means a cunning person"
+      ko: "교활한 사람을 뜻하기도 함"
+  - italian: "il cervo"
+    translation:
+      en: "deer"
+      ko: "사슴"
+    gender: m
+  - italian: "il serpente"
+    translation:
+      en: "snake"
+      ko: "뱀"
+    gender: m
+  - italian: "l'elefante"
+    translation:
+      en: "elephant"
+      ko: "코끼리"
+    gender: m
+  - italian: "la scimmia"
+    translation:
+      en: "monkey"
+      ko: "원숭이"
+    gender: f
+  - italian: "la giraffa"
+    translation:
+      en: "giraffe"
+      ko: "기린"
+    gender: f
+  - italian: "la zebra"
+    translation:
+      en: "zebra"
+      ko: "얼룩말"
+    gender: f
+  - italian: "il coccodrillo"
+    translation:
+      en: "crocodile"
+      ko: "악어"
+    gender: m
+  - italian: "il delfino"
+    translation:
+      en: "dolphin"
+      ko: "돌고래"
+    gender: m
+  - italian: "la balena"
+    translation:
+      en: "whale"
+      ko: "고래"
+    gender: f
+  - italian: "lo squalo"
+    translation:
+      en: "shark"
+      ko: "상어"
+    gender: m
+  - italian: "il rinoceronte"
+    translation:
+      en: "rhinoceros"
+      ko: "코뿔소"
+    gender: m
+  - italian: "l'ippopotamo"
+    translation:
+      en: "hippopotamus"
+      ko: "하마"
+    gender: m
+  - italian: "il cammello"
+    translation:
+      en: "camel"
+      ko: "낙타"
+    gender: m
+  - italian: "il gorilla"
+    translation:
+      en: "gorilla"
+      ko: "고릴라"
+    gender: m
+  - italian: "la foca"
+    translation:
+      en: "seal"
+      ko: "물개"
+    gender: f
+  - italian: "il pinguino"
+    translation:
+      en: "penguin"
+      ko: "펭귄"
+    gender: m
+  - italian: "la rana"
+    translation:
+      en: "frog"
+      ko: "개구리"
+    gender: f
+  - italian: "il canguro"
+    translation:
+      en: "kangaroo"
+      ko: "캥거루"
+    gender: m
+  - italian: "il pipistrello"
+    translation:
+      en: "bat"
+      ko: "박쥐"
+    gender: m
+  - italian: "lo scoiattolo"
+    translation:
+      en: "squirrel"
+      ko: "다람쥐"
+    gender: m
+  - italian: "il cinghiale"
+    translation:
+      en: "wild boar"
+      ko: "멧돼지"
+    gender: m
+    notes:
+      en: "Common in Italian countryside"
+      ko: "이탈리아 시골에서 흔함"
+  - italian: "il daino"
+    translation:
+      en: "fallow deer"
+      ko: "다마사슴"
+    gender: m
+  - italian: "la lepre"
+    translation:
+      en: "hare"
+      ko: "산토끼"
+    gender: f
+  - italian: "il tasso"
+    translation:
+      en: "badger"
+      ko: "오소리"
+    gender: m
+  - italian: "la lontra"
+    translation:
+      en: "otter"
+      ko: "수달"
+    gender: f
+  - italian: "il polpo"
+    translation:
+      en: "octopus"
+      ko: "문어"
+    gender: m
+  - italian: "la medusa"
+    translation:
+      en: "jellyfish"
+      ko: "해파리"
+    gender: f
+  - italian: "il granchio"
+    translation:
+      en: "crab"
+      ko: "게"
+    gender: m
+  - italian: "il riccio"
+    translation:
+      en: "hedgehog"
+      ko: "고슴도치"
+    gender: m
+    notes:
+      en: "il riccio di mare = sea urchin"
+      ko: "il riccio di mare = 성게"
+  - italian: "il lupo mannaro"
+    translation:
+      en: "werewolf"
+      ko: "늑대인간"
+    gender: m
+  - italian: "la pantera"
+    translation:
+      en: "panther"
+      ko: "표범"
+    gender: f
+  - italian: "il leopardo"
+    translation:
+      en: "leopard"
+      ko: "표범"
+    gender: m
+- id: birds_insects
+  label:
+    en: "Birds and Insects"
+    ko: "새와 곤충"
+  type: vocabulary
+  words:
+  - italian: "l'uccello"
+    translation:
+      en: "bird"
+      ko: "새"
+    gender: m
+  - italian: "la colomba"
+    translation:
+      en: "dove"
+      ko: "비둘기"
+    gender: f
+    notes:
+      en: "Symbol of peace; il piccione for common pigeon"
+      ko: "평화의 상징; 일반 비둘기는 il piccione"
+  - italian: "l'aquila"
+    translation:
+      en: "eagle"
+      ko: "독수리"
+    gender: f
+    notes:
+      en: "Feminine noun; also the name of a city in Abruzzo"
+      ko: "여성 명사; 아브루초의 도시 이름이기도 함"
+  - italian: "il pappagallo"
+    translation:
+      en: "parrot"
+      ko: "앵무새"
+    gender: m
+  - italian: "la farfalla"
+    translation:
+      en: "butterfly"
+      ko: "나비"
+    gender: f
+    notes:
+      en: "Also a type of pasta (farfalle)"
+      ko: "파스타의 한 종류이기도 함 (파르팔레)"
+  - italian: "l'ape"
+    translation:
+      en: "bee"
+      ko: "벌"
+    gender: f
+  - italian: "la mosca"
+    translation:
+      en: "fly"
+      ko: "파리"
+    gender: f
+  - italian: "il ragno"
+    translation:
+      en: "spider"
+      ko: "거미"
+    gender: m
+  - italian: "la formica"
+    translation:
+      en: "ant"
+      ko: "개미"
+    gender: f
+  - italian: "la zanzara"
+    translation:
+      en: "mosquito"
+      ko: "모기"
+    gender: f
+  - italian: "il gufo"
+    translation:
+      en: "owl"
+      ko: "부엉이"
+    gender: m
+  - italian: "il cigno"
+    translation:
+      en: "swan"
+      ko: "백조"
+    gender: m
+  - italian: "la coccinella"
+    translation:
+      en: "ladybug"
+      ko: "무당벌레"
+    gender: f
+  - italian: "la lucciola"
+    translation:
+      en: "firefly"
+      ko: "반딧불이"
+    gender: f
+  - italian: "il piccione"
+    translation:
+      en: "pigeon"
+      ko: "비둘기"
+    gender: m
+  - italian: "il passero"
+    translation:
+      en: "sparrow"
+      ko: "참새"
+    gender: m
+  - italian: "la rondine"
+    translation:
+      en: "swallow"
+      ko: "제비"
+    gender: f
+  - italian: "il corvo"
+    translation:
+      en: "crow / raven"
+      ko: "까마귀"
+    gender: m
+  - italian: "il pettirosso"
+    translation:
+      en: "robin"
+      ko: "울새"
+    gender: m
+    notes:
+      en: "Literally 'red breast'"
+      ko: "직역하면 '붉은 가슴'"
+  - italian: "il falco"
+    translation:
+      en: "hawk / falcon"
+      ko: "매"
+    gender: m
+  - italian: "il fenicottero"
+    translation:
+      en: "flamingo"
+      ko: "플라밍고"
+    gender: m
+  - italian: "la vespa"
+    translation:
+      en: "wasp"
+      ko: "말벌"
+    gender: f
+    notes:
+      en: "Also the name of the famous Italian scooter brand"
+      ko: "유명한 이탈리아 스쿠터 브랜드 이름이기도 함"
+  - italian: "la libellula"
+    translation:
+      en: "dragonfly"
+      ko: "잠자리"
+    gender: f
+  - italian: "lo scarabeo"
+    translation:
+      en: "beetle"
+      ko: "딱정벌레"
+    gender: m
+  - italian: "la cavalletta"
+    translation:
+      en: "grasshopper"
+      ko: "메뚜기"
+    gender: f
+  - italian: "il bruco"
+    translation:
+      en: "caterpillar"
+      ko: "애벌레"
+    gender: m
+  - italian: "il verme"
+    translation:
+      en: "worm"
+      ko: "벌레 / 지렁이"
+    gender: m
+  - italian: "la falena"
+    translation:
+      en: "moth"
+      ko: "나방"
+    gender: f
+  - italian: "la cicala"
+    translation:
+      en: "cicada"
+      ko: "매미"
+    gender: f
+  - italian: "la pulce"
+    translation:
+      en: "flea"
+      ko: "벼룩"
+    gender: f
+  - italian: "la lumaca"
+    translation:
+      en: "snail / slug"
+      ko: "달팽이"
+    gender: f
+  - italian: "la zecca"
+    translation:
+      en: "tick"
+      ko: "진드기"
+    gender: f
+  - italian: "la piuma"
+    translation:
+      en: "feather"
+      ko: "깃털"
+    gender: f
+  - italian: "l'ala"
+    translation:
+      en: "wing"
+      ko: "날개"
+    gender: f
+    notes:
+      en: "Feminine but uses l' in singular; plural: le ali"
+      ko: "여성 명사; 복수형: le ali"
+  - italian: "il becco"
+    translation:
+      en: "beak"
+      ko: "부리"
+    gender: m
+- id: nature
+  label:
+    en: "Nature and Landscape"
+    ko: "자연과 풍경"
+  type: vocabulary
+  words:
+  - italian: "l'albero"
+    translation:
+      en: "tree"
+      ko: "나무"
+    gender: m
+  - italian: "il fiore"
+    translation:
+      en: "flower"
+      ko: "꽃"
+    gender: m
+  - italian: "l'erba"
+    translation:
+      en: "grass"
+      ko: "풀"
+    gender: f
+    notes:
+      en: "Also means herb"
+      ko: "허브라는 뜻도 있음"
+  - italian: "il bosco"
+    translation:
+      en: "forest / woods"
+      ko: "숲"
+    gender: m
+    notes:
+      en: "la foresta for a larger forest"
+      ko: "큰 숲은 la foresta"
+  - italian: "la montagna"
+    translation:
+      en: "mountain"
+      ko: "산"
+    gender: f
+  - italian: "il lago"
+    translation:
+      en: "lake"
+      ko: "호수"
+    gender: m
+    notes:
+      en: "Italy has many famous lakes: Como, Garda, Maggiore"
+      ko: "이탈리아에는 코모, 가르다, 마조레 등 유명한 호수가 많음"
+  - italian: "il fiume"
+    translation:
+      en: "river"
+      ko: "강"
+    gender: m
+  - italian: "il mare"
+    translation:
+      en: "sea"
+      ko: "바다"
+    gender: m
+  - italian: "la spiaggia"
+    translation:
+      en: "beach"
+      ko: "해변"
+    gender: f
+  - italian: "il cielo"
+    translation:
+      en: "sky"
+      ko: "하늘"
+    gender: m
+  - italian: "il sole"
+    translation:
+      en: "sun"
+      ko: "해"
+    gender: m
+  - italian: "la luna"
+    translation:
+      en: "moon"
+      ko: "달"
+    gender: f
+  - italian: "la stella"
+    translation:
+      en: "star"
+      ko: "별"
+    gender: f
+  - italian: "la collina"
+    translation:
+      en: "hill"
+      ko: "언덕"
+    gender: f
+  - italian: "il campo"
+    translation:
+      en: "field / countryside"
+      ko: "들판 / 시골"
+    gender: m
+  - italian: "la valle"
+    translation:
+      en: "valley"
+      ko: "계곡"
+    gender: f
+  - italian: "la cascata"
+    translation:
+      en: "waterfall"
+      ko: "폭포"
+    gender: f
+  - italian: "il deserto"
+    translation:
+      en: "desert"
+      ko: "사막"
+    gender: m
+  - italian: "la roccia"
+    translation:
+      en: "rock"
+      ko: "바위"
+    gender: f
+  - italian: "la foglia"
+    translation:
+      en: "leaf"
+      ko: "잎"
+    gender: f
+  - italian: "il seme"
+    translation:
+      en: "seed"
+      ko: "씨앗"
+    gender: m
+  - italian: "il ramo"
+    translation:
+      en: "branch"
+      ko: "가지"
+    gender: m
+  - italian: "la radice"
+    translation:
+      en: "root"
+      ko: "뿌리"
+    gender: f
+  - italian: "la rosa"
+    translation:
+      en: "rose"
+      ko: "장미"
+    gender: f
+  - italian: "il giardino"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+  - italian: "il prato"
+    translation:
+      en: "meadow / lawn"
+      ko: "초원 / 잔디밭"
+    gender: m
+  - italian: "la sabbia"
+    translation:
+      en: "sand"
+      ko: "모래"
+    gender: f
+  - italian: "l'oceano"
+    translation:
+      en: "ocean"
+      ko: "대양"
+    gender: m
+  - italian: "la costa"
+    translation:
+      en: "coast"
+      ko: "해안"
+    gender: f
+  - italian: "l'isola"
+    translation:
+      en: "island"
+      ko: "섬"
+    gender: f
+    notes:
+      en: "Italy has many famous islands: Sicilia, Sardegna, Capri"
+      ko: "이탈리아에는 시칠리아, 사르데냐, 카프리 등 유명한 섬이 많음"
+  - italian: "il vulcano"
+    translation:
+      en: "volcano"
+      ko: "화산"
+    gender: m
+    notes:
+      en: "Italy has active volcanoes: Vesuvio, Etna, Stromboli"
+      ko: "이탈리아에는 활화산이 있음: 베수비오, 에트나, 스트롬볼리"
+  - italian: "la natura"
+    translation:
+      en: "nature"
+      ko: "자연"
+    gender: f
+  - italian: "il paesaggio"
+    translation:
+      en: "landscape / scenery"
+      ko: "풍경"
+    gender: m
+  - italian: "la pianta"
+    translation:
+      en: "plant"
+      ko: "식물"
+    gender: f
+  - italian: "il tronco"
+    translation:
+      en: "trunk (tree)"
+      ko: "줄기 / 나무 몸통"
+    gender: m
+  - italian: "il pino"
+    translation:
+      en: "pine tree"
+      ko: "소나무"
+    gender: m
+  - italian: "l'olivo"
+    translation:
+      en: "olive tree"
+      ko: "올리브나무"
+    gender: m
+    notes:
+      en: "Very common in southern Italy"
+      ko: "남부 이탈리아에서 매우 흔함"
+  - italian: "la quercia"
+    translation:
+      en: "oak tree"
+      ko: "참나무"
+    gender: f
+  - italian: "il cactus"
+    translation:
+      en: "cactus"
+      ko: "선인장"
+    gender: m
+  - italian: "il girasole"
+    translation:
+      en: "sunflower"
+      ko: "해바라기"
+    gender: m
+    notes:
+      en: "Literally 'turns toward the sun'; fields in Tuscany"
+      ko: "직역하면 '태양을 향해 돈다'; 토스카나의 해바라기 밭"
+  - italian: "il tulipano"
+    translation:
+      en: "tulip"
+      ko: "튤립"
+    gender: m
+  - italian: "la margherita"
+    translation:
+      en: "daisy"
+      ko: "데이지"
+    gender: f
+    notes:
+      en: "Also a type of pizza"
+      ko: "피자 종류이기도 함"
+  - italian: "la palma"
+    translation:
+      en: "palm tree"
+      ko: "야자나무"
+    gender: f
+  - italian: "il cespuglio"
+    translation:
+      en: "bush / shrub"
+      ko: "관목 / 덤불"
+    gender: m
+  - italian: "il muschio"
+    translation:
+      en: "moss"
+      ko: "이끼"
+    gender: m
+  - italian: "la spina"
+    translation:
+      en: "thorn"
+      ko: "가시"
+    gender: f
+  - italian: "il petalo"
+    translation:
+      en: "petal"
+      ko: "꽃잎"
+    gender: m
+  - italian: "il polline"
+    translation:
+      en: "pollen"
+      ko: "꽃가루"
+    gender: m
+  - italian: "il vaso"
+    translation:
+      en: "flowerpot / vase"
+      ko: "화분 / 꽃병"
+    gender: m
+  - italian: "l'orto"
+    translation:
+      en: "vegetable garden"
+      ko: "텃밭"
+    gender: m
+  - italian: "la foresta"
+    translation:
+      en: "forest (large)"
+      ko: "큰 숲"
+    gender: f
+  - italian: "la selva"
+    translation:
+      en: "jungle / dense forest"
+      ko: "정글 / 울창한 숲"
+    gender: f
+  - italian: "il sentiero"
+    translation:
+      en: "trail / path"
+      ko: "오솔길 / 산책로"
+    gender: m
+  - italian: "la grotta"
+    translation:
+      en: "cave / grotto"
+      ko: "동굴"
+    gender: f
+  - italian: "l'arcobaleno"
+    translation:
+      en: "rainbow"
+      ko: "무지개"
+    gender: m
+  - italian: "l'onda"
+    translation:
+      en: "wave (ocean)"
+      ko: "파도"
+    gender: f
+  - italian: "l'orizzonte"
+    translation:
+      en: "horizon"
+      ko: "지평선 / 수평선"
+    gender: m
+  - italian: "la terra"
+    translation:
+      en: "earth / land / soil"
+      ko: "땅 / 흙"
+    gender: f
+    notes:
+      en: "La Terra (capitalized) = planet Earth"
+      ko: "대문자 La Terra = 지구"
+  - italian: "l'ambiente"
+    translation:
+      en: "environment"
+      ko: "환경"
+    gender: m
+  - italian: "il paesino"
+    translation:
+      en: "small village"
+      ko: "작은 마을"
+    gender: m
+  - italian: "la campagna"
+    translation:
+      en: "countryside"
+      ko: "시골"
+    gender: f
+  - italian: "innaffiare"
+    translation:
+      en: "to water (plants)"
+      ko: "물을 주다"
+    gender: null
+  - italian: "crescere"
+    translation:
+      en: "to grow"
+      ko: "자라다"
+    gender: null
+  - italian: "fiorire"
+    translation:
+      en: "to bloom / to flower"
+      ko: "꽃이 피다"
+    gender: null

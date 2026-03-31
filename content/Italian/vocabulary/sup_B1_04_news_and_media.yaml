@@ -1,0 +1,897 @@
+lesson: "sup_B1_News_and_Media"
+lesson_number: 304
+cefr: B1
+type: supplementary
+topic: "News and Media"
+categories:
+- id: media
+  label:
+    en: "Media"
+    ko: "미디어"
+  type: vocabulary
+  words:
+  - italian: "il giornale"
+    translation:
+      en: "newspaper"
+      ko: "신문"
+    gender: m
+  - italian: "la rivista"
+    translation:
+      en: "magazine"
+      ko: "잡지"
+    gender: f
+  - italian: "il telegiornale"
+    translation:
+      en: "TV news"
+      ko: "텔레비전 뉴스"
+    gender: m
+    notes:
+      en: "Abbreviation: il TG"
+      ko: "약어: il TG"
+  - italian: "la radio"
+    translation:
+      en: "radio"
+      ko: "라디오"
+    gender: f
+    notes:
+      en: "Invariable: la radio / le radio"
+      ko: "불변: la radio / le radio"
+  - italian: "il podcast"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+  - italian: "il blog"
+    translation:
+      en: "blog"
+      ko: "블로그"
+    gender: m
+  - italian: "il sito di notizie"
+    translation:
+      en: "news website"
+      ko: "뉴스 사이트"
+    gender: m
+  - italian: "il giornalista"
+    translation:
+      en: "journalist"
+      ko: "기자"
+    gender: m
+    notes:
+      en: "la giornalista for female"
+      ko: "여성형은 la giornalista"
+  - italian: "il reporter"
+    translation:
+      en: "reporter"
+      ko: "리포터"
+    gender: m
+    notes:
+      en: "la reporter for female; invariable"
+      ko: "여성형은 la reporter; 불변"
+  - italian: "l'inviato"
+    translation:
+      en: "correspondent / envoy"
+      ko: "특파원"
+    gender: m
+    notes:
+      en: "l'inviata for female; l'inviato speciale = special correspondent"
+      ko: "여성형은 l'inviata; l'inviato speciale = 특별 특파원"
+  - italian: "il corrispondente"
+    translation:
+      en: "correspondent"
+      ko: "통신원"
+    gender: m
+    notes:
+      en: "la corrispondente for female"
+      ko: "여성형은 la corrispondente"
+  - italian: "il redattore"
+    translation:
+      en: "editor"
+      ko: "편집자"
+    gender: m
+    notes:
+      en: "la redattrice for female"
+      ko: "여성형은 la redattrice"
+  - italian: "il direttore responsabile"
+    translation:
+      en: "editor-in-chief"
+      ko: "편집장"
+    gender: m
+  - italian: "l'editore"
+    translation:
+      en: "publisher"
+      ko: "발행인 / 출판사"
+    gender: m
+  - italian: "la redazione"
+    translation:
+      en: "editorial office / newsroom"
+      ko: "편집부"
+    gender: f
+  - italian: "l'edicola"
+    translation:
+      en: "newsstand"
+      ko: "신문 가판대"
+    gender: f
+  - italian: "il quotidiano"
+    translation:
+      en: "daily newspaper"
+      ko: "일간지"
+    gender: m
+  - italian: "il settimanale"
+    translation:
+      en: "weekly magazine"
+      ko: "주간지"
+    gender: m
+  - italian: "il mensile"
+    translation:
+      en: "monthly magazine"
+      ko: "월간지"
+    gender: m
+  - italian: "l'abbonamento"
+    translation:
+      en: "subscription"
+      ko: "구독"
+    gender: m
+- id: news
+  label:
+    en: "News Content"
+    ko: "뉴스 내용"
+  type: vocabulary
+  words:
+  - italian: "la notizia"
+    translation:
+      en: "news / piece of news"
+      ko: "뉴스 / 소식"
+    gender: f
+  - italian: "l'articolo"
+    translation:
+      en: "article"
+      ko: "기사"
+    gender: m
+  - italian: "il titolo"
+    translation:
+      en: "headline / title"
+      ko: "제목 / 헤드라인"
+    gender: m
+  - italian: "la cronaca"
+    translation:
+      en: "news report / chronicle"
+      ko: "기사 / 르포"
+    gender: f
+    notes:
+      en: "la cronaca nera = crime news; la cronaca rosa = gossip"
+      ko: "la cronaca nera = 범죄 뉴스; la cronaca rosa = 가십"
+  - italian: "l'intervista"
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: f
+  - italian: "l'inchiesta"
+    translation:
+      en: "investigation / report"
+      ko: "조사 보도 / 탐사"
+    gender: f
+  - italian: "il comunicato stampa"
+    translation:
+      en: "press release"
+      ko: "보도 자료"
+    gender: m
+  - italian: "la conferenza stampa"
+    translation:
+      en: "press conference"
+      ko: "기자 회견"
+    gender: f
+  - italian: "la fonte"
+    translation:
+      en: "source"
+      ko: "출처"
+    gender: f
+  - italian: "l'opinione"
+    translation:
+      en: "opinion"
+      ko: "의견"
+    gender: f
+  - italian: "l'editoriale"
+    translation:
+      en: "editorial"
+      ko: "사설"
+    gender: m
+  - italian: "il reportage"
+    translation:
+      en: "reportage / feature story"
+      ko: "르포르타주"
+    gender: m
+    notes:
+      en: "French loanword; pronounced /rɛpɔrˈtaʒ/"
+      ko: "프랑스어 차용어"
+  - italian: "l'ultima ora"
+    translation:
+      en: "breaking news"
+      ko: "속보"
+    gender: f
+    notes:
+      en: "Also: le ultime notizie"
+      ko: "또한: le ultime notizie"
+  - italian: "la prima pagina"
+    translation:
+      en: "front page"
+      ko: "1면"
+    gender: f
+  - italian: "il sommario"
+    translation:
+      en: "summary / table of contents"
+      ko: "요약 / 목차"
+    gender: m
+  - italian: "la rubrica"
+    translation:
+      en: "column / section"
+      ko: "칼럼 / 코너"
+    gender: f
+  - italian: "lo scoop"
+    translation:
+      en: "scoop / exclusive"
+      ko: "특종"
+    gender: m
+  - italian: "la fake news"
+    translation:
+      en: "fake news"
+      ko: "가짜 뉴스"
+    gender: f
+    notes:
+      en: "Also: le notizie false / la bufala (hoax)"
+      ko: "또한: le notizie false / la bufala (속임수)"
+- id: politics
+  label:
+    en: "Politics"
+    ko: "정치"
+  type: vocabulary
+  words:
+  - italian: "la politica"
+    translation:
+      en: "politics / policy"
+      ko: "정치 / 정책"
+    gender: f
+  - italian: "il governo"
+    translation:
+      en: "government"
+      ko: "정부"
+    gender: m
+  - italian: "il parlamento"
+    translation:
+      en: "parliament"
+      ko: "의회"
+    gender: m
+    notes:
+      en: "Italian Parliament has Camera dei Deputati and Senato"
+      ko: "이탈리아 의회는 하원(Camera dei Deputati)과 상원(Senato)으로 구성"
+  - italian: "il presidente"
+    translation:
+      en: "president"
+      ko: "대통령 / 의장"
+    gender: m
+    notes:
+      en: "la presidente / la presidentessa for female"
+      ko: "여성형은 la presidente / la presidentessa"
+  - italian: "il ministro"
+    translation:
+      en: "minister"
+      ko: "장관"
+    gender: m
+    notes:
+      en: "la ministra for female"
+      ko: "여성형은 la ministra"
+  - italian: "il sindaco"
+    translation:
+      en: "mayor"
+      ko: "시장"
+    gender: m
+    notes:
+      en: "la sindaca for female"
+      ko: "여성형은 la sindaca"
+  - italian: "le elezioni"
+    translation:
+      en: "elections"
+      ko: "선거"
+    gender: f
+    notes:
+      en: "Usually plural"
+      ko: "보통 복수형"
+  - italian: "il partito"
+    translation:
+      en: "political party"
+      ko: "정당"
+    gender: m
+  - italian: "la legge"
+    translation:
+      en: "law"
+      ko: "법률"
+    gender: f
+  - italian: "il decreto"
+    translation:
+      en: "decree"
+      ko: "법령 / 정령"
+    gender: m
+    notes:
+      en: "il decreto-legge = decree-law (emergency legislation)"
+      ko: "il decreto-legge = 긴급 법률"
+  - italian: "la riforma"
+    translation:
+      en: "reform"
+      ko: "개혁"
+    gender: f
+  - italian: "votare"
+    translation:
+      en: "to vote"
+      ko: "투표하다"
+    gender: null
+  - italian: "il deputato"
+    translation:
+      en: "member of parliament / deputy"
+      ko: "국회의원"
+    gender: m
+    notes:
+      en: "la deputata for female"
+      ko: "여성형은 la deputata"
+  - italian: "il senatore"
+    translation:
+      en: "senator"
+      ko: "상원의원"
+    gender: m
+    notes:
+      en: "la senatrice for female"
+      ko: "여성형은 la senatrice"
+  - italian: "il primo ministro"
+    translation:
+      en: "prime minister"
+      ko: "총리"
+    gender: m
+    notes:
+      en: "In Italy: il presidente del Consiglio"
+      ko: "이탈리아에서: il presidente del Consiglio"
+  - italian: "la campagna elettorale"
+    translation:
+      en: "election campaign"
+      ko: "선거 운동"
+    gender: f
+  - italian: "il sondaggio"
+    translation:
+      en: "poll / survey"
+      ko: "여론 조사"
+    gender: m
+  - italian: "il referendum"
+    translation:
+      en: "referendum"
+      ko: "국민 투표"
+    gender: m
+    notes:
+      en: "Invariable plural: i referendum"
+      ko: "복수형 불변: i referendum"
+  - italian: "la coalizione"
+    translation:
+      en: "coalition"
+      ko: "연립"
+    gender: f
+  - italian: "l'opposizione"
+    translation:
+      en: "opposition"
+      ko: "야당 / 반대파"
+    gender: f
+  - italian: "la maggioranza"
+    translation:
+      en: "majority"
+      ko: "과반수 / 다수파"
+    gender: f
+- id: media_actions
+  label:
+    en: "Media Actions"
+    ko: "미디어 행동"
+  type: vocabulary
+  words:
+  - italian: "pubblicare"
+    translation:
+      en: "to publish"
+      ko: "출판하다 / 게재하다"
+    gender: null
+  - italian: "trasmettere"
+    translation:
+      en: "to broadcast / to transmit"
+      ko: "방송하다 / 전송하다"
+    gender: null
+    notes:
+      en: "Past participle: trasmesso"
+      ko: "과거분사: trasmesso"
+  - italian: "intervistare"
+    translation:
+      en: "to interview"
+      ko: "인터뷰하다"
+    gender: null
+  - italian: "denunciare"
+    translation:
+      en: "to denounce / to report"
+      ko: "고발하다 / 보도하다"
+    gender: null
+  - italian: "informare"
+    translation:
+      en: "to inform"
+      ko: "알리다 / 정보를 전달하다"
+    gender: null
+  - italian: "commentare"
+    translation:
+      en: "to comment"
+      ko: "논평하다"
+    gender: null
+  - italian: "censurare"
+    translation:
+      en: "to censor"
+      ko: "검열하다"
+    gender: null
+  - italian: "diffondere"
+    translation:
+      en: "to spread / to disseminate"
+      ko: "퍼뜨리다 / 보급하다"
+    gender: null
+    notes:
+      en: "Past participle: diffuso"
+      ko: "과거분사: diffuso"
+  - italian: "smentire"
+    translation:
+      en: "to deny / to refute"
+      ko: "부인하다 / 반박하다"
+    gender: null
+  - italian: "aggiornare"
+    translation:
+      en: "to update"
+      ko: "갱신하다 / 업데이트하다"
+    gender: null
+  - italian: "riportare"
+    translation:
+      en: "to report / to relay"
+      ko: "보도하다 / 전하다"
+    gender: null
+  - italian: "citare"
+    translation:
+      en: "to quote / to cite"
+      ko: "인용하다"
+    gender: null
+  - italian: "indagare"
+    translation:
+      en: "to investigate"
+      ko: "조사하다"
+    gender: null
+  - italian: "verificare"
+    translation:
+      en: "to verify / to fact-check"
+      ko: "검증하다 / 사실 확인하다"
+    gender: null
+  - italian: "la libertà di stampa"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+  - italian: "la disinformazione"
+    translation:
+      en: "disinformation"
+      ko: "허위 정보"
+    gender: f
+  - italian: "annunciare"
+    translation:
+      en: "to announce"
+      ko: "발표하다"
+    gender: null
+  - italian: "rivelare"
+    translation:
+      en: "to reveal"
+      ko: "밝히다"
+    gender: null
+  - italian: "confermare"
+    translation:
+      en: "to confirm"
+      ko: "확인하다"
+    gender: null
+  - italian: "negare"
+    translation:
+      en: "to deny"
+      ko: "부인하다"
+    gender: null
+  - italian: "dichiarare"
+    translation:
+      en: "to declare / to state"
+      ko: "선언하다 / 진술하다"
+    gender: null
+  - italian: "analizzare"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+    gender: null
+  - italian: "criticare"
+    translation:
+      en: "to criticize"
+      ko: "비판하다"
+    gender: null
+  - italian: "sostenere"
+    translation:
+      en: "to support / to claim"
+      ko: "주장하다 / 지지하다"
+    gender: null
+- id: television_and_entertainment
+  label:
+    en: "Television and Entertainment"
+    ko: "텔레비전 및 엔터테인먼트"
+  type: vocabulary
+  words:
+  - italian: "il canale"
+    translation:
+      en: "channel"
+      ko: "채널"
+    gender: m
+  - italian: "il programma"
+    translation:
+      en: "program / show"
+      ko: "프로그램 / 방송"
+    gender: m
+  - italian: "il documentario"
+    translation:
+      en: "documentary"
+      ko: "다큐멘터리"
+    gender: m
+  - italian: "il dibattito"
+    translation:
+      en: "debate"
+      ko: "토론"
+    gender: m
+  - italian: "il talk show"
+    translation:
+      en: "talk show"
+      ko: "토크쇼"
+    gender: m
+  - italian: "il reality"
+    translation:
+      en: "reality show"
+      ko: "리얼리티 쇼"
+    gender: m
+  - italian: "il conduttore"
+    translation:
+      en: "TV host / presenter"
+      ko: "진행자"
+    gender: m
+    notes:
+      en: "la conduttrice for female"
+      ko: "여성형은 la conduttrice"
+  - italian: "lo spettatore"
+    translation:
+      en: "viewer / spectator"
+      ko: "시청자"
+    gender: m
+    notes:
+      en: "la spettatrice for female"
+      ko: "여성형은 la spettatrice"
+  - italian: "il palinsesto"
+    translation:
+      en: "programming schedule"
+      ko: "편성표"
+    gender: m
+  - italian: "la puntata"
+    translation:
+      en: "episode"
+      ko: "에피소드 / 회"
+    gender: f
+  - italian: "la serie"
+    translation:
+      en: "series"
+      ko: "시리즈"
+    gender: f
+    notes:
+      en: "Invariable: la serie / le serie"
+      ko: "불변: la serie / le serie"
+  - italian: "il servizio"
+    translation:
+      en: "news report / feature"
+      ko: "보도 / 리포트"
+    gender: m
+  - italian: "la diretta"
+    translation:
+      en: "live broadcast"
+      ko: "생방송"
+    gender: f
+    notes:
+      en: "in diretta = live"
+      ko: "in diretta = 생방송으로"
+  - italian: "la replica"
+    translation:
+      en: "rerun / repeat"
+      ko: "재방송"
+    gender: f
+  - italian: "il pubblico"
+    translation:
+      en: "audience / public"
+      ko: "청중 / 대중"
+    gender: m
+  - italian: "gli ascolti"
+    translation:
+      en: "ratings / viewership"
+      ko: "시청률"
+    gender: m
+    notes:
+      en: "lo share = audience share (percentage)"
+      ko: "lo share = 시청 점유율"
+  - italian: "la RAI"
+    translation:
+      en: "RAI (Italian public broadcaster)"
+      ko: "RAI (이탈리아 공영 방송)"
+    gender: f
+    notes:
+      en: "Radiotelevisione Italiana; main public TV/radio"
+      ko: "Radiotelevisione Italiana; 주요 공영 방송"
+  - italian: "Mediaset"
+    translation:
+      en: "Mediaset (Italian private broadcaster)"
+      ko: "Mediaset (이탈리아 민영 방송)"
+    gender: f
+    notes:
+      en: "Italy's largest commercial broadcaster"
+      ko: "이탈리아 최대 민영 방송사"
+  - italian: "il telecomando"
+    translation:
+      en: "remote control"
+      ko: "리모콘"
+    gender: m
+  - italian: "lo zapping"
+    translation:
+      en: "channel surfing"
+      ko: "채널 돌리기"
+    gender: m
+  - italian: "la pubblicità"
+    translation:
+      en: "advertisement / advertising"
+      ko: "광고"
+    gender: f
+    notes:
+      en: "Invariable: la pubblicità"
+      ko: "불변 명사"
+  - italian: "lo spot"
+    translation:
+      en: "TV commercial"
+      ko: "TV 광고"
+    gender: m
+  - italian: "la campagna pubblicitaria"
+    translation:
+      en: "advertising campaign"
+      ko: "광고 캠페인"
+    gender: f
+  - italian: "il marchio"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: m
+  - italian: "lo sponsor"
+    translation:
+      en: "sponsor"
+      ko: "스폰서"
+    gender: m
+  - italian: "la testata"
+    translation:
+      en: "masthead / newspaper title"
+      ko: "신문 제호"
+    gender: f
+  - italian: "la tiratura"
+    translation:
+      en: "print run / circulation"
+      ko: "발행 부수"
+    gender: f
+  - italian: "il lettore"
+    translation:
+      en: "reader"
+      ko: "독자"
+    gender: m
+    notes:
+      en: "la lettrice for female"
+      ko: "여성형은 la lettrice"
+  - italian: "l'ascoltatore"
+    translation:
+      en: "listener"
+      ko: "청취자"
+    gender: m
+    notes:
+      en: "l'ascoltatrice for female"
+      ko: "여성형은 l'ascoltatrice"
+  - italian: "il telespettatore"
+    translation:
+      en: "TV viewer"
+      ko: "TV 시청자"
+    gender: m
+  - italian: "la stampa"
+    translation:
+      en: "the press / print media"
+      ko: "언론 / 출판"
+    gender: f
+  - italian: "il cartaceo"
+    translation:
+      en: "print (format)"
+      ko: "인쇄물"
+    gender: m
+  - italian: "il digitale"
+    translation:
+      en: "digital (format)"
+      ko: "디지털"
+    gender: m
+  - italian: "l'editoria"
+    translation:
+      en: "publishing industry"
+      ko: "출판 산업"
+    gender: f
+  - italian: "la rassegna stampa"
+    translation:
+      en: "press review"
+      ko: "언론 리뷰"
+    gender: f
+  - italian: "la vignetta"
+    translation:
+      en: "cartoon / editorial cartoon"
+      ko: "만평"
+    gender: f
+  - italian: "il fumetto"
+    translation:
+      en: "comic / comic strip"
+      ko: "만화"
+    gender: m
+  - italian: "il fotoreporter"
+    translation:
+      en: "photojournalist"
+      ko: "포토 저널리스트"
+    gender: m
+  - italian: "il cameraman"
+    translation:
+      en: "cameraman"
+      ko: "카메라맨"
+    gender: m
+  - italian: "il montaggio"
+    translation:
+      en: "editing (video)"
+      ko: "편집 (영상)"
+    gender: m
+  - italian: "la troupe"
+    translation:
+      en: "crew / film crew"
+      ko: "촬영팀"
+    gender: f
+  - italian: "l'inviato di guerra"
+    translation:
+      en: "war correspondent"
+      ko: "전쟁 특파원"
+    gender: m
+  - italian: "il freelance"
+    translation:
+      en: "freelancer"
+      ko: "프리랜서"
+    gender: m
+  - italian: "la deontologia"
+    translation:
+      en: "professional ethics / code of conduct"
+      ko: "직업 윤리 / 행동 강령"
+    gender: f
+    notes:
+      en: "la deontologia giornalistica = journalism ethics"
+      ko: "la deontologia giornalistica = 저널리즘 윤리"
+  - italian: "il comunicatore"
+    translation:
+      en: "communicator / PR professional"
+      ko: "커뮤니케이터 / 홍보 전문가"
+    gender: m
+  - italian: "il portavoce"
+    translation:
+      en: "spokesperson"
+      ko: "대변인"
+    gender: m
+    notes:
+      en: "Invariable: il/la portavoce"
+      ko: "불변: il/la portavoce"
+  - italian: "l'opinione pubblica"
+    translation:
+      en: "public opinion"
+      ko: "여론"
+    gender: f
+  - italian: "il dibattito pubblico"
+    translation:
+      en: "public debate"
+      ko: "공개 토론"
+    gender: m
+  - italian: "la polarizzazione"
+    translation:
+      en: "polarization"
+      ko: "양극화"
+    gender: f
+  - italian: "l'imparzialità"
+    translation:
+      en: "impartiality"
+      ko: "공정성"
+    gender: f
+  - italian: "l'obiettività"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: f
+  - italian: "la parzialità"
+    translation:
+      en: "bias / partiality"
+      ko: "편향성"
+    gender: f
+  - italian: "la satira"
+    translation:
+      en: "satire"
+      ko: "풍자"
+    gender: f
+  - italian: "il meme"
+    translation:
+      en: "meme"
+      ko: "밈"
+    gender: m
+  - italian: "il titolone"
+    translation:
+      en: "sensational headline"
+      ko: "선정적 제목"
+    gender: m
+    notes:
+      en: "Pejorative; exaggerated headline"
+      ko: "경멸적; 과장된 제목"
+  - italian: "la bufala"
+    translation:
+      en: "hoax / fake news"
+      ko: "가짜 뉴스 / 속임수"
+    gender: f
+    notes:
+      en: "Also means 'water buffalo' or 'buffalo mozzarella'"
+      ko: "'물소' 또는 '물소 모짜렐라'라는 뜻도 있음"
+  - italian: "il clickbait"
+    translation:
+      en: "clickbait"
+      ko: "클릭베이트"
+    gender: m
+  - italian: "lo scoop giornalistico"
+    translation:
+      en: "journalistic scoop"
+      ko: "저널리즘 특종"
+    gender: m
+  - italian: "il diritto di replica"
+    translation:
+      en: "right of reply"
+      ko: "반론권"
+    gender: m
+  - italian: "il diritto di cronaca"
+    translation:
+      en: "right to report"
+      ko: "보도의 권리"
+    gender: m
+  - italian: "la querela per diffamazione"
+    translation:
+      en: "defamation lawsuit"
+      ko: "명예훼손 소송"
+    gender: f
+  - italian: "il giornalismo investigativo"
+    translation:
+      en: "investigative journalism"
+      ko: "탐사 보도"
+    gender: m
+  - italian: "il giornalismo d'opinione"
+    translation:
+      en: "opinion journalism"
+      ko: "오피니언 저널리즘"
+    gender: m
+  - italian: "il citizen journalism"
+    translation:
+      en: "citizen journalism"
+      ko: "시민 저널리즘"
+    gender: m
+  - italian: "la web radio"
+    translation:
+      en: "web radio / internet radio"
+      ko: "인터넷 라디오"
+    gender: f
+  - italian: "la web TV"
+    translation:
+      en: "web TV / online TV"
+      ko: "인터넷 TV"
+    gender: f
+  - italian: "il palinsesto"
+    translation:
+      en: "broadcast schedule"
+      ko: "편성표"
+    gender: m

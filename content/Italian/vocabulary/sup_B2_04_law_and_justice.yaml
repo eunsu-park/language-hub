@@ -1,0 +1,810 @@
+lesson: "sup_B2_Law_and_Justice"
+lesson_number: 404
+cefr: B2
+type: supplementary
+topic: "Law and Justice"
+categories:
+- id: legal_codes
+  label:
+    en: "Legal Codes and Systems"
+    ko: "법전 및 법체계"
+  type: vocabulary
+  words:
+  - italian: "il diritto"
+    translation:
+      en: "law (system) / right"
+      ko: "법 / 권리"
+    gender: m
+  - italian: "la legge"
+    translation:
+      en: "law (specific statute)"
+      ko: "법률"
+    gender: f
+  - italian: "il codice civile"
+    translation:
+      en: "civil code"
+      ko: "민법"
+    gender: m
+  - italian: "il codice penale"
+    translation:
+      en: "penal code"
+      ko: "형법"
+    gender: m
+  - italian: "il codice di procedura civile"
+    translation:
+      en: "code of civil procedure"
+      ko: "민사소송법"
+    gender: m
+  - italian: "il codice di procedura penale"
+    translation:
+      en: "code of criminal procedure"
+      ko: "형사소송법"
+    gender: m
+  - italian: "la normativa"
+    translation:
+      en: "regulations / legislation"
+      ko: "규정 / 법규"
+    gender: f
+  - italian: "il regolamento"
+    translation:
+      en: "regulation"
+      ko: "규칙"
+    gender: m
+  - italian: "la giurisprudenza"
+    translation:
+      en: "jurisprudence / case law"
+      ko: "판례법 / 법학"
+    gender: f
+  - italian: "il precedente"
+    translation:
+      en: "precedent"
+      ko: "판례"
+    gender: m
+  - italian: "la dottrina"
+    translation:
+      en: "legal doctrine"
+      ko: "법적 학설"
+    gender: f
+  - italian: "l'articolo"
+    translation:
+      en: "article (of law)"
+      ko: "조항"
+    gender: m
+  - italian: "il comma"
+    translation:
+      en: "paragraph (of an article)"
+      ko: "항 (조항의)"
+    gender: m
+- id: courts_and_institutions
+  label:
+    en: "Courts and Legal Institutions"
+    ko: "법원 및 법률 기관"
+  type: vocabulary
+  words:
+  - italian: "il tribunale"
+    translation:
+      en: "court / tribunal"
+      ko: "법원"
+    gender: m
+  - italian: "la Corte Costituzionale"
+    translation:
+      en: "Constitutional Court"
+      ko: "헌법재판소"
+    gender: f
+  - italian: "la Corte di Cassazione"
+    translation:
+      en: "Supreme Court of Cassation"
+      ko: "대법원"
+    gender: f
+    notes:
+      en: "Highest court of appeal in Italy"
+      ko: "이탈리아 최고 상고법원"
+  - italian: "la Corte d'Appello"
+    translation:
+      en: "Court of Appeal"
+      ko: "항소법원"
+    gender: f
+  - italian: "la Procura"
+    translation:
+      en: "Public Prosecutor's Office"
+      ko: "검찰청"
+    gender: f
+  - italian: "il Tribunale dei Minori"
+    translation:
+      en: "Juvenile Court"
+      ko: "소년법원"
+    gender: m
+  - italian: "il Tribunale Amministrativo Regionale"
+    translation:
+      en: "Regional Administrative Court (TAR)"
+      ko: "지방행정법원"
+    gender: m
+  - italian: "l'aula"
+    translation:
+      en: "courtroom"
+      ko: "법정"
+    gender: f
+  - italian: "il banco degli imputati"
+    translation:
+      en: "dock (defendant's bench)"
+      ko: "피고인석"
+    gender: m
+- id: legal_professionals
+  label:
+    en: "Legal Professionals"
+    ko: "법률 전문가"
+  type: vocabulary
+  words:
+  - italian: "il magistrato"
+    translation:
+      en: "magistrate"
+      ko: "법관"
+    gender: m
+  - italian: "il giudice"
+    translation:
+      en: "judge"
+      ko: "판사"
+    gender: m
+  - italian: "il pubblico ministero"
+    translation:
+      en: "public prosecutor"
+      ko: "검사"
+    gender: m
+    notes:
+      en: "Abbreviation: PM"
+      ko: "약자: PM"
+  - italian: "l'avvocato"
+    translation:
+      en: "lawyer"
+      ko: "변호사"
+    gender: m
+  - italian: "l'avvocata"
+    translation:
+      en: "lawyer (f)"
+      ko: "변호사 (여)"
+    gender: f
+  - italian: "l'avvocato difensore"
+    translation:
+      en: "defense attorney"
+      ko: "변호인"
+    gender: m
+  - italian: "il notaio"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: m
+  - italian: "la giuria"
+    translation:
+      en: "jury"
+      ko: "배심원단"
+    gender: f
+  - italian: "il giurato"
+    translation:
+      en: "juror"
+      ko: "배심원"
+    gender: m
+  - italian: "il testimone"
+    translation:
+      en: "witness"
+      ko: "증인"
+    gender: m
+  - italian: "il perito"
+    translation:
+      en: "expert witness"
+      ko: "감정인"
+    gender: m
+  - italian: "il cancelliere"
+    translation:
+      en: "court clerk"
+      ko: "법원 서기"
+    gender: m
+- id: criminal_law
+  label:
+    en: "Criminal Law"
+    ko: "형사법"
+  type: vocabulary
+  words:
+  - italian: "il reato"
+    translation:
+      en: "crime / offense"
+      ko: "범죄"
+    gender: m
+  - italian: "il delitto"
+    translation:
+      en: "felony / serious crime"
+      ko: "중범죄"
+    gender: m
+  - italian: "la contravvenzione"
+    translation:
+      en: "misdemeanor / infraction"
+      ko: "경범죄"
+    gender: f
+  - italian: "l'imputato"
+    translation:
+      en: "defendant / accused (m)"
+      ko: "피고인 (남)"
+    gender: m
+  - italian: "l'imputata"
+    translation:
+      en: "defendant / accused (f)"
+      ko: "피고인 (여)"
+    gender: f
+  - italian: "la vittima"
+    translation:
+      en: "victim"
+      ko: "피해자"
+    gender: f
+  - italian: "il sospettato"
+    translation:
+      en: "suspect"
+      ko: "용의자"
+    gender: m
+  - italian: "la prova"
+    translation:
+      en: "evidence / proof"
+      ko: "증거"
+    gender: f
+  - italian: "l'indizio"
+    translation:
+      en: "clue / circumstantial evidence"
+      ko: "단서 / 정황 증거"
+    gender: m
+  - italian: "l'alibi"
+    translation:
+      en: "alibi"
+      ko: "알리바이"
+    gender: m
+    notes:
+      en: "Invariable: l'alibi / gli alibi"
+      ko: "불변: l'alibi / gli alibi"
+  - italian: "la querela"
+    translation:
+      en: "criminal complaint"
+      ko: "형사 고소"
+    gender: f
+  - italian: "la denuncia"
+    translation:
+      en: "report (to police)"
+      ko: "신고"
+    gender: f
+  - italian: "l'arresto"
+    translation:
+      en: "arrest"
+      ko: "체포"
+    gender: m
+  - italian: "la custodia cautelare"
+    translation:
+      en: "preventive custody"
+      ko: "구속"
+    gender: f
+  - italian: "le indagini"
+    translation:
+      en: "investigation"
+      ko: "수사"
+    gender: f
+  - italian: "l'interrogatorio"
+    translation:
+      en: "interrogation"
+      ko: "심문"
+    gender: m
+- id: verdicts_and_sentences
+  label:
+    en: "Verdicts and Sentences"
+    ko: "판결 및 형량"
+  type: vocabulary
+  words:
+  - italian: "il processo"
+    translation:
+      en: "trial"
+      ko: "재판"
+    gender: m
+  - italian: "il verdetto"
+    translation:
+      en: "verdict"
+      ko: "평결"
+    gender: m
+  - italian: "la sentenza"
+    translation:
+      en: "sentence / judgment"
+      ko: "판결"
+    gender: f
+  - italian: "l'assoluzione"
+    translation:
+      en: "acquittal"
+      ko: "무죄 선고"
+    gender: f
+  - italian: "la condanna"
+    translation:
+      en: "conviction / sentence"
+      ko: "유죄 판결"
+    gender: f
+  - italian: "la pena"
+    translation:
+      en: "penalty / punishment"
+      ko: "형벌"
+    gender: f
+  - italian: "la pena detentiva"
+    translation:
+      en: "prison sentence"
+      ko: "징역형"
+    gender: f
+  - italian: "l'ergastolo"
+    translation:
+      en: "life imprisonment"
+      ko: "무기징역"
+    gender: m
+  - italian: "la multa"
+    translation:
+      en: "fine (criminal)"
+      ko: "벌금 (형사)"
+    gender: f
+  - italian: "l'ammenda"
+    translation:
+      en: "fine (administrative)"
+      ko: "과태료"
+    gender: f
+  - italian: "il carcere"
+    translation:
+      en: "prison"
+      ko: "교도소"
+    gender: m
+  - italian: "la detenzione"
+    translation:
+      en: "detention / imprisonment"
+      ko: "구금"
+    gender: f
+  - italian: "la libertà condizionale"
+    translation:
+      en: "parole"
+      ko: "가석방"
+    gender: f
+  - italian: "la sospensione della pena"
+    translation:
+      en: "suspended sentence"
+      ko: "집행유예"
+    gender: f
+  - italian: "il risarcimento"
+    translation:
+      en: "compensation / damages"
+      ko: "손해배상"
+    gender: m
+- id: civil_law_and_actions
+  label:
+    en: "Civil Law and Legal Actions"
+    ko: "민사법 및 법적 행위"
+  type: vocabulary
+  words:
+  - italian: "la causa civile"
+    translation:
+      en: "civil lawsuit"
+      ko: "민사 소송"
+    gender: f
+  - italian: "il ricorso"
+    translation:
+      en: "appeal / petition"
+      ko: "항소 / 청원"
+    gender: m
+  - italian: "ricorrere in appello"
+    translation:
+      en: "to appeal"
+      ko: "항소하다"
+  - italian: "il contratto"
+    translation:
+      en: "contract"
+      ko: "계약"
+    gender: m
+  - italian: "la clausola"
+    translation:
+      en: "clause"
+      ko: "조항"
+    gender: f
+  - italian: "la procura"
+    translation:
+      en: "power of attorney"
+      ko: "위임장"
+    gender: f
+  - italian: "l'atto"
+    translation:
+      en: "deed / legal document"
+      ko: "증서"
+    gender: m
+  - italian: "la citazione"
+    translation:
+      en: "summons"
+      ko: "소환장"
+    gender: f
+  - italian: "il sequestro"
+    translation:
+      en: "seizure / confiscation"
+      ko: "압류"
+    gender: m
+  - italian: "la prescrizione"
+    translation:
+      en: "statute of limitations"
+      ko: "공소시효"
+    gender: f
+  - italian: "assolvere"
+    translation:
+      en: "to acquit"
+      ko: "무죄를 선고하다"
+  - italian: "condannare"
+    translation:
+      en: "to convict / to sentence"
+      ko: "유죄를 선고하다"
+  - italian: "testimoniare"
+    translation:
+      en: "to testify"
+      ko: "증언하다"
+  - italian: "denunciare"
+    translation:
+      en: "to report (a crime)"
+      ko: "신고하다"
+  - italian: "querelare"
+    translation:
+      en: "to file a criminal complaint"
+      ko: "고소하다"
+  - italian: "impugnare"
+    translation:
+      en: "to challenge / to contest"
+      ko: "이의를 제기하다"
+  - italian: "indagare"
+    translation:
+      en: "to investigate"
+      ko: "수사하다"
+  - italian: "giudicare"
+    translation:
+      en: "to judge"
+      ko: "판결하다"
+  - italian: "sequestrare"
+    translation:
+      en: "to seize / to confiscate"
+      ko: "압수하다"
+  - italian: "perquisire"
+    translation:
+      en: "to search (premises)"
+      ko: "수색하다"
+  - italian: "arrestare"
+    translation:
+      en: "to arrest"
+      ko: "체포하다"
+  - italian: "detenere"
+    translation:
+      en: "to detain"
+      ko: "구금하다"
+  - italian: "rilasciare"
+    translation:
+      en: "to release"
+      ko: "석방하다"
+  - italian: "estradare"
+    translation:
+      en: "to extradite"
+      ko: "인도하다"
+- id: legal_concepts
+  label:
+    en: "Legal Concepts and Principles"
+    ko: "법적 개념 및 원칙"
+  type: vocabulary
+  words:
+  - italian: "la legittima difesa"
+    translation:
+      en: "self-defense"
+      ko: "정당방위"
+    gender: f
+  - italian: "la presunzione di innocenza"
+    translation:
+      en: "presumption of innocence"
+      ko: "무죄 추정"
+    gender: f
+  - italian: "il diritto alla difesa"
+    translation:
+      en: "right to defense"
+      ko: "방어권"
+    gender: m
+  - italian: "il giusto processo"
+    translation:
+      en: "fair trial / due process"
+      ko: "공정한 재판"
+    gender: m
+  - italian: "la pena di morte"
+    translation:
+      en: "death penalty"
+      ko: "사형"
+    gender: f
+    notes:
+      en: "Abolished in Italy in 1947 (Constitution)"
+      ko: "이탈리아에서 1947년 헌법으로 폐지"
+  - italian: "il gratuito patrocinio"
+    translation:
+      en: "legal aid"
+      ko: "법률 구조"
+    gender: m
+  - italian: "la recidiva"
+    translation:
+      en: "recidivism"
+      ko: "재범"
+    gender: f
+  - italian: "il dolo"
+    translation:
+      en: "intent / willful misconduct"
+      ko: "고의"
+    gender: m
+  - italian: "la colpa"
+    translation:
+      en: "negligence / fault"
+      ko: "과실"
+    gender: f
+  - italian: "l'omicidio"
+    translation:
+      en: "homicide"
+      ko: "살인"
+    gender: m
+  - italian: "il furto"
+    translation:
+      en: "theft"
+      ko: "절도"
+    gender: m
+  - italian: "la rapina"
+    translation:
+      en: "robbery"
+      ko: "강도"
+    gender: f
+  - italian: "la truffa"
+    translation:
+      en: "fraud"
+      ko: "사기"
+    gender: f
+  - italian: "l'estorsione"
+    translation:
+      en: "extortion"
+      ko: "갈취"
+    gender: f
+  - italian: "il riciclaggio"
+    translation:
+      en: "money laundering"
+      ko: "자금 세탁"
+    gender: m
+  - italian: "l'evasione fiscale"
+    translation:
+      en: "tax evasion"
+      ko: "탈세"
+    gender: f
+  - italian: "la corruzione"
+    translation:
+      en: "corruption"
+      ko: "부패"
+    gender: f
+  - italian: "la concussione"
+    translation:
+      en: "extortion by public official"
+      ko: "공무원의 강요"
+    gender: f
+  - italian: "lo stalking"
+    translation:
+      en: "stalking"
+      ko: "스토킹"
+    gender: m
+    notes:
+      en: "Legally: 'atti persecutori' in Italian law"
+      ko: "법적으로: 이탈리아 법의 'atti persecutori'"
+  - italian: "la diffamazione"
+    translation:
+      en: "defamation"
+      ko: "명예훼손"
+    gender: f
+  - italian: "la calunnia"
+    translation:
+      en: "slander / false accusation"
+      ko: "무고"
+    gender: f
+  - italian: "il mandato di cattura"
+    translation:
+      en: "arrest warrant"
+      ko: "체포 영장"
+    gender: m
+  - italian: "il mandato di perquisizione"
+    translation:
+      en: "search warrant"
+      ko: "수색 영장"
+    gender: m
+  - italian: "l'intercettazione"
+    translation:
+      en: "wiretapping"
+      ko: "도청"
+    gender: f
+  - italian: "la perizia"
+    translation:
+      en: "expert report"
+      ko: "감정서"
+    gender: f
+  - italian: "la giurisdizione"
+    translation:
+      en: "jurisdiction"
+      ko: "관할권"
+    gender: f
+  - italian: "la competenza"
+    translation:
+      en: "competence (legal)"
+      ko: "관할"
+    gender: f
+  - italian: "il patrocinio"
+    translation:
+      en: "legal representation"
+      ko: "법적 대리"
+    gender: m
+  - italian: "la procura della Repubblica"
+    translation:
+      en: "Public Prosecutor's Office"
+      ko: "검찰청"
+    gender: f
+  - italian: "il capo d'imputazione"
+    translation:
+      en: "charge / count"
+      ko: "기소 항목"
+    gender: m
+  - italian: "il rinvio a giudizio"
+    translation:
+      en: "indictment / committal for trial"
+      ko: "기소"
+    gender: m
+  - italian: "il patteggiamento"
+    translation:
+      en: "plea bargain"
+      ko: "형사 합의"
+    gender: m
+    notes:
+      en: "Italian equivalent of plea bargaining"
+      ko: "이탈리아식 유죄 합의"
+  - italian: "la perizia psichiatrica"
+    translation:
+      en: "psychiatric evaluation"
+      ko: "정신감정"
+    gender: f
+  - italian: "l'obbligo di dimora"
+    translation:
+      en: "house arrest / residence restriction"
+      ko: "거주지 제한"
+    gender: m
+  - italian: "il braccialetto elettronico"
+    translation:
+      en: "electronic ankle bracelet"
+      ko: "전자발찌"
+    gender: m
+  - italian: "la cauzione"
+    translation:
+      en: "bail"
+      ko: "보석금"
+    gender: f
+  - italian: "l'amnistia"
+    translation:
+      en: "amnesty"
+      ko: "사면"
+    gender: f
+  - italian: "l'indulto"
+    translation:
+      en: "pardon"
+      ko: "특사"
+    gender: m
+  - italian: "la grazia"
+    translation:
+      en: "clemency / pardon"
+      ko: "특별사면"
+    gender: f
+    notes:
+      en: "Granted by the President of the Republic"
+      ko: "공화국 대통령이 부여"
+- id: constitutional_rights
+  label:
+    en: "Constitutional Rights"
+    ko: "헌법적 권리"
+  type: vocabulary
+  words:
+  - italian: "il diritto alla vita"
+    translation:
+      en: "right to life"
+      ko: "생명권"
+    gender: m
+  - italian: "il diritto alla salute"
+    translation:
+      en: "right to health"
+      ko: "건강권"
+    gender: m
+  - italian: "il diritto all'istruzione"
+    translation:
+      en: "right to education"
+      ko: "교육권"
+    gender: m
+  - italian: "il diritto al lavoro"
+    translation:
+      en: "right to work"
+      ko: "노동권"
+    gender: m
+  - italian: "il diritto di riunione"
+    translation:
+      en: "right of assembly"
+      ko: "집회의 자유"
+    gender: m
+  - italian: "il diritto di associazione"
+    translation:
+      en: "right of association"
+      ko: "결사의 자유"
+    gender: m
+  - italian: "la libertà di pensiero"
+    translation:
+      en: "freedom of thought"
+      ko: "사상의 자유"
+    gender: f
+  - italian: "la libertà di stampa"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+  - italian: "la libertà religiosa"
+    translation:
+      en: "religious freedom"
+      ko: "종교의 자유"
+    gender: f
+  - italian: "l'inviolabilità del domicilio"
+    translation:
+      en: "inviolability of the home"
+      ko: "주거의 불가침"
+    gender: f
+  - italian: "il segreto delle comunicazioni"
+    translation:
+      en: "secrecy of communications"
+      ko: "통신의 비밀"
+    gender: m
+  - italian: "la tutela giurisdizionale"
+    translation:
+      en: "judicial protection"
+      ko: "사법적 보호"
+    gender: f
+  - italian: "il principio di legalità"
+    translation:
+      en: "principle of legality"
+      ko: "적법성의 원칙"
+    gender: m
+  - italian: "il principio di proporzionalità"
+    translation:
+      en: "principle of proportionality"
+      ko: "비례의 원칙"
+    gender: m
+  - italian: "il conflitto di attribuzione"
+    translation:
+      en: "conflict of jurisdiction"
+      ko: "관할 충돌"
+    gender: m
+  - italian: "la questione di legittimità"
+    translation:
+      en: "question of constitutionality"
+      ko: "위헌 여부"
+    gender: f
+  - italian: "l'illegittimità costituzionale"
+    translation:
+      en: "unconstitutionality"
+      ko: "위헌"
+    gender: f
+  - italian: "la Corte Europea dei Diritti dell'Uomo"
+    translation:
+      en: "European Court of Human Rights"
+      ko: "유럽인권재판소"
+    gender: f
+  - italian: "la Corte di Giustizia dell'UE"
+    translation:
+      en: "Court of Justice of the EU"
+      ko: "EU 사법재판소"
+    gender: f
+  - italian: "il ricorso alla Corte Costituzionale"
+    translation:
+      en: "appeal to the Constitutional Court"
+      ko: "헌법재판소 제소"
+    gender: m
+  - italian: "il garante della privacy"
+    translation:
+      en: "privacy commissioner"
+      ko: "개인정보보호위원장"
+    gender: m
+  - italian: "il Difensore civico"
+    translation:
+      en: "ombudsman"
+      ko: "옴부즈맨"
+    gender: m

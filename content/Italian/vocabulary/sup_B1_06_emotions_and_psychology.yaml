@@ -1,0 +1,793 @@
+lesson: "sup_B1_Emotions_and_Psychology"
+lesson_number: 306
+cefr: B1
+type: supplementary
+topic: "Emotions and Psychology"
+categories:
+- id: positive_emotions
+  label:
+    en: "Positive Emotions"
+    ko: "긍정적 감정"
+  type: vocabulary
+  words:
+  - italian: "la felicità"
+    translation:
+      en: "happiness"
+      ko: "행복"
+    gender: f
+    notes:
+      en: "Invariable: la felicità"
+      ko: "불변 명사"
+  - italian: "la gioia"
+    translation:
+      en: "joy"
+      ko: "기쁨"
+    gender: f
+  - italian: "l'amore"
+    translation:
+      en: "love"
+      ko: "사랑"
+    gender: m
+  - italian: "l'entusiasmo"
+    translation:
+      en: "enthusiasm"
+      ko: "열정"
+    gender: m
+  - italian: "la gratitudine"
+    translation:
+      en: "gratitude"
+      ko: "감사"
+    gender: f
+  - italian: "la speranza"
+    translation:
+      en: "hope"
+      ko: "희망"
+    gender: f
+  - italian: "la soddisfazione"
+    translation:
+      en: "satisfaction"
+      ko: "만족"
+    gender: f
+  - italian: "l'orgoglio"
+    translation:
+      en: "pride"
+      ko: "자부심"
+    gender: m
+  - italian: "la serenità"
+    translation:
+      en: "serenity / peace of mind"
+      ko: "평온 / 차분함"
+    gender: f
+    notes:
+      en: "Invariable: la serenità"
+      ko: "불변 명사"
+  - italian: "la fiducia"
+    translation:
+      en: "trust / confidence"
+      ko: "신뢰 / 자신감"
+    gender: f
+    notes:
+      en: "avere fiducia in = to trust in"
+      ko: "avere fiducia in = ~을 신뢰하다"
+  - italian: "l'allegria"
+    translation:
+      en: "cheerfulness / merriment"
+      ko: "즐거움 / 명랑함"
+    gender: f
+  - italian: "la tenerezza"
+    translation:
+      en: "tenderness"
+      ko: "다정함"
+    gender: f
+  - italian: "la passione"
+    translation:
+      en: "passion"
+      ko: "열정"
+    gender: f
+  - italian: "il sollievo"
+    translation:
+      en: "relief"
+      ko: "안도"
+    gender: m
+  - italian: "la meraviglia"
+    translation:
+      en: "wonder / amazement"
+      ko: "경이 / 놀라움"
+    gender: f
+  - italian: "l'affetto"
+    translation:
+      en: "affection"
+      ko: "애정"
+    gender: m
+  - italian: "la commozione"
+    translation:
+      en: "emotion / being moved"
+      ko: "감동"
+    gender: f
+  - italian: "l'euforia"
+    translation:
+      en: "euphoria"
+      ko: "행복감"
+    gender: f
+- id: negative_emotions
+  label:
+    en: "Negative Emotions"
+    ko: "부정적 감정"
+  type: vocabulary
+  words:
+  - italian: "la tristezza"
+    translation:
+      en: "sadness"
+      ko: "슬픔"
+    gender: f
+  - italian: "la rabbia"
+    translation:
+      en: "anger / rage"
+      ko: "분노"
+    gender: f
+  - italian: "la paura"
+    translation:
+      en: "fear"
+      ko: "두려움"
+    gender: f
+    notes:
+      en: "avere paura di = to be afraid of"
+      ko: "avere paura di = ~을 두려워하다"
+  - italian: "l'ansia"
+    translation:
+      en: "anxiety"
+      ko: "불안"
+    gender: f
+  - italian: "la vergogna"
+    translation:
+      en: "shame / embarrassment"
+      ko: "수치심 / 부끄러움"
+    gender: f
+  - italian: "la gelosia"
+    translation:
+      en: "jealousy"
+      ko: "질투"
+    gender: f
+  - italian: "la frustrazione"
+    translation:
+      en: "frustration"
+      ko: "좌절감"
+    gender: f
+  - italian: "la delusione"
+    translation:
+      en: "disappointment"
+      ko: "실망"
+    gender: f
+    notes:
+      en: "False friend: delusione = disappointment, not delusion"
+      ko: "거짓 친구: delusione = 실망 (망상이 아님)"
+  - italian: "la solitudine"
+    translation:
+      en: "loneliness / solitude"
+      ko: "외로움 / 고독"
+    gender: f
+  - italian: "la noia"
+    translation:
+      en: "boredom"
+      ko: "지루함"
+    gender: f
+    notes:
+      en: "che noia! = how boring!"
+      ko: "che noia! = 정말 지루해!"
+  - italian: "il rancore"
+    translation:
+      en: "resentment / grudge"
+      ko: "원한 / 앙심"
+    gender: m
+  - italian: "il rimpianto"
+    translation:
+      en: "regret"
+      ko: "후회"
+    gender: m
+  - italian: "l'invidia"
+    translation:
+      en: "envy"
+      ko: "시기"
+    gender: f
+  - italian: "l'angoscia"
+    translation:
+      en: "anguish / distress"
+      ko: "고뇌 / 고통"
+    gender: f
+  - italian: "il disagio"
+    translation:
+      en: "discomfort / unease"
+      ko: "불편함"
+    gender: m
+  - italian: "la malinconia"
+    translation:
+      en: "melancholy"
+      ko: "우울"
+    gender: f
+  - italian: "la nostalgia"
+    translation:
+      en: "nostalgia / homesickness"
+      ko: "향수 / 그리움"
+    gender: f
+  - italian: "lo sgomento"
+    translation:
+      en: "dismay"
+      ko: "경악"
+    gender: m
+  - italian: "il rimorso"
+    translation:
+      en: "remorse"
+      ko: "양심의 가책"
+    gender: m
+- id: personality
+  label:
+    en: "Personality Traits"
+    ko: "성격 특성"
+  type: vocabulary
+  words:
+  - italian: "estroverso"
+    translation:
+      en: "extroverted"
+      ko: "외향적인"
+    gender: null
+  - italian: "introverso"
+    translation:
+      en: "introverted"
+      ko: "내향적인"
+    gender: null
+  - italian: "ottimista"
+    translation:
+      en: "optimistic"
+      ko: "낙관적인"
+    gender: null
+    notes:
+      en: "Invariable adjective: ottimista (m/f)"
+      ko: "불변 형용사: ottimista (남녀 동일)"
+  - italian: "pessimista"
+    translation:
+      en: "pessimistic"
+      ko: "비관적인"
+    gender: null
+    notes:
+      en: "Invariable adjective: pessimista (m/f)"
+      ko: "불변 형용사: pessimista (남녀 동일)"
+  - italian: "sensibile"
+    translation:
+      en: "sensitive"
+      ko: "민감한"
+    gender: null
+    notes:
+      en: "False friend: sensibile = sensitive, not sensible"
+      ko: "거짓 친구: sensibile = 민감한 (분별 있는이 아님)"
+  - italian: "razionale"
+    translation:
+      en: "rational"
+      ko: "이성적인"
+    gender: null
+  - italian: "emotivo"
+    translation:
+      en: "emotional"
+      ko: "감성적인"
+    gender: null
+  - italian: "impulsivo"
+    translation:
+      en: "impulsive"
+      ko: "충동적인"
+    gender: null
+  - italian: "paziente"
+    translation:
+      en: "patient"
+      ko: "인내심 있는"
+    gender: null
+  - italian: "impaziente"
+    translation:
+      en: "impatient"
+      ko: "성급한"
+    gender: null
+  - italian: "generoso"
+    translation:
+      en: "generous"
+      ko: "관대한"
+    gender: null
+  - italian: "egoista"
+    translation:
+      en: "selfish"
+      ko: "이기적인"
+    gender: null
+    notes:
+      en: "Invariable adjective: egoista (m/f)"
+      ko: "불변 형용사: egoista (남녀 동일)"
+  - italian: "ambizioso"
+    translation:
+      en: "ambitious"
+      ko: "야심 있는"
+    gender: null
+  - italian: "umile"
+    translation:
+      en: "humble"
+      ko: "겸손한"
+    gender: null
+  - italian: "coraggioso"
+    translation:
+      en: "brave / courageous"
+      ko: "용감한"
+    gender: null
+  - italian: "timido"
+    translation:
+      en: "shy / timid"
+      ko: "수줍은"
+    gender: null
+  - italian: "testardo"
+    translation:
+      en: "stubborn"
+      ko: "고집 센"
+    gender: null
+  - italian: "socievole"
+    translation:
+      en: "sociable"
+      ko: "사교적인"
+    gender: null
+  - italian: "riservato"
+    translation:
+      en: "reserved"
+      ko: "내성적인 / 과묵한"
+    gender: null
+  - italian: "affidabile"
+    translation:
+      en: "reliable"
+      ko: "믿을 수 있는"
+    gender: null
+  - italian: "lunatico"
+    translation:
+      en: "moody"
+      ko: "변덕스러운"
+    gender: null
+  - italian: "premuroso"
+    translation:
+      en: "caring / thoughtful"
+      ko: "배려하는 / 사려 깊은"
+    gender: null
+  - italian: "geloso"
+    translation:
+      en: "jealous"
+      ko: "질투하는"
+    gender: null
+  - italian: "orgoglioso"
+    translation:
+      en: "proud"
+      ko: "자부심이 강한"
+    gender: null
+- id: psychology
+  label:
+    en: "Psychology"
+    ko: "심리학"
+  type: vocabulary
+  words:
+  - italian: "la mente"
+    translation:
+      en: "mind"
+      ko: "마음 / 정신"
+    gender: f
+  - italian: "il pensiero"
+    translation:
+      en: "thought"
+      ko: "생각"
+    gender: m
+  - italian: "il sentimento"
+    translation:
+      en: "feeling / sentiment"
+      ko: "감정"
+    gender: m
+  - italian: "il comportamento"
+    translation:
+      en: "behavior"
+      ko: "행동"
+    gender: m
+  - italian: "l'autostima"
+    translation:
+      en: "self-esteem"
+      ko: "자존감"
+    gender: f
+  - italian: "lo stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+    notes:
+      en: "Invariable; essere stressato = to be stressed"
+      ko: "불변; essere stressato = 스트레스를 받다"
+  - italian: "la depressione"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: f
+  - italian: "la terapia"
+    translation:
+      en: "therapy"
+      ko: "치료"
+    gender: f
+  - italian: "lo psicologo"
+    translation:
+      en: "psychologist"
+      ko: "심리학자"
+    gender: m
+    notes:
+      en: "la psicologa for female"
+      ko: "여성형은 la psicologa"
+  - italian: "il benessere"
+    translation:
+      en: "well-being"
+      ko: "안녕 / 행복"
+    gender: m
+  - italian: "la coscienza"
+    translation:
+      en: "consciousness / conscience"
+      ko: "의식 / 양심"
+    gender: f
+  - italian: "l'inconscio"
+    translation:
+      en: "unconscious"
+      ko: "무의식"
+    gender: m
+  - italian: "il trauma"
+    translation:
+      en: "trauma"
+      ko: "트라우마"
+    gender: m
+    notes:
+      en: "Plural: i traumi"
+      ko: "복수: i traumi"
+  - italian: "la personalità"
+    translation:
+      en: "personality"
+      ko: "성격 / 인격"
+    gender: f
+  - italian: "il carattere"
+    translation:
+      en: "character / temperament"
+      ko: "성격 / 기질"
+    gender: m
+  - italian: "l'umore"
+    translation:
+      en: "mood"
+      ko: "기분"
+    gender: m
+    notes:
+      en: "essere di buon/cattivo umore = to be in a good/bad mood"
+      ko: "essere di buon/cattivo umore = 기분이 좋다/나쁘다"
+  - italian: "la consapevolezza"
+    translation:
+      en: "awareness"
+      ko: "인식 / 자각"
+    gender: f
+  - italian: "l'empatia"
+    translation:
+      en: "empathy"
+      ko: "공감"
+    gender: f
+  - italian: "la resilienza"
+    translation:
+      en: "resilience"
+      ko: "회복력"
+    gender: f
+  - italian: "la crescita personale"
+    translation:
+      en: "personal growth"
+      ko: "개인적 성장"
+    gender: f
+  - italian: "il disturbo"
+    translation:
+      en: "disorder"
+      ko: "장애"
+    gender: m
+    notes:
+      en: "il disturbo d'ansia = anxiety disorder"
+      ko: "il disturbo d'ansia = 불안 장애"
+  - italian: "la meditazione"
+    translation:
+      en: "meditation"
+      ko: "명상"
+    gender: f
+  - italian: "rilassarsi"
+    translation:
+      en: "to relax"
+      ko: "긴장을 풀다"
+    gender: null
+  - italian: "provare"
+    translation:
+      en: "to feel / to experience"
+      ko: "느끼다 / 경험하다"
+    gender: null
+  - italian: "emozionarsi"
+    translation:
+      en: "to get emotional / to be moved"
+      ko: "감동하다"
+    gender: null
+  - italian: "preoccuparsi"
+    translation:
+      en: "to worry"
+      ko: "걱정하다"
+    gender: null
+  - italian: "arrabbiarsi"
+    translation:
+      en: "to get angry"
+      ko: "화내다"
+    gender: null
+  - italian: "vergognarsi"
+    translation:
+      en: "to be ashamed"
+      ko: "부끄러워하다"
+    gender: null
+  - italian: "spaventarsi"
+    translation:
+      en: "to get scared"
+      ko: "놀라다 / 무서워하다"
+    gender: null
+  - italian: "commuoversi"
+    translation:
+      en: "to be moved / to be touched"
+      ko: "감동받다"
+    gender: null
+    notes:
+      en: "Irregular past participle: commosso"
+      ko: "불규칙 과거분사: commosso"
+  - italian: "soffrire"
+    translation:
+      en: "to suffer"
+      ko: "고통받다"
+    gender: null
+    notes:
+      en: "Past participle: sofferto"
+      ko: "과거분사: sofferto"
+  - italian: "annoiarsi"
+    translation:
+      en: "to get bored"
+      ko: "지루해지다"
+    gender: null
+  - italian: "entusiasmarsi"
+    translation:
+      en: "to get excited"
+      ko: "열광하다"
+    gender: null
+  - italian: "innamorarsi"
+    translation:
+      en: "to fall in love"
+      ko: "사랑에 빠지다"
+    gender: null
+    notes:
+      en: "innamorarsi di qualcuno = to fall in love with someone"
+      ko: "innamorarsi di qualcuno = 누군가와 사랑에 빠지다"
+  - italian: "fidarsi"
+    translation:
+      en: "to trust"
+      ko: "신뢰하다"
+    gender: null
+    notes:
+      en: "fidarsi di = to trust in; non mi fido = I don't trust"
+      ko: "fidarsi di = ~을 믿다; non mi fido = 나는 믿지 않아"
+  - italian: "pentirsi"
+    translation:
+      en: "to regret"
+      ko: "후회하다"
+    gender: null
+  - italian: "consolare"
+    translation:
+      en: "to console / to comfort"
+      ko: "위로하다"
+    gender: null
+  - italian: "sfogare"
+    translation:
+      en: "to vent / to let out"
+      ko: "풀다 / 발산하다"
+    gender: null
+    notes:
+      en: "sfogarsi = to vent (reflexive)"
+      ko: "sfogarsi = 감정을 풀다 (재귀)"
+- id: emotional_states
+  label:
+    en: "Emotional States and Expressions"
+    ko: "감정 상태 및 표현"
+  type: vocabulary
+  words:
+  - italian: "contento"
+    translation:
+      en: "happy / content"
+      ko: "만족한 / 기쁜"
+    gender: null
+  - italian: "triste"
+    translation:
+      en: "sad"
+      ko: "슬픈"
+    gender: null
+  - italian: "arrabbiato"
+    translation:
+      en: "angry"
+      ko: "화난"
+    gender: null
+  - italian: "spaventato"
+    translation:
+      en: "scared / frightened"
+      ko: "두려운 / 놀란"
+    gender: null
+  - italian: "sorpreso"
+    translation:
+      en: "surprised"
+      ko: "놀란"
+    gender: null
+  - italian: "deluso"
+    translation:
+      en: "disappointed"
+      ko: "실망한"
+    gender: null
+  - italian: "stressato"
+    translation:
+      en: "stressed"
+      ko: "스트레스를 받는"
+    gender: null
+  - italian: "ansioso"
+    translation:
+      en: "anxious"
+      ko: "불안한"
+    gender: null
+  - italian: "depresso"
+    translation:
+      en: "depressed"
+      ko: "우울한"
+    gender: null
+  - italian: "invidioso"
+    translation:
+      en: "envious"
+      ko: "시기하는"
+    gender: null
+  - italian: "stufo"
+    translation:
+      en: "fed up / tired of"
+      ko: "싫증난"
+    gender: null
+    notes:
+      en: "essere stufo di = to be fed up with"
+      ko: "essere stufo di = ~에 싫증 나다"
+  - italian: "nervoso"
+    translation:
+      en: "nervous / irritated"
+      ko: "초조한 / 짜증나는"
+    gender: null
+  - italian: "tranquillo"
+    translation:
+      en: "calm / relaxed"
+      ko: "차분한 / 편안한"
+    gender: null
+    notes:
+      en: "stai tranquillo! = don't worry! / take it easy!"
+      ko: "stai tranquillo! = 걱정 마! / 편하게 해!"
+  - italian: "commosso"
+    translation:
+      en: "moved / touched"
+      ko: "감동한"
+    gender: null
+  - italian: "confuso"
+    translation:
+      en: "confused"
+      ko: "혼란스러운"
+    gender: null
+  - italian: "imbarazzato"
+    translation:
+      en: "embarrassed"
+      ko: "당황한"
+    gender: null
+  - italian: "entusiasta"
+    translation:
+      en: "enthusiastic"
+      ko: "열정적인"
+    gender: null
+    notes:
+      en: "Invariable adjective: entusiasta (m/f)"
+      ko: "불변 형용사: entusiasta (남녀 동일)"
+  - italian: "grato"
+    translation:
+      en: "grateful"
+      ko: "감사하는"
+    gender: null
+  - italian: "soddisfatto"
+    translation:
+      en: "satisfied"
+      ko: "만족한"
+    gender: null
+  - italian: "insoddisfatto"
+    translation:
+      en: "dissatisfied"
+      ko: "불만족한"
+    gender: null
+  - italian: "preoccupato"
+    translation:
+      en: "worried"
+      ko: "걱정하는"
+    gender: null
+  - italian: "sconvolto"
+    translation:
+      en: "upset / distraught"
+      ko: "충격받은"
+    gender: null
+  - italian: "indifferente"
+    translation:
+      en: "indifferent"
+      ko: "무관심한"
+    gender: null
+  - italian: "curioso"
+    translation:
+      en: "curious"
+      ko: "호기심 있는"
+    gender: null
+  - italian: "ispirato"
+    translation:
+      en: "inspired"
+      ko: "영감을 받은"
+    gender: null
+  - italian: "motivato"
+    translation:
+      en: "motivated"
+      ko: "동기 부여된"
+    gender: null
+  - italian: "avere voglia di"
+    translation:
+      en: "to feel like / to want"
+      ko: "~하고 싶다"
+    gender: null
+    notes:
+      en: "ho voglia di un gelato = I feel like an ice cream"
+      ko: "ho voglia di un gelato = 아이스크림이 먹고 싶다"
+  - italian: "non ne posso più"
+    translation:
+      en: "I can't take it anymore"
+      ko: "더 이상 못 참겠다"
+    gender: null
+  - italian: "mi fa impazzire"
+    translation:
+      en: "it drives me crazy"
+      ko: "미치게 만들다"
+    gender: null
+  - italian: "non me ne importa"
+    translation:
+      en: "I don't care"
+      ko: "상관없다"
+    gender: null
+  - italian: "mi viene da piangere"
+    translation:
+      en: "I feel like crying"
+      ko: "울고 싶다"
+    gender: null
+  - italian: "avere il morale alto"
+    translation:
+      en: "to be in high spirits"
+      ko: "기분이 좋다"
+    gender: null
+  - italian: "avere il morale a terra"
+    translation:
+      en: "to be feeling down"
+      ko: "기분이 바닥이다"
+    gender: null
+  - italian: "sentirsi in colpa"
+    translation:
+      en: "to feel guilty"
+      ko: "죄책감을 느끼다"
+    gender: null
+  - italian: "farsi coraggio"
+    translation:
+      en: "to pluck up courage"
+      ko: "용기를 내다"
+    gender: null
+  - italian: "perdere la pazienza"
+    translation:
+      en: "to lose one's patience"
+      ko: "인내심을 잃다"
+    gender: null
+  - italian: "scoppiare a ridere"
+    translation:
+      en: "to burst out laughing"
+      ko: "웃음을 터뜨리다"
+    gender: null
+  - italian: "scoppiare a piangere"
+    translation:
+      en: "to burst into tears"
+      ko: "울음을 터뜨리다"
+    gender: null

@@ -1,0 +1,791 @@
+lesson: "sup_B2_Psychology_and_Behavior"
+lesson_number: 409
+cefr: B2
+type: supplementary
+topic: "Psychology and Behavior"
+categories:
+- id: psychology_fundamentals
+  label:
+    en: "Psychology Fundamentals"
+    ko: "심리학 기초"
+  type: vocabulary
+  words:
+  - italian: "la psicologia"
+    translation:
+      en: "psychology"
+      ko: "심리학"
+    gender: f
+  - italian: "lo psicologo"
+    translation:
+      en: "psychologist (m)"
+      ko: "심리학자 (남)"
+    gender: m
+  - italian: "la psicologa"
+    translation:
+      en: "psychologist (f)"
+      ko: "심리학자 (여)"
+    gender: f
+  - italian: "la psicologia clinica"
+    translation:
+      en: "clinical psychology"
+      ko: "임상 심리학"
+    gender: f
+  - italian: "la psicologia sociale"
+    translation:
+      en: "social psychology"
+      ko: "사회 심리학"
+    gender: f
+  - italian: "la psicologia dello sviluppo"
+    translation:
+      en: "developmental psychology"
+      ko: "발달 심리학"
+    gender: f
+  - italian: "la neuropsicologia"
+    translation:
+      en: "neuropsychology"
+      ko: "신경심리학"
+    gender: f
+  - italian: "la psicologia cognitiva"
+    translation:
+      en: "cognitive psychology"
+      ko: "인지 심리학"
+    gender: f
+- id: cognitive_processes
+  label:
+    en: "Cognitive Processes"
+    ko: "인지 과정"
+  type: vocabulary
+  words:
+  - italian: "il comportamento"
+    translation:
+      en: "behavior"
+      ko: "행동"
+    gender: m
+  - italian: "la personalità"
+    translation:
+      en: "personality"
+      ko: "성격"
+    gender: f
+  - italian: "l'intelligenza"
+    translation:
+      en: "intelligence"
+      ko: "지능"
+    gender: f
+  - italian: "la memoria"
+    translation:
+      en: "memory"
+      ko: "기억"
+    gender: f
+  - italian: "la memoria a breve termine"
+    translation:
+      en: "short-term memory"
+      ko: "단기 기억"
+    gender: f
+  - italian: "la memoria a lungo termine"
+    translation:
+      en: "long-term memory"
+      ko: "장기 기억"
+    gender: f
+  - italian: "l'apprendimento"
+    translation:
+      en: "learning"
+      ko: "학습"
+    gender: m
+  - italian: "la motivazione"
+    translation:
+      en: "motivation"
+      ko: "동기"
+    gender: f
+  - italian: "la percezione"
+    translation:
+      en: "perception"
+      ko: "지각"
+    gender: f
+  - italian: "l'attenzione"
+    translation:
+      en: "attention"
+      ko: "주의"
+    gender: f
+  - italian: "la concentrazione"
+    translation:
+      en: "concentration"
+      ko: "집중"
+    gender: f
+  - italian: "la cognizione"
+    translation:
+      en: "cognition"
+      ko: "인지"
+    gender: f
+  - italian: "il ragionamento"
+    translation:
+      en: "reasoning"
+      ko: "추론"
+    gender: m
+  - italian: "il pensiero critico"
+    translation:
+      en: "critical thinking"
+      ko: "비판적 사고"
+    gender: m
+  - italian: "la creatività"
+    translation:
+      en: "creativity"
+      ko: "창의성"
+    gender: f
+  - italian: "l'intuizione"
+    translation:
+      en: "intuition"
+      ko: "직관"
+    gender: f
+  - italian: "il pregiudizio"
+    translation:
+      en: "prejudice / bias"
+      ko: "편견"
+    gender: m
+  - italian: "lo stereotipo"
+    translation:
+      en: "stereotype"
+      ko: "고정관념"
+    gender: m
+- id: emotions_and_feelings
+  label:
+    en: "Emotions and Feelings"
+    ko: "감정 및 정서"
+  type: vocabulary
+  words:
+  - italian: "l'emozione"
+    translation:
+      en: "emotion"
+      ko: "감정"
+    gender: f
+  - italian: "il sentimento"
+    translation:
+      en: "feeling"
+      ko: "감정"
+    gender: m
+  - italian: "l'affetto"
+    translation:
+      en: "affection"
+      ko: "애정"
+    gender: m
+  - italian: "il temperamento"
+    translation:
+      en: "temperament"
+      ko: "기질"
+    gender: m
+  - italian: "l'umore"
+    translation:
+      en: "mood"
+      ko: "기분"
+    gender: m
+  - italian: "l'ansia"
+    translation:
+      en: "anxiety"
+      ko: "불안"
+    gender: f
+  - italian: "la paura"
+    translation:
+      en: "fear"
+      ko: "두려움"
+    gender: f
+  - italian: "la gioia"
+    translation:
+      en: "joy"
+      ko: "기쁨"
+    gender: f
+  - italian: "la tristezza"
+    translation:
+      en: "sadness"
+      ko: "슬픔"
+    gender: f
+  - italian: "la rabbia"
+    translation:
+      en: "anger"
+      ko: "분노"
+    gender: f
+  - italian: "la vergogna"
+    translation:
+      en: "shame"
+      ko: "수치심"
+    gender: f
+  - italian: "il senso di colpa"
+    translation:
+      en: "guilt"
+      ko: "죄책감"
+    gender: m
+  - italian: "la frustrazione"
+    translation:
+      en: "frustration"
+      ko: "좌절감"
+    gender: f
+  - italian: "l'autostima"
+    translation:
+      en: "self-esteem"
+      ko: "자존감"
+    gender: f
+  - italian: "la fiducia"
+    translation:
+      en: "trust / confidence"
+      ko: "신뢰"
+    gender: f
+  - italian: "l'insicurezza"
+    translation:
+      en: "insecurity"
+      ko: "불안감"
+    gender: f
+- id: mental_health
+  label:
+    en: "Mental Health and Disorders"
+    ko: "정신 건강 및 장애"
+  type: vocabulary
+  words:
+  - italian: "la salute mentale"
+    translation:
+      en: "mental health"
+      ko: "정신 건강"
+    gender: f
+  - italian: "il benessere psicologico"
+    translation:
+      en: "psychological well-being"
+      ko: "심리적 안녕"
+    gender: m
+  - italian: "lo stress"
+    translation:
+      en: "stress"
+      ko: "스트레스"
+    gender: m
+  - italian: "il burnout"
+    translation:
+      en: "burnout"
+      ko: "번아웃"
+    gender: m
+  - italian: "la depressione"
+    translation:
+      en: "depression"
+      ko: "우울증"
+    gender: f
+  - italian: "il disturbo d'ansia"
+    translation:
+      en: "anxiety disorder"
+      ko: "불안 장애"
+    gender: m
+  - italian: "la fobia"
+    translation:
+      en: "phobia"
+      ko: "공포증"
+    gender: f
+  - italian: "il trauma"
+    translation:
+      en: "trauma"
+      ko: "트라우마"
+    gender: m
+  - italian: "il disturbo post-traumatico"
+    translation:
+      en: "post-traumatic disorder (PTSD)"
+      ko: "외상 후 스트레스 장애"
+    gender: m
+  - italian: "il disturbo alimentare"
+    translation:
+      en: "eating disorder"
+      ko: "섭식 장애"
+    gender: m
+  - italian: "la dipendenza"
+    translation:
+      en: "addiction"
+      ko: "중독"
+    gender: f
+  - italian: "l'insonnia"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: f
+  - italian: "il disturbo bipolare"
+    translation:
+      en: "bipolar disorder"
+      ko: "양극성 장애"
+    gender: m
+- id: therapy_and_treatment
+  label:
+    en: "Therapy and Treatment"
+    ko: "치료 및 상담"
+  type: vocabulary
+  words:
+  - italian: "la psicoterapia"
+    translation:
+      en: "psychotherapy"
+      ko: "심리치료"
+    gender: f
+  - italian: "la psicoanalisi"
+    translation:
+      en: "psychoanalysis"
+      ko: "정신분석"
+    gender: f
+  - italian: "la terapia cognitivo-comportamentale"
+    translation:
+      en: "cognitive behavioral therapy (CBT)"
+      ko: "인지행동치료"
+    gender: f
+  - italian: "la seduta"
+    translation:
+      en: "session (therapy)"
+      ko: "상담 세션"
+    gender: f
+  - italian: "il terapeuta"
+    translation:
+      en: "therapist"
+      ko: "치료사"
+    gender: m
+  - italian: "l'inconscio"
+    translation:
+      en: "unconscious"
+      ko: "무의식"
+    gender: m
+  - italian: "il conscio"
+    translation:
+      en: "conscious"
+      ko: "의식"
+    gender: m
+  - italian: "il subconscio"
+    translation:
+      en: "subconscious"
+      ko: "잠재의식"
+    gender: m
+  - italian: "il meccanismo di difesa"
+    translation:
+      en: "defense mechanism"
+      ko: "방어 기제"
+    gender: m
+  - italian: "la rimozione"
+    translation:
+      en: "repression"
+      ko: "억압"
+    gender: f
+  - italian: "la proiezione"
+    translation:
+      en: "projection"
+      ko: "투사"
+    gender: f
+  - italian: "il transfert"
+    translation:
+      en: "transference"
+      ko: "전이"
+    gender: m
+- id: behavioral_traits
+  label:
+    en: "Behavioral Traits and Skills"
+    ko: "행동 특성 및 능력"
+  type: vocabulary
+  words:
+  - italian: "la resilienza"
+    translation:
+      en: "resilience"
+      ko: "회복력"
+    gender: f
+  - italian: "l'empatia"
+    translation:
+      en: "empathy"
+      ko: "공감"
+    gender: f
+  - italian: "l'assertività"
+    translation:
+      en: "assertiveness"
+      ko: "주장성"
+    gender: f
+  - italian: "l'introversione"
+    translation:
+      en: "introversion"
+      ko: "내향성"
+    gender: f
+  - italian: "l'estroversione"
+    translation:
+      en: "extroversion"
+      ko: "외향성"
+    gender: f
+  - italian: "l'adattamento"
+    translation:
+      en: "adaptation"
+      ko: "적응"
+    gender: m
+  - italian: "l'intelligenza emotiva"
+    translation:
+      en: "emotional intelligence"
+      ko: "감성 지능"
+    gender: f
+  - italian: "la consapevolezza"
+    translation:
+      en: "awareness / mindfulness"
+      ko: "인식 / 마음챙김"
+    gender: f
+  - italian: "analizzare"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+  - italian: "condizionare"
+    translation:
+      en: "to condition"
+      ko: "조건화하다"
+  - italian: "reprimere"
+    translation:
+      en: "to repress"
+      ko: "억압하다"
+  - italian: "proiettare"
+    translation:
+      en: "to project"
+      ko: "투사하다"
+  - italian: "adattarsi"
+    translation:
+      en: "to adapt"
+      ko: "적응하다"
+  - italian: "reagire"
+    translation:
+      en: "to react"
+      ko: "반응하다"
+  - italian: "elaborare"
+    translation:
+      en: "to process / to work through"
+      ko: "처리하다"
+  - italian: "superare"
+    translation:
+      en: "to overcome"
+      ko: "극복하다"
+  - italian: "motivare"
+    translation:
+      en: "to motivate"
+      ko: "동기를 부여하다"
+  - italian: "influenzare"
+    translation:
+      en: "to influence"
+      ko: "영향을 미치다"
+  - italian: "manipolare"
+    translation:
+      en: "to manipulate"
+      ko: "조종하다"
+  - italian: "interiorizzare"
+    translation:
+      en: "to internalize"
+      ko: "내면화하다"
+  - italian: "sublimare"
+    translation:
+      en: "to sublimate"
+      ko: "승화하다"
+  - italian: "razionalizzare"
+    translation:
+      en: "to rationalize"
+      ko: "합리화하다"
+  - italian: "negare"
+    translation:
+      en: "to deny"
+      ko: "부정하다"
+  - italian: "compensare"
+    translation:
+      en: "to compensate"
+      ko: "보상하다"
+- id: social_psychology
+  label:
+    en: "Social Psychology"
+    ko: "사회 심리학"
+  type: vocabulary
+  words:
+  - italian: "il conformismo"
+    translation:
+      en: "conformism"
+      ko: "순응주의"
+    gender: m
+  - italian: "l'obbedienza"
+    translation:
+      en: "obedience"
+      ko: "복종"
+    gender: f
+  - italian: "il gruppo"
+    translation:
+      en: "group"
+      ko: "집단"
+    gender: m
+  - italian: "la dinamica di gruppo"
+    translation:
+      en: "group dynamics"
+      ko: "집단 역학"
+    gender: f
+  - italian: "il ruolo sociale"
+    translation:
+      en: "social role"
+      ko: "사회적 역할"
+    gender: m
+  - italian: "l'identità sociale"
+    translation:
+      en: "social identity"
+      ko: "사회적 정체성"
+    gender: f
+  - italian: "l'influenza sociale"
+    translation:
+      en: "social influence"
+      ko: "사회적 영향"
+    gender: f
+  - italian: "la pressione sociale"
+    translation:
+      en: "social pressure"
+      ko: "사회적 압력"
+    gender: f
+  - italian: "il bullismo"
+    translation:
+      en: "bullying"
+      ko: "괴롭힘"
+    gender: m
+  - italian: "il cyberbullismo"
+    translation:
+      en: "cyberbullying"
+      ko: "사이버 괴롭힘"
+    gender: m
+  - italian: "il leader"
+    translation:
+      en: "leader"
+      ko: "리더"
+    gender: m
+  - italian: "la leadership"
+    translation:
+      en: "leadership"
+      ko: "리더십"
+    gender: f
+  - italian: "il carisma"
+    translation:
+      en: "charisma"
+      ko: "카리스마"
+    gender: m
+  - italian: "la persuasione"
+    translation:
+      en: "persuasion"
+      ko: "설득"
+    gender: f
+  - italian: "la propaganda"
+    translation:
+      en: "propaganda"
+      ko: "선전"
+    gender: f
+  - italian: "la dissonanza cognitiva"
+    translation:
+      en: "cognitive dissonance"
+      ko: "인지 부조화"
+    gender: f
+  - italian: "l'effetto alone"
+    translation:
+      en: "halo effect"
+      ko: "후광 효과"
+    gender: m
+  - italian: "il condizionamento classico"
+    translation:
+      en: "classical conditioning"
+      ko: "고전적 조건형성"
+    gender: m
+  - italian: "il condizionamento operante"
+    translation:
+      en: "operant conditioning"
+      ko: "조작적 조건형성"
+    gender: m
+  - italian: "il rinforzo"
+    translation:
+      en: "reinforcement"
+      ko: "강화"
+    gender: m
+  - italian: "la punizione"
+    translation:
+      en: "punishment"
+      ko: "처벌"
+    gender: f
+- id: developmental_psychology
+  label:
+    en: "Developmental Psychology"
+    ko: "발달 심리학"
+  type: vocabulary
+  words:
+  - italian: "lo sviluppo"
+    translation:
+      en: "development"
+      ko: "발달"
+    gender: m
+  - italian: "l'infanzia"
+    translation:
+      en: "infancy / childhood"
+      ko: "유아기"
+    gender: f
+  - italian: "l'adolescenza"
+    translation:
+      en: "adolescence"
+      ko: "청소년기"
+    gender: f
+  - italian: "la pubertà"
+    translation:
+      en: "puberty"
+      ko: "사춘기"
+    gender: f
+  - italian: "la maturità"
+    translation:
+      en: "maturity"
+      ko: "성숙"
+    gender: f
+  - italian: "la terza età"
+    translation:
+      en: "old age / third age"
+      ko: "노년기"
+    gender: f
+  - italian: "l'attaccamento"
+    translation:
+      en: "attachment"
+      ko: "애착"
+    gender: m
+  - italian: "la socializzazione"
+    translation:
+      en: "socialization"
+      ko: "사회화"
+    gender: f
+  - italian: "la fase"
+    translation:
+      en: "phase / stage"
+      ko: "단계"
+    gender: f
+  - italian: "la crisi di identità"
+    translation:
+      en: "identity crisis"
+      ko: "정체성 위기"
+    gender: f
+  - italian: "l'autoefficacia"
+    translation:
+      en: "self-efficacy"
+      ko: "자기효능감"
+    gender: f
+  - italian: "il bisogno"
+    translation:
+      en: "need"
+      ko: "욕구"
+    gender: m
+  - italian: "la gerarchia dei bisogni"
+    translation:
+      en: "hierarchy of needs"
+      ko: "욕구 위계"
+    gender: f
+    notes:
+      en: "Maslow's hierarchy of needs"
+      ko: "매슬로의 욕구 위계"
+  - italian: "il quoziente intellettivo"
+    translation:
+      en: "intelligence quotient (IQ)"
+      ko: "지능지수"
+    gender: m
+  - italian: "il test psicologico"
+    translation:
+      en: "psychological test"
+      ko: "심리 검사"
+    gender: m
+  - italian: "il colloquio clinico"
+    translation:
+      en: "clinical interview"
+      ko: "임상 면담"
+    gender: m
+  - italian: "la mindfulness"
+    translation:
+      en: "mindfulness"
+      ko: "마음챙김"
+    gender: f
+  - italian: "il benessere"
+    translation:
+      en: "well-being"
+      ko: "안녕감"
+    gender: m
+  - italian: "la psicometria"
+    translation:
+      en: "psychometrics"
+      ko: "심리측정학"
+    gender: f
+  - italian: "il profilo psicologico"
+    translation:
+      en: "psychological profile"
+      ko: "심리 프로필"
+    gender: m
+  - italian: "il disturbo ossessivo-compulsivo"
+    translation:
+      en: "obsessive-compulsive disorder (OCD)"
+      ko: "강박 장애"
+    gender: m
+  - italian: "il disturbo della personalità"
+    translation:
+      en: "personality disorder"
+      ko: "성격 장애"
+    gender: m
+  - italian: "la nevrosi"
+    translation:
+      en: "neurosis"
+      ko: "신경증"
+    gender: f
+  - italian: "la psicosi"
+    translation:
+      en: "psychosis"
+      ko: "정신병"
+    gender: f
+  - italian: "l'agorafobia"
+    translation:
+      en: "agoraphobia"
+      ko: "광장공포증"
+    gender: f
+  - italian: "la claustrofobia"
+    translation:
+      en: "claustrophobia"
+      ko: "폐소공포증"
+    gender: f
+  - italian: "l'ipocondria"
+    translation:
+      en: "hypochondria"
+      ko: "건강 염려증"
+    gender: f
+  - italian: "la somatizzazione"
+    translation:
+      en: "somatization"
+      ko: "신체화"
+    gender: f
+  - italian: "l'effetto placebo"
+    translation:
+      en: "placebo effect"
+      ko: "플라시보 효과"
+    gender: m
+  - italian: "il comportamentismo"
+    translation:
+      en: "behaviorism"
+      ko: "행동주의"
+    gender: m
+  - italian: "il cognitivismo"
+    translation:
+      en: "cognitivism"
+      ko: "인지주의"
+    gender: m
+  - italian: "la Gestalt"
+    translation:
+      en: "Gestalt"
+      ko: "게슈탈트"
+    gender: f
+  - italian: "l'associazione libera"
+    translation:
+      en: "free association"
+      ko: "자유 연상"
+    gender: f
+  - italian: "il sogno"
+    translation:
+      en: "dream"
+      ko: "꿈"
+    gender: m
+  - italian: "l'interpretazione dei sogni"
+    translation:
+      en: "dream interpretation"
+      ko: "꿈의 해석"
+    gender: f
+  - italian: "la catarsi"
+    translation:
+      en: "catharsis"
+      ko: "카타르시스"
+    gender: f
+  - italian: "l'empatia cognitiva"
+    translation:
+      en: "cognitive empathy"
+      ko: "인지적 공감"
+    gender: f
+  - italian: "la metacognizione"
+    translation:
+      en: "metacognition"
+      ko: "메타인지"
+    gender: f

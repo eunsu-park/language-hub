@@ -1,0 +1,510 @@
+lesson: 12_Future_Conditional_and_Compound_Tenses
+lesson_number: 12
+cefr: B1
+categories:
+- id: future_expressions
+  label:
+    en: Future Expressions
+    ko: 미래 표현
+  type: vocabulary
+  words:
+  - italian: domani
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+  - italian: dopodomani
+    translation:
+      en: the day after tomorrow
+      ko: 모레
+    gender: null
+  - italian: la settimana prossima
+    translation:
+      en: next week
+      ko: 다음 주
+    gender: f
+  - italian: il mese prossimo
+    translation:
+      en: next month
+      ko: 다음 달
+    gender: m
+  - italian: l'anno prossimo
+    translation:
+      en: next year
+      ko: 내년
+    gender: m
+  - italian: fra poco
+    translation:
+      en: in a little while / shortly
+      ko: 곧 / 조금 후에
+    gender: null
+    notes:
+      en: "'fra' and 'tra' are interchangeable"
+      ko: "'fra'와 'tra'는 서로 바꿔 쓸 수 있음"
+  - italian: tra un'ora
+    translation:
+      en: in an hour
+      ko: 한 시간 후에
+    gender: null
+  - italian: presto
+    translation:
+      en: soon / early
+      ko: 곧 / 일찍
+    gender: null
+  - italian: più tardi
+    translation:
+      en: later
+      ko: 나중에
+    gender: null
+  - italian: in futuro
+    translation:
+      en: in the future
+      ko: 미래에
+    gender: null
+  - italian: un giorno
+    translation:
+      en: one day / someday
+      ko: 언젠가
+    gender: null
+  - italian: a breve
+    translation:
+      en: shortly / in the near future
+      ko: 곧 / 가까운 시일 내에
+    gender: null
+  - italian: da ora in poi
+    translation:
+      en: from now on
+      ko: 지금부터
+    gender: null
+  - italian: prima o poi
+    translation:
+      en: sooner or later
+      ko: 조만간
+    gender: null
+  - italian: a lungo termine
+    translation:
+      en: in the long term
+      ko: 장기적으로
+    gender: null
+  - italian: a breve termine
+    translation:
+      en: in the short term
+      ko: 단기적으로
+    gender: null
+  - italian: stare per + infinito
+    translation:
+      en: to be about to + verb
+      ko: 막 ~하려고 하다
+    gender: null
+    notes:
+      en: Immediate future; 'sto per uscire' = I'm about to leave
+      ko: 가까운 미래; 'sto per uscire' = 막 나가려고 해
+  - italian: entro domani
+    translation:
+      en: by tomorrow
+      ko: 내일까지
+    gender: null
+  - italian: d'ora in avanti
+    translation:
+      en: from now on / henceforth
+      ko: 앞으로 / 이제부터
+    gender: null
+  - italian: quanto prima
+    translation:
+      en: as soon as possible
+      ko: 가능한 한 빨리
+    gender: null
+  - italian: nel giro di
+    translation:
+      en: within (a timeframe)
+      ko: ~이내에
+    gender: null
+    notes:
+      en: "'nel giro di un mese' = within a month"
+      ko: "'nel giro di un mese' = 한 달 이내에"
+- id: conditional_phrases
+  label:
+    en: Conditional Phrases
+    ko: 조건법 표현
+  type: vocabulary
+  words:
+  - italian: vorrei
+    translation:
+      en: I would like
+      ko: ~하고 싶습니다
+    gender: null
+    notes:
+      en: Conditional of 'volere'; very common polite form
+      ko: "'volere'의 조건법; 매우 일반적인 공손 표현"
+  - italian: potrei
+    translation:
+      en: I could / I would be able to
+      ko: ~할 수 있을 것이다
+    gender: null
+  - italian: dovrei
+    translation:
+      en: I should / I ought to
+      ko: ~해야 할 것이다
+    gender: null
+  - italian: sarebbe
+    translation:
+      en: it would be
+      ko: ~일 것이다
+    gender: null
+  - italian: mi piacerebbe
+    translation:
+      en: I would like (lit. it would please me)
+      ko: ~하고 싶을 것이다
+    gender: null
+  - italian: farei
+    translation:
+      en: I would do/make
+      ko: ~할 것이다
+    gender: null
+  - italian: andrei
+    translation:
+      en: I would go
+      ko: 갈 것이다
+    gender: null
+  - italian: direi
+    translation:
+      en: I would say
+      ko: 말할 것이다
+    gender: null
+  - italian: al posto tuo
+    translation:
+      en: in your place / if I were you
+      ko: 네 입장이라면
+    gender: null
+  - italian: se potessi
+    translation:
+      en: if I could
+      ko: 할 수 있다면
+    gender: null
+  - italian: se avessi tempo
+    translation:
+      en: if I had time
+      ko: 시간이 있다면
+    gender: null
+  - italian: Le dispiacerebbe...?
+    translation:
+      en: Would you mind...? (formal)
+      ko: ~해 주시겠어요? (격식)
+    gender: null
+    notes:
+      en: Polite conditional request in formal Italian
+      ko: 격식 이탈리아어에서 공손한 조건법 요청
+  - italian: avrei bisogno di
+    translation:
+      en: I would need
+      ko: ~이 필요할 텐데
+    gender: null
+  - italian: sarebbe meglio
+    translation:
+      en: it would be better
+      ko: ~하는 것이 더 좋을 것이다
+    gender: null
+  - italian: non saprei
+    translation:
+      en: I wouldn't know
+      ko: 모르겠다
+    gender: null
+    notes:
+      en: Common softening expression in conversation
+      ko: 대화에서 일반적인 완화 표현
+  - italian: verrei volentieri
+    translation:
+      en: I would gladly come
+      ko: 기꺼이 갈 것이다
+    gender: null
+- id: compound_tense_verbs
+  label:
+    en: Compound Tense Verbs
+    ko: 복합 시제 동사
+  type: vocabulary
+  words:
+  - italian: avevo parlato
+    translation:
+      en: I had spoken
+      ko: 나는 말했었다
+    gender: null
+    notes:
+      en: Trapassato prossimo (pluperfect) with 'avere'
+      ko: "'avere'를 사용한 대과거"
+  - italian: ero andato/a
+    translation:
+      en: I had gone
+      ko: 나는 갔었다
+    gender: null
+    notes:
+      en: Trapassato prossimo with 'essere'; participle agrees with subject
+      ko: "'essere'를 사용한 대과거; 과거분사가 주어에 성수 일치"
+  - italian: avrò finito
+    translation:
+      en: I will have finished
+      ko: 나는 끝내 놓을 것이다
+    gender: null
+    notes:
+      en: Futuro anteriore (future perfect)
+      ko: 전미래 (미래완료)
+  - italian: avrei voluto
+    translation:
+      en: I would have wanted
+      ko: 원했을 텐데
+    gender: null
+    notes:
+      en: Condizionale passato (conditional perfect)
+      ko: 조건 완료 (과거 조건법)
+  - italian: sarò partito/a
+    translation:
+      en: I will have left
+      ko: 떠났을 것이다
+    gender: null
+    notes:
+      en: Futuro anteriore with 'essere'
+      ko: "'essere'를 사용한 전미래"
+  - italian: avrei potuto
+    translation:
+      en: I could have / I would have been able to
+      ko: ~할 수 있었을 텐데
+    gender: null
+    notes:
+      en: Condizionale passato of 'potere'
+      ko: "'potere'의 조건 완료"
+  - italian: sarei venuto/a
+    translation:
+      en: I would have come
+      ko: 왔을 텐데
+    gender: null
+    notes:
+      en: Condizionale passato with 'essere'
+      ko: "'essere'를 사용한 조건 완료"
+  - italian: avevo già mangiato
+    translation:
+      en: I had already eaten
+      ko: 이미 먹었었다
+    gender: null
+  - italian: sarà arrivato/a
+    translation:
+      en: he/she will have arrived
+      ko: 도착했을 것이다
+    gender: null
+    notes:
+      en: Also used for conjecture about the past
+      ko: 과거에 대한 추측으로도 사용됨
+  - italian: avevo già saputo
+    translation:
+      en: I had already found out
+      ko: 이미 알게 되었었다
+    gender: null
+  - italian: non avrei mai immaginato
+    translation:
+      en: I would have never imagined
+      ko: 상상도 못 했을 것이다
+    gender: null
+  - italian: avremmo dovuto
+    translation:
+      en: we should have
+      ko: 우리는 ~했어야 했다
+    gender: null
+  - italian: saresti dovuto/a venire
+    translation:
+      en: you should have come
+      ko: 너는 왔어야 했다
+    gender: null
+  - italian: avrò capito male
+    translation:
+      en: I must have misunderstood
+      ko: 내가 잘못 이해했나 보다
+    gender: null
+    notes:
+      en: Futuro anteriore expressing conjecture about past
+      ko: 과거에 대한 추측을 나타내는 전미래
+  - italian: se ne sarà andato
+    translation:
+      en: he must have left
+      ko: 그는 떠났을 것이다
+    gender: null
+  - italian: avrebbe voluto restare
+    translation:
+      en: he/she would have wanted to stay
+      ko: 머물고 싶었을 것이다
+    gender: null
+  - italian: sarebbe stato meglio
+    translation:
+      en: it would have been better
+      ko: 더 좋았을 텐데
+    gender: null
+- id: probability_expressions
+  label:
+    en: Probability Expressions
+    ko: 추측 표현
+  type: vocabulary
+  words:
+  - italian: sarà
+    translation:
+      en: it must be / it probably is
+      ko: ~일 것이다 (추측)
+    gender: null
+    notes:
+      en: Future tense used for present conjecture
+      ko: 현재에 대한 추측에 사용되는 미래 시제
+  - italian: saranno
+    translation:
+      en: they must be / they probably are
+      ko: ~일 것이다 (복수, 추측)
+    gender: null
+  - italian: avrà
+    translation:
+      en: he/she must have / probably has
+      ko: ~일 것이다 / 가지고 있을 것이다
+    gender: null
+    notes:
+      en: "'avrà 30 anni' = he must be 30 years old"
+      ko: "'avrà 30 anni' = 30살쯤 될 것이다"
+  - italian: starà
+    translation:
+      en: he/she must be (doing)
+      ko: ~하고 있을 것이다
+    gender: null
+  - italian: dovrebbe essere
+    translation:
+      en: it should be
+      ko: ~이어야 한다 / ~일 것이다
+    gender: null
+  - italian: potrebbe essere
+    translation:
+      en: it could be
+      ko: ~일 수 있다
+    gender: null
+  - italian: sarà vero?
+    translation:
+      en: could it be true?
+      ko: 사실일까?
+    gender: null
+  - italian: chissà
+    translation:
+      en: who knows
+      ko: 누가 알겠어
+    gender: null
+  - italian: forse
+    translation:
+      en: maybe / perhaps
+      ko: 아마 / 어쩌면
+    gender: null
+  - italian: probabilmente
+    translation:
+      en: probably
+      ko: 아마도
+    gender: null
+  - italian: sicuramente
+    translation:
+      en: surely / certainly
+      ko: 확실히 / 틀림없이
+    gender: null
+  - italian: magari
+    translation:
+      en: maybe / I wish
+      ko: 어쩌면 / ~하면 좋겠다
+    gender: null
+  - italian: senz'altro
+    translation:
+      en: certainly / without doubt
+      ko: 틀림없이 / 물론
+    gender: null
+- id: future_conditional_example_phrases
+  label:
+    en: Future and Conditional Example Phrases
+    ko: 미래 및 조건법 예문
+  type: vocabulary
+  words:
+  - italian: Domani andrò dal medico.
+    translation:
+      en: Tomorrow I will go to the doctor.
+      ko: 내일 병원에 갈 것이다.
+    gender: null
+    notes:
+      en: Simple future tense
+      ko: 단순 미래 시제
+  - italian: Verrai alla festa?
+    translation:
+      en: Will you come to the party?
+      ko: 파티에 올 거야?
+    gender: null
+    notes:
+      en: Irregular future stem 'verr-'
+      ko: 불규칙 미래 어간 'verr-'
+  - italian: Ci sarà molta gente.
+    translation:
+      en: There will be a lot of people.
+      ko: 사람이 많을 것이다.
+    gender: null
+  - italian: Se fossi ricco, viaggerei per il mondo.
+    translation:
+      en: If I were rich, I would travel the world.
+      ko: 부자라면 세계를 여행할 텐데.
+    gender: null
+    notes:
+      en: Hypothetical conditional (congiuntivo imperfetto + condizionale)
+      ko: 가정 조건 (접속법 반과거 + 조건법)
+  - italian: Ha detto che sarebbe venuto.
+    translation:
+      en: He said he would come.
+      ko: 그는 올 거라고 말했다.
+    gender: null
+    notes:
+      en: Conditional for future-in-the-past
+      ko: 과거 시점의 미래를 나타내는 조건법
+  - italian: Ho già finito il compito.
+    translation:
+      en: I have already finished the homework.
+      ko: 이미 숙제를 끝냈다.
+    gender: null
+    notes:
+      en: Passato prossimo with 'già'
+      ko: "'già'와 함께 쓰인 근과거"
+  - italian: Non ho mai visto la neve.
+    translation:
+      en: I have never seen snow.
+      ko: 눈을 본 적이 없다.
+    gender: null
+  - italian: Quando sono arrivato, erano già usciti.
+    translation:
+      en: When I arrived, they had already left.
+      ko: 내가 도착했을 때 그들은 이미 떠났었다.
+    gender: null
+    notes:
+      en: Trapassato prossimo for action before another past action
+      ko: 다른 과거 행동 이전의 행동을 나타내는 대과거
+  - italian: Sarei andato, ma ero malato.
+    translation:
+      en: I would have gone, but I was sick.
+      ko: 갔을 텐데, 아팠다.
+    gender: null
+    notes:
+      en: Condizionale passato (conditional perfect)
+      ko: 조건 완료 (과거 조건법)
+  - italian: Per venerdì, avrò finito.
+    translation:
+      en: By Friday, I will have finished.
+      ko: 금요일까지 끝내 놓을 것이다.
+    gender: null
+    notes:
+      en: Futuro anteriore (future perfect)
+      ko: 전미래 (미래완료)
+  - italian: Saranno le tre.
+    translation:
+      en: It must be three o'clock.
+      ko: 세 시쯤 될 것이다.
+    gender: null
+    notes:
+      en: Future of probability -- guessing about the present
+      ko: 추측의 미래 -- 현재에 대한 추측
+  - italian: Mi sarebbe piaciuto venire con te.
+    translation:
+      en: I would have liked to come with you.
+      ko: 너와 함께 가고 싶었을 텐데.
+    gender: null
+    notes:
+      en: Condizionale passato for unfulfilled wish
+      ko: 이루어지지 않은 소망의 조건 완료

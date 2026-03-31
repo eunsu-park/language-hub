@@ -1,0 +1,364 @@
+lesson: 24_Business_Italian
+lesson_number: 24
+cefr: B2-C1
+categories:
+- id: professional_titles
+  label:
+    en: Professional Titles
+    ko: 직함
+  type: vocabulary
+  words:
+  - italian: il Dottore / la Dottoressa
+    translation:
+      en: Doctor (m/f) — used for any university graduate
+      ko: 박사 / 선생님 (남/여) — 대학 졸업자에게 사용
+    gender: m/f
+    notes:
+      en: In Italy, anyone with a laurea (degree) is addressed as 'Dottore/Dottoressa'
+      ko: 이탈리아에서는 학위(라우레아)가 있는 사람을 'Dottore/Dottoressa'로 호칭
+  - italian: l'Ingegnere
+    translation:
+      en: Engineer (title)
+      ko: 엔지니어 (직함)
+    gender: m
+    notes:
+      en: Abbreviated 'Ing.'; a protected professional title in Italy
+      ko: "'Ing.'로 축약; 이탈리아에서 보호받는 전문 직함"
+  - italian: l'Avvocato / l'Avvocatessa
+    translation:
+      en: Lawyer (m/f)
+      ko: 변호사 (남/여)
+    gender: m/f
+    notes:
+      en: Abbreviated 'Avv.'; often used as a form of address
+      ko: "'Avv.'로 축약; 종종 호칭으로 사용됨"
+  - italian: il Ragioniere / la Ragioniera
+    translation:
+      en: Accountant (m/f)
+      ko: 회계사 (남/여)
+    gender: m/f
+    notes:
+      en: Traditional title; 'il commercialista' is the modern equivalent
+      ko: 전통적 직함; 현대적으로는 'il commercialista'
+  - italian: il Direttore / la Direttrice
+    translation:
+      en: Director / Manager (m/f)
+      ko: 이사 / 관리자 (남/여)
+    gender: m/f
+  - italian: l'Amministratore Delegato
+    translation:
+      en: CEO (Chief Executive Officer)
+      ko: 최고경영자 (CEO)
+    gender: m
+    notes:
+      en: Abbreviated 'AD'; equivalent to CEO
+      ko: "'AD'로 축약; CEO에 해당"
+  - italian: il Presidente
+    translation:
+      en: the President / Chairman
+      ko: 회장 / 대표
+    gender: m
+    notes:
+      en: "'La Presidente' or 'la Presidentessa' for female"
+      ko: 여성은 'la Presidente' 또는 'la Presidentessa'
+  - italian: il Responsabile
+    translation:
+      en: the manager / person in charge
+      ko: 책임자 / 담당자
+    gender: m
+    notes:
+      en: "'Responsabile di reparto' = department head"
+      ko: "'responsabile di reparto' = 부서장"
+  - italian: il Consulente
+    translation:
+      en: the consultant
+      ko: 컨설턴트
+    gender: m
+    notes:
+      en: "'La consulente' for female"
+      ko: 여성은 'la consulente'
+  - italian: il Segretario / la Segretaria
+    translation:
+      en: Secretary (m/f)
+      ko: 비서 (남/여)
+    gender: m/f
+  - italian: il Commercialista
+    translation:
+      en: Chartered accountant / Tax consultant
+      ko: 공인 회계사 / 세무사
+    gender: m
+    notes:
+      en: Handles tax, accounting, and business advisory in Italy
+      ko: 이탈리아에서 세금, 회계, 경영 자문을 담당
+- id: business_terms
+  label:
+    en: Business and Finance Terms
+    ko: 비즈니스 및 금융 용어
+  type: vocabulary
+  words:
+  - italian: l'azienda
+    translation:
+      en: the company / business
+      ko: 회사 / 기업
+    gender: f
+  - italian: la ditta
+    translation:
+      en: the firm / company (smaller)
+      ko: 회사 / 상점 (소규모)
+    gender: f
+    notes:
+      en: Often refers to smaller, family-run businesses
+      ko: 종종 소규모 가족 경영 업체를 가리킴
+  - italian: la società
+    translation:
+      en: the corporation / company / society
+      ko: 법인 / 회사 / 사회
+    gender: f
+    notes:
+      en: "'Società per azioni (S.p.A.)' = public limited company"
+      ko: "'Società per azioni (S.p.A.)' = 주식회사"
+  - italian: il fatturato
+    translation:
+      en: the revenue / turnover
+      ko: 매출액
+    gender: m
+  - italian: il bilancio
+    translation:
+      en: the balance sheet / budget
+      ko: 대차대조표 / 예산
+    gender: m
+  - italian: l'utile
+    translation:
+      en: the profit
+      ko: 이익
+    gender: m
+    notes:
+      en: "'Utile netto' = net profit"
+      ko: "'utile netto' = 순이익"
+  - italian: la perdita
+    translation:
+      en: the loss
+      ko: 손실
+    gender: f
+  - italian: il contratto
+    translation:
+      en: the contract
+      ko: 계약
+    gender: m
+    notes:
+      en: "'Firmare un contratto' = to sign a contract"
+      ko: "'firmare un contratto' = 계약서에 서명하다"
+  - italian: la fattura
+    translation:
+      en: the invoice
+      ko: 송장 / 인보이스
+    gender: f
+    notes:
+      en: Not 'bill' (il conto); fattura is a formal tax document
+      ko: "'계산서'(il conto)가 아님; fattura는 공식 세금 문서"
+  - italian: lo stipendio
+    translation:
+      en: the salary
+      ko: 급여
+    gender: m
+  - italian: il bonus
+    translation:
+      en: the bonus
+      ko: 보너스
+    gender: m
+  - italian: il colloquio (di lavoro)
+    translation:
+      en: the (job) interview
+      ko: (입사) 면접
+    gender: m
+  - italian: il curriculum vitae
+    translation:
+      en: the CV / resume
+      ko: 이력서
+    gender: m
+    notes:
+      en: Often abbreviated 'CV'; 'mandare il CV' = to send the resume
+      ko: "'CV'로 줄임; 'mandare il CV' = 이력서를 보내다"
+  - italian: l'assunzione
+    translation:
+      en: the hiring / employment
+      ko: 채용 / 고용
+    gender: f
+  - italian: il licenziamento
+    translation:
+      en: the dismissal / firing
+      ko: 해고
+    gender: m
+  - italian: le dimissioni
+    translation:
+      en: the resignation
+      ko: 사직
+    gender: f
+    notes:
+      en: Always plural; 'dare le dimissioni' = to resign
+      ko: 항상 복수형; 'dare le dimissioni' = 사직하다
+  - italian: la sede
+    translation:
+      en: the headquarters / office
+      ko: 본사 / 사무실
+    gender: f
+    notes:
+      en: "'Sede centrale' = main office; 'sede legale' = registered office"
+      ko: "'sede centrale' = 본사; 'sede legale' = 등기 사무소"
+- id: meeting_vocabulary
+  label:
+    en: Meeting Vocabulary
+    ko: 회의 용어
+  type: vocabulary
+  words:
+  - italian: la riunione
+    translation:
+      en: the meeting
+      ko: 회의
+    gender: f
+    notes:
+      en: General term for any business meeting
+      ko: 모든 비즈니스 회의를 위한 일반 용어
+  - italian: l'ordine del giorno
+    translation:
+      en: the agenda
+      ko: 의제 / 안건
+    gender: m
+    notes:
+      en: Lit. 'order of the day'
+      ko: 직역 '오늘의 순서'
+  - italian: il verbale
+    translation:
+      en: the minutes (of a meeting)
+      ko: 회의록
+    gender: m
+  - italian: la presentazione
+    translation:
+      en: the presentation
+      ko: 발표 / 프레젠테이션
+    gender: f
+  - italian: il relatore / la relatrice
+    translation:
+      en: the speaker / presenter (m/f)
+      ko: 발표자 (남/여)
+    gender: m/f
+  - italian: la proposta
+    translation:
+      en: the proposal
+      ko: 제안
+    gender: f
+  - italian: la decisione
+    translation:
+      en: the decision
+      ko: 결정
+    gender: f
+  - italian: il compromesso
+    translation:
+      en: the compromise
+      ko: 타협
+    gender: m
+  - italian: la scadenza
+    translation:
+      en: the deadline
+      ko: 마감일
+    gender: f
+    notes:
+      en: From 'scadere' (to expire); also used for expiration dates
+      ko: "'scadere'(만료되다)에서 유래; 유효 기간에도 사용"
+  - italian: il punto all'ordine del giorno
+    translation:
+      en: the agenda item
+      ko: 안건 항목
+    gender: m
+  - italian: la videoconferenza
+    translation:
+      en: the video conference
+      ko: 화상 회의
+    gender: f
+  - italian: prendere la parola
+    translation:
+      en: to take the floor / to speak up
+      ko: 발언하다
+    gender: null
+    notes:
+      en: Lit. 'to take the word'
+      ko: 직역 '말을 가지다'
+  - italian: mettere ai voti
+    translation:
+      en: to put to a vote
+      ko: 투표에 부치다
+    gender: null
+- id: correspondence
+  label:
+    en: Business Correspondence
+    ko: 비즈니스 서신
+  type: vocabulary
+  words:
+  - italian: Gentile
+    translation:
+      en: Dear (formal salutation)
+      ko: 친애하는 (격식 인사)
+    gender: null
+    notes:
+      en: "'Gentile Dott. Rossi,' — standard business opening"
+      ko: "'Gentile Dott. Rossi,' — 표준 비즈니스 서두"
+  - italian: In riferimento a
+    translation:
+      en: With reference to
+      ko: ~에 관하여
+    gender: null
+    notes:
+      en: "'In riferimento alla Sua email del 5 marzo...'"
+      ko: "'In riferimento alla Sua email del 5 marzo...' (3월 5일 이메일에 관하여)"
+  - italian: In allegato
+    translation:
+      en: Attached / Enclosed
+      ko: 첨부하여
+    gender: null
+    notes:
+      en: "'In allegato troverà...' = Attached you will find..."
+      ko: "'In allegato troverà...' = 첨부된 것에서 ~을 찾으실 수 있습니다"
+  - italian: Con la presente
+    translation:
+      en: Hereby / By this letter
+      ko: 본 서신을 통해
+    gender: null
+  - italian: Resto a disposizione
+    translation:
+      en: I remain at your disposal
+      ko: 도움이 필요하시면 말씀해 주십시오
+    gender: null
+  - italian: Distinti saluti
+    translation:
+      en: Yours faithfully
+      ko: 경의를 표하며
+    gender: null
+  - italian: Cordiali saluti
+    translation:
+      en: Kind regards
+      ko: 친절한 인사를 드리며
+    gender: null
+  - italian: all'attenzione di (c.a.)
+    translation:
+      en: for the attention of (FAO)
+      ko: ~앞 / ~귀하
+    gender: null
+    notes:
+      en: Abbreviated 'c.a.' (cortese attenzione)
+      ko: "'c.a.'(cortese attenzione)로 축약"
+  - italian: La preghiamo di
+    translation:
+      en: We kindly ask you to
+      ko: ~해 주시기를 부탁드립니다
+    gender: null
+    notes:
+      en: Very formal request formula
+      ko: 매우 격식적인 요청 표현
+  - italian: In attesa di un Suo cortese riscontro
+    translation:
+      en: Awaiting your kind response
+      ko: 회신을 기다리겠습니다
+    gender: null
+    notes:
+      en: Standard formal closing before salutation
+      ko: 인사 전 표준 격식 마무리

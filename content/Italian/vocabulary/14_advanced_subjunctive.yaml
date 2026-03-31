@@ -1,0 +1,484 @@
+lesson: 14_Advanced_Subjunctive
+lesson_number: 14
+cefr: B1
+categories:
+- id: conditional_expressions
+  label:
+    en: Conditional Expressions (If-Clauses)
+    ko: 조건 표현 (If절)
+  type: vocabulary
+  words:
+  - italian: se
+    translation:
+      en: if
+      ko: 만약 ~라면
+    gender: null
+    notes:
+      en: Introduces conditional clauses; tense depends on clause type
+      ko: 조건절을 도입; 절 유형에 따라 시제가 달라짐
+  - italian: se fossi
+    translation:
+      en: if I were
+      ko: 만약 내가 ~라면
+    gender: null
+    notes:
+      en: Congiuntivo imperfetto of 'essere'; used in hypothetical conditions
+      ko: "'essere'의 접속법 반과거; 가정 조건에 사용"
+  - italian: se avessi
+    translation:
+      en: if I had
+      ko: 만약 내가 ~가지고 있다면
+    gender: null
+    notes:
+      en: Congiuntivo imperfetto of 'avere'
+      ko: "'avere'의 접속법 반과거"
+  - italian: se potessi
+    translation:
+      en: if I could
+      ko: 만약 할 수 있다면
+    gender: null
+    notes:
+      en: Congiuntivo imperfetto of 'potere'
+      ko: "'potere'의 접속법 반과거"
+  - italian: a condizione che
+    translation:
+      en: on the condition that
+      ko: ~한다는 조건으로
+    gender: null
+    notes:
+      en: Always triggers congiuntivo
+      ko: 항상 접속법을 유발
+  - italian: nel caso in cui
+    translation:
+      en: in case
+      ko: ~할 경우에
+    gender: null
+    notes:
+      en: Always triggers congiuntivo
+      ko: 항상 접속법을 유발
+  - italian: supponiamo che
+    translation:
+      en: let's suppose that
+      ko: ~라고 가정하자
+    gender: null
+  - italian: qualora
+    translation:
+      en: in the event that / if
+      ko: 만일 ~할 경우
+    gender: null
+    notes:
+      en: Formal; always triggers congiuntivo
+      ko: 격식체; 항상 접속법을 유발
+  - italian: se fossi in te
+    translation:
+      en: if I were you
+      ko: 내가 너라면
+    gender: null
+  - italian: ammesso che
+    translation:
+      en: assuming that
+      ko: ~라고 가정하면
+    gender: null
+    notes:
+      en: Always triggers congiuntivo
+      ko: 항상 접속법을 유발
+  - italian: se non fosse per
+    translation:
+      en: if it weren't for
+      ko: ~이 아니었다면
+    gender: null
+  - italian: come se
+    translation:
+      en: as if
+      ko: 마치 ~인 것처럼
+    gender: null
+    notes:
+      en: Always triggers congiuntivo imperfetto or trapassato
+      ko: 항상 접속법 반과거 또는 대과거를 유발
+  - italian: a patto che
+    translation:
+      en: provided that
+      ko: ~하는 조건으로
+    gender: null
+    notes:
+      en: Always triggers congiuntivo
+      ko: 항상 접속법을 유발
+  - italian: posto che
+    translation:
+      en: given that / assuming that
+      ko: ~라고 치면
+    gender: null
+    notes:
+      en: Formal; always triggers congiuntivo
+      ko: 격식체; 항상 접속법을 유발
+  - italian: se solo
+    translation:
+      en: if only
+      ko: ~하기만 했더라면
+    gender: null
+    notes:
+      en: "'se solo avessi saputo...' = if only I had known..."
+      ko: "'se solo avessi saputo...' = 알았더라면..."
+  - italian: nel caso che
+    translation:
+      en: in the event that
+      ko: ~할 경우에
+    gender: null
+  - italian: a meno di
+    translation:
+      en: unless (+ noun/infinitive)
+      ko: ~하지 않는 한 (+ 명사/부정사)
+    gender: null
+  - italian: senza che
+    translation:
+      en: without (someone doing something)
+      ko: ~하지 않고
+    gender: null
+    notes:
+      en: Always triggers congiuntivo
+      ko: 항상 접속법을 유발
+  - italian: se avessi saputo
+    translation:
+      en: if I had known
+      ko: 알았더라면
+    gender: null
+    notes:
+      en: Congiuntivo trapassato for past unreal conditions
+      ko: 과거 비현실 조건의 접속법 대과거
+- id: impersonal_expressions
+  label:
+    en: Impersonal Expressions
+    ko: 비인칭 표현
+  type: vocabulary
+  words:
+  - italian: è necessario (che)
+    translation:
+      en: it is necessary (that)
+      ko: (~하는 것이) 필요하다
+    gender: null
+  - italian: è importante (che)
+    translation:
+      en: it is important (that)
+      ko: (~하는 것이) 중요하다
+    gender: null
+  - italian: è possibile (che)
+    translation:
+      en: it is possible (that)
+      ko: (~일) 수 있다
+    gender: null
+  - italian: è impossibile (che)
+    translation:
+      en: it is impossible (that)
+      ko: (~하는 것은) 불가능하다
+    gender: null
+  - italian: è probabile (che)
+    translation:
+      en: it is probable (that)
+      ko: (~일) 가능성이 있다
+    gender: null
+  - italian: è meglio (che)
+    translation:
+      en: it is better (that)
+      ko: (~하는 것이) 더 낫다
+    gender: null
+  - italian: è giusto (che)
+    translation:
+      en: it is right/fair (that)
+      ko: (~하는 것이) 옳다/공정하다
+    gender: null
+  - italian: è strano (che)
+    translation:
+      en: it is strange (that)
+      ko: (~하는 것이) 이상하다
+    gender: null
+  - italian: è bello (che)
+    translation:
+      en: it is nice (that)
+      ko: (~하는 것이) 좋다
+    gender: null
+  - italian: basta (che)
+    translation:
+      en: it is enough (that) / as long as
+      ko: (~하기만) 하면 된다
+    gender: null
+  - italian: pare (che)
+    translation:
+      en: it seems (that)
+      ko: (~인 것) 같다
+    gender: null
+    notes:
+      en: Synonym of 'sembra che'; triggers congiuntivo
+      ko: "'sembra che'의 동의어; 접속법을 유발"
+  - italian: sembra (che)
+    translation:
+      en: it seems (that)
+      ko: (~인 것처럼) 보이다
+    gender: null
+  - italian: è un peccato (che)
+    translation:
+      en: it is a shame (that)
+      ko: (~하다니) 안타깝다
+    gender: null
+  - italian: è ora (che)
+    translation:
+      en: it is time (that)
+      ko: (~할) 때가 되었다
+    gender: null
+  - italian: può darsi (che)
+    translation:
+      en: it may be (that)
+      ko: (~일) 수도 있다
+    gender: null
+  - italian: è incredibile (che)
+    translation:
+      en: it is incredible (that)
+      ko: (~하다니) 믿을 수 없다
+    gender: null
+  - italian: è ovvio (che)
+    translation:
+      en: it is obvious (that)
+      ko: (~하는 것이) 당연하다
+    gender: null
+    notes:
+      en: Takes indicative, not subjunctive, because it expresses certainty
+      ko: 확실성을 표현하므로 접속법이 아닌 직설법을 취함
+  - italian: è chiaro (che)
+    translation:
+      en: it is clear (that)
+      ko: (~하는 것이) 분명하다
+    gender: null
+    notes:
+      en: Takes indicative; but negative form 'non è chiaro che' takes subjunctive
+      ko: 직설법을 취함; 그러나 부정형 'non è chiaro che'는 접속법을 취함
+  - italian: è assurdo (che)
+    translation:
+      en: it is absurd (that)
+      ko: (~하다니) 터무니없다
+    gender: null
+  - italian: è naturale (che)
+    translation:
+      en: it is natural (that)
+      ko: (~하는 것이) 당연하다
+    gender: null
+  - italian: conviene (che)
+    translation:
+      en: it is advisable (that) / it is better (that)
+      ko: (~하는 것이) 바람직하다
+    gender: null
+  - italian: è inutile (che)
+    translation:
+      en: it is useless (that)
+      ko: (~해도) 소용없다
+    gender: null
+  - italian: è raro (che)
+    translation:
+      en: it is rare (that)
+      ko: (~하는 것은) 드물다
+    gender: null
+- id: doubt_opinion
+  label:
+    en: Doubt and Opinion
+    ko: 의심과 의견
+  type: vocabulary
+  words:
+  - italian: forse
+    translation:
+      en: maybe / perhaps
+      ko: 아마 / 어쩌면
+    gender: null
+  - italian: probabilmente
+    translation:
+      en: probably
+      ko: 아마도
+    gender: null
+  - italian: magari
+    translation:
+      en: I wish / if only / maybe
+      ko: ~하면 좋겠다 / 혹시
+    gender: null
+    notes:
+      en: Very versatile Italian word; can express wish, possibility, or enthusiastic agreement
+      ko: 매우 다용도인 이탈리아어 단어; 소원, 가능성, 또는 열정적 동의를 표현
+  - italian: chissà
+    translation:
+      en: who knows
+      ko: 누가 알겠어
+    gender: null
+  - italian: non sono sicuro/a
+    translation:
+      en: I'm not sure
+      ko: 확실하지 않다
+    gender: null
+  - italian: mi sembra (che)
+    translation:
+      en: it seems to me (that)
+      ko: 나에게는 (~인 것) 같다
+    gender: null
+  - italian: a mio parere
+    translation:
+      en: in my opinion
+      ko: 내 의견으로는
+    gender: null
+  - italian: secondo me
+    translation:
+      en: in my view / according to me
+      ko: 내 생각에는
+    gender: null
+  - italian: a quanto pare
+    translation:
+      en: apparently / so it seems
+      ko: 보아하니 / 분명히
+    gender: null
+  - italian: non credo (che)
+    translation:
+      en: I don't think (that)
+      ko: (~라고) 생각하지 않는다
+    gender: null
+    notes:
+      en: Negative belief triggers congiuntivo
+      ko: 부정적 믿음은 접속법을 유발
+  - italian: ho l'impressione (che)
+    translation:
+      en: I have the impression (that)
+      ko: (~라는) 인상을 받다
+    gender: null
+  - italian: suppongo (che)
+    translation:
+      en: I suppose (that)
+      ko: (~라고) 추측하다
+    gender: null
+  - italian: per quanto ne so
+    translation:
+      en: as far as I know
+      ko: 내가 아는 한
+    gender: null
+  - italian: a quanto sembra
+    translation:
+      en: from what it seems
+      ko: 보이는 바로는
+    gender: null
+  - italian: evidentemente
+    translation:
+      en: evidently / apparently
+      ko: 분명히 / 명백히
+    gender: null
+  - italian: presumibilmente
+    translation:
+      en: presumably
+      ko: 아마 / 추정컨대
+    gender: null
+- id: subjunctive_example_phrases
+  label:
+    en: Subjunctive Example Phrases
+    ko: 접속법 예문
+  type: vocabulary
+  words:
+  - italian: Se fossi ricco, comprerei una villa.
+    translation:
+      en: If I were rich, I would buy a villa.
+      ko: 부자라면 별장을 살 텐데.
+    gender: null
+    notes:
+      en: "Periodo ipotetico dell'irrealtà (type 2 conditional)"
+      ko: "비현실 가정문 (2유형 조건문)"
+  - italian: Se avessi studiato, avresti superato l'esame.
+    translation:
+      en: If you had studied, you would have passed the exam.
+      ko: 공부했다면 시험에 합격했을 텐데.
+    gender: null
+    notes:
+      en: "Periodo ipotetico dell'irrealtà passata (type 3 conditional)"
+      ko: "과거 비현실 가정문 (3유형 조건문)"
+  - italian: Parla come se sapesse tutto.
+    translation:
+      en: He talks as if he knew everything.
+      ko: 그는 마치 모든 것을 아는 것처럼 말한다.
+    gender: null
+  - italian: Benché sia stanco, continuo a lavorare.
+    translation:
+      en: Although I am tired, I continue to work.
+      ko: 비록 피곤하지만 계속 일한다.
+    gender: null
+  - italian: Voglio che tu venga alla festa.
+    translation:
+      en: I want you to come to the party.
+      ko: 네가 파티에 오기를 원해.
+    gender: null
+  - italian: Prima che piova, torniamo a casa.
+    translation:
+      en: Before it rains, let's go home.
+      ko: 비가 오기 전에 집에 돌아가자.
+    gender: null
+  - italian: Qualunque cosa succeda, sarò con te.
+    translation:
+      en: Whatever happens, I will be with you.
+      ko: 무슨 일이 일어나든 너와 함께할 것이다.
+    gender: null
+  - italian: Sembra che lui non abbia capito.
+    translation:
+      en: It seems that he didn't understand.
+      ko: 그가 이해하지 못한 것 같다.
+    gender: null
+  - italian: Nonostante faccia freddo, usciamo.
+    translation:
+      en: Despite it being cold, let's go out.
+      ko: 추운데도 불구하고 나가자.
+    gender: null
+  - italian: A meno che non piova, faremo un picnic.
+    translation:
+      en: Unless it rains, we'll have a picnic.
+      ko: 비가 오지 않는 한 소풍을 갈 것이다.
+    gender: null
+  - italian: Purché tu sia felice, va bene.
+    translation:
+      en: As long as you're happy, it's fine.
+      ko: 네가 행복하기만 하면 괜찮아.
+    gender: null
+  - italian: Chiunque tu sia, benvenuto.
+    translation:
+      en: Whoever you are, welcome.
+      ko: 네가 누구든 환영해.
+    gender: null
+  - italian: Ovunque tu vada, ti seguirò.
+    translation:
+      en: Wherever you go, I will follow you.
+      ko: 네가 어디를 가든 따라갈 것이다.
+    gender: null
+  - italian: Se lo avessi saputo, non sarei venuto.
+    translation:
+      en: If I had known, I wouldn't have come.
+      ko: 알았더라면 오지 않았을 것이다.
+    gender: null
+    notes:
+      en: "Periodo ipotetico dell'irrealtà passata (type 3 conditional)"
+      ko: "과거 비현실 가정문 (3유형 조건문)"
+  - italian: Comunque vada, sarà un successo.
+    translation:
+      en: However it goes, it will be a success.
+      ko: 어떻게 되든 성공할 것이다.
+    gender: null
+  - italian: Ammesso che piova, portiamo l'ombrello.
+    translation:
+      en: Assuming it rains, let's bring an umbrella.
+      ko: 비가 온다고 치면 우산을 가져가자.
+    gender: null
+  - italian: Basta che tu sia felice.
+    translation:
+      en: As long as you are happy.
+      ko: 네가 행복하기만 하면 돼.
+    gender: null
+  - italian: Qualunque cosa tu dica, non cambierò idea.
+    translation:
+      en: Whatever you say, I won't change my mind.
+      ko: 네가 뭐라고 하든 생각을 바꾸지 않겠다.
+    gender: null
+  - italian: Dovunque sia, lo troveremo.
+    translation:
+      en: Wherever he is, we'll find him.
+      ko: 어디에 있든 찾아낼 것이다.
+    gender: null
+  - italian: Per quanto sia difficile, ce la faremo.
+    translation:
+      en: However difficult it may be, we'll manage.
+      ko: 아무리 어려워도 해낼 것이다.
+    gender: null

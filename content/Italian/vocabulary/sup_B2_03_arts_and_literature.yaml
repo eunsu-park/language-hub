@@ -1,0 +1,839 @@
+lesson: "sup_B2_Arts_and_Literature"
+lesson_number: 403
+cefr: B2
+type: supplementary
+topic: "Arts and Literature"
+categories:
+- id: literature
+  label:
+    en: "Literature"
+    ko: "문학"
+  type: vocabulary
+  words:
+  - italian: "la letteratura"
+    translation:
+      en: "literature"
+      ko: "문학"
+    gender: f
+  - italian: "il romanzo"
+    translation:
+      en: "novel"
+      ko: "소설"
+    gender: m
+  - italian: "la poesia"
+    translation:
+      en: "poetry / poem"
+      ko: "시 / 시가"
+    gender: f
+  - italian: "il racconto"
+    translation:
+      en: "short story"
+      ko: "단편 소설"
+    gender: m
+  - italian: "il saggio"
+    translation:
+      en: "essay"
+      ko: "수필"
+    gender: m
+  - italian: "la novella"
+    translation:
+      en: "novella / short tale"
+      ko: "중편 소설"
+    gender: f
+    notes:
+      en: "Classic Italian literary form (e.g., Boccaccio's Decameron)"
+      ko: "이탈리아 고전 문학 형식 (예: 보카치오의 데카메론)"
+  - italian: "la fiaba"
+    translation:
+      en: "fairy tale"
+      ko: "동화"
+    gender: f
+  - italian: "il verso"
+    translation:
+      en: "verse / line of poetry"
+      ko: "시구"
+    gender: m
+  - italian: "la strofa"
+    translation:
+      en: "stanza"
+      ko: "연 (시의)"
+    gender: f
+  - italian: "la rima"
+    translation:
+      en: "rhyme"
+      ko: "운"
+    gender: f
+  - italian: "la metafora"
+    translation:
+      en: "metaphor"
+      ko: "은유"
+    gender: f
+  - italian: "la similitudine"
+    translation:
+      en: "simile"
+      ko: "직유"
+    gender: f
+  - italian: "l'allegoria"
+    translation:
+      en: "allegory"
+      ko: "우화"
+    gender: f
+  - italian: "il protagonista"
+    translation:
+      en: "protagonist"
+      ko: "주인공"
+    gender: m
+  - italian: "la trama"
+    translation:
+      en: "plot"
+      ko: "줄거리"
+    gender: f
+  - italian: "il narratore"
+    translation:
+      en: "narrator"
+      ko: "화자"
+    gender: m
+  - italian: "il capitolo"
+    translation:
+      en: "chapter"
+      ko: "장"
+    gender: m
+  - italian: "il capolavoro"
+    translation:
+      en: "masterpiece"
+      ko: "걸작"
+    gender: m
+  - italian: "il manoscritto"
+    translation:
+      en: "manuscript"
+      ko: "원고"
+    gender: m
+  - italian: "l'editore"
+    translation:
+      en: "publisher"
+      ko: "출판사"
+    gender: m
+- id: literary_figures
+  label:
+    en: "Literary Figures and Professions"
+    ko: "문학 인물 및 직업"
+  type: vocabulary
+  words:
+  - italian: "lo scrittore"
+    translation:
+      en: "writer (m)"
+      ko: "작가 (남)"
+    gender: m
+  - italian: "la scrittrice"
+    translation:
+      en: "writer (f)"
+      ko: "작가 (여)"
+    gender: f
+  - italian: "il poeta"
+    translation:
+      en: "poet (m)"
+      ko: "시인 (남)"
+    gender: m
+    notes:
+      en: "Feminine: la poetessa"
+      ko: "여성형: la poetessa"
+  - italian: "il drammaturgo"
+    translation:
+      en: "playwright"
+      ko: "극작가"
+    gender: m
+  - italian: "il critico letterario"
+    translation:
+      en: "literary critic"
+      ko: "문학 비평가"
+    gender: m
+  - italian: "il traduttore"
+    translation:
+      en: "translator (m)"
+      ko: "번역가 (남)"
+    gender: m
+  - italian: "la traduttrice"
+    translation:
+      en: "translator (f)"
+      ko: "번역가 (여)"
+    gender: f
+  - italian: "il lettore"
+    translation:
+      en: "reader"
+      ko: "독자"
+    gender: m
+  - italian: "il biografo"
+    translation:
+      en: "biographer"
+      ko: "전기 작가"
+    gender: m
+- id: visual_arts
+  label:
+    en: "Visual Arts"
+    ko: "시각 예술"
+  type: vocabulary
+  words:
+  - italian: "l'arte"
+    translation:
+      en: "art"
+      ko: "예술"
+    gender: f
+  - italian: "la pittura"
+    translation:
+      en: "painting (art form)"
+      ko: "회화"
+    gender: f
+  - italian: "il dipinto"
+    translation:
+      en: "painting (a work)"
+      ko: "그림"
+    gender: m
+  - italian: "il quadro"
+    translation:
+      en: "picture / painting"
+      ko: "그림 / 회화 작품"
+    gender: m
+  - italian: "la scultura"
+    translation:
+      en: "sculpture"
+      ko: "조각"
+    gender: f
+  - italian: "il disegno"
+    translation:
+      en: "drawing"
+      ko: "드로잉"
+    gender: m
+  - italian: "l'affresco"
+    translation:
+      en: "fresco"
+      ko: "프레스코화"
+    gender: m
+    notes:
+      en: "Famous: Sistine Chapel frescoes by Michelangelo"
+      ko: "유명: 미켈란젤로의 시스티나 성당 프레스코화"
+  - italian: "il mosaico"
+    translation:
+      en: "mosaic"
+      ko: "모자이크"
+    gender: m
+  - italian: "l'incisione"
+    translation:
+      en: "engraving"
+      ko: "판화"
+    gender: f
+  - italian: "l'acquerello"
+    translation:
+      en: "watercolor"
+      ko: "수채화"
+    gender: m
+  - italian: "l'olio su tela"
+    translation:
+      en: "oil on canvas"
+      ko: "캔버스에 유화"
+    gender: m
+  - italian: "il ritratto"
+    translation:
+      en: "portrait"
+      ko: "초상화"
+    gender: m
+  - italian: "il paesaggio"
+    translation:
+      en: "landscape (painting)"
+      ko: "풍경화"
+    gender: m
+  - italian: "la natura morta"
+    translation:
+      en: "still life"
+      ko: "정물화"
+    gender: f
+  - italian: "il pennello"
+    translation:
+      en: "paintbrush"
+      ko: "붓"
+    gender: m
+  - italian: "la tavolozza"
+    translation:
+      en: "palette"
+      ko: "팔레트"
+    gender: f
+  - italian: "la cornice"
+    translation:
+      en: "frame"
+      ko: "액자"
+    gender: f
+  - italian: "lo scultore"
+    translation:
+      en: "sculptor (m)"
+      ko: "조각가 (남)"
+    gender: m
+  - italian: "la scultrice"
+    translation:
+      en: "sculptor (f)"
+      ko: "조각가 (여)"
+    gender: f
+  - italian: "il pittore"
+    translation:
+      en: "painter (m)"
+      ko: "화가 (남)"
+    gender: m
+  - italian: "la pittrice"
+    translation:
+      en: "painter (f)"
+      ko: "화가 (여)"
+    gender: f
+- id: performing_arts
+  label:
+    en: "Performing Arts"
+    ko: "공연 예술"
+  type: vocabulary
+  words:
+  - italian: "il teatro"
+    translation:
+      en: "theater"
+      ko: "극장 / 연극"
+    gender: m
+  - italian: "l'opera"
+    translation:
+      en: "opera"
+      ko: "오페라"
+    gender: f
+    notes:
+      en: "Italy is the birthplace of opera"
+      ko: "이탈리아는 오페라의 발상지"
+  - italian: "il balletto"
+    translation:
+      en: "ballet"
+      ko: "발레"
+    gender: m
+  - italian: "la commedia"
+    translation:
+      en: "comedy"
+      ko: "희극"
+    gender: f
+  - italian: "la tragedia"
+    translation:
+      en: "tragedy"
+      ko: "비극"
+    gender: f
+  - italian: "il dramma"
+    translation:
+      en: "drama"
+      ko: "드라마 / 연극"
+    gender: m
+  - italian: "il regista"
+    translation:
+      en: "director (m)"
+      ko: "감독 (남)"
+    gender: m
+  - italian: "la regista"
+    translation:
+      en: "director (f)"
+      ko: "감독 (여)"
+    gender: f
+  - italian: "l'attore"
+    translation:
+      en: "actor"
+      ko: "배우 (남)"
+    gender: m
+  - italian: "l'attrice"
+    translation:
+      en: "actress"
+      ko: "배우 (여)"
+    gender: f
+  - italian: "il palcoscenico"
+    translation:
+      en: "stage"
+      ko: "무대"
+    gender: m
+  - italian: "la scena"
+    translation:
+      en: "scene"
+      ko: "장면"
+    gender: f
+  - italian: "il copione"
+    translation:
+      en: "script"
+      ko: "대본"
+    gender: m
+  - italian: "la prima"
+    translation:
+      en: "premiere"
+      ko: "초연"
+    gender: f
+  - italian: "il sipario"
+    translation:
+      en: "curtain (theater)"
+      ko: "막 (무대)"
+    gender: m
+  - italian: "l'applauso"
+    translation:
+      en: "applause"
+      ko: "박수"
+    gender: m
+  - italian: "il soprano"
+    translation:
+      en: "soprano"
+      ko: "소프라노"
+    gender: m
+    notes:
+      en: "Masculine noun even when referring to female singers"
+      ko: "여성 가수를 지칭할 때도 남성 명사"
+  - italian: "il tenore"
+    translation:
+      en: "tenor"
+      ko: "테너"
+    gender: m
+  - italian: "il baritono"
+    translation:
+      en: "baritone"
+      ko: "바리톤"
+    gender: m
+  - italian: "il libretto"
+    translation:
+      en: "libretto (opera text)"
+      ko: "리브레토 (오페라 대본)"
+    gender: m
+- id: music
+  label:
+    en: "Music"
+    ko: "음악"
+  type: vocabulary
+  words:
+  - italian: "il musicista"
+    translation:
+      en: "musician"
+      ko: "음악가"
+    gender: m
+  - italian: "il compositore"
+    translation:
+      en: "composer (m)"
+      ko: "작곡가 (남)"
+    gender: m
+  - italian: "la compositrice"
+    translation:
+      en: "composer (f)"
+      ko: "작곡가 (여)"
+    gender: f
+  - italian: "il direttore d'orchestra"
+    translation:
+      en: "orchestra conductor"
+      ko: "지휘자"
+    gender: m
+  - italian: "la sinfonia"
+    translation:
+      en: "symphony"
+      ko: "교향곡"
+    gender: f
+  - italian: "il concerto"
+    translation:
+      en: "concert / concerto"
+      ko: "콘서트 / 협주곡"
+    gender: m
+  - italian: "la sonata"
+    translation:
+      en: "sonata"
+      ko: "소나타"
+    gender: f
+  - italian: "la partitura"
+    translation:
+      en: "musical score"
+      ko: "악보"
+    gender: f
+  - italian: "il conservatorio"
+    translation:
+      en: "conservatory"
+      ko: "음악원"
+    gender: m
+- id: art_movements
+  label:
+    en: "Art Movements and Exhibitions"
+    ko: "예술 운동 및 전시"
+  type: vocabulary
+  words:
+  - italian: "il Rinascimento"
+    translation:
+      en: "Renaissance"
+      ko: "르네상스"
+    gender: m
+    notes:
+      en: "Italian Renaissance: 14th-16th century"
+      ko: "이탈리아 르네상스: 14-16세기"
+  - italian: "il Barocco"
+    translation:
+      en: "Baroque"
+      ko: "바로크"
+    gender: m
+  - italian: "il Neoclassicismo"
+    translation:
+      en: "Neoclassicism"
+      ko: "신고전주의"
+    gender: m
+  - italian: "il Romanticismo"
+    translation:
+      en: "Romanticism"
+      ko: "낭만주의"
+    gender: m
+  - italian: "il Neorealismo"
+    translation:
+      en: "Neorealism"
+      ko: "네오리얼리즘"
+    gender: m
+    notes:
+      en: "Important Italian cinema and literary movement"
+      ko: "이탈리아 영화와 문학의 중요한 운동"
+  - italian: "il Futurismo"
+    translation:
+      en: "Futurism"
+      ko: "미래주의"
+    gender: m
+    notes:
+      en: "Founded in Italy by Marinetti in 1909"
+      ko: "1909년 마리네티에 의해 이탈리아에서 창시"
+  - italian: "la mostra"
+    translation:
+      en: "exhibition"
+      ko: "전시회"
+    gender: f
+  - italian: "la galleria"
+    translation:
+      en: "gallery"
+      ko: "갤러리"
+    gender: f
+  - italian: "il museo"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: m
+  - italian: "la Biennale"
+    translation:
+      en: "Biennale"
+      ko: "비엔날레"
+    gender: f
+    notes:
+      en: "La Biennale di Venezia: major international art exhibition"
+      ko: "베니스 비엔날레: 주요 국제 미술 전시"
+  - italian: "la collezione"
+    translation:
+      en: "collection"
+      ko: "컬렉션"
+    gender: f
+  - italian: "il restauro"
+    translation:
+      en: "restoration"
+      ko: "복원"
+    gender: m
+  - italian: "il patrimonio artistico"
+    translation:
+      en: "artistic heritage"
+      ko: "예술 유산"
+    gender: m
+- id: literary_actions
+  label:
+    en: "Literary and Artistic Actions"
+    ko: "문학 및 예술 활동"
+  type: vocabulary
+  words:
+  - italian: "scrivere"
+    translation:
+      en: "to write"
+      ko: "쓰다"
+  - italian: "comporre"
+    translation:
+      en: "to compose"
+      ko: "작곡하다 / 짓다"
+  - italian: "dipingere"
+    translation:
+      en: "to paint"
+      ko: "그리다"
+  - italian: "scolpire"
+    translation:
+      en: "to sculpt"
+      ko: "조각하다"
+  - italian: "recitare"
+    translation:
+      en: "to act / to perform"
+      ko: "연기하다"
+  - italian: "dirigere"
+    translation:
+      en: "to direct / to conduct"
+      ko: "감독하다 / 지휘하다"
+  - italian: "interpretare"
+    translation:
+      en: "to interpret / to perform"
+      ko: "해석하다 / 연기하다"
+  - italian: "ispirare"
+    translation:
+      en: "to inspire"
+      ko: "영감을 주다"
+  - italian: "esporre"
+    translation:
+      en: "to exhibit"
+      ko: "전시하다"
+  - italian: "pubblicare"
+    translation:
+      en: "to publish"
+      ko: "출판하다"
+  - italian: "illustrare"
+    translation:
+      en: "to illustrate"
+      ko: "삽화를 그리다"
+  - italian: "narrare"
+    translation:
+      en: "to narrate"
+      ko: "서술하다"
+  - italian: "criticare"
+    translation:
+      en: "to criticize"
+      ko: "비평하다"
+  - italian: "collezionare"
+    translation:
+      en: "to collect"
+      ko: "수집하다"
+- id: cinema
+  label:
+    en: "Cinema and Film"
+    ko: "영화"
+  type: vocabulary
+  words:
+  - italian: "il cinema"
+    translation:
+      en: "cinema"
+      ko: "영화"
+    gender: m
+  - italian: "il film"
+    translation:
+      en: "film"
+      ko: "영화"
+    gender: m
+    notes:
+      en: "Invariable: il film / i film"
+      ko: "불변: il film / i film"
+  - italian: "il documentario"
+    translation:
+      en: "documentary"
+      ko: "다큐멘터리"
+    gender: m
+  - italian: "il cortometraggio"
+    translation:
+      en: "short film"
+      ko: "단편 영화"
+    gender: m
+  - italian: "il lungometraggio"
+    translation:
+      en: "feature film"
+      ko: "장편 영화"
+    gender: m
+  - italian: "la sceneggiatura"
+    translation:
+      en: "screenplay"
+      ko: "각본"
+    gender: f
+  - italian: "lo sceneggiatore"
+    translation:
+      en: "screenwriter"
+      ko: "각본가"
+    gender: m
+  - italian: "il produttore"
+    translation:
+      en: "producer"
+      ko: "프로듀서"
+    gender: m
+  - italian: "la colonna sonora"
+    translation:
+      en: "soundtrack"
+      ko: "사운드트랙"
+    gender: f
+  - italian: "il montaggio"
+    translation:
+      en: "editing (film)"
+      ko: "편집 (영화)"
+    gender: m
+  - italian: "l'inquadratura"
+    translation:
+      en: "shot / framing"
+      ko: "촬영 구도"
+    gender: f
+  - italian: "la fotografia"
+    translation:
+      en: "cinematography / photography"
+      ko: "촬영 / 사진"
+    gender: f
+  - italian: "il Festival di Venezia"
+    translation:
+      en: "Venice Film Festival"
+      ko: "베니스 영화제"
+    gender: m
+  - italian: "il Festival di Cannes"
+    translation:
+      en: "Cannes Film Festival"
+      ko: "칸 영화제"
+    gender: m
+  - italian: "il premio Oscar"
+    translation:
+      en: "Academy Award / Oscar"
+      ko: "아카데미상 / 오스카"
+    gender: m
+  - italian: "il David di Donatello"
+    translation:
+      en: "David di Donatello Award"
+      ko: "다비드 디 도나텔로상"
+    gender: m
+    notes:
+      en: "Italy's most prestigious film award"
+      ko: "이탈리아 최고 권위의 영화상"
+  - italian: "girare un film"
+    translation:
+      en: "to shoot a film"
+      ko: "영화를 찍다"
+  - italian: "doppiare"
+    translation:
+      en: "to dub"
+      ko: "더빙하다"
+    notes:
+      en: "Italy has a strong dubbing tradition"
+      ko: "이탈리아는 더빙 전통이 강함"
+- id: literary_genres
+  label:
+    en: "Literary Genres and Concepts"
+    ko: "문학 장르 및 개념"
+  type: vocabulary
+  words:
+  - italian: "il genere letterario"
+    translation:
+      en: "literary genre"
+      ko: "문학 장르"
+    gender: m
+  - italian: "il giallo"
+    translation:
+      en: "mystery / detective story"
+      ko: "미스터리 / 추리 소설"
+    gender: m
+    notes:
+      en: "Named after yellow covers of Italian crime novel series"
+      ko: "이탈리아 범죄 소설 시리즈의 노란 표지에서 유래"
+  - italian: "la fantascienza"
+    translation:
+      en: "science fiction"
+      ko: "공상과학 소설"
+    gender: f
+  - italian: "il romanzo storico"
+    translation:
+      en: "historical novel"
+      ko: "역사 소설"
+    gender: m
+  - italian: "il romanzo epistolare"
+    translation:
+      en: "epistolary novel"
+      ko: "서간체 소설"
+    gender: m
+  - italian: "la biografia"
+    translation:
+      en: "biography"
+      ko: "전기"
+    gender: f
+  - italian: "l'autobiografia"
+    translation:
+      en: "autobiography"
+      ko: "자서전"
+    gender: f
+  - italian: "la satira"
+    translation:
+      en: "satire"
+      ko: "풍자"
+    gender: f
+  - italian: "l'ironia"
+    translation:
+      en: "irony"
+      ko: "아이러니"
+    gender: f
+  - italian: "il realismo"
+    translation:
+      en: "realism"
+      ko: "사실주의"
+    gender: m
+  - italian: "il simbolismo"
+    translation:
+      en: "symbolism"
+      ko: "상징주의"
+    gender: m
+  - italian: "l'espressionismo"
+    translation:
+      en: "expressionism"
+      ko: "표현주의"
+    gender: m
+  - italian: "l'impressionismo"
+    translation:
+      en: "impressionism"
+      ko: "인상주의"
+    gender: m
+  - italian: "il surrealismo"
+    translation:
+      en: "surrealism"
+      ko: "초현실주의"
+    gender: m
+  - italian: "il cubismo"
+    translation:
+      en: "cubism"
+      ko: "입체주의"
+    gender: m
+  - italian: "l'astrattismo"
+    translation:
+      en: "abstract art"
+      ko: "추상주의"
+    gender: m
+  - italian: "il Manierismo"
+    translation:
+      en: "Mannerism"
+      ko: "매너리즘"
+    gender: m
+  - italian: "il Verismo"
+    translation:
+      en: "Verismo"
+      ko: "진실주의"
+    gender: m
+    notes:
+      en: "Italian literary and operatic movement"
+      ko: "이탈리아 문학 및 오페라 운동"
+  - italian: "il Decadentismo"
+    translation:
+      en: "Decadentism"
+      ko: "퇴폐주의"
+    gender: m
+  - italian: "l'Ermetismo"
+    translation:
+      en: "Hermeticism (Italian poetry)"
+      ko: "은유주의 (이탈리아 시)"
+    gender: m
+  - italian: "la commedia dell'arte"
+    translation:
+      en: "commedia dell'arte"
+      ko: "코메디아 델라르테"
+    gender: f
+    notes:
+      en: "Italian form of improvisational theater"
+      ko: "이탈리아의 즉흥 연극"
+  - italian: "il melodramma"
+    translation:
+      en: "melodrama / opera"
+      ko: "멜로드라마 / 오페라"
+    gender: m
+  - italian: "la terracotta"
+    translation:
+      en: "terracotta"
+      ko: "테라코타"
+    gender: f
+  - italian: "la ceramica"
+    translation:
+      en: "ceramics"
+      ko: "도자기"
+    gender: f
+  - italian: "il vetro di Murano"
+    translation:
+      en: "Murano glass"
+      ko: "무라노 유리"
+    gender: m
+  - italian: "la maiolica"
+    translation:
+      en: "majolica (tin-glazed pottery)"
+      ko: "마졸리카 (주석유약 도자기)"
+    gender: f

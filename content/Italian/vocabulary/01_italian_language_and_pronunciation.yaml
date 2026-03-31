@@ -1,0 +1,477 @@
+lesson: 01_Italian_Language_and_Pronunciation
+lesson_number: 1
+cefr: A1
+categories:
+- id: 11_alphabet_basics
+  label:
+    en: 1.1 Alphabet Basics
+    ko: 1.1 알파벳 기초
+  type: vocabulary
+  words:
+  - italian: l'alfabeto
+    translation:
+      en: the alphabet
+      ko: 알파벳
+    gender: m
+    notes:
+      en: 21 letters in the standard Italian alphabet
+      ko: 표준 이탈리아어 알파벳에는 21개의 글자가 있음
+  - italian: la lettera
+    translation:
+      en: the letter
+      ko: 글자
+    gender: f
+    notes:
+      en: A single character
+      ko: 하나의 문자
+  - italian: la vocale
+    translation:
+      en: the vowel
+      ko: 모음
+    gender: f
+    notes:
+      en: 'a, e, i, o, u'
+      ko: 'a, e, i, o, u'
+  - italian: la consonante
+    translation:
+      en: the consonant
+      ko: 자음
+    gender: f
+  - italian: l'accento
+    translation:
+      en: the accent / stress
+      ko: 악센트 / 강세
+    gender: m
+    notes:
+      en: Stress on a syllable or written accent mark
+      ko: 음절의 강세 또는 악센트 부호
+  - italian: la pronuncia
+    translation:
+      en: the pronunciation
+      ko: 발음
+    gender: f
+  - italian: la sillaba
+    translation:
+      en: the syllable
+      ko: 음절
+    gender: f
+  - italian: la maiuscola
+    translation:
+      en: the capital letter
+      ko: 대문자
+    gender: f
+  - italian: la minuscola
+    translation:
+      en: the lowercase letter
+      ko: 소문자
+    gender: f
+  - italian: la parola
+    translation:
+      en: the word
+      ko: 단어
+    gender: f
+    notes:
+      en: Basic unit of language
+      ko: 언어의 기본 단위
+  - italian: la frase
+    translation:
+      en: the sentence / phrase
+      ko: 문장 / 구
+    gender: f
+  - italian: l'italiano
+    translation:
+      en: Italian (language)
+      ko: 이탈리아어
+    gender: m
+  - italian: la lingua
+    translation:
+      en: the language / tongue
+      ko: 언어 / 혀
+    gender: f
+    notes:
+      en: Means both 'language' and 'tongue'
+      ko: "'언어'와 '혀' 두 가지 뜻"
+  - italian: il dizionario
+    translation:
+      en: the dictionary
+      ko: 사전
+    gender: m
+  - italian: la grammatica
+    translation:
+      en: the grammar
+      ko: 문법
+    gender: f
+  - italian: il vocabolario
+    translation:
+      en: the vocabulary
+      ko: 어휘
+    gender: m
+  - italian: il significato
+    translation:
+      en: the meaning
+      ko: 의미
+    gender: m
+  - italian: l'esempio
+    translation:
+      en: the example
+      ko: 예시
+    gender: m
+  - italian: la regola
+    translation:
+      en: the rule
+      ko: 규칙
+    gender: f
+    notes:
+      en: Grammar rule or general rule
+      ko: 문법 규칙 또는 일반 규칙
+  - italian: il punto
+    translation:
+      en: the period / point
+      ko: 마침표 / 점
+    gender: m
+  - italian: la virgola
+    translation:
+      en: the comma
+      ko: 쉼표
+    gender: f
+- id: 12_pronunciation_concepts
+  label:
+    en: 1.2 Pronunciation Concepts
+    ko: 1.2 발음 개념
+  type: vocabulary
+  words:
+  - italian: il suono
+    translation:
+      en: the sound
+      ko: 소리
+    gender: m
+  - italian: il tono
+    translation:
+      en: the tone
+      ko: 음조
+    gender: m
+  - italian: la doppia
+    translation:
+      en: the double consonant
+      ko: 겹자음
+    gender: f
+    notes:
+      en: Double consonants are pronounced longer in Italian (e.g., palla vs. pala)
+      ko: 이탈리아어에서 겹자음은 길게 발음됨 (예 palla vs. pala)
+  - italian: l'accento grave
+    translation:
+      en: the grave accent
+      ko: 억음 악센트
+    gender: m
+    notes:
+      en: "Opens the vowel; used on à, è, ì, ò, ù"
+      ko: "모음을 열리게 함; à, è, ì, ò, ù에 사용"
+  - italian: l'accento acuto
+    translation:
+      en: the acute accent
+      ko: 양음 악센트
+    gender: m
+    notes:
+      en: "Closes the vowel; used mainly on é (perché, poiché)"
+      ko: "모음을 닫히게 함; 주로 é에 사용 (perché, poiché)"
+  - italian: il dittongo
+    translation:
+      en: the diphthong
+      ko: 이중모음
+    gender: m
+    notes:
+      en: Two vowels in one syllable (e.g., uo, ie)
+      ko: 한 음절에 두 개의 모음 (예 uo, ie)
+  - italian: l'intonazione
+    translation:
+      en: the intonation
+      ko: 억양
+    gender: f
+  - italian: il ritmo
+    translation:
+      en: the rhythm
+      ko: 리듬
+    gender: m
+  - italian: la voce
+    translation:
+      en: the voice
+      ko: 목소리
+    gender: f
+  - italian: la pausa
+    translation:
+      en: the pause
+      ko: 멈춤
+    gender: f
+  - italian: lo iato
+    translation:
+      en: the hiatus
+      ko: 모음 분리
+    gender: m
+    notes:
+      en: Two vowels pronounced in separate syllables
+      ko: 두 모음이 각각 다른 음절로 발음됨
+  - italian: pronunciare
+    translation:
+      en: to pronounce
+      ko: 발음하다
+    gender: null
+  - italian: compitare
+    translation:
+      en: to spell
+      ko: 철자하다
+    gender: null
+    notes:
+      en: "Come si compita? — How do you spell it?"
+      ko: "Come si compita? — 어떻게 철자하나요?"
+- id: 13_classroom_language
+  label:
+    en: 1.3 Classroom Language
+    ko: 1.3 교실 표현
+  type: vocabulary
+  words:
+  - italian: ripetere
+    translation:
+      en: to repeat
+      ko: 반복하다
+    gender: null
+    notes:
+      en: "Può ripetere? — Can you repeat?"
+      ko: "Può ripetere? — 반복해 주실 수 있나요?"
+  - italian: ascoltare
+    translation:
+      en: to listen
+      ko: 듣다
+    gender: null
+  - italian: parlare
+    translation:
+      en: to speak
+      ko: 말하다
+    gender: null
+  - italian: leggere
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+  - italian: scrivere
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+  - italian: capire
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    notes:
+      en: "Non capisco. — I don't understand."
+      ko: "Non capisco. — 이해하지 못하겠어요."
+  - italian: imparare
+    translation:
+      en: to learn
+      ko: 배우다
+    gender: null
+  - italian: tradurre
+    translation:
+      en: to translate
+      ko: 번역하다
+    gender: null
+    notes:
+      en: Irregular; io form = traduco
+      ko: 불규칙; io 형태 = traduco
+  - italian: la classe
+    translation:
+      en: the class
+      ko: 수업
+    gender: f
+  - italian: il professore
+    translation:
+      en: the teacher / professor (m)
+      ko: 선생님 / 교수 (남)
+    gender: m
+  - italian: la professoressa
+    translation:
+      en: the teacher / professor (f)
+      ko: 선생님 / 교수 (여)
+    gender: f
+  - italian: lo studente
+    translation:
+      en: the student (m)
+      ko: 학생 (남)
+    gender: m
+  - italian: la studentessa
+    translation:
+      en: the student (f)
+      ko: 학생 (여)
+    gender: f
+  - italian: il libro
+    translation:
+      en: the book
+      ko: 책
+    gender: m
+  - italian: il quaderno
+    translation:
+      en: the notebook
+      ko: 공책
+    gender: m
+  - italian: la penna
+    translation:
+      en: the pen
+      ko: 펜
+    gender: f
+  - italian: la matita
+    translation:
+      en: the pencil
+      ko: 연필
+    gender: f
+  - italian: la domanda
+    translation:
+      en: the question
+      ko: 질문
+    gender: f
+  - italian: la risposta
+    translation:
+      en: the answer
+      ko: 대답
+    gender: f
+  - italian: l'esercizio
+    translation:
+      en: the exercise
+      ko: 연습 문제
+    gender: m
+  - italian: il compito
+    translation:
+      en: the homework
+      ko: 숙제
+    gender: m
+  - italian: l'esame
+    translation:
+      en: the exam
+      ko: 시험
+    gender: m
+  - italian: la lavagna
+    translation:
+      en: the blackboard / whiteboard
+      ko: 칠판 / 화이트보드
+    gender: f
+- id: 14_first_words
+  label:
+    en: 1.4 First Words
+    ko: 1.4 첫 번째 단어들
+  type: vocabulary
+  words:
+  - italian: ciao
+    translation:
+      en: hello / goodbye (informal)
+      ko: 안녕 (비격식)
+    gender: null
+    notes:
+      en: Used both for greeting and farewell among friends
+      ko: 친구 사이에서 인사와 작별 모두에 사용
+  - italian: sì
+    translation:
+      en: yes
+      ko: 네
+    gender: null
+    notes:
+      en: Written with grave accent to distinguish from 'si' (oneself)
+      ko: "'si'(자기 자신)와 구별하기 위해 악센트를 붙임"
+  - italian: no
+    translation:
+      en: no
+      ko: 아니요
+    gender: null
+    notes:
+      en: Also used to negate verbs
+      ko: 동사 부정에도 사용
+  - italian: grazie
+    translation:
+      en: thank you
+      ko: 감사합니다
+    gender: null
+  - italian: prego
+    translation:
+      en: you're welcome
+      ko: 천만에요
+    gender: null
+    notes:
+      en: Also means 'please go ahead' or 'after you'
+      ko: "'먼저 하세요' 또는 '어서오세요'라는 뜻도 있음"
+  - italian: per favore
+    translation:
+      en: please
+      ko: 부탁합니다
+    gender: null
+    notes:
+      en: Essential polite expression
+      ko: 필수적인 공손한 표현
+  - italian: scusa
+    translation:
+      en: excuse me (informal)
+      ko: 실례합니다 (비격식)
+    gender: null
+    notes:
+      en: Informal; formal form is 'scusi'
+      ko: 비격식; 격식체는 'scusi'
+  - italian: buongiorno
+    translation:
+      en: good morning / good day
+      ko: 좋은 아침 / 안녕하세요
+    gender: null
+    notes:
+      en: Formal greeting used until afternoon
+      ko: 오후까지 사용하는 격식체 인사
+  - italian: bene
+    translation:
+      en: well / good
+      ko: 잘 / 좋은
+    gender: null
+  - italian: male
+    translation:
+      en: bad / badly
+      ko: 나쁜 / 나쁘게
+    gender: null
+  - italian: più
+    translation:
+      en: more
+      ko: 더
+    gender: null
+  - italian: meno
+    translation:
+      en: less
+      ko: 덜
+    gender: null
+  - italian: molto
+    translation:
+      en: very / much
+      ko: 매우 / 많이
+    gender: null
+  - italian: anche
+    translation:
+      en: also / too
+      ko: 또한 / ~도
+    gender: null
+  - italian: qui
+    translation:
+      en: here
+      ko: 여기
+    gender: null
+  - italian: là
+    translation:
+      en: there
+      ko: 거기
+    gender: null
+  - italian: e
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+  - italian: o
+    translation:
+      en: or
+      ko: 또는
+    gender: null
+  - italian: ma
+    translation:
+      en: but
+      ko: 하지만
+    gender: null

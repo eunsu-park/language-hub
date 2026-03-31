@@ -1,0 +1,825 @@
+lesson: "sup_A1_Household_and_Rooms"
+lesson_number: 103
+cefr: A1
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: rooms
+  label:
+    en: "Rooms"
+    ko: "방"
+  type: vocabulary
+  words:
+  - italian: "la cucina"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: f
+    notes:
+      en: "Also means cuisine / cooking"
+      ko: "요리/음식이라는 뜻도 있음"
+  - italian: "il bagno"
+    translation:
+      en: "bathroom"
+      ko: "욕실"
+    gender: m
+  - italian: "la camera da letto"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: f
+  - italian: "il soggiorno"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: m
+    notes:
+      en: "Also means stay / sojourn"
+      ko: "체류라는 뜻도 있음"
+  - italian: "la sala da pranzo"
+    translation:
+      en: "dining room"
+      ko: "식당"
+    gender: f
+  - italian: "lo studio"
+    translation:
+      en: "study / office"
+      ko: "서재 / 사무실"
+    gender: m
+  - italian: "l'ingresso"
+    translation:
+      en: "entrance / hallway"
+      ko: "현관"
+    gender: m
+  - italian: "il corridoio"
+    translation:
+      en: "corridor / hallway"
+      ko: "복도"
+    gender: m
+  - italian: "la cantina"
+    translation:
+      en: "cellar / basement"
+      ko: "지하실"
+    gender: f
+    notes:
+      en: "Also means wine cellar"
+      ko: "와인 저장고라는 뜻도 있음"
+  - italian: "la soffitta"
+    translation:
+      en: "attic"
+      ko: "다락방"
+    gender: f
+  - italian: "il balcone"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+  - italian: "la terrazza"
+    translation:
+      en: "terrace"
+      ko: "테라스"
+    gender: f
+  - italian: "il garage"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: m
+  - italian: "il giardino"
+    translation:
+      en: "garden / yard"
+      ko: "정원 / 마당"
+    gender: m
+  - italian: "il tetto"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: m
+  - italian: "il piano"
+    translation:
+      en: "floor / story"
+      ko: "층"
+    gender: m
+    notes:
+      en: "il piano terra = ground floor"
+      ko: "il piano terra = 1층"
+  - italian: "la scala"
+    translation:
+      en: "staircase / stairs"
+      ko: "계단"
+    gender: f
+    notes:
+      en: "le scale (plural) more common for stairs"
+      ko: "계단은 복수형 le scale이 더 일반적"
+  - italian: "la mansarda"
+    translation:
+      en: "loft / attic room"
+      ko: "다락방"
+    gender: f
+  - italian: "il ripostiglio"
+    translation:
+      en: "storage room / closet"
+      ko: "창고 / 수납공간"
+    gender: m
+  - italian: "la lavanderia"
+    translation:
+      en: "laundry room"
+      ko: "세탁실"
+    gender: f
+  - italian: "il cortile"
+    translation:
+      en: "courtyard / yard"
+      ko: "안뜰 / 마당"
+    gender: m
+  - italian: "il portico"
+    translation:
+      en: "porch / portico"
+      ko: "현관 지붕 / 포르티코"
+    gender: m
+  - italian: "la veranda"
+    translation:
+      en: "veranda"
+      ko: "베란다"
+    gender: f
+- id: furniture
+  label:
+    en: "Furniture"
+    ko: "가구"
+  type: vocabulary
+  words:
+  - italian: "il tavolo"
+    translation:
+      en: "table"
+      ko: "탁자"
+    gender: m
+    notes:
+      en: "la tavola for dining table (set for eating)"
+      ko: "식탁(식사를 위해 차린)은 la tavola"
+  - italian: "la sedia"
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: f
+  - italian: "il divano"
+    translation:
+      en: "sofa / couch"
+      ko: "소파"
+    gender: m
+  - italian: "il letto"
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: m
+  - italian: "l'armadio"
+    translation:
+      en: "wardrobe / closet"
+      ko: "옷장"
+    gender: m
+  - italian: "la scrivania"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: f
+  - italian: "lo scaffale"
+    translation:
+      en: "shelf / bookshelf"
+      ko: "선반 / 책장"
+    gender: m
+  - italian: "lo specchio"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+  - italian: "la lampada"
+    translation:
+      en: "lamp"
+      ko: "램프"
+    gender: f
+  - italian: "il tappeto"
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 양탄자"
+    gender: m
+  - italian: "la poltrona"
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: f
+  - italian: "il cassetto"
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: m
+  - italian: "il comodino"
+    translation:
+      en: "nightstand"
+      ko: "협탁"
+    gender: m
+  - italian: "la libreria"
+    translation:
+      en: "bookcase / bookshop"
+      ko: "책장 / 서점"
+    gender: f
+  - italian: "il letto matrimoniale"
+    translation:
+      en: "double bed"
+      ko: "더블 침대"
+    gender: m
+  - italian: "il letto singolo"
+    translation:
+      en: "single bed"
+      ko: "싱글 침대"
+    gender: m
+  - italian: "la credenza"
+    translation:
+      en: "sideboard / cupboard"
+      ko: "찬장"
+    gender: f
+  - italian: "la panchina"
+    translation:
+      en: "bench"
+      ko: "벤치"
+    gender: f
+  - italian: "il pouf"
+    translation:
+      en: "pouf / ottoman"
+      ko: "푸프 / 오토만"
+    gender: m
+  - italian: "lo sgabello"
+    translation:
+      en: "stool"
+      ko: "스툴"
+    gender: m
+  - italian: "la testiera"
+    translation:
+      en: "headboard"
+      ko: "침대 머리판"
+    gender: f
+  - italian: "l'appendiabiti"
+    translation:
+      en: "coat stand"
+      ko: "옷걸이 스탠드"
+    gender: m
+  - italian: "la vetrina"
+    translation:
+      en: "display cabinet / showcase"
+      ko: "진열장"
+    gender: f
+  - italian: "il mobile"
+    translation:
+      en: "piece of furniture"
+      ko: "가구"
+    gender: m
+    notes:
+      en: "i mobili = furniture (collective)"
+      ko: "i mobili = 가구 (총칭)"
+  - italian: "l'arredamento"
+    translation:
+      en: "furnishing / décor"
+      ko: "가구 / 인테리어"
+    gender: m
+- id: appliances
+  label:
+    en: "Appliances"
+    ko: "가전제품"
+  type: vocabulary
+  words:
+  - italian: "la televisione"
+    translation:
+      en: "television"
+      ko: "텔레비전"
+    gender: f
+    notes:
+      en: "Commonly abbreviated to la TV"
+      ko: "흔히 la TV로 줄여 씀"
+  - italian: "il frigorifero"
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: m
+    notes:
+      en: "Commonly shortened to il frigo"
+      ko: "흔히 il frigo로 줄여 씀"
+  - italian: "la lavatrice"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+  - italian: "la lavastoviglie"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: f
+  - italian: "il forno"
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: m
+  - italian: "il microonde"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: m
+    notes:
+      en: "Short for forno a microonde"
+      ko: "forno a microonde의 줄임말"
+  - italian: "l'aspirapolvere"
+    translation:
+      en: "vacuum cleaner"
+      ko: "진공청소기"
+    gender: m
+  - italian: "il ferro da stiro"
+    translation:
+      en: "iron"
+      ko: "다리미"
+    gender: m
+  - italian: "il condizionatore"
+    translation:
+      en: "air conditioner"
+      ko: "에어컨"
+    gender: m
+  - italian: "l'asciugatrice"
+    translation:
+      en: "dryer"
+      ko: "건조기"
+    gender: f
+  - italian: "il computer"
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: m
+  - italian: "la radio"
+    translation:
+      en: "radio"
+      ko: "라디오"
+    gender: f
+    notes:
+      en: "Invariable: la radio / le radio"
+      ko: "불변: la radio / le radio"
+- id: household_items
+  label:
+    en: "Household Items"
+    ko: "생활용품"
+  type: vocabulary
+  words:
+  - italian: "l'asciugamano"
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: m
+  - italian: "il cuscino"
+    translation:
+      en: "pillow / cushion"
+      ko: "베개 / 쿠션"
+    gender: m
+  - italian: "la coperta"
+    translation:
+      en: "blanket"
+      ko: "담요"
+    gender: f
+  - italian: "il lenzuolo"
+    translation:
+      en: "bedsheet"
+      ko: "침대 시트"
+    gender: m
+    notes:
+      en: "Irregular plural: le lenzuola (feminine)"
+      ko: "불규칙 복수형: le lenzuola (여성형)"
+  - italian: "la tenda"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: f
+    notes:
+      en: "Also means tent"
+      ko: "텐트라는 뜻도 있음"
+  - italian: "il piatto"
+    translation:
+      en: "plate"
+      ko: "접시"
+    gender: m
+  - italian: "il bicchiere"
+    translation:
+      en: "glass"
+      ko: "유리잔"
+    gender: m
+  - italian: "le posate"
+    translation:
+      en: "cutlery"
+      ko: "식기류"
+    gender: f
+    notes:
+      en: "Collective plural: forks, knives, spoons"
+      ko: "포크, 나이프, 숟가락의 총칭"
+  - italian: "la pentola"
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: f
+  - italian: "la scopa"
+    translation:
+      en: "broom"
+      ko: "빗자루"
+    gender: f
+  - italian: "il sapone"
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: m
+  - italian: "la chiave"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: f
+  - italian: "la porta"
+    translation:
+      en: "door"
+      ko: "문"
+    gender: f
+  - italian: "la finestra"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: f
+  - italian: "il muro"
+    translation:
+      en: "wall (interior)"
+      ko: "벽"
+    gender: m
+    notes:
+      en: "la parete for interior wall surface; il muro for structural wall"
+      ko: "내벽 표면은 la parete; 구조 벽은 il muro"
+  - italian: "il pavimento"
+    translation:
+      en: "floor (surface)"
+      ko: "바닥"
+    gender: m
+  - italian: "il soffitto"
+    translation:
+      en: "ceiling"
+      ko: "천장"
+    gender: m
+  - italian: "la presa"
+    translation:
+      en: "electrical outlet"
+      ko: "콘센트"
+    gender: f
+  - italian: "l'interruttore"
+    translation:
+      en: "light switch"
+      ko: "전등 스위치"
+    gender: m
+  - italian: "il rubinetto"
+    translation:
+      en: "faucet / tap"
+      ko: "수도꼭지"
+    gender: m
+  - italian: "il lavandino"
+    translation:
+      en: "sink"
+      ko: "세면대 / 싱크대"
+    gender: m
+  - italian: "la vasca da bagno"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: f
+  - italian: "la doccia"
+    translation:
+      en: "shower"
+      ko: "샤워기"
+    gender: f
+  - italian: "il water"
+    translation:
+      en: "toilet"
+      ko: "변기"
+    gender: m
+    notes:
+      en: "Pronounced like English 'water'; also il gabinetto"
+      ko: "영어 '워터'처럼 발음; il gabinetto라고도 함"
+  - italian: "il bidè"
+    translation:
+      en: "bidet"
+      ko: "비데"
+    gender: m
+    notes:
+      en: "Standard in Italian bathrooms"
+      ko: "이탈리아 욕실에서 표준"
+  - italian: "lo specchio"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+  - italian: "il riscaldamento"
+    translation:
+      en: "heating"
+      ko: "난방"
+    gender: m
+  - italian: "il termosifone"
+    translation:
+      en: "radiator"
+      ko: "라디에이터"
+    gender: m
+  - italian: "il camino"
+    translation:
+      en: "fireplace"
+      ko: "벽난로"
+    gender: m
+  - italian: "la persiana"
+    translation:
+      en: "shutter / blind"
+      ko: "블라인드 / 덧문"
+    gender: f
+  - italian: "il campanello"
+    translation:
+      en: "doorbell"
+      ko: "초인종"
+    gender: m
+  - italian: "la serratura"
+    translation:
+      en: "lock"
+      ko: "자물쇠"
+    gender: f
+  - italian: "la maniglia"
+    translation:
+      en: "handle / doorknob"
+      ko: "손잡이"
+    gender: f
+  - italian: "il cestino"
+    translation:
+      en: "wastebasket / bin"
+      ko: "휴지통"
+    gender: m
+  - italian: "il secchio"
+    translation:
+      en: "bucket"
+      ko: "양동이"
+    gender: m
+  - italian: "lo strofinaccio"
+    translation:
+      en: "dish towel / rag"
+      ko: "행주"
+    gender: m
+  - italian: "la spugna"
+    translation:
+      en: "sponge"
+      ko: "스펀지"
+    gender: f
+  - italian: "il detersivo"
+    translation:
+      en: "detergent"
+      ko: "세제"
+    gender: m
+  - italian: "la lavatrice"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+  - italian: "il materasso"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: m
+  - italian: "il cuscino"
+    translation:
+      en: "pillow / cushion"
+      ko: "베개 / 쿠션"
+    gender: m
+  - italian: "il piumone"
+    translation:
+      en: "duvet / comforter"
+      ko: "이불"
+    gender: m
+  - italian: "la mensola"
+    translation:
+      en: "shelf (wall-mounted)"
+      ko: "선반 (벽걸이)"
+    gender: f
+  - italian: "il quadro"
+    translation:
+      en: "painting / picture frame"
+      ko: "그림 / 액자"
+    gender: m
+  - italian: "l'orologio"
+    translation:
+      en: "clock / watch"
+      ko: "시계"
+    gender: m
+  - italian: "il vaso"
+    translation:
+      en: "vase"
+      ko: "꽃병"
+    gender: m
+  - italian: "la candela"
+    translation:
+      en: "candle"
+      ko: "양초"
+    gender: f
+  - italian: "il calorifero"
+    translation:
+      en: "heater"
+      ko: "히터"
+    gender: m
+  - italian: "il ventilatore"
+    translation:
+      en: "fan"
+      ko: "선풍기"
+    gender: m
+  - italian: "la lavasciuga"
+    translation:
+      en: "washer-dryer"
+      ko: "세탁건조기"
+    gender: f
+  - italian: "il congelatore"
+    translation:
+      en: "freezer"
+      ko: "냉동고"
+    gender: m
+  - italian: "il bollitore"
+    translation:
+      en: "kettle"
+      ko: "주전자"
+    gender: m
+  - italian: "il tostapane"
+    translation:
+      en: "toaster"
+      ko: "토스터"
+    gender: m
+  - italian: "la moka"
+    translation:
+      en: "moka pot (stovetop espresso maker)"
+      ko: "모카포트 (가스렌지용 에스프레소 메이커)"
+    gender: f
+    notes:
+      en: "Found in nearly every Italian household"
+      ko: "거의 모든 이탈리아 가정에서 발견됨"
+  - italian: "il frullatore"
+    translation:
+      en: "blender"
+      ko: "블렌더"
+    gender: m
+  - italian: "la lavatrice"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+  - italian: "lo stendibiancheria"
+    translation:
+      en: "drying rack / clothesline"
+      ko: "빨래 건조대"
+    gender: m
+    notes:
+      en: "Italians often air-dry clothes"
+      ko: "이탈리아인은 주로 빨래를 자연 건조함"
+  - italian: "la scatola"
+    translation:
+      en: "box"
+      ko: "상자"
+    gender: f
+  - italian: "il cassettone"
+    translation:
+      en: "chest of drawers / dresser"
+      ko: "서랍장"
+    gender: m
+  - italian: "l'attaccapanni"
+    translation:
+      en: "coat rack / hanger"
+      ko: "옷걸이"
+    gender: m
+    notes:
+      en: "Invariable: l'attaccapanni / gli attaccapanni"
+      ko: "불변: l'attaccapanni / gli attaccapanni"
+  - italian: "la gruccia"
+    translation:
+      en: "clothes hanger"
+      ko: "옷걸이"
+    gender: f
+  - italian: "il portaombrelli"
+    translation:
+      en: "umbrella stand"
+      ko: "우산꽂이"
+    gender: m
+  - italian: "lo zerbino"
+    translation:
+      en: "doormat"
+      ko: "현관 매트"
+    gender: m
+  - italian: "la piastrella"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: f
+  - italian: "il parquet"
+    translation:
+      en: "parquet flooring"
+      ko: "마루 / 원목 바닥"
+    gender: m
+  - italian: "la ringhiera"
+    translation:
+      en: "railing / banister"
+      ko: "난간"
+    gender: f
+  - italian: "l'ascensore"
+    translation:
+      en: "elevator"
+      ko: "엘리베이터"
+    gender: m
+  - italian: "il citofono"
+    translation:
+      en: "intercom / buzzer"
+      ko: "인터폰"
+    gender: m
+  - italian: "la cassetta della posta"
+    translation:
+      en: "mailbox"
+      ko: "우편함"
+    gender: f
+  - italian: "il giardino condominiale"
+    translation:
+      en: "communal garden"
+      ko: "공용 정원"
+    gender: m
+  - italian: "l'appartamento"
+    translation:
+      en: "apartment"
+      ko: "아파트"
+    gender: m
+  - italian: "la villetta"
+    translation:
+      en: "small house / villa"
+      ko: "단독주택"
+    gender: f
+  - italian: "il condominio"
+    translation:
+      en: "apartment building / condo"
+      ko: "아파트 건물"
+    gender: m
+  - italian: "l'affitto"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: m
+  - italian: "il mutuo"
+    translation:
+      en: "mortgage"
+      ko: "주택 담보 대출"
+    gender: m
+  - italian: "il trasloco"
+    translation:
+      en: "moving (house)"
+      ko: "이사"
+    gender: m
+  - italian: "pulire"
+    translation:
+      en: "to clean"
+      ko: "청소하다"
+    gender: null
+  - italian: "lavare"
+    translation:
+      en: "to wash"
+      ko: "씻다"
+    gender: null
+  - italian: "stirare"
+    translation:
+      en: "to iron"
+      ko: "다림질하다"
+    gender: null
+  - italian: "spazzare"
+    translation:
+      en: "to sweep"
+      ko: "쓸다"
+    gender: null
+  - italian: "spolverare"
+    translation:
+      en: "to dust"
+      ko: "먼지를 털다"
+    gender: null
+  - italian: "riordinare"
+    translation:
+      en: "to tidy up"
+      ko: "정리하다"
+    gender: null
+  - italian: "aggiustare"
+    translation:
+      en: "to fix / to repair"
+      ko: "고치다"
+    gender: null
+  - italian: "accendere"
+    translation:
+      en: "to turn on / to light"
+      ko: "켜다"
+    gender: null
+  - italian: "spegnere"
+    translation:
+      en: "to turn off"
+      ko: "끄다"
+    gender: null
+  - italian: "aprire"
+    translation:
+      en: "to open"
+      ko: "열다"
+    gender: null
+  - italian: "chiudere"
+    translation:
+      en: "to close"
+      ko: "닫다"
+    gender: null

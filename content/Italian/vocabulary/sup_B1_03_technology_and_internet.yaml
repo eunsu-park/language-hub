@@ -1,0 +1,856 @@
+lesson: "sup_B1_Technology_and_Internet"
+lesson_number: 303
+cefr: B1
+type: supplementary
+topic: "Technology and Internet"
+categories:
+- id: devices
+  label:
+    en: "Devices"
+    ko: "기기"
+  type: vocabulary
+  words:
+  - italian: "il computer"
+    translation:
+      en: "computer"
+      ko: "컴퓨터"
+    gender: m
+  - italian: "il portatile"
+    translation:
+      en: "laptop"
+      ko: "노트북"
+    gender: m
+  - italian: "il tablet"
+    translation:
+      en: "tablet"
+      ko: "태블릿"
+    gender: m
+    notes:
+      en: "English loanword; invariable plural"
+      ko: "영어 차용어; 복수형 불변"
+  - italian: "lo smartphone"
+    translation:
+      en: "smartphone"
+      ko: "스마트폰"
+    gender: m
+  - italian: "il monitor"
+    translation:
+      en: "monitor / screen"
+      ko: "모니터"
+    gender: m
+    notes:
+      en: "Also: lo schermo"
+      ko: "또한: lo schermo"
+  - italian: "la tastiera"
+    translation:
+      en: "keyboard"
+      ko: "키보드"
+    gender: f
+  - italian: "il mouse"
+    translation:
+      en: "mouse"
+      ko: "마우스"
+    gender: m
+    notes:
+      en: "English loanword; invariable plural"
+      ko: "영어 차용어; 복수형 불변"
+  - italian: "la stampante"
+    translation:
+      en: "printer"
+      ko: "프린터"
+    gender: f
+  - italian: "le cuffie"
+    translation:
+      en: "headphones"
+      ko: "헤드폰"
+    gender: f
+    notes:
+      en: "Always plural"
+      ko: "항상 복수형"
+  - italian: "la webcam"
+    translation:
+      en: "webcam"
+      ko: "웹캠"
+    gender: f
+  - italian: "il caricatore"
+    translation:
+      en: "charger"
+      ko: "충전기"
+    gender: m
+  - italian: "il disco rigido"
+    translation:
+      en: "hard drive"
+      ko: "하드 드라이브"
+    gender: m
+    notes:
+      en: "Also: il hard disk (anglicism)"
+      ko: "또한: il hard disk (영어 차용)"
+  - italian: "la chiavetta USB"
+    translation:
+      en: "USB drive / flash drive"
+      ko: "USB 메모리"
+    gender: f
+  - italian: "lo schermo"
+    translation:
+      en: "screen"
+      ko: "화면"
+    gender: m
+  - italian: "la scheda madre"
+    translation:
+      en: "motherboard"
+      ko: "메인보드"
+    gender: f
+  - italian: "il processore"
+    translation:
+      en: "processor / CPU"
+      ko: "프로세서"
+    gender: m
+  - italian: "la memoria"
+    translation:
+      en: "memory / RAM"
+      ko: "메모리"
+    gender: f
+  - italian: "gli altoparlanti"
+    translation:
+      en: "speakers"
+      ko: "스피커"
+    gender: m
+  - italian: "il cavo"
+    translation:
+      en: "cable / cord"
+      ko: "케이블"
+    gender: m
+  - italian: "l'adattatore"
+    translation:
+      en: "adapter"
+      ko: "어댑터"
+    gender: m
+- id: internet
+  label:
+    en: "Internet"
+    ko: "인터넷"
+  type: vocabulary
+  words:
+  - italian: "Internet"
+    translation:
+      en: "Internet"
+      ko: "인터넷"
+    gender: f
+    notes:
+      en: "Often used without article; la rete (the net) as synonym"
+      ko: "관사 없이 사용; la rete (그물)이 동의어"
+  - italian: "il sito web"
+    translation:
+      en: "website"
+      ko: "웹사이트"
+    gender: m
+  - italian: "la pagina"
+    translation:
+      en: "page / web page"
+      ko: "페이지 / 웹페이지"
+    gender: f
+  - italian: "il link"
+    translation:
+      en: "link"
+      ko: "링크"
+    gender: m
+    notes:
+      en: "Also: il collegamento"
+      ko: "또한: il collegamento"
+  - italian: "il browser"
+    translation:
+      en: "browser"
+      ko: "브라우저"
+    gender: m
+  - italian: "il motore di ricerca"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: m
+  - italian: "la email"
+    translation:
+      en: "email"
+      ko: "이메일"
+    gender: f
+    notes:
+      en: "Also: la posta elettronica (formal); la mail (informal)"
+      ko: "또한: la posta elettronica (격식체); la mail (비격식)"
+  - italian: "la posta elettronica"
+    translation:
+      en: "electronic mail"
+      ko: "전자 우편"
+    gender: f
+    notes:
+      en: "Formal alternative to email"
+      ko: "email의 격식체 표현"
+  - italian: "il Wi-Fi"
+    translation:
+      en: "Wi-Fi"
+      ko: "와이파이"
+    gender: m
+  - italian: "la connessione"
+    translation:
+      en: "connection"
+      ko: "연결 / 접속"
+    gender: f
+  - italian: "scaricare"
+    translation:
+      en: "to download"
+      ko: "다운로드하다"
+    gender: null
+  - italian: "caricare"
+    translation:
+      en: "to upload"
+      ko: "업로드하다"
+    gender: null
+    notes:
+      en: "Also means 'to load' or 'to charge'"
+      ko: "'로드하다' 또는 '충전하다'라는 뜻도 있음"
+  - italian: "navigare"
+    translation:
+      en: "to browse / to surf (the web)"
+      ko: "인터넷 검색하다"
+    gender: null
+    notes:
+      en: "navigare in Internet / navigare su Internet"
+      ko: "navigare in Internet / navigare su Internet"
+  - italian: "la rete"
+    translation:
+      en: "network / the web"
+      ko: "네트워크 / 웹"
+    gender: f
+  - italian: "la banda larga"
+    translation:
+      en: "broadband"
+      ko: "광대역 인터넷"
+    gender: f
+  - italian: "il server"
+    translation:
+      en: "server"
+      ko: "서버"
+    gender: m
+  - italian: "il dominio"
+    translation:
+      en: "domain"
+      ko: "도메인"
+    gender: m
+  - italian: "il provider"
+    translation:
+      en: "internet service provider"
+      ko: "인터넷 서비스 제공업체"
+    gender: m
+  - italian: "la fibra ottica"
+    translation:
+      en: "fiber optic"
+      ko: "광섬유"
+    gender: f
+  - italian: "il cloud"
+    translation:
+      en: "cloud (computing)"
+      ko: "클라우드"
+    gender: m
+  - italian: "cliccare"
+    translation:
+      en: "to click"
+      ko: "클릭하다"
+    gender: null
+  - italian: "cercare"
+    translation:
+      en: "to search"
+      ko: "검색하다"
+    gender: null
+  - italian: "accedere"
+    translation:
+      en: "to log in / to access"
+      ko: "접속하다 / 로그인하다"
+    gender: null
+  - italian: "disconnettersi"
+    translation:
+      en: "to log out / to disconnect"
+      ko: "로그아웃하다 / 접속을 끊다"
+    gender: null
+- id: software
+  label:
+    en: "Software"
+    ko: "소프트웨어"
+  type: vocabulary
+  words:
+  - italian: "il programma"
+    translation:
+      en: "program / software"
+      ko: "프로그램 / 소프트웨어"
+    gender: m
+    notes:
+      en: "Plural: i programmi"
+      ko: "복수: i programmi"
+  - italian: "l'applicazione"
+    translation:
+      en: "application"
+      ko: "애플리케이션"
+    gender: f
+    notes:
+      en: "Short form: l'app (f)"
+      ko: "줄임말: l'app (여성)"
+  - italian: "l'app"
+    translation:
+      en: "app"
+      ko: "앱"
+    gender: f
+    notes:
+      en: "Invariable; plural: le app"
+      ko: "불변; 복수: le app"
+  - italian: "il sistema operativo"
+    translation:
+      en: "operating system"
+      ko: "운영 체제"
+    gender: m
+  - italian: "l'aggiornamento"
+    translation:
+      en: "update"
+      ko: "업데이트"
+    gender: m
+  - italian: "il file"
+    translation:
+      en: "file"
+      ko: "파일"
+    gender: m
+    notes:
+      en: "English loanword; invariable plural"
+      ko: "영어 차용어; 복수형 불변"
+  - italian: "la cartella"
+    translation:
+      en: "folder"
+      ko: "폴더"
+    gender: f
+  - italian: "il documento"
+    translation:
+      en: "document"
+      ko: "문서"
+    gender: m
+  - italian: "la password"
+    translation:
+      en: "password"
+      ko: "비밀번호"
+    gender: f
+    notes:
+      en: "English loanword; invariable"
+      ko: "영어 차용어; 불변"
+  - italian: "il backup"
+    translation:
+      en: "backup"
+      ko: "백업"
+    gender: m
+    notes:
+      en: "fare il backup = to make a backup"
+      ko: "fare il backup = 백업하다"
+  - italian: "il database"
+    translation:
+      en: "database"
+      ko: "데이터베이스"
+    gender: m
+  - italian: "il software"
+    translation:
+      en: "software"
+      ko: "소프트웨어"
+    gender: m
+  - italian: "l'hardware"
+    translation:
+      en: "hardware"
+      ko: "하드웨어"
+    gender: m
+  - italian: "installare"
+    translation:
+      en: "to install"
+      ko: "설치하다"
+    gender: null
+  - italian: "disinstallare"
+    translation:
+      en: "to uninstall"
+      ko: "제거하다"
+    gender: null
+  - italian: "aggiornare"
+    translation:
+      en: "to update"
+      ko: "업데이트하다"
+    gender: null
+  - italian: "salvare"
+    translation:
+      en: "to save"
+      ko: "저장하다"
+    gender: null
+  - italian: "copiare"
+    translation:
+      en: "to copy"
+      ko: "복사하다"
+    gender: null
+  - italian: "incollare"
+    translation:
+      en: "to paste"
+      ko: "붙여넣기하다"
+    gender: null
+  - italian: "il virus"
+    translation:
+      en: "virus"
+      ko: "바이러스"
+    gender: m
+    notes:
+      en: "Invariable plural"
+      ko: "복수형 불변"
+  - italian: "l'antivirus"
+    translation:
+      en: "antivirus"
+      ko: "안티바이러스"
+    gender: m
+  - italian: "il bug"
+    translation:
+      en: "bug / glitch"
+      ko: "버그"
+    gender: m
+  - italian: "formattare"
+    translation:
+      en: "to format"
+      ko: "포맷하다"
+    gender: null
+- id: social
+  label:
+    en: "Social Media"
+    ko: "소셜 미디어"
+  type: vocabulary
+  words:
+  - italian: "il social network"
+    translation:
+      en: "social network"
+      ko: "소셜 네트워크"
+    gender: m
+    notes:
+      en: "Plural: i social network; also: i social (informal)"
+      ko: "복수: i social network; 또한: i social (비격식)"
+  - italian: "il profilo"
+    translation:
+      en: "profile"
+      ko: "프로필"
+    gender: m
+  - italian: "il post"
+    translation:
+      en: "post"
+      ko: "게시물"
+    gender: m
+    notes:
+      en: "English loanword; invariable plural"
+      ko: "영어 차용어; 복수형 불변"
+  - italian: "il follower"
+    translation:
+      en: "follower"
+      ko: "팔로워"
+    gender: m
+    notes:
+      en: "Also: il seguace (formal Italian)"
+      ko: "또한: il seguace (격식 이탈리아어)"
+  - italian: "il like"
+    translation:
+      en: "like"
+      ko: "좋아요"
+    gender: m
+    notes:
+      en: "Also: il mi piace"
+      ko: "또한: il mi piace"
+  - italian: "condividere"
+    translation:
+      en: "to share"
+      ko: "공유하다"
+    gender: null
+    notes:
+      en: "Past participle: condiviso"
+      ko: "과거분사: condiviso"
+  - italian: "commentare"
+    translation:
+      en: "to comment"
+      ko: "댓글을 달다"
+    gender: null
+  - italian: "pubblicare"
+    translation:
+      en: "to publish / to post"
+      ko: "게시하다 / 출판하다"
+    gender: null
+  - italian: "l'hashtag"
+    translation:
+      en: "hashtag"
+      ko: "해시태그"
+    gender: m
+  - italian: "il contenuto"
+    translation:
+      en: "content"
+      ko: "콘텐츠"
+    gender: m
+  - italian: "la notifica"
+    translation:
+      en: "notification"
+      ko: "알림"
+    gender: f
+  - italian: "il messaggio"
+    translation:
+      en: "message"
+      ko: "메시지"
+    gender: m
+  - italian: "la chat"
+    translation:
+      en: "chat"
+      ko: "채팅"
+    gender: f
+    notes:
+      en: "English loanword; invariable"
+      ko: "영어 차용어; 불변"
+  - italian: "seguire"
+    translation:
+      en: "to follow"
+      ko: "팔로우하다"
+    gender: null
+  - italian: "mettere mi piace"
+    translation:
+      en: "to like (a post)"
+      ko: "좋아요를 누르다"
+    gender: null
+  - italian: "taggare"
+    translation:
+      en: "to tag"
+      ko: "태그하다"
+    gender: null
+  - italian: "la storia"
+    translation:
+      en: "story (social media)"
+      ko: "스토리 (소셜 미디어)"
+    gender: f
+  - italian: "lo streaming"
+    translation:
+      en: "streaming"
+      ko: "스트리밍"
+    gender: m
+  - italian: "il video"
+    translation:
+      en: "video"
+      ko: "비디오"
+    gender: m
+    notes:
+      en: "Invariable plural: i video"
+      ko: "복수형 불변: i video"
+  - italian: "il selfie"
+    translation:
+      en: "selfie"
+      ko: "셀피"
+    gender: m
+  - italian: "lo YouTuber"
+    translation:
+      en: "YouTuber"
+      ko: "유튜버"
+    gender: m
+  - italian: "il blogger"
+    translation:
+      en: "blogger"
+      ko: "블로거"
+    gender: m
+  - italian: "il vlogger"
+    translation:
+      en: "vlogger"
+      ko: "브이로거"
+    gender: m
+  - italian: "iscriversi"
+    translation:
+      en: "to subscribe"
+      ko: "구독하다"
+    gender: null
+  - italian: "bloccare"
+    translation:
+      en: "to block"
+      ko: "차단하다"
+    gender: null
+  - italian: "segnalare"
+    translation:
+      en: "to report (content)"
+      ko: "신고하다"
+    gender: null
+- id: digital_life
+  label:
+    en: "Digital Life"
+    ko: "디지털 생활"
+  type: vocabulary
+  words:
+  - italian: "la realtà virtuale"
+    translation:
+      en: "virtual reality"
+      ko: "가상 현실"
+    gender: f
+  - italian: "la realtà aumentata"
+    translation:
+      en: "augmented reality"
+      ko: "증강 현실"
+    gender: f
+  - italian: "l'intelligenza artificiale"
+    translation:
+      en: "artificial intelligence"
+      ko: "인공 지능"
+    gender: f
+    notes:
+      en: "Abbreviation: l'IA"
+      ko: "약어: l'IA"
+  - italian: "il QR code"
+    translation:
+      en: "QR code"
+      ko: "QR 코드"
+    gender: m
+  - italian: "il codice"
+    translation:
+      en: "code"
+      ko: "코드"
+    gender: m
+  - italian: "il segnale"
+    translation:
+      en: "signal"
+      ko: "신호"
+    gender: m
+  - italian: "la crittografia"
+    translation:
+      en: "encryption"
+      ko: "암호화"
+    gender: f
+  - italian: "l'hacker"
+    translation:
+      en: "hacker"
+      ko: "해커"
+    gender: m
+  - italian: "la sicurezza informatica"
+    translation:
+      en: "cybersecurity"
+      ko: "사이버 보안"
+    gender: f
+  - italian: "il phishing"
+    translation:
+      en: "phishing"
+      ko: "피싱"
+    gender: m
+  - italian: "lo spam"
+    translation:
+      en: "spam"
+      ko: "스팸"
+    gender: m
+  - italian: "il firewall"
+    translation:
+      en: "firewall"
+      ko: "방화벽"
+    gender: m
+  - italian: "la VPN"
+    translation:
+      en: "VPN"
+      ko: "VPN"
+    gender: f
+  - italian: "il Bluetooth"
+    translation:
+      en: "Bluetooth"
+      ko: "블루투스"
+    gender: m
+  - italian: "la stampante 3D"
+    translation:
+      en: "3D printer"
+      ko: "3D 프린터"
+    gender: f
+  - italian: "il drone"
+    translation:
+      en: "drone"
+      ko: "드론"
+    gender: m
+  - italian: "il robot"
+    translation:
+      en: "robot"
+      ko: "로봇"
+    gender: m
+    notes:
+      en: "Invariable: il robot / i robot"
+      ko: "불변: il robot / i robot"
+  - italian: "la domotica"
+    translation:
+      en: "home automation / smart home"
+      ko: "스마트 홈"
+    gender: f
+  - italian: "il dispositivo"
+    translation:
+      en: "device"
+      ko: "장치"
+    gender: m
+  - italian: "la piattaforma"
+    translation:
+      en: "platform"
+      ko: "플랫폼"
+    gender: f
+  - italian: "il motore di ricerca"
+    translation:
+      en: "search engine"
+      ko: "검색 엔진"
+    gender: m
+  - italian: "il cookie"
+    translation:
+      en: "cookie (web)"
+      ko: "쿠키 (웹)"
+    gender: m
+  - italian: "il pop-up"
+    translation:
+      en: "pop-up"
+      ko: "팝업"
+    gender: m
+  - italian: "lo screenshot"
+    translation:
+      en: "screenshot"
+      ko: "스크린샷"
+    gender: m
+  - italian: "il tutorial"
+    translation:
+      en: "tutorial"
+      ko: "튜토리얼"
+    gender: m
+  - italian: "la notifica push"
+    translation:
+      en: "push notification"
+      ko: "푸시 알림"
+    gender: f
+  - italian: "il touchscreen"
+    translation:
+      en: "touchscreen"
+      ko: "터치스크린"
+    gender: m
+  - italian: "il GPS"
+    translation:
+      en: "GPS"
+      ko: "GPS"
+    gender: m
+  - italian: "il navigatore"
+    translation:
+      en: "GPS navigator / sat nav"
+      ko: "내비게이션"
+    gender: m
+  - italian: "la PEC"
+    translation:
+      en: "certified email"
+      ko: "공인 이메일"
+    gender: f
+    notes:
+      en: "Posta Elettronica Certificata; legally binding email unique to Italy"
+      ko: "Posta Elettronica Certificata; 이탈리아 고유의 법적 효력 이메일"
+  - italian: "lo SPID"
+    translation:
+      en: "digital identity system"
+      ko: "디지털 신원 확인 시스템"
+    gender: m
+    notes:
+      en: "Sistema Pubblico di Identità Digitale; required for Italian public services"
+      ko: "Sistema Pubblico di Identità Digitale; 이탈리아 공공 서비스에 필수"
+  - italian: "l'e-commerce"
+    translation:
+      en: "e-commerce"
+      ko: "전자 상거래"
+    gender: m
+  - italian: "il pagamento digitale"
+    translation:
+      en: "digital payment"
+      ko: "디지털 결제"
+    gender: m
+  - italian: "il codice QR"
+    translation:
+      en: "QR code"
+      ko: "QR 코드"
+    gender: m
+  - italian: "la fatturazione elettronica"
+    translation:
+      en: "electronic invoicing"
+      ko: "전자 청구"
+    gender: f
+    notes:
+      en: "Mandatory in Italy since 2019"
+      ko: "2019년부터 이탈리아에서 의무화"
+  - italian: "la firma digitale"
+    translation:
+      en: "digital signature"
+      ko: "디지털 서명"
+    gender: f
+  - italian: "il portale"
+    translation:
+      en: "web portal"
+      ko: "웹 포털"
+    gender: m
+  - italian: "la app di messaggistica"
+    translation:
+      en: "messaging app"
+      ko: "메시징 앱"
+    gender: f
+  - italian: "la videochiamata"
+    translation:
+      en: "video call"
+      ko: "화상 통화"
+    gender: f
+  - italian: "il podcast"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+  - italian: "la banda"
+    translation:
+      en: "bandwidth"
+      ko: "대역폭"
+    gender: f
+  - italian: "il pixel"
+    translation:
+      en: "pixel"
+      ko: "픽셀"
+    gender: m
+  - italian: "la risoluzione"
+    translation:
+      en: "resolution"
+      ko: "해상도"
+    gender: f
+  - italian: "il formato"
+    translation:
+      en: "format"
+      ko: "형식"
+    gender: m
+  - italian: "comprimere"
+    translation:
+      en: "to compress"
+      ko: "압축하다"
+    gender: null
+  - italian: "decomprimere"
+    translation:
+      en: "to decompress / to unzip"
+      ko: "압축 해제하다"
+    gender: null
+  - italian: "criptare"
+    translation:
+      en: "to encrypt"
+      ko: "암호화하다"
+    gender: null
+  - italian: "hackerare"
+    translation:
+      en: "to hack"
+      ko: "해킹하다"
+    gender: null
+  - italian: "programmare"
+    translation:
+      en: "to program / to code"
+      ko: "프로그래밍하다"
+    gender: null
+  - italian: "debuggare"
+    translation:
+      en: "to debug"
+      ko: "디버그하다"
+    gender: null
+  - italian: "configurare"
+    translation:
+      en: "to configure / to set up"
+      ko: "설정하다"
+    gender: null
+  - italian: "resettare"
+    translation:
+      en: "to reset"
+      ko: "리셋하다"
+    gender: null
+  - italian: "sincronizzare"
+    translation:
+      en: "to synchronize"
+      ko: "동기화하다"
+    gender: null

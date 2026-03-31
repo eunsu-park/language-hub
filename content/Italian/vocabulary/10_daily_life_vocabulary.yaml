@@ -1,0 +1,466 @@
+lesson: 10_Daily_Life_Vocabulary
+lesson_number: 10
+cefr: A2
+categories:
+- id: family
+  label:
+    en: Family
+    ko: 가족
+  type: vocabulary
+  words:
+  - italian: il padre
+    translation:
+      en: father
+      ko: 아버지
+    gender: m
+  - italian: la madre
+    translation:
+      en: mother
+      ko: 어머니
+    gender: f
+  - italian: il fratello
+    translation:
+      en: brother
+      ko: 형제/남자 형제
+    gender: m
+  - italian: la sorella
+    translation:
+      en: sister
+      ko: 자매/여자 형제
+    gender: f
+  - italian: il nonno
+    translation:
+      en: grandfather
+      ko: 할아버지
+    gender: m
+  - italian: la nonna
+    translation:
+      en: grandmother
+      ko: 할머니
+    gender: f
+  - italian: lo zio
+    translation:
+      en: uncle
+      ko: 삼촌/외삼촌
+    gender: m
+  - italian: la zia
+    translation:
+      en: aunt
+      ko: 이모/고모
+    gender: f
+  - italian: il/la cugino/a
+    translation:
+      en: cousin
+      ko: 사촌
+    gender: null
+  - italian: il/la nipote
+    translation:
+      en: nephew/niece; grandchild
+      ko: 조카; 손자/손녀
+    gender: null
+    notes:
+      en: "'nipote' means both nephew/niece and grandchild depending on context"
+      ko: "'nipote'는 문맥에 따라 조카 또는 손자/손녀를 의미"
+  - italian: il marito
+    translation:
+      en: husband
+      ko: 남편
+    gender: m
+  - italian: la moglie
+    translation:
+      en: wife
+      ko: 아내
+    gender: f
+  - italian: il suocero
+    translation:
+      en: father-in-law
+      ko: 시아버지/장인
+    gender: m
+  - italian: la suocera
+    translation:
+      en: mother-in-law
+      ko: 시어머니/장모
+    gender: f
+  - italian: il/la figlio/a
+    translation:
+      en: son/daughter
+      ko: 아들/딸
+    gender: null
+  - italian: il/la cognato/a
+    translation:
+      en: brother/sister-in-law
+      ko: 시동생/처남(형부/제부)
+    gender: null
+  - italian: il/la fidanzato/a
+    translation:
+      en: boyfriend/girlfriend; fiancé(e)
+      ko: 남자친구/여자친구; 약혼자
+    gender: null
+  - italian: il/la bambino/a
+    translation:
+      en: child / baby
+      ko: 아이 / 아기
+    gender: null
+  - italian: il/la genero/nuora
+    translation:
+      en: son/daughter-in-law
+      ko: 사위/며느리
+    gender: null
+- id: food
+  label:
+    en: Food
+    ko: 음식
+  type: vocabulary
+  words:
+  - italian: il pane
+    translation:
+      en: bread
+      ko: 빵
+    gender: m
+  - italian: la pasta
+    translation:
+      en: pasta
+      ko: 파스타
+    gender: f
+  - italian: il riso
+    translation:
+      en: rice
+      ko: 쌀/밥
+    gender: m
+  - italian: la carne
+    translation:
+      en: meat
+      ko: 고기
+    gender: f
+  - italian: il pesce
+    translation:
+      en: fish
+      ko: 생선
+    gender: m
+  - italian: la verdura
+    translation:
+      en: vegetable(s)
+      ko: 채소
+    gender: f
+  - italian: la frutta
+    translation:
+      en: fruit
+      ko: 과일
+    gender: f
+  - italian: il formaggio
+    translation:
+      en: cheese
+      ko: 치즈
+    gender: m
+  - italian: l'olio
+    translation:
+      en: oil
+      ko: 기름
+    gender: m
+    notes:
+      en: "'olio d'oliva' = olive oil"
+      ko: "'olio d'oliva' = 올리브유"
+  - italian: l'aceto
+    translation:
+      en: vinegar
+      ko: 식초
+    gender: m
+  - italian: il sale
+    translation:
+      en: salt
+      ko: 소금
+    gender: m
+  - italian: il pepe
+    translation:
+      en: pepper
+      ko: 후추
+    gender: m
+  - italian: il latte
+    translation:
+      en: milk
+      ko: 우유
+    gender: m
+  - italian: il burro
+    translation:
+      en: butter
+      ko: 버터
+    gender: m
+  - italian: l'uovo (pl. le uova)
+    translation:
+      en: egg (pl. eggs)
+      ko: 달걀
+    gender: m
+    notes:
+      en: Irregular plural; masculine singular but feminine plural
+      ko: 불규칙 복수형; 단수는 남성이지만 복수는 여성
+  - italian: lo zucchero
+    translation:
+      en: sugar
+      ko: 설탕
+    gender: m
+  - italian: il pollo
+    translation:
+      en: chicken
+      ko: 닭고기
+    gender: m
+  - italian: il prosciutto
+    translation:
+      en: ham
+      ko: 햄/프로슈토
+    gender: m
+  - italian: la mozzarella
+    translation:
+      en: mozzarella
+      ko: 모차렐라
+    gender: f
+  - italian: il pomodoro
+    translation:
+      en: tomato
+      ko: 토마토
+    gender: m
+  - italian: la cipolla
+    translation:
+      en: onion
+      ko: 양파
+    gender: f
+  - italian: l'aglio
+    translation:
+      en: garlic
+      ko: 마늘
+    gender: m
+- id: clothing
+  label:
+    en: Clothing
+    ko: 의류
+  type: vocabulary
+  words:
+  - italian: la camicia
+    translation:
+      en: shirt
+      ko: 셔츠
+    gender: f
+  - italian: i pantaloni
+    translation:
+      en: pants/trousers
+      ko: 바지
+    gender: m
+    notes:
+      en: Always plural in Italian
+      ko: 이탈리아어에서 항상 복수형
+  - italian: la gonna
+    translation:
+      en: skirt
+      ko: 치마
+    gender: f
+  - italian: il vestito
+    translation:
+      en: dress; suit
+      ko: 원피스; 정장
+    gender: m
+  - italian: la giacca
+    translation:
+      en: jacket
+      ko: 재킷
+    gender: f
+  - italian: le scarpe
+    translation:
+      en: shoes
+      ko: 신발
+    gender: f
+  - italian: il cappello
+    translation:
+      en: hat
+      ko: 모자
+    gender: m
+  - italian: la borsa
+    translation:
+      en: bag/purse
+      ko: 가방/핸드백
+    gender: f
+  - italian: la cravatta
+    translation:
+      en: tie
+      ko: 넥타이
+    gender: f
+  - italian: i calzini
+    translation:
+      en: socks
+      ko: 양말
+    gender: m
+  - italian: i guanti
+    translation:
+      en: gloves
+      ko: 장갑
+    gender: m
+  - italian: il cappotto
+    translation:
+      en: coat
+      ko: 코트
+    gender: m
+  - italian: la sciarpa
+    translation:
+      en: scarf
+      ko: 목도리
+    gender: f
+  - italian: la maglietta
+    translation:
+      en: T-shirt
+      ko: 티셔츠
+    gender: f
+  - italian: gli stivali
+    translation:
+      en: boots
+      ko: 부츠
+    gender: m
+  - italian: la cintura
+    translation:
+      en: belt
+      ko: 벨트
+    gender: f
+  - italian: il maglione
+    translation:
+      en: sweater
+      ko: 스웨터
+    gender: m
+  - italian: le pantofole
+    translation:
+      en: slippers
+      ko: 슬리퍼
+    gender: f
+  - italian: il pigiama
+    translation:
+      en: pajamas
+      ko: 잠옷
+    gender: m
+  - italian: l'ombrello
+    translation:
+      en: umbrella
+      ko: 우산
+    gender: m
+- id: daily_routine
+  label:
+    en: Daily Routine
+    ko: 일과
+  type: vocabulary
+  words:
+  - italian: svegliarsi
+    translation:
+      en: to wake up
+      ko: 잠에서 깨다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: alzarsi
+    translation:
+      en: to get up
+      ko: 일어나다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: lavarsi
+    translation:
+      en: to wash oneself
+      ko: 씻다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: vestirsi
+    translation:
+      en: to get dressed
+      ko: 옷을 입다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: fare colazione
+    translation:
+      en: to have breakfast
+      ko: 아침을 먹다
+    gender: null
+  - italian: andare al lavoro
+    translation:
+      en: to go to work
+      ko: 직장에 가다
+    gender: null
+  - italian: pranzare
+    translation:
+      en: to have lunch
+      ko: 점심을 먹다
+    gender: null
+  - italian: tornare a casa
+    translation:
+      en: to return home
+      ko: 집에 돌아오다
+    gender: null
+  - italian: cenare
+    translation:
+      en: to have dinner
+      ko: 저녁을 먹다
+    gender: null
+  - italian: andare a letto
+    translation:
+      en: to go to bed
+      ko: 잠자리에 들다
+    gender: null
+  - italian: pettinarsi
+    translation:
+      en: to comb one's hair
+      ko: 머리를 빗다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: fare la doccia
+    translation:
+      en: to take a shower
+      ko: 샤워하다
+    gender: null
+  - italian: lavarsi i denti
+    translation:
+      en: to brush one's teeth
+      ko: 이를 닦다
+    gender: null
+  - italian: riposarsi
+    translation:
+      en: to rest
+      ko: 쉬다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: addormentarsi
+    translation:
+      en: to fall asleep
+      ko: 잠들다
+    gender: null
+    notes:
+      en: Reflexive verb
+      ko: 재귀 동사
+  - italian: cucinare
+    translation:
+      en: to cook
+      ko: 요리하다
+    gender: null
+  - italian: fare la spesa
+    translation:
+      en: to do grocery shopping
+      ko: 장을 보다
+    gender: null
+  - italian: pulire la casa
+    translation:
+      en: to clean the house
+      ko: 집을 청소하다
+    gender: null
+  - italian: stirare
+    translation:
+      en: to iron
+      ko: 다림질하다
+    gender: null
+  - italian: fare una passeggiata
+    translation:
+      en: to take a walk
+      ko: 산책하다
+    gender: null

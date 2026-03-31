@@ -1,0 +1,788 @@
+lesson: "sup_B2_Philosophy_and_Ethics"
+lesson_number: 407
+cefr: B2
+type: supplementary
+topic: "Philosophy and Ethics"
+categories:
+- id: branches_of_philosophy
+  label:
+    en: "Branches of Philosophy"
+    ko: "철학의 분야"
+  type: vocabulary
+  words:
+  - italian: "la filosofia"
+    translation:
+      en: "philosophy"
+      ko: "철학"
+    gender: f
+  - italian: "l'etica"
+    translation:
+      en: "ethics"
+      ko: "윤리학"
+    gender: f
+  - italian: "la morale"
+    translation:
+      en: "morality / morals"
+      ko: "도덕"
+    gender: f
+  - italian: "la logica"
+    translation:
+      en: "logic"
+      ko: "논리학"
+    gender: f
+  - italian: "la metafisica"
+    translation:
+      en: "metaphysics"
+      ko: "형이상학"
+    gender: f
+  - italian: "l'epistemologia"
+    translation:
+      en: "epistemology"
+      ko: "인식론"
+    gender: f
+  - italian: "l'estetica"
+    translation:
+      en: "aesthetics"
+      ko: "미학"
+    gender: f
+  - italian: "l'ontologia"
+    translation:
+      en: "ontology"
+      ko: "존재론"
+    gender: f
+  - italian: "la gnoseologia"
+    translation:
+      en: "theory of knowledge"
+      ko: "인식론"
+    gender: f
+    notes:
+      en: "Italian term for epistemology, more commonly used in Italian academia"
+      ko: "이탈리아 학계에서 더 일반적으로 사용되는 인식론 용어"
+  - italian: "la filosofia politica"
+    translation:
+      en: "political philosophy"
+      ko: "정치철학"
+    gender: f
+  - italian: "la filosofia del diritto"
+    translation:
+      en: "philosophy of law"
+      ko: "법철학"
+    gender: f
+  - italian: "la bioetica"
+    translation:
+      en: "bioethics"
+      ko: "생명윤리"
+    gender: f
+- id: fundamental_concepts
+  label:
+    en: "Fundamental Concepts"
+    ko: "기본 개념"
+  type: vocabulary
+  words:
+  - italian: "il pensiero"
+    translation:
+      en: "thought / thinking"
+      ko: "사고 / 사상"
+    gender: m
+  - italian: "il concetto"
+    translation:
+      en: "concept"
+      ko: "개념"
+    gender: m
+  - italian: "l'idea"
+    translation:
+      en: "idea"
+      ko: "아이디어"
+    gender: f
+  - italian: "la verità"
+    translation:
+      en: "truth"
+      ko: "진리"
+    gender: f
+  - italian: "la realtà"
+    translation:
+      en: "reality"
+      ko: "현실"
+    gender: f
+  - italian: "l'apparenza"
+    translation:
+      en: "appearance"
+      ko: "겉모습"
+    gender: f
+  - italian: "l'essenza"
+    translation:
+      en: "essence"
+      ko: "본질"
+    gender: f
+  - italian: "l'esistenza"
+    translation:
+      en: "existence"
+      ko: "존재"
+    gender: f
+  - italian: "la ragione"
+    translation:
+      en: "reason"
+      ko: "이성"
+    gender: f
+  - italian: "la conoscenza"
+    translation:
+      en: "knowledge"
+      ko: "지식"
+    gender: f
+  - italian: "la sapienza"
+    translation:
+      en: "wisdom"
+      ko: "지혜"
+    gender: f
+  - italian: "il dubbio"
+    translation:
+      en: "doubt"
+      ko: "의심"
+    gender: m
+  - italian: "la certezza"
+    translation:
+      en: "certainty"
+      ko: "확실성"
+    gender: f
+  - italian: "l'assoluto"
+    translation:
+      en: "the absolute"
+      ko: "절대"
+    gender: m
+  - italian: "il relativo"
+    translation:
+      en: "the relative"
+      ko: "상대"
+    gender: m
+  - italian: "l'universale"
+    translation:
+      en: "the universal"
+      ko: "보편적인 것"
+    gender: m
+  - italian: "il particolare"
+    translation:
+      en: "the particular"
+      ko: "특수한 것"
+    gender: m
+- id: ethical_values
+  label:
+    en: "Ethical Values and Principles"
+    ko: "윤리적 가치 및 원칙"
+  type: vocabulary
+  words:
+  - italian: "la giustizia"
+    translation:
+      en: "justice"
+      ko: "정의"
+    gender: f
+  - italian: "la libertà"
+    translation:
+      en: "freedom / liberty"
+      ko: "자유"
+    gender: f
+  - italian: "l'uguaglianza"
+    translation:
+      en: "equality"
+      ko: "평등"
+    gender: f
+  - italian: "il bene"
+    translation:
+      en: "good / the good"
+      ko: "선"
+    gender: m
+  - italian: "il male"
+    translation:
+      en: "evil / the bad"
+      ko: "악"
+    gender: m
+  - italian: "il dovere"
+    translation:
+      en: "duty"
+      ko: "의무"
+    gender: m
+  - italian: "la virtù"
+    translation:
+      en: "virtue"
+      ko: "덕"
+    gender: f
+  - italian: "il vizio"
+    translation:
+      en: "vice"
+      ko: "악덕"
+    gender: m
+  - italian: "la coscienza"
+    translation:
+      en: "conscience / consciousness"
+      ko: "양심 / 의식"
+    gender: f
+  - italian: "la responsabilità"
+    translation:
+      en: "responsibility"
+      ko: "책임"
+    gender: f
+  - italian: "la dignità"
+    translation:
+      en: "dignity"
+      ko: "존엄"
+    gender: f
+  - italian: "la tolleranza"
+    translation:
+      en: "tolerance"
+      ko: "관용"
+    gender: f
+  - italian: "il rispetto"
+    translation:
+      en: "respect"
+      ko: "존중"
+    gender: m
+  - italian: "la solidarietà"
+    translation:
+      en: "solidarity"
+      ko: "연대"
+    gender: f
+  - italian: "l'empatia"
+    translation:
+      en: "empathy"
+      ko: "공감"
+    gender: f
+  - italian: "la compassione"
+    translation:
+      en: "compassion"
+      ko: "자비"
+    gender: f
+- id: philosophical_movements
+  label:
+    en: "Philosophical Movements"
+    ko: "철학 사조"
+  type: vocabulary
+  words:
+  - italian: "l'esistenzialismo"
+    translation:
+      en: "existentialism"
+      ko: "실존주의"
+    gender: m
+  - italian: "il razionalismo"
+    translation:
+      en: "rationalism"
+      ko: "합리주의"
+    gender: m
+  - italian: "l'empirismo"
+    translation:
+      en: "empiricism"
+      ko: "경험주의"
+    gender: m
+  - italian: "il relativismo"
+    translation:
+      en: "relativism"
+      ko: "상대주의"
+    gender: m
+  - italian: "l'utilitarismo"
+    translation:
+      en: "utilitarianism"
+      ko: "공리주의"
+    gender: m
+  - italian: "l'idealismo"
+    translation:
+      en: "idealism"
+      ko: "관념론"
+    gender: m
+  - italian: "il materialismo"
+    translation:
+      en: "materialism"
+      ko: "유물론"
+    gender: m
+  - italian: "il positivismo"
+    translation:
+      en: "positivism"
+      ko: "실증주의"
+    gender: m
+  - italian: "il nichilismo"
+    translation:
+      en: "nihilism"
+      ko: "허무주의"
+    gender: m
+  - italian: "lo stoicismo"
+    translation:
+      en: "stoicism"
+      ko: "스토아주의"
+    gender: m
+  - italian: "il platonismo"
+    translation:
+      en: "Platonism"
+      ko: "플라톤주의"
+    gender: m
+  - italian: "l'aristotelismo"
+    translation:
+      en: "Aristotelianism"
+      ko: "아리스토텔레스주의"
+    gender: m
+  - italian: "il marxismo"
+    translation:
+      en: "Marxism"
+      ko: "마르크스주의"
+    gender: m
+  - italian: "la fenomenologia"
+    translation:
+      en: "phenomenology"
+      ko: "현상학"
+    gender: f
+  - italian: "l'ermeneutica"
+    translation:
+      en: "hermeneutics"
+      ko: "해석학"
+    gender: f
+  - italian: "la dialettica"
+    translation:
+      en: "dialectics"
+      ko: "변증법"
+    gender: f
+- id: philosophers
+  label:
+    en: "Philosophers and Thinking"
+    ko: "철학자 및 사유"
+  type: vocabulary
+  words:
+  - italian: "il filosofo"
+    translation:
+      en: "philosopher (m)"
+      ko: "철학자 (남)"
+    gender: m
+  - italian: "la filosofa"
+    translation:
+      en: "philosopher (f)"
+      ko: "철학자 (여)"
+    gender: f
+  - italian: "il pensatore"
+    translation:
+      en: "thinker"
+      ko: "사상가"
+    gender: m
+  - italian: "l'argomentazione"
+    translation:
+      en: "argumentation"
+      ko: "논증"
+    gender: f
+  - italian: "il sillogismo"
+    translation:
+      en: "syllogism"
+      ko: "삼단논법"
+    gender: m
+  - italian: "la premessa"
+    translation:
+      en: "premise"
+      ko: "전제"
+    gender: f
+  - italian: "la deduzione"
+    translation:
+      en: "deduction"
+      ko: "연역"
+    gender: f
+  - italian: "l'induzione"
+    translation:
+      en: "induction"
+      ko: "귀납"
+    gender: f
+  - italian: "il paradosso"
+    translation:
+      en: "paradox"
+      ko: "역설"
+    gender: m
+  - italian: "il dilemma"
+    translation:
+      en: "dilemma"
+      ko: "딜레마"
+    gender: m
+  - italian: "l'aforisma"
+    translation:
+      en: "aphorism"
+      ko: "격언"
+    gender: m
+  - italian: "argomentare"
+    translation:
+      en: "to argue / to reason"
+      ko: "논증하다"
+  - italian: "ragionare"
+    translation:
+      en: "to reason / to think"
+      ko: "추론하다"
+  - italian: "riflettere"
+    translation:
+      en: "to reflect"
+      ko: "성찰하다"
+  - italian: "meditare"
+    translation:
+      en: "to meditate"
+      ko: "명상하다"
+  - italian: "contemplare"
+    translation:
+      en: "to contemplate"
+      ko: "관조하다"
+  - italian: "dedurre"
+    translation:
+      en: "to deduce"
+      ko: "연역하다"
+  - italian: "indurre"
+    translation:
+      en: "to induce"
+      ko: "귀납하다"
+  - italian: "confutare"
+    translation:
+      en: "to refute"
+      ko: "반박하다"
+  - italian: "postulare"
+    translation:
+      en: "to postulate"
+      ko: "가정하다"
+  - italian: "teorizzare"
+    translation:
+      en: "to theorize"
+      ko: "이론화하다"
+  - italian: "speculare"
+    translation:
+      en: "to speculate (philosophically)"
+      ko: "사색하다"
+  - italian: "concepire"
+    translation:
+      en: "to conceive"
+      ko: "구상하다"
+  - italian: "astrarre"
+    translation:
+      en: "to abstract"
+      ko: "추상화하다"
+  - italian: "problematizzare"
+    translation:
+      en: "to problematize"
+      ko: "문제화하다"
+  - italian: "relativizzare"
+    translation:
+      en: "to relativize"
+      ko: "상대화하다"
+  - italian: "sistematizzare"
+    translation:
+      en: "to systematize"
+      ko: "체계화하다"
+- id: key_philosophical_concepts
+  label:
+    en: "Key Philosophical Concepts"
+    ko: "주요 철학 개념"
+  type: vocabulary
+  words:
+  - italian: "l'anima"
+    translation:
+      en: "soul"
+      ko: "영혼"
+    gender: f
+  - italian: "lo spirito"
+    translation:
+      en: "spirit"
+      ko: "정신"
+    gender: m
+  - italian: "la materia"
+    translation:
+      en: "matter"
+      ko: "물질"
+    gender: f
+  - italian: "la forma"
+    translation:
+      en: "form"
+      ko: "형상"
+    gender: f
+  - italian: "la sostanza"
+    translation:
+      en: "substance"
+      ko: "실체"
+    gender: f
+  - italian: "l'accidente"
+    translation:
+      en: "accident (philosophical)"
+      ko: "우연적 속성"
+    gender: m
+  - italian: "la causa"
+    translation:
+      en: "cause"
+      ko: "원인"
+    gender: f
+  - italian: "l'effetto"
+    translation:
+      en: "effect"
+      ko: "결과"
+    gender: m
+  - italian: "il libero arbitrio"
+    translation:
+      en: "free will"
+      ko: "자유 의지"
+    gender: m
+  - italian: "il determinismo"
+    translation:
+      en: "determinism"
+      ko: "결정론"
+    gender: m
+  - italian: "il dualismo"
+    translation:
+      en: "dualism"
+      ko: "이원론"
+    gender: m
+  - italian: "il monismo"
+    translation:
+      en: "monism"
+      ko: "일원론"
+    gender: m
+  - italian: "il pluralismo"
+    translation:
+      en: "pluralism"
+      ko: "다원론"
+    gender: m
+  - italian: "la trascendenza"
+    translation:
+      en: "transcendence"
+      ko: "초월"
+    gender: f
+  - italian: "l'immanenza"
+    translation:
+      en: "immanence"
+      ko: "내재"
+    gender: f
+  - italian: "la dialettica"
+    translation:
+      en: "dialectic"
+      ko: "변증법"
+    gender: f
+  - italian: "la tesi"
+    translation:
+      en: "thesis"
+      ko: "정(正)"
+    gender: f
+  - italian: "l'antitesi"
+    translation:
+      en: "antithesis"
+      ko: "반(反)"
+    gender: f
+  - italian: "la sintesi"
+    translation:
+      en: "synthesis"
+      ko: "합(合)"
+    gender: f
+  - italian: "l'alienazione"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: f
+  - italian: "l'angoscia"
+    translation:
+      en: "anguish / angst"
+      ko: "불안"
+    gender: f
+  - italian: "l'assurdo"
+    translation:
+      en: "the absurd"
+      ko: "부조리"
+    gender: m
+  - italian: "l'utopia"
+    translation:
+      en: "utopia"
+      ko: "유토피아"
+    gender: f
+  - italian: "la distopia"
+    translation:
+      en: "dystopia"
+      ko: "디스토피아"
+    gender: f
+- id: ethics_applied
+  label:
+    en: "Applied Ethics"
+    ko: "응용 윤리학"
+  type: vocabulary
+  words:
+  - italian: "l'etica ambientale"
+    translation:
+      en: "environmental ethics"
+      ko: "환경 윤리"
+    gender: f
+  - italian: "l'etica medica"
+    translation:
+      en: "medical ethics"
+      ko: "의료 윤리"
+    gender: f
+  - italian: "l'etica professionale"
+    translation:
+      en: "professional ethics"
+      ko: "직업 윤리"
+    gender: f
+  - italian: "il consenso"
+    translation:
+      en: "consent"
+      ko: "동의"
+    gender: m
+  - italian: "l'eutanasia"
+    translation:
+      en: "euthanasia"
+      ko: "안락사"
+    gender: f
+  - italian: "l'aborto"
+    translation:
+      en: "abortion"
+      ko: "낙태"
+    gender: m
+  - italian: "la clonazione"
+    translation:
+      en: "cloning"
+      ko: "복제"
+    gender: f
+  - italian: "i diritti umani"
+    translation:
+      en: "human rights"
+      ko: "인권"
+    gender: m
+  - italian: "i diritti degli animali"
+    translation:
+      en: "animal rights"
+      ko: "동물권"
+    gender: m
+  - italian: "la giustizia sociale"
+    translation:
+      en: "social justice"
+      ko: "사회 정의"
+    gender: f
+  - italian: "la giustizia distributiva"
+    translation:
+      en: "distributive justice"
+      ko: "분배 정의"
+    gender: f
+  - italian: "l'imperativo categorico"
+    translation:
+      en: "categorical imperative"
+      ko: "정언명령"
+    gender: m
+    notes:
+      en: "Kantian concept"
+      ko: "칸트의 개념"
+  - italian: "il contratto sociale"
+    translation:
+      en: "social contract"
+      ko: "사회 계약"
+    gender: m
+  - italian: "lo stato di natura"
+    translation:
+      en: "state of nature"
+      ko: "자연 상태"
+    gender: m
+  - italian: "il bene comune"
+    translation:
+      en: "common good"
+      ko: "공동선"
+    gender: m
+  - italian: "l'interesse collettivo"
+    translation:
+      en: "collective interest"
+      ko: "공공의 이익"
+    gender: m
+  - italian: "la pena di morte"
+    translation:
+      en: "death penalty"
+      ko: "사형"
+    gender: f
+  - italian: "la guerra giusta"
+    translation:
+      en: "just war"
+      ko: "정의로운 전쟁"
+    gender: f
+  - italian: "la disobbedienza civile"
+    translation:
+      en: "civil disobedience"
+      ko: "시민 불복종"
+    gender: f
+  - italian: "la resistenza passiva"
+    translation:
+      en: "passive resistance"
+      ko: "수동적 저항"
+    gender: f
+  - italian: "la non violenza"
+    translation:
+      en: "nonviolence"
+      ko: "비폭력"
+    gender: f
+  - italian: "il principio di precauzione"
+    translation:
+      en: "precautionary principle"
+      ko: "사전 예방 원칙"
+    gender: m
+  - italian: "la responsabilità verso le generazioni future"
+    translation:
+      en: "responsibility toward future generations"
+      ko: "미래 세대에 대한 책임"
+    gender: f
+  - italian: "l'etica della cura"
+    translation:
+      en: "ethics of care"
+      ko: "돌봄의 윤리"
+    gender: f
+  - italian: "l'etica del lavoro"
+    translation:
+      en: "work ethic"
+      ko: "직업 윤리"
+    gender: f
+  - italian: "il relativismo morale"
+    translation:
+      en: "moral relativism"
+      ko: "도덕적 상대주의"
+    gender: m
+  - italian: "l'oggettivismo"
+    translation:
+      en: "objectivism"
+      ko: "객관주의"
+    gender: m
+  - italian: "il soggettivismo"
+    translation:
+      en: "subjectivism"
+      ko: "주관주의"
+    gender: m
+  - italian: "l'edonismo"
+    translation:
+      en: "hedonism"
+      ko: "쾌락주의"
+    gender: m
+  - italian: "l'ascetismo"
+    translation:
+      en: "asceticism"
+      ko: "금욕주의"
+    gender: m
+  - italian: "il pragmatismo"
+    translation:
+      en: "pragmatism"
+      ko: "실용주의"
+    gender: m
+  - italian: "lo scetticismo"
+    translation:
+      en: "skepticism"
+      ko: "회의주의"
+    gender: m
+  - italian: "il dogmatismo"
+    translation:
+      en: "dogmatism"
+      ko: "독단주의"
+    gender: m
+  - italian: "il fatalismo"
+    translation:
+      en: "fatalism"
+      ko: "운명론"
+    gender: m
+  - italian: "il cosmopolitismo"
+    translation:
+      en: "cosmopolitanism"
+      ko: "세계시민주의"
+    gender: m
+  - italian: "l'umanismo"
+    translation:
+      en: "humanism"
+      ko: "인문주의"
+    gender: m
+  - italian: "il personalismo"
+    translation:
+      en: "personalism"
+      ko: "인격주의"
+    gender: m
+  - italian: "il pragmatismo"
+    translation:
+      en: "pragmatism"
+      ko: "실용주의"
+    gender: m

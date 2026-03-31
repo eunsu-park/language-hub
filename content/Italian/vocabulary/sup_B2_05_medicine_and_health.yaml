@@ -1,0 +1,804 @@
+lesson: "sup_B2_Medicine_and_Health"
+lesson_number: 405
+cefr: B2
+type: supplementary
+topic: "Medicine and Health"
+categories:
+- id: medical_professionals
+  label:
+    en: "Medical Professionals"
+    ko: "의료 전문가"
+  type: vocabulary
+  words:
+  - italian: "il medico"
+    translation:
+      en: "doctor / physician"
+      ko: "의사"
+    gender: m
+  - italian: "il chirurgo"
+    translation:
+      en: "surgeon"
+      ko: "외과 의사"
+    gender: m
+  - italian: "lo specialista"
+    translation:
+      en: "specialist"
+      ko: "전문의"
+    gender: m
+  - italian: "il cardiologo"
+    translation:
+      en: "cardiologist"
+      ko: "심장전문의"
+    gender: m
+  - italian: "l'ortopedico"
+    translation:
+      en: "orthopedist"
+      ko: "정형외과 의사"
+    gender: m
+  - italian: "il dermatologo"
+    translation:
+      en: "dermatologist"
+      ko: "피부과 의사"
+    gender: m
+  - italian: "l'oculista"
+    translation:
+      en: "ophthalmologist"
+      ko: "안과 의사"
+    gender: m
+  - italian: "il neurologo"
+    translation:
+      en: "neurologist"
+      ko: "신경과 의사"
+    gender: m
+  - italian: "il pediatra"
+    translation:
+      en: "pediatrician"
+      ko: "소아과 의사"
+    gender: m
+  - italian: "l'oncologo"
+    translation:
+      en: "oncologist"
+      ko: "종양학자"
+    gender: m
+  - italian: "il ginecologo"
+    translation:
+      en: "gynecologist"
+      ko: "산부인과 의사"
+    gender: m
+  - italian: "lo psichiatra"
+    translation:
+      en: "psychiatrist"
+      ko: "정신과 의사"
+    gender: m
+  - italian: "l'anestesista"
+    translation:
+      en: "anesthesiologist"
+      ko: "마취과 의사"
+    gender: m
+  - italian: "l'infermiere"
+    translation:
+      en: "nurse (m)"
+      ko: "간호사 (남)"
+    gender: m
+  - italian: "l'infermiera"
+    translation:
+      en: "nurse (f)"
+      ko: "간호사 (여)"
+    gender: f
+  - italian: "il farmacista"
+    translation:
+      en: "pharmacist"
+      ko: "약사"
+    gender: m
+  - italian: "il fisioterapista"
+    translation:
+      en: "physiotherapist"
+      ko: "물리치료사"
+    gender: m
+  - italian: "il medico di base"
+    translation:
+      en: "general practitioner (GP)"
+      ko: "주치의"
+    gender: m
+    notes:
+      en: "Also: il medico di famiglia"
+      ko: "또한: il medico di famiglia (가정의)"
+- id: diagnosis_and_treatment
+  label:
+    en: "Diagnosis and Treatment"
+    ko: "진단 및 치료"
+  type: vocabulary
+  words:
+  - italian: "la diagnosi"
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: f
+    notes:
+      en: "Invariable plural: le diagnosi"
+      ko: "복수형 불변: le diagnosi"
+  - italian: "la prognosi"
+    translation:
+      en: "prognosis"
+      ko: "예후"
+    gender: f
+  - italian: "la terapia"
+    translation:
+      en: "therapy / treatment"
+      ko: "치료"
+    gender: f
+  - italian: "la cura"
+    translation:
+      en: "cure / treatment"
+      ko: "치료 / 요법"
+    gender: f
+  - italian: "il trattamento"
+    translation:
+      en: "treatment"
+      ko: "처치"
+    gender: m
+  - italian: "la visita medica"
+    translation:
+      en: "medical examination"
+      ko: "진찰"
+    gender: f
+  - italian: "la ricetta medica"
+    translation:
+      en: "prescription"
+      ko: "처방전"
+    gender: f
+  - italian: "il sintomo"
+    translation:
+      en: "symptom"
+      ko: "증상"
+    gender: m
+  - italian: "il dolore"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+  - italian: "la febbre"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+  - italian: "l'infiammazione"
+    translation:
+      en: "inflammation"
+      ko: "염증"
+    gender: f
+  - italian: "l'infezione"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: f
+  - italian: "la guarigione"
+    translation:
+      en: "recovery / healing"
+      ko: "회복"
+    gender: f
+  - italian: "la convalescenza"
+    translation:
+      en: "convalescence"
+      ko: "회복기"
+    gender: f
+  - italian: "il decorso"
+    translation:
+      en: "course (of illness)"
+      ko: "경과"
+    gender: m
+  - italian: "cronico"
+    translation:
+      en: "chronic"
+      ko: "만성의"
+  - italian: "acuto"
+    translation:
+      en: "acute"
+      ko: "급성의"
+- id: surgical_procedures
+  label:
+    en: "Surgery and Procedures"
+    ko: "수술 및 시술"
+  type: vocabulary
+  words:
+  - italian: "l'intervento chirurgico"
+    translation:
+      en: "surgical operation"
+      ko: "외과 수술"
+    gender: m
+  - italian: "l'operazione"
+    translation:
+      en: "operation"
+      ko: "수술"
+    gender: f
+  - italian: "l'anestesia"
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: f
+  - italian: "l'anestesia generale"
+    translation:
+      en: "general anesthesia"
+      ko: "전신 마취"
+    gender: f
+  - italian: "l'anestesia locale"
+    translation:
+      en: "local anesthesia"
+      ko: "국소 마취"
+    gender: f
+  - italian: "il trapianto"
+    translation:
+      en: "transplant"
+      ko: "이식"
+    gender: m
+  - italian: "il trapianto di cuore"
+    translation:
+      en: "heart transplant"
+      ko: "심장 이식"
+    gender: m
+  - italian: "la trasfusione"
+    translation:
+      en: "transfusion"
+      ko: "수혈"
+    gender: f
+  - italian: "la biopsia"
+    translation:
+      en: "biopsy"
+      ko: "생검"
+    gender: f
+  - italian: "la sutura"
+    translation:
+      en: "suture / stitches"
+      ko: "봉합"
+    gender: f
+  - italian: "il bisturi"
+    translation:
+      en: "scalpel"
+      ko: "메스"
+    gender: m
+  - italian: "la sala operatoria"
+    translation:
+      en: "operating room"
+      ko: "수술실"
+    gender: f
+  - italian: "il reparto"
+    translation:
+      en: "ward / department"
+      ko: "병동"
+    gender: m
+  - italian: "il pronto soccorso"
+    translation:
+      en: "emergency room"
+      ko: "응급실"
+    gender: m
+  - italian: "la terapia intensiva"
+    translation:
+      en: "intensive care"
+      ko: "중환자실"
+    gender: f
+- id: diagnostic_tools
+  label:
+    en: "Diagnostic Tools and Tests"
+    ko: "진단 도구 및 검사"
+  type: vocabulary
+  words:
+  - italian: "la risonanza magnetica"
+    translation:
+      en: "MRI (magnetic resonance imaging)"
+      ko: "MRI (자기공명영상)"
+    gender: f
+  - italian: "la TAC"
+    translation:
+      en: "CT scan"
+      ko: "CT 스캔"
+    gender: f
+    notes:
+      en: "Tomografia Assiale Computerizzata"
+      ko: "전산화 단층 촬영"
+  - italian: "l'ecografia"
+    translation:
+      en: "ultrasound"
+      ko: "초음파"
+    gender: f
+  - italian: "la radiografia"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: f
+  - italian: "il prelievo"
+    translation:
+      en: "blood draw / sample collection"
+      ko: "채혈"
+    gender: m
+  - italian: "l'analisi del sangue"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: f
+  - italian: "l'esame"
+    translation:
+      en: "test / examination"
+      ko: "검사"
+    gender: m
+  - italian: "l'elettrocardiogramma"
+    translation:
+      en: "electrocardiogram (ECG)"
+      ko: "심전도"
+    gender: m
+  - italian: "la pressione sanguigna"
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: f
+  - italian: "lo stetoscopio"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: m
+- id: medications
+  label:
+    en: "Medications and Pharmacy"
+    ko: "약물 및 약국"
+  type: vocabulary
+  words:
+  - italian: "il farmaco"
+    translation:
+      en: "drug / medication"
+      ko: "약물"
+    gender: m
+  - italian: "la medicina"
+    translation:
+      en: "medicine"
+      ko: "약 / 의학"
+    gender: f
+  - italian: "l'antibiotico"
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: m
+  - italian: "l'antidolorifico"
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: m
+  - italian: "l'antinfiammatorio"
+    translation:
+      en: "anti-inflammatory"
+      ko: "항염증제"
+    gender: m
+  - italian: "l'antipiretico"
+    translation:
+      en: "antipyretic (fever reducer)"
+      ko: "해열제"
+    gender: m
+  - italian: "il vaccino"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: m
+  - italian: "la compressa"
+    translation:
+      en: "tablet"
+      ko: "정제"
+    gender: f
+  - italian: "la capsula"
+    translation:
+      en: "capsule"
+      ko: "캡슐"
+    gender: f
+  - italian: "lo sciroppo"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: m
+  - italian: "la pomata"
+    translation:
+      en: "ointment"
+      ko: "연고"
+    gender: f
+  - italian: "l'iniezione"
+    translation:
+      en: "injection"
+      ko: "주사"
+    gender: f
+  - italian: "la dose"
+    translation:
+      en: "dose"
+      ko: "용량"
+    gender: f
+  - italian: "l'effetto collaterale"
+    translation:
+      en: "side effect"
+      ko: "부작용"
+    gender: m
+  - italian: "la controindicazione"
+    translation:
+      en: "contraindication"
+      ko: "금기 사항"
+    gender: f
+- id: diseases_and_conditions
+  label:
+    en: "Diseases and Conditions"
+    ko: "질병 및 상태"
+  type: vocabulary
+  words:
+  - italian: "la malattia"
+    translation:
+      en: "disease / illness"
+      ko: "질병"
+    gender: f
+  - italian: "il disturbo"
+    translation:
+      en: "disorder"
+      ko: "장애"
+    gender: m
+  - italian: "l'allergia"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+  - italian: "il diabete"
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: m
+  - italian: "l'ipertensione"
+    translation:
+      en: "hypertension"
+      ko: "고혈압"
+    gender: f
+  - italian: "il tumore"
+    translation:
+      en: "tumor"
+      ko: "종양"
+    gender: m
+  - italian: "il cancro"
+    translation:
+      en: "cancer"
+      ko: "암"
+    gender: m
+  - italian: "l'ictus"
+    translation:
+      en: "stroke"
+      ko: "뇌졸중"
+    gender: m
+  - italian: "l'infarto"
+    translation:
+      en: "heart attack"
+      ko: "심장마비"
+    gender: m
+  - italian: "la frattura"
+    translation:
+      en: "fracture"
+      ko: "골절"
+    gender: f
+  - italian: "la ferita"
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: f
+  - italian: "la cicatrice"
+    translation:
+      en: "scar"
+      ko: "흉터"
+    gender: f
+  - italian: "diagnosticare"
+    translation:
+      en: "to diagnose"
+      ko: "진단하다"
+  - italian: "curare"
+    translation:
+      en: "to treat / to cure"
+      ko: "치료하다"
+  - italian: "operare"
+    translation:
+      en: "to operate"
+      ko: "수술하다"
+  - italian: "ricoverare"
+    translation:
+      en: "to hospitalize"
+      ko: "입원시키다"
+  - italian: "dimettere"
+    translation:
+      en: "to discharge (from hospital)"
+      ko: "퇴원시키다"
+  - italian: "prescrivere"
+    translation:
+      en: "to prescribe"
+      ko: "처방하다"
+  - italian: "vaccinare"
+    translation:
+      en: "to vaccinate"
+      ko: "접종하다"
+  - italian: "guarire"
+    translation:
+      en: "to heal / to recover"
+      ko: "낫다 / 회복하다"
+  - italian: "auscultare"
+    translation:
+      en: "to auscultate / to listen"
+      ko: "청진하다"
+  - italian: "somministrare"
+    translation:
+      en: "to administer (medication)"
+      ko: "투여하다"
+  - italian: "suturare"
+    translation:
+      en: "to suture / to stitch"
+      ko: "봉합하다"
+  - italian: "disinfettare"
+    translation:
+      en: "to disinfect"
+      ko: "소독하다"
+  - italian: "sterilizzare"
+    translation:
+      en: "to sterilize"
+      ko: "멸균하다"
+- id: healthcare_system
+  label:
+    en: "Healthcare System"
+    ko: "의료 시스템"
+  type: vocabulary
+  words:
+  - italian: "il Servizio Sanitario Nazionale"
+    translation:
+      en: "National Health Service (SSN)"
+      ko: "국가 보건 서비스"
+    gender: m
+    notes:
+      en: "Italy's universal healthcare system"
+      ko: "이탈리아 국민건강보험"
+  - italian: "la ASL"
+    translation:
+      en: "Local Health Authority"
+      ko: "지역 보건소"
+    gender: f
+    notes:
+      en: "Azienda Sanitaria Locale"
+      ko: "Azienda Sanitaria Locale의 약자"
+  - italian: "l'ospedale"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - italian: "la clinica"
+    translation:
+      en: "clinic / private hospital"
+      ko: "클리닉 / 사립 병원"
+    gender: f
+  - italian: "l'ambulatorio"
+    translation:
+      en: "outpatient clinic"
+      ko: "외래 진료소"
+    gender: m
+  - italian: "la guardia medica"
+    translation:
+      en: "after-hours medical service"
+      ko: "야간 진료"
+    gender: f
+  - italian: "il ticket sanitario"
+    translation:
+      en: "medical co-payment"
+      ko: "의료 자기부담금"
+    gender: m
+  - italian: "l'esenzione"
+    translation:
+      en: "exemption (from co-payment)"
+      ko: "면제"
+    gender: f
+  - italian: "la cartella clinica"
+    translation:
+      en: "medical record"
+      ko: "진료 기록부"
+    gender: f
+  - italian: "il consenso informato"
+    translation:
+      en: "informed consent"
+      ko: "사전 동의"
+    gender: m
+  - italian: "la lista d'attesa"
+    translation:
+      en: "waiting list"
+      ko: "대기자 명단"
+    gender: f
+  - italian: "il ricovero"
+    translation:
+      en: "hospitalization"
+      ko: "입원"
+    gender: m
+  - italian: "le dimissioni"
+    translation:
+      en: "discharge (from hospital)"
+      ko: "퇴원"
+    gender: f
+  - italian: "la riabilitazione"
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: f
+  - italian: "la prevenzione"
+    translation:
+      en: "prevention"
+      ko: "예방"
+    gender: f
+  - italian: "lo screening"
+    translation:
+      en: "screening"
+      ko: "검진"
+    gender: m
+  - italian: "la campagna vaccinale"
+    translation:
+      en: "vaccination campaign"
+      ko: "예방접종 캠페인"
+    gender: f
+- id: anatomy
+  label:
+    en: "Anatomy and Body Systems"
+    ko: "해부학 및 신체 계통"
+  type: vocabulary
+  words:
+  - italian: "il cuore"
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: m
+  - italian: "il polmone"
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: m
+  - italian: "il fegato"
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: m
+  - italian: "il rene"
+    translation:
+      en: "kidney"
+      ko: "신장"
+    gender: m
+  - italian: "il cervello"
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: m
+  - italian: "lo stomaco"
+    translation:
+      en: "stomach"
+      ko: "위"
+    gender: m
+  - italian: "l'intestino"
+    translation:
+      en: "intestine"
+      ko: "장"
+    gender: m
+  - italian: "il pancreas"
+    translation:
+      en: "pancreas"
+      ko: "췌장"
+    gender: m
+  - italian: "la tiroide"
+    translation:
+      en: "thyroid"
+      ko: "갑상선"
+    gender: f
+  - italian: "la milza"
+    translation:
+      en: "spleen"
+      ko: "비장"
+    gender: f
+  - italian: "la colonna vertebrale"
+    translation:
+      en: "spine"
+      ko: "척추"
+    gender: f
+  - italian: "il sistema nervoso"
+    translation:
+      en: "nervous system"
+      ko: "신경계"
+    gender: m
+  - italian: "il sistema immunitario"
+    translation:
+      en: "immune system"
+      ko: "면역계"
+    gender: m
+  - italian: "il sistema circolatorio"
+    translation:
+      en: "circulatory system"
+      ko: "순환계"
+    gender: m
+  - italian: "il sistema respiratorio"
+    translation:
+      en: "respiratory system"
+      ko: "호흡기계"
+    gender: m
+  - italian: "il sistema digestivo"
+    translation:
+      en: "digestive system"
+      ko: "소화계"
+    gender: m
+  - italian: "il metabolismo"
+    translation:
+      en: "metabolism"
+      ko: "신진대사"
+    gender: m
+  - italian: "il globulo rosso"
+    translation:
+      en: "red blood cell"
+      ko: "적혈구"
+    gender: m
+  - italian: "il globulo bianco"
+    translation:
+      en: "white blood cell"
+      ko: "백혈구"
+    gender: m
+  - italian: "le piastrine"
+    translation:
+      en: "platelets"
+      ko: "혈소판"
+    gender: f
+  - italian: "l'emoglobina"
+    translation:
+      en: "hemoglobin"
+      ko: "헤모글로빈"
+    gender: f
+  - italian: "il plasma"
+    translation:
+      en: "plasma"
+      ko: "혈장"
+    gender: m
+  - italian: "l'arteria"
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: f
+  - italian: "la vena"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: f
+  - italian: "il muscolo"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: m
+  - italian: "il tendine"
+    translation:
+      en: "tendon"
+      ko: "힘줄"
+    gender: m
+  - italian: "il legamento"
+    translation:
+      en: "ligament"
+      ko: "인대"
+    gender: m
+  - italian: "la cartilagine"
+    translation:
+      en: "cartilage"
+      ko: "연골"
+    gender: f
+  - italian: "l'ormone"
+    translation:
+      en: "hormone"
+      ko: "호르몬"
+    gender: m
+  - italian: "la ghiandola"
+    translation:
+      en: "gland"
+      ko: "분비샘"
+    gender: f
+  - italian: "il midollo osseo"
+    translation:
+      en: "bone marrow"
+      ko: "골수"
+    gender: m
+  - italian: "il nervo"
+    translation:
+      en: "nerve"
+      ko: "신경"
+    gender: m
+  - italian: "il muscolo"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: m

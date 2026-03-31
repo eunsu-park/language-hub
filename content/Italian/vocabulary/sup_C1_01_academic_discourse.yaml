@@ -1,0 +1,743 @@
+lesson: "sup_C1_Academic_Discourse"
+lesson_number: 501
+cefr: C1
+type: supplementary
+topic: "Academic Discourse"
+categories:
+- id: academic_writing
+  label:
+    en: "Academic Writing"
+    ko: "학술 글쓰기"
+  type: vocabulary
+  words:
+  - italian: "la tesi"
+    translation:
+      en: "thesis"
+      ko: "논문"
+    gender: f
+    notes:
+      en: "Invariable plural: le tesi"
+      ko: "복수형 불변: le tesi"
+  - italian: "la tesi di laurea"
+    translation:
+      en: "degree thesis"
+      ko: "학위 논문"
+    gender: f
+  - italian: "la dissertazione"
+    translation:
+      en: "dissertation"
+      ko: "학위 논문 / 박사 논문"
+    gender: f
+  - italian: "l'abstract"
+    translation:
+      en: "abstract"
+      ko: "초록"
+    gender: m
+  - italian: "il saggio accademico"
+    translation:
+      en: "academic essay"
+      ko: "학술 에세이"
+    gender: m
+  - italian: "l'articolo scientifico"
+    translation:
+      en: "scientific article"
+      ko: "학술 논문"
+    gender: m
+  - italian: "la monografia"
+    translation:
+      en: "monograph"
+      ko: "단행본"
+    gender: f
+  - italian: "la rassegna"
+    translation:
+      en: "review (literature)"
+      ko: "리뷰 (문헌)"
+    gender: f
+  - italian: "la prefazione"
+    translation:
+      en: "preface"
+      ko: "서문"
+    gender: f
+  - italian: "l'introduzione"
+    translation:
+      en: "introduction"
+      ko: "서론"
+    gender: f
+  - italian: "la conclusione"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: f
+  - italian: "l'appendice"
+    translation:
+      en: "appendix"
+      ko: "부록"
+    gender: f
+  - italian: "il glossario"
+    translation:
+      en: "glossary"
+      ko: "용어집"
+    gender: m
+  - italian: "l'indice"
+    translation:
+      en: "index / table of contents"
+      ko: "색인 / 목차"
+    gender: m
+- id: research_methodology
+  label:
+    en: "Research Methodology"
+    ko: "연구 방법론"
+  type: vocabulary
+  words:
+  - italian: "la metodologia"
+    translation:
+      en: "methodology"
+      ko: "방법론"
+    gender: f
+  - italian: "l'analisi"
+    translation:
+      en: "analysis"
+      ko: "분석"
+    gender: f
+    notes:
+      en: "Invariable plural: le analisi"
+      ko: "복수형 불변: le analisi"
+  - italian: "la sintesi"
+    translation:
+      en: "synthesis"
+      ko: "종합"
+    gender: f
+  - italian: "l'argomentazione"
+    translation:
+      en: "argumentation"
+      ko: "논증"
+    gender: f
+  - italian: "la ricerca empirica"
+    translation:
+      en: "empirical research"
+      ko: "경험적 연구"
+    gender: f
+  - italian: "la ricerca qualitativa"
+    translation:
+      en: "qualitative research"
+      ko: "질적 연구"
+    gender: f
+  - italian: "la ricerca quantitativa"
+    translation:
+      en: "quantitative research"
+      ko: "양적 연구"
+    gender: f
+  - italian: "il campione"
+    translation:
+      en: "sample"
+      ko: "표본"
+    gender: m
+  - italian: "i dati"
+    translation:
+      en: "data"
+      ko: "데이터"
+    gender: m
+  - italian: "la statistica"
+    translation:
+      en: "statistics"
+      ko: "통계"
+    gender: f
+  - italian: "il campionamento"
+    translation:
+      en: "sampling"
+      ko: "표본 추출"
+    gender: m
+  - italian: "la variabile indipendente"
+    translation:
+      en: "independent variable"
+      ko: "독립 변수"
+    gender: f
+  - italian: "la variabile dipendente"
+    translation:
+      en: "dependent variable"
+      ko: "종속 변수"
+    gender: f
+  - italian: "il questionario"
+    translation:
+      en: "questionnaire"
+      ko: "설문지"
+    gender: m
+  - italian: "l'intervista"
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: f
+  - italian: "il caso di studio"
+    translation:
+      en: "case study"
+      ko: "사례 연구"
+    gender: m
+  - italian: "il metodo sperimentale"
+    translation:
+      en: "experimental method"
+      ko: "실험적 방법"
+    gender: m
+  - italian: "la validità"
+    translation:
+      en: "validity"
+      ko: "타당성"
+    gender: f
+  - italian: "l'affidabilità"
+    translation:
+      en: "reliability"
+      ko: "신뢰성"
+    gender: f
+- id: citations_and_references
+  label:
+    en: "Citations and References"
+    ko: "인용 및 참고문헌"
+  type: vocabulary
+  words:
+  - italian: "la citazione"
+    translation:
+      en: "citation / quotation"
+      ko: "인용"
+    gender: f
+  - italian: "la bibliografia"
+    translation:
+      en: "bibliography"
+      ko: "참고문헌"
+    gender: f
+  - italian: "la nota a piè di pagina"
+    translation:
+      en: "footnote"
+      ko: "각주"
+    gender: f
+  - italian: "la nota di chiusura"
+    translation:
+      en: "endnote"
+      ko: "미주"
+    gender: f
+  - italian: "il riferimento bibliografico"
+    translation:
+      en: "bibliographic reference"
+      ko: "서지 참조"
+    gender: m
+  - italian: "la fonte"
+    translation:
+      en: "source"
+      ko: "출처"
+    gender: f
+  - italian: "la fonte primaria"
+    translation:
+      en: "primary source"
+      ko: "1차 자료"
+    gender: f
+  - italian: "la fonte secondaria"
+    translation:
+      en: "secondary source"
+      ko: "2차 자료"
+    gender: f
+  - italian: "il plagio"
+    translation:
+      en: "plagiarism"
+      ko: "표절"
+    gender: m
+  - italian: "la proprietà intellettuale"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산"
+    gender: f
+  - italian: "il diritto d'autore"
+    translation:
+      en: "copyright"
+      ko: "저작권"
+    gender: m
+  - italian: "citare"
+    translation:
+      en: "to cite / to quote"
+      ko: "인용하다"
+  - italian: "parafrasare"
+    translation:
+      en: "to paraphrase"
+      ko: "의역하다"
+  - italian: "riassumere"
+    translation:
+      en: "to summarize"
+      ko: "요약하다"
+- id: academic_review
+  label:
+    en: "Academic Review and Publication"
+    ko: "학술 심사 및 출판"
+  type: vocabulary
+  words:
+  - italian: "il peer review"
+    translation:
+      en: "peer review"
+      ko: "동료 심사"
+    gender: m
+  - italian: "la pubblicazione"
+    translation:
+      en: "publication"
+      ko: "출판물"
+    gender: f
+  - italian: "la rivista accademica"
+    translation:
+      en: "academic journal"
+      ko: "학술 저널"
+    gender: f
+  - italian: "il comitato scientifico"
+    translation:
+      en: "scientific committee"
+      ko: "과학위원회"
+    gender: m
+  - italian: "il convegno"
+    translation:
+      en: "conference / symposium"
+      ko: "학술대회"
+    gender: m
+  - italian: "il seminario"
+    translation:
+      en: "seminar"
+      ko: "세미나"
+    gender: m
+  - italian: "la relazione"
+    translation:
+      en: "presentation / report"
+      ko: "발표 / 보고서"
+    gender: f
+  - italian: "il relatore"
+    translation:
+      en: "presenter / supervisor"
+      ko: "발표자 / 지도교수"
+    gender: m
+  - italian: "il correlatore"
+    translation:
+      en: "co-supervisor"
+      ko: "부지도교수"
+    gender: m
+  - italian: "la commissione"
+    translation:
+      en: "committee / board"
+      ko: "위원회"
+    gender: f
+  - italian: "la discussione"
+    translation:
+      en: "defense (of thesis)"
+      ko: "논문 심사"
+    gender: f
+  - italian: "il voto di laurea"
+    translation:
+      en: "degree grade"
+      ko: "학위 성적"
+    gender: m
+- id: academic_frameworks
+  label:
+    en: "Theoretical Frameworks"
+    ko: "이론적 틀"
+  type: vocabulary
+  words:
+  - italian: "il framework"
+    translation:
+      en: "framework"
+      ko: "프레임워크"
+    gender: m
+  - italian: "il paradigma"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: m
+  - italian: "la letteratura scientifica"
+    translation:
+      en: "scientific literature"
+      ko: "과학 문헌"
+    gender: f
+  - italian: "lo stato dell'arte"
+    translation:
+      en: "state of the art"
+      ko: "최신 연구 동향"
+    gender: m
+  - italian: "il quadro teorico"
+    translation:
+      en: "theoretical framework"
+      ko: "이론적 틀"
+    gender: m
+  - italian: "il contributo"
+    translation:
+      en: "contribution"
+      ko: "기여"
+    gender: m
+  - italian: "la lacuna"
+    translation:
+      en: "gap (in research)"
+      ko: "공백 (연구의)"
+    gender: f
+  - italian: "l'obiettivo"
+    translation:
+      en: "objective"
+      ko: "목표"
+    gender: m
+  - italian: "il presupposto"
+    translation:
+      en: "assumption / premise"
+      ko: "전제"
+    gender: m
+  - italian: "la criticità"
+    translation:
+      en: "critical issue"
+      ko: "중대한 문제"
+    gender: f
+  - italian: "l'implicazione"
+    translation:
+      en: "implication"
+      ko: "함의"
+    gender: f
+  - italian: "ipotizzare"
+    translation:
+      en: "to hypothesize"
+      ko: "가설을 세우다"
+  - italian: "elaborare"
+    translation:
+      en: "to elaborate"
+      ko: "정교화하다"
+  - italian: "approfondire"
+    translation:
+      en: "to deepen / to explore further"
+      ko: "심화하다"
+  - italian: "confutare"
+    translation:
+      en: "to refute"
+      ko: "반박하다"
+  - italian: "corroborare"
+    translation:
+      en: "to corroborate"
+      ko: "확증하다"
+  - italian: "suffragare"
+    translation:
+      en: "to support (an argument)"
+      ko: "뒷받침하다"
+  - italian: "postulare"
+    translation:
+      en: "to postulate"
+      ko: "공리로 삼다"
+  - italian: "dedurre"
+    translation:
+      en: "to deduce"
+      ko: "연역하다"
+  - italian: "inferire"
+    translation:
+      en: "to infer"
+      ko: "추론하다"
+  - italian: "contestualizzare"
+    translation:
+      en: "to contextualize"
+      ko: "맥락화하다"
+  - italian: "sistematizzare"
+    translation:
+      en: "to systematize"
+      ko: "체계화하다"
+  - italian: "problematizzare"
+    translation:
+      en: "to problematize"
+      ko: "문제화하다"
+  - italian: "esplicitare"
+    translation:
+      en: "to make explicit"
+      ko: "명시화하다"
+  - italian: "sottendere"
+    translation:
+      en: "to underlie / to imply"
+      ko: "암묵적으로 내포하다"
+  - italian: "avvalorare"
+    translation:
+      en: "to validate / to substantiate"
+      ko: "입증하다"
+  - italian: "dimostrare"
+    translation:
+      en: "to demonstrate"
+      ko: "증명하다"
+  - italian: "evidenziare"
+    translation:
+      en: "to highlight"
+      ko: "강조하다"
+  - italian: "delineare"
+    translation:
+      en: "to outline"
+      ko: "개요를 그리다"
+  - italian: "circoscrivere"
+    translation:
+      en: "to delimit / to circumscribe"
+      ko: "한정하다"
+- id: academic_institutions
+  label:
+    en: "Academic Institutions and Degrees"
+    ko: "학술 기관 및 학위"
+  type: vocabulary
+  words:
+  - italian: "l'università"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+  - italian: "l'ateneo"
+    translation:
+      en: "university (formal)"
+      ko: "대학교 (격식)"
+    gender: m
+  - italian: "la facoltà"
+    translation:
+      en: "faculty / department"
+      ko: "학부"
+    gender: f
+  - italian: "il dipartimento"
+    translation:
+      en: "department"
+      ko: "학과"
+    gender: m
+  - italian: "il corso di laurea"
+    translation:
+      en: "degree program"
+      ko: "학위 과정"
+    gender: m
+  - italian: "la laurea triennale"
+    translation:
+      en: "bachelor's degree (3 years)"
+      ko: "학사 학위 (3년)"
+    gender: f
+  - italian: "la laurea magistrale"
+    translation:
+      en: "master's degree (2 years)"
+      ko: "석사 학위 (2년)"
+    gender: f
+  - italian: "il dottorato di ricerca"
+    translation:
+      en: "PhD / research doctorate"
+      ko: "박사 학위"
+    gender: m
+  - italian: "il professore ordinario"
+    translation:
+      en: "full professor"
+      ko: "정교수"
+    gender: m
+  - italian: "il professore associato"
+    translation:
+      en: "associate professor"
+      ko: "부교수"
+    gender: m
+  - italian: "il ricercatore universitario"
+    translation:
+      en: "university researcher"
+      ko: "대학 연구원"
+    gender: m
+  - italian: "il dottorando"
+    translation:
+      en: "PhD student (m)"
+      ko: "박사 과정 학생 (남)"
+    gender: m
+  - italian: "la dottoranda"
+    translation:
+      en: "PhD student (f)"
+      ko: "박사 과정 학생 (여)"
+    gender: f
+  - italian: "il borsista"
+    translation:
+      en: "scholarship holder"
+      ko: "장학생"
+    gender: m
+  - italian: "la borsa di studio"
+    translation:
+      en: "scholarship"
+      ko: "장학금"
+    gender: f
+  - italian: "l'assegno di ricerca"
+    translation:
+      en: "research fellowship"
+      ko: "연구 수당"
+    gender: m
+  - italian: "il CFU"
+    translation:
+      en: "university credit (ECTS)"
+      ko: "학점"
+    gender: m
+    notes:
+      en: "Credito Formativo Universitario"
+      ko: "대학 학점 단위"
+  - italian: "l'esame"
+    translation:
+      en: "exam"
+      ko: "시험"
+    gender: m
+  - italian: "la sessione d'esame"
+    translation:
+      en: "exam session"
+      ko: "시험 기간"
+    gender: f
+- id: academic_discourse_connectors
+  label:
+    en: "Academic Discourse Connectors"
+    ko: "학술 담화 연결어"
+  type: vocabulary
+  words:
+  - italian: "pertanto"
+    translation:
+      en: "therefore"
+      ko: "따라서"
+  - italian: "tuttavia"
+    translation:
+      en: "however"
+      ko: "그러나"
+  - italian: "nondimeno"
+    translation:
+      en: "nevertheless"
+      ko: "그럼에도 불구하고"
+  - italian: "ciononostante"
+    translation:
+      en: "notwithstanding"
+      ko: "그럼에도"
+  - italian: "altresì"
+    translation:
+      en: "likewise / also"
+      ko: "또한"
+  - italian: "ovvero"
+    translation:
+      en: "that is / namely"
+      ko: "즉"
+  - italian: "in primo luogo"
+    translation:
+      en: "firstly"
+      ko: "첫째로"
+  - italian: "in secondo luogo"
+    translation:
+      en: "secondly"
+      ko: "둘째로"
+  - italian: "infine"
+    translation:
+      en: "finally"
+      ko: "마지막으로"
+  - italian: "in conclusione"
+    translation:
+      en: "in conclusion"
+      ko: "결론적으로"
+  - italian: "a tal proposito"
+    translation:
+      en: "in this regard"
+      ko: "이와 관련하여"
+  - italian: "a titolo esemplificativo"
+    translation:
+      en: "by way of example"
+      ko: "예를 들어"
+  - italian: "vale a dire"
+    translation:
+      en: "that is to say"
+      ko: "다시 말해"
+  - italian: "in altre parole"
+    translation:
+      en: "in other words"
+      ko: "다른 말로"
+  - italian: "alla luce di"
+    translation:
+      en: "in light of"
+      ko: "에 비추어"
+  - italian: "in virtù di"
+    translation:
+      en: "by virtue of"
+      ko: "에 의해"
+  - italian: "ai fini di"
+    translation:
+      en: "for the purpose of"
+      ko: "~을 위해"
+  - italian: "nell'ambito di"
+    translation:
+      en: "within the scope of"
+      ko: "~의 범위 내에서"
+  - italian: "per quanto riguarda"
+    translation:
+      en: "as regards / concerning"
+      ko: "~에 관하여"
+  - italian: "dal punto di vista"
+    translation:
+      en: "from the point of view"
+      ko: "~의 관점에서"
+  - italian: "stando a"
+    translation:
+      en: "according to"
+      ko: "~에 따르면"
+  - italian: "di conseguenza"
+    translation:
+      en: "consequently"
+      ko: "결과적으로"
+  - italian: "al contrario"
+    translation:
+      en: "on the contrary"
+      ko: "반대로"
+  - italian: "a maggior ragione"
+    translation:
+      en: "all the more so"
+      ko: "하물며"
+  - italian: "in sostanza"
+    translation:
+      en: "in essence"
+      ko: "본질적으로"
+  - italian: "in linea di massima"
+    translation:
+      en: "broadly speaking"
+      ko: "대체로"
+  - italian: "fermo restando che"
+    translation:
+      en: "it being understood that"
+      ko: "~을 전제로"
+  - italian: "a prescindere da"
+    translation:
+      en: "regardless of"
+      ko: "~에 관계없이"
+  - italian: "in merito a"
+    translation:
+      en: "with regard to"
+      ko: "~에 관해"
+  - italian: "a fronte di"
+    translation:
+      en: "in the face of / compared to"
+      ko: "~에 비해 / ~에 직면하여"
+  - italian: "si evince che"
+    translation:
+      en: "it can be inferred that"
+      ko: "~임을 알 수 있다"
+  - italian: "emerge che"
+    translation:
+      en: "it emerges that"
+      ko: "~임이 드러난다"
+  - italian: "è opportuno sottolineare"
+    translation:
+      en: "it is worth emphasizing"
+      ko: "강조할 필요가 있다"
+  - italian: "si rileva che"
+    translation:
+      en: "it is noted that"
+      ko: "~임이 확인된다"
+  - italian: "sulla base di"
+    translation:
+      en: "on the basis of"
+      ko: "~에 근거하여"
+  - italian: "in riferimento a"
+    translation:
+      en: "with reference to"
+      ko: "~을 참조하여"
+  - italian: "come si è detto"
+    translation:
+      en: "as previously stated"
+      ko: "앞서 언급한 바와 같이"
+  - italian: "in tale ottica"
+    translation:
+      en: "from this perspective"
+      ko: "이러한 관점에서"
+  - italian: "va sottolineato che"
+    translation:
+      en: "it should be noted that"
+      ko: "~임을 강조해야 한다"
+  - italian: "è altresì vero che"
+    translation:
+      en: "it is also true that"
+      ko: "~도 사실이다"
+  - italian: "ad ogni modo"
+    translation:
+      en: "in any case"
+      ko: "어쨌든"
+  - italian: "per l'appunto"
+    translation:
+      en: "precisely / exactly"
+      ko: "바로 그래서"

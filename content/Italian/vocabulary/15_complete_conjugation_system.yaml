@@ -1,0 +1,570 @@
+lesson: 15_Complete_Conjugation_System
+lesson_number: 15
+cefr: B1
+categories:
+- id: tense_names
+  label:
+    en: Tense Names
+    ko: 시제 이름
+  type: vocabulary
+  words:
+  - italian: il presente
+    translation:
+      en: present tense
+      ko: 현재 시제
+    gender: m
+    notes:
+      en: "parlo, scrivo, dormo"
+      ko: "parlo, scrivo, dormo"
+  - italian: il passato prossimo
+    translation:
+      en: present perfect (near past)
+      ko: 근과거
+    gender: m
+    notes:
+      en: "ho parlato, sono andato"
+      ko: "ho parlato, sono andato"
+  - italian: l'imperfetto
+    translation:
+      en: imperfect tense
+      ko: 반과거
+    gender: m
+    notes:
+      en: "parlavo, scrivevo, dormivo"
+      ko: "parlavo, scrivevo, dormivo"
+  - italian: il trapassato prossimo
+    translation:
+      en: pluperfect (past perfect)
+      ko: 대과거
+    gender: m
+    notes:
+      en: "avevo parlato, ero andato"
+      ko: "avevo parlato, ero andato"
+  - italian: il futuro semplice
+    translation:
+      en: simple future
+      ko: 단순 미래
+    gender: m
+    notes:
+      en: "parlerò, scriverò, dormirò"
+      ko: "parlerò, scriverò, dormirò"
+  - italian: il futuro anteriore
+    translation:
+      en: future perfect
+      ko: 전미래
+    gender: m
+    notes:
+      en: "avrò parlato, sarò andato"
+      ko: "avrò parlato, sarò andato"
+  - italian: il condizionale presente
+    translation:
+      en: present conditional
+      ko: 현재 조건법
+    gender: m
+    notes:
+      en: "parlerei, scriverei, dormirei"
+      ko: "parlerei, scriverei, dormirei"
+  - italian: il condizionale passato
+    translation:
+      en: past conditional
+      ko: 과거 조건법
+    gender: m
+    notes:
+      en: "avrei parlato, sarei andato"
+      ko: "avrei parlato, sarei andato"
+  - italian: il congiuntivo presente
+    translation:
+      en: present subjunctive
+      ko: 현재 접속법
+    gender: m
+    notes:
+      en: "che io parli, che io scriva"
+      ko: "che io parli, che io scriva"
+  - italian: il congiuntivo passato
+    translation:
+      en: past subjunctive
+      ko: 과거 접속법
+    gender: m
+    notes:
+      en: "che io abbia parlato, che io sia andato"
+      ko: "che io abbia parlato, che io sia andato"
+  - italian: il congiuntivo imperfetto
+    translation:
+      en: imperfect subjunctive
+      ko: 반과거 접속법
+    gender: m
+    notes:
+      en: "che io parlassi, che io scrivessi"
+      ko: "che io parlassi, che io scrivessi"
+  - italian: il congiuntivo trapassato
+    translation:
+      en: pluperfect subjunctive
+      ko: 대과거 접속법
+    gender: m
+    notes:
+      en: "che io avessi parlato, che io fossi andato"
+      ko: "che io avessi parlato, che io fossi andato"
+  - italian: l'imperativo
+    translation:
+      en: imperative
+      ko: 명령법
+    gender: m
+    notes:
+      en: "parla!, scrivi!, dormi!"
+      ko: "parla!, scrivi!, dormi!"
+  - italian: il passato remoto
+    translation:
+      en: simple past (remote past)
+      ko: 원과거
+    gender: m
+    notes:
+      en: "parlai, scrissi, dormii; used mainly in literature and southern Italy"
+      ko: "parlai, scrissi, dormii; 주로 문학과 남부 이탈리아에서 사용"
+  - italian: il gerundio
+    translation:
+      en: gerund
+      ko: 현재분사/제룬디오
+    gender: m
+    notes:
+      en: "parlando, scrivendo, dormendo"
+      ko: "parlando, scrivendo, dormendo"
+  - italian: il participio passato
+    translation:
+      en: past participle
+      ko: 과거분사
+    gender: m
+    notes:
+      en: "parlato, scritto, dormito"
+      ko: "parlato, scritto, dormito"
+  - italian: l'infinito
+    translation:
+      en: infinitive
+      ko: 부정사
+    gender: m
+    notes:
+      en: "parlare, scrivere, dormire"
+      ko: "parlare, scrivere, dormire"
+- id: grammar_terms
+  label:
+    en: Grammar Terms
+    ko: 문법 용어
+  type: vocabulary
+  words:
+  - italian: la coniugazione
+    translation:
+      en: conjugation
+      ko: 활용/동사변화
+    gender: f
+    notes:
+      en: "Three conjugation groups: -are, -ere, -ire"
+      ko: "세 가지 활용 그룹: -are, -ere, -ire"
+  - italian: il verbo regolare
+    translation:
+      en: regular verb
+      ko: 규칙 동사
+    gender: m
+  - italian: il verbo irregolare
+    translation:
+      en: irregular verb
+      ko: 불규칙 동사
+    gender: m
+  - italian: l'ausiliare
+    translation:
+      en: auxiliary (verb)
+      ko: 조동사
+    gender: m
+    notes:
+      en: "'essere' or 'avere'; choice depends on the main verb"
+      ko: "'essere' 또는 'avere'; 선택은 본동사에 따라 결정"
+  - italian: il modo
+    translation:
+      en: mood
+      ko: 법 (문법)
+    gender: m
+    notes:
+      en: "indicativo, congiuntivo, condizionale, imperativo"
+      ko: "직설법, 접속법, 조건법, 명령법"
+  - italian: il tempo
+    translation:
+      en: tense
+      ko: 시제
+    gender: m
+  - italian: la persona
+    translation:
+      en: person (grammatical)
+      ko: 인칭
+    gender: f
+    notes:
+      en: "prima, seconda, terza persona"
+      ko: "1인칭, 2인칭, 3인칭"
+  - italian: il singolare
+    translation:
+      en: singular
+      ko: 단수
+    gender: m
+  - italian: il plurale
+    translation:
+      en: plural
+      ko: 복수
+    gender: m
+  - italian: transitivo
+    translation:
+      en: transitive
+      ko: 타동사의
+    gender: null
+    notes:
+      en: Verb that takes a direct object
+      ko: 직접 목적어를 취하는 동사
+  - italian: intransitivo
+    translation:
+      en: intransitive
+      ko: 자동사의
+    gender: null
+    notes:
+      en: Verb that does not take a direct object
+      ko: 직접 목적어를 취하지 않는 동사
+  - italian: riflessivo
+    translation:
+      en: reflexive
+      ko: 재귀의
+    gender: null
+    notes:
+      en: "lavarsi, svegliarsi, vestirsi"
+      ko: "lavarsi, svegliarsi, vestirsi"
+  - italian: il passivo
+    translation:
+      en: passive (voice)
+      ko: 수동태
+    gender: m
+  - italian: l'attivo
+    translation:
+      en: active (voice)
+      ko: 능동태
+    gender: m
+  - italian: la desinenza
+    translation:
+      en: ending (verb/noun)
+      ko: 어미
+    gender: f
+    notes:
+      en: The part of the word that changes during conjugation/declension
+      ko: 활용/어형 변화 시 변하는 단어의 부분
+  - italian: la radice / il tema
+    translation:
+      en: root / stem
+      ko: 어간/어근
+    gender: f
+    notes:
+      en: The unchanging part of a verb; e.g., 'parl-' in 'parlare'
+      ko: "동사의 변하지 않는 부분; 예: 'parlare'의 'parl-'"
+  - italian: il pronome
+    translation:
+      en: pronoun
+      ko: 대명사
+    gender: m
+  - italian: il soggetto
+    translation:
+      en: subject
+      ko: 주어
+    gender: m
+  - italian: il complemento oggetto
+    translation:
+      en: direct object
+      ko: 직접 목적어
+    gender: m
+  - italian: il complemento indiretto
+    translation:
+      en: indirect object
+      ko: 간접 목적어
+    gender: m
+  - italian: la prima coniugazione (-are)
+    translation:
+      en: first conjugation (-are)
+      ko: 제1활용 (-are)
+    gender: f
+    notes:
+      en: "parlare, mangiare, amare"
+      ko: "parlare, mangiare, amare"
+  - italian: la seconda coniugazione (-ere)
+    translation:
+      en: second conjugation (-ere)
+      ko: 제2활용 (-ere)
+    gender: f
+    notes:
+      en: "scrivere, leggere, credere"
+      ko: "scrivere, leggere, credere"
+  - italian: la terza coniugazione (-ire)
+    translation:
+      en: third conjugation (-ire)
+      ko: 제3활용 (-ire)
+    gender: f
+    notes:
+      en: "dormire, finire, capire; some use -isc- infix"
+      ko: "dormire, finire, capire; 일부는 -isc- 삽입사 사용"
+  - italian: il verbo modale
+    translation:
+      en: modal verb
+      ko: 조동사 (양태 동사)
+    gender: m
+    notes:
+      en: "potere, dovere, volere"
+      ko: "potere, dovere, volere"
+  - italian: l'indicativo
+    translation:
+      en: indicative (mood)
+      ko: 직설법
+    gender: m
+  - italian: il congiuntivo
+    translation:
+      en: subjunctive (mood)
+      ko: 접속법
+    gender: m
+  - italian: il condizionale
+    translation:
+      en: conditional (mood)
+      ko: 조건법
+    gender: m
+  - italian: il verbo composto
+    translation:
+      en: compound verb
+      ko: 복합 동사
+    gender: m
+  - italian: il periodo ipotetico
+    translation:
+      en: conditional sentence / if-clause
+      ko: 가정문
+    gender: m
+  - italian: la concordanza dei tempi
+    translation:
+      en: sequence of tenses
+      ko: 시제 일치
+    gender: f
+    notes:
+      en: Rules governing tense in subordinate clauses
+      ko: 종속절에서 시제를 지배하는 규칙
+  - italian: il discorso diretto
+    translation:
+      en: direct speech
+      ko: 직접 화법
+    gender: m
+  - italian: il discorso indiretto
+    translation:
+      en: indirect speech / reported speech
+      ko: 간접 화법
+    gender: m
+  - italian: la voce attiva
+    translation:
+      en: active voice
+      ko: 능동태
+    gender: f
+  - italian: la voce passiva
+    translation:
+      en: passive voice
+      ko: 수동태
+    gender: f
+  - italian: l'avverbio
+    translation:
+      en: adverb
+      ko: 부사
+    gender: m
+  - italian: la preposizione
+    translation:
+      en: preposition
+      ko: 전치사
+    gender: f
+  - italian: la congiunzione
+    translation:
+      en: conjunction
+      ko: 접속사
+    gender: f
+  - italian: l'aggettivo
+    translation:
+      en: adjective
+      ko: 형용사
+    gender: m
+  - italian: il sostantivo / il nome
+    translation:
+      en: noun
+      ko: 명사
+    gender: m
+  - italian: la frase principale
+    translation:
+      en: main clause
+      ko: 주절
+    gender: f
+  - italian: la frase subordinata
+    translation:
+      en: subordinate clause
+      ko: 종속절
+    gender: f
+  - italian: il participio presente
+    translation:
+      en: present participle
+      ko: 현재분사
+    gender: m
+    notes:
+      en: Less common in Italian than in English; e.g., 'interessante' from 'interessare'
+      ko: "영어보다 이탈리아어에서 덜 일반적; 예: 'interessare'에서 'interessante'"
+- id: essential_irregular_verbs
+  label:
+    en: Essential Irregular Verbs
+    ko: 필수 불규칙 동사
+  type: vocabulary
+  words:
+  - italian: essere
+    translation:
+      en: to be
+      ko: ~이다 / 있다
+    gender: null
+    notes:
+      en: Most irregular Italian verb; also used as auxiliary
+      ko: 가장 불규칙적인 이탈리아어 동사; 조동사로도 사용
+  - italian: avere
+    translation:
+      en: to have
+      ko: 가지다
+    gender: null
+    notes:
+      en: Auxiliary verb for most compound tenses
+      ko: 대부분의 복합 시제에 사용되는 조동사
+  - italian: fare
+    translation:
+      en: to do / to make
+      ko: 하다 / 만들다
+    gender: null
+    notes:
+      en: From Latin 'facere'; very common in expressions
+      ko: 라틴어 'facere'에서 유래; 관용 표현에 매우 자주 사용
+  - italian: andare
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    notes:
+      en: Uses 'essere' as auxiliary in compound tenses
+      ko: 복합 시제에서 조동사로 'essere' 사용
+  - italian: venire
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    notes:
+      en: Uses 'essere' as auxiliary; also used for passive voice
+      ko: 조동사로 'essere' 사용; 수동태에도 사용
+  - italian: dire
+    translation:
+      en: to say / to tell
+      ko: 말하다
+    gender: null
+    notes:
+      en: From Latin 'dicere'; irregular in most tenses
+      ko: 라틴어 'dicere'에서 유래; 대부분의 시제에서 불규칙
+  - italian: dare
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+  - italian: stare
+    translation:
+      en: to stay / to be (condition)
+      ko: 있다 / ~한 상태이다
+    gender: null
+    notes:
+      en: Used for health/conditions; 'come stai?' = how are you?
+      ko: 건강/상태에 사용; 'come stai?' = 어떻게 지내?
+  - italian: sapere
+    translation:
+      en: to know (facts)
+      ko: 알다 (사실)
+    gender: null
+    notes:
+      en: Differs from 'conoscere' (to know people/places)
+      ko: "'conoscere' (사람/장소를 알다)와 구별"
+  - italian: potere
+    translation:
+      en: can / to be able to
+      ko: ~할 수 있다
+    gender: null
+    notes:
+      en: Modal verb; irregular in most tenses
+      ko: 조동사; 대부분의 시제에서 불규칙
+  - italian: volere
+    translation:
+      en: to want
+      ko: 원하다
+    gender: null
+    notes:
+      en: Modal verb; 'vorrei' (I would like) is very common
+      ko: 조동사; 'vorrei' (원합니다)는 매우 일반적
+  - italian: dovere
+    translation:
+      en: must / to have to
+      ko: ~해야 하다
+    gender: null
+    notes:
+      en: Modal verb; expresses obligation or probability
+      ko: 조동사; 의무 또는 가능성을 표현
+  - italian: uscire
+    translation:
+      en: to go out / to exit
+      ko: 나가다
+    gender: null
+    notes:
+      en: Irregular in present tense; 'esco, esci, esce...'
+      ko: 현재 시제에서 불규칙; 'esco, esci, esce...'
+  - italian: tenere
+    translation:
+      en: to hold / to keep
+      ko: 잡다 / 유지하다
+    gender: null
+    notes:
+      en: Irregular in present and future; 'tengo, terrò'
+      ko: 현재와 미래에서 불규칙; 'tengo, terrò'
+  - italian: rimanere
+    translation:
+      en: to remain / to stay
+      ko: 남다 / 머무르다
+    gender: null
+    notes:
+      en: Irregular; uses 'essere' as auxiliary
+      ko: 불규칙; 조동사로 'essere' 사용
+  - italian: porre
+    translation:
+      en: to put / to place
+      ko: 놓다 / 두다
+    gender: null
+    notes:
+      en: From Latin 'ponere'; base for compounds like 'proporre', 'supporre'
+      ko: 라틴어 'ponere'에서 유래; 'proporre', 'supporre' 등의 합성어 기초
+  - italian: tradurre
+    translation:
+      en: to translate
+      ko: 번역하다
+    gender: null
+    notes:
+      en: All -durre verbs follow similar pattern; from Latin -ducere
+      ko: 모든 -durre 동사가 유사한 패턴; 라틴어 -ducere에서 유래
+  - italian: bere
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    notes:
+      en: From Latin 'bevere'; irregular stem 'bev-' in many tenses
+      ko: 라틴어 'bevere'에서 유래; 많은 시제에서 불규칙 어간 'bev-'
+  - italian: morire
+    translation:
+      en: to die
+      ko: 죽다
+    gender: null
+    notes:
+      en: Uses 'essere' as auxiliary; irregular past participle 'morto'
+      ko: 조동사로 'essere' 사용; 불규칙 과거분사 'morto'
+  - italian: salire
+    translation:
+      en: to go up / to climb
+      ko: 올라가다
+    gender: null
+    notes:
+      en: Irregular present tense; 'salgo, sali, sale...'
+      ko: 현재 시제 불규칙; 'salgo, sali, sale...'

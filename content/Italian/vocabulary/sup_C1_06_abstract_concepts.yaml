@@ -1,0 +1,793 @@
+lesson: "sup_C1_Abstract_Concepts"
+lesson_number: 506
+cefr: C1
+type: supplementary
+topic: "Abstract Concepts"
+categories:
+- id: identity_and_self
+  label:
+    en: "Identity and Self"
+    ko: "정체성 및 자아"
+  type: vocabulary
+  words:
+  - italian: "la coscienza"
+    translation:
+      en: "consciousness / conscience"
+      ko: "의식 / 양심"
+    gender: f
+  - italian: "l'identità"
+    translation:
+      en: "identity"
+      ko: "정체성"
+    gender: f
+  - italian: "la dignità"
+    translation:
+      en: "dignity"
+      ko: "존엄"
+    gender: f
+  - italian: "l'autonomia"
+    translation:
+      en: "autonomy"
+      ko: "자율성"
+    gender: f
+  - italian: "l'individualità"
+    translation:
+      en: "individuality"
+      ko: "개성"
+    gender: f
+  - italian: "la soggettività"
+    translation:
+      en: "subjectivity"
+      ko: "주관성"
+    gender: f
+  - italian: "l'oggettività"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: f
+  - italian: "l'autenticità"
+    translation:
+      en: "authenticity"
+      ko: "진정성"
+    gender: f
+  - italian: "la percezione di sé"
+    translation:
+      en: "self-perception"
+      ko: "자기 인식"
+    gender: f
+  - italian: "l'autorealizzazione"
+    translation:
+      en: "self-actualization"
+      ko: "자아실현"
+    gender: f
+  - italian: "la consapevolezza"
+    translation:
+      en: "awareness / mindfulness"
+      ko: "인식 / 자각"
+    gender: f
+  - italian: "l'introspezione"
+    translation:
+      en: "introspection"
+      ko: "내성"
+    gender: f
+- id: moral_and_ethical
+  label:
+    en: "Moral and Ethical Concepts"
+    ko: "도덕적 및 윤리적 개념"
+  type: vocabulary
+  words:
+  - italian: "la responsabilità"
+    translation:
+      en: "responsibility"
+      ko: "책임"
+    gender: f
+  - italian: "la solidarietà"
+    translation:
+      en: "solidarity"
+      ko: "연대"
+    gender: f
+  - italian: "l'integrità"
+    translation:
+      en: "integrity"
+      ko: "청렴"
+    gender: f
+  - italian: "la trasparenza"
+    translation:
+      en: "transparency"
+      ko: "투명성"
+    gender: f
+  - italian: "l'equità"
+    translation:
+      en: "equity / fairness"
+      ko: "공정"
+    gender: f
+  - italian: "la lealtà"
+    translation:
+      en: "loyalty"
+      ko: "충성"
+    gender: f
+  - italian: "l'onestà"
+    translation:
+      en: "honesty"
+      ko: "정직"
+    gender: f
+  - italian: "la coerenza"
+    translation:
+      en: "coherence / consistency"
+      ko: "일관성"
+    gender: f
+  - italian: "l'imparzialità"
+    translation:
+      en: "impartiality"
+      ko: "공정성"
+    gender: f
+  - italian: "la rettitudine"
+    translation:
+      en: "rectitude / uprightness"
+      ko: "올바름"
+    gender: f
+  - italian: "la reciprocità"
+    translation:
+      en: "reciprocity"
+      ko: "호혜성"
+    gender: f
+  - italian: "l'altruismo"
+    translation:
+      en: "altruism"
+      ko: "이타주의"
+    gender: m
+  - italian: "l'egoismo"
+    translation:
+      en: "egoism / selfishness"
+      ko: "이기주의"
+    gender: m
+- id: complexity_and_change
+  label:
+    en: "Complexity and Change"
+    ko: "복잡성 및 변화"
+  type: vocabulary
+  words:
+  - italian: "l'ambiguità"
+    translation:
+      en: "ambiguity"
+      ko: "모호성"
+    gender: f
+  - italian: "il paradosso"
+    translation:
+      en: "paradox"
+      ko: "역설"
+    gender: m
+  - italian: "la complessità"
+    translation:
+      en: "complexity"
+      ko: "복잡성"
+    gender: f
+  - italian: "la contraddizione"
+    translation:
+      en: "contradiction"
+      ko: "모순"
+    gender: f
+  - italian: "l'evoluzione"
+    translation:
+      en: "evolution"
+      ko: "진화"
+    gender: f
+  - italian: "il progresso"
+    translation:
+      en: "progress"
+      ko: "진보"
+    gender: m
+  - italian: "la decadenza"
+    translation:
+      en: "decline / decadence"
+      ko: "쇠퇴"
+    gender: f
+  - italian: "la trasformazione"
+    translation:
+      en: "transformation"
+      ko: "변환"
+    gender: f
+  - italian: "la transizione"
+    translation:
+      en: "transition"
+      ko: "전환"
+    gender: f
+  - italian: "la stagnazione"
+    translation:
+      en: "stagnation"
+      ko: "침체"
+    gender: f
+  - italian: "il rinnovamento"
+    translation:
+      en: "renewal"
+      ko: "쇄신"
+    gender: m
+  - italian: "l'innovazione"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: f
+  - italian: "la discontinuità"
+    translation:
+      en: "discontinuity"
+      ko: "불연속"
+    gender: f
+  - italian: "l'entropia"
+    translation:
+      en: "entropy"
+      ko: "엔트로피"
+    gender: f
+- id: social_dynamics
+  label:
+    en: "Social Dynamics"
+    ko: "사회적 역학"
+  type: vocabulary
+  words:
+  - italian: "il conflitto"
+    translation:
+      en: "conflict"
+      ko: "갈등"
+    gender: m
+  - italian: "il compromesso"
+    translation:
+      en: "compromise"
+      ko: "타협"
+    gender: m
+  - italian: "l'equilibrio"
+    translation:
+      en: "equilibrium / balance"
+      ko: "균형"
+    gender: m
+  - italian: "la gerarchia"
+    translation:
+      en: "hierarchy"
+      ko: "위계"
+    gender: f
+  - italian: "la disuguaglianza"
+    translation:
+      en: "inequality"
+      ko: "불평등"
+    gender: f
+  - italian: "l'inclusione"
+    translation:
+      en: "inclusion"
+      ko: "포용"
+    gender: f
+  - italian: "l'esclusione"
+    translation:
+      en: "exclusion"
+      ko: "배제"
+    gender: f
+  - italian: "l'emarginazione"
+    translation:
+      en: "marginalization"
+      ko: "소외"
+    gender: f
+  - italian: "l'alienazione"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: f
+  - italian: "l'integrazione"
+    translation:
+      en: "integration"
+      ko: "통합"
+    gender: f
+  - italian: "la coesione"
+    translation:
+      en: "cohesion"
+      ko: "결속"
+    gender: f
+  - italian: "la globalizzazione"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: f
+  - italian: "il localismo"
+    translation:
+      en: "localism"
+      ko: "지역주의"
+    gender: m
+  - italian: "la polarizzazione"
+    translation:
+      en: "polarization"
+      ko: "양극화"
+    gender: f
+  - italian: "il consenso"
+    translation:
+      en: "consensus"
+      ko: "합의"
+    gender: m
+  - italian: "il dissenso"
+    translation:
+      en: "dissent"
+      ko: "반대"
+    gender: m
+- id: sustainability_and_resilience
+  label:
+    en: "Sustainability and Resilience"
+    ko: "지속 가능성 및 회복력"
+  type: vocabulary
+  words:
+  - italian: "la sostenibilità"
+    translation:
+      en: "sustainability"
+      ko: "지속 가능성"
+    gender: f
+  - italian: "la resilienza"
+    translation:
+      en: "resilience"
+      ko: "회복력"
+    gender: f
+  - italian: "l'adattabilità"
+    translation:
+      en: "adaptability"
+      ko: "적응력"
+    gender: f
+  - italian: "la flessibilità"
+    translation:
+      en: "flexibility"
+      ko: "유연성"
+    gender: f
+  - italian: "la vulnerabilità"
+    translation:
+      en: "vulnerability"
+      ko: "취약성"
+    gender: f
+  - italian: "l'interdipendenza"
+    translation:
+      en: "interdependence"
+      ko: "상호의존"
+    gender: f
+  - italian: "l'autosufficienza"
+    translation:
+      en: "self-sufficiency"
+      ko: "자급자족"
+    gender: f
+  - italian: "la biodiversità"
+    translation:
+      en: "biodiversity"
+      ko: "생물 다양성"
+    gender: f
+  - italian: "l'impronta ecologica"
+    translation:
+      en: "ecological footprint"
+      ko: "생태 발자국"
+    gender: f
+  - italian: "la circolarità"
+    translation:
+      en: "circularity"
+      ko: "순환성"
+    gender: f
+- id: empowerment_and_agency
+  label:
+    en: "Empowerment and Agency"
+    ko: "권한 부여 및 주체성"
+  type: vocabulary
+  words:
+  - italian: "l'empowerment"
+    translation:
+      en: "empowerment"
+      ko: "역량 강화"
+    gender: m
+  - italian: "la capacità d'azione"
+    translation:
+      en: "agency"
+      ko: "주체성"
+    gender: f
+  - italian: "l'autodeterminazione"
+    translation:
+      en: "self-determination"
+      ko: "자기 결정권"
+    gender: f
+  - italian: "la partecipazione"
+    translation:
+      en: "participation"
+      ko: "참여"
+    gender: f
+  - italian: "la cittadinanza attiva"
+    translation:
+      en: "active citizenship"
+      ko: "적극적 시민 참여"
+    gender: f
+  - italian: "il capitale sociale"
+    translation:
+      en: "social capital"
+      ko: "사회적 자본"
+    gender: m
+  - italian: "la sussidiarietà"
+    translation:
+      en: "subsidiarity"
+      ko: "보충성의 원칙"
+    gender: f
+  - italian: "la governance partecipativa"
+    translation:
+      en: "participatory governance"
+      ko: "참여형 거버넌스"
+    gender: f
+  - italian: "trascendere"
+    translation:
+      en: "to transcend"
+      ko: "초월하다"
+  - italian: "conciliare"
+    translation:
+      en: "to reconcile"
+      ko: "화해시키다"
+  - italian: "emanciparsi"
+    translation:
+      en: "to emancipate oneself"
+      ko: "해방되다"
+  - italian: "evolversi"
+    translation:
+      en: "to evolve"
+      ko: "진화하다"
+  - italian: "adattarsi"
+    translation:
+      en: "to adapt"
+      ko: "적응하다"
+  - italian: "mediare"
+    translation:
+      en: "to mediate"
+      ko: "중재하다"
+  - italian: "integrare"
+    translation:
+      en: "to integrate"
+      ko: "통합하다"
+  - italian: "emancipare"
+    translation:
+      en: "to emancipate"
+      ko: "해방하다"
+  - italian: "responsabilizzare"
+    translation:
+      en: "to empower / to hold accountable"
+      ko: "책임감을 부여하다"
+  - italian: "sensibilizzare"
+    translation:
+      en: "to raise awareness"
+      ko: "인식을 높이다"
+  - italian: "valorizzare"
+    translation:
+      en: "to value / to enhance"
+      ko: "가치를 높이다"
+  - italian: "legittimare"
+    translation:
+      en: "to legitimize"
+      ko: "정당화하다"
+  - italian: "problematizzare"
+    translation:
+      en: "to problematize"
+      ko: "문제화하다"
+  - italian: "decostruire"
+    translation:
+      en: "to deconstruct"
+      ko: "해체하다"
+  - italian: "relativizzare"
+    translation:
+      en: "to relativize"
+      ko: "상대화하다"
+  - italian: "interiorizzare"
+    translation:
+      en: "to internalize"
+      ko: "내면화하다"
+  - italian: "contestare"
+    translation:
+      en: "to contest / to challenge"
+      ko: "이의를 제기하다"
+- id: knowledge_and_truth
+  label:
+    en: "Knowledge and Truth"
+    ko: "지식 및 진리"
+  type: vocabulary
+  words:
+  - italian: "la conoscenza"
+    translation:
+      en: "knowledge"
+      ko: "지식"
+    gender: f
+  - italian: "la verità"
+    translation:
+      en: "truth"
+      ko: "진리"
+    gender: f
+  - italian: "la certezza"
+    translation:
+      en: "certainty"
+      ko: "확실성"
+    gender: f
+  - italian: "l'incertezza"
+    translation:
+      en: "uncertainty"
+      ko: "불확실성"
+    gender: f
+  - italian: "il dubbio"
+    translation:
+      en: "doubt"
+      ko: "의심"
+    gender: m
+  - italian: "la credenza"
+    translation:
+      en: "belief"
+      ko: "믿음"
+    gender: f
+  - italian: "il pregiudizio"
+    translation:
+      en: "prejudice"
+      ko: "편견"
+    gender: m
+  - italian: "la ragione"
+    translation:
+      en: "reason"
+      ko: "이성"
+    gender: f
+  - italian: "l'intuizione"
+    translation:
+      en: "intuition"
+      ko: "직관"
+    gender: f
+  - italian: "la saggezza"
+    translation:
+      en: "wisdom"
+      ko: "지혜"
+    gender: f
+  - italian: "l'ignoranza"
+    translation:
+      en: "ignorance"
+      ko: "무지"
+    gender: f
+  - italian: "la consapevolezza"
+    translation:
+      en: "awareness"
+      ko: "인식"
+    gender: f
+  - italian: "la percezione"
+    translation:
+      en: "perception"
+      ko: "지각"
+    gender: f
+  - italian: "l'illusione"
+    translation:
+      en: "illusion"
+      ko: "환상"
+    gender: f
+  - italian: "la realtà"
+    translation:
+      en: "reality"
+      ko: "현실"
+    gender: f
+  - italian: "la finzione"
+    translation:
+      en: "fiction"
+      ko: "허구"
+    gender: f
+- id: time_and_existence
+  label:
+    en: "Time and Existence"
+    ko: "시간 및 존재"
+  type: vocabulary
+  words:
+  - italian: "l'esistenza"
+    translation:
+      en: "existence"
+      ko: "존재"
+    gender: f
+  - italian: "l'essere"
+    translation:
+      en: "being"
+      ko: "존재"
+    gender: m
+  - italian: "il nulla"
+    translation:
+      en: "nothingness"
+      ko: "무(無)"
+    gender: m
+  - italian: "il divenire"
+    translation:
+      en: "becoming"
+      ko: "생성"
+    gender: m
+  - italian: "l'eternità"
+    translation:
+      en: "eternity"
+      ko: "영원"
+    gender: f
+  - italian: "la temporalità"
+    translation:
+      en: "temporality"
+      ko: "시간성"
+    gender: f
+  - italian: "la caducità"
+    translation:
+      en: "transience"
+      ko: "덧없음"
+    gender: f
+  - italian: "la finitezza"
+    translation:
+      en: "finitude"
+      ko: "유한성"
+    gender: f
+  - italian: "l'infinito"
+    translation:
+      en: "infinity"
+      ko: "무한"
+    gender: m
+  - italian: "il destino"
+    translation:
+      en: "destiny / fate"
+      ko: "운명"
+    gender: m
+  - italian: "la casualità"
+    translation:
+      en: "randomness / chance"
+      ko: "우연성"
+    gender: f
+  - italian: "la necessità"
+    translation:
+      en: "necessity"
+      ko: "필연성"
+    gender: f
+  - italian: "la contingenza"
+    translation:
+      en: "contingency"
+      ko: "우연"
+    gender: f
+  - italian: "la possibilità"
+    translation:
+      en: "possibility"
+      ko: "가능성"
+    gender: f
+  - italian: "l'impossibilità"
+    translation:
+      en: "impossibility"
+      ko: "불가능성"
+    gender: f
+  - italian: "la probabilità"
+    translation:
+      en: "probability"
+      ko: "개연성"
+    gender: f
+  - italian: "l'utopia"
+    translation:
+      en: "utopia"
+      ko: "유토피아"
+    gender: f
+  - italian: "la distopia"
+    translation:
+      en: "dystopia"
+      ko: "디스토피아"
+    gender: f
+  - italian: "la simultaneità"
+    translation:
+      en: "simultaneity"
+      ko: "동시성"
+    gender: f
+  - italian: "la ciclicità"
+    translation:
+      en: "cyclicality"
+      ko: "순환성"
+    gender: f
+  - italian: "la linearità"
+    translation:
+      en: "linearity"
+      ko: "선형성"
+    gender: f
+  - italian: "la permanenza"
+    translation:
+      en: "permanence"
+      ko: "영속"
+    gender: f
+  - italian: "l'effimero"
+    translation:
+      en: "the ephemeral"
+      ko: "덧없는 것"
+    gender: m
+- id: power_and_freedom
+  label:
+    en: "Power and Freedom"
+    ko: "권력 및 자유"
+  type: vocabulary
+  words:
+  - italian: "la libertà"
+    translation:
+      en: "freedom / liberty"
+      ko: "자유"
+    gender: f
+  - italian: "l'oppressione"
+    translation:
+      en: "oppression"
+      ko: "억압"
+    gender: f
+  - italian: "la dominazione"
+    translation:
+      en: "domination"
+      ko: "지배"
+    gender: f
+  - italian: "la sottomissione"
+    translation:
+      en: "submission"
+      ko: "복종"
+    gender: f
+  - italian: "la resistenza"
+    translation:
+      en: "resistance"
+      ko: "저항"
+    gender: f
+  - italian: "la ribellione"
+    translation:
+      en: "rebellion"
+      ko: "반란"
+    gender: f
+  - italian: "la sovranità"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: f
+  - italian: "il potere"
+    translation:
+      en: "power"
+      ko: "권력"
+    gender: m
+  - italian: "l'autorità"
+    translation:
+      en: "authority"
+      ko: "권위"
+    gender: f
+  - italian: "la legittimità"
+    translation:
+      en: "legitimacy"
+      ko: "정당성"
+    gender: f
+  - italian: "l'egemonia"
+    translation:
+      en: "hegemony"
+      ko: "패권"
+    gender: f
+  - italian: "la meritocrazia"
+    translation:
+      en: "meritocracy"
+      ko: "능력주의"
+    gender: f
+  - italian: "la plutocrazia"
+    translation:
+      en: "plutocracy"
+      ko: "금권정치"
+    gender: f
+  - italian: "il conformismo"
+    translation:
+      en: "conformism"
+      ko: "순응주의"
+    gender: m
+  - italian: "il nonconformismo"
+    translation:
+      en: "nonconformism"
+      ko: "비순응주의"
+    gender: m
+  - italian: "l'emancipazione"
+    translation:
+      en: "emancipation"
+      ko: "해방"
+    gender: f
+  - italian: "la tolleranza"
+    translation:
+      en: "tolerance"
+      ko: "관용"
+    gender: f
+  - italian: "l'intolleranza"
+    translation:
+      en: "intolerance"
+      ko: "불관용"
+    gender: f
+  - italian: "la pluralità"
+    translation:
+      en: "plurality"
+      ko: "다원성"
+    gender: f
+  - italian: "l'universalità"
+    translation:
+      en: "universality"
+      ko: "보편성"
+    gender: f
+  - italian: "la particolarità"
+    translation:
+      en: "particularity"
+      ko: "특수성"
+    gender: f

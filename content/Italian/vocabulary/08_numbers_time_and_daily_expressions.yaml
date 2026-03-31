@@ -1,0 +1,488 @@
+lesson: 08_Numbers_Time_and_Daily_Expressions
+lesson_number: 8
+cefr: A2
+categories:
+- id: 81_numbers_0_20
+  label:
+    en: 8.1 Numbers 0–20
+    ko: 8.1 숫자 0–20
+  type: vocabulary
+  words:
+  - italian: zero
+    translation:
+      en: zero
+      ko: 영
+    gender: m
+  - italian: uno
+    translation:
+      en: one
+      ko: 일
+    gender: m
+    notes:
+      en: Changes form with articles — un, uno, una, un'
+      ko: 관사에 따라 형태 변화 — un, uno, una, un'
+  - italian: due
+    translation:
+      en: two
+      ko: 이
+    gender: null
+  - italian: tre
+    translation:
+      en: three
+      ko: 삼
+    gender: null
+  - italian: quattro
+    translation:
+      en: four
+      ko: 사
+    gender: null
+  - italian: cinque
+    translation:
+      en: five
+      ko: 오
+    gender: null
+  - italian: sei
+    translation:
+      en: six
+      ko: 육
+    gender: null
+  - italian: sette
+    translation:
+      en: seven
+      ko: 칠
+    gender: null
+  - italian: otto
+    translation:
+      en: eight
+      ko: 팔
+    gender: null
+  - italian: nove
+    translation:
+      en: nine
+      ko: 구
+    gender: null
+  - italian: dieci
+    translation:
+      en: ten
+      ko: 십
+    gender: null
+  - italian: undici
+    translation:
+      en: eleven
+      ko: 십일
+    gender: null
+  - italian: dodici
+    translation:
+      en: twelve
+      ko: 십이
+    gender: null
+  - italian: tredici
+    translation:
+      en: thirteen
+      ko: 십삼
+    gender: null
+  - italian: quattordici
+    translation:
+      en: fourteen
+      ko: 십사
+    gender: null
+  - italian: quindici
+    translation:
+      en: fifteen
+      ko: 십오
+    gender: null
+  - italian: sedici
+    translation:
+      en: sixteen
+      ko: 십육
+    gender: null
+  - italian: diciassette
+    translation:
+      en: seventeen
+      ko: 십칠
+    gender: null
+  - italian: diciotto
+    translation:
+      en: eighteen
+      ko: 십팔
+    gender: null
+  - italian: diciannove
+    translation:
+      en: nineteen
+      ko: 십구
+    gender: null
+  - italian: venti
+    translation:
+      en: twenty
+      ko: 이십
+    gender: null
+- id: 82_numbers_21_100
+  label:
+    en: 8.2 Numbers 21–100
+    ko: 8.2 숫자 21–100
+  type: vocabulary
+  words:
+  - italian: ventuno
+    translation:
+      en: twenty-one
+      ko: 이십일
+    gender: null
+    notes:
+      en: Drops final vowel of 'venti' before 'uno' and 'otto'
+      ko: "'uno'와 'otto' 앞에서 'venti'의 마지막 모음 탈락"
+  - italian: trenta
+    translation:
+      en: thirty
+      ko: 삼십
+    gender: null
+  - italian: quaranta
+    translation:
+      en: forty
+      ko: 사십
+    gender: null
+  - italian: cinquanta
+    translation:
+      en: fifty
+      ko: 오십
+    gender: null
+  - italian: sessanta
+    translation:
+      en: sixty
+      ko: 육십
+    gender: null
+  - italian: settanta
+    translation:
+      en: seventy
+      ko: 칠십
+    gender: null
+  - italian: ottanta
+    translation:
+      en: eighty
+      ko: 팔십
+    gender: null
+  - italian: novanta
+    translation:
+      en: ninety
+      ko: 구십
+    gender: null
+  - italian: cento
+    translation:
+      en: one hundred
+      ko: 백
+    gender: null
+- id: 83_numbers_large
+  label:
+    en: 8.3 Large Numbers
+    ko: 8.3 큰 숫자
+  type: vocabulary
+  words:
+  - italian: duecento
+    translation:
+      en: two hundred
+      ko: 이백
+    gender: null
+  - italian: mille
+    translation:
+      en: one thousand
+      ko: 천
+    gender: null
+    notes:
+      en: Irregular plural — duemila (2000), tremila (3000)
+      ko: 불규칙 복수 — duemila (2000), tremila (3000)
+  - italian: duemila
+    translation:
+      en: two thousand
+      ko: 이천
+    gender: null
+  - italian: un milione
+    translation:
+      en: one million
+      ko: 백만
+    gender: m
+    notes:
+      en: "Followed by 'di' before a noun — un milione di persone"
+      ko: "명사 앞에 'di' 필요 — un milione di persone"
+  - italian: un miliardo
+    translation:
+      en: one billion
+      ko: 십억
+    gender: m
+- id: 84_ordinals
+  label:
+    en: 8.4 Ordinal Numbers
+    ko: 8.4 서수
+  type: vocabulary
+  words:
+  - italian: primo / prima
+    translation:
+      en: first (m/f)
+      ko: 첫 번째 (남/여)
+    gender: null
+  - italian: secondo / seconda
+    translation:
+      en: second (m/f)
+      ko: 두 번째 (남/여)
+    gender: null
+  - italian: terzo / terza
+    translation:
+      en: third (m/f)
+      ko: 세 번째 (남/여)
+    gender: null
+  - italian: quarto / quarta
+    translation:
+      en: fourth (m/f)
+      ko: 네 번째 (남/여)
+    gender: null
+  - italian: quinto / quinta
+    translation:
+      en: fifth (m/f)
+      ko: 다섯 번째 (남/여)
+    gender: null
+  - italian: sesto / sesta
+    translation:
+      en: sixth (m/f)
+      ko: 여섯 번째 (남/여)
+    gender: null
+  - italian: settimo / settima
+    translation:
+      en: seventh (m/f)
+      ko: 일곱 번째 (남/여)
+    gender: null
+  - italian: ottavo / ottava
+    translation:
+      en: eighth (m/f)
+      ko: 여덟 번째 (남/여)
+    gender: null
+  - italian: nono / nona
+    translation:
+      en: ninth (m/f)
+      ko: 아홉 번째 (남/여)
+    gender: null
+  - italian: decimo / decima
+    translation:
+      en: tenth (m/f)
+      ko: 열 번째 (남/여)
+    gender: null
+- id: 85_time_expressions
+  label:
+    en: 8.5 Time Expressions
+    ko: 8.5 시간 표현
+  type: vocabulary
+  words:
+  - italian: l'ora
+    translation:
+      en: the hour / time
+      ko: 시간
+    gender: f
+  - italian: il minuto
+    translation:
+      en: the minute
+      ko: 분
+    gender: m
+  - italian: il secondo
+    translation:
+      en: the second
+      ko: 초
+    gender: m
+  - italian: la mattina
+    translation:
+      en: the morning
+      ko: 아침
+    gender: f
+  - italian: il pomeriggio
+    translation:
+      en: the afternoon
+      ko: 오후
+    gender: m
+  - italian: la sera
+    translation:
+      en: the evening
+      ko: 저녁
+    gender: f
+  - italian: la notte
+    translation:
+      en: the night
+      ko: 밤
+    gender: f
+  - italian: mezzogiorno
+    translation:
+      en: noon / midday
+      ko: 정오
+    gender: m
+  - italian: mezzanotte
+    translation:
+      en: midnight
+      ko: 자정
+    gender: f
+  - italian: oggi
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+  - italian: ieri
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - italian: domani
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+- id: 86_days_months
+  label:
+    en: 8.6 Days and Months
+    ko: 8.6 요일과 월
+  type: vocabulary
+  words:
+  - italian: lunedì
+    translation:
+      en: Monday
+      ko: 월요일
+    gender: m
+  - italian: martedì
+    translation:
+      en: Tuesday
+      ko: 화요일
+    gender: m
+  - italian: mercoledì
+    translation:
+      en: Wednesday
+      ko: 수요일
+    gender: m
+  - italian: giovedì
+    translation:
+      en: Thursday
+      ko: 목요일
+    gender: m
+  - italian: venerdì
+    translation:
+      en: Friday
+      ko: 금요일
+    gender: m
+  - italian: sabato
+    translation:
+      en: Saturday
+      ko: 토요일
+    gender: m
+  - italian: domenica
+    translation:
+      en: Sunday
+      ko: 일요일
+    gender: f
+    notes:
+      en: The only day of the week that is feminine
+      ko: 요일 중 유일한 여성형
+  - italian: gennaio
+    translation:
+      en: January
+      ko: 1월
+    gender: m
+  - italian: febbraio
+    translation:
+      en: February
+      ko: 2월
+    gender: m
+  - italian: marzo
+    translation:
+      en: March
+      ko: 3월
+    gender: m
+  - italian: aprile
+    translation:
+      en: April
+      ko: 4월
+    gender: m
+  - italian: maggio
+    translation:
+      en: May
+      ko: 5월
+    gender: m
+  - italian: giugno
+    translation:
+      en: June
+      ko: 6월
+    gender: m
+  - italian: luglio
+    translation:
+      en: July
+      ko: 7월
+    gender: m
+  - italian: agosto
+    translation:
+      en: August
+      ko: 8월
+    gender: m
+  - italian: settembre
+    translation:
+      en: September
+      ko: 9월
+    gender: m
+  - italian: ottobre
+    translation:
+      en: October
+      ko: 10월
+    gender: m
+  - italian: novembre
+    translation:
+      en: November
+      ko: 11월
+    gender: m
+  - italian: dicembre
+    translation:
+      en: December
+      ko: 12월
+    gender: m
+- id: 87_daily_expressions
+  label:
+    en: 8.7 Daily Expressions
+    ko: 8.7 일상 표현
+  type: vocabulary
+  words:
+  - italian: Che ore sono?
+    translation:
+      en: What time is it?
+      ko: 몇 시예요?
+    gender: null
+    notes:
+      en: "Also 'Che ora è?' (singular form)"
+      ko: "'Che ora è?'(단수형)도 사용"
+  - italian: Quanto costa?
+    translation:
+      en: How much does it cost?
+      ko: 얼마예요?
+    gender: null
+    notes:
+      en: "Plural: Quanto costano?"
+      ko: "복수: Quanto costano?"
+  - italian: Dov'è?
+    translation:
+      en: Where is it?
+      ko: 어디에 있어요?
+    gender: null
+  - italian: Come stai?
+    translation:
+      en: How are you? (informal)
+      ko: 어떻게 지내? (비격식)
+    gender: null
+  - italian: Buon appetito!
+    translation:
+      en: Enjoy your meal!
+      ko: 맛있게 드세요!
+    gender: null
+    notes:
+      en: Said before eating; no direct English equivalent
+      ko: 식사 전에 하는 인사; 직접적인 영어 대응 표현 없음
+  - italian: Buon viaggio!
+    translation:
+      en: Have a good trip!
+      ko: 좋은 여행 되세요!
+    gender: null
+  - italian: In bocca al lupo!
+    translation:
+      en: Good luck!
+      ko: 행운을 빌어요!
+    gender: null
+    notes:
+      en: "Literally 'in the mouth of the wolf'; reply: 'Crepi (il lupo)!'"
+      ko: "직역 '늑대의 입 속으로'; 대답: 'Crepi (il lupo)!'"

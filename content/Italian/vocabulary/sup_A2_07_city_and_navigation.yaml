@@ -1,0 +1,904 @@
+lesson: "sup_A2_City_and_Navigation"
+lesson_number: 207
+cefr: A2
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: places
+  label:
+    en: "City Places"
+    ko: "도시 장소"
+  type: vocabulary
+  words:
+  - italian: "la città"
+    translation:
+      en: "city"
+      ko: "도시"
+    gender: f
+    notes:
+      en: "Invariable: la città / le città"
+      ko: "불변: la città / le città"
+  - italian: "il centro"
+    translation:
+      en: "center / downtown"
+      ko: "중심 / 시내"
+    gender: m
+    notes:
+      en: "il centro storico = historic center"
+      ko: "il centro storico = 구시가지"
+  - italian: "la periferia"
+    translation:
+      en: "outskirts / suburbs"
+      ko: "외곽 / 교외"
+    gender: f
+  - italian: "il quartiere"
+    translation:
+      en: "neighborhood / district"
+      ko: "동네 / 구역"
+    gender: m
+  - italian: "la piazza"
+    translation:
+      en: "square / plaza"
+      ko: "광장"
+    gender: f
+    notes:
+      en: "Heart of Italian social life"
+      ko: "이탈리아 사회생활의 중심"
+  - italian: "la via"
+    translation:
+      en: "street / road"
+      ko: "거리 / 도로"
+    gender: f
+    notes:
+      en: "la strada is also used for road"
+      ko: "la strada도 도로를 뜻함"
+  - italian: "la strada"
+    translation:
+      en: "road / street"
+      ko: "도로 / 길"
+    gender: f
+  - italian: "il palazzo"
+    translation:
+      en: "building / palace"
+      ko: "건물 / 궁전"
+    gender: m
+  - italian: "il grattacielo"
+    translation:
+      en: "skyscraper"
+      ko: "고층 건물"
+    gender: m
+    notes:
+      en: "Literally 'scratches the sky'"
+      ko: "직역하면 '하늘을 긁다'"
+  - italian: "il ponte"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: m
+    notes:
+      en: "Famous bridges: Ponte Vecchio (Florence), Rialto (Venice)"
+      ko: "유명한 다리: 폰테 베키오(피렌체), 리알토(베네치아)"
+  - italian: "il parco"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: m
+  - italian: "il giardino"
+    translation:
+      en: "garden"
+      ko: "정원"
+    gender: m
+    notes:
+      en: "i giardini pubblici = public gardens"
+      ko: "i giardini pubblici = 공공 정원"
+  - italian: "il monumento"
+    translation:
+      en: "monument"
+      ko: "기념물"
+    gender: m
+  - italian: "la fontana"
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: f
+    notes:
+      en: "la Fontana di Trevi = the Trevi Fountain"
+      ko: "la Fontana di Trevi = 트레비 분수"
+  - italian: "la chiesa"
+    translation:
+      en: "church"
+      ko: "교회"
+    gender: f
+  - italian: "il duomo"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: m
+    notes:
+      en: "Every major Italian city has its duomo"
+      ko: "이탈리아의 모든 주요 도시에는 두오모가 있음"
+  - italian: "il museo"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: m
+  - italian: "il teatro"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: m
+  - italian: "la scuola"
+    translation:
+      en: "school"
+      ko: "학교"
+    gender: f
+  - italian: "l'università"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+    notes:
+      en: "Bologna has the oldest university in the world (1088)"
+      ko: "볼로냐에는 세계에서 가장 오래된 대학이 있음 (1088년)"
+- id: services
+  label:
+    en: "Public Services"
+    ko: "공공 서비스"
+  type: vocabulary
+  words:
+  - italian: "l'ufficio postale"
+    translation:
+      en: "post office"
+      ko: "우체국"
+    gender: m
+    notes:
+      en: "Also la posta"
+      ko: "la posta라고도 함"
+  - italian: "la banca"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: f
+  - italian: "la questura"
+    translation:
+      en: "police headquarters"
+      ko: "경찰서 본부"
+    gender: f
+    notes:
+      en: "Where foreigners handle visa/permit issues"
+      ko: "외국인이 비자/체류허가 문제를 처리하는 곳"
+  - italian: "il comune"
+    translation:
+      en: "town hall / municipality"
+      ko: "시청"
+    gender: m
+  - italian: "la biblioteca"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+  - italian: "il commissariato"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: m
+  - italian: "i vigili del fuoco"
+    translation:
+      en: "fire department"
+      ko: "소방서"
+    gender: m
+  - italian: "la stazione di polizia"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: f
+    notes:
+      en: "Also la caserma dei carabinieri"
+      ko: "la caserma dei carabinieri라고도 함"
+  - italian: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+  - italian: "l'ambasciata"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: f
+  - italian: "il consolato"
+    translation:
+      en: "consulate"
+      ko: "영사관"
+    gender: m
+- id: navigation
+  label:
+    en: "Navigation"
+    ko: "길 찾기"
+  type: vocabulary
+  words:
+  - italian: "a destra"
+    translation:
+      en: "to the right"
+      ko: "오른쪽으로"
+    gender: null
+    notes:
+      en: "girare a destra = turn right"
+      ko: "girare a destra = 우회전"
+  - italian: "a sinistra"
+    translation:
+      en: "to the left"
+      ko: "왼쪽으로"
+    gender: null
+    notes:
+      en: "girare a sinistra = turn left"
+      ko: "girare a sinistra = 좌회전"
+  - italian: "dritto"
+    translation:
+      en: "straight ahead"
+      ko: "직진"
+    gender: null
+    notes:
+      en: "andare dritto = go straight"
+      ko: "andare dritto = 직진하다"
+  - italian: "l'incrocio"
+    translation:
+      en: "intersection / crossroads"
+      ko: "교차로"
+    gender: m
+  - italian: "il semaforo"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: m
+  - italian: "la rotonda"
+    translation:
+      en: "roundabout"
+      ko: "로터리"
+    gender: f
+  - italian: "la fermata"
+    translation:
+      en: "stop (bus/tram)"
+      ko: "정류장"
+    gender: f
+    notes:
+      en: "la fermata dell'autobus = bus stop"
+      ko: "la fermata dell'autobus = 버스 정류장"
+  - italian: "il marciapiede"
+    translation:
+      en: "sidewalk"
+      ko: "인도 / 보도"
+    gender: m
+  - italian: "l'attraversamento pedonale"
+    translation:
+      en: "pedestrian crossing"
+      ko: "횡단보도"
+    gender: m
+    notes:
+      en: "Also le strisce pedonali (zebra crossing)"
+      ko: "le strisce pedonali라고도 함 (횡단보도)"
+  - italian: "l'angolo"
+    translation:
+      en: "corner"
+      ko: "모퉁이"
+    gender: m
+    notes:
+      en: "all'angolo = at the corner"
+      ko: "all'angolo = 모퉁이에서"
+  - italian: "il vicolo"
+    translation:
+      en: "alley / narrow street"
+      ko: "골목"
+    gender: m
+  - italian: "il corso"
+    translation:
+      en: "main street / avenue"
+      ko: "대로"
+    gender: m
+  - italian: "il viale"
+    translation:
+      en: "boulevard / tree-lined avenue"
+      ko: "가로수길 / 대로"
+    gender: m
+- id: transportation
+  label:
+    en: "Urban Transportation"
+    ko: "시내 교통"
+  type: vocabulary
+  words:
+  - italian: "l'autobus"
+    translation:
+      en: "bus"
+      ko: "버스"
+    gender: m
+  - italian: "il tram"
+    translation:
+      en: "tram"
+      ko: "트램"
+    gender: m
+  - italian: "la metropolitana"
+    translation:
+      en: "subway / metro"
+      ko: "지하철"
+    gender: f
+  - italian: "il taxi"
+    translation:
+      en: "taxi"
+      ko: "택시"
+    gender: m
+  - italian: "la bicicletta"
+    translation:
+      en: "bicycle"
+      ko: "자전거"
+    gender: f
+  - italian: "il parcheggio"
+    translation:
+      en: "parking lot / parking"
+      ko: "주차장 / 주차"
+    gender: m
+  - italian: "la multa"
+    translation:
+      en: "fine / ticket"
+      ko: "벌금 / 딱지"
+    gender: f
+  - italian: "il traffico"
+    translation:
+      en: "traffic"
+      ko: "교통"
+    gender: m
+  - italian: "l'ingorgo"
+    translation:
+      en: "traffic jam"
+      ko: "교통 체증"
+    gender: m
+  - italian: "la zona a traffico limitato"
+    translation:
+      en: "limited traffic zone (ZTL)"
+      ko: "교통 제한 구역"
+    gender: f
+    notes:
+      en: "Common in Italian historic centers; fines for unauthorized entry"
+      ko: "이탈리아 구시가지에 흔함; 무단 진입 시 벌금"
+  - italian: "il motorino"
+    translation:
+      en: "scooter / moped"
+      ko: "스쿠터"
+    gender: m
+    notes:
+      en: "Also la Vespa (brand name, widely used)"
+      ko: "베스파(브랜드명)도 널리 사용됨"
+  - italian: "il monopattino"
+    translation:
+      en: "electric scooter / kick scooter"
+      ko: "전동 킥보드"
+    gender: m
+  - italian: "il biglietto"
+    translation:
+      en: "ticket"
+      ko: "표 / 티켓"
+    gender: m
+    notes:
+      en: "il biglietto dell'autobus = bus ticket"
+      ko: "il biglietto dell'autobus = 버스 표"
+  - italian: "l'abbonamento"
+    translation:
+      en: "pass / subscription"
+      ko: "정기권"
+    gender: m
+    notes:
+      en: "l'abbonamento mensile = monthly pass"
+      ko: "l'abbonamento mensile = 월정기권"
+  - italian: "la corsia"
+    translation:
+      en: "lane (road)"
+      ko: "차선"
+    gender: f
+  - italian: "il pedone"
+    translation:
+      en: "pedestrian"
+      ko: "보행자"
+    gender: m
+  - italian: "il ciclista"
+    translation:
+      en: "cyclist"
+      ko: "자전거 타는 사람"
+    gender: m
+    notes:
+      en: "la ciclista for female"
+      ko: "여성은 la ciclista"
+  - italian: "la pista ciclabile"
+    translation:
+      en: "bike lane"
+      ko: "자전거 도로"
+    gender: f
+  - italian: "il capolinea"
+    translation:
+      en: "terminus / last stop"
+      ko: "종점"
+    gender: m
+  - italian: "il conducente"
+    translation:
+      en: "driver"
+      ko: "운전사"
+    gender: m
+  - italian: "la linea"
+    translation:
+      en: "line / route (bus, metro)"
+      ko: "노선"
+    gender: f
+  - italian: "timbrare"
+    translation:
+      en: "to validate / to stamp (a ticket)"
+      ko: "승차권을 찍다"
+    gender: null
+    notes:
+      en: "You must validate your ticket on Italian buses"
+      ko: "이탈리아 버스에서 승차권을 반드시 찍어야 함"
+- id: landmarks
+  label:
+    en: "Landmarks and Buildings"
+    ko: "랜드마크와 건물"
+  type: vocabulary
+  words:
+  - italian: "la torre"
+    translation:
+      en: "tower"
+      ko: "탑"
+    gender: f
+    notes:
+      en: "la Torre di Pisa = the Leaning Tower of Pisa"
+      ko: "la Torre di Pisa = 피사의 사탑"
+  - italian: "il campanile"
+    translation:
+      en: "bell tower"
+      ko: "종탑"
+    gender: m
+    notes:
+      en: "il Campanile di Giotto in Florence"
+      ko: "피렌체의 조토의 종탑"
+  - italian: "la basilica"
+    translation:
+      en: "basilica"
+      ko: "바실리카 / 대성전"
+    gender: f
+    notes:
+      en: "la Basilica di San Pietro = St. Peter's Basilica"
+      ko: "la Basilica di San Pietro = 성 베드로 대성당"
+  - italian: "il castello"
+    translation:
+      en: "castle"
+      ko: "성"
+    gender: m
+  - italian: "la statua"
+    translation:
+      en: "statue"
+      ko: "동상"
+    gender: f
+  - italian: "le rovine"
+    translation:
+      en: "ruins"
+      ko: "유적"
+    gender: f
+    notes:
+      en: "le rovine romane = Roman ruins"
+      ko: "le rovine romane = 로마 유적"
+  - italian: "l'arco"
+    translation:
+      en: "arch"
+      ko: "아치 / 문"
+    gender: m
+    notes:
+      en: "l'Arco di Trionfo = Triumphal Arch"
+      ko: "l'Arco di Trionfo = 개선문"
+  - italian: "la colonna"
+    translation:
+      en: "column / pillar"
+      ko: "기둥"
+    gender: f
+  - italian: "la cupola"
+    translation:
+      en: "dome"
+      ko: "돔 / 둥근 지붕"
+    gender: f
+    notes:
+      en: "la cupola del Brunelleschi in Florence"
+      ko: "피렌체의 브루넬레스키 돔"
+  - italian: "il municipio"
+    translation:
+      en: "city hall"
+      ko: "시청"
+    gender: m
+  - italian: "la stazione"
+    translation:
+      en: "station"
+      ko: "역"
+    gender: f
+  - italian: "il porto"
+    translation:
+      en: "port / harbor"
+      ko: "항구"
+    gender: m
+  - italian: "il mercato"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: m
+    notes:
+      en: "il mercato rionale = neighborhood market"
+      ko: "il mercato rionale = 동네 시장"
+  - italian: "la galleria"
+    translation:
+      en: "gallery / arcade"
+      ko: "갤러리 / 아케이드"
+    gender: f
+    notes:
+      en: "la Galleria degli Uffizi = the Uffizi Gallery"
+      ko: "la Galleria degli Uffizi = 우피치 미술관"
+  - italian: "il cinema"
+    translation:
+      en: "cinema / movie theater"
+      ko: "영화관"
+    gender: m
+    notes:
+      en: "Invariable: il cinema / i cinema"
+      ko: "불변: il cinema / i cinema"
+  - italian: "l'ospedale"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: m
+  - italian: "la cattedrale"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: f
+  - italian: "il palazzo del governo"
+    translation:
+      en: "government building"
+      ko: "정부 건물"
+    gender: m
+  - italian: "il cimitero"
+    translation:
+      en: "cemetery"
+      ko: "묘지"
+    gender: m
+  - italian: "la moschea"
+    translation:
+      en: "mosque"
+      ko: "모스크"
+    gender: f
+  - italian: "la sinagoga"
+    translation:
+      en: "synagogue"
+      ko: "유대교 회당"
+    gender: f
+- id: city_life
+  label:
+    en: "City Life"
+    ko: "도시 생활"
+  type: vocabulary
+  words:
+  - italian: "l'abitante"
+    translation:
+      en: "inhabitant / resident"
+      ko: "주민 / 거주자"
+    gender: m
+  - italian: "il cittadino"
+    translation:
+      en: "citizen"
+      ko: "시민"
+    gender: m
+    notes:
+      en: "la cittadina for female"
+      ko: "여성은 la cittadina"
+  - italian: "il turista"
+    translation:
+      en: "tourist"
+      ko: "관광객"
+    gender: m
+    notes:
+      en: "la turista for female"
+      ko: "여성은 la turista"
+  - italian: "il passante"
+    translation:
+      en: "passerby"
+      ko: "행인"
+    gender: m
+  - italian: "il rumore"
+    translation:
+      en: "noise"
+      ko: "소음"
+    gender: m
+  - italian: "l'inquinamento"
+    translation:
+      en: "pollution"
+      ko: "오염"
+    gender: m
+  - italian: "il verde pubblico"
+    translation:
+      en: "public green space"
+      ko: "공공 녹지"
+    gender: m
+  - italian: "la folla"
+    translation:
+      en: "crowd"
+      ko: "군중"
+    gender: f
+  - italian: "il cartello"
+    translation:
+      en: "sign / signpost"
+      ko: "표지판"
+    gender: m
+  - italian: "la mappa"
+    translation:
+      en: "map"
+      ko: "지도"
+    gender: f
+  - italian: "la piantina"
+    translation:
+      en: "city map / floor plan"
+      ko: "도시 지도 / 평면도"
+    gender: f
+  - italian: "il navigatore"
+    translation:
+      en: "GPS / navigator"
+      ko: "내비게이션"
+    gender: m
+  - italian: "il centro commerciale"
+    translation:
+      en: "shopping mall"
+      ko: "쇼핑몰"
+    gender: m
+  - italian: "il supermercato"
+    translation:
+      en: "supermarket"
+      ko: "슈퍼마켓"
+    gender: m
+  - italian: "il bar"
+    translation:
+      en: "bar / café"
+      ko: "바 / 카페"
+    gender: m
+    notes:
+      en: "In Italy, a bar serves coffee, pastries, and drinks"
+      ko: "이탈리아에서 바는 커피, 빵, 음료를 파는 곳"
+  - italian: "la gelateria"
+    translation:
+      en: "ice cream shop"
+      ko: "젤라토 가게"
+    gender: f
+  - italian: "la pasticceria"
+    translation:
+      en: "pastry shop"
+      ko: "제과점"
+    gender: f
+  - italian: "l'edicola"
+    translation:
+      en: "newsstand"
+      ko: "신문 가판대"
+    gender: f
+  - italian: "il tabaccaio"
+    translation:
+      en: "tobacco shop"
+      ko: "담배 가게"
+    gender: m
+    notes:
+      en: "Also sells bus tickets, stamps, and phone credit"
+      ko: "버스 표, 우표, 전화 충전도 판매"
+  - italian: "la bancarella"
+    translation:
+      en: "market stall"
+      ko: "노점"
+    gender: f
+- id: directions_verbs
+  label:
+    en: "Directions and Verbs"
+    ko: "방향과 동사"
+  type: vocabulary
+  words:
+  - italian: "girare"
+    translation:
+      en: "to turn"
+      ko: "돌다 / 회전하다"
+    gender: null
+  - italian: "attraversare"
+    translation:
+      en: "to cross"
+      ko: "건너다"
+    gender: null
+  - italian: "proseguire"
+    translation:
+      en: "to continue / to go on"
+      ko: "계속 가다"
+    gender: null
+  - italian: "seguire"
+    translation:
+      en: "to follow"
+      ko: "따라가다"
+    gender: null
+  - italian: "camminare"
+    translation:
+      en: "to walk"
+      ko: "걷다"
+    gender: null
+  - italian: "raggiungere"
+    translation:
+      en: "to reach / to get to"
+      ko: "도달하다"
+    gender: null
+  - italian: "trovarsi"
+    translation:
+      en: "to be located / to find oneself"
+      ko: "위치하다"
+    gender: null
+  - italian: "perdersi"
+    translation:
+      en: "to get lost"
+      ko: "길을 잃다"
+    gender: null
+  - italian: "indicare"
+    translation:
+      en: "to indicate / to point"
+      ko: "가리키다"
+    gender: null
+  - italian: "parcheggiare"
+    translation:
+      en: "to park"
+      ko: "주차하다"
+    gender: null
+  - italian: "salire"
+    translation:
+      en: "to go up / to get on (a bus)"
+      ko: "올라가다 / 타다"
+    gender: null
+  - italian: "scendere"
+    translation:
+      en: "to go down / to get off (a bus)"
+      ko: "내려가다 / 내리다"
+    gender: null
+  - italian: "di fronte a"
+    translation:
+      en: "in front of / across from"
+      ko: "~앞에 / ~맞은편에"
+    gender: null
+  - italian: "accanto a"
+    translation:
+      en: "next to / beside"
+      ko: "~옆에"
+    gender: null
+  - italian: "dietro"
+    translation:
+      en: "behind"
+      ko: "뒤에"
+    gender: null
+  - italian: "davanti a"
+    translation:
+      en: "in front of"
+      ko: "~앞에"
+    gender: null
+  - italian: "vicino a"
+    translation:
+      en: "near / close to"
+      ko: "~근처에"
+    gender: null
+  - italian: "lontano da"
+    translation:
+      en: "far from"
+      ko: "~에서 먼"
+    gender: null
+  - italian: "tra / fra"
+    translation:
+      en: "between / among"
+      ko: "~사이에"
+    gender: null
+  - italian: "in fondo a"
+    translation:
+      en: "at the end of"
+      ko: "~끝에"
+    gender: null
+  - italian: "la direzione"
+    translation:
+      en: "direction"
+      ko: "방향"
+    gender: f
+  - italian: "il percorso"
+    translation:
+      en: "route / path"
+      ko: "경로"
+    gender: m
+  - italian: "la scorciatoia"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: f
+  - italian: "la distanza"
+    translation:
+      en: "distance"
+      ko: "거리"
+    gender: f
+  - italian: "il chilometro"
+    translation:
+      en: "kilometer"
+      ko: "킬로미터"
+    gender: m
+  - italian: "il metro"
+    translation:
+      en: "meter"
+      ko: "미터"
+    gender: m
+- id: asking_directions
+  label:
+    en: "Asking for Directions"
+    ko: "길 묻기 표현"
+  type: vocabulary
+  words:
+  - italian: "Scusi, dov'è...?"
+    translation:
+      en: "Excuse me, where is...?"
+      ko: "실례합니다, ~은/는 어디에 있나요?"
+    gender: null
+    notes:
+      en: "Formal; Scusa for informal"
+      ko: "격식체; 비격식은 Scusa"
+  - italian: "Come si arriva a...?"
+    translation:
+      en: "How do you get to...?"
+      ko: "~에 어떻게 가나요?"
+    gender: null
+  - italian: "Quanto è lontano?"
+    translation:
+      en: "How far is it?"
+      ko: "얼마나 먼가요?"
+    gender: null
+  - italian: "C'è un/una... qui vicino?"
+    translation:
+      en: "Is there a... nearby?"
+      ko: "근처에 ~이/가 있나요?"
+    gender: null
+  - italian: "Mi sono perso/persa"
+    translation:
+      en: "I'm lost (m/f)"
+      ko: "길을 잃었습니다"
+    gender: null
+    notes:
+      en: "perso for male, persa for female"
+      ko: "남성은 perso, 여성은 persa"
+  - italian: "Può indicarmi la strada per...?"
+    translation:
+      en: "Can you show me the way to...?"
+      ko: "~로 가는 길을 알려주시겠어요?"
+    gender: null
+  - italian: "È lontano a piedi?"
+    translation:
+      en: "Is it far on foot?"
+      ko: "걸어서 먼가요?"
+    gender: null
+  - italian: "la prima a destra"
+    translation:
+      en: "the first on the right"
+      ko: "오른쪽 첫 번째"
+    gender: null
+  - italian: "la seconda a sinistra"
+    translation:
+      en: "the second on the left"
+      ko: "왼쪽 두 번째"
+    gender: null
+  - italian: "in fondo alla strada"
+    translation:
+      en: "at the end of the street"
+      ko: "길 끝에"
+    gender: null
+  - italian: "dopo il semaforo"
+    translation:
+      en: "after the traffic light"
+      ko: "신호등 지나서"
+    gender: null
+  - italian: "all'incrocio"
+    translation:
+      en: "at the intersection"
+      ko: "교차로에서"
+    gender: null
+  - italian: "a cinque minuti a piedi"
+    translation:
+      en: "five minutes on foot"
+      ko: "걸어서 5분"
+    gender: null

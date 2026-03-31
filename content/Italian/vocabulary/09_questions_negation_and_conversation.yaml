@@ -1,0 +1,492 @@
+lesson: 09_Questions_Negation_and_Conversation
+lesson_number: 9
+cefr: A2
+categories:
+- id: 91_question_words
+  label:
+    en: 9.1 Question Words
+    ko: 9.1 의문사
+  type: vocabulary
+  words:
+  - italian: chi
+    translation:
+      en: who
+      ko: 누구
+    gender: null
+    notes:
+      en: "Chi è? — Who is it?"
+      ko: "Chi è? — 누구예요?"
+  - italian: che cosa
+    translation:
+      en: what
+      ko: 무엇
+    gender: null
+    notes:
+      en: "'Che', 'che cosa', and 'cosa' are interchangeable for 'what'"
+      ko: "'che', 'che cosa', 'cosa'는 '무엇'으로 교환 가능"
+  - italian: quale
+    translation:
+      en: which / what
+      ko: 어느 / 어떤
+    gender: null
+    notes:
+      en: "Qual è il tuo nome? — What is your name? (qual before è)"
+      ko: "Qual è il tuo nome? — 이름이 무엇인가요? (è 앞에서 qual)"
+  - italian: quanto / quanta
+    translation:
+      en: how much (m/f)
+      ko: 얼마나 (남/여)
+    gender: null
+    notes:
+      en: "Plural: quanti/quante — how many"
+      ko: "복수: quanti/quante — 얼마나 많은"
+  - italian: dove
+    translation:
+      en: where
+      ko: 어디
+    gender: null
+  - italian: quando
+    translation:
+      en: when
+      ko: 언제
+    gender: null
+  - italian: come
+    translation:
+      en: how
+      ko: 어떻게
+    gender: null
+    notes:
+      en: "Com'è? — What is it like? (come + è)"
+      ko: "Com'è? — 어떤가요? (come + è)"
+  - italian: perché
+    translation:
+      en: why / because
+      ko: 왜 / 왜냐하면
+    gender: null
+    notes:
+      en: Same word for both question and answer
+      ko: 질문과 대답에 같은 단어 사용
+  - italian: come mai
+    translation:
+      en: how come / why (surprised)
+      ko: 어째서 / 왜 (놀람)
+    gender: null
+    notes:
+      en: Expresses surprise; more colloquial than 'perché'
+      ko: 놀라움을 표현; 'perché'보다 구어적
+- id: 92_negation_words
+  label:
+    en: 9.2 Negation Words
+    ko: 9.2 부정어
+  type: vocabulary
+  words:
+  - italian: non
+    translation:
+      en: not
+      ko: ~않다
+    gender: null
+    notes:
+      en: Placed before the verb — Non parlo tedesco.
+      ko: 동사 앞에 위치 — Non parlo tedesco.
+  - italian: mai
+    translation:
+      en: never / ever
+      ko: 결코 ~않다 / 한 번이라도
+    gender: null
+    notes:
+      en: "Non vado mai. — I never go. In questions: Hai mai visitato Roma?"
+      ko: "Non vado mai. — 나는 절대 가지 않는다. 의문문에서: Hai mai visitato Roma?"
+  - italian: niente
+    translation:
+      en: nothing
+      ko: 아무것도 ~않다
+    gender: null
+    notes:
+      en: "Non ho niente. — I have nothing."
+      ko: "Non ho niente. — 아무것도 없다."
+  - italian: nulla
+    translation:
+      en: nothing (synonym)
+      ko: 아무것도 ~않다 (동의어)
+    gender: null
+    notes:
+      en: Synonym of 'niente'; slightly more formal
+      ko: "'niente'의 동의어; 약간 더 격식적"
+  - italian: nessuno / nessuna
+    translation:
+      en: nobody / no one (m/f)
+      ko: 아무도 ~않다 (남/여)
+    gender: null
+    notes:
+      en: "Nessuno è venuto. — Nobody came."
+      ko: "Nessuno è venuto. — 아무도 오지 않았다."
+  - italian: nemmeno
+    translation:
+      en: not even
+      ko: ~조차 않다
+    gender: null
+  - italian: neanche
+    translation:
+      en: not even / neither
+      ko: ~조차 않다 / ~도 아니다
+    gender: null
+    notes:
+      en: Synonym of 'nemmeno'
+      ko: "'nemmeno'의 동의어"
+  - italian: neppure
+    translation:
+      en: not even / neither
+      ko: ~조차 않다 / ~도 아니다
+    gender: null
+    notes:
+      en: More literary synonym of 'nemmeno' and 'neanche'
+      ko: "'nemmeno', 'neanche'의 문어적 동의어"
+  - italian: mica
+    translation:
+      en: not at all / by any chance
+      ko: 전혀 ~않다 / 혹시
+    gender: null
+    notes:
+      en: "Colloquial emphasis; Non è mica stupido. — He's not stupid at all."
+      ko: "구어적 강조; Non è mica stupido. — 그는 전혀 바보가 아니다."
+- id: 93_restaurant
+  label:
+    en: 9.3 At the Restaurant
+    ko: 9.3 레스토랑에서
+  type: vocabulary
+  words:
+  - italian: il menu
+    translation:
+      en: the menu
+      ko: 메뉴
+    gender: m
+    notes:
+      en: Also spelled 'il menù' with accent
+      ko: 악센트 있는 'il menù'로도 표기
+  - italian: il conto
+    translation:
+      en: the bill / check
+      ko: 계산서
+    gender: m
+    notes:
+      en: "Il conto, per favore. — The check, please."
+      ko: "Il conto, per favore. — 계산서 주세요."
+  - italian: il cameriere / la cameriera
+    translation:
+      en: the waiter / waitress
+      ko: 웨이터 / 웨이트리스
+    gender: null
+  - italian: ordinare
+    translation:
+      en: to order
+      ko: 주문하다
+    gender: null
+  - italian: prenotare
+    translation:
+      en: to reserve / to book
+      ko: 예약하다
+    gender: null
+  - italian: il piatto
+    translation:
+      en: the dish / plate
+      ko: 요리 / 접시
+    gender: m
+  - italian: l'antipasto
+    translation:
+      en: the appetizer / starter
+      ko: 전채 요리
+    gender: m
+  - italian: il primo
+    translation:
+      en: the first course (pasta/soup)
+      ko: 첫 번째 코스 (파스타/수프)
+    gender: m
+    notes:
+      en: Short for 'il primo piatto'; typically pasta, risotto, or soup
+      ko: "'il primo piatto'의 줄임말; 주로 파스타, 리소토, 수프"
+  - italian: il secondo
+    translation:
+      en: the second course (meat/fish)
+      ko: 두 번째 코스 (고기/생선)
+    gender: m
+    notes:
+      en: Short for 'il secondo piatto'; typically meat or fish
+      ko: "'il secondo piatto'의 줄임말; 주로 고기나 생선"
+  - italian: il contorno
+    translation:
+      en: the side dish
+      ko: 반찬 / 곁들임 요리
+    gender: m
+  - italian: il dolce
+    translation:
+      en: the dessert
+      ko: 디저트
+    gender: m
+    notes:
+      en: Also means 'sweet' as adjective
+      ko: 형용사로 '달콤한'이라는 뜻도 있음
+  - italian: la bevanda
+    translation:
+      en: the beverage / drink
+      ko: 음료
+    gender: f
+  - italian: l'acqua
+    translation:
+      en: the water
+      ko: 물
+    gender: f
+    notes:
+      en: "Acqua naturale (still) vs. acqua frizzante (sparkling)"
+      ko: "acqua naturale (생수) vs. acqua frizzante (탄산수)"
+  - italian: il vino
+    translation:
+      en: the wine
+      ko: 와인
+    gender: m
+  - italian: il caffè
+    translation:
+      en: the coffee
+      ko: 커피
+    gender: m
+    notes:
+      en: In Italy, caffè means espresso by default
+      ko: 이탈리아에서 caffè는 기본적으로 에스프레소를 의미
+  - italian: la forchetta
+    translation:
+      en: the fork
+      ko: 포크
+    gender: f
+  - italian: il coltello
+    translation:
+      en: the knife
+      ko: 나이프
+    gender: m
+  - italian: il cucchiaio
+    translation:
+      en: the spoon
+      ko: 숟가락
+    gender: m
+  - italian: il bicchiere
+    translation:
+      en: the glass (drinking)
+      ko: 유리잔
+    gender: m
+  - italian: la bottiglia
+    translation:
+      en: the bottle
+      ko: 병
+    gender: f
+  - italian: il tovagliolo
+    translation:
+      en: the napkin
+      ko: 냅킨
+    gender: m
+  - italian: la mancia
+    translation:
+      en: the tip (gratuity)
+      ko: 팁 (봉사료)
+    gender: f
+    notes:
+      en: Tipping is not mandatory in Italy but appreciated
+      ko: 이탈리아에서 팁은 의무가 아니지만 감사히 받음
+- id: 94_shopping
+  label:
+    en: 9.4 Shopping
+    ko: 9.4 쇼핑
+  type: vocabulary
+  words:
+  - italian: il negozio
+    translation:
+      en: the shop / store
+      ko: 가게
+    gender: m
+  - italian: il prezzo
+    translation:
+      en: the price
+      ko: 가격
+    gender: m
+  - italian: lo sconto
+    translation:
+      en: the discount
+      ko: 할인
+    gender: m
+  - italian: la taglia
+    translation:
+      en: the size (clothing)
+      ko: 사이즈 (의류)
+    gender: f
+  - italian: il numero
+    translation:
+      en: the number / size (shoes)
+      ko: 번호 / 사이즈 (신발)
+    gender: m
+  - italian: la carta di credito
+    translation:
+      en: the credit card
+      ko: 신용카드
+    gender: f
+  - italian: il resto
+    translation:
+      en: the change (money)
+      ko: 거스름돈
+    gender: m
+  - italian: lo scontrino
+    translation:
+      en: the receipt
+      ko: 영수증
+    gender: m
+    notes:
+      en: In Italy, you must keep the receipt by law when leaving a shop
+      ko: 이탈리아에서는 법적으로 가게를 나올 때 영수증을 소지해야 함
+  - italian: provare
+    translation:
+      en: to try / to try on
+      ko: 시도하다 / 입어보다
+    gender: null
+  - italian: costare
+    translation:
+      en: to cost
+      ko: 비용이 들다
+    gender: null
+    notes:
+      en: "Quanto costa? — How much does it cost?"
+      ko: "Quanto costa? — 얼마예요?"
+  - italian: comprare
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+  - italian: vendere
+    translation:
+      en: to sell
+      ko: 팔다
+    gender: null
+  - italian: i saldi
+    translation:
+      en: the sales (seasonal)
+      ko: 세일 (시즌)
+    gender: m
+  - italian: la vetrina
+    translation:
+      en: the shop window / display
+      ko: 진열장 / 쇼윈도
+    gender: f
+  - italian: il camerino
+    translation:
+      en: the fitting room
+      ko: 탈의실
+    gender: m
+  - italian: la cassa
+    translation:
+      en: the cash register / checkout
+      ko: 계산대
+    gender: f
+  - italian: il sacchetto
+    translation:
+      en: the bag (shopping)
+      ko: 봉투 (쇼핑)
+    gender: m
+- id: 95_directions
+  label:
+    en: 9.5 Directions
+    ko: 9.5 길 안내
+  type: vocabulary
+  words:
+  - italian: a destra
+    translation:
+      en: to the right
+      ko: 오른쪽으로
+    gender: null
+  - italian: a sinistra
+    translation:
+      en: to the left
+      ko: 왼쪽으로
+    gender: null
+  - italian: dritto / diritto
+    translation:
+      en: straight ahead
+      ko: 직진
+    gender: null
+    notes:
+      en: Both forms are acceptable
+      ko: 두 형태 모두 사용 가능
+  - italian: vicino
+    translation:
+      en: near / close
+      ko: 가까운
+    gender: null
+    notes:
+      en: "Vicino a = near to"
+      ko: "vicino a = ~에 가까운"
+  - italian: lontano
+    translation:
+      en: far
+      ko: 먼
+    gender: null
+    notes:
+      en: "Lontano da = far from"
+      ko: "lontano da = ~에서 먼"
+  - italian: l'angolo
+    translation:
+      en: the corner
+      ko: 모퉁이
+    gender: m
+  - italian: la fermata
+    translation:
+      en: the stop (bus/tram)
+      ko: 정류장 (버스/트램)
+    gender: f
+  - italian: il semaforo
+    translation:
+      en: the traffic light
+      ko: 신호등
+    gender: m
+  - italian: attraversare
+    translation:
+      en: to cross
+      ko: 건너다
+    gender: null
+    notes:
+      en: "Attraversare la strada — to cross the street"
+      ko: "attraversare la strada — 길을 건너다"
+  - italian: girare
+    translation:
+      en: to turn
+      ko: 돌다 / 회전하다
+    gender: null
+    notes:
+      en: "Girare a destra — turn right"
+      ko: "girare a destra — 오른쪽으로 돌다"
+  - italian: continuare
+    translation:
+      en: to continue
+      ko: 계속하다
+    gender: null
+  - italian: la mappa
+    translation:
+      en: the map
+      ko: 지도
+    gender: f
+  - italian: l'incrocio
+    translation:
+      en: the intersection / crossroads
+      ko: 교차로
+    gender: m
+  - italian: la rotonda
+    translation:
+      en: the roundabout
+      ko: 로터리
+    gender: f
+  - italian: il marciapiede
+    translation:
+      en: the sidewalk
+      ko: 인도 / 보도
+    gender: m
+  - italian: la via
+    translation:
+      en: the street / way
+      ko: 거리 / 길
+    gender: f
+    notes:
+      en: Often used in addresses — Via Roma, Via Dante
+      ko: 주소에서 자주 사용 — Via Roma, Via Dante

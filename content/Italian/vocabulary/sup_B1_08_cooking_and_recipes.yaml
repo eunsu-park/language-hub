@@ -1,0 +1,868 @@
+lesson: "sup_B1_Cooking_and_Recipes"
+lesson_number: 308
+cefr: B1
+type: supplementary
+topic: "Cooking and Recipes"
+categories:
+- id: cooking_methods
+  label:
+    en: "Cooking Methods"
+    ko: "조리법"
+  type: vocabulary
+  words:
+  - italian: "cucinare"
+    translation:
+      en: "to cook"
+      ko: "요리하다"
+    gender: null
+  - italian: "cuocere"
+    translation:
+      en: "to cook (by heat)"
+      ko: "굽다 / 익히다"
+    gender: null
+    notes:
+      en: "Irregular; past participle: cotto"
+      ko: "불규칙; 과거분사: cotto"
+  - italian: "friggere"
+    translation:
+      en: "to fry"
+      ko: "튀기다"
+    gender: null
+    notes:
+      en: "Past participle: fritto"
+      ko: "과거분사: fritto"
+  - italian: "bollire"
+    translation:
+      en: "to boil"
+      ko: "끓이다"
+    gender: null
+  - italian: "arrostire"
+    translation:
+      en: "to roast"
+      ko: "굽다 / 로스트하다"
+    gender: null
+  - italian: "grigliare"
+    translation:
+      en: "to grill"
+      ko: "그릴에 굽다"
+    gender: null
+  - italian: "al forno"
+    translation:
+      en: "baked / in the oven"
+      ko: "오븐에 구운"
+    gender: null
+    notes:
+      en: "cuocere al forno = to bake"
+      ko: "cuocere al forno = 오븐에 굽다"
+  - italian: "al vapore"
+    translation:
+      en: "steamed"
+      ko: "찐 / 증기로 조리한"
+    gender: null
+    notes:
+      en: "cuocere al vapore = to steam"
+      ko: "cuocere al vapore = 찌다"
+  - italian: "stufare"
+    translation:
+      en: "to stew"
+      ko: "스튜로 조리하다"
+    gender: null
+  - italian: "saltare in padella"
+    translation:
+      en: "to sauté / to stir-fry"
+      ko: "팬에 볶다"
+    gender: null
+  - italian: "impastare"
+    translation:
+      en: "to knead"
+      ko: "반죽하다"
+    gender: null
+  - italian: "mescolare"
+    translation:
+      en: "to mix / to stir"
+      ko: "섞다 / 저어주다"
+    gender: null
+  - italian: "condire"
+    translation:
+      en: "to season / to dress"
+      ko: "간을 하다 / 양념하다"
+    gender: null
+    notes:
+      en: "condire l'insalata = to dress the salad"
+      ko: "condire l'insalata = 샐러드에 드레싱을 하다"
+  - italian: "marinare"
+    translation:
+      en: "to marinate"
+      ko: "재우다 / 마리네이드하다"
+    gender: null
+  - italian: "sbucciare"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+  - italian: "tagliare"
+    translation:
+      en: "to cut / to chop"
+      ko: "자르다"
+    gender: null
+  - italian: "tritare"
+    translation:
+      en: "to mince / to chop finely"
+      ko: "다지다"
+    gender: null
+  - italian: "grattugiare"
+    translation:
+      en: "to grate"
+      ko: "갈다 / 강판에 갈다"
+    gender: null
+  - italian: "montare"
+    translation:
+      en: "to whip / to beat"
+      ko: "거품을 내다 / 휘핑하다"
+    gender: null
+    notes:
+      en: "montare a neve = to whip to stiff peaks (egg whites)"
+      ko: "montare a neve = 머랭을 만들다 (달걀 흰자)"
+  - italian: "scolare"
+    translation:
+      en: "to drain"
+      ko: "물을 빼다"
+    gender: null
+    notes:
+      en: "scolare la pasta = to drain pasta"
+      ko: "scolare la pasta = 파스타 물을 빼다"
+  - italian: "soffriggere"
+    translation:
+      en: "to sauté lightly"
+      ko: "약한 불에 볶다"
+    gender: null
+    notes:
+      en: "il soffritto = sautéed base of onion, celery, carrot"
+      ko: "il soffritto = 양파, 셀러리, 당근을 볶은 베이스"
+  - italian: "rosolare"
+    translation:
+      en: "to brown / to sear"
+      ko: "갈색이 되게 볶다"
+    gender: null
+  - italian: "affumicare"
+    translation:
+      en: "to smoke (food)"
+      ko: "훈제하다"
+    gender: null
+  - italian: "lievitare"
+    translation:
+      en: "to rise / to leaven"
+      ko: "발효하다 / 부풀다"
+    gender: null
+- id: ingredients
+  label:
+    en: "Ingredients"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - italian: "la farina"
+    translation:
+      en: "flour"
+      ko: "밀가루"
+    gender: f
+    notes:
+      en: "la farina 00 = Italian fine flour, most common for pasta/pizza"
+      ko: "la farina 00 = 이탈리아 미세 밀가루, 파스타/피자에 가장 일반적"
+  - italian: "lo zucchero"
+    translation:
+      en: "sugar"
+      ko: "설탕"
+    gender: m
+  - italian: "il sale"
+    translation:
+      en: "salt"
+      ko: "소금"
+    gender: m
+  - italian: "il pepe"
+    translation:
+      en: "pepper"
+      ko: "후추"
+    gender: m
+  - italian: "l'olio d'oliva"
+    translation:
+      en: "olive oil"
+      ko: "올리브 오일"
+    gender: m
+    notes:
+      en: "l'olio extravergine d'oliva = extra virgin olive oil"
+      ko: "l'olio extravergine d'oliva = 엑스트라 버진 올리브 오일"
+  - italian: "il burro"
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: m
+  - italian: "l'uovo"
+    translation:
+      en: "egg"
+      ko: "달걀"
+    gender: m
+    notes:
+      en: "Irregular plural: le uova (feminine!)"
+      ko: "불규칙 복수: le uova (여성형!)"
+  - italian: "il lievito"
+    translation:
+      en: "yeast / baking powder"
+      ko: "이스트 / 베이킹 파우더"
+    gender: m
+    notes:
+      en: "il lievito di birra = brewer's yeast; il lievito in polvere = baking powder"
+      ko: "il lievito di birra = 맥주 효모; il lievito in polvere = 베이킹 파우더"
+  - italian: "il parmigiano"
+    translation:
+      en: "Parmesan cheese"
+      ko: "파르메산 치즈"
+    gender: m
+    notes:
+      en: "il Parmigiano Reggiano = authentic PDO Parmesan"
+      ko: "il Parmigiano Reggiano = 정통 원산지 표시 파르메산"
+  - italian: "il pomodoro"
+    translation:
+      en: "tomato"
+      ko: "토마토"
+    gender: m
+  - italian: "il basilico"
+    translation:
+      en: "basil"
+      ko: "바질"
+    gender: m
+  - italian: "l'aglio"
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: m
+  - italian: "la cipolla"
+    translation:
+      en: "onion"
+      ko: "양파"
+    gender: f
+  - italian: "il prezzemolo"
+    translation:
+      en: "parsley"
+      ko: "파슬리"
+    gender: m
+    notes:
+      en: "essere come il prezzemolo = to be everywhere (idiom)"
+      ko: "essere come il prezzemolo = 어디에나 나타나다 (관용구)"
+  - italian: "il rosmarino"
+    translation:
+      en: "rosemary"
+      ko: "로즈마리"
+    gender: m
+  - italian: "la salvia"
+    translation:
+      en: "sage"
+      ko: "세이지"
+    gender: f
+  - italian: "l'origano"
+    translation:
+      en: "oregano"
+      ko: "오레가노"
+    gender: m
+  - italian: "il peperoncino"
+    translation:
+      en: "chili pepper"
+      ko: "고추"
+    gender: m
+  - italian: "l'aceto"
+    translation:
+      en: "vinegar"
+      ko: "식초"
+    gender: m
+    notes:
+      en: "l'aceto balsamico = balsamic vinegar (from Modena)"
+      ko: "l'aceto balsamico = 발사믹 식초 (모데나산)"
+  - italian: "la mozzarella"
+    translation:
+      en: "mozzarella"
+      ko: "모짜렐라"
+    gender: f
+  - italian: "il pecorino"
+    translation:
+      en: "pecorino cheese"
+      ko: "페코리노 치즈"
+    gender: m
+    notes:
+      en: "Sheep's milk cheese; key in carbonara and cacio e pepe"
+      ko: "양유 치즈; 카르보나라와 까치오 에 페페의 핵심 재료"
+  - italian: "la ricotta"
+    translation:
+      en: "ricotta cheese"
+      ko: "리코타 치즈"
+    gender: f
+  - italian: "il guanciale"
+    translation:
+      en: "cured pork cheek"
+      ko: "구안치알레 (돼지 볼 살 가공 육)"
+    gender: m
+    notes:
+      en: "Essential for authentic carbonara and amatriciana"
+      ko: "정통 카르보나라와 아마트리치아나의 필수 재료"
+  - italian: "la pancetta"
+    translation:
+      en: "pancetta / Italian bacon"
+      ko: "판체타 / 이탈리아 베이컨"
+    gender: f
+- id: kitchen_tools
+  label:
+    en: "Kitchen Tools"
+    ko: "주방 도구"
+  type: vocabulary
+  words:
+  - italian: "la pentola"
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: f
+  - italian: "la padella"
+    translation:
+      en: "frying pan"
+      ko: "프라이팬"
+    gender: f
+  - italian: "la casseruola"
+    translation:
+      en: "saucepan / casserole"
+      ko: "소스팬 / 캐서롤"
+    gender: f
+  - italian: "il tagliere"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: m
+  - italian: "il coltello"
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: m
+  - italian: "il mestolo"
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: m
+  - italian: "la frusta"
+    translation:
+      en: "whisk"
+      ko: "거품기"
+    gender: f
+  - italian: "il colino"
+    translation:
+      en: "strainer / sieve"
+      ko: "체 / 거름망"
+    gender: m
+  - italian: "la teglia"
+    translation:
+      en: "baking tray / baking pan"
+      ko: "베이킹 팬 / 오븐 트레이"
+    gender: f
+  - italian: "la grattugia"
+    translation:
+      en: "grater"
+      ko: "강판"
+    gender: f
+  - italian: "il mattarello"
+    translation:
+      en: "rolling pin"
+      ko: "밀대"
+    gender: m
+  - italian: "l'apriscatole"
+    translation:
+      en: "can opener"
+      ko: "캔 오프너"
+    gender: m
+    notes:
+      en: "Invariable: l'apriscatole / gli apriscatole"
+      ko: "불변: l'apriscatole / gli apriscatole"
+  - italian: "il cucchiaio di legno"
+    translation:
+      en: "wooden spoon"
+      ko: "나무 숟가락"
+    gender: m
+  - italian: "la spatola"
+    translation:
+      en: "spatula"
+      ko: "주걱"
+    gender: f
+  - italian: "il cavatappi"
+    translation:
+      en: "corkscrew"
+      ko: "와인 오프너"
+    gender: m
+    notes:
+      en: "Invariable: il cavatappi / i cavatappi"
+      ko: "불변: il cavatappi / i cavatappi"
+  - italian: "la moka"
+    translation:
+      en: "moka pot / stovetop espresso maker"
+      ko: "모카 포트"
+    gender: f
+    notes:
+      en: "Iconic Italian coffee maker; la moka Bialetti"
+      ko: "이탈리아 상징적 커피 메이커; la moka Bialetti"
+  - italian: "il forno"
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: m
+  - italian: "il fornello"
+    translation:
+      en: "stovetop / burner"
+      ko: "가스레인지 / 버너"
+    gender: m
+  - italian: "il frigorifero"
+    translation:
+      en: "refrigerator"
+      ko: "냉장고"
+    gender: m
+    notes:
+      en: "Informal: il frigo"
+      ko: "줄임말: il frigo"
+  - italian: "il congelatore"
+    translation:
+      en: "freezer"
+      ko: "냉동고"
+    gender: m
+- id: italian_dishes
+  label:
+    en: "Italian Dishes"
+    ko: "이탈리아 요리"
+  type: vocabulary
+  words:
+  - italian: "la pasta al pomodoro"
+    translation:
+      en: "pasta with tomato sauce"
+      ko: "토마토 파스타"
+    gender: f
+  - italian: "il risotto"
+    translation:
+      en: "risotto"
+      ko: "리소토"
+    gender: m
+    notes:
+      en: "Made with short-grain rice (Arborio, Carnaroli)"
+      ko: "단립종 쌀로 만듦 (아르보리오, 카르나롤리)"
+  - italian: "la pizza"
+    translation:
+      en: "pizza"
+      ko: "피자"
+    gender: f
+  - italian: "le lasagne"
+    translation:
+      en: "lasagna"
+      ko: "라자냐"
+    gender: f
+    notes:
+      en: "Always plural in Italian"
+      ko: "이탈리아어에서 항상 복수형"
+  - italian: "la carbonara"
+    translation:
+      en: "carbonara"
+      ko: "카르보나라"
+    gender: f
+    notes:
+      en: "Made with guanciale, egg, pecorino, black pepper; no cream!"
+      ko: "구안치알레, 달걀, 페코리노, 후추로 만듦; 크림 사용 안 함!"
+  - italian: "l'amatriciana"
+    translation:
+      en: "amatriciana"
+      ko: "아마트리치아나"
+    gender: f
+    notes:
+      en: "Tomato-based sauce with guanciale and pecorino"
+      ko: "구안치알레와 페코리노를 넣은 토마토 소스"
+  - italian: "il pesto"
+    translation:
+      en: "pesto"
+      ko: "페스토"
+    gender: m
+    notes:
+      en: "il pesto alla genovese = classic basil pesto from Genoa"
+      ko: "il pesto alla genovese = 제노바의 전통 바질 페스토"
+  - italian: "la parmigiana"
+    translation:
+      en: "parmigiana (eggplant bake)"
+      ko: "파르미자나 (가지 구이)"
+    gender: f
+    notes:
+      en: "la parmigiana di melanzane; Southern Italian dish"
+      ko: "la parmigiana di melanzane; 남부 이탈리아 요리"
+  - italian: "il minestrone"
+    translation:
+      en: "minestrone (vegetable soup)"
+      ko: "미네스트로네 (야채 수프)"
+    gender: m
+  - italian: "la ribollita"
+    translation:
+      en: "ribollita (Tuscan bread soup)"
+      ko: "리볼리타 (토스카나 빵 수프)"
+    gender: f
+    notes:
+      en: "Tuscan specialty; literally 'reboiled'"
+      ko: "토스카나 특산 요리; 문자 그대로 '다시 끓인'"
+  - italian: "il tiramisù"
+    translation:
+      en: "tiramisù"
+      ko: "티라미수"
+    gender: m
+    notes:
+      en: "Literally 'pick me up'; made with mascarpone and espresso"
+      ko: "문자 그대로 '나를 들어올려줘'; 마스카르포네와 에스프레소로 만듦"
+  - italian: "la panna cotta"
+    translation:
+      en: "panna cotta"
+      ko: "판나 코타"
+    gender: f
+    notes:
+      en: "Literally 'cooked cream'; Piedmontese dessert"
+      ko: "문자 그대로 '익힌 크림'; 피에몬테 디저트"
+  - italian: "la bruschetta"
+    translation:
+      en: "bruschetta"
+      ko: "브루스케타"
+    gender: f
+    notes:
+      en: "Pronounced /brusˈketta/; toasted bread with toppings"
+      ko: "발음: /brusˈketta/; 토핑을 올린 구운 빵"
+  - italian: "gli gnocchi"
+    translation:
+      en: "gnocchi"
+      ko: "뇨끼"
+    gender: m
+    notes:
+      en: "Potato dumplings; pronounced /ˈɲɔkki/"
+      ko: "감자 만두; 발음: /ˈɲɔkki/"
+  - italian: "il ragù"
+    translation:
+      en: "ragù / meat sauce"
+      ko: "라구 / 고기 소스"
+    gender: m
+    notes:
+      en: "il ragù alla bolognese = Bolognese sauce"
+      ko: "il ragù alla bolognese = 볼로네제 소스"
+  - italian: "la focaccia"
+    translation:
+      en: "focaccia"
+      ko: "포카치아"
+    gender: f
+  - italian: "l'antipasto"
+    translation:
+      en: "appetizer / starter"
+      ko: "전채요리"
+    gender: m
+    notes:
+      en: "Plural: gli antipasti"
+      ko: "복수: gli antipasti"
+  - italian: "il primo piatto"
+    translation:
+      en: "first course (pasta/rice/soup)"
+      ko: "첫 번째 코스 (파스타/쌀/수프)"
+    gender: m
+  - italian: "il secondo piatto"
+    translation:
+      en: "second course (meat/fish)"
+      ko: "두 번째 코스 (고기/생선)"
+    gender: m
+  - italian: "il contorno"
+    translation:
+      en: "side dish"
+      ko: "반찬 / 곁들임 요리"
+    gender: m
+  - italian: "il dolce"
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: m
+  - italian: "il gelato"
+    translation:
+      en: "gelato / ice cream"
+      ko: "젤라토 / 아이스크림"
+    gender: m
+  - italian: "la granita"
+    translation:
+      en: "granita (Sicilian ice)"
+      ko: "그라니타 (시칠리아 빙수)"
+    gender: f
+    notes:
+      en: "Sicilian specialty; crushed ice with fruit or coffee"
+      ko: "시칠리아 특산; 과일이나 커피를 넣은 빙수"
+  - italian: "il cannolo"
+    translation:
+      en: "cannolo (Sicilian pastry)"
+      ko: "카놀리 (시칠리아 과자)"
+    gender: m
+    notes:
+      en: "Plural: i cannoli; filled with ricotta cream"
+      ko: "복수: i cannoli; 리코타 크림을 채운 과자"
+  - italian: "il panettone"
+    translation:
+      en: "panettone (Christmas cake)"
+      ko: "파네토네 (크리스마스 케이크)"
+    gender: m
+    notes:
+      en: "Traditional Milanese Christmas sweet bread"
+      ko: "전통 밀라노 크리스마스 빵"
+  - italian: "il pandoro"
+    translation:
+      en: "pandoro (Veronese Christmas cake)"
+      ko: "판도로 (베로나 크리스마스 케이크)"
+    gender: m
+    notes:
+      en: "From Verona; rival to panettone"
+      ko: "베로나 출신; 파네토네의 라이벌"
+  - italian: "la colomba"
+    translation:
+      en: "colomba (Easter cake)"
+      ko: "콜롬바 (부활절 케이크)"
+    gender: f
+    notes:
+      en: "Dove-shaped Easter cake"
+      ko: "비둘기 모양 부활절 케이크"
+- id: recipe_terms
+  label:
+    en: "Recipe Terms"
+    ko: "레시피 용어"
+  type: vocabulary
+  words:
+  - italian: "la ricetta"
+    translation:
+      en: "recipe"
+      ko: "레시피"
+    gender: f
+  - italian: "gli ingredienti"
+    translation:
+      en: "ingredients"
+      ko: "재료"
+    gender: m
+  - italian: "la porzione"
+    translation:
+      en: "serving / portion"
+      ko: "1인분"
+    gender: f
+  - italian: "la dose"
+    translation:
+      en: "dose / amount"
+      ko: "양 / 분량"
+    gender: f
+  - italian: "un pizzico"
+    translation:
+      en: "a pinch"
+      ko: "한 꼬집"
+    gender: m
+  - italian: "un cucchiaio"
+    translation:
+      en: "a tablespoon"
+      ko: "한 숟가락"
+    gender: m
+  - italian: "un cucchiaino"
+    translation:
+      en: "a teaspoon"
+      ko: "한 티스푼"
+    gender: m
+  - italian: "un bicchiere"
+    translation:
+      en: "a glass (measure)"
+      ko: "한 잔 (계량)"
+    gender: m
+  - italian: "a fuoco lento"
+    translation:
+      en: "on low heat"
+      ko: "약한 불에"
+    gender: null
+  - italian: "a fuoco alto"
+    translation:
+      en: "on high heat"
+      ko: "강한 불에"
+    gender: null
+  - italian: "a fiamma media"
+    translation:
+      en: "on medium heat"
+      ko: "중간 불에"
+    gender: null
+  - italian: "al dente"
+    translation:
+      en: "al dente (firm to the bite)"
+      ko: "알 덴테 (씹는 맛이 있는)"
+    gender: null
+    notes:
+      en: "Ideal texture for pasta; literally 'to the tooth'"
+      ko: "파스타의 이상적인 식감; 문자 그대로 '이에 맞게'"
+  - italian: "il tempo di cottura"
+    translation:
+      en: "cooking time"
+      ko: "조리 시간"
+    gender: m
+  - italian: "il tempo di preparazione"
+    translation:
+      en: "preparation time"
+      ko: "준비 시간"
+    gender: m
+  - italian: "la cottura"
+    translation:
+      en: "cooking"
+      ko: "조리"
+    gender: f
+  - italian: "la preparazione"
+    translation:
+      en: "preparation"
+      ko: "준비"
+    gender: f
+  - italian: "il procedimento"
+    translation:
+      en: "method / procedure"
+      ko: "만드는 법 / 절차"
+    gender: m
+  - italian: "aggiungere"
+    translation:
+      en: "to add"
+      ko: "더하다 / 추가하다"
+    gender: null
+    notes:
+      en: "Past participle: aggiunto"
+      ko: "과거분사: aggiunto"
+  - italian: "versare"
+    translation:
+      en: "to pour"
+      ko: "붓다"
+    gender: null
+  - italian: "sciogliere"
+    translation:
+      en: "to melt / to dissolve"
+      ko: "녹이다 / 용해시키다"
+    gender: null
+    notes:
+      en: "Past participle: sciolto"
+      ko: "과거분사: sciolto"
+  - italian: "riscaldare"
+    translation:
+      en: "to heat up / to warm"
+      ko: "데우다"
+    gender: null
+  - italian: "raffreddare"
+    translation:
+      en: "to cool down"
+      ko: "식히다"
+    gender: null
+  - italian: "lasciar riposare"
+    translation:
+      en: "to let rest"
+      ko: "쉬게 하다"
+    gender: null
+  - italian: "assaggiare"
+    translation:
+      en: "to taste / to try"
+      ko: "맛보다"
+    gender: null
+  - italian: "servire"
+    translation:
+      en: "to serve"
+      ko: "서빙하다"
+    gender: null
+  - italian: "guarnire"
+    translation:
+      en: "to garnish"
+      ko: "장식하다"
+    gender: null
+  - italian: "spolverare"
+    translation:
+      en: "to dust / to sprinkle"
+      ko: "뿌리다"
+    gender: null
+    notes:
+      en: "spolverare di zucchero a velo = dust with powdered sugar"
+      ko: "spolverare di zucchero a velo = 슈가파우더를 뿌리다"
+  - italian: "farcire"
+    translation:
+      en: "to stuff / to fill"
+      ko: "채우다 / 속을 넣다"
+    gender: null
+  - italian: "impanare"
+    translation:
+      en: "to bread / to coat"
+      ko: "빵가루를 입히다"
+    gender: null
+  - italian: "amalgamare"
+    translation:
+      en: "to blend / to mix thoroughly"
+      ko: "골고루 섞다"
+    gender: null
+  - italian: "la DOP"
+    translation:
+      en: "PDO (Protected Designation of Origin)"
+      ko: "원산지 명칭 보호"
+    gender: f
+    notes:
+      en: "Denominazione di Origine Protetta; quality certification"
+      ko: "Denominazione di Origine Protetta; 품질 인증"
+  - italian: "l'IGP"
+    translation:
+      en: "PGI (Protected Geographical Indication)"
+      ko: "지리적 표시 보호"
+    gender: f
+    notes:
+      en: "Indicazione Geografica Protetta"
+      ko: "Indicazione Geografica Protetta"
+  - italian: "il chilometro zero"
+    translation:
+      en: "zero-mile / locally sourced"
+      ko: "로컬 푸드"
+    gender: m
+    notes:
+      en: "prodotti a km 0 = locally produced products"
+      ko: "prodotti a km 0 = 현지 생산 제품"
+  - italian: "la stagionalità"
+    translation:
+      en: "seasonality"
+      ko: "제철"
+    gender: f
+  - italian: "il piatto tipico"
+    translation:
+      en: "traditional dish"
+      ko: "전통 요리"
+    gender: m
+  - italian: "la cucina regionale"
+    translation:
+      en: "regional cuisine"
+      ko: "지역 요리"
+    gender: f
+    notes:
+      en: "Italian cuisine varies greatly by region"
+      ko: "이탈리아 요리는 지역마다 매우 다름"
+  - italian: "la trattoria"
+    translation:
+      en: "trattoria (casual restaurant)"
+      ko: "트라토리아 (캐주얼 레스토랑)"
+    gender: f
+  - italian: "l'osteria"
+    translation:
+      en: "osteria (traditional tavern)"
+      ko: "오스테리아 (전통 선술집)"
+    gender: f
+  - italian: "l'aperitivo"
+    translation:
+      en: "aperitif / pre-dinner drinks"
+      ko: "아페리티보 / 식전 음료"
+    gender: m
+    notes:
+      en: "Italian social ritual; often with snacks (stuzzichini)"
+      ko: "이탈리아 사교 의식; 주로 간식(stuzzichini)과 함께"
+  - italian: "il digestivo"
+    translation:
+      en: "digestif / after-dinner drink"
+      ko: "디제스티보 / 식후 음료"
+    gender: m
+    notes:
+      en: "e.g., limoncello, amaro, grappa"
+      ko: "예: 리몬첼로, 아마로, 그라파"
+  - italian: "lo stuzzichino"
+    translation:
+      en: "appetizer / snack"
+      ko: "안주 / 간식"
+    gender: m
+  - italian: "la degustazione"
+    translation:
+      en: "tasting"
+      ko: "시식 / 시음"
+    gender: f

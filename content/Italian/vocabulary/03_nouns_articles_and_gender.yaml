@@ -1,0 +1,467 @@
+lesson: 03_Nouns_Articles_and_Gender
+lesson_number: 3
+cefr: A1
+categories:
+- id: 31_family_nouns
+  label:
+    en: 3.1 Family Nouns
+    ko: 3.1 가족 명사
+  type: vocabulary
+  words:
+  - italian: il padre
+    translation:
+      en: the father
+      ko: 아버지
+    gender: m
+  - italian: la madre
+    translation:
+      en: the mother
+      ko: 어머니
+    gender: f
+  - italian: il fratello
+    translation:
+      en: the brother
+      ko: 형제 / 남자 형제
+    gender: m
+  - italian: la sorella
+    translation:
+      en: the sister
+      ko: 자매 / 여자 형제
+    gender: f
+  - italian: il figlio
+    translation:
+      en: the son
+      ko: 아들
+    gender: m
+  - italian: la figlia
+    translation:
+      en: the daughter
+      ko: 딸
+    gender: f
+  - italian: il marito
+    translation:
+      en: the husband
+      ko: 남편
+    gender: m
+  - italian: la moglie
+    translation:
+      en: the wife
+      ko: 아내
+    gender: f
+    notes:
+      en: Irregular plural — le mogli
+      ko: 불규칙 복수형 — le mogli
+  - italian: il nonno
+    translation:
+      en: the grandfather
+      ko: 할아버지
+    gender: m
+  - italian: la nonna
+    translation:
+      en: the grandmother
+      ko: 할머니
+    gender: f
+  - italian: lo zio
+    translation:
+      en: the uncle
+      ko: 삼촌 / 외삼촌
+    gender: m
+    notes:
+      en: Uses 'lo' article because it starts with z
+      ko: z로 시작하므로 관사 'lo' 사용
+  - italian: la zia
+    translation:
+      en: the aunt
+      ko: 이모 / 고모
+    gender: f
+  - italian: il cugino / la cugina
+    translation:
+      en: the cousin (m/f)
+      ko: 사촌 (남/여)
+    gender: null
+  - italian: il nipote / la nipote
+    translation:
+      en: the grandchild / nephew / niece
+      ko: 손자손녀 / 조카
+    gender: null
+    notes:
+      en: Same word for grandchild and nephew/niece; context determines meaning
+      ko: 손자손녀와 조카가 같은 단어; 문맥으로 의미 구분
+  - italian: la famiglia
+    translation:
+      en: the family
+      ko: 가족
+    gender: f
+  - italian: i genitori
+    translation:
+      en: the parents
+      ko: 부모
+    gender: m
+    notes:
+      en: Plural only; singular 'il genitore' is rare
+      ko: 복수형으로만 주로 사용; 단수 'il genitore'는 드묾
+  - italian: il bambino / la bambina
+    translation:
+      en: the child / baby (m/f)
+      ko: 아이 / 아기 (남/여)
+    gender: null
+  - italian: il ragazzo / la ragazza
+    translation:
+      en: the boy / girl (m/f)
+      ko: 소년 / 소녀 (남/여)
+    gender: null
+    notes:
+      en: Also means 'boyfriend / girlfriend'
+      ko: "'남자친구 / 여자친구'라는 뜻도 있음"
+  - italian: l'uomo
+    translation:
+      en: the man
+      ko: 남자
+    gender: m
+    notes:
+      en: Irregular plural — gli uomini
+      ko: 불규칙 복수형 — gli uomini
+  - italian: la donna
+    translation:
+      en: the woman
+      ko: 여자
+    gender: f
+- id: 32_body_nouns
+  label:
+    en: 3.2 Body Nouns
+    ko: 3.2 신체 명사
+  type: vocabulary
+  words:
+  - italian: la testa
+    translation:
+      en: the head
+      ko: 머리
+    gender: f
+  - italian: il braccio
+    translation:
+      en: the arm
+      ko: 팔
+    gender: m
+    notes:
+      en: Irregular plural — le braccia (f)
+      ko: 불규칙 복수형 — le braccia (여성형)
+  - italian: la mano
+    translation:
+      en: the hand
+      ko: 손
+    gender: f
+    notes:
+      en: Feminine despite ending in -o; plural — le mani
+      ko: -o로 끝나지만 여성형; 복수형 — le mani
+  - italian: l'occhio
+    translation:
+      en: the eye
+      ko: 눈
+    gender: m
+    notes:
+      en: Plural — gli occhi
+      ko: 복수형 — gli occhi
+  - italian: la bocca
+    translation:
+      en: the mouth
+      ko: 입
+    gender: f
+  - italian: il naso
+    translation:
+      en: the nose
+      ko: 코
+    gender: m
+  - italian: l'orecchio
+    translation:
+      en: the ear
+      ko: 귀
+    gender: m
+    notes:
+      en: Irregular plural — le orecchie (f)
+      ko: 불규칙 복수형 — le orecchie (여성형)
+  - italian: il dito
+    translation:
+      en: the finger
+      ko: 손가락
+    gender: m
+    notes:
+      en: Irregular plural — le dita (f)
+      ko: 불규칙 복수형 — le dita (여성형)
+  - italian: la gamba
+    translation:
+      en: the leg
+      ko: 다리
+    gender: f
+  - italian: il piede
+    translation:
+      en: the foot
+      ko: 발
+    gender: m
+  - italian: il corpo
+    translation:
+      en: the body
+      ko: 몸
+    gender: m
+  - italian: il cuore
+    translation:
+      en: the heart
+      ko: 심장 / 마음
+    gender: m
+  - italian: la spalla
+    translation:
+      en: the shoulder
+      ko: 어깨
+    gender: f
+  - italian: il ginocchio
+    translation:
+      en: the knee
+      ko: 무릎
+    gender: m
+    notes:
+      en: Irregular plural — le ginocchia (f)
+      ko: 불규칙 복수형 — le ginocchia (여성형)
+  - italian: la schiena
+    translation:
+      en: the back
+      ko: 등
+    gender: f
+  - italian: lo stomaco
+    translation:
+      en: the stomach
+      ko: 위 / 배
+    gender: m
+  - italian: il capello
+    translation:
+      en: the hair (single strand)
+      ko: 머리카락 (한 가닥)
+    gender: m
+    notes:
+      en: Usually plural — i capelli (the hair)
+      ko: 보통 복수형으로 사용 — i capelli (머리카락)
+  - italian: il collo
+    translation:
+      en: the neck
+      ko: 목
+    gender: m
+  - italian: il viso
+    translation:
+      en: the face
+      ko: 얼굴
+    gender: m
+    notes:
+      en: Synonym — la faccia (more colloquial)
+      ko: 동의어 — la faccia (더 구어적)
+- id: 33_house_nouns
+  label:
+    en: 3.3 House Nouns
+    ko: 3.3 집 명사
+  type: vocabulary
+  words:
+  - italian: la casa
+    translation:
+      en: the house / home
+      ko: 집
+    gender: f
+  - italian: la stanza
+    translation:
+      en: the room
+      ko: 방
+    gender: f
+  - italian: la cucina
+    translation:
+      en: the kitchen
+      ko: 부엌
+    gender: f
+    notes:
+      en: Also means 'cuisine' or 'cooking'
+      ko: "'요리' 또는 '음식 문화'라는 뜻도 있음"
+  - italian: il bagno
+    translation:
+      en: the bathroom
+      ko: 화장실
+    gender: m
+  - italian: la camera
+    translation:
+      en: the bedroom
+      ko: 침실
+    gender: f
+    notes:
+      en: Short for 'la camera da letto'
+      ko: "'la camera da letto'의 줄임말"
+  - italian: la sala
+    translation:
+      en: the living room
+      ko: 거실
+    gender: f
+    notes:
+      en: Often 'il salotto' or 'il soggiorno' for living room
+      ko: 거실은 'il salotto' 또는 'il soggiorno'도 자주 사용
+  - italian: il giardino
+    translation:
+      en: the garden
+      ko: 정원
+    gender: m
+  - italian: la porta
+    translation:
+      en: the door
+      ko: 문
+    gender: f
+  - italian: la finestra
+    translation:
+      en: the window
+      ko: 창문
+    gender: f
+  - italian: la scala
+    translation:
+      en: the stairs / staircase
+      ko: 계단
+    gender: f
+    notes:
+      en: Often used in plural — le scale
+      ko: 복수형 'le scale'로 자주 사용
+  - italian: il pavimento
+    translation:
+      en: the floor
+      ko: 바닥
+    gender: m
+  - italian: il tetto
+    translation:
+      en: the roof
+      ko: 지붕
+    gender: m
+  - italian: il muro
+    translation:
+      en: the wall
+      ko: 벽
+    gender: m
+    notes:
+      en: Irregular plural — le mura (f, city walls) or i muri (house walls)
+      ko: 불규칙 복수 — le mura (여, 성벽) 또는 i muri (집 벽)
+  - italian: il tavolo
+    translation:
+      en: the table
+      ko: 테이블
+    gender: m
+    notes:
+      en: "'La tavola' for dining table specifically"
+      ko: "'la tavola'는 식탁을 구체적으로 의미"
+  - italian: la sedia
+    translation:
+      en: the chair
+      ko: 의자
+    gender: f
+  - italian: il letto
+    translation:
+      en: the bed
+      ko: 침대
+    gender: m
+  - italian: l'armadio
+    translation:
+      en: the wardrobe / closet
+      ko: 옷장
+    gender: m
+  - italian: lo specchio
+    translation:
+      en: the mirror
+      ko: 거울
+    gender: m
+- id: 34_place_nouns
+  label:
+    en: 3.4 Place Nouns
+    ko: 3.4 장소 명사
+  type: vocabulary
+  words:
+  - italian: la città
+    translation:
+      en: the city
+      ko: 도시
+    gender: f
+    notes:
+      en: Invariable; same form in singular and plural
+      ko: 불변; 단수와 복수 형태 동일
+  - italian: il paese
+    translation:
+      en: the town / country
+      ko: 마을 / 나라
+    gender: m
+    notes:
+      en: Means both 'small town' and 'country/nation'
+      ko: "'작은 마을'과 '나라' 두 가지 뜻"
+  - italian: la strada
+    translation:
+      en: the street / road
+      ko: 거리 / 길
+    gender: f
+  - italian: la piazza
+    translation:
+      en: the square / plaza
+      ko: 광장
+    gender: f
+  - italian: la chiesa
+    translation:
+      en: the church
+      ko: 교회
+    gender: f
+  - italian: la scuola
+    translation:
+      en: the school
+      ko: 학교
+    gender: f
+  - italian: l'ospedale
+    translation:
+      en: the hospital
+      ko: 병원
+    gender: m
+  - italian: la stazione
+    translation:
+      en: the station
+      ko: 역
+    gender: f
+  - italian: l'aeroporto
+    translation:
+      en: the airport
+      ko: 공항
+    gender: m
+  - italian: l'ufficio
+    translation:
+      en: the office
+      ko: 사무실
+    gender: m
+  - italian: il museo
+    translation:
+      en: the museum
+      ko: 박물관
+    gender: m
+  - italian: il ristorante
+    translation:
+      en: the restaurant
+      ko: 레스토랑
+    gender: m
+  - italian: la farmacia
+    translation:
+      en: the pharmacy
+      ko: 약국
+    gender: f
+  - italian: la biblioteca
+    translation:
+      en: the library
+      ko: 도서관
+    gender: f
+    notes:
+      en: "False friend — does NOT mean 'bookshop' (that is 'la libreria')"
+      ko: "거짓 동족어 — '서점'이 아님 (서점은 'la libreria')"
+  - italian: il supermercato
+    translation:
+      en: the supermarket
+      ko: 슈퍼마켓
+    gender: m
+  - italian: il ponte
+    translation:
+      en: the bridge
+      ko: 다리
+    gender: m
+  - italian: il parco
+    translation:
+      en: the park
+      ko: 공원
+    gender: m

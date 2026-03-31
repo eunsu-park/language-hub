@@ -1,0 +1,850 @@
+lesson: "sup_B2_History_and_Civilization"
+lesson_number: 410
+cefr: B2
+type: supplementary
+topic: "History and Civilization"
+categories:
+- id: ancient_history
+  label:
+    en: "Ancient History"
+    ko: "고대사"
+  type: vocabulary
+  words:
+  - italian: "la storia"
+    translation:
+      en: "history"
+      ko: "역사"
+    gender: f
+  - italian: "la civiltà"
+    translation:
+      en: "civilization"
+      ko: "문명"
+    gender: f
+  - italian: "l'antichità"
+    translation:
+      en: "antiquity"
+      ko: "고대"
+    gender: f
+  - italian: "l'Impero Romano"
+    translation:
+      en: "Roman Empire"
+      ko: "로마 제국"
+    gender: m
+  - italian: "la Repubblica Romana"
+    translation:
+      en: "Roman Republic"
+      ko: "로마 공화정"
+    gender: f
+  - italian: "l'imperatore"
+    translation:
+      en: "emperor"
+      ko: "황제"
+    gender: m
+  - italian: "il senato romano"
+    translation:
+      en: "Roman Senate"
+      ko: "로마 원로원"
+    gender: m
+  - italian: "il gladiatore"
+    translation:
+      en: "gladiator"
+      ko: "검투사"
+    gender: m
+  - italian: "il console"
+    translation:
+      en: "consul"
+      ko: "집정관"
+    gender: m
+  - italian: "la legione"
+    translation:
+      en: "legion"
+      ko: "군단"
+    gender: f
+  - italian: "la conquista"
+    translation:
+      en: "conquest"
+      ko: "정복"
+    gender: f
+  - italian: "la caduta dell'Impero Romano"
+    translation:
+      en: "fall of the Roman Empire"
+      ko: "로마 제국의 멸망"
+    gender: f
+  - italian: "gli Etruschi"
+    translation:
+      en: "Etruscans"
+      ko: "에트루리아인"
+    gender: m
+  - italian: "la Magna Grecia"
+    translation:
+      en: "Magna Graecia"
+      ko: "마그나 그라에키아"
+    gender: f
+    notes:
+      en: "Greek colonies in Southern Italy"
+      ko: "남부 이탈리아의 그리스 식민지"
+- id: medieval_and_renaissance
+  label:
+    en: "Medieval and Renaissance Periods"
+    ko: "중세 및 르네상스"
+  type: vocabulary
+  words:
+  - italian: "il Medioevo"
+    translation:
+      en: "Middle Ages"
+      ko: "중세"
+    gender: m
+  - italian: "il feudalesimo"
+    translation:
+      en: "feudalism"
+      ko: "봉건주의"
+    gender: m
+  - italian: "il Sacro Romano Impero"
+    translation:
+      en: "Holy Roman Empire"
+      ko: "신성 로마 제국"
+    gender: m
+  - italian: "le Crociate"
+    translation:
+      en: "Crusades"
+      ko: "십자군"
+    gender: f
+  - italian: "il comune medievale"
+    translation:
+      en: "medieval commune"
+      ko: "중세 코무네"
+    gender: m
+    notes:
+      en: "Self-governing city-states of medieval Italy"
+      ko: "중세 이탈리아의 자치 도시국가"
+  - italian: "la signoria"
+    translation:
+      en: "lordship / rule"
+      ko: "시뇨리아 (지배 체제)"
+    gender: f
+  - italian: "il Rinascimento"
+    translation:
+      en: "Renaissance"
+      ko: "르네상스"
+    gender: m
+  - italian: "l'Umanesimo"
+    translation:
+      en: "Humanism"
+      ko: "인문주의"
+    gender: m
+  - italian: "il mecenatismo"
+    translation:
+      en: "patronage (of the arts)"
+      ko: "예술 후원"
+    gender: m
+    notes:
+      en: "The Medici family was famous for this"
+      ko: "메디치 가문이 이것으로 유명"
+  - italian: "la Riforma"
+    translation:
+      en: "Reformation"
+      ko: "종교 개혁"
+    gender: f
+  - italian: "la Controriforma"
+    translation:
+      en: "Counter-Reformation"
+      ko: "반종교 개혁"
+    gender: f
+  - italian: "il ducato"
+    translation:
+      en: "duchy"
+      ko: "공국"
+    gender: m
+  - italian: "la Repubblica di Venezia"
+    translation:
+      en: "Republic of Venice"
+      ko: "베네치아 공화국"
+    gender: f
+- id: modern_italian_history
+  label:
+    en: "Modern Italian History"
+    ko: "근대 이탈리아 역사"
+  type: vocabulary
+  words:
+  - italian: "l'Illuminismo"
+    translation:
+      en: "Enlightenment"
+      ko: "계몽주의"
+    gender: m
+  - italian: "il Risorgimento"
+    translation:
+      en: "Italian unification movement"
+      ko: "이탈리아 통일 운동"
+    gender: m
+    notes:
+      en: "Movement for Italian unification (19th century)"
+      ko: "이탈리아 통일 운동 (19세기)"
+  - italian: "l'Unità d'Italia"
+    translation:
+      en: "Unification of Italy"
+      ko: "이탈리아 통일"
+    gender: f
+    notes:
+      en: "Proclaimed in 1861"
+      ko: "1861년 선포"
+  - italian: "il re"
+    translation:
+      en: "king"
+      ko: "왕"
+    gender: m
+  - italian: "la regina"
+    translation:
+      en: "queen"
+      ko: "여왕"
+    gender: f
+  - italian: "il papa"
+    translation:
+      en: "pope"
+      ko: "교황"
+    gender: m
+  - italian: "la monarchia sabauda"
+    translation:
+      en: "Savoy monarchy"
+      ko: "사보이 왕조"
+    gender: f
+  - italian: "l'indipendenza"
+    translation:
+      en: "independence"
+      ko: "독립"
+    gender: f
+  - italian: "la rivoluzione"
+    translation:
+      en: "revolution"
+      ko: "혁명"
+    gender: f
+  - italian: "i moti"
+    translation:
+      en: "uprisings / revolts"
+      ko: "봉기"
+    gender: m
+  - italian: "la spedizione dei Mille"
+    translation:
+      en: "Expedition of the Thousand"
+      ko: "천인의 원정"
+    gender: f
+    notes:
+      en: "Garibaldi's 1860 campaign"
+      ko: "가리발디의 1860년 원정"
+- id: twentieth_century
+  label:
+    en: "Twentieth Century Italy"
+    ko: "20세기 이탈리아"
+  type: vocabulary
+  words:
+  - italian: "la Prima Guerra Mondiale"
+    translation:
+      en: "World War I"
+      ko: "제1차 세계대전"
+    gender: f
+  - italian: "la Seconda Guerra Mondiale"
+    translation:
+      en: "World War II"
+      ko: "제2차 세계대전"
+    gender: f
+  - italian: "il Fascismo"
+    translation:
+      en: "Fascism"
+      ko: "파시즘"
+    gender: m
+  - italian: "il duce"
+    translation:
+      en: "leader (Fascist title)"
+      ko: "두체 (파시스트 칭호)"
+    gender: m
+  - italian: "la dittatura fascista"
+    translation:
+      en: "Fascist dictatorship"
+      ko: "파시스트 독재"
+    gender: f
+  - italian: "la Resistenza"
+    translation:
+      en: "Resistance (anti-Fascist)"
+      ko: "레지스탕스 (반파시스트)"
+    gender: f
+  - italian: "il partigiano"
+    translation:
+      en: "partisan"
+      ko: "파르티잔"
+    gender: m
+  - italian: "la Liberazione"
+    translation:
+      en: "Liberation"
+      ko: "해방"
+    gender: f
+    notes:
+      en: "April 25, 1945 — national holiday"
+      ko: "1945년 4월 25일 — 국경일"
+  - italian: "la Repubblica Italiana"
+    translation:
+      en: "Italian Republic"
+      ko: "이탈리아 공화국"
+    gender: f
+    notes:
+      en: "Born from the referendum of June 2, 1946"
+      ko: "1946년 6월 2일 국민투표로 탄생"
+  - italian: "il Miracolo Economico"
+    translation:
+      en: "Economic Miracle"
+      ko: "경제 기적"
+    gender: m
+    notes:
+      en: "Italian economic boom of 1950s-60s"
+      ko: "1950-60년대 이탈리아 경제 호황"
+  - italian: "gli Anni di Piombo"
+    translation:
+      en: "Years of Lead"
+      ko: "납의 시대"
+    gender: m
+    notes:
+      en: "Period of political terrorism in Italy (1960s-80s)"
+      ko: "이탈리아 정치 테러리즘 시기 (1960-80년대)"
+  - italian: "la Guerra Fredda"
+    translation:
+      en: "Cold War"
+      ko: "냉전"
+    gender: f
+  - italian: "l'Unione Europea"
+    translation:
+      en: "European Union"
+      ko: "유럽연합"
+    gender: f
+- id: historical_concepts
+  label:
+    en: "Historical Concepts and Actions"
+    ko: "역사적 개념 및 활동"
+  type: vocabulary
+  words:
+  - italian: "la dinastia"
+    translation:
+      en: "dynasty"
+      ko: "왕조"
+    gender: f
+  - italian: "l'alleanza"
+    translation:
+      en: "alliance"
+      ko: "동맹"
+    gender: f
+  - italian: "il trattato"
+    translation:
+      en: "treaty"
+      ko: "조약"
+    gender: m
+  - italian: "l'armistizio"
+    translation:
+      en: "armistice"
+      ko: "휴전"
+    gender: m
+  - italian: "la pace"
+    translation:
+      en: "peace"
+      ko: "평화"
+    gender: f
+  - italian: "la guerra"
+    translation:
+      en: "war"
+      ko: "전쟁"
+    gender: f
+  - italian: "la battaglia"
+    translation:
+      en: "battle"
+      ko: "전투"
+    gender: f
+  - italian: "l'assedio"
+    translation:
+      en: "siege"
+      ko: "포위"
+    gender: m
+  - italian: "la carestia"
+    translation:
+      en: "famine"
+      ko: "기근"
+    gender: f
+  - italian: "la peste"
+    translation:
+      en: "plague"
+      ko: "흑사병"
+    gender: f
+  - italian: "lo storico"
+    translation:
+      en: "historian"
+      ko: "역사가"
+    gender: m
+  - italian: "l'archeologia"
+    translation:
+      en: "archaeology"
+      ko: "고고학"
+    gender: f
+  - italian: "il reperto"
+    translation:
+      en: "artifact / find"
+      ko: "유물"
+    gender: m
+  - italian: "gli scavi"
+    translation:
+      en: "excavations"
+      ko: "발굴"
+    gender: m
+  - italian: "il patrimonio"
+    translation:
+      en: "heritage"
+      ko: "유산"
+    gender: m
+  - italian: "il patrimonio dell'UNESCO"
+    translation:
+      en: "UNESCO heritage"
+      ko: "유네스코 유산"
+    gender: m
+    notes:
+      en: "Italy has the most UNESCO World Heritage Sites"
+      ko: "이탈리아는 유네스코 세계 유산이 가장 많은 나라"
+  - italian: "conquistare"
+    translation:
+      en: "to conquer"
+      ko: "정복하다"
+  - italian: "colonizzare"
+    translation:
+      en: "to colonize"
+      ko: "식민지화하다"
+  - italian: "unificare"
+    translation:
+      en: "to unify"
+      ko: "통일하다"
+  - italian: "liberare"
+    translation:
+      en: "to liberate"
+      ko: "해방하다"
+  - italian: "fondare"
+    translation:
+      en: "to found"
+      ko: "건국하다"
+  - italian: "regnare"
+    translation:
+      en: "to reign"
+      ko: "통치하다"
+  - italian: "abdicare"
+    translation:
+      en: "to abdicate"
+      ko: "퇴위하다"
+  - italian: "restaurare"
+    translation:
+      en: "to restore (a regime)"
+      ko: "복원하다 (체제)"
+  - italian: "perseguitare"
+    translation:
+      en: "to persecute"
+      ko: "박해하다"
+  - italian: "esiliare"
+    translation:
+      en: "to exile"
+      ko: "추방하다"
+  - italian: "invadere"
+    translation:
+      en: "to invade"
+      ko: "침입하다"
+  - italian: "annettere"
+    translation:
+      en: "to annex"
+      ko: "합병하다"
+  - italian: "deporre"
+    translation:
+      en: "to depose"
+      ko: "폐위시키다"
+  - italian: "proclamare"
+    translation:
+      en: "to proclaim"
+      ko: "선포하다"
+- id: society_and_culture
+  label:
+    en: "Society and Cultural History"
+    ko: "사회 및 문화사"
+  type: vocabulary
+  words:
+  - italian: "la società"
+    translation:
+      en: "society"
+      ko: "사회"
+    gender: f
+  - italian: "la classe sociale"
+    translation:
+      en: "social class"
+      ko: "사회 계급"
+    gender: f
+  - italian: "l'aristocrazia"
+    translation:
+      en: "aristocracy"
+      ko: "귀족"
+    gender: f
+  - italian: "la borghesia"
+    translation:
+      en: "bourgeoisie"
+      ko: "부르주아"
+    gender: f
+  - italian: "il proletariato"
+    translation:
+      en: "proletariat"
+      ko: "프롤레타리아"
+    gender: m
+  - italian: "il clero"
+    translation:
+      en: "clergy"
+      ko: "성직자"
+    gender: m
+  - italian: "la nobiltà"
+    translation:
+      en: "nobility"
+      ko: "귀족 계급"
+    gender: f
+  - italian: "il contadino"
+    translation:
+      en: "peasant / farmer"
+      ko: "농민"
+    gender: m
+  - italian: "l'artigiano"
+    translation:
+      en: "artisan / craftsman"
+      ko: "장인"
+    gender: m
+  - italian: "il mercante"
+    translation:
+      en: "merchant"
+      ko: "상인"
+    gender: m
+  - italian: "la schiavitù"
+    translation:
+      en: "slavery"
+      ko: "노예제"
+    gender: f
+  - italian: "l'emigrazione"
+    translation:
+      en: "emigration"
+      ko: "이민 (떠남)"
+    gender: f
+    notes:
+      en: "Major Italian emigration waves: 1880s-1920s, 1950s-60s"
+      ko: "주요 이탈리아 이민 물결: 1880-1920년대, 1950-60년대"
+  - italian: "l'immigrazione"
+    translation:
+      en: "immigration"
+      ko: "이민 (들어옴)"
+    gender: f
+  - italian: "la diaspora"
+    translation:
+      en: "diaspora"
+      ko: "디아스포라"
+    gender: f
+  - italian: "il patrimonio culturale"
+    translation:
+      en: "cultural heritage"
+      ko: "문화유산"
+    gender: m
+  - italian: "la tradizione"
+    translation:
+      en: "tradition"
+      ko: "전통"
+    gender: f
+  - italian: "l'identità nazionale"
+    translation:
+      en: "national identity"
+      ko: "국가 정체성"
+    gender: f
+  - italian: "il nazionalismo"
+    translation:
+      en: "nationalism"
+      ko: "민족주의"
+    gender: m
+  - italian: "il patriottismo"
+    translation:
+      en: "patriotism"
+      ko: "애국심"
+    gender: m
+  - italian: "il colonialismo"
+    translation:
+      en: "colonialism"
+      ko: "식민주의"
+    gender: m
+  - italian: "l'imperialismo"
+    translation:
+      en: "imperialism"
+      ko: "제국주의"
+    gender: m
+  - italian: "la Questione Meridionale"
+    translation:
+      en: "Southern Question"
+      ko: "남부 문제"
+    gender: f
+    notes:
+      en: "Historical socioeconomic divide between North and South Italy"
+      ko: "이탈리아 남북 간의 역사적 사회경제적 격차"
+  - italian: "il brigantaggio"
+    translation:
+      en: "brigandage / banditry"
+      ko: "도적질"
+    gender: m
+    notes:
+      en: "Post-unification phenomenon in Southern Italy"
+      ko: "통일 후 남부 이탈리아의 현상"
+- id: historical_periods
+  label:
+    en: "Historical Periods and Dating"
+    ko: "역사적 시대 및 시기"
+  type: vocabulary
+  words:
+  - italian: "il secolo"
+    translation:
+      en: "century"
+      ko: "세기"
+    gender: m
+  - italian: "il millennio"
+    translation:
+      en: "millennium"
+      ko: "천년"
+    gender: m
+  - italian: "l'epoca"
+    translation:
+      en: "epoch / era"
+      ko: "시대"
+    gender: f
+  - italian: "il periodo"
+    translation:
+      en: "period"
+      ko: "시기"
+    gender: m
+  - italian: "l'era"
+    translation:
+      en: "era"
+      ko: "시대"
+    gender: f
+  - italian: "avanti Cristo"
+    translation:
+      en: "BC (Before Christ)"
+      ko: "기원전"
+    notes:
+      en: "Abbreviation: a.C."
+      ko: "약자: a.C."
+  - italian: "dopo Cristo"
+    translation:
+      en: "AD (Anno Domini)"
+      ko: "기원후"
+    notes:
+      en: "Abbreviation: d.C."
+      ko: "약자: d.C."
+  - italian: "la preistoria"
+    translation:
+      en: "prehistory"
+      ko: "선사 시대"
+    gender: f
+  - italian: "l'età del bronzo"
+    translation:
+      en: "Bronze Age"
+      ko: "청동기 시대"
+    gender: f
+  - italian: "l'età del ferro"
+    translation:
+      en: "Iron Age"
+      ko: "철기 시대"
+    gender: f
+  - italian: "il Quattrocento"
+    translation:
+      en: "15th century (1400s)"
+      ko: "15세기"
+    gender: m
+    notes:
+      en: "Italian art history term for the 1400s"
+      ko: "1400년대를 가리키는 이탈리아 미술사 용어"
+  - italian: "il Cinquecento"
+    translation:
+      en: "16th century (1500s)"
+      ko: "16세기"
+    gender: m
+  - italian: "il Seicento"
+    translation:
+      en: "17th century (1600s)"
+      ko: "17세기"
+    gender: m
+  - italian: "il Settecento"
+    translation:
+      en: "18th century (1700s)"
+      ko: "18세기"
+    gender: m
+  - italian: "l'Ottocento"
+    translation:
+      en: "19th century (1800s)"
+      ko: "19세기"
+    gender: m
+  - italian: "il Novecento"
+    translation:
+      en: "20th century (1900s)"
+      ko: "20세기"
+    gender: m
+  - italian: "il Dopoguerra"
+    translation:
+      en: "post-war period"
+      ko: "전후 시대"
+    gender: m
+- id: historical_figures
+  label:
+    en: "Historical Figures and Roles"
+    ko: "역사적 인물 및 역할"
+  type: vocabulary
+  words:
+  - italian: "il condottiero"
+    translation:
+      en: "condottiero / military leader"
+      ko: "용병 대장"
+    gender: m
+  - italian: "il doge"
+    translation:
+      en: "doge (ruler of Venice)"
+      ko: "도제 (베네치아 통치자)"
+    gender: m
+  - italian: "il cardinale"
+    translation:
+      en: "cardinal"
+      ko: "추기경"
+    gender: m
+  - italian: "il vescovo"
+    translation:
+      en: "bishop"
+      ko: "주교"
+    gender: m
+  - italian: "il monaco"
+    translation:
+      en: "monk"
+      ko: "수도사"
+    gender: m
+  - italian: "il cavaliere"
+    translation:
+      en: "knight"
+      ko: "기사"
+    gender: m
+  - italian: "il feudatario"
+    translation:
+      en: "feudal lord"
+      ko: "봉건 영주"
+    gender: m
+  - italian: "il governatore"
+    translation:
+      en: "governor"
+      ko: "총독"
+    gender: m
+  - italian: "il diplomatico"
+    translation:
+      en: "diplomat"
+      ko: "외교관"
+    gender: m
+  - italian: "il patriota"
+    translation:
+      en: "patriot"
+      ko: "애국자"
+    gender: m
+  - italian: "il rivoluzionario"
+    translation:
+      en: "revolutionary"
+      ko: "혁명가"
+    gender: m
+  - italian: "il riformatore"
+    translation:
+      en: "reformer"
+      ko: "개혁가"
+    gender: m
+  - italian: "il tiranno"
+    translation:
+      en: "tyrant"
+      ko: "폭군"
+    gender: m
+  - italian: "il suddito"
+    translation:
+      en: "subject (of a ruler)"
+      ko: "신민"
+    gender: m
+  - italian: "il cittadino"
+    translation:
+      en: "citizen"
+      ko: "시민"
+    gender: m
+  - italian: "il colono"
+    translation:
+      en: "settler / colonist"
+      ko: "식민자"
+    gender: m
+  - italian: "lo schiavo"
+    translation:
+      en: "slave"
+      ko: "노예"
+    gender: m
+  - italian: "il pellegrino"
+    translation:
+      en: "pilgrim"
+      ko: "순례자"
+    gender: m
+  - italian: "il mercenario"
+    translation:
+      en: "mercenary"
+      ko: "용병"
+    gender: m
+  - italian: "il cronista"
+    translation:
+      en: "chronicler"
+      ko: "연대기 작가"
+    gender: m
+  - italian: "la storiografia"
+    translation:
+      en: "historiography"
+      ko: "역사 서술"
+    gender: f
+  - italian: "la fonte storica"
+    translation:
+      en: "historical source"
+      ko: "역사적 자료"
+    gender: f
+  - italian: "il documento"
+    translation:
+      en: "document"
+      ko: "문서"
+    gender: m
+  - italian: "il manoscritto"
+    translation:
+      en: "manuscript"
+      ko: "필사본"
+    gender: m
+  - italian: "l'iscrizione"
+    translation:
+      en: "inscription"
+      ko: "비문"
+    gender: f
+  - italian: "il monumento"
+    translation:
+      en: "monument"
+      ko: "기념물"
+    gender: m
+  - italian: "la commemorazione"
+    translation:
+      en: "commemoration"
+      ko: "기념"
+    gender: f
+  - italian: "la ricorrenza"
+    translation:
+      en: "anniversary / commemoration"
+      ko: "기념일"
+    gender: f
+  - italian: "il 25 aprile"
+    translation:
+      en: "April 25 (Liberation Day)"
+      ko: "4월 25일 (해방 기념일)"
+    gender: m
+    notes:
+      en: "Italy's Liberation Day from Nazi-Fascism"
+      ko: "나치-파시즘으로부터의 이탈리아 해방일"
+  - italian: "il 2 giugno"
+    translation:
+      en: "June 2 (Republic Day)"
+      ko: "6월 2일 (공화국 기념일)"
+    gender: m
+    notes:
+      en: "Festa della Repubblica - Italian national day"
+      ko: "공화국의 날 - 이탈리아 국경일"

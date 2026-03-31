@@ -1,0 +1,442 @@
+lesson: 18_Regional_Variations_and_Dialects
+lesson_number: 18
+cefr: B2
+categories:
+- id: dialect_terms
+  label:
+    en: Dialect Terminology
+    ko: 방언 용어
+  type: vocabulary
+  words:
+  - italian: il dialetto
+    translation:
+      en: the dialect
+      ko: 방언
+    gender: m
+    notes:
+      en: Italy has dozens of distinct dialects, some mutually unintelligible
+      ko: 이탈리아에는 수십 개의 서로 이해할 수 없는 고유 방언이 있음
+  - italian: la lingua regionale
+    translation:
+      en: the regional language
+      ko: 지역 언어
+    gender: f
+    notes:
+      en: Some dialects are classified as separate languages (e.g., Sardinian, Friulian)
+      ko: "일부 방언은 별도 언어로 분류됨 (예: 사르데냐어, 프리울리어)"
+  - italian: l'italiano standard
+    translation:
+      en: standard Italian
+      ko: 표준 이탈리아어
+    gender: m
+    notes:
+      en: Based on literary Tuscan; adopted as national language after unification
+      ko: 문학적 토스카나어 기반; 통일 이후 국어로 채택됨
+  - italian: la variante
+    translation:
+      en: the variant
+      ko: 변형
+    gender: f
+  - italian: l'accento
+    translation:
+      en: the accent
+      ko: 억양
+    gender: m
+    notes:
+      en: Regional accents are strong markers of geographic origin
+      ko: 지역 억양은 출신 지역을 강하게 나타내는 표지
+  - italian: l'inflessione
+    translation:
+      en: the inflection / lilt
+      ko: 어조 / 억양
+    gender: f
+    notes:
+      en: The melodic quality that varies by region
+      ko: 지역에 따라 다른 선율적 특성
+  - italian: la pronuncia regionale
+    translation:
+      en: the regional pronunciation
+      ko: 지역 발음
+    gender: f
+  - italian: il gergo
+    translation:
+      en: the slang / jargon
+      ko: 속어 / 은어
+    gender: m
+  - italian: il vernacolo
+    translation:
+      en: the vernacular
+      ko: 토착어
+    gender: m
+    notes:
+      en: Local speech of a particular area
+      ko: 특정 지역의 토착 표현
+  - italian: la parlata
+    translation:
+      en: the way of speaking / speech
+      ko: 말투 / 말씨
+    gender: f
+  - italian: il bilinguismo
+    translation:
+      en: bilingualism
+      ko: 이중 언어 사용
+    gender: m
+    notes:
+      en: Many Italians are bilingual in Italian and their local dialect
+      ko: 많은 이탈리아인이 이탈리아어와 지역 방언을 이중으로 사용함
+  - italian: la cadenza
+    translation:
+      en: the cadence / intonation
+      ko: 억양 / 운율
+    gender: f
+    notes:
+      en: The rhythmic pattern of speech unique to each region
+      ko: 각 지역 고유의 말하기 리듬 패턴
+  - italian: il toscanismo
+    translation:
+      en: Tuscanism (Tuscan expression)
+      ko: 토스카나식 표현
+    gender: m
+    notes:
+      en: Standard Italian originates from Tuscan dialect
+      ko: 표준 이탈리아어는 토스카나 방언에서 유래
+  - italian: la minoranza linguistica
+    translation:
+      en: the linguistic minority
+      ko: 언어적 소수 집단
+    gender: f
+    notes:
+      en: Protected by Italian constitution (e.g., German in South Tyrol)
+      ko: "이탈리아 헌법으로 보호됨 (예: 남티롤의 독일어)"
+  - italian: il registro
+    translation:
+      en: the register (formal/informal)
+      ko: 어체 (격식/비격식)
+    gender: m
+  - italian: la diglossia
+    translation:
+      en: diglossia
+      ko: 이중 언어 변용
+    gender: f
+    notes:
+      en: Use of dialect at home and standard Italian in formal settings
+      ko: 가정에서는 방언, 공식 환경에서는 표준어를 사용하는 현상
+- id: regional_food_terms
+  label:
+    en: Regional Food Terms
+    ko: 지역 음식 용어
+  type: vocabulary
+  words:
+  - italian: la pizza
+    translation:
+      en: pizza
+      ko: 피자
+    gender: f
+    notes:
+      en: Originated in Naples; regional styles vary greatly
+      ko: 나폴리에서 유래; 지역별 스타일이 크게 다름
+  - italian: la focaccia
+    translation:
+      en: focaccia (flat bread)
+      ko: 포카치아 (납작한 빵)
+    gender: f
+    notes:
+      en: Specialty of Liguria; variations across regions
+      ko: 리구리아 특산물; 지역마다 변형이 있음
+  - italian: la polenta
+    translation:
+      en: polenta (cornmeal dish)
+      ko: 폴렌타 (옥수수 요리)
+    gender: f
+    notes:
+      en: Staple of Northern Italy (Lombardy, Veneto, Friuli)
+      ko: 북부 이탈리아의 주식 (롬바르디아, 베네토, 프리울리)
+  - italian: il risotto
+    translation:
+      en: risotto
+      ko: 리소토
+    gender: m
+    notes:
+      en: Milanese specialty; risotto alla milanese with saffron
+      ko: 밀라노 특산 요리; 사프란을 넣은 리소토 알라 밀라네제
+  - italian: l'arancino / l'arancina
+    translation:
+      en: fried rice ball
+      ko: 아란치노 (튀긴 쌀 공)
+    gender: m/f
+    notes:
+      en: "Arancino (m) in eastern Sicily, arancina (f) in Palermo — a heated debate!"
+      ko: "동부 시칠리아에서는 arancino(남), 팔레르모에서는 arancina(여) — 뜨거운 논쟁!"
+  - italian: il panettone
+    translation:
+      en: panettone (Christmas cake)
+      ko: 파네토네 (크리스마스 케이크)
+    gender: m
+    notes:
+      en: Traditional Milanese Christmas bread; vs pandoro from Verona
+      ko: 밀라노 전통 크리스마스 빵; 베로나의 판도로와 경쟁
+  - italian: il cannolo
+    translation:
+      en: cannolo (Sicilian pastry)
+      ko: 카놀리 (시칠리아 페이스트리)
+    gender: m
+    notes:
+      en: Plural is 'cannoli'; filled with sweet ricotta
+      ko: 복수형은 'cannoli'; 달콤한 리코타 치즈로 채움
+  - italian: il pesto
+    translation:
+      en: pesto (basil sauce)
+      ko: 페스토 (바질 소스)
+    gender: m
+    notes:
+      en: Pesto alla genovese from Genoa (Liguria)
+      ko: 제노바(리구리아)의 페스토 알라 제노베제
+  - italian: il ragù
+    translation:
+      en: ragù (meat sauce)
+      ko: 라구 (고기 소스)
+    gender: m
+    notes:
+      en: Ragù bolognese (Bologna) vs ragù napoletano (Naples) are very different
+      ko: 라구 볼로네제(볼로냐)와 라구 나폴레타노(나폴리)는 매우 다름
+  - italian: il supplì
+    translation:
+      en: supplì (Roman fried rice ball)
+      ko: 수플리 (로마식 튀긴 쌀 공)
+    gender: m
+    notes:
+      en: Roman specialty; similar to Sicilian arancino but elongated
+      ko: 로마 특산물; 시칠리아 아란치노와 비슷하지만 길쭉한 형태
+  - italian: il tramezzino
+    translation:
+      en: tramezzino (triangular sandwich)
+      ko: 트라메치노 (삼각 샌드위치)
+    gender: m
+    notes:
+      en: Popular in bars across northern Italy; name coined by D'Annunzio
+      ko: 북부 이탈리아 바에서 인기; 단눈치오가 이름을 만듦
+  - italian: la 'nduja
+    translation:
+      en: "'nduja (spicy spreadable salami)"
+      ko: 은두야 (매운 스프레드 살라미)
+    gender: f
+    notes:
+      en: Calabrian specialty from Spilinga
+      ko: 스필링가의 칼라브리아 특산물
+  - italian: la caponata
+    translation:
+      en: caponata (sweet-sour eggplant dish)
+      ko: 카포나타 (새콤달콤한 가지 요리)
+    gender: f
+    notes:
+      en: Sicilian dish with eggplant, tomato, and capers
+      ko: 가지, 토마토, 케이퍼를 넣은 시칠리아 요리
+  - italian: i tortellini
+    translation:
+      en: tortellini (filled pasta)
+      ko: 토르텔리니 (속을 채운 파스타)
+    gender: m
+    notes:
+      en: Bologna and Modena specialty; served in broth traditionally
+      ko: 볼로냐와 모데나 특산물; 전통적으로 육수에 넣어 먹음
+  - italian: la piadina
+    translation:
+      en: piadina (Romagna flatbread)
+      ko: 피아디나 (로마냐 납작빵)
+    gender: f
+    notes:
+      en: Emilia-Romagna street food; filled with prosciutto, squacquerone, arugula
+      ko: 에밀리아로마냐 길거리 음식; 프로슈토, 스쿠아쿠에로네, 루꼴라로 채움
+- id: regional_greetings
+  label:
+    en: Regional Greetings and Expressions
+    ko: 지역별 인사와 표현
+  type: vocabulary
+  words:
+  - italian: ue' / uè
+    translation:
+      en: hey! (Neapolitan)
+      ko: 야! (나폴리 방언)
+    gender: null
+    notes:
+      en: Informal greeting in Naples and Campania
+      ko: 나폴리와 캄파니아의 비격식 인사
+  - italian: mandi
+    translation:
+      en: goodbye (Friulian)
+      ko: 안녕히 가세요 (프리울리 방언)
+    gender: null
+    notes:
+      en: Common farewell in Friuli Venezia Giulia
+      ko: 프리울리 베네치아 줄리아에서 흔한 작별 인사
+  - italian: neh / ne
+    translation:
+      en: right? / isn't it? (Piedmontese)
+      ko: 그렇지? / 맞지? (피에몬테 방언)
+    gender: null
+    notes:
+      en: Tag question particle in Piedmont
+      ko: 피에몬테에서 사용하는 확인 의문 조사
+  - italian: bella!
+    translation:
+      en: hey! / what's up! (Roman)
+      ko: 안녕! / 잘 지내! (로마 방언)
+    gender: null
+    notes:
+      en: Informal Roman greeting; short for 'bella lì' or 'bella zio'
+      ko: 비격식 로마 인사; 'bella lì'나 'bella zio'의 줄임말
+  - italian: ajò / oilà
+    translation:
+      en: let's go! / come on! (Sardinian)
+      ko: 가자! / 어서! (사르데냐 방언)
+    gender: null
+    notes:
+      en: Common exclamation in Sardinia
+      ko: 사르데냐에서 흔한 감탄사
+  - italian: daje!
+    translation:
+      en: come on! / let's go! (Roman)
+      ko: 힘내! / 가자! (로마 방언)
+    gender: null
+    notes:
+      en: Very popular Roman expression of encouragement
+      ko: 매우 인기 있는 로마식 격려 표현
+  - italian: belin!
+    translation:
+      en: wow! / darn! (Genoese)
+      ko: 와! / 이런! (제노바 방언)
+    gender: null
+    notes:
+      en: Quintessential Ligurian exclamation; vulgar origin but widely used
+      ko: 전형적인 리구리아 감탄사; 속된 어원이지만 널리 사용됨
+  - italian: minchia!
+    translation:
+      en: wow! / damn! (Sicilian)
+      ko: 와! / 이런! (시칠리아 방언)
+    gender: null
+    notes:
+      en: Very common Sicilian exclamation; vulgar origin
+      ko: 매우 흔한 시칠리아 감탄사; 속된 어원
+  - italian: ammazza!
+    translation:
+      en: wow! / unbelievable! (Roman)
+      ko: 와! / 놀라워! (로마 방언)
+    gender: null
+    notes:
+      en: Roman expression of surprise or amazement
+      ko: 놀라움이나 감탄을 나타내는 로마 표현
+  - italian: "'azz!"
+    translation:
+      en: wow! / darn! (Neapolitan)
+      ko: 와! / 이런! (나폴리 방언)
+    gender: null
+    notes:
+      en: Short for a vulgar Neapolitan exclamation; very common in Naples
+      ko: 나폴리 속어 감탄사의 줄임말; 나폴리에서 매우 흔함
+  - italian: scialla
+    translation:
+      en: relax / chill (Roman youth slang)
+      ko: 진정해 / 편하게 (로마 청년 속어)
+    gender: null
+    notes:
+      en: From Arabic 'inshallah'; popularized in Rome
+      ko: 아랍어 '인샬라'에서 유래; 로마에서 대중화됨
+- id: lexical_variation
+  label:
+    en: Lexical Variation Across Regions
+    ko: 지역별 어휘 차이
+  type: vocabulary
+  words:
+  - italian: l'anguria / il cocomero
+    translation:
+      en: watermelon (North / Central-South)
+      ko: 수박 (북부 / 중남부)
+    gender: f/m
+    notes:
+      en: "'Anguria' in Lombardy/Veneto, 'cocomero' in Tuscany/Rome, 'melone d'acqua' in South"
+      ko: 롬바르디아/베네토에서 'anguria', 토스카나/로마에서 'cocomero', 남부에서 'melone d'acqua'
+  - italian: il ragazzo / il guaglione / il fio / il bocia
+    translation:
+      en: boy (standard / Naples / Veneto / Trentino)
+      ko: 소년 (표준어 / 나폴리 / 베네토 / 트렌티노)
+    gender: m
+    notes:
+      en: Same concept, completely different words across regions
+      ko: 같은 개념이지만 지역에 따라 완전히 다른 단어
+  - italian: bello / togo / ganzo / figo
+    translation:
+      en: cool/great (standard / Milan / Tuscany / colloquial)
+      ko: 멋진/좋은 (표준어 / 밀라노 / 토스카나 / 구어)
+    gender: null
+    notes:
+      en: Regional ways to say 'cool' or 'great'
+      ko: "'멋지다'를 표현하는 지역별 방식"
+  - italian: lo scontrino / la ricevuta / lo scontrinetto
+    translation:
+      en: receipt (standard / formal / diminutive)
+      ko: 영수증 (표준어 / 격식 / 축소형)
+    gender: m
+    notes:
+      en: Regional preference varies; 'scontrino' is most common
+      ko: 지역 선호도가 다름; 'scontrino'가 가장 일반적
+  - italian: la borsa / la borsetta / la sacchetta
+    translation:
+      en: bag/purse (standard / small / regional)
+      ko: 가방/핸드백 (표준어 / 작은 / 지역어)
+    gender: f
+  - italian: il babbo / il papà
+    translation:
+      en: dad (Tuscany / elsewhere)
+      ko: 아빠 (토스카나 / 다른 지역)
+    gender: m
+    notes:
+      en: "'Babbo' is Tuscan; used by Dante. 'Papà' is standard elsewhere"
+      ko: "'babbo'는 토스카나식; 단테가 사용. 다른 곳에서는 'papà'가 표준"
+  - italian: la cena / il pranzo
+    translation:
+      en: dinner / lunch
+      ko: 저녁 식사 / 점심 식사
+    gender: f/m
+    notes:
+      en: In some southern regions, 'pranzo' can refer to the main evening meal
+      ko: 일부 남부 지역에서 'pranzo'가 저녁 주요 식사를 가리킬 수 있음
+  - italian: il gettone
+    translation:
+      en: the token / coin (for phone)
+      ko: 토큰 / 동전 (전화용)
+    gender: m
+    notes:
+      en: Once used in phone booths; now slang varies by region
+      ko: 과거 공중전화에서 사용; 현재 지역별로 속어가 다름
+  - italian: la moka / la caffettiera
+    translation:
+      en: stovetop coffee maker
+      ko: 모카 포트 / 커피 메이커
+    gender: f
+    notes:
+      en: "'Moka' is universal but regional names exist; 'cuccumella' in Naples"
+      ko: "'moka'는 보편적이지만 지역 이름이 존재; 나폴리에서는 'cuccumella'"
+  - italian: uscire / andare fuori
+    translation:
+      en: to go out
+      ko: 외출하다
+    gender: null
+    notes:
+      en: Preference varies regionally; northern Italy tends toward 'uscire'
+      ko: 지역에 따라 선호도가 다름; 북부 이탈리아는 'uscire'를 선호
+  - italian: il cornetto / la brioche
+    translation:
+      en: croissant (Rome-South / North)
+      ko: 크루아상 (로마 이남 / 북부)
+    gender: m/f
+    notes:
+      en: Same pastry, different names; heated North-South debate
+      ko: 같은 빵이지만 이름이 다름; 치열한 남북 논쟁
+  - italian: lo sciopero / la fermata
+    translation:
+      en: the strike / the stop
+      ko: 파업 / 정류장
+    gender: m/f
+    notes:
+      en: "'Sciopero' is a word frequently heard across all regions"
+      ko: "'sciopero'는 모든 지역에서 자주 들리는 단어"

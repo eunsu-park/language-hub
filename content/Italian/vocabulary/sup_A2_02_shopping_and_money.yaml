@@ -1,0 +1,879 @@
+lesson: "sup_A2_Shopping_and_Money"
+lesson_number: 202
+cefr: A2
+type: supplementary
+topic: "Shopping and Money"
+categories:
+- id: stores
+  label:
+    en: "Stores and Shops"
+    ko: "상점"
+  type: vocabulary
+  words:
+  - italian: "il negozio"
+    translation:
+      en: "shop / store"
+      ko: "가게"
+    gender: m
+  - italian: "il supermercato"
+    translation:
+      en: "supermarket"
+      ko: "슈퍼마켓"
+    gender: m
+  - italian: "il mercato"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: m
+    notes:
+      en: "Open-air markets are a tradition in Italian cities"
+      ko: "노천 시장은 이탈리아 도시의 전통"
+  - italian: "la farmacia"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+    notes:
+      en: "Look for the green cross sign"
+      ko: "녹색 십자 표시를 찾으세요"
+  - italian: "la libreria"
+    translation:
+      en: "bookshop"
+      ko: "서점"
+    gender: f
+    notes:
+      en: "la biblioteca = library (different!)"
+      ko: "la biblioteca = 도서관 (다름!)"
+  - italian: "la cartoleria"
+    translation:
+      en: "stationery shop"
+      ko: "문구점"
+    gender: f
+  - italian: "il panificio"
+    translation:
+      en: "bakery"
+      ko: "빵집"
+    gender: m
+    notes:
+      en: "Also la panetteria"
+      ko: "la panetteria라고도 함"
+  - italian: "la macelleria"
+    translation:
+      en: "butcher shop"
+      ko: "정육점"
+    gender: f
+  - italian: "la pescheria"
+    translation:
+      en: "fish market / fishmonger"
+      ko: "생선 가게"
+    gender: f
+  - italian: "il fruttivendolo"
+    translation:
+      en: "fruit and vegetable shop"
+      ko: "과일 채소 가게"
+    gender: m
+  - italian: "la tabaccheria"
+    translation:
+      en: "tobacco shop"
+      ko: "담배 가게"
+    gender: f
+    notes:
+      en: "Also sells stamps, bus tickets, and phone cards"
+      ko: "우표, 버스표, 전화카드도 판매함"
+  - italian: "la gelateria"
+    translation:
+      en: "ice cream shop"
+      ko: "젤라토 가게"
+    gender: f
+    notes:
+      en: "A must-visit in Italy!"
+      ko: "이탈리아에서 꼭 가야 할 곳!"
+  - italian: "il centro commerciale"
+    translation:
+      en: "shopping mall"
+      ko: "쇼핑몰"
+    gender: m
+  - italian: "la pasticceria"
+    translation:
+      en: "pastry shop"
+      ko: "제과점"
+    gender: f
+  - italian: "la profumeria"
+    translation:
+      en: "perfume shop"
+      ko: "향수 가게"
+    gender: f
+- id: money
+  label:
+    en: "Money"
+    ko: "돈"
+  type: vocabulary
+  words:
+  - italian: "il denaro"
+    translation:
+      en: "money"
+      ko: "돈"
+    gender: m
+    notes:
+      en: "Also i soldi (more colloquial, always plural)"
+      ko: "i soldi도 사용 (더 구어적, 항상 복수형)"
+  - italian: "i soldi"
+    translation:
+      en: "money (colloquial)"
+      ko: "돈 (구어)"
+    gender: m
+    notes:
+      en: "Always plural"
+      ko: "항상 복수형"
+  - italian: "l'euro"
+    translation:
+      en: "euro"
+      ko: "유로"
+    gender: m
+    notes:
+      en: "Invariable in Italian: un euro, due euro"
+      ko: "이탈리아어에서 불변: un euro, due euro"
+  - italian: "il centesimo"
+    translation:
+      en: "cent"
+      ko: "센트"
+    gender: m
+  - italian: "il prezzo"
+    translation:
+      en: "price"
+      ko: "가격"
+    gender: m
+    notes:
+      en: "Quanto costa? = How much does it cost?"
+      ko: "Quanto costa? = 얼마예요?"
+  - italian: "lo sconto"
+    translation:
+      en: "discount"
+      ko: "할인"
+    gender: m
+    notes:
+      en: "i saldi = sales (seasonal discounts)"
+      ko: "i saldi = 세일 (시즌 할인)"
+  - italian: "la carta di credito"
+    translation:
+      en: "credit card"
+      ko: "신용카드"
+    gender: f
+  - italian: "il bancomat"
+    translation:
+      en: "ATM / debit card"
+      ko: "ATM / 직불카드"
+    gender: m
+    notes:
+      en: "In Italy, refers to both the ATM machine and the debit card"
+      ko: "이탈리아에서는 ATM 기기와 직불카드 둘 다 가리킴"
+  - italian: "il contante"
+    translation:
+      en: "cash"
+      ko: "현금"
+    gender: m
+    notes:
+      en: "in contanti = in cash (payment)"
+      ko: "in contanti = 현금으로 (결제)"
+  - italian: "lo scontrino"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: m
+    notes:
+      en: "In Italy you must keep the receipt (scontrino fiscale)"
+      ko: "이탈리아에서는 영수증을 보관해야 함 (scontrino fiscale)"
+  - italian: "la ricevuta"
+    translation:
+      en: "receipt (formal)"
+      ko: "영수증 (공식)"
+    gender: f
+  - italian: "la fattura"
+    translation:
+      en: "invoice"
+      ko: "청구서"
+    gender: f
+  - italian: "il portafoglio"
+    translation:
+      en: "wallet"
+      ko: "지갑"
+    gender: m
+  - italian: "il resto"
+    translation:
+      en: "change (money)"
+      ko: "거스름돈"
+    gender: m
+- id: shopping_actions
+  label:
+    en: "Shopping Actions"
+    ko: "쇼핑 행동"
+  type: vocabulary
+  words:
+  - italian: "comprare"
+    translation:
+      en: "to buy"
+      ko: "사다"
+    gender: null
+  - italian: "vendere"
+    translation:
+      en: "to sell"
+      ko: "팔다"
+    gender: null
+  - italian: "pagare"
+    translation:
+      en: "to pay"
+      ko: "지불하다"
+    gender: null
+  - italian: "costare"
+    translation:
+      en: "to cost"
+      ko: "비용이 들다"
+    gender: null
+  - italian: "spendere"
+    translation:
+      en: "to spend"
+      ko: "쓰다 (돈을)"
+    gender: null
+  - italian: "risparmiare"
+    translation:
+      en: "to save (money)"
+      ko: "절약하다"
+    gender: null
+  - italian: "provare"
+    translation:
+      en: "to try on"
+      ko: "입어보다"
+    gender: null
+  - italian: "scegliere"
+    translation:
+      en: "to choose"
+      ko: "고르다"
+    gender: null
+  - italian: "cambiare"
+    translation:
+      en: "to change / to exchange"
+      ko: "교환하다"
+    gender: null
+  - italian: "restituire"
+    translation:
+      en: "to return (an item)"
+      ko: "반품하다"
+    gender: null
+- id: sizes
+  label:
+    en: "Sizes and Descriptions"
+    ko: "사이즈와 설명"
+  type: vocabulary
+  words:
+  - italian: "la taglia"
+    translation:
+      en: "size (clothing)"
+      ko: "사이즈 (옷)"
+    gender: f
+  - italian: "il numero"
+    translation:
+      en: "size (shoes) / number"
+      ko: "사이즈 (신발) / 번호"
+    gender: m
+  - italian: "piccolo"
+    translation:
+      en: "small"
+      ko: "작은"
+    gender: null
+  - italian: "medio"
+    translation:
+      en: "medium"
+      ko: "중간의"
+    gender: null
+  - italian: "grande"
+    translation:
+      en: "big / large"
+      ko: "큰"
+    gender: null
+  - italian: "stretto"
+    translation:
+      en: "tight / narrow"
+      ko: "좁은 / 꽉 끼는"
+    gender: null
+  - italian: "largo"
+    translation:
+      en: "wide / loose"
+      ko: "넓은 / 헐렁한"
+    gender: null
+  - italian: "lungo"
+    translation:
+      en: "long"
+      ko: "긴"
+    gender: null
+  - italian: "corto"
+    translation:
+      en: "short"
+      ko: "짧은"
+    gender: null
+  - italian: "caro"
+    translation:
+      en: "expensive"
+      ko: "비싼"
+    gender: null
+  - italian: "economico"
+    translation:
+      en: "cheap / affordable"
+      ko: "저렴한"
+    gender: null
+    notes:
+      en: "a buon mercato also means cheap"
+      ko: "a buon mercato도 저렴하다는 뜻"
+  - italian: "in offerta"
+    translation:
+      en: "on sale"
+      ko: "할인 중인"
+    gender: null
+  - italian: "gratuito"
+    translation:
+      en: "free (no cost)"
+      ko: "무료의"
+    gender: null
+    notes:
+      en: "Also gratis (invariable)"
+      ko: "gratis도 같은 뜻 (불변형)"
+  - italian: "nuovo"
+    translation:
+      en: "new"
+      ko: "새것의"
+    gender: null
+  - italian: "usato"
+    translation:
+      en: "used / second-hand"
+      ko: "중고의"
+    gender: null
+  - italian: "alla moda"
+    translation:
+      en: "fashionable / trendy"
+      ko: "유행하는"
+    gender: null
+  - italian: "elegante"
+    translation:
+      en: "elegant"
+      ko: "우아한"
+    gender: null
+  - italian: "comodo"
+    translation:
+      en: "comfortable"
+      ko: "편한"
+    gender: null
+  - italian: "scomodo"
+    translation:
+      en: "uncomfortable"
+      ko: "불편한"
+    gender: null
+  - italian: "adatto"
+    translation:
+      en: "suitable"
+      ko: "적합한"
+    gender: null
+  - italian: "il camerino"
+    translation:
+      en: "fitting room"
+      ko: "탈의실"
+    gender: m
+  - italian: "la vetrina"
+    translation:
+      en: "shop window"
+      ko: "쇼윈도"
+    gender: f
+  - italian: "la cassa"
+    translation:
+      en: "cash register / checkout"
+      ko: "계산대"
+    gender: f
+  - italian: "lo scaffale"
+    translation:
+      en: "shelf (store)"
+      ko: "진열대"
+    gender: m
+  - italian: "il carrello"
+    translation:
+      en: "shopping cart"
+      ko: "쇼핑 카트"
+    gender: m
+  - italian: "il cestino"
+    translation:
+      en: "shopping basket"
+      ko: "쇼핑 바구니"
+    gender: m
+  - italian: "la busta"
+    translation:
+      en: "bag (shopping)"
+      ko: "봉지"
+    gender: f
+    notes:
+      en: "Also sacchetto; bags are charged in Italian stores"
+      ko: "sacchetto라고도 함; 이탈리아 상점에서 봉지는 유료"
+  - italian: "il reparto"
+    translation:
+      en: "department / section"
+      ko: "매장 / 코너"
+    gender: m
+- id: fashion_items
+  label:
+    en: "Fashion and Accessories"
+    ko: "패션과 액세서리"
+  type: vocabulary
+  words:
+  - italian: "la moda"
+    translation:
+      en: "fashion"
+      ko: "패션"
+    gender: f
+    notes:
+      en: "Milan is the fashion capital of Italy"
+      ko: "밀라노는 이탈리아의 패션 수도"
+  - italian: "il marchio"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: m
+  - italian: "il tessuto"
+    translation:
+      en: "fabric"
+      ko: "원단"
+    gender: m
+  - italian: "il cotone"
+    translation:
+      en: "cotton"
+      ko: "면"
+    gender: m
+  - italian: "la seta"
+    translation:
+      en: "silk"
+      ko: "비단"
+    gender: f
+  - italian: "la pelle"
+    translation:
+      en: "leather"
+      ko: "가죽"
+    gender: f
+  - italian: "la lana"
+    translation:
+      en: "wool"
+      ko: "양모"
+    gender: f
+  - italian: "il gioiello"
+    translation:
+      en: "jewel / jewelry"
+      ko: "보석"
+    gender: m
+    notes:
+      en: "la gioielleria = jewelry shop"
+      ko: "la gioielleria = 보석 가게"
+  - italian: "l'anello"
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: m
+  - italian: "la collana"
+    translation:
+      en: "necklace"
+      ko: "목걸이"
+    gender: f
+  - italian: "l'orologio"
+    translation:
+      en: "watch"
+      ko: "시계"
+    gender: m
+  - italian: "il braccialetto"
+    translation:
+      en: "bracelet"
+      ko: "팔찌"
+    gender: m
+  - italian: "gli orecchini"
+    translation:
+      en: "earrings"
+      ko: "귀걸이"
+    gender: m
+  - italian: "gli occhiali da sole"
+    translation:
+      en: "sunglasses"
+      ko: "선글라스"
+    gender: m
+  - italian: "il profumo"
+    translation:
+      en: "perfume"
+      ko: "향수"
+    gender: m
+  - italian: "il trucco"
+    translation:
+      en: "makeup"
+      ko: "화장품"
+    gender: m
+  - italian: "il rossetto"
+    translation:
+      en: "lipstick"
+      ko: "립스틱"
+    gender: m
+  - italian: "la crema"
+    translation:
+      en: "cream / lotion"
+      ko: "크림"
+    gender: f
+  - italian: "il sapone"
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: m
+  - italian: "lo shampoo"
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: m
+  - italian: "il dentifricio"
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: m
+  - italian: "lo spazzolino"
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: m
+  - italian: "il rasoio"
+    translation:
+      en: "razor"
+      ko: "면도기"
+    gender: m
+  - italian: "il pettine"
+    translation:
+      en: "comb"
+      ko: "빗"
+    gender: m
+  - italian: "la spazzola"
+    translation:
+      en: "brush"
+      ko: "브러시"
+    gender: f
+  - italian: "il deodorante"
+    translation:
+      en: "deodorant"
+      ko: "데오도란트"
+    gender: m
+  - italian: "la carta igienica"
+    translation:
+      en: "toilet paper"
+      ko: "화장지"
+    gender: f
+  - italian: "il fazzoletto"
+    translation:
+      en: "tissue / handkerchief"
+      ko: "휴지 / 손수건"
+    gender: m
+- id: payment_banking
+  label:
+    en: "Payment and Banking"
+    ko: "결제와 은행"
+  type: vocabulary
+  words:
+  - italian: "il conto corrente"
+    translation:
+      en: "checking account"
+      ko: "당좌 예금"
+    gender: m
+  - italian: "il conto di risparmio"
+    translation:
+      en: "savings account"
+      ko: "저축 예금"
+    gender: m
+  - italian: "il bonifico"
+    translation:
+      en: "bank transfer"
+      ko: "계좌 이체"
+    gender: m
+  - italian: "il prelievo"
+    translation:
+      en: "withdrawal"
+      ko: "인출"
+    gender: m
+  - italian: "il versamento"
+    translation:
+      en: "deposit"
+      ko: "입금"
+    gender: m
+  - italian: "il tasso di cambio"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+  - italian: "cambiare valuta"
+    translation:
+      en: "to exchange currency"
+      ko: "환전하다"
+    gender: null
+  - italian: "il pagamento"
+    translation:
+      en: "payment"
+      ko: "결제"
+    gender: m
+  - italian: "la rata"
+    translation:
+      en: "installment"
+      ko: "할부"
+    gender: f
+  - italian: "il debito"
+    translation:
+      en: "debt"
+      ko: "빚"
+    gender: m
+  - italian: "il credito"
+    translation:
+      en: "credit"
+      ko: "신용"
+    gender: m
+  - italian: "l'IVA"
+    translation:
+      en: "VAT (sales tax)"
+      ko: "부가가치세"
+    gender: f
+    notes:
+      en: "Imposta sul Valore Aggiunto"
+      ko: "Imposta sul Valore Aggiunto의 약자"
+  - italian: "la garanzia"
+    translation:
+      en: "warranty / guarantee"
+      ko: "보증"
+    gender: f
+  - italian: "il rimborso"
+    translation:
+      en: "refund"
+      ko: "환불"
+    gender: m
+  - italian: "il codice a barre"
+    translation:
+      en: "barcode"
+      ko: "바코드"
+    gender: m
+  - italian: "la lista della spesa"
+    translation:
+      en: "shopping list"
+      ko: "쇼핑 목록"
+    gender: f
+  - italian: "l'offerta speciale"
+    translation:
+      en: "special offer"
+      ko: "특가"
+    gender: f
+  - italian: "i saldi"
+    translation:
+      en: "sales (seasonal)"
+      ko: "세일"
+    gender: m
+    notes:
+      en: "Regulated by law in Italy; specific periods in winter and summer"
+      ko: "이탈리아에서는 법으로 규제됨; 겨울과 여름 특정 기간"
+  - italian: "il buono regalo"
+    translation:
+      en: "gift card"
+      ko: "상품권"
+    gender: m
+  - italian: "lo scontrino"
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: m
+- id: clothing_shopping
+  label:
+    en: "Clothing and Fashion Shopping"
+    ko: "의류와 패션 쇼핑"
+  type: vocabulary
+  words:
+  - italian: "la taglia"
+    translation:
+      en: "size (clothing)"
+      ko: "사이즈 (의류)"
+    gender: f
+  - italian: "la misura"
+    translation:
+      en: "size / measurement"
+      ko: "치수"
+    gender: f
+  - italian: "provare"
+    translation:
+      en: "to try on"
+      ko: "입어보다"
+    gender: null
+  - italian: "il camerino"
+    translation:
+      en: "fitting room"
+      ko: "탈의실"
+    gender: m
+  - italian: "stretto"
+    translation:
+      en: "tight"
+      ko: "꽉 끼는"
+    gender: null
+  - italian: "largo"
+    translation:
+      en: "loose / wide"
+      ko: "헐렁한"
+    gender: null
+  - italian: "comodo"
+    translation:
+      en: "comfortable"
+      ko: "편한"
+    gender: null
+  - italian: "elegante"
+    translation:
+      en: "elegant / stylish"
+      ko: "우아한"
+    gender: null
+  - italian: "la moda"
+    translation:
+      en: "fashion"
+      ko: "패션"
+    gender: f
+    notes:
+      en: "alla moda = fashionable; fuori moda = out of fashion"
+      ko: "alla moda = 유행하는; fuori moda = 유행이 지난"
+  - italian: "il tessuto"
+    translation:
+      en: "fabric"
+      ko: "원단"
+    gender: m
+  - italian: "la seta"
+    translation:
+      en: "silk"
+      ko: "실크"
+    gender: f
+  - italian: "il cotone"
+    translation:
+      en: "cotton"
+      ko: "면"
+    gender: m
+  - italian: "la lana"
+    translation:
+      en: "wool"
+      ko: "울"
+    gender: f
+  - italian: "la pelle"
+    translation:
+      en: "leather"
+      ko: "가죽"
+    gender: f
+    notes:
+      en: "Italian leather goods are world-renowned"
+      ko: "이탈리아 가죽 제품은 세계적으로 유명"
+  - italian: "il marchio"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: m
+  - italian: "il Made in Italy"
+    translation:
+      en: "Made in Italy"
+      ko: "메이드 인 이탈리아"
+    gender: m
+    notes:
+      en: "A mark of quality for Italian-made goods"
+      ko: "이탈리아산 제품의 품질 표시"
+  - italian: "la boutique"
+    translation:
+      en: "boutique"
+      ko: "부티크"
+    gender: f
+  - italian: "la vetrina"
+    translation:
+      en: "shop window"
+      ko: "쇼윈도"
+    gender: f
+  - italian: "la gruccia"
+    translation:
+      en: "hanger"
+      ko: "옷걸이"
+    gender: f
+  - italian: "l'etichetta"
+    translation:
+      en: "label / price tag"
+      ko: "라벨 / 가격표"
+    gender: f
+  - italian: "il reso"
+    translation:
+      en: "return (merchandise)"
+      ko: "반품"
+    gender: m
+  - italian: "cambiare"
+    translation:
+      en: "to exchange / to change"
+      ko: "교환하다"
+    gender: null
+  - italian: "il commesso"
+    translation:
+      en: "shop assistant"
+      ko: "점원"
+    gender: m
+    notes:
+      en: "la commessa for female"
+      ko: "여성은 la commessa"
+  - italian: "l'outlet"
+    translation:
+      en: "outlet store"
+      ko: "아울렛"
+    gender: m
+  - italian: "il mercatino"
+    translation:
+      en: "flea market / small market"
+      ko: "벼룩시장 / 작은 시장"
+    gender: m
+  - italian: "l'artigianato"
+    translation:
+      en: "handicrafts / artisan goods"
+      ko: "수공예"
+    gender: m
+    notes:
+      en: "Italy is famous for artisan craftsmanship"
+      ko: "이탈리아는 장인 정신으로 유명"
+  - italian: "la ceramica"
+    translation:
+      en: "ceramics / pottery"
+      ko: "도자기"
+    gender: f
+  - italian: "il souvenir"
+    translation:
+      en: "souvenir"
+      ko: "기념품"
+    gender: m
+  - italian: "fare la spesa"
+    translation:
+      en: "to do grocery shopping"
+      ko: "장을 보다"
+    gender: null
+  - italian: "fare shopping"
+    translation:
+      en: "to go shopping (non-grocery)"
+      ko: "쇼핑하다"
+    gender: null
+  - italian: "il carrello"
+    translation:
+      en: "shopping cart"
+      ko: "쇼핑 카트"
+    gender: m
+  - italian: "il cestino"
+    translation:
+      en: "shopping basket"
+      ko: "쇼핑 바구니"
+    gender: m
+  - italian: "la cassa"
+    translation:
+      en: "checkout / register"
+      ko: "계산대"
+    gender: f
+  - italian: "la fila"
+    translation:
+      en: "line / queue"
+      ko: "줄"
+    gender: f
+    notes:
+      en: "fare la fila = to wait in line"
+      ko: "fare la fila = 줄을 서다"
+  - italian: "la busta"
+    translation:
+      en: "bag (shopping)"
+      ko: "봉투"
+    gender: f
