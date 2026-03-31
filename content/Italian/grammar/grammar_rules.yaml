@@ -1,0 +1,844 @@
+# Italian Grammar Rules, Contrasts, and Patterns
+
+rules:
+  # ============================================================
+  # 1. ESSERE vs AVERE (Auxiliary Selection)
+  # ============================================================
+  essere_vs_avere:
+    id: essere_vs_avere
+    label:
+      en: "ESSERE vs AVERE (Auxiliary Selection)"
+      ko: "ESSERE vs AVERE (조동사 선택)"
+    category: verbs
+    cefr: A2
+    description:
+      en: "In compound tenses, Italian requires either ESSERE or AVERE as auxiliary. The choice affects past participle agreement. This is one of the most fundamental grammar points in Italian."
+      ko: "복합 시제에서 이탈리아어는 ESSERE 또는 AVERE를 조동사로 요구. 선택은 과거분사 일치에 영향. 이탈리아어의 가장 근본적인 문법 포인트 중 하나."
+    mnemonics:
+      - name: "Casa dei Verbi con ESSERE"
+        for: ESSERE
+        description:
+          en: "Verbs of motion, state change, and existence that take ESSERE. Think of a house: you arrive, enter, go up, go down, stay, go out, leave, return, fall, and die."
+          ko: "ESSERE를 취하는 이동, 상태 변화, 존재 동사. 집을 생각: 도착하고, 들어가고, 올라가고, 내려가고, 머물고, 나가고, 떠나고, 돌아오고, 넘어지고, 죽는다."
+        items:
+          - verb: andare
+            meaning: {en: to go, ko: 가다}
+            example: "Sono andato a Roma."
+          - verb: venire
+            meaning: {en: to come, ko: 오다}
+            example: "E venuta Maria."
+          - verb: partire
+            meaning: {en: to leave/depart, ko: 떠나다}
+            example: "Siamo partiti presto."
+          - verb: arrivare
+            meaning: {en: to arrive, ko: 도착하다}
+            example: "Sono arrivati ieri."
+          - verb: tornare
+            meaning: {en: to return, ko: 돌아오다}
+            example: "E tornata a casa."
+          - verb: uscire
+            meaning: {en: to go out, ko: 나가다}
+            example: "Siamo usciti alle otto."
+          - verb: entrare
+            meaning: {en: to enter, ko: 들어가다}
+            example: "E entrato in casa."
+          - verb: salire
+            meaning: {en: to go up, ko: 올라가다}
+            example: "Sono salito al terzo piano."
+          - verb: scendere
+            meaning: {en: to go down, ko: 내려가다}
+            example: "E scesa dal treno."
+          - verb: nascere
+            meaning: {en: to be born, ko: 태어나다}
+            example: "Sono nato a Firenze."
+          - verb: morire
+            meaning: {en: to die, ko: 죽다}
+            example: "E morto nel 1900."
+          - verb: stare
+            meaning: {en: to stay/be, ko: 머무르다}
+            example: "Sono stato bene."
+          - verb: restare
+            meaning: {en: to stay/remain, ko: 남다}
+            example: "Siamo restati a casa."
+          - verb: rimanere
+            meaning: {en: to remain, ko: 남아있다}
+            example: "E rimasta sorpresa."
+          - verb: diventare
+            meaning: {en: to become, ko: 되다}
+            example: "E diventato famoso."
+          - verb: cadere
+            meaning: {en: to fall, ko: 떨어지다}
+            example: "E caduto dalla scala."
+          - verb: crescere
+            meaning: {en: to grow, ko: 자라다}
+            example: "Sono cresciuto in campagna."
+          - verb: essere
+            meaning: {en: to be, ko: ~이다}
+            example: "E stato difficile."
+          - verb: piacere
+            meaning: {en: to like/please, ko: 좋아하다}
+            example: "Mi e piaciuto il film."
+          - verb: succedere
+            meaning: {en: to happen, ko: 일어나다}
+            example: "Che cosa e successo?"
+          - verb: costare
+            meaning: {en: to cost, ko: 비용이 들다}
+            example: "Quanto e costato?"
+          - verb: bastare
+            meaning: {en: to be enough, ko: 충분하다}
+            example: "E bastata un'ora."
+          - verb: sembrare
+            meaning: {en: to seem, ko: ~처럼 보이다}
+            example: "E sembrato strano."
+    avere_rule:
+      en: "AVERE is used with transitive verbs (verbs that take a direct object): Ho mangiato la pizza. Ho letto il libro. Ho visto Maria."
+      ko: "AVERE는 타동사(직접목적어를 취하는 동사)와 함께 사용: Ho mangiato la pizza. Ho letto il libro. Ho visto Maria."
+    reflexive_rule:
+      en: "ALL reflexive/pronominal verbs take ESSERE: Mi sono svegliato/a. Si e lavata. Ci siamo divertiti."
+      ko: "모든 재귀/대명 동사는 ESSERE를 취함: Mi sono svegliato/a. Si e lavata. Ci siamo divertiti."
+    agreement:
+      with_essere:
+        en: >
+          Past participle MUST agree with the subject in gender and number:
+          Lui e andato (m.sg.), Lei e andata (f.sg.),
+          Loro sono andati (m.pl.), Loro sono andate (f.pl.)
+        ko: >
+          과거분사는 주어의 성/수와 반드시 일치:
+          Lui e andato (남성 단수), Lei e andata (여성 단수),
+          Loro sono andati (남성 복수), Loro sono andate (여성 복수)
+      with_avere:
+        en: >
+          Past participle is normally invariable: Ho mangiato la pizza.
+          BUT it agrees with preceding direct object pronouns (lo/la/li/le/ne):
+          L'ho vista (la -> vista). Li ho comprati (li -> comprati).
+        ko: >
+          과거분사는 보통 불변: Ho mangiato la pizza.
+          단, 선행 직접목적격 대명사(lo/la/li/le/ne)와 일치:
+          L'ho vista (la -> vista). Li ho comprati (li -> comprati).
+    dual_auxiliary_verbs:
+      en: "Some verbs take AVERE when transitive and ESSERE when intransitive: Ho finito il lavoro (transitive) vs Il film e finito (intransitive). Same pattern: cominciare, salire, scendere, correre, cambiare, passare."
+      ko: "일부 동사는 타동사일 때 AVERE, 자동사일 때 ESSERE를 취함: Ho finito il lavoro (타동사) vs Il film e finito (자동사). 같은 패턴: cominciare, salire, scendere, correre, cambiare, passare."
+    exercises:
+      - question:
+          en: "Fill in: Maria ___ (arrivare) ieri sera."
+          ko: "빈칸 채우기: Maria ___ (arrivare) ieri sera."
+        answer: "e arrivata"
+        explanation:
+          en: "Arrivare takes essere; past participle agrees with Maria (feminine singular)."
+          ko: "Arrivare는 essere를 취함; 과거분사는 Maria (여성 단수)와 일치."
+      - question:
+          en: "Fill in: Noi ___ (mangiare) la pizza."
+          ko: "빈칸 채우기: Noi ___ (mangiare) la pizza."
+        answer: "abbiamo mangiato"
+        explanation:
+          en: "Mangiare is transitive, takes avere. No agreement needed (direct object follows verb)."
+          ko: "Mangiare는 타동사로 avere를 취함. 일치 불필요 (직접목적어가 동사 뒤에 옴)."
+
+  # ============================================================
+  # 2. PASSATO PROSSIMO vs IMPERFETTO
+  # ============================================================
+  passato_prossimo_vs_imperfetto:
+    id: passato_prossimo_vs_imperfetto
+    label:
+      en: "Passato Prossimo vs Imperfetto"
+      ko: "근과거 vs 불완료"
+    category: tenses
+    cefr: B1
+    description:
+      en: "Both describe past events, but passato prossimo focuses on completed actions while imperfetto describes ongoing/habitual past states."
+      ko: "둘 다 과거 사건을 묘사하지만, 근과거는 완료된 행동에, 불완료는 진행 중이거나 습관적인 과거 상태에 초점."
+    comparison:
+      passato_prossimo:
+        label:
+          en: "Passato Prossimo (completed)"
+          ko: "근과거 (완료)"
+        characteristics:
+          - en: "Completed action with clear beginning/end"
+            ko: "명확한 시작/끝이 있는 완료된 행동"
+          - en: "Specific number of times"
+            ko: "특정 횟수"
+          - en: "Sequence of events (narrative)"
+            ko: "사건의 연속 (내러티브)"
+          - en: "Main action that interrupts"
+            ko: "중단시키는 주요 행동"
+          - en: "Change of state or reaction"
+            ko: "상태 변화 또는 반응"
+      imperfetto:
+        label:
+          en: "Imperfetto (ongoing/habitual)"
+          ko: "불완료 (진행 중/습관적)"
+        characteristics:
+          - en: "Habitual or repeated past action"
+            ko: "습관적이거나 반복적인 과거 행동"
+          - en: "Background/scene description"
+            ko: "배경/장면 묘사"
+          - en: "Ongoing action being interrupted"
+            ko: "중단당하는 진행 중인 행동"
+          - en: "Age, time, weather"
+            ko: "나이, 시간, 날씨"
+          - en: "Emotional/physical states"
+            ko: "감정/신체 상태"
+    trigger_words:
+      passato_prossimo: [ieri, l'altro ieri, lunedi scorso, una volta, all'improvviso, in quel momento, alla fine, poi, dopo]
+      imperfetto: [sempre, tutti i giorni, ogni estate, spesso, mentre, da bambino, di solito, a quell'epoca, ogni volta che]
+    verbs_that_change_meaning:
+      - verb: conoscere
+        passato_prossimo:
+          en: "met (for the first time)"
+          ko: "처음 만났다"
+          example: "Ho conosciuto Maria alla festa. (I met Maria at the party.)"
+        imperfetto:
+          en: "knew / was familiar with"
+          ko: "알고 있었다 / 익숙했다"
+          example: "Conoscevo bene la citta. (I knew the city well.)"
+      - verb: sapere
+        passato_prossimo:
+          en: "found out / learned"
+          ko: "알게 되었다"
+          example: "Ho saputo la verita. (I found out the truth.)"
+        imperfetto:
+          en: "knew (already)"
+          ko: "(이미) 알고 있었다"
+          example: "Sapevo la risposta. (I knew the answer.)"
+      - verb: potere
+        passato_prossimo:
+          en: "managed to / succeeded in"
+          ko: "해낼 수 있었다 / 성공했다"
+          example: "Ho potuto scappare. (I managed to escape.)"
+        imperfetto:
+          en: "was able to / could (general ability)"
+          ko: "할 수 있었다 (일반적 능력)"
+          example: "Potevo nuotare molto bene. (I could swim very well.)"
+      - verb: volere
+        passato_prossimo:
+          en: "tried to / insisted on (affirm.) / refused (neg.)"
+          ko: "시도했다 / 고집했다(긍정) / 거부했다(부정)"
+          example: "Ho voluto pagare io. (I insisted on paying.) / Non ha voluto venire. (He refused to come.)"
+        imperfetto:
+          en: "wanted"
+          ko: "원했다"
+          example: "Volevo andare al cinema. (I wanted to go to the movies.)"
+    narrative_pattern:
+      en: >
+        In storytelling, imperfetto sets the scene (background) and passato
+        prossimo advances the plot (foreground). Example: Faceva bel tempo
+        (imperfetto - background) quando all'improvviso e cominciato a
+        piovere (passato prossimo - action).
+      ko: >
+        이야기에서 불완료는 장면을 설정하고 (배경) 근과거는 줄거리를 진행
+        (전경). 예: Faceva bel tempo (불완료 - 배경) quando all'improvviso
+        e cominciato a piovere (근과거 - 행동).
+    exercises:
+      - question:
+          en: "Choose: Quando ero bambino, ___ (giocare) sempre nel parco."
+          ko: "선택: Quando ero bambino, ___ (giocare) sempre nel parco."
+        answer: "giocavo (imperfetto)"
+        explanation:
+          en: "Habitual past action (always playing as a child) requires imperfetto."
+          ko: "습관적 과거 행동 (어릴 때 항상 놀았다)은 불완료를 요구."
+      - question:
+          en: "Choose: Ieri ___ (comprare) un libro nuovo."
+          ko: "선택: Ieri ___ (comprare) un libro nuovo."
+        answer: "ho comprato (passato prossimo)"
+        explanation:
+          en: "Completed action at a specific time (yesterday) requires passato prossimo."
+          ko: "특정 시점(어제)에 완료된 행동은 근과거를 요구."
+
+  # ============================================================
+  # 3. CONGIUNTIVO TRIGGERS
+  # ============================================================
+  congiuntivo_triggers:
+    id: congiuntivo_triggers
+    label:
+      en: "Congiuntivo Triggers (Subjunctive)"
+      ko: "접속법 트리거"
+    category: mood
+    cefr: B1
+    description:
+      en: "The congiuntivo (subjunctive) mood is triggered in subordinate clauses by specific categories of expressions in the main clause. Italian uses the subjunctive more frequently than most Romance languages."
+      ko: "접속법은 주절에 있는 특정 범주의 표현에 의해 종속절에서 발동. 이탈리아어는 대부분의 로맨스 언어보다 접속법을 더 자주 사용."
+    trigger_categories:
+      - category:
+          en: "Opinion / Belief"
+          ko: "의견 / 믿음"
+        verbs: [pensare che, credere che, ritenere che, supporre che, immaginare che, parere che, sembrare che]
+        examples:
+          - "Penso che sia vero. (I think it's true.)"
+          - "Credo che abbia ragione. (I believe he's right.)"
+        contrast:
+          en: "Unlike Spanish, Italian uses subjunctive even with pensare/credere in affirmative. Only very colloquial speech uses indicative: Penso che ha ragione (informal) vs Penso che abbia ragione (standard)."
+          ko: "스페인어와 달리 이탈리아어는 긍정문에서도 pensare/credere 뒤에 접속법 사용. 매우 구어적 표현만 직설법 사용: Penso che ha ragione (비격식) vs Penso che abbia ragione (표준)."
+      - category:
+          en: "Emotion / Feeling"
+          ko: "감정 / 느낌"
+        verbs: [essere felice che, essere contento che, avere paura che, temere che, dispiacere che, sperare che, essere sorpreso che, preoccuparsi che]
+        examples:
+          - "Sono felice che tu stia bene. (I'm happy you're well.)"
+          - "Ho paura che piova. (I'm afraid it will rain.)"
+          - "Spero che tutto vada bene. (I hope everything goes well.)"
+      - category:
+          en: "Doubt / Uncertainty"
+          ko: "의심 / 불확실"
+        verbs: [dubitare che, non essere sicuro che, non sapere se]
+        examples:
+          - "Dubito che sappia la risposta. (I doubt he knows the answer.)"
+          - "Non sono sicuro che venga. (I'm not sure he's coming.)"
+      - category:
+          en: "Desire / Wish / Command"
+          ko: "욕구 / 소망 / 명령"
+        verbs: [volere che, desiderare che, preferire che, ordinare che, comandare che, esigere che, pretendere che, chiedere che, pregare che, insistere che, proporre che, suggerire che, consigliare che, raccomandare che, permettere che, vietare che, proibire che, impedire che]
+        examples:
+          - "Voglio che tu venga. (I want you to come.)"
+          - "Ti chiedo che tu faccia attenzione. (I ask that you pay attention.)"
+          - "Suggerisco che prendiate un taxi. (I suggest you take a taxi.)"
+      - category:
+          en: "Impersonal Expressions"
+          ko: "비인칭 표현"
+        expressions: ["e necessario che", "bisogna che", "e possibile che", "e probabile che", "e importante che", "e meglio che", "e un peccato che", "e strano che", "e incredibile che", "e urgente che", "e bene che", "e male che", "e difficile che", "e facile che", "conviene che", "basta che", "pare che", "sembra che", "puo darsi che"]
+        examples:
+          - "E importante che tu studi. (It's important that you study.)"
+          - "Bisogna che partiate subito. (You need to leave immediately.)"
+          - "E possibile che piova. (It's possible that it rains.)"
+        exception:
+          en: "Expressions of certainty do NOT trigger subjunctive: e certo che, e vero che, e ovvio che, e evidente che, e sicuro che, e chiaro che"
+          ko: "확실성 표현은 접속법을 유발하지 않음: e certo che, e vero che, e ovvio che, e evidente che, e sicuro che, e chiaro che"
+    subjunctive_conjunctions:
+      always_subjunctive:
+        label:
+          en: "Always require subjunctive"
+          ko: "항상 접속법 필요"
+        conjunctions:
+          - conjunction: "affinch\xE9"
+            meaning: {en: "so that / in order that", ko: "~하기 위해"}
+            example: "Te lo dico affinche tu lo sappia."
+          - conjunction: "bench\xE9"
+            meaning: {en: "although", ko: "비록 ~이지만"}
+            example: "Benche sia stanco, continuo a lavorare."
+          - conjunction: "sebben\xE9"
+            meaning: {en: "although", ko: "비록 ~이지만"}
+            example: "Sebbene piova, esco lo stesso."
+          - conjunction: prima che
+            meaning: {en: "before", ko: "~하기 전에"}
+            example: "Usciamo prima che piova."
+          - conjunction: senza che
+            meaning: {en: "without", ko: "~하지 않고"}
+            example: "E uscito senza che nessuno lo vedesse."
+          - conjunction: a meno che (non)
+            meaning: {en: "unless", ko: "~하지 않는 한"}
+            example: "Vengo a meno che non piova."
+          - conjunction: "purch\xE9"
+            meaning: {en: "provided that", ko: "~하는 한"}
+            example: "Ti aiuto purche tu faccia il tuo dovere."
+          - conjunction: nonostante
+            meaning: {en: "despite / in spite of", ko: "~에도 불구하고"}
+            example: "Nonostante faccia freddo, esco senza giacca."
+          - conjunction: a condizione che
+            meaning: {en: "on condition that", ko: "~라는 조건으로"}
+            example: "Vado a condizione che venga anche tu."
+          - conjunction: nel caso che
+            meaning: {en: "in case", ko: "~할 경우에"}
+            example: "Porta l'ombrello nel caso che piova."
+      indicative_or_subjunctive:
+        label:
+          en: "Indicative (known/past) or Subjunctive (unknown/future)"
+          ko: "직설법 (알려진/과거) 또는 접속법 (알려지지 않은/미래)"
+        conjunctions:
+          - conjunction: quando
+            meaning: {en: "when", ko: "~할 때"}
+            note:
+              en: "Generally indicative. Subjunctive only in rare literary style."
+              ko: "일반적으로 직설법. 접속법은 드문 문학체에서만."
+          - conjunction: anche se
+            meaning: {en: "even if / even though", ko: "비록 ~이더라도"}
+            indicative: "Anche se piove, esco. (Even though it's raining, I go out - fact.)"
+            subjunctive: "Anche se piovesse, uscirei. (Even if it rained, I would go out - hypothetical.)"
+          - conjunction: dopo che
+            meaning: {en: "after", ko: "~한 후에"}
+            note:
+              en: "Usually indicative: Dopo che e arrivato, abbiamo mangiato. Subjunctive rare."
+              ko: "보통 직설법: Dopo che e arrivato, abbiamo mangiato. 접속법은 드묾."
+    exercises:
+      - question:
+          en: "Fill in: Penso che lui ___ (essere) intelligente."
+          ko: "빈칸 채우기: Penso che lui ___ (essere) intelligente."
+        answer: "sia"
+        explanation:
+          en: "Pensare che triggers congiuntivo presente."
+          ko: "Pensare che는 접속법 현재를 유발."
+      - question:
+          en: "Fill in: E necessario che voi ___ (partire) subito."
+          ko: "빈칸 채우기: E necessario che voi ___ (partire) subito."
+        answer: "partiate"
+        explanation:
+          en: "Impersonal expression e necessario che triggers congiuntivo presente."
+          ko: "비인칭 표현 e necessario che는 접속법 현재를 유발."
+
+  # ============================================================
+  # 4. PERIODO IPOTETICO (Conditional Sentences)
+  # ============================================================
+  periodo_ipotetico:
+    id: periodo_ipotetico
+    label:
+      en: "Periodo Ipotetico (If Clauses)"
+      ko: "가정문 (조건절)"
+    category: conditionals
+    cefr: B2
+    description:
+      en: "Italian conditional sentences (periodo ipotetico) follow three main types with strict tense sequences."
+      ko: "이탈리아어 조건문(periodo ipotetico)은 엄격한 시제 순서를 따르는 세 가지 주요 유형으로 나뉨."
+    types:
+      - type: 1
+        name:
+          en: "Realta (Reality / Certainty)"
+          ko: "현실 (현실적 / 확실한)"
+        cefr: A2
+        formula: "Se + presente indicativo -> presente / futuro / imperativo"
+        description:
+          en: "For conditions that are real, likely, or factual"
+          ko: "현실적이거나, 사실적인 조건"
+        examples:
+          - se_clause: "Se piove"
+            result: "resto a casa."
+            translation:
+              en: "If it rains, I stay home."
+              ko: "비가 오면, 집에 있어."
+          - se_clause: "Se studi"
+            result: "passerai l'esame."
+            translation:
+              en: "If you study, you'll pass the exam."
+              ko: "공부하면, 시험에 합격할 거야."
+          - se_clause: "Se hai fame"
+            result: "mangia qualcosa."
+            translation:
+              en: "If you're hungry, eat something."
+              ko: "배고프면, 뭔가 먹어."
+      - type: 2
+        name:
+          en: "Possibilita (Possibility / Hypothesis)"
+          ko: "가능성 (가정적)"
+        cefr: B2
+        formula: "Se + congiuntivo imperfetto -> condizionale presente"
+        description:
+          en: "For conditions that are unlikely, hypothetical, or contrary to present fact"
+          ko: "가능성이 낮거나, 가정적이거나, 현재 사실에 반하는 조건"
+        examples:
+          - se_clause: "Se avessi tempo"
+            result: "viaggerei per il mondo."
+            translation:
+              en: "If I had time, I would travel the world."
+              ko: "시간이 있으면, 세계 여행을 할 텐데."
+          - se_clause: "Se fossi in te"
+            result: "studierei di piu."
+            translation:
+              en: "If I were you, I would study more."
+              ko: "내가 너라면, 더 공부할 텐데."
+          - se_clause: "Se potessi"
+            result: "verrei volentieri."
+            translation:
+              en: "If I could, I would gladly come."
+              ko: "할 수 있다면, 기꺼이 갈 텐데."
+      - type: 3
+        name:
+          en: "Impossibilita (Impossibility / Past contrary-to-fact)"
+          ko: "불가능 (과거 반사실적)"
+        cefr: B2
+        formula: "Se + congiuntivo trapassato -> condizionale passato"
+        description:
+          en: "For conditions that are impossible because they refer to the past and cannot be changed"
+          ko: "과거를 언급하므로 변경할 수 없어 불가능한 조건"
+        examples:
+          - se_clause: "Se avessi studiato"
+            result: "avrei superato l'esame."
+            translation:
+              en: "If I had studied, I would have passed the exam."
+              ko: "공부했더라면, 시험에 합격했을 텐데."
+          - se_clause: "Se fossi venuto"
+            result: "ti saresti divertito."
+            translation:
+              en: "If you had come, you would have had fun."
+              ko: "왔더라면, 재미있었을 텐데."
+    mixed_types:
+      en: "Type 2/3 can mix: Se avessi studiato di piu (Type 3 - past), ora sarei medico (Type 2 - present result). This is called 'periodo ipotetico misto'."
+      ko: "제2/3유형을 혼합할 수 있음: Se avessi studiato di piu (제3유형 - 과거), ora sarei medico (제2유형 - 현재 결과). 이를 '혼합 가정문'이라 함."
+    common_errors:
+      en: >
+        Common error: using condizionale after se.
+        WRONG: Se avrei tempo... / Se sarei ricco...
+        CORRECT: Se avessi tempo... / Se fossi ricco...
+        The condizionale goes ONLY in the result clause, never after se.
+      ko: >
+        흔한 오류: se 뒤에 조건법 사용.
+        틀림: Se avrei tempo... / Se sarei ricco...
+        맞음: Se avessi tempo... / Se fossi ricco...
+        조건법은 오직 결과절에만, se 뒤에는 절대 사용하지 않음.
+    exercises:
+      - question:
+          en: "Fill in (Type 2): Se ___ (avere) piu soldi, ___ (comprare) una casa."
+          ko: "빈칸 채우기 (제2유형): Se ___ (avere) piu soldi, ___ (comprare) una casa."
+        answer: "avessi ... comprerei"
+        explanation:
+          en: "Type 2: se + congiuntivo imperfetto, result + condizionale presente."
+          ko: "제2유형: se + 접속법 불완료, 결과 + 현재 조건법."
+      - question:
+          en: "Fill in (Type 3): Se ___ (studiare), ___ (superare) l'esame."
+          ko: "빈칸 채우기 (제3유형): Se ___ (studiare), ___ (superare) l'esame."
+        answer: "avessi studiato ... avrei superato"
+        explanation:
+          en: "Type 3: se + congiuntivo trapassato, result + condizionale passato."
+          ko: "제3유형: se + 접속법 대과거, 결과 + 과거 조건법."
+
+  # ============================================================
+  # 5. CI and NE
+  # ============================================================
+  ci_and_ne:
+    id: ci_and_ne
+    label:
+      en: "CI and NE (Particles)"
+      ko: "CI와 NE (소사)"
+    category: pronouns
+    cefr: A2
+    description:
+      en: "CI and NE are versatile particles that replace prepositional phrases, locations, and partitive expressions. Mastering them is essential for natural Italian."
+      ko: "CI와 NE는 전치사구, 장소, 부분 표현을 대체하는 다용도 소사. 자연스러운 이탈리아어에 필수적."
+    ci_uses:
+      label:
+        en: "CI - there, to it, about it"
+        ko: "CI - 거기, 그것에, 그것에 관해"
+      rules:
+        - rule:
+            en: "Location/place (there, here, to there)"
+            ko: "장소 (거기, 여기, 거기로)"
+          example: "Vai a Roma? Si, ci vado domani. (Are you going to Rome? Yes, I'm going there tomorrow.)"
+        - rule:
+            en: "c'e / ci sono (there is / there are)"
+            ko: "c'e / ci sono (~가 있다)"
+          example: "C'e un problema. Ci sono molte persone."
+        - rule:
+            en: "Replaces a + noun/clause (to it, about it)"
+            ko: "a + 명사/절을 대체 (그것에, 그것에 관해)"
+          example: "Credi a questa storia? Si, ci credo. (Do you believe this story? Yes, I believe it.)"
+        - rule:
+            en: "Replaces in + noun (in it)"
+            ko: "in + 명사를 대체 (그 안에)"
+          example: "Vivi in Italia? Si, ci vivo. (Do you live in Italy? Yes, I live there.)"
+        - rule:
+            en: "Fixed expressions with CI"
+            ko: "CI가 포함된 고정 표현"
+          expressions:
+            - "volerci: Ci vuole un'ora. (It takes an hour.)"
+            - "metterci: Ci metto dieci minuti. (It takes me ten minutes.)"
+            - "farcela: Non ce la faccio! (I can't do it!)"
+            - "entrarci: Questo non c'entra. (This has nothing to do with it.)"
+            - "averci: Ce l'ho. (I have it.)"
+            - "starci: Ci sto! (I'm in! / Count me in!)"
+    ne_uses:
+      label:
+        en: "NE - of it/them, from there, about it"
+        ko: "NE - 그것의, 거기서, 그것에 관해"
+      rules:
+        - rule:
+            en: "Partitive (of it, of them, some)"
+            ko: "부분 (그것의, 그들의, 일부)"
+          example: "Vuoi del pane? Si, ne voglio un po'. (Do you want bread? Yes, I want some.)"
+        - rule:
+            en: "Quantity (replaces noun after a number/quantity)"
+            ko: "양 (수량 뒤의 명사를 대체)"
+          example: "Quanti libri hai? Ne ho tre. (How many books? I have three of them.)"
+        - rule:
+            en: "From there (replaces da + place)"
+            ko: "거기서 (da + 장소를 대체)"
+          example: "Vieni dal cinema? Si, ne vengo adesso. (Are you coming from the cinema? Yes, I'm coming from there now.)"
+        - rule:
+            en: "About it (replaces di + topic)"
+            ko: "그것에 관해 (di + 주제를 대체)"
+          example: "Parliamo del problema? Si, ne parliamo. (Shall we talk about the problem? Yes, let's talk about it.)"
+        - rule:
+            en: "Fixed expressions with NE"
+            ko: "NE가 포함된 고정 표현"
+          expressions:
+            - "andarsene: Me ne vado. (I'm leaving.)"
+            - "valerne la pena: Ne vale la pena. (It's worth it.)"
+            - "non poterne piu: Non ne posso piu! (I can't take it anymore!)"
+            - "farne a meno: Non posso farne a meno. (I can't do without it.)"
+    position_rules:
+      en: >
+        CI and NE go BEFORE conjugated verbs: Ci vado. Ne voglio.
+        They ATTACH to infinitives (dropping final -e): andarci, volerne.
+        They ATTACH to gerunds: andandoci, volendone.
+        They ATTACH to affirmative imperatives (tu/noi/voi): vacci!, parlane!
+        They go BEFORE Lei imperatives: ci vada, ne parli.
+        With modal verbs: before the modal OR attached to infinitive:
+        Ci posso andare / Posso andarci.
+      ko: >
+        CI와 NE는 활용 동사 앞에 위치: Ci vado. Ne voglio.
+        부정사에 붙음 (마지막 -e 탈락): andarci, volerne.
+        현재분사에 붙음: andandoci, volendone.
+        긍정 명령형(tu/noi/voi)에 붙음: vacci!, parlane!
+        Lei 명령형 앞에 위치: ci vada, ne parli.
+        조동사와: 조동사 앞 또는 부정사에 붙임:
+        Ci posso andare / Posso andarci.
+    agreement_with_ne:
+      en: "When NE is used as partitive with compound tenses (avere), the past participle agrees with what NE replaces: Quante mele hai comprato? Ne ho comprate tre."
+      ko: "NE가 복합 시제(avere)에서 부분으로 사용될 때, 과거분사는 NE가 대체하는 것과 일치: Quante mele hai comprato? Ne ho comprate tre."
+    exercises:
+      - question:
+          en: "Replace: Vai al cinema? Si, ___ vado."
+          ko: "대체: Vai al cinema? Si, ___ vado."
+        answer: "ci"
+        explanation:
+          en: "CI replaces 'al cinema' (a + place)."
+          ko: "CI는 'al cinema' (a + 장소)를 대체."
+      - question:
+          en: "Replace: Quanti fratelli hai? ___ ho due."
+          ko: "대체: Quanti fratelli hai? ___ ho due."
+        answer: "Ne"
+        explanation:
+          en: "NE replaces the partitive 'di fratelli' (of brothers) with quantity."
+          ko: "NE는 수량과 함께 'di fratelli' (형제의)를 대체."
+
+  # ============================================================
+  # 6. COMBINED PRONOUNS (Pronomi Combinati)
+  # ============================================================
+  combined_pronouns:
+    id: combined_pronouns
+    label:
+      en: "Combined Pronouns (Pronomi Combinati)"
+      ko: "결합 대명사 (복합 대명사)"
+    category: pronouns
+    cefr: B1
+    description:
+      en: "When both an indirect object pronoun and a direct object pronoun (or NE) appear together, they combine into specific forms. The order is always: indirect + direct."
+      ko: "간접목적격 대명사와 직접목적격 대명사(또는 NE)가 함께 나타날 때, 특정 형태로 결합. 순서는 항상: 간접 + 직접."
+    combination_table:
+      header:
+        indirect: [mi, ti, gli/le/Le, ci, vi, gli (loro)]
+        direct: [lo, la, li, le, ne]
+      combinations:
+        mi:
+          lo: me lo
+          la: me la
+          li: me li
+          le: me le
+          ne: me ne
+        ti:
+          lo: te lo
+          la: te la
+          li: te li
+          le: te le
+          ne: te ne
+        gli_le_Le:
+          lo: glielo
+          la: gliela
+          li: glieli
+          le: gliele
+          ne: gliene
+        ci:
+          lo: ce lo
+          la: ce la
+          li: ce li
+          le: ce le
+          ne: ce ne
+        vi:
+          lo: ve lo
+          la: ve la
+          li: ve li
+          le: ve le
+          ne: ve ne
+    spelling_rules:
+      en: >
+        1. mi/ti/ci/vi change -i to -e: mi+lo = me lo, ti+la = te la.
+        2. gli (to him) + any direct pronoun = one word: gli+lo = glielo.
+        3. le (to her) and Le (formal) also become glie-: le+lo = glielo.
+        4. gli (to them, replacing loro) follows the same pattern: glielo.
+        5. All glie- forms are written as one word: glielo, gliela, glieli, gliele, gliene.
+      ko: >
+        1. mi/ti/ci/vi는 -i를 -e로 변경: mi+lo = me lo, ti+la = te la.
+        2. gli (그에게) + 직접 대명사 = 한 단어: gli+lo = glielo.
+        3. le (그녀에게)와 Le (경어)도 glie-가 됨: le+lo = glielo.
+        4. gli (그들에게, loro 대체)도 같은 패턴: glielo.
+        5. 모든 glie- 형태는 한 단어로 표기: glielo, gliela, glieli, gliele, gliene.
+    position:
+      en: >
+        Combined pronouns follow the same position rules as single pronouns:
+        Before conjugated verbs: Me lo dai? (Will you give it to me?)
+        Attached to infinitives: Puoi darmelo? / Me lo puoi dare?
+        Attached to gerunds: Dandoglielo, ... (Giving it to him, ...)
+        Attached to affirmative imperatives: Dammelo! Daglielo!
+        Before Lei imperatives: Me lo dia! Glielo dica!
+        Before negative imperatives or attached to infinitive: Non me lo dare / Non darmelo.
+      ko: >
+        결합 대명사는 단일 대명사와 같은 위치 규칙을 따름:
+        활용 동사 앞: Me lo dai? (그것을 나에게 줄래?)
+        부정사에 붙음: Puoi darmelo? / Me lo puoi dare?
+        현재분사에 붙음: Dandoglielo, ... (그에게 그것을 주면서, ...)
+        긍정 명령형에 붙음: Dammelo! Daglielo!
+        Lei 명령형 앞: Me lo dia! Glielo dica!
+        부정 명령형 앞 또는 부정사에 붙음: Non me lo dare / Non darmelo.
+    examples:
+      - context: {en: "Giving a book to me", ko: "나에게 책을 주는 것"}
+        full: "Mi dai il libro?"
+        combined: "Me lo dai?"
+        translation: {en: "Will you give it to me?", ko: "그것을 나에게 줄래?"}
+      - context: {en: "Telling her the truth", ko: "그녀에게 진실을 말하는 것"}
+        full: "Le dico la verita."
+        combined: "Gliela dico."
+        translation: {en: "I'll tell it to her.", ko: "그녀에게 그것을 말할게."}
+      - context: {en: "Sending them to us", ko: "우리에게 그것들을 보내는 것"}
+        full: "Ci mandano i documenti."
+        combined: "Ce li mandano."
+        translation: {en: "They send them to us.", ko: "그들이 우리에게 그것들을 보낸다."}
+    exercises:
+      - question:
+          en: "Combine: Mi dai la penna? -> ___ dai?"
+          ko: "결합: Mi dai la penna? -> ___ dai?"
+        answer: "Me la"
+        explanation:
+          en: "mi (to me) + la (the pen) = me la."
+          ko: "mi (나에게) + la (펜) = me la."
+      - question:
+          en: "Combine: Gli dico la verita. -> ___ dico."
+          ko: "결합: Gli dico la verita. -> ___ dico."
+        answer: "Gliela"
+        explanation:
+          en: "gli (to him) + la (the truth) = gliela (one word)."
+          ko: "gli (그에게) + la (진실) = gliela (한 단어)."
+
+  # ============================================================
+  # 7. ARTICULATED PREPOSITIONS (Preposizioni Articolate)
+  # ============================================================
+  articulated_prepositions:
+    id: articulated_prepositions
+    label:
+      en: "Articulated Prepositions (Preposizioni Articolate)"
+      ko: "관사 결합 전치사 (관사 전치사)"
+    category: prepositions
+    cefr: A1
+    description:
+      en: "In Italian, the prepositions di, a, da, in, and su combine (fuse) with the definite article to form a single word. This is mandatory, not optional."
+      ko: "이탈리아어에서 전치사 di, a, da, in, su는 정관사와 결합(융합)하여 한 단어를 형성. 이것은 필수이며 선택이 아님."
+    combination_table:
+      articles: [il, lo, la, "l'", i, gli, le]
+      prepositions:
+        di:
+          il: del
+          lo: dello
+          la: della
+          "l'": dell'
+          i: dei
+          gli: degli
+          le: delle
+        a:
+          il: al
+          lo: allo
+          la: alla
+          "l'": all'
+          i: ai
+          gli: agli
+          le: alle
+        da:
+          il: dal
+          lo: dallo
+          la: dalla
+          "l'": dall'
+          i: dai
+          gli: dagli
+          le: dalle
+        in:
+          il: nel
+          lo: nello
+          la: nella
+          "l'": nell'
+          i: nei
+          gli: negli
+          le: nelle
+        su:
+          il: sul
+          lo: sullo
+          la: sulla
+          "l'": sull'
+          i: sui
+          gli: sugli
+          le: sulle
+    non_combining:
+      en: >
+        CON: rarely combines. col (con + il) and coi (con + i) are
+        old-fashioned and regional; prefer con il, con i, con lo, etc.
+        PER, TRA, FRA: never combine with articles. Always written
+        separately: per il, tra i, fra le.
+      ko: >
+        CON: 거의 결합하지 않음. col (con + il)과 coi (con + i)는
+        구식이며 지역적; con il, con i, con lo 등을 선호.
+        PER, TRA, FRA: 관사와 결합하지 않음. 항상 분리 표기:
+        per il, tra i, fra le.
+    usage_examples:
+      di:
+        meaning: {en: "of, from, about", ko: "~의, ~에서, ~에 관해"}
+        examples:
+          - "Il libro del professore. (The professor's book.)"
+          - "La capitale dell'Italia. (The capital of Italy.)"
+          - "Le chiavi della macchina. (The car keys.)"
+      a:
+        meaning: {en: "to, at, in", ko: "~에, ~에서, ~으로"}
+        examples:
+          - "Vado al cinema. (I go to the cinema.)"
+          - "Sono alla stazione. (I'm at the station.)"
+          - "Abito agli Uffizi. (I live near the Uffizi.)"
+      da:
+        meaning: {en: "from, by, at someone's place, since", ko: "~에서, ~에 의해, ~의 집에, ~부터"}
+        examples:
+          - "Vengo dal lavoro. (I come from work.)"
+          - "Vado dal dottore. (I go to the doctor's.)"
+          - "Dalla finestra si vede il mare. (From the window you can see the sea.)"
+      in:
+        meaning: {en: "in, into, to", ko: "~에, ~안에, ~으로"}
+        examples:
+          - "Il gatto e nel giardino. (The cat is in the garden.)"
+          - "Metto i libri nello zaino. (I put the books in the backpack.)"
+          - "Nelle citta italiane... (In Italian cities...)"
+      su:
+        meaning: {en: "on, upon, about", ko: "~위에, ~에 관해"}
+        examples:
+          - "Il libro e sul tavolo. (The book is on the table.)"
+          - "Un articolo sulla politica. (An article about politics.)"
+          - "Sugli scaffali ci sono molti libri. (On the shelves there are many books.)"
+    article_selection_reminder:
+      en: >
+        Remember which article to use:
+        il - masc. sg. before most consonants (il libro)
+        lo - masc. sg. before s+consonant, z, gn, ps, x, y (lo studente, lo zaino)
+        la - fem. sg. (la casa)
+        l' - masc./fem. sg. before vowels (l'amico, l'amica)
+        i - masc. pl. before most consonants (i libri)
+        gli - masc. pl. before vowels, s+consonant, z, gn, ps, x, y (gli amici, gli studenti)
+        le - fem. pl. (le case)
+      ko: >
+        어떤 관사를 사용할지 기억:
+        il - 남성 단수, 대부분 자음 앞 (il libro)
+        lo - 남성 단수, s+자음, z, gn, ps, x, y 앞 (lo studente, lo zaino)
+        la - 여성 단수 (la casa)
+        l' - 남성/여성 단수, 모음 앞 (l'amico, l'amica)
+        i - 남성 복수, 대부분 자음 앞 (i libri)
+        gli - 남성 복수, 모음, s+자음, z, gn, ps, x, y 앞 (gli amici, gli studenti)
+        le - 여성 복수 (le case)
+    exercises:
+      - question:
+          en: "Combine: Vado a + il cinema -> Vado ___ cinema."
+          ko: "결합: Vado a + il cinema -> Vado ___ cinema."
+        answer: "al"
+        explanation:
+          en: "a + il = al"
+          ko: "a + il = al"
+      - question:
+          en: "Combine: Il libro di + la professoressa -> Il libro ___ professoressa."
+          ko: "결합: Il libro di + la professoressa -> Il libro ___ professoressa."
+        answer: "della"
+        explanation:
+          en: "di + la = della"
+          ko: "di + la = della"
+      - question:
+          en: "Combine: I giocattoli sono in + gli armadi -> I giocattoli sono ___ armadi."
+          ko: "결합: I giocattoli sono in + gli armadi -> I giocattoli sono ___ armadi."
+        answer: "negli"
+        explanation:
+          en: "in + gli = negli"
+          ko: "in + gli = negli"

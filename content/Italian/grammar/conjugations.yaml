@@ -1,0 +1,1436 @@
+# Italian Verb Conjugation Paradigms
+# All tenses: presente, passato_remoto, imperfetto, futuro_semplice,
+#             condizionale_presente, congiuntivo_presente, congiuntivo_imperfetto
+
+verbs:
+  # ============================================================
+  # REGULAR VERBS
+  # ============================================================
+  parlare:
+    infinitive: parlare
+    type: regular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to speak
+      ko: 말하다
+    past_participle: parlato
+    gerund: parlando
+    tenses:
+      presente:
+        io: parlo
+        tu: parli
+        lui: parla
+        noi: parliamo
+        voi: parlate
+        loro: parlano
+      passato_remoto:
+        io: parlai
+        tu: parlasti
+        lui: "parl\xF2"
+        noi: parlammo
+        voi: parlaste
+        loro: parlarono
+      imperfetto:
+        io: parlavo
+        tu: parlavi
+        lui: parlava
+        noi: parlavamo
+        voi: parlavate
+        loro: parlavano
+      futuro_semplice:
+        io: "parler\xF2"
+        tu: parlerai
+        lui: "parler\xE0"
+        noi: parleremo
+        voi: parlerete
+        loro: parleranno
+      condizionale_presente:
+        io: parlerei
+        tu: parleresti
+        lui: parlerebbe
+        noi: parleremmo
+        voi: parlereste
+        loro: parlerebbero
+      congiuntivo_presente:
+        io: parli
+        tu: parli
+        lui: parli
+        noi: parliamo
+        voi: parliate
+        loro: parlino
+      congiuntivo_imperfetto:
+        io: parlassi
+        tu: parlassi
+        lui: parlasse
+        noi: parlassimo
+        voi: parlaste
+        loro: parlassero
+    irregular_imperative:
+      tu: parla
+      Lei: parli
+      noi: parliamo
+      voi: parlate
+
+  mangiare:
+    infinitive: mangiare
+    type: regular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to eat
+      ko: 먹다
+    past_participle: mangiato
+    gerund: mangiando
+    tenses:
+      presente:
+        io: mangio
+        tu: mangi
+        lui: mangia
+        noi: mangiamo
+        voi: mangiate
+        loro: mangiano
+      passato_remoto:
+        io: mangiai
+        tu: mangiasti
+        lui: "mangi\xF2"
+        noi: mangiammo
+        voi: mangiaste
+        loro: mangiarono
+      imperfetto:
+        io: mangiavo
+        tu: mangiavi
+        lui: mangiava
+        noi: mangiavamo
+        voi: mangiavate
+        loro: mangiavano
+      futuro_semplice:
+        io: "manger\xF2"
+        tu: mangerai
+        lui: "manger\xE0"
+        noi: mangeremo
+        voi: mangerete
+        loro: mangeranno
+      condizionale_presente:
+        io: mangerei
+        tu: mangeresti
+        lui: mangerebbe
+        noi: mangeremmo
+        voi: mangereste
+        loro: mangerebbero
+      congiuntivo_presente:
+        io: mangi
+        tu: mangi
+        lui: mangi
+        noi: mangiamo
+        voi: mangiate
+        loro: mangino
+      congiuntivo_imperfetto:
+        io: mangiassi
+        tu: mangiassi
+        lui: mangiasse
+        noi: mangiassimo
+        voi: mangiaste
+        loro: mangiassero
+    irregular_imperative:
+      tu: mangia
+      Lei: mangi
+      noi: mangiamo
+      voi: mangiate
+    notes:
+      en: "Verbs ending in -iare (mangiare, cominciare) drop the -i- before endings starting with -i or -e to avoid double i: mangi (not mangii), mangeremo (not mangieremo)."
+      ko: "-iare로 끝나는 동사(mangiare, cominciare)는 -i 또는 -e로 시작하는 어미 앞에서 -i-를 탈락: mangi (mangii 아님), mangeremo (mangieremo 아님)."
+
+  credere:
+    infinitive: credere
+    type: regular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to believe
+      ko: 믿다
+    past_participle: creduto
+    gerund: credendo
+    tenses:
+      presente:
+        io: credo
+        tu: credi
+        lui: crede
+        noi: crediamo
+        voi: credete
+        loro: credono
+      passato_remoto:
+        io: credei
+        tu: credesti
+        lui: "cred\xE9"
+        noi: credemmo
+        voi: credeste
+        loro: crederono
+      imperfetto:
+        io: credevo
+        tu: credevi
+        lui: credeva
+        noi: credevamo
+        voi: credevate
+        loro: credevano
+      futuro_semplice:
+        io: "creder\xF2"
+        tu: crederai
+        lui: "creder\xE0"
+        noi: crederemo
+        voi: crederete
+        loro: crederanno
+      condizionale_presente:
+        io: crederei
+        tu: crederesti
+        lui: crederebbe
+        noi: crederemmo
+        voi: credereste
+        loro: crederebbero
+      congiuntivo_presente:
+        io: creda
+        tu: creda
+        lui: creda
+        noi: crediamo
+        voi: crediate
+        loro: credano
+      congiuntivo_imperfetto:
+        io: credessi
+        tu: credessi
+        lui: credesse
+        noi: credessimo
+        voi: credeste
+        loro: credessero
+    irregular_imperative:
+      tu: credi
+      Lei: creda
+      noi: crediamo
+      voi: credete
+
+  dormire:
+    infinitive: dormire
+    type: regular
+    group: "-IRE"
+    stem_change: null
+    meaning:
+      en: to sleep
+      ko: 자다
+    past_participle: dormito
+    gerund: dormendo
+    tenses:
+      presente:
+        io: dormo
+        tu: dormi
+        lui: dorme
+        noi: dormiamo
+        voi: dormite
+        loro: dormono
+      passato_remoto:
+        io: dormii
+        tu: dormisti
+        lui: "dorm\xEC"
+        noi: dormimmo
+        voi: dormiste
+        loro: dormirono
+      imperfetto:
+        io: dormivo
+        tu: dormivi
+        lui: dormiva
+        noi: dormivamo
+        voi: dormivate
+        loro: dormivano
+      futuro_semplice:
+        io: "dormir\xF2"
+        tu: dormirai
+        lui: "dormir\xE0"
+        noi: dormiremo
+        voi: dormirete
+        loro: dormiranno
+      condizionale_presente:
+        io: dormirei
+        tu: dormiresti
+        lui: dormirebbe
+        noi: dormiremmo
+        voi: dormireste
+        loro: dormirebbero
+      congiuntivo_presente:
+        io: dorma
+        tu: dorma
+        lui: dorma
+        noi: dormiamo
+        voi: dormiate
+        loro: dormano
+      congiuntivo_imperfetto:
+        io: dormissi
+        tu: dormissi
+        lui: dormisse
+        noi: dormissimo
+        voi: dormiste
+        loro: dormissero
+    irregular_imperative:
+      tu: dormi
+      Lei: dorma
+      noi: dormiamo
+      voi: dormite
+
+  capire:
+    infinitive: capire
+    type: regular
+    group: "-IRE (-ISC-)"
+    stem_change: null
+    meaning:
+      en: to understand
+      ko: 이해하다
+    past_participle: capito
+    gerund: capendo
+    tenses:
+      presente:
+        io: capisco
+        tu: capisci
+        lui: capisce
+        noi: capiamo
+        voi: capite
+        loro: capiscono
+      passato_remoto:
+        io: capii
+        tu: capisti
+        lui: "cap\xEC"
+        noi: capimmo
+        voi: capiste
+        loro: capirono
+      imperfetto:
+        io: capivo
+        tu: capivi
+        lui: capiva
+        noi: capivamo
+        voi: capivate
+        loro: capivano
+      futuro_semplice:
+        io: "capir\xF2"
+        tu: capirai
+        lui: "capir\xE0"
+        noi: capiremo
+        voi: capirete
+        loro: capiranno
+      condizionale_presente:
+        io: capirei
+        tu: capiresti
+        lui: capirebbe
+        noi: capiremmo
+        voi: capireste
+        loro: capirebbero
+      congiuntivo_presente:
+        io: capisca
+        tu: capisca
+        lui: capisca
+        noi: capiamo
+        voi: capiate
+        loro: capiscano
+      congiuntivo_imperfetto:
+        io: capissi
+        tu: capissi
+        lui: capisse
+        noi: capissimo
+        voi: capiste
+        loro: capissero
+    irregular_imperative:
+      tu: capisci
+      Lei: capisca
+      noi: capiamo
+      voi: capite
+    notes:
+      en: "Many -IRE verbs insert -isc- between stem and ending in presente (io/tu/lui/loro), congiuntivo presente, and imperative (tu/Lei/loro). Examples: finire, preferire, pulire, spedire, costruire."
+      ko: "많은 -IRE 동사가 현재형(io/tu/lui/loro), 접속법 현재, 명령법(tu/Lei/loro)에서 어간과 어미 사이에 -isc-를 삽입. 예: finire, preferire, pulire, spedire, costruire."
+
+  # ============================================================
+  # KEY IRREGULAR VERBS
+  # ============================================================
+  essere:
+    infinitive: essere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to be
+      ko: ~이다
+    past_participle: stato
+    gerund: essendo
+    tenses:
+      presente:
+        io: sono
+        tu: sei
+        lui: "\xE8"
+        noi: siamo
+        voi: siete
+        loro: sono
+      passato_remoto:
+        io: fui
+        tu: fosti
+        lui: fu
+        noi: fummo
+        voi: foste
+        loro: furono
+      imperfetto:
+        io: ero
+        tu: eri
+        lui: era
+        noi: eravamo
+        voi: eravate
+        loro: erano
+      futuro_semplice:
+        io: "sar\xF2"
+        tu: sarai
+        lui: "sar\xE0"
+        noi: saremo
+        voi: sarete
+        loro: saranno
+      condizionale_presente:
+        io: sarei
+        tu: saresti
+        lui: sarebbe
+        noi: saremmo
+        voi: sareste
+        loro: sarebbero
+      congiuntivo_presente:
+        io: sia
+        tu: sia
+        lui: sia
+        noi: siamo
+        voi: siate
+        loro: siano
+      congiuntivo_imperfetto:
+        io: fossi
+        tu: fossi
+        lui: fosse
+        noi: fossimo
+        voi: foste
+        loro: fossero
+    irregular_imperative:
+      tu: sii
+      Lei: sia
+      noi: siamo
+      voi: siate
+    notes:
+      en: "ESSERE is the most irregular Italian verb. Used as auxiliary for intransitive/motion verbs and reflexive verbs in compound tenses. Past participle agrees with subject when using essere as auxiliary."
+      ko: "ESSERE는 가장 불규칙한 이탈리아어 동사. 복합 시제에서 자동사/이동 동사 및 재귀 동사의 조동사로 사용. essere를 조동사로 사용할 때 과거분사는 주어와 일치."
+
+  avere:
+    infinitive: avere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to have
+      ko: 가지다
+    past_participle: avuto
+    gerund: avendo
+    tenses:
+      presente:
+        io: ho
+        tu: hai
+        lui: ha
+        noi: abbiamo
+        voi: avete
+        loro: hanno
+      passato_remoto:
+        io: ebbi
+        tu: avesti
+        lui: ebbe
+        noi: avemmo
+        voi: aveste
+        loro: ebbero
+      imperfetto:
+        io: avevo
+        tu: avevi
+        lui: aveva
+        noi: avevamo
+        voi: avevate
+        loro: avevano
+      futuro_semplice:
+        io: "avr\xF2"
+        tu: avrai
+        lui: "avr\xE0"
+        noi: avremo
+        voi: avrete
+        loro: avranno
+      condizionale_presente:
+        io: avrei
+        tu: avresti
+        lui: avrebbe
+        noi: avremmo
+        voi: avreste
+        loro: avrebbero
+      congiuntivo_presente:
+        io: abbia
+        tu: abbia
+        lui: abbia
+        noi: abbiamo
+        voi: abbiate
+        loro: abbiano
+      congiuntivo_imperfetto:
+        io: avessi
+        tu: avessi
+        lui: avesse
+        noi: avessimo
+        voi: aveste
+        loro: avessero
+    irregular_imperative:
+      tu: abbi
+      Lei: abbia
+      noi: abbiamo
+      voi: abbiate
+    notes:
+      en: "AVERE is the auxiliary for transitive verbs in compound tenses. The h- in ho, hai, ha, hanno is silent but written to distinguish from o (or), ai (to the), a (to), anno (year)."
+      ko: "AVERE는 복합 시제에서 타동사의 조동사. ho, hai, ha, hanno의 h-는 묵음이지만 o(또는), ai(~에게), a(~에), anno(년)와 구별하기 위해 표기."
+
+  andare:
+    infinitive: andare
+    type: irregular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to go
+      ko: 가다
+    past_participle: andato
+    gerund: andando
+    tenses:
+      presente:
+        io: vado
+        tu: vai
+        lui: va
+        noi: andiamo
+        voi: andate
+        loro: vanno
+      passato_remoto:
+        io: andai
+        tu: andasti
+        lui: "and\xF2"
+        noi: andammo
+        voi: andaste
+        loro: andarono
+      imperfetto:
+        io: andavo
+        tu: andavi
+        lui: andava
+        noi: andavamo
+        voi: andavate
+        loro: andavano
+      futuro_semplice:
+        io: "andr\xF2"
+        tu: andrai
+        lui: "andr\xE0"
+        noi: andremo
+        voi: andrete
+        loro: andranno
+      condizionale_presente:
+        io: andrei
+        tu: andresti
+        lui: andrebbe
+        noi: andremmo
+        voi: andreste
+        loro: andrebbero
+      congiuntivo_presente:
+        io: vada
+        tu: vada
+        lui: vada
+        noi: andiamo
+        voi: andiate
+        loro: vadano
+      congiuntivo_imperfetto:
+        io: andassi
+        tu: andassi
+        lui: andasse
+        noi: andassimo
+        voi: andaste
+        loro: andassero
+    irregular_imperative:
+      tu: va'
+      Lei: vada
+      noi: andiamo
+      voi: andate
+    notes:
+      en: "Andare uses essere as auxiliary in compound tenses. Irregular in presente (vado/vai/va/vanno), futuro (andr-), condizionale (andr-), and congiuntivo presente (vada). Tu imperative is va' (with apostrophe) or vai."
+      ko: "Andare는 복합 시제에서 essere를 조동사로 사용. 현재(vado/vai/va/vanno), 미래(andr-), 조건법(andr-), 접속법 현재(vada)에서 불규칙. Tu 명령형은 va'(아포스트로피 포함) 또는 vai."
+
+  fare:
+    infinitive: fare
+    type: irregular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to do / to make
+      ko: 하다 / 만들다
+    past_participle: fatto
+    gerund: facendo
+    tenses:
+      presente:
+        io: faccio
+        tu: fai
+        lui: fa
+        noi: facciamo
+        voi: fate
+        loro: fanno
+      passato_remoto:
+        io: feci
+        tu: facesti
+        lui: fece
+        noi: facemmo
+        voi: faceste
+        loro: fecero
+      imperfetto:
+        io: facevo
+        tu: facevi
+        lui: faceva
+        noi: facevamo
+        voi: facevate
+        loro: facevano
+      futuro_semplice:
+        io: "far\xF2"
+        tu: farai
+        lui: "far\xE0"
+        noi: faremo
+        voi: farete
+        loro: faranno
+      condizionale_presente:
+        io: farei
+        tu: faresti
+        lui: farebbe
+        noi: faremmo
+        voi: fareste
+        loro: farebbero
+      congiuntivo_presente:
+        io: faccia
+        tu: faccia
+        lui: faccia
+        noi: facciamo
+        voi: facciate
+        loro: facciano
+      congiuntivo_imperfetto:
+        io: facessi
+        tu: facessi
+        lui: facesse
+        noi: facessimo
+        voi: faceste
+        loro: facessero
+    irregular_imperative:
+      tu: fa'
+      Lei: faccia
+      noi: facciamo
+      voi: fate
+    notes:
+      en: "Fare derives from Latin FACERE. Highly irregular: uses fac- stem in many forms. Imperfetto and congiuntivo imperfetto use facev-/facess- (from the old infinitive facere). Tu imperative is fa' or fai."
+      ko: "Fare는 라틴어 FACERE에서 파생. 매우 불규칙: 많은 형태에서 fac- 어간 사용. 불완료와 접속법 불완료는 facev-/facess- 사용 (옛 부정사 facere에서). Tu 명령형은 fa' 또는 fai."
+
+  dire:
+    infinitive: dire
+    type: irregular
+    group: "-IRE"
+    stem_change: null
+    meaning:
+      en: to say / to tell
+      ko: 말하다 / 이야기하다
+    past_participle: detto
+    gerund: dicendo
+    tenses:
+      presente:
+        io: dico
+        tu: dici
+        lui: dice
+        noi: diciamo
+        voi: dite
+        loro: dicono
+      passato_remoto:
+        io: dissi
+        tu: dicesti
+        lui: disse
+        noi: dicemmo
+        voi: diceste
+        loro: dissero
+      imperfetto:
+        io: dicevo
+        tu: dicevi
+        lui: diceva
+        noi: dicevamo
+        voi: dicevate
+        loro: dicevano
+      futuro_semplice:
+        io: "dir\xF2"
+        tu: dirai
+        lui: "dir\xE0"
+        noi: diremo
+        voi: direte
+        loro: diranno
+      condizionale_presente:
+        io: direi
+        tu: diresti
+        lui: direbbe
+        noi: diremmo
+        voi: direste
+        loro: direbbero
+      congiuntivo_presente:
+        io: dica
+        tu: dica
+        lui: dica
+        noi: diciamo
+        voi: diciate
+        loro: dicano
+      congiuntivo_imperfetto:
+        io: dicessi
+        tu: dicessi
+        lui: dicesse
+        noi: dicessimo
+        voi: diceste
+        loro: dicessero
+    irregular_imperative:
+      tu: di'
+      Lei: dica
+      noi: diciamo
+      voi: dite
+    notes:
+      en: "Dire derives from Latin DICERE. Uses dic- stem in most forms. Past participle is detto (irregular). Tu imperative is di' (with apostrophe)."
+      ko: "Dire는 라틴어 DICERE에서 파생. 대부분의 형태에서 dic- 어간 사용. 과거분사는 detto (불규칙). Tu 명령형은 di' (아포스트로피 포함)."
+
+  potere:
+    infinitive: potere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to be able to / can
+      ko: 할 수 있다
+    past_participle: potuto
+    gerund: potendo
+    tenses:
+      presente:
+        io: posso
+        tu: puoi
+        lui: "pu\xF2"
+        noi: possiamo
+        voi: potete
+        loro: possono
+      passato_remoto:
+        io: potei
+        tu: potesti
+        lui: "pot\xE9"
+        noi: potemmo
+        voi: poteste
+        loro: poterono
+      imperfetto:
+        io: potevo
+        tu: potevi
+        lui: poteva
+        noi: potevamo
+        voi: potevate
+        loro: potevano
+      futuro_semplice:
+        io: "potr\xF2"
+        tu: potrai
+        lui: "potr\xE0"
+        noi: potremo
+        voi: potrete
+        loro: potranno
+      condizionale_presente:
+        io: potrei
+        tu: potresti
+        lui: potrebbe
+        noi: potremmo
+        voi: potreste
+        loro: potrebbero
+      congiuntivo_presente:
+        io: possa
+        tu: possa
+        lui: possa
+        noi: possiamo
+        voi: possiate
+        loro: possano
+      congiuntivo_imperfetto:
+        io: potessi
+        tu: potessi
+        lui: potesse
+        noi: potessimo
+        voi: poteste
+        loro: potessero
+    irregular_imperative: null
+    notes:
+      en: "Potere is a modal verb with no imperative forms. Takes essere or avere as auxiliary depending on the main verb it accompanies. Irregular in presente (posso/puoi/puo/possono), futuro (potr-), and congiuntivo presente (possa)."
+      ko: "Potere는 명령형이 없는 조동사. 함께 사용되는 본동사에 따라 essere 또는 avere를 조동사로 취함. 현재(posso/puoi/puo/possono), 미래(potr-), 접속법 현재(possa)에서 불규칙."
+
+  volere:
+    infinitive: volere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to want
+      ko: 원하다
+    past_participle: voluto
+    gerund: volendo
+    tenses:
+      presente:
+        io: voglio
+        tu: vuoi
+        lui: vuole
+        noi: vogliamo
+        voi: volete
+        loro: vogliono
+      passato_remoto:
+        io: volli
+        tu: volesti
+        lui: volle
+        noi: volemmo
+        voi: voleste
+        loro: vollero
+      imperfetto:
+        io: volevo
+        tu: volevi
+        lui: voleva
+        noi: volevamo
+        voi: volevate
+        loro: volevano
+      futuro_semplice:
+        io: "vorr\xF2"
+        tu: vorrai
+        lui: "vorr\xE0"
+        noi: vorremo
+        voi: vorrete
+        loro: vorranno
+      condizionale_presente:
+        io: vorrei
+        tu: vorresti
+        lui: vorrebbe
+        noi: vorremmo
+        voi: vorreste
+        loro: vorrebbero
+      congiuntivo_presente:
+        io: voglia
+        tu: voglia
+        lui: voglia
+        noi: vogliamo
+        voi: vogliate
+        loro: vogliano
+      congiuntivo_imperfetto:
+        io: volessi
+        tu: volessi
+        lui: volesse
+        noi: volessimo
+        voi: voleste
+        loro: volessero
+    irregular_imperative: null
+    notes:
+      en: "Volere is a modal verb rarely used in imperative. Takes essere or avere as auxiliary depending on the main verb. Irregular in presente (voglio/vuoi/vuole/vogliono), passato remoto (volli/volle/vollero), futuro (vorr-), and congiuntivo presente (voglia)."
+      ko: "Volere는 명령법에서 거의 사용되지 않는 조동사. 본동사에 따라 essere 또는 avere를 조동사로 취함. 현재(voglio/vuoi/vuole/vogliono), 원과거(volli/volle/vollero), 미래(vorr-), 접속법 현재(voglia)에서 불규칙."
+
+  dovere:
+    infinitive: dovere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to have to / must
+      ko: ~해야 하다
+    past_participle: dovuto
+    gerund: dovendo
+    tenses:
+      presente:
+        io: devo
+        tu: devi
+        lui: deve
+        noi: dobbiamo
+        voi: dovete
+        loro: devono
+      passato_remoto:
+        io: dovei
+        tu: dovesti
+        lui: "dov\xE9"
+        noi: dovemmo
+        voi: doveste
+        loro: doverono
+      imperfetto:
+        io: dovevo
+        tu: dovevi
+        lui: doveva
+        noi: dovevamo
+        voi: dovevate
+        loro: dovevano
+      futuro_semplice:
+        io: "dovr\xF2"
+        tu: dovrai
+        lui: "dovr\xE0"
+        noi: dovremo
+        voi: dovrete
+        loro: dovranno
+      condizionale_presente:
+        io: dovrei
+        tu: dovresti
+        lui: dovrebbe
+        noi: dovremmo
+        voi: dovreste
+        loro: dovrebbero
+      congiuntivo_presente:
+        io: debba
+        tu: debba
+        lui: debba
+        noi: dobbiamo
+        voi: dobbiate
+        loro: debbano
+      congiuntivo_imperfetto:
+        io: dovessi
+        tu: dovessi
+        lui: dovesse
+        noi: dovessimo
+        voi: doveste
+        loro: dovessero
+    irregular_imperative: null
+    notes:
+      en: "Dovere is a modal verb with no imperative forms. Takes essere or avere as auxiliary depending on the main verb. Presente alternates: devo/debbo (io), devono/debbono (loro). Congiuntivo presente alternates: debba/deva."
+      ko: "Dovere는 명령형이 없는 조동사. 본동사에 따라 essere 또는 avere를 조동사로 취함. 현재 교체형: devo/debbo (io), devono/debbono (loro). 접속법 현재 교체형: debba/deva."
+
+  sapere:
+    infinitive: sapere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to know (facts/information)
+      ko: 알다 (사실/정보)
+    past_participle: saputo
+    gerund: sapendo
+    tenses:
+      presente:
+        io: so
+        tu: sai
+        lui: sa
+        noi: sappiamo
+        voi: sapete
+        loro: sanno
+      passato_remoto:
+        io: seppi
+        tu: sapesti
+        lui: seppe
+        noi: sapemmo
+        voi: sapeste
+        loro: seppero
+      imperfetto:
+        io: sapevo
+        tu: sapevi
+        lui: sapeva
+        noi: sapevamo
+        voi: sapevate
+        loro: sapevano
+      futuro_semplice:
+        io: "sapr\xF2"
+        tu: saprai
+        lui: "sapr\xE0"
+        noi: sapremo
+        voi: saprete
+        loro: sapranno
+      condizionale_presente:
+        io: saprei
+        tu: sapresti
+        lui: saprebbe
+        noi: sapremmo
+        voi: sapreste
+        loro: saprebbero
+      congiuntivo_presente:
+        io: sappia
+        tu: sappia
+        lui: sappia
+        noi: sappiamo
+        voi: sappiate
+        loro: sappiano
+      congiuntivo_imperfetto:
+        io: sapessi
+        tu: sapessi
+        lui: sapesse
+        noi: sapessimo
+        voi: sapeste
+        loro: sapessero
+    irregular_imperative:
+      tu: sappi
+      Lei: sappia
+      noi: sappiamo
+      voi: sappiate
+    notes:
+      en: "Sapere means 'to know' a fact or how to do something (sapere + infinitive = to know how to). Conoscere is used for knowing people/places. Irregular passato remoto stem: sepp-."
+      ko: "Sapere는 사실이나 방법을 아는 것을 의미 (sapere + 부정사 = ~할 줄 알다). 사람/장소를 아는 것은 conoscere 사용. 불규칙 원과거 어간: sepp-."
+
+  stare:
+    infinitive: stare
+    type: irregular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to stay / to be (state/health)
+      ko: 머무르다 / ~이다 (상태/건강)
+    past_participle: stato
+    gerund: stando
+    tenses:
+      presente:
+        io: sto
+        tu: stai
+        lui: sta
+        noi: stiamo
+        voi: state
+        loro: stanno
+      passato_remoto:
+        io: stetti
+        tu: stesti
+        lui: stette
+        noi: stemmo
+        voi: steste
+        loro: stettero
+      imperfetto:
+        io: stavo
+        tu: stavi
+        lui: stava
+        noi: stavamo
+        voi: stavate
+        loro: stavano
+      futuro_semplice:
+        io: "star\xF2"
+        tu: starai
+        lui: "star\xE0"
+        noi: staremo
+        voi: starete
+        loro: staranno
+      condizionale_presente:
+        io: starei
+        tu: staresti
+        lui: starebbe
+        noi: staremmo
+        voi: stareste
+        loro: starebbero
+      congiuntivo_presente:
+        io: stia
+        tu: stia
+        lui: stia
+        noi: stiamo
+        voi: stiate
+        loro: stiano
+      congiuntivo_imperfetto:
+        io: stessi
+        tu: stessi
+        lui: stesse
+        noi: stessimo
+        voi: steste
+        loro: stessero
+    irregular_imperative:
+      tu: sta'
+      Lei: stia
+      noi: stiamo
+      voi: state
+    notes:
+      en: "Stare is used for: health (come stai?), ongoing actions (stare + gerund = progressive), location (stare a casa). Uses essere as auxiliary. Past participle 'stato' is shared with essere."
+      ko: "Stare 용도: 건강(come stai?), 진행 중인 행동(stare + 현재분사 = 진행형), 위치(stare a casa). essere를 조동사로 사용. 과거분사 'stato'는 essere와 공유."
+
+  venire:
+    infinitive: venire
+    type: irregular
+    group: "-IRE"
+    stem_change: null
+    meaning:
+      en: to come
+      ko: 오다
+    past_participle: venuto
+    gerund: venendo
+    tenses:
+      presente:
+        io: vengo
+        tu: vieni
+        lui: viene
+        noi: veniamo
+        voi: venite
+        loro: vengono
+      passato_remoto:
+        io: venni
+        tu: venisti
+        lui: venne
+        noi: venimmo
+        voi: veniste
+        loro: vennero
+      imperfetto:
+        io: venivo
+        tu: venivi
+        lui: veniva
+        noi: venivamo
+        voi: venivate
+        loro: venivano
+      futuro_semplice:
+        io: "verr\xF2"
+        tu: verrai
+        lui: "verr\xE0"
+        noi: verremo
+        voi: verrete
+        loro: verranno
+      condizionale_presente:
+        io: verrei
+        tu: verresti
+        lui: verrebbe
+        noi: verremmo
+        voi: verreste
+        loro: verrebbero
+      congiuntivo_presente:
+        io: venga
+        tu: venga
+        lui: venga
+        noi: veniamo
+        voi: veniate
+        loro: vengano
+      congiuntivo_imperfetto:
+        io: venissi
+        tu: venissi
+        lui: venisse
+        noi: venissimo
+        voi: veniste
+        loro: venissero
+    irregular_imperative:
+      tu: vieni
+      Lei: venga
+      noi: veniamo
+      voi: venite
+    notes:
+      en: "Venire uses essere as auxiliary. Irregular in presente (vengo/vieni/viene/vengono), passato remoto (venni/venne/vennero), futuro (verr-), and congiuntivo presente (venga)."
+      ko: "Venire는 essere를 조동사로 사용. 현재(vengo/vieni/viene/vengono), 원과거(venni/venne/vennero), 미래(verr-), 접속법 현재(venga)에서 불규칙."
+
+  dare:
+    infinitive: dare
+    type: irregular
+    group: "-ARE"
+    stem_change: null
+    meaning:
+      en: to give
+      ko: 주다
+    past_participle: dato
+    gerund: dando
+    tenses:
+      presente:
+        io: do
+        tu: dai
+        lui: "d\xE0"
+        noi: diamo
+        voi: date
+        loro: danno
+      passato_remoto:
+        io: diedi
+        tu: desti
+        lui: diede
+        noi: demmo
+        voi: deste
+        loro: diedero
+      imperfetto:
+        io: davo
+        tu: davi
+        lui: dava
+        noi: davamo
+        voi: davate
+        loro: davano
+      futuro_semplice:
+        io: "dar\xF2"
+        tu: darai
+        lui: "dar\xE0"
+        noi: daremo
+        voi: darete
+        loro: daranno
+      condizionale_presente:
+        io: darei
+        tu: daresti
+        lui: darebbe
+        noi: daremmo
+        voi: dareste
+        loro: darebbero
+      congiuntivo_presente:
+        io: dia
+        tu: dia
+        lui: dia
+        noi: diamo
+        voi: diate
+        loro: diano
+      congiuntivo_imperfetto:
+        io: dessi
+        tu: dessi
+        lui: desse
+        noi: dessimo
+        voi: deste
+        loro: dessero
+    irregular_imperative:
+      tu: da'
+      Lei: dia
+      noi: diamo
+      voi: date
+    notes:
+      en: "Dare has alternative passato remoto forms: diedi/detti (io), diede/dette (lui), diedero/dettero (loro). The accent on da (lui) distinguishes it from the preposition da."
+      ko: "Dare는 원과거 교체형이 있음: diedi/detti (io), diede/dette (lui), diedero/dettero (loro). da(lui)의 악센트는 전치사 da와 구별하기 위함."
+
+  uscire:
+    infinitive: uscire
+    type: irregular
+    group: "-IRE"
+    stem_change: null
+    meaning:
+      en: to go out / to exit
+      ko: 나가다 / 외출하다
+    past_participle: uscito
+    gerund: uscendo
+    tenses:
+      presente:
+        io: esco
+        tu: esci
+        lui: esce
+        noi: usciamo
+        voi: uscite
+        loro: escono
+      passato_remoto:
+        io: uscii
+        tu: uscisti
+        lui: "usc\xEC"
+        noi: uscimmo
+        voi: usciste
+        loro: uscirono
+      imperfetto:
+        io: uscivo
+        tu: uscivi
+        lui: usciva
+        noi: uscivamo
+        voi: uscivate
+        loro: uscivano
+      futuro_semplice:
+        io: "uscir\xF2"
+        tu: uscirai
+        lui: "uscir\xE0"
+        noi: usciremo
+        voi: uscirete
+        loro: usciranno
+      condizionale_presente:
+        io: uscirei
+        tu: usciresti
+        lui: uscirebbe
+        noi: usciremmo
+        voi: uscireste
+        loro: uscirebbero
+      congiuntivo_presente:
+        io: esca
+        tu: esca
+        lui: esca
+        noi: usciamo
+        voi: usciate
+        loro: escano
+      congiuntivo_imperfetto:
+        io: uscissi
+        tu: uscissi
+        lui: uscisse
+        noi: uscissimo
+        voi: usciste
+        loro: uscissero
+    irregular_imperative:
+      tu: esci
+      Lei: esca
+      noi: usciamo
+      voi: uscite
+    notes:
+      en: "Uscire changes stem to esc- in stressed forms (io/tu/lui/loro in presente and congiuntivo presente). Uses essere as auxiliary."
+      ko: "Uscire는 강세 형태(현재와 접속법 현재의 io/tu/lui/loro)에서 어간이 esc-로 변화. essere를 조동사로 사용."
+
+  tenere:
+    infinitive: tenere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to hold / to keep
+      ko: 잡다 / 유지하다
+    past_participle: tenuto
+    gerund: tenendo
+    tenses:
+      presente:
+        io: tengo
+        tu: tieni
+        lui: tiene
+        noi: teniamo
+        voi: tenete
+        loro: tengono
+      passato_remoto:
+        io: tenni
+        tu: tenesti
+        lui: tenne
+        noi: tenemmo
+        voi: teneste
+        loro: tennero
+      imperfetto:
+        io: tenevo
+        tu: tenevi
+        lui: teneva
+        noi: tenevamo
+        voi: tenevate
+        loro: tenevano
+      futuro_semplice:
+        io: "terr\xF2"
+        tu: terrai
+        lui: "terr\xE0"
+        noi: terremo
+        voi: terrete
+        loro: terranno
+      condizionale_presente:
+        io: terrei
+        tu: terresti
+        lui: terrebbe
+        noi: terremmo
+        voi: terreste
+        loro: terrebbero
+      congiuntivo_presente:
+        io: tenga
+        tu: tenga
+        lui: tenga
+        noi: teniamo
+        voi: teniate
+        loro: tengano
+      congiuntivo_imperfetto:
+        io: tenessi
+        tu: tenessi
+        lui: tenesse
+        noi: tenessimo
+        voi: teneste
+        loro: tenessero
+    irregular_imperative:
+      tu: tieni
+      Lei: tenga
+      noi: teniamo
+      voi: tenete
+    notes:
+      en: "Tenere follows the same pattern as venire: -go in io presente (tengo), -ieni in tu/lui (tieni/tiene), double-n in passato remoto (tenni), -rr- in futuro/condizionale (terr-). Compounds: mantenere, ottenere, sostenere, contenere."
+      ko: "Tenere는 venire와 같은 패턴: 현재 io에서 -go (tengo), tu/lui에서 -ieni (tieni/tiene), 원과거에서 이중-n (tenni), 미래/조건법에서 -rr- (terr-). 파생어: mantenere, ottenere, sostenere, contenere."
+
+  piacere:
+    infinitive: piacere
+    type: irregular
+    group: "-ERE"
+    stem_change: null
+    meaning:
+      en: to like / to be pleasing to
+      ko: 좋아하다 / 마음에 들다
+    past_participle: piaciuto
+    gerund: piacendo
+    tenses:
+      presente:
+        io: piaccio
+        tu: piaci
+        lui: piace
+        noi: piacciamo
+        voi: piacete
+        loro: piacciono
+      passato_remoto:
+        io: piacqui
+        tu: piacesti
+        lui: piacque
+        noi: piacemmo
+        voi: piaceste
+        loro: piacquero
+      imperfetto:
+        io: piacevo
+        tu: piacevi
+        lui: piaceva
+        noi: piacevamo
+        voi: piacevate
+        loro: piacevano
+      futuro_semplice:
+        io: "piacer\xF2"
+        tu: piacerai
+        lui: "piacer\xE0"
+        noi: piaceremo
+        voi: piacerete
+        loro: piaceranno
+      condizionale_presente:
+        io: piacerei
+        tu: piaceresti
+        lui: piacerebbe
+        noi: piaceremmo
+        voi: piacereste
+        loro: piacerebbero
+      congiuntivo_presente:
+        io: piaccia
+        tu: piaccia
+        lui: piaccia
+        noi: piacciamo
+        voi: piacciate
+        loro: piacciano
+      congiuntivo_imperfetto:
+        io: piacessi
+        tu: piacessi
+        lui: piacesse
+        noi: piacessimo
+        voi: piaceste
+        loro: piacessero
+    irregular_imperative:
+      tu: piaci
+      Lei: piaccia
+      noi: piacciamo
+      voi: piacete
+    notes:
+      en: "Piacere works like 'gustar' in Spanish: the subject is what is liked, and the person who likes uses indirect object pronouns (mi piace = I like it, literally 'it pleases me'). Most commonly used in 3rd person: piace (singular) / piacciono (plural). Uses essere as auxiliary: mi e piaciuto."
+      ko: "Piacere는 스페인어 'gustar'처럼 작동: 주어는 좋아하는 대상이고, 좋아하는 사람은 간접목적격 대명사 사용 (mi piace = 나는 그것을 좋아한다, 직역: '그것이 나를 기쁘게 한다'). 3인칭으로 가장 많이 사용: piace (단수) / piacciono (복수). essere를 조동사로 사용."
+
+# ============================================================
+# IRREGULAR PAST PARTICIPLES
+# ============================================================
+irregular_past_participles:
+  aprire: aperto
+  bere: bevuto
+  chiedere: chiesto
+  chiudere: chiuso
+  correre: corso
+  cuocere: cotto
+  decidere: deciso
+  dire: detto
+  essere: stato
+  fare: fatto
+  leggere: letto
+  mettere: messo
+  morire: morto
+  nascere: nato
+  offrire: offerto
+  perdere: perso
+  piacere: piaciuto
+  piangere: pianto
+  prendere: preso
+  ridere: riso
+  rimanere: rimasto
+  rispondere: risposto
+  rompere: rotto
+  scendere: sceso
+  scrivere: scritto
+  spendere: speso
+  succedere: successo
+  vedere: visto
+  venire: venuto
+  vincere: vinto
+  vivere: vissuto
+  notes:
+    en: >
+      Past participles are used with AVERE or ESSERE for compound tenses.
+      When used with ESSERE, the past participle agrees in gender/number
+      with the subject: -o (masc. sg.), -a (fem. sg.), -i (masc. pl.),
+      -e (fem. pl.). Example: Lei e andata. Loro sono arrivati.
+    ko: >
+      과거분사는 복합 시제에서 AVERE 또는 ESSERE와 함께 사용.
+      ESSERE와 함께 사용할 때 과거분사는 주어의 성/수와 일치:
+      -o (남성 단수), -a (여성 단수), -i (남성 복수), -e (여성 복수).
+      예: Lei e andata. Loro sono arrivati.
+
+# ============================================================
+# IRREGULAR GERUNDS (PRESENT PARTICIPLES)
+# ============================================================
+irregular_gerunds:
+  bere: bevendo
+  dire: dicendo
+  fare: facendo
+  porre: ponendo
+  tradurre: traducendo
+  trarre: traendo
+  notes:
+    en: >
+      Regular gerund formation: -ARE -> -ando, -ERE/-IRE -> -endo.
+      Verbs derived from Latin contractions (dire<dicere, fare<facere,
+      bere<bevere) use the original Latin stem for the gerund.
+    ko: >
+      규칙적 현재분사 형성: -ARE -> -ando, -ERE/-IRE -> -endo.
+      라틴어 축약에서 파생된 동사(dire<dicere, fare<facere,
+      bere<bevere)는 현재분사에서 원래 라틴어 어간을 사용.
