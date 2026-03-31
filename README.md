@@ -38,6 +38,12 @@ language-hub/
 | Language / 언어 | Framework | Lessons | Words | Status |
 |---|---|---|---|---|
 | [Spanish / 스페인어](./content/Spanish/en/00_Overview.md) | CEFR A1→C1 | 25 | 9,917 | Published |
+| [German / 독일어](./content/German/en/00_Overview.md) | CEFR A1→C1 | 25 | 9,232 | Published |
+| [English / 영어](./content/English/en/00_Overview.md) | CEFR A1→C1 | 25 | 9,280 | Published |
+| [Italian / 이탈리아어](./content/Italian/en/00_Overview.md) | CEFR A1→C1 | 25 | 7,870 | Published |
+| [Japanese / 일본어](./content/Japanese/en/00_Overview.md) | JLPT N5→N1 | 25 | 8,856 | Published |
+| [Latin / 라틴어](./content/Latin/en/00_Overview.md) | CEFR A1→C1 | 25 | 4,329 | Published |
+| [Korean / 한국어](./content/Korean/en/00_Overview.md) | TOPIK I-1→II-5 | 25 | 5,294 | Published |
 | [Classical Chinese / 한문](./content/Classical_Chinese/en/00_Overview.md) | 한자능력등급 L5→L1 | 25 | 1,783 | Published |
 
 ---
