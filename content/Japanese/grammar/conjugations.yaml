@@ -1,0 +1,638 @@
+# Japanese Verb and Adjective Conjugation Paradigms
+# Verb forms: masu, te, ta, nai, potential, passive, causative, volitional, conditional_ba, imperative
+# Adjective forms: present_affirmative, present_negative, past_affirmative, past_negative, te, adverb
+
+verbs:
+  # ============================================================
+  # GODAN (五段) VERBS — Group I
+  # ============================================================
+  kaku:
+    dictionary: 書く
+    reading: かく
+    type: godan
+    group: ku-ending
+    meaning:
+      en: to write
+      ko: 쓰다
+    forms:
+      masu: 書きます
+      te: 書いて
+      ta: 書いた
+      nai: 書かない
+      potential: 書ける
+      passive: 書かれる
+      causative: 書かせる
+      volitional: 書こう
+      conditional_ba: 書けば
+      imperative: 書け
+    notes:
+      en: "く-ending godan verb. て-form uses いて (書いて). Exception: 行く uses 行って, not 行いて."
+      ko: "く어미 5단 동사. て형은 いて 사용 (書いて). 예외: 行く는 行って를 사용하며, 行いて가 아님."
+
+  yomu:
+    dictionary: 読む
+    reading: よむ
+    type: godan
+    group: mu-ending
+    meaning:
+      en: to read
+      ko: 읽다
+    forms:
+      masu: 読みます
+      te: 読んで
+      ta: 読んだ
+      nai: 読まない
+      potential: 読める
+      passive: 読まれる
+      causative: 読ませる
+      volitional: 読もう
+      conditional_ba: 読めば
+      imperative: 読め
+    notes:
+      en: "む-ending godan verb. て-form uses んで (読んで)."
+      ko: "む어미 5단 동사. て형은 んで 사용 (読んで)."
+
+  hanasu:
+    dictionary: 話す
+    reading: はなす
+    type: godan
+    group: su-ending
+    meaning:
+      en: to speak
+      ko: 말하다
+    forms:
+      masu: 話します
+      te: 話して
+      ta: 話した
+      nai: 話さない
+      potential: 話せる
+      passive: 話される
+      causative: 話させる
+      volitional: 話そう
+      conditional_ba: 話せば
+      imperative: 話せ
+    notes:
+      en: "す-ending godan verb. て-form uses して (話して)."
+      ko: "す어미 5단 동사. て형은 して 사용 (話して)."
+
+  nomu:
+    dictionary: 飲む
+    reading: のむ
+    type: godan
+    group: mu-ending
+    meaning:
+      en: to drink
+      ko: 마시다
+    forms:
+      masu: 飲みます
+      te: 飲んで
+      ta: 飲んだ
+      nai: 飲まない
+      potential: 飲める
+      passive: 飲まれる
+      causative: 飲ませる
+      volitional: 飲もう
+      conditional_ba: 飲めば
+      imperative: 飲め
+    notes:
+      en: "む-ending godan verb. Same て-form pattern as 読む: んで."
+      ko: "む어미 5단 동사. 読む와 같은 て형 패턴: んで."
+
+  iku:
+    dictionary: 行く
+    reading: いく
+    type: godan
+    group: ku-ending
+    meaning:
+      en: to go
+      ko: 가다
+    forms:
+      masu: 行きます
+      te: 行って
+      ta: 行った
+      nai: 行かない
+      potential: 行ける
+      passive: 行かれる
+      causative: 行かせる
+      volitional: 行こう
+      conditional_ba: 行けば
+      imperative: 行け
+    notes:
+      en: "EXCEPTION among く-ending godan verbs: て-form is 行って (not 行いて). This is the only く-verb with this irregular て-form."
+      ko: "く어미 5단 동사 중 예외: て형이 行って (行いて가 아님). く동사 중 유일한 불규칙 て형."
+
+  kau:
+    dictionary: 買う
+    reading: かう
+    type: godan
+    group: u-ending
+    meaning:
+      en: to buy
+      ko: 사다
+    forms:
+      masu: 買います
+      te: 買って
+      ta: 買った
+      nai: 買わない
+      potential: 買える
+      passive: 買われる
+      causative: 買わせる
+      volitional: 買おう
+      conditional_ba: 買えば
+      imperative: 買え
+    notes:
+      en: "う-ending godan verb. て-form uses って. ない-form changes う to わ (買わない), not 買あない."
+      ko: "う어미 5단 동사. て형은 って 사용. ない형에서 う가 わ로 변함 (買わない), 買あない가 아님."
+
+  matsu:
+    dictionary: 待つ
+    reading: まつ
+    type: godan
+    group: tsu-ending
+    meaning:
+      en: to wait
+      ko: 기다리다
+    forms:
+      masu: 待ちます
+      te: 待って
+      ta: 待った
+      nai: 待たない
+      potential: 待てる
+      passive: 待たれる
+      causative: 待たせる
+      volitional: 待とう
+      conditional_ba: 待てば
+      imperative: 待て
+    notes:
+      en: "つ-ending godan verb. て-form uses って (same as う and る-godan)."
+      ko: "つ어미 5단 동사. て형은 って 사용 (う, る-5단과 동일)."
+
+  oyogu:
+    dictionary: 泳ぐ
+    reading: およぐ
+    type: godan
+    group: gu-ending
+    meaning:
+      en: to swim
+      ko: 수영하다
+    forms:
+      masu: 泳ぎます
+      te: 泳いで
+      ta: 泳いだ
+      nai: 泳がない
+      potential: 泳げる
+      passive: 泳がれる
+      causative: 泳がせる
+      volitional: 泳ごう
+      conditional_ba: 泳げば
+      imperative: 泳げ
+    notes:
+      en: "ぐ-ending godan verb. て-form uses いで (voiced version of いて for く-verbs)."
+      ko: "ぐ어미 5단 동사. て형은 いで 사용 (く동사의 いて의 유성음 버전)."
+
+  shinu:
+    dictionary: 死ぬ
+    reading: しぬ
+    type: godan
+    group: nu-ending
+    meaning:
+      en: to die
+      ko: 죽다
+    forms:
+      masu: 死にます
+      te: 死んで
+      ta: 死んだ
+      nai: 死なない
+      potential: 死ねる
+      passive: 死なれる
+      causative: 死なせる
+      volitional: 死のう
+      conditional_ba: 死ねば
+      imperative: 死ね
+    notes:
+      en: "The only ぬ-ending godan verb in modern Japanese. て-form uses んで (same pattern as む and ぶ endings)."
+      ko: "현대 일본어에서 유일한 ぬ어미 5단 동사. て형은 んで 사용 (む, ぶ어미와 같은 패턴)."
+
+  asobu:
+    dictionary: 遊ぶ
+    reading: あそぶ
+    type: godan
+    group: bu-ending
+    meaning:
+      en: to play
+      ko: 놀다
+    forms:
+      masu: 遊びます
+      te: 遊んで
+      ta: 遊んだ
+      nai: 遊ばない
+      potential: 遊べる
+      passive: 遊ばれる
+      causative: 遊ばせる
+      volitional: 遊ぼう
+      conditional_ba: 遊べば
+      imperative: 遊べ
+    notes:
+      en: "ぶ-ending godan verb. て-form uses んで (same pattern as む and ぬ endings)."
+      ko: "ぶ어미 5단 동사. て형은 んで 사용 (む, ぬ어미와 같은 패턴)."
+
+  # ============================================================
+  # ICHIDAN (一段) VERBS — Group II
+  # ============================================================
+  taberu:
+    dictionary: 食べる
+    reading: たべる
+    type: ichidan
+    group: ru-ending
+    meaning:
+      en: to eat
+      ko: 먹다
+    forms:
+      masu: 食べます
+      te: 食べて
+      ta: 食べた
+      nai: 食べない
+      potential: 食べられる
+      passive: 食べられる
+      causative: 食べさせる
+      volitional: 食べよう
+      conditional_ba: 食べれば
+      imperative: 食べろ
+    notes:
+      en: "Ichidan verb. All conjugations simply drop る and add the suffix. Potential and passive forms are identical (食べられる). Colloquial potential: 食べれる (ra-nuki kotoba)."
+      ko: "1단 동사. 모든 활용에서 る를 떼고 접미사를 붙임. 가능형과 수동형이 동일 (食べられる). 구어 가능형: 食べれる (ら抜き言葉)."
+
+  miru:
+    dictionary: 見る
+    reading: みる
+    type: ichidan
+    group: ru-ending
+    meaning:
+      en: to see, to look, to watch
+      ko: 보다
+    forms:
+      masu: 見ます
+      te: 見て
+      ta: 見た
+      nai: 見ない
+      potential: 見られる
+      passive: 見られる
+      causative: 見させる
+      volitional: 見よう
+      conditional_ba: 見れば
+      imperative: 見ろ
+    notes:
+      en: "Ichidan verb. Colloquial potential: 見れる (ra-nuki kotoba, very common in modern speech)."
+      ko: "1단 동사. 구어 가능형: 見れる (ら抜き言葉, 현대 구어에서 매우 흔함)."
+
+  okiru:
+    dictionary: 起きる
+    reading: おきる
+    type: ichidan
+    group: ru-ending
+    meaning:
+      en: to get up, to wake up
+      ko: 일어나다, 깨다
+    forms:
+      masu: 起きます
+      te: 起きて
+      ta: 起きた
+      nai: 起きない
+      potential: 起きられる
+      passive: 起きられる
+      causative: 起きさせる
+      volitional: 起きよう
+      conditional_ba: 起きれば
+      imperative: 起きろ
+
+  neru:
+    dictionary: 寝る
+    reading: ねる
+    type: ichidan
+    group: ru-ending
+    meaning:
+      en: to sleep, to go to bed
+      ko: 자다, 잠자다
+    forms:
+      masu: 寝ます
+      te: 寝て
+      ta: 寝た
+      nai: 寝ない
+      potential: 寝られる
+      passive: 寝られる
+      causative: 寝させる
+      volitional: 寝よう
+      conditional_ba: 寝れば
+      imperative: 寝ろ
+
+  oshieru:
+    dictionary: 教える
+    reading: おしえる
+    type: ichidan
+    group: ru-ending
+    meaning:
+      en: to teach, to tell
+      ko: 가르치다, 알려주다
+    forms:
+      masu: 教えます
+      te: 教えて
+      ta: 教えた
+      nai: 教えない
+      potential: 教えられる
+      passive: 教えられる
+      causative: 教えさせる
+      volitional: 教えよう
+      conditional_ba: 教えれば
+      imperative: 教えろ
+
+  # ============================================================
+  # IRREGULAR VERBS (不規則動詞) — Group III
+  # ============================================================
+  suru:
+    dictionary: する
+    reading: する
+    type: irregular
+    group: suru-verb
+    meaning:
+      en: to do
+      ko: 하다
+    forms:
+      masu: します
+      te: して
+      ta: した
+      nai: しない
+      potential: できる
+      passive: される
+      causative: させる
+      volitional: しよう
+      conditional_ba: すれば
+      imperative: しろ
+    notes:
+      en: "Highly irregular verb. Potential form uses a completely different verb (できる). する combines with many nouns to form compound verbs: 勉強する (to study), 料理する (to cook), 運動する (to exercise)."
+      ko: "매우 불규칙한 동사. 가능형은 완전히 다른 동사 (できる) 사용. する는 많은 명사와 결합하여 복합 동사를 형성: 勉強する (공부하다), 料理する (요리하다), 運動する (운동하다)."
+
+  kuru:
+    dictionary: 来る
+    reading: くる
+    type: irregular
+    group: kuru-verb
+    meaning:
+      en: to come
+      ko: 오다
+    forms:
+      masu: 来ます
+      te: 来て
+      ta: 来た
+      nai: 来ない
+      potential: 来られる
+      passive: 来られる
+      causative: 来させる
+      volitional: 来よう
+      conditional_ba: 来れば
+      imperative: 来い
+    notes:
+      en: "Irregular verb with kanji reading changes: 来る (くる), 来ます (きます), 来ない (こない), 来た (きた), 来い (こい). The kanji 来 changes reading depending on the conjugation."
+      ko: "한자 읽기가 변하는 불규칙 동사: 来る (くる), 来ます (きます), 来ない (こない), 来た (きた), 来い (こい). 한자 来의 읽기가 활용에 따라 달라짐."
+
+# ============================================================
+# GODAN VERB CONJUGATION RULES SUMMARY
+# ============================================================
+godan_conjugation_rules:
+  description:
+    en: "Godan verbs conjugate by changing the final kana of the dictionary form along the あいうえお row of the Japanese syllabary."
+    ko: "5단 동사는 사전형의 마지막 가나를 일본어 오십음도의 あいうえお단에 따라 변환하여 활용한다."
+  row_mapping:
+    a_dan:
+      used_for: "ない-form (negative)"
+      example: "書く → 書か (+ ない)"
+    i_dan:
+      used_for: "ます-form (polite)"
+      example: "書く → 書き (+ ます)"
+    u_dan:
+      used_for: "dictionary form"
+      example: "書く"
+    e_dan:
+      used_for: "ば-conditional, potential, imperative"
+      example: "書く → 書け (+ ば) / 書ける / 書け"
+    o_dan:
+      used_for: "volitional (意志形)"
+      example: "書く → 書こ (+ う)"
+  endings_by_type:
+    ku: {a: か, i: き, u: く, e: け, o: こ}
+    gu: {a: が, i: ぎ, u: ぐ, e: げ, o: ご}
+    su: {a: さ, i: し, u: す, e: せ, o: そ}
+    tsu: {a: た, i: ち, u: つ, e: て, o: と}
+    nu: {a: な, i: に, u: ぬ, e: ね, o: の}
+    bu: {a: ば, i: び, u: ぶ, e: べ, o: ぼ}
+    mu: {a: ま, i: み, u: む, e: め, o: も}
+    ru: {a: ら, i: り, u: る, e: れ, o: ろ}
+    u: {a: わ, i: い, u: う, e: え, o: お}
+
+# ============================================================
+# I-ADJECTIVES (い形容詞)
+# ============================================================
+i_adjectives:
+  ookii:
+    dictionary: 大きい
+    reading: おおきい
+    type: i_adjective
+    meaning:
+      en: big, large
+      ko: 크다
+    forms:
+      present_affirmative: 大きい
+      present_negative: 大きくない
+      past_affirmative: 大きかった
+      past_negative: 大きくなかった
+      te: 大きくて
+      adverb: 大きく
+
+  chiisai:
+    dictionary: 小さい
+    reading: ちいさい
+    type: i_adjective
+    meaning:
+      en: small, little
+      ko: 작다
+    forms:
+      present_affirmative: 小さい
+      present_negative: 小さくない
+      past_affirmative: 小さかった
+      past_negative: 小さくなかった
+      te: 小さくて
+      adverb: 小さく
+
+  takai:
+    dictionary: 高い
+    reading: たかい
+    type: i_adjective
+    meaning:
+      en: expensive, tall, high
+      ko: 비싸다, 높다
+    forms:
+      present_affirmative: 高い
+      present_negative: 高くない
+      past_affirmative: 高かった
+      past_negative: 高くなかった
+      te: 高くて
+      adverb: 高く
+
+  atarashii:
+    dictionary: 新しい
+    reading: あたらしい
+    type: i_adjective
+    meaning:
+      en: new
+      ko: 새롭다
+    forms:
+      present_affirmative: 新しい
+      present_negative: 新しくない
+      past_affirmative: 新しかった
+      past_negative: 新しくなかった
+      te: 新しくて
+      adverb: 新しく
+
+  ii:
+    dictionary: いい / 良い
+    reading: いい / よい
+    type: i_adjective
+    meaning:
+      en: good
+      ko: 좋다
+    forms:
+      present_affirmative: いい
+      present_negative: よくない
+      past_affirmative: よかった
+      past_negative: よくなかった
+      te: よくて
+      adverb: よく
+    notes:
+      en: "IRREGULAR i-adjective. The dictionary form is いい, but ALL conjugated forms use the よ- stem (よい): よくない, よかった, よくなかった, よくて. Never say いくない or いかった."
+      ko: "불규칙 い형용사. 사전형은 いい이지만, 모든 활용형은 よ- 어간 (よい) 사용: よくない, よかった, よくなかった, よくて. いくない이나 いかった는 틀린 표현."
+
+# ============================================================
+# I-ADJECTIVE CONJUGATION RULES
+# ============================================================
+i_adjective_rules:
+  description:
+    en: "い-adjectives conjugate by removing the final い and adding the appropriate suffix. Exception: いい (good) uses the stem よ- for all conjugations."
+    ko: "い형용사는 마지막 い를 떼고 적절한 접미사를 붙여 활용한다. 예외: いい (좋다)는 모든 활용에서 よ- 어간을 사용."
+  patterns:
+    present_affirmative: "~い (no change)"
+    present_negative: "~い → ~くない"
+    past_affirmative: "~い → ~かった"
+    past_negative: "~い → ~くなかった"
+    te_form: "~い → ~くて"
+    adverb_form: "~い → ~く"
+  polite_forms:
+    present_affirmative: "~い + です"
+    present_negative: "~くないです / ~くありません"
+    past_affirmative: "~かったです"
+    past_negative: "~くなかったです / ~くありませんでした"
+
+# ============================================================
+# NA-ADJECTIVES (な形容詞)
+# ============================================================
+na_adjectives:
+  shizuka:
+    dictionary: 静か
+    reading: しずか
+    type: na_adjective
+    meaning:
+      en: quiet, peaceful
+      ko: 조용하다
+    forms:
+      present_affirmative: 静かだ
+      present_negative: 静かではない
+      past_affirmative: 静かだった
+      past_negative: 静かではなかった
+      te: 静かで
+      adverb: 静かに
+
+  genki:
+    dictionary: 元気
+    reading: げんき
+    type: na_adjective
+    meaning:
+      en: energetic, healthy, lively
+      ko: 건강하다, 활기차다
+    forms:
+      present_affirmative: 元気だ
+      present_negative: 元気ではない
+      past_affirmative: 元気だった
+      past_negative: 元気ではなかった
+      te: 元気で
+      adverb: 元気に
+
+  suki:
+    dictionary: 好き
+    reading: すき
+    type: na_adjective
+    meaning:
+      en: liked, to like
+      ko: 좋아하다
+    forms:
+      present_affirmative: 好きだ
+      present_negative: 好きではない
+      past_affirmative: 好きだった
+      past_negative: 好きではなかった
+      te: 好きで
+      adverb: 好きに
+    notes:
+      en: "好き functions as a na-adjective in Japanese, not a verb. 'I like sushi' = 寿司が好きだ (lit. 'Sushi is liked'). The liked object takes が, not を."
+      ko: "好き는 일본어에서 동사가 아니라 な형용사로 기능. '스시를 좋아한다' = 寿司が好きだ (직역: '스시가 좋다'). 좋아하는 대상은 を가 아닌 が를 사용."
+
+  kirai:
+    dictionary: 嫌い
+    reading: きらい
+    type: na_adjective
+    meaning:
+      en: disliked, to dislike
+      ko: 싫어하다
+    forms:
+      present_affirmative: 嫌いだ
+      present_negative: 嫌いではない
+      past_affirmative: 嫌いだった
+      past_negative: 嫌いではなかった
+      te: 嫌いで
+      adverb: 嫌いに
+    notes:
+      en: "Like 好き, 嫌い is a na-adjective despite ending in い. Not all words ending in い are i-adjectives; きれい and 嫌い are na-adjectives."
+      ko: "好き처럼 嫌い도 い로 끝나지만 な형용사. い로 끝나는 모든 단어가 い형용사인 것은 아님; きれい와 嫌い는 な형용사."
+
+  kirei:
+    dictionary: きれい
+    reading: きれい
+    type: na_adjective
+    meaning:
+      en: beautiful, clean, pretty
+      ko: 예쁘다, 깨끗하다
+    forms:
+      present_affirmative: きれいだ
+      present_negative: きれいではない
+      past_affirmative: きれいだった
+      past_negative: きれいではなかった
+      te: きれいで
+      adverb: きれいに
+    notes:
+      en: "Despite ending in い, きれい is a na-adjective (きれいな人, NOT きれい人). Common learner mistake: treating it as an i-adjective."
+      ko: "い로 끝나지만 きれい는 な형용사 (きれいな人, きれい人이 아님). 학습자 흔한 실수: い형용사로 취급하는 것."
+
+# ============================================================
+# NA-ADJECTIVE CONJUGATION RULES
+# ============================================================
+na_adjective_rules:
+  description:
+    en: "な-adjectives conjugate using the copula だ/です. When modifying a noun, な is placed between the adjective and the noun (静かな部屋). な-adjectives do not end in い in their stem form (exceptions: きれい, 嫌い end in い but are na-adjectives)."
+    ko: "な형용사는 서술어 だ/です를 사용하여 활용. 명사를 수식할 때 형용사와 명사 사이에 な을 넣음 (静かな部屋). な형용사 어간은 い로 끝나지 않음 (예외: きれい, 嫌い는 い로 끝나지만 な형용사)."
+  patterns:
+    present_affirmative: "~だ (plain) / ~です (polite)"
+    present_negative: "~ではない (plain) / ~ではありません (polite)"
+    past_affirmative: "~だった (plain) / ~でした (polite)"
+    past_negative: "~ではなかった (plain) / ~ではありませんでした (polite)"
+    te_form: "~で"
+    adverb_form: "~に"
+    noun_modifier: "~な + noun"
+  colloquial_notes:
+    en: "In casual speech, では is often contracted to じゃ: 好きじゃない, 元気じゃなかった."
+    ko: "일상 구어에서 では는 종종 じゃ로 축약됨: 好きじゃない, 元気じゃなかった."

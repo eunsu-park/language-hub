@@ -1,0 +1,897 @@
+# Japanese Grammar Rules, Contrasts, and Patterns
+
+rules:
+  # ============================================================
+  # 1. PARTICLE USAGE
+  # ============================================================
+  particle_usage:
+    id: particle_usage
+    label:
+      en: "Particle Usage (助詞の使い方)"
+      ko: "조사 사용법 (助詞の使い方)"
+    category: particles
+    jlpt: N5
+    description:
+      en: "Japanese particles are postpositional markers that indicate the grammatical function of words in a sentence. Unlike prepositions in English, particles come after the word they mark."
+      ko: "일본어 조사는 문장에서 단어의 문법적 기능을 나타내는 후치사이다. 영어의 전치사와 달리 조사는 표시하는 단어 뒤에 온다."
+    particles:
+      - particle: は
+        reading: wa
+        label:
+          en: "Topic Marker"
+          ko: "주제 표시"
+        function:
+          en: "Marks the topic of the sentence — what the sentence is about. Often (but not always) corresponds to the subject."
+          ko: "문장의 주제를 표시 — 문장이 무엇에 대한 것인지. 종종 (항상은 아님) 주어에 해당."
+        examples:
+          - sentence: 私は学生です。
+            reading: わたしはがくせいです。
+            translation: {en: "I am a student.", ko: "나는 학생입니다."}
+          - sentence: 東京は大きいです。
+            reading: とうきょうはおおきいです。
+            translation: {en: "Tokyo is big.", ko: "도쿄는 큽니다."}
+        notes:
+          en: "Written as は but pronounced 'wa' when used as a particle. は implies contrast: 魚は食べます (Fish, I eat [but maybe not meat])."
+          ko: "조사로 사용될 때 は로 쓰지만 'wa'로 발음. は는 대조를 암시: 魚は食べます (생선은 먹습니다 [고기는 안 먹을 수도])."
+
+      - particle: が
+        reading: ga
+        label:
+          en: "Subject Marker"
+          ko: "주격 표시"
+        function:
+          en: "Marks the grammatical subject, especially for new information, existence, ability, and emotions."
+          ko: "문법적 주어를 표시, 특히 새로운 정보, 존재, 능력, 감정에 사용."
+        examples:
+          - sentence: 猫がいます。
+            reading: ねこがいます。
+            translation: {en: "There is a cat.", ko: "고양이가 있습니다."}
+          - sentence: 誰が来ましたか。
+            reading: だれがきましたか。
+            translation: {en: "Who came?", ko: "누가 왔습니까?"}
+          - sentence: 日本語ができます。
+            reading: にほんごができます。
+            translation: {en: "I can (speak) Japanese.", ko: "일본어를 할 수 있습니다."}
+        notes:
+          en: "が emphasizes new/unknown information. は marks known/given information. が is required with: いる/ある (existence), できる (ability), 好き/嫌い (likes/dislikes), 分かる (understand), 欲しい (want), and in subordinate clauses."
+          ko: "が는 새로운/모르는 정보를 강조. は는 알려진/주어진 정보를 표시. が 필수 사용: いる/ある (존재), できる (능력), 好き/嫌い (좋아함/싫어함), 分かる (이해), 欲しい (원함), 종속절에서."
+
+      - particle: を
+        reading: o
+        label:
+          en: "Object Marker"
+          ko: "목적격 표시"
+        function:
+          en: "Marks the direct object of a transitive verb. Also marks the space through/along which movement occurs."
+          ko: "타동사의 직접 목적어를 표시. 이동이 일어나는 공간도 표시."
+        examples:
+          - sentence: 本を読みます。
+            reading: ほんをよみます。
+            translation: {en: "I read a book.", ko: "책을 읽습니다."}
+          - sentence: 公園を歩きます。
+            reading: こうえんをあるきます。
+            translation: {en: "I walk through the park.", ko: "공원을 걷습니다."}
+          - sentence: 大学を卒業しました。
+            reading: だいがくをそつぎょうしました。
+            translation: {en: "I graduated from university.", ko: "대학을 졸업했습니다."}
+        notes:
+          en: "Written as を but pronounced 'o'. Used with movement verbs (歩く, 走る, 渡る) to indicate the path/space traversed, and with verbs of departure (出る, 卒業する) to indicate the origin."
+          ko: "を로 쓰지만 'o'로 발음. 이동 동사 (歩く, 走る, 渡る)와 함께 경로/공간을 표시하고, 출발 동사 (出る, 卒業する)와 함께 출발지를 표시."
+
+      - particle: に
+        reading: ni
+        label:
+          en: "Target / Location / Time Marker"
+          ko: "목표 / 위치 / 시간 표시"
+        function:
+          en: "Multi-purpose particle: target of movement, location of existence, specific time, indirect object, purpose."
+          ko: "다목적 조사: 이동의 목표, 존재의 위치, 특정 시간, 간접 목적어, 목적."
+        examples:
+          - sentence: 学校に行きます。
+            reading: がっこうにいきます。
+            translation: {en: "I go to school.", ko: "학교에 갑니다."}
+          - sentence: 部屋に猫がいます。
+            reading: へやにねこがいます。
+            translation: {en: "There is a cat in the room.", ko: "방에 고양이가 있습니다."}
+          - sentence: 7時に起きます。
+            reading: しちじにおきます。
+            translation: {en: "I get up at 7 o'clock.", ko: "7시에 일어납니다."}
+          - sentence: 友達にプレゼントをあげます。
+            reading: ともだちにプレゼントをあげます。
+            translation: {en: "I give a present to a friend.", ko: "친구에게 선물을 줍니다."}
+
+      - particle: で
+        reading: de
+        label:
+          en: "Location of Action / Means / Cause"
+          ko: "동작 장소 / 수단 / 원인"
+        function:
+          en: "Marks the location where an action takes place, the means/instrument used, or the cause/reason."
+          ko: "동작이 일어나는 장소, 사용하는 수단/도구, 원인/이유를 표시."
+        examples:
+          - sentence: 図書館で勉強します。
+            reading: としょかんでべんきょうします。
+            translation: {en: "I study at the library.", ko: "도서관에서 공부합니다."}
+          - sentence: 箸で食べます。
+            reading: はしでたべます。
+            translation: {en: "I eat with chopsticks.", ko: "젓가락으로 먹습니다."}
+          - sentence: 病気で休みました。
+            reading: びょうきでやすみました。
+            translation: {en: "I was absent due to illness.", ko: "병으로 쉬었습니다."}
+        notes:
+          en: "Key contrast: に marks static location of existence (いる/ある), で marks active location where an action happens. 公園にいます (I am in the park — existence). 公園で遊びます (I play in the park — action)."
+          ko: "핵심 대비: に는 존재의 정적 위치 (いる/ある), で는 동작이 일어나는 능동적 장소. 公園にいます (공원에 있습니다 — 존재). 公園で遊びます (공원에서 놉니다 — 동작)."
+
+      - particle: から
+        reading: kara
+        label:
+          en: "From / Since / Because"
+          ko: "~에서 / ~부터 / ~때문에"
+        function:
+          en: "Marks the starting point in space or time. As a sentence connector, indicates reason/cause."
+          ko: "공간이나 시간의 시작점을 표시. 문장 연결로서 이유/원인을 나타냄."
+        examples:
+          - sentence: 9時から5時まで働きます。
+            reading: くじからごじまではたらきます。
+            translation: {en: "I work from 9 to 5.", ko: "9시부터 5시까지 일합니다."}
+          - sentence: 東京から来ました。
+            reading: とうきょうからきました。
+            translation: {en: "I came from Tokyo.", ko: "도쿄에서 왔습니다."}
+          - sentence: 寒いから、コートを着ます。
+            reading: さむいから、コートをきます。
+            translation: {en: "Because it's cold, I wear a coat.", ko: "추우니까 코트를 입습니다."}
+
+      - particle: まで
+        reading: made
+        label:
+          en: "Until / To / As far as"
+          ko: "~까지"
+        function:
+          en: "Marks the ending point in space or time."
+          ko: "공간이나 시간의 끝점을 표시."
+        examples:
+          - sentence: 駅まで歩きます。
+            reading: えきまであるきます。
+            translation: {en: "I walk to the station.", ko: "역까지 걷습니다."}
+          - sentence: 5時まで待ちます。
+            reading: ごじまでまちます。
+            translation: {en: "I wait until 5 o'clock.", ko: "5시까지 기다립니다."}
+
+      - particle: と
+        reading: to
+        label:
+          en: "And / With / Quotation"
+          ko: "~와/과 / ~와 함께 / 인용"
+        function:
+          en: "Exhaustive listing (and), accompaniment (with someone), quotation marker."
+          ko: "완전한 나열 (~와/과), 동반 (~와 함께), 인용 표시."
+        examples:
+          - sentence: パンと牛乳を買います。
+            reading: パンとぎゅうにゅうをかいます。
+            translation: {en: "I buy bread and milk.", ko: "빵과 우유를 삽니다."}
+          - sentence: 友達と映画を見ます。
+            reading: ともだちとえいがをみます。
+            translation: {en: "I watch a movie with a friend.", ko: "친구와 영화를 봅니다."}
+          - sentence: いいと思います。
+            reading: いいとおもいます。
+            translation: {en: "I think it's good.", ko: "좋다고 생각합니다."}
+        notes:
+          en: "と lists items exhaustively (all items listed). For non-exhaustive listing (items among others), use や."
+          ko: "と는 항목을 빠짐없이 나열 (나열된 항목이 전부). 비완전 나열 (다른 것도 있음)에는 や를 사용."
+
+      - particle: も
+        reading: mo
+        label:
+          en: "Also / Too / Even"
+          ko: "~도"
+        function:
+          en: "Replaces は, が, or を to mean 'also' or 'too'. In negative sentences means 'not... either'."
+          ko: "は, が, を를 대체하여 '~도'를 의미. 부정문에서는 '~도 아니다'."
+        examples:
+          - sentence: 私も学生です。
+            reading: わたしもがくせいです。
+            translation: {en: "I am also a student.", ko: "나도 학생입니다."}
+          - sentence: 何も食べませんでした。
+            reading: なにもたべませんでした。
+            translation: {en: "I didn't eat anything.", ko: "아무것도 먹지 않았습니다."}
+
+      - particle: や
+        reading: ya
+        label:
+          en: "And (non-exhaustive listing)"
+          ko: "~이나, ~와 (비완전 나열)"
+        function:
+          en: "Lists items non-exhaustively, implying there are more items not mentioned. Often followed by など (etc.)."
+          ko: "항목을 비완전하게 나열, 언급되지 않은 다른 항목이 있음을 암시. 종종 など (등)이 뒤따름."
+        examples:
+          - sentence: りんごやバナナなどを買いました。
+            reading: りんごやバナナなどをかいました。
+            translation: {en: "I bought apples, bananas, etc.", ko: "사과나 바나나 등을 샀습니다."}
+
+    wa_ga_contrast:
+      label:
+        en: "は vs が — The Core Contrast"
+        ko: "は vs が — 핵심 대비"
+      rules:
+        - rule:
+            en: "は marks OLD/known information (topic). が marks NEW/unknown information (focus)."
+            ko: "は는 이미 알려진 정보 (주제). が는 새로운/모르는 정보 (초점)."
+          example:
+            wa: "田中さんは先生です。 (Mr. Tanaka is a teacher. — already known who we're talking about)"
+            ga: "田中さんが先生です。 (Mr. Tanaka is the teacher. — answering 'who is the teacher?')"
+        - rule:
+            en: "In subordinate clauses, use が (not は) for the subject."
+            ko: "종속절에서는 주어에 が를 사용 (は가 아님)."
+          example: "友達が作った料理はおいしいです。 (The food that my friend made is delicious.)"
+        - rule:
+            en: "は creates contrast. が is neutral."
+            ko: "は는 대조를 만듦. が는 중립적."
+          example:
+            wa: "コーヒーは飲みます。 (Coffee, I drink [but maybe not tea].)"
+            ga: "コーヒーが好きです。 (I like coffee. — neutral statement)"
+
+  # ============================================================
+  # 2. VERB GROUPS
+  # ============================================================
+  verb_groups:
+    id: verb_groups
+    label:
+      en: "Verb Groups (動詞のグループ)"
+      ko: "동사 그룹 (動詞のグループ)"
+    category: verbs
+    jlpt: N5
+    description:
+      en: "Japanese verbs are classified into three groups that determine their conjugation patterns. Correctly identifying a verb's group is essential for conjugation."
+      ko: "일본어 동사는 활용 패턴을 결정하는 세 그룹으로 분류된다. 동사 그룹을 올바르게 식별하는 것이 활용의 핵심."
+    groups:
+      - group: 1
+        name:
+          en: "Godan Verbs (五段動詞) / U-verbs"
+          ko: "5단 동사 (五段動詞) / U동사"
+        rule:
+          en: "Dictionary form ends in a う-row kana (く, ぐ, す, つ, ぬ, ぶ, む, る, う). If it ends in る, the vowel before る is NOT え or い (or it's an exception)."
+          ko: "사전형이 う단 가나로 끝남 (く, ぐ, す, つ, ぬ, ぶ, む, る, う). る로 끝나면 る 앞 모음이 え나 い가 아님 (또는 예외)."
+        identification:
+          en: "If the verb does NOT end in る: always Godan. If it ends in る: check the vowel before る. If the vowel is a, u, or o: Godan. If え or い: could be either group (must memorize)."
+          ko: "る로 끝나지 않으면: 항상 5단. る로 끝나면: る 앞 모음 확인. 모음이 a, u, o이면: 5단. え나 い이면: 어느 그룹이든 가능 (암기 필요)."
+        examples: [書く, 読む, 話す, 飲む, 行く, 買う, 待つ, 泳ぐ, 死ぬ, 遊ぶ]
+        exceptions_that_look_ichidan:
+          en: "Some verbs end in -iru/-eru but are Godan (must memorize)"
+          ko: "일부 동사는 -iru/-eru로 끝나지만 5단 동사 (암기 필요)"
+          common: [帰る (kaeru, to return), 走る (hashiru, to run), 入る (hairu, to enter), 知る (shiru, to know), 切る (kiru, to cut)]
+
+      - group: 2
+        name:
+          en: "Ichidan Verbs (一段動詞) / Ru-verbs"
+          ko: "1단 동사 (一段動詞) / Ru동사"
+        rule:
+          en: "Dictionary form ends in る with an い-row or え-row vowel before it. Conjugation is simple: drop る and add the suffix."
+          ko: "사전형이 る로 끝나며 그 앞에 い단 또는 え단 모음이 옴. 활용이 단순: る를 떼고 접미사를 붙임."
+        identification:
+          en: "Ends in -いる or -える: likely Ichidan (but check exceptions list above)."
+          ko: "-いる 또는 -える로 끝남: 1단일 가능성 높음 (위 예외 목록 확인)."
+        examples: [食べる, 見る, 起きる, 寝る, 教える, 出る, 開ける, 考える, 答える, 忘れる]
+
+      - group: 3
+        name:
+          en: "Irregular Verbs (不規則動詞)"
+          ko: "불규칙 동사 (不規則動詞)"
+        rule:
+          en: "Only two truly irregular verbs in Japanese: する (to do) and 来る (to come). All する-compound verbs (勉強する, 料理する) follow する's pattern."
+          ko: "일본어에 진정한 불규칙 동사는 단 두 개: する (하다)와 来る (오다). 모든 する 복합 동사 (勉強する, 料理する)는 する의 패턴을 따름."
+        verbs:
+          - verb: する
+            meaning: {en: to do, ko: 하다}
+            compounds: [勉強する, 料理する, 運動する, 掃除する, 洗濯する, 買い物する]
+          - verb: 来る
+            meaning: {en: to come, ko: 오다}
+            reading_note:
+              en: "来る changes its kanji reading in conjugation: くる, きます, こない, きた"
+              ko: "来る는 활용에서 한자 읽기가 변함: くる, きます, こない, きた"
+
+    quick_identification_flowchart:
+      en: |
+        1. Is the verb する or 来る? → Group 3 (Irregular)
+        2. Does it NOT end in る? → Group 1 (Godan)
+        3. Does it end in る with a/u/o before it? → Group 1 (Godan)
+        4. Does it end in -いる or -える? → Likely Group 2 (Ichidan), but check exception list
+      ko: |
+        1. する 또는 来る인가? → 그룹 3 (불규칙)
+        2. る로 끝나지 않는가? → 그룹 1 (5단)
+        3. る 앞에 a/u/o 모음이 있는가? → 그룹 1 (5단)
+        4. -いる 또는 -える로 끝나는가? → 그룹 2 (1단)일 가능성 높음, 예외 목록 확인
+
+  # ============================================================
+  # 3. ADJECTIVE CONJUGATION
+  # ============================================================
+  adjective_conjugation:
+    id: adjective_conjugation
+    label:
+      en: "Adjective Conjugation (形容詞の活用)"
+      ko: "형용사 활용 (形容詞の活用)"
+    category: adjectives
+    jlpt: N5
+    description:
+      en: "Japanese has two types of adjectives: い-adjectives (i-adjectives) and な-adjectives (na-adjectives). They conjugate differently for tense and negation."
+      ko: "일본어에는 두 종류의 형용사가 있다: い형용사와 な형용사. 시제와 부정에서 다르게 활용된다."
+    types:
+      - type: i_adjective
+        label:
+          en: "い-Adjectives (い形容詞)"
+          ko: "い형용사 (い形容詞)"
+        rule:
+          en: "End in い in dictionary form. Conjugate by removing い and adding suffix. Function like verbs (can be predicates without copula)."
+          ko: "사전형이 い로 끝남. い를 떼고 접미사를 붙여 활용. 동사처럼 기능 (서술어에 계사 없이 사용 가능)."
+        conjugation_table:
+          en: |
+            Form             | Pattern        | Example (高い)
+            -----------------|----------------|------------------
+            Present (+)      | ~い            | 高い
+            Present (-)      | ~くない         | 高くない
+            Past (+)         | ~かった         | 高かった
+            Past (-)         | ~くなかった     | 高くなかった
+            て-form          | ~くて           | 高くて
+            Adverb           | ~く             | 高く
+            Noun modifier    | ~い + noun      | 高い山
+          ko: |
+            형태             | 패턴           | 예 (高い)
+            -----------------|----------------|------------------
+            현재 긍정        | ~い            | 高い
+            현재 부정        | ~くない         | 高くない
+            과거 긍정        | ~かった         | 高かった
+            과거 부정        | ~くなかった     | 高くなかった
+            て형             | ~くて           | 高くて
+            부사형           | ~く             | 高く
+            명사 수식        | ~い + 명사      | 高い山
+        irregular:
+          en: "いい (good) → conjugates as よい: よくない, よかった, よくなかった, よくて, よく"
+          ko: "いい (좋다) → よい로 활용: よくない, よかった, よくなかった, よくて, よく"
+
+      - type: na_adjective
+        label:
+          en: "な-Adjectives (な形容詞)"
+          ko: "な형용사 (な形容詞)"
+        rule:
+          en: "Do not end in い in stem form (exceptions: きれい, 嫌い). Use copula だ/です for predication. Use な when modifying nouns."
+          ko: "어간이 い로 끝나지 않음 (예외: きれい, 嫌い). 서술에 계사 だ/です 사용. 명사 수식 시 な 사용."
+        conjugation_table:
+          en: |
+            Form             | Plain          | Polite            | Example (静か)
+            -----------------|----------------|-------------------|------------------
+            Present (+)      | ~だ            | ~です              | 静かだ / 静かです
+            Present (-)      | ~ではない       | ~ではありません     | 静かではない
+            Past (+)         | ~だった         | ~でした            | 静かだった
+            Past (-)         | ~ではなかった   | ~ではありませんでした| 静かではなかった
+            て-form          | ~で             |                   | 静かで
+            Adverb           | ~に             |                   | 静かに
+            Noun modifier    | ~な + noun      |                   | 静かな部屋
+          ko: |
+            형태             | 보통체          | 정중체             | 예 (静か)
+            -----------------|----------------|-------------------|------------------
+            현재 긍정        | ~だ            | ~です              | 静かだ / 静かです
+            현재 부정        | ~ではない       | ~ではありません     | 静かではない
+            과거 긍정        | ~だった         | ~でした            | 静かだった
+            과거 부정        | ~ではなかった   | ~ではありませんでした| 静かではなかった
+            て형             | ~で             |                   | 静かで
+            부사형           | ~に             |                   | 静かに
+            명사 수식        | ~な + 명사      |                   | 静かな部屋
+
+    common_mistakes:
+      - mistake:
+          en: "Treating きれい and 嫌い as i-adjectives"
+          ko: "きれい와 嫌い를 い형용사로 취급"
+        correct:
+          en: "They are na-adjectives: きれいな人 (not きれい人), 嫌いな食べ物 (not 嫌い食べ物)"
+          ko: "これは な형용사: きれいな人 (きれい人이 아님), 嫌いな食べ物 (嫌い食べ物이 아님)"
+      - mistake:
+          en: "Conjugating いい as いくない, いかった"
+          ko: "いい를 いくない, いかった로 활용"
+        correct:
+          en: "Use よ- stem: よくない, よかった"
+          ko: "よ- 어간 사용: よくない, よかった"
+
+  # ============================================================
+  # 4. TE-FORM RULES
+  # ============================================================
+  te_form_rules:
+    id: te_form_rules
+    label:
+      en: "Te-form Rules (て形のルール)"
+      ko: "て형 규칙 (て形のルール)"
+    category: verbs
+    jlpt: N5
+    description:
+      en: "The て-form is one of the most important verb forms in Japanese. It's used for connecting sentences, making requests, progressive tense, giving/receiving, permission, prohibition, and more."
+      ko: "て형은 일본어에서 가장 중요한 동사 형태 중 하나이다. 문장 연결, 요청, 진행형, 수수 표현, 허가, 금지 등에 사용."
+    formation:
+      ichidan:
+        rule:
+          en: "Drop る, add て"
+          ko: "る를 떼고 て를 붙임"
+        examples:
+          - {dictionary: 食べる, te: 食べて}
+          - {dictionary: 見る, te: 見て}
+          - {dictionary: 起きる, te: 起きて}
+      godan:
+        label:
+          en: "Godan て-form by ending type"
+          ko: "어미별 5단 동사 て형"
+        rules:
+          - ending: "う, つ, る"
+            change: "→ って"
+            examples:
+              - {dictionary: 買う, te: 買って}
+              - {dictionary: 待つ, te: 待って}
+              - {dictionary: 帰る, te: 帰って}
+          - ending: "む, ぬ, ぶ"
+            change: "→ んで"
+            examples:
+              - {dictionary: 読む, te: 読んで}
+              - {dictionary: 死ぬ, te: 死んで}
+              - {dictionary: 遊ぶ, te: 遊んで}
+          - ending: "く"
+            change: "→ いて"
+            examples:
+              - {dictionary: 書く, te: 書いて}
+              - {dictionary: 聞く, te: 聞いて}
+            exception: {dictionary: 行く, te: 行って, note: {en: "行く is the only く-verb with って instead of いて", ko: "行く는 いて 대신 って를 사용하는 유일한 く동사"}}
+          - ending: "ぐ"
+            change: "→ いで"
+            examples:
+              - {dictionary: 泳ぐ, te: 泳いで}
+              - {dictionary: 急ぐ, te: 急いで}
+          - ending: "す"
+            change: "→ して"
+            examples:
+              - {dictionary: 話す, te: 話して}
+              - {dictionary: 出す, te: 出して}
+      irregular:
+        - {dictionary: する, te: して}
+        - {dictionary: 来る, te: 来て}
+
+    mnemonic:
+      en: |
+        Remember the て-form song (to the tune of "Santa Claus Is Coming to Town"):
+        う、つ、る → って
+        む、ぬ、ぶ → んで
+        く → いて (except 行く → 行って)
+        ぐ → いで
+        す → して
+      ko: |
+        て형 노래로 기억하기:
+        う、つ、る → って
+        む、ぬ、ぶ → んで
+        く → いて (예외: 行く → 行って)
+        ぐ → いで
+        す → して
+
+    common_uses:
+      - use:
+          en: "Requests: ~てください (please do ~)"
+          ko: "요청: ~てください (~해 주세요)"
+        example: "ここに座ってください。 (Please sit here.)"
+      - use:
+          en: "Progressive: ~ている (is doing ~)"
+          ko: "진행: ~ている (~하고 있다)"
+        example: "今、勉強しています。 (I am studying now.)"
+      - use:
+          en: "Permission: ~てもいい (may do ~)"
+          ko: "허가: ~てもいい (~해도 된다)"
+        example: "写真を撮ってもいいですか。 (May I take a photo?)"
+      - use:
+          en: "Prohibition: ~てはいけない (must not do ~)"
+          ko: "금지: ~てはいけない (~하면 안 된다)"
+        example: "ここで泳いではいけません。 (You must not swim here.)"
+      - use:
+          en: "Sequential actions: ~て、~て、~ (do ~, then ~, then ~)"
+          ko: "순차적 동작: ~て、~て、~ (~하고, ~하고, ~하다)"
+        example: "朝起きて、顔を洗って、朝ご飯を食べます。 (I get up, wash my face, and eat breakfast.)"
+      - use:
+          en: "Giving/Receiving: ~てあげる / ~てもらう / ~てくれる"
+          ko: "수수 표현: ~てあげる / ~てもらう / ~てくれる"
+        example: "友達が手伝ってくれました。 (My friend helped me.)"
+
+  # ============================================================
+  # 5. HONORIFIC SYSTEM
+  # ============================================================
+  honorific_system:
+    id: honorific_system
+    label:
+      en: "Honorific System (敬語)"
+      ko: "경어 체계 (敬語)"
+    category: politeness
+    jlpt: N3
+    description:
+      en: "Japanese has an elaborate system of politeness levels expressed through verb forms, vocabulary, and grammar. The three main categories are sonkeigo (respectful), kenjougo (humble), and teineigo (polite)."
+      ko: "일본어에는 동사 형태, 어휘, 문법으로 표현되는 정교한 경어 체계가 있다. 세 가지 주요 범주는 존경어, 겸양어, 정중어이다."
+    categories:
+      - category: teineigo
+        name:
+          en: "Polite Language (丁寧語)"
+          ko: "정중어 (丁寧語)"
+        function:
+          en: "Basic politeness toward the listener. Uses です/ます forms."
+          ko: "청자에 대한 기본적 정중함. です/ます형 사용."
+        formation:
+          en: "Add ます to verb stem (masu-form). Add です after adjectives/nouns."
+          ko: "동사 어간에 ます 추가 (ます형). 형용사/명사 뒤에 です 추가."
+        examples:
+          - plain: 食べる
+            polite: 食べます
+          - plain: 大きい
+            polite: 大きいです
+          - plain: 学生だ
+            polite: 学生です
+        notes:
+          en: "This is the default level for daily conversation with acquaintances, coworkers, and strangers."
+          ko: "지인, 동료, 낯선 사람과의 일상 대화에서 기본 수준."
+
+      - category: sonkeigo
+        name:
+          en: "Respectful Language (尊敬語)"
+          ko: "존경어 (尊敬語)"
+        function:
+          en: "Elevates the status of the person you're talking about (their actions). Used for superiors, customers, teachers."
+          ko: "말하는 대상 (그 사람의 행동)의 지위를 높임. 상사, 고객, 선생님에게 사용."
+        formation:
+          patterns:
+            - pattern: "お + ます-stem + になる"
+              example: "先生がお読みになる。 (The teacher reads.)"
+            - pattern: "~(ら)れる (passive form used as honorific)"
+              example: "先生が読まれる。 (The teacher reads.)"
+          special_verbs:
+            - {plain: 行く/来る, respectful: いらっしゃる, meaning: {en: "to go / to come / to be", ko: "가다 / 오다 / 있다"}}
+            - {plain: 食べる/飲む, respectful: 召し上がる, meaning: {en: "to eat / to drink", ko: "드시다"}}
+            - {plain: 言う, respectful: おっしゃる, meaning: {en: "to say", ko: "말씀하시다"}}
+            - {plain: する, respectful: なさる, meaning: {en: "to do", ko: "하시다"}}
+            - {plain: 見る, respectful: ご覧になる, meaning: {en: "to see / to look", ko: "보시다"}}
+            - {plain: 知っている, respectful: ご存じだ, meaning: {en: "to know", ko: "알고 계시다"}}
+            - {plain: くれる, respectful: くださる, meaning: {en: "to give (to me)", ko: "주시다"}}
+            - {plain: いる, respectful: いらっしゃる, meaning: {en: "to be (animate)", ko: "계시다"}}
+
+      - category: kenjougo
+        name:
+          en: "Humble Language (謙譲語)"
+          ko: "겸양어 (謙譲語)"
+        function:
+          en: "Lowers the status of the speaker or in-group (own actions). Shows deference by humbling yourself."
+          ko: "화자 또는 내집단 (자신의 행동)의 지위를 낮춤. 자신을 낮추어 공경을 표시."
+        formation:
+          patterns:
+            - pattern: "お + ます-stem + する"
+              example: "お荷物をお持ちします。 (I will carry your luggage.)"
+          special_verbs:
+            - {plain: 行く/来る, humble: 参る, meaning: {en: "to go / to come", ko: "가다 / 오다"}}
+            - {plain: 食べる/飲む, humble: いただく, meaning: {en: "to eat / to drink / to receive", ko: "먹다 / 마시다 / 받다"}}
+            - {plain: 言う, humble: 申す, meaning: {en: "to say", ko: "말씀드리다"}}
+            - {plain: する, humble: いたす, meaning: {en: "to do", ko: "하다 (겸양)"}}
+            - {plain: 見る, humble: 拝見する, meaning: {en: "to see / to look", ko: "보다 (겸양)"}}
+            - {plain: 知っている, humble: 存じている, meaning: {en: "to know", ko: "알다 (겸양)"}}
+            - {plain: もらう, humble: いただく, meaning: {en: "to receive", ko: "받다 (겸양)"}}
+            - {plain: あげる, humble: 差し上げる, meaning: {en: "to give", ko: "드리다"}}
+            - {plain: いる, humble: おる, meaning: {en: "to be (animate)", ko: "있다 (겸양)"}}
+
+    usage_principle:
+      en: "Sonkeigo for THEIR actions (elevate them). Kenjougo for YOUR actions (humble yourself). Never use sonkeigo for your own actions or kenjougo for others' actions."
+      ko: "존경어는 상대방의 행동에 (높임). 겸양어는 자신의 행동에 (낮춤). 자신의 행동에 존경어를, 상대의 행동에 겸양어를 절대 쓰지 않음."
+
+  # ============================================================
+  # 6. CONDITIONAL FORMS
+  # ============================================================
+  conditional_forms:
+    id: conditional_forms
+    label:
+      en: "Conditional Forms (条件表現)"
+      ko: "조건 표현 (条件表現)"
+    category: grammar
+    jlpt: N3
+    description:
+      en: "Japanese has four main conditional patterns, each with different nuances. Choosing the right conditional depends on the type of condition and its certainty."
+      ko: "일본어에는 네 가지 주요 조건 패턴이 있으며 각각 다른 뉘앙스를 가진다. 올바른 조건형 선택은 조건의 유형과 확실성에 따라 달라진다."
+    patterns:
+      - pattern: ば
+        label:
+          en: "ば-conditional (仮定形)"
+          ko: "ば 조건 (가정형)"
+        formation:
+          verbs:
+            en: "Change final う-row to え-row + ば: 書く → 書けば, 食べる → 食べれば"
+            ko: "마지막 う단을 え단으로 바꾸고 + ば: 書く → 書けば, 食べる → 食べれば"
+          i_adjectives:
+            en: "Remove い, add ければ: 高い → 高ければ"
+            ko: "い를 떼고 ければ를 붙임: 高い → 高ければ"
+          na_adjectives:
+            en: "Add であれば / ならば: 静か → 静かであれば"
+            ko: "であれば / ならば를 붙임: 静か → 静かであれば"
+          nouns:
+            en: "Add であれば / ならば: 学生 → 学生であれば"
+            ko: "であれば / ならば를 붙임: 学生 → 学生であれば"
+        nuance:
+          en: "Hypothetical/general condition. Emphasizes the condition itself. Often used for natural consequences, general truths, and giving advice."
+          ko: "가정적/일반적 조건. 조건 자체를 강조. 자연적 결과, 일반적 진리, 조언에 자주 사용."
+        examples:
+          - sentence: 薬を飲めば、治ります。
+            translation: {en: "If you take medicine, you'll get better.", ko: "약을 먹으면 나을 것입니다."}
+          - sentence: 安ければ、買います。
+            translation: {en: "If it's cheap, I'll buy it.", ko: "싸면 사겠습니다."}
+        restriction:
+          en: "Generally, the main clause should not be a volitional action by the speaker (use たら instead). Exception: advice/suggestion is OK."
+          ko: "일반적으로 주절이 화자의 의지적 행동이면 안 됨 (대신 たら 사용). 예외: 조언/제안은 가능."
+
+      - pattern: たら
+        label:
+          en: "たら-conditional"
+          ko: "たら 조건"
+        formation:
+          en: "た-form + ら: 書いた → 書いたら, 食べた → 食べたら, 高かった → 高かったら"
+          ko: "た형 + ら: 書いた → 書いたら, 食べた → 食べたら, 高かった → 高かったら"
+        nuance:
+          en: "Most versatile conditional. Means 'when/if ~ happens, then ~'. Can be used for hypothetical, actual, and counterfactual conditions. Implies temporal sequence (A happens, then B)."
+          ko: "가장 다용도 조건. '~하면/~했을 때'를 의미. 가정적, 실제, 반사실적 조건 모두 사용 가능. 시간적 순서를 암시 (A가 일어난 후 B)."
+        examples:
+          - sentence: 雨が降ったら、出かけません。
+            translation: {en: "If it rains, I won't go out.", ko: "비가 오면 외출하지 않겠습니다."}
+          - sentence: 家に帰ったら、電話してください。
+            translation: {en: "When you get home, please call me.", ko: "집에 돌아오면 전화해 주세요."}
+          - sentence: もっと早く起きたら、間に合ったのに。
+            translation: {en: "If I had woken up earlier, I would have made it.", ko: "더 일찍 일어났다면 제시간에 댔을 텐데."}
+
+      - pattern: なら
+        label:
+          en: "なら-conditional"
+          ko: "なら 조건"
+        formation:
+          en: "Plain form + なら: 行くなら, 学生なら, 静かなら"
+          ko: "보통형 + なら: 行くなら, 学生なら, 静かなら"
+        nuance:
+          en: "Topic-based conditional. 'If it's the case that ~' or 'if we're talking about ~'. Used when responding to information or when the condition is about a topic/situation."
+          ko: "주제 기반 조건. '~라면' 또는 '~에 대해 말하자면'. 정보에 대응하거나 조건이 주제/상황에 관한 것일 때 사용."
+        examples:
+          - sentence: 日本に行くなら、京都がおすすめです。
+            translation: {en: "If you're going to Japan, I recommend Kyoto.", ko: "일본에 간다면 교토를 추천합니다."}
+          - sentence: 魚なら、このレストランがいいです。
+            translation: {en: "If it's fish (you want), this restaurant is good.", ko: "생선이라면 이 레스토랑이 좋습니다."}
+
+      - pattern: と
+        label:
+          en: "と-conditional"
+          ko: "と 조건"
+        formation:
+          en: "Dictionary form + と: 押すと, 春になると"
+          ko: "사전형 + と: 押すと, 春になると"
+        nuance:
+          en: "Automatic/inevitable consequence. 'Whenever A, always B.' Used for natural laws, habitual results, machine operations, and directions."
+          ko: "자동적/필연적 결과. 'A하면 항상 B.' 자연 법칙, 습관적 결과, 기계 작동, 길 안내에 사용."
+        examples:
+          - sentence: このボタンを押すと、ドアが開きます。
+            translation: {en: "If you press this button, the door opens.", ko: "이 버튼을 누르면 문이 열립니다."}
+          - sentence: 春になると、桜が咲きます。
+            translation: {en: "When spring comes, cherry blossoms bloom.", ko: "봄이 되면 벚꽃이 핍니다."}
+        restriction:
+          en: "Main clause CANNOT be a request, command, invitation, or volitional action. Only states/habitual/automatic results."
+          ko: "주절이 요청, 명령, 권유, 의지적 행동이 될 수 없음. 상태/습관적/자동적 결과만 가능."
+
+    comparison_summary:
+      en: |
+        ば: Hypothetical, general truths, advice. Formal tone.
+        たら: Most flexible. Hypothetical + actual + past. Any main clause.
+        なら: Topic-based. "If it's the case that..." Responding to context.
+        と: Automatic/inevitable. Natural laws, directions, habits. No volition in main clause.
+      ko: |
+        ば: 가정적, 일반적 진리, 조언. 격식체 어조.
+        たら: 가장 유연. 가정 + 실제 + 과거. 모든 주절 가능.
+        なら: 주제 기반. "~라면..." 문맥에 대응.
+        と: 자동적/필연적. 자연 법칙, 길 안내, 습관. 주절에 의지 불가.
+
+  # ============================================================
+  # 7. COUNTER WORDS
+  # ============================================================
+  counter_words:
+    id: counter_words
+    label:
+      en: "Counter Words (助数詞)"
+      ko: "수사 (助数詞)"
+    category: vocabulary
+    jlpt: N5
+    description:
+      en: "Japanese uses counter words (classifiers) when counting objects. The counter used depends on the shape, size, or type of the object being counted. Numbers combine with counters and sometimes cause sound changes."
+      ko: "일본어는 사물을 셀 때 수사 (분류사)를 사용한다. 사용되는 수사는 세는 대상의 모양, 크기, 유형에 따라 달라진다. 숫자와 수사가 결합할 때 음변화가 일어나기도 한다."
+    counters:
+      - counter: つ
+        reading: つ
+        label:
+          en: "General Counter (つ)"
+          ko: "범용 수사 (つ)"
+        used_for:
+          en: "General-purpose counter for things. Uses native Japanese number system (ひとつ, ふたつ...). Only goes up to 10."
+          ko: "사물용 범용 수사. 일본 고유 숫자 체계 사용 (ひとつ, ふたつ...). 10까지만."
+        counting:
+          1: ひとつ
+          2: ふたつ
+          3: みっつ
+          4: よっつ
+          5: いつつ
+          6: むっつ
+          7: ななつ
+          8: やっつ
+          9: ここのつ
+          10: とお
+        notes:
+          en: "For 11+, use the specific counter for the object. This counter can be used as a fallback when you don't know the specific counter."
+          ko: "11 이상은 대상에 맞는 특정 수사 사용. 특정 수사를 모를 때 대체로 사용 가능."
+
+      - counter: 人
+        reading: にん
+        label:
+          en: "People Counter (人)"
+          ko: "사람 수사 (人)"
+        used_for:
+          en: "Counting people."
+          ko: "사람을 셀 때."
+        counting:
+          1: ひとり
+          2: ふたり
+          3: さんにん
+          4: よにん
+          5: ごにん
+          6: ろくにん
+          7: しちにん / ななにん
+          8: はちにん
+          9: きゅうにん
+          10: じゅうにん
+        notes:
+          en: "1 and 2 use irregular readings (ひとり, ふたり). From 3 onward, use Sino-Japanese numbers + にん. 4 is よにん (not しにん)."
+          ko: "1과 2는 불규칙 읽기 (ひとり, ふたり). 3부터 한자어 숫자 + にん 사용. 4는 よにん (しにん이 아님)."
+
+      - counter: 本
+        reading: ほん
+        label:
+          en: "Long/Cylindrical Objects Counter (本)"
+          ko: "긴/원통형 물체 수사 (本)"
+        used_for:
+          en: "Pencils, bottles, trees, roads, rivers, trains, films, phone calls, and other long/cylindrical objects."
+          ko: "연필, 병, 나무, 도로, 강, 기차, 영화, 전화 통화 등 긴/원통형 물체."
+        counting:
+          1: いっぽん
+          2: にほん
+          3: さんぼん
+          4: よんほん
+          5: ごほん
+          6: ろっぽん
+          7: ななほん
+          8: はっぽん / はちほん
+          9: きゅうほん
+          10: じゅっぽん
+        notes:
+          en: "Sound changes (rendaku): 1, 6, 8, 10 → っぽん (gemination + p). 3 → ぼん (b). Others → ほん (h)."
+          ko: "음변화 (연탁): 1, 6, 8, 10 → っぽん (촉음 + p). 3 → ぼん (b). 나머지 → ほん (h)."
+
+      - counter: 枚
+        reading: まい
+        label:
+          en: "Flat Objects Counter (枚)"
+          ko: "납작한 물체 수사 (枚)"
+        used_for:
+          en: "Paper, tickets, plates, shirts, photos, CDs, slices of bread, and other flat/thin objects."
+          ko: "종이, 표, 접시, 셔츠, 사진, CD, 빵 조각 등 납작한/얇은 물체."
+        counting:
+          1: いちまい
+          2: にまい
+          3: さんまい
+          4: よんまい
+          5: ごまい
+          6: ろくまい
+          7: ななまい
+          8: はちまい
+          9: きゅうまい
+          10: じゅうまい
+        notes:
+          en: "No sound changes. Simple counter to use."
+          ko: "음변화 없음. 사용이 간단한 수사."
+
+      - counter: 匹
+        reading: ひき
+        label:
+          en: "Small Animals Counter (匹)"
+          ko: "작은 동물 수사 (匹)"
+        used_for:
+          en: "Small/medium animals: cats, dogs, fish, insects, etc. For large animals (horses, elephants), use 頭 (とう)."
+          ko: "중소형 동물: 고양이, 개, 물고기, 곤충 등. 대형 동물 (말, 코끼리)은 頭 (とう) 사용."
+        counting:
+          1: いっぴき
+          2: にひき
+          3: さんびき
+          4: よんひき
+          5: ごひき
+          6: ろっぴき
+          7: ななひき
+          8: はっぴき / はちひき
+          9: きゅうひき
+          10: じゅっぴき
+        notes:
+          en: "Sound changes similar to 本: 1, 6, 8, 10 → っぴき (gemination + p). 3 → びき (b). Others → ひき (h)."
+          ko: "本과 유사한 음변화: 1, 6, 8, 10 → っぴき (촉음 + p). 3 → びき (b). 나머지 → ひき (h)."
+
+      - counter: 台
+        reading: だい
+        label:
+          en: "Machines/Vehicles Counter (台)"
+          ko: "기계/차량 수사 (台)"
+        used_for:
+          en: "Cars, bicycles, computers, TVs, washing machines, and other machines/vehicles."
+          ko: "자동차, 자전거, 컴퓨터, TV, 세탁기 등 기계/차량."
+        counting:
+          1: いちだい
+          2: にだい
+          3: さんだい
+          4: よんだい
+          5: ごだい
+          6: ろくだい
+          7: ななだい
+          8: はちだい
+          9: きゅうだい
+          10: じゅうだい
+        notes:
+          en: "No irregular sound changes."
+          ko: "불규칙 음변화 없음."
+
+      - counter: 冊
+        reading: さつ
+        label:
+          en: "Books/Bound Volumes Counter (冊)"
+          ko: "책/제본 수사 (冊)"
+        used_for:
+          en: "Books, notebooks, dictionaries, magazines, and other bound volumes."
+          ko: "책, 노트, 사전, 잡지 등 제본된 것."
+        counting:
+          1: いっさつ
+          2: にさつ
+          3: さんさつ
+          4: よんさつ
+          5: ごさつ
+          6: ろくさつ
+          7: ななさつ
+          8: はっさつ
+          9: きゅうさつ
+          10: じゅっさつ
+        notes:
+          en: "Sound changes: 1 → いっさつ (gemination), 8 → はっさつ (gemination), 10 → じゅっさつ (gemination)."
+          ko: "음변화: 1 → いっさつ (촉음), 8 → はっさつ (촉음), 10 → じゅっさつ (촉음)."
+
+      - counter: 杯
+        reading: はい
+        label:
+          en: "Cups/Glasses Counter (杯)"
+          ko: "컵/잔 수사 (杯)"
+        used_for:
+          en: "Cups of coffee/tea, glasses of water/beer, bowls of rice/soup."
+          ko: "커피/차 한 잔, 물/맥주 한 잔, 밥/국 한 그릇."
+        counting:
+          1: いっぱい
+          2: にはい
+          3: さんばい
+          4: よんはい
+          5: ごはい
+          6: ろっぱい
+          7: ななはい
+          8: はっぱい / はちはい
+          9: きゅうはい
+          10: じゅっぱい
+        notes:
+          en: "Sound changes follow the same pattern as 本 and 匹: 1, 6, 8, 10 → っぱい. 3 → ばい."
+          ko: "本, 匹와 같은 음변화 패턴: 1, 6, 8, 10 → っぱい. 3 → ばい."
+
+    sound_change_summary:
+      label:
+        en: "Sound Change Pattern for は-row Counters"
+        ko: "は행 수사의 음변화 패턴"
+      description:
+        en: "Counters starting with h-sound (本, 匹, 杯 etc.) undergo the same pattern of sound changes (rendaku + gemination)."
+        ko: "h음으로 시작하는 수사 (本, 匹, 杯 등)는 같은 패턴의 음변화를 겪는다 (연탁 + 촉음)."
+      pattern:
+        1: "いっ + p (gemination → p-sound)"
+        3: "さん + b (rendaku → b-sound)"
+        6: "ろっ + p (gemination → p-sound)"
+        8: "はっ + p (gemination → p-sound)"
+        10: "じゅっ + p (gemination → p-sound)"
+        others: "no change (h-sound)"
