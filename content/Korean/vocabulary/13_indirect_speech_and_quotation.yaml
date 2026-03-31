@@ -1,0 +1,551 @@
+lesson: 13_Indirect_Speech_and_Quotation
+lesson_number: 13
+topik: TOPIK_II_3
+
+categories:
+- id: quotation_patterns
+  label:
+    en: Quotation Patterns
+    ko: 인용 표현
+  type: vocabulary
+  words:
+  - korean: -다고 하다
+    reading: null
+    translation:
+      en: to say that (statement)
+      ko: 평서문 간접 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Indirect quotation for declarative sentences"
+      ko: "평서문을 간접적으로 인용할 때 사용"
+  - korean: -냐고 하다
+    reading: null
+    translation:
+      en: to ask whether (question)
+      ko: 의문문 간접 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Indirect quotation for questions"
+      ko: "의문문을 간접적으로 인용할 때 사용"
+  - korean: -(으)라고 하다
+    reading: null
+    translation:
+      en: to tell someone to (command)
+      ko: 명령문 간접 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Indirect quotation for imperative sentences"
+      ko: "명령문을 간접적으로 인용할 때 사용"
+  - korean: -자고 하다
+    reading: null
+    translation:
+      en: to suggest that (proposal)
+      ko: 청유문 간접 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Indirect quotation for propositive sentences"
+      ko: "청유문을 간접적으로 인용할 때 사용"
+  - korean: -라고 하다
+    reading: null
+    translation:
+      en: to say it is called (naming)
+      ko: 이름이나 명칭을 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Used with nouns: N(이)라고 하다"
+      ko: "명사와 사용: N(이)라고 하다"
+  - korean: -다고
+    reading: null
+    translation:
+      en: (they) say that (statement, short)
+      ko: 평서문 인용 축약
+    gender: null
+    plural: null
+  - korean: -냐고
+    reading: null
+    translation:
+      en: (they) ask whether (question, short)
+      ko: 의문문 인용 축약
+    gender: null
+    plural: null
+  - korean: -(으)라고
+    reading: null
+    translation:
+      en: (they) told to (command, short)
+      ko: 명령문 인용 축약
+    gender: null
+    plural: null
+  - korean: -자고
+    reading: null
+    translation:
+      en: (they) suggest (proposal, short)
+      ko: 청유문 인용 축약
+    gender: null
+    plural: null
+
+- id: shortened_forms
+  label:
+    en: Shortened Quotation Forms
+    ko: 축약형 인용 표현
+  type: vocabulary
+  words:
+  - korean: -대요
+    reading: null
+    translation:
+      en: (they) say that (shortened statement)
+      ko: -다고 해요의 축약형
+    gender: null
+    plural: null
+    notes:
+      en: "Casual shortened form of -다고 해요"
+      ko: "-다고 해요를 줄인 형태"
+  - korean: -냬요
+    reading: null
+    translation:
+      en: (they) ask whether (shortened question)
+      ko: -냐고 해요의 축약형
+    gender: null
+    plural: null
+    notes:
+      en: "Casual shortened form of -냐고 해요"
+      ko: "-냐고 해요를 줄인 형태"
+  - korean: -래요
+    reading: null
+    translation:
+      en: (they) told to (shortened command)
+      ko: -(으)라고 해요의 축약형
+    gender: null
+    plural: null
+    notes:
+      en: "Casual shortened form of -(으)라고 해요"
+      ko: "-(으)라고 해요를 줄인 형태"
+  - korean: -재요
+    reading: null
+    translation:
+      en: (they) suggest (shortened proposal)
+      ko: -자고 해요의 축약형
+    gender: null
+    plural: null
+    notes:
+      en: "Casual shortened form of -자고 해요"
+      ko: "-자고 해요를 줄인 형태"
+  - korean: -다고요
+    reading: null
+    translation:
+      en: I said that... (reaffirmation)
+      ko: 자신의 말을 다시 강조
+    gender: null
+    plural: null
+    notes:
+      en: "Used to repeat or emphasize what you already said"
+      ko: "이미 한 말을 반복하거나 강조할 때"
+  - korean: -다니
+    reading: null
+    translation:
+      en: to think that... (surprise/disbelief)
+      ko: 놀라움이나 의아함을 나타냄
+    gender: null
+    plural: null
+    notes:
+      en: "Expresses surprise at what was heard"
+      ko: "들은 내용에 대한 놀라움 표현"
+  - korean: -다면서요
+    reading: null
+    translation:
+      en: I heard that... (confirmation)
+      ko: 확인을 구하는 인용
+    gender: null
+    plural: null
+    notes:
+      en: "Seeking confirmation of something heard"
+      ko: "들은 내용을 확인할 때"
+
+- id: reporting_verbs
+  label:
+    en: Reporting Verbs
+    ko: 전달 동사
+  type: vocabulary
+  words:
+  - korean: 말하다
+    reading: null
+    translation:
+      en: to say / to speak
+      ko: 말하다
+    gender: null
+    plural: null
+  - korean: 말씀하다
+    reading: null
+    translation:
+      en: to say (honorific)
+      ko: 말하다의 높임말
+    gender: null
+    plural: null
+  - korean: 물어보다
+    reading: null
+    translation:
+      en: to ask (a question)
+      ko: 질문하다
+    gender: null
+    plural: null
+  - korean: 대답하다
+    reading: null
+    translation:
+      en: to answer / to reply
+      ko: 대답하다
+    gender: null
+    plural: null
+  - korean: 설명하다
+    reading: null
+    translation:
+      en: to explain
+      ko: 설명하다
+    gender: null
+    plural: null
+  - korean: 부탁하다
+    reading: null
+    translation:
+      en: to request / to ask a favor
+      ko: 부탁하다
+    gender: null
+    plural: null
+  - korean: 약속하다
+    reading: null
+    translation:
+      en: to promise
+      ko: 약속하다
+    gender: null
+    plural: null
+  - korean: 전하다
+    reading: null
+    translation:
+      en: to convey / to deliver (a message)
+      ko: 전하다
+    gender: null
+    plural: null
+  - korean: 주장하다
+    reading: null
+    translation:
+      en: to claim / to assert
+      ko: 주장하다
+    gender: null
+    plural: null
+  - korean: 제안하다
+    reading: null
+    translation:
+      en: to propose / to suggest
+      ko: 제안하다
+    gender: null
+    plural: null
+  - korean: 알리다
+    reading: null
+    translation:
+      en: to inform / to notify
+      ko: 알리다
+    gender: null
+    plural: null
+  - korean: 경고하다
+    reading: null
+    translation:
+      en: to warn
+      ko: 경고하다
+    gender: null
+    plural: null
+  - korean: 인정하다
+    reading: null
+    translation:
+      en: to admit / to acknowledge
+      ko: 인정하다
+    gender: null
+    plural: null
+  - korean: 부인하다
+    reading: null
+    translation:
+      en: to deny
+      ko: 부인하다
+    gender: null
+    plural: null
+
+- id: speech_related
+  label:
+    en: Speech-Related Vocabulary
+    ko: 말하기 관련 어휘
+  type: vocabulary
+  words:
+  - korean: 직접 인용
+    reading: null
+    translation:
+      en: direct quotation
+      ko: 남의 말을 그대로 옮김
+    gender: null
+    plural: null
+  - korean: 간접 인용
+    reading: null
+    translation:
+      en: indirect quotation
+      ko: 남의 말을 바꾸어 옮김
+    gender: null
+    plural: null
+  - korean: 인용
+    reading: null
+    translation:
+      en: quotation / citation
+      ko: 남의 말을 옮김
+    gender: null
+    plural: null
+  - korean: 소문
+    reading: null
+    translation:
+      en: rumor
+      ko: 떠도는 이야기
+    gender: null
+    plural: null
+  - korean: 뉴스
+    reading: null
+    translation:
+      en: news
+      ko: 새로운 소식
+    gender: null
+    plural: null
+  - korean: 의견
+    reading: null
+    translation:
+      en: opinion
+      ko: 어떤 것에 대한 생각
+    gender: null
+    plural: null
+  - korean: 사실
+    reading: null
+    translation:
+      en: fact / actually
+      ko: 실제로 있는 일
+    gender: null
+    plural: null
+  - korean: 거짓말
+    reading: null
+    translation:
+      en: lie
+      ko: 사실이 아닌 말
+    gender: null
+    plural: null
+  - korean: 소식
+    reading: null
+    translation:
+      en: news / tidings
+      ko: 새로운 알림
+    gender: null
+    plural: null
+  - korean: 대화
+    reading: null
+    translation:
+      en: conversation / dialogue
+      ko: 마주 보고 이야기를 나눔
+    gender: null
+    plural: null
+  - korean: 발표
+    reading: null
+    translation:
+      en: presentation / announcement
+      ko: 여러 사람 앞에서 알림
+    gender: null
+    plural: null
+  - korean: 토론
+    reading: null
+    translation:
+      en: debate / discussion
+      ko: 서로 의견을 나눔
+    gender: null
+    plural: null
+  - korean: 평서문
+    reading: null
+    translation:
+      en: declarative sentence
+      ko: 사실을 진술하는 문장
+    gender: null
+    plural: null
+  - korean: 의문문
+    reading: null
+    translation:
+      en: interrogative sentence
+      ko: 질문하는 문장
+    gender: null
+    plural: null
+  - korean: 명령문
+    reading: null
+    translation:
+      en: imperative sentence
+      ko: 명령하는 문장
+    gender: null
+    plural: null
+  - korean: 청유문
+    reading: null
+    translation:
+      en: propositive sentence
+      ko: 함께 하자고 하는 문장
+    gender: null
+    plural: null
+  - korean: 감탄문
+    reading: null
+    translation:
+      en: exclamatory sentence
+      ko: 감탄하는 문장
+    gender: null
+    plural: null
+  - korean: 화자
+    reading: null
+    translation:
+      en: speaker
+      ko: 말하는 사람
+    gender: null
+    plural: null
+  - korean: 청자
+    reading: null
+    translation:
+      en: listener
+      ko: 듣는 사람
+    gender: null
+    plural: null
+  - korean: 전달하다
+    reading: null
+    translation:
+      en: to deliver / to relay
+      ko: 남에게 전해 주다
+    gender: null
+    plural: null
+  - korean: 따옴표
+    reading: null
+    translation:
+      en: quotation marks
+      ko: 인용할 때 쓰는 부호 (" ")
+    gender: null
+    plural: null
+  - korean: 확인하다
+    reading: null
+    translation:
+      en: to confirm / to verify
+      ko: 확실히 알아보다
+    gender: null
+    plural: null
+  - korean: 추천하다
+    reading: null
+    translation:
+      en: to recommend
+      ko: 좋다고 소개하다
+    gender: null
+    plural: null
+  - korean: 강조하다
+    reading: null
+    translation:
+      en: to emphasize
+      ko: 특히 두드러지게 하다
+    gender: null
+    plural: null
+  - korean: 동의하다
+    reading: null
+    translation:
+      en: to agree
+      ko: 같은 의견을 갖다
+    gender: null
+    plural: null
+  - korean: 반대하다
+    reading: null
+    translation:
+      en: to oppose / to object
+      ko: 맞서다
+    gender: null
+    plural: null
+  - korean: 비판하다
+    reading: null
+    translation:
+      en: to criticize
+      ko: 잘못을 지적하다
+    gender: null
+    plural: null
+  - korean: 칭찬하다
+    reading: null
+    translation:
+      en: to praise / to compliment
+      ko: 잘했다고 말하다
+    gender: null
+    plural: null
+  - korean: 불평하다
+    reading: null
+    translation:
+      en: to complain
+      ko: 불만을 말하다
+    gender: null
+    plural: null
+  - korean: 사과하다
+    reading: null
+    translation:
+      en: to apologize
+      ko: 잘못을 빌다
+    gender: null
+    plural: null
+  - korean: 거절하다
+    reading: null
+    translation:
+      en: to refuse / to decline
+      ko: 받아들이지 않다
+    gender: null
+    plural: null
+  - korean: 허락하다
+    reading: null
+    translation:
+      en: to permit / to allow
+      ko: 해도 좋다고 하다
+    gender: null
+    plural: null
+  - korean: 충고하다
+    reading: null
+    translation:
+      en: to advise / to counsel
+      ko: 좋은 방향으로 이끌어 말하다
+    gender: null
+    plural: null
+  - korean: 위로하다
+    reading: null
+    translation:
+      en: to console / to comfort
+      ko: 마음을 달래 주다
+    gender: null
+    plural: null
+  - korean: 격려하다
+    reading: null
+    translation:
+      en: to encourage
+      ko: 용기를 북돋아 주다
+    gender: null
+    plural: null
+  - korean: 선언하다
+    reading: null
+    translation:
+      en: to declare
+      ko: 공식적으로 알리다
+    gender: null
+    plural: null
+  - korean: 속삭이다
+    reading: null
+    translation:
+      en: to whisper
+      ko: 남이 듣지 못하게 작은 소리로 말하다
+    gender: null
+    plural: null
+  - korean: 소리치다
+    reading: null
+    translation:
+      en: to shout / to yell
+      ko: 큰 소리로 외치다
+    gender: null
+    plural: null
+  - korean: 중얼거리다
+    reading: null
+    translation:
+      en: to mumble / to mutter
+      ko: 혼자 작은 소리로 말하다
+    gender: null
+    plural: null

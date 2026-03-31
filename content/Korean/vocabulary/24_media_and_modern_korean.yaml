@@ -1,0 +1,565 @@
+lesson: 24_Media_and_Modern_Korean
+lesson_number: 24
+topik: TOPIK_II_5
+
+categories:
+- id: news_vocabulary
+  label:
+    en: News Vocabulary
+    ko: 뉴스 어휘
+  type: vocabulary
+  words:
+  - korean: 보도
+    reading: null
+    translation:
+      en: news report, coverage
+      ko: 보도
+    gender: null
+    plural: null
+  - korean: 기자
+    reading: null
+    translation:
+      en: reporter, journalist
+      ko: 기자
+    gender: null
+    plural: null
+  - korean: 논란
+    reading: null
+    translation:
+      en: controversy
+      ko: 논란
+    gender: null
+    plural: null
+  - korean: 대책
+    reading: null
+    translation:
+      en: countermeasure, response plan
+      ko: 대책
+    gender: null
+    plural: null
+  - korean: 사건
+    reading: null
+    translation:
+      en: incident, case
+      ko: 사건
+    gender: null
+    plural: null
+  - korean: 사고
+    reading: null
+    translation:
+      en: accident
+      ko: 사고
+    gender: null
+    plural: null
+  - korean: 속보
+    reading: null
+    translation:
+      en: breaking news
+      ko: 속보
+    gender: null
+    plural: null
+  - korean: 발표
+    reading: null
+    translation:
+      en: announcement
+      ko: 발표
+    gender: null
+    plural: null
+  - korean: 여론
+    reading: null
+    translation:
+      en: public opinion
+      ko: 여론
+    gender: null
+    plural: null
+  - korean: 취재
+    reading: null
+    translation:
+      en: news gathering, coverage
+      ko: 취재
+    gender: null
+    plural: null
+  - korean: 피해
+    reading: null
+    translation:
+      en: damage, harm
+      ko: 피해
+    gender: null
+    plural: null
+  - korean: 당국
+    reading: null
+    translation:
+      en: authorities
+      ko: 당국
+    gender: null
+    plural: null
+  - korean: 헤드라인
+    reading: null
+    translation:
+      en: headline
+      ko: 제목, 표제
+    gender: null
+    plural: null
+  - korean: 사설
+    reading: null
+    translation:
+      en: editorial
+      ko: 사설
+    gender: null
+    plural: null
+  - korean: 칼럼
+    reading: null
+    translation:
+      en: column (newspaper)
+      ko: 신문 칼럼
+    gender: null
+    plural: null
+
+- id: internet_sns
+  label:
+    en: Internet and SNS Language
+    ko: 인터넷·SNS 용어
+  type: vocabulary
+  words:
+  - korean: ㅋㅋㅋ
+    reading: null
+    translation:
+      en: hahaha (laughter)
+      ko: 웃음 표현
+    gender: null
+    plural: null
+    notes:
+      en: "ㅋ represents laughter; more ㅋ's = more laughter"
+      ko: "ㅋ은 웃음을 나타냄; ㅋ이 많을수록 더 많이 웃는 것"
+  - korean: ㅎㅎ
+    reading: null
+    translation:
+      en: hehe (soft laughter)
+      ko: 부드러운 웃음 표현
+    gender: null
+    plural: null
+  - korean: ㅇㅋ
+    reading: null
+    translation:
+      en: OK (abbreviated)
+      ko: 오케이의 축약
+    gender: null
+    plural: null
+  - korean: ㄱㄱ
+    reading: null
+    translation:
+      en: let's go (abbreviated from 고고)
+      ko: 고고의 축약 (가자)
+    gender: null
+    plural: null
+  - korean: ㅇㅇ
+    reading: null
+    translation:
+      en: yes, yeah (abbreviated from 응응)
+      ko: 응응의 축약 (긍정)
+    gender: null
+    plural: null
+  - korean: ㄴㄴ
+    reading: null
+    translation:
+      en: no no (abbreviated from 노노)
+      ko: 노노의 축약 (부정)
+    gender: null
+    plural: null
+  - korean: 댓글
+    reading: null
+    translation:
+      en: comment (online)
+      ko: 인터넷 댓글
+    gender: null
+    plural: null
+  - korean: 게시판
+    reading: null
+    translation:
+      en: bulletin board, forum
+      ko: 인터넷 게시판
+    gender: null
+    plural: null
+  - korean: 검색
+    reading: null
+    translation:
+      en: search (online)
+      ko: 검색
+    gender: null
+    plural: null
+  - korean: 팔로우
+    reading: null
+    translation:
+      en: follow (on social media)
+      ko: 소셜미디어에서 팔로우
+    gender: null
+    plural: null
+  - korean: 좋아요
+    reading: null
+    translation:
+      en: like (social media)
+      ko: 소셜미디어 좋아요
+    gender: null
+    plural: null
+  - korean: 공유
+    reading: null
+    translation:
+      en: share (social media)
+      ko: 공유하기
+    gender: null
+    plural: null
+  - korean: 실시간
+    reading: null
+    translation:
+      en: real-time
+      ko: 실시간
+    gender: null
+    plural: null
+  - korean: 해시태그
+    reading: null
+    translation:
+      en: hashtag
+      ko: 해시태그
+    gender: null
+    plural: null
+
+- id: youth_slang
+  label:
+    en: Youth Slang and Trends
+    ko: 신조어·유행어
+  type: vocabulary
+  words:
+  - korean: 대박
+    reading: null
+    translation:
+      en: awesome, jackpot
+      ko: 대단하다, 놀랍다
+    gender: null
+    plural: null
+    notes:
+      en: "Originally 'jackpot'; now a general exclamation of amazement"
+      ko: "원래 '대성공'; 지금은 놀라움의 일반 감탄사"
+  - korean: 헐
+    reading: null
+    translation:
+      en: OMG, whoa (exclamation of shock)
+      ko: 놀라움의 감탄사
+    gender: null
+    plural: null
+  - korean: 꿀잼
+    reading: null
+    translation:
+      en: super fun (honey + fun)
+      ko: 매우 재미있다 (꿀 + 재미)
+    gender: null
+    plural: null
+  - korean: 노잼
+    reading: null
+    translation:
+      en: not fun at all (no + fun)
+      ko: 전혀 재미없다 (노 + 재미)
+    gender: null
+    plural: null
+  - korean: 갑분싸
+    reading: null
+    translation:
+      en: sudden awkward silence
+      ko: 갑자기 분위기 싸해짐
+    gender: null
+    plural: null
+    notes:
+      en: "Abbreviation of 갑자기 분위기 싸해짐"
+      ko: "갑자기 분위기 싸해짐의 축약"
+  - korean: 인싸
+    reading: null
+    translation:
+      en: insider, popular person
+      ko: 인기 있는 사람 (insider에서)
+    gender: null
+    plural: null
+  - korean: 아싸
+    reading: null
+    translation:
+      en: outsider, loner
+      ko: 혼자인 사람 (outsider에서)
+    gender: null
+    plural: null
+  - korean: 존맛탱
+    reading: null
+    translation:
+      en: extremely delicious
+      ko: 존나 맛있다의 변형
+    gender: null
+    plural: null
+  - korean: 멘붕
+    reading: null
+    translation:
+      en: mental breakdown (mental + 붕괴)
+      ko: 멘탈 붕괴의 축약
+    gender: null
+    plural: null
+  - korean: TMI
+    reading: null
+    translation:
+      en: too much information
+      ko: 너무 많은 정보
+    gender: null
+    plural: null
+    notes:
+      en: "Borrowed English acronym widely used in Korean"
+      ko: "한국에서 널리 사용되는 영어 약어"
+  - korean: 맛집
+    reading: null
+    translation:
+      en: famous restaurant, must-eat place
+      ko: 맛있는 음식점
+    gender: null
+    plural: null
+  - korean: 핫플
+    reading: null
+    translation:
+      en: hot place, trendy spot
+      ko: 인기 장소 (핫플레이스의 축약)
+    gender: null
+    plural: null
+
+- id: konglish
+  label:
+    en: Konglish (Korean-English)
+    ko: 콩글리시
+  type: vocabulary
+  words:
+  - korean: 핸드폰
+    reading: null
+    translation:
+      en: mobile phone
+      ko: 휴대전화
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish: 'hand phone'; English uses 'cell phone' or 'mobile phone'"
+      ko: "콩글리시; 영어에서는 cell phone 또는 mobile phone"
+  - korean: 셀카
+    reading: null
+    translation:
+      en: selfie
+      ko: 자기 사진 찍기
+    gender: null
+    plural: null
+    notes:
+      en: "From 'self camera'; abbreviated to 셀카"
+      ko: "셀프 카메라의 축약"
+  - korean: 파이팅
+    reading: null
+    translation:
+      en: fighting! (cheer of encouragement)
+      ko: 힘내!, 화이팅!
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish encouragement; not used this way in English"
+      ko: "콩글리시 응원 표현; 영어에서는 이렇게 사용하지 않음"
+  - korean: 아이쇼핑
+    reading: null
+    translation:
+      en: window shopping
+      ko: 구경만 하는 쇼핑
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish: 'eye shopping'; English uses 'window shopping'"
+      ko: "콩글리시; 영어에서는 window shopping"
+  - korean: 에어컨
+    reading: null
+    translation:
+      en: air conditioner
+      ko: 에어컨디셔너의 축약
+    gender: null
+    plural: null
+  - korean: 노트북
+    reading: null
+    translation:
+      en: laptop computer
+      ko: 휴대용 컴퓨터
+    gender: null
+    plural: null
+    notes:
+      en: "In Korean, 노트북 means laptop; in English, a notebook is a paper book"
+      ko: "한국어에서는 노트북이 랩톱을 의미; 영어에서는 공책"
+  - korean: 원샷
+    reading: null
+    translation:
+      en: bottoms up, chug
+      ko: 한 번에 마시기
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish: 'one shot'; used when drinking"
+      ko: "콩글리시; 술을 한 번에 마실 때 사용"
+  - korean: 스킨십
+    reading: null
+    translation:
+      en: physical affection, physical contact
+      ko: 신체적 접촉/애정 표현
+    gender: null
+    plural: null
+    notes:
+      en: "Konglish from 'skin + ship'; not used in English"
+      ko: "skin + ship의 합성어; 영어에서는 사용하지 않는 표현"
+
+- id: media_terms
+  label:
+    en: Media Terms
+    ko: 미디어 용어
+  type: vocabulary
+  words:
+  - korean: 방송
+    reading: null
+    translation:
+      en: broadcast, broadcasting
+      ko: 방송
+    gender: null
+    plural: null
+  - korean: 드라마
+    reading: null
+    translation:
+      en: TV drama, K-drama
+      ko: 텔레비전 드라마
+    gender: null
+    plural: null
+  - korean: 예능
+    reading: null
+    translation:
+      en: variety show, entertainment program
+      ko: 예능 프로그램
+    gender: null
+    plural: null
+  - korean: 웹툰
+    reading: null
+    translation:
+      en: webtoon (digital comic)
+      ko: 인터넷 만화
+    gender: null
+    plural: null
+    notes:
+      en: "Korean-originated digital comic format; major global cultural export"
+      ko: "한국에서 시작된 디지털 만화; 주요 세계 문화 수출품"
+  - korean: 유튜브
+    reading: null
+    translation:
+      en: YouTube
+      ko: 유튜브
+    gender: null
+    plural: null
+  - korean: 스트리밍
+    reading: null
+    translation:
+      en: streaming
+      ko: 스트리밍
+    gender: null
+    plural: null
+  - korean: 시청률
+    reading: null
+    translation:
+      en: viewership rating
+      ko: 시청률
+    gender: null
+    plural: null
+  - korean: 구독
+    reading: null
+    translation:
+      en: subscription, subscribe
+      ko: 구독
+    gender: null
+    plural: null
+  - korean: 콘텐츠
+    reading: null
+    translation:
+      en: content (media)
+      ko: 콘텐츠
+    gender: null
+    plural: null
+  - korean: 인플루언서
+    reading: null
+    translation:
+      en: influencer
+      ko: 인플루언서
+    gender: null
+    plural: null
+  - korean: 광고
+    reading: null
+    translation:
+      en: advertisement
+      ko: 광고
+    gender: null
+    plural: null
+  - korean: 팬덤
+    reading: null
+    translation:
+      en: fandom
+      ko: 팬덤, 팬 집단
+    gender: null
+    plural: null
+  - korean: 채널
+    reading: null
+    translation:
+      en: channel
+      ko: 채널
+    gender: null
+    plural: null
+  - korean: 출연
+    reading: null
+    translation:
+      en: appearance (on TV/media)
+      ko: 출연
+    gender: null
+    plural: null
+  - korean: 연예인
+    reading: null
+    translation:
+      en: celebrity, entertainer
+      ko: 연예인
+    gender: null
+    plural: null
+  - korean: 프로듀서
+    reading: null
+    translation:
+      en: producer
+      ko: 프로듀서
+    gender: null
+    plural: null
+  - korean: 자막
+    reading: null
+    translation:
+      en: subtitles, captions
+      ko: 자막
+    gender: null
+    plural: null
+  - korean: 팟캐스트
+    reading: null
+    translation:
+      en: podcast
+      ko: 팟캐스트
+    gender: null
+    plural: null
+  - korean: 라이브
+    reading: null
+    translation:
+      en: live (broadcast)
+      ko: 실시간 방송
+    gender: null
+    plural: null
+  - korean: 조회수
+    reading: null
+    translation:
+      en: view count
+      ko: 조회수
+    gender: null
+    plural: null
+  - korean: 알고리즘
+    reading: null
+    translation:
+      en: algorithm (social media)
+      ko: 알고리즘
+    gender: null
+    plural: null

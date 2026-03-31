@@ -1,0 +1,569 @@
+lesson: 16_Advanced_Grammar_Patterns
+lesson_number: 16
+topik: TOPIK_II_4
+
+categories:
+- id: advanced_connectives
+  label:
+    en: Advanced Connective Expressions
+    ko: 고급 연결 표현
+  type: vocabulary
+  words:
+  - korean: -는 바람에
+    reading: null
+    translation:
+      en: because of (unexpected cause)
+      ko: 예상치 못한 원인을 나타냄
+    gender: null
+    plural: null
+    notes:
+      en: "Always used with negative/unintended results"
+      ko: "항상 부정적/의도하지 않은 결과와 함께 사용"
+  - korean: -탓에
+    reading: null
+    translation:
+      en: because of / due to (blame)
+      ko: ~때문에 (부정적 원인)
+    gender: null
+    plural: null
+    notes:
+      en: "Implies blame; negative cause"
+      ko: "탓을 돌리는 뉘앙스; 부정적 원인"
+  - korean: -덕분에
+    reading: null
+    translation:
+      en: thanks to / owing to
+      ko: ~때문에 (긍정적 원인)
+    gender: null
+    plural: null
+    notes:
+      en: "Implies gratitude; positive cause"
+      ko: "감사의 뉘앙스; 긍정적 원인"
+  - korean: -뿐만 아니라
+    reading: null
+    translation:
+      en: not only... but also
+      ko: ~뿐만 아니라 ~도
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ뿐더러
+    reading: null
+    translation:
+      en: not only... but also (formal)
+      ko: ~뿐만 아니라 (격식적)
+    gender: null
+    plural: null
+  - korean: -는 대신에
+    reading: null
+    translation:
+      en: instead of / in exchange for
+      ko: ~하는 대신에
+    gender: null
+    plural: null
+  - korean: -는 한
+    reading: null
+    translation:
+      en: as long as / as far as
+      ko: ~하는 한
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ수록
+    reading: null
+    translation:
+      en: the more... the more
+      ko: ~하면 할수록
+    gender: null
+    plural: null
+    notes:
+      en: "Often in pattern: V-(으)면 V-(으)ㄹ수록"
+      ko: "자주 V-(으)면 V-(으)ㄹ수록 패턴으로 사용"
+  - korean: -는 반면에
+    reading: null
+    translation:
+      en: while / whereas (contrast)
+      ko: 반대 측면에서
+    gender: null
+    plural: null
+  - korean: -(으)ㄴ/는 셈이다
+    reading: null
+    translation:
+      en: it amounts to / practically speaking
+      ko: 결과적으로 ~인 것이다
+    gender: null
+    plural: null
+  - korean: -는 김에
+    reading: null
+    translation:
+      en: while (you're at it)
+      ko: ~하는 기회에
+    gender: null
+    plural: null
+    notes:
+      en: "Taking advantage of an opportunity"
+      ko: "기회를 이용하여"
+  - korean: -는 통에
+    reading: null
+    translation:
+      en: because of (chaotic situation)
+      ko: ~하는 소동 때문에
+    gender: null
+    plural: null
+    notes:
+      en: "Similar to -는 바람에; implies confusion"
+      ko: "-는 바람에와 유사; 혼란의 뉘앙스"
+
+- id: retrospective
+  label:
+    en: Retrospective Patterns
+    ko: 회상 표현
+  type: vocabulary
+  words:
+  - korean: -더라
+    reading: null
+    translation:
+      en: I recall that / I noticed that
+      ko: 과거의 경험을 회상
+    gender: null
+    plural: null
+    notes:
+      en: "Speaker reports past personal observation (casual)"
+      ko: "과거 직접 경험한 것을 전달 (비격식)"
+  - korean: -더라고요
+    reading: null
+    translation:
+      en: I noticed that / I found that (polite)
+      ko: 과거의 경험을 회상 (높임)
+    gender: null
+    plural: null
+    notes:
+      en: "Polite version of -더라"
+      ko: "-더라의 높임 형태"
+  - korean: -더니
+    reading: null
+    translation:
+      en: after observing that... (then)
+      ko: 과거 관찰 후 결과
+    gender: null
+    plural: null
+    notes:
+      en: "Past observation followed by result/change"
+      ko: "과거 관찰한 것에 이어 결과/변화"
+  - korean: -던
+    reading: null
+    translation:
+      en: used to / was doing (modifier)
+      ko: 과거 미완료/습관 관형사형
+    gender: null
+    plural: null
+    notes:
+      en: "가던 곳 = the place one used to go"
+      ko: "가던 곳 = 예전에 자주 가던 곳"
+  - korean: -더라도
+    reading: null
+    translation:
+      en: even if (retrospective concession)
+      ko: ~했더라도 (회상적 양보)
+    gender: null
+    plural: null
+  - korean: 회상
+    reading: null
+    translation:
+      en: recollection / reminiscence
+      ko: 지난 일을 돌이켜 생각함
+    gender: null
+    plural: null
+  - korean: 경험
+    reading: null
+    translation:
+      en: experience
+      ko: 직접 겪은 것
+    gender: null
+    plural: null
+  - korean: 관찰
+    reading: null
+    translation:
+      en: observation
+      ko: 주의 깊게 살펴봄
+    gender: null
+    plural: null
+
+- id: modality
+  label:
+    en: Modality and Evidentiality
+    ko: 양태 표현
+  type: vocabulary
+  words:
+  - korean: -(으)ㄹ 수밖에 없다
+    reading: null
+    translation:
+      en: cannot help but / have no choice but to
+      ko: ~할 수밖에 없다
+    gender: null
+    plural: null
+  - korean: -기 마련이다
+    reading: null
+    translation:
+      en: it is bound to / it is natural that
+      ko: 당연히 ~하게 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Expresses inevitability"
+      ko: "필연성을 나타냄"
+  - korean: -(으)ㄹ 리가 없다
+    reading: null
+    translation:
+      en: there is no way that / it is impossible that
+      ko: ~할 리가 없다
+    gender: null
+    plural: null
+    notes:
+      en: "Strong disbelief or denial"
+      ko: "강한 불신이나 부정"
+  - korean: -(으)ㄹ 뻔하다
+    reading: null
+    translation:
+      en: almost did / nearly happened
+      ko: 하마터면 ~할 뻔하다
+    gender: null
+    plural: null
+    notes:
+      en: "Describes a close call: 넘어질 뻔했다 = almost fell"
+      ko: "아슬아슬한 상황: 넘어질 뻔했다"
+  - korean: -(으)ㄹ 만하다
+    reading: null
+    translation:
+      en: worth doing / deserving of
+      ko: ~할 가치가 있다
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 줄 알다/모르다
+    reading: null
+    translation:
+      en: to know/not know how to
+      ko: ~할 줄 알다/모르다
+    gender: null
+    plural: null
+  - korean: -는 척하다
+    reading: null
+    translation:
+      en: to pretend to
+      ko: ~하는 척하다
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 지경이다
+    reading: null
+    translation:
+      en: to be on the verge of / to the point of
+      ko: ~할 정도에 이르다
+    gender: null
+    plural: null
+  - korean: -다시피 하다
+    reading: null
+    translation:
+      en: to practically / to almost
+      ko: 거의 ~하다
+    gender: null
+    plural: null
+
+- id: conjunctive_patterns
+  label:
+    en: Advanced Conjunctive Vocabulary
+    ko: 고급 접속 어휘
+  type: vocabulary
+  words:
+  - korean: 게다가
+    reading: null
+    translation:
+      en: moreover / furthermore
+      ko: 그 위에 더
+    gender: null
+    plural: null
+  - korean: 뿐만 아니라
+    reading: null
+    translation:
+      en: not only... but also
+      ko: ~뿐만 아니라
+    gender: null
+    plural: null
+  - korean: 그렇지 않으면
+    reading: null
+    translation:
+      en: otherwise
+      ko: 그렇지 않으면
+    gender: null
+    plural: null
+  - korean: 결국
+    reading: null
+    translation:
+      en: in the end / eventually
+      ko: 마침내
+    gender: null
+    plural: null
+  - korean: 어쨌든
+    reading: null
+    translation:
+      en: anyway / in any case
+      ko: 어떻든 간에
+    gender: null
+    plural: null
+  - korean: 그럼에도 불구하고
+    reading: null
+    translation:
+      en: nevertheless / despite that
+      ko: 그런데도
+    gender: null
+    plural: null
+  - korean: 달리 말하면
+    reading: null
+    translation:
+      en: in other words
+      ko: 다르게 표현하면
+    gender: null
+    plural: null
+  - korean: 요컨대
+    reading: null
+    translation:
+      en: in short / to summarize
+      ko: 요약하면
+    gender: null
+    plural: null
+  - korean: 이를테면
+    reading: null
+    translation:
+      en: for example / for instance
+      ko: 예를 들면
+    gender: null
+    plural: null
+  - korean: 양태
+    reading: null
+    translation:
+      en: modality
+      ko: 화자의 태도를 나타내는 문법적 범주
+    gender: null
+    plural: null
+  - korean: 필연
+    reading: null
+    translation:
+      en: inevitability / necessity
+      ko: 반드시 그렇게 되는 것
+    gender: null
+    plural: null
+  - korean: 추측
+    reading: null
+    translation:
+      en: conjecture / guess
+      ko: 미루어 짐작함
+    gender: null
+    plural: null
+  - korean: 가능성
+    reading: null
+    translation:
+      en: possibility
+      ko: 될 수 있는 정도
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 정도로
+    reading: null
+    translation:
+      en: to the extent that / so much that
+      ko: ~할 만큼
+    gender: null
+    plural: null
+  - korean: -는 이상
+    reading: null
+    translation:
+      en: as long as / since
+      ko: ~하는 이상은
+    gender: null
+    plural: null
+  - korean: -는 만큼
+    reading: null
+    translation:
+      en: as much as / to the extent that
+      ko: ~하는 만큼
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 따름이다
+    reading: null
+    translation:
+      en: can only / merely
+      ko: ~할 뿐이다
+    gender: null
+    plural: null
+  - korean: -고자
+    reading: null
+    translation:
+      en: intending to / wishing to (formal)
+      ko: ~하려고 (격식적)
+    gender: null
+    plural: null
+  - korean: -(으)ㄹ 겸
+    reading: null
+    translation:
+      en: with the double purpose of
+      ko: ~할 겸 ~할 겸
+    gender: null
+    plural: null
+  - korean: -는 데다가
+    reading: null
+    translation:
+      en: on top of / in addition to
+      ko: ~하는 것에 더하여
+    gender: null
+    plural: null
+  - korean: -기는커녕
+    reading: null
+    translation:
+      en: far from / let alone
+      ko: ~하기는커녕
+    gender: null
+    plural: null
+    notes:
+      en: "밥을 먹기는커녕 물도 못 마셨다 = far from eating, couldn't even drink water"
+      ko: "밥을 먹기는커녕 물도 못 마셨다"
+  - korean: -(으)ㄹ 법하다
+    reading: null
+    translation:
+      en: it is likely that / it makes sense that
+      ko: ~할 만하다
+    gender: null
+    plural: null
+  - korean: -는 셈치다
+    reading: null
+    translation:
+      en: to consider as / to regard as
+      ko: ~한 것으로 치다
+    gender: null
+    plural: null
+  - korean: 그로 인해
+    reading: null
+    translation:
+      en: because of that / as a result
+      ko: 그것으로 인하여
+    gender: null
+    plural: null
+  - korean: 이로써
+    reading: null
+    translation:
+      en: by this means / hereby
+      ko: 이것으로써
+    gender: null
+    plural: null
+  - korean: 그야말로
+    reading: null
+    translation:
+      en: truly / really (emphatic)
+      ko: 정말로
+    gender: null
+    plural: null
+  - korean: 오죽하면
+    reading: null
+    translation:
+      en: how bad must it be that
+      ko: 얼마나 심하면
+    gender: null
+    plural: null
+    notes:
+      en: "Implies the situation is so extreme"
+      ko: "상황이 매우 심하다는 것을 내포"
+  - korean: 하물며
+    reading: null
+    translation:
+      en: let alone / much less
+      ko: 더 말할 것도 없이
+    gender: null
+    plural: null
+  - korean: 차라리
+    reading: null
+    translation:
+      en: rather / would rather
+      ko: 그보다는
+    gender: null
+    plural: null
+  - korean: 웬만하면
+    reading: null
+    translation:
+      en: if possible / unless necessary
+      ko: 될 수 있으면
+    gender: null
+    plural: null
+  - korean: 여간
+    reading: null
+    translation:
+      en: not ordinary / quite (with negative)
+      ko: 보통이 아닌 (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "여간 어려운 게 아니다 = it's not just a little difficult"
+      ko: "여간 어려운 게 아니다 = 매우 어렵다"
+  - korean: 도무지
+    reading: null
+    translation:
+      en: utterly / at all (with negative)
+      ko: 아무리 해도 (부정과 함께)
+    gender: null
+    plural: null
+  - korean: 도저히
+    reading: null
+    translation:
+      en: by any means / absolutely (with negative)
+      ko: 어떻게 해도 (부정과 함께)
+    gender: null
+    plural: null
+  - korean: 무릇
+    reading: null
+    translation:
+      en: generally / as a rule (literary)
+      ko: 대체로, 일반적으로 (문어적)
+    gender: null
+    plural: null
+  - korean: 비단
+    reading: null
+    translation:
+      en: not just / not merely
+      ko: 단지 ~뿐만이 아니라
+    gender: null
+    plural: null
+  - korean: 진작
+    reading: null
+    translation:
+      en: earlier / sooner (should have)
+      ko: 이미 오래전에
+    gender: null
+    plural: null
+    notes:
+      en: "Often implies regret: 진작 알았더라면"
+      ko: "종종 후회를 내포: 진작 알았더라면"
+  - korean: 미처
+    reading: null
+    translation:
+      en: (not) yet / (not) in time
+      ko: 아직 (부정과 함께)
+    gender: null
+    plural: null
+    notes:
+      en: "미처 생각하지 못했다 = I hadn't thought of it"
+      ko: "미처 생각하지 못했다"
+  - korean: 필수
+    reading: null
+    translation:
+      en: essential / mandatory
+      ko: 반드시 필요한
+    gender: null
+    plural: null
+  - korean: 불가피하다
+    reading: null
+    translation:
+      en: to be unavoidable / inevitable
+      ko: 피할 수 없다
+    gender: null
+    plural: null
+  - korean: 당연하다
+    reading: null
+    translation:
+      en: to be natural / to be obvious
+      ko: 마땅히 그러하다
+    gender: null
+    plural: null

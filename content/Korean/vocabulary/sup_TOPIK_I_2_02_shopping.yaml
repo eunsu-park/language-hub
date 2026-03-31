@@ -1,0 +1,661 @@
+lesson: supplementary
+lesson_number: 108
+topik: TOPIK_I_2
+type: supplementary
+topic: "Shopping"
+
+categories:
+- id: stores
+  label:
+    en: "Stores"
+    ko: "가게"
+  type: vocabulary
+  words:
+  - korean: 가게
+    reading: null
+    translation:
+      en: "shop, store"
+      ko: "가게"
+    gender: null
+    plural: null
+    notes:
+      en: "Small local shop"
+      ko: "작은 동네 가게"
+  - korean: 백화점
+    reading: null
+    translation:
+      en: "department store"
+      ko: "백화점"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 百貨店"
+      ko: "한자어: 百貨店"
+  - korean: 시장
+    reading: null
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+    plural: null
+    notes:
+      en: "Traditional market; also means 'mayor'"
+      ko: "전통 시장; '시장(市長)'이라는 뜻도 있음"
+  - korean: 편의점
+    reading: null
+    translation:
+      en: "convenience store"
+      ko: "편의점"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 便宜店; very common in Korea"
+      ko: "한자어: 便宜店; 한국에 매우 많음"
+  - korean: 마트
+    reading: null
+    translation:
+      en: "mart, supermarket"
+      ko: "마트"
+    gender: null
+    plural: null
+    notes:
+      en: "Shortened from 'supermarket'"
+      ko: "슈퍼마켓의 줄임말"
+  - korean: 슈퍼마켓
+    reading: null
+    translation:
+      en: "supermarket"
+      ko: "슈퍼마켓"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword; also shortened to 슈퍼"
+      ko: "외래어; 슈퍼라고 줄여 부르기도 함"
+  - korean: 서점
+    reading: null
+    translation:
+      en: "bookstore"
+      ko: "서점"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 書店"
+      ko: "한자어: 書店"
+  - korean: 꽃집
+    reading: null
+    translation:
+      en: "flower shop"
+      ko: "꽃집"
+    gender: null
+    plural: null
+    notes:
+      en: "꽃 (flower) + 집 (shop/house)"
+      ko: "꽃 + 집"
+  - korean: 빵집
+    reading: null
+    translation:
+      en: "bakery"
+      ko: "빵집"
+    gender: null
+    plural: null
+    notes:
+      en: "빵 (bread) + 집 (shop); also 베이커리"
+      ko: "빵 + 집; 베이커리라고도 함"
+  - korean: 문구점
+    reading: null
+    translation:
+      en: "stationery store"
+      ko: "문구점"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 文具店"
+      ko: "한자어: 文具店"
+  - korean: 인터넷 쇼핑
+    reading: null
+    translation:
+      en: "online shopping"
+      ko: "인터넷 쇼핑"
+    gender: null
+    plural: null
+    notes:
+      en: "Very popular in Korea"
+      ko: "한국에서 매우 인기 있음"
+
+- id: clothing
+  label:
+    en: "Clothing"
+    ko: "옷"
+  type: vocabulary
+  words:
+  - korean: 옷
+    reading: null
+    translation:
+      en: "clothes, clothing"
+      ko: "옷"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for clothing"
+      ko: "의류의 일반적 표현"
+  - korean: 바지
+    reading: null
+    translation:
+      en: "pants, trousers"
+      ko: "바지"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for pants"
+      ko: "하의의 일반적 표현"
+  - korean: 치마
+    reading: null
+    translation:
+      en: "skirt"
+      ko: "치마"
+    gender: null
+    plural: null
+    notes:
+      en: "Also part of hanbok (Korean dress)"
+      ko: "한복의 일부이기도 함"
+  - korean: 셔츠
+    reading: null
+    translation:
+      en: "shirt"
+      ko: "셔츠"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 티셔츠
+    reading: null
+    translation:
+      en: "T-shirt"
+      ko: "티셔츠"
+    gender: null
+    plural: null
+    notes:
+      en: "Casual top"
+      ko: "캐주얼 상의"
+  - korean: 원피스
+    reading: null
+    translation:
+      en: "dress (one-piece)"
+      ko: "원피스"
+    gender: null
+    plural: null
+    notes:
+      en: "From English 'one-piece'"
+      ko: "영어 원피스에서 유래"
+  - korean: 코트
+    reading: null
+    translation:
+      en: "coat"
+      ko: "코트"
+    gender: null
+    plural: null
+    notes:
+      en: "Outer garment; loanword"
+      ko: "겉옷; 외래어"
+  - korean: 점퍼
+    reading: null
+    translation:
+      en: "jacket, jumper"
+      ko: "점퍼"
+    gender: null
+    plural: null
+    notes:
+      en: "Casual jacket; loanword"
+      ko: "캐주얼 재킷; 외래어"
+  - korean: 잠바
+    reading: null
+    translation:
+      en: "jacket, parka"
+      ko: "잠바"
+    gender: null
+    plural: null
+    notes:
+      en: "Colloquial for jacket"
+      ko: "재킷의 구어적 표현"
+  - korean: 양복
+    reading: null
+    translation:
+      en: "suit (Western-style)"
+      ko: "양복"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 洋服"
+      ko: "한자어: 洋服"
+  - korean: 한복
+    reading: null
+    translation:
+      en: "hanbok (Korean traditional clothing)"
+      ko: "한복"
+    gender: null
+    plural: null
+    notes:
+      en: "Korean traditional garment"
+      ko: "한국 전통 의상"
+  - korean: 청바지
+    reading: null
+    translation:
+      en: "jeans"
+      ko: "청바지"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'blue pants'"
+      ko: "청(靑) + 바지"
+  - korean: 속옷
+    reading: null
+    translation:
+      en: "underwear"
+      ko: "속옷"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'inner clothes'"
+      ko: "속 + 옷"
+  - korean: 양말
+    reading: null
+    translation:
+      en: "socks"
+      ko: "양말"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 洋襪"
+      ko: "한자어: 洋襪"
+  - korean: 넥타이
+    reading: null
+    translation:
+      en: "necktie"
+      ko: "넥타이"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+
+- id: accessories
+  label:
+    en: "Accessories"
+    ko: "액세서리"
+  type: vocabulary
+  words:
+  - korean: 신발
+    reading: null
+    translation:
+      en: "shoes"
+      ko: "신발"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for footwear"
+      ko: "신발류의 일반적 표현"
+  - korean: 운동화
+    reading: null
+    translation:
+      en: "sneakers, athletic shoes"
+      ko: "운동화"
+    gender: null
+    plural: null
+    notes:
+      en: "Literally 'exercise shoes'"
+      ko: "운동 + 화(靴)"
+  - korean: 구두
+    reading: null
+    translation:
+      en: "dress shoes"
+      ko: "구두"
+    gender: null
+    plural: null
+    notes:
+      en: "Formal shoes"
+      ko: "격식 있는 신발"
+  - korean: 슬리퍼
+    reading: null
+    translation:
+      en: "slippers"
+      ko: "슬리퍼"
+    gender: null
+    plural: null
+    notes:
+      en: "Indoor footwear; loanword"
+      ko: "실내용 신발; 외래어"
+  - korean: 모자
+    reading: null
+    translation:
+      en: "hat, cap"
+      ko: "모자"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 帽子; also means 'mother and child'"
+      ko: "한자어: 帽子; 모자(母子)라는 뜻도 있음"
+  - korean: 가방
+    reading: null
+    translation:
+      en: "bag"
+      ko: "가방"
+    gender: null
+    plural: null
+    notes:
+      en: "General term for bags"
+      ko: "가방류의 일반적 표현"
+  - korean: 지갑
+    reading: null
+    translation:
+      en: "wallet, purse"
+      ko: "지갑"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 紙匣"
+      ko: "한자어: 紙匣"
+  - korean: 반지
+    reading: null
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: null
+    plural: null
+    notes:
+      en: "Finger ring jewelry"
+      ko: "손가락에 끼는 장신구"
+  - korean: 목걸이
+    reading: null
+    translation:
+      en: "necklace"
+      ko: "목걸이"
+    gender: null
+    plural: null
+    notes:
+      en: "목 (neck) + 걸이 (hanger)"
+      ko: "목 + 걸이"
+  - korean: 귀걸이
+    reading: null
+    translation:
+      en: "earrings"
+      ko: "귀걸이"
+    gender: null
+    plural: null
+    notes:
+      en: "귀 (ear) + 걸이 (hanger)"
+      ko: "귀 + 걸이"
+  - korean: 팔찌
+    reading: null
+    translation:
+      en: "bracelet"
+      ko: "팔찌"
+    gender: null
+    plural: null
+    notes:
+      en: "팔 (arm) + 찌"
+      ko: "팔 + 찌"
+  - korean: 시계
+    reading: null
+    translation:
+      en: "watch, clock"
+      ko: "시계"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 時計"
+      ko: "한자어: 時計"
+  - korean: 안경
+    reading: null
+    translation:
+      en: "glasses, eyeglasses"
+      ko: "안경"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 眼鏡"
+      ko: "한자어: 眼鏡"
+  - korean: 선글라스
+    reading: null
+    translation:
+      en: "sunglasses"
+      ko: "선글라스"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 벨트
+    reading: null
+    translation:
+      en: "belt"
+      ko: "벨트"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+
+- id: payment
+  label:
+    en: "Payment"
+    ko: "결제"
+  type: vocabulary
+  words:
+  - korean: 돈
+    reading: null
+    translation:
+      en: "money"
+      ko: "돈"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean word"
+      ko: "고유어"
+  - korean: 현금
+    reading: null
+    translation:
+      en: "cash"
+      ko: "현금"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 現金"
+      ko: "한자어: 現金"
+  - korean: 카드
+    reading: null
+    translation:
+      en: "card (credit/debit)"
+      ko: "카드"
+    gender: null
+    plural: null
+    notes:
+      en: "Korea is largely cashless"
+      ko: "한국은 대부분 카드 사용"
+  - korean: 영수증
+    reading: null
+    translation:
+      en: "receipt"
+      ko: "영수증"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 領收證"
+      ko: "한자어: 領收證"
+  - korean: 가격
+    reading: null
+    translation:
+      en: "price"
+      ko: "가격"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 價格"
+      ko: "한자어: 價格"
+  - korean: 값
+    reading: null
+    translation:
+      en: "price, value"
+      ko: "값"
+    gender: null
+    plural: null
+    notes:
+      en: "Pure Korean; more colloquial than 가격"
+      ko: "고유어; 가격보다 구어적"
+  - korean: 거스름돈
+    reading: null
+    translation:
+      en: "change (money returned)"
+      ko: "거스름돈"
+    gender: null
+    plural: null
+    notes:
+      en: "Money returned after payment"
+      ko: "지불 후 돌려받는 돈"
+
+- id: shopping_phrases
+  label:
+    en: "Shopping Expressions"
+    ko: "쇼핑 표현"
+  type: vocabulary
+  words:
+  - korean: 크기
+    reading: null
+    translation:
+      en: "size"
+      ko: "크기"
+    gender: null
+    plural: null
+    notes:
+      en: "From 크다 (to be big)"
+      ko: "크다에서 파생"
+  - korean: 사이즈
+    reading: null
+    translation:
+      en: "size"
+      ko: "사이즈"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword; used for clothing sizes"
+      ko: "외래어; 의류 사이즈에 사용"
+  - korean: 할인
+    reading: null
+    translation:
+      en: "discount"
+      ko: "할인"
+    gender: null
+    plural: null
+    notes:
+      en: "Hanja origin: 割引"
+      ko: "한자어: 割引"
+  - korean: 세일
+    reading: null
+    translation:
+      en: "sale"
+      ko: "세일"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English"
+      ko: "영어에서 온 외래어"
+  - korean: 교환
+    reading: null
+    translation:
+      en: "exchange, return"
+      ko: "교환"
+    gender: null
+    plural: null
+    notes:
+      en: "교환하다 = to exchange"
+      ko: "교환하다"
+  - korean: 환불
+    reading: null
+    translation:
+      en: "refund"
+      ko: "환불"
+    gender: null
+    plural: null
+    notes:
+      en: "환불하다 = to refund"
+      ko: "환불하다"
+  - korean: 사다
+    reading: null
+    translation:
+      en: "to buy"
+      ko: "사다"
+    gender: null
+    plural: null
+    notes:
+      en: "Basic shopping verb"
+      ko: "기본 쇼핑 동사"
+  - korean: 팔다
+    reading: null
+    translation:
+      en: "to sell"
+      ko: "팔다"
+    gender: null
+    plural: null
+    notes:
+      en: "ㄹ irregular verb"
+      ko: "ㄹ 불규칙 동사"
+  - korean: 고르다
+    reading: null
+    translation:
+      en: "to choose, to pick"
+      ko: "고르다"
+    gender: null
+    plural: null
+    notes:
+      en: "르 irregular verb"
+      ko: "르 불규칙 동사"
+  - korean: 입어 보다
+    reading: null
+    translation:
+      en: "to try on (clothes)"
+      ko: "입어 보다"
+    gender: null
+    plural: null
+    notes:
+      en: "입다 (to wear) + 보다 (to try)"
+      ko: "입다 + 보다(시도)"
+  - korean: 싸다
+    reading: null
+    translation:
+      en: "to be cheap"
+      ko: "싸다"
+    gender: null
+    plural: null
+    notes:
+      en: "Also means 'to pack' or 'to wrap'"
+      ko: "'포장하다'라는 뜻도 있음"
+  - korean: 비싸다
+    reading: null
+    translation:
+      en: "to be expensive"
+      ko: "비싸다"
+    gender: null
+    plural: null
+    notes:
+      en: "Opposite of 싸다"
+      ko: "싸다의 반의어"
+  - korean: 어울리다
+    reading: null
+    translation:
+      en: "to suit, to match"
+      ko: "어울리다"
+    gender: null
+    plural: null
+    notes:
+      en: "잘 어울려요 = it suits you well"
+      ko: "잘 어울려요"
+  - korean: 포장
+    reading: null
+    translation:
+      en: "wrapping, packaging"
+      ko: "포장"
+    gender: null
+    plural: null
+    notes:
+      en: "포장해 주세요 = please wrap it"
+      ko: "포장해 주세요"

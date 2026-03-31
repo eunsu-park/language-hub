@@ -1,0 +1,588 @@
+lesson: supplementary
+lesson_number: 131
+topik: TOPIK_II_4
+type: supplementary
+topic: "Medicine"
+
+categories:
+- id: medical_specialties
+  label:
+    en: "Medical Specialties"
+    ko: "의료 전문 분야"
+  type: vocabulary
+  words:
+  - korean: 의학
+    reading: null
+    translation:
+      en: "medical science, medicine"
+      ko: "의학"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 醫(medicine) + 學(study)"
+      ko: "한자어: 醫(의원 의) + 學(배울 학)"
+  - korean: 내과
+    reading: null
+    translation:
+      en: "internal medicine"
+      ko: "내과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 內(inside) + 科(department)"
+      ko: "한자어: 內(안 내) + 科(과목 과)"
+  - korean: 외과
+    reading: null
+    translation:
+      en: "surgery department"
+      ko: "외과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 外(outside) + 科(department)"
+      ko: "한자어: 外(바깥 외) + 科(과목 과)"
+  - korean: 치과
+    reading: null
+    translation:
+      en: "dentistry"
+      ko: "치과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 齒(tooth) + 科(department)"
+      ko: "한자어: 齒(이 치) + 科(과목 과)"
+  - korean: 안과
+    reading: null
+    translation:
+      en: "ophthalmology"
+      ko: "안과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 眼(eye) + 科(department)"
+      ko: "한자어: 眼(눈 안) + 科(과목 과)"
+  - korean: 피부과
+    reading: null
+    translation:
+      en: "dermatology"
+      ko: "피부과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 皮(skin) + 膚(skin) + 科(department)"
+      ko: "한자어: 皮(가죽 피) + 膚(살갗 부) + 科(과목 과)"
+  - korean: 정형외과
+    reading: null
+    translation:
+      en: "orthopedics"
+      ko: "정형외과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 整(arrange) + 形(shape) + 外(outside) + 科(department)"
+      ko: "한자어: 整(가지런할 정) + 形(모양 형) + 外(바깥 외) + 科(과목 과)"
+  - korean: 정신과
+    reading: null
+    translation:
+      en: "psychiatry"
+      ko: "정신과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 精(spirit) + 神(god) + 科(department)"
+      ko: "한자어: 精(정밀할 정) + 神(귀신 신) + 科(과목 과)"
+  - korean: 소아과
+    reading: null
+    translation:
+      en: "pediatrics"
+      ko: "소아과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 小(small) + 兒(child) + 科(department)"
+      ko: "한자어: 小(작을 소) + 兒(아이 아) + 科(과목 과)"
+  - korean: 산부인과
+    reading: null
+    translation:
+      en: "obstetrics and gynecology"
+      ko: "산부인과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 産(birth) + 婦(woman) + 人(person) + 科(department)"
+      ko: "한자어: 産(낳을 산) + 婦(며느리 부) + 人(사람 인) + 科(과목 과)"
+  - korean: 비뇨기과
+    reading: null
+    translation:
+      en: "urology"
+      ko: "비뇨기과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 泌(secrete) + 尿(urine) + 器(organ) + 科(department)"
+      ko: "한자어: 泌(샘솟을 비) + 尿(오줌 뇨) + 器(그릇 기) + 科(과목 과)"
+  - korean: 이비인후과
+    reading: null
+    translation:
+      en: "otorhinolaryngology (ENT)"
+      ko: "이비인후과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 耳(ear) + 鼻(nose) + 咽(throat) + 喉(larynx) + 科(department)"
+      ko: "한자어: 耳(귀 이) + 鼻(코 비) + 咽(목구멍 인) + 喉(목구멍 후) + 科(과목 과)"
+  - korean: 신경외과
+    reading: null
+    translation:
+      en: "neurosurgery"
+      ko: "신경외과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 神(spirit) + 經(channel) + 外(outside) + 科(department)"
+      ko: "한자어: 神(귀신 신) + 經(지날 경) + 外(바깥 외) + 科(과목 과)"
+  - korean: 방사선과
+    reading: null
+    translation:
+      en: "radiology"
+      ko: "방사선과"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 放(release) + 射(shoot) + 線(line) + 科(department)"
+      ko: "한자어: 放(놓을 방) + 射(쏠 사) + 線(줄 선) + 科(과목 과)"
+
+- id: diseases
+  label:
+    en: "Diseases and Conditions"
+    ko: "질병 및 증상"
+  type: vocabulary
+  words:
+  - korean: 질병
+    reading: null
+    translation:
+      en: "disease, illness"
+      ko: "질병"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 疾(illness) + 病(sickness)"
+      ko: "한자어: 疾(병 질) + 病(병 병)"
+  - korean: 혈압
+    reading: null
+    translation:
+      en: "blood pressure"
+      ko: "혈압"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 血(blood) + 壓(pressure)"
+      ko: "한자어: 血(피 혈) + 壓(누를 압)"
+  - korean: 고혈압
+    reading: null
+    translation:
+      en: "high blood pressure"
+      ko: "고혈압"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 高(high) + 血(blood) + 壓(pressure)"
+      ko: "한자어: 高(높을 고) + 血(피 혈) + 壓(누를 압)"
+  - korean: 당뇨
+    reading: null
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 糖(sugar) + 尿(urine)"
+      ko: "한자어: 糖(엿 당) + 尿(오줌 뇨)"
+  - korean: 암
+    reading: null
+    translation:
+      en: "cancer"
+      ko: "암"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 癌(cancer)"
+      ko: "한자어: 癌(암 암)"
+  - korean: 폐렴
+    reading: null
+    translation:
+      en: "pneumonia"
+      ko: "폐렴"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 肺(lung) + 炎(inflammation)"
+      ko: "한자어: 肺(허파 폐) + 炎(불꽃 염)"
+  - korean: 위염
+    reading: null
+    translation:
+      en: "gastritis"
+      ko: "위염"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 胃(stomach) + 炎(inflammation)"
+      ko: "한자어: 胃(밥통 위) + 炎(불꽃 염)"
+  - korean: 관절염
+    reading: null
+    translation:
+      en: "arthritis"
+      ko: "관절염"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 關(joint) + 節(section) + 炎(inflammation)"
+      ko: "한자어: 關(관계할 관) + 節(마디 절) + 炎(불꽃 염)"
+  - korean: 알레르기
+    reading: null
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+    plural: null
+  - korean: 전염병
+    reading: null
+    translation:
+      en: "infectious disease"
+      ko: "전염병"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 傳(transmit) + 染(dye/infect) + 病(disease)"
+      ko: "한자어: 傳(전할 전) + 染(물들일 염) + 病(병 병)"
+  - korean: 합병증
+    reading: null
+    translation:
+      en: "complication"
+      ko: "합병증"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 合(combine) + 倂(combine) + 症(symptom)"
+      ko: "한자어: 合(합할 합) + 倂(아우를 병) + 症(증세 증)"
+  - korean: 증상
+    reading: null
+    translation:
+      en: "symptom"
+      ko: "증상"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 症(symptom) + 狀(shape)"
+      ko: "한자어: 症(증세 증) + 狀(형상 상)"
+  - korean: 만성
+    reading: null
+    translation:
+      en: "chronic"
+      ko: "만성의"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 慢(slow) + 性(nature)"
+      ko: "한자어: 慢(게으를 만) + 性(성품 성)"
+  - korean: 급성
+    reading: null
+    translation:
+      en: "acute"
+      ko: "급성의"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 急(urgent) + 性(nature)"
+      ko: "한자어: 急(급할 급) + 性(성품 성)"
+
+- id: treatments
+  label:
+    en: "Treatments"
+    ko: "치료"
+  type: vocabulary
+  words:
+  - korean: 진단
+    reading: null
+    translation:
+      en: "diagnosis"
+      ko: "진단"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 診(examine) + 斷(decide)"
+      ko: "한자어: 診(진찰할 진) + 斷(끊을 단)"
+  - korean: 처방
+    reading: null
+    translation:
+      en: "prescription"
+      ko: "처방"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 處(manage) + 方(method)"
+      ko: "한자어: 處(곳 처) + 方(모 방)"
+  - korean: 수술
+    reading: null
+    translation:
+      en: "surgery, operation"
+      ko: "수술"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 手(hand) + 術(technique)"
+      ko: "한자어: 手(손 수) + 術(재주 술)"
+  - korean: 입원
+    reading: null
+    translation:
+      en: "hospitalization"
+      ko: "입원"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 入(enter) + 院(institution)"
+      ko: "한자어: 入(들 입) + 院(집 원)"
+  - korean: 퇴원
+    reading: null
+    translation:
+      en: "discharge from hospital"
+      ko: "퇴원"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 退(withdraw) + 院(institution)"
+      ko: "한자어: 退(물러날 퇴) + 院(집 원)"
+  - korean: 응급
+    reading: null
+    translation:
+      en: "emergency"
+      ko: "응급"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 應(respond) + 急(urgent)"
+      ko: "한자어: 應(응할 응) + 急(급할 급)"
+  - korean: 치료
+    reading: null
+    translation:
+      en: "treatment, therapy"
+      ko: "치료"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 治(cure) + 療(heal)"
+      ko: "한자어: 治(다스릴 치) + 療(고칠 료)"
+  - korean: 주사
+    reading: null
+    translation:
+      en: "injection, shot"
+      ko: "주사"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 注(pour) + 射(shoot)"
+      ko: "한자어: 注(부을 주) + 射(쏠 사)"
+  - korean: 항생제
+    reading: null
+    translation:
+      en: "antibiotic"
+      ko: "항생제"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 抗(resist) + 生(life) + 劑(medicine)"
+      ko: "한자어: 抗(대항할 항) + 生(날 생) + 劑(약제 제)"
+  - korean: 진통제
+    reading: null
+    translation:
+      en: "painkiller"
+      ko: "진통제"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 鎭(suppress) + 痛(pain) + 劑(medicine)"
+      ko: "한자어: 鎭(누를 진) + 痛(아플 통) + 劑(약제 제)"
+  - korean: 마취
+    reading: null
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 麻(numb) + 醉(drunk)"
+      ko: "한자어: 麻(삼 마) + 醉(취할 취)"
+  - korean: 재활
+    reading: null
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 再(again) + 活(live)"
+      ko: "한자어: 再(다시 재) + 活(살 활)"
+  - korean: 예방
+    reading: null
+    translation:
+      en: "prevention"
+      ko: "예방"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 豫(prepare) + 防(prevent)"
+      ko: "한자어: 豫(미리 예) + 防(막을 방)"
+  - korean: 백신
+    reading: null
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: null
+    plural: null
+
+- id: anatomy
+  label:
+    en: "Anatomy"
+    ko: "해부학"
+  type: vocabulary
+  words:
+  - korean: 해부학
+    reading: null
+    translation:
+      en: "anatomy"
+      ko: "해부학"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 解(untie) + 剖(cut) + 學(study)"
+      ko: "한자어: 解(풀 해) + 剖(가를 부) + 學(배울 학)"
+  - korean: 장기
+    reading: null
+    translation:
+      en: "organ (body)"
+      ko: "장기"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 臟(organ) + 器(vessel)"
+      ko: "한자어: 臟(오장 장) + 器(그릇 기)"
+  - korean: 심장
+    reading: null
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 心(heart) + 臟(organ)"
+      ko: "한자어: 心(마음 심) + 臟(오장 장)"
+  - korean: 폐
+    reading: null
+    translation:
+      en: "lung"
+      ko: "폐"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 肺(lung)"
+      ko: "한자어: 肺(허파 폐)"
+  - korean: 간
+    reading: null
+    translation:
+      en: "liver"
+      ko: "간"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 肝(liver)"
+      ko: "한자어: 肝(간 간)"
+  - korean: 신장
+    reading: null
+    translation:
+      en: "kidney"
+      ko: "신장"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 腎(kidney) + 臟(organ)"
+      ko: "한자어: 腎(콩팥 신) + 臟(오장 장)"
+  - korean: 위장
+    reading: null
+    translation:
+      en: "stomach"
+      ko: "위장"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 胃(stomach) + 腸(intestine)"
+      ko: "한자어: 胃(밥통 위) + 腸(창자 장)"
+  - korean: 뇌
+    reading: null
+    translation:
+      en: "brain"
+      ko: "뇌"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 腦(brain)"
+      ko: "한자어: 腦(뇌 뇌)"
+  - korean: 혈관
+    reading: null
+    translation:
+      en: "blood vessel"
+      ko: "혈관"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 血(blood) + 管(tube)"
+      ko: "한자어: 血(피 혈) + 管(대롱 관)"
+  - korean: 동맥
+    reading: null
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 動(move) + 脈(pulse)"
+      ko: "한자어: 動(움직일 동) + 脈(맥 맥)"
+  - korean: 정맥
+    reading: null
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 靜(quiet) + 脈(pulse)"
+      ko: "한자어: 靜(고요할 정) + 脈(맥 맥)"
+  - korean: 척추
+    reading: null
+    translation:
+      en: "spine"
+      ko: "척추"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 脊(spine) + 椎(vertebra)"
+      ko: "한자어: 脊(등뼈 척) + 椎(뼈마디 추)"
+  - korean: 골격
+    reading: null
+    translation:
+      en: "skeleton"
+      ko: "골격"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 骨(bone) + 格(frame)"
+      ko: "한자어: 骨(뼈 골) + 格(격식 격)"
+  - korean: 근육
+    reading: null
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 筋(sinew) + 肉(flesh)"
+      ko: "한자어: 筋(힘줄 근) + 肉(고기 육)"

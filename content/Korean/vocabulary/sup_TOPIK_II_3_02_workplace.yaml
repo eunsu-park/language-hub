@@ -1,0 +1,484 @@
+lesson: supplementary
+lesson_number: 117
+topik: TOPIK_II_3
+type: supplementary
+topic: "Workplace"
+
+categories:
+- id: job_types
+  label:
+    en: "Job Types"
+    ko: "직업 종류"
+  type: vocabulary
+  words:
+  - korean: 직업
+    reading: null
+    translation:
+      en: "occupation, job"
+      ko: "직업"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 職(post) + 業(work)"
+      ko: "한자어: 職(직분 직) + 業(업 업)"
+  - korean: 직장
+    reading: null
+    translation:
+      en: "workplace"
+      ko: "일하는 곳"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 職(post) + 場(place)"
+      ko: "한자어: 職(직분 직) + 場(마당 장)"
+  - korean: 회사원
+    reading: null
+    translation:
+      en: "office worker, company employee"
+      ko: "회사에서 일하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 會社(company) + 員(member)"
+      ko: "한자어: 會社(회사) + 員(인원 원)"
+  - korean: 공무원
+    reading: null
+    translation:
+      en: "civil servant, government employee"
+      ko: "국가 기관에서 일하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 公(public) + 務(duty) + 員(member)"
+      ko: "한자어: 公(공평할 공) + 務(힘쓸 무) + 員(인원 원)"
+  - korean: 자영업자
+    reading: null
+    translation:
+      en: "self-employed person"
+      ko: "스스로 사업하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 自(self) + 營(manage) + 業(business) + 者(person)"
+      ko: "한자어: 自(스스로 자) + 營(경영할 영) + 業(업 업) + 者(사람 자)"
+  - korean: 프리랜서
+    reading: null
+    translation:
+      en: "freelancer"
+      ko: "자유 계약 직업인"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'freelancer'"
+      ko: "외래어: 영어 'freelancer'에서 유래"
+  - korean: 사업가
+    reading: null
+    translation:
+      en: "businessman, entrepreneur"
+      ko: "사업하는 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 事(matter) + 業(work) + 家(expert)"
+      ko: "한자어: 事(일 사) + 業(업 업) + 家(집 가)"
+  - korean: 전문가
+    reading: null
+    translation:
+      en: "expert, specialist"
+      ko: "어떤 분야에 뛰어난 사람"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 專(specialize) + 門(gate/field) + 家(expert)"
+      ko: "한자어: 專(오로지 전) + 門(문 문) + 家(집 가)"
+  - korean: 비서
+    reading: null
+    translation:
+      en: "secretary"
+      ko: "비서"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 秘(secret) + 書(writing)"
+      ko: "한자어: 秘(숨길 비) + 書(글 서)"
+  - korean: 인턴
+    reading: null
+    translation:
+      en: "intern"
+      ko: "실습생"
+    gender: null
+    plural: null
+    notes:
+      en: "Loanword from English 'intern'"
+      ko: "외래어: 영어 'intern'에서 유래"
+
+- id: office_life
+  label:
+    en: "Office Life"
+    ko: "직장 생활"
+  type: vocabulary
+  words:
+  - korean: 출근
+    reading: null
+    translation:
+      en: "going to work"
+      ko: "직장에 나감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 出(go out) + 勤(work diligently)"
+      ko: "한자어: 出(날 출) + 勤(부지런할 근)"
+  - korean: 퇴근
+    reading: null
+    translation:
+      en: "leaving work, getting off work"
+      ko: "직장에서 돌아감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 退(retreat) + 勤(work)"
+      ko: "한자어: 退(물러날 퇴) + 勤(부지런할 근)"
+  - korean: 출퇴근
+    reading: null
+    translation:
+      en: "commuting (to and from work)"
+      ko: "출근과 퇴근"
+    gender: null
+    plural: null
+    notes:
+      en: "Compound of 出勤(go to work) + 退勤(leave work)"
+      ko: "출근 + 퇴근의 합성어"
+  - korean: 야근
+    reading: null
+    translation:
+      en: "working overtime, night work"
+      ko: "밤늦게까지 일함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 夜(night) + 勤(work)"
+      ko: "한자어: 夜(밤 야) + 勤(부지런할 근)"
+  - korean: 근무
+    reading: null
+    translation:
+      en: "work, duty"
+      ko: "일함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 勤(diligent) + 務(duty)"
+      ko: "한자어: 勤(부지런할 근) + 務(힘쓸 무)"
+  - korean: 근무 시간
+    reading: null
+    translation:
+      en: "working hours"
+      ko: "일하는 시간"
+    gender: null
+    plural: null
+    notes:
+      en: "勤務(work) + 時間(time)"
+      ko: "근무 + 시간의 합성어"
+  - korean: 회의
+    reading: null
+    translation:
+      en: "meeting, conference"
+      ko: "회의"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 會(meet) + 議(discuss)"
+      ko: "한자어: 會(모일 회) + 議(의논할 의)"
+  - korean: 보고
+    reading: null
+    translation:
+      en: "report"
+      ko: "보고"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 報(inform) + 告(tell)"
+      ko: "한자어: 報(알릴 보) + 告(고할 고)"
+  - korean: 업무
+    reading: null
+    translation:
+      en: "work duties, tasks"
+      ko: "맡은 일"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 業(work) + 務(duty)"
+      ko: "한자어: 業(업 업) + 務(힘쓸 무)"
+  - korean: 휴가
+    reading: null
+    translation:
+      en: "vacation, leave"
+      ko: "쉬는 기간"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 休(rest) + 暇(leisure)"
+      ko: "한자어: 休(쉴 휴) + 暇(겨를 가)"
+  - korean: 연차
+    reading: null
+    translation:
+      en: "annual leave"
+      ko: "연간 유급 휴가"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 年(year) + 次(turn)"
+      ko: "한자어: 年(해 연) + 次(차례 차)"
+  - korean: 출장
+    reading: null
+    translation:
+      en: "business trip"
+      ko: "업무로 다른 곳에 감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 出(go out) + 張(stretch)"
+      ko: "한자어: 出(날 출) + 張(베풀 장)"
+
+- id: work_terms
+  label:
+    en: "Work Terms"
+    ko: "근무 용어"
+  type: vocabulary
+  words:
+  - korean: 월급
+    reading: null
+    translation:
+      en: "monthly salary"
+      ko: "한 달 급여"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 月(month) + 給(provide)"
+      ko: "한자어: 月(달 월) + 給(줄 급)"
+  - korean: 연봉
+    reading: null
+    translation:
+      en: "annual salary"
+      ko: "1년 급여 총액"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 年(year) + 俸(salary)"
+      ko: "한자어: 年(해 연) + 俸(녹봉 봉)"
+  - korean: 급여
+    reading: null
+    translation:
+      en: "pay, wages"
+      ko: "일한 대가"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 給(provide) + 與(give)"
+      ko: "한자어: 給(줄 급) + 與(줄 여)"
+  - korean: 수당
+    reading: null
+    translation:
+      en: "allowance, extra pay"
+      ko: "추가 급여"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 手(hand) + 當(appropriate)"
+      ko: "한자어: 手(손 수) + 當(마땅할 당)"
+  - korean: 승진
+    reading: null
+    translation:
+      en: "promotion"
+      ko: "높은 직위로 올라감"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 昇(rise) + 進(advance)"
+      ko: "한자어: 昇(오를 승) + 進(나아갈 진)"
+  - korean: 계약
+    reading: null
+    translation:
+      en: "contract"
+      ko: "약속을 정함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 契(engrave/pledge) + 約(promise)"
+      ko: "한자어: 契(맺을 계) + 約(약속할 약)"
+  - korean: 계약서
+    reading: null
+    translation:
+      en: "contract document"
+      ko: "계약 문서"
+    gender: null
+    plural: null
+    notes:
+      en: "契約(contract) + 書(document)"
+      ko: "계약 + 서(글 서)"
+  - korean: 정규직
+    reading: null
+    translation:
+      en: "permanent position, full-time"
+      ko: "정식 직원"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 正(regular) + 規(standard) + 職(position)"
+      ko: "한자어: 正(바를 정) + 規(법 규) + 職(직분 직)"
+  - korean: 비정규직
+    reading: null
+    translation:
+      en: "non-regular position, temporary"
+      ko: "임시 직원"
+    gender: null
+    plural: null
+    notes:
+      en: "非(not) + 正規職(regular position)"
+      ko: "비(아닐 비) + 정규직"
+  - korean: 복리후생
+    reading: null
+    translation:
+      en: "employee benefits, welfare"
+      ko: "직원 복지 혜택"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 福利(welfare) + 厚生(enriching life)"
+      ko: "한자어: 福利(복리) + 厚生(후생)"
+
+- id: career
+  label:
+    en: "Career"
+    ko: "경력"
+  type: vocabulary
+  words:
+  - korean: 취업
+    reading: null
+    translation:
+      en: "getting a job, employment"
+      ko: "직업을 얻음"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 就(approach) + 業(work)"
+      ko: "한자어: 就(나아갈 취) + 業(업 업)"
+  - korean: 면접
+    reading: null
+    translation:
+      en: "job interview"
+      ko: "면접"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 面(face) + 接(meet)"
+      ko: "한자어: 面(얼굴 면) + 接(사귈 접)"
+  - korean: 이력서
+    reading: null
+    translation:
+      en: "resume, CV"
+      ko: "경력을 적은 문서"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 履歷(experience record) + 書(document)"
+      ko: "한자어: 履歷(이력) + 書(글 서)"
+  - korean: 자기소개서
+    reading: null
+    translation:
+      en: "self-introduction letter"
+      ko: "자신을 소개하는 글"
+    gender: null
+    plural: null
+    notes:
+      en: "Compound: 自己(self) + 紹介(introduce) + 書(writing)"
+      ko: "자기 + 소개 + 서의 합성어"
+  - korean: 지원하다
+    reading: null
+    translation:
+      en: "to apply (for a job)"
+      ko: "취직하기 위해 신청하다"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 志(will) + 願(wish) — to express one's wish"
+      ko: "한자어: 志(뜻 지) + 願(원할 원)"
+  - korean: 합격
+    reading: null
+    translation:
+      en: "passing (an exam/interview)"
+      ko: "시험이나 심사에 통과함"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 合(fit) + 格(standard)"
+      ko: "한자어: 合(합할 합) + 格(격식 격)"
+  - korean: 불합격
+    reading: null
+    translation:
+      en: "failing (an exam/interview)"
+      ko: "시험이나 심사에 떨어짐"
+    gender: null
+    plural: null
+    notes:
+      en: "不(not) + 合格(pass)"
+      ko: "불(아닐 불) + 합격"
+  - korean: 퇴직
+    reading: null
+    translation:
+      en: "retirement, resignation"
+      ko: "직장을 그만둠"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 退(withdraw) + 職(post)"
+      ko: "한자어: 退(물러날 퇴) + 職(직분 직)"
+  - korean: 해고
+    reading: null
+    translation:
+      en: "dismissal, firing"
+      ko: "직장에서 잘림"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 解(release) + 雇(employ)"
+      ko: "한자어: 解(풀 해) + 雇(고용할 고)"
+  - korean: 사직
+    reading: null
+    translation:
+      en: "resignation (voluntary)"
+      ko: "스스로 직장을 그만둠"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 辭(resign) + 職(post)"
+      ko: "한자어: 辭(말씀 사) + 職(직분 직)"
+  - korean: 경력
+    reading: null
+    translation:
+      en: "career, work experience"
+      ko: "일한 경험"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 經(pass through) + 歷(experience)"
+      ko: "한자어: 經(지날 경) + 歷(지낼 력)"
+  - korean: 신입사원
+    reading: null
+    translation:
+      en: "new employee"
+      ko: "새로 들어온 직원"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 新入(new entry) + 社員(company member)"
+      ko: "한자어: 新入(신입) + 社員(사원)"
+  - korean: 경쟁
+    reading: null
+    translation:
+      en: "competition"
+      ko: "서로 겨룸"
+    gender: null
+    plural: null
+    notes:
+      en: "Sino-Korean: 競(compete) + 爭(fight)"
+      ko: "한자어: 競(다툴 경) + 爭(다툴 쟁)"
