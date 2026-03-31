@@ -1,0 +1,418 @@
+lesson: sup_B2_Medicine_and_Science
+lesson_number: 130
+type: supplementary
+topic: "Medicine and Science"
+cefr: B2
+categories:
+- id: anatomy
+  label:
+    en: Anatomy and Medicine
+    ko: 해부학과 의학
+  type: vocabulary
+  words:
+  - latin: medicus
+    translation:
+      en: physician, doctor
+      ko: 의사
+    gender: m
+    notes:
+      en: "gen. medicī; 2nd decl."
+      ko: "속격 medicī; 제2변화"
+  - latin: medicina
+    translation:
+      en: medicine, the healing art
+      ko: 의학, 의술
+    gender: f
+    notes:
+      en: "gen. medicīnae; 1st decl."
+      ko: "속격 medicīnae; 제1변화"
+  - latin: remedium
+    translation:
+      en: remedy, cure
+      ko: 치료, 약
+    gender: n
+    notes:
+      en: "gen. remediī; 2nd decl."
+      ko: "속격 remediī; 제2변화"
+  - latin: morbus
+    translation:
+      en: disease, illness
+      ko: 질병
+    gender: m
+    notes:
+      en: "gen. morbī; 2nd decl."
+      ko: "속격 morbī; 제2변화"
+  - latin: febris
+    translation:
+      en: fever
+      ko: 열
+    gender: f
+    notes:
+      en: "gen. febris; 3rd decl."
+      ko: "속격 febris; 제3변화"
+  - latin: pestilentia
+    translation:
+      en: plague, pestilence
+      ko: 역병, 전염병
+    gender: f
+    notes:
+      en: "gen. pestilentiae; 1st decl."
+      ko: "속격 pestilentiae; 제1변화"
+  - latin: vulnus
+    translation:
+      en: wound, injury
+      ko: 상처, 부상
+    gender: n
+    notes:
+      en: "gen. vulneris; 3rd decl."
+      ko: "속격 vulneris; 제3변화"
+  - latin: sanguis
+    translation:
+      en: blood
+      ko: 피, 혈액
+    gender: m
+    notes:
+      en: "gen. sanguinis; 3rd decl."
+      ko: "속격 sanguinis; 제3변화"
+  - latin: os
+    translation:
+      en: bone
+      ko: 뼈
+    gender: n
+    notes:
+      en: "gen. ossis; 3rd decl.; cf. ōs, ōris (mouth)"
+      ko: "속격 ossis; 제3변화; ōs, ōris (입)와 구별"
+  - latin: nervus
+    translation:
+      en: sinew, nerve, tendon
+      ko: 힘줄, 신경
+    gender: m
+    notes:
+      en: "gen. nervī; 2nd decl.; in classical Latin primarily 'sinew'"
+      ko: "속격 nervī; 제2변화; 고전 라틴어에서 주로 '힘줄'"
+  - latin: vena
+    translation:
+      en: vein, blood vessel
+      ko: 정맥, 혈관
+    gender: f
+    notes:
+      en: "gen. vēnae; 1st decl."
+      ko: "속격 vēnae; 제1변화"
+  - latin: arteria
+    translation:
+      en: artery, windpipe
+      ko: 동맥, 기도
+    gender: f
+    notes:
+      en: "gen. artēriae; 1st decl.; Greek loanword"
+      ko: "속격 artēriae; 제1변화; 그리스어 차용어"
+  - latin: cerebrum
+    translation:
+      en: brain
+      ko: 뇌
+    gender: n
+    notes:
+      en: "gen. cerebrī; 2nd decl."
+      ko: "속격 cerebrī; 제2변화"
+  - latin: cor
+    translation:
+      en: heart
+      ko: 심장
+    gender: n
+    notes:
+      en: "gen. cordis; 3rd decl.; seat of intelligence in Roman thought"
+      ko: "속격 cordis; 제3변화; 로마인의 사고에서 지성의 자리"
+  - latin: pulmo
+    translation:
+      en: lung
+      ko: 폐
+    gender: m
+    notes:
+      en: "gen. pulmōnis; 3rd decl."
+      ko: "속격 pulmōnis; 제3변화"
+  - latin: iecur
+    translation:
+      en: liver
+      ko: 간
+    gender: n
+    notes:
+      en: "gen. iecoris / iecinoris; 3rd decl.; used in haruspicy"
+      ko: "속격 iecoris / iecinoris; 제3변화; 내장 점술에 사용됨"
+  - latin: stomachus
+    translation:
+      en: stomach, gullet
+      ko: 위, 식도
+    gender: m
+    notes:
+      en: "gen. stomachī; 2nd decl.; Greek loanword"
+      ko: "속격 stomachī; 제2변화; 그리스어 차용어"
+  - latin: herba
+    translation:
+      en: herb, plant
+      ko: 약초, 식물
+    gender: f
+    notes:
+      en: "gen. herbae; 1st decl.; herba medicīnālis = 'medicinal herb'"
+      ko: "속격 herbae; 제1변화; herba medicīnālis = '약초'"
+  - latin: venenum
+    translation:
+      en: poison, drug, potion
+      ko: 독, 약물
+    gender: n
+    notes:
+      en: "gen. venēnī; 2nd decl.; ambiguous: could mean medicine or poison"
+      ko: "속격 venēnī; 제2변화; 약과 독 양쪽을 의미할 수 있음"
+
+- id: astronomy
+  label:
+    en: Astronomy and Celestial Bodies
+    ko: 천문학과 천체
+  type: vocabulary
+  words:
+  - latin: caelum
+    translation:
+      en: sky, heaven
+      ko: 하늘, 천국
+    gender: n
+    notes:
+      en: "gen. caelī; 2nd decl."
+      ko: "속격 caelī; 제2변화"
+  - latin: stella
+    translation:
+      en: star
+      ko: 별
+    gender: f
+    notes:
+      en: "gen. stellae; 1st decl.; stella errāns = 'planet' (wandering star)"
+      ko: "속격 stellae; 제1변화; stella errāns = '행성' (떠도는 별)"
+  - latin: sol
+    translation:
+      en: sun
+      ko: 태양
+    gender: m
+    notes:
+      en: "gen. sōlis; 3rd decl."
+      ko: "속격 sōlis; 제3변화"
+  - latin: luna
+    translation:
+      en: moon
+      ko: 달
+    gender: f
+    notes:
+      en: "gen. lūnae; 1st decl."
+      ko: "속격 lūnae; 제1변화"
+  - latin: sidus
+    translation:
+      en: star, constellation
+      ko: 별, 별자리
+    gender: n
+    notes:
+      en: "gen. sīderis; 3rd decl.; often used for constellations"
+      ko: "속격 sīderis; 제3변화; 주로 별자리를 가리킬 때 사용"
+  - latin: orbis
+    translation:
+      en: circle, sphere, orbit
+      ko: 원, 구, 궤도
+    gender: m
+    notes:
+      en: "gen. orbis; 3rd decl.; orbis terrārum = 'the world'"
+      ko: "속격 orbis; 제3변화; orbis terrārum = '세계'"
+  - latin: axis
+    translation:
+      en: axle, axis, pole
+      ko: 축, 극
+    gender: m
+    notes:
+      en: "gen. axis; 3rd decl.; the axis of the celestial sphere"
+      ko: "속격 axis; 제3변화; 천구의 축"
+  - latin: eclipsis
+    translation:
+      en: eclipse
+      ko: 식, 일식/월식
+    gender: f
+    notes:
+      en: "gen. eclipsis; 3rd decl.; Greek loanword"
+      ko: "속격 eclipsis; 제3변화; 그리스어 차용어"
+  - latin: zodiacus
+    translation:
+      en: zodiac
+      ko: 황도대
+    gender: m
+    notes:
+      en: "gen. zodiacī; 2nd decl.; the belt of constellations through which the sun moves"
+      ko: "속격 zodiacī; 제2변화; 태양이 지나가는 별자리 띠"
+  - latin: cometes
+    translation:
+      en: comet
+      ko: 혜성
+    gender: m
+    notes:
+      en: "gen. comētae; 1st decl.; Greek loanword; stella comētēs"
+      ko: "속격 comētae; 제1변화; 그리스어 차용어; stella comētēs"
+  - latin: sphaera
+    translation:
+      en: sphere, globe
+      ko: 구, 천구
+    gender: f
+    notes:
+      en: "gen. sphaerae; 1st decl.; Greek loanword; model of the cosmos"
+      ko: "속격 sphaerae; 제1변화; 그리스어 차용어; 우주의 모형"
+  - latin: mundus
+    translation:
+      en: world, universe, cosmos
+      ko: 세계, 우주
+    gender: m
+    notes:
+      en: "gen. mundī; 2nd decl.; the ordered cosmos"
+      ko: "속격 mundī; 제2변화; 질서 있는 우주"
+
+- id: natural_history
+  label:
+    en: Natural History (Pliny and Others)
+    ko: 박물학 (플리니우스 등)
+  type: vocabulary
+  words:
+  - latin: elementum
+    translation:
+      en: element, first principle
+      ko: 원소, 기본 원리
+    gender: n
+    notes:
+      en: "gen. elementī; 2nd decl.; the four elements: ignis, aer, aqua, terra"
+      ko: "속격 elementī; 제2변화; 4원소: 불, 공기, 물, 흙"
+  - latin: materia
+    translation:
+      en: matter, material, timber
+      ko: 물질, 재료, 목재
+    gender: f
+    notes:
+      en: "gen. māteriae; 1st decl.; the physical substance of things"
+      ko: "속격 māteriae; 제1변화; 사물의 물리적 실체"
+  - latin: animal
+    translation:
+      en: animal, living creature
+      ko: 동물, 생물
+    gender: n
+    notes:
+      en: "gen. animālis; 3rd decl."
+      ko: "속격 animālis; 제3변화"
+  - latin: bestia
+    translation:
+      en: beast, wild animal
+      ko: 짐승, 야생 동물
+    gender: f
+    notes:
+      en: "gen. bestiae; 1st decl."
+      ko: "속격 bestiae; 제1변화"
+  - latin: planta
+    translation:
+      en: plant, shoot, seedling
+      ko: 식물, 싹
+    gender: f
+    notes:
+      en: "gen. plantae; 1st decl."
+      ko: "속격 plantae; 제1변화"
+  - latin: minerale
+    translation:
+      en: mineral
+      ko: 광물
+    gender: n
+    notes:
+      en: "gen. minerālis; 3rd decl.; medieval Latin; Pliny classified metals and stones"
+      ko: "속격 minerālis; 제3변화; 중세 라틴어; 플리니우스는 금속과 돌을 분류함"
+  - latin: species
+    translation:
+      en: appearance, kind, species
+      ko: 외관, 종류, 종
+    gender: f
+    notes:
+      en: "gen. speciēī; 5th decl.; later used in taxonomy"
+      ko: "속격 speciēī; 제5변화; 이후 분류학에서 사용됨"
+  - latin: genus
+    translation:
+      en: kind, type, genus, race
+      ko: 종류, 유형, 속, 종족
+    gender: n
+    notes:
+      en: "gen. generis; 3rd decl.; later used in biological taxonomy"
+      ko: "속격 generis; 제3변화; 이후 생물 분류학에서 사용됨"
+  - latin: historia naturalis
+    translation:
+      en: natural history
+      ko: 박물학
+    gender: f
+    notes:
+      en: "title of Pliny the Elder's encyclopedic work (77 AD)"
+      ko: "대 플리니우스의 백과사전적 저작의 제목 (서기 77년)"
+  - latin: experimentum
+    translation:
+      en: experiment, trial, test
+      ko: 실험, 시험
+    gender: n
+    notes:
+      en: "gen. experimentī; 2nd decl."
+      ko: "속격 experimentī; 제2변화"
+  - latin: observatio
+    translation:
+      en: observation, watching
+      ko: 관찰
+    gender: f
+    notes:
+      en: "gen. observātiōnis; 3rd decl."
+      ko: "속격 observātiōnis; 제3변화"
+  - latin: praedictio
+    translation:
+      en: prediction, forecast
+      ko: 예측, 예보
+    gender: f
+    notes:
+      en: "gen. praedictiōnis; 3rd decl."
+      ko: "속격 praedictiōnis; 제3변화"
+  - latin: aer
+    translation:
+      en: air, atmosphere
+      ko: 공기, 대기
+    gender: m
+    notes:
+      en: "gen. āeris; 3rd decl.; Greek loanword; one of four elements"
+      ko: "속격 āeris; 제3변화; 그리스어 차용어; 4원소 중 하나"
+  - latin: ignis
+    translation:
+      en: fire
+      ko: 불
+    gender: m
+    notes:
+      en: "gen. ignis; 3rd decl.; one of four classical elements"
+      ko: "속격 ignis; 제3변화; 4원소 중 하나"
+  - latin: aqua
+    translation:
+      en: water
+      ko: 물
+    gender: f
+    notes:
+      en: "gen. aquae; 1st decl.; one of four classical elements"
+      ko: "속격 aquae; 제1변화; 4원소 중 하나"
+  - latin: terra
+    translation:
+      en: earth, land, ground
+      ko: 흙, 땅
+    gender: f
+    notes:
+      en: "gen. terrae; 1st decl.; one of four classical elements"
+      ko: "속격 terrae; 제1변화; 4원소 중 하나"
+  - latin: magnes
+    translation:
+      en: magnet, lodestone
+      ko: 자석
+    gender: m
+    notes:
+      en: "gen. magnētis; 3rd decl.; named after Magnesia in Greece"
+      ko: "속격 magnētis; 제3변화; 그리스의 마그네시아에서 이름 유래"
+  - latin: fossile
+    translation:
+      en: something dug up, fossil
+      ko: 화석, 발굴물
+    gender: n
+    notes:
+      en: "gen. fossilis; 3rd decl.; from fodere 'to dig'"
+      ko: "속격 fossilis; 제3변화; fodere '파다'에서 유래"

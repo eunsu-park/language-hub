@@ -1,0 +1,596 @@
+lesson: 12_Passive_Voice
+lesson_number: 12
+cefr: B1
+categories:
+- id: 121_passive_constructions
+  label:
+    en: 12.1 Passive Constructions
+    ko: 12.1 수동태 구문
+  type: vocabulary
+  words:
+  - latin: a, ab
+    translation:
+      en: by (with agent in passive)
+      ko: ~에 의해 (수동태 행위자)
+    gender: null
+    notes:
+      en: Preposition + ablative; ab before vowels/h
+      ko: 전치사 + 탈격; 모음/h 앞에서 ab
+  - latin: amor
+    translation:
+      en: I am loved
+      ko: 나는 사랑받는다
+    gender: null
+    notes:
+      en: 1st person singular present passive of amo
+      ko: amo의 1인칭 단수 현재 수동
+  - latin: amaris
+    translation:
+      en: you are loved
+      ko: 너는 사랑받는다
+    gender: null
+    notes:
+      en: 2nd person singular present passive of amo
+      ko: amo의 2인칭 단수 현재 수동
+  - latin: amatur
+    translation:
+      en: he/she/it is loved
+      ko: 그/그녀/그것은 사랑받는다
+    gender: null
+    notes:
+      en: 3rd person singular present passive of amo
+      ko: amo의 3인칭 단수 현재 수동
+  - latin: amamur
+    translation:
+      en: we are loved
+      ko: 우리는 사랑받는다
+    gender: null
+    notes:
+      en: 1st person plural present passive of amo
+      ko: amo의 1인칭 복수 현재 수동
+  - latin: amamini
+    translation:
+      en: you (pl.) are loved
+      ko: 너희는 사랑받는다
+    gender: null
+    notes:
+      en: 2nd person plural present passive of amo
+      ko: amo의 2인칭 복수 현재 수동
+  - latin: amantur
+    translation:
+      en: they are loved
+      ko: 그들은 사랑받는다
+    gender: null
+    notes:
+      en: 3rd person plural present passive of amo
+      ko: amo의 3인칭 복수 현재 수동
+  - latin: moneor
+    translation:
+      en: I am advised
+      ko: 나는 충고받는다
+    gender: null
+    notes:
+      en: 1st person singular present passive of moneo (2nd conj.)
+      ko: moneo의 1인칭 단수 현재 수동 (제2변화)
+  - latin: regor
+    translation:
+      en: I am ruled
+      ko: 나는 통치받는다
+    gender: null
+    notes:
+      en: 1st person singular present passive of rego (3rd conj.)
+      ko: rego의 1인칭 단수 현재 수동 (제3변화)
+  - latin: capior
+    translation:
+      en: I am taken, I am seized
+      ko: 나는 잡힌다
+    gender: null
+    notes:
+      en: 1st person singular present passive of capio (3rd i-stem)
+      ko: capio의 1인칭 단수 현재 수동 (제3변화 i-어간)
+  - latin: audior
+    translation:
+      en: I am heard
+      ko: 나는 들린다
+    gender: null
+    notes:
+      en: 1st person singular present passive of audio (4th conj.)
+      ko: audio의 1인칭 단수 현재 수동 (제4변화)
+  - latin: amatus est
+    translation:
+      en: he was loved (perfect passive)
+      ko: 그는 사랑받았다 (완료 수동)
+    gender: null
+    notes:
+      en: Perfect passive = perfect participle + sum
+      ko: 완료 수동 = 완료 분사 + sum
+  - latin: amata est
+    translation:
+      en: she was loved (perfect passive)
+      ko: 그녀는 사랑받았다 (완료 수동)
+    gender: null
+    notes:
+      en: Feminine form of perfect passive participle
+      ko: 완료 수동 분사의 여성형
+  - latin: amati sunt
+    translation:
+      en: they were loved (perfect passive)
+      ko: 그들은 사랑받았다 (완료 수동)
+    gender: null
+    notes:
+      en: Masculine plural perfect passive
+      ko: 남성 복수 완료 수동
+  - latin: dictum est
+    translation:
+      en: it was said
+      ko: 그것이 말해졌다
+    gender: null
+    notes:
+      en: Neuter singular perfect passive of dico
+      ko: dico의 중성 단수 완료 수동
+  - latin: missi sunt
+    translation:
+      en: they were sent
+      ko: 그들은 보내졌다
+    gender: null
+    notes:
+      en: Masculine plural perfect passive of mitto
+      ko: mitto의 남성 복수 완료 수동
+  - latin: scriptum est
+    translation:
+      en: it was written
+      ko: 그것이 쓰여졌다
+    gender: null
+    notes:
+      en: Neuter singular perfect passive of scribo
+      ko: scribo의 중성 단수 완료 수동
+  - latin: ductus est
+    translation:
+      en: he was led
+      ko: 그는 이끌려졌다
+    gender: null
+    notes:
+      en: Masculine singular perfect passive of duco
+      ko: duco의 남성 단수 완료 수동
+- id: 122_agent_expressions
+  label:
+    en: 12.2 Agent Expressions
+    ko: 12.2 행위자 표현
+  type: vocabulary
+  words:
+  - latin: a rege
+    translation:
+      en: by the king
+      ko: 왕에 의해
+    gender: null
+    notes:
+      en: Agent expression with a + ablative
+      ko: a + 탈격으로 행위자 표현
+  - latin: ab imperatore
+    translation:
+      en: by the commander
+      ko: 사령관에 의해
+    gender: null
+    notes:
+      en: ab before vowel; ablative of agent
+      ko: 모음 앞에서 ab; 행위자의 탈격
+  - latin: a militibus
+    translation:
+      en: by the soldiers
+      ko: 병사들에 의해
+    gender: null
+    notes:
+      en: Plural agent; a + ablative plural
+      ko: 복수 행위자; a + 탈격 복수
+  - latin: a populo
+    translation:
+      en: by the people
+      ko: 국민에 의해
+    gender: null
+    notes:
+      en: Agent expression with collective noun
+      ko: 집합명사로 행위자 표현
+  - latin: gladio
+    translation:
+      en: with/by a sword (instrument)
+      ko: 칼로 (도구)
+    gender: null
+    notes:
+      en: Ablative of instrument (no preposition)
+      ko: 도구의 탈격 (전치사 없음)
+  - latin: igni
+    translation:
+      en: with/by fire (instrument)
+      ko: 불로 (도구)
+    gender: null
+    notes:
+      en: Ablative of instrument; ignis, -is (3rd decl.)
+      ko: 도구의 탈격; ignis, -is (제3변화)
+  - latin: veneno
+    translation:
+      en: with/by poison (instrument)
+      ko: 독으로 (도구)
+    gender: null
+    notes:
+      en: Ablative of means; venenum, -i (2nd decl.)
+      ko: 수단의 탈격; venenum, -i (제2변화)
+  - latin: consilio
+    translation:
+      en: by plan, by counsel
+      ko: 계략으로, 조언으로
+    gender: null
+    notes:
+      en: Ablative of means; consilium, -i (2nd decl.)
+      ko: 수단의 탈격; consilium, -i (제2변화)
+  - latin: lege
+    translation:
+      en: by law
+      ko: 법에 의해
+    gender: null
+    notes:
+      en: Ablative of means; lex, legis (3rd decl.)
+      ko: 수단의 탈격; lex, legis (제3변화)
+- id: 123_passive_example_phrases
+  label:
+    en: 12.3 Passive Example Phrases
+    ko: 12.3 수동태 예문 표현
+  type: vocabulary
+  words:
+  - latin: urbs condita est
+    translation:
+      en: the city was founded
+      ko: 도시가 건설되었다
+    gender: null
+    notes:
+      en: Perfect passive; condo, condere, condidi, conditum
+      ko: 완료 수동; condo, condere, condidi, conditum
+  - latin: leges scriptae sunt
+    translation:
+      en: the laws were written
+      ko: 법들이 기록되었다
+    gender: null
+    notes:
+      en: Feminine plural perfect passive
+      ko: 여성 복수 완료 수동
+  - latin: liber lectus est
+    translation:
+      en: the book was read
+      ko: 책이 읽혔다
+    gender: null
+    notes:
+      en: Perfect passive of lego, legere, legi, lectum
+      ko: lego, legere, legi, lectum의 완료 수동
+  - latin: hostes victi sunt
+    translation:
+      en: the enemies were defeated
+      ko: 적들이 패배당했다
+    gender: null
+    notes:
+      en: Perfect passive of vinco
+      ko: vinco의 완료 수동
+  - latin: epistula missa est
+    translation:
+      en: the letter was sent
+      ko: 편지가 보내졌다
+    gender: null
+    notes:
+      en: Perfect passive of mitto
+      ko: mitto의 완료 수동
+  - latin: captivi liberati sunt
+    translation:
+      en: the captives were freed
+      ko: 포로들이 풀려났다
+    gender: null
+    notes:
+      en: Perfect passive of libero, -are
+      ko: libero, -are의 완료 수동
+  - latin: puer laudatus est
+    translation:
+      en: the boy was praised
+      ko: 소년이 칭찬받았다
+    gender: null
+    notes:
+      en: Perfect passive of laudo, -are
+      ko: laudo, -are의 완료 수동
+  - latin: bellum gestum est
+    translation:
+      en: the war was waged
+      ko: 전쟁이 수행되었다
+    gender: null
+    notes:
+      en: Perfect passive of gero
+      ko: gero의 완료 수동
+  - latin: consilium captum est
+    translation:
+      en: a plan was adopted
+      ko: 계획이 채택되었다
+    gender: null
+    notes:
+      en: Perfect passive of capio
+      ko: capio의 완료 수동
+  - latin: verba audita sunt
+    translation:
+      en: the words were heard
+      ko: 말들이 들렸다
+    gender: null
+    notes:
+      en: Neuter plural perfect passive of audio
+      ko: audio의 중성 복수 완료 수동
+- id: 124_deponent_verbs_intro
+  label:
+    en: 12.4 Deponent Verbs (Introduction)
+    ko: 12.4 이형태 동사 (입문)
+  type: vocabulary
+  words:
+  - latin: sequor, sequi, secutus sum
+    translation:
+      en: to follow
+      ko: 따르다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent; passive form, active meaning
+      ko: 제3변화 이형태 동사; 수동 형태, 능동 의미
+  - latin: loquor, loqui, locutus sum
+    translation:
+      en: to speak, to talk
+      ko: 말하다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: morior, mori, mortuus sum
+    translation:
+      en: to die
+      ko: 죽다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent
+      ko: 제3변화 i-어간 이형태 동사
+  - latin: patior, pati, passus sum
+    translation:
+      en: to suffer, to endure
+      ko: 겪다, 참다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent
+      ko: 제3변화 i-어간 이형태 동사
+  - latin: utor, uti, usus sum
+    translation:
+      en: to use (+ ablative)
+      ko: 사용하다 (+ 탈격)
+    gender: null
+    notes:
+      en: 3rd conjugation deponent; takes ablative object
+      ko: 제3변화 이형태 동사; 탈격 목적어
+  - latin: nascor, nasci, natus sum
+    translation:
+      en: to be born
+      ko: 태어나다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: proficiscor, proficisci, profectus sum
+    translation:
+      en: to set out, to depart
+      ko: 출발하다
+    gender: null
+    notes:
+      en: 3rd conjugation deponent
+      ko: 제3변화 이형태 동사
+  - latin: ingredior, ingredi, ingressus sum
+    translation:
+      en: to enter, to go into
+      ko: 들어가다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent
+      ko: 제3변화 i-어간 이형태 동사
+  - latin: egredior, egredi, egressus sum
+    translation:
+      en: to go out, to leave
+      ko: 나가다
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem deponent
+      ko: 제3변화 i-어간 이형태 동사
+  - latin: orior, oriri, ortus sum
+    translation:
+      en: to rise, to arise
+      ko: 일어나다, 떠오르다
+    gender: null
+    notes:
+      en: 4th conjugation deponent (some 3rd conj. forms)
+      ko: 제4변화 이형태 동사 (일부 제3변화 형태)
+  - latin: fruor, frui, fructus sum
+    translation:
+      en: to enjoy (+ ablative)
+      ko: 즐기다 (+ 탈격)
+    gender: null
+    notes:
+      en: 3rd conjugation deponent; takes ablative object
+      ko: 제3변화 이형태 동사; 탈격 목적어
+  - latin: fungor, fungi, functus sum
+    translation:
+      en: to perform, to discharge (+ ablative)
+      ko: 수행하다 (+ 탈격)
+    gender: null
+    notes:
+      en: 3rd conjugation deponent; takes ablative object
+      ko: 제3변화 이형태 동사; 탈격 목적어
+  - latin: potior, potiri, potitus sum
+    translation:
+      en: to gain possession of (+ ablative)
+      ko: 차지하다 (+ 탈격)
+    gender: null
+    notes:
+      en: 4th conjugation deponent; takes ablative (or genitive)
+      ko: 제4변화 이형태 동사; 탈격 (또는 속격) 지배
+  - latin: vescor, vesci
+    translation:
+      en: to feed on, to eat (+ ablative)
+      ko: 먹다 (+ 탈격)
+    gender: null
+    notes:
+      en: 3rd conjugation deponent; no perfect participle
+      ko: 제3변화 이형태 동사; 완료 분사 없음
+  - latin: conor, conari, conatus sum
+    translation:
+      en: to try, to attempt
+      ko: 시도하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: hortor, hortari, hortatus sum
+    translation:
+      en: to encourage, to urge
+      ko: 격려하다, 촉구하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: miror, mirari, miratus sum
+    translation:
+      en: to wonder at, to admire
+      ko: 놀라다, 감탄하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: vereor, vereri, veritus sum
+    translation:
+      en: to fear, to respect
+      ko: 두려워하다, 존경하다
+    gender: null
+    notes:
+      en: 2nd conjugation deponent
+      ko: 제2변화 이형태 동사
+  - latin: arbitror, arbitrari, arbitratus sum
+    translation:
+      en: to think, to judge
+      ko: 생각하다, 판단하다
+    gender: null
+    notes:
+      en: 1st conjugation deponent
+      ko: 제1변화 이형태 동사
+  - latin: polliceor, polliceri, pollicitus sum
+    translation:
+      en: to promise
+      ko: 약속하다
+    gender: null
+    notes:
+      en: 2nd conjugation deponent
+      ko: 제2변화 이형태 동사
+  - latin: monebantur
+    translation:
+      en: they were being advised (imperfect passive)
+      ko: 그들은 충고받고 있었다 (미완료 수동)
+    gender: null
+    notes:
+      en: 3rd person plural imperfect passive of moneo
+      ko: moneo의 3인칭 복수 미완료 수동
+  - latin: regebatur
+    translation:
+      en: he/she/it was being ruled (imperfect passive)
+      ko: 그/그녀/그것은 통치받고 있었다 (미완료 수동)
+    gender: null
+    notes:
+      en: 3rd person singular imperfect passive of rego
+      ko: rego의 3인칭 단수 미완료 수동
+  - latin: amabatur
+    translation:
+      en: he/she was being loved (imperfect passive)
+      ko: 그/그녀는 사랑받고 있었다 (미완료 수동)
+    gender: null
+    notes:
+      en: 3rd person singular imperfect passive of amo
+      ko: amo의 3인칭 단수 미완료 수동
+  - latin: amabitur
+    translation:
+      en: he/she will be loved (future passive)
+      ko: 그/그녀는 사랑받을 것이다 (미래 수동)
+    gender: null
+    notes:
+      en: 3rd person singular future passive of amo
+      ko: amo의 3인칭 단수 미래 수동
+  - latin: ducetur
+    translation:
+      en: he/she will be led (future passive)
+      ko: 그/그녀는 이끌릴 것이다 (미래 수동)
+    gender: null
+    notes:
+      en: 3rd person singular future passive of duco
+      ko: duco의 3인칭 단수 미래 수동
+  - latin: audietur
+    translation:
+      en: he/she will be heard (future passive)
+      ko: 그/그녀는 들릴 것이다 (미래 수동)
+    gender: null
+    notes:
+      en: 3rd person singular future passive of audio
+      ko: audio의 3인칭 단수 미래 수동
+  - latin: laudari
+    translation:
+      en: to be praised (present passive infinitive)
+      ko: 칭찬받다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 1st conjugation present passive infinitive
+      ko: 제1변화 현재 수동 부정사
+  - latin: regi
+    translation:
+      en: to be ruled (present passive infinitive)
+      ko: 통치되다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 3rd conjugation present passive infinitive
+      ko: 제3변화 현재 수동 부정사
+  - latin: capi
+    translation:
+      en: to be taken (present passive infinitive)
+      ko: 잡히다 (현재 수동 부정사)
+    gender: null
+    notes:
+      en: 3rd conjugation i-stem present passive infinitive
+      ko: 제3변화 i-어간 현재 수동 부정사
+  - latin: lex lata est
+    translation:
+      en: the law was passed
+      ko: 법이 통과되었다
+    gender: null
+    notes:
+      en: Perfect passive of fero (latum); legislative term
+      ko: fero (latum)의 완료 수동; 입법 용어
+  - latin: urbs capta est
+    translation:
+      en: the city was captured
+      ko: 도시가 점령되었다
+    gender: null
+    notes:
+      en: Perfect passive of capio; military context
+      ko: capio의 완료 수동; 군사 맥락
+  - latin: foedus ictum est
+    translation:
+      en: a treaty was struck
+      ko: 조약이 체결되었다
+    gender: null
+    notes:
+      en: Perfect passive of ico (icere); diplomatic context
+      ko: ico (icere)의 완료 수동; 외교 맥락
+  - latin: terra visa est
+    translation:
+      en: land was seen
+      ko: 땅이 보였다
+    gender: null
+    notes:
+      en: Perfect passive of video; feminine subject
+      ko: video의 완료 수동; 여성 주어
+  - latin: opus perfectum est
+    translation:
+      en: the work was completed
+      ko: 작업이 완성되었다
+    gender: null
+    notes:
+      en: Perfect passive of perficio; neuter subject
+      ko: perficio의 완료 수동; 중성 주어

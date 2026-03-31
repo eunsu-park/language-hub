@@ -1,0 +1,520 @@
+lesson: 02_Basic_Phrases_and_Inscriptions
+lesson_number: 2
+cefr: A1
+categories:
+- id: 21_greetings
+  label:
+    en: 2.1 Greetings and Farewells
+    ko: 2.1 인사와 작별
+  type: vocabulary
+  words:
+  - latin: salve
+    translation:
+      en: hello / greetings (to one person)
+      ko: 안녕하세요 (한 사람에게)
+    gender: null
+    notes:
+      en: "Imperative of salvere (to be well); plural: salvete"
+      ko: "salvere(건강하다)의 명령형; 복수형: salvete"
+  - latin: salvete
+    translation:
+      en: hello / greetings (to multiple people)
+      ko: 안녕하세요 (여러 사람에게)
+    gender: null
+  - latin: vale
+    translation:
+      en: goodbye / farewell (to one person)
+      ko: 안녕히 가세요 (한 사람에게)
+    gender: null
+    notes:
+      en: "Imperative of valere (to be strong); plural: valete"
+      ko: "valere(건강하다)의 명령형; 복수형: valete"
+  - latin: valete
+    translation:
+      en: goodbye / farewell (to multiple people)
+      ko: 안녕히 가세요 (여러 사람에게)
+    gender: null
+  - latin: ave
+    translation:
+      en: hail / greetings (formal)
+      ko: 안녕하세요 (격식)
+    gender: null
+    notes:
+      en: "More formal than salve; plural: avete"
+      ko: "salve보다 격식적; 복수형: avete"
+  - latin: avete
+    translation:
+      en: hail / greetings (formal, to many)
+      ko: 안녕하세요 (격식, 여러 사람에게)
+    gender: null
+  - latin: gratias
+    translation:
+      en: thanks
+      ko: 감사
+    gender: f
+    notes:
+      en: "Short for gratias ago (I give thanks); accusative plural of gratia"
+      ko: "gratias ago(감사를 드리다)의 줄임; gratia의 대격 복수"
+  - latin: gratias tibi ago
+    translation:
+      en: thank you (I give thanks to you)
+      ko: 감사합니다 (당신에게 감사를 드립니다)
+    gender: null
+  - latin: quaeso
+    translation:
+      en: please / I beg
+      ko: 제발 / 부디
+    gender: null
+    notes:
+      en: Defective verb used as a polite particle
+      ko: 공손한 조사로 사용되는 불완전 동사
+  - latin: ignosce
+    translation:
+      en: excuse me / forgive (to one person)
+      ko: 실례합니다 / 용서하세요 (한 사람에게)
+    gender: null
+    notes:
+      en: Imperative of ignoscere (to pardon)
+      ko: ignoscere(용서하다)의 명령형
+  - latin: ita
+    translation:
+      en: yes / so / thus
+      ko: 예 / 그렇게 / 그러므로
+    gender: null
+    notes:
+      en: Latin had no single word for "yes"; ita or ita vero was used
+      ko: 라틴어에는 "예"에 해당하는 단일 단어가 없었음; ita 또는 ita vero 사용
+  - latin: minime
+    translation:
+      en: no / not at all
+      ko: 아니요 / 전혀
+    gender: null
+    notes:
+      en: Superlative of parum (little); used as emphatic "no"
+      ko: parum(적은)의 최상급; 강조적 "아니요"로 사용
+  - latin: bene
+    translation:
+      en: well / good
+      ko: 잘 / 좋게
+    gender: null
+    notes:
+      en: Source of English "benefit," "benevolent"
+      ko: 영어 "benefit," "benevolent"의 어원
+  - latin: male
+    translation:
+      en: badly / poorly
+      ko: 나쁘게 / 서툴게
+    gender: null
+    notes:
+      en: Source of English "malice," "malevolent"
+      ko: 영어 "malice," "malevolent"의 어원
+  - latin: optime
+    translation:
+      en: very well / excellent
+      ko: 매우 좋게 / 훌륭하게
+    gender: null
+    notes:
+      en: Superlative of bene; source of English "optimal"
+      ko: bene의 최상급; 영어 "optimal"의 어원
+  - latin: quid est nomen tibi?
+    translation:
+      en: what is your name?
+      ko: 당신의 이름은 무엇입니까?
+    gender: null
+    notes:
+      en: "Literally 'what is the name to you?'; dative of possession"
+      ko: "문자 그대로 '당신에게 이름이 무엇입니까?'; 소유의 여격"
+  - latin: nomen mihi est...
+    translation:
+      en: my name is...
+      ko: 제 이름은...입니다
+    gender: null
+    notes:
+      en: "Literally 'the name to me is...'; mihi = dative of ego"
+      ko: "문자 그대로 '나에게 이름은...입니다'; mihi = ego의 여격"
+  - latin: quomodo te habes?
+    translation:
+      en: how are you?
+      ko: 어떻게 지내세요?
+    gender: null
+    notes:
+      en: "Literally 'how do you have yourself?'"
+      ko: "문자 그대로 '자신을 어떻게 가지고 있습니까?'"
+- id: 22_common_phrases
+  label:
+    en: 2.2 Common Phrases
+    ko: 2.2 일반 표현
+  type: vocabulary
+  words:
+  - latin: amicus
+    translation:
+      en: friend (m)
+      ko: 친구 (남)
+    gender: m
+    notes:
+      en: Source of English "amicable"
+      ko: 영어 "amicable"의 어원
+  - latin: amica
+    translation:
+      en: friend (f)
+      ko: 친구 (여)
+    gender: f
+  - latin: magister
+    translation:
+      en: teacher / master
+      ko: 선생님 / 스승
+    gender: m
+  - latin: discipulus
+    translation:
+      en: student / pupil
+      ko: 학생
+    gender: m
+  - latin: pax
+    translation:
+      en: peace
+      ko: 평화
+    gender: f
+    notes:
+      en: "Gen. pacis; source of English 'peace,' 'pacify,' 'Pacific'"
+      ko: "속격 pacis; 영어 'peace,' 'pacify,' 'Pacific'의 어원"
+  - latin: veritas
+    translation:
+      en: truth
+      ko: 진리 / 진실
+    gender: f
+    notes:
+      en: "Gen. veritatis; motto of Harvard University"
+      ko: "속격 veritatis; 하버드 대학교의 교훈"
+  - latin: lux
+    translation:
+      en: light
+      ko: 빛
+    gender: f
+    notes:
+      en: "Gen. lucis; source of English 'lucid,' 'translucent'"
+      ko: "속격 lucis; 영어 'lucid,' 'translucent'의 어원"
+  - latin: virtus
+    translation:
+      en: courage / virtue / excellence
+      ko: 용기 / 덕 / 탁월함
+    gender: f
+    notes:
+      en: "From vir (man); originally 'manliness,' later 'moral excellence'"
+      ko: "vir(남자)에서 유래; 원래 '남자다움,' 이후 '도덕적 탁월함'"
+  - latin: gloria
+    translation:
+      en: glory / fame
+      ko: 영광 / 명성
+    gender: f
+    notes:
+      en: Source of English "glory" and "glorious"
+      ko: 영어 "glory"와 "glorious"의 어원
+  - latin: fortuna
+    translation:
+      en: fortune / luck
+      ko: 운 / 행운
+    gender: f
+    notes:
+      en: "Personified as goddess Fortuna; source of English 'fortune'"
+      ko: "여신 Fortuna로 의인화됨; 영어 'fortune'의 어원"
+  - latin: victoria
+    translation:
+      en: victory
+      ko: 승리
+    gender: f
+  - latin: imperium
+    translation:
+      en: command / empire / power
+      ko: 명령 / 제국 / 권력
+    gender: n
+    notes:
+      en: Source of English "empire," "imperial," "imperative"
+      ko: 영어 "empire," "imperial," "imperative"의 어원
+  - latin: populus
+    translation:
+      en: people / nation
+      ko: 백성 / 국민
+    gender: m
+    notes:
+      en: Source of English "people," "popular," "population"
+      ko: 영어 "people," "popular," "population"의 어원
+  - latin: senatus
+    translation:
+      en: senate
+      ko: 원로원
+    gender: m
+    notes:
+      en: "From senex (old man); council of elders"
+      ko: "senex(노인)에서 유래; 원로들의 의회"
+  - latin: res publica
+    translation:
+      en: republic / the state
+      ko: 공화국 / 국가
+    gender: f
+    notes:
+      en: "Literally 'public affair'; source of English 'republic'"
+      ko: "문자 그대로 '공공의 일'; 영어 'republic'의 어원"
+  - latin: patria
+    translation:
+      en: fatherland / homeland
+      ko: 조국
+    gender: f
+  - latin: honor
+    translation:
+      en: honor / public office
+      ko: 명예 / 관직
+    gender: m
+    notes:
+      en: Source of English "honor" and "honest"
+      ko: 영어 "honor"와 "honest"의 어원
+  - latin: lex
+    translation:
+      en: law
+      ko: 법
+    gender: f
+    notes:
+      en: "Gen. legis; source of English 'legal,' 'legislate'"
+      ko: "속격 legis; 영어 'legal,' 'legislate'의 어원"
+  - latin: iustitia
+    translation:
+      en: justice
+      ko: 정의
+    gender: f
+    notes:
+      en: Source of English "justice"
+      ko: 영어 "justice"의 어원
+  - latin: libertas
+    translation:
+      en: freedom / liberty
+      ko: 자유
+    gender: f
+    notes:
+      en: Source of English "liberty"; personified as goddess Libertas
+      ko: 영어 "liberty"의 어원; 여신 Libertas로 의인화
+  - latin: sapientia
+    translation:
+      en: wisdom
+      ko: 지혜
+    gender: f
+    notes:
+      en: "From sapere (to be wise); Homo sapiens = wise human"
+      ko: "sapere(현명하다)에서; Homo sapiens = 현명한 인간"
+  - latin: fides
+    translation:
+      en: faith / trust / loyalty
+      ko: 신의 / 신뢰 / 충성
+    gender: f
+    notes:
+      en: Source of English "fidelity," "confidence," "faith"
+      ko: 영어 "fidelity," "confidence," "faith"의 어원
+  - latin: spes
+    translation:
+      en: hope
+      ko: 희망
+    gender: f
+  - latin: consilium
+    translation:
+      en: plan / advice / counsel
+      ko: 계획 / 조언
+    gender: n
+  - latin: oratio
+    translation:
+      en: speech / oration
+      ko: 연설
+    gender: f
+    notes:
+      en: Source of English "oration" and "orator"
+      ko: 영어 "oration"과 "orator"의 어원
+  - latin: civis
+    translation:
+      en: citizen
+      ko: 시민
+    gender: m
+    notes:
+      en: Source of English "civic," "civil," "civilization"
+      ko: 영어 "civic," "civil," "civilization"의 어원
+- id: 23_inscriptions
+  label:
+    en: 2.3 Famous Inscriptions and Abbreviations
+    ko: 2.3 유명한 비문과 약어
+  type: vocabulary
+  words:
+  - latin: S.P.Q.R.
+    translation:
+      en: Senatus Populusque Romanus (The Senate and People of Rome)
+      ko: Senatus Populusque Romanus (로마의 원로원과 시민)
+    gender: null
+    notes:
+      en: Emblazoned on Roman standards, buildings, and coins; still used in Rome today
+      ko: 로마 군기, 건물, 동전에 새겨짐; 오늘날에도 로마에서 사용
+  - latin: anno Domini (A.D.)
+    translation:
+      en: in the year of the Lord
+      ko: 주의 해에 (서기)
+    gender: null
+    notes:
+      en: Used worldwide for dating; introduced by monk Dionysius Exiguus
+      ko: 전 세계적으로 연도 표기에 사용; 수도사 Dionysius Exiguus가 도입
+  - latin: ante meridiem (a.m.)
+    translation:
+      en: before midday
+      ko: 오전
+    gender: null
+  - latin: post meridiem (p.m.)
+    translation:
+      en: after midday
+      ko: 오후
+    gender: null
+  - latin: et cetera (etc.)
+    translation:
+      en: and the rest / and so on
+      ko: 기타 / 등등
+    gender: null
+  - latin: exempli gratia (e.g.)
+    translation:
+      en: for the sake of example
+      ko: 예를 들어
+    gender: null
+  - latin: id est (i.e.)
+    translation:
+      en: that is
+      ko: 즉
+    gender: null
+  - latin: nota bene (N.B.)
+    translation:
+      en: note well / pay attention
+      ko: 잘 기억하시오 / 주의
+    gender: null
+  - latin: per se
+    translation:
+      en: by itself / in itself
+      ko: 그 자체로
+    gender: null
+  - latin: versus (vs.)
+    translation:
+      en: against / turned toward
+      ko: 대(對) / ~에 맞서
+    gender: null
+  - latin: et alii (et al.)
+    translation:
+      en: and others
+      ko: 그 외 / 및 기타
+    gender: null
+    notes:
+      en: Used in academic citations for multiple authors
+      ko: 학술 인용에서 여러 저자를 나타낼 때 사용
+- id: 24_mottoes
+  label:
+    en: 2.4 Famous Mottoes and Sayings
+    ko: 2.4 유명한 좌우명과 격언
+  type: vocabulary
+  words:
+  - latin: carpe diem
+    translation:
+      en: seize the day
+      ko: 오늘을 잡아라
+    gender: null
+    notes:
+      en: "From Horace, Odes I.11; perhaps the most famous Latin phrase"
+      ko: "호라티우스 송가 I.11에서; 아마도 가장 유명한 라틴어 구절"
+  - latin: veni, vidi, vici
+    translation:
+      en: I came, I saw, I conquered
+      ko: 왔노라, 보았노라, 이겼노라
+    gender: null
+    notes:
+      en: "Julius Caesar's report of his swift victory at Zela, 47 BC"
+      ko: "율리우스 카이사르의 젤라 전투 신속한 승리 보고, 기원전 47년"
+  - latin: cogito, ergo sum
+    translation:
+      en: I think, therefore I am
+      ko: 나는 생각한다, 고로 존재한다
+    gender: null
+    notes:
+      en: "Descartes' famous philosophical proposition (originally in French)"
+      ko: "데카르트의 유명한 철학적 명제 (원래 프랑스어)"
+  - latin: alea iacta est
+    translation:
+      en: the die is cast
+      ko: 주사위는 던져졌다
+    gender: null
+    notes:
+      en: Attributed to Caesar crossing the Rubicon, 49 BC
+      ko: 카이사르가 루비콘 강을 건널 때의 말로 전해짐, 기원전 49년
+  - latin: memento mori
+    translation:
+      en: remember that you will die
+      ko: 죽음을 기억하라
+    gender: null
+    notes:
+      en: Reminder of mortality whispered to Roman generals during triumphs
+      ko: 개선식에서 로마 장군에게 속삭인 필멸의 일깨움
+  - latin: amor vincit omnia
+    translation:
+      en: love conquers all
+      ko: 사랑은 모든 것을 이긴다
+    gender: null
+    notes:
+      en: From Virgil, Eclogues X.69
+      ko: 베르길리우스 전원시 X.69에서
+  - latin: ars longa, vita brevis
+    translation:
+      en: art is long, life is short
+      ko: 예술은 길고, 인생은 짧다
+    gender: null
+    notes:
+      en: Translation of Hippocrates; ars here means skill or craft
+      ko: 히포크라테스의 번역; 여기서 ars는 기술 또는 기예를 의미
+  - latin: e pluribus unum
+    translation:
+      en: out of many, one
+      ko: 다수에서 하나로
+    gender: null
+    notes:
+      en: Motto of the United States of America
+      ko: 미합중국의 국가 표어
+  - latin: per aspera ad astra
+    translation:
+      en: through hardships to the stars
+      ko: 역경을 통해 별들에게로
+    gender: null
+    notes:
+      en: Motto of many organizations; also used by NASA
+      ko: 많은 조직의 좌우명; NASA에서도 사용
+  - latin: scientia potentia est
+    translation:
+      en: knowledge is power
+      ko: 아는 것이 힘이다
+    gender: null
+    notes:
+      en: Attributed to Francis Bacon
+      ko: 프랜시스 베이컨에게 귀속됨
+  - latin: tempus fugit
+    translation:
+      en: time flies
+      ko: 시간은 달아난다
+    gender: null
+    notes:
+      en: From Virgil, Georgics III.284
+      ko: 베르길리우스 농경시 III.284에서
+  - latin: vox populi
+    translation:
+      en: voice of the people
+      ko: 민중의 목소리
+    gender: null
+  - latin: in vino veritas
+    translation:
+      en: in wine there is truth
+      ko: 술에 진실이 있다
+    gender: null
+    notes:
+      en: Attributed to Pliny the Elder
+      ko: 대 플리니우스에게 귀속됨
+  - latin: dulce et decorum est pro patria mori
+    translation:
+      en: it is sweet and fitting to die for one's country
+      ko: 조국을 위해 죽는 것은 달콤하고 영예롭다
+    gender: null
+    notes:
+      en: "From Horace, Odes III.2.13; famously critiqued by Wilfred Owen"
+      ko: "호라티우스 송가 III.2.13에서; 윌프레드 오웬의 유명한 비판 대상"

@@ -1,0 +1,499 @@
+lesson: 04_Essential_Verbs_ESSE_and_Present_Tense
+lesson_number: 4
+cefr: A1
+categories:
+- id: 41_esse_conjugation
+  label:
+    en: 4.1 Esse (to be) — Present Tense
+    ko: 4.1 Esse (이다) — 현재 시제
+  type: vocabulary
+  words:
+  - latin: esse
+    translation:
+      en: to be
+      ko: ~이다
+    gender: null
+    notes:
+      en: The most fundamental Latin verb; highly irregular
+      ko: 가장 기본적인 라틴어 동사; 매우 불규칙
+  - latin: (ego) sum
+    translation:
+      en: I am
+      ko: 나는 ~이다
+    gender: null
+    notes:
+      en: "Ego is often omitted; the verb ending indicates the subject"
+      ko: "Ego는 종종 생략됨; 동사 어미가 주어를 나타냄"
+  - latin: (tu) es
+    translation:
+      en: you are (singular)
+      ko: 너는 ~이다
+    gender: null
+  - latin: (is/ea/id) est
+    translation:
+      en: he/she/it is
+      ko: 그/그녀/그것은 ~이다
+    gender: null
+    notes:
+      en: The most common form of esse; also means "there is"
+      ko: esse의 가장 흔한 형태; "~이 있다"라는 뜻도 있음
+  - latin: (nos) sumus
+    translation:
+      en: we are
+      ko: 우리는 ~이다
+    gender: null
+  - latin: (vos) estis
+    translation:
+      en: you are (plural)
+      ko: 너희는 ~이다
+    gender: null
+  - latin: (ei/eae/ea) sunt
+    translation:
+      en: they are
+      ko: 그들은 ~이다
+    gender: null
+  - latin: ego sum discipulus
+    translation:
+      en: I am a student
+      ko: 나는 학생이다
+    gender: null
+    notes:
+      en: No article in Latin; predicate nominative matches subject case
+      ko: 라틴어에는 관사가 없음; 서술 주격이 주어의 격과 일치
+  - latin: Roma est magna
+    translation:
+      en: Rome is great
+      ko: 로마는 위대하다
+    gender: null
+    notes:
+      en: Predicate adjective agrees with subject in gender, number, case
+      ko: 서술 형용사가 주어와 성, 수, 격이 일치
+- id: 42_first_conjugation_verbs
+  label:
+    en: 4.2 First Conjugation Verbs (-are)
+    ko: 4.2 제1활용 동사 (-are)
+  type: vocabulary
+  words:
+  - latin: amare
+    translation:
+      en: to love
+      ko: 사랑하다
+    gender: null
+    notes:
+      en: "The paradigm 1st conjugation verb; amo, amas, amat, amamus, amatis, amant"
+      ko: "전형적인 제1활용 동사; amo, amas, amat, amamus, amatis, amant"
+  - latin: laudare
+    translation:
+      en: to praise
+      ko: 칭찬하다
+    gender: null
+    notes:
+      en: Source of English "laud" and "laudatory"
+      ko: 영어 "laud"와 "laudatory"의 어원
+  - latin: vocare
+    translation:
+      en: to call
+      ko: 부르다
+    gender: null
+    notes:
+      en: Source of English "vocal," "vocation," "invoke"
+      ko: 영어 "vocal," "vocation," "invoke"의 어원
+  - latin: dare
+    translation:
+      en: to give
+      ko: 주다
+    gender: null
+    notes:
+      en: "Irregular short -a-; do, das, dat, damus, datis, dant"
+      ko: "불규칙 단모음 -a-; do, das, dat, damus, datis, dant"
+  - latin: narrare
+    translation:
+      en: to tell / to narrate
+      ko: 이야기하다 / 서술하다
+    gender: null
+    notes:
+      en: Source of English "narrate" and "narrative"
+      ko: 영어 "narrate"와 "narrative"의 어원
+  - latin: laborare
+    translation:
+      en: to work / to toil
+      ko: 일하다 / 노동하다
+    gender: null
+    notes:
+      en: Source of English "labor" and "laboratory"
+      ko: 영어 "labor"와 "laboratory"의 어원
+  - latin: navigare
+    translation:
+      en: to sail / to navigate
+      ko: 항해하다
+    gender: null
+    notes:
+      en: "From navis (ship) + agere (to drive)"
+      ko: "navis(배) + agere(몰다)에서"
+  - latin: pugnare
+    translation:
+      en: to fight
+      ko: 싸우다
+    gender: null
+    notes:
+      en: Source of English "pugnacious" and "impugn"
+      ko: 영어 "pugnacious"와 "impugn"의 어원
+  - latin: spectare
+    translation:
+      en: to watch / to look at
+      ko: 바라보다 / 구경하다
+    gender: null
+    notes:
+      en: Source of English "spectator," "spectacle"
+      ko: 영어 "spectator," "spectacle"의 어원
+  - latin: ambulare
+    translation:
+      en: to walk
+      ko: 걷다
+    gender: null
+    notes:
+      en: Source of English "amble" and "ambulance"
+      ko: 영어 "amble"과 "ambulance"의 어원
+  - latin: habitare
+    translation:
+      en: to live / to dwell / to inhabit
+      ko: 살다 / 거주하다
+    gender: null
+    notes:
+      en: Source of English "habitation" and "inhabit"
+      ko: 영어 "habitation"과 "inhabit"의 어원
+  - latin: portare
+    translation:
+      en: to carry
+      ko: 나르다 / 운반하다
+    gender: null
+    notes:
+      en: Source of English "portable," "transport," "export"
+      ko: 영어 "portable," "transport," "export"의 어원
+  - latin: parare
+    translation:
+      en: to prepare
+      ko: 준비하다
+    gender: null
+    notes:
+      en: Source of English "prepare" and "repair"
+      ko: 영어 "prepare"와 "repair"의 어원
+  - latin: iuvare
+    translation:
+      en: to help / to please
+      ko: 돕다 / 기쁘게 하다
+    gender: null
+  - latin: errare
+    translation:
+      en: to wander / to err / to be wrong
+      ko: 방황하다 / 실수하다
+    gender: null
+    notes:
+      en: "Source of English 'error,' 'erratic'; errare humanum est = to err is human"
+      ko: "영어 'error,' 'erratic'의 어원; errare humanum est = 실수하는 것은 인간적이다"
+  - latin: superare
+    translation:
+      en: to overcome / to surpass
+      ko: 극복하다 / 능가하다
+    gender: null
+- id: 43_second_conjugation_verbs
+  label:
+    en: 4.3 Second Conjugation Verbs (-ere with long e)
+    ko: 4.3 제2활용 동사 (-ere, 장모음 e)
+  type: vocabulary
+  words:
+  - latin: habere
+    translation:
+      en: to have / to hold
+      ko: 가지다 / 소유하다
+    gender: null
+    notes:
+      en: "Source of English 'habit'; habeo, habes, habet, habemus, habetis, habent"
+      ko: "영어 'habit'의 어원; habeo, habes, habet, habemus, habetis, habent"
+  - latin: videre
+    translation:
+      en: to see
+      ko: 보다
+    gender: null
+    notes:
+      en: Source of English "video," "vision," "evident"
+      ko: 영어 "video," "vision," "evident"의 어원
+  - latin: monere
+    translation:
+      en: to warn / to advise
+      ko: 경고하다 / 충고하다
+    gender: null
+    notes:
+      en: Source of English "monitor," "admonish," "monument"
+      ko: 영어 "monitor," "admonish," "monument"의 어원
+  - latin: timere
+    translation:
+      en: to fear
+      ko: 두려워하다
+    gender: null
+    notes:
+      en: Source of English "timid" and "intimidate"
+      ko: 영어 "timid"와 "intimidate"의 어원
+  - latin: debere
+    translation:
+      en: to owe / to ought / must
+      ko: 빚지다 / ~해야 하다
+    gender: null
+    notes:
+      en: Source of English "debt," "debit," "duty"
+      ko: 영어 "debt," "debit," "duty"의 어원
+  - latin: tenere
+    translation:
+      en: to hold / to keep
+      ko: 잡다 / 유지하다
+    gender: null
+    notes:
+      en: Source of English "tenant," "contain," "retain"
+      ko: 영어 "tenant," "contain," "retain"의 어원
+  - latin: docere
+    translation:
+      en: to teach
+      ko: 가르치다
+    gender: null
+  - latin: movere
+    translation:
+      en: to move
+      ko: 움직이다
+    gender: null
+    notes:
+      en: Source of English "move," "motion," "emotion"
+      ko: 영어 "move," "motion," "emotion"의 어원
+  - latin: valere
+    translation:
+      en: to be strong / to be well
+      ko: 건강하다 / 힘이 있다
+    gender: null
+    notes:
+      en: "Source of English 'value,' 'valid'; vale! = farewell!"
+      ko: "영어 'value,' 'valid'의 어원; vale! = 안녕!"
+  - latin: sedere
+    translation:
+      en: to sit
+      ko: 앉다
+    gender: null
+    notes:
+      en: Source of English "sedentary," "session," "president"
+      ko: 영어 "sedentary," "session," "president"의 어원
+  - latin: respondere
+    translation:
+      en: to answer / to respond
+      ko: 대답하다 / 응답하다
+    gender: null
+  - latin: manere
+    translation:
+      en: to remain / to stay
+      ko: 남다 / 머무르다
+    gender: null
+    notes:
+      en: Source of English "remain," "mansion," "permanent"
+      ko: 영어 "remain," "mansion," "permanent"의 어원
+  - latin: tacere
+    translation:
+      en: to be silent
+      ko: 침묵하다
+    gender: null
+    notes:
+      en: Source of English "tacit" and "taciturn"
+      ko: 영어 "tacit"과 "taciturn"의 어원
+  - latin: terrere
+    translation:
+      en: to frighten / to terrify
+      ko: 놀라게 하다 / 겁주다
+    gender: null
+    notes:
+      en: Source of English "terrify," "terror," "terrible"
+      ko: 영어 "terrify," "terror," "terrible"의 어원
+  - latin: ridere
+    translation:
+      en: to laugh
+      ko: 웃다
+    gender: null
+    notes:
+      en: Source of English "ridiculous" and "deride"
+      ko: 영어 "ridiculous"와 "deride"의 어원
+  - latin: studere
+    translation:
+      en: to be eager / to study
+      ko: 열심히 하다 / 공부하다
+    gender: null
+    notes:
+      en: Source of English "study," "student," "studio"
+      ko: 영어 "study," "student," "studio"의 어원
+  - latin: florere
+    translation:
+      en: to flourish / to bloom
+      ko: 번성하다 / 꽃피다
+    gender: null
+    notes:
+      en: Source of English "flourish," "flora," "flower"
+      ko: 영어 "flourish," "flora," "flower"의 어원
+  - latin: dolere
+    translation:
+      en: to grieve / to feel pain
+      ko: 슬퍼하다 / 아파하다
+    gender: null
+    notes:
+      en: Source of English "dolor" and "doleful"
+      ko: 영어 "dolor"와 "doleful"의 어원
+  - latin: gaudere
+    translation:
+      en: to rejoice / to be glad
+      ko: 기뻐하다
+    gender: null
+    notes:
+      en: Source of English "gaudy" (via Anglo-French)
+      ko: 영어 "gaudy"의 어원 (앵글로프랑스어를 통해)
+  - latin: iacere
+    translation:
+      en: to lie (be situated)
+      ko: 놓여 있다
+    gender: null
+    notes:
+      en: Source of English "adjacent"; not to be confused with iacere (to throw)
+      ko: 영어 "adjacent"의 어원; iacere(던지다)와 혼동 주의
+- id: 44_basic_expressions
+  label:
+    en: 4.4 Basic Expressions with Verbs
+    ko: 4.4 동사를 활용한 기본 표현
+  type: vocabulary
+  words:
+  - latin: non
+    translation:
+      en: not
+      ko: ~이 아닌 / ~하지 않다
+    gender: null
+    notes:
+      en: "Basic negation; placed before the verb: non amo = I do not love"
+      ko: "기본 부정; 동사 앞에 위치: non amo = 나는 사랑하지 않는다"
+  - latin: semper
+    translation:
+      en: always
+      ko: 항상
+    gender: null
+    notes:
+      en: "Semper fidelis = always faithful (U.S. Marines motto)"
+      ko: "Semper fidelis = 항상 충성스러운 (미 해병대 좌우명)"
+  - latin: saepe
+    translation:
+      en: often
+      ko: 자주
+    gender: null
+  - latin: numquam
+    translation:
+      en: never
+      ko: 결코 ~않다
+    gender: null
+  - latin: nunc
+    translation:
+      en: now
+      ko: 지금
+    gender: null
+  - latin: hodie
+    translation:
+      en: today
+      ko: 오늘
+    gender: null
+  - latin: cras
+    translation:
+      en: tomorrow
+      ko: 내일
+    gender: null
+  - latin: heri
+    translation:
+      en: yesterday
+      ko: 어제
+    gender: null
+  - latin: bene
+    translation:
+      en: well
+      ko: 잘
+    gender: null
+  - latin: multum
+    translation:
+      en: much / a lot
+      ko: 많이
+    gender: null
+  - latin: cur
+    translation:
+      en: why
+      ko: 왜
+    gender: null
+  - latin: ubi
+    translation:
+      en: where
+      ko: 어디
+    gender: null
+    notes:
+      en: "Also means 'when' in certain contexts"
+      ko: "특정 맥락에서 '~할 때'라는 뜻도 있음"
+  - latin: quid
+    translation:
+      en: what
+      ko: 무엇
+    gender: null
+    notes:
+      en: Source of English "quid pro quo"
+      ko: 영어 "quid pro quo"의 어원
+  - latin: quis
+    translation:
+      en: who
+      ko: 누구
+    gender: null
+  - latin: quomodo
+    translation:
+      en: how / in what way
+      ko: 어떻게 / 어떤 방식으로
+    gender: null
+  - latin: iam
+    translation:
+      en: already / now
+      ko: 이미 / 지금
+    gender: null
+  - latin: etiam
+    translation:
+      en: even / also / still
+      ko: 심지어 / 또한 / 여전히
+    gender: null
+  - latin: interdum
+    translation:
+      en: sometimes
+      ko: 때때로
+    gender: null
+  - latin: diu
+    translation:
+      en: for a long time
+      ko: 오랫동안
+    gender: null
+  - latin: statim
+    translation:
+      en: immediately / at once
+      ko: 즉시 / 곧바로
+    gender: null
+  - latin: tandem
+    translation:
+      en: at last / finally
+      ko: 마침내 / 드디어
+    gender: null
+  - latin: iterum
+    translation:
+      en: again
+      ko: 다시
+    gender: null
+  - latin: paene
+    translation:
+      en: almost / nearly
+      ko: 거의
+    gender: null
+    notes:
+      en: "Also spelled 'paenae' in some texts"
+      ko: "일부 텍스트에서 'paenae'로도 표기"
+  - latin: tum
+    translation:
+      en: then / at that time
+      ko: 그때 / 그러자
+    gender: null

@@ -1,0 +1,568 @@
+lesson: 01_Latin_Language_and_Pronunciation
+lesson_number: 1
+cefr: A1
+categories:
+- id: 11_alphabet_basics
+  label:
+    en: 1.1 Alphabet Basics
+    ko: 1.1 알파벳 기초
+  type: vocabulary
+  words:
+  - latin: littera
+    translation:
+      en: letter (of alphabet)
+      ko: 글자
+    gender: f
+    notes:
+      en: From which English "letter" and "literature" derive
+      ko: 영어 "letter"와 "literature"의 어원
+  - latin: alphabetum
+    translation:
+      en: alphabet
+      ko: 알파벳
+    gender: n
+    notes:
+      en: From Greek alpha + beta; the Latin alphabet had 23 letters
+      ko: 그리스어 alpha + beta에서 유래; 라틴 알파벳은 23개의 글자
+  - latin: vocalis
+    translation:
+      en: vowel
+      ko: 모음
+    gender: f
+    notes:
+      en: "Latin vowels: a, e, i, o, u (each short or long)"
+      ko: "라틴어 모음: a, e, i, o, u (각각 단모음 또는 장모음)"
+  - latin: consonans
+    translation:
+      en: consonant
+      ko: 자음
+    gender: f
+    notes:
+      en: "Literally 'sounding together' — sounds made with a vowel"
+      ko: "문자 그대로 '함께 소리나는' — 모음과 함께 내는 소리"
+  - latin: syllaba
+    translation:
+      en: syllable
+      ko: 음절
+    gender: f
+    notes:
+      en: Source of English "syllable"
+      ko: 영어 "syllable"의 어원
+  - latin: accentus
+    translation:
+      en: accent / stress
+      ko: 악센트 / 강세
+    gender: m
+    notes:
+      en: "Latin stress follows the penultimate rule: heavy penult = stressed"
+      ko: "라틴어 강세는 끝에서 두 번째 음절 규칙을 따름"
+  - latin: diphthongus
+    translation:
+      en: diphthong
+      ko: 이중모음
+    gender: f
+    notes:
+      en: "Latin diphthongs: ae, oe, au (rarely ei, eu, ui)"
+      ko: "라틴어 이중모음: ae, oe, au (드물게 ei, eu, ui)"
+  - latin: maiuscula
+    translation:
+      en: capital letter
+      ko: 대문자
+    gender: f
+  - latin: minuscula
+    translation:
+      en: lowercase letter
+      ko: 소문자
+    gender: f
+    notes:
+      en: Lowercase developed in medieval manuscripts; Classical Latin used only capitals
+      ko: 소문자는 중세 필사본에서 발전; 고전 라틴어는 대문자만 사용
+  - latin: punctum
+    translation:
+      en: period / point
+      ko: 마침표 / 점
+    gender: n
+    notes:
+      en: Source of English "punctuation"
+      ko: 영어 "punctuation"의 어원
+  - latin: interpunctio
+    translation:
+      en: punctuation
+      ko: 구두점
+    gender: f
+    notes:
+      en: Romans used dots between words (interpuncts) instead of spaces
+      ko: 로마인들은 공백 대신 단어 사이에 점(interpuncts)을 사용
+  - latin: nomen
+    translation:
+      en: name / noun
+      ko: 이름 / 명사
+    gender: n
+    notes:
+      en: Source of English "noun," "nominal," "nomenclature"
+      ko: 영어 "noun," "nominal," "nomenclature"의 어원
+  - latin: numerus
+    translation:
+      en: number
+      ko: 숫자
+    gender: m
+  - latin: signum
+    translation:
+      en: sign / mark
+      ko: 기호 / 표시
+    gender: n
+    notes:
+      en: Source of English "sign" and "signal"
+      ko: 영어 "sign"과 "signal"의 어원
+- id: 12_pronunciation_concepts
+  label:
+    en: 1.2 Pronunciation Concepts
+    ko: 1.2 발음 개념
+  type: vocabulary
+  words:
+  - latin: sonus
+    translation:
+      en: sound
+      ko: 소리
+    gender: m
+    notes:
+      en: Source of English "sonic" and "sonnet"
+      ko: 영어 "sonic"과 "sonnet"의 어원
+  - latin: vox
+    translation:
+      en: voice
+      ko: 목소리
+    gender: f
+    notes:
+      en: "Gen. vocis; source of English 'voice,' 'vocal'"
+      ko: "속격 vocis; 영어 'voice,' 'vocal'의 어원"
+  - latin: pronuntiatio
+    translation:
+      en: pronunciation / delivery
+      ko: 발음 / 전달
+    gender: f
+    notes:
+      en: In rhetoric, one of the five canons of oratory
+      ko: 수사학에서 연설의 다섯 가지 규범 중 하나
+  - latin: tonus
+    translation:
+      en: tone
+      ko: 음조
+    gender: m
+  - latin: longus
+    translation:
+      en: long (vowel)
+      ko: 장(모음)
+    gender: m
+    notes:
+      en: "Long vowels marked with macron: ā, ē, ī, ō, ū"
+      ko: "장모음은 장음 기호로 표시: ā, ē, ī, ō, ū"
+  - latin: brevis
+    translation:
+      en: short (vowel)
+      ko: 단(모음)
+    gender: m
+    notes:
+      en: "Short vowels marked with breve: ă, ĕ, ĭ, ŏ, ŭ"
+      ko: "단모음은 단음 기호로 표시: ă, ĕ, ĭ, ŏ, ŭ"
+  - latin: quantitas
+    translation:
+      en: quantity (vowel length)
+      ko: 양 (모음 길이)
+    gender: f
+    notes:
+      en: Vowel quantity is fundamental to Latin meter and stress
+      ko: 모음 양은 라틴어 운율과 강세의 기초
+  - latin: aspiratio
+    translation:
+      en: aspiration / the letter H
+      ko: 기식음 / 문자 H
+    gender: f
+    notes:
+      en: H was weakly pronounced or silent in Classical Latin
+      ko: 고전 라틴어에서 H는 약하게 발음되거나 묵음
+  - latin: muta
+    translation:
+      en: mute / stop consonant
+      ko: 폐쇄음
+    gender: f
+    notes:
+      en: "Stop consonants: b, c, d, g, p, t"
+      ko: "폐쇄음: b, c, d, g, p, t"
+  - latin: liquida
+    translation:
+      en: liquid consonant
+      ko: 유음
+    gender: f
+    notes:
+      en: "Liquid consonants: l, r"
+      ko: "유음: l, r"
+  - latin: pronuntiare
+    translation:
+      en: to pronounce
+      ko: 발음하다
+    gender: null
+  - latin: legere
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    notes:
+      en: "Source of English 'legible,' 'lecture,' 'legend'"
+      ko: "영어 'legible,' 'lecture,' 'legend'의 어원"
+- id: 13_classroom_language
+  label:
+    en: 1.3 Classroom Language
+    ko: 1.3 교실 표현
+  type: vocabulary
+  words:
+  - latin: magister
+    translation:
+      en: teacher / master (m)
+      ko: 선생님 / 스승 (남)
+    gender: m
+    notes:
+      en: Source of English "master" and "magistrate"
+      ko: 영어 "master"와 "magistrate"의 어원
+  - latin: magistra
+    translation:
+      en: teacher / mistress (f)
+      ko: 선생님 / 스승 (여)
+    gender: f
+  - latin: discipulus
+    translation:
+      en: student / pupil (m)
+      ko: 학생 (남)
+    gender: m
+    notes:
+      en: Source of English "disciple" and "discipline"
+      ko: 영어 "disciple"과 "discipline"의 어원
+  - latin: discipula
+    translation:
+      en: student / pupil (f)
+      ko: 학생 (여)
+    gender: f
+  - latin: liber
+    translation:
+      en: book
+      ko: 책
+    gender: m
+    notes:
+      en: "Source of English 'library'; originally meant 'bark' (writing surface)"
+      ko: "영어 'library'의 어원; 원래 '나무 껍질'(필기 면)을 의미"
+  - latin: tabula
+    translation:
+      en: tablet / board
+      ko: 서판 / 판
+    gender: f
+    notes:
+      en: Writing tablet; source of English "table"
+      ko: 필기용 서판; 영어 "table"의 어원
+  - latin: stilus
+    translation:
+      en: stylus / pen
+      ko: 첨필 / 펜
+    gender: m
+    notes:
+      en: Pointed instrument for writing on wax tablets; source of English "style"
+      ko: 밀랍 서판에 쓰기 위한 뾰족한 도구; 영어 "style"의 어원
+  - latin: schola
+    translation:
+      en: school
+      ko: 학교
+    gender: f
+    notes:
+      en: From Greek skhole (leisure devoted to learning)
+      ko: 그리스어 skhole(배움에 바치는 여가)에서 유래
+  - latin: quaestio
+    translation:
+      en: question
+      ko: 질문
+    gender: f
+    notes:
+      en: Source of English "question" and "quest"
+      ko: 영어 "question"과 "quest"의 어원
+  - latin: responsum
+    translation:
+      en: answer / response
+      ko: 대답 / 응답
+    gender: n
+  - latin: audire
+    translation:
+      en: to hear / to listen
+      ko: 듣다
+    gender: null
+    notes:
+      en: Source of English "audio," "audience," "auditorium"
+      ko: 영어 "audio," "audience," "auditorium"의 어원
+  - latin: scribere
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    notes:
+      en: Source of English "scribe," "script," "describe"
+      ko: 영어 "scribe," "script," "describe"의 어원
+  - latin: dicere
+    translation:
+      en: to say / to speak
+      ko: 말하다
+    gender: null
+    notes:
+      en: Source of English "dictate," "diction," "predict"
+      ko: 영어 "dictate," "diction," "predict"의 어원
+  - latin: intellegere
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    notes:
+      en: Source of English "intelligent" and "intellect"
+      ko: 영어 "intelligent"와 "intellect"의 어원
+  - latin: discere
+    translation:
+      en: to learn
+      ko: 배우다
+    gender: null
+  - latin: docere
+    translation:
+      en: to teach
+      ko: 가르치다
+    gender: null
+    notes:
+      en: Source of English "doctor," "doctrine," "document"
+      ko: 영어 "doctor," "doctrine," "document"의 어원
+  - latin: repetere
+    translation:
+      en: to repeat
+      ko: 반복하다
+    gender: null
+  - latin: exercitium
+    translation:
+      en: exercise
+      ko: 연습 문제
+    gender: n
+- id: 14_first_words
+  label:
+    en: 1.4 First Words
+    ko: 1.4 첫 번째 단어들
+  type: vocabulary
+  words:
+  - latin: lingua
+    translation:
+      en: language / tongue
+      ko: 언어 / 혀
+    gender: f
+    notes:
+      en: "Means both 'language' and 'tongue'; source of English 'linguistic'"
+      ko: "'언어'와 '혀' 두 가지 의미; 영어 'linguistic'의 어원"
+  - latin: verbum
+    translation:
+      en: word / verb
+      ko: 단어 / 동사
+    gender: n
+    notes:
+      en: Source of English "verb" and "verbal"
+      ko: 영어 "verb"과 "verbal"의 어원
+  - latin: sententia
+    translation:
+      en: sentence / opinion
+      ko: 문장 / 의견
+    gender: f
+    notes:
+      en: Source of English "sentence" and "sentiment"
+      ko: 영어 "sentence"와 "sentiment"의 어원
+  - latin: grammatica
+    translation:
+      en: grammar
+      ko: 문법
+    gender: f
+  - latin: aqua
+    translation:
+      en: water
+      ko: 물
+    gender: f
+    notes:
+      en: Source of English "aquatic," "aquarium," "aqueduct"
+      ko: 영어 "aquatic," "aquarium," "aqueduct"의 어원
+  - latin: terra
+    translation:
+      en: earth / land
+      ko: 땅 / 대지
+    gender: f
+    notes:
+      en: Source of English "terrain," "territory," "terrestrial"
+      ko: 영어 "terrain," "territory," "terrestrial"의 어원
+  - latin: via
+    translation:
+      en: road / way
+      ko: 길 / 도로
+    gender: f
+    notes:
+      en: "Source of English 'via'; Via Appia was Rome's most famous road"
+      ko: "영어 'via'의 어원; Via Appia는 로마의 가장 유명한 도로"
+  - latin: Roma
+    translation:
+      en: Rome
+      ko: 로마
+    gender: f
+  - latin: caelum
+    translation:
+      en: sky / heaven
+      ko: 하늘 / 천국
+    gender: n
+    notes:
+      en: Source of English "celestial"
+      ko: 영어 "celestial"의 어원
+  - latin: sol
+    translation:
+      en: sun
+      ko: 태양
+    gender: m
+    notes:
+      en: Source of English "solar" and "solstice"
+      ko: 영어 "solar"와 "solstice"의 어원
+  - latin: luna
+    translation:
+      en: moon
+      ko: 달
+    gender: f
+    notes:
+      en: Source of English "lunar" and "lunatic"
+      ko: 영어 "lunar"와 "lunatic"의 어원
+  - latin: stella
+    translation:
+      en: star
+      ko: 별
+    gender: f
+    notes:
+      en: Source of English "stellar" and "constellation"
+      ko: 영어 "stellar"와 "constellation"의 어원
+  - latin: ignis
+    translation:
+      en: fire
+      ko: 불
+    gender: m
+    notes:
+      en: Source of English "ignite" and "ignition"
+      ko: 영어 "ignite"와 "ignition"의 어원
+  - latin: vita
+    translation:
+      en: life
+      ko: 삶 / 생명
+    gender: f
+    notes:
+      en: Source of English "vital," "vitality," "vitamin"
+      ko: 영어 "vital," "vitality," "vitamin"의 어원
+  - latin: mors
+    translation:
+      en: death
+      ko: 죽음
+    gender: f
+    notes:
+      en: "Gen. mortis; source of English 'mortal,' 'mortality'"
+      ko: "속격 mortis; 영어 'mortal,' 'mortality'의 어원"
+  - latin: tempus
+    translation:
+      en: time
+      ko: 시간
+    gender: n
+    notes:
+      en: "Gen. temporis; source of English 'temporal,' 'temporary'"
+      ko: "속격 temporis; 영어 'temporal,' 'temporary'의 어원"
+  - latin: locus
+    translation:
+      en: place
+      ko: 장소
+    gender: m
+    notes:
+      en: Source of English "local," "location," "allocate"
+      ko: 영어 "local," "location," "allocate"의 어원
+  - latin: homo
+    translation:
+      en: human being / person
+      ko: 사람 / 인간
+    gender: m
+    notes:
+      en: "Gen. hominis; source of English 'human,' 'homicide'"
+      ko: "속격 hominis; 영어 'human,' 'homicide'의 어원"
+  - latin: deus
+    translation:
+      en: god
+      ko: 신
+    gender: m
+    notes:
+      en: Source of English "deity" and "divine"
+      ko: 영어 "deity"와 "divine"의 어원
+  - latin: mundus
+    translation:
+      en: world
+      ko: 세계
+    gender: m
+    notes:
+      en: Also means "clean" as an adjective
+      ko: 형용사로 '깨끗한'이라는 의미도 있음
+  - latin: natura
+    translation:
+      en: nature
+      ko: 자연
+    gender: f
+    notes:
+      en: "From nasci (to be born); source of English 'nature,' 'natural'"
+      ko: "nasci(태어나다)에서 유래; 영어 'nature,' 'natural'의 어원"
+  - latin: pater
+    translation:
+      en: father
+      ko: 아버지
+    gender: m
+    notes:
+      en: "Gen. patris; source of English 'paternal,' 'patriot'"
+      ko: "속격 patris; 영어 'paternal,' 'patriot'의 어원"
+  - latin: mater
+    translation:
+      en: mother
+      ko: 어머니
+    gender: f
+    notes:
+      en: "Gen. matris; source of English 'maternal,' 'matrix'"
+      ko: "속격 matris; 영어 'maternal,' 'matrix'의 어원"
+  - latin: rex
+    translation:
+      en: king
+      ko: 왕
+    gender: m
+    notes:
+      en: "Gen. regis; source of English 'regal,' 'reign,' 'royal'"
+      ko: "속격 regis; 영어 'regal,' 'reign,' 'royal'의 어원"
+  - latin: ars
+    translation:
+      en: art / skill / craft
+      ko: 기술 / 예술
+    gender: f
+    notes:
+      en: "Gen. artis; source of English 'art,' 'artist,' 'artificial'"
+      ko: "속격 artis; 영어 'art,' 'artist,' 'artificial'의 어원"
+  - latin: amor
+    translation:
+      en: love
+      ko: 사랑
+    gender: m
+    notes:
+      en: "Gen. amoris; source of English 'amorous,' 'enamored'"
+      ko: "속격 amoris; 영어 'amorous,' 'enamored'의 어원"
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: Source of English "bellicose" and "belligerent"
+      ko: 영어 "bellicose"와 "belligerent"의 어원
+  - latin: populus
+    translation:
+      en: people
+      ko: 사람들 / 민중
+    gender: m
+    notes:
+      en: Source of English "people," "popular," "public"
+      ko: 영어 "people," "popular," "public"의 어원

@@ -1,0 +1,409 @@
+lesson: "sup_A2_Festivals_and_Religion"
+lesson_number: 114
+cefr: A2
+type: supplementary
+topic: "Festivals and Religion"
+categories:
+- id: festivals
+  label:
+    en: "Roman Festivals"
+    ko: "로마 축제"
+  type: vocabulary
+  words:
+  - latin: Saturnalia
+    translation:
+      en: "Saturnalia (December festival)"
+      ko: "사투르날리아 (12월 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; Dec 17-23; gift-giving, feasting, role reversal of masters and slaves"
+      ko: "중성 복수; 12월 17-23일; 선물 교환, 잔치, 주인과 노예의 역할 전환"
+  - latin: Lupercalia
+    translation:
+      en: "Lupercalia (February festival)"
+      ko: "루페르칼리아 (2월 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; Feb 15; fertility festival; priests ran through streets with goatskin whips"
+      ko: "중성 복수; 2월 15일; 풍요 축제; 사제들이 염소 가죽 채찍을 들고 거리를 달림"
+  - latin: Parentalia
+    translation:
+      en: "Parentalia (ancestor festival)"
+      ko: "파렌탈리아 (조상 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; Feb 13-21; honoring deceased parents and ancestors"
+      ko: "중성 복수; 2월 13-21일; 죽은 부모와 조상을 기리는 축제"
+  - latin: Lemuria
+    translation:
+      en: "Lemuria (ghost festival)"
+      ko: "레무리아 (망령 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; May 9, 11, 13; ritual to exorcise restless spirits of the dead"
+      ko: "중성 복수; 5월 9, 11, 13일; 불안한 망령을 퇴마하는 의식"
+  - latin: Vestalia
+    translation:
+      en: "Vestalia (Vesta's festival)"
+      ko: "베스탈리아 (베스타 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; June 7-15; honoring Vesta, goddess of the hearth"
+      ko: "중성 복수; 6월 7-15일; 화덕의 여신 베스타를 기리는 축제"
+  - latin: Cerealia
+    translation:
+      en: "Cerealia (Ceres' festival)"
+      ko: "케레알리아 (케레스 축제)"
+    gender: n
+    notes:
+      en: "neuter plural; April 12-19; honoring Ceres, goddess of agriculture"
+      ko: "중성 복수; 4월 12-19일; 농업의 여신 케레스를 기리는 축제"
+  - latin: feriae
+    translation:
+      en: "holidays / festival days"
+      ko: "휴일 / 축제일"
+    gender: f
+    notes:
+      en: "gen. feriarum; 1st declension; always plural; source of 'fair, feria'"
+      ko: "속격 feriarum; 제1변화; 항상 복수형; 영어 'fair, feria'의 어원"
+  - latin: ludi
+    translation:
+      en: "public games / festivals"
+      ko: "공공 경기 / 축제"
+    gender: m
+    notes:
+      en: "gen. ludorum; 2nd declension plural; Ludi Romani, Ludi Megalenses, etc."
+      ko: "속격 ludorum; 제2변화 복수; Ludi Romani, Ludi Megalenses 등"
+  - latin: triumphus
+    translation:
+      en: "triumph (victory parade)"
+      ko: "개선식"
+    gender: m
+    notes:
+      en: "gen. triumphi; 2nd declension; highest military honor; source of 'triumph'"
+      ko: "속격 triumphi; 제2변화; 최고의 군사적 명예; 영어 'triumph'의 어원"
+
+- id: temples
+  label:
+    en: "Temples and Sacred Places"
+    ko: "신전과 성스러운 장소"
+  type: vocabulary
+  words:
+  - latin: templum
+    translation:
+      en: "temple"
+      ko: "신전"
+    gender: n
+    notes:
+      en: "gen. templi; 2nd declension neuter; also = sacred precinct; source of 'temple'"
+      ko: "속격 templi; 제2변화 중성; 성역이라는 뜻도 있음; 영어 'temple'의 어원"
+  - latin: ara
+    translation:
+      en: "altar"
+      ko: "제단"
+    gender: f
+    notes:
+      en: "gen. arae; 1st declension; Ara Pacis = Altar of Peace (Augustus)"
+      ko: "속격 arae; 제1변화; Ara Pacis = 평화의 제단 (아우구스투스)"
+  - latin: fanum
+    translation:
+      en: "shrine / sanctuary"
+      ko: "사당 / 성소"
+    gender: n
+    notes:
+      en: "gen. fani; 2nd declension neuter; source of 'fane, profane, fanatic'"
+      ko: "속격 fani; 제2변화 중성; 영어 'profane, fanatic'의 어원"
+  - latin: sacellum
+    translation:
+      en: "small shrine"
+      ko: "작은 사당"
+    gender: n
+    notes:
+      en: "gen. sacelli; 2nd declension neuter; diminutive of sacrum"
+      ko: "속격 sacelli; 제2변화 중성; sacrum의 축소형"
+  - latin: lararium
+    translation:
+      en: "household shrine"
+      ko: "가정 제단"
+    gender: n
+    notes:
+      en: "gen. lararii; 2nd declension neuter; for the Lares and Penates"
+      ko: "속격 lararii; 제2변화 중성; 라레스와 페나테스를 위한 것"
+  - latin: lucus
+    translation:
+      en: "sacred grove"
+      ko: "성스러운 숲"
+    gender: m
+    notes:
+      en: "gen. luci; 2nd declension; outdoor sacred space"
+      ko: "속격 luci; 제2변화; 야외 성스러운 공간"
+
+- id: gods
+  label:
+    en: "Gods and Goddesses"
+    ko: "신과 여신"
+  type: vocabulary
+  words:
+  - latin: Iuppiter
+    translation:
+      en: "Jupiter (king of gods)"
+      ko: "유피테르 (신들의 왕)"
+    gender: m
+    notes:
+      en: "gen. Iovis; irregular; supreme god; equivalent to Greek Zeus"
+      ko: "속격 Iovis; 불규칙; 최고신; 그리스의 제우스에 해당"
+  - latin: Iuno
+    translation:
+      en: "Juno (queen of gods)"
+      ko: "유노 (신들의 여왕)"
+    gender: f
+    notes:
+      en: "gen. Iunonis; 3rd declension; goddess of marriage; wife of Jupiter"
+      ko: "속격 Iunonis; 제3변화; 결혼의 여신; 유피테르의 아내"
+  - latin: Minerva
+    translation:
+      en: "Minerva (goddess of wisdom)"
+      ko: "미네르바 (지혜의 여신)"
+    gender: f
+    notes:
+      en: "gen. Minervae; 1st declension; equivalent to Greek Athena"
+      ko: "속격 Minervae; 제1변화; 그리스의 아테나에 해당"
+  - latin: Mars
+    translation:
+      en: "Mars (god of war)"
+      ko: "마르스 (전쟁의 신)"
+    gender: m
+    notes:
+      en: "gen. Martis; 3rd declension; father of Romulus and Remus"
+      ko: "속격 Martis; 제3변화; 로물루스와 레무스의 아버지"
+  - latin: Venus
+    translation:
+      en: "Venus (goddess of love)"
+      ko: "베누스 (사랑의 여신)"
+    gender: f
+    notes:
+      en: "gen. Veneris; 3rd declension; mother of Aeneas; equivalent to Greek Aphrodite"
+      ko: "속격 Veneris; 제3변화; 아이네아스의 어머니; 그리스의 아프로디테에 해당"
+  - latin: Apollo
+    translation:
+      en: "Apollo (god of sun, music, prophecy)"
+      ko: "아폴로 (태양, 음악, 예언의 신)"
+    gender: m
+    notes:
+      en: "gen. Apollinis; 3rd declension; same name in Greek and Latin"
+      ko: "속격 Apollinis; 제3변화; 그리스어와 라틴어에서 동일한 이름"
+  - latin: Diana
+    translation:
+      en: "Diana (goddess of the hunt)"
+      ko: "디아나 (사냥의 여신)"
+    gender: f
+    notes:
+      en: "gen. Dianae; 1st declension; equivalent to Greek Artemis"
+      ko: "속격 Dianae; 제1변화; 그리스의 아르테미스에 해당"
+  - latin: Ceres
+    translation:
+      en: "Ceres (goddess of agriculture)"
+      ko: "케레스 (농업의 여신)"
+    gender: f
+    notes:
+      en: "gen. Cereris; 3rd declension; source of 'cereal'"
+      ko: "속격 Cereris; 제3변화; 영어 'cereal'의 어원"
+  - latin: Bacchus
+    translation:
+      en: "Bacchus (god of wine)"
+      ko: "바쿠스 (포도주의 신)"
+    gender: m
+    notes:
+      en: "gen. Bacchi; 2nd declension; also called Liber; equivalent to Greek Dionysus"
+      ko: "속격 Bacchi; 제2변화; 리베르라고도 함; 그리스의 디오니소스에 해당"
+  - latin: Mercurius
+    translation:
+      en: "Mercury (god of commerce)"
+      ko: "메르쿠리우스 (상업의 신)"
+    gender: m
+    notes:
+      en: "gen. Mercurii; 2nd declension; messenger of the gods; equivalent to Greek Hermes"
+      ko: "속격 Mercurii; 제2변화; 신들의 전령; 그리스의 헤르메스에 해당"
+  - latin: Neptunus
+    translation:
+      en: "Neptune (god of the sea)"
+      ko: "넵투누스 (바다의 신)"
+    gender: m
+    notes:
+      en: "gen. Neptuni; 2nd declension; equivalent to Greek Poseidon"
+      ko: "속격 Neptuni; 제2변화; 그리스의 포세이돈에 해당"
+  - latin: Vulcanus
+    translation:
+      en: "Vulcan (god of fire and forge)"
+      ko: "불카누스 (불과 대장간의 신)"
+    gender: m
+    notes:
+      en: "gen. Vulcani; 2nd declension; source of 'volcano'; equivalent to Greek Hephaestus"
+      ko: "속격 Vulcani; 제2변화; 영어 'volcano'의 어원; 그리스의 헤파이스토스에 해당"
+  - latin: Vesta
+    translation:
+      en: "Vesta (goddess of the hearth)"
+      ko: "베스타 (화덕의 여신)"
+    gender: f
+    notes:
+      en: "gen. Vestae; 1st declension; Vestal Virgins kept her sacred flame"
+      ko: "속격 Vestae; 제1변화; 베스타 처녀들이 성화를 지킴"
+  - latin: Pluto
+    translation:
+      en: "Pluto (god of the underworld)"
+      ko: "플루토 (저승의 신)"
+    gender: m
+    notes:
+      en: "gen. Plutonis; 3rd declension; also called Dis Pater; equivalent to Greek Hades"
+      ko: "속격 Plutonis; 제3변화; 디스 파테르라고도 함; 그리스의 하데스에 해당"
+
+- id: rituals
+  label:
+    en: "Rituals and Religious Practices"
+    ko: "의례와 종교 관행"
+  type: vocabulary
+  words:
+  - latin: sacerdos
+    translation:
+      en: "priest / priestess"
+      ko: "사제"
+    gender: m
+    notes:
+      en: "gen. sacerdotis; 3rd declension; source of 'sacerdotal'"
+      ko: "속격 sacerdotis; 제3변화; 영어 'sacerdotal'의 어원"
+  - latin: pontifex
+    translation:
+      en: "pontiff / high priest"
+      ko: "대사제"
+    gender: m
+    notes:
+      en: "gen. pontificis; 3rd declension; pontifex maximus = chief priest; source of 'pontiff'"
+      ko: "속격 pontificis; 제3변화; pontifex maximus = 최고 사제; 영어 'pontiff'의 어원"
+  - latin: augur
+    translation:
+      en: "augur (bird diviner)"
+      ko: "조점관 (새 점술사)"
+    gender: m
+    notes:
+      en: "gen. auguris; 3rd declension; read omens from bird flight; source of 'augur, inaugurate'"
+      ko: "속격 auguris; 제3변화; 새의 비행에서 징조를 읽음; 영어 'augur, inaugurate'의 어원"
+  - latin: haruspex
+    translation:
+      en: "haruspex (entrails reader)"
+      ko: "하루스펙스 (내장 점술사)"
+    gender: m
+    notes:
+      en: "gen. haruspicis; 3rd declension; divination from animal entrails (Etruscan practice)"
+      ko: "속격 haruspicis; 제3변화; 동물 내장으로 점치기 (에트루리아 관행)"
+  - latin: sacrificium
+    translation:
+      en: "sacrifice"
+      ko: "제사 / 희생"
+    gender: n
+    notes:
+      en: "gen. sacrificii; 2nd declension neuter; source of 'sacrifice'"
+      ko: "속격 sacrificii; 제2변화 중성; 영어 'sacrifice'의 어원"
+  - latin: votum
+    translation:
+      en: "vow / offering"
+      ko: "서약 / 봉헌"
+    gender: n
+    notes:
+      en: "gen. voti; 2nd declension neuter; a promise to a god; source of 'vow, votive'"
+      ko: "속격 voti; 제2변화 중성; 신에 대한 약속; 영어 'vow, votive'의 어원"
+  - latin: precatio
+    translation:
+      en: "prayer"
+      ko: "기도"
+    gender: f
+    notes:
+      en: "gen. precationis; 3rd declension; from precari 'to pray'; source of 'prayer'"
+      ko: "속격 precationis; 제3변화; precari '기도하다'에서; 영어 'prayer'의 어원"
+  - latin: auspicium
+    translation:
+      en: "auspice / omen (from birds)"
+      ko: "새점 / 징조"
+    gender: n
+    notes:
+      en: "gen. auspicii; 2nd declension neuter; avis + specere 'to watch birds'; source of 'auspicious'"
+      ko: "속격 auspicii; 제2변화 중성; avis + specere '새를 관찰하다'; 영어 'auspicious'의 어원"
+  - latin: omen
+    translation:
+      en: "omen / sign"
+      ko: "징조 / 전조"
+    gender: n
+    notes:
+      en: "gen. ominis; 3rd declension neuter; source of 'omen, ominous'"
+      ko: "속격 ominis; 제3변화 중성; 영어 'omen, ominous'의 어원"
+  - latin: libatio
+    translation:
+      en: "libation (drink offering)"
+      ko: "헌주 (음료 봉헌)"
+    gender: f
+    notes:
+      en: "gen. libationis; 3rd declension; pouring wine on altar or ground; source of 'libation'"
+      ko: "속격 libationis; 제3변화; 제단이나 땅에 포도주를 붓기; 영어 'libation'의 어원"
+  - latin: incensum
+    translation:
+      en: "incense"
+      ko: "향"
+    gender: n
+    notes:
+      en: "gen. incensi; 2nd declension neuter; from incendere 'to burn'; source of 'incense'"
+      ko: "속격 incensi; 제2변화 중성; incendere '태우다'에서; 영어 'incense'의 어원"
+  - latin: Lares
+    translation:
+      en: "Lares (household gods)"
+      ko: "라레스 (가정의 신들)"
+    gender: m
+    notes:
+      en: "gen. Larum; 3rd declension plural; guardian spirits of the household"
+      ko: "속격 Larum; 제3변화 복수; 가정의 수호 정령"
+  - latin: Penates
+    translation:
+      en: "Penates (pantry gods)"
+      ko: "페나테스 (식량 저장실의 신들)"
+    gender: m
+    notes:
+      en: "gen. Penatium; 3rd declension plural; protectors of the storeroom"
+      ko: "속격 Penatium; 제3변화 복수; 저장실의 수호신"
+  - latin: genius
+    translation:
+      en: "genius (guardian spirit)"
+      ko: "게니우스 (수호 정령)"
+    gender: m
+    notes:
+      en: "gen. genii; 2nd declension; personal divine spirit of every man; source of 'genius'"
+      ko: "속격 genii; 제2변화; 모든 남성의 개인적 수호 정령; 영어 'genius'의 어원"
+  - latin: numen
+    translation:
+      en: "divine power / divine will"
+      ko: "신의 힘 / 신의 뜻"
+    gender: n
+    notes:
+      en: "gen. numinis; 3rd declension neuter; source of 'numinous'"
+      ko: "속격 numinis; 제3변화 중성; 영어 'numinous'의 어원"
+  - latin: pietas
+    translation:
+      en: "piety / dutiful respect"
+      ko: "경건 / 충실한 경의"
+    gender: f
+    notes:
+      en: "gen. pietatis; 3rd declension; devotion to gods, family, and country; source of 'piety'"
+      ko: "속격 pietatis; 제3변화; 신, 가족, 국가에 대한 헌신; 영어 'piety'의 어원"
+  - latin: religio
+    translation:
+      en: "religious observance / reverence"
+      ko: "종교적 의례 / 경외심"
+    gender: f
+    notes:
+      en: "gen. religionis; 3rd declension; source of 'religion'"
+      ko: "속격 religionis; 제3변화; 영어 'religion'의 어원"
+  - latin: sacer
+    translation:
+      en: "sacred / holy"
+      ko: "신성한"
+    gender: m
+    notes:
+      en: "adjective (sacer, sacra, sacrum); source of 'sacred, sacrament'"
+      ko: "형용사 (sacer, sacra, sacrum); 영어 'sacred, sacrament'의 어원"

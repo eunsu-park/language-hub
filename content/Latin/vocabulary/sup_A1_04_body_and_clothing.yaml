@@ -1,0 +1,378 @@
+lesson: "sup_A1_Body_and_Clothing"
+lesson_number: 104
+cefr: A1
+type: supplementary
+topic: "Body and Clothing"
+categories:
+- id: body_parts
+  label:
+    en: "Body Parts"
+    ko: "신체 부위"
+  type: vocabulary
+  words:
+  - latin: caput
+    translation:
+      en: "head"
+      ko: "머리"
+    gender: n
+    notes:
+      en: "gen. capitis; 3rd declension neuter; source of 'capital, captain'"
+      ko: "속격 capitis; 제3변화 중성; 영어 'capital, captain'의 어원"
+  - latin: manus
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: f
+    notes:
+      en: "gen. manus; 4th declension; source of 'manual, manuscript'"
+      ko: "속격 manus; 제4변화; 영어 'manual, manuscript'의 어원"
+  - latin: pes
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: m
+    notes:
+      en: "gen. pedis; 3rd declension; source of 'pedestrian, pedal'"
+      ko: "속격 pedis; 제3변화; 영어 'pedestrian, pedal'의 어원"
+  - latin: oculus
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: m
+    notes:
+      en: "gen. oculi; 2nd declension; source of 'ocular'"
+      ko: "속격 oculi; 제2변화; 영어 'ocular'의 어원"
+  - latin: auris
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: f
+    notes:
+      en: "gen. auris; 3rd declension; source of 'aural, auricle'"
+      ko: "속격 auris; 제3변화; 영어 'aural, auricle'의 어원"
+  - latin: os
+    translation:
+      en: "mouth / face"
+      ko: "입 / 얼굴"
+    gender: n
+    notes:
+      en: "gen. oris; 3rd declension neuter; source of 'oral, orifice'"
+      ko: "속격 oris; 제3변화 중성; 영어 'oral, orifice'의 어원"
+  - latin: cor
+    translation:
+      en: "heart"
+      ko: "심장"
+    gender: n
+    notes:
+      en: "gen. cordis; 3rd declension neuter; source of 'cordial, courage'"
+      ko: "속격 cordis; 제3변화 중성; 영어 'cordial, courage'의 어원"
+  - latin: nasus
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: m
+    notes:
+      en: "gen. nasi; 2nd declension; source of 'nasal'"
+      ko: "속격 nasi; 제2변화; 영어 'nasal'의 어원"
+  - latin: brachium
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: n
+    notes:
+      en: "gen. brachii; 2nd declension neuter; source of 'brace, bracelet'"
+      ko: "속격 brachii; 제2변화 중성; 영어 'brace, bracelet'의 어원"
+  - latin: digitus
+    translation:
+      en: "finger / toe"
+      ko: "손가락 / 발가락"
+    gender: m
+    notes:
+      en: "gen. digiti; 2nd declension; source of 'digit, digital'"
+      ko: "속격 digiti; 제2변화; 영어 'digit, digital'의 어원"
+  - latin: genu
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: n
+    notes:
+      en: "gen. genus; 4th declension neuter; source of 'genuflect'"
+      ko: "속격 genus; 제4변화 중성; 영어 'genuflect'의 어원"
+  - latin: collum
+    translation:
+      en: "neck"
+      ko: "목"
+    gender: n
+    notes:
+      en: "gen. colli; 2nd declension neuter; source of 'collar'"
+      ko: "속격 colli; 제2변화 중성; 영어 'collar'의 어원"
+  - latin: dens
+    translation:
+      en: "tooth"
+      ko: "이빨"
+    gender: m
+    notes:
+      en: "gen. dentis; 3rd declension; source of 'dental, dentist'"
+      ko: "속격 dentis; 제3변화; 영어 'dental, dentist'의 어원"
+  - latin: lingua
+    translation:
+      en: "tongue / language"
+      ko: "혀 / 언어"
+    gender: f
+    notes:
+      en: "gen. linguae; 1st declension; source of 'language, linguistics'"
+      ko: "속격 linguae; 제1변화; 영어 'language, linguistics'의 어원"
+  - latin: umerus
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: m
+    notes:
+      en: "gen. umeri; 2nd declension; source of 'humerus'"
+      ko: "속격 umeri; 제2변화; 영어 'humerus'의 어원"
+  - latin: pectus
+    translation:
+      en: "chest / breast"
+      ko: "가슴"
+    gender: n
+    notes:
+      en: "gen. pectoris; 3rd declension neuter; source of 'pectoral'"
+      ko: "속격 pectoris; 제3변화 중성; 영어 'pectoral'의 어원"
+  - latin: venter
+    translation:
+      en: "stomach / belly"
+      ko: "배 / 복부"
+    gender: m
+    notes:
+      en: "gen. ventris; 3rd declension; source of 'ventral'"
+      ko: "속격 ventris; 제3변화; 영어 'ventral'의 어원"
+  - latin: dorsum
+    translation:
+      en: "back"
+      ko: "등"
+    gender: n
+    notes:
+      en: "gen. dorsi; 2nd declension neuter; source of 'dorsal'"
+      ko: "속격 dorsi; 제2변화 중성; 영어 'dorsal'의 어원"
+  - latin: crus
+    translation:
+      en: "leg / shin"
+      ko: "다리 / 정강이"
+    gender: n
+    notes:
+      en: "gen. cruris; 3rd declension neuter"
+      ko: "속격 cruris; 제3변화 중성"
+  - latin: capillus
+    translation:
+      en: "hair"
+      ko: "머리카락"
+    gender: m
+    notes:
+      en: "gen. capilli; 2nd declension; source of 'capillary'"
+      ko: "속격 capilli; 제2변화; 영어 'capillary'의 어원"
+
+- id: health
+  label:
+    en: "Health"
+    ko: "건강"
+  type: vocabulary
+  words:
+  - latin: salus
+    translation:
+      en: "health / safety"
+      ko: "건강 / 안전"
+    gender: f
+    notes:
+      en: "gen. salutis; 3rd declension; source of 'salute, salvation'"
+      ko: "속격 salutis; 제3변화; 영어 'salute, salvation'의 어원"
+  - latin: morbus
+    translation:
+      en: "disease / illness"
+      ko: "질병"
+    gender: m
+    notes:
+      en: "gen. morbi; 2nd declension; source of 'morbid'"
+      ko: "속격 morbi; 제2변화; 영어 'morbid'의 어원"
+  - latin: dolor
+    translation:
+      en: "pain / grief"
+      ko: "고통 / 슬픔"
+    gender: m
+    notes:
+      en: "gen. doloris; 3rd declension; source of 'dolor, dolorous'"
+      ko: "속격 doloris; 제3변화; 영어 'dolor, dolorous'의 어원"
+  - latin: vulnus
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: n
+    notes:
+      en: "gen. vulneris; 3rd declension neuter; source of 'vulnerable'"
+      ko: "속격 vulneris; 제3변화 중성; 영어 'vulnerable'의 어원"
+  - latin: febris
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+    notes:
+      en: "gen. febris; 3rd declension; source of 'febrile, February'"
+      ko: "속격 febris; 제3변화; 영어 'febrile, February'의 어원"
+  - latin: sanguis
+    translation:
+      en: "blood"
+      ko: "피"
+    gender: m
+    notes:
+      en: "gen. sanguinis; 3rd declension; source of 'sanguine'"
+      ko: "속격 sanguinis; 제3변화; 영어 'sanguine'의 어원"
+  - latin: vires
+    translation:
+      en: "strength (plural)"
+      ko: "힘 (복수형)"
+    gender: f
+    notes:
+      en: "plural of vis; 3rd declension; vis in singular = 'force'"
+      ko: "vis의 복수형; 제3변화; 단수형 vis = '힘'"
+  - latin: medicus
+    translation:
+      en: "doctor / physician"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "gen. medici; 2nd declension; source of 'medic, medicine'"
+      ko: "속격 medici; 제2변화; 영어 'medic, medicine'의 어원"
+  - latin: remedium
+    translation:
+      en: "remedy / cure"
+      ko: "치료법 / 치유"
+    gender: n
+    notes:
+      en: "gen. remedii; 2nd declension neuter; source of 'remedy'"
+      ko: "속격 remedii; 제2변화 중성; 영어 'remedy'의 어원"
+  - latin: valetudo
+    translation:
+      en: "state of health"
+      ko: "건강 상태"
+    gender: f
+    notes:
+      en: "gen. valetudinis; 3rd declension; can mean good or bad health"
+      ko: "속격 valetudinis; 제3변화; 좋은 건강 또는 나쁜 건강을 의미할 수 있음"
+
+- id: clothing
+  label:
+    en: "Clothing"
+    ko: "의복"
+  type: vocabulary
+  words:
+  - latin: toga
+    translation:
+      en: "toga"
+      ko: "토가"
+    gender: f
+    notes:
+      en: "gen. togae; 1st declension; formal garment of Roman citizens"
+      ko: "속격 togae; 제1변화; 로마 시민의 공식 의복"
+  - latin: tunica
+    translation:
+      en: "tunic"
+      ko: "튜닉"
+    gender: f
+    notes:
+      en: "gen. tunicae; 1st declension; basic Roman undergarment"
+      ko: "속격 tunicae; 제1변화; 기본 로마 속옷"
+  - latin: stola
+    translation:
+      en: "stola (women's dress)"
+      ko: "스톨라 (여성 드레스)"
+    gender: f
+    notes:
+      en: "gen. stolae; 1st declension; worn over the tunic by married women"
+      ko: "속격 stolae; 제1변화; 기혼 여성이 튜닉 위에 착용"
+  - latin: palla
+    translation:
+      en: "palla (women's shawl)"
+      ko: "팔라 (여성용 숄)"
+    gender: f
+    notes:
+      en: "gen. pallae; 1st declension; large rectangular cloth worn as an outer garment"
+      ko: "속격 pallae; 제1변화; 겉옷으로 입는 큰 직사각형 천"
+  - latin: calceus
+    translation:
+      en: "shoe"
+      ko: "신발"
+    gender: m
+    notes:
+      en: "gen. calcei; 2nd declension; closed-toe shoe for outdoor wear"
+      ko: "속격 calcei; 제2변화; 외출용 닫힌 신발"
+  - latin: solea
+    translation:
+      en: "sandal"
+      ko: "샌들"
+    gender: f
+    notes:
+      en: "gen. soleae; 1st declension; source of 'sole (of shoe)'"
+      ko: "속격 soleae; 제1변화; 영어 'sole (of shoe)'의 어원"
+  - latin: paenula
+    translation:
+      en: "cloak (hooded)"
+      ko: "후드 달린 망토"
+    gender: f
+    notes:
+      en: "gen. paenulae; 1st declension; practical rain cloak"
+      ko: "속격 paenulae; 제1변화; 실용적인 비옷"
+  - latin: pallium
+    translation:
+      en: "cloak / mantle"
+      ko: "망토 / 외투"
+    gender: n
+    notes:
+      en: "gen. pallii; 2nd declension neuter; Greek-style outer garment"
+      ko: "속격 pallii; 제2변화 중성; 그리스식 겉옷"
+  - latin: cingulum
+    translation:
+      en: "belt"
+      ko: "벨트"
+    gender: n
+    notes:
+      en: "gen. cinguli; 2nd declension neuter; military belt = cingulum militare"
+      ko: "속격 cinguli; 제2변화 중성; 군용 벨트 = cingulum militare"
+  - latin: fibula
+    translation:
+      en: "brooch / pin"
+      ko: "브로치 / 핀"
+    gender: f
+    notes:
+      en: "gen. fibulae; 1st declension; ancient safety pin for garments"
+      ko: "속격 fibulae; 제1변화; 의복용 고대 안전핀"
+  - latin: anulus
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: m
+    notes:
+      en: "gen. anuli; 2nd declension; source of 'annular'"
+      ko: "속격 anuli; 제2변화; 영어 'annular'의 어원"
+  - latin: vestis
+    translation:
+      en: "garment / clothing"
+      ko: "의복 / 옷"
+    gender: f
+    notes:
+      en: "gen. vestis; 3rd declension; source of 'vest, vestment'"
+      ko: "속격 vestis; 제3변화; 영어 'vest, vestment'의 어원"
+  - latin: pileus
+    translation:
+      en: "felt cap"
+      ko: "펠트 모자"
+    gender: m
+    notes:
+      en: "gen. pilei; 2nd declension; given to freed slaves as symbol of liberty"
+      ko: "속격 pilei; 제2변화; 해방된 노예에게 자유의 상징으로 수여됨"
+  - latin: lacerna
+    translation:
+      en: "military cloak"
+      ko: "군용 망토"
+    gender: f
+    notes:
+      en: "gen. lacernae; 1st declension; short cloak worn over the toga"
+      ko: "속격 lacernae; 제1변화; 토가 위에 입는 짧은 망토"

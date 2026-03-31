@@ -1,0 +1,385 @@
+lesson: sup_B2_Economics_and_Trade
+lesson_number: 131
+type: supplementary
+topic: "Economics and Trade"
+cefr: B2
+categories:
+- id: trade_routes
+  label:
+    en: Trade Routes and Commerce
+    ko: 교역로와 상업
+  type: vocabulary
+  words:
+  - latin: commercium
+    translation:
+      en: trade, commerce, right to trade
+      ko: 교역, 상업, 교역권
+    gender: n
+    notes:
+      en: "gen. commerciī; 2nd decl.; the right of commercial exchange"
+      ko: "속격 commerciī; 제2변화; 상업적 교환의 권리"
+  - latin: mercator
+    translation:
+      en: merchant, trader
+      ko: 상인
+    gender: m
+    notes:
+      en: "gen. mercātōris; 3rd decl.; from merx 'merchandise'"
+      ko: "속격 mercātōris; 제3변화; merx '상품'에서 유래"
+  - latin: negotiator
+    translation:
+      en: businessman, wholesaler, banker
+      ko: 사업가, 도매상, 은행가
+    gender: m
+    notes:
+      en: "gen. negōtiātōris; 3rd decl.; from negōtium 'business'"
+      ko: "속격 negōtiātōris; 제3변화; negōtium '사업'에서 유래"
+  - latin: negotium
+    translation:
+      en: business, affair, activity
+      ko: 사업, 업무
+    gender: n
+    notes:
+      en: "gen. negōtiī; 2nd decl.; lit. 'not leisure' (nec + ōtium)"
+      ko: "속격 negōtiī; 제2변화; 직역 '여가가 아닌 것' (nec + ōtium)"
+  - latin: navis oneraria
+    translation:
+      en: cargo ship, merchantman
+      ko: 화물선, 상선
+    gender: f
+    notes:
+      en: "a vessel designed for transporting goods"
+      ko: "화물 운송을 위해 설계된 선박"
+  - latin: portus
+    translation:
+      en: port, harbor
+      ko: 항구
+    gender: m
+    notes:
+      en: "gen. portūs; 4th decl."
+      ko: "속격 portūs; 제4변화"
+  - latin: emporium
+    translation:
+      en: marketplace, trading post
+      ko: 시장, 교역소
+    gender: n
+    notes:
+      en: "gen. emporiī; 2nd decl.; Greek loanword"
+      ko: "속격 emporiī; 제2변화; 그리스어 차용어"
+  - latin: nundinae
+    translation:
+      en: market day, fair
+      ko: 장날, 시장
+    gender: f
+    notes:
+      en: "gen. nūndinārum; 1st decl. pl.; held every ninth day"
+      ko: "속격 nūndinārum; 제1변화 복수; 9일마다 열림"
+  - latin: via
+    translation:
+      en: road, route, way
+      ko: 길, 도로, 경로
+    gender: f
+    notes:
+      en: "gen. viae; 1st decl.; Via Appia, Via Flaminia etc."
+      ko: "속격 viae; 제1변화; 아피아 가도, 플라미니아 가도 등"
+  - latin: taberna
+    translation:
+      en: shop, tavern, stall
+      ko: 가게, 술집, 노점
+    gender: f
+    notes:
+      en: "gen. tabernae; 1st decl."
+      ko: "속격 tabernae; 제1변화"
+
+- id: commodities
+  label:
+    en: Commodities and Goods
+    ko: 상품과 물자
+  type: vocabulary
+  words:
+  - latin: merx
+    translation:
+      en: merchandise, goods, commodity
+      ko: 상품, 물건
+    gender: f
+    notes:
+      en: "gen. mercis; 3rd decl."
+      ko: "속격 mercis; 제3변화"
+  - latin: frumentum
+    translation:
+      en: grain, wheat
+      ko: 곡물, 밀
+    gender: n
+    notes:
+      en: "gen. frūmentī; 2nd decl.; the staple commodity of Rome"
+      ko: "속격 frūmentī; 제2변화; 로마의 주요 물자"
+  - latin: oleum
+    translation:
+      en: olive oil
+      ko: 올리브유
+    gender: n
+    notes:
+      en: "gen. oleī; 2nd decl.; essential trade good"
+      ko: "속격 oleī; 제2변화; 필수적인 교역 상품"
+  - latin: vinum
+    translation:
+      en: wine
+      ko: 포도주
+    gender: n
+    notes:
+      en: "gen. vīnī; 2nd decl.; major export commodity"
+      ko: "속격 vīnī; 제2변화; 주요 수출 상품"
+  - latin: sal
+    translation:
+      en: salt
+      ko: 소금
+    gender: m
+    notes:
+      en: "gen. salis; 3rd decl.; origin of 'salary' (salārium)"
+      ko: "속격 salis; 제3변화; 'salary'(봉급)의 어원 (salārium)"
+  - latin: aurum
+    translation:
+      en: gold
+      ko: 금
+    gender: n
+    notes:
+      en: "gen. aurī; 2nd decl."
+      ko: "속격 aurī; 제2변화"
+  - latin: argentum
+    translation:
+      en: silver, money
+      ko: 은, 화폐
+    gender: n
+    notes:
+      en: "gen. argentī; 2nd decl."
+      ko: "속격 argentī; 제2변화"
+  - latin: ferrum
+    translation:
+      en: iron, sword
+      ko: 철, 검
+    gender: n
+    notes:
+      en: "gen. ferrī; 2nd decl."
+      ko: "속격 ferrī; 제2변화"
+  - latin: sericum
+    translation:
+      en: silk
+      ko: 비단
+    gender: n
+    notes:
+      en: "gen. sēricī; 2nd decl.; from Sērēs 'the Chinese'"
+      ko: "속격 sēricī; 제2변화; Sērēs '중국인'에서 유래"
+  - latin: garum
+    translation:
+      en: fish sauce
+      ko: 어장(魚醬)
+    gender: n
+    notes:
+      en: "gen. garī; 2nd decl.; highly prized Roman condiment"
+      ko: "속격 garī; 제2변화; 매우 귀한 로마 양념"
+  - latin: marmor
+    translation:
+      en: marble
+      ko: 대리석
+    gender: n
+    notes:
+      en: "gen. marmoris; 3rd decl."
+      ko: "속격 marmoris; 제3변화"
+  - latin: amphora
+    translation:
+      en: amphora, large storage jar
+      ko: 암포라, 대형 항아리
+    gender: f
+    notes:
+      en: "gen. amphorae; 1st decl.; standard container for shipping liquids"
+      ko: "속격 amphorae; 제1변화; 액체 운송의 표준 용기"
+
+- id: banking
+  label:
+    en: Banking and Currency
+    ko: 금융과 화폐
+  type: vocabulary
+  words:
+  - latin: pecunia
+    translation:
+      en: money, wealth
+      ko: 돈, 재산
+    gender: f
+    notes:
+      en: "gen. pecūniae; 1st decl.; from pecus 'cattle'"
+      ko: "속격 pecūniae; 제1변화; pecus '가축'에서 유래"
+  - latin: nummus
+    translation:
+      en: coin, money
+      ko: 동전, 화폐
+    gender: m
+    notes:
+      en: "gen. nummī; 2nd decl."
+      ko: "속격 nummī; 제2변화"
+  - latin: denarius
+    translation:
+      en: denarius (silver coin)
+      ko: 데나리우스 (은화)
+    gender: m
+    notes:
+      en: "gen. dēnāriī; 2nd decl.; standard Roman silver coin"
+      ko: "속격 dēnāriī; 제2변화; 표준 로마 은화"
+  - latin: sestertius
+    translation:
+      en: sesterce (small silver/brass coin)
+      ko: 세스테르티우스 (소형 은/놋쇠 동전)
+    gender: m
+    notes:
+      en: "gen. sēstertiī; 2nd decl.; common unit of account"
+      ko: "속격 sēstertiī; 제2변화; 일반적인 화폐 단위"
+  - latin: as
+    translation:
+      en: as (bronze coin)
+      ko: 아스 (청동 동전)
+    gender: m
+    notes:
+      en: "gen. assis; 3rd decl.; the basic unit of Roman coinage"
+      ko: "속격 assis; 제3변화; 로마 주화의 기본 단위"
+  - latin: aureus
+    translation:
+      en: aureus (gold coin)
+      ko: 아우레우스 (금화)
+    gender: m
+    notes:
+      en: "gen. aureī; 2nd decl.; = 25 denarii"
+      ko: "속격 aureī; 제2변화; = 25 데나리우스"
+  - latin: argentarius
+    translation:
+      en: banker, money-changer
+      ko: 은행가, 환전상
+    gender: m
+    notes:
+      en: "gen. argentāriī; 2nd decl.; conducted banking operations in the Forum"
+      ko: "속격 argentāriī; 제2변화; 포럼에서 은행 업무를 수행"
+  - latin: fenus
+    translation:
+      en: interest, usury, loan at interest
+      ko: 이자, 고리대금
+    gender: n
+    notes:
+      en: "gen. fenoris; 3rd decl.; also faenus"
+      ko: "속격 fenoris; 제3변화; faenus로도 표기"
+  - latin: debitum
+    translation:
+      en: debt, obligation
+      ko: 빚, 부채
+    gender: n
+    notes:
+      en: "gen. dēbitī; 2nd decl.; from dēbēre 'to owe'"
+      ko: "속격 dēbitī; 제2변화; dēbēre '빚지다'에서 유래"
+  - latin: creditor
+    translation:
+      en: creditor, lender
+      ko: 채권자, 대주
+    gender: m
+    notes:
+      en: "gen. crēditōris; 3rd decl."
+      ko: "속격 crēditōris; 제3변화"
+  - latin: debitor
+    translation:
+      en: debtor
+      ko: 채무자
+    gender: m
+    notes:
+      en: "gen. dēbitōris; 3rd decl."
+      ko: "속격 dēbitōris; 제3변화"
+
+- id: taxation
+  label:
+    en: Taxation and Public Finance
+    ko: 조세와 공공 재정
+  type: vocabulary
+  words:
+  - latin: portitor
+    translation:
+      en: customs officer, toll collector
+      ko: 세관원, 통행세 징수원
+    gender: m
+    notes:
+      en: "gen. portitōris; 3rd decl.; from portōrium"
+      ko: "속격 portitōris; 제3변화; portōrium에서 유래"
+  - latin: portorium
+    translation:
+      en: customs duty, harbor tax
+      ko: 관세, 항구세
+    gender: n
+    notes:
+      en: "gen. portōriī; 2nd decl.; tax on imported/exported goods"
+      ko: "속격 portōriī; 제2변화; 수입/수출품에 대한 세금"
+  - latin: vectigal
+    translation:
+      en: tax, revenue, tribute
+      ko: 세금, 세입, 공납
+    gender: n
+    notes:
+      en: "gen. vectīgālis; 3rd decl.; income from provincial taxation"
+      ko: "속격 vectīgālis; 제3변화; 속주 과세로부터의 수입"
+  - latin: tributum
+    translation:
+      en: tribute, direct tax
+      ko: 조공, 직접세
+    gender: n
+    notes:
+      en: "gen. tribūtī; 2nd decl.; originally an emergency war tax on Roman citizens"
+      ko: "속격 tribūtī; 제2변화; 원래 로마 시민에 대한 비상 전쟁세"
+  - latin: census
+    translation:
+      en: census, registration of citizens and property
+      ko: 인구 조사, 시민과 재산의 등록
+    gender: m
+    notes:
+      en: "gen. censūs; 4th decl.; basis for taxation and military service"
+      ko: "속격 censūs; 제4변화; 과세와 군사 복무의 기초"
+  - latin: aerarium
+    translation:
+      en: treasury, public treasury
+      ko: 국고, 공공 금고
+    gender: n
+    notes:
+      en: "gen. aerāriī; 2nd decl.; housed in the Temple of Saturn"
+      ko: "속격 aerāriī; 제2변화; 사투르누스 신전에 보관"
+  - latin: fiscus
+    translation:
+      en: imperial treasury, money-basket
+      ko: 황실 금고, 돈바구니
+    gender: m
+    notes:
+      en: "gen. fiscī; 2nd decl.; originally 'basket'; became the emperor's personal fund"
+      ko: "속격 fiscī; 제2변화; 원래 '바구니'; 황제의 개인 자금으로 발전"
+  - latin: publicanus
+    translation:
+      en: tax collector, publican
+      ko: 세리, 징세업자
+    gender: m
+    notes:
+      en: "gen. pūblicānī; 2nd decl.; private contractors collecting taxes for the state"
+      ko: "속격 pūblicānī; 제2변화; 국가를 위해 세금을 징수하는 민간 청부업자"
+  - latin: decuma
+    translation:
+      en: tithe, tenth part
+      ko: 십일조, 십분의 일
+    gender: f
+    notes:
+      en: "gen. decumae; 1st decl.; a tax of one-tenth of agricultural produce"
+      ko: "속격 decumae; 제1변화; 농산물의 10분의 1에 해당하는 세금"
+  - latin: annona
+    translation:
+      en: grain supply, annual produce, cost of living
+      ko: 곡물 공급, 연간 생산물, 생활비
+    gender: f
+    notes:
+      en: "gen. annōnae; 1st decl.; the state grain distribution system"
+      ko: "속격 annōnae; 제1변화; 국가 곡물 배급 체계"
+  - latin: largitio
+    translation:
+      en: lavish giving, bribery, public distribution
+      ko: 후한 증여, 뇌물, 공적 배분
+    gender: f
+    notes:
+      en: "gen. largītiōnis; 3rd decl.; could be positive (generosity) or negative (bribery)"
+      ko: "속격 largītiōnis; 제3변화; 긍정적(관대함) 또는 부정적(뇌물)으로 사용"

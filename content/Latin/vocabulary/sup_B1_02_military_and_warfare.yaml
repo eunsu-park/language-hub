@@ -1,0 +1,1100 @@
+lesson: "sup_B1_Military_and_Warfare"
+lesson_number: 116
+cefr: B1
+type: supplementary
+topic: "Military and Warfare"
+categories:
+- id: ranks
+  label:
+    en: "Military Ranks"
+    ko: "군사 계급"
+  type: vocabulary
+  words:
+  - latin: "miles"
+    translation:
+      en: "soldier"
+      ko: "병사"
+    gender: m
+    notes:
+      en: "gen. mīlitis; 3rd decl."
+      ko: "속격 mīlitis; 제3변화"
+  - latin: "centurio"
+    translation:
+      en: "centurion (commander of 80-100 men)"
+      ko: "백인대장 (80-100명 지휘)"
+    gender: m
+    notes:
+      en: "gen. centuriōnis; 3rd decl."
+      ko: "속격 centuriōnis; 제3변화"
+  - latin: "tribunus"
+    translation:
+      en: "tribune (military officer)"
+      ko: "트리부누스 (군사 장교)"
+    gender: m
+    notes:
+      en: "gen. tribūnī; 2nd decl.; tribunus militum = 'military tribune'"
+      ko: "속격 tribūnī; 제2변화; tribunus militum = '군사 트리부누스'"
+  - latin: "legatus"
+    translation:
+      en: "legate, commander of a legion"
+      ko: "군단장, 사절"
+    gender: m
+    notes:
+      en: "gen. lēgātī; 2nd decl."
+      ko: "속격 lēgātī; 제2변화"
+  - latin: "imperator"
+    translation:
+      en: "commander-in-chief, general"
+      ko: "총사령관, 장군"
+    gender: m
+    notes:
+      en: "gen. imperātōris; 3rd decl.; later title of emperor"
+      ko: "속격 imperātōris; 제3변화; 후에 황제 칭호"
+  - latin: "dux"
+    translation:
+      en: "leader, commander"
+      ko: "지도자, 사령관"
+    gender: m
+    notes:
+      en: "gen. ducis; 3rd decl."
+      ko: "속격 ducis; 제3변화"
+  - latin: "praefectus"
+    translation:
+      en: "prefect, commander"
+      ko: "장관, 지휘관"
+    gender: m
+    notes:
+      en: "gen. praefectī; 2nd decl.; praefectus castrorum = 'camp prefect'"
+      ko: "속격 praefectī; 제2변화; praefectus castrorum = '진영 장관'"
+  - latin: "signifer"
+    translation:
+      en: "standard bearer"
+      ko: "기수"
+    gender: m
+    notes:
+      en: "gen. signiferī; 2nd decl.; carried the signum of a centuria"
+      ko: "속격 signiferī; 제2변화; 백인대의 군기를 운반"
+  - latin: "aquilifer"
+    translation:
+      en: "eagle bearer"
+      ko: "독수리기 기수"
+    gender: m
+    notes:
+      en: "gen. aquiliferī; 2nd decl.; carried the legion's eagle standard"
+      ko: "속격 aquiliferī; 제2변화; 군단의 독수리 군기를 운반"
+  - latin: "optio"
+    translation:
+      en: "optio (centurion's second)"
+      ko: "옵티오 (백인대장 부관)"
+    gender: m
+    notes:
+      en: "gen. optiōnis; 3rd decl."
+      ko: "속격 optiōnis; 제3변화"
+- id: weapons
+  label:
+    en: "Weapons and Armor"
+    ko: "무기와 갑옷"
+  type: vocabulary
+  words:
+  - latin: "gladius"
+    translation:
+      en: "sword (short)"
+      ko: "검 (단검)"
+    gender: m
+    notes:
+      en: "gen. gladiī; 2nd decl.; the standard Roman infantry sword"
+      ko: "속격 gladiī; 제2변화; 표준 로마 보병 검"
+  - latin: "pilum"
+    translation:
+      en: "javelin, heavy throwing spear"
+      ko: "투창, 중(重)투척창"
+    gender: n
+    notes:
+      en: "gen. pīlī; 2nd decl. neuter; pl. pīla"
+      ko: "속격 pīlī; 제2변화 중성; 복수 pīla"
+  - latin: "scutum"
+    translation:
+      en: "shield (large, rectangular)"
+      ko: "방패 (대형, 직사각형)"
+    gender: n
+    notes:
+      en: "gen. scūtī; 2nd decl. neuter"
+      ko: "속격 scūtī; 제2변화 중성"
+  - latin: "galea"
+    translation:
+      en: "helmet"
+      ko: "투구"
+    gender: f
+    notes:
+      en: "gen. galeae; 1st decl."
+      ko: "속격 galeae; 제1변화"
+  - latin: "lorica"
+    translation:
+      en: "breastplate, cuirass"
+      ko: "흉갑, 갑옷"
+    gender: f
+    notes:
+      en: "gen. lorīcae; 1st decl.; lorica segmentata = 'segmented armor'"
+      ko: "속격 lorīcae; 제1변화; lorica segmentata = '판갑'"
+  - latin: "hasta"
+    translation:
+      en: "spear"
+      ko: "창"
+    gender: f
+    notes:
+      en: "gen. hastae; 1st decl."
+      ko: "속격 hastae; 제1변화"
+  - latin: "pugio"
+    translation:
+      en: "dagger"
+      ko: "단도"
+    gender: m
+    notes:
+      en: "gen. pugiōnis; 3rd decl.; carried by soldiers and officers"
+      ko: "속격 pugiōnis; 제3변화; 병사와 장교가 휴대"
+  - latin: "arcus"
+    translation:
+      en: "bow"
+      ko: "활"
+    gender: m
+    notes:
+      en: "gen. arcūs; 4th decl."
+      ko: "속격 arcūs; 제4변화"
+  - latin: "sagitta"
+    translation:
+      en: "arrow"
+      ko: "화살"
+    gender: f
+    notes:
+      en: "gen. sagittae; 1st decl."
+      ko: "속격 sagittae; 제1변화"
+  - latin: "telum"
+    translation:
+      en: "weapon, missile"
+      ko: "무기, 투사체"
+    gender: n
+    notes:
+      en: "gen. tēlī; 2nd decl. neuter; general term for ranged weapon"
+      ko: "속격 tēlī; 제2변화 중성; 원거리 무기의 총칭"
+  - latin: "ferrum"
+    translation:
+      en: "iron, sword (poetic)"
+      ko: "철, 칼 (시적 표현)"
+    gender: n
+    notes:
+      en: "gen. ferrī; 2nd decl. neuter"
+      ko: "속격 ferrī; 제2변화 중성"
+  - latin: "clipeus"
+    translation:
+      en: "round shield"
+      ko: "원형 방패"
+    gender: m
+    notes:
+      en: "gen. clipeī; 2nd decl.; also clipeum (neuter)"
+      ko: "속격 clipeī; 제2변화; clipeum (중성)으로도 사용"
+- id: fortifications
+  label:
+    en: "Fortifications"
+    ko: "요새화"
+  type: vocabulary
+  words:
+  - latin: "castra"
+    translation:
+      en: "military camp"
+      ko: "군영, 진영"
+    gender: n
+    notes:
+      en: "gen. castrōrum; 2nd decl. neuter plural; always plural"
+      ko: "속격 castrōrum; 제2변화 중성 복수; 항상 복수형"
+  - latin: "fossa"
+    translation:
+      en: "ditch, trench"
+      ko: "도랑, 참호"
+    gender: f
+    notes:
+      en: "gen. fossae; 1st decl."
+      ko: "속격 fossae; 제1변화"
+  - latin: "vallum"
+    translation:
+      en: "rampart, palisade wall"
+      ko: "방벽, 목책"
+    gender: n
+    notes:
+      en: "gen. vallī; 2nd decl. neuter"
+      ko: "속격 vallī; 제2변화 중성"
+  - latin: "vallus"
+    translation:
+      en: "stake, palisade stake"
+      ko: "말뚝, 목책 기둥"
+    gender: m
+    notes:
+      en: "gen. vallī; 2nd decl.; each soldier carried stakes for the vallum"
+      ko: "속격 vallī; 제2변화; 각 병사가 방벽용 말뚝을 운반"
+  - latin: "agger"
+    translation:
+      en: "earthwork, mound, siege ramp"
+      ko: "토루, 둑, 공성 경사로"
+    gender: m
+    notes:
+      en: "gen. aggeris; 3rd decl."
+      ko: "속격 aggeris; 제3변화"
+  - latin: "turris"
+    translation:
+      en: "tower"
+      ko: "탑, 망루"
+    gender: f
+    notes:
+      en: "gen. turris; 3rd decl. (i-stem)"
+      ko: "속격 turris; 제3변화 (i-어간)"
+  - latin: "porta"
+    translation:
+      en: "gate (of a camp or city)"
+      ko: "문 (진영 또는 도시의)"
+    gender: f
+    notes:
+      en: "gen. portae; 1st decl.; porta praetoria = 'main gate'"
+      ko: "속격 portae; 제1변화; porta praetoria = '정문'"
+  - latin: "murus"
+    translation:
+      en: "wall"
+      ko: "벽, 성벽"
+    gender: m
+    notes:
+      en: "gen. mūrī; 2nd decl."
+      ko: "속격 mūrī; 제2변화"
+  - latin: "arx"
+    translation:
+      en: "citadel, fortress"
+      ko: "성채, 요새"
+    gender: f
+    notes:
+      en: "gen. arcis; 3rd decl."
+      ko: "속격 arcis; 제3변화"
+  - latin: "castellum"
+    translation:
+      en: "fort, small fortification"
+      ko: "보루, 소규모 요새"
+    gender: n
+    notes:
+      en: "gen. castellī; 2nd decl. neuter; diminutive of castrum"
+      ko: "속격 castellī; 제2변화 중성; castrum의 축소형"
+  - latin: "praesidium"
+    translation:
+      en: "garrison, guard post"
+      ko: "수비대, 초소"
+    gender: n
+    notes:
+      en: "gen. praesidiī; 2nd decl. neuter"
+      ko: "속격 praesidiī; 제2변화 중성"
+  - latin: "propugnaculum"
+    translation:
+      en: "bulwark, rampart defense"
+      ko: "방벽, 성벽 방어물"
+    gender: n
+    notes:
+      en: "gen. prōpugnāculī; 2nd decl. neuter"
+      ko: "속격 prōpugnāculī; 제2변화 중성"
+- id: tactics
+  label:
+    en: "Military Tactics"
+    ko: "군사 전술"
+  type: vocabulary
+  words:
+  - latin: "legio"
+    translation:
+      en: "legion (~5,000 soldiers)"
+      ko: "군단 (약 5,000명)"
+    gender: f
+    notes:
+      en: "gen. legiōnis; 3rd decl."
+      ko: "속격 legiōnis; 제3변화"
+  - latin: "cohors"
+    translation:
+      en: "cohort (~480 soldiers)"
+      ko: "코호르스 (약 480명)"
+    gender: f
+    notes:
+      en: "gen. cohortis; 3rd decl."
+      ko: "속격 cohortis; 제3변화"
+  - latin: "centuria"
+    translation:
+      en: "century (~80 soldiers)"
+      ko: "백인대 (약 80명)"
+    gender: f
+    notes:
+      en: "gen. centuriae; 1st decl."
+      ko: "속격 centuriae; 제1변화"
+  - latin: "manipulus"
+    translation:
+      en: "maniple (tactical unit of 120-160)"
+      ko: "마니풀루스 (120-160명 전술 단위)"
+    gender: m
+    notes:
+      en: "gen. manipulī; 2nd decl.; older unit replaced by cohort"
+      ko: "속격 manipulī; 제2변화; 코호르스로 대체된 구식 단위"
+  - latin: "acies"
+    translation:
+      en: "battle line, formation"
+      ko: "전투 대형, 전선"
+    gender: f
+    notes:
+      en: "gen. aciēī; 5th decl.; triplex acies = 'triple battle line'"
+      ko: "속격 aciēī; 제5변화; triplex acies = '삼중 전선'"
+  - latin: "testudo"
+    translation:
+      en: "tortoise formation"
+      ko: "거북이 대형"
+    gender: f
+    notes:
+      en: "gen. testūdinis; 3rd decl.; shields interlocked overhead"
+      ko: "속격 testūdinis; 제3변화; 방패를 머리 위로 맞물림"
+  - latin: "cuneus"
+    translation:
+      en: "wedge formation"
+      ko: "쐐기 대형"
+    gender: m
+    notes:
+      en: "gen. cuneī; 2nd decl.; used to break enemy lines"
+      ko: "속격 cuneī; 제2변화; 적진 돌파에 사용"
+  - latin: "proelium"
+    translation:
+      en: "battle, engagement"
+      ko: "전투, 교전"
+    gender: n
+    notes:
+      en: "gen. proeliī; 2nd decl. neuter; proelium committere = 'to join battle'"
+      ko: "속격 proeliī; 제2변화 중성; proelium committere = '전투를 벌이다'"
+  - latin: "bellum"
+    translation:
+      en: "war"
+      ko: "전쟁"
+    gender: n
+    notes:
+      en: "gen. bellī; 2nd decl. neuter; bellum gerere = 'to wage war'"
+      ko: "속격 bellī; 제2변화 중성; bellum gerere = '전쟁을 수행하다'"
+  - latin: "pugna"
+    translation:
+      en: "fight, combat"
+      ko: "싸움, 전투"
+    gender: f
+    notes:
+      en: "gen. pugnae; 1st decl."
+      ko: "속격 pugnae; 제1변화"
+  - latin: "obsidio"
+    translation:
+      en: "siege"
+      ko: "포위 공격"
+    gender: f
+    notes:
+      en: "gen. obsidiōnis; 3rd decl."
+      ko: "속격 obsidiōnis; 제3변화"
+  - latin: "victoria"
+    translation:
+      en: "victory"
+      ko: "승리"
+    gender: f
+    notes:
+      en: "gen. victōriae; 1st decl."
+      ko: "속격 victōriae; 제1변화"
+  - latin: "triumphus"
+    translation:
+      en: "triumph (victory parade)"
+      ko: "개선식 (승리 행진)"
+    gender: m
+    notes:
+      en: "gen. triumphī; 2nd decl."
+      ko: "속격 triumphī; 제2변화"
+  - latin: "clades"
+    translation:
+      en: "defeat, disaster"
+      ko: "패배, 재앙"
+    gender: f
+    notes:
+      en: "gen. clādis; 3rd decl."
+      ko: "속격 clādis; 제3변화"
+  - latin: "hostis"
+    translation:
+      en: "enemy (public, foreign)"
+      ko: "적 (공적, 외적)"
+    gender: m
+    notes:
+      en: "gen. hostis; 3rd decl. (i-stem); cf. inimicus = 'personal enemy'"
+      ko: "속격 hostis; 제3변화 (i-어간); 참조: inimicus = '사적인 적'"
+  - latin: "auxilia"
+    translation:
+      en: "auxiliary troops"
+      ko: "보조 부대"
+    gender: n
+    notes:
+      en: "gen. auxiliōrum; 2nd decl. neuter plural; non-citizen soldiers"
+      ko: "속격 auxiliōrum; 제2변화 중성 복수; 비시민 병사"
+  - latin: "stipendium"
+    translation:
+      en: "military pay, campaign"
+      ko: "군사 급여, 군역"
+    gender: n
+    notes:
+      en: "gen. stīpendiī; 2nd decl. neuter"
+      ko: "속격 stīpendiī; 제2변화 중성"
+  - latin: "impedimenta"
+    translation:
+      en: "baggage train, military supplies"
+      ko: "군수품, 보급 행렬"
+    gender: n
+    notes:
+      en: "gen. impedīmentōrum; 2nd decl. neuter plural; always plural in this sense"
+      ko: "속격 impedīmentōrum; 제2변화 중성 복수; 이 뜻에서 항상 복수형"
+  - latin: "agmen"
+    translation:
+      en: "column (on the march), army"
+      ko: "행군 종대, 군대"
+    gender: n
+    notes:
+      en: "gen. agminis; 3rd decl.; agmen novissimum = 'rearguard'"
+      ko: "속격 agminis; 제3변화; agmen novissimum = '후위'"
+  - latin: "signum"
+    translation:
+      en: "standard, signal, sign"
+      ko: "군기, 신호, 표시"
+    gender: n
+    notes:
+      en: "gen. signī; 2nd decl. neuter; signa inferre = 'to advance'"
+      ko: "속격 signī; 제2변화 중성; signa inferre = '전진하다'"
+  - latin: "aquila"
+    translation:
+      en: "eagle (legion standard)"
+      ko: "독수리 (군단 군기)"
+    gender: f
+    notes:
+      en: "gen. aquilae; 1st decl.; sacred emblem of the legion"
+      ko: "속격 aquilae; 제1변화; 군단의 신성한 상징"
+  - latin: "vexillum"
+    translation:
+      en: "banner, flag"
+      ko: "깃발, 군기"
+    gender: n
+    notes:
+      en: "gen. vexillī; 2nd decl. neuter"
+      ko: "속격 vexillī; 제2변화 중성"
+  - latin: "tuba"
+    translation:
+      en: "trumpet (military)"
+      ko: "나팔 (군사용)"
+    gender: f
+    notes:
+      en: "gen. tubae; 1st decl.; straight bronze trumpet"
+      ko: "속격 tubae; 제1변화; 직선형 청동 나팔"
+  - latin: "cornu"
+    translation:
+      en: "horn (instrument), wing (of an army)"
+      ko: "뿔 (악기), 날개 (군대의)"
+    gender: n
+    notes:
+      en: "gen. cornūs; 4th decl."
+      ko: "속격 cornūs; 제4변화"
+  - latin: "praeda"
+    translation:
+      en: "booty, plunder"
+      ko: "전리품, 약탈물"
+    gender: f
+    notes:
+      en: "gen. praedae; 1st decl."
+      ko: "속격 praedae; 제1변화"
+  - latin: "spolia"
+    translation:
+      en: "spoils (stripped from enemy)"
+      ko: "전리품 (적에게서 벗긴)"
+    gender: n
+    notes:
+      en: "gen. spoliōrum; 2nd decl. neuter plural"
+      ko: "속격 spoliōrum; 제2변화 중성 복수"
+  - latin: "captivus"
+    translation:
+      en: "prisoner of war, captive"
+      ko: "전쟁 포로"
+    gender: m
+    notes:
+      en: "gen. captīvī; 2nd decl."
+      ko: "속격 captīvī; 제2변화"
+  - latin: "fuga"
+    translation:
+      en: "flight, retreat"
+      ko: "도주, 퇴각"
+    gender: f
+    notes:
+      en: "gen. fugae; 1st decl.; in fugam dare = 'to put to flight'"
+      ko: "속격 fugae; 제1변화; in fugam dare = '도주시키다'"
+  - latin: "insidiae"
+    translation:
+      en: "ambush, trap"
+      ko: "매복, 함정"
+    gender: f
+    notes:
+      en: "gen. insidiārum; 1st decl. plural; always plural"
+      ko: "속격 insidiārum; 제1변화 복수; 항상 복수형"
+- id: military_verbs
+  label:
+    en: "Military Verbs"
+    ko: "군사 동사"
+  type: vocabulary
+  words:
+  - latin: "pugnare"
+    translation:
+      en: "to fight"
+      ko: "싸우다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "oppugnare"
+    translation:
+      en: "to attack, to besiege"
+      ko: "공격하다, 포위하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "defendere"
+    translation:
+      en: "to defend"
+      ko: "방어하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. dēfendī"
+      ko: "제3활용; 완료 dēfendī"
+  - latin: "vincere"
+    translation:
+      en: "to conquer, to win"
+      ko: "정복하다, 이기다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. vīcī; 'veni, vidi, vici' (Caesar)"
+      ko: "제3활용; 완료 vīcī; 'veni, vidi, vici' (카이사르)"
+  - latin: "superare"
+    translation:
+      en: "to overcome, to surpass"
+      ko: "극복하다, 능가하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "cedere"
+    translation:
+      en: "to yield, to retreat"
+      ko: "양보하다, 물러나다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. cessī"
+      ko: "제3활용; 완료 cessī"
+  - latin: "fugere"
+    translation:
+      en: "to flee"
+      ko: "도망치다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. fūgī"
+      ko: "제3활용 (i-어간); 완료 fūgī"
+  - latin: "obsidere"
+    translation:
+      en: "to besiege, to blockade"
+      ko: "포위하다, 봉쇄하다"
+    gender: n
+    notes:
+      en: "2nd conj.; perf. obsēdī"
+      ko: "제2활용; 완료 obsēdī"
+  - latin: "premere"
+    translation:
+      en: "to press, to pursue closely"
+      ko: "압박하다, 바짝 추격하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. pressī"
+      ko: "제3활용; 완료 pressī"
+  - latin: "occidere"
+    translation:
+      en: "to kill, to cut down"
+      ko: "죽이다, 쓰러뜨리다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. occīdī"
+      ko: "제3활용; 완료 occīdī"
+  - latin: "vulnerare"
+    translation:
+      en: "to wound"
+      ko: "부상을 입히다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "caedere"
+    translation:
+      en: "to cut, to slaughter"
+      ko: "베다, 학살하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. cecīdī"
+      ko: "제3활용; 완료 cecīdī"
+  - latin: "munire"
+    translation:
+      en: "to fortify, to build defenses"
+      ko: "요새화하다, 방어 시설을 짓다"
+    gender: n
+    notes:
+      en: "4th conj.; castra munire = 'to fortify a camp'"
+      ko: "제4활용; castra munire = '진영을 요새화하다'"
+  - latin: "imperare"
+    translation:
+      en: "to command, to order"
+      ko: "명령하다"
+    gender: n
+    notes:
+      en: "1st conj.; + dat."
+      ko: "제1활용; + 여격"
+  - latin: "parere"
+    translation:
+      en: "to obey"
+      ko: "복종하다"
+    gender: n
+    notes:
+      en: "2nd conj.; + dat."
+      ko: "제2활용; + 여격"
+  - latin: "progredi"
+    translation:
+      en: "to advance, to march forward"
+      ko: "전진하다"
+    gender: n
+    notes:
+      en: "3rd conj. deponent; perf. prōgressus sum"
+      ko: "제3활용 이형태 동사; 완료 prōgressus sum"
+  - latin: "excubare"
+    translation:
+      en: "to keep watch, to stand guard"
+      ko: "보초를 서다, 경비하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "sacramentum"
+    translation:
+      en: "military oath"
+      ko: "군사 선서"
+    gender: n
+    notes:
+      en: "gen. sacrāmentī; 2nd decl. neuter; oath of allegiance"
+      ko: "속격 sacrāmentī; 제2변화 중성; 충성 서약"
+  - latin: "dilectus"
+    translation:
+      en: "levy, recruitment"
+      ko: "징병, 모병"
+    gender: m
+    notes:
+      en: "gen. dīlēctūs; 4th decl."
+      ko: "속격 dīlēctūs; 제4변화"
+  - latin: "vigilia"
+    translation:
+      en: "watch (guard duty), night watch"
+      ko: "야경, 보초"
+    gender: f
+    notes:
+      en: "gen. vigiliae; 1st decl.; four watches per night"
+      ko: "속격 vigiliae; 제1변화; 밤에 네 번의 경비 교대"
+  - latin: "explorator"
+    translation:
+      en: "scout, spy"
+      ko: "정찰병, 첩자"
+    gender: m
+    notes:
+      en: "gen. explōrātōris; 3rd decl."
+      ko: "속격 explōrātōris; 제3변화"
+  - latin: "eruptio"
+    translation:
+      en: "sortie, sally"
+      ko: "돌격, 출격"
+    gender: f
+    notes:
+      en: "gen. ēruptiōnis; 3rd decl."
+      ko: "속격 ēruptiōnis; 제3변화"
+  - latin: "dedititio"
+    translation:
+      en: "surrender, capitulation"
+      ko: "항복"
+    gender: f
+    notes:
+      en: "gen. dēditiōnis; 3rd decl."
+      ko: "속격 dēditiōnis; 제3변화"
+  - latin: "foedus"
+    translation:
+      en: "treaty, alliance"
+      ko: "조약, 동맹"
+    gender: n
+    notes:
+      en: "gen. foederis; 3rd decl."
+      ko: "속격 foederis; 제3변화"
+  - latin: "pax"
+    translation:
+      en: "peace"
+      ko: "평화"
+    gender: f
+    notes:
+      en: "gen. pācis; 3rd decl.; Pax Romana = 'Roman Peace'"
+      ko: "속격 pācis; 제3변화; Pax Romana = '로마의 평화'"
+  - latin: "indutiae"
+    translation:
+      en: "truce, armistice"
+      ko: "휴전"
+    gender: f
+    notes:
+      en: "gen. indūtiārum; 1st decl. plural; always plural"
+      ko: "속격 indūtiārum; 제1변화 복수; 항상 복수형"
+  - latin: "obses"
+    translation:
+      en: "hostage"
+      ko: "인질"
+    gender: m
+    notes:
+      en: "gen. obsidis; 3rd decl.; m/f"
+      ko: "속격 obsidis; 제3변화; 남/여"
+  - latin: "veteranus"
+    translation:
+      en: "veteran soldier"
+      ko: "퇴역 군인"
+    gender: m
+    notes:
+      en: "gen. veterānī; 2nd decl."
+      ko: "속격 veterānī; 제2변화"
+  - latin: "tiro"
+    translation:
+      en: "recruit, beginner"
+      ko: "신병, 초심자"
+    gender: m
+    notes:
+      en: "gen. tīrōnis; 3rd decl."
+      ko: "속격 tīrōnis; 제3변화"
+  - latin: "decurio"
+    translation:
+      en: "decurion (cavalry officer)"
+      ko: "데쿠리오 (기병 장교)"
+    gender: m
+    notes:
+      en: "gen. decuriōnis; 3rd decl."
+      ko: "속격 decuriōnis; 제3변화"
+  - latin: "evocatus"
+    translation:
+      en: "veteran re-enlisted soldier"
+      ko: "재입대 퇴역 군인"
+    gender: m
+    notes:
+      en: "gen. ēvocātī; 2nd decl."
+      ko: "속격 ēvocātī; 제2변화"
+  - latin: "cornicen"
+    translation:
+      en: "horn blower"
+      ko: "나각수"
+    gender: m
+    notes:
+      en: "gen. cornicinis; 3rd decl."
+      ko: "속격 cornicinis; 제3변화"
+  - latin: "bucinator"
+    translation:
+      en: "trumpeter"
+      ko: "나팔수"
+    gender: m
+    notes:
+      en: "gen. būcinātōris; 3rd decl."
+      ko: "속격 būcinātōris; 제3변화"
+  - latin: "catapulta"
+    translation:
+      en: "catapult"
+      ko: "투석기"
+    gender: f
+    notes:
+      en: "gen. catapultae; 1st decl.; siege weapon"
+      ko: "속격 catapultae; 제1변화; 공성 무기"
+  - latin: "ballista"
+    translation:
+      en: "ballista (bolt thrower)"
+      ko: "발리스타 (볼트 투사기)"
+    gender: f
+    notes:
+      en: "gen. ballistae; 1st decl.; artillery weapon"
+      ko: "속격 ballistae; 제1변화; 포병 무기"
+  - latin: "aries"
+    translation:
+      en: "battering ram"
+      ko: "공성추"
+    gender: m
+    notes:
+      en: "gen. arietis; 3rd decl.; literally 'ram'"
+      ko: "속격 arietis; 제3변화; 직역 '숫양'"
+  - latin: "vinea"
+    translation:
+      en: "siege shed, mantlet"
+      ko: "공성 차폐물"
+    gender: f
+    notes:
+      en: "gen. vīneae; 1st decl.; movable protective shelter"
+      ko: "속격 vīneae; 제1변화; 이동식 방호물"
+  - latin: "pluteus"
+    translation:
+      en: "movable shield, parapet"
+      ko: "이동식 방패, 흉장"
+    gender: m
+    notes:
+      en: "gen. pluteī; 2nd decl."
+      ko: "속격 pluteī; 제2변화"
+  - latin: "cingulum"
+    translation:
+      en: "military belt"
+      ko: "군용 벨트"
+    gender: n
+    notes:
+      en: "gen. cingulī; 2nd decl. neuter; symbol of military service"
+      ko: "속격 cingulī; 제2변화 중성; 군 복무의 상징"
+  - latin: "caliga"
+    translation:
+      en: "military boot"
+      ko: "군화"
+    gender: f
+    notes:
+      en: "gen. caligae; 1st decl.; Caligula = 'little boot'"
+      ko: "속격 caligae; 제1변화; Caligula = '작은 군화'"
+  - latin: "contus"
+    translation:
+      en: "pike, long spear"
+      ko: "장창"
+    gender: m
+    notes:
+      en: "gen. contī; 2nd decl."
+      ko: "속격 contī; 제2변화"
+  - latin: "funda"
+    translation:
+      en: "sling (weapon)"
+      ko: "투석구"
+    gender: f
+    notes:
+      en: "gen. fundae; 1st decl.; used by auxiliary troops"
+      ko: "속격 fundae; 제1변화; 보조 부대가 사용"
+  - latin: "funditor"
+    translation:
+      en: "slinger"
+      ko: "투석병"
+    gender: m
+    notes:
+      en: "gen. funditōris; 3rd decl.; Balearic slingers were famous"
+      ko: "속격 funditōris; 제3변화; 발레아레스 투석병이 유명"
+  - latin: "sagittarius"
+    translation:
+      en: "archer, bowman"
+      ko: "궁수"
+    gender: m
+    notes:
+      en: "gen. sagittāriī; 2nd decl."
+      ko: "속격 sagittāriī; 제2변화"
+  - latin: "eques"
+    translation:
+      en: "cavalryman, horseman"
+      ko: "기병"
+    gender: m
+    notes:
+      en: "gen. equitis; 3rd decl."
+      ko: "속격 equitis; 제3변화"
+  - latin: "pedes"
+    translation:
+      en: "infantryman, foot soldier"
+      ko: "보병"
+    gender: m
+    notes:
+      en: "gen. peditis; 3rd decl."
+      ko: "속격 peditis; 제3변화"
+  - latin: "frumentatio"
+    translation:
+      en: "foraging, grain supply"
+      ko: "식량 징발, 곡물 보급"
+    gender: f
+    notes:
+      en: "gen. frūmentātiōnis; 3rd decl."
+      ko: "속격 frūmentātiōnis; 제3변화"
+  - latin: "clamor"
+    translation:
+      en: "battle cry, shout"
+      ko: "함성, 외침"
+    gender: m
+    notes:
+      en: "gen. clāmōris; 3rd decl."
+      ko: "속격 clāmōris; 제3변화"
+  - latin: "impetus"
+    translation:
+      en: "attack, charge, assault"
+      ko: "공격, 돌격"
+    gender: m
+    notes:
+      en: "gen. impetūs; 4th decl.; impetum facere = 'to attack'"
+      ko: "속격 impetūs; 제4변화; impetum facere = '공격하다'"
+  - latin: "strages"
+    translation:
+      en: "slaughter, carnage"
+      ko: "학살, 대살육"
+    gender: f
+    notes:
+      en: "gen. strāgis; 3rd decl."
+      ko: "속격 strāgis; 제3변화"
+  - latin: "caedes"
+    translation:
+      en: "killing, massacre"
+      ko: "살인, 학살"
+    gender: f
+    notes:
+      en: "gen. caedis; 3rd decl."
+      ko: "속격 caedis; 제3변화"
+  - latin: "vulnus"
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: n
+    notes:
+      en: "gen. vulneris; 3rd decl."
+      ko: "속격 vulneris; 제3변화"
+  - latin: "praemium"
+    translation:
+      en: "reward, prize, bounty"
+      ko: "보상, 상, 포상금"
+    gender: n
+    notes:
+      en: "gen. praemiī; 2nd decl. neuter"
+      ko: "속격 praemiī; 제2변화 중성"
+  - latin: "corona"
+    translation:
+      en: "crown, military decoration"
+      ko: "관, 군사 훈장"
+    gender: f
+    notes:
+      en: "gen. corōnae; 1st decl.; corona civica = 'civic crown' (for saving a citizen)"
+      ko: "속격 corōnae; 제1변화; corona civica = '시민관' (시민을 구한 공로)"
+  - latin: "decursio"
+    translation:
+      en: "military exercise, drill"
+      ko: "군사 훈련, 연습"
+    gender: f
+    notes:
+      en: "gen. decursiōnis; 3rd decl."
+      ko: "속격 decursiōnis; 제3변화"
+  - latin: "contubernium"
+    translation:
+      en: "tent group (8 soldiers)"
+      ko: "막사 조 (8명의 병사)"
+    gender: n
+    notes:
+      en: "gen. contubernii; 2nd decl. neuter; smallest military unit"
+      ko: "속격 contubernii; 제2변화 중성; 최소 군사 단위"
+  - latin: "scorpio"
+    translation:
+      en: "scorpion (light bolt thrower)"
+      ko: "스코르피오 (경량 볼트 투사기)"
+    gender: m
+    notes:
+      en: "gen. scorpiōnis; 3rd decl.; small torsion artillery"
+      ko: "속격 scorpiōnis; 제3변화; 소형 비틀림 포병 무기"
+  - latin: "onager"
+    translation:
+      en: "onager (stone-throwing catapult)"
+      ko: "오나거 (투석 투석기)"
+    gender: m
+    notes:
+      en: "gen. onagrī; 2nd decl.; literally 'wild donkey' from its kick"
+      ko: "속격 onagrī; 제2변화; 발차기에서 비유된 '야생 당나귀'"
+  - latin: "musculus"
+    translation:
+      en: "siege shed, protective gallery"
+      ko: "공성 방호갱도"
+    gender: m
+    notes:
+      en: "gen. musculī; 2nd decl.; literally 'little mouse'"
+      ko: "속격 musculī; 제2변화; 직역 '작은 생쥐'"
+  - latin: "turris ambulatoria"
+    translation:
+      en: "mobile siege tower"
+      ko: "이동식 공성탑"
+    gender: f
+    notes:
+      en: "3rd/1st decl.; wheeled tower for scaling walls"
+      ko: "제3/제1변화; 성벽 등반을 위한 바퀴 달린 탑"
+  - latin: "scala"
+    translation:
+      en: "ladder (siege)"
+      ko: "사다리 (공성)"
+    gender: f
+    notes:
+      en: "gen. scalae; 1st decl.; usually pl. scalae"
+      ko: "속격 scalae; 제1변화; 보통 복수 scalae"
+  - latin: "cuniculus"
+    translation:
+      en: "mine, tunnel (siege)"
+      ko: "갱도, 터널 (공성)"
+    gender: m
+    notes:
+      en: "gen. cuniculī; 2nd decl.; undermining enemy walls"
+      ko: "속격 cuniculī; 제2변화; 적 성벽 아래로 파고듦"
+  - latin: "vallare"
+    translation:
+      en: "to fortify with a rampart"
+      ko: "방벽으로 요새화하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "eicere"
+    translation:
+      en: "to drive out, to expel"
+      ko: "쫓아내다, 축출하다"
+    gender: n
+    notes:
+      en: "3rd conj. (i-stem); perf. ēiēcī"
+      ko: "제3활용 (i-어간); 완료 ēiēcī"
+  - latin: "depopulari"
+    translation:
+      en: "to ravage, to devastate"
+      ko: "약탈하다, 초토화하다"
+    gender: n
+    notes:
+      en: "1st conj. deponent; agros depopulari = 'to devastate the fields'"
+      ko: "제1활용 이형태 동사; agros depopulari = '들판을 초토화하다'"
+  - latin: "circumvallare"
+    translation:
+      en: "to surround with a wall"
+      ko: "성벽으로 둘러싸다"
+    gender: n
+    notes:
+      en: "1st conj.; circumvallatio = siege encirclement"
+      ko: "제1활용; circumvallatio = 포위 성벽"
+  - latin: "decimare"
+    translation:
+      en: "to decimate (execute every tenth man)"
+      ko: "십일형에 처하다 (열 명 중 한 명 처형)"
+    gender: n
+    notes:
+      en: "1st conj.; severe military punishment"
+      ko: "제1활용; 극심한 군사 처벌"
+  - latin: "missio"
+    translation:
+      en: "discharge, dismissal"
+      ko: "제대, 면직"
+    gender: f
+    notes:
+      en: "gen. missiōnis; 3rd decl.; missio honesta = 'honorable discharge'"
+      ko: "속격 missiōnis; 제3변화; missio honesta = '명예 제대'"
+  - latin: "donativum"
+    translation:
+      en: "military bonus, imperial gift"
+      ko: "군사 보너스, 황제의 하사금"
+    gender: n
+    notes:
+      en: "gen. dōnātīvī; 2nd decl. neuter; given on accession or victory"
+      ko: "속격 dōnātīvī; 제2변화 중성; 즉위나 승리 시 지급"
+  - latin: "phalerae"
+    translation:
+      en: "military decorations, medals"
+      ko: "군사 훈장, 메달"
+    gender: f
+    notes:
+      en: "gen. phalerārum; 1st decl. plural; worn on breastplate"
+      ko: "속격 phalerārum; 제1변화 복수; 흉갑에 착용"

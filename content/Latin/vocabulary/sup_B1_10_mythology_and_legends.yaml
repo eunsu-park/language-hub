@@ -1,0 +1,1104 @@
+lesson: "sup_B1_Mythology_and_Legends"
+lesson_number: 124
+cefr: B1
+type: supplementary
+topic: "Mythology and Legends"
+categories:
+- id: major_gods
+  label:
+    en: "Major Gods (Dii Maiores)"
+    ko: "주요 신들 (Dii Maiores)"
+  type: vocabulary
+  words:
+  - latin: "Iuppiter"
+    translation:
+      en: "Jupiter (king of gods, sky)"
+      ko: "유피테르 (신들의 왕, 하늘)"
+    gender: m
+    notes:
+      en: "gen. Iovis; 3rd decl.; Greek equiv. Zeus; wielded thunderbolts"
+      ko: "속격 Iovis; 제3변화; 그리스 대응 제우스; 벼락을 사용"
+  - latin: "Iuno"
+    translation:
+      en: "Juno (queen of gods, marriage)"
+      ko: "유노 (여왕 신, 결혼)"
+    gender: f
+    notes:
+      en: "gen. Iūnōnis; 3rd decl.; Greek equiv. Hera"
+      ko: "속격 Iūnōnis; 제3변화; 그리스 대응 헤라"
+  - latin: "Minerva"
+    translation:
+      en: "Minerva (wisdom, war strategy)"
+      ko: "미네르바 (지혜, 전쟁 전략)"
+    gender: f
+    notes:
+      en: "gen. Minervae; 1st decl.; Greek equiv. Athena"
+      ko: "속격 Minervae; 제1변화; 그리스 대응 아테나"
+  - latin: "Mars"
+    translation:
+      en: "Mars (war)"
+      ko: "마르스 (전쟁)"
+    gender: m
+    notes:
+      en: "gen. Mārtis; 3rd decl.; Greek equiv. Ares; father of Romulus"
+      ko: "속격 Mārtis; 제3변화; 그리스 대응 아레스; 로물루스의 아버지"
+  - latin: "Venus"
+    translation:
+      en: "Venus (love, beauty)"
+      ko: "베누스 (사랑, 아름다움)"
+    gender: f
+    notes:
+      en: "gen. Veneris; 3rd decl.; Greek equiv. Aphrodite; mother of Aeneas"
+      ko: "속격 Veneris; 제3변화; 그리스 대응 아프로디테; 아이네아스의 어머니"
+  - latin: "Apollo"
+    translation:
+      en: "Apollo (sun, music, prophecy)"
+      ko: "아폴로 (태양, 음악, 예언)"
+    gender: m
+    notes:
+      en: "gen. Apollinis; 3rd decl.; same name in Greek"
+      ko: "속격 Apollinis; 제3변화; 그리스어에서도 같은 이름"
+  - latin: "Diana"
+    translation:
+      en: "Diana (moon, hunt, chastity)"
+      ko: "디아나 (달, 사냥, 순결)"
+    gender: f
+    notes:
+      en: "gen. Diānae; 1st decl.; Greek equiv. Artemis"
+      ko: "속격 Diānae; 제1변화; 그리스 대응 아르테미스"
+  - latin: "Mercurius"
+    translation:
+      en: "Mercury (trade, messengers, thieves)"
+      ko: "메르쿠리우스 (상업, 전령, 도둑)"
+    gender: m
+    notes:
+      en: "gen. Mercuriī; 2nd decl.; Greek equiv. Hermes"
+      ko: "속격 Mercuriī; 제2변화; 그리스 대응 헤르메스"
+  - latin: "Neptunus"
+    translation:
+      en: "Neptune (sea)"
+      ko: "넵투누스 (바다)"
+    gender: m
+    notes:
+      en: "gen. Neptūnī; 2nd decl.; Greek equiv. Poseidon"
+      ko: "속격 Neptūnī; 제2변화; 그리스 대응 포세이돈"
+  - latin: "Pluto"
+    translation:
+      en: "Pluto (underworld)"
+      ko: "플루토 (지하 세계)"
+    gender: m
+    notes:
+      en: "gen. Plūtōnis; 3rd decl.; also called Dis Pater; Greek equiv. Hades"
+      ko: "속격 Plūtōnis; 제3변화; Dis Pater라고도 함; 그리스 대응 하데스"
+  - latin: "Ceres"
+    translation:
+      en: "Ceres (agriculture, harvest)"
+      ko: "케레스 (농업, 수확)"
+    gender: f
+    notes:
+      en: "gen. Cereris; 3rd decl.; Greek equiv. Demeter"
+      ko: "속격 Cereris; 제3변화; 그리스 대응 데메테르"
+  - latin: "Bacchus"
+    translation:
+      en: "Bacchus (wine, revelry)"
+      ko: "바쿠스 (포도주, 축제)"
+    gender: m
+    notes:
+      en: "gen. Bacchī; 2nd decl.; also Liber; Greek equiv. Dionysus"
+      ko: "속격 Bacchī; 제2변화; Liber라고도 함; 그리스 대응 디오니소스"
+  - latin: "Vulcanus"
+    translation:
+      en: "Vulcan (fire, forge)"
+      ko: "불카누스 (불, 대장간)"
+    gender: m
+    notes:
+      en: "gen. Vulcānī; 2nd decl.; Greek equiv. Hephaestus"
+      ko: "속격 Vulcānī; 제2변화; 그리스 대응 헤파이스토스"
+  - latin: "Vesta"
+    translation:
+      en: "Vesta (hearth, home)"
+      ko: "베스타 (화덕, 가정)"
+    gender: f
+    notes:
+      en: "gen. Vestae; 1st decl.; Greek equiv. Hestia; tended by Vestal Virgins"
+      ko: "속격 Vestae; 제1변화; 그리스 대응 헤스티아; 베스타 처녀들이 시중"
+  - latin: "Saturnus"
+    translation:
+      en: "Saturn (time, harvest)"
+      ko: "사투르누스 (시간, 수확)"
+    gender: m
+    notes:
+      en: "gen. Saturnī; 2nd decl.; Greek equiv. Kronos; Saturnalia festival"
+      ko: "속격 Saturnī; 제2변화; 그리스 대응 크로노스; 사투르날리아 축제"
+  - latin: "Ianus"
+    translation:
+      en: "Janus (doorways, beginnings, endings)"
+      ko: "야누스 (문, 시작, 끝)"
+    gender: m
+    notes:
+      en: "gen. Iānī; 2nd decl.; two-faced; no Greek equivalent; January named after him"
+      ko: "속격 Iānī; 제2변화; 두 얼굴; 그리스 대응 없음; 1월이 그의 이름에서 유래"
+- id: heroes
+  label:
+    en: "Heroes and Legendary Figures"
+    ko: "영웅과 전설적 인물"
+  type: vocabulary
+  words:
+  - latin: "Romulus"
+    translation:
+      en: "Romulus (founder of Rome)"
+      ko: "로물루스 (로마 건국자)"
+    gender: m
+    notes:
+      en: "gen. Rōmulī; 2nd decl.; son of Mars and Rhea Silvia"
+      ko: "속격 Rōmulī; 제2변화; 마르스와 레아 실비아의 아들"
+  - latin: "Remus"
+    translation:
+      en: "Remus (twin brother of Romulus)"
+      ko: "레무스 (로물루스의 쌍둥이 형제)"
+    gender: m
+    notes:
+      en: "gen. Remī; 2nd decl.; killed by Romulus"
+      ko: "속격 Remī; 제2변화; 로물루스에 의해 살해됨"
+  - latin: "Aeneas"
+    translation:
+      en: "Aeneas (Trojan hero, Roman ancestor)"
+      ko: "아이네아스 (트로이 영웅, 로마 조상)"
+    gender: m
+    notes:
+      en: "gen. Aenēae; 1st decl. (Greek); hero of Vergil's Aeneid"
+      ko: "속격 Aenēae; 제1변화 (그리스식); 베르길리우스의 아이네이스 주인공"
+  - latin: "Hercules"
+    translation:
+      en: "Hercules (divine hero)"
+      ko: "헤르쿨레스 (신적 영웅)"
+    gender: m
+    notes:
+      en: "gen. Herculis; 3rd decl.; Greek Heracles; performed twelve labors"
+      ko: "속격 Herculis; 제3변화; 그리스 헤라클레스; 열두 가지 과업 수행"
+  - latin: "Ulixes"
+    translation:
+      en: "Ulysses (Odysseus)"
+      ko: "율리세스 (오디세우스)"
+    gender: m
+    notes:
+      en: "gen. Ulixis; 3rd decl.; Greek Odysseus; hero of Homer's Odyssey"
+      ko: "속격 Ulixis; 제3변화; 그리스 오디세우스; 호메로스 오디세이아의 주인공"
+  - latin: "Achilles"
+    translation:
+      en: "Achilles (greatest Greek warrior)"
+      ko: "아킬레우스 (최고의 그리스 전사)"
+    gender: m
+    notes:
+      en: "gen. Achillis; 3rd decl.; vulnerable only at his heel"
+      ko: "속격 Achillis; 제3변화; 발뒤꿈치만 취약"
+  - latin: "Orpheus"
+    translation:
+      en: "Orpheus (legendary musician)"
+      ko: "오르페우스 (전설적 음악가)"
+    gender: m
+    notes:
+      en: "gen. Orpheī; 2nd decl.; descended to underworld for Eurydice"
+      ko: "속격 Orpheī; 제2변화; 에우리디케를 위해 지하세계로 내려감"
+  - latin: "Perseus"
+    translation:
+      en: "Perseus (slayer of Medusa)"
+      ko: "페르세우스 (메두사를 죽인 자)"
+    gender: m
+    notes:
+      en: "gen. Perseī; 2nd decl."
+      ko: "속격 Perseī; 제2변화"
+  - latin: "Theseus"
+    translation:
+      en: "Theseus (slayer of the Minotaur)"
+      ko: "테세우스 (미노타우로스를 죽인 자)"
+    gender: m
+    notes:
+      en: "gen. Thēseī; 2nd decl."
+      ko: "속격 Thēseī; 제2변화"
+  - latin: "heros"
+    translation:
+      en: "hero, demigod"
+      ko: "영웅, 반신"
+    gender: m
+    notes:
+      en: "gen. hērōis; 3rd decl.; Greek loanword"
+      ko: "속격 hērōis; 제3변화; 그리스어 차용어"
+- id: founding_myths
+  label:
+    en: "Roman Founding Myths"
+    ko: "로마 건국 신화"
+  type: vocabulary
+  words:
+  - latin: "lupa"
+    translation:
+      en: "she-wolf (who nursed Romulus and Remus)"
+      ko: "암늑대 (로물루스와 레무스를 키운)"
+    gender: f
+    notes:
+      en: "gen. lupae; 1st decl.; symbol of Rome"
+      ko: "속격 lupae; 제1변화; 로마의 상징"
+  - latin: "Rhea Silvia"
+    translation:
+      en: "Rhea Silvia (mother of Romulus and Remus)"
+      ko: "레아 실비아 (로물루스와 레무스의 어머니)"
+    gender: f
+    notes:
+      en: "Vestal Virgin; also called Ilia"
+      ko: "베스타 처녀; 일리아라고도 불림"
+  - latin: "asylum"
+    translation:
+      en: "asylum, sanctuary (on the Capitoline)"
+      ko: "피난처, 성역 (카피톨리누스 언덕의)"
+    gender: n
+    notes:
+      en: "gen. asȳlī; 2nd decl. neuter; Romulus opened it to attract settlers"
+      ko: "속격 asȳlī; 제2변화 중성; 로물루스가 정착민을 끌어들이기 위해 개방"
+  - latin: "raptio"
+    translation:
+      en: "seizure, abduction"
+      ko: "납치, 약탈"
+    gender: f
+    notes:
+      en: "gen. raptiōnis; 3rd decl.; raptio Sabinarum = 'Rape of the Sabine Women'"
+      ko: "속격 raptiōnis; 제3변화; raptio Sabinarum = '사비니 여인들의 약탈'"
+  - latin: "Sabini"
+    translation:
+      en: "Sabines (neighboring people)"
+      ko: "사비니족 (이웃 민족)"
+    gender: m
+    notes:
+      en: "gen. Sabīnōrum; 2nd decl. plural"
+      ko: "속격 Sabīnōrum; 제2변화 복수"
+  - latin: "regnum"
+    translation:
+      en: "kingdom, royal power"
+      ko: "왕국, 왕권"
+    gender: n
+    notes:
+      en: "gen. rēgnī; 2nd decl. neuter; Rome had seven kings"
+      ko: "속격 rēgnī; 제2변화 중성; 로마에는 일곱 왕이 있었음"
+  - latin: "rex"
+    translation:
+      en: "king"
+      ko: "왕"
+    gender: m
+    notes:
+      en: "gen. rēgis; 3rd decl.; title despised after Tarquinius Superbus"
+      ko: "속격 rēgis; 제3변화; 타르퀴니우스 수페르부스 이후 경멸받는 칭호"
+- id: trojan_cycle
+  label:
+    en: "Trojan Cycle"
+    ko: "트로이 전쟁 이야기"
+  type: vocabulary
+  words:
+  - latin: "Troia"
+    translation:
+      en: "Troy"
+      ko: "트로이"
+    gender: f
+    notes:
+      en: "gen. Troiae; 1st decl.; also Ilium"
+      ko: "속격 Troiae; 제1변화; Ilium이라고도 함"
+  - latin: "Priamus"
+    translation:
+      en: "Priam (king of Troy)"
+      ko: "프리아모스 (트로이의 왕)"
+    gender: m
+    notes:
+      en: "gen. Priamī; 2nd decl."
+      ko: "속격 Priamī; 제2변화"
+  - latin: "Helena"
+    translation:
+      en: "Helen (of Troy/Sparta)"
+      ko: "헬레나 (트로이/스파르타의)"
+    gender: f
+    notes:
+      en: "gen. Helenae; 1st decl.; her abduction caused the Trojan War"
+      ko: "속격 Helenae; 제1변화; 그녀의 납치가 트로이 전쟁을 일으킴"
+  - latin: "Paris"
+    translation:
+      en: "Paris (Trojan prince)"
+      ko: "파리스 (트로이 왕자)"
+    gender: m
+    notes:
+      en: "gen. Paridis; 3rd decl.; abducted Helen"
+      ko: "속격 Paridis; 제3변화; 헬레나를 납치"
+  - latin: "equus Troianus"
+    translation:
+      en: "Trojan Horse"
+      ko: "트로이 목마"
+    gender: m
+    notes:
+      en: "2nd decl. + adj.; wooden horse used to enter Troy"
+      ko: "제2변화 + 형용사; 트로이에 진입하기 위해 사용된 목마"
+  - latin: "nympha"
+    translation:
+      en: "nymph"
+      ko: "님프"
+    gender: f
+    notes:
+      en: "gen. nymphae; 1st decl.; minor nature goddess"
+      ko: "속격 nymphae; 제1변화; 하위 자연 여신"
+  - latin: "fatum"
+    translation:
+      en: "fate, destiny"
+      ko: "운명"
+    gender: n
+    notes:
+      en: "gen. fātī; 2nd decl. neuter; pl. fata = 'the Fates'"
+      ko: "속격 fātī; 제2변화 중성; 복수 fata = '운명의 여신들'"
+  - latin: "oraculum"
+    translation:
+      en: "oracle, prophecy"
+      ko: "신탁, 예언"
+    gender: n
+    notes:
+      en: "gen. ōrāculī; 2nd decl. neuter; oraculum Delphicum = 'Delphic oracle'"
+      ko: "속격 ōrāculī; 제2변화 중성; oraculum Delphicum = '델피 신탁'"
+  - latin: "augurium"
+    translation:
+      en: "augury, omen"
+      ko: "점, 징조"
+    gender: n
+    notes:
+      en: "gen. auguriī; 2nd decl. neuter; divination from bird behavior"
+      ko: "속격 auguriī; 제2변화 중성; 새의 행동으로부터 점침"
+  - latin: "prodigium"
+    translation:
+      en: "portent, omen, marvel"
+      ko: "전조, 징조, 경이"
+    gender: n
+    notes:
+      en: "gen. prōdigiī; 2nd decl. neuter"
+      ko: "속격 prōdigiī; 제2변화 중성"
+  - latin: "sacerdos"
+    translation:
+      en: "priest, priestess"
+      ko: "사제, 여사제"
+    gender: m
+    notes:
+      en: "gen. sacerdōtis; 3rd decl.; m/f"
+      ko: "속격 sacerdōtis; 제3변화; 남/여"
+  - latin: "sacrificium"
+    translation:
+      en: "sacrifice"
+      ko: "제물, 희생"
+    gender: n
+    notes:
+      en: "gen. sacrificiī; 2nd decl. neuter"
+      ko: "속격 sacrificiī; 제2변화 중성"
+  - latin: "deus"
+    translation:
+      en: "god"
+      ko: "신"
+    gender: m
+    notes:
+      en: "gen. deī; 2nd decl.; pl. dī or deī"
+      ko: "속격 deī; 제2변화; 복수 dī 또는 deī"
+  - latin: "dea"
+    translation:
+      en: "goddess"
+      ko: "여신"
+    gender: f
+    notes:
+      en: "gen. deae; 1st decl.; dat./abl. pl. deābus"
+      ko: "속격 deae; 제1변화; 여격/탈격 복수 deābus"
+  - latin: "numen"
+    translation:
+      en: "divine power, divine will"
+      ko: "신의 힘, 신의 뜻"
+    gender: n
+    notes:
+      en: "gen. nūminis; 3rd decl."
+      ko: "속격 nūminis; 제3변화"
+  - latin: "religio"
+    translation:
+      en: "religion, reverence, scruple"
+      ko: "종교, 경외, 양심의 가책"
+    gender: f
+    notes:
+      en: "gen. religiōnis; 3rd decl."
+      ko: "속격 religiōnis; 제3변화"
+  - latin: "pietas"
+    translation:
+      en: "piety, devotion (to gods)"
+      ko: "경건, 헌신 (신에 대한)"
+    gender: f
+    notes:
+      en: "gen. pietātis; 3rd decl.; key virtue of Aeneas"
+      ko: "속격 pietātis; 제3변화; 아이네아스의 핵심 덕목"
+  - latin: "supplicatio"
+    translation:
+      en: "public thanksgiving, prayer"
+      ko: "공적 감사제, 기도"
+    gender: f
+    notes:
+      en: "gen. supplicātiōnis; 3rd decl."
+      ko: "속격 supplicātiōnis; 제3변화"
+  - latin: "libatio"
+    translation:
+      en: "libation, drink offering"
+      ko: "헌주, 음료 봉헌"
+    gender: f
+    notes:
+      en: "gen. libātiōnis; 3rd decl."
+      ko: "속격 libātiōnis; 제3변화"
+  - latin: "auspicium"
+    translation:
+      en: "auspice, omen (from birds)"
+      ko: "점, 징조 (새로부터)"
+    gender: n
+    notes:
+      en: "gen. auspiciī; 2nd decl. neuter; from avis + specere"
+      ko: "속격 auspiciī; 제2변화 중성; avis + specere에서 유래"
+  - latin: "haruspex"
+    translation:
+      en: "haruspex (entrail diviner)"
+      ko: "하루스펙스 (내장 점술사)"
+    gender: m
+    notes:
+      en: "gen. haruspicis; 3rd decl.; Etruscan origin"
+      ko: "속격 haruspicis; 제3변화; 에트루리아 기원"
+  - latin: "augur"
+    translation:
+      en: "augur (bird diviner)"
+      ko: "아우구르 (조점관)"
+    gender: m
+    notes:
+      en: "gen. auguris; 3rd decl."
+      ko: "속격 auguris; 제3변화"
+  - latin: "Vesta"
+    translation:
+      en: "Vesta (goddess of hearth)"
+      ko: "베스타 (화덕의 여신)"
+    gender: f
+    notes:
+      en: "gen. Vestae; 1st decl.; Vestal Virgins maintained sacred fire"
+      ko: "속격 Vestae; 제1변화; 베스타 처녀들이 성화를 유지"
+  - latin: "vestalis"
+    translation:
+      en: "Vestal Virgin"
+      ko: "베스타 처녀"
+    gender: f
+    notes:
+      en: "gen. vestālis; 3rd decl.; served for 30 years"
+      ko: "속격 vestālis; 제3변화; 30년간 봉사"
+  - latin: "pontifex"
+    translation:
+      en: "pontiff, high priest"
+      ko: "최고 사제"
+    gender: m
+    notes:
+      en: "gen. pontificis; 3rd decl.; pontifex maximus = 'chief priest'"
+      ko: "속격 pontificis; 제3변화; pontifex maximus = '대사제'"
+- id: mythological_creatures
+  label:
+    en: "Mythological Creatures"
+    ko: "신화적 존재"
+  type: vocabulary
+  words:
+  - latin: "draco"
+    translation:
+      en: "dragon, serpent"
+      ko: "용, 큰 뱀"
+    gender: m
+    notes:
+      en: "gen. dracōnis; 3rd decl."
+      ko: "속격 dracōnis; 제3변화"
+  - latin: "Minotaurus"
+    translation:
+      en: "Minotaur"
+      ko: "미노타우로스"
+    gender: m
+    notes:
+      en: "gen. Minotaurī; 2nd decl.; half-man, half-bull"
+      ko: "속격 Minotaurī; 제2변화; 반인반우"
+  - latin: "Cyclops"
+    translation:
+      en: "Cyclops (one-eyed giant)"
+      ko: "키클롭스 (외눈 거인)"
+    gender: m
+    notes:
+      en: "gen. Cyclōpis; 3rd decl.; Polyphemus most famous"
+      ko: "속격 Cyclōpis; 제3변화; 폴리페모스가 가장 유명"
+  - latin: "Hydra"
+    translation:
+      en: "Hydra (many-headed serpent)"
+      ko: "히드라 (다두 뱀)"
+    gender: f
+    notes:
+      en: "gen. Hydrae; 1st decl.; killed by Hercules"
+      ko: "속격 Hydrae; 제1변화; 헤르쿨레스에 의해 퇴치"
+  - latin: "Cerberus"
+    translation:
+      en: "Cerberus (three-headed dog)"
+      ko: "케르베로스 (머리 셋 달린 개)"
+    gender: m
+    notes:
+      en: "gen. Cerberī; 2nd decl.; guardian of the underworld"
+      ko: "속격 Cerberī; 제2변화; 지하세계의 수호자"
+  - latin: "Sirenes"
+    translation:
+      en: "Sirens"
+      ko: "세이렌"
+    gender: f
+    notes:
+      en: "gen. Sīrēnum; 3rd decl. plural; lured sailors with song"
+      ko: "속격 Sīrēnum; 제3변화 복수; 노래로 선원을 유혹"
+  - latin: "Medusa"
+    translation:
+      en: "Medusa (Gorgon)"
+      ko: "메두사 (고르곤)"
+    gender: f
+    notes:
+      en: "gen. Medūsae; 1st decl.; her gaze turned men to stone"
+      ko: "속격 Medūsae; 제1변화; 그녀의 시선이 사람을 돌로 변환"
+  - latin: "centaurus"
+    translation:
+      en: "centaur (half-man, half-horse)"
+      ko: "켄타우로스 (반인반마)"
+    gender: m
+    notes:
+      en: "gen. centaurī; 2nd decl."
+      ko: "속격 centaurī; 제2변화"
+  - latin: "Sphinx"
+    translation:
+      en: "Sphinx"
+      ko: "스핑크스"
+    gender: f
+    notes:
+      en: "gen. Sphingis; 3rd decl.; posed riddles"
+      ko: "속격 Sphingis; 제3변화; 수수께끼를 냄"
+  - latin: "Chimaera"
+    translation:
+      en: "Chimera (fire-breathing monster)"
+      ko: "키마이라 (불을 뿜는 괴물)"
+    gender: f
+    notes:
+      en: "gen. Chimaerae; 1st decl.; lion, goat, serpent combined"
+      ko: "속격 Chimaerae; 제1변화; 사자, 염소, 뱀의 합체"
+  - latin: "Pegasus"
+    translation:
+      en: "Pegasus (winged horse)"
+      ko: "페가수스 (날개 달린 말)"
+    gender: m
+    notes:
+      en: "gen. Pegasī; 2nd decl.; born from Medusa's blood"
+      ko: "속격 Pegasī; 제2변화; 메두사의 피에서 탄생"
+  - latin: "Parcae"
+    translation:
+      en: "the Fates (three goddesses)"
+      ko: "운명의 세 여신"
+    gender: f
+    notes:
+      en: "gen. Parcārum; 1st decl. plural; Clotho, Lachesis, Atropos"
+      ko: "속격 Parcārum; 제1변화 복수; 클로토, 라케시스, 아트로포스"
+  - latin: "Manes"
+    translation:
+      en: "spirits of the dead"
+      ko: "망자의 영혼"
+    gender: m
+    notes:
+      en: "gen. Mānium; 3rd decl. plural; Dis Manibus = 'to the divine shades'"
+      ko: "속격 Mānium; 제3변화 복수; Dis Manibus = '신성한 영혼들에게'"
+  - latin: "Lares"
+    translation:
+      en: "Lares (household guardian spirits)"
+      ko: "라레스 (가정 수호 영혼)"
+    gender: m
+    notes:
+      en: "gen. Lārium; 3rd decl. plural"
+      ko: "속격 Lārium; 제3변화 복수"
+  - latin: "Penates"
+    translation:
+      en: "Penates (spirits of the pantry)"
+      ko: "페나테스 (식료품 저장소의 수호신)"
+    gender: m
+    notes:
+      en: "gen. Penātium; 3rd decl. plural"
+      ko: "속격 Penātium; 제3변화 복수"
+  - latin: "Tartarus"
+    translation:
+      en: "Tartarus (underworld, hell)"
+      ko: "타르타로스 (지하세계, 지옥)"
+    gender: m
+    notes:
+      en: "gen. Tartarī; 2nd decl.; deepest part of underworld"
+      ko: "속격 Tartarī; 제2변화; 지하세계의 가장 깊은 곳"
+  - latin: "Elysium"
+    translation:
+      en: "Elysium (paradise for the virtuous dead)"
+      ko: "엘리시움 (덕 있는 망자의 낙원)"
+    gender: n
+    notes:
+      en: "gen. Ēlysiī; 2nd decl. neuter; Campi Elysii = 'Elysian Fields'"
+      ko: "속격 Ēlysiī; 제2변화 중성; Campi Elysii = '엘리시움 들판'"
+  - latin: "Styx"
+    translation:
+      en: "Styx (river of the underworld)"
+      ko: "스틱스 (지하세계의 강)"
+    gender: f
+    notes:
+      en: "gen. Stygis; 3rd decl.; oath by Styx was unbreakable"
+      ko: "속격 Stygis; 제3변화; 스틱스에 의한 맹세는 파기 불가"
+  - latin: "Charon"
+    translation:
+      en: "Charon (ferryman of the dead)"
+      ko: "카론 (망자의 뱃사공)"
+    gender: m
+    notes:
+      en: "gen. Charōnis; 3rd decl.; required a coin for passage"
+      ko: "속격 Charōnis; 제3변화; 건너기 위해 동전 필요"
+- id: religious_practices
+  label:
+    en: "Religious Practices"
+    ko: "종교 의례"
+  type: vocabulary
+  words:
+  - latin: "templum"
+    translation:
+      en: "temple, sacred precinct"
+      ko: "신전, 성역"
+    gender: n
+    notes:
+      en: "gen. templī; 2nd decl. neuter"
+      ko: "속격 templī; 제2변화 중성"
+  - latin: "ara"
+    translation:
+      en: "altar"
+      ko: "제단"
+    gender: f
+    notes:
+      en: "gen. ārae; 1st decl."
+      ko: "속격 ārae; 제1변화"
+  - latin: "victima"
+    translation:
+      en: "sacrificial animal, victim"
+      ko: "제물용 동물, 희생물"
+    gender: f
+    notes:
+      en: "gen. victimae; 1st decl."
+      ko: "속격 victimae; 제1변화"
+  - latin: "hostia"
+    translation:
+      en: "sacrificial victim"
+      ko: "제물"
+    gender: f
+    notes:
+      en: "gen. hostiae; 1st decl."
+      ko: "속격 hostiae; 제1변화"
+  - latin: "tus"
+    translation:
+      en: "incense, frankincense"
+      ko: "향, 유향"
+    gender: n
+    notes:
+      en: "gen. tūris; 3rd decl."
+      ko: "속격 tūris; 제3변화"
+  - latin: "precatio"
+    translation:
+      en: "prayer"
+      ko: "기도"
+    gender: f
+    notes:
+      en: "gen. precātiōnis; 3rd decl."
+      ko: "속격 precātiōnis; 제3변화"
+  - latin: "votum"
+    translation:
+      en: "vow, votive offering"
+      ko: "서원, 봉헌물"
+    gender: n
+    notes:
+      en: "gen. vōtī; 2nd decl. neuter; votum solvere = 'to fulfill a vow'"
+      ko: "속격 vōtī; 제2변화 중성; votum solvere = '서원을 이행하다'"
+  - latin: "ritus"
+    translation:
+      en: "rite, ceremony"
+      ko: "의식, 의례"
+    gender: m
+    notes:
+      en: "gen. ritūs; 4th decl."
+      ko: "속격 ritūs; 제4변화"
+  - latin: "lustrum"
+    translation:
+      en: "purification ceremony"
+      ko: "정화 의식"
+    gender: n
+    notes:
+      en: "gen. lūstrī; 2nd decl. neuter; performed every five years"
+      ko: "속격 lūstrī; 제2변화 중성; 5년마다 거행"
+  - latin: "feriae"
+    translation:
+      en: "holidays, festivals"
+      ko: "축일, 축제"
+    gender: f
+    notes:
+      en: "gen. fēriārum; 1st decl. plural; always plural"
+      ko: "속격 fēriārum; 제1변화 복수; 항상 복수형"
+  - latin: "Saturnalia"
+    translation:
+      en: "Saturnalia (December festival)"
+      ko: "사투르날리아 (12월 축제)"
+    gender: n
+    notes:
+      en: "gen. Saturnālium; 2nd decl. neuter plural; gift-giving and feasting"
+      ko: "속격 Saturnālium; 제2변화 중성 복수; 선물 교환과 향연"
+  - latin: "Lupercalia"
+    translation:
+      en: "Lupercalia (February fertility festival)"
+      ko: "루페르칼리아 (2월 풍요 축제)"
+    gender: n
+    notes:
+      en: "gen. Lupercālium; 2nd decl. neuter plural"
+      ko: "속격 Lupercālium; 제2변화 중성 복수"
+  - latin: "genius"
+    translation:
+      en: "guardian spirit, genius"
+      ko: "수호 영혼, 게니우스"
+    gender: m
+    notes:
+      en: "gen. geniī; 2nd decl.; personal protective spirit of a man"
+      ko: "속격 geniī; 제2변화; 남자의 개인 수호 영혼"
+  - latin: "Iuno"
+    translation:
+      en: "Juno (guardian spirit of women)"
+      ko: "유노 (여성의 수호 영혼)"
+    gender: f
+    notes:
+      en: "gen. Iūnōnis; 3rd decl.; female equivalent of genius"
+      ko: "속격 Iūnōnis; 제3변화; genius의 여성 대응"
+  - latin: "omen"
+    translation:
+      en: "omen, sign"
+      ko: "전조, 징후"
+    gender: n
+    notes:
+      en: "gen. ōminis; 3rd decl."
+      ko: "속격 ōminis; 제3변화"
+  - latin: "portentum"
+    translation:
+      en: "portent, prodigy"
+      ko: "전조, 경이"
+    gender: n
+    notes:
+      en: "gen. portentī; 2nd decl. neuter"
+      ko: "속격 portentī; 제2변화 중성"
+  - latin: "miraculum"
+    translation:
+      en: "wonder, miracle"
+      ko: "경이, 기적"
+    gender: n
+    notes:
+      en: "gen. mīrāculī; 2nd decl. neuter"
+      ko: "속격 mīrāculī; 제2변화 중성"
+  - latin: "metamorphosis"
+    translation:
+      en: "transformation, metamorphosis"
+      ko: "변신, 변형"
+    gender: f
+    notes:
+      en: "gen. metamorphōsis; 3rd decl.; Greek loanword; Ovid's famous work"
+      ko: "속격 metamorphōsis; 제3변화; 그리스어 차용어; 오비디우스의 유명한 작품"
+- id: underworld
+  label:
+    en: "The Underworld"
+    ko: "지하 세계"
+  type: vocabulary
+  words:
+  - latin: "Orcus"
+    translation:
+      en: "Orcus (god of the dead)"
+      ko: "오르쿠스 (죽은 자의 신)"
+    gender: m
+    notes:
+      en: "gen. Orcī; 2nd decl.; synonym for the underworld itself"
+      ko: "속격 Orcī; 제2변화; 지하 세계 자체의 동의어"
+  - latin: "Proserpina"
+    translation:
+      en: "Proserpina (queen of the underworld)"
+      ko: "프로세르피나 (지하 세계의 여왕)"
+    gender: f
+    notes:
+      en: "gen. Proserpinae; 1st decl.; Greek equiv. Persephone"
+      ko: "속격 Proserpinae; 제1변화; 그리스 대응 페르세포네"
+  - latin: "Lethe"
+    translation:
+      en: "Lethe (river of forgetfulness)"
+      ko: "레테 (망각의 강)"
+    gender: f
+    notes:
+      en: "gen. Lēthēs; 1st decl.; drinking its waters erased memory"
+      ko: "속격 Lēthēs; 제1변화; 물을 마시면 기억이 지워짐"
+  - latin: "Acheron"
+    translation:
+      en: "Acheron (river of woe)"
+      ko: "아케론 (슬픔의 강)"
+    gender: m
+    notes:
+      en: "gen. Acherontis; 3rd decl."
+      ko: "속격 Acherontis; 제3변화"
+  - latin: "Phlegethon"
+    translation:
+      en: "Phlegethon (river of fire)"
+      ko: "플레게톤 (불의 강)"
+    gender: m
+    notes:
+      en: "gen. Phlegethontis; 3rd decl."
+      ko: "속격 Phlegethontis; 제3변화"
+  - latin: "Cocytus"
+    translation:
+      en: "Cocytus (river of lamentation)"
+      ko: "코키투스 (통곡의 강)"
+    gender: m
+    notes:
+      en: "gen. Cocȳtī; 2nd decl."
+      ko: "속격 Cocȳtī; 제2변화"
+  - latin: "umbra"
+    translation:
+      en: "shade, ghost, spirit"
+      ko: "그림자, 망령, 영혼"
+    gender: f
+    notes:
+      en: "gen. umbrae; 1st decl.; shades of the dead in underworld"
+      ko: "속격 umbrae; 제1변화; 지하 세계의 죽은 자의 그림자"
+  - latin: "anima"
+    translation:
+      en: "soul, breath, spirit"
+      ko: "영혼, 숨, 정신"
+    gender: f
+    notes:
+      en: "gen. animae; 1st decl."
+      ko: "속격 animae; 제1변화"
+  - latin: "Erinyes"
+    translation:
+      en: "Furies (goddesses of vengeance)"
+      ko: "에리니에스 (복수의 여신들)"
+    gender: f
+    notes:
+      en: "gen. Erinyum; 3rd decl. plural; Roman name Furiae"
+      ko: "속격 Erinyum; 제3변화 복수; 로마 이름 Furiae"
+  - latin: "Furiae"
+    translation:
+      en: "Furies (Alecto, Megaera, Tisiphone)"
+      ko: "복수의 여신들 (알렉토, 메가이라, 티시포네)"
+    gender: f
+    notes:
+      en: "gen. Furiārum; 1st decl. plural; punished wrongdoers"
+      ko: "속격 Furiārum; 제1변화 복수; 죄인을 처벌"
+  - latin: "iudicium mortuorum"
+    translation:
+      en: "judgment of the dead"
+      ko: "죽은 자의 심판"
+    gender: n
+    notes:
+      en: "Minos, Rhadamanthus, Aeacus served as judges"
+      ko: "미노스, 라다만투스, 아이아코스가 심판관"
+  - latin: "Letum"
+    translation:
+      en: "death, destruction"
+      ko: "죽음, 파멸"
+    gender: n
+    notes:
+      en: "gen. Lētī; 2nd decl. neuter; personified as deity"
+      ko: "속격 Lētī; 제2변화 중성; 신격화된 죽음"
+  - latin: "nectar"
+    translation:
+      en: "nectar (drink of the gods)"
+      ko: "넥타르 (신들의 음료)"
+    gender: n
+    notes:
+      en: "gen. nectaris; 3rd decl."
+      ko: "속격 nectaris; 제3변화"
+  - latin: "ambrosia"
+    translation:
+      en: "ambrosia (food of the gods)"
+      ko: "암브로시아 (신들의 음식)"
+    gender: f
+    notes:
+      en: "gen. ambrosiae; 1st decl.; Greek loanword; conferred immortality"
+      ko: "속격 ambrosiae; 제1변화; 그리스어 차용어; 불멸을 부여"
+  - latin: "labyrinthus"
+    translation:
+      en: "labyrinth, maze"
+      ko: "미궁, 미로"
+    gender: m
+    notes:
+      en: "gen. labyrinthī; 2nd decl.; built by Daedalus on Crete"
+      ko: "속격 labyrinthī; 제2변화; 다이달로스가 크레타에 건설"
+  - latin: "Daedalus"
+    translation:
+      en: "Daedalus (legendary craftsman)"
+      ko: "다이달로스 (전설적 장인)"
+    gender: m
+    notes:
+      en: "gen. Daedalī; 2nd decl.; built wings of wax and feathers"
+      ko: "속격 Daedalī; 제2변화; 밀랍과 깃털로 날개를 제작"
+  - latin: "Icarus"
+    translation:
+      en: "Icarus (flew too close to the sun)"
+      ko: "이카루스 (태양에 너무 가까이 날아간)"
+    gender: m
+    notes:
+      en: "gen. Icarī; 2nd decl.; son of Daedalus"
+      ko: "속격 Icarī; 제2변화; 다이달로스의 아들"
+  - latin: "Prometheus"
+    translation:
+      en: "Prometheus (fire-bringer)"
+      ko: "프로메테우스 (불을 가져온 자)"
+    gender: m
+    notes:
+      en: "gen. Promētheī; 2nd decl.; punished by Zeus for giving fire to humans"
+      ko: "속격 Promētheī; 제2변화; 인간에게 불을 준 벌을 받음"
+  - latin: "Pandora"
+    translation:
+      en: "Pandora (first woman, opened the jar)"
+      ko: "판도라 (최초의 여성, 항아리를 연)"
+    gender: f
+    notes:
+      en: "gen. Pandorae; 1st decl.; released all evils into the world"
+      ko: "속격 Pandorae; 제1변화; 세상에 모든 악을 풀어냄"
+  - latin: "Argonautae"
+    translation:
+      en: "Argonauts (Jason's crew)"
+      ko: "아르고호 원정대 (이아손의 선원)"
+    gender: m
+    notes:
+      en: "gen. Argonautārum; 1st decl. plural; sailed on the Argo"
+      ko: "속격 Argonautārum; 제1변화 복수; 아르고 호를 타고 항해"
+  - latin: "Iason"
+    translation:
+      en: "Jason (seeker of the Golden Fleece)"
+      ko: "이아손 (황금 양피를 찾은 자)"
+    gender: m
+    notes:
+      en: "gen. Iasonis; 3rd decl."
+      ko: "속격 Iasonis; 제3변화"
+  - latin: "vellus aureum"
+    translation:
+      en: "Golden Fleece"
+      ko: "황금 양피"
+    gender: n
+    notes:
+      en: "3rd/2nd decl.; goal of the Argonauts' quest"
+      ko: "제3/제2변화; 아르고호 원정대의 탐색 목표"
+  - latin: "Minos"
+    translation:
+      en: "Minos (king of Crete, judge of dead)"
+      ko: "미노스 (크레타의 왕, 죽은 자의 심판관)"
+    gender: m
+    notes:
+      en: "gen. Minōis; 3rd decl."
+      ko: "속격 Minōis; 제3변화"
+  - latin: "Medea"
+    translation:
+      en: "Medea (sorceress)"
+      ko: "메데아 (마녀)"
+    gender: f
+    notes:
+      en: "gen. Medēae; 1st decl.; helped Jason obtain the Golden Fleece"
+      ko: "속격 Medēae; 제1변화; 이아손이 황금 양피를 얻도록 도움"
+  - latin: "Aeneis"
+    translation:
+      en: "Aeneid (Vergil's epic)"
+      ko: "아이네이스 (베르길리우스의 서사시)"
+    gender: f
+    notes:
+      en: "gen. Aeneidos; 3rd decl. (Greek); founding epic of Rome"
+      ko: "속격 Aeneidos; 제3변화 (그리스식); 로마 건국 서사시"
+  - latin: "Ilias"
+    translation:
+      en: "Iliad (Homer's epic)"
+      ko: "일리아스 (호메로스의 서사시)"
+    gender: f
+    notes:
+      en: "gen. Iliadis; 3rd decl.; tale of the Trojan War"
+      ko: "속격 Iliadis; 제3변화; 트로이 전쟁 이야기"
+  - latin: "Odyssea"
+    translation:
+      en: "Odyssey (Homer's epic)"
+      ko: "오디세이아 (호메로스의 서사시)"
+    gender: f
+    notes:
+      en: "gen. Odysseae; 1st decl.; Odysseus's journey home"
+      ko: "속격 Odysseae; 제1변화; 오디세우스의 귀향"
+  - latin: "Olympus"
+    translation:
+      en: "Mount Olympus (home of the gods)"
+      ko: "올림포스 산 (신들의 거처)"
+    gender: m
+    notes:
+      en: "gen. Olympī; 2nd decl."
+      ko: "속격 Olympī; 제2변화"
+  - latin: "Parnassus"
+    translation:
+      en: "Mount Parnassus (sacred to Apollo and Muses)"
+      ko: "파르나소스 산 (아폴로와 뮤즈에게 신성한)"
+    gender: m
+    notes:
+      en: "gen. Parnassī; 2nd decl."
+      ko: "속격 Parnassī; 제2변화"
+  - latin: "sacramentum"
+    translation:
+      en: "sacred oath, mystery"
+      ko: "신성한 맹세, 신비"
+    gender: n
+    notes:
+      en: "gen. sacrāmentī; 2nd decl. neuter"
+      ko: "속격 sacrāmentī; 제2변화 중성"
+  - latin: "fax"
+    translation:
+      en: "torch (used in rituals)"
+      ko: "횃불 (의식에 사용)"
+    gender: f
+    notes:
+      en: "gen. facis; 3rd decl."
+      ko: "속격 facis; 제3변화"
+  - latin: "exta"
+    translation:
+      en: "entrails (for divination)"
+      ko: "내장 (점술용)"
+    gender: n
+    notes:
+      en: "gen. extōrum; 2nd decl. neuter plural; examined by haruspex"
+      ko: "속격 extōrum; 제2변화 중성 복수; 하루스펙스가 검사"
+  - latin: "ignis sacer"
+    translation:
+      en: "sacred fire (of Vesta)"
+      ko: "성화 (베스타의)"
+    gender: m
+    notes:
+      en: "3rd decl. + adj.; kept burning perpetually"
+      ko: "제3변화 + 형용사; 영원히 타오르게 유지"
+  - latin: "carmen"
+    translation:
+      en: "incantation, spell, song"
+      ko: "주문, 마법, 노래"
+    gender: n
+    notes:
+      en: "gen. carminis; 3rd decl.; magical or religious chant"
+      ko: "속격 carminis; 제3변화; 마법적 또는 종교적 주문"
+  - latin: "Sibulla"
+    translation:
+      en: "Sibyl (prophetess)"
+      ko: "시빌라 (예언녀)"
+    gender: f
+    notes:
+      en: "gen. Sibullae; 1st decl.; Sibyl of Cumae guided Aeneas"
+      ko: "속격 Sibullae; 제1변화; 쿠마이의 시빌라가 아이네아스를 안내"
+  - latin: "diluvium"
+    translation:
+      en: "flood, deluge"
+      ko: "홍수, 대홍수"
+    gender: n
+    notes:
+      en: "gen. dīluviī; 2nd decl. neuter; Deucalion and Pyrrha survived the great flood"
+      ko: "속격 dīluviī; 제2변화 중성; 데우칼리온과 피라가 대홍수에서 살아남음"
+  - latin: "aurea aetas"
+    translation:
+      en: "Golden Age"
+      ko: "황금 시대"
+    gender: f
+    notes:
+      en: "1st/3rd decl.; mythical age of peace under Saturn"
+      ko: "제1/제3변화; 사투르누스 치하의 신화적 평화 시대"

@@ -1,0 +1,428 @@
+lesson: 23_Roman_Civilization_and_Culture
+lesson_number: 23
+cefr: C1
+categories:
+- id: 231_government_vocabulary
+  label:
+    en: 23.1 Government Vocabulary
+    ko: 23.1 정치 어휘
+  type: vocabulary
+  words:
+  - latin: senatus
+    translation:
+      en: senate
+      ko: 원로원
+    gender: m
+    notes:
+      en: "4th decl.; from senex (old man); the supreme advisory body of Rome"
+      ko: "제4변화; senex(노인)에서 유래; 로마의 최고 자문 기관"
+  - latin: consul
+    translation:
+      en: consul
+      ko: 집정관
+    gender: m
+    notes:
+      en: "Two consuls elected annually; highest regular magistracy"
+      ko: "매년 두 명의 집정관 선출; 최고 정규 관직"
+  - latin: praetor
+    translation:
+      en: praetor
+      ko: 법무관
+    gender: m
+    notes:
+      en: "Magistrate responsible for administering justice"
+      ko: "사법 행정을 담당하는 관리"
+  - latin: tribunus
+    translation:
+      en: tribune
+      ko: 호민관
+    gender: m
+    notes:
+      en: "Tribunus plebis = tribune of the plebs; had veto power (intercessio)"
+      ko: "Tribunus plebis = 평민 호민관; 거부권(intercessio)을 가짐"
+  - latin: aedilis
+    translation:
+      en: aedile
+      ko: 안찰관
+    gender: m
+    notes:
+      en: "Magistrate overseeing public works, markets, and games"
+      ko: "공공사업, 시장, 경기를 감독하는 관리"
+  - latin: censor
+    translation:
+      en: censor
+      ko: 감찰관
+    gender: m
+    notes:
+      en: "Conducted the census and supervised public morality"
+      ko: "인구조사를 실시하고 공중 도덕을 감독"
+  - latin: dictator
+    translation:
+      en: dictator
+      ko: 독재관
+    gender: m
+    notes:
+      en: "Emergency magistrate with absolute power for six months"
+      ko: "6개월 동안 절대 권력을 가진 비상 관리"
+  - latin: imperator
+    translation:
+      en: commander, emperor
+      ko: 사령관, 황제
+    gender: m
+    notes:
+      en: "Originally a military title; later the title of Roman emperors"
+      ko: "원래 군사 칭호; 나중에 로마 황제의 칭호"
+  - latin: comitia
+    translation:
+      en: assembly (for voting)
+      ko: 민회 (투표를 위한)
+    gender: n
+    notes:
+      en: "Plural; the Roman popular assemblies where laws were passed"
+      ko: "복수형; 법률이 통과되는 로마 민회"
+  - latin: suffragium
+    translation:
+      en: vote, right to vote
+      ko: 투표, 투표권
+    gender: n
+    notes:
+      en: "Source of English 'suffrage'"
+      ko: "영어 'suffrage'의 어원"
+  - latin: lex
+    translation:
+      en: law, statute
+      ko: 법, 법률
+    gender: f
+    notes:
+      en: "Gen. legis; source of English 'legal' and 'legislate'"
+      ko: "속격 legis; 영어 'legal'과 'legislate'의 어원"
+  - latin: intercessio
+    translation:
+      en: veto, intercession
+      ko: 거부권, 중재
+    gender: f
+    notes:
+      en: "The tribune's power to block any official action"
+      ko: "호민관이 모든 공식 행위를 저지할 수 있는 권한"
+  - latin: provincia
+    translation:
+      en: province, sphere of command
+      ko: 속주, 관할 영역
+    gender: f
+    notes:
+      en: "Originally a magistrate's assigned task; later a governed territory"
+      ko: "원래 관리에게 배정된 임무; 나중에 통치되는 영토"
+- id: 232_social_structure
+  label:
+    en: 23.2 Social Structure
+    ko: 23.2 사회 구조
+  type: vocabulary
+  words:
+  - latin: patricius
+    translation:
+      en: patrician, nobleman
+      ko: 귀족
+    gender: m
+    notes:
+      en: "The hereditary aristocratic class of Rome"
+      ko: "로마의 세습 귀족 계급"
+  - latin: plebs
+    translation:
+      en: common people, plebeians
+      ko: 평민
+    gender: f
+    notes:
+      en: "Gen. plebis; the non-patrician citizen body"
+      ko: "속격 plebis; 귀족이 아닌 시민 집단"
+  - latin: eques
+    translation:
+      en: knight, equestrian
+      ko: 기사, 기마 계급
+    gender: m
+    notes:
+      en: "Gen. equitis; the wealthy business class below senators"
+      ko: "속격 equitis; 원로원 의원 아래의 부유한 상업 계급"
+  - latin: senator
+    translation:
+      en: senator
+      ko: 원로원 의원
+    gender: m
+    notes:
+      en: "Member of the senatus; wore a toga with a broad purple stripe"
+      ko: "원로원 구성원; 넓은 자주색 줄무늬가 있는 토가를 착용"
+  - latin: cliens
+    translation:
+      en: client, dependent
+      ko: 피보호자
+    gender: m
+    notes:
+      en: "Gen. clientis; bound to a patronus in mutual obligation"
+      ko: "속격 clientis; 상호 의무로 후원자에게 결속됨"
+  - latin: patronus
+    translation:
+      en: patron, protector
+      ko: 후원자, 보호자
+    gender: m
+    notes:
+      en: "A powerful citizen who protected and supported his clientes"
+      ko: "자신의 피보호자들을 보호하고 지원하는 유력 시민"
+  - latin: libertus
+    translation:
+      en: freedman
+      ko: 해방 노예
+    gender: m
+    notes:
+      en: "A manumitted slave; gained limited citizenship rights"
+      ko: "해방된 노예; 제한적 시민권을 획득"
+  - latin: servus
+    translation:
+      en: slave
+      ko: 노예
+    gender: m
+    notes:
+      en: "Slaves had no legal rights; could be freed (manumissio)"
+      ko: "노예는 법적 권리가 없었음; 해방(manumissio)될 수 있었음"
+  - latin: gens
+    translation:
+      en: clan, family line
+      ko: 씨족, 가문
+    gender: f
+    notes:
+      en: "Gen. gentis; a group of families sharing a nomen (clan name)"
+      ko: "속격 gentis; nomen(씨족명)을 공유하는 가족 집단"
+  - latin: pater familias
+    translation:
+      en: head of household
+      ko: 가장, 가부장
+    gender: m
+    notes:
+      en: "Held patria potestas (paternal power) over all family members"
+      ko: "모든 가족 구성원에 대해 patria potestas(부권)를 행사"
+  - latin: matrona
+    translation:
+      en: married woman, matron
+      ko: 기혼 여성, 귀부인
+    gender: f
+    notes:
+      en: "A respectable married woman; wore the stola"
+      ko: "존경받는 기혼 여성; 스톨라를 착용"
+- id: 233_architecture_terms
+  label:
+    en: 23.3 Architecture Terms
+    ko: 23.3 건축 용어
+  type: vocabulary
+  words:
+  - latin: forum
+    translation:
+      en: forum, public square
+      ko: 포럼, 공공 광장
+    gender: n
+    notes:
+      en: "The political, commercial, and judicial heart of Rome"
+      ko: "로마의 정치, 상업, 사법의 중심지"
+  - latin: basilica
+    translation:
+      en: basilica, public hall
+      ko: 바실리카, 공공 건물
+    gender: f
+    notes:
+      en: "Large roofed hall for courts and business; later adopted for churches"
+      ko: "법정과 상업을 위한 대형 지붕 건물; 나중에 교회 건축에 채택"
+  - latin: aqueductus
+    translation:
+      en: aqueduct
+      ko: 수도교
+    gender: m
+    notes:
+      en: "From aqua + ducere; Rome had 11 major aqueducts"
+      ko: "aqua + ducere에서 유래; 로마에는 11개의 주요 수도교가 있었음"
+  - latin: thermae
+    translation:
+      en: baths, thermal baths
+      ko: 목욕탕, 대중목욕탕
+    gender: f
+    notes:
+      en: "Plural; large public bathing complexes; centers of social life"
+      ko: "복수형; 대형 공중목욕 단지; 사교 생활의 중심"
+  - latin: amphitheatrum
+    translation:
+      en: amphitheater
+      ko: 원형 경기장
+    gender: n
+    notes:
+      en: "The Colosseum is the most famous amphitheatrum"
+      ko: "콜로세움이 가장 유명한 원형 경기장"
+  - latin: templum
+    translation:
+      en: temple
+      ko: 신전
+    gender: n
+    notes:
+      en: "Sacred space consecrated by augurs; source of English 'temple'"
+      ko: "조점관이 봉헌한 신성한 공간; 영어 'temple'의 어원"
+  - latin: arcus
+    translation:
+      en: arch, triumphal arch
+      ko: 아치, 개선문
+    gender: m
+    notes:
+      en: "4th decl.; the arch was a defining Roman engineering innovation"
+      ko: "제4변화; 아치는 로마 공학의 대표적 혁신"
+  - latin: columna
+    translation:
+      en: column, pillar
+      ko: 기둥
+    gender: f
+    notes:
+      en: "Source of English 'column'; Trajan's Column is a famous example"
+      ko: "영어 'column'의 어원; 트라야누스 기둥이 유명한 예"
+  - latin: insula
+    translation:
+      en: apartment block, island
+      ko: 아파트 건물, 섬
+    gender: f
+    notes:
+      en: "Multi-story tenement housing for Rome's urban poor"
+      ko: "로마 도시 빈민을 위한 다층 집합 주택"
+- id: 234_cultural_concepts
+  label:
+    en: 23.4 Cultural Concepts
+    ko: 23.4 문화 개념
+  type: vocabulary
+  words:
+  - latin: virtus
+    translation:
+      en: virtue, manliness, courage
+      ko: 덕, 남자다움, 용기
+    gender: f
+    notes:
+      en: "From vir (man); the supreme Roman moral quality"
+      ko: "vir(남자)에서 유래; 로마 최고의 도덕적 자질"
+  - latin: pietas
+    translation:
+      en: piety, duty, devotion
+      ko: 경건함, 의무, 헌신
+    gender: f
+    notes:
+      en: "Duty toward gods, country, and family; Aeneas's chief virtue"
+      ko: "신, 조국, 가족에 대한 의무; 아이네아스의 핵심 덕목"
+  - latin: gravitas
+    translation:
+      en: gravity, seriousness, dignity
+      ko: 위엄, 진지함, 품위
+    gender: f
+    notes:
+      en: "Weight of character expected of Roman leaders"
+      ko: "로마 지도자에게 기대되는 성품의 무게감"
+  - latin: dignitas
+    translation:
+      en: dignity, prestige, worthiness
+      ko: 위엄, 명성, 품격
+    gender: f
+    notes:
+      en: "A Roman's public standing and honor; Caesar fought to protect his dignitas"
+      ko: "로마인의 공적 지위와 명예; 카이사르는 자신의 dignitas를 지키기 위해 싸움"
+  - latin: auctoritas
+    translation:
+      en: authority, influence, prestige
+      ko: 권위, 영향력, 명망
+    gender: f
+    notes:
+      en: "Informal influence derived from one's reputation and achievements"
+      ko: "개인의 명성과 업적에서 비롯된 비공식적 영향력"
+  - latin: fides
+    translation:
+      en: faith, loyalty, trustworthiness
+      ko: 신의, 충성, 신뢰
+    gender: f
+    notes:
+      en: "5th decl.; the foundation of Roman social and political bonds"
+      ko: "제5변화; 로마 사회적, 정치적 유대의 근본"
+  - latin: mos maiorum
+    translation:
+      en: custom of the ancestors
+      ko: 조상의 관습
+    gender: m
+    notes:
+      en: "The unwritten code of ancestral tradition governing Roman conduct"
+      ko: "로마인의 행동을 지배하는 조상 전통의 불문율"
+  - latin: clementia
+    translation:
+      en: mercy, clemency
+      ko: 관용, 자비
+    gender: f
+    notes:
+      en: "A virtue associated with Julius Caesar; sparing the defeated"
+      ko: "율리우스 카이사르와 관련된 덕목; 패배자를 용서하는 것"
+  - latin: otium
+    translation:
+      en: leisure, peace, retirement
+      ko: 여가, 평화, 은퇴
+    gender: n
+    notes:
+      en: "Opposite of negotium (business); time for study and culture"
+      ko: "negotium(업무)의 반대; 학문과 문화를 위한 시간"
+  - latin: negotium
+    translation:
+      en: business, affair, occupation
+      ko: 업무, 사안, 직업
+    gender: n
+    notes:
+      en: "Literally nec + otium (not leisure); source of English 'negotiate'"
+      ko: "문자 그대로 nec + otium(여가가 아닌); 영어 'negotiate'의 어원"
+  - latin: toga
+    translation:
+      en: toga
+      ko: 토가
+    gender: f
+    notes:
+      en: "The formal garment of a Roman citizen; toga virilis worn from age 16"
+      ko: "로마 시민의 공식 의복; toga virilis는 16세부터 착용"
+  - latin: triumpus
+    translation:
+      en: triumph, triumphal procession
+      ko: 개선식
+    gender: m
+    notes:
+      en: "The supreme military honor; a victorious general's procession through Rome"
+      ko: "최고의 군사적 영예; 승리한 장군의 로마 시가행진"
+  - latin: gladiator
+    translation:
+      en: gladiator
+      ko: 검투사
+    gender: m
+    notes:
+      en: "From gladius (sword); fighters in the amphitheater"
+      ko: "gladius(검)에서 유래; 원형 경기장의 전투원"
+  - latin: ludi
+    translation:
+      en: games, public games
+      ko: 경기, 공공 경기
+    gender: m
+    notes:
+      en: "Plural; public spectacles including chariot racing and gladiatorial combat"
+      ko: "복수형; 전차 경주와 검투사 경기를 포함하는 공공 구경거리"
+  - latin: religio
+    translation:
+      en: religion, religious scruple
+      ko: 종교, 종교적 경외
+    gender: f
+    notes:
+      en: "Gen. religionis; not personal faith but proper ritual observance"
+      ko: "속격 religionis; 개인적 신앙이 아닌 적절한 의례 준수"
+  - latin: sacerdos
+    translation:
+      en: priest, priestess
+      ko: 사제, 여사제
+    gender: m
+    notes:
+      en: "Gen. sacerdotis; performed sacrifices and maintained temples"
+      ko: "속격 sacerdotis; 제사를 수행하고 신전을 관리"
+  - latin: augur
+    translation:
+      en: augur, diviner
+      ko: 조점관, 점술사
+    gender: m
+    notes:
+      en: "Official who interpreted omens from bird behavior; source of English 'augur'"
+      ko: "새의 행동에서 징조를 해석한 관리; 영어 'augur'의 어원"

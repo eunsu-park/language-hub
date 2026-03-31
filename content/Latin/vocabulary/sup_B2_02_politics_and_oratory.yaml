@@ -1,0 +1,386 @@
+lesson: sup_B2_Politics_and_Oratory
+lesson_number: 127
+type: supplementary
+topic: "Politics and Oratory"
+cefr: B2
+categories:
+- id: political_institutions
+  label:
+    en: Political Institutions
+    ko: 정치 제도
+  type: vocabulary
+  words:
+  - latin: res publica
+    translation:
+      en: republic, commonwealth, the state
+      ko: 공화국, 공공의 것, 국가
+    gender: f
+    notes:
+      en: "lit. 'public affair'; the Roman political system"
+      ko: "직역 '공공의 일'; 로마의 정치 체제"
+  - latin: imperium
+    translation:
+      en: supreme power, command, empire
+      ko: 최고 권력, 명령권, 제국
+    gender: n
+    notes:
+      en: "gen. imperiī; 2nd decl.; the power to command armies and enforce law"
+      ko: "속격 imperiī; 제2변화; 군대를 지휘하고 법을 집행하는 권한"
+  - latin: auctoritas
+    translation:
+      en: authority, influence, prestige
+      ko: 권위, 영향력, 위신
+    gender: f
+    notes:
+      en: "gen. auctōritātis; 3rd decl.; informal political influence, esp. of the Senate"
+      ko: "속격 auctōritātis; 제3변화; 특히 원로원의 비공식적 정치적 영향력"
+  - latin: potestas
+    translation:
+      en: power, legal authority, magistracy
+      ko: 권력, 법적 권한, 관직
+    gender: f
+    notes:
+      en: "gen. potestātis; 3rd decl.; official power held by magistrates"
+      ko: "속격 potestātis; 제3변화; 관리가 보유하는 공식적 권한"
+  - latin: libertas
+    translation:
+      en: liberty, freedom
+      ko: 자유
+    gender: f
+    notes:
+      en: "gen. lībertātis; 3rd decl.; a defining Roman political value"
+      ko: "속격 lībertātis; 제3변화; 로마의 핵심 정치적 가치"
+  - latin: optimates
+    translation:
+      en: the aristocratic faction, 'the best men'
+      ko: 귀족파, '최선의 사람들'
+    gender: m
+    notes:
+      en: "gen. optimātium; 3rd decl. pl.; conservative senatorial faction"
+      ko: "속격 optimātium; 제3변화 복수; 보수적 원로원 파벌"
+  - latin: populares
+    translation:
+      en: the populist faction, 'men of the people'
+      ko: 민중파, '인민의 사람들'
+    gender: m
+    notes:
+      en: "gen. populārium; 3rd decl. pl.; reformist political faction"
+      ko: "속격 populārium; 제3변화 복수; 개혁주의 정치 파벌"
+  - latin: senatus
+    translation:
+      en: senate
+      ko: 원로원
+    gender: m
+    notes:
+      en: "gen. senātūs; 4th decl.; the supreme advisory council"
+      ko: "속격 senātūs; 제4변화; 최고 자문 의회"
+  - latin: consul
+    translation:
+      en: consul
+      ko: 집정관
+    gender: m
+    notes:
+      en: "gen. consulis; 3rd decl.; two elected annually as chief magistrates"
+      ko: "속격 consulis; 제3변화; 최고 관리로 매년 2명 선출"
+  - latin: praetor
+    translation:
+      en: praetor
+      ko: 법무관
+    gender: m
+    notes:
+      en: "gen. praetōris; 3rd decl.; magistrate responsible for justice"
+      ko: "속격 praetōris; 제3변화; 사법을 담당하는 관리"
+  - latin: tribunus plebis
+    translation:
+      en: tribune of the plebs
+      ko: 호민관
+    gender: m
+    notes:
+      en: "protector of plebeian rights; held sacrosanctitas and ius intercedendi (veto)"
+      ko: "평민의 권리 수호자; 신성불가침권과 거부권(ius intercedendi)을 보유"
+  - latin: censor
+    translation:
+      en: censor
+      ko: 감찰관
+    gender: m
+    notes:
+      en: "gen. censōris; 3rd decl.; supervised census, public morals, contracts"
+      ko: "속격 censōris; 제3변화; 인구 조사, 공중 도덕, 계약을 감독"
+  - latin: dictator
+    translation:
+      en: dictator
+      ko: 독재관
+    gender: m
+    notes:
+      en: "gen. dictātōris; 3rd decl.; emergency magistrate with absolute power for six months"
+      ko: "속격 dictātōris; 제3변화; 6개월간 절대 권력을 가진 비상 관리"
+  - latin: comitia
+    translation:
+      en: assembly, voting assembly
+      ko: 민회
+    gender: n
+    notes:
+      en: "gen. comitiōrum; 2nd decl. pl.; comitia centuriāta, comitia tribūta"
+      ko: "속격 comitiōrum; 제2변화 복수; 켄투리아 민회, 트리부스 민회"
+  - latin: contio
+    translation:
+      en: public meeting, political assembly
+      ko: 공개 집회, 정치 집회
+    gender: f
+    notes:
+      en: "gen. contiōnis; 3rd decl.; informal assembly for speeches"
+      ko: "속격 contiōnis; 제3변화; 연설을 위한 비공식 집회"
+  - latin: suffragium
+    translation:
+      en: vote, right to vote
+      ko: 투표, 투표권
+    gender: n
+    notes:
+      en: "gen. suffrāgiī; 2nd decl."
+      ko: "속격 suffrāgiī; 제2변화"
+  - latin: provincia
+    translation:
+      en: province, sphere of command
+      ko: 속주, 명령 관할 영역
+    gender: f
+    notes:
+      en: "gen. prōvinciae; 1st decl.; assigned area of administrative responsibility"
+      ko: "속격 prōvinciae; 제1변화; 할당된 행정 관할 지역"
+  - latin: magistratus
+    translation:
+      en: magistrate, public office
+      ko: 관리, 공직
+    gender: m
+    notes:
+      en: "gen. magistrātūs; 4th decl.; any elected Roman official"
+      ko: "속격 magistrātūs; 제4변화; 선출된 로마 공직자"
+  - latin: cursus honorum
+    translation:
+      en: sequence of public offices, political career
+      ko: 명예의 행진, 공직 순서
+    gender: m
+    notes:
+      en: "the fixed order of magistracies: quaestor → aedilis → praetor → consul"
+      ko: "관직의 고정된 순서: 재무관 → 안찰관 → 법무관 → 집정관"
+
+- id: rhetorical_terms
+  label:
+    en: Rhetorical Terms
+    ko: 수사학 용어
+  type: vocabulary
+  words:
+  - latin: rhetorica
+    translation:
+      en: rhetoric, the art of persuasion
+      ko: 수사학, 설득의 기술
+    gender: f
+    notes:
+      en: "gen. rhētoricae; 1st decl.; Greek loanword"
+      ko: "속격 rhētoricae; 제1변화; 그리스어 차용어"
+  - latin: eloquentia
+    translation:
+      en: eloquence
+      ko: 웅변, 유창함
+    gender: f
+    notes:
+      en: "gen. ēloquentiae; 1st decl.; the ideal of the Roman orator"
+      ko: "속격 ēloquentiae; 제1변화; 로마 웅변가의 이상"
+  - latin: persuasio
+    translation:
+      en: persuasion, conviction
+      ko: 설득
+    gender: f
+    notes:
+      en: "gen. persuāsiōnis; 3rd decl."
+      ko: "속격 persuāsiōnis; 제3변화"
+  - latin: inventio
+    translation:
+      en: invention, discovery of arguments
+      ko: 발명, 논증의 발견
+    gender: f
+    notes:
+      en: "gen. inventiōnis; 3rd decl.; first of five canons of rhetoric"
+      ko: "속격 inventiōnis; 제3변화; 수사학 5대 규범 중 첫 번째"
+  - latin: dispositio
+    translation:
+      en: arrangement, organization of a speech
+      ko: 배열, 연설의 구성
+    gender: f
+    notes:
+      en: "gen. dispositiōnis; 3rd decl.; second canon of rhetoric"
+      ko: "속격 dispositiōnis; 제3변화; 수사학 5대 규범 중 두 번째"
+  - latin: elocutio
+    translation:
+      en: style, expression, diction
+      ko: 문체, 표현, 수사
+    gender: f
+    notes:
+      en: "gen. ēlocūtiōnis; 3rd decl.; third canon; word choice and figures"
+      ko: "속격 ēlocūtiōnis; 제3변화; 세 번째 규범; 어휘 선택과 비유"
+  - latin: memoria
+    translation:
+      en: memory, memorization
+      ko: 기억, 암기
+    gender: f
+    notes:
+      en: "gen. memoriae; 1st decl.; fourth canon of rhetoric"
+      ko: "속격 memoriae; 제1변화; 수사학 5대 규범 중 네 번째"
+  - latin: actio
+    translation:
+      en: delivery, performance, gesture
+      ko: 전달, 연기, 몸짓
+    gender: f
+    notes:
+      en: "gen. āctiōnis; 3rd decl.; fifth canon; voice and gesture"
+      ko: "속격 āctiōnis; 제3변화; 다섯 번째 규범; 목소리와 몸짓"
+  - latin: exordium
+    translation:
+      en: introduction, opening of a speech
+      ko: 서론, 연설의 시작
+    gender: n
+    notes:
+      en: "gen. exordiī; 2nd decl.; designed to win audience goodwill"
+      ko: "속격 exordiī; 제2변화; 청중의 호의를 얻기 위해 설계됨"
+  - latin: narratio
+    translation:
+      en: narration, statement of facts
+      ko: 서술, 사실 진술
+    gender: f
+    notes:
+      en: "gen. narrātiōnis; 3rd decl.; part of a forensic speech"
+      ko: "속격 narrātiōnis; 제3변화; 법정 연설의 일부"
+  - latin: confirmatio
+    translation:
+      en: proof, confirmation of arguments
+      ko: 논증, 주장의 확인
+    gender: f
+    notes:
+      en: "gen. confirmātiōnis; 3rd decl.; the main body of proof"
+      ko: "속격 confirmātiōnis; 제3변화; 증명의 본론"
+  - latin: refutatio
+    translation:
+      en: refutation, rebuttal
+      ko: 반박, 논박
+    gender: f
+    notes:
+      en: "gen. refūtātiōnis; 3rd decl.; answering the opponent's arguments"
+      ko: "속격 refūtātiōnis; 제3변화; 상대방 논증에 대한 응답"
+  - latin: peroratio
+    translation:
+      en: conclusion, peroration
+      ko: 결론, 맺음말
+    gender: f
+    notes:
+      en: "gen. perōrātiōnis; 3rd decl.; emotional conclusion of a speech"
+      ko: "속격 perōrātiōnis; 제3변화; 연설의 감정적 결론부"
+  - latin: rostra
+    translation:
+      en: speaker's platform, rostra
+      ko: 연단
+    gender: n
+    notes:
+      en: "gen. rostrōrum; 2nd decl. pl.; decorated with prows (rōstra) of captured ships"
+      ko: "속격 rostrōrum; 제2변화 복수; 노획한 적선의 선수(rōstra)로 장식됨"
+
+- id: oratorical_devices
+  label:
+    en: Oratorical Devices and Figures
+    ko: 연설 기법과 비유
+  type: vocabulary
+  words:
+  - latin: ethos
+    translation:
+      en: character, moral appeal
+      ko: 에토스, 도덕적 호소
+    gender: n
+    notes:
+      en: "Greek loanword; persuasion through the speaker's character"
+      ko: "그리스어 차용어; 연설자의 품성을 통한 설득"
+  - latin: pathos
+    translation:
+      en: emotion, emotional appeal
+      ko: 파토스, 감정적 호소
+    gender: n
+    notes:
+      en: "Greek loanword; persuasion through stirring the audience's emotions"
+      ko: "그리스어 차용어; 청중의 감정을 자극하여 설득"
+  - latin: amplificatio
+    translation:
+      en: amplification, heightening
+      ko: 확대, 과장
+    gender: f
+    notes:
+      en: "gen. amplificātiōnis; 3rd decl.; intensifying an argument for emotional effect"
+      ko: "속격 amplificātiōnis; 제3변화; 감정적 효과를 위해 논증을 강화"
+  - latin: anaphora
+    translation:
+      en: repetition at the beginning of clauses
+      ko: 수사적 반복 (문두 반복)
+    gender: f
+    notes:
+      en: "Greek loanword; e.g. Cicero's 'Quousque tandem... Quousque...'"
+      ko: "그리스어 차용어; 예: 키케로의 'Quousque tandem... Quousque...'"
+  - latin: antithesis
+    translation:
+      en: contrast, opposition of ideas
+      ko: 대조, 사상의 대립
+    gender: f
+    notes:
+      en: "Greek loanword; placing contrasting ideas in parallel structure"
+      ko: "그리스어 차용어; 대조적 사상을 병렬 구조로 배치"
+  - latin: hyperbole
+    translation:
+      en: exaggeration, overstatement
+      ko: 과장법
+    gender: f
+    notes:
+      en: "Greek loanword; deliberate exaggeration for emphasis"
+      ko: "그리스어 차용어; 강조를 위한 의도적 과장"
+  - latin: ironia
+    translation:
+      en: irony, saying the opposite of what is meant
+      ko: 반어법
+    gender: f
+    notes:
+      en: "gen. īrōniae; 1st decl.; a favorite device of Cicero"
+      ko: "속격 īrōniae; 제1변화; 키케로가 즐겨 쓴 기법"
+  - latin: prosopopoeia
+    translation:
+      en: personification, giving speech to absent or imaginary persons
+      ko: 의인법, 부재하는 인물에게 말을 부여함
+    gender: f
+    notes:
+      en: "Greek loanword; e.g. making 'the Republic' speak"
+      ko: "그리스어 차용어; 예: '공화국'이 말하게 하는 기법"
+  - latin: apostrophe
+    translation:
+      en: turning away, addressing an absent person
+      ko: 전향법, 부재자에게 말을 걸기
+    gender: f
+    notes:
+      en: "Greek loanword; dramatically addressing someone not present"
+      ko: "그리스어 차용어; 극적으로 현장에 없는 사람에게 말을 건넴"
+  - latin: gradatio
+    translation:
+      en: climax, ascending series
+      ko: 점층법, 오름 배열
+    gender: f
+    notes:
+      en: "gen. gradātiōnis; 3rd decl.; building intensity word by word"
+      ko: "속격 gradātiōnis; 제3변화; 단어마다 강도를 높여감"
+  - latin: praeteritio
+    translation:
+      en: passing over, mentioning by claiming not to mention
+      ko: 양보법, 언급하지 않겠다고 하며 언급하기
+    gender: f
+    notes:
+      en: "gen. praeteritiōnis; 3rd decl.; 'I shall not mention that...'"
+      ko: "속격 praeteritiōnis; 제3변화; '~에 대해서는 말하지 않겠습니다만...'"
+  - latin: sententia
+    translation:
+      en: maxim, pithy saying, judgment
+      ko: 격언, 핵심 명언, 판결
+    gender: f
+    notes:
+      en: "gen. sententiae; 1st decl.; a memorable concluding statement"
+      ko: "속격 sententiae; 제1변화; 기억에 남는 결론적 문장"

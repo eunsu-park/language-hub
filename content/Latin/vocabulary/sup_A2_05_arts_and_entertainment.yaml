@@ -1,0 +1,338 @@
+lesson: "sup_A2_Arts_and_Entertainment"
+lesson_number: 111
+cefr: A2
+type: supplementary
+topic: "Arts and Entertainment"
+categories:
+- id: theater
+  label:
+    en: "Theater"
+    ko: "연극"
+  type: vocabulary
+  words:
+  - latin: theatrum
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: n
+    notes:
+      en: "gen. theatri; 2nd declension neuter; from Greek theatron; source of 'theater'"
+      ko: "속격 theatri; 제2변화 중성; 그리스어 theatron에서 유래; 영어 'theater'의 어원"
+  - latin: scaena
+    translation:
+      en: "stage / scene"
+      ko: "무대 / 장면"
+    gender: f
+    notes:
+      en: "gen. scaenae; 1st declension; source of 'scene, scenery'"
+      ko: "속격 scaenae; 제1변화; 영어 'scene, scenery'의 어원"
+  - latin: fabula
+    translation:
+      en: "play / story"
+      ko: "연극 / 이야기"
+    gender: f
+    notes:
+      en: "gen. fabulae; 1st declension; source of 'fable, fabulous'"
+      ko: "속격 fabulae; 제1변화; 영어 'fable, fabulous'의 어원"
+  - latin: comoedia
+    translation:
+      en: "comedy"
+      ko: "희극"
+    gender: f
+    notes:
+      en: "gen. comoediae; 1st declension; Plautus and Terence were masters"
+      ko: "속격 comoediae; 제1변화; 플라우투스와 테렌티우스가 대가"
+  - latin: tragoedia
+    translation:
+      en: "tragedy"
+      ko: "비극"
+    gender: f
+    notes:
+      en: "gen. tragoediae; 1st declension; Seneca wrote famous Latin tragedies"
+      ko: "속격 tragoediae; 제1변화; 세네카가 유명한 라틴어 비극을 집필"
+  - latin: actor
+    translation:
+      en: "actor"
+      ko: "배우"
+    gender: m
+    notes:
+      en: "gen. actoris; 3rd declension; source of 'actor'"
+      ko: "속격 actoris; 제3변화; 영어 'actor'의 어원"
+  - latin: histrio
+    translation:
+      en: "actor / performer"
+      ko: "배우 / 공연자"
+    gender: m
+    notes:
+      en: "gen. histrionis; 3rd declension; source of 'histrionic'; from Etruscan"
+      ko: "속격 histrionis; 제3변화; 영어 'histrionic'의 어원; 에트루리아어에서 유래"
+  - latin: mimus
+    translation:
+      en: "mime / mime actor"
+      ko: "마임 / 마임 배우"
+    gender: m
+    notes:
+      en: "gen. mimi; 2nd declension; source of 'mime, mimic'"
+      ko: "속격 mimi; 제2변화; 영어 'mime, mimic'의 어원"
+  - latin: persona
+    translation:
+      en: "mask / character"
+      ko: "가면 / 인물"
+    gender: f
+    notes:
+      en: "gen. personae; 1st declension; actors wore masks; source of 'person, persona'"
+      ko: "속격 personae; 제1변화; 배우들이 가면을 착용; 영어 'person, persona'의 어원"
+  - latin: chorus
+    translation:
+      en: "chorus / choir"
+      ko: "합창단"
+    gender: m
+    notes:
+      en: "gen. chori; 2nd declension; from Greek choros"
+      ko: "속격 chori; 제2변화; 그리스어 choros에서 유래"
+  - latin: prologus
+    translation:
+      en: "prologue"
+      ko: "서막"
+    gender: m
+    notes:
+      en: "gen. prologi; 2nd declension; opening speech of a play"
+      ko: "속격 prologi; 제2변화; 연극의 개막 연설"
+  - latin: actus
+    translation:
+      en: "act (of a play)"
+      ko: "막 (연극의)"
+    gender: m
+    notes:
+      en: "gen. actus; 4th declension; source of 'act'"
+      ko: "속격 actus; 제4변화; 영어 'act'의 어원"
+  - latin: plaudere
+    translation:
+      en: "to clap / to applaud"
+      ko: "박수 치다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; plaudo, plaudere, plausi, plausum; source of 'applaud'"
+      ko: "제3활용 동사; plaudo, plaudere, plausi, plausum; 영어 'applaud'의 어원"
+  - latin: cavea
+    translation:
+      en: "seating area (of theater)"
+      ko: "관객석 (극장의)"
+    gender: f
+    notes:
+      en: "gen. caveae; 1st declension; tiered seating arranged by social class"
+      ko: "속격 caveae; 제1변화; 사회적 계층에 따라 배치된 계단식 좌석"
+  - latin: orchestra
+    translation:
+      en: "orchestra (front seating)"
+      ko: "오케스트라 (앞쪽 좌석)"
+    gender: f
+    notes:
+      en: "gen. orchestrae; 1st declension; reserved for senators in Roman theater"
+      ko: "속격 orchestrae; 제1변화; 로마 극장에서 원로원 의원 전용석"
+  - latin: pantomimus
+    translation:
+      en: "pantomime performer"
+      ko: "판토마임 공연자"
+    gender: m
+    notes:
+      en: "gen. pantomimi; 2nd declension; solo dancer telling a story through movement"
+      ko: "속격 pantomimi; 제2변화; 움직임으로 이야기를 전달하는 솔로 무용수"
+
+- id: music
+  label:
+    en: "Music"
+    ko: "음악"
+  type: vocabulary
+  words:
+  - latin: tibia
+    translation:
+      en: "flute / pipe"
+      ko: "피리 / 관악기"
+    gender: f
+    notes:
+      en: "gen. tibiae; 1st declension; originally made from shinbone (tibia)"
+      ko: "속격 tibiae; 제1변화; 원래 정강이뼈(tibia)로 만듦"
+  - latin: lyra
+    translation:
+      en: "lyre"
+      ko: "리라 (수금)"
+    gender: f
+    notes:
+      en: "gen. lyrae; 1st declension; from Greek lyra; source of 'lyric, lyrics'"
+      ko: "속격 lyrae; 제1변화; 그리스어 lyra에서 유래; 영어 'lyric, lyrics'의 어원"
+  - latin: cithara
+    translation:
+      en: "cithara / kithara"
+      ko: "키타라"
+    gender: f
+    notes:
+      en: "gen. citharae; 1st declension; source of 'guitar, zither'"
+      ko: "속격 citharae; 제1변화; 영어 'guitar, zither'의 어원"
+  - latin: tuba
+    translation:
+      en: "trumpet (straight)"
+      ko: "트럼펫 (직선형)"
+    gender: f
+    notes:
+      en: "gen. tubae; 1st declension; military signal instrument; source of 'tuba'"
+      ko: "속격 tubae; 제1변화; 군사 신호 악기; 영어 'tuba'의 어원"
+  - latin: cornu
+    translation:
+      en: "horn (curved)"
+      ko: "뿔나팔 (곡선형)"
+    gender: n
+    notes:
+      en: "gen. cornus; 4th declension neuter; curved military horn; source of 'horn, cornet'"
+      ko: "속격 cornus; 제4변화 중성; 곡선형 군사 나팔; 영어 'horn, cornet'의 어원"
+  - latin: tympanum
+    translation:
+      en: "drum / tambourine"
+      ko: "북 / 탬버린"
+    gender: n
+    notes:
+      en: "gen. tympani; 2nd declension neuter; source of 'tympani, timpani'"
+      ko: "속격 tympani; 제2변화 중성; 영어 'tympani, timpani'의 어원"
+  - latin: cantare
+    translation:
+      en: "to sing"
+      ko: "노래하다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; frequentative of canere; source of 'chant, canticle'"
+      ko: "제1활용 동사; canere의 반복상; 영어 'chant, canticle'의 어원"
+  - latin: carmen
+    translation:
+      en: "song / poem"
+      ko: "노래 / 시"
+    gender: n
+    notes:
+      en: "gen. carminis; 3rd declension neuter; source of 'charm, Carmen'"
+      ko: "속격 carminis; 제3변화 중성; 영어 'charm, Carmen'의 어원"
+  - latin: symphonia
+    translation:
+      en: "harmony / concert"
+      ko: "화음 / 음악회"
+    gender: f
+    notes:
+      en: "gen. symphoniae; 1st declension; from Greek symphōnia; source of 'symphony'"
+      ko: "속격 symphoniae; 제1변화; 그리스어 symphōnia에서 유래; 영어 'symphony'의 어원"
+  - latin: saltare
+    translation:
+      en: "to dance"
+      ko: "춤추다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; frequentative of salire 'to leap'"
+      ko: "제1활용 동사; salire '뛰다'의 반복상"
+  - latin: cantus
+    translation:
+      en: "singing / song"
+      ko: "가창 / 노래"
+    gender: m
+    notes:
+      en: "gen. cantus; 4th declension; source of 'canto, canticle'"
+      ko: "속격 cantus; 제4변화; 영어 'canto, canticle'의 어원"
+
+- id: visual_arts
+  label:
+    en: "Visual Arts"
+    ko: "시각 예술"
+  type: vocabulary
+  words:
+  - latin: pictura
+    translation:
+      en: "painting"
+      ko: "그림"
+    gender: f
+    notes:
+      en: "gen. picturae; 1st declension; source of 'picture'"
+      ko: "속격 picturae; 제1변화; 영어 'picture'의 어원"
+  - latin: statua
+    translation:
+      en: "statue"
+      ko: "조각상"
+    gender: f
+    notes:
+      en: "gen. statuae; 1st declension; source of 'statue'"
+      ko: "속격 statuae; 제1변화; 영어 'statue'의 어원"
+  - latin: mosaicum
+    translation:
+      en: "mosaic"
+      ko: "모자이크"
+    gender: n
+    notes:
+      en: "gen. mosaici; 2nd declension neuter; from Greek mouseion; elaborate floor art"
+      ko: "속격 mosaici; 제2변화 중성; 그리스어 mouseion에서 유래; 정교한 바닥 예술"
+  - latin: sculptor
+    translation:
+      en: "sculptor"
+      ko: "조각가"
+    gender: m
+    notes:
+      en: "gen. sculptoris; 3rd declension; source of 'sculptor'"
+      ko: "속격 sculptoris; 제3변화; 영어 'sculptor'의 어원"
+  - latin: pictor
+    translation:
+      en: "painter"
+      ko: "화가"
+    gender: m
+    notes:
+      en: "gen. pictoris; 3rd declension; from pingere 'to paint'"
+      ko: "속격 pictoris; 제3변화; pingere '그리다'에서 유래"
+  - latin: signum
+    translation:
+      en: "figure / statue / sign"
+      ko: "형상 / 조각상 / 기호"
+    gender: n
+    notes:
+      en: "gen. signi; 2nd declension neuter; source of 'sign, signal'"
+      ko: "속격 signi; 제2변화 중성; 영어 'sign, signal'의 어원"
+  - latin: imago
+    translation:
+      en: "image / portrait"
+      ko: "이미지 / 초상"
+    gender: f
+    notes:
+      en: "gen. imaginis; 3rd declension; wax death masks (imagines) of ancestors"
+      ko: "속격 imaginis; 제3변화; 조상의 밀랍 사후 가면(imagines)"
+  - latin: ars
+    translation:
+      en: "art / skill"
+      ko: "예술 / 기술"
+    gender: f
+    notes:
+      en: "gen. artis; 3rd declension; source of 'art, artisan, artificial'"
+      ko: "속격 artis; 제3변화; 영어 'art, artisan, artificial'의 어원"
+  - latin: opus
+    translation:
+      en: "work / masterpiece"
+      ko: "작품 / 걸작"
+    gender: n
+    notes:
+      en: "gen. operis; 3rd declension neuter; source of 'opus, opera, operate'"
+      ko: "속격 operis; 제3변화 중성; 영어 'opus, opera, operate'의 어원"
+  - latin: color
+    translation:
+      en: "color"
+      ko: "색"
+    gender: m
+    notes:
+      en: "gen. coloris; 3rd declension; source of 'color'"
+      ko: "속격 coloris; 제3변화; 영어 'color'의 어원"
+  - latin: forma
+    translation:
+      en: "form / beauty"
+      ko: "형태 / 아름다움"
+    gender: f
+    notes:
+      en: "gen. formae; 1st declension; source of 'form, formal'"
+      ko: "속격 formae; 제1변화; 영어 'form, formal'의 어원"
+  - latin: ornamentum
+    translation:
+      en: "ornament / decoration"
+      ko: "장식"
+    gender: n
+    notes:
+      en: "gen. ornamenti; 2nd declension neuter; source of 'ornament'"
+      ko: "속격 ornamenti; 제2변화 중성; 영어 'ornament'의 어원"

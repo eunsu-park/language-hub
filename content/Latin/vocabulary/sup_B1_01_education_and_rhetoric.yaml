@@ -1,0 +1,1082 @@
+lesson: "sup_B1_Education_and_Rhetoric"
+lesson_number: 115
+cefr: B1
+type: supplementary
+topic: "Education and Rhetoric"
+categories:
+- id: school_life
+  label:
+    en: "School Life"
+    ko: "학교 생활"
+  type: vocabulary
+  words:
+  - latin: "ludus"
+    translation:
+      en: "school (elementary)"
+      ko: "학교 (초등)"
+    gender: m
+    notes:
+      en: "gen. lūdī; 2nd decl.; also means 'game, play'"
+      ko: "속격 lūdī; 제2변화; '놀이, 게임'이라는 뜻도 있음"
+  - latin: "grammaticus"
+    translation:
+      en: "grammar teacher"
+      ko: "문법 교사"
+    gender: m
+    notes:
+      en: "gen. grammaticī; 2nd decl.; taught reading and writing"
+      ko: "속격 grammaticī; 제2변화; 읽기와 쓰기를 가르침"
+  - latin: "rhetor"
+    translation:
+      en: "rhetoric teacher"
+      ko: "수사학 교사"
+    gender: m
+    notes:
+      en: "gen. rhētōris; 3rd decl.; Greek loanword"
+      ko: "속격 rhētōris; 제3변화; 그리스어 차용어"
+  - latin: "magister"
+    translation:
+      en: "teacher, master"
+      ko: "교사, 선생"
+    gender: m
+    notes:
+      en: "gen. magistrī; 2nd decl."
+      ko: "속격 magistrī; 제2변화"
+  - latin: "magistra"
+    translation:
+      en: "female teacher, mistress"
+      ko: "여교사"
+    gender: f
+    notes:
+      en: "gen. magistrae; 1st decl."
+      ko: "속격 magistrae; 제1변화"
+  - latin: "discipulus"
+    translation:
+      en: "student, pupil (male)"
+      ko: "학생, 제자 (남)"
+    gender: m
+    notes:
+      en: "gen. discipulī; 2nd decl."
+      ko: "속격 discipulī; 제2변화"
+  - latin: "discipula"
+    translation:
+      en: "student, pupil (female)"
+      ko: "학생, 제자 (여)"
+    gender: f
+    notes:
+      en: "gen. discipulae; 1st decl."
+      ko: "속격 discipulae; 제1변화"
+  - latin: "paedagogus"
+    translation:
+      en: "tutor, guardian (of a child)"
+      ko: "가정교사, 아이 보호자"
+    gender: m
+    notes:
+      en: "gen. paedagōgī; 2nd decl.; usually a slave who escorted children"
+      ko: "속격 paedagōgī; 제2변화; 보통 아이를 동반하는 노예"
+  - latin: "schola"
+    translation:
+      en: "school, lecture"
+      ko: "학교, 강의"
+    gender: f
+    notes:
+      en: "gen. scholae; 1st decl.; Greek loanword"
+      ko: "속격 scholae; 제1변화; 그리스어 차용어"
+  - latin: "doctrina"
+    translation:
+      en: "teaching, instruction, learning"
+      ko: "가르침, 교육, 학문"
+    gender: f
+    notes:
+      en: "gen. doctrīnae; 1st decl."
+      ko: "속격 doctrīnae; 제1변화"
+  - latin: "disciplina"
+    translation:
+      en: "instruction, discipline, knowledge"
+      ko: "교육, 훈련, 학문"
+    gender: f
+    notes:
+      en: "gen. disciplīnae; 1st decl."
+      ko: "속격 disciplīnae; 제1변화"
+  - latin: "studium"
+    translation:
+      en: "study, zeal, enthusiasm"
+      ko: "공부, 열의, 열정"
+    gender: n
+    notes:
+      en: "gen. studiī; 2nd decl. neuter"
+      ko: "속격 studiī; 제2변화 중성"
+  - latin: "eruditio"
+    translation:
+      en: "education, erudition"
+      ko: "교육, 박학"
+    gender: f
+    notes:
+      en: "gen. ērudītiōnis; 3rd decl."
+      ko: "속격 ērudītiōnis; 제3변화"
+  - latin: "scientia"
+    translation:
+      en: "knowledge, science"
+      ko: "지식, 학문"
+    gender: f
+    notes:
+      en: "gen. scientiae; 1st decl."
+      ko: "속격 scientiae; 제1변화"
+- id: rhetoric
+  label:
+    en: "Rhetoric"
+    ko: "수사학"
+  type: vocabulary
+  words:
+  - latin: "ars"
+    translation:
+      en: "art, skill, technique"
+      ko: "기술, 기예, 기법"
+    gender: f
+    notes:
+      en: "gen. artis; 3rd decl."
+      ko: "속격 artis; 제3변화"
+  - latin: "eloquentia"
+    translation:
+      en: "eloquence"
+      ko: "웅변, 달변"
+    gender: f
+    notes:
+      en: "gen. ēloquentiae; 1st decl."
+      ko: "속격 ēloquentiae; 제1변화"
+  - latin: "oratio"
+    translation:
+      en: "speech, oration"
+      ko: "연설, 웅변"
+    gender: f
+    notes:
+      en: "gen. ōrātiōnis; 3rd decl."
+      ko: "속격 ōrātiōnis; 제3변화"
+  - latin: "orator"
+    translation:
+      en: "orator, speaker"
+      ko: "웅변가, 연설가"
+    gender: m
+    notes:
+      en: "gen. ōrātōris; 3rd decl."
+      ko: "속격 ōrātōris; 제3변화"
+  - latin: "inventio"
+    translation:
+      en: "invention (finding arguments)"
+      ko: "착상 (논거 발견)"
+    gender: f
+    notes:
+      en: "gen. inventiōnis; 3rd decl.; 1st canon of rhetoric"
+      ko: "속격 inventiōnis; 제3변화; 수사학의 제1원칙"
+  - latin: "dispositio"
+    translation:
+      en: "arrangement, organization"
+      ko: "배열, 구성"
+    gender: f
+    notes:
+      en: "gen. dispositiōnis; 3rd decl.; 2nd canon of rhetoric"
+      ko: "속격 dispositiōnis; 제3변화; 수사학의 제2원칙"
+  - latin: "elocutio"
+    translation:
+      en: "style, expression"
+      ko: "표현, 수사법"
+    gender: f
+    notes:
+      en: "gen. elocūtiōnis; 3rd decl.; 3rd canon of rhetoric"
+      ko: "속격 elocūtiōnis; 제3변화; 수사학의 제3원칙"
+  - latin: "memoria"
+    translation:
+      en: "memory, memorization"
+      ko: "기억, 암기"
+    gender: f
+    notes:
+      en: "gen. memoriae; 1st decl.; 4th canon of rhetoric"
+      ko: "속격 memoriae; 제1변화; 수사학의 제4원칙"
+  - latin: "actio"
+    translation:
+      en: "delivery, performance"
+      ko: "전달, 발표"
+    gender: f
+    notes:
+      en: "gen. āctiōnis; 3rd decl.; 5th canon of rhetoric"
+      ko: "속격 āctiōnis; 제3변화; 수사학의 제5원칙"
+  - latin: "argumentum"
+    translation:
+      en: "argument, proof"
+      ko: "논증, 증거"
+    gender: n
+    notes:
+      en: "gen. argūmentī; 2nd decl. neuter"
+      ko: "속격 argūmentī; 제2변화 중성"
+  - latin: "sententia"
+    translation:
+      en: "opinion, sentence, maxim"
+      ko: "의견, 문장, 격언"
+    gender: f
+    notes:
+      en: "gen. sententiae; 1st decl."
+      ko: "속격 sententiae; 제1변화"
+  - latin: "controversia"
+    translation:
+      en: "controversy, debate"
+      ko: "논쟁, 토론"
+    gender: f
+    notes:
+      en: "gen. contrōversiae; 1st decl."
+      ko: "속격 contrōversiae; 제1변화"
+  - latin: "suasoria"
+    translation:
+      en: "persuasive speech (exercise)"
+      ko: "설득 연설 (연습)"
+    gender: f
+    notes:
+      en: "gen. suāsōriae; 1st decl.; rhetorical exercise for beginners"
+      ko: "속격 suāsōriae; 제1변화; 초보자를 위한 수사학 연습"
+  - latin: "declamatio"
+    translation:
+      en: "declamation, practice speech"
+      ko: "연설 연습, 낭독"
+    gender: f
+    notes:
+      en: "gen. dēclāmātiōnis; 3rd decl."
+      ko: "속격 dēclāmātiōnis; 제3변화"
+  - latin: "figura"
+    translation:
+      en: "figure of speech, form"
+      ko: "수사법, 형태"
+    gender: f
+    notes:
+      en: "gen. figūrae; 1st decl."
+      ko: "속격 figūrae; 제1변화"
+  - latin: "metaphora"
+    translation:
+      en: "metaphor"
+      ko: "은유"
+    gender: f
+    notes:
+      en: "gen. metaphorae; 1st decl.; Greek loanword"
+      ko: "속격 metaphorae; 제1변화; 그리스어 차용어"
+  - latin: "similitudo"
+    translation:
+      en: "comparison, simile"
+      ko: "비교, 직유"
+    gender: f
+    notes:
+      en: "gen. similitūdinis; 3rd decl."
+      ko: "속격 similitūdinis; 제3변화"
+  - latin: "persuasio"
+    translation:
+      en: "persuasion"
+      ko: "설득"
+    gender: f
+    notes:
+      en: "gen. persuāsiōnis; 3rd decl."
+      ko: "속격 persuāsiōnis; 제3변화"
+  - latin: "pronuntiatio"
+    translation:
+      en: "pronunciation, delivery"
+      ko: "발음, 전달"
+    gender: f
+    notes:
+      en: "gen. prōnūntiātiōnis; 3rd decl.; synonym of āctiō in rhetoric"
+      ko: "속격 prōnūntiātiōnis; 제3변화; 수사학에서 āctiō의 동의어"
+- id: liberal_arts
+  label:
+    en: "Liberal Arts"
+    ko: "자유학예"
+  type: vocabulary
+  words:
+  - latin: "artes liberales"
+    translation:
+      en: "liberal arts"
+      ko: "자유학예"
+    gender: f
+    notes:
+      en: "Plural; the seven arts of free citizens"
+      ko: "복수형; 자유 시민의 일곱 학예"
+  - latin: "grammatica"
+    translation:
+      en: "grammar"
+      ko: "문법"
+    gender: f
+    notes:
+      en: "gen. grammaticae; 1st decl.; part of the trivium"
+      ko: "속격 grammaticae; 제1변화; 삼학의 일부"
+  - latin: "dialectica"
+    translation:
+      en: "dialectic, logic"
+      ko: "변증법, 논리학"
+    gender: f
+    notes:
+      en: "gen. dialecticae; 1st decl.; part of the trivium"
+      ko: "속격 dialecticae; 제1변화; 삼학의 일부"
+  - latin: "rhetorica"
+    translation:
+      en: "rhetoric"
+      ko: "수사학"
+    gender: f
+    notes:
+      en: "gen. rhētoricae; 1st decl.; part of the trivium"
+      ko: "속격 rhētoricae; 제1변화; 삼학의 일부"
+  - latin: "arithmetica"
+    translation:
+      en: "arithmetic"
+      ko: "산술"
+    gender: f
+    notes:
+      en: "gen. arithmēticae; 1st decl.; part of the quadrivium"
+      ko: "속격 arithmēticae; 제1변화; 사과의 일부"
+  - latin: "geometria"
+    translation:
+      en: "geometry"
+      ko: "기하학"
+    gender: f
+    notes:
+      en: "gen. geōmetriae; 1st decl.; part of the quadrivium"
+      ko: "속격 geōmetriae; 제1변화; 사과의 일부"
+  - latin: "musica"
+    translation:
+      en: "music"
+      ko: "음악"
+    gender: f
+    notes:
+      en: "gen. mūsicae; 1st decl.; part of the quadrivium"
+      ko: "속격 mūsicae; 제1변화; 사과의 일부"
+  - latin: "astronomia"
+    translation:
+      en: "astronomy"
+      ko: "천문학"
+    gender: f
+    notes:
+      en: "gen. astronōmiae; 1st decl.; part of the quadrivium"
+      ko: "속격 astronōmiae; 제1변화; 사과의 일부"
+  - latin: "trivium"
+    translation:
+      en: "trivium (grammar, logic, rhetoric)"
+      ko: "삼학 (문법, 논리, 수사)"
+    gender: n
+    notes:
+      en: "gen. triviī; 2nd decl. neuter; the three verbal arts"
+      ko: "속격 triviī; 제2변화 중성; 세 가지 언어 학예"
+  - latin: "quadrivium"
+    translation:
+      en: "quadrivium (arithmetic, geometry, music, astronomy)"
+      ko: "사과 (산술, 기하, 음악, 천문)"
+    gender: n
+    notes:
+      en: "gen. quadriviī; 2nd decl. neuter; the four numerical arts"
+      ko: "속격 quadriviī; 제2변화 중성; 네 가지 수리 학예"
+  - latin: "philosophia"
+    translation:
+      en: "philosophy"
+      ko: "철학"
+    gender: f
+    notes:
+      en: "gen. philosophiae; 1st decl.; Greek loanword"
+      ko: "속격 philosophiae; 제1변화; 그리스어 차용어"
+  - latin: "philosophus"
+    translation:
+      en: "philosopher"
+      ko: "철학자"
+    gender: m
+    notes:
+      en: "gen. philosophī; 2nd decl."
+      ko: "속격 philosophī; 제2변화"
+  - latin: "logica"
+    translation:
+      en: "logic"
+      ko: "논리학"
+    gender: f
+    notes:
+      en: "gen. logicae; 1st decl.; Greek loanword"
+      ko: "속격 logicae; 제1변화; 그리스어 차용어"
+  - latin: "historia"
+    translation:
+      en: "history, inquiry"
+      ko: "역사, 탐구"
+    gender: f
+    notes:
+      en: "gen. historiae; 1st decl."
+      ko: "속격 historiae; 제1변화"
+  - latin: "litterae"
+    translation:
+      en: "letters, literature, learning"
+      ko: "문학, 학문, 교양"
+    gender: f
+    notes:
+      en: "gen. litterārum; 1st decl. plural; singular littera = 'letter of alphabet'"
+      ko: "속격 litterārum; 제1변화 복수; 단수 littera = '알파벳 글자'"
+- id: supplies
+  label:
+    en: "School Supplies"
+    ko: "학용품"
+  type: vocabulary
+  words:
+  - latin: "stilus"
+    translation:
+      en: "stylus, writing instrument"
+      ko: "철필, 필기구"
+    gender: m
+    notes:
+      en: "gen. stilī; 2nd decl.; used on wax tablets"
+      ko: "속격 stilī; 제2변화; 밀랍 서판에 사용"
+  - latin: "tabula"
+    translation:
+      en: "tablet, writing board"
+      ko: "서판, 필기판"
+    gender: f
+    notes:
+      en: "gen. tabulae; 1st decl.; tabula cerata = 'wax tablet'"
+      ko: "속격 tabulae; 제1변화; tabula cerata = '밀랍 서판'"
+  - latin: "papyrus"
+    translation:
+      en: "papyrus"
+      ko: "파피루스"
+    gender: f
+    notes:
+      en: "gen. papȳrī; 2nd decl.; imported from Egypt"
+      ko: "속격 papȳrī; 제2변화; 이집트에서 수입"
+  - latin: "calamus"
+    translation:
+      en: "reed pen"
+      ko: "갈대 펜"
+    gender: m
+    notes:
+      en: "gen. calamī; 2nd decl.; used for writing on papyrus"
+      ko: "속격 calamī; 제2변화; 파피루스에 쓸 때 사용"
+  - latin: "atramentum"
+    translation:
+      en: "ink"
+      ko: "잉크"
+    gender: n
+    notes:
+      en: "gen. ātrāmentī; 2nd decl. neuter"
+      ko: "속격 ātrāmentī; 제2변화 중성"
+  - latin: "cera"
+    translation:
+      en: "wax"
+      ko: "밀랍"
+    gender: f
+    notes:
+      en: "gen. cērae; 1st decl.; used to coat writing tablets"
+      ko: "속격 cērae; 제1변화; 서판 코팅에 사용"
+  - latin: "volumen"
+    translation:
+      en: "scroll, volume"
+      ko: "두루마리, 권"
+    gender: n
+    notes:
+      en: "gen. volūminis; 3rd decl."
+      ko: "속격 volūminis; 제3변화"
+  - latin: "liber"
+    translation:
+      en: "book, bark (for writing)"
+      ko: "책, 나무껍질 (필기용)"
+    gender: m
+    notes:
+      en: "gen. librī; 2nd decl."
+      ko: "속격 librī; 제2변화"
+  - latin: "bibliotheca"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+    notes:
+      en: "gen. bibliothēcae; 1st decl.; Greek loanword"
+      ko: "속격 bibliothēcae; 제1변화; 그리스어 차용어"
+  - latin: "abacus"
+    translation:
+      en: "abacus, counting board"
+      ko: "주판, 계산판"
+    gender: m
+    notes:
+      en: "gen. abacī; 2nd decl.; used for arithmetic"
+      ko: "속격 abacī; 제2변화; 산술에 사용"
+  - latin: "pergamena"
+    translation:
+      en: "parchment"
+      ko: "양피지"
+    gender: f
+    notes:
+      en: "gen. pergamēnae; 1st decl.; from Pergamum"
+      ko: "속격 pergamēnae; 제1변화; 페르가몬에서 유래"
+  - latin: "codex"
+    translation:
+      en: "codex, book (bound)"
+      ko: "코덱스, 책 (제본된)"
+    gender: m
+    notes:
+      en: "gen. cōdicis; 3rd decl.; replaced scrolls in late antiquity"
+      ko: "속격 cōdicis; 제3변화; 후기 고대에 두루마리를 대체"
+  - latin: "spongia"
+    translation:
+      en: "sponge (for erasing)"
+      ko: "스폰지 (지우개용)"
+    gender: f
+    notes:
+      en: "gen. spongiae; 1st decl.; used to erase ink"
+      ko: "속격 spongiae; 제1변화; 잉크를 지우는 데 사용"
+  - latin: "regula"
+    translation:
+      en: "ruler, straight edge"
+      ko: "자, 직선 도구"
+    gender: f
+    notes:
+      en: "gen. regulae; 1st decl.; also 'rule, standard'"
+      ko: "속격 regulae; 제1변화; '규칙, 기준'의 뜻도 있음"
+  - latin: "penna"
+    translation:
+      en: "feather, quill pen"
+      ko: "깃털, 깃털 펜"
+    gender: f
+    notes:
+      en: "gen. pennae; 1st decl.; used later in medieval period"
+      ko: "속격 pennae; 제1변화; 중세 시대에 사용"
+  - latin: "capsa"
+    translation:
+      en: "book case, scroll container"
+      ko: "책 상자, 두루마리 보관함"
+    gender: f
+    notes:
+      en: "gen. capsae; 1st decl.; students carried these to school"
+      ko: "속격 capsae; 제1변화; 학생들이 학교에 가져감"
+  - latin: "theca"
+    translation:
+      en: "case, sheath (for pens)"
+      ko: "케이스, 덮개 (펜용)"
+    gender: f
+    notes:
+      en: "gen. thēcae; 1st decl.; Greek loanword"
+      ko: "속격 thēcae; 제1변화; 그리스어 차용어"
+- id: education_verbs
+  label:
+    en: "Education Verbs"
+    ko: "교육 관련 동사"
+  type: vocabulary
+  words:
+  - latin: "docere"
+    translation:
+      en: "to teach"
+      ko: "가르치다"
+    gender: n
+    notes:
+      en: "2nd conj.; docēre + acc. of person + acc. of thing"
+      ko: "제2활용; docēre + 사람 대격 + 사물 대격"
+  - latin: "discere"
+    translation:
+      en: "to learn"
+      ko: "배우다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. didicī"
+      ko: "제3활용; 완료 didicī"
+  - latin: "legere"
+    translation:
+      en: "to read"
+      ko: "읽다"
+    gender: n
+    notes:
+      en: "3rd conj.; also 'to choose, gather'"
+      ko: "제3활용; '선택하다, 모으다'의 뜻도 있음"
+  - latin: "scribere"
+    translation:
+      en: "to write"
+      ko: "쓰다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. scrīpsī"
+      ko: "제3활용; 완료 scrīpsī"
+  - latin: "recitare"
+    translation:
+      en: "to recite, to read aloud"
+      ko: "낭독하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "narrare"
+    translation:
+      en: "to narrate, to tell"
+      ko: "이야기하다, 서술하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "respondere"
+    translation:
+      en: "to answer, to respond"
+      ko: "대답하다, 응답하다"
+    gender: n
+    notes:
+      en: "2nd conj.; + dat."
+      ko: "제2활용; + 여격"
+  - latin: "interrogare"
+    translation:
+      en: "to question, to ask"
+      ko: "질문하다, 묻다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "disputare"
+    translation:
+      en: "to debate, to discuss"
+      ko: "토론하다, 논의하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "explicare"
+    translation:
+      en: "to explain, to unfold"
+      ko: "설명하다, 펴다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "memorare"
+    translation:
+      en: "to mention, to recall"
+      ko: "언급하다, 회상하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "ediscere"
+    translation:
+      en: "to learn by heart, to memorize"
+      ko: "암기하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. ēdidicī"
+      ko: "제3활용; 완료 ēdidicī"
+  - latin: "corrigere"
+    translation:
+      en: "to correct, to improve"
+      ko: "교정하다, 개선하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. corrēxī"
+      ko: "제3활용; 완료 corrēxī"
+  - latin: "laudare"
+    translation:
+      en: "to praise"
+      ko: "칭찬하다"
+    gender: n
+    notes:
+      en: "1st conj.; opposite of vituperare"
+      ko: "제1활용; vituperare의 반의어"
+  - latin: "vituperare"
+    translation:
+      en: "to blame, to criticize"
+      ko: "비난하다, 나무라다"
+    gender: n
+    notes:
+      en: "1st conj.; opposite of laudare"
+      ko: "제1활용; laudare의 반의어"
+  - latin: "punire"
+    translation:
+      en: "to punish"
+      ko: "벌하다"
+    gender: n
+    notes:
+      en: "4th conj."
+      ko: "제4활용"
+  - latin: "exercere"
+    translation:
+      en: "to train, to practice"
+      ko: "훈련하다, 연습하다"
+    gender: n
+    notes:
+      en: "2nd conj."
+      ko: "제2활용"
+  - latin: "imitari"
+    translation:
+      en: "to imitate"
+      ko: "모방하다"
+    gender: n
+    notes:
+      en: "1st conj. deponent"
+      ko: "제1활용 이형태 동사"
+  - latin: "cogitare"
+    translation:
+      en: "to think, to reflect"
+      ko: "생각하다, 숙고하다"
+    gender: n
+    notes:
+      en: "1st conj."
+      ko: "제1활용"
+  - latin: "intellegere"
+    translation:
+      en: "to understand, to perceive"
+      ko: "이해하다, 파악하다"
+    gender: n
+    notes:
+      en: "3rd conj.; perf. intellēxī"
+      ko: "제3활용; 완료 intellēxī"
+- id: rhetoric_advanced
+  label:
+    en: "Advanced Rhetoric Terms"
+    ko: "고급 수사학 용어"
+  type: vocabulary
+  words:
+  - latin: "exordium"
+    translation:
+      en: "introduction (of a speech)"
+      ko: "서론 (연설의)"
+    gender: n
+    notes:
+      en: "gen. exordiī; 2nd decl. neuter; first part of a speech"
+      ko: "속격 exordiī; 제2변화 중성; 연설의 첫 부분"
+  - latin: "peroratio"
+    translation:
+      en: "peroration, conclusion"
+      ko: "결론, 마무리 연설"
+    gender: f
+    notes:
+      en: "gen. perōrātiōnis; 3rd decl.; final part of a speech"
+      ko: "속격 perōrātiōnis; 제3변화; 연설의 마지막 부분"
+  - latin: "refutatio"
+    translation:
+      en: "refutation"
+      ko: "반박"
+    gender: f
+    notes:
+      en: "gen. refūtātiōnis; 3rd decl."
+      ko: "속격 refūtātiōnis; 제3변화"
+  - latin: "confirmatio"
+    translation:
+      en: "confirmation, proof section"
+      ko: "확증, 증명 부분"
+    gender: f
+    notes:
+      en: "gen. confirmātiōnis; 3rd decl.; main argument of a speech"
+      ko: "속격 confirmātiōnis; 제3변화; 연설의 주요 논증"
+  - latin: "narratio"
+    translation:
+      en: "narration (of facts in a speech)"
+      ko: "서사 (연설에서의 사실 진술)"
+    gender: f
+    notes:
+      en: "gen. narrātiōnis; 3rd decl.; statement of facts"
+      ko: "속격 narrātiōnis; 제3변화; 사실의 진술"
+  - latin: "propositio"
+    translation:
+      en: "thesis, proposition"
+      ko: "명제, 주장"
+    gender: f
+    notes:
+      en: "gen. prōpositiōnis; 3rd decl."
+      ko: "속격 prōpositiōnis; 제3변화"
+  - latin: "amplificatio"
+    translation:
+      en: "amplification, elaboration"
+      ko: "확대, 정교화"
+    gender: f
+    notes:
+      en: "gen. amplificātiōnis; 3rd decl."
+      ko: "속격 amplificātiōnis; 제3변화"
+  - latin: "allegoria"
+    translation:
+      en: "allegory"
+      ko: "풍유, 알레고리"
+    gender: f
+    notes:
+      en: "gen. allēgoriae; 1st decl.; Greek loanword"
+      ko: "속격 allēgoriae; 제1변화; 그리스어 차용어"
+  - latin: "ironia"
+    translation:
+      en: "irony"
+      ko: "반어"
+    gender: f
+    notes:
+      en: "gen. īrōniae; 1st decl.; Greek loanword"
+      ko: "속격 īrōniae; 제1변화; 그리스어 차용어"
+  - latin: "hyperbole"
+    translation:
+      en: "hyperbole, exaggeration"
+      ko: "과장법"
+    gender: f
+    notes:
+      en: "gen. hyperbolēs; 1st decl. (Greek ending); Greek loanword"
+      ko: "속격 hyperbolēs; 제1변화 (그리스식 어미); 그리스어 차용어"
+  - latin: "antithesis"
+    translation:
+      en: "antithesis, contrast"
+      ko: "대조법"
+    gender: f
+    notes:
+      en: "gen. antithesis; 3rd decl.; Greek loanword"
+      ko: "속격 antithesis; 제3변화; 그리스어 차용어"
+  - latin: "anaphora"
+    translation:
+      en: "anaphora (repetition at start)"
+      ko: "수미 반복법"
+    gender: f
+    notes:
+      en: "gen. anaphorae; 1st decl.; repetition of word at beginning of clauses"
+      ko: "속격 anaphorae; 제1변화; 절의 시작에 단어를 반복"
+  - latin: "apostrophe"
+    translation:
+      en: "apostrophe (turning away to address)"
+      ko: "돌림말 (전환하여 호소)"
+    gender: f
+    notes:
+      en: "gen. apostrophēs; 1st decl.; speaker turns to address absent person"
+      ko: "속격 apostrophēs; 제1변화; 화자가 부재자에게 말을 돌림"
+  - latin: "sententia"
+    translation:
+      en: "maxim, pithy saying"
+      ko: "격언, 경구"
+    gender: f
+    notes:
+      en: "gen. sententiae; 1st decl.; memorable phrase in a speech"
+      ko: "속격 sententiae; 제1변화; 연설의 기억에 남는 구절"
+  - latin: "locus communis"
+    translation:
+      en: "commonplace, general topic"
+      ko: "상투적 논제, 일반 주제"
+    gender: m
+    notes:
+      en: "2nd/3rd decl.; standard rhetorical argument"
+      ko: "제2/제3변화; 표준 수사학적 논증"
+  - latin: "enthymema"
+    translation:
+      en: "enthymeme (rhetorical syllogism)"
+      ko: "약식 삼단논법"
+    gender: n
+    notes:
+      en: "gen. enthȳmēmatis; 3rd decl.; Greek loanword"
+      ko: "속격 enthȳmēmatis; 제3변화; 그리스어 차용어"
+  - latin: "copia"
+    translation:
+      en: "abundance, richness (of expression)"
+      ko: "풍부함 (표현의)"
+    gender: f
+    notes:
+      en: "gen. cōpiae; 1st decl.; copia verborum = 'richness of vocabulary'"
+      ko: "속격 cōpiae; 제1변화; copia verborum = '어휘의 풍부함'"
+  - latin: "brevitas"
+    translation:
+      en: "brevity, conciseness"
+      ko: "간결함"
+    gender: f
+    notes:
+      en: "gen. brevitātis; 3rd decl."
+      ko: "속격 brevitātis; 제3변화"
+  - latin: "ornatus"
+    translation:
+      en: "ornamentation, embellishment"
+      ko: "수식, 장식"
+    gender: m
+    notes:
+      en: "gen. ornātūs; 4th decl.; stylistic decoration of speech"
+      ko: "속격 ornātūs; 제4변화; 연설의 문체 장식"
+  - latin: "perspicuitas"
+    translation:
+      en: "clarity, lucidity"
+      ko: "명료함, 투명함"
+    gender: f
+    notes:
+      en: "gen. perspicuitātis; 3rd decl."
+      ko: "속격 perspicuitātis; 제3변화"
+  - latin: "aptum"
+    translation:
+      en: "appropriateness, propriety"
+      ko: "적절함, 적합성"
+    gender: n
+    notes:
+      en: "gen. aptī; 2nd decl. neuter; matching style to subject"
+      ko: "속격 aptī; 제2변화 중성; 주제에 문체를 맞춤"
+  - latin: "gradatio"
+    translation:
+      en: "gradation, climax (rhetorical)"
+      ko: "점층법, 클라이맥스 (수사적)"
+    gender: f
+    notes:
+      en: "gen. gradātiōnis; 3rd decl.; building to a climax"
+      ko: "속격 gradātiōnis; 제3변화; 절정으로 고조"
+  - latin: "prosopopoeia"
+    translation:
+      en: "personification"
+      ko: "의인법"
+    gender: f
+    notes:
+      en: "gen. prosopopoeiae; 1st decl.; Greek loanword"
+      ko: "속격 prosopopoeiae; 제1변화; 그리스어 차용어"
+  - latin: "litotes"
+    translation:
+      en: "litotes, understatement"
+      ko: "완곡법, 축소 표현"
+    gender: f
+    notes:
+      en: "gen. litotēs; Greek 1st decl.; e.g., 'non ignoro' = 'I know well'"
+      ko: "속격 litotēs; 그리스식 제1변화; 예: 'non ignoro' = '잘 안다'"
+  - latin: "chiasmus"
+    translation:
+      en: "chiasmus (cross arrangement)"
+      ko: "교차법"
+    gender: m
+    notes:
+      en: "gen. chiasmī; 2nd decl.; ABBA word order"
+      ko: "속격 chiasmī; 제2변화; ABBA 어순"
+  - latin: "asyndeton"
+    translation:
+      en: "asyndeton (omission of conjunctions)"
+      ko: "접속사 생략법"
+    gender: n
+    notes:
+      en: "gen. asyndetī; 2nd decl. neuter; Greek loanword; veni, vidi, vici"
+      ko: "속격 asyndetī; 제2변화 중성; 그리스어 차용어; veni, vidi, vici"
+  - latin: "polysyndeton"
+    translation:
+      en: "polysyndeton (many conjunctions)"
+      ko: "다접속사법"
+    gender: n
+    notes:
+      en: "gen. polysyndetī; 2nd decl. neuter; Greek loanword"
+      ko: "속격 polysyndetī; 제2변화 중성; 그리스어 차용어"
+  - latin: "praeteritio"
+    translation:
+      en: "praeteritio (mentioning by refusing to mention)"
+      ko: "언급 거부 화법"
+    gender: f
+    notes:
+      en: "gen. praeteritiōnis; 3rd decl.; 'I will not mention that...'"
+      ko: "속격 praeteritiōnis; 제3변화; '나는 ...를 언급하지 않겠다'"
+  - latin: "exclamatio"
+    translation:
+      en: "exclamation, outcry"
+      ko: "감탄, 외침"
+    gender: f
+    notes:
+      en: "gen. exclāmātiōnis; 3rd decl."
+      ko: "속격 exclāmātiōnis; 제3변화"
+  - latin: "interrogatio"
+    translation:
+      en: "rhetorical question"
+      ko: "수사적 질문"
+    gender: f
+    notes:
+      en: "gen. interrogātiōnis; 3rd decl."
+      ko: "속격 interrogātiōnis; 제3변화"
+  - latin: "exemplum"
+    translation:
+      en: "example, precedent (in speech)"
+      ko: "예시, 선례 (연설에서)"
+    gender: n
+    notes:
+      en: "gen. exemplī; 2nd decl. neuter; historical examples used as proof"
+      ko: "속격 exemplī; 제2변화 중성; 증거로 사용된 역사적 예시"
+  - latin: "auctoritas"
+    translation:
+      en: "authority (in argument)"
+      ko: "권위 (논증에서)"
+    gender: f
+    notes:
+      en: "gen. auctōritātis; 3rd decl.; citing authorities as proof"
+      ko: "속격 auctōritātis; 제3변화; 증거로 권위자 인용"
+  - latin: "genus humile"
+    translation:
+      en: "plain style (of rhetoric)"
+      ko: "평이한 문체 (수사학의)"
+    gender: n
+    notes:
+      en: "One of three rhetorical styles; for teaching"
+      ko: "세 가지 수사학적 문체 중 하나; 가르치기 위한"
+  - latin: "genus medium"
+    translation:
+      en: "middle style (of rhetoric)"
+      ko: "중간 문체 (수사학의)"
+    gender: n
+    notes:
+      en: "One of three rhetorical styles; for pleasing"
+      ko: "세 가지 수사학적 문체 중 하나; 기쁘게 하기 위한"
+  - latin: "genus sublime"
+    translation:
+      en: "grand style (of rhetoric)"
+      ko: "웅장한 문체 (수사학의)"
+    gender: n
+    notes:
+      en: "One of three rhetorical styles; for moving emotions"
+      ko: "세 가지 수사학적 문체 중 하나; 감정을 움직이기 위한"
+  - latin: "thesis"
+    translation:
+      en: "thesis, proposition"
+      ko: "논제, 명제"
+    gender: f
+    notes:
+      en: "gen. thesis; 3rd decl.; Greek loanword"
+      ko: "속격 thesis; 제3변화; 그리스어 차용어"
+  - latin: "hypothesis"
+    translation:
+      en: "hypothesis, specific case"
+      ko: "가설, 구체적 사례"
+    gender: f
+    notes:
+      en: "gen. hypothesis; 3rd decl.; Greek loanword"
+      ko: "속격 hypothesis; 제3변화; 그리스어 차용어"
+  - latin: "topica"
+    translation:
+      en: "topics, commonplaces (of argument)"
+      ko: "논제, 일반 원리 (논증의)"
+    gender: n
+    notes:
+      en: "gen. topicōrum; 2nd decl. neuter plural; Cicero's Topica"
+      ko: "속격 topicōrum; 제2변화 중성 복수; 키케로의 토피카"
+  - latin: "syllogismus"
+    translation:
+      en: "syllogism, logical argument"
+      ko: "삼단논법, 논리적 논증"
+    gender: m
+    notes:
+      en: "gen. syllogismī; 2nd decl.; Greek loanword"
+      ko: "속격 syllogismī; 제2변화; 그리스어 차용어"
+  - latin: "progymnasmata"
+    translation:
+      en: "preliminary exercises (in rhetoric)"
+      ko: "예비 연습 (수사학의)"
+    gender: n
+    notes:
+      en: "gen. progymnasmatōn; 3rd decl. neuter plural; Greek loanword"
+      ko: "속격 progymnasmatōn; 제3변화 중성 복수; 그리스어 차용어"
+  - latin: "ethica"
+    translation:
+      en: "ethics, moral philosophy"
+      ko: "윤리학, 도덕 철학"
+    gender: f
+    notes:
+      en: "gen. ethicae; 1st decl.; Greek loanword"
+      ko: "속격 ethicae; 제1변화; 그리스어 차용어"
+  - latin: "physica"
+    translation:
+      en: "natural philosophy, physics"
+      ko: "자연 철학, 물리학"
+    gender: f
+    notes:
+      en: "gen. physicae; 1st decl.; Greek loanword"
+      ko: "속격 physicae; 제1변화; 그리스어 차용어"
+  - latin: "cathedra"
+    translation:
+      en: "chair (of a teacher)"
+      ko: "교수 의자"
+    gender: f
+    notes:
+      en: "gen. cathedrae; 1st decl.; ex cathedra = 'from the chair'"
+      ko: "속격 cathedrae; 제1변화; ex cathedra = '교수 의자에서'"
+  - latin: "auditorium"
+    translation:
+      en: "lecture hall, auditorium"
+      ko: "강의실, 강당"
+    gender: n
+    notes:
+      en: "gen. auditōriī; 2nd decl. neuter"
+      ko: "속격 auditōriī; 제2변화 중성"
+  - latin: "certamen"
+    translation:
+      en: "contest, competition (rhetorical)"
+      ko: "대회, 경쟁 (수사학적)"
+    gender: n
+    notes:
+      en: "gen. certāminis; 3rd decl."
+      ko: "속격 certāminis; 제3변화"

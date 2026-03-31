@@ -1,0 +1,564 @@
+lesson: 20_Thematic_Vocabulary_Expansion
+lesson_number: 20
+cefr: B2
+categories:
+- id: 201_military_vocabulary
+  label:
+    en: 20.1 Military Vocabulary
+    ko: 20.1 군사 어휘
+  type: vocabulary
+  words:
+  - latin: exercitus
+    translation:
+      en: army
+      ko: 군대
+    gender: m
+    notes:
+      en: "gen. exercitūs; 4th decl."
+      ko: "속격 exercitūs; 제4변화"
+  - latin: legio
+    translation:
+      en: legion
+      ko: 군단
+    gender: f
+    notes:
+      en: "gen. legiōnis; 3rd decl.; ~5,000 soldiers"
+      ko: "속격 legiōnis; 제3변화; 약 5,000명의 병사"
+  - latin: castra
+    translation:
+      en: camp, military camp
+      ko: 진지, 군영
+    gender: n
+    notes:
+      en: "gen. castrōrum; 2nd decl. neuter plural; castra pōnere = 'to pitch camp'"
+      ko: "속격 castrōrum; 제2변화 중성 복수; castra pōnere = '진영을 치다'"
+  - latin: gladius
+    translation:
+      en: sword
+      ko: 검
+    gender: m
+    notes:
+      en: "gen. gladiī; 2nd decl."
+      ko: "속격 gladiī; 제2변화"
+  - latin: scutum
+    translation:
+      en: shield
+      ko: 방패
+    gender: n
+    notes:
+      en: "gen. scūtī; 2nd decl. neuter"
+      ko: "속격 scūtī; 제2변화 중성"
+  - latin: imperator
+    translation:
+      en: commander, general, emperor
+      ko: 사령관, 장군, 황제
+    gender: m
+    notes:
+      en: "gen. imperātōris; 3rd decl."
+      ko: "속격 imperātōris; 제3변화"
+  - latin: proelium
+    translation:
+      en: battle, combat
+      ko: 전투
+    gender: n
+    notes:
+      en: "gen. proeliī; 2nd decl. neuter; proelium committere = 'to join battle'"
+      ko: "속격 proeliī; 제2변화 중성; proelium committere = '전투를 벌이다'"
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: "gen. bellī; 2nd decl. neuter; bellum gerere = 'to wage war'"
+      ko: "속격 bellī; 제2변화 중성; bellum gerere = '전쟁을 수행하다'"
+  - latin: hostis
+    translation:
+      en: enemy (public), foe
+      ko: (공)적, 적군
+    gender: m
+    notes:
+      en: "gen. hostis; 3rd decl.; pl. hostēs = 'the enemy (forces)'"
+      ko: "속격 hostis; 제3변화; 복수 hostēs = '적군'"
+  - latin: victoria
+    translation:
+      en: victory
+      ko: 승리
+    gender: f
+    notes:
+      en: "gen. victōriae; 1st decl."
+      ko: "속격 victōriae; 제1변화"
+  - latin: clades
+    translation:
+      en: defeat, disaster, slaughter
+      ko: 패배, 재난, 학살
+    gender: f
+    notes:
+      en: "gen. clādis; 3rd decl."
+      ko: "속격 clādis; 제3변화"
+  - latin: signum
+    translation:
+      en: signal, standard, sign
+      ko: 신호, 군기, 표시
+    gender: n
+    notes:
+      en: "gen. signī; 2nd decl. neuter; signa inferre = 'to advance (standards)'"
+      ko: "속격 signī; 제2변화 중성; signa inferre = '(군기를 들고) 진격하다'"
+  - latin: acies
+    translation:
+      en: battle line, edge, sharpness
+      ko: 전열, 날, 날카로움
+    gender: f
+    notes:
+      en: "gen. aciēī; 5th decl."
+      ko: "속격 aciēī; 제5변화"
+  - latin: tela
+    translation:
+      en: weapons, missiles, javelins
+      ko: 무기, 투사체, 투창
+    gender: n
+    notes:
+      en: "pl. of tēlum; gen. tēlōrum; 2nd decl. neuter"
+      ko: "tēlum의 복수; 속격 tēlōrum; 제2변화 중성"
+  - latin: pilum
+    translation:
+      en: javelin, pilum
+      ko: 투창, 필룸
+    gender: n
+    notes:
+      en: "gen. pīlī; 2nd decl. neuter; Roman throwing spear"
+      ko: "속격 pīlī; 제2변화 중성; 로마식 투창"
+  - latin: impetus
+    translation:
+      en: attack, charge, impulse
+      ko: 공격, 돌격, 충동
+    gender: m
+    notes:
+      en: "gen. impetūs; 4th decl.; impetum facere = 'to make an attack'"
+      ko: "속격 impetūs; 제4변화; impetum facere = '공격하다'"
+  - latin: praesidium
+    translation:
+      en: garrison, guard, protection
+      ko: 수비대, 경비, 보호
+    gender: n
+    notes:
+      en: "gen. praesidiī; 2nd decl. neuter"
+      ko: "속격 praesidiī; 제2변화 중성"
+  - latin: obsidere
+    translation:
+      en: to besiege, to blockade
+      ko: 포위하다, 봉쇄하다
+    gender: null
+    notes:
+      en: "2nd conj.; obsideō, obsidēre, obsēdī, obsessum"
+      ko: "제2활용; obsideō, obsidēre, obsēdī, obsessum"
+  - latin: vincere
+    translation:
+      en: to conquer, to defeat
+      ko: 정복하다, 이기다
+    gender: null
+    notes:
+      en: "3rd conj.; vincō, vincere, vīcī, victum"
+      ko: "제3활용; vincō, vincere, vīcī, victum"
+  - latin: fugere
+    translation:
+      en: to flee, to escape
+      ko: 도망치다, 탈출하다
+    gender: null
+    notes:
+      en: "3rd conj. -iō; fugiō, fugere, fūgī, fugitum"
+      ko: "제3활용 -iō형; fugiō, fugere, fūgī, fugitum"
+- id: 202_legal_vocabulary
+  label:
+    en: 20.2 Legal Vocabulary
+    ko: 20.2 법률 어휘
+  type: vocabulary
+  words:
+  - latin: ius
+    translation:
+      en: law, right, justice
+      ko: 법, 권리, 정의
+    gender: n
+    notes:
+      en: "gen. iūris; 3rd decl. neuter; iūs cīvīle = 'civil law'"
+      ko: "속격 iūris; 제3변화 중성; iūs cīvīle = '시민법'"
+  - latin: lex
+    translation:
+      en: law, statute, bill
+      ko: 법률, 법규
+    gender: f
+    notes:
+      en: "gen. lēgis; 3rd decl.; lēgem ferre = 'to propose a law'"
+      ko: "속격 lēgis; 제3변화; lēgem ferre = '법안을 제출하다'"
+  - latin: iudex
+    translation:
+      en: judge
+      ko: 재판관, 판사
+    gender: m
+    notes:
+      en: "gen. iūdicis; 3rd decl."
+      ko: "속격 iūdicis; 제3변화"
+  - latin: testis
+    translation:
+      en: witness
+      ko: 증인
+    gender: m
+    notes:
+      en: "gen. testis; 3rd decl."
+      ko: "속격 testis; 제3변화"
+  - latin: poena
+    translation:
+      en: penalty, punishment
+      ko: 형벌, 벌
+    gender: f
+    notes:
+      en: "gen. poenae; 1st decl.; poenam dare = 'to pay a penalty'"
+      ko: "속격 poenae; 제1변화; poenam dare = '벌을 받다'"
+  - latin: reus
+    translation:
+      en: defendant, accused
+      ko: 피고인
+    gender: m
+    notes:
+      en: "gen. reī; 2nd decl."
+      ko: "속격 reī; 제2변화"
+  - latin: crimen
+    translation:
+      en: charge, accusation, crime
+      ko: 혐의, 고소, 범죄
+    gender: n
+    notes:
+      en: "gen. crīminis; 3rd decl. neuter"
+      ko: "속격 crīminis; 제3변화 중성"
+  - latin: iudicium
+    translation:
+      en: trial, judgment, court
+      ko: 재판, 판결, 법정
+    gender: n
+    notes:
+      en: "gen. iūdiciī; 2nd decl. neuter"
+      ko: "속격 iūdiciī; 제2변화 중성"
+  - latin: advocatus
+    translation:
+      en: advocate, legal advisor
+      ko: 변호사, 법률 자문
+    gender: m
+    notes:
+      en: "gen. advocātī; 2nd decl."
+      ko: "속격 advocātī; 제2변화"
+  - latin: accusare
+    translation:
+      en: to accuse, to prosecute
+      ko: 고발하다, 기소하다
+    gender: null
+    notes:
+      en: "1st conj.; accūsō, accūsāre, accūsāvī, accūsātum; + gen. of charge"
+      ko: "제1활용; accūsō, accūsāre, accūsāvī, accūsātum; + 혐의의 속격"
+  - latin: damnare
+    translation:
+      en: to condemn, to find guilty
+      ko: 유죄 판결하다
+    gender: null
+    notes:
+      en: "1st conj.; damnō, damnāre, damnāvī, damnātum; + gen. of charge"
+      ko: "제1활용; damnō, damnāre, damnāvī, damnātum; + 혐의의 속격"
+  - latin: absolvere
+    translation:
+      en: to acquit, to free
+      ko: 무죄 판결하다, 풀어주다
+    gender: null
+    notes:
+      en: "3rd conj.; absolvō, absolvere, absolvī, absolūtum"
+      ko: "제3활용; absolvō, absolvere, absolvī, absolūtum"
+  - latin: supplicium
+    translation:
+      en: punishment, execution, entreaty
+      ko: 처벌, 처형, 탄원
+    gender: n
+    notes:
+      en: "gen. suppliciī; 2nd decl. neuter; supplicium sūmere = 'to inflict punishment'"
+      ko: "속격 suppliciī; 제2변화 중성; supplicium sūmere = '처벌을 가하다'"
+- id: 203_political_vocabulary
+  label:
+    en: 20.3 Political Vocabulary
+    ko: 20.3 정치 어휘
+  type: vocabulary
+  words:
+  - latin: senatus
+    translation:
+      en: senate
+      ko: 원로원
+    gender: m
+    notes:
+      en: "gen. senātūs; 4th decl.; senātus consultum = 'senate decree'"
+      ko: "속격 senātūs; 제4변화; senātus consultum = '원로원 의결'"
+  - latin: consul
+    translation:
+      en: consul
+      ko: 집정관
+    gender: m
+    notes:
+      en: "gen. consulis; 3rd decl.; highest Roman magistrate"
+      ko: "속격 consulis; 제3변화; 로마 최고 행정관"
+  - latin: populus
+    translation:
+      en: people, nation
+      ko: 인민, 민족
+    gender: m
+    notes:
+      en: "gen. populī; 2nd decl.; Senātus Populusque Rōmānus (SPQR)"
+      ko: "속격 populī; 제2변화; Senātus Populusque Rōmānus (SPQR)"
+  - latin: res publica
+    translation:
+      en: republic, state, commonwealth
+      ko: 공화국, 국가
+    gender: f
+    notes:
+      en: "gen. reī pūblicae; two-word phrase; 5th + 1st decl."
+      ko: "속격 reī pūblicae; 두 단어 구; 제5 + 제1변화"
+  - latin: civis
+    translation:
+      en: citizen
+      ko: 시민
+    gender: m
+    notes:
+      en: "gen. cīvis; 3rd decl. i-stem"
+      ko: "속격 cīvis; 제3변화 i-어간"
+  - latin: praetor
+    translation:
+      en: praetor, magistrate
+      ko: 법무관
+    gender: m
+    notes:
+      en: "gen. praetōris; 3rd decl.; judicial magistrate"
+      ko: "속격 praetōris; 제3변화; 사법 행정관"
+  - latin: tribunus
+    translation:
+      en: tribune
+      ko: 호민관
+    gender: m
+    notes:
+      en: "gen. tribūnī; 2nd decl.; tribūnus plēbis = 'tribune of the plebs'"
+      ko: "속격 tribūnī; 제2변화; tribūnus plēbis = '평민 호민관'"
+  - latin: comitia
+    translation:
+      en: assembly, elections
+      ko: 민회, 선거
+    gender: n
+    notes:
+      en: "gen. comitiōrum; 2nd decl. neuter plural"
+      ko: "속격 comitiōrum; 제2변화 중성 복수"
+  - latin: suffragium
+    translation:
+      en: vote, ballot, right to vote
+      ko: 투표, 투표권
+    gender: n
+    notes:
+      en: "gen. suffrāgiī; 2nd decl. neuter"
+      ko: "속격 suffrāgiī; 제2변화 중성"
+  - latin: magistratus
+    translation:
+      en: magistrate, magistracy, office
+      ko: 관리, 관직
+    gender: m
+    notes:
+      en: "gen. magistrātūs; 4th decl."
+      ko: "속격 magistrātūs; 제4변화"
+  - latin: imperium
+    translation:
+      en: command, power, empire
+      ko: 명령권, 권력, 제국
+    gender: n
+    notes:
+      en: "gen. imperiī; 2nd decl. neuter"
+      ko: "속격 imperiī; 제2변화 중성"
+  - latin: libertas
+    translation:
+      en: freedom, liberty
+      ko: 자유
+    gender: f
+    notes:
+      en: "gen. lībertātis; 3rd decl."
+      ko: "속격 lībertātis; 제3변화"
+  - latin: auctoritas
+    translation:
+      en: authority, influence, prestige
+      ko: 권위, 영향력, 위신
+    gender: f
+    notes:
+      en: "gen. auctōritātis; 3rd decl."
+      ko: "속격 auctōritātis; 제3변화"
+  - latin: dignitas
+    translation:
+      en: dignity, rank, worth
+      ko: 위엄, 지위, 가치
+    gender: f
+    notes:
+      en: "gen. dignitātis; 3rd decl."
+      ko: "속격 dignitātis; 제3변화"
+- id: 204_religious_vocabulary
+  label:
+    en: 20.4 Religious Vocabulary
+    ko: 20.4 종교 어휘
+  type: vocabulary
+  words:
+  - latin: deus
+    translation:
+      en: god
+      ko: 신
+    gender: m
+    notes:
+      en: "gen. deī; 2nd decl.; nom. pl. deī/diī/dī"
+      ko: "속격 deī; 제2변화; 주격 복수 deī/diī/dī"
+  - latin: dea
+    translation:
+      en: goddess
+      ko: 여신
+    gender: f
+    notes:
+      en: "gen. deae; 1st decl.; dat./abl. pl. deābus"
+      ko: "속격 deae; 제1변화; 여격/탈격 복수 deābus"
+  - latin: templum
+    translation:
+      en: temple
+      ko: 신전
+    gender: n
+    notes:
+      en: "gen. templī; 2nd decl. neuter"
+      ko: "속격 templī; 제2변화 중성"
+  - latin: sacerdos
+    translation:
+      en: priest, priestess
+      ko: 사제, 여사제
+    gender: m
+    notes:
+      en: "gen. sacerdōtis; 3rd decl.; m. or f."
+      ko: "속격 sacerdōtis; 제3변화; 남성 또는 여성"
+  - latin: sacrificium
+    translation:
+      en: sacrifice
+      ko: 제사, 희생
+    gender: n
+    notes:
+      en: "gen. sacrificiī; 2nd decl. neuter"
+      ko: "속격 sacrificiī; 제2변화 중성"
+  - latin: ara
+    translation:
+      en: altar
+      ko: 제단
+    gender: f
+    notes:
+      en: "gen. ārae; 1st decl."
+      ko: "속격 ārae; 제1변화"
+  - latin: numen
+    translation:
+      en: divine power, divine will, deity
+      ko: 신력, 신의, 신격
+    gender: n
+    notes:
+      en: "gen. nūminis; 3rd decl. neuter"
+      ko: "속격 nūminis; 제3변화 중성"
+  - latin: sacer
+    translation:
+      en: sacred, holy, consecrated
+      ko: 신성한, 거룩한
+    gender: m
+    notes:
+      en: "adj. sacer, sacra, sacrum; 1st/2nd decl."
+      ko: "형용사 sacer, sacra, sacrum; 제1·2변화"
+  - latin: religio
+    translation:
+      en: religious scruple, piety, worship
+      ko: 종교적 경외, 경건, 예배
+    gender: f
+    notes:
+      en: "gen. religiōnis; 3rd decl."
+      ko: "속격 religiōnis; 제3변화"
+  - latin: augur
+    translation:
+      en: augur, diviner
+      ko: 조점관, 점술가
+    gender: m
+    notes:
+      en: "gen. auguris; 3rd decl.; interpreter of bird omens"
+      ko: "속격 auguris; 제3변화; 새점 해석자"
+  - latin: auspicium
+    translation:
+      en: auspice, omen, divination
+      ko: 조짐, 점, 점술
+    gender: n
+    notes:
+      en: "gen. auspiciī; 2nd decl. neuter; from avis + specere"
+      ko: "속격 auspiciī; 제2변화 중성; avis + specere에서 유래"
+  - latin: omen
+    translation:
+      en: omen, sign, portent
+      ko: 징조, 조짐
+    gender: n
+    notes:
+      en: "gen. ōminis; 3rd decl. neuter"
+      ko: "속격 ōminis; 제3변화 중성"
+  - latin: votum
+    translation:
+      en: vow, prayer, wish
+      ko: 서원, 기도, 소원
+    gender: n
+    notes:
+      en: "gen. vōtī; 2nd decl. neuter; vōtum solvere = 'to fulfill a vow'"
+      ko: "속격 vōtī; 제2변화 중성; vōtum solvere = '서원을 이행하다'"
+  - latin: precari
+    translation:
+      en: to pray, to entreat
+      ko: 기도하다, 간청하다
+    gender: null
+    notes:
+      en: "1st conj. deponent; precor, precārī, precātus sum"
+      ko: "제1활용 탈형 동사; precor, precārī, precātus sum"
+  - latin: pietas
+    translation:
+      en: piety, devotion, loyalty
+      ko: 경건, 헌신, 충성
+    gender: f
+    notes:
+      en: "gen. pietātis; 3rd decl.; duty to gods, family, state"
+      ko: "속격 pietātis; 제3변화; 신, 가족, 국가에 대한 의무"
+  - latin: fatum
+    translation:
+      en: fate, destiny, doom
+      ko: 운명, 숙명
+    gender: n
+    notes:
+      en: "gen. fātī; 2nd decl. neuter; lit. 'that which has been spoken'"
+      ko: "속격 fātī; 제2변화 중성; 직역 '말해진 것'"
+  - latin: supplicare
+    translation:
+      en: to pray humbly, to supplicate
+      ko: 겸손히 기도하다, 빌다
+    gender: null
+    notes:
+      en: "1st conj.; supplicō, supplicāre, supplicāvī, supplicātum; + dat."
+      ko: "제1활용; supplicō, supplicāre, supplicāvī, supplicātum; + 여격"
+  - latin: pontifex
+    translation:
+      en: pontiff, high priest
+      ko: 대사제
+    gender: m
+    notes:
+      en: "gen. pontificis; 3rd decl.; pontifex maximus = 'chief priest'"
+      ko: "속격 pontificis; 제3변화; pontifex maximus = '최고 사제'"
+  - latin: vestal
+    translation:
+      en: Vestal Virgin
+      ko: 베스타 처녀
+    gender: f
+    notes:
+      en: "virgō Vestālis; priestess of Vesta, goddess of the hearth"
+      ko: "virgō Vestālis; 화로의 여신 베스타의 여사제"
+  - latin: oraculum
+    translation:
+      en: oracle, prophecy
+      ko: 신탁, 예언
+    gender: n
+    notes:
+      en: "gen. ōrāculī; 2nd decl. neuter"
+      ko: "속격 ōrāculī; 제2변화 중성"

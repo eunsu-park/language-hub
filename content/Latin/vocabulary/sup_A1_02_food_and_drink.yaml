@@ -1,0 +1,384 @@
+lesson: "sup_A1_Food_and_Drink"
+lesson_number: 102
+cefr: A1
+type: supplementary
+topic: "Food and Drink"
+categories:
+- id: fruits
+  label:
+    en: "Fruits"
+    ko: "과일"
+  type: vocabulary
+  words:
+  - latin: malum
+    translation:
+      en: "apple"
+      ko: "사과"
+    gender: n
+    notes:
+      en: "gen. mali; 2nd declension neuter; also means 'evil' when masculine (malus)"
+      ko: "속격 mali; 제2변화 중성; 남성형(malus)일 때 '악'이란 뜻도 있음"
+  - latin: pirum
+    translation:
+      en: "pear"
+      ko: "배"
+    gender: n
+    notes:
+      en: "gen. piri; 2nd declension neuter"
+      ko: "속격 piri; 제2변화 중성"
+  - latin: uva
+    translation:
+      en: "grape"
+      ko: "포도"
+    gender: f
+    notes:
+      en: "gen. uvae; 1st declension; essential for Roman winemaking"
+      ko: "속격 uvae; 제1변화; 로마 포도주 제조에 필수적"
+  - latin: ficus
+    translation:
+      en: "fig"
+      ko: "무화과"
+    gender: f
+    notes:
+      en: "gen. ficus; 4th declension; a staple fruit of the Roman diet"
+      ko: "속격 ficus; 제4변화; 로마 식단의 주요 과일"
+  - latin: oliva
+    translation:
+      en: "olive"
+      ko: "올리브"
+    gender: f
+    notes:
+      en: "gen. olivae; 1st declension; source of 'olive'"
+      ko: "속격 olivae; 제1변화; 영어 'olive'의 어원"
+  - latin: prunum
+    translation:
+      en: "plum"
+      ko: "자두"
+    gender: n
+    notes:
+      en: "gen. pruni; 2nd declension neuter; source of 'prune'"
+      ko: "속격 pruni; 제2변화 중성; 영어 'prune'의 어원"
+  - latin: pomum
+    translation:
+      en: "fruit (general)"
+      ko: "과일 (일반)"
+    gender: n
+    notes:
+      en: "gen. pomi; 2nd declension neuter; source of French 'pomme'"
+      ko: "속격 pomi; 제2변화 중성; 프랑스어 'pomme'의 어원"
+  - latin: nux
+    translation:
+      en: "nut"
+      ko: "견과류"
+    gender: f
+    notes:
+      en: "gen. nucis; 3rd declension; source of 'nucleus'"
+      ko: "속격 nucis; 제3변화; 영어 'nucleus'의 어원"
+  - latin: cerasum
+    translation:
+      en: "cherry"
+      ko: "체리"
+    gender: n
+    notes:
+      en: "gen. cerasi; 2nd declension neuter; from the city of Cerasus in Pontus"
+      ko: "속격 cerasi; 제2변화 중성; 폰투스의 도시 케라수스에서 유래"
+  - latin: persicum
+    translation:
+      en: "peach"
+      ko: "복숭아"
+    gender: n
+    notes:
+      en: "gen. persici; 2nd declension neuter; literally 'Persian (fruit)'"
+      ko: "속격 persici; 제2변화 중성; 문자 그대로 '페르시아의 (과일)'"
+
+- id: grains_bread
+  label:
+    en: "Grains and Bread"
+    ko: "곡물과 빵"
+  type: vocabulary
+  words:
+  - latin: panis
+    translation:
+      en: "bread"
+      ko: "빵"
+    gender: m
+    notes:
+      en: "gen. panis; 3rd declension; 'panem et circenses' — bread and circuses"
+      ko: "속격 panis; 제3변화; 'panem et circenses' — 빵과 서커스"
+  - latin: frumentum
+    translation:
+      en: "grain / wheat"
+      ko: "곡물 / 밀"
+    gender: n
+    notes:
+      en: "gen. frumenti; 2nd declension neuter; vital supply for Roman army"
+      ko: "속격 frumenti; 제2변화 중성; 로마군의 필수 보급품"
+  - latin: hordeum
+    translation:
+      en: "barley"
+      ko: "보리"
+    gender: n
+    notes:
+      en: "gen. hordei; 2nd declension neuter; used for gladiator porridge"
+      ko: "속격 hordei; 제2변화 중성; 검투사 죽에 사용됨"
+  - latin: farina
+    translation:
+      en: "flour"
+      ko: "밀가루"
+    gender: f
+    notes:
+      en: "gen. farinae; 1st declension; source of 'farina'"
+      ko: "속격 farinae; 제1변화; 영어 'farina'의 어원"
+  - latin: puls
+    translation:
+      en: "porridge"
+      ko: "죽"
+    gender: f
+    notes:
+      en: "gen. pultis; 3rd declension; staple food of early Romans"
+      ko: "속격 pultis; 제3변화; 초기 로마인의 주식"
+  - latin: placenta
+    translation:
+      en: "flat cake"
+      ko: "납작한 케이크"
+    gender: f
+    notes:
+      en: "gen. placentae; 1st declension; a Roman baked pastry"
+      ko: "속격 placentae; 제1변화; 로마의 구운 과자"
+  - latin: libum
+    translation:
+      en: "sacrificial cake"
+      ko: "제사용 떡"
+    gender: n
+    notes:
+      en: "gen. libi; 2nd declension neuter; offered to household gods"
+      ko: "속격 libi; 제2변화 중성; 가정의 신에게 바치는 제물"
+
+- id: meats_dairy
+  label:
+    en: "Meats and Dairy"
+    ko: "육류와 유제품"
+  type: vocabulary
+  words:
+  - latin: caro
+    translation:
+      en: "meat / flesh"
+      ko: "고기"
+    gender: f
+    notes:
+      en: "gen. carnis; 3rd declension; source of 'carnal, carnivore'"
+      ko: "속격 carnis; 제3변화; 영어 'carnal, carnivore'의 어원"
+  - latin: ovum
+    translation:
+      en: "egg"
+      ko: "달걀"
+    gender: n
+    notes:
+      en: "gen. ovi; 2nd declension neuter; source of 'ovum, oval'"
+      ko: "속격 ovi; 제2변화 중성; 영어 'ovum, oval'의 어원"
+  - latin: caseus
+    translation:
+      en: "cheese"
+      ko: "치즈"
+    gender: m
+    notes:
+      en: "gen. casei; 2nd declension; source of 'cheese' (via Germanic)"
+      ko: "속격 casei; 제2변화; 영어 'cheese'의 어원 (게르만어 경유)"
+  - latin: lac
+    translation:
+      en: "milk"
+      ko: "우유"
+    gender: n
+    notes:
+      en: "gen. lactis; 3rd declension neuter; source of 'lactose, lactic'"
+      ko: "속격 lactis; 제3변화 중성; 영어 'lactose, lactic'의 어원"
+  - latin: butyrum
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: n
+    notes:
+      en: "gen. butyri; 2nd declension neuter; from Greek boutyron"
+      ko: "속격 butyri; 제2변화 중성; 그리스어 boutyron에서 유래"
+  - latin: perna
+    translation:
+      en: "ham / leg of pork"
+      ko: "햄 / 돼지 다리"
+    gender: f
+    notes:
+      en: "gen. pernae; 1st declension"
+      ko: "속격 pernae; 제1변화"
+  - latin: agnus
+    translation:
+      en: "lamb"
+      ko: "어린 양 (고기)"
+    gender: m
+    notes:
+      en: "gen. agni; 2nd declension; 'Agnus Dei' — Lamb of God"
+      ko: "속격 agni; 제2변화; 'Agnus Dei' — 하느님의 어린 양"
+  - latin: pullus
+    translation:
+      en: "chicken (young bird)"
+      ko: "닭 (어린 새)"
+    gender: m
+    notes:
+      en: "gen. pulli; 2nd declension; source of French 'poulet'"
+      ko: "속격 pulli; 제2변화; 프랑스어 'poulet'의 어원"
+
+- id: drinks
+  label:
+    en: "Drinks"
+    ko: "음료"
+  type: vocabulary
+  words:
+  - latin: aqua
+    translation:
+      en: "water"
+      ko: "물"
+    gender: f
+    notes:
+      en: "gen. aquae; 1st declension; source of 'aqua, aqueduct'"
+      ko: "속격 aquae; 제1변화; 영어 'aqua, aqueduct'의 어원"
+  - latin: vinum
+    translation:
+      en: "wine"
+      ko: "포도주"
+    gender: n
+    notes:
+      en: "gen. vini; 2nd declension neuter; source of 'wine, vine'"
+      ko: "속격 vini; 제2변화 중성; 영어 'wine, vine'의 어원"
+  - latin: mulsum
+    translation:
+      en: "honey wine / mead"
+      ko: "꿀 포도주 / 미드"
+    gender: n
+    notes:
+      en: "gen. mulsi; 2nd declension neuter; popular Roman aperitif"
+      ko: "속격 mulsi; 제2변화 중성; 인기 있는 로마 식전주"
+  - latin: posca
+    translation:
+      en: "vinegar-water drink"
+      ko: "식초 물 음료"
+    gender: f
+    notes:
+      en: "gen. poscae; 1st declension; common soldiers' drink"
+      ko: "속격 poscae; 제1변화; 일반 병사들의 음료"
+  - latin: cerevisia
+    translation:
+      en: "beer"
+      ko: "맥주"
+    gender: f
+    notes:
+      en: "gen. cerevisiae; 1st declension; considered barbaric by Romans"
+      ko: "속격 cerevisiae; 제1변화; 로마인에게 야만적인 것으로 여겨짐"
+
+- id: cooking
+  label:
+    en: "Cooking and Meals"
+    ko: "요리와 식사"
+  type: vocabulary
+  words:
+  - latin: cena
+    translation:
+      en: "dinner (main meal)"
+      ko: "저녁 식사 (주된 식사)"
+    gender: f
+    notes:
+      en: "gen. cenae; 1st declension; the most important Roman meal"
+      ko: "속격 cenae; 제1변화; 가장 중요한 로마의 식사"
+  - latin: prandium
+    translation:
+      en: "lunch"
+      ko: "점심"
+    gender: n
+    notes:
+      en: "gen. prandii; 2nd declension neuter; a light midday meal"
+      ko: "속격 prandii; 제2변화 중성; 가벼운 낮 식사"
+  - latin: ientaculum
+    translation:
+      en: "breakfast"
+      ko: "아침 식사"
+    gender: n
+    notes:
+      en: "gen. ientaculi; 2nd declension neuter; usually just bread and cheese"
+      ko: "속격 ientaculi; 제2변화 중성; 보통 빵과 치즈만"
+  - latin: cibus
+    translation:
+      en: "food"
+      ko: "음식"
+    gender: m
+    notes:
+      en: "gen. cibi; 2nd declension"
+      ko: "속격 cibi; 제2변화"
+  - latin: mel
+    translation:
+      en: "honey"
+      ko: "꿀"
+    gender: n
+    notes:
+      en: "gen. mellis; 3rd declension neuter; primary sweetener for Romans"
+      ko: "속격 mellis; 제3변화 중성; 로마인의 주요 감미료"
+  - latin: oleum
+    translation:
+      en: "olive oil"
+      ko: "올리브유"
+    gender: n
+    notes:
+      en: "gen. olei; 2nd declension neuter; source of 'oil'"
+      ko: "속격 olei; 제2변화 중성; 영어 'oil'의 어원"
+  - latin: sal
+    translation:
+      en: "salt"
+      ko: "소금"
+    gender: m
+    notes:
+      en: "gen. salis; 3rd declension; source of 'salary' (soldiers paid in salt)"
+      ko: "속격 salis; 제3변화; 영어 'salary'의 어원 (병사들이 소금으로 급여를 받음)"
+  - latin: garum
+    translation:
+      en: "fish sauce"
+      ko: "생선 소스"
+    gender: n
+    notes:
+      en: "gen. gari; 2nd declension neuter; the most popular Roman condiment"
+      ko: "속격 gari; 제2변화 중성; 가장 인기 있는 로마 조미료"
+  - latin: piper
+    translation:
+      en: "pepper"
+      ko: "후추"
+    gender: n
+    notes:
+      en: "gen. piperis; 3rd declension neuter; an expensive imported spice"
+      ko: "속격 piperis; 제3변화 중성; 비싼 수입 향신료"
+  - latin: acetum
+    translation:
+      en: "vinegar"
+      ko: "식초"
+    gender: n
+    notes:
+      en: "gen. aceti; 2nd declension neuter; source of 'acetic'"
+      ko: "속격 aceti; 제2변화 중성; 영어 'acetic'의 어원"
+  - latin: mensa
+    translation:
+      en: "table (dining)"
+      ko: "식탁"
+    gender: f
+    notes:
+      en: "gen. mensae; 1st declension; also means 'course' of a meal"
+      ko: "속격 mensae; 제1변화; 식사의 '코스'라는 뜻도 있음"
+  - latin: coquus
+    translation:
+      en: "cook / chef"
+      ko: "요리사"
+    gender: m
+    notes:
+      en: "gen. coqui; 2nd declension; source of French 'cuisinier'"
+      ko: "속격 coqui; 제2변화; 프랑스어 'cuisinier'의 어원"
+  - latin: culina
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: f
+    notes:
+      en: "gen. culinae; 1st declension; source of 'culinary'"
+      ko: "속격 culinae; 제1변화; 영어 'culinary'의 어원"

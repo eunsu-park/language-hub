@@ -1,0 +1,548 @@
+lesson: 18_Conditions_and_Complex_Syntax
+lesson_number: 18
+cefr: B2
+categories:
+- id: 181_conditional_words
+  label:
+    en: 18.1 Conditional Words
+    ko: 18.1 조건문 어휘
+  type: vocabulary
+  words:
+  - latin: si
+    translation:
+      en: if
+      ko: 만약 ~라면
+    gender: null
+    notes:
+      en: "conjunction; introduces protasis of conditional"
+      ko: "접속사; 조건문의 전건을 이끔"
+  - latin: nisi
+    translation:
+      en: unless, if...not
+      ko: ~하지 않는 한, 만약 ~이 아니라면
+    gender: null
+    notes:
+      en: "conjunction; negative conditional"
+      ko: "접속사; 부정 조건"
+  - latin: sin
+    translation:
+      en: but if, if however
+      ko: 그러나 만약
+    gender: null
+    notes:
+      en: "conjunction; introduces alternative condition"
+      ko: "접속사; 대안적 조건을 이끔"
+  - latin: sive...sive
+    translation:
+      en: whether...or, if...or if
+      ko: ~이든 ~이든
+    gender: null
+    notes:
+      en: "correlative conjunctions; also seu...seu"
+      ko: "상관 접속사; seu...seu로도 표기"
+  - latin: modo
+    translation:
+      en: provided that, only
+      ko: ~하기만 하면, 단지
+    gender: null
+    notes:
+      en: "adverb/conjunction; with subjunctive"
+      ko: "부사/접속사; 접속법과 함께"
+  - latin: dummodo
+    translation:
+      en: provided that, if only
+      ko: ~하기만 하면
+    gender: null
+    notes:
+      en: "conjunction; with subjunctive; negative = dummodo ne"
+      ko: "접속사; 접속법과 함께; 부정 = dummodo ne"
+  - latin: quodsi
+    translation:
+      en: but if, and if
+      ko: 그런데 만약
+    gender: null
+    notes:
+      en: "conjunction; transitional conditional"
+      ko: "접속사; 전환적 조건"
+  - latin: ni
+    translation:
+      en: if...not, unless
+      ko: 만약 ~이 아니라면
+    gender: null
+    notes:
+      en: "archaic conjunction; = nisi; common in legal/formal Latin"
+      ko: "고어 접속사; = nisi; 법률/격식 라틴어에서 흔함"
+  - latin: condicio
+    translation:
+      en: condition, terms, agreement
+      ko: 조건, 약정
+    gender: f
+    notes:
+      en: "gen. condiciōnis; 3rd decl."
+      ko: "속격 condiciōnis; 제3변화"
+  - latin: verus
+    translation:
+      en: true, real
+      ko: 참된, 진짜의
+    gender: m
+    notes:
+      en: "adj. vērus, -a, -um; vērum = 'but, however' (adv.)"
+      ko: "형용사 vērus, -a, -um; vērum = '그러나' (부사)"
+  - latin: falsus
+    translation:
+      en: false, deceptive
+      ko: 거짓된, 속이는
+    gender: m
+    notes:
+      en: "adj. falsus, -a, -um; pp. of fallere"
+      ko: "형용사 falsus, -a, -um; fallere의 과거분사"
+  - latin: possibilis
+    translation:
+      en: possible
+      ko: 가능한
+    gender: m
+    notes:
+      en: "adj. possibilis, -e; 3rd decl. adj.; rare in classical Latin"
+      ko: "형용사 possibilis, -e; 제3변화 형용사; 고전 라틴어에서 드묾"
+  - latin: fors
+    translation:
+      en: chance, luck
+      ko: 우연, 운
+    gender: f
+    notes:
+      en: "gen. fortis; 3rd decl.; forte = 'by chance' (abl.)"
+      ko: "속격 fortis; 제3변화; forte = '우연히' (탈격)"
+  - latin: fortasse
+    translation:
+      en: perhaps, possibly
+      ko: 아마도
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: forsitan
+    translation:
+      en: perhaps
+      ko: 아마도
+    gender: null
+    notes:
+      en: "adverb; with subjunctive in classical Latin"
+      ko: "부사; 고전 라틴어에서 접속법과 함께"
+- id: 182_relative_clause_vocabulary
+  label:
+    en: 18.2 Relative Clause Vocabulary
+    ko: 18.2 관계절 어휘
+  type: vocabulary
+  words:
+  - latin: quisquis
+    translation:
+      en: whoever, whatever
+      ko: 누구든, 무엇이든
+    gender: m
+    notes:
+      en: "indefinite relative pronoun; nom. quisquis, acc. quicquid/quidquid"
+      ko: "부정 관계대명사; 주격 quisquis, 대격 quicquid/quidquid"
+  - latin: quicumque
+    translation:
+      en: whoever, whatever, whichever
+      ko: 누구든지, 무엇이든지
+    gender: m
+    notes:
+      en: "generalizing relative; quīcumque, quaecumque, quodcumque"
+      ko: "일반화 관계사; quīcumque, quaecumque, quodcumque"
+  - latin: ubicumque
+    translation:
+      en: wherever
+      ko: 어디에서든
+    gender: null
+    notes:
+      en: "relative adverb; generalizing"
+      ko: "관계 부사; 일반화"
+  - latin: quandocumque
+    translation:
+      en: whenever
+      ko: 언제든지
+    gender: null
+    notes:
+      en: "relative adverb; generalizing"
+      ko: "관계 부사; 일반화"
+  - latin: quocumque
+    translation:
+      en: to wherever, whithersoever
+      ko: 어디로든
+    gender: null
+    notes:
+      en: "relative adverb of direction"
+      ko: "방향의 관계 부사"
+  - latin: utcumque
+    translation:
+      en: however, in whatever way
+      ko: 어떻게든
+    gender: null
+    notes:
+      en: "relative adverb; generalizing"
+      ko: "관계 부사; 일반화"
+  - latin: quantuscumque
+    translation:
+      en: however great, of whatever size
+      ko: 아무리 크더라도
+    gender: m
+    notes:
+      en: "adj. quantuscumque, -acumque, -umcumque"
+      ko: "형용사 quantuscumque, -acumque, -umcumque"
+  - latin: qualiscumque
+    translation:
+      en: of whatever kind
+      ko: 어떤 종류이든
+    gender: m
+    notes:
+      en: "adj. quāliscumque, -ecumque"
+      ko: "형용사 quāliscumque, -ecumque"
+  - latin: genus
+    translation:
+      en: kind, type, class, race
+      ko: 종류, 유형, 부류, 인종
+    gender: n
+    notes:
+      en: "gen. generis; 3rd decl. neuter"
+      ko: "속격 generis; 제3변화 중성"
+  - latin: modus
+    translation:
+      en: way, manner, measure, limit
+      ko: 방법, 방식, 정도, 한계
+    gender: m
+    notes:
+      en: "gen. modī; 2nd decl.; quem ad modum = 'in what way'"
+      ko: "속격 modī; 제2변화; quem ad modum = '어떤 방식으로'"
+- id: 183_fear_clause_vocabulary
+  label:
+    en: 18.3 Fear Clause Vocabulary
+    ko: 18.3 공포절 어휘
+  type: vocabulary
+  words:
+  - latin: timere
+    translation:
+      en: to fear, to be afraid of
+      ko: 두려워하다
+    gender: null
+    notes:
+      en: "2nd conj.; timeō, timēre, timuī; + ne/ut + subj."
+      ko: "제2활용; timeō, timēre, timuī; + ne/ut + 접속법"
+  - latin: vereri
+    translation:
+      en: to fear, to respect, to revere
+      ko: 두려워하다, 존경하다
+    gender: null
+    notes:
+      en: "2nd conj. deponent; vereor, verērī, veritus sum"
+      ko: "제2활용 탈형 동사; vereor, verērī, veritus sum"
+  - latin: metuere
+    translation:
+      en: to fear, to dread
+      ko: 두려워하다, 걱정하다
+    gender: null
+    notes:
+      en: "3rd conj.; metuō, metuere, metuī; + ne/ut + subj."
+      ko: "제3활용; metuō, metuere, metuī; + ne/ut + 접속법"
+  - latin: periculum
+    translation:
+      en: danger, peril, risk
+      ko: 위험, 위기
+    gender: n
+    notes:
+      en: "gen. perīculī; 2nd decl. neuter"
+      ko: "속격 perīculī; 제2변화 중성"
+  - latin: metus
+    translation:
+      en: fear, dread, anxiety
+      ko: 두려움, 공포
+    gender: m
+    notes:
+      en: "gen. metūs; 4th decl."
+      ko: "속격 metūs; 제4변화"
+  - latin: timor
+    translation:
+      en: fear, dread
+      ko: 두려움, 공포
+    gender: m
+    notes:
+      en: "gen. timōris; 3rd decl."
+      ko: "속격 timōris; 제3변화"
+  - latin: terror
+    translation:
+      en: terror, fright, panic
+      ko: 공포, 놀람
+    gender: m
+    notes:
+      en: "gen. terrōris; 3rd decl."
+      ko: "속격 terrōris; 제3변화"
+  - latin: spes
+    translation:
+      en: hope, expectation
+      ko: 희망, 기대
+    gender: f
+    notes:
+      en: "gen. speī; 5th decl."
+      ko: "속격 speī; 제5변화"
+  - latin: desperare
+    translation:
+      en: to despair, to give up hope
+      ko: 절망하다
+    gender: null
+    notes:
+      en: "1st conj.; dēspērō, dēspērāre, dēspērāvī, dēspērātum"
+      ko: "제1활용; dēspērō, dēspērāre, dēspērāvī, dēspērātum"
+  - latin: terrere
+    translation:
+      en: to frighten, to terrify
+      ko: 겁주다, 두렵게 하다
+    gender: null
+    notes:
+      en: "2nd conj.; terreō, terrēre, terruī, territum"
+      ko: "제2활용; terreō, terrēre, terruī, territum"
+  - latin: perterritus
+    translation:
+      en: thoroughly frightened, terrified
+      ko: 몹시 겁에 질린
+    gender: m
+    notes:
+      en: "adj./pp. perterritus, -a, -um; from perterrēre"
+      ko: "형용사/과거분사 perterritus, -a, -um; perterrēre에서"
+- id: 184_complex_syntax_phrases
+  label:
+    en: 18.4 Complex Syntax Phrases
+    ko: 18.4 복합 구문 어구
+  type: vocabulary
+  words:
+  - latin: fore ut
+    translation:
+      en: that it would happen that
+      ko: ~할 것이라는 것
+    gender: null
+    notes:
+      en: "periphrastic future infinitive; fore = futūrum esse"
+      ko: "우회적 미래 부정법; fore = futūrum esse"
+  - latin: accidit ut
+    translation:
+      en: it happens that
+      ko: ~하는 일이 일어나다
+    gender: null
+    notes:
+      en: "impersonal; + subjunctive in result clause"
+      ko: "비인칭; + 접속법 결과절"
+  - latin: fit ut
+    translation:
+      en: it happens that, it comes about that
+      ko: ~하게 되다
+    gender: null
+    notes:
+      en: "impersonal; fiō + ut + subjunctive"
+      ko: "비인칭; fiō + ut + 접속법"
+  - latin: necesse est
+    translation:
+      en: it is necessary
+      ko: 필요하다, ~해야 한다
+    gender: null
+    notes:
+      en: "impersonal expression; + infinitive or ut + subj."
+      ko: "비인칭 표현; + 부정법 또는 ut + 접속법"
+  - latin: opus est
+    translation:
+      en: there is need, it is necessary
+      ko: ~이 필요하다
+    gender: null
+    notes:
+      en: "impersonal expression; + abl. or infinitive"
+      ko: "비인칭 표현; + 탈격 또는 부정법"
+  - latin: constat
+    translation:
+      en: it is agreed, it is established
+      ko: ~은 확실하다, 알려져 있다
+    gender: null
+    notes:
+      en: "impersonal; cōnstat + acc. + inf."
+      ko: "비인칭; cōnstat + 대격 + 부정법"
+  - latin: apparet
+    translation:
+      en: it is evident, it is clear
+      ko: 분명하다
+    gender: null
+    notes:
+      en: "impersonal; appāret + acc. + inf."
+      ko: "비인칭; appāret + 대격 + 부정법"
+  - latin: certum est
+    translation:
+      en: it is certain, it is resolved
+      ko: 확실하다, 결심되다
+    gender: null
+    notes:
+      en: "impersonal expression"
+      ko: "비인칭 표현"
+  - latin: dubium non est
+    translation:
+      en: there is no doubt
+      ko: 의심의 여지가 없다
+    gender: null
+    notes:
+      en: "impersonal expression; + quin + subj."
+      ko: "비인칭 표현; + quin + 접속법"
+  - latin: praestare
+    translation:
+      en: to excel, to be superior; to guarantee
+      ko: 뛰어나다; 보증하다
+    gender: null
+    notes:
+      en: "1st conj.; praestō, praestāre, praestitī, praestitum"
+      ko: "제1활용; praestō, praestāre, praestitī, praestitum"
+  - latin: praesertim
+    translation:
+      en: especially, particularly
+      ko: 특히
+    gender: null
+    notes:
+      en: "adverb; often with cum = 'especially since'"
+      ko: "부사; cum과 함께 = '특히 ~이므로'"
+  - latin: praeterea
+    translation:
+      en: besides, moreover
+      ko: 게다가, 더구나
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: videlicet
+    translation:
+      en: clearly, evidently, namely
+      ko: 분명히, 즉
+    gender: null
+    notes:
+      en: "adverb; abbreviation viz."
+      ko: "부사; 약어 viz."
+  - latin: scilicet
+    translation:
+      en: evidently, of course, namely
+      ko: 분명히, 물론, 즉
+    gender: null
+    notes:
+      en: "adverb; from scīre licet = 'one may know'"
+      ko: "부사; scīre licet = '알 수 있다'에서 유래"
+  - latin: nimirum
+    translation:
+      en: without doubt, assuredly, of course
+      ko: 의심할 여지 없이, 확실히
+    gender: null
+    notes:
+      en: "adverb; from nī mīrum = 'not surprising'"
+      ko: "부사; nī mīrum = '놀랍지 않은'에서 유래"
+  - latin: quidem
+    translation:
+      en: indeed, certainly, at least
+      ko: 실로, 확실히, 적어도
+    gender: null
+    notes:
+      en: "adverb; postpositive; ne...quidem = 'not even'"
+      ko: "부사; 후치사; ne...quidem = '~조차 아닌'"
+  - latin: equidem
+    translation:
+      en: indeed, for my part
+      ko: 실로, 나로서는
+    gender: null
+    notes:
+      en: "adverb; emphatic, often with 1st person"
+      ko: "부사; 강조적, 1인칭과 자주 사용"
+  - latin: sane
+    translation:
+      en: surely, indeed, to be sure
+      ko: 확실히, 정말
+    gender: null
+    notes:
+      en: "adverb; also concessive = 'granted'"
+      ko: "부사; 양보적으로도 = '인정하건대'"
+  - latin: profecto
+    translation:
+      en: assuredly, certainly, truly
+      ko: 확실히, 틀림없이
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: nempe
+    translation:
+      en: surely, of course, that is to say
+      ko: 물론, 즉
+    gender: null
+    notes:
+      en: "adverb; appeals to shared knowledge"
+      ko: "부사; 공유된 지식에 호소"
+  - latin: potius
+    translation:
+      en: rather, preferably
+      ko: 오히려, 차라리
+    gender: null
+    notes:
+      en: "adverb; comparative of potis; potius quam = 'rather than'"
+      ko: "부사; potis의 비교급; potius quam = '~보다 오히려'"
+  - latin: immo
+    translation:
+      en: on the contrary, nay rather
+      ko: 오히려, 아니 그보다
+    gender: null
+    notes:
+      en: "adverb; corrective"
+      ko: "부사; 정정적"
+  - latin: utique
+    translation:
+      en: certainly, at any rate
+      ko: 확실히, 어쨌든
+    gender: null
+    notes:
+      en: "adverb"
+      ko: "부사"
+  - latin: alioqui
+    translation:
+      en: otherwise, in other respects
+      ko: 그렇지 않으면, 다른 점에서
+    gender: null
+    notes:
+      en: "adverb; also alioquin"
+      ko: "부사; alioquin으로도 표기"
+  - latin: certe
+    translation:
+      en: certainly, at least, surely
+      ko: 확실히, 적어도
+    gender: null
+    notes:
+      en: "adverb; from certus"
+      ko: "부사; certus에서"
+  - latin: dumtaxat
+    translation:
+      en: to the extent that, only, merely
+      ko: ~하는 한에서, 단지, 다만
+    gender: null
+    notes:
+      en: "adverb; limiting particle"
+      ko: "부사; 제한적 불변화사"
+  - latin: quapropter
+    translation:
+      en: wherefore, on account of which
+      ko: 그런 까닭에, 따라서
+    gender: null
+    notes:
+      en: "relative/interrogative adverb"
+      ko: "관계/의문 부사"
+  - latin: quare
+    translation:
+      en: why, wherefore, for which reason
+      ko: 왜, 그런 이유로
+    gender: null
+    notes:
+      en: "interrogative/relative adverb; quā rē"
+      ko: "의문/관계 부사; quā rē"
+  - latin: proinde
+    translation:
+      en: hence, therefore, accordingly
+      ko: 따라서, 그러므로
+    gender: null
+    notes:
+      en: "adverb; also proin"
+      ko: "부사; proin으로도 표기"

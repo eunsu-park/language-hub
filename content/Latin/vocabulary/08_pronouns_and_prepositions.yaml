@@ -1,0 +1,606 @@
+lesson: 08_Pronouns_and_Prepositions
+lesson_number: 8
+cefr: A2
+categories:
+- id: 81_personal_pronouns
+  label:
+    en: 8.1 Personal Pronouns
+    ko: 8.1 인칭 대명사
+  type: vocabulary
+  words:
+  - latin: ego
+    translation:
+      en: I
+      ko: 나
+    gender: null
+    notes:
+      en: "nom.; acc. me, gen. mei, dat. mihi, abl. me"
+      ko: "주격; 대격 me, 속격 mei, 여격 mihi, 탈격 me"
+  - latin: tu
+    translation:
+      en: you (singular)
+      ko: 너
+    gender: null
+    notes:
+      en: "nom.; acc. te, gen. tui, dat. tibi, abl. te"
+      ko: "주격; 대격 te, 속격 tui, 여격 tibi, 탈격 te"
+  - latin: nos
+    translation:
+      en: we
+      ko: 우리
+    gender: null
+    notes:
+      en: "nom./acc.; gen. nostrum/nostri, dat./abl. nobis"
+      ko: "주격/대격; 속격 nostrum/nostri, 여격/탈격 nobis"
+  - latin: vos
+    translation:
+      en: you (plural)
+      ko: 너희
+    gender: null
+    notes:
+      en: "nom./acc.; gen. vestrum/vestri, dat./abl. vobis"
+      ko: "주격/대격; 속격 vestrum/vestri, 여격/탈격 vobis"
+  - latin: se
+    translation:
+      en: himself, herself, itself, themselves
+      ko: 자기 자신
+    gender: null
+    notes:
+      en: "reflexive; acc./abl. se, gen. sui, dat. sibi"
+      ko: "재귀; 대격/탈격 se, 속격 sui, 여격 sibi"
+  - latin: meus
+    translation:
+      en: my, mine
+      ko: 나의
+    gender: m
+    notes:
+      en: "possessive adj.; meus/mea/meum; voc. m. mi"
+      ko: "소유 형용사; meus/mea/meum; 호격 남성 mi"
+  - latin: tuus
+    translation:
+      en: your, yours (singular)
+      ko: 너의
+    gender: m
+    notes:
+      en: "possessive adj.; tuus/tua/tuum"
+      ko: "소유 형용사; tuus/tua/tuum"
+  - latin: noster
+    translation:
+      en: our, ours
+      ko: 우리의
+    gender: m
+    notes:
+      en: "possessive adj.; noster/nostra/nostrum"
+      ko: "소유 형용사; noster/nostra/nostrum"
+  - latin: vester
+    translation:
+      en: your, yours (plural)
+      ko: 너희의
+    gender: m
+    notes:
+      en: "possessive adj.; vester/vestra/vestrum"
+      ko: "소유 형용사; vester/vestra/vestrum"
+  - latin: suus
+    translation:
+      en: his/her/its/their own
+      ko: 자기 자신의
+    gender: m
+    notes:
+      en: "reflexive possessive; suus/sua/suum"
+      ko: "재귀 소유 형용사; suus/sua/suum"
+- id: 82_demonstrative_pronouns
+  label:
+    en: 8.2 Demonstrative Pronouns
+    ko: 8.2 지시 대명사
+  type: vocabulary
+  words:
+  - latin: hic
+    translation:
+      en: this (near speaker)
+      ko: 이것 (화자 가까이)
+    gender: m
+    notes:
+      en: "hic/haec/hoc; gen. huius, dat. huic"
+      ko: "hic/haec/hoc; 속격 huius, 여격 huic"
+  - latin: haec
+    translation:
+      en: this (feminine)
+      ko: 이것 (여성)
+    gender: f
+    notes:
+      en: "fem. nom. sing. of hic"
+      ko: "hic의 여성 주격 단수"
+  - latin: hoc
+    translation:
+      en: this (neuter)
+      ko: 이것 (중성)
+    gender: n
+    notes:
+      en: "neut. nom./acc. sing. of hic"
+      ko: "hic의 중성 주격/대격 단수"
+  - latin: ille
+    translation:
+      en: that (remote)
+      ko: 저것 (먼 것)
+    gender: m
+    notes:
+      en: "ille/illa/illud; gen. illius, dat. illi"
+      ko: "ille/illa/illud; 속격 illius, 여격 illi"
+  - latin: illa
+    translation:
+      en: that (feminine)
+      ko: 저것 (여성)
+    gender: f
+    notes:
+      en: "fem. nom. sing. of ille"
+      ko: "ille의 여성 주격 단수"
+  - latin: illud
+    translation:
+      en: that (neuter)
+      ko: 저것 (중성)
+    gender: n
+    notes:
+      en: "neut. nom./acc. sing. of ille"
+      ko: "ille의 중성 주격/대격 단수"
+  - latin: is
+    translation:
+      en: he, this, that (weak demonstrative)
+      ko: 그, 이, 저 (약한 지시)
+    gender: m
+    notes:
+      en: "is/ea/id; gen. eius, dat. ei"
+      ko: "is/ea/id; 속격 eius, 여격 ei"
+  - latin: ea
+    translation:
+      en: she, this, that (feminine)
+      ko: 그녀, 이, 저 (여성)
+    gender: f
+    notes:
+      en: "fem. nom. sing. of is"
+      ko: "is의 여성 주격 단수"
+  - latin: id
+    translation:
+      en: it, this, that (neuter)
+      ko: 그것, 이, 저 (중성)
+    gender: n
+    notes:
+      en: "neut. nom./acc. sing. of is"
+      ko: "is의 중성 주격/대격 단수"
+  - latin: iste
+    translation:
+      en: that (near you), that of yours
+      ko: 그것 (청자 가까이), 너의 그것
+    gender: m
+    notes:
+      en: "iste/ista/istud; gen. istius; often pejorative"
+      ko: "iste/ista/istud; 속격 istius; 종종 경멸적"
+  - latin: ista
+    translation:
+      en: that (near you, feminine)
+      ko: 그것 (청자 가까이, 여성)
+    gender: f
+    notes:
+      en: "fem. nom. sing. of iste"
+      ko: "iste의 여성 주격 단수"
+  - latin: istud
+    translation:
+      en: that (near you, neuter)
+      ko: 그것 (청자 가까이, 중성)
+    gender: n
+    notes:
+      en: "neut. nom./acc. sing. of iste"
+      ko: "iste의 중성 주격/대격 단수"
+  - latin: idem
+    translation:
+      en: the same
+      ko: 같은, 동일한
+    gender: m
+    notes:
+      en: "idem/eadem/idem; gen. eiusdem"
+      ko: "idem/eadem/idem; 속격 eiusdem"
+  - latin: ipse
+    translation:
+      en: himself, herself, itself (emphatic)
+      ko: 자기 자신 (강조)
+    gender: m
+    notes:
+      en: "ipse/ipsa/ipsum; gen. ipsius; intensive pronoun"
+      ko: "ipse/ipsa/ipsum; 속격 ipsius; 강조 대명사"
+- id: 83_relative_pronouns
+  label:
+    en: 8.3 Relative and Interrogative Pronouns
+    ko: 8.3 관계 대명사와 의문 대명사
+  type: vocabulary
+  words:
+  - latin: qui
+    translation:
+      en: who, which, that (relative, m.)
+      ko: ~하는 (관계 대명사, 남성)
+    gender: m
+    notes:
+      en: "qui/quae/quod; gen. cuius, dat. cui"
+      ko: "qui/quae/quod; 속격 cuius, 여격 cui"
+  - latin: quae
+    translation:
+      en: who, which, that (relative, f./n.pl.)
+      ko: ~하는 (관계 대명사, 여성/중성복수)
+    gender: f
+    notes:
+      en: "fem. nom. sing. or neut. nom./acc. pl."
+      ko: "여성 주격 단수 또는 중성 주격/대격 복수"
+  - latin: quod
+    translation:
+      en: which, that (relative, neuter)
+      ko: ~하는 (관계 대명사, 중성)
+    gender: n
+    notes:
+      en: "neut. nom./acc. sing. of qui"
+      ko: "qui의 중성 주격/대격 단수"
+  - latin: quis
+    translation:
+      en: who? (interrogative)
+      ko: 누구? (의문)
+    gender: m
+    notes:
+      en: "interrogative; acc. quem, gen. cuius"
+      ko: "의문 대명사; 대격 quem, 속격 cuius"
+  - latin: quid
+    translation:
+      en: what? (interrogative)
+      ko: 무엇? (의문)
+    gender: n
+    notes:
+      en: "interrogative neuter; also indefinite 'something'"
+      ko: "의문 중성; 부정대명사 '무엇인가'로도 사용"
+  - latin: uter
+    translation:
+      en: which (of two)?
+      ko: (둘 중) 어느 쪽?
+    gender: m
+    notes:
+      en: "uter/utra/utrum; gen. utrius"
+      ko: "uter/utra/utrum; 속격 utrius"
+- id: 84_prepositions_accusative
+  label:
+    en: 8.4 Prepositions with Accusative
+    ko: 8.4 대격 지배 전치사
+  type: vocabulary
+  words:
+  - latin: ad
+    translation:
+      en: to, toward, at
+      ko: ~으로, ~를 향하여, ~에서
+    gender: null
+    notes:
+      en: "+ acc.; direction or purpose"
+      ko: "+ 대격; 방향 또는 목적"
+  - latin: ante
+    translation:
+      en: before, in front of
+      ko: ~전에, ~앞에
+    gender: null
+    notes:
+      en: "+ acc.; also adverb"
+      ko: "+ 대격; 부사로도 사용"
+  - latin: contra
+    translation:
+      en: against, opposite
+      ko: ~에 반대하여, 맞은편에
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: inter
+    translation:
+      en: between, among
+      ko: ~사이에, ~가운데
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: per
+    translation:
+      en: through, by means of
+      ko: ~을 통해, ~에 의해
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: post
+    translation:
+      en: after, behind
+      ko: ~후에, ~뒤에
+    gender: null
+    notes:
+      en: "+ acc.; also adverb"
+      ko: "+ 대격; 부사로도 사용"
+  - latin: trans
+    translation:
+      en: across, beyond
+      ko: ~을 가로질러, ~너머
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: propter
+    translation:
+      en: because of, on account of
+      ko: ~때문에
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: ob
+    translation:
+      en: on account of, because of
+      ko: ~때문에
+    gender: null
+    notes:
+      en: "+ acc.; cf. quam ob rem = wherefore"
+      ko: "+ 대격; quam ob rem = 그러므로"
+  - latin: praeter
+    translation:
+      en: beyond, past, besides
+      ko: ~을 지나, ~외에
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: apud
+    translation:
+      en: at, near, among, at the house of
+      ko: ~에서, ~가까이, ~집에서
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+  - latin: circum
+    translation:
+      en: around
+      ko: ~주위에
+    gender: null
+    notes:
+      en: "+ acc."
+      ko: "+ 대격"
+- id: 85_prepositions_ablative
+  label:
+    en: 8.5 Prepositions with Ablative
+    ko: 8.5 탈격 지배 전치사
+  type: vocabulary
+  words:
+  - latin: a / ab
+    translation:
+      en: from, away from, by
+      ko: ~로부터, ~에 의해
+    gender: null
+    notes:
+      en: "+ abl.; ab before vowels; agent with passive"
+      ko: "+ 탈격; 모음 앞에서 ab; 수동태에서 행위자"
+  - latin: cum
+    translation:
+      en: with
+      ko: ~와 함께
+    gender: null
+    notes:
+      en: "+ abl.; mecum, tecum, nobiscum (enclitic)"
+      ko: "+ 탈격; mecum, tecum, nobiscum (접미)"
+  - latin: de
+    translation:
+      en: from, down from, about, concerning
+      ko: ~로부터, ~에서 내려, ~에 대해
+    gender: null
+    notes:
+      en: "+ abl."
+      ko: "+ 탈격"
+  - latin: e / ex
+    translation:
+      en: out of, from
+      ko: ~에서 나와, ~로부터
+    gender: null
+    notes:
+      en: "+ abl.; ex before vowels"
+      ko: "+ 탈격; 모음 앞에서 ex"
+  - latin: pro
+    translation:
+      en: for, on behalf of, in front of
+      ko: ~를 위해, ~를 대신하여, ~앞에
+    gender: null
+    notes:
+      en: "+ abl."
+      ko: "+ 탈격"
+  - latin: sine
+    translation:
+      en: without
+      ko: ~없이
+    gender: null
+    notes:
+      en: "+ abl."
+      ko: "+ 탈격"
+  - latin: prae
+    translation:
+      en: before, in front of, because of
+      ko: ~앞에, ~때문에
+    gender: null
+    notes:
+      en: "+ abl.; causal sense in negative contexts"
+      ko: "+ 탈격; 부정 맥락에서 원인 의미"
+  - latin: coram
+    translation:
+      en: in the presence of, face to face
+      ko: ~앞에서, 대면하여
+    gender: null
+    notes:
+      en: "+ abl.; also adverb"
+      ko: "+ 탈격; 부사로도 사용"
+- id: 86_prepositions_dual
+  label:
+    en: 8.6 Prepositions with Accusative or Ablative
+    ko: 8.6 대격/탈격 양용 전치사
+  type: vocabulary
+  words:
+  - latin: in (+ acc.)
+    translation:
+      en: into, onto, against
+      ko: ~안으로, ~위로, ~에 대해
+    gender: null
+    notes:
+      en: "+ acc. = motion toward"
+      ko: "+ 대격 = ~을 향한 이동"
+  - latin: in (+ abl.)
+    translation:
+      en: in, on
+      ko: ~안에, ~위에
+    gender: null
+    notes:
+      en: "+ abl. = location, no motion"
+      ko: "+ 탈격 = 위치, 이동 없음"
+  - latin: sub (+ acc.)
+    translation:
+      en: under, up to (motion)
+      ko: ~아래로, ~까지 (이동)
+    gender: null
+    notes:
+      en: "+ acc. = motion under"
+      ko: "+ 대격 = 아래로의 이동"
+  - latin: sub (+ abl.)
+    translation:
+      en: under, at the foot of (location)
+      ko: ~아래에, ~기슭에 (위치)
+    gender: null
+    notes:
+      en: "+ abl. = location under"
+      ko: "+ 탈격 = 아래의 위치"
+  - latin: super (+ acc.)
+    translation:
+      en: over, above, beyond
+      ko: ~위로, ~너머
+    gender: null
+    notes:
+      en: "+ acc. = motion over"
+      ko: "+ 대격 = 위로의 이동"
+  - latin: super (+ abl.)
+    translation:
+      en: on top of, about, concerning
+      ko: ~위에, ~에 대해
+    gender: null
+    notes:
+      en: "+ abl. = location on top or 'about'"
+      ko: "+ 탈격 = 위의 위치 또는 '~에 관하여'"
+- id: 87_indefinite_pronouns
+  label:
+    en: 8.7 Indefinite Pronouns
+    ko: 8.7 부정 대명사
+  type: vocabulary
+  words:
+  - latin: aliquis
+    translation:
+      en: someone, something
+      ko: 누군가, 무엇인가
+    gender: m
+    notes:
+      en: "aliquis/aliqua/aliquid; gen. alicuius"
+      ko: "aliquis/aliqua/aliquid; 속격 alicuius"
+  - latin: quisquam
+    translation:
+      en: anyone (at all)
+      ko: 아무라도
+    gender: m
+    notes:
+      en: "used in negative/near-negative contexts"
+      ko: "부정/준부정 맥락에서 사용"
+  - latin: quisque
+    translation:
+      en: each, every one
+      ko: 각각, 모든 이
+    gender: m
+    notes:
+      en: "quisque/quaeque/quidque; gen. cuiusque"
+      ko: "quisque/quaeque/quidque; 속격 cuiusque"
+  - latin: nemo
+    translation:
+      en: no one, nobody
+      ko: 아무도 ~않다
+    gender: m
+    notes:
+      en: "acc. neminem, gen. nullius, dat. nemini"
+      ko: "대격 neminem, 속격 nullius, 여격 nemini"
+  - latin: nihil
+    translation:
+      en: nothing
+      ko: 아무것도 ~않다
+    gender: n
+    notes:
+      en: "indeclinable; also nil; gen. nihili or nullius rei"
+      ko: "불변화; nil로도 사용; 속격 nihili 또는 nullius rei"
+  - latin: quidam
+    translation:
+      en: a certain (person/thing)
+      ko: 어떤 (사람/것)
+    gender: m
+    notes:
+      en: "quidam/quaedam/quiddam; gen. cuiusdam"
+      ko: "quidam/quaedam/quiddam; 속격 cuiusdam"
+  - latin: alius
+    translation:
+      en: another, other
+      ko: 다른, 또 다른
+    gender: m
+    notes:
+      en: "alius/alia/aliud; gen. alterius (borrowed)"
+      ko: "alius/alia/aliud; 속격 alterius (차용형)"
+  - latin: alter
+    translation:
+      en: the other (of two)
+      ko: (둘 중) 다른 하나
+    gender: m
+    notes:
+      en: "alter/altera/alterum; gen. alterius"
+      ko: "alter/altera/alterum; 속격 alterius"
+  - latin: uterque
+    translation:
+      en: each (of two), both
+      ko: (둘 중) 각각, 양쪽
+    gender: m
+    notes:
+      en: "uterque/utraque/utrumque; gen. utriusque"
+      ko: "uterque/utraque/utrumque; 속격 utriusque"
+  - latin: neuter
+    translation:
+      en: neither (of two)
+      ko: (둘 중) 어느 쪽도 ~않다
+    gender: m
+    notes:
+      en: "neuter/neutra/neutrum; gen. neutrius"
+      ko: "neuter/neutra/neutrum; 속격 neutrius"
+  - latin: nullus
+    translation:
+      en: no, none
+      ko: 아무 ~도 없는
+    gender: m
+    notes:
+      en: "nullus/nulla/nullum; gen. nullius; pronominal adj."
+      ko: "nullus/nulla/nullum; 속격 nullius; 대명사적 형용사"
+  - latin: ullus
+    translation:
+      en: any
+      ko: 어떤 (부정 맥락)
+    gender: m
+    notes:
+      en: "ullus/ulla/ullum; gen. ullius; in negative contexts"
+      ko: "ullus/ulla/ullum; 속격 ullius; 부정 맥락에서"
+  - latin: solus
+    translation:
+      en: alone, only
+      ko: 홀로, 유일한
+    gender: m
+    notes:
+      en: "solus/sola/solum; gen. solius; pronominal adj."
+      ko: "solus/sola/solum; 속격 solius; 대명사적 형용사"
+  - latin: totus
+    translation:
+      en: whole, entire
+      ko: 전체의
+    gender: m
+    notes:
+      en: "totus/tota/totum; gen. totius; pronominal adj."
+      ko: "totus/tota/totum; 속격 totius; 대명사적 형용사"

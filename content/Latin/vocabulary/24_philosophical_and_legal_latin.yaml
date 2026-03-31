@@ -1,0 +1,428 @@
+lesson: 24_Philosophical_and_Legal_Latin
+lesson_number: 24
+cefr: C1
+categories:
+- id: 241_philosophical_terms
+  label:
+    en: 24.1 Philosophical Terms
+    ko: 24.1 철학 용어
+  type: vocabulary
+  words:
+  - latin: philosophia
+    translation:
+      en: philosophy
+      ko: 철학
+    gender: f
+    notes:
+      en: "Greek loanword; Cicero was the great translator of Greek philosophy into Latin"
+      ko: "그리스어 차용어; 키케로가 그리스 철학을 라틴어로 번역한 위대한 인물"
+  - latin: sapientia
+    translation:
+      en: wisdom
+      ko: 지혜
+    gender: f
+    notes:
+      en: "From sapere (to taste, to be wise); the highest philosophical goal"
+      ko: "sapere(맛보다, 지혜롭다)에서 유래; 최고의 철학적 목표"
+  - latin: virtus
+    translation:
+      en: virtue, moral excellence
+      ko: 덕, 도덕적 탁월함
+    gender: f
+    notes:
+      en: "In Stoic philosophy, the sole requirement for happiness"
+      ko: "스토아 철학에서 행복의 유일한 조건"
+  - latin: ratio
+    translation:
+      en: reason, calculation, method
+      ko: 이성, 계산, 방법
+    gender: f
+    notes:
+      en: "Gen. rationis; the defining faculty of human beings in Stoicism"
+      ko: "속격 rationis; 스토아 철학에서 인간의 핵심적 능력"
+  - latin: animus
+    translation:
+      en: mind, soul, spirit
+      ko: 마음, 영혼, 정신
+    gender: m
+    notes:
+      en: "The rational soul, as distinct from anima (life force)"
+      ko: "이성적 영혼, anima(생명력)와 구별됨"
+  - latin: veritas
+    translation:
+      en: truth
+      ko: 진리
+    gender: f
+    notes:
+      en: "Gen. veritatis; source of English 'verity' and 'verify'"
+      ko: "속격 veritatis; 영어 'verity'와 'verify'의 어원"
+  - latin: bonum
+    translation:
+      en: the good
+      ko: 선, 좋은 것
+    gender: n
+    notes:
+      en: "Summum bonum = the highest good; a central question of ethics"
+      ko: "Summum bonum = 최고선; 윤리학의 핵심 질문"
+  - latin: malum
+    translation:
+      en: evil, misfortune
+      ko: 악, 불행
+    gender: n
+    notes:
+      en: "The opposite of bonum; also means 'apple' (different etymology)"
+      ko: "bonum의 반대; '사과'라는 뜻도 있음 (다른 어원)"
+  - latin: voluptas
+    translation:
+      en: pleasure
+      ko: 쾌락
+    gender: f
+    notes:
+      en: "Gen. voluptatis; the highest good according to Epicureanism"
+      ko: "속격 voluptatis; 에피쿠로스 학파에서 최고선"
+  - latin: felicitas
+    translation:
+      en: happiness, good fortune
+      ko: 행복, 행운
+    gender: f
+    notes:
+      en: "Distinguished from beatitudo (blessedness) in philosophical usage"
+      ko: "철학적 용법에서 beatitudo(지복)와 구별됨"
+  - latin: cogitare
+    translation:
+      en: to think, to reflect
+      ko: 사고하다, 숙고하다
+    gender: null
+    notes:
+      en: "Cogito ergo sum — Descartes's famous phrase, though medieval Latin"
+      ko: "Cogito ergo sum — 데카르트의 유명한 구절, 중세 라틴어이지만"
+  - latin: contemplari
+    translation:
+      en: to contemplate, to observe
+      ko: 관조하다, 관찰하다
+    gender: null
+    notes:
+      en: "Deponent verb; vita contemplativa = the contemplative life"
+      ko: "이형태 동사; vita contemplativa = 관조적 삶"
+- id: 242_stoic_vocabulary
+  label:
+    en: 24.2 Stoic Vocabulary
+    ko: 24.2 스토아 어휘
+  type: vocabulary
+  words:
+  - latin: natura
+    translation:
+      en: nature
+      ko: 자연
+    gender: f
+    notes:
+      en: "Secundum naturam vivere = to live according to nature; the Stoic ideal"
+      ko: "Secundum naturam vivere = 자연에 따라 살기; 스토아의 이상"
+  - latin: fatum
+    translation:
+      en: fate, destiny
+      ko: 운명, 숙명
+    gender: n
+    notes:
+      en: "Stoics believed in an interconnected chain of cause and effect"
+      ko: "스토아 학파는 상호 연결된 인과의 사슬을 믿음"
+  - latin: apatheia
+    translation:
+      en: freedom from passion, equanimity
+      ko: 무정념, 평정심
+    gender: f
+    notes:
+      en: "Greek term adopted in Latin; the Stoic goal of emotional freedom"
+      ko: "라틴어에 채택된 그리스어 용어; 감정적 자유라는 스토아의 목표"
+  - latin: logos
+    translation:
+      en: reason, word, cosmic order
+      ko: 이성, 말, 우주적 질서
+    gender: m
+    notes:
+      en: "Greek term central to Stoicism; the rational principle governing the universe"
+      ko: "스토아 철학의 핵심 그리스어 용어; 우주를 지배하는 이성적 원리"
+  - latin: providentia
+    translation:
+      en: providence, foresight
+      ko: 섭리, 예지
+    gender: f
+    notes:
+      en: "Stoic belief that the universe is governed by rational providence"
+      ko: "우주가 이성적 섭리에 의해 지배된다는 스토아 신념"
+  - latin: tranquillitas
+    translation:
+      en: tranquility, calm
+      ko: 평온, 고요
+    gender: f
+    notes:
+      en: "Seneca wrote De Tranquillitate Animi (On the Tranquility of Mind)"
+      ko: "세네카가 De Tranquillitate Animi(마음의 평온에 관하여)를 저술"
+  - latin: tolerare
+    translation:
+      en: to endure, to bear
+      ko: 견디다, 참다
+    gender: null
+    notes:
+      en: "A key Stoic practice; endurance of hardship with equanimity"
+      ko: "핵심 스토아 실천; 평정심으로 고난을 견디는 것"
+  - latin: abstinere
+    translation:
+      en: to abstain, to refrain
+      ko: 절제하다, 삼가다
+    gender: null
+    notes:
+      en: "Sustine et abstine = endure and abstain; Epictetus's maxim"
+      ko: "Sustine et abstine = 견디고 삼가라; 에픽테토스의 격언"
+- id: 243_legal_maxims
+  label:
+    en: 24.3 Legal Maxims
+    ko: 24.3 법률 격언
+  type: vocabulary
+  words:
+  - latin: iustitia
+    translation:
+      en: justice
+      ko: 정의
+    gender: f
+    notes:
+      en: "Iustitia est constans et perpetua voluntas ius suum cuique tribuendi — Ulpian"
+      ko: "정의란 각자에게 그의 권리를 부여하려는 항구적이고 영원한 의지이다 — 울피아누스"
+  - latin: ius
+    translation:
+      en: law, right, justice
+      ko: 법, 권리, 정의
+    gender: n
+    notes:
+      en: "Gen. iuris; ius civile = civil law, ius gentium = law of nations"
+      ko: "속격 iuris; ius civile = 시민법, ius gentium = 만민법"
+  - latin: habeas corpus
+    translation:
+      en: you shall have the body
+      ko: 인신보호 영장
+    gender: null
+    notes:
+      en: "Legal writ requiring a prisoner to be brought before a court"
+      ko: "수감자를 법정에 출두시킬 것을 요구하는 법적 영장"
+  - latin: stare decisis
+    translation:
+      en: to stand by decided matters
+      ko: 선례 구속의 원칙
+    gender: null
+    notes:
+      en: "The principle of following judicial precedent"
+      ko: "사법적 선례를 따르는 원칙"
+  - latin: pro bono
+    translation:
+      en: for the (public) good
+      ko: 공익을 위한
+    gender: null
+    notes:
+      en: "Short for pro bono publico; legal work done without charge"
+      ko: "pro bono publico의 줄임말; 무보수로 하는 법률 업무"
+  - latin: caveat emptor
+    translation:
+      en: let the buyer beware
+      ko: 구매자 위험 부담의 원칙
+    gender: null
+    notes:
+      en: "Principle that the buyer assumes risk in a transaction"
+      ko: "거래에서 구매자가 위험을 부담한다는 원칙"
+  - latin: prima facie
+    translation:
+      en: at first sight, on the face of it
+      ko: 일응의, 표면상
+    gender: null
+    notes:
+      en: "Evidence sufficient to establish a fact unless rebutted"
+      ko: "반박되지 않는 한 사실을 입증하기에 충분한 증거"
+  - latin: de facto
+    translation:
+      en: in fact, in practice
+      ko: 사실상
+    gender: null
+    notes:
+      en: "As opposed to de iure (by law); actual state of affairs"
+      ko: "de iure(법률상)와 대비; 실제 상태"
+  - latin: de iure
+    translation:
+      en: by right, according to law
+      ko: 법률상
+    gender: null
+    notes:
+      en: "Legal status as opposed to de facto (actual) status"
+      ko: "법적 지위, de facto(사실상) 지위와 대비"
+  - latin: bona fide
+    translation:
+      en: in good faith
+      ko: 선의로, 진정한
+    gender: null
+    notes:
+      en: "Acting honestly and without intent to deceive"
+      ko: "정직하게 그리고 기만 의도 없이 행동하는 것"
+  - latin: corpus delicti
+    translation:
+      en: body of the crime
+      ko: 범죄의 객체
+    gender: n
+    notes:
+      en: "The material evidence that a crime has been committed"
+      ko: "범죄가 행해졌다는 물질적 증거"
+  - latin: subpoena
+    translation:
+      en: under penalty
+      ko: 소환장
+    gender: f
+    notes:
+      en: "From sub poena; a legal summons to appear in court"
+      ko: "sub poena에서 유래; 법정에 출두할 것을 명하는 법적 소환"
+- id: 244_medical_and_scientific_latin
+  label:
+    en: 24.4 Medical and Scientific Latin
+    ko: 24.4 의학 및 과학 라틴어
+  type: vocabulary
+  words:
+  - latin: corpus
+    translation:
+      en: body
+      ko: 몸, 신체
+    gender: n
+    notes:
+      en: "Gen. corporis; used extensively in medicine and law"
+      ko: "속격 corporis; 의학과 법학에서 광범위하게 사용"
+  - latin: morbus
+    translation:
+      en: disease, illness
+      ko: 질병
+    gender: m
+    notes:
+      en: "morbus comitialis was the Roman term for epilepsy"
+      ko: "morbus comitialis는 간질에 대한 로마식 표현"
+  - latin: remedium
+    translation:
+      en: remedy, cure
+      ko: 치료법, 약
+    gender: n
+    notes:
+      en: "Source of English 'remedy'"
+      ko: "영어 'remedy'의 어원"
+  - latin: in vitro
+    translation:
+      en: in glass (in a test tube)
+      ko: 시험관 내에서
+    gender: null
+    notes:
+      en: "Scientific experiments performed outside a living organism"
+      ko: "살아있는 유기체 밖에서 수행되는 과학 실험"
+  - latin: in vivo
+    translation:
+      en: in a living thing
+      ko: 생체 내에서
+    gender: null
+    notes:
+      en: "Experiments conducted within a living organism"
+      ko: "살아있는 유기체 내에서 수행되는 실험"
+  - latin: post mortem
+    translation:
+      en: after death
+      ko: 사후, 부검
+    gender: null
+    notes:
+      en: "Examination of a body after death; source of English 'postmortem'"
+      ko: "사후 신체 검사; 영어 'postmortem'의 어원"
+  - latin: species
+    translation:
+      en: species, kind, appearance
+      ko: 종, 종류, 외관
+    gender: f
+    notes:
+      en: "5th decl.; adopted by Linnaeus for biological classification"
+      ko: "제5변화; 린네가 생물 분류에 채택"
+  - latin: genus
+    translation:
+      en: genus, kind, class
+      ko: 속, 종류, 분류
+    gender: n
+    notes:
+      en: "Gen. generis; the taxonomic rank above species"
+      ko: "속격 generis; 종 위의 분류 단계"
+  - latin: symptoma
+    translation:
+      en: symptom
+      ko: 증상
+    gender: n
+    notes:
+      en: "Greek loanword; a sign or indication of disease"
+      ko: "그리스어 차용어; 질병의 징후나 표시"
+  - latin: diagnosis
+    translation:
+      en: diagnosis
+      ko: 진단
+    gender: f
+    notes:
+      en: "Greek loanword; identification of a disease by its symptoms"
+      ko: "그리스어 차용어; 증상에 의한 질병의 식별"
+  - latin: prognosis
+    translation:
+      en: prognosis, forecast
+      ko: 예후, 예측
+    gender: f
+    notes:
+      en: "Greek loanword; prediction of the course of a disease"
+      ko: "그리스어 차용어; 질병 경과의 예측"
+  - latin: terra incognita
+    translation:
+      en: unknown land
+      ko: 미지의 땅
+    gender: f
+    notes:
+      en: "Used on maps for unexplored regions; now metaphorical for unknown fields"
+      ko: "지도에서 미탐험 지역에 사용; 현재 미지의 분야를 비유적으로 표현"
+  - latin: tabula rasa
+    translation:
+      en: blank slate
+      ko: 백지 상태
+    gender: f
+    notes:
+      en: "John Locke's concept that the mind begins as a blank slate"
+      ko: "존 로크의 개념으로 마음이 백지 상태로 시작한다는 것"
+  - latin: a priori
+    translation:
+      en: from what comes before
+      ko: 선험적으로
+    gender: null
+    notes:
+      en: "Knowledge derived from reason alone, not from experience"
+      ko: "경험이 아닌 이성만으로 도출된 지식"
+  - latin: a posteriori
+    translation:
+      en: from what comes after
+      ko: 후험적으로
+    gender: null
+    notes:
+      en: "Knowledge derived from experience and observation"
+      ko: "경험과 관찰에서 도출된 지식"
+  - latin: ad hominem
+    translation:
+      en: to the person
+      ko: 인신공격의
+    gender: null
+    notes:
+      en: "A logical fallacy attacking the person rather than the argument"
+      ko: "논증이 아닌 사람을 공격하는 논리적 오류"
+  - latin: non sequitur
+    translation:
+      en: it does not follow
+      ko: 논리적 비약
+    gender: null
+    notes:
+      en: "A logical fallacy where the conclusion does not follow from the premises"
+      ko: "결론이 전제에서 따라나오지 않는 논리적 오류"
+  - latin: quid pro quo
+    translation:
+      en: something for something
+      ko: 대가, 보상
+    gender: null
+    notes:
+      en: "An exchange of goods or services; mutual reciprocation"
+      ko: "재화나 서비스의 교환; 상호 보답"

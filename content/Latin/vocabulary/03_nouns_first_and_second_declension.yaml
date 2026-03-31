@@ -1,0 +1,513 @@
+lesson: 03_Nouns_First_and_Second_Declension
+lesson_number: 3
+cefr: A1
+categories:
+- id: 31_first_declension_nouns
+  label:
+    en: 3.1 First Declension Nouns (-a, -ae)
+    ko: 3.1 제1변화 명사 (-a, -ae)
+  type: vocabulary
+  words:
+  - latin: puella
+    translation:
+      en: girl
+      ko: 소녀
+    gender: f
+    notes:
+      en: "The classic 1st declension paradigm noun; nom. puella, gen. puellae"
+      ko: "전형적인 제1변화 명사; 주격 puella, 속격 puellae"
+  - latin: femina
+    translation:
+      en: woman
+      ko: 여자
+    gender: f
+    notes:
+      en: Source of English "feminine," "female"
+      ko: 영어 "feminine," "female"의 어원
+  - latin: terra
+    translation:
+      en: earth / land
+      ko: 땅 / 대지
+    gender: f
+  - latin: aqua
+    translation:
+      en: water
+      ko: 물
+    gender: f
+  - latin: silva
+    translation:
+      en: forest / woods
+      ko: 숲 / 삼림
+    gender: f
+    notes:
+      en: "Source of English 'sylvan'; Pennsylvania = Penn's woods (silva)"
+      ko: "영어 'sylvan'의 어원; Pennsylvania = Penn의 숲(silva)"
+  - latin: via
+    translation:
+      en: road / way / street
+      ko: 길 / 도로
+    gender: f
+  - latin: porta
+    translation:
+      en: gate / door
+      ko: 문 / 대문
+    gender: f
+    notes:
+      en: Source of English "portal" and "port"
+      ko: 영어 "portal"과 "port"의 어원
+  - latin: nauta
+    translation:
+      en: sailor
+      ko: 선원
+    gender: m
+    notes:
+      en: Masculine despite -a ending; Greek loanword; source of English "nautical"
+      ko: -a 어미이지만 남성형; 그리스어 차용어; 영어 "nautical"의 어원
+  - latin: poeta
+    translation:
+      en: poet
+      ko: 시인
+    gender: m
+    notes:
+      en: Masculine despite -a ending; Greek loanword
+      ko: -a 어미이지만 남성형; 그리스어 차용어
+  - latin: agricola
+    translation:
+      en: farmer
+      ko: 농부
+    gender: m
+    notes:
+      en: "Masculine despite -a ending; from ager (field) + cola (cultivator)"
+      ko: "-a 어미이지만 남성형; ager(밭) + cola(경작자)에서"
+  - latin: patria
+    translation:
+      en: fatherland / homeland
+      ko: 조국 / 고향
+    gender: f
+    notes:
+      en: "From pater (father); source of English 'patriot'"
+      ko: "pater(아버지)에서; 영어 'patriot'의 어원"
+  - latin: familia
+    translation:
+      en: family / household
+      ko: 가족 / 가정
+    gender: f
+    notes:
+      en: Included slaves and property in Roman context
+      ko: 로마 맥락에서 노예와 재산도 포함
+  - latin: filia
+    translation:
+      en: daughter
+      ko: 딸
+    gender: f
+  - latin: ancilla
+    translation:
+      en: female servant / maid
+      ko: 여종 / 하녀
+    gender: f
+  - latin: regina
+    translation:
+      en: queen
+      ko: 여왕
+    gender: f
+    notes:
+      en: "From rex (king); source of the name 'Regina'"
+      ko: "rex(왕)에서; 이름 'Regina'의 어원"
+  - latin: dea
+    translation:
+      en: goddess
+      ko: 여신
+    gender: f
+    notes:
+      en: "Dat./abl. pl. deabus (to distinguish from deis/dis, gods)"
+      ko: "여격/탈격 복수 deabus (deis/dis, 신들과 구별하기 위해)"
+  - latin: epistula
+    translation:
+      en: letter (correspondence)
+      ko: 편지
+    gender: f
+    notes:
+      en: Source of English "epistle"
+      ko: 영어 "epistle"의 어원
+  - latin: causa
+    translation:
+      en: cause / reason
+      ko: 원인 / 이유
+    gender: f
+    notes:
+      en: Source of English "cause," "because," "accuse"
+      ko: 영어 "cause," "because," "accuse"의 어원
+  - latin: cena
+    translation:
+      en: dinner / main meal
+      ko: 저녁 식사 / 주요 식사
+    gender: f
+    notes:
+      en: The main Roman meal, eaten in late afternoon
+      ko: 오후 늦게 먹는 로마의 주요 식사
+  - latin: insula
+    translation:
+      en: island / apartment block
+      ko: 섬 / 아파트 건물
+    gender: f
+    notes:
+      en: "In Roman cities, an apartment building; source of English 'insulate,' 'island'"
+      ko: "로마 도시에서 아파트 건물; 영어 'insulate,' 'island'의 어원"
+- id: 32_second_declension_masculine
+  label:
+    en: 3.2 Second Declension Masculine (-us, -i / -er, -i)
+    ko: 3.2 제2변화 남성 명사 (-us, -i / -er, -i)
+  type: vocabulary
+  words:
+  - latin: dominus
+    translation:
+      en: lord / master
+      ko: 주인 / 지배자
+    gender: m
+    notes:
+      en: "Source of English 'dominate'; nom. dominus, gen. domini"
+      ko: "영어 'dominate'의 어원; 주격 dominus, 속격 domini"
+  - latin: servus
+    translation:
+      en: slave / servant
+      ko: 노예 / 하인
+    gender: m
+    notes:
+      en: Source of English "serve," "servant," "service"
+      ko: 영어 "serve," "servant," "service"의 어원
+  - latin: filius
+    translation:
+      en: son
+      ko: 아들
+    gender: m
+  - latin: amicus
+    translation:
+      en: friend
+      ko: 친구
+    gender: m
+  - latin: animus
+    translation:
+      en: mind / spirit / soul
+      ko: 마음 / 정신 / 영혼
+    gender: m
+    notes:
+      en: Source of English "animal," "animate," "unanimous"
+      ko: 영어 "animal," "animate," "unanimous"의 어원
+  - latin: populus
+    translation:
+      en: people / nation
+      ko: 백성 / 국민
+    gender: m
+  - latin: equus
+    translation:
+      en: horse
+      ko: 말
+    gender: m
+    notes:
+      en: Source of English "equine" and "equestrian"
+      ko: 영어 "equine"과 "equestrian"의 어원
+  - latin: gladius
+    translation:
+      en: sword
+      ko: 칼 / 검
+    gender: m
+    notes:
+      en: Source of English "gladiator"
+      ko: 영어 "gladiator"의 어원
+  - latin: murus
+    translation:
+      en: wall
+      ko: 벽 / 성벽
+    gender: m
+    notes:
+      en: Source of English "mural"
+      ko: 영어 "mural"의 어원
+  - latin: campus
+    translation:
+      en: field / plain
+      ko: 들판 / 평원
+    gender: m
+    notes:
+      en: "Campus Martius = Field of Mars in Rome; source of English 'campus,' 'camp'"
+      ko: "Campus Martius = 로마의 마르스 평원; 영어 'campus,' 'camp'의 어원"
+  - latin: hortus
+    translation:
+      en: garden
+      ko: 정원
+    gender: m
+    notes:
+      en: Source of English "horticulture"
+      ko: 영어 "horticulture"의 어원
+  - latin: numerus
+    translation:
+      en: number
+      ko: 숫자
+    gender: m
+  - latin: puer
+    translation:
+      en: boy / child
+      ko: 소년 / 아이
+    gender: m
+    notes:
+      en: "-er stem retains e; cf. English 'puerile'"
+      ko: "-er 어간이 e를 유지; 영어 'puerile' 참조"
+  - latin: ager
+    translation:
+      en: field / farmland
+      ko: 밭 / 농지
+    gender: m
+    notes:
+      en: "-er stem drops e (gen. agri); source of English 'agriculture'"
+      ko: "-er 어간이 e를 탈락(속격 agri); 영어 'agriculture'의 어원"
+  - latin: vir
+    translation:
+      en: man / husband
+      ko: 남자 / 남편
+    gender: m
+    notes:
+      en: "Irregular 2nd declension; source of English 'virile,' 'virtue'"
+      ko: "불규칙 제2변화; 영어 'virile,' 'virtue'의 어원"
+- id: 33_second_declension_neuter
+  label:
+    en: 3.3 Second Declension Neuter (-um, -i)
+    ko: 3.3 제2변화 중성 명사 (-um, -i)
+  type: vocabulary
+  words:
+  - latin: bellum
+    translation:
+      en: war
+      ko: 전쟁
+    gender: n
+    notes:
+      en: "Source of English 'bellicose,' 'belligerent'; nom./acc. bellum, gen. belli"
+      ko: "영어 'bellicose,' 'belligerent'의 어원; 주격/대격 bellum, 속격 belli"
+  - latin: donum
+    translation:
+      en: gift
+      ko: 선물
+    gender: n
+    notes:
+      en: Source of English "donate" and "donor"
+      ko: 영어 "donate"와 "donor"의 어원
+  - latin: templum
+    translation:
+      en: temple
+      ko: 신전
+    gender: n
+  - latin: oppidum
+    translation:
+      en: town / fortified settlement
+      ko: 도시 / 요새 마을
+    gender: n
+  - latin: verbum
+    translation:
+      en: word
+      ko: 단어
+    gender: n
+  - latin: consilium
+    translation:
+      en: plan / counsel / advice
+      ko: 계획 / 조언 / 충고
+    gender: n
+    notes:
+      en: Source of English "counsel" and "council"
+      ko: 영어 "counsel"과 "council"의 어원
+  - latin: periculum
+    translation:
+      en: danger / risk
+      ko: 위험
+    gender: n
+    notes:
+      en: Source of English "peril" and "perilous"
+      ko: 영어 "peril"과 "perilous"의 어원
+  - latin: regnum
+    translation:
+      en: kingdom / realm
+      ko: 왕국 / 영역
+    gender: n
+    notes:
+      en: Source of English "reign"
+      ko: 영어 "reign"의 어원
+  - latin: praemium
+    translation:
+      en: reward / prize
+      ko: 보상 / 상
+    gender: n
+    notes:
+      en: Source of English "premium"
+      ko: 영어 "premium"의 어원
+  - latin: proelium
+    translation:
+      en: battle
+      ko: 전투
+    gender: n
+  - latin: forum
+    translation:
+      en: marketplace / public square
+      ko: 시장 / 광장
+    gender: n
+    notes:
+      en: "The Forum Romanum was the center of Roman public life"
+      ko: "포룸 로마눔은 로마 공적 생활의 중심지"
+  - latin: castra
+    translation:
+      en: (military) camp
+      ko: (군사) 진영
+    gender: n
+    notes:
+      en: "Always plural in this meaning; source of English 'castle,' 'Chester'"
+      ko: "이 의미에서 항상 복수; 영어 'castle,' 'Chester'의 어원"
+  - latin: aurum
+    translation:
+      en: gold
+      ko: 금
+    gender: n
+    notes:
+      en: "Chemical symbol Au; source of English 'aureate'"
+      ko: "화학 기호 Au; 영어 'aureate'의 어원"
+  - latin: argentum
+    translation:
+      en: silver
+      ko: 은
+    gender: n
+    notes:
+      en: "Chemical symbol Ag; Argentina named for its silver"
+      ko: "화학 기호 Ag; 아르헨티나는 은에서 이름 유래"
+  - latin: ferrum
+    translation:
+      en: iron / sword
+      ko: 철 / 칼
+    gender: n
+    notes:
+      en: Chemical symbol Fe; also means sword by metonymy
+      ko: 화학 기호 Fe; 환유법으로 칼이라는 뜻도 있음
+  - latin: tectum
+    translation:
+      en: roof / house
+      ko: 지붕 / 집
+    gender: n
+    notes:
+      en: "From tegere (to cover); source of English 'protect,' 'detect'"
+      ko: "tegere(덮다)에서; 영어 'protect,' 'detect'의 어원"
+  - latin: imperium
+    translation:
+      en: command / power / empire
+      ko: 명령 / 권력 / 제국
+    gender: n
+  - latin: signum
+    translation:
+      en: sign / signal / standard (military)
+      ko: 기호 / 신호 / 군기
+    gender: n
+  - latin: studium
+    translation:
+      en: eagerness / study / zeal
+      ko: 열의 / 학문 / 열정
+    gender: n
+    notes:
+      en: Source of English "study" and "studio"
+      ko: 영어 "study"와 "studio"의 어원
+  - latin: auxilium
+    translation:
+      en: help / aid
+      ko: 도움 / 원조
+    gender: n
+    notes:
+      en: "Plural auxilia = auxiliary troops"
+      ko: "복수 auxilia = 보조 병력"
+  - latin: vitium
+    translation:
+      en: fault / vice / defect
+      ko: 결점 / 악덕
+    gender: n
+    notes:
+      en: Source of English "vice" and "vicious"
+      ko: 영어 "vice"와 "vicious"의 어원
+  - latin: ingenium
+    translation:
+      en: talent / nature / character
+      ko: 재능 / 성격
+    gender: n
+    notes:
+      en: Source of English "ingenious" and "engine"
+      ko: 영어 "ingenious"와 "engine"의 어원
+- id: 34_case_terms
+  label:
+    en: 3.4 Grammatical Case Terms
+    ko: 3.4 문법적 격 용어
+  type: vocabulary
+  words:
+  - latin: casus
+    translation:
+      en: case (grammatical)
+      ko: 격 (문법)
+    gender: m
+    notes:
+      en: "From cadere (to fall); source of English 'case'"
+      ko: "cadere(떨어지다)에서; 영어 'case'의 어원"
+  - latin: nominativus
+    translation:
+      en: nominative (subject case)
+      ko: 주격
+    gender: m
+    notes:
+      en: "The naming case; identifies the subject of a sentence"
+      ko: "이름 붙이는 격; 문장의 주어를 나타냄"
+  - latin: genitivus
+    translation:
+      en: genitive (possession case)
+      ko: 속격
+    gender: m
+    notes:
+      en: "Shows possession or relation; like English 'of' or 's"
+      ko: "소유나 관계를 나타냄; 영어 'of' 또는 's와 유사"
+  - latin: dativus
+    translation:
+      en: dative (indirect object case)
+      ko: 여격
+    gender: m
+    notes:
+      en: "From dare (to give); shows the indirect object ('to/for whom')"
+      ko: "dare(주다)에서; 간접 목적어를 나타냄 ('누구에게')"
+  - latin: accusativus
+    translation:
+      en: accusative (direct object case)
+      ko: 대격
+    gender: m
+    notes:
+      en: Shows the direct object; also used with many prepositions
+      ko: 직접 목적어를 나타냄; 많은 전치사와도 사용
+  - latin: ablativus
+    translation:
+      en: ablative (separation / means case)
+      ko: 탈격
+    gender: m
+    notes:
+      en: "From auferre (to carry away); shows means, manner, place, time"
+      ko: "auferre(운반하다)에서; 수단, 방식, 장소, 시간을 나타냄"
+  - latin: vocativus
+    translation:
+      en: vocative (address case)
+      ko: 호격
+    gender: m
+    notes:
+      en: "Used for direct address; e.g. 'Marce!' (O Marcus!)"
+      ko: "직접 호칭에 사용; 예: 'Marce!' (오 마르쿠스여!)"
+  - latin: declinatio
+    translation:
+      en: declension
+      ko: 변화(곡용)
+    gender: f
+    notes:
+      en: Latin has five declensions for nouns and adjectives
+      ko: 라틴어에는 명사와 형용사의 다섯 가지 변화가 있음
+  - latin: singularis
+    translation:
+      en: singular
+      ko: 단수
+    gender: m
+  - latin: pluralis
+    translation:
+      en: plural
+      ko: 복수
+    gender: m

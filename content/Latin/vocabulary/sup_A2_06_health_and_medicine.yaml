@@ -1,0 +1,361 @@
+lesson: "sup_A2_Health_and_Medicine"
+lesson_number: 112
+cefr: A2
+type: supplementary
+topic: "Health and Medicine"
+categories:
+- id: medical
+  label:
+    en: "Medical Professionals and Practice"
+    ko: "의료 전문가와 관행"
+  type: vocabulary
+  words:
+  - latin: medicus
+    translation:
+      en: "doctor / physician"
+      ko: "의사"
+    gender: m
+    notes:
+      en: "gen. medici; 2nd declension; source of 'medic, medical'"
+      ko: "속격 medici; 제2변화; 영어 'medic, medical'의 어원"
+  - latin: medicina
+    translation:
+      en: "medicine / healing art"
+      ko: "의학 / 치유술"
+    gender: f
+    notes:
+      en: "gen. medicinae; 1st declension; source of 'medicine'"
+      ko: "속격 medicinae; 제1변화; 영어 'medicine'의 어원"
+  - latin: chirurgus
+    translation:
+      en: "surgeon"
+      ko: "외과의사"
+    gender: m
+    notes:
+      en: "gen. chirurgi; 2nd declension; from Greek cheirourgos 'hand-worker'"
+      ko: "속격 chirurgi; 제2변화; 그리스어 cheirourgos '손으로 일하는 자'에서 유래"
+  - latin: valetudinarium
+    translation:
+      en: "hospital / infirmary"
+      ko: "병원 / 의무실"
+    gender: n
+    notes:
+      en: "gen. valetudinarii; 2nd declension neuter; military hospitals for legions"
+      ko: "속격 valetudinarii; 제2변화 중성; 군단을 위한 군병원"
+  - latin: pharmacopola
+    translation:
+      en: "pharmacist / druggist"
+      ko: "약사"
+    gender: m
+    notes:
+      en: "gen. pharmacopolae; 1st declension masculine; from Greek pharmakon 'drug'"
+      ko: "속격 pharmacopolae; 제1변화 남성; 그리스어 pharmakon '약'에서 유래"
+  - latin: obstetrix
+    translation:
+      en: "midwife"
+      ko: "산파"
+    gender: f
+    notes:
+      en: "gen. obstetricis; 3rd declension; source of 'obstetrics'"
+      ko: "속격 obstetricis; 제3변화; 영어 'obstetrics'의 어원"
+  - latin: aegrotus
+    translation:
+      en: "sick person / patient"
+      ko: "환자"
+    gender: m
+    notes:
+      en: "gen. aegroti; 2nd declension; from aeger 'sick'"
+      ko: "속격 aegroti; 제2변화; aeger '아픈'에서 유래"
+  - latin: sanitas
+    translation:
+      en: "health / sanity"
+      ko: "건강 / 온전한 정신"
+    gender: f
+    notes:
+      en: "gen. sanitatis; 3rd declension; source of 'sanity, sanitize'"
+      ko: "속격 sanitatis; 제3변화; 영어 'sanity, sanitize'의 어원"
+
+- id: herbs
+  label:
+    en: "Medicinal Herbs and Plants"
+    ko: "약용 허브와 식물"
+  type: vocabulary
+  words:
+  - latin: herba
+    translation:
+      en: "herb / plant"
+      ko: "허브 / 식물"
+    gender: f
+    notes:
+      en: "gen. herbae; 1st declension; source of 'herb, herbalist'"
+      ko: "속격 herbae; 제1변화; 영어 'herb, herbalist'의 어원"
+  - latin: papaver
+    translation:
+      en: "poppy"
+      ko: "양귀비"
+    gender: n
+    notes:
+      en: "gen. papaveris; 3rd declension neuter; used for pain relief in antiquity"
+      ko: "속격 papaveris; 제3변화 중성; 고대에 진통제로 사용됨"
+  - latin: salvia
+    translation:
+      en: "sage"
+      ko: "세이지"
+    gender: f
+    notes:
+      en: "gen. salviae; 1st declension; from salvus 'healthy'; source of 'sage, salvia'"
+      ko: "속격 salviae; 제1변화; salvus '건강한'에서 유래; 영어 'sage, salvia'의 어원"
+  - latin: rosmarinus
+    translation:
+      en: "rosemary"
+      ko: "로즈마리"
+    gender: m
+    notes:
+      en: "gen. rosmarini; 2nd declension; ros + marinus 'dew of the sea'"
+      ko: "속격 rosmarini; 제2변화; ros + marinus '바다의 이슬'"
+  - latin: absinthium
+    translation:
+      en: "wormwood"
+      ko: "쑥"
+    gender: n
+    notes:
+      en: "gen. absinthii; 2nd declension neuter; source of 'absinthe'"
+      ko: "속격 absinthii; 제2변화 중성; 영어 'absinthe'의 어원"
+  - latin: aloe
+    translation:
+      en: "aloe"
+      ko: "알로에"
+    gender: f
+    notes:
+      en: "gen. aloes; 1st declension; used for wound healing"
+      ko: "속격 aloes; 제1변화; 상처 치유에 사용됨"
+  - latin: mentum
+    translation:
+      en: "mint"
+      ko: "박하"
+    gender: n
+    notes:
+      en: "gen. menti; 2nd declension neuter; also mentha (f.); source of 'mint, menthol'"
+      ko: "속격 menti; 제2변화 중성; mentha (여성형)도 있음; 영어 'mint, menthol'의 어원"
+  - latin: camomilla
+    translation:
+      en: "chamomile"
+      ko: "카모마일"
+    gender: f
+    notes:
+      en: "gen. camomillae; 1st declension; used for digestive ailments"
+      ko: "속격 camomillae; 제1변화; 소화 질환에 사용됨"
+  - latin: thymum
+    translation:
+      en: "thyme"
+      ko: "타임 (백리향)"
+    gender: n
+    notes:
+      en: "gen. thymi; 2nd declension neuter; antiseptic properties known to Romans"
+      ko: "속격 thymi; 제2변화 중성; 로마인에게 항균 성질이 알려져 있었음"
+  - latin: ruta
+    translation:
+      en: "rue"
+      ko: "루타 (운향)"
+    gender: f
+    notes:
+      en: "gen. rutae; 1st declension; widely used Roman medicinal herb"
+      ko: "속격 rutae; 제1변화; 널리 사용된 로마 약용 허브"
+
+- id: treatments
+  label:
+    en: "Treatments and Procedures"
+    ko: "치료법과 시술"
+  type: vocabulary
+  words:
+  - latin: remedium
+    translation:
+      en: "remedy / cure"
+      ko: "치료법 / 치유"
+    gender: n
+    notes:
+      en: "gen. remedii; 2nd declension neuter; source of 'remedy'"
+      ko: "속격 remedii; 제2변화 중성; 영어 'remedy'의 어원"
+  - latin: medicamentum
+    translation:
+      en: "medicine / drug"
+      ko: "약 / 약물"
+    gender: n
+    notes:
+      en: "gen. medicamenti; 2nd declension neuter; source of 'medicament'"
+      ko: "속격 medicamenti; 제2변화 중성; 영어 'medicament'의 어원"
+  - latin: potio
+    translation:
+      en: "potion / drink (medical)"
+      ko: "약물 음료 / 물약"
+    gender: f
+    notes:
+      en: "gen. potionis; 3rd declension; source of 'potion'"
+      ko: "속격 potionis; 제3변화; 영어 'potion'의 어원"
+  - latin: emplastrum
+    translation:
+      en: "plaster / poultice"
+      ko: "파스 / 습포"
+    gender: n
+    notes:
+      en: "gen. emplastri; 2nd declension neuter; from Greek emplastron"
+      ko: "속격 emplastri; 제2변화 중성; 그리스어 emplastron에서 유래"
+  - latin: fascia
+    translation:
+      en: "bandage"
+      ko: "붕대"
+    gender: f
+    notes:
+      en: "gen. fasciae; 1st declension; source of 'fascia'"
+      ko: "속격 fasciae; 제1변화; 영어 'fascia'의 어원"
+  - latin: sanare
+    translation:
+      en: "to heal / to cure"
+      ko: "치유하다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; from sanus 'healthy'; source of 'sane, sanitary'"
+      ko: "제1활용 동사; sanus '건강한'에서; 영어 'sane, sanitary'의 어원"
+  - latin: curare
+    translation:
+      en: "to care for / to treat"
+      ko: "돌보다 / 치료하다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'cure, curator'"
+      ko: "제1활용 동사; 영어 'cure, curator'의 어원"
+  - latin: purgare
+    translation:
+      en: "to purge / to cleanse"
+      ko: "정화하다 / 씻어내다"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'purge, purgatory'"
+      ko: "제1활용 동사; 영어 'purge, purgatory'의 어원"
+  - latin: secare
+    translation:
+      en: "to cut (surgery)"
+      ko: "자르다 (수술)"
+    gender: n
+    notes:
+      en: "1st conjugation verb; source of 'section, dissect'"
+      ko: "제1활용 동사; 영어 'section, dissect'의 어원"
+  - latin: urere
+    translation:
+      en: "to burn / to cauterize"
+      ko: "태우다 / 소작하다"
+    gender: n
+    notes:
+      en: "3rd conjugation verb; uro, urere, ussi, ustum; source of 'combustion'"
+      ko: "제3활용 동사; uro, urere, ussi, ustum; 영어 'combustion'의 어원"
+  - latin: diaeta
+    translation:
+      en: "diet / regimen"
+      ko: "식이요법 / 요법"
+    gender: f
+    notes:
+      en: "gen. diaetae; 1st declension; from Greek diaita; source of 'diet'"
+      ko: "속격 diaetae; 제1변화; 그리스어 diaita에서 유래; 영어 'diet'의 어원"
+
+- id: body_systems
+  label:
+    en: "Body Systems and Ailments"
+    ko: "신체 기관과 질환"
+  type: vocabulary
+  words:
+  - latin: morbus
+    translation:
+      en: "disease / illness"
+      ko: "질병"
+    gender: m
+    notes:
+      en: "gen. morbi; 2nd declension; source of 'morbid, morbidity'"
+      ko: "속격 morbi; 제2변화; 영어 'morbid, morbidity'의 어원"
+  - latin: vulnus
+    translation:
+      en: "wound"
+      ko: "상처"
+    gender: n
+    notes:
+      en: "gen. vulneris; 3rd declension neuter; source of 'vulnerable, wound'"
+      ko: "속격 vulneris; 제3변화 중성; 영어 'vulnerable, wound'의 어원"
+  - latin: febris
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: f
+    notes:
+      en: "gen. febris; 3rd declension; source of 'febrile, February'"
+      ko: "속격 febris; 제3변화; 영어 'febrile, February'의 어원"
+  - latin: dolor
+    translation:
+      en: "pain"
+      ko: "고통"
+    gender: m
+    notes:
+      en: "gen. doloris; 3rd declension; source of 'dolor, dolorous'"
+      ko: "속격 doloris; 제3변화; 영어 'dolor, dolorous'의 어원"
+  - latin: pestilentia
+    translation:
+      en: "plague / pestilence"
+      ko: "역병"
+    gender: f
+    notes:
+      en: "gen. pestilentiae; 1st declension; source of 'pestilence'"
+      ko: "속격 pestilentiae; 제1변화; 영어 'pestilence'의 어원"
+  - latin: tumor
+    translation:
+      en: "swelling / tumor"
+      ko: "부종 / 종양"
+    gender: m
+    notes:
+      en: "gen. tumoris; 3rd declension; source of 'tumor'"
+      ko: "속격 tumoris; 제3변화; 영어 'tumor'의 어원"
+  - latin: cicatrix
+    translation:
+      en: "scar"
+      ko: "흉터"
+    gender: f
+    notes:
+      en: "gen. cicatricis; 3rd declension; source of 'cicatrix'"
+      ko: "속격 cicatricis; 제3변화; 영어 'cicatrix'의 어원"
+  - latin: venenum
+    translation:
+      en: "poison / drug"
+      ko: "독 / 약물"
+    gender: n
+    notes:
+      en: "gen. veneni; 2nd declension neuter; source of 'venom'"
+      ko: "속격 veneni; 제2변화 중성; 영어 'venom'의 어원"
+  - latin: antidotum
+    translation:
+      en: "antidote"
+      ko: "해독제"
+    gender: n
+    notes:
+      en: "gen. antidoti; 2nd declension neuter; from Greek antidoton"
+      ko: "속격 antidoti; 제2변화 중성; 그리스어 antidoton에서 유래"
+  - latin: contagio
+    translation:
+      en: "contagion / infection"
+      ko: "전염 / 감염"
+    gender: f
+    notes:
+      en: "gen. contagionis; 3rd declension; source of 'contagion, contagious'"
+      ko: "속격 contagionis; 제3변화; 영어 'contagion, contagious'의 어원"
+  - latin: insomnia
+    translation:
+      en: "sleeplessness"
+      ko: "불면증"
+    gender: f
+    notes:
+      en: "gen. insomniae; 1st declension; in + somnus 'without sleep'; source of 'insomnia'"
+      ko: "속격 insomniae; 제1변화; in + somnus '잠 없이'; 영어 'insomnia'의 어원"
+  - latin: valetudo
+    translation:
+      en: "state of health"
+      ko: "건강 상태"
+    gender: f
+    notes:
+      en: "gen. valetudinis; 3rd declension; can mean good or bad health"
+      ko: "속격 valetudinis; 제3변화; 좋은 건강 또는 나쁜 건강을 의미할 수 있음"

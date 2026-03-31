@@ -1,0 +1,401 @@
+lesson: sup_C1_Scientific_and_Medical_Latin
+lesson_number: 139
+type: supplementary
+topic: "Scientific and Medical Latin"
+cefr: C1
+categories:
+- id: taxonomy
+  label:
+    en: Biological Taxonomy
+    ko: 생물 분류학
+  type: vocabulary
+  words:
+  - latin: Homo sapiens
+    translation:
+      en: wise man, modern humans
+      ko: 슬기로운 사람, 현생 인류
+    gender: m
+    notes:
+      en: "binomial nomenclature by Linnaeus (1758); genus Homo, species sapiens"
+      ko: "린네(1758)의 이명법; 속(genus) Homo, 종(species) sapiens"
+  - latin: genus
+    translation:
+      en: genus, kind, type
+      ko: 속, 종류
+    gender: n
+    notes:
+      en: "gen. generis; 3rd decl.; taxonomic rank between family and species"
+      ko: "속격 generis; 제3변화; 과(family)와 종(species) 사이의 분류 단계"
+  - latin: species
+    translation:
+      en: species, kind, appearance
+      ko: 종, 종류, 외관
+    gender: f
+    notes:
+      en: "gen. speciēī; 5th decl.; the basic unit of biological classification"
+      ko: "속격 speciēī; 제5변화; 생물 분류의 기본 단위"
+  - latin: familia
+    translation:
+      en: family
+      ko: 과
+    gender: f
+    notes:
+      en: "gen. familiae; 1st decl.; taxonomic rank between order and genus"
+      ko: "속격 familiae; 제1변화; 목(order)과 속(genus) 사이의 분류 단계"
+  - latin: ordo
+    translation:
+      en: order
+      ko: 목
+    gender: m
+    notes:
+      en: "gen. ōrdinis; 3rd decl.; taxonomic rank between class and family"
+      ko: "속격 ōrdinis; 제3변화; 강(class)과 과(family) 사이의 분류 단계"
+  - latin: classis
+    translation:
+      en: class
+      ko: 강
+    gender: f
+    notes:
+      en: "gen. classis; 3rd decl.; taxonomic rank between phylum and order"
+      ko: "속격 classis; 제3변화; 문(phylum)과 목(order) 사이의 분류 단계"
+  - latin: phylum
+    translation:
+      en: phylum, major division
+      ko: 문
+    gender: n
+    notes:
+      en: "gen. phylī; 2nd decl.; Greek loanword; major division of the animal kingdom"
+      ko: "속격 phylī; 제2변화; 그리스어 차용어; 동물계의 주요 분류 단위"
+  - latin: regnum
+    translation:
+      en: kingdom
+      ko: 계
+    gender: n
+    notes:
+      en: "gen. rēgnī; 2nd decl.; regnum animale, regnum vegetabile, regnum minerale"
+      ko: "속격 rēgnī; 제2변화; 동물계, 식물계, 광물계"
+  - latin: nomen
+    translation:
+      en: name
+      ko: 이름
+    gender: n
+    notes:
+      en: "gen. nōminis; 3rd decl.; nōmenclātūra binōmia = 'binomial nomenclature'"
+      ko: "속격 nōminis; 제3변화; nōmenclātūra binōmia = '이명법'"
+  - latin: varietas
+    translation:
+      en: variety, subspecies
+      ko: 변종
+    gender: f
+    notes:
+      en: "gen. varietātis; 3rd decl.; abbreviated var.; a rank below species"
+      ko: "속격 varietātis; 제3변화; 약자 var.; 종 아래의 등급"
+  - latin: typus
+    translation:
+      en: type, type specimen
+      ko: 모식, 모식 표본
+    gender: m
+    notes:
+      en: "gen. typī; 2nd decl.; Greek loanword; the reference specimen for a species name"
+      ko: "속격 typī; 제2변화; 그리스어 차용어; 종명의 기준 표본"
+  - latin: subspecies
+    translation:
+      en: subspecies
+      ko: 아종
+    gender: f
+    notes:
+      en: "gen. subspeciēī; 5th decl.; abbreviated subsp.; a geographic or morphological variant"
+      ko: "속격 subspeciēī; 제5변화; 약자 subsp.; 지리적 또는 형태적 변이"
+
+- id: anatomy
+  label:
+    en: Anatomical Terms
+    ko: 해부학 용어
+  type: vocabulary
+  words:
+  - latin: cranium
+    translation:
+      en: skull, cranium
+      ko: 두개골
+    gender: n
+    notes:
+      en: "gen. crāniī; 2nd decl.; Greek loanword; the bony case enclosing the brain"
+      ko: "속격 crāniī; 제2변화; 그리스어 차용어; 뇌를 감싸는 뼈 구조"
+  - latin: femur
+    translation:
+      en: thighbone, femur
+      ko: 대퇴골, 넓적다리뼈
+    gender: n
+    notes:
+      en: "gen. femoris; 3rd decl.; the longest bone in the human body"
+      ko: "속격 femoris; 제3변화; 인체에서 가장 긴 뼈"
+  - latin: vertebra
+    translation:
+      en: vertebra, joint of the spine
+      ko: 척추뼈
+    gender: f
+    notes:
+      en: "gen. vertebrae; 1st decl.; from vertere 'to turn'"
+      ko: "속격 vertebrae; 제1변화; vertere '회전하다'에서 유래"
+  - latin: humerus
+    translation:
+      en: upper arm bone, humerus
+      ko: 상완골
+    gender: m
+    notes:
+      en: "gen. humerī; 2nd decl.; also 'shoulder' in classical Latin"
+      ko: "속격 humerī; 제2변화; 고전 라틴어에서 '어깨'도 의미"
+  - latin: tibia
+    translation:
+      en: shinbone, tibia
+      ko: 경골, 정강이뼈
+    gender: f
+    notes:
+      en: "gen. tibiae; 1st decl.; also 'flute' in classical Latin"
+      ko: "속격 tibiae; 제1변화; 고전 라틴어에서 '피리'도 의미"
+  - latin: fibula
+    translation:
+      en: calf bone, fibula
+      ko: 비골, 종아리뼈
+    gender: f
+    notes:
+      en: "gen. fibulae; 1st decl.; originally 'clasp, brooch'"
+      ko: "속격 fibulae; 제1변화; 원래 '걸쇠, 브로치'"
+  - latin: sternum
+    translation:
+      en: breastbone, sternum
+      ko: 흉골
+    gender: n
+    notes:
+      en: "gen. sternī; 2nd decl.; Greek loanword"
+      ko: "속격 sternī; 제2변화; 그리스어 차용어"
+  - latin: scapula
+    translation:
+      en: shoulder blade, scapula
+      ko: 견갑골, 어깨뼈
+    gender: f
+    notes:
+      en: "gen. scapulae; 1st decl."
+      ko: "속격 scapulae; 제1변화"
+  - latin: pelvis
+    translation:
+      en: basin, pelvis
+      ko: 골반
+    gender: f
+    notes:
+      en: "gen. pelvis; 3rd decl.; lit. 'basin'"
+      ko: "속격 pelvis; 제3변화; 직역 '대야'"
+  - latin: musculus
+    translation:
+      en: muscle, little mouse
+      ko: 근육
+    gender: m
+    notes:
+      en: "gen. musculī; 2nd decl.; diminutive of mūs 'mouse' (muscles looked like mice under skin)"
+      ko: "속격 musculī; 제2변화; mūs '쥐'의 축소형 (근육이 피부 아래 쥐처럼 보여서)"
+  - latin: nervus
+    translation:
+      en: nerve, sinew
+      ko: 신경, 힘줄
+    gender: m
+    notes:
+      en: "gen. nervī; 2nd decl.; modern medical sense narrowed to 'nerve'"
+      ko: "속격 nervī; 제2변화; 현대 의학적 의미가 '신경'으로 좁혀짐"
+  - latin: articulatio
+    translation:
+      en: joint, articulation
+      ko: 관절
+    gender: f
+    notes:
+      en: "gen. articulātiōnis; 3rd decl.; connection between bones"
+      ko: "속격 articulātiōnis; 제3변화; 뼈 사이의 연결"
+
+- id: pharmaceutical
+  label:
+    en: Pharmaceutical and Prescription Terms
+    ko: 약학 및 처방 용어
+  type: vocabulary
+  words:
+  - latin: pharmacopoeia
+    translation:
+      en: pharmacopoeia, drug reference book
+      ko: 약전
+    gender: f
+    notes:
+      en: "gen. pharmacopoeiae; 1st decl.; Greek loanword; official list of medicines"
+      ko: "속격 pharmacopoeiae; 제1변화; 그리스어 차용어; 공식 의약품 목록"
+  - latin: recipe
+    translation:
+      en: take (prescription instruction)
+      ko: 취하라 (처방 지시)
+    gender: n
+    notes:
+      en: "imperative of recipere 'to take'; abbreviated Rx on prescriptions"
+      ko: "recipere '취하다'의 명령형; 처방전에서 Rx로 약기"
+  - latin: dosis
+    translation:
+      en: dose, measured quantity
+      ko: 용량
+    gender: f
+    notes:
+      en: "gen. dosis; 3rd decl.; Greek loanword"
+      ko: "속격 dosis; 제3변화; 그리스어 차용어"
+  - latin: bis in die
+    translation:
+      en: twice a day (b.i.d.)
+      ko: 하루 두 번
+    gender: n
+    notes:
+      en: "abbreviated b.i.d.; prescription frequency"
+      ko: "약자 b.i.d.; 처방 빈도"
+  - latin: ter in die
+    translation:
+      en: three times a day (t.i.d.)
+      ko: 하루 세 번
+    gender: n
+    notes:
+      en: "abbreviated t.i.d.; prescription frequency"
+      ko: "약자 t.i.d.; 처방 빈도"
+  - latin: pro re nata
+    translation:
+      en: as needed, as the situation arises (p.r.n.)
+      ko: 필요에 따라
+    gender: n
+    notes:
+      en: "abbreviated p.r.n.; medication taken only when needed"
+      ko: "약자 p.r.n.; 필요할 때만 복용하는 약물"
+  - latin: ante cibum
+    translation:
+      en: before food (a.c.)
+      ko: 식전에
+    gender: n
+    notes:
+      en: "abbreviated a.c.; prescription timing"
+      ko: "약자 a.c.; 처방 시간"
+  - latin: post cibum
+    translation:
+      en: after food (p.c.)
+      ko: 식후에
+    gender: n
+    notes:
+      en: "abbreviated p.c.; prescription timing"
+      ko: "약자 p.c.; 처방 시간"
+  - latin: in vitro
+    translation:
+      en: in glass, in the test tube
+      ko: 시험관 내에서
+    gender: n
+    notes:
+      en: "experiments performed outside a living organism"
+      ko: "살아있는 유기체 밖에서 수행되는 실험"
+  - latin: in vivo
+    translation:
+      en: in the living, within a living organism
+      ko: 생체 내에서
+    gender: n
+    notes:
+      en: "experiments performed within a living organism"
+      ko: "살아있는 유기체 안에서 수행되는 실험"
+  - latin: in situ
+    translation:
+      en: in its original place
+      ko: 원래 위치에서
+    gender: n
+    notes:
+      en: "examination or treatment in the natural position"
+      ko: "자연적 위치에서의 검사 또는 치료"
+  - latin: placebo
+    translation:
+      en: I shall please, placebo
+      ko: 위약
+    gender: n
+    notes:
+      en: "future tense of placēre 'to please'; an inert treatment given for psychological effect"
+      ko: "placēre '기쁘게 하다'의 미래형; 심리적 효과를 위해 투여되는 불활성 치료"
+
+- id: scientific
+  label:
+    en: Scientific Method and Terms
+    ko: 과학적 방법과 용어
+  type: vocabulary
+  words:
+  - latin: hypothesis
+    translation:
+      en: hypothesis, supposition
+      ko: 가설
+    gender: f
+    notes:
+      en: "gen. hypotheseos; 3rd decl.; Greek loanword; a testable proposition"
+      ko: "속격 hypotheseos; 제3변화; 그리스어 차용어; 검증 가능한 명제"
+  - latin: experimentum
+    translation:
+      en: experiment, test, trial
+      ko: 실험
+    gender: n
+    notes:
+      en: "gen. experimentī; 2nd decl.; from experīrī 'to try'"
+      ko: "속격 experimentī; 제2변화; experīrī '시도하다'에서 유래"
+  - latin: observatio
+    translation:
+      en: observation
+      ko: 관찰
+    gender: f
+    notes:
+      en: "gen. observātiōnis; 3rd decl."
+      ko: "속격 observātiōnis; 제3변화"
+  - latin: conclusio
+    translation:
+      en: conclusion
+      ko: 결론
+    gender: f
+    notes:
+      en: "gen. conclūsiōnis; 3rd decl."
+      ko: "속격 conclūsiōnis; 제3변화"
+  - latin: specimen
+    translation:
+      en: specimen, example, sample
+      ko: 표본
+    gender: n
+    notes:
+      en: "gen. speciminis; 3rd decl.; from specere 'to look at'"
+      ko: "속격 speciminis; 제3변화; specere '보다'에서 유래"
+  - latin: vacuum
+    translation:
+      en: empty space, vacuum
+      ko: 진공, 빈 공간
+    gender: n
+    notes:
+      en: "gen. vacuī; 2nd decl.; substantivized adj.; nature abhors a vacuum"
+      ko: "속격 vacuī; 제2변화; 명사화된 형용사; 자연은 진공을 싫어한다"
+  - latin: calculus
+    translation:
+      en: small stone, calculation, calculus
+      ko: 작은 돌, 계산, 미적분
+    gender: m
+    notes:
+      en: "gen. calculī; 2nd decl.; diminutive of calx 'limestone'"
+      ko: "속격 calculī; 제2변화; calx '석회석'의 축소형"
+  - latin: radius
+    translation:
+      en: ray, spoke, radius
+      ko: 광선, 살, 반지름
+    gender: m
+    notes:
+      en: "gen. radiī; 2nd decl.; used in mathematics and anatomy"
+      ko: "속격 radiī; 제2변화; 수학과 해부학에서 사용"
+  - latin: formula
+    translation:
+      en: formula, rule, pattern
+      ko: 공식, 규칙
+    gender: f
+    notes:
+      en: "gen. fōrmulae; 1st decl.; diminutive of fōrma"
+      ko: "속격 fōrmulae; 제1변화; fōrma의 축소형"
+  - latin: gravitas
+    translation:
+      en: weight, heaviness, gravity
+      ko: 무게, 중력
+    gender: f
+    notes:
+      en: "gen. gravitātis; 3rd decl.; Newton's vis gravitātis"
+      ko: "속격 gravitātis; 제3변화; 뉴턴의 중력의 힘"
