@@ -1,0 +1,764 @@
+# Latin Tense Formation Rules and Usage
+# Active Indicative + Passive Indicative + Subjunctive
+
+tenses:
+  # ============================================================
+  # ACTIVE INDICATIVE (6 tenses)
+  # ============================================================
+  praesens:
+    id: praesens
+    label:
+      en: "Present Tense (Praesens Indicativi Activi)"
+      ko: "현재 시제 (현재 직설법 능동)"
+    cefr: A1
+    formation:
+      en: "Remove the infinitive ending (-are, -ere, -ere, -ire) to obtain the present stem, then add the present tense personal endings for the appropriate conjugation. Third-conjugation -io verbs (e.g., capere) follow a hybrid pattern with -i- in certain forms."
+      ko: "부정사 어미(-are, -ere, -ere, -ire)를 제거하여 현재 어간을 구한 후, 해당 활용에 맞는 현재 시제 인칭 어미를 추가합니다. 제3활용 -io 동사(예: capere)는 일부 형태에서 -i-가 들어가는 혼합 패턴을 따릅니다."
+    endings:
+      "1st (-ARE)":
+        ego: "-o"
+        tu: "-as"
+        "is/ea/id": "-at"
+        nos: "-amus"
+        vos: "-atis"
+        "ei/eae/ea": "-ant"
+      "2nd (-ERE)":
+        ego: "-eo"
+        tu: "-es"
+        "is/ea/id": "-et"
+        nos: "-emus"
+        vos: "-etis"
+        "ei/eae/ea": "-ent"
+      "3rd (-ERE)":
+        ego: "-o"
+        tu: "-is"
+        "is/ea/id": "-it"
+        nos: "-imus"
+        vos: "-itis"
+        "ei/eae/ea": "-unt"
+      "3rd-io (-ERE/-IO)":
+        ego: "-io"
+        tu: "-is"
+        "is/ea/id": "-it"
+        nos: "-imus"
+        vos: "-itis"
+        "ei/eae/ea": "-iunt"
+      "4th (-IRE)":
+        ego: "-io"
+        tu: "-is"
+        "is/ea/id": "-it"
+        nos: "-imus"
+        vos: "-itis"
+        "ei/eae/ea": "-iunt"
+    uses:
+      - en: "Actions happening at the present moment"
+        ko: "현재 일어나고 있는 행동"
+        example: "Discipulus librum legit."
+      - en: "Habitual or repeated actions"
+        ko: "습관적이거나 반복되는 행동"
+        example: "Cotidie ad forum ambulo."
+      - en: "General truths and timeless statements"
+        ko: "일반적 진리와 불변의 진술"
+        example: "Aqua ad mare fluit."
+      - en: "Historical present for vivid narrative"
+        ko: "생생한 서사를 위한 역사적 현재"
+        example: "Caesar copias trans flumen ducit."
+      - en: "Future actions that are certain or imminent"
+        ko: "확실하거나 임박한 미래 행동"
+        example: "Cras Romam venio."
+    trigger_words: [nunc, hodie, cotidie, semper, saepe, numquam, interdum, iam]
+
+  imperfectum:
+    id: imperfectum
+    label:
+      en: "Imperfect Tense (Imperfectum Indicativi Activi)"
+      ko: "미완료 시제 (미완료 직설법 능동)"
+    cefr: A2
+    formation:
+      en: "Add the tense sign -ba- (1st/2nd conjugation) or -eba-/-ieba- (3rd/4th conjugation) to the present stem, then add personal endings (-m, -s, -t, -mus, -tis, -nt)."
+      ko: "현재 어간에 시제 표지 -ba- (제1/2활용) 또는 -eba-/-ieba- (제3/4활용)를 추가한 후 인칭 어미(-m, -s, -t, -mus, -tis, -nt)를 붙입니다."
+    endings:
+      "1st (-ARE)":
+        ego: "-abam"
+        tu: "-abas"
+        "is/ea/id": "-abat"
+        nos: "-abamus"
+        vos: "-abatis"
+        "ei/eae/ea": "-abant"
+      "2nd (-ERE)":
+        ego: "-ebam"
+        tu: "-ebas"
+        "is/ea/id": "-ebat"
+        nos: "-ebamus"
+        vos: "-ebatis"
+        "ei/eae/ea": "-ebant"
+      "3rd (-ERE)":
+        ego: "-ebam"
+        tu: "-ebas"
+        "is/ea/id": "-ebat"
+        nos: "-ebamus"
+        vos: "-ebatis"
+        "ei/eae/ea": "-ebant"
+      "3rd-io (-ERE/-IO)":
+        ego: "-iebam"
+        tu: "-iebas"
+        "is/ea/id": "-iebat"
+        nos: "-iebamus"
+        vos: "-iebatis"
+        "ei/eae/ea": "-iebant"
+      "4th (-IRE)":
+        ego: "-iebam"
+        tu: "-iebas"
+        "is/ea/id": "-iebat"
+        nos: "-iebamus"
+        vos: "-iebatis"
+        "ei/eae/ea": "-iebant"
+    uses:
+      - en: "Ongoing or continuous past actions"
+        ko: "진행 중이거나 계속되는 과거 행동"
+        example: "Miles per silvam ambulabat."
+      - en: "Habitual or repeated past actions"
+        ko: "습관적이거나 반복된 과거 행동"
+        example: "Pueri cotidie in campo ludebant."
+      - en: "Background description and scene setting"
+        ko: "배경 묘사와 장면 설정"
+        example: "Sol lucebat et aves canebant."
+      - en: "Simultaneous past actions (while...)"
+        ko: "동시에 일어난 과거 행동 (~하는 동안)"
+        example: "Dum Caesar orationem habebat, senatores audiebant."
+      - en: "Attempted or intended past actions (conative imperfect)"
+        ko: "시도하거나 의도한 과거 행동 (시도의 미완료)"
+        example: "Hostes castra oppugnabant sed non capiebant."
+    trigger_words: [olim, tum, dum, interea, cotidie, saepe, semper, quondam]
+
+  futurum:
+    id: futurum
+    label:
+      en: "Future Tense (Futurum Primum Indicativi Activi)"
+      ko: "미래 시제 (제1미래 직설법 능동)"
+    cefr: A2
+    formation:
+      en: "For 1st/2nd conjugation: add -b- plus vowel and personal endings to the present stem. For 3rd/4th conjugation: add -a-/-e- (1sg -am, then -es, -et, etc.) to the present stem."
+      ko: "제1/2활용: 현재 어간에 -b- 더하기 모음과 인칭 어미를 추가합니다. 제3/4활용: 현재 어간에 -a-/-e- (1인칭 단수 -am, 이후 -es, -et 등)를 추가합니다."
+    endings:
+      "1st (-ARE)":
+        ego: "-bo"
+        tu: "-bis"
+        "is/ea/id": "-bit"
+        nos: "-bimus"
+        vos: "-bitis"
+        "ei/eae/ea": "-bunt"
+      "2nd (-ERE)":
+        ego: "-bo"
+        tu: "-bis"
+        "is/ea/id": "-bit"
+        nos: "-bimus"
+        vos: "-bitis"
+        "ei/eae/ea": "-bunt"
+      "3rd (-ERE)":
+        ego: "-am"
+        tu: "-es"
+        "is/ea/id": "-et"
+        nos: "-emus"
+        vos: "-etis"
+        "ei/eae/ea": "-ent"
+      "3rd-io (-ERE/-IO)":
+        ego: "-iam"
+        tu: "-ies"
+        "is/ea/id": "-iet"
+        nos: "-iemus"
+        vos: "-ietis"
+        "ei/eae/ea": "-ient"
+      "4th (-IRE)":
+        ego: "-iam"
+        tu: "-ies"
+        "is/ea/id": "-iet"
+        nos: "-iemus"
+        vos: "-ietis"
+        "ei/eae/ea": "-ient"
+    uses:
+      - en: "Actions that will happen in the future"
+        ko: "미래에 일어날 행동"
+        example: "Cras Romam ibo."
+      - en: "Promises and predictions"
+        ko: "약속과 예측"
+        example: "Tibi pecuniam dabo."
+      - en: "Commands or instructions (future used as mild imperative)"
+        ko: "명령이나 지시 (완곡한 명령으로 사용되는 미래)"
+        example: "Hoc facies sine mora."
+      - en: "General future truths"
+        ko: "일반적인 미래의 진리"
+        example: "Qui bene vivet, bene morietur."
+    trigger_words: [cras, mox, brevi, postea, olim, aliquando, posthac]
+
+  perfectum:
+    id: perfectum
+    label:
+      en: "Perfect Tense (Perfectum Indicativi Activi)"
+      ko: "완료 시제 (완료 직설법 능동)"
+    cefr: B1
+    formation:
+      en: "Take the perfect stem (3rd principal part minus -i) and add perfect active personal endings: -i, -isti, -it, -imus, -istis, -erunt (or -ere). The perfect stem varies by verb and must be memorized from principal parts."
+      ko: "완료 어간(제3기본형에서 -i를 뺀 것)을 취한 후 완료 능동 인칭 어미를 추가합니다: -i, -isti, -it, -imus, -istis, -erunt (또는 -ere). 완료 어간은 동사마다 다르며 기본형에서 외워야 합니다."
+    endings:
+      "All conjugations (perfect stem +)":
+        ego: "-i"
+        tu: "-isti"
+        "is/ea/id": "-it"
+        nos: "-imus"
+        vos: "-istis"
+        "ei/eae/ea": "-erunt / -ere"
+    perfect_stem_types:
+      en: "Common perfect stem formations: (1) -v- suffix: amavi, audivi; (2) -u- suffix: monui, docui; (3) -s- suffix: scripsi, dixi; (4) reduplication: cecidi, cucurri, tetigi; (5) lengthened vowel: veni, legi, vidi; (6) no change: verti, incendi"
+      ko: "일반적인 완료 어간 형성: (1) -v- 접미사: amavi, audivi; (2) -u- 접미사: monui, docui; (3) -s- 접미사: scripsi, dixi; (4) 중복: cecidi, cucurri, tetigi; (5) 모음 장음화: veni, legi, vidi; (6) 변화 없음: verti, incendi"
+    uses:
+      - en: "A completed single action in the past (simple past / preterite)"
+        ko: "과거에 완료된 단일 행동 (단순 과거)"
+        example: "Caesar Galliam vicit."
+      - en: "A present state resulting from a past action (present perfect)"
+        ko: "과거 행동에서 비롯된 현재 상태 (현재 완료)"
+        example: "Novi hominem. (I have come to know = I know the man.)"
+      - en: "An action completed in the past with emphasis on the result"
+        ko: "결과를 강조하며 과거에 완료된 행동"
+        example: "Veni, vidi, vici."
+      - en: "Experiential past (have you ever...)"
+        ko: "경험적 과거 (~한 적이 있다)"
+        example: "Numquam Athenas vidi."
+    trigger_words: [heri, nuper, iam, tandem, semel, bis, numquam, olim]
+
+  plusquamperfectum:
+    id: plusquamperfectum
+    label:
+      en: "Pluperfect Tense (Plusquamperfectum Indicativi Activi)"
+      ko: "대과거 시제 (대과거 직설법 능동)"
+    cefr: B1
+    formation:
+      en: "Take the perfect stem and add the pluperfect endings: -eram, -eras, -erat, -eramus, -eratis, -erant. These are the imperfect forms of 'esse' attached to the perfect stem."
+      ko: "완료 어간을 취한 후 대과거 어미를 추가합니다: -eram, -eras, -erat, -eramus, -eratis, -erant. 이는 완료 어간에 'esse'의 미완료형을 붙인 것입니다."
+    endings:
+      "All conjugations (perfect stem +)":
+        ego: "-eram"
+        tu: "-eras"
+        "is/ea/id": "-erat"
+        nos: "-eramus"
+        vos: "-eratis"
+        "ei/eae/ea": "-erant"
+    uses:
+      - en: "An action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 행동"
+        example: "Cum Caesar venisset, hostes iam fugerant."
+      - en: "Background information about prior completed events"
+        ko: "이전에 완료된 사건에 대한 배경 정보"
+        example: "Urbem quam statuerat reliquit."
+      - en: "In temporal and causal clauses referring to prior time"
+        ko: "이전 시간을 언급하는 시간절 및 원인절에서"
+        example: "Quod promiserat, pecuniam dedit."
+    trigger_words: [iam, antea, ante, prius, numquam antea, postquam, cum]
+
+  futurum_exactum:
+    id: futurum_exactum
+    label:
+      en: "Future Perfect Tense (Futurum Exactum Indicativi Activi)"
+      ko: "미래 완료 시제 (미래 완료 직설법 능동)"
+    cefr: B1
+    formation:
+      en: "Take the perfect stem and add the future perfect endings: -ero, -eris, -erit, -erimus, -eritis, -erint. These resemble the future forms of 'esse' attached to the perfect stem."
+      ko: "완료 어간을 취한 후 미래 완료 어미를 추가합니다: -ero, -eris, -erit, -erimus, -eritis, -erint. 이는 완료 어간에 'esse'의 미래형과 유사한 형태를 붙인 것입니다."
+    endings:
+      "All conjugations (perfect stem +)":
+        ego: "-ero"
+        tu: "-eris"
+        "is/ea/id": "-erit"
+        nos: "-erimus"
+        vos: "-eritis"
+        "ei/eae/ea": "-erint"
+    uses:
+      - en: "An action that will be completed before another future action"
+        ko: "다른 미래 행동 이전에 완료될 행동"
+        example: "Cum perveneris, ego iam discessero."
+      - en: "In conditional clauses referring to completed future conditions"
+        ko: "완료된 미래 조건을 언급하는 조건절에서"
+        example: "Si hoc feceris, te laudabo."
+      - en: "In temporal clauses with cum, ubi, postquam for future prior events"
+        ko: "미래의 이전 사건을 나타내는 cum, ubi, postquam 시간절에서"
+        example: "Ubi litteras scripseris, eas mihi mitte."
+    trigger_words: [cum, ubi, postquam, si, antequam, priusquam]
+
+  # ============================================================
+  # PASSIVE INDICATIVE (6 tenses)
+  # ============================================================
+  praesens_passivum:
+    id: praesens_passivum
+    label:
+      en: "Present Passive (Praesens Indicativi Passivi)"
+      ko: "현재 수동 (현재 직설법 수동)"
+    cefr: B1
+    formation:
+      en: "Remove the infinitive ending to obtain the present stem, then add passive personal endings. The passive endings replace the active endings: -or for -o, -ris for -s, -tur for -t, -mur for -mus, -mini for -tis, -ntur for -nt."
+      ko: "부정사 어미를 제거하여 현재 어간을 구한 후 수동 인칭 어미를 추가합니다. 수동 어미는 능동 어미를 대체합니다: -or은 -o를, -ris는 -s를, -tur는 -t를, -mur는 -mus를, -mini는 -tis를, -ntur는 -nt를 대체합니다."
+    endings:
+      "1st (-ARE)":
+        ego: "-or"
+        tu: "-aris"
+        "is/ea/id": "-atur"
+        nos: "-amur"
+        vos: "-amini"
+        "ei/eae/ea": "-antur"
+      "2nd (-ERE)":
+        ego: "-eor"
+        tu: "-eris"
+        "is/ea/id": "-etur"
+        nos: "-emur"
+        vos: "-emini"
+        "ei/eae/ea": "-entur"
+      "3rd (-ERE)":
+        ego: "-or"
+        tu: "-eris"
+        "is/ea/id": "-itur"
+        nos: "-imur"
+        vos: "-imini"
+        "ei/eae/ea": "-untur"
+      "3rd-io (-ERE/-IO)":
+        ego: "-ior"
+        tu: "-eris"
+        "is/ea/id": "-itur"
+        nos: "-imur"
+        vos: "-imini"
+        "ei/eae/ea": "-iuntur"
+      "4th (-IRE)":
+        ego: "-ior"
+        tu: "-iris"
+        "is/ea/id": "-itur"
+        nos: "-imur"
+        vos: "-imini"
+        "ei/eae/ea": "-iuntur"
+    uses:
+      - en: "Present passive actions (something is being done)"
+        ko: "현재 수동 행동 (무언가가 행해지고 있다)"
+        example: "Liber a discipulo legitur."
+      - en: "Deponent verbs (passive form with active meaning)"
+        ko: "이형태 동사 (수동 형태이지만 능동 의미)"
+        example: "Miles hostem sequitur."
+      - en: "Impersonal passive constructions"
+        ko: "비인칭 수동 구문"
+        example: "Pugnatur acriter. (There is fierce fighting.)"
+      - en: "Agent expressed with a/ab + ablative"
+        ko: "행위자를 a/ab + 탈격으로 표현"
+        example: "Urbs a militibus defenditur."
+    trigger_words: [a, ab, nunc, hodie, cotidie]
+
+  imperfectum_passivum:
+    id: imperfectum_passivum
+    label:
+      en: "Imperfect Passive (Imperfectum Indicativi Passivi)"
+      ko: "미완료 수동 (미완료 직설법 수동)"
+    cefr: B1
+    formation:
+      en: "Form the active imperfect stem (present stem + -ba-/-eba-/-ieba-) and replace the active endings with passive endings: -r for -m, -ris for -s, -tur for -t, -mur for -mus, -mini for -tis, -ntur for -nt."
+      ko: "능동 미완료 어간(현재 어간 + -ba-/-eba-/-ieba-)을 만든 후 능동 어미를 수동 어미로 대체합니다: -r은 -m을, -ris는 -s를, -tur는 -t를, -mur는 -mus를, -mini는 -tis를, -ntur는 -nt를 대체합니다."
+    endings:
+      "1st (-ARE)":
+        ego: "-abar"
+        tu: "-abaris"
+        "is/ea/id": "-abatur"
+        nos: "-abamur"
+        vos: "-abamini"
+        "ei/eae/ea": "-abantur"
+      "2nd (-ERE)":
+        ego: "-ebar"
+        tu: "-ebaris"
+        "is/ea/id": "-ebatur"
+        nos: "-ebamur"
+        vos: "-ebamini"
+        "ei/eae/ea": "-ebantur"
+      "3rd (-ERE)":
+        ego: "-ebar"
+        tu: "-ebaris"
+        "is/ea/id": "-ebatur"
+        nos: "-ebamur"
+        vos: "-ebamini"
+        "ei/eae/ea": "-ebantur"
+      "3rd-io (-ERE/-IO)":
+        ego: "-iebar"
+        tu: "-iebaris"
+        "is/ea/id": "-iebatur"
+        nos: "-iebamur"
+        vos: "-iebamini"
+        "ei/eae/ea": "-iebantur"
+      "4th (-IRE)":
+        ego: "-iebar"
+        tu: "-iebaris"
+        "is/ea/id": "-iebatur"
+        nos: "-iebamur"
+        vos: "-iebamini"
+        "ei/eae/ea": "-iebantur"
+    uses:
+      - en: "Ongoing or habitual past passive actions"
+        ko: "진행 중이거나 습관적인 과거 수동 행동"
+        example: "Epistulae cotidie scribebantur."
+      - en: "Background descriptions in passive voice"
+        ko: "수동태로 표현된 배경 묘사"
+        example: "Urbs a multis civibus habitabatur."
+      - en: "Simultaneous passive events in past narrative"
+        ko: "과거 서사에서의 동시 수동 사건"
+        example: "Dum oppidum oppugnabatur, cives fugiebant."
+    trigger_words: [olim, tum, dum, interea, cotidie]
+
+  futurum_passivum:
+    id: futurum_passivum
+    label:
+      en: "Future Passive (Futurum Primum Indicativi Passivi)"
+      ko: "미래 수동 (제1미래 직설법 수동)"
+    cefr: B1
+    formation:
+      en: "Form the active future stem and replace active endings with passive endings. For 1st/2nd conjugation: -bor, -beris, -bitur, -bimur, -bimini, -buntur. For 3rd/4th conjugation: -ar, -eris, -etur, -emur, -emini, -entur."
+      ko: "능동 미래 어간을 만든 후 능동 어미를 수동 어미로 대체합니다. 제1/2활용: -bor, -beris, -bitur, -bimur, -bimini, -buntur. 제3/4활용: -ar, -eris, -etur, -emur, -emini, -entur."
+    endings:
+      "1st (-ARE)":
+        ego: "-bor"
+        tu: "-beris"
+        "is/ea/id": "-bitur"
+        nos: "-bimur"
+        vos: "-bimini"
+        "ei/eae/ea": "-buntur"
+      "2nd (-ERE)":
+        ego: "-bor"
+        tu: "-beris"
+        "is/ea/id": "-bitur"
+        nos: "-bimur"
+        vos: "-bimini"
+        "ei/eae/ea": "-buntur"
+      "3rd (-ERE)":
+        ego: "-ar"
+        tu: "-eris"
+        "is/ea/id": "-etur"
+        nos: "-emur"
+        vos: "-emini"
+        "ei/eae/ea": "-entur"
+      "3rd-io (-ERE/-IO)":
+        ego: "-iar"
+        tu: "-ieris"
+        "is/ea/id": "-ietur"
+        nos: "-iemur"
+        vos: "-iemini"
+        "ei/eae/ea": "-ientur"
+      "4th (-IRE)":
+        ego: "-iar"
+        tu: "-ieris"
+        "is/ea/id": "-ietur"
+        nos: "-iemur"
+        vos: "-iemini"
+        "ei/eae/ea": "-ientur"
+    uses:
+      - en: "Future passive actions (something will be done)"
+        ko: "미래 수동 행동 (무언가가 행해질 것이다)"
+        example: "Epistula cras mittetur."
+      - en: "Passive predictions and promises"
+        ko: "수동 예측과 약속"
+        example: "Praemia victoribus dabuntur."
+      - en: "Legal and official future declarations"
+        ko: "법적, 공식적 미래 선언"
+        example: "Lex a senatu feretur."
+    trigger_words: [cras, mox, brevi, postea, aliquando]
+
+  perfectum_passivum:
+    id: perfectum_passivum
+    label:
+      en: "Perfect Passive (Perfectum Indicativi Passivi)"
+      ko: "완료 수동 (완료 직설법 수동)"
+    cefr: B1
+    formation:
+      en: "Compound tense: Perfect passive participle (PPP, 4th principal part) + present tense of ESSE. The PPP agrees with the subject in gender, number, and case (nominative). PPP formation: 1st conj. -atus/-ata/-atum, 2nd conj. -itus/-ita/-itum, 3rd conj. varies (-tus/-sus), 4th conj. -itus/-ita/-itum."
+      ko: "복합 시제: 완료 수동 분사(PPP, 제4기본형) + ESSE의 현재형. PPP는 주어의 성, 수, 격(주격)에 일치합니다. PPP 형성: 제1활용 -atus/-ata/-atum, 제2활용 -itus/-ita/-itum, 제3활용 다양(-tus/-sus), 제4활용 -itus/-ita/-itum."
+    compound_formation:
+      auxiliary: "ESSE (present indicative)"
+      esse_forms:
+        ego: "sum"
+        tu: "es"
+        "is/ea/id": "est"
+        nos: "sumus"
+        vos: "estis"
+        "ei/eae/ea": "sunt"
+      pattern:
+        en: "PPP (nom., agreeing with subject) + present of ESSE"
+        ko: "PPP (주격, 주어에 일치) + ESSE 현재형"
+      examples:
+        masculine_singular: "amatus sum (I was loved / I have been loved)"
+        feminine_singular: "amata est (she was loved)"
+        masculine_plural: "amati sumus (we were loved)"
+        feminine_plural: "amatae sunt (they [f.] were loved)"
+        neuter_singular: "oppidum captum est (the town was captured)"
+    uses:
+      - en: "A completed passive action in the past"
+        ko: "과거에 완료된 수동 행동"
+        example: "Urbs a Romanis condita est."
+      - en: "A present state resulting from a past passive action"
+        ko: "과거 수동 행동에서 비롯된 현재 상태"
+        example: "Porta clausa est. (The gate is/has been closed.)"
+      - en: "Deponent verbs in perfect tense (active meaning)"
+        ko: "완료 시제의 이형태 동사 (능동 의미)"
+        example: "Dux milites hortatus est."
+      - en: "Historical narrative in passive voice"
+        ko: "수동태의 역사적 서사"
+        example: "Carthago a Romanis deleta est."
+    trigger_words: [a, ab, iam, tandem, heri, nuper]
+
+  plusquamperfectum_passivum:
+    id: plusquamperfectum_passivum
+    label:
+      en: "Pluperfect Passive (Plusquamperfectum Indicativi Passivi)"
+      ko: "대과거 수동 (대과거 직설법 수동)"
+    cefr: B2
+    formation:
+      en: "Compound tense: Perfect passive participle (PPP) + imperfect tense of ESSE (eram, eras, erat, eramus, eratis, erant). The PPP agrees with the subject in gender, number, and case."
+      ko: "복합 시제: 완료 수동 분사(PPP) + ESSE의 미완료형(eram, eras, erat, eramus, eratis, erant). PPP는 주어의 성, 수, 격에 일치합니다."
+    compound_formation:
+      auxiliary: "ESSE (imperfect indicative)"
+      esse_forms:
+        ego: "eram"
+        tu: "eras"
+        "is/ea/id": "erat"
+        nos: "eramus"
+        vos: "eratis"
+        "ei/eae/ea": "erant"
+      pattern:
+        en: "PPP (nom., agreeing with subject) + imperfect of ESSE"
+        ko: "PPP (주격, 주어에 일치) + ESSE 미완료형"
+      examples:
+        masculine_singular: "amatus eram (I had been loved)"
+        feminine_singular: "amata erat (she had been loved)"
+        masculine_plural: "amati eramus (we had been loved)"
+        neuter_plural: "oppida capta erant (the towns had been captured)"
+    uses:
+      - en: "A passive action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 수동 행동"
+        example: "Cum dux pervenit, castra iam posita erant."
+      - en: "Prior passive state in background narration"
+        ko: "배경 서술에서의 이전 수동 상태"
+        example: "Urbs quae condita erat magnifica videbatur."
+      - en: "In temporal clauses with postquam, cum for completed prior passive events"
+        ko: "완료된 이전 수동 사건을 나타내는 postquam, cum 시간절에서"
+        example: "Postquam epistula scripta erat, nuntius discessit."
+    trigger_words: [iam, antea, prius, postquam, cum]
+
+  futurum_exactum_passivum:
+    id: futurum_exactum_passivum
+    label:
+      en: "Future Perfect Passive (Futurum Exactum Indicativi Passivi)"
+      ko: "미래 완료 수동 (미래 완료 직설법 수동)"
+    cefr: B2
+    formation:
+      en: "Compound tense: Perfect passive participle (PPP) + future tense of ESSE (ero, eris, erit, erimus, eritis, erunt). The PPP agrees with the subject in gender, number, and case."
+      ko: "복합 시제: 완료 수동 분사(PPP) + ESSE의 미래형(ero, eris, erit, erimus, eritis, erunt). PPP는 주어의 성, 수, 격에 일치합니다."
+    compound_formation:
+      auxiliary: "ESSE (future indicative)"
+      esse_forms:
+        ego: "ero"
+        tu: "eris"
+        "is/ea/id": "erit"
+        nos: "erimus"
+        vos: "eritis"
+        "ei/eae/ea": "erunt"
+      pattern:
+        en: "PPP (nom., agreeing with subject) + future of ESSE"
+        ko: "PPP (주격, 주어에 일치) + ESSE 미래형"
+      examples:
+        masculine_singular: "amatus ero (I will have been loved)"
+        feminine_singular: "amata erit (she will have been loved)"
+        masculine_plural: "amati erimus (we will have been loved)"
+        neuter_singular: "opus perfectum erit (the work will have been completed)"
+    uses:
+      - en: "A passive action that will be completed before a future point"
+        ko: "미래 시점 이전에 완료될 수동 행동"
+        example: "Ante noctem opus perfectum erit."
+      - en: "In conditional and temporal clauses for future prior passive completion"
+        ko: "미래의 이전 수동 완료를 나타내는 조건절 및 시간절에서"
+        example: "Si pax facta erit, milites domum redibunt."
+      - en: "Legal and official contexts (something will have been established)"
+        ko: "법적, 공식적 맥락 (무언가가 확립되었을 것이다)"
+        example: "Cum lex lata erit, omnes parebunt."
+    trigger_words: [ante, prius, cum, ubi, si, postquam]
+
+  # ============================================================
+  # SUBJUNCTIVE (4 tenses)
+  # ============================================================
+  coniunctivus_praesens:
+    id: coniunctivus_praesens
+    label:
+      en: "Present Subjunctive (Coniunctivus Praesentis)"
+      ko: "현재 접속법 (현재 접속법)"
+    cefr: B1
+    formation:
+      en: "For 1st conjugation: change the theme vowel -a- to -e-, then add personal endings (-m, -s, -t, -mus, -tis, -nt). For 2nd/3rd/4th conjugation: add -a- to the present stem before personal endings. Mnemonic: 'wE bEAt A lIAr' (1st -e-, 2nd -ea-, 3rd -a-, 4th -ia-)."
+      ko: "제1활용: 주제 모음 -a-를 -e-로 바꾼 후 인칭 어미(-m, -s, -t, -mus, -tis, -nt)를 추가합니다. 제2/3/4활용: 인칭 어미 앞에 현재 어간에 -a-를 추가합니다. 기억법: 'wE bEAt A lIAr' (제1 -e-, 제2 -ea-, 제3 -a-, 제4 -ia-)."
+    endings:
+      "1st (-ARE)":
+        ego: "-em"
+        tu: "-es"
+        "is/ea/id": "-et"
+        nos: "-emus"
+        vos: "-etis"
+        "ei/eae/ea": "-ent"
+      "2nd (-ERE)":
+        ego: "-eam"
+        tu: "-eas"
+        "is/ea/id": "-eat"
+        nos: "-eamus"
+        vos: "-eatis"
+        "ei/eae/ea": "-eant"
+      "3rd (-ERE)":
+        ego: "-am"
+        tu: "-as"
+        "is/ea/id": "-at"
+        nos: "-amus"
+        vos: "-atis"
+        "ei/eae/ea": "-ant"
+      "3rd-io (-ERE/-IO)":
+        ego: "-iam"
+        tu: "-ias"
+        "is/ea/id": "-iat"
+        nos: "-iamus"
+        vos: "-iatis"
+        "ei/eae/ea": "-iant"
+      "4th (-IRE)":
+        ego: "-iam"
+        tu: "-ias"
+        "is/ea/id": "-iat"
+        nos: "-iamus"
+        vos: "-iatis"
+        "ei/eae/ea": "-iant"
+    uses:
+      - en: "Exhortation (hortatory subjunctive, 1st person plural)"
+        ko: "권유 (권유 접속법, 1인칭 복수)"
+        example: "Gaudeamus igitur! (Let us therefore rejoice!)"
+      - en: "Wish or desire (optative subjunctive, with utinam)"
+        ko: "소원이나 바람 (기원 접속법, utinam과 함께)"
+        example: "Utinam veniat! (May he come!)"
+      - en: "Purpose clauses (ut/ne + subjunctive)"
+        ko: "목적절 (ut/ne + 접속법)"
+        example: "Laborat ut pecuniam habeat."
+      - en: "Result clauses (ut/ut non + subjunctive)"
+        ko: "결과절 (ut/ut non + 접속법)"
+        example: "Tam fortis est ut omnes eum timeant."
+      - en: "Indirect commands (iubeo/rogo/moneo ut + subjunctive)"
+        ko: "간접 명령 (iubeo/rogo/moneo ut + 접속법)"
+        example: "Imperator milites hortatur ut fortiter pugnent."
+    trigger_words: [ut, ne, utinam, cum, qui, quae, quod, licet, quamvis, dum]
+
+  coniunctivus_imperfectum:
+    id: coniunctivus_imperfectum
+    label:
+      en: "Imperfect Subjunctive (Coniunctivus Imperfecti)"
+      ko: "미완료 접속법 (미완료 접속법)"
+    cefr: B1
+    formation:
+      en: "Take the full present active infinitive and add personal endings directly: -m, -s, -t, -mus, -tis, -nt. This produces: amare+m = amarem, monere+m = monerem, ducere+m = ducerem, audire+m = audirem. The easiest Latin subjunctive to form."
+      ko: "현재 능동 부정사 전체를 취한 후 인칭 어미를 직접 추가합니다: -m, -s, -t, -mus, -tis, -nt. 결과: amare+m = amarem, monere+m = monerem, ducere+m = ducerem, audire+m = audirem. 가장 쉽게 형성되는 라틴어 접속법입니다."
+    endings:
+      "All conjugations (infinitive +)":
+        ego: "-m"
+        tu: "-s"
+        "is/ea/id": "-t"
+        nos: "-mus"
+        vos: "-tis"
+        "ei/eae/ea": "-nt"
+    paradigm_examples:
+      "1st (amare)": "amarem, amares, amaret, amaremus, amaretis, amarent"
+      "2nd (monere)": "monerem, moneres, moneret, moneremus, moneretis, monerent"
+      "3rd (ducere)": "ducerem, duceres, duceret, duceremus, duceretis, ducerent"
+      "3rd-io (capere)": "caperem, caperes, caperet, caperemus, caperetis, caperent"
+      "4th (audire)": "audirem, audires, audiret, audiremus, audiretis, audirent"
+      "esse": "essem, esses, esset, essemus, essetis, essent"
+    uses:
+      - en: "Present contrary-to-fact conditions (if... would)"
+        ko: "현재 반사실적 조건 (만약 ~라면 ~할 텐데)"
+        example: "Si dives essem, villam emerem."
+      - en: "Unfulfillable present wishes (utinam + imperfect subjunctive)"
+        ko: "실현 불가능한 현재 소원 (utinam + 미완료 접속법)"
+        example: "Utinam Romae essem! (If only I were in Rome!)"
+      - en: "Purpose and result clauses in past sequence"
+        ko: "과거 시제 연쇄에서의 목적절 및 결과절"
+        example: "Laborabat ut pecuniam haberet."
+      - en: "Cum-clauses (circumstantial) in past narrative"
+        ko: "과거 서사에서의 cum절 (상황)"
+        example: "Cum Caesar Galliam regeret, multa bella gessit."
+      - en: "Indirect questions in past sequence"
+        ko: "과거 시제 연쇄에서의 간접 의문"
+        example: "Rogavit quid facerent."
+    trigger_words: [si, utinam, ut, ne, cum, quid, cur, quomodo, dum]
+
+  coniunctivus_perfectum:
+    id: coniunctivus_perfectum
+    label:
+      en: "Perfect Subjunctive (Coniunctivus Perfecti)"
+      ko: "완료 접속법 (완료 접속법)"
+    cefr: B2
+    formation:
+      en: "Take the perfect stem and add: -erim, -eris, -erit, -erimus, -eritis, -erint. Note the resemblance to the future perfect indicative (which has -ero in 1sg), but the subjunctive has -erim."
+      ko: "완료 어간을 취한 후 -erim, -eris, -erit, -erimus, -eritis, -erint를 추가합니다. 미래 완료 직설법(1인칭 단수 -ero)과 유사하지만, 접속법은 -erim입니다."
+    endings:
+      "All conjugations (perfect stem +)":
+        ego: "-erim"
+        tu: "-eris"
+        "is/ea/id": "-erit"
+        nos: "-erimus"
+        vos: "-eritis"
+        "ei/eae/ea": "-erint"
+    uses:
+      - en: "Fulfilled wishes about the past (utinam + perfect subjunctive)"
+        ko: "과거에 대해 이루어진 소원 (utinam + 완료 접속법)"
+        example: "Utinam venerit! (May he have come!)"
+      - en: "Purpose and result clauses in primary sequence referring to completed action"
+        ko: "완료된 행동을 언급하는 주시제 연쇄에서의 목적절 및 결과절"
+        example: "Gaudeo quod veneris."
+      - en: "Potential subjunctive (expressing possibility: someone might/could)"
+        ko: "가능 접속법 (가능성 표현: ~할 수도 있다)"
+        example: "Hoc dixerit aliquis. (Someone might say this.)"
+      - en: "Cum-clauses in primary sequence for completed actions"
+        ko: "주시제 연쇄에서 완료된 행동의 cum절"
+        example: "Cum haec audiverit, laetus erit."
+      - en: "Indirect questions in primary sequence about completed events"
+        ko: "완료된 사건에 대한 주시제 연쇄에서의 간접 의문"
+        example: "Nescio quid fecerit."
+    trigger_words: [utinam, cum, ut, ne, quid, cur, quomodo, nescio an]
+
+  coniunctivus_plusquamperfectum:
+    id: coniunctivus_plusquamperfectum
+    label:
+      en: "Pluperfect Subjunctive (Coniunctivus Plusquamperfecti)"
+      ko: "대과거 접속법 (대과거 접속법)"
+    cefr: B2
+    formation:
+      en: "Take the perfect stem and add: -issem, -isses, -isset, -issemus, -issetis, -issent. Alternatively understood as the perfect active infinitive (e.g., amavisse) + personal endings (-m, -s, -t, -mus, -tis, -nt)."
+      ko: "완료 어간을 취한 후 -issem, -isses, -isset, -issemus, -issetis, -issent를 추가합니다. 또는 완료 능동 부정사(예: amavisse) + 인칭 어미(-m, -s, -t, -mus, -tis, -nt)로 이해할 수 있습니다."
+    endings:
+      "All conjugations (perfect stem +)":
+        ego: "-issem"
+        tu: "-isses"
+        "is/ea/id": "-isset"
+        nos: "-issemus"
+        vos: "-issetis"
+        "ei/eae/ea": "-issent"
+    paradigm_examples:
+      "1st (amav-)": "amavissem, amavisses, amavisset, amavissemus, amavissetis, amavissent"
+      "2nd (monu-)": "monuissem, monuisses, monuisset, monuissemus, monuissetis, monuissent"
+      "3rd (dux-)": "duxissem, duxisses, duxisset, duxissemus, duxissetis, duxissent"
+      "4th (audiv-)": "audivissem, audivisses, audivisset, audivissemus, audivissetis, audivissent"
+      "esse (fu-)": "fuissem, fuisses, fuisset, fuissemus, fuissetis, fuissent"
+    uses:
+      - en: "Past contrary-to-fact conditions (if... would have)"
+        ko: "과거 반사실적 조건 (만약 ~했더라면 ~했을 텐데)"
+        example: "Si Romam venisses, Caesarem vidisses."
+      - en: "Unfulfillable past wishes (utinam + pluperfect subjunctive)"
+        ko: "실현 불가능한 과거 소원 (utinam + 대과거 접속법)"
+        example: "Utinam ne id fecissem! (If only I had not done that!)"
+      - en: "Cum-clauses (circumstantial) in past narrative referring to prior events"
+        ko: "이전 사건을 언급하는 과거 서사에서의 cum절 (상황)"
+        example: "Cum hostes vicisset, Caesar triumphum egit."
+      - en: "Indirect questions in secondary sequence about prior completed events"
+        ko: "이전 완료 사건에 대한 부시제 연쇄에서의 간접 의문"
+        example: "Rogavit quid fecissent."
+      - en: "Purpose clauses in past sequence where action precedes the main verb"
+        ko: "행동이 주절 동사보다 앞서는 과거 시제 연쇄에서의 목적절"
+        example: "Nemo erat qui hoc non audivisset."
+    trigger_words: [si, utinam, cum, nisi, quid, cur, quomodo, ne]
