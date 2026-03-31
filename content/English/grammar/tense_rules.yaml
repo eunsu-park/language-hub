@@ -1,0 +1,782 @@
+# English Tense Formation Rules and Usage
+# 12 tenses + Imperative + Conditional
+
+tenses:
+  # ============================================================
+  # PRESENT TENSES
+  # ============================================================
+  simple_present:
+    id: simple_present
+    label:
+      en: "Simple Present"
+      ko: "단순 현재"
+    cefr: A1
+    formation:
+      en: "Use the base form of the verb. Add -s or -es for he/she/it (3rd person singular)."
+      ko: "동사 원형을 사용. he/she/it (3인칭 단수)에는 -s 또는 -es 추가."
+    third_person_rules:
+      en: >
+        Most verbs: add -s (works, plays, reads).
+        Verbs ending in -s, -sh, -ch, -x, -z, -o: add -es (watches, goes, washes).
+        Verbs ending in consonant + y: change y to i, add -es (studies, carries).
+        Verbs ending in vowel + y: just add -s (plays, says).
+      ko: >
+        대부분 동사: -s 추가 (works, plays, reads).
+        -s, -sh, -ch, -x, -z, -o로 끝나는 동사: -es 추가 (watches, goes, washes).
+        자음 + y로 끝나는 동사: y를 i로 바꾸고 -es 추가 (studies, carries).
+        모음 + y로 끝나는 동사: -s만 추가 (plays, says).
+    negative:
+      en: "Subject + do/does + not + base verb. Contraction: don't / doesn't."
+      ko: "주어 + do/does + not + 동사 원형. 축약: don't / doesn't."
+      examples:
+        - "I don't like coffee."
+        - "She doesn't work on Sundays."
+    question:
+      en: "Do/Does + subject + base verb?"
+      ko: "Do/Does + 주어 + 동사 원형?"
+      examples:
+        - "Do you speak English?"
+        - "Does he live here?"
+    uses:
+      - en: "Habitual actions and routines"
+        ko: "습관적 행동과 일과"
+        example: "I wake up at 7 every morning."
+      - en: "General truths and facts"
+        ko: "일반적 진실과 사실"
+        example: "Water boils at 100 degrees Celsius."
+      - en: "Permanent states"
+        ko: "영구적 상태"
+        example: "She works at a hospital."
+      - en: "Scheduled future events (timetables)"
+        ko: "예정된 미래 사건 (시간표)"
+        example: "The train leaves at 9:30 tomorrow."
+      - en: "Instructions and directions"
+        ko: "지시와 방향 안내"
+        example: "You go straight and turn left."
+    trigger_words: [always, usually, often, sometimes, rarely, never, every day, every week, on Mondays, in the morning]
+    korean_note:
+      en: "Korean present tense (-아/어요, -ㅂ니다) covers both simple present and present continuous. Korean speakers must distinguish: 'I eat rice' (habit) vs 'I am eating rice' (now)."
+      ko: "한국어 현재형 (-아/어요, -ㅂ니다)은 단순 현재와 현재 진행 모두 포함. 한국어 화자는 구분 필요: 'I eat rice' (습관) vs 'I am eating rice' (지금)."
+
+  present_continuous:
+    id: present_continuous
+    label:
+      en: "Present Continuous (Present Progressive)"
+      ko: "현재 진행형"
+    cefr: A1
+    formation:
+      en: "Subject + am/is/are + verb-ing (present participle)"
+      ko: "주어 + am/is/are + 동사-ing (현재분사)"
+    spelling_rules:
+      en: >
+        Most verbs: add -ing (working, playing, going).
+        Verbs ending in silent -e: drop -e, add -ing (live → living, make → making).
+        One-syllable CVC verbs: double final consonant (stop → stopping, run → running).
+        Verbs ending in -ie: change to -y, add -ing (die → dying, lie → lying).
+        Verbs ending in -c: add -k (picnic → picnicking).
+      ko: >
+        대부분 동사: -ing 추가 (working, playing, going).
+        묵음 -e로 끝나는 동사: -e 탈락, -ing 추가 (live → living, make → making).
+        1음절 CVC 동사: 마지막 자음 이중화 (stop → stopping, run → running).
+        -ie로 끝나는 동사: -y로 변경, -ing 추가 (die → dying, lie → lying).
+        -c로 끝나는 동사: -k 추가 (picnic → picnicking).
+    negative:
+      en: "Subject + am/is/are + not + verb-ing. Contraction: isn't / aren't."
+      ko: "주어 + am/is/are + not + 동사-ing. 축약: isn't / aren't."
+      examples:
+        - "I'm not working right now."
+        - "They aren't listening."
+    question:
+      en: "Am/Is/Are + subject + verb-ing?"
+      ko: "Am/Is/Are + 주어 + 동사-ing?"
+      examples:
+        - "Are you coming to the party?"
+        - "Is she studying?"
+    uses:
+      - en: "Actions happening right now"
+        ko: "지금 일어나고 있는 행동"
+        example: "I am reading a book right now."
+      - en: "Temporary situations"
+        ko: "일시적 상황"
+        example: "She is staying with her parents this week."
+      - en: "Changing or developing situations"
+        ko: "변화하거나 발전하는 상황"
+        example: "The weather is getting colder."
+      - en: "Fixed future arrangements"
+        ko: "확정된 미래 약속"
+        example: "We are meeting at 3 o'clock tomorrow."
+      - en: "Annoyance with 'always'"
+        ko: "'always'와 함께 짜증 표현"
+        example: "He is always losing his keys!"
+    trigger_words: [now, right now, at the moment, currently, today, this week, still, look!, listen!]
+    stative_verb_warning:
+      en: "Do NOT use present continuous with stative verbs: I know (NOT I am knowing), I love (NOT I am loving), I understand (NOT I am understanding). See stative_verbs in conjugations.yaml."
+      ko: "상태 동사에 현재 진행형 사용 금지: I know (I am knowing 아님), I love (I am loving 아님), I understand (I am understanding 아님). conjugations.yaml의 stative_verbs 참조."
+
+  present_perfect:
+    id: present_perfect
+    label:
+      en: "Present Perfect"
+      ko: "현재 완료"
+    cefr: A2
+    formation:
+      en: "Subject + have/has + past participle (V3)"
+      ko: "주어 + have/has + 과거분사 (V3)"
+    past_participle_formation:
+      en: >
+        Regular verbs: base + -ed (worked, played, studied).
+        Irregular verbs: must be memorized (gone, seen, taken, made, etc.).
+        See irregular_forms in conjugations.yaml.
+      ko: >
+        규칙 동사: 원형 + -ed (worked, played, studied).
+        불규칙 동사: 암기 필요 (gone, seen, taken, made 등).
+        conjugations.yaml의 irregular_forms 참조.
+    negative:
+      en: "Subject + have/has + not + past participle. Contraction: haven't / hasn't."
+      ko: "주어 + have/has + not + 과거분사. 축약: haven't / hasn't."
+      examples:
+        - "I haven't finished yet."
+        - "She hasn't called me."
+    question:
+      en: "Have/Has + subject + past participle?"
+      ko: "Have/Has + 주어 + 과거분사?"
+      examples:
+        - "Have you ever been to Japan?"
+        - "Has he arrived yet?"
+    uses:
+      - en: "Life experiences (with ever/never)"
+        ko: "인생 경험 (ever/never와 함께)"
+        example: "I have visited Paris three times."
+      - en: "Actions with present relevance (unfinished time)"
+        ko: "현재와 관련된 행동 (미완료 시간)"
+        example: "I have already eaten lunch today."
+      - en: "Recent actions (with just)"
+        ko: "최근 행동 (just와 함께)"
+        example: "She has just left."
+      - en: "Actions from past to present (with for/since)"
+        ko: "과거부터 현재까지 계속된 행동 (for/since와 함께)"
+        example: "We have lived here for ten years."
+      - en: "Change over time"
+        ko: "시간에 따른 변화"
+        example: "My English has improved a lot."
+    trigger_words: [ever, never, already, yet, just, recently, so far, up to now, since, for, today, this week, this year, lately]
+    korean_note:
+      en: "Korean uses -았/었 (past) for most situations where English uses present perfect. The concept of 'unfinished time' does not exist in Korean. This makes present perfect one of the hardest tenses for Korean speakers."
+      ko: "한국어는 영어가 현재완료를 사용하는 대부분의 상황에서 -았/었 (과거)를 사용. '미완료 시간' 개념이 한국어에 없음. 따라서 현재완료는 한국어 화자에게 가장 어려운 시제 중 하나."
+    contrast_with_simple_past:
+      en: >
+        Present perfect: connected to now, no specific time.
+        Simple past: finished, specific time given.
+        - I have lost my keys. (Result matters now — I can't get in.)
+        - I lost my keys yesterday. (Specific past time.)
+        - Have you ever been to London? (In your life — open time.)
+        - Did you go to London last year? (Specific past time.)
+      ko: >
+        현재완료: 현재와 연결, 구체적 시간 없음.
+        단순과거: 완료, 구체적 시간 제시.
+        - I have lost my keys. (결과가 지금 중요 — 들어갈 수 없음.)
+        - I lost my keys yesterday. (구체적 과거 시간.)
+        - Have you ever been to London? (인생에서 — 열린 시간.)
+        - Did you go to London last year? (구체적 과거 시간.)
+
+  present_perfect_continuous:
+    id: present_perfect_continuous
+    label:
+      en: "Present Perfect Continuous (Present Perfect Progressive)"
+      ko: "현재 완료 진행형"
+    cefr: B1
+    formation:
+      en: "Subject + have/has + been + verb-ing"
+      ko: "주어 + have/has + been + 동사-ing"
+    negative:
+      en: "Subject + have/has + not + been + verb-ing."
+      ko: "주어 + have/has + not + been + 동사-ing."
+      examples:
+        - "I haven't been sleeping well lately."
+        - "She hasn't been feeling well."
+    question:
+      en: "Have/Has + subject + been + verb-ing?"
+      ko: "Have/Has + 주어 + been + 동사-ing?"
+      examples:
+        - "How long have you been waiting?"
+        - "Has it been raining?"
+    uses:
+      - en: "Actions that started in the past and are still continuing"
+        ko: "과거에 시작해서 아직 계속되는 행동"
+        example: "I have been studying English for three years."
+      - en: "Recent actions with visible results"
+        ko: "눈에 보이는 결과가 있는 최근 행동"
+        example: "Your eyes are red. Have you been crying?"
+      - en: "Emphasis on duration"
+        ko: "기간 강조"
+        example: "She has been working here since 2020."
+    trigger_words: [for, since, all day, all morning, lately, recently, how long]
+    contrast_with_present_perfect:
+      en: >
+        Present perfect: focus on result/completion.
+        Present perfect continuous: focus on duration/process.
+        - I have read the book. (Finished — result.)
+        - I have been reading the book. (Still reading or just stopped — process.)
+        - She has painted three pictures. (Completed count.)
+        - She has been painting all day. (Duration emphasis.)
+      ko: >
+        현재완료: 결과/완료에 초점.
+        현재완료진행: 기간/과정에 초점.
+        - I have read the book. (완료 — 결과.)
+        - I have been reading the book. (아직 읽는 중이거나 막 멈춤 — 과정.)
+        - She has painted three pictures. (완료 횟수.)
+        - She has been painting all day. (기간 강조.)
+
+  # ============================================================
+  # PAST TENSES
+  # ============================================================
+  simple_past:
+    id: simple_past
+    label:
+      en: "Simple Past"
+      ko: "단순 과거"
+    cefr: A1
+    formation:
+      en: "Regular verbs: base + -ed. Irregular verbs: unique forms (went, saw, took, etc.)."
+      ko: "규칙 동사: 원형 + -ed. 불규칙 동사: 고유 형태 (went, saw, took 등)."
+    regular_spelling_rules:
+      en: >
+        Most verbs: add -ed (worked, played).
+        Verbs ending in -e: add -d (lived, liked).
+        Consonant + y: change y to i, add -ed (studied, carried).
+        CVC (one syllable): double last consonant + -ed (stopped, planned).
+        Verbs ending in -c: add -ked (picnicked, panicked).
+      ko: >
+        대부분 동사: -ed 추가 (worked, played).
+        -e로 끝나는 동사: -d 추가 (lived, liked).
+        자음 + y: y를 i로 바꾸고 -ed 추가 (studied, carried).
+        CVC (1음절): 마지막 자음 이중화 + -ed (stopped, planned).
+        -c로 끝나는 동사: -ked 추가 (picnicked, panicked).
+    pronunciation:
+      en: >
+        -ed has three pronunciations:
+        /t/ after voiceless sounds (p, k, f, s, sh, ch): worked, stopped, washed
+        /d/ after voiced sounds (b, g, v, z, m, n, l, r, vowels): played, lived, called
+        /ɪd/ after t or d sounds: wanted, needed, started
+      ko: >
+        -ed는 세 가지 발음:
+        /t/ 무성음 뒤 (p, k, f, s, sh, ch): worked, stopped, washed
+        /d/ 유성음 뒤 (b, g, v, z, m, n, l, r, 모음): played, lived, called
+        /ɪd/ t 또는 d 소리 뒤: wanted, needed, started
+    negative:
+      en: "Subject + did + not + base verb. Contraction: didn't. (NOT 'didn't worked')"
+      ko: "주어 + did + not + 동사 원형. 축약: didn't. ('didn't worked' 아님)"
+      examples:
+        - "I didn't go to school yesterday."
+        - "She didn't see the movie."
+    question:
+      en: "Did + subject + base verb? (NOT 'Did you went?')"
+      ko: "Did + 주어 + 동사 원형? ('Did you went?' 아님)"
+      examples:
+        - "Did you finish your homework?"
+        - "Where did she go?"
+    uses:
+      - en: "Completed actions at a specific past time"
+        ko: "특정 과거 시간에 완료된 행동"
+        example: "I visited London last summer."
+      - en: "A series of completed past actions"
+        ko: "연속된 완료 과거 행동"
+        example: "She woke up, had breakfast, and left."
+      - en: "Past habits (often with 'used to')"
+        ko: "과거 습관 ('used to'와 함께)"
+        example: "I played soccer when I was young."
+      - en: "Past states"
+        ko: "과거 상태"
+        example: "She was happy. They knew the answer."
+    trigger_words: [yesterday, last week, last year, ago, in 2020, when I was young, the other day, that day, once]
+    korean_note:
+      en: "Korean -았/었 maps directly to simple past. However, Korean speakers often forget DO-support: 'Did you go?' (NOT 'You went?'). Also, past form after 'did' must be base form: 'Did you GO' (NOT 'Did you went')."
+      ko: "한국어 -았/었은 단순과거에 직접 대응. 하지만 한국어 화자는 DO-지지를 자주 잊음: 'Did you go?' ('You went?' 아님). 또한 'did' 뒤에는 반드시 동사 원형: 'Did you GO' ('Did you went' 아님)."
+
+  past_continuous:
+    id: past_continuous
+    label:
+      en: "Past Continuous (Past Progressive)"
+      ko: "과거 진행형"
+    cefr: A2
+    formation:
+      en: "Subject + was/were + verb-ing"
+      ko: "주어 + was/were + 동사-ing"
+    negative:
+      en: "Subject + was/were + not + verb-ing. Contraction: wasn't / weren't."
+      ko: "주어 + was/were + not + 동사-ing. 축약: wasn't / weren't."
+      examples:
+        - "I wasn't sleeping when you called."
+        - "They weren't paying attention."
+    question:
+      en: "Was/Were + subject + verb-ing?"
+      ko: "Was/Were + 주어 + 동사-ing?"
+      examples:
+        - "Were you listening to me?"
+        - "What was she doing at 8 o'clock?"
+    uses:
+      - en: "An action in progress at a specific time in the past"
+        ko: "과거 특정 시간에 진행 중이던 행동"
+        example: "At 9 o'clock, I was watching TV."
+      - en: "Background action interrupted by a shorter action"
+        ko: "짧은 행동에 의해 중단된 배경 행동"
+        example: "I was cooking when the phone rang."
+      - en: "Two simultaneous past actions"
+        ko: "동시에 일어난 두 과거 행동"
+        example: "While she was reading, he was cooking."
+      - en: "Setting the scene in a narrative"
+        ko: "내러티브에서 장면 설정"
+        example: "The sun was shining and the birds were singing."
+    trigger_words: [while, when, as, at that time, at 8 o'clock, all day yesterday, still]
+    contrast_pattern:
+      en: >
+        Past continuous (background) + Simple past (interruption):
+        "I was walking (background) when I saw (interruption) an old friend."
+        Both past continuous = two simultaneous actions:
+        "While I was studying, my sister was playing."
+      ko: >
+        과거진행 (배경) + 단순과거 (중단):
+        "I was walking (배경) when I saw (중단) an old friend."
+        양쪽 과거진행 = 두 동시 행동:
+        "While I was studying, my sister was playing."
+
+  past_perfect:
+    id: past_perfect
+    label:
+      en: "Past Perfect"
+      ko: "과거 완료"
+    cefr: B1
+    formation:
+      en: "Subject + had + past participle (V3)"
+      ko: "주어 + had + 과거분사 (V3)"
+    negative:
+      en: "Subject + had + not + past participle. Contraction: hadn't."
+      ko: "주어 + had + not + 과거분사. 축약: hadn't."
+      examples:
+        - "I hadn't finished when he arrived."
+        - "She hadn't seen the movie before."
+    question:
+      en: "Had + subject + past participle?"
+      ko: "Had + 주어 + 과거분사?"
+      examples:
+        - "Had you eaten before the meeting?"
+        - "Had she ever been to Korea?"
+    uses:
+      - en: "An action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 행동"
+        example: "When I arrived, the movie had already started."
+      - en: "Past experience before a past reference point"
+        ko: "과거 기준점 이전의 경험"
+        example: "I had never seen snow before I moved to Canada."
+      - en: "Third conditional (if-clause)"
+        ko: "3조건문 (if절)"
+        example: "If I had known, I would have come."
+      - en: "Reported speech (backshifted present perfect)"
+        ko: "간접 화법 (시제 후퇴된 현재완료)"
+        example: 'She said she had finished the report.'
+    trigger_words: [already, just, never, before, by the time, when, after, until, by then]
+    korean_note:
+      en: "Korean uses -았/었었 (double past) for past perfect, but it is rarely used. Korean speakers often use simple past where English requires past perfect. Context makes the time relationship clear in Korean."
+      ko: "한국어는 과거완료에 -았/었었 (이중 과거)를 사용하지만 거의 사용하지 않음. 한국어 화자는 영어가 과거완료를 필요로 하는 곳에서 단순과거를 자주 사용. 한국어에서는 문맥으로 시간 관계가 분명."
+
+  past_perfect_continuous:
+    id: past_perfect_continuous
+    label:
+      en: "Past Perfect Continuous (Past Perfect Progressive)"
+      ko: "과거 완료 진행형"
+    cefr: B2
+    formation:
+      en: "Subject + had + been + verb-ing"
+      ko: "주어 + had + been + 동사-ing"
+    negative:
+      en: "Subject + had + not + been + verb-ing. Contraction: hadn't been."
+      ko: "주어 + had + not + been + 동사-ing. 축약: hadn't been."
+      examples:
+        - "I hadn't been waiting long when the bus arrived."
+    question:
+      en: "Had + subject + been + verb-ing?"
+      ko: "Had + 주어 + been + 동사-ing?"
+      examples:
+        - "Had you been working there long before you quit?"
+    uses:
+      - en: "Duration of a past action before another past action"
+        ko: "다른 과거 행동 이전 과거 행동의 지속"
+        example: "She had been teaching for 20 years before she retired."
+      - en: "Cause of a past result"
+        ko: "과거 결과의 원인"
+        example: "He was tired because he had been running."
+      - en: "Emphasis on the process/duration before a past event"
+        ko: "과거 사건 이전의 과정/기간 강조"
+        example: "They had been living in Seoul for five years when they moved."
+    trigger_words: [for, since, all day, how long, before, when, by the time]
+
+  # ============================================================
+  # FUTURE TENSES
+  # ============================================================
+  simple_future:
+    id: simple_future
+    label:
+      en: "Simple Future"
+      ko: "단순 미래"
+    cefr: A2
+    formation:
+      en: "Subject + will + base verb. Alternative: Subject + am/is/are + going to + base verb."
+      ko: "주어 + will + 동사 원형. 대안: 주어 + am/is/are + going to + 동사 원형."
+    negative:
+      en: "Subject + will + not + base verb. Contraction: won't."
+      ko: "주어 + will + not + 동사 원형. 축약: won't."
+      examples:
+        - "I won't be late."
+        - "She won't come to the party."
+    question:
+      en: "Will + subject + base verb?"
+      ko: "Will + 주어 + 동사 원형?"
+      examples:
+        - "Will you help me?"
+        - "When will they arrive?"
+    will_vs_going_to:
+      will:
+        label:
+          en: "WILL — spontaneous decisions, promises, predictions"
+          ko: "WILL — 즉흥적 결정, 약속, 예측"
+        uses:
+          - en: "Spontaneous decisions (made at the moment of speaking)"
+            ko: "즉흥적 결정 (말하는 순간에 내린)"
+            example: "It's cold. I'll close the window."
+          - en: "Promises and offers"
+            ko: "약속과 제안"
+            example: "I'll help you with your homework."
+          - en: "Predictions based on opinion"
+            ko: "의견에 기반한 예측"
+            example: "I think it will rain tomorrow."
+          - en: "Facts about the future"
+            ko: "미래에 대한 사실"
+            example: "The sun will rise at 6:30 tomorrow."
+      going_to:
+        label:
+          en: "GOING TO — plans, intentions, evidence-based predictions"
+          ko: "GOING TO — 계획, 의도, 증거 기반 예측"
+        uses:
+          - en: "Pre-decided plans and intentions"
+            ko: "미리 결정된 계획과 의도"
+            example: "I'm going to study medicine next year."
+          - en: "Predictions based on present evidence"
+            ko: "현재 증거에 기반한 예측"
+            example: "Look at those clouds. It's going to rain."
+    trigger_words: [tomorrow, next week, next year, in the future, soon, later, I think, probably, I promise]
+    korean_note:
+      en: "Korean future is expressed with -(으)ㄹ 거예요 or -(으)ㄹ게요. The distinction between 'will' and 'going to' does not exist in Korean — both map to the same form. Korean speakers must learn this distinction."
+      ko: "한국어 미래는 -(으)ㄹ 거예요 또는 -(으)ㄹ게요로 표현. 'will'과 'going to'의 구분은 한국어에 없음 — 둘 다 같은 형태에 대응. 한국어 화자는 이 구분을 반드시 학습."
+
+  future_continuous:
+    id: future_continuous
+    label:
+      en: "Future Continuous (Future Progressive)"
+      ko: "미래 진행형"
+    cefr: B1
+    formation:
+      en: "Subject + will + be + verb-ing"
+      ko: "주어 + will + be + 동사-ing"
+    negative:
+      en: "Subject + will + not + be + verb-ing. Contraction: won't be."
+      ko: "주어 + will + not + be + 동사-ing. 축약: won't be."
+      examples:
+        - "I won't be working tomorrow."
+    question:
+      en: "Will + subject + be + verb-ing?"
+      ko: "Will + 주어 + be + 동사-ing?"
+      examples:
+        - "Will you be using the car tonight?"
+    uses:
+      - en: "An action in progress at a specific future time"
+        ko: "미래 특정 시간에 진행 중일 행동"
+        example: "This time tomorrow, I will be flying to London."
+      - en: "Planned future actions (matter-of-fact)"
+        ko: "계획된 미래 행동 (당연한 사실)"
+        example: "I will be seeing John at the meeting."
+      - en: "Polite questions about someone's plans"
+        ko: "다른 사람의 계획에 대한 정중한 질문"
+        example: "Will you be joining us for dinner?"
+    trigger_words: [this time tomorrow, at 3 o'clock, by then, all day tomorrow, when]
+
+  future_perfect:
+    id: future_perfect
+    label:
+      en: "Future Perfect"
+      ko: "미래 완료"
+    cefr: B2
+    formation:
+      en: "Subject + will + have + past participle (V3)"
+      ko: "주어 + will + have + 과거분사 (V3)"
+    negative:
+      en: "Subject + will + not + have + past participle."
+      ko: "주어 + will + not + have + 과거분사."
+      examples:
+        - "I won't have finished by then."
+    question:
+      en: "Will + subject + have + past participle?"
+      ko: "Will + 주어 + have + 과거분사?"
+      examples:
+        - "Will you have completed the project by Friday?"
+    uses:
+      - en: "An action completed before a specific future time"
+        ko: "미래 특정 시간 이전에 완료될 행동"
+        example: "By next June, I will have graduated."
+      - en: "Duration up to a future point"
+        ko: "미래 시점까지의 기간"
+        example: "By 2030, I will have lived here for 20 years."
+    trigger_words: [by, by the time, by next week, before, by then, in two years]
+
+  future_perfect_continuous:
+    id: future_perfect_continuous
+    label:
+      en: "Future Perfect Continuous (Future Perfect Progressive)"
+      ko: "미래 완료 진행형"
+    cefr: B2
+    formation:
+      en: "Subject + will + have + been + verb-ing"
+      ko: "주어 + will + have + been + 동사-ing"
+    negative:
+      en: "Subject + will + not + have + been + verb-ing."
+      ko: "주어 + will + not + have + been + 동사-ing."
+      examples:
+        - "By December, I won't have been working here for a full year."
+    question:
+      en: "Will + subject + have + been + verb-ing?"
+      ko: "Will + 주어 + have + been + 동사-ing?"
+      examples:
+        - "How long will you have been studying by the time you graduate?"
+    uses:
+      - en: "Duration of an action up to a specific future point (emphasis on process)"
+        ko: "미래 특정 시점까지의 행동 지속 (과정 강조)"
+        example: "By next month, she will have been teaching for 30 years."
+      - en: "Cause of a future result"
+        ko: "미래 결과의 원인"
+        example: "He will be tired because he will have been traveling all day."
+    trigger_words: [by, by the time, for, when, by next year]
+
+  # ============================================================
+  # IMPERATIVE
+  # ============================================================
+  imperative:
+    id: imperative
+    label:
+      en: "Imperative (Commands)"
+      ko: "명령문"
+    cefr: A1
+    formation:
+      en: >
+        Use the base form of the verb (no subject needed).
+        Affirmative: verb + ... (Open the door. Sit down.)
+        Negative: Don't + verb + ... (Don't touch that. Don't be late.)
+        Let's + verb: suggestions for a group (Let's go. Let's not argue.)
+      ko: >
+        동사 원형 사용 (주어 불필요).
+        긍정: 동사 + ... (Open the door. Sit down.)
+        부정: Don't + 동사 + ... (Don't touch that. Don't be late.)
+        Let's + 동사: 그룹에 대한 제안 (Let's go. Let's not argue.)
+    forms:
+      affirmative:
+        en: "Base verb (subject 'you' is understood/implied)"
+        ko: "동사 원형 (주어 'you'는 이해/함축)"
+        examples:
+          - "Open the door."
+          - "Please sit down."
+          - "Be careful!"
+          - "Listen to me."
+      negative:
+        en: "Don't (do not) + base verb"
+        ko: "Don't (do not) + 동사 원형"
+        examples:
+          - "Don't run in the hallway."
+          - "Don't be silly."
+          - "Don't worry about it."
+      lets:
+        en: "Let's + base verb (suggestions, inclusive we)"
+        ko: "Let's + 동사 원형 (제안, 포함적 우리)"
+        examples:
+          - "Let's go to the park."
+          - "Let's not waste time."
+    softening:
+      en: >
+        Commands can sound rude. Soften with:
+        - Please: "Please close the door."
+        - Could you: "Could you close the door?"
+        - Would you mind: "Would you mind closing the door?"
+        - Question form: "Can you close the door?"
+      ko: >
+        명령문은 무례하게 들릴 수 있음. 완화 방법:
+        - Please: "Please close the door."
+        - Could you: "Could you close the door?"
+        - Would you mind: "Would you mind closing the door?"
+        - 의문문 형태: "Can you close the door?"
+    uses:
+      - en: "Direct commands and instructions"
+        ko: "직접 명령과 지시"
+        example: "Turn left at the traffic light."
+      - en: "Warnings"
+        ko: "경고"
+        example: "Be careful! Watch out!"
+      - en: "Offers and invitations"
+        ko: "제안과 초대"
+        example: "Have some more cake. Come in!"
+      - en: "Recipes and instructions"
+        ko: "요리법과 설명서"
+        example: "Mix the flour and sugar. Bake for 30 minutes."
+    korean_note:
+      en: "Korean has complex imperative forms based on politeness levels (해라, 해, 하세요, 하십시오). English has only one imperative form but varies politeness through additional phrases (please, could you, would you mind)."
+      ko: "한국어는 존칭 수준에 따른 복잡한 명령형 (해라, 해, 하세요, 하십시오). 영어는 명령형이 하나뿐이지만 추가 표현으로 정중함을 조절 (please, could you, would you mind)."
+
+  # ============================================================
+  # CONDITIONAL
+  # ============================================================
+  conditional:
+    id: conditional
+    label:
+      en: "Conditional Forms"
+      ko: "조건법"
+    cefr: B1
+    formation:
+      en: "Subject + would + base verb (simple conditional). Subject + would + have + past participle (perfect conditional)."
+      ko: "주어 + would + 동사 원형 (단순 조건). 주어 + would + have + 과거분사 (완료 조건)."
+    types:
+      zero_conditional:
+        name:
+          en: "Zero Conditional (general truths)"
+          ko: "0조건문 (일반적 진리)"
+        cefr: A2
+        formula: "If + present simple, present simple"
+        description:
+          en: "For things that are always true — scientific facts, general rules."
+          ko: "항상 참인 것 — 과학적 사실, 일반 규칙."
+        examples:
+          - if_clause: "If you heat water to 100°C"
+            result: "it boils."
+            translation:
+              en: "If you heat water to 100°C, it boils."
+              ko: "물을 100°C로 가열하면, 끓는다."
+          - if_clause: "If I eat too much"
+            result: "I feel sick."
+            translation:
+              en: "If I eat too much, I feel sick."
+              ko: "너무 많이 먹으면, 속이 안 좋아진다."
+      first_conditional:
+        name:
+          en: "First Conditional (real/possible future)"
+          ko: "1조건문 (현실적/가능한 미래)"
+        cefr: A2
+        formula: "If + present simple, will + base verb"
+        description:
+          en: "For real, possible future situations."
+          ko: "현실적이고 가능한 미래 상황."
+        examples:
+          - if_clause: "If it rains"
+            result: "I will take an umbrella."
+            translation:
+              en: "If it rains, I will take an umbrella."
+              ko: "비가 오면, 우산을 가져갈 거야."
+          - if_clause: "If you study hard"
+            result: "you will pass the exam."
+            translation:
+              en: "If you study hard, you will pass the exam."
+              ko: "열심히 공부하면, 시험에 합격할 거야."
+      second_conditional:
+        name:
+          en: "Second Conditional (unreal/hypothetical present)"
+          ko: "2조건문 (비현실적/가정적 현재)"
+        cefr: B1
+        formula: "If + past simple, would + base verb"
+        description:
+          en: "For unreal, hypothetical, or unlikely present/future situations."
+          ko: "비현실적이거나 가정적이거나 가능성이 낮은 현재/미래 상황."
+        examples:
+          - if_clause: "If I had a million dollars"
+            result: "I would travel the world."
+            translation:
+              en: "If I had a million dollars, I would travel the world."
+              ko: "백만 달러가 있다면, 세계 여행을 할 텐데."
+          - if_clause: "If I were you"
+            result: "I would study harder."
+            translation:
+              en: "If I were you, I would study harder."
+              ko: "내가 너라면, 더 열심히 공부할 텐데."
+        notes:
+          en: "Use 'were' (not 'was') for all subjects in formal English: If I were, If he were, If she were. 'Was' is acceptable in informal speech."
+          ko: "격식 영어에서는 모든 주어에 'were' 사용 (was 아님): If I were, If he were, If she were. 비격식 대화에서는 'was'도 허용."
+      third_conditional:
+        name:
+          en: "Third Conditional (unreal past)"
+          ko: "3조건문 (비현실적 과거)"
+        cefr: B2
+        formula: "If + past perfect, would + have + past participle"
+        description:
+          en: "For unreal past situations — things that didn't happen. Expresses regret or imagines different outcomes."
+          ko: "비현실적 과거 상황 — 일어나지 않은 일. 후회 표현 또는 다른 결과 상상."
+        examples:
+          - if_clause: "If I had studied harder"
+            result: "I would have passed the exam."
+            translation:
+              en: "If I had studied harder, I would have passed the exam."
+              ko: "더 열심히 공부했더라면, 시험에 합격했을 텐데."
+          - if_clause: "If she had left earlier"
+            result: "she wouldn't have missed the train."
+            translation:
+              en: "If she had left earlier, she wouldn't have missed the train."
+              ko: "더 일찍 출발했더라면, 기차를 놓치지 않았을 텐데."
+      mixed_conditional:
+        name:
+          en: "Mixed Conditional"
+          ko: "혼합 조건문"
+        cefr: C1
+        types:
+          - name:
+              en: "Past condition → Present result"
+              ko: "과거 조건 → 현재 결과"
+            formula: "If + past perfect, would + base verb"
+            example: "If I had studied medicine, I would be a doctor now."
+            translation:
+              ko: "의학을 공부했더라면, 지금 의사일 텐데."
+          - name:
+              en: "Present condition → Past result"
+              ko: "현재 조건 → 과거 결과"
+            formula: "If + past simple, would + have + past participle"
+            example: "If I spoke French, I would have applied for that job."
+            translation:
+              ko: "프랑스어를 할 줄 알았더라면, 그 일자리에 지원했을 텐데."
+    alternatives_to_if:
+      - word: unless
+        meaning:
+          en: "if not / except if"
+          ko: "~하지 않으면 / ~을 제외하고"
+        example: "Unless you hurry, we'll be late. (= If you don't hurry...)"
+      - word: provided (that) / providing (that)
+        meaning:
+          en: "only if / on the condition that"
+          ko: "~하는 조건으로 / ~하는 한"
+        example: "You can go out provided that you finish your homework."
+      - word: as long as / so long as
+        meaning:
+          en: "on the condition that"
+          ko: "~하는 한"
+        example: "As long as you're happy, I'm happy."
+      - word: in case
+        meaning:
+          en: "as a precaution / because of the possibility"
+          ko: "~할 경우를 대비해"
+        example: "Take an umbrella in case it rains."
+      - word: even if
+        meaning:
+          en: "regardless of whether"
+          ko: "설령 ~하더라도"
+        example: "I'll go even if it rains."
+      - word: whether or not
+        meaning:
+          en: "regardless of the situation"
+          ko: "~하든 않든"
+        example: "I'm going whether or not you come."
+    important_rule:
+      en: "NEVER use 'will' in the if-clause (for conditions): 'If it rains' (correct), NOT 'If it will rain' (wrong). Exception: 'if' meaning 'whether' — 'I don't know if he will come.'"
+      ko: "조건의 if절에 'will' 사용 금지: 'If it rains' (맞음), 'If it will rain' (틀림). 예외: 'if'가 'whether' 의미일 때 — 'I don't know if he will come.'"
+    korean_note:
+      en: "Korean conditionals use -면/-으면 for all types. There is no formal distinction between real and unreal conditions. Korean speakers must learn to use past tense for unreal conditions (2nd conditional) and past perfect for impossible past conditions (3rd conditional)."
+      ko: "한국어 조건문은 모든 유형에 -면/-으면 사용. 현실적 조건과 비현실적 조건의 공식적 구분 없음. 한국어 화자는 비현실적 조건에 과거시제(2조건문), 불가능한 과거 조건에 과거완료(3조건문) 사용을 반드시 학습."
