@@ -1,0 +1,1043 @@
+lesson: "sup_B2_Medicine_and_Health"
+lesson_number: 165
+cefr: B2
+type: supplementary
+topic: "Medicine and Health"
+categories:
+- id: anatomy
+  label:
+    en: "Anatomy"
+    ko: "해부학"
+  type: vocabulary
+  words:
+  - english: "anatomy"
+    translation:
+      en: "anatomy"
+      ko: "해부학"
+    gender: null
+  - english: "organ"
+    translation:
+      en: "organ"
+      ko: "장기"
+    gender: null
+  - english: "tissue"
+    translation:
+      en: "tissue"
+      ko: "조직"
+    gender: null
+  - english: "skeleton"
+    translation:
+      en: "skeleton"
+      ko: "골격"
+    gender: null
+  - english: "skull"
+    translation:
+      en: "skull"
+      ko: "두개골"
+    gender: null
+  - english: "pelvis"
+    translation:
+      en: "pelvis"
+      ko: "골반"
+    gender: null
+  - english: "vertebra"
+    translation:
+      en: "vertebra"
+      ko: "척추뼈"
+    gender: null
+    notes:
+      en: "Plural: vertebrae"
+      ko: "복수형: vertebrae"
+  - english: "tendon"
+    translation:
+      en: "tendon"
+      ko: "힘줄"
+    gender: null
+  - english: "ligament"
+    translation:
+      en: "ligament"
+      ko: "인대"
+    gender: null
+  - english: "cartilage"
+    translation:
+      en: "cartilage"
+      ko: "연골"
+    gender: null
+  - english: "diaphragm"
+    translation:
+      en: "diaphragm"
+      ko: "횡격막"
+    gender: null
+  - english: "pancreas"
+    translation:
+      en: "pancreas"
+      ko: "췌장"
+    gender: null
+  - english: "thyroid"
+    translation:
+      en: "thyroid"
+      ko: "갑상선"
+    gender: null
+  - english: "esophagus"
+    translation:
+      en: "esophagus"
+      ko: "식도"
+    gender: null
+  - english: "trachea"
+    translation:
+      en: "trachea"
+      ko: "기관"
+    gender: null
+- id: diseases_and_conditions
+  label:
+    en: "Diseases and Conditions"
+    ko: "질병 및 상태"
+  type: vocabulary
+  words:
+  - english: "disease"
+    translation:
+      en: "disease"
+      ko: "질병"
+    gender: null
+  - english: "infection"
+    translation:
+      en: "infection"
+      ko: "감염"
+    gender: null
+  - english: "chronic"
+    translation:
+      en: "chronic"
+      ko: "만성의"
+    gender: null
+  - english: "acute"
+    translation:
+      en: "acute"
+      ko: "급성의"
+    gender: null
+  - english: "diabetes"
+    translation:
+      en: "diabetes"
+      ko: "당뇨병"
+    gender: null
+  - english: "cancer"
+    translation:
+      en: "cancer"
+      ko: "암"
+    gender: null
+  - english: "tumor"
+    translation:
+      en: "tumor"
+      ko: "종양"
+    gender: null
+    notes:
+      en: "Spelled tumour in British English"
+      ko: "영국 영어에서는 tumour"
+  - english: "stroke"
+    translation:
+      en: "stroke"
+      ko: "뇌졸중"
+    gender: null
+  - english: "heart attack"
+    translation:
+      en: "heart attack"
+      ko: "심장마비"
+    gender: null
+  - english: "asthma"
+    translation:
+      en: "asthma"
+      ko: "천식"
+    gender: null
+    notes:
+      en: "The 'th' is silent"
+      ko: "'th'는 묵음"
+  - english: "arthritis"
+    translation:
+      en: "arthritis"
+      ko: "관절염"
+    gender: null
+  - english: "pneumonia"
+    translation:
+      en: "pneumonia"
+      ko: "폐렴"
+    gender: null
+    notes:
+      en: "The 'p' is silent"
+      ko: "'p'는 묵음"
+  - english: "inflammation"
+    translation:
+      en: "inflammation"
+      ko: "염증"
+    gender: null
+  - english: "symptom"
+    translation:
+      en: "symptom"
+      ko: "증상"
+    gender: null
+  - english: "contagious"
+    translation:
+      en: "contagious"
+      ko: "전염성의"
+    gender: null
+  - english: "immune"
+    translation:
+      en: "immune"
+      ko: "면역의"
+    gender: null
+  - english: "epidemic"
+    translation:
+      en: "epidemic"
+      ko: "유행병"
+    gender: null
+  - english: "pandemic"
+    translation:
+      en: "pandemic"
+      ko: "세계적 유행병"
+    gender: null
+- id: treatments_and_surgery
+  label:
+    en: "Treatments and Surgery"
+    ko: "치료 및 수술"
+  type: vocabulary
+  words:
+  - english: "treatment"
+    translation:
+      en: "treatment"
+      ko: "치료"
+    gender: null
+  - english: "surgery"
+    translation:
+      en: "surgery"
+      ko: "수술"
+    gender: null
+  - english: "surgeon"
+    translation:
+      en: "surgeon"
+      ko: "외과 의사"
+    gender: null
+  - english: "anesthesia"
+    translation:
+      en: "anesthesia"
+      ko: "마취"
+    gender: null
+  - english: "transplant"
+    translation:
+      en: "transplant"
+      ko: "이식"
+    gender: null
+  - english: "chemotherapy"
+    translation:
+      en: "chemotherapy"
+      ko: "화학요법"
+    gender: null
+  - english: "radiation"
+    translation:
+      en: "radiation"
+      ko: "방사선 치료"
+    gender: null
+  - english: "physical therapy"
+    translation:
+      en: "physical therapy"
+      ko: "물리치료"
+    gender: null
+    notes:
+      en: "Called physiotherapy in British English"
+      ko: "영국 영어로 physiotherapy"
+  - english: "rehabilitation"
+    translation:
+      en: "rehabilitation"
+      ko: "재활"
+    gender: null
+  - english: "prognosis"
+    translation:
+      en: "prognosis"
+      ko: "예후"
+    gender: null
+  - english: "to diagnose"
+    translation:
+      en: "to diagnose"
+      ko: "진단하다"
+    gender: null
+  - english: "to prescribe"
+    translation:
+      en: "to prescribe"
+      ko: "처방하다"
+    gender: null
+  - english: "dosage"
+    translation:
+      en: "dosage"
+      ko: "용량"
+    gender: null
+  - english: "outpatient"
+    translation:
+      en: "outpatient"
+      ko: "외래 환자"
+    gender: null
+  - english: "inpatient"
+    translation:
+      en: "inpatient"
+      ko: "입원 환자"
+    gender: null
+- id: public_health
+  label:
+    en: "Public Health"
+    ko: "공중 보건"
+  type: vocabulary
+  words:
+  - english: "public health"
+    translation:
+      en: "public health"
+      ko: "공중 보건"
+    gender: null
+  - english: "vaccination"
+    translation:
+      en: "vaccination"
+      ko: "예방 접종"
+    gender: null
+  - english: "immunization"
+    translation:
+      en: "immunization"
+      ko: "면역화"
+    gender: null
+  - english: "quarantine"
+    translation:
+      en: "quarantine"
+      ko: "격리"
+    gender: null
+  - english: "hygiene"
+    translation:
+      en: "hygiene"
+      ko: "위생"
+    gender: null
+  - english: "nutrition"
+    translation:
+      en: "nutrition"
+      ko: "영양"
+    gender: null
+  - english: "obesity"
+    translation:
+      en: "obesity"
+      ko: "비만"
+    gender: null
+  - english: "mortality rate"
+    translation:
+      en: "mortality rate"
+      ko: "사망률"
+    gender: null
+  - english: "life expectancy"
+    translation:
+      en: "life expectancy"
+      ko: "기대 수명"
+    gender: null
+  - english: "preventive care"
+    translation:
+      en: "preventive care"
+      ko: "예방 의료"
+    gender: null
+  - english: "health insurance"
+    translation:
+      en: "health insurance"
+      ko: "건강 보험"
+    gender: null
+  - english: "clinical trial"
+    translation:
+      en: "clinical trial"
+      ko: "임상 시험"
+    gender: null
+  - english: "pharmaceutical"
+    translation:
+      en: "pharmaceutical"
+      ko: "제약의"
+    gender: null
+  - english: "generic drug"
+    translation:
+      en: "generic drug"
+      ko: "일반 의약품"
+    gender: null
+  - english: "wellness"
+    translation:
+      en: "wellness"
+      ko: "건강 / 웰빙"
+    gender: null
+- id: medical_specialties
+  label:
+    en: "Medical Specialties"
+    ko: "의학 전문 분야"
+  type: vocabulary
+  words:
+  - english: "cardiology"
+    translation:
+      en: "cardiology"
+      ko: "심장학"
+    gender: null
+  - english: "neurology"
+    translation:
+      en: "neurology"
+      ko: "신경학"
+    gender: null
+  - english: "oncology"
+    translation:
+      en: "oncology"
+      ko: "종양학"
+    gender: null
+  - english: "pediatrics"
+    translation:
+      en: "pediatrics"
+      ko: "소아과"
+    gender: null
+  - english: "geriatrics"
+    translation:
+      en: "geriatrics"
+      ko: "노인의학"
+    gender: null
+  - english: "orthopedics"
+    translation:
+      en: "orthopedics"
+      ko: "정형외과"
+    gender: null
+  - english: "radiology"
+    translation:
+      en: "radiology"
+      ko: "영상의학"
+    gender: null
+  - english: "pathology"
+    translation:
+      en: "pathology"
+      ko: "병리학"
+    gender: null
+  - english: "anesthesiology"
+    translation:
+      en: "anesthesiology"
+      ko: "마취학"
+    gender: null
+  - english: "emergency medicine"
+    translation:
+      en: "emergency medicine"
+      ko: "응급의학"
+    gender: null
+  - english: "obstetrics"
+    translation:
+      en: "obstetrics"
+      ko: "산과학"
+    gender: null
+  - english: "gynecology"
+    translation:
+      en: "gynecology"
+      ko: "부인과학"
+    gender: null
+  - english: "urology"
+    translation:
+      en: "urology"
+      ko: "비뇨기과"
+    gender: null
+  - english: "endocrinology"
+    translation:
+      en: "endocrinology"
+      ko: "내분비학"
+    gender: null
+  - english: "gastroenterology"
+    translation:
+      en: "gastroenterology"
+      ko: "위장병학"
+    gender: null
+  - english: "pulmonology"
+    translation:
+      en: "pulmonology"
+      ko: "호흡기내과"
+    gender: null
+  - english: "rheumatology"
+    translation:
+      en: "rheumatology"
+      ko: "류마티스학"
+    gender: null
+  - english: "immunology"
+    translation:
+      en: "immunology"
+      ko: "면역학"
+    gender: null
+  - english: "hematology"
+    translation:
+      en: "hematology"
+      ko: "혈액학"
+    gender: null
+  - english: "nephrology"
+    translation:
+      en: "nephrology"
+      ko: "신장학"
+    gender: null
+- id: medical_procedures
+  label:
+    en: "Medical Procedures"
+    ko: "의학 절차"
+  type: vocabulary
+  words:
+  - english: "biopsy"
+    translation:
+      en: "biopsy"
+      ko: "생검"
+    gender: null
+  - english: "bypass surgery"
+    translation:
+      en: "bypass surgery"
+      ko: "우회 수술"
+    gender: null
+  - english: "radiation therapy"
+    translation:
+      en: "radiation therapy"
+      ko: "방사선 치료"
+    gender: null
+  - english: "dialysis"
+    translation:
+      en: "dialysis"
+      ko: "투석"
+    gender: null
+  - english: "endoscopy"
+    translation:
+      en: "endoscopy"
+      ko: "내시경"
+    gender: null
+  - english: "colonoscopy"
+    translation:
+      en: "colonoscopy"
+      ko: "대장내시경"
+    gender: null
+  - english: "ultrasound"
+    translation:
+      en: "ultrasound"
+      ko: "초음파"
+    gender: null
+  - english: "mammography"
+    translation:
+      en: "mammography"
+      ko: "유방촬영술"
+    gender: null
+  - english: "angioplasty"
+    translation:
+      en: "angioplasty"
+      ko: "혈관성형술"
+    gender: null
+  - english: "stent"
+    translation:
+      en: "stent"
+      ko: "스텐트"
+    gender: null
+  - english: "prosthesis"
+    translation:
+      en: "prosthesis"
+      ko: "보철물"
+    gender: null
+    notes:
+      en: "Plural: prostheses"
+      ko: "복수형: prostheses"
+  - english: "defibrillator"
+    translation:
+      en: "defibrillator"
+      ko: "제세동기"
+    gender: null
+  - english: "ventilator"
+    translation:
+      en: "ventilator"
+      ko: "인공호흡기"
+    gender: null
+  - english: "catheter"
+    translation:
+      en: "catheter"
+      ko: "카테터"
+    gender: null
+  - english: "suture"
+    translation:
+      en: "suture"
+      ko: "봉합"
+    gender: null
+  - english: "tourniquet"
+    translation:
+      en: "tourniquet"
+      ko: "지혈대"
+    gender: null
+  - english: "triage"
+    translation:
+      en: "triage"
+      ko: "환자 분류"
+    gender: null
+  - english: "blood transfusion"
+    translation:
+      en: "blood transfusion"
+      ko: "수혈"
+    gender: null
+- id: pharmacology
+  label:
+    en: "Pharmacology"
+    ko: "약리학"
+  type: vocabulary
+  words:
+  - english: "over-the-counter"
+    translation:
+      en: "over-the-counter"
+      ko: "일반의약품"
+    gender: null
+    notes:
+      en: "Often abbreviated as OTC"
+      ko: "OTC로 줄여서 사용"
+  - english: "prescription drug"
+    translation:
+      en: "prescription drug"
+      ko: "처방 의약품"
+    gender: null
+  - english: "placebo effect"
+    translation:
+      en: "placebo effect"
+      ko: "위약 효과"
+    gender: null
+  - english: "adverse reaction"
+    translation:
+      en: "adverse reaction"
+      ko: "이상 반응"
+    gender: null
+  - english: "drug interaction"
+    translation:
+      en: "drug interaction"
+      ko: "약물 상호작용"
+    gender: null
+  - english: "contraindication"
+    translation:
+      en: "contraindication"
+      ko: "금기사항"
+    gender: null
+  - english: "analgesic"
+    translation:
+      en: "analgesic"
+      ko: "진통제"
+    gender: null
+  - english: "anti-inflammatory"
+    translation:
+      en: "anti-inflammatory"
+      ko: "항염증제"
+    gender: null
+  - english: "antidepressant"
+    translation:
+      en: "antidepressant"
+      ko: "항우울제"
+    gender: null
+  - english: "sedative"
+    translation:
+      en: "sedative"
+      ko: "진정제"
+    gender: null
+  - english: "stimulant"
+    translation:
+      en: "stimulant"
+      ko: "흥분제"
+    gender: null
+  - english: "steroid"
+    translation:
+      en: "steroid"
+      ko: "스테로이드"
+    gender: null
+  - english: "hormone"
+    translation:
+      en: "hormone"
+      ko: "호르몬"
+    gender: null
+  - english: "insulin"
+    translation:
+      en: "insulin"
+      ko: "인슐린"
+    gender: null
+  - english: "vaccine"
+    translation:
+      en: "vaccine"
+      ko: "백신"
+    gender: null
+  - english: "drug resistance"
+    translation:
+      en: "drug resistance"
+      ko: "약물 내성"
+    gender: null
+
+- id: anatomy_advanced
+  label:
+    en: "Anatomy"
+    ko: "해부학"
+  type: vocabulary
+  words:
+  - english: "artery"
+    translation:
+      en: "artery"
+      ko: "동맥"
+    gender: null
+  - english: "vein"
+    translation:
+      en: "vein"
+      ko: "정맥"
+    gender: null
+  - english: "capillary"
+    translation:
+      en: "capillary"
+      ko: "모세혈관"
+    gender: null
+  - english: "bone marrow"
+    translation:
+      en: "bone marrow"
+      ko: "골수"
+    gender: null
+  - english: "spinal cord"
+    translation:
+      en: "spinal cord"
+      ko: "척수"
+    gender: null
+  - english: "cerebral cortex"
+    translation:
+      en: "cerebral cortex"
+      ko: "대뇌 피질"
+    gender: null
+  - english: "spleen"
+    translation:
+      en: "spleen"
+      ko: "비장"
+    gender: null
+  - english: "pituitary gland"
+    translation:
+      en: "pituitary gland"
+      ko: "뇌하수체"
+    gender: null
+  - english: "lymph node"
+    translation:
+      en: "lymph node"
+      ko: "림프절"
+    gender: null
+
+- id: diseases_and_conditions_advanced
+  label:
+    en: "Diseases and Conditions"
+    ko: "질병 및 상태"
+  type: vocabulary
+  words:
+  - english: "chronic disease"
+    translation:
+      en: "chronic disease"
+      ko: "만성 질환"
+    gender: null
+  - english: "acute illness"
+    translation:
+      en: "acute illness"
+      ko: "급성 질환"
+    gender: null
+  - english: "autoimmune disease"
+    translation:
+      en: "autoimmune disease"
+      ko: "자가면역 질환"
+    gender: null
+  - english: "cardiovascular disease"
+    translation:
+      en: "cardiovascular disease"
+      ko: "심혈관 질환"
+    gender: null
+  - english: "hypertension"
+    translation:
+      en: "hypertension"
+      ko: "고혈압"
+    gender: null
+  - english: "anemia"
+    translation:
+      en: "anemia"
+      ko: "빈혈"
+    gender: null
+  - english: "epilepsy"
+    translation:
+      en: "epilepsy"
+      ko: "간질"
+    gender: null
+  - english: "Alzheimer's disease"
+    translation:
+      en: "Alzheimer's disease"
+      ko: "알츠하이머병"
+    gender: null
+  - english: "Parkinson's disease"
+    translation:
+      en: "Parkinson's disease"
+      ko: "파킨슨병"
+    gender: null
+  - english: "tuberculosis"
+    translation:
+      en: "tuberculosis"
+      ko: "결핵"
+    gender: null
+
+- id: diagnostic_tools
+  label:
+    en: "Diagnostic Tools"
+    ko: "진단 도구"
+  type: vocabulary
+  words:
+  - english: "X-ray"
+    translation:
+      en: "X-ray"
+      ko: "엑스레이"
+    gender: null
+  - english: "MRI"
+    translation:
+      en: "MRI"
+      ko: "MRI"
+    gender: null
+  - english: "CT scan"
+    translation:
+      en: "CT scan"
+      ko: "CT 스캔"
+    gender: null
+  - english: "blood test"
+    translation:
+      en: "blood test"
+      ko: "혈액 검사"
+    gender: null
+  - english: "urinalysis"
+    translation:
+      en: "urinalysis"
+      ko: "소변 검사"
+    gender: null
+  - english: "electrocardiogram"
+    translation:
+      en: "electrocardiogram"
+      ko: "심전도"
+    gender: null
+  - english: "mammogram"
+    translation:
+      en: "mammogram"
+      ko: "유방조영술"
+    gender: null
+  - english: "stethoscope"
+    translation:
+      en: "stethoscope"
+      ko: "청진기"
+    gender: null
+  - english: "blood pressure monitor"
+    translation:
+      en: "blood pressure monitor"
+      ko: "혈압 측정기"
+    gender: null
+  - english: "pulse oximeter"
+    translation:
+      en: "pulse oximeter"
+      ko: "맥박 산소측정기"
+    gender: null
+  - english: "thermometer"
+    translation:
+      en: "thermometer"
+      ko: "체온계"
+    gender: null
+
+- id: public_health_advanced
+  label:
+    en: "Public Health"
+    ko: "공중 보건"
+  type: vocabulary
+  words:
+  - english: "herd immunity"
+    translation:
+      en: "herd immunity"
+      ko: "집단 면역"
+    gender: null
+  - english: "sanitation"
+    translation:
+      en: "sanitation"
+      ko: "위생"
+    gender: null
+  - english: "infectious"
+    translation:
+      en: "infectious"
+      ko: "감염성의"
+    gender: null
+  - english: "outbreak"
+    translation:
+      en: "outbreak"
+      ko: "발생"
+    gender: null
+  - english: "morbidity"
+    translation:
+      en: "morbidity"
+      ko: "이환율"
+    gender: null
+  - english: "epidemiology"
+    translation:
+      en: "epidemiology"
+      ko: "역학"
+    gender: null
+  - english: "preventive medicine"
+    translation:
+      en: "preventive medicine"
+      ko: "예방의학"
+    gender: null
+  - english: "mental health"
+    translation:
+      en: "mental health"
+      ko: "정신 건강"
+    gender: null
+  - english: "WHO"
+    translation:
+      en: "WHO"
+      ko: "세계보건기구"
+    gender: null
+  - english: "CDC"
+    translation:
+      en: "CDC"
+      ko: "질병통제예방센터"
+    gender: null
+
+- id: surgical_procedures
+  label:
+    en: "Surgical Procedures"
+    ko: "수술 절차"
+  type: vocabulary
+  words:
+  - english: "incision"
+    translation:
+      en: "incision"
+      ko: "절개"
+    gender: null
+  - english: "laparoscopy"
+    translation:
+      en: "laparoscopy"
+      ko: "복강경 수술"
+    gender: null
+  - english: "appendectomy"
+    translation:
+      en: "appendectomy"
+      ko: "맹장 수술"
+    gender: null
+  - english: "amputation"
+    translation:
+      en: "amputation"
+      ko: "절단"
+    gender: null
+  - english: "pacemaker"
+    translation:
+      en: "pacemaker"
+      ko: "심장 박동기"
+    gender: null
+
+- id: nutrition_and_wellness
+  label:
+    en: "Nutrition and Wellness"
+    ko: "영양 및 건강"
+  type: vocabulary
+  words:
+  - english: "calorie"
+    translation:
+      en: "calorie"
+      ko: "칼로리"
+    gender: null
+  - english: "carbohydrate"
+    translation:
+      en: "carbohydrate"
+      ko: "탄수화물"
+    gender: null
+  - english: "fiber"
+    translation:
+      en: "fiber"
+      ko: "식이섬유"
+    gender: null
+  - english: "antioxidant"
+    translation:
+      en: "antioxidant"
+      ko: "항산화제"
+    gender: null
+  - english: "cholesterol"
+    translation:
+      en: "cholesterol"
+      ko: "콜레스테롤"
+    gender: null
+  - english: "saturated fat"
+    translation:
+      en: "saturated fat"
+      ko: "포화 지방"
+    gender: null
+  - english: "trans fat"
+    translation:
+      en: "trans fat"
+      ko: "트랜스 지방"
+    gender: null
+  - english: "supplement"
+    translation:
+      en: "supplement"
+      ko: "보충제"
+    gender: null
+  - english: "deficiency"
+    translation:
+      en: "deficiency"
+      ko: "결핍"
+    gender: null
+  - english: "dehydration"
+    translation:
+      en: "dehydration"
+      ko: "탈수"
+    gender: null
+  - english: "malnutrition"
+    translation:
+      en: "malnutrition"
+      ko: "영양실조"
+    gender: null
+  - english: "BMI"
+    translation:
+      en: "BMI"
+      ko: "체질량지수"
+    gender: null
+  - english: "metabolism"
+    translation:
+      en: "metabolism"
+      ko: "신진대사"
+    gender: null
+  - english: "immune system"
+    translation:
+      en: "immune system"
+      ko: "면역 체계"
+    gender: null
+
+- id: mental_health_medicine
+  label:
+    en: "Mental Health in Medicine"
+    ko: "의학적 정신 건강"
+  type: vocabulary
+  words:
+  - english: "psychiatry"
+    translation:
+      en: "psychiatry"
+      ko: "정신의학"
+    gender: null
+  - english: "psychologist"
+    translation:
+      en: "psychologist"
+      ko: "심리학자"
+    gender: null
+  - english: "psychiatrist"
+    translation:
+      en: "psychiatrist"
+      ko: "정신과 의사"
+    gender: null
+  - english: "anxiety disorder"
+    translation:
+      en: "anxiety disorder"
+      ko: "불안 장애"
+    gender: null
+  - english: "bipolar disorder"
+    translation:
+      en: "bipolar disorder"
+      ko: "양극성 장애"
+    gender: null
+  - english: "schizophrenia"
+    translation:
+      en: "schizophrenia"
+      ko: "조현병"
+    gender: null
+  - english: "PTSD"
+    translation:
+      en: "PTSD"
+      ko: "외상 후 스트레스 장애"
+    gender: null
+  - english: "insomnia"
+    translation:
+      en: "insomnia"
+      ko: "불면증"
+    gender: null
+  - english: "therapy"
+    translation:
+      en: "therapy"
+      ko: "치료"
+    gender: null

@@ -1,0 +1,1017 @@
+lesson: "sup_B2_Law_and_Justice"
+lesson_number: 164
+cefr: B2
+type: supplementary
+topic: "Law and Justice"
+categories:
+- id: criminal_law
+  label:
+    en: "Criminal Law"
+    ko: "형법"
+  type: vocabulary
+  words:
+  - english: "criminal law"
+    translation:
+      en: "criminal law"
+      ko: "형법"
+    gender: null
+  - english: "felony"
+    translation:
+      en: "felony"
+      ko: "중범죄"
+    gender: null
+  - english: "misdemeanor"
+    translation:
+      en: "misdemeanor"
+      ko: "경범죄"
+    gender: null
+  - english: "indictment"
+    translation:
+      en: "indictment"
+      ko: "기소"
+    gender: null
+    notes:
+      en: "The 'c' is silent"
+      ko: "'c'는 묵음"
+  - english: "arraignment"
+    translation:
+      en: "arraignment"
+      ko: "인부 심문"
+    gender: null
+  - english: "to charge"
+    translation:
+      en: "to charge"
+      ko: "기소하다"
+    gender: null
+  - english: "to prosecute"
+    translation:
+      en: "to prosecute"
+      ko: "기소하다 / 검찰 측이 되다"
+    gender: null
+  - english: "to acquit"
+    translation:
+      en: "to acquit"
+      ko: "무죄를 선고하다"
+    gender: null
+  - english: "to convict"
+    translation:
+      en: "to convict"
+      ko: "유죄를 선고하다"
+    gender: null
+  - english: "manslaughter"
+    translation:
+      en: "manslaughter"
+      ko: "과실 치사"
+    gender: null
+  - english: "embezzlement"
+    translation:
+      en: "embezzlement"
+      ko: "횡령"
+    gender: null
+  - english: "perjury"
+    translation:
+      en: "perjury"
+      ko: "위증"
+    gender: null
+  - english: "accomplice"
+    translation:
+      en: "accomplice"
+      ko: "공범"
+    gender: null
+  - english: "premeditated"
+    translation:
+      en: "premeditated"
+      ko: "계획적인"
+    gender: null
+  - english: "statute of limitations"
+    translation:
+      en: "statute of limitations"
+      ko: "공소 시효"
+    gender: null
+- id: civil_law
+  label:
+    en: "Civil Law"
+    ko: "민법"
+  type: vocabulary
+  words:
+  - english: "civil law"
+    translation:
+      en: "civil law"
+      ko: "민법"
+    gender: null
+  - english: "plaintiff"
+    translation:
+      en: "plaintiff"
+      ko: "원고"
+    gender: null
+  - english: "defendant"
+    translation:
+      en: "defendant"
+      ko: "피고"
+    gender: null
+  - english: "lawsuit"
+    translation:
+      en: "lawsuit"
+      ko: "소송"
+    gender: null
+  - english: "liability"
+    translation:
+      en: "liability"
+      ko: "책임"
+    gender: null
+  - english: "negligence"
+    translation:
+      en: "negligence"
+      ko: "과실"
+    gender: null
+  - english: "damages"
+    translation:
+      en: "damages"
+      ko: "손해배상"
+    gender: null
+  - english: "compensation"
+    translation:
+      en: "compensation"
+      ko: "보상"
+    gender: null
+  - english: "settlement"
+    translation:
+      en: "settlement"
+      ko: "합의"
+    gender: null
+  - english: "mediation"
+    translation:
+      en: "mediation"
+      ko: "중재"
+    gender: null
+  - english: "arbitration"
+    translation:
+      en: "arbitration"
+      ko: "중재 재판"
+    gender: null
+  - english: "to litigate"
+    translation:
+      en: "to litigate"
+      ko: "소송하다"
+    gender: null
+  - english: "tort"
+    translation:
+      en: "tort"
+      ko: "불법 행위"
+    gender: null
+  - english: "injunction"
+    translation:
+      en: "injunction"
+      ko: "금지 명령"
+    gender: null
+  - english: "malpractice"
+    translation:
+      en: "malpractice"
+      ko: "의료 과실 / 직무 태만"
+    gender: null
+- id: trial_process
+  label:
+    en: "Trial Process"
+    ko: "재판 과정"
+  type: vocabulary
+  words:
+  - english: "trial"
+    translation:
+      en: "trial"
+      ko: "재판"
+    gender: null
+  - english: "hearing"
+    translation:
+      en: "hearing"
+      ko: "심리"
+    gender: null
+  - english: "testimony"
+    translation:
+      en: "testimony"
+      ko: "증언"
+    gender: null
+  - english: "evidence"
+    translation:
+      en: "evidence"
+      ko: "증거"
+    gender: null
+  - english: "exhibit"
+    translation:
+      en: "exhibit"
+      ko: "증거물"
+    gender: null
+  - english: "cross-examination"
+    translation:
+      en: "cross-examination"
+      ko: "반대 심문"
+    gender: null
+  - english: "objection"
+    translation:
+      en: "objection"
+      ko: "이의"
+    gender: null
+  - english: "sustained"
+    translation:
+      en: "sustained"
+      ko: "인용 (이의 인정)"
+    gender: null
+  - english: "overruled"
+    translation:
+      en: "overruled"
+      ko: "기각 (이의 기각)"
+    gender: null
+  - english: "subpoena"
+    translation:
+      en: "subpoena"
+      ko: "소환장"
+    gender: null
+  - english: "plea"
+    translation:
+      en: "plea"
+      ko: "답변 / 항변"
+    gender: null
+  - english: "plea bargain"
+    translation:
+      en: "plea bargain"
+      ko: "유죄 협상"
+    gender: null
+  - english: "verdict"
+    translation:
+      en: "verdict"
+      ko: "평결"
+    gender: null
+  - english: "to sentence"
+    translation:
+      en: "to sentence"
+      ko: "선고하다"
+    gender: null
+  - english: "appeal"
+    translation:
+      en: "appeal"
+      ko: "항소"
+    gender: null
+  - english: "precedent"
+    translation:
+      en: "precedent"
+      ko: "판례"
+    gender: null
+  - english: "due process"
+    translation:
+      en: "due process"
+      ko: "적법 절차"
+    gender: null
+  - english: "jurisdiction"
+    translation:
+      en: "jurisdiction"
+      ko: "관할권"
+    gender: null
+  - english: "to adjourn"
+    translation:
+      en: "to adjourn"
+      ko: "휴정하다"
+    gender: null
+  - english: "bailiff"
+    translation:
+      en: "bailiff"
+      ko: "법정 경위"
+    gender: null
+- id: court_procedures
+  label:
+    en: "Court Procedures"
+    ko: "법정 절차"
+  type: vocabulary
+  words:
+  - english: "direct examination"
+    translation:
+      en: "direct examination"
+      ko: "직접심문"
+    gender: null
+  - english: "opening statement"
+    translation:
+      en: "opening statement"
+      ko: "모두진술"
+    gender: null
+  - english: "closing argument"
+    translation:
+      en: "closing argument"
+      ko: "최종변론"
+    gender: null
+  - english: "deliberation"
+    translation:
+      en: "deliberation"
+      ko: "심의 / 숙고"
+    gender: null
+  - english: "acquittal"
+    translation:
+      en: "acquittal"
+      ko: "무죄선고"
+    gender: null
+  - english: "conviction"
+    translation:
+      en: "conviction"
+      ko: "유죄선고"
+    gender: null
+  - english: "overturn"
+    translation:
+      en: "overturn"
+      ko: "뒤집다 / 파기하다"
+    gender: null
+  - english: "mistrial"
+    translation:
+      en: "mistrial"
+      ko: "무효재판"
+    gender: null
+  - english: "hung jury"
+    translation:
+      en: "hung jury"
+      ko: "평결 불능 배심"
+    gender: null
+  - english: "sequester"
+    translation:
+      en: "sequester"
+      ko: "격리하다"
+    gender: null
+  - english: "contempt of court"
+    translation:
+      en: "contempt of court"
+      ko: "법정모욕"
+    gender: null
+  - english: "extradition"
+    translation:
+      en: "extradition"
+      ko: "범인인도"
+    gender: null
+  - english: "clemency"
+    translation:
+      en: "clemency"
+      ko: "관용 / 감형"
+    gender: null
+  - english: "commutation"
+    translation:
+      en: "commutation"
+      ko: "감형"
+    gender: null
+- id: legal_principles
+  label:
+    en: "Legal Principles"
+    ko: "법률 원칙"
+  type: vocabulary
+  words:
+  - english: "presumption of innocence"
+    translation:
+      en: "presumption of innocence"
+      ko: "무죄 추정"
+    gender: null
+  - english: "beyond reasonable doubt"
+    translation:
+      en: "beyond reasonable doubt"
+      ko: "합리적 의심의 여지가 없는"
+    gender: null
+  - english: "burden of proof"
+    translation:
+      en: "burden of proof"
+      ko: "입증 책임"
+    gender: null
+  - english: "double jeopardy"
+    translation:
+      en: "double jeopardy"
+      ko: "이중 위험 금지"
+    gender: null
+  - english: "equal protection"
+    translation:
+      en: "equal protection"
+      ko: "평등한 보호"
+    gender: null
+  - english: "right to counsel"
+    translation:
+      en: "right to counsel"
+      ko: "변호인 권리"
+    gender: null
+  - english: "Miranda rights"
+    translation:
+      en: "Miranda rights"
+      ko: "미란다 원칙"
+    gender: null
+  - english: "habeas corpus"
+    translation:
+      en: "habeas corpus"
+      ko: "인신보호영장"
+    gender: null
+  - english: "stare decisis"
+    translation:
+      en: "stare decisis"
+      ko: "선례 구속의 원칙"
+    gender: null
+    notes:
+      en: "Latin: 'to stand by things decided'"
+      ko: "라틴어: '결정된 것을 따르다'"
+  - english: "breach"
+    translation:
+      en: "breach"
+      ko: "위반"
+    gender: null
+  - english: "mens rea"
+    translation:
+      en: "mens rea"
+      ko: "범의"
+    gender: null
+    notes:
+      en: "Latin: 'guilty mind'"
+      ko: "라틴어: '범죄 의도'"
+  - english: "actus reus"
+    translation:
+      en: "actus reus"
+      ko: "범죄 행위"
+    gender: null
+    notes:
+      en: "Latin: 'guilty act'"
+      ko: "라틴어: '범죄 행위'"
+  - english: "motive"
+    translation:
+      en: "motive"
+      ko: "동기"
+    gender: null
+  - english: "alibi"
+    translation:
+      en: "alibi"
+      ko: "알리바이"
+    gender: null
+  - english: "circumstantial evidence"
+    translation:
+      en: "circumstantial evidence"
+      ko: "정황 증거"
+    gender: null
+  - english: "forensic evidence"
+    translation:
+      en: "forensic evidence"
+      ko: "법의학적 증거"
+    gender: null
+  - english: "chain of custody"
+    translation:
+      en: "chain of custody"
+      ko: "증거물 관리 사슬"
+    gender: null
+  - english: "affidavit"
+    translation:
+      en: "affidavit"
+      ko: "선서 진술서"
+    gender: null
+  - english: "restraining order"
+    translation:
+      en: "restraining order"
+      ko: "접근금지명령"
+    gender: null
+  - english: "warrant"
+    translation:
+      en: "warrant"
+      ko: "영장"
+    gender: null
+- id: types_of_law
+  label:
+    en: "Types of Law"
+    ko: "법의 종류"
+  type: vocabulary
+  words:
+  - english: "family law"
+    translation:
+      en: "family law"
+      ko: "가족법"
+    gender: null
+  - english: "immigration law"
+    translation:
+      en: "immigration law"
+      ko: "이민법"
+    gender: null
+  - english: "labor law"
+    translation:
+      en: "labor law"
+      ko: "노동법"
+    gender: null
+    notes:
+      en: "Spelled labour law in British English"
+      ko: "영국 영어에서는 labour law"
+  - english: "tax law"
+    translation:
+      en: "tax law"
+      ko: "세법"
+    gender: null
+  - english: "environmental law"
+    translation:
+      en: "environmental law"
+      ko: "환경법"
+    gender: null
+  - english: "international law"
+    translation:
+      en: "international law"
+      ko: "국제법"
+    gender: null
+  - english: "maritime law"
+    translation:
+      en: "maritime law"
+      ko: "해양법"
+    gender: null
+  - english: "corporate law"
+    translation:
+      en: "corporate law"
+      ko: "기업법"
+    gender: null
+  - english: "constitutional law"
+    translation:
+      en: "constitutional law"
+      ko: "헌법"
+    gender: null
+  - english: "administrative law"
+    translation:
+      en: "administrative law"
+      ko: "행정법"
+    gender: null
+  - english: "property law"
+    translation:
+      en: "property law"
+      ko: "재산법"
+    gender: null
+  - english: "contract law"
+    translation:
+      en: "contract law"
+      ko: "계약법"
+    gender: null
+  - english: "tort law"
+    translation:
+      en: "tort law"
+      ko: "불법행위법"
+    gender: null
+  - english: "bankruptcy law"
+    translation:
+      en: "bankruptcy law"
+      ko: "파산법"
+    gender: null
+  - english: "antitrust law"
+    translation:
+      en: "antitrust law"
+      ko: "독점금지법"
+    gender: null
+  - english: "cyber law"
+    translation:
+      en: "cyber law"
+      ko: "사이버법"
+    gender: null
+  - english: "patent law"
+    translation:
+      en: "patent law"
+      ko: "특허법"
+    gender: null
+  - english: "human rights law"
+    translation:
+      en: "human rights law"
+      ko: "인권법"
+    gender: null
+
+- id: sentencing_and_punishment
+  label:
+    en: "Sentencing and Punishment"
+    ko: "양형 및 처벌"
+  type: vocabulary
+  words:
+  - english: "parole"
+    translation:
+      en: "parole"
+      ko: "가석방"
+    gender: null
+  - english: "probation"
+    translation:
+      en: "probation"
+      ko: "집행유예"
+    gender: null
+  - english: "incarceration"
+    translation:
+      en: "incarceration"
+      ko: "투옥"
+    gender: null
+  - english: "solitary confinement"
+    translation:
+      en: "solitary confinement"
+      ko: "독방 감금"
+    gender: null
+  - english: "death penalty"
+    translation:
+      en: "death penalty"
+      ko: "사형"
+    gender: null
+  - english: "life sentence"
+    translation:
+      en: "life sentence"
+      ko: "종신형"
+    gender: null
+  - english: "fine"
+    translation:
+      en: "fine"
+      ko: "벌금"
+    gender: null
+  - english: "community service"
+    translation:
+      en: "community service"
+      ko: "사회봉사"
+    gender: null
+  - english: "restitution"
+    translation:
+      en: "restitution"
+      ko: "피해 배상"
+    gender: null
+  - english: "rehabilitation"
+    translation:
+      en: "rehabilitation"
+      ko: "갱생"
+    gender: null
+  - english: "recidivism"
+    translation:
+      en: "recidivism"
+      ko: "재범"
+    gender: null
+  - english: "juvenile detention"
+    translation:
+      en: "juvenile detention"
+      ko: "소년원"
+    gender: null
+  - english: "house arrest"
+    translation:
+      en: "house arrest"
+      ko: "가택 연금"
+    gender: null
+  - english: "ankle monitor"
+    translation:
+      en: "ankle monitor"
+      ko: "전자 발찌"
+    gender: null
+  - english: "correctional facility"
+    translation:
+      en: "correctional facility"
+      ko: "교정 시설"
+    gender: null
+
+- id: legal_professionals
+  label:
+    en: "Legal Professionals"
+    ko: "법률 전문가"
+  type: vocabulary
+  words:
+  - english: "judge"
+    translation:
+      en: "judge"
+      ko: "판사"
+    gender: null
+  - english: "magistrate"
+    translation:
+      en: "magistrate"
+      ko: "치안 판사"
+    gender: null
+  - english: "prosecutor"
+    translation:
+      en: "prosecutor"
+      ko: "검사"
+    gender: null
+  - english: "defense attorney"
+    translation:
+      en: "defense attorney"
+      ko: "변호사"
+    gender: null
+  - english: "public defender"
+    translation:
+      en: "public defender"
+      ko: "국선 변호인"
+    gender: null
+  - english: "solicitor"
+    translation:
+      en: "solicitor"
+      ko: "사무 변호사"
+    gender: null
+  - english: "barrister"
+    translation:
+      en: "barrister"
+      ko: "법정 변호사"
+    gender: null
+  - english: "paralegal"
+    translation:
+      en: "paralegal"
+      ko: "법률 보조원"
+    gender: null
+  - english: "notary"
+    translation:
+      en: "notary"
+      ko: "공증인"
+    gender: null
+  - english: "juror"
+    translation:
+      en: "juror"
+      ko: "배심원"
+    gender: null
+  - english: "witness"
+    translation:
+      en: "witness"
+      ko: "증인"
+    gender: null
+  - english: "expert witness"
+    translation:
+      en: "expert witness"
+      ko: "전문 증인"
+    gender: null
+  - english: "coroner"
+    translation:
+      en: "coroner"
+      ko: "검시관"
+    gender: null
+  - english: "ombudsman"
+    translation:
+      en: "ombudsman"
+      ko: "옴부즈만"
+    gender: null
+  - english: "mediator"
+    translation:
+      en: "mediator"
+      ko: "조정인"
+    gender: null
+
+- id: legal_documents
+  label:
+    en: "Legal Documents"
+    ko: "법률 문서"
+  type: vocabulary
+  words:
+  - english: "contract"
+    translation:
+      en: "contract"
+      ko: "계약서"
+    gender: null
+  - english: "deed"
+    translation:
+      en: "deed"
+      ko: "증서"
+    gender: null
+  - english: "will"
+    translation:
+      en: "will"
+      ko: "유언장"
+    gender: null
+  - english: "trust"
+    translation:
+      en: "trust"
+      ko: "신탁"
+    gender: null
+  - english: "power of attorney"
+    translation:
+      en: "power of attorney"
+      ko: "위임장"
+    gender: null
+  - english: "deposition"
+    translation:
+      en: "deposition"
+      ko: "증언 기록"
+    gender: null
+  - english: "brief"
+    translation:
+      en: "brief"
+      ko: "변론 요지서"
+    gender: null
+  - english: "petition"
+    translation:
+      en: "petition"
+      ko: "청원서"
+    gender: null
+  - english: "summons"
+    translation:
+      en: "summons"
+      ko: "소환장"
+    gender: null
+  - english: "statute"
+    translation:
+      en: "statute"
+      ko: "법령"
+    gender: null
+  - english: "ordinance"
+    translation:
+      en: "ordinance"
+      ko: "조례"
+    gender: null
+  - english: "regulation"
+    translation:
+      en: "regulation"
+      ko: "규정"
+    gender: null
+  - english: "writ"
+    translation:
+      en: "writ"
+      ko: "영장"
+    gender: null
+  - english: "memorandum"
+    translation:
+      en: "memorandum"
+      ko: "각서"
+    gender: null
+  - english: "amendment"
+    translation:
+      en: "amendment"
+      ko: "수정안"
+    gender: null
+  - english: "disclaimer"
+    translation:
+      en: "disclaimer"
+      ko: "면책 조항"
+    gender: null
+  - english: "nondisclosure agreement"
+    translation:
+      en: "nondisclosure agreement"
+      ko: "비밀유지계약"
+    gender: null
+  - english: "prenuptial agreement"
+    translation:
+      en: "prenuptial agreement"
+      ko: "혼전 계약"
+    gender: null
+
+- id: rights_and_freedoms
+  label:
+    en: "Rights and Freedoms"
+    ko: "권리와 자유"
+  type: vocabulary
+  words:
+  - english: "civil rights"
+    translation:
+      en: "civil rights"
+      ko: "시민권"
+    gender: null
+  - english: "freedom of speech"
+    translation:
+      en: "freedom of speech"
+      ko: "표현의 자유"
+    gender: null
+  - english: "freedom of assembly"
+    translation:
+      en: "freedom of assembly"
+      ko: "집회의 자유"
+    gender: null
+  - english: "freedom of religion"
+    translation:
+      en: "freedom of religion"
+      ko: "종교의 자유"
+    gender: null
+  - english: "right to privacy"
+    translation:
+      en: "right to privacy"
+      ko: "프라이버시권"
+    gender: null
+  - english: "right to a fair trial"
+    translation:
+      en: "right to a fair trial"
+      ko: "공정한 재판을 받을 권리"
+    gender: null
+  - english: "right to vote"
+    translation:
+      en: "right to vote"
+      ko: "투표권"
+    gender: null
+  - english: "civil liberties"
+    translation:
+      en: "civil liberties"
+      ko: "시민적 자유"
+    gender: null
+  - english: "emancipation"
+    translation:
+      en: "emancipation"
+      ko: "해방"
+    gender: null
+  - english: "amnesty"
+    translation:
+      en: "amnesty"
+      ko: "사면"
+    gender: null
+  - english: "asylum"
+    translation:
+      en: "asylum"
+      ko: "망명"
+    gender: null
+  - english: "sovereignty"
+    translation:
+      en: "sovereignty"
+      ko: "주권"
+    gender: null
+  - english: "referendum"
+    translation:
+      en: "referendum"
+      ko: "국민투표"
+    gender: null
+  - english: "constitutional right"
+    translation:
+      en: "constitutional right"
+      ko: "헌법상 권리"
+    gender: null
+
+- id: law_enforcement
+  label:
+    en: "Law Enforcement"
+    ko: "법 집행"
+  type: vocabulary
+  words:
+  - english: "detective"
+    translation:
+      en: "detective"
+      ko: "형사"
+    gender: null
+  - english: "forensics"
+    translation:
+      en: "forensics"
+      ko: "법의학"
+    gender: null
+  - english: "investigation"
+    translation:
+      en: "investigation"
+      ko: "수사"
+    gender: null
+  - english: "arrest"
+    translation:
+      en: "arrest"
+      ko: "체포"
+    gender: null
+  - english: "custody"
+    translation:
+      en: "custody"
+      ko: "구금"
+    gender: null
+  - english: "bail"
+    translation:
+      en: "bail"
+      ko: "보석"
+    gender: null
+  - english: "handcuffs"
+    translation:
+      en: "handcuffs"
+      ko: "수갑"
+    gender: null
+  - english: "interrogation"
+    translation:
+      en: "interrogation"
+      ko: "심문"
+    gender: null
+  - english: "lineup"
+    translation:
+      en: "lineup"
+      ko: "범인 식별 절차"
+    gender: null
+  - english: "search warrant"
+    translation:
+      en: "search warrant"
+      ko: "수색 영장"
+    gender: null
+  - english: "undercover"
+    translation:
+      en: "undercover"
+      ko: "잠복"
+    gender: null
+  - english: "informant"
+    translation:
+      en: "informant"
+      ko: "정보원"
+    gender: null
+  - english: "surveillance"
+    translation:
+      en: "surveillance"
+      ko: "감시"
+    gender: null
+  - english: "patrol"
+    translation:
+      en: "patrol"
+      ko: "순찰"
+    gender: null
+  - english: "dispatch"
+    translation:
+      en: "dispatch"
+      ko: "출동"
+    gender: null
+  - english: "eyewitness"
+    translation:
+      en: "eyewitness"
+      ko: "목격자"
+    gender: null
+  - english: "crime scene"
+    translation:
+      en: "crime scene"
+      ko: "범죄 현장"
+    gender: null
+  - english: "evidence tampering"
+    translation:
+      en: "evidence tampering"
+      ko: "증거 조작"
+    gender: null
+  - english: "Miranda warning"
+    translation:
+      en: "Miranda warning"
+      ko: "미란다 고지"
+    gender: null
+  - english: "due diligence"
+    translation:
+      en: "due diligence"
+      ko: "실사"
+    gender: null
+  - english: "plea deal"
+    translation:
+      en: "plea deal"
+      ko: "유죄 합의"
+    gender: null

@@ -1,0 +1,1107 @@
+lesson: "sup_A2_Restaurant_and_Cuisine"
+lesson_number: 123
+cefr: A2
+type: supplementary
+topic: "Restaurant and Cuisine"
+categories:
+- id: ordering_and_dining
+  label:
+    en: "Ordering and Dining"
+    ko: "주문 및 식사"
+  type: vocabulary
+  words:
+  - english: "restaurant"
+    translation:
+      en: "restaurant"
+      ko: "레스토랑"
+    gender: null
+  - english: "menu"
+    translation:
+      en: "menu"
+      ko: "메뉴"
+    gender: null
+  - english: "to order"
+    translation:
+      en: "to order"
+      ko: "주문하다"
+    gender: null
+  - english: "waiter"
+    translation:
+      en: "waiter"
+      ko: "웨이터"
+    gender: null
+    notes:
+      en: "Server is the gender-neutral term"
+      ko: "server가 성 중립적 표현"
+  - english: "waitress"
+    translation:
+      en: "waitress"
+      ko: "여성 웨이터"
+    gender: null
+  - english: "table"
+    translation:
+      en: "table"
+      ko: "테이블"
+    gender: null
+  - english: "reservation"
+    translation:
+      en: "reservation"
+      ko: "예약"
+    gender: null
+  - english: "bill"
+    translation:
+      en: "bill"
+      ko: "계산서"
+    gender: null
+    notes:
+      en: "Called the check in American English"
+      ko: "미국 영어로 check"
+  - english: "tip"
+    translation:
+      en: "tip"
+      ko: "팁"
+    gender: null
+    notes:
+      en: "15-20% is standard in the US"
+      ko: "미국에서는 15-20%가 표준"
+  - english: "napkin"
+    translation:
+      en: "napkin"
+      ko: "냅킨"
+    gender: null
+    notes:
+      en: "Called serviette in British English"
+      ko: "영국 영어로 serviette"
+  - english: "to recommend"
+    translation:
+      en: "to recommend"
+      ko: "추천하다"
+    gender: null
+  - english: "special"
+    translation:
+      en: "special"
+      ko: "오늘의 특별 요리"
+    gender: null
+    notes:
+      en: "Today's special = chef's recommended dish"
+      ko: "today's special = 셰프의 추천 요리"
+  - english: "to serve"
+    translation:
+      en: "to serve"
+      ko: "서빙하다"
+    gender: null
+  - english: "takeout"
+    translation:
+      en: "takeout"
+      ko: "포장"
+    gender: null
+    notes:
+      en: "Called takeaway in British English"
+      ko: "영국 영어로 takeaway"
+  - english: "dine in"
+    translation:
+      en: "dine in"
+      ko: "매장 식사"
+    gender: null
+  - english: "buffet"
+    translation:
+      en: "buffet"
+      ko: "뷔페"
+    gender: null
+- id: courses_and_menu_items
+  label:
+    en: "Courses and Menu Items"
+    ko: "코스 및 메뉴 항목"
+  type: vocabulary
+  words:
+  - english: "appetizer"
+    translation:
+      en: "appetizer"
+      ko: "전채 요리"
+    gender: null
+    notes:
+      en: "Called starter in British English"
+      ko: "영국 영어로 starter"
+  - english: "main course"
+    translation:
+      en: "main course"
+      ko: "메인 코스"
+    gender: null
+    notes:
+      en: "Also called entree in American English"
+      ko: "미국 영어로 entree라고도 함"
+  - english: "side dish"
+    translation:
+      en: "side dish"
+      ko: "사이드 메뉴"
+    gender: null
+  - english: "dessert"
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: null
+  - english: "soup"
+    translation:
+      en: "soup"
+      ko: "수프"
+    gender: null
+  - english: "salad"
+    translation:
+      en: "salad"
+      ko: "샐러드"
+    gender: null
+  - english: "steak"
+    translation:
+      en: "steak"
+      ko: "스테이크"
+    gender: null
+  - english: "rare"
+    translation:
+      en: "rare"
+      ko: "레어 (덜 익힌)"
+    gender: null
+  - english: "medium"
+    translation:
+      en: "medium"
+      ko: "미디엄 (중간 익힘)"
+    gender: null
+  - english: "well-done"
+    translation:
+      en: "well-done"
+      ko: "웰던 (완전히 익힌)"
+    gender: null
+  - english: "grilled"
+    translation:
+      en: "grilled"
+      ko: "그릴에 구운"
+    gender: null
+  - english: "fried"
+    translation:
+      en: "fried"
+      ko: "튀긴"
+    gender: null
+  - english: "baked"
+    translation:
+      en: "baked"
+      ko: "오븐에 구운"
+    gender: null
+  - english: "steamed"
+    translation:
+      en: "steamed"
+      ko: "찐"
+    gender: null
+  - english: "roasted"
+    translation:
+      en: "roasted"
+      ko: "로스트한"
+    gender: null
+  - english: "raw"
+    translation:
+      en: "raw"
+      ko: "날것의"
+    gender: null
+  - english: "fresh"
+    translation:
+      en: "fresh"
+      ko: "신선한"
+    gender: null
+  - english: "homemade"
+    translation:
+      en: "homemade"
+      ko: "집에서 만든"
+    gender: null
+  - english: "organic"
+    translation:
+      en: "organic"
+      ko: "유기농의"
+    gender: null
+- id: dietary_needs
+  label:
+    en: "Dietary Needs"
+    ko: "식이 요구"
+  type: vocabulary
+  words:
+  - english: "vegetarian"
+    translation:
+      en: "vegetarian"
+      ko: "채식주의자"
+    gender: null
+  - english: "vegan"
+    translation:
+      en: "vegan"
+      ko: "비건"
+    gender: null
+    notes:
+      en: "No animal products at all, including dairy"
+      ko: "유제품을 포함한 모든 동물성 제품 제외"
+  - english: "gluten-free"
+    translation:
+      en: "gluten-free"
+      ko: "글루텐 프리"
+    gender: null
+  - english: "dairy-free"
+    translation:
+      en: "dairy-free"
+      ko: "유제품 미포함"
+    gender: null
+  - english: "allergy"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: null
+  - english: "nut allergy"
+    translation:
+      en: "nut allergy"
+      ko: "견과류 알레르기"
+    gender: null
+  - english: "spicy"
+    translation:
+      en: "spicy"
+      ko: "매운"
+    gender: null
+  - english: "mild"
+    translation:
+      en: "mild"
+      ko: "순한"
+    gender: null
+  - english: "sweet"
+    translation:
+      en: "sweet"
+      ko: "단"
+    gender: null
+  - english: "sour"
+    translation:
+      en: "sour"
+      ko: "신"
+    gender: null
+  - english: "bitter"
+    translation:
+      en: "bitter"
+      ko: "쓴"
+    gender: null
+  - english: "salty"
+    translation:
+      en: "salty"
+      ko: "짠"
+    gender: null
+  - english: "savory"
+    translation:
+      en: "savory"
+      ko: "짭짤한 / 감칠맛 나는"
+    gender: null
+    notes:
+      en: "Spelled savoury in British English"
+      ko: "영국 영어에서는 savoury"
+  - english: "bland"
+    translation:
+      en: "bland"
+      ko: "싱거운"
+    gender: null
+  - english: "delicious"
+    translation:
+      en: "delicious"
+      ko: "맛있는"
+    gender: null
+  - english: "tasty"
+    translation:
+      en: "tasty"
+      ko: "맛 좋은"
+    gender: null
+  - english: "portion"
+    translation:
+      en: "portion"
+      ko: "1인분 / 양"
+    gender: null
+  - english: "calories"
+    translation:
+      en: "calories"
+      ko: "칼로리"
+    gender: null
+- id: world_cuisines
+  label:
+    en: "World Cuisines"
+    ko: "세계 요리"
+  type: vocabulary
+  words:
+  - english: "Italian food"
+    translation:
+      en: "Italian food"
+      ko: "이탈리아 음식"
+    gender: null
+  - english: "Chinese food"
+    translation:
+      en: "Chinese food"
+      ko: "중국 음식"
+    gender: null
+  - english: "Mexican food"
+    translation:
+      en: "Mexican food"
+      ko: "멕시코 음식"
+    gender: null
+  - english: "Japanese food"
+    translation:
+      en: "Japanese food"
+      ko: "일본 음식"
+    gender: null
+  - english: "Korean food"
+    translation:
+      en: "Korean food"
+      ko: "한국 음식"
+    gender: null
+  - english: "Indian food"
+    translation:
+      en: "Indian food"
+      ko: "인도 음식"
+    gender: null
+  - english: "French food"
+    translation:
+      en: "French food"
+      ko: "프랑스 음식"
+    gender: null
+  - english: "Thai food"
+    translation:
+      en: "Thai food"
+      ko: "태국 음식"
+    gender: null
+  - english: "seafood"
+    translation:
+      en: "seafood"
+      ko: "해산물"
+    gender: null
+  - english: "fast food"
+    translation:
+      en: "fast food"
+      ko: "패스트푸드"
+    gender: null
+  - english: "street food"
+    translation:
+      en: "street food"
+      ko: "길거리 음식"
+    gender: null
+  - english: "barbecue"
+    translation:
+      en: "barbecue"
+      ko: "바비큐"
+    gender: null
+    notes:
+      en: "Often abbreviated as BBQ"
+      ko: "보통 BBQ로 줄여서 사용"
+  - english: "brunch"
+    translation:
+      en: "brunch"
+      ko: "브런치"
+    gender: null
+    notes:
+      en: "Blend of breakfast and lunch"
+      ko: "breakfast와 lunch의 합성어"
+  - english: "cafe"
+    translation:
+      en: "cafe"
+      ko: "카페"
+    gender: null
+  - english: "food truck"
+    translation:
+      en: "food truck"
+      ko: "푸드트럭"
+    gender: null
+  - english: "chef"
+    translation:
+      en: "chef"
+      ko: "셰프"
+    gender: null
+  - english: "cookbook"
+    translation:
+      en: "cookbook"
+      ko: "요리책"
+    gender: null
+  - english: "to taste"
+    translation:
+      en: "to taste"
+      ko: "맛보다"
+    gender: null
+  - english: "flavor"
+    translation:
+      en: "flavor"
+      ko: "맛 / 풍미"
+    gender: null
+    notes:
+      en: "Spelled flavour in British English"
+      ko: "영국 영어에서는 flavour"
+  - english: "aroma"
+    translation:
+      en: "aroma"
+      ko: "향기"
+    gender: null
+- id: kitchen_and_utensils
+  label:
+    en: "Kitchen Utensils"
+    ko: "주방 기구"
+  type: vocabulary
+  words:
+  - english: "fork"
+    translation:
+      en: "fork"
+      ko: "포크"
+    gender: null
+  - english: "knife"
+    translation:
+      en: "knife"
+      ko: "나이프"
+    gender: null
+    notes:
+      en: "Plural: knives; the 'k' is silent"
+      ko: "복수형: knives; 'k'는 묵음"
+  - english: "spoon"
+    translation:
+      en: "spoon"
+      ko: "숟가락"
+    gender: null
+  - english: "chopsticks"
+    translation:
+      en: "chopsticks"
+      ko: "젓가락"
+    gender: null
+  - english: "plate"
+    translation:
+      en: "plate"
+      ko: "접시"
+    gender: null
+  - english: "bowl"
+    translation:
+      en: "bowl"
+      ko: "그릇"
+    gender: null
+  - english: "cup"
+    translation:
+      en: "cup"
+      ko: "컵"
+    gender: null
+  - english: "mug"
+    translation:
+      en: "mug"
+      ko: "머그잔"
+    gender: null
+  - english: "glass"
+    translation:
+      en: "glass"
+      ko: "유리잔"
+    gender: null
+  - english: "tablecloth"
+    translation:
+      en: "tablecloth"
+      ko: "식탁보"
+    gender: null
+  - english: "tray"
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: null
+  - english: "pot"
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: null
+  - english: "pan"
+    translation:
+      en: "pan"
+      ko: "후라이팬"
+    gender: null
+  - english: "wok"
+    translation:
+      en: "wok"
+      ko: "웍 (중화팬)"
+    gender: null
+  - english: "ladle"
+    translation:
+      en: "ladle"
+      ko: "국자"
+    gender: null
+  - english: "spatula"
+    translation:
+      en: "spatula"
+      ko: "뒤집개"
+    gender: null
+  - english: "cutting board"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: null
+  - english: "colander"
+    translation:
+      en: "colander"
+      ko: "체 / 소쿠리"
+    gender: null
+  - english: "whisk"
+    translation:
+      en: "whisk"
+      ko: "거품기"
+    gender: null
+- id: cooking_methods
+  label:
+    en: "Cooking Methods"
+    ko: "조리법"
+  type: vocabulary
+  words:
+  - english: "to grill"
+    translation:
+      en: "to grill"
+      ko: "그릴에 굽다"
+    gender: null
+  - english: "to bake"
+    translation:
+      en: "to bake"
+      ko: "오븐에 굽다"
+    gender: null
+  - english: "to roast"
+    translation:
+      en: "to roast"
+      ko: "구이하다 / 로스트하다"
+    gender: null
+  - english: "to steam"
+    translation:
+      en: "to steam"
+      ko: "찌다"
+    gender: null
+  - english: "to stir-fry"
+    translation:
+      en: "to stir-fry"
+      ko: "볶다"
+    gender: null
+  - english: "to deep-fry"
+    translation:
+      en: "to deep-fry"
+      ko: "튀기다"
+    gender: null
+  - english: "to simmer"
+    translation:
+      en: "to simmer"
+      ko: "약한 불로 끓이다"
+    gender: null
+  - english: "to sauté"
+    translation:
+      en: "to sauté"
+      ko: "소테하다 / 볶다"
+    gender: null
+    notes:
+      en: "French loanword"
+      ko: "프랑스어 차용어"
+  - english: "to marinate"
+    translation:
+      en: "to marinate"
+      ko: "절이다 / 양념에 재우다"
+    gender: null
+  - english: "to dice"
+    translation:
+      en: "to dice"
+      ko: "깍둑썰기 하다"
+    gender: null
+  - english: "to slice"
+    translation:
+      en: "to slice"
+      ko: "얇게 썰다"
+    gender: null
+  - english: "to chop"
+    translation:
+      en: "to chop"
+      ko: "다지다 / 자르다"
+    gender: null
+  - english: "to peel"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+  - english: "to blend"
+    translation:
+      en: "to blend"
+      ko: "섞다 / 갈다"
+    gender: null
+  - english: "to knead"
+    translation:
+      en: "to knead"
+      ko: "반죽하다"
+    gender: null
+    notes:
+      en: "The 'k' is silent"
+      ko: "'k'는 묵음"
+  - english: "to season"
+    translation:
+      en: "to season"
+      ko: "양념하다"
+    gender: null
+  - english: "to garnish"
+    translation:
+      en: "to garnish"
+      ko: "장식하다 / 가니쉬"
+    gender: null
+  - english: "to drain"
+    translation:
+      en: "to drain"
+      ko: "물기를 빼다"
+    gender: null
+  - english: "to stew"
+    translation:
+      en: "to stew"
+      ko: "스튜를 만들다"
+    gender: null
+  - english: "to poach"
+    translation:
+      en: "to poach"
+      ko: "수란을 만들다 / 데치다"
+    gender: null
+- id: food_descriptions
+  label:
+    en: "Food Descriptions"
+    ko: "음식 묘사"
+  type: vocabulary
+  words:
+  - english: "rich"
+    translation:
+      en: "rich"
+      ko: "진한 / 풍부한"
+    gender: null
+  - english: "tender"
+    translation:
+      en: "tender"
+      ko: "연한 / 부드러운"
+    gender: null
+  - english: "crispy"
+    translation:
+      en: "crispy"
+      ko: "바삭한"
+    gender: null
+  - english: "chewy"
+    translation:
+      en: "chewy"
+      ko: "쫄깃한"
+    gender: null
+  - english: "juicy"
+    translation:
+      en: "juicy"
+      ko: "즙이 많은"
+    gender: null
+  - english: "creamy"
+    translation:
+      en: "creamy"
+      ko: "크리미한"
+    gender: null
+  - english: "stale"
+    translation:
+      en: "stale"
+      ko: "상한 / 오래된"
+    gender: null
+  - english: "medium-rare"
+    translation:
+      en: "medium-rare"
+      ko: "미디엄 레어"
+    gender: null
+  - english: "overcooked"
+    translation:
+      en: "overcooked"
+      ko: "너무 익힌"
+    gender: null
+  - english: "undercooked"
+    translation:
+      en: "undercooked"
+      ko: "덜 익힌"
+    gender: null
+  - english: "frozen"
+    translation:
+      en: "frozen"
+      ko: "냉동의"
+    gender: null
+  - english: "canned"
+    translation:
+      en: "canned"
+      ko: "통조림의"
+    gender: null
+  - english: "ingredient"
+    translation:
+      en: "ingredient"
+      ko: "재료"
+    gender: null
+  - english: "recipe"
+    translation:
+      en: "recipe"
+      ko: "조리법 / 레시피"
+    gender: null
+  - english: "seasoning"
+    translation:
+      en: "seasoning"
+      ko: "양념"
+    gender: null
+- id: meals_and_dining
+  label:
+    en: "Meals and Dining Out"
+    ko: "식사 및 외식"
+  type: vocabulary
+  words:
+  - english: "breakfast"
+    translation:
+      en: "breakfast"
+      ko: "아침 식사"
+    gender: null
+  - english: "lunch"
+    translation:
+      en: "lunch"
+      ko: "점심 식사"
+    gender: null
+  - english: "dinner"
+    translation:
+      en: "dinner"
+      ko: "저녁 식사"
+    gender: null
+  - english: "snack"
+    translation:
+      en: "snack"
+      ko: "간식"
+    gender: null
+  - english: "takeaway"
+    translation:
+      en: "takeaway"
+      ko: "포장 음식"
+    gender: null
+    notes:
+      en: "Called takeout in American English"
+      ko: "미국 영어로 takeout"
+  - english: "to reserve"
+    translation:
+      en: "to reserve"
+      ko: "예약하다"
+    gender: null
+  - english: "specialty"
+    translation:
+      en: "specialty"
+      ko: "특선 메뉴 / 전문 요리"
+    gender: null
+  - english: "cafeteria"
+    translation:
+      en: "cafeteria"
+      ko: "구내식당"
+    gender: null
+  - english: "food court"
+    translation:
+      en: "food court"
+      ko: "푸드코트"
+    gender: null
+  - english: "drive-through"
+    translation:
+      en: "drive-through"
+      ko: "드라이브 스루"
+    gender: null
+  - english: "to dine"
+    translation:
+      en: "to dine"
+      ko: "식사하다"
+    gender: null
+  - english: "feast"
+    translation:
+      en: "feast"
+      ko: "성찬 / 잔치"
+    gender: null
+  - english: "leftovers"
+    translation:
+      en: "leftovers"
+      ko: "남은 음식"
+    gender: null
+  - english: "doggy bag"
+    translation:
+      en: "doggy bag"
+      ko: "남은 음식 싸가는 봉투"
+    gender: null
+
+- id: ordering_food
+  label:
+    en: "Ordering Food"
+    ko: "음식 주문"
+  type: vocabulary
+  words:
+  - english: "beverage"
+    translation:
+      en: "beverage"
+      ko: "음료"
+    gender: null
+  - english: "special of the day"
+    translation:
+      en: "special of the day"
+      ko: "오늘의 특별 메뉴"
+    gender: null
+  - english: "chef's recommendation"
+    translation:
+      en: "chef's recommendation"
+      ko: "셰프 추천"
+    gender: null
+  - english: "host"
+    translation:
+      en: "host"
+      ko: "안내 직원"
+    gender: null
+  - english: "table for two"
+    translation:
+      en: "table for two"
+      ko: "2인 테이블"
+    gender: null
+
+- id: food_preparation
+  label:
+    en: "Food Preparation"
+    ko: "음식 조리법"
+  type: vocabulary
+  words:
+  - english: "boiled"
+    translation:
+      en: "boiled"
+      ko: "삶은"
+    gender: null
+  - english: "smoked"
+    translation:
+      en: "smoked"
+      ko: "훈제한"
+    gender: null
+  - english: "pickled"
+    translation:
+      en: "pickled"
+      ko: "절인"
+    gender: null
+  - english: "marinated"
+    translation:
+      en: "marinated"
+      ko: "양념에 재운"
+    gender: null
+
+- id: dining_etiquette
+  label:
+    en: "Dining Etiquette"
+    ko: "식사 예절"
+  type: vocabulary
+  words:
+  - english: "toast"
+    translation:
+      en: "toast"
+      ko: "건배"
+    gender: null
+  - english: "bon appétit"
+    translation:
+      en: "bon appétit"
+      ko: "맛있게 드세요"
+    gender: null
+  - english: "take-out"
+    translation:
+      en: "take-out"
+      ko: "테이크아웃"
+    gender: null
+  - english: "delivery"
+    translation:
+      en: "delivery"
+      ko: "배달"
+    gender: null
+  - english: "potluck"
+    translation:
+      en: "potluck"
+      ko: "각자 음식 가져오기"
+    gender: null
+  - english: "happy hour"
+    translation:
+      en: "happy hour"
+      ko: "해피 아워"
+    gender: null
+  - english: "complimentary"
+    translation:
+      en: "complimentary"
+      ko: "무료 제공"
+    gender: null
+
+- id: types_of_restaurants
+  label:
+    en: "Types of Restaurants"
+    ko: "음식점 유형"
+  type: vocabulary
+  words:
+  - english: "café"
+    translation:
+      en: "café"
+      ko: "카페"
+    gender: null
+  - english: "diner"
+    translation:
+      en: "diner"
+      ko: "다이너"
+    gender: null
+  - english: "fine dining"
+    translation:
+      en: "fine dining"
+      ko: "고급 식당"
+    gender: null
+  - english: "takeout restaurant"
+    translation:
+      en: "takeout restaurant"
+      ko: "포장 음식점"
+    gender: null
+  - english: "food stall"
+    translation:
+      en: "food stall"
+      ko: "음식 노점"
+    gender: null
+  - english: "pizzeria"
+    translation:
+      en: "pizzeria"
+      ko: "피자 전문점"
+    gender: null
+  - english: "steakhouse"
+    translation:
+      en: "steakhouse"
+      ko: "스테이크하우스"
+    gender: null
+  - english: "seafood restaurant"
+    translation:
+      en: "seafood restaurant"
+      ko: "해산물 식당"
+    gender: null
+  - english: "vegetarian restaurant"
+    translation:
+      en: "vegetarian restaurant"
+      ko: "채식 식당"
+    gender: null
+  - english: "sushi bar"
+    translation:
+      en: "sushi bar"
+      ko: "초밥집"
+    gender: null
+  - english: "noodle shop"
+    translation:
+      en: "noodle shop"
+      ko: "국수집"
+    gender: null
+  - english: "pub"
+    translation:
+      en: "pub"
+      ko: "펍"
+    gender: null
+
+- id: flavors_and_tastes
+  label:
+    en: "Flavors and Tastes"
+    ko: "맛"
+  type: vocabulary
+  words:
+  - english: "crunchy"
+    translation:
+      en: "crunchy"
+      ko: "바삭바삭한"
+    gender: null
+  - english: "tangy"
+    translation:
+      en: "tangy"
+      ko: "톡 쏘는"
+    gender: null
+  - english: "aromatic"
+    translation:
+      en: "aromatic"
+      ko: "향이 좋은"
+    gender: null
+  - english: "refreshing"
+    translation:
+      en: "refreshing"
+      ko: "상쾌한"
+    gender: null
+  - english: "hearty"
+    translation:
+      en: "hearty"
+      ko: "든든한"
+    gender: null
+  - english: "delicate"
+    translation:
+      en: "delicate"
+      ko: "섬세한"
+    gender: null
+  - english: "zesty"
+    translation:
+      en: "zesty"
+      ko: "풍미가 있는"
+    gender: null
+
+- id: drinks_menu
+  label:
+    en: "Drinks Menu"
+    ko: "음료 메뉴"
+  type: vocabulary
+  words:
+  - english: "sparkling water"
+    translation:
+      en: "sparkling water"
+      ko: "탄산수"
+    gender: null
+  - english: "still water"
+    translation:
+      en: "still water"
+      ko: "생수"
+    gender: null
+  - english: "lemonade"
+    translation:
+      en: "lemonade"
+      ko: "레모네이드"
+    gender: null
+  - english: "iced tea"
+    translation:
+      en: "iced tea"
+      ko: "아이스티"
+    gender: null
+  - english: "hot chocolate"
+    translation:
+      en: "hot chocolate"
+      ko: "핫초코"
+    gender: null
+  - english: "smoothie"
+    translation:
+      en: "smoothie"
+      ko: "스무디"
+    gender: null
+  - english: "milkshake"
+    translation:
+      en: "milkshake"
+      ko: "밀크셰이크"
+    gender: null
+  - english: "espresso"
+    translation:
+      en: "espresso"
+      ko: "에스프레소"
+    gender: null
+  - english: "cappuccino"
+    translation:
+      en: "cappuccino"
+      ko: "카푸치노"
+    gender: null
+  - english: "latte"
+    translation:
+      en: "latte"
+      ko: "라떼"
+    gender: null
+  - english: "decaf"
+    translation:
+      en: "decaf"
+      ko: "디카페인"
+    gender: null
+  - english: "herbal tea"
+    translation:
+      en: "herbal tea"
+      ko: "허브차"
+    gender: null
+  - english: "freshly squeezed juice"
+    translation:
+      en: "freshly squeezed juice"
+      ko: "생과일 주스"
+    gender: null
+  - english: "mocktail"
+    translation:
+      en: "mocktail"
+      ko: "목테일"
+    gender: null
+  - english: "soft drink"
+    translation:
+      en: "soft drink"
+      ko: "청량음료"
+    gender: null
+  - english: "draft beer"
+    translation:
+      en: "draft beer"
+      ko: "생맥주"
+    gender: null

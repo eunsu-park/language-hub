@@ -1,0 +1,375 @@
+lesson: 03_Articles_Nouns_and_Plurals
+lesson_number: 3
+cefr: A1
+categories:
+- id: 11_articles
+  label:
+    en: "1.1 Articles"
+    ko: "1.1 관사"
+  type: vocabulary
+  words:
+  - english: article
+    translation:
+      en: a word (a, an, the) used before a noun
+      ko: 관사
+    gender: null
+    notes:
+      en: Korean has no articles — this is the hardest grammar point
+      ko: 한국어에는 관사가 없음 — 가장 어려운 문법 사항
+  - english: a
+    translation:
+      en: indefinite article used before consonant sounds
+      ko: 부정관사 (자음 소리 앞)
+    gender: null
+  - english: an
+    translation:
+      en: indefinite article used before vowel sounds
+      ko: 부정관사 (모음 소리 앞)
+    gender: null
+    notes:
+      en: "Based on SOUND, not spelling: 'an hour' but 'a university'"
+      ko: "철자가 아닌 소리 기준: 'an hour'이지만 'a university'"
+  - english: the
+    translation:
+      en: definite article — refers to something specific or already known
+      ko: 정관사
+    gender: null
+  - english: zero article
+    translation:
+      en: using no article before a noun
+      ko: 무관사
+    gender: null
+    notes:
+      en: "Used for general plurals and uncountables: 'Dogs are loyal.'"
+      ko: "일반적인 복수형과 불가산 명사: 'Dogs are loyal.'"
+- id: 12_common_nouns
+  label:
+    en: "1.2 Common Nouns"
+    ko: "1.2 일반 명사"
+  type: vocabulary
+  words:
+  - english: noun
+    translation:
+      en: a word that names a person, place, thing, or idea
+      ko: 명사
+    gender: null
+  - english: book
+    translation:
+      en: a written work with pages bound together
+      ko: 책
+    gender: null
+  - english: table
+    translation:
+      en: a piece of furniture with a flat top
+      ko: 탁자
+    gender: null
+  - english: chair
+    translation:
+      en: a piece of furniture for sitting
+      ko: 의자
+    gender: null
+  - english: door
+    translation:
+      en: a panel that opens and closes an entrance
+      ko: 문
+    gender: null
+  - english: window
+    translation:
+      en: an opening in a wall with glass
+      ko: 창문
+    gender: null
+  - english: car
+    translation:
+      en: a motor vehicle for transportation
+      ko: 자동차
+    gender: null
+  - english: house
+    translation:
+      en: a building for living in
+      ko: 집
+    gender: null
+  - english: dog
+    translation:
+      en: a common domestic animal
+      ko: 개
+    gender: null
+  - english: cat
+    translation:
+      en: a small domestic feline
+      ko: 고양이
+    gender: null
+  - english: apple
+    translation:
+      en: a round fruit
+      ko: 사과
+    gender: null
+  - english: water
+    translation:
+      en: a clear liquid for drinking
+      ko: 물
+    gender: null
+    notes:
+      en: Uncountable — say 'a glass of water', not 'a water'
+      ko: 불가산 명사 — 'a water'가 아니라 'a glass of water'
+- id: 13_countable_vs_uncountable
+  label:
+    en: "1.3 Countable vs Uncountable Nouns"
+    ko: "1.3 가산 명사 vs 불가산 명사"
+  type: vocabulary
+  words:
+  - english: countable noun
+    translation:
+      en: a noun that can be counted (one book, two books)
+      ko: 가산 명사 (셀 수 있는 명사)
+    gender: null
+  - english: uncountable noun
+    translation:
+      en: a noun that cannot be counted individually
+      ko: 불가산 명사 (셀 수 없는 명사)
+    gender: null
+    notes:
+      en: Korean does not have this distinction
+      ko: 한국어에는 이 구분이 없음
+  - english: information
+    translation:
+      en: facts or knowledge about something
+      ko: 정보
+    gender: null
+    notes:
+      en: "Uncountable — 'a piece of information', NOT 'an information'"
+      ko: "불가산 — 'a piece of information'이지 'an information'이 아님"
+  - english: advice
+    translation:
+      en: suggestions about what to do
+      ko: 조언
+    gender: null
+    notes:
+      en: "Uncountable — 'a piece of advice', NOT 'an advice'"
+      ko: "불가산 — 'a piece of advice'이지 'an advice'가 아님"
+  - english: furniture
+    translation:
+      en: objects like tables, chairs, and beds
+      ko: 가구
+    gender: null
+    notes:
+      en: "Uncountable — 'a piece of furniture', NOT 'a furniture'"
+      ko: "불가산 — 'a piece of furniture'이지 'a furniture'가 아님"
+  - english: luggage
+    translation:
+      en: bags and suitcases for travel
+      ko: 짐
+    gender: null
+    notes:
+      en: "Uncountable — 'a piece of luggage', NOT 'a luggage'"
+      ko: "불가산 — 'a piece of luggage'이지 'a luggage'가 아님"
+  - english: news
+    translation:
+      en: new information about recent events
+      ko: 뉴스
+    gender: null
+    notes:
+      en: "Uncountable and takes singular verb: 'The news IS good.'"
+      ko: "불가산이며 단수 동사 사용: 'The news IS good.'"
+  - english: homework
+    translation:
+      en: work assigned to do at home
+      ko: 숙제
+    gender: null
+    notes:
+      en: Uncountable in English
+      ko: 영어에서는 불가산 명사
+  - english: money
+    translation:
+      en: currency used to buy things
+      ko: 돈
+    gender: null
+    notes:
+      en: Uncountable in English
+      ko: 영어에서는 불가산 명사
+  - english: rice
+    translation:
+      en: a grain used as food
+      ko: 쌀, 밥
+    gender: null
+    notes:
+      en: Uncountable — cannot say 'a rice' or 'rices'
+      ko: 불가산 — 'a rice'나 'rices'라고 할 수 없음
+  - english: bread
+    translation:
+      en: a baked food made from flour
+      ko: 빵
+    gender: null
+    notes:
+      en: "Uncountable — 'a slice of bread', 'a loaf of bread'"
+      ko: "불가산 — 'a slice of bread', 'a loaf of bread'"
+  - english: a glass of
+    translation:
+      en: a container amount of liquid
+      ko: 한 잔의
+    gender: null
+  - english: a piece of
+    translation:
+      en: a single item or portion of something
+      ko: 한 조각의 / 한 가지의
+    gender: null
+  - english: a slice of
+    translation:
+      en: a thin flat piece cut from something
+      ko: 한 조각의 (얇게 자른)
+    gender: null
+- id: 14_plural_formation
+  label:
+    en: "1.4 Plural Formation"
+    ko: "1.4 복수형 만들기"
+  type: vocabulary
+  words:
+  - english: singular
+    translation:
+      en: referring to one person or thing
+      ko: 단수
+    gender: null
+  - english: plural
+    translation:
+      en: referring to more than one person or thing
+      ko: 복수
+    gender: null
+  - english: books
+    translation:
+      en: plural of book — add -s
+      ko: 책들 (book의 복수형)
+    gender: null
+  - english: boxes
+    translation:
+      en: plural of box — add -es after -x
+      ko: 상자들 (box의 복수형)
+    gender: null
+  - english: buses
+    translation:
+      en: plural of bus — add -es after -s
+      ko: 버스들 (bus의 복수형)
+    gender: null
+  - english: dishes
+    translation:
+      en: plural of dish — add -es after -sh
+      ko: 접시들 (dish의 복수형)
+    gender: null
+  - english: watches
+    translation:
+      en: plural of watch — add -es after -ch
+      ko: 시계들 (watch의 복수형)
+    gender: null
+  - english: cities
+    translation:
+      en: plural of city — change -y to -ies
+      ko: 도시들 (city의 복수형)
+    gender: null
+  - english: babies
+    translation:
+      en: plural of baby — change -y to -ies
+      ko: 아기들 (baby의 복수형)
+    gender: null
+  - english: knives
+    translation:
+      en: plural of knife — change -fe to -ves
+      ko: 칼들 (knife의 복수형)
+    gender: null
+  - english: leaves
+    translation:
+      en: plural of leaf — change -f to -ves
+      ko: 나뭇잎들 (leaf의 복수형)
+    gender: null
+  - english: tomatoes
+    translation:
+      en: plural of tomato — add -es after -o
+      ko: 토마토들 (tomato의 복수형)
+    gender: null
+- id: 15_irregular_plurals
+  label:
+    en: "1.5 Irregular Plurals"
+    ko: "1.5 불규칙 복수형"
+  type: vocabulary
+  words:
+  - english: man / men
+    translation:
+      en: one man, two or more men
+      ko: 남자 / 남자들
+    gender: null
+  - english: woman / women
+    translation:
+      en: one woman, two or more women
+      ko: 여자 / 여자들
+    gender: null
+  - english: child / children
+    translation:
+      en: one child, two or more children
+      ko: 아이 / 아이들
+    gender: null
+  - english: tooth / teeth
+    translation:
+      en: one tooth, two or more teeth
+      ko: 이빨 / 이빨들
+    gender: null
+  - english: foot / feet
+    translation:
+      en: one foot, two or more feet
+      ko: 발 / 발들
+    gender: null
+  - english: mouse / mice
+    translation:
+      en: one mouse, two or more mice
+      ko: 쥐 / 쥐들
+    gender: null
+  - english: sheep / sheep
+    translation:
+      en: same form for singular and plural
+      ko: 양 (단복수 동형)
+    gender: null
+  - english: fish / fish
+    translation:
+      en: same form for singular and plural
+      ko: 물고기 (단복수 동형)
+    gender: null
+  - english: person / people
+    translation:
+      en: one person, two or more people
+      ko: 사람 / 사람들
+    gender: null
+- id: 16_demonstratives
+  label:
+    en: "1.6 Demonstratives"
+    ko: "1.6 지시사"
+  type: vocabulary
+  words:
+  - english: this
+    translation:
+      en: refers to something near the speaker (singular)
+      ko: 이것
+    gender: null
+  - english: that
+    translation:
+      en: refers to something far from the speaker (singular)
+      ko: 저것
+    gender: null
+  - english: these
+    translation:
+      en: refers to things near the speaker (plural)
+      ko: 이것들
+    gender: null
+  - english: those
+    translation:
+      en: refers to things far from the speaker (plural)
+      ko: 저것들
+    gender: null
+    notes:
+      en: "English 'that' covers both Korean 그 and 저"
+      ko: "영어 'that'은 한국어 '그'와 '저' 모두에 해당"
+  - english: this morning
+    translation:
+      en: the morning of today
+      ko: 오늘 아침
+    gender: null
+  - english: this week
+    translation:
+      en: the current week
+      ko: 이번 주
+    gender: null

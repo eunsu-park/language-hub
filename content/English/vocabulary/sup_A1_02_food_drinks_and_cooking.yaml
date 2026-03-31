@@ -1,0 +1,964 @@
+lesson: "sup_A1_Food_Drinks_and_Cooking"
+lesson_number: 102
+cefr: A1
+type: supplementary
+topic: "Food, Drinks, and Cooking"
+categories:
+- id: fruits
+  label:
+    en: "Fruits"
+    ko: "과일"
+  type: vocabulary
+  words:
+  - english: "apple"
+    translation:
+      en: "apple"
+      ko: "사과"
+    gender: null
+  - english: "banana"
+    translation:
+      en: "banana"
+      ko: "바나나"
+    gender: null
+  - english: "orange"
+    translation:
+      en: "orange"
+      ko: "오렌지"
+    gender: null
+    notes:
+      en: "Also a color"
+      ko: "색상 이름이기도 함"
+  - english: "grape"
+    translation:
+      en: "grape"
+      ko: "포도"
+    gender: null
+  - english: "strawberry"
+    translation:
+      en: "strawberry"
+      ko: "딸기"
+    gender: null
+  - english: "watermelon"
+    translation:
+      en: "watermelon"
+      ko: "수박"
+    gender: null
+  - english: "peach"
+    translation:
+      en: "peach"
+      ko: "복숭아"
+    gender: null
+  - english: "pear"
+    translation:
+      en: "pear"
+      ko: "배"
+    gender: null
+  - english: "lemon"
+    translation:
+      en: "lemon"
+      ko: "레몬"
+    gender: null
+  - english: "cherry"
+    translation:
+      en: "cherry"
+      ko: "체리"
+    gender: null
+  - english: "pineapple"
+    translation:
+      en: "pineapple"
+      ko: "파인애플"
+    gender: null
+  - english: "mango"
+    translation:
+      en: "mango"
+      ko: "망고"
+    gender: null
+  - english: "blueberry"
+    translation:
+      en: "blueberry"
+      ko: "블루베리"
+    gender: null
+  - english: "raspberry"
+    translation:
+      en: "raspberry"
+      ko: "라즈베리"
+    gender: null
+  - english: "plum"
+    translation:
+      en: "plum"
+      ko: "자두"
+    gender: null
+  - english: "melon"
+    translation:
+      en: "melon"
+      ko: "멜론"
+    gender: null
+  - english: "coconut"
+    translation:
+      en: "coconut"
+      ko: "코코넛"
+    gender: null
+  - english: "lime"
+    translation:
+      en: "lime"
+      ko: "라임"
+    gender: null
+  - english: "avocado"
+    translation:
+      en: "avocado"
+      ko: "아보카도"
+    gender: null
+    notes:
+      en: "Technically a fruit, often used as a vegetable"
+      ko: "기술적으로 과일이나 채소처럼 사용"
+  - english: "kiwi"
+    translation:
+      en: "kiwi"
+      ko: "키위"
+    gender: null
+- id: vegetables
+  label:
+    en: "Vegetables"
+    ko: "채소"
+  type: vocabulary
+  words:
+  - english: "tomato"
+    translation:
+      en: "tomato"
+      ko: "토마토"
+    gender: null
+    notes:
+      en: "Plural: tomatoes"
+      ko: "복수형: tomatoes"
+  - english: "potato"
+    translation:
+      en: "potato"
+      ko: "감자"
+    gender: null
+    notes:
+      en: "Plural: potatoes"
+      ko: "복수형: potatoes"
+  - english: "onion"
+    translation:
+      en: "onion"
+      ko: "양파"
+    gender: null
+  - english: "carrot"
+    translation:
+      en: "carrot"
+      ko: "당근"
+    gender: null
+  - english: "lettuce"
+    translation:
+      en: "lettuce"
+      ko: "상추"
+    gender: null
+  - english: "cucumber"
+    translation:
+      en: "cucumber"
+      ko: "오이"
+    gender: null
+  - english: "pepper"
+    translation:
+      en: "pepper"
+      ko: "고추 / 피망"
+    gender: null
+    notes:
+      en: "Bell pepper is sweet; chili pepper is hot"
+      ko: "bell pepper는 단맛; chili pepper는 매운맛"
+  - english: "broccoli"
+    translation:
+      en: "broccoli"
+      ko: "브로콜리"
+    gender: null
+  - english: "spinach"
+    translation:
+      en: "spinach"
+      ko: "시금치"
+    gender: null
+  - english: "corn"
+    translation:
+      en: "corn"
+      ko: "옥수수"
+    gender: null
+    notes:
+      en: "Called maize in British English"
+      ko: "영국 영어로 maize"
+  - english: "mushroom"
+    translation:
+      en: "mushroom"
+      ko: "버섯"
+    gender: null
+  - english: "garlic"
+    translation:
+      en: "garlic"
+      ko: "마늘"
+    gender: null
+  - english: "cabbage"
+    translation:
+      en: "cabbage"
+      ko: "양배추"
+    gender: null
+  - english: "pea"
+    translation:
+      en: "pea"
+      ko: "완두콩"
+    gender: null
+  - english: "bean"
+    translation:
+      en: "bean"
+      ko: "콩"
+    gender: null
+  - english: "eggplant"
+    translation:
+      en: "eggplant"
+      ko: "가지"
+    gender: null
+    notes:
+      en: "Called aubergine in British English"
+      ko: "영국 영어로 aubergine"
+  - english: "celery"
+    translation:
+      en: "celery"
+      ko: "셀러리"
+    gender: null
+  - english: "pumpkin"
+    translation:
+      en: "pumpkin"
+      ko: "호박"
+    gender: null
+  - english: "radish"
+    translation:
+      en: "radish"
+      ko: "무"
+    gender: null
+  - english: "zucchini"
+    translation:
+      en: "zucchini"
+      ko: "주키니호박"
+    gender: null
+    notes:
+      en: "Called courgette in British English"
+      ko: "영국 영어로 courgette"
+- id: meats_and_proteins
+  label:
+    en: "Meats and Proteins"
+    ko: "육류 및 단백질"
+  type: vocabulary
+  words:
+  - english: "meat"
+    translation:
+      en: "meat"
+      ko: "고기"
+    gender: null
+  - english: "beef"
+    translation:
+      en: "beef"
+      ko: "소고기"
+    gender: null
+  - english: "pork"
+    translation:
+      en: "pork"
+      ko: "돼지고기"
+    gender: null
+  - english: "chicken"
+    translation:
+      en: "chicken"
+      ko: "닭고기"
+    gender: null
+  - english: "fish"
+    translation:
+      en: "fish"
+      ko: "생선"
+    gender: null
+    notes:
+      en: "Plural: fish (same species) or fishes (multiple species)"
+      ko: "복수형: fish (같은 종) 또는 fishes (여러 종)"
+  - english: "shrimp"
+    translation:
+      en: "shrimp"
+      ko: "새우"
+    gender: null
+    notes:
+      en: "Called prawn in British English for larger varieties"
+      ko: "큰 종류는 영국 영어로 prawn"
+  - english: "ham"
+    translation:
+      en: "ham"
+      ko: "햄"
+    gender: null
+  - english: "sausage"
+    translation:
+      en: "sausage"
+      ko: "소시지"
+    gender: null
+  - english: "bacon"
+    translation:
+      en: "bacon"
+      ko: "베이컨"
+    gender: null
+  - english: "steak"
+    translation:
+      en: "steak"
+      ko: "스테이크"
+    gender: null
+  - english: "egg"
+    translation:
+      en: "egg"
+      ko: "달걀"
+    gender: null
+  - english: "tofu"
+    translation:
+      en: "tofu"
+      ko: "두부"
+    gender: null
+  - english: "turkey"
+    translation:
+      en: "turkey"
+      ko: "칠면조 고기"
+    gender: null
+  - english: "salmon"
+    translation:
+      en: "salmon"
+      ko: "연어"
+    gender: null
+    notes:
+      en: "The 'l' is silent"
+      ko: "'l'은 묵음"
+  - english: "tuna"
+    translation:
+      en: "tuna"
+      ko: "참치"
+    gender: null
+- id: beverages
+  label:
+    en: "Beverages"
+    ko: "음료"
+  type: vocabulary
+  words:
+  - english: "water"
+    translation:
+      en: "water"
+      ko: "물"
+    gender: null
+  - english: "milk"
+    translation:
+      en: "milk"
+      ko: "우유"
+    gender: null
+  - english: "juice"
+    translation:
+      en: "juice"
+      ko: "주스"
+    gender: null
+  - english: "coffee"
+    translation:
+      en: "coffee"
+      ko: "커피"
+    gender: null
+  - english: "tea"
+    translation:
+      en: "tea"
+      ko: "차"
+    gender: null
+  - english: "soda"
+    translation:
+      en: "soda"
+      ko: "탄산음료"
+    gender: null
+    notes:
+      en: "Also called pop, soft drink, or fizzy drink"
+      ko: "pop, soft drink, fizzy drink이라고도 함"
+  - english: "beer"
+    translation:
+      en: "beer"
+      ko: "맥주"
+    gender: null
+  - english: "wine"
+    translation:
+      en: "wine"
+      ko: "와인"
+    gender: null
+  - english: "lemonade"
+    translation:
+      en: "lemonade"
+      ko: "레모네이드"
+    gender: null
+  - english: "hot chocolate"
+    translation:
+      en: "hot chocolate"
+      ko: "핫초코"
+    gender: null
+  - english: "smoothie"
+    translation:
+      en: "smoothie"
+      ko: "스무디"
+    gender: null
+  - english: "milkshake"
+    translation:
+      en: "milkshake"
+      ko: "밀크셰이크"
+    gender: null
+  - english: "iced tea"
+    translation:
+      en: "iced tea"
+      ko: "아이스티"
+    gender: null
+  - english: "mineral water"
+    translation:
+      en: "mineral water"
+      ko: "미네랄 워터 / 탄산수"
+    gender: null
+  - english: "sparkling water"
+    translation:
+      en: "sparkling water"
+      ko: "탄산수"
+    gender: null
+  - english: "espresso"
+    translation:
+      en: "espresso"
+      ko: "에스프레소"
+    gender: null
+  - english: "cappuccino"
+    translation:
+      en: "cappuccino"
+      ko: "카푸치노"
+    gender: null
+  - english: "herbal tea"
+    translation:
+      en: "herbal tea"
+      ko: "허브차"
+    gender: null
+  - english: "straw"
+    translation:
+      en: "straw"
+      ko: "빨대"
+    gender: null
+  - english: "tap water"
+    translation:
+      en: "tap water"
+      ko: "수돗물"
+    gender: null
+  - english: "to pour"
+    translation:
+      en: "to pour"
+      ko: "따르다"
+    gender: null
+  - english: "to sip"
+    translation:
+      en: "to sip"
+      ko: "홀짝이다"
+    gender: null
+  - english: "to gulp"
+    translation:
+      en: "to gulp"
+      ko: "꿀꺽 삼키다"
+    gender: null
+  - english: "to brew"
+    translation:
+      en: "to brew"
+      ko: "끓이다 / 우려내다"
+    gender: null
+- id: basic_cooking_terms
+  label:
+    en: "Basic Cooking Terms"
+    ko: "기본 요리 용어"
+  type: vocabulary
+  words:
+  - english: "to cook"
+    translation:
+      en: "to cook"
+      ko: "요리하다"
+    gender: null
+  - english: "to boil"
+    translation:
+      en: "to boil"
+      ko: "끓이다"
+    gender: null
+  - english: "to fry"
+    translation:
+      en: "to fry"
+      ko: "튀기다 / 볶다"
+    gender: null
+  - english: "to bake"
+    translation:
+      en: "to bake"
+      ko: "굽다 (오븐)"
+    gender: null
+  - english: "to grill"
+    translation:
+      en: "to grill"
+      ko: "굽다 (그릴)"
+    gender: null
+  - english: "to cut"
+    translation:
+      en: "to cut"
+      ko: "자르다"
+    gender: null
+  - english: "to mix"
+    translation:
+      en: "to mix"
+      ko: "섞다"
+    gender: null
+  - english: "to stir"
+    translation:
+      en: "to stir"
+      ko: "젓다"
+    gender: null
+  - english: "to peel"
+    translation:
+      en: "to peel"
+      ko: "껍질을 벗기다"
+    gender: null
+  - english: "to slice"
+    translation:
+      en: "to slice"
+      ko: "얇게 썰다"
+    gender: null
+  - english: "to chop"
+    translation:
+      en: "to chop"
+      ko: "잘게 썰다"
+    gender: null
+  - english: "recipe"
+    translation:
+      en: "recipe"
+      ko: "조리법"
+    gender: null
+  - english: "ingredient"
+    translation:
+      en: "ingredient"
+      ko: "재료"
+    gender: null
+  - english: "meal"
+    translation:
+      en: "meal"
+      ko: "식사"
+    gender: null
+  - english: "breakfast"
+    translation:
+      en: "breakfast"
+      ko: "아침 식사"
+    gender: null
+  - english: "lunch"
+    translation:
+      en: "lunch"
+      ko: "점심 식사"
+    gender: null
+  - english: "dinner"
+    translation:
+      en: "dinner"
+      ko: "저녁 식사"
+    gender: null
+  - english: "snack"
+    translation:
+      en: "snack"
+      ko: "간식"
+    gender: null
+  - english: "dessert"
+    translation:
+      en: "dessert"
+      ko: "디저트"
+    gender: null
+    notes:
+      en: "Two s's — desert (one s) is a dry place"
+      ko: "s가 두 개 — desert(s 하나)는 사막"
+  - english: "plate"
+    translation:
+      en: "plate"
+      ko: "접시"
+    gender: null
+  - english: "bowl"
+    translation:
+      en: "bowl"
+      ko: "그릇"
+    gender: null
+  - english: "cup"
+    translation:
+      en: "cup"
+      ko: "컵"
+    gender: null
+  - english: "glass"
+    translation:
+      en: "glass"
+      ko: "유리잔"
+    gender: null
+  - english: "knife"
+    translation:
+      en: "knife"
+      ko: "칼"
+    gender: null
+    notes:
+      en: "The 'k' is silent; plural: knives"
+      ko: "'k'는 묵음; 복수형: knives"
+  - english: "fork"
+    translation:
+      en: "fork"
+      ko: "포크"
+    gender: null
+  - english: "spoon"
+    translation:
+      en: "spoon"
+      ko: "숟가락"
+    gender: null
+  - english: "pan"
+    translation:
+      en: "pan"
+      ko: "팬 / 프라이팬"
+    gender: null
+  - english: "pot"
+    translation:
+      en: "pot"
+      ko: "냄비"
+    gender: null
+  - english: "oven"
+    translation:
+      en: "oven"
+      ko: "오븐"
+    gender: null
+  - english: "stove"
+    translation:
+      en: "stove"
+      ko: "가스레인지"
+    gender: null
+- id: dairy_and_staples
+  label:
+    en: "Dairy and Staples"
+    ko: "유제품 및 주식"
+  type: vocabulary
+  words:
+  - english: "bread"
+    translation:
+      en: "bread"
+      ko: "빵"
+    gender: null
+  - english: "rice"
+    translation:
+      en: "rice"
+      ko: "쌀 / 밥"
+    gender: null
+  - english: "pasta"
+    translation:
+      en: "pasta"
+      ko: "파스타"
+    gender: null
+  - english: "cheese"
+    translation:
+      en: "cheese"
+      ko: "치즈"
+    gender: null
+  - english: "butter"
+    translation:
+      en: "butter"
+      ko: "버터"
+    gender: null
+  - english: "yogurt"
+    translation:
+      en: "yogurt"
+      ko: "요거트"
+    gender: null
+  - english: "cream"
+    translation:
+      en: "cream"
+      ko: "크림"
+    gender: null
+  - english: "cereal"
+    translation:
+      en: "cereal"
+      ko: "시리얼"
+    gender: null
+  - english: "flour"
+    translation:
+      en: "flour"
+      ko: "밀가루"
+    gender: null
+  - english: "sugar"
+    translation:
+      en: "sugar"
+      ko: "설탕"
+    gender: null
+  - english: "salt"
+    translation:
+      en: "salt"
+      ko: "소금"
+    gender: null
+  - english: "oil"
+    translation:
+      en: "oil"
+      ko: "기름"
+    gender: null
+  - english: "vinegar"
+    translation:
+      en: "vinegar"
+      ko: "식초"
+    gender: null
+  - english: "sauce"
+    translation:
+      en: "sauce"
+      ko: "소스"
+    gender: null
+  - english: "soup"
+    translation:
+      en: "soup"
+      ko: "수프"
+    gender: null
+  - english: "noodle"
+    translation:
+      en: "noodle"
+      ko: "면 / 국수"
+    gender: null
+  - english: "sandwich"
+    translation:
+      en: "sandwich"
+      ko: "샌드위치"
+    gender: null
+  - english: "salad"
+    translation:
+      en: "salad"
+      ko: "샐러드"
+    gender: null
+  - english: "cake"
+    translation:
+      en: "cake"
+      ko: "케이크"
+    gender: null
+  - english: "cookie"
+    translation:
+      en: "cookie"
+      ko: "쿠키"
+    gender: null
+    notes:
+      en: "Called biscuit in British English"
+      ko: "영국 영어로 biscuit"
+  - english: "chocolate"
+    translation:
+      en: "chocolate"
+      ko: "초콜릿"
+    gender: null
+  - english: "ice cream"
+    translation:
+      en: "ice cream"
+      ko: "아이스크림"
+    gender: null
+  - english: "honey"
+    translation:
+      en: "honey"
+      ko: "꿀"
+    gender: null
+  - english: "jam"
+    translation:
+      en: "jam"
+      ko: "잼"
+    gender: null
+    notes:
+      en: "Called jelly in American English (different from UK jelly)"
+      ko: "미국 영어로 jelly (영국 영어의 jelly와 다름)"
+  - english: "oatmeal"
+    translation:
+      en: "oatmeal"
+      ko: "오트밀"
+    gender: null
+  - english: "yeast"
+    translation:
+      en: "yeast"
+      ko: "이스트 / 효모"
+    gender: null
+  - english: "mustard"
+    translation:
+      en: "mustard"
+      ko: "겨자"
+    gender: null
+  - english: "ketchup"
+    translation:
+      en: "ketchup"
+      ko: "케첩"
+    gender: null
+  - english: "mayonnaise"
+    translation:
+      en: "mayonnaise"
+      ko: "마요네즈"
+    gender: null
+  - english: "soy sauce"
+    translation:
+      en: "soy sauce"
+      ko: "간장"
+    gender: null
+  - english: "dough"
+    translation:
+      en: "dough"
+      ko: "반죽"
+    gender: null
+    notes:
+      en: "Rhymes with 'go', not 'cough'"
+      ko: "'go'와 같은 발음, 'cough'와 다름"
+  - english: "syrup"
+    translation:
+      en: "syrup"
+      ko: "시럽"
+    gender: null
+  - english: "gravy"
+    translation:
+      en: "gravy"
+      ko: "그레이비 (고기즙 소스)"
+    gender: null
+- id: snacks_and_sweets
+  label:
+    en: "Snacks and Sweets"
+    ko: "간식 및 과자류"
+  type: vocabulary
+  words:
+  - english: "candy"
+    translation:
+      en: "candy"
+      ko: "사탕"
+    gender: null
+    notes:
+      en: "Called sweets in British English"
+      ko: "영국 영어로 sweets"
+  - english: "chips"
+    translation:
+      en: "chips"
+      ko: "감자칩"
+    gender: null
+    notes:
+      en: "Called crisps in British English; chips in UK means fries"
+      ko: "영국 영어로 crisps; 영국에서 chips는 감자튀김"
+  - english: "popcorn"
+    translation:
+      en: "popcorn"
+      ko: "팝콘"
+    gender: null
+  - english: "cracker"
+    translation:
+      en: "cracker"
+      ko: "크래커"
+    gender: null
+  - english: "pretzel"
+    translation:
+      en: "pretzel"
+      ko: "프레첼"
+    gender: null
+  - english: "donut"
+    translation:
+      en: "donut"
+      ko: "도넛"
+    gender: null
+    notes:
+      en: "Also spelled doughnut"
+      ko: "doughnut이라고도 씀"
+  - english: "muffin"
+    translation:
+      en: "muffin"
+      ko: "머핀"
+    gender: null
+  - english: "brownie"
+    translation:
+      en: "brownie"
+      ko: "브라우니"
+    gender: null
+  - english: "pie"
+    translation:
+      en: "pie"
+      ko: "파이"
+    gender: null
+  - english: "pastry"
+    translation:
+      en: "pastry"
+      ko: "페이스트리"
+    gender: null
+  - english: "pudding"
+    translation:
+      en: "pudding"
+      ko: "푸딩"
+    gender: null
+    notes:
+      en: "In British English, can mean any dessert"
+      ko: "영국 영어에서는 모든 디저트를 가리키기도 함"
+  - english: "pancake"
+    translation:
+      en: "pancake"
+      ko: "팬케이크"
+    gender: null
+  - english: "waffle"
+    translation:
+      en: "waffle"
+      ko: "와플"
+    gender: null
+  - english: "marshmallow"
+    translation:
+      en: "marshmallow"
+      ko: "마시멜로"
+    gender: null
+  - english: "gum"
+    translation:
+      en: "gum"
+      ko: "껌"
+    gender: null
+  - english: "nuts"
+    translation:
+      en: "nuts"
+      ko: "견과류"
+    gender: null
+  - english: "peanut"
+    translation:
+      en: "peanut"
+      ko: "땅콩"
+    gender: null
+  - english: "almond"
+    translation:
+      en: "almond"
+      ko: "아몬드"
+    gender: null
+    notes:
+      en: "The 'l' is often silent"
+      ko: "'l'은 자주 묵음"
+  - english: "walnut"
+    translation:
+      en: "walnut"
+      ko: "호두"
+    gender: null
+  - english: "raisin"
+    translation:
+      en: "raisin"
+      ko: "건포도"
+    gender: null
+  - english: "granola"
+    translation:
+      en: "granola"
+      ko: "그래놀라"
+    gender: null
+  - english: "croissant"
+    translation:
+      en: "croissant"
+      ko: "크루아상"
+    gender: null
+  - english: "bagel"
+    translation:
+      en: "bagel"
+      ko: "베이글"
+    gender: null
+  - english: "scone"
+    translation:
+      en: "scone"
+      ko: "스콘"
+    gender: null
+  - english: "biscuit"
+    translation:
+      en: "biscuit"
+      ko: "비스킷"
+    gender: null
+  - english: "french fries"
+    translation:
+      en: "french fries"
+      ko: "감자튀김"
+    gender: null
+  - english: "toast"
+    translation:
+      en: "toast"
+      ko: "토스트"
+    gender: null
+  - english: "porridge"
+    translation:
+      en: "porridge"
+      ko: "죽"
+    gender: null

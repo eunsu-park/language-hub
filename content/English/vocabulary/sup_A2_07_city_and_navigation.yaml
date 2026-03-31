@@ -1,0 +1,1068 @@
+lesson: "sup_A2_City_and_Navigation"
+lesson_number: 127
+cefr: A2
+type: supplementary
+topic: "City and Navigation"
+categories:
+- id: buildings_and_places
+  label:
+    en: "Buildings and Places"
+    ko: "건물 및 장소"
+  type: vocabulary
+  words:
+  - english: "building"
+    translation:
+      en: "building"
+      ko: "건물"
+    gender: null
+  - english: "school"
+    translation:
+      en: "school"
+      ko: "학교"
+    gender: null
+  - english: "hospital"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: null
+  - english: "church"
+    translation:
+      en: "church"
+      ko: "교회"
+    gender: null
+  - english: "mosque"
+    translation:
+      en: "mosque"
+      ko: "모스크"
+    gender: null
+  - english: "temple"
+    translation:
+      en: "temple"
+      ko: "사원"
+    gender: null
+  - english: "museum"
+    translation:
+      en: "museum"
+      ko: "박물관"
+    gender: null
+  - english: "library"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: null
+  - english: "bank"
+    translation:
+      en: "bank"
+      ko: "은행"
+    gender: null
+  - english: "post office"
+    translation:
+      en: "post office"
+      ko: "우체국"
+    gender: null
+  - english: "police station"
+    translation:
+      en: "police station"
+      ko: "경찰서"
+    gender: null
+  - english: "fire station"
+    translation:
+      en: "fire station"
+      ko: "소방서"
+    gender: null
+  - english: "city hall"
+    translation:
+      en: "city hall"
+      ko: "시청"
+    gender: null
+    notes:
+      en: "Called town hall in British English"
+      ko: "영국 영어로 town hall"
+  - english: "courthouse"
+    translation:
+      en: "courthouse"
+      ko: "법원"
+    gender: null
+  - english: "embassy"
+    translation:
+      en: "embassy"
+      ko: "대사관"
+    gender: null
+  - english: "skyscraper"
+    translation:
+      en: "skyscraper"
+      ko: "고층 건물"
+    gender: null
+  - english: "apartment"
+    translation:
+      en: "apartment"
+      ko: "아파트"
+    gender: null
+    notes:
+      en: "Called flat in British English"
+      ko: "영국 영어로 flat"
+  - english: "office"
+    translation:
+      en: "office"
+      ko: "사무실"
+    gender: null
+  - english: "factory"
+    translation:
+      en: "factory"
+      ko: "공장"
+    gender: null
+  - english: "warehouse"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: null
+- id: streets_and_infrastructure
+  label:
+    en: "Streets and Infrastructure"
+    ko: "도로 및 기반시설"
+  type: vocabulary
+  words:
+  - english: "street"
+    translation:
+      en: "street"
+      ko: "거리"
+    gender: null
+  - english: "road"
+    translation:
+      en: "road"
+      ko: "도로"
+    gender: null
+  - english: "avenue"
+    translation:
+      en: "avenue"
+      ko: "대로"
+    gender: null
+  - english: "boulevard"
+    translation:
+      en: "boulevard"
+      ko: "대로 / 가로수길"
+    gender: null
+  - english: "alley"
+    translation:
+      en: "alley"
+      ko: "골목"
+    gender: null
+  - english: "sidewalk"
+    translation:
+      en: "sidewalk"
+      ko: "인도"
+    gender: null
+  - english: "crosswalk"
+    translation:
+      en: "crosswalk"
+      ko: "횡단보도"
+    gender: null
+  - english: "traffic light"
+    translation:
+      en: "traffic light"
+      ko: "신호등"
+    gender: null
+  - english: "stop sign"
+    translation:
+      en: "stop sign"
+      ko: "정지 표지판"
+    gender: null
+  - english: "parking meter"
+    translation:
+      en: "parking meter"
+      ko: "주차 미터기"
+    gender: null
+  - english: "street light"
+    translation:
+      en: "street light"
+      ko: "가로등"
+    gender: null
+  - english: "manhole"
+    translation:
+      en: "manhole"
+      ko: "맨홀"
+    gender: null
+  - english: "curb"
+    translation:
+      en: "curb"
+      ko: "연석"
+    gender: null
+    notes:
+      en: "Spelled kerb in British English"
+      ko: "영국 영어에서는 kerb"
+  - english: "fire hydrant"
+    translation:
+      en: "fire hydrant"
+      ko: "소화전"
+    gender: null
+  - english: "bench"
+    translation:
+      en: "bench"
+      ko: "벤치"
+    gender: null
+- id: public_places
+  label:
+    en: "Public Places"
+    ko: "공공장소"
+  type: vocabulary
+  words:
+  - english: "park"
+    translation:
+      en: "park"
+      ko: "공원"
+    gender: null
+  - english: "playground"
+    translation:
+      en: "playground"
+      ko: "놀이터"
+    gender: null
+  - english: "fountain"
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: null
+  - english: "statue"
+    translation:
+      en: "statue"
+      ko: "동상"
+    gender: null
+  - english: "monument"
+    translation:
+      en: "monument"
+      ko: "기념비"
+    gender: null
+  - english: "square"
+    translation:
+      en: "square"
+      ko: "광장"
+    gender: null
+  - english: "market"
+    translation:
+      en: "market"
+      ko: "시장"
+    gender: null
+  - english: "zoo"
+    translation:
+      en: "zoo"
+      ko: "동물원"
+    gender: null
+  - english: "amusement park"
+    translation:
+      en: "amusement park"
+      ko: "놀이공원"
+    gender: null
+  - english: "swimming pool"
+    translation:
+      en: "swimming pool"
+      ko: "수영장"
+    gender: null
+  - english: "gas station"
+    translation:
+      en: "gas station"
+      ko: "주유소"
+    gender: null
+  - english: "laundromat"
+    translation:
+      en: "laundromat"
+      ko: "셀프 빨래방"
+    gender: null
+    notes:
+      en: "Called laundrette in British English"
+      ko: "영국 영어로 laundrette"
+  - english: "parking garage"
+    translation:
+      en: "parking garage"
+      ko: "주차 건물"
+    gender: null
+  - english: "cemetery"
+    translation:
+      en: "cemetery"
+      ko: "묘지"
+    gender: null
+  - english: "stadium"
+    translation:
+      en: "stadium"
+      ko: "경기장"
+    gender: null
+- id: directions_and_urban_life
+  label:
+    en: "Directions and Urban Life"
+    ko: "방향 및 도시 생활"
+  type: vocabulary
+  words:
+  - english: "north"
+    translation:
+      en: "north"
+      ko: "북쪽"
+    gender: null
+  - english: "south"
+    translation:
+      en: "south"
+      ko: "남쪽"
+    gender: null
+  - english: "east"
+    translation:
+      en: "east"
+      ko: "동쪽"
+    gender: null
+  - english: "west"
+    translation:
+      en: "west"
+      ko: "서쪽"
+    gender: null
+  - english: "block"
+    translation:
+      en: "block"
+      ko: "블록 (거리 단위)"
+    gender: null
+    notes:
+      en: "American term for a city section between streets"
+      ko: "거리 사이의 구역을 뜻하는 미국식 표현"
+  - english: "neighborhood"
+    translation:
+      en: "neighborhood"
+      ko: "동네"
+    gender: null
+    notes:
+      en: "Spelled neighbourhood in British English"
+      ko: "영국 영어에서는 neighbourhood"
+  - english: "downtown"
+    translation:
+      en: "downtown"
+      ko: "도심"
+    gender: null
+    notes:
+      en: "Called city centre in British English"
+      ko: "영국 영어로 city centre"
+  - english: "suburb"
+    translation:
+      en: "suburb"
+      ko: "교외"
+    gender: null
+  - english: "district"
+    translation:
+      en: "district"
+      ko: "지구 / 구역"
+    gender: null
+  - english: "corner"
+    translation:
+      en: "corner"
+      ko: "모퉁이"
+    gender: null
+  - english: "next to"
+    translation:
+      en: "next to"
+      ko: "~ 옆에"
+    gender: null
+  - english: "across from"
+    translation:
+      en: "across from"
+      ko: "~ 건너편에"
+    gender: null
+    notes:
+      en: "Called opposite in British English"
+      ko: "영국 영어로 opposite"
+  - english: "between"
+    translation:
+      en: "between"
+      ko: "~ 사이에"
+    gender: null
+  - english: "behind"
+    translation:
+      en: "behind"
+      ko: "~ 뒤에"
+    gender: null
+  - english: "in front of"
+    translation:
+      en: "in front of"
+      ko: "~ 앞에"
+    gender: null
+  - english: "nearby"
+    translation:
+      en: "nearby"
+      ko: "근처에"
+    gender: null
+  - english: "far"
+    translation:
+      en: "far"
+      ko: "먼"
+    gender: null
+  - english: "close"
+    translation:
+      en: "close"
+      ko: "가까운"
+    gender: null
+  - english: "pedestrian"
+    translation:
+      en: "pedestrian"
+      ko: "보행자"
+    gender: null
+  - english: "rush hour"
+    translation:
+      en: "rush hour"
+      ko: "출퇴근 시간"
+    gender: null
+  - english: "commute"
+    translation:
+      en: "commute"
+      ko: "통근"
+    gender: null
+  - english: "population"
+    translation:
+      en: "population"
+      ko: "인구"
+    gender: null
+  - english: "urban"
+    translation:
+      en: "urban"
+      ko: "도시의"
+    gender: null
+  - english: "rural"
+    translation:
+      en: "rural"
+      ko: "시골의"
+    gender: null
+  - english: "citizen"
+    translation:
+      en: "citizen"
+      ko: "시민"
+    gender: null
+- id: services_and_facilities
+  label:
+    en: "City Services and Facilities"
+    ko: "도시 서비스 및 시설"
+  type: vocabulary
+  words:
+  - english: "community center"
+    translation:
+      en: "community center"
+      ko: "주민센터"
+    gender: null
+  - english: "public library"
+    translation:
+      en: "public library"
+      ko: "공공 도서관"
+    gender: null
+  - english: "sports center"
+    translation:
+      en: "sports center"
+      ko: "스포츠 센터"
+    gender: null
+  - english: "dry cleaner"
+    translation:
+      en: "dry cleaner"
+      ko: "세탁소"
+    gender: null
+  - english: "recycling center"
+    translation:
+      en: "recycling center"
+      ko: "재활용 센터"
+    gender: null
+  - english: "landfill"
+    translation:
+      en: "landfill"
+      ko: "매립지"
+    gender: null
+  - english: "sewer"
+    translation:
+      en: "sewer"
+      ko: "하수도"
+    gender: null
+  - english: "public restroom"
+    translation:
+      en: "public restroom"
+      ko: "공중 화장실"
+    gender: null
+  - english: "streetlight"
+    translation:
+      en: "streetlight"
+      ko: "가로등"
+    gender: null
+- id: shops_and_businesses
+  label:
+    en: "Shops and Businesses"
+    ko: "상점 및 사업체"
+  type: vocabulary
+  words:
+  - english: "bakery"
+    translation:
+      en: "bakery"
+      ko: "빵집 / 베이커리"
+    gender: null
+  - english: "butcher"
+    translation:
+      en: "butcher"
+      ko: "정육점"
+    gender: null
+  - english: "florist"
+    translation:
+      en: "florist"
+      ko: "꽃집"
+    gender: null
+  - english: "pet shop"
+    translation:
+      en: "pet shop"
+      ko: "반려동물 가게"
+    gender: null
+  - english: "hardware store"
+    translation:
+      en: "hardware store"
+      ko: "철물점"
+    gender: null
+  - english: "bookstore"
+    translation:
+      en: "bookstore"
+      ko: "서점"
+    gender: null
+  - english: "pharmacy"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: null
+    notes:
+      en: "Called chemist in British English"
+      ko: "영국 영어로 chemist"
+  - english: "hair salon"
+    translation:
+      en: "hair salon"
+      ko: "미용실"
+    gender: null
+  - english: "barber shop"
+    translation:
+      en: "barber shop"
+      ko: "이발소"
+    gender: null
+  - english: "optician"
+    translation:
+      en: "optician"
+      ko: "안경점"
+    gender: null
+  - english: "jewelry store"
+    translation:
+      en: "jewelry store"
+      ko: "보석 가게"
+    gender: null
+    notes:
+      en: "Spelled jewellery in British English"
+      ko: "영국 영어에서는 jewellery"
+  - english: "electronics store"
+    translation:
+      en: "electronics store"
+      ko: "전자제품 매장"
+    gender: null
+  - english: "convenience store"
+    translation:
+      en: "convenience store"
+      ko: "편의점"
+    gender: null
+  - english: "department store"
+    translation:
+      en: "department store"
+      ko: "백화점"
+    gender: null
+  - english: "shopping mall"
+    translation:
+      en: "shopping mall"
+      ko: "쇼핑몰"
+    gender: null
+  - english: "supermarket"
+    translation:
+      en: "supermarket"
+      ko: "슈퍼마켓"
+    gender: null
+  - english: "stall"
+    translation:
+      en: "stall"
+      ko: "노점 / 부스"
+    gender: null
+  - english: "vendor"
+    translation:
+      en: "vendor"
+      ko: "판매자 / 노점상"
+    gender: null
+- id: neighborhoods
+  label:
+    en: "Neighborhoods and Living"
+    ko: "동네 및 생활"
+  type: vocabulary
+  words:
+  - english: "outskirts"
+    translation:
+      en: "outskirts"
+      ko: "외곽"
+    gender: null
+  - english: "residential area"
+    translation:
+      en: "residential area"
+      ko: "주거 지역"
+    gender: null
+  - english: "commercial district"
+    translation:
+      en: "commercial district"
+      ko: "상업 지구"
+    gender: null
+  - english: "industrial zone"
+    translation:
+      en: "industrial zone"
+      ko: "공업 지역"
+    gender: null
+  - english: "apartment building"
+    translation:
+      en: "apartment building"
+      ko: "아파트 건물"
+    gender: null
+    notes:
+      en: "Called block of flats in British English"
+      ko: "영국 영어로 block of flats"
+  - english: "townhouse"
+    translation:
+      en: "townhouse"
+      ko: "타운하우스"
+    gender: null
+  - english: "cottage"
+    translation:
+      en: "cottage"
+      ko: "오두막 / 별장"
+    gender: null
+  - english: "cul-de-sac"
+    translation:
+      en: "cul-de-sac"
+      ko: "막다른 길"
+    gender: null
+    notes:
+      en: "French loanword"
+      ko: "프랑스어 차용어"
+  - english: "metropolitan"
+    translation:
+      en: "metropolitan"
+      ko: "대도시의"
+    gender: null
+  - english: "traffic jam"
+    translation:
+      en: "traffic jam"
+      ko: "교통 체증"
+    gender: null
+  - english: "noise pollution"
+    translation:
+      en: "noise pollution"
+      ko: "소음 공해"
+    gender: null
+  - english: "crime rate"
+    translation:
+      en: "crime rate"
+      ko: "범죄율"
+    gender: null
+  - english: "cost of living"
+    translation:
+      en: "cost of living"
+      ko: "생활비"
+    gender: null
+  - english: "gentrification"
+    translation:
+      en: "gentrification"
+      ko: "젠트리피케이션"
+    gender: null
+  - english: "zoning"
+    translation:
+      en: "zoning"
+      ko: "용도 지역 구분"
+    gender: null
+  - english: "public transportation"
+    translation:
+      en: "public transportation"
+      ko: "대중교통"
+    gender: null
+- id: city_events
+  label:
+    en: "City Events and Activities"
+    ko: "도시 행사 및 활동"
+  type: vocabulary
+  words:
+  - english: "farmer's market"
+    translation:
+      en: "farmer's market"
+      ko: "농산물 직거래 시장"
+    gender: null
+  - english: "food truck"
+    translation:
+      en: "food truck"
+      ko: "푸드트럭"
+    gender: null
+  - english: "street performer"
+    translation:
+      en: "street performer"
+      ko: "거리 공연자"
+    gender: null
+  - english: "busker"
+    translation:
+      en: "busker"
+      ko: "거리 음악가"
+    gender: null
+  - english: "outdoor concert"
+    translation:
+      en: "outdoor concert"
+      ko: "야외 콘서트"
+    gender: null
+  - english: "art exhibition"
+    translation:
+      en: "art exhibition"
+      ko: "미술 전시회"
+    gender: null
+  - english: "gallery"
+    translation:
+      en: "gallery"
+      ko: "갤러리"
+    gender: null
+  - english: "aquarium"
+    translation:
+      en: "aquarium"
+      ko: "수족관"
+    gender: null
+  - english: "cinema"
+    translation:
+      en: "cinema"
+      ko: "영화관"
+    gender: null
+  - english: "theater"
+    translation:
+      en: "theater"
+      ko: "극장"
+    gender: null
+  - english: "arena"
+    translation:
+      en: "arena"
+      ko: "경기장 / 아레나"
+    gender: null
+  - english: "convention center"
+    translation:
+      en: "convention center"
+      ko: "컨벤션 센터"
+    gender: null
+  - english: "nightlife"
+    translation:
+      en: "nightlife"
+      ko: "밤문화"
+    gender: null
+  - english: "nightclub"
+    translation:
+      en: "nightclub"
+      ko: "나이트클럽"
+    gender: null
+  - english: "pub"
+    translation:
+      en: "pub"
+      ko: "펍"
+    gender: null
+  - english: "bar"
+    translation:
+      en: "bar"
+      ko: "바"
+    gender: null
+  - english: "cafe"
+    translation:
+      en: "cafe"
+      ko: "카페"
+    gender: null
+  - english: "rooftop bar"
+    translation:
+      en: "rooftop bar"
+      ko: "루프탑 바"
+    gender: null
+  - english: "happy hour"
+    translation:
+      en: "happy hour"
+      ko: "해피 아워"
+    gender: null
+  - english: "cover charge"
+    translation:
+      en: "cover charge"
+      ko: "입장료"
+    gender: null
+  - english: "open mic"
+    translation:
+      en: "open mic"
+      ko: "오픈마이크"
+    gender: null
+  - english: "trivia night"
+    translation:
+      en: "trivia night"
+      ko: "퀴즈 나이트"
+    gender: null
+  - english: "comedy club"
+    translation:
+      en: "comedy club"
+      ko: "코미디 클럽"
+    gender: null
+  - english: "karaoke"
+    translation:
+      en: "karaoke"
+      ko: "노래방 / 가라오케"
+    gender: null
+  - english: "bowling alley"
+    translation:
+      en: "bowling alley"
+      ko: "볼링장"
+    gender: null
+  - english: "escape room"
+    translation:
+      en: "escape room"
+      ko: "방탈출 카페"
+    gender: null
+  - english: "pop-up shop"
+    translation:
+      en: "pop-up shop"
+      ko: "팝업 매장"
+    gender: null
+  - english: "food festival"
+    translation:
+      en: "food festival"
+      ko: "음식 축제"
+    gender: null
+  - english: "craft fair"
+    translation:
+      en: "craft fair"
+      ko: "공예 장터"
+    gender: null
+  - english: "flea market"
+    translation:
+      en: "flea market"
+      ko: "벼룩시장"
+    gender: null
+  - english: "antique shop"
+    translation:
+      en: "antique shop"
+      ko: "골동품 가게"
+    gender: null
+  - english: "thrift store"
+    translation:
+      en: "thrift store"
+      ko: "중고 가게"
+    gender: null
+  - english: "charity event"
+    translation:
+      en: "charity event"
+      ko: "자선 행사"
+    gender: null
+  - english: "marathon"
+    translation:
+      en: "marathon"
+      ko: "마라톤"
+    gender: null
+  - english: "fun run"
+    translation:
+      en: "fun run"
+      ko: "펀런 / 즐거운 달리기"
+    gender: null
+  - english: "parade"
+    translation:
+      en: "parade"
+      ko: "퍼레이드"
+    gender: null
+  - english: "demonstration"
+    translation:
+      en: "demonstration"
+      ko: "시위"
+    gender: null
+  - english: "rally"
+    translation:
+      en: "rally"
+      ko: "집회"
+    gender: null
+  - english: "town meeting"
+    translation:
+      en: "town meeting"
+      ko: "주민 회의"
+    gender: null
+  - english: "block party"
+    translation:
+      en: "block party"
+      ko: "동네 파티"
+    gender: null
+  - english: "open house"
+    translation:
+      en: "open house"
+      ko: "오픈하우스"
+    gender: null
+  - english: "community garden"
+    translation:
+      en: "community garden"
+      ko: "공동체 텃밭"
+    gender: null
+
+- id: city_landmarks
+  label:
+    en: "City Landmarks"
+    ko: "도시 명소"
+  type: vocabulary
+  words:
+  - english: "bridge"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: null
+  - english: "tunnel"
+    translation:
+      en: "tunnel"
+      ko: "터널"
+    gender: null
+
+- id: giving_directions
+  label:
+    en: "Giving Directions"
+    ko: "길 안내"
+  type: vocabulary
+  words:
+  - english: "on the corner"
+    translation:
+      en: "on the corner"
+      ko: "모퉁이에"
+    gender: null
+  - english: "intersection"
+    translation:
+      en: "intersection"
+      ko: "교차로"
+    gender: null
+  - english: "main street"
+    translation:
+      en: "main street"
+      ko: "큰 거리"
+    gender: null
+  - english: "shortcut"
+    translation:
+      en: "shortcut"
+      ko: "지름길"
+    gender: null
+  - english: "detour"
+    translation:
+      en: "detour"
+      ko: "우회로"
+    gender: null
+  - english: "landmark"
+    translation:
+      en: "landmark"
+      ko: "랜드마크"
+    gender: null
+  - english: "GPS"
+    translation:
+      en: "GPS"
+      ko: "GPS"
+    gender: null
+  - english: "navigate"
+    translation:
+      en: "navigate"
+      ko: "탐색하다"
+    gender: null
+
+- id: public_services
+  label:
+    en: "Public Services"
+    ko: "공공 서비스"
+  type: vocabulary
+  words:
+  - english: "university"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: null
+  - english: "gym"
+    translation:
+      en: "gym"
+      ko: "체육관"
+    gender: null
+  - english: "bus stop"
+    translation:
+      en: "bus stop"
+      ko: "버스 정류장"
+    gender: null
+  - english: "train station"
+    translation:
+      en: "train station"
+      ko: "기차역"
+    gender: null
+  - english: "subway station"
+    translation:
+      en: "subway station"
+      ko: "지하철역"
+    gender: null
+  - english: "airport"
+    translation:
+      en: "airport"
+      ko: "공항"
+    gender: null
+  - english: "port"
+    translation:
+      en: "port"
+      ko: "항구"
+    gender: null
+  - english: "taxi stand"
+    translation:
+      en: "taxi stand"
+      ko: "택시 승강장"
+    gender: null
+  - english: "bike lane"
+    translation:
+      en: "bike lane"
+      ko: "자전거 도로"
+    gender: null
+
+- id: urban_features
+  label:
+    en: "Urban Features"
+    ko: "도시 요소"
+  type: vocabulary
+  words:
+  - english: "skywalk"
+    translation:
+      en: "skywalk"
+      ko: "육교"
+    gender: null
+  - english: "underpass"
+    translation:
+      en: "underpass"
+      ko: "지하도"
+    gender: null
+  - english: "street vendor"
+    translation:
+      en: "street vendor"
+      ko: "노점상"
+    gender: null
+  - english: "newsstand"
+    translation:
+      en: "newsstand"
+      ko: "신문 가판대"
+    gender: null
+  - english: "mailbox"
+    translation:
+      en: "mailbox"
+      ko: "우체통"
+    gender: null
+  - english: "phone booth"
+    translation:
+      en: "phone booth"
+      ko: "전화 박스"
+    gender: null
+  - english: "trash can"
+    translation:
+      en: "trash can"
+      ko: "쓰레기통"
+    gender: null
+  - english: "recycling bin"
+    translation:
+      en: "recycling bin"
+      ko: "재활용 쓰레기통"
+    gender: null
+  - english: "construction site"
+    translation:
+      en: "construction site"
+      ko: "공사 현장"
+    gender: null
+  - english: "scaffolding"
+    translation:
+      en: "scaffolding"
+      ko: "비계"
+    gender: null
+  - english: "jaywalking"
+    translation:
+      en: "jaywalking"
+      ko: "무단 횡단"
+    gender: null

@@ -1,0 +1,922 @@
+lesson: "sup_A1_Colors_Shapes_and_Materials"
+lesson_number: 105
+cefr: A1
+type: supplementary
+topic: "Colors, Shapes, and Materials"
+categories:
+- id: basic_colors
+  label:
+    en: "Basic Colors"
+    ko: "기본 색상"
+  type: vocabulary
+  words:
+  - english: "red"
+    translation:
+      en: "red"
+      ko: "빨간색"
+    gender: null
+  - english: "blue"
+    translation:
+      en: "blue"
+      ko: "파란색"
+    gender: null
+  - english: "green"
+    translation:
+      en: "green"
+      ko: "초록색"
+    gender: null
+  - english: "yellow"
+    translation:
+      en: "yellow"
+      ko: "노란색"
+    gender: null
+  - english: "orange"
+    translation:
+      en: "orange"
+      ko: "주황색"
+    gender: null
+  - english: "purple"
+    translation:
+      en: "purple"
+      ko: "보라색"
+    gender: null
+  - english: "pink"
+    translation:
+      en: "pink"
+      ko: "분홍색"
+    gender: null
+  - english: "brown"
+    translation:
+      en: "brown"
+      ko: "갈색"
+    gender: null
+  - english: "black"
+    translation:
+      en: "black"
+      ko: "검은색"
+    gender: null
+  - english: "white"
+    translation:
+      en: "white"
+      ko: "흰색"
+    gender: null
+  - english: "gray"
+    translation:
+      en: "gray"
+      ko: "회색"
+    gender: null
+    notes:
+      en: "Spelled grey in British English"
+      ko: "영국 영어에서는 grey"
+  - english: "beige"
+    translation:
+      en: "beige"
+      ko: "베이지색"
+    gender: null
+  - english: "turquoise"
+    translation:
+      en: "turquoise"
+      ko: "청록색"
+    gender: null
+  - english: "navy"
+    translation:
+      en: "navy"
+      ko: "남색"
+    gender: null
+    notes:
+      en: "Short for navy blue"
+      ko: "navy blue의 줄임말"
+  - english: "maroon"
+    translation:
+      en: "maroon"
+      ko: "적갈색"
+    gender: null
+  - english: "ivory"
+    translation:
+      en: "ivory"
+      ko: "상아색"
+    gender: null
+  - english: "gold"
+    translation:
+      en: "gold"
+      ko: "금색"
+    gender: null
+  - english: "silver"
+    translation:
+      en: "silver"
+      ko: "은색"
+    gender: null
+  - english: "light"
+    translation:
+      en: "light"
+      ko: "밝은 / 연한"
+    gender: null
+    notes:
+      en: "Used with colors: light blue, light green"
+      ko: "색상과 함께 사용: light blue, light green"
+  - english: "dark"
+    translation:
+      en: "dark"
+      ko: "어두운 / 진한"
+    gender: null
+    notes:
+      en: "Used with colors: dark red, dark brown"
+      ko: "색상과 함께 사용: dark red, dark brown"
+  - english: "bright"
+    translation:
+      en: "bright"
+      ko: "밝은 / 선명한"
+    gender: null
+  - english: "pale"
+    translation:
+      en: "pale"
+      ko: "창백한 / 옅은"
+    gender: null
+  - english: "colorful"
+    translation:
+      en: "colorful"
+      ko: "다채로운"
+    gender: null
+    notes:
+      en: "Spelled colourful in British English"
+      ko: "영국 영어에서는 colourful"
+  - english: "transparent"
+    translation:
+      en: "transparent"
+      ko: "투명한"
+    gender: null
+  - english: "shade"
+    translation:
+      en: "shade"
+      ko: "색조 / 그늘"
+    gender: null
+  - english: "teal"
+    translation:
+      en: "teal"
+      ko: "틸색 (진한 청록)"
+    gender: null
+  - english: "coral"
+    translation:
+      en: "coral"
+      ko: "산호색"
+    gender: null
+  - english: "lavender"
+    translation:
+      en: "lavender"
+      ko: "라벤더색"
+    gender: null
+  - english: "scarlet"
+    translation:
+      en: "scarlet"
+      ko: "주홍색"
+    gender: null
+  - english: "crimson"
+    translation:
+      en: "crimson"
+      ko: "진홍색"
+    gender: null
+  - english: "olive"
+    translation:
+      en: "olive"
+      ko: "올리브색"
+    gender: null
+  - english: "tan"
+    translation:
+      en: "tan"
+      ko: "갈색 / 황갈색"
+    gender: null
+  - english: "khaki"
+    translation:
+      en: "khaki"
+      ko: "카키색"
+    gender: null
+  - english: "indigo"
+    translation:
+      en: "indigo"
+      ko: "남색 / 인디고"
+    gender: null
+  - english: "magenta"
+    translation:
+      en: "magenta"
+      ko: "자홍색"
+    gender: null
+  - english: "cyan"
+    translation:
+      en: "cyan"
+      ko: "청록색"
+    gender: null
+  - english: "bronze"
+    translation:
+      en: "bronze"
+      ko: "청동색"
+    gender: null
+  - english: "neon"
+    translation:
+      en: "neon"
+      ko: "네온 (형광)"
+    gender: null
+  - english: "pastel"
+    translation:
+      en: "pastel"
+      ko: "파스텔"
+    gender: null
+  - english: "vivid"
+    translation:
+      en: "vivid"
+      ko: "선명한"
+    gender: null
+  - english: "faded"
+    translation:
+      en: "faded"
+      ko: "바랜"
+    gender: null
+  - english: "dye"
+    translation:
+      en: "dye"
+      ko: "염료 / 염색"
+    gender: null
+  - english: "tint"
+    translation:
+      en: "tint"
+      ko: "색조 / 엷은 색"
+    gender: null
+  - english: "hue"
+    translation:
+      en: "hue"
+      ko: "색상 / 빛깔"
+    gender: null
+- id: shapes
+  label:
+    en: "Shapes"
+    ko: "도형"
+  type: vocabulary
+  words:
+  - english: "circle"
+    translation:
+      en: "circle"
+      ko: "원"
+    gender: null
+  - english: "square"
+    translation:
+      en: "square"
+      ko: "정사각형"
+    gender: null
+  - english: "triangle"
+    translation:
+      en: "triangle"
+      ko: "삼각형"
+    gender: null
+  - english: "rectangle"
+    translation:
+      en: "rectangle"
+      ko: "직사각형"
+    gender: null
+  - english: "oval"
+    translation:
+      en: "oval"
+      ko: "타원형"
+    gender: null
+  - english: "diamond"
+    translation:
+      en: "diamond"
+      ko: "다이아몬드 / 마름모"
+    gender: null
+    notes:
+      en: "Also the precious gemstone"
+      ko: "보석 이름이기도 함"
+  - english: "star"
+    translation:
+      en: "star"
+      ko: "별 모양"
+    gender: null
+  - english: "heart"
+    translation:
+      en: "heart"
+      ko: "하트 모양"
+    gender: null
+  - english: "cube"
+    translation:
+      en: "cube"
+      ko: "정육면체"
+    gender: null
+  - english: "sphere"
+    translation:
+      en: "sphere"
+      ko: "구"
+    gender: null
+  - english: "cone"
+    translation:
+      en: "cone"
+      ko: "원뿔"
+    gender: null
+  - english: "cylinder"
+    translation:
+      en: "cylinder"
+      ko: "원기둥"
+    gender: null
+  - english: "pyramid"
+    translation:
+      en: "pyramid"
+      ko: "피라미드"
+    gender: null
+  - english: "hexagon"
+    translation:
+      en: "hexagon"
+      ko: "육각형"
+    gender: null
+  - english: "pentagon"
+    translation:
+      en: "pentagon"
+      ko: "오각형"
+    gender: null
+    notes:
+      en: "The Pentagon is also the US military headquarters"
+      ko: "미국 국방부 건물 이름이기도 함"
+  - english: "line"
+    translation:
+      en: "line"
+      ko: "선"
+    gender: null
+  - english: "curve"
+    translation:
+      en: "curve"
+      ko: "곡선"
+    gender: null
+  - english: "angle"
+    translation:
+      en: "angle"
+      ko: "각도"
+    gender: null
+  - english: "edge"
+    translation:
+      en: "edge"
+      ko: "모서리"
+    gender: null
+  - english: "corner"
+    translation:
+      en: "corner"
+      ko: "모서리 / 구석"
+    gender: null
+  - english: "flat"
+    translation:
+      en: "flat"
+      ko: "평평한"
+    gender: null
+  - english: "round"
+    translation:
+      en: "round"
+      ko: "둥근"
+    gender: null
+  - english: "straight"
+    translation:
+      en: "straight"
+      ko: "곧은 / 직선의"
+    gender: null
+  - english: "spiral"
+    translation:
+      en: "spiral"
+      ko: "나선형"
+    gender: null
+  - english: "arrow"
+    translation:
+      en: "arrow"
+      ko: "화살표"
+    gender: null
+  - english: "cross"
+    translation:
+      en: "cross"
+      ko: "십자형"
+    gender: null
+  - english: "dot"
+    translation:
+      en: "dot"
+      ko: "점"
+    gender: null
+  - english: "stripe"
+    translation:
+      en: "stripe"
+      ko: "줄무늬"
+    gender: null
+  - english: "pattern"
+    translation:
+      en: "pattern"
+      ko: "무늬 / 패턴"
+    gender: null
+- id: materials
+  label:
+    en: "Materials"
+    ko: "재료"
+  type: vocabulary
+  words:
+  - english: "wood"
+    translation:
+      en: "wood"
+      ko: "나무 / 목재"
+    gender: null
+  - english: "metal"
+    translation:
+      en: "metal"
+      ko: "금속"
+    gender: null
+  - english: "glass"
+    translation:
+      en: "glass"
+      ko: "유리"
+    gender: null
+  - english: "plastic"
+    translation:
+      en: "plastic"
+      ko: "플라스틱"
+    gender: null
+  - english: "paper"
+    translation:
+      en: "paper"
+      ko: "종이"
+    gender: null
+  - english: "stone"
+    translation:
+      en: "stone"
+      ko: "돌"
+    gender: null
+  - english: "cotton"
+    translation:
+      en: "cotton"
+      ko: "면"
+    gender: null
+  - english: "leather"
+    translation:
+      en: "leather"
+      ko: "가죽"
+    gender: null
+  - english: "rubber"
+    translation:
+      en: "rubber"
+      ko: "고무"
+    gender: null
+  - english: "steel"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: null
+  - english: "concrete"
+    translation:
+      en: "concrete"
+      ko: "콘크리트"
+    gender: null
+  - english: "brick"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: null
+  - english: "silk"
+    translation:
+      en: "silk"
+      ko: "비단 / 실크"
+    gender: null
+  - english: "wool"
+    translation:
+      en: "wool"
+      ko: "양모"
+    gender: null
+  - english: "ceramic"
+    translation:
+      en: "ceramic"
+      ko: "도자기 / 세라믹"
+    gender: null
+  - english: "fabric"
+    translation:
+      en: "fabric"
+      ko: "직물 / 천"
+    gender: null
+  - english: "iron"
+    translation:
+      en: "iron"
+      ko: "철"
+    gender: null
+  - english: "copper"
+    translation:
+      en: "copper"
+      ko: "구리"
+    gender: null
+  - english: "aluminum"
+    translation:
+      en: "aluminum"
+      ko: "알루미늄"
+    gender: null
+    notes:
+      en: "Spelled aluminium in British English"
+      ko: "영국 영어에서는 aluminium"
+  - english: "cardboard"
+    translation:
+      en: "cardboard"
+      ko: "골판지 / 마분지"
+    gender: null
+  - english: "marble"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: null
+  - english: "granite"
+    translation:
+      en: "granite"
+      ko: "화강암"
+    gender: null
+  - english: "clay"
+    translation:
+      en: "clay"
+      ko: "점토"
+    gender: null
+  - english: "wax"
+    translation:
+      en: "wax"
+      ko: "밀랍 / 왁스"
+    gender: null
+  - english: "nylon"
+    translation:
+      en: "nylon"
+      ko: "나일론"
+    gender: null
+  - english: "polyester"
+    translation:
+      en: "polyester"
+      ko: "폴리에스터"
+    gender: null
+  - english: "linen"
+    translation:
+      en: "linen"
+      ko: "린넨 / 아마포"
+    gender: null
+  - english: "denim"
+    translation:
+      en: "denim"
+      ko: "데님"
+    gender: null
+  - english: "velvet"
+    translation:
+      en: "velvet"
+      ko: "벨벳"
+    gender: null
+  - english: "suede"
+    translation:
+      en: "suede"
+      ko: "스웨이드"
+    gender: null
+  - english: "foam"
+    translation:
+      en: "foam"
+      ko: "거품 / 폼"
+    gender: null
+  - english: "fiberglass"
+    translation:
+      en: "fiberglass"
+      ko: "유리섬유"
+    gender: null
+  - english: "plywood"
+    translation:
+      en: "plywood"
+      ko: "합판"
+    gender: null
+  - english: "bamboo"
+    translation:
+      en: "bamboo"
+      ko: "대나무"
+    gender: null
+  - english: "cork"
+    translation:
+      en: "cork"
+      ko: "코르크"
+    gender: null
+  - english: "tin"
+    translation:
+      en: "tin"
+      ko: "주석"
+    gender: null
+  - english: "brass"
+    translation:
+      en: "brass"
+      ko: "황동"
+    gender: null
+  - english: "platinum"
+    translation:
+      en: "platinum"
+      ko: "백금"
+    gender: null
+  - english: "titanium"
+    translation:
+      en: "titanium"
+      ko: "티타늄"
+    gender: null
+- id: textures_and_sizes
+  label:
+    en: "Textures and Sizes"
+    ko: "질감과 크기"
+  type: vocabulary
+  words:
+  - english: "smooth"
+    translation:
+      en: "smooth"
+      ko: "매끄러운"
+    gender: null
+  - english: "rough"
+    translation:
+      en: "rough"
+      ko: "거친"
+    gender: null
+  - english: "soft"
+    translation:
+      en: "soft"
+      ko: "부드러운"
+    gender: null
+  - english: "hard"
+    translation:
+      en: "hard"
+      ko: "딱딱한"
+    gender: null
+  - english: "wet"
+    translation:
+      en: "wet"
+      ko: "젖은"
+    gender: null
+  - english: "dry"
+    translation:
+      en: "dry"
+      ko: "마른"
+    gender: null
+  - english: "sharp"
+    translation:
+      en: "sharp"
+      ko: "날카로운"
+    gender: null
+  - english: "dull"
+    translation:
+      en: "dull"
+      ko: "무딘"
+    gender: null
+  - english: "thick"
+    translation:
+      en: "thick"
+      ko: "두꺼운"
+    gender: null
+  - english: "thin"
+    translation:
+      en: "thin"
+      ko: "얇은"
+    gender: null
+  - english: "heavy"
+    translation:
+      en: "heavy"
+      ko: "무거운"
+    gender: null
+  - english: "big"
+    translation:
+      en: "big"
+      ko: "큰"
+    gender: null
+  - english: "small"
+    translation:
+      en: "small"
+      ko: "작은"
+    gender: null
+  - english: "tiny"
+    translation:
+      en: "tiny"
+      ko: "아주 작은"
+    gender: null
+  - english: "huge"
+    translation:
+      en: "huge"
+      ko: "거대한"
+    gender: null
+  - english: "long"
+    translation:
+      en: "long"
+      ko: "긴"
+    gender: null
+  - english: "short"
+    translation:
+      en: "short"
+      ko: "짧은"
+    gender: null
+  - english: "wide"
+    translation:
+      en: "wide"
+      ko: "넓은"
+    gender: null
+  - english: "narrow"
+    translation:
+      en: "narrow"
+      ko: "좁은"
+    gender: null
+  - english: "tall"
+    translation:
+      en: "tall"
+      ko: "키가 큰"
+    gender: null
+    notes:
+      en: "Used for people and vertical objects"
+      ko: "사람이나 수직 물체에 사용"
+  - english: "deep"
+    translation:
+      en: "deep"
+      ko: "깊은"
+    gender: null
+  - english: "shallow"
+    translation:
+      en: "shallow"
+      ko: "얕은"
+    gender: null
+  - english: "hollow"
+    translation:
+      en: "hollow"
+      ko: "속이 빈"
+    gender: null
+  - english: "solid"
+    translation:
+      en: "solid"
+      ko: "단단한 / 고체의"
+    gender: null
+  - english: "flexible"
+    translation:
+      en: "flexible"
+      ko: "유연한"
+    gender: null
+  - english: "stiff"
+    translation:
+      en: "stiff"
+      ko: "뻣뻣한"
+    gender: null
+  - english: "sticky"
+    translation:
+      en: "sticky"
+      ko: "끈적끈적한"
+    gender: null
+  - english: "shiny"
+    translation:
+      en: "shiny"
+      ko: "반짝이는"
+    gender: null
+  - english: "matte"
+    translation:
+      en: "matte"
+      ko: "무광의"
+    gender: null
+  - english: "fluffy"
+    translation:
+      en: "fluffy"
+      ko: "보송보송한"
+    gender: null
+  - english: "slippery"
+    translation:
+      en: "slippery"
+      ko: "미끄러운"
+    gender: null
+  - english: "coarse"
+    translation:
+      en: "coarse"
+      ko: "거친 / 굵은"
+    gender: null
+  - english: "fragile"
+    translation:
+      en: "fragile"
+      ko: "깨지기 쉬운"
+    gender: null
+  - english: "sturdy"
+    translation:
+      en: "sturdy"
+      ko: "튼튼한"
+    gender: null
+  - english: "elastic"
+    translation:
+      en: "elastic"
+      ko: "탄력 있는"
+    gender: null
+  - english: "dense"
+    translation:
+      en: "dense"
+      ko: "밀도가 높은"
+    gender: null
+  - english: "porous"
+    translation:
+      en: "porous"
+      ko: "다공성의"
+    gender: null
+  - english: "opaque"
+    translation:
+      en: "opaque"
+      ko: "불투명한"
+    gender: null
+  - english: "medium"
+    translation:
+      en: "medium"
+      ko: "중간의"
+    gender: null
+  - english: "enormous"
+    translation:
+      en: "enormous"
+      ko: "엄청난"
+    gender: null
+  - english: "miniature"
+    translation:
+      en: "miniature"
+      ko: "소형의 / 미니어처"
+    gender: null
+  - english: "massive"
+    translation:
+      en: "massive"
+      ko: "거대한"
+    gender: null
+  - english: "gigantic"
+    translation:
+      en: "gigantic"
+      ko: "거인같은 / 엄청나게 큰"
+    gender: null
+  - english: "microscopic"
+    translation:
+      en: "microscopic"
+      ko: "현미경적인 / 아주 작은"
+    gender: null
+  - english: "loose"
+    translation:
+      en: "loose"
+      ko: "느슨한"
+    gender: null
+  - english: "tight"
+    translation:
+      en: "tight"
+      ko: "꽉 끼는 / 단단한"
+    gender: null
+  - english: "bumpy"
+    translation:
+      en: "bumpy"
+      ko: "울퉁불퉁한"
+    gender: null
+  - english: "fuzzy"
+    translation:
+      en: "fuzzy"
+      ko: "보풀이 일어난 / 흐릿한"
+    gender: null
+  - english: "glossy"
+    translation:
+      en: "glossy"
+      ko: "광택 있는"
+    gender: null
+  - english: "rusty"
+    translation:
+      en: "rusty"
+      ko: "녹슨"
+    gender: null
+  - english: "dusty"
+    translation:
+      en: "dusty"
+      ko: "먼지가 많은"
+    gender: null
+  - english: "greasy"
+    translation:
+      en: "greasy"
+      ko: "기름진"
+    gender: null
+  - english: "crispy"
+    translation:
+      en: "crispy"
+      ko: "바삭바삭한"
+    gender: null
+  - english: "squishy"
+    translation:
+      en: "squishy"
+      ko: "물렁물렁한"
+    gender: null
+  - english: "zigzag"
+    translation:
+      en: "zigzag"
+      ko: "지그재그"
+    gender: null
+  - english: "prism"
+    translation:
+      en: "prism"
+      ko: "프리즘"
+    gender: null
+  - english: "arrow shape"
+    translation:
+      en: "arrow shape"
+      ko: "화살 모양"
+    gender: null
+  - english: "polka dot"
+    translation:
+      en: "polka dot"
+      ko: "물방울 무늬"
+    gender: null
+  - english: "plaid"
+    translation:
+      en: "plaid"
+      ko: "체크무늬"
+    gender: null
+  - english: "checkered"
+    translation:
+      en: "checkered"
+      ko: "체크 무늬의"
+    gender: null
+  - english: "solid color"
+    translation:
+      en: "solid color"
+      ko: "단색"
+    gender: null

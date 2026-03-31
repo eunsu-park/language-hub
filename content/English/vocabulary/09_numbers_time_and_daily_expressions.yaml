@@ -1,0 +1,394 @@
+lesson: 09_Numbers_Time_and_Daily_Expressions
+lesson_number: 9
+cefr: A2
+categories:
+- id: 11_cardinal_numbers
+  label:
+    en: "1.1 Cardinal Numbers"
+    ko: "1.1 기수"
+  type: vocabulary
+  words:
+  - english: one
+    translation:
+      en: the number 1
+      ko: 하나, 일
+    gender: null
+  - english: two
+    translation:
+      en: the number 2
+      ko: 둘, 이
+    gender: null
+  - english: three
+    translation:
+      en: the number 3
+      ko: 셋, 삼
+    gender: null
+  - english: four
+    translation:
+      en: the number 4
+      ko: 넷, 사
+    gender: null
+  - english: five
+    translation:
+      en: the number 5
+      ko: 다섯, 오
+    gender: null
+  - english: ten
+    translation:
+      en: the number 10
+      ko: 열, 십
+    gender: null
+  - english: eleven
+    translation:
+      en: the number 11
+      ko: 열하나, 십일
+    gender: null
+  - english: twelve
+    translation:
+      en: the number 12
+      ko: 열둘, 십이
+    gender: null
+  - english: thirteen
+    translation:
+      en: the number 13
+      ko: 열셋, 십삼
+    gender: null
+    notes:
+      en: "Stress on second syllable: thirTEEN vs THIRty"
+      ko: "두 번째 음절에 강세: thirTEEN vs THIRty"
+  - english: twenty
+    translation:
+      en: the number 20
+      ko: 스물, 이십
+    gender: null
+  - english: thirty
+    translation:
+      en: the number 30
+      ko: 서른, 삼십
+    gender: null
+  - english: forty
+    translation:
+      en: the number 40 (NOT fourty)
+      ko: 마흔, 사십
+    gender: null
+    notes:
+      en: "Common misspelling: 'fourty' is WRONG — correct is 'forty'"
+      ko: "흔한 철자 오류: 'fourty'는 틀림 — 'forty'가 맞음"
+  - english: fifty
+    translation:
+      en: the number 50
+      ko: 쉰, 오십
+    gender: null
+  - english: hundred
+    translation:
+      en: the number 100
+      ko: 백
+    gender: null
+  - english: thousand
+    translation:
+      en: the number 1,000
+      ko: 천
+    gender: null
+    notes:
+      en: "English groups digits by 3 (thousand), Korean by 4 (만)"
+      ko: "영어는 3자리씩 (thousand), 한국어는 4자리씩 (만) 끊음"
+  - english: million
+    translation:
+      en: the number 1,000,000
+      ko: 백만
+    gender: null
+  - english: billion
+    translation:
+      en: the number 1,000,000,000
+      ko: 십억
+    gender: null
+  - english: zero
+    translation:
+      en: the number 0
+      ko: 영
+    gender: null
+- id: 12_ordinal_numbers
+  label:
+    en: "1.2 Ordinal Numbers"
+    ko: "1.2 서수"
+  type: vocabulary
+  words:
+  - english: first (1st)
+    translation:
+      en: coming before all others
+      ko: 첫 번째
+    gender: null
+  - english: second (2nd)
+    translation:
+      en: coming after the first
+      ko: 두 번째
+    gender: null
+  - english: third (3rd)
+    translation:
+      en: coming after the second
+      ko: 세 번째
+    gender: null
+  - english: fourth (4th)
+    translation:
+      en: coming after the third
+      ko: 네 번째
+    gender: null
+  - english: fifth (5th)
+    translation:
+      en: coming after the fourth
+      ko: 다섯 번째
+    gender: null
+  - english: tenth (10th)
+    translation:
+      en: coming after the ninth
+      ko: 열 번째
+    gender: null
+  - english: twentieth (20th)
+    translation:
+      en: coming after the nineteenth
+      ko: 스무 번째
+    gender: null
+  - english: last
+    translation:
+      en: coming after all others
+      ko: 마지막
+    gender: null
+- id: 13_telling_time
+  label:
+    en: "1.3 Telling Time"
+    ko: "1.3 시간 말하기"
+  type: vocabulary
+  words:
+  - english: "o'clock"
+    translation:
+      en: exactly on the hour
+      ko: ~시 정각
+    gender: null
+  - english: half past
+    translation:
+      en: thirty minutes after the hour
+      ko: ~시 반
+    gender: null
+  - english: quarter past
+    translation:
+      en: fifteen minutes after the hour
+      ko: ~시 15분
+    gender: null
+  - english: quarter to
+    translation:
+      en: fifteen minutes before the next hour
+      ko: ~시 15분 전
+    gender: null
+  - english: a.m.
+    translation:
+      en: before noon (ante meridiem)
+      ko: 오전
+    gender: null
+  - english: p.m.
+    translation:
+      en: after noon (post meridiem)
+      ko: 오후
+    gender: null
+  - english: noon
+    translation:
+      en: twelve o'clock midday
+      ko: 정오
+    gender: null
+  - english: midnight
+    translation:
+      en: twelve o'clock at night
+      ko: 자정
+    gender: null
+  - english: "What time is it?"
+    translation:
+      en: asking for the current time
+      ko: 지금 몇 시예요?
+    gender: null
+- id: 14_days_and_months
+  label:
+    en: "1.4 Days and Months"
+    ko: "1.4 요일과 달"
+  type: vocabulary
+  words:
+  - english: Monday
+    translation:
+      en: the first day of the work week
+      ko: 월요일
+    gender: null
+  - english: Tuesday
+    translation:
+      en: the second day of the work week
+      ko: 화요일
+    gender: null
+  - english: Wednesday
+    translation:
+      en: the third day of the work week
+      ko: 수요일
+    gender: null
+    notes:
+      en: "The 'd' is silent: /ˈwenzdeɪ/"
+      ko: "d가 묵음: /ˈwenzdeɪ/"
+  - english: Thursday
+    translation:
+      en: the fourth day of the work week
+      ko: 목요일
+    gender: null
+  - english: Friday
+    translation:
+      en: the fifth day of the work week
+      ko: 금요일
+    gender: null
+  - english: Saturday
+    translation:
+      en: the sixth day of the week
+      ko: 토요일
+    gender: null
+  - english: Sunday
+    translation:
+      en: the seventh day of the week
+      ko: 일요일
+    gender: null
+  - english: January
+    translation:
+      en: the first month
+      ko: 1월
+    gender: null
+  - english: February
+    translation:
+      en: the second month
+      ko: 2월
+    gender: null
+  - english: March
+    translation:
+      en: the third month
+      ko: 3월
+    gender: null
+  - english: April
+    translation:
+      en: the fourth month
+      ko: 4월
+    gender: null
+  - english: May
+    translation:
+      en: the fifth month
+      ko: 5월
+    gender: null
+  - english: June
+    translation:
+      en: the sixth month
+      ko: 6월
+    gender: null
+  - english: July
+    translation:
+      en: the seventh month
+      ko: 7월
+    gender: null
+  - english: August
+    translation:
+      en: the eighth month
+      ko: 8월
+    gender: null
+  - english: September
+    translation:
+      en: the ninth month
+      ko: 9월
+    gender: null
+  - english: October
+    translation:
+      en: the tenth month
+      ko: 10월
+    gender: null
+  - english: November
+    translation:
+      en: the eleventh month
+      ko: 11월
+    gender: null
+  - english: December
+    translation:
+      en: the twelfth month
+      ko: 12월
+    gender: null
+- id: 15_seasons_and_time_expressions
+  label:
+    en: "1.5 Seasons and Time Expressions"
+    ko: "1.5 계절과 시간 표현"
+  type: vocabulary
+  words:
+  - english: spring
+    translation:
+      en: the season after winter and before summer
+      ko: 봄
+    gender: null
+  - english: summer
+    translation:
+      en: the warmest season
+      ko: 여름
+    gender: null
+  - english: fall / autumn
+    translation:
+      en: the season after summer and before winter
+      ko: 가을
+    gender: null
+    notes:
+      en: "'fall' is American English, 'autumn' is British English"
+      ko: "'fall'은 미국식, 'autumn'은 영국식"
+  - english: winter
+    translation:
+      en: the coldest season
+      ko: 겨울
+    gender: null
+  - english: today
+    translation:
+      en: this present day
+      ko: 오늘
+    gender: null
+  - english: tomorrow
+    translation:
+      en: the day after today
+      ko: 내일
+    gender: null
+  - english: yesterday
+    translation:
+      en: the day before today
+      ko: 어제
+    gender: null
+  - english: the day after tomorrow
+    translation:
+      en: two days from now
+      ko: 모레
+    gender: null
+  - english: the day before yesterday
+    translation:
+      en: two days ago
+      ko: 그저께
+    gender: null
+  - english: right now
+    translation:
+      en: at this moment
+      ko: 지금 당장
+    gender: null
+  - english: later
+    translation:
+      en: at a future time
+      ko: 나중에
+    gender: null
+  - english: soon
+    translation:
+      en: in the near future
+      ko: 곧
+    gender: null
+  - english: early
+    translation:
+      en: before the expected time
+      ko: 일찍
+    gender: null
+  - english: late
+    translation:
+      en: after the expected time
+      ko: 늦게
+    gender: null
+  - english: on time
+    translation:
+      en: at the scheduled time
+      ko: 정시에
+    gender: null

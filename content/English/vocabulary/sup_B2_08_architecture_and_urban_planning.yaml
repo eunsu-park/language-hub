@@ -1,0 +1,1023 @@
+lesson: "sup_B2_Architecture_and_Urban_Planning"
+lesson_number: 168
+cefr: B2
+type: supplementary
+topic: "Architecture and Urban Planning"
+categories:
+- id: building_types
+  label:
+    en: "Building Types"
+    ko: "건물 유형"
+  type: vocabulary
+  words:
+  - english: "skyscraper"
+    translation:
+      en: "skyscraper"
+      ko: "초고층 건물"
+    gender: null
+  - english: "cathedral"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: null
+  - english: "palace"
+    translation:
+      en: "palace"
+      ko: "궁전"
+    gender: null
+  - english: "fortress"
+    translation:
+      en: "fortress"
+      ko: "요새"
+    gender: null
+  - english: "monument"
+    translation:
+      en: "monument"
+      ko: "기념비"
+    gender: null
+  - english: "tower"
+    translation:
+      en: "tower"
+      ko: "탑"
+    gender: null
+  - english: "bridge"
+    translation:
+      en: "bridge"
+      ko: "다리"
+    gender: null
+  - english: "dam"
+    translation:
+      en: "dam"
+      ko: "댐"
+    gender: null
+  - english: "amphitheater"
+    translation:
+      en: "amphitheater"
+      ko: "원형 극장"
+    gender: null
+  - english: "pavilion"
+    translation:
+      en: "pavilion"
+      ko: "전시관"
+    gender: null
+  - english: "villa"
+    translation:
+      en: "villa"
+      ko: "별장"
+    gender: null
+  - english: "bungalow"
+    translation:
+      en: "bungalow"
+      ko: "단층 주택"
+    gender: null
+  - english: "cottage"
+    translation:
+      en: "cottage"
+      ko: "시골집"
+    gender: null
+  - english: "mansion"
+    translation:
+      en: "mansion"
+      ko: "대저택"
+    gender: null
+  - english: "penthouse"
+    translation:
+      en: "penthouse"
+      ko: "펜트하우스"
+    gender: null
+- id: architectural_styles
+  label:
+    en: "Architectural Styles"
+    ko: "건축 양식"
+  type: vocabulary
+  words:
+  - english: "Gothic"
+    translation:
+      en: "Gothic"
+      ko: "고딕"
+    gender: null
+  - english: "Baroque"
+    translation:
+      en: "Baroque"
+      ko: "바로크"
+    gender: null
+  - english: "Art Deco"
+    translation:
+      en: "Art Deco"
+      ko: "아르데코"
+    gender: null
+  - english: "Neoclassical"
+    translation:
+      en: "Neoclassical"
+      ko: "신고전주의"
+    gender: null
+  - english: "Modernist"
+    translation:
+      en: "Modernist"
+      ko: "모더니즘"
+    gender: null
+  - english: "Brutalist"
+    translation:
+      en: "Brutalist"
+      ko: "브루탈리즘"
+    gender: null
+  - english: "Postmodern"
+    translation:
+      en: "Postmodern"
+      ko: "포스트모던"
+    gender: null
+  - english: "Minimalist"
+    translation:
+      en: "Minimalist"
+      ko: "미니멀리스트"
+    gender: null
+  - english: "Victorian"
+    translation:
+      en: "Victorian"
+      ko: "빅토리아식"
+    gender: null
+  - english: "Colonial"
+    translation:
+      en: "Colonial"
+      ko: "식민지풍"
+    gender: null
+  - english: "contemporary"
+    translation:
+      en: "contemporary"
+      ko: "현대적인"
+    gender: null
+  - english: "sustainable"
+    translation:
+      en: "sustainable"
+      ko: "지속 가능한"
+    gender: null
+- id: materials_and_structure
+  label:
+    en: "Materials and Structure"
+    ko: "재료 및 구조"
+  type: vocabulary
+  words:
+  - english: "concrete"
+    translation:
+      en: "concrete"
+      ko: "콘크리트"
+    gender: null
+  - english: "steel"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: null
+  - english: "glass"
+    translation:
+      en: "glass"
+      ko: "유리"
+    gender: null
+  - english: "timber"
+    translation:
+      en: "timber"
+      ko: "목재"
+    gender: null
+  - english: "marble"
+    translation:
+      en: "marble"
+      ko: "대리석"
+    gender: null
+  - english: "granite"
+    translation:
+      en: "granite"
+      ko: "화강암"
+    gender: null
+  - english: "foundation"
+    translation:
+      en: "foundation"
+      ko: "기초 / 토대"
+    gender: null
+  - english: "beam"
+    translation:
+      en: "beam"
+      ko: "보 / 대들보"
+    gender: null
+  - english: "column"
+    translation:
+      en: "column"
+      ko: "기둥"
+    gender: null
+  - english: "arch"
+    translation:
+      en: "arch"
+      ko: "아치"
+    gender: null
+  - english: "dome"
+    translation:
+      en: "dome"
+      ko: "돔"
+    gender: null
+  - english: "facade"
+    translation:
+      en: "facade"
+      ko: "정면 / 파사드"
+    gender: null
+  - english: "blueprint"
+    translation:
+      en: "blueprint"
+      ko: "설계도"
+    gender: null
+  - english: "scaffolding"
+    translation:
+      en: "scaffolding"
+      ko: "비계"
+    gender: null
+  - english: "renovation"
+    translation:
+      en: "renovation"
+      ko: "리모델링"
+    gender: null
+- id: urban_design
+  label:
+    en: "Urban Design and Sustainability"
+    ko: "도시 설계 및 지속 가능성"
+  type: vocabulary
+  words:
+  - english: "urban planning"
+    translation:
+      en: "urban planning"
+      ko: "도시 계획"
+    gender: null
+  - english: "zoning"
+    translation:
+      en: "zoning"
+      ko: "용도 지역제"
+    gender: null
+  - english: "infrastructure"
+    translation:
+      en: "infrastructure"
+      ko: "기반 시설"
+    gender: null
+  - english: "public transportation"
+    translation:
+      en: "public transportation"
+      ko: "대중교통"
+    gender: null
+  - english: "green space"
+    translation:
+      en: "green space"
+      ko: "녹지 공간"
+    gender: null
+  - english: "pedestrian zone"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 구역"
+    gender: null
+  - english: "mixed-use"
+    translation:
+      en: "mixed-use"
+      ko: "복합 용도"
+    gender: null
+  - english: "density"
+    translation:
+      en: "density"
+      ko: "밀도"
+    gender: null
+  - english: "sprawl"
+    translation:
+      en: "sprawl"
+      ko: "도시 확산"
+    gender: null
+  - english: "gentrification"
+    translation:
+      en: "gentrification"
+      ko: "젠트리피케이션"
+    gender: null
+  - english: "LEED certification"
+    translation:
+      en: "LEED certification"
+      ko: "LEED 인증"
+    gender: null
+    notes:
+      en: "Leadership in Energy and Environmental Design"
+      ko: "에너지 환경 설계 리더십 인증"
+  - english: "solar panel"
+    translation:
+      en: "solar panel"
+      ko: "태양 전지판"
+    gender: null
+  - english: "green building"
+    translation:
+      en: "green building"
+      ko: "친환경 건물"
+    gender: null
+  - english: "carbon footprint"
+    translation:
+      en: "carbon footprint"
+      ko: "탄소 발자국"
+    gender: null
+  - english: "smart city"
+    translation:
+      en: "smart city"
+      ko: "스마트 시티"
+    gender: null
+  - english: "architect"
+    translation:
+      en: "architect"
+      ko: "건축가"
+    gender: null
+  - english: "landscape architect"
+    translation:
+      en: "landscape architect"
+      ko: "조경 건축가"
+    gender: null
+  - english: "urban planner"
+    translation:
+      en: "urban planner"
+      ko: "도시 계획가"
+    gender: null
+- id: building_elements
+  label:
+    en: "Building Elements"
+    ko: "건축 요소"
+  type: vocabulary
+  words:
+  - english: "vault"
+    translation:
+      en: "vault"
+      ko: "볼트 / 아치형 천장"
+    gender: null
+  - english: "buttress"
+    translation:
+      en: "buttress"
+      ko: "버트레스"
+    gender: null
+  - english: "atrium"
+    translation:
+      en: "atrium"
+      ko: "아트리움 / 중정"
+    gender: null
+  - english: "foyer"
+    translation:
+      en: "foyer"
+      ko: "로비 / 현관홀"
+    gender: null
+  - english: "corridor"
+    translation:
+      en: "corridor"
+      ko: "복도"
+    gender: null
+  - english: "balustrade"
+    translation:
+      en: "balustrade"
+      ko: "난간"
+    gender: null
+  - english: "cornice"
+    translation:
+      en: "cornice"
+      ko: "코니스 / 처마돌림"
+    gender: null
+  - english: "parapet"
+    translation:
+      en: "parapet"
+      ko: "난간벽"
+    gender: null
+  - english: "spire"
+    translation:
+      en: "spire"
+      ko: "첨탑"
+    gender: null
+  - english: "minaret"
+    translation:
+      en: "minaret"
+      ko: "미나렛"
+    gender: null
+  - english: "portico"
+    translation:
+      en: "portico"
+      ko: "포르티코"
+    gender: null
+  - english: "colonnade"
+    translation:
+      en: "colonnade"
+      ko: "열주"
+    gender: null
+  - english: "cantilever"
+    translation:
+      en: "cantilever"
+      ko: "캔틸레버"
+    gender: null
+  - english: "truss"
+    translation:
+      en: "truss"
+      ko: "트러스"
+    gender: null
+- id: sustainability_design
+  label:
+    en: "Sustainable Design"
+    ko: "지속가능한 디자인"
+  type: vocabulary
+  words:
+  - english: "passive house"
+    translation:
+      en: "passive house"
+      ko: "패시브 하우스"
+    gender: null
+  - english: "rainwater harvesting"
+    translation:
+      en: "rainwater harvesting"
+      ko: "빗물 수집"
+    gender: null
+  - english: "gray water"
+    translation:
+      en: "gray water"
+      ko: "중수"
+    gender: null
+  - english: "energy efficiency"
+    translation:
+      en: "energy efficiency"
+      ko: "에너지 효율"
+    gender: null
+  - english: "thermal insulation"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: null
+  - english: "natural ventilation"
+    translation:
+      en: "natural ventilation"
+      ko: "자연 환기"
+    gender: null
+  - english: "green roof"
+    translation:
+      en: "green roof"
+      ko: "녹색 지붕"
+    gender: null
+  - english: "carbon neutral building"
+    translation:
+      en: "carbon neutral building"
+      ko: "탄소 중립 건물"
+    gender: null
+  - english: "smart building"
+    translation:
+      en: "smart building"
+      ko: "스마트 빌딩"
+    gender: null
+  - english: "net-zero energy"
+    translation:
+      en: "net-zero energy"
+      ko: "넷 제로 에너지"
+    gender: null
+  - english: "recycled materials"
+    translation:
+      en: "recycled materials"
+      ko: "재활용 재료"
+    gender: null
+  - english: "sustainable materials"
+    translation:
+      en: "sustainable materials"
+      ko: "지속가능한 재료"
+    gender: null
+  - english: "biomimicry"
+    translation:
+      en: "biomimicry"
+      ko: "생체 모방"
+    gender: null
+  - english: "adaptive reuse"
+    translation:
+      en: "adaptive reuse"
+      ko: "적응적 재사용"
+    gender: null
+  - english: "brownfield"
+    translation:
+      en: "brownfield"
+      ko: "브라운필드"
+    gender: null
+  - english: "urban sprawl"
+    translation:
+      en: "urban sprawl"
+      ko: "도시 확장"
+    gender: null
+  - english: "mixed-use development"
+    translation:
+      en: "mixed-use development"
+      ko: "복합 개발"
+    gender: null
+  - english: "transit-oriented development"
+    translation:
+      en: "transit-oriented development"
+      ko: "대중교통 지향 개발"
+    gender: null
+  - english: "walkability"
+    translation:
+      en: "walkability"
+      ko: "보행성"
+    gender: null
+  - english: "bike lane"
+    translation:
+      en: "bike lane"
+      ko: "자전거 도로"
+    gender: null
+  - english: "public space"
+    translation:
+      en: "public space"
+      ko: "공공 공간"
+    gender: null
+- id: famous_styles
+  label:
+    en: "Famous Architectural Styles"
+    ko: "유명 건축 양식"
+  type: vocabulary
+  words:
+  - english: "Renaissance"
+    translation:
+      en: "Renaissance"
+      ko: "르네상스 양식"
+    gender: null
+  - english: "Art Nouveau"
+    translation:
+      en: "Art Nouveau"
+      ko: "아르누보"
+    gender: null
+  - english: "Brutalism"
+    translation:
+      en: "Brutalism"
+      ko: "브루탈리즘"
+    gender: null
+  - english: "Modernism"
+    translation:
+      en: "Modernism"
+      ko: "모더니즘"
+    gender: null
+  - english: "Minimalism"
+    translation:
+      en: "Minimalism"
+      ko: "미니멀리즘"
+    gender: null
+  - english: "Deconstructivism"
+    translation:
+      en: "Deconstructivism"
+      ko: "해체주의"
+    gender: null
+  - english: "Bauhaus"
+    translation:
+      en: "Bauhaus"
+      ko: "바우하우스"
+    gender: null
+  - english: "Prairie style"
+    translation:
+      en: "Prairie style"
+      ko: "프레리 양식"
+    gender: null
+  - english: "Tudor"
+    translation:
+      en: "Tudor"
+      ko: "튜더 양식"
+    gender: null
+  - english: "Mediterranean"
+    translation:
+      en: "Mediterranean"
+      ko: "지중해 양식"
+    gender: null
+  - english: "Romanesque"
+    translation:
+      en: "Romanesque"
+      ko: "로마네스크 양식"
+    gender: null
+  - english: "Byzantine"
+    translation:
+      en: "Byzantine"
+      ko: "비잔틴 양식"
+    gender: null
+  - english: "Mughal"
+    translation:
+      en: "Mughal"
+      ko: "무굴 양식"
+    gender: null
+  - english: "Vernacular"
+    translation:
+      en: "Vernacular"
+      ko: "토착 건축 양식"
+    gender: null
+
+- id: urban_planning_concepts
+  label:
+    en: "Urban Planning Concepts"
+    ko: "도시 계획 개념"
+  type: vocabulary
+  words:
+  - english: "land use"
+    translation:
+      en: "land use"
+      ko: "토지 이용"
+    gender: null
+  - english: "public transit"
+    translation:
+      en: "public transit"
+      ko: "대중교통"
+    gender: null
+  - english: "greenfield"
+    translation:
+      en: "greenfield"
+      ko: "그린필드"
+    gender: null
+  - english: "master plan"
+    translation:
+      en: "master plan"
+      ko: "기본 계획"
+    gender: null
+  - english: "building code"
+    translation:
+      en: "building code"
+      ko: "건축 기준"
+    gender: null
+  - english: "setback"
+    translation:
+      en: "setback"
+      ko: "건축 후퇴선"
+    gender: null
+  - english: "easement"
+    translation:
+      en: "easement"
+      ko: "지역권"
+    gender: null
+
+- id: construction_materials
+  label:
+    en: "Construction Materials"
+    ko: "건축 자재"
+  type: vocabulary
+  words:
+  - english: "brick"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: null
+  - english: "mortar"
+    translation:
+      en: "mortar"
+      ko: "모르타르"
+    gender: null
+  - english: "rebar"
+    translation:
+      en: "rebar"
+      ko: "철근"
+    gender: null
+  - english: "aluminum"
+    translation:
+      en: "aluminum"
+      ko: "알루미늄"
+    gender: null
+  - english: "insulation"
+    translation:
+      en: "insulation"
+      ko: "단열재"
+    gender: null
+  - english: "drywall"
+    translation:
+      en: "drywall"
+      ko: "석고 보드"
+    gender: null
+  - english: "plywood"
+    translation:
+      en: "plywood"
+      ko: "합판"
+    gender: null
+  - english: "tile"
+    translation:
+      en: "tile"
+      ko: "타일"
+    gender: null
+  - english: "asphalt"
+    translation:
+      en: "asphalt"
+      ko: "아스팔트"
+    gender: null
+
+- id: architectural_design
+  label:
+    en: "Architectural Design"
+    ko: "건축 설계"
+  type: vocabulary
+  words:
+  - english: "floor plan"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: null
+  - english: "elevation"
+    translation:
+      en: "elevation"
+      ko: "입면도"
+    gender: null
+  - english: "cross-section"
+    translation:
+      en: "cross-section"
+      ko: "단면도"
+    gender: null
+  - english: "rendering"
+    translation:
+      en: "rendering"
+      ko: "렌더링"
+    gender: null
+  - english: "scale model"
+    translation:
+      en: "scale model"
+      ko: "축소 모형"
+    gender: null
+  - english: "load-bearing wall"
+    translation:
+      en: "load-bearing wall"
+      ko: "내력벽"
+    gender: null
+  - english: "mezzanine"
+    translation:
+      en: "mezzanine"
+      ko: "메자닌"
+    gender: null
+  - english: "skylight"
+    translation:
+      en: "skylight"
+      ko: "채광창"
+    gender: null
+  - english: "pediment"
+    translation:
+      en: "pediment"
+      ko: "박공"
+    gender: null
+  - english: "turret"
+    translation:
+      en: "turret"
+      ko: "포탑"
+    gender: null
+  - english: "pagoda"
+    translation:
+      en: "pagoda"
+      ko: "탑"
+    gender: null
+  - english: "aqueduct"
+    translation:
+      en: "aqueduct"
+      ko: "수도교"
+    gender: null
+  - english: "viaduct"
+    translation:
+      en: "viaduct"
+      ko: "고가교"
+    gender: null
+  - english: "terrace"
+    translation:
+      en: "terrace"
+      ko: "테라스"
+    gender: null
+  - english: "vestibule"
+    translation:
+      en: "vestibule"
+      ko: "현관"
+    gender: null
+  - english: "rotunda"
+    translation:
+      en: "rotunda"
+      ko: "원형 홀"
+    gender: null
+  - english: "cupola"
+    translation:
+      en: "cupola"
+      ko: "큐폴라"
+    gender: null
+  - english: "cloister"
+    translation:
+      en: "cloister"
+      ko: "회랑"
+    gender: null
+  - english: "courtyard"
+    translation:
+      en: "courtyard"
+      ko: "안마당"
+    gender: null
+  - english: "loggia"
+    translation:
+      en: "loggia"
+      ko: "로지아"
+    gender: null
+
+- id: sustainable_architecture
+  label:
+    en: "Sustainable Architecture"
+    ko: "지속가능 건축"
+  type: vocabulary
+  words:
+  - english: "geothermal heating"
+    translation:
+      en: "geothermal heating"
+      ko: "지열 난방"
+    gender: null
+  - english: "energy-efficient"
+    translation:
+      en: "energy-efficient"
+      ko: "에너지 효율적인"
+    gender: null
+  - english: "carbon-neutral"
+    translation:
+      en: "carbon-neutral"
+      ko: "탄소 중립"
+    gender: null
+  - english: "net-zero building"
+    translation:
+      en: "net-zero building"
+      ko: "넷제로 빌딩"
+    gender: null
+  - english: "recycled material"
+    translation:
+      en: "recycled material"
+      ko: "재활용 자재"
+    gender: null
+  - english: "thermal mass"
+    translation:
+      en: "thermal mass"
+      ko: "축열체"
+    gender: null
+  - english: "double glazing"
+    translation:
+      en: "double glazing"
+      ko: "이중창"
+    gender: null
+  - english: "photovoltaic"
+    translation:
+      en: "photovoltaic"
+      ko: "태양광"
+    gender: null
+  - english: "wind turbine"
+    translation:
+      en: "wind turbine"
+      ko: "풍력 터빈"
+    gender: null
+  - english: "living wall"
+    translation:
+      en: "living wall"
+      ko: "벽면 녹화"
+    gender: null
+
+- id: landscape_architecture
+  label:
+    en: "Landscape Architecture"
+    ko: "조경 건축"
+  type: vocabulary
+  words:
+  - english: "landscape design"
+    translation:
+      en: "landscape design"
+      ko: "조경 설계"
+    gender: null
+  - english: "public park"
+    translation:
+      en: "public park"
+      ko: "공원"
+    gender: null
+  - english: "botanical garden"
+    translation:
+      en: "botanical garden"
+      ko: "식물원"
+    gender: null
+  - english: "promenade"
+    translation:
+      en: "promenade"
+      ko: "산책로"
+    gender: null
+  - english: "fountain"
+    translation:
+      en: "fountain"
+      ko: "분수"
+    gender: null
+  - english: "plaza"
+    translation:
+      en: "plaza"
+      ko: "광장"
+    gender: null
+  - english: "boulevard"
+    translation:
+      en: "boulevard"
+      ko: "대로"
+    gender: null
+  - english: "median"
+    translation:
+      en: "median"
+      ko: "중앙 분리대"
+    gender: null
+  - english: "roundabout"
+    translation:
+      en: "roundabout"
+      ko: "로터리"
+    gender: null
+  - english: "streetscape"
+    translation:
+      en: "streetscape"
+      ko: "가로경관"
+    gender: null
+  - english: "urban forest"
+    translation:
+      en: "urban forest"
+      ko: "도시 숲"
+    gender: null
+  - english: "waterfront"
+    translation:
+      en: "waterfront"
+      ko: "수변 공간"
+    gender: null
+  - english: "boardwalk"
+    translation:
+      en: "boardwalk"
+      ko: "판자 산책로"
+    gender: null
+  - english: "pergola"
+    translation:
+      en: "pergola"
+      ko: "퍼골라"
+    gender: null
+  - english: "gazebo"
+    translation:
+      en: "gazebo"
+      ko: "가제보"
+    gender: null
+  - english: "topography"
+    translation:
+      en: "topography"
+      ko: "지형"
+    gender: null
+  - english: "irrigation"
+    translation:
+      en: "irrigation"
+      ko: "관개"
+    gender: null
+  - english: "hardscape"
+    translation:
+      en: "hardscape"
+      ko: "경성 조경"
+    gender: null
+  - english: "softscape"
+    translation:
+      en: "softscape"
+      ko: "연성 조경"
+    gender: null
+  - english: "retention pond"
+    translation:
+      en: "retention pond"
+      ko: "유수지"
+    gender: null
+  - english: "bioswale"
+    translation:
+      en: "bioswale"
+      ko: "생태 수로"
+    gender: null
+  - english: "native planting"
+    translation:
+      en: "native planting"
+      ko: "자생 식물 식재"
+    gender: null
+  - english: "xeriscape"
+    translation:
+      en: "xeriscape"
+      ko: "절수형 조경"
+    gender: null
+  - english: "permaculture"
+    translation:
+      en: "permaculture"
+      ko: "퍼머컬처"
+    gender: null
+  - english: "community garden"
+    translation:
+      en: "community garden"
+      ko: "커뮤니티 가든"
+    gender: null
+
+- id: famous_buildings
+  label:
+    en: "Famous Buildings and Structures"
+    ko: "유명 건축물"
+  type: vocabulary
+  words:
+  - english: "mosque"
+    translation:
+      en: "mosque"
+      ko: "모스크"
+    gender: null
+  - english: "temple"
+    translation:
+      en: "temple"
+      ko: "사원"
+    gender: null
+  - english: "abbey"
+    translation:
+      en: "abbey"
+      ko: "수도원"
+    gender: null
+  - english: "basilica"
+    translation:
+      en: "basilica"
+      ko: "바실리카"
+    gender: null
+  - english: "obelisk"
+    translation:
+      en: "obelisk"
+      ko: "오벨리스크"
+    gender: null
+  - english: "coliseum"
+    translation:
+      en: "coliseum"
+      ko: "원형 경기장"
+    gender: null
