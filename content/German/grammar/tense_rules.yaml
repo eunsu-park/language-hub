@@ -1,0 +1,500 @@
+# German Tense Formation Rules and Usage
+# Simple tenses + Compound tenses
+
+tenses:
+  # ============================================================
+  # SIMPLE TENSES
+  # ============================================================
+  present:
+    id: present
+    label:
+      en: "Present Tense (Präsens)"
+      ko: "현재 시제 (Präsens)"
+    cefr: A1
+    formation:
+      en: "Remove infinitive ending (-en or -n) to get the stem, then add present tense personal endings."
+      ko: "부정사 어미(-en 또는 -n)를 제거하여 어간을 구하고, 현재 시제 인칭 어미를 추가."
+    endings:
+      regular:
+        ich: "-e"
+        du: "-st"
+        er: "-t"
+        wir: "-en"
+        ihr: "-t"
+        sie: "-en"
+    stem_changes_in_present:
+      en: "Many strong verbs change their stem vowel in du and er/sie/es forms only: e→i (sprechen→sprichst), e→ie (lesen→liest), a→ä (fahren→fährst)."
+      ko: "많은 강변화 동사는 du와 er/sie/es 형태에서만 어간 모음이 변함: e→i (sprechen→sprichst), e→ie (lesen→liest), a→ä (fahren→fährst)."
+    special_cases:
+      en: "Stems ending in -t, -d, -chn, -ffn, -gn add an extra -e- before -st and -t endings: du arbeitest, er arbeitet, ihr arbeitet."
+      ko: "-t, -d, -chn, -ffn, -gn으로 끝나는 어간은 -st와 -t 어미 앞에 -e-를 추가: du arbeitest, er arbeitet, ihr arbeitet."
+    uses:
+      - en: "Habitual actions and routines"
+        ko: "습관적 행동과 일상"
+        example: "Ich trinke jeden Morgen Kaffee."
+      - en: "Current states and facts"
+        ko: "현재의 상태와 사실"
+        example: "Er wohnt in Berlin."
+      - en: "Actions happening now"
+        ko: "지금 일어나고 있는 행동"
+        example: "Was machst du gerade?"
+      - en: "Future events (with time expression)"
+        ko: "미래의 일 (시간 표현과 함께)"
+        example: "Morgen fahre ich nach Hamburg."
+      - en: "Timeless facts and general truths"
+        ko: "불변의 사실과 일반적 진리"
+        example: "Die Erde dreht sich um die Sonne."
+      - en: "Historical present (in narratives)"
+        ko: "역사적 현재 (이야기에서)"
+        example: "1989 fällt die Berliner Mauer."
+    trigger_words: [jetzt, gerade, heute, immer, oft, manchmal, jeden Tag, normalerweise, gewöhnlich, nie, morgen (colloquial future)]
+
+  preterite:
+    id: preterite
+    label:
+      en: "Simple Past (Präteritum)"
+      ko: "단순 과거 (Präteritum)"
+    cefr: A2
+    formation:
+      en: "Weak verbs: stem + -te + personal endings. Strong verbs: vowel change in stem + zero ending (ich/er) or personal endings."
+      ko: "약변화 동사: 어간 + -te + 인칭 어미. 강변화 동사: 어간 모음 변화 + 무어미 (ich/er) 또는 인칭 어미."
+    endings:
+      weak:
+        ich: "-te"
+        du: "-test"
+        er: "-te"
+        wir: "-ten"
+        ihr: "-tet"
+        sie: "-ten"
+      strong:
+        ich: "- (no ending)"
+        du: "-st"
+        er: "- (no ending)"
+        wir: "-en"
+        ihr: "-t"
+        sie: "-en"
+    strong_verb_vowel_changes:
+      en: "Strong verbs undergo Ablaut (vowel gradation) in Präteritum"
+      ko: "강변화 동사는 과거형에서 모음 교체(Ablaut)가 일어남"
+      examples:
+        gehen: ging
+        kommen: kam
+        fahren: fuhr
+        sprechen: sprach
+        nehmen: nahm
+        geben: gab
+        lesen: las
+    uses:
+      - en: "Written narrative and literary prose"
+        ko: "서면 이야기와 문학 산문"
+        example: "Er ging durch den Wald und sah einen Fuchs."
+      - en: "News reports and journalism"
+        ko: "뉴스 보도와 저널리즘"
+        example: "Der Präsident besuchte gestern die Fabrik."
+      - en: "Common auxiliary and modal verbs in everyday speech"
+        ko: "일상 대화에서의 일반적 조동사와 화법조동사"
+        example: "Ich war müde. Er hatte keine Zeit. Sie konnte nicht kommen."
+      - en: "Formal storytelling and fairy tales"
+        ko: "격식체 이야기와 동화"
+        example: "Es war einmal ein König..."
+      - en: "Sequential past events in writing"
+        ko: "글에서의 연속적 과거 사건"
+        example: "Sie stand auf, frühstückte und ging zur Arbeit."
+    trigger_words: [gestern, letzte Woche, letztes Jahr, damals, früher, vor zwei Tagen, im Jahr 2020, eines Tages, plötzlich]
+    notes:
+      en: "In spoken German, Perfekt is strongly preferred for past events. Präteritum is mainly used in writing, EXCEPT for sein, haben, werden, and modal verbs, which commonly use Präteritum even in speech."
+      ko: "구어 독일어에서는 과거 사건에 완료형(Perfekt)이 강하게 선호됨. 과거형(Präteritum)은 주로 글에서 사용되지만, sein, haben, werden 및 화법조동사는 구어에서도 과거형을 흔히 사용."
+
+  konjunktiv_ii:
+    id: konjunktiv_ii
+    label:
+      en: "Subjunctive II (Konjunktiv II)"
+      ko: "접속법 II (Konjunktiv II)"
+    cefr: B1
+    formation:
+      en: >
+        Two methods: (1) Synthetic form: Präteritum stem + umlaut (if possible) +
+        subjunctive endings (-e, -est, -e, -en, -et, -en). (2) Periphrastic form:
+        würde + Infinitiv (more common for regular verbs and in everyday speech).
+      ko: >
+        두 가지 방법: (1) 종합 형태: 과거형 어간 + 움라우트 (가능한 경우) +
+        접속법 어미 (-e, -est, -e, -en, -et, -en). (2) 우회 형태:
+        würde + 부정사 (약변화 동사와 일상 대화에서 더 일반적).
+    würde_conjugation:
+      ich: würde
+      du: würdest
+      er: würde
+      wir: würden
+      ihr: würdet
+      sie: würden
+    synthetic_vs_periphrastic:
+      en: >
+        Synthetic forms are preferred for: sein (wäre), haben (hätte), werden (würde),
+        modal verbs (könnte, müsste, dürfte, sollte, wollte), and a few common strong
+        verbs (ginge, käme, wüsste, gäbe, ließe, bräuchte). For all other verbs, use
+        würde + Infinitiv.
+      ko: >
+        종합 형태가 선호되는 동사: sein (wäre), haben (hätte), werden (würde),
+        화법조동사 (könnte, müsste, dürfte, sollte, wollte), 일부 흔한 강변화 동사
+        (ginge, käme, wüsste, gäbe, ließe, bräuchte). 그 외 모든 동사는
+        würde + 부정사 사용.
+    uses:
+      - en: "Unreal/hypothetical conditions (wenn-clauses)"
+        ko: "비현실적/가정적 조건 (wenn절)"
+        example: "Wenn ich reich wäre, würde ich reisen."
+      - en: "Wishes and desires"
+        ko: "소망과 욕구"
+        example: "Ich wünschte, ich hätte mehr Zeit."
+      - en: "Polite requests and suggestions"
+        ko: "정중한 요청과 제안"
+        example: "Könnten Sie mir bitte helfen?"
+      - en: "Contrary-to-fact statements"
+        ko: "사실에 반하는 진술"
+        example: "An deiner Stelle würde ich das nicht machen."
+      - en: "Reported speech (Konjunktiv I replacement)"
+        ko: "간접 화법 (접속법 I 대체)"
+        example: "Er sagte, er hätte keine Zeit."
+    trigger_words: [wenn, falls, an deiner/seiner Stelle, ich wünschte, gern, lieber, am liebsten, hätte gern, könnte, würde]
+
+  imperative:
+    id: imperative
+    label:
+      en: "Imperative (Imperativ)"
+      ko: "명령법 (Imperativ)"
+    cefr: A1
+    formation:
+      en: >
+        Three forms: (1) du-form: verb stem (+ optional -e), drop the -st ending
+        of present tense. (2) ihr-form: same as present tense ihr-form.
+        (3) Sie-form: infinitive + Sie (inverted word order).
+      ko: >
+        세 가지 형태: (1) du형: 동사 어간 (+ 선택적 -e), 현재 시제의 -st 어미 제거.
+        (2) ihr형: 현재 시제 ihr형과 동일.
+        (3) Sie형: 부정사 + Sie (도치 어순).
+    forms:
+      du_form:
+        en: "Verb stem (present tense du-form minus -st). Optional -e for most verbs (mandatory for stems ending in -t, -d, -ig, -chn, -ffn, -gn)."
+        ko: "동사 어간 (현재 시제 du형에서 -st 제거). 대부분 선택적 -e (-t, -d, -ig, -chn, -ffn, -gn으로 끝나는 어간은 필수)."
+        regular_examples:
+          - "Mach(e) das! (Do that!)"
+          - "Lern(e) Deutsch! (Learn German!)"
+        stem_change_examples:
+          - "Sprich lauter! (Speak louder!) — e→i stem change kept"
+          - "Lies das Buch! (Read the book!) — e→ie stem change kept"
+          - "Fahr(e) langsam! (Drive slowly!) — a→ä NOT used in imperative"
+        note:
+          en: "Verbs with e→i or e→ie stem change KEEP the change in du-imperative. Verbs with a→ä do NOT use the umlaut in imperative."
+          ko: "e→i 또는 e→ie 어간 변화가 있는 동사는 du 명령형에서 변화를 유지. a→ä 변화가 있는 동사는 명령형에서 움라우트를 사용하지 않음."
+      ihr_form:
+        en: "Same as present tense ihr-conjugation (no pronoun)."
+        ko: "현재 시제 ihr 활용형과 동일 (대명사 없음)."
+        examples:
+          - "Macht das! (Do that! — plural informal)"
+          - "Lernt Deutsch! (Learn German! — plural informal)"
+      sie_form:
+        en: "Infinitive + Sie (always with pronoun, formal address)."
+        ko: "부정사 + Sie (항상 대명사 포함, 격식체)."
+        examples:
+          - "Machen Sie das! (Do that! — formal)"
+          - "Kommen Sie herein! (Come in! — formal)"
+    irregular_imperative:
+      sein:
+        du: sei!
+        ihr: seid!
+        Sie: seien Sie!
+    uses:
+      - en: "Direct commands and instructions"
+        ko: "직접 명령과 지시"
+        example: "Öffne das Fenster!"
+      - en: "Advice and suggestions"
+        ko: "조언과 제안"
+        example: "Trink mehr Wasser!"
+      - en: "Recipes and directions"
+        ko: "요리법과 길안내"
+        example: "Gehen Sie geradeaus und dann links."
+      - en: "Encouragement"
+        ko: "격려"
+        example: "Hab keine Angst!"
+      - en: "Warning"
+        ko: "경고"
+        example: "Pass auf!"
+
+  # ============================================================
+  # COMPOUND TENSES
+  # ============================================================
+  present_perfect:
+    id: present_perfect
+    label:
+      en: "Present Perfect (Perfekt)"
+      ko: "현재 완료 (Perfekt)"
+    cefr: A2
+    formation:
+      en: "Present tense of HABEN or SEIN + Partizip II (past participle). Partizip II goes to the end of the clause."
+      ko: "HABEN 또는 SEIN의 현재형 + 과거분사(Partizip II). 과거분사는 절의 끝에 위치."
+    haben_conjugation:
+      ich: habe
+      du: hast
+      er: hat
+      wir: haben
+      ihr: habt
+      sie: haben
+    sein_conjugation:
+      ich: bin
+      du: bist
+      er: ist
+      wir: sind
+      ihr: seid
+      sie: sind
+    auxiliary_selection:
+      sein:
+        en: "Intransitive verbs of motion (gehen, kommen, fahren), change of state (sterben, werden, einschlafen), plus sein and bleiben."
+        ko: "이동의 자동사 (gehen, kommen, fahren), 상태 변화 (sterben, werden, einschlafen), sein과 bleiben."
+      haben:
+        en: "All other verbs: transitive verbs, most intransitive verbs, all reflexive verbs, and modal verbs."
+        ko: "그 외 모든 동사: 타동사, 대부분의 자동사, 모든 재귀동사, 화법조동사."
+    partizip_ii_formation:
+      en: "Weak: ge- + stem + -t (gemacht). Strong: ge- + (changed) stem + -en (gegangen). No ge- for inseparable prefixes (verstanden) or -ieren verbs (studiert). Separable verbs: prefix + ge- + stem (aufgemacht)."
+      ko: "약변화: ge- + 어간 + -t (gemacht). 강변화: ge- + (변화된) 어간 + -en (gegangen). 분리 불가 접두사 (verstanden)나 -ieren 동사 (studiert)는 ge- 없음. 분리동사: 접두사 + ge- + 어간 (aufgemacht)."
+    examples:
+      - "Ich habe das Buch gelesen. (I have read the book.)"
+      - "Sie ist nach Hause gegangen. (She went home.)"
+    uses:
+      - en: "Completed past actions in spoken German (main past tense in conversation)"
+        ko: "구어 독일어에서 완료된 과거 행동 (대화에서 주요 과거 시제)"
+        example: "Ich habe gestern einen Film gesehen."
+      - en: "Recent events with present relevance"
+        ko: "현재와 관련있는 최근 사건"
+        example: "Ich habe meine Hausaufgaben gemacht."
+      - en: "Life experiences"
+        ko: "인생 경험"
+        example: "Bist du schon einmal nach Japan geflogen?"
+      - en: "Actions with results still visible now"
+        ko: "결과가 아직 현재에 보이는 행동"
+        example: "Er hat sich den Arm gebrochen."
+      - en: "Informal writing (emails, messages)"
+        ko: "비격식 글쓰기 (이메일, 메시지)"
+        example: "Ich habe dir eine E-Mail geschickt."
+    trigger_words: [schon, bereits, noch nicht, gerade, heute, gestern, letzte Woche, einmal, nie, je]
+    notes:
+      en: "Perfekt is the dominant past tense in spoken German for ALL regions. Präteritum in speech is limited to haben, sein, werden, and modal verbs."
+      ko: "완료형(Perfekt)은 모든 지역의 구어 독일어에서 지배적인 과거 시제. 구어에서의 과거형(Präteritum)은 haben, sein, werden, 화법조동사에 한정."
+
+  pluperfect:
+    id: pluperfect
+    label:
+      en: "Pluperfect (Plusquamperfekt)"
+      ko: "대과거 (Plusquamperfekt)"
+    cefr: B1
+    formation:
+      en: "Präteritum of HABEN (hatte) or SEIN (war) + Partizip II"
+      ko: "HABEN의 과거형 (hatte) 또는 SEIN의 과거형 (war) + 과거분사"
+    haben_conjugation:
+      ich: hatte
+      du: hattest
+      er: hatte
+      wir: hatten
+      ihr: hattet
+      sie: hatten
+    sein_conjugation:
+      ich: war
+      du: warst
+      er: war
+      wir: waren
+      ihr: wart
+      sie: waren
+    examples:
+      - "Ich hatte schon gegessen, als er kam. (I had already eaten when he came.)"
+      - "Sie war schon gegangen, bevor ich ankam. (She had already left before I arrived.)"
+    uses:
+      - en: "An action completed before another past action"
+        ko: "다른 과거 행동 이전에 완료된 행동"
+        example: "Nachdem ich gefrühstückt hatte, ging ich zur Arbeit."
+      - en: "Past experience before a reference point in the past"
+        ko: "과거의 기준 시점 이전의 경험"
+        example: "Ich hatte so etwas noch nie gesehen."
+      - en: "Expressing regret about the past"
+        ko: "과거에 대한 후회 표현"
+        example: "Wenn ich das gewusst hätte, wäre ich gekommen."
+      - en: "Providing background in narratives"
+        ko: "서사에서 배경 제공"
+        example: "Er war müde, weil er die ganze Nacht gearbeitet hatte."
+    trigger_words: [nachdem, bevor, bereits, schon, als, vorher, davor, bis dahin]
+
+  future_i:
+    id: future_i
+    label:
+      en: "Future I (Futur I)"
+      ko: "미래 I (Futur I)"
+    cefr: B1
+    formation:
+      en: "Present tense of WERDEN + Infinitiv (at end of clause)"
+      ko: "WERDEN의 현재형 + 부정사 (절의 끝에 위치)"
+    werden_conjugation:
+      ich: werde
+      du: wirst
+      er: wird
+      wir: werden
+      ihr: werdet
+      sie: werden
+    examples:
+      - "Ich werde morgen nach München fahren. (I will drive to Munich tomorrow.)"
+      - "Es wird regnen. (It will rain.)"
+    uses:
+      - en: "Predictions and forecasts"
+        ko: "예측과 전망"
+        example: "Es wird morgen schneien."
+      - en: "Firm intentions and promises"
+        ko: "확고한 의향과 약속"
+        example: "Ich werde dich anrufen."
+      - en: "Probability/conjecture about the present"
+        ko: "현재에 대한 추측"
+        example: "Er wird wohl krank sein. (He's probably sick.)"
+      - en: "Formal announcements"
+        ko: "공식적인 발표"
+        example: "Die Firma wird 100 neue Stellen schaffen."
+      - en: "Threats and warnings"
+        ko: "위협과 경고"
+        example: "Du wirst das bereuen!"
+    trigger_words: [morgen, nächste Woche, nächstes Jahr, bald, in Zukunft, wahrscheinlich, wohl, sicher, bestimmt]
+    notes:
+      en: "In everyday German, the present tense with a time expression is more common for future events: Ich fahre morgen. Futur I is preferred for emphasis, predictions, or when no time expression is present."
+      ko: "일상 독일어에서는 시간 표현이 있는 현재 시제가 미래 사건에 더 흔함: Ich fahre morgen. 미래 I은 강조, 예측, 또는 시간 표현이 없을 때 선호."
+
+  future_ii:
+    id: future_ii
+    label:
+      en: "Future II (Futur II)"
+      ko: "미래 II (Futur II)"
+    cefr: B2
+    formation:
+      en: "Present tense of WERDEN + Partizip II + haben/sein (Infinitiv of auxiliary)"
+      ko: "WERDEN의 현재형 + 과거분사 + haben/sein (조동사의 부정사)"
+    pattern:
+      en: "Subject + werden (conjugated) + ... + Partizip II + haben/sein"
+      ko: "주어 + werden (활용) + ... + 과거분사 + haben/sein"
+    examples:
+      - "Bis morgen werde ich das Buch gelesen haben. (By tomorrow I will have read the book.)"
+      - "Er wird schon angekommen sein. (He will have already arrived.)"
+    uses:
+      - en: "An action that will be completed before a future point in time"
+        ko: "미래의 특정 시점 이전에 완료될 행동"
+        example: "Bis nächsten Freitag werden wir das Projekt beendet haben."
+      - en: "Conjecture about something that has probably happened"
+        ko: "아마 이미 일어났을 일에 대한 추측"
+        example: "Sie wird den Brief wohl schon bekommen haben."
+      - en: "Expressing certainty about a past event"
+        ko: "과거 사건에 대한 확신 표현"
+        example: "Er wird das sicher vergessen haben."
+    trigger_words: [bis (+ time), wohl, sicher, bestimmt, wahrscheinlich, schon]
+
+  konjunktiv_ii_perfect:
+    id: konjunktiv_ii_perfect
+    label:
+      en: "Subjunctive II Perfect (Konjunktiv II Perfekt)"
+      ko: "접속법 II 완료 (Konjunktiv II Perfekt)"
+    cefr: B2
+    formation:
+      en: "Konjunktiv II of HABEN (hätte) or SEIN (wäre) + Partizip II"
+      ko: "HABEN의 접속법 II (hätte) 또는 SEIN의 접속법 II (wäre) + 과거분사"
+    hätte_conjugation:
+      ich: hätte
+      du: hättest
+      er: hätte
+      wir: hätten
+      ihr: hättet
+      sie: hätten
+    wäre_conjugation:
+      ich: wäre
+      du: wärst
+      er: wäre
+      wir: wären
+      ihr: wärt
+      sie: wären
+    examples:
+      - "Ich hätte das nicht gemacht. (I wouldn't have done that.)"
+      - "Wenn ich das gewusst hätte, wäre ich gekommen. (If I had known that, I would have come.)"
+    uses:
+      - en: "Unreal conditions in the past (past contrary-to-fact)"
+        ko: "과거의 비현실 조건 (과거 반사실적)"
+        example: "Wenn er früher aufgestanden wäre, hätte er den Zug erreicht."
+      - en: "Regrets and wishes about the past"
+        ko: "과거에 대한 후회와 소망"
+        example: "Ich hätte mehr lernen sollen."
+      - en: "Polite past assumptions"
+        ko: "정중한 과거 추측"
+        example: "Das hätte jeder machen können."
+      - en: "Reported past conditions"
+        ko: "간접 화법의 과거 조건"
+        example: "Er sagte, er hätte es nicht gewusst."
+    trigger_words: [wenn, hätte, wäre, falls, an deiner Stelle]
+
+  passive:
+    id: passive
+    label:
+      en: "Passive Voice (Passiv)"
+      ko: "수동태 (Passiv)"
+    cefr: B2
+    formation:
+      en: "WERDEN (conjugated in appropriate tense) + Partizip II. Agent introduced with 'von' (person) or 'durch' (means/cause)."
+      ko: "WERDEN (해당 시제로 활용) + 과거분사. 행위자는 'von' (사람)이나 'durch' (수단/원인)으로 도입."
+    tense_forms:
+      present_passive:
+        formation: "werden (present) + Partizip II"
+        example: "Das Haus wird gebaut. (The house is being built.)"
+      preterite_passive:
+        formation: "wurde + Partizip II"
+        example: "Das Haus wurde gebaut. (The house was built.)"
+      perfekt_passive:
+        formation: "sein (present) + Partizip II + worden"
+        example: "Das Haus ist gebaut worden. (The house has been built.)"
+        note:
+          en: "'worden' (not 'geworden') is used in passive Perfekt."
+          ko: "수동태 완료형에서 'worden' ('geworden' 아님)을 사용."
+      plusquamperfekt_passive:
+        formation: "war + Partizip II + worden"
+        example: "Das Haus war gebaut worden. (The house had been built.)"
+      futur_passive:
+        formation: "werden + Partizip II + werden"
+        example: "Das Haus wird gebaut werden. (The house will be built.)"
+    passive_types:
+      vorgangspassiv:
+        label:
+          en: "Process Passive (Vorgangspassiv)"
+          ko: "동작 수동태 (Vorgangspassiv)"
+        formation: "werden + Partizip II"
+        description:
+          en: "Describes an action being performed. This is the standard passive voice."
+          ko: "수행 중인 행동을 묘사. 이것이 표준 수동태."
+        example: "Die Tür wird geöffnet. (The door is being opened.)"
+      zustandspassiv:
+        label:
+          en: "State Passive (Zustandspassiv)"
+          ko: "상태 수동태 (Zustandspassiv)"
+        formation: "sein + Partizip II"
+        description:
+          en: "Describes the result/state after an action. Not a true tense but looks like passive."
+          ko: "행동 이후의 결과/상태를 묘사. 진정한 시제는 아니지만 수동태처럼 보임."
+        example: "Die Tür ist geöffnet. (The door is open. — state, not process)"
+    uses:
+      - en: "When the agent is unknown or unimportant"
+        ko: "행위자가 알려지지 않았거나 중요하지 않을 때"
+        example: "Das Fenster wurde zerbrochen."
+      - en: "Formal/official language, rules, regulations"
+        ko: "공식적 언어, 규칙, 규정"
+        example: "Hier wird nicht geraucht."
+      - en: "Scientific and technical writing"
+        ko: "과학 및 기술 문서"
+        example: "Das Experiment wurde dreimal wiederholt."
+      - en: "News reports"
+        ko: "뉴스 보도"
+        example: "Der Verdächtige wurde gestern verhaftet."
+      - en: "Impersonal passive (no subject)"
+        ko: "비인칭 수동태 (주어 없음)"
+        example: "Hier wird getanzt. (There is dancing here.)"
+    alternatives:
+      man_construction:
+        en: "Using 'man' (one/people) as subject instead of passive: Man baut ein Haus. = Ein Haus wird gebaut."
+        ko: "'man' (사람들)을 주어로 사용하여 수동태 대체: Man baut ein Haus. = Ein Haus wird gebaut."
+      sich_lassen:
+        en: "Using 'sich lassen' + Infinitiv for possibility passive: Das lässt sich machen. (That can be done.)"
+        ko: "'sich lassen' + 부정사로 가능성 수동태: Das lässt sich machen. (그것은 할 수 있다.)"

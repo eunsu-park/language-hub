@@ -1,0 +1,40 @@
+# German Grammar — Index
+# Directory: language-hub/content/German/grammar/
+
+course: German
+section: grammar
+label:
+  en: "German Grammar Reference"
+  ko: "독일어 문법 참고서"
+
+files:
+  - file: conjugations.yaml
+    description:
+      en: "Complete verb conjugation paradigms for 20 German verbs across 6 tenses"
+      ko: "20개 독일어 동사의 6개 시제 전체 활용 패러다임"
+    verbs_included: 20
+    categories:
+      - weak (machen, spielen, lernen, arbeiten, wohnen)
+      - strong (sein, haben, werden, gehen, kommen, fahren, lesen, sprechen, nehmen, geben)
+      - modal (können, müssen, dürfen, sollen, wollen)
+
+  - file: tense_rules.yaml
+    description:
+      en: "Tense formation rules, endings, usage guidelines, and trigger words"
+      ko: "시제 형성 규칙, 어미, 사용법 지침, 신호 단어"
+    tenses_included:
+      simple: [present, preterite, konjunktiv_ii, imperative]
+      compound: [present_perfect, pluperfect, future_i, future_ii, konjunktiv_ii_perfect, passive]
+
+  - file: grammar_rules.yaml
+    description:
+      en: "Grammar rules, contrasts, and patterns for German"
+      ko: "독일어 문법 규칙, 대조, 패턴"
+    rules_included:
+      - cases_overview
+      - article_declension
+      - adjective_endings
+      - separable_verbs
+      - word_order
+      - haben_vs_sein
+      - konjunktiv_ii
