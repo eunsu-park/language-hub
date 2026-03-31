@@ -1,0 +1,1476 @@
+lesson: "sup_B2_Economics_and_Business"
+lesson_number: 166
+cefr: B2
+type: supplementary
+topic: "Economics and Business"
+categories:
+- id: makrooekonomie
+  label:
+    en: "Macroeconomics (Makroökonomie)"
+    ko: "거시경제학 (Makroökonomie)"
+  type: vocabulary
+  words:
+  - german: "das Bruttoinlandsprodukt (BIP)"
+    translation:
+      en: "gross domestic product (GDP)"
+      ko: "국내총생산 (GDP)"
+    gender: n
+    notes:
+      en: "das BIP pro Kopf = GDP per capita"
+      ko: "das BIP pro Kopf = 1인당 GDP"
+  - german: "die Inflation"
+    translation:
+      en: "inflation"
+      ko: "인플레이션"
+    gender: f
+    notes:
+      en: "die Inflationsrate = inflation rate"
+      ko: "die Inflationsrate = 물가 상승률"
+  - german: "die Deflation"
+    translation:
+      en: "deflation"
+      ko: "디플레이션"
+    gender: f
+    notes:
+      en: "Opposite of inflation; falling price levels"
+      ko: "인플레이션의 반대; 물가 수준 하락"
+  - german: "die Rezession, -en"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+    notes:
+      en: "Two consecutive quarters of negative GDP growth"
+      ko: "2분기 연속 마이너스 GDP 성장"
+  - german: "das Wirtschaftswachstum"
+    translation:
+      en: "economic growth"
+      ko: "경제 성장"
+    gender: n
+    notes:
+      en: "nachhaltiges Wirtschaftswachstum = sustainable economic growth"
+      ko: "nachhaltiges Wirtschaftswachstum = 지속 가능한 경제 성장"
+  - german: "die Arbeitslosenquote, -n"
+    translation:
+      en: "unemployment rate"
+      ko: "실업률"
+    gender: f
+    notes:
+      en: "die Arbeitslosigkeit = unemployment"
+      ko: "die Arbeitslosigkeit = 실업"
+  - german: "die Konjunktur"
+    translation:
+      en: "economic cycle / business climate"
+      ko: "경기 / 경기 순환"
+    gender: f
+    notes:
+      en: "der Konjunkturzyklus = business cycle"
+      ko: "der Konjunkturzyklus = 경기 순환"
+  - german: "die Geldpolitik"
+    translation:
+      en: "monetary policy"
+      ko: "통화 정책"
+    gender: f
+    notes:
+      en: "die Europäische Zentralbank (EZB) = European Central Bank"
+      ko: "die Europäische Zentralbank (EZB) = 유럽 중앙은행"
+  - german: "die Fiskalpolitik"
+    translation:
+      en: "fiscal policy"
+      ko: "재정 정책"
+    gender: f
+    notes:
+      en: "die Steuerpolitik = tax policy"
+      ko: "die Steuerpolitik = 세금 정책"
+  - german: "die Staatsverschuldung"
+    translation:
+      en: "national debt"
+      ko: "국가 부채"
+    gender: f
+    notes:
+      en: "die Schuldenbremse = debt brake (German fiscal rule)"
+      ko: "die Schuldenbremse = 부채 제동 장치 (독일 재정 규칙)"
+  - german: "der Zinssatz, Zinssätze"
+    translation:
+      en: "interest rate"
+      ko: "이자율"
+    gender: m
+    notes:
+      en: "der Leitzins = key interest rate"
+      ko: "der Leitzins = 기준 금리"
+  - german: "der Wechselkurs, -e"
+    translation:
+      en: "exchange rate"
+      ko: "환율"
+    gender: m
+    notes:
+      en: "der Euro-Dollar-Wechselkurs"
+      ko: "유로-달러 환율"
+  - german: "die Kaufkraft"
+    translation:
+      en: "purchasing power"
+      ko: "구매력"
+    gender: f
+    notes:
+      en: "die Kaufkraftparität = purchasing power parity"
+      ko: "die Kaufkraftparität = 구매력 평가"
+  - german: "die Subvention, -en"
+    translation:
+      en: "subsidy"
+      ko: "보조금"
+    gender: f
+    notes:
+      en: "subventionieren = to subsidize"
+      ko: "subventionieren = 보조금을 지급하다"
+  - german: "die Privatisierung, -en"
+    translation:
+      en: "privatization"
+      ko: "민영화"
+    gender: f
+    notes:
+      en: "die Verstaatlichung = nationalization (opposite)"
+      ko: "die Verstaatlichung = 국유화 (반대)"
+  - german: "die Volkswirtschaft, -en"
+    translation:
+      en: "national economy"
+      ko: "국민 경제"
+    gender: f
+    notes:
+      en: "volkswirtschaftlich = macroeconomic"
+      ko: "volkswirtschaftlich = 거시경제적인"
+  - german: "der Haushaltdefizit, -e"
+    translation:
+      en: "budget deficit"
+      ko: "재정 적자"
+    gender: n
+    notes:
+      en: "der Haushaltsüberschuss = budget surplus"
+      ko: "der Haushaltsüberschuss = 재정 흑자"
+  - german: "die Stagnation"
+    translation:
+      en: "stagnation"
+      ko: "경기 침체 / 정체"
+    gender: f
+    notes:
+      en: "die Stagflation = stagflation"
+      ko: "die Stagflation = 스태그플레이션"
+  - german: "die Deregulierung, -en"
+    translation:
+      en: "deregulation"
+      ko: "규제 완화"
+    gender: f
+    notes:
+      en: "die Regulierung = regulation"
+      ko: "die Regulierung = 규제"
+  - german: "die Rezession, -en"
+    translation:
+      en: "recession"
+      ko: "경기 침체"
+    gender: f
+    notes:
+      en: "eine wirtschaftliche Rezession = an economic recession"
+      ko: "경제적 침체"
+  - german: "die Konjunktur, -en"
+    translation:
+      en: "economic cycle / boom"
+      ko: "경기"
+    gender: f
+    notes:
+      en: "der Konjunkturaufschwung = economic upturn"
+      ko: "der Konjunkturaufschwung = 경기 상승"
+  - german: "die Staatsanleihe, -n"
+    translation:
+      en: "government bond"
+      ko: "국채"
+    gender: f
+    notes:
+      en: "Staatsanleihen ausgeben = to issue government bonds"
+      ko: "국채를 발행하다"
+  - german: "die Subvention, -en"
+    translation:
+      en: "subsidy"
+      ko: "보조금"
+    gender: f
+    notes:
+      en: "subventionieren = to subsidize"
+      ko: "subventionieren = 보조금을 지급하다"
+  - german: "die Zinspolitik"
+    translation:
+      en: "interest rate policy"
+      ko: "금리 정책"
+    gender: f
+    notes:
+      en: "die Niedrigzinspolitik = low interest rate policy"
+      ko: "저금리 정책"
+  - german: "die Haushaltspolitik"
+    translation:
+      en: "fiscal policy"
+      ko: "재정 정책"
+    gender: f
+    notes:
+      en: "der Haushaltsplan = budget plan"
+      ko: "der Haushaltsplan = 예산안"
+  - german: "die Kaufkraft"
+    translation:
+      en: "purchasing power"
+      ko: "구매력"
+    gender: f
+    notes:
+      en: "der Kaufkraftverlust = loss of purchasing power"
+      ko: "구매력 손실"
+  - german: "die Privatisierung, -en"
+    translation:
+      en: "privatization"
+      ko: "민영화"
+    gender: f
+    notes:
+      en: "privatisieren = to privatize"
+      ko: "privatisieren = 민영화하다"
+  - german: "die Verstaatlichung, -en"
+    translation:
+      en: "nationalization"
+      ko: "국유화"
+    gender: f
+    notes:
+      en: "verstaatlichen = to nationalize"
+      ko: "verstaatlichen = 국유화하다"
+  - german: "das Sozialprodukt"
+    translation:
+      en: "national product"
+      ko: "국민 총생산"
+    gender: n
+    notes:
+      en: "das Bruttosozialprodukt = gross national product"
+      ko: "das Bruttosozialprodukt = 국민 총생산"
+  - german: "der Leitzins, -en"
+    translation:
+      en: "key interest rate"
+      ko: "기준 금리"
+    gender: m
+    notes:
+      en: "den Leitzins senken = to lower the key interest rate"
+      ko: "기준 금리를 인하하다"
+  - german: "die Schuldenkrise, -n"
+    translation:
+      en: "debt crisis"
+      ko: "부채 위기"
+    gender: f
+    notes:
+      en: "die europäische Schuldenkrise = European debt crisis"
+      ko: "유럽 부채 위기"
+  - german: "der Haushalt, -e"
+    translation:
+      en: "budget / household"
+      ko: "예산 / 가계"
+    gender: m
+    notes:
+      en: "der Bundeshaushalt = federal budget"
+      ko: "der Bundeshaushalt = 연방 예산"
+  - german: "die Konjunkturbelebung"
+    translation:
+      en: "economic stimulus"
+      ko: "경기 부양"
+    gender: f
+    notes:
+      en: "ein Konjunkturpaket = stimulus package"
+      ko: "경기 부양책"
+  - german: "die Steuerlast"
+    translation:
+      en: "tax burden"
+      ko: "세금 부담"
+    gender: f
+    notes:
+      en: "die Steuerlast senken = to reduce the tax burden"
+      ko: "세금 부담을 줄이다"
+  - german: "deflationär"
+    translation:
+      en: "deflationary"
+      ko: "디플레이션의"
+    gender: null
+    notes:
+      en: "deflationäre Tendenzen = deflationary tendencies"
+      ko: "디플레이션적 경향"
+  - german: "der Protektionismus"
+    translation:
+      en: "protectionism"
+      ko: "보호무역주의"
+    gender: m
+    notes:
+      en: "protektionistisch = protectionist"
+      ko: "protektionistisch = 보호무역주의적인"
+  - german: "die Währungsreserve, -n"
+    translation:
+      en: "currency reserve"
+      ko: "외환 보유고"
+    gender: f
+    notes:
+      en: "die Devisenreserven = foreign exchange reserves"
+      ko: "외환 보유고"
+  - german: "die Sparquote, -n"
+    translation:
+      en: "savings rate"
+      ko: "저축률"
+    gender: f
+    notes:
+      en: "die Sparquote erhöhen = to increase the savings rate"
+      ko: "저축률을 높이다"
+  - german: "die Wertschöpfung"
+    translation:
+      en: "value creation"
+      ko: "부가가치 창출"
+    gender: f
+    notes:
+      en: "die Wertschöpfungskette = value chain"
+      ko: "die Wertschöpfungskette = 가치 사슬"
+- id: geschaeftsbetrieb
+  label:
+    en: "Business Operations (Geschäftsbetrieb)"
+    ko: "사업 운영 (Geschäftsbetrieb)"
+  type: vocabulary
+  words:
+  - german: "der Umsatz, Umsätze"
+    translation:
+      en: "revenue / turnover"
+      ko: "매출"
+    gender: m
+    notes:
+      en: "den Umsatz steigern = to increase revenue"
+      ko: "den Umsatz steigern = 매출을 올리다"
+  - german: "der Gewinn, -e"
+    translation:
+      en: "profit"
+      ko: "이익"
+    gender: m
+    notes:
+      en: "der Verlust = loss (opposite)"
+      ko: "der Verlust = 손실 (반대)"
+  - german: "die Bilanz, -en"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: f
+    notes:
+      en: "eine Bilanz aufstellen = to prepare a balance sheet"
+      ko: "eine Bilanz aufstellen = 대차대조표를 작성하다"
+  - german: "die Buchhaltung"
+    translation:
+      en: "accounting / bookkeeping"
+      ko: "회계"
+    gender: f
+    notes:
+      en: "der Buchhalter = accountant"
+      ko: "der Buchhalter = 회계사"
+  - german: "die Lieferkette, -n"
+    translation:
+      en: "supply chain"
+      ko: "공급망"
+    gender: f
+    notes:
+      en: "das Lieferkettenmanagement = supply chain management"
+      ko: "das Lieferkettenmanagement = 공급망 관리"
+  - german: "die Fusion, -en"
+    translation:
+      en: "merger"
+      ko: "합병"
+    gender: f
+    notes:
+      en: "die Übernahme = acquisition / takeover"
+      ko: "die Übernahme = 인수"
+  - german: "die Aktie, -n"
+    translation:
+      en: "share / stock"
+      ko: "주식"
+    gender: f
+    notes:
+      en: "der Aktienmarkt = stock market"
+      ko: "der Aktienmarkt = 주식 시장"
+  - german: "die Dividende, -n"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: f
+    notes:
+      en: "eine Dividende ausschütten = to pay a dividend"
+      ko: "eine Dividende ausschütten = 배당금을 지급하다"
+  - german: "die Insolvenz, -en"
+    translation:
+      en: "insolvency / bankruptcy"
+      ko: "파산"
+    gender: f
+    notes:
+      en: "Insolvenz anmelden = to file for bankruptcy"
+      ko: "Insolvenz anmelden = 파산 신청하다"
+  - german: "das Geschäftsmodell, -e"
+    translation:
+      en: "business model"
+      ko: "비즈니스 모델"
+    gender: n
+    notes:
+      en: "ein nachhaltiges Geschäftsmodell"
+      ko: "지속 가능한 비즈니스 모델"
+  - german: "der Jahresabschluss, Jahresabschlüsse"
+    translation:
+      en: "annual financial statement"
+      ko: "연간 결산"
+    gender: m
+    notes:
+      en: "der Geschäftsbericht = annual report"
+      ko: "der Geschäftsbericht = 사업 보고서"
+  - german: "die Kostensenkung, -en"
+    translation:
+      en: "cost reduction"
+      ko: "비용 절감"
+    gender: f
+    notes:
+      en: "Kosten senken = to reduce costs"
+      ko: "Kosten senken = 비용을 절감하다"
+  - german: "die Rentabilität"
+    translation:
+      en: "profitability"
+      ko: "수익성"
+    gender: f
+    notes:
+      en: "rentabel = profitable"
+      ko: "rentabel = 수익성 있는"
+  - german: "outsourcen"
+    translation:
+      en: "to outsource"
+      ko: "외주를 주다"
+    gender: null
+    notes:
+      en: "das Outsourcing = outsourcing"
+      ko: "das Outsourcing = 아웃소싱"
+  - german: "die Wertschöpfungskette, -n"
+    translation:
+      en: "value chain"
+      ko: "가치 사슬"
+    gender: f
+    notes:
+      en: "die Wertschöpfung = value creation"
+      ko: "die Wertschöpfung = 부가가치 창출"
+  - german: "die Bilanz, -en"
+    translation:
+      en: "balance sheet"
+      ko: "대차대조표"
+    gender: f
+    notes:
+      en: "die Bilanzsumme = total assets"
+      ko: "die Bilanzsumme = 총자산"
+  - german: "die Gewinnspanne, -n"
+    translation:
+      en: "profit margin"
+      ko: "이익률"
+    gender: f
+    notes:
+      en: "eine hohe Gewinnspanne = a high profit margin"
+      ko: "높은 이익률"
+  - german: "der Umsatz, Umsätze"
+    translation:
+      en: "revenue / turnover"
+      ko: "매출"
+    gender: m
+    notes:
+      en: "den Umsatz steigern = to increase revenue"
+      ko: "매출을 늘리다"
+  - german: "die Buchhaltung"
+    translation:
+      en: "accounting / bookkeeping"
+      ko: "회계"
+    gender: f
+    notes:
+      en: "der Buchhalter = accountant"
+      ko: "der Buchhalter = 회계사"
+  - german: "die Lieferkette, -n"
+    translation:
+      en: "supply chain"
+      ko: "공급망"
+    gender: f
+    notes:
+      en: "Lieferkettenprobleme = supply chain problems"
+      ko: "공급망 문제"
+  - german: "die Lagerhaltung"
+    translation:
+      en: "inventory management"
+      ko: "재고 관리"
+    gender: f
+    notes:
+      en: "das Lager = warehouse"
+      ko: "das Lager = 창고"
+  - german: "die Liquidität"
+    translation:
+      en: "liquidity"
+      ko: "유동성"
+    gender: f
+    notes:
+      en: "die Liquiditätskrise = liquidity crisis"
+      ko: "유동성 위기"
+  - german: "die Abschreibung, -en"
+    translation:
+      en: "depreciation"
+      ko: "감가상각"
+    gender: f
+    notes:
+      en: "abschreiben = to write off / depreciate"
+      ko: "abschreiben = 감가상각하다"
+  - german: "die Dividende, -n"
+    translation:
+      en: "dividend"
+      ko: "배당금"
+    gender: f
+    notes:
+      en: "Dividenden ausschütten = to distribute dividends"
+      ko: "배당금을 지급하다"
+  - german: "die Betriebskosten (pl.)"
+    translation:
+      en: "operating costs"
+      ko: "운영 비용"
+    gender: f
+    notes:
+      en: "die Betriebskosten senken = to reduce operating costs"
+      ko: "운영 비용을 절감하다"
+  - german: "die Solvenz"
+    translation:
+      en: "solvency"
+      ko: "지급 능력"
+    gender: f
+    notes:
+      en: "die Insolvenz = insolvency"
+      ko: "die Insolvenz = 지급 불능"
+  - german: "der Geschäftsführer, -"
+    translation:
+      en: "managing director (m)"
+      ko: "대표이사 (남)"
+    gender: m
+    notes:
+      en: "die Geschäftsführerin = managing director (f)"
+      ko: "die Geschäftsführerin = 대표이사 (여)"
+  - german: "die Firmenübernahme, -n"
+    translation:
+      en: "corporate takeover"
+      ko: "기업 인수"
+    gender: f
+    notes:
+      en: "eine feindliche Übernahme = a hostile takeover"
+      ko: "적대적 인수"
+  - german: "die Outsourcing"
+    translation:
+      en: "outsourcing"
+      ko: "아웃소싱"
+    gender: n
+    notes:
+      en: "Aufgaben outsourcen = to outsource tasks"
+      ko: "업무를 아웃소싱하다"
+  - german: "der Jahresabschluss, Jahresabschlüsse"
+    translation:
+      en: "annual financial statement"
+      ko: "연간 결산"
+    gender: m
+    notes:
+      en: "den Jahresabschluss erstellen = to prepare annual financial statements"
+      ko: "연간 결산을 작성하다"
+  - german: "die Satzung, -en"
+    translation:
+      en: "articles of association"
+      ko: "정관"
+    gender: f
+    notes:
+      en: "die Unternehmenssatzung = company charter"
+      ko: "회사 정관"
+  - german: "die Belegschaft"
+    translation:
+      en: "workforce / staff"
+      ko: "종업원 / 직원"
+    gender: f
+    notes:
+      en: "die gesamte Belegschaft = the entire workforce"
+      ko: "전체 직원"
+  - german: "die Kapitalerhöhung, -en"
+    translation:
+      en: "capital increase"
+      ko: "증자"
+    gender: f
+    notes:
+      en: "eine Kapitalerhöhung beschließen = to decide on a capital increase"
+      ko: "증자를 결의하다"
+  - german: "der Vorstand, Vorstände"
+    translation:
+      en: "executive board"
+      ko: "이사회"
+    gender: m
+    notes:
+      en: "der Vorstandsvorsitzende = chairman of the board"
+      ko: "der Vorstandsvorsitzende = 이사회 의장"
+  - german: "die Geschäftsordnung, -en"
+    translation:
+      en: "rules of procedure"
+      ko: "업무 규정"
+    gender: f
+    notes:
+      en: "die innerbetriebliche Geschäftsordnung = internal rules of procedure"
+      ko: "사내 업무 규정"
+- id: marketing
+  label:
+    en: "Marketing (Marketing)"
+    ko: "마케팅 (Marketing)"
+  type: vocabulary
+  words:
+  - german: "die Zielgruppe, -n"
+    translation:
+      en: "target audience"
+      ko: "타깃 그룹"
+    gender: f
+    notes:
+      en: "die Zielgruppenanalyse = target audience analysis"
+      ko: "die Zielgruppenanalyse = 타깃 그룹 분석"
+  - german: "die Marke, -n"
+    translation:
+      en: "brand"
+      ko: "브랜드"
+    gender: f
+    notes:
+      en: "die Markenbekanntheit = brand awareness"
+      ko: "die Markenbekanntheit = 브랜드 인지도"
+  - german: "die Werbung"
+    translation:
+      en: "advertising"
+      ko: "광고"
+    gender: f
+    notes:
+      en: "werben = to advertise"
+      ko: "werben = 광고하다"
+  - german: "der Marktanteil, -e"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: m
+    notes:
+      en: "den Marktanteil vergrößern = to increase market share"
+      ko: "den Marktanteil vergrößern = 시장 점유율을 높이다"
+  - german: "die Positionierung, -en"
+    translation:
+      en: "positioning"
+      ko: "포지셔닝"
+    gender: f
+    notes:
+      en: "die Marktpositionierung = market positioning"
+      ko: "die Marktpositionierung = 시장 포지셔닝"
+  - german: "die Kundenbindung"
+    translation:
+      en: "customer retention"
+      ko: "고객 유지"
+    gender: f
+    notes:
+      en: "die Kundenzufriedenheit = customer satisfaction"
+      ko: "die Kundenzufriedenheit = 고객 만족도"
+  - german: "der Slogan, -s"
+    translation:
+      en: "slogan"
+      ko: "슬로건"
+    gender: m
+    notes:
+      en: "der Werbeslogan = advertising slogan"
+      ko: "der Werbeslogan = 광고 슬로건"
+  - german: "die Kampagne, -n"
+    translation:
+      en: "campaign"
+      ko: "캠페인"
+    gender: f
+    notes:
+      en: "eine Marketingkampagne starten"
+      ko: "마케팅 캠페인을 시작하다"
+  - german: "die Marktforschung"
+    translation:
+      en: "market research"
+      ko: "시장 조사"
+    gender: f
+    notes:
+      en: "Marktforschung betreiben = to conduct market research"
+      ko: "Marktforschung betreiben = 시장 조사를 실시하다"
+  - german: "der Vertrieb"
+    translation:
+      en: "sales / distribution"
+      ko: "판매 / 유통"
+    gender: m
+    notes:
+      en: "der Vertriebskanal = distribution channel"
+      ko: "der Vertriebskanal = 유통 채널"
+  - german: "die Produkteinführung, -en"
+    translation:
+      en: "product launch"
+      ko: "제품 출시"
+    gender: f
+    notes:
+      en: "ein Produkt einführen = to launch a product"
+      ko: "ein Produkt einführen = 제품을 출시하다"
+  - german: "die Konkurrenzanalyse, -n"
+    translation:
+      en: "competitive analysis"
+      ko: "경쟁 분석"
+    gender: f
+    notes:
+      en: "die Konkurrenz = competition"
+      ko: "die Konkurrenz = 경쟁"
+  - german: "der Mehrwert"
+    translation:
+      en: "added value"
+      ko: "부가 가치"
+    gender: m
+    notes:
+      en: "einen Mehrwert bieten = to offer added value"
+      ko: "einen Mehrwert bieten = 부가 가치를 제공하다"
+  - german: "die Nische, -n"
+    translation:
+      en: "niche"
+      ko: "틈새 시장"
+    gender: f
+    notes:
+      en: "der Nischenmarkt = niche market"
+      ko: "der Nischenmarkt = 틈새 시장"
+  - german: "viral"
+    translation:
+      en: "viral"
+      ko: "바이럴의"
+    gender: null
+    notes:
+      en: "virales Marketing = viral marketing"
+      ko: "virales Marketing = 바이럴 마케팅"
+  - german: "die Zielgruppe, -n"
+    translation:
+      en: "target group / audience"
+      ko: "타겟 고객층"
+    gender: f
+    notes:
+      en: "die Zielgruppenanalyse = target audience analysis"
+      ko: "타겟 고객 분석"
+  - german: "die Marktforschung"
+    translation:
+      en: "market research"
+      ko: "시장 조사"
+    gender: f
+    notes:
+      en: "Marktforschung betreiben = to conduct market research"
+      ko: "시장 조사를 하다"
+  - german: "die Markenstrategie, -n"
+    translation:
+      en: "brand strategy"
+      ko: "브랜드 전략"
+    gender: f
+    notes:
+      en: "eine Markenstrategie entwickeln = to develop a brand strategy"
+      ko: "브랜드 전략을 개발하다"
+  - german: "der Marktanteil, -e"
+    translation:
+      en: "market share"
+      ko: "시장 점유율"
+    gender: m
+    notes:
+      en: "den Marktanteil vergrößern = to increase market share"
+      ko: "시장 점유율을 높이다"
+  - german: "die Werbekampagne, -n"
+    translation:
+      en: "advertising campaign"
+      ko: "광고 캠페인"
+    gender: f
+    notes:
+      en: "eine Werbekampagne starten = to launch an ad campaign"
+      ko: "광고 캠페인을 시작하다"
+  - german: "die Kundenbindung"
+    translation:
+      en: "customer retention / loyalty"
+      ko: "고객 유지"
+    gender: f
+    notes:
+      en: "die Kundenbindungsstrategie = customer retention strategy"
+      ko: "고객 유지 전략"
+  - german: "die Positionierung"
+    translation:
+      en: "positioning (marketing)"
+      ko: "포지셔닝"
+    gender: f
+    notes:
+      en: "die Marktpositionierung = market positioning"
+      ko: "시장 포지셔닝"
+  - german: "der Wettbewerbsvorteil, -e"
+    translation:
+      en: "competitive advantage"
+      ko: "경쟁 우위"
+    gender: m
+    notes:
+      en: "einen Wettbewerbsvorteil erzielen = to gain a competitive advantage"
+      ko: "경쟁 우위를 확보하다"
+  - german: "die Verkaufsförderung"
+    translation:
+      en: "sales promotion"
+      ko: "판매 촉진"
+    gender: f
+    notes:
+      en: "Verkaufsförderungsmaßnahmen = sales promotion measures"
+      ko: "판매 촉진 조치"
+  - german: "das Sponsoring"
+    translation:
+      en: "sponsorship"
+      ko: "후원 / 스폰서십"
+    gender: n
+    notes:
+      en: "ein Sponsoring-Vertrag = a sponsorship contract"
+      ko: "후원 계약"
+  - german: "die Öffentlichkeitsarbeit"
+    translation:
+      en: "public relations (PR)"
+      ko: "홍보"
+    gender: f
+    notes:
+      en: "die Pressearbeit = press relations"
+      ko: "die Pressearbeit = 언론 홍보"
+  - german: "die Markenbekanntheit"
+    translation:
+      en: "brand awareness"
+      ko: "브랜드 인지도"
+    gender: f
+    notes:
+      en: "die Markenbekanntheit steigern = to increase brand awareness"
+      ko: "브랜드 인지도를 높이다"
+  - german: "die Kundenzufriedenheit"
+    translation:
+      en: "customer satisfaction"
+      ko: "고객 만족"
+    gender: f
+    notes:
+      en: "die Kundenzufriedenheit messen = to measure customer satisfaction"
+      ko: "고객 만족을 측정하다"
+  - german: "die Produktplatzierung"
+    translation:
+      en: "product placement"
+      ko: "제품 배치 / PPL"
+    gender: f
+    notes:
+      en: "die Produktplatzierung im Film = product placement in film"
+      ko: "영화 속 제품 배치"
+  - german: "das Alleinstellungsmerkmal, -e"
+    translation:
+      en: "unique selling point (USP)"
+      ko: "차별화 요소"
+    gender: n
+    notes:
+      en: "ein klares Alleinstellungsmerkmal = a clear USP"
+      ko: "명확한 차별화 요소"
+  - german: "die Influencer-Marketing"
+    translation:
+      en: "influencer marketing"
+      ko: "인플루언서 마케팅"
+    gender: n
+    notes:
+      en: "die Influencer-Kampagne = influencer campaign"
+      ko: "인플루언서 캠페인"
+  - german: "die Conversion-Rate, -n"
+    translation:
+      en: "conversion rate"
+      ko: "전환율"
+    gender: f
+    notes:
+      en: "die Conversion-Rate optimieren = to optimize the conversion rate"
+      ko: "전환율을 최적화하다"
+  - german: "der Slogan, -s"
+    translation:
+      en: "slogan"
+      ko: "슬로건"
+    gender: m
+    notes:
+      en: "ein einprägsamer Slogan = a catchy slogan"
+      ko: "기억에 남는 슬로건"
+  - german: "die Produkteinführung, -en"
+    translation:
+      en: "product launch"
+      ko: "제품 출시"
+    gender: f
+    notes:
+      en: "eine Produkteinführung planen = to plan a product launch"
+      ko: "제품 출시를 계획하다"
+  - german: "viral"
+    translation:
+      en: "viral"
+      ko: "바이럴의"
+    gender: null
+    notes:
+      en: "virale Inhalte = viral content"
+      ko: "바이럴 콘텐츠"
+- id: handel
+  label:
+    en: "Trade (Handel)"
+    ko: "무역 (Handel)"
+  type: vocabulary
+  words:
+  - german: "der Export, -e"
+    translation:
+      en: "export"
+      ko: "수출"
+    gender: m
+    notes:
+      en: "exportieren = to export"
+      ko: "exportieren = 수출하다"
+  - german: "der Import, -e"
+    translation:
+      en: "import"
+      ko: "수입"
+    gender: m
+    notes:
+      en: "importieren = to import"
+      ko: "importieren = 수입하다"
+  - german: "die Handelsbilanz, -en"
+    translation:
+      en: "trade balance"
+      ko: "무역 수지"
+    gender: f
+    notes:
+      en: "der Handelsüberschuss = trade surplus"
+      ko: "der Handelsüberschuss = 무역 흑자"
+  - german: "der Zoll, Zölle"
+    translation:
+      en: "customs / tariff"
+      ko: "관세"
+    gender: m
+    notes:
+      en: "die Zollunion = customs union"
+      ko: "die Zollunion = 관세 동맹"
+  - german: "das Freihandelsabkommen, -"
+    translation:
+      en: "free trade agreement"
+      ko: "자유무역협정"
+    gender: n
+    notes:
+      en: "der Freihandel = free trade"
+      ko: "der Freihandel = 자유 무역"
+  - german: "der Protektionismus"
+    translation:
+      en: "protectionism"
+      ko: "보호무역주의"
+    gender: m
+    notes:
+      en: "protektionistisch = protectionist"
+      ko: "protektionistisch = 보호무역주의적인"
+  - german: "die Einfuhr, -en"
+    translation:
+      en: "import (formal)"
+      ko: "수입 (격식)"
+    gender: f
+    notes:
+      en: "die Ausfuhr = export (formal)"
+      ko: "die Ausfuhr = 수출 (격식)"
+  - german: "die Handelspartnerschaft, -en"
+    translation:
+      en: "trade partnership"
+      ko: "무역 파트너십"
+    gender: f
+    notes:
+      en: "der Handelspartner = trade partner"
+      ko: "der Handelspartner = 무역 파트너"
+  - german: "das Embargo, -s"
+    translation:
+      en: "embargo"
+      ko: "금수 조치"
+    gender: n
+    notes:
+      en: "ein Handelsembargo verhängen = to impose a trade embargo"
+      ko: "ein Handelsembargo verhängen = 무역 금수 조치를 취하다"
+  - german: "die Wettbewerbsfähigkeit"
+    translation:
+      en: "competitiveness"
+      ko: "경쟁력"
+    gender: f
+    notes:
+      en: "wettbewerbsfähig = competitive"
+      ko: "wettbewerbsfähig = 경쟁력 있는"
+  - german: "die Lieferung, -en"
+    translation:
+      en: "delivery / shipment"
+      ko: "배송"
+    gender: f
+    notes:
+      en: "die Lieferbedingungen = delivery terms"
+      ko: "die Lieferbedingungen = 배송 조건"
+  - german: "der Binnenmarkt, Binnenmärkte"
+    translation:
+      en: "single market / domestic market"
+      ko: "단일 시장 / 내수 시장"
+    gender: m
+    notes:
+      en: "der EU-Binnenmarkt = EU single market"
+      ko: "der EU-Binnenmarkt = EU 단일 시장"
+  - german: "die Dumping-Praxis"
+    translation:
+      en: "dumping practice"
+      ko: "덤핑 관행"
+    gender: f
+    notes:
+      en: "Antidumping-Zoll = anti-dumping tariff"
+      ko: "Antidumping-Zoll = 반덤핑 관세"
+  - german: "die Quotenregelung, -en"
+    translation:
+      en: "quota regulation"
+      ko: "쿼터 규정"
+    gender: f
+    notes:
+      en: "die Importquote = import quota"
+      ko: "die Importquote = 수입 쿼터"
+  - german: "die Globale Lieferkette, -n"
+    translation:
+      en: "global supply chain"
+      ko: "글로벌 공급망"
+    gender: f
+    notes:
+      en: "Disruption der globalen Lieferkette"
+      ko: "글로벌 공급망 혼란"
+  - german: "multilateral"
+    translation:
+      en: "multilateral"
+      ko: "다자간의"
+    gender: null
+    notes:
+      en: "multilateraler Handel = multilateral trade"
+      ko: "multilateraler Handel = 다자간 무역"
+  - german: "der Freihandel"
+    translation:
+      en: "free trade"
+      ko: "자유 무역"
+    gender: m
+    notes:
+      en: "das Freihandelsabkommen = free trade agreement"
+      ko: "das Freihandelsabkommen = 자유 무역 협정"
+  - german: "die Einfuhr, -en"
+    translation:
+      en: "import"
+      ko: "수입"
+    gender: f
+    notes:
+      en: "die Einfuhrbestimmungen = import regulations"
+      ko: "수입 규정"
+  - german: "die Ausfuhr, -en"
+    translation:
+      en: "export"
+      ko: "수출"
+    gender: f
+    notes:
+      en: "die Ausfuhrgenehmigung = export license"
+      ko: "수출 허가"
+  - german: "der Zollsatz, Zollsätze"
+    translation:
+      en: "tariff rate"
+      ko: "관세율"
+    gender: m
+    notes:
+      en: "hohe Zollsätze = high tariff rates"
+      ko: "높은 관세율"
+  - german: "die Handelsbilanz, -en"
+    translation:
+      en: "trade balance"
+      ko: "무역 수지"
+    gender: f
+    notes:
+      en: "eine positive Handelsbilanz = a trade surplus"
+      ko: "무역 흑자"
+  - german: "das Handelsembargo, -s"
+    translation:
+      en: "trade embargo"
+      ko: "무역 금수"
+    gender: n
+    notes:
+      en: "ein Handelsembargo verhängen = to impose a trade embargo"
+      ko: "무역 금수 조치를 시행하다"
+  - german: "die Wechselkursschwankung, -en"
+    translation:
+      en: "exchange rate fluctuation"
+      ko: "환율 변동"
+    gender: f
+    notes:
+      en: "Wechselkursschwankungen ausgleichen = to offset exchange rate fluctuations"
+      ko: "환율 변동을 상쇄하다"
+  - german: "der Binnenmarkt, Binnenmärkte"
+    translation:
+      en: "domestic / internal market"
+      ko: "내수 시장"
+    gender: m
+    notes:
+      en: "der europäische Binnenmarkt = the European single market"
+      ko: "유럽 단일 시장"
+  - german: "die Wirtschaftssanktion, -en"
+    translation:
+      en: "economic sanction"
+      ko: "경제 제재"
+    gender: f
+    notes:
+      en: "Wirtschaftssanktionen verhängen = to impose economic sanctions"
+      ko: "경제 제재를 부과하다"
+  - german: "der Außenhandel"
+    translation:
+      en: "foreign trade"
+      ko: "대외 무역"
+    gender: m
+    notes:
+      en: "der Außenhandelspartner = foreign trade partner"
+      ko: "대외 무역 파트너"
+  - german: "die Globalisierung"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: f
+    notes:
+      en: "die Auswirkungen der Globalisierung = the effects of globalization"
+      ko: "세계화의 영향"
+  - german: "die Lieferbedingungen (pl.)"
+    translation:
+      en: "delivery terms"
+      ko: "인도 조건"
+    gender: f
+    notes:
+      en: "die internationalen Lieferbedingungen = international delivery terms"
+      ko: "국제 인도 조건"
+  - german: "die Freihandelszone, -n"
+    translation:
+      en: "free trade zone"
+      ko: "자유 무역 지대"
+    gender: f
+    notes:
+      en: "die europäische Freihandelszone = European free trade zone"
+      ko: "유럽 자유 무역 지대"
+  - german: "das Handelsdefizit, -e"
+    translation:
+      en: "trade deficit"
+      ko: "무역 적자"
+    gender: n
+    notes:
+      en: "das Handelsdefizit reduzieren = to reduce the trade deficit"
+      ko: "무역 적자를 줄이다"
+  - german: "die Deregulierung"
+    translation:
+      en: "deregulation"
+      ko: "규제 완화"
+    gender: f
+    notes:
+      en: "deregulieren = to deregulate"
+      ko: "deregulieren = 규제를 완화하다"
+  - german: "der Schwarzmarkt, Schwarzmärkte"
+    translation:
+      en: "black market"
+      ko: "암시장"
+    gender: m
+    notes:
+      en: "auf dem Schwarzmarkt handeln = to trade on the black market"
+      ko: "암시장에서 거래하다"
+  - german: "die Rohstoffbörse, -n"
+    translation:
+      en: "commodity exchange"
+      ko: "원자재 거래소"
+    gender: f
+    notes:
+      en: "an der Rohstoffbörse handeln = to trade on a commodity exchange"
+      ko: "원자재 거래소에서 거래하다"
+  - german: "multilateral"
+    translation:
+      en: "multilateral"
+      ko: "다자간의"
+    gender: null
+    notes:
+      en: "multilaterale Handelsabkommen = multilateral trade agreements"
+      ko: "다자간 무역 협정"
+  - german: "die Dumping-Preise (pl.)"
+    translation:
+      en: "dumping prices"
+      ko: "덤핑 가격"
+    gender: m
+    notes:
+      en: "Anti-Dumping-Maßnahmen = anti-dumping measures"
+      ko: "반덤핑 조치"
+- id: unternehmertum
+  label:
+    en: "Entrepreneurship (Unternehmertum)"
+    ko: "기업가 정신 (Unternehmertum)"
+  type: vocabulary
+  words:
+  - german: "der Unternehmer, -"
+    translation:
+      en: "entrepreneur (m)"
+      ko: "기업가 (남)"
+    gender: m
+    notes:
+      en: "die Unternehmerin = entrepreneur (f)"
+      ko: "die Unternehmerin = 기업가 (여)"
+  - german: "das Start-up, -s"
+    translation:
+      en: "start-up"
+      ko: "스타트업"
+    gender: n
+    notes:
+      en: "die Start-up-Szene = start-up scene"
+      ko: "die Start-up-Szene = 스타트업 씬"
+  - german: "der Businessplan, Businesspläne"
+    translation:
+      en: "business plan"
+      ko: "사업 계획서"
+    gender: m
+    notes:
+      en: "einen Businessplan erstellen = to create a business plan"
+      ko: "einen Businessplan erstellen = 사업 계획서를 작성하다"
+  - german: "die Gründung, -en"
+    translation:
+      en: "founding / establishment"
+      ko: "설립"
+    gender: f
+    notes:
+      en: "eine Firma gründen = to found a company"
+      ko: "eine Firma gründen = 회사를 설립하다"
+  - german: "der Investor, -en"
+    translation:
+      en: "investor (m)"
+      ko: "투자자 (남)"
+    gender: m
+    notes:
+      en: "die Investorin = investor (f)"
+      ko: "die Investorin = 투자자 (여)"
+  - german: "das Risikokapital"
+    translation:
+      en: "venture capital"
+      ko: "벤처 캐피털"
+    gender: n
+    notes:
+      en: "der Risikokapitalgeber = venture capitalist"
+      ko: "der Risikokapitalgeber = 벤처 투자자"
+  - german: "die Innovation, -en"
+    translation:
+      en: "innovation"
+      ko: "혁신"
+    gender: f
+    notes:
+      en: "innovativ = innovative"
+      ko: "innovativ = 혁신적인"
+  - german: "skalieren"
+    translation:
+      en: "to scale"
+      ko: "확장하다"
+    gender: null
+    notes:
+      en: "die Skalierbarkeit = scalability"
+      ko: "die Skalierbarkeit = 확장성"
+  - german: "der Prototyp, -en"
+    translation:
+      en: "prototype"
+      ko: "시제품"
+    gender: m
+    notes:
+      en: "einen Prototyp entwickeln = to develop a prototype"
+      ko: "einen Prototyp entwickeln = 시제품을 개발하다"
+  - german: "die Crowdfunding-Kampagne, -n"
+    translation:
+      en: "crowdfunding campaign"
+      ko: "크라우드펀딩 캠페인"
+    gender: f
+    notes:
+      en: "das Crowdfunding = crowdfunding"
+      ko: "das Crowdfunding = 크라우드펀딩"
+  - german: "der Pitch, -es"
+    translation:
+      en: "pitch (business)"
+      ko: "피치 / 사업 발표"
+    gender: m
+    notes:
+      en: "der Elevator Pitch = elevator pitch"
+      ko: "der Elevator Pitch = 엘리베이터 피치"
+  - german: "die Marktlücke, -n"
+    translation:
+      en: "gap in the market"
+      ko: "시장 빈틈"
+    gender: f
+    notes:
+      en: "eine Marktlücke füllen = to fill a gap in the market"
+      ko: "eine Marktlücke füllen = 시장 빈틈을 메우다"
+  - german: "die Selbstständigkeit"
+    translation:
+      en: "self-employment"
+      ko: "자영업"
+    gender: f
+    notes:
+      en: "sich selbstständig machen = to start one's own business"
+      ko: "sich selbstständig machen = 자영업을 시작하다"
+  - german: "das geistige Eigentum"
+    translation:
+      en: "intellectual property"
+      ko: "지적 재산"
+    gender: n
+    notes:
+      en: "der Patentschutz = patent protection"
+      ko: "der Patentschutz = 특허 보호"
+  - german: "disruptiv"
+    translation:
+      en: "disruptive"
+      ko: "파괴적인"
+    gender: null
+    notes:
+      en: "disruptive Innovation = disruptive innovation"
+      ko: "disruptive Innovation = 파괴적 혁신"
+  - german: "der Gründerzuschuss, Gründerzuschüsse"
+    translation:
+      en: "start-up grant"
+      ko: "창업 보조금"
+    gender: m
+    notes:
+      en: "Financial support for new entrepreneurs in Germany"
+      ko: "독일의 신규 창업자를 위한 재정 지원"
+  - german: "die Geschäftsidee, -n"
+    translation:
+      en: "business idea"
+      ko: "사업 아이디어"
+    gender: f
+    notes:
+      en: "eine Geschäftsidee umsetzen = to implement a business idea"
+      ko: "사업 아이디어를 실현하다"
+  - german: "die Unternehmensgründung, -en"
+    translation:
+      en: "founding of a company"
+      ko: "창업"
+    gender: f
+    notes:
+      en: "eine Unternehmensgründung planen = to plan a startup"
+      ko: "창업을 계획하다"
+  - german: "das Risikokapital"
+    translation:
+      en: "venture capital"
+      ko: "벤처 캐피탈"
+    gender: n
+    notes:
+      en: "Risikokapitalgeber = venture capitalist"
+      ko: "벤처 캐피탈리스트"
+  - german: "der Businessplan, Businesspläne"
+    translation:
+      en: "business plan"
+      ko: "사업 계획서"
+    gender: m
+    notes:
+      en: "einen Businessplan erstellen = to create a business plan"
+      ko: "사업 계획서를 작성하다"
+  - german: "die Existenzgründung, -en"
+    translation:
+      en: "starting a business"
+      ko: "창업 / 자영업 시작"
+    gender: f
+    notes:
+      en: "der Existenzgründer = entrepreneur / startup founder"
+      ko: "창업자"
+  - german: "das Crowdfunding"
+    translation:
+      en: "crowdfunding"
+      ko: "크라우드펀딩"
+    gender: n
+    notes:
+      en: "eine Crowdfunding-Kampagne = a crowdfunding campaign"
+      ko: "크라우드펀딩 캠페인"
+  - german: "das Franchise, -s"
+    translation:
+      en: "franchise"
+      ko: "프랜차이즈"
+    gender: n
+    notes:
+      en: "der Franchisenehmer = franchisee"
+      ko: "der Franchisenehmer = 가맹점주"
+  - german: "die Skalierbarkeit"
+    translation:
+      en: "scalability"
+      ko: "확장성"
+    gender: f
+    notes:
+      en: "ein skalierbares Geschäftsmodell = a scalable business model"
+      ko: "확장 가능한 사업 모델"
+  - german: "der Investor, -en"
+    translation:
+      en: "investor (m)"
+      ko: "투자자 (남)"
+    gender: m
+    notes:
+      en: "die Investorin = investor (f)"
+      ko: "die Investorin = 투자자 (여)"
+  - german: "die Marktlücke, -n"
+    translation:
+      en: "market gap / niche"
+      ko: "시장 틈새"
+    gender: f
+    notes:
+      en: "eine Marktlücke füllen = to fill a market gap"
+      ko: "시장 틈새를 메우다"
+  - german: "die Beteiligung, -en"
+    translation:
+      en: "equity stake / participation"
+      ko: "지분 / 참여"
+    gender: f
+    notes:
+      en: "eine Beteiligung erwerben = to acquire an equity stake"
+      ko: "지분을 취득하다"
+  - german: "die Gewerbeanmeldung"
+    translation:
+      en: "business registration"
+      ko: "사업자 등록"
+    gender: f
+    notes:
+      en: "eine Gewerbeanmeldung vornehmen = to register a business"
+      ko: "사업자 등록을 하다"
+  - german: "der Pitch, -es"
+    translation:
+      en: "pitch (business)"
+      ko: "피치 / 프레젠테이션"
+    gender: m
+    notes:
+      en: "einen Elevator-Pitch halten = to give an elevator pitch"
+      ko: "엘리베이터 피치를 하다"
+  - german: "die Finanzierungsrunde, -n"
+    translation:
+      en: "funding round"
+      ko: "투자 유치 라운드"
+    gender: f
+    notes:
+      en: "die Serie-A-Finanzierung = Series A funding"
+      ko: "시리즈 A 투자 유치"
+  - german: "das Scheitern"
+    translation:
+      en: "failure"
+      ko: "실패"
+    gender: n
+    notes:
+      en: "aus dem Scheitern lernen = to learn from failure"
+      ko: "실패에서 배우다"
+  - german: "die Selbstständigkeit"
+    translation:
+      en: "self-employment"
+      ko: "자영업"
+    gender: f
+    notes:
+      en: "sich selbstständig machen = to become self-employed"
+      ko: "자영업을 시작하다"
+  - german: "der Gründer, -"
+    translation:
+      en: "founder (m)"
+      ko: "창업자 (남)"
+    gender: m
+    notes:
+      en: "die Gründerin = founder (f)"
+      ko: "die Gründerin = 창업자 (여)"
+  - german: "die Wachstumsstrategie, -n"
+    translation:
+      en: "growth strategy"
+      ko: "성장 전략"
+    gender: f
+    notes:
+      en: "eine nachhaltige Wachstumsstrategie = a sustainable growth strategy"
+      ko: "지속 가능한 성장 전략"
+  - german: "die Disruption"
+    translation:
+      en: "disruption"
+      ko: "파괴적 혁신"
+    gender: f
+    notes:
+      en: "disruptive Technologien = disruptive technologies"
+      ko: "파괴적 기술"
+  - german: "die Due-Diligence-Prüfung"
+    translation:
+      en: "due diligence"
+      ko: "실사"
+    gender: f
+    notes:
+      en: "eine Due-Diligence-Prüfung durchführen = to conduct due diligence"
+      ko: "실사를 수행하다"

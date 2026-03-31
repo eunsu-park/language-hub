@@ -1,0 +1,524 @@
+lesson: 22_Writing_in_German
+lesson_number: 22
+cefr: B2
+categories:
+- id: 1_letter_and_email_vocabulary
+  label:
+    en: 1. Letter and Email Vocabulary
+    ko: 1. 편지 및 이메일 어휘
+  type: vocabulary
+  words:
+  - german: der Absender, -
+    translation:
+      en: sender
+      ko: 발신인
+    gender: m
+    plural: die Absender
+  - german: der Empfänger, -
+    translation:
+      en: recipient
+      ko: 수신인
+    gender: m
+    plural: die Empfänger
+  - german: der Betreff
+    translation:
+      en: subject (line)
+      ko: 제목
+    gender: m
+    plural: null
+  - german: die Anrede
+    translation:
+      en: salutation / greeting
+      ko: 인사말
+    gender: f
+    plural: null
+  - german: die Grußformel, -n
+    translation:
+      en: closing formula / sign-off
+      ko: 맺음말
+    gender: f
+    plural: die Grußformeln
+  - german: die Anlage, -n
+    translation:
+      en: attachment / enclosure
+      ko: 첨부
+    gender: f
+    plural: die Anlagen
+  - german: die Rückmeldung, -en
+    translation:
+      en: feedback / response
+      ko: 회신 / 피드백
+    gender: f
+    plural: die Rückmeldungen
+  - german: Sehr geehrte Damen und Herren
+    translation:
+      en: Dear Sir or Madam (formal greeting)
+      ko: 귀하 (공식 인사)
+    gender: null
+    plural: null
+  - german: Mit freundlichen Grüßen
+    translation:
+      en: Yours sincerely / Best regards (formal closing)
+      ko: 경의를 표하며 (공식 맺음말)
+    gender: null
+    plural: null
+  - german: Bezug nehmend auf
+    translation:
+      en: with reference to (formal)
+      ko: ~에 관하여 (공식)
+    gender: null
+    plural: null
+    notes:
+      en: "Bezug nehmend auf Ihr Schreiben vom 5. März..."
+      ko: "3월 5일자 귀하의 서신과 관련하여..."
+  - german: im Anhang finden Sie
+    translation:
+      en: please find attached
+      ko: 첨부 파일에서 확인하시기 바랍니다
+    gender: null
+    plural: null
+    notes:
+      en: Common formal email phrase for enclosing documents.
+      ko: 문서 첨부 시 사용하는 공식 이메일 표현.
+  - german: Ich möchte Sie darauf hinweisen, dass...
+    translation:
+      en: I would like to draw your attention to the fact that...
+      ko: ~라는 점을 알려드리고자 합니다
+    gender: null
+    plural: null
+  - german: Für Rückfragen stehe ich Ihnen gerne zur Verfügung.
+    translation:
+      en: I am at your disposal for any questions.
+      ko: 궁금하신 점이 있으시면 언제든 연락해 주십시오.
+    gender: null
+    plural: null
+  - german: die Betreffzeile, -n
+    translation:
+      en: subject line
+      ko: 제목 줄
+    gender: f
+    plural: die Betreffzeilen
+  - german: die Unterschrift, -en
+    translation:
+      en: signature
+      ko: 서명
+    gender: f
+    plural: die Unterschriften
+  - german: der Briefkopf, -̈e
+    translation:
+      en: letterhead
+      ko: 편지 머리글
+    gender: m
+    plural: die Briefköpfe
+  - german: die Kündigung, -en
+    translation:
+      en: cancellation / notice of termination
+      ko: 해지 / 해약 통보
+    gender: f
+    plural: die Kündigungen
+  - german: die Beschwerde, -n
+    translation:
+      en: complaint (formal)
+      ko: 항의 / 불만 사항
+    gender: f
+    plural: die Beschwerden
+  - german: der Antrag, -̈e
+    translation:
+      en: application / request (formal)
+      ko: 신청서
+    gender: m
+    plural: die Anträge
+  - german: die Bestätigung, -en
+    translation:
+      en: confirmation
+      ko: 확인서
+    gender: f
+    plural: die Bestätigungen
+  - german: der Entwurf, -̈e
+    translation:
+      en: draft
+      ko: 초안
+    gender: m
+    plural: die Entwürfe
+  - german: die Mahnung, -en
+    translation:
+      en: reminder / dunning letter
+      ko: 독촉장 / 최고서
+    gender: f
+    plural: die Mahnungen
+  - german: die Einladung, -en
+    translation:
+      en: invitation
+      ko: 초대장
+    gender: f
+    plural: die Einladungen
+  - german: die Vollmacht, -en
+    translation:
+      en: power of attorney / authorization
+      ko: 위임장
+    gender: f
+    plural: die Vollmachten
+
+- id: 2_essay_structure_words
+  label:
+    en: 2. Essay Structure Words
+    ko: 2. 에세이 구조 어휘
+  type: vocabulary
+  words:
+  - german: die Einleitung, -en
+    translation:
+      en: introduction
+      ko: 서론
+    gender: f
+    plural: die Einleitungen
+  - german: der Hauptteil, -e
+    translation:
+      en: main body
+      ko: 본론
+    gender: m
+    plural: die Hauptteile
+  - german: der Schluss
+    translation:
+      en: conclusion
+      ko: 결론
+    gender: m
+    plural: null
+  - german: die Erörterung, -en
+    translation:
+      en: argumentative essay
+      ko: 논술문
+    gender: f
+    plural: die Erörterungen
+  - german: die These, -n
+    translation:
+      en: thesis / argument
+      ko: 논제 / 주장
+    gender: f
+    plural: die Thesen
+  - german: das Argument, -e
+    translation:
+      en: argument
+      ko: 논거
+    gender: n
+    plural: die Argumente
+  - german: das Beispiel, -e
+    translation:
+      en: example
+      ko: 예시
+    gender: n
+    plural: die Beispiele
+  - german: die Bildbeschreibung, -en
+    translation:
+      en: picture description
+      ko: 그림 묘사
+    gender: f
+    plural: die Bildbeschreibungen
+  - german: die Zusammenfassung, -en
+    translation:
+      en: summary
+      ko: 요약
+    gender: f
+    plural: die Zusammenfassungen
+  - german: die Stellungnahme, -n
+    translation:
+      en: position statement / opinion piece
+      ko: 입장문 / 의견서
+    gender: f
+    plural: die Stellungnahmen
+  - german: die Gliederung, -en
+    translation:
+      en: outline / structure
+      ko: 개요 / 구성
+    gender: f
+    plural: die Gliederungen
+  - german: die Gegenüberstellung, -en
+    translation:
+      en: comparison / juxtaposition
+      ko: 대조 / 비교
+    gender: f
+    plural: die Gegenüberstellungen
+  - german: der Leitgedanke, -n
+    translation:
+      en: guiding idea / central theme
+      ko: 중심 사상
+    gender: m
+    plural: die Leitgedanken
+  - german: die Begründung, -en
+    translation:
+      en: justification / reasoning
+      ko: 근거 / 이유
+    gender: f
+    plural: die Begründungen
+  - german: der Übergang, -̈e
+    translation:
+      en: transition
+      ko: 전환
+    gender: m
+    plural: die Übergänge
+  - german: die Behauptung, -en
+    translation:
+      en: claim / assertion
+      ko: 주장
+    gender: f
+    plural: die Behauptungen
+  - german: das Gegenargument, -e
+    translation:
+      en: counterargument
+      ko: 반론
+    gender: n
+    plural: die Gegenargumente
+  - german: die Schlussfolgerung, -en
+    translation:
+      en: conclusion / inference
+      ko: 결론 / 추론
+    gender: f
+    plural: die Schlussfolgerungen
+  - german: die Textanalyse, -n
+    translation:
+      en: text analysis
+      ko: 텍스트 분석
+    gender: f
+    plural: die Textanalysen
+
+- id: 3_linking_words
+  label:
+    en: 3. Linking Words
+    ko: 3. 연결어
+  type: vocabulary
+  words:
+  - german: erstens, zweitens, drittens
+    translation:
+      en: firstly, secondly, thirdly
+      ko: 첫째, 둘째, 셋째
+    gender: null
+    plural: null
+  - german: anschließend
+    translation:
+      en: subsequently
+      ko: 이어서
+    gender: null
+    plural: null
+  - german: darüber hinaus
+    translation:
+      en: beyond that / moreover
+      ko: 그 밖에 / 더 나아가
+    gender: null
+    plural: null
+  - german: im Gegensatz dazu
+    translation:
+      en: in contrast to that
+      ko: 그에 반해
+    gender: null
+    plural: null
+  - german: folglich
+    translation:
+      en: consequently
+      ko: 따라서
+    gender: null
+    plural: null
+  - german: abschließend
+    translation:
+      en: in conclusion
+      ko: 결론적으로
+    gender: null
+    plural: null
+  - german: insgesamt
+    translation:
+      en: overall
+      ko: 전반적으로
+    gender: null
+    plural: null
+  - german: kurz gesagt
+    translation:
+      en: in short
+      ko: 간단히 말해서
+    gender: null
+    plural: null
+  - german: dementsprechend
+    translation:
+      en: accordingly / correspondingly
+      ko: 그에 따라
+    gender: null
+    plural: null
+  - german: infolgedessen
+    translation:
+      en: as a result
+      ko: 그 결과
+    gender: null
+    plural: null
+  - german: nichtsdestoweniger
+    translation:
+      en: nevertheless / nonetheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+  - german: hingegen
+    translation:
+      en: on the other hand / whereas
+      ko: 반면에
+    gender: null
+    plural: null
+  - german: ebenso
+    translation:
+      en: likewise / equally
+      ko: 마찬가지로
+    gender: null
+    plural: null
+  - german: beziehungsweise (bzw.)
+    translation:
+      en: respectively / or rather
+      ko: 내지는 / 또는
+    gender: null
+    plural: null
+  - german: letztendlich
+    translation:
+      en: ultimately / in the end
+      ko: 결국
+    gender: null
+    plural: null
+
+- id: 4_style_and_register
+  label:
+    en: 4. Style and Register
+    ko: 4. 문체와 격식
+  type: vocabulary
+  words:
+  - german: die Umgangssprache
+    translation:
+      en: colloquial language
+      ko: 구어체
+    gender: f
+    plural: null
+  - german: die Schriftsprache
+    translation:
+      en: written / literary language
+      ko: 문어체
+    gender: f
+    plural: null
+  - german: die Fachsprache, -n
+    translation:
+      en: technical / specialist language
+      ko: 전문 용어
+    gender: f
+    plural: die Fachsprachen
+  - german: die Redewendung, -en
+    translation:
+      en: idiom / expression
+      ko: 관용구
+    gender: f
+    plural: die Redewendungen
+  - german: der Sprachstil, -e
+    translation:
+      en: writing style / register
+      ko: 문체 / 어조
+    gender: m
+    plural: die Sprachstile
+  - german: sachlich
+    translation:
+      en: objective / factual
+      ko: 객관적인 / 사실에 입각한
+    gender: null
+    plural: null
+  - german: förmlich
+    translation:
+      en: formal
+      ko: 격식을 갖춘
+    gender: null
+    plural: null
+  - german: umgangssprachlich
+    translation:
+      en: colloquial / informal
+      ko: 구어체의 / 비격식의
+    gender: null
+    plural: null
+  - german: die Wortwahl
+    translation:
+      en: word choice / diction
+      ko: 어휘 선택
+    gender: f
+    plural: null
+  - german: der Ausdruck, -̈e
+    translation:
+      en: expression / term
+      ko: 표현
+    gender: m
+    plural: die Ausdrücke
+  - german: formulieren
+    translation:
+      en: to formulate / to phrase
+      ko: 표현하다 / 구성하다
+    gender: null
+    plural: null
+  - german: überarbeiten
+    translation:
+      en: to revise / to edit
+      ko: 수정하다 / 고치다
+    gender: null
+    plural: null
+  - german: die Korrektur, -en
+    translation:
+      en: correction / proofreading
+      ko: 교정 / 수정
+    gender: f
+    plural: die Korrekturen
+
+- id: 5_punctuation_and_formatting
+  label:
+    en: 5. Punctuation and Formatting
+    ko: 5. 구두점과 서식
+  type: vocabulary
+  words:
+  - german: der Punkt, -e
+    translation:
+      en: period / full stop
+      ko: 마침표
+    gender: m
+    plural: die Punkte
+  - german: das Komma, -s
+    translation:
+      en: comma
+      ko: 쉼표
+    gender: n
+    plural: die Kommas
+  - german: das Semikolon, -s
+    translation:
+      en: semicolon
+      ko: 세미콜론
+    gender: n
+    plural: die Semikola
+  - german: das Ausrufezeichen, -
+    translation:
+      en: exclamation mark
+      ko: 느낌표
+    gender: n
+    plural: die Ausrufezeichen
+  - german: das Fragezeichen, -
+    translation:
+      en: question mark
+      ko: 물음표
+    gender: n
+    plural: die Fragezeichen
+  - german: der Doppelpunkt, -e
+    translation:
+      en: colon
+      ko: 콜론
+    gender: m
+    plural: die Doppelpunkte
+  - german: die Anführungszeichen (pl.)
+    translation:
+      en: quotation marks
+      ko: 따옴표
+    gender: n
+    plural: null
+  - german: der Gedankenstrich, -e
+    translation:
+      en: dash / em dash
+      ko: 줄표
+    gender: m
+    plural: die Gedankenstriche
+  - german: die Großschreibung
+    translation:
+      en: capitalization
+      ko: 대문자 표기
+    gender: f
+    plural: null

@@ -1,0 +1,1484 @@
+lesson: "sup_B2_History_and_Civilization"
+lesson_number: 170
+cefr: B2
+type: supplementary
+topic: "History and Civilization"
+categories:
+- id: historische_epochen
+  label:
+    en: "Historical Epochs (Historische Epochen)"
+    ko: "역사적 시대 (Historische Epochen)"
+  type: vocabulary
+  words:
+  - german: "die Epoche, -n"
+    translation:
+      en: "epoch / era"
+      ko: "시대"
+    gender: f
+    notes:
+      en: "eine neue Epoche einleiten = to usher in a new era"
+      ko: "eine neue Epoche einleiten = 새로운 시대를 열다"
+  - german: "die Antike"
+    translation:
+      en: "antiquity"
+      ko: "고대"
+    gender: f
+    notes:
+      en: "das antike Griechenland = ancient Greece"
+      ko: "das antike Griechenland = 고대 그리스"
+  - german: "das Mittelalter"
+    translation:
+      en: "Middle Ages"
+      ko: "중세"
+    gender: n
+    notes:
+      en: "mittelalterlich = medieval"
+      ko: "mittelalterlich = 중세의"
+  - german: "die Neuzeit"
+    translation:
+      en: "modern era / early modern period"
+      ko: "근대"
+    gender: f
+    notes:
+      en: "die Frühe Neuzeit = early modern period"
+      ko: "die Frühe Neuzeit = 근세"
+  - german: "die Aufklärung"
+    translation:
+      en: "Enlightenment"
+      ko: "계몽주의"
+    gender: f
+    notes:
+      en: "das Zeitalter der Aufklärung = Age of Enlightenment"
+      ko: "das Zeitalter der Aufklärung = 계몽주의 시대"
+  - german: "die Industrialisierung"
+    translation:
+      en: "industrialization"
+      ko: "산업화"
+    gender: f
+    notes:
+      en: "die Industrielle Revolution = Industrial Revolution"
+      ko: "die Industrielle Revolution = 산업 혁명"
+  - german: "die Reformation"
+    translation:
+      en: "Reformation"
+      ko: "종교 개혁"
+    gender: f
+    notes:
+      en: "Martin Luther und die Reformation"
+      ko: "마르틴 루터와 종교 개혁"
+  - german: "die Steinzeit"
+    translation:
+      en: "Stone Age"
+      ko: "석기 시대"
+    gender: f
+    notes:
+      en: "die Jungsteinzeit = Neolithic"
+      ko: "die Jungsteinzeit = 신석기 시대"
+  - german: "die Bronzezeit"
+    translation:
+      en: "Bronze Age"
+      ko: "청동기 시대"
+    gender: f
+    notes:
+      en: "die Eisenzeit = Iron Age"
+      ko: "die Eisenzeit = 철기 시대"
+  - german: "die Zeitrechnung"
+    translation:
+      en: "calendar / chronology"
+      ko: "연대기 / 역법"
+    gender: f
+    notes:
+      en: "vor Christus (v. Chr.) / nach Christus (n. Chr.)"
+      ko: "기원전(v. Chr.) / 기원후(n. Chr.)"
+  - german: "das Zeitalter, -"
+    translation:
+      en: "age / era"
+      ko: "시대"
+    gender: n
+    notes:
+      en: "das digitale Zeitalter = digital age"
+      ko: "das digitale Zeitalter = 디지털 시대"
+  - german: "die Völkerwanderung"
+    translation:
+      en: "Migration Period"
+      ko: "민족 대이동"
+    gender: f
+    notes:
+      en: "Late antiquity (c. 300-700 AD)"
+      ko: "고대 후기 (약 300-700년)"
+  - german: "die Kreuzzüge (pl.)"
+    translation:
+      en: "Crusades"
+      ko: "십자군 전쟁"
+    gender: m
+    notes:
+      en: "der Kreuzzug = crusade"
+      ko: "der Kreuzzug = 십자군 원정"
+  - german: "die Kolonialisierung"
+    translation:
+      en: "colonization"
+      ko: "식민지화"
+    gender: f
+    notes:
+      en: "die Entkolonialisierung = decolonization"
+      ko: "die Entkolonialisierung = 탈식민지화"
+  - german: "die Spätantike"
+    translation:
+      en: "Late Antiquity"
+      ko: "후기 고대"
+    gender: f
+    notes:
+      en: "Transition from Roman Empire to Middle Ages"
+      ko: "로마 제국에서 중세로의 전환기"
+  - german: "die Renaissance"
+    translation:
+      en: "Renaissance"
+      ko: "르네상스"
+    gender: f
+    notes:
+      en: "die kulturelle Wiedergeburt = cultural rebirth"
+      ko: "die kulturelle Wiedergeburt = 문화적 부흥"
+  - german: "das Barock"
+    translation:
+      en: "Baroque period"
+      ko: "바로크 시대"
+    gender: n
+    notes:
+      en: "die Barockzeit = Baroque era"
+      ko: "die Barockzeit = 바로크 시대"
+  - german: "die Absolutismus-Ära"
+    translation:
+      en: "age of absolutism"
+      ko: "절대주의 시대"
+    gender: f
+    notes:
+      en: "Ludwig XIV. = Louis XIV"
+      ko: "Ludwig XIV. = 루이 14세"
+  - german: "die Bronzezeit"
+    translation:
+      en: "Bronze Age"
+      ko: "청동기 시대"
+    gender: f
+    notes:
+      en: "die Bronzezeitkultur = Bronze Age culture"
+      ko: "청동기 문화"
+  - german: "die Eisenzeit"
+    translation:
+      en: "Iron Age"
+      ko: "철기 시대"
+    gender: f
+    notes:
+      en: "die Eisenzeit in Europa = the Iron Age in Europe"
+      ko: "유럽의 철기 시대"
+  - german: "die Völkerwanderung"
+    translation:
+      en: "Migration Period"
+      ko: "민족 대이동"
+    gender: f
+    notes:
+      en: "die germanische Völkerwanderung = Germanic migration"
+      ko: "게르만 민족 대이동"
+  - german: "das Hochmittelalter"
+    translation:
+      en: "High Middle Ages"
+      ko: "중세 전성기"
+    gender: n
+    notes:
+      en: "die Kreuzzüge im Hochmittelalter = crusades in the High Middle Ages"
+      ko: "중세 전성기의 십자군 전쟁"
+  - german: "die Industrialisierung"
+    translation:
+      en: "industrialization"
+      ko: "산업화"
+    gender: f
+    notes:
+      en: "die zweite Industrialisierung = the second industrialization"
+      ko: "제2차 산업화"
+  - german: "die Kolonialzeit"
+    translation:
+      en: "colonial period"
+      ko: "식민지 시대"
+    gender: f
+    notes:
+      en: "das Kolonialsystem = colonial system"
+      ko: "식민 체제"
+  - german: "die Weimarer Republik"
+    translation:
+      en: "Weimar Republic"
+      ko: "바이마르 공화국"
+    gender: f
+    notes:
+      en: "die Krise der Weimarer Republik = crisis of the Weimar Republic"
+      ko: "바이마르 공화국의 위기"
+  - german: "der Absolutismus"
+    translation:
+      en: "absolutism"
+      ko: "절대주의"
+    gender: m
+    notes:
+      en: "der aufgeklärte Absolutismus = enlightened absolutism"
+      ko: "계몽 절대주의"
+  - german: "die Wiedervereinigung"
+    translation:
+      en: "reunification"
+      ko: "통일"
+    gender: f
+    notes:
+      en: "die deutsche Wiedervereinigung = German reunification (1990)"
+      ko: "독일 통일 (1990)"
+  - german: "die Epoche der Entdeckungen"
+    translation:
+      en: "Age of Discovery"
+      ko: "대항해 시대"
+    gender: f
+    notes:
+      en: "die Entdeckung Amerikas = the discovery of the Americas"
+      ko: "아메리카의 발견"
+  - german: "das Zeitalter der Vernunft"
+    translation:
+      en: "Age of Reason"
+      ko: "이성의 시대"
+    gender: n
+    notes:
+      en: "die Philosophen der Aufklärung = Enlightenment philosophers"
+      ko: "계몽주의 철학자들"
+  - german: "die Nachkriegszeit"
+    translation:
+      en: "postwar period"
+      ko: "전후 시대"
+    gender: f
+    notes:
+      en: "die deutsche Nachkriegszeit = German postwar period"
+      ko: "독일 전후 시대"
+  - german: "die Belle Époque"
+    translation:
+      en: "Belle Époque"
+      ko: "벨 에포크"
+    gender: f
+    notes:
+      en: "die Belle Époque in Europa = the Belle Époque in Europe"
+      ko: "유럽의 벨 에포크"
+  - german: "die Steinzeit"
+    translation:
+      en: "Stone Age"
+      ko: "석기 시대"
+    gender: f
+    notes:
+      en: "die Jungsteinzeit = Neolithic period"
+      ko: "die Jungsteinzeit = 신석기 시대"
+  - german: "die Zwischenkriegszeit"
+    translation:
+      en: "interwar period"
+      ko: "전간기"
+    gender: f
+    notes:
+      en: "die politische Instabilität der Zwischenkriegszeit = political instability of the interwar period"
+      ko: "전간기의 정치적 불안정"
+  - german: "epochal"
+    translation:
+      en: "epoch-making / epochal"
+      ko: "획기적인"
+    gender: null
+    notes:
+      en: "ein epochales Ereignis = an epoch-making event"
+      ko: "획기적인 사건"
+  - german: "der Zeitgeist"
+    translation:
+      en: "spirit of the age / zeitgeist"
+      ko: "시대정신"
+    gender: m
+    notes:
+      en: "den Zeitgeist widerspiegeln = to reflect the spirit of the age"
+      ko: "시대정신을 반영하다"
+  - german: "die Wende"
+    translation:
+      en: "turning point / fall of the Wall"
+      ko: "전환점 / 통일"
+    gender: f
+    notes:
+      en: "die Wende von 1989 = the fall of the Berlin Wall"
+      ko: "1989년 베를린 장벽 붕괴"
+- id: antike_zivilisationen
+  label:
+    en: "Ancient Civilizations (Antike Zivilisationen)"
+    ko: "고대 문명 (Antike Zivilisationen)"
+  type: vocabulary
+  words:
+  - german: "die Zivilisation, -en"
+    translation:
+      en: "civilization"
+      ko: "문명"
+    gender: f
+    notes:
+      en: "die Hochkultur = advanced civilization"
+      ko: "die Hochkultur = 고도 문명"
+  - german: "das Römische Reich"
+    translation:
+      en: "Roman Empire"
+      ko: "로마 제국"
+    gender: n
+    notes:
+      en: "der Untergang des Römischen Reiches"
+      ko: "로마 제국의 멸망"
+  - german: "das Griechische Reich"
+    translation:
+      en: "Greek Empire"
+      ko: "그리스 제국"
+    gender: n
+    notes:
+      en: "die griechische Demokratie = Greek democracy"
+      ko: "die griechische Demokratie = 그리스 민주주의"
+  - german: "das Ägyptische Reich"
+    translation:
+      en: "Egyptian Empire"
+      ko: "이집트 제국"
+    gender: n
+    notes:
+      en: "die Pyramiden = the pyramids"
+      ko: "die Pyramiden = 피라미드"
+  - german: "die Mesopotamien"
+    translation:
+      en: "Mesopotamia"
+      ko: "메소포타미아"
+    gender: n
+    notes:
+      en: "die Wiege der Zivilisation = cradle of civilization"
+      ko: "die Wiege der Zivilisation = 문명의 요람"
+  - german: "die Dynastie, -n"
+    translation:
+      en: "dynasty"
+      ko: "왕조"
+    gender: f
+    notes:
+      en: "dynastisch = dynastic"
+      ko: "dynastisch = 왕조의"
+  - german: "der Pharao, -nen"
+    translation:
+      en: "pharaoh"
+      ko: "파라오"
+    gender: m
+    notes:
+      en: "der ägyptische Herrscher"
+      ko: "이집트의 통치자"
+  - german: "der Gladiator, -en"
+    translation:
+      en: "gladiator"
+      ko: "검투사"
+    gender: m
+    notes:
+      en: "das Kolosseum = the Colosseum"
+      ko: "das Kolosseum = 콜로세움"
+  - german: "die Demokratie (athenische)"
+    translation:
+      en: "democracy (Athenian)"
+      ko: "민주주의 (아테네)"
+    gender: f
+    notes:
+      en: "die direkte Demokratie = direct democracy"
+      ko: "die direkte Demokratie = 직접 민주주의"
+  - german: "die Hieroglyphe, -n"
+    translation:
+      en: "hieroglyph"
+      ko: "상형 문자"
+    gender: f
+    notes:
+      en: "die Hieroglyphenschrift = hieroglyphic writing"
+      ko: "die Hieroglyphenschrift = 상형 문자 체계"
+  - german: "die Philosophen der Antike"
+    translation:
+      en: "philosophers of antiquity"
+      ko: "고대의 철학자들"
+    gender: m
+    notes:
+      en: "Sokrates, Platon, Aristoteles"
+      ko: "소크라테스, 플라톤, 아리스토텔레스"
+  - german: "das Imperium, Imperien"
+    translation:
+      en: "empire"
+      ko: "제국"
+    gender: n
+    notes:
+      en: "das Imperium Romanum = Roman Empire"
+      ko: "das Imperium Romanum = 로마 제국"
+  - german: "der Stadtstadt, -en"
+    translation:
+      en: "city-state"
+      ko: "도시 국가"
+    gender: m
+    notes:
+      en: "die griechische Polis = Greek city-state"
+      ko: "die griechische Polis = 그리스 도시 국가"
+  - german: "die Mythologie, -n"
+    translation:
+      en: "mythology"
+      ko: "신화"
+    gender: f
+    notes:
+      en: "die griechische Mythologie = Greek mythology"
+      ko: "die griechische Mythologie = 그리스 신화"
+  - german: "die Seidenstraße"
+    translation:
+      en: "Silk Road"
+      ko: "실크로드"
+    gender: f
+    notes:
+      en: "Ancient trade route between East and West"
+      ko: "동서양을 잇는 고대 교역로"
+  - german: "das Erbe"
+    translation:
+      en: "heritage / legacy"
+      ko: "유산"
+    gender: n
+    notes:
+      en: "das kulturelle Erbe = cultural heritage"
+      ko: "das kulturelle Erbe = 문화 유산"
+  - german: "die Ausgrabung, -en"
+    translation:
+      en: "excavation"
+      ko: "발굴"
+    gender: f
+    notes:
+      en: "archäologische Ausgrabungen = archaeological excavations"
+      ko: "archäologische Ausgrabungen = 고고학적 발굴"
+  - german: "die Ruine, -n"
+    translation:
+      en: "ruin"
+      ko: "폐허"
+    gender: f
+    notes:
+      en: "antike Ruinen besichtigen = to visit ancient ruins"
+      ko: "antike Ruinen besichtigen = 고대 유적을 방문하다"
+  - german: "das Zweistromland"
+    translation:
+      en: "Mesopotamia"
+      ko: "메소포타미아"
+    gender: n
+    notes:
+      en: "die Kulturen des Zweistromlandes = cultures of Mesopotamia"
+      ko: "메소포타미아 문명"
+  - german: "die Hieroglyphe, -n"
+    translation:
+      en: "hieroglyph"
+      ko: "상형문자"
+    gender: f
+    notes:
+      en: "die ägyptischen Hieroglyphen = Egyptian hieroglyphs"
+      ko: "이집트 상형문자"
+  - german: "der Pharao, Pharaonen"
+    translation:
+      en: "pharaoh"
+      ko: "파라오"
+    gender: m
+    notes:
+      en: "das Reich der Pharaonen = realm of the pharaohs"
+      ko: "파라오의 왕국"
+  - german: "die Akropolis"
+    translation:
+      en: "Acropolis"
+      ko: "아크로폴리스"
+    gender: f
+    notes:
+      en: "die Akropolis von Athen = the Acropolis of Athens"
+      ko: "아테네의 아크로폴리스"
+  - german: "die Polis, Poleis"
+    translation:
+      en: "polis / city-state"
+      ko: "폴리스 / 도시국가"
+    gender: f
+    notes:
+      en: "die griechische Polis = the Greek polis"
+      ko: "그리스 폴리스"
+  - german: "der Senat"
+    translation:
+      en: "senate"
+      ko: "원로원"
+    gender: m
+    notes:
+      en: "der römische Senat = the Roman Senate"
+      ko: "로마 원로원"
+  - german: "die Seidenstraße"
+    translation:
+      en: "Silk Road"
+      ko: "실크로드"
+    gender: f
+    notes:
+      en: "der Handel auf der Seidenstraße = trade on the Silk Road"
+      ko: "실크로드의 교역"
+  - german: "das Kolosseum"
+    translation:
+      en: "Colosseum"
+      ko: "콜로세움"
+    gender: n
+    notes:
+      en: "das Kolosseum in Rom = the Colosseum in Rome"
+      ko: "로마의 콜로세움"
+  - german: "die Demokratie (Athen)"
+    translation:
+      en: "democracy (Athens)"
+      ko: "민주주의 (아테네)"
+    gender: f
+    notes:
+      en: "die athenische Demokratie = Athenian democracy"
+      ko: "아테네 민주주의"
+  - german: "die Keilschrift"
+    translation:
+      en: "cuneiform"
+      ko: "쐐기문자"
+    gender: f
+    notes:
+      en: "die sumerische Keilschrift = Sumerian cuneiform"
+      ko: "수메르 쐐기문자"
+  - german: "das Orakel, -"
+    translation:
+      en: "oracle"
+      ko: "신탁"
+    gender: n
+    notes:
+      en: "das Orakel von Delphi = the Oracle of Delphi"
+      ko: "델포이의 신탁"
+  - german: "der Gladiator, Gladiatoren"
+    translation:
+      en: "gladiator"
+      ko: "검투사"
+    gender: m
+    notes:
+      en: "die Gladiatorenkämpfe = gladiatorial games"
+      ko: "검투사 경기"
+  - german: "die Stadtmauer, -n"
+    translation:
+      en: "city wall"
+      ko: "성벽"
+    gender: f
+    notes:
+      en: "die chinesische Stadtmauer = Chinese city wall"
+      ko: "중국의 성벽"
+  - german: "die Mythologie"
+    translation:
+      en: "mythology"
+      ko: "신화"
+    gender: f
+    notes:
+      en: "die griechische Mythologie = Greek mythology"
+      ko: "그리스 신화"
+  - german: "der Triumphbogen, Triumphbögen"
+    translation:
+      en: "triumphal arch"
+      ko: "개선문"
+    gender: m
+    notes:
+      en: "der Triumphbogen des Titus = the Arch of Titus"
+      ko: "티투스 개선문"
+  - german: "das Aquädukt, -e"
+    translation:
+      en: "aqueduct"
+      ko: "수도교"
+    gender: n
+    notes:
+      en: "die römischen Aquädukte = Roman aqueducts"
+      ko: "로마의 수도교"
+  - german: "die Papyrusrolle, -n"
+    translation:
+      en: "papyrus scroll"
+      ko: "파피루스 두루마리"
+    gender: f
+    notes:
+      en: "auf Papyrus schreiben = to write on papyrus"
+      ko: "파피루스에 쓰다"
+  - german: "die Dynastie, -n"
+    translation:
+      en: "dynasty"
+      ko: "왕조"
+    gender: f
+    notes:
+      en: "die Han-Dynastie = Han Dynasty"
+      ko: "한나라"
+- id: moderne_geschichte
+  label:
+    en: "Modern History (Moderne Geschichte)"
+    ko: "근현대사 (Moderne Geschichte)"
+  type: vocabulary
+  words:
+  - german: "die Französische Revolution"
+    translation:
+      en: "French Revolution"
+      ko: "프랑스 혁명"
+    gender: f
+    notes:
+      en: "1789: Liberté, Égalité, Fraternité"
+      ko: "1789: 자유, 평등, 박애"
+  - german: "der Erste Weltkrieg"
+    translation:
+      en: "World War I"
+      ko: "제1차 세계대전"
+    gender: m
+    notes:
+      en: "1914-1918"
+      ko: "1914-1918"
+  - german: "der Zweite Weltkrieg"
+    translation:
+      en: "World War II"
+      ko: "제2차 세계대전"
+    gender: m
+    notes:
+      en: "1939-1945"
+      ko: "1939-1945"
+  - german: "der Kalte Krieg"
+    translation:
+      en: "Cold War"
+      ko: "냉전"
+    gender: m
+    notes:
+      en: "der Ost-West-Konflikt"
+      ko: "동서 대립"
+  - german: "die Wiedervereinigung"
+    translation:
+      en: "reunification"
+      ko: "통일"
+    gender: f
+    notes:
+      en: "die deutsche Wiedervereinigung 1990"
+      ko: "1990년 독일 통일"
+  - german: "der Mauerfall"
+    translation:
+      en: "fall of the Berlin Wall"
+      ko: "베를린 장벽 붕괴"
+    gender: m
+    notes:
+      en: "9. November 1989"
+      ko: "1989년 11월 9일"
+  - german: "die Weimarer Republik"
+    translation:
+      en: "Weimar Republic"
+      ko: "바이마르 공화국"
+    gender: f
+    notes:
+      en: "Germany's first democratic republic (1918-1933)"
+      ko: "독일 최초의 민주 공화국 (1918-1933)"
+  - german: "der Holocaust"
+    translation:
+      en: "Holocaust"
+      ko: "홀로코스트"
+    gender: m
+    notes:
+      en: "die Shoah = Shoah (Hebrew term)"
+      ko: "die Shoah = 쇼아 (히브리어 용어)"
+  - german: "die Nachkriegszeit"
+    translation:
+      en: "postwar period"
+      ko: "전후 시대"
+    gender: f
+    notes:
+      en: "die Nachkriegsordnung = postwar order"
+      ko: "die Nachkriegsordnung = 전후 질서"
+  - german: "das Wirtschaftswunder"
+    translation:
+      en: "economic miracle"
+      ko: "경제 기적"
+    gender: n
+    notes:
+      en: "Germany's rapid economic growth in the 1950s-60s"
+      ko: "1950-60년대 독일의 급속한 경제 성장"
+  - german: "die Revolution, -en"
+    translation:
+      en: "revolution"
+      ko: "혁명"
+    gender: f
+    notes:
+      en: "revolutionär = revolutionary"
+      ko: "revolutionär = 혁명적인"
+  - german: "der Imperialismus"
+    translation:
+      en: "imperialism"
+      ko: "제국주의"
+    gender: m
+    notes:
+      en: "imperialistisch = imperialist"
+      ko: "imperialistisch = 제국주의적인"
+  - german: "die Dekolonisierung"
+    translation:
+      en: "decolonization"
+      ko: "탈식민지화"
+    gender: f
+    notes:
+      en: "die Unabhängigkeitsbewegung = independence movement"
+      ko: "die Unabhängigkeitsbewegung = 독립 운동"
+  - german: "der Versailler Vertrag"
+    translation:
+      en: "Treaty of Versailles"
+      ko: "베르사유 조약"
+    gender: m
+    notes:
+      en: "Peace treaty ending WWI (1919)"
+      ko: "제1차 세계대전을 종결한 평화 조약 (1919)"
+  - german: "das Dritte Reich"
+    translation:
+      en: "Third Reich"
+      ko: "제3제국"
+    gender: n
+    notes:
+      en: "Nazi Germany (1933-1945)"
+      ko: "나치 독일 (1933-1945)"
+  - german: "die Studentenbewegung, -en"
+    translation:
+      en: "student movement"
+      ko: "학생 운동"
+    gender: f
+    notes:
+      en: "die 68er-Bewegung = 1968 student movement"
+      ko: "die 68er-Bewegung = 68 학생 운동"
+  - german: "die Globalisierung"
+    translation:
+      en: "globalization"
+      ko: "세계화"
+    gender: f
+    notes:
+      en: "die kulturelle Globalisierung = cultural globalization"
+      ko: "die kulturelle Globalisierung = 문화적 세계화"
+  - german: "die Europäische Integration"
+    translation:
+      en: "European integration"
+      ko: "유럽 통합"
+    gender: f
+    notes:
+      en: "von der EWG zur EU = from EEC to EU"
+      ko: "von der EWG zur EU = EEC에서 EU로"
+  - german: "der Kalte Krieg"
+    translation:
+      en: "Cold War"
+      ko: "냉전"
+    gender: m
+    notes:
+      en: "das Ende des Kalten Krieges = the end of the Cold War"
+      ko: "냉전의 종식"
+  - german: "die Dekolonisierung"
+    translation:
+      en: "decolonization"
+      ko: "탈식민지화"
+    gender: f
+    notes:
+      en: "die Dekolonisierung Afrikas = decolonization of Africa"
+      ko: "아프리카의 탈식민지화"
+  - german: "die Atombombe, -n"
+    translation:
+      en: "atomic bomb"
+      ko: "원자폭탄"
+    gender: f
+    notes:
+      en: "der Abwurf der Atombombe = the dropping of the atomic bomb"
+      ko: "원자폭탄 투하"
+  - german: "die Berliner Mauer"
+    translation:
+      en: "Berlin Wall"
+      ko: "베를린 장벽"
+    gender: f
+    notes:
+      en: "der Fall der Berliner Mauer = the fall of the Berlin Wall"
+      ko: "베를린 장벽 붕괴"
+  - german: "der Marshallplan"
+    translation:
+      en: "Marshall Plan"
+      ko: "마셜 플랜"
+    gender: m
+    notes:
+      en: "der europäische Wiederaufbau = European reconstruction"
+      ko: "유럽 재건"
+  - german: "die Europäische Union"
+    translation:
+      en: "European Union"
+      ko: "유럽 연합"
+    gender: f
+    notes:
+      en: "die EU-Erweiterung = EU enlargement"
+      ko: "EU 확대"
+  - german: "die Bürgerrechtsbewegung, -en"
+    translation:
+      en: "civil rights movement"
+      ko: "시민권 운동"
+    gender: f
+    notes:
+      en: "die amerikanische Bürgerrechtsbewegung = American civil rights movement"
+      ko: "미국 시민권 운동"
+  - german: "der Völkermord, -e"
+    translation:
+      en: "genocide"
+      ko: "대량학살"
+    gender: m
+    notes:
+      en: "der Holocaust = the Holocaust"
+      ko: "홀로코스트"
+  - german: "die Globalisierung (hist.)"
+    translation:
+      en: "globalization (historical)"
+      ko: "세계화 (역사적)"
+    gender: f
+    notes:
+      en: "die erste Welle der Globalisierung = the first wave of globalization"
+      ko: "세계화의 제1차 물결"
+  - german: "die Friedensverhandlung, -en"
+    translation:
+      en: "peace negotiation"
+      ko: "평화 협상"
+    gender: f
+    notes:
+      en: "die Friedensverhandlungen von Versailles = the Treaty of Versailles negotiations"
+      ko: "베르사유 평화 협상"
+  - german: "der Totalitarismus"
+    translation:
+      en: "totalitarianism"
+      ko: "전체주의"
+    gender: m
+    notes:
+      en: "das totalitäre Regime = totalitarian regime"
+      ko: "전체주의 정권"
+  - german: "die Apartheid"
+    translation:
+      en: "apartheid"
+      ko: "아파르트헤이트"
+    gender: f
+    notes:
+      en: "das Ende der Apartheid = the end of apartheid"
+      ko: "아파르트헤이트의 종식"
+  - german: "die Wirtschaftswunderzeit"
+    translation:
+      en: "economic miracle period"
+      ko: "경제 기적 시대"
+    gender: f
+    notes:
+      en: "das deutsche Wirtschaftswunder = the German economic miracle"
+      ko: "독일 경제 기적"
+  - german: "die Perestroika"
+    translation:
+      en: "Perestroika"
+      ko: "페레스트로이카"
+    gender: f
+    notes:
+      en: "Gorbatschows Perestroika = Gorbachev's Perestroika"
+      ko: "고르바초프의 페레스트로이카"
+  - german: "die Studentenbewegung, -en"
+    translation:
+      en: "student movement"
+      ko: "학생 운동"
+    gender: f
+    notes:
+      en: "die 68er-Bewegung = the 1968 movement"
+      ko: "68운동"
+  - german: "der Eiserne Vorhang"
+    translation:
+      en: "Iron Curtain"
+      ko: "철의 장막"
+    gender: m
+    notes:
+      en: "hinter dem Eisernen Vorhang = behind the Iron Curtain"
+      ko: "철의 장막 뒤에서"
+  - german: "die Nuklearkatastrophe, -n"
+    translation:
+      en: "nuclear disaster"
+      ko: "핵 재앙"
+    gender: f
+    notes:
+      en: "die Katastrophe von Tschernobyl = the Chernobyl disaster"
+      ko: "체르노빌 재앙"
+  - german: "der Terrorismus"
+    translation:
+      en: "terrorism"
+      ko: "테러리즘"
+    gender: m
+    notes:
+      en: "der internationale Terrorismus = international terrorism"
+      ko: "국제 테러리즘"
+- id: historische_personen
+  label:
+    en: "Historical Figures (Historische Personen)"
+    ko: "역사적 인물 (Historische Personen)"
+  type: vocabulary
+  words:
+  - german: "der Herrscher, -"
+    translation:
+      en: "ruler"
+      ko: "통치자"
+    gender: m
+    notes:
+      en: "die Herrscherin = ruler (f)"
+      ko: "die Herrscherin = 통치자 (여)"
+  - german: "der Kaiser, -"
+    translation:
+      en: "emperor"
+      ko: "황제"
+    gender: m
+    notes:
+      en: "die Kaiserin = empress"
+      ko: "die Kaiserin = 황후"
+  - german: "der König, -e"
+    translation:
+      en: "king"
+      ko: "왕"
+    gender: m
+    notes:
+      en: "die Königin = queen"
+      ko: "die Königin = 여왕"
+  - german: "der Feldherr, -en"
+    translation:
+      en: "military commander"
+      ko: "군 사령관"
+    gender: m
+    notes:
+      en: "der Stratege = strategist"
+      ko: "der Stratege = 전략가"
+  - german: "der Reformator, -en"
+    translation:
+      en: "reformer"
+      ko: "개혁가"
+    gender: m
+    notes:
+      en: "Martin Luther als Reformator"
+      ko: "개혁가로서의 마르틴 루터"
+  - german: "der Revolutionär, -e"
+    translation:
+      en: "revolutionary"
+      ko: "혁명가"
+    gender: m
+    notes:
+      en: "die Revolutionärin = revolutionary (f)"
+      ko: "die Revolutionärin = 혁명가 (여)"
+  - german: "der Diktator, -en"
+    translation:
+      en: "dictator"
+      ko: "독재자"
+    gender: m
+    notes:
+      en: "die Diktatorin = dictator (f)"
+      ko: "die Diktatorin = 독재자 (여)"
+  - german: "der Friedensnobelpreisträger, -"
+    translation:
+      en: "Nobel Peace Prize laureate"
+      ko: "노벨 평화상 수상자"
+    gender: m
+    notes:
+      en: "die Friedensnobelpreisträgerin = laureate (f)"
+      ko: "die Friedensnobelpreisträgerin = 수상자 (여)"
+  - german: "der Widerstandskämpfer, -"
+    translation:
+      en: "resistance fighter"
+      ko: "저항 운동가"
+    gender: m
+    notes:
+      en: "die Weiße Rose = White Rose (resistance group)"
+      ko: "die Weiße Rose = 백장미단 (저항 단체)"
+  - german: "der Entdecker, -"
+    translation:
+      en: "explorer / discoverer"
+      ko: "탐험가 / 발견자"
+    gender: m
+    notes:
+      en: "die Entdeckerin = explorer (f)"
+      ko: "die Entdeckerin = 탐험가 (여)"
+  - german: "der Erfinder, -"
+    translation:
+      en: "inventor"
+      ko: "발명가"
+    gender: m
+    notes:
+      en: "die Erfinderin = inventor (f)"
+      ko: "die Erfinderin = 발명가 (여)"
+  - german: "der Diplomat, -en"
+    translation:
+      en: "diplomat"
+      ko: "외교관"
+    gender: m
+    notes:
+      en: "die Diplomatin = diplomat (f)"
+      ko: "die Diplomatin = 외교관 (여)"
+  - german: "der Zeitzeuge, -n"
+    translation:
+      en: "eyewitness (to history)"
+      ko: "역사의 증인"
+    gender: m
+    notes:
+      en: "die Zeitzeugin = eyewitness (f)"
+      ko: "die Zeitzeugin = 역사의 증인 (여)"
+  - german: "der Visionär, -e"
+    translation:
+      en: "visionary"
+      ko: "선견자"
+    gender: m
+    notes:
+      en: "visionär = visionary (adj.)"
+      ko: "visionär = 선견지명이 있는"
+  - german: "der Tyrann, -en"
+    translation:
+      en: "tyrant"
+      ko: "폭군"
+    gender: m
+    notes:
+      en: "die Tyrannei = tyranny"
+      ko: "die Tyrannei = 폭정"
+  - german: "der Mäzen, -e"
+    translation:
+      en: "patron (historical)"
+      ko: "후원자 (역사적)"
+    gender: m
+    notes:
+      en: "die Medici als Mäzene der Renaissance"
+      ko: "르네상스의 후원자로서의 메디치 가문"
+  - german: "der Kaiser, -"
+    translation:
+      en: "emperor"
+      ko: "황제"
+    gender: m
+    notes:
+      en: "die Kaiserin = empress"
+      ko: "die Kaiserin = 황후"
+  - german: "der Staatsmann, Staatsmänner"
+    translation:
+      en: "statesman"
+      ko: "정치가"
+    gender: m
+    notes:
+      en: "ein bedeutender Staatsmann = a significant statesman"
+      ko: "중요한 정치가"
+  - german: "der Feldherr, -en"
+    translation:
+      en: "military commander"
+      ko: "군사 지휘관"
+    gender: m
+    notes:
+      en: "ein genialer Feldherr = a brilliant military commander"
+      ko: "뛰어난 군사 지휘관"
+  - german: "der Reformator, -en"
+    translation:
+      en: "reformer"
+      ko: "개혁가"
+    gender: m
+    notes:
+      en: "Martin Luther als Reformator = Martin Luther as reformer"
+      ko: "개혁가 마르틴 루터"
+  - german: "der Diplomat, -en"
+    translation:
+      en: "diplomat (m)"
+      ko: "외교관 (남)"
+    gender: m
+    notes:
+      en: "die Diplomatin = diplomat (f)"
+      ko: "die Diplomatin = 외교관 (여)"
+  - german: "der Revolutionär, -e"
+    translation:
+      en: "revolutionary (m)"
+      ko: "혁명가 (남)"
+    gender: m
+    notes:
+      en: "die Revolutionärin = revolutionary (f)"
+      ko: "die Revolutionärin = 혁명가 (여)"
+  - german: "der Tyrann, -en"
+    translation:
+      en: "tyrant"
+      ko: "폭군"
+    gender: m
+    notes:
+      en: "die Tyrannei = tyranny"
+      ko: "die Tyrannei = 폭정"
+  - german: "der Kronprinz, -en"
+    translation:
+      en: "crown prince"
+      ko: "왕세자"
+    gender: m
+    notes:
+      en: "die Kronprinzessin = crown princess"
+      ko: "die Kronprinzessin = 왕세자비"
+  - german: "der Eroberer, -"
+    translation:
+      en: "conqueror"
+      ko: "정복자"
+    gender: m
+    notes:
+      en: "Alexander der Große als Eroberer = Alexander the Great as conqueror"
+      ko: "정복자 알렉산더 대왕"
+  - german: "der Widerstandskämpfer, -"
+    translation:
+      en: "resistance fighter (m)"
+      ko: "저항 전사 (남)"
+    gender: m
+    notes:
+      en: "die Widerstandskämpferin = resistance fighter (f)"
+      ko: "die Widerstandskämpferin = 저항 전사 (여)"
+  - german: "der Abolitionist, -en"
+    translation:
+      en: "abolitionist (m)"
+      ko: "폐지론자 (남)"
+    gender: m
+    notes:
+      en: "die Abolitionistin = abolitionist (f)"
+      ko: "die Abolitionistin = 폐지론자 (여)"
+  - german: "der Visionär, -e"
+    translation:
+      en: "visionary (m)"
+      ko: "선구자 (남)"
+    gender: m
+    notes:
+      en: "die Visionärin = visionary (f)"
+      ko: "die Visionärin = 선구자 (여)"
+  - german: "der Chronist, -en"
+    translation:
+      en: "chronicler"
+      ko: "연대기 작가"
+    gender: m
+    notes:
+      en: "die Chronistin = chronicler (f)"
+      ko: "die Chronistin = 연대기 작가 (여)"
+  - german: "der Mäzen, -e"
+    translation:
+      en: "patron (historical)"
+      ko: "후원자 (역사적)"
+    gender: m
+    notes:
+      en: "die Medici als Mäzene = the Medici as patrons"
+      ko: "후원자로서의 메디치 가문"
+  - german: "der Zeitzeuge, -n"
+    translation:
+      en: "contemporary witness"
+      ko: "역사적 증인"
+    gender: m
+    notes:
+      en: "die Zeitzeugin = contemporary witness (f)"
+      ko: "die Zeitzeugin = 역사적 증인 (여)"
+  - german: "der Friedensnobelpreisträger, -"
+    translation:
+      en: "Nobel Peace Prize laureate (m)"
+      ko: "노벨 평화상 수상자 (남)"
+    gender: m
+    notes:
+      en: "die Friedensnobelpreisträgerin = laureate (f)"
+      ko: "die Friedensnobelpreisträgerin = 수상자 (여)"
+  - german: "der Herrscher, -"
+    translation:
+      en: "ruler"
+      ko: "통치자"
+    gender: m
+    notes:
+      en: "die Herrscherin = ruler (f)"
+      ko: "die Herrscherin = 통치자 (여)"
+  - german: "einflussreich"
+    translation:
+      en: "influential"
+      ko: "영향력 있는"
+    gender: null
+    notes:
+      en: "eine einflussreiche Persönlichkeit = an influential figure"
+      ko: "영향력 있는 인물"
+  - german: "legendär"
+    translation:
+      en: "legendary"
+      ko: "전설적인"
+    gender: null
+    notes:
+      en: "eine legendäre Figur = a legendary figure"
+      ko: "전설적인 인물"
+  - german: "posthum"
+    translation:
+      en: "posthumous"
+      ko: "사후의"
+    gender: null
+    notes:
+      en: "posthume Ehrung = posthumous honor"
+      ko: "사후 추모"
+- id: geschichtsschreibung
+  label:
+    en: "Historiography (Geschichtsschreibung)"
+    ko: "역사 서술 (Geschichtsschreibung)"
+  type: vocabulary
+  words:
+  - german: "die Geschichtsschreibung"
+    translation:
+      en: "historiography"
+      ko: "역사 서술"
+    gender: f
+    notes:
+      en: "der Geschichtsschreiber = historian (traditional)"
+      ko: "der Geschichtsschreiber = 역사가 (전통적)"
+  - german: "die Quelle, -n"
+    translation:
+      en: "source (historical)"
+      ko: "사료"
+    gender: f
+    notes:
+      en: "die Primärquelle = primary source"
+      ko: "die Primärquelle = 1차 사료"
+  - german: "das Archiv, -e"
+    translation:
+      en: "archive"
+      ko: "기록 보관소"
+    gender: n
+    notes:
+      en: "archivieren = to archive"
+      ko: "archivieren = 보관하다"
+  - german: "die Chronik, -en"
+    translation:
+      en: "chronicle"
+      ko: "연대기"
+    gender: f
+    notes:
+      en: "der Chronist = chronicler"
+      ko: "der Chronist = 연대기 작가"
+  - german: "die Archäologie"
+    translation:
+      en: "archaeology"
+      ko: "고고학"
+    gender: f
+    notes:
+      en: "der Archäologe = archaeologist"
+      ko: "der Archäologe = 고고학자"
+  - german: "der Historiker, -"
+    translation:
+      en: "historian (m)"
+      ko: "역사가 (남)"
+    gender: m
+    notes:
+      en: "die Historikerin = historian (f)"
+      ko: "die Historikerin = 역사가 (여)"
+  - german: "die Überlieferung, -en"
+    translation:
+      en: "tradition / transmission"
+      ko: "전승"
+    gender: f
+    notes:
+      en: "die mündliche Überlieferung = oral tradition"
+      ko: "die mündliche Überlieferung = 구전"
+  - german: "die Inschrift, -en"
+    translation:
+      en: "inscription"
+      ko: "비문"
+    gender: f
+    notes:
+      en: "die Keilschrift = cuneiform"
+      ko: "die Keilschrift = 쐐기 문자"
+  - german: "der Zeitgeist"
+    translation:
+      en: "spirit of the age"
+      ko: "시대정신"
+    gender: m
+    notes:
+      en: "German concept widely used internationally"
+      ko: "국제적으로 널리 쓰이는 독일 개념"
+  - german: "die Geschichtswissenschaft"
+    translation:
+      en: "historical science"
+      ko: "역사학"
+    gender: f
+    notes:
+      en: "geschichtswissenschaftlich = historical-scientific"
+      ko: "geschichtswissenschaftlich = 역사학적인"
+  - german: "das Dokument, -e"
+    translation:
+      en: "document"
+      ko: "문서"
+    gender: n
+    notes:
+      en: "dokumentieren = to document"
+      ko: "dokumentieren = 기록하다"
+  - german: "die Sekundärquelle, -n"
+    translation:
+      en: "secondary source"
+      ko: "2차 자료"
+    gender: f
+    notes:
+      en: "die Sekundärliteratur = secondary literature"
+      ko: "die Sekundärliteratur = 2차 문헌"
+  - german: "die Periodisierung"
+    translation:
+      en: "periodization"
+      ko: "시대 구분"
+    gender: f
+    notes:
+      en: "die historische Periodisierung"
+      ko: "역사적 시대 구분"
+  - german: "die Geschichtsphilosophie"
+    translation:
+      en: "philosophy of history"
+      ko: "역사 철학"
+    gender: f
+    notes:
+      en: "Hegel's Geschichtsphilosophie"
+      ko: "헤겔의 역사 철학"
+  - german: "die Erinnerungskultur"
+    translation:
+      en: "culture of remembrance"
+      ko: "기억 문화"
+    gender: f
+    notes:
+      en: "die Gedenkstätte = memorial site"
+      ko: "die Gedenkstätte = 기념관"
+  - german: "revisionistisch"
+    translation:
+      en: "revisionist"
+      ko: "수정주의적인"
+    gender: null
+    notes:
+      en: "der Geschichtsrevisionismus = historical revisionism"
+      ko: "der Geschichtsrevisionismus = 역사 수정주의"
+  - german: "quellenkritisch"
+    translation:
+      en: "source-critical"
+      ko: "사료 비판적인"
+    gender: null
+    notes:
+      en: "die Quellenkritik = source criticism"
+      ko: "die Quellenkritik = 사료 비판"
+  - german: "die Primärquelle, -n"
+    translation:
+      en: "primary source"
+      ko: "1차 자료"
+    gender: f
+    notes:
+      en: "die Arbeit mit Primärquellen = working with primary sources"
+      ko: "1차 자료 활용"
+  - german: "die Sekundärquelle, -n"
+    translation:
+      en: "secondary source"
+      ko: "2차 자료"
+    gender: f
+    notes:
+      en: "die Sekundärquelle konsultieren = to consult a secondary source"
+      ko: "2차 자료를 참고하다"
+  - german: "die Oral History"
+    translation:
+      en: "oral history"
+      ko: "구술사"
+    gender: f
+    notes:
+      en: "die Methode der Oral History = the method of oral history"
+      ko: "구술사 방법"
+  - german: "die Quellenkritik"
+    translation:
+      en: "source criticism"
+      ko: "사료 비판"
+    gender: f
+    notes:
+      en: "die historische Quellenkritik = historical source criticism"
+      ko: "역사적 사료 비판"
+  - german: "die Periodisierung"
+    translation:
+      en: "periodization"
+      ko: "시대 구분"
+    gender: f
+    notes:
+      en: "die Periodisierung der Geschichte = periodization of history"
+      ko: "역사의 시대 구분"
+  - german: "die Archäologie"
+    translation:
+      en: "archaeology"
+      ko: "고고학"
+    gender: f
+    notes:
+      en: "die archäologische Ausgrabung = archaeological excavation"
+      ko: "고고학 발굴"
+  - german: "die Geschichtsphilosophie"
+    translation:
+      en: "philosophy of history"
+      ko: "역사 철학"
+    gender: f
+    notes:
+      en: "Hegels Geschichtsphilosophie = Hegel's philosophy of history"
+      ko: "헤겔의 역사 철학"
+  - german: "die Sozialgeschichte"
+    translation:
+      en: "social history"
+      ko: "사회사"
+    gender: f
+    notes:
+      en: "die Sozialgeschichte des 19. Jahrhunderts = social history of the 19th century"
+      ko: "19세기 사회사"
+  - german: "die Kulturgeschichte"
+    translation:
+      en: "cultural history"
+      ko: "문화사"
+    gender: f
+    notes:
+      en: "die europäische Kulturgeschichte = European cultural history"
+      ko: "유럽 문화사"
+  - german: "die Wirtschaftsgeschichte"
+    translation:
+      en: "economic history"
+      ko: "경제사"
+    gender: f
+    notes:
+      en: "die globale Wirtschaftsgeschichte = global economic history"
+      ko: "세계 경제사"
+  - german: "die Geschichtsrevision"
+    translation:
+      en: "historical revisionism"
+      ko: "역사 수정주의"
+    gender: f
+    notes:
+      en: "die umstrittene Geschichtsrevision = controversial historical revisionism"
+      ko: "논란이 많은 역사 수정주의"
+  - german: "der Paradigmenwechsel, -"
+    translation:
+      en: "paradigm shift"
+      ko: "패러다임 전환"
+    gender: m
+    notes:
+      en: "ein historiografischer Paradigmenwechsel = a historiographic paradigm shift"
+      ko: "역사학적 패러다임 전환"
+  - german: "die Erinnerungskultur"
+    translation:
+      en: "memory culture / remembrance culture"
+      ko: "기억 문화"
+    gender: f
+    notes:
+      en: "die deutsche Erinnerungskultur = German remembrance culture"
+      ko: "독일의 기억 문화"
+  - german: "die Mentalitätsgeschichte"
+    translation:
+      en: "history of mentalities"
+      ko: "정신사"
+    gender: f
+    notes:
+      en: "die Geschichte der Mentalitäten = history of mentalities"
+      ko: "정신사"
+  - german: "der Geschichtsrevisionismus"
+    translation:
+      en: "historical revisionism (critical)"
+      ko: "역사 수정주의 (비판적)"
+    gender: m
+    notes:
+      en: "der Geschichtsrevisionismus kritisieren = to criticize historical revisionism"
+      ko: "역사 수정주의를 비판하다"
+  - german: "die Zeitgeschichte"
+    translation:
+      en: "contemporary history"
+      ko: "현대사"
+    gender: f
+    notes:
+      en: "das Institut für Zeitgeschichte = Institute for Contemporary History"
+      ko: "현대사 연구소"
+  - german: "die Globalgeschichte"
+    translation:
+      en: "global history"
+      ko: "세계사"
+    gender: f
+    notes:
+      en: "die Perspektive der Globalgeschichte = the perspective of global history"
+      ko: "세계사의 관점"
+  - german: "die Mikrogeschichte"
+    translation:
+      en: "microhistory"
+      ko: "미시사"
+    gender: f
+    notes:
+      en: "die Mikrogeschichte eines Dorfes = microhistory of a village"
+      ko: "한 마을의 미시사"
+  - german: "kontrafaktisch"
+    translation:
+      en: "counterfactual"
+      ko: "반사실적인"
+    gender: null
+    notes:
+      en: "die kontrafaktische Geschichte = counterfactual history"
+      ko: "반사실적 역사"
+  - german: "historiografisch"
+    translation:
+      en: "historiographical"
+      ko: "역사 기술의"
+    gender: null
+    notes:
+      en: "die historiografische Debatte = the historiographical debate"
+      ko: "역사 기술적 논쟁"

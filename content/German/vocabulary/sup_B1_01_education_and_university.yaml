@@ -1,0 +1,1446 @@
+lesson: "sup_B1_Education_and_University"
+lesson_number: 141
+cefr: B1
+type: supplementary
+topic: "Education and University"
+categories:
+- id: studienfaecher
+  label:
+    en: "Fields of Study (Studienfächer)"
+    ko: "전공 분야 (Studienfächer)"
+  type: vocabulary
+  words:
+  - german: "das Studienfach, -fächer"
+    translation:
+      en: "field of study / subject"
+      ko: "전공 과목"
+    gender: n
+    notes:
+      en: "ein Studienfach wählen = to choose a field of study"
+      ko: "ein Studienfach wählen = 전공을 선택하다"
+  - german: "die Betriebswirtschaftslehre (BWL)"
+    translation:
+      en: "business administration"
+      ko: "경영학"
+    gender: f
+    notes:
+      en: "One of the most popular subjects in Germany"
+      ko: "독일에서 가장 인기 있는 전공 중 하나"
+  - german: "die Volkswirtschaftslehre (VWL)"
+    translation:
+      en: "economics"
+      ko: "경제학"
+    gender: f
+    notes:
+      en: "Studies national and international economic systems"
+      ko: "국내 및 국제 경제 시스템을 연구"
+  - german: "die Rechtswissenschaft, -en"
+    translation:
+      en: "law (academic discipline)"
+      ko: "법학"
+    gender: f
+    notes:
+      en: "Jura studieren = to study law (colloquial)"
+      ko: "Jura studieren = 법학을 공부하다 (구어적)"
+  - german: "die Informatik"
+    translation:
+      en: "computer science"
+      ko: "컴퓨터 공학"
+    gender: f
+    notes:
+      en: "die Wirtschaftsinformatik = business informatics"
+      ko: "die Wirtschaftsinformatik = 경영정보학"
+  - german: "die Medizin"
+    translation:
+      en: "medicine"
+      ko: "의학"
+    gender: f
+    notes:
+      en: "Requires Numerus clausus (NC) for admission"
+      ko: "입학에 정원제한(NC)이 필요"
+  - german: "die Naturwissenschaft, -en"
+    translation:
+      en: "natural science"
+      ko: "자연과학"
+    gender: f
+    notes:
+      en: "Includes Physik, Chemie, Biologie"
+      ko: "물리학, 화학, 생물학 포함"
+  - german: "die Geisteswissenschaft, -en"
+    translation:
+      en: "humanities"
+      ko: "인문학"
+    gender: f
+    notes:
+      en: "Philosophie, Geschichte, Literatur etc."
+      ko: "철학, 역사, 문학 등"
+  - german: "die Ingenieurwissenschaft, -en"
+    translation:
+      en: "engineering (academic)"
+      ko: "공학"
+    gender: f
+    notes:
+      en: "der Maschinenbau = mechanical engineering"
+      ko: "der Maschinenbau = 기계공학"
+  - german: "die Psychologie"
+    translation:
+      en: "psychology"
+      ko: "심리학"
+    gender: f
+    notes:
+      en: "Very competitive admission in Germany"
+      ko: "독일에서 입학 경쟁이 매우 치열함"
+  - german: "die Sozialwissenschaft, -en"
+    translation:
+      en: "social science"
+      ko: "사회과학"
+    gender: f
+    notes:
+      en: "die Soziologie = sociology"
+      ko: "die Soziologie = 사회학"
+  - german: "die Erziehungswissenschaft, -en"
+    translation:
+      en: "education science / pedagogy"
+      ko: "교육학"
+    gender: f
+    notes:
+      en: "Also called die Pädagogik"
+      ko: "die Pädagogik이라고도 함"
+  - german: "die Architektur"
+    translation:
+      en: "architecture"
+      ko: "건축학"
+    gender: f
+    notes:
+      en: "Combines art and engineering"
+      ko: "예술과 공학을 결합"
+  - german: "die Philosophie"
+    translation:
+      en: "philosophy"
+      ko: "철학"
+    gender: f
+    notes:
+      en: "Germany has a rich philosophical tradition"
+      ko: "독일은 풍부한 철학적 전통을 가지고 있음"
+  - german: "die Germanistik"
+    translation:
+      en: "German studies"
+      ko: "독문학"
+    gender: f
+    notes:
+      en: "Study of German language, literature, and culture"
+      ko: "독일어, 독문학, 독일 문화 연구"
+  - german: "die Politikwissenschaft"
+    translation:
+      en: "political science"
+      ko: "정치학"
+    gender: f
+    notes:
+      en: "Often combined with Soziologie in a degree"
+      ko: "학위에서 사회학과 결합되는 경우가 많음"
+  - german: "die Mathematik"
+    translation:
+      en: "mathematics"
+      ko: "수학"
+    gender: f
+    notes:
+      en: "Often abbreviated as Mathe in colloquial speech"
+      ko: "구어에서 종종 Mathe로 줄여 말함"
+  - german: "die Kunstgeschichte"
+    translation:
+      en: "art history"
+      ko: "미술사"
+    gender: f
+    notes:
+      en: "Studium der bildenden Kunst = study of visual arts"
+      ko: "Studium der bildenden Kunst = 시각 예술 연구"
+  - german: "die Pharmazie"
+    translation:
+      en: "pharmacy / pharmaceutical science"
+      ko: "약학"
+    gender: f
+    notes:
+      en: "Leads to the Staatsexamen (state exam)"
+      ko: "국가시험(Staatsexamen)으로 이어짐"
+  - german: "die Zahnmedizin"
+    translation:
+      en: "dentistry"
+      ko: "치의학"
+    gender: f
+    notes:
+      en: "Also requires NC for admission"
+      ko: "입학에 정원제한(NC)이 필요"
+  - german: "die Elektrotechnik"
+    translation:
+      en: "electrical engineering"
+      ko: "전기공학"
+    gender: f
+    notes:
+      en: "Strong demand in the German job market"
+      ko: "독일 취업 시장에서 수요가 높음"
+  - german: "die Biologie"
+    translation:
+      en: "biology"
+      ko: "생물학"
+    gender: f
+    notes:
+      en: "die Molekularbiologie = molecular biology"
+      ko: "die Molekularbiologie = 분자생물학"
+  - german: "die Chemie"
+    translation:
+      en: "chemistry"
+      ko: "화학"
+    gender: f
+    notes:
+      en: "die organische Chemie = organic chemistry"
+      ko: "die organische Chemie = 유기화학"
+  - german: "die Physik"
+    translation:
+      en: "physics"
+      ko: "물리학"
+    gender: f
+    notes:
+      en: "die theoretische Physik = theoretical physics"
+      ko: "die theoretische Physik = 이론물리학"
+
+- id: campusleben
+  label:
+    en: "Campus Life (Campusleben)"
+    ko: "캠퍼스 생활 (Campusleben)"
+  type: vocabulary
+  words:
+  - german: "die Universität, -en"
+    translation:
+      en: "university"
+      ko: "대학교"
+    gender: f
+    notes:
+      en: "Abbreviated as Uni in everyday speech"
+      ko: "일상에서 Uni로 줄여 말함"
+  - german: "die Fachhochschule, -n"
+    translation:
+      en: "university of applied sciences"
+      ko: "응용과학대학"
+    gender: f
+    notes:
+      en: "More practice-oriented than a Universität"
+      ko: "일반 대학교보다 실무 중심적"
+  - german: "die Bibliothek, -en"
+    translation:
+      en: "library"
+      ko: "도서관"
+    gender: f
+    notes:
+      en: "die Unibibliothek = university library"
+      ko: "die Unibibliothek = 대학 도서관"
+  - german: "die Mensa, Mensen"
+    translation:
+      en: "university cafeteria"
+      ko: "학생 식당"
+    gender: f
+    notes:
+      en: "Subsidized meals for students"
+      ko: "학생들을 위한 보조금 지원 식사"
+  - german: "der Hörsaal, Hörsäle"
+    translation:
+      en: "lecture hall"
+      ko: "강의실"
+    gender: m
+    notes:
+      en: "Large room for Vorlesungen (lectures)"
+      ko: "강의(Vorlesungen)를 위한 대형 강의실"
+  - german: "das Seminar, -e"
+    translation:
+      en: "seminar"
+      ko: "세미나"
+    gender: n
+    notes:
+      en: "Smaller, interactive class format"
+      ko: "더 작고 상호적인 수업 형식"
+  - german: "die Vorlesung, -en"
+    translation:
+      en: "lecture"
+      ko: "강의"
+    gender: f
+    notes:
+      en: "eine Vorlesung besuchen = to attend a lecture"
+      ko: "eine Vorlesung besuchen = 강의에 참석하다"
+  - german: "das Studentenwohnheim, -e"
+    translation:
+      en: "student dormitory"
+      ko: "학생 기숙사"
+    gender: n
+    notes:
+      en: "Often managed by the Studentenwerk"
+      ko: "종종 학생복지기관(Studentenwerk)이 관리"
+  - german: "der Campus, Campus (pl.)"
+    translation:
+      en: "campus"
+      ko: "캠퍼스"
+    gender: m
+    notes:
+      en: "auf dem Campus = on campus"
+      ko: "auf dem Campus = 캠퍼스에서"
+  - german: "das Semester, -"
+    translation:
+      en: "semester"
+      ko: "학기"
+    gender: n
+    notes:
+      en: "Wintersemester (WS) and Sommersemester (SS)"
+      ko: "겨울학기(WS)와 여름학기(SS)"
+  - german: "die Sprechstunde, -n"
+    translation:
+      en: "office hour"
+      ko: "상담 시간"
+    gender: f
+    notes:
+      en: "die Sprechstunde des Professors = professor's office hour"
+      ko: "die Sprechstunde des Professors = 교수 상담 시간"
+  - german: "das Studentenwerk, -e"
+    translation:
+      en: "student services organization"
+      ko: "학생복지기관"
+    gender: n
+    notes:
+      en: "Manages housing, financial aid, and cafeterias"
+      ko: "기숙사, 재정 지원, 학생 식당 관리"
+  - german: "die WG (Wohngemeinschaft), -en"
+    translation:
+      en: "shared apartment"
+      ko: "공동 주거 / 셰어하우스"
+    gender: f
+    notes:
+      en: "Very common living arrangement for students"
+      ko: "학생들에게 매우 흔한 주거 형태"
+  - german: "die Fachschaft, -en"
+    translation:
+      en: "student council (departmental)"
+      ko: "학과 학생회"
+    gender: f
+    notes:
+      en: "Represents students within their department"
+      ko: "학과 내 학생을 대표"
+  - german: "der Semesterbeitrag, -beiträge"
+    translation:
+      en: "semester fee"
+      ko: "학기 납부금"
+    gender: m
+    notes:
+      en: "Includes Semesterticket for public transport"
+      ko: "대중교통 학기 티켓 포함"
+  - german: "das Semesterticket, -s"
+    translation:
+      en: "semester transit pass"
+      ko: "학기 교통권"
+    gender: n
+    notes:
+      en: "Free public transport for enrolled students"
+      ko: "재학생을 위한 무료 대중교통"
+  - german: "die Studienberatung, -en"
+    translation:
+      en: "academic advising"
+      ko: "학업 상담"
+    gender: f
+    notes:
+      en: "Helps students with course planning"
+      ko: "학생들의 수업 계획을 도움"
+  - german: "die Immatrikulation, -en"
+    translation:
+      en: "enrollment / matriculation"
+      ko: "입학 등록"
+    gender: f
+    notes:
+      en: "sich immatrikulieren = to enroll"
+      ko: "sich immatrikulieren = 입학 등록하다"
+  - german: "die Exmatrikulation, -en"
+    translation:
+      en: "de-enrollment"
+      ko: "학적 말소 / 퇴학 등록"
+    gender: f
+    notes:
+      en: "sich exmatrikulieren = to de-enroll"
+      ko: "sich exmatrikulieren = 학적을 말소하다"
+  - german: "der Studentenausweis, -e"
+    translation:
+      en: "student ID card"
+      ko: "학생증"
+    gender: m
+    notes:
+      en: "Gives discounts at many places"
+      ko: "여러 곳에서 할인 혜택 제공"
+  - german: "das Rechenzentrum, -zentren"
+    translation:
+      en: "computer center"
+      ko: "전산 센터"
+    gender: n
+    notes:
+      en: "Provides IT services for students"
+      ko: "학생들에게 IT 서비스 제공"
+  - german: "der Lesesaal, -säle"
+    translation:
+      en: "reading room"
+      ko: "열람실"
+    gender: m
+    notes:
+      en: "im Lesesaal lernen = to study in the reading room"
+      ko: "im Lesesaal lernen = 열람실에서 공부하다"
+
+- id: lernverben
+  label:
+    en: "Study Verbs (Lernverben)"
+    ko: "학습 동사 (Lernverben)"
+  type: vocabulary
+  words:
+  - german: "studieren"
+    translation:
+      en: "to study (at university)"
+      ko: "대학에서 공부하다"
+    gender: null
+    notes:
+      en: "Ich studiere Informatik = I study computer science"
+      ko: "Ich studiere Informatik = 나는 컴퓨터 공학을 전공한다"
+  - german: "lernen"
+    translation:
+      en: "to learn / to study"
+      ko: "배우다 / 공부하다"
+    gender: null
+    notes:
+      en: "für eine Prüfung lernen = to study for an exam"
+      ko: "für eine Prüfung lernen = 시험 공부를 하다"
+  - german: "forschen"
+    translation:
+      en: "to research / to do research"
+      ko: "연구하다"
+    gender: null
+    notes:
+      en: "die Forschung = research"
+      ko: "die Forschung = 연구"
+  - german: "sich einschreiben"
+    translation:
+      en: "to enroll / to register"
+      ko: "등록하다"
+    gender: null
+    notes:
+      en: "sich für einen Kurs einschreiben = to register for a course"
+      ko: "sich für einen Kurs einschreiben = 수업에 등록하다"
+  - german: "sich bewerben"
+    translation:
+      en: "to apply"
+      ko: "지원하다"
+    gender: null
+    notes:
+      en: "sich um einen Studienplatz bewerben = to apply for a place"
+      ko: "sich um einen Studienplatz bewerben = 입학을 지원하다"
+  - german: "bestehen"
+    translation:
+      en: "to pass (an exam)"
+      ko: "합격하다 / 통과하다"
+    gender: null
+    notes:
+      en: "die Prüfung bestehen = to pass the exam"
+      ko: "die Prüfung bestehen = 시험에 합격하다"
+  - german: "durchfallen"
+    translation:
+      en: "to fail (an exam)"
+      ko: "낙제하다 / 불합격하다"
+    gender: null
+    notes:
+      en: "Separable: Er ist durchgefallen = He failed"
+      ko: "분리 동사: Er ist durchgefallen = 그는 불합격했다"
+  - german: "wiederholen"
+    translation:
+      en: "to repeat / to review"
+      ko: "반복하다 / 복습하다"
+    gender: null
+    notes:
+      en: "eine Prüfung wiederholen = to retake an exam"
+      ko: "eine Prüfung wiederholen = 시험을 재응시하다"
+  - german: "sich vorbereiten"
+    translation:
+      en: "to prepare"
+      ko: "준비하다"
+    gender: null
+    notes:
+      en: "sich auf die Prüfung vorbereiten = to prepare for the exam"
+      ko: "sich auf die Prüfung vorbereiten = 시험을 준비하다"
+  - german: "zusammenfassen"
+    translation:
+      en: "to summarize"
+      ko: "요약하다"
+    gender: null
+    notes:
+      en: "die Zusammenfassung = summary"
+      ko: "die Zusammenfassung = 요약"
+  - german: "nachschlagen"
+    translation:
+      en: "to look up (in a reference)"
+      ko: "찾아보다 / 검색하다"
+    gender: null
+    notes:
+      en: "ein Wort im Wörterbuch nachschlagen = to look up a word"
+      ko: "ein Wort im Wörterbuch nachschlagen = 사전에서 단어를 찾다"
+  - german: "sich spezialisieren"
+    translation:
+      en: "to specialize"
+      ko: "전문화하다"
+    gender: null
+    notes:
+      en: "sich auf ein Gebiet spezialisieren = to specialize in a field"
+      ko: "sich auf ein Gebiet spezialisieren = 한 분야에 전문화하다"
+  - german: "analysieren"
+    translation:
+      en: "to analyze"
+      ko: "분석하다"
+    gender: null
+    notes:
+      en: "Daten analysieren = to analyze data"
+      ko: "Daten analysieren = 데이터를 분석하다"
+  - german: "recherchieren"
+    translation:
+      en: "to research / to investigate"
+      ko: "조사하다"
+    gender: null
+    notes:
+      en: "im Internet recherchieren = to research online"
+      ko: "im Internet recherchieren = 인터넷에서 조사하다"
+  - german: "sich anmelden"
+    translation:
+      en: "to register / to sign up"
+      ko: "신청하다 / 등록하다"
+    gender: null
+    notes:
+      en: "sich zur Prüfung anmelden = to register for an exam"
+      ko: "sich zur Prüfung anmelden = 시험에 등록하다"
+  - german: "ausleihen"
+    translation:
+      en: "to borrow / to lend out"
+      ko: "빌리다 / 대출하다"
+    gender: null
+    notes:
+      en: "Bücher ausleihen = to borrow books"
+      ko: "Bücher ausleihen = 책을 빌리다"
+  - german: "pauken"
+    translation:
+      en: "to cram (colloquial)"
+      ko: "벼락치기하다 (구어)"
+    gender: null
+    notes:
+      en: "die ganze Nacht pauken = to cram all night"
+      ko: "die ganze Nacht pauken = 밤새 벼락치기하다"
+  - german: "büffeln"
+    translation:
+      en: "to swot / to grind (colloquial)"
+      ko: "열심히 공부하다 (구어)"
+    gender: null
+    notes:
+      en: "vor der Klausur büffeln = to swot before the exam"
+      ko: "vor der Klausur büffeln = 시험 전에 열공하다"
+  - german: "abschreiben"
+    translation:
+      en: "to copy / to cheat"
+      ko: "베끼다 / 부정행위하다"
+    gender: null
+    notes:
+      en: "beim Nachbarn abschreiben = to copy from a neighbor"
+      ko: "beim Nachbarn abschreiben = 옆 사람 것을 베끼다"
+  - german: "diskutieren"
+    translation:
+      en: "to discuss / to debate"
+      ko: "토론하다"
+    gender: null
+    notes:
+      en: "über ein Thema diskutieren = to discuss a topic"
+      ko: "über ein Thema diskutieren = 주제에 대해 토론하다"
+  - german: "präsentieren"
+    translation:
+      en: "to present"
+      ko: "발표하다"
+    gender: null
+    notes:
+      en: "ein Referat präsentieren = to present a paper"
+      ko: "ein Referat präsentieren = 발표를 하다"
+  - german: "sich konzentrieren"
+    translation:
+      en: "to concentrate"
+      ko: "집중하다"
+    gender: null
+    notes:
+      en: "sich auf die Arbeit konzentrieren = to focus on work"
+      ko: "sich auf die Arbeit konzentrieren = 일에 집중하다"
+
+- id: abschluesse
+  label:
+    en: "Degrees and Qualifications (Abschlüsse)"
+    ko: "학위와 자격 (Abschlüsse)"
+  type: vocabulary
+  words:
+  - german: "der Abschluss, Abschlüsse"
+    translation:
+      en: "degree / diploma"
+      ko: "학위 / 졸업장"
+    gender: m
+    notes:
+      en: "einen Abschluss machen = to graduate"
+      ko: "einen Abschluss machen = 졸업하다"
+  - german: "der Bachelor, -s"
+    translation:
+      en: "bachelor's degree"
+      ko: "학사 학위"
+    gender: m
+    notes:
+      en: "Usually 6 semesters (3 years)"
+      ko: "보통 6학기 (3년)"
+  - german: "der Master, -s"
+    translation:
+      en: "master's degree"
+      ko: "석사 학위"
+    gender: m
+    notes:
+      en: "Usually 4 semesters (2 years)"
+      ko: "보통 4학기 (2년)"
+  - german: "die Promotion, -en"
+    translation:
+      en: "doctorate / PhD"
+      ko: "박사 학위"
+    gender: f
+    notes:
+      en: "promovieren = to do a PhD"
+      ko: "promovieren = 박사 과정을 밟다"
+  - german: "die Dissertation, -en"
+    translation:
+      en: "dissertation / thesis (PhD)"
+      ko: "박사 논문"
+    gender: f
+    notes:
+      en: "Also called die Doktorarbeit"
+      ko: "die Doktorarbeit이라고도 함"
+  - german: "die Bachelorarbeit, -en"
+    translation:
+      en: "bachelor's thesis"
+      ko: "학사 논문"
+    gender: f
+    notes:
+      en: "Required to complete the bachelor's degree"
+      ko: "학사 학위 취득에 필수"
+  - german: "die Masterarbeit, -en"
+    translation:
+      en: "master's thesis"
+      ko: "석사 논문"
+    gender: f
+    notes:
+      en: "die Masterarbeit schreiben = to write the master's thesis"
+      ko: "die Masterarbeit schreiben = 석사 논문을 쓰다"
+  - german: "die Klausur, -en"
+    translation:
+      en: "written exam"
+      ko: "필기시험"
+    gender: f
+    notes:
+      en: "eine Klausur schreiben = to take a written exam"
+      ko: "eine Klausur schreiben = 필기시험을 보다"
+  - german: "die Hausarbeit, -en"
+    translation:
+      en: "term paper / essay"
+      ko: "학기 리포트"
+    gender: f
+    notes:
+      en: "eine Hausarbeit abgeben = to submit a term paper"
+      ko: "eine Hausarbeit abgeben = 학기 리포트를 제출하다"
+  - german: "das Referat, -e"
+    translation:
+      en: "presentation / oral report"
+      ko: "발표 / 구두 보고"
+    gender: n
+    notes:
+      en: "ein Referat halten = to give a presentation"
+      ko: "ein Referat halten = 발표하다"
+  - german: "die Note, -n"
+    translation:
+      en: "grade / mark"
+      ko: "성적 / 학점"
+    gender: f
+    notes:
+      en: "1.0 is the best grade in Germany, 5.0 fails"
+      ko: "독일에서 1.0이 최고 성적, 5.0이 낙제"
+  - german: "die Prüfung, -en"
+    translation:
+      en: "exam / test"
+      ko: "시험"
+    gender: f
+    notes:
+      en: "eine Prüfung ablegen = to take an exam"
+      ko: "eine Prüfung ablegen = 시험을 치르다"
+  - german: "der Leistungsnachweis, -e"
+    translation:
+      en: "proof of academic achievement"
+      ko: "학업 성취 증명서"
+    gender: m
+    notes:
+      en: "Required for course credit"
+      ko: "수업 학점 취득에 필요"
+  - german: "das Zeugnis, -se"
+    translation:
+      en: "certificate / transcript"
+      ko: "성적 증명서"
+    gender: n
+    notes:
+      en: "das Abschlusszeugnis = graduation certificate"
+      ko: "das Abschlusszeugnis = 졸업 증명서"
+  - german: "die Regelstudienzeit, -en"
+    translation:
+      en: "standard period of study"
+      ko: "표준 수학 연한"
+    gender: f
+    notes:
+      en: "Time expected to complete a degree"
+      ko: "학위를 마치는 데 예상되는 기간"
+  - german: "der Schein, -e"
+    translation:
+      en: "course credit / certificate"
+      ko: "수료증 / 학점"
+    gender: m
+    notes:
+      en: "einen Schein bekommen = to receive course credit"
+      ko: "einen Schein bekommen = 학점을 받다"
+  - german: "die Habilitation, -en"
+    translation:
+      en: "habilitation (post-doctoral qualification)"
+      ko: "교수 자격 취득"
+    gender: f
+    notes:
+      en: "Required for a full professorship in Germany"
+      ko: "독일에서 정교수가 되기 위해 필요"
+  - german: "das Staatsexamen, -"
+    translation:
+      en: "state examination"
+      ko: "국가고시"
+    gender: n
+    notes:
+      en: "For law, medicine, pharmacy, teaching"
+      ko: "법학, 의학, 약학, 교직 분야"
+  - german: "das Diplom, -e"
+    translation:
+      en: "diploma (traditional German degree)"
+      ko: "디플롬 (독일 전통 학위)"
+    gender: n
+    notes:
+      en: "Largely replaced by Bachelor/Master system"
+      ko: "대부분 학사/석사 체계로 대체됨"
+  - german: "die Zulassung, -en"
+    translation:
+      en: "admission / acceptance"
+      ko: "입학 허가"
+    gender: f
+    notes:
+      en: "die Zulassung zum Studium = admission to study"
+      ko: "die Zulassung zum Studium = 입학 허가"
+  - german: "die ECTS-Punkte (pl.)"
+    translation:
+      en: "ECTS credits"
+      ko: "ECTS 학점"
+    gender: null
+    notes:
+      en: "European Credit Transfer System"
+      ko: "유럽학점교류체계"
+  - german: "der Numerus clausus (NC)"
+    translation:
+      en: "restricted admission (grade requirement)"
+      ko: "정원 제한 (성적 기준)"
+    gender: m
+    notes:
+      en: "Minimum grade required for popular subjects"
+      ko: "인기 전공 입학에 필요한 최소 성적"
+
+- id: studentenleben
+  label:
+    en: "Student Life (Studentenleben)"
+    ko: "학생 생활 (Studentenleben)"
+  type: vocabulary
+  words:
+  - german: "der Student, -en"
+    translation:
+      en: "student (male)"
+      ko: "학생 (남)"
+    gender: m
+    notes:
+      en: "die Studentin = female student; Studierende = gender-neutral"
+      ko: "die Studentin = 여학생; Studierende = 성 중립적 표현"
+  - german: "der Professor, -en"
+    translation:
+      en: "professor"
+      ko: "교수"
+    gender: m
+    notes:
+      en: "die Professorin = female professor"
+      ko: "die Professorin = 여성 교수"
+  - german: "der Dozent, -en"
+    translation:
+      en: "lecturer"
+      ko: "강사"
+    gender: m
+    notes:
+      en: "die Dozentin = female lecturer"
+      ko: "die Dozentin = 여성 강사"
+  - german: "der Kommilitone, -n"
+    translation:
+      en: "fellow student"
+      ko: "동기 / 학우"
+    gender: m
+    notes:
+      en: "die Kommilitonin = female fellow student"
+      ko: "die Kommilitonin = 여성 학우"
+  - german: "das BAföG"
+    translation:
+      en: "student financial aid"
+      ko: "학생 재정 지원금"
+    gender: n
+    notes:
+      en: "Bundesausbildungsförderungsgesetz; half grant, half loan"
+      ko: "연방교육촉진법; 절반 보조금, 절반 대출"
+  - german: "das Stipendium, Stipendien"
+    translation:
+      en: "scholarship"
+      ko: "장학금"
+    gender: n
+    notes:
+      en: "ein Stipendium bekommen = to receive a scholarship"
+      ko: "ein Stipendium bekommen = 장학금을 받다"
+  - german: "der Nebenjob, -s"
+    translation:
+      en: "part-time job"
+      ko: "아르바이트 / 부업"
+    gender: m
+    notes:
+      en: "Many students work 10-20 hours/week"
+      ko: "많은 학생이 주당 10-20시간 일함"
+  - german: "die Lerngruppe, -n"
+    translation:
+      en: "study group"
+      ko: "스터디 그룹"
+    gender: f
+    notes:
+      en: "eine Lerngruppe bilden = to form a study group"
+      ko: "eine Lerngruppe bilden = 스터디 그룹을 만들다"
+  - german: "das Praktikum, Praktika"
+    translation:
+      en: "internship / practical training"
+      ko: "인턴십 / 실습"
+    gender: n
+    notes:
+      en: "ein Pflichtpraktikum = mandatory internship"
+      ko: "ein Pflichtpraktikum = 필수 인턴십"
+  - german: "die Nachhilfe"
+    translation:
+      en: "tutoring"
+      ko: "과외 / 튜터링"
+    gender: f
+    notes:
+      en: "Nachhilfe geben = to tutor; Nachhilfe nehmen = to get tutoring"
+      ko: "Nachhilfe geben = 과외하다; Nachhilfe nehmen = 과외를 받다"
+  - german: "die Vorlesungszeit, -en"
+    translation:
+      en: "lecture period"
+      ko: "수업 기간"
+    gender: f
+    notes:
+      en: "die vorlesungsfreie Zeit = lecture-free period (break)"
+      ko: "die vorlesungsfreie Zeit = 방학 기간"
+  - german: "die Prüfungsphase, -n"
+    translation:
+      en: "exam period"
+      ko: "시험 기간"
+    gender: f
+    notes:
+      en: "stressful time at the end of each semester"
+      ko: "매 학기 말의 스트레스 많은 시기"
+  - german: "das Auslandssemester, -"
+    translation:
+      en: "semester abroad"
+      ko: "교환 학기"
+    gender: n
+    notes:
+      en: "über Erasmus = through the Erasmus program"
+      ko: "Erasmus 프로그램을 통해"
+  - german: "die Studiengebühr, -en"
+    translation:
+      en: "tuition fee"
+      ko: "등록금"
+    gender: f
+    notes:
+      en: "Most German public universities have no tuition fees"
+      ko: "대부분의 독일 국립대학은 등록금이 없음"
+  - german: "der Stundenplan, -pläne"
+    translation:
+      en: "class schedule / timetable"
+      ko: "시간표"
+    gender: m
+    notes:
+      en: "den Stundenplan erstellen = to create the schedule"
+      ko: "den Stundenplan erstellen = 시간표를 짜다"
+  - german: "die Frist, -en"
+    translation:
+      en: "deadline"
+      ko: "마감일"
+    gender: f
+    notes:
+      en: "die Frist einhalten = to meet the deadline"
+      ko: "die Frist einhalten = 마감일을 지키다"
+  - german: "die Tutorium, Tutorien"
+    translation:
+      en: "tutorial (supplementary class)"
+      ko: "튜토리얼 (보충 수업)"
+    gender: n
+    notes:
+      en: "Led by senior students to support lectures"
+      ko: "고학년 학생이 이끄는 강의 보충 수업"
+  - german: "das Urlaubssemester, -"
+    translation:
+      en: "leave of absence (semester)"
+      ko: "휴학"
+    gender: n
+    notes:
+      en: "ein Urlaubssemester nehmen = to take a semester off"
+      ko: "ein Urlaubssemester nehmen = 휴학하다"
+  - german: "schwänzen"
+    translation:
+      en: "to skip (class, colloquial)"
+      ko: "수업을 빼먹다 (구어)"
+    gender: null
+    notes:
+      en: "die Vorlesung schwänzen = to skip the lecture"
+      ko: "die Vorlesung schwänzen = 강의를 빼먹다"
+  - german: "der Werkstudent, -en"
+    translation:
+      en: "working student (part-time)"
+      ko: "근로 학생"
+    gender: m
+    notes:
+      en: "Works 20 hrs/week alongside studies"
+      ko: "학업과 병행하며 주 20시간 근무"
+  - german: "die AStA (Allgemeine Studierendenausschuss)"
+    translation:
+      en: "student government"
+      ko: "학생 자치회"
+    gender: f
+    notes:
+      en: "Represents all students at the university"
+      ko: "대학 전체 학생을 대표"
+  - german: "die Erstiwoche, -n"
+    translation:
+      en: "freshers' week / orientation week"
+      ko: "신입생 오리엔테이션 주간"
+    gender: f
+    notes:
+      en: "Ersti = first-semester student (colloquial)"
+      ko: "Ersti = 1학기 학생 (구어)"
+  - german: "der Doktorand, -en"
+    translation:
+      en: "doctoral student"
+      ko: "박사 과정 학생"
+    gender: m
+    notes:
+      en: "die Doktorandin = female doctoral student"
+      ko: "die Doktorandin = 여성 박사 과정 학생"
+  - german: "der wissenschaftliche Mitarbeiter, -"
+    translation:
+      en: "research associate / assistant"
+      ko: "연구원 / 조교"
+    gender: m
+    notes:
+      en: "Often abbreviated as WiMi"
+      ko: "종종 WiMi로 줄여 부름"
+
+- id: akademische_begriffe
+  label:
+    en: "Academic Terms (Akademische Begriffe)"
+    ko: "학술 용어 (Akademische Begriffe)"
+  type: vocabulary
+  words:
+  - german: "der Lehrstuhl, -stühle"
+    translation:
+      en: "professorial chair / department"
+      ko: "교수직 / 학과"
+    gender: m
+    notes:
+      en: "der Lehrstuhl für Physik = the chair of physics"
+      ko: "der Lehrstuhl für Physik = 물리학 교수직"
+  - german: "die Fakultät, -en"
+    translation:
+      en: "faculty / school (university)"
+      ko: "학부"
+    gender: f
+    notes:
+      en: "die Philosophische Fakultät = Faculty of Arts"
+      ko: "die Philosophische Fakultät = 문과대학"
+  - german: "der Dekan, -e"
+    translation:
+      en: "dean"
+      ko: "학과장 / 학장"
+    gender: m
+    notes:
+      en: "die Dekanin = female dean"
+      ko: "die Dekanin = 여성 학장"
+  - german: "das Kolloquium, Kolloquien"
+    translation:
+      en: "colloquium"
+      ko: "콜로키움"
+    gender: n
+    notes:
+      en: "das Forschungskolloquium = research colloquium"
+      ko: "das Forschungskolloquium = 연구 콜로키움"
+  - german: "die Studienordnung, -en"
+    translation:
+      en: "study regulations"
+      ko: "학칙"
+    gender: f
+    notes:
+      en: "die Prüfungsordnung = examination regulations"
+      ko: "die Prüfungsordnung = 시험 규정"
+  - german: "das Pflichtmodul, -e"
+    translation:
+      en: "compulsory module"
+      ko: "필수 과목"
+    gender: n
+    notes:
+      en: "das Wahlmodul = elective module"
+      ko: "das Wahlmodul = 선택 과목"
+  - german: "die Voraussetzung, -en"
+    translation:
+      en: "prerequisite"
+      ko: "선수 조건"
+    gender: f
+    notes:
+      en: "die Zulassungsvoraussetzung = admission requirement"
+      ko: "die Zulassungsvoraussetzung = 입학 요건"
+  - german: "die Exkursion, -en"
+    translation:
+      en: "field trip / excursion"
+      ko: "현장 학습"
+    gender: f
+    notes:
+      en: "eine Exkursion machen = to go on a field trip"
+      ko: "eine Exkursion machen = 현장 학습을 가다"
+  - german: "das Plagiat, -e"
+    translation:
+      en: "plagiarism"
+      ko: "표절"
+    gender: n
+    notes:
+      en: "ein Plagiat erkennen = to detect plagiarism"
+      ko: "ein Plagiat erkennen = 표절을 발견하다"
+  - german: "die Literaturliste, -n"
+    translation:
+      en: "reading list / bibliography"
+      ko: "참고 문헌 목록"
+    gender: f
+    notes:
+      en: "die Pflichtlektüre = required reading"
+      ko: "die Pflichtlektüre = 필독서"
+  - german: "die Sprachprüfung, -en"
+    translation:
+      en: "language proficiency test"
+      ko: "어학 시험"
+    gender: f
+    notes:
+      en: "der TestDaF = Test of German as a Foreign Language"
+      ko: "der TestDaF = 외국어로서의 독일어 시험"
+  - german: "der Gasthörer, -"
+    translation:
+      en: "auditor / guest student"
+      ko: "청강생"
+    gender: m
+    notes:
+      en: "als Gasthörer an Vorlesungen teilnehmen"
+      ko: "청강생으로 강의에 참여하다"
+  - german: "das Forschungsprojekt, -e"
+    translation:
+      en: "research project"
+      ko: "연구 프로젝트"
+    gender: n
+    notes:
+      en: "an einem Forschungsprojekt mitarbeiten"
+      ko: "연구 프로젝트에 참여하다"
+  - german: "der Studiengang, -gänge"
+    translation:
+      en: "degree program / course of study"
+      ko: "학과 / 학위 과정"
+    gender: m
+    notes:
+      en: "einen Studiengang wählen = to choose a degree program"
+      ko: "einen Studiengang wählen = 학위 과정을 선택하다"
+  - german: "die Anerkennung, -en"
+    translation:
+      en: "recognition (of credits)"
+      ko: "학점 인정"
+    gender: f
+    notes:
+      en: "die Anerkennung von Studienleistungen = credit recognition"
+      ko: "die Anerkennung von Studienleistungen = 학점 인정"
+  - german: "die Abschlussarbeit, -en"
+    translation:
+      en: "thesis / final paper"
+      ko: "졸업 논문"
+    gender: f
+    notes:
+      en: "die Abschlussarbeit schreiben = to write the thesis"
+      ko: "die Abschlussarbeit schreiben = 졸업 논문을 쓰다"
+  - german: "die wissenschaftliche Arbeit, -en"
+    translation:
+      en: "academic paper / scientific work"
+      ko: "학술 논문"
+    gender: f
+    notes:
+      en: "eine wissenschaftliche Arbeit verfassen = to write an academic paper"
+      ko: "eine wissenschaftliche Arbeit verfassen = 학술 논문을 작성하다"
+  - german: "die Fachrichtung, -en"
+    translation:
+      en: "specialization / field"
+      ko: "전공 방향"
+    gender: f
+    notes:
+      en: "in welcher Fachrichtung? = in which field?"
+      ko: "in welcher Fachrichtung? = 어떤 전공 방향에서?"
+  - german: "die Anwesenheitspflicht"
+    translation:
+      en: "mandatory attendance"
+      ko: "출석 의무"
+    gender: f
+    notes:
+      en: "es gibt keine Anwesenheitspflicht = attendance is not mandatory"
+      ko: "es gibt keine Anwesenheitspflicht = 출석 의무가 없다"
+  - german: "die Übung, -en"
+    translation:
+      en: "exercise session / tutorial"
+      ko: "연습 / 실습"
+    gender: f
+    notes:
+      en: "die Übung zur Vorlesung = tutorial for the lecture"
+      ko: "die Übung zur Vorlesung = 강의 실습"
+  - german: "promovieren"
+    translation:
+      en: "to do a PhD / to obtain a doctorate"
+      ko: "박사 과정을 밟다"
+    gender: null
+    notes:
+      en: "in Chemie promovieren = to do a PhD in chemistry"
+      ko: "in Chemie promovieren = 화학 박사 과정을 밟다"
+  - german: "belegen"
+    translation:
+      en: "to enroll in / to take (a course)"
+      ko: "수강하다"
+    gender: null
+    notes:
+      en: "einen Kurs belegen = to take a course"
+      ko: "einen Kurs belegen = 수업을 수강하다"
+  - german: "die Hochschule, -n"
+    translation:
+      en: "institution of higher education"
+      ko: "고등교육기관"
+    gender: f
+    notes:
+      en: "General term covering Universität and Fachhochschule"
+      ko: "대학교와 응용과학대학을 아우르는 일반적 용어"
+  - german: "die Matrikelnummer, -n"
+    translation:
+      en: "student ID number"
+      ko: "학번"
+    gender: f
+    notes:
+      en: "Individual number assigned to each student"
+      ko: "각 학생에게 부여되는 고유 번호"
+  - german: "das Zulassungsverfahren, -"
+    translation:
+      en: "admission process"
+      ko: "입학 전형"
+    gender: n
+    notes:
+      en: "das Zulassungsverfahren durchlaufen = to go through admissions"
+      ko: "das Zulassungsverfahren durchlaufen = 입학 전형을 거치다"
+  - german: "der Studienkredit, -e"
+    translation:
+      en: "student loan"
+      ko: "학자금 대출"
+    gender: m
+    notes:
+      en: "einen Studienkredit aufnehmen = to take out a student loan"
+      ko: "einen Studienkredit aufnehmen = 학자금 대출을 받다"
+  - german: "die Blockveranstaltung, -en"
+    translation:
+      en: "block seminar / intensive course"
+      ko: "집중 세미나"
+    gender: f
+    notes:
+      en: "eine Blockveranstaltung am Wochenende"
+      ko: "주말 집중 세미나"
+  - german: "der Hochschulabschluss, -abschlüsse"
+    translation:
+      en: "university degree"
+      ko: "대학 학위"
+    gender: m
+    notes:
+      en: "einen Hochschulabschluss haben = to have a university degree"
+      ko: "einen Hochschulabschluss haben = 대학 학위를 갖다"
+
+- id: bildungssystem
+  label:
+    en: "Education System (Bildungssystem)"
+    ko: "교육 제도 (Bildungssystem)"
+  type: vocabulary
+  words:
+  - german: "das Bildungssystem, -e"
+    translation:
+      en: "education system"
+      ko: "교육 제도"
+    gender: n
+    notes:
+      en: "das deutsche Bildungssystem = the German education system"
+      ko: "das deutsche Bildungssystem = 독일 교육 제도"
+  - german: "die Grundschule, -n"
+    translation:
+      en: "primary school / elementary school"
+      ko: "초등학교"
+    gender: f
+    notes:
+      en: "4 Jahre Grundschule = 4 years of primary school"
+      ko: "4 Jahre Grundschule = 4년간 초등학교"
+  - german: "das Gymnasium, Gymnasien"
+    translation:
+      en: "grammar school (academic secondary school)"
+      ko: "김나지움 (인문계 중등학교)"
+    gender: n
+    notes:
+      en: "das Gymnasium führt zum Abitur"
+      ko: "김나지움은 아비투어로 이어진다"
+  - german: "die Realschule, -n"
+    translation:
+      en: "secondary modern school"
+      ko: "레알슐레 (실업계 중등학교)"
+    gender: f
+    notes:
+      en: "endet mit der mittleren Reife = ends with intermediate qualification"
+      ko: "endet mit der mittleren Reife = 중급 자격으로 끝남"
+  - german: "die Hauptschule, -n"
+    translation:
+      en: "secondary general school"
+      ko: "하우프트슐레 (일반 중등학교)"
+    gender: f
+    notes:
+      en: "die Hauptschule umfasst 5.-9. Klasse"
+      ko: "하우프트슐레는 5학년부터 9학년까지"
+  - german: "die Gesamtschule, -n"
+    translation:
+      en: "comprehensive school"
+      ko: "종합 학교"
+    gender: f
+    notes:
+      en: "vereint alle Schulformen = combines all school types"
+      ko: "vereint alle Schulformen = 모든 학교 유형을 통합"
+  - german: "das Abitur"
+    translation:
+      en: "school-leaving exam (university entrance)"
+      ko: "아비투어 (대학 입학 시험)"
+    gender: n
+    notes:
+      en: "das Abi machen = to take the Abitur"
+      ko: "das Abi machen = 아비투어를 치르다"
+  - german: "die Berufsschule, -n"
+    translation:
+      en: "vocational school"
+      ko: "직업 학교"
+    gender: f
+    notes:
+      en: "Teil der dualen Ausbildung = part of dual vocational training"
+      ko: "Teil der dualen Ausbildung = 이원적 직업 교육의 일부"
+  - german: "die Fachhochschule, -n (FH)"
+    translation:
+      en: "university of applied sciences"
+      ko: "응용과학대학"
+    gender: f
+    notes:
+      en: "praxisorientiertes Studium = practice-oriented study"
+      ko: "praxisorientiertes Studium = 실무 중심 학습"
+  - german: "die Volkshochschule, -n (VHS)"
+    translation:
+      en: "adult education center"
+      ko: "시민 대학 / 성인 교육 센터"
+    gender: f
+    notes:
+      en: "Sprachkurse an der VHS = language courses at VHS"
+      ko: "Sprachkurse an der VHS = 시민 대학에서 언어 과정"
+  - german: "die Schulpflicht"
+    translation:
+      en: "compulsory education"
+      ko: "의무 교육"
+    gender: f
+    notes:
+      en: "9-10 Jahre Schulpflicht = 9-10 years of compulsory education"
+      ko: "9-10 Jahre Schulpflicht = 9-10년간 의무 교육"
+  - german: "die Ganztagsschule, -n"
+    translation:
+      en: "full-day school"
+      ko: "종일제 학교"
+    gender: f
+    notes:
+      en: "Betreuung bis zum Nachmittag"
+      ko: "오후까지 돌봄 제공"
+  - german: "das Zeugnis, -se"
+    translation:
+      en: "report card / certificate"
+      ko: "성적표 / 증명서"
+    gender: n
+    notes:
+      en: "das Zeugnis bekommen = to receive the report card"
+      ko: "das Zeugnis bekommen = 성적표를 받다"
+  - german: "die Note, -n"
+    translation:
+      en: "grade / mark"
+      ko: "성적 / 점수"
+    gender: f
+    notes:
+      en: "Noten von 1 (sehr gut) bis 6 (ungenügend)"
+      ko: "1(매우 우수)에서 6(불충분)까지의 성적"
+  - german: "die Klausur, -en"
+    translation:
+      en: "written exam"
+      ko: "필기 시험"
+    gender: f
+    notes:
+      en: "eine Klausur schreiben = to take a written exam"
+      ko: "eine Klausur schreiben = 필기 시험을 보다"
+  - german: "das Referat, -e"
+    translation:
+      en: "presentation / report"
+      ko: "발표 / 리포트"
+    gender: n
+    notes:
+      en: "ein Referat halten = to give a presentation"
+      ko: "ein Referat halten = 발표를 하다"
+  - german: "die Nachhilfe"
+    translation:
+      en: "tutoring"
+      ko: "과외"
+    gender: f
+    notes:
+      en: "Nachhilfe geben = to tutor; Nachhilfe nehmen = to get tutoring"
+      ko: "Nachhilfe geben = 과외하다; Nachhilfe nehmen = 과외를 받다"
+  - german: "das Fernstudium, -studien"
+    translation:
+      en: "distance learning / correspondence course"
+      ko: "원격 학습"
+    gender: n
+    notes:
+      en: "die Fernuniversität Hagen = Open University of Hagen"
+      ko: "die Fernuniversität Hagen = 하겐 원격 대학"
+  - german: "die Studiengebühr, -en"
+    translation:
+      en: "tuition fee"
+      ko: "등록금"
+    gender: f
+    notes:
+      en: "keine Studiengebühren in den meisten Bundesländern"
+      ko: "대부분의 연방주에서 등록금 없음"
+  - german: "das Erasmus-Programm"
+    translation:
+      en: "Erasmus program (student exchange)"
+      ko: "에라스무스 프로그램 (학생 교환)"
+    gender: n
+    notes:
+      en: "ein Erasmus-Semester = an Erasmus semester abroad"
+      ko: "ein Erasmus-Semester = 에라스무스 해외 학기"
+  - german: "die Regelstudienzeit"
+    translation:
+      en: "standard period of study"
+      ko: "표준 수업 연한"
+    gender: f
+    notes:
+      en: "6 Semester für den Bachelor"
+      ko: "학사의 경우 6학기"
+  - german: "der Numerus Clausus (NC)"
+    translation:
+      en: "restricted admission (grade requirement)"
+      ko: "입학 정원 제한 (성적 기준)"
+    gender: m
+    notes:
+      en: "ein NC-Fach = a subject with restricted admission"
+      ko: "ein NC-Fach = 입학 제한이 있는 과목"
+  - german: "die Zulassungsbeschränkung, -en"
+    translation:
+      en: "admission restriction"
+      ko: "입학 제한"
+    gender: f
+    notes:
+      en: "zulassungsbeschränkt vs. zulassungsfrei"
+      ko: "입학 제한 vs. 자유 입학"
+  - german: "die Hochschulreife"
+    translation:
+      en: "university entrance qualification"
+      ko: "대학 입학 자격"
+    gender: f
+    notes:
+      en: "die allgemeine Hochschulreife = general university entrance qualification"
+      ko: "die allgemeine Hochschulreife = 일반 대학 입학 자격"
+  - german: "das duale Studium"
+    translation:
+      en: "dual study program (work + study)"
+      ko: "이원적 학습 (직업 + 학업)"
+    gender: n
+    notes:
+      en: "Praxis und Theorie kombinieren = to combine practice and theory"
+      ko: "Praxis und Theorie kombinieren = 실습과 이론을 결합하다"
+  - german: "die Fachrichtung, -en"
+    translation:
+      en: "specialization / field"
+      ko: "전문 분야"
+    gender: f
+    notes:
+      en: "die medizinische Fachrichtung = medical specialization"
+      ko: "die medizinische Fachrichtung = 의학 전문 분야"
+  - german: "die Bildungspolitik"
+    translation:
+      en: "education policy"
+      ko: "교육 정책"
+    gender: f
+    notes:
+      en: "Bildung ist Ländersache = education is a state matter"
+      ko: "Bildung ist Ländersache = 교육은 주 정부 관할"
+  - german: "die Lernmethode, -n"
+    translation:
+      en: "learning method"
+      ko: "학습 방법"
+    gender: f
+    notes:
+      en: "verschiedene Lernmethoden ausprobieren = to try different learning methods"
+      ko: "verschiedene Lernmethoden ausprobieren = 다양한 학습 방법을 시도하다"
+  - german: "der Bildungsweg, -e"
+    translation:
+      en: "educational path"
+      ko: "교육 경로"
+    gender: m
+    notes:
+      en: "der zweite Bildungsweg = the second educational path"
+      ko: "der zweite Bildungsweg = 제2 교육 경로"
+  - german: "die Förderung, -en"
+    translation:
+      en: "support / funding"
+      ko: "지원 / 장학"
+    gender: f
+    notes:
+      en: "die individuelle Förderung = individual support"
+      ko: "die individuelle Förderung = 개별 지원"
+  - german: "die Inklusion"
+    translation:
+      en: "inclusion (in education)"
+      ko: "통합 교육"
+    gender: f
+    notes:
+      en: "Inklusion von Kindern mit Behinderung"
+      ko: "장애 아동의 통합 교육"
+  - german: "die PISA-Studie, -n"
+    translation:
+      en: "PISA study"
+      ko: "PISA 연구"
+    gender: f
+    notes:
+      en: "internationale Bildungsvergleichsstudie"
+      ko: "국제 교육 비교 연구"

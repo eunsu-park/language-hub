@@ -1,0 +1,569 @@
+lesson: 09_Modal_Verbs_and_Sentence_Structure
+lesson_number: 9
+cefr: A2
+categories:
+- id: modal_verbs
+  label:
+    en: Modal Verbs
+    ko: 화법조동사
+  type: vocabulary
+  words:
+  - german: können
+    translation:
+      en: can, to be able to
+      ko: ~할 수 있다
+    gender: null
+    plural: null
+  - german: müssen
+    translation:
+      en: must, to have to
+      ko: ~해야 하다
+    gender: null
+    plural: null
+  - german: dürfen
+    translation:
+      en: may, to be allowed to
+      ko: ~해도 되다
+    gender: null
+    plural: null
+  - german: sollen
+    translation:
+      en: should, to be supposed to
+      ko: ~해야 하다 (의무/권고)
+    gender: null
+    plural: null
+  - german: wollen
+    translation:
+      en: to want to
+      ko: ~하고 싶다 (강한 의지)
+    gender: null
+    plural: null
+  - german: mögen
+    translation:
+      en: to like
+      ko: 좋아하다
+    gender: null
+    plural: null
+  - german: möchten
+    translation:
+      en: would like to
+      ko: ~하고 싶다 (정중한 표현)
+    gender: null
+    plural: null
+- id: modal_verb_expressions
+  label:
+    en: Common Modal Verb Expressions
+    ko: 화법조동사 주요 표현
+  type: vocabulary
+  words:
+  - german: Kann ich Ihnen helfen?
+    translation:
+      en: Can I help you?
+      ko: 도와드릴까요?
+    gender: null
+    plural: null
+  - german: Kannst du mir bitte helfen?
+    translation:
+      en: Can you please help me?
+      ko: 저를 도와줄 수 있나요?
+    gender: null
+    plural: null
+  - german: Darf ich hier sitzen?
+    translation:
+      en: May I sit here?
+      ko: 여기 앉아도 될까요?
+    gender: null
+    plural: null
+  - german: Du darfst hier nicht rauchen.
+    translation:
+      en: You may not smoke here.
+      ko: 여기서 흡연은 허용되지 않습니다.
+    gender: null
+    plural: null
+  - german: Ich muss jetzt gehen.
+    translation:
+      en: I have to go now.
+      ko: 지금 가야 합니다.
+    gender: null
+    plural: null
+  - german: Du musst nicht kommen.
+    translation:
+      en: You do not have to come.
+      ko: 올 필요 없어요.
+    gender: null
+    plural: null
+  - german: Soll ich das Fenster öffnen?
+    translation:
+      en: Shall I open the window?
+      ko: 창문을 열까요?
+    gender: null
+    plural: null
+  - german: Was soll ich machen?
+    translation:
+      en: What should I do?
+      ko: 어떻게 해야 하나요?
+    gender: null
+    plural: null
+  - german: Ich will Deutsch lernen.
+    translation:
+      en: I want to learn German.
+      ko: 독일어를 배우고 싶어요.
+    gender: null
+    plural: null
+  - german: Ich möchte einen Kaffee, bitte.
+    translation:
+      en: I would like a coffee, please.
+      ko: 커피 한 잔 주세요.
+    gender: null
+    plural: null
+  - german: Möchten Sie etwas trinken?
+    translation:
+      en: Would you like something to drink?
+      ko: 뭔가 마실 것을 드릴까요?
+    gender: null
+    plural: null
+  - german: Ich mag Schokolade.
+    translation:
+      en: I like chocolate.
+      ko: 나는 초콜릿을 좋아해요.
+    gender: null
+    plural: null
+  - german: Man darf hier nicht parken.
+    translation:
+      en: One may not park here.
+      ko: 여기 주차 금지입니다.
+    gender: null
+    plural: null
+  - german: Wir müssen morgen früh aufstehen.
+    translation:
+      en: We must get up early tomorrow.
+      ko: 우리는 내일 일찍 일어나야 해요.
+    gender: null
+    plural: null
+  - german: Er kann sehr gut Gitarre spielen.
+    translation:
+      en: He can play guitar very well.
+      ko: 그는 기타를 아주 잘 칠 수 있어요.
+    gender: null
+    plural: null
+
+- id: modal_verb_sentences
+  label:
+    en: Practical Modal Verb Sentences
+    ko: 화법조동사 실용 문장
+  type: vocabulary
+  words:
+  - german: Man muss aufpassen.
+    translation:
+      en: One must pay attention. / You have to be careful.
+      ko: 조심해야 한다.
+    gender: null
+    plural: null
+    notes:
+      en: "aufpassen is separable; in subordinate clause: ...dass man aufpassen muss"
+      ko: "aufpassen은 분리동사; 종속절에서: ...dass man aufpassen muss"
+  - german: Er will nicht kommen.
+    translation:
+      en: He does not want to come.
+      ko: 그는 오고 싶지 않아요.
+    gender: null
+    plural: null
+    notes:
+      en: "wollen expresses strong intention; nicht negates the will"
+      ko: "wollen은 강한 의지 표현; nicht로 부정"
+  - german: Sie darf nicht rauchen.
+    translation:
+      en: She is not allowed to smoke.
+      ko: 그녀는 흡연이 허용되지 않는다.
+    gender: null
+    plural: null
+    notes:
+      en: "duerfen + nicht = prohibition (stronger than sollen + nicht)"
+      ko: "duerfen + nicht = 금지 (sollen + nicht보다 강함)"
+  - german: Wir sollen puenktlich sein.
+    translation:
+      en: We should be punctual.
+      ko: 우리는 시간을 지켜야 한다.
+    gender: null
+    plural: null
+    notes:
+      en: "sollen expresses expectation or obligation from someone else"
+      ko: "sollen은 타인으로부터의 기대나 의무 표현"
+  - german: Du kannst gut Deutsch sprechen.
+    translation:
+      en: You can speak German well.
+      ko: 너는 독일어를 잘 할 수 있어.
+    gender: null
+    plural: null
+    notes:
+      en: "koennen for ability; adverb gut before the object"
+      ko: "koennen은 능력 표현; 부사 gut이 목적어 앞에 위치"
+  - german: Ich moechte bezahlen.
+    translation:
+      en: I would like to pay.
+      ko: 계산하고 싶습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "Very common at restaurants; moechten is polite form of moegen"
+      ko: "레스토랑에서 자주 쓰는 표현; moechten은 moegen의 정중한 형태"
+  - german: Sie muessen sich anmelden.
+    translation:
+      en: You must register / sign up.
+      ko: 등록하셔야 합니다.
+    gender: null
+    plural: null
+    notes:
+      en: "Formal Sie; sich anmelden is a reflexive separable verb"
+      ko: "격식 Sie 사용; sich anmelden은 재귀 분리동사"
+  - german: Hier darf man nicht fotografieren.
+    translation:
+      en: Taking photos is not allowed here.
+      ko: 여기서 사진 촬영이 금지되어 있습니다.
+    gender: null
+    plural: null
+    notes:
+      en: "Common sign/rule expression with man (impersonal subject)"
+      ko: "man(비인칭 주어)을 사용한 일반적 규칙 표현"
+  - german: Ich kann leider nicht kommen.
+    translation:
+      en: Unfortunately, I cannot come.
+      ko: 유감이지만 갈 수 없어요.
+    gender: null
+    plural: null
+    notes:
+      en: "Polite declination; leider softens the refusal"
+      ko: "정중한 거절; leider가 거절을 부드럽게 함"
+  - german: Wollen wir zusammen essen gehen?
+    translation:
+      en: Shall we go eat together?
+      ko: 같이 밥 먹으러 갈래요?
+    gender: null
+    plural: null
+    notes:
+      en: "wollen in question form = suggestion/invitation"
+      ko: "의문문에서 wollen = 제안/초대"
+  - german: Er soll sehr intelligent sein.
+    translation:
+      en: He is said to be very intelligent.
+      ko: 그는 매우 똑똑하다고 한다.
+    gender: null
+    plural: null
+    notes:
+      en: "sollen for hearsay/reported speech (subjunctive-like meaning)"
+      ko: "sollen이 전해 들은 내용을 표현 (간접화법적 의미)"
+  - german: Du sollst nicht luegen.
+    translation:
+      en: You shall not lie.
+      ko: 거짓말을 해서는 안 된다.
+    gender: null
+    plural: null
+    notes:
+      en: "sollen for moral commandments (e.g. Ten Commandments style)"
+      ko: "sollen이 도덕적 명령 표현 (십계명 스타일)"
+  - german: Koennen Sie das bitte wiederholen?
+    translation:
+      en: Can you please repeat that?
+      ko: 다시 말씀해 주시겠어요?
+    gender: null
+    plural: null
+    notes:
+      en: "Polite request with formal Sie; useful in conversations"
+      ko: "격식 Sie를 사용한 정중한 요청; 대화에서 유용"
+  - german: Ich muss mir das ueberlegen.
+    translation:
+      en: I have to think about it.
+      ko: 생각해 봐야 해요.
+    gender: null
+    plural: null
+    notes:
+      en: "sich ueberlegen = to think/consider; reflexive dative mir"
+      ko: "sich ueberlegen = 생각하다/고려하다; 재귀 여격 mir"
+  - german: Man sollte mehr Sport treiben.
+    translation:
+      en: One should do more sports.
+      ko: 운동을 더 해야 한다.
+    gender: null
+    plural: null
+    notes:
+      en: "sollte (Konjunktiv II) for general advice; softer than muss"
+      ko: "sollte (접속법 II)로 일반적 조언; muss보다 부드러움"
+  - german: Ich will das nicht machen.
+    translation:
+      en: I don't want to do that.
+      ko: 나는 그것을 하고 싶지 않아.
+    gender: null
+    plural: null
+    notes:
+      en: "nicht before the infinitive; wollen for strong refusal"
+      ko: "nicht가 부정사 앞에 위치; wollen으로 강한 거절"
+  - german: Darf ich Sie etwas fragen?
+    translation:
+      en: May I ask you something?
+      ko: 뭔가 여쭤봐도 될까요?
+    gender: null
+    plural: null
+    notes:
+      en: "Polite question with formal Sie"
+      ko: "격식 Sie를 사용한 정중한 질문"
+  - german: Wir wollen ins Kino gehen.
+    translation:
+      en: We want to go to the cinema.
+      ko: 우리는 영화 보러 가고 싶어.
+    gender: null
+    plural: null
+    notes:
+      en: "ins = in das (contraction); wollen for group intention"
+      ko: "ins = in das (축약형); wollen으로 그룹의 의지 표현"
+- id: common_infinitives_with_modals
+  label:
+    en: Common Infinitives Used with Modal Verbs
+    ko: 화법조동사와 함께 쓰이는 주요 부정사
+  type: vocabulary
+  words:
+  - german: gehen
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    plural: null
+  - german: kommen
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+  - german: machen
+    translation:
+      en: to do, to make
+      ko: 하다, 만들다
+    gender: null
+    plural: null
+  - german: arbeiten
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+  - german: spielen
+    translation:
+      en: to play
+      ko: 놀다, 연주하다
+    gender: null
+    plural: null
+  - german: schlafen
+    translation:
+      en: to sleep
+      ko: 자다
+    gender: null
+    plural: null
+  - german: sprechen
+    translation:
+      en: to speak
+      ko: 말하다
+    gender: null
+    plural: null
+  - german: schreiben
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    plural: null
+  - german: lernen
+    translation:
+      en: to learn, to study
+      ko: 배우다, 공부하다
+    gender: null
+    plural: null
+  - german: helfen
+    translation:
+      en: to help
+      ko: 돕다
+    gender: null
+    plural: null
+  - german: fahren
+    translation:
+      en: to drive, to travel
+      ko: 운전하다, 이동하다
+    gender: null
+    plural: null
+  - german: schwimmen
+    translation:
+      en: to swim
+      ko: 수영하다
+    gender: null
+    plural: null
+  - german: tanzen
+    translation:
+      en: to dance
+      ko: 춤추다
+    gender: null
+    plural: null
+  - german: singen
+    translation:
+      en: to sing
+      ko: 노래하다
+    gender: null
+    plural: null
+  - german: bleiben
+    translation:
+      en: to stay, to remain
+      ko: 머무르다
+    gender: null
+    plural: null
+  - german: anfangen
+    translation:
+      en: to begin, to start
+      ko: 시작하다
+    gender: null
+    plural: null
+  - german: aufhören
+    translation:
+      en: to stop, to cease
+      ko: 그만두다
+    gender: null
+    plural: null
+  - german: bezahlen
+    translation:
+      en: to pay
+      ko: 지불하다
+    gender: null
+    plural: null
+  - german: vergessen
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    plural: null
+  - german: warten
+    translation:
+      en: to wait
+      ko: 기다리다
+    gender: null
+    plural: null
+- id: sentence_structure_connectors
+  label:
+    en: Sentence Structure Connectors
+    ko: 문장 구조 접속사
+  type: vocabulary
+  words:
+  - german: und
+    translation:
+      en: and
+      ko: 그리고
+    gender: null
+    plural: null
+  - german: oder
+    translation:
+      en: or
+      ko: 또는
+    gender: null
+    plural: null
+  - german: aber
+    translation:
+      en: but
+      ko: 하지만
+    gender: null
+    plural: null
+  - german: denn
+    translation:
+      en: because (coordinating)
+      ko: 왜냐하면 (등위접속사)
+    gender: null
+    plural: null
+  - german: weil
+    translation:
+      en: because (subordinating)
+      ko: 왜냐하면 (종속접속사)
+    gender: null
+    plural: null
+  - german: dass
+    translation:
+      en: that (conjunction)
+      ko: ~라는 것 (접속사)
+    gender: null
+    plural: null
+  - german: wenn
+    translation:
+      en: if; when (repeated)
+      ko: 만약; ~할 때마다
+    gender: null
+    plural: null
+  - german: obwohl
+    translation:
+      en: although
+      ko: ~에도 불구하고
+    gender: null
+    plural: null
+  - german: deshalb
+    translation:
+      en: therefore
+      ko: 그러므로
+    gender: null
+    plural: null
+  - german: trotzdem
+    translation:
+      en: nevertheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+  - german: sondern
+    translation:
+      en: but rather (after negation)
+      ko: 오히려 (부정 뒤에)
+    gender: null
+    plural: null
+  - german: also
+    translation:
+      en: so, therefore
+      ko: 그러니까
+    gender: null
+    plural: null
+  - german: dann
+    translation:
+      en: then
+      ko: 그런 다음
+    gender: null
+    plural: null
+  - german: zuerst
+    translation:
+      en: first, at first
+      ko: 먼저, 우선
+    gender: null
+    plural: null
+  - german: danach
+    translation:
+      en: after that
+      ko: 그 후에
+    gender: null
+    plural: null
+  - german: zum Schluss
+    translation:
+      en: finally, in conclusion
+      ko: 마지막으로
+    gender: null
+    plural: null
+  - german: außerdem
+    translation:
+      en: besides, moreover
+      ko: 게다가
+    gender: null
+    plural: null
+  - german: jedoch
+    translation:
+      en: however
+      ko: 그러나
+    gender: null
+    plural: null
+  - german: sowohl ... als auch
+    translation:
+      en: both ... and
+      ko: ~도 ~도 (둘 다)
+    gender: null
+    plural: null
+  - german: entweder ... oder
+    translation:
+      en: either ... or
+      ko: ~이거나 ~이거나
+    gender: null
+    plural: null

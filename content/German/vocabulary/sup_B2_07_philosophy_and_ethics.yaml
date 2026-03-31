@@ -1,0 +1,1508 @@
+lesson: "sup_B2_Philosophy_and_Ethics"
+lesson_number: 167
+cefr: B2
+type: supplementary
+topic: "Philosophy and Ethics"
+categories:
+- id: philosophische_konzepte
+  label:
+    en: "Philosophical Concepts (Philosophische Konzepte)"
+    ko: "철학적 개념 (Philosophische Konzepte)"
+  type: vocabulary
+  words:
+  - german: "die Philosophie, -n"
+    translation:
+      en: "philosophy"
+      ko: "철학"
+    gender: f
+    notes:
+      en: "der Philosoph / die Philosophin = philosopher"
+      ko: "der Philosoph / die Philosophin = 철학자"
+  - german: "die Metaphysik"
+    translation:
+      en: "metaphysics"
+      ko: "형이상학"
+    gender: f
+    notes:
+      en: "metaphysisch = metaphysical"
+      ko: "metaphysisch = 형이상학적인"
+  - german: "die Erkenntnistheorie"
+    translation:
+      en: "epistemology"
+      ko: "인식론"
+    gender: f
+    notes:
+      en: "die Epistemologie = epistemology (synonym)"
+      ko: "die Epistemologie = 인식론 (동의어)"
+  - german: "die Ontologie"
+    translation:
+      en: "ontology"
+      ko: "존재론"
+    gender: f
+    notes:
+      en: "ontologisch = ontological"
+      ko: "ontologisch = 존재론적인"
+  - german: "das Bewusstsein"
+    translation:
+      en: "consciousness"
+      ko: "의식"
+    gender: n
+    notes:
+      en: "das Selbstbewusstsein = self-consciousness / confidence"
+      ko: "das Selbstbewusstsein = 자의식 / 자신감"
+  - german: "der Determinismus"
+    translation:
+      en: "determinism"
+      ko: "결정론"
+    gender: m
+    notes:
+      en: "deterministisch = deterministic"
+      ko: "deterministisch = 결정론적인"
+  - german: "der freie Wille"
+    translation:
+      en: "free will"
+      ko: "자유 의지"
+    gender: m
+    notes:
+      en: "die Willensfreiheit = freedom of will"
+      ko: "die Willensfreiheit = 의지의 자유"
+  - german: "die Wahrheit, -en"
+    translation:
+      en: "truth"
+      ko: "진리 / 진실"
+    gender: f
+    notes:
+      en: "die absolute Wahrheit = absolute truth"
+      ko: "die absolute Wahrheit = 절대적 진리"
+  - german: "die Vernunft"
+    translation:
+      en: "reason"
+      ko: "이성"
+    gender: f
+    notes:
+      en: "vernünftig = reasonable / rational"
+      ko: "vernünftig = 이성적인"
+  - german: "die Erkenntnis, -se"
+    translation:
+      en: "insight / cognition"
+      ko: "인식 / 통찰"
+    gender: f
+    notes:
+      en: "zur Erkenntnis gelangen = to arrive at insight"
+      ko: "zur Erkenntnis gelangen = 인식에 이르다"
+  - german: "das Paradoxon, Paradoxa"
+    translation:
+      en: "paradox"
+      ko: "역설"
+    gender: n
+    notes:
+      en: "paradox = paradoxical"
+      ko: "paradox = 역설적인"
+  - german: "der Dualismus"
+    translation:
+      en: "dualism"
+      ko: "이원론"
+    gender: m
+    notes:
+      en: "der Leib-Seele-Dualismus = mind-body dualism"
+      ko: "der Leib-Seele-Dualismus = 심신 이원론"
+  - german: "der Materialismus"
+    translation:
+      en: "materialism"
+      ko: "유물론"
+    gender: m
+    notes:
+      en: "materialistisch = materialistic"
+      ko: "materialistisch = 유물론적인"
+  - german: "der Idealismus"
+    translation:
+      en: "idealism"
+      ko: "관념론"
+    gender: m
+    notes:
+      en: "idealistisch = idealistic"
+      ko: "idealistisch = 관념론적인"
+  - german: "die Abstraktion, -en"
+    translation:
+      en: "abstraction"
+      ko: "추상화"
+    gender: f
+    notes:
+      en: "abstrahieren = to abstract"
+      ko: "abstrahieren = 추상화하다"
+  - german: "transzendent"
+    translation:
+      en: "transcendent"
+      ko: "초월적인"
+    gender: null
+    notes:
+      en: "die Transzendenz = transcendence"
+      ko: "die Transzendenz = 초월"
+  - german: "immanent"
+    translation:
+      en: "immanent"
+      ko: "내재적인"
+    gender: null
+    notes:
+      en: "die Immanenz = immanence"
+      ko: "die Immanenz = 내재"
+  - german: "das Apriori"
+    translation:
+      en: "a priori"
+      ko: "선험적인 것"
+    gender: n
+    notes:
+      en: "apriorisch = a priori (adj.); Key concept in Kant"
+      ko: "apriorisch = 선험적인; 칸트의 핵심 개념"
+  - german: "die Subjektivität"
+    translation:
+      en: "subjectivity"
+      ko: "주관성"
+    gender: f
+    notes:
+      en: "die Objektivität = objectivity (opposite)"
+      ko: "die Objektivität = 객관성 (반대)"
+  - german: "der Dualismus"
+    translation:
+      en: "dualism"
+      ko: "이원론"
+    gender: m
+    notes:
+      en: "dualistisch = dualistic"
+      ko: "dualistisch = 이원론적인"
+  - german: "der Monismus"
+    translation:
+      en: "monism"
+      ko: "일원론"
+    gender: m
+    notes:
+      en: "monistisch = monistic"
+      ko: "monistisch = 일원론적인"
+  - german: "die Transzendenz"
+    translation:
+      en: "transcendence"
+      ko: "초월"
+    gender: f
+    notes:
+      en: "transzendent = transcendent"
+      ko: "transzendent = 초월적인"
+  - german: "die Immanenz"
+    translation:
+      en: "immanence"
+      ko: "내재"
+    gender: f
+    notes:
+      en: "immanent = immanent"
+      ko: "immanent = 내재적인"
+  - german: "die Phänomenologie"
+    translation:
+      en: "phenomenology"
+      ko: "현상학"
+    gender: f
+    notes:
+      en: "phänomenologisch = phenomenological"
+      ko: "phänomenologisch = 현상학적인"
+  - german: "der Determinismus"
+    translation:
+      en: "determinism"
+      ko: "결정론"
+    gender: m
+    notes:
+      en: "deterministisch = deterministic"
+      ko: "deterministisch = 결정론적인"
+  - german: "der Relativismus"
+    translation:
+      en: "relativism"
+      ko: "상대주의"
+    gender: m
+    notes:
+      en: "der moralische Relativismus = moral relativism"
+      ko: "도덕적 상대주의"
+  - german: "der Nihilismus"
+    translation:
+      en: "nihilism"
+      ko: "허무주의"
+    gender: m
+    notes:
+      en: "nihilistisch = nihilistic"
+      ko: "nihilistisch = 허무주의적인"
+  - german: "die Kausalität"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+    notes:
+      en: "das Kausalitätsprinzip = principle of causality"
+      ko: "인과율"
+  - german: "der Skeptizismus"
+    translation:
+      en: "skepticism"
+      ko: "회의주의"
+    gender: m
+    notes:
+      en: "skeptisch = skeptical"
+      ko: "skeptisch = 회의적인"
+  - german: "die Erkenntnis, -se"
+    translation:
+      en: "insight / cognition"
+      ko: "인식"
+    gender: f
+    notes:
+      en: "die Erkenntnistheorie = epistemology"
+      ko: "die Erkenntnistheorie = 인식론"
+  - german: "die Abstraktion, -en"
+    translation:
+      en: "abstraction"
+      ko: "추상화"
+    gender: f
+    notes:
+      en: "abstrakt denken = to think abstractly"
+      ko: "추상적으로 생각하다"
+  - german: "der Rationalismus"
+    translation:
+      en: "rationalism"
+      ko: "합리주의"
+    gender: m
+    notes:
+      en: "rationalistisch = rationalist"
+      ko: "rationalistisch = 합리주의적인"
+  - german: "der Empirismus"
+    translation:
+      en: "empiricism"
+      ko: "경험주의"
+    gender: m
+    notes:
+      en: "empirisch = empirical"
+      ko: "empirisch = 경험적인"
+  - german: "die Teleologie"
+    translation:
+      en: "teleology"
+      ko: "목적론"
+    gender: f
+    notes:
+      en: "teleologisch = teleological"
+      ko: "teleologisch = 목적론적인"
+  - german: "die Hermeneutik"
+    translation:
+      en: "hermeneutics"
+      ko: "해석학"
+    gender: f
+    notes:
+      en: "hermeneutisch = hermeneutic"
+      ko: "hermeneutisch = 해석학적인"
+  - german: "die Dialektik"
+    translation:
+      en: "dialectic"
+      ko: "변증법"
+    gender: f
+    notes:
+      en: "dialektisch = dialectical"
+      ko: "dialektisch = 변증법적인"
+  - german: "das Paradigma, Paradigmen"
+    translation:
+      en: "paradigm"
+      ko: "패러다임"
+    gender: n
+    notes:
+      en: "der Paradigmenwechsel = paradigm shift"
+      ko: "der Paradigmenwechsel = 패러다임 전환"
+  - german: "die Autonomie"
+    translation:
+      en: "autonomy"
+      ko: "자율성"
+    gender: f
+    notes:
+      en: "die moralische Autonomie = moral autonomy"
+      ko: "도덕적 자율성"
+- id: ethiktheorien
+  label:
+    en: "Ethics Theories (Ethiktheorien)"
+    ko: "윤리학 이론 (Ethiktheorien)"
+  type: vocabulary
+  words:
+  - german: "die Ethik"
+    translation:
+      en: "ethics"
+      ko: "윤리학"
+    gender: f
+    notes:
+      en: "ethisch = ethical"
+      ko: "ethisch = 윤리적인"
+  - german: "die Moral"
+    translation:
+      en: "morality / morals"
+      ko: "도덕"
+    gender: f
+    notes:
+      en: "moralisch = moral"
+      ko: "moralisch = 도덕적인"
+  - german: "der Utilitarismus"
+    translation:
+      en: "utilitarianism"
+      ko: "공리주의"
+    gender: m
+    notes:
+      en: "das größte Glück der größten Zahl"
+      ko: "최대 다수의 최대 행복"
+  - german: "die Pflichtethik"
+    translation:
+      en: "deontological ethics / duty ethics"
+      ko: "의무 윤리학"
+    gender: f
+    notes:
+      en: "Kant's moral philosophy"
+      ko: "칸트의 도덕 철학"
+  - german: "die Tugendethik"
+    translation:
+      en: "virtue ethics"
+      ko: "덕 윤리학"
+    gender: f
+    notes:
+      en: "die Tugend = virtue"
+      ko: "die Tugend = 덕"
+  - german: "der kategorische Imperativ"
+    translation:
+      en: "categorical imperative"
+      ko: "정언명령"
+    gender: m
+    notes:
+      en: "Central concept in Kant's ethics"
+      ko: "칸트 윤리학의 핵심 개념"
+  - german: "das Gewissen"
+    translation:
+      en: "conscience"
+      ko: "양심"
+    gender: n
+    notes:
+      en: "ein schlechtes Gewissen haben = to have a bad conscience"
+      ko: "ein schlechtes Gewissen haben = 양심에 가책을 느끼다"
+  - german: "die Gerechtigkeit"
+    translation:
+      en: "justice"
+      ko: "정의"
+    gender: f
+    notes:
+      en: "gerecht = just / fair"
+      ko: "gerecht = 공정한"
+  - german: "die Verantwortung, -en"
+    translation:
+      en: "responsibility"
+      ko: "책임"
+    gender: f
+    notes:
+      en: "Verantwortung übernehmen = to take responsibility"
+      ko: "Verantwortung übernehmen = 책임을 지다"
+  - german: "das Dilemma, -s"
+    translation:
+      en: "dilemma"
+      ko: "딜레마"
+    gender: n
+    notes:
+      en: "ein moralisches Dilemma = a moral dilemma"
+      ko: "ein moralisches Dilemma = 도덕적 딜레마"
+  - german: "der Relativismus"
+    translation:
+      en: "relativism"
+      ko: "상대주의"
+    gender: m
+    notes:
+      en: "der moralische Relativismus = moral relativism"
+      ko: "der moralische Relativismus = 도덕적 상대주의"
+  - german: "der Absolutismus"
+    translation:
+      en: "absolutism (ethical)"
+      ko: "절대주의"
+    gender: m
+    notes:
+      en: "moralische Absolutheit = moral absolutism"
+      ko: "moralische Absolutheit = 도덕적 절대주의"
+  - german: "die Bioethik"
+    translation:
+      en: "bioethics"
+      ko: "생명 윤리학"
+    gender: f
+    notes:
+      en: "bioethische Fragen = bioethical questions"
+      ko: "bioethische Fragen = 생명 윤리적 문제"
+  - german: "die Würde"
+    translation:
+      en: "dignity"
+      ko: "존엄성"
+    gender: f
+    notes:
+      en: "die Menschenwürde = human dignity"
+      ko: "die Menschenwürde = 인간의 존엄성"
+  - german: "die Konsequenz, -en"
+    translation:
+      en: "consequence"
+      ko: "결과"
+    gender: f
+    notes:
+      en: "der Konsequentialismus = consequentialism"
+      ko: "der Konsequentialismus = 결과주의"
+  - german: "altruistisch"
+    translation:
+      en: "altruistic"
+      ko: "이타적인"
+    gender: null
+    notes:
+      en: "der Altruismus = altruism"
+      ko: "der Altruismus = 이타주의"
+  - german: "egoistisch"
+    translation:
+      en: "egoistic / selfish"
+      ko: "이기적인"
+    gender: null
+    notes:
+      en: "der Egoismus = egoism"
+      ko: "der Egoismus = 이기주의"
+  - german: "die Autonomie"
+    translation:
+      en: "autonomy"
+      ko: "자율성"
+    gender: f
+    notes:
+      en: "autonom = autonomous"
+      ko: "autonom = 자율적인"
+  - german: "der kategorische Imperativ"
+    translation:
+      en: "categorical imperative"
+      ko: "정언 명령"
+    gender: m
+    notes:
+      en: "Kants kategorischer Imperativ = Kant's categorical imperative"
+      ko: "칸트의 정언 명령"
+  - german: "die Pflichtethik"
+    translation:
+      en: "deontological ethics"
+      ko: "의무 윤리학"
+    gender: f
+    notes:
+      en: "die deontologische Ethik = deontological ethics"
+      ko: "의무론적 윤리학"
+  - german: "die Tugendethik"
+    translation:
+      en: "virtue ethics"
+      ko: "덕 윤리학"
+    gender: f
+    notes:
+      en: "die aristotelische Tugendethik = Aristotelian virtue ethics"
+      ko: "아리스토텔레스의 덕 윤리학"
+  - german: "die Konsequenz, -en"
+    translation:
+      en: "consequence"
+      ko: "결과"
+    gender: f
+    notes:
+      en: "der Konsequentialismus = consequentialism"
+      ko: "der Konsequentialismus = 결과주의"
+  - german: "die Verantwortungsethik"
+    translation:
+      en: "ethics of responsibility"
+      ko: "책임 윤리"
+    gender: f
+    notes:
+      en: "die Verantwortungsethik nach Max Weber = Max Weber's ethics of responsibility"
+      ko: "막스 베버의 책임 윤리"
+  - german: "die Gesinnungsethik"
+    translation:
+      en: "ethics of conviction"
+      ko: "신념 윤리"
+    gender: f
+    notes:
+      en: "Gesinnungsethik vs. Verantwortungsethik = conviction vs. responsibility ethics"
+      ko: "신념 윤리 대 책임 윤리"
+  - german: "das Gemeinwohl"
+    translation:
+      en: "common good"
+      ko: "공동선"
+    gender: n
+    notes:
+      en: "zum Wohl der Allgemeinheit = for the common good"
+      ko: "공동의 이익을 위하여"
+  - german: "die Menschenrechtsethik"
+    translation:
+      en: "human rights ethics"
+      ko: "인권 윤리"
+    gender: f
+    notes:
+      en: "ethische Grundlagen der Menschenrechte = ethical foundations of human rights"
+      ko: "인권의 윤리적 기초"
+  - german: "die Fürsorge"
+    translation:
+      en: "care / welfare"
+      ko: "돌봄"
+    gender: f
+    notes:
+      en: "die Fürsorgeethik = ethics of care"
+      ko: "die Fürsorgeethik = 돌봄 윤리"
+  - german: "die Gerechtigkeit"
+    translation:
+      en: "justice"
+      ko: "정의"
+    gender: f
+    notes:
+      en: "die soziale Gerechtigkeit = social justice"
+      ko: "사회 정의"
+  - german: "das Naturrecht"
+    translation:
+      en: "natural law"
+      ko: "자연법"
+    gender: n
+    notes:
+      en: "das Naturrechtsdenken = natural law thinking"
+      ko: "자연법 사상"
+  - german: "die Güterabwägung, -en"
+    translation:
+      en: "balancing of interests / goods"
+      ko: "이익 형량"
+    gender: f
+    notes:
+      en: "eine ethische Güterabwägung = an ethical balancing of interests"
+      ko: "윤리적 이익 형량"
+  - german: "der Hedonismus"
+    translation:
+      en: "hedonism"
+      ko: "쾌락주의"
+    gender: m
+    notes:
+      en: "hedonistisch = hedonistic"
+      ko: "hedonistisch = 쾌락주의적인"
+  - german: "die Verteilungsgerechtigkeit"
+    translation:
+      en: "distributive justice"
+      ko: "분배 정의"
+    gender: f
+    notes:
+      en: "John Rawls' Theorie der Gerechtigkeit = John Rawls' theory of justice"
+      ko: "존 롤스의 정의론"
+  - german: "die Bioethik"
+    translation:
+      en: "bioethics"
+      ko: "생명 윤리"
+    gender: f
+    notes:
+      en: "bioethische Fragestellungen = bioethical questions"
+      ko: "생명 윤리적 문제"
+  - german: "die Tierethik"
+    translation:
+      en: "animal ethics"
+      ko: "동물 윤리"
+    gender: f
+    notes:
+      en: "die ethische Behandlung von Tieren = ethical treatment of animals"
+      ko: "동물의 윤리적 대우"
+  - german: "die Mitleidsethik"
+    translation:
+      en: "ethics of compassion"
+      ko: "동정 윤리"
+    gender: f
+    notes:
+      en: "Schopenhauers Mitleidsethik = Schopenhauer's ethics of compassion"
+      ko: "쇼펜하우어의 동정 윤리"
+  - german: "die Diskursethik"
+    translation:
+      en: "discourse ethics"
+      ko: "담론 윤리"
+    gender: f
+    notes:
+      en: "Habermas' Diskursethik = Habermas' discourse ethics"
+      ko: "하버마스의 담론 윤리"
+  - german: "der Kontraktualismus"
+    translation:
+      en: "contractualism"
+      ko: "계약론"
+    gender: m
+    notes:
+      en: "der Gesellschaftsvertrag = social contract"
+      ko: "der Gesellschaftsvertrag = 사회 계약"
+- id: logik
+  label:
+    en: "Logic (Logik)"
+    ko: "논리학 (Logik)"
+  type: vocabulary
+  words:
+  - german: "die Logik"
+    translation:
+      en: "logic"
+      ko: "논리학"
+    gender: f
+    notes:
+      en: "logisch = logical"
+      ko: "logisch = 논리적인"
+  - german: "die Prämisse, -n"
+    translation:
+      en: "premise"
+      ko: "전제"
+    gender: f
+    notes:
+      en: "eine falsche Prämisse = a false premise"
+      ko: "eine falsche Prämisse = 잘못된 전제"
+  - german: "die Deduktion"
+    translation:
+      en: "deduction"
+      ko: "연역법"
+    gender: f
+    notes:
+      en: "deduktiv = deductive"
+      ko: "deduktiv = 연역적인"
+  - german: "die Induktion"
+    translation:
+      en: "induction"
+      ko: "귀납법"
+    gender: f
+    notes:
+      en: "induktiv = inductive"
+      ko: "induktiv = 귀납적인"
+  - german: "der Syllogismus, Syllogismen"
+    translation:
+      en: "syllogism"
+      ko: "삼단 논법"
+    gender: m
+    notes:
+      en: "Classical form of deductive reasoning"
+      ko: "연역적 추론의 고전적 형태"
+  - german: "der Trugschluss, Trugschlüsse"
+    translation:
+      en: "fallacy"
+      ko: "오류 / 궤변"
+    gender: m
+    notes:
+      en: "der logische Fehlschluss = logical fallacy"
+      ko: "der logische Fehlschluss = 논리적 오류"
+  - german: "der Widerspruch, Widersprüche"
+    translation:
+      en: "contradiction"
+      ko: "모순"
+    gender: m
+    notes:
+      en: "widersprüchlich = contradictory"
+      ko: "widersprüchlich = 모순된"
+  - german: "die Schlussfolgerung, -en"
+    translation:
+      en: "conclusion / inference"
+      ko: "결론 / 추론"
+    gender: f
+    notes:
+      en: "schlussfolgern = to conclude / infer"
+      ko: "schlussfolgern = 결론을 내리다"
+  - german: "die Tautologie, -n"
+    translation:
+      en: "tautology"
+      ko: "동어반복"
+    gender: f
+    notes:
+      en: "tautologisch = tautological"
+      ko: "tautologisch = 동어 반복의"
+  - german: "die Analogie, -n"
+    translation:
+      en: "analogy"
+      ko: "유추"
+    gender: f
+    notes:
+      en: "ein Analogieschluss = argument by analogy"
+      ko: "ein Analogieschluss = 유추에 의한 논증"
+  - german: "das Axiom, -e"
+    translation:
+      en: "axiom"
+      ko: "공리"
+    gender: n
+    notes:
+      en: "axiomatisch = axiomatic"
+      ko: "axiomatisch = 공리적인"
+  - german: "die These, -n"
+    translation:
+      en: "thesis"
+      ko: "논제 / 명제"
+    gender: f
+    notes:
+      en: "die Antithese = antithesis"
+      ko: "die Antithese = 반명제"
+  - german: "der Beweis, -e"
+    translation:
+      en: "proof"
+      ko: "증명"
+    gender: m
+    notes:
+      en: "beweisen = to prove"
+      ko: "beweisen = 증명하다"
+  - german: "kohärent"
+    translation:
+      en: "coherent"
+      ko: "일관된"
+    gender: null
+    notes:
+      en: "die Kohärenz = coherence"
+      ko: "die Kohärenz = 일관성"
+  - german: "die Kausalität"
+    translation:
+      en: "causality"
+      ko: "인과관계"
+    gender: f
+    notes:
+      en: "kausal = causal"
+      ko: "kausal = 인과적인"
+  - german: "die Dialektik"
+    translation:
+      en: "dialectics"
+      ko: "변증법"
+    gender: f
+    notes:
+      en: "dialektisch = dialectical; Hegel's dialectic method"
+      ko: "dialektisch = 변증법적인; 헤겔의 변증법"
+  - german: "die Prämisse, -n"
+    translation:
+      en: "premise"
+      ko: "전제"
+    gender: f
+    notes:
+      en: "die Grundprämisse = basic premise"
+      ko: "기본 전제"
+  - german: "die Konklusion, -en"
+    translation:
+      en: "conclusion"
+      ko: "결론"
+    gender: f
+    notes:
+      en: "eine logische Konklusion = a logical conclusion"
+      ko: "논리적 결론"
+  - german: "die Tautologie, -n"
+    translation:
+      en: "tautology"
+      ko: "항진식 / 동어반복"
+    gender: f
+    notes:
+      en: "tautologisch = tautological"
+      ko: "tautologisch = 동어반복적인"
+  - german: "die Induktion"
+    translation:
+      en: "induction"
+      ko: "귀납법"
+    gender: f
+    notes:
+      en: "induktiv = inductive"
+      ko: "induktiv = 귀납적인"
+  - german: "die Deduktion"
+    translation:
+      en: "deduction"
+      ko: "연역법"
+    gender: f
+    notes:
+      en: "deduktiv = deductive"
+      ko: "deduktiv = 연역적인"
+  - german: "der Fehlschluss, Fehlschlüsse"
+    translation:
+      en: "fallacy"
+      ko: "오류 추론"
+    gender: m
+    notes:
+      en: "ein logischer Fehlschluss = a logical fallacy"
+      ko: "논리적 오류"
+  - german: "die Aussagenlogik"
+    translation:
+      en: "propositional logic"
+      ko: "명제 논리"
+    gender: f
+    notes:
+      en: "die Prädikatenlogik = predicate logic"
+      ko: "die Prädikatenlogik = 술어 논리"
+  - german: "die Negation, -en"
+    translation:
+      en: "negation"
+      ko: "부정"
+    gender: f
+    notes:
+      en: "die logische Negation = logical negation"
+      ko: "논리적 부정"
+  - german: "die Implikation, -en"
+    translation:
+      en: "implication"
+      ko: "함축 / 내포"
+    gender: f
+    notes:
+      en: "die logische Implikation = logical implication"
+      ko: "논리적 함축"
+  - german: "der Beweis, -e"
+    translation:
+      en: "proof"
+      ko: "증명"
+    gender: m
+    notes:
+      en: "einen Beweis führen = to conduct a proof"
+      ko: "증명을 수행하다"
+  - german: "konsistent"
+    translation:
+      en: "consistent"
+      ko: "일관된"
+    gender: null
+    notes:
+      en: "die Konsistenz = consistency"
+      ko: "die Konsistenz = 일관성"
+  - german: "gültig"
+    translation:
+      en: "valid"
+      ko: "타당한"
+    gender: null
+    notes:
+      en: "die Gültigkeit = validity"
+      ko: "die Gültigkeit = 타당성"
+  - german: "die Konjunktion, -en"
+    translation:
+      en: "conjunction (logic)"
+      ko: "논리곱 / 연언"
+    gender: f
+    notes:
+      en: "die logische Konjunktion = logical conjunction (AND)"
+      ko: "논리곱 (AND)"
+  - german: "die Disjunktion, -en"
+    translation:
+      en: "disjunction (logic)"
+      ko: "논리합 / 선언"
+    gender: f
+    notes:
+      en: "die logische Disjunktion = logical disjunction (OR)"
+      ko: "논리합 (OR)"
+  - german: "die Äquivalenz, -en"
+    translation:
+      en: "equivalence"
+      ko: "동치"
+    gender: f
+    notes:
+      en: "logisch äquivalent = logically equivalent"
+      ko: "논리적으로 동치인"
+  - german: "axiomatisch"
+    translation:
+      en: "axiomatic"
+      ko: "공리적인"
+    gender: null
+    notes:
+      en: "das Axiom = axiom"
+      ko: "das Axiom = 공리"
+  - german: "das Paradoxon, Paradoxa"
+    translation:
+      en: "paradox"
+      ko: "역설"
+    gender: n
+    notes:
+      en: "paradox = paradoxical"
+      ko: "paradox = 역설적인"
+  - german: "die Kausalanalyse, -n"
+    translation:
+      en: "causal analysis"
+      ko: "인과 분석"
+    gender: f
+    notes:
+      en: "eine Kausalanalyse durchführen = to conduct a causal analysis"
+      ko: "인과 분석을 수행하다"
+  - german: "schlussfolgern"
+    translation:
+      en: "to infer / to conclude"
+      ko: "추론하다"
+    gender: null
+    notes:
+      en: "die Schlussfolgerung = inference / conclusion"
+      ko: "die Schlussfolgerung = 추론 / 결론"
+  - german: "die formale Logik"
+    translation:
+      en: "formal logic"
+      ko: "형식 논리학"
+    gender: f
+    notes:
+      en: "die formale und informale Logik = formal and informal logic"
+      ko: "형식 논리학과 비형식 논리학"
+- id: existenzialismus
+  label:
+    en: "Existentialism (Existenzialismus)"
+    ko: "실존주의 (Existenzialismus)"
+  type: vocabulary
+  words:
+  - german: "der Existenzialismus"
+    translation:
+      en: "existentialism"
+      ko: "실존주의"
+    gender: m
+    notes:
+      en: "existenzialistisch = existentialist"
+      ko: "existenzialistisch = 실존주의적인"
+  - german: "die Existenz, -en"
+    translation:
+      en: "existence"
+      ko: "실존"
+    gender: f
+    notes:
+      en: "die Existenz geht der Essenz voraus (Sartre)"
+      ko: "실존은 본질에 앞선다 (사르트르)"
+  - german: "die Angst, Ängste"
+    translation:
+      en: "anxiety / dread (philosophical)"
+      ko: "불안 (철학적)"
+    gender: f
+    notes:
+      en: "die existenzielle Angst = existential anxiety"
+      ko: "die existenzielle Angst = 실존적 불안"
+  - german: "das Absurde"
+    translation:
+      en: "the absurd"
+      ko: "부조리"
+    gender: n
+    notes:
+      en: "absurd = absurd; Albert Camus' key concept"
+      ko: "absurd = 부조리한; 알베르 카뮈의 핵심 개념"
+  - german: "die Authentizität"
+    translation:
+      en: "authenticity"
+      ko: "진정성"
+    gender: f
+    notes:
+      en: "authentisch = authentic"
+      ko: "authentisch = 진정한"
+  - german: "die Freiheit"
+    translation:
+      en: "freedom"
+      ko: "자유"
+    gender: f
+    notes:
+      en: "zur Freiheit verurteilt (Sartre)"
+      ko: "자유에 처해진 (사르트르)"
+  - german: "der Nihilismus"
+    translation:
+      en: "nihilism"
+      ko: "허무주의"
+    gender: m
+    notes:
+      en: "nihilistisch = nihilistic; Nietzsche"
+      ko: "nihilistisch = 허무주의적인; 니체"
+  - german: "die Entfremdung"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: f
+    notes:
+      en: "sich entfremden = to become alienated"
+      ko: "sich entfremden = 소외되다"
+  - german: "die Sinnlosigkeit"
+    translation:
+      en: "meaninglessness"
+      ko: "무의미함"
+    gender: f
+    notes:
+      en: "der Sinn des Lebens = meaning of life"
+      ko: "der Sinn des Lebens = 삶의 의미"
+  - german: "das Dasein"
+    translation:
+      en: "existence / being-there"
+      ko: "현존재"
+    gender: n
+    notes:
+      en: "Key term in Heidegger's philosophy"
+      ko: "하이데거 철학의 핵심 용어"
+  - german: "die Verzweiflung"
+    translation:
+      en: "despair"
+      ko: "절망"
+    gender: f
+    notes:
+      en: "verzweifeln = to despair; Kierkegaard"
+      ko: "verzweifeln = 절망하다; 키르케고르"
+  - german: "der Übermensch"
+    translation:
+      en: "Übermensch / superman"
+      ko: "초인"
+    gender: m
+    notes:
+      en: "Nietzsche's concept in 'Also sprach Zarathustra'"
+      ko: "니체의 '차라투스트라는 이렇게 말했다'의 개념"
+  - german: "die Endlichkeit"
+    translation:
+      en: "finitude"
+      ko: "유한성"
+    gender: f
+    notes:
+      en: "endlich = finite"
+      ko: "endlich = 유한한"
+  - german: "die Geworfenheit"
+    translation:
+      en: "thrownness"
+      ko: "피투성 (被投性)"
+    gender: f
+    notes:
+      en: "Heidegger: being thrown into the world"
+      ko: "하이데거: 세계 속에 던져진 존재"
+  - german: "die Phänomenologie"
+    translation:
+      en: "phenomenology"
+      ko: "현상학"
+    gender: f
+    notes:
+      en: "phänomenologisch = phenomenological; Husserl"
+      ko: "phänomenologisch = 현상학적인; 후설"
+  - german: "die Selbstbestimmung"
+    translation:
+      en: "self-determination"
+      ko: "자기 결정"
+    gender: f
+    notes:
+      en: "das Recht auf Selbstbestimmung"
+      ko: "자기 결정권"
+  - german: "existenziell"
+    translation:
+      en: "existential"
+      ko: "실존적인"
+    gender: null
+    notes:
+      en: "eine existenzielle Krise = existential crisis"
+      ko: "eine existenzielle Krise = 실존적 위기"
+  - german: "die Angst"
+    translation:
+      en: "anxiety / dread (existential)"
+      ko: "불안 (실존적)"
+    gender: f
+    notes:
+      en: "die existenzielle Angst = existential anxiety"
+      ko: "실존적 불안"
+  - german: "die Geworfenheit"
+    translation:
+      en: "thrownness (Heidegger)"
+      ko: "내던져짐"
+    gender: f
+    notes:
+      en: "Heideggers Konzept der Geworfenheit = Heidegger's concept of thrownness"
+      ko: "하이데거의 내던져짐 개념"
+  - german: "das Dasein"
+    translation:
+      en: "being-there / existence (Heidegger)"
+      ko: "현존재"
+    gender: n
+    notes:
+      en: "die Daseinsanalyse = existential analysis"
+      ko: "현존재 분석"
+  - german: "die Authentizität"
+    translation:
+      en: "authenticity"
+      ko: "진정성"
+    gender: f
+    notes:
+      en: "authentisch leben = to live authentically"
+      ko: "진정성 있게 살다"
+  - german: "die Entfremdung"
+    translation:
+      en: "alienation"
+      ko: "소외"
+    gender: f
+    notes:
+      en: "die soziale Entfremdung = social alienation"
+      ko: "사회적 소외"
+  - german: "die Verzweiflung"
+    translation:
+      en: "despair"
+      ko: "절망"
+    gender: f
+    notes:
+      en: "Kierkegaards Konzept der Verzweiflung = Kierkegaard's concept of despair"
+      ko: "키르케고르의 절망 개념"
+  - german: "das Engagement"
+    translation:
+      en: "commitment / engagement (Sartre)"
+      ko: "참여 / 앙가주망"
+    gender: n
+    notes:
+      en: "sich engagieren = to commit / engage"
+      ko: "참여하다"
+  - german: "die Freiheit"
+    translation:
+      en: "freedom"
+      ko: "자유"
+    gender: f
+    notes:
+      en: "zur Freiheit verurteilt = condemned to freedom (Sartre)"
+      ko: "자유에 처해진 (사르트르)"
+  - german: "die Existenz"
+    translation:
+      en: "existence"
+      ko: "실존"
+    gender: f
+    notes:
+      en: "die Existenz geht der Essenz voraus = existence precedes essence"
+      ko: "실존은 본질에 앞선다"
+  - german: "die Kontingenz"
+    translation:
+      en: "contingency"
+      ko: "우연성"
+    gender: f
+    notes:
+      en: "die Kontingenz des Daseins = the contingency of existence"
+      ko: "존재의 우연성"
+  - german: "der Sinn des Lebens"
+    translation:
+      en: "meaning of life"
+      ko: "삶의 의미"
+    gender: m
+    notes:
+      en: "die Sinnsuche = search for meaning"
+      ko: "의미 탐색"
+  - german: "die Einsamkeit"
+    translation:
+      en: "solitude / loneliness"
+      ko: "고독"
+    gender: f
+    notes:
+      en: "die existenzielle Einsamkeit = existential solitude"
+      ko: "실존적 고독"
+  - german: "das Sein"
+    translation:
+      en: "being"
+      ko: "존재"
+    gender: n
+    notes:
+      en: "das Sein und das Nichts = Being and Nothingness (Sartre)"
+      ko: "존재와 무 (사르트르)"
+  - german: "das Nichts"
+    translation:
+      en: "nothingness"
+      ko: "무(無)"
+    gender: n
+    notes:
+      en: "das Erfahren des Nichts = experiencing nothingness"
+      ko: "무의 경험"
+  - german: "die Verantwortung"
+    translation:
+      en: "responsibility"
+      ko: "책임"
+    gender: f
+    notes:
+      en: "die individuelle Verantwortung = individual responsibility"
+      ko: "개인적 책임"
+  - german: "die Wahl, -en"
+    translation:
+      en: "choice"
+      ko: "선택"
+    gender: f
+    notes:
+      en: "die existenzielle Wahl = existential choice"
+      ko: "실존적 선택"
+  - german: "die Subjektivität"
+    translation:
+      en: "subjectivity"
+      ko: "주관성"
+    gender: f
+    notes:
+      en: "die Subjektivität des Erlebens = subjectivity of experience"
+      ko: "경험의 주관성"
+  - german: "die Phänomenologie"
+    translation:
+      en: "phenomenology"
+      ko: "현상학"
+    gender: f
+    notes:
+      en: "die phänomenologische Methode = phenomenological method"
+      ko: "현상학적 방법"
+  - german: "der Existenzialist, -en"
+    translation:
+      en: "existentialist (m)"
+      ko: "실존주의자 (남)"
+    gender: m
+    notes:
+      en: "die Existenzialistin = existentialist (f)"
+      ko: "die Existenzialistin = 실존주의자 (여)"
+- id: debatte
+  label:
+    en: "Debate (Debatte)"
+    ko: "토론 (Debatte)"
+  type: vocabulary
+  words:
+  - german: "das Argument, -e"
+    translation:
+      en: "argument"
+      ko: "논증 / 논거"
+    gender: n
+    notes:
+      en: "argumentieren = to argue"
+      ko: "argumentieren = 논증하다"
+  - german: "die Behauptung, -en"
+    translation:
+      en: "claim / assertion"
+      ko: "주장"
+    gender: f
+    notes:
+      en: "behaupten = to claim"
+      ko: "behaupten = 주장하다"
+  - german: "der Einwand, Einwände"
+    translation:
+      en: "objection"
+      ko: "반론"
+    gender: m
+    notes:
+      en: "einen Einwand erheben = to raise an objection"
+      ko: "einen Einwand erheben = 반론을 제기하다"
+  - german: "die Widerlegung, -en"
+    translation:
+      en: "refutation"
+      ko: "반박"
+    gender: f
+    notes:
+      en: "widerlegen = to refute"
+      ko: "widerlegen = 반박하다"
+  - german: "die Begründung, -en"
+    translation:
+      en: "justification / reasoning"
+      ko: "근거 / 정당화"
+    gender: f
+    notes:
+      en: "begründen = to justify"
+      ko: "begründen = 근거를 제시하다"
+  - german: "der Konsens"
+    translation:
+      en: "consensus"
+      ko: "합의"
+    gender: m
+    notes:
+      en: "einen Konsens finden = to reach a consensus"
+      ko: "einen Konsens finden = 합의에 이르다"
+  - german: "der Dissens"
+    translation:
+      en: "dissent"
+      ko: "불일치"
+    gender: m
+    notes:
+      en: "Opposite of Konsens"
+      ko: "Konsens의 반대"
+  - german: "die Rhetorik"
+    translation:
+      en: "rhetoric"
+      ko: "수사학"
+    gender: f
+    notes:
+      en: "rhetorisch = rhetorical"
+      ko: "rhetorisch = 수사적인"
+  - german: "die Überzeugung, -en"
+    translation:
+      en: "conviction / belief"
+      ko: "확신 / 신념"
+    gender: f
+    notes:
+      en: "überzeugend = convincing"
+      ko: "überzeugend = 설득력 있는"
+  - german: "die Plausibilität"
+    translation:
+      en: "plausibility"
+      ko: "타당성"
+    gender: f
+    notes:
+      en: "plausibel = plausible"
+      ko: "plausibel = 타당한"
+  - german: "nuanciert"
+    translation:
+      en: "nuanced"
+      ko: "미묘한 차이가 있는"
+    gender: null
+    notes:
+      en: "die Nuance = nuance"
+      ko: "die Nuance = 뉘앙스"
+  - german: "differenziert"
+    translation:
+      en: "differentiated / nuanced"
+      ko: "세분화된"
+    gender: null
+    notes:
+      en: "eine differenzierte Betrachtung = a nuanced view"
+      ko: "eine differenzierte Betrachtung = 세분화된 관점"
+  - german: "der Standpunkt, -e"
+    translation:
+      en: "standpoint / viewpoint"
+      ko: "관점 / 입장"
+    gender: m
+    notes:
+      en: "einen Standpunkt vertreten = to hold a viewpoint"
+      ko: "einen Standpunkt vertreten = 입장을 취하다"
+  - german: "die Kontroverse, -n"
+    translation:
+      en: "controversy"
+      ko: "논쟁"
+    gender: f
+    notes:
+      en: "kontrovers = controversial"
+      ko: "kontrovers = 논쟁적인"
+  - german: "der Diskurs, -e"
+    translation:
+      en: "discourse"
+      ko: "담론"
+    gender: m
+    notes:
+      en: "der öffentliche Diskurs = public discourse"
+      ko: "der öffentliche Diskurs = 공적 담론"
+  - german: "erörtern"
+    translation:
+      en: "to discuss / to debate"
+      ko: "논의하다"
+    gender: null
+    notes:
+      en: "die Erörterung = discussion / essay type"
+      ko: "die Erörterung = 논의 / 논술 유형"
+  - german: "der Trugschluss, Trugschlüsse"
+    translation:
+      en: "fallacy (in debate)"
+      ko: "궤변"
+    gender: m
+    notes:
+      en: "der Strohmann-Trugschluss = straw man fallacy"
+      ko: "der Strohmann-Trugschluss = 허수아비 논증"
+  - german: "stichhaltig"
+    translation:
+      en: "valid / sound"
+      ko: "타당한"
+    gender: null
+    notes:
+      en: "ein stichhaltiges Argument = a sound argument"
+      ko: "ein stichhaltiges Argument = 타당한 논증"
+  - german: "das Gegenargument, -e"
+    translation:
+      en: "counterargument"
+      ko: "반론"
+    gender: n
+    notes:
+      en: "ein Gegenargument vorbringen = to present a counterargument"
+      ko: "반론을 제기하다"
+  - german: "die Behauptung, -en"
+    translation:
+      en: "claim / assertion"
+      ko: "주장"
+    gender: f
+    notes:
+      en: "eine Behauptung aufstellen = to make a claim"
+      ko: "주장을 펼치다"
+  - german: "die Widerlegung, -en"
+    translation:
+      en: "refutation"
+      ko: "반박"
+    gender: f
+    notes:
+      en: "widerlegen = to refute"
+      ko: "widerlegen = 반박하다"
+  - german: "die Begründung, -en"
+    translation:
+      en: "justification / reasoning"
+      ko: "근거 / 논거"
+    gender: f
+    notes:
+      en: "eine stichhaltige Begründung = a valid justification"
+      ko: "타당한 근거"
+  - german: "der Konsens"
+    translation:
+      en: "consensus"
+      ko: "합의"
+    gender: m
+    notes:
+      en: "einen Konsens erzielen = to reach a consensus"
+      ko: "합의에 이르다"
+  - german: "der Dissens"
+    translation:
+      en: "dissent / disagreement"
+      ko: "불일치"
+    gender: m
+    notes:
+      en: "der grundlegende Dissens = fundamental disagreement"
+      ko: "근본적인 불일치"
+  - german: "die Kontroverse, -n"
+    translation:
+      en: "controversy"
+      ko: "논쟁"
+    gender: f
+    notes:
+      en: "eine wissenschaftliche Kontroverse = a scientific controversy"
+      ko: "과학적 논쟁"
+  - german: "die Erörterung, -en"
+    translation:
+      en: "discussion / deliberation"
+      ko: "토론 / 논의"
+    gender: f
+    notes:
+      en: "eine sachliche Erörterung = an objective discussion"
+      ko: "객관적 논의"
+  - german: "die Rhetorik"
+    translation:
+      en: "rhetoric"
+      ko: "수사학"
+    gender: f
+    notes:
+      en: "rhetorisch = rhetorical"
+      ko: "rhetorisch = 수사적인"
+  - german: "die Argumentation, -en"
+    translation:
+      en: "argumentation / reasoning"
+      ko: "논증"
+    gender: f
+    notes:
+      en: "eine schlüssige Argumentation = a coherent argumentation"
+      ko: "일관된 논증"
+  - german: "überzeugend"
+    translation:
+      en: "convincing / persuasive"
+      ko: "설득력 있는"
+    gender: null
+    notes:
+      en: "ein überzeugendes Argument = a convincing argument"
+      ko: "설득력 있는 논거"
+  - german: "die Plausibilität"
+    translation:
+      en: "plausibility"
+      ko: "개연성"
+    gender: f
+    notes:
+      en: "plausibel = plausible"
+      ko: "plausibel = 개연성 있는"
+  - german: "einwenden"
+    translation:
+      en: "to object"
+      ko: "이의를 제기하다"
+    gender: null
+    notes:
+      en: "der Einwand = objection"
+      ko: "der Einwand = 이의"
+  - german: "die Hypothese, -n"
+    translation:
+      en: "hypothesis"
+      ko: "가설"
+    gender: f
+    notes:
+      en: "eine Hypothese aufstellen = to formulate a hypothesis"
+      ko: "가설을 세우다"
+  - german: "die Schlussfolgerung, -en"
+    translation:
+      en: "conclusion / inference"
+      ko: "결론"
+    gender: f
+    notes:
+      en: "zu einer Schlussfolgerung kommen = to arrive at a conclusion"
+      ko: "결론에 도달하다"
+  - german: "die Abwägung, -en"
+    translation:
+      en: "weighing / consideration"
+      ko: "고려 / 비교형량"
+    gender: f
+    notes:
+      en: "eine sorgfältige Abwägung = careful consideration"
+      ko: "신중한 고려"
+  - german: "suggestiv"
+    translation:
+      en: "suggestive / leading"
+      ko: "유도적인"
+    gender: null
+    notes:
+      en: "eine suggestive Frage = a leading question"
+      ko: "유도 질문"
+  - german: "konstruktiv"
+    translation:
+      en: "constructive"
+      ko: "건설적인"
+    gender: null
+    notes:
+      en: "konstruktive Kritik = constructive criticism"
+      ko: "건설적인 비판"
+  - german: "differenziert"
+    translation:
+      en: "nuanced / differentiated"
+      ko: "세분화된 / 다각적인"
+    gender: null
+    notes:
+      en: "eine differenzierte Betrachtung = a nuanced view"
+      ko: "다각적인 관점"

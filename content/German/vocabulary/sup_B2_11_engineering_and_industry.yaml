@@ -1,0 +1,1532 @@
+lesson: "sup_B2_Engineering_and_Industry"
+lesson_number: 171
+cefr: B2
+type: supplementary
+topic: "Engineering and Industry"
+categories:
+- id: maschinenbau
+  label:
+    en: "Mechanical Engineering (Maschinenbau)"
+    ko: "기계공학 (Maschinenbau)"
+  type: vocabulary
+  words:
+  - german: "der Maschinenbau"
+    translation:
+      en: "mechanical engineering"
+      ko: "기계공학"
+    gender: m
+    notes:
+      en: "der Maschinenbauingenieur = mechanical engineer"
+      ko: "der Maschinenbauingenieur = 기계 공학자"
+  - german: "das Getriebe, -"
+    translation:
+      en: "gearbox / transmission"
+      ko: "기어박스 / 변속기"
+    gender: n
+    notes:
+      en: "das Zahnrad = gear / cogwheel"
+      ko: "das Zahnrad = 톱니바퀴"
+  - german: "die Turbine, -n"
+    translation:
+      en: "turbine"
+      ko: "터빈"
+    gender: f
+    notes:
+      en: "die Dampfturbine = steam turbine"
+      ko: "die Dampfturbine = 증기 터빈"
+  - german: "der Motor, -en"
+    translation:
+      en: "engine / motor"
+      ko: "엔진 / 모터"
+    gender: m
+    notes:
+      en: "der Verbrennungsmotor = combustion engine"
+      ko: "der Verbrennungsmotor = 내연 기관"
+  - german: "das Lager, -"
+    translation:
+      en: "bearing (mechanical)"
+      ko: "베어링"
+    gender: n
+    notes:
+      en: "das Kugellager = ball bearing"
+      ko: "das Kugellager = 볼 베어링"
+  - german: "die Hydraulik"
+    translation:
+      en: "hydraulics"
+      ko: "유압학"
+    gender: f
+    notes:
+      en: "hydraulisch = hydraulic"
+      ko: "hydraulisch = 유압의"
+  - german: "die Pneumatik"
+    translation:
+      en: "pneumatics"
+      ko: "공기압학"
+    gender: f
+    notes:
+      en: "pneumatisch = pneumatic"
+      ko: "pneumatisch = 공압의"
+  - german: "die Welle, -n"
+    translation:
+      en: "shaft (mechanical)"
+      ko: "축 (기계)"
+    gender: f
+    notes:
+      en: "die Antriebswelle = drive shaft"
+      ko: "die Antriebswelle = 구동축"
+  - german: "die Dichtung, -en"
+    translation:
+      en: "seal / gasket"
+      ko: "실링 / 가스켓"
+    gender: f
+    notes:
+      en: "abdichten = to seal"
+      ko: "abdichten = 밀봉하다"
+  - german: "das Ventil, -e"
+    translation:
+      en: "valve"
+      ko: "밸브"
+    gender: n
+    notes:
+      en: "das Sicherheitsventil = safety valve"
+      ko: "das Sicherheitsventil = 안전 밸브"
+  - german: "die Konstruktion, -en"
+    translation:
+      en: "construction / design"
+      ko: "구조 / 설계"
+    gender: f
+    notes:
+      en: "konstruieren = to design / to construct"
+      ko: "konstruieren = 설계하다"
+  - german: "die Werkstoffkunde"
+    translation:
+      en: "materials science"
+      ko: "재료학"
+    gender: f
+    notes:
+      en: "der Werkstoff = material"
+      ko: "der Werkstoff = 재료"
+  - german: "die Festigkeitslehre"
+    translation:
+      en: "strength of materials"
+      ko: "재료 역학"
+    gender: f
+    notes:
+      en: "die Zugfestigkeit = tensile strength"
+      ko: "die Zugfestigkeit = 인장 강도"
+  - german: "das Drehmoment, -e"
+    translation:
+      en: "torque"
+      ko: "토크"
+    gender: n
+    notes:
+      en: "gemessen in Newtonmetern (Nm)"
+      ko: "뉴턴미터(Nm)로 측정"
+  - german: "die Schmierung"
+    translation:
+      en: "lubrication"
+      ko: "윤활"
+    gender: f
+    notes:
+      en: "der Schmierstoff = lubricant"
+      ko: "der Schmierstoff = 윤활제"
+  - german: "der Prototyp, -en"
+    translation:
+      en: "prototype"
+      ko: "시제품"
+    gender: m
+    notes:
+      en: "einen Prototyp fertigen = to make a prototype"
+      ko: "einen Prototyp fertigen = 시제품을 만들다"
+  - german: "die Thermodynamik"
+    translation:
+      en: "thermodynamics"
+      ko: "열역학"
+    gender: f
+    notes:
+      en: "thermodynamisch = thermodynamic"
+      ko: "thermodynamisch = 열역학적인"
+  - german: "die Verschleißfestigkeit"
+    translation:
+      en: "wear resistance"
+      ko: "내마모성"
+    gender: f
+    notes:
+      en: "verschleißfest = wear-resistant"
+      ko: "verschleißfest = 내마모성의"
+  - german: "die Strömungsmechanik"
+    translation:
+      en: "fluid mechanics"
+      ko: "유체 역학"
+    gender: f
+    notes:
+      en: "die Strömungslehre = fluid dynamics"
+      ko: "die Strömungslehre = 유체 역학"
+  - german: "die Hydraulik"
+    translation:
+      en: "hydraulics"
+      ko: "유압"
+    gender: f
+    notes:
+      en: "das Hydrauliksystem = hydraulic system"
+      ko: "유압 시스템"
+  - german: "die Pneumatik"
+    translation:
+      en: "pneumatics"
+      ko: "공압"
+    gender: f
+    notes:
+      en: "das pneumatische System = pneumatic system"
+      ko: "공압 시스템"
+  - german: "die Thermodynamik"
+    translation:
+      en: "thermodynamics"
+      ko: "열역학"
+    gender: f
+    notes:
+      en: "die Hauptsätze der Thermodynamik = laws of thermodynamics"
+      ko: "열역학 법칙"
+  - german: "die Strömungsmechanik"
+    translation:
+      en: "fluid mechanics"
+      ko: "유체역학"
+    gender: f
+    notes:
+      en: "die Strömungslehre = flow theory"
+      ko: "유동학"
+  - german: "das Zahnrad, Zahnräder"
+    translation:
+      en: "gear / cogwheel"
+      ko: "톱니바퀴"
+    gender: n
+    notes:
+      en: "das Zahnradgetriebe = gear train"
+      ko: "기어 트레인"
+  - german: "die Welle, -n"
+    translation:
+      en: "shaft (mechanical)"
+      ko: "축 (기계)"
+    gender: f
+    notes:
+      en: "die Antriebswelle = drive shaft"
+      ko: "die Antriebswelle = 구동축"
+  - german: "das Lager, -"
+    translation:
+      en: "bearing"
+      ko: "베어링"
+    gender: n
+    notes:
+      en: "das Kugellager = ball bearing"
+      ko: "das Kugellager = 볼 베어링"
+  - german: "die Dichtung, -en"
+    translation:
+      en: "seal / gasket"
+      ko: "밀봉재 / 가스켓"
+    gender: f
+    notes:
+      en: "die Gummidichtung = rubber seal"
+      ko: "고무 밀봉재"
+  - german: "die Festigkeitslehre"
+    translation:
+      en: "strength of materials"
+      ko: "재료역학"
+    gender: f
+    notes:
+      en: "die Zugfestigkeit = tensile strength"
+      ko: "die Zugfestigkeit = 인장 강도"
+  - german: "der Verschleiß"
+    translation:
+      en: "wear and tear"
+      ko: "마모"
+    gender: m
+    notes:
+      en: "der Verschleißschutz = wear protection"
+      ko: "마모 방지"
+  - german: "die Schmierung"
+    translation:
+      en: "lubrication"
+      ko: "윤활"
+    gender: f
+    notes:
+      en: "das Schmiermittel = lubricant"
+      ko: "das Schmiermittel = 윤활제"
+  - german: "die Montage"
+    translation:
+      en: "assembly / installation"
+      ko: "조립"
+    gender: f
+    notes:
+      en: "die Endmontage = final assembly"
+      ko: "최종 조립"
+  - german: "der Prototyp, -en"
+    translation:
+      en: "prototype"
+      ko: "프로토타입"
+    gender: m
+    notes:
+      en: "einen Prototyp bauen = to build a prototype"
+      ko: "프로토타입을 제작하다"
+  - german: "die Simulation, -en"
+    translation:
+      en: "simulation"
+      ko: "시뮬레이션"
+    gender: f
+    notes:
+      en: "eine Computersimulation durchführen = to run a computer simulation"
+      ko: "컴퓨터 시뮬레이션을 실행하다"
+  - german: "die Konstruktionszeichnung, -en"
+    translation:
+      en: "construction drawing"
+      ko: "설계도"
+    gender: f
+    notes:
+      en: "eine Konstruktionszeichnung erstellen = to create a construction drawing"
+      ko: "설계도를 작성하다"
+  - german: "das Drehmoment, -e"
+    translation:
+      en: "torque"
+      ko: "토크"
+    gender: n
+    notes:
+      en: "das maximale Drehmoment = maximum torque"
+      ko: "최대 토크"
+  - german: "die Wärmebehandlung"
+    translation:
+      en: "heat treatment"
+      ko: "열처리"
+    gender: f
+    notes:
+      en: "das Stahl härten = to harden steel"
+      ko: "강철을 경화하다"
+  - german: "die Korrosion"
+    translation:
+      en: "corrosion"
+      ko: "부식"
+    gender: f
+    notes:
+      en: "der Korrosionsschutz = corrosion protection"
+      ko: "부식 방지"
+  - german: "die Toleranz, -en"
+    translation:
+      en: "tolerance (engineering)"
+      ko: "공차"
+    gender: f
+    notes:
+      en: "die Fertigungstoleranz = manufacturing tolerance"
+      ko: "제조 공차"
+- id: elektrotechnik
+  label:
+    en: "Electrical Engineering (Elektrotechnik)"
+    ko: "전기공학 (Elektrotechnik)"
+  type: vocabulary
+  words:
+  - german: "die Elektrotechnik"
+    translation:
+      en: "electrical engineering"
+      ko: "전기공학"
+    gender: f
+    notes:
+      en: "der Elektroingenieur = electrical engineer"
+      ko: "der Elektroingenieur = 전기 공학자"
+  - german: "der Stromkreis, -e"
+    translation:
+      en: "circuit"
+      ko: "회로"
+    gender: m
+    notes:
+      en: "der geschlossene Stromkreis = closed circuit"
+      ko: "der geschlossene Stromkreis = 폐회로"
+  - german: "der Transformator, -en"
+    translation:
+      en: "transformer"
+      ko: "변압기"
+    gender: m
+    notes:
+      en: "der Trafo = transformer (short form)"
+      ko: "der Trafo = 변압기 (약칭)"
+  - german: "der Halbleiter, -"
+    translation:
+      en: "semiconductor"
+      ko: "반도체"
+    gender: m
+    notes:
+      en: "die Halbleitertechnik = semiconductor technology"
+      ko: "die Halbleitertechnik = 반도체 기술"
+  - german: "der Kondensator, -en"
+    translation:
+      en: "capacitor"
+      ko: "축전기"
+    gender: m
+    notes:
+      en: "die Kapazität = capacitance"
+      ko: "die Kapazität = 정전 용량"
+  - german: "die Spannung, -en"
+    translation:
+      en: "voltage"
+      ko: "전압"
+    gender: f
+    notes:
+      en: "die Hochspannung = high voltage"
+      ko: "die Hochspannung = 고전압"
+  - german: "der Strom"
+    translation:
+      en: "current (electrical)"
+      ko: "전류"
+    gender: m
+    notes:
+      en: "der Gleichstrom = direct current (DC)"
+      ko: "der Gleichstrom = 직류 (DC)"
+  - german: "der Widerstand, Widerstände"
+    translation:
+      en: "resistor / resistance"
+      ko: "저항기 / 저항"
+    gender: m
+    notes:
+      en: "gemessen in Ohm"
+      ko: "옴으로 측정"
+  - german: "die Leiterplatte, -n"
+    translation:
+      en: "circuit board / PCB"
+      ko: "인쇄 회로 기판"
+    gender: f
+    notes:
+      en: "die Platine = board / PCB"
+      ko: "die Platine = 기판"
+  - german: "der Sensor, -en"
+    translation:
+      en: "sensor"
+      ko: "센서"
+    gender: m
+    notes:
+      en: "die Sensorik = sensor technology"
+      ko: "die Sensorik = 센서 기술"
+  - german: "der Aktor, -en"
+    translation:
+      en: "actuator"
+      ko: "액추에이터"
+    gender: m
+    notes:
+      en: "die Aktorik = actuator technology"
+      ko: "die Aktorik = 구동 기술"
+  - german: "die Regelungstechnik"
+    translation:
+      en: "control engineering"
+      ko: "제어 공학"
+    gender: f
+    notes:
+      en: "der Regelkreis = control loop"
+      ko: "der Regelkreis = 제어 루프"
+  - german: "die Leistung"
+    translation:
+      en: "power (electrical)"
+      ko: "전력"
+    gender: f
+    notes:
+      en: "gemessen in Watt (W)"
+      ko: "와트(W)로 측정"
+  - german: "die Energiespeicherung"
+    translation:
+      en: "energy storage"
+      ko: "에너지 저장"
+    gender: f
+    notes:
+      en: "die Batterie = battery; der Akku = rechargeable battery"
+      ko: "die Batterie = 배터리; der Akku = 충전식 배터리"
+  - german: "der Wechselstrom"
+    translation:
+      en: "alternating current (AC)"
+      ko: "교류"
+    gender: m
+    notes:
+      en: "der Drehstrom = three-phase current"
+      ko: "der Drehstrom = 삼상 전류"
+  - german: "die Messtechnik"
+    translation:
+      en: "measurement technology"
+      ko: "측정 기술"
+    gender: f
+    notes:
+      en: "messen = to measure"
+      ko: "messen = 측정하다"
+  - german: "die Photovoltaik"
+    translation:
+      en: "photovoltaics"
+      ko: "태양광 발전"
+    gender: f
+    notes:
+      en: "die Solarzelle = solar cell"
+      ko: "die Solarzelle = 태양 전지"
+  - german: "die Mikrotechnik"
+    translation:
+      en: "microtechnology"
+      ko: "마이크로 기술"
+    gender: f
+    notes:
+      en: "die Nanotechnologie = nanotechnology"
+      ko: "die Nanotechnologie = 나노기술"
+  - german: "die Isolierung, -en"
+    translation:
+      en: "insulation (electrical)"
+      ko: "절연"
+    gender: f
+    notes:
+      en: "isolieren = to insulate"
+      ko: "isolieren = 절연하다"
+  - german: "der Halbleiter, -"
+    translation:
+      en: "semiconductor"
+      ko: "반도체"
+    gender: m
+    notes:
+      en: "der Halbleiterchip = semiconductor chip"
+      ko: "반도체 칩"
+  - german: "die Leiterplatte, -n"
+    translation:
+      en: "circuit board / PCB"
+      ko: "인쇄 회로 기판"
+    gender: f
+    notes:
+      en: "die Leiterplattenbestückung = PCB assembly"
+      ko: "PCB 조립"
+  - german: "der Transformator, -en"
+    translation:
+      en: "transformer"
+      ko: "변압기"
+    gender: m
+    notes:
+      en: "den Transformator anschließen = to connect the transformer"
+      ko: "변압기를 연결하다"
+  - german: "die Spule, -n"
+    translation:
+      en: "coil / inductor"
+      ko: "코일"
+    gender: f
+    notes:
+      en: "die elektromagnetische Spule = electromagnetic coil"
+      ko: "전자기 코일"
+  - german: "der Kondensator, -en"
+    translation:
+      en: "capacitor"
+      ko: "커패시터 / 축전기"
+    gender: m
+    notes:
+      en: "die Kapazität des Kondensators = capacitance of the capacitor"
+      ko: "축전기의 용량"
+  - german: "der Wechselrichter, -"
+    translation:
+      en: "inverter"
+      ko: "인버터"
+    gender: m
+    notes:
+      en: "der Solarwechselrichter = solar inverter"
+      ko: "태양광 인버터"
+  - german: "die Gleichrichtung"
+    translation:
+      en: "rectification"
+      ko: "정류"
+    gender: f
+    notes:
+      en: "der Gleichrichter = rectifier"
+      ko: "der Gleichrichter = 정류기"
+  - german: "die Impedanz, -en"
+    translation:
+      en: "impedance"
+      ko: "임피던스"
+    gender: f
+    notes:
+      en: "die elektrische Impedanz = electrical impedance"
+      ko: "전기 임피던스"
+  - german: "die Frequenz, -en"
+    translation:
+      en: "frequency"
+      ko: "주파수"
+    gender: f
+    notes:
+      en: "die Hochfrequenztechnik = high-frequency technology"
+      ko: "고주파 기술"
+  - german: "der Oszilloskop, -e"
+    translation:
+      en: "oscilloscope"
+      ko: "오실로스코프"
+    gender: m
+    notes:
+      en: "das Signal auf dem Oszilloskop = the signal on the oscilloscope"
+      ko: "오실로스코프의 신호"
+  - german: "die Leistungselektronik"
+    translation:
+      en: "power electronics"
+      ko: "전력 전자"
+    gender: f
+    notes:
+      en: "die Leistungselektronik für Elektroautos = power electronics for electric cars"
+      ko: "전기차를 위한 전력 전자"
+  - german: "die Energiespeicherung"
+    translation:
+      en: "energy storage"
+      ko: "에너지 저장"
+    gender: f
+    notes:
+      en: "die Energiespeicherung in Batterien = energy storage in batteries"
+      ko: "배터리 에너지 저장"
+  - german: "die Signalverarbeitung"
+    translation:
+      en: "signal processing"
+      ko: "신호 처리"
+    gender: f
+    notes:
+      en: "die digitale Signalverarbeitung = digital signal processing"
+      ko: "디지털 신호 처리"
+  - german: "der Sensor, -en"
+    translation:
+      en: "sensor"
+      ko: "센서"
+    gender: m
+    notes:
+      en: "der Temperatursensor = temperature sensor"
+      ko: "온도 센서"
+  - german: "der Aktor, -en"
+    translation:
+      en: "actuator"
+      ko: "액추에이터"
+    gender: m
+    notes:
+      en: "den Aktor ansteuern = to control the actuator"
+      ko: "액추에이터를 제어하다"
+  - german: "die Regelungstechnik"
+    translation:
+      en: "control engineering"
+      ko: "제어 공학"
+    gender: f
+    notes:
+      en: "die digitale Regelungstechnik = digital control engineering"
+      ko: "디지털 제어 공학"
+  - german: "die Hochspannungstechnik"
+    translation:
+      en: "high-voltage engineering"
+      ko: "고압 공학"
+    gender: f
+    notes:
+      en: "die Hochspannungsleitung = high-voltage power line"
+      ko: "고압 송전선"
+  - german: "die Photovoltaikzelle, -n"
+    translation:
+      en: "photovoltaic cell"
+      ko: "태양전지"
+    gender: f
+    notes:
+      en: "der Wirkungsgrad der Photovoltaikzelle = efficiency of the PV cell"
+      ko: "태양전지의 효율"
+  - german: "die Messtechnik"
+    translation:
+      en: "measurement technology"
+      ko: "계측 기술"
+    gender: f
+    notes:
+      en: "die elektrische Messtechnik = electrical measurement technology"
+      ko: "전기 계측 기술"
+- id: industrieproduktion
+  label:
+    en: "Industrial Production (Industrieproduktion)"
+    ko: "산업 생산 (Industrieproduktion)"
+  type: vocabulary
+  words:
+  - german: "die Fertigung"
+    translation:
+      en: "manufacturing / production"
+      ko: "제조"
+    gender: f
+    notes:
+      en: "die Serienfertigung = series production"
+      ko: "die Serienfertigung = 대량 생산"
+  - german: "die Fließbandarbeit"
+    translation:
+      en: "assembly line work"
+      ko: "조립 라인 작업"
+    gender: f
+    notes:
+      en: "das Fließband = assembly line / conveyor belt"
+      ko: "das Fließband = 조립 라인 / 컨베이어 벨트"
+  - german: "die CNC-Maschine, -n"
+    translation:
+      en: "CNC machine"
+      ko: "CNC 기계"
+    gender: f
+    notes:
+      en: "computergesteuerte numerische Steuerung"
+      ko: "컴퓨터 수치 제어"
+  - german: "der Rohstoff, -e"
+    translation:
+      en: "raw material"
+      ko: "원자재"
+    gender: m
+    notes:
+      en: "die Rohstoffgewinnung = raw material extraction"
+      ko: "die Rohstoffgewinnung = 원자재 추출"
+  - german: "das Halbzeug, -e"
+    translation:
+      en: "semi-finished product"
+      ko: "반제품"
+    gender: n
+    notes:
+      en: "das Vorprodukt = intermediate product"
+      ko: "das Vorprodukt = 중간 생산물"
+  - german: "die Montage"
+    translation:
+      en: "assembly"
+      ko: "조립"
+    gender: f
+    notes:
+      en: "die Endmontage = final assembly"
+      ko: "die Endmontage = 최종 조립"
+  - german: "die Schweißtechnik"
+    translation:
+      en: "welding technology"
+      ko: "용접 기술"
+    gender: f
+    notes:
+      en: "schweißen = to weld"
+      ko: "schweißen = 용접하다"
+  - german: "die Gießerei, -en"
+    translation:
+      en: "foundry"
+      ko: "주조 공장"
+    gender: f
+    notes:
+      en: "gießen = to cast (metal)"
+      ko: "gießen = 주조하다"
+  - german: "das Fräsen"
+    translation:
+      en: "milling"
+      ko: "밀링"
+    gender: n
+    notes:
+      en: "die Fräsmaschine = milling machine"
+      ko: "die Fräsmaschine = 밀링 머신"
+  - german: "das Drehen"
+    translation:
+      en: "turning (lathe)"
+      ko: "선반 가공"
+    gender: n
+    notes:
+      en: "die Drehbank = lathe"
+      ko: "die Drehbank = 선반"
+  - german: "die Wartung, -en"
+    translation:
+      en: "maintenance"
+      ko: "유지보수"
+    gender: f
+    notes:
+      en: "die Instandhaltung = maintenance (formal)"
+      ko: "die Instandhaltung = 유지보수 (격식)"
+  - german: "die Lean Production"
+    translation:
+      en: "lean production"
+      ko: "린 생산"
+    gender: f
+    notes:
+      en: "die schlanke Produktion = lean manufacturing"
+      ko: "die schlanke Produktion = 린 제조"
+  - german: "die Logistik"
+    translation:
+      en: "logistics"
+      ko: "물류"
+    gender: f
+    notes:
+      en: "logistisch = logistic"
+      ko: "logistisch = 물류의"
+  - german: "die Stückzahl, -en"
+    translation:
+      en: "quantity / unit count"
+      ko: "생산량"
+    gender: f
+    notes:
+      en: "die tägliche Stückzahl = daily output"
+      ko: "die tägliche Stückzahl = 일일 생산량"
+  - german: "die Zulieferindustrie"
+    translation:
+      en: "supplier industry"
+      ko: "부품 공급 산업"
+    gender: f
+    notes:
+      en: "der Zulieferer = supplier"
+      ko: "der Zulieferer = 부품 공급업체"
+  - german: "der 3D-Druck"
+    translation:
+      en: "3D printing"
+      ko: "3D 프린팅"
+    gender: m
+    notes:
+      en: "die additive Fertigung = additive manufacturing"
+      ko: "die additive Fertigung = 적층 제조"
+  - german: "die Produktionsstraße, -n"
+    translation:
+      en: "production line"
+      ko: "생산 라인"
+    gender: f
+    notes:
+      en: "die Fertigungslinie = manufacturing line"
+      ko: "die Fertigungslinie = 제조 라인"
+  - german: "die Fertigungsstraße, -n"
+    translation:
+      en: "production line"
+      ko: "생산 라인"
+    gender: f
+    notes:
+      en: "die automatisierte Fertigungsstraße = automated production line"
+      ko: "자동화 생산 라인"
+  - german: "die Lean Production"
+    translation:
+      en: "lean production"
+      ko: "린 생산"
+    gender: f
+    notes:
+      en: "die Lean-Methode = lean method"
+      ko: "린 방법론"
+  - german: "das Just-in-Time-Verfahren"
+    translation:
+      en: "just-in-time method"
+      ko: "적시 생산 방식"
+    gender: n
+    notes:
+      en: "die Just-in-Time-Lieferung = just-in-time delivery"
+      ko: "적시 납품"
+  - german: "die Losgröße, -n"
+    translation:
+      en: "batch size / lot size"
+      ko: "로트 크기"
+    gender: f
+    notes:
+      en: "die optimale Losgröße = optimal batch size"
+      ko: "최적 로트 크기"
+  - german: "die Werkzeugmaschine, -n"
+    translation:
+      en: "machine tool"
+      ko: "공작 기계"
+    gender: f
+    notes:
+      en: "die CNC-Werkzeugmaschine = CNC machine tool"
+      ko: "CNC 공작 기계"
+  - german: "das Fließband, Fließbänder"
+    translation:
+      en: "assembly line / conveyor belt"
+      ko: "컨베이어 벨트"
+    gender: n
+    notes:
+      en: "die Fließbandarbeit = assembly line work"
+      ko: "컨베이어 벨트 작업"
+  - german: "die Stückzahl, -en"
+    translation:
+      en: "quantity / number of units"
+      ko: "수량"
+    gender: f
+    notes:
+      en: "die Stückzahl erhöhen = to increase the quantity"
+      ko: "수량을 늘리다"
+  - german: "die Rüstzeit, -en"
+    translation:
+      en: "setup time / changeover time"
+      ko: "준비 시간"
+    gender: f
+    notes:
+      en: "die Rüstzeit minimieren = to minimize setup time"
+      ko: "준비 시간을 최소화하다"
+  - german: "der Durchsatz"
+    translation:
+      en: "throughput"
+      ko: "처리량"
+    gender: m
+    notes:
+      en: "den Durchsatz steigern = to increase throughput"
+      ko: "처리량을 높이다"
+  - german: "die Instandhaltung"
+    translation:
+      en: "maintenance"
+      ko: "유지보수"
+    gender: f
+    notes:
+      en: "die vorbeugende Instandhaltung = preventive maintenance"
+      ko: "예방 정비"
+  - german: "das Rohmaterial, -ien"
+    translation:
+      en: "raw material"
+      ko: "원자재"
+    gender: n
+    notes:
+      en: "die Rohmaterialkosten = raw material costs"
+      ko: "원자재 비용"
+  - german: "die Lagerverwaltung"
+    translation:
+      en: "inventory management"
+      ko: "재고 관리"
+    gender: f
+    notes:
+      en: "die automatisierte Lagerverwaltung = automated inventory management"
+      ko: "자동화 재고 관리"
+  - german: "die Produktionsplanung"
+    translation:
+      en: "production planning"
+      ko: "생산 계획"
+    gender: f
+    notes:
+      en: "die Produktionsplanung und -steuerung = production planning and control"
+      ko: "생산 계획 및 관리"
+  - german: "der Ausschuss"
+    translation:
+      en: "scrap / reject"
+      ko: "불량품"
+    gender: m
+    notes:
+      en: "die Ausschussrate = scrap rate"
+      ko: "불량률"
+  - german: "die Schichtarbeit"
+    translation:
+      en: "shift work"
+      ko: "교대 근무"
+    gender: f
+    notes:
+      en: "die Dreischichtarbeit = three-shift work"
+      ko: "3교대 근무"
+  - german: "die Produktivitätssteigerung"
+    translation:
+      en: "productivity increase"
+      ko: "생산성 향상"
+    gender: f
+    notes:
+      en: "Maßnahmen zur Produktivitätssteigerung = measures to increase productivity"
+      ko: "생산성 향상 조치"
+  - german: "die Kapazitätsauslastung"
+    translation:
+      en: "capacity utilization"
+      ko: "가동률"
+    gender: f
+    notes:
+      en: "die volle Kapazitätsauslastung = full capacity utilization"
+      ko: "완전 가동"
+  - german: "die Prozessoptimierung"
+    translation:
+      en: "process optimization"
+      ko: "공정 최적화"
+    gender: f
+    notes:
+      en: "die kontinuierliche Prozessoptimierung = continuous process optimization"
+      ko: "지속적 공정 최적화"
+  - german: "der Engpass, Engpässe"
+    translation:
+      en: "bottleneck"
+      ko: "병목"
+    gender: m
+    notes:
+      en: "einen Engpass beseitigen = to eliminate a bottleneck"
+      ko: "병목을 해소하다"
+  - german: "die Wertschöpfungskette, -n"
+    translation:
+      en: "value chain"
+      ko: "가치 사슬"
+    gender: f
+    notes:
+      en: "die gesamte Wertschöpfungskette = the entire value chain"
+      ko: "전체 가치 사슬"
+- id: qualitaetskontrolle
+  label:
+    en: "Quality Control (Qualitätskontrolle)"
+    ko: "품질 관리 (Qualitätskontrolle)"
+  type: vocabulary
+  words:
+  - german: "die Qualitätskontrolle, -n"
+    translation:
+      en: "quality control"
+      ko: "품질 관리"
+    gender: f
+    notes:
+      en: "die Qualitätssicherung = quality assurance"
+      ko: "die Qualitätssicherung = 품질 보증"
+  - german: "die Norm, -en"
+    translation:
+      en: "standard / norm"
+      ko: "표준 / 규격"
+    gender: f
+    notes:
+      en: "die DIN-Norm = DIN standard (German Industrial Standard)"
+      ko: "die DIN-Norm = DIN 규격 (독일 산업 표준)"
+  - german: "die ISO-Zertifizierung, -en"
+    translation:
+      en: "ISO certification"
+      ko: "ISO 인증"
+    gender: f
+    notes:
+      en: "ISO 9001 = quality management standard"
+      ko: "ISO 9001 = 품질 경영 표준"
+  - german: "die Prüfung, -en"
+    translation:
+      en: "testing / inspection"
+      ko: "검사"
+    gender: f
+    notes:
+      en: "prüfen = to test / inspect"
+      ko: "prüfen = 검사하다"
+  - german: "die Toleranz, -en"
+    translation:
+      en: "tolerance (engineering)"
+      ko: "공차"
+    gender: f
+    notes:
+      en: "die Fertigungstoleranz = manufacturing tolerance"
+      ko: "die Fertigungstoleranz = 제조 공차"
+  - german: "der Fehler, -"
+    translation:
+      en: "defect / error"
+      ko: "결함 / 오류"
+    gender: m
+    notes:
+      en: "die Fehlerquote = error rate"
+      ko: "die Fehlerquote = 오류율"
+  - german: "die Rückrufaktion, -en"
+    translation:
+      en: "product recall"
+      ko: "리콜"
+    gender: f
+    notes:
+      en: "ein Produkt zurückrufen = to recall a product"
+      ko: "ein Produkt zurückrufen = 제품을 리콜하다"
+  - german: "die Stichprobenprüfung, -en"
+    translation:
+      en: "sample inspection"
+      ko: "표본 검사"
+    gender: f
+    notes:
+      en: "die Stichprobe = sample"
+      ko: "die Stichprobe = 표본"
+  - german: "die Kalibrierung, -en"
+    translation:
+      en: "calibration"
+      ko: "교정"
+    gender: f
+    notes:
+      en: "kalibrieren = to calibrate"
+      ko: "kalibrieren = 교정하다"
+  - german: "die Rückverfolgbarkeit"
+    translation:
+      en: "traceability"
+      ko: "추적 가능성"
+    gender: f
+    notes:
+      en: "rückverfolgbar = traceable"
+      ko: "rückverfolgbar = 추적 가능한"
+  - german: "die Zuverlässigkeit"
+    translation:
+      en: "reliability"
+      ko: "신뢰성"
+    gender: f
+    notes:
+      en: "zuverlässig = reliable"
+      ko: "zuverlässig = 신뢰할 수 있는"
+  - german: "die Endkontrolle, -n"
+    translation:
+      en: "final inspection"
+      ko: "최종 검사"
+    gender: f
+    notes:
+      en: "die Eingangskontrolle = incoming inspection"
+      ko: "die Eingangskontrolle = 입고 검사"
+  - german: "der TÜV"
+    translation:
+      en: "TÜV (German technical inspection association)"
+      ko: "TÜV (독일 기술 검사 협회)"
+    gender: m
+    notes:
+      en: "TÜV-geprüft = TÜV-certified"
+      ko: "TÜV-geprüft = TÜV 인증"
+  - german: "das Prüfprotokoll, -e"
+    translation:
+      en: "test report / inspection protocol"
+      ko: "검사 보고서"
+    gender: n
+    notes:
+      en: "das Prüfprotokoll erstellen = to create a test report"
+      ko: "das Prüfprotokoll erstellen = 검사 보고서를 작성하다"
+  - german: "fehlerfrei"
+    translation:
+      en: "defect-free / flawless"
+      ko: "결함 없는"
+    gender: null
+    notes:
+      en: "Null-Fehler-Strategie = zero-defect strategy"
+      ko: "Null-Fehler-Strategie = 무결점 전략"
+  - german: "die Maßhaltigkeit"
+    translation:
+      en: "dimensional accuracy"
+      ko: "치수 정밀도"
+    gender: f
+    notes:
+      en: "maßhaltig = dimensionally accurate"
+      ko: "maßhaltig = 치수가 정확한"
+  - german: "die Oberflächengüte"
+    translation:
+      en: "surface quality"
+      ko: "표면 품질"
+    gender: f
+    notes:
+      en: "die Oberflächenbehandlung = surface treatment"
+      ko: "die Oberflächenbehandlung = 표면 처리"
+  - german: "die Zertifizierung, -en"
+    translation:
+      en: "certification"
+      ko: "인증"
+    gender: f
+    notes:
+      en: "die ISO-Zertifizierung = ISO certification"
+      ko: "ISO 인증"
+  - german: "die Rückverfolgbarkeit"
+    translation:
+      en: "traceability"
+      ko: "추적 가능성"
+    gender: f
+    notes:
+      en: "die lückenlose Rückverfolgbarkeit = complete traceability"
+      ko: "완전한 추적 가능성"
+  - german: "die Stichprobe, -n"
+    translation:
+      en: "sample / spot check"
+      ko: "표본 / 샘플"
+    gender: f
+    notes:
+      en: "eine Stichprobe nehmen = to take a sample"
+      ko: "표본을 추출하다"
+  - german: "die Fehleranalyse, -n"
+    translation:
+      en: "failure analysis"
+      ko: "결함 분석"
+    gender: f
+    notes:
+      en: "eine systematische Fehleranalyse = a systematic failure analysis"
+      ko: "체계적 결함 분석"
+  - german: "die Null-Fehler-Strategie"
+    translation:
+      en: "zero-defect strategy"
+      ko: "무결점 전략"
+    gender: f
+    notes:
+      en: "die Null-Fehler-Produktion = zero-defect production"
+      ko: "무결점 생산"
+  - german: "die Auditierung, -en"
+    translation:
+      en: "auditing"
+      ko: "감사"
+    gender: f
+    notes:
+      en: "ein Qualitätsaudit durchführen = to conduct a quality audit"
+      ko: "품질 감사를 실시하다"
+  - german: "die Kalibrierung, -en"
+    translation:
+      en: "calibration"
+      ko: "보정 / 교정"
+    gender: f
+    notes:
+      en: "die Kalibrierung von Messgeräten = calibration of measuring instruments"
+      ko: "계측기 보정"
+  - german: "die Reklamation, -en"
+    translation:
+      en: "complaint / claim"
+      ko: "불만 / 클레임"
+    gender: f
+    notes:
+      en: "eine Reklamation bearbeiten = to process a complaint"
+      ko: "클레임을 처리하다"
+  - german: "die Standardabweichung, -en"
+    translation:
+      en: "standard deviation"
+      ko: "표준 편차"
+    gender: f
+    notes:
+      en: "die Standardabweichung berechnen = to calculate the standard deviation"
+      ko: "표준 편차를 계산하다"
+  - german: "die Prozessfähigkeit"
+    translation:
+      en: "process capability"
+      ko: "공정 능력"
+    gender: f
+    notes:
+      en: "die statistische Prozessfähigkeit = statistical process capability"
+      ko: "통계적 공정 능력"
+  - german: "die Eingangskontrolle, -n"
+    translation:
+      en: "incoming inspection"
+      ko: "수입 검사"
+    gender: f
+    notes:
+      en: "die Wareneingangskontrolle = goods receiving inspection"
+      ko: "입고 검사"
+  - german: "die Endkontrolle, -n"
+    translation:
+      en: "final inspection"
+      ko: "최종 검사"
+    gender: f
+    notes:
+      en: "die Endkontrolle bestehen = to pass the final inspection"
+      ko: "최종 검사를 통과하다"
+  - german: "die Konformitätsbewertung"
+    translation:
+      en: "conformity assessment"
+      ko: "적합성 평가"
+    gender: f
+    notes:
+      en: "die EU-Konformitätsbewertung = EU conformity assessment"
+      ko: "EU 적합성 평가"
+  - german: "die Fehlerquote, -n"
+    translation:
+      en: "defect rate / error rate"
+      ko: "결함률"
+    gender: f
+    notes:
+      en: "die Fehlerquote senken = to lower the defect rate"
+      ko: "결함률을 낮추다"
+  - german: "die Lieferantenqualifizierung"
+    translation:
+      en: "supplier qualification"
+      ko: "공급업체 자격 심사"
+    gender: f
+    notes:
+      en: "die Lieferantenqualifizierung durchführen = to conduct supplier qualification"
+      ko: "공급업체 자격 심사를 실시하다"
+  - german: "die Spezifikation, -en"
+    translation:
+      en: "specification"
+      ko: "사양"
+    gender: f
+    notes:
+      en: "die technische Spezifikation = technical specification"
+      ko: "기술 사양"
+  - german: "die Prüfmethode, -n"
+    translation:
+      en: "test method"
+      ko: "시험 방법"
+    gender: f
+    notes:
+      en: "die zerstörungsfreie Prüfmethode = non-destructive test method"
+      ko: "비파괴 시험 방법"
+  - german: "die Chargenrückverfolgung"
+    translation:
+      en: "batch traceability"
+      ko: "배치 추적"
+    gender: f
+    notes:
+      en: "die lückenlose Chargenrückverfolgung = complete batch traceability"
+      ko: "완전한 배치 추적"
+  - german: "die Abweichung, -en"
+    translation:
+      en: "deviation"
+      ko: "편차"
+    gender: f
+    notes:
+      en: "eine zulässige Abweichung = a permissible deviation"
+      ko: "허용 편차"
+- id: automatisierung
+  label:
+    en: "Automation (Automatisierung)"
+    ko: "자동화 (Automatisierung)"
+  type: vocabulary
+  words:
+  - german: "die Automatisierung"
+    translation:
+      en: "automation"
+      ko: "자동화"
+    gender: f
+    notes:
+      en: "automatisieren = to automate"
+      ko: "automatisieren = 자동화하다"
+  - german: "der Roboter, -"
+    translation:
+      en: "robot"
+      ko: "로봇"
+    gender: m
+    notes:
+      en: "der Industrieroboter = industrial robot"
+      ko: "der Industrieroboter = 산업용 로봇"
+  - german: "die Steuerung, -en"
+    translation:
+      en: "control system"
+      ko: "제어 시스템"
+    gender: f
+    notes:
+      en: "die speicherprogrammierbare Steuerung (SPS) = PLC"
+      ko: "die speicherprogrammierbare Steuerung (SPS) = PLC"
+  - german: "die Industrie 4.0"
+    translation:
+      en: "Industry 4.0"
+      ko: "인더스트리 4.0"
+    gender: f
+    notes:
+      en: "die vierte industrielle Revolution"
+      ko: "제4차 산업 혁명"
+  - german: "das Internet der Dinge (IoT)"
+    translation:
+      en: "Internet of Things (IoT)"
+      ko: "사물인터넷 (IoT)"
+    gender: n
+    notes:
+      en: "vernetzte Geräte und Maschinen"
+      ko: "연결된 장치와 기계"
+  - german: "die Künstliche Intelligenz (KI)"
+    translation:
+      en: "artificial intelligence (AI)"
+      ko: "인공지능 (AI)"
+    gender: f
+    notes:
+      en: "KI-gestützte Produktion = AI-supported production"
+      ko: "KI-gestützte Produktion = AI 지원 생산"
+  - german: "der digitale Zwilling, -e"
+    translation:
+      en: "digital twin"
+      ko: "디지털 트윈"
+    gender: m
+    notes:
+      en: "Virtual replica of a physical system"
+      ko: "물리적 시스템의 가상 복제본"
+  - german: "die Mensch-Maschine-Schnittstelle, -n"
+    translation:
+      en: "human-machine interface"
+      ko: "인간-기계 인터페이스"
+    gender: f
+    notes:
+      en: "die HMI = human-machine interface"
+      ko: "die HMI = 인간-기계 인터페이스"
+  - german: "der Cobot, -s"
+    translation:
+      en: "collaborative robot (cobot)"
+      ko: "협동 로봇 (코봇)"
+    gender: m
+    notes:
+      en: "Robots working safely alongside humans"
+      ko: "인간과 안전하게 함께 작업하는 로봇"
+  - german: "die Prozessoptimierung"
+    translation:
+      en: "process optimization"
+      ko: "공정 최적화"
+    gender: f
+    notes:
+      en: "den Prozess optimieren = to optimize the process"
+      ko: "den Prozess optimieren = 공정을 최적화하다"
+  - german: "der Algorithmus, Algorithmen"
+    translation:
+      en: "algorithm"
+      ko: "알고리즘"
+    gender: m
+    notes:
+      en: "algorithmisch = algorithmic"
+      ko: "algorithmisch = 알고리즘의"
+  - german: "die Vernetzung"
+    translation:
+      en: "networking / interconnection"
+      ko: "네트워킹 / 연결"
+    gender: f
+    notes:
+      en: "die vernetzte Fabrik = smart factory"
+      ko: "die vernetzte Fabrik = 스마트 팩토리"
+  - german: "die Echtzeitdaten (pl.)"
+    translation:
+      en: "real-time data"
+      ko: "실시간 데이터"
+    gender: n
+    notes:
+      en: "in Echtzeit = in real time"
+      ko: "in Echtzeit = 실시간으로"
+  - german: "die Fernwartung"
+    translation:
+      en: "remote maintenance"
+      ko: "원격 유지보수"
+    gender: f
+    notes:
+      en: "die Fernüberwachung = remote monitoring"
+      ko: "die Fernüberwachung = 원격 모니터링"
+  - german: "die vorausschauende Wartung"
+    translation:
+      en: "predictive maintenance"
+      ko: "예측 유지보수"
+    gender: f
+    notes:
+      en: "Predictive Maintenance using sensor data and AI"
+      ko: "센서 데이터와 AI를 활용한 예측 유지보수"
+  - german: "die Effizienzsteigerung, -en"
+    translation:
+      en: "efficiency improvement"
+      ko: "효율성 향상"
+    gender: f
+    notes:
+      en: "die Effizienz steigern = to improve efficiency"
+      ko: "die Effizienz steigern = 효율성을 높이다"
+  - german: "autonom"
+    translation:
+      en: "autonomous"
+      ko: "자율적인"
+    gender: null
+    notes:
+      en: "autonome Systeme = autonomous systems"
+      ko: "autonome Systeme = 자율 시스템"
+  - german: "die Skalierbarkeit"
+    translation:
+      en: "scalability"
+      ko: "확장성"
+    gender: f
+    notes:
+      en: "skalierbar = scalable"
+      ko: "skalierbar = 확장 가능한"
+  - german: "die Industrie 4.0"
+    translation:
+      en: "Industry 4.0"
+      ko: "인더스트리 4.0"
+    gender: f
+    notes:
+      en: "die vierte industrielle Revolution = the fourth industrial revolution"
+      ko: "제4차 산업혁명"
+  - german: "das Internet der Dinge (IoT)"
+    translation:
+      en: "Internet of Things (IoT)"
+      ko: "사물인터넷 (IoT)"
+    gender: n
+    notes:
+      en: "IoT-Geräte = IoT devices"
+      ko: "IoT 기기"
+  - german: "der digitale Zwilling"
+    translation:
+      en: "digital twin"
+      ko: "디지털 트윈"
+    gender: m
+    notes:
+      en: "einen digitalen Zwilling erstellen = to create a digital twin"
+      ko: "디지털 트윈을 생성하다"
+  - german: "die Mensch-Maschine-Schnittstelle, -n"
+    translation:
+      en: "human-machine interface (HMI)"
+      ko: "인간-기계 인터페이스"
+    gender: f
+    notes:
+      en: "die intuitive Mensch-Maschine-Schnittstelle = intuitive HMI"
+      ko: "직관적 인간-기계 인터페이스"
+  - german: "die Predictive Maintenance"
+    translation:
+      en: "predictive maintenance"
+      ko: "예측 정비"
+    gender: f
+    notes:
+      en: "die vorausschauende Wartung = predictive maintenance"
+      ko: "예측 정비"
+  - german: "der Cobot, -s"
+    translation:
+      en: "collaborative robot (cobot)"
+      ko: "협동 로봇 (코봇)"
+    gender: m
+    notes:
+      en: "der kollaborative Roboter = collaborative robot"
+      ko: "협동 로봇"
+  - german: "die Smart Factory"
+    translation:
+      en: "smart factory"
+      ko: "스마트 공장"
+    gender: f
+    notes:
+      en: "die vernetzte Smart Factory = connected smart factory"
+      ko: "연결된 스마트 공장"
+  - german: "die Maschinensteuerung, -en"
+    translation:
+      en: "machine control"
+      ko: "기계 제어"
+    gender: f
+    notes:
+      en: "die numerische Maschinensteuerung = numerical machine control"
+      ko: "수치 기계 제어"
+  - german: "der Greifer, -"
+    translation:
+      en: "gripper (robotic)"
+      ko: "그리퍼"
+    gender: m
+    notes:
+      en: "der Vakuumgreifer = vacuum gripper"
+      ko: "진공 그리퍼"
+  - german: "die Bildverarbeitung"
+    translation:
+      en: "image processing / machine vision"
+      ko: "영상 처리"
+    gender: f
+    notes:
+      en: "die industrielle Bildverarbeitung = industrial machine vision"
+      ko: "산업용 영상 처리"
+  - german: "die Fördertechnik"
+    translation:
+      en: "conveyor technology"
+      ko: "반송 기술"
+    gender: f
+    notes:
+      en: "das Förderband = conveyor belt"
+      ko: "das Förderband = 컨베이어 벨트"
+  - german: "die Prozessautomatisierung"
+    translation:
+      en: "process automation"
+      ko: "공정 자동화"
+    gender: f
+    notes:
+      en: "die vollständige Prozessautomatisierung = full process automation"
+      ko: "완전 공정 자동화"
+  - german: "die Echtzeitüberwachung"
+    translation:
+      en: "real-time monitoring"
+      ko: "실시간 모니터링"
+    gender: f
+    notes:
+      en: "die Echtzeitüberwachung der Produktion = real-time production monitoring"
+      ko: "생산의 실시간 모니터링"
+  - german: "das Automatisierungsniveau"
+    translation:
+      en: "level of automation"
+      ko: "자동화 수준"
+    gender: n
+    notes:
+      en: "ein hohes Automatisierungsniveau = a high level of automation"
+      ko: "높은 자동화 수준"
+  - german: "die Vernetzung"
+    translation:
+      en: "networking / interconnection"
+      ko: "네트워킹 / 연결"
+    gender: f
+    notes:
+      en: "die Vernetzung von Maschinen = networking of machines"
+      ko: "기계의 연결"
+  - german: "der Fertigungsroboter, -"
+    translation:
+      en: "manufacturing robot"
+      ko: "제조 로봇"
+    gender: m
+    notes:
+      en: "der Schweißroboter = welding robot"
+      ko: "용접 로봇"
+  - german: "die Schnittstelle, -n"
+    translation:
+      en: "interface"
+      ko: "인터페이스"
+    gender: f
+    notes:
+      en: "die Datenschnittstelle = data interface"
+      ko: "데이터 인터페이스"
+  - german: "das cyber-physische System, -e"
+    translation:
+      en: "cyber-physical system"
+      ko: "사이버 물리 시스템"
+    gender: n
+    notes:
+      en: "die Interaktion von cyber-physischen Systemen = interaction of cyber-physical systems"
+      ko: "사이버 물리 시스템의 상호작용"
+  - german: "der 3D-Druck"
+    translation:
+      en: "3D printing"
+      ko: "3D 프린팅"
+    gender: m
+    notes:
+      en: "der industrielle 3D-Druck = industrial 3D printing"
+      ko: "산업용 3D 프린팅"
+  - german: "die Losgröße-1-Fertigung"
+    translation:
+      en: "batch-size-one production"
+      ko: "1개 단위 생산"
+    gender: f
+    notes:
+      en: "die individuelle Fertigung in Losgröße 1 = individual manufacturing in batch size 1"
+      ko: "1개 단위의 개별 생산"

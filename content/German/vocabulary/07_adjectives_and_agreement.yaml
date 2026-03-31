@@ -1,0 +1,526 @@
+lesson: 07_Adjectives_and_Agreement
+lesson_number: 7
+cefr: A2
+categories:
+- id: appearance_and_size
+  label:
+    en: Appearance and Size
+    ko: 외모와 크기
+  type: vocabulary
+  words:
+  - german: groß
+    translation:
+      en: big, tall
+      ko: 큰, 키가 큰
+    gender: null
+    plural: null
+  - german: klein
+    translation:
+      en: small
+      ko: 작은
+    gender: null
+    plural: null
+  - german: lang
+    translation:
+      en: long
+      ko: 긴
+    gender: null
+    plural: null
+  - german: kurz
+    translation:
+      en: short
+      ko: 짧은
+    gender: null
+    plural: null
+  - german: breit
+    translation:
+      en: wide
+      ko: 넓은
+    gender: null
+    plural: null
+  - german: schmal
+    translation:
+      en: narrow
+      ko: 좁은
+    gender: null
+    plural: null
+  - german: dünn
+    translation:
+      en: thin
+      ko: 얇은, 마른
+    gender: null
+    plural: null
+  - german: dick
+    translation:
+      en: fat, thick
+      ko: 두꺼운, 뚱뚱한
+    gender: null
+    plural: null
+  - german: hübsch
+    translation:
+      en: pretty
+      ko: 예쁜
+    gender: null
+    plural: null
+  - german: hässlich
+    translation:
+      en: ugly
+      ko: 못생긴
+    gender: null
+    plural: null
+  - german: hell
+    translation:
+      en: bright, light
+      ko: 밝은
+    gender: null
+    plural: null
+  - german: dunkel
+    translation:
+      en: dark
+      ko: 어두운
+    gender: null
+    plural: null
+- id: personality_and_character
+  label:
+    en: Personality and Character
+    ko: 성격과 인성
+  type: vocabulary
+  words:
+  - german: nett
+    translation:
+      en: nice
+      ko: 친절한
+    gender: null
+    plural: null
+  - german: freundlich
+    translation:
+      en: friendly
+      ko: 다정한
+    gender: null
+    plural: null
+  - german: lustig
+    translation:
+      en: funny
+      ko: 재미있는
+    gender: null
+    plural: null
+  - german: ernst
+    translation:
+      en: serious
+      ko: 진지한
+    gender: null
+    plural: null
+  - german: klug
+    translation:
+      en: clever
+      ko: 똑똑한
+    gender: null
+    plural: null
+  - german: dumm
+    translation:
+      en: dumb, stupid
+      ko: 어리석은
+    gender: null
+    plural: null
+  - german: faul
+    translation:
+      en: lazy
+      ko: 게으른
+    gender: null
+    plural: null
+  - german: fleißig
+    translation:
+      en: hardworking
+      ko: 부지런한
+    gender: null
+    plural: null
+  - german: mutig
+    translation:
+      en: brave
+      ko: 용감한
+    gender: null
+    plural: null
+  - german: ehrlich
+    translation:
+      en: honest
+      ko: 정직한
+    gender: null
+    plural: null
+  - german: ruhig
+    translation:
+      en: calm, quiet
+      ko: 조용한, 차분한
+    gender: null
+    plural: null
+  - german: laut
+    translation:
+      en: loud
+      ko: 시끄러운
+    gender: null
+    plural: null
+- id: emotions_and_states
+  label:
+    en: Emotions and States
+    ko: 감정과 상태
+  type: vocabulary
+  words:
+  - german: glücklich
+    translation:
+      en: happy
+      ko: 행복한
+    gender: null
+    plural: null
+  - german: traurig
+    translation:
+      en: sad
+      ko: 슬픈
+    gender: null
+    plural: null
+  - german: wütend
+    translation:
+      en: angry
+      ko: 화난
+    gender: null
+    plural: null
+  - german: nervös
+    translation:
+      en: nervous
+      ko: 긴장한
+    gender: null
+    plural: null
+  - german: zufrieden
+    translation:
+      en: content, satisfied
+      ko: 만족한
+    gender: null
+    plural: null
+  - german: überrascht
+    translation:
+      en: surprised
+      ko: 놀란
+    gender: null
+    plural: null
+  - german: müde
+    translation:
+      en: tired
+      ko: 피곤한
+    gender: null
+    plural: null
+  - german: wach
+    translation:
+      en: awake
+      ko: 깨어 있는
+    gender: null
+    plural: null
+  - german: gesund
+    translation:
+      en: healthy
+      ko: 건강한
+    gender: null
+    plural: null
+  - german: krank
+    translation:
+      en: sick
+      ko: 아픈
+    gender: null
+    plural: null
+  - german: hungrig
+    translation:
+      en: hungry
+      ko: 배고픈
+    gender: null
+    plural: null
+  - german: durstig
+    translation:
+      en: thirsty
+      ko: 목마른
+    gender: null
+    plural: null
+- id: quality_and_evaluation
+  label:
+    en: Quality and Evaluation
+    ko: 품질과 평가
+  type: vocabulary
+  words:
+  - german: gut
+    translation:
+      en: good
+      ko: 좋은
+    gender: null
+    plural: null
+  - german: schlecht
+    translation:
+      en: bad
+      ko: 나쁜
+    gender: null
+    plural: null
+  - german: schön
+    translation:
+      en: beautiful
+      ko: 아름다운
+    gender: null
+    plural: null
+  - german: neu
+    translation:
+      en: new
+      ko: 새로운
+    gender: null
+    plural: null
+  - german: alt
+    translation:
+      en: old
+      ko: 오래된, 나이 든
+    gender: null
+    plural: null
+  - german: wichtig
+    translation:
+      en: important
+      ko: 중요한
+    gender: null
+    plural: null
+  - german: teuer
+    translation:
+      en: expensive
+      ko: 비싼
+    gender: null
+    plural: null
+  - german: billig
+    translation:
+      en: cheap
+      ko: 싼
+    gender: null
+    plural: null
+  - german: einfach
+    translation:
+      en: easy, simple
+      ko: 쉬운, 간단한
+    gender: null
+    plural: null
+  - german: schwer
+    translation:
+      en: hard, heavy
+      ko: 어려운, 무거운
+    gender: null
+    plural: null
+  - german: leicht
+    translation:
+      en: easy, light
+      ko: 쉬운, 가벼운
+    gender: null
+    plural: null
+  - german: möglich
+    translation:
+      en: possible
+      ko: 가능한
+    gender: null
+    plural: null
+- id: colors
+  label:
+    en: Colors
+    ko: 색상
+  type: vocabulary
+  words:
+  - german: rot
+    translation:
+      en: red
+      ko: 빨간
+    gender: null
+    plural: null
+  - german: blau
+    translation:
+      en: blue
+      ko: 파란
+    gender: null
+    plural: null
+  - german: grün
+    translation:
+      en: green
+      ko: 초록색의
+    gender: null
+    plural: null
+  - german: gelb
+    translation:
+      en: yellow
+      ko: 노란
+    gender: null
+    plural: null
+  - german: schwarz
+    translation:
+      en: black
+      ko: 검은
+    gender: null
+    plural: null
+  - german: weiß
+    translation:
+      en: white
+      ko: 흰
+    gender: null
+    plural: null
+  - german: grau
+    translation:
+      en: gray
+      ko: 회색의
+    gender: null
+    plural: null
+  - german: braun
+    translation:
+      en: brown
+      ko: 갈색의
+    gender: null
+    plural: null
+  - german: rosa
+    translation:
+      en: pink
+      ko: 분홍색의
+    gender: null
+    plural: null
+  - german: orange
+    translation:
+      en: orange
+      ko: 주황색의
+    gender: null
+    plural: null
+  - german: lila
+    translation:
+      en: purple
+      ko: 보라색의
+    gender: null
+    plural: null
+- id: comparative_superlative
+  label:
+    en: Comparative and Superlative (Irregular Forms)
+    ko: 비교급과 최상급 (불규칙형)
+  type: vocabulary
+  words:
+  - german: gut / besser / am besten
+    translation:
+      en: good / better / best
+      ko: 좋은 / 더 좋은 / 가장 좋은
+    gender: null
+    plural: null
+  - german: viel / mehr / am meisten
+    translation:
+      en: much / more / most
+      ko: 많은 / 더 많은 / 가장 많은
+    gender: null
+    plural: null
+  - german: gern / lieber / am liebsten
+    translation:
+      en: gladly / rather / most gladly
+      ko: 기꺼이 / 차라리 / 가장 기꺼이
+    gender: null
+    plural: null
+  - german: hoch / höher / am höchsten
+    translation:
+      en: high / higher / highest
+      ko: 높은 / 더 높은 / 가장 높은
+    gender: null
+    plural: null
+  - german: nah / näher / am nächsten
+    translation:
+      en: near / nearer / nearest
+      ko: 가까운 / 더 가까운 / 가장 가까운
+    gender: null
+    plural: null
+  - german: groß / größer / am größten
+    translation:
+      en: big / bigger / biggest
+      ko: 큰 / 더 큰 / 가장 큰
+    gender: null
+    plural: null
+  - german: alt / älter / am ältesten
+    translation:
+      en: old / older / oldest
+      ko: 나이 든 / 더 나이 든 / 가장 나이 든
+    gender: null
+    plural: null
+- id: temperature_and_texture
+  label:
+    en: Temperature and Texture
+    ko: 온도와 질감
+  type: vocabulary
+  words:
+  - german: kalt
+    translation:
+      en: cold
+      ko: 차가운
+    gender: null
+    plural: null
+  - german: warm
+    translation:
+      en: warm
+      ko: 따뜻한
+    gender: null
+    plural: null
+  - german: heiß
+    translation:
+      en: hot
+      ko: 뜨거운
+    gender: null
+    plural: null
+  - german: kühl
+    translation:
+      en: cool
+      ko: 시원한, 서늘한
+    gender: null
+    plural: null
+  - german: weich
+    translation:
+      en: soft
+      ko: 부드러운
+    gender: null
+    plural: null
+  - german: hart
+    translation:
+      en: hard
+      ko: 단단한
+    gender: null
+    plural: null
+  - german: nass
+    translation:
+      en: wet
+      ko: 젖은
+    gender: null
+    plural: null
+  - german: trocken
+    translation:
+      en: dry
+      ko: 마른, 건조한
+    gender: null
+    plural: null
+  - german: glatt
+    translation:
+      en: smooth, slippery
+      ko: 매끄러운, 미끄러운
+    gender: null
+    plural: null
+  - german: rau
+    translation:
+      en: rough
+      ko: 거친
+    gender: null
+    plural: null
+  - german: frisch
+    translation:
+      en: fresh
+      ko: 신선한
+    gender: null
+    plural: null
+  - german: schnell
+    translation:
+      en: fast, quick
+      ko: 빠른
+    gender: null
+    plural: null
+  - german: langsam
+    translation:
+      en: slow
+      ko: 느린
+    gender: null
+    plural: null
+  - german: stark
+    translation:
+      en: strong
+      ko: 강한
+    gender: null
+    plural: null

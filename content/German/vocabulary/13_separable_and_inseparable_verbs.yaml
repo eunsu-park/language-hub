@@ -1,0 +1,668 @@
+lesson: 13_Separable_and_Inseparable_Verbs
+lesson_number: 13
+cefr: B1
+categories:
+- id: common_separable_verbs
+  label:
+    en: Common Separable Verbs
+    ko: 주요 분리 동사
+  type: vocabulary
+  words:
+  - german: aufstehen
+    translation:
+      en: to get up, to stand up
+      ko: 일어나다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Ich stehe um 7 Uhr auf. Partizip II: aufgestanden"
+  - german: ankommen
+    translation:
+      en: to arrive
+      ko: 도착하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: an-. Der Zug kommt um 9 an. Partizip II: angekommen"
+  - german: anfangen
+    translation:
+      en: to begin, to start
+      ko: 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: an-. Der Film faengt um 8 an. Partizip II: angefangen"
+  - german: aufhoeren
+    translation:
+      en: to stop, to cease
+      ko: 그만두다, 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Hoer auf zu reden! Partizip II: aufgehoert"
+  - german: aufmachen
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Mach bitte das Fenster auf. Partizip II: aufgemacht"
+  - german: zumachen
+    translation:
+      en: to close
+      ko: 닫다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: zu-. Mach die Tuer zu! Partizip II: zugemacht"
+  - german: einkaufen
+    translation:
+      en: to shop, to buy
+      ko: 장보다, 구매하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ein-. Wir kaufen im Supermarkt ein. Partizip II: eingekauft"
+  - german: einladen
+    translation:
+      en: to invite
+      ko: 초대하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ein-. Ich lade dich zum Essen ein. Partizip II: eingeladen"
+  - german: anrufen
+    translation:
+      en: to call (phone)
+      ko: 전화하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: an-. Ruf mich morgen an! Partizip II: angerufen"
+  - german: ausgehen
+    translation:
+      en: to go out
+      ko: 외출하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: aus-. Wir gehen heute Abend aus. Partizip II: ausgegangen"
+  - german: zurueckkommen
+    translation:
+      en: to come back, to return
+      ko: 돌아오다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: zurueck-. Wann kommst du zurueck? Partizip II: zurueckgekommen"
+  - german: mitkommen
+    translation:
+      en: to come along
+      ko: 함께 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: mit-. Kommst du mit? Partizip II: mitgekommen"
+  - german: vorstellen
+    translation:
+      en: to introduce (sich vorstellen)
+      ko: 소개하다 (자기소개)
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: vor-. Ich stelle mich vor. Partizip II: vorgestellt"
+  - german: fernsehen
+    translation:
+      en: to watch TV
+      ko: TV를 보다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: fern-. Die Kinder sehen abends fern. Partizip II: ferngesehen"
+  - german: nachdenken
+    translation:
+      en: to think about, to reflect
+      ko: 곰곰이 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: nach-. Denk darueber nach! Partizip II: nachgedacht"
+  - german: abfahren
+    translation:
+      en: to depart, to leave
+      ko: 출발하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ab-. Der Zug faehrt um 8 ab. Partizip II: abgefahren"
+  - german: abholen
+    translation:
+      en: to pick up (a person)
+      ko: 데리러 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ab-. Ich hole dich am Bahnhof ab. Partizip II: abgeholt"
+  - german: aufraumen
+    translation:
+      en: to tidy up, to clean up
+      ko: 정리하다, 치우다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Raeum dein Zimmer auf! Partizip II: aufgeraeumt"
+  - german: aufpassen
+    translation:
+      en: to pay attention, to watch out
+      ko: 주의하다, 조심하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Pass auf! Partizip II: aufgepasst"
+  - german: aufwachen
+    translation:
+      en: to wake up
+      ko: 깨어나다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: auf-. Ich wache um 6 Uhr auf. Partizip II: aufgewacht"
+  - german: ausfuellen
+    translation:
+      en: to fill out (a form)
+      ko: (양식을) 작성하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: aus-. Fuellen Sie das Formular aus! Partizip II: ausgefuellt"
+  - german: aussehen
+    translation:
+      en: to look, to appear
+      ko: ~처럼 보이다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: aus-. Du siehst muede aus. Partizip II: ausgesehen"
+  - german: einsteigen
+    translation:
+      en: to get on, to board
+      ko: 탑승하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ein-. Steigen Sie bitte ein! Partizip II: eingestiegen"
+  - german: aussteigen
+    translation:
+      en: to get off, to alight
+      ko: 내리다, 하차하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: aus-. Wir steigen an der naechsten Haltestelle aus. Partizip II: ausgestiegen"
+  - german: umsteigen
+    translation:
+      en: to transfer, to change (transport)
+      ko: 갈아타다, 환승하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: um-. Sie muessen in Frankfurt umsteigen. Partizip II: umgestiegen"
+  - german: zuschauen
+    translation:
+      en: to watch, to look on
+      ko: 구경하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: zu-. Die Kinder schauen zu. Partizip II: zugeschaut"
+  - german: weitergehen
+    translation:
+      en: to continue, to go on
+      ko: 계속 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: weiter-. Gehen Sie bitte weiter! Partizip II: weitergegangen"
+  - german: herausfinden
+    translation:
+      en: to find out, to discover
+      ko: 알아내다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: heraus-. Ich muss die Wahrheit herausfinden. Partizip II: herausgefunden"
+  - german: vorbereiten
+    translation:
+      en: to prepare
+      ko: 준비하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: vor-. Ich bereite das Essen vor. Partizip II: vorbereitet"
+  - german: stattfinden
+    translation:
+      en: to take place
+      ko: 개최되다, 열리다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: statt-. Das Konzert findet morgen statt. Partizip II: stattgefunden"
+  - german: teilnehmen
+    translation:
+      en: to participate
+      ko: 참가하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: teil-. Ich nehme am Kurs teil. Partizip II: teilgenommen"
+- id: common_inseparable_verbs
+  label:
+    en: Common Inseparable Verbs
+    ko: 주요 비분리 동사
+  type: vocabulary
+  words:
+  - german: verstehen
+    translation:
+      en: to understand
+      ko: 이해하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. No ge- in Partizip II: verstanden"
+  - german: vergessen
+    translation:
+      en: to forget
+      ko: 잊다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. Partizip II: vergessen (no ge-)"
+  - german: verkaufen
+    translation:
+      en: to sell
+      ko: 팔다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. Partizip II: verkauft (no ge-)"
+  - german: bekommen
+    translation:
+      en: to receive, to get
+      ko: 받다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: be-. False friend! Not 'become'. Partizip II: bekommen"
+  - german: besuchen
+    translation:
+      en: to visit
+      ko: 방문하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: be-. Partizip II: besucht (no ge-)"
+  - german: bezahlen
+    translation:
+      en: to pay
+      ko: 지불하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: be-. Wer bezahlt die Rechnung? Partizip II: bezahlt"
+  - german: beginnen
+    translation:
+      en: to begin
+      ko: 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: be-. Partizip II: begonnen (no ge-)"
+  - german: erzaehlen
+    translation:
+      en: to tell, to narrate
+      ko: 이야기하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: er-. Partizip II: erzaehlt (no ge-)"
+  - german: erklaeren
+    translation:
+      en: to explain
+      ko: 설명하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: er-. Partizip II: erklaert (no ge-)"
+  - german: empfehlen
+    translation:
+      en: to recommend
+      ko: 추천하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: emp-. Partizip II: empfohlen (no ge-)"
+  - german: entdecken
+    translation:
+      en: to discover
+      ko: 발견하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ent-. Partizip II: entdeckt (no ge-)"
+  - german: zerstoeren
+    translation:
+      en: to destroy
+      ko: 파괴하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: zer-. Partizip II: zerstoert (no ge-)"
+  - german: gefallen
+    translation:
+      en: to please, to like
+      ko: 마음에 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ge-. Inseparable. Das gefaellt mir. Partizip II: gefallen (no additional ge-)"
+  - german: gehören
+    translation:
+      en: to belong to
+      ko: ~에 속하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ge-. Inseparable. Das gehoert mir. Partizip II: gehoert"
+  - german: missbrauchen
+    translation:
+      en: to misuse, to abuse
+      ko: 남용하다, 오용하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: miss-. Inseparable. Partizip II: missbraucht (no ge-)"
+  - german: missverstehen
+    translation:
+      en: to misunderstand
+      ko: 오해하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: miss-. Inseparable. Partizip II: missverstanden (no ge-)"
+  - german: versuchen
+    translation:
+      en: to try, to attempt
+      ko: 시도하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. Partizip II: versucht (no ge-)"
+  - german: versprechen
+    translation:
+      en: to promise
+      ko: 약속하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. Partizip II: versprochen (no ge-)"
+  - german: verlassen
+    translation:
+      en: to leave, to abandon
+      ko: 떠나다, 버리다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ver-. Partizip II: verlassen (no ge-)"
+  - german: beschreiben
+    translation:
+      en: to describe
+      ko: 묘사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: be-. Partizip II: beschrieben (no ge-)"
+  - german: entscheiden
+    translation:
+      en: to decide
+      ko: 결정하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: ent-. Partizip II: entschieden (no ge-)"
+  - german: erlauben
+    translation:
+      en: to allow, to permit
+      ko: 허락하다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: er-. Partizip II: erlaubt (no ge-)"
+  - german: erfahren
+    translation:
+      en: to experience, to learn about
+      ko: 경험하다, 알게 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Prefix: er-. Partizip II: erfahren (no ge-)"
+- id: dual_prefix_verbs
+  label:
+    en: Dual-Prefix Verbs (Separable or Inseparable)
+    ko: 이중 접두사 동사 (분리/비분리)
+  type: vocabulary
+  words:
+  - german: "uebersetzen (separable)"
+    translation:
+      en: to ferry across (literal)
+      ko: 건너편으로 데려다주다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable (literal): Das Boot setzt ueber. Partizip II: uebergesetzt"
+  - german: "uebersetzen (inseparable)"
+    translation:
+      en: to translate (figurative)
+      ko: 번역하다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable (figurative): Er uebersetzt den Text. Partizip II: uebersetzt"
+  - german: umziehen (separable)
+    translation:
+      en: to change clothes; to move (house)
+      ko: 옷을 갈아입다; 이사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable: Ich ziehe mich um. Partizip II: umgezogen"
+  - german: unterschreiben (inseparable)
+    translation:
+      en: to sign (a document)
+      ko: 서명하다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable (figurative): Partizip II: unterschrieben (no ge-)"
+  - german: wiederholen (inseparable)
+    translation:
+      en: to repeat
+      ko: 반복하다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable (figurative): Sie wiederholt die Lektion. Partizip II: wiederholt"
+  - german: wiederkommen (separable)
+    translation:
+      en: to come back
+      ko: 다시 오다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable (literal): Er kommt morgen wieder. Partizip II: wiedergekommen"
+  - german: "durchfahren (separable)"
+    translation:
+      en: to drive through (without stopping)
+      ko: 그냥 지나가다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable (literal): Der Zug faehrt durch. Partizip II: durchgefahren"
+  - german: "durchfahren (inseparable)"
+    translation:
+      en: to traverse, to cross
+      ko: 횡단하다, 관통하다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable (figurative): Er durchfaehrt das Land. Partizip II: durchfahren"
+  - german: "umfahren (separable)"
+    translation:
+      en: to drive around, to make a detour
+      ko: 우회하다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable (literal): Er faehrt die Baustelle um. Partizip II: umgefahren"
+  - german: "umfahren (inseparable)"
+    translation:
+      en: to run over, to knock down
+      ko: 치다, 들이받다
+    gender: null
+    plural: null
+    notes:
+      en: "Inseparable: Er umfaehrt den Zaun. Partizip II: umfahren"
+- id: ieren_verbs
+  label:
+    en: Verbs Ending in -ieren (No ge- in Partizip II)
+    ko: -ieren으로 끝나는 동사 (과거분사에 ge- 없음)
+  type: vocabulary
+  words:
+  - german: studieren
+    translation:
+      en: to study (at university)
+      ko: (대학에서) 공부하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: studiert. Er hat Medizin studiert."
+  - german: telefonieren
+    translation:
+      en: to telephone
+      ko: 전화하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: telefoniert. Sie hat lange telefoniert."
+  - german: reparieren
+    translation:
+      en: to repair
+      ko: 수리하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: repariert. Der Mechaniker hat das Auto repariert."
+  - german: funktionieren
+    translation:
+      en: to function, to work
+      ko: 작동하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: funktioniert. Das Geraet hat nicht funktioniert."
+  - german: interessieren
+    translation:
+      en: to interest
+      ko: 흥미를 끌다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: interessiert. Mich hat das Thema interessiert."
+  - german: organisieren
+    translation:
+      en: to organize
+      ko: 조직하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: organisiert. Sie hat die Konferenz organisiert."
+  - german: kontrollieren
+    translation:
+      en: to check, to control
+      ko: 검사하다, 통제하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: kontrolliert."
+  - german: informieren
+    translation:
+      en: to inform
+      ko: 알리다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: informiert. Ich habe mich informiert."
+  - german: diskutieren
+    translation:
+      en: to discuss
+      ko: 토론하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: diskutiert. Wir haben darueber diskutiert."
+  - german: reservieren
+    translation:
+      en: to reserve
+      ko: 예약하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: reserviert. Ich habe einen Tisch reserviert."
+  - german: korrigieren
+    translation:
+      en: to correct
+      ko: 교정하다, 수정하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: korrigiert. Der Lehrer hat die Tests korrigiert."
+  - german: trainieren
+    translation:
+      en: to train, to practice
+      ko: 훈련하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: trainiert. Sie hat fuer den Marathon trainiert."
+  - german: reagieren
+    translation:
+      en: to react
+      ko: 반응하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: reagiert. Er hat schnell reagiert."
+  - german: orientieren
+    translation:
+      en: to orient, to guide
+      ko: 방향을 잡다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Reflexive: sich orientieren. Partizip II: orientiert."
+  - german: protestieren
+    translation:
+      en: to protest
+      ko: 항의하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: protestiert. Die Buerger haben protestiert."
+  - german: garantieren
+    translation:
+      en: to guarantee
+      ko: 보장하다
+    gender: null
+    plural: null
+    notes:
+      en: "No ge- prefix. Partizip II: garantiert. Wir garantieren die Qualitaet."

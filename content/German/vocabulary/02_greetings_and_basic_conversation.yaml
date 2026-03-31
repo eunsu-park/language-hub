@@ -1,0 +1,665 @@
+lesson: 02_Greetings_and_Basic_Conversation
+lesson_number: 2
+cefr: A1
+categories:
+- id: 21_informal_greetings
+  label:
+    en: 2.1 Informal Greetings
+    ko: 2.1 비격식 인사
+  type: vocabulary
+  words:
+  - german: Hallo
+    translation:
+      en: Hello / Hi
+      ko: 안녕 / 안녕하세요
+    gender: null
+    plural: null
+    notes:
+      en: Universal informal greeting
+      ko: 보편적 비격식 인사
+  - german: Hi
+    translation:
+      en: Hi
+      ko: 안녕
+    gender: null
+    plural: null
+    notes:
+      en: Very casual, borrowed from English
+      ko: 매우 가벼운, 영어 차용
+  - german: Hey
+    translation:
+      en: Hey
+      ko: 야 / 안녕
+    gender: null
+    plural: null
+    notes:
+      en: Very casual
+      ko: 매우 가벼운 표현
+  - german: Na?
+    translation:
+      en: Hey? / Well?
+      ko: 어때? / 뭐해?
+    gender: null
+    plural: null
+    notes:
+      en: Very casual, expects a response
+      ko: 매우 가벼운, 대답을 기대하는 표현
+  - german: Na, wie geht's?
+    translation:
+      en: Hey, how's it going?
+      ko: 어떻게 지내?
+    gender: null
+    plural: null
+    notes:
+      en: Common casual opener
+      ko: 흔한 가벼운 인사
+  - german: Was geht?
+    translation:
+      en: What's up?
+      ko: 뭐해? / 무슨 일이야?
+    gender: null
+    plural: null
+    notes:
+      en: Youth slang
+      ko: 청소년 슬랭
+
+- id: 22_formal_greetings
+  label:
+    en: 2.2 Formal Greetings by Time of Day
+    ko: 2.2 시간대별 격식 인사
+  type: vocabulary
+  words:
+  - german: Guten Morgen
+    translation:
+      en: Good morning
+      ko: 좋은 아침이에요
+    gender: null
+    plural: null
+    notes:
+      en: Until ~10-11 AM
+      ko: 오전 10-11시까지
+  - german: Guten Tag
+    translation:
+      en: Good day / Hello
+      ko: 안녕하세요 (낮 인사)
+    gender: null
+    plural: null
+    notes:
+      en: All day, default formal greeting
+      ko: 하루 종일, 기본 격식 인사
+  - german: Guten Abend
+    translation:
+      en: Good evening
+      ko: 안녕하세요 (저녁 인사)
+    gender: null
+    plural: null
+    notes:
+      en: From ~6 PM
+      ko: 오후 6시부터
+  - german: Gute Nacht
+    translation:
+      en: Good night
+      ko: 안녕히 주무세요
+    gender: null
+    plural: null
+    notes:
+      en: Only when going to bed
+      ko: 잠자리에 들 때만 사용
+
+- id: 23_farewells
+  label:
+    en: 2.3 Farewells
+    ko: 2.3 작별 인사
+  type: vocabulary
+  words:
+  - german: Auf Wiedersehen
+    translation:
+      en: Goodbye
+      ko: 안녕히 가세요 / 안녕히 계세요
+    gender: null
+    plural: null
+    notes:
+      en: "Formal; lit. \"until seeing again\""
+      ko: 격식; 직역 "다시 만날 때까지"
+  - german: Auf Wiederhören
+    translation:
+      en: Goodbye (on phone)
+      ko: 안녕히 계세요 (전화)
+    gender: null
+    plural: null
+    notes:
+      en: "Formal, phone only; lit. \"until hearing again\""
+      ko: 격식, 전화 전용; 직역 "다시 들을 때까지"
+  - german: Tschüss
+    translation:
+      en: Bye
+      ko: 잘 가 / 안녕
+    gender: null
+    plural: null
+    notes:
+      en: Informal, very common
+      ko: 비격식, 매우 흔함
+  - german: Bis bald
+    translation:
+      en: See you soon
+      ko: 곧 봐
+    gender: null
+    plural: null
+    notes:
+      en: Neutral
+      ko: 중립적
+  - german: Bis später
+    translation:
+      en: See you later
+      ko: 나중에 봐
+    gender: null
+    plural: null
+    notes:
+      en: Neutral
+      ko: 중립적
+  - german: Bis morgen
+    translation:
+      en: See you tomorrow
+      ko: 내일 봐
+    gender: null
+    plural: null
+    notes:
+      en: Neutral
+      ko: 중립적
+  - german: Mach's gut
+    translation:
+      en: Take care
+      ko: 잘 지내
+    gender: null
+    plural: null
+    notes:
+      en: "Informal; lit. \"do it well\""
+      ko: 비격식; 직역 "잘 해"
+  - german: Schönen Tag noch
+    translation:
+      en: Have a nice day
+      ko: 좋은 하루 보내세요
+    gender: null
+    plural: null
+    notes:
+      en: Polite, common
+      ko: 공손한, 흔한 표현
+
+- id: 24_self_introduction
+  label:
+    en: 2.4 Self-Introduction Phrases
+    ko: 2.4 자기소개 표현
+  type: vocabulary
+  words:
+  - german: Ich bin ...
+    translation:
+      en: I am ...
+      ko: 저는 ...입니다
+    gender: null
+    plural: null
+    notes:
+      en: Informal way to introduce yourself
+      ko: 비격식 자기소개
+  - german: Ich heiße ...
+    translation:
+      en: I am called ... / My name is ...
+      ko: 제 이름은 ...입니다
+    gender: null
+    plural: null
+    notes:
+      en: Standard introduction
+      ko: 표준 자기소개
+  - german: Mein Name ist ...
+    translation:
+      en: My name is ...
+      ko: 제 이름은 ...입니다
+    gender: null
+    plural: null
+    notes:
+      en: Formal introduction
+      ko: 격식 자기소개
+  - german: Freut mich!
+    translation:
+      en: Pleased to meet you!
+      ko: 만나서 반갑습니다!
+    gender: null
+    plural: null
+    notes:
+      en: Standard response when meeting someone
+      ko: 만남의 표준 인사
+  - german: Ich komme aus ...
+    translation:
+      en: I come from ...
+      ko: 저는 ...에서 왔습니다
+    gender: null
+    plural: null
+    notes:
+      en: Stating origin
+      ko: 출신지 말하기
+  - german: Ich wohne in ...
+    translation:
+      en: I live in ...
+      ko: 저는 ...에 삽니다
+    gender: null
+    plural: null
+    notes:
+      en: Stating where you live
+      ko: 거주지 말하기
+  - german: Ich bin ... Jahre alt
+    translation:
+      en: I am ... years old
+      ko: 저는 ...살입니다
+    gender: null
+    plural: null
+  - german: Ich spreche ...
+    translation:
+      en: I speak ...
+      ko: 저는 ...를 합니다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich spreche Deutsch und Englisch."
+      ko: "저는 독일어와 영어를 합니다."
+  - german: Ich arbeite als ...
+    translation:
+      en: I work as ...
+      ko: 저는 ...로 일합니다
+    gender: null
+    plural: null
+    notes:
+      en: Stating profession
+      ko: 직업 말하기
+  - german: Sehr erfreut!
+    translation:
+      en: Very pleased (to meet you)!
+      ko: 매우 반갑습니다!
+    gender: null
+    plural: null
+    notes:
+      en: More formal than "Freut mich"
+      ko: '"Freut mich"보다 더 격식적'
+  - german: Gleichfalls!
+    translation:
+      en: Likewise!
+      ko: 저도요!
+    gender: null
+    plural: null
+
+- id: 25_basic_questions
+  label:
+    en: 2.5 Basic Questions
+    ko: 2.5 기본 질문
+  type: vocabulary
+  words:
+  - german: Wie heißen Sie?
+    translation:
+      en: What is your name? (formal)
+      ko: 성함이 어떻게 되십니까? (격식)
+    gender: null
+    plural: null
+  - german: Wie heißt du?
+    translation:
+      en: What is your name? (informal)
+      ko: 이름이 뭐야? (비격식)
+    gender: null
+    plural: null
+  - german: Woher kommen Sie?
+    translation:
+      en: Where do you come from? (formal)
+      ko: 어디에서 오셨습니까? (격식)
+    gender: null
+    plural: null
+  - german: Wie geht es Ihnen?
+    translation:
+      en: How are you? (formal)
+      ko: 어떻게 지내세요? (격식)
+    gender: null
+    plural: null
+  - german: Wie geht's?
+    translation:
+      en: How's it going?
+      ko: 어떻게 지내?
+    gender: null
+    plural: null
+    notes:
+      en: Informal, shortened form
+      ko: 비격식, 축약형
+  - german: Wie alt bist du?
+    translation:
+      en: How old are you? (informal)
+      ko: 몇 살이야? (비격식)
+    gender: null
+    plural: null
+  - german: Wie alt sind Sie?
+    translation:
+      en: How old are you? (formal)
+      ko: 연세가 어떻게 되세요? (격식)
+    gender: null
+    plural: null
+  - german: Was machen Sie beruflich?
+    translation:
+      en: What do you do for a living? (formal)
+      ko: 직업이 무엇이신가요? (격식)
+    gender: null
+    plural: null
+  - german: Was bist du von Beruf?
+    translation:
+      en: What is your profession? (informal)
+      ko: 직업이 뭐야? (비격식)
+    gender: null
+    plural: null
+  - german: Welche Sprachen sprechen Sie?
+    translation:
+      en: What languages do you speak? (formal)
+      ko: 어떤 언어를 하시나요? (격식)
+    gender: null
+    plural: null
+
+- id: 26_useful_everyday_phrases
+  label:
+    en: 2.6 Useful Everyday Phrases
+    ko: 2.6 유용한 일상 표현
+  type: vocabulary
+  words:
+  - german: Ja
+    translation:
+      en: Yes
+      ko: 네
+    gender: null
+    plural: null
+  - german: Nein
+    translation:
+      en: No
+      ko: 아니요
+    gender: null
+    plural: null
+  - german: Bitte
+    translation:
+      en: Please / You're welcome
+      ko: 부탁합니다 / 천만에요
+    gender: null
+    plural: null
+    notes:
+      en: Used both for requests and as response to "Danke"
+      ko: 요청 시와 "감사합니다"에 대한 응답 모두에 사용
+  - german: Danke
+    translation:
+      en: Thank you
+      ko: 감사합니다
+    gender: null
+    plural: null
+  - german: Danke schön
+    translation:
+      en: Thank you very much
+      ko: 대단히 감사합니다
+    gender: null
+    plural: null
+  - german: Entschuldigung
+    translation:
+      en: Excuse me / I'm sorry
+      ko: 실례합니다 / 죄송합니다
+    gender: null
+    plural: null
+    notes:
+      en: Getting attention or minor apology
+      ko: 주의를 끌거나 가벼운 사과
+  - german: Es tut mir leid
+    translation:
+      en: I'm sorry
+      ko: 죄송합니다
+    gender: null
+    plural: null
+    notes:
+      en: Expressing genuine regret
+      ko: 진심 어린 사과
+  - german: Ich verstehe nicht
+    translation:
+      en: I don't understand
+      ko: 이해하지 못합니다
+    gender: null
+    plural: null
+  - german: Langsamer, bitte
+    translation:
+      en: Slower, please
+      ko: 더 천천히 말해주세요
+    gender: null
+    plural: null
+  - german: Sprechen Sie Englisch?
+    translation:
+      en: Do you speak English?
+      ko: 영어 하세요?
+    gender: null
+    plural: null
+    notes:
+      en: Formal
+      ko: 격식
+  - german: Ich spreche ein bisschen Deutsch
+    translation:
+      en: I speak a little German
+      ko: 독일어를 조금 합니다
+    gender: null
+    plural: null
+  - german: Wie bitte?
+    translation:
+      en: Pardon? / Could you repeat that?
+      ko: 네? / 다시 말씀해 주시겠어요?
+    gender: null
+    plural: null
+    notes:
+      en: Polite way to ask someone to repeat
+      ko: 정중하게 다시 말해달라고 요청하는 표현
+  - german: Kein Problem
+    translation:
+      en: No problem
+      ko: 문제없어요
+    gender: null
+    plural: null
+  - german: Natürlich
+    translation:
+      en: Of course / Naturally
+      ko: 물론이죠
+    gender: null
+    plural: null
+  - german: Genau
+    translation:
+      en: Exactly / Precisely
+      ko: 정확히 / 맞아요
+    gender: null
+    plural: null
+    notes:
+      en: Very commonly used as agreement filler
+      ko: 동의의 표현으로 매우 흔하게 사용
+  - german: Alles klar
+    translation:
+      en: All clear / Got it
+      ko: 알겠어요 / 다 됐어요
+    gender: null
+    plural: null
+  - german: Was bedeutet das?
+    translation:
+      en: What does that mean?
+      ko: 그것은 무슨 뜻이에요?
+    gender: null
+    plural: null
+  - german: Können Sie mir helfen?
+    translation:
+      en: Can you help me? (formal)
+      ko: 도와주시겠어요? (격식)
+    gender: null
+    plural: null
+  - german: Vielen Dank
+    translation:
+      en: Many thanks / Thank you very much
+      ko: 대단히 감사합니다
+    gender: null
+    plural: null
+  - german: Herzlich willkommen!
+    translation:
+      en: Welcome! (hearty)
+      ko: 환영합니다!
+    gender: null
+    plural: null
+    notes:
+      en: Used to warmly greet guests or visitors
+      ko: 손님이나 방문객을 따뜻하게 맞이할 때 사용
+  - german: Viel Spaß!
+    translation:
+      en: Have fun!
+      ko: 재미있게 보내!
+    gender: null
+    plural: null
+  - german: Viel Glück!
+    translation:
+      en: Good luck!
+      ko: 행운을 빌어!
+    gender: null
+    plural: null
+  - german: Alles Gute!
+    translation:
+      en: All the best!
+      ko: 모든 것이 잘 되길!
+    gender: null
+    plural: null
+    notes:
+      en: Used for birthdays or farewells
+      ko: 생일이나 작별에 사용
+  - german: Gern geschehen
+    translation:
+      en: You're welcome / My pleasure
+      ko: 천만에요
+    gender: null
+    plural: null
+    notes:
+      en: Polite response to "Danke"
+      ko: '"Danke"에 대한 정중한 응답'
+  - german: Keine Ursache
+    translation:
+      en: No cause (for thanks) / Don't mention it
+      ko: 별말씀을요
+    gender: null
+    plural: null
+
+- id: 27_regional_greetings
+  label:
+    en: 2.7 Regional Greetings
+    ko: 2.7 지역별 인사
+  type: vocabulary
+  words:
+  - german: Moin!
+    translation:
+      en: Hello! (any time of day)
+      ko: 안녕! (하루 중 아무 때나)
+    gender: null
+    plural: null
+    notes:
+      en: Northern Germany
+      ko: 북부 독일
+  - german: Grüß Gott!
+    translation:
+      en: Hello! (lit. "God greet you")
+      ko: 안녕하세요! (직역 "신이 인사하시길")
+    gender: null
+    plural: null
+    notes:
+      en: Southern Germany and Austria
+      ko: 남부 독일 및 오스트리아
+  - german: Servus!
+    translation:
+      en: Hello / Goodbye
+      ko: 안녕 / 잘 가
+    gender: null
+    plural: null
+    notes:
+      en: Southern Germany and Austria; both greeting and farewell
+      ko: 남부 독일 및 오스트리아; 인사와 작별 모두 사용
+  - german: Grüezi!
+    translation:
+      en: Hello! (Swiss German)
+      ko: 안녕하세요! (스위스 독일어)
+    gender: null
+    plural: null
+    notes:
+      en: Switzerland, standard greeting
+      ko: 스위스, 표준 인사
+  - german: Tschau!
+    translation:
+      en: Ciao! / Bye!
+      ko: 챠오! / 안녕!
+    gender: null
+    plural: null
+    notes:
+      en: Southern Germany and Switzerland; from Italian "ciao"
+      ko: 남부 독일 및 스위스; 이탈리아어 "ciao"에서 유래
+
+- id: 28_responses_to_how_are_you
+  label:
+    en: 2.8 Responses to "How Are You?"
+    ko: 2.8 "어떻게 지내?" 에 대한 응답
+  type: vocabulary
+  words:
+  - german: Mir geht es gut
+    translation:
+      en: I'm doing well
+      ko: 잘 지내요
+    gender: null
+    plural: null
+  - german: Mir geht es schlecht
+    translation:
+      en: I'm not doing well
+      ko: 안 좋아요
+    gender: null
+    plural: null
+  - german: Es geht so
+    translation:
+      en: So-so / It's okay
+      ko: 그럭저럭이에요
+    gender: null
+    plural: null
+  - german: Nicht schlecht
+    translation:
+      en: Not bad
+      ko: 나쁘지 않아요
+    gender: null
+    plural: null
+  - german: Sehr gut, danke
+    translation:
+      en: Very well, thank you
+      ko: 아주 잘 지내요, 감사합니다
+    gender: null
+    plural: null
+  - german: Und Ihnen?
+    translation:
+      en: And you? (formal)
+      ko: 당신은요? (격식)
+    gender: null
+    plural: null
+  - german: Und dir?
+    translation:
+      en: And you? (informal)
+      ko: 너는? (비격식)
+    gender: null
+    plural: null
+  - german: Super!
+    translation:
+      en: Great! / Super!
+      ko: 아주 좋아요!
+    gender: null
+    plural: null
+  - german: Wunderbar!
+    translation:
+      en: Wonderful!
+      ko: 훌륭해요!
+    gender: null
+    plural: null
+  - german: Ich bin zufrieden
+    translation:
+      en: I am content / satisfied
+      ko: 만족해요
+    gender: null
+    plural: null
+  - german: Könnte besser sein
+    translation:
+      en: Could be better
+      ko: 더 나을 수도 있어요
+    gender: null
+    plural: null

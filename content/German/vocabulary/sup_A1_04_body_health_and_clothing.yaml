@@ -1,0 +1,904 @@
+lesson: "sup_A1_Body_Health_and_Clothing"
+lesson_number: 104
+cefr: A1
+type: supplementary
+topic: "Body, Health, and Clothing"
+categories:
+- id: koerperteile
+  label:
+    en: "Body Parts (Körperteile)"
+    ko: "신체 부위 (Körperteile)"
+  type: vocabulary
+  words:
+  - german: "der Körper, -"
+    translation:
+      en: "body"
+      ko: "몸 / 신체"
+    gender: m
+    notes:
+      en: "der Körperteil = body part"
+      ko: "der Körperteil = 신체 부위"
+  - german: "der Kopf, Köpfe"
+    translation:
+      en: "head"
+      ko: "머리"
+    gender: m
+    notes:
+      en: "Kopfschmerzen = headache"
+      ko: "Kopfschmerzen = 두통"
+  - german: "das Gesicht, -er"
+    translation:
+      en: "face"
+      ko: "얼굴"
+    gender: n
+    notes:
+      en: "ein langes Gesicht machen = to pull a long face"
+      ko: "ein langes Gesicht machen = 실망한 표정을 짓다"
+  - german: "das Auge, -n"
+    translation:
+      en: "eye"
+      ko: "눈"
+    gender: n
+    notes:
+      en: "unter vier Augen = in private (lit. under four eyes)"
+      ko: "unter vier Augen = 둘이서만, 사적으로"
+  - german: "die Nase, -n"
+    translation:
+      en: "nose"
+      ko: "코"
+    gender: f
+    notes:
+      en: "die Nase voll haben = to be fed up"
+      ko: "die Nase voll haben = 지긋지긋하다"
+  - german: "der Mund, Münder"
+    translation:
+      en: "mouth"
+      ko: "입"
+    gender: m
+    notes:
+      en: "den Mund halten = to keep quiet"
+      ko: "den Mund halten = 조용히 하다"
+  - german: "das Ohr, -en"
+    translation:
+      en: "ear"
+      ko: "귀"
+    gender: n
+    notes:
+      en: "ganz Ohr sein = to be all ears"
+      ko: "ganz Ohr sein = 귀를 기울이다"
+  - german: "das Haar, -e"
+    translation:
+      en: "hair"
+      ko: "머리카락"
+    gender: n
+    notes:
+      en: "Often used in plural: die Haare"
+      ko: "흔히 복수형으로 사용: die Haare"
+  - german: "der Zahn, Zähne"
+    translation:
+      en: "tooth"
+      ko: "이 / 치아"
+    gender: m
+    notes:
+      en: "der Zahnarzt = dentist"
+      ko: "der Zahnarzt = 치과의사"
+  - german: "die Hand, Hände"
+    translation:
+      en: "hand"
+      ko: "손"
+    gender: f
+    notes:
+      en: "die Handschrift = handwriting"
+      ko: "die Handschrift = 필적"
+  - german: "der Finger, -"
+    translation:
+      en: "finger"
+      ko: "손가락"
+    gender: m
+    notes:
+      en: "der Daumen = thumb; der Zeigefinger = index finger"
+      ko: "der Daumen = 엄지; der Zeigefinger = 검지"
+  - german: "der Arm, -e"
+    translation:
+      en: "arm"
+      ko: "팔"
+    gender: m
+    notes:
+      en: "jemanden auf den Arm nehmen = to pull someone's leg"
+      ko: "jemanden auf den Arm nehmen = 놀리다"
+  - german: "das Bein, -e"
+    translation:
+      en: "leg"
+      ko: "다리"
+    gender: n
+    notes:
+      en: "Hals- und Beinbruch! = break a leg! (good luck)"
+      ko: "Hals- und Beinbruch! = 행운을 빌어!"
+  - german: "der Fuß, Füße"
+    translation:
+      en: "foot"
+      ko: "발"
+    gender: m
+    notes:
+      en: "zu Fuß gehen = to go on foot"
+      ko: "zu Fuß gehen = 걸어가다"
+  - german: "das Knie, -"
+    translation:
+      en: "knee"
+      ko: "무릎"
+    gender: n
+    notes:
+      en: "The K is silent in English but pronounced in German"
+      ko: "영어에서는 K를 발음하지 않지만 독일어에서는 발음함"
+  - german: "der Rücken, -"
+    translation:
+      en: "back"
+      ko: "등"
+    gender: m
+    notes:
+      en: "Rückenschmerzen = back pain"
+      ko: "Rückenschmerzen = 허리/등 통증"
+  - german: "der Bauch, Bäuche"
+    translation:
+      en: "belly / stomach"
+      ko: "배"
+    gender: m
+    notes:
+      en: "Bauchschmerzen = stomachache"
+      ko: "Bauchschmerzen = 복통"
+  - german: "die Schulter, -n"
+    translation:
+      en: "shoulder"
+      ko: "어깨"
+    gender: f
+    notes:
+      en: "die kalte Schulter zeigen = to give the cold shoulder"
+      ko: "die kalte Schulter zeigen = 냉대하다"
+  - german: "der Hals, Hälse"
+    translation:
+      en: "neck / throat"
+      ko: "목"
+    gender: m
+    notes:
+      en: "Halsschmerzen = sore throat"
+      ko: "Halsschmerzen = 목 아픔 / 인후통"
+  - german: "die Brust, Brüste"
+    translation:
+      en: "chest / breast"
+      ko: "가슴"
+    gender: f
+    notes:
+      en: "der Brustkorb = ribcage"
+      ko: "der Brustkorb = 흉곽"
+  - german: "die Haut"
+    translation:
+      en: "skin"
+      ko: "피부"
+    gender: f
+    notes:
+      en: "aus der Haut fahren = to lose one's temper"
+      ko: "aus der Haut fahren = 화를 내다"
+  - german: "die Lippe, -n"
+    translation:
+      en: "lip"
+      ko: "입술"
+    gender: f
+    notes:
+      en: "der Lippenstift = lipstick"
+      ko: "der Lippenstift = 립스틱"
+  - german: "die Zunge, -n"
+    translation:
+      en: "tongue"
+      ko: "혀"
+    gender: f
+    notes:
+      en: "die Muttersprache = mother tongue"
+      ko: "die Muttersprache = 모국어"
+  - german: "die Stirn, -en"
+    translation:
+      en: "forehead"
+      ko: "이마"
+    gender: f
+    notes:
+      en: "jemandem die Stirn bieten = to stand up to someone"
+      ko: "jemandem die Stirn bieten = 맞서다"
+  - german: "das Kinn, -e"
+    translation:
+      en: "chin"
+      ko: "턱"
+    gender: n
+    notes:
+      en: "der Doppelkinn = double chin"
+      ko: "der Doppelkinn = 이중 턱"
+  - german: "die Wange, -n"
+    translation:
+      en: "cheek"
+      ko: "볼 / 뺨"
+    gender: f
+    notes:
+      en: "die Backe is a more colloquial term"
+      ko: "die Backe는 좀 더 구어적인 표현"
+  - german: "der Ellbogen, -"
+    translation:
+      en: "elbow"
+      ko: "팔꿈치"
+    gender: m
+    notes:
+      en: "die Ellbogengesellschaft = dog-eat-dog society"
+      ko: "die Ellbogengesellschaft = 약육강식 사회"
+  - german: "der Daumen, -"
+    translation:
+      en: "thumb"
+      ko: "엄지손가락"
+    gender: m
+    notes:
+      en: "Daumen drücken = to keep one's fingers crossed"
+      ko: "Daumen drücken = 행운을 빌다"
+  - german: "die Zehe, -n"
+    translation:
+      en: "toe"
+      ko: "발가락"
+    gender: f
+    notes:
+      en: "Also: die Knoblauchzehe = clove of garlic"
+      ko: "또한: die Knoblauchzehe = 마늘 한 쪽"
+  - german: "der Nagel, Nägel"
+    translation:
+      en: "nail (finger/toe)"
+      ko: "손톱 / 발톱"
+    gender: m
+    notes:
+      en: "Also means nail (metal fastener)"
+      ko: "못 (금속 고정구)을 의미하기도 함"
+  - german: "das Blut"
+    translation:
+      en: "blood"
+      ko: "피 / 혈액"
+    gender: n
+    notes:
+      en: "der Blutdruck = blood pressure"
+      ko: "der Blutdruck = 혈압"
+  - german: "der Knochen, -"
+    translation:
+      en: "bone"
+      ko: "뼈"
+    gender: m
+    notes:
+      en: "nass bis auf die Knochen = soaked to the bone"
+      ko: "nass bis auf die Knochen = 뼈까지 젖은"
+  - german: "der Muskel, -n"
+    translation:
+      en: "muscle"
+      ko: "근육"
+    gender: m
+    notes:
+      en: "Muskelkater = muscle soreness"
+      ko: "Muskelkater = 근육통"
+
+- id: gesundheit
+  label:
+    en: "Common Ailments and Health"
+    ko: "일반적인 질환과 건강"
+  type: vocabulary
+  words:
+  - german: "die Gesundheit"
+    translation:
+      en: "health"
+      ko: "건강"
+    gender: f
+    notes:
+      en: "Also said after someone sneezes (like 'bless you')"
+      ko: "재채기 후에도 말함 ('축복합니다'의 의미)"
+  - german: "die Krankheit, -en"
+    translation:
+      en: "illness / disease"
+      ko: "질병"
+    gender: f
+    notes:
+      en: "krank = sick/ill"
+      ko: "krank = 아픈"
+  - german: "der Schmerz, -en"
+    translation:
+      en: "pain"
+      ko: "통증"
+    gender: m
+    notes:
+      en: "Often used in compound plurals: Kopfschmerzen, Bauchschmerzen"
+      ko: "흔히 합성어 복수로 사용: Kopfschmerzen, Bauchschmerzen"
+  - german: "das Fieber"
+    translation:
+      en: "fever"
+      ko: "열"
+    gender: n
+    notes:
+      en: "Fieber haben = to have a fever"
+      ko: "Fieber haben = 열이 있다"
+  - german: "der Husten"
+    translation:
+      en: "cough"
+      ko: "기침"
+    gender: m
+    notes:
+      en: "husten = to cough"
+      ko: "husten = 기침하다"
+  - german: "der Schnupfen"
+    translation:
+      en: "cold / runny nose"
+      ko: "감기 / 콧물"
+    gender: m
+    notes:
+      en: "einen Schnupfen haben = to have a cold"
+      ko: "einen Schnupfen haben = 감기에 걸리다"
+  - german: "die Erkältung, -en"
+    translation:
+      en: "cold (illness)"
+      ko: "감기"
+    gender: f
+    notes:
+      en: "sich erkälten = to catch a cold"
+      ko: "sich erkälten = 감기에 걸리다"
+  - german: "der Arzt, Ärzte"
+    translation:
+      en: "doctor (male)"
+      ko: "의사 (남성)"
+    gender: m
+    notes:
+      en: "die Ärztin = female doctor"
+      ko: "die Ärztin = 여성 의사"
+  - german: "die Apotheke, -n"
+    translation:
+      en: "pharmacy"
+      ko: "약국"
+    gender: f
+    notes:
+      en: "Marked with a red 'A' sign in Germany"
+      ko: "독일에서 빨간 'A' 표시로 표시됨"
+  - german: "das Medikament, -e"
+    translation:
+      en: "medication / medicine"
+      ko: "약"
+    gender: n
+    notes:
+      en: "Also: die Medizin = medicine (field or substance)"
+      ko: "또한: die Medizin = 의학 / 약"
+  - german: "die Tablette, -n"
+    translation:
+      en: "tablet / pill"
+      ko: "알약"
+    gender: f
+    notes:
+      en: "eine Tablette nehmen = to take a pill"
+      ko: "eine Tablette nehmen = 알약을 먹다"
+  - german: "das Pflaster, -"
+    translation:
+      en: "bandage / plaster"
+      ko: "반창고"
+    gender: n
+    notes:
+      en: "ein Pflaster kleben = to put on a bandage"
+      ko: "ein Pflaster kleben = 반창고를 붙이다"
+  - german: "müde"
+    translation:
+      en: "tired"
+      ko: "피곤한"
+    gender: null
+    notes:
+      en: "Ich bin müde = I am tired"
+      ko: "Ich bin müde = 나는 피곤해"
+  - german: "gesund"
+    translation:
+      en: "healthy"
+      ko: "건강한"
+    gender: null
+    notes:
+      en: "Opposite of krank (sick)"
+      ko: "krank (아픈)의 반대말"
+  - german: "krank"
+    translation:
+      en: "sick / ill"
+      ko: "아픈"
+    gender: null
+    notes:
+      en: "das Krankenhaus = hospital"
+      ko: "das Krankenhaus = 병원"
+  - german: "das Krankenhaus, Krankenhäuser"
+    translation:
+      en: "hospital"
+      ko: "병원"
+    gender: n
+    notes:
+      en: "Compound: krank (sick) + Haus (house)"
+      ko: "합성어: krank (아픈) + Haus (집)"
+  - german: "die Grippe, -n"
+    translation:
+      en: "flu / influenza"
+      ko: "독감"
+    gender: f
+    notes:
+      en: "die Grippeschutzimpfung = flu vaccination"
+      ko: "die Grippeschutzimpfung = 독감 예방접종"
+  - german: "die Allergie, -n"
+    translation:
+      en: "allergy"
+      ko: "알레르기"
+    gender: f
+    notes:
+      en: "allergisch gegen = allergic to"
+      ko: "allergisch gegen = ~에 알레르기가 있는"
+  - german: "die Kopfschmerzen (pl.)"
+    translation:
+      en: "headache"
+      ko: "두통"
+    gender: m
+    notes:
+      en: "Ich habe Kopfschmerzen = I have a headache"
+      ko: "Ich habe Kopfschmerzen = 두통이 있어요"
+  - german: "die Zahnschmerzen (pl.)"
+    translation:
+      en: "toothache"
+      ko: "치통"
+    gender: m
+    notes:
+      en: "zum Zahnarzt gehen = to go to the dentist"
+      ko: "zum Zahnarzt gehen = 치과에 가다"
+  - german: "sich verletzen"
+    translation:
+      en: "to injure oneself"
+      ko: "다치다"
+    gender: null
+    notes:
+      en: "die Verletzung = injury"
+      ko: "die Verletzung = 부상"
+  - german: "weh tun"
+    translation:
+      en: "to hurt / to ache"
+      ko: "아프다"
+    gender: null
+    notes:
+      en: "Es tut weh = It hurts; Mein Kopf tut weh = My head hurts"
+      ko: "Es tut weh = 아파요; Mein Kopf tut weh = 머리가 아파요"
+  - german: "die Versicherung, -en"
+    translation:
+      en: "insurance"
+      ko: "보험"
+    gender: f
+    notes:
+      en: "die Krankenversicherung = health insurance (mandatory in Germany)"
+      ko: "die Krankenversicherung = 건강보험 (독일에서 의무)"
+  - german: "die Sprechstunde, -n"
+    translation:
+      en: "office hours / consultation"
+      ko: "진료 시간"
+    gender: f
+    notes:
+      en: "die Sprechstunde des Arztes = doctor's office hours"
+      ko: "die Sprechstunde des Arztes = 의사 진료 시간"
+
+- id: kleidung
+  label:
+    en: "Clothing Items (Kleidung)"
+    ko: "의류 (Kleidung)"
+  type: vocabulary
+  words:
+  - german: "die Kleidung"
+    translation:
+      en: "clothing"
+      ko: "의류 / 옷"
+    gender: f
+    notes:
+      en: "Collective noun; no plural"
+      ko: "집합 명사; 복수형 없음"
+  - german: "das Hemd, -en"
+    translation:
+      en: "shirt"
+      ko: "셔츠"
+    gender: n
+    notes:
+      en: "das T-Shirt = T-shirt (borrowed from English)"
+      ko: "das T-Shirt = 티셔츠 (영어 차용어)"
+  - german: "die Hose, -n"
+    translation:
+      en: "pants / trousers"
+      ko: "바지"
+    gender: f
+    notes:
+      en: "Usually singular in German even though plural in English"
+      ko: "영어에서는 복수이지만 독일어에서는 보통 단수"
+  - german: "der Rock, Röcke"
+    translation:
+      en: "skirt"
+      ko: "치마"
+    gender: m
+    notes:
+      en: "Also means 'rock music' in modern German"
+      ko: "현대 독일어에서 '록 음악'도 의미함"
+  - german: "das Kleid, -er"
+    translation:
+      en: "dress"
+      ko: "원피스 / 드레스"
+    gender: n
+    notes:
+      en: "Plural 'Kleider' can also mean 'clothes' in general"
+      ko: "복수형 'Kleider'는 '옷' 전반을 의미하기도 함"
+  - german: "der Anzug, Anzüge"
+    translation:
+      en: "suit"
+      ko: "정장"
+    gender: m
+    notes:
+      en: "der Badeanzug = swimsuit"
+      ko: "der Badeanzug = 수영복"
+  - german: "die Jacke, -n"
+    translation:
+      en: "jacket"
+      ko: "재킷"
+    gender: f
+    notes:
+      en: "die Regenjacke = rain jacket"
+      ko: "die Regenjacke = 비옷"
+  - german: "der Mantel, Mäntel"
+    translation:
+      en: "coat"
+      ko: "코트 / 외투"
+    gender: m
+    notes:
+      en: "der Wintermantel = winter coat"
+      ko: "der Wintermantel = 겨울 코트"
+  - german: "der Pullover, -"
+    translation:
+      en: "sweater / pullover"
+      ko: "스웨터"
+    gender: m
+    notes:
+      en: "Often shortened to 'der Pulli'"
+      ko: "흔히 'der Pulli'로 줄여 말함"
+  - german: "die Bluse, -n"
+    translation:
+      en: "blouse"
+      ko: "블라우스"
+    gender: f
+    notes:
+      en: "Typically a woman's button-up top"
+      ko: "보통 여성용 단추 달린 상의"
+  - german: "die Jeans"
+    translation:
+      en: "jeans"
+      ko: "청바지"
+    gender: f
+    notes:
+      en: "Singular in German: eine Jeans"
+      ko: "독일어에서 단수: eine Jeans"
+  - german: "die Socke, -n"
+    translation:
+      en: "sock"
+      ko: "양말"
+    gender: f
+    notes:
+      en: "von den Socken sein = to be amazed (colloquial)"
+      ko: "von den Socken sein = 깜짝 놀라다 (구어)"
+  - german: "die Unterwäsche"
+    translation:
+      en: "underwear"
+      ko: "속옷"
+    gender: f
+    notes:
+      en: "Collective noun; no plural form"
+      ko: "집합 명사; 복수형 없음"
+  - german: "das T-Shirt, -s"
+    translation:
+      en: "T-shirt"
+      ko: "티셔츠"
+    gender: n
+    notes:
+      en: "English loanword; very common in German"
+      ko: "영어 차용어; 독일어에서 매우 흔히 사용"
+  - german: "die Shorts"
+    translation:
+      en: "shorts"
+      ko: "반바지"
+    gender: f
+    notes:
+      en: "Also: die kurze Hose"
+      ko: "또한: die kurze Hose"
+  - german: "der Badeanzug, Badeanzüge"
+    translation:
+      en: "swimsuit"
+      ko: "수영복"
+    gender: m
+    notes:
+      en: "die Badehose = swim trunks"
+      ko: "die Badehose = 수영 트렁크"
+  - german: "die Krawatte, -n"
+    translation:
+      en: "tie / necktie"
+      ko: "넥타이"
+    gender: f
+    notes:
+      en: "Formal business attire"
+      ko: "격식 있는 업무 복장"
+  - german: "die Weste, -n"
+    translation:
+      en: "vest / waistcoat"
+      ko: "조끼"
+    gender: f
+    notes:
+      en: "die Rettungsweste = life jacket"
+      ko: "die Rettungsweste = 구명조끼"
+
+- id: accessoires
+  label:
+    en: "Accessories"
+    ko: "악세서리"
+  type: vocabulary
+  words:
+  - german: "der Schuh, -e"
+    translation:
+      en: "shoe"
+      ko: "신발"
+    gender: m
+    notes:
+      en: "die Turnschuhe = sneakers; die Stiefel = boots"
+      ko: "die Turnschuhe = 운동화; die Stiefel = 부츠"
+  - german: "der Stiefel, -"
+    translation:
+      en: "boot"
+      ko: "부츠 / 장화"
+    gender: m
+    notes:
+      en: "der Gummistiefel = rubber boot / wellington"
+      ko: "der Gummistiefel = 고무장화"
+  - german: "der Hut, Hüte"
+    translation:
+      en: "hat"
+      ko: "모자 (챙 있는)"
+    gender: m
+    notes:
+      en: "den Hut nehmen = to resign (idiom)"
+      ko: "den Hut nehmen = 사직하다 (관용구)"
+  - german: "die Mütze, -n"
+    translation:
+      en: "cap / beanie"
+      ko: "모자 (챙 없는)"
+    gender: f
+    notes:
+      en: "die Wollmütze = wool cap"
+      ko: "die Wollmütze = 털모자"
+  - german: "der Schal, -s"
+    translation:
+      en: "scarf"
+      ko: "스카프 / 목도리"
+    gender: m
+    notes:
+      en: "Essential in German winters"
+      ko: "독일 겨울에 필수품"
+  - german: "die Handschuhe (pl.)"
+    translation:
+      en: "gloves"
+      ko: "장갑"
+    gender: m
+    notes:
+      en: "Singular: der Handschuh; compound: Hand + Schuh"
+      ko: "단수: der Handschuh; 합성어: Hand (손) + Schuh (신발)"
+  - german: "der Gürtel, -"
+    translation:
+      en: "belt"
+      ko: "벨트 / 허리띠"
+    gender: m
+    notes:
+      en: "den Gürtel enger schnallen = to tighten one's belt"
+      ko: "den Gürtel enger schnallen = 허리띠를 졸라매다"
+  - german: "die Brille, -n"
+    translation:
+      en: "glasses / spectacles"
+      ko: "안경"
+    gender: f
+    notes:
+      en: "die Sonnenbrille = sunglasses"
+      ko: "die Sonnenbrille = 선글라스"
+  - german: "die Tasche, -n"
+    translation:
+      en: "bag / pocket"
+      ko: "가방 / 주머니"
+    gender: f
+    notes:
+      en: "die Handtasche = handbag; die Hosentasche = pants pocket"
+      ko: "die Handtasche = 핸드백; die Hosentasche = 바지 주머니"
+  - german: "der Regenschirm, -e"
+    translation:
+      en: "umbrella"
+      ko: "우산"
+    gender: m
+    notes:
+      en: "Compound: Regen (rain) + Schirm (screen/shield)"
+      ko: "합성어: Regen (비) + Schirm (막/방패)"
+  - german: "der Ring, -e"
+    translation:
+      en: "ring"
+      ko: "반지"
+    gender: m
+    notes:
+      en: "der Ehering = wedding ring"
+      ko: "der Ehering = 결혼반지"
+  - german: "die Kette, -n"
+    translation:
+      en: "necklace / chain"
+      ko: "목걸이 / 체인"
+    gender: f
+    notes:
+      en: "die Halskette = necklace"
+      ko: "die Halskette = 목걸이"
+  - german: "der Rucksack, Rucksäcke"
+    translation:
+      en: "backpack"
+      ko: "배낭"
+    gender: m
+    notes:
+      en: "Compound: Rücken (back) + Sack (bag)"
+      ko: "합성어: Rücken (등) + Sack (자루)"
+  - german: "der Koffer, -"
+    translation:
+      en: "suitcase"
+      ko: "여행 가방"
+    gender: m
+    notes:
+      en: "den Koffer packen = to pack a suitcase"
+      ko: "den Koffer packen = 여행 가방을 싸다"
+  - german: "die Sandale, -n"
+    translation:
+      en: "sandal"
+      ko: "샌들"
+    gender: f
+    notes:
+      en: "German stereotype: Socken in Sandalen"
+      ko: "독일인 고정관념: 양말에 샌들"
+  - german: "der Ohrring, -e"
+    translation:
+      en: "earring"
+      ko: "귀걸이"
+    gender: m
+    notes:
+      en: "Compound: Ohr (ear) + Ring (ring)"
+      ko: "합성어: Ohr (귀) + Ring (반지)"
+  - german: "die Armbanduhr, -en"
+    translation:
+      en: "wristwatch"
+      ko: "손목시계"
+    gender: f
+    notes:
+      en: "Compound: Arm + Band (strap) + Uhr (clock)"
+      ko: "합성어: Arm (팔) + Band (끈) + Uhr (시계)"
+  - german: "der Geldbeutel, -"
+    translation:
+      en: "wallet / purse"
+      ko: "지갑"
+    gender: m
+    notes:
+      en: "Also: das Portemonnaie (from French)"
+      ko: "또한: das Portemonnaie (프랑스어에서)"
+
+- id: koerperpflege
+  label:
+    en: "Personal Care"
+    ko: "개인 위생 / 몸 관리"
+  type: vocabulary
+  words:
+  - german: "sich waschen"
+    translation:
+      en: "to wash oneself"
+      ko: "씻다 (세수하다)"
+    gender: null
+    notes:
+      en: "Reflexive verb: Ich wasche mich"
+      ko: "재귀 동사: Ich wasche mich"
+  - german: "sich duschen"
+    translation:
+      en: "to take a shower"
+      ko: "샤워하다"
+    gender: null
+    notes:
+      en: "Reflexive: Ich dusche mich"
+      ko: "재귀: Ich dusche mich"
+  - german: "sich kämmen"
+    translation:
+      en: "to comb one's hair"
+      ko: "머리를 빗다"
+    gender: null
+    notes:
+      en: "der Kamm = comb"
+      ko: "der Kamm = 빗"
+  - german: "sich rasieren"
+    translation:
+      en: "to shave"
+      ko: "면도하다"
+    gender: null
+    notes:
+      en: "der Rasierer = razor"
+      ko: "der Rasierer = 면도기"
+  - german: "sich schminken"
+    translation:
+      en: "to put on makeup"
+      ko: "화장하다"
+    gender: null
+    notes:
+      en: "die Schminke = makeup"
+      ko: "die Schminke = 화장품"
+  - german: "sich anziehen"
+    translation:
+      en: "to get dressed"
+      ko: "옷을 입다"
+    gender: null
+    notes:
+      en: "Separable reflexive: Ich ziehe mich an"
+      ko: "분리 재귀 동사: Ich ziehe mich an"
+  - german: "sich ausziehen"
+    translation:
+      en: "to undress / to take off clothes"
+      ko: "옷을 벗다"
+    gender: null
+    notes:
+      en: "Separable reflexive: Ich ziehe mich aus"
+      ko: "분리 재귀 동사: Ich ziehe mich aus"
+  - german: "sich die Zähne putzen"
+    translation:
+      en: "to brush one's teeth"
+      ko: "이를 닦다"
+    gender: null
+    notes:
+      en: "Reflexive with dative: Ich putze mir die Zähne"
+      ko: "여격 재귀: Ich putze mir die Zähne"
+  - german: "die Creme, -s"
+    translation:
+      en: "cream / lotion"
+      ko: "크림 / 로션"
+    gender: f
+    notes:
+      en: "die Sonnencreme = sunscreen"
+      ko: "die Sonnencreme = 선크림"
+  - german: "das Parfüm, -s"
+    translation:
+      en: "perfume"
+      ko: "향수"
+    gender: n
+    notes:
+      en: "From French; also spelled 'Parfum'"
+      ko: "프랑스어에서 유래; 'Parfum'으로도 철자됨"
+  - german: "das Deodorant, -s"
+    translation:
+      en: "deodorant"
+      ko: "데오도란트"
+    gender: n
+    notes:
+      en: "Often shortened to 'das Deo'"
+      ko: "흔히 'das Deo'로 줄여 말함"
+  - german: "sich umziehen"
+    translation:
+      en: "to change clothes"
+      ko: "옷을 갈아입다"
+    gender: null
+    notes:
+      en: "Separable reflexive: Ich ziehe mich um"
+      ko: "분리 재귀 동사: Ich ziehe mich um"
+  - german: "anprobieren"
+    translation:
+      en: "to try on (clothes)"
+      ko: "입어 보다"
+    gender: null
+    notes:
+      en: "Darf ich das anprobieren? = May I try this on?"
+      ko: "Darf ich das anprobieren? = 이것 입어 봐도 될까요?"
+  - german: "passen"
+    translation:
+      en: "to fit"
+      ko: "맞다 (사이즈)"
+    gender: null
+    notes:
+      en: "Das passt mir gut = That fits me well"
+      ko: "Das passt mir gut = 저한테 잘 맞아요"
+  - german: "tragen"
+    translation:
+      en: "to wear / to carry"
+      ko: "입다 / 착용하다 / 들다"
+    gender: null
+    notes:
+      en: "Irregular: tragen, trug, getragen"
+      ko: "불규칙: tragen, trug, getragen"

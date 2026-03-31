@@ -1,0 +1,1636 @@
+lesson: "sup_C1_Journalism_and_Media"
+lesson_number: 184
+cefr: C1
+type: supplementary
+topic: "Journalism and Media"
+categories:
+- id: investigativer_journalismus
+  label:
+    en: "Investigative Journalism (Investigativer Journalismus)"
+    ko: "탐사 보도 (Investigativer Journalismus)"
+  type: vocabulary
+  words:
+  - german: "die Recherche, -n"
+    translation:
+      en: "research / investigation"
+      ko: "취재 / 조사"
+    gender: f
+    notes:
+      en: "recherchieren = to research / investigate"
+      ko: "recherchieren = 취재하다"
+  - german: "die Enthüllung, -en"
+    translation:
+      en: "revelation / exposé"
+      ko: "폭로"
+    gender: f
+    notes:
+      en: "enthüllen = to reveal / expose"
+      ko: "enthüllen = 폭로하다"
+  - german: "der Informant, -en"
+    translation:
+      en: "informant / source"
+      ko: "정보원"
+    gender: m
+    notes:
+      en: "die Informantin = informant (f)"
+      ko: "die Informantin = 정보원 (여성)"
+  - german: "der Whistleblower, -"
+    translation:
+      en: "whistleblower"
+      ko: "내부 고발자"
+    gender: m
+    notes:
+      en: "der Hinweisgeber = whistleblower (German equiv.)"
+      ko: "der Hinweisgeber = 내부 고발자 (독일어 동의어)"
+  - german: "die Aufdeckung, -en"
+    translation:
+      en: "uncovering / disclosure"
+      ko: "발각 / 적발"
+    gender: f
+    notes:
+      en: "einen Skandal aufdecken = to uncover a scandal"
+      ko: "einen Skandal aufdecken = 스캔들을 적발하다"
+  - german: "die Vertuschung, -en"
+    translation:
+      en: "cover-up"
+      ko: "은폐"
+    gender: f
+    notes:
+      en: "vertuschen = to cover up"
+      ko: "vertuschen = 은폐하다"
+  - german: "der Quellenschutz"
+    translation:
+      en: "source protection"
+      ko: "취재원 보호"
+    gender: m
+    notes:
+      en: "das Recht auf Quellenschutz = right to source protection"
+      ko: "das Recht auf Quellenschutz = 취재원 보호 권리"
+  - german: "die Undercover-Recherche, -n"
+    translation:
+      en: "undercover investigation"
+      ko: "잠입 취재"
+    gender: f
+    notes:
+      en: "undercover recherchieren = to investigate undercover"
+      ko: "undercover recherchieren = 잠입 취재하다"
+  - german: "die Dokumentation, -en"
+    translation:
+      en: "documentation / documentary"
+      ko: "다큐멘터리 / 문서화"
+    gender: f
+    notes:
+      en: "dokumentieren = to document"
+      ko: "dokumentieren = 문서화하다"
+  - german: "der Missstand, Missstände"
+    translation:
+      en: "abuse / grievance"
+      ko: "부조리 / 폐단"
+    gender: m
+    notes:
+      en: "Missstände aufdecken = to expose abuses"
+      ko: "Missstände aufdecken = 폐단을 적발하다"
+  - german: "die Rechenschaftspflicht"
+    translation:
+      en: "accountability"
+      ko: "설명 책임"
+    gender: f
+    notes:
+      en: "zur Rechenschaft ziehen = to hold accountable"
+      ko: "zur Rechenschaft ziehen = 책임을 묻다"
+  - german: "die Akteneinsicht"
+    translation:
+      en: "access to files / records"
+      ko: "문서 열람"
+    gender: f
+    notes:
+      en: "Akteneinsicht beantragen = to request access to files"
+      ko: "Akteneinsicht beantragen = 문서 열람을 신청하다"
+  - german: "das Informationsfreiheitsgesetz"
+    translation:
+      en: "Freedom of Information Act"
+      ko: "정보 공개법"
+    gender: n
+    notes:
+      en: "das IFG = abbreviation"
+      ko: "das IFG = 약어"
+  - german: "die Exklusivmeldung, -en"
+    translation:
+      en: "exclusive story"
+      ko: "독점 보도"
+    gender: f
+    notes:
+      en: "eine Exklusivmeldung veröffentlichen = to publish an exclusive"
+      ko: "eine Exklusivmeldung veröffentlichen = 독점 보도를 발표하다"
+  - german: "der Datenleck, -s"
+    translation:
+      en: "data leak"
+      ko: "데이터 유출"
+    gender: n
+    notes:
+      en: "die Panama Papers waren ein großes Datenleck"
+      ko: "파나마 페이퍼스는 대규모 데이터 유출이었다"
+  - german: "die Sorgfaltspflicht, -en"
+    translation:
+      en: "duty of care (journalistic)"
+      ko: "주의 의무 (저널리즘)"
+    gender: f
+    notes:
+      en: "die journalistische Sorgfaltspflicht"
+      ko: "저널리즘의 주의 의무"
+  - german: "die Gegendarstellung, -en"
+    translation:
+      en: "right of reply / counter-statement"
+      ko: "반론 보도"
+    gender: f
+    notes:
+      en: "eine Gegendarstellung verlangen = to demand a right of reply"
+      ko: "eine Gegendarstellung verlangen = 반론 보도를 요구하다"
+  - german: "die Verifizierung, -en"
+    translation:
+      en: "verification"
+      ko: "사실 확인"
+    gender: f
+    notes:
+      en: "Informationen verifizieren = to verify information"
+      ko: "Informationen verifizieren = 정보를 확인하다"
+  - german: "das Netzwerk, -e"
+    translation:
+      en: "network (of contacts)"
+      ko: "네트워크 (인맥)"
+    gender: n
+    notes:
+      en: "ein Netzwerk von Informanten aufbauen"
+      ko: "정보원 네트워크를 구축하다"
+  - german: "die Tarnidentität, -en"
+    translation:
+      en: "cover identity"
+      ko: "위장 신분"
+    gender: f
+    notes:
+      en: "unter einer Tarnidentität ermitteln"
+      ko: "위장 신분으로 조사하다"
+  - german: "der Datenjournalismus"
+    translation:
+      en: "data journalism"
+      ko: "데이터 저널리즘"
+    gender: m
+    notes:
+      en: "datengestützter Journalismus = data-driven journalism"
+      ko: "datengestützter Journalismus = 데이터 기반 저널리즘"
+  - german: "die Hintergrundrecherche, -n"
+    translation:
+      en: "background research"
+      ko: "배경 조사"
+    gender: f
+    notes:
+      en: "gründliche Hintergrundrecherche betreiben"
+      ko: "철저한 배경 조사를 하다"
+  - german: "die Beweissicherung, -en"
+    translation:
+      en: "evidence preservation"
+      ko: "증거 확보"
+    gender: f
+    notes:
+      en: "Beweise sichern = to secure evidence"
+      ko: "Beweise sichern = 증거를 확보하다"
+  - german: "die Korruptionsbekämpfung"
+    translation:
+      en: "anti-corruption"
+      ko: "부패 척결"
+    gender: f
+    notes:
+      en: "die Korruption bekämpfen = to fight corruption"
+      ko: "die Korruption bekämpfen = 부패를 척결하다"
+  - german: "die Faktenprüfung, -en"
+    translation:
+      en: "fact-checking"
+      ko: "팩트 체크"
+    gender: f
+    notes:
+      en: "Fakten prüfen = to check facts"
+      ko: "Fakten prüfen = 사실을 확인하다"
+  - german: "die Dokumentation, -en"
+    translation:
+      en: "documentation / documentary"
+      ko: "다큐멘터리"
+    gender: f
+    notes:
+      en: "die investigative Dokumentation"
+      ko: "탐사 다큐멘터리"
+  - german: "die Datenrecherche, -n"
+    translation:
+      en: "data journalism / data research"
+      ko: "데이터 취재"
+    gender: f
+    notes:
+      en: "der Datenjournalismus = data journalism"
+      ko: "der Datenjournalismus = 데이터 저널리즘"
+  - german: "die Sorgfaltspflicht, -en"
+    translation:
+      en: "duty of care / due diligence"
+      ko: "주의 의무"
+    gender: f
+    notes:
+      en: "die journalistische Sorgfaltspflicht"
+      ko: "언론의 주의 의무"
+  - german: "die Gegenrecherche, -n"
+    translation:
+      en: "counter-research / verification"
+      ko: "교차 검증"
+    gender: f
+    notes:
+      en: "die Überprüfung durch Gegenrecherche"
+      ko: "교차 검증을 통한 확인"
+  - german: "die Undercover-Recherche, -n"
+    translation:
+      en: "undercover investigation"
+      ko: "잠입 취재"
+    gender: f
+    notes:
+      en: "die verdeckte Recherche = covert investigation"
+      ko: "die verdeckte Recherche = 비밀 취재"
+  - german: "der Aktenvermerk, -e"
+    translation:
+      en: "file note / memorandum"
+      ko: "문서 기록"
+    gender: m
+    notes:
+      en: "vertrauliche Aktenvermerke = confidential memoranda"
+      ko: "기밀 문서 기록"
+  - german: "die Spurensicherung"
+    translation:
+      en: "evidence collection"
+      ko: "증거 확보"
+    gender: f
+    notes:
+      en: "die digitale Spurensicherung = digital forensics"
+      ko: "die digitale Spurensicherung = 디지털 포렌식"
+  - german: "das Dossier, -s"
+    translation:
+      en: "dossier"
+      ko: "서류 일체"
+    gender: n
+    notes:
+      en: "ein Dossier zusammenstellen = to compile a dossier"
+      ko: "ein Dossier zusammenstellen = 서류를 정리하다"
+- id: leitartikel
+  label:
+    en: "Editorials (Leitartikel)"
+    ko: "사설 (Leitartikel)"
+  type: vocabulary
+  words:
+  - german: "der Leitartikel, -"
+    translation:
+      en: "editorial / lead article"
+      ko: "사설"
+    gender: m
+    notes:
+      en: "einen Leitartikel schreiben = to write an editorial"
+      ko: "einen Leitartikel schreiben = 사설을 쓰다"
+  - german: "der Kommentar, -e"
+    translation:
+      en: "commentary / opinion piece"
+      ko: "논평"
+    gender: m
+    notes:
+      en: "kommentieren = to comment"
+      ko: "kommentieren = 논평하다"
+  - german: "die Kolumne, -n"
+    translation:
+      en: "column"
+      ko: "칼럼"
+    gender: f
+    notes:
+      en: "der Kolumnist = columnist"
+      ko: "der Kolumnist = 칼럼니스트"
+  - german: "die Stellungnahme, -n"
+    translation:
+      en: "statement / position"
+      ko: "입장 표명"
+    gender: f
+    notes:
+      en: "Stellung nehmen zu = to take a position on"
+      ko: "Stellung nehmen zu = ~에 대해 입장을 표명하다"
+  - german: "die Meinungsbildung"
+    translation:
+      en: "opinion formation"
+      ko: "여론 형성"
+    gender: f
+    notes:
+      en: "die öffentliche Meinungsbildung = public opinion formation"
+      ko: "die öffentliche Meinungsbildung = 공공 여론 형성"
+  - german: "die Glosse, -n"
+    translation:
+      en: "satirical column / gloss"
+      ko: "풍자 칼럼"
+    gender: f
+    notes:
+      en: "eine spitze Glosse = a sharp satirical piece"
+      ko: "eine spitze Glosse = 날카로운 풍자 칼럼"
+  - german: "das Feuilleton, -s"
+    translation:
+      en: "arts/culture section"
+      ko: "문예란 / 문화면"
+    gender: n
+    notes:
+      en: "der Feuilletonist = feuilleton writer"
+      ko: "der Feuilletonist = 문예란 기자"
+  - german: "die Rezension, -en"
+    translation:
+      en: "review (media)"
+      ko: "비평 / 서평"
+    gender: f
+    notes:
+      en: "eine Filmrezension = a film review"
+      ko: "eine Filmrezension = 영화 비평"
+  - german: "die Polemik, -en"
+    translation:
+      en: "polemic"
+      ko: "논쟁적 글"
+    gender: f
+    notes:
+      en: "polemisch = polemic / combative"
+      ko: "polemisch = 논쟁적인"
+  - german: "die Satire, -n"
+    translation:
+      en: "satire"
+      ko: "풍자"
+    gender: f
+    notes:
+      en: "satirisch = satirical"
+      ko: "satirisch = 풍자적인"
+  - german: "die redaktionelle Linie"
+    translation:
+      en: "editorial line"
+      ko: "편집 방향"
+    gender: f
+    notes:
+      en: "die redaktionelle Unabhängigkeit = editorial independence"
+      ko: "die redaktionelle Unabhängigkeit = 편집 독립성"
+  - german: "der Gastbeitrag, Gastbeiträge"
+    translation:
+      en: "guest contribution / op-ed"
+      ko: "기고문"
+    gender: m
+    notes:
+      en: "einen Gastbeitrag verfassen = to write a guest contribution"
+      ko: "einen Gastbeitrag verfassen = 기고문을 작성하다"
+  - german: "die Gegenrede, -n"
+    translation:
+      en: "rebuttal / counter-speech"
+      ko: "반론"
+    gender: f
+    notes:
+      en: "Gegenrede halten = to deliver a rebuttal"
+      ko: "Gegenrede halten = 반론을 제기하다"
+  - german: "der Meinungsmacher, -"
+    translation:
+      en: "opinion maker"
+      ko: "여론 주도자"
+    gender: m
+    notes:
+      en: "die Meinungsmacherin = opinion maker (f)"
+      ko: "die Meinungsmacherin = 여론 주도자 (여성)"
+  - german: "die Debattenbeitrag, Debattenbeiträge"
+    translation:
+      en: "contribution to debate"
+      ko: "토론 기고"
+    gender: m
+    notes:
+      en: "einen Debattenbeitrag leisten"
+      ko: "토론에 기여하다"
+  - german: "die Streitschrift, -en"
+    translation:
+      en: "pamphlet / polemic essay"
+      ko: "논쟁문"
+    gender: f
+    notes:
+      en: "eine politische Streitschrift = a political pamphlet"
+      ko: "eine politische Streitschrift = 정치적 논쟁문"
+  - german: "parteiisch"
+    translation:
+      en: "partisan / biased"
+      ko: "편파적인"
+    gender: null
+    notes:
+      en: "die Parteilichkeit = partisanship"
+      ko: "die Parteilichkeit = 편파성"
+  - german: "tendenziös"
+    translation:
+      en: "tendentious / biased"
+      ko: "편향적인"
+    gender: null
+    notes:
+      en: "tendenziöse Berichterstattung = biased reporting"
+      ko: "tendenziöse Berichterstattung = 편향적 보도"
+  - german: "differenziert"
+    translation:
+      en: "nuanced / balanced"
+      ko: "세분화된 / 균형 잡힌"
+    gender: null
+    notes:
+      en: "eine differenzierte Analyse = a nuanced analysis"
+      ko: "eine differenzierte Analyse = 세분화된 분석"
+  - german: "der Perspektivenwechsel, -"
+    translation:
+      en: "change of perspective"
+      ko: "관점 전환"
+    gender: m
+    notes:
+      en: "einen Perspektivenwechsel vornehmen"
+      ko: "관점 전환을 하다"
+  - german: "der Leitartikler, -"
+    translation:
+      en: "editorial writer"
+      ko: "사설 작성자"
+    gender: m
+    notes:
+      en: "die Leitartiklerin = editorial writer (f)"
+      ko: "die Leitartiklerin = 사설 작성자 (여성)"
+  - german: "die Kolumne, -n"
+    translation:
+      en: "column"
+      ko: "칼럼"
+    gender: f
+    notes:
+      en: "der Kolumnist = columnist"
+      ko: "der Kolumnist = 칼럼니스트"
+  - german: "die Glosse, -n"
+    translation:
+      en: "gloss / satirical commentary"
+      ko: "풍자 논평"
+    gender: f
+    notes:
+      en: "eine kurze, satirische Meinungsform"
+      ko: "짧은 풍자적 의견 형식"
+  - german: "die Polemik, -en"
+    translation:
+      en: "polemic"
+      ko: "논쟁 / 논박"
+    gender: f
+    notes:
+      en: "polemisch = polemic / polemical"
+      ko: "polemisch = 논쟁적인"
+  - german: "die Feuilleton-Kritik, -en"
+    translation:
+      en: "arts review / feuilleton criticism"
+      ko: "문예 비평"
+    gender: f
+    notes:
+      en: "das Feuilleton = arts and culture section"
+      ko: "das Feuilleton = 문예란"
+  - german: "die Rezension, -en"
+    translation:
+      en: "review"
+      ko: "서평 / 비평"
+    gender: f
+    notes:
+      en: "rezensieren = to review"
+      ko: "rezensieren = 비평하다"
+  - german: "der Kommentator, -en"
+    translation:
+      en: "commentator"
+      ko: "논평자"
+    gender: m
+    notes:
+      en: "die Kommentatorin = commentator (f)"
+      ko: "die Kommentatorin = 논평자 (여성)"
+  - german: "die Satire, -n"
+    translation:
+      en: "satire"
+      ko: "풍자"
+    gender: f
+    notes:
+      en: "satirisch = satirical"
+      ko: "satirisch = 풍자적인"
+  - german: "die Streitschrift, -en"
+    translation:
+      en: "polemical pamphlet"
+      ko: "논쟁 글"
+    gender: f
+    notes:
+      en: "ein polemisches Schriftstück"
+      ko: "논쟁적인 글"
+  - german: "die Gegenüberstellung, -en"
+    translation:
+      en: "juxtaposition / comparison"
+      ko: "대조"
+    gender: f
+    notes:
+      en: "die Pro- und Contra-Gegenüberstellung"
+      ko: "찬반 대조"
+- id: medienethik
+  label:
+    en: "Media Ethics (Medienethik)"
+    ko: "미디어 윤리 (Medienethik)"
+  type: vocabulary
+  words:
+  - german: "die Medienethik"
+    translation:
+      en: "media ethics"
+      ko: "미디어 윤리"
+    gender: f
+    notes:
+      en: "medienethische Grundsätze = principles of media ethics"
+      ko: "medienethische Grundsätze = 미디어 윤리 원칙"
+  - german: "der Pressekodex"
+    translation:
+      en: "press code"
+      ko: "언론 윤리 강령"
+    gender: m
+    notes:
+      en: "der Deutsche Pressekodex = German Press Code"
+      ko: "der Deutsche Pressekodex = 독일 언론 윤리 강령"
+  - german: "die Sorgfaltspflicht"
+    translation:
+      en: "duty of care"
+      ko: "주의 의무"
+    gender: f
+    notes:
+      en: "die journalistische Sorgfaltspflicht"
+      ko: "저널리즘 주의 의무"
+  - german: "die Persönlichkeitsrechte (pl.)"
+    translation:
+      en: "personality rights / privacy rights"
+      ko: "인격권"
+    gender: n
+    notes:
+      en: "das allgemeine Persönlichkeitsrecht"
+      ko: "일반적 인격권"
+  - german: "die Verdachtsberichterstattung"
+    translation:
+      en: "reporting on suspicions"
+      ko: "의혹 보도"
+    gender: f
+    notes:
+      en: "die Grenze der Verdachtsberichterstattung"
+      ko: "의혹 보도의 한계"
+  - german: "die Opferschutz"
+    translation:
+      en: "victim protection"
+      ko: "피해자 보호"
+    gender: m
+    notes:
+      en: "den Opferschutz gewährleisten"
+      ko: "피해자 보호를 보장하다"
+  - german: "die Schleichwerbung"
+    translation:
+      en: "hidden advertising / product placement"
+      ko: "기만 광고 / 간접 광고"
+    gender: f
+    notes:
+      en: "Schleichwerbung ist verboten"
+      ko: "기만 광고는 금지되어 있다"
+  - german: "die Pressefreiheit"
+    translation:
+      en: "freedom of the press"
+      ko: "언론의 자유"
+    gender: f
+    notes:
+      en: "die Einschränkung der Pressefreiheit"
+      ko: "언론의 자유 제한"
+  - german: "der Presserat"
+    translation:
+      en: "press council"
+      ko: "언론 위원회"
+    gender: m
+    notes:
+      en: "der Deutsche Presserat = German Press Council"
+      ko: "der Deutsche Presserat = 독일 언론 위원회"
+  - german: "die Richtigstellung, -en"
+    translation:
+      en: "correction / rectification"
+      ko: "정정 보도"
+    gender: f
+    notes:
+      en: "eine Richtigstellung veröffentlichen = to publish a correction"
+      ko: "eine Richtigstellung veröffentlichen = 정정 보도를 발표하다"
+  - german: "die Desinformation, -en"
+    translation:
+      en: "disinformation"
+      ko: "허위 정보"
+    gender: f
+    notes:
+      en: "die Fake News = fake news"
+      ko: "die Fake News = 가짜 뉴스"
+  - german: "die Objektivität"
+    translation:
+      en: "objectivity"
+      ko: "객관성"
+    gender: f
+    notes:
+      en: "objektive Berichterstattung = objective reporting"
+      ko: "objektive Berichterstattung = 객관적 보도"
+  - german: "die Selbstzensur"
+    translation:
+      en: "self-censorship"
+      ko: "자기 검열"
+    gender: f
+    notes:
+      en: "die Zensur = censorship"
+      ko: "die Zensur = 검열"
+  - german: "die Manipulation, -en"
+    translation:
+      en: "manipulation"
+      ko: "조작"
+    gender: f
+    notes:
+      en: "die Medienmanipulation = media manipulation"
+      ko: "die Medienmanipulation = 미디어 조작"
+  - german: "die Boulevardpresse"
+    translation:
+      en: "tabloid press"
+      ko: "타블로이드 언론"
+    gender: f
+    notes:
+      en: "die Boulevardzeitung = tabloid newspaper"
+      ko: "die Boulevardzeitung = 타블로이드 신문"
+  - german: "die Sensationsberichterstattung"
+    translation:
+      en: "sensationalist reporting"
+      ko: "선정적 보도"
+    gender: f
+    notes:
+      en: "sensationalistisch = sensationalist"
+      ko: "sensationalistisch = 선정적인"
+  - german: "die Unparteilichkeit"
+    translation:
+      en: "impartiality"
+      ko: "불편부당"
+    gender: f
+    notes:
+      en: "unparteiisch = impartial"
+      ko: "unparteiisch = 공정한"
+  - german: "der Interessenkonflikt, -e"
+    translation:
+      en: "conflict of interest"
+      ko: "이해 충돌"
+    gender: m
+    notes:
+      en: "einen Interessenkonflikt offenlegen = to disclose a conflict of interest"
+      ko: "einen Interessenkonflikt offenlegen = 이해 충돌을 공개하다"
+  - german: "die Transparenzpflicht"
+    translation:
+      en: "transparency obligation"
+      ko: "투명성 의무"
+    gender: f
+    notes:
+      en: "die redaktionelle Transparenz = editorial transparency"
+      ko: "die redaktionelle Transparenz = 편집 투명성"
+  - german: "die Medienvielfalt"
+    translation:
+      en: "media pluralism"
+      ko: "미디어 다양성"
+    gender: f
+    notes:
+      en: "die Medienkonzentration = media concentration"
+      ko: "die Medienkonzentration = 미디어 집중"
+  - german: "die Medienkompetenz"
+    translation:
+      en: "media literacy"
+      ko: "미디어 리터러시"
+    gender: f
+    notes:
+      en: "die digitale Medienkompetenz = digital media literacy"
+      ko: "die digitale Medienkompetenz = 디지털 미디어 리터러시"
+  - german: "die Rüge, -n"
+    translation:
+      en: "reprimand (by press council)"
+      ko: "경고 (언론 위원회의)"
+    gender: f
+    notes:
+      en: "der Presserat sprach eine Rüge aus"
+      ko: "언론 위원회가 경고를 내렸다"
+  - german: "die Sorgfaltspflicht, -en"
+    translation:
+      en: "editorial duty of care"
+      ko: "편집 주의 의무"
+    gender: f
+    notes:
+      en: "die journalistische Sorgfaltspflicht"
+      ko: "저널리즘의 주의 의무"
+  - german: "die Gegendarstellung, -en"
+    translation:
+      en: "right of reply"
+      ko: "반론 보도"
+    gender: f
+    notes:
+      en: "das Recht auf Gegendarstellung"
+      ko: "반론 보도 청구권"
+  - german: "die Verdachtsberichterstattung"
+    translation:
+      en: "suspicion-based reporting"
+      ko: "의혹 보도"
+    gender: f
+    notes:
+      en: "die Berichterstattung über Verdächtige"
+      ko: "피의자에 대한 보도"
+  - german: "die Schleichwerbung"
+    translation:
+      en: "product placement / surreptitious advertising"
+      ko: "간접 광고 / 몰래 광고"
+    gender: f
+    notes:
+      en: "die verdeckte Werbung = covert advertising"
+      ko: "die verdeckte Werbung = 은밀한 광고"
+  - german: "die Medienkonzentration"
+    translation:
+      en: "media concentration"
+      ko: "미디어 집중"
+    gender: f
+    notes:
+      en: "die Meinungsvielfalt vs. Medienkonzentration"
+      ko: "의견 다양성 대 미디어 집중"
+  - german: "die Opferschutzrichtlinie, -n"
+    translation:
+      en: "victim protection guideline"
+      ko: "피해자 보호 지침"
+    gender: f
+    notes:
+      en: "der Schutz von Opfern in der Berichterstattung"
+      ko: "보도에서의 피해자 보호"
+  - german: "die Verantwortungsethik"
+    translation:
+      en: "ethics of responsibility"
+      ko: "책임 윤리"
+    gender: f
+    notes:
+      en: "die Verantwortungsethik des Journalismus"
+      ko: "저널리즘의 책임 윤리"
+  - german: "die Selbstzensur"
+    translation:
+      en: "self-censorship"
+      ko: "자기 검열"
+    gender: f
+    notes:
+      en: "die vorauseilende Selbstzensur = preemptive self-censorship"
+      ko: "die vorauseilende Selbstzensur = 선제적 자기 검열"
+- id: rundfunkterminologie
+  label:
+    en: "Broadcasting Terminology (Rundfunkterminologie)"
+    ko: "방송 용어 (Rundfunkterminologie)"
+  type: vocabulary
+  words:
+  - german: "der Rundfunk"
+    translation:
+      en: "broadcasting"
+      ko: "방송"
+    gender: m
+    notes:
+      en: "der öffentlich-rechtliche Rundfunk = public broadcasting"
+      ko: "der öffentlich-rechtliche Rundfunk = 공영 방송"
+  - german: "die Sendung, -en"
+    translation:
+      en: "program / broadcast"
+      ko: "프로그램 / 방송"
+    gender: f
+    notes:
+      en: "eine Sendung ausstrahlen = to broadcast a program"
+      ko: "eine Sendung ausstrahlen = 프로그램을 방송하다"
+  - german: "die Liveübertragung, -en"
+    translation:
+      en: "live broadcast"
+      ko: "생방송"
+    gender: f
+    notes:
+      en: "live senden = to broadcast live"
+      ko: "live senden = 생방송하다"
+  - german: "die Einschaltquote, -n"
+    translation:
+      en: "viewership rating"
+      ko: "시청률"
+    gender: f
+    notes:
+      en: "hohe Einschaltquoten erzielen = to achieve high ratings"
+      ko: "hohe Einschaltquoten erzielen = 높은 시청률을 달성하다"
+  - german: "der Beitrag, Beiträge"
+    translation:
+      en: "report / segment"
+      ko: "보도 / 방송분"
+    gender: m
+    notes:
+      en: "einen Beitrag drehen = to produce a report"
+      ko: "einen Beitrag drehen = 보도물을 제작하다"
+  - german: "die Moderation"
+    translation:
+      en: "hosting / presenting"
+      ko: "진행"
+    gender: f
+    notes:
+      en: "der Moderator / die Moderatorin = presenter"
+      ko: "der Moderator / die Moderatorin = 진행자"
+  - german: "der Nachrichtensprecher, -"
+    translation:
+      en: "news anchor (m)"
+      ko: "뉴스 앵커 (남)"
+    gender: m
+    notes:
+      en: "die Nachrichtensprecherin = news anchor (f)"
+      ko: "die Nachrichtensprecherin = 뉴스 앵커 (여)"
+  - german: "die Talkshow, -s"
+    translation:
+      en: "talk show"
+      ko: "토크쇼"
+    gender: f
+    notes:
+      en: "eine politische Talkshow = a political talk show"
+      ko: "eine politische Talkshow = 정치 토크쇼"
+  - german: "der Podcast, -s"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+    notes:
+      en: "einen Podcast produzieren = to produce a podcast"
+      ko: "einen Podcast produzieren = 팟캐스트를 제작하다"
+  - german: "die Tagesschau"
+    translation:
+      en: "Tagesschau (main German news)"
+      ko: "타게스샤우 (독일 메인 뉴스)"
+    gender: f
+    notes:
+      en: "die meistgesehene Nachrichtensendung in Deutschland"
+      ko: "독일에서 가장 많이 시청되는 뉴스 프로그램"
+  - german: "der Rundfunkbeitrag, Rundfunkbeiträge"
+    translation:
+      en: "broadcasting fee"
+      ko: "방송 수신료"
+    gender: m
+    notes:
+      en: "der Rundfunkbeitrag beträgt monatlich 18,36 Euro"
+      ko: "방송 수신료는 월 18.36유로이다"
+  - german: "die Mediathek, -en"
+    translation:
+      en: "media library (streaming)"
+      ko: "미디어 라이브러리 (스트리밍)"
+    gender: f
+    notes:
+      en: "in der Mediathek abrufbar = available in the media library"
+      ko: "미디어 라이브러리에서 시청 가능한"
+  - german: "die Sendeanstalt, -en"
+    translation:
+      en: "broadcasting institution"
+      ko: "방송사"
+    gender: f
+    notes:
+      en: "ARD, ZDF = major German public broadcasters"
+      ko: "ARD, ZDF = 독일 주요 공영 방송사"
+  - german: "der Sendeplan, Sendepläne"
+    translation:
+      en: "broadcast schedule"
+      ko: "편성표"
+    gender: m
+    notes:
+      en: "das Programm = program / schedule"
+      ko: "das Programm = 프로그램 / 편성"
+  - german: "die Ausstrahlung, -en"
+    translation:
+      en: "broadcast / airing"
+      ko: "방영"
+    gender: f
+    notes:
+      en: "die Erstausstrahlung = first broadcast / premiere"
+      ko: "die Erstausstrahlung = 첫 방영"
+  - german: "der Streaming-Dienst, -e"
+    translation:
+      en: "streaming service"
+      ko: "스트리밍 서비스"
+    gender: m
+    notes:
+      en: "streamen = to stream"
+      ko: "streamen = 스트리밍하다"
+  - german: "das Interview, -s"
+    translation:
+      en: "interview"
+      ko: "인터뷰"
+    gender: n
+    notes:
+      en: "ein Interview führen = to conduct an interview"
+      ko: "ein Interview führen = 인터뷰를 하다"
+  - german: "die Reportage, -n"
+    translation:
+      en: "reportage / feature"
+      ko: "르포 / 특집 보도"
+    gender: f
+    notes:
+      en: "eine Reportage drehen = to shoot a reportage"
+      ko: "eine Reportage drehen = 르포를 촬영하다"
+  - german: "die Sendezeit, -en"
+    translation:
+      en: "airtime"
+      ko: "방송 시간"
+    gender: f
+    notes:
+      en: "die beste Sendezeit = prime time"
+      ko: "die beste Sendezeit = 프라임타임"
+  - german: "die Nachrichtenredaktion, -en"
+    translation:
+      en: "news editorial office"
+      ko: "뉴스 편집국"
+    gender: f
+    notes:
+      en: "die Redaktion = editorial office"
+      ko: "die Redaktion = 편집국"
+  - german: "die Untertitelung, -en"
+    translation:
+      en: "subtitling"
+      ko: "자막 삽입"
+    gender: f
+    notes:
+      en: "untertiteln = to subtitle"
+      ko: "untertiteln = 자막을 넣다"
+  - german: "die Sondersendung, -en"
+    translation:
+      en: "special broadcast"
+      ko: "특별 방송"
+    gender: f
+    notes:
+      en: "eine Sondersendung zu einem Ereignis"
+      ko: "사건에 관한 특별 방송"
+  - german: "die Korrespondenz"
+    translation:
+      en: "correspondence / reporting"
+      ko: "특파원 보도"
+    gender: f
+    notes:
+      en: "der Korrespondent = correspondent"
+      ko: "der Korrespondent = 특파원"
+  - german: "der Auslandskorrespondent, -en"
+    translation:
+      en: "foreign correspondent"
+      ko: "해외 특파원"
+    gender: m
+    notes:
+      en: "die Auslandskorrespondentin = foreign correspondent (f)"
+      ko: "die Auslandskorrespondentin = 해외 특파원 (여성)"
+  - german: "die Nachrichtensperre, -n"
+    translation:
+      en: "news blackout"
+      ko: "보도 제한"
+    gender: f
+    notes:
+      en: "eine Nachrichtensperre verhängen = to impose a news blackout"
+      ko: "eine Nachrichtensperre verhängen = 보도 제한을 내리다"
+  - german: "die Einschaltquote, -n"
+    translation:
+      en: "viewer rating"
+      ko: "시청률"
+    gender: f
+    notes:
+      en: "die Quote = ratings (colloquial)"
+      ko: "die Quote = 시청률 (구어)"
+  - german: "der Podcast, -s"
+    translation:
+      en: "podcast"
+      ko: "팟캐스트"
+    gender: m
+    notes:
+      en: "der Audio-on-Demand = audio on demand"
+      ko: "주문형 오디오"
+  - german: "die Mediathek, -en"
+    translation:
+      en: "media library (streaming archive)"
+      ko: "미디어 라이브러리"
+    gender: f
+    notes:
+      en: "die Online-Mediathek öffentlich-rechtlicher Sender"
+      ko: "공영 방송의 온라인 미디어 라이브러리"
+  - german: "der Streaming-Dienst, -e"
+    translation:
+      en: "streaming service"
+      ko: "스트리밍 서비스"
+    gender: m
+    notes:
+      en: "Video-on-Demand = video on demand"
+      ko: "주문형 비디오"
+  - german: "die Rundfunkgebühr, -en"
+    translation:
+      en: "broadcasting fee"
+      ko: "방송 수신료"
+    gender: f
+    notes:
+      en: "der Rundfunkbeitrag = broadcasting contribution (current term)"
+      ko: "der Rundfunkbeitrag = 방송 분담금 (현행 용어)"
+  - german: "die Sendelizenz, -en"
+    translation:
+      en: "broadcasting license"
+      ko: "방송 허가"
+    gender: f
+    notes:
+      en: "die Lizenzierung = licensing"
+      ko: "die Lizenzierung = 허가"
+  - german: "der Bildschirmtext"
+    translation:
+      en: "teletext / screen text"
+      ko: "텔레텍스트"
+    gender: m
+    notes:
+      en: "der Videotext = teletext (current term)"
+      ko: "der Videotext = 텔레텍스트 (현행 용어)"
+  - german: "die Programmbeschwerde, -n"
+    translation:
+      en: "program complaint"
+      ko: "프로그램 이의 신청"
+    gender: f
+    notes:
+      en: "eine Beschwerde gegen eine Sendung einreichen"
+      ko: "방송 프로그램에 대해 이의를 신청하다"
+  - german: "die Quotenregelung, -en"
+    translation:
+      en: "quota regulation"
+      ko: "쿼터 규정"
+    gender: f
+    notes:
+      en: "die Programmquote = programming quota"
+      ko: "die Programmquote = 프로그램 쿼터"
+- id: pressebeziehungen
+  label:
+    en: "Press Relations (Pressebeziehungen)"
+    ko: "보도 관계 (Pressebeziehungen)"
+  type: vocabulary
+  words:
+  - german: "die Pressekonferenz, -en"
+    translation:
+      en: "press conference"
+      ko: "기자회견"
+    gender: f
+    notes:
+      en: "eine Pressekonferenz einberufen = to call a press conference"
+      ko: "eine Pressekonferenz einberufen = 기자회견을 소집하다"
+  - german: "die Pressemitteilung, -en"
+    translation:
+      en: "press release"
+      ko: "보도 자료"
+    gender: f
+    notes:
+      en: "eine Pressemitteilung herausgeben = to issue a press release"
+      ko: "eine Pressemitteilung herausgeben = 보도 자료를 발표하다"
+  - german: "der Pressesprecher, -"
+    translation:
+      en: "press spokesperson (m)"
+      ko: "대변인 (남)"
+    gender: m
+    notes:
+      en: "die Pressesprecherin = press spokesperson (f)"
+      ko: "die Pressesprecherin = 대변인 (여)"
+  - german: "die Öffentlichkeitsarbeit"
+    translation:
+      en: "public relations (PR)"
+      ko: "홍보"
+    gender: f
+    notes:
+      en: "die PR-Abteilung = PR department"
+      ko: "die PR-Abteilung = 홍보부"
+  - german: "die Presseagentur, -en"
+    translation:
+      en: "press agency"
+      ko: "통신사"
+    gender: f
+    notes:
+      en: "die dpa = Deutsche Presse-Agentur"
+      ko: "die dpa = 독일 통신사"
+  - german: "die Akkreditierung, -en"
+    translation:
+      en: "accreditation"
+      ko: "취재 허가"
+    gender: f
+    notes:
+      en: "sich akkreditieren lassen = to get accredited"
+      ko: "sich akkreditieren lassen = 취재 허가를 받다"
+  - german: "die Hintergrundgespräch, -e"
+    translation:
+      en: "background briefing"
+      ko: "배경 브리핑"
+    gender: n
+    notes:
+      en: "unter Ausschluss der Öffentlichkeit"
+      ko: "비공개로"
+  - german: "die Sperrfrist, -en"
+    translation:
+      en: "embargo"
+      ko: "보도 금지 기간"
+    gender: f
+    notes:
+      en: "eine Sperrfrist einhalten = to observe an embargo"
+      ko: "eine Sperrfrist einhalten = 보도 금지 기간을 준수하다"
+  - german: "das Presserecht"
+    translation:
+      en: "press law"
+      ko: "언론법"
+    gender: n
+    notes:
+      en: "das Landespressegesetz = state press law"
+      ko: "das Landespressegesetz = 주 언론법"
+  - german: "die Medienlandschaft"
+    translation:
+      en: "media landscape"
+      ko: "미디어 환경"
+    gender: f
+    notes:
+      en: "die deutsche Medienlandschaft = the German media landscape"
+      ko: "die deutsche Medienlandschaft = 독일 미디어 환경"
+  - german: "der Medienwandel"
+    translation:
+      en: "media transformation"
+      ko: "미디어 변화"
+    gender: m
+    notes:
+      en: "der digitale Medienwandel = digital media transformation"
+      ko: "der digitale Medienwandel = 디지털 미디어 변화"
+  - german: "die Chefredaktion"
+    translation:
+      en: "editorial management / editor-in-chief"
+      ko: "편집장 / 편집주간"
+    gender: f
+    notes:
+      en: "der Chefredakteur = editor-in-chief (m)"
+      ko: "der Chefredakteur = 편집장 (남)"
+  - german: "die Druckauflage, -n"
+    translation:
+      en: "print circulation"
+      ko: "발행 부수"
+    gender: f
+    notes:
+      en: "die Auflage sinkt = circulation is declining"
+      ko: "die Auflage sinkt = 발행 부수가 감소하고 있다"
+  - german: "die Schlagzeile, -n"
+    translation:
+      en: "headline"
+      ko: "헤드라인"
+    gender: f
+    notes:
+      en: "Schlagzeilen machen = to make headlines"
+      ko: "Schlagzeilen machen = 헤드라인을 장식하다"
+  - german: "die Gegendarstellung, -en"
+    translation:
+      en: "right of reply"
+      ko: "반론 보도"
+    gender: f
+    notes:
+      en: "die gesetzliche Gegendarstellung = statutory right of reply"
+      ko: "법률상의 반론 보도권"
+  - german: "die Medienaufsicht"
+    translation:
+      en: "media regulation"
+      ko: "미디어 감독"
+    gender: f
+    notes:
+      en: "die Landesmedienanstalt = state media authority"
+      ko: "die Landesmedienanstalt = 주 미디어 감독 기관"
+  - german: "die Berichterstattung"
+    translation:
+      en: "reporting / coverage"
+      ko: "보도"
+    gender: f
+    notes:
+      en: "die ausgewogene Berichterstattung = balanced reporting"
+      ko: "die ausgewogene Berichterstattung = 균형 잡힌 보도"
+  - german: "der Agenturjournalismus"
+    translation:
+      en: "wire service journalism"
+      ko: "통신사 저널리즘"
+    gender: m
+    notes:
+      en: "die Nachrichtenagentur = news agency"
+      ko: "die Nachrichtenagentur = 뉴스 통신사"
+  - german: "die Presseausweis, -e"
+    translation:
+      en: "press pass"
+      ko: "기자증"
+    gender: m
+    notes:
+      en: "einen Presseausweis vorzeigen = to show a press pass"
+      ko: "einen Presseausweis vorzeigen = 기자증을 제시하다"
+  - german: "die Medienkooperation, -en"
+    translation:
+      en: "media cooperation"
+      ko: "미디어 협력"
+    gender: f
+    notes:
+      en: "eine grenzüberschreitende Medienkooperation"
+      ko: "국경을 넘는 미디어 협력"
+  - german: "die Veröffentlichung, -en"
+    translation:
+      en: "publication"
+      ko: "발행 / 공개"
+    gender: f
+    notes:
+      en: "veröffentlichen = to publish"
+      ko: "veröffentlichen = 발표하다"
+  - german: "die Auflagenstärke"
+    translation:
+      en: "circulation strength"
+      ko: "발행 부수"
+    gender: f
+    notes:
+      en: "eine auflagenstarke Zeitung = a high-circulation newspaper"
+      ko: "eine auflagenstarke Zeitung = 발행 부수가 많은 신문"
+  - german: "die Exklusivrechte (pl.)"
+    translation:
+      en: "exclusive rights"
+      ko: "독점권"
+    gender: n
+    notes:
+      en: "die Exklusivrechte erwerben = to acquire exclusive rights"
+      ko: "die Exklusivrechte erwerben = 독점권을 취득하다"
+  - german: "die Redaktionssitzung, -en"
+    translation:
+      en: "editorial meeting"
+      ko: "편집 회의"
+    gender: f
+    notes:
+      en: "die tägliche Redaktionssitzung = daily editorial meeting"
+      ko: "die tägliche Redaktionssitzung = 일일 편집 회의"
+  - german: "die Nachrichtenwerttheorie"
+    translation:
+      en: "news value theory"
+      ko: "뉴스 가치 이론"
+    gender: f
+    notes:
+      en: "der Nachrichtenwert = news value"
+      ko: "der Nachrichtenwert = 뉴스 가치"
+  - german: "die Informationspflicht, -en"
+    translation:
+      en: "obligation to inform"
+      ko: "정보 제공 의무"
+    gender: f
+    notes:
+      en: "die Behörde hat eine Informationspflicht"
+      ko: "관청은 정보 제공 의무가 있다"
+  - german: "die Medienkonvergenz"
+    translation:
+      en: "media convergence"
+      ko: "미디어 융합"
+    gender: f
+    notes:
+      en: "die Zusammenführung verschiedener Medienformen"
+      ko: "다양한 미디어 형태의 통합"
+  - german: "der Onlinejournalismus"
+    translation:
+      en: "online journalism"
+      ko: "온라인 저널리즘"
+    gender: m
+    notes:
+      en: "der digitale Journalismus = digital journalism"
+      ko: "der digitale Journalismus = 디지털 저널리즘"
+  - german: "die Echokammer, -n"
+    translation:
+      en: "echo chamber"
+      ko: "반향실 / 에코 챔버"
+    gender: f
+    notes:
+      en: "die Filterblase = filter bubble"
+      ko: "die Filterblase = 필터 버블"
+  - german: "die Filterblase, -n"
+    translation:
+      en: "filter bubble"
+      ko: "필터 버블"
+    gender: f
+    notes:
+      en: "in einer Filterblase leben = to live in a filter bubble"
+      ko: "in einer Filterblase leben = 필터 버블 속에 살다"
+  - german: "der Bürgerjournalismus"
+    translation:
+      en: "citizen journalism"
+      ko: "시민 저널리즘"
+    gender: m
+    notes:
+      en: "der partizipative Journalismus = participatory journalism"
+      ko: "der partizipative Journalismus = 참여 저널리즘"
+  - german: "die Paywall, -s"
+    translation:
+      en: "paywall"
+      ko: "유료 장벽"
+    gender: f
+    notes:
+      en: "die Bezahlschranke = paywall (German equiv.)"
+      ko: "die Bezahlschranke = 유료 장벽 (독일어 동의어)"
+  - german: "die Nachrichtenflut"
+    translation:
+      en: "flood of news"
+      ko: "뉴스 범람"
+    gender: f
+    notes:
+      en: "die Informationsflut = information overload"
+      ko: "die Informationsflut = 정보 과잉"
+  - german: "die Meinungsfreiheit"
+    translation:
+      en: "freedom of opinion"
+      ko: "의견의 자유"
+    gender: f
+    notes:
+      en: "Art. 5 GG = Article 5 of the Basic Law"
+      ko: "기본법 제5조"
+  - german: "die Nachrichtenquelle, -n"
+    translation:
+      en: "news source"
+      ko: "뉴스 소스"
+    gender: f
+    notes:
+      en: "die Primärquelle = primary source"
+      ko: "die Primärquelle = 1차 소스"
+  - german: "der Kommentarjournalismus"
+    translation:
+      en: "opinion journalism"
+      ko: "의견 저널리즘"
+    gender: m
+    notes:
+      en: "der Meinungsjournalismus = opinion journalism"
+      ko: "der Meinungsjournalismus = 오피니언 저널리즘"
+  - german: "die Seriösität"
+    translation:
+      en: "seriousness / credibility"
+      ko: "신뢰성"
+    gender: f
+    notes:
+      en: "seriös = serious / credible"
+      ko: "seriös = 신뢰할 수 있는"
+  - german: "der Qualitätsjournalismus"
+    translation:
+      en: "quality journalism"
+      ko: "양질의 저널리즘"
+    gender: m
+    notes:
+      en: "journalistische Qualitätsstandards"
+      ko: "저널리즘 품질 기준"
+  - german: "die Pressevielfalt"
+    translation:
+      en: "press diversity"
+      ko: "언론 다양성"
+    gender: f
+    notes:
+      en: "die Meinungsvielfalt = diversity of opinions"
+      ko: "die Meinungsvielfalt = 의견 다양성"
+  - german: "die Medienregulierung, -en"
+    translation:
+      en: "media regulation"
+      ko: "미디어 규제"
+    gender: f
+    notes:
+      en: "die Rundfunkregulierung = broadcasting regulation"
+      ko: "die Rundfunkregulierung = 방송 규제"
+  - german: "der Nachrichtenredakteur, -e"
+    translation:
+      en: "news editor (m)"
+      ko: "뉴스 편집자 (남)"
+    gender: m
+    notes:
+      en: "die Nachrichtenredakteurin = news editor (f)"
+      ko: "die Nachrichtenredakteurin = 뉴스 편집자 (여)"
+  - german: "die Quellenangabe, -n"
+    translation:
+      en: "attribution / source citation"
+      ko: "출처 표기"
+    gender: f
+    notes:
+      en: "Quellen angeben = to cite sources"
+      ko: "Quellen angeben = 출처를 밝히다"
+  - german: "die Gegendarstellungspflicht"
+    translation:
+      en: "obligation to publish a reply"
+      ko: "반론 보도 의무"
+    gender: f
+    notes:
+      en: "die gesetzliche Gegendarstellungspflicht"
+      ko: "법정 반론 보도 의무"
+  - german: "die Nachrichtenagentur, -en"
+    translation:
+      en: "news agency"
+      ko: "뉴스 통신사"
+    gender: f
+    notes:
+      en: "Reuters, AFP, dpa = major news agencies"
+      ko: "로이터, AFP, dpa = 주요 뉴스 통신사"
+  - german: "die Titelseite, -n"
+    translation:
+      en: "front page"
+      ko: "1면"
+    gender: f
+    notes:
+      en: "auf der Titelseite erscheinen = to appear on the front page"
+      ko: "auf der Titelseite erscheinen = 1면에 실리다"
+  - german: "die Nachrichtensperre, -n"
+    translation:
+      en: "news embargo"
+      ko: "보도 금지"
+    gender: f
+    notes:
+      en: "eine Nachrichtensperre aufheben = to lift a news embargo"
+      ko: "eine Nachrichtensperre aufheben = 보도 금지를 해제하다"
+  - german: "der Leitmedien (pl.)"
+    translation:
+      en: "leading media"
+      ko: "주류 미디어"
+    gender: n
+    notes:
+      en: "die meinungsbildenden Leitmedien"
+      ko: "여론을 형성하는 주류 미디어"
+  - german: "die Auflagenzahl, -en"
+    translation:
+      en: "circulation number"
+      ko: "발행 부수"
+    gender: f
+    notes:
+      en: "die verkaufte Auflage = paid circulation"
+      ko: "die verkaufte Auflage = 유료 발행 부수"
+  - german: "die Zensur"
+    translation:
+      en: "censorship"
+      ko: "검열"
+    gender: f
+    notes:
+      en: "die Vorzensur = pre-censorship"
+      ko: "die Vorzensur = 사전 검열"
+  - german: "die Infografik, -en"
+    translation:
+      en: "infographic"
+      ko: "인포그래픽"
+    gender: f
+    notes:
+      en: "eine Infografik erstellen = to create an infographic"
+      ko: "eine Infografik erstellen = 인포그래픽을 만들다"
+  - german: "der Verlag, -e"
+    translation:
+      en: "publishing house"
+      ko: "출판사"
+    gender: m
+    notes:
+      en: "der Zeitungsverlag = newspaper publisher"
+      ko: "der Zeitungsverlag = 신문 출판사"
+  - german: "die Abonnement, -s"
+    translation:
+      en: "subscription"
+      ko: "구독"
+    gender: n
+    notes:
+      en: "ein Abonnement abschließen = to take out a subscription"
+      ko: "ein Abonnement abschließen = 구독하다"
+  - german: "die Leserschaft"
+    translation:
+      en: "readership"
+      ko: "독자층"
+    gender: f
+    notes:
+      en: "die treue Leserschaft = loyal readership"
+      ko: "die treue Leserschaft = 충성 독자층"
+  - german: "die Nachrichtenauswahl"
+    translation:
+      en: "news selection"
+      ko: "뉴스 선별"
+    gender: f
+    notes:
+      en: "die Gatekeeping-Funktion = gatekeeping function"
+      ko: "die Gatekeeping-Funktion = 문지기 기능"
+  - german: "der Ressortleiter, -"
+    translation:
+      en: "department head (editorial)"
+      ko: "부서장 (편집)"
+    gender: m
+    notes:
+      en: "das Ressort = department / section"
+      ko: "das Ressort = 부서"
+  - german: "die Pressearbeit"
+    translation:
+      en: "press work / media relations"
+      ko: "언론 관계 업무"
+    gender: f
+    notes:
+      en: "die proaktive Pressearbeit = proactive media relations"
+      ko: "die proaktive Pressearbeit = 능동적 언론 관계 업무"
+  - german: "die Medienwirkungsforschung"
+    translation:
+      en: "media effects research"
+      ko: "미디어 효과 연구"
+    gender: f
+    notes:
+      en: "die Wirkung der Medien auf die Gesellschaft"
+      ko: "미디어가 사회에 미치는 영향"
+  - german: "der Pressefotograf, -en"
+    translation:
+      en: "press photographer (m)"
+      ko: "보도 사진가 (남)"
+    gender: m
+    notes:
+      en: "die Pressefotografin = press photographer (f)"
+      ko: "die Pressefotografin = 보도 사진가 (여)"
+  - german: "die Tageszeitung, -en"
+    translation:
+      en: "daily newspaper"
+      ko: "일간지"
+    gender: f
+    notes:
+      en: "die Wochenzeitung = weekly newspaper"
+      ko: "die Wochenzeitung = 주간지"
+  - german: "die Nachrichtensendung, -en"
+    translation:
+      en: "news broadcast"
+      ko: "뉴스 방송"
+    gender: f
+    notes:
+      en: "die Hauptnachrichtensendung = main news broadcast"
+      ko: "die Hauptnachrichtensendung = 메인 뉴스 방송"
+  - german: "der Krisenreporter, -"
+    translation:
+      en: "crisis reporter (m)"
+      ko: "위기 특파원 (남)"
+    gender: m
+    notes:
+      en: "die Krisenreporterin = crisis reporter (f)"
+      ko: "die Krisenreporterin = 위기 특파원 (여)"
+  - german: "die Nachrichtenlage"
+    translation:
+      en: "news situation"
+      ko: "뉴스 상황"
+    gender: f
+    notes:
+      en: "die aktuelle Nachrichtenlage = current news situation"
+      ko: "die aktuelle Nachrichtenlage = 현재 뉴스 상황"
+  - german: "die Medienfreiheit"
+    translation:
+      en: "media freedom"
+      ko: "미디어 자유"
+    gender: f
+    notes:
+      en: "die Einschränkung der Medienfreiheit"
+      ko: "미디어 자유의 제한"
+  - german: "die Meinungsumfrage, -n"
+    translation:
+      en: "opinion poll"
+      ko: "여론 조사"
+    gender: f
+    notes:
+      en: "eine Meinungsumfrage durchführen = to conduct an opinion poll"
+      ko: "eine Meinungsumfrage durchführen = 여론 조사를 실시하다"
+  - german: "die Clickbait-Überschrift, -en"
+    translation:
+      en: "clickbait headline"
+      ko: "낚시성 제목"
+    gender: f
+    notes:
+      en: "reißerische Überschriften = sensationalist headlines"
+      ko: "reißerische Überschriften = 선정적 제목"
+  - german: "der Medienmogul, -e"
+    translation:
+      en: "media mogul"
+      ko: "미디어 재벌"
+    gender: m
+    notes:
+      en: "der Medienunternehmer = media entrepreneur"
+      ko: "der Medienunternehmer = 미디어 사업가"
+  - german: "die Glaubwürdigkeit"
+    translation:
+      en: "credibility"
+      ko: "신뢰도"
+    gender: f
+    notes:
+      en: "die Glaubwürdigkeit der Medien = media credibility"
+      ko: "die Glaubwürdigkeit der Medien = 미디어 신뢰도"
+  - german: "die Pressefreiheitsrangliste"
+    translation:
+      en: "press freedom ranking"
+      ko: "언론 자유 순위"
+    gender: f
+    notes:
+      en: "die Rangliste von Reporter ohne Grenzen"
+      ko: "국경 없는 기자회의 순위"
+  - german: "ausgewogen"
+    translation:
+      en: "balanced"
+      ko: "균형 잡힌"
+    gender: null
+    notes:
+      en: "die Ausgewogenheit = balance"
+      ko: "die Ausgewogenheit = 균형"
+  - german: "investigativ"
+    translation:
+      en: "investigative"
+      ko: "탐사적인"
+    gender: null
+    notes:
+      en: "investigativer Journalismus = investigative journalism"
+      ko: "investigativer Journalismus = 탐사 저널리즘"
+  - german: "multimedial"
+    translation:
+      en: "multimedia"
+      ko: "멀티미디어의"
+    gender: null
+    notes:
+      en: "multimediale Berichterstattung = multimedia reporting"
+      ko: "multimediale Berichterstattung = 멀티미디어 보도"
+  - german: "die Nachrichtenkompetenz"
+    translation:
+      en: "news literacy"
+      ko: "뉴스 리터러시"
+    gender: f
+    notes:
+      en: "Nachrichtenkompetenz stärken = to strengthen news literacy"
+      ko: "Nachrichtenkompetenz stärken = 뉴스 리터러시를 강화하다"
+  - german: "die Medienbildung"
+    translation:
+      en: "media education"
+      ko: "미디어 교육"
+    gender: f
+    notes:
+      en: "Medienbildung in der Schule = media education in school"
+      ko: "Medienbildung in der Schule = 학교에서의 미디어 교육"

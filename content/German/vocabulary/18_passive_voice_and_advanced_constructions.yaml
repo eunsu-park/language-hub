@@ -1,0 +1,662 @@
+lesson: 18_Passive_Voice_and_Advanced_Constructions
+lesson_number: 18
+cefr: B2
+categories:
+- id: 1_passive_voice_expressions
+  label:
+    en: 1. Passive Voice Expressions
+    ko: 1. 수동태 표현
+  type: vocabulary
+  words:
+  - german: das Vorgangspassiv
+    translation:
+      en: process passive (werden + past participle)
+      ko: 과정 수동태
+    gender: n
+    plural: null
+  - german: das Zustandspassiv
+    translation:
+      en: state passive (sein + past participle)
+      ko: 상태 수동태
+    gender: n
+    plural: null
+  - german: erledigen
+    translation:
+      en: to complete / to take care of
+      ko: 처리하다
+    gender: null
+    plural: null
+  - german: korrigieren
+    translation:
+      en: to correct
+      ko: 교정하다
+    gender: null
+    plural: null
+  - german: die Prüfung, -en
+    translation:
+      en: exam / test
+      ko: 시험
+    gender: f
+    plural: die Prüfungen
+  - german: reparieren
+    translation:
+      en: to repair
+      ko: 수리하다
+    gender: null
+    plural: null
+  - german: zerstören
+    translation:
+      en: to destroy
+      ko: 파괴하다
+    gender: null
+    plural: null
+  - german: der Bote, -n
+    translation:
+      en: messenger
+      ko: 전령 / 배달원
+    gender: m
+    plural: die Boten
+  - german: übermitteln
+    translation:
+      en: to convey / to transmit
+      ko: 전달하다
+    gender: null
+    plural: null
+  - german: veröffentlichen
+    translation:
+      en: to publish
+      ko: 출판하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Buch wurde veröffentlicht."
+      ko: "수동태: 그 책이 출판되었다."
+  - german: drehen
+    translation:
+      en: to shoot (a film) / to turn
+      ko: (영화를) 촬영하다 / 돌리다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Der Film wird gedreht."
+      ko: "수동태: 그 영화가 촬영되고 있다."
+  - german: bauen
+    translation:
+      en: to build
+      ko: 건설하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Es wird gebaut. (impersonal passive)"
+      ko: "수동태: 건설이 진행 중이다. (비인칭 수동태)"
+  - german: eröffnen
+    translation:
+      en: to open (officially)
+      ko: 개장하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Museum wurde eröffnet."
+      ko: "수동태: 그 박물관이 개관되었다."
+  - german: genehmigen
+    translation:
+      en: to approve / to authorize
+      ko: 승인하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Der Antrag wurde genehmigt."
+      ko: "수동태: 신청이 승인되었다."
+  - german: herstellen
+    translation:
+      en: to manufacture / to produce
+      ko: 제조하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Die Waren werden in Deutschland hergestellt."
+      ko: "수동태: 그 상품은 독일에서 제조된다."
+  - german: durchführen
+    translation:
+      en: to carry out / to conduct
+      ko: 실행하다 / 수행하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Die Umfrage wurde durchgeführt."
+      ko: "수동태: 설문조사가 실시되었다."
+  - german: liefern
+    translation:
+      en: to deliver / to supply
+      ko: 배달하다 / 공급하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Das Paket wird morgen geliefert."
+      ko: "수동태: 소포가 내일 배달된다."
+  - german: verbieten
+    translation:
+      en: to forbid / to ban
+      ko: 금지하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Rauchen ist hier verboten."
+      ko: "수동태: 여기서 흡연은 금지되어 있다."
+  - german: einladen
+    translation:
+      en: to invite
+      ko: 초대하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Alle Mitglieder wurden eingeladen."
+      ko: "수동태: 모든 회원이 초대되었다."
+  - german: entlassen
+    translation:
+      en: to dismiss / to fire
+      ko: 해고하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Mehrere Mitarbeiter wurden entlassen."
+      ko: "수동태: 여러 직원이 해고되었다."
+  - german: unterbrechen
+    translation:
+      en: to interrupt
+      ko: 중단하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Die Sitzung wurde unterbrochen."
+      ko: "수동태: 회의가 중단되었다."
+  - german: bestrafen
+    translation:
+      en: to punish
+      ko: 처벌하다
+    gender: null
+    plural: null
+    notes:
+      en: "Passive: Der Täter wurde bestraft."
+      ko: "수동태: 범인이 처벌되었다."
+  - german: die Maßnahme, -n
+    translation:
+      en: measure / action
+      ko: 조치
+    gender: f
+    plural: die Maßnahmen
+    notes:
+      en: "Passive: Maßnahmen wurden ergriffen."
+      ko: "수동태: 조치가 취해졌다."
+
+- id: 2_relative_pronoun_words
+  label:
+    en: 2. Relative Pronoun Words
+    ko: 2. 관계대명사 관련 어휘
+  type: vocabulary
+  words:
+  - german: der Relativsatz, -̈e
+    translation:
+      en: relative clause
+      ko: 관계절
+    gender: m
+    plural: die Relativsätze
+  - german: dessen
+    translation:
+      en: whose (masculine/neuter genitive relative pronoun)
+      ko: ~의 (남성/중성 소유격 관계대명사)
+    gender: null
+    plural: null
+  - german: deren
+    translation:
+      en: whose (feminine/plural genitive relative pronoun)
+      ko: ~의 (여성/복수 소유격 관계대명사)
+    gender: null
+    plural: null
+  - german: denen
+    translation:
+      en: whom (dative plural relative pronoun)
+      ko: ~에게 (여격 복수 관계대명사)
+    gender: null
+    plural: null
+  - german: der Nebensatz, -̈e
+    translation:
+      en: subordinate clause
+      ko: 종속절
+    gender: m
+    plural: die Nebensätze
+  - german: was
+    translation:
+      en: what / which (relative pronoun after indefinite antecedents)
+      ko: ~것 (부정 선행사 뒤의 관계대명사)
+    gender: null
+    plural: null
+    notes:
+      en: "Used after alles, etwas, nichts, das: Alles, was er sagte, war richtig."
+      ko: "alles, etwas, nichts, das 뒤에 사용: 그가 말한 모든 것이 맞았다."
+  - german: worin
+    translation:
+      en: in which (relative adverb)
+      ko: 그 안에 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Haus, worin sie wohnt, ist alt."
+      ko: "그녀가 사는 집은 낡았다."
+  - german: wofür
+    translation:
+      en: for which (relative adverb)
+      ko: 그것을 위해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Projekt, wofür er arbeitet, ist wichtig."
+      ko: "그가 일하는 프로젝트는 중요하다."
+  - german: wobei
+    translation:
+      en: in doing which / whereby
+      ko: 그 과정에서 / 그때
+    gender: null
+    plural: null
+    notes:
+      en: "Er las das Buch, wobei er einschlief."
+      ko: "그는 책을 읽다가 잠이 들었다."
+  - german: worüber
+    translation:
+      en: about which (relative adverb)
+      ko: 그것에 대해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Thema, worüber wir sprachen, war interessant."
+      ko: "우리가 이야기한 주제는 흥미로웠다."
+  - german: woran
+    translation:
+      en: on/at which (relative adverb)
+      ko: 그것에 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Problem, woran er denkt, ist komplex."
+      ko: "그가 생각하는 문제는 복잡하다."
+  - german: worauf
+    translation:
+      en: on which / for which (relative adverb)
+      ko: 그것 위에 / 그것을 위해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das, worauf ich mich freue, ist der Urlaub."
+      ko: "내가 기대하는 것은 휴가이다."
+  - german: wozu
+    translation:
+      en: for what purpose / to which (relative adverb)
+      ko: 무엇을 위해 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Wozu braucht man das? / Das Ziel, wozu er strebt."
+      ko: "그것은 무엇에 필요한가? / 그가 추구하는 목표."
+  - german: womit
+    translation:
+      en: with which (relative adverb)
+      ko: 그것으로 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Werkzeug, womit er arbeitet, ist alt."
+      ko: "그가 작업하는 도구는 낡았다."
+  - german: woraus
+    translation:
+      en: from which / out of which (relative adverb)
+      ko: 그것에서 / 그것으로부터 (관계부사)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Material, woraus es besteht, ist Holz."
+      ko: "그것이 이루어진 재료는 나무이다."
+
+- id: 3_zu_infinitiv_constructions
+  label:
+    en: 3. zu + Infinitiv Constructions
+    ko: 3. zu + 부정사 구문
+  type: vocabulary
+  words:
+  - german: um ... zu + Infinitiv
+    translation:
+      en: in order to
+      ko: ~하기 위해
+    gender: null
+    plural: null
+  - german: ohne ... zu + Infinitiv
+    translation:
+      en: without (doing)
+      ko: ~하지 않고
+    gender: null
+    plural: null
+  - german: (an)statt ... zu + Infinitiv
+    translation:
+      en: instead of (doing)
+      ko: ~하는 대신에
+    gender: null
+    plural: null
+  - german: sich verabschieden
+    translation:
+      en: to say goodbye
+      ko: 작별 인사를 하다
+    gender: null
+    plural: null
+  - german: versuchen
+    translation:
+      en: to try / to attempt
+      ko: 시도하다
+    gender: null
+    plural: null
+  - german: vorhaben
+    translation:
+      en: to plan / to intend
+      ko: 계획하다
+    gender: null
+    plural: null
+  - german: die indirekte Rede
+    translation:
+      en: indirect speech
+      ko: 간접 화법
+    gender: f
+    plural: null
+  - german: der Konjunktiv I
+    translation:
+      en: subjunctive I (for indirect speech)
+      ko: 접속법 I (간접 화법용)
+    gender: m
+    plural: null
+  - german: je ... desto
+    translation:
+      en: the ... the (comparative construction)
+      ko: ~하면 할수록 ~하다
+    gender: null
+    plural: null
+    notes:
+      en: "Je mehr man übt, desto besser wird man."
+      ko: "더 많이 연습할수록, 더 나아진다."
+  - german: sowohl ... als auch
+    translation:
+      en: both ... and
+      ko: ~뿐만 아니라 ~도
+    gender: null
+    plural: null
+    notes:
+      en: "Sowohl er als auch sie sprechen Deutsch."
+      ko: "그뿐만 아니라 그녀도 독일어를 한다."
+  - german: weder ... noch
+    translation:
+      en: neither ... nor
+      ko: ~도 아니고 ~도 아닌
+    gender: null
+    plural: null
+    notes:
+      en: "Weder Fisch noch Fleisch."
+      ko: "이것도 저것도 아닌."
+  - german: der Konjunktiv II
+    translation:
+      en: subjunctive II (for unreal conditions)
+      ko: 접속법 II (비현실적 조건용)
+    gender: m
+    plural: null
+    notes:
+      en: "Wenn ich reich wäre, würde ich reisen."
+      ko: "내가 부자라면, 여행을 할 텐데."
+  - german: anfangen
+    translation:
+      en: to begin / to start
+      ko: 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er fing an zu lachen. (separable + zu + Inf)"
+      ko: "그는 웃기 시작했다. (분리동사 + zu + 부정사)"
+  - german: aufhören
+    translation:
+      en: to stop / to cease
+      ko: 그만두다 / 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "Er hörte auf zu reden. (separable + zu + Inf)"
+      ko: "그는 말하기를 멈추었다. (분리동사 + zu + 부정사)"
+  - german: scheinen
+    translation:
+      en: to seem / to appear
+      ko: ~인 것 같다
+    gender: null
+    plural: null
+    notes:
+      en: "Er scheint zu schlafen. (scheinen + zu + Inf)"
+      ko: "그는 자고 있는 것 같다. (scheinen + zu + 부정사)"
+  - german: pflegen
+    translation:
+      en: to tend to / to be in the habit of
+      ko: ~하곤 하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er pflegt früh aufzustehen. (pflegen + zu + Inf for habitual action)"
+      ko: "그는 일찍 일어나곤 한다. (pflegen + zu + 부정사로 습관 표현)"
+  - german: behaupten
+    translation:
+      en: to claim / to assert
+      ko: 주장하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er behauptet, alles zu wissen."
+      ko: "그는 모든 것을 안다고 주장한다."
+
+- id: 4_conjunctions_and_connectors
+  label:
+    en: 4. Conjunctions and Connectors
+    ko: 4. 접속사와 연결어
+  type: vocabulary
+  words:
+  - german: obwohl
+    translation:
+      en: although / even though
+      ko: ~에도 불구하고
+    gender: null
+    plural: null
+    notes:
+      en: "Subordinating; verb goes to end. Obwohl es regnete, gingen wir spazieren."
+      ko: "종속 접속사; 동사가 끝으로. 비가 왔음에도 우리는 산책했다."
+  - german: trotzdem
+    translation:
+      en: nevertheless / nonetheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+    notes:
+      en: "Adverbial connector; inverts verb. Es regnete. Trotzdem gingen wir."
+      ko: "부사적 연결어; 동사 도치. 비가 왔다. 그럼에도 우리는 갔다."
+  - german: nachdem
+    translation:
+      en: after (temporal)
+      ko: ~한 후에
+    gender: null
+    plural: null
+    notes:
+      en: "Requires tense shift: nachdem + Plusquamperfekt, Präteritum."
+      ko: "시제 변화 필요: nachdem + 과거완료, 과거."
+  - german: bevor
+    translation:
+      en: before (temporal)
+      ko: ~하기 전에
+    gender: null
+    plural: null
+    notes:
+      en: "Subordinating conjunction. Bevor du gehst, ruf mich an."
+      ko: "종속 접속사. 가기 전에 전화해 줘."
+  - german: seitdem
+    translation:
+      en: since (temporal)
+      ko: ~이후로
+    gender: null
+    plural: null
+    notes:
+      en: "Seitdem er hier wohnt, fühlt er sich wohl."
+      ko: "그가 여기 살게 된 이후로 편안해졌다."
+  - german: indem
+    translation:
+      en: by (doing) / while
+      ko: ~함으로써
+    gender: null
+    plural: null
+    notes:
+      en: "Man lernt Deutsch, indem man viel übt."
+      ko: "많이 연습함으로써 독일어를 배운다."
+  - german: zumal
+    translation:
+      en: especially since / particularly as
+      ko: 특히 ~이므로
+    gender: null
+    plural: null
+    notes:
+      en: "Formal. Wir sollten gehen, zumal es spät ist."
+      ko: "격식체. 특히 늦었으니 가야 한다."
+  - german: insofern
+    translation:
+      en: insofar as / to that extent
+      ko: 그 점에서 / ~하는 한
+    gender: null
+    plural: null
+    notes:
+      en: "Insofern hat er recht."
+      ko: "그 점에서 그가 맞다."
+  - german: hingegen
+    translation:
+      en: on the other hand / however
+      ko: 반면에
+    gender: null
+    plural: null
+    notes:
+      en: "Er ist fleißig, sie hingegen ist faul."
+      ko: "그는 부지런하지만, 그녀는 반면에 게으르다."
+  - german: folglich
+    translation:
+      en: consequently / therefore
+      ko: 따라서 / 결과적으로
+    gender: null
+    plural: null
+    notes:
+      en: "Er war krank, folglich blieb er zu Hause."
+      ko: "그는 아팠고, 따라서 집에 머물렀다."
+  - german: abgesehen davon
+    translation:
+      en: apart from that
+      ko: 그것 외에 / 그것은 제쳐 두고
+    gender: null
+    plural: null
+    notes:
+      en: "Abgesehen davon war alles in Ordnung."
+      ko: "그것 외에 모든 것이 괜찮았다."
+  - german: nichtsdestotrotz
+    translation:
+      en: nonetheless / nevertheless
+      ko: 그럼에도 불구하고
+    gender: null
+    plural: null
+    notes:
+      en: "Formal emphasis. Es war schwer, nichtsdestotrotz gelang es."
+      ko: "격식체 강조. 어려웠지만 그럼에도 성공했다."
+  - german: einerseits ... andererseits
+    translation:
+      en: on the one hand ... on the other hand
+      ko: 한편으로는 ... 다른 한편으로는
+    gender: null
+    plural: null
+    notes:
+      en: "Einerseits möchte ich reisen, andererseits fehlt mir das Geld."
+      ko: "한편으로는 여행하고 싶지만, 다른 한편으로는 돈이 없다."
+
+- id: 5_nominalization_and_advanced_nouns
+  label:
+    en: 5. Nominalization and Advanced Nouns
+    ko: 5. 명사화와 고급 명사
+  type: vocabulary
+  words:
+  - german: die Voraussetzung, -en
+    translation:
+      en: prerequisite / requirement
+      ko: 전제 조건
+    gender: f
+    plural: die Voraussetzungen
+  - german: die Verhandlung, -en
+    translation:
+      en: negotiation / hearing
+      ko: 협상 / 심리
+    gender: f
+    plural: die Verhandlungen
+  - german: die Genehmigung, -en
+    translation:
+      en: permission / approval
+      ko: 허가 / 승인
+    gender: f
+    plural: die Genehmigungen
+    notes:
+      en: "Nominalization of genehmigen. Die Genehmigung wurde erteilt."
+      ko: "genehmigen의 명사화. 허가가 내려졌다."
+  - german: die Veranstaltung, -en
+    translation:
+      en: event / function
+      ko: 행사
+    gender: f
+    plural: die Veranstaltungen
+  - german: die Einschränkung, -en
+    translation:
+      en: restriction / limitation
+      ko: 제한
+    gender: f
+    plural: die Einschränkungen
+  - german: die Beurteilung, -en
+    translation:
+      en: assessment / evaluation
+      ko: 평가
+    gender: f
+    plural: die Beurteilungen
+  - german: die Vereinbarung, -en
+    translation:
+      en: agreement / arrangement
+      ko: 합의 / 약정
+    gender: f
+    plural: die Vereinbarungen
+  - german: die Entscheidung, -en
+    translation:
+      en: decision
+      ko: 결정
+    gender: f
+    plural: die Entscheidungen
+    notes:
+      en: "Passive: Die Entscheidung wurde getroffen."
+      ko: "수동태: 결정이 내려졌다."
+  - german: die Umsetzung
+    translation:
+      en: implementation
+      ko: 실행 / 이행
+    gender: f
+    plural: null
+  - german: die Erklärung, -en
+    translation:
+      en: explanation / declaration
+      ko: 설명 / 선언
+    gender: f
+    plural: die Erklärungen
+  - german: die Überprüfung, -en
+    translation:
+      en: review / verification
+      ko: 검토 / 확인
+    gender: f
+    plural: die Überprüfungen
+  - german: die Verpflichtung, -en
+    translation:
+      en: obligation / commitment
+      ko: 의무 / 약속
+    gender: f
+    plural: die Verpflichtungen

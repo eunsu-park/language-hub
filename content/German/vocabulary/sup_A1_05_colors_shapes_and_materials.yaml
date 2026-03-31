@@ -1,0 +1,953 @@
+lesson: "sup_A1_Colors_Shapes_and_Materials"
+lesson_number: 105
+cefr: A1
+type: supplementary
+topic: "Colors, Shapes, and Materials"
+categories:
+- id: farben_erweitert
+  label:
+    en: "Colors — Extended (Farben)"
+    ko: "색상 — 확장 (Farben)"
+  type: vocabulary
+  words:
+  - german: "weiß"
+    translation:
+      en: "white"
+      ko: "흰색"
+    gender: null
+    notes:
+      en: "das Weiß = the color white (as noun)"
+      ko: "das Weiß = 흰색 (명사로)"
+  - german: "schwarz"
+    translation:
+      en: "black"
+      ko: "검은색"
+    gender: null
+    notes:
+      en: "schwarzfahren = to ride without a ticket"
+      ko: "schwarzfahren = 무임승차하다"
+  - german: "gelb"
+    translation:
+      en: "yellow"
+      ko: "노란색"
+    gender: null
+    notes:
+      en: "die Gelbe Karte = yellow card (sports)"
+      ko: "die Gelbe Karte = 옐로카드 (스포츠)"
+  - german: "orange"
+    translation:
+      en: "orange"
+      ko: "주황색"
+    gender: null
+    notes:
+      en: "Does not change form with adjective endings"
+      ko: "형용사 어미변화가 없음"
+  - german: "braun"
+    translation:
+      en: "brown"
+      ko: "갈색"
+    gender: null
+    notes:
+      en: "braun gebrannt = tanned"
+      ko: "braun gebrannt = 햇볕에 탄"
+  - german: "grau"
+    translation:
+      en: "gray"
+      ko: "회색"
+    gender: null
+    notes:
+      en: "grauer Alltag = dull daily life"
+      ko: "grauer Alltag = 지루한 일상"
+  - german: "rosa"
+    translation:
+      en: "pink"
+      ko: "분홍색"
+    gender: null
+    notes:
+      en: "Does not decline; die rosa Blume (no ending)"
+      ko: "어미변화 없음; die rosa Blume (어미 없음)"
+  - german: "lila"
+    translation:
+      en: "purple / violet"
+      ko: "보라색"
+    gender: null
+    notes:
+      en: "Does not decline; indeclinable adjective"
+      ko: "어미변화 없음; 불변화 형용사"
+  - german: "beige"
+    translation:
+      en: "beige"
+      ko: "베이지색"
+    gender: null
+    notes:
+      en: "French loanword; does not decline"
+      ko: "프랑스어 차용어; 어미변화 없음"
+  - german: "türkis"
+    translation:
+      en: "turquoise"
+      ko: "청록색"
+    gender: null
+    notes:
+      en: "Named after the gemstone"
+      ko: "보석 이름에서 유래"
+  - german: "gold / golden"
+    translation:
+      en: "gold / golden"
+      ko: "금색 / 금빛의"
+    gender: null
+    notes:
+      en: "golden declines; gold does not"
+      ko: "golden은 어미변화함; gold는 하지 않음"
+  - german: "silber / silbern"
+    translation:
+      en: "silver"
+      ko: "은색 / 은빛의"
+    gender: null
+    notes:
+      en: "silbern declines; silber does not"
+      ko: "silbern은 어미변화함; silber는 하지 않음"
+  - german: "dunkel"
+    translation:
+      en: "dark"
+      ko: "어두운 / 진한"
+    gender: null
+    notes:
+      en: "dunkelblau = dark blue; dunkelgrün = dark green"
+      ko: "dunkelblau = 진한 파란색; dunkelgrün = 진한 초록색"
+  - german: "hell"
+    translation:
+      en: "light / bright"
+      ko: "밝은 / 옅은"
+    gender: null
+    notes:
+      en: "hellblau = light blue; hellgrün = light green"
+      ko: "hellblau = 옅은 파란색; hellgrün = 옅은 초록색"
+  - german: "bunt"
+    translation:
+      en: "colorful / multicolored"
+      ko: "다채로운 / 알록달록한"
+    gender: null
+    notes:
+      en: "kunterbunt = very colorful, mixed"
+      ko: "kunterbunt = 매우 다채로운, 뒤섞인"
+  - german: "farbig"
+    translation:
+      en: "colored / in color"
+      ko: "색이 있는 / 컬러의"
+    gender: null
+    notes:
+      en: "Opposite: farblos (colorless)"
+      ko: "반대: farblos (무색의)"
+  - german: "dunkelrot"
+    translation:
+      en: "dark red / maroon"
+      ko: "진한 빨간색 / 적갈색"
+    gender: null
+    notes:
+      en: "Compound: dunkel (dark) + rot (red)"
+      ko: "합성어: dunkel (어두운) + rot (빨간)"
+  - german: "hellblau"
+    translation:
+      en: "light blue"
+      ko: "옅은 파란색 / 하늘색"
+    gender: null
+    notes:
+      en: "Compound: hell (light) + blau (blue)"
+      ko: "합성어: hell (밝은) + blau (파란)"
+  - german: "dunkelgrün"
+    translation:
+      en: "dark green"
+      ko: "진한 초록색"
+    gender: null
+    notes:
+      en: "Common color of German forests"
+      ko: "독일 숲의 일반적인 색상"
+  - german: "hellgrün"
+    translation:
+      en: "light green"
+      ko: "연초록색"
+    gender: null
+    notes:
+      en: "Associated with spring"
+      ko: "봄과 관련된 색상"
+  - german: "cremefarben"
+    translation:
+      en: "cream-colored"
+      ko: "크림색"
+    gender: null
+    notes:
+      en: "Also: cremeweiß"
+      ko: "또한: cremeweiß"
+  - german: "blass"
+    translation:
+      en: "pale"
+      ko: "창백한"
+    gender: null
+    notes:
+      en: "blass vor Angst = pale with fear"
+      ko: "blass vor Angst = 공포로 창백한"
+  - german: "leuchtend"
+    translation:
+      en: "bright / vivid"
+      ko: "선명한 / 밝은"
+    gender: null
+    notes:
+      en: "leuchtend rot = bright red"
+      ko: "leuchtend rot = 선명한 빨간색"
+  - german: "gestreift"
+    translation:
+      en: "striped"
+      ko: "줄무늬의"
+    gender: null
+    notes:
+      en: "ein gestreiftes Hemd = a striped shirt"
+      ko: "ein gestreiftes Hemd = 줄무늬 셔츠"
+  - german: "gepunktet"
+    translation:
+      en: "polka-dotted"
+      ko: "물방울 무늬의"
+    gender: null
+    notes:
+      en: "ein gepunktetes Kleid = a polka-dot dress"
+      ko: "ein gepunktetes Kleid = 물방울 무늬 원피스"
+  - german: "kariert"
+    translation:
+      en: "checkered / plaid"
+      ko: "체크무늬의"
+    gender: null
+    notes:
+      en: "ein kariertes Hemd = a plaid shirt"
+      ko: "ein kariertes Hemd = 체크무늬 셔츠"
+  - german: "einfarbig"
+    translation:
+      en: "solid color / monochrome"
+      ko: "단색의"
+    gender: null
+    notes:
+      en: "Opposite of bunt (colorful)"
+      ko: "bunt (다채로운)의 반대말"
+  - german: "gemustert"
+    translation:
+      en: "patterned"
+      ko: "무늬가 있는"
+    gender: null
+    notes:
+      en: "das Muster = pattern"
+      ko: "das Muster = 무늬 / 패턴"
+  - german: "durchsichtig"
+    translation:
+      en: "transparent / see-through"
+      ko: "투명한"
+    gender: null
+    notes:
+      en: "Compound: durch (through) + sichtig (seeing)"
+      ko: "합성어: durch (통과하여) + sichtig (보는)"
+
+- id: formen
+  label:
+    en: "Shapes (Formen)"
+    ko: "도형 (Formen)"
+  type: vocabulary
+  words:
+  - german: "die Form, -en"
+    translation:
+      en: "shape / form"
+      ko: "모양 / 형태"
+    gender: f
+    notes:
+      en: "in Form sein = to be in shape"
+      ko: "in Form sein = 컨디션이 좋다"
+  - german: "der Kreis, -e"
+    translation:
+      en: "circle"
+      ko: "원"
+    gender: m
+    notes:
+      en: "im Kreis drehen = to go around in circles"
+      ko: "im Kreis drehen = 빙빙 돌다"
+  - german: "rund"
+    translation:
+      en: "round / circular"
+      ko: "둥근"
+    gender: null
+    notes:
+      en: "der runde Tisch = the round table"
+      ko: "der runde Tisch = 원탁"
+  - german: "das Quadrat, -e"
+    translation:
+      en: "square"
+      ko: "정사각형"
+    gender: n
+    notes:
+      en: "quadratisch = square-shaped"
+      ko: "quadratisch = 정사각형의"
+  - german: "das Rechteck, -e"
+    translation:
+      en: "rectangle"
+      ko: "직사각형"
+    gender: n
+    notes:
+      en: "Compound: recht (right) + Eck (corner)"
+      ko: "합성어: recht (직각) + Eck (모서리)"
+  - german: "das Dreieck, -e"
+    translation:
+      en: "triangle"
+      ko: "삼각형"
+    gender: n
+    notes:
+      en: "Compound: drei (three) + Eck (corner)"
+      ko: "합성어: drei (셋) + Eck (모서리)"
+  - german: "die Linie, -n"
+    translation:
+      en: "line"
+      ko: "선"
+    gender: f
+    notes:
+      en: "die gerade Linie = straight line"
+      ko: "die gerade Linie = 직선"
+  - german: "gerade"
+    translation:
+      en: "straight"
+      ko: "곧은 / 직선의"
+    gender: null
+    notes:
+      en: "Also means 'just now' or 'even (number)'"
+      ko: "'방금' 또는 '짝수'를 의미하기도 함"
+  - german: "der Stern, -e"
+    translation:
+      en: "star"
+      ko: "별"
+    gender: m
+    notes:
+      en: "Also means star (celestial body)"
+      ko: "천체의 별도 의미함"
+  - german: "das Herz, -en"
+    translation:
+      en: "heart"
+      ko: "하트 / 심장"
+    gender: n
+    notes:
+      en: "Weak neuter noun; unusual declension"
+      ko: "약변화 중성 명사; 특이한 변화형"
+  - german: "der Punkt, -e"
+    translation:
+      en: "point / dot"
+      ko: "점"
+    gender: m
+    notes:
+      en: "Also: period (punctuation)"
+      ko: "문장 부호의 마침표도 의미함"
+  - german: "die Ecke, -n"
+    translation:
+      en: "corner"
+      ko: "모서리 / 구석"
+    gender: f
+    notes:
+      en: "um die Ecke = around the corner"
+      ko: "um die Ecke = 모퉁이를 돌면"
+  - german: "flach"
+    translation:
+      en: "flat"
+      ko: "평평한"
+    gender: null
+    notes:
+      en: "das Flachland = flatland / lowland"
+      ko: "das Flachland = 평지 / 저지대"
+  - german: "spitz"
+    translation:
+      en: "pointed / sharp"
+      ko: "뾰족한"
+    gender: null
+    notes:
+      en: "der Spitzname = nickname"
+      ko: "der Spitzname = 별명"
+  - german: "der Würfel, -"
+    translation:
+      en: "cube / dice"
+      ko: "정육면체 / 주사위"
+    gender: m
+    notes:
+      en: "würfeln = to roll dice"
+      ko: "würfeln = 주사위를 던지다"
+  - german: "die Kugel, -n"
+    translation:
+      en: "sphere / ball"
+      ko: "구 / 공"
+    gender: f
+    notes:
+      en: "die Erdkugel = the globe"
+      ko: "die Erdkugel = 지구"
+  - german: "oval"
+    translation:
+      en: "oval"
+      ko: "타원형의"
+    gender: null
+    notes:
+      en: "ein ovaler Spiegel = an oval mirror"
+      ko: "ein ovaler Spiegel = 타원형 거울"
+  - german: "schmal"
+    translation:
+      en: "narrow / slim"
+      ko: "좁은 / 가느다란"
+    gender: null
+    notes:
+      en: "eine schmale Straße = a narrow street"
+      ko: "eine schmale Straße = 좁은 거리"
+  - german: "krumm"
+    translation:
+      en: "crooked / bent"
+      ko: "구부러진 / 비뚤어진"
+    gender: null
+    notes:
+      en: "Opposite of gerade (straight)"
+      ko: "gerade (곧은)의 반대말"
+  - german: "symmetrisch"
+    translation:
+      en: "symmetrical"
+      ko: "대칭적인"
+    gender: null
+    notes:
+      en: "die Symmetrie = symmetry"
+      ko: "die Symmetrie = 대칭"
+  - german: "die Spirale, -n"
+    translation:
+      en: "spiral"
+      ko: "나선형"
+    gender: f
+    notes:
+      en: "spiralförmig = spiral-shaped"
+      ko: "spiralförmig = 나선형의"
+  - german: "das Kreuz, -e"
+    translation:
+      en: "cross"
+      ko: "십자가 / 교차"
+    gender: n
+    notes:
+      en: "das Rote Kreuz = the Red Cross"
+      ko: "das Rote Kreuz = 적십자"
+  - german: "der Pfeil, -e"
+    translation:
+      en: "arrow"
+      ko: "화살표"
+    gender: m
+    notes:
+      en: "Also means arrow (weapon)"
+      ko: "화살 (무기)을 의미하기도 함"
+  - german: "der Halbkreis, -e"
+    translation:
+      en: "semicircle"
+      ko: "반원"
+    gender: m
+    notes:
+      en: "Compound: halb (half) + Kreis (circle)"
+      ko: "합성어: halb (반) + Kreis (원)"
+  - german: "der Winkel, -"
+    translation:
+      en: "angle / corner"
+      ko: "각도 / 모퉁이"
+    gender: m
+    notes:
+      en: "der rechte Winkel = right angle (90°)"
+      ko: "der rechte Winkel = 직각 (90°)"
+
+- id: materialien
+  label:
+    en: "Materials and Textures"
+    ko: "재료와 질감"
+  type: vocabulary
+  words:
+  - german: "das Holz, Hölzer"
+    translation:
+      en: "wood"
+      ko: "나무 / 목재"
+    gender: n
+    notes:
+      en: "aus Holz = made of wood"
+      ko: "aus Holz = 나무로 만든"
+  - german: "das Metall, -e"
+    translation:
+      en: "metal"
+      ko: "금속"
+    gender: n
+    notes:
+      en: "aus Metall = made of metal"
+      ko: "aus Metall = 금속으로 만든"
+  - german: "das Glas"
+    translation:
+      en: "glass (material)"
+      ko: "유리 (재료)"
+    gender: n
+    notes:
+      en: "aus Glas = made of glass; zerbrechlich = fragile"
+      ko: "aus Glas = 유리로 만든; zerbrechlich = 깨지기 쉬운"
+  - german: "der Stein, -e"
+    translation:
+      en: "stone (material)"
+      ko: "돌 (재료)"
+    gender: m
+    notes:
+      en: "aus Stein = made of stone"
+      ko: "aus Stein = 돌로 만든"
+  - german: "das Plastik"
+    translation:
+      en: "plastic"
+      ko: "플라스틱"
+    gender: n
+    notes:
+      en: "aus Plastik = made of plastic; der Kunststoff = synthetic material"
+      ko: "aus Plastik = 플라스틱으로 만든; der Kunststoff = 합성 재료"
+  - german: "das Papier, -e"
+    translation:
+      en: "paper"
+      ko: "종이"
+    gender: n
+    notes:
+      en: "das Toilettenpapier = toilet paper"
+      ko: "das Toilettenpapier = 화장지"
+  - german: "das Leder"
+    translation:
+      en: "leather"
+      ko: "가죽"
+    gender: n
+    notes:
+      en: "die Lederhose = leather pants (Bavarian traditional)"
+      ko: "die Lederhose = 가죽 바지 (바이에른 전통)"
+  - german: "die Wolle"
+    translation:
+      en: "wool"
+      ko: "양모 / 털실"
+    gender: f
+    notes:
+      en: "aus Wolle = made of wool"
+      ko: "aus Wolle = 양모로 만든"
+  - german: "die Baumwolle"
+    translation:
+      en: "cotton"
+      ko: "면 / 목화"
+    gender: f
+    notes:
+      en: "Compound: Baum (tree) + Wolle (wool)"
+      ko: "합성어: Baum (나무) + Wolle (양모)"
+  - german: "die Seide"
+    translation:
+      en: "silk"
+      ko: "비단 / 실크"
+    gender: f
+    notes:
+      en: "aus Seide = made of silk"
+      ko: "aus Seide = 실크로 만든"
+  - german: "der Stoff, -e"
+    translation:
+      en: "fabric / material / substance"
+      ko: "천 / 소재 / 물질"
+    gender: m
+    notes:
+      en: "Can mean fabric, substance, or subject matter"
+      ko: "천, 물질 또는 소재를 의미할 수 있음"
+  - german: "das Gummi, -s"
+    translation:
+      en: "rubber"
+      ko: "고무"
+    gender: n
+    notes:
+      en: "das Gummiband = rubber band"
+      ko: "das Gummiband = 고무줄"
+  - german: "das Eisen"
+    translation:
+      en: "iron (material)"
+      ko: "철"
+    gender: n
+    notes:
+      en: "die Eisenbahn = railway (literally 'iron road')"
+      ko: "die Eisenbahn = 철도 (직역: '철의 길')"
+  - german: "der Stahl"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: m
+    notes:
+      en: "Nerven aus Stahl = nerves of steel"
+      ko: "Nerven aus Stahl = 강철 같은 신경"
+  - german: "das Aluminium"
+    translation:
+      en: "aluminum"
+      ko: "알루미늄"
+    gender: n
+    notes:
+      en: "die Alufolie = aluminum foil"
+      ko: "die Alufolie = 알루미늄 호일"
+  - german: "das Gold"
+    translation:
+      en: "gold (material)"
+      ko: "금 (재료)"
+    gender: n
+    notes:
+      en: "Es ist nicht alles Gold, was glänzt = All that glitters is not gold"
+      ko: "Es ist nicht alles Gold, was glänzt = 반짝인다고 다 금은 아니다"
+  - german: "das Silber"
+    translation:
+      en: "silver (material)"
+      ko: "은 (재료)"
+    gender: n
+    notes:
+      en: "Reden ist Silber, Schweigen ist Gold = Speech is silver, silence is gold"
+      ko: "Reden ist Silber, Schweigen ist Gold = 말은 은이요, 침묵은 금이다"
+  - german: "der Ton"
+    translation:
+      en: "clay"
+      ko: "점토"
+    gender: m
+    notes:
+      en: "Also means 'tone' or 'sound'"
+      ko: "'음색' 또는 '소리'를 의미하기도 함"
+  - german: "der Beton"
+    translation:
+      en: "concrete"
+      ko: "콘크리트"
+    gender: m
+    notes:
+      en: "Common building material"
+      ko: "일반적인 건축 재료"
+  - german: "der Ziegel, -"
+    translation:
+      en: "brick / tile"
+      ko: "벽돌 / 기와"
+    gender: m
+    notes:
+      en: "das Ziegeldach = tile roof"
+      ko: "das Ziegeldach = 기와 지붕"
+  - german: "das Porzellan"
+    translation:
+      en: "porcelain / china"
+      ko: "도자기"
+    gender: n
+    notes:
+      en: "Meißner Porzellan = famous German porcelain"
+      ko: "Meißner Porzellan = 유명한 독일 도자기"
+  - german: "der Kunststoff, -e"
+    translation:
+      en: "synthetic material / plastic"
+      ko: "합성 재료 / 플라스틱"
+    gender: m
+    notes:
+      en: "More formal term than Plastik"
+      ko: "Plastik보다 격식 있는 표현"
+  - german: "das Leinen"
+    translation:
+      en: "linen"
+      ko: "리넨"
+    gender: n
+    notes:
+      en: "Cool fabric for summer clothing"
+      ko: "여름 의류에 적합한 시원한 천"
+  - german: "der Samt"
+    translation:
+      en: "velvet"
+      ko: "벨벳"
+    gender: m
+    notes:
+      en: "samtig = velvety / smooth"
+      ko: "samtig = 벨벳 같은 / 부드러운"
+  - german: "das Polyester"
+    translation:
+      en: "polyester"
+      ko: "폴리에스터"
+    gender: n
+    notes:
+      en: "Common synthetic fabric"
+      ko: "일반적인 합성 섬유"
+
+- id: groessen_masse
+  label:
+    en: "Sizes, Measurements, and Properties"
+    ko: "크기, 측정, 그리고 성질"
+  type: vocabulary
+  words:
+  - german: "die Größe, -n"
+    translation:
+      en: "size / height"
+      ko: "크기 / 키"
+    gender: f
+    notes:
+      en: "Welche Größe? = What size?"
+      ko: "Welche Größe? = 사이즈가 어떻게 되세요?"
+  - german: "lang"
+    translation:
+      en: "long"
+      ko: "긴"
+    gender: null
+    notes:
+      en: "die Länge = length"
+      ko: "die Länge = 길이"
+  - german: "kurz"
+    translation:
+      en: "short (length)"
+      ko: "짧은"
+    gender: null
+    notes:
+      en: "die Kürze = shortness; in Kürze = shortly"
+      ko: "die Kürze = 짧음; in Kürze = 곧"
+  - german: "breit"
+    translation:
+      en: "wide / broad"
+      ko: "넓은"
+    gender: null
+    notes:
+      en: "die Breite = width"
+      ko: "die Breite = 너비"
+  - german: "eng"
+    translation:
+      en: "narrow / tight"
+      ko: "좁은 / 꽉 끼는"
+    gender: null
+    notes:
+      en: "Opposite of breit (wide) or weit (loose)"
+      ko: "breit (넓은) 또는 weit (헐렁한)의 반대말"
+  - german: "hoch"
+    translation:
+      en: "high / tall"
+      ko: "높은"
+    gender: null
+    notes:
+      en: "die Höhe = height; hoher Turm = tall tower"
+      ko: "die Höhe = 높이; hoher Turm = 높은 탑"
+  - german: "tief"
+    translation:
+      en: "deep / low"
+      ko: "깊은 / 낮은"
+    gender: null
+    notes:
+      en: "die Tiefe = depth"
+      ko: "die Tiefe = 깊이"
+  - german: "der Meter, -"
+    translation:
+      en: "meter"
+      ko: "미터"
+    gender: m
+    notes:
+      en: "der Zentimeter = centimeter; der Kilometer = kilometer"
+      ko: "der Zentimeter = 센티미터; der Kilometer = 킬로미터"
+  - german: "das Kilogramm, -"
+    translation:
+      en: "kilogram"
+      ko: "킬로그램"
+    gender: n
+    notes:
+      en: "Shortened to 'Kilo' in daily speech"
+      ko: "일상 대화에서 'Kilo'로 줄여 말함"
+  - german: "der Liter, -"
+    translation:
+      en: "liter"
+      ko: "리터"
+    gender: m
+    notes:
+      en: "ein Liter Milch = one liter of milk"
+      ko: "ein Liter Milch = 우유 1리터"
+  - german: "das Stück, -e"
+    translation:
+      en: "piece / unit"
+      ko: "조각 / 개"
+    gender: n
+    notes:
+      en: "ein Stück Kuchen = a piece of cake"
+      ko: "ein Stück Kuchen = 케이크 한 조각"
+  - german: "voll"
+    translation:
+      en: "full"
+      ko: "가득 찬"
+    gender: null
+    notes:
+      en: "Opposite of leer (empty)"
+      ko: "leer (비어 있는)의 반대말"
+  - german: "leer"
+    translation:
+      en: "empty"
+      ko: "비어 있는"
+    gender: null
+    notes:
+      en: "das Leergut = empty bottles (for recycling)"
+      ko: "das Leergut = 빈 병 (재활용용)"
+  - german: "die Hälfte, -n"
+    translation:
+      en: "half"
+      ko: "절반"
+    gender: f
+    notes:
+      en: "die Hälfte von = half of"
+      ko: "die Hälfte von = ~의 절반"
+  - german: "das Paar, -e"
+    translation:
+      en: "pair / couple"
+      ko: "한 쌍 / 한 켤레"
+    gender: n
+    notes:
+      en: "ein Paar Schuhe = a pair of shoes; ein paar = a few"
+      ko: "ein Paar Schuhe = 신발 한 켤레; ein paar = 몇몇"
+  - german: "hart"
+    translation:
+      en: "hard"
+      ko: "딱딱한 / 단단한"
+    gender: null
+    notes:
+      en: "Opposite of weich (soft)"
+      ko: "weich (부드러운)의 반대말"
+  - german: "weich"
+    translation:
+      en: "soft"
+      ko: "부드러운"
+    gender: null
+    notes:
+      en: "Opposite of hart (hard)"
+      ko: "hart (딱딱한)의 반대말"
+  - german: "glatt"
+    translation:
+      en: "smooth / slippery"
+      ko: "매끄러운 / 미끄러운"
+    gender: null
+    notes:
+      en: "Vorsicht, glatt! = Caution, slippery!"
+      ko: "Vorsicht, glatt! = 주의, 미끄러움!"
+  - german: "rau"
+    translation:
+      en: "rough"
+      ko: "거친"
+    gender: null
+    notes:
+      en: "Opposite of glatt (smooth)"
+      ko: "glatt (매끄러운)의 반대말"
+  - german: "leicht"
+    translation:
+      en: "light (weight) / easy"
+      ko: "가벼운 / 쉬운"
+    gender: null
+    notes:
+      en: "Two meanings: weight and difficulty"
+      ko: "두 가지 의미: 무게와 난이도"
+  - german: "schwer"
+    translation:
+      en: "heavy / difficult"
+      ko: "무거운 / 어려운"
+    gender: null
+    notes:
+      en: "Two meanings: weight and difficulty"
+      ko: "두 가지 의미: 무게와 난이도"
+  - german: "dick"
+    translation:
+      en: "thick / fat"
+      ko: "두꺼운 / 뚱뚱한"
+    gender: null
+    notes:
+      en: "durch dick und dünn = through thick and thin"
+      ko: "durch dick und dünn = 어떤 상황에서도"
+  - german: "dünn"
+    translation:
+      en: "thin"
+      ko: "얇은 / 마른"
+    gender: null
+    notes:
+      en: "Opposite of dick (thick)"
+      ko: "dick (두꺼운)의 반대말"
+  - german: "nass"
+    translation:
+      en: "wet"
+      ko: "젖은"
+    gender: null
+    notes:
+      en: "Opposite of trocken (dry)"
+      ko: "trocken (마른)의 반대말"
+  - german: "trocken"
+    translation:
+      en: "dry"
+      ko: "마른 / 건조한"
+    gender: null
+    notes:
+      en: "trockener Humor = dry humor"
+      ko: "trockener Humor = 건조한 유머"
+  - german: "fest"
+    translation:
+      en: "firm / solid / fixed"
+      ko: "단단한 / 고체의 / 고정된"
+    gender: null
+    notes:
+      en: "Opposite of flüssig (liquid) or locker (loose)"
+      ko: "flüssig (액체의) 또는 locker (느슨한)의 반대말"
+  - german: "flüssig"
+    translation:
+      en: "liquid / fluid"
+      ko: "액체의 / 유동적인"
+    gender: null
+    notes:
+      en: "die Flüssigkeit = liquid / fluid"
+      ko: "die Flüssigkeit = 액체"
+  - german: "zerbrechlich"
+    translation:
+      en: "fragile / breakable"
+      ko: "깨지기 쉬운"
+    gender: null
+    notes:
+      en: "Vorsicht, zerbrechlich! = Handle with care!"
+      ko: "Vorsicht, zerbrechlich! = 취급 주의!"
+  - german: "stabil"
+    translation:
+      en: "stable / sturdy"
+      ko: "안정적인 / 튼튼한"
+    gender: null
+    notes:
+      en: "die Stabilität = stability"
+      ko: "die Stabilität = 안정성"
+  - german: "elastisch"
+    translation:
+      en: "elastic / stretchy"
+      ko: "탄력 있는 / 늘어나는"
+    gender: null
+    notes:
+      en: "das Gummiband ist elastisch = the rubber band is stretchy"
+      ko: "das Gummiband ist elastisch = 고무줄은 늘어난다"
+  - german: "weit"
+    translation:
+      en: "wide / far / loose"
+      ko: "넓은 / 먼 / 헐렁한"
+    gender: null
+    notes:
+      en: "Multiple meanings depending on context"
+      ko: "문맥에 따라 여러 의미를 가짐"
+  - german: "riesig"
+    translation:
+      en: "huge / enormous"
+      ko: "거대한"
+    gender: null
+    notes:
+      en: "der Riese = giant"
+      ko: "der Riese = 거인"
+  - german: "winzig"
+    translation:
+      en: "tiny / minuscule"
+      ko: "아주 작은"
+    gender: null
+    notes:
+      en: "Opposite of riesig (enormous)"
+      ko: "riesig (거대한)의 반대말"
+  - german: "mittel"
+    translation:
+      en: "medium / middle"
+      ko: "중간의"
+    gender: null
+    notes:
+      en: "Größe M = medium size"
+      ko: "Größe M = 중간 사이즈"
+  - german: "doppelt"
+    translation:
+      en: "double"
+      ko: "두 배의 / 이중의"
+    gender: null
+    notes:
+      en: "doppelt so groß = twice as big"
+      ko: "doppelt so groß = 두 배 큰"
+  - german: "halb"
+    translation:
+      en: "half"
+      ko: "반의 / 절반의"
+    gender: null
+    notes:
+      en: "halb so groß = half as big"
+      ko: "halb so groß = 절반 크기의"

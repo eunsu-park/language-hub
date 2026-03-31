@@ -1,0 +1,880 @@
+lesson: "sup_A1_Household_and_Rooms"
+lesson_number: 103
+cefr: A1
+type: supplementary
+topic: "Household and Rooms"
+categories:
+- id: zimmer
+  label:
+    en: "Rooms of the House (Zimmer)"
+    ko: "집의 방 (Zimmer)"
+  type: vocabulary
+  words:
+  - german: "das Haus, Häuser"
+    translation:
+      en: "house"
+      ko: "집"
+    gender: n
+    notes:
+      en: "zu Hause = at home; nach Hause = going home"
+      ko: "zu Hause = 집에서; nach Hause = 집으로"
+  - german: "die Wohnung, -en"
+    translation:
+      en: "apartment / flat"
+      ko: "아파트"
+    gender: f
+    notes:
+      en: "Most Germans rent rather than own"
+      ko: "대부분의 독일인은 집을 소유하기보다 임대함"
+  - german: "das Zimmer, -"
+    translation:
+      en: "room"
+      ko: "방"
+    gender: n
+    notes:
+      en: "das Einzelzimmer = single room; das Doppelzimmer = double room"
+      ko: "das Einzelzimmer = 1인실; das Doppelzimmer = 2인실"
+  - german: "die Küche, -n"
+    translation:
+      en: "kitchen"
+      ko: "부엌"
+    gender: f
+    notes:
+      en: "Often the social center of a German home"
+      ko: "독일 가정에서 흔히 사교의 중심"
+  - german: "das Wohnzimmer, -"
+    translation:
+      en: "living room"
+      ko: "거실"
+    gender: n
+    notes:
+      en: "Compound: wohnen (to live) + Zimmer (room)"
+      ko: "합성어: wohnen (살다) + Zimmer (방)"
+  - german: "das Schlafzimmer, -"
+    translation:
+      en: "bedroom"
+      ko: "침실"
+    gender: n
+    notes:
+      en: "Compound: schlafen (to sleep) + Zimmer (room)"
+      ko: "합성어: schlafen (자다) + Zimmer (방)"
+  - german: "das Badezimmer, -"
+    translation:
+      en: "bathroom"
+      ko: "욕실"
+    gender: n
+    notes:
+      en: "Often shortened to 'das Bad'"
+      ko: "흔히 'das Bad'로 줄여 말함"
+  - german: "die Toilette, -n"
+    translation:
+      en: "toilet / restroom"
+      ko: "화장실"
+    gender: f
+    notes:
+      en: "Also: das WC, das Klo (colloquial)"
+      ko: "또한: das WC, das Klo (구어)"
+  - german: "der Flur, -e"
+    translation:
+      en: "hallway / corridor"
+      ko: "복도"
+    gender: m
+    notes:
+      en: "Entrance area of a home"
+      ko: "집의 입구 공간"
+  - german: "der Keller, -"
+    translation:
+      en: "basement / cellar"
+      ko: "지하실"
+    gender: m
+    notes:
+      en: "Common storage area in German homes"
+      ko: "독일 가정에서 흔한 저장 공간"
+  - german: "der Dachboden, Dachböden"
+    translation:
+      en: "attic"
+      ko: "다락방"
+    gender: m
+    notes:
+      en: "Compound: Dach (roof) + Boden (floor)"
+      ko: "합성어: Dach (지붕) + Boden (바닥)"
+  - german: "der Balkon, -e"
+    translation:
+      en: "balcony"
+      ko: "발코니"
+    gender: m
+    notes:
+      en: "Very desirable feature in German apartments"
+      ko: "독일 아파트에서 매우 선호되는 요소"
+  - german: "die Garage, -n"
+    translation:
+      en: "garage"
+      ko: "차고"
+    gender: f
+    notes:
+      en: "Pronounced more like French in German"
+      ko: "독일어에서 프랑스어처럼 발음됨"
+  - german: "die Treppe, -n"
+    translation:
+      en: "stairs / staircase"
+      ko: "계단"
+    gender: f
+    notes:
+      en: "das Treppenhaus = stairwell"
+      ko: "das Treppenhaus = 계단실"
+  - german: "das Arbeitszimmer, -"
+    translation:
+      en: "study / home office"
+      ko: "서재 / 홈오피스"
+    gender: n
+    notes:
+      en: "Compound: Arbeit (work) + Zimmer (room)"
+      ko: "합성어: Arbeit (일) + Zimmer (방)"
+  - german: "das Kinderzimmer, -"
+    translation:
+      en: "children's room"
+      ko: "아이 방"
+    gender: n
+    notes:
+      en: "Compound: Kind (child) + Zimmer (room)"
+      ko: "합성어: Kind (아이) + Zimmer (방)"
+  - german: "der Eingang, Eingänge"
+    translation:
+      en: "entrance"
+      ko: "입구"
+    gender: m
+    notes:
+      en: "Opposite: der Ausgang (exit)"
+      ko: "반대: der Ausgang (출구)"
+  - german: "die Terrasse, -n"
+    translation:
+      en: "terrace / patio"
+      ko: "테라스"
+    gender: f
+    notes:
+      en: "Ground-level outdoor area"
+      ko: "1층 야외 공간"
+  - german: "das Dach, Dächer"
+    translation:
+      en: "roof"
+      ko: "지붕"
+    gender: n
+    notes:
+      en: "ein Dach über dem Kopf haben = to have a roof over one's head"
+      ko: "ein Dach über dem Kopf haben = 지붕 아래 살 곳이 있다"
+  - german: "die Wand, Wände"
+    translation:
+      en: "wall (interior)"
+      ko: "벽 (실내)"
+    gender: f
+    notes:
+      en: "die Mauer = exterior/structural wall"
+      ko: "die Mauer = 외벽 / 구조벽"
+  - german: "der Boden, Böden"
+    translation:
+      en: "floor / ground"
+      ko: "바닥"
+    gender: m
+    notes:
+      en: "der Fußboden = floor (of a room)"
+      ko: "der Fußboden = (방의) 바닥"
+  - german: "die Decke, -n"
+    translation:
+      en: "ceiling / blanket"
+      ko: "천장 / 담요"
+    gender: f
+    notes:
+      en: "Two meanings: ceiling (of room) or blanket"
+      ko: "두 가지 의미: (방의) 천장 또는 담요"
+  - german: "die Tür, -en"
+    translation:
+      en: "door"
+      ko: "문"
+    gender: f
+    notes:
+      en: "die Haustür = front door"
+      ko: "die Haustür = 현관문"
+  - german: "das Fenster, -"
+    translation:
+      en: "window"
+      ko: "창문"
+    gender: n
+    notes:
+      en: "das Fenster aufmachen = to open the window"
+      ko: "das Fenster aufmachen = 창문을 열다"
+  - german: "der Aufzug, Aufzüge"
+    translation:
+      en: "elevator / lift"
+      ko: "엘리베이터"
+    gender: m
+    notes:
+      en: "Also called 'der Fahrstuhl' or 'der Lift'"
+      ko: "'der Fahrstuhl' 또는 'der Lift'라고도 함"
+  - german: "das Stockwerk, -e"
+    translation:
+      en: "floor / story (of building)"
+      ko: "층"
+    gender: n
+    notes:
+      en: "das Erdgeschoss = ground floor"
+      ko: "das Erdgeschoss = 1층 (지상층)"
+  - german: "die Miete, -n"
+    translation:
+      en: "rent"
+      ko: "임대료"
+    gender: f
+    notes:
+      en: "mieten = to rent; der Mieter = tenant"
+      ko: "mieten = 임대하다; der Mieter = 세입자"
+  - german: "der Vermieter, -"
+    translation:
+      en: "landlord"
+      ko: "집주인"
+    gender: m
+    notes:
+      en: "die Vermieterin = female landlord"
+      ko: "die Vermieterin = 여성 집주인"
+  - german: "der Gast, Gäste"
+    translation:
+      en: "guest"
+      ko: "손님"
+    gender: m
+    notes:
+      en: "das Gästezimmer = guest room"
+      ko: "das Gästezimmer = 손님 방"
+  - german: "der Nachbar, -n"
+    translation:
+      en: "neighbor"
+      ko: "이웃"
+    gender: m
+    notes:
+      en: "die Nachbarschaft = neighborhood"
+      ko: "die Nachbarschaft = 이웃 / 동네"
+
+- id: moebel
+  label:
+    en: "Furniture (Möbel)"
+    ko: "가구 (Möbel)"
+  type: vocabulary
+  words:
+  - german: "das Möbel, -"
+    translation:
+      en: "piece of furniture"
+      ko: "가구"
+    gender: n
+    notes:
+      en: "Usually used in plural: die Möbel = furniture"
+      ko: "보통 복수로 사용: die Möbel = 가구"
+  - german: "der Tisch, -e"
+    translation:
+      en: "table"
+      ko: "탁자 / 테이블"
+    gender: m
+    notes:
+      en: "der Esstisch = dining table; der Schreibtisch = desk"
+      ko: "der Esstisch = 식탁; der Schreibtisch = 책상"
+  - german: "der Stuhl, Stühle"
+    translation:
+      en: "chair"
+      ko: "의자"
+    gender: m
+    notes:
+      en: "der Bürostuhl = office chair"
+      ko: "der Bürostuhl = 사무용 의자"
+  - german: "das Sofa, -s"
+    translation:
+      en: "sofa / couch"
+      ko: "소파"
+    gender: n
+    notes:
+      en: "Also called 'die Couch'"
+      ko: "'die Couch'라고도 함"
+  - german: "das Bett, -en"
+    translation:
+      en: "bed"
+      ko: "침대"
+    gender: n
+    notes:
+      en: "ins Bett gehen = to go to bed"
+      ko: "ins Bett gehen = 잠자리에 들다"
+  - german: "der Schrank, Schränke"
+    translation:
+      en: "cabinet / wardrobe"
+      ko: "장 / 옷장"
+    gender: m
+    notes:
+      en: "der Kleiderschrank = wardrobe; der Kühlschrank = fridge"
+      ko: "der Kleiderschrank = 옷장; der Kühlschrank = 냉장고"
+  - german: "das Regal, -e"
+    translation:
+      en: "shelf / shelving unit"
+      ko: "선반"
+    gender: n
+    notes:
+      en: "das Bücherregal = bookshelf"
+      ko: "das Bücherregal = 책장"
+  - german: "die Lampe, -n"
+    translation:
+      en: "lamp"
+      ko: "램프 / 조명"
+    gender: f
+    notes:
+      en: "die Schreibtischlampe = desk lamp"
+      ko: "die Schreibtischlampe = 탁상 램프"
+  - german: "der Teppich, -e"
+    translation:
+      en: "carpet / rug"
+      ko: "카펫 / 양탄자"
+    gender: m
+    notes:
+      en: "der fliegende Teppich = flying carpet"
+      ko: "der fliegende Teppich = 마법의 양탄자"
+  - german: "der Vorhang, Vorhänge"
+    translation:
+      en: "curtain"
+      ko: "커튼"
+    gender: m
+    notes:
+      en: "Also called 'die Gardine'"
+      ko: "'die Gardine'이라고도 함"
+  - german: "der Spiegel, -"
+    translation:
+      en: "mirror"
+      ko: "거울"
+    gender: m
+    notes:
+      en: "Also a famous German news magazine"
+      ko: "유명한 독일 뉴스 잡지 이름이기도 함"
+  - german: "die Kommode, -n"
+    translation:
+      en: "dresser / chest of drawers"
+      ko: "서랍장"
+    gender: f
+    notes:
+      en: "From French 'commode'"
+      ko: "프랑스어 'commode'에서 유래"
+  - german: "der Schreibtisch, -e"
+    translation:
+      en: "desk"
+      ko: "책상"
+    gender: m
+    notes:
+      en: "Compound: schreiben (to write) + Tisch (table)"
+      ko: "합성어: schreiben (쓰다) + Tisch (탁자)"
+  - german: "das Kissen, -"
+    translation:
+      en: "pillow / cushion"
+      ko: "베개 / 쿠션"
+    gender: n
+    notes:
+      en: "das Kopfkissen = head pillow"
+      ko: "das Kopfkissen = 머리 베개"
+  - german: "die Matratze, -n"
+    translation:
+      en: "mattress"
+      ko: "매트리스"
+    gender: f
+    notes:
+      en: "eine gute Matratze = a good mattress"
+      ko: "eine gute Matratze = 좋은 매트리스"
+  - german: "die Bettdecke, -n"
+    translation:
+      en: "duvet / comforter"
+      ko: "이불"
+    gender: f
+    notes:
+      en: "Compound: Bett (bed) + Decke (cover)"
+      ko: "합성어: Bett (침대) + Decke (덮개)"
+  - german: "das Bücherregal, -e"
+    translation:
+      en: "bookshelf"
+      ko: "책장"
+    gender: n
+    notes:
+      en: "Compound: Buch (book) + Regal (shelf)"
+      ko: "합성어: Buch (책) + Regal (선반)"
+  - german: "der Sessel, -"
+    translation:
+      en: "armchair"
+      ko: "안락의자"
+    gender: m
+    notes:
+      en: "der Ohrensessel = wing chair"
+      ko: "der Ohrensessel = 날개의자"
+  - german: "die Schublade, -n"
+    translation:
+      en: "drawer"
+      ko: "서랍"
+    gender: f
+    notes:
+      en: "From schieben (to push)"
+      ko: "schieben (밀다)에서 유래"
+  - german: "das Bild, -er"
+    translation:
+      en: "picture / painting"
+      ko: "그림 / 사진"
+    gender: n
+    notes:
+      en: "ein Bild aufhängen = to hang a picture"
+      ko: "ein Bild aufhängen = 그림을 걸다"
+  - german: "die Wanduhr, -en"
+    translation:
+      en: "wall clock"
+      ko: "벽시계"
+    gender: f
+    notes:
+      en: "Compound: Wand (wall) + Uhr (clock)"
+      ko: "합성어: Wand (벽) + Uhr (시계)"
+  - german: "die Vase, -n"
+    translation:
+      en: "vase"
+      ko: "꽃병"
+    gender: f
+    notes:
+      en: "eine Vase mit Blumen = a vase with flowers"
+      ko: "eine Vase mit Blumen = 꽃이 꽂힌 꽃병"
+
+- id: kueche_gegenstaende
+  label:
+    en: "Kitchen Items"
+    ko: "주방 용품"
+  type: vocabulary
+  words:
+  - german: "der Wasserkocher, -"
+    translation:
+      en: "electric kettle"
+      ko: "전기 주전자"
+    gender: m
+    notes:
+      en: "Essential in every German kitchen"
+      ko: "모든 독일 부엌에 필수"
+  - german: "die Spülmaschine, -n"
+    translation:
+      en: "dishwasher"
+      ko: "식기세척기"
+    gender: f
+    notes:
+      en: "Also called 'der Geschirrspüler'"
+      ko: "'der Geschirrspüler'라고도 함"
+  - german: "die Mikrowelle, -n"
+    translation:
+      en: "microwave"
+      ko: "전자레인지"
+    gender: f
+    notes:
+      en: "Short for 'der Mikrowellenherd'"
+      ko: "'der Mikrowellenherd'의 줄임말"
+  - german: "die Kaffeemaschine, -n"
+    translation:
+      en: "coffee maker"
+      ko: "커피 머신"
+    gender: f
+    notes:
+      en: "Very common appliance in German households"
+      ko: "독일 가정에서 매우 흔한 가전제품"
+  - german: "der Toaster, -"
+    translation:
+      en: "toaster"
+      ko: "토스터"
+    gender: m
+    notes:
+      en: "For making Toast (toast bread)"
+      ko: "Toast (토스트 빵)를 만드는 데 사용"
+  - german: "das Schneidebrett, -er"
+    translation:
+      en: "cutting board"
+      ko: "도마"
+    gender: n
+    notes:
+      en: "Compound: schneiden (to cut) + Brett (board)"
+      ko: "합성어: schneiden (자르다) + Brett (판)"
+  - german: "die Schüssel, -n"
+    translation:
+      en: "bowl"
+      ko: "그릇 / 사발"
+    gender: f
+    notes:
+      en: "die Salatschüssel = salad bowl"
+      ko: "die Salatschüssel = 샐러드 그릇"
+  - german: "die Dose, -n"
+    translation:
+      en: "can / tin"
+      ko: "캔 / 통조림"
+    gender: f
+    notes:
+      en: "die Konservendose = canned food"
+      ko: "die Konservendose = 통조림 캔"
+  - german: "die Flasche, -n"
+    translation:
+      en: "bottle"
+      ko: "병"
+    gender: f
+    notes:
+      en: "das Pfand = bottle deposit (very common in Germany)"
+      ko: "das Pfand = 병 보증금 (독일에서 매우 흔함)"
+  - german: "die Schürze, -n"
+    translation:
+      en: "apron"
+      ko: "앞치마"
+    gender: f
+    notes:
+      en: "die Kochschürze = cooking apron"
+      ko: "die Kochschürze = 요리용 앞치마"
+  - german: "das Geschirr"
+    translation:
+      en: "dishes / tableware"
+      ko: "식기"
+    gender: n
+    notes:
+      en: "Geschirr spülen = to wash dishes"
+      ko: "Geschirr spülen = 설거지하다"
+  - german: "der Dosenöffner, -"
+    translation:
+      en: "can opener"
+      ko: "캔 따개"
+    gender: m
+    notes:
+      en: "Compound: Dose (can) + Öffner (opener)"
+      ko: "합성어: Dose (캔) + Öffner (따개)"
+  - german: "das Tablett, -s"
+    translation:
+      en: "tray"
+      ko: "쟁반"
+    gender: n
+    notes:
+      en: "ein Tablett tragen = to carry a tray"
+      ko: "ein Tablett tragen = 쟁반을 나르다"
+  - german: "die Kanne, -n"
+    translation:
+      en: "jug / pot (for pouring)"
+      ko: "주전자 / 포트"
+    gender: f
+    notes:
+      en: "die Teekanne = teapot; die Kaffeekanne = coffee pot"
+      ko: "die Teekanne = 찻주전자; die Kaffeekanne = 커피포트"
+  - german: "die Serviette, -n"
+    translation:
+      en: "napkin"
+      ko: "냅킨"
+    gender: f
+    notes:
+      en: "French loanword"
+      ko: "프랑스어 차용어"
+
+- id: bad_gegenstaende
+  label:
+    en: "Bathroom Items"
+    ko: "욕실 용품"
+  type: vocabulary
+  words:
+  - german: "die Dusche, -n"
+    translation:
+      en: "shower"
+      ko: "샤워"
+    gender: f
+    notes:
+      en: "duschen = to take a shower"
+      ko: "duschen = 샤워하다"
+  - german: "die Badewanne, -n"
+    translation:
+      en: "bathtub"
+      ko: "욕조"
+    gender: f
+    notes:
+      en: "Compound: Bad (bath) + Wanne (tub)"
+      ko: "합성어: Bad (목욕) + Wanne (통)"
+  - german: "das Waschbecken, -"
+    translation:
+      en: "sink / washbasin"
+      ko: "세면대"
+    gender: n
+    notes:
+      en: "Compound: waschen (to wash) + Becken (basin)"
+      ko: "합성어: waschen (씻다) + Becken (대야)"
+  - german: "die Seife, -n"
+    translation:
+      en: "soap"
+      ko: "비누"
+    gender: f
+    notes:
+      en: "die Flüssigseife = liquid soap"
+      ko: "die Flüssigseife = 물비누"
+  - german: "das Handtuch, Handtücher"
+    translation:
+      en: "towel"
+      ko: "수건"
+    gender: n
+    notes:
+      en: "Compound: Hand (hand) + Tuch (cloth)"
+      ko: "합성어: Hand (손) + Tuch (천)"
+  - german: "die Zahnbürste, -n"
+    translation:
+      en: "toothbrush"
+      ko: "칫솔"
+    gender: f
+    notes:
+      en: "Compound: Zahn (tooth) + Bürste (brush)"
+      ko: "합성어: Zahn (치아) + Bürste (솔)"
+  - german: "die Zahnpasta"
+    translation:
+      en: "toothpaste"
+      ko: "치약"
+    gender: f
+    notes:
+      en: "Also 'die Zahnpaste' or 'die Zahncreme'"
+      ko: "'die Zahnpaste' 또는 'die Zahncreme'라고도 함"
+  - german: "das Shampoo, -s"
+    translation:
+      en: "shampoo"
+      ko: "샴푸"
+    gender: n
+    notes:
+      en: "Same word as English, German pronunciation"
+      ko: "영어와 같은 단어, 독일어 발음"
+  - german: "der Föhn, -e"
+    translation:
+      en: "hair dryer"
+      ko: "헤어드라이어"
+    gender: m
+    notes:
+      en: "Originally a brand name; also a warm Alpine wind"
+      ko: "원래 상표명; 알프스의 따뜻한 바람을 뜻하기도 함"
+  - german: "die Waschmaschine, -n"
+    translation:
+      en: "washing machine"
+      ko: "세탁기"
+    gender: f
+    notes:
+      en: "Usually in the bathroom in German apartments"
+      ko: "독일 아파트에서는 보통 욕실에 위치"
+  - german: "der Wasserhahn, Wasserhähne"
+    translation:
+      en: "faucet / tap"
+      ko: "수도꼭지"
+    gender: m
+    notes:
+      en: "Compound: Wasser (water) + Hahn (rooster/cock)"
+      ko: "합성어: Wasser (물) + Hahn (수탉/꼭지)"
+  - german: "das Toilettenpapier"
+    translation:
+      en: "toilet paper"
+      ko: "화장지"
+    gender: n
+    notes:
+      en: "Also 'das Klopapier' (colloquial)"
+      ko: "'das Klopapier' (구어)라고도 함"
+  - german: "die Badematte, -n"
+    translation:
+      en: "bath mat"
+      ko: "욕실 매트"
+    gender: f
+    notes:
+      en: "Placed on the floor near the shower"
+      ko: "샤워기 근처 바닥에 까는 매트"
+  - german: "das Duschgel, -s"
+    translation:
+      en: "shower gel"
+      ko: "바디워시"
+    gender: n
+    notes:
+      en: "Alternative to bar soap"
+      ko: "고체 비누의 대안"
+  - german: "der Wäschekorb, Wäschekörbe"
+    translation:
+      en: "laundry basket"
+      ko: "빨래 바구니"
+    gender: m
+    notes:
+      en: "Compound: Wäsche (laundry) + Korb (basket)"
+      ko: "합성어: Wäsche (빨래) + Korb (바구니)"
+  - german: "der Wäscheständer, -"
+    translation:
+      en: "drying rack"
+      ko: "빨래 건조대"
+    gender: m
+    notes:
+      en: "Germans often air-dry clothes instead of using dryers"
+      ko: "독일인들은 건조기 대신 빨래를 자주 자연 건조함"
+
+- id: reinigung
+  label:
+    en: "Cleaning and Maintenance"
+    ko: "청소와 관리"
+  type: vocabulary
+  words:
+  - german: "putzen"
+    translation:
+      en: "to clean"
+      ko: "청소하다"
+    gender: null
+    notes:
+      en: "die Putzfrau = cleaning lady"
+      ko: "die Putzfrau = 청소 아주머니"
+  - german: "waschen"
+    translation:
+      en: "to wash"
+      ko: "씻다 / 세탁하다"
+    gender: null
+    notes:
+      en: "Irregular: waschen, wusch, gewaschen"
+      ko: "불규칙: waschen, wusch, gewaschen"
+  - german: "aufräumen"
+    translation:
+      en: "to tidy up / to clean up"
+      ko: "정리하다 / 치우다"
+    gender: null
+    notes:
+      en: "Separable verb: Ich räume auf"
+      ko: "분리 동사: Ich räume auf"
+  - german: "staubsaugen"
+    translation:
+      en: "to vacuum"
+      ko: "진공청소기로 청소하다"
+    gender: null
+    notes:
+      en: "der Staubsauger = vacuum cleaner"
+      ko: "der Staubsauger = 진공청소기"
+  - german: "spülen"
+    translation:
+      en: "to wash dishes / to rinse"
+      ko: "설거지하다 / 헹구다"
+    gender: null
+    notes:
+      en: "abspülen = to do the dishes"
+      ko: "abspülen = 설거지하다"
+  - german: "bügeln"
+    translation:
+      en: "to iron"
+      ko: "다림질하다"
+    gender: null
+    notes:
+      en: "das Bügeleisen = iron (the appliance)"
+      ko: "das Bügeleisen = 다리미"
+  - german: "der Besen, -"
+    translation:
+      en: "broom"
+      ko: "빗자루"
+    gender: m
+    notes:
+      en: "kehren / fegen = to sweep"
+      ko: "kehren / fegen = 쓸다"
+  - german: "der Eimer, -"
+    translation:
+      en: "bucket"
+      ko: "양동이"
+    gender: m
+    notes:
+      en: "der Mülleimer = trash can"
+      ko: "der Mülleimer = 쓰레기통"
+  - german: "der Müll"
+    translation:
+      en: "trash / garbage"
+      ko: "쓰레기"
+    gender: m
+    notes:
+      en: "Mülltrennung (waste separation) is very important in Germany"
+      ko: "Mülltrennung (쓰레기 분리수거)은 독일에서 매우 중요"
+  - german: "der Lappen, -"
+    translation:
+      en: "cloth / rag"
+      ko: "걸레 / 천"
+    gender: m
+    notes:
+      en: "der Putzlappen = cleaning cloth"
+      ko: "der Putzlappen = 청소용 걸레"
+  - german: "das Waschmittel, -"
+    translation:
+      en: "detergent"
+      ko: "세제"
+    gender: n
+    notes:
+      en: "das Spülmittel = dish soap"
+      ko: "das Spülmittel = 주방세제"
+  - german: "die Heizung, -en"
+    translation:
+      en: "heating / radiator"
+      ko: "난방 / 히터"
+    gender: f
+    notes:
+      en: "die Heizkosten = heating costs"
+      ko: "die Heizkosten = 난방비"
+  - german: "die Steckdose, -n"
+    translation:
+      en: "electrical outlet / socket"
+      ko: "콘센트"
+    gender: f
+    notes:
+      en: "der Stecker = plug"
+      ko: "der Stecker = 플러그"
+  - german: "der Schlüssel, -"
+    translation:
+      en: "key"
+      ko: "열쇠"
+    gender: m
+    notes:
+      en: "der Haustürschlüssel = front door key"
+      ko: "der Haustürschlüssel = 현관 열쇠"
+  - german: "trocknen"
+    translation:
+      en: "to dry"
+      ko: "말리다 / 건조하다"
+    gender: null
+    notes:
+      en: "der Trockner = dryer"
+      ko: "der Trockner = 건조기"
+  - german: "wischen"
+    translation:
+      en: "to wipe / to mop"
+      ko: "닦다 / 걸레질하다"
+    gender: null
+    notes:
+      en: "den Boden wischen = to mop the floor"
+      ko: "den Boden wischen = 바닥을 닦다"
+  - german: "der Schalter, -"
+    translation:
+      en: "switch"
+      ko: "스위치"
+    gender: m
+    notes:
+      en: "der Lichtschalter = light switch"
+      ko: "der Lichtschalter = 전등 스위치"
+  - german: "die Glühbirne, -n"
+    translation:
+      en: "light bulb"
+      ko: "전구"
+    gender: f
+    notes:
+      en: "Compound: glühen (to glow) + Birne (pear/bulb)"
+      ko: "합성어: glühen (빛나다) + Birne (배/전구)"
+  - german: "reparieren"
+    translation:
+      en: "to repair / to fix"
+      ko: "수리하다"
+    gender: null
+    notes:
+      en: "die Reparatur = repair"
+      ko: "die Reparatur = 수리"
+  - german: "kaputt"
+    translation:
+      en: "broken"
+      ko: "고장 난 / 망가진"
+    gender: null
+    notes:
+      en: "Die Lampe ist kaputt = The lamp is broken"
+      ko: "Die Lampe ist kaputt = 램프가 고장 났어요"
+  - german: "die Mülltonne, -n"
+    translation:
+      en: "garbage bin / dustbin"
+      ko: "쓰레기통 (대형)"
+    gender: f
+    notes:
+      en: "die gelbe Tonne = recycling bin (yellow)"
+      ko: "die gelbe Tonne = 재활용 쓰레기통 (노란색)"
+  - german: "recyceln"
+    translation:
+      en: "to recycle"
+      ko: "재활용하다"
+    gender: null
+    notes:
+      en: "Germany is a world leader in recycling"
+      ko: "독일은 재활용 분야의 세계적 선두 주자"

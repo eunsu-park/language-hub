@@ -1,0 +1,1484 @@
+lesson: "sup_B2_Architecture_and_Urban_Planning"
+lesson_number: 168
+cefr: B2
+type: supplementary
+topic: "Architecture and Urban Planning"
+categories:
+- id: gebaeudetypen
+  label:
+    en: "Building Types (Gebäudetypen)"
+    ko: "건물 유형 (Gebäudetypen)"
+  type: vocabulary
+  words:
+  - german: "das Hochhaus, Hochhäuser"
+    translation:
+      en: "high-rise building"
+      ko: "고층 건물"
+    gender: n
+    notes:
+      en: "der Wolkenkratzer = skyscraper"
+      ko: "der Wolkenkratzer = 초고층 빌딩"
+  - german: "das Einfamilienhaus, Einfamilienhäuser"
+    translation:
+      en: "detached house"
+      ko: "단독 주택"
+    gender: n
+    notes:
+      en: "das Mehrfamilienhaus = multi-family house"
+      ko: "das Mehrfamilienhaus = 다가구 주택"
+  - german: "das Reihenhaus, Reihenhäuser"
+    translation:
+      en: "terraced house / row house"
+      ko: "연립 주택"
+    gender: n
+    notes:
+      en: "die Doppelhaushälfte = semi-detached house"
+      ko: "die Doppelhaushälfte = 반독립 주택"
+  - german: "der Dom, -e"
+    translation:
+      en: "cathedral"
+      ko: "대성당"
+    gender: m
+    notes:
+      en: "der Kölner Dom = Cologne Cathedral"
+      ko: "der Kölner Dom = 쾰른 대성당"
+  - german: "das Schloss, Schlösser"
+    translation:
+      en: "castle / palace"
+      ko: "성 / 궁전"
+    gender: n
+    notes:
+      en: "die Burg = castle (fortified)"
+      ko: "die Burg = 성 (요새화된)"
+  - german: "das Rathaus, Rathäuser"
+    translation:
+      en: "city hall / town hall"
+      ko: "시청"
+    gender: n
+    notes:
+      en: "das Neue Rathaus München = New Town Hall Munich"
+      ko: "das Neue Rathaus München = 뮌헨 신시청"
+  - german: "die Fabrikhalle, -n"
+    translation:
+      en: "factory hall"
+      ko: "공장 건물"
+    gender: f
+    notes:
+      en: "die Industriehalle = industrial hall"
+      ko: "die Industriehalle = 산업용 건물"
+  - german: "das Lagerhaus, Lagerhäuser"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: n
+    notes:
+      en: "die Speicherstadt Hamburg = Hamburg warehouse district"
+      ko: "die Speicherstadt Hamburg = 함부르크 창고 지구"
+  - german: "der Plattenbau, -ten"
+    translation:
+      en: "prefabricated concrete building"
+      ko: "조립식 콘크리트 건물"
+    gender: m
+    notes:
+      en: "Typical of East German architecture"
+      ko: "동독 건축의 전형"
+  - german: "die Siedlung, -en"
+    translation:
+      en: "housing estate / settlement"
+      ko: "주거 단지"
+    gender: f
+    notes:
+      en: "die Wohnsiedlung = residential estate"
+      ko: "die Wohnsiedlung = 주거 단지"
+  - german: "das Fachwerkhaus, Fachwerkhäuser"
+    translation:
+      en: "half-timbered house"
+      ko: "목조 골조 주택"
+    gender: n
+    notes:
+      en: "Typical traditional German architecture"
+      ko: "독일의 전형적인 전통 건축 양식"
+  - german: "der Bunker, -"
+    translation:
+      en: "bunker"
+      ko: "벙커"
+    gender: m
+    notes:
+      en: "Many WWII bunkers remain in German cities"
+      ko: "독일 도시에 많은 2차 세계대전 벙커가 남아 있다"
+  - german: "das Gewächshaus, Gewächshäuser"
+    translation:
+      en: "greenhouse"
+      ko: "온실"
+    gender: n
+    notes:
+      en: "der Wintergarten = conservatory"
+      ko: "der Wintergarten = 온실 / 유리 베란다"
+  - german: "die Mensa, Mensen"
+    translation:
+      en: "cafeteria (university)"
+      ko: "학생 식당"
+    gender: f
+    notes:
+      en: "die Kantine = cafeteria (workplace)"
+      ko: "die Kantine = 구내식당 (직장)"
+  - german: "das Denkmal, Denkmäler"
+    translation:
+      en: "monument / memorial"
+      ko: "기념물"
+    gender: n
+    notes:
+      en: "der Denkmalschutz = monument protection"
+      ko: "der Denkmalschutz = 문화재 보호"
+  - german: "die Kuppel, -n"
+    translation:
+      en: "dome / cupola"
+      ko: "돔"
+    gender: f
+    notes:
+      en: "die Reichstagskuppel = Reichstag dome"
+      ko: "die Reichstagskuppel = 독일 연방의회 돔"
+  - german: "das Hochhaus, Hochhäuser"
+    translation:
+      en: "high-rise building"
+      ko: "고층 건물"
+    gender: n
+    notes:
+      en: "der Wolkenkratzer = skyscraper"
+      ko: "der Wolkenkratzer = 초고층 건물"
+  - german: "das Fachwerkhaus, Fachwerkhäuser"
+    translation:
+      en: "half-timbered house"
+      ko: "목조 주택"
+    gender: n
+    notes:
+      en: "typisch für deutsche Altstädte = typical of German old towns"
+      ko: "독일 구시가지의 전형"
+  - german: "die Pagode, -n"
+    translation:
+      en: "pagoda"
+      ko: "탑 / 파고다"
+    gender: f
+    notes:
+      en: "eine buddhistische Pagode = a Buddhist pagoda"
+      ko: "불교 탑"
+  - german: "das Amphitheater, -"
+    translation:
+      en: "amphitheater"
+      ko: "원형 극장"
+    gender: n
+    notes:
+      en: "das römische Amphitheater = Roman amphitheater"
+      ko: "로마 원형 극장"
+  - german: "das Minarett, -e"
+    translation:
+      en: "minaret"
+      ko: "미나렛"
+    gender: n
+    notes:
+      en: "der Ruf des Muezzins vom Minarett = the muezzin's call from the minaret"
+      ko: "미나렛에서의 무에진 소리"
+  - german: "die Basilika, Basiliken"
+    translation:
+      en: "basilica"
+      ko: "바실리카"
+    gender: f
+    notes:
+      en: "die frühchristliche Basilika = early Christian basilica"
+      ko: "초기 기독교 바실리카"
+  - german: "die Festung, -en"
+    translation:
+      en: "fortress"
+      ko: "요새"
+    gender: f
+    notes:
+      en: "eine mittelalterliche Festung = a medieval fortress"
+      ko: "중세 요새"
+  - german: "das Rathaus, Rathäuser"
+    translation:
+      en: "town hall / city hall"
+      ko: "시청"
+    gender: n
+    notes:
+      en: "das historische Rathaus = the historic town hall"
+      ko: "역사적 시청"
+  - german: "die Markthalle, -n"
+    translation:
+      en: "market hall"
+      ko: "시장 건물"
+    gender: f
+    notes:
+      en: "eine überdachte Markthalle = a covered market hall"
+      ko: "실내 시장"
+  - german: "das Lagerhaus, Lagerhäuser"
+    translation:
+      en: "warehouse"
+      ko: "창고"
+    gender: n
+    notes:
+      en: "die Speicherstadt in Hamburg = the warehouse district in Hamburg"
+      ko: "함부르크의 창고 지구"
+  - german: "der Turm, Türme"
+    translation:
+      en: "tower"
+      ko: "탑"
+    gender: m
+    notes:
+      en: "der Glockenturm = bell tower"
+      ko: "der Glockenturm = 종탑"
+  - german: "der Pavillon, -s"
+    translation:
+      en: "pavilion"
+      ko: "파빌리온"
+    gender: m
+    notes:
+      en: "der Gartenpavillon = garden pavilion"
+      ko: "정원 파빌리온"
+  - german: "die Kapelle, -n"
+    translation:
+      en: "chapel"
+      ko: "예배당"
+    gender: f
+    notes:
+      en: "die Schlosskapelle = palace chapel"
+      ko: "궁전 예배당"
+  - german: "das Gewächshaus, Gewächshäuser"
+    translation:
+      en: "greenhouse"
+      ko: "온실"
+    gender: n
+    notes:
+      en: "ein beheiztes Gewächshaus = a heated greenhouse"
+      ko: "난방 온실"
+  - german: "das Reihenhaus, Reihenhäuser"
+    translation:
+      en: "terraced house / row house"
+      ko: "연립주택"
+    gender: n
+    notes:
+      en: "eine Reihenhaussiedlung = a terraced housing estate"
+      ko: "연립주택 단지"
+  - german: "die Mietskaserne, -n"
+    translation:
+      en: "tenement building"
+      ko: "다세대 임대 건물"
+    gender: f
+    notes:
+      en: "die Berliner Mietskaserne = Berlin tenement building"
+      ko: "베를린의 다세대 임대 건물"
+  - german: "das Einfamilienhaus, Einfamilienhäuser"
+    translation:
+      en: "single-family house"
+      ko: "단독주택"
+    gender: n
+    notes:
+      en: "ein freistehendes Einfamilienhaus = a detached house"
+      ko: "독립 단독주택"
+  - german: "das Mehrfamilienhaus, Mehrfamilienhäuser"
+    translation:
+      en: "apartment building"
+      ko: "다세대주택"
+    gender: n
+    notes:
+      en: "ein saniertes Mehrfamilienhaus = a renovated apartment building"
+      ko: "리모델링된 다세대주택"
+  - german: "die Tiefgarage, -n"
+    translation:
+      en: "underground parking garage"
+      ko: "지하 주차장"
+    gender: f
+    notes:
+      en: "die Einfahrt zur Tiefgarage = entrance to underground parking"
+      ko: "지하 주차장 입구"
+  - german: "der Denkmalschutz"
+    translation:
+      en: "monument protection / listed building status"
+      ko: "문화재 보호"
+    gender: m
+    notes:
+      en: "unter Denkmalschutz stehen = to be a listed building"
+      ko: "문화재로 지정되어 있다"
+- id: baustile
+  label:
+    en: "Architectural Styles (Baustile)"
+    ko: "건축 양식 (Baustile)"
+  type: vocabulary
+  words:
+  - german: "die Gotik"
+    translation:
+      en: "Gothic (architecture)"
+      ko: "고딕 양식"
+    gender: f
+    notes:
+      en: "gotisch = Gothic (adj.)"
+      ko: "gotisch = 고딕의"
+  - german: "die Romanik"
+    translation:
+      en: "Romanesque"
+      ko: "로마네스크 양식"
+    gender: f
+    notes:
+      en: "romanisch = Romanesque (adj.)"
+      ko: "romanisch = 로마네스크의"
+  - german: "der Barock"
+    translation:
+      en: "Baroque"
+      ko: "바로크 양식"
+    gender: m
+    notes:
+      en: "das Barockschloss = Baroque palace"
+      ko: "das Barockschloss = 바로크 궁전"
+  - german: "der Jugendstil"
+    translation:
+      en: "Art Nouveau"
+      ko: "유겐트슈틸 / 아르누보"
+    gender: m
+    notes:
+      en: "German variant of Art Nouveau (c. 1890-1910)"
+      ko: "아르누보의 독일 변형 (약 1890-1910)"
+  - german: "der Klassizismus"
+    translation:
+      en: "Classicism / Neoclassicism"
+      ko: "고전주의"
+    gender: m
+    notes:
+      en: "klassizistisch = neoclassical"
+      ko: "klassizistisch = 신고전주의적인"
+  - german: "die Moderne"
+    translation:
+      en: "modernism"
+      ko: "모더니즘"
+    gender: f
+    notes:
+      en: "die klassische Moderne = classical modernism"
+      ko: "die klassische Moderne = 고전적 모더니즘"
+  - german: "die Postmoderne"
+    translation:
+      en: "postmodernism"
+      ko: "포스트모더니즘"
+    gender: f
+    notes:
+      en: "postmodern = postmodern"
+      ko: "postmodern = 포스트모던의"
+  - german: "der Brutalismus"
+    translation:
+      en: "brutalism"
+      ko: "브루탈리즘"
+    gender: m
+    notes:
+      en: "Raw concrete (béton brut) as design element"
+      ko: "원시 콘크리트(béton brut)를 디자인 요소로 사용"
+  - german: "der Funktionalismus"
+    translation:
+      en: "functionalism"
+      ko: "기능주의"
+    gender: m
+    notes:
+      en: "Form follows function"
+      ko: "형태는 기능을 따른다"
+  - german: "die Renaissance"
+    translation:
+      en: "Renaissance"
+      ko: "르네상스"
+    gender: f
+    notes:
+      en: "die Renaissancearchitektur = Renaissance architecture"
+      ko: "die Renaissancearchitektur = 르네상스 건축"
+  - german: "der Historismus"
+    translation:
+      en: "historicism"
+      ko: "역사주의"
+    gender: m
+    notes:
+      en: "Revival of historical styles in the 19th century"
+      ko: "19세기 역사적 양식의 부활"
+  - german: "minimalistisch"
+    translation:
+      en: "minimalist"
+      ko: "미니멀리스트의"
+    gender: null
+    notes:
+      en: "der Minimalismus = minimalism"
+      ko: "der Minimalismus = 미니멀리즘"
+  - german: "ornamental"
+    translation:
+      en: "ornamental"
+      ko: "장식적인"
+    gender: null
+    notes:
+      en: "das Ornament = ornament"
+      ko: "das Ornament = 장식"
+  - german: "der Dekonstruktivismus"
+    translation:
+      en: "deconstructivism"
+      ko: "해체주의"
+    gender: m
+    notes:
+      en: "Asymmetric, fragmented architectural forms"
+      ko: "비대칭적이고 파편화된 건축 형태"
+  - german: "die Renaissance (Architektur)"
+    translation:
+      en: "Renaissance (architecture)"
+      ko: "르네상스 (건축)"
+    gender: f
+    notes:
+      en: "die Renaissance-Architektur = Renaissance architecture"
+      ko: "르네상스 건축"
+  - german: "der Klassizismus"
+    translation:
+      en: "Classicism (architecture)"
+      ko: "고전주의 (건축)"
+    gender: m
+    notes:
+      en: "klassizistisch = classicist"
+      ko: "klassizistisch = 고전주의적인"
+  - german: "der Historismus"
+    translation:
+      en: "Historicism"
+      ko: "역사주의"
+    gender: m
+    notes:
+      en: "historistische Architektur = historicist architecture"
+      ko: "역사주의 건축"
+  - german: "der Brutalismus"
+    translation:
+      en: "Brutalism"
+      ko: "브루탈리즘"
+    gender: m
+    notes:
+      en: "brutalistisch = Brutalist"
+      ko: "brutalistisch = 브루탈리즘의"
+  - german: "der Funktionalismus"
+    translation:
+      en: "Functionalism"
+      ko: "기능주의"
+    gender: m
+    notes:
+      en: "funktionalistisch = functionalist"
+      ko: "funktionalistisch = 기능주의적인"
+  - german: "der Dekonstruktivismus"
+    translation:
+      en: "Deconstructivism"
+      ko: "해체주의"
+    gender: m
+    notes:
+      en: "dekonstruktivistisch = deconstructivist"
+      ko: "dekonstruktivistisch = 해체주의적인"
+  - german: "die Neugotik"
+    translation:
+      en: "Neo-Gothic"
+      ko: "네오고딕"
+    gender: f
+    notes:
+      en: "neugotisch = Neo-Gothic (adj.)"
+      ko: "neugotisch = 네오고딕의"
+  - german: "die Backsteingotik"
+    translation:
+      en: "Brick Gothic"
+      ko: "벽돌 고딕"
+    gender: f
+    notes:
+      en: "typisch für Norddeutschland = typical of Northern Germany"
+      ko: "북독일의 전형적 양식"
+  - german: "der Rokoko"
+    translation:
+      en: "Rococo"
+      ko: "로코코"
+    gender: m
+    notes:
+      en: "die Rokoko-Ornamentik = Rococo ornamentation"
+      ko: "로코코 장식"
+  - german: "der Neoklassizismus"
+    translation:
+      en: "Neoclassicism"
+      ko: "신고전주의"
+    gender: m
+    notes:
+      en: "neoklassizistisch = neoclassical"
+      ko: "neoklassizistisch = 신고전주의적인"
+  - german: "die Postmoderne (Architektur)"
+    translation:
+      en: "Postmodern architecture"
+      ko: "포스트모던 건축"
+    gender: f
+    notes:
+      en: "postmoderne Architektur = postmodern architecture"
+      ko: "포스트모던 건축"
+  - german: "der Expressionismus (Architektur)"
+    translation:
+      en: "Expressionism (architecture)"
+      ko: "표현주의 (건축)"
+    gender: m
+    notes:
+      en: "expressionistische Architektur = Expressionist architecture"
+      ko: "표현주의 건축"
+  - german: "organisch"
+    translation:
+      en: "organic (architecture)"
+      ko: "유기적인"
+    gender: null
+    notes:
+      en: "die organische Architektur = organic architecture"
+      ko: "유기적 건축"
+  - german: "die Ornamentik"
+    translation:
+      en: "ornamentation"
+      ko: "장식"
+    gender: f
+    notes:
+      en: "die florale Ornamentik = floral ornamentation"
+      ko: "꽃무늬 장식"
+  - german: "symmetrisch"
+    translation:
+      en: "symmetrical"
+      ko: "대칭적인"
+    gender: null
+    notes:
+      en: "die Symmetrie = symmetry"
+      ko: "die Symmetrie = 대칭"
+  - german: "die Fassade, -n"
+    translation:
+      en: "facade"
+      ko: "파사드 / 외관"
+    gender: f
+    notes:
+      en: "die Glasfassade = glass facade"
+      ko: "유리 파사드"
+  - german: "der Giebel, -"
+    translation:
+      en: "gable"
+      ko: "박공"
+    gender: m
+    notes:
+      en: "der Treppengiebel = stepped gable"
+      ko: "der Treppengiebel = 계단형 박공"
+  - german: "die Kuppel, -n"
+    translation:
+      en: "dome / cupola"
+      ko: "돔"
+    gender: f
+    notes:
+      en: "die Kuppel des Doms = the dome of the cathedral"
+      ko: "성당의 돔"
+  - german: "das Gewölbe, -"
+    translation:
+      en: "vault"
+      ko: "궁륭 / 볼트"
+    gender: n
+    notes:
+      en: "das Kreuzrippengewölbe = ribbed vault"
+      ko: "늑골 궁륭"
+  - german: "die Säulenordnung, -en"
+    translation:
+      en: "order of columns"
+      ko: "기둥 양식"
+    gender: f
+    notes:
+      en: "dorisch, ionisch, korinthisch = Doric, Ionic, Corinthian"
+      ko: "도리아식, 이오니아식, 코린트식"
+  - german: "der Erker, -"
+    translation:
+      en: "bay window / oriel"
+      ko: "출창"
+    gender: m
+    notes:
+      en: "ein gotischer Erker = a Gothic bay window"
+      ko: "고딕 출창"
+  - german: "die Arkade, -n"
+    translation:
+      en: "arcade"
+      ko: "아케이드"
+    gender: f
+    notes:
+      en: "eine Bogenarkade = a round-arched arcade"
+      ko: "아치형 아케이드"
+- id: konstruktion
+  label:
+    en: "Construction (Konstruktion)"
+    ko: "건설 (Konstruktion)"
+  type: vocabulary
+  words:
+  - german: "das Fundament, -e"
+    translation:
+      en: "foundation"
+      ko: "기초"
+    gender: n
+    notes:
+      en: "das Fundament legen = to lay the foundation"
+      ko: "das Fundament legen = 기초를 놓다"
+  - german: "der Beton"
+    translation:
+      en: "concrete"
+      ko: "콘크리트"
+    gender: m
+    notes:
+      en: "der Stahlbeton = reinforced concrete"
+      ko: "der Stahlbeton = 철근 콘크리트"
+  - german: "der Stahl"
+    translation:
+      en: "steel"
+      ko: "강철"
+    gender: m
+    notes:
+      en: "die Stahlkonstruktion = steel construction"
+      ko: "die Stahlkonstruktion = 강철 구조물"
+  - german: "der Ziegel, -"
+    translation:
+      en: "brick"
+      ko: "벽돌"
+    gender: m
+    notes:
+      en: "der Backsteinbau = brick building"
+      ko: "der Backsteinbau = 벽돌 건물"
+  - german: "die Fassade, -n"
+    translation:
+      en: "facade"
+      ko: "외벽 / 파사드"
+    gender: f
+    notes:
+      en: "die Glasfassade = glass facade"
+      ko: "die Glasfassade = 유리 파사드"
+  - german: "das Gerüst, -e"
+    translation:
+      en: "scaffolding"
+      ko: "비계"
+    gender: n
+    notes:
+      en: "ein Gerüst aufstellen = to erect scaffolding"
+      ko: "ein Gerüst aufstellen = 비계를 세우다"
+  - german: "der Grundriss, -e"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: m
+    notes:
+      en: "den Grundriss zeichnen = to draw the floor plan"
+      ko: "den Grundriss zeichnen = 평면도를 그리다"
+  - german: "die Statik"
+    translation:
+      en: "structural engineering / statics"
+      ko: "구조 역학"
+    gender: f
+    notes:
+      en: "statisch = structural / static"
+      ko: "statisch = 구조적인"
+  - german: "der Architekt, -en"
+    translation:
+      en: "architect (m)"
+      ko: "건축가 (남)"
+    gender: m
+    notes:
+      en: "die Architektin = architect (f)"
+      ko: "die Architektin = 건축가 (여)"
+  - german: "die Baugrube, -n"
+    translation:
+      en: "excavation pit"
+      ko: "굴착 구덩이"
+    gender: f
+    notes:
+      en: "die Baugrube ausheben = to dig the excavation"
+      ko: "die Baugrube ausheben = 굴착하다"
+  - german: "die Sanierung, -en"
+    translation:
+      en: "renovation / restoration"
+      ko: "보수 / 개보수"
+    gender: f
+    notes:
+      en: "sanieren = to renovate"
+      ko: "sanieren = 보수하다"
+  - german: "die Tragfähigkeit"
+    translation:
+      en: "load-bearing capacity"
+      ko: "하중 지지력"
+    gender: f
+    notes:
+      en: "tragfähig = load-bearing"
+      ko: "tragfähig = 하중을 지탱하는"
+  - german: "der Entwurf, Entwürfe"
+    translation:
+      en: "design / draft"
+      ko: "설계 / 초안"
+    gender: m
+    notes:
+      en: "entwerfen = to design"
+      ko: "entwerfen = 설계하다"
+  - german: "die Baugenehmigung, -en"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: f
+    notes:
+      en: "eine Baugenehmigung beantragen = to apply for a building permit"
+      ko: "eine Baugenehmigung beantragen = 건축 허가를 신청하다"
+  - german: "abreißen"
+    translation:
+      en: "to demolish"
+      ko: "철거하다"
+    gender: null
+    notes:
+      en: "der Abriss = demolition"
+      ko: "der Abriss = 철거"
+  - german: "die Dämmung, -en"
+    translation:
+      en: "insulation"
+      ko: "단열재"
+    gender: f
+    notes:
+      en: "die Wärmedämmung = thermal insulation"
+      ko: "die Wärmedämmung = 열 단열"
+  - german: "der Rohbau, -ten"
+    translation:
+      en: "shell construction"
+      ko: "골조 공사"
+    gender: m
+    notes:
+      en: "das Richtfest = topping-out ceremony"
+      ko: "das Richtfest = 상량식"
+  - german: "die Statik"
+    translation:
+      en: "structural engineering / statics"
+      ko: "구조역학"
+    gender: f
+    notes:
+      en: "die statische Berechnung = structural calculation"
+      ko: "구조 계산"
+  - german: "die Bewehrung, -en"
+    translation:
+      en: "reinforcement (concrete)"
+      ko: "철근 보강"
+    gender: f
+    notes:
+      en: "die Stahlbewehrung = steel reinforcement"
+      ko: "철근 보강"
+  - german: "der Beton"
+    translation:
+      en: "concrete"
+      ko: "콘크리트"
+    gender: m
+    notes:
+      en: "der Stahlbeton = reinforced concrete"
+      ko: "der Stahlbeton = 철근 콘크리트"
+  - german: "der Mörtel"
+    translation:
+      en: "mortar"
+      ko: "모르타르"
+    gender: m
+    notes:
+      en: "den Mörtel anrühren = to mix mortar"
+      ko: "모르타르를 섞다"
+  - german: "die Schalung, -en"
+    translation:
+      en: "formwork / shuttering"
+      ko: "거푸집"
+    gender: f
+    notes:
+      en: "die Betonschalung = concrete formwork"
+      ko: "콘크리트 거푸집"
+  - german: "der Dachstuhl, Dachstühle"
+    translation:
+      en: "roof truss"
+      ko: "지붕틀"
+    gender: m
+    notes:
+      en: "einen Dachstuhl errichten = to erect a roof truss"
+      ko: "지붕틀을 세우다"
+  - german: "die Abdichtung, -en"
+    translation:
+      en: "waterproofing / sealing"
+      ko: "방수"
+    gender: f
+    notes:
+      en: "die Bauwerksabdichtung = building waterproofing"
+      ko: "건물 방수"
+  - german: "die Wärmedämmung"
+    translation:
+      en: "thermal insulation"
+      ko: "단열"
+    gender: f
+    notes:
+      en: "die Wärmedämmung verbessern = to improve thermal insulation"
+      ko: "단열을 개선하다"
+  - german: "der Estrich, -e"
+    translation:
+      en: "screed / floor finish"
+      ko: "바닥재"
+    gender: m
+    notes:
+      en: "den Estrich verlegen = to lay screed"
+      ko: "바닥재를 깔다"
+  - german: "die Trockenbauweise"
+    translation:
+      en: "drywall construction"
+      ko: "건식 공법"
+    gender: f
+    notes:
+      en: "der Trockenbau = drywall"
+      ko: "건식 벽체 공사"
+  - german: "der Grundriss, -e"
+    translation:
+      en: "floor plan"
+      ko: "평면도"
+    gender: m
+    notes:
+      en: "einen Grundriss zeichnen = to draw a floor plan"
+      ko: "평면도를 그리다"
+  - german: "die Baugrube, -n"
+    translation:
+      en: "excavation pit"
+      ko: "굴착 현장"
+    gender: f
+    notes:
+      en: "die Baugrube ausheben = to excavate the building pit"
+      ko: "건축 현장을 굴착하다"
+  - german: "die Tragfähigkeit"
+    translation:
+      en: "load-bearing capacity"
+      ko: "내하력"
+    gender: f
+    notes:
+      en: "die Tragfähigkeit des Bodens = the load-bearing capacity of the ground"
+      ko: "지반의 내하력"
+  - german: "der Stahlträger, -"
+    translation:
+      en: "steel beam / girder"
+      ko: "강철 보"
+    gender: m
+    notes:
+      en: "einen Stahlträger einsetzen = to insert a steel beam"
+      ko: "강철 보를 설치하다"
+  - german: "die Verglasung, -en"
+    translation:
+      en: "glazing"
+      ko: "유리공사"
+    gender: f
+    notes:
+      en: "die Dreifachverglasung = triple glazing"
+      ko: "삼중 유리"
+  - german: "das Baumaterial, -ien"
+    translation:
+      en: "building material"
+      ko: "건축 자재"
+    gender: n
+    notes:
+      en: "nachhaltige Baumaterialien = sustainable building materials"
+      ko: "지속 가능한 건축 자재"
+  - german: "der Querschnitt, -e"
+    translation:
+      en: "cross-section"
+      ko: "단면도"
+    gender: m
+    notes:
+      en: "den Querschnitt eines Gebäudes = cross-section of a building"
+      ko: "건물의 단면도"
+  - german: "abreißen"
+    translation:
+      en: "to demolish"
+      ko: "철거하다"
+    gender: null
+    notes:
+      en: "der Abriss = demolition"
+      ko: "der Abriss = 철거"
+  - german: "sanieren"
+    translation:
+      en: "to renovate / refurbish"
+      ko: "보수하다"
+    gender: null
+    notes:
+      en: "die Altbausanierung = renovation of old buildings"
+      ko: "die Altbausanierung = 구건물 보수"
+  - german: "die Brandschutzmauer, -n"
+    translation:
+      en: "firewall / fire barrier"
+      ko: "방화벽"
+    gender: f
+    notes:
+      en: "der Brandschutz = fire protection"
+      ko: "der Brandschutz = 방화"
+- id: stadtplanung
+  label:
+    en: "Urban Planning (Stadtplanung)"
+    ko: "도시 계획 (Stadtplanung)"
+  type: vocabulary
+  words:
+  - german: "die Stadtplanung"
+    translation:
+      en: "urban planning"
+      ko: "도시 계획"
+    gender: f
+    notes:
+      en: "der Stadtplaner = urban planner"
+      ko: "der Stadtplaner = 도시 계획가"
+  - german: "die Infrastruktur, -en"
+    translation:
+      en: "infrastructure"
+      ko: "인프라"
+    gender: f
+    notes:
+      en: "die Verkehrsinfrastruktur = transport infrastructure"
+      ko: "die Verkehrsinfrastruktur = 교통 인프라"
+  - german: "das Wohngebiet, -e"
+    translation:
+      en: "residential area"
+      ko: "주거 지역"
+    gender: n
+    notes:
+      en: "das Gewerbegebiet = commercial area"
+      ko: "das Gewerbegebiet = 상업 지역"
+  - german: "der Flächennutzungsplan, Flächennutzungspläne"
+    translation:
+      en: "land use plan"
+      ko: "토지 이용 계획"
+    gender: m
+    notes:
+      en: "der Bebauungsplan = development plan"
+      ko: "der Bebauungsplan = 건축 계획"
+  - german: "die Grünfläche, -n"
+    translation:
+      en: "green space"
+      ko: "녹지"
+    gender: f
+    notes:
+      en: "öffentliche Grünflächen = public green spaces"
+      ko: "öffentliche Grünflächen = 공공 녹지"
+  - german: "die Verdichtung"
+    translation:
+      en: "densification"
+      ko: "고밀도화"
+    gender: f
+    notes:
+      en: "die städtische Verdichtung = urban densification"
+      ko: "die städtische Verdichtung = 도시 고밀도화"
+  - german: "die Gentrifizierung"
+    translation:
+      en: "gentrification"
+      ko: "젠트리피케이션"
+    gender: f
+    notes:
+      en: "soziale Verdrängung = social displacement"
+      ko: "soziale Verdrängung = 사회적 이주"
+  - german: "die Fußgängerzone, -n"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 구역"
+    gender: f
+    notes:
+      en: "die Fußgängerzone einrichten = to establish a pedestrian zone"
+      ko: "die Fußgängerzone einrichten = 보행자 구역을 조성하다"
+  - german: "der Nahverkehr"
+    translation:
+      en: "local public transport"
+      ko: "근거리 대중교통"
+    gender: m
+    notes:
+      en: "der ÖPNV = öffentlicher Personennahverkehr"
+      ko: "der ÖPNV = 공공 근거리 여객 수송"
+  - german: "die Brachfläche, -n"
+    translation:
+      en: "brownfield / wasteland"
+      ko: "유휴지"
+    gender: f
+    notes:
+      en: "Brachflächen umnutzen = to repurpose brownfields"
+      ko: "Brachflächen umnutzen = 유휴지를 재활용하다"
+  - german: "die Stadtentwicklung"
+    translation:
+      en: "urban development"
+      ko: "도시 개발"
+    gender: f
+    notes:
+      en: "nachhaltige Stadtentwicklung = sustainable urban development"
+      ko: "nachhaltige Stadtentwicklung = 지속 가능한 도시 개발"
+  - german: "die Mischnutzung"
+    translation:
+      en: "mixed use"
+      ko: "복합 용도"
+    gender: f
+    notes:
+      en: "ein Gebäude mit Mischnutzung = a mixed-use building"
+      ko: "ein Gebäude mit Mischnutzung = 복합 용도 건물"
+  - german: "die Bauordnung, -en"
+    translation:
+      en: "building code"
+      ko: "건축 법규"
+    gender: f
+    notes:
+      en: "die Landesbauordnung = state building code"
+      ko: "die Landesbauordnung = 주 건축 법규"
+  - german: "die Zersiedelung"
+    translation:
+      en: "urban sprawl"
+      ko: "도시 스프롤"
+    gender: f
+    notes:
+      en: "die Zersiedelung bekämpfen = to combat urban sprawl"
+      ko: "die Zersiedelung bekämpfen = 도시 스프롤에 대응하다"
+  - german: "barrierefrei"
+    translation:
+      en: "accessible / barrier-free"
+      ko: "무장애의"
+    gender: null
+    notes:
+      en: "die Barrierefreiheit = accessibility"
+      ko: "die Barrierefreiheit = 접근성"
+  - german: "der Leerstand"
+    translation:
+      en: "vacancy (buildings)"
+      ko: "공실"
+    gender: m
+    notes:
+      en: "Gebäude stehen leer = buildings are vacant"
+      ko: "Gebäude stehen leer = 건물이 비어 있다"
+  - german: "der Bebauungsplan, Bebauungspläne"
+    translation:
+      en: "zoning plan / development plan"
+      ko: "건축 규제 계획"
+    gender: m
+    notes:
+      en: "den Bebauungsplan aufstellen = to draw up a zoning plan"
+      ko: "건축 규제 계획을 수립하다"
+  - german: "die Flächennutzung"
+    translation:
+      en: "land use"
+      ko: "토지 이용"
+    gender: f
+    notes:
+      en: "der Flächennutzungsplan = land use plan"
+      ko: "토지 이용 계획"
+  - german: "die Siedlung, -en"
+    translation:
+      en: "settlement / housing estate"
+      ko: "주거 단지"
+    gender: f
+    notes:
+      en: "eine neue Siedlung errichten = to build a new housing estate"
+      ko: "새 주거 단지를 건설하다"
+  - german: "das Stadtbild"
+    translation:
+      en: "cityscape / townscape"
+      ko: "도시 경관"
+    gender: n
+    notes:
+      en: "das historische Stadtbild = the historic cityscape"
+      ko: "역사적 도시 경관"
+  - german: "die Gentrifizierung"
+    translation:
+      en: "gentrification"
+      ko: "젠트리피케이션"
+    gender: f
+    notes:
+      en: "die Gentrifizierung bekämpfen = to fight gentrification"
+      ko: "젠트리피케이션에 대항하다"
+  - german: "die Mischnutzung"
+    translation:
+      en: "mixed-use (planning)"
+      ko: "복합 용도"
+    gender: f
+    notes:
+      en: "ein Mischnutzungsgebiet = a mixed-use area"
+      ko: "복합 용도 지역"
+  - german: "der öffentliche Nahverkehr"
+    translation:
+      en: "public transit"
+      ko: "대중교통"
+    gender: m
+    notes:
+      en: "der ÖPNV = local public transport"
+      ko: "지역 대중교통"
+  - german: "die Verkehrsberuhigung"
+    translation:
+      en: "traffic calming"
+      ko: "교통 정온화"
+    gender: f
+    notes:
+      en: "eine verkehrsberuhigte Zone = a traffic-calmed zone"
+      ko: "교통 정온화 구역"
+  - german: "die Fußgängerzone, -n"
+    translation:
+      en: "pedestrian zone"
+      ko: "보행자 구역"
+    gender: f
+    notes:
+      en: "eine autofreie Fußgängerzone = a car-free pedestrian zone"
+      ko: "차 없는 보행자 구역"
+  - german: "die Baulücke, -n"
+    translation:
+      en: "building gap / empty lot"
+      ko: "건축 공지"
+    gender: f
+    notes:
+      en: "eine Baulücke schließen = to fill a building gap"
+      ko: "건축 공지를 메우다"
+  - german: "der Flächenverbrauch"
+    translation:
+      en: "land consumption"
+      ko: "토지 소비"
+    gender: m
+    notes:
+      en: "den Flächenverbrauch reduzieren = to reduce land consumption"
+      ko: "토지 소비를 줄이다"
+  - german: "die Stadtentwicklung"
+    translation:
+      en: "urban development"
+      ko: "도시 개발"
+    gender: f
+    notes:
+      en: "die nachhaltige Stadtentwicklung = sustainable urban development"
+      ko: "지속 가능한 도시 개발"
+  - german: "die Baugenehmigung, -en"
+    translation:
+      en: "building permit"
+      ko: "건축 허가"
+    gender: f
+    notes:
+      en: "eine Baugenehmigung beantragen = to apply for a building permit"
+      ko: "건축 허가를 신청하다"
+  - german: "der Leerstand, Leerstände"
+    translation:
+      en: "vacancy (building)"
+      ko: "빈 건물"
+    gender: m
+    notes:
+      en: "der Leerstand von Wohnungen = vacancy of apartments"
+      ko: "주택 공실"
+  - german: "die Infrastruktur, -en"
+    translation:
+      en: "infrastructure"
+      ko: "인프라"
+    gender: f
+    notes:
+      en: "die soziale Infrastruktur = social infrastructure"
+      ko: "사회 인프라"
+  - german: "die Raumplanung"
+    translation:
+      en: "spatial planning"
+      ko: "공간 계획"
+    gender: f
+    notes:
+      en: "die Raumordnung = spatial organization"
+      ko: "공간 질서"
+  - german: "die Verdichtung"
+    translation:
+      en: "densification"
+      ko: "밀집 개발"
+    gender: f
+    notes:
+      en: "die städtebauliche Verdichtung = urban densification"
+      ko: "도시 밀집 개발"
+  - german: "der Grüngürtel, -"
+    translation:
+      en: "green belt"
+      ko: "녹지 벨트"
+    gender: m
+    notes:
+      en: "den Grüngürtel schützen = to protect the green belt"
+      ko: "녹지 벨트를 보호하다"
+  - german: "die Stadterneuerung"
+    translation:
+      en: "urban renewal"
+      ko: "도시 재생"
+    gender: f
+    notes:
+      en: "die behutsame Stadterneuerung = careful urban renewal"
+      ko: "신중한 도시 재생"
+  - german: "das Quartier, -e"
+    translation:
+      en: "quarter / neighborhood"
+      ko: "지구 / 동네"
+    gender: n
+    notes:
+      en: "ein lebendiges Quartier = a vibrant neighborhood"
+      ko: "활기 있는 동네"
+- id: nachhaltigkeit
+  label:
+    en: "Sustainability (Nachhaltigkeit)"
+    ko: "지속 가능성 (Nachhaltigkeit)"
+  type: vocabulary
+  words:
+  - german: "die Nachhaltigkeit"
+    translation:
+      en: "sustainability"
+      ko: "지속 가능성"
+    gender: f
+    notes:
+      en: "nachhaltig = sustainable"
+      ko: "nachhaltig = 지속 가능한"
+  - german: "das Passivhaus, Passivhäuser"
+    translation:
+      en: "passive house"
+      ko: "패시브 하우스"
+    gender: n
+    notes:
+      en: "Extremely energy-efficient building standard"
+      ko: "매우 에너지 효율적인 건축 기준"
+  - german: "die Photovoltaikanlage, -n"
+    translation:
+      en: "photovoltaic system"
+      ko: "태양광 발전 설비"
+    gender: f
+    notes:
+      en: "die Solaranlage = solar system"
+      ko: "die Solaranlage = 태양광 시스템"
+  - german: "die Energieeffizienz"
+    translation:
+      en: "energy efficiency"
+      ko: "에너지 효율"
+    gender: f
+    notes:
+      en: "energieeffizient = energy-efficient"
+      ko: "energieeffizient = 에너지 효율적인"
+  - german: "der Energieausweis, -e"
+    translation:
+      en: "energy performance certificate"
+      ko: "에너지 성능 인증서"
+    gender: m
+    notes:
+      en: "Mandatory for selling/renting buildings in Germany"
+      ko: "독일에서 건물 매매/임대 시 의무"
+  - german: "das Gründach, Gründächer"
+    translation:
+      en: "green roof"
+      ko: "옥상 녹화"
+    gender: n
+    notes:
+      en: "die Dachbegrünung = roof greening"
+      ko: "die Dachbegrünung = 옥상 녹화"
+  - german: "die Regenwassernutzung"
+    translation:
+      en: "rainwater harvesting"
+      ko: "빗물 이용"
+    gender: f
+    notes:
+      en: "Regenwasser auffangen und nutzen"
+      ko: "빗물을 모아 사용하다"
+  - german: "der CO2-Fußabdruck"
+    translation:
+      en: "carbon footprint"
+      ko: "탄소 발자국"
+    gender: m
+    notes:
+      en: "den CO2-Fußabdruck reduzieren = to reduce the carbon footprint"
+      ko: "den CO2-Fußabdruck reduzieren = 탄소 발자국을 줄이다"
+  - german: "der Baustoff, -e"
+    translation:
+      en: "building material"
+      ko: "건축 자재"
+    gender: m
+    notes:
+      en: "nachhaltige Baustoffe = sustainable building materials"
+      ko: "nachhaltige Baustoffe = 지속 가능한 건축 자재"
+  - german: "die Wärmepumpe, -n"
+    translation:
+      en: "heat pump"
+      ko: "히트 펌프"
+    gender: f
+    notes:
+      en: "die Erdwärmepumpe = ground-source heat pump"
+      ko: "die Erdwärmepumpe = 지열 히트 펌프"
+  - german: "die Kreislaufwirtschaft"
+    translation:
+      en: "circular economy"
+      ko: "순환 경제"
+    gender: f
+    notes:
+      en: "Recycling von Baumaterialien"
+      ko: "건축 자재의 재활용"
+  - german: "der Niedrigenergiestandard"
+    translation:
+      en: "low-energy standard"
+      ko: "저에너지 기준"
+    gender: m
+    notes:
+      en: "der Nullenergiestandard = zero-energy standard"
+      ko: "der Nullenergiestandard = 제로 에너지 기준"
+  - german: "die Fassadenbegrünung, -en"
+    translation:
+      en: "facade greening"
+      ko: "건물 외벽 녹화"
+    gender: f
+    notes:
+      en: "vertikale Gärten = vertical gardens"
+      ko: "vertikale Gärten = 수직 정원"
+  - german: "klimaneutral"
+    translation:
+      en: "climate-neutral"
+      ko: "탄소 중립의"
+    gender: null
+    notes:
+      en: "die Klimaneutralität = climate neutrality"
+      ko: "die Klimaneutralität = 탄소 중립"
+  - german: "ressourcenschonend"
+    translation:
+      en: "resource-efficient"
+      ko: "자원 절약적인"
+    gender: null
+    notes:
+      en: "ressourcenschonendes Bauen = resource-efficient building"
+      ko: "ressourcenschonendes Bauen = 자원 절약적 건축"
+  - german: "die Photovoltaik"
+    translation:
+      en: "photovoltaics"
+      ko: "태양광 발전"
+    gender: f
+    notes:
+      en: "die Photovoltaikanlage = photovoltaic system"
+      ko: "태양광 발전 시스템"
+  - german: "der Passivhausstandard"
+    translation:
+      en: "passive house standard"
+      ko: "패시브하우스 기준"
+    gender: m
+    notes:
+      en: "ein Passivhaus bauen = to build a passive house"
+      ko: "패시브하우스를 짓다"
+  - german: "die Regenwassernutzung"
+    translation:
+      en: "rainwater harvesting"
+      ko: "빗물 이용"
+    gender: f
+    notes:
+      en: "die Regenwassernutzung für Gärten = rainwater use for gardens"
+      ko: "정원을 위한 빗물 이용"
+  - german: "die Wärmepumpe, -n"
+    translation:
+      en: "heat pump"
+      ko: "열펌프"
+    gender: f
+    notes:
+      en: "eine Luft-Wasser-Wärmepumpe = an air-water heat pump"
+      ko: "공기-물 열펌프"
+  - german: "das Gründach, Gründächer"
+    translation:
+      en: "green roof"
+      ko: "옥상 녹화"
+    gender: n
+    notes:
+      en: "ein extensives Gründach = an extensive green roof"
+      ko: "경량 옥상 녹화"
+  - german: "die Gebäudesanierung"
+    translation:
+      en: "building renovation (energy)"
+      ko: "건물 에너지 보수"
+    gender: f
+    notes:
+      en: "die energetische Gebäudesanierung = energy-efficient building renovation"
+      ko: "에너지 효율 건물 보수"
+  - german: "der Energieausweis, -e"
+    translation:
+      en: "energy certificate"
+      ko: "에너지 인증서"
+    gender: m
+    notes:
+      en: "den Energieausweis vorlegen = to present the energy certificate"
+      ko: "에너지 인증서를 제출하다"
+  - german: "die Fernwärme"
+    translation:
+      en: "district heating"
+      ko: "지역 난방"
+    gender: f
+    notes:
+      en: "die Fernwärmeleitung = district heating pipe"
+      ko: "지역 난방 배관"
+  - german: "der Primärenergiebedarf"
+    translation:
+      en: "primary energy demand"
+      ko: "1차 에너지 수요"
+    gender: m
+    notes:
+      en: "den Primärenergiebedarf senken = to reduce primary energy demand"
+      ko: "1차 에너지 수요를 줄이다"
+  - german: "die Grauwasserrecycling"
+    translation:
+      en: "greywater recycling"
+      ko: "중수 재활용"
+    gender: n
+    notes:
+      en: "das Grauwasser wiederverwenden = to reuse greywater"
+      ko: "중수를 재사용하다"
+  - german: "der Lebenszyklus, Lebenszyklen"
+    translation:
+      en: "life cycle"
+      ko: "수명 주기"
+    gender: m
+    notes:
+      en: "die Lebenszyklusanalyse = life cycle analysis"
+      ko: "수명 주기 분석"
+  - german: "die Baubiologie"
+    translation:
+      en: "building biology"
+      ko: "건축 생물학"
+    gender: f
+    notes:
+      en: "baubiologische Materialien = building-biology materials"
+      ko: "건축 생물학적 자재"
+  - german: "die Kreislaufwirtschaft"
+    translation:
+      en: "circular economy"
+      ko: "순환 경제"
+    gender: f
+    notes:
+      en: "die Kreislaufwirtschaft im Bauwesen = circular economy in construction"
+      ko: "건설업의 순환 경제"
+  - german: "emissionsarm"
+    translation:
+      en: "low-emission"
+      ko: "저배출의"
+    gender: null
+    notes:
+      en: "emissionsarme Baustoffe = low-emission building materials"
+      ko: "저배출 건축 자재"
+  - german: "ressourcenschonend"
+    translation:
+      en: "resource-efficient"
+      ko: "자원 절약형의"
+    gender: null
+    notes:
+      en: "ressourcenschonendes Bauen = resource-efficient construction"
+      ko: "자원 절약형 건설"
+  - german: "die CO2-Bilanz, -en"
+    translation:
+      en: "carbon footprint"
+      ko: "탄소 발자국"
+    gender: f
+    notes:
+      en: "die CO2-Bilanz verbessern = to improve the carbon footprint"
+      ko: "탄소 발자국을 개선하다"
+  - german: "die Nachrüstung, -en"
+    translation:
+      en: "retrofitting"
+      ko: "개보수"
+    gender: f
+    notes:
+      en: "die energetische Nachrüstung = energy retrofitting"
+      ko: "에너지 개보수"
+  - german: "der Nullenergiehaus, Nullenergiehäuser"
+    translation:
+      en: "zero-energy house"
+      ko: "제로 에너지 주택"
+    gender: m
+    notes:
+      en: "ein Nullenergiehaus planen = to plan a zero-energy house"
+      ko: "제로 에너지 주택을 계획하다"
+  - german: "die Solararchitektur"
+    translation:
+      en: "solar architecture"
+      ko: "태양광 건축"
+    gender: f
+    notes:
+      en: "die passive Solararchitektur = passive solar architecture"
+      ko: "수동형 태양광 건축"
+  - german: "die Begrünung"
+    translation:
+      en: "greening / planting"
+      ko: "녹화"
+    gender: f
+    notes:
+      en: "die Fassadenbegrünung = facade greening"
+      ko: "외벽 녹화"
+  - german: "der Holzbau"
+    translation:
+      en: "timber construction"
+      ko: "목조 건축"
+    gender: m
+    notes:
+      en: "der mehrgeschossige Holzbau = multi-story timber construction"
+      ko: "다층 목조 건축"

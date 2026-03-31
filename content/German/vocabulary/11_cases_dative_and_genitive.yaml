@@ -1,0 +1,674 @@
+lesson: 11_Cases_Dative_and_Genitive
+lesson_number: 11
+cefr: B1
+categories:
+- id: dative_prepositions
+  label:
+    en: Dative Prepositions
+    ko: 3격(여격) 전치사
+  type: vocabulary
+  words:
+  - german: aus
+    translation:
+      en: out of, from (origin)
+      ko: ~에서, ~출신
+    gender: null
+    plural: null
+    notes:
+      en: "Always dative: Er kommt aus der Schweiz."
+  - german: bei
+    translation:
+      en: at, near, at the home of
+      ko: ~에서, ~근처에, ~집에서
+    gender: null
+    plural: null
+    notes:
+      en: "Contraction: bei + dem = beim"
+  - german: mit
+    translation:
+      en: with, by (transport)
+      ko: ~와 함께, ~로(교통수단)
+    gender: null
+    plural: null
+    notes:
+      en: "Sie faehrt mit dem Bus."
+  - german: nach
+    translation:
+      en: after, to (cities/countries)
+      ko: ~후에, ~로(도시/나라)
+    gender: null
+    plural: null
+    notes:
+      en: "nach Berlin, nach dem Essen"
+  - german: seit
+    translation:
+      en: since, for (duration)
+      ko: ~이래로, ~동안
+    gender: null
+    plural: null
+    notes:
+      en: "Seit einem Jahr lerne ich Deutsch."
+  - german: von
+    translation:
+      en: from, of, by
+      ko: ~에서, ~의, ~에 의해
+    gender: null
+    plural: null
+    notes:
+      en: "Contraction: von + dem = vom"
+  - german: zu
+    translation:
+      en: to (a person/place)
+      ko: ~에게, ~으로
+    gender: null
+    plural: null
+    notes:
+      en: "Contractions: zu + dem = zum, zu + der = zur"
+  - german: "gegenueber"
+    translation:
+      en: opposite, across from
+      ko: ~맞은편에
+    gender: null
+    plural: null
+    notes:
+      en: "Die Bank ist gegenueber dem Bahnhof."
+  - german: ab
+    translation:
+      en: from (a point in time/place)
+      ko: ~부터
+    gender: null
+    plural: null
+    notes:
+      en: "Ab dem naechsten Montag. Takes dative."
+  - german: "ausser"
+    translation:
+      en: except for, besides
+      ko: ~을 제외하고
+    gender: null
+    plural: null
+    notes:
+      en: "Ausser mir war niemand da."
+- id: genitive_prepositions
+  label:
+    en: Genitive Prepositions
+    ko: 2격(소유격) 전치사
+  type: vocabulary
+  words:
+  - german: wegen
+    translation:
+      en: because of
+      ko: ~ 때문에
+    gender: null
+    plural: null
+    notes:
+      en: "Wegen des Regens bleiben wir zu Hause."
+  - german: trotz
+    translation:
+      en: despite, in spite of
+      ko: ~에도 불구하고
+    gender: null
+    plural: null
+    notes:
+      en: "Trotz der Kaelte geht er joggen."
+  - german: "waehrend"
+    translation:
+      en: during
+      ko: ~동안
+    gender: null
+    plural: null
+    notes:
+      en: "Waehrend des Unterrichts darf man nicht essen."
+  - german: statt / anstatt
+    translation:
+      en: instead of
+      ko: ~ 대신에
+    gender: null
+    plural: null
+    notes:
+      en: "Statt eines Kuchens brachte er Blumen."
+  - german: "ausserhalb"
+    translation:
+      en: outside of
+      ko: ~바깥에
+    gender: null
+    plural: null
+    notes:
+      en: "Ausserhalb der Stadt gibt es Waelder."
+  - german: innerhalb
+    translation:
+      en: within, inside of
+      ko: ~이내에, ~안에
+    gender: null
+    plural: null
+    notes:
+      en: "Innerhalb eines Jahres hat er Deutsch gelernt."
+  - german: oberhalb
+    translation:
+      en: above
+      ko: ~위쪽에
+    gender: null
+    plural: null
+    notes:
+      en: "Oberhalb des Dorfes liegt ein See."
+  - german: unterhalb
+    translation:
+      en: below
+      ko: ~아래쪽에
+    gender: null
+    plural: null
+    notes:
+      en: "Unterhalb der Bruecke fliesst der Fluss."
+  - german: infolge
+    translation:
+      en: as a result of
+      ko: ~의 결과로
+    gender: null
+    plural: null
+    notes:
+      en: "Infolge des Unfalls gab es einen Stau."
+  - german: "anlaesslich"
+    translation:
+      en: on the occasion of
+      ko: ~을 계기로
+    gender: null
+    plural: null
+    notes:
+      en: "Anlaesslich seines Geburtstags gab es eine Feier."
+  - german: hinsichtlich
+    translation:
+      en: with regard to
+      ko: ~에 관하여
+    gender: null
+    plural: null
+    notes:
+      en: "Hinsichtlich der Kosten muss man vorsichtig sein."
+  - german: anhand
+    translation:
+      en: on the basis of, by means of
+      ko: ~에 기초하여
+    gender: null
+    plural: null
+    notes:
+      en: "Anhand der Daten koennen wir entscheiden."
+  - german: aufgrund
+    translation:
+      en: on account of, because of
+      ko: ~ 때문에, ~에 근거하여
+    gender: null
+    plural: null
+    notes:
+      en: "Aufgrund des schlechten Wetters blieben wir zu Hause."
+- id: dative_verbs
+  label:
+    en: Verbs That Take the Dative
+    ko: 3격(여격)을 취하는 동사
+  type: vocabulary
+  words:
+  - german: helfen
+    translation:
+      en: to help
+      ko: 돕다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich helfe dir. (dative object)"
+  - german: danken
+    translation:
+      en: to thank
+      ko: 감사하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich danke Ihnen."
+  - german: "gehoeren"
+    translation:
+      en: to belong to
+      ko: ~에 속하다
+    gender: null
+    plural: null
+    notes:
+      en: "Das Buch gehoert mir."
+  - german: gefallen
+    translation:
+      en: to please, to like
+      ko: 마음에 들다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Stadt gefaellt uns. (The city pleases us.)"
+  - german: schmecken
+    translation:
+      en: to taste (good to)
+      ko: 맛있다, 맛이 나다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Suppe schmeckt ihm gut."
+  - german: passen
+    translation:
+      en: to fit, to suit
+      ko: 맞다, 어울리다
+    gender: null
+    plural: null
+    notes:
+      en: "Die Schuhe passen mir nicht."
+  - german: folgen
+    translation:
+      en: to follow
+      ko: 따르다
+    gender: null
+    plural: null
+    notes:
+      en: "Der Hund folgt seinem Besitzer."
+  - german: fehlen
+    translation:
+      en: to be missing, to miss (someone)
+      ko: 없다, 그립다
+    gender: null
+    plural: null
+    notes:
+      en: "Du fehlst mir. (I miss you.)"
+  - german: gratulieren
+    translation:
+      en: to congratulate
+      ko: 축하하다
+    gender: null
+    plural: null
+    notes:
+      en: "Wir gratulieren dir zum Geburtstag!"
+  - german: vertrauen
+    translation:
+      en: to trust
+      ko: 신뢰하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich vertraue dir."
+  - german: glauben
+    translation:
+      en: to believe (someone)
+      ko: 믿다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich glaube dir. (dative for the person believed)"
+  - german: begegnen
+    translation:
+      en: to encounter, to meet
+      ko: 마주치다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich bin ihm auf der Strasse begegnet. Auxiliary: sein."
+  - german: widersprechen
+    translation:
+      en: to contradict
+      ko: 반박하다
+    gender: null
+    plural: null
+    notes:
+      en: "Er widerspricht dem Lehrer. Inseparable prefix."
+  - german: zustimmen
+    translation:
+      en: to agree
+      ko: 동의하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich stimme dir zu. Separable verb."
+  - german: aehneln
+    translation:
+      en: to resemble
+      ko: 닮다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie aehnelt ihrer Mutter."
+  - german: antworten
+    translation:
+      en: to answer
+      ko: 대답하다
+    gender: null
+    plural: null
+    notes:
+      en: "Sie antwortet dem Lehrer."
+  - german: gelingen
+    translation:
+      en: to succeed (impersonal)
+      ko: 성공하다 (비인칭)
+    gender: null
+    plural: null
+    notes:
+      en: "Es gelingt mir nicht. (I don't succeed.) Auxiliary: sein."
+  - german: misslingen
+    translation:
+      en: to fail (impersonal)
+      ko: 실패하다 (비인칭)
+    gender: null
+    plural: null
+    notes:
+      en: "Das Experiment ist ihm misslungen. Auxiliary: sein."
+  - german: schaden
+    translation:
+      en: to harm, to damage
+      ko: 해를 끼치다
+    gender: null
+    plural: null
+    notes:
+      en: "Rauchen schadet der Gesundheit."
+  - german: nuetzen / nutzen
+    translation:
+      en: to be of use to
+      ko: ~에게 도움이 되다
+    gender: null
+    plural: null
+    notes:
+      en: "Das nuetzt mir nichts."
+  - german: leidtun
+    translation:
+      en: to be sorry (impersonal)
+      ko: 미안하다
+    gender: null
+    plural: null
+    notes:
+      en: "Es tut mir leid. Separable verb."
+  - german: einfallen
+    translation:
+      en: to come to mind (impersonal)
+      ko: 떠오르다
+    gender: null
+    plural: null
+    notes:
+      en: "Mir faellt nichts ein. Separable, auxiliary: sein."
+  - german: auffallen
+    translation:
+      en: to stand out, to notice
+      ko: 눈에 띄다
+    gender: null
+    plural: null
+    notes:
+      en: "Ist dir etwas aufgefallen? Separable, auxiliary: sein."
+- id: two_way_prepositions
+  label:
+    en: Two-Way Prepositions (Wechselpraepositionen)
+    ko: 교차 전치사 (3/4격 전치사)
+  type: vocabulary
+  words:
+  - german: in
+    translation:
+      en: in, into
+      ko: ~안에, ~안으로
+    gender: null
+    plural: null
+    notes:
+      en: "Dative (Wo?): im Haus / Accusative (Wohin?): ins Haus"
+  - german: an
+    translation:
+      en: at, on (vertical surface)
+      ko: ~에, ~위에(수직면)
+    gender: null
+    plural: null
+    notes:
+      en: "Dative: am Tisch / Accusative: ans Fenster"
+  - german: auf
+    translation:
+      en: on, onto (horizontal surface)
+      ko: ~위에(수평면), ~위로
+    gender: null
+    plural: null
+    notes:
+      en: "Dative: auf dem Tisch / Accusative: auf den Tisch"
+  - german: "ueber"
+    translation:
+      en: over, above, across
+      ko: ~위에, ~넘어, ~에 대해
+    gender: null
+    plural: null
+    notes:
+      en: "Die Lampe haengt ueber dem Tisch."
+  - german: unter
+    translation:
+      en: under, below, among
+      ko: ~아래에, ~중에
+    gender: null
+    plural: null
+    notes:
+      en: "Die Katze sitzt unter dem Stuhl."
+  - german: vor
+    translation:
+      en: in front of, before, ago
+      ko: ~앞에, ~전에
+    gender: null
+    plural: null
+    notes:
+      en: "Er steht vor dem Haus. / vor einer Woche"
+  - german: hinter
+    translation:
+      en: behind
+      ko: ~뒤에
+    gender: null
+    plural: null
+    notes:
+      en: "Er wartet hinter der Tuer."
+  - german: neben
+    translation:
+      en: next to, beside
+      ko: ~옆에
+    gender: null
+    plural: null
+    notes:
+      en: "Sie sitzt neben dem Fenster."
+  - german: zwischen
+    translation:
+      en: between
+      ko: ~사이에
+    gender: null
+    plural: null
+    notes:
+      en: "Das Kind steht zwischen den Eltern."
+- id: case_nouns
+  label:
+    en: Nouns Commonly Used with Dative/Genitive
+    ko: 3격/2격과 자주 사용되는 명사
+  type: vocabulary
+  words:
+  - german: der Freund
+    translation:
+      en: friend
+      ko: 친구
+    gender: m
+    plural: Freunde
+    notes:
+      en: "Dative example: Ich gebe dem Freund ein Buch."
+  - german: die Mutter
+    translation:
+      en: mother
+      ko: 어머니
+    gender: f
+    plural: "Muetter"
+    notes:
+      en: "Genitive: der Mutter. Dative: der Mutter."
+  - german: das Kind
+    translation:
+      en: child
+      ko: 아이
+    gender: n
+    plural: Kinder
+    notes:
+      en: "Dative: dem Kind. Genitive: des Kindes."
+  - german: der Lehrer
+    translation:
+      en: teacher
+      ko: 교사
+    gender: m
+    plural: Lehrer
+    notes:
+      en: "Dative: dem Lehrer. Genitive: des Lehrers."
+  - german: die Stadt
+    translation:
+      en: city
+      ko: 도시
+    gender: f
+    plural: "Staedte"
+    notes:
+      en: "Genitive: der Stadt. Ausserhalb der Stadt."
+  - german: der Arzt
+    translation:
+      en: doctor
+      ko: 의사
+    gender: m
+    plural: "Aerzte"
+    notes:
+      en: "Dative: dem Arzt. Genitive: des Arztes."
+  - german: das Geschenk
+    translation:
+      en: gift, present
+      ko: 선물
+    gender: n
+    plural: Geschenke
+    notes:
+      en: "Dative: dem Geschenk. Ich danke dir fuer das Geschenk."
+  - german: der Bahnhof
+    translation:
+      en: train station
+      ko: 기차역
+    gender: m
+    plural: "Bahnhoefe"
+    notes:
+      en: "Gegenueber dem Bahnhof gibt es ein Hotel."
+  - german: die Gesundheit
+    translation:
+      en: health
+      ko: 건강
+    gender: f
+    plural: null
+    notes:
+      en: "No plural. Wegen der Gesundheit sollte man Sport treiben."
+  - german: der Nachbar
+    translation:
+      en: neighbor
+      ko: 이웃
+    gender: m
+    plural: Nachbarn
+    notes:
+      en: "Weak noun: des Nachbarn (genitive). Dem Nachbarn (dative)."
+  - german: das Ergebnis
+    translation:
+      en: result
+      ko: 결과
+    gender: n
+    plural: Ergebnisse
+    notes:
+      en: "Genitive: des Ergebnisses. Trotz des Ergebnisses."
+  - german: der Anfang
+    translation:
+      en: beginning
+      ko: 시작
+    gender: m
+    plural: "Anfaenge"
+    notes:
+      en: "Seit Anfang des Jahres. Genitive: des Anfangs."
+  - german: die Hilfe
+    translation:
+      en: help
+      ko: 도움
+    gender: f
+    plural: Hilfen
+    notes:
+      en: "Mit der Hilfe meiner Freunde. Dative use."
+  - german: der Grund
+    translation:
+      en: reason, ground
+      ko: 이유, 근거
+    gender: m
+    plural: "Gruende"
+    notes:
+      en: "Aufgrund des Grundes... Genitive: des Grundes."
+  - german: die Meinung
+    translation:
+      en: opinion
+      ko: 의견
+    gender: f
+    plural: Meinungen
+    notes:
+      en: "Meiner Meinung nach (in my opinion). Genitive + nach."
+  - german: die Regierung
+    translation:
+      en: government
+      ko: 정부
+    gender: f
+    plural: Regierungen
+    notes:
+      en: "Trotz der Regierung. Genitive: der Regierung."
+  - german: der Einfluss
+    translation:
+      en: influence
+      ko: 영향
+    gender: m
+    plural: "Einfluesse"
+    notes:
+      en: "Infolge des Einflusses. Genitive: des Einflusses."
+  - german: die Schwierigkeit
+    translation:
+      en: difficulty
+      ko: 어려움
+    gender: f
+    plural: Schwierigkeiten
+    notes:
+      en: "Trotz der Schwierigkeiten haben wir es geschafft."
+  - german: das Verhaeltnis
+    translation:
+      en: relationship, ratio
+      ko: 관계, 비율
+    gender: n
+    plural: Verhaeltnisse
+    notes:
+      en: "Genitive: des Verhaeltnisses. Hinsichtlich des Verhaeltnisses."
+  - german: der Vorteil
+    translation:
+      en: advantage
+      ko: 장점
+    gender: m
+    plural: Vorteile
+    notes:
+      en: "Genitive: des Vorteils. Trotz der Vorteile."
+  - german: der Nachteil
+    translation:
+      en: disadvantage
+      ko: 단점
+    gender: m
+    plural: Nachteile
+    notes:
+      en: "Genitive: des Nachteils. Trotz der Nachteile."
+  - german: die Ursache
+    translation:
+      en: cause
+      ko: 원인
+    gender: f
+    plural: Ursachen
+    notes:
+      en: "Wegen der Ursache des Problems."
+  - german: der Zeitraum
+    translation:
+      en: period of time
+      ko: 기간
+    gender: m
+    plural: "Zeitraeume"
+    notes:
+      en: "Innerhalb eines Zeitraums von drei Monaten."
+  - german: die Bedingung
+    translation:
+      en: condition
+      ko: 조건
+    gender: f
+    plural: Bedingungen
+    notes:
+      en: "Unter der Bedingung, dass... Dative use."
+  - german: das Wohl
+    translation:
+      en: well-being, welfare
+      ko: 복지, 안녕
+    gender: n
+    plural: null
+    notes:
+      en: "Zum Wohl der Kinder. Genitive: des Wohls."

@@ -1,0 +1,666 @@
+lesson: 04_Essential_Verbs_SEIN_HABEN_WERDEN
+lesson_number: 4
+cefr: A1
+categories:
+- id: 41_sein_expressions
+  label:
+    en: 4.1 SEIN (to be) Expressions
+    ko: 4.1 SEIN (이다/있다) 표현
+  type: vocabulary
+  words:
+  - german: sein
+    translation:
+      en: to be
+      ko: ~이다 / ~있다
+    gender: null
+    plural: null
+    notes:
+      en: "Most irregular verb in German; conjugation: bin, bist, ist, sind, seid, sind"
+      ko: "독일어에서 가장 불규칙적인 동사; 변화: bin, bist, ist, sind, seid, sind"
+  - german: Ich bin müde.
+    translation:
+      en: I am tired.
+      ko: 나는 피곤하다.
+    gender: null
+    plural: null
+  - german: Ich bin hungrig.
+    translation:
+      en: I am hungry.
+      ko: 나는 배고프다.
+    gender: null
+    plural: null
+  - german: Ich bin krank.
+    translation:
+      en: I am sick.
+      ko: 나는 아프다.
+    gender: null
+    plural: null
+  - german: Ich bin fertig.
+    translation:
+      en: I am done / finished.
+      ko: 나는 끝났다 / 다 했다.
+    gender: null
+    plural: null
+  - german: Ich bin bereit.
+    translation:
+      en: I am ready.
+      ko: 나는 준비됐다.
+    gender: null
+    plural: null
+  - german: Das ist richtig.
+    translation:
+      en: That is correct.
+      ko: 그것은 맞다.
+    gender: null
+    plural: null
+  - german: Das ist falsch.
+    translation:
+      en: That is wrong.
+      ko: 그것은 틀리다.
+    gender: null
+    plural: null
+  - german: Mir ist kalt.
+    translation:
+      en: I am cold.
+      ko: 나는 춥다.
+    gender: null
+    plural: null
+    notes:
+      en: "Dative construction; lit. \"to me it is cold\""
+      ko: "여격 구문; 직역 \"나에게 춥다\""
+  - german: Mir ist warm.
+    translation:
+      en: I am warm.
+      ko: 나는 덥다.
+    gender: null
+    plural: null
+    notes:
+      en: "Dative construction; lit. \"to me it is warm\""
+      ko: "여격 구문; 직역 \"나에게 덥다\""
+  - german: Ich bin froh.
+    translation:
+      en: I am glad / happy.
+      ko: 나는 기쁘다.
+    gender: null
+    plural: null
+  - german: Ich bin traurig.
+    translation:
+      en: I am sad.
+      ko: 나는 슬프다.
+    gender: null
+    plural: null
+  - german: Wir sind hier.
+    translation:
+      en: We are here.
+      ko: 우리는 여기 있다.
+    gender: null
+    plural: null
+  - german: Er ist Student.
+    translation:
+      en: He is a student.
+      ko: 그는 학생이다.
+    gender: null
+    plural: null
+    notes:
+      en: No article before professions after sein
+      ko: sein 뒤 직업 명사에는 관사 없음
+  - german: Das ist möglich.
+    translation:
+      en: That is possible.
+      ko: 그것은 가능하다.
+    gender: null
+    plural: null
+
+- id: 42_haben_expressions
+  label:
+    en: 4.2 HABEN (to have) Expressions
+    ko: 4.2 HABEN (가지다) 표현
+  type: vocabulary
+  words:
+  - german: haben
+    translation:
+      en: to have
+      ko: 가지다
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular in du/er forms; conjugation: habe, hast, hat, haben, habt, haben"
+      ko: "du/er 형태에서 불규칙; 변화: habe, hast, hat, haben, habt, haben"
+  - german: Ich habe Hunger.
+    translation:
+      en: I am hungry.
+      ko: 나는 배고프다.
+    gender: null
+    plural: null
+    notes:
+      en: "More natural than \"Ich bin hungrig\" in everyday German"
+      ko: "일상 독일어에서 \"Ich bin hungrig\"보다 더 자연스러운 표현"
+  - german: Ich habe Durst.
+    translation:
+      en: I am thirsty.
+      ko: 나는 목마르다.
+    gender: null
+    plural: null
+  - german: Ich habe Angst.
+    translation:
+      en: I am afraid.
+      ko: 나는 두렵다.
+    gender: null
+    plural: null
+  - german: Ich habe Recht.
+    translation:
+      en: I am right.
+      ko: 내가 맞다.
+    gender: null
+    plural: null
+  - german: Ich habe Glück.
+    translation:
+      en: I am lucky.
+      ko: 나는 운이 좋다.
+    gender: null
+    plural: null
+  - german: Ich habe Pech.
+    translation:
+      en: I am unlucky.
+      ko: 나는 운이 나쁘다.
+    gender: null
+    plural: null
+  - german: Ich habe Zeit.
+    translation:
+      en: I have time. / I am free.
+      ko: 나는 시간이 있다.
+    gender: null
+    plural: null
+  - german: Ich habe keine Ahnung.
+    translation:
+      en: I have no idea.
+      ko: 전혀 모르겠다.
+    gender: null
+    plural: null
+  - german: Ich habe Lust.
+    translation:
+      en: I feel like it. / I'm in the mood.
+      ko: 그러고 싶다. / 하고 싶다.
+    gender: null
+    plural: null
+    notes:
+      en: "Ich habe Lust auf Pizza. (I feel like having pizza.)"
+      ko: "Ich habe Lust auf Pizza. (피자가 먹고 싶다.)"
+  - german: Ich habe Kopfschmerzen.
+    translation:
+      en: I have a headache.
+      ko: 머리가 아프다.
+    gender: null
+    plural: null
+  - german: Ich habe Fieber.
+    translation:
+      en: I have a fever.
+      ko: 열이 있다.
+    gender: null
+    plural: null
+  - german: Ich habe eine Frage.
+    translation:
+      en: I have a question.
+      ko: 질문이 있습니다.
+    gender: null
+    plural: null
+  - german: Hast du Geschwister?
+    translation:
+      en: Do you have siblings?
+      ko: 형제자매가 있니?
+    gender: null
+    plural: null
+
+- id: 43_werden_expressions
+  label:
+    en: 4.3 WERDEN (to become) Expressions
+    ko: 4.3 WERDEN (되다) 표현
+  type: vocabulary
+  words:
+  - german: werden
+    translation:
+      en: to become / will
+      ko: ~이 되다 / ~할 것이다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change e->i; conjugation: werde, wirst, wird, werden, werdet, werden"
+      ko: "어간모음 변화 e->i; 변화: werde, wirst, wird, werden, werdet, werden"
+  - german: Es wird kalt.
+    translation:
+      en: It's getting cold.
+      ko: 추워지고 있다.
+    gender: null
+    plural: null
+    notes:
+      en: Change of state — contrast with "Es ist kalt" (it IS cold)
+      ko: 상태 변화 — "Es ist kalt" (춥다)와 대조
+  - german: Es wird spät.
+    translation:
+      en: It's getting late.
+      ko: 늦어지고 있다.
+    gender: null
+    plural: null
+  - german: Ich werde müde.
+    translation:
+      en: I'm getting tired.
+      ko: 나는 피곤해지고 있다.
+    gender: null
+    plural: null
+  - german: Sie wird Ärztin.
+    translation:
+      en: She is becoming a doctor.
+      ko: 그녀는 의사가 되고 있다.
+    gender: null
+    plural: null
+  - german: Es wird schon.
+    translation:
+      en: It'll be fine. / It'll work out.
+      ko: 다 잘 될 거야.
+    gender: null
+    plural: null
+    notes:
+      en: Common reassuring expression
+      ko: 흔한 위로 표현
+  - german: Wird gemacht!
+    translation:
+      en: Will do! / Consider it done!
+      ko: 하겠습니다! / 알겠습니다!
+    gender: null
+    plural: null
+    notes:
+      en: Informal affirmative response
+      ko: 비격식 긍정적 대답
+  - german: Es wird dunkel.
+    translation:
+      en: It's getting dark.
+      ko: 어두워지고 있다.
+    gender: null
+    plural: null
+  - german: Das Wetter wird besser.
+    translation:
+      en: The weather is getting better.
+      ko: 날씨가 좋아지고 있다.
+    gender: null
+    plural: null
+
+- id: 44_other_essential_verbs
+  label:
+    en: "4.4 Other Essential Verbs"
+    ko: "4.4 기타 필수 동사"
+  type: vocabulary
+  words:
+  - german: gehen
+    translation:
+      en: to go
+      ko: 가다
+    gender: null
+    plural: null
+    notes:
+      en: "Irregular; conjugation: gehe, gehst, geht, gehen, geht, gehen"
+      ko: "불규칙 동사; 변화: gehe, gehst, geht, gehen, geht, gehen"
+  - german: kommen
+    translation:
+      en: to come
+      ko: 오다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular present tense; conjugation: komme, kommst, kommt, kommen, kommt, kommen"
+      ko: "현재 시제 규칙 변화; 변화: komme, kommst, kommt, kommen, kommt, kommen"
+  - german: machen
+    translation:
+      en: to do, to make
+      ko: 하다, 만들다
+    gender: null
+    plural: null
+    notes:
+      en: "Very versatile verb; Was machst du? (What are you doing?)"
+      ko: "매우 다용도 동사; Was machst du? (뭐 해?)"
+  - german: sagen
+    translation:
+      en: to say, to tell
+      ko: 말하다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular verb; Er sagt die Wahrheit. (He tells the truth.)"
+      ko: "규칙 동사; Er sagt die Wahrheit. (그는 진실을 말한다.)"
+  - german: wissen
+    translation:
+      en: to know (facts)
+      ko: 알다 (사실)
+    gender: null
+    plural: null
+    notes:
+      en: "Mixed verb; conjugation: weiss, weisst, weiss, wissen, wisst, wissen"
+      ko: "혼합 동사; 변화: weiss, weisst, weiss, wissen, wisst, wissen"
+  - german: kennen
+    translation:
+      en: to know, to be familiar with
+      ko: 알다 (익숙함)
+    gender: null
+    plural: null
+    notes:
+      en: "Unlike wissen (facts), kennen means familiarity with people/places"
+      ko: "wissen(사실)과 달리 kennen은 사람/장소에 대한 친숙함을 의미"
+  - german: nehmen
+    translation:
+      en: to take
+      ko: 가져가다, 취하다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change e->i; du nimmst, er nimmt"
+      ko: "어간모음 변화 e->i; du nimmst, er nimmt"
+  - german: stehen
+    translation:
+      en: to stand
+      ko: 서다, 서 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular present tense; Das Buch steht im Regal. (The book is on the shelf.)"
+      ko: "현재 시제 규칙 변화; Das Buch steht im Regal. (책이 선반에 있다.)"
+  - german: liegen
+    translation:
+      en: to lie, to be located
+      ko: 눕다, 위치하다
+    gender: null
+    plural: null
+    notes:
+      en: "Position verb; Die Stadt liegt am Fluss. (The city is located on the river.)"
+      ko: "위치 동사; Die Stadt liegt am Fluss. (그 도시는 강가에 있다.)"
+  - german: sitzen
+    translation:
+      en: to sit
+      ko: 앉다, 앉아 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Position verb; Er sitzt am Tisch. (He is sitting at the table.)"
+      ko: "위치 동사; Er sitzt am Tisch. (그는 식탁에 앉아 있다.)"
+  - german: laufen
+    translation:
+      en: to run, to walk
+      ko: 달리다, 걷다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change a->ae; du laeufst, er laeuft"
+      ko: "어간모음 변화 a->ae; du laeufst, er laeuft"
+  - german: fahren
+    translation:
+      en: to drive, to travel (by vehicle)
+      ko: 운전하다, (탈것으로) 이동하다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change a->ae; du faehrst, er faehrt"
+      ko: "어간모음 변화 a->ae; du faehrst, er faehrt"
+  - german: fliegen
+    translation:
+      en: to fly
+      ko: 날다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular present tense; Wir fliegen morgen nach Berlin."
+      ko: "현재 시제 규칙 변화; Wir fliegen morgen nach Berlin."
+  - german: bringen
+    translation:
+      en: to bring
+      ko: 가져오다
+    gender: null
+    plural: null
+    notes:
+      en: "Mixed verb (irregular past: brachte, gebracht); Bring mir bitte Wasser."
+      ko: "혼합 동사 (불규칙 과거: brachte, gebracht); Bring mir bitte Wasser."
+  - german: halten
+    translation:
+      en: to hold, to stop
+      ko: 잡다, 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change a->ae; du haeltst, er haelt. Der Bus haelt hier."
+      ko: "어간모음 변화 a->ae; du haeltst, er haelt. Der Bus haelt hier."
+  - german: finden
+    translation:
+      en: to find
+      ko: 찾다
+    gender: null
+    plural: null
+    notes:
+      en: "Also means \"to think/consider\": Ich finde das gut. (I think that's good.)"
+      ko: "\"~라고 생각하다\"도 됨: Ich finde das gut. (그것이 좋다고 생각한다.)"
+  - german: denken
+    translation:
+      en: to think
+      ko: 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Mixed verb; irregular past: dachte, gedacht. Ich denke, also bin ich."
+      ko: "혼합 동사; 불규칙 과거: dachte, gedacht. 나는 생각한다, 고로 존재한다."
+  - german: glauben
+    translation:
+      en: to believe, to think
+      ko: 믿다, 생각하다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular verb; Ich glaube dir. (I believe you.)"
+      ko: "규칙 동사; Ich glaube dir. (나는 너를 믿는다.)"
+  - german: heißen
+    translation:
+      en: to be called, to mean
+      ko: ~라고 불리다, 의미하다
+    gender: null
+    plural: null
+    notes:
+      en: "Ich heiße Anna. / Was heißt das? (What does that mean?)"
+      ko: "내 이름은 안나입니다. / 그것은 무슨 뜻이에요?"
+  - german: schreiben
+    translation:
+      en: to write
+      ko: 쓰다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular present tense; Er schreibt einen Brief."
+      ko: "현재 시제 규칙 변화; Er schreibt einen Brief."
+  - german: lesen
+    translation:
+      en: to read
+      ko: 읽다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change e->ie; du liest, er liest"
+      ko: "어간모음 변화 e->ie; du liest, er liest"
+  - german: schlafen
+    translation:
+      en: to sleep
+      ko: 자다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change a->ae; du schlaefst, er schlaeft"
+      ko: "어간모음 변화 a->ae; du schlaefst, er schlaeft"
+
+- id: 45_modal_verbs
+  label:
+    en: 4.5 Modal Verbs
+    ko: 4.5 화법 조동사
+  type: vocabulary
+  words:
+  - german: können
+    translation:
+      en: can / to be able to
+      ko: ~할 수 있다
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: kann, kannst, kann, können, könnt, können"
+      ko: "변화: kann, kannst, kann, können, könnt, können"
+  - german: müssen
+    translation:
+      en: must / to have to
+      ko: ~해야 한다
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: muss, musst, muss, müssen, müsst, müssen"
+      ko: "변화: muss, musst, muss, müssen, müsst, müssen"
+  - german: wollen
+    translation:
+      en: to want to
+      ko: ~하고 싶다
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: will, willst, will, wollen, wollt, wollen"
+      ko: "변화: will, willst, will, wollen, wollt, wollen"
+  - german: sollen
+    translation:
+      en: should / to be supposed to
+      ko: ~해야 한다 (의무)
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: soll, sollst, soll, sollen, sollt, sollen"
+      ko: "변화: soll, sollst, soll, sollen, sollt, sollen"
+  - german: dürfen
+    translation:
+      en: may / to be allowed to
+      ko: ~해도 된다
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: darf, darfst, darf, dürfen, dürft, dürfen"
+      ko: "변화: darf, darfst, darf, dürfen, dürft, dürfen"
+  - german: mögen
+    translation:
+      en: to like
+      ko: 좋아하다
+    gender: null
+    plural: null
+    notes:
+      en: "Conjugation: mag, magst, mag, mögen, mögt, mögen. Ich mag Schokolade."
+      ko: "변화: mag, magst, mag, mögen, mögt, mögen. 나는 초콜릿을 좋아한다."
+  - german: möchten
+    translation:
+      en: would like to
+      ko: ~하고 싶다 (정중)
+    gender: null
+    plural: null
+    notes:
+      en: "Subjunctive form of mögen; Ich möchte einen Kaffee, bitte."
+      ko: "mögen의 접속법; 커피 한 잔 주세요."
+
+- id: 46_daily_life_verbs
+  label:
+    en: 4.6 Daily Life Verbs
+    ko: 4.6 일상생활 동사
+  type: vocabulary
+  words:
+  - german: essen
+    translation:
+      en: to eat
+      ko: 먹다
+    gender: null
+    plural: null
+    notes:
+      en: "Stem-vowel change e->i; du isst, er isst"
+      ko: "어간모음 변화 e->i; du isst, er isst"
+  - german: trinken
+    translation:
+      en: to drink
+      ko: 마시다
+    gender: null
+    plural: null
+  - german: kochen
+    translation:
+      en: to cook
+      ko: 요리하다
+    gender: null
+    plural: null
+    notes:
+      en: "Regular verb; Ich koche gern. (I like to cook.)"
+      ko: "규칙 동사; Ich koche gern. (나는 요리하는 것을 좋아한다.)"
+  - german: arbeiten
+    translation:
+      en: to work
+      ko: 일하다
+    gender: null
+    plural: null
+    notes:
+      en: "Extra -e- in du/er forms: arbeitest, arbeitet"
+      ko: "du/er 형태에서 -e- 삽입: arbeitest, arbeitet"
+  - german: lernen
+    translation:
+      en: to learn / to study
+      ko: 배우다 / 공부하다
+    gender: null
+    plural: null
+  - german: spielen
+    translation:
+      en: to play
+      ko: 놀다 / 연주하다
+    gender: null
+    plural: null
+  - german: kaufen
+    translation:
+      en: to buy
+      ko: 사다
+    gender: null
+    plural: null
+  - german: verkaufen
+    translation:
+      en: to sell
+      ko: 팔다
+    gender: null
+    plural: null
+    notes:
+      en: Inseparable prefix ver-; the opposite of kaufen
+      ko: 비분리 접두사 ver-; kaufen의 반대
+  - german: öffnen
+    translation:
+      en: to open
+      ko: 열다
+    gender: null
+    plural: null
+  - german: schließen
+    translation:
+      en: to close
+      ko: 닫다
+    gender: null
+    plural: null
+  - german: anfangen
+    translation:
+      en: to begin / to start
+      ko: 시작하다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable verb; Wann fängt der Film an? (When does the movie start?)"
+      ko: "분리동사; Wann fängt der Film an? (영화가 언제 시작하나요?)"
+  - german: aufhören
+    translation:
+      en: to stop / to cease
+      ko: 그만하다 / 멈추다
+    gender: null
+    plural: null
+    notes:
+      en: "Separable verb; Hör auf! (Stop it!)"
+      ko: "분리동사; Hör auf! (그만해!)"
+  - german: warten
+    translation:
+      en: to wait
+      ko: 기다리다
+    gender: null
+    plural: null
+    notes:
+      en: "Warten auf + accusative; Ich warte auf den Bus."
+      ko: "Warten auf + 목적격; 나는 버스를 기다린다."
