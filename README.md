@@ -1,11 +1,8 @@
 # Language Hub
 
-언어 학습 콘텐츠 저장소입니다. 품질 검사를 통과한 구조화된 어휘, 문법 참조, 레슨 자료를 공개합니다.
+다국어 학습을 위한 영한 레슨, 어휘, 문법 데이터를 공개하는 레포.
 
-A language learning content repository. Publishes structured vocabulary, grammar references, and lesson materials that have passed quality review.
-
-> This repository contains curated content selected from a private working repository after passing quality checks.
-> It starts empty and grows as content passes quality review.
+A public repository of bilingual (EN/KO) lessons, vocabulary, and grammar data for language learning.
 
 ---
 
